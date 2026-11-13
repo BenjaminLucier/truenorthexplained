@@ -169,7 +169,7 @@ const reference = [
           path.map((p, i) => (
             <li data-module={moduleKey(p.id)} class="relative">
               <a href={href(p.id)} class="group flex h-full gap-4 md:flex-col md:gap-3">
-                <span class="relative z-10 flex shrink-0 flex-col items-center">
+                <span class="relative z-10 flex shrink-0 flex-col items-center md:self-start">
                   <ModuleIcon name={p.data.icon} size="md" class="ring-4 ring-surface" />
                 </span>
                 <span class="min-w-0">
@@ -340,8 +340,9 @@ const reference = [
   }
   @media (min-width: 48rem) {
     .start-path li:not(:last-child)::before {
-      inset-inline-start: 2.75rem;
-      inset-inline-end: -1.5rem;
+      /* From just after this icon to just before the next one (gap is 1.5rem). */
+      inset-inline-start: calc(2.75rem + 0.75rem);
+      inset-inline-end: calc(-1.5rem + 0.75rem);
       top: calc(1.375rem - 1px);
       bottom: auto;
       width: auto;
