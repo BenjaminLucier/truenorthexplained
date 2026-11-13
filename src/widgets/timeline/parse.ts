@@ -21,6 +21,8 @@ export interface TimelineLink {
 }
 
 export interface TimelineEvent {
+  /** Unique, stable anchor for deep links (`#event-1986-r-v-oakes`). */
+  id: string;
   year: number;
   /** As written: "1867" or "1982–1987". */
   yearLabel: string;
@@ -88,11 +90,11 @@ export function parseEraList(html: string): TimelineEra[] {
       const linkHtml = firstLink >= 0 ? rest.slice(firstLink) : "";
       const links = [...linkHtml.matchAll(LINK)].map(([, href, label]) => ({ href: href ?? "", label: textOf(label ?? "") }));
       const groups = [...new Set(links.map((l) => groupForHref(l.href)).filter((g): g is string => !!g))];
-      era.events.push({ ...when, yearLabel: textOf(m[1]!), text, groups, links });
+      era.events.push({ id: "", ...when, yearLabel: textOf(m[1]!), text, groups, links });
     }
     if (era.events.length || era.title) eras.push(era);
   }
-  return eras.filter((e) => e.events.length > 0);
+  return finish(eras.filter((e) => e.events.length > 0));
 }
 
 export interface TableColumns {
@@ -128,6 +130,7 @@ export function parseTable(
     if (!when) throw new Error(`Timeline widget: row without a year: ${yearLabel}`);
     const tag = groupCol >= 0 ? textOf(cells[groupCol] ?? "") : undefined;
     events.push({
+      id: "",
       ...when,
       yearLabel,
       title: titleCol >= 0 ? cells[titleCol] : undefined,
@@ -137,7 +140,46 @@ export function parseTable(
       links: [],
     });
   }
-  return [{ events }];
+  return finish([{ events }]);
+}
+
+export const slugify = (s: string) =>
+  s
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+
+// Words that make poor anchors: articles, connectives, months and bare numbers.
+const FILLER = new Set([
+  "",
+  ..."a an s the in on of and to its is for at by as with from then that this it be are was were first last new".split(" "),
+  ..."january february march april may june july august september october november december".split(" "),
+]);
+
+/**
+ * Sorts each era's events by year (keeping the authored order within a year) and gives
+ * every event a readable, unique id: "event-", its year and a few words from its title, its
+ * group cell or its text, e.g. "event-1986-r-v-oakes" or "event-2022-ontario".
+ */
+function finish(eras: TimelineEra[]): TimelineEra[] {
+  const seen = new Map<string, number>();
+  for (const era of eras) {
+    era.events.sort((a, b) => a.year - b.year);
+    for (const e of era.events) {
+      const basis = e.title ? textOf(e.title) : (e.tag ?? textOf(e.text));
+      const words = slugify(basis)
+        .split("-")
+        .filter((w) => !FILLER.has(w) && !/^\d+$/.test(w))
+        .slice(0, e.title || e.tag ? 6 : 4);
+      const base = ["event", String(e.year), ...words].join("-");
+      const n = (seen.get(base) ?? 0) + 1;
+      seen.set(base, n);
+      e.id = n === 1 ? base : `${base}-${n}`;
+    }
+  }
+  return eras;
 }
 
 /**
