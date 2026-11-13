@@ -34,7 +34,7 @@
   year: 1986
   citation: "[1986] 1 S.C.R. 103"
   url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/117/index.do
-  sections: [doc:charter/s1]
+  sections: [doc:charter/s1, doc:charter/s11]
   tag: s. 1, s. 11(d)
   topic: the test for reasonable limits
   holding: Created the test for justifying limits on rights
@@ -102,9 +102,192 @@
   year: 2016
   citation: 2016 SCC 27, [2016] 1 S.C.R. 631
   url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/16057/index.do
-  # documents.yaml has no section 11 yet: use doc:charter/s11 here (and in r-v-oakes) once it does.
-  sections: [doc:charter]
+  sections: [doc:charter/s11]
   tag: s. 11(b)
   topic: trials within a reasonable time
   holding: Set time limits for criminal trials
   entities: [term:jordan]
+
+# Cases explained on other pages (each sets `page`, so they don't appear on
+# the landmark-cases timeline). Names, holdings and citations come from the
+# pages and glossary entries that discuss them.
+
+- id: persons-case
+  name: Persons Case
+  aliases: [Edwards v. Canada (Attorney General)]
+  year: 1929
+  # check: citation as given on the site (also flagged on /learn/constitution/constitution-act-1867)
+  citation: "[1930] A.C. 124 (P.C.)"
+  topic: women as "persons"
+  holding: Women are "persons" who can be appointed to the Senate; the Constitution is "a living tree"
+  page: /learn/constitution/constitution-act-1867#a-living-tree
+  entities: [term:persons-case, term:living-tree, org:judicial-committee-of-the-privy-council, org:senate]
+
+- id: re-eskimo-1939
+  # check: the site doesn't give this reference's formal name or citation
+  name: 1939 Inuit reference
+  year: 1939
+  sections: [doc:constitution-act-1867/s91-24]
+  holding: Inuit are "Indians" under federal power in s. 91(24)
+  page: /learn/indigenous/section-35#the-key-cases
+  entities: [term:inuit, org:supreme-court]
+
+- id: calder
+  name: Calder
+  aliases: [Calder v. British Columbia (Attorney General), Calder et al. v. Attorney-General of British Columbia]
+  year: 1973
+  citation: "[1973] S.C.R. 313"
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/5113/index.do
+  topic: Aboriginal title exists
+  holding: Aboriginal title exists in Canadian law, which pushed Ottawa to start negotiating modern treaties
+  page: /learn/indigenous/section-35#the-key-cases
+  entities: [term:calder, term:aboriginal-title]
+
+- id: patriation-reference
+  name: Patriation Reference
+  aliases: [Re Resolution to amend the Constitution]
+  year: 1981
+  citation: "[1981] 1 S.C.R. 753"
+  topic: patriation without the provinces
+  holding: Unilateral patriation would be legal but break a constitutional convention requiring a "substantial degree" of provincial consent
+  page: /learn/constitution/patriation-1982#198081-the-push-and-the-court-case
+  entities: [term:patriation-reference, term:constitutional-convention, org:supreme-court]
+
+- id: quebec-veto-reference
+  name: Quebec Veto Reference
+  aliases: [Re Objection by Quebec to a Resolution to amend the Constitution]
+  year: 1982
+  citation: "[1982] 2 S.C.R. 793"
+  topic: Quebec's veto
+  holding: Quebec had no veto over patriation by convention, so the Constitution Act, 1982 applies in Quebec
+  page: /learn/constitution/patriation-1982#1982-the-canada-act
+  entities: [term:quebec-veto-reference, org:supreme-court]
+
+- id: manitoba-language-rights-reference
+  name: Reference re Manitoba Language Rights
+  aliases: [Manitoba Language Rights Reference]
+  year: 1985
+  sections: [doc:manitoba-act-1870/s23]
+  topic: laws in English and French
+  holding: Manitoba's English-only laws were invalid; the province was given time to re-enact them in both languages
+  page: /provinces/manitoba#rights-written-into-the-founding-law
+  entities: [org:supreme-court]
+
+- id: sparrow
+  name: Sparrow
+  aliases: [R. v. Sparrow]
+  year: 1990
+  citation: "[1990] 1 S.C.R. 1075"
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/609/index.do
+  sections: [doc:constitution-act-1982/s35]
+  topic: the first s. 35 test
+  holding: Aboriginal rights can be limited only with a valid objective and in a way that respects the honour of the Crown
+  page: /learn/indigenous/section-35#the-key-cases
+  entities: [term:sparrow]
+
+- id: delgamuukw
+  name: Delgamuukw
+  aliases: [Delgamuukw v. British Columbia]
+  year: 1997
+  citation: "[1997] 3 S.C.R. 1010"
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/1569/index.do
+  sections: [doc:constitution-act-1982/s35]
+  topic: what Aboriginal title means
+  holding: Aboriginal title is a right to the land itself, and oral histories must be given real weight as evidence
+  page: /learn/indigenous/section-35#the-key-cases
+  entities: [term:delgamuukw, term:aboriginal-title]
+
+- id: r-v-marshall
+  name: R. v. Marshall
+  year: 1999
+  sections: [doc:constitution-act-1982/s35]
+  topic: treaty fishing rights
+  # check: Marshall 1999 "moderate livelihood" wording (as flagged on /learn/indigenous/treaties)
+  holding: Peace and Friendship Treaties from 1760–61 protect a Mi'kmaq right to fish and trade for a moderate livelihood
+  page: /learn/indigenous/treaties#two-ways-of-reading-the-same-treaty
+  entities: [term:treaty-rights, term:peace-and-friendship-treaties]
+
+- id: haida-nation
+  name: Haida Nation
+  aliases: [Haida Nation v. British Columbia (Minister of Forests)]
+  year: 2004
+  citation: 2004 SCC 73
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/2189/index.do
+  sections: [doc:constitution-act-1982/s35]
+  topic: the duty to consult
+  holding: The Crown must consult, and where appropriate accommodate, before acting in ways that could harm Aboriginal rights or title, even unproven ones
+  page: /learn/indigenous/section-35#the-key-cases
+  entities: [term:haida-nation, term:duty-to-consult]
+
+- id: same-sex-marriage-reference
+  name: Same-Sex Marriage Reference
+  year: 2004
+  topic: defining marriage
+  holding: Parliament can define marriage to include same-sex couples
+  page: /learn/law/supreme-court#references-answering-governments-questions
+  entities: [term:reference, org:supreme-court]
+
+- id: senate-reform-reference
+  name: Reference re Senate Reform
+  aliases: [Senate Reform Reference]
+  year: 2014
+  citation: 2014 SCC 32
+  sections: [doc:constitution-act-1982/s38, doc:constitution-act-1982/s41]
+  topic: changing the Senate
+  holding: Senate elections or term limits need the 7/50 procedure, and abolishing the Senate needs unanimity
+  page: /learn/parliament/senate#why-reform-is-so-hard
+  entities: [term:reference-re-senate-reform, org:senate, term:amending-formula]
+
+- id: tsilhqotin
+  name: Tsilhqot'in
+  aliases: [Tsilhqot'in Nation v. British Columbia]
+  year: 2014
+  citation: 2014 SCC 44
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/14246/index.do
+  sections: [doc:constitution-act-1982/s35]
+  topic: title declared
+  holding: The first time a court declared Aboriginal title to a specific area of land
+  page: /learn/indigenous/section-35#the-key-cases
+  entities: [term:tsilhqotin, term:aboriginal-title]
+
+- id: daniels
+  name: Daniels
+  aliases: [Daniels v. Canada (Indian Affairs and Northern Development)]
+  year: 2016
+  citation: 2016 SCC 12
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/15858/index.do
+  sections: [doc:constitution-act-1867/s91-24]
+  topic: who counts under s. 91(24)
+  holding: Métis and non-status Indians are "Indians" under s. 91(24), so they fall under federal jurisdiction
+  page: /learn/indigenous/section-35#the-key-cases
+  entities: [term:daniels]
+
+- id: carbon-pricing-references
+  name: References re Greenhouse Gas Pollution Pricing Act
+  aliases: [carbon pricing references]
+  year: 2021
+  citation: 2021 SCC 11
+  sections: [doc:constitution-act-1867/s91]
+  topic: carbon pricing and national concern
+  holding: Federal minimum carbon pricing was upheld under the "national concern" branch of peace, order and good government
+  page: /learn/federalism/division-of-powers#the-federal-catch-all-peace-order-and-good-government
+  entities: [term:national-concern, term:peace-order-and-good-government, org:supreme-court]
+
+- id: toronto-city-council-2021
+  name: Toronto (City) v. Ontario (Attorney General)
+  aliases: [Toronto (City) v. Ontario]
+  year: 2021
+  citation: 2021 SCC 34
+  topic: provincial power over municipalities
+  holding: Ontario was allowed to cut Toronto's city council from 47 seats to 25 in the middle of the 2018 election
+  page: /learn/federalism/municipalities#two-toronto-examples
+  entities: [term:creature-of-the-province, org:supreme-court]
+
+- id: child-and-family-services-reference-2024
+  # check: formal name and citation (flagged on /learn/indigenous/self-government: 2024 SCC 5, upheld in full)
+  name: Reference on the federal Indigenous child and family services law
+  year: 2024
+  topic: Indigenous child and family services
+  holding: The 2019 federal law on First Nations, Inuit and Métis child and family services was upheld as constitutional
+  page: /learn/indigenous/self-government#the-child-welfare-law-and-the-supreme-court
+  entities: [term:self-government, org:supreme-court]

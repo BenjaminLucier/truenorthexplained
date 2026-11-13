@@ -47,7 +47,7 @@ flowchart TD
 ### What "prescribed by law" means
 
 A limit has to have a legal basis: a statute, a regulation, a binding and accessible
-government policy, or a common-law rule. And it can't be so vague that people can't
+government policy, or a [common-law](term:common-law) rule. And it can't be so vague that people can't
 tell what's allowed. A police officer acting on a whim, with no legal authority, can't
 rely on section 1.
 
@@ -56,8 +56,8 @@ rely on section 1.
 **The case.** David Oakes was charged with possessing narcotics for the purpose of
 trafficking. Under the *Narcotic Control Act*, once the prosecution proved he
 possessed drugs, the law presumed he intended to sell them unless he proved otherwise.
-That put a burden on the accused, which conflicted with the **presumption of
-innocence** (s. 11(d)).
+That put a burden on the accused, which conflicted with the **[presumption of
+innocence](term:presumption-of-innocence)** ([s. 11(d)](doc:charter/s11)).
 
 The Supreme Court agreed it limited his right, then asked whether the limit was
 justified under section 1. To answer, it set out a test that courts still use:
@@ -66,7 +66,7 @@ justified under section 1. To answer, it set out a test that courts still use:
 |---|---|---|
 | 1. **Pressing and substantial objective** | Is the law's purpose important enough to justify limiting a right? | Is this about a real, serious problem? |
 | 2a. **Rational connection** | Is the limit logically linked to that purpose? | Does the law actually help with the problem? |
-| 2b. **Minimal impairment** | Does the law limit the right as little as reasonably possible? | Is there a clearly less harmful way that would work just as well? |
+| 2b. **[Minimal impairment](term:minimal-impairment)** | Does the law limit the right as little as reasonably possible? | Is there a clearly less harmful way that would work just as well? |
 | 2c. **Proportionality of effects** | Do the law's benefits outweigh its harmful effects on the right? | Is the cost to rights worth what we get? |
 
 The government must pass **every** step. In *Oakes*, the goal of fighting drug
@@ -92,13 +92,13 @@ presumption was struck down.
 | Case | Right limited | Outcome under s. 1 |
 |---|---|---|
 | *R. v. Oakes* (1986) | Presumption of innocence (s. 11(d)) | Not justified: struck down |
-| *R. v. Keegstra* (1990) | Freedom of expression (s. 2(b)), by the criminal ban on wilfully promoting hatred | Justified: upheld |
-| *Carter v. Canada* (2015) | Life, liberty and security of the person (s. 7), by the total ban on assisted dying | Not justified: struck down. See [Landmark cases](/learn/charter/landmark-cases). |
+| *R. v. Keegstra* (1990) | Freedom of expression ([s. 2(b)](doc:charter/s2)), by the criminal ban on wilfully promoting hatred | Justified: upheld |
+| [*Carter v. Canada*](case:carter-v-canada) (2015) | Life, liberty and security of the person ([s. 7](doc:charter/s7)), by the total ban on assisted dying | Not justified: struck down. See [Landmark cases](/learn/charter/landmark-cases). |
 
 ### Section 1 vs. section 33
 
 Section 1 is about **justifying** a limit in court. The government has to convince a judge.
-Section 33, the [notwithstanding clause](/learn/charter/notwithstanding-clause), is
+Section 33, the [notwithstanding clause](doc:charter/s33), is
 different: a legislature declares that a law operates despite certain rights, and courts
 can't strike it down on those grounds for up to five years. No justification to a court
 is required.

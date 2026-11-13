@@ -26,8 +26,8 @@ treaty rights cases are covered in [Indigenous peoples and the Crown](/learn/ind
 Big M Drug Mart, a store in Calgary, was charged with selling goods on a Sunday,
 contrary to the federal *Lord's Day Act*. The Supreme Court ruled that the Act's purpose
 was religious: to make everyone observe the Christian Sabbath. Forcing people to follow
-another group's religious practice violates **freedom of religion** (s. 2(a)), and a law
-whose very purpose is to infringe a right can't be saved under section 1. The case
+another group's religious practice violates **freedom of religion** ([s. 2(a)](doc:charter/s2)), and a law
+whose very purpose is to infringe a right can't be saved under [section 1](doc:charter/s1). The case
 also established that courts look at a law's **purpose** as well as its effects, and that
 anyone charged under a law can challenge it as unconstitutional, even a corporation that
 can't itself have a religion. (Provinces could still set common days of rest for
@@ -56,7 +56,7 @@ performed abortions outside the Criminal Code's rules, which required approval b
 hospital "therapeutic abortion committee". In a 5–2 decision, the Supreme Court struck
 down the abortion section of the Criminal Code. The majority found that the system's
 delays and uneven access threatened women's physical and psychological health, violating
-**security of the person** (s. 7) in a way that wasn't consistent with the principles of
+**security of the person** ([s. 7](doc:charter/s7)) in a way that wasn't consistent with the principles of
 fundamental justice. The judges wrote several different sets of reasons. Since then,
 Canada has had no criminal law on abortion. A replacement bill passed the House of
 Commons in 1990 but was defeated in the Senate in 1991. Abortion is regulated as a
@@ -66,12 +66,12 @@ health care matter.
 
 ### Ford v. Quebec (Attorney General) (1988): signs, expression and section 33 {#ford-v-quebec}
 
-Quebec's *Charter of the French Language* required most commercial signs to be in French
+Quebec's *[Charter of the French Language](term:charter-of-the-french-language)* required most commercial signs to be in French
 only. The Supreme Court held that **commercial expression**, such as advertising and
 signs, is protected by freedom of expression (s. 2(b)). The Court accepted that protecting
 the French language was an important goal, and said requiring French to be predominant
 could be justified, but a total ban on other languages went too far. The case also set the
-rules for the [notwithstanding clause](/learn/charter/notwithstanding-clause): using it is a
+rules for the [notwithstanding clause](doc:charter/s33): using it is a
 matter of form only, no justification is needed, and it can't be applied retroactively.
 Quebec responded by passing a new sign law using section 33.
 
@@ -83,8 +83,8 @@ Delwin Vriend was fired from his job at a private Christian college in Edmonton 
 he was gay. He tried to complain to the Alberta Human Rights Commission, but Alberta's
 human rights law didn't list sexual orientation as a protected ground, so his complaint
 couldn't proceed. The Supreme Court held that leaving sexual orientation out violated
-**equality rights** (s. 15) and wasn't justified. Rather than strike down the whole law,
-the Court **[read in](/glossary#reading-in)** sexual orientation, treating the law as if it included those words.
+**equality rights** ([s. 15](doc:charter/s15)) and wasn't justified. Rather than strike down the whole law,
+the Court **[read in](term:reading-in)** sexual orientation, treating the law as if it included those words.
 The Charter didn't apply to the college, a private employer. It applied to Alberta's
 *law*, which failed to protect him. The case is a leading example both of how the Charter
 reaches government choices about what to leave out of a law, and of reading in as a
@@ -94,15 +94,15 @@ remedy.
 
 ### Reference re Secession of Quebec (1998): can a province leave? {#secession-reference}
 
-After Quebec's 1995 referendum on sovereignty narrowly failed, the federal government
+After Quebec's [1995 referendum](event:quebec-referendum-1995) on sovereignty narrowly failed, the federal government
 asked the Supreme Court whether Quebec could secede on its own. The Court said **no
 province can secede unilaterally**, either under the Constitution or under international
 law. But it also said that if a **clear majority** of Quebecers voted for secession on a
 **clear question**, the rest of Canada would have a constitutional duty to **negotiate** in
-good faith. The Court identified four unwritten principles underlying the Constitution:
+good faith. The Court identified four [unwritten principles](term:unwritten-principles) underlying the Constitution:
 **federalism, democracy, constitutionalism and the rule of law, and respect for
 minorities**. This was a reference, not a Charter case. See
-[The Supreme Court](/learn/law/supreme-court) for how references work.
+[The Supreme Court](org:supreme-court) for how references work.
 
 <span id="carter-v-canada-attorney-general-2015-assisted-dying"></span>
 
@@ -118,14 +118,14 @@ and intolerable suffering. The ban forced some people to end their lives early, 
 they still could, and denied others control over their bodily integrity and medical
 care. This departed from the Court's 1993 *Rodriguez* decision, which had upheld the ban.
 The Court suspended its ruling for a year to give Parliament time to respond, and
-Parliament passed a law on **medical assistance in dying** in 2016.
+Parliament passed a law on **[medical assistance in dying](term:medical-assistance-in-dying)** in 2016.
 
 <span id="r-v-jordan-2016-trials-within-a-reasonable-time"></span>
 
 ### R. v. Jordan (2016): trials within a reasonable time {#r-v-jordan}
 
 Barrett Jordan's drug case took more than four years to get through trial in British
-Columbia. Section 11(b) of the Charter guarantees the right to be **tried within a
+Columbia. [Section 11(b)](doc:charter/s11) of the Charter guarantees the right to be **tried within a
 reasonable time**. In a 5–4 decision, the Supreme Court set firm ceilings: a delay of
 more than **18 months** for cases tried in provincial court, or **30 months** for cases in
 superior court (or in provincial court after a preliminary inquiry), is presumed to be

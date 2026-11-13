@@ -4,13 +4,14 @@ parent: federalism
 title: "Transfers and equalization"
 order: 2
 summary: "How Ottawa shares money with the provinces and territories, and what equalization actually is (and isn't)."
+about: [term:transfers, term:equalization, term:canada-health-transfer, term:territorial-formula-financing, term:fiscal-capacity]
 status: draft
 ---
 
 ## In short
 
 The federal government sends billions of dollars a year to the provinces and
-territories through four **major transfers**. The **Canada Health Transfer** and
+[territories](term:territory) through four **major transfers**. The **Canada Health Transfer** and
 **Canada Social Transfer** go to everyone on an equal per-person basis. **Equalization**
 goes only to provinces whose ability to raise revenue is below the national standard.
 **Territorial Formula Financing** does a similar job for the three territories.
@@ -61,15 +62,15 @@ that allowed these charges.
 
 ### Equalization
 
-The Constitution Act, 1982 commits the federal government to equalization. Section
+The [Constitution Act, 1982](doc:constitution-act-1982) commits the federal government to equalization. Section
 36(2) says Parliament and the government of Canada are committed to the principle of
 making equalization payments so that provinces can provide "reasonably comparable
 levels of public services at reasonably comparable levels of taxation". The program
-itself is older: it began in **1957**.
+itself is older: it began in **[1957](event:equalization-begins-1957)**.
 
 How it works, simplified:
 
-1. For each province, the federal Department of Finance calculates its **fiscal
+1. For each province, the federal [Department of Finance](term:department-of-finance) calculates its **fiscal
    capacity**: how much revenue it *could* raise if it applied national average tax
    rates. This is a measure of potential, not of what it actually collects.
 2. Five revenue sources are measured: personal income tax, business income tax,
@@ -111,15 +112,15 @@ economies. TFF has existed since 1985. <!-- check: TFF start year -->
 
 The four major transfers aren't the whole story. Ottawa also funds targeted programs
 (for example child care agreements, infrastructure, and housing), often negotiated one
-province at a time. And some transfers have historically taken the form of **tax
-points**: Ottawa lowered its own tax rates so provinces could raise theirs by the same
+province at a time. And some transfers have historically taken the form of **[tax
+points](term:tax-points)**: Ottawa lowered its own tax rates so provinces could raise theirs by the same
 amount.
 
 > **People disagree about this.** Equalization is one of the most argued-over parts of
 > federalism. Some argue the formula is unfair to resource-rich provinces, or that it
 > discourages economic development; others argue it's essential to the idea that every
 > Canadian should get comparable services wherever they live. In 2021, Alberta held a
-> non-binding provincial referendum in which a majority voted to remove the
+> [non-binding provincial referendum](event:alberta-equalization-referendum-2021) in which a majority voted to remove the
 > equalization commitment from the Constitution. A referendum on its own doesn't amend
 > the Constitution. <!-- check: Alberta 2021 referendum result details -->
 

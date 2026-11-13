@@ -12,7 +12,7 @@ status: draft
 
 **Reserve powers** are the Crown's emergency brakes: decisions the Governor General
 (or a Lieutenant Governor) can make on their own judgment instead of on a minister's
-advice. They exist to protect responsible government, not to let the Crown govern. They
+advice. They exist to protect [responsible government](term:responsible-government), not to let the Crown govern. They
 are rarely used, and every real use has been controversial. The two federal cases most
 often studied are the **[King–Byng affair](event:king-byng-affair)** of 1926 and the **[2008 prorogation](event:prorogation-2008)**.
 
@@ -27,9 +27,9 @@ precedent, so experts disagree about the edges. The ones most commonly cited:
 |---|---|
 | **Appointing a Prime Minister** | When no one clearly commands the confidence of the House, e.g. after an inconclusive election or a sudden death in office |
 | **Dismissing a Prime Minister** | Only if a government refused to resign after clearly losing confidence, or acted flagrantly unconstitutionally. Never done federally. |
-| **Refusing a dissolution** | When a Prime Minister asks for an election to avoid a confidence vote, or soon after an election, and another leader could form a government |
+| **Refusing a [dissolution](term:dissolution)** | When a Prime Minister asks for an election to avoid a confidence vote, or soon after an election, and another leader could form a government |
 | **Refusing a prorogation** | When the request appears designed to avoid a confidence vote. Very contested. |
-| **Refusing royal assent** | Theoretically possible. Not done federally, and widely considered obsolete. |
+| **Refusing [royal assent](term:royal-assent)** | Theoretically possible. Not done federally, and widely considered obsolete. |
 
 The Governor General's office describes these powers as making the Governor General "a
 democratic safeguard". The guiding idea: the Crown acts on advice, *unless* the advice
@@ -61,7 +61,7 @@ election had been recent and that Meighen should get a chance to govern.
 
 **Why it matters.** Byng's refusal was arguably within his powers, but treating the
 two leaders differently looked unfair, and voters rewarded King. The episode is often
-linked to the **1926 Imperial Conference** later that year, which established that a Governor General
+linked to the **[1926 Imperial Conference](event:imperial-conference-1926)** later that year, which established that a Governor General
 represents the monarch personally, not the British government. Since then, no Governor
 General has refused a federal Prime Minister's request to dissolve Parliament.
 <!-- check: no federal refusal of dissolution since 1926 -->
@@ -69,13 +69,13 @@ General has refused a federal Prime Minister's request to dissolve Parliament.
 ### 2008: the prorogation
 
 **Background.** After the October 2008 election, [Stephen Harper](person:stephen-harper)'s Conservatives led a
-minority government. In late November, the government's fiscal update angered the
-opposition. The Liberals and NDP agreed to form a coalition government, with a
+[minority government](term:minority-government). In late November, the government's fiscal update angered the
+opposition. The Liberals and NDP agreed to form a [coalition](term:coalition) government, with a
 supporting agreement from the Bloc Québécois, and planned to defeat the government in
 a confidence vote in early December.
 
 **The request.** On **December 4, 2008**, before the vote could happen, Harper asked
-Governor General [](person:michaelle-jean) to **prorogue** Parliament: to end the session, which
+Governor General [](person:michaelle-jean) to **[prorogue](term:prorogation)** Parliament: to end the session, which
 also cancels all pending votes. After a meeting of about two hours, she agreed.
 Parliament didn't return until **January 26, 2009**. <!-- check: length of the meeting -->
 
@@ -94,17 +94,17 @@ People still disagree about whether the Governor General was right:
   right to decide who governs. Proroguing to avoid a vote undercut exactly that.
 
 Later prorogations have also drawn criticism. A court challenge to a federal
-prorogation in early 2025 was dismissed by the Federal Court. <!-- check: MacKinnon v. Canada (Attorney General), 2025 FC, outcome and date -->
+prorogation in early 2025 was dismissed by the [Federal Court](org:federal-court). <!-- check: MacKinnon v. Canada (Attorney General), 2025 FC, outcome and date -->
 
 ### Provincial cases
 
-Lieutenant Governors have used reserve powers more often, mostly long ago:
+[Lieutenant Governors](org:lieutenant-governor) have used reserve powers more often, mostly long ago:
 
 - **1878, Quebec:** Lieutenant Governor Luc Letellier de Saint-Just dismissed Premier
   Charles Boucher de Boucherville's government. <!-- check -->
 - **1961, Saskatchewan:** Lieutenant Governor Frank Bastedo reserved a provincial bill
-  for the federal government's decision. Ottawa promptly approved it. This is the last
-  use of the reservation power. <!-- check -->
+  for the federal government's decision. Ottawa promptly approved it. This is [the last
+  use of the reservation power](event:last-reservation-1961). <!-- check -->
 
 ### The bigger picture
 

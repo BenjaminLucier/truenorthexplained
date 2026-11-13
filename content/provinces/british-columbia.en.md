@@ -6,6 +6,7 @@ capital: "Victoria"
 joined: 1871
 summary: "Most of BC was never covered by treaties, and in 2019 it became the first province to put the UN Declaration on the Rights of Indigenous Peoples into law."
 status: draft
+about: [event:bc-dripa-2019, term:dripa, term:unceded, term:douglas-treaties, event:british-columbia-joins-1871]
 ---
 
 ## At a glance
@@ -15,11 +16,11 @@ status: draft
 | Capital | Victoria |
 | Joined Confederation | 1871 |
 | Legislature | Legislative Assembly of British Columbia |
-| Seats | 93 |
+| Seats | {{legislature.seats.british-columbia}} |
 | Crown representative | Lieutenant Governor of British Columbia |
 | Head of government | Premier |
 
-> **As of 2026:** The Legislative Assembly has 93 seats, a number first used in the 2024
+> **As of 2026:** The Legislative Assembly has {{legislature.seats.british-columbia}} seats, a number first used in the 2024
 > general election.
 
 ## In numbers
@@ -30,7 +31,7 @@ status: draft
 
 British Columbia has a single-chamber legislature, the **Legislative Assembly**, which
 sits in the Parliament Buildings in Victoria. Voters in each electoral district elect
-one **MLA** (Member of the Legislative Assembly).
+one **[MLA](term:mla)** (Member of the Legislative Assembly).
 
 The party that can keep the **confidence** (the majority support) of the Assembly forms
 the government, and its leader becomes **premier**. The premier and cabinet must
@@ -61,34 +62,35 @@ Only small parts of it are covered by historic treaties:
 For most of the province, no treaty was ever signed. That's why much of BC is
 described as **unceded** territory: land that First Nations never gave up by treaty.
 Since the 1990s, the province, Canada and First Nations have negotiated **modern
-treaties**, such as the Nisga'a Final Agreement, which took effect in 2000. In 2014, in
-*Tsilhqot'in Nation v. British Columbia*, the Supreme Court of Canada recognized
-**Aboriginal title** (a First Nation's legal right to its land) over a specific area
+treaties**, such as the [Nisga'a Final Agreement](event:nisgaa-final-agreement), which took effect in 2000. In 2014, in
+[*Tsilhqot'in Nation v. British Columbia*](case:tsilhqotin), the Supreme Court of Canada recognized
+**[Aboriginal title](term:aboriginal-title)** (a First Nation's legal right to its land) over a specific area
 for the first time.
 
-See [Treaties](/learn/indigenous/treaties) and [Section 35](/learn/indigenous/section-35).
+See [Treaties](/learn/indigenous/treaties) and [Section 35](doc:constitution-act-1982/s35).
+See also [*Calder*](case:calder) (1973) and [*Delgamuukw*](case:delgamuukw) (1997).
 
 ### DRIPA: the UN Declaration in provincial law
 
 In 2019, British Columbia passed the **Declaration on the Rights of Indigenous Peoples
 Act** (often called **DRIPA**). It was the first law in Canada to commit a government
-to bring its laws into line with the **United Nations Declaration on the Rights of
-Indigenous Peoples (UNDRIP)**. The Act:
+to bring its laws into line with the **[United Nations Declaration on the Rights of
+Indigenous Peoples (UNDRIP)](term:undrip)**. The Act:
 
 - requires the government to take steps to make BC laws consistent with UNDRIP;
 - requires an action plan and yearly progress reports to the legislature;
 - lets the government make agreements with Indigenous governing bodies, including
   agreements on decision-making about land and resources.
 
-The federal Parliament passed a similar law in 2021. How far these laws should change
+The federal Parliament passed [a similar law](doc:undrip-act) in 2021. How far these laws should change
 decisions on land, resources and development is debated, and people disagree about it.
 
 ### Recall and initiative
 
 British Columbia's **Recall and Initiative Act** (1995) lets voters:
 
-- petition to **recall** (remove) their MLA between elections;
-- propose a new law by **initiative** petition. A successful petition goes to the
+- petition to **[recall](term:recall)** (remove) their MLA between elections;
+- propose a new law by **[initiative](term:citizen-initiative)** petition. A successful petition goes to the
   legislature, and may go to a province-wide vote.
 
 The best-known use came in 2010, when an initiative petition against the harmonized
@@ -122,7 +124,7 @@ British Columbia has two main laws for local government:
 
 Vancouver is the exception. It runs under its own law, the **Vancouver Charter**.
 
-BC also has **regional districts**: federations that cover the whole province,
+BC also has **[regional districts](term:regional-district)**: federations that cover the whole province,
 including the land outside any city or town. They provide shared services such as
 water, garbage and regional parks, and act as the local government for rural areas.
 See [Municipalities](/learn/federalism/municipalities).

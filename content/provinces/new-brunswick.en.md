@@ -6,6 +6,7 @@ capital: "Fredericton"
 joined: 1867
 summary: "One of Canada's four founding provinces, and the only one that is officially bilingual in English and French."
 status: draft
+about: [event:new-brunswick-amendment-1993, event:new-brunswick-colony-1784, term:loyalists]
 ---
 
 ## At a glance
@@ -15,11 +16,11 @@ status: draft
 | Capital | Fredericton |
 | Joined Confederation | 1867 (a founding province) |
 | Legislature | Legislative Assembly of New Brunswick |
-| Seats | 49 |
+| Seats | {{legislature.seats.new-brunswick}} |
 | Crown representative | Lieutenant Governor of New Brunswick |
 | Head of government | Premier |
 
-> **As of 2026:** The Legislative Assembly has 49 seats.
+> **As of 2026:** The Legislative Assembly has {{legislature.seats.new-brunswick}} seats.
 
 ## In numbers
 
@@ -28,8 +29,8 @@ status: draft
 ## How it's governed
 
 New Brunswick's legislature is the **Legislative Assembly**, which has a single
-chamber. It once had an appointed upper house too, the **Legislative Council**, which
-was abolished in 1892. Voters elect one **MLA** (Member of the Legislative Assembly)
+chamber. It once had an appointed upper house too, the **[Legislative Council](term:legislative-council)**, which
+was abolished in 1892. Voters elect one **[MLA](term:mla)** (Member of the Legislative Assembly)
 for each electoral district.
 
 The party that can keep the **confidence** (majority support) of the Assembly forms the
@@ -46,16 +47,16 @@ and carry out other formal duties on the advice of the elected government. See
 
 New Brunswick is the only province where English and French have **equal status** in
 the Constitution itself. A large share of the population, roughly a third, speaks
-French as a first language, most of them **Acadians**: descendants of the French
+French as a first language, most of them **[Acadians](term:acadians)**: descendants of the French
 settlers of the Maritime region. <!-- check: "roughly a third" against the latest census figure for French mother tongue in NB -->
 
-The **Canadian Charter of Rights and Freedoms** gives New Brunswick its own
+The **[Canadian Charter of Rights and Freedoms](doc:charter)** gives New Brunswick its own
 language guarantees, in sections that apply to no other province:
 
 | Charter section | What it guarantees in New Brunswick |
 |---|---|
-| s. 16(2) | English and French are the official languages, with equal status, rights and privileges in the legislature and government |
-| s. 16.1 | The English and French **linguistic communities** have equal status, including the right to their own educational and cultural institutions (added in 1993) |
+| [s. 16(2)](doc:charter/s16) | English and French are the official languages, with equal status, rights and privileges in the legislature and government |
+| [s. 16.1](doc:charter/s16-1) | The English and French **linguistic communities** have equal status, including the right to their own educational and cultural institutions (added in 1993) |
 | s. 17(2) | Either language may be used in the legislature's debates |
 | s. 18(2) | Laws and records of the legislature are printed in both languages, and both versions are equally authoritative |
 | s. 19(2) | Either language may be used in New Brunswick courts |
@@ -97,7 +98,7 @@ courts. Above them is the [Supreme Court of Canada](/learn/law/supreme-court). S
 
 New Brunswick's local governments are set up under the **Local Governance Act**. In
 2023, a major reform took effect. It merged and restructured hundreds of small local
-entities, including many unincorporated **local service districts**, into a much
+entities, including many unincorporated **[local service districts](term:local-service-district)**, into a much
 smaller number of local governments and **rural districts**.
 
 The reform also gave the province's 12 **regional service commissions** a bigger role

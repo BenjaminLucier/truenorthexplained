@@ -17,7 +17,7 @@ his British one. His role is almost entirely ceremonial, but the whole legal sys
 built around the Crown. [Read more](/learn/crown)
 
 ### "The Governor General is the head of state."
-**Actually:** The King is head of state. The Governor General represents him and
+**Actually:** The King is [head of state](term:head-of-state). The Governor General represents him and
 exercises almost all his powers in Canada, which is why the line can seem blurry.
 [Read more](/learn/crown/governor-general)
 
@@ -39,7 +39,7 @@ conventions that shape how government works. [Read more](/learn/constitution)
 
 ### "The Constitution spells out how the government works."
 **Actually:** Only partly. The Prime Minister, cabinet, and the rule that a government
-needs the House's confidence mostly come from unwritten conventions, not written text.
+needs the House's confidence mostly come from unwritten [conventions](term:constitutional-convention), not written text.
 Breaking them would cause a crisis even though no court would enforce them.
 [Read more](/learn/constitution/conventions)
 
@@ -85,7 +85,7 @@ by ordinary law. [Read more](/learn/federalism/division-of-powers)
 
 ### "Health care is run by the federal government."
 **Actually:** Provinces and territories run health care. Ottawa contributes money
-through the Canada Health Transfer and attaches conditions through the Canada Health
+through the [Canada Health Transfer](term:canada-health-transfer) and attaches conditions through the Canada Health
 Act, but it doesn't run hospitals or pay doctors.
 [Read more](/learn/federalism/money-and-equalization)
 
@@ -106,7 +106,7 @@ reshaped by them, as the Supreme Court confirmed in a 2021 case about Toronto's 
 council. [Read more](/learn/federalism/municipalities)
 
 ### "Every Canadian legislature runs on political parties."
-**Actually:** The Northwest Territories and Nunavut use **consensus government**.
+**Actually:** The Northwest Territories and Nunavut use **[consensus government](term:consensus-government)**.
 Candidates run as independents, and after the election the members choose the Premier
 and cabinet themselves by secret ballot. [Read more](/provinces/northwest-territories)
 
@@ -142,11 +142,11 @@ the Supreme Court of Canada. The federal courts are a small, specialized branch.
 
 ### "Each province has its own criminal code."
 **Actually:** Criminal law is federal, so the Criminal Code is the same across Canada.
-Provinces can create **provincial offences**, such as traffic and liquor rules, but
+Provinces can create **[provincial offences](term:provincial-offence)**, such as traffic and liquor rules, but
 these aren't crimes under the Criminal Code. [Read more](/learn/law/criminal-law)
 
 ### "Quebec has a completely different legal system."
-**Actually:** Only for private law. Quebec uses the Civil Code for things like
+**Actually:** Only for private law. Quebec uses the [Civil Code](term:civil-code-of-quebec) for things like
 contracts, property and family law. Criminal law and constitutional law in Quebec are
 the same as everywhere else. [Read more](/learn/law/common-law-and-civil-law)
 
@@ -168,7 +168,7 @@ Private discrimination is covered by federal and provincial human rights laws in
 [Read more](/learn/charter)
 
 ### "Charter rights are absolute."
-**Actually:** Section 1 allows reasonable limits that a government can justify in
+**Actually:** [Section 1](doc:charter/s1) allows reasonable limits that a government can justify in
 court, and section 33 lets legislatures override some rights for five years at a time.
 [Read more](/learn/charter/reasonable-limits)
 

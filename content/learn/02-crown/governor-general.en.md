@@ -4,7 +4,7 @@ parent: crown
 title: "The Governor General and Lieutenant Governors"
 order: 1
 summary: "Who represents the King in Canada and the provinces, how they're chosen, and what they actually do."
-about: [org:governor-general]
+about: [org:governor-general, org:lieutenant-governor, term:letters-patent-1947]
 status: draft
 ---
 
@@ -13,7 +13,7 @@ status: draft
 The **Governor General** represents the King at the federal level and exercises almost
 all of his powers in Canada. A **Lieutenant Governor** does the same in each of the ten
 provinces. Both are appointed on the Prime Minister's advice, usually for about five
-years. They act on the advice of elected governments, keep a few reserve powers for
+years. They act on the advice of elected governments, keep a few [reserve powers](term:reserve-powers) for
 emergencies, and spend much of their time on ceremonial and community work.
 
 ## The details
@@ -27,7 +27,7 @@ between anglophone and francophone holders. <!-- check: alternation custom and h
 
 **Where the powers come from.** The office is mentioned in the Constitution Act, 1867
 (s. 10), but most of the detail is in the **Letters Patent** of 1947, issued by
-King George VI. They authorize the Governor General to exercise, with the advice of the
+King [George VI](person:george-vi). They authorize the Governor General to exercise, with the advice of the
 Privy Council for Canada, the monarch's powers in respect of Canada.
 
 **What they do.** According to the Office of the Governor General, the role falls into
@@ -35,27 +35,27 @@ five areas:
 
 | Area | Examples |
 |---|---|
-| Constitutional duties | Ensuring there's always a Prime Minister and a government with the confidence of Parliament; summoning, proroguing and dissolving Parliament; reading the Speech from the Throne; giving royal assent; signing orders-in-council; swearing in the PM, ministers and the Chief Justice |
-| Commander-in-chief | Under the Letters Patent, the Governor General is commander-in-chief of Canada's armed forces |
+| Constitutional duties | Ensuring there's always a Prime Minister and a government with the confidence of Parliament; summoning, proroguing and dissolving Parliament; reading the Speech from the Throne; giving royal assent; signing [orders-in-council](term:orders-in-council); swearing in the PM, ministers and the Chief Justice |
+| [Commander-in-chief](term:commander-in-chief) | Under the Letters Patent, the Governor General is commander-in-chief of Canada's armed forces |
 | Representing Canada | State visits abroad and hosting foreign leaders |
 | Encouraging excellence | Presenting the Order of Canada and other honours |
 | Bringing Canadians together | Community events across the country |
 
 **Royal assent in practice.** Since 2002, the **Royal Assent Act** lets assent be given
-either in a ceremony in the Senate chamber or by **written declaration**. Most bills now
+either in a ceremony in the Senate chamber or by **[written declaration](term:written-declaration)**. Most bills now
 get assent by written declaration, but the traditional ceremony must still happen at
 least twice a calendar year, and for the first supply bill of each session.
 <!-- check: "most bills" by written declaration -->
 
 **When the Governor General is away.** If the Governor General is absent or the office
-is vacant, the **Chief Justice of Canada** becomes **Administrator of the Government of
-Canada** and can exercise the powers. Deputies, such as Supreme Court judges, can also
+is vacant, the **[Chief Justice of Canada](term:chief-justice-of-canada)** becomes **[Administrator of the Government of
+Canada](term:administrator-of-the-government-of-canada)** and can exercise the powers. Deputies, such as Supreme Court judges, can also
 perform specific tasks like giving royal assent. <!-- check: who may serve as deputies of the Governor General -->
 
 ### Lieutenant Governors
 
 Each province has a Lieutenant Governor (Constitution Act, 1867, s. 58). They're
-appointed by the **Governor General in Council**, meaning by the Governor General on
+appointed by the **[Governor General in Council](term:governor-in-council)**, meaning by the Governor General on
 the advice of the federal cabinet, in practice the Prime Minister. They usually serve
 about five years.
 
@@ -65,8 +65,8 @@ Two things surprise people:
    provincial premier has no formal say in the appointment, although consultation is
    common. <!-- check: practice of consulting premiers --> Once appointed, the Lieutenant
    Governor acts on the advice of the **provincial** government, not the federal one.
-2. **They don't report to the Governor General.** Since an 1892 decision of the Judicial
-   Committee of the Privy Council (the *Maritime Bank* case), it has been settled that
+2. **They don't report to the Governor General.** Since an 1892 decision of the [Judicial
+   Committee of the Privy Council](org:judicial-committee-of-the-privy-council) (the *Maritime Bank* case), it has been settled that
    the Lieutenant Governor represents the Crown directly for provincial purposes.
    <!-- check: Liquidators of the Maritime Bank v. Receiver-General of New Brunswick, [1892] A.C. 437 -->
 
@@ -77,7 +77,7 @@ with reserve powers for emergencies.
 
 ### Territories: Commissioners
 
-Yukon, the Northwest Territories and Nunavut each have a **Commissioner**, appointed by
+Yukon, the Northwest Territories and Nunavut each have a **[Commissioner](term:commissioner)**, appointed by
 the federal government. Commissioners perform similar functions, such as giving assent
 to territorial laws, but they're federal officials rather than representatives of the
 King, reflecting that territories get their powers from federal law. In practice, their
@@ -103,7 +103,7 @@ role today closely resembles a Lieutenant Governor's. See
 
 Most of the time, these offices are quiet. But the Governor General's constitutional
 role is to guarantee that Canada always has a legitimate government. In a hung
-Parliament, a disputed prorogation or a sudden death in office, the representative of
+Parliament, a disputed [prorogation](term:prorogation) or a sudden death in office, the representative of
 the Crown is the person who decides what happens next. See
 [Reserve powers](/learn/crown/reserve-powers).
 

@@ -6,7 +6,7 @@ status: draft
 ---
 
 Canadians have voted in {{elections.count}} federal general elections since Confederation. Each one fills
-every seat in the House of Commons, and whoever can hold the House's
+every seat in the [House of Commons](org:house-of-commons), and whoever can hold the House's
 [confidence](/learn/parliament/confidence) forms the government. Hover over or tap any
 chart, or tab to it and use the arrow keys, to see each election's numbers. Every chart
 also has its data as a table.
@@ -27,7 +27,7 @@ créditiste. Independents, Labour members and short-lived parties are under Othe
 ## How votes become seats
 
 Under [first-past-the-post](/learn/elections/first-past-the-post), the candidate with the
-most votes in each riding wins it, and the rest of the votes there elect no one. Across
+most votes in each [riding](term:riding) wins it, and the rest of the votes there elect no one. Across
 the country, that tends to give the biggest party more seats than its share of the vote.
 
 <tn-widget name="election-votes-seats"></tn-widget>
@@ -43,7 +43,7 @@ register has changed a great deal: the numbered milestones mark the biggest chan
 
 A party with more than half the seats can pass its bills and survive
 [confidence votes](/learn/parliament/confidence) on its own. A
-[minority government](/glossary#minority-government) needs support from other parties,
+[minority government](term:minority-government) needs support from other parties,
 and those Parliaments usually end sooner.
 
 <tn-widget name="election-governments"></tn-widget>

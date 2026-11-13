@@ -5,12 +5,13 @@ title: "How a bill becomes law"
 order: 1
 summary: "Three readings in each chamber, a committee study, and royal assent: the path every federal law takes."
 status: draft
+about: [term:bill, term:act-of-parliament, term:readings, term:royal-assent, term:private-members-bill]
 ---
 
 ## In short
 
-A **bill** is a proposed law. To become an **Act of Parliament**, it has to pass the House
-of Commons and the Senate in exactly the same words, and then receive **royal assent**. In
+A **bill** is a proposed law. To become an **Act of Parliament**, it has to pass the [House
+of Commons](org:house-of-commons) and the [Senate](org:senate) in exactly the same words, and then receive **royal assent**. In
 each chamber it goes through three **readings** (stages of debate and voting), with a
 detailed study by a **committee** in the middle. Most bills that become law are introduced
 by the government.
@@ -26,14 +27,14 @@ by the government.
 | **Senate public bill** | A senator | Same range of topics, but no taxing or spending | S-201 to S-1000 |
 | **Private bill** | A member, on behalf of a person or organization | Special powers or exemptions for one company | C-1001 or S-1001 onward; rare today |
 
-Government bills and private members' bills are both **public bills**, because they apply to
+Government bills and private members' bills are both **[public bills](term:public-bill)**, because they apply to
 everyone. A **private bill** is different: it benefits a specific person or organization.
 
 Two limits apply to everyone:
 
 - Bills that raise taxes or spend public money must start in the **House of Commons**
-  (Constitution Act, 1867, s. 53).
-- New spending needs a **royal recommendation**, which only the government can provide
+  (Constitution Act, 1867, [s. 53](doc:constitution-act-1867/s53)).
+- New spending needs a **[royal recommendation](term:royal-recommendation)**, which only the government can provide
   (s. 54). A private member can introduce a bill that spends money, but a minister must
   supply the recommendation before the final vote, or the bill can't pass.
 
@@ -73,9 +74,9 @@ flowchart TD
    If it amends the bill, the bill goes back to the first chamber, which can accept, reject
    or modify the changes. Messages can go back and forth until both chambers agree on the
    same text, a process sometimes called "ping-pong."
-7. **Royal assent.** The Governor General (or a deputy) gives assent in the King's name.
-   This can happen at a traditional ceremony in the Senate chamber or by **written
-   declaration**. By convention, assent is never refused for a bill both chambers have
+7. **Royal assent.** The [Governor General](org:governor-general) (or a deputy) gives assent in the King's name.
+   This can happen at a traditional ceremony in the Senate chamber or by **[written
+   declaration](term:written-declaration)**. By convention, assent is never refused for a bill both chambers have
    passed.
 
 Once it has royal assent, the bill is an **Act**. It takes effect that day unless it says
@@ -86,10 +87,10 @@ otherwise. Many Acts come into force on a later date, or on a date chosen by the
 - **Committee before second reading.** The government can send a bill to committee right
   after first reading. This lets the committee make bigger changes, since the House hasn't
   yet approved the bill's principle.
-- **Pre-study.** The Senate sometimes studies a bill's subject while it's still in the
+- **[Pre-study](term:pre-study).** The Senate sometimes studies a bill's subject while it's still in the
   House, to speed things up later.
   <!-- check: confirm pre-study is still described this way in current Senate procedure sources -->
-- **Time allocation and closure.** The government can use these procedures to limit how
+- **[Time allocation and closure](term:time-allocation-and-closure).** The government can use these procedures to limit how
   long debate lasts at a given stage. Opposition parties often object, but they're part of
   the House's rules.
 - **Prorogation and dissolution.** When a session ends, bills that haven't passed usually
@@ -105,7 +106,7 @@ most never reach a final vote.
 
 ### Where to follow a bill
 
-Every bill's text and current stage is on **LEGISinfo**, run by Parliament. Search by number
+Every bill's text and current stage is on **[LEGISinfo](term:legisinfo)**, run by Parliament. Search by number
 (for example C-5) or keyword. Bill numbers restart each session, so the same number can mean
 a different bill in a different Parliament.
 

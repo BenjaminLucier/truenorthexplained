@@ -4,6 +4,7 @@ parent: indigenous
 title: "Treaties"
 order: 1
 summary: "From 1700s peace treaties to modern land claims agreements: the formal agreements between Indigenous nations and the Crown."
+about: [term:treaty, term:numbered-treaties, term:peace-and-friendship-treaties, term:modern-treaty, term:royal-proclamation-of-1763]
 status: draft
 ---
 
@@ -30,11 +31,11 @@ could acquire them, at a public meeting, with the agreement of the nation concer
 This is the root of the treaty process in Canada.
 
 In 1764, the Crown and many Indigenous nations met at Niagara. Many Indigenous people
-and scholars see this **Treaty of Niagara**, recorded in wampum belts, as the moment the
+and scholars see this **[Treaty of Niagara](term:treaty-of-niagara)**, recorded in wampum belts, as the moment the
 Proclamation's promises were accepted as a nation-to-nation relationship.
 <!-- check: Treaty of Niagara 1764 framing; not on CIRNAC's list of 70 historic treaties -->
 
-The Proclamation still has legal weight: section 25 of the Charter says the Charter
+The Proclamation still has legal weight: [section 25](doc:charter/s25) of the Charter says the Charter
 can't be read to reduce rights "recognized by the Royal Proclamation of October 7, 1763."
 
 ### Historic treaties
@@ -47,7 +48,7 @@ can't be read to reduce rights "recognized by the Royal Proclamation of October 
 | **Numbered Treaties 1–11** | 1871–1921 | Northern Ontario across the Prairies to parts of BC, the Northwest Territories and Yukon | Large land surrenders to open the West for settlement and railways, in exchange for reserves, annual payments, and promises such as schools, farming help and hunting and fishing rights |
 
 The **Numbered Treaties** were signed in the decades after Confederation, as the new
-country expanded west and north. Treaty 1 (1871) covered part of southern Manitoba.
+country expanded west and north. [Treaty 1](event:treaty-1) (1871) covered part of southern Manitoba.
 Treaty 11 (1921) covered much of the Mackenzie Valley.
 
 ### Two ways of reading the same treaty
@@ -69,26 +70,26 @@ Mi'kmaq right to fish and trade for a moderate livelihood. <!-- check: Marshall 
 
 **Modern treaties** (also called **comprehensive land claims agreements**) are
 negotiated where Aboriginal title was never dealt with by an earlier treaty. They began
-after the *Calder* decision (1973) showed that Aboriginal title exists in Canadian law
-(see [Section 35](/learn/indigenous/section-35)).
+after the [*Calder*](case:calder) decision (1973) showed that Aboriginal title exists in Canadian law
+(see [Section 35](doc:constitution-act-1982/s35)).
 
 Modern treaties are long, detailed documents. They usually set out land ownership,
 money, harvesting rights, resource management and, often, self-government. Under
-s. 35(3), rights in land claims agreements are **treaty rights**, so they're
+s. 35(3), rights in land claims agreements are **[treaty rights](term:treaty-rights)**, so they're
 constitutionally protected.
 
 | Agreement | Year | What stands out |
 |---|---|---|
 | James Bay and Northern Quebec Agreement | 1975 | The first modern treaty (Cree and Inuit of northern Quebec) |
-| Nunavut Land Claims Agreement | 1993 | The largest land claim settlement in Canada's history. It led to the creation of the territory of [Nunavut](/provinces/nunavut) in 1999. |
-| Nisga'a Final Agreement | 2000 (in effect) | The first modern treaty in BC, and a direct result of the Nisga'a's decades-long effort that included *Calder* |
+| [Nunavut Land Claims Agreement](term:nunavut-agreement) | 1993 | The largest land claim settlement in Canada's history. It led to the creation of the territory of [Nunavut](/provinces/nunavut) in 1999. |
+| [Nisga'a Final Agreement](term:nisgaa-final-agreement) | 2000 (in effect) | The first modern treaty in BC, and a direct result of the Nisga'a's decades-long effort that included *Calder* |
 
 > **As of 2026:** Canada describes itself as implementing roughly two dozen modern
 > treaties (CIRNAC lists 27), and more are being negotiated. <!-- check: current count on CIRNAC modern treaties page -->
 
 ### Unceded territory
 
-Where no treaty surrendered the land, it's often called **unceded**. This includes
+Where no treaty surrendered the land, it's often called **[unceded](term:unceded)**. This includes
 most of **British Columbia**. Apart from the Douglas Treaties, part of Treaty 8 in the
 northeast and a handful of modern treaties, the province was never covered by treaty.
 The Peace and Friendship Treaties didn't surrender land either, so Indigenous nations in
@@ -96,7 +97,7 @@ the Maritimes also describe their territories as unceded. Parts of Quebec and On
 are in a similar position.
 
 "Unceded" isn't just a phrase for land acknowledgements. It's why Aboriginal title
-cases like *Delgamuukw* and *Tsilhqot'in* came out of BC, and why so much treaty
+cases like [*Delgamuukw*](case:delgamuukw) and [*Tsilhqot'in*](case:tsilhqotin) came out of BC, and why so much treaty
 negotiation happens there.
 
 ### Specific claims

@@ -5,6 +5,7 @@ order: 5
 icon: Layers
 summary: "Ottawa and the provinces each get their own list of powers from the Constitution. Territories and cities get theirs from someone else."
 deep_dives: [division-of-powers, money-and-equalization, territories, municipalities]
+about: [term:federation, term:orders-of-government, term:fiscal-imbalance, term:asymmetry, org:council-of-the-federation]
 status: draft
 ---
 
@@ -40,8 +41,8 @@ the Prime Minister can't give orders to a premier.
 
 ### Who does what
 
-The **Constitution Act, 1867** sets out the main lists. **Section 91** lists federal
-subjects and **section 92** lists provincial ones. A few other sections add to them.
+The **Constitution Act, 1867** sets out the main lists. **[Section 91](doc:constitution-act-1867/s91)** lists federal
+subjects and **[section 92](doc:constitution-act-1867/s92)** lists provincial ones. A few other sections add to them.
 The lists use 1867 wording, so courts have spent over 150 years working out what they
 mean for things nobody imagined then, like aviation, radio and the internet.
 
@@ -52,7 +53,7 @@ mean for things nobody imagined then, like aviation, radio and the internet.
 | Currency, banking, interest | Property and civil rights (contracts, most labour law, most business regulation) | Environment |
 | Postal service | Municipalities | Pensions (s. 94A) |
 | Citizenship ("naturalization") | Administration of justice (courts, policing) | Health (provinces deliver; Ottawa funds and sets conditions) |
-| Indigenous peoples and reserve lands (s. 91(24)) | Natural resources (s. 92A) | Taxation (both can tax) |
+| Indigenous peoples and reserve lands ([s. 91(24)](doc:constitution-act-1867/s91-24)) | Natural resources (s. 92A) | Taxation (both can tax) |
 | Trade between provinces and countries | Local matters generally | |
 
 Anything not on either list belongs to Parliament under its general power to make laws
@@ -65,15 +66,15 @@ Real life doesn't sort neatly into two lists. Three examples:
 
 - **Health.** The Constitution never says "health". Provinces run hospitals and health
   insurance, because hospitals and most of health care fall under their powers. Ottawa
-  is involved mostly through money: it pays the **Canada Health Transfer** on condition
-  that provincial health insurance follows the **Canada Health Act**. It also regulates
+  is involved mostly through money: it pays the **[Canada Health Transfer](term:canada-health-transfer)** on condition
+  that provincial health insurance follows the **[Canada Health Act](doc:canada-health-act)**. It also regulates
   drugs and food safety, partly under its criminal law power.
 - **Environment.** Also not mentioned in 1867. Both orders regulate it, each through its
   own powers: provinces through property and natural resources, Ottawa through
   fisheries, navigation, criminal law and, for greenhouse gases, its general power. In
-  2021 the Supreme Court upheld federal minimum carbon pricing as a matter of "national
-  concern".
-- **Immigration.** Section 95 makes it **concurrent**: both orders can make laws on it,
+  2021 the Supreme Court upheld federal minimum carbon pricing as a matter of "[national
+  concern](term:national-concern)".
+- **Immigration.** Section 95 makes it **[concurrent](term:concurrent-powers)**: both orders can make laws on it,
   but federal law wins in a conflict. In practice Ottawa runs the system, while
   provinces nominate some economic immigrants. Quebec has its own agreement with Ottawa
   and selects most of its economic immigrants itself.
@@ -85,7 +86,7 @@ powers? Often both are valid, because the same activity can be regulated for dif
 reasons. Driving drunk can be a crime (federal) and also lead to a licence suspension
 (provincial).
 
-If both laws are valid but truly conflict, the rule of **federal paramountcy** applies:
+If both laws are valid but truly conflict, the rule of **[federal paramountcy](term:paramountcy)** applies:
 the federal law wins, and the provincial law stops applying to the extent of the
 conflict. Courts apply this narrowly and generally prefer to let both laws work side
 by side.
@@ -118,8 +119,8 @@ with **transfers**:
 
 - **Canada Health Transfer** and **Canada Social Transfer:** paid to every province and
   territory on an equal per-person basis.
-- **Equalization:** paid only to provinces whose ability to raise revenue is below the
-  national standard. The Constitution Act, 1982 (s. 36(2)) commits Ottawa to the
+- **[Equalization](term:equalization):** paid only to provinces whose ability to raise revenue is below the
+  national standard. The Constitution Act, 1982 ([s. 36(2)](doc:constitution-act-1982/s36)) commits Ottawa to the
   principle.
 - **Territorial Formula Financing:** the territories' version, reflecting the high cost
   of services in the North.
@@ -134,7 +135,7 @@ funding deals and coordinate policy. The premiers also meet on their own through
 **Council of the Federation**, created in 2003.
 
 Federalism also allows **asymmetry**: provinces can use the same powers differently.
-Quebec, for example, uses civil law for private matters, runs its own pension plan (the
+Quebec, for example, uses [civil law](term:civil-law) for private matters, runs its own pension plan (the
 Quebec Pension Plan, rather than the Canada Pension Plan), and collects its own
 personal income tax.
 
@@ -168,7 +169,7 @@ amendment.
 
 **"Cities have their own constitutional powers."**
 They don't. Municipalities are created by provincial laws and can be reshaped by them,
-as the Supreme Court confirmed in a 2021 case about Toronto's city council.
+as the Supreme Court confirmed in [a 2021 case about Toronto's city council](case:toronto-city-council-2021).
 
 ## Sources
 

@@ -6,6 +6,7 @@ icon: Landmark
 summary: "Parliament is three parts (the King, the appointed Senate and the elected House of Commons) and it makes federal law and keeps the government in check."
 deep_dives: [how-a-bill-becomes-law, senate, confidence, question-period-and-committees]
 status: draft
+about: [org:parliament, org:house-of-commons, term:parliament, term:house-of-commons, doc:constitution-act-1867/s17]
 ---
 
 ## TL;DR
@@ -24,14 +25,14 @@ elected, so it rarely blocks what the elected House wants.
 ### Three parts, not two
 
 People often say "Parliament" when they mean the House of Commons. Legally, though, the
-Constitution says Parliament is made up of the King, the Senate and the House of Commons
+[Constitution](term:constitution) says Parliament is made up of the King, the Senate and the House of Commons
 (Constitution Act, 1867, s. 17). All three have to agree before a federal law exists.
 
 | Part | Who | How they get there | What they mainly do |
 |---|---|---|---|
-| The King | Represented by the Governor General | Hereditary; the GG is appointed on the PM's advice | Gives royal assent to bills; opens and dissolves Parliament (by convention, on the government's advice) |
+| The King | Represented by the [Governor General](org:governor-general) | Hereditary; the GG is appointed on the PM's advice | Gives royal assent to bills; opens and dissolves Parliament (by convention, on the government's advice) |
 | Senate | Senators | Appointed by the Governor General on the Prime Minister's recommendation; serve to age 75 | Reviews bills, studies issues, represents regions and groups |
-| House of Commons | Members of Parliament (MPs) | Elected, one per riding | Passes laws, approves taxes and spending, decides who governs |
+| House of Commons | Members of Parliament (MPs) | Elected, one per [riding](term:riding) | Passes laws, approves taxes and spending, decides who governs |
 
 > **As of 2026:** The House of Commons has {{commons.seats}} seats and the Senate has {{senate.seats}}.
 
@@ -55,9 +56,9 @@ This is the part that surprises people used to the US system. In Canada, the **g
 (the Prime Minister and cabinet) isn't a separate branch elected on its own. The Prime
 Minister and almost all ministers are MPs, sitting in the House alongside everyone else.
 
-The government stays in office only while it has the **confidence** of the House, meaning a
+The government stays in office only while it has the **[confidence](term:confidence)** of the House, meaning a
 majority of MPs are willing to support it on key votes. This rule is a constitutional
-**convention**: an unwritten rule that everyone follows. If the government loses a
+**[convention](term:convention)**: an unwritten rule that everyone follows. If the government loses a
 confidence vote, the Prime Minister is expected to resign or ask the Governor General to
 call an election.
 
@@ -106,7 +107,7 @@ The Senate is the "upper house." Its {{senate.seats}} senators are appointed, no
 divided by region rather than by population. It can amend or reject any bill, but because
 it isn't elected, by convention it usually gives way to the House. Since 2016, senators have
 been recommended through an independent advisory process, and most no longer sit as party
-members. See [the Senate](/learn/parliament/senate).
+members. See [the Senate](org:senate).
 
 ### A Parliament has a lifespan
 
@@ -115,19 +116,19 @@ divided into **sessions**:
 
 - A session opens with a **Speech from the Throne**, read by the Governor General, setting out
   the government's plans.
-- **Prorogation** ends a session without an election. Most bills that haven't passed die
+- **[Prorogation](term:prorogation)** ends a session without an election. Most bills that haven't passed die
   and have to start over.
-- **Dissolution** ends the whole Parliament, and an election follows.
+- **[Dissolution](term:dissolution)** ends the whole Parliament, and an election follows.
 
 The Charter limits a House of Commons to five years from the return of the writs after an
-election (Charter, s. 4), but elections usually come sooner. See
+election (Charter, [s. 4](doc:charter/s4)), but elections usually come sooner. See
 [elections](/learn/elections). For how the Governor General's role in prorogation and
 dissolution has been tested, see [reserve powers](/learn/crown/reserve-powers).
 
 ### Provinces have their own legislatures
 
-Each province has its own elected legislature, usually called a **Legislative Assembly**
-(Quebec's is the **National Assembly**). Provincial legislatures have only one chamber; no
+Each province has its own elected legislature, usually called a **[Legislative Assembly](term:legislative-assembly)**
+(Quebec's is the **[National Assembly](org:national-assembly)**). Provincial legislatures have only one chamber; no
 province has a senate. They work much like the House of Commons, with a premier who must
 keep the legislature's confidence. See [the provinces](/provinces).
 

@@ -6,6 +6,7 @@ icon: Compass
 summary: "Canada in one sentence: a federal parliamentary democracy and a constitutional monarchy."
 deep_dives: []
 status: draft
+about: [term:federal-parliamentary-democracy, term:constitutional-monarchy, term:parliamentary-democracy, term:branches-of-government, term:westminster-system]
 ---
 
 ## TL;DR
@@ -24,12 +25,12 @@ Constitution, interpreted by independent courts, sets the rules for all of them.
 **Constitutional monarchy.** Canada has a King. {{monarch.name}} has been King of Canada
 since {{monarch.since-year}}. The Constitution says the government's executive authority belongs to the
 monarch. But by long-standing [*convention*](term:convention) (an unwritten rule everyone follows), the
-King and his representative, the Governor General, act only on the advice of elected
+King and his representative, the [Governor General](org:governor-general), act only on the advice of elected
 ministers. The Crown is where legal authority comes from. Elected politicians are the
 ones who make the decisions.
 
 **Parliamentary democracy.** Canada uses the British-style "Westminster" system. You
-don't vote for a leader. You vote for one **member of Parliament (MP)** to represent
+don't vote for a leader. You vote for one **[member of Parliament (MP)](term:member-of-parliament)** to represent
 your **[riding](term:riding)** (electoral district). After an election, the party that can command the
 **[confidence](term:confidence)** of the House of Commons forms the government, and its leader becomes
 Prime Minister. The Prime Minister and cabinet ministers are almost always MPs
@@ -44,7 +45,7 @@ own list of powers:
 
 > [!IMPORTANT]
 > Within its own areas, neither one is the other's boss. The three **territories** work
-> differently: their powers are handed to them by the federal Parliament. **Cities and
+> differently: their powers are handed to them by the federal [Parliament](org:parliament). **Cities and
 > towns** are created by their province.
 
 ### Who's who
@@ -52,10 +53,10 @@ own list of powers:
 | Role | Who | What they actually do |
 |---|---|---|
 | Head of state | The King | The legal source of authority and a national symbol |
-| The King's representative | Governor General (federal); Lieutenant Governors (provinces) | Sign bills into law, appoint the Prime Minister, open and dissolve Parliament. By convention they do this on the elected government's advice. |
+| The King's representative | Governor General (federal); [Lieutenant Governors](org:lieutenant-governor) (provinces) | Sign bills into law, appoint the Prime Minister, open and dissolve Parliament. By convention they do this on the elected government's advice. |
 | Head of government | Prime Minister | Leads the government, chooses cabinet, sets direction |
 | Lawmakers | Parliament: the King, the Senate (appointed) and the House of Commons (elected) | Pass laws, approve spending, hold the government to account |
-| Judges | The courts, with the Supreme Court of Canada at the top | Interpret laws and the Constitution, and can strike down laws that break it |
+| Judges | The courts, with the [Supreme Court of Canada](org:supreme-court) at the top | Interpret laws and the Constitution, and can strike down laws that break it |
 | The public service | Departments and agencies | Non-partisan staff who carry out the government's decisions |
 
 ### How the pieces connect
@@ -88,13 +89,13 @@ Canada is the one around the **courts**, which are independent of both.
 
 ### The rulebook
 
-The **Constitution** is the supreme law. Any law that conflicts with it has no force.
+The **[Constitution](term:constitution)** is the supreme law. Any law that conflicts with it has no force.
 It isn't one document:
 
-- **The Constitution Act, 1867** created the country and Parliament, and divided powers
+- **The [Constitution Act, 1867](doc:constitution-act-1867)** created the country and Parliament, and divided powers
   between Ottawa and the provinces.
-- **The Constitution Act, 1982** added the **Canadian Charter of Rights and Freedoms**,
-  recognized Aboriginal and treaty rights, and set out how the Constitution can be
+- **The [Constitution Act, 1982](doc:constitution-act-1982)** added the **[Canadian Charter of Rights and Freedoms](doc:charter)**,
+  recognized [Aboriginal and treaty rights](doc:constitution-act-1982/s35), and set out how the Constitution can be
   amended.
 - **Unwritten conventions** fill in the rest. For example, the Prime Minister's job is
   barely mentioned in the written Constitution. Almost everything about it comes from
@@ -134,7 +135,7 @@ one. His role is almost entirely ceremonial, but the whole legal system is built
 the Crown.
 
 **"The Royal Canadian Mint is Canada's version of the Fed."**
-The **Bank of Canada** is the central bank. It sets interest rates and issues
+The **[Bank of Canada](org:bank-of-canada)** is the central bank. It sets interest rates and issues
 banknotes. The Mint makes coins.
 
 **"Ottawa is in charge of the provinces."**

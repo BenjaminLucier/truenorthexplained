@@ -6,6 +6,7 @@ capital: "Edmonton"
 joined: 1905
 summary: "Carved out of the North-West Territories in 1905, Alberta owns its oil, gas and land, and lets voters start recall and citizen-initiative petitions."
 status: draft
+about: [term:alberta-act, term:citizen-initiative, term:metis-settlements]
 ---
 
 ## At a glance
@@ -15,11 +16,11 @@ status: draft
 | Capital | Edmonton |
 | Joined Confederation | 1905 (created from part of the North-West Territories, at the same time as Saskatchewan) |
 | Legislature | Legislative Assembly of Alberta |
-| Seats | 87 (see note) |
+| Seats | {{legislature.seats.alberta}} (see note) |
 | Crown representative | Lieutenant Governor of Alberta |
 | Head of government | Premier |
 
-> **As of 2026:** The Legislative Assembly has 87 seats. Alberta has passed a law to add
+> **As of 2026:** The Legislative Assembly has {{legislature.seats.alberta}} seats. Alberta has passed a law to add
 > seats for the next general election, scheduled for October 2027. An independent
 > commission recommended 89 seats, and a 2026 government bill proposed 91.
 > <!-- check: final seat count for the 2027 election (Bill 32, 2026) -->
@@ -32,9 +33,9 @@ status: draft
 
 Alberta's legislature has a single chamber, the **Legislative Assembly**, which has
 been the case since the province was created. Voters in each electoral division elect
-one **MLA** (Member of the Legislative Assembly).
+one **[MLA](term:mla)** (Member of the Legislative Assembly).
 
-The party that can keep the **confidence** (the majority support) of the Assembly forms
+The party that can keep the **[confidence](term:confidence)** (the majority support) of the Assembly forms
 the government. Its leader becomes **premier**, the head of government, and chooses
 cabinet ministers from among the MLAs. This works the same way as
 [the federal system](/learn/parliament), just at the provincial level.
@@ -51,7 +52,7 @@ elected government. See [The Crown](/learn/crown).
 Alberta was created by an Act of the federal Parliament, the **Alberta Act**, in 1905.
 The original provinces kept ownership of their public land and natural resources when
 they joined Canada. Alberta, Saskatchewan and Manitoba didn't. Ottawa kept control of
-their Crown land and resources until the **Natural Resources Transfer Agreements** of
+their Crown land and resources until the **[Natural Resources Transfer Agreements](term:natural-resources-transfer-agreements)** of
 **1930**, which the Constitution Act, 1930 made part of the Constitution.
 
 That history matters because Alberta's economy is built heavily on oil and natural
@@ -61,7 +62,7 @@ developed.
 
 ### Section 92A: resources in the Constitution
 
-In 1982, a new **section 92A** was added to the Constitution Act, 1867. It confirms
+In 1982, a new **[section 92A](doc:constitution-act-1867/s92a)** was added to the [Constitution Act, 1867](doc:constitution-act-1867). It confirms
 that provinces have exclusive power over:
 
 - exploring for, developing, conserving and managing **non-renewable natural
@@ -77,6 +78,9 @@ Arguments over who controls energy, pipelines and environmental rules continue, 
 people disagree about where the line should sit. See
 [Who does what](/learn/federalism/division-of-powers).
 
+See also, on the timeline, [Alberta's equalization referendum](event:alberta-equalization-referendum-2021)
+(2021) and [Alberta's use of section 33](event:alberta-notwithstanding-2025) (2025).
+
 ### Recall and citizen initiatives
 
 Alberta and British Columbia are the only provinces where voters can recall their member
@@ -84,10 +88,10 @@ of the legislature, and both also have full citizen-initiative laws.
 <!-- check: confirm no other province currently has a recall law -->
 Voters in Alberta can start two kinds of petition:
 
-- **Recall:** if enough voters in an electoral division sign a petition, a vote can be
+- **[Recall](term:recall):** if enough voters in an electoral division sign a petition, a vote can be
   held on whether to remove their MLA before the next election.
 - **Citizen initiative:** if enough voters across the province sign, a proposed law or
-  policy question can be sent to the legislature or to a **referendum** (a public vote
+  policy question can be sent to the legislature or to a **[referendum](term:referendum)** (a public vote
   on a question).
 
 Both come from laws passed in 2021, the **Recall Act** and the **Citizen Initiative
@@ -122,7 +126,7 @@ Municipalities in Alberta, such as cities, towns, villages, municipal districts
 Government Act**. Like all municipalities in Canada, they only have the powers the
 province gives them. See [Municipalities](/learn/federalism/municipalities).
 
-Since 2018, **Calgary and Edmonton** each have a **city charter**, a set of rules made
+Since 2018, **Calgary and Edmonton** each have a **[city charter](term:city-charter)**, a set of rules made
 under the Municipal Government Act that gives the two big cities some extra powers and
 flexibility.
 

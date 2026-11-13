@@ -4,14 +4,14 @@ parent: constitution
 title: "Conventions: the unwritten rules"
 order: 4
 summary: "Conventions are unwritten rules, like 'the government needs the House's confidence', that everyone follows but courts don't enforce."
-about: [term:convention]
+about: [term:convention, term:responsible-government, term:caretaker-convention]
 status: draft
 ---
 
 ## In short
 
 A **constitutional convention** is an unwritten rule of political behaviour that the
-people involved treat as binding. Conventions explain why the King and Governor General,
+people involved treat as binding. Conventions explain why the King and [Governor General](org:governor-general),
 who have sweeping legal powers on paper, act only on the advice of elected ministers.
 Courts can say that a convention exists, but they won't enforce it. The consequences of
 breaking one are political, not legal.
@@ -20,7 +20,7 @@ breaking one are political, not legal.
 
 ### Law on paper, convention in practice
 
-Read the Constitution Act, 1867 literally and you'd think the Governor General runs the
+Read the [Constitution Act, 1867](doc:constitution-act-1867) literally and you'd think the Governor General runs the
 country. Executive power is vested in the King (s. 9). The Governor General appoints
 the Privy Council (s. 11), summons the House of Commons (s. 38), and can refuse royal
 assent to bills (s. 55). The Prime Minister isn't mentioned.
@@ -33,22 +33,22 @@ with it.
 |---|---|
 | Executive power belongs to the King (s. 9) | The King and Governor General act on the advice of ministers |
 | The Governor General chooses the Privy Council (s. 11) | Only the current cabinet, led by the Prime Minister, actually gives advice |
-| The Governor General may refuse royal assent (s. 55) | Assent is always given to bills passed by both Houses |
+| The Governor General may refuse royal assent ([s. 55](doc:constitution-act-1867/s55)) | Assent is always given to bills passed by both Houses |
 | The Governor General appoints ministers | The Governor General appoints as Prime Minister whoever can command the confidence of the House, and appoints ministers the Prime Minister recommends |
 | The Senate has nearly the same law-making powers as the House | The appointed Senate generally doesn't block bills passed by the elected House <!-- check: whether this is best described as a convention or a practice --> |
 
 ### The core convention: responsible government
 
 The most important convention is **responsible government**: the government
-(Prime Minister and cabinet) must have the **confidence** of the elected House of
+(Prime Minister and cabinet) must have the **[confidence](term:confidence)** of the elected House of
 Commons. If it loses a confidence vote, it must either resign or ask the Governor
 General to call an election. In British North America this principle was won in the
-late 1840s, starting in Nova Scotia and the Province of Canada.
+[late 1840s](event:responsible-government-1848), starting in Nova Scotia and the Province of Canada.
 
 Related conventions include:
 
-- **Cabinet solidarity.** Ministers publicly support cabinet decisions or resign.
-- **Ministerial responsibility.** Each minister answers to the House for their
+- **[Cabinet solidarity](term:cabinet-solidarity).** Ministers publicly support cabinet decisions or resign.
+- **[Ministerial responsibility](term:ministerial-responsibility).** Each minister answers to the House for their
   department.
 - **The Prime Minister sits in the House.** Usually true, but flexible. Two early Prime
   Ministers sat in the Senate, and several have taken office without a seat and then
@@ -60,7 +60,7 @@ More on confidence in [Majority, minority, confidence votes](/learn/parliament/c
 
 ### What makes something a convention?
 
-In the **Patriation Reference** (1981), the Supreme Court adopted a three-part test
+In the **[Patriation Reference](case:patriation-reference)** (1981), the Supreme Court adopted a three-part test
 drawn from the British scholar Sir Ivor Jennings:
 
 1. **Precedents:** is there a track record of behaving this way?
@@ -83,14 +83,14 @@ legal but "unconstitutional in the conventional sense". <!-- check: exact wordin
 
 Because they're unwritten, conventions evolve:
 
-- The **Imperial Conference of 1926**, held months after the [King–Byng affair](event:king-byng-affair), settled
+- The **[Imperial Conference of 1926](event:imperial-conference-1926)**, held months after the [King–Byng affair](event:king-byng-affair), settled
   that the Governor General acts as the King's representative, not as an agent of the
   British government. See
   [Reserve powers](/learn/crown/reserve-powers).
 - Canada once let the British Parliament amend its Constitution on request. In 1982 that
   ended by law, not just convention.
 - People still argue about grey areas, such as when a Governor General may refuse a
-  request to prorogue or dissolve Parliament.
+  request to [prorogue](term:prorogation) or [dissolve](term:dissolution) Parliament.
 
 ### Conventions vs. laws, side by side
 

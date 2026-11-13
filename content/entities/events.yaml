@@ -115,7 +115,7 @@ events:
     date: 1848-02
     text: In February, Nova Scotia becomes the first colony in the British Empire with responsible government; the Province of Canada follows weeks later.
     era: before-confederation
-    pages: [/provinces/nova-scotia]
+    pages: [/provinces/nova-scotia, /learn/constitution/conventions]
     entities: [term:responsible-government]
 
   - id: newfoundland-responsible-government-1855
@@ -167,7 +167,7 @@ events:
     text: Canada acquires Rupert's Land and the North-Western Territory, which become the North-West Territories.
     era: building-the-country
     module: federalism
-    pages: [/learn/federalism/territories, /provinces/northwest-territories]
+    pages: [/learn/federalism/territories, /provinces/northwest-territories, /provinces/manitoba]
     entities: [term:territory]
 
   - id: manitoba-act-1870
@@ -176,7 +176,7 @@ events:
     text: The Manitoba Act makes Manitoba a province on July 15, with English and French built into its founding law.
     era: building-the-country
     pages: [/provinces/manitoba]
-    entities: [term:manitoba-act-1870]
+    entities: [term:manitoba-act-1870, doc:manitoba-act-1870]
 
   - id: british-columbia-joins-1871
     title: British Columbia joins
@@ -316,7 +316,7 @@ events:
     era: becoming-fully-independent
     module: constitution
     pages: [/learn/constitution/constitution-act-1867]
-    entities: [term:persons-case, term:living-tree, org:senate, term:judicial-committee-of-the-privy-council]
+    entities: [term:persons-case, term:living-tree, org:senate, term:judicial-committee-of-the-privy-council, case:persons-case]
 
   - id: natural-resources-transfer-1930
     title: The Natural Resources Transfer Agreements
@@ -368,7 +368,7 @@ events:
     era: becoming-fully-independent
     module: indigenous
     pages: [/learn/indigenous/section-35]
-    entities: [doc:constitution-act-1867/s91-24, term:inuit, org:supreme-court]
+    entities: [doc:constitution-act-1867/s91-24, term:inuit, org:supreme-court, case:re-eskimo-1939]
 
   - id: saskatchewan-hospital-insurance-1947
     title: Hospital insurance and a bill of rights
@@ -504,7 +504,7 @@ events:
     era: becoming-fully-independent
     module: indigenous
     pages: [/learn/indigenous/section-35, /learn/indigenous/treaties]
-    entities: [term:calder, term:aboriginal-title]
+    entities: [term:calder, term:aboriginal-title, case:calder]
 
   - id: james-bay-agreement-1975
     title: The James Bay and Northern Quebec Agreement
@@ -549,7 +549,7 @@ events:
     era: becoming-fully-independent
     module: constitution
     pages: [/learn/constitution/patriation-1982]
-    entities: [term:patriation-reference, term:constitutional-convention, org:supreme-court]
+    entities: [term:patriation-reference, term:constitutional-convention, org:supreme-court, case:patriation-reference]
 
   - id: patriation-deal-1981
     title: The patriation deal
@@ -569,7 +569,7 @@ events:
     text: On April 17, the Constitution Act, 1982 comes into force, adding the Charter, an amending formula and section 35, and ending Britain's last formal role.
     era: charter-era
     module: constitution
-    pages: [/learn/constitution/patriation-1982]
+    pages: [/learn/constitution/patriation-1982, /learn/constitution]
     people: [person:pierre-trudeau, person:elizabeth-ii]
     entities: [doc:constitution-act-1982, doc:charter, term:patriation]
 
@@ -591,7 +591,7 @@ events:
     era: charter-era
     module: constitution
     pages: [/learn/constitution/patriation-1982]
-    entities: [term:quebec-veto-reference, org:supreme-court]
+    entities: [term:quebec-veto-reference, org:supreme-court, case:quebec-veto-reference]
 
   - id: section-35-amendment-1983
     title: Section 35 is amended
@@ -628,7 +628,7 @@ events:
     text: The Supreme Court rules Manitoba's English-only laws invalid and gives the province time to re-enact them in both languages.
     era: charter-era
     pages: [/provinces/manitoba]
-    entities: [org:supreme-court]
+    entities: [org:supreme-court, case:manitoba-language-rights-reference]
 
   - id: r-v-oakes
     title: R. v. Oakes
@@ -687,7 +687,7 @@ events:
     era: charter-era
     module: indigenous
     pages: [/learn/indigenous/section-35]
-    entities: [term:sparrow, doc:constitution-act-1982/s35]
+    entities: [term:sparrow, doc:constitution-act-1982/s35, case:sparrow]
 
   - id: charlottetown-accord-1992
     title: The Charlottetown Accord
@@ -763,7 +763,7 @@ events:
     era: charter-era
     module: indigenous
     pages: [/learn/indigenous/section-35]
-    entities: [term:delgamuukw, term:aboriginal-title]
+    entities: [term:delgamuukw, term:aboriginal-title, case:delgamuukw]
 
   - id: secession-reference
     title: The Secession Reference
@@ -801,7 +801,7 @@ events:
     era: charter-era
     module: indigenous
     pages: [/learn/indigenous/treaties, /provinces/nova-scotia]
-    entities: [term:treaty-rights, term:peace-and-friendship-treaties]
+    entities: [term:treaty-rights, term:peace-and-friendship-treaties, case:r-v-marshall]
 
   - id: clarity-act
     title: The Clarity Act
@@ -809,7 +809,7 @@ events:
     text: Parliament passes the Clarity Act in response to the Secession Reference.
     era: recent
     pages: [/provinces/quebec]
-    entities: [term:clarity-act, case:secession-reference]
+    entities: [term:clarity-act, case:secession-reference, doc:clarity-act]
 
   - id: nisgaa-final-agreement
     title: The Nisga'a Final Agreement
@@ -825,7 +825,7 @@ events:
     date: 2001
     text: A constitutional amendment renames Newfoundland as Newfoundland and Labrador.
     era: recent
-    pages: [/provinces/newfoundland-and-labrador]
+    pages: [/provinces/newfoundland-and-labrador, { page: /learn/constitution/amending-formula, label: Amending formula }]
 
   - id: yukon-devolution-2003
     title: Yukon devolution
@@ -854,7 +854,7 @@ events:
     era: recent
     module: indigenous
     pages: [/learn/indigenous/section-35]
-    entities: [term:haida-nation, term:duty-to-consult]
+    entities: [term:haida-nation, term:duty-to-consult, case:haida-nation]
 
   - id: same-sex-marriage-reference
     title: The Same-Sex Marriage Reference
@@ -863,7 +863,7 @@ events:
     era: recent
     module: law
     pages: [/learn/law/supreme-court]
-    entities: [org:supreme-court, term:reference]
+    entities: [org:supreme-court, term:reference, case:same-sex-marriage-reference]
 
   - id: labrador-inuit-agreement-2005
     title: The Labrador Inuit agreement
@@ -891,7 +891,7 @@ events:
     pages:
       - /learn/elections/election-day
       - { page: /learn/elections, label: Elections }
-    entities: [term:fixed-election-date]
+    entities: [term:fixed-election-date, doc:canada-elections-act/s56-1]
 
   - id: residential-schools-apology-2008
     title: The residential schools apology
@@ -933,7 +933,7 @@ events:
     pages:
       - /learn/parliament/senate
       - { page: /learn/constitution/amending-formula, label: Amending formula }
-    entities: [term:reference-re-senate-reform, org:senate, term:amending-formula]
+    entities: [term:reference-re-senate-reform, org:senate, term:amending-formula, case:senate-reform-reference]
 
   - id: tsilhqotin
     title: Tsilhqot'in
@@ -942,14 +942,14 @@ events:
     era: recent
     module: indigenous
     pages: [/learn/indigenous/section-35, /provinces/british-columbia]
-    entities: [term:tsilhqotin, term:aboriginal-title]
+    entities: [term:tsilhqotin, term:aboriginal-title, case:tsilhqotin]
 
   - id: northwest-territories-devolution-2014
     title: Northwest Territories devolution
     date: 2014-04-01
     text: On April 1, the Northwest Territories takes over its public lands and resources.
     era: recent
-    pages: [/provinces/northwest-territories]
+    pages: [/provinces/northwest-territories, { page: /learn/federalism/territories, label: Territories }]
     entities: [term:devolution]
 
   - id: trc-calls-to-action-2015
@@ -979,7 +979,7 @@ events:
     era: recent
     module: indigenous
     pages: [/learn/indigenous/section-35]
-    entities: [term:daniels, doc:constitution-act-1867/s91-24]
+    entities: [term:daniels, doc:constitution-act-1867/s91-24, case:daniels]
 
   - id: r-v-jordan
     title: R. v. Jordan
@@ -1052,7 +1052,7 @@ events:
     pages:
       - /learn/indigenous/self-government
       - { page: /learn/indigenous, label: Indigenous peoples }
-    entities: [term:declaration-on-the-rights-of-indigenous-peoples-act, term:undrip]
+    entities: [term:declaration-on-the-rights-of-indigenous-peoples-act, term:undrip, doc:undrip-act]
 
   - id: carbon-pricing-reference-2021
     title: Carbon pricing upheld
@@ -1061,7 +1061,7 @@ events:
     era: recent
     module: federalism
     pages: [/learn/federalism/division-of-powers]
-    entities: [term:national-concern, term:peace-order-and-good-government, org:supreme-court]
+    entities: [term:national-concern, term:peace-order-and-good-government, org:supreme-court, case:carbon-pricing-references]
 
   - id: toronto-city-council-2021
     title: Toronto's city council cut upheld
@@ -1070,7 +1070,7 @@ events:
     era: recent
     module: federalism
     pages: [/learn/federalism/municipalities, /provinces/ontario]
-    entities: [org:supreme-court]
+    entities: [org:supreme-court, case:toronto-city-council-2021]
 
   - id: alberta-equalization-referendum-2021
     title: Alberta's equalization referendum
@@ -1105,7 +1105,7 @@ events:
     date: 2024-01-18
     text: Nunavut signs its lands and resources devolution agreement on January 18.
     era: recent
-    pages: [/provinces/nunavut]
+    pages: [/provinces/nunavut, { page: /learn/federalism/territories, label: Territories }]
     entities: [term:devolution]
 
   - id: child-and-family-services-reference-2024
@@ -1115,7 +1115,7 @@ events:
     era: recent
     module: indigenous
     pages: [/learn/indigenous/self-government]
-    entities: [org:supreme-court, term:self-government]
+    entities: [org:supreme-court, term:self-government, case:child-and-family-services-reference-2024]
 
   - id: alberta-notwithstanding-2025
     title: Alberta uses section 33

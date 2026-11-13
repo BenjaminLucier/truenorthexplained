@@ -4,6 +4,7 @@ parent: charter
 title: "Your Charter rights, in plain language"
 order: 1
 summary: "A plain-language walk through Charter sections 2 to 23, grouped by type, and who each right belongs to."
+about: [doc:charter, term:fundamental-freedoms, term:legal-rights, term:equality-rights, term:mobility-rights]
 status: draft
 ---
 
@@ -13,7 +14,7 @@ The Charter's rights fall into seven groups: fundamental freedoms, democratic ri
 mobility rights, legal rights, equality rights, official language rights and minority
 language education rights. Most belong to everyone in Canada; a few belong only to
 citizens. All of them protect you against **government**, not against private people or
-businesses (s. 32). This page paraphrases each section. For the exact words, read the
+businesses ([s. 32](doc:charter/s32)). This page paraphrases each section. For the exact words, read the
 [Charter itself](https://laws-lois.justice.gc.ca/eng/const/page-12.html).
 
 ## The details
@@ -57,11 +58,11 @@ to **everyone**, unless noted.
 
 | Section | Plain language |
 |---|---|
-| **s. 7** | The right to **life, liberty and security of the person**, and not to lose them except in line with the **principles of fundamental justice** (basic fairness) |
+| **s. 7** | The right to **life, liberty and security of the person**, and not to lose them except in line with the **[principles of fundamental justice](term:principles-of-fundamental-justice)** (basic fairness) |
 | **s. 8** | Protection against **unreasonable search or seizure** |
 | **s. 9** | The right not to be **arbitrarily detained or imprisoned** |
-| **s. 10** | If you're arrested or detained: to be told **promptly why**, to **get a lawyer without delay and be told you have that right**, and to have a court check whether your detention is lawful (*habeas corpus*) |
-| **s. 11** | If you're **charged with an offence**: to be told the charge without unreasonable delay; to be **tried within a reasonable time**; not to be forced to testify against yourself in your own trial; to be **presumed innocent** until proven guilty in a fair, public hearing by an independent and impartial court; not to be denied reasonable bail without just cause; to a **jury trial** if the maximum penalty is five years or more (except under military law); not to be convicted for something that wasn't an offence when you did it; not to be tried or punished twice for the same offence; and to the lighter punishment if the penalty changed between the offence and sentencing |
+| **s. 10** | If you're arrested or detained: to be told **promptly why**, to **get a lawyer without delay and be told you have that right**, and to have a court check whether your detention is lawful (*[habeas corpus](term:habeas-corpus)*) |
+| **s. 11** | If you're **charged with an offence**: to be told the charge without unreasonable delay; to be **tried within a reasonable time**; not to be forced to testify against yourself in your own trial; to be **[presumed innocent](term:presumption-of-innocence)** until proven guilty in a fair, public hearing by an independent and impartial court; not to be denied reasonable bail without just cause; to a **jury trial** if the maximum penalty is five years or more (except under military law); not to be convicted for something that wasn't an offence when you did it; not to be tried or punished twice for the same offence; and to the lighter punishment if the penalty changed between the offence and sentencing |
 | **s. 12** | Protection against **cruel and unusual** treatment or punishment |
 | **s. 13** | If you testify, what you say can't be used to incriminate you in other proceedings, except in a prosecution for perjury (lying under oath) or for giving contradictory evidence |
 | **s. 14** | The right to an **interpreter** in legal proceedings if you don't understand or speak the language being used, or are deaf |
@@ -81,7 +82,7 @@ Charter, to give governments time to bring their laws into line (s. 32(2)).
 
 ### Official languages (ss. 16–22)
 
-- **English and French** are the official languages of **Canada** and of **New
+- **English and French** are the [official languages](term:official-languages) of **Canada** and of **New
   Brunswick**, with equal status in their institutions (s. 16). The English-speaking and
   French-speaking communities of New Brunswick also have equal status (s. 16.1).
 - **Anyone** may use English or French in debates in Parliament and in the New Brunswick
@@ -104,20 +105,20 @@ schools and to some control over them.
 Who qualifies depends on the parent's first language learned and still understood, the
 language of the parent's own primary schooling in Canada, or the language a child has
 already been schooled in. One of these tests (the parent's first language) doesn't yet
-apply in Quebec (s. 59 of the Constitution Act, 1982).
+apply in Quebec (s. 59 of the [Constitution Act, 1982](doc:constitution-act-1982)).
 
 ### The rest of the Charter
 
 | Section | What it does |
 |---|---|
-| s. 1 | Rights are subject to reasonable limits. See [Reasonable limits](/learn/charter/reasonable-limits). |
+| s. 1 | Rights are subject to reasonable limits. See [Reasonable limits](doc:charter/s1). |
 | s. 24 | Courts can give remedies for breaches, and can exclude evidence obtained in breach of the Charter |
 | s. 25 | The Charter doesn't reduce Aboriginal, treaty or other rights of Aboriginal peoples. See [Indigenous peoples](/learn/indigenous). |
 | s. 27 | The Charter is to be interpreted in a way that preserves and enhances Canada's multicultural heritage |
 | s. 28 | All Charter rights are guaranteed equally to men and women |
 | s. 29 | Existing constitutional rights of denominational (religious) schools are preserved |
 | s. 32 | The Charter applies to Parliament, the provincial legislatures and governments |
-| s. 33 | The notwithstanding clause. See [The notwithstanding clause](/learn/charter/notwithstanding-clause). |
+| s. 33 | The notwithstanding clause. See [The notwithstanding clause](doc:charter/s33). |
 
 ### Who gets which rights
 

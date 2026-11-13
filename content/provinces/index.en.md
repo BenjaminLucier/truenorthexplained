@@ -35,11 +35,11 @@ compare them across the country.
 | | Provinces | Territories |
 |---|---|---|
 | How many | 10 | 3 (Northwest Territories, Yukon, Nunavut) |
-| Where their powers come from | The Constitution (mainly s. 92 of the Constitution Act, 1867) | Federal laws passed by Parliament |
+| Where their powers come from | The Constitution (mainly [s. 92](doc:constitution-act-1867/s92) of the Constitution Act, 1867) | Federal laws passed by Parliament |
 | Can Ottawa change their powers alone? | No. That would take a constitutional amendment. | Legally yes, though in practice it negotiates with them first |
 | Formal head | A **Lieutenant Governor**, who represents the King | A **Commissioner**, a federal appointee who doesn't represent the King but performs similar duties |
 | Head of government | Premier | Premier |
-| Do they control their own land and resources? | Yes (since 1930 for the three Prairie provinces) | Mostly handed over by agreement (**devolution**), rather than guaranteed by the Constitution |
+| Do they control their own land and resources? | Yes (since 1930 for the three Prairie provinces) | Mostly handed over by agreement (**[devolution](term:devolution)**), rather than guaranteed by the Constitution |
 
 Over time the territories have taken on most of the same jobs as provinces, such as
 health care and schools. Yukon, for example, runs its own health system, and Nunavut
@@ -47,9 +47,9 @@ has its own legislature and courts. The legal source of their power is what make
 different. Read more in [Why territories aren't provinces](/learn/federalism/territories).
 
 All 13 legislatures have just one chamber. Elected members are usually called **MLAs**
-(Members of the Legislative Assembly). Ontario calls them **MPPs** (Members of Provincial
-Parliament), Quebec calls them **MNAs** (Members of the National Assembly), and
-Newfoundland and Labrador calls them **MHAs** (Members of the House of Assembly). Nova
+(Members of the Legislative Assembly). Ontario calls them **[MPPs](term:mpp)** (Members of Provincial
+Parliament), Quebec calls them **[MNAs](term:mna)** (Members of the National Assembly), and
+Newfoundland and Labrador calls them **[MHAs](term:mha)** (Members of the House of Assembly). Nova
 Scotia's legislature is also called the House of Assembly, but its members are MLAs.
 
 ### All 13 at a glance
@@ -60,19 +60,19 @@ Scotia's legislature is also called the House of Assembly, but its members are M
 
 | Name | Type | Capital | Joined Canada | Legislature | Seats | Crown representative | Language notes |
 |---|---|---|---|---|---|---|---|
-| [Ontario](/provinces/ontario) | Province | Toronto | 1867 | Legislative Assembly of Ontario | 124 | Lieutenant Governor | English; French-language services guaranteed in designated areas |
-| [Quebec](/provinces/quebec) | Province | Quebec City | 1867 | National Assembly | 127 | Lieutenant Governor | French is the official language; laws must be enacted in both French and English (s. 133) |
-| [Nova Scotia](/provinces/nova-scotia) | Province | Halifax | 1867 | House of Assembly | 55 | Lieutenant Governor | English |
-| [New Brunswick](/provinces/new-brunswick) | Province | Fredericton | 1867 | Legislative Assembly of New Brunswick | 49 | Lieutenant Governor | English and French: Canada's only officially bilingual province |
-| [Manitoba](/provinces/manitoba) | Province | Winnipeg | 1870 | Legislative Assembly of Manitoba | 57 | Lieutenant Governor | Laws must be enacted in English and French (Manitoba Act, s. 23) |
-| [British Columbia](/provinces/british-columbia) | Province | Victoria | 1871 | Legislative Assembly of British Columbia | 93 | Lieutenant Governor | English |
-| [Prince Edward Island](/provinces/prince-edward-island) | Province | Charlottetown | 1873 | Legislative Assembly of Prince Edward Island | 27 | Lieutenant Governor | English |
-| [Alberta](/provinces/alberta) | Province | Edmonton | 1905 | Legislative Assembly of Alberta | 87 <!-- check: rises to 89 or 91 at the 2027 election depending on Bill 32 (2026) --> | Lieutenant Governor | English |
-| [Saskatchewan](/provinces/saskatchewan) | Province | Regina | 1905 | Legislative Assembly of Saskatchewan | 61 | Lieutenant Governor | English |
-| [Newfoundland and Labrador](/provinces/newfoundland-and-labrador) | Province | St. John's | 1949 | House of Assembly | 40 | Lieutenant Governor | English |
-| [Northwest Territories](/provinces/northwest-territories) | Territory | Yellowknife | 1870 | Legislative Assembly of the Northwest Territories | 19 | Commissioner | 11 official languages, including nine Indigenous languages |
-| [Yukon](/provinces/yukon) | Territory | Whitehorse | 1898 (as a separate territory) | Yukon Legislative Assembly | 21 | Commissioner | English and French |
-| [Nunavut](/provinces/nunavut) | Territory | Iqaluit | 1999 (split from the Northwest Territories) | Legislative Assembly of Nunavut | 22 | Commissioner | Inuit language (Inuktitut and Inuinnaqtun), English and French |
+| [Ontario](/provinces/ontario) | Province | Toronto | 1867 | Legislative Assembly of Ontario | {{legislature.seats.ontario}} | Lieutenant Governor | English; French-language services guaranteed in designated areas |
+| [Quebec](/provinces/quebec) | Province | Quebec City | 1867 | National Assembly | {{legislature.seats.quebec}} | Lieutenant Governor | French is the official language; laws must be enacted in both French and English (s. 133) |
+| [Nova Scotia](/provinces/nova-scotia) | Province | Halifax | 1867 | House of Assembly | {{legislature.seats.nova-scotia}} | Lieutenant Governor | English |
+| [New Brunswick](/provinces/new-brunswick) | Province | Fredericton | 1867 | Legislative Assembly of New Brunswick | {{legislature.seats.new-brunswick}} | Lieutenant Governor | English and French: Canada's only officially bilingual province |
+| [Manitoba](/provinces/manitoba) | Province | Winnipeg | 1870 | Legislative Assembly of Manitoba | {{legislature.seats.manitoba}} | Lieutenant Governor | Laws must be enacted in English and French (Manitoba Act, s. 23) |
+| [British Columbia](/provinces/british-columbia) | Province | Victoria | 1871 | Legislative Assembly of British Columbia | {{legislature.seats.british-columbia}} | Lieutenant Governor | English |
+| [Prince Edward Island](/provinces/prince-edward-island) | Province | Charlottetown | 1873 | Legislative Assembly of Prince Edward Island | {{legislature.seats.prince-edward-island}} | Lieutenant Governor | English |
+| [Alberta](/provinces/alberta) | Province | Edmonton | 1905 | Legislative Assembly of Alberta | {{legislature.seats.alberta}} <!-- check: rises to 89 or 91 at the 2027 election depending on Bill 32 (2026) --> | Lieutenant Governor | English |
+| [Saskatchewan](/provinces/saskatchewan) | Province | Regina | 1905 | Legislative Assembly of Saskatchewan | {{legislature.seats.saskatchewan}} | Lieutenant Governor | English |
+| [Newfoundland and Labrador](/provinces/newfoundland-and-labrador) | Province | St. John's | 1949 | House of Assembly | {{legislature.seats.newfoundland-and-labrador}} | Lieutenant Governor | English |
+| [Northwest Territories](/provinces/northwest-territories) | Territory | Yellowknife | 1870 | Legislative Assembly of the Northwest Territories | {{legislature.seats.northwest-territories}} | Commissioner | 11 official languages, including nine Indigenous languages |
+| [Yukon](/provinces/yukon) | Territory | Whitehorse | 1898 (as a separate territory) | Yukon Legislative Assembly | {{legislature.seats.yukon}} | Commissioner | English and French |
+| [Nunavut](/provinces/nunavut) | Territory | Iqaluit | 1999 (split from the Northwest Territories) | Legislative Assembly of Nunavut | {{legislature.seats.nunavut}} | Commissioner | Inuit language (Inuktitut and Inuinnaqtun), English and French |
 
 <!-- check: NWT, Nunavut, PEI, Quebec and Saskatchewan seat counts were not re-verified against the legislatures' own sites in this pass; confirm against the territory/province pages written in parallel -->
 
@@ -86,8 +86,8 @@ A few things the table shows:
   Newfoundland were separate British colonies that agreed to join.
 - **Only Quebec** calls its legislature a National Assembly. Every legislature's
   elected members still work the same basic way: the party that can keep the
-  legislature's **confidence** (its support in key votes) forms the government.
-- **The Northwest Territories and Nunavut** run on **consensus government**: members
+  legislature's **[confidence](term:confidence)** (its support in key votes) forms the government.
+- **The Northwest Territories and Nunavut** run on **[consensus government](term:consensus-government)**: members
   are elected without political parties and choose the premier and cabinet among
   themselves. Yukon has parties, like the provinces.
 

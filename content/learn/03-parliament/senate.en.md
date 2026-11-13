@@ -5,13 +5,14 @@ title: "The Senate"
 order: 2
 summary: "Canada's appointed upper house: what it does, how senators are chosen, and why reforming it is so hard."
 status: draft
+about: [org:senate, term:senate, case:senate-reform-reference, term:independent-advisory-board-for-senate-appointments, doc:constitution-act-1867/s29]
 ---
 
 ## In short
 
-The **Senate** is Parliament's appointed "upper house." Its job is to give bills a second,
-closer look, and to speak for regions and groups that might be outnumbered in the House of
-Commons. Senators are appointed by the Governor General on the Prime Minister's
+The **Senate** is [Parliament](org:parliament)'s appointed "upper house." Its job is to give bills a second,
+closer look, and to speak for regions and groups that might be outnumbered in the [House of
+Commons](org:house-of-commons). Senators are appointed by the Governor General on the Prime Minister's
 recommendation and serve until age 75. The Senate has almost the same legal power as the
 House over bills, but because it isn't elected, it usually defers to the House in the end.
 
@@ -19,7 +20,7 @@ House over bills, but because it isn't elected, it usually defers to the House i
 
 ### Why it exists
 
-At Confederation in 1867, the smaller colonies worried that the House of Commons, where
+At [Confederation](event:confederation) in 1867, the smaller colonies worried that the House of Commons, where
 seats follow population, would be dominated by the larger ones. The Senate was the answer:
 seats there are divided **by region**, not by population. It was also designed as a place
 of "sober second thought," where appointed members could review legislation more calmly
@@ -58,7 +59,7 @@ eight extra senators to break a deadlock (s. 26). This has been used once, in 19
 ### What it does
 
 - **Reviews bills.** Every federal bill must pass the Senate. It goes through the same three
-  readings and committee study as in the House (see
+  [readings](term:readings) and committee study as in the House (see
   [how a bill becomes law](/learn/parliament/how-a-bill-becomes-law)).
 - **Amends bills.** The Senate regularly proposes amendments. The House can accept or reject
   them.
@@ -66,22 +67,22 @@ eight extra senators to break a deadlock (s. 26). This has been used once, in 19
   money, which must start in the House.
 - **Studies issues.** Senate committees produce in-depth reports on policy questions.
 
-Legally, the Senate can defeat any bill, including one passed by the House. By convention,
+Legally, the Senate can defeat any bill, including one passed by the House. By [convention](term:convention),
 though, it rarely blocks a bill the elected House clearly wants, especially one the
 government promised in an election. The one area where the Senate's veto is limited in
 writing is constitutional amendments: if the Senate doesn't approve one within 180 days, the
-House can pass it again and go ahead without the Senate (Constitution Act, 1982, s. 47).
+House can pass it again and go ahead without the Senate (Constitution Act, 1982, [s. 47](doc:constitution-act-1982/s47)).
 
 ### How senators are chosen
 
-The Constitution says the Governor General "summons" senators (s. 24). By convention, the
-Governor General appoints whoever the Prime Minister recommends. The written rules about
+The Constitution says the [Governor General](org:governor-general) "summons" senators (s. 24). By convention, the
+Governor General appoints whoever the [Prime Minister](org:prime-minister) recommends. The written rules about
 *how* the Prime Minister picks have never changed. What has changed is practice.
 
 | Period | How it worked in practice |
 |---|---|
 | Before 2016 | The Prime Minister chose senators personally. Most were members of the PM's party. |
-| 2014 | One party leader removed his party's senators from the party's parliamentary caucus, so they sat as independents. |
+| 2014 | One party leader removed his party's senators from the party's parliamentary [caucus](term:caucus), so they sat as independents. |
 | Since 2016 | An **Independent Advisory Board for Senate Appointments** reviews applications and gives the Prime Minister a non-binding shortlist for each vacancy. |
 
 How the advisory process works:
@@ -105,7 +106,7 @@ Prime Minister could change or end it.
 
 ### Why reform is so hard
 
-In 2014, the Supreme Court of Canada answered a set of questions from the federal government
+In 2014, the [](org:supreme-court) answered a set of questions from the federal government
 in **Reference re Senate Reform**. In short:
 
 - **Consultative elections** for senators, or **fixed terms** instead of serving to 75, would

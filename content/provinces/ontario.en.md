@@ -6,6 +6,7 @@ capital: "Toronto"
 joined: 1867
 summary: "The most populous province and home to the national capital; a founding province whose legislature has had a single chamber from the start."
 status: draft
+about: [term:queens-park, event:upper-canada-1791, event:province-of-canada-1841]
 ---
 
 ## At a glance
@@ -15,11 +16,11 @@ status: draft
 | Capital | Toronto |
 | Joined Confederation | 1867 (a founding province) |
 | Legislature | Legislative Assembly of Ontario |
-| Seats | 124 |
+| Seats | {{legislature.seats.ontario}} |
 | Crown representative | Lieutenant Governor of Ontario |
 | Head of government | Premier |
 
-> **As of 2026:** The Legislative Assembly has 124 seats.
+> **As of 2026:** The Legislative Assembly has {{legislature.seats.ontario}} seats.
 
 ## In numbers
 
@@ -30,7 +31,7 @@ status: draft
 Ontario's legislature is the **Legislative Assembly of Ontario**, which meets at
 **Queen's Park** in Toronto. People often use "Queen's Park" as shorthand for the
 provincial government, the way "Ottawa" means the federal one. Ontario's elected
-members are called **MPPs** (Members of Provincial Parliament) instead of MLAs.
+members are called **[MPPs](term:mpp)** (Members of Provincial Parliament) instead of MLAs.
 
 Unlike most of the original provinces, Ontario never had an appointed upper house after
 Confederation. Its legislature has had only one chamber since 1867.
@@ -48,7 +49,7 @@ and carry out other formal duties on the advice of the elected government. See
 ### The biggest province
 
 Ontario has more people than any other province, nearly 4 in 10 Canadians. <!-- check: share of population against latest Statistics Canada estimate -->
-That gives it the most seats in the federal House of Commons, because seats are
+That gives it the most seats in the federal [House of Commons](org:house-of-commons), because seats are
 divided among the provinces mainly by population. It's also home to **Ottawa**, the
 national capital, as well as Toronto, Canada's largest city.
 
@@ -56,9 +57,9 @@ national capital, as well as Toronto, Canada's largest city.
 
 Before Confederation, the area was the British colony of **Upper Canada** (created in
 1791). In 1841 it was joined with Lower Canada (today's Quebec) to form the **Province
-of Canada**, where it was known as **Canada West**. Confederation in 1867 split the
+of Canada**, where it was known as **Canada West**. [Confederation](event:confederation) in 1867 split the
 Province of Canada into two new provinces, Ontario and Quebec. See
-[What's in the 1867 Act](/learn/constitution/constitution-act-1867).
+[What's in the 1867 Act](doc:constitution-act-1867).
 
 ### French-language services
 
@@ -77,7 +78,7 @@ bilingual under the Constitution.
 Ontario shows clearly that municipalities have no constitutional protection of their
 own. In 2018, in the middle of a municipal election campaign, the province passed a
 law cutting Toronto's city council from 47 seats to 25. In 2021, the Supreme Court of
-Canada ruled in *Toronto (City) v. Ontario* that the province was allowed to do so. See
+Canada ruled in [*Toronto (City) v. Ontario*](case:toronto-city-council-2021) that the province was allowed to do so. See
 [Municipalities](/learn/federalism/municipalities).
 
 ## Courts
@@ -104,7 +105,7 @@ Ontario municipalities come in three types:
   handle more local services.
 - **Single-tier** municipalities, such as Toronto and Ottawa, do both.
 
-> **As of 2026:** Since 2022, Ontario has given **"strong mayor" powers** to the mayors
+> **As of 2026:** Since 2022, Ontario has given **["strong mayor" powers](term:strong-mayor-powers)** to the mayors
 > of a growing number of municipalities. These let a mayor, for example, propose the
 > budget and hire senior staff. <!-- check: current list of municipalities and scope of powers -->
 

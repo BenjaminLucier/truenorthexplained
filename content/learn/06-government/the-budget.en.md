@@ -4,6 +4,7 @@ parent: government
 title: "How federal spending gets approved"
 order: 5
 summary: "The budget is the plan; the estimates and supply bills are what make spending legal. Only the government can propose spending, and only the Commons can start money bills."
+about: [term:budget, term:estimates, term:supply, term:royal-recommendation, term:money-bill]
 status: draft
 ---
 
@@ -13,20 +14,20 @@ The **budget** is the government's economic and fiscal plan, presented by the Mi
 of Finance. It isn't what makes spending legal. That comes from the **estimates**,
 detailed spending requests tabled in Parliament, and the **supply bills** (appropriation
 acts) that Parliament passes to approve them, along with other laws that authorize
-spending on their own. The Constitution says money bills must start in the House of
-Commons and that only the government can propose spending.
+spending on their own. The Constitution says money bills must start in the [House of
+Commons](org:house-of-commons) and that only the government can propose spending.
 
 ## The details
 
 ### Two constitutional rules
 
-The Constitution Act, 1867 sets two rules about money:
+The [Constitution Act, 1867](doc:constitution-act-1867) sets two rules about money:
 
 - **Section 53:** bills to spend public money or impose a tax must **originate in the
   House of Commons**, not the Senate. The elected chamber starts all money bills. The
   Senate still has to pass them, as with any bill.
 - **Section 54:** the House can't pass a bill or motion to spend public money unless the
-  purpose was first **recommended by the Governor General**, which in practice means
+  purpose was first **recommended by the [Governor General](org:governor-general)**, which in practice means
   the government. This is the **royal recommendation**. In practice it means only
   ministers can propose new spending. An opposition MP or backbencher can introduce a
   bill that would require new spending, but it can't pass third reading unless a minister
@@ -45,7 +46,7 @@ Some key points:
 
 - No law requires a budget on a specific date, but presenting one is a central part of
   each parliamentary year.
-- The House votes on a **budget motion**. By convention this is a **confidence vote**:
+- The House votes on a **budget motion**. By convention this is a **[confidence vote](term:confidence-vote)**:
   if the government loses, it's expected to resign or seek an election. See
   [confidence](/learn/parliament/confidence).
 - Tax changes need their own legislation. They start with a **ways and means motion**
@@ -81,12 +82,12 @@ explained below) rather than the running costs of departments:
 ### The estimates
 
 The **estimates** are the government's detailed requests to Parliament for the money
-each department and agency will need. They're prepared by the **Treasury Board** and
+each department and agency will need. They're prepared by the **[Treasury Board](org:treasury-board)** and
 tabled by its President.
 
 - **Main Estimates:** the spending plan for the coming fiscal year (April 1 to March 31).
   They must be tabled by March 1.
-- **Supplementary Estimates**, labelled (A), (B) and (C): requests during the year for
+- **[Supplementary Estimates](term:supplementary-estimates)**, labelled (A), (B) and (C): requests during the year for
   money not in the Main Estimates, for new programs or changed costs.
 - Each department also publishes a **Departmental Plan** and, after the year ends, a
   **Departmental Results Report**.
@@ -110,7 +111,7 @@ A large share of federal spending is statutory.
 ### Supply: giving the government its money
 
 **Supply** is Parliament's grant of money to the Crown. The House sets aside a number
-of **opposition days** (also called allotted days) through the year. On these days
+of **[opposition days](term:opposition-days)** (also called allotted days) through the year. On these days
 opposition parties choose the topic of debate, as a reminder that the House can refuse
 supply.
 
@@ -139,10 +140,10 @@ flowchart TD
 ### After the money is spent
 
 - The **Public Accounts of Canada** report what was actually spent and collected. The
-  Auditor General audits them.
-- The **Parliamentary Budget Officer** publishes independent analysis of the budget and
+  [Auditor General](org:auditor-general) audits them.
+- The **[Parliamentary Budget Officer](org:parliamentary-budget-officer)** publishes independent analysis of the budget and
   estimates.
-- The House **Public Accounts Committee** reviews the Auditor General's reports.
+- The House **[Public Accounts Committee](term:public-accounts-committee)** reviews the Auditor General's reports.
 
 See [officers of Parliament](/learn/government/watchdogs).
 

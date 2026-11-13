@@ -2,10 +2,11 @@
 id: governors-general
 title: "Monarchs and governors general"
 summary: "Every monarch and Governor General since Confederation in 1867, plus the chief justices who stand in when the Governor General's office is empty."
+about: [term:administrator-of-the-government-of-canada]
 status: draft
 ---
 
-Canada is a **constitutional monarchy**. The **King** (or Queen) is head of state, and
+Canada is a **[constitutional monarchy](term:constitutional-monarchy)**. The **King** (or Queen) is head of state, and
 the **Governor General** carries out almost all of the monarch's duties in Canada. Both
 act on the advice of the elected government. See [The Crown](/learn/crown) and
 [The Governor General and Lieutenant Governors](/learn/crown/governor-general) for what
@@ -15,7 +16,7 @@ the roles involve.
 
 The monarch of Canada is the same person as the monarch of the United Kingdom, but the
 two Crowns are legally separate. The Crown of Canada became distinct over the 20th
-century, especially after the Statute of Westminster in 1931, and since 1953 the monarch
+century, especially after the [Statute of Westminster](event:statute-of-westminster) in 1931, and since 1953 the monarch
 has used a Canadian title.
 <!-- check: 1953 Royal Style and Titles Act as the first distinct Canadian title -->
 
@@ -50,10 +51,10 @@ A few milestones stand out in the list:
 ## When the office is empty
 
 If the Governor General dies, resigns or is out of the country for a long time, the
-**Chief Justice of Canada** steps in as **Administrator of the Government of Canada** and
+**[Chief Justice of Canada](term:chief-justice-of-canada)** steps in as **Administrator of the Government of Canada** and
 can use the Governor General's powers. This happened most recently between Julie
 Payette's resignation in January 2021 and Mary Simon's installation that July. See the
-[glossary](/glossary#administrator-of-the-government-of-canada).
+[glossary](term:administrator-of-the-government-of-canada).
 
 <tn-widget name="crown" data-set="chief-justices" data-part="table"></tn-widget>
 

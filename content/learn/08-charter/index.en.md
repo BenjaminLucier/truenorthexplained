@@ -5,6 +5,7 @@ order: 8
 icon: ShieldCheck
 summary: "What the Charter of Rights and Freedoms protects, who it binds, and the two clauses that limit it."
 deep_dives: [your-rights, reasonable-limits, notwithstanding-clause, landmark-cases]
+about: [doc:charter, term:charter-of-rights-and-freedoms, doc:charter/s32, term:dialogue]
 status: draft
 ---
 
@@ -23,12 +24,12 @@ a time. Courts enforce the Charter, and can strike down laws that break it.
 
 ### What it is
 
-The Charter is the first part of the **Constitution Act, 1982**, which came into force on
+The Charter is the first part of the **[Constitution Act, 1982](doc:constitution-act-1982)**, which came into force on
 April 17, 1982, when Canada [patriated its Constitution](/learn/constitution/patriation-1982).
 Because it's part of the Constitution, it's **supreme law**: an ordinary law that
 conflicts with it can be struck down.
 
-Before 1982, Canada had the *Canadian Bill of Rights* (1960). But that was an ordinary
+Before 1982, Canada had the *[Canadian Bill of Rights](term:canadian-bill-of-rights)* (1960). But that was an ordinary
 federal law. It applied only to federal laws, and courts rarely used it to strike
 anything down. The Charter changed that: it applies to every level of government, and
 courts enforce it.
@@ -61,7 +62,7 @@ border agents. Cities are covered too, because their powers come from the provin
 
 It **doesn't** apply to private people or private businesses. If a private employer or
 landlord treats you unfairly, the Charter isn't the tool. Instead, federal and
-provincial **human rights laws** protect people against discrimination in things like
+provincial **[human rights laws](term:human-rights-laws)** protect people against discrimination in things like
 jobs, housing and services.
 
 ### Rights have limits: section 1
@@ -75,32 +76,32 @@ That means a court asks two questions:
 1. **Does this law or action limit a Charter right?** The person challenging it has to
    show that.
 2. **If so, is the limit justified?** Now it's the **government's** job to prove the limit
-   is reasonable, using a test from the 1986 case *R. v. Oakes*: an important goal,
+   is reasonable, using a test from the 1986 case [*R. v. Oakes*](case:r-v-oakes): an important goal,
    sensible means, as little harm to the right as reasonably possible, and benefits that
    outweigh the costs.
 
 Hate speech laws are an example: they limit freedom of expression, but courts have found
-them justified. [More on section 1 and the Oakes test](/learn/charter/reasonable-limits).
+them justified. [More on section 1 and the Oakes test](doc:charter/s1).
 
 ### The override: section 33
 
 Section 33, the **notwithstanding clause**, lets Parliament or a provincial legislature
 pass a law that operates "notwithstanding" certain Charter rights: fundamental freedoms
-(s. 2), legal rights (ss. 7–14) and equality (s. 15). It can't be used on democratic,
+([s. 2](doc:charter/s2)), legal rights (ss. 7–14) and equality ([s. 15](doc:charter/s15)). It can't be used on democratic,
 mobility or language rights. Each use expires after **five years** unless it's passed
 again.
 
 It was a compromise in 1981 to get most provinces to agree to the Charter. The federal
 Parliament has never used it. Several provinces (and, once, Yukon) have, and its use is one of the most
 debated questions in Canadian politics.
-[More on the notwithstanding clause](/learn/charter/notwithstanding-clause).
+[More on the notwithstanding clause](doc:charter/s33).
 
 ### How the Charter gets enforced
 
 If you believe a government has violated your Charter rights, you can raise it in court.
-Section 24 lets courts give a remedy that is "appropriate and just". In a criminal case,
+[Section 24](doc:charter/s24) lets courts give a remedy that is "appropriate and just". In a criminal case,
 evidence obtained by breaking your rights can be excluded if using it would bring the
-justice system into disrepute. And under section 52 of the Constitution Act, 1982, a law
+justice system into disrepute. And under [section 52](doc:constitution-act-1982/s52) of the Constitution Act, 1982, a law
 that breaks the Charter is of no force or effect.
 
 Courts don't have the last word on everything. Legislatures often respond to a court

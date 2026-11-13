@@ -5,11 +5,12 @@ title: "Why changing the Constitution is so hard"
 order: 3
 summary: "Part V of the 1982 Act sets five ways to amend the Constitution, from one legislature acting alone to Parliament plus all ten provinces."
 status: draft
+about: [term:amending-formula, term:general-amending-procedure, term:unanimity-procedure, term:regional-veto, event:regional-veto-1996]
 ---
 
 ## In short
 
-Part V of the Constitution Act, 1982 (ss. 38–49) sets out **five amending procedures**.
+Part V of the [Constitution Act, 1982](doc:constitution-act-1982) (ss. 38–49) sets out **five amending procedures**.
 Which one applies depends on what's being changed. Most significant changes need
 Parliament plus seven provinces with half the population. Some, including anything
 touching the monarchy, need Parliament plus **all ten** provinces. A 1996 federal law
@@ -19,8 +20,8 @@ adds a further layer of regional consent in practice.
 
 ### Who has to agree
 
-An amendment under the multi-government procedures is made by a **proclamation** issued
-by the Governor General, once the required **resolutions** have been passed. A
+An amendment under the multi-government procedures is made by a **[proclamation](term:proclamation)** issued
+by the Governor General, once the required **[resolutions](term:resolution)** have been passed. A
 resolution is a formal vote in the Senate, the House of Commons or a provincial
 legislature. A province's legislature, the Senate or the House can start the process
 (s. 46(1)).
@@ -58,7 +59,7 @@ provinces.
 
 ### The extra layer: the 1996 "regional veto" law
 
-After the 1995 Quebec referendum, Parliament passed *An Act respecting constitutional
+After the [1995 Quebec referendum](event:quebec-referendum-1995), Parliament passed *An Act respecting constitutional
 amendments*. It says no federal minister may propose a 7/50 amendment unless it has
 first been approved by a majority of provinces that includes:
 
@@ -76,7 +77,7 @@ makes the general procedure much harder to use.
 
 Beyond the legal rules, some provinces (including British Columbia and Alberta) have
 laws requiring a referendum before their legislature votes on certain constitutional
-amendments. <!-- check: current BC Constitutional Amendment Approval Act and Alberta Constitutional Referendum Act requirements --> And since the 1992 Charlottetown referendum, many people
+amendments. <!-- check: current BC Constitutional Amendment Approval Act and Alberta Constitutional Referendum Act requirements --> And since the [1992 Charlottetown referendum](event:charlottetown-accord-1992), many people
 expect a national referendum for any major change, although none is legally required.
 
 ### What the courts have said
@@ -84,9 +85,9 @@ expect a national referendum for any major change, although none is legally requ
 The Supreme Court has made clear that you can't get around these procedures by passing
 an ordinary law:
 
-- **Reference re Senate Reform (2014):** Parliament alone can't create elections for
+- **[Reference re Senate Reform](case:senate-reform-reference) (2014):** Parliament alone can't create elections for
   senators or set term limits. Those need 7/50. Abolishing the Senate needs unanimity.
-- **Reference re Supreme Court Act, ss. 5 and 6 (2014):** the rule that at least three
+- **[Reference re Supreme Court Act, ss. 5 and 6](term:reference-re-supreme-court-act) (2014):** the rule that at least three
   of the nine judges come from Quebec is part of the Court's "composition", so it can only be
   changed with unanimity.
 
@@ -96,13 +97,13 @@ Yes, but mostly for narrow changes:
 
 | Procedure | Examples |
 |---|---|
-| General (7/50) | 1983: strengthening the protection of Aboriginal and treaty rights in s. 35 <!-- check: only use of s. 38 to date --> |
-| Bilateral (s. 43) | 1993: equality of New Brunswick's English and French communities (s. 16.1 of the Charter). 1997: removing denominational school guarantees in Quebec (s. 93A). 2001: renaming Newfoundland as Newfoundland and Labrador. |
+| General (7/50) | 1983: strengthening the protection of Aboriginal and treaty rights in [s. 35](doc:constitution-act-1982/s35) <!-- check: only use of s. 38 to date --> |
+| Bilateral (s. 43) | 1993: equality of New Brunswick's English and French communities ([s. 16.1](doc:charter/s16-1) of the Charter). 1997: removing denominational school guarantees in Quebec (s. 93A). 2001: [renaming Newfoundland as Newfoundland and Labrador](event:newfoundland-and-labrador-2001). |
 | Parliament alone (s. 44) | Changes to the formula for distributing House of Commons seats |
 | A province alone (s. 45) | 2022: Quebec's additions to the 1867 Act (ss. 90Q.1–90Q.2). 2023: Saskatchewan's (s. 90S.1). |
 
 The unanimity procedure has never been successfully used. Its one serious attempt, the
-Meech Lake Accord, failed. See [1982: Bringing the Constitution home](/learn/constitution/patriation-1982).
+[Meech Lake Accord](event:meech-lake-accord), failed. See [1982: Bringing the Constitution home](/learn/constitution/patriation-1982).
 
 ### Why make it so hard?
 

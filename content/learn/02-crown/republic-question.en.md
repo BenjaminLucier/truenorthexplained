@@ -5,15 +5,16 @@ title: "Could Canada drop the monarchy?"
 order: 3
 summary: "Becoming a republic is legally possible but needs Parliament and all ten provinces to agree, and nobody agrees on what would replace the Crown."
 status: draft
+about: [doc:constitution-act-1982/s41, event:succession-to-the-throne-act-2013]
 ---
 
 ## In short
 
 Yes, in principle. But changing "the office of the Queen" (now the King) is one of the
-few things that needs the **unanimous** consent of the Senate, the House of Commons and
+few things that needs the **[unanimous](term:unanimity-procedure)** consent of the Senate, the House of Commons and
 all ten provincial legislatures (Constitution Act, 1982, s. 41(a)). Beyond that legal
 hurdle, Canadians would have to agree on what replaces the Crown, and the Crown is
-built into everything from treaties with First Nations to how bills become law. People
+built into everything from treaties with [First Nations](term:first-nations) to how bills become law. People
 disagree about whether the change is worth making.
 
 ## The details
@@ -28,7 +29,7 @@ amending procedure. The first is:
 
 That means a resolution passed by:
 
-1. the Senate (though under s. 47 the House can override a Senate that hasn't acted
+1. the Senate (though under [s. 47](doc:constitution-act-1982/s47) the House can override a Senate that hasn't acted
    within 180 days),
 2. the House of Commons, and
 3. **every one** of the ten provincial legislatures.
@@ -53,8 +54,8 @@ Not every change touching the monarchy reaches the s. 41 bar:
   ban on heirs who marry Roman Catholics. Two Quebec law professors challenged it,
   arguing it needed a constitutional amendment. The Quebec courts disagreed: the Quebec
   Court of Appeal held in 2019 that the rules of succession aren't part of Canada's
-  Constitution, and the Supreme Court declined to hear an appeal in 2020.
-- **Provincial oaths.** Quebec passed a law in 2022 so members of its National Assembly
+  Constitution, and the [Supreme Court](org:supreme-court) declined to hear an appeal in 2020.
+- **Provincial oaths.** Quebec passed a law in 2022 so members of its [National Assembly](org:national-assembly)
   no longer have to swear an oath to the King.
 
 These don't change the *office* of the monarch, so they didn't need unanimity.
@@ -65,21 +66,21 @@ This is arguably harder than the legal hurdle. A republic would have to decide:
 
 | Question | Some options |
 |---|---|
-| Who is head of state? | A president, or the Governor General's office renamed and made the top position |
+| Who is [head of state](term:head-of-state)? | A president, or the Governor General's office renamed and made the top position |
 | How is that person chosen? | Appointed by the Prime Minister, elected by Parliament, or elected by voters |
-| What powers do they have? | Ceremonial only, or keeping today's reserve powers |
+| What powers do they have? | Ceremonial only, or keeping today's [reserve powers](term:reserve-powers) |
 | What about the provinces? | Replacing ten Lieutenant Governors as well, and redefining the "Crown in right of" each province |
 | What about the treaties? | Many First Nations made treaties with the Crown, and some see the relationship as being with the Crown itself |
 
 Each answer has knock-on effects. An elected head of state, for example, might claim a
 democratic mandate to use powers that today's Governor General keeps in reserve. And the
 Crown appears throughout Canadian law: in the 1867 Act, in prosecutions, in
-government property, and in the duty known as the **honour of the Crown**. See
+government property, and in the duty known as the **[honour of the Crown](term:honour-of-the-crown)**. See
 [Indigenous peoples and the Crown](/learn/indigenous).
 
 ### Recent signals
 
-- **2022:** In October, a few weeks after the new King's accession, the Bloc Québécois proposed a House of
+- **2022:** In October, a few weeks after the new [King's accession](event:charles-iii-accession), the Bloc Québécois proposed a House of
   Commons motion to sever ties with the monarchy. It was defeated by 266 votes to 44.
   The vote was symbolic: a motion can't change the Constitution.
 - **Other realms:** Barbados became a republic in 2021 and remained in the

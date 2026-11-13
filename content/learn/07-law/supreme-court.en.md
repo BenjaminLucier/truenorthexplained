@@ -4,6 +4,7 @@ parent: law
 title: "The Supreme Court of Canada"
 order: 4
 summary: "Canada's final court: nine judges, three from Quebec, who choose most of their own cases and can answer governments' legal questions."
+about: [org:supreme-court, doc:supreme-court-act, term:leave-to-appeal, term:reference, term:puisne-judges]
 status: draft
 ---
 
@@ -11,9 +12,9 @@ status: draft
 
 The **Supreme Court of Canada** is the country's final court of appeal. It has **nine
 judges**, and by law at least **three must come from Quebec**. In most cases you need the
-Court's permission to appeal, called **[leave to appeal](/glossary#leave-to-appeal)**, and it grants that only for
+Court's permission to appeal, called **[leave to appeal](term:leave-to-appeal)**, and it grants that only for
 issues of public importance. Governments can also ask it for an opinion on a legal
-question, called a **[reference](/glossary#reference)**. That's how it ruled on whether Quebec could leave
+question, called a **[reference](term:reference)**. That's how it ruled on whether Quebec could leave
 Canada.
 
 ## The details
@@ -28,7 +29,7 @@ Canada.
 - **Since 1949,** the Supreme Court has been Canada's final court of appeal.
 
 > [!NOTE]
-> A well-known example of the old system: in the **Persons Case** (1929), the Privy
+> A well-known example of the old system: in the **[Persons Case](case:persons-case)** (1929), the Privy
 > Council overturned the Supreme Court and ruled that women were "persons" who could be
 > appointed to the Senate.
 
@@ -36,13 +37,13 @@ Canada.
 
 The *Supreme Court Act* sets the Court's makeup:
 
-- **Nine judges:** the **Chief Justice of Canada** and eight others, called **[puisne](/glossary#puisne-judges)**
+- **Nine judges:** the **[Chief Justice of Canada](term:chief-justice-of-canada)** and eight others, called **[puisne](term:puisne-judges)**
   (pronounced "puny") judges (s. 4(1)).
 - **Who qualifies:** a current or former judge of a provincial superior court, or a
   lawyer with at least 10 years at the bar of a province (s. 5).
 - **Quebec seats:** at least three judges must come from Quebec's Court of Appeal, its
   Superior Court, or the Quebec bar (s. 6). This makes sure the Court always has judges
-  trained in Quebec's civil law. See [Common law and civil law](/learn/law/common-law-and-civil-law).
+  trained in Quebec's [civil law](term:civil-law). See [Common law and civil law](/learn/law/common-law-and-civil-law).
 - **Retirement:** judges must retire at 75 (s. 9(2)).
 
 <tn-widget name="supreme-court-bench"></tn-widget>
@@ -53,7 +54,7 @@ Ontario, two from the western provinces or the North, and one from Atlantic Cana
 
 In 2014, the Court ruled that its own makeup, including the Quebec seats, is protected by
 the Constitution. Parliament can't change it alone. Changes would need the agreement of
-Parliament and every province (*Reference re Supreme Court Act, ss. 5 and 6*, 2014).
+Parliament and every province (*[Reference re Supreme Court Act, ss. 5 and 6](term:reference-re-supreme-court-act)*, 2014).
 
 Judges are appointed by the Governor General on the Prime Minister's choice. See
 [Judges](/learn/law/judges) for how candidates are found.
@@ -80,7 +81,7 @@ flowchart TD
   different provinces disagree. The Court usually doesn't give reasons for granting or
   refusing leave. Only a small share of applications are granted.
   <!-- check: add an "As of 2026" figure for applications and grant rate from the SCC's Year in Review statistics -->
-- **Appeals as of right.** In a few situations, no permission is needed. One example is
+- **[Appeals as of right](term:appeal-as-of-right).** In a few situations, no permission is needed. One example is
   certain criminal cases where a judge of the court of appeal dissented on a point of
   law.
 
@@ -94,7 +95,7 @@ judgments are published in both.
 Normally a court only decides real disputes between parties. A **reference** is the
 exception: a government asks a court for its opinion on a legal question.
 
-- The **federal cabinet** can refer important questions of law or fact directly to the
+- The **[federal cabinet](org:cabinet)** can refer important questions of law or fact directly to the
   Supreme Court, for example about the meaning of the Constitution or whether a law is
   constitutional (s. 53 of the *Supreme Court Act*).
 - **Provincial governments** can't go straight to the Supreme Court. They refer
@@ -105,10 +106,10 @@ Some major references:
 
 | Year | Reference | The question, roughly |
 |---|---|---|
-| 1981 | Patriation Reference | Could Ottawa ask the UK to change Canada's Constitution without the provinces' consent? See [Patriation](/learn/constitution/patriation-1982). |
-| 1998 | **Secession Reference** | Could Quebec leave Canada on its own? The Court said no, not unilaterally under the Constitution. But if a clear majority of Quebecers voted for secession on a clear question, the rest of Canada would have a duty to negotiate. |
+| 1981 | [Patriation Reference](case:patriation-reference) | Could Ottawa ask the UK to change Canada's Constitution without the provinces' consent? See [Patriation](/learn/constitution/patriation-1982). |
+| 1998 | **[Secession Reference](case:secession-reference)** | Could Quebec leave Canada on its own? The Court said no, not unilaterally under the Constitution. But if a clear majority of Quebecers voted for secession on a clear question, the rest of Canada would have a duty to negotiate. |
 | 2004 | Same-Sex Marriage Reference | Could Parliament define marriage to include same-sex couples? The Court said yes. |
-| 2014 | Senate Reform Reference | Could Parliament alone create Senate elections or term limits? The Court said no; that would need provincial consent. |
+| 2014 | [Senate Reform Reference](case:senate-reform-reference) | Could Parliament alone create Senate elections or term limits? The Court said no; that would need provincial consent. |
 
 The Secession Reference is also summarized on the
 [landmark cases](/learn/charter/landmark-cases) page.
@@ -120,7 +121,7 @@ treated them as binding.
 
 Every other court in Canada must follow the Supreme Court's decisions. When it rules
 that a law is unconstitutional, that ruling applies across the country. This is how
-the Court shapes the [Charter](/learn/charter): most of what the Charter means in
+the Court shapes the [Charter](doc:charter): most of what the Charter means in
 practice comes from its decisions.
 
 ## Sources

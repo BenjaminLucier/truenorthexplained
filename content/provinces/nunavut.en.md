@@ -6,6 +6,7 @@ capital: "Iqaluit"
 joined: 1999
 summary: "Canada's newest territory, created in 1999 through an Inuit land claim, governed by consensus and working in Inuktut."
 status: draft
+about: [term:nunavut-agreement, event:nunavut-created-1999, term:public-government, term:nunavut-court-of-justice, event:nunavut-devolution-agreement-2024]
 ---
 
 ## At a glance
@@ -15,11 +16,11 @@ status: draft
 | Capital | Iqaluit |
 | Became a territory | 1999 (separated from the Northwest Territories) |
 | Legislature | Legislative Assembly of Nunavut (one chamber) |
-| Seats | 22 |
+| Seats | {{legislature.seats.nunavut}} |
 | The federal representative | Commissioner |
 | Head of government | Premier |
 
-> **As of 2026:** The Legislative Assembly has 22 members, one for each constituency.
+> **As of 2026:** The Legislative Assembly has {{legislature.seats.nunavut}} members, one for each constituency.
 
 ## In numbers
 
@@ -27,17 +28,17 @@ status: draft
 
 ## How it's governed
 
-Nunavut is a **territory**, so its powers come from a federal law, the **Nunavut
+Nunavut is a **[territory](term:territory)**, so its powers come from a federal law, the **Nunavut
 Act**, rather than from the Constitution. See
 [Why territories aren't provinces](/learn/federalism/territories).
 
 - **The Commissioner** is appointed by the federal cabinet and does the formal jobs a
-  Lieutenant Governor does in a province, such as giving assent to laws. The Nunavut
+  [Lieutenant Governor](org:lieutenant-governor) does in a province, such as giving assent to laws. The Nunavut
   Act says the Commissioner must follow written instructions from the federal cabinet
   or the federal minister. In practice the role is largely ceremonial, and the
   Commissioner acts on the advice of Nunavut's elected government.
-- **The Legislature** is the Commissioner plus the Legislative Assembly, whose 22
-  **MLAs** pass Nunavut's laws.
+- **The Legislature** is the Commissioner plus the Legislative Assembly, whose {{legislature.seats.nunavut}}
+  **[MLAs](term:mla)** pass Nunavut's laws.
 - **The Premier** leads the government, but is chosen by the MLAs, not by a party.
 
 ## What makes it different
@@ -45,9 +46,9 @@ Act**, rather than from the Constitution. See
 ### Born from a land claim
 
 Nunavut means "our land" in Inuktitut. It exists because of the **Nunavut Agreement**
-(formerly the Nunavut Land Claims Agreement), a modern treaty signed in **1993**
+(formerly the Nunavut Land Claims Agreement), a [modern treaty](term:modern-treaty) signed in **1993**
 between the Inuit of the eastern Arctic and the Crown. In it, Inuit gave up claims to
-Aboriginal title over the region in exchange for defined rights, including:
+[Aboriginal title](term:aboriginal-title) over the region in exchange for defined rights, including:
 
 - ownership of certain lands and a share of resource royalties,
 - harvesting (hunting and fishing) rights,
@@ -56,21 +57,21 @@ Aboriginal title over the region in exchange for defined rights, including:
 
 Parliament passed the **Nunavut Act** the same year, and on **April 1, 1999** the
 eastern part of the Northwest Territories became Nunavut. The agreement is a treaty
-protected by section 35 of the Constitution. **Nunavut Tunngavik Incorporated** (NTI)
+protected by [section 35](doc:constitution-act-1982/s35) of the Constitution. **[Nunavut Tunngavik Incorporated](term:nunavut-tunngavik-incorporated)** (NTI)
 represents Inuit in making sure it is carried out. See
 [Treaties](/learn/indigenous/treaties).
 
 ### A public government in an Inuit homeland
 
-Most Nunavummiut (people of Nunavut) are Inuit, roughly 85%. But the Government of
+Most [Nunavummiut](term:nunavummiut) (people of Nunavut) are Inuit, roughly 85%. But the Government of
 Nunavut is a **public government**: it serves everyone who lives there, and anyone
 eligible can vote and run for office, whatever their background. This is different
-from Indigenous **self-government**, where a First Nation or Inuit government serves
+from Indigenous **[self-government](term:self-government)**, where a First Nation or Inuit government serves
 its own members. Inuit interests are protected through the land claim and NTI rather
 than through special rules for who can vote.
 <!-- check: Inuit share of population (about 85%, 2021 census) -->
 
-The government also tries to reflect **Inuit Qaujimajatuqangit**, a term usually
+The government also tries to reflect **[Inuit Qaujimajatuqangit](term:inuit-qaujimajatuqangit)**, a term usually
 translated as Inuit traditional knowledge and values, in how it works.
 
 ### Consensus government: no parties
@@ -78,11 +79,11 @@ translated as Inuit traditional knowledge and values, in how it works.
 Like the Northwest Territories, Nunavut has **no political parties** in its
 legislature. Everyone runs as an independent.
 
-1. After an election, the 22 MLAs meet in a special session, the **Nunavut Leadership
+1. After an election, the {{legislature.seats.nunavut}} MLAs meet in a special session, the **Nunavut Leadership
    Forum**.
 2. They choose the **Premier** and the **cabinet** by secret ballot.
 3. The Premier assigns ministers their departments.
-4. The MLAs outside cabinet, the **Regular Members**, act as an unofficial
+4. The MLAs outside cabinet, the **[Regular Members](term:regular-members)**, act as an unofficial
    opposition. By convention they outnumber cabinet.
 
 Supporters say this fits Inuit traditions of reaching decisions together. Critics
@@ -93,7 +94,7 @@ Nunavummiut have called for party politics. See
 ### Languages: Inuktut first
 
 Under Nunavut's **Official Languages Act**, the official languages are the **Inuit
-language**, English and French. "Inuit language" (often called **Inuktut**) covers
+language**, English and French. "Inuit language" (often called **[Inuktut](term:inuktut)**) covers
 **Inuktitut** and **Inuinnaqtun**. A separate **Inuit Language Protection Act**
 promotes its use in schools, workplaces and government services. Legislative
 debates take place in Inuktut as well as English, with interpretation.
@@ -107,7 +108,7 @@ Nunavut and NTI signed the **Nunavut Lands and Resources Devolution Agreement**.
 After a transition period, administration and control of Crown lands and resources
 is set to pass to Nunavut on **April 1, 2027**.
 
-> **As of 2026:** Devolution has been agreed but not yet completed. The transfer is
+> **As of 2026:** [Devolution](term:devolution) has been agreed but not yet completed. The transfer is
 > scheduled for April 1, 2027.
 
 ## Courts
@@ -122,7 +123,7 @@ Nunavut's court system is unlike anywhere else in Canada.
 
 Everywhere else, trials are split between a provincial or territorial court and a
 superior court. Nunavut merged them because it has 25 small communities spread over
-a fifth of Canada's land area, and one court that travels on **circuit** is simpler
+a fifth of Canada's land area, and one court that travels on **[circuit](term:circuit)** is simpler
 for people to reach. See [the court structure](/learn/law/courts).
 <!-- check: "25 communities" and "a fifth of Canada's land area" -->
 

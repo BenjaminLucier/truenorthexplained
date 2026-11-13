@@ -6,6 +6,7 @@ capital: "Regina"
 joined: 1905
 summary: "A prairie province carved out of the North-West Territories in 1905, and the birthplace of Canadian medicare."
 status: draft
+about: [event:saskatchewan-hospital-insurance-1947, event:saskatchewan-medicare-1962, term:medicare]
 ---
 
 ## At a glance
@@ -15,11 +16,11 @@ status: draft
 | Capital | Regina |
 | Joined Confederation | 1905 (created as a province by Parliament) |
 | Legislature | Legislative Assembly of Saskatchewan (one chamber) |
-| Seats | 61 |
+| Seats | {{legislature.seats.saskatchewan}} |
 | The King's representative | Lieutenant Governor |
 | Head of government | Premier |
 
-> **As of 2026:** The Legislative Assembly has 61 seats. New boundaries were used in
+> **As of 2026:** The Legislative Assembly has {{legislature.seats.saskatchewan}} seats. New boundaries were used in
 > the 2024 election, but the total stayed at 61.
 
 ## In numbers
@@ -32,10 +33,10 @@ Saskatchewan uses the same **parliamentary** model as the rest of Canada (see
 [Parliament](/learn/parliament)).
 
 - **The Legislative Assembly** is the elected law-making body. Voters elect one
-  **MLA** (member of the Legislative Assembly) in each **constituency** (the
+  **[MLA](term:mla)** (member of the Legislative Assembly) in each **constituency** (the
   provincial word for an electoral district).
 - **The Premier** is the head of government. They hold the job as long as they keep
-  the **confidence** of the Assembly, which normally means leading the party with the
+  the **[confidence](term:confidence)** of the Assembly, which normally means leading the party with the
   most seats. The Premier picks cabinet ministers from among the MLAs.
 - **The Lieutenant Governor** represents the King, gives royal assent to bills and
   appoints the Premier, acting on the elected government's advice by convention. See
@@ -48,15 +49,15 @@ Saskatchewan has only ever had one chamber.
 ### Made by Parliament, not by negotiation
 
 Saskatchewan didn't join Canada as an existing colony. Its land was already part of
-Canada, as part of the huge **North-Western Territory and Rupert's Land** that Canada
+Canada, as part of the huge **[North-Western Territory and Rupert's Land](event:ruperts-land-1870)** that Canada
 acquired in 1870 and governed as the North-West Territories. In **1905**, Parliament
 passed the **Saskatchewan Act**, creating the province (Alberta was created the same
-year by the Alberta Act).
+year by the [Alberta Act](term:alberta-act)).
 
 One catch: unlike the original provinces, Saskatchewan didn't control its own
 **Crown lands and natural resources** at first. Ottawa kept them. They were only
-transferred to the province in **1930**, through the Natural Resources Transfer
-Agreements, which became part of the Constitution. Control over resources has been
+transferred to the province in **1930**, through the [Natural Resources Transfer
+Agreements](term:natural-resources-transfer-agreements), which became part of the Constitution. Control over resources has been
 a theme in Saskatchewan politics ever since.
 
 ### The birthplace of medicare
@@ -69,7 +70,7 @@ Saskatchewan is where Canada's public health insurance began.
 3. **1962:** it brought in universal **medical care insurance**, covering doctors'
    services. Most of the province's doctors went on strike against the plan for 23 days
    before a compromise was reached.
-4. **1966:** Parliament passed the federal Medical Care Act, offering to share the cost
+4. **1966:** Parliament passed the federal [Medical Care Act](event:medical-care-act-1966), offering to share the cost
    with any province that set up a similar plan. By the early 1970s every province
    had one.
 
@@ -82,12 +83,12 @@ See [Federalism](/learn/federalism) and
 
 In 1947 Saskatchewan passed the **Saskatchewan Bill of Rights**, one of the first
 general human rights laws in Canada, decades before the federal Charter. Today its
-role is filled by the Saskatchewan Human Rights Code. See [Rights: the Charter](/learn/charter).
+role is filled by the Saskatchewan Human Rights Code. See [Rights: the Charter](doc:charter).
 <!-- check: Saskatchewan Human Rights Code replaced the 1947 Bill of Rights (1979) -->
 
 ### Crown corporations
 
-Saskatchewan relies more than most provinces on **Crown corporations**, companies
+Saskatchewan relies more than most provinces on **[Crown corporations](term:crown-corporation)**, companies
 owned by the provincial government. Examples include **SaskPower** (electricity),
 **SaskTel** (telecommunications) and **SGI** (public auto insurance). How much the
 province should own is a long-running debate in its politics. See
@@ -95,10 +96,10 @@ province should own is a long-running debate in its politics. See
 
 ### Treaty land
 
-All of Saskatchewan is covered by the **Numbered Treaties** signed between the Crown
+All of Saskatchewan is covered by the **[Numbered Treaties](term:numbered-treaties)** signed between the Crown
 and First Nations in the 1870s and later, mainly Treaties 4, 6, 8 and 10, with
 smaller parts under Treaties 2 and 5. These treaties are not history only: they are
-protected by section 35 of the Constitution. See [Treaties](/learn/indigenous/treaties).
+protected by [section 35](doc:constitution-act-1982/s35) of the Constitution. See [Treaties](/learn/indigenous/treaties).
 <!-- check: list of Numbered Treaties covering Saskatchewan -->
 
 ## Courts

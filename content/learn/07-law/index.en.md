@@ -5,6 +5,7 @@ order: 7
 icon: Scale
 summary: "Where Canadian law comes from, how the courts fit together, and why judges can strike down laws."
 deep_dives: [courts, common-law-and-civil-law, criminal-law, supreme-court, judges]
+about: [term:judicial-review, term:case-law, term:statute, term:regulations]
 status: draft
 ---
 
@@ -39,14 +40,14 @@ case by case over centuries. That body of judge-made law is called the **common 
 
 ### Two legal traditions: bijuralism
 
-Canada is **bijural**: it has two legal traditions side by side.
+Canada is **[bijural](term:bijuralism)**: it has two legal traditions side by side.
 
 - **Common law**, from England, applies in nine provinces and the three territories. Its
-  core idea is **precedent**: courts follow earlier decisions on similar facts.
-- **Civil law**, from the French tradition, applies to **private law** in Quebec. Private
+  core idea is **[precedent](term:precedent)**: courts follow earlier decisions on similar facts.
+- **Civil law**, from the French tradition, applies to **[private law](term:private-law)** in Quebec. Private
   law covers relationships between people: contracts, property, family, inheritance,
   and liability when you harm someone. In Quebec its starting point is a single
-  organized code, the **Civil Code of Québec**.
+  organized code, the **[Civil Code of Québec](term:civil-code-of-quebec)**.
 
 Public law, such as criminal law and constitutional law, works the same way everywhere,
 including in Quebec. Federal laws are written so they work in both traditions.
@@ -57,10 +58,10 @@ including in Quebec. Federal laws are written so they work in both traditions.
 The Constitution splits criminal justice between the two orders of government (see
 [Federalism](/learn/federalism)):
 
-- **Parliament** makes criminal law for the whole country (s. 91(27) of the
-  Constitution Act, 1867). The main criminal law is the **Criminal Code**, so a crime is
+- **Parliament** makes criminal law for the whole country ([s. 91(27)](doc:constitution-act-1867/s91-27) of the
+  Constitution Act, 1867). The main criminal law is the **[Criminal Code](term:criminal-code)**, so a crime is
   the same crime in every province.
-- **The provinces** run the "administration of justice" (s. 92(14)). They set up most
+- **The provinces** run the "administration of justice" ([s. 92(14)](doc:constitution-act-1867/s92-14)). They set up most
   courts, run most police forces, and employ most of the prosecutors who bring cases
   under the Criminal Code.
 
@@ -99,7 +100,7 @@ flowchart TD
 - **The Supreme Court of Canada** is the final court of appeal for the whole country.
 
 [See the full court map](/learn/law/courts) and
-[how a case reaches the Supreme Court](/learn/law/supreme-court).
+[how a case reaches the Supreme Court](org:supreme-court).
 
 ### Judicial independence
 
@@ -118,17 +119,17 @@ Judges in Canada are **appointed**, not elected. [More on how judges are chosen]
 
 ### Judicial review: courts can strike down laws
 
-Because the Constitution is the supreme law (s. 52 of the Constitution Act, 1982), a
-court can rule that a law that conflicts with it is **of no force or effect**. This is
+Because the Constitution is the supreme law ([s. 52](doc:constitution-act-1982/s52) of the Constitution Act, 1982), a
+court can rule that a law that conflicts with it is **[of no force or effect](term:of-no-force-or-effect)**. This is
 called **judicial review**. A law can fail in two main ways:
 
 - **It's outside that government's powers.** For example, a province passing a law that
   is really criminal law, which only Parliament can make.
 - **It violates a protected right,** such as a right in the
-  [Charter of Rights and Freedoms](/learn/charter), and the limit can't be justified.
+  [Charter of Rights and Freedoms](doc:charter), and the limit can't be justified.
 
 Courts don't strike down laws on their own initiative. Someone has to bring a case, or a
-government has to ask the court for its opinion (a **reference**). Legislatures often
+government has to ask the court for its opinion (a **[reference](term:reference)**). Legislatures often
 respond by passing a new version of the law that fixes the problem.
 
 > **Note:** Courts also review the decisions of government officials and tribunals (for

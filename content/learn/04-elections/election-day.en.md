@@ -5,12 +5,13 @@ title: "How a federal election runs"
 order: 1
 summary: "From dissolution to results: how an election is called, how you vote, and why 'fixed' election dates aren't really fixed."
 status: draft
+about: [org:elections-canada, doc:canada-elections-act, doc:canada-elections-act/s56-1, term:fixed-election-date, event:fixed-election-dates-2007]
 ---
 
 ## In short
 
-A federal election starts when the Governor General, on the Prime Minister's advice,
-**dissolves** Parliament and the cabinet orders **writs** (the formal orders to hold an
+A federal election starts when the [Governor General](org:governor-general), on the Prime Minister's advice,
+**dissolves** Parliament and the cabinet orders **[writs](term:writ)** (the formal orders to hold an
 election) for every riding. The campaign lasts between 36 and 50 days. You can vote on
 election day, at advance polls, or by special ballot, including by mail. **Elections Canada**,
 an independent agency, runs the whole thing. Federal law sets a "fixed" election date, but the
@@ -21,8 +22,8 @@ Prime Minister can still advise an earlier election, and several have happened.
 ### Step by step
 
 1. **Dissolution.** The Prime Minister asks the Governor General to dissolve Parliament. By
-   convention, the Governor General normally agrees. All seats in the House become vacant.
-2. **Writs issued.** The cabinet issues a proclamation, and the Chief Electoral Officer
+   [convention](term:convention), the Governor General normally agrees. All seats in the House become vacant.
+2. **Writs issued.** The cabinet issues a proclamation, and the [Chief Electoral Officer](term:chief-electoral-officer)
    issues a writ for each riding. Election day must be between the 36th and 50th day after
    the writs are issued, and is normally a Monday.
 3. **The campaign.** Parties nominate candidates, campaign, and must follow spending and
@@ -32,7 +33,7 @@ Prime Minister can still advise an earlier election, and several have happened.
    most close at around the same moment across the country.
 6. **Counting.** Paper ballots are counted by hand at each polling station after polls close,
    with candidates' representatives allowed to watch.
-7. **Validation and recounts.** The **returning officer** (the official running the election
+7. **Validation and recounts.** The **[returning officer](term:returning-officer)** (the official running the election
    in each riding) checks the results. If the gap between the top two candidates is less than
    **1/1,000** of the votes cast, a judge holds an automatic recount.
 8. **The new House meets.** The new MPs are sworn in and Parliament opens with a Speech from
@@ -47,8 +48,8 @@ Prime Minister can still advise an earlier election, and several have happened.
 | Option | When | How |
 |---|---|---|
 | **Election day** | Polling day | At your assigned polling station |
-| **Advance polls** | 10th to 7th day before election day | At your assigned advance polling station |
-| **Special ballot** | After the election is called, before a deadline | At any Elections Canada office, or by mail, including from abroad |
+| **[Advance polls](term:advance-polls)** | 10th to 7th day before election day | At your assigned advance polling station |
+| **[Special ballot](term:special-ballot)** | After the election is called, before a deadline | At any Elections Canada office, or by mail, including from abroad |
 
 Once you register to vote by special ballot, you can't switch to voting in person.
 
@@ -62,7 +63,7 @@ employer chooses, without cutting pay (Canada Elections Act, s. 132).
 
 ### Ridings and their boundaries
 
-Each **riding** (officially an **electoral district**) elects one MP. After each 10-year
+Each **[riding](term:riding)** (officially an **electoral district**) elects one MP. After each 10-year
 census, independent commissions in each province redraw riding boundaries so they reflect
 population changes. The number of seats per province is set by a formula in the Constitution
 and federal law.
@@ -93,7 +94,7 @@ So in practice:
 
 | Year | What happened |
 |---|---|
-| 2008 | An election was called before the first fixed date. A court challenge argued this broke the law. The Federal Court and Federal Court of Appeal disagreed: the law didn't limit the power to advise dissolution. |
+| 2008 | An election was called before the first fixed date. A court challenge argued this broke the law. The [Federal Court](org:federal-court) and Federal Court of Appeal disagreed: the law didn't limit the power to advise dissolution. |
 | 2015 | Held on the fixed date. |
 | 2019 | Held on the fixed date. |
 | 2021 | Called early. A similar court challenge was again dismissed. |
@@ -117,7 +118,7 @@ and referendums. It's headed by the **Chief Electoral Officer**, who reports to 
 not to the government. It also registers parties, enforces political financing rules and
 publishes results.
 
-A **by-election** fills a single seat that becomes vacant between general elections, for
+A **[by-election](term:by-election)** fills a single seat that becomes vacant between general elections, for
 example when an MP resigns or dies.
 
 ## Sources
