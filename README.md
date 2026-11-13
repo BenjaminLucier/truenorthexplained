@@ -41,8 +41,8 @@ pnpm dev                                 # http://localhost:4321
 | `pnpm preview` | Serve the built site, with working search |
 | `pnpm check` | Type-check `.ts` and `.astro` files |
 | `pnpm validate` | Check internal links, quiz page references, entity ids (links, `about:`, entity YAML), glossary term files and fact keys |
-| `pnpm test` | Unit tests (Vitest) for the pure logic in `src/lib` and the widgets: `tests/unit/` |
-| `pnpm test:e2e` | Build, then run the browser tests (Playwright, Chromium) against `astro preview` on port 4630: every page at phone and desktop width in both themes (console errors, failed requests, overflow, axe), plus smoke tests of the interactive parts. `tests/e2e/`. To re-run against an existing build: `pnpm exec playwright test` |
+| `pnpm test` | Unit tests (Vitest) for the pure logic in `src/lib` and the widgets, the entity and fact registries, the markdown plugins, the province profiles' takeaways, and a run of `pnpm validate`: `tests/unit/` |
+| `pnpm test:e2e` | Build, then run the browser tests (Playwright, Chromium) against `astro preview` on port 4630: every page at phone and desktop width in both themes (console errors, failed requests, overflow, axe), plus smoke tests of the interactive parts. `tests/e2e/`. To re-run against an existing build: `pnpm exec playwright test`. Takes about 2 minutes on 8 workers; on a laptop, keep it awake (`caffeinate -i pnpm test:e2e` on macOS) or a sleep shows up as a batch of timeouts |
 | `pnpm review` | Regenerate [REVIEW.md](REVIEW.md), the list of facts and links awaiting review |
 | `pnpm data:geo` | Re-download province and riding boundaries and population estimates into `src/data/geo/` |
 | `pnpm data:elections` | Re-download 2025 election results, current MPs and senators, and seat allocation into `src/data/elections/`, `src/data/parliament/` and `src/data/population/` |
@@ -63,6 +63,12 @@ it, the script falls back to Statistics Canada's map service. `data/` is not com
 
 All downloaded data is committed. Re-running a data script and reading the `git diff` is
 how the site stays current: the diff shows exactly what changed upstream.
+
+**CI.** `.github/workflows/ci.yml` runs on pushes to `main` and on pull requests:
+`pnpm install --frozen-lockfile`, `pnpm check`, `pnpm validate`, `pnpm test`, install
+Chromium, `pnpm build`, then the browser tests against that build. The Playwright report
+is uploaded when it fails. There is no deploy workflow. Details in
+[ARCHITECTURE.md](ARCHITECTURE.md#ci).
 
 ## Project layout
 

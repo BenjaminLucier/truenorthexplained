@@ -50,14 +50,14 @@ export function round3(n: number): number {
 }
 export const about = (n: number) => num(round3(n));
 /** A percentage with one decimal, or two under 1%: 38.9%, 0.29%. */
-export const pct = (v: number) => `${v.toFixed(Math.abs(v) < 1 && v !== 0 ? 2 : 1)}%`;
+export const pct = (v: number) => `${v.toFixed(Math.abs(v) < 0.995 && v !== 0 ? 2 : 1)}%`;
 /** "1 seat", "4 seats". */
 export const plural = (n: number, one: string, many = `${one}s`) => `${num(n)} ${n === 1 ? one : many}`;
 /** "$1,234". */
 export const dollars = (n: number) => `${n < 0 ? "−" : ""}$${num(Math.abs(n))}`;
 /** 16262121 → "16.3 million"; 552462 → "552,000"; 43091 → "43,100". */
 export function people(n: number): string {
-  if (n >= 1_000_000) return `${(n / 1_000_000).toFixed(1).replace(/\.0$/, "")} million`;
+  if (round3(n) >= 1_000_000) return `${(n / 1_000_000).toFixed(1).replace(/\.0$/, "")} million`;
   return about(n);
 }
 
@@ -138,7 +138,7 @@ export function seatSources(a: SeatAllocationRow, territory: boolean): string {
     a.representationRule > 0 && `${a.representationRule} from the representation rule`,
   ].filter((p): p is string => Boolean(p));
   if (parts.length === 0) return `All ${a.total} of its seats come from its population; no constitutional guarantee adds any.`;
-  return `Of its ${a.total} seats, ${a.initial} come from its population and ${joinList(parts)}.`;
+  return `Of its ${a.total} seats, ${joinList([`${a.initial} come from its population`, ...parts])}.`;
 }
 
 export interface YearValue {
@@ -175,13 +175,14 @@ export function trendTakeaway(name: string, t: PopulationTrend): string {
   const who = capitalized(possessive(name));
   if (t.first.year === t.last.year) return `${who} population was ${people(t.last.value)} in ${t.last.year}.`;
   const change = t.last.value - t.first.value;
-  const verb = Math.abs(change) / t.first.value < 0.01 ? "held at about" : change > 0 ? "grew" : "fell";
+  const same = Math.abs(change) / t.first.value < 0.01 || people(t.first.value) === people(t.last.value);
+  const verb = same ? "held at about" : change > 0 ? "grew" : "fell";
   let s =
     verb === "held at about"
       ? `${who} population held at about ${people(t.last.value)} from ${t.first.year} to ${t.last.year}`
       : `${who} population ${verb} from ${people(t.first.value)} in ${t.first.year} to ${people(t.last.value)} in ${t.last.year}`;
-  // A peak worth mentioning: before the latest year, and at least 2% above it.
-  if (t.peak.year < t.last.year && t.peak.value >= t.last.value * 1.02) s += `, after peaking at ${people(t.peak.value)} in ${t.peak.year}`;
+  // A peak worth mentioning: between the first and latest years, and at least 2% above the latest.
+  if (t.peak.year > t.first.year && t.peak.year < t.last.year && t.peak.value >= t.last.value * 1.02) s += `, after peaking at ${people(t.peak.value)} in ${t.peak.year}`;
   if (t.shareFirst !== null && t.shareLast !== null) {
     const a = pct(t.shareFirst);
     const b = pct(t.shareLast);
@@ -226,7 +227,8 @@ export function sortParties<T extends PartyResult>(parties: T[]): T[] {
  */
 export function electionTakeaway(name: string, parties: PartyResult[], totalSeats: number): string {
   const ranked = sortParties(parties);
-  const winners = ranked.filter((p) => p.seats > 0);
+  // By seats, then votes: here "other" is not sent last, since it may have won the most.
+  const winners = ranked.filter((p) => p.seats > 0).sort((a, b) => b.seats - a.seats || b.votes - a.votes);
   const byVotes = [...ranked].sort((a, b) => b.votes - a.votes);
   const top = winners[0];
   if (!top || totalSeats <= 0) return `There are no 2025 results for ${withArticle(name)} in the data.`;
@@ -235,13 +237,16 @@ export function electionTakeaway(name: string, parties: PartyResult[], totalSeat
 
   if (totalSeats === 1) {
     const second = byVotes.find((p) => p !== top);
-    const lead = second ? `, ${(top.share - second.share).toFixed(1)} points ahead of ${who(second)}` : "";
+    // Under 0.05 points the gap would print as "0.0 points": give it in votes.
+    const gap = second ? top.share - second.share : 0;
+    const lead = !second ? "" : gap >= 0.05 ? `, ${gap.toFixed(1)} points ahead of ${who(second)}` : `, ${plural(top.votes - second.votes, "vote")} ahead of ${who(second)}`;
     return `${capitalized(possessive(name))} one seat went to ${who(top)}, who won ${voteOf(top)}${lead}.`;
   }
-  if (winners.length === 1) {
+  if (winners.length === 1 && top.seats === totalSeats) {
     return `${capitalized(who(top))} won all ${totalSeats} of ${possessive(name)} seats, with ${voteOf(top)}.`;
   }
-  const second = winners[1]!;
+  const second = winners[1];
+  if (!second) return `${capitalized(who(top))} won ${top.seats} of ${possessive(name)} ${totalSeats} seats, with ${voteOf(top)}.`;
   let s: string;
   if (second.seats === top.seats) {
     s = `${capitalized(who(top))} and ${who(second)} each won ${top.seats} of ${possessive(name)} ${totalSeats} seats, with ${pct(top.share)} and ${pct(second.share)} of the vote`;
@@ -280,7 +285,9 @@ export function ridingsTakeaway(rows: RidingRow[]): string {
   const minVotes = Math.min(...rows.map((r) => r.marginVotes));
   const closest = rows.filter((r) => r.marginVotes === minVotes);
   const pts = closest[0]!.margin;
-  const by = `decided by ${plural(minVotes, "vote")}${pts >= 0.1 ? ` (${pts.toFixed(1)} points)` : ""}`;
+  // With several races on the same vote margin, give points only if they share them too.
+  const samePts = closest.every((r) => r.margin.toFixed(1) === pts.toFixed(1));
+  const by = `decided by ${plural(minVotes, "vote")}${pts >= 0.1 && samePts ? ` (${pts.toFixed(1)} points)` : ""}`;
   const race =
     closest.length === 1
       ? `The closest race was ${closest[0]!.name}, ${by}`
@@ -392,15 +399,18 @@ export function equalizationTakeaway(name: string, h: EqualizationHistory): stri
   const latest = h.years.at(-1);
   if (!begin || !latest) return `There is no equalization data for ${withArticle(name)}.`;
   if (s.received === 0) return `${who} has not received equalization in any year since ${begin}.`;
+  if (s.years === 1) return `${who} received equalization in ${latest}.`;
   if (s.received === s.years) return `${who} has received equalization in every one of the ${s.years} years from ${begin} to ${latest}.`;
   const firstTime = s.first !== begin ? `${who} first received equalization in ${s.first}, and has received it` : `${who} has received equalization`;
   const count = `${firstTime} in ${s.received} of the ${s.years} years since ${begin}`;
   if (s.now) {
     return s.since === begin || s.since === null
       ? `${count}.`
-      : s.since === latest
+      : s.since === latest && s.received > 1
         ? `${count}; it receives it again in ${latest}, after ${gapBefore(h)}.`
-        : `${count}, including every year since ${s.since}.`;
+        : s.since === latest
+          ? `${count}.`
+          : `${count}, including every year since ${s.since}.`;
   }
   return `${count}, most recently in ${s.last}; it receives none in ${latest}.`;
 }
@@ -738,7 +748,8 @@ export function languageTakeaway(name: string, points: LanguagePoint[]): string 
     Math.abs(mover.d) < 0.5
       ? ""
       : `; ${lower(mover)} ${mover.d > 0 ? "rose" : "fell"} from ${pct(mover.from)} to ${pct(mover.to)}`;
-  return `In ${b.year}, ${main.label} was the mother tongue of ${pct(main.to)} of people in ${withArticle(name)}, ${trend}${moved}.`;
+  const subject = main.key === "otherPct" ? "languages other than English and French were" : `${main.label} was`;
+  return `In ${b.year}, ${subject} the mother tongue of ${pct(main.to)} of people in ${withArticle(name)}, ${trend}${moved}.`;
 }
 
 // ---------------------------------------------------------------------------

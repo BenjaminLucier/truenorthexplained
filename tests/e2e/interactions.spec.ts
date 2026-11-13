@@ -167,7 +167,8 @@ test("chart tooltip works by keyboard", async ({ page }) => {
 
   await page.keyboard.press("ArrowRight");
   await expect(tip).toBeVisible();
-  expect(await page.evaluate(() => document.activeElement?.outerHTML)).not.toBe(firstStop);
+  // Polled: focus moves in the chart's key handler, which may run after press() resolves.
+  await expect.poll(() => page.evaluate(() => document.activeElement?.outerHTML)).not.toBe(firstStop);
   await expect(tip).not.toHaveText(first);
   await expect(chart).toHaveAttribute("data-active", /.*/);
 

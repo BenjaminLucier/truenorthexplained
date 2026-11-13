@@ -421,6 +421,29 @@ pnpm test:e2e   # build, then browser tests (Playwright)
   no-JavaScript fallback). Import from `src/` directly; JSON imports work. A new
   `tests/unit/<name>.test.ts` is picked up automatically. Expected values come from
   what a function is documented to do, not from what it happens to return.
+  - The semantic layer: `entities.test.ts` loads the registry from small fixture trees
+    written to a temporary folder (`setProjectRoot(dir)` from
+    `src/lib/project-root.ts` points every `fromRoot()` there; call `resetEntities()`
+    after it, and `setProjectRoot()` with no argument to go back). It covers people
+    derived and merged by qid, slug collisions, `people.yaml` overrides, sections,
+    cases, events and eras, terms, every kind of validation error, lookup and
+    did-you-mean, and `checkEntityPages()`. `facts.test.ts` checks formatting and
+    placeholders, and invariants against the datasets (majority = floor(seats/2)+1,
+    seats and senate seats summing over the provinces, a current premier for all 13,
+    holders matching the open term). `markdown-plugins.test.ts` runs the `facts` and
+    `entityLinks` plugins through Sätteri's `markdownToHtml()`, and `related.test.ts`
+    covers `rankRelated()` and `eventsMentioning()`.
+  - Content changes all the time, so tests against the real content assert
+    invariants and stable historical ids (`person:john-a-macdonald`, `case:r-v-oakes`,
+    `doc:charter/s33`), never totals.
+  - `province-profile.test.ts` checks every takeaway sentence with hand-built inputs,
+    including the awkward ones (one-seat territories, ties, a 1-vote margin, no
+    equalization ever or every year, "the Northwest Territories'"), then builds all
+    13 real profiles and checks seats, shares and that no sentence contains `NaN`,
+    `undefined`, double spaces or "0 seats". A wording question still open is an
+    `it.fails` with a comment, rather than a weakened assertion.
+  - `validate.test.ts` runs `scripts/validate.ts` as a child process and checks it
+    exits 0 and prints its summary lines.
 - **Browser tests** (`tests/e2e/`, Playwright with Chromium) run against `astro
   preview` of `dist/` on port 4630, started and stopped by Playwright.
   - `pages.spec.ts` visits every page found in `dist/` (so new pages are covered) at
@@ -442,7 +465,28 @@ pnpm test:e2e   # build, then browser tests (Playwright)
   - `pnpm test:e2e` builds first. Against an existing build, run
     `pnpm exec playwright test` (add a file or `-g "<title>"` to narrow it, or
     `--shard=1/4` to split it across machines). With `CI` set, an existing server on
-    the port is never reused and an HTML report goes to `playwright-report/`.
+    the port is never reused, Playwright uses 2 workers, retries a failed test once
+    (a pass on retry is reported as flaky) and writes an HTML report to
+    `playwright-report/`. Locally there are no retries and Playwright uses half the
+    cores; override either way with `--workers`.
+  - Timing: each sweep test gets 60s (`test.describe.configure` in `pages.spec.ts`);
+    the heaviest pages take about 10s on an idle 8-worker run, mostly axe. Nothing
+    sleeps: animations are jumped to their end with `finish()`, and anything that
+    settles asynchronously is polled (`expect.poll`, `toPass`). If a whole batch of
+    tests (one per worker) times out together with absurd durations, the machine
+    probably slept: run under `caffeinate -i` on macOS.
+
+### CI
+
+`.github/workflows/ci.yml` runs on every push to `main` and every pull request, in one
+job on `ubuntu-latest`: install (`pnpm install --frozen-lockfile`, pnpm from
+`packageManager`, Node from `.nvmrc`), `pnpm check`, `pnpm validate`, `pnpm test`,
+install Chromium with its system packages (the browser is cached per Playwright
+version; it is needed before the build, which renders Mermaid with it), `pnpm build`,
+then `pnpm exec playwright test` against that build (not `pnpm test:e2e`, which would
+build again). On failure the Playwright HTML report is uploaded as an artifact. A newer
+push cancels a superseded run; the workflow can only read the repository. There is no
+deploy workflow.
 
 **Dev cache gotcha:** if you change a schema in `content.config.ts` without editing the
 content files, delete `node_modules/.astro/data-store.json` and `.astro/data-store.json`

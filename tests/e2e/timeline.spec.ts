@@ -29,7 +29,8 @@ async function expectRevealed(page: Page, id: string) {
     expect(box.x + box.width).toBeLessThanOrEqual(track.x + track.width + 1);
     expect(box.y).toBeGreaterThanOrEqual(0);
     expect(box.y + box.height).toBeLessThanOrEqual(view.height);
-  }).toPass({ timeout: 5000 });
+    // Polls until the scroll into view settles: generous for a busy machine, instant when idle.
+  }).toPass({ timeout: 10_000 });
 }
 
 for (const width of [375, 1280]) {

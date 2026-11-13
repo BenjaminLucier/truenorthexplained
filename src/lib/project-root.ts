@@ -36,5 +36,14 @@ export function projectRoot(): string {
   return cached;
 }
 
+/**
+ * Points projectRoot() (and so every loader that reads through fromRoot) at
+ * another folder, for tests with fixture data; no argument goes back to
+ * finding the root as usual. Call resetEntities()/resetFacts() after it.
+ */
+export function setProjectRoot(dir?: string): void {
+  cached = dir === undefined ? undefined : resolve(dir);
+}
+
 /** A path inside the project: `fromRoot("content", "facts.yaml")`. */
 export const fromRoot = (...parts: string[]) => join(projectRoot(), ...parts);
