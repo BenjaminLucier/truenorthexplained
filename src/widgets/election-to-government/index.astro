@@ -1,0 +1,305 @@
+---
+/**
+ * From election to government: a step-through with a branch point.
+ * At the seat count the reader picks "majority" or "minority", and the later steps
+ * follow that path. Without JavaScript it's an ordered list that shows both paths.
+ */
+import Icon from "../../components/Icon.astro";
+import StepperControls from "../../components/stepper/StepperControls.astro";
+import "../../styles/segmented.css";
+
+// As of 2026 (see the "As of" notes on /learn/elections and /learn/parliament/confidence).
+const SEATS = 343;
+const MAJORITY = Math.floor(SEATS / 2) + 1; // 172
+
+type Path = "majority" | "minority";
+interface Step {
+  short: string;
+  title: string;
+  /** Same text on both paths. */
+  body?: string;
+  /** Different text on each path. */
+  paths?: Record<Path, string>;
+  branch?: boolean;
+}
+
+const steps: Step[] = [
+  {
+    short: "Writ",
+    title: "The election is called",
+    body: "The Prime Minister asks the Governor General to dissolve Parliament, and by convention the Governor General normally agrees. Every seat in the House becomes vacant. The cabinet issues a proclamation, and the Chief Electoral Officer issues a writ of election for each riding. The law sets a fixed date (the third Monday in October of the fourth calendar year after the last election), but it keeps the Governor General's power to dissolve Parliament earlier, and several elections have been called early.",
+  },
+  {
+    short: "Campaign",
+    title: "The campaign",
+    body: "Election day must fall between the 36th and 50th day after the writs are issued. Parties nominate candidates and campaign under the spending and advertising rules in the Canada Elections Act. The sitting government stays in office but, by the caretaker convention, avoids major new decisions.",
+  },
+  {
+    short: "Vote",
+    title: `Voting in ${SEATS} ridings`,
+    body: `Citizens aged 18 or over vote at advance polls, by special ballot or on election day. Every ballot lists only the candidates in the voter's own riding: there are ${SEATS} separate contests, and no vote for Prime Minister.`,
+  },
+  {
+    short: "MPs",
+    title: "MPs are elected",
+    body: "In each riding, the candidate with the most votes wins, even without a majority (first-past-the-post). If the gap between the top two is less than 1/1,000 of the votes cast, a judge holds an automatic recount.",
+  },
+  {
+    short: "Seats",
+    title: "The seat count decides",
+    body: `What matters now is seats, not the national vote. A party with at least ${MAJORITY} of the ${SEATS} seats has a majority.`,
+    branch: true,
+  },
+  {
+    short: "PM",
+    title: "Who becomes Prime Minister",
+    paths: {
+      majority:
+        "The majority party's leader will clearly have the House's confidence. If they're already Prime Minister, they simply carry on. If not, the outgoing Prime Minister resigns and the Governor General appoints the winner.",
+      minority:
+        "No party can win votes alone. The sitting Prime Minister has the right, by convention, to stay and test the new House, but usually resigns if another party has clearly won more seats. The Governor General appoints whoever is most likely to hold the House's confidence, normally the leader of the largest party.",
+    },
+  },
+  {
+    short: "Sworn in",
+    title: "The PM and cabinet are sworn in",
+    paths: {
+      majority:
+        "A new Prime Minister and cabinet are sworn in by the Governor General, usually at Rideau Hall. A returning government may simply carry on, often with a cabinet shuffle. Ministers come from the governing party's MPs.",
+      minority:
+        "The Prime Minister and cabinet are sworn in the same way. The government usually still takes all the cabinet seats from its own party, and looks for support from other parties vote by vote or through a formal agreement. Federal coalitions, where parties share cabinet seats, have been very rare.",
+    },
+  },
+  {
+    short: "Throne",
+    title: "Parliament opens",
+    body: "The new MPs are sworn in and elect a Speaker by secret ballot. Then the Governor General reads the Speech from the Throne in the Senate chamber. The government writes it, and it sets out the government's plans for the session.",
+  },
+  {
+    short: "Confidence",
+    title: "The first confidence vote",
+    paths: {
+      majority:
+        "The House votes on the Speech from the Throne, one of the votes treated as a test of confidence. With a majority, the government wins as long as its MPs vote together. It can usually govern for close to four years.",
+      minority:
+        "The House votes on the Speech from the Throne, a test of confidence. The government needs at least one other party, or enough independents, to vote with it or abstain. If it loses, the Prime Minister must resign or ask for a new election. Soon after an election, the Governor General might instead invite another leader who can hold the House's confidence.",
+    },
+  },
+];
+
+const pathLabel: Record<Path, { name: string; seats: string }> = {
+  majority: { name: "Majority", seats: `${MAJORITY} seats or more` },
+  minority: { name: "Minority", seats: `No party reaches ${MAJORITY}` },
+};
+const branchIndex = steps.findIndex((s) => s.branch);
+const titleId = "election-steps-title";
+const example: Record<Path, number> = { majority: 184, minority: 158 };
+---
+
+<tn-election-steps
+  class="tn-stepper not-prose my-10 block rounded-card border border-subtle bg-surface p-5 shadow-card sm:p-6"
+  data-branch={branchIndex}
+  data-majority-example={example.majority}
+  data-minority-example={example.minority}
+  style={`--majority-pct: ${(example.majority / SEATS) * 100}%; --minority-pct: ${(example.minority / SEATS) * 100}%`}
+>
+  <section aria-labelledby={titleId}>
+    <p class="text-xs font-semibold tracking-wide text-accent uppercase">Step through it</p>
+    <p id={titleId} class="mt-1 text-lg font-bold tracking-tight text-primary">From election to government</p>
+    <p class="mt-1 text-sm text-secondary">
+      How {SEATS} local races turn into a Prime Minister, a cabinet and a government.{" "}
+      <span data-enhanced hidden>At the seat count, choose what kind of result to follow.</span>
+    </p>
+
+    <nav data-enhanced hidden aria-label="Steps from election to government" class="mt-5">
+      <ol class="track" role="list">
+        {
+          steps.map((s, i) => (
+            <li class="track-stop">
+              <button type="button" class="dot" data-dot={i} aria-label={`Step ${i + 1}: ${s.title}`}>
+                <span class:list={["dot-mark", s.branch && "dot-branch"]} aria-hidden="true" />
+                <span class="dot-text" aria-hidden="true">
+                  {s.short}
+                </span>
+              </button>
+            </li>
+          ))
+        }
+      </ol>
+    </nav>
+
+    <ol class="steps mt-5" data-steps>
+      {
+        steps.map((s, i) => (
+          <li data-step class="step">
+            <p class="step-kicker">
+              {i > branchIndex ? <span data-path-kicker>After the count</span> : "The election"}
+            </p>
+            <p class="text-lg font-semibold text-primary" data-step-title>
+              {s.title}
+            </p>
+            {s.body && <p class="mt-2 text-secondary">{s.body}</p>}
+            {s.paths && (
+              <div class="paths mt-2 grid gap-3">
+                {(["majority", "minority"] as const).map((p) => (
+                  <div class="path rounded-lg border border-subtle p-4" data-branch={p}>
+                    <p class="path-label text-sm font-semibold text-primary">If it's a {p}</p>
+                    <p class="text-secondary">{s.paths![p]}</p>
+                  </div>
+                ))}
+              </div>
+            )}
+            {s.branch && (
+              <>
+                <figure class="mt-4" data-seats data-enhanced hidden>
+                  <div class="seat-bar" aria-hidden="true">
+                    <div class="seat-fill" data-seat-fill />
+                    <div class="seat-line" style={`inset-inline-start: ${(MAJORITY / SEATS) * 100}%`} />
+                  </div>
+                  <figcaption class="mt-2 flex flex-wrap justify-between gap-x-4 gap-y-1 text-xs text-muted">
+                    <span data-seat-caption>Choose a result below to see an example.</span>
+                    <span>
+                      Line at {MAJORITY} of {SEATS} seats
+                    </span>
+                  </figcaption>
+                </figure>
+                <fieldset class="mt-4" data-enhanced hidden>
+                  <legend class="text-sm font-semibold text-primary">Which result do you want to follow?</legend>
+                  <div class="tn-segmented mt-2">
+                    {(["majority", "minority"] as const).map((p) => (
+                      <label>
+                        <input type="radio" name="election-path" value={p} />
+                        <span class="flex flex-col leading-tight">
+                          <span class="font-semibold">{pathLabel[p].name}</span>
+                          <span class="text-xs opacity-80">{pathLabel[p].seats}</span>
+                        </span>
+                      </label>
+                    ))}
+                  </div>
+                  <p class="mt-2 text-xs text-muted" data-branch-hint>
+                    Choose one to continue.
+                  </p>
+                </fieldset>
+              </>
+            )}
+          </li>
+        ))
+      }
+    </ol>
+
+    <StepperControls />
+  </section>
+</tn-election-steps>
+
+<style>
+  @reference "../../styles/global.css";
+
+  .track {
+    @apply relative flex list-none justify-between ps-0;
+  }
+  .track::before {
+    content: "";
+    @apply absolute top-3 right-4 left-4 h-0.5 bg-subtle;
+  }
+  .track-stop {
+    @apply relative;
+  }
+  .track .dot {
+    @apply min-w-0 sm:min-w-11;
+  }
+  .track .dot-text {
+    @apply hidden sm:block;
+  }
+  .dot-branch {
+    @apply rotate-45 rounded-sm;
+  }
+
+  /* Without JavaScript, both paths show side by side. */
+  .paths {
+    @apply sm:grid-cols-2;
+  }
+  tn-election-steps[data-js] .paths {
+    @apply grid-cols-1;
+  }
+  tn-election-steps[data-js] .path {
+    @apply border-0 p-0;
+  }
+  tn-election-steps[data-js] .path-label {
+    @apply sr-only;
+  }
+  tn-election-steps[data-path="majority"] [data-branch="minority"],
+  tn-election-steps[data-path="minority"] [data-branch="majority"] {
+    @apply hidden;
+  }
+
+  /* Seat bar */
+  .seat-bar {
+    @apply relative h-5 overflow-hidden rounded-full bg-surface-sunken;
+  }
+  .seat-fill {
+    @apply h-full w-0 rounded-e-full bg-accent;
+  }
+  tn-election-steps[data-path="majority"] .seat-fill {
+    width: var(--majority-pct);
+  }
+  tn-election-steps[data-path="minority"] .seat-fill {
+    width: var(--minority-pct);
+    @apply bg-muted;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .seat-fill {
+      @apply transition-[width,background-color] duration-500;
+    }
+  }
+  .seat-line {
+    @apply absolute inset-y-0 w-0.5 -translate-x-1/2 bg-primary;
+  }
+</style>
+
+<script>
+  import { Stepper } from "../../scripts/stepper";
+
+  type Path = "majority" | "minority";
+
+  class ElectionSteps extends Stepper {
+    private path?: Path;
+    private branch = 0;
+
+    connectedCallback() {
+      this.branch = Number(this.dataset.branch);
+      super.connectedCallback();
+      for (const radio of this.querySelectorAll<HTMLInputElement>('input[name="election-path"]')) {
+        radio.checked = false;
+        radio.addEventListener("change", () => this.choose(radio.value as Path));
+      }
+    }
+
+    protected canGo(i: number): boolean {
+      return super.canGo(i) && (i <= this.branch || this.path !== undefined);
+    }
+
+    protected blockedFocus(): HTMLElement | null {
+      return this.index === this.branch ? this.querySelector<HTMLElement>('input[name="election-path"]') : null;
+    }
+
+    private choose(path: Path) {
+      this.path = path;
+      this.dataset.path = path;
+      const majority = path === "majority";
+      const caption = this.querySelector("[data-seat-caption]");
+      if (caption) {
+        caption.textContent = majority
+          ? `Example: the largest party wins ${this.dataset.majorityExample} seats, past the line.`
+          : `Example: the largest party wins ${this.dataset.minorityExample} seats, short of the line.`;
+      }
+      const hint = this.querySelector<HTMLElement>("[data-branch-hint]");
+      if (hint) hint.textContent = majority ? "Following the majority path." : "Following the minority path.";
+      for (const k of this.querySelectorAll("[data-path-kicker]")) {
+        k.textContent = majority ? "Majority path" : "Minority path";
+      }
+      this.render(false);
+    }
+  }
+
+  customElements.define("tn-election-steps", ElectionSteps);
+</script>

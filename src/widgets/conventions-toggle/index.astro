@@ -1,0 +1,156 @@
+---
+/**
+ * "As written" vs "As practised": a two-state toggle over a few facts about how
+ * Canada is governed. The toggle is a native radio group, and the swap is pure CSS
+ * (:has), so it works without JavaScript. <tn-conventions-toggle> only announces the
+ * change to screen readers.
+ */
+import "../../styles/segmented.css";
+
+interface Fact {
+  topic: string;
+  written: string;
+  section?: string;
+  practised: string;
+}
+
+const facts: Fact[] = [
+  {
+    topic: "Who holds power",
+    written: "Executive government is vested in the King.",
+    section: "s. 9",
+    practised:
+      "The King and the Governor General act on the advice of ministers who have the confidence of the House of Commons.",
+  },
+  {
+    topic: "Choosing the Prime Minister",
+    written: "The Prime Minister isn't mentioned at all. The Governor General appoints ministers.",
+    practised:
+      "The Prime Minister is whoever can command the confidence of the House, normally the leader of the largest party. The Governor General appoints ministers the Prime Minister recommends.",
+  },
+  {
+    topic: "Advice to the Crown",
+    written: "The Governor General chooses the members of the Privy Council, and can remove them.",
+    section: "s. 11",
+    practised:
+      "Only the current cabinet, led by the Prime Minister, actually gives advice. Ministers are appointed and removed on the Prime Minister's advice, not at the Governor General's own choice.",
+  },
+  {
+    topic: "Royal assent",
+    written: "The Governor General may give assent to a bill, withhold it, or reserve the bill for the King.",
+    section: "s. 55",
+    practised: "Assent is always given to bills passed by both Houses.",
+  },
+  {
+    topic: "Calling Parliament together",
+    written: "The Governor General summons the House of Commons.",
+    section: "s. 38",
+    practised: "The Governor General summons, prorogues and dissolves Parliament on the Prime Minister's advice.",
+  },
+  {
+    topic: "Losing a vote",
+    written: "Nothing in the text says a government must keep the support of the House.",
+    practised:
+      "A government that loses the House's confidence must resign or ask for an election. This is responsible government.",
+  },
+  {
+    topic: "The Senate",
+    written: "The appointed Senate has nearly the same law-making powers as the elected House.",
+    practised: "The Senate generally doesn't block bills passed by the House of Commons.",
+  },
+];
+
+const name = "conventions-view";
+const titleId = "conventions-toggle-title";
+---
+
+<tn-conventions-toggle
+  class="not-prose my-10 block rounded-card border border-subtle bg-surface p-5 shadow-card sm:p-6"
+>
+  <section aria-labelledby={titleId}>
+    <p class="text-xs font-semibold tracking-wide text-accent uppercase">Compare</p>
+    <p id={titleId} class="mt-1 text-lg font-bold tracking-tight text-primary">The Constitution on paper and in practice</p>
+
+    <fieldset class="mt-4">
+      <legend class="sr-only">Show the Constitution</legend>
+      <div class="tn-segmented max-w-sm">
+        <label>
+          <input type="radio" name={name} value="written" checked />
+          <span>As written</span>
+        </label>
+        <label>
+          <input type="radio" name={name} value="practised" />
+          <span>As practised</span>
+        </label>
+      </div>
+    </fieldset>
+
+    <p class="mode-note mt-3 text-sm text-muted">
+      <span class="when-written">What the Constitution Act, 1867 says, read literally.</span>
+      <span class="when-practised">What actually happens, because of constitutional conventions.</span>
+    </p>
+
+    <dl class="facts mt-4 divide-y divide-subtle border-y border-subtle">
+      {
+        facts.map((f) => (
+          <div class="fact grid gap-1 py-3 sm:grid-cols-[11rem_1fr] sm:gap-4">
+            <dt class="text-sm font-semibold text-primary">{f.topic}</dt>
+            <dd class="text-secondary">
+              <span class="when-written">
+                {f.written}
+                {f.section && (
+                  <span class="ms-1 inline-block rounded-full bg-surface-muted px-2 py-0.5 text-xs font-medium whitespace-nowrap text-muted">
+                    {f.section}
+                  </span>
+                )}
+              </span>
+              <span class="when-practised">{f.practised}</span>
+            </dd>
+          </div>
+        ))
+      }
+    </dl>
+    <p data-live class="sr-only" aria-live="polite"></p>
+  </section>
+</tn-conventions-toggle>
+
+<style>
+  @reference "../../styles/global.css";
+
+  .when-practised {
+    @apply hidden;
+  }
+  tn-conventions-toggle:has(input[value="practised"]:checked) .when-written {
+    @apply hidden;
+  }
+  tn-conventions-toggle:has(input[value="practised"]:checked) .when-practised {
+    @apply inline;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    tn-conventions-toggle :is(.when-written, .when-practised) {
+      animation: fade-in 180ms ease-out;
+    }
+  }
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+  }
+</style>
+
+<script>
+  class ConventionsToggle extends HTMLElement {
+    connectedCallback() {
+      const live = this.querySelector<HTMLElement>("[data-live]")!;
+      this.addEventListener("change", (e) => {
+        const input = e.target as HTMLInputElement;
+        if (input.type !== "radio") return;
+        live.textContent =
+          input.value === "practised"
+            ? "Showing the Constitution as practised."
+            : "Showing the Constitution as written.";
+      });
+    }
+  }
+  customElements.define("tn-conventions-toggle", ConventionsToggle);
+</script>

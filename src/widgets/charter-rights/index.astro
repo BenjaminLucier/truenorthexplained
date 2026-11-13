@@ -1,0 +1,419 @@
+---
+/**
+ * Charter rights as expandable cards (<details>), grouped by type, each with
+ * "who has this right" badges and links to the matching Charterpedia pages.
+ * <tn-charter-rights> adds a filter by right-holder and expand/collapse all.
+ * Every Charterpedia URL below was checked to load (November 2026).
+ */
+import Icon from "../../components/Icon.astro";
+
+type Holder = "everyone" | "individual" | "citizens" | "pr" | "detained" | "charged" | "witness" | "parties" | "public" | "legislatures";
+type Filter = "all" | "everyone" | "citizens" | "pr" | "justice";
+
+const holders: Record<Holder, { label: string; filter: Filter[]; tone: "everyone" | "citizens" | "pr" | "justice" | "rule" }> = {
+  everyone: { label: "Everyone", filter: ["everyone"], tone: "everyone" },
+  individual: { label: "Every individual", filter: ["everyone"], tone: "everyone" },
+  public: { label: "Anyone dealing with federal institutions", filter: ["everyone"], tone: "everyone" },
+  citizens: { label: "Citizens", filter: ["citizens"], tone: "citizens" },
+  pr: { label: "Permanent residents", filter: ["pr"], tone: "pr" },
+  detained: { label: "Anyone arrested or detained", filter: ["justice"], tone: "justice" },
+  charged: { label: "Anyone charged with an offence", filter: ["justice"], tone: "justice" },
+  witness: { label: "Witnesses", filter: ["justice"], tone: "justice" },
+  parties: { label: "Parties and witnesses", filter: ["justice"], tone: "justice" },
+  legislatures: { label: "A rule for Parliament and legislatures", filter: [], tone: "rule" },
+};
+
+const CP = "https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/check/";
+interface Right {
+  section: string;
+  title: string;
+  who: Holder[];
+  text: string;
+  links: { label: string; slug: string }[];
+}
+interface Group {
+  title: string;
+  sections: string;
+  rights: Right[];
+}
+
+const groups: Group[] = [
+  {
+    title: "Fundamental freedoms",
+    sections: "s. 2",
+    rights: [
+      {
+        section: "2(a)",
+        title: "Freedom of conscience and religion",
+        who: ["everyone"],
+        text: "To hold beliefs, or none, and to practise them.",
+        links: [{ label: "s. 2(a)", slug: "art2a" }],
+      },
+      {
+        section: "2(b)",
+        title: "Freedom of thought, belief, opinion and expression",
+        who: ["everyone"],
+        text: "Including freedom of the press and other media.",
+        links: [{ label: "s. 2(b)", slug: "art2b" }],
+      },
+      {
+        section: "2(c)",
+        title: "Freedom of peaceful assembly",
+        who: ["everyone"],
+        text: "To gather with others, for example at a protest.",
+        links: [{ label: "s. 2(c)", slug: "art2c" }],
+      },
+      {
+        section: "2(d)",
+        title: "Freedom of association",
+        who: ["everyone"],
+        text: "To form and join groups, such as unions.",
+        links: [{ label: "s. 2(d)", slug: "art2d" }],
+      },
+    ],
+  },
+  {
+    title: "Democratic rights",
+    sections: "ss. 3–5",
+    rights: [
+      {
+        section: "3",
+        title: "Voting and running for office",
+        who: ["citizens"],
+        text: "Every citizen can vote in federal and provincial elections, and can run for a seat in the House of Commons or a provincial legislature.",
+        links: [{ label: "s. 3", slug: "art3" }],
+      },
+      {
+        section: "4",
+        title: "An election at least every five years",
+        who: ["legislatures"],
+        text: "The House of Commons and each provincial legislature can't go more than five years without an election. The only exception is real or feared war, invasion or insurrection, and then only if no more than one third of the members oppose the extension.",
+        links: [{ label: "s. 4", slug: "art4" }],
+      },
+      {
+        section: "5",
+        title: "A sitting at least every 12 months",
+        who: ["legislatures"],
+        text: "Parliament and each legislature must sit at least once every 12 months.",
+        links: [{ label: "s. 5", slug: "art5" }],
+      },
+    ],
+  },
+  {
+    title: "Mobility rights",
+    sections: "s. 6",
+    rights: [
+      {
+        section: "6",
+        title: "Entering, leaving and moving around Canada",
+        who: ["citizens", "pr"],
+        text: "Every citizen can enter, stay in and leave Canada (s. 6(1)). Citizens and permanent residents can move to and live in any province, and earn a living there (s. 6(2)). Provinces can still set reasonable residency periods for some social services.",
+        links: [{ label: "s. 6", slug: "art6" }],
+      },
+    ],
+  },
+  {
+    title: "Legal rights",
+    sections: "ss. 7–14",
+    rights: [
+      {
+        section: "7",
+        title: "Life, liberty and security of the person",
+        who: ["everyone"],
+        text: "Not to lose these except in line with the principles of fundamental justice (basic fairness).",
+        links: [{ label: "s. 7", slug: "art7" }],
+      },
+      {
+        section: "8",
+        title: "Search and seizure",
+        who: ["everyone"],
+        text: "Protection against unreasonable search or seizure.",
+        links: [{ label: "s. 8", slug: "art8" }],
+      },
+      {
+        section: "9",
+        title: "Detention",
+        who: ["everyone"],
+        text: "The right not to be arbitrarily detained or imprisoned.",
+        links: [{ label: "s. 9", slug: "art9" }],
+      },
+      {
+        section: "10",
+        title: "Rights on arrest or detention",
+        who: ["detained"],
+        text: "To be told promptly why, to get a lawyer without delay and be told you have that right, and to have a court check whether the detention is lawful (habeas corpus).",
+        links: [{ label: "s. 10", slug: "art10" }],
+      },
+      {
+        section: "11",
+        title: "Rights when charged with an offence",
+        who: ["charged"],
+        text: "Among others: to be told the charge without unreasonable delay, to be tried within a reasonable time, to be presumed innocent until proven guilty, not to be denied reasonable bail without just cause, and to a jury trial if the maximum penalty is five years or more (except under military law).",
+        links: [
+          { label: "s. 11", slug: "art11" },
+          { label: "s. 11(b), trial within a reasonable time", slug: "art11b" },
+        ],
+      },
+      {
+        section: "12",
+        title: "Cruel and unusual punishment",
+        who: ["everyone"],
+        text: "Protection against cruel and unusual treatment or punishment.",
+        links: [{ label: "s. 12", slug: "art12" }],
+      },
+      {
+        section: "13",
+        title: "Self-incrimination",
+        who: ["witness"],
+        text: "If you testify, what you say can't be used to incriminate you in other proceedings, except in a prosecution for perjury or for giving contradictory evidence.",
+        links: [{ label: "s. 13", slug: "art13" }],
+      },
+      {
+        section: "14",
+        title: "Interpreter",
+        who: ["parties"],
+        text: "The right to an interpreter in legal proceedings if you don't understand or speak the language being used, or are deaf.",
+        links: [{ label: "s. 14", slug: "art14" }],
+      },
+    ],
+  },
+  {
+    title: "Equality rights",
+    sections: "s. 15",
+    rights: [
+      {
+        section: "15",
+        title: "Equality before and under the law",
+        who: ["individual"],
+        text: "Equal protection and benefit of the law without discrimination, including on the grounds of race, national or ethnic origin, colour, religion, sex, age, or mental or physical disability, and similar grounds the courts have added, such as sexual orientation. Programs to improve the situation of disadvantaged groups are allowed (s. 15(2)).",
+        links: [{ label: "s. 15", slug: "art15" }],
+      },
+    ],
+  },
+  {
+    title: "Official languages",
+    sections: "ss. 16–22",
+    rights: [
+      {
+        section: "16–22",
+        title: "English and French",
+        who: ["public"],
+        text: "English and French are the official languages of Canada and New Brunswick. Anyone may use either in Parliament and federal courts, and in New Brunswick's legislature and courts. Federal laws are published in both languages, and the public can get federal services in either language at head offices and wherever there is significant demand.",
+        links: [
+          { label: "ss. 16 and 16.1", slug: "art16" },
+          { label: "s. 17", slug: "art17" },
+          { label: "s. 18", slug: "art18" },
+          { label: "s. 19", slug: "art19" },
+          { label: "s. 20", slug: "art20" },
+        ],
+      },
+    ],
+  },
+  {
+    title: "Minority language education rights",
+    sections: "s. 23",
+    rights: [
+      {
+        section: "23",
+        title: "Schooling in the minority language",
+        who: ["citizens"],
+        text: "Citizens in the English-speaking minority in Quebec, or the French-speaking minority elsewhere, can have their children educated in that language with public funds, where numbers warrant.",
+        links: [{ label: "s. 23", slug: "art23" }],
+      },
+    ],
+  },
+];
+
+const filters: { value: Filter; label: string }[] = [
+  { value: "all", label: "All" },
+  { value: "everyone", label: "Everyone" },
+  { value: "citizens", label: "Citizens" },
+  { value: "pr", label: "Permanent residents" },
+  { value: "justice", label: "In custody or in court" },
+];
+const filterKeys = (who: Holder[]) => [...new Set(who.flatMap((h) => holders[h].filter))].join(" ");
+const total = groups.reduce((n, g) => n + g.rights.length, 0);
+const titleId = "charter-rights-title";
+---
+
+<tn-charter-rights class="not-prose my-10 block" data-total={total}>
+  <section aria-labelledby={titleId}>
+    <div class="flex flex-wrap items-end justify-between gap-3">
+      <div>
+        <p class="text-xs font-semibold tracking-wide text-accent uppercase">Explore</p>
+        <p id={titleId} class="mt-1 text-lg font-bold tracking-tight text-primary">Charter rights at a glance</p>
+      </div>
+      <div data-enhanced hidden class="flex gap-2 text-sm">
+        <button type="button" data-expand="open" class="text-btn">Expand all</button>
+        <button type="button" data-expand="close" class="text-btn">Collapse all</button>
+      </div>
+    </div>
+
+    <fieldset data-enhanced hidden class="mt-4">
+      <legend class="text-sm font-semibold text-primary">Who has the right?</legend>
+      <div class="filters mt-2 flex flex-wrap gap-2">
+        {
+          filters.map((f, i) => (
+            <label class="filter-chip">
+              <input type="radio" name="charter-filter" value={f.value} checked={i === 0} />
+              <span>{f.label}</span>
+            </label>
+          ))
+        }
+      </div>
+    </fieldset>
+    <p data-live class="sr-only" aria-live="polite"></p>
+
+    <div class="mt-4 space-y-6">
+      {
+        groups.map((g) => (
+          <div data-group>
+            <p class="text-xs font-semibold tracking-wide text-muted uppercase">
+              {g.title} <span class="font-normal normal-case">({g.sections})</span>
+            </p>
+            <ul class="mt-2 grid list-none gap-2 ps-0" role="list">
+              {g.rights.map((r) => (
+                <li data-right data-filter={filterKeys(r.who)}>
+                  <details class="card group">
+                    <summary class="flex cursor-pointer list-none items-start gap-3 p-4">
+                      <span class="mt-0.5 shrink-0 rounded-md bg-surface-muted px-2 py-0.5 text-xs font-semibold text-secondary tabular-nums">
+                        s. {r.section}
+                      </span>
+                      <span class="min-w-0 flex-1">
+                        <span class="block font-semibold text-primary">{r.title}</span>
+                        <span class="mt-1.5 flex flex-wrap gap-1.5">
+                          <span class="sr-only">Who has it:</span>
+                          {r.who.map((h) => (
+                            <span class="badge" data-tone={holders[h].tone}>
+                              {holders[h].label}
+                            </span>
+                          ))}
+                        </span>
+                      </span>
+                      <Icon
+                        name="ChevronDown"
+                        class="mt-0.5 size-5 text-muted transition-transform group-open:rotate-180 motion-reduce:transition-none"
+                      />
+                    </summary>
+                    <div class="border-t border-subtle px-4 pt-3 pb-4 text-sm">
+                      <p class="text-secondary">{r.text}</p>
+                      <p class="mt-3 flex flex-wrap gap-x-4 gap-y-1">
+                        {r.links.map((l) => (
+                          <a href={`${CP}${l.slug}.html`} rel="noopener" class="link">
+                            Charterpedia: {l.label}
+                            <Icon name="ExternalLink" class="ms-1 inline size-3.5 align-[-2px]" />
+                          </a>
+                        ))}
+                      </p>
+                    </div>
+                  </details>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))
+      }
+    </div>
+    <p data-empty hidden class="mt-4 text-sm text-muted">No rights match this filter.</p>
+  </section>
+</tn-charter-rights>
+
+<style>
+  @reference "../../styles/global.css";
+
+  .card {
+    @apply rounded-card border border-subtle bg-surface shadow-card transition-colors;
+  }
+  .card:hover {
+    @apply border-strong;
+  }
+  .card[open] {
+    @apply border-strong;
+  }
+  .card summary::-webkit-details-marker {
+    display: none;
+  }
+  .card summary {
+    @apply rounded-card;
+  }
+  .badge {
+    @apply inline-flex rounded-full px-2 py-0.5 text-xs font-medium;
+  }
+  .badge[data-tone="everyone"] {
+    @apply bg-success-soft text-success;
+  }
+  .badge[data-tone="citizens"] {
+    @apply bg-accent-soft text-accent;
+  }
+  .badge[data-tone="pr"] {
+    @apply border border-accent/40 text-accent;
+  }
+  .badge[data-tone="justice"] {
+    @apply bg-surface-sunken text-primary;
+  }
+  .badge[data-tone="rule"] {
+    @apply border border-strong text-secondary;
+  }
+  .link {
+    @apply font-medium text-accent underline decoration-accent/40 underline-offset-3 hover:text-accent-hover hover:decoration-accent;
+  }
+  .text-btn {
+    @apply rounded-full border border-strong px-3 py-1.5 font-medium text-primary transition-colors hover:bg-surface-muted;
+  }
+  .filter-chip {
+    @apply relative inline-flex cursor-pointer rounded-full border border-strong px-3 py-1.5 text-sm font-medium text-secondary transition-colors hover:text-primary;
+  }
+  .filter-chip input {
+    @apply absolute inset-0 m-0 cursor-pointer appearance-none rounded-full;
+  }
+  .filter-chip input:focus-visible {
+    @apply outline-2 outline-offset-2 outline-focus;
+  }
+  .filter-chip:has(:checked) {
+    @apply border-accent bg-accent text-accent-contrast;
+  }
+  .filter-chip span {
+    @apply pointer-events-none relative;
+  }
+</style>
+
+<script>
+  class CharterRights extends HTMLElement {
+    connectedCallback() {
+      for (const el of this.querySelectorAll<HTMLElement>("[data-enhanced]")) el.hidden = false;
+      const live = this.querySelector<HTMLElement>("[data-live]")!;
+
+      for (const btn of this.querySelectorAll<HTMLButtonElement>("[data-expand]")) {
+        btn.addEventListener("click", () => {
+          const open = btn.dataset.expand === "open";
+          for (const d of this.querySelectorAll<HTMLDetailsElement>("[data-right]:not([hidden]) details")) d.open = open;
+          live.textContent = open ? "All cards expanded." : "All cards collapsed.";
+        });
+      }
+
+      this.addEventListener("change", (e) => {
+        const input = e.target as HTMLInputElement;
+        if (input.name !== "charter-filter") return;
+        const shown = this.filter(input.value);
+        const label = input.closest("label")?.textContent?.trim() ?? "";
+        live.textContent =
+          input.value === "all" ? `Showing all ${shown} rights.` : `${shown} rights belong to: ${label}.`;
+      });
+    }
+
+    private filter(value: string): number {
+      let shown = 0;
+      for (const item of this.querySelectorAll<HTMLElement>("[data-right]")) {
+        const keys = (item.dataset.filter ?? "").split(" ");
+        item.hidden = value !== "all" && !keys.includes(value);
+        if (!item.hidden) shown++;
+      }
+      for (const group of this.querySelectorAll<HTMLElement>("[data-group]")) {
+        group.hidden = !group.querySelector("[data-right]:not([hidden])");
+      }
+      this.querySelector<HTMLElement>("[data-empty]")!.hidden = shown > 0;
+      return shown;
+    }
+  }
+  customElements.define("tn-charter-rights", CharterRights);
+</script>

@@ -18,7 +18,7 @@ businesses (s. 32). This page paraphrases each section. For the exact words, rea
 
 ## The details
 
-<!-- visual: expandable cards, one per section, with "who has this right" badges and a link to the matching Charterpedia page -->
+<tn-widget name="charter-rights"></tn-widget>
 
 ### Fundamental freedoms (s. 2)
 

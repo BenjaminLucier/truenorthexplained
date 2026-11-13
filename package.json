@@ -12,7 +12,8 @@
     "preview": "astro preview",
     "check": "astro sync && tsc --noEmit --runExternalCode",
     "validate": "tsx scripts/validate.ts",
-    "review": "tsx scripts/validate.ts --review"
+    "review": "tsx scripts/validate.ts --review",
+    "data:population": "tsx scripts/data/province-population.ts"
   },
   "dependencies": {
     "astro": "7.4.11"

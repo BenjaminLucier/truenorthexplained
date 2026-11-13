@@ -1,0 +1,513 @@
+---
+/**
+ * "What does it take?" The reader picks a proposed constitutional change and sees
+ * which Part V procedure applies, with ten province chips and a population bar for
+ * the 7/50 rule. Without JavaScript it's a table of changes and procedures.
+ * Populations: 2021 Census (s. 38(1)(b) counts "the then latest general census").
+ */
+import Icon from "../../components/Icon.astro";
+import population from "../../data/province-population.json";
+
+type Procedure = "general" | "unanimity" | "some" | "parliament" | "province";
+
+const LAWS = "https://laws-lois.justice.gc.ca/eng/const/page-13.html";
+const procedures: Record<Procedure, { name: string; who: string }> = {
+  general: {
+    name: "The general procedure (7/50)",
+    who: "The Senate and the House of Commons, plus at least 7 provinces with at least 50% of the population of all the provinces.",
+  },
+  unanimity: {
+    name: "Unanimity",
+    who: "The Senate, the House of Commons and all ten provincial legislatures.",
+  },
+  some: {
+    name: "Some but not all provinces",
+    who: "The Senate, the House of Commons and the legislature of each province affected.",
+  },
+  parliament: {
+    name: "Parliament alone",
+    who: "Parliament, by an ordinary Act.",
+  },
+  province: {
+    name: "A province alone",
+    who: "That province's legislature, by an ordinary Act.",
+  },
+};
+
+interface Change {
+  id: string;
+  label: string;
+  procedure: Procedure;
+  section: string;
+  anchor: string;
+  why: string;
+  /** For "some" and "province": which provinces to light up (an illustration). */
+  affected?: string[];
+  affectedNote?: string;
+}
+
+const changes: Change[] = [
+  {
+    id: "monarchy",
+    label: "Abolish the monarchy",
+    procedure: "unanimity",
+    section: "s. 41(a)",
+    anchor: "s-41",
+    why: "Anything affecting the office of the King, the Governor General or a Lieutenant Governor needs every province to agree.",
+  },
+  {
+    id: "senate-abolish",
+    label: "Abolish the Senate",
+    procedure: "unanimity",
+    section: "s. 41(e)",
+    anchor: "s-41",
+    why: "In 2014 the Supreme Court said abolishing the Senate would change how the amending formula itself works, so it needs unanimity.",
+  },
+  {
+    id: "scc",
+    label: "Change the Supreme Court's makeup",
+    procedure: "unanimity",
+    section: "s. 41(d)",
+    anchor: "s-41",
+    why: "The composition of the Supreme Court, including the rule that at least three of the nine judges come from Quebec, is protected by unanimity (confirmed by the Supreme Court in 2014).",
+  },
+  {
+    id: "formula",
+    label: "Change the amending formula",
+    procedure: "unanimity",
+    section: "s. 41(e)",
+    anchor: "s-41",
+    why: "Changing the rules for changing the Constitution needs every province.",
+  },
+  {
+    id: "senate-powers",
+    label: "Change the Senate's powers",
+    procedure: "general",
+    section: "s. 42(1)(b)",
+    anchor: "s-42",
+    why: "Section 42 lists the Senate's powers among the matters that always use the 7/50 procedure. No province can opt out.",
+  },
+  {
+    id: "senate-elections",
+    label: "Elect senators",
+    procedure: "general",
+    section: "s. 42(1)(b)",
+    anchor: "s-42",
+    why: "How senators are selected is protected by s. 42. In 2014 the Supreme Court said Parliament can't create Senate elections on its own.",
+  },
+  {
+    id: "new-province",
+    label: "Create a new province",
+    procedure: "general",
+    section: "s. 42(1)(f)",
+    anchor: "s-42",
+    why: "Creating new provinces, for example from a territory, is on the s. 42 list, so it needs 7/50.",
+  },
+  {
+    id: "charter",
+    label: "Add a new right to the Charter",
+    procedure: "general",
+    section: "s. 38",
+    anchor: "s-38",
+    why: "Anything not covered by another procedure uses the general one.",
+  },
+  {
+    id: "boundary",
+    label: "Move the boundary between two provinces",
+    procedure: "some",
+    section: "s. 43(a)",
+    anchor: "s-43",
+    why: "A boundary change only concerns the provinces on either side of it.",
+    affected: ["saskatchewan", "manitoba"],
+    affectedNote: "For example, Saskatchewan and Manitoba.",
+  },
+  {
+    id: "rename",
+    label: "Rename a province",
+    procedure: "some",
+    section: "s. 43",
+    anchor: "s-43",
+    why: "A provision that applies to only one province. Newfoundland became Newfoundland and Labrador this way in 2001.",
+    affected: ["newfoundland-and-labrador"],
+    affectedNote: "In 2001, Newfoundland and Labrador.",
+  },
+  {
+    id: "nb-language",
+    label: "Change language rights in one province",
+    procedure: "some",
+    section: "s. 43(b)",
+    anchor: "s-43",
+    why: "Language rules that apply within one province need only that province. In 1993, s. 16.1 on New Brunswick's English and French communities was added this way.",
+    affected: ["new-brunswick"],
+    affectedNote: "In 1993, New Brunswick.",
+  },
+  {
+    id: "commons-seats",
+    label: "Change how Commons seats are shared out",
+    procedure: "parliament",
+    section: "s. 44",
+    anchor: "s-44",
+    why: "Parliament can change the federal institutions itself, within limits: each province's guaranteed minimum number of MPs (s. 41(b)) and proportionate representation (s. 42(1)(a)) are protected.",
+  },
+  {
+    id: "provincial-constitution",
+    label: "Change a province's own constitution",
+    procedure: "province",
+    section: "s. 45",
+    anchor: "s-45",
+    why: "A province can change its own constitution by an ordinary law, except the office of the Lieutenant Governor (s. 41). Quebec in 2022 and Saskatchewan in 2023 added sections about themselves this way.",
+    affected: ["quebec"],
+    affectedNote: "For example, Quebec in 2022.",
+  },
+];
+
+const provinces = population.provinces;
+const total = provinces.reduce((n, p) => n + p.population, 0);
+const census = population._meta.census;
+const titleId = "amending-formula-title";
+---
+
+<tn-amending-formula
+  class="not-prose my-10 block rounded-card border border-subtle bg-surface p-5 shadow-card sm:p-6"
+  data-total={total}
+>
+  <section aria-labelledby={titleId}>
+    <p class="text-xs font-semibold tracking-wide text-accent uppercase">Try it</p>
+    <p id={titleId} class="mt-1 text-lg font-bold tracking-tight text-primary">What does it take?</p>
+    <p class="mt-1 text-sm text-secondary">Choose a proposed change to see which amending procedure applies.</p>
+
+    <!-- Without JavaScript: a plain table. -->
+    <div data-static class="mt-4 overflow-x-auto rounded-lg border border-subtle">
+      <table class="w-full text-left text-sm">
+        <thead class="bg-surface-muted text-primary">
+          <tr>
+            <th scope="col" class="px-3 py-2">Proposed change</th>
+            <th scope="col" class="px-3 py-2">Procedure</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-subtle text-secondary">
+          {
+            changes.map((c) => (
+              <tr>
+                <td class="px-3 py-2">{c.label}</td>
+                <td class="px-3 py-2">
+                  {procedures[c.procedure].name} (<a href={`${LAWS}#${c.anchor}`} class="link">{c.section}</a>)
+                </td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+
+    <div data-enhanced hidden>
+      <fieldset class="mt-4">
+        <legend class="text-sm font-semibold text-primary">Proposed change</legend>
+        <div class="mt-2 grid gap-2 sm:grid-cols-2">
+          {
+            changes.map((c, i) => (
+              <label class="choice">
+                <input type="radio" name="amending-change" value={c.id} checked={i === 0} />
+                <span>{c.label}</span>
+              </label>
+            ))
+          }
+        </div>
+      </fieldset>
+
+      <div class="result mt-5 rounded-lg border border-subtle bg-surface-muted p-4 sm:p-5" data-result>
+        {
+          changes.map((c) => {
+            const p = procedures[c.procedure];
+            return (
+              <div
+                data-change={c.id}
+                data-procedure={c.procedure}
+                data-name={`${p.name}, ${c.section}`}
+                data-affected={(c.affected ?? []).join(" ")}
+                hidden
+              >
+                <p class="text-xs font-semibold tracking-wide text-muted uppercase">This needs</p>
+                <p class="mt-0.5 flex flex-wrap items-baseline gap-x-2 text-xl font-bold tracking-tight text-primary">
+                  {p.name}
+                  <a href={`${LAWS}#${c.anchor}`} class="link text-sm font-semibold">
+                    {c.section}
+                    <span class="sr-only"> on Justice Laws</span>
+                    <Icon name="ExternalLink" class="ms-0.5 inline size-3.5 align-[-2px]" />
+                  </a>
+                </p>
+                <p class="mt-2 text-secondary">{c.why}</p>
+                <p class="mt-2 text-sm text-secondary">
+                  <span class="font-semibold text-primary">Who must agree: </span>
+                  {p.who}
+                </p>
+                {c.affectedNote && <p class="mt-1 text-sm text-muted">{c.affectedNote}</p>}
+              </div>
+            );
+          })
+        }
+
+        <div class="mt-5 grid gap-4">
+          <div>
+            <p class="flex items-center gap-2 text-sm font-semibold text-primary">
+              <Icon name="Landmark" class="size-4 text-muted" />
+              Parliament
+            </p>
+            <div class="mt-2 flex flex-wrap gap-2" data-parliament>
+              <span class="chip" data-chamber>Senate</span>
+              <span class="chip" data-chamber>House of Commons</span>
+            </div>
+            <p class="mt-1.5 text-xs text-muted" data-parliament-note></p>
+          </div>
+
+          <div>
+            <p class="flex items-center gap-2 text-sm font-semibold text-primary">
+              <Icon name="Users" class="size-4 text-muted" />
+              Provinces
+            </p>
+            <p class="mt-1 text-xs text-muted" data-provinces-hint></p>
+            <ul class="mt-2 grid list-none grid-cols-5 gap-1.5 ps-0 sm:grid-cols-10" role="list">
+              {
+                provinces.map((p) => (
+                  <li>
+                    <button
+                      type="button"
+                      class="chip chip-province"
+                      data-province={p.id}
+                      data-population={p.population}
+                      aria-pressed="false"
+                      title={p.geo}
+                    >
+                      <span aria-hidden="true">{p.abbr}</span>
+                      <span class="sr-only">{p.geo}</span>
+                    </button>
+                  </li>
+                ))
+              }
+            </ul>
+
+            <div class="mt-4" data-population-block>
+              <div class="pop-bar" aria-hidden="true">
+                <div class="pop-fill" data-pop-fill></div>
+                <div class="pop-line"></div>
+              </div>
+              <p class="relative mt-1 h-4 text-xs text-muted" aria-hidden="true">
+                <span class="absolute left-1/2 -translate-x-1/2">50%</span>
+              </p>
+              <p class="text-xs text-muted">Share of the provinces' population, {census} Census</p>
+            </div>
+
+            <p class="status mt-3 text-sm font-medium" data-status></p>
+          </div>
+        </div>
+      </div>
+
+      <p data-live class="sr-only" aria-live="polite"></p>
+      <p class="mt-3 text-xs text-muted">
+        For 7/50 changes, a 1996 federal law adds a regional veto in practice. See{" "}
+        <a href="/learn/constitution/amending-formula" class="link">Why changing the Constitution is so hard</a>.
+      </p>
+    </div>
+  </section>
+</tn-amending-formula>
+
+<style>
+  @reference "../../styles/global.css";
+
+  .link {
+    @apply font-medium text-accent underline decoration-accent/40 underline-offset-3 hover:text-accent-hover hover:decoration-accent;
+  }
+  .choice {
+    @apply relative flex cursor-pointer items-center rounded-lg border border-subtle px-3 py-1.5 text-sm sm:py-2 font-medium text-secondary transition-colors hover:border-strong hover:text-primary;
+  }
+  .choice input {
+    @apply absolute inset-0 m-0 cursor-pointer appearance-none rounded-lg;
+  }
+  .choice input:focus-visible {
+    @apply outline-2 outline-offset-2 outline-focus;
+  }
+  .choice:has(:checked) {
+    @apply border-accent bg-accent-soft text-primary;
+  }
+  .choice span {
+    @apply pointer-events-none relative;
+  }
+
+  .chip {
+    @apply inline-flex items-center justify-center rounded-full border border-strong bg-surface px-3 py-1 text-sm font-medium text-muted transition-colors;
+  }
+  .chip[data-on] {
+    @apply border-accent bg-accent text-accent-contrast;
+  }
+  .chip[data-off] {
+    @apply border-dashed opacity-50;
+  }
+  .chip-province {
+    @apply w-full px-0 py-1.5 font-semibold tabular-nums;
+  }
+  button.chip:not(:disabled) {
+    @apply cursor-pointer hover:border-accent hover:text-primary;
+  }
+  button.chip[data-on]:not(:disabled) {
+    @apply hover:text-accent-contrast;
+  }
+
+  .pop-bar {
+    @apply relative h-4 overflow-hidden rounded-full bg-surface-sunken;
+  }
+  .pop-fill {
+    @apply h-full w-0 rounded-e-full bg-accent;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .pop-fill {
+      @apply transition-[width] duration-300;
+    }
+    .chip {
+      @apply transition-[background-color,border-color,color,opacity];
+    }
+  }
+  .pop-line {
+    @apply absolute inset-y-0 left-1/2 w-0.5 -translate-x-1/2 bg-primary;
+  }
+  .status[data-met="true"] {
+    @apply text-success;
+  }
+  .status[data-met="false"] {
+    @apply text-secondary;
+  }
+</style>
+
+<script>
+  type Procedure = "general" | "unanimity" | "some" | "parliament" | "province";
+
+  const parliamentNote: Record<Procedure, string> = {
+    general: "Both Houses pass a resolution. The Senate can only delay: after 180 days the House can go ahead without it (s. 47).",
+    unanimity: "Both Houses pass a resolution. The Senate can only delay: after 180 days the House can go ahead without it (s. 47).",
+    some: "Both Houses pass a resolution. The Senate can only delay (s. 47).",
+    parliament: "An ordinary Act of Parliament, passed by both Houses.",
+    province: "Parliament isn't involved.",
+  };
+
+  class AmendingFormula extends HTMLElement {
+    private total = 0;
+    private procedure: Procedure = "unanimity";
+    private chips: HTMLButtonElement[] = [];
+
+    connectedCallback() {
+      this.total = Number(this.dataset.total);
+      this.querySelector<HTMLElement>("[data-static]")!.hidden = true;
+      this.querySelector<HTMLElement>("[data-enhanced]")!.hidden = false;
+      this.chips = [...this.querySelectorAll<HTMLButtonElement>("[data-province]")];
+
+      this.addEventListener("change", (e) => {
+        const input = e.target as HTMLInputElement;
+        if (input.name !== "amending-change") return;
+        const panel = this.show(input.value);
+        const name = panel?.dataset.name ?? "";
+        this.announce(`${input.closest("label")?.textContent?.trim()}: ${name}.`);
+      });
+      for (const chip of this.chips) {
+        chip.addEventListener("click", () => {
+          const on = chip.getAttribute("aria-pressed") !== "true";
+          chip.setAttribute("aria-pressed", String(on));
+          this.paintChip(chip, on);
+          this.announce(this.update());
+        });
+      }
+      const checked = this.querySelector<HTMLInputElement>('input[name="amending-change"]:checked');
+      this.show(checked?.value ?? "");
+    }
+
+    private announce(text: string) {
+      this.querySelector("[data-live]")!.textContent = text;
+    }
+
+    private show(id: string): HTMLElement | undefined {
+      let panel: HTMLElement | undefined;
+      for (const p of this.querySelectorAll<HTMLElement>("[data-change]")) {
+        p.hidden = p.dataset.change !== id;
+        if (!p.hidden) panel = p;
+      }
+      if (!panel) return undefined;
+      this.procedure = panel.dataset.procedure as Procedure;
+      const affected = (panel.dataset.affected ?? "").split(" ").filter(Boolean);
+      const interactive = this.procedure === "general" || this.procedure === "unanimity";
+
+      for (const chip of this.chips) {
+        chip.disabled = !interactive;
+        const on = !interactive && affected.includes(chip.dataset.province!);
+        if (interactive) chip.setAttribute("aria-pressed", "false");
+        else chip.removeAttribute("aria-pressed");
+        this.paintChip(chip, on, !interactive && !on);
+      }
+      const parliamentInvolved = this.procedure !== "province";
+      for (const c of this.querySelectorAll<HTMLElement>("[data-chamber]")) {
+        this.paintChip(c, parliamentInvolved, !parliamentInvolved);
+      }
+      this.querySelector("[data-parliament-note]")!.textContent = parliamentNote[this.procedure];
+      const hint = this.querySelector<HTMLElement>("[data-provinces-hint]")!;
+      hint.textContent = interactive
+        ? this.procedure === "general"
+          ? "Select provinces to build a coalition that meets the 7/50 rule."
+          : "Select provinces: every one of them has to say yes."
+        : "";
+      hint.hidden = !interactive;
+      this.querySelector<HTMLElement>("[data-population-block]")!.hidden = this.procedure !== "general";
+      this.update();
+      return panel;
+    }
+
+    private paintChip(el: HTMLElement, on: boolean, off = false) {
+      if (on) el.dataset.on = "";
+      else delete el.dataset.on;
+      if (off) el.dataset.off = "";
+      else delete el.dataset.off;
+    }
+
+    /** Recompute the status line; returns its text. */
+    private update(): string {
+      const status = this.querySelector<HTMLElement>("[data-status]")!;
+      const fill = this.querySelector<HTMLElement>("[data-pop-fill]")!;
+      const on = this.chips.filter((c) => c.getAttribute("aria-pressed") === "true");
+      const pop = on.reduce((n, c) => n + Number(c.dataset.population), 0);
+      const pct = this.total ? (pop / this.total) * 100 : 0;
+      fill.style.width = `${pct}%`;
+
+      let text = "";
+      let met: boolean | undefined;
+      switch (this.procedure) {
+        case "general": {
+          const enoughProvinces = on.length >= 7;
+          const enoughPeople = pct >= 50;
+          met = enoughProvinces && enoughPeople;
+          text = `${on.length} of 10 provinces, ${pct.toFixed(1)}% of the population. `;
+          if (met) text += "That meets the 7/50 rule.";
+          else if (!enoughProvinces && !enoughPeople) text += "Needs at least 7 provinces and 50% of the population.";
+          else if (!enoughProvinces) text += `Needs ${7 - on.length} more province${7 - on.length === 1 ? "" : "s"}.`;
+          else text += "Enough provinces, but not enough people.";
+          break;
+        }
+        case "unanimity":
+          met = on.length === 10;
+          text = met
+            ? "All 10 provinces agree. That meets the unanimity rule."
+            : `${on.length} of 10 provinces. Every province has a veto: all 10 must agree.`;
+          break;
+        case "some":
+          text = "No other province has a say.";
+          break;
+        case "parliament":
+          text = "No province has a say.";
+          break;
+        case "province":
+          text = "No other province, and not Parliament, has a say.";
+          break;
+      }
+      status.textContent = text;
+      if (met === undefined) delete status.dataset.met;
+      else status.dataset.met = String(met);
+      return text;
+    }
+  }
+  customElements.define("tn-amending-formula", AmendingFormula);
+</script>

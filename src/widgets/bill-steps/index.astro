@@ -1,0 +1,230 @@
+---
+/**
+ * How a bill becomes law: a step-through of every stage in both chambers.
+ * Static HTML is an ordered list; <tn-bill-steps> turns it into one step at a time
+ * with two "lanes" of progress dots (House of Commons and Senate).
+ */
+import Icon from "../../components/Icon.astro";
+import StepperControls from "../../components/stepper/StepperControls.astro";
+
+type Chamber = "commons" | "senate" | "crown";
+interface Step {
+  chamber: Chamber;
+  short: string;
+  title: string;
+  happens: string;
+  wrong: string;
+}
+
+const COMMONS = "House of Commons";
+const SENATE = "Senate";
+
+const steps: Step[] = [
+  {
+    chamber: "commons",
+    short: "1st",
+    title: "First reading",
+    happens:
+      "A minister introduces the bill and it's printed. There's no debate and no real vote: the bill is simply made public.",
+    wrong:
+      "Very little. But a bill that raises taxes or spends public money must start in the House of Commons, not the Senate (s. 53), and new spending needs a royal recommendation that only the government can give (s. 54).",
+  },
+  {
+    chamber: "commons",
+    short: "2nd",
+    title: "Second reading",
+    happens:
+      "MPs debate the bill's principle: is this a good idea at all? They can't change the wording yet. If the vote passes, the bill goes to committee.",
+    wrong:
+      "The House can vote the bill down, and it dies. If the government has made the vote a matter of confidence, losing it could bring the government down.",
+  },
+  {
+    chamber: "commons",
+    short: "Cttee",
+    title: "Committee stage",
+    happens:
+      "A small group of MPs studies the bill in detail. They usually hear from witnesses such as experts, officials and affected groups, then go through it clause by clause, voting on amendments.",
+    wrong:
+      "A committee can rewrite large parts of a bill. In a minority Parliament, opposition MPs together usually outnumber the government's MPs on committees, so they can make changes the government doesn't want.",
+  },
+  {
+    chamber: "commons",
+    short: "Report",
+    title: "Report stage",
+    happens:
+      "The committee reports the bill back, and the whole House can propose further amendments. The Speaker decides which ones get debated.",
+    wrong:
+      "Changes made in committee can be undone here. The government can also use time allocation or closure to limit how long debate lasts, which opposition parties often object to.",
+  },
+  {
+    chamber: "commons",
+    short: "3rd",
+    title: "Third reading",
+    happens: "A final debate and vote on the bill in its finished form. If it passes, it goes to the Senate.",
+    wrong:
+      "The bill can still be defeated. And if Parliament is prorogued or dissolved before the bill passes both chambers, it usually dies and has to be reintroduced.",
+  },
+  {
+    chamber: "senate",
+    short: "1st",
+    title: "First reading",
+    happens: "The bill arrives from the House of Commons and is introduced in the Senate. Again, there's no debate.",
+    wrong:
+      "Little goes wrong here. Sometimes the Senate has already studied the bill's subject while it was still in the House (a pre-study), to speed things up.",
+  },
+  {
+    chamber: "senate",
+    short: "2nd",
+    title: "Second reading",
+    happens: "Senators debate the bill's principle and vote on whether to send it to a Senate committee.",
+    wrong:
+      "On paper the Senate has nearly the same law-making powers as the House and could defeat the bill. In practice, the appointed Senate generally doesn't block bills passed by the elected House.",
+  },
+  {
+    chamber: "senate",
+    short: "Cttee",
+    title: "Committee stage",
+    happens:
+      "A Senate committee hears witnesses and goes through the bill clause by clause. Senate committees often take a close look at technical and legal details.",
+    wrong: "The committee can recommend amendments, setting up a disagreement with the House of Commons later.",
+  },
+  {
+    chamber: "senate",
+    short: "Report",
+    title: "Report stage",
+    happens:
+      "The committee reports back. If it proposed amendments, the whole Senate debates and votes on whether to accept them.",
+    wrong: "Senators can adopt the committee's amendments or propose their own, which sends the bill back to the House.",
+  },
+  {
+    chamber: "senate",
+    short: "3rd",
+    title: "Third reading",
+    happens:
+      "A final debate and vote. If the Senate passes the bill without changes, it's ready for royal assent.",
+    wrong:
+      "If the Senate amends the bill, it goes back to the House of Commons, which can accept, reject or change the amendments. Messages go back and forth (\"ping-pong\") until both chambers agree on exactly the same text. If neither gives way, the bill can't become law.",
+  },
+  {
+    chamber: "crown",
+    short: "Assent",
+    title: "Royal assent",
+    happens:
+      "The Governor General, or a deputy, gives assent in the King's name, either at a traditional ceremony in the Senate chamber or by written declaration. The bill is now an Act of Parliament.",
+    wrong:
+      "In practice, nothing. The Constitution says assent can be withheld (s. 55), but by convention it's never refused for a bill both chambers have passed.",
+  },
+  {
+    chamber: "crown",
+    short: "In force",
+    title: "Coming into force",
+    happens:
+      "An Act takes effect on the day of royal assent unless it says otherwise. Many Acts come into force on a later date, or on a date the cabinet chooses.",
+    wrong:
+      "If a law waits for the cabinet to set a date, it has no effect until then. A part the cabinet never brings into force never applies.",
+  },
+];
+
+const chamberName: Record<Chamber, string> = { commons: COMMONS, senate: SENATE, crown: "The Crown" };
+const lanes: { chamber: Chamber; label: string }[] = [
+  { chamber: "commons", label: COMMONS },
+  { chamber: "senate", label: SENATE },
+  { chamber: "crown", label: "Becoming law" },
+];
+const withIndex = steps.map((s, i) => ({ ...s, i }));
+const titleId = "bill-steps-title";
+---
+
+<tn-bill-steps class="tn-stepper not-prose my-10 block rounded-card border border-subtle bg-surface p-5 shadow-card sm:p-6">
+  <section aria-labelledby={titleId}>
+    <p class="text-xs font-semibold tracking-wide text-accent uppercase">Step through it</p>
+    <p id={titleId} class="mt-1 text-lg font-bold tracking-tight text-primary">The life of a bill</p>
+    <p class="mt-1 text-sm text-secondary">
+      This follows a government bill that starts in the House of Commons. A bill can start in the Senate instead; the
+      stages are the same, in the other order.
+    </p>
+
+    <nav data-enhanced hidden aria-label="Stages of the bill" class="mt-5 space-y-3">
+      {
+        lanes.map((lane) => (
+          <div class="lane" data-lane={lane.chamber}>
+            <p class="lane-label">{lane.label}</p>
+            <ol class="lane-track" role="list">
+              {withIndex
+                .filter((s) => s.chamber === lane.chamber)
+                .map((s) => (
+                  <li class="lane-stop">
+                    <button
+                      type="button"
+                      class="dot"
+                      data-dot={s.i}
+                      aria-label={`Step ${s.i + 1}: ${chamberName[s.chamber]}, ${s.title}`}
+                    >
+                      <span class="dot-mark" aria-hidden="true" />
+                      <span class="dot-text" aria-hidden="true">
+                        {s.short}
+                      </span>
+                    </button>
+                  </li>
+                ))}
+            </ol>
+          </div>
+        ))
+      }
+    </nav>
+
+    <ol class="steps mt-5" data-steps>
+      {
+        withIndex.map((s) => (
+          <li data-step class="step" data-chamber={s.chamber}>
+            <p class="step-kicker">{chamberName[s.chamber]}</p>
+            <p class="step-title text-lg font-semibold text-primary" data-step-title>
+              <span class="sr-only">{chamberName[s.chamber]}: </span>
+              {s.title}
+            </p>
+            <p class="mt-2 text-secondary">{s.happens}</p>
+            <div class="mt-4 rounded-lg border-s-4 border-accent bg-surface-muted p-4">
+              <p class="flex items-center gap-2 text-sm font-semibold text-primary">
+                <Icon name="TriangleExclamationPoint" class="size-4 text-accent" />
+                What can go wrong here
+              </p>
+              <p class="mt-1 text-sm text-secondary">{s.wrong}</p>
+            </div>
+          </li>
+        ))
+      }
+    </ol>
+
+    <StepperControls />
+  </section>
+</tn-bill-steps>
+
+<style>
+  @reference "../../styles/global.css";
+
+  /* One lane of progress dots per chamber */
+  .lane {
+    @apply grid items-center gap-x-3 gap-y-1 sm:grid-cols-[8.5rem_1fr];
+  }
+  .lane-label {
+    @apply text-xs font-semibold text-secondary;
+  }
+  .lane-track {
+    @apply relative flex list-none justify-between ps-0;
+  }
+  .lane[data-lane="crown"] .lane-track {
+    @apply w-fit justify-start gap-6;
+  }
+  .lane-track::before {
+    content: "";
+    @apply absolute top-3 right-4 left-4 h-0.5 bg-subtle;
+  }
+  .lane-stop {
+    @apply relative;
+  }
+</style>
+
+<script>
+  import { Stepper } from "../../scripts/stepper";
+  customElements.define("tn-bill-steps", class extends Stepper {});
+</script>

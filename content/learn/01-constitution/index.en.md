@@ -118,7 +118,7 @@ procedures, depending on what's being changed:
 That's why big constitutional change is rare. See
 [Why changing the Constitution is so hard](/learn/constitution/amending-formula).
 
-<!-- visual: clickable "what does it take?" picker: choose a change, see which formula applies -->
+<tn-widget name="amending-formula"></tn-widget>
 
 ### Where this connects
 

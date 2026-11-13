@@ -1,0 +1,500 @@
+---
+/**
+ * A clickable map of Canada's courts. Each court is an in-page link to its
+ * description, so without JavaScript the map is a set of links above a list of
+ * every court. <tn-court-map> turns the list into a single detail panel for the
+ * selected court and highlights where its appeals go and come from.
+ * Facts follow content/learn/07-law/courts.en.md.
+ */
+import Icon from "../../components/Icon.astro";
+
+type System = "top" | "provincial" | "federal" | "military";
+interface Court {
+  id: string;
+  name: string;
+  short: string;
+  system: System;
+  /** Grid placement on wide screens: column start / span, row. */
+  col: number;
+  span?: number;
+  row: number;
+  handles: string[];
+  example: string;
+  appealsTo: string[];
+  /** Routes that only some cases take. */
+  someAppealsTo?: string[];
+  names?: string[];
+}
+
+const courts: Court[] = [
+  {
+    id: "scc",
+    name: "Supreme Court of Canada",
+    short: "Supreme Court of Canada",
+    system: "top",
+    col: 1,
+    span: 4,
+    row: 1,
+    handles: [
+      "The final court of appeal for every kind of case: criminal, civil, constitutional and federal.",
+      "In most cases, a party first needs the Court's permission (leave to appeal), granted only for issues of public importance.",
+      "Answers legal questions that governments refer to it.",
+      "Its decisions bind every other court in Canada.",
+    ],
+    example: "Answering a government's reference question, such as whether Quebec could leave Canada on its own.",
+    appealsTo: [],
+  },
+  {
+    id: "appeal",
+    name: "Provincial and territorial courts of appeal",
+    short: "Court of appeal",
+    system: "provincial",
+    col: 1,
+    row: 2,
+    handles: [
+      "Reviews the decisions of lower courts for legal errors. It holds no trials and hears no witnesses.",
+      "Usually sits as a panel of three judges.",
+      "For most cases, this is the last stop.",
+    ],
+    example: "A person convicted of fraud argues that the trial judge misunderstood the law.",
+    appealsTo: ["scc"],
+    names: ["Ontario: Court of Appeal for Ontario", "Quebec: Court of Appeal of Quebec"],
+  },
+  {
+    id: "superior",
+    name: "Provincial and territorial superior courts",
+    short: "Superior court",
+    system: "provincial",
+    col: 1,
+    row: 3,
+    handles: [
+      "The most serious criminal cases, such as murder, often with a jury.",
+      "Major civil lawsuits and divorce.",
+      "Some appeals from provincial courts, and judicial review of provincial government decisions.",
+      "It can hear any case unless a law gives it to another court (inherent jurisdiction). The province runs the court; the federal government appoints and pays its judges (s. 96).",
+    ],
+    example: "A murder trial before a judge and jury, or a divorce.",
+    appealsTo: ["appeal"],
+    names: [
+      "Ontario: Superior Court of Justice",
+      "Quebec: Superior Court",
+      "Alberta: Court of King's Bench",
+      "Nunavut: Nunavut Court of Justice, which combines the superior and territorial courts",
+    ],
+  },
+  {
+    id: "provincial",
+    name: "Provincial and territorial courts",
+    short: "Provincial or territorial court",
+    system: "provincial",
+    col: 1,
+    row: 4,
+    handles: [
+      "Most criminal cases, apart from the most serious offences, and youth criminal cases.",
+      "Traffic and other provincial offences, and municipal bylaw cases.",
+      "Many family matters (but not divorce), and small claims in many provinces.",
+      "A judge decides alone; there are no juries. The province or territory appoints the judges.",
+    ],
+    example: "A shoplifting charge, a speeding ticket, or a small claims dispute.",
+    appealsTo: ["appeal"],
+    someAppealsTo: ["superior"],
+    names: ["Ontario: Ontario Court of Justice", "Quebec: Court of Québec"],
+  },
+  {
+    id: "fca",
+    name: "Federal Court of Appeal",
+    short: "Federal Court of Appeal",
+    system: "federal",
+    col: 2,
+    span: 2,
+    row: 2,
+    handles: [
+      "Appeals from the Federal Court and the Tax Court of Canada.",
+      "Reviews of decisions by some federal tribunals.",
+    ],
+    example: "A business appeals a Tax Court ruling about the GST it owes.",
+    appealsTo: ["scc"],
+  },
+  {
+    id: "fc",
+    name: "Federal Court",
+    short: "Federal Court",
+    system: "federal",
+    col: 2,
+    row: 3,
+    handles: [
+      "Areas Parliament assigns to it, such as immigration and refugee decisions, patents and trademarks, and maritime law.",
+      "Reviews of decisions by federal boards and tribunals.",
+    ],
+    example: "A refugee claimant asks the court to review the decision that refused their claim.",
+    appealsTo: ["fca"],
+  },
+  {
+    id: "tax",
+    name: "Tax Court of Canada",
+    short: "Tax Court of Canada",
+    system: "federal",
+    col: 3,
+    row: 3,
+    handles: ["Disputes between taxpayers and the federal government about federal taxes, such as income tax and GST."],
+    example: "A taxpayer disputes how much income tax the Canada Revenue Agency says they owe.",
+    appealsTo: ["fca"],
+  },
+  {
+    id: "cmac",
+    name: "Court Martial Appeal Court of Canada",
+    short: "Court Martial Appeal Court",
+    system: "military",
+    col: 4,
+    row: 2,
+    handles: ["Appeals from courts martial."],
+    example: "A service member appeals a conviction at a court martial.",
+    appealsTo: ["scc"],
+  },
+  {
+    id: "martial",
+    name: "Courts martial",
+    short: "Courts martial",
+    system: "military",
+    col: 4,
+    row: 3,
+    handles: [
+      "Trials of members of the Canadian Armed Forces under the military justice system set up by the National Defence Act.",
+    ],
+    example: "A member of the Armed Forces is tried for an offence under the National Defence Act.",
+    appealsTo: ["cmac"],
+  },
+];
+
+const byId = Object.fromEntries(courts.map((c) => [c.id, c]));
+const appealsFrom = (id: string) =>
+  courts.filter((c) => c.appealsTo.includes(id) || c.someAppealsTo?.includes(id)).map((c) => c.id);
+const systemLabel: Record<System, string> = {
+  top: "Final court",
+  provincial: "Provincial and territorial",
+  federal: "Federal courts",
+  military: "Military",
+};
+const groups: { system: System; ids: string[] }[] = [
+  { system: "top", ids: ["scc"] },
+  { system: "provincial", ids: ["appeal", "superior", "provincial"] },
+  { system: "federal", ids: ["fca", "fc", "tax"] },
+  { system: "military", ids: ["cmac", "martial"] },
+];
+const anchor = (id: string) => `court-${id}`;
+const titleId = "court-map-title";
+---
+
+<tn-court-map class="not-prose my-10 block rounded-card border border-subtle bg-surface p-5 shadow-card sm:p-6">
+  <section aria-labelledby={titleId}>
+    <p class="text-xs font-semibold tracking-wide text-accent uppercase">Explore</p>
+    <p id={titleId} class="mt-1 text-lg font-bold tracking-tight text-primary">The court map</p>
+    <p class="mt-1 text-sm text-secondary">
+      Select a court to see what it handles. Arrows show where appeals go.
+    </p>
+
+    <nav aria-label="Courts" class="map mt-5">
+      {
+        groups.map((g) => (
+          <div class="map-group" data-system={g.system}>
+            {g.system !== "top" && <p class="map-group-label">{systemLabel[g.system]}</p>}
+            <ul class="map-list" role="list">
+              {g.ids.map((id) => {
+                const c = byId[id]!;
+                return (
+                  <li
+                    class="map-cell"
+                    data-system={c.system}
+                    style={`--col: ${c.col} / span ${c.span ?? 1}; --row: ${c.row}`}
+                    data-has-up={c.appealsTo.length > 0 && c.row > 1 ? "" : undefined}
+                  >
+                    <a href={`#${anchor(c.id)}`} class="court" data-court={c.id}>
+                      <span class="court-name">{c.short}</span>
+                      {c.appealsTo.length > 0 && (
+                        <span class="court-up">
+                          <Icon name="ArrowUp" class="size-3" />
+                          <span class="sr-only">Appeals go to</span>
+                          {[...c.appealsTo, ...(c.someAppealsTo ?? [])].map((t) => byId[t]!.short).join(" or ")}
+                        </span>
+                      )}
+                    </a>
+                  </li>
+                );
+              })}
+            </ul>
+          </div>
+        ))
+      }
+    </nav>
+    <p class="mt-3 text-xs text-muted">
+      Decisions of provincial and territorial courts are appealed to the superior court or straight to the court of
+      appeal, depending on the case.
+    </p>
+
+    <div class="details mt-5" data-details aria-live="polite">
+      {
+        courts.map((c) => (
+          <article
+            id={anchor(c.id)}
+            class="detail"
+            data-detail={c.id}
+            data-up={[...c.appealsTo, ...(c.someAppealsTo ?? [])].join(" ")}
+            data-down={appealsFrom(c.id).join(" ")}
+          >
+            <p class="text-xs font-semibold tracking-wide text-muted uppercase">{systemLabel[c.system]}</p>
+            <h4 class="mt-1 text-lg font-semibold text-primary">{c.name}</h4>
+            <ul class="mt-2 list-disc space-y-1 ps-5 text-sm text-secondary marker:text-strong">
+              {c.handles.map((h) => (
+                <li>{h}</li>
+              ))}
+            </ul>
+            <p class="mt-3 rounded-lg bg-surface-muted p-3 text-sm text-secondary">
+              <span class="font-semibold text-primary">Example: </span>
+              {c.example}
+            </p>
+            {c.names && (
+              <div class="mt-3 text-sm">
+                <p class="font-semibold text-primary">What it's called</p>
+                <ul class="mt-1 list-disc space-y-0.5 ps-5 text-secondary marker:text-strong">
+                  {c.names.map((n) => (
+                    <li>{n}</li>
+                  ))}
+                </ul>
+                <p class="mt-1 text-muted">
+                  Names differ in each province. See the <a href="/provinces" class="link">province pages</a>.
+                </p>
+              </div>
+            )}
+            <dl class="mt-3 grid gap-2 text-sm sm:grid-cols-2">
+              <div>
+                <dt class="font-semibold text-primary">Appeals go to</dt>
+                <dd class="mt-0.5 text-secondary">
+                  {c.appealsTo.length === 0
+                    ? "Nowhere: this is the final court."
+                    : [
+                        ...c.appealsTo.map((t) => (
+                          <a href={`#${anchor(t)}`} class="link" data-court={t}>
+                            {byId[t]!.name}
+                          </a>
+                        )),
+                        ...(c.someAppealsTo ?? []).map((t) => (
+                          <>
+                            {" "}
+                            or, for some cases,{" "}
+                            <a href={`#${anchor(t)}`} class="link" data-court={t}>
+                              {byId[t]!.name}
+                            </a>
+                          </>
+                        )),
+                      ]}
+                </dd>
+              </div>
+              <div>
+                <dt class="font-semibold text-primary">Hears appeals from</dt>
+                <dd class="mt-0.5 text-secondary">
+                  {appealsFrom(c.id).length === 0
+                    ? "None: cases start here."
+                    : appealsFrom(c.id).map((f, i, all) => (
+                        <>
+                          <a href={`#${anchor(f)}`} class="link" data-court={f}>
+                            {byId[f]!.name}
+                          </a>
+                          {i < all.length - 1 ? (i === all.length - 2 ? " and " : ", ") : ""}
+                        </>
+                      ))}
+                </dd>
+              </div>
+            </dl>
+          </article>
+        ))
+      }
+    </div>
+    <p data-live class="sr-only" aria-live="polite"></p>
+  </section>
+</tn-court-map>
+
+<style>
+  @reference "../../styles/global.css";
+
+  /* Narrow screens: one group per system, stacked, with appeals running upward. */
+  .map {
+    @apply grid gap-4;
+  }
+  .map-group-label {
+    @apply mb-1.5 text-xs font-semibold tracking-wide text-muted uppercase;
+  }
+  .map-list {
+    @apply grid list-none gap-2 ps-0;
+  }
+  .court {
+    @apply flex h-full flex-col justify-center gap-1 rounded-lg border border-strong bg-surface px-3 py-2.5 text-sm no-underline transition-colors hover:border-accent;
+    text-decoration: none;
+    border-inline-start-width: 4px;
+  }
+  .map-cell[data-system="top"] .court {
+    @apply items-center border-accent bg-accent-soft text-center;
+  }
+  .map-cell[data-system="provincial"] .court {
+    border-inline-start-color: var(--tn-text-secondary);
+  }
+  .map-cell[data-system="federal"] .court {
+    border-inline-start-color: var(--tn-accent);
+  }
+  .map-cell[data-system="military"] .court {
+    border-inline-start-style: dashed;
+  }
+  .court-name {
+    @apply font-semibold text-primary;
+  }
+  .court-up {
+    @apply flex items-center gap-1 text-xs text-muted;
+  }
+  .map-cell[data-system="top"] .court-name {
+    @apply text-base;
+  }
+
+  /* Selection and relations (set by the script) */
+  .court[aria-current="true"] {
+    @apply border-accent bg-accent text-accent-contrast;
+  }
+  .court[aria-current="true"] :is(.court-name, .court-up) {
+    @apply text-accent-contrast;
+  }
+  .court[data-rel="up"] {
+    @apply border-accent ring-2 ring-accent/30;
+  }
+  .court[data-rel="down"] {
+    @apply border-accent border-dashed;
+  }
+
+  /* Wide screens: a four-column hierarchy with arrows between the tiers. */
+  @media (width >= 40rem) {
+    .map {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      @apply gap-x-3 gap-y-8;
+    }
+    .map-group,
+    .map-list {
+      display: contents;
+    }
+    .map-group-label {
+      @apply sr-only;
+    }
+    .map-cell {
+      grid-column: var(--col);
+      grid-row: var(--row);
+      @apply relative;
+    }
+    .court-up {
+      @apply hidden;
+    }
+    .map-cell[data-has-up]::before,
+    .map-cell[data-has-up]::after {
+      content: "";
+      @apply absolute left-1/2 -translate-x-1/2;
+    }
+    .map-cell[data-has-up]::before {
+      @apply -top-8 h-8 w-0.5 bg-strong;
+    }
+    .map-cell[data-has-up]::after {
+      @apply -top-8 size-0;
+      border-inline: 5px solid transparent;
+      border-bottom: 7px solid var(--tn-border-strong);
+    }
+  }
+
+  .link {
+    @apply font-medium text-accent underline decoration-accent/40 underline-offset-3 hover:text-accent-hover hover:decoration-accent;
+  }
+  .details {
+    @apply space-y-6;
+  }
+  .detail {
+    @apply scroll-mt-24 rounded-lg border border-subtle p-4;
+  }
+  .map-group > .details {
+    @apply mt-3;
+  }
+  tn-court-map[data-js] .details {
+    @apply space-y-0;
+  }
+  tn-court-map[data-js] .detail:not([data-current]) {
+    @apply hidden;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    tn-court-map[data-js] .detail[data-current] {
+      animation: detail-in 180ms ease-out;
+    }
+  }
+  @keyframes detail-in {
+    from {
+      opacity: 0;
+    }
+  }
+</style>
+
+<script>
+  class CourtMap extends HTMLElement {
+    private details!: HTMLElement;
+    private wide = window.matchMedia("(width >= 40rem)");
+    private current = "";
+
+    connectedCallback() {
+      this.details = this.querySelector<HTMLElement>("[data-details]")!;
+      this.details.removeAttribute("aria-live");
+      this.dataset.js = "";
+      this.addEventListener("click", (e) => {
+        const link = (e.target as HTMLElement).closest<HTMLAnchorElement>("a[data-court]");
+        if (!link) return;
+        e.preventDefault();
+        const fromPanel = !!link.closest("[data-detail]");
+        this.select(link.dataset.court!, true);
+        // Following a link inside the panel moves focus to that court's button.
+        if (fromPanel) this.button(link.dataset.court!)?.focus();
+      });
+      this.wide.addEventListener("change", () => this.place());
+      this.select("scc", false);
+    }
+
+    private button(id: string) {
+      return this.querySelector<HTMLAnchorElement>(`a.court[data-court="${id}"]`);
+    }
+
+    private select(id: string, announce: boolean) {
+      this.current = id;
+      const detail = this.querySelector<HTMLElement>(`[data-detail="${id}"]`);
+      for (const d of this.querySelectorAll<HTMLElement>("[data-detail]")) {
+        if (d === detail) d.dataset.current = "";
+        else delete d.dataset.current;
+      }
+      const up = new Set((detail?.dataset.up ?? "").split(" "));
+      const down = new Set((detail?.dataset.down ?? "").split(" "));
+      for (const court of this.querySelectorAll<HTMLElement>("a.court[data-court]")) {
+        const cid = court.dataset.court!;
+        if (cid === id) court.setAttribute("aria-current", "true");
+        else court.removeAttribute("aria-current");
+        if (up.has(cid)) court.dataset.rel = "up";
+        else if (down.has(cid)) court.dataset.rel = "down";
+        else delete court.dataset.rel;
+      }
+      this.place();
+      if (announce) {
+        const name = detail?.querySelector("h4")?.textContent ?? "";
+        this.querySelector("[data-live]")!.textContent = `Showing ${name}.`;
+      }
+    }
+
+    /** On narrow screens the panel sits right under the selected court's group; on wide ones, under the map. */
+    private place() {
+      const list = this.button(this.current)?.closest("ul");
+      if (!this.wide.matches && list) {
+        if (list.nextElementSibling !== this.details) list.after(this.details);
+      } else {
+        const map = this.querySelector(".map")!;
+        const note = map.nextElementSibling!;
+        if (note.nextElementSibling !== this.details) note.after(this.details);
+      }
+    }
+  }
+  customElements.define("tn-court-map", CourtMap);
+</script>
