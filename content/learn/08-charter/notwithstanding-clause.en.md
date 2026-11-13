@@ -74,36 +74,36 @@ did not agree to the deal.
 
 ### How it's been used
 
-**The federal Parliament has never used section 33.**
+> [!NOTE]
+> **The federal Parliament has never used section 33.**
 
 Provinces and territories that have used it include Quebec, Saskatchewan, Ontario,
-Alberta and Yukon. Some of these laws never actually came into force. Some examples:
+Alberta and Yukon. Some of these laws never actually came into force. Several provinces
+have used it in recent years. Some examples, oldest first:
 
-- **Quebec, 1982–1987:** as a protest against patriation, Quebec added a standard override
-  to all of its laws. It let the blanket override lapse after the first five years.
-- **Quebec, 1988:** after *Ford* struck down rules requiring French-only commercial signs,
-  Quebec re-enacted sign rules with an override.
-- **Saskatchewan, 1986:** in a law ordering striking public servants back to work.
+<tn-widget name="timeline" data-group="Jurisdiction" data-text="How it was used" data-label="Uses of section 33" data-filter-label="Filter by jurisdiction">
 
-Several provinces have used it in recent years:
+| Year | Jurisdiction | How it was used |
+|---|---|---|
+| 1982–1987 | Quebec | As a protest against patriation, it added a standard override to all of its laws, then let the blanket override lapse after the first five years |
+| 1986 | Saskatchewan | In a law ordering striking public servants back to work |
+| 1988 | Quebec | After *Ford* struck down rules requiring French-only commercial signs, it re-enacted sign rules with an override |
+| 2019 | Quebec | In its law on state secularism (often called Bill 21), which bans some public employees from wearing religious symbols at work |
+| 2021 | Ontario | In a law on third-party election advertising |
+| 2022 | Quebec | In its French-language law (often called Bill 96) |
+| 2022 | Ontario | In a law ending a strike by education workers, which it repealed shortly afterward |
+| 2023 | Saskatchewan | In a law requiring parental consent before schools use a new name or pronoun for students under 16 |
+| 2024 | Quebec | It renewed the Bill 21 override after five years |
+| 2025 | Alberta | In a law ending a teachers' strike, and later for laws on gender identity |
 
-- **Quebec** used it in its 2019 law on state secularism (often called Bill 21), which
-  bans some public employees from wearing religious symbols at work, and renewed that
-  override after five years. It also used it in its 2022 French-language law (often
-  called Bill 96). <!-- check: Bill 21 override renewed in 2024 -->
-- **Ontario** used it in 2021 for a law on third-party election advertising, and in 2022
-  for a law ending a strike by education workers, which it repealed shortly afterward.
-- **Saskatchewan** used it in 2023 for a law requiring parental consent before schools
-  use a new name or pronoun for students under 16.
-  <!-- check: Saskatchewan Parents' Bill of Rights (2023) details -->
-- **Alberta** used it in 2025 in a law ending a teachers' strike, and later for laws on
-  gender identity.
-  <!-- check: Alberta 2025 uses — Back to School Act (royal assent Oct. 2025) and Bill 9 (Protecting Alberta's Children Statutes Amendment Act); confirm details and dates against official sources -->
+<!-- check: Bill 21 override renewed in 2024 -->
+<!-- check: Saskatchewan Parents' Bill of Rights (2023) details -->
+<!-- check: Alberta 2025 uses — Back to School Act (royal assent Oct. 2025) and Bill 9 (Protecting Alberta's Children Statutes Amendment Act); confirm details and dates against official sources -->
+
+</tn-widget>
 
 Some recent uses have been **pre-emptive**: the override was included before any court
 had ruled on whether the law breached the Charter.
-
-<!-- visual: timeline of s. 33 uses by jurisdiction, with expiry and renewal dates -->
 
 ### People disagree about this
 

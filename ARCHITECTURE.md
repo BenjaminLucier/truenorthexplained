@@ -56,6 +56,20 @@ other attributes as string props (`data-set="federalism"` becomes `set="federali
 and `data-foo-bar` becomes `fooBar`). An unknown name fails the build. See
 `src/lib/widgets.ts`.
 
+A placeholder can also wrap markdown. The rendered HTML inside it reaches the widget as
+a `content` prop, so the page's own markdown stays the source of the widget's data (the
+`timeline` widget works this way). Leave a blank line after the opening tag and before
+the closing one so the markdown inside is parsed:
+
+```html
+<tn-widget name="timeline" data-group-by="module">
+
+## An era
+- **1867** — Confederation. [Read more](/learn/constitution)
+
+</tn-widget>
+```
+
 A widget is a normal Astro component:
 
 - It renders useful static HTML at build time, imports its data directly (for example

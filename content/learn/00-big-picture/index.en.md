@@ -23,15 +23,15 @@ Constitution, interpreted by independent courts, sets the rules for all of them.
 
 **Constitutional monarchy.** Canada has a King. Charles III has been King of Canada
 since 2022. The Constitution says the government's executive authority belongs to the
-monarch. But by long-standing *convention* (an unwritten rule everyone follows), the
+monarch. But by long-standing [*convention*](/glossary#convention) (an unwritten rule everyone follows), the
 King and his representative, the Governor General, act only on the advice of elected
 ministers. The Crown is where legal authority comes from. Elected politicians are the
 ones who make the decisions.
 
 **Parliamentary democracy.** Canada uses the British-style "Westminster" system. You
 don't vote for a leader. You vote for one **member of Parliament (MP)** to represent
-your **riding** (electoral district). After an election, the party that can command the
-**confidence** of the House of Commons forms the government, and its leader becomes
+your **[riding](/glossary#riding)** (electoral district). After an election, the party that can command the
+**[confidence](/glossary#confidence)** of the House of Commons forms the government, and its leader becomes
 Prime Minister. The Prime Minister and cabinet ministers are almost always MPs
 themselves. They sit in the House and must answer to it every day. If the government
 loses a confidence vote, it falls.
@@ -42,9 +42,10 @@ own list of powers:
 - **Federal:** things like national defence, criminal law, currency and citizenship.
 - **Provincial:** things like hospitals, schools, and property and civil rights.
 
-Within its own areas, neither one is the other's boss. The three **territories** work
-differently: their powers are handed to them by the federal Parliament. **Cities and
-towns** are created by their province.
+> [!IMPORTANT]
+> Within its own areas, neither one is the other's boss. The three **territories** work
+> differently: their powers are handed to them by the federal Parliament. **Cities and
+> towns** are created by their province.
 
 ### Who's who
 

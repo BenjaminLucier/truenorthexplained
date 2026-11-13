@@ -1,7 +1,7 @@
 import { defineConfig } from "astro/config";
 import tailwindcss from "@tailwindcss/vite";
 import { satteri } from "@astrojs/markdown-satteri";
-import { externalLinks, mermaidDiagrams, scrollableTables, stripComments } from "./src/plugins/markdown";
+import { callouts, externalLinks, mermaidDiagrams, scrollableTables, stripComments } from "./src/plugins/markdown";
 
 export default defineConfig({
   site: "https://truenorthexplained.ca",
@@ -15,7 +15,7 @@ export default defineConfig({
         // Parse inline HTML into real nodes, so comments can be stripped.
         rawHtml: true,
       },
-      hastPlugins: [stripComments, mermaidDiagrams, scrollableTables, externalLinks],
+      hastPlugins: [stripComments, callouts, mermaidDiagrams, scrollableTables, externalLinks],
     }),
   },
   vite: {

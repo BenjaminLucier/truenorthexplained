@@ -35,9 +35,9 @@ pnpm dev                                 # http://localhost:4321
 
 | Script | What it does |
 |---|---|
-| `pnpm dev` | Local dev server with hot reload |
-| `pnpm build` | Static build into `dist/` (validates all front matter and quiz data) |
-| `pnpm preview` | Serve the built site |
+| `pnpm dev` | Local dev server with hot reload (search needs a build: run `pnpm build && pnpm preview` to try it) |
+| `pnpm build` | Static build into `dist/` (validates all front matter and quiz data), then builds the Pagefind search index in `dist/pagefind/` |
+| `pnpm preview` | Serve the built site, with working search |
 | `pnpm check` | Type-check `.ts` and `.astro` files |
 | `pnpm validate` | Check internal links and quiz page references |
 | `pnpm review` | Regenerate [REVIEW.md](REVIEW.md), the list of facts and links awaiting review |

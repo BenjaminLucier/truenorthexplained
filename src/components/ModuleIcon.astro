@@ -1,22 +1,30 @@
 ---
-/** A module's icon on a soft red tile. The name comes from the module's `icon` front matter. */
+/**
+ * A module's icon on a tile in that module's colour. The name comes from the
+ * module's `icon` front matter; `module` is the module key (e.g. "crown"). Without
+ * it the tile inherits data-module from an ancestor, or falls back to the accent.
+ */
 import Icon from "./Icon.astro";
 import type * as icons from "lucide-static";
 
 interface Props {
   name?: string;
+  module?: string;
   size?: "sm" | "md" | "lg";
   class?: string;
 }
 
-const { name, size = "md", class: className = "" } = Astro.props;
+const { name, module, size = "md", class: className = "" } = Astro.props;
 const box = { sm: "size-8 rounded-lg", md: "size-11 rounded-xl", lg: "size-14 rounded-2xl" }[size];
 const glyph = { sm: "size-4", md: "size-5.5", lg: "size-7" }[size];
 ---
 
 {
   name && (
-    <span class:list={["inline-flex shrink-0 items-center justify-center bg-accent-soft text-accent", box, className]}>
+    <span
+      data-module={module}
+      class:list={["inline-flex shrink-0 items-center justify-center bg-module-soft text-module", box, className]}
+    >
       <Icon name={name as keyof typeof icons} class={glyph} />
     </span>
   )

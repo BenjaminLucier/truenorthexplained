@@ -74,10 +74,10 @@ which never took place.
 
 **Haida Nation (2004): the duty to consult.** The Haida objected to BC transferring a
 forestry licence on Haida Gwaii while their title claim was unresolved. The Court held
-that the Crown has a **duty to consult**, and where appropriate **accommodate**, whenever
+that the Crown has a **[duty to consult](/glossary#duty-to-consult)**, and where appropriate **accommodate**, whenever
 it knows of a possible Aboriginal right or title and is considering action that could
 harm it. That holds even before the right is proven in court. The duty comes from the
-**honour of the Crown** and grows with the strength of the claim and the seriousness of
+**[honour of the Crown](/glossary#honour-of-the-crown)** and grows with the strength of the claim and the seriousness of
 the impact. It isn't a veto. The duty belongs to the Crown, not private companies,
 though some steps can be delegated to them.
 

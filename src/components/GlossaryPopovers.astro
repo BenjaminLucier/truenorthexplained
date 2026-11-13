@@ -1,0 +1,194 @@
+---
+/**
+ * Definition popovers for glossary links in a content page.
+ *
+ * At build time, finds the `/glossary#slug` links in the page and renders a
+ * native popover for each linked term only, with the definition taken from the
+ * glossary page (src/lib/glossary.ts). On the client, hovering or focusing a
+ * link shows its popover; clicking still navigates. On touch, the first tap
+ * shows the popover (which has an "Open in glossary" link) and a second tap
+ * follows the link. Escape and clicking elsewhere close it (popover="auto").
+ */
+import { glossaryTerms, linkedGlossarySlugs } from "../lib/glossary";
+import type { Page } from "../lib/site";
+
+interface Props {
+  page: Page;
+}
+
+const { page } = Astro.props;
+const all = page.id === "glossary" ? new Map() : await glossaryTerms();
+const terms = linkedGlossarySlugs(page).flatMap((slug) => {
+  const term = all.get(slug);
+  if (!term && page.id !== "glossary") console.warn(`[glossary] ${page.id} links to unknown term "#${slug}"`);
+  return term ? [term] : [];
+});
+---
+
+{
+  terms.length > 0 && (
+    <glossary-popovers class="contents">
+      {terms.map((term) => (
+        <div popover="auto" id={`gloss-${term.slug}`} data-slug={term.slug} class="gloss-pop not-prose">
+          <p class="text-xs font-semibold tracking-wide text-muted uppercase">Glossary</p>
+          <p class="mt-0.5 font-semibold text-primary">{term.term}</p>
+          <p class="mt-1 text-sm text-secondary" set:html={term.html} />
+          <a
+            href={`/glossary#${term.slug}`}
+            class="mt-2 inline-flex items-center gap-1 text-sm font-medium text-accent underline decoration-accent/40 underline-offset-3 hover:text-accent-hover"
+          >
+            Open in glossary <span aria-hidden="true">→</span>
+          </a>
+        </div>
+      ))}
+    </glossary-popovers>
+  )
+}
+
+<style>
+  .gloss-pop {
+    position: fixed;
+    inset: auto;
+    margin: 0;
+    width: max-content;
+    max-width: min(20rem, calc(100vw - 1.5rem));
+    padding: 0.75rem 0.875rem;
+    border: 1px solid var(--tn-border-strong);
+    border-radius: 0.75rem;
+    background: var(--tn-surface);
+    color: var(--tn-text-secondary);
+    box-shadow:
+      0 1px 2px rgb(0 0 0 / 0.06),
+      0 8px 24px rgb(0 0 0 / 0.12);
+    line-height: 1.45;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .gloss-pop {
+      transition:
+        opacity 120ms ease-out,
+        translate 120ms ease-out,
+        display 120ms allow-discrete,
+        overlay 120ms allow-discrete;
+      opacity: 0;
+      translate: 0 -2px;
+    }
+    .gloss-pop:popover-open {
+      opacity: 1;
+      translate: 0 0;
+    }
+    @starting-style {
+      .gloss-pop:popover-open {
+        opacity: 0;
+        translate: 0 -2px;
+      }
+    }
+  }
+</style>
+
+<script>
+  const GAP = 8;
+  const EDGE = 12;
+
+  class GlossaryPopovers extends HTMLElement {
+    private showTimer = 0;
+    private hideTimer = 0;
+    private active: { link: HTMLAnchorElement; pop: HTMLElement } | undefined;
+    private lastPointer = "mouse";
+
+    connectedCallback() {
+      const pops = new Map<string, HTMLElement>();
+      for (const pop of this.querySelectorAll<HTMLElement>("[popover][data-slug]")) pops.set(pop.dataset.slug!, pop);
+      const scope = this.closest("main") ?? document;
+      for (const link of scope.querySelectorAll<HTMLAnchorElement>('article a[href*="/glossary#"]')) {
+        const slug = decodeURIComponent(link.hash.slice(1));
+        const pop = pops.get(slug);
+        if (!pop || link.closest("[popover]")) continue;
+        this.wire(link, pop);
+      }
+      for (const pop of pops.values()) {
+        pop.addEventListener("pointerenter", () => clearTimeout(this.hideTimer));
+        pop.addEventListener("pointerleave", (e) => {
+          if (e.pointerType !== "touch") this.scheduleHide();
+        });
+        pop.addEventListener("toggle", (e) => {
+          if ((e as ToggleEvent).newState === "closed" && this.active?.pop === pop) this.active = undefined;
+        });
+      }
+      const reposition = () => this.active && this.place(this.active.link, this.active.pop);
+      addEventListener("scroll", reposition, { passive: true });
+      addEventListener("resize", reposition, { passive: true });
+    }
+
+    private wire(link: HTMLAnchorElement, pop: HTMLElement) {
+      const described = new Set((link.getAttribute("aria-describedby") ?? "").split(" ").filter(Boolean));
+      described.add(pop.id);
+      link.setAttribute("aria-describedby", [...described].join(" "));
+
+      link.addEventListener("pointerdown", (e) => (this.lastPointer = e.pointerType));
+      link.addEventListener("pointerenter", (e) => {
+        if (e.pointerType === "touch") return;
+        clearTimeout(this.hideTimer);
+        clearTimeout(this.showTimer);
+        this.showTimer = window.setTimeout(() => this.show(link, pop), 180);
+      });
+      link.addEventListener("pointerleave", (e) => {
+        if (e.pointerType === "touch") return;
+        clearTimeout(this.showTimer);
+        this.scheduleHide();
+      });
+      link.addEventListener("focus", () => {
+        if (link.matches(":focus-visible")) this.show(link, pop);
+      });
+      link.addEventListener("blur", () => {
+        if (this.active?.link === link) this.scheduleHide();
+      });
+      // On touch, the first tap shows the definition; a second tap follows the link.
+      link.addEventListener("click", (e) => {
+        if (this.lastPointer !== "touch") return;
+        if (this.active?.link === link && pop.matches(":popover-open")) return;
+        e.preventDefault();
+        this.show(link, pop);
+      });
+    }
+
+    private show(link: HTMLAnchorElement, pop: HTMLElement) {
+      clearTimeout(this.hideTimer);
+      if (this.active && this.active.pop !== pop) this.hide();
+      this.active = { link, pop };
+      if (!pop.matches(":popover-open")) {
+        // Measure off-screen first so the first frame is already in place.
+        pop.style.top = "-9999px";
+        pop.style.left = "0px";
+        pop.showPopover();
+      }
+      this.place(link, pop);
+    }
+
+    private scheduleHide() {
+      clearTimeout(this.hideTimer);
+      this.hideTimer = window.setTimeout(() => this.hide(), 220);
+    }
+
+    private hide() {
+      const pop = this.active?.pop;
+      if (pop?.matches(":popover-open") && !pop.matches(":hover, :focus-within")) pop.hidePopover();
+    }
+
+    /** Below the link if there's room, otherwise above it; kept inside the viewport. */
+    private place(link: HTMLAnchorElement, pop: HTMLElement) {
+      const rects = [...link.getClientRects()];
+      const first = rects[0] ?? link.getBoundingClientRect();
+      const last = rects.at(-1) ?? first;
+      const { width, height } = pop.getBoundingClientRect();
+      const vw = document.documentElement.clientWidth;
+      const vh = window.innerHeight;
+      let top = last.bottom + GAP;
+      if (top + height > vh - EDGE && first.top - GAP - height > EDGE) top = first.top - GAP - height;
+      const left = Math.min(Math.max(last.left, EDGE), Math.max(EDGE, vw - width - EDGE));
+      pop.style.top = `${Math.round(top)}px`;
+      pop.style.left = `${Math.round(left)}px`;
+    }
+  }
+
+  customElements.define("glossary-popovers", GlossaryPopovers);
+</script>

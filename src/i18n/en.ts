@@ -16,6 +16,9 @@ export const en = {
     closeMenu: "Close menu",
     primary: "Main",
   },
+  search: {
+    label: "Search",
+  },
   theme: {
     system: "System",
     light: "Light",

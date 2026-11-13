@@ -81,6 +81,22 @@ export function tldrHtml(page: Page): string {
   return match?.[1]?.trim() ?? "";
 }
 
+/**
+ * The module key for a learn page id ("learn/crown/reserve-powers" → "crown"),
+ * used as data-module="…" to pick up that module's colour tokens.
+ */
+export function moduleKey(id: string): string | undefined {
+  return id.match(/^learn\/([^/]+)/)?.[1];
+}
+
+/** Every quiz question tagged with a module's main page or any of its deep dives. */
+export async function moduleQuestionIds(moduleId: string): Promise<string[]> {
+  const all = await getCollection("quizzes");
+  return all
+    .filter((q) => q.data.pages.some((p) => p === moduleId || p.startsWith(`${moduleId}/`)))
+    .map((q) => q.id);
+}
+
 /** Questions for a page: hand-picked via front matter, else everything tagged with it. */
 export async function questionsFor(page: Page): Promise<Question[]> {
   const all = await getCollection("quizzes");

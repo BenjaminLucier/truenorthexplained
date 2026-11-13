@@ -34,7 +34,7 @@ Canada's version of the US Federal Reserve, it's the Bank of Canada, not the Min
 The Bank describes five areas of work:
 
 1. **Monetary policy.** Keeping inflation low, stable and predictable, mainly by setting
-   the **policy interest rate**. Commercial banks' lending and savings rates tend to
+   the **[policy interest rate](/glossary#policy-interest-rate)**. Commercial banks' lending and savings rates tend to
    follow it, which affects borrowing, spending and, eventually, prices. The Bank
    announces rate decisions on scheduled dates through the year.
 2. **Financial system.** Promoting a stable and efficient financial system, including
@@ -84,11 +84,12 @@ Mint and later became Canadian-run. <!-- check: 1931 transfer to Canada; 1969 Cr
 - makes coins for other countries.
 
 The *Royal Canadian Mint Act* expects the Mint to make coins on a commercial, for-profit basis. Coins are
-**legal tender** under the federal *Currency Act*; the Mint makes them, but the
+**[legal tender](/glossary#legal-tender)** under the federal *Currency Act*; the Mint makes them, but the
 decisions about what coins Canada uses are made by the government.
 
-Canada stopped distributing the **penny** in 2013. Cash transactions are rounded to the
-nearest five cents; electronic payments can still be to the cent.
+> [!NOTE]
+> Canada stopped distributing the **penny** in 2013. Cash transactions are rounded to the
+> nearest five cents; electronic payments can still be to the cent.
 
 ### Who decides how much money there is?
 
