@@ -53,6 +53,13 @@ export const VISUALS: Visual[] = [
     icon: "Percent",
     kind: "map",
   },
+  {
+    title: "Treaty areas",
+    text: "Historic and modern treaties, who made them, and the order they were signed.",
+    href: "/learn/indigenous/treaties#treaty-map",
+    icon: "Handshake",
+    kind: "map",
+  },
 
   // Parliament and elections
   {
@@ -243,6 +250,41 @@ export const VISUALS: Visual[] = [
     text: "How Canada's population has grown and changed.",
     href: "/demographics",
     icon: "ChartLine",
+    kind: "reference",
+  },
+  {
+    title: "Urban and rural Canada",
+    text: "From one Canadian in five living in a town or city to more than four in five.",
+    href: "/demographics#demographics-3",
+    icon: "Building2",
+    kind: "reference",
+  },
+  {
+    title: "Where immigrants were born",
+    text: "Europe, Asia, the Americas and Africa, by when people arrived.",
+    href: "/demographics#demographics-6",
+    icon: "Globe",
+    kind: "reference",
+  },
+  {
+    title: "English, French and other languages",
+    text: "Mother tongues since 1951 in Canada, Quebec, New Brunswick and Ontario.",
+    href: "/demographics#demographics-7",
+    icon: "Languages",
+    kind: "reference",
+  },
+  {
+    title: "First Nations, Métis and Inuit",
+    text: "The Indigenous population at the last three censuses, and where people live.",
+    href: "/demographics#demographics-8",
+    icon: "Users",
+    kind: "reference",
+  },
+  {
+    title: "Population pyramid",
+    text: "Canada by age and gender, now and 50 years ago.",
+    href: "/demographics#demographics-9",
+    icon: "ChartBarDecreasing",
     kind: "reference",
   },
 ];

@@ -1,0 +1,201 @@
+---
+/**
+ * Hover and keyboard details for a build-time chart.
+ *
+ *   <ChartTips label="Census years">
+ *     <svg>…<rect data-tip-title="1951" data-tip="English: 59.1%|French: 29.0%" data-tip-keys="var(--a)|var(--b)" />…</svg>
+ *   </ChartTips>
+ *
+ * Every element with `data-tip` is a hit target, named for screen readers
+ * from its title and lines when the script runs. Pointing at one (mouse or
+ * touch) shows a small card with its title and lines ("|" separates lines).
+ * Keyboard: Tab reaches the chart once, then the arrow keys (and Home/End)
+ * move between targets in document order; Escape hides the card. The active
+ * target gets `is-active`, so charts can style a guide line or outline for it.
+ * Without JavaScript nothing is focusable and the chart's table carries the
+ * figures. `data-tip-keys` (optional, "|"-separated CSS colours, on the
+ * target or any ancestor) puts a colour key beside each line.
+ */
+interface Props {
+  /** What the arrow keys step through, for the group's accessible name. */
+  label: string;
+  class?: string;
+}
+const { label, class: className } = Astro.props;
+---
+
+<tn-chart-tips class:list={["ct relative block", className]} role="group" aria-label={`${label}. Use the arrow keys to step through the values.`}>
+  <slot />
+  <div class="ct-tip" aria-hidden="true" data-state="hidden">
+    <p class="ct-title"></p>
+    <ul class="ct-lines"></ul>
+  </div>
+</tn-chart-tips>
+
+<style>
+  .ct-tip {
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    min-width: 9rem;
+    max-width: 16rem;
+    padding: 0.5rem 0.75rem;
+    border: 1px solid var(--tn-border);
+    border-radius: 0.5rem;
+    background: var(--tn-surface);
+    box-shadow: 0 4px 24px rgb(0 0 0 / 0.14);
+    font-size: 0.8125rem;
+    line-height: 1.35;
+    pointer-events: none;
+    opacity: 0;
+    visibility: hidden;
+  }
+  .ct-tip[data-state="shown"] {
+    opacity: 1;
+    visibility: visible;
+  }
+  .ct-title {
+    font-weight: 600;
+    color: var(--tn-text-primary);
+  }
+  .ct-lines {
+    margin-top: 0.125rem;
+    color: var(--tn-text-secondary);
+    font-variant-numeric: tabular-nums;
+  }
+  .ct-lines :global(li) {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+  .ct-lines :global(.ct-key) {
+    flex: none;
+    width: 0.625rem;
+    height: 0.625rem;
+    border-radius: 0.15rem;
+    background: var(--ct-key);
+  }
+  .ct :global([data-tip]) {
+    outline: none;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .ct-tip {
+      transition:
+        opacity 100ms ease-out,
+        visibility 100ms;
+    }
+  }
+</style>
+
+<script>
+  class ChartTips extends HTMLElement {
+    #active: Element | null = null;
+
+    connectedCallback() {
+      const tip = this.querySelector<HTMLElement>(":scope > .ct-tip")!;
+      const title = tip.querySelector(".ct-title")!;
+      const lines = tip.querySelector(".ct-lines")!;
+      const targets = () => [...this.querySelectorAll<SVGElement | HTMLElement>("[data-tip]")].filter((t) => t.getClientRects().length > 0);
+
+      const place = (el: Element, point?: { x: number; y: number }) => {
+        const box = this.getBoundingClientRect();
+        const r = el.getBoundingClientRect();
+        const w = tip.offsetWidth;
+        const h = tip.offsetHeight;
+        let x = point ? point.x - box.left + 14 : r.left - box.left + r.width / 2 - w / 2;
+        let y = point ? point.y - box.top - h - 12 : r.top - box.top - h - 8;
+        if (y < 0) y = point ? point.y - box.top + 18 : r.bottom - box.top + 8;
+        if (x + w > box.width) x = point ? point.x - box.left - w - 14 : box.width - w;
+        x = Math.max(0, Math.min(x, box.width - w));
+        tip.style.transform = `translate(${Math.round(x)}px, ${Math.round(y)}px)`;
+      };
+
+      const show = (el: Element, point?: { x: number; y: number }) => {
+        if (this.#active !== el) {
+          this.#active?.classList.remove("is-active");
+          el.classList.add("is-active");
+          this.#active = el;
+          const d = (el as HTMLElement).dataset;
+          title.textContent = d.tipTitle ?? "";
+          const keys = (d.tipKeys ?? el.closest<HTMLElement | SVGElement>("[data-tip-keys]")?.dataset.tipKeys ?? "").split("|");
+          lines.replaceChildren(
+            ...(d.tip ?? "")
+              .split("|")
+              .filter(Boolean)
+              .map((text, i) => {
+                const li = document.createElement("li");
+                if (keys[i]) {
+                  const key = document.createElement("span");
+                  key.className = "ct-key";
+                  key.style.setProperty("--ct-key", keys[i]!);
+                  li.append(key);
+                }
+                li.append(text);
+                return li;
+              }),
+          );
+        }
+        tip.dataset.state = "shown";
+        place(el, point);
+      };
+      const hide = () => {
+        tip.dataset.state = "hidden";
+        this.#active?.classList.remove("is-active");
+        this.#active = null;
+      };
+
+      this.addEventListener("pointermove", (e) => {
+        const el = (e.target as Element).closest?.("[data-tip]");
+        if (el && this.contains(el)) show(el, e.pointerType === "mouse" ? { x: e.clientX, y: e.clientY } : undefined);
+        else if (e.pointerType === "mouse") hide();
+      });
+      this.addEventListener("pointerdown", (e) => {
+        const el = (e.target as Element).closest?.("[data-tip]");
+        if (el && this.contains(el) && e.pointerType !== "mouse") show(el);
+      });
+      this.addEventListener("pointerleave", (e) => {
+        if (e.pointerType === "mouse") hide();
+      });
+
+      // Roving focus: one tab stop, arrows move within the chart. Each target
+      // is named from its tip text, so the markup doesn't carry it twice.
+      const all = [...this.querySelectorAll<SVGElement | HTMLElement>("[data-tip]")];
+      all.forEach((t, i) => {
+        t.setAttribute("tabindex", i === 0 ? "0" : "-1");
+        t.setAttribute("role", "img");
+        t.setAttribute("aria-label", `${t.dataset.tipTitle ?? ""}: ${(t.dataset.tip ?? "").split("|").join(", ")}`);
+      });
+      this.addEventListener("focusin", (e) => {
+        const el = (e.target as Element).closest?.("[data-tip]");
+        if (!el) return;
+        for (const t of targets()) t.setAttribute("tabindex", t === el ? "0" : "-1");
+        show(el);
+      });
+      this.addEventListener("focusout", (e) => {
+        if (!this.contains(e.relatedTarget as Node)) hide();
+      });
+      this.addEventListener("keydown", (e) => {
+        const list = targets();
+        const i = list.indexOf(document.activeElement as SVGElement);
+        if (e.key === "Escape") return hide();
+        if (i < 0) return;
+        const next =
+          e.key === "ArrowRight" || e.key === "ArrowDown"
+            ? Math.min(i + 1, list.length - 1)
+            : e.key === "ArrowLeft" || e.key === "ArrowUp"
+              ? Math.max(i - 1, 0)
+              : e.key === "Home"
+                ? 0
+                : e.key === "End"
+                  ? list.length - 1
+                  : null;
+        if (next === null) return;
+        e.preventDefault();
+        list[next]!.focus();
+      });
+    }
+  }
+
+  if (!customElements.get("tn-chart-tips")) customElements.define("tn-chart-tips", ChartTips);
+</script>

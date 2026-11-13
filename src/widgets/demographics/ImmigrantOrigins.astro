@@ -1,0 +1,170 @@
+---
+/**
+ * Immigrants living in Canada in 2021, by when they arrived and where they
+ * were born: one 100% bar per arrival period. Data:
+ * src/data/demographics/immigrant-origins.json (2021 Census).
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import data from "../../data/demographics/immigrant-origins.json";
+import ChartTips from "./ChartTips.astro";
+
+type Key = "europe" | "asia" | "americas" | "africa" | "other";
+const COLORS: Record<Key, string> = {
+  europe: "var(--tn-data-cat-1)",
+  asia: "var(--tn-data-cat-2)",
+  americas: "var(--tn-data-cat-3)",
+  africa: "var(--tn-data-cat-4)",
+  other: "var(--tn-data-cat-5)",
+};
+const regions = data.regions as { key: Key; name: string }[];
+const periods = data.periods.map((p) => ({
+  ...p,
+  shares: Object.fromEntries(regions.map((r) => [r.key, (100 * (p[r.key] as number)) / p.total])) as Record<Key, number>,
+}));
+const num = new Intl.NumberFormat("en-CA");
+const pct = (v: number) => `${Math.round(v)}%`;
+const oldest = periods[0]!;
+const newest = periods.at(-1)!;
+// The first period in which Asia overtook Europe.
+const flip = periods.find((p) => p.shares.asia > p.shares.europe);
+const millions = (n: number) => `${(n / 1e6).toFixed(1)} million`;
+---
+
+<ChartCard
+  title="Where immigrants were born, by when they arrived"
+  lede={`Of immigrants who arrived before 1980 and still lived here in 2021, ${pct(oldest.shares.europe)} were born in Europe. ${flip ? `Asia took the lead among those who arrived ${flip.label.replace(" to ", "–")}. ` : ""}Of those who arrived ${newest.label.replace(" to ", "–")}, ${pct(newest.shares.asia)} were born in Asia, ${pct(newest.shares.africa)} in Africa and only ${pct(newest.shares.europe)} in Europe.`}
+  sources={[{ label: "Statistics Canada, table 98-10-0302-01: immigrant status and period of immigration by place of birth (2021 Census)", url: data._meta.url }]}
+  tableLabel="Show the data"
+>
+  <ul class="flex flex-wrap gap-x-5 gap-y-1.5 text-sm text-secondary">
+    {
+      regions.map((r) => (
+        <li class="inline-flex items-center gap-2">
+          <span class="io-swatch" style={`--swatch:${COLORS[r.key]}`} aria-hidden="true" />
+          {r.name}
+        </li>
+      ))
+    }
+  </ul>
+
+  <ChartTips label="Immigrants by period of arrival and region of birth" class="mt-4">
+    <div class="space-y-3">
+      {
+        periods.map((p) => (
+          <div>
+            <p class="flex items-baseline justify-between gap-3 text-sm">
+              <span class="font-medium text-primary">Arrived {p.label === "Before 1980" ? "before 1980" : p.label.replace(" to ", "–")}</span>
+              <span class="text-xs text-muted tabular-nums">{num.format(p.total)} people</span>
+            </p>
+            <div class="io-bar mt-1">
+              {regions.map((r) => {
+                const share = p.shares[r.key];
+                const tip = `${num.format(p[r.key] as number)} people|${share.toFixed(1)}% of this period's immigrants`;
+                return (
+                  <span
+                    class="io-seg"
+                    style={`--w:${share.toFixed(2)}%;--c:${COLORS[r.key]}`}
+                    data-tip-title={`${r.name}, arrived ${p.label.toLowerCase()}`}
+                    data-tip={tip}
+                  >
+                    {share >= 9 && <span class="io-label">{pct(share)}</span>}
+                  </span>
+                );
+              })}
+            </div>
+          </div>
+        ))
+      }
+    </div>
+  </ChartTips>
+  <p class="mt-4 text-xs text-muted">
+    These are the {millions(data.total)} immigrants counted by the {2021} Census. People who came long ago and have
+    since died or moved away aren't counted, which is why the earliest bar covers far fewer people than actually arrived
+    before 1980.
+  </p>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Arrived</th>
+          {regions.map((r) => <th scope="col">{r.name}</th>)}
+          <th scope="col">Total</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          periods.map((p) => (
+            <tr>
+              <th scope="row" class="font-normal">{p.label}</th>
+              {regions.map((r) => (
+                <td>
+                  {num.format(p[r.key] as number)} <span class="text-muted">({p.shares[r.key].toFixed(1)}%)</span>
+                </td>
+              ))}
+              <td>{num.format(p.total)}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <caption>
+        Immigrants living in Canada in 2021, by period of immigration and place of birth. Counts are from the long-form
+        census (a 25% sample) and are rounded by Statistics Canada. "Oceania and other" includes Oceania and places of birth
+        not elsewhere classified.
+      </caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+<!--
+  Global, not scoped: scoping would stamp an attribute on every mark. The class
+  names are specific to this chart.
+-->
+<style is:global>
+  .io-swatch {
+    width: 0.875rem;
+    height: 0.875rem;
+    border-radius: 0.2rem;
+    background: var(--swatch);
+  }
+  .io-bar {
+    display: flex;
+    gap: 2px;
+    height: 1.75rem;
+  }
+  .io-seg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+    width: calc(var(--w) - 2px);
+    min-width: 2px;
+    background: var(--c);
+    border-radius: 3px;
+    cursor: default;
+    overflow: hidden;
+  }
+  .io-seg:first-child {
+    border-radius: 4px 3px 3px 4px;
+  }
+  .io-seg.is-active {
+    box-shadow:
+      0 0 0 2px var(--tn-surface),
+      0 0 0 3.5px var(--tn-text-primary);
+  }
+  .io-seg:focus-visible {
+    box-shadow:
+      0 0 0 2px var(--tn-surface),
+      0 0 0 4px var(--tn-focus);
+  }
+  /* Labels sit on the colour, so they use the surface-contrasting primary text with a halo. */
+  .io-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    color: var(--tn-text-primary);
+    text-shadow:
+      0 0 3px var(--tn-surface),
+      0 0 2px var(--tn-surface);
+  }
+</style>

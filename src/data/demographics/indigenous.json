@@ -1,0 +1,604 @@
+{
+  "_meta": {
+    "source": "Statistics Canada, table 98-10-0292-01: Indigenous identity population by gender and age (2011, 2016 and 2021)",
+    "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810029201",
+    "urls": [
+      "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810029201"
+    ],
+    "licence": "Open Government Licence – Canada",
+    "licenceUrl": "https://www.statcan.gc.ca/en/reference/licence",
+    "fetched": "2026-11-13",
+    "notes": [
+      "Indigenous identity: people who identified as First Nations, Métis or Inuk (Inuit), as reported in the census long-form questionnaire (25% sample).",
+      "2011 figures come from the National Household Survey, which was voluntary, so they're less comparable than 2016 and 2021.",
+      "Growth between censuses comes partly from births and partly from more people identifying as Indigenous over time, and from changes in which reserves took part in the census.",
+      "'multiple' is people who reported more than one Indigenous identity; 'otherIndigenous' is Indigenous responses not included elsewhere."
+    ],
+    "script": "scripts/data/demographics.ts"
+  },
+  "places": [
+    {
+      "slug": "canada",
+      "name": "Canada",
+      "censuses": [
+        {
+          "year": 2021,
+          "total": 36328480,
+          "indigenous": 1807250,
+          "firstNations": 1048400,
+          "metis": 624220,
+          "inuit": 70540,
+          "multiple": 28860,
+          "otherIndigenous": 35225,
+          "sharePct": 5
+        },
+        {
+          "year": 2016,
+          "total": 34460065,
+          "indigenous": 1673780,
+          "firstNations": 977230,
+          "metis": 587545,
+          "inuit": 65025,
+          "multiple": 21310,
+          "otherIndigenous": 22670,
+          "sharePct": 4.9
+        },
+        {
+          "year": 2011,
+          "total": 32852320,
+          "indigenous": 1400685,
+          "firstNations": 851560,
+          "metis": 451795,
+          "inuit": 59440,
+          "multiple": 11420,
+          "otherIndigenous": 26475,
+          "sharePct": 4.3
+        }
+      ]
+    },
+    {
+      "slug": "newfoundland-and-labrador",
+      "name": "Newfoundland and Labrador",
+      "censuses": [
+        {
+          "year": 2021,
+          "total": 502095,
+          "indigenous": 46545,
+          "firstNations": 28435,
+          "metis": 7330,
+          "inuit": 7330,
+          "multiple": 685,
+          "otherIndigenous": 2765,
+          "sharePct": 9.3
+        },
+        {
+          "year": 2016,
+          "total": 512250,
+          "indigenous": 45725,
+          "firstNations": 28375,
+          "metis": 7785,
+          "inuit": 6450,
+          "multiple": 555,
+          "otherIndigenous": 2555,
+          "sharePct": 8.9
+        },
+        {
+          "year": 2011,
+          "total": 507265,
+          "indigenous": 35800,
+          "firstNations": 19315,
+          "metis": 7660,
+          "inuit": 6265,
+          "multiple": 260,
+          "otherIndigenous": 2300,
+          "sharePct": 7.1
+        }
+      ]
+    },
+    {
+      "slug": "prince-edward-island",
+      "name": "Prince Edward Island",
+      "censuses": [
+        {
+          "year": 2021,
+          "total": 150485,
+          "indigenous": 3385,
+          "firstNations": 2165,
+          "metis": 845,
+          "inuit": 180,
+          "multiple": 30,
+          "otherIndigenous": 170,
+          "sharePct": 2.2
+        },
+        {
+          "year": 2016,
+          "total": 139685,
+          "indigenous": 2740,
+          "firstNations": 1875,
+          "metis": 710,
+          "inuit": 75,
+          "multiple": 15,
+          "otherIndigenous": 60,
+          "sharePct": 2
+        },
+        {
+          "year": 2011,
+          "total": 137375,
+          "indigenous": 2230,
+          "firstNations": 1520,
+          "metis": 410,
+          "inuit": 55,
+          "multiple": 0,
+          "otherIndigenous": 235,
+          "sharePct": 1.6
+        }
+      ]
+    },
+    {
+      "slug": "nova-scotia",
+      "name": "Nova Scotia",
+      "censuses": [
+        {
+          "year": 2021,
+          "total": 955855,
+          "indigenous": 52430,
+          "firstNations": 28050,
+          "metis": 21090,
+          "inuit": 1100,
+          "multiple": 885,
+          "otherIndigenous": 1305,
+          "sharePct": 5.5
+        },
+        {
+          "year": 2016,
+          "total": 908340,
+          "indigenous": 51490,
+          "firstNations": 25830,
+          "metis": 23315,
+          "inuit": 790,
+          "multiple": 835,
+          "otherIndigenous": 720,
+          "sharePct": 5.7
+        },
+        {
+          "year": 2011,
+          "total": 906175,
+          "indigenous": 33845,
+          "firstNations": 21895,
+          "metis": 10050,
+          "inuit": 695,
+          "multiple": 225,
+          "otherIndigenous": 980,
+          "sharePct": 3.7
+        }
+      ]
+    },
+    {
+      "slug": "new-brunswick",
+      "name": "New Brunswick",
+      "censuses": [
+        {
+          "year": 2021,
+          "total": 759195,
+          "indigenous": 33300,
+          "firstNations": 20955,
+          "metis": 10170,
+          "inuit": 685,
+          "multiple": 490,
+          "otherIndigenous": 995,
+          "sharePct": 4.4
+        },
+        {
+          "year": 2016,
+          "total": 730710,
+          "indigenous": 29380,
+          "firstNations": 17575,
+          "metis": 10200,
+          "inuit": 385,
+          "multiple": 475,
+          "otherIndigenous": 755,
+          "sharePct": 4
+        },
+        {
+          "year": 2011,
+          "total": 735835,
+          "indigenous": 22620,
+          "firstNations": 16120,
+          "metis": 4845,
+          "inuit": 485,
+          "multiple": 145,
+          "otherIndigenous": 1015,
+          "sharePct": 3.1
+        }
+      ]
+    },
+    {
+      "slug": "quebec",
+      "name": "Quebec",
+      "censuses": [
+        {
+          "year": 2021,
+          "total": 8308480,
+          "indigenous": 205010,
+          "firstNations": 116555,
+          "metis": 61010,
+          "inuit": 15800,
+          "multiple": 3135,
+          "otherIndigenous": 8510,
+          "sharePct": 2.5
+        },
+        {
+          "year": 2016,
+          "total": 7965455,
+          "indigenous": 182890,
+          "firstNations": 92655,
+          "metis": 69360,
+          "inuit": 13945,
+          "multiple": 2760,
+          "otherIndigenous": 4170,
+          "sharePct": 2.3
+        },
+        {
+          "year": 2011,
+          "total": 7732525,
+          "indigenous": 141915,
+          "firstNations": 82420,
+          "metis": 40960,
+          "inuit": 12570,
+          "multiple": 1545,
+          "otherIndigenous": 4415,
+          "sharePct": 1.8
+        }
+      ]
+    },
+    {
+      "slug": "ontario",
+      "name": "Ontario",
+      "censuses": [
+        {
+          "year": 2021,
+          "total": 14031755,
+          "indigenous": 406585,
+          "firstNations": 251030,
+          "metis": 134615,
+          "inuit": 4310,
+          "multiple": 7120,
+          "otherIndigenous": 9520,
+          "sharePct": 2.9
+        },
+        {
+          "year": 2016,
+          "total": 13242160,
+          "indigenous": 374395,
+          "firstNations": 236685,
+          "metis": 120585,
+          "inuit": 3860,
+          "multiple": 5725,
+          "otherIndigenous": 7545,
+          "sharePct": 2.8
+        },
+        {
+          "year": 2011,
+          "total": 12651795,
+          "indigenous": 301430,
+          "firstNations": 201105,
+          "metis": 86015,
+          "inuit": 3360,
+          "multiple": 2910,
+          "otherIndigenous": 8045,
+          "sharePct": 2.4
+        }
+      ]
+    },
+    {
+      "slug": "manitoba",
+      "name": "Manitoba",
+      "censuses": [
+        {
+          "year": 2021,
+          "total": 1307190,
+          "indigenous": 237190,
+          "firstNations": 134890,
+          "metis": 96725,
+          "inuit": 730,
+          "multiple": 2935,
+          "otherIndigenous": 1905,
+          "sharePct": 18.1
+        },
+        {
+          "year": 2016,
+          "total": 1240700,
+          "indigenous": 223310,
+          "firstNations": 130510,
+          "metis": 89360,
+          "inuit": 605,
+          "multiple": 2020,
+          "otherIndigenous": 815,
+          "sharePct": 18
+        },
+        {
+          "year": 2011,
+          "total": 1174345,
+          "indigenous": 195895,
+          "firstNations": 114225,
+          "metis": 78835,
+          "inuit": 580,
+          "multiple": 1205,
+          "otherIndigenous": 1055,
+          "sharePct": 16.7
+        }
+      ]
+    },
+    {
+      "slug": "saskatchewan",
+      "name": "Saskatchewan",
+      "censuses": [
+        {
+          "year": 2021,
+          "total": 1103200,
+          "indigenous": 187885,
+          "firstNations": 121175,
+          "metis": 62800,
+          "inuit": 460,
+          "multiple": 2030,
+          "otherIndigenous": 1425,
+          "sharePct": 17
+        },
+        {
+          "year": 2016,
+          "total": 1070555,
+          "indigenous": 175015,
+          "firstNations": 114570,
+          "metis": 57875,
+          "inuit": 360,
+          "multiple": 1300,
+          "otherIndigenous": 905,
+          "sharePct": 16.3
+        },
+        {
+          "year": 2011,
+          "total": 1008760,
+          "indigenous": 157740,
+          "firstNations": 103205,
+          "metis": 52450,
+          "inuit": 295,
+          "multiple": 675,
+          "otherIndigenous": 1115,
+          "sharePct": 15.6
+        }
+      ]
+    },
+    {
+      "slug": "alberta",
+      "name": "Alberta",
+      "censuses": [
+        {
+          "year": 2021,
+          "total": 4177720,
+          "indigenous": 284470,
+          "firstNations": 145640,
+          "metis": 127470,
+          "inuit": 2950,
+          "multiple": 4780,
+          "otherIndigenous": 3620,
+          "sharePct": 6.8
+        },
+        {
+          "year": 2016,
+          "total": 3978145,
+          "indigenous": 258640,
+          "firstNations": 136590,
+          "metis": 114375,
+          "inuit": 2495,
+          "multiple": 2905,
+          "otherIndigenous": 2275,
+          "sharePct": 6.5
+        },
+        {
+          "year": 2011,
+          "total": 3567975,
+          "indigenous": 220700,
+          "firstNations": 116670,
+          "metis": 96870,
+          "inuit": 1985,
+          "multiple": 1870,
+          "otherIndigenous": 3295,
+          "sharePct": 6.2
+        }
+      ]
+    },
+    {
+      "slug": "british-columbia",
+      "name": "British Columbia",
+      "censuses": [
+        {
+          "year": 2021,
+          "total": 4915940,
+          "indigenous": 290210,
+          "firstNations": 180085,
+          "metis": 97860,
+          "inuit": 1720,
+          "multiple": 5980,
+          "otherIndigenous": 4560,
+          "sharePct": 5.9
+        },
+        {
+          "year": 2016,
+          "total": 4560235,
+          "indigenous": 270580,
+          "firstNations": 172520,
+          "metis": 89405,
+          "inuit": 1615,
+          "multiple": 4350,
+          "otherIndigenous": 2695,
+          "sharePct": 5.9
+        },
+        {
+          "year": 2011,
+          "total": 4324455,
+          "indigenous": 232290,
+          "firstNations": 155020,
+          "metis": 69475,
+          "inuit": 1570,
+          "multiple": 2480,
+          "otherIndigenous": 3745,
+          "sharePct": 5.4
+        }
+      ]
+    },
+    {
+      "slug": "yukon",
+      "name": "Yukon",
+      "censuses": [
+        {
+          "year": 2021,
+          "total": 39585,
+          "indigenous": 8810,
+          "firstNations": 6935,
+          "metis": 1285,
+          "inuit": 260,
+          "multiple": 190,
+          "otherIndigenous": 140,
+          "sharePct": 22.3
+        },
+        {
+          "year": 2016,
+          "total": 35115,
+          "indigenous": 8195,
+          "firstNations": 6690,
+          "metis": 1015,
+          "inuit": 225,
+          "multiple": 160,
+          "otherIndigenous": 105,
+          "sharePct": 23.3
+        },
+        {
+          "year": 2011,
+          "total": 33320,
+          "indigenous": 7705,
+          "firstNations": 6590,
+          "metis": 845,
+          "inuit": 180,
+          "multiple": 25,
+          "otherIndigenous": 75,
+          "sharePct": 23.1
+        }
+      ]
+    },
+    {
+      "slug": "northwest-territories",
+      "name": "Northwest Territories",
+      "censuses": [
+        {
+          "year": 2021,
+          "total": 40380,
+          "indigenous": 20035,
+          "firstNations": 12315,
+          "metis": 2890,
+          "inuit": 4155,
+          "multiple": 405,
+          "otherIndigenous": 275,
+          "sharePct": 49.6
+        },
+        {
+          "year": 2016,
+          "total": 41135,
+          "indigenous": 20860,
+          "firstNations": 13180,
+          "metis": 3385,
+          "inuit": 4080,
+          "multiple": 155,
+          "otherIndigenous": 55,
+          "sharePct": 50.7
+        },
+        {
+          "year": 2011,
+          "total": 40795,
+          "indigenous": 21160,
+          "firstNations": 13345,
+          "metis": 3250,
+          "inuit": 4335,
+          "multiple": 45,
+          "otherIndigenous": 180,
+          "sharePct": 51.9
+        }
+      ]
+    },
+    {
+      "slug": "nunavut",
+      "name": "Nunavut",
+      "censuses": [
+        {
+          "year": 2021,
+          "total": 36600,
+          "indigenous": 31390,
+          "firstNations": 180,
+          "metis": 120,
+          "inuit": 30865,
+          "multiple": 195,
+          "otherIndigenous": 30,
+          "sharePct": 85.8
+        },
+        {
+          "year": 2016,
+          "total": 35580,
+          "indigenous": 30555,
+          "firstNations": 190,
+          "metis": 165,
+          "inuit": 30135,
+          "multiple": 55,
+          "otherIndigenous": 10,
+          "sharePct": 85.9
+        },
+        {
+          "year": 2011,
+          "total": 31700,
+          "indigenous": 27360,
+          "firstNations": 130,
+          "metis": 135,
+          "inuit": 27070,
+          "multiple": 20,
+          "otherIndigenous": 15,
+          "sharePct": 86.3
+        }
+      ]
+    }
+  ],
+  "ageGroups2021": [
+    {
+      "age": "0 to 14",
+      "indigenous": 459210,
+      "nonIndigenous": 5533350
+    },
+    {
+      "age": "15 to 24",
+      "indigenous": 284890,
+      "nonIndigenous": 3896170
+    },
+    {
+      "age": "25 to 34",
+      "indigenous": 263650,
+      "nonIndigenous": 4634970
+    },
+    {
+      "age": "35 to 44",
+      "indigenous": 217990,
+      "nonIndigenous": 4654435
+    },
+    {
+      "age": "45 to 54",
+      "indigenous": 206360,
+      "nonIndigenous": 4428485
+    },
+    {
+      "age": "55 to 64",
+      "indigenous": 202785,
+      "nonIndigenous": 4959580
+    },
+    {
+      "age": "65 and older",
+      "indigenous": 172360,
+      "nonIndigenous": 6414240
+    }
+  ]
+}

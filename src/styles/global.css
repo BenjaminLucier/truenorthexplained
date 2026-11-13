@@ -60,6 +60,13 @@
   --tn-data-cat-7: #6250d6;
   --tn-data-cat-8: #e34948;
   --tn-data-band: #dcefe3;
+
+  /* Data colours: treaty map areas. Historic (pre-1975) and modern treaties,
+     plus a paler historic tint for the Peace and Friendship Treaties, which
+     did not surrender land. */
+  --tn-data-treaty-historic: #f19d78;
+  --tn-data-treaty-pf: #f8d2bf;
+  --tn-data-treaty-modern: #5b9be6;
 }
 
 [data-theme="dark"] {
@@ -106,6 +113,10 @@
   --tn-data-cat-7: #9085e9;
   --tn-data-cat-8: #e66767;
   --tn-data-band: #1b3427;
+
+  --tn-data-treaty-historic: #a9532f;
+  --tn-data-treaty-pf: #5e3424;
+  --tn-data-treaty-modern: #2f6db8;
 }
 
 /* No-JavaScript fallback: follow the system setting. */
@@ -147,6 +158,10 @@
     --tn-data-cat-7: #9085e9;
     --tn-data-cat-8: #e66767;
     --tn-data-band: #1b3427;
+
+    --tn-data-treaty-historic: #a9532f;
+    --tn-data-treaty-pf: #5e3424;
+    --tn-data-treaty-modern: #2f6db8;
   }
 }
 
@@ -316,6 +331,9 @@
   --color-data-cat-7: var(--tn-data-cat-7);
   --color-data-cat-8: var(--tn-data-cat-8);
   --color-data-band: var(--tn-data-band);
+  --color-data-treaty-historic: var(--tn-data-treaty-historic);
+  --color-data-treaty-pf: var(--tn-data-treaty-pf);
+  --color-data-treaty-modern: var(--tn-data-treaty-modern);
 
   --font-sans: "Inter Variable", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
 

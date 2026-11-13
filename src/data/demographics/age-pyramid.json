@@ -1,0 +1,224 @@
+{
+  "_meta": {
+    "source": "Statistics Canada, table 17-10-0005-01: population estimates on July 1, by age and gender",
+    "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501",
+    "urls": [
+      "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501"
+    ],
+    "licence": "Open Government Licence – Canada",
+    "licenceUrl": "https://www.statcan.gc.ca/en/reference/licence",
+    "fetched": "2026-11-13",
+    "notes": [
+      "Population on July 1 of 1976 and 2026, by five-year age group.",
+      "Statistics Canada's gender categories: 'Men+' includes men and boys plus some non-binary people, and 'Women+' includes women and girls plus the rest of non-binary people. Estimates before 2021 are by sex, carried into these categories by Statistics Canada.",
+      "Estimates for recent years are preliminary and are revised as later data arrive."
+    ],
+    "script": "scripts/data/demographics.ts"
+  },
+  "years": [
+    {
+      "year": 1976,
+      "total": 23449808,
+      "medianAge": 27.7,
+      "groups": [
+        {
+          "age": "0–4",
+          "men": 902201,
+          "women": 857116
+        },
+        {
+          "age": "5–9",
+          "men": 978589,
+          "women": 931028
+        },
+        {
+          "age": "10–14",
+          "men": 1172190,
+          "women": 1119525
+        },
+        {
+          "age": "15–19",
+          "men": 1217714,
+          "women": 1171537
+        },
+        {
+          "age": "20–24",
+          "men": 1133641,
+          "women": 1118503
+        },
+        {
+          "age": "25–29",
+          "men": 1045701,
+          "women": 1016989
+        },
+        {
+          "age": "30–34",
+          "men": 857096,
+          "women": 825094
+        },
+        {
+          "age": "35–39",
+          "men": 689911,
+          "women": 664328
+        },
+        {
+          "age": "40–44",
+          "men": 656726,
+          "women": 629336
+        },
+        {
+          "age": "45–49",
+          "men": 640599,
+          "women": 626249
+        },
+        {
+          "age": "50–54",
+          "men": 601494,
+          "women": 627670
+        },
+        {
+          "age": "55–59",
+          "men": 499544,
+          "women": 531309
+        },
+        {
+          "age": "60–64",
+          "men": 440819,
+          "women": 472310
+        },
+        {
+          "age": "65–69",
+          "men": 343264,
+          "women": 385248
+        },
+        {
+          "age": "70–74",
+          "men": 244532,
+          "women": 294583
+        },
+        {
+          "age": "75–79",
+          "men": 152527,
+          "women": 213666
+        },
+        {
+          "age": "80–84",
+          "men": 86262,
+          "women": 136349
+        },
+        {
+          "age": "85–89",
+          "men": 41927,
+          "women": 71479
+        },
+        {
+          "age": "90+",
+          "men": 18618,
+          "women": 34134
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "total": 41798407,
+      "medianAge": 40.9,
+      "groups": [
+        {
+          "age": "0–4",
+          "men": 961319,
+          "women": 913186
+        },
+        {
+          "age": "5–9",
+          "men": 1080636,
+          "women": 1028393
+        },
+        {
+          "age": "10–14",
+          "men": 1165490,
+          "women": 1105253
+        },
+        {
+          "age": "15–19",
+          "men": 1196367,
+          "women": 1128586
+        },
+        {
+          "age": "20–24",
+          "men": 1369095,
+          "women": 1253794
+        },
+        {
+          "age": "25–29",
+          "men": 1503988,
+          "women": 1400699
+        },
+        {
+          "age": "30–34",
+          "men": 1626152,
+          "women": 1538201
+        },
+        {
+          "age": "35–39",
+          "men": 1572551,
+          "women": 1511375
+        },
+        {
+          "age": "40–44",
+          "men": 1461036,
+          "women": 1429665
+        },
+        {
+          "age": "45–49",
+          "men": 1324521,
+          "women": 1319502
+        },
+        {
+          "age": "50–54",
+          "men": 1209085,
+          "women": 1229839
+        },
+        {
+          "age": "55–59",
+          "men": 1195142,
+          "women": 1237557
+        },
+        {
+          "age": "60–64",
+          "men": 1308965,
+          "women": 1349629
+        },
+        {
+          "age": "65–69",
+          "men": 1235603,
+          "women": 1305528
+        },
+        {
+          "age": "70–74",
+          "men": 1006442,
+          "women": 1106972
+        },
+        {
+          "age": "75–79",
+          "men": 782479,
+          "women": 889255
+        },
+        {
+          "age": "80–84",
+          "men": 481575,
+          "women": 579355
+        },
+        {
+          "age": "85–89",
+          "men": 251822,
+          "women": 355088
+        },
+        {
+          "age": "90+",
+          "men": 128253,
+          "women": 256009
+        }
+      ]
+    }
+  ]
+}

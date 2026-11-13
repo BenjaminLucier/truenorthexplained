@@ -101,6 +101,10 @@ interface Props {
   context?: MapFeature[];
   /** Class for each context path. */
   contextClass?: string;
+  /** Features drawn on top without links or labels (e.g. province borders over thematic areas). */
+  overlay?: MapFeature[];
+  /** Extra class for each overlay path (they always have `map-overlay`). */
+  overlayClass?: string;
   /** "img" for a purely decorative or locator map with no links. Defaults to a group when any feature links. */
   role?: "img" | "group";
   /** Unique prefix for ids (title, desc). Needed when two maps share a page. */
@@ -125,6 +129,8 @@ const {
   tolerance = 1,
   context = [],
   contextClass = "map-context",
+  overlay = [],
+  overlayClass,
   role,
   id = uniqueId(Astro, "map", Astro.props.title),
   class: className,
@@ -168,6 +174,7 @@ const widened = (b: Bounds): Bounds => {
 };
 const visible = bounds ? featuresInBounds(features, widened(bounds)) : features;
 const visibleContext = bounds ? featuresInBounds(context, widened(bounds)) : context;
+const visibleOverlay = bounds ? featuresInBounds(overlay, widened(bounds)) : overlay;
 
 const drawn = visible
   .map((f) => ({ f, it: item(f, features.indexOf(f)) }))
@@ -237,6 +244,16 @@ const descId = `${id}-desc`;
       );
     })
   }
+  {
+    visibleOverlay.length > 0 && (
+      <g aria-hidden="true">
+        {visibleOverlay.map((f) => {
+          const d = path(f);
+          return d && <path class:list={["map-overlay", overlayClass]} d={d} />;
+        })}
+      </g>
+    )
+  }
   {markers.map((m) => <circle class="map-marker" cx={m.cx} cy={m.cy} r={m.r} aria-hidden="true" />)}
   <slot />
 </svg>
@@ -269,6 +286,14 @@ const descId = `${id}-desc`;
     stroke: var(--map-context-stroke, var(--tn-border-strong));
     stroke-width: 0.5;
     vector-effect: non-scaling-stroke;
+  }
+  .map-overlay {
+    fill: none;
+    stroke: var(--map-overlay-stroke, var(--tn-text-muted));
+    stroke-width: var(--map-overlay-stroke-width, 0.75);
+    stroke-linejoin: round;
+    vector-effect: non-scaling-stroke;
+    pointer-events: none;
   }
   /* The browser's focus box around an SVG link is a loose rectangle; outline the shape instead. */
   .map-link {
