@@ -6,6 +6,7 @@ capital: "Halifax"
 joined: 1867
 summary: "Home of Canada's oldest elected assembly (1758) and, in 1848, the first responsible government anywhere in the British Empire outside the United Kingdom."
 status: draft
+about: [event:nova-scotia-assembly-1758, event:responsible-government-1848, term:house-of-assembly]
 ---
 
 ## At a glance
@@ -15,11 +16,11 @@ status: draft
 | Capital | Halifax |
 | Joined Confederation | 1867 (a founding province) |
 | Legislature | House of Assembly (together with the Lieutenant Governor, the General Assembly of Nova Scotia) |
-| Seats | 55 |
+| Seats | {{legislature.seats.nova-scotia}} |
 | Crown representative | Lieutenant Governor of Nova Scotia |
 | Head of government | Premier |
 
-> **As of 2026:** The House of Assembly has 55 seats, a number first used in the 2021
+> **As of 2026:** The House of Assembly has {{legislature.seats.nova-scotia}} seats, a number first used in the 2021
 > general election.
 
 ## In numbers
@@ -29,8 +30,8 @@ status: draft
 ## How it's governed
 
 Nova Scotia's legislature has a single elected chamber, the **House of Assembly**.
-Its members are called **MLAs** (Members of the Legislative Assembly). The province
-had an appointed upper house too, the **Legislative Council**, until it was abolished
+Its members are called **[MLAs](term:mla)** (Members of the Legislative Assembly). The province
+had an appointed upper house too, the **[Legislative Council](term:legislative-council)**, until it was abolished
 in 1928.
 
 The party that can keep the **confidence** (majority support) of the House forms the
@@ -56,7 +57,7 @@ as the longest-serving legislative building in Canada.
 
 For most of its early history, the colony's governor and his appointed council made
 the real decisions, whatever the elected assembly wanted. Reformers pushed for
-**responsible government**: the idea that the government must have the support of the
+**[responsible government](term:responsible-government)**: the idea that the government must have the support of the
 elected assembly, and must resign if it loses it. This is the
 [confidence convention](/learn/parliament/confidence) that every Canadian government
 still follows today.
@@ -69,7 +70,7 @@ have responsible government. The Province of Canada followed a few weeks later. 
 ### A reluctant founding province
 
 Nova Scotia was one of the four provinces that founded Canada in 1867, but the decision
-was unpopular at home. In the first elections after Confederation, candidates opposed
+was unpopular at home. In the first elections after [Confederation](event:confederation), candidates opposed
 to it won most of the province's seats, and some leaders tried to get Britain to let
 Nova Scotia leave. They didn't succeed.
 
@@ -77,15 +78,15 @@ Nova Scotia leave. They didn't succeed.
 
 When electoral boundaries were redrawn for the 2021 election, Nova Scotia restored four
 districts drawn to help minority communities elect a representative: three with large
-**Acadian** (French-speaking) populations, Argyle, Clare and Richmond, and **Preston**,
+**[Acadian](term:acadians)** (French-speaking) populations, Argyle, Clare and Richmond, and **Preston**,
 home to a historic **African Nova Scotian** community. They had been eliminated in an
 earlier redistribution, which led to a court challenge.
 
 ### Peace and Friendship Treaties
 
-In the 1700s, the British Crown signed **Peace and Friendship Treaties** with the
+In the 1700s, the British Crown signed **[Peace and Friendship Treaties](term:peace-and-friendship-treaties)** with the
 Mi'kmaq and other peoples of the region. Unlike most later treaties, they didn't
-involve giving up land. In *R. v. Marshall* (1999), the Supreme Court of Canada ruled
+involve giving up land. In [*R. v. Marshall*](case:r-v-marshall) (1999), the Supreme Court of Canada ruled
 that these treaties protect a Mi'kmaq right to fish and trade to earn a moderate
 livelihood. See [Treaties](/learn/indigenous/treaties).
 

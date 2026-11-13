@@ -6,6 +6,7 @@ capital: "Charlottetown"
 joined: 1873
 summary: "Canada's smallest province hosted the meeting that led to Confederation, then waited six years to join."
 status: draft
+about: [event:charlottetown-conference, term:charlottetown-conference, event:prince-edward-island-joins-1873, term:confederation-bridge]
 ---
 
 ## At a glance
@@ -15,11 +16,11 @@ status: draft
 | Capital | Charlottetown |
 | Joined Confederation | 1873 |
 | Legislature | Legislative Assembly of Prince Edward Island (one chamber) |
-| Seats | 27 |
+| Seats | {{legislature.seats.prince-edward-island}} |
 | The King's representative | Lieutenant Governor |
 | Head of government | Premier |
 
-> **As of 2026:** The Legislative Assembly has 27 seats, one for each electoral district.
+> **As of 2026:** The Legislative Assembly has {{legislature.seats.prince-edward-island}} seats, one for each electoral district.
 
 ## In numbers
 
@@ -28,20 +29,20 @@ status: draft
 ## How it's governed
 
 Prince Edward Island (PEI) works like every other province. It has a
-**parliamentary** system, the same Westminster model used in Ottawa (see
+**parliamentary** system, the same [Westminster model](term:westminster-system) used in Ottawa (see
 [Parliament](/learn/parliament)), just on a smaller scale.
 
 - **The Legislative Assembly** is the elected law-making body. Islanders elect one
-  **MLA** (member of the Legislative Assembly) in each of the 27 districts.
+  **[MLA](term:mla)** (member of the Legislative Assembly) in each of the {{legislature.seats.prince-edward-island}} districts.
 - **The Premier** is the head of government. Like the Prime Minister, the Premier is
-  whoever can keep the **confidence** (support) of the Assembly, which normally means
+  whoever can keep the **[confidence](term:confidence)** (support) of the Assembly, which normally means
   the leader of the party with the most seats. The Premier chooses a cabinet of
   ministers from among the MLAs.
 - **The Lieutenant Governor** represents the King in the province. They give royal
   assent to bills and formally appoint the Premier, but by convention they act on the
   elected government's advice. See [The Crown](/learn/crown/governor-general).
 
-PEI has had **responsible government** (a cabinet that must answer to the elected
+PEI has had **[responsible government](term:responsible-government)** (a cabinet that must answer to the elected
 assembly) since 1851.
 
 ## What makes it different
@@ -51,7 +52,7 @@ assembly) since 1851.
 In September 1864, politicians from the Maritime colonies met in Charlottetown to
 talk about a union of the Maritimes. Delegates from the Province of Canada (today's
 Ontario and Quebec) came too and pitched a bigger idea. This **Charlottetown
-Conference** was the first of the meetings that led to Confederation in 1867, which
+Conference** was the first of the meetings that led to [Confederation](event:confederation) in 1867, which
 is why Charlottetown calls itself the "Birthplace of Confederation."
 
 PEI itself said no at first. Islanders worried a small island would have little say
@@ -62,7 +63,7 @@ colony's railway debts and buying out absentee landlords.
 
 ### A ferry written into the Constitution
 
-PEI's Terms of Union promised that Ottawa would keep up an "efficient" steamship
+PEI's [Terms of Union](term:terms-of-union) promised that Ottawa would keep up an "efficient" steamship
 service connecting the Island to the mainland. Because that promise was part of the
 Constitution, replacing the ferry with a bridge needed a **constitutional
 amendment**. A 1993 amendment, agreed by Parliament and PEI's Assembly alone,
@@ -77,9 +78,9 @@ See [the amending formula](/learn/constitution/amending-formula).
 PEI has less than half of one percent of Canada's population, but the Constitution
 guarantees it:
 
-- **4 senators** (the Maritime provinces share 24 Senate seats: 10 for Nova Scotia,
-  10 for New Brunswick and 4 for PEI).
-- **At least 4 MPs** in the House of Commons. The "senatorial clause" (s. 51A of the
+- **{{senate.seats.prince-edward-island}} senators** (the Maritime provinces share 24 [Senate](org:senate) seats: {{senate.seats.nova-scotia}} for Nova Scotia,
+  {{senate.seats.new-brunswick}} for New Brunswick and {{senate.seats.prince-edward-island}} for PEI).
+- **At least 4 MPs** in the [House of Commons](org:house-of-commons). The "[senatorial clause](term:senatorial-clause)" (s. 51A of the
   Constitution Act, 1867) says no province can have fewer MPs than senators.
 
 So an Island MP represents far fewer people than an MP from a big city. People
@@ -94,8 +95,8 @@ imbalance.
 - **Two members per district until 1996.** For most of its history PEI elected two
   members from each district. It switched to the single-member districts it uses
   today in 1996.
-- **Electoral reform votes.** In a 2016 **plebiscite** (a non-binding public vote),
-  mixed-member proportional representation came first. The government didn't adopt
+- **Electoral reform votes.** In a 2016 **[plebiscite](term:plebiscite)** (a non-binding public vote),
+  [mixed-member proportional](term:mixed-member-proportional) representation came first. The government didn't adopt
   it. A binding **referendum** held with the 2019 election narrowly failed to reach
   the thresholds needed for change, so PEI still uses first-past-the-post. See
   [First-past-the-post and the alternatives](/learn/elections/first-past-the-post).

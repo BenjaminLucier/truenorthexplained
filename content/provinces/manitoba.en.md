@@ -6,6 +6,7 @@ capital: "Winnipeg"
 joined: 1870
 summary: "Born from the Red River Resistance and negotiated by a Métis-led government, Manitoba joined in 1870 with English and French built into its founding law."
 status: draft
+about: [event:red-river-resistance, term:red-river-resistance, event:manitoba-act-1870, term:manitoba-act-1870, event:manitoba-language-rights-1985]
 ---
 
 ## At a glance
@@ -15,11 +16,11 @@ status: draft
 | Capital | Winnipeg |
 | Joined Confederation | 1870 (the first province created after 1867) |
 | Legislature | Legislative Assembly of Manitoba |
-| Seats | 57 |
+| Seats | {{legislature.seats.manitoba}} |
 | Crown representative | Lieutenant Governor of Manitoba |
 | Head of government | Premier |
 
-> **As of 2026:** The Legislative Assembly has 57 seats.
+> **As of 2026:** The Legislative Assembly has {{legislature.seats.manitoba}} seats.
 
 ## In numbers
 
@@ -28,8 +29,8 @@ status: draft
 ## How it's governed
 
 Manitoba's legislature is the **Legislative Assembly**, which has a single chamber.
-Manitoba started out with an appointed upper house too, the **Legislative Council**,
-but abolished it in 1876, only six years after joining Canada. Voters elect one **MLA**
+Manitoba started out with an appointed upper house too, the **[Legislative Council](term:legislative-council)**,
+but abolished it in 1876, only six years after joining Canada. Voters elect one **[MLA](term:mla)**
 (Member of the Legislative Assembly) for each electoral division.
 
 The party that can keep the **confidence** (majority support) of the Assembly forms
@@ -44,9 +45,9 @@ and carry out other formal duties on the advice of the elected government. See
 
 ### A province negotiated by the Métis
 
-In 1869, Canada arranged to take over **Rupert's Land**, a huge territory controlled
+In 1869, Canada arranged to take over **[Rupert's Land](event:ruperts-land-1870)**, a huge territory controlled
 until then by the Hudson's Bay Company. Nobody asked the people already living at Red
-River (around today's Winnipeg), most of whom were **Métis**: a distinct people of
+River (around today's Winnipeg), most of whom were **[Métis](term:metis)**: a distinct people of
 mixed First Nations and European ancestry, with their own culture and language.
 
 The Métis, led by **Louis Riel**, formed a **provisional government** (a temporary
@@ -81,7 +82,7 @@ matter:
 The original province was a small square around Red River, nicknamed the "postage
 stamp province". Its borders were pushed out in 1881 and again in 1912 to reach its
 current size. Like Alberta and Saskatchewan, Manitoba didn't control its public land
-and natural resources until the **Natural Resources Transfer Agreements** of 1930.
+and natural resources until the **[Natural Resources Transfer Agreements](term:natural-resources-transfer-agreements)** of 1930.
 
 See [Indigenous peoples and the Crown](/learn/indigenous) and
 [Who does what](/learn/federalism/division-of-powers).
@@ -103,7 +104,7 @@ Above them is the [Supreme Court of Canada](/learn/law/supreme-court). See
 
 Most Manitoba municipalities are governed by **The Municipal Act**. Winnipeg has its own
 law, **The City of Winnipeg Charter**. In 1972, Winnipeg and its surrounding
-municipalities were merged into a single city, often called **Unicity**.
+municipalities were merged into a single city, often called **[Unicity](term:unicity)**.
 
 Not every part of Manitoba is inside a municipality. Many small northern communities
 are set up under a separate law, The Northern Affairs Act. <!-- check: Northern Affairs Act still the governing law for these communities --> See

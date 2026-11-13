@@ -6,6 +6,7 @@ capital: "St. John's"
 joined: 1949
 summary: "Once a self-governing dominion of its own, Newfoundland chose to join Canada in two close referendums in 1948, becoming the newest province in 1949."
 status: draft
+about: [event:newfoundland-referendums-1948, event:newfoundland-joins-1949, event:commission-of-government-1934, term:commission-of-government, event:newfoundland-and-labrador-2001]
 ---
 
 ## At a glance
@@ -15,11 +16,11 @@ status: draft
 | Capital | St. John's |
 | Joined Confederation | 1949 (the most recent province to join) |
 | Legislature | House of Assembly |
-| Seats | 40 |
+| Seats | {{legislature.seats.newfoundland-and-labrador}} |
 | Crown representative | Lieutenant Governor of Newfoundland and Labrador |
 | Head of government | Premier |
 
-> **As of 2026:** The House of Assembly has 40 seats.
+> **As of 2026:** The House of Assembly has {{legislature.seats.newfoundland-and-labrador}} seats.
 
 ## In numbers
 
@@ -28,7 +29,7 @@ status: draft
 ## How it's governed
 
 Newfoundland and Labrador's legislature is the **House of Assembly**, which has a
-single chamber. Its elected members are called **MHAs** (Members of the House of
+single chamber. Its elected members are called **[MHAs](term:mha)** (Members of the House of
 Assembly) rather than MLAs. Voters elect one MHA for each electoral district.
 
 The party that can keep the **confidence** (majority support) of the House forms the
@@ -44,8 +45,8 @@ and carry out other formal duties on the advice of the elected government. See
 ### A country before it was a province
 
 Newfoundland didn't take part in Confederation in 1867. It stayed a separate British
-colony, and won **responsible government** (a government that answers to the elected
-assembly) in 1855. In the early 20th century it was a self-governing **dominion**,
+colony, and won **[responsible government](term:responsible-government)** (a government that answers to the elected
+assembly) in 1855. In the early 20th century it was a self-governing **[dominion](term:dominion)**,
 with a status similar to Canada's at the time.
 
 During the Great Depression, Newfoundland was close to bankruptcy. In 1934 its
@@ -56,7 +57,7 @@ government at all.
 ### The 1948 referendums
 
 After the Second World War, an elected **National Convention** debated Newfoundland's
-future. Voters were then given a choice in two **referendums** (public votes on a
+future. Voters were then given a choice in two **[referendums](term:referendum)** (public votes on a
 question):
 
 1. **June 3, 1948.** Three options: keep the Commission of Government, return to
@@ -65,19 +66,19 @@ question):
 2. **July 22, 1948.** A run-off between the two leading options. **Confederation with
    Canada** won with about 52% of the vote, over a return to responsible government.
 
-Newfoundland joined Canada on **March 31, 1949**, under the **Terms of Union**, which
+Newfoundland joined Canada on **March 31, 1949**, under the **[Terms of Union](term:terms-of-union)**, which
 are now part of Canada's Constitution. How close the result was is still part of the
 province's political memory.
 
 ### Labrador and the name
 
 The mainland region of **Labrador** has been part of Newfoundland since well before
-1949. Its boundary with Quebec was set by the Judicial Committee of the Privy Council
+1949. Its boundary with Quebec was set by the [Judicial Committee of the Privy Council](org:judicial-committee-of-the-privy-council)
 in London in 1927. The province's official name was changed from Newfoundland to
 **Newfoundland and Labrador** by a constitutional amendment in 2001.
 
-In Labrador, the **Nunatsiavut Government** is an Inuit regional government created
-under the **Labrador Inuit Land Claims Agreement**, which took effect in 2005. It has
+In Labrador, the **[Nunatsiavut Government](term:nunatsiavut-government)** is an Inuit regional government created
+under the **[Labrador Inuit Land Claims Agreement](event:labrador-inuit-agreement-2005)**, which took effect in 2005. It has
 law-making powers over some matters on its lands. See
 [Self-government](/learn/indigenous/self-government).
 
@@ -107,8 +108,8 @@ Act**, which took effect on January 1, 2025, replacing the Municipalities Act, 1
 Three cities have their own laws: the **City of St. John's Act**, the **City of Mount
 Pearl Act** and the **City of Corner Brook Act**. <!-- check: names of the three city Acts -->
 
-Much of the province is **unincorporated**, meaning it isn't part of any municipality.
-Some of these communities have **local service districts**: elected committees that
+Much of the province is **[unincorporated](term:unincorporated)**, meaning it isn't part of any municipality.
+Some of these communities have **[local service districts](term:local-service-district)**: elected committees that
 provide basic services such as fire protection or water. See
 [Municipalities](/learn/federalism/municipalities).
 

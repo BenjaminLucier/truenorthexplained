@@ -22,3 +22,81 @@ commons.standing-joint-committees:
   value: 2
   asOf: 2026
   source: House of Commons, Standing Orders (as stated on /learn/parliament/question-period-and-committees)
+
+legislature.seats.alberta:
+  # check: number of seats in the Legislative Assembly of Alberta
+  value: 87
+  asOf: 2026
+  source: Legislative Assembly of Alberta (as stated on /provinces/alberta)
+
+legislature.seats.british-columbia:
+  # check: number of seats in the Legislative Assembly of British Columbia
+  value: 93
+  asOf: 2026
+  source: Legislative Assembly of British Columbia (as stated on /provinces/british-columbia)
+
+legislature.seats.manitoba:
+  # check: number of seats in the Legislative Assembly of Manitoba
+  value: 57
+  asOf: 2026
+  source: Legislative Assembly of Manitoba (as stated on /provinces/manitoba)
+
+legislature.seats.new-brunswick:
+  # check: number of seats in the Legislative Assembly of New Brunswick
+  value: 49
+  asOf: 2026
+  source: Legislative Assembly of New Brunswick (as stated on /provinces/new-brunswick)
+
+legislature.seats.newfoundland-and-labrador:
+  # check: number of seats in the House of Assembly of Newfoundland and Labrador
+  value: 40
+  asOf: 2026
+  source: House of Assembly of Newfoundland and Labrador (as stated on /provinces/newfoundland-and-labrador)
+
+legislature.seats.northwest-territories:
+  # check: number of seats in the Legislative Assembly of the Northwest Territories
+  value: 19
+  asOf: 2026
+  source: Legislative Assembly of the Northwest Territories (as stated on /provinces/northwest-territories)
+
+legislature.seats.nova-scotia:
+  # check: number of seats in the Nova Scotia House of Assembly
+  value: 55
+  asOf: 2026
+  source: Nova Scotia House of Assembly (as stated on /provinces/nova-scotia)
+
+legislature.seats.nunavut:
+  # check: number of seats in the Legislative Assembly of Nunavut
+  value: 22
+  asOf: 2026
+  source: Legislative Assembly of Nunavut (as stated on /provinces/nunavut)
+
+legislature.seats.ontario:
+  # check: number of seats in the Legislative Assembly of Ontario
+  value: 124
+  asOf: 2026
+  source: Legislative Assembly of Ontario (as stated on /provinces/ontario)
+
+legislature.seats.prince-edward-island:
+  # check: number of seats in the Legislative Assembly of Prince Edward Island
+  value: 27
+  asOf: 2026
+  source: Legislative Assembly of Prince Edward Island (as stated on /provinces/prince-edward-island)
+
+legislature.seats.quebec:
+  # check: number of seats in the National Assembly of Québec
+  value: 127
+  asOf: 2026
+  source: National Assembly of Québec (as stated on /provinces/quebec)
+
+legislature.seats.saskatchewan:
+  # check: number of seats in the Legislative Assembly of Saskatchewan
+  value: 61
+  asOf: 2026
+  source: Legislative Assembly of Saskatchewan (as stated on /provinces/saskatchewan)
+
+legislature.seats.yukon:
+  # check: number of seats in the Yukon Legislative Assembly
+  value: 21
+  asOf: 2026
+  source: Yukon Legislative Assembly (as stated on /provinces/yukon)

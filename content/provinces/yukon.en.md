@@ -6,6 +6,7 @@ capital: "Whitehorse"
 joined: 1898
 summary: "A territory created by the Klondike Gold Rush, run with party politics, and home to 11 self-governing First Nations."
 status: draft
+about: [event:yukon-territory-1898, event:yukon-devolution-2003, term:umbrella-final-agreement]
 ---
 
 ## At a glance
@@ -15,11 +16,11 @@ status: draft
 | Capital | Whitehorse |
 | Became a separate territory | 1898 |
 | Legislature | Yukon Legislative Assembly (one chamber) |
-| Seats | 21 |
+| Seats | {{legislature.seats.yukon}} |
 | The federal representative | Commissioner |
 | Head of government | Premier |
 
-> **As of 2026:** The Legislative Assembly has 21 seats. It grew from 19 to 21 for
+> **As of 2026:** The Legislative Assembly has {{legislature.seats.yukon}} seats. It grew from 19 to 21 for
 > the November 2025 general election.
 
 ## In numbers
@@ -28,20 +29,20 @@ status: draft
 
 ## How it's governed
 
-Yukon is a **territory**, so its powers come from a federal law, the **Yukon Act**,
+Yukon is a **[territory](term:territory)**, so its powers come from a federal law, the **Yukon Act**,
 not from the Constitution. In principle Parliament could change them. In practice,
 Yukon now runs most of the same things a province does. See
 [Why territories aren't provinces](/learn/federalism/territories).
 
 - **The Commissioner** is appointed by the federal cabinet and performs the formal
-  duties a Lieutenant Governor does in a province: giving assent to laws, opening the
+  duties a [Lieutenant Governor](org:lieutenant-governor) does in a province: giving assent to laws, opening the
   Legislature, appointing the cabinet. The role used to carry real power. Today the
   Commissioner acts on the advice of Yukon's elected government, and the Yukon Act
-  describes Yukon as having **responsible government** "similar in principle to that
+  describes Yukon as having **[responsible government](term:responsible-government)** "similar in principle to that
   of Canada."
 - **The Legislature** is made up of the Commissioner and the Legislative Assembly,
-  whose 21 **MLAs** pass Yukon's laws.
-- **The Premier** is the leader who can keep the **confidence** of the Assembly,
+  whose {{legislature.seats.yukon}} **[MLAs](term:mla)** pass Yukon's laws.
+- **The Premier** is the leader who can keep the **[confidence](term:confidence)** of the Assembly,
   normally the leader of the party with the most seats, and chooses cabinet from among
   the MLAs.
 
@@ -53,7 +54,7 @@ Yukon works much like a small province. Candidates run for **political parties**
 and the party that can hold the Assembly's confidence forms the government. Party
 politics began with the 1978 territorial election. This is the opposite of the
 [Northwest Territories](/provinces/northwest-territories) and
-[Nunavut](/provinces/nunavut), which use **consensus government** with no parties.
+[Nunavut](/provinces/nunavut), which use **[consensus government](term:consensus-government)** with no parties.
 
 ### Born in a gold rush
 
@@ -76,12 +77,12 @@ the arrangement into law.
 
 On **April 1, 2003**, Yukon became the first territory to take over the management
 of its public lands, water, forests and minerals from the federal government. This
-transfer, called **devolution**, came with the new Yukon Act. The Northwest
-Territories followed in 2014, and Nunavut's transfer is scheduled for 2027.
+transfer, called **[devolution](term:devolution)**, came with the new Yukon Act. The Northwest
+Territories [followed in 2014](event:northwest-territories-devolution-2014), and Nunavut's transfer is scheduled for 2027.
 
 ### Self-governing First Nations
 
-Yukon is a national leader in modern treaties. In 1993, Canada, Yukon and the Council
+Yukon is a national leader in [modern treaties](term:modern-treaty). In 1993, Canada, Yukon and the Council
 for Yukon Indian People (now the Council of Yukon First Nations) signed the
 **Umbrella Final Agreement**, a framework for individual land claim agreements.
 Since then, **11 of Yukon's 14 First Nations** have signed final and
