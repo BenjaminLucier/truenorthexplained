@@ -21,6 +21,10 @@ status: draft
 
 > **As of 2026:** The Legislative Assembly has 49 seats.
 
+## In numbers
+
+<tn-widget name="province-profile" data-province="new-brunswick"></tn-widget>
+
 ## How it's governed
 
 New Brunswick's legislature is the **Legislative Assembly**, which has a single

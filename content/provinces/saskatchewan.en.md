@@ -22,6 +22,10 @@ status: draft
 > **As of 2026:** The Legislative Assembly has 61 seats. New boundaries were used in
 > the 2024 election, but the total stayed at 61.
 
+## In numbers
+
+<tn-widget name="province-profile" data-province="saskatchewan"></tn-widget>
+
 ## How it's governed
 
 Saskatchewan uses the same **parliamentary** model as the rest of Canada (see

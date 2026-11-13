@@ -21,6 +21,10 @@ status: draft
 
 > **As of 2026:** The Legislative Assembly has 22 members, one for each constituency.
 
+## In numbers
+
+<tn-widget name="province-profile" data-province="nunavut"></tn-widget>
+
 ## How it's governed
 
 Nunavut is a **territory**, so its powers come from a federal law, the **Nunavut

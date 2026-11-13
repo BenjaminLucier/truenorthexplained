@@ -296,6 +296,14 @@ export const VISUALS: Visual[] = [
     kind: "reference",
   },
   {
+    // One entry for the profile on all 13 province and territory pages, pointing at the largest.
+    title: "Each province in numbers",
+    text: "Population and seats, the 2025 vote, transfers, premiers and treaty areas, on every province and territory page.",
+    href: "/provinces/ontario#province-profile",
+    icon: "ChartNoAxesColumn",
+    kind: "reference",
+  },
+  {
     title: "Demographics",
     text: "How Canada's population has grown and changed.",
     href: "/demographics",

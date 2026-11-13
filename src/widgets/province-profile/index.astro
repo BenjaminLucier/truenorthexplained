@@ -1,0 +1,192 @@
+---
+/**
+ * "In numbers": a data profile of one province or territory, computed at
+ * build time from the datasets the rest of the site already uses.
+ *
+ *   ## In numbers
+ *
+ *   <tn-widget name="province-profile" data-province="quebec"></tn-widget>
+ *
+ * Sections (each an <h3> under the page's "In numbers" heading, with a
+ * ChartCard per chart, a table in "Show the data" and the sources):
+ *
+ *   Population and seats   share of people vs share of House seats, people per MP; population since 1951
+ *   2025 federal election  seats and votes by party; the ridings on a map, with a table linking to /ridings
+ *   Federal transfers      major transfers per person vs the other provinces; equalization since 1957-58
+ *   Premiers               this province's row of the premiers ribbon
+ *   Treaty areas           treaty areas that overlap it, worked out from the boundaries
+ *   Language               mother tongue since 1951 (only where the data has the province)
+ *
+ * Each chart's lede is a takeaway sentence written from the numbers by the
+ * pure functions in src/lib/province-profile.ts. data.ts gathers the data.
+ */
+import Election from "./Election.astro";
+import Language from "./Language.astro";
+import Population from "./Population.astro";
+import Premiers from "./Premiers.astro";
+import Transfers from "./Transfers.astro";
+import Treaties from "./Treaties.astro";
+import { provinceProfile } from "./data";
+
+interface Props {
+  /** Page slug of the province or territory, e.g. "quebec". */
+  province: string;
+}
+
+const { province } = Astro.props;
+if (!province) throw new Error('province-profile: missing data-province="<slug>"');
+const p = provinceProfile(province);
+
+const sections = [
+  { id: "population", label: "Population and seats" },
+  { id: "election", label: "2025 federal election" },
+  { id: "transfers", label: "Federal transfers" },
+  { id: "premiers", label: "Premiers" },
+  { id: "treaties", label: "Treaty areas" },
+  ...(p.language ? [{ id: "language", label: "Language" }] : []),
+].map((s) => ({ ...s, id: `in-numbers-${s.id}` }));
+const idOf = (key: string) => `in-numbers-${key}`;
+---
+
+<div class="pp not-prose">
+  <nav aria-label="In numbers" class="pp-nav">
+    <ul class="flex flex-wrap gap-2 text-sm">
+      {
+        sections.map((s) => (
+          <li>
+            <a href={`#${s.id}`} class="pp-chip">
+              {s.label}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </nav>
+
+  <section aria-labelledby={idOf("population")}>
+    <h3 id={idOf("population")} class="pp-h">Population and seats</h3>
+    <Population p={p} />
+  </section>
+
+  <section aria-labelledby={idOf("election")}>
+    <h3 id={idOf("election")} class="pp-h">2025 federal election</h3>
+    <Election p={p} />
+  </section>
+
+  <section aria-labelledby={idOf("transfers")}>
+    <h3 id={idOf("transfers")} class="pp-h">Federal transfers</h3>
+    <Transfers p={p} />
+  </section>
+
+  <section aria-labelledby={idOf("premiers")}>
+    <h3 id={idOf("premiers")} class="pp-h">Premiers</h3>
+    <Premiers p={p} />
+  </section>
+
+  <section aria-labelledby={idOf("treaties")}>
+    <h3 id={idOf("treaties")} class="pp-h">Treaty areas</h3>
+    <Treaties p={p} />
+  </section>
+
+  {
+    p.language && (
+      <section aria-labelledby={idOf("language")}>
+        <h3 id={idOf("language")} class="pp-h">
+          Language
+        </h3>
+        <Language p={p} />
+      </section>
+    )
+  }
+</div>
+
+<!-- Global, with pp- names, so the hundreds of bars, rows and map paths carry no scoping attributes. -->
+<style is:global>
+  .pp {
+    margin-block: 1.5rem 2.5rem;
+  }
+  .pp-chip {
+    display: inline-block;
+    border: 1px solid var(--tn-border);
+    border-radius: 999px;
+    padding: 0.25rem 0.75rem;
+    color: var(--tn-text-secondary);
+    background: var(--tn-surface);
+    text-decoration: none;
+  }
+  .pp-chip:hover {
+    border-color: var(--tn-border-strong);
+    color: var(--tn-text-primary);
+  }
+  .pp-h {
+    margin-top: 2.5rem;
+    scroll-margin-top: 6rem;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: var(--tn-text-primary);
+  }
+  .pp-a {
+    text-decoration: underline;
+    text-decoration-color: var(--tn-border-strong);
+    text-underline-offset: 2px;
+  }
+  .pp-a:hover {
+    color: var(--tn-accent);
+  }
+  /* The first card follows its heading closely. */
+  .pp section > figure:first-of-type {
+    margin-top: 1rem;
+  }
+  /* Population.astro */
+  .pp-bar {
+    transition: opacity 120ms ease-out;
+  }
+  .pp-bars[data-active] .pp-bar:not(.is-active) {
+    opacity: 0.5;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .pp-bar {
+      transition: none;
+    }
+  }
+  /* Election.astro */
+  .pp-seat {
+    background: var(--c);
+  }
+  .pp-vote {
+    background: color-mix(in srgb, var(--c) 30%, transparent);
+    box-shadow: inset 0 0 0 1px var(--c);
+  }
+  .pp-parties li {
+    border-radius: 0.375rem;
+    transition: opacity 120ms ease-out;
+  }
+  .pp-parties[data-active] li:not(.is-active) {
+    opacity: 0.5;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .pp-parties li {
+      transition: none;
+    }
+  }
+  /* Transfers.astro */
+  .pp-seg {
+    transition: opacity 120ms ease-out;
+  }
+  .pp-other .pp-seg {
+    opacity: 0.55;
+  }
+  .pp-tr[data-active] .pp-seg:not(.is-active) {
+    opacity: 0.4;
+  }
+  .pp-tr .pp-seg.is-active {
+    opacity: 1;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .pp-seg {
+      transition: none;
+    }
+  }
+</style>

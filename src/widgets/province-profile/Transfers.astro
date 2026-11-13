@@ -1,0 +1,225 @@
+---
+/**
+ * Major federal transfers per person in the latest year, this province
+ * against the others (provinces against provinces, territories against
+ * territories, with the provincial average), then equalization since
+ * 1957-58. The territories don't get equalization; the dataset has
+ * Territorial Formula Financing for the latest year only, so they get a
+ * sentence saying so instead of a history chart.
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import ChartTip from "../../components/charts/ChartTip.astro";
+import Legend from "../../components/charts/Legend.astro";
+import SeriesChart from "../../components/charts/SeriesChart.astro";
+import { compact, niceMax, niceTicks, tipRows } from "../../lib/charts";
+import { PROVINCES } from "../../lib/elections-constants";
+import { formatMillions, transfers } from "../../lib/money";
+import { dollars, num, possessive, withArticle } from "../../lib/province-profile";
+import type { ProvinceProfile } from "./data";
+
+interface Props {
+  p: ProvinceProfile;
+}
+const { p } = Astro.props;
+const T = p.transfers;
+const PARTS = [
+  { key: "cht", label: "Canada Health Transfer", short: "Health", color: "var(--tn-data-cat-1)" },
+  { key: "cst", label: "Canada Social Transfer", short: "Social", color: "var(--tn-data-cat-3)" },
+  { key: "equalization", label: "Equalization", short: "Equalization", color: "var(--tn-data-cat-2)" },
+  { key: "tff", label: "Territorial Formula Financing", short: "TFF", color: "var(--tn-data-cat-4)" },
+] as const;
+type Key = (typeof PARTS)[number]["key"];
+
+// Peers: provinces with provinces, territories with territories; then the provincial average.
+const peers = T.all.filter((r) => PROVINCES[r.province].territory === p.territory).sort((a, b) => b.total - a.total);
+const rows = [
+  ...peers.map((r) => ({ key: r.province, label: PROVINCES[r.province].en, short: PROVINCES[r.province].short, pp: r as Record<Key, number> & { total: number }, mine: r.province === p.code, avg: false })),
+  { key: "avg", label: "Average, all provinces", short: "Avg.", pp: T.provinceAvg as Record<Key, number> & { total: number }, mine: false, avg: true },
+];
+const used = PARTS.filter((part) => rows.some((r) => r.pp[part.key] > 0));
+const max = Math.max(...rows.map((r) => r.pp.total));
+const ticks = niceTicks(0, niceMax(max, 3), 3);
+const domain = Math.max(ticks.at(-1)!, max);
+const w = (v: number) => `${((100 * v) / domain).toFixed(2)}%`;
+const Name = withArticle(p.name).replace(/^the/, "The");
+const eq = T.equalization;
+const E = transfers.equalization;
+const years = E.years.map((l) => Number(l.slice(0, 4)));
+const eqMax = eq ? Math.max(...eq.realPerPerson, 1) : 1;
+const eqYMax = niceMax(eqMax, 4);
+---
+
+<ChartCard
+  title={`Major transfers per person, ${T.label}`}
+  lede={T.takeaway}
+  sources={[{ label: `Finance Canada, Historical Transfer Tables (${T.label} allocations and population)`, url: transfers._meta.url }]}
+  tableLabel="Show the data"
+>
+  <Legend items={used.map((part) => ({ label: part.label, color: part.color }))} />
+  <tn-chart
+    class="pp-tr mt-4"
+    data-tip-place="side"
+    role="group"
+    aria-label={`Major federal transfers per person, ${p.territory ? "territories" : "provinces"} and the provincial average, with ${withArticle(p.name)} highlighted. Use the arrow keys to move between transfers.`}
+  >
+    <div class="grid grid-cols-[5.5rem_minmax(0,1fr)_4.25rem] items-center gap-x-3 text-xs text-muted sm:grid-cols-[11rem_minmax(0,1fr)_4.5rem]" aria-hidden="true">
+      <span></span>
+      <div class="relative h-4">
+        {
+          ticks.map((t, i) => (
+            <span class:list={["absolute tabular-nums", i === 0 ? "" : i === ticks.length - 1 && t >= domain ? "-translate-x-full" : "-translate-x-1/2"]} style={`left:${w(t)}`}>
+              {t === 0 ? "$0" : `$${compact(t)}`}
+            </span>
+          ))
+        }
+      </div>
+      <span class="text-end">Total</span>
+    </div>
+    <ul class="mt-1">
+      {
+        rows.map((r, row) => (
+          <li class:list={["grid grid-cols-[5.5rem_minmax(0,1fr)_4.25rem] items-center gap-x-3 py-1 sm:grid-cols-[11rem_minmax(0,1fr)_4.5rem]", r.mine ? "pp-mine" : "pp-other", r.avg && "mt-1 border-t border-subtle pt-2"]}>
+            <span class:list={["truncate text-xs sm:text-sm", r.mine ? "font-semibold text-primary" : "text-secondary"]}>
+              <span class="sm:hidden" aria-hidden="true">
+                {r.short}
+              </span>
+              <span class="hidden sm:inline">{r.label}</span>
+              <span class="sr-only sm:hidden">{r.label}</span>
+            </span>
+            <div class="relative h-5">
+              {ticks.map((t) => (
+                <span class="absolute inset-y-0 w-px bg-subtle" style={`left:${w(t)}`} aria-hidden="true" />
+              ))}
+              <div class="relative flex h-full overflow-hidden rounded-e-md bg-surface" style={`width:${w(r.pp.total)}`}>
+                {used
+                  .filter((part) => r.pp[part.key] > 0)
+                  .map((part) => (
+                    <span
+                      class="pp-seg h-full border-e-2 border-surface last:border-e-0 focus-visible:outline-offset-0"
+                      style={`width:${((100 * r.pp[part.key]) / r.pp.total).toFixed(2)}%;background:${part.color}`}
+                      data-tip=""
+                      data-tip-title={`${r.label}: ${part.label}`}
+                      data-tip-rows={tipRows([
+                        ["Per person", dollars(r.pp[part.key]), part.color],
+                        ["All major transfers", dollars(r.pp.total)],
+                      ])}
+                      data-row={row}
+                      data-start={r.mine && part === used.find((u) => r.pp[u.key] > 0) ? "" : undefined}
+                      aria-label={`${r.label}, ${part.label}: ${dollars(r.pp[part.key])} per person`}
+                    />
+                  ))}
+              </div>
+            </div>
+            <span class:list={["text-end text-xs tabular-nums sm:text-sm", r.mine ? "font-semibold text-primary" : "text-secondary"]}>{dollars(r.pp.total)}</span>
+          </li>
+        ))
+      }
+    </ul>
+    <ChartTip />
+  </tn-chart>
+  <p class="mt-3 text-xs text-muted">
+    Dollars per resident in fiscal year {T.label}, cash payments, using the population Finance Canada uses to share out the transfers.
+    {p.territory ? " Territories are compared with each other; their transfers per person are on a different scale from the provinces'." : ""}{" "}
+    <a href="/learn/federalism/money-and-equalization" class="underline decoration-strong underline-offset-2 hover:text-accent">How the transfers work</a>.
+  </p>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">{p.territory ? "Territory" : "Province"}</th>
+          {used.map((part) => <th scope="col">{part.short}</th>)}
+          <th scope="col">Total</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          rows.map((r) => (
+            <tr>
+              <th scope="row" class:list={[r.mine ? "font-semibold" : "font-normal"]}>
+                {r.label}
+              </th>
+              {used.map((part) => (
+                <td>{r.pp[part.key] ? dollars(r.pp[part.key]) : "—"}</td>
+              ))}
+              <td>{dollars(r.pp.total)}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <caption>
+        Dollars per person, fiscal year {T.label}. {possessive(p.name).replace(/^the/, "The")} payments in millions: health {num(T.mine.row.cht)}, social {num(T.mine.row.cst)}{T.mine.row.equalization ? `, equalization ${num(T.mine.row.equalization)}` : ""}{T.mine.row.tff ? `, Territorial Formula Financing ${num(T.mine.row.tff)}` : ""}.
+      </caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+{
+  eq ? (
+    <ChartCard
+      title={`${Name} and equalization, ${E.years[0]} to ${E.years.at(-1)}`}
+      lede={eq.takeaway}
+      sources={[{ label: "Finance Canada, Historical Transfer Tables (equalization entitlements, 1957-58 on)", url: transfers._meta.url }]}
+      tableLabel="Show the data"
+    >
+      <p class="text-xs text-muted">Equalization per person each fiscal year, in {T.baseYear} dollars (adjusted for inflation with the consumer price index). No bar means no payment.</p>
+      <SeriesChart
+        title={`Equalization per person in ${withArticle(p.name)}, ${E.years[0]} to ${E.years.at(-1)}`}
+        desc={eq.takeaway}
+        height={190}
+        xMin={years[0]! - 0.5}
+        xMax={years.at(-1)! + 0.5}
+        yMin={0}
+        yMax={eqYMax}
+        yTicks={niceTicks(0, eqYMax, 4)}
+        yFormat={(v) => dollars(v)}
+        xTicks={[1960, 1980, 2000, 2020]}
+        bars={{ points: years.flatMap((y, i) => (eq.paid[i] ? [[y, eq.realPerPerson[i]!] as [number, number]] : [])), pos: "var(--tn-data-cat-2)", neg: "var(--tn-data-cat-2)" }}
+        hover={{
+          xs: years,
+          labels: E.years,
+          labelPrefix: "Fiscal year ",
+          series: [
+            { label: `Per person, ${T.baseYear} $`, color: "var(--tn-data-cat-2)", pre: "$", dp: 0 },
+            { label: "Paid that year", color: "var(--tn-text-muted)", pre: "$", suf: " million", dp: 0, dot: false },
+          ],
+          values: [eq.realPerPerson, eq.paid.map((v) => (v ? v : null))],
+        }}
+        hoverLabel={`Equalization per person in ${withArticle(p.name)}: use the left and right arrow keys to read each year`}
+      />
+
+      <Fragment slot="table">
+        <div class="max-h-80 overflow-auto">
+          <table>
+            <thead class="sticky top-0">
+              <tr>
+                <th scope="col">Fiscal year</th>
+                <th scope="col">Paid, $ millions</th>
+                <th scope="col">Per person, {T.baseYear} $</th>
+              </tr>
+            </thead>
+            <tbody>
+              {[...E.years.keys()].reverse().map((i) => (
+                <tr>
+                  <th scope="row" class="font-normal">
+                    {E.years[i]}
+                  </th>
+                  <td>{eq.paid[i] ? num(eq.paid[i]!) : "—"}</td>
+                  <td>{eq.paid[i] ? dollars(eq.realPerPerson[i]!) : "—"}</td>
+                </tr>
+              ))}
+            </tbody>
+            <caption>
+              Includes payments and additional amounts; excludes Total Transfer Protection (2010-11 to 2013-14). A dash means no payment. In all, {formatMillions(eq.paid.reduce((a, b) => a + b, 0))} as paid at the time.
+            </caption>
+          </table>
+        </div>
+      </Fragment>
+    </ChartCard>
+  ) : (
+    <p class="mt-4 rounded-lg bg-surface-muted p-4 text-sm text-secondary">
+      Territories aren't part of equalization. They receive <strong class="text-primary">Territorial Formula Financing</strong> instead (in the chart
+      above). This site's transfer data has Territorial Formula Financing for {T.label} only, so there is no history to chart here.
+    </p>
+  )
+}

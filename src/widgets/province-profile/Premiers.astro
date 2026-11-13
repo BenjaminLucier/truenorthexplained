@@ -1,0 +1,37 @@
+---
+/** This province's row of the premiers ribbon (the same component the /provinces page uses), on an axis from its first premier to today. */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import { uniqueId } from "../../lib/ids";
+import { possessive, withArticle } from "../../lib/province-profile";
+import Ribbon from "../premiers-ribbon/Ribbon.astro";
+import RibbonTable from "../premiers-ribbon/RibbonTable.astro";
+import type { ProvinceProfile } from "./data";
+
+interface Props {
+  p: ProvinceProfile;
+}
+const { p } = Astro.props;
+const id = uniqueId(Astro, "premiers", p.slug);
+const first = p.premiers.gov.terms[0];
+const from = first ? Number(first.start.slice(0, 4)) : 1867;
+const Name = possessive(p.name).replace(/^the/, "The");
+---
+
+<ChartCard
+  title={`${Name} premiers since ${from}`}
+  lede={p.premiers.takeaway}
+  sources={[
+    { label: "Wikidata, premiers of each province and territory (CC0)", url: "https://www.wikidata.org/" },
+    { label: "Wikipedia, lists of premiers and their articles (CC BY-SA 4.0)", url: "https://en.wikipedia.org/wiki/List_of_current_Canadian_first_ministers" },
+  ]}
+  tableLabel="Show the data"
+>
+  <Ribbon id={id} slugs={[p.slug]} from={from} label={`Premiers of ${withArticle(p.name)}; use the arrow keys to move between premiers`} />
+  <p class="mt-2 text-xs text-muted">
+    <a href="/provinces#premiers-ribbon" class="underline decoration-strong underline-offset-2 hover:text-accent">Compare all 13 provinces and territories</a>.
+  </p>
+
+  <Fragment slot="table">
+    <RibbonTable slugs={[p.slug]} />
+  </Fragment>
+</ChartCard>

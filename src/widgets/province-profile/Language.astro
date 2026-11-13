@@ -1,0 +1,90 @@
+---
+/**
+ * Mother tongue at each census since 1951, for the provinces the language
+ * dataset covers (Quebec, New Brunswick and Ontario). The profile leaves this
+ * section out elsewhere.
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import Legend from "../../components/charts/Legend.astro";
+import SeriesChart from "../../components/charts/SeriesChart.astro";
+import languageData from "../../data/demographics/language.json";
+import { LANGUAGES, num, withArticle } from "../../lib/province-profile";
+import type { ProvinceProfile } from "./data";
+
+interface Props {
+  p: ProvinceProfile;
+}
+const { p } = Astro.props;
+const lang = p.language;
+const COLORS = { englishPct: "var(--tn-data-cat-1)", frenchPct: "var(--tn-data-cat-2)", otherPct: "var(--tn-data-cat-3)" } as const;
+const pts = lang ? [...lang.series.points].sort((a, b) => a.year - b.year) : [];
+const first = pts[0];
+const last = pts.at(-1);
+---
+
+{
+  lang && first && last && lang.takeaway && (
+    <ChartCard
+      title={`Mother tongue in ${withArticle(p.name)}, ${first.year} to ${last.year}`}
+      lede={lang.takeaway}
+      sources={[{ label: "Statistics Canada, table 15-10-0031-01: population by mother tongue, 1951 to 2021", url: languageData._meta.url }]}
+      tableLabel="Show the data"
+    >
+      <Legend items={LANGUAGES.map((l) => ({ label: l.label, color: COLORS[l.key], kind: "line" as const }))} />
+      <p class="mt-1 text-xs text-muted">Share of the population whose mother tongue is that language, at each census.</p>
+      <SeriesChart
+        title={`Mother tongue in ${withArticle(p.name)}, ${first.year} to ${last.year}`}
+        desc={lang.takeaway}
+        height={210}
+        xMin={first.year}
+        xMax={last.year}
+        yMin={0}
+        yMax={100}
+        yTicks={[0, 25, 50, 75, 100]}
+        yFormat={(v) => `${v}%`}
+        xTicks={[1951, 1971, 1991, 2011].filter((y) => y >= first.year && y <= last.year)}
+        lines={LANGUAGES.map((l) => ({ points: pts.map((d) => [d.year, d[l.key]] as [number, number]), color: COLORS[l.key] }))}
+        hover={{
+          xs: pts.map((d) => d.year),
+          labels: pts.map((d) => `Census of ${d.year}`),
+          series: LANGUAGES.map((l) => ({ label: l.label, color: COLORS[l.key], suf: "%", dp: 1 })),
+          values: LANGUAGES.map((l) => pts.map((d) => d[l.key])),
+        }}
+        hoverLabel={`Mother tongue in ${withArticle(p.name)}: use the left and right arrow keys to read each census`}
+      />
+      <p class="mt-2 text-xs text-muted">
+        Mother tongue is the first language learned at home in childhood and still understood. People who reported more than one are shared among
+        the languages they reported.{" "}
+        <a href="/demographics#demographics-7" class="underline decoration-strong underline-offset-2 hover:text-accent">Compare with Canada</a>.
+      </p>
+
+      <Fragment slot="table">
+        <table>
+          <thead>
+            <tr>
+              <th scope="col">Census</th>
+              <th scope="col">English</th>
+              <th scope="col">French</th>
+              <th scope="col">Other</th>
+              <th scope="col">Population</th>
+            </tr>
+          </thead>
+          <tbody>
+            {[...pts].reverse().map((d) => (
+              <tr>
+                <th scope="row" class="font-normal">
+                  {d.year}
+                </th>
+                <td>{d.englishPct.toFixed(1)}%</td>
+                <td>{d.frenchPct.toFixed(1)}%</td>
+                <td>{d.otherPct.toFixed(1)}%</td>
+                <td>{num(d.total)}</td>
+              </tr>
+            ))}
+          </tbody>
+          <caption>Census counts, each in its own year's boundaries.</caption>
+        </table>
+      </Fragment>
+    </ChartCard>
+  )
+}

@@ -21,6 +21,10 @@ status: draft
 
 > **As of 2026:** The Legislative Assembly has 19 members, elected from 19 ridings.
 
+## In numbers
+
+<tn-widget name="province-profile" data-province="northwest-territories"></tn-widget>
+
 ## How it's governed
 
 The Northwest Territories (NWT) is a **territory**, not a province. That difference
