@@ -28,6 +28,9 @@ it. There's no separate vote for Prime Minister and no national vote for parties
 
 > **As of 2026:** There are 343 ridings, so 343 MPs.
 
+To see every riding and who won it in 2025, or to find your own, use the
+[ridings map](/ridings).
+
 Most candidates run for a **political party**, and their party appears on the ballot next to
 their name. Many voters choose based on the party or its leader more than the local
 candidate. Legally, though, you're electing one person to represent your area.

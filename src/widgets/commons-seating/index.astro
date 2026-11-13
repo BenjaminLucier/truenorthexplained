@@ -8,6 +8,7 @@
 import ChartCard from "../../components/charts/ChartCard.astro";
 import { PARTIES, commons, electionSeats, formatDate, nationalResult, ridingsMeta, type PartyKey } from "../../lib/elections";
 import { fillSeats, hemicycle, r2 } from "../../lib/hemicycle";
+import { uniqueId } from "../../lib/ids";
 
 type Key = PartyKey | "vacant";
 /** Left to right around the chamber. */
@@ -16,7 +17,7 @@ const ORDER: Key[] = ["lpc", "ndp", "gpc", "bq", "other", "cpc", "vacant"];
 const total = commons.seats;
 const majority = commons.majority;
 const layout = hemicycle(total, 11, 300, 0.4);
-const uid = `cs${Math.random().toString(36).slice(2, 8)}`;
+const uid = uniqueId(Astro, "cs");
 
 const cap = (s: string) => s[0]!.toUpperCase() + s.slice(1);
 const label = (k: Key) => (k === "vacant" ? "Vacant" : PARTIES[k].en);

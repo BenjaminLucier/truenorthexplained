@@ -1,0 +1,1418 @@
+---
+/**
+ * All 343 federal ridings, coloured by the 2025 result.
+ *
+ *   <tn-widget name="ridings-explorer"></tn-widget>
+ *
+ * Built at build time: the national map, one map per city inset (INSETS in
+ * geo.ts) and a table of every riding. Without JavaScript the "colour by" and
+ * "zoom to" controls still work (radio buttons and CSS :has()), each riding on
+ * the map links to its table row (#r-<fed>), and the table has every number.
+ *
+ * With JavaScript: selecting a riding (click, tap, arrow keys on the map,
+ * search, the table, or "find my riding") opens a detail panel. Candidate
+ * results load on first use from /data/riding-results.json. "Find my riding"
+ * loads /data/ridings.topo.json and does the point-in-polygon test in the
+ * browser (locate.ts); the reader's position never leaves the device.
+ */
+import { geoBounds, geoPath } from "d3-geo";
+import type { Feature, FeatureCollection } from "geojson";
+import CanadaMap from "../../components/map/CanadaMap.astro";
+import { INSETS, canadaProjection, ridingFeatures, type MapFeature } from "../../components/map/geo";
+import { PARTIES, PARTY_KEYS, commons, formatDate, formatNumber, ridingsMeta, type PartyKey } from "../../lib/elections";
+import { uniqueId } from "../../lib/ids";
+import { MARGIN_BINS, TURNOUT_BINS, binFor, provinceName, provinceShort, resultByFed, results } from "./data";
+import "../../styles/segmented.css";
+
+interface Props {
+  /** Unique id prefix, if the page has more than one explorer. */
+  id?: string;
+}
+
+const id = Astro.props.id ?? uniqueId(Astro, "re");
+const ridings = ridingFeatures();
+const WIDTH = 800;
+const PAD = 6;
+
+// The national map's natural height (as CanadaMap would work it out), shared by
+// every inset so switching views doesn't change the size of the map.
+const fit: FeatureCollection = { type: "FeatureCollection", features: ridings as Feature[] };
+const projection = canadaProjection().fitWidth(WIDTH - PAD * 2, fit);
+const [[, top], [, bottom]] = geoPath(projection).bounds(fit);
+const HEIGHT = Math.ceil(bottom - top + PAD * 2);
+
+/** Which inset a riding belongs to: the one whose box holds the centre of the riding's bounding box. */
+const homeInset = new Map<number, string>();
+for (const f of ridings) {
+  const [[w, s], [e, n]] = geoBounds(f);
+  const cx = (w + e) / 2;
+  const cy = (s + n) / 2;
+  const box = INSETS.find((i) => cx >= i.bounds[0] && cx <= i.bounds[2] && cy >= i.bounds[1] && cy <= i.bounds[3]);
+  if (box) homeInset.set(f.properties.fed, box.id);
+}
+
+/**
+ * City markers on the national map; clicking one zooms in. Projected exactly as
+ * CanadaMap fits the national map, and never smaller than MIN units across, so
+ * they stay visible and clickable.
+ */
+const national = canadaProjection().fitExtent(
+  [
+    [PAD, PAD],
+    [WIDTH - PAD, HEIGHT - PAD],
+  ],
+  fit,
+);
+const MIN = 18;
+const r1 = (n: number) => Math.round(n * 10) / 10;
+const markers = INSETS.map((i) => {
+  const [x0, y0] = national([i.bounds[0], i.bounds[3]])!;
+  const [x1, y1] = national([i.bounds[2], i.bounds[1]])!;
+  const w = Math.max(x1 - x0, MIN);
+  const h = Math.max(y1 - y0, MIN);
+  return { id: i.id, label: i.label, x: r1((x0 + x1 - w) / 2), y: r1((y0 + y1 - h) / 2), w: r1(w), h: r1(h) };
+});
+
+const partyName = (k: PartyKey) => (k === "other" ? "Other" : PARTIES[k].en);
+
+const riding = (f: MapFeature<any>) => {
+  const fed = f.properties.fed as number;
+  const r = resultByFed.get(fed);
+  if (!r) throw new Error(`ridings-explorer: no result for district ${fed}`);
+  return {
+    href: `#r-${fed}`,
+    label: `${r.nameEn} (${provinceShort(r.province)}): ${partyName(r.party)}`,
+    class: `p-${r.party} m${binFor(MARGIN_BINS, r.margin).step} t${binFor(TURNOUT_BINS, r.turnout).step}`,
+    data: { fed, inset: homeInset.get(fed) },
+    linkAttrs: { tabindex: "-1" },
+  };
+};
+
+// Legends, with counts.
+const seats = PARTY_KEYS.map((k) => ({ key: k, n: results.filter((r) => r.party === k).length })).filter((p) => p.n > 0);
+const marginLegend = MARGIN_BINS.map((b) => ({ ...b, n: results.filter((r) => b.test(r.margin)).length }));
+const turnoutLegend = TURNOUT_BINS.map((b) => ({ ...b, n: results.filter((r) => b.test(r.turnout)).length }));
+const closest = [...results].sort((a, b) => a.marginVotes - b.marginVotes)[0]!;
+
+// Colours and views as CSS, generated from the same tables so they can't drift.
+// Scoped to this widget's id; the radio buttons drive everything through :has().
+const root = `#${id}`;
+const mode = (m: string) => `${root}:has(input[name="${id}-mode"][value="${m}"]:checked)`;
+const css = [
+  ...PARTY_KEYS.map((k) => `${mode("party")} .p-${k}{--f:var(--tn-party-${k})}`),
+  ...[1, 2, 3, 4, 5, 6].map((s) => `${mode("margin")} .m${s}{--f:var(--tn-data-seq-${s})}`),
+  ...[1, 2, 3, 4, 5, 6].map((s) => `${mode("turnout")} .t${s}{--f:var(--tn-data-seq-${s})}`),
+  ...["party", "margin", "turnout"].map((m) => `${mode(m)} .re-legend[data-mode="${m}"]{display:block}`),
+  ...["canada", ...INSETS.map((i) => i.id)].map(
+    (v) => `${root}:has(input[name="${id}-view"][value="${v}"]:checked) .re-map[data-view="${v}"]{display:block}`,
+  ),
+].join("");
+
+const sorted = [...results].sort((a, b) => a.fed - b.fed);
+const membersAsOf = formatDate(commons._meta.fetched);
+const searchNames = [...new Set(results.flatMap((r) => [r.nameEn, ...(r.renamed ? [r.renamed.en] : [])]))].sort((a, b) =>
+  a.localeCompare(b, "en-CA"),
+);
+
+// The table and the datalist are large and plain, so they're built as strings:
+// that keeps Astro's scoping attributes off each of their thousands of elements.
+const esc = (t: string) => t.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+const datalistHtml = searchNames.map((n) => `<option value="${esc(n)}">`).join("");
+const rowsHtml = sorted
+  .map(
+    (r) =>
+      `<tr id="r-${r.fed}" data-fed="${r.fed}"><th scope="row"><a href="#r-${r.fed}" class="re-row-link">${esc(r.nameEn)}</a></th>` +
+      `<td><abbr title="${esc(provinceName(r.province))}">${esc(provinceShort(r.province))}</abbr></td>` +
+      `<td>${esc(r.winner)}</td>` +
+      `<td><span class="re-dot" style="--swatch:var(--tn-party-${r.party})"></span>${esc(partyName(r.party))}</td>` +
+      `<td data-v="${((100 * r.marginVotes) / r.validVotes).toFixed(4)}">${r.margin.toFixed(1)}</td><td>${r.turnout.toFixed(1)}%</td></tr>`,
+  )
+  .join("");
+---
+
+<tn-ridings-explorer id={id} class="re not-prose my-8 block" data-results="/data/riding-results.json" data-topo="/data/ridings.topo.json">
+  <style is:inline set:html={css}></style>
+  <div class="rounded-card border border-subtle bg-surface p-4 shadow-card sm:p-6">
+    <div class="re-toolbar">
+      <fieldset class="re-mode">
+        <legend class="mb-1.5 text-xs font-semibold tracking-wide text-muted uppercase">Colour by</legend>
+        <div class="tn-segmented">
+          <label><input type="radio" name={`${id}-mode`} value="party" checked /><span>Party</span></label>
+          <label><input type="radio" name={`${id}-mode`} value="margin" /><span>Margin</span></label>
+          <label><input type="radio" name={`${id}-mode`} value="turnout" /><span>Turnout</span></label>
+        </div>
+      </fieldset>
+
+      <form class="re-search js-only" role="search" aria-label="Ridings">
+        <label for={`${id}-q`} class="mb-1.5 block text-xs font-semibold tracking-wide text-muted uppercase">Find a riding by name</label>
+        <div class="flex gap-2">
+          <input
+            id={`${id}-q`}
+            type="search"
+            list={`${id}-names`}
+            autocomplete="off"
+            spellcheck="false"
+            placeholder="e.g. Halifax"
+            class="re-input min-w-0 flex-1"
+          />
+          <button type="submit" class="re-button">Show</button>
+        </div>
+        <datalist id={`${id}-names`} set:html={datalistHtml} />
+      </form>
+
+      <div class="re-locate js-only">
+        <span class="mb-1.5 block text-xs font-semibold tracking-wide text-muted uppercase" aria-hidden="true">Or</span>
+        <button type="button" class="re-button re-locate-button" aria-describedby={`${id}-privacy`}>
+          <svg viewBox="0 0 24 24" class="size-4" aria-hidden="true">
+            <path d="M12 2v3M12 19v3M2 12h3M19 12h3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+            <circle cx="12" cy="12" r="7" fill="none" stroke="currentColor" stroke-width="2" />
+            <circle cx="12" cy="12" r="2.5" fill="currentColor" />
+          </svg>
+          Find my riding
+        </button>
+      </div>
+    </div>
+    <p id={`${id}-privacy`} class="js-only mt-2 text-xs text-muted">
+      "Find my riding" asks your browser for your location and matches it against the riding boundaries on your device.
+      Your location is never sent to this site or anyone else.
+    </p>
+    <p class="re-status js-only mt-2 min-h-5 text-sm text-secondary" role="status"></p>
+
+    <div class="re-body mt-4">
+      <fieldset class="re-views">
+        <legend class="mb-1.5 text-xs font-semibold tracking-wide text-muted uppercase">Zoom to</legend>
+        <div class="re-chips">
+          <label><input type="radio" name={`${id}-view`} value="canada" checked /><span>All of Canada</span></label>
+          {
+            INSETS.map((i) => (
+              <label>
+                <input type="radio" name={`${id}-view`} value={i.id} />
+                <span>{i.label}</span>
+              </label>
+            ))
+          }
+        </div>
+      </fieldset>
+
+      <div class="re-stage">
+        <div class="re-map" data-view="canada">
+          <CanadaMap
+            id={`${id}-canada`}
+            features={ridings}
+            width={WIDTH}
+            height={HEIGHT}
+            padding={PAD}
+            precision={0}
+            minArea={1.5}
+            title="Map of Canada's 343 federal ridings, coloured by the 2025 election result"
+            desc="Each riding links to its row in the table of all ridings after the map. Squares mark the cities you can zoom in to."
+            role="group"
+            item={riding}
+          >
+            <path class="re-outline" d="" aria-hidden="true" />
+            <circle class="re-ring" r="0" aria-hidden="true" />
+            {
+              markers.map((m) => (
+                <g class="re-box" data-inset={m.id} data-label={`${m.label}: select to zoom in`} aria-hidden="true">
+                  <rect class="re-box-halo" x={m.x} y={m.y} width={m.w} height={m.h} rx="3" />
+                  <rect x={m.x} y={m.y} width={m.w} height={m.h} rx="3" />
+                </g>
+              ))
+            }
+          </CanadaMap>
+        </div>
+        {
+          INSETS.map((i) => (
+            <div class="re-map" data-view={i.id}>
+              <CanadaMap
+                id={`${id}-${i.id}`}
+                features={ridings}
+                bounds={i.bounds}
+                width={WIDTH}
+                height={HEIGHT}
+                padding={0}
+                precision={0}
+                minArea={2}
+                tolerance={1.2}
+                title={`Map of the federal ridings in and around ${i.label}`}
+                role="group"
+                item={riding}
+              >
+                <path class="re-outline" d="" aria-hidden="true" />
+                <circle class="re-ring" r="0" aria-hidden="true" />
+              </CanadaMap>
+            </div>
+          ))
+        }
+        <div class="re-tip" aria-hidden="true"></div>
+      </div>
+
+      <section class="re-panel js-only" aria-labelledby={`${id}-panel-title`} tabindex="-1">
+        <div class="re-idle">
+          <h3 id={`${id}-panel-title`} class="font-semibold text-primary">Riding details</h3>
+          <p class="mt-1 text-sm text-secondary">
+            Select a riding on the map, search for one by name, or use "Find my riding". On the map, the arrow keys move between
+            neighbouring ridings.
+          </p>
+        </div>
+        <div class="re-details" hidden></div>
+      </section>
+
+      <div class="re-legends">
+        <div class="re-legend" data-mode="party">
+          <p class="re-legend-title">Party that won the riding in 2025 (seats)</p>
+          <ul class="re-legend-list">
+            {
+              seats.map((p) => (
+                <li>
+                  <span class="re-swatch" style={`--swatch:var(--tn-party-${p.key})`} aria-hidden="true" />
+                  {partyName(p.key)} <span class="text-muted tabular-nums">{p.n}</span>
+                </li>
+              ))
+            }
+          </ul>
+        </div>
+        <div class="re-legend" data-mode="margin">
+          <p class="re-legend-title">Winner's lead over the runner-up</p>
+          <ul class="re-legend-list">
+            {
+              marginLegend.map((b) => (
+                <li>
+                  <span class="re-swatch" style={`--swatch:var(--tn-data-seq-${b.step})`} aria-hidden="true" />
+                  {b.label} <span class="text-muted tabular-nums">({b.n})</span>
+                </li>
+              ))
+            }
+          </ul>
+          <p class="mt-2 text-xs text-muted">
+            Points are percentage points of valid votes. The closest race was {closest.nameEn}, decided by{" "}
+            {formatNumber(closest.marginVotes)} {closest.marginVotes === 1 ? "vote" : "votes"}.
+          </p>
+        </div>
+        <div class="re-legend" data-mode="turnout">
+          <p class="re-legend-title">Turnout: share of registered electors who voted</p>
+          <ul class="re-legend-list">
+            {
+              turnoutLegend.map((b) => (
+                <li>
+                  <span class="re-swatch" style={`--swatch:var(--tn-data-seq-${b.step})`} aria-hidden="true" />
+                  {b.label} <span class="text-muted tabular-nums">({b.n})</span>
+                </li>
+              ))
+            }
+          </ul>
+        </div>
+      </div>
+
+      <p class="re-caption text-xs text-muted">
+        Results: <a href={ridingsMeta.url}>Elections Canada, official voting results, April 28, 2025</a>. Boundaries:{" "}
+        <a href="https://open.canada.ca/data/en/dataset/18bf3ea7-1940-46ec-af52-9ba3f77ed708">Elections Canada federal electoral districts (2023)</a>, clipped to{" "}
+        <a href="https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm">Statistics Canada boundary files</a>. Both
+        under the <a href="https://open.canada.ca/en/open-government-licence-canada">Open Government Licence – Canada</a>. Current MPs:
+        House of Commons, as of {membersAsOf}.
+      </p>
+    </div>
+  </div>
+
+  <details class="re-table-wrap group mt-4 rounded-card border border-subtle bg-surface">
+    <summary class="flex cursor-pointer list-none items-center justify-between gap-3 rounded-card px-4 py-3 text-sm font-medium text-primary hover:bg-surface-muted [&::-webkit-details-marker]:hidden">
+      All 343 ridings as a table
+      <svg viewBox="0 0 24 24" class="size-4 shrink-0 text-muted transition-transform group-open:rotate-180" aria-hidden="true">
+        <path d="m6 9 6 6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      </svg>
+    </summary>
+    <p id={`${id}-table-note`} class="border-t border-subtle px-4 py-3 text-sm text-muted">
+      Margin is the winner's lead over the runner-up, in percentage points of valid votes. Turnout is the share of registered
+      electors who voted. Ridings are listed east to west, as Elections Canada numbers them<span class="js-only"
+        >; select a column heading to sort</span
+      >.
+    </p>
+    <div class="re-table overflow-x-auto border-t border-subtle">
+      <table aria-describedby={`${id}-table-note`}>
+        <caption class="sr-only">2025 federal election results by riding</caption>
+        <thead>
+          <tr>
+            <th scope="col" data-sort="name">Riding</th>
+            <th scope="col" data-sort="prov">Province</th>
+            <th scope="col" data-sort="winner">Winner</th>
+            <th scope="col" data-sort="party">Party</th>
+            <th scope="col" data-sort="margin" data-num>Margin</th>
+            <th scope="col" data-sort="turnout" data-num>Turnout</th>
+          </tr>
+        </thead>
+        <tbody set:html={rowsHtml} />
+      </table>
+    </div>
+  </details>
+</tn-ridings-explorer>
+
+<style>
+  .re-toolbar {
+    display: grid;
+    gap: 1rem;
+    align-items: end;
+  }
+  @media (min-width: 48rem) {
+    .re-toolbar {
+      grid-template-columns: auto minmax(12rem, 1fr) auto;
+    }
+  }
+  .re-mode .tn-segmented label {
+    padding-block: 0.4rem;
+  }
+
+  .re-input {
+    border: 1px solid var(--tn-border-strong);
+    border-radius: 0.5rem;
+    background: var(--tn-surface);
+    color: var(--tn-text-primary);
+    padding: 0.5rem 0.75rem;
+    font-size: 1rem;
+  }
+  .re-input::placeholder {
+    color: var(--tn-text-muted);
+  }
+  .re-input:focus-visible,
+  .re-button:focus-visible {
+    outline: 2px solid var(--tn-focus);
+    outline-offset: 2px;
+  }
+  .re-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    border: 1px solid var(--tn-border-strong);
+    border-radius: 0.5rem;
+    background: var(--tn-surface-muted);
+    color: var(--tn-text-primary);
+    padding: 0.5rem 0.875rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  .re-button:hover {
+    border-color: var(--tn-accent);
+    color: var(--tn-accent);
+  }
+  .re-button[aria-busy="true"] {
+    cursor: progress;
+    opacity: 0.7;
+  }
+  .re-locate-button {
+    width: 100%;
+  }
+
+  /* Layout: map and legend on the left, details on the right at desktop widths. */
+  .re-body {
+    display: grid;
+    gap: 1rem;
+    grid-template-areas: "views" "stage" "panel" "legend" "caption";
+  }
+  @media (min-width: 64rem) {
+    .re-body {
+      grid-template-columns: minmax(0, 1fr) 20rem;
+      grid-template-areas: "views panel" "stage panel" "legend panel" "caption panel";
+      grid-template-rows: auto auto auto 1fr;
+      column-gap: 1.5rem;
+    }
+    .re-panel {
+      position: sticky;
+      top: 6rem;
+      align-self: start;
+      max-height: calc(100dvh - 7rem);
+      overflow-y: auto;
+    }
+  }
+  .re-views {
+    grid-area: views;
+    min-width: 0;
+  }
+  .re-stage {
+    grid-area: stage;
+    position: relative;
+    border-radius: 0.75rem;
+    background: var(--tn-surface-muted);
+    overflow: hidden;
+  }
+  .re-panel {
+    grid-area: panel;
+  }
+  .re-legends {
+    grid-area: legend;
+  }
+  .re-caption {
+    grid-area: caption;
+  }
+  .re-caption a {
+    text-decoration: underline;
+    text-decoration-color: var(--tn-border-strong);
+    text-underline-offset: 2px;
+  }
+  .re-caption a:hover {
+    color: var(--tn-accent);
+  }
+
+  /* "Zoom to" chips: native radio buttons. */
+  .re-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.375rem;
+  }
+  .re-chips label {
+    position: relative;
+    display: block;
+  }
+  .re-chips input {
+    position: absolute;
+    inset: 0;
+    margin: 0;
+    appearance: none;
+    border-radius: 9999px;
+    cursor: pointer;
+  }
+  .re-chips span {
+    display: block;
+    pointer-events: none;
+    border: 1px solid var(--tn-border-strong);
+    border-radius: 9999px;
+    padding: 0.3rem 0.75rem;
+    font-size: 0.8125rem;
+    font-weight: 500;
+    color: var(--tn-text-secondary);
+    background: var(--tn-surface);
+  }
+  .re-chips label:hover span {
+    color: var(--tn-text-primary);
+    border-color: var(--tn-text-muted);
+  }
+  .re-chips input:checked + span {
+    background: var(--tn-text-primary);
+    border-color: var(--tn-text-primary);
+    color: var(--tn-surface);
+  }
+  .re-chips input:focus-visible {
+    outline: 2px solid var(--tn-focus);
+    outline-offset: 2px;
+  }
+
+  /* Maps. Only the checked view shows (rules generated in the frontmatter). */
+  .re-map {
+    display: none;
+  }
+  .re :global(.map-feature) {
+    fill: var(--f, var(--tn-border));
+    stroke: var(--tn-surface);
+    stroke-width: 0.6;
+    cursor: pointer;
+  }
+  .re [data-view]:not([data-view="canada"]) :global(.map-feature) {
+    stroke-width: 1.25;
+  }
+  .re :global(.map-link:hover .map-feature) {
+    fill-opacity: 0.72;
+  }
+  .re :global(.map-link.is-selected .map-feature) {
+    fill-opacity: 1;
+  }
+  .re-box {
+    cursor: zoom-in;
+  }
+  .re-box rect {
+    fill: color-mix(in srgb, var(--tn-surface) 25%, transparent);
+    stroke: var(--tn-text-primary);
+    stroke-width: 1.5;
+    vector-effect: non-scaling-stroke;
+  }
+  .re-box .re-box-halo {
+    fill: none;
+    stroke: var(--tn-surface);
+    stroke-width: 4;
+  }
+  .re-box:hover rect:not(.re-box-halo) {
+    fill: color-mix(in srgb, var(--tn-surface) 55%, transparent);
+    stroke-width: 2.5;
+  }
+  .re:not([data-ready]) .re-box {
+    pointer-events: none;
+  }
+  /* A ring around a selected riding that's too small to spot. */
+  .re-ring {
+    fill: none;
+    stroke: var(--tn-text-primary);
+    stroke-width: 2;
+    vector-effect: non-scaling-stroke;
+    pointer-events: none;
+    filter: drop-shadow(0 0 1.5px var(--tn-surface));
+  }
+  /* A hairline around the whole country, so pale fills still have an edge. */
+  .re :global(.canada-map) {
+    filter: drop-shadow(0 0 0.5px var(--tn-text-muted));
+  }
+  .re:not([data-ready]) :global(.map-link:focus-visible .map-feature) {
+    stroke: var(--tn-focus);
+    stroke-width: 2.5;
+  }
+  .re-outline {
+    fill: none;
+    stroke: var(--tn-text-primary);
+    stroke-width: 2.25;
+    stroke-linejoin: round;
+    vector-effect: non-scaling-stroke;
+    pointer-events: none;
+    filter: drop-shadow(0 0 1.5px var(--tn-surface));
+  }
+  .re[data-focus-visible] .re-outline {
+    stroke: var(--tn-focus);
+    stroke-width: 3;
+  }
+
+  .re-tip {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 5;
+    max-width: 16rem;
+    padding: 0.375rem 0.625rem;
+    border: 1px solid var(--tn-border);
+    border-radius: 0.5rem;
+    background: var(--tn-surface);
+    color: var(--tn-text-primary);
+    font-size: 0.8125rem;
+    box-shadow: 0 4px 16px rgb(0 0 0 / 0.12);
+    pointer-events: none;
+    visibility: hidden;
+  }
+  .re-tip[data-shown] {
+    visibility: visible;
+  }
+
+  /* Legend: one per colour mode, shown by the generated rules. */
+  .re-legend {
+    display: none;
+  }
+  .re-legend-title {
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+    text-transform: uppercase;
+    color: var(--tn-text-muted);
+  }
+  .re-legend-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.375rem 1.25rem;
+    margin-top: 0.5rem;
+    font-size: 0.875rem;
+    color: var(--tn-text-secondary);
+  }
+  .re-legend-list li {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .re-swatch {
+    flex: none;
+    width: 0.875rem;
+    height: 0.875rem;
+    border-radius: 0.25rem;
+    background: var(--swatch);
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--tn-text-primary) 15%, transparent);
+  }
+
+  /* Detail panel. */
+  .re-panel {
+    border: 1px solid var(--tn-border);
+    border-radius: var(--radius-card);
+    background: var(--tn-surface);
+    padding: 1rem;
+  }
+  .re-panel:focus {
+    outline: none;
+  }
+  .re-panel:focus-visible {
+    outline: 2px solid var(--tn-focus);
+    outline-offset: 2px;
+  }
+  .re-panel[data-state="shown"] .re-idle {
+    display: none;
+  }
+
+  /* Without JavaScript only the maps, legend and table are useful. */
+  .re:not([data-ready]) .js-only {
+    display: none;
+  }
+
+  /* Table. Its rows are built as a string (no scoping attributes), hence :global(). */
+  .re-table :global(table) {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.875rem;
+  }
+  .re-table :global(caption) {
+    caption-side: top;
+    padding: 0.75rem 1rem;
+    text-align: start;
+    font-size: 0.8125rem;
+    color: var(--tn-text-muted);
+  }
+  .re-table :global(:is(th, td)) {
+    padding: 0.5rem 0.75rem;
+    text-align: start;
+    border-bottom: 1px solid var(--tn-border);
+    color: var(--tn-text-secondary);
+  }
+  .re-table :global(tbody th) {
+    font-weight: 500;
+    color: var(--tn-text-primary);
+    min-width: 12rem;
+  }
+  .re-table :global(thead th) {
+    background: var(--tn-surface-muted);
+    color: var(--tn-text-primary);
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .re-table :global(:is(th, td):first-child) {
+    padding-inline-start: 1rem;
+  }
+  .re-table :global(:is(th, td):nth-child(n + 5)) {
+    text-align: end;
+    font-variant-numeric: tabular-nums;
+  }
+  .re-table :global(td:nth-child(4)) {
+    white-space: nowrap;
+  }
+  .re-table :global(abbr) {
+    text-decoration: none;
+  }
+  .re-table :global(tr) {
+    scroll-margin-top: 6rem;
+  }
+  .re-table :global(tr:target),
+  .re-table :global(tr.is-selected) {
+    background: var(--tn-accent-soft);
+  }
+  .re-table :global(.re-row-link) {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-color: var(--tn-border-strong);
+    text-underline-offset: 2px;
+  }
+  .re-table :global(.re-row-link:hover) {
+    color: var(--tn-accent);
+  }
+  .re-table :global(.re-row-link:focus-visible) {
+    outline: 2px solid var(--tn-focus);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+  .re-table :global(.re-sort) {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    font: inherit;
+    color: inherit;
+    background: none;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+  }
+  .re-table :global(.re-sort:hover) {
+    color: var(--tn-accent);
+  }
+  .re-table :global(.re-sort:focus-visible) {
+    outline: 2px solid var(--tn-focus);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+  .re-table :global(.re-sort-icon) {
+    width: 0.75rem;
+    color: var(--tn-text-muted);
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .re :global(.map-feature) {
+      transition: fill 150ms, fill-opacity 100ms;
+    }
+  }
+</style>
+
+<style is:global>
+  /* The panel is filled in by script, so its contents can't use scoped classes. */
+  .re-details h3 {
+    font-size: 1.125rem;
+    font-weight: 700;
+    line-height: 1.3;
+    color: var(--tn-text-primary);
+  }
+  .re-details .re-eyebrow {
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+    text-transform: uppercase;
+    color: var(--tn-text-muted);
+  }
+  .re-details .re-sub {
+    margin-top: 0.125rem;
+    font-size: 0.875rem;
+    color: var(--tn-text-secondary);
+  }
+  .re-details .re-block {
+    margin-top: 0.875rem;
+    padding-top: 0.875rem;
+    border-top: 1px solid var(--tn-border);
+    font-size: 0.875rem;
+    color: var(--tn-text-secondary);
+  }
+  .re-details .re-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+    text-transform: uppercase;
+    color: var(--tn-text-muted);
+  }
+  .re-details .re-mp {
+    margin-top: 0.25rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--tn-text-primary);
+  }
+  .re-details .re-note {
+    margin-top: 0.5rem;
+    border-radius: 0.5rem;
+    background: var(--tn-surface-muted);
+    padding: 0.5rem 0.625rem;
+  }
+  .re-details .re-cands {
+    margin-top: 0.5rem;
+    display: grid;
+    gap: 0.625rem;
+  }
+  .re-details .re-cand-head {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.75rem;
+    align-items: baseline;
+  }
+  .re-details .re-cand-name {
+    color: var(--tn-text-primary);
+    font-weight: 500;
+  }
+  .re-details .re-cand-party {
+    display: block;
+    font-size: 0.75rem;
+    color: var(--tn-text-muted);
+  }
+  .re-details .re-cand-num {
+    flex: none;
+    text-align: end;
+    font-variant-numeric: tabular-nums;
+    font-size: 0.8125rem;
+  }
+  .re-details .re-bar {
+    margin-top: 0.25rem;
+    height: 0.5rem;
+    border-radius: 9999px;
+    background: var(--tn-surface-muted);
+    overflow: hidden;
+  }
+  .re-details .re-bar > span {
+    display: block;
+    height: 100%;
+    min-width: 2px;
+    border-radius: 9999px;
+    background: var(--swatch);
+  }
+  .re-details dl {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.25rem 0.75rem;
+  }
+  .re-details dt {
+    color: var(--tn-text-muted);
+  }
+  .re-details dd {
+    text-align: end;
+    font-variant-numeric: tabular-nums;
+    color: var(--tn-text-primary);
+  }
+  .re-details .re-link {
+    color: var(--tn-accent);
+    font-weight: 500;
+  }
+  .re-details .re-link:hover {
+    color: var(--tn-accent-hover);
+  }
+  .re .re-dot {
+    flex: none;
+    display: inline-block;
+    width: 0.625rem;
+    height: 0.625rem;
+    margin-inline-end: 0.375rem;
+    border-radius: 9999px;
+    background: var(--swatch);
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--tn-text-primary) 15%, transparent);
+  }
+</style>
+
+<script>
+  import type { RidingResult } from "./data";
+
+  type Source = "map" | "search" | "locate" | "table" | "hash";
+  interface ResultsFile {
+    _meta: { membersAsOf: string };
+    ridings: RidingResult[];
+  }
+
+  const PARTY: Record<string, string> = {
+    lpc: "Liberal",
+    cpc: "Conservative",
+    bq: "Bloc Québécois",
+    ndp: "NDP",
+    gpc: "Green",
+    other: "Other",
+  };
+  const PROVINCE: Record<string, string> = {
+    NL: "Newfoundland and Labrador",
+    PE: "Prince Edward Island",
+    NS: "Nova Scotia",
+    NB: "New Brunswick",
+    QC: "Quebec",
+    ON: "Ontario",
+    MB: "Manitoba",
+    SK: "Saskatchewan",
+    AB: "Alberta",
+    BC: "British Columbia",
+    YT: "Yukon",
+    NT: "Northwest Territories",
+    NU: "Nunavut",
+  };
+  const num = new Intl.NumberFormat("en-CA");
+  const fold = (s: string) =>
+    s
+      .normalize("NFD")
+      .replace(/[̀-ͯ]/g, "")
+      .toLowerCase()
+      .replace(/[—–-]+/g, " ")
+      .replace(/[^a-z0-9 ]/g, "")
+      .replace(/\s+/g, " ")
+      .trim();
+  const date = (iso: string) => {
+    const [y, m, d] = iso.split("-").map(Number) as [number, number, number];
+    return new Date(Date.UTC(y, m - 1, d)).toLocaleDateString("en-CA", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" });
+  };
+
+  /** Tiny element builder: h("p", { class: "x" }, "text", child). */
+  function h(tag: string, attrs: Record<string, string | undefined> = {}, ...children: (Node | string | null | false | undefined)[]) {
+    const el = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs)) if (v !== undefined) el.setAttribute(k, v);
+    for (const c of children) if (c) el.append(c);
+    return el;
+  }
+  const nameOf = (fed: number) => document.querySelector(`#r-${fed} th`)?.textContent?.trim() ?? "";
+  const dot = (party: string) => h("span", { class: "re-dot", style: `--swatch:var(--tn-party-${party})`, "aria-hidden": "true" });
+
+  class RidingsExplorer extends HTMLElement {
+    #results?: Promise<ResultsFile>;
+    #byFed = new Map<number, RidingResult>();
+    #selected?: number;
+    #status!: HTMLElement;
+    #panel!: HTMLElement;
+    #details!: HTMLElement;
+
+    connectedCallback() {
+      this.#status = this.querySelector(".re-status")!;
+      this.#panel = this.querySelector(".re-panel")!;
+      this.#details = this.querySelector(".re-details")!;
+
+      this.#setUpMaps();
+      this.querySelector(".re-views")!.addEventListener("change", () => {
+        if (this.#selected) this.#highlight(this.#selected);
+      });
+      this.#setUpSearch();
+      this.#setUpLocate();
+      this.#setUpTable();
+
+      // Fetch the results as soon as the reader shows interest, so the panel is instant.
+      const warm = () => void this.#load().catch(() => {});
+      this.addEventListener("pointerenter", warm, { once: true });
+      this.addEventListener("focusin", warm, { once: true });
+
+      this.dataset.ready = "";
+      this.#fromHash();
+      window.addEventListener("hashchange", () => this.#fromHash());
+    }
+
+    // --- Data -------------------------------------------------------------
+
+    #load(): Promise<ResultsFile> {
+      this.#results ??= fetch(this.dataset.results!)
+        .then((r) => {
+          if (!r.ok) throw new Error(`HTTP ${r.status}`);
+          return r.json() as Promise<ResultsFile>;
+        })
+        .then((data) => {
+          for (const r of data.ridings) this.#byFed.set(r.fed, r);
+          return data;
+        })
+        .catch((e) => {
+          this.#results = undefined;
+          throw e;
+        });
+      return this.#results;
+    }
+
+    #say(text: string) {
+      this.#status.textContent = text;
+    }
+
+    // --- Maps -------------------------------------------------------------
+
+    #view(): string {
+      return this.querySelector<HTMLInputElement>('.re-views input:checked')?.value ?? "canada";
+    }
+
+    #setView(view: string) {
+      const input = this.querySelector<HTMLInputElement>(`.re-views input[value="${view}"]`);
+      if (input && !input.checked) input.checked = true;
+    }
+
+    #setUpMaps() {
+      const stage = this.querySelector<HTMLElement>(".re-stage")!;
+      const tip = this.querySelector<HTMLElement>(".re-tip")!;
+      const fine = window.matchMedia("(hover: hover) and (pointer: fine)");
+
+      for (const svg of this.querySelectorAll<SVGSVGElement>(".re-map svg")) {
+        const links = [...svg.querySelectorAll<SVGAElement>("a.map-link")];
+        // Chrome can make a clipped SVG a tab stop of its own; the links are the only stop wanted.
+        svg.setAttribute("tabindex", "-1");
+        if (links[0]) links[0].setAttribute("tabindex", "0");
+        let centres: { link: SVGAElement; x: number; y: number }[] | undefined;
+        const centresOf = () =>
+          (centres ??= links.map((link) => {
+            const b = (link.firstElementChild as SVGGraphicsElement).getBBox();
+            return { link, x: b.x + b.width / 2, y: b.y + b.height / 2 };
+          }));
+
+        svg.addEventListener("click", (e) => {
+          const target = e.target as Element;
+          const box = target.closest<SVGElement>(".re-box");
+          if (box) {
+            this.#setView(box.dataset.inset!);
+            tip.removeAttribute("data-shown");
+            return;
+          }
+          const link = target.closest<SVGAElement>("a.map-link");
+          if (!link) return;
+          e.preventDefault();
+          this.select(Number(link.dataset.fed), "map");
+        });
+
+        svg.addEventListener("focusin", (e) => {
+          const link = (e.target as Element).closest<SVGAElement>("a.map-link");
+          if (!link) return;
+          for (const l of links) l.setAttribute("tabindex", l === link ? "0" : "-1");
+          if (link.matches(":focus-visible")) this.dataset.focusVisible = "";
+          if (Number(link.dataset.fed) !== this.#selected) this.select(Number(link.dataset.fed), "map");
+        });
+        svg.addEventListener("focusout", () => delete this.dataset.focusVisible);
+
+        svg.addEventListener("keydown", (e) => {
+          const link = (e.target as Element).closest<SVGAElement>("a.map-link");
+          if (!link) return;
+          const dirs: Record<string, [number, number]> = {
+            ArrowRight: [1, 0],
+            ArrowLeft: [-1, 0],
+            ArrowDown: [0, 1],
+            ArrowUp: [0, -1],
+          };
+          let next: SVGAElement | undefined;
+          if (e.key === "Home") next = links[0];
+          else if (e.key === "End") next = links.at(-1);
+          else if (dirs[e.key]) {
+            const [dx, dy] = dirs[e.key]!;
+            const all = centresOf();
+            const here = all.find((c) => c.link === link)!;
+            let best = Infinity;
+            for (const c of all) {
+              if (c.link === link) continue;
+              const vx = c.x - here.x;
+              const vy = c.y - here.y;
+              const along = vx * dx + vy * dy;
+              if (along <= 0) continue;
+              const across = Math.abs(vx * dy - vy * dx);
+              if (across > along * 2) continue;
+              const score = along + across * 2;
+              if (score < best) {
+                best = score;
+                next = c.link;
+              }
+            }
+          } else if (e.key === "Enter" || e.key === " ") {
+            e.preventDefault();
+            this.select(Number(link.dataset.fed), "map");
+            return;
+          } else return;
+          e.preventDefault();
+          next?.focus();
+        });
+
+        // A small tooltip with the riding's name, for mouse users.
+        svg.addEventListener("pointermove", (e) => {
+          if (e.pointerType !== "mouse" || !fine.matches) return;
+          const target = e.target as Element;
+          const link = target.closest<SVGAElement>("a.map-link");
+          const box = target.closest<SVGElement>(".re-box");
+          const text = link?.getAttribute("aria-label") ?? box?.dataset.label;
+          if (!text) {
+            tip.removeAttribute("data-shown");
+            return;
+          }
+          if (tip.textContent !== text) tip.textContent = text;
+          const r = stage.getBoundingClientRect();
+          let x = e.clientX - r.left + 14;
+          let y = e.clientY - r.top + 14;
+          if (x + tip.offsetWidth > r.width) x = Math.max(0, x - tip.offsetWidth - 28);
+          if (y + tip.offsetHeight > r.height) y = Math.max(0, y - tip.offsetHeight - 28);
+          tip.style.transform = `translate(${Math.round(x)}px, ${Math.round(y)}px)`;
+          tip.dataset.shown = "";
+        });
+        svg.addEventListener("pointerleave", () => tip.removeAttribute("data-shown"));
+      }
+    }
+
+    #highlight(fed: number) {
+      for (const el of this.querySelectorAll(".is-selected")) el.classList.remove("is-selected");
+      for (const svg of this.querySelectorAll<SVGSVGElement>(".re-map svg")) {
+        const link = svg.querySelector<SVGAElement>(`a.map-link[data-fed="${fed}"]`);
+        const outline = svg.querySelector<SVGPathElement>(".re-outline")!;
+        const path = link?.querySelector("path");
+        outline.setAttribute("d", path?.getAttribute("d") ?? "");
+        // Ring a riding that's too small to spot. Hidden maps can't be measured; they're redone when shown.
+        const ring = svg.querySelector<SVGCircleElement>(".re-ring")!;
+        const box = path && svg.getBoundingClientRect().width > 0 ? path.getBBox() : undefined;
+        const size = box ? Math.max(box.width, box.height) : Infinity;
+        ring.setAttribute("r", size < 14 ? String(Math.max(size / 2 + 6, 10)) : "0");
+        if (box) {
+          ring.setAttribute("cx", String(box.x + box.width / 2));
+          ring.setAttribute("cy", String(box.y + box.height / 2));
+        }
+        if (link) {
+          link.classList.add("is-selected");
+          // Keep the map's single tab stop on the selected riding.
+          for (const l of svg.querySelectorAll("a.map-link")) l.setAttribute("tabindex", l === link ? "0" : "-1");
+        }
+      }
+      this.querySelector(`#r-${fed}`)?.classList.add("is-selected");
+    }
+
+    // --- Selection --------------------------------------------------------
+
+    async select(fed: number, source: Source) {
+      this.#selected = fed;
+      this.#highlight(fed);
+
+      if (source !== "map") {
+        // Show the riding where it can be seen: its city inset, or the whole country.
+        const link = this.querySelector<SVGAElement>(`.re-map[data-view="canada"] a.map-link[data-fed="${fed}"]`);
+        const inset = link?.dataset.inset;
+        const view = this.#view();
+        if (inset) this.#setView(inset);
+        else if (view !== "canada" && !this.querySelector(`.re-map[data-view="${view}"] a.map-link[data-fed="${fed}"]`)) this.#setView("canada");
+      }
+
+      if (source !== "hash") history.replaceState(null, "", `#r-${fed}`);
+
+      let data: ResultsFile;
+      try {
+        data = await this.#load();
+      } catch {
+        this.#say("The riding results couldn't be loaded. Check your connection and try again, or use the table below the map.");
+        return;
+      }
+      if (this.#selected !== fed) return; // A newer selection won.
+      const r = this.#byFed.get(fed);
+      if (!r) return;
+      this.#render(r, data._meta.membersAsOf);
+
+      if (source === "search" || source === "locate" || source === "table") {
+        const stage = this.querySelector<HTMLElement>(".re-stage")!;
+        const box = stage.getBoundingClientRect();
+        if (box.top < 0 || box.bottom > window.innerHeight) stage.scrollIntoView({ block: "nearest", behavior: "smooth" });
+      }
+      if (source === "table") this.#panel.focus({ preventScroll: true });
+    }
+
+    #render(r: RidingResult, asOf: string) {
+      const titleId = this.#panel.getAttribute("aria-labelledby")!;
+      const ballots = r.candidates.reduce((sum, c) => sum + c.votes, 0);
+      const fr = r.nameFr !== r.nameEn;
+      const now = r.now;
+
+      const nowNote =
+        now &&
+        h(
+          "p",
+          { class: "re-note" },
+          now.kind === "vacant"
+            ? `The seat is vacant as of ${date(asOf)}.`
+            : now.kind === "new"
+              ? h("span", {}, "Current MP: ", h("strong", {}, now.name), ` (${PARTY[now.party]}), since ${date(now.since)}.`)
+              : h("span", {}, "Current MP: ", h("strong", {}, now.name), `, now sitting as ${now.party === "other" ? "an independent" : `a member of the ${PARTY[now.party]} caucus`}.`),
+        );
+
+      const details = h(
+        "div",
+        {},
+        h("p", { class: "re-eyebrow" }, PROVINCE[r.province] ?? r.province),
+        h("h3", { id: titleId, tabindex: "-1" }, r.nameEn),
+        fr && h("p", { class: "re-sub" }, h("span", { class: "sr-only" }, "French name: "), h("span", { lang: "fr" }, r.nameFr)),
+        r.renamed && h("p", { class: "re-sub" }, `Renamed ${r.renamed.en} after the election.`),
+        h(
+          "div",
+          { class: "re-block" },
+          h("p", { class: "re-label" }, "Elected in 2025"),
+          h("p", { class: "re-mp" }, dot(r.party), h("strong", {}, r.winner), h("span", { class: "text-secondary" }, PARTY[r.party] ?? "")),
+          nowNote,
+        ),
+        h(
+          "dl",
+          { class: "re-block" },
+          h("dt", {}, "Margin"),
+          h("dd", {}, `${r.margin.toFixed(1)} pts (${num.format(r.marginVotes)} ${r.marginVotes === 1 ? "vote" : "votes"})`),
+          h("dt", {}, "Turnout"),
+          h("dd", {}, `${r.turnout.toFixed(1)}%`),
+          h("dt", {}, "Electors"),
+          h("dd", {}, num.format(r.electors)),
+          h("dt", {}, "Valid votes"),
+          h("dd", {}, num.format(ballots)),
+        ),
+        h(
+          "div",
+          { class: "re-block" },
+          h("p", { class: "re-label", id: `${titleId}-votes` }, "Votes"),
+          h(
+            "ol",
+            { class: "re-cands", "aria-labelledby": `${titleId}-votes` },
+            ...r.candidates.map((c) =>
+              h(
+                "li",
+                {},
+                h(
+                  "div",
+                  { class: "re-cand-head" },
+                  h("span", {}, h("span", { class: "re-cand-name" }, c.name, c.elected ? h("span", { class: "sr-only" }, " (elected)") : null), h("span", { class: "re-cand-party" }, c.label)),
+                  h("span", { class: "re-cand-num" }, `${c.share.toFixed(1)}%`, h("span", { class: "re-cand-party" }, num.format(c.votes))),
+                ),
+                h("div", { class: "re-bar", "aria-hidden": "true" }, h("span", { style: `width:${c.share}%;--swatch:var(--tn-party-${c.party})` })),
+              ),
+            ),
+          ),
+        ),
+        h("p", { class: "re-block" }, h("a", { href: `#r-${r.fed}`, class: "re-link", "data-to-table": "" }, "Show in the table")),
+      );
+
+      // The idle heading carries the panel's id until a riding is chosen.
+      this.querySelector(".re-idle h3")?.removeAttribute("id");
+      this.#details.replaceChildren(details);
+      this.#details.hidden = false;
+      this.#panel.dataset.state = "shown";
+    }
+
+    #fromHash() {
+      const m = location.hash.match(/^#r-(\d+)$/);
+      if (!m) return;
+      const fed = Number(m[1]);
+      if (!this.querySelector(`#r-${fed}`) || fed === this.#selected) return;
+      const details = this.querySelector<HTMLDetailsElement>(".re-table-wrap");
+      if (details && !details.open) {
+        details.open = true;
+        this.querySelector(`#r-${fed}`)?.scrollIntoView({ block: "center" });
+      }
+      void this.select(fed, "hash");
+    }
+
+    // --- Search -----------------------------------------------------------
+
+    #setUpSearch() {
+      const form = this.querySelector<HTMLFormElement>(".re-search")!;
+      const input = form.querySelector("input")!;
+      const rows = [...this.querySelectorAll<HTMLTableRowElement>("tbody tr")];
+      // Names from the table, plus French and new names once the results load.
+      const names = () => {
+        const list: { fed: number; key: string }[] = rows.map((tr) => ({ fed: Number(tr.dataset.fed), key: fold(tr.cells[0]!.textContent!) }));
+        for (const r of this.#byFed.values()) {
+          list.push({ fed: r.fed, key: fold(r.nameFr) });
+          if (r.renamed) list.push({ fed: r.fed, key: fold(r.renamed.en) }, { fed: r.fed, key: fold(r.renamed.fr) });
+        }
+        return list;
+      };
+      const find = (q: string, exactOnly: boolean) => {
+        const k = fold(q);
+        if (!k) return undefined;
+        const list = names();
+        return (
+          list.find((n) => n.key === k) ??
+          (exactOnly ? undefined : (list.find((n) => n.key.startsWith(k)) ?? list.find((n) => n.key.includes(k))))
+        );
+      };
+
+      // Picking a suggestion from the list selects straight away.
+      input.addEventListener("input", (e) => {
+        if ((e as InputEvent).inputType && (e as InputEvent).inputType !== "insertReplacementText") return;
+        const hit = find(input.value, true);
+        if (hit) void this.select(hit.fed, "search");
+      });
+      form.addEventListener("submit", async (e) => {
+        e.preventDefault();
+        const q = input.value.trim();
+        if (!q) {
+          this.#say("Type part of a riding's name, such as “Halifax” or “Laurentides”.");
+          return;
+        }
+        await this.#load().catch(() => {});
+        const hit = find(q, false);
+        if (!hit) {
+          this.#say(`No riding matches “${q}”. Try part of the name, or a nearby place.`);
+          return;
+        }
+        const name = nameOf(hit.fed);
+        this.#say(`Showing ${name}.`);
+        void this.select(hit.fed, "search");
+      });
+    }
+
+    // --- Find my riding ---------------------------------------------------
+
+    #setUpLocate() {
+      const button = this.querySelector<HTMLButtonElement>(".re-locate-button")!;
+      if (!("geolocation" in navigator)) {
+        button.disabled = true;
+        button.title = "Your browser doesn't share its location";
+        return;
+      }
+      button.addEventListener("click", async () => {
+        if (button.getAttribute("aria-busy") === "true") return;
+        button.setAttribute("aria-busy", "true");
+        this.#say("Finding your location…");
+        try {
+          // Ask for the position and load the boundaries at the same time.
+          const shapes = import("./locate").then(async (m) => {
+            await m.loadShapes(this.dataset.topo!);
+            return m;
+          });
+          const position = new Promise<GeolocationPosition>((resolve, reject) =>
+            navigator.geolocation.getCurrentPosition(resolve, reject, { enableHighAccuracy: false, timeout: 15000, maximumAge: 600000 }),
+          );
+          let pos: GeolocationPosition;
+          try {
+            pos = await position;
+          } catch (err) {
+            const code = (err as GeolocationPositionError).code;
+            this.#say(
+              code === 1
+                ? "Your browser didn't share your location. To use this, allow location for this site in your browser's settings, or search by name instead."
+                : code === 3
+                  ? "Finding your location took too long. Try again, or search by name instead."
+                  : "Your location isn't available right now. Search by name instead.",
+            );
+            return;
+          }
+          let locate: typeof import("./locate");
+          try {
+            locate = await shapes;
+          } catch {
+            this.#say("The riding boundaries couldn't be loaded. Check your connection and try again.");
+            return;
+          }
+          const { longitude, latitude, accuracy } = pos.coords;
+          const match = locate.ridingAt(longitude, latitude);
+          if (!match) {
+            this.#say("Your location doesn't appear to be in Canada, so it isn't in a federal riding. You can still search by name.");
+            return;
+          }
+          await this.#load().catch(() => {});
+          const name = nameOf(match.fed);
+          const fuzzy = accuracy > 1000 ? ` Your device placed you within about ${Math.round(accuracy / 1000)} km, so near a boundary it could be a neighbouring riding.` : "";
+          this.#say(match.exact ? `You appear to be in ${name}.${fuzzy}` : `You appear to be just outside the mapped boundary. The nearest riding is ${name}.${fuzzy}`);
+          void this.select(match.fed, "locate");
+        } finally {
+          button.removeAttribute("aria-busy");
+        }
+      });
+    }
+
+    // --- Table ------------------------------------------------------------
+
+    #setUpTable() {
+      const table = this.querySelector("table")!;
+      const tbody = table.tBodies[0]!;
+      const headers = [...table.querySelectorAll<HTMLTableCellElement>("thead th")];
+      const collator = new Intl.Collator("en-CA", { sensitivity: "base", numeric: true });
+      const icon = (dir: string) =>
+        `<svg class="re-sort-icon" viewBox="0 0 12 12" aria-hidden="true"><path fill="currentColor" d="${
+          dir === "ascending" ? "M6 3 10 8H2z" : dir === "descending" ? "M6 9 2 4h8z" : "M6 1.5 9 5H3zM6 10.5 3 7h6z"
+        }"/></svg>`;
+
+      for (const th of headers) {
+        const key = th.dataset.sort!;
+        const label = th.textContent!.trim();
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = "re-sort";
+        button.innerHTML = `${label}${icon("none")}`;
+        th.replaceChildren(button);
+        button.addEventListener("click", () => {
+          const current = th.getAttribute("aria-sort");
+          const numeric = th.hasAttribute("data-num");
+          // Numbers sort high to low first; text A to Z.
+          const dir = current === "ascending" ? "descending" : current === "descending" ? "ascending" : numeric ? "descending" : "ascending";
+          for (const other of headers) {
+            other.removeAttribute("aria-sort");
+            other.querySelector(".re-sort-icon")!.outerHTML = icon("none");
+          }
+          th.setAttribute("aria-sort", dir);
+          button.querySelector(".re-sort-icon")!.outerHTML = icon(dir);
+          const sign = dir === "ascending" ? 1 : -1;
+          const col = headers.indexOf(th);
+          const value = (tr: HTMLTableRowElement) => tr.cells[col]!.dataset.v ?? tr.cells[col]!.textContent!.trim();
+          const rows = [...tbody.rows];
+          rows.sort((a, b) => {
+            const c =
+              key === "prov"
+                ? Number(a.dataset.fed) - Number(b.dataset.fed)
+                : numeric
+                  ? parseFloat(value(a)) - parseFloat(value(b))
+                  : collator.compare(value(a), value(b));
+            return c * sign || Number(a.dataset.fed) - Number(b.dataset.fed);
+          });
+          tbody.append(...rows);
+        });
+      }
+
+      // A riding's name in the table shows it on the map.
+      tbody.addEventListener("click", (e) => {
+        const link = (e.target as Element).closest<HTMLAnchorElement>("a.re-row-link");
+        if (!link) return;
+        e.preventDefault();
+        void this.select(Number(link.closest("tr")!.dataset.fed), "table");
+      });
+      // And "Show in the table" opens the table at that row.
+      this.#details.addEventListener("click", (e) => {
+        const link = (e.target as Element).closest<HTMLAnchorElement>("a[data-to-table]");
+        if (!link) return;
+        e.preventDefault();
+        const details = this.querySelector<HTMLDetailsElement>(".re-table-wrap")!;
+        details.open = true;
+        const row = this.querySelector<HTMLElement>(`#r-${this.#selected}`);
+        row?.scrollIntoView({ block: "center", behavior: "smooth" });
+        row?.querySelector("a")?.focus({ preventScroll: true });
+      });
+    }
+  }
+
+  customElements.define("tn-ridings-explorer", RidingsExplorer);
+</script>

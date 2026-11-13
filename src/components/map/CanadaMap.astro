@@ -39,6 +39,7 @@ import type { MapFeature, Bounds } from "./geo";
 import { boundsOutline, canadaProjection, featuresInBounds, pathData } from "./geo";
 import type { Feature } from "geojson";
 import { geoPath } from "d3-geo";
+import { uniqueId } from "../../lib/ids";
 
 export interface MapItem {
   /** Makes the feature a link. */
@@ -125,7 +126,7 @@ const {
   context = [],
   contextClass = "map-context",
   role,
-  id = `map-${Math.random().toString(36).slice(2, 8)}`,
+  id = uniqueId(Astro, "map", Astro.props.title),
   class: className,
   ...rest
 } = Astro.props;
@@ -240,7 +241,12 @@ const descId = `${id}-desc`;
   <slot />
 </svg>
 
-<style>
+<!--
+  Global, not scoped: scoping would stamp an attribute on every one of a
+  riding map's hundreds of paths and links. The class names are specific to
+  this component.
+-->
+<style is:global>
   .canada-map {
     display: block;
     width: 100%;

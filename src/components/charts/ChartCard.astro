@@ -16,8 +16,10 @@ interface Props {
   tableLabel?: string;
   class?: string;
 }
+import { uniqueId } from "../../lib/ids";
+
 const { title, lede, sources, tableLabel = "Show the numbers as a table", class: className } = Astro.props;
-const id = `chart-${Math.random().toString(36).slice(2, 9)}`;
+const id = uniqueId(Astro, "chart", title);
 ---
 
 <figure

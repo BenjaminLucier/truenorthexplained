@@ -28,6 +28,8 @@ const pages = defineCollection({
     parent: z.string().optional(),
     deep_dives: z.array(z.string()).optional(),
     quiz: z.array(z.string()).optional(),
+    // Full-width page: no side column, and widgets span the page (prose stays at reading width).
+    wide: z.boolean().optional(),
     // Provinces and territories
     type: z.enum(["province", "territory"]).optional(),
     capital: z.string().optional(),
