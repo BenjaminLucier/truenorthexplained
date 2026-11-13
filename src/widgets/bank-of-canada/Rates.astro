@@ -1,0 +1,129 @@
+---
+/** The Bank of Canada's policy interest rate: the Bank Rate from 1935, the target for the overnight rate from 1996. */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import SeriesChart from "../../components/charts/SeriesChart.astro";
+import Legend from "../../components/charts/Legend.astro";
+import { formatDay, formatMonth, monthX, rates } from "../../lib/money";
+
+const BANK = "var(--tn-data-cat-7)";
+const TARGET = "var(--tn-data-cat-1)";
+const SWITCH = rates.overnightTarget[0]!.month; // "1996-01"
+
+const bank = rates.bankRate.filter((p) => p.month < SWITCH);
+const target = rates.overnightTarget;
+const lastMonth = target.at(-1)!.month;
+// One policy-rate series: the Bank Rate until the overnight target takes over.
+const policy = [...bank.map((p) => ({ ...p, kind: "bank" as const })), ...target.map((p) => ({ ...p, kind: "target" as const }))];
+// Keep only the months where the rate changed (plus the last), so the page stays light.
+const changes = policy.filter((p, i) => i === 0 || i === policy.length - 1 || p.value !== policy[i - 1]!.value || p.kind !== policy[i - 1]!.kind);
+const peak = bank.reduce((a, b) => (b.value > a.value ? b : a));
+const low = target.reduce((a, b) => (b.value < a.value ? b : a));
+const lowMonths = target.filter((p) => p.value === low.value);
+const decision = rates.latestDecision;
+const xEnd = monthX(lastMonth) + 1 / 12;
+const firstYear = Number(bank[0]!.month.slice(0, 4));
+const bankChanges = changes.filter((p) => p.kind === "bank");
+const targetChanges = changes.filter((p) => p.kind === "target");
+// For the table: the rate at the end of each year (or the latest month).
+const yearEnds = [...new Set(policy.map((p) => p.month.slice(0, 4)))].map((y) => policy.findLast((p) => p.month.startsWith(y))!);
+
+// The inflation-control target range, drawn as a band from each setting to the next.
+const bands = rates.targetBand.map((b, i, all) => ({
+  x0: monthX(b.from),
+  x1: i + 1 < all.length ? monthX(all[i + 1]!.from) : xEnd,
+  y0: b.low,
+  y1: b.high,
+  color: "var(--tn-data-band)",
+}));
+const yMax = Math.ceil(peak.value / 5) * 5;
+const pctFmt = (v: number) => `${v.toFixed(2)}%`;
+---
+
+<ChartCard
+  title={`The Bank of Canada's policy interest rate, ${firstYear} to ${lastMonth.slice(0, 4)}`}
+  lede={`Rates peaked at ${pctFmt(peak.value)} in ${formatMonth(peak.month)}, when the Bank was fighting double-digit inflation. They hit a low of ${pctFmt(low.value)} in ${lowMonths.length > 1 ? "2009 and again in 2020" : formatMonth(low.month)}. After the ${formatDay(decision.date)} decision, the policy rate is ${pctFmt(decision.value)}.`}
+  sources={[
+    { label: "Bank of Canada, Valet API: Bank Rate (V122530) and target for the overnight rate (V39079)", url: "https://www.bankofcanada.ca/rates/interest-rates/canadian-interest-rates/" },
+    { label: "Bank of Canada, inflation-control target", url: rates._meta.urls![2]! },
+  ]}
+  tableLabel="Show the data"
+>
+  <Legend
+    items={[
+      { label: `Bank Rate (the policy rate until ${SWITCH.slice(0, 4)})`, color: BANK },
+      { label: `Target for the overnight rate (from ${SWITCH.slice(0, 4)})`, color: TARGET },
+      { label: "Inflation-control target range", color: "var(--tn-data-band)", kind: "band" },
+    ]}
+  />
+  <p class="mt-3 text-xs font-medium text-muted">Per cent a year, end of month</p>
+  <SeriesChart
+    title="Bank of Canada policy interest rate by month"
+    desc={`A stepped line from ${firstYear}. The rate stays between 1.5% and 4% until the late 1950s, climbs through the 1970s to ${pctFmt(peak.value)} in ${formatMonth(peak.month)}, falls through the 1990s, and is ${pctFmt(target.at(-1)!.value)} in ${formatMonth(lastMonth)}. A shaded band from the 1990s shows the inflation target range, 1% to 3% since 1995.`}
+    height={270}
+    xMin={monthX(bank[0]!.month)}
+    xMax={xEnd}
+    yMin={0}
+    yMax={yMax}
+    yTicks={Array.from({ length: yMax / 5 + 1 }, (_, i) => i * 5)}
+    yFormat={(v) => `${v}%`}
+    xTicks={[1940, 1960, 1980, 2000, 2020]}
+    bands={bands}
+    markers={[{ x: 1991.1, label: "1991: inflation targets" }]}
+    lines={[
+      { points: [...bankChanges.map((p) => [monthX(p.month), p.value] as [number, number]), [monthX(SWITCH), bank.at(-1)!.value]], color: BANK, step: true },
+      { points: [...targetChanges.map((p) => [monthX(p.month), p.value] as [number, number]), [xEnd, target.at(-1)!.value]], color: TARGET, step: true },
+    ]}
+    notes={[{ x: monthX(peak.month), y: peak.value, label: `${pctFmt(peak.value)}, ${formatMonth(peak.month)}`, color: BANK, dy: 4 }]}
+    hover={{
+      xs: changes.map((p) => monthX(p.month)),
+      labels: changes.map((p) => (p === changes.at(-1) ? `${p.month} (latest)` : p.month)),
+      labelFormat: "month",
+      series: [
+        { label: "Bank Rate", color: BANK, suf: "%", dp: 2 },
+        { label: "Overnight rate target", color: TARGET, suf: "%", dp: 2 },
+      ],
+      values: [changes.map((p) => (p.kind === "bank" ? p.value : null)), changes.map((p) => (p.kind === "target" ? p.value : null))],
+      step: true,
+    }}
+    hoverLabel="Policy interest rate chart: use the left and right arrow keys to step through each change"
+  />
+  <p class="mt-2 text-end text-xs text-muted">Month</p>
+  <p class="mt-3 text-xs text-muted">
+    The Bank Rate was the Bank's main policy tool until 1996; from 1956 to 1962 and 1980 to 1996 it floated with
+    treasury bill rates, so it changed weekly. Since February 1996 the Bank has set a target for the overnight rate and
+    kept the Bank Rate a quarter point above it. The band shows the inflation target: 3% by the end of 1992, 2.5% by
+    mid-1994, then 2%, each with a range of 1 point either side. It is a target for inflation, not for interest rates;
+    it's shown here because it is what the rate is set to achieve.
+  </p>
+
+  <Fragment slot="table">
+    <div class="max-h-96 overflow-y-auto">
+      <table>
+        <thead class="sticky top-0">
+          <tr>
+            <th scope="col">End of</th>
+            <th scope="col">Rate</th>
+            <th scope="col">Series</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            yearEnds.toReversed().map((p) => (
+              <tr>
+                <th scope="row" class="font-normal">
+                  {p.month === lastMonth ? formatMonth(p.month) : p.month.slice(0, 4)}
+                </th>
+                <td>{pctFmt(p.value)}</td>
+                <td>{p.kind === "bank" ? "Bank Rate" : "Overnight rate target"}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+        <caption>
+          The rate at the end of each year; the chart shows every change. Latest decision: {formatDay(decision.date)},{" "}
+          {pctFmt(decision.value)}. Monthly figures are in the Bank of Canada's Valet data service.
+        </caption>
+      </table>
+    </div>
+  </Fragment>
+</ChartCard>

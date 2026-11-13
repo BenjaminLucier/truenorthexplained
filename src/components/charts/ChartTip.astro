@@ -1,0 +1,18 @@
+---
+/**
+ * The tooltip box and screen-reader live region used by src/scripts/chart-tips.ts.
+ * Put it inside the positioned host (<tn-series-hover> or <tn-tips>). It is
+ * absolutely positioned and starts hidden, so it never shifts the layout.
+ */
+---
+
+<div
+  data-tip-box
+  hidden
+  aria-hidden="true"
+  class="pointer-events-none absolute top-0 left-0 z-20 w-max max-w-64 rounded-lg border border-subtle bg-surface px-3 py-2 text-xs shadow-card"
+>
+  <p data-tip-title class="font-semibold text-primary"></p>
+  <ul data-tip-rows class="mt-1 space-y-0.5"></ul>
+</div>
+<p data-tip-live class="sr-only" aria-live="polite"></p>

@@ -46,6 +46,36 @@ basis with the permission of Statistics Canada.* This site is not endorsed by St
 Canada. The data has been filtered and reshaped (and shares and rates calculated from
 it); the figures themselves are unchanged.
 
+## Finance Canada, Statistics Canada and the Bank of Canada: public money and prices
+
+`src/data/money/*.json` is downloaded by `pnpm data:money` (`scripts/data/money.ts`) from:
+
+- **Finance Canada, Fiscal Reference Tables** (latest edition's Excel workbook), tables 1–3,
+  6, 7, 10 and 11: federal revenue, expenses, balance and accumulated deficit, 1966-67 on,
+  and the latest year's revenue and spending by category.
+- **Finance Canada, Historical Transfer Tables: 1980 to present** (open.canada.ca): equalization
+  entitlements from 1957-58, the Canada Health Transfer, Canada Social Transfer, Territorial
+  Formula Financing and the population used to allocate them.
+- **Statistics Canada, Historical Statistics of Canada** (11-516-X), series H1-18, H19-34,
+  H35-51 and F14-32: federal revenue, expenditure and debt, and gross national expenditure,
+  used for 1926-27 to 1965-66.
+- **Statistics Canada** tables 18-10-0005-01 (Consumer Price Index, annual average) and
+  18-10-0004-01 (monthly, through the Web Data Service).
+- **Bank of Canada, Valet API**: the Bank Rate (V122530), the target for the overnight rate
+  (V39079, end of month and decision dates).
+
+**Licence:** Finance Canada and Statistics Canada data is under the
+[Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada)
+(Statistics Canada's own [open licence](https://www.statcan.gc.ca/en/reference/licence) follows it).
+The Bank of Canada isn't a government department and publishes under its own
+[terms of use](https://www.bankofcanada.ca/terms/): its content may be freely used, copied and
+distributed with attribution, an indication of any changes, and no suggestion that the Bank
+endorses the use. Its data is in `src/data/money/interest-rates.json`. The data has been
+filtered and reshaped, and shares, per-person figures and inflation adjustments calculated
+from it; the published figures themselves are unchanged. The inflation-control target bands
+are policy settings recorded in the script from the Bank of Canada's description of the
+framework. None of these organizations endorses this site.
+
 ## Flags
 
 `public/flags/*.svg` are from Wikimedia Commons, via each place's flag image (P41) on

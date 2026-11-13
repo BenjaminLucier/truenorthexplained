@@ -1,0 +1,241 @@
+---
+/** Where the money comes from and where it goes, in the latest fiscal year. */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import ChartTip from "../../components/charts/ChartTip.astro";
+import { finances, formatDollars, formatMillions } from "../../lib/money";
+
+const L = finances.latest;
+const people = L.population;
+const max = Math.max(L.revenue.total, L.expenses.total);
+const gap = L.revenue.total - L.expenses.total;
+const share = (v: number, total: number) => `${((100 * v) / total).toFixed(1)}%`;
+const perPerson = (v: number) => formatDollars((v * 1e6) / people);
+
+const REVENUE_COLORS: Record<string, string> = {
+  pit: "var(--tn-data-cat-1)",
+  cit: "var(--tn-data-cat-2)",
+  gst: "var(--tn-data-cat-3)",
+  ei: "var(--tn-data-cat-4)",
+  nonres: "var(--tn-data-cat-5)",
+  duties: "var(--tn-data-cat-6)",
+  other: "var(--tn-data-cat-7)",
+  pollution: "var(--tn-data-cat-8)",
+};
+const revenue = L.revenue.items.map((i) => ({ ...i, color: REVENUE_COLORS[i.key] ?? "var(--tn-text-muted)" }));
+
+// Spending in the four groups Finance Canada uses, with their parts listed underneath.
+const GROUPS = [
+  { key: "persons", label: "Transfers to persons", color: "var(--tn-data-cat-1)" },
+  { key: "governments", label: "Transfers to provinces and territories", color: "var(--tn-data-cat-3)" },
+  { key: "direct", label: "Direct program spending", color: "var(--tn-data-cat-2)" },
+  { key: "debt", label: "Interest on the debt", color: "var(--tn-data-cat-8)" },
+  { key: "pollution", label: "Pollution pricing proceeds returned", color: "var(--tn-data-cat-4)" },
+];
+const groups = GROUPS.map((g) => {
+  const items = L.expenses.items.filter((i) => i.group === g.key);
+  return { ...g, items, value: items.reduce((n, i) => n + i.value, 0) };
+}).filter((g) => g.value > 0);
+
+const biggestRevenue = [...revenue].sort((a, b) => b.value - a.value)[0]!;
+const biggestGroup = [...groups].sort((a, b) => b.value - a.value)[0]!;
+const debt = groups.find((g) => g.key === "debt");
+
+const tipRows = (label: string, v: number, total: number, color: string) =>
+  JSON.stringify([
+    [label, formatMillions(v), color],
+    ["Share", share(v, total)],
+    ["Per person", perPerson(v)],
+  ]);
+const segments = {
+  revenue: revenue.map((r) => ({ label: r.label, value: r.value, color: r.color, rows: tipRows("Amount", r.value, L.revenue.total, r.color) })),
+  spending: groups.map((g) => ({ label: g.label, value: g.value, color: g.color, rows: tipRows("Amount", g.value, L.expenses.total, g.color) })),
+};
+---
+
+<ChartCard
+  title={`Where the money comes from and where it goes, ${L.label}`}
+  lede={`Ottawa collected ${formatMillions(L.revenue.total)} and spent ${formatMillions(L.expenses.total)}, about ${perPerson(L.expenses.total)} for every person in Canada. ${biggestRevenue.label} brought in ${share(biggestRevenue.value, L.revenue.total)} of revenue; ${biggestGroup.label.toLowerCase()} took the biggest share of spending${debt ? `, and interest on the debt took ${share(debt.value, L.expenses.total)}` : ""}.`}
+  sources={[{ label: `Finance Canada, Fiscal Reference Tables (${finances.edition}), tables 3, 6, 7, 10 and 11`, url: finances._meta.url }]}
+  tableLabel="Show the data"
+>
+  <tn-tips class="relative block">
+    <div class="grid grid-cols-[4.5rem_1fr] items-center gap-x-3 gap-y-3 sm:grid-cols-[6rem_1fr]">
+      {
+        (
+          [
+            ["Revenue", segments.revenue, L.revenue.total],
+            ["Spending", segments.spending, L.expenses.total],
+          ] as const
+        ).map(([name, segs, total]) => (
+          <>
+            <p class="text-sm font-medium text-primary">
+              {name}
+              <span class="block text-xs font-normal text-muted tabular-nums">{formatMillions(total, 0)}</span>
+            </p>
+            <div class="flex h-10 w-full">
+              <div class="flex h-full overflow-hidden rounded-md" style={`width:${((100 * total) / max).toFixed(2)}%`}>
+                {segs.map((s) => (
+                  <span
+                    role="img"
+                    tabindex="0"
+                    class="h-full border-e-2 border-surface last:border-e-0 focus-visible:outline-offset-0"
+                    style={`width:${((100 * s.value) / total).toFixed(2)}%;background:${s.color}`}
+                    data-tip={s.label}
+                    data-tip-rows={s.rows}
+                    aria-label={`${s.label}: ${formatMillions(s.value)}, ${share(s.value, total)} of ${name.toLowerCase()}`}
+                  />
+                ))}
+              </div>
+              {name === "Revenue" && gap < 0 && (
+                <span
+                  class="ms-0.5 flex h-full items-center justify-center rounded-md border-2 border-dashed border-strong"
+                  style={`width:${((100 * -gap) / max).toFixed(2)}%`}
+                  tabindex="0"
+                  role="img"
+                  data-tip="Deficit: spending not covered by revenue"
+                  data-tip-rows={JSON.stringify([
+                    ["Amount", formatMillions(-gap)],
+                    ["Per person", perPerson(-gap)],
+                  ])}
+                  aria-label={`Deficit: ${formatMillions(-gap)}`}
+                />
+              )}
+            </div>
+          </>
+        ))
+      }
+    </div>
+    {
+      gap < 0 && (
+        <p class="mt-2 text-end text-xs text-muted">
+          Dashed box: the deficit, {formatMillions(-gap)}, covered by borrowing
+        </p>
+      )
+    }
+    <ChartTip />
+  </tn-tips>
+
+  <div class="mt-6 grid gap-6 sm:grid-cols-2">
+    <div>
+      <h4 class="text-sm font-semibold text-primary">Revenue by source</h4>
+      <ul class="mt-2 divide-y divide-subtle text-sm">
+        {
+          revenue.map((r) => (
+            <li class="flex items-baseline gap-2 py-1.5">
+              <span class="mt-1 size-2.5 shrink-0 self-start rounded-sm" style={`background:${r.color}`} aria-hidden="true" />
+              <span class="text-secondary">{r.label}</span>
+              <span class="ms-auto ps-2 text-end font-medium whitespace-nowrap text-primary tabular-nums">
+                {share(r.value, L.revenue.total)}
+              </span>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+    <div>
+      <h4 class="text-sm font-semibold text-primary">Spending by type</h4>
+      <ul class="mt-2 divide-y divide-subtle text-sm">
+        {
+          groups.map((g) => (
+            <li class="py-1.5">
+              <p class="flex items-baseline gap-2">
+                <span class="mt-1 size-2.5 shrink-0 self-start rounded-sm" style={`background:${g.color}`} aria-hidden="true" />
+                <span class="font-medium text-primary">{g.label}</span>
+                <span class="ms-auto ps-2 text-end font-medium whitespace-nowrap text-primary tabular-nums">
+                  {share(g.value, L.expenses.total)}
+                </span>
+              </p>
+              {g.items.length > 1 && (
+                <ul class="mt-1 space-y-0.5 ps-[1.125rem] text-xs text-secondary">
+                  {g.items.map((i) => (
+                    <li class="flex gap-2">
+                      <span>{i.label}</span>
+                      <span class="ms-auto ps-2 whitespace-nowrap tabular-nums">{formatMillions(i.value)}</span>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </div>
+  <p class="mt-4 text-xs text-muted">
+    Fiscal year {L.label} (April to March), from the public accounts. Transfers to provinces are net of the Quebec
+    Abatement, tax room Quebec receives in place of part of its transfers. Direct program spending includes net actuarial
+    losses on public sector pensions.{" "}
+    {
+      L.revenue.omitted.map(
+        (i) => `${i.label} (${formatMillions(i.value)}) is too small to show.`,
+      )
+    }
+  </p>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Category</th>
+          <th scope="col">$ millions</th>
+          <th scope="col">Share</th>
+          <th scope="col">Per person</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row" colspan="4" class="text-primary">Revenue</th>
+        </tr>
+        {
+          revenue.map((r) => (
+            <tr>
+              <th scope="row" class="font-normal">
+                {r.label}
+              </th>
+              <td>{r.value.toLocaleString("en-CA")}</td>
+              <td>{share(r.value, L.revenue.total)}</td>
+              <td>{perPerson(r.value)}</td>
+            </tr>
+          ))
+        }
+        <tr>
+          <th scope="row">Total revenue</th>
+          <td>{L.revenue.total.toLocaleString("en-CA")}</td>
+          <td>100%</td>
+          <td>{perPerson(L.revenue.total)}</td>
+        </tr>
+        <tr>
+          <th scope="row" colspan="4" class="text-primary">Spending</th>
+        </tr>
+        {
+          groups.flatMap((g) =>
+            g.items.map((i) => (
+              <tr>
+                <th scope="row" class="font-normal">
+                  {g.items.length > 1 ? `${g.label}: ${i.label}` : g.label}
+                </th>
+                <td>{i.value.toLocaleString("en-CA")}</td>
+                <td>{share(i.value, L.expenses.total)}</td>
+                <td>{perPerson(i.value)}</td>
+              </tr>
+            )),
+          )
+        }
+        <tr>
+          <th scope="row">Total spending</th>
+          <td>{L.expenses.total.toLocaleString("en-CA")}</td>
+          <td>100%</td>
+          <td>{perPerson(L.expenses.total)}</td>
+        </tr>
+      </tbody>
+      <caption>
+        Per person uses Finance Canada's population for {L.label} ({people.toLocaleString("en-CA")}). Deficit:{" "}
+        {formatMillions(-gap)}.
+      </caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+<script>
+  import "../../scripts/chart-tips";
+</script>

@@ -60,6 +60,20 @@ independently, how to hit it.
 > **As of 2026:** In November 2026 the government and the Bank renewed the framework for
 > 2027 to 2031, keeping the 2% target. <!-- check: confirm 1–3% range retained in 2026 renewal text -->
 
+Here's how prices have actually behaved since 1914. Before targets, inflation came in
+bursts; since the early 1990s it has mostly stayed inside the target range:
+
+<tn-widget name="bank-of-canada" data-chart="inflation"></tn-widget>
+
+The Bank's main tool for hitting the target is its policy interest rate. It raises the
+rate when inflation runs high and cuts it when the economy needs a lift:
+
+<tn-widget name="bank-of-canada" data-chart="rates"></tn-widget>
+
+Even low inflation adds up over the years. Try it with any year since 1914:
+
+<tn-widget name="bank-of-canada" data-chart="calculator"></tn-widget>
+
 ### How independent is it?
 
 The Bank is owned by the government, but it runs monetary policy **independently**.

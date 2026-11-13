@@ -40,6 +40,12 @@ different amounts. Equalization is aimed at that gap.
 The CHT and CST were created in 2004, when an earlier combined transfer (the Canada
 Health and Social Transfer) was split in two. <!-- check: 2004 split date -->
 
+Here's what the three biggest transfers to provinces add up to for each resident. The
+health and social transfers are the same everywhere; equalization is what makes the
+totals differ:
+
+<tn-widget name="transfers" data-chart="per-person"></tn-widget>
+
 ### The Canada Health Transfer and the Canada Health Act
 
 The CHT is the largest federal transfer. To get their full payment, provinces and
@@ -74,6 +80,11 @@ How it works, simplified:
    average of national nominal GDP growth.
 
 Every province has received equalization at some point since 1957.
+
+The chart below shows the program's size over time and which provinces received it in
+each year, with amounts adjusted for inflation so the decades can be compared:
+
+<tn-widget name="transfers" data-chart="equalization"></tn-widget>
 
 > [!MYTH]
 > **"Some provinces pay equalization to others."** Equalization is paid out of the

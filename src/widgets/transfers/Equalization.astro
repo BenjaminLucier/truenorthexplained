@@ -1,0 +1,363 @@
+---
+/**
+ * Equalization since 1957-58: the program's size in today's dollars, and a
+ * heatmap of which provinces received it each year (per person, inflation-adjusted).
+ * On wide screens provinces are rows and years are columns; on phones the grid
+ * turns on its side (years down, provinces across) from the same markup.
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import ChartTip from "../../components/charts/ChartTip.astro";
+import SeriesChart from "../../components/charts/SeriesChart.astro";
+import { PROVINCES, PROVINCE_CODES } from "../../lib/elections-constants";
+import { BASE_YEAR, formatDollars, formatMillions, provincePopulation, toReal, transfers } from "../../lib/money";
+
+const E = transfers.equalization;
+const years = E.years.map((l) => Number(l.slice(0, 4)));
+const n = years.length;
+const codes = PROVINCE_CODES.slice(0, 10);
+
+const rows = codes.map((code) => {
+  const m = E.provinces[code]!;
+  const pp = years.map((y, i) => {
+    if (!m[i]) return 0;
+    const people = provincePopulation(code, y);
+    if (!people) throw new Error(`No population for ${code} in ${y}`);
+    return Math.round(toReal(m[i]! * 1e6, y) / people);
+  });
+  const got = years.filter((_, i) => m[i]! > 0);
+  return { code, name: PROVINCES[code].en, short: PROVINCES[code].short, m, pp, first: got[0], last: got.at(-1), count: got.length };
+});
+
+const BINS = [500, 1000, 1500, 2000, 3000];
+const step = (v: number) => (v <= 0 ? 0 : BINS.findIndex((b) => v < b) + 1 || BINS.length + 1);
+const BIN_LABELS = ["Under $500", "$500–999", "$1,000–1,499", "$1,500–1,999", "$2,000–2,999", "$3,000 or more"];
+
+const real = years.map((y, i) => toReal(E.total[i]!, y));
+const realB = real.map((v) => v * 0.001);
+const i0 = 0;
+const iN = n - 1;
+const lastLabel = E.years[iN]!;
+const receivers = rows.filter((r) => r.m[iN]! > 0);
+const topNow = [...receivers].sort((a, b) => b.pp[iN]! - a.pp[iN]!)[0]!;
+const never = rows.filter((r) => r.count === 0);
+const notSince = rows
+  .filter((r) => r.last !== undefined && r.last < years[iN]!)
+  .sort((a, b) => a.last! - b.last!)
+  .map((r) => `${r.name} (${E.years[years.indexOf(r.last!)]})`);
+const list = (items: string[]) => (items.length < 2 ? items.join("") : `${items.slice(0, -1).join(", ")} and ${items.at(-1)}`);
+const decadeIdx = years.map((y, i) => (y % 10 === 0 ? i : -1)).filter((i) => i >= 0);
+const cfg = { years: E.years, names: rows.map((r) => r.name), m: rows.map((r) => r.m), pp: rows.map((r) => r.pp), base: BASE_YEAR };
+---
+
+<ChartCard
+  title={`Equalization, ${E.years[i0]} to ${lastLabel}`}
+  lede={`The program has grown from ${formatMillions(real[i0]!)} to ${formatMillions(real[iN]!)} a year in ${BASE_YEAR} dollars. ${never.length === 0 ? "Every province has received it at some point. " : ""}In ${lastLabel}, ${receivers.length} of 10 provinces do; ${topNow.name} gets the most per person, ${formatDollars(topNow.pp[iN]!)}.`}
+  sources={[{ label: "Finance Canada, Historical Transfer Tables (equalization entitlements, 1957-58 on)", url: transfers._meta.url }]}
+  tableLabel="Show the data"
+>
+  <p class="text-sm font-medium text-primary">Total equalization payments</p>
+  <p class="mt-0.5 text-xs text-muted">Billions of {BASE_YEAR} dollars (adjusted for inflation with the consumer price index)</p>
+  <SeriesChart
+    title="Total equalization payments in today's dollars"
+    desc={`A line rising from ${formatMillions(real[i0]!)} in ${E.years[i0]} to ${formatMillions(real[iN]!)} in ${lastLabel}, in ${BASE_YEAR} dollars.`}
+    height={170}
+    xMin={years[0]!}
+    xMax={years[iN]!}
+    yMin={0}
+    yMax={Math.ceil(Math.max(...real) / 5000) * 5}
+    yTicks={Array.from({ length: Math.ceil(Math.max(...real) / 5000) + 1 }, (_, i) => i * 5)}
+    yFormat={(v) => `$${v}B`}
+    xTicks={[1960, 1980, 2000, 2020]}
+    lines={[{ points: years.map((y, i) => [y, realB[i]!]), color: "var(--tn-data-cat-2)", area: true }]}
+    markers={[{ x: 2009, label: "2009: growth tied to GDP" }]}
+    hover={{
+      xs: years,
+      labels: E.years,
+      labelPrefix: "Fiscal year ",
+      series: [
+        { label: `In ${BASE_YEAR} dollars`, color: "var(--tn-data-cat-2)", pre: "$", suf: " billion", dp: 2 },
+        { label: "As paid at the time", color: "var(--tn-text-muted)", pre: "$", suf: " billion", dp: 2, dot: false },
+      ],
+      values: [realB, E.total.map((v) => v * 0.001)],
+    }}
+    hoverLabel="Total equalization chart: use the left and right arrow keys to read each year"
+  />
+
+  <p class="mt-7 text-sm font-medium text-primary">Who received it, year by year</p>
+  <p class="mt-0.5 text-xs text-muted">
+    Each square is one province in one fiscal year, shaded by the payment per resident in {BASE_YEAR} dollars. An empty
+    square means no payment.
+  </p>
+  <ul class="mt-3 flex flex-wrap gap-x-4 gap-y-1.5 text-xs text-secondary">
+    <li class="inline-flex items-center gap-1.5"><span class="eq-key eq-s0"></span>None</li>
+    {
+      BIN_LABELS.map((l, i) => (
+        <li class="inline-flex items-center gap-1.5">
+          <span class:list={["eq-key", `eq-s${i + 1}`]} />
+          {l}
+        </li>
+      ))
+    }
+  </ul>
+
+  <tn-eq-heatmap
+    class="relative mt-4 block rounded-sm"
+    tabindex="0"
+    aria-label={`Equalization heatmap, ${n} years by 10 provinces. Use the arrow keys to move between provinces and years.`}
+  >
+    <div class="eq-frame" style={`--n:${n}`}>
+      {/* Province labels: down the side on wide screens, across the top on phones. */}
+      <ul class="eq-rows" aria-hidden="true">
+        {rows.map((r) => <li class="truncate">{r.name}</li>)}
+      </ul>
+      <ul class="eq-cols" aria-hidden="true">
+        {rows.map((r) => <li>{r.code}</li>)}
+      </ul>
+      <div class="eq-years-side" aria-hidden="true">
+        {decadeIdx.map((i) => <span style={`top:${((100 * i) / n).toFixed(2)}%`}>{years[i]}</span>)}
+      </div>
+      <div class="eq-grid" role="img" aria-label={`Heatmap of equalization per person by province and year. The figures are in the table under Show the data.`}>
+        {rows.map((r) => r.pp.map((v) => <i class={`eq-s${step(v)}`} />))}
+      </div>
+      <div class="eq-years-bottom" aria-hidden="true">
+        {decadeIdx.map((i) => <span style={`left:${((100 * (i + 0.5)) / n).toFixed(2)}%`}>{years[i]}</span>)}
+      </div>
+    </div>
+    <ChartTip />
+    <script type="application/json" data-config set:html={JSON.stringify(cfg)} />
+  </tn-eq-heatmap>
+  <p class="mt-2 text-xs text-muted">
+    {notSince.length > 0 && `Provinces that received equalization in the past but not in ${lastLabel}: ${list(notSince)}, with the last year in brackets. `}
+    Territories are not eligible; they receive Territorial Formula Financing instead.
+  </p>
+
+  <Fragment slot="table">
+    <div class="max-h-96 overflow-auto">
+      <table>
+        <thead class="sticky top-0">
+          <tr>
+            <th scope="col">Fiscal year</th>
+            {rows.map((r) => <th scope="col" title={r.name}>{r.short}</th>)}
+            <th scope="col">Total</th>
+            <th scope="col">Total, {BASE_YEAR} $</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            years.map((_, i) => iN - i).map((i) => (
+              <tr>
+                <th scope="row" class="font-normal">
+                  {E.years[i]}
+                </th>
+                {rows.map((r) => (
+                  <td>{r.m[i] ? r.m[i]!.toLocaleString("en-CA") : "—"}</td>
+                ))}
+                <td>{E.total[i]!.toLocaleString("en-CA")}</td>
+                <td>{Math.round(real[i]!).toLocaleString("en-CA")}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+        <caption>
+          Millions of dollars as paid at the time, except the last column, which is adjusted to {BASE_YEAR} dollars with the
+          consumer price index (the latest month for years after {BASE_YEAR}). A dash means no payment. Includes payments and
+          additional amounts; excludes Total Transfer Protection (2010-11 to 2013-14).
+        </caption>
+      </table>
+    </div>
+  </Fragment>
+</ChartCard>
+
+<style is:global>
+  /* Global, with eq- names, so the hundreds of heatmap cells carry no scoping attributes. */
+  .eq-key {
+    display: inline-block;
+    width: 0.875rem;
+    height: 0.875rem;
+    border-radius: 2px;
+  }
+  .eq-s0 {
+    box-shadow: inset 0 0 0 1px var(--tn-border);
+  }
+  .eq-s1 {
+    background: var(--tn-data-seq-1);
+  }
+  .eq-s2 {
+    background: var(--tn-data-seq-2);
+  }
+  .eq-s3 {
+    background: var(--tn-data-seq-3);
+  }
+  .eq-s4 {
+    background: var(--tn-data-seq-4);
+  }
+  .eq-s5 {
+    background: var(--tn-data-seq-5);
+  }
+  .eq-s6 {
+    background: var(--tn-data-seq-6);
+  }
+
+  /* Phones: years run down, provinces across. */
+  .eq-frame {
+    display: grid;
+    grid-template-columns: 2.5rem minmax(0, 1fr);
+    grid-template-areas: ". cols" "side grid";
+    column-gap: 0.375rem;
+    row-gap: 0.25rem;
+    font-size: 0.6875rem;
+    color: var(--tn-text-muted);
+    font-variant-numeric: tabular-nums;
+  }
+  .eq-rows,
+  .eq-years-bottom {
+    display: none;
+  }
+  .eq-cols {
+    grid-area: cols;
+    display: grid;
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+    text-align: center;
+  }
+  .eq-years-side {
+    grid-area: side;
+    position: relative;
+  }
+  .eq-years-side span {
+    position: absolute;
+    right: 0;
+    transform: translateY(-0.15rem);
+  }
+  .eq-grid {
+    grid-area: grid;
+    display: grid;
+    gap: 1px;
+    grid-auto-flow: column;
+    grid-template-rows: repeat(var(--n), 7px);
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+  .eq-grid i {
+    display: block;
+  }
+  .eq-grid i.is-active {
+    outline: 2px solid var(--tn-text-primary);
+    outline-offset: 0;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* Wide screens: provinces down the side, years across. */
+  @media (width >= 40rem) {
+    .eq-frame {
+      grid-template-columns: 11.5rem minmax(0, 1fr);
+      grid-template-areas: "rows grid" ". bottom";
+      font-size: 0.75rem;
+    }
+    .eq-cols,
+    .eq-years-side {
+      display: none;
+    }
+    .eq-rows {
+      grid-area: rows;
+      display: grid;
+      grid-template-rows: repeat(10, 22px);
+      gap: 1px;
+      align-items: center;
+      color: var(--tn-text-secondary);
+    }
+    .eq-years-bottom {
+      grid-area: bottom;
+      display: block;
+      position: relative;
+      height: 1rem;
+    }
+    .eq-years-bottom span {
+      position: absolute;
+      transform: translateX(-50%);
+    }
+    .eq-grid {
+      grid-auto-flow: row;
+      grid-template-rows: repeat(10, 22px);
+      grid-template-columns: repeat(var(--n), minmax(0, 1fr));
+    }
+  }
+</style>
+
+<script>
+  import { TipBox, type TipRow } from "../../scripts/chart-tips";
+
+  interface Config {
+    years: string[];
+    names: string[];
+    m: number[][];
+    pp: number[][];
+    base: number;
+  }
+  const WIDE = "(width >= 40rem)";
+
+  class EqHeatmap extends HTMLElement {
+    connectedCallback() {
+      const cfg = JSON.parse(this.querySelector("script[data-config]")!.textContent!) as Config;
+      const tip = new TipBox(this);
+      const cells = [...this.querySelectorAll<HTMLElement>(".eq-grid i")];
+      const n = cfg.years.length;
+      const wide = window.matchMedia(WIDE);
+      let p = 0;
+      let y = n - 1;
+      let active: HTMLElement | null = null;
+      const money = (m: number) => (m >= 1000 ? `$${(m / 1000).toFixed(2)} billion` : `$${m.toLocaleString("en-CA")} million`);
+
+      const show = (pi: number, yi: number, announce: boolean) => {
+        p = pi;
+        y = yi;
+        const cell = cells[pi * n + yi]!;
+        active?.classList.remove("is-active");
+        cell.classList.add("is-active");
+        active = cell;
+        const m = cfg.m[pi]![yi]!;
+        const rows: TipRow[] = m
+          ? [
+              ["Payment", money(m)],
+              [`Per person, ${cfg.base} $`, `$${cfg.pp[pi]![yi]!.toLocaleString("en-CA")}`],
+            ]
+          : [["Payment", "None"]];
+        const r = cell.getBoundingClientRect();
+        const h = this.getBoundingClientRect();
+        tip.show(`${cfg.names[pi]}, ${cfg.years[yi]}`, rows, r.left - h.left + r.width / 2, r.top - h.top + r.height / 2, announce);
+      };
+      const hide = () => {
+        tip.hide();
+        active?.classList.remove("is-active");
+        active = null;
+      };
+
+      this.addEventListener("pointermove", (e) => {
+        const i = cells.indexOf(e.target as HTMLElement);
+        if (i >= 0) show(Math.floor(i / n), i % n, false);
+      });
+      this.addEventListener("pointerleave", () => {
+        if (document.activeElement !== this) hide();
+      });
+      this.addEventListener("focus", () => show(p, y, true));
+      this.addEventListener("blur", hide);
+      this.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") return hide();
+        // Arrow keys follow the layout on screen: years run across on wide screens, down on phones.
+        const along = wide.matches ? ["ArrowLeft", "ArrowRight"] : ["ArrowUp", "ArrowDown"];
+        const across = wide.matches ? ["ArrowUp", "ArrowDown"] : ["ArrowLeft", "ArrowRight"];
+        let np = p;
+        let ny = y;
+        if (e.key === along[0]) ny--;
+        else if (e.key === along[1]) ny++;
+        else if (e.key === across[0]) np--;
+        else if (e.key === across[1]) np++;
+        else if (e.key === "Home") ny = 0;
+        else if (e.key === "End") ny = n - 1;
+        else return;
+        e.preventDefault();
+        show(Math.max(0, Math.min(cfg.names.length - 1, np)), Math.max(0, Math.min(n - 1, ny)), true);
+      });
+    }
+  }
+  if (!customElements.get("tn-eq-heatmap")) customElements.define("tn-eq-heatmap", EqHeatmap);
+</script>

@@ -14,6 +14,10 @@ import flagData from "../data/flags.json";
 import populationData from "../data/statcan/population.json";
 import immigrationData from "../data/statcan/immigration.json";
 import ageData from "../data/statcan/age.json";
+import federalFinancesData from "../data/money/federal-finances.json";
+import transfersData from "../data/money/transfers.json";
+import pricesData from "../data/money/prices.json";
+import ratesData from "../data/money/interest-rates.json";
 
 // ---------------------------------------------------------------------------
 // Shared shapes
@@ -152,6 +156,10 @@ export const datasets: { id: string; title: string; file: string; meta: DatasetM
   { id: "population", title: "Population by province", file: "src/data/statcan/population.json", meta: meta(populationData) },
   { id: "immigration", title: "Immigration", file: "src/data/statcan/immigration.json", meta: meta(immigrationData) },
   { id: "age", title: "Age of the population", file: "src/data/statcan/age.json", meta: meta(ageData) },
+  { id: "federal-finances", title: "Federal finances", file: "src/data/money/federal-finances.json", meta: meta(federalFinancesData) },
+  { id: "transfers", title: "Transfers to provinces and territories", file: "src/data/money/transfers.json", meta: meta(transfersData) },
+  { id: "prices", title: "Consumer price index", file: "src/data/money/prices.json", meta: meta(pricesData) },
+  { id: "interest-rates", title: "Bank of Canada interest rates", file: "src/data/money/interest-rates.json", meta: meta(ratesData) },
   { id: "flags", title: "Flags", file: "src/data/flags.json", meta: meta(flagData) },
 ];
 

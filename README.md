@@ -43,6 +43,7 @@ pnpm dev                                 # http://localhost:4321
 | `pnpm review` | Regenerate [REVIEW.md](REVIEW.md), the list of facts and links awaiting review |
 | `pnpm data:geo` | Re-download province and riding boundaries and population estimates into `src/data/geo/` |
 | `pnpm data:elections` | Re-download 2025 election results, current MPs and senators, and seat allocation into `src/data/elections/`, `src/data/parliament/` and `src/data/population/` |
+| `pnpm data:money` | Re-download federal finances (Finance Canada, Statistics Canada), transfers to provinces and equalization (Finance Canada), the consumer price index (Statistics Canada) and interest rates (Bank of Canada) into `src/data/money/` |
 | `pnpm data:population` | Re-download 2021 Census population by province (used by the amending-formula widget) |
 | `pnpm grounding` | Re-download the Wikipedia/Wikidata grounding corpus, flags and Statistics Canada demographics. See [grounding/README.md](grounding/README.md) |
 

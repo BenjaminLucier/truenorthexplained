@@ -1,0 +1,1286 @@
+{
+ "_meta": {
+  "source": "Finance Canada, Fiscal Reference Tables (November 2026), tables 1–3, 6, 7, 10 and 11; Statistics Canada, Historical Statistics of Canada (11-516-X), series H1-18, H19-34, H35-51 and F14-32",
+  "url": "https://www.canada.ca/en/department-finance/services/publications/fiscal-reference-tables/2026.html",
+  "urls": [
+   "https://www.canada.ca/en/department-finance/services/publications/fiscal-reference-tables/2026.html",
+   "https://www.canada.ca/content/dam/fin/publications/frt-trf/2026/frt-trf-26-eng.xlsx",
+   "https://www150.statcan.gc.ca/n1/pub/11-516-x/sectionh/4057752-eng.htm",
+   "https://www150.statcan.gc.ca/n1/pub/11-516-x/sectionf/4057751-eng.htm"
+  ],
+  "licence": "Open Government Licence – Canada",
+  "licenceUrl": "https://open.canada.ca/en/open-government-licence-canada",
+  "fetched": "2026-11-13",
+  "script": "scripts/data/money.ts",
+  "notes": [
+   "Fiscal years run April 1 to March 31; year 1966 is 1966-67.",
+   "1966-67 on: Finance Canada, Fiscal Reference Tables, Table 2 (per cent of GDP) and Table 1 (millions). Expenses are program expenses plus public debt charges plus net actuarial losses. Debt is the accumulated deficit, the federal debt as Finance Canada reports it.",
+   "Finance Canada notes that data from 1983-84 on are not directly comparable with earlier years, because of the move to full accrual accounting.",
+   "1926-27 to 1965-66: Historical Statistics of Canada, budgetary revenue (H18), budgetary expenditure (H34) and total net direct debt, less sinking funds (H46), divided by gross national expenditure (F32) for the fiscal year (three quarters of the calendar year it starts in, one quarter of the next). These are cash-basis public accounts figures; the debt measure is gross debt, not the accumulated deficit, so it runs higher than the later series.",
+   "Latest-year breakdown: transfers to other governments are net of the Quebec Abatement (a reduction in Quebec's transfers in return for tax room). Direct program spending includes net actuarial losses on public sector pensions and benefits.",
+   "Overlap check, 1966: revenue 15.3% (historical) vs 15% (FRT); expenses 15.7% vs 15.7%."
+  ]
+ },
+ "edition": "November 2026",
+ "years": [
+  {
+   "year": 1926,
+   "label": "1926-27",
+   "source": "hsc",
+   "revenue": 7.6,
+   "expenses": 6.8,
+   "balance": 0.8,
+   "debt": 49.8
+  },
+  {
+   "year": 1927,
+   "label": "1927-28",
+   "source": "hsc",
+   "revenue": 7.6,
+   "expenses": 6.7,
+   "balance": 0.9,
+   "debt": 44.8
+  },
+  {
+   "year": 1928,
+   "label": "1928-29",
+   "source": "hsc",
+   "revenue": 7.6,
+   "expenses": 6.5,
+   "balance": 1.1,
+   "debt": 41.2
+  },
+  {
+   "year": 1929,
+   "label": "1929-30",
+   "source": "hsc",
+   "revenue": 7.5,
+   "expenses": 6.7,
+   "balance": 0.8,
+   "debt": 40.3
+  },
+  {
+   "year": 1930,
+   "label": "1930-31",
+   "source": "hsc",
+   "revenue": 6.6,
+   "expenses": 8.1,
+   "balance": -1.5,
+   "debt": 46.2
+  },
+  {
+   "year": 1931,
+   "label": "1931-32",
+   "source": "hsc",
+   "revenue": 7.5,
+   "expenses": 10,
+   "balance": -2.5,
+   "debt": 61.1
+  },
+  {
+   "year": 1932,
+   "label": "1932-33",
+   "source": "hsc",
+   "revenue": 8.4,
+   "expenses": 14.2,
+   "balance": -5.9,
+   "debt": 77.1
+  },
+  {
+   "year": 1933,
+   "label": "1933-34",
+   "source": "hsc",
+   "revenue": 9,
+   "expenses": 12.7,
+   "balance": -3.7,
+   "debt": 83.9
+  },
+  {
+   "year": 1934,
+   "label": "1934-35",
+   "source": "hsc",
+   "revenue": 8.9,
+   "expenses": 11.8,
+   "balance": -2.9,
+   "debt": 79.1
+  },
+  {
+   "year": 1935,
+   "label": "1935-36",
+   "source": "hsc",
+   "revenue": 8.5,
+   "expenses": 12.2,
+   "balance": -3.6,
+   "debt": 78.3
+  },
+  {
+   "year": 1936,
+   "label": "1936-37",
+   "source": "hsc",
+   "revenue": 9.5,
+   "expenses": 11.1,
+   "balance": -1.6,
+   "debt": 74
+  },
+  {
+   "year": 1937,
+   "label": "1937-38",
+   "source": "hsc",
+   "revenue": 9.8,
+   "expenses": 10.2,
+   "balance": -0.3,
+   "debt": 67.4
+  },
+  {
+   "year": 1938,
+   "label": "1938-39",
+   "source": "hsc",
+   "revenue": 9.4,
+   "expenses": 10.3,
+   "balance": -1,
+   "debt": 67.5
+  },
+  {
+   "year": 1939,
+   "label": "1939-40",
+   "source": "hsc",
+   "revenue": 9.5,
+   "expenses": 11.6,
+   "balance": -2,
+   "debt": 67.2
+  },
+  {
+   "year": 1940,
+   "label": "1940-41",
+   "source": "hsc",
+   "revenue": 12.3,
+   "expenses": 17.6,
+   "balance": -5.3,
+   "debt": 70.4
+  },
+  {
+   "year": 1941,
+   "label": "1941-42",
+   "source": "hsc",
+   "revenue": 17,
+   "expenses": 21.5,
+   "balance": -4.5,
+   "debt": 75.5
+  },
+  {
+   "year": 1942,
+   "label": "1942-43",
+   "source": "hsc",
+   "revenue": 21.5,
+   "expenses": 41.9,
+   "balance": -20.4,
+   "debt": 84.3
+  },
+  {
+   "year": 1943,
+   "label": "1943-44",
+   "source": "hsc",
+   "revenue": 24.6,
+   "expenses": 47.3,
+   "balance": -22.7,
+   "debt": 104.9
+  },
+  {
+   "year": 1944,
+   "label": "1944-45",
+   "source": "hsc",
+   "revenue": 22.7,
+   "expenses": 44.3,
+   "balance": -21.6,
+   "debt": 125.8
+  },
+  {
+   "year": 1945,
+   "label": "1945-46",
+   "source": "hsc",
+   "revenue": 25.4,
+   "expenses": 43.3,
+   "balance": -17.9,
+   "debt": 150.8
+  },
+  {
+   "year": 1946,
+   "label": "1946-47",
+   "source": "hsc",
+   "revenue": 24.5,
+   "expenses": 21.4,
+   "balance": 3,
+   "debt": 144.1
+  },
+  {
+   "year": 1947,
+   "label": "1947-48",
+   "source": "hsc",
+   "revenue": 20.5,
+   "expenses": 15.7,
+   "balance": 4.8,
+   "debt": 122.9
+  },
+  {
+   "year": 1948,
+   "label": "1948-49",
+   "source": "hsc",
+   "revenue": 17.5,
+   "expenses": 13.7,
+   "balance": 3.8,
+   "debt": 107
+  },
+  {
+   "year": 1949,
+   "label": "1949-50",
+   "source": "hsc",
+   "revenue": 15,
+   "expenses": 14.2,
+   "balance": 0.8,
+   "debt": 97.1
+  },
+  {
+   "year": 1950,
+   "label": "1950-51",
+   "source": "hsc",
+   "revenue": 16.1,
+   "expenses": 15,
+   "balance": 1.1,
+   "debt": 86.6
+  },
+  {
+   "year": 1951,
+   "label": "1951-52",
+   "source": "hsc",
+   "revenue": 17.9,
+   "expenses": 16.8,
+   "balance": 1.1,
+   "debt": 75.9
+  },
+  {
+   "year": 1952,
+   "label": "1952-53",
+   "source": "hsc",
+   "revenue": 18.4,
+   "expenses": 18.7,
+   "balance": -0.2,
+   "debt": 70.7
+  },
+  {
+   "year": 1953,
+   "label": "1953-54",
+   "source": "hsc",
+   "revenue": 18.1,
+   "expenses": 18.3,
+   "balance": -0.1,
+   "debt": 67.7
+  },
+  {
+   "year": 1954,
+   "label": "1954-55",
+   "source": "hsc",
+   "revenue": 16.6,
+   "expenses": 17.5,
+   "balance": -0.9,
+   "debt": 65.6
+  },
+  {
+   "year": 1955,
+   "label": "1955-56",
+   "source": "hsc",
+   "revenue": 16,
+   "expenses": 16.3,
+   "balance": -0.2,
+   "debt": 63
+  },
+  {
+   "year": 1956,
+   "label": "1956-57",
+   "source": "hsc",
+   "revenue": 16.9,
+   "expenses": 16.1,
+   "balance": 0.8,
+   "debt": 54.8
+  },
+  {
+   "year": 1957,
+   "label": "1957-58",
+   "source": "hsc",
+   "revenue": 16,
+   "expenses": 16.2,
+   "balance": -0.2,
+   "debt": 52.7
+  },
+  {
+   "year": 1958,
+   "label": "1958-59",
+   "source": "hsc",
+   "revenue": 14.5,
+   "expenses": 16.9,
+   "balance": -2.3,
+   "debt": 56.6
+  },
+  {
+   "year": 1959,
+   "label": "1959-60",
+   "source": "hsc",
+   "revenue": 15.7,
+   "expenses": 16.9,
+   "balance": -1.2,
+   "debt": 55.6
+  },
+  {
+   "year": 1960,
+   "label": "1960-61",
+   "source": "hsc",
+   "revenue": 16.1,
+   "expenses": 16.9,
+   "balance": -0.9,
+   "debt": 55.3
+  },
+  {
+   "year": 1961,
+   "label": "1961-62",
+   "source": "hsc",
+   "revenue": 15.8,
+   "expenses": 17.7,
+   "balance": -1.9,
+   "debt": 56
+  },
+  {
+   "year": 1962,
+   "label": "1962-63",
+   "source": "hsc",
+   "revenue": 15,
+   "expenses": 16.7,
+   "balance": -1.7,
+   "debt": 56.1
+  },
+  {
+   "year": 1963,
+   "label": "1963-64",
+   "source": "hsc",
+   "revenue": 14.9,
+   "expenses": 16.3,
+   "balance": -1.4,
+   "debt": 54.5
+  },
+  {
+   "year": 1964,
+   "label": "1964-65",
+   "source": "hsc",
+   "revenue": 15.8,
+   "expenses": 15.7,
+   "balance": 0.1,
+   "debt": 51
+  },
+  {
+   "year": 1965,
+   "label": "1965-66",
+   "source": "hsc",
+   "revenue": 15.6,
+   "expenses": 15.2,
+   "balance": 0.4,
+   "debt": 47.3
+  },
+  {
+   "year": 1966,
+   "label": "1966-67",
+   "source": "frt",
+   "revenue": 15,
+   "expenses": 15.7,
+   "balance": -0.7,
+   "debt": 26.5,
+   "revenueM": 9975,
+   "expensesM": 10460,
+   "balanceM": -485,
+   "debtM": 17708
+  },
+  {
+   "year": 1967,
+   "label": "1967-68",
+   "source": "frt",
+   "revenue": 15.2,
+   "expenses": 16.7,
+   "balance": -1.5,
+   "debt": 26.1,
+   "revenueM": 10925,
+   "expensesM": 11967,
+   "balanceM": -1042,
+   "debtM": 18750
+  },
+  {
+   "year": 1968,
+   "label": "1968-69",
+   "source": "frt",
+   "revenue": 15.7,
+   "expenses": 16.6,
+   "balance": -0.8,
+   "debt": 24.7,
+   "revenueM": 12320,
+   "expensesM": 12987,
+   "balanceM": -667,
+   "debtM": 19417
+  },
+  {
+   "year": 1969,
+   "label": "1969-70",
+   "source": "frt",
+   "revenue": 17.1,
+   "expenses": 16.9,
+   "balance": 0.2,
+   "debt": 22.3,
+   "revenueM": 14755,
+   "expensesM": 14615,
+   "balanceM": 140,
+   "debtM": 19277
+  },
+  {
+   "year": 1970,
+   "label": "1970-71",
+   "source": "frt",
+   "revenue": 16.5,
+   "expenses": 17.6,
+   "balance": -1.1,
+   "debt": 21.8,
+   "revenueM": 15387,
+   "expensesM": 16403,
+   "balanceM": -1016,
+   "debtM": 20293
+  },
+  {
+   "year": 1971,
+   "label": "1971-72",
+   "source": "frt",
+   "revenue": 16.8,
+   "expenses": 18.6,
+   "balance": -1.8,
+   "debt": 21.7,
+   "revenueM": 17119,
+   "expensesM": 18905,
+   "balanceM": -1786,
+   "debtM": 22079
+  },
+  {
+   "year": 1972,
+   "label": "1972-73",
+   "source": "frt",
+   "revenue": 17.4,
+   "expenses": 19.1,
+   "balance": -1.7,
+   "debt": 21.1,
+   "revenueM": 19808,
+   "expensesM": 21709,
+   "balanceM": -1901,
+   "debtM": 23980
+  },
+  {
+   "year": 1973,
+   "label": "1973-74",
+   "source": "frt",
+   "revenue": 17.3,
+   "expenses": 18.9,
+   "balance": -1.7,
+   "debt": 19.7,
+   "revenueM": 22997,
+   "expensesM": 25208,
+   "balanceM": -2211,
+   "debtM": 26191
+  },
+  {
+   "year": 1974,
+   "label": "1974-75",
+   "source": "frt",
+   "revenue": 18.9,
+   "expenses": 20.3,
+   "balance": -1.4,
+   "debt": 18,
+   "revenueM": 29965,
+   "expensesM": 32190,
+   "balanceM": -2225,
+   "debtM": 28416
+  },
+  {
+   "year": 1975,
+   "label": "1975-76",
+   "source": "frt",
+   "revenue": 18.2,
+   "expenses": 21.7,
+   "balance": -3.5,
+   "debt": 19.5,
+   "revenueM": 32441,
+   "expensesM": 38645,
+   "balanceM": -6204,
+   "debtM": 34620
+  },
+  {
+   "year": 1976,
+   "label": "1976-77",
+   "source": "frt",
+   "revenue": 17.1,
+   "expenses": 20.5,
+   "balance": -3.3,
+   "debt": 20.2,
+   "revenueM": 35283,
+   "expensesM": 42180,
+   "balanceM": -6897,
+   "debtM": 41517
+  },
+  {
+   "year": 1977,
+   "label": "1977-78",
+   "source": "frt",
+   "revenue": 15.7,
+   "expenses": 20.4,
+   "balance": -4.8,
+   "debt": 23,
+   "revenueM": 35633,
+   "expensesM": 46512,
+   "balanceM": -10879,
+   "debtM": 52396
+  },
+  {
+   "year": 1978,
+   "label": "1978-79",
+   "source": "frt",
+   "revenue": 15.2,
+   "expenses": 20.3,
+   "balance": -5.2,
+   "debt": 26,
+   "revenueM": 38214,
+   "expensesM": 51243,
+   "balanceM": -13029,
+   "debtM": 65425
+  },
+  {
+   "year": 1979,
+   "label": "1979-80",
+   "source": "frt",
+   "revenue": 15.1,
+   "expenses": 19.3,
+   "balance": -4.2,
+   "debt": 26.9,
+   "revenueM": 43310,
+   "expensesM": 55277,
+   "balanceM": -11967,
+   "debtM": 77392
+  },
+  {
+   "year": 1980,
+   "label": "1980-81",
+   "source": "frt",
+   "revenue": 16.5,
+   "expenses": 21,
+   "balance": -4.5,
+   "debt": 28.5,
+   "revenueM": 53181,
+   "expensesM": 67737,
+   "balanceM": -14556,
+   "debtM": 91948
+  },
+  {
+   "year": 1981,
+   "label": "1981-82",
+   "source": "frt",
+   "revenue": 18.3,
+   "expenses": 22.5,
+   "balance": -4.3,
+   "debt": 29.2,
+   "revenueM": 67289,
+   "expensesM": 82963,
+   "balanceM": -15674,
+   "debtM": 107622
+  },
+  {
+   "year": 1982,
+   "label": "1982-83",
+   "source": "frt",
+   "revenue": 17.4,
+   "expenses": 24.9,
+   "balance": -7.5,
+   "debt": 35.2,
+   "revenueM": 67430,
+   "expensesM": 96479,
+   "balanceM": -29049,
+   "debtM": 136671
+  },
+  {
+   "year": 1983,
+   "label": "1983-84",
+   "source": "frt",
+   "revenue": 15.5,
+   "expenses": 23.1,
+   "balance": -7.7,
+   "debt": 37.3,
+   "revenueM": 65261,
+   "expensesM": 97624,
+   "balanceM": -32363,
+   "debtM": 157252
+  },
+  {
+   "year": 1984,
+   "label": "1984-85",
+   "source": "frt",
+   "revenue": 15.6,
+   "expenses": 23.6,
+   "balance": -8,
+   "debt": 42.1,
+   "revenueM": 71999,
+   "expensesM": 109166,
+   "balanceM": -37167,
+   "debtM": 194419
+  },
+  {
+   "year": 1985,
+   "label": "1985-86",
+   "source": "frt",
+   "revenue": 15.5,
+   "expenses": 22.2,
+   "balance": -6.7,
+   "debt": 45.6,
+   "revenueM": 77742,
+   "expensesM": 111131,
+   "balanceM": -33389,
+   "debtM": 227808
+  },
+  {
+   "year": 1986,
+   "label": "1986-87",
+   "source": "frt",
+   "revenue": 16.5,
+   "expenses": 22.2,
+   "balance": -5.7,
+   "debt": 48.9,
+   "revenueM": 86746,
+   "expensesM": 116588,
+   "balanceM": -29842,
+   "debtM": 257650
+  },
+  {
+   "year": 1987,
+   "label": "1987-88",
+   "source": "frt",
+   "revenue": 16.9,
+   "expenses": 21.9,
+   "balance": -5.1,
+   "debt": 49.9,
+   "revenueM": 97215,
+   "expensesM": 126232,
+   "balanceM": -29017,
+   "debtM": 286667
+  },
+  {
+   "year": 1988,
+   "label": "1988-89",
+   "source": "frt",
+   "revenue": 17,
+   "expenses": 21.5,
+   "balance": -4.5,
+   "debt": 50.2,
+   "revenueM": 106349,
+   "expensesM": 134296,
+   "balanceM": -27947,
+   "debtM": 314614
+  },
+  {
+   "year": 1989,
+   "label": "1989-90",
+   "source": "frt",
+   "revenue": 17.3,
+   "expenses": 21.6,
+   "balance": -4.3,
+   "debt": 51.2,
+   "revenueM": 115887,
+   "expensesM": 145030,
+   "balanceM": -29143,
+   "debtM": 343757
+  },
+  {
+   "year": 1990,
+   "label": "1990-91",
+   "source": "frt",
+   "revenue": 17.2,
+   "expenses": 22.1,
+   "balance": -4.9,
+   "debt": 54.3,
+   "revenueM": 119685,
+   "expensesM": 153584,
+   "balanceM": -33899,
+   "debtM": 377656
+  },
+  {
+   "year": 1991,
+   "label": "1991-92",
+   "source": "frt",
+   "revenue": 18,
+   "expenses": 22.6,
+   "balance": -4.6,
+   "debt": 58.4,
+   "revenueM": 126086,
+   "expensesM": 158405,
+   "balanceM": -32319,
+   "debtM": 409975
+  },
+  {
+   "year": 1992,
+   "label": "1992-93",
+   "source": "frt",
+   "revenue": 17.3,
+   "expenses": 22.8,
+   "balance": -5.4,
+   "debt": 62.5,
+   "revenueM": 124486,
+   "expensesM": 163505,
+   "balanceM": -39019,
+   "debtM": 448994
+  },
+  {
+   "year": 1993,
+   "label": "1993-94",
+   "source": "frt",
+   "revenue": 16.6,
+   "expenses": 21.8,
+   "balance": -5.2,
+   "debt": 65.3,
+   "revenueM": 123873,
+   "expensesM": 162403,
+   "balanceM": -38530,
+   "debtM": 487524
+  },
+  {
+   "year": 1994,
+   "label": "1994-95",
+   "source": "frt",
+   "revenue": 16.5,
+   "expenses": 21.2,
+   "balance": -4.6,
+   "debt": 66.2,
+   "revenueM": 130791,
+   "expensesM": 167423,
+   "balanceM": -36632,
+   "debtM": 524156
+  },
+  {
+   "year": 1995,
+   "label": "1995-96",
+   "source": "frt",
+   "revenue": 16.9,
+   "expenses": 20.4,
+   "balance": -3.6,
+   "debt": 66.6,
+   "revenueM": 140257,
+   "expensesM": 170263,
+   "balanceM": -30006,
+   "debtM": 554162
+  },
+  {
+   "year": 1996,
+   "label": "1996-97",
+   "source": "frt",
+   "revenue": 17.4,
+   "expenses": 18.4,
+   "balance": -1,
+   "debt": 65.5,
+   "revenueM": 149889,
+   "expensesM": 158608,
+   "balanceM": -8719,
+   "debtM": 562881
+  },
+  {
+   "year": 1997,
+   "label": "1997-98",
+   "source": "frt",
+   "revenue": 17.7,
+   "expenses": 17.5,
+   "balance": 0.3,
+   "debt": 61.7,
+   "revenueM": 160864,
+   "expensesM": 157905,
+   "balanceM": 2959,
+   "debtM": 559922
+  },
+  {
+   "year": 1998,
+   "label": "1998-99",
+   "source": "frt",
+   "revenue": 17.6,
+   "expenses": 17,
+   "balance": 0.6,
+   "debt": 58.9,
+   "revenueM": 165520,
+   "expensesM": 159741,
+   "balanceM": 5779,
+   "debtM": 554143
+  },
+  {
+   "year": 1999,
+   "label": "1999-00",
+   "source": "frt",
+   "revenue": 17.5,
+   "expenses": 16.1,
+   "balance": 1.4,
+   "debt": 53.6,
+   "revenueM": 176408,
+   "expensesM": 162150,
+   "balanceM": 14258,
+   "debtM": 539885
+  },
+  {
+   "year": 2000,
+   "label": "2000-01",
+   "source": "frt",
+   "revenue": 17.6,
+   "expenses": 15.8,
+   "balance": 1.8,
+   "debt": 47,
+   "revenueM": 194349,
+   "expensesM": 174458,
+   "balanceM": 19891,
+   "debtM": 519994
+  },
+  {
+   "year": 2001,
+   "label": "2001-02",
+   "source": "frt",
+   "revenue": 16.1,
+   "expenses": 15.4,
+   "balance": 0.7,
+   "debt": 44.7,
+   "revenueM": 183930,
+   "expensesM": 175882,
+   "balanceM": 8048,
+   "debtM": 511946
+  },
+  {
+   "year": 2002,
+   "label": "2002-03",
+   "source": "frt",
+   "revenue": 16,
+   "expenses": 15.4,
+   "balance": 0.6,
+   "debt": 42.3,
+   "revenueM": 190570,
+   "expensesM": 183949,
+   "balanceM": 6621,
+   "debtM": 505325
+  },
+  {
+   "year": 2003,
+   "label": "2003-04",
+   "source": "frt",
+   "revenue": 16,
+   "expenses": 15.3,
+   "balance": 0.7,
+   "debt": 39.5,
+   "revenueM": 200788,
+   "expensesM": 191643,
+   "balanceM": 9145,
+   "debtM": 496180
+  },
+  {
+   "year": 2004,
+   "label": "2004-05",
+   "source": "frt",
+   "revenue": 16,
+   "expenses": 16,
+   "balance": 0.1,
+   "debt": 37,
+   "revenueM": 214237,
+   "expensesM": 212774,
+   "balanceM": 1463,
+   "debtM": 494717
+  },
+  {
+   "year": 2005,
+   "label": "2005-06",
+   "source": "frt",
+   "revenue": 15.8,
+   "expenses": 14.9,
+   "balance": 0.9,
+   "debt": 33.9,
+   "revenueM": 224343,
+   "expensesM": 211125,
+   "balanceM": 13218,
+   "debtM": 481499
+  },
+  {
+   "year": 2006,
+   "label": "2006-07",
+   "source": "frt",
+   "revenue": 15.9,
+   "expenses": 15,
+   "balance": 0.9,
+   "debt": 31.2,
+   "revenueM": 238397,
+   "expensesM": 224645,
+   "balanceM": 13752,
+   "debtM": 467268
+  },
+  {
+   "year": 2007,
+   "label": "2007-08",
+   "source": "frt",
+   "revenue": 15.6,
+   "expenses": 14.9,
+   "balance": 0.6,
+   "debt": 29,
+   "revenueM": 245525,
+   "expensesM": 235928,
+   "balanceM": 9597,
+   "debtM": 457637
+  },
+  {
+   "year": 2008,
+   "label": "2008-09",
+   "source": "frt",
+   "revenue": 14.3,
+   "expenses": 14.9,
+   "balance": -0.6,
+   "debt": 28.2,
+   "revenueM": 237286,
+   "expensesM": 246402,
+   "balanceM": -9116,
+   "debtM": 467946
+  },
+  {
+   "year": 2009,
+   "label": "2009-10",
+   "source": "frt",
+   "revenue": 14,
+   "expenses": 17.6,
+   "balance": -3.6,
+   "debt": 33.4,
+   "revenueM": 220611,
+   "expensesM": 276979,
+   "balanceM": -56368,
+   "debtM": 524103
+  },
+  {
+   "year": 2010,
+   "label": "2010-11",
+   "source": "frt",
+   "revenue": 14.4,
+   "expenses": 16.4,
+   "balance": -2.1,
+   "debt": 33.4,
+   "revenueM": 239255,
+   "expensesM": 274208,
+   "balanceM": -34953,
+   "debtM": 556914
+  },
+  {
+   "year": 2011,
+   "label": "2011-12",
+   "source": "frt",
+   "revenue": 13.9,
+   "expenses": 15.4,
+   "balance": -1.6,
+   "debt": 33.4,
+   "revenueM": 246682,
+   "expensesM": 274715,
+   "balanceM": -28033,
+   "debtM": 591917
+  },
+  {
+   "year": 2012,
+   "label": "2012-13",
+   "source": "frt",
+   "revenue": 13.9,
+   "expenses": 15.1,
+   "balance": -1.2,
+   "debt": 34,
+   "revenueM": 254410,
+   "expensesM": 275703,
+   "balanceM": -21293,
+   "debtM": 620610
+  },
+  {
+   "year": 2013,
+   "label": "2013-14",
+   "source": "frt",
+   "revenue": 14.2,
+   "expenses": 14.6,
+   "balance": -0.4,
+   "debt": 32.9,
+   "revenueM": 270012,
+   "expensesM": 278062,
+   "balanceM": -8050,
+   "debtM": 626000
+  },
+  {
+   "year": 2014,
+   "label": "2014-15",
+   "source": "frt",
+   "revenue": 14,
+   "expenses": 14.1,
+   "balance": 0,
+   "debt": 31.5,
+   "revenueM": 279905,
+   "expensesM": 280455,
+   "balanceM": -550,
+   "debtM": 628910
+  },
+  {
+   "year": 2015,
+   "label": "2015-16",
+   "source": "frt",
+   "revenue": 14.7,
+   "expenses": 14.8,
+   "balance": -0.1,
+   "debt": 31.9,
+   "revenueM": 292608,
+   "expensesM": 295469,
+   "balanceM": -2861,
+   "debtM": 634440
+  },
+  {
+   "year": 2016,
+   "label": "2016-17",
+   "source": "frt",
+   "revenue": 14.4,
+   "expenses": 15.3,
+   "balance": -0.9,
+   "debt": 32.2,
+   "revenueM": 290868,
+   "expensesM": 309825,
+   "balanceM": -18957,
+   "debtM": 651540
+  },
+  {
+   "year": 2017,
+   "label": "2017-18",
+   "source": "frt",
+   "revenue": 14.5,
+   "expenses": 15.4,
+   "balance": -0.9,
+   "debt": 31.4,
+   "revenueM": 311216,
+   "expensesM": 330177,
+   "balanceM": -18961,
+   "debtM": 671254
+  },
+  {
+   "year": 2018,
+   "label": "2018-19",
+   "source": "frt",
+   "revenue": 14.9,
+   "expenses": 15.5,
+   "balance": -0.6,
+   "debt": 30.7,
+   "revenueM": 332218,
+   "expensesM": 346182,
+   "balanceM": -13964,
+   "debtM": 685450
+  },
+  {
+   "year": 2019,
+   "label": "2019-20",
+   "source": "frt",
+   "revenue": 14.4,
+   "expenses": 16.2,
+   "balance": -1.7,
+   "debt": 31.2,
+   "revenueM": 334131,
+   "expensesM": 373523,
+   "balanceM": -39392,
+   "debtM": 721360
+  },
+  {
+   "year": 2020,
+   "label": "2020-21",
+   "source": "frt",
+   "revenue": 14.3,
+   "expenses": 29,
+   "balance": -14.8,
+   "debt": 47.2,
+   "revenueM": 316446,
+   "expensesM": 644175,
+   "balanceM": -327729,
+   "debtM": 1048746
+  },
+  {
+   "year": 2021,
+   "label": "2021-22",
+   "source": "frt",
+   "revenue": 16.3,
+   "expenses": 19.9,
+   "balance": -3.6,
+   "debt": 45,
+   "revenueM": 413277,
+   "expensesM": 503592,
+   "balanceM": -90315,
+   "debtM": 1139975
+  },
+  {
+   "year": 2022,
+   "label": "2022-23",
+   "source": "frt",
+   "revenue": 15.6,
+   "expenses": 16.8,
+   "balance": -1.2,
+   "debt": 41,
+   "revenueM": 447815,
+   "expensesM": 483137,
+   "balanceM": -35322,
+   "debtM": 1173013
+  },
+  {
+   "year": 2023,
+   "label": "2023-24",
+   "source": "frt",
+   "revenue": 15.5,
+   "expenses": 17.6,
+   "balance": -2.1,
+   "debt": 41.7,
+   "revenueM": 459549,
+   "expensesM": 521425,
+   "balanceM": -61876,
+   "debtM": 1236151
+  },
+  {
+   "year": 2024,
+   "label": "2024-25",
+   "source": "frt",
+   "revenue": 16.4,
+   "expenses": 17.6,
+   "balance": -1.2,
+   "debt": 40.7,
+   "revenueM": 510951,
+   "expensesM": 547299,
+   "balanceM": -36348,
+   "debtM": 1266484
+  },
+  {
+   "year": 2025,
+   "label": "2025-26",
+   "source": "frt",
+   "revenue": 16.2,
+   "expenses": 17.4,
+   "balance": -1.2,
+   "debt": 40.2,
+   "revenueM": 526412,
+   "expensesM": 565728,
+   "balanceM": -39316,
+   "debtM": 1306114
+  }
+ ],
+ "latest": {
+  "year": 2025,
+  "label": "2025-26",
+  "population": 41652000,
+  "revenue": {
+   "total": 526412,
+   "items": [
+    {
+     "key": "pit",
+     "label": "Personal income tax",
+     "value": 247735
+    },
+    {
+     "key": "cit",
+     "label": "Corporate income tax",
+     "value": 104241
+    },
+    {
+     "key": "gst",
+     "label": "Goods and Services Tax (GST)",
+     "value": 51810
+    },
+    {
+     "key": "ei",
+     "label": "Employment Insurance premiums",
+     "value": 32524
+    },
+    {
+     "key": "nonres",
+     "label": "Non-resident income tax",
+     "value": 14497
+    },
+    {
+     "key": "duties",
+     "label": "Customs, energy and other taxes",
+     "value": 23345
+    },
+    {
+     "key": "other",
+     "label": "Other revenue (Crown corporations, fees, investments)",
+     "value": 52266
+    }
+   ],
+   "omitted": [
+    {
+     "key": "pollution",
+     "label": "Pollution pricing proceeds",
+     "value": -6
+    }
+   ]
+  },
+  "expenses": {
+   "total": 565728,
+   "items": [
+    {
+     "key": "elderly",
+     "group": "persons",
+     "label": "Old Age Security and other benefits for seniors",
+     "value": 82741
+    },
+    {
+     "key": "children",
+     "group": "persons",
+     "label": "Canada Child Benefit",
+     "value": 30100
+    },
+    {
+     "key": "ei",
+     "group": "persons",
+     "label": "Employment Insurance",
+     "value": 28830
+    },
+    {
+     "key": "health-social",
+     "group": "governments",
+     "label": "Canada Health Transfer and Canada Social Transfer",
+     "value": 72078
+    },
+    {
+     "key": "fiscal",
+     "group": "governments",
+     "label": "Equalization and Territorial Formula Financing",
+     "value": 31703
+    },
+    {
+     "key": "gov-other",
+     "group": "governments",
+     "label": "Child care and other transfers to governments",
+     "value": 7060
+    },
+    {
+     "key": "pollution",
+     "group": "pollution",
+     "label": "Pollution pricing proceeds returned",
+     "value": 4308
+    },
+    {
+     "key": "direct",
+     "group": "direct",
+     "label": "Direct program spending (departments, defence, agencies)",
+     "value": 255367
+    },
+    {
+     "key": "debt",
+     "group": "debt",
+     "label": "Interest on the debt (public debt charges)",
+     "value": 53541
+    }
+   ],
+   "omitted": [
+    {
+     "key": "persons-other",
+     "group": "persons",
+     "label": "Other transfers to persons",
+     "value": 0
+    }
+   ]
+  }
+ }
+}

@@ -209,3 +209,65 @@
     practice means the government. This royal recommendation means only ministers can
     propose new spending.
   source: https://laws-lois.justice.gc.ca/eng/const/page-2.html
+
+- id: government-spending-peak
+  pages: [learn/government/the-budget]
+  tags: [money]
+  type: single
+  question: Measured as a share of the whole economy (GDP), when was federal spending at its highest in the last hundred years?
+  options:
+    - During the Second World War
+    - During the 1970s
+    - During the 2008 financial crisis
+    - During the COVID-19 pandemic
+  answer: 0
+  explanation: >
+    Federal spending reached about 47% of GDP in 1943-44, to pay for the war. The next
+    highest was about 29% in 2020-21, during COVID-19. In every other year since 1950 it has
+    been between about 14% and 25%.
+  source: https://www.canada.ca/en/department-finance/services/publications/fiscal-reference-tables/2026.html
+
+- id: government-biggest-revenue
+  pages: [learn/government/the-budget]
+  tags: [money]
+  type: single
+  question: Which source brings in the most money for the federal government?
+  options:
+    - The Goods and Services Tax (GST)
+    - Corporate income tax
+    - Personal income tax
+    - Employment Insurance premiums
+  answer: 2
+  explanation: >
+    Personal income tax brings in close to half of all federal revenue. Corporate
+    income tax is second, at about a fifth, and the GST about a tenth.
+  source: https://www.canada.ca/en/department-finance/services/publications/fiscal-reference-tables/2026.html
+
+- id: government-rate-peak
+  pages: [learn/government/bank-of-canada-vs-mint]
+  tags: [money]
+  type: single
+  question: The Bank of Canada's key interest rate went above 20% once in its history. When?
+  options:
+    - In 1945, at the end of the Second World War
+    - In 1981, when inflation was running above 10%
+    - In 2008, during the financial crisis
+    - In 2022, when inflation jumped after the pandemic
+  answer: 1
+  explanation: >
+    The Bank Rate peaked at about 21% in August 1981, as the Bank fought double-digit
+    inflation. In 2008 and 2020 it cut its rate close to zero, and after inflation
+    jumped in 2022 it raised it to 5% by 2023.
+  source: https://www.bankofcanada.ca/rates/interest-rates/canadian-interest-rates/
+
+- id: government-inflation-since-targets
+  pages: [learn/government/bank-of-canada-vs-mint]
+  tags: [money]
+  type: true-false
+  question: Since inflation targets were adopted in the early 1990s, consumer prices in Canada have risen by about 2% a year on average.
+  answer: true
+  explanation: >
+    Average inflation since 1992 has been close to the 2% target, though it has strayed
+    outside the 1% to 3% range at times, most notably in 2022. Before targets, prices
+    sometimes rose more than 10% a year.
+  source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000501

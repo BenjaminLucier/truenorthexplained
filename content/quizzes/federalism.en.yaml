@@ -228,3 +228,32 @@
     The Court ruled 5–4 that the law was constitutional. The province's power over
     municipalities under s. 92(8) wasn't in dispute.
   source: https://www.scc-csc.ca/judgments-jugements/cb/2021/38921/
+
+- id: federalism-ontario-equalization
+  pages: [learn/federalism/money-and-equalization]
+  tags: [money]
+  type: true-false
+  question: Ontario, Canada's most populous province, has never received equalization.
+  answer: false
+  explanation: >
+    Ontario received no equalization for its first five decades, then qualified from
+    2009-10 when its fiscal capacity fell below the standard, and has received it in
+    many years since. Every province has received equalization at some point since 1957.
+  source: https://open.canada.ca/data/en/dataset/4eee1558-45b7-4484-9336-e692897d393f
+
+- id: federalism-transfers-per-person
+  pages: [learn/federalism/money-and-equalization]
+  tags: [money]
+  type: single
+  question: Why do some provinces receive far more in major federal transfers per resident than others?
+  options:
+    - The Canada Health Transfer pays more per person to provinces with older populations
+    - Equalization goes only to provinces with below-average fiscal capacity
+    - Larger provinces negotiate bigger health and social transfers
+    - Provinces that raise their own taxes lose their health transfer
+  answer: 1
+  explanation: >
+    The Canada Health Transfer and Canada Social Transfer pay the same amount per
+    person everywhere. Equalization is paid only to provinces whose ability to raise
+    revenue is below the national standard, so it is what makes the totals differ.
+  source: https://www.canada.ca/en/department-finance/programs/federal-transfers/equalization.html

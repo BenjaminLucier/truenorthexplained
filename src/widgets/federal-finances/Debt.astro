@@ -1,0 +1,109 @@
+---
+/** Federal debt as a share of GDP: gross debt before 1966-67, the accumulated deficit after. */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import SeriesChart from "../../components/charts/SeriesChart.astro";
+import Legend from "../../components/charts/Legend.astro";
+import { finances, formatMillions } from "../../lib/money";
+import { ERAS, X_MAX, X_MIN, X_TICKS, last, pct1, years } from "./eras";
+
+const DEBT = "var(--tn-data-cat-7)";
+const old = years.filter((y) => y.source === "hsc");
+const modern = years.filter((y) => y.source === "frt");
+const warPeak = old.reduce((a, b) => (b.debt > a.debt ? b : a));
+const peak = modern.reduce((a, b) => (b.debt > a.debt ? b : a));
+const low = modern.filter((y) => y.year > peak.year && y.year < 2015).reduce((a, b) => (b.debt < a.debt ? b : a));
+const covid = modern.find((y) => y.year === 2020);
+const yMax = Math.ceil(Math.max(...years.map((y) => y.debt)) / 40) * 40;
+---
+
+<ChartCard
+  title={`Federal debt, ${years[0]!.label} to ${last.label}`}
+  lede={`Debt peaked at ${pct1(peak.debt)} of GDP in ${peak.label}, fell to ${pct1(low.debt)} by ${low.label}, rose to ${pct1(covid?.debt ?? 0)} in 2020-21 with COVID-19, and was ${pct1(last.debt)} (${formatMillions(last.debtM ?? 0, 0)}) in ${last.label}. Wartime borrowing pushed the older, gross measure to ${pct1(warPeak.debt)} in ${warPeak.label}.`}
+  sources={[
+    { label: `Finance Canada, Fiscal Reference Tables (${finances.edition}), tables 1 and 2`, url: finances._meta.url },
+    { label: "Statistics Canada, Historical Statistics of Canada, series H35-51 and F14-32", url: finances._meta.urls![2]! },
+  ]}
+  tableLabel="Show the data"
+>
+  <Legend
+    items={[
+      { label: `Accumulated deficit, ${modern[0]!.label} on (Finance Canada's "federal debt")`, color: DEBT },
+      { label: `Gross direct debt, ${old[0]!.label} to ${old.at(-1)!.label} (older measure)`, color: DEBT, kind: "dashed" },
+    ]}
+  />
+  <p class="mt-3 text-xs font-medium text-muted">Per cent of GDP</p>
+  <SeriesChart
+    title="Federal debt as a share of GDP"
+    desc={`A dashed line for gross debt from ${old[0]!.label} to ${old.at(-1)!.label}, peaking at ${pct1(warPeak.debt)} in ${warPeak.label}, then a solid line for the accumulated deficit, peaking at ${pct1(peak.debt)} in ${peak.label} and ending at ${pct1(last.debt)} in ${last.label}.`}
+    height={260}
+    xMin={X_MIN}
+    xMax={X_MAX}
+    yMin={0}
+    yMax={yMax}
+    yTicks={Array.from({ length: yMax / 40 + 1 }, (_, i) => i * 40)}
+    yFormat={(v) => `${v}%`}
+    xTicks={X_TICKS}
+    eras={ERAS}
+    lines={[
+      { points: old.map((y) => [y.year, y.debt]), color: DEBT, dashed: true },
+      { points: modern.map((y) => [y.year, y.debt]), color: DEBT, area: true },
+    ]}
+    notes={[
+      { x: warPeak.year, y: warPeak.debt, label: `${pct1(warPeak.debt)} in ${warPeak.label}`, color: DEBT, dy: -4 },
+      { x: peak.year, y: peak.debt, label: `${pct1(peak.debt)} in ${peak.label}`, color: DEBT, anchor: "end", dy: -6 },
+    ]}
+    hover={{
+      xs: years.map((y) => y.year),
+      labels: years.map((y) => y.label),
+      labelPrefix: "Fiscal year ",
+      series: [
+        { label: "Gross direct debt", color: DEBT, suf: "% of GDP" },
+        { label: "Accumulated deficit", color: DEBT, suf: "% of GDP" },
+        { label: "In dollars", color: "var(--tn-text-muted)", pre: "$", suf: " billion", scale: 0.001, dp: 0, dot: false },
+      ],
+      values: [
+        years.map((y) => (y.source === "hsc" ? y.debt : null)),
+        years.map((y) => (y.source === "frt" ? y.debt : null)),
+        years.map((y) => y.debtM ?? null),
+      ],
+    }}
+    hoverLabel="Federal debt chart: use the left and right arrow keys to read each year"
+  />
+  <p class="mt-2 text-end text-xs text-muted">Fiscal year (starting April 1)</p>
+  <p class="mt-3 text-xs text-muted">
+    The two lines measure different things, so don't join them. Before 1966-67 the only long series is gross debt: what
+    Ottawa owed, less sinking funds, from Statistics Canada's Historical Statistics. From 1966-67 the line is the
+    accumulated deficit, which Finance Canada calls the federal debt: everything owed minus everything owned. Gross debt
+    runs much higher.
+  </p>
+
+  <Fragment slot="table">
+    <div class="max-h-96 overflow-y-auto">
+      <table>
+        <thead class="sticky top-0">
+          <tr>
+            <th scope="col">Fiscal year</th>
+            <th scope="col">Debt, % of GDP</th>
+            <th scope="col">Measure</th>
+            <th scope="col">Debt, $ billions</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            years.toReversed().map((y) => (
+              <tr>
+                <th scope="row" class="font-normal">
+                  {y.label}
+                </th>
+                <td>{pct1(y.debt)}</td>
+                <td>{y.source === "frt" ? "Accumulated deficit" : "Gross direct debt"}</td>
+                <td>{y.debtM ? (y.debtM / 1000).toFixed(1) : "—"}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+        <caption>Debt at March 31, the end of each fiscal year. Dollar figures are not adjusted for inflation.</caption>
+      </table>
+    </div>
+  </Fragment>
+</ChartCard>

@@ -15,6 +15,7 @@
     "review": "tsx scripts/validate.ts --review",
     "data:elections": "tsx scripts/data/elections.ts",
     "data:geo": "tsx scripts/data/geo.ts",
+    "data:money": "tsx scripts/data/money.ts",
     "data:population": "tsx scripts/data/province-population.ts",
     "grounding": "tsx scripts/grounding/index.ts"
   },
