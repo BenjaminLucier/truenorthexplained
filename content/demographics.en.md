@@ -6,7 +6,7 @@ status: draft
 ---
 
 Who lives in Canada, and where, shapes almost everything else on this site. Seats in the
-House of Commons are shared out by population, federal transfers follow population, and
+[House of Commons](org:house-of-commons) are shared out by population, federal transfers follow population, and
 an ageing country spends more on health care and pensions. This page shows the long-run
 trends using Statistics Canada's own figures.
 
@@ -42,10 +42,10 @@ living at least 400 to the square kilometre.
 
 Because seats in the House of Commons are based on population, a province's share of
 Canada's population roughly tracks its share of MPs. The Constitution softens the effect
-for slower-growing provinces: under the [senatorial clause](/glossary#senatorial-clause),
+for slower-growing provinces: under the [senatorial clause](term:senatorial-clause),
 no province can have fewer MPs than senators, and a "grandfather clause" protects some
 provinces from losing seats. See [Prince Edward Island](/provinces/prince-edward-island)
-for the clearest example, and [Parliament](/learn/parliament) for how the House works.
+for the clearest example, and [Parliament](org:parliament) for how the House works.
 <!-- check: grandfather clause wording (Representation Act, 1985 and Fair Representation Act, 2011) -->
 
 <tn-widget name="demographics" data-chart="share"></tn-widget>
@@ -70,7 +70,7 @@ The 2021 Census asked immigrants when they arrived and where they were born:
 
 ## English, French and other languages
 
-Canada has two official languages, English and French (see
+Canada has two [official languages](term:official-languages), English and French (see
 [sections 16 to 22 of the Charter](/learn/charter/your-rights)). The census asks for each
 person's **mother tongue**: the first language they learned at home as a child and
 still understand. Immigration has made the country more multilingual, so both
@@ -80,8 +80,8 @@ official languages now make up a smaller share than they once did.
 
 ## First Nations, Métis and Inuit
 
-The Constitution recognizes three **Indigenous peoples**: First Nations, Métis and
-Inuit (s. 35(2) of the Constitution Act, 1982). The census asks people whether they
+The Constitution recognizes three **[Indigenous peoples](term:indigenous-peoples)**: First Nations, Métis and
+Inuit ([s. 35(2)](doc:constitution-act-1982/s35) of the Constitution Act, 1982). The census asks people whether they
 identify as one of them. See [Indigenous peoples and the Crown](/learn/indigenous) for
 what that recognition means.
 

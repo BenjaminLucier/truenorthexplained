@@ -115,7 +115,7 @@ events:
     date: 1848-02
     text: In February, Nova Scotia becomes the first colony in the British Empire with responsible government; the Province of Canada follows weeks later.
     era: before-confederation
-    pages: [/provinces/nova-scotia]
+    pages: [/provinces/nova-scotia, /learn/constitution/conventions]
     entities: [term:responsible-government]
 
   - id: newfoundland-responsible-government-1855
@@ -167,7 +167,7 @@ events:
     text: Canada acquires Rupert's Land and the North-Western Territory, which become the North-West Territories.
     era: building-the-country
     module: federalism
-    pages: [/learn/federalism/territories, /provinces/northwest-territories]
+    pages: [/learn/federalism/territories, /provinces/northwest-territories, /provinces/manitoba]
     entities: [term:territory]
 
   - id: manitoba-act-1870
@@ -569,7 +569,7 @@ events:
     text: On April 17, the Constitution Act, 1982 comes into force, adding the Charter, an amending formula and section 35, and ending Britain's last formal role.
     era: charter-era
     module: constitution
-    pages: [/learn/constitution/patriation-1982]
+    pages: [/learn/constitution/patriation-1982, /learn/constitution]
     people: [person:pierre-trudeau, person:elizabeth-ii]
     entities: [doc:constitution-act-1982, doc:charter, term:patriation]
 
@@ -825,7 +825,7 @@ events:
     date: 2001
     text: A constitutional amendment renames Newfoundland as Newfoundland and Labrador.
     era: recent
-    pages: [/provinces/newfoundland-and-labrador]
+    pages: [/provinces/newfoundland-and-labrador, { page: /learn/constitution/amending-formula, label: Amending formula }]
 
   - id: yukon-devolution-2003
     title: Yukon devolution
@@ -949,7 +949,7 @@ events:
     date: 2014-04-01
     text: On April 1, the Northwest Territories takes over its public lands and resources.
     era: recent
-    pages: [/provinces/northwest-territories]
+    pages: [/provinces/northwest-territories, { page: /learn/federalism/territories, label: Territories }]
     entities: [term:devolution]
 
   - id: trc-calls-to-action-2015
@@ -1105,7 +1105,7 @@ events:
     date: 2024-01-18
     text: Nunavut signs its lands and resources devolution agreement on January 18.
     era: recent
-    pages: [/provinces/nunavut]
+    pages: [/provinces/nunavut, { page: /learn/federalism/territories, label: Territories }]
     entities: [term:devolution]
 
   - id: child-and-family-services-reference-2024

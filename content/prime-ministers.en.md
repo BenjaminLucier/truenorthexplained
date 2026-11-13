@@ -7,7 +7,7 @@ status: draft
 
 The **Prime Minister** is Canada's head of government: the person who leads the Cabinet
 and sets the government's direction. Canadians don't vote for the Prime Minister
-directly. The Governor General appoints whoever can hold the **confidence** of the House
+directly. The [Governor General](org:governor-general) appoints whoever can hold the **confidence** of the House
 of Commons, which in practice means the leader of the party that can win its votes. See
 [Cabinet and the Prime Minister's Office](/learn/elections/cabinet-and-pmo) and
 [Confidence](/learn/parliament/confidence) for how that works.
@@ -65,9 +65,9 @@ returns:
   formed a government but lost a confidence vote within days, and King won the election
   that followed. It's the best-known use of the Governor General's
   [reserve powers](/learn/crown/reserve-powers). See also the
-  [glossary](/glossary#king-byng-affair).
-- **A minority defeated (1979–80).** Joe Clark's minority government lost a confidence
-  vote on its budget in December 1979, and Pierre Trudeau's Liberals won the election
+  [glossary](term:king-byng-affair).
+- **A minority defeated (1979–80).** Joe Clark's [minority government](term:minority-government) lost a [confidence
+  vote](term:confidence-vote) on its budget in December 1979, and Pierre Trudeau's Liberals won the election
   of February 1980.
 
 ## Sources

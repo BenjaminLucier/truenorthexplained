@@ -2,13 +2,14 @@
 id: ridings
 title: "Ridings map"
 summary: "All {{ridings.count}} federal ridings: who won each one in 2025, by how much, and how many people voted."
+about: [term:riding]
 status: draft
 ---
 
 ## What is a riding?
 
-A **riding** is the area that elects one member of Parliament (MP) to the House of Commons.
-Its official name is a **federal electoral district**. In a federal election, everyone who
+A **riding** is the area that elects one [member of Parliament](term:member-of-parliament) (MP) to the [House of Commons](org:house-of-commons).
+Its official name is a **[federal electoral district](term:electoral-district)**. In a federal election, everyone who
 lives in a riding chooses among the candidates running there, and the candidate with the
 most votes becomes its MP. That's the system called
 [first-past-the-post](/learn/elections/first-past-the-post).
@@ -37,7 +38,7 @@ is never sent anywhere.
 
 <tn-widget name="ridings-explorer"></tn-widget>
 
-The MP a riding elected in 2025 isn't always its MP today. A **by-election** fills a seat
+The MP a riding elected in 2025 isn't always its MP today. A **[by-election](term:by-election)** fills a seat
 when an MP resigns or dies, and an MP can leave their party or join another one between
 elections. The election result itself never changes, so the map shows who won in 2025 and
 the details note who holds the seat now.
