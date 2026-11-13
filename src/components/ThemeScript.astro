@@ -1,0 +1,29 @@
+---
+/**
+ * Runs before first paint so there's no flash of the wrong theme.
+ * Uses the saved choice if there is one, otherwise the system setting,
+ * and keeps following the system setting until the visitor picks one.
+ */
+---
+
+<script is:inline>
+  (() => {
+    const key = "tne-theme";
+    const media = matchMedia("(prefers-color-scheme: dark)");
+    const saved = () => {
+      try {
+        const v = localStorage.getItem(key);
+        return v === "light" || v === "dark" ? v : null;
+      } catch {
+        return null;
+      }
+    };
+    const apply = () => {
+      document.documentElement.dataset.theme = saved() ?? (media.matches ? "dark" : "light");
+    };
+    apply();
+    media.addEventListener("change", () => {
+      if (!saved()) apply();
+    });
+  })();
+</script>

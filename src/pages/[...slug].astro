@@ -1,0 +1,33 @@
+---
+import { render } from "astro:content";
+import ContentLayout from "../layouts/ContentLayout.astro";
+import ProvinceCards from "../components/ProvinceCards.astro";
+import { allPages, moduleFor, type Page } from "../lib/site";
+import { t } from "../i18n/en";
+
+export async function getStaticPaths() {
+  const pages = await allPages();
+  return pages.filter((p) => p.id !== "home").map((page) => ({ params: { slug: page.id }, props: { page } }));
+}
+
+const { page } = Astro.props as { page: Page };
+const { Content, headings } = await render(page);
+
+let eyebrow: string | undefined;
+if (page.id.startsWith("learn/")) {
+  const mod = await moduleFor(page.id);
+  if (mod) {
+    eyebrow =
+      mod.page.id === page.id
+        ? `${t.page.module} ${mod.page.data.order}`
+        : `${t.page.deepDives} · ${mod.page.data.title}`;
+  }
+} else if (page.data.type) {
+  eyebrow = page.data.type === "province" ? "Province" : "Territory";
+}
+---
+
+<ContentLayout page={page} headings={headings} eyebrow={eyebrow}>
+  {page.id === "provinces" && <ProvinceCards />}
+  <Content />
+</ContentLayout>

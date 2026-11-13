@@ -1,0 +1,11 @@
+{
+  "extends": "astro/tsconfigs/strict",
+  "include": [".astro/types.d.ts", "**/*"],
+  "exclude": ["dist", "node_modules"],
+  "compilerOptions": {
+    "noUncheckedIndexedAccess": true,
+    "types": ["node"]
+  },
+  // Type-checks .astro files under TypeScript 7.1 (replaces `astro check`).
+  "contentMappers": [{ "package": "@astrojs/ts-content-mapper", "extensions": [".astro"] }]
+}

@@ -1,0 +1,254 @@
+@import "@fontsource-variable/inter";
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* Dark mode follows data-theme on <html>, set before first paint (see ThemeScript). */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+/* ------------------------------------------------------------------------
+   Design tokens
+   Raw values live here as CSS variables. Tailwind only sees the semantic
+   names below, so classes read like bg-surface, text-primary, border-subtle.
+   ------------------------------------------------------------------------ */
+:root {
+  color-scheme: light;
+  --tn-bg: #fbfaf8;
+  --tn-surface: #ffffff;
+  --tn-surface-muted: #f4f1ec;
+  --tn-surface-sunken: #ece8e1;
+  --tn-text-primary: #1c1917;
+  --tn-text-secondary: #44403c;
+  --tn-text-muted: #6f6964;
+  --tn-border: #e6e1da;
+  --tn-border-strong: #cfc8be;
+  --tn-accent: #c8102e;
+  --tn-accent-hover: #a30d25;
+  --tn-accent-soft: #fbe9ec;
+  --tn-accent-contrast: #ffffff;
+  --tn-success: #1f7a4d;
+  --tn-success-soft: #e5f3eb;
+  --tn-danger: #b42318;
+  --tn-danger-soft: #fdecea;
+  --tn-focus: #c8102e;
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+  --tn-bg: #111316;
+  --tn-surface: #181b1f;
+  --tn-surface-muted: #1f2328;
+  --tn-surface-sunken: #0c0e10;
+  --tn-text-primary: #f3f2ef;
+  --tn-text-secondary: #d2d0cb;
+  --tn-text-muted: #a19e98;
+  --tn-border: #2b3036;
+  --tn-border-strong: #3d434a;
+  --tn-accent: #ff6b75;
+  --tn-accent-hover: #ff8a92;
+  --tn-accent-soft: #3b1c20;
+  --tn-accent-contrast: #1a0b0d;
+  --tn-success: #5fd39a;
+  --tn-success-soft: #15302a;
+  --tn-danger: #ff8b80;
+  --tn-danger-soft: #3a1d1b;
+  --tn-focus: #ff6b75;
+}
+
+/* No-JavaScript fallback: follow the system setting. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    color-scheme: dark;
+    --tn-bg: #111316;
+    --tn-surface: #181b1f;
+    --tn-surface-muted: #1f2328;
+    --tn-surface-sunken: #0c0e10;
+    --tn-text-primary: #f3f2ef;
+    --tn-text-secondary: #d2d0cb;
+    --tn-text-muted: #a19e98;
+    --tn-border: #2b3036;
+    --tn-border-strong: #3d434a;
+    --tn-accent: #ff6b75;
+    --tn-accent-hover: #ff8a92;
+    --tn-accent-soft: #3b1c20;
+    --tn-accent-contrast: #1a0b0d;
+    --tn-success: #5fd39a;
+    --tn-success-soft: #15302a;
+    --tn-danger: #ff8b80;
+    --tn-danger-soft: #3a1d1b;
+    --tn-focus: #ff6b75;
+  }
+}
+
+@theme {
+  /* Only semantic colours exist: the default palette is switched off. */
+  --color-*: initial;
+  --color-transparent: transparent;
+  --color-current: currentColor;
+  --color-bg: var(--tn-bg);
+  --color-surface: var(--tn-surface);
+  --color-surface-muted: var(--tn-surface-muted);
+  --color-surface-sunken: var(--tn-surface-sunken);
+  --color-primary: var(--tn-text-primary);
+  --color-secondary: var(--tn-text-secondary);
+  --color-muted: var(--tn-text-muted);
+  --color-subtle: var(--tn-border);
+  --color-strong: var(--tn-border-strong);
+  --color-accent: var(--tn-accent);
+  --color-accent-hover: var(--tn-accent-hover);
+  --color-accent-soft: var(--tn-accent-soft);
+  --color-accent-contrast: var(--tn-accent-contrast);
+  --color-success: var(--tn-success);
+  --color-success-soft: var(--tn-success-soft);
+  --color-danger: var(--tn-danger);
+  --color-danger-soft: var(--tn-danger-soft);
+  --color-focus: var(--tn-focus);
+
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --radius-card: 0.875rem;
+  --shadow-card: 0 1px 2px rgb(0 0 0 / 0.04), 0 4px 16px rgb(0 0 0 / 0.04);
+}
+
+/* ------------------------------------------------------------------------
+   Base
+   ------------------------------------------------------------------------ */
+@layer base {
+  html {
+    @apply bg-bg text-primary antialiased;
+    font-feature-settings: "cv11", "ss01";
+    scroll-padding-top: 5rem;
+  }
+  body {
+    @apply min-h-dvh;
+  }
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-focus;
+  }
+  ::selection {
+    @apply bg-accent-soft text-primary;
+  }
+}
+
+/* ------------------------------------------------------------------------
+   Long-form content ("prose"), mapped to our tokens
+   ------------------------------------------------------------------------ */
+.prose-tn {
+  --tw-prose-body: var(--tn-text-secondary);
+  --tw-prose-headings: var(--tn-text-primary);
+  --tw-prose-lead: var(--tn-text-secondary);
+  --tw-prose-links: var(--tn-accent);
+  --tw-prose-bold: var(--tn-text-primary);
+  --tw-prose-counters: var(--tn-text-muted);
+  --tw-prose-bullets: var(--tn-border-strong);
+  --tw-prose-hr: var(--tn-border);
+  --tw-prose-quotes: var(--tn-text-primary);
+  --tw-prose-quote-borders: var(--tn-accent);
+  --tw-prose-captions: var(--tn-text-muted);
+  --tw-prose-code: var(--tn-text-primary);
+  --tw-prose-pre-code: var(--tn-text-primary);
+  --tw-prose-pre-bg: var(--tn-surface-muted);
+  --tw-prose-th-borders: var(--tn-border-strong);
+  --tw-prose-td-borders: var(--tn-border);
+
+  & a {
+    @apply font-medium underline decoration-accent/40 underline-offset-3 transition-colors hover:text-accent-hover hover:decoration-accent;
+  }
+  & a[data-external]::after {
+    content: "↗";
+    @apply ms-0.5 inline-block text-[0.8em] no-underline opacity-60;
+  }
+  & h2 {
+    @apply mt-12 border-t border-subtle pt-8 tracking-tight;
+  }
+  & h2:first-child {
+    @apply mt-0 border-t-0 pt-0;
+  }
+  & h3 {
+    @apply tracking-tight;
+  }
+  & blockquote {
+    @apply rounded-e-lg bg-accent-soft/60 py-1 not-italic;
+  }
+  & blockquote p::before,
+  & blockquote p::after {
+    content: none;
+  }
+  & .table-wrap {
+    @apply my-6 overflow-x-auto rounded-lg border border-subtle;
+  }
+  & .table-wrap table {
+    @apply my-0 text-sm;
+  }
+  & .table-wrap th {
+    @apply bg-surface-muted px-3 py-2 text-start;
+  }
+  & .table-wrap td {
+    @apply px-3 py-2 align-top;
+  }
+  & .table-wrap th:first-child,
+  & .table-wrap td:first-child {
+    @apply ps-4;
+  }
+}
+
+/* ------------------------------------------------------------------------
+   Mermaid diagrams: rendered at build time, recoloured here from tokens
+   so they follow the light/dark toggle.
+   ------------------------------------------------------------------------ */
+.prose-tn svg[id^="mermaid"] {
+  @apply mx-auto my-8 block h-auto max-w-full;
+  font-family: var(--font-sans) !important;
+}
+.prose-tn svg[id^="mermaid"] :is(.node rect, .node polygon, .node circle, .node path, .label-container) {
+  fill: var(--tn-surface) !important;
+  stroke: var(--tn-border-strong) !important;
+}
+.prose-tn svg[id^="mermaid"] :is(.cluster rect) {
+  fill: var(--tn-surface-muted) !important;
+  stroke: var(--tn-border) !important;
+}
+.prose-tn svg[id^="mermaid"] :is(.nodeLabel, .edgeLabel, .label, text, span, p) {
+  color: var(--tn-text-primary) !important;
+  fill: var(--tn-text-primary) !important;
+}
+.prose-tn svg[id^="mermaid"] :is(.edgeLabel, .edgeLabel *, .edgeLabel rect, .labelBkg) {
+  background-color: var(--tn-bg) !important;
+  fill: var(--tn-bg) !important;
+}
+.prose-tn svg[id^="mermaid"] :is(.flowchart-link, .edgePath path, path.relation) {
+  stroke: var(--tn-text-muted) !important;
+}
+.prose-tn svg[id^="mermaid"] :is(marker path, .arrowheadPath, .arrowMarkerPath) {
+  fill: var(--tn-text-muted) !important;
+  stroke: var(--tn-text-muted) !important;
+}
+
+/* ------------------------------------------------------------------------
+   Quiz answer options (shared so 179 questions don't repeat long class lists)
+   ------------------------------------------------------------------------ */
+@layer components {
+  .quiz-option {
+    @apply flex cursor-pointer items-start gap-3 rounded-lg border border-subtle px-4 py-3 text-secondary transition-colors hover:border-strong;
+  }
+  .quiz-option input {
+    @apply mt-1 accent-accent;
+  }
+  .quiz-option:has(:checked) {
+    @apply border-accent bg-accent-soft text-primary;
+  }
+  .quiz-option[data-state="correct"] {
+    @apply border-success bg-success-soft text-primary;
+  }
+  .quiz-option[data-state="incorrect"] {
+    @apply border-danger bg-danger-soft;
+  }
+  .quiz-mark {
+    @apply hidden size-5 shrink-0;
+  }
+  .quiz-option[data-state="correct"] .quiz-mark-correct {
+    @apply block text-success;
+  }
+  .quiz-option[data-state="incorrect"] .quiz-mark-incorrect {
+    @apply block text-danger;
+  }
+}

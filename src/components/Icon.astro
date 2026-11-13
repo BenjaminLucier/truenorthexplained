@@ -1,0 +1,24 @@
+---
+/**
+ * Inline Lucide icon, resolved at build time (no JavaScript shipped).
+ * Usage: <Icon name="Sun" class="size-5" />
+ */
+import * as icons from "lucide-static";
+
+interface Props {
+  name: keyof typeof icons;
+  class?: string;
+  label?: string;
+}
+
+const { name, class: className = "size-5", label } = Astro.props;
+const raw = icons[name] as unknown as string;
+if (typeof raw !== "string") throw new Error(`Unknown icon "${String(name)}"`);
+
+const a11y = label ? `role="img" aria-label="${label}"` : `aria-hidden="true" focusable="false"`;
+const svg = raw
+  .replace(/\s(width|height|class)="[^"]*"/g, "")
+  .replace("<svg", `<svg class="${className} shrink-0" ${a11y}`);
+---
+
+<Fragment set:html={svg} />

@@ -1,0 +1,38 @@
+---
+import QuizQuestion from "./QuizQuestion.astro";
+import QuizSummary from "./QuizSummary.astro";
+import Icon from "../Icon.astro";
+import { t } from "../../i18n/en";
+import type { Question } from "../../lib/site";
+
+interface Props {
+  questions: Question[];
+}
+const { questions } = Astro.props;
+---
+
+{
+  questions.length > 0 && (
+    <section aria-labelledby="quiz-heading" class="mt-16 border-t border-subtle pt-10">
+      <div class="flex flex-wrap items-end justify-between gap-4">
+        <div>
+          <h2 id="quiz-heading" class="flex items-center gap-2 text-2xl font-bold tracking-tight text-primary">
+            <Icon name="CircleQuestionMark" class="size-6 text-accent" />
+            {t.quiz.heading}
+          </h2>
+          <p class="mt-1 text-sm text-muted">{t.quiz.savedLocally}</p>
+        </div>
+        <QuizSummary ids={questions.map((q) => q.id)} />
+      </div>
+      <div class="mt-6 grid gap-5">
+        {questions.map((q, i) => (
+          <QuizQuestion question={q} number={i + 1} />
+        ))}
+      </div>
+    </section>
+  )
+}
+
+<script>
+  import "../../scripts/quiz";
+</script>

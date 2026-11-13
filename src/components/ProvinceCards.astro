@@ -1,0 +1,34 @@
+---
+import { href, provinces } from "../lib/site";
+
+const list = await provinces();
+const groups = [
+  { title: "Provinces", items: list.filter((p) => p.data.type === "province") },
+  { title: "Territories", items: list.filter((p) => p.data.type === "territory") },
+];
+---
+
+<div class="not-prose mb-12 space-y-8">
+  {
+    groups.map((g) => (
+      <section>
+        <h2 class="text-sm font-semibold tracking-wide text-muted uppercase">{g.title}</h2>
+        <ul class="mt-3 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          {g.items.map((p) => (
+            <li>
+              <a
+                href={href(p.id)}
+                class="group block h-full rounded-card border border-subtle bg-surface p-4 shadow-card transition-colors hover:border-accent"
+              >
+                <span class="block font-semibold text-primary group-hover:text-accent">{p.data.title}</span>
+                <span class="mt-1 block text-sm text-muted">
+                  {p.data.capital} · since {p.data.joined}
+                </span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))
+  }
+</div>

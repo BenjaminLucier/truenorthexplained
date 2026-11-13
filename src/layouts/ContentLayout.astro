@@ -1,0 +1,165 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import QuizBlock from "../components/quiz/QuizBlock.astro";
+import { t } from "../i18n/en";
+import {
+  breadcrumbsFor,
+  href,
+  moduleFor,
+  questionsFor,
+  sequenceFor,
+  type Page,
+} from "../lib/site";
+
+interface Props {
+  page: Page;
+  headings: { depth: number; slug: string; text: string }[];
+  /** Hide the on-page contents list (e.g. very short pages). */
+  toc?: boolean;
+  eyebrow?: string;
+}
+
+const { page, headings, toc = true, eyebrow } = Astro.props;
+const crumbs = await breadcrumbsFor(page);
+const mod = page.id.startsWith("learn/") ? await moduleFor(page.id) : undefined;
+const questions = await questionsFor(page);
+const sequence = await sequenceFor(page.id);
+const index = sequence.findIndex((p) => p.id === page.id);
+const prev = index > 0 ? sequence[index - 1] : undefined;
+const next = index >= 0 ? sequence[index + 1] : undefined;
+const tocItems = headings.filter((h) => h.depth === 2);
+const showAside = (toc && tocItems.length > 1) || mod;
+---
+
+<BaseLayout title={page.data.title} description={page.data.summary}>
+  <div class="mx-auto max-w-6xl px-4 sm:px-6">
+    <nav aria-label={t.page.breadcrumb} class="pt-8">
+      <ol class="flex flex-wrap items-center gap-1.5 text-sm text-muted">
+        {
+          crumbs.map((c, i) => (
+            <li class="flex items-center gap-1.5">
+              {i > 0 && <Icon name="ChevronRight" class="size-3.5 opacity-60" />}
+              {c.href ? (
+                <a href={c.href} class="hover:text-accent">
+                  {c.label}
+                </a>
+              ) : (
+                <span aria-current="page" class="text-secondary">
+                  {c.label}
+                </span>
+              )}
+            </li>
+          ))
+        }
+      </ol>
+    </nav>
+
+    <header class="max-w-3xl pt-6 pb-8">
+      {eyebrow && <p class="text-sm font-semibold tracking-wide text-accent uppercase">{eyebrow}</p>}
+      <h1 class="mt-2 text-4xl font-bold tracking-tight text-primary text-balance sm:text-5xl">{page.data.title}</h1>
+      {page.data.summary && <p class="mt-4 text-lg text-secondary text-pretty">{page.data.summary}</p>}
+    </header>
+
+    <div class:list={["grid gap-10 pb-8", showAside && "lg:grid-cols-[minmax(0,1fr)_16rem] xl:gap-16"]}>
+      <div class="min-w-0">
+        <article class="prose prose-tn max-w-3xl prose-headings:scroll-mt-24">
+          <slot />
+        </article>
+
+        <QuizBlock questions={questions} />
+
+        {
+          (prev || next) && (
+            <nav aria-label="Pagination" class="mt-16 grid gap-4 border-t border-subtle pt-8 sm:grid-cols-2">
+              {prev ? (
+                <a
+                  href={href(prev.id)}
+                  class="group rounded-card border border-subtle p-4 transition-colors hover:border-accent"
+                >
+                  <span class="flex items-center gap-1 text-xs text-muted">
+                    <Icon name="ArrowLeft" class="size-3.5" />
+                    {t.page.previous}
+                  </span>
+                  <span class="mt-1 block font-semibold text-primary group-hover:text-accent">{prev.data.title}</span>
+                </a>
+              ) : (
+                <span />
+              )}
+              {next && (
+                <a
+                  href={href(next.id)}
+                  class="group rounded-card border border-subtle p-4 text-end transition-colors hover:border-accent"
+                >
+                  <span class="flex items-center justify-end gap-1 text-xs text-muted">
+                    {t.page.next}
+                    <Icon name="ArrowRight" class="size-3.5" />
+                  </span>
+                  <span class="mt-1 block font-semibold text-primary group-hover:text-accent">{next.data.title}</span>
+                </a>
+              )}
+            </nav>
+          )
+        }
+      </div>
+
+      {
+        showAside && (
+          <aside class="order-first lg:order-none">
+            <div class="space-y-8 lg:sticky lg:top-24 lg:max-h-[calc(100dvh-7rem)] lg:overflow-y-auto lg:pb-8">
+              {mod && (
+                <nav aria-labelledby="module-nav" class="rounded-card border border-subtle bg-surface p-4">
+                  <h2 id="module-nav" class="text-xs font-semibold tracking-wide text-muted uppercase">
+                    {t.page.inThisModule}
+                  </h2>
+                  <ul class="mt-3 space-y-1 text-sm">
+                    {[mod.page, ...mod.deepDives].map((p, i) => (
+                      <li>
+                        <a
+                          href={href(p.id)}
+                          aria-current={p.id === page.id ? "page" : undefined}
+                          class="block rounded-md px-2 py-1.5 text-secondary hover:bg-surface-muted hover:text-primary aria-[current=page]:bg-accent-soft aria-[current=page]:font-medium aria-[current=page]:text-accent"
+                        >
+                          {i === 0 ? `${t.page.moduleOverview}: ${p.data.title}` : p.data.title}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </nav>
+              )}
+              {toc && tocItems.length > 1 && (
+                <nav aria-labelledby="toc-heading" class="hidden lg:block">
+                  <h2 id="toc-heading" class="text-xs font-semibold tracking-wide text-muted uppercase">
+                    {t.page.onThisPage}
+                  </h2>
+                  <ul class="mt-3 space-y-1 border-s border-subtle text-sm">
+                    {tocItems.map((h) => (
+                      <li>
+                        <a
+                          href={`#${h.slug}`}
+                          class="-ms-px block border-s border-transparent ps-3 py-1 text-muted hover:border-accent hover:text-primary"
+                        >
+                          {h.text}
+                        </a>
+                      </li>
+                    ))}
+                    {questions.length > 0 && (
+                      <li>
+                        <a
+                          href="#quiz-heading"
+                          class="-ms-px block border-s border-transparent ps-3 py-1 text-muted hover:border-accent hover:text-primary"
+                        >
+                          {t.quiz.heading}
+                        </a>
+                      </li>
+                    )}
+                  </ul>
+                </nav>
+              )}
+            </div>
+          </aside>
+        )
+      }
+    </div>
+  </div>
+</BaseLayout>

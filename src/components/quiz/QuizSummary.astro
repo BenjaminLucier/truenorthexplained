@@ -1,0 +1,31 @@
+---
+import { t } from "../../i18n/en";
+
+interface Props {
+  ids: string[];
+  label?: string;
+  showReset?: boolean;
+}
+const { ids, label, showReset = false } = Astro.props;
+---
+
+<quiz-summary data-ids={ids.join(" ")} data-confirm={t.quiz.resetConfirm} class="block">
+  {label && <p class="text-sm font-medium text-primary">{label}</p>}
+  <div class="mt-1 flex items-center gap-3">
+    <div class="h-2 flex-1 overflow-hidden rounded-full bg-surface-sunken" aria-hidden="true">
+      <div data-bar class="h-full w-0 rounded-full bg-success transition-[width] duration-500"></div>
+    </div>
+  </div>
+  <p data-text class="mt-1.5 text-xs text-muted">{t.quiz.progress(0, ids.length)}</p>
+  {
+    showReset && (
+      <button type="button" data-reset class="mt-2 text-xs text-muted underline underline-offset-2 hover:text-accent">
+        {t.quiz.reset}
+      </button>
+    )
+  }
+</quiz-summary>
+
+<script>
+  import "../../scripts/quiz";
+</script>

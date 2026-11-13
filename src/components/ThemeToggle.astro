@@ -1,0 +1,39 @@
+---
+import Icon from "./Icon.astro";
+import { t } from "../i18n/en";
+---
+
+<theme-toggle>
+  <button
+    type="button"
+    class="inline-flex size-10 items-center justify-center rounded-full text-secondary transition-colors hover:bg-surface-muted hover:text-primary"
+    aria-label={t.theme.toggle}
+    aria-pressed="false"
+  >
+    <span class="dark:hidden"><Icon name="Moon" class="size-5" /></span>
+    <span class="hidden dark:inline"><Icon name="Sun" class="size-5" /></span>
+  </button>
+</theme-toggle>
+
+<script>
+  class ThemeToggle extends HTMLElement {
+    connectedCallback() {
+      const button = this.querySelector("button")!;
+      const root = document.documentElement;
+      const sync = () => button.setAttribute("aria-pressed", String(root.dataset.theme === "dark"));
+      sync();
+      button.addEventListener("click", () => {
+        const next = root.dataset.theme === "dark" ? "light" : "dark";
+        root.dataset.theme = next;
+        try {
+          localStorage.setItem("tne-theme", next);
+        } catch {
+          /* storage unavailable: the choice lasts for this page only */
+        }
+        sync();
+      });
+      new MutationObserver(sync).observe(root, { attributes: true, attributeFilter: ["data-theme"] });
+    }
+  }
+  customElements.define("theme-toggle", ThemeToggle);
+</script>

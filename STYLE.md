@@ -115,6 +115,6 @@ sources; a human should check those links in a browser.
 - Every question needs an explanation and a source. Wrong options should be
   plausible, never silly. Test understanding, not trivia such as dates, unless the date
   is the point.
-- Run `uv run --with pyyaml python scripts/validate.py` to check links, quiz IDs,
-  pages and answers. Add `--review` to regenerate REVIEW.md, the list of every
-  `check` and `unverified link` marker.
+- Run `pnpm validate` to check internal links and quiz page references, and
+  `pnpm build` to validate front matter and quiz fields. `pnpm review` regenerates
+  REVIEW.md, the list of every `check` and `unverified link` marker.

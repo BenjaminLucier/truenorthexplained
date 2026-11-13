@@ -1,0 +1,136 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import QuizQuestion from "../components/quiz/QuizQuestion.astro";
+import QuizSummary from "../components/quiz/QuizSummary.astro";
+import { modules, provinces } from "../lib/site";
+import { t } from "../i18n/en";
+
+const questions = (await getCollection("quizzes")).sort((a, b) => a.id.localeCompare(b.id));
+const mods = await modules();
+const provs = await provinces();
+const inScope = (scope: string) =>
+  questions.filter((q) => q.data.pages.some((p) => p === scope || p.startsWith(`${scope}/`))).map((q) => q.id);
+const selectClass =
+  "w-full rounded-lg border border-strong bg-surface px-3 py-2.5 text-primary focus-visible:outline-2 focus-visible:outline-focus";
+---
+
+<BaseLayout title={t.hub.title} description={t.hub.lede}>
+  <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6">
+    <h1 class="text-4xl font-bold tracking-tight text-primary sm:text-5xl">{t.hub.title}</h1>
+    <p class="mt-4 max-w-2xl text-lg text-secondary">{t.hub.lede}</p>
+
+    <div class="mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_18rem]">
+      <quiz-hub class="block min-w-0">
+        <form data-filters class="grid gap-4 rounded-card border border-subtle bg-surface p-5 shadow-card sm:grid-cols-[2fr_1fr_auto] sm:items-end">
+          <label class="grid gap-1.5 text-sm font-medium text-primary">
+            {t.hub.scope}
+            <select name="scope" class={selectClass}>
+              <option value="">{t.hub.everything}</option>
+              <optgroup label={t.hub.modules}>
+                {mods.map((m) => <option value={m.page.id}>{m.page.data.title}</option>)}
+              </optgroup>
+              <optgroup label={t.hub.provinces}>
+                <option value="provinces">{t.hub.allProvinces}</option>
+                {provs.map((p) => <option value={p.id}>{p.data.title}</option>)}
+              </optgroup>
+            </select>
+          </label>
+          <label class="grid gap-1.5 text-sm font-medium text-primary">
+            {t.hub.show}
+            <select name="show" class={selectClass}>
+              <option value="all">{t.hub.showAll}</option>
+              <option value="unanswered">{t.hub.showUnanswered}</option>
+              <option value="missed">{t.hub.showMissed}</option>
+            </select>
+          </label>
+          <button
+            type="button"
+            data-shuffle
+            class="inline-flex items-center justify-center gap-2 rounded-full border border-strong px-4 py-2.5 text-sm font-semibold text-primary hover:border-accent hover:text-accent"
+          >
+            <Icon name="Shuffle" class="size-4" />
+            {t.hub.shuffle}
+          </button>
+        </form>
+
+        <p data-count role="status" class="mt-6 text-sm text-muted">{t.hub.count(questions.length)}</p>
+        <p data-empty hidden class="mt-6 rounded-card border border-dashed border-strong p-8 text-center text-secondary">
+          {t.hub.none}
+        </p>
+        <div data-list class="mt-4 grid gap-5">
+          {questions.map((q) => <QuizQuestion question={q} />)}
+        </div>
+      </quiz-hub>
+
+      <aside class="order-first lg:order-none">
+        <div class="space-y-5 rounded-card border border-subtle bg-surface p-5 lg:sticky lg:top-24">
+          <h2 class="text-xs font-semibold tracking-wide text-muted uppercase">{t.hub.overview}</h2>
+          <QuizSummary ids={questions.map((q) => q.id)} label={t.hub.everything} showReset />
+          <div class="space-y-4 border-t border-subtle pt-4">
+            {mods.map((m) => <QuizSummary ids={inScope(m.page.id)} label={m.page.data.title} />)}
+            <QuizSummary ids={inScope("provinces")} label={t.hub.allProvinces} />
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+  import "../scripts/quiz";
+  import { onProgress, readProgress } from "../scripts/progress";
+  import { t } from "../i18n/en";
+
+  class QuizHub extends HTMLElement {
+    connectedCallback() {
+      const form = this.querySelector<HTMLFormElement>("[data-filters]")!;
+      const list = this.querySelector<HTMLElement>("[data-list]")!;
+      // Restore filters from the URL so a filtered view can be shared or bookmarked.
+      const params = new URLSearchParams(location.search);
+      for (const name of ["scope", "show"] as const) {
+        const value = params.get(name);
+        const select = form.elements.namedItem(name) as HTMLSelectElement;
+        if (value && [...select.options].some((o) => o.value === value)) select.value = value;
+      }
+      form.addEventListener("change", () => this.apply(true));
+      this.querySelector("[data-shuffle]")!.addEventListener("click", () => {
+        const items = [...list.children];
+        for (let i = items.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [items[i], items[j]] = [items[j]!, items[i]!];
+        }
+        list.replaceChildren(...items);
+      });
+      onProgress(() => this.apply(false));
+      this.apply(false);
+    }
+
+    apply(updateUrl: boolean) {
+      const form = this.querySelector<HTMLFormElement>("[data-filters]")!;
+      const scope = (form.elements.namedItem("scope") as HTMLSelectElement).value;
+      const show = (form.elements.namedItem("show") as HTMLSelectElement).value;
+      const progress = readProgress();
+      let visible = 0;
+      for (const el of this.querySelectorAll<HTMLElement>("quiz-question")) {
+        const pages = (el.dataset.pages ?? "").split(" ");
+        const attempt = progress[el.dataset.id ?? ""];
+        const inScope = !scope || pages.some((p) => p === scope || p.startsWith(`${scope}/`));
+        const passes =
+          show === "all" || (show === "unanswered" && !attempt) || (show === "missed" && attempt && !attempt.correct);
+        el.hidden = !(inScope && passes);
+        if (!el.hidden) visible++;
+      }
+      this.querySelector("[data-count]")!.textContent = t.hub.count(visible);
+      this.querySelector<HTMLElement>("[data-empty]")!.hidden = visible > 0;
+      if (updateUrl) {
+        const params = new URLSearchParams();
+        if (scope) params.set("scope", scope);
+        if (show !== "all") params.set("show", show);
+        history.replaceState(null, "", params.size ? `?${params}` : location.pathname);
+      }
+    }
+  }
+  customElements.define("quiz-hub", QuizHub);
+</script>

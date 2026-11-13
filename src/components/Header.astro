@@ -1,0 +1,109 @@
+---
+import Icon from "./Icon.astro";
+import MapleLeaf from "./MapleLeaf.astro";
+import ThemeToggle from "./ThemeToggle.astro";
+import { t } from "../i18n/en";
+
+const links = [
+  { href: "/learn", label: t.nav.learn },
+  { href: "/tour", label: t.nav.tour },
+  { href: "/provinces", label: t.nav.provinces },
+  { href: "/quizzes", label: t.nav.quizzes },
+  { href: "/glossary", label: t.nav.glossary },
+];
+const path = Astro.url.pathname.replace(/\/$/, "") || "/";
+const isCurrent = (href: string) => path === href || path.startsWith(`${href}/`);
+---
+
+<header class="sticky top-0 z-40 border-b border-subtle bg-bg/85 backdrop-blur supports-[backdrop-filter]:bg-bg/70">
+  <div class="h-1 bg-accent" aria-hidden="true"></div>
+  <div class="mx-auto flex h-16 max-w-6xl items-center gap-4 px-4 sm:px-6">
+    <a href="/" class="group flex items-center gap-2.5 font-semibold tracking-tight text-primary">
+      <span class="flex size-8 items-center justify-center rounded-lg bg-accent text-accent-contrast transition-transform group-hover:-rotate-6">
+        <MapleLeaf class="size-5" />
+      </span>
+      <span>{t.siteName}</span>
+    </a>
+
+    <nav aria-label={t.nav.primary} class="ms-auto hidden lg:block">
+      <ul class="flex items-center gap-1">
+        {
+          links.map((l) => (
+            <li>
+              <a
+                href={l.href}
+                aria-current={isCurrent(l.href) ? "page" : undefined}
+                class="rounded-full px-3 py-2 text-sm font-medium text-secondary transition-colors hover:bg-surface-muted hover:text-primary aria-[current=page]:text-accent"
+              >
+                {l.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+
+    <div class="ms-auto flex items-center gap-1 lg:ms-2">
+      <ThemeToggle />
+      <mobile-menu class="lg:hidden">
+        <button
+          type="button"
+          data-open
+          class="inline-flex size-10 items-center justify-center rounded-full text-secondary hover:bg-surface-muted hover:text-primary"
+          aria-label={t.nav.menu}
+          aria-haspopup="dialog"
+        >
+          <Icon name="Menu" class="size-5" />
+        </button>
+        <dialog
+          class="m-0 ms-auto h-dvh max-h-none w-[min(20rem,85vw)] max-w-none bg-surface p-0 text-primary shadow-2xl backdrop:bg-primary/40"
+          aria-label={t.nav.menu}
+        >
+          <div class="flex h-16 items-center justify-between border-b border-subtle px-4">
+            <span class="font-semibold">{t.nav.menu}</span>
+            <button
+              type="button"
+              data-close
+              class="inline-flex size-10 items-center justify-center rounded-full text-secondary hover:bg-surface-muted"
+              aria-label={t.nav.closeMenu}
+            >
+              <Icon name="X" class="size-5" />
+            </button>
+          </div>
+          <nav aria-label={t.nav.primary} class="p-2">
+            <ul class="flex flex-col">
+              {
+                links.map((l) => (
+                  <li>
+                    <a
+                      href={l.href}
+                      aria-current={isCurrent(l.href) ? "page" : undefined}
+                      class="block rounded-lg px-3 py-3 font-medium text-secondary hover:bg-surface-muted hover:text-primary aria-[current=page]:bg-accent-soft aria-[current=page]:text-accent"
+                    >
+                      {l.label}
+                    </a>
+                  </li>
+                ))
+              }
+            </ul>
+          </nav>
+        </dialog>
+      </mobile-menu>
+    </div>
+  </div>
+</header>
+
+<script>
+  class MobileMenu extends HTMLElement {
+    connectedCallback() {
+      const dialog = this.querySelector("dialog")!;
+      this.querySelector("[data-open]")!.addEventListener("click", () => dialog.showModal());
+      this.querySelector("[data-close]")!.addEventListener("click", () => dialog.close());
+      // Click on the backdrop closes the menu.
+      dialog.addEventListener("click", (e) => {
+        if (e.target === dialog) dialog.close();
+      });
+    }
+  }
+  customElements.define("mobile-menu", MobileMenu);
+</script>

@@ -1,0 +1,70 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Icon from "../../components/Icon.astro";
+import QuizSummary from "../../components/quiz/QuizSummary.astro";
+import { getCollection } from "astro:content";
+import { href, modules } from "../../lib/site";
+import { t } from "../../i18n/en";
+
+const mods = await modules();
+const questions = await getCollection("quizzes");
+const idsFor = (moduleId: string) =>
+  questions
+    .filter((q) => q.data.pages.some((p) => p === moduleId || p.startsWith(`${moduleId}/`)))
+    .map((q) => q.id);
+---
+
+<BaseLayout title={t.nav.learn} description="Ten short modules on how Canada is governed.">
+  <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6">
+    <h1 class="text-4xl font-bold tracking-tight text-primary sm:text-5xl">{t.nav.learn}</h1>
+    <p class="mt-4 max-w-2xl text-lg text-secondary">
+      Ten short modules. Start at the big picture, or jump to whatever you're curious about. Each module has a short
+      main page and optional deep dives.
+    </p>
+
+    <ol class="mt-12 space-y-6">
+      {
+        mods.map(({ page, deepDives }) => (
+          <li class="rounded-card border border-subtle bg-surface p-6 shadow-card sm:p-8">
+            <div class="grid gap-6 md:grid-cols-[minmax(0,1fr)_14rem]">
+              <div>
+                <p class="text-sm font-semibold text-accent tabular-nums">
+                  {t.page.module} {page.data.order}
+                </p>
+                <h2 class="mt-1 text-2xl font-bold tracking-tight">
+                  <a href={href(page.id)} class="text-primary hover:text-accent">
+                    {page.data.title}
+                  </a>
+                </h2>
+                <p class="mt-2 text-secondary">{page.data.summary}</p>
+                {deepDives.length > 0 && (
+                  <ul class="mt-4 flex flex-wrap gap-2">
+                    {deepDives.map((d) => (
+                      <li>
+                        <a
+                          href={href(d.id)}
+                          class="inline-block rounded-full bg-surface-muted px-3 py-1 text-sm text-secondary hover:bg-accent-soft hover:text-accent"
+                        >
+                          {d.data.title}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </div>
+              <div class="flex flex-col justify-between gap-4">
+                <QuizSummary ids={idsFor(page.id)} />
+                <a
+                  href={href(page.id)}
+                  class="inline-flex items-center gap-1 self-start font-medium text-accent hover:text-accent-hover md:self-end"
+                >
+                  Start <Icon name="ArrowRight" class="size-4" />
+                </a>
+              </div>
+            </div>
+          </li>
+        ))
+      }
+    </ol>
+  </div>
+</BaseLayout>
