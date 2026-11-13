@@ -1,0 +1,66 @@
+---
+/**
+ * The current bench of the Supreme Court of Canada, with portraits.
+ *
+ *   <tn-widget name="supreme-court-bench"></tn-widget>
+ *
+ * Judges come from Wikidata via `pnpm data:portraits` (src/data/portraits.json):
+ * living holders of "Chief Justice of Canada" (Q1339242) or "justice of the
+ * Supreme Court of Canada" (Q843020) with no end date. The script fails unless
+ * there are exactly nine with one chief justice. Puisne judges are listed by
+ * seniority (date of appointment). Judges must retire at 75 (Supreme Court
+ * Act, s. 9(2)), so the card shows the year each one turns 75 when Wikidata
+ * has a birth date.
+ */
+import Portrait from "../../components/Portrait.astro";
+import { formatDate } from "../../lib/reference";
+import { portraitsMeta, supremeCourt } from "../../lib/portraits";
+
+const link = "underline decoration-accent/40 underline-offset-3 hover:text-accent hover:decoration-accent";
+---
+
+<section class="not-prose my-8" aria-label="The current judges of the Supreme Court of Canada">
+  <ul class="grid grid-cols-2 gap-3 sm:grid-cols-4">
+    {
+      supremeCourt.map((j) => (
+        <li
+          class:list={[
+            "flex flex-col items-center rounded-card border bg-surface px-3 pt-5 pb-4 text-center",
+            j.role === "chief" ? "border-accent col-span-2 sm:col-span-4 sm:flex-row sm:gap-5 sm:px-5 sm:text-start" : "border-subtle",
+          ]}
+        >
+          <Portrait qid={j.qid} name={j.name} size={j.role === "chief" ? 112 : 88} shape="soft" />
+          <div class:list={["mt-3 min-w-0", j.role === "chief" && "sm:mt-0"]}>
+            {j.role === "chief" && <p class="text-xs font-semibold tracking-wide text-accent uppercase">Chief Justice of Canada</p>}
+            <p class:list={["font-semibold leading-snug text-primary", j.role === "chief" && "text-lg"]}>
+              {j.wikipedia ? (
+                <a href={j.wikipedia} class={link}>
+                  {j.name}
+                  <span class="sr-only"> (Wikipedia)</span>
+                </a>
+              ) : (
+                j.name
+              )}
+            </p>
+            <p class="mt-1 text-xs text-secondary">
+              {j.role === "chief" ? (
+                <>
+                  Chief Justice since {j.since.slice(0, 4)}
+                  {j.joined !== j.since && <>; on the Court since {j.joined.slice(0, 4)}</>}
+                </>
+              ) : (
+                <>Justice since {j.since.slice(0, 4)}</>
+              )}
+            </p>
+            {j.born && <p class="mt-0.5 text-xs text-muted tabular-nums">Turns 75 in {j.born + 75}</p>}
+          </div>
+        </li>
+      ))
+    }
+  </ul>
+  <p class="mt-3 text-sm text-muted">
+    The Chief Justice first, then the other judges by date of appointment. Judges must retire at 75. Source: Wikidata,
+    as of {formatDate(portraitsMeta.fetched)}. Photos: Wikimedia Commons where a freely licensed one exists; see{" "}
+    <a href="/credits#portraits" class={link}>Credits</a>.
+  </p>
+</section>

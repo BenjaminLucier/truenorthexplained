@@ -4,14 +4,25 @@
  * and the static data endpoints in src/pages/data/.
  */
 import { PARTIES, PROVINCES, commons, ridings, winners, type PartyKey, type ProvinceCode } from "../../lib/elections";
+import { elected2025Qids, memberQids, photoCredit, portraitFor } from "../../lib/portraits";
 
 export const ELECTION_DATE = "2025-04-28";
+
+/**
+ * A person's portrait, from `pnpm data:portraits`: the files are
+ * /portraits/<qid>-96.webp and -240.webp; `credit` is "Photo: <author>, <licence>".
+ * Absent when there's no free photo, and the panel draws the empty portrait.
+ */
+export interface Photo {
+  qid: string;
+  credit: string;
+}
 
 /** The current MP, when it isn't simply the person elected in 2025 for the same party. */
 export type NowStatus =
   | { kind: "vacant" }
-  | { kind: "new"; name: string; party: PartyKey; since: string }
-  | { kind: "switched"; name: string; party: PartyKey };
+  | { kind: "new"; name: string; party: PartyKey; since: string; photo?: Photo }
+  | { kind: "switched"; name: string; party: PartyKey; photo?: Photo };
 
 export interface CandidateRow {
   name: string;
@@ -41,6 +52,8 @@ export interface RidingResult {
   /** The winner's share of valid votes. */
   winnerShare: number;
   candidates: CandidateRow[];
+  /** Portrait of the 2025 winner. */
+  winnerPhoto?: Photo;
   now?: NowStatus;
 }
 
@@ -48,6 +61,11 @@ const byFed = new Map(ridings.map((r) => [r.fed, r]));
 const members = new Map(commons.members.map((m) => [m.fed, m]));
 const vacant = new Set(commons.vacancies.map((v) => v.fed));
 const cleanName = (name: string) => name.replace(/^(Right )?Hon\.\s+/, "");
+
+function photoOf(qid: string | undefined): Photo | undefined {
+  const p = portraitFor(qid);
+  return p && qid ? { qid, credit: photoCredit(p) } : undefined;
+}
 
 const partyLabel = (party: PartyKey, affiliation: string) => (party === "other" ? affiliation : PARTIES[party].en);
 
@@ -59,8 +77,9 @@ function nowFor(fed: number, party: PartyKey): NowStatus | undefined {
   // date means someone new won the seat; the same date with a new party means
   // the member changed caucus. (Names are spelled differently between Elections
   // Canada and the House, "Hon." and middle names, so they can't be compared.)
-  if (m.since > ELECTION_DATE) return { kind: "new", name: cleanName(m.name), party: m.party, since: m.since };
-  if (m.party !== party) return { kind: "switched", name: cleanName(m.name), party: m.party };
+  const photo = photoOf(memberQids[String(fed)]);
+  if (m.since > ELECTION_DATE) return { kind: "new", name: cleanName(m.name), party: m.party, since: m.since, photo };
+  if (m.party !== party) return { kind: "switched", name: cleanName(m.name), party: m.party, photo };
   return undefined;
 }
 
@@ -89,6 +108,7 @@ export const results: RidingResult[] = winners.map((w) => {
       share: c.share,
       elected: c.elected,
     })),
+    winnerPhoto: photoOf(elected2025Qids[String(w.fed)]),
     now: nowFor(w.fed, w.party),
   };
 });

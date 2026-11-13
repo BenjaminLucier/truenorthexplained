@@ -1,0 +1,58 @@
+---
+/**
+ * A person's photograph from public/portraits (see `pnpm data:portraits`),
+ * or an "empty portrait" silhouette when no free photo is available.
+ *
+ *   <Portrait qid="Q192533" name="Mark Carney" size={48} />
+ *   <Portrait person={{ qid, name }} size={96} shape="soft" />
+ *
+ * `size` is the displayed size in CSS pixels. The 96px and 240px files are
+ * offered through srcset, so the browser picks the sharp one for the screen.
+ * The image's `title` credits the photographer and licence; full credits are
+ * on the /credits page.
+ */
+import { SILHOUETTE_SVG } from "../lib/portrait-fallback";
+import { photoCredit, portraitFor, portraitSrc } from "../lib/portraits";
+import "../styles/portrait.css";
+
+interface Props {
+  qid?: string | null;
+  person?: { qid?: string | null; name: string };
+  name?: string;
+  size: number;
+  shape?: "round" | "soft";
+  /** Extra classes on the frame, e.g. a ring in a party colour. */
+  class?: string;
+  loading?: "lazy" | "eager";
+}
+
+const { person, size, shape = "round", class: className, loading = "lazy" } = Astro.props;
+const qid = Astro.props.qid ?? person?.qid ?? null;
+const name = Astro.props.name ?? person?.name;
+if (!name) throw new Error("Portrait: a name is required");
+const photo = portraitFor(qid);
+---
+
+<span
+  class:list={["tn-portrait", shape === "soft" && "tn-portrait--soft", className]}
+  style={`--portrait-size:${size}px`}
+  {...photo ? {} : { role: "img", "aria-label": name, title: `${name}: no free photo available` }}
+>
+  {
+    photo && qid ? (
+      <img
+        src={portraitSrc(qid, size <= 48 ? 96 : 240)}
+        srcset={`${portraitSrc(qid, 96)} 96w, ${portraitSrc(qid, 240)} 240w`}
+        sizes={`${size}px`}
+        width={size}
+        height={size}
+        alt={name}
+        title={photoCredit(photo)}
+        loading={loading}
+        decoding="async"
+      />
+    ) : (
+      <Fragment set:html={SILHOUETTE_SVG} />
+    )
+  }
+</span>

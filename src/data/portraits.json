@@ -1,0 +1,4942 @@
+{
+  "_meta": {
+    "source": "Wikimedia Commons (files linked from each person's Wikidata image, P18); people and MP matches from Wikidata",
+    "url": "https://commons.wikimedia.org/",
+    "licence": "Images: per file, see each entry (free licences only). Wikidata: CC0 1.0",
+    "processing": "v1: square crop (top-weighted portrait / attention landscape), WebP q72",
+    "script": "scripts/data/portraits.ts",
+    "fetched": "2026-11-13"
+  },
+  "portraits": {
+    "Q206": {
+      "name": "Stephen Harper",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "Stephen Harper by Remy Steinegger Infobox.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Stephen_Harper_by_Remy_Steinegger_Infobox.jpg",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "World Economic Forum / Remy Steinegger",
+      "attribution": "World Economic Forum / Remy Steinegger, CC BY-SA 2.0, via Wikimedia Commons",
+      "sha1": "fc4c07a668a1ff07cd82d70a78577f705a27ec84",
+      "fetched": "2026-11-13"
+    },
+    "Q8619": {
+      "name": "Pierre Trudeau",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "Prime Minister Pierre Trudeau 1975 (UPI press photo) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Pierre_Trudeau_1975_(UPI_press_photo)_(cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "United Press International",
+      "attribution": "United Press International, Public domain, via Wikimedia Commons",
+      "sha1": "447bc92d98ccebd44fdc4e2579b17869b6aca680",
+      "fetched": "2026-11-13"
+    },
+    "Q9439": {
+      "name": "Queen Victoria",
+      "roles": [
+        "monarch"
+      ],
+      "file": "Queen Victoria by Bassano.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Queen_Victoria_by_Bassano.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Alexander Bassano",
+      "attribution": "Alexander Bassano, Public domain, via Wikimedia Commons",
+      "sha1": "da487e2e9855362b4a5f4fdb531c55ae47ac6e1b",
+      "fetched": "2026-11-13"
+    },
+    "Q9682": {
+      "name": "Elizabeth II",
+      "roles": [
+        "monarch"
+      ],
+      "file": "Queen Elizabeth II official portrait for 1959 tour (retouched) (cropped) (3-to-4 aspect ratio).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Donald McKague",
+      "attribution": "Donald McKague, Public domain, via Wikimedia Commons",
+      "sha1": "10859af5e5aecefd32e91e939cfe8b626f57670b",
+      "fetched": "2026-11-13"
+    },
+    "Q20875": {
+      "name": "Edward VII",
+      "roles": [
+        "monarch"
+      ],
+      "file": "King-Edward-VII (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:King-Edward-VII_(cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "W. & D. Downey",
+      "attribution": "W. & D. Downey, Public domain, via Wikimedia Commons",
+      "sha1": "b383c2842c047ca1c43606e8f8907c65574baa7d",
+      "fetched": "2026-11-13"
+    },
+    "Q39168": {
+      "name": "Harold Alexander, 1st Earl Alexander of Tunis",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Harold Alexander E010750678-v8.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Harold_Alexander_E010750678-v8.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Department of National Defence of Canada",
+      "attribution": "Department of National Defence of Canada, Public domain, via Wikimedia Commons",
+      "sha1": "533ab63cbb153653dce23c62ee8b3d6e68cc6ee7",
+      "fetched": "2026-11-13"
+    },
+    "Q41564": {
+      "name": "David Johnston",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "David Lloyd Johnston(Brubacher House).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:David_Lloyd_Johnston(Brubacher_House).jpg",
+      "licence": "CC BY-SA 2.5",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "Valacosa (real name: Michael L. Davenport)",
+      "attribution": "Valacosa (real name: Michael L. Davenport), CC BY-SA 2.5, via Wikimedia Commons",
+      "sha1": "6c9eb886beabf6c120ed814e146243c7c8164a2a",
+      "fetched": "2026-11-13"
+    },
+    "Q43274": {
+      "name": "Charles III",
+      "roles": [
+        "monarch"
+      ],
+      "file": "King Charles III (July 2023).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:King_Charles_III_(July_2023).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "White House",
+      "attribution": "White House, Public domain, via Wikimedia Commons",
+      "sha1": "3b5335af628c4fe69923d369251d2c1c0d689f20",
+      "fetched": "2026-11-13"
+    },
+    "Q81496": {
+      "name": "Adam van Koeverden",
+      "roles": [
+        "mp"
+      ],
+      "file": "Adam van Koeverden.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Adam_van_Koeverden.jpg",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": null,
+      "attribution": "Unknown author, CC BY-SA 3.0, via Wikimedia Commons",
+      "sha1": "fe196d53f78cf180f968d99d0ea6c51beb5bdc31",
+      "fetched": "2026-11-13"
+    },
+    "Q128529": {
+      "name": "Paul Martin",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "Paul Martin in 2006.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Paul_Martin_in_2006.jpg",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Kate Gottli on Flickr",
+      "attribution": "Kate Gottli on Flickr, CC BY-SA 2.0, via Wikimedia Commons",
+      "sha1": "4a4fde60096b8fd15ddfb22f8360c99680a8ed43",
+      "fetched": "2026-11-13"
+    },
+    "Q128543": {
+      "name": "Jean Chrétien",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "Jean Chrétien 2010.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Jean_Chr%C3%A9tien_2010.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Michael Ignatieff",
+      "attribution": "Michael Ignatieff, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "4eaabf0939d73607447d3b2b8316c7a8fe0dfa91",
+      "fetched": "2026-11-13"
+    },
+    "Q128553": {
+      "name": "Kim Campbell",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "Kim Campbell.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Kim_Campbell.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Simon Fraser University - University Communications",
+      "attribution": "Simon Fraser University - University Communications, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "a04997fb9e31c47196927c9045dafcce951b3312",
+      "fetched": "2026-11-13"
+    },
+    "Q128563": {
+      "name": "Brian Mulroney",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "Brian Mulroney in 1984.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Brian_Mulroney_in_1984.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "A1C LYNCH",
+      "attribution": "A1C LYNCH, Public domain, via Wikimedia Commons",
+      "sha1": "314a970aaabc5fb4f8fb21934060a108c03d28f8",
+      "fetched": "2026-11-13"
+    },
+    "Q128568": {
+      "name": "John Turner",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "John Turner (39436619124) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:John_Turner_(39436619124)_(cropped).jpg",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Gage Skidmore from Peoria, AZ, United States of America",
+      "attribution": "Gage Skidmore from Peoria, AZ, United States of America, CC BY-SA 2.0, via Wikimedia Commons",
+      "sha1": "db5d45636d2e5b3997ab925acb5b56ed16d48d81",
+      "fetched": "2026-11-13"
+    },
+    "Q128574": {
+      "name": "Joe Clark",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "RightHonourableJoeClark (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:RightHonourableJoeClark_(cropped).jpg",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "M. Rehemtulla",
+      "attribution": "M. Rehemtulla, CC BY-SA 3.0, via Wikimedia Commons",
+      "sha1": "d559551f0983bd17fd9127140bdd489e8644d8fd",
+      "fetched": "2026-11-13"
+    },
+    "Q128604": {
+      "name": "Lester B. Pearson",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "Lester B. Pearson (1963 ABC press photo).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Lester_B._Pearson_(1963_ABC_press_photo).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "ABC Television",
+      "attribution": "ABC Television, Public domain, via Wikimedia Commons",
+      "sha1": "eb74f73bf3e62b8f7e15eaf28b50bc63026cd3df",
+      "fetched": "2026-11-13"
+    },
+    "Q128614": {
+      "name": "John Diefenbaker",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "John Diefenbaker 1961.png",
+      "page": "https://commons.wikimedia.org/wiki/File:John_Diefenbaker_1961.png",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "White House Photo Office",
+      "attribution": "White House Photo Office, Public domain, via Wikimedia Commons",
+      "sha1": "545ab9c8b9aa232de7c0f5ebd8d63f1c577c0a3a",
+      "fetched": "2026-11-13"
+    },
+    "Q128626": {
+      "name": "Louis St. Laurent",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "Louis St. Laurent portrait.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Louis_St._Laurent_portrait.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "George Nakash",
+      "attribution": "George Nakash, Public domain, via Wikimedia Commons",
+      "sha1": "12f080013968327fc84232faa460dd535835df09",
+      "fetched": "2026-11-13"
+    },
+    "Q128633": {
+      "name": "William Lyon Mackenzie King",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "Wm Lyon Mackenzie King.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Wm_Lyon_Mackenzie_King.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
+      "attribution": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress), Public domain, via Wikimedia Commons",
+      "sha1": "e234b1aec361b11762949381179299333345b689",
+      "fetched": "2026-11-13"
+    },
+    "Q128641": {
+      "name": "R. B. Bennett",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "Richard Bedford Bennett.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Richard_Bedford_Bennett.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Unknown author Unknown author",
+      "attribution": "Unknown author Unknown author, Public domain, via Wikimedia Commons",
+      "sha1": "e921ac25dec564c5a1e8f4e0d720d7874c3fc0c0",
+      "fetched": "2026-11-13"
+    },
+    "Q128645": {
+      "name": "Arthur Meighen",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "Former PM Arthur Meighen.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Former_PM_Arthur_Meighen.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Unknown author Unknown author",
+      "attribution": "Unknown author Unknown author, Public domain, via Wikimedia Commons",
+      "sha1": "272cf7daad48ae3ec9308f0946d2df1e3c6eda15",
+      "fetched": "2026-11-13"
+    },
+    "Q128655": {
+      "name": "Robert Borden",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "Sir Robert Laird Borden, 1915.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Sir_Robert_Laird_Borden,_1915.png",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Unknown author Unknown author",
+      "attribution": "Unknown author Unknown author, Public domain, via Wikimedia Commons",
+      "sha1": "a63f27e6084994c78a5e0daa6d6e5fc2ca8e33bd",
+      "fetched": "2026-11-13"
+    },
+    "Q128664": {
+      "name": "Wilfrid Laurier",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "The Honourable Sir Wilfrid Laurier Photo C (HS85-10-16873) - medium crop.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Honourable_Sir_Wilfrid_Laurier_Photo_C_(HS85-10-16873)_-_medium_crop.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "William James Topley",
+      "attribution": "William James Topley, Public domain, via Wikimedia Commons",
+      "sha1": "213e4b54d5b364b9f29fe87ccef9a871b0f37621",
+      "fetched": "2026-11-13"
+    },
+    "Q128672": {
+      "name": "Charles Tupper",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "Chas Tupper - GG Bain.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Chas_Tupper_-_GG_Bain.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "George Grantham Bain",
+      "attribution": "George Grantham Bain, Public domain, via Wikimedia Commons",
+      "sha1": "51a61df42d5b8f758b0438e565df37735b0328c6",
+      "fetched": "2026-11-13"
+    },
+    "Q128677": {
+      "name": "Mackenzie Bowell",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "SirMackenzieBowell.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:SirMackenzieBowell.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "William James Topley",
+      "attribution": "William James Topley, Public domain, via Wikimedia Commons",
+      "sha1": "e5573350baa5d32b1bd3c4481f7fa41450493895",
+      "fetched": "2026-11-13"
+    },
+    "Q128686": {
+      "name": "John Sparrow David Thompson",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "Sir John SD Thompson.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Sir_John_SD_Thompson.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "William James Topley",
+      "attribution": "William James Topley, Public domain, via Wikimedia Commons",
+      "sha1": "cfbc647d15f195ced3589a807f3575bf646b899c",
+      "fetched": "2026-11-13"
+    },
+    "Q128696": {
+      "name": "John Abbott",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "SirJohnAbbott1.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:SirJohnAbbott1.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "William James Topley",
+      "attribution": "William James Topley, Public domain, via Wikimedia Commons",
+      "sha1": "f0fbebf58ae866f0516792a71dd5485859d54bb8",
+      "fetched": "2026-11-13"
+    },
+    "Q128702": {
+      "name": "John A. Macdonald",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "JaMAC.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:JaMAC.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Unknown author Unknown author",
+      "attribution": "Unknown author Unknown author, Public domain, via Wikimedia Commons",
+      "sha1": "baa046c60eed589623005bdad78a201becb78591",
+      "fetched": "2026-11-13"
+    },
+    "Q128708": {
+      "name": "Alexander Mackenzie",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "Alexander MacKenzie - portrait.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Alexander_MacKenzie_-_portrait.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "William James Topley",
+      "attribution": "William James Topley, Public domain, via Wikimedia Commons",
+      "sha1": "911012a039ad2f3334bb9d64bcd455dbcda64194",
+      "fetched": "2026-11-13"
+    },
+    "Q128933": {
+      "name": "Michaëlle Jean",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Michaëlle Jean 2010-05-11 (060) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Micha%C3%ABlle_Jean_2010-05-11_(060)_(cropped).jpg",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "LGOntario",
+      "attribution": "LGOntario, CC BY-SA 2.0, via Wikimedia Commons",
+      "sha1": "46f89f46ee3d4cc4d535dbc5c5a0556eebaf7970",
+      "fetched": "2026-11-13"
+    },
+    "Q160558": {
+      "name": "Prince Arthur, Duke of Connaught and Strathearn",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Prince Arthur, 1st Duke of Connaught and Strathearn.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Prince_Arthur,_1st_Duke_of_Connaught_and_Strathearn.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Alexander Bassano",
+      "attribution": "Alexander Bassano, Public domain, via Wikimedia Commons",
+      "sha1": "40601dde412871f5404ea4756c0a67ec6f297115",
+      "fetched": "2026-11-13"
+    },
+    "Q192533": {
+      "name": "Mark Carney",
+      "roles": [
+        "mp",
+        "prime-minister"
+      ],
+      "file": "Mark Carney Argentina v Spain 19 July 2026-303 (3x4 close up cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Mark_Carney_Argentina_v_Spain_19_July_2026-303_(3x4_close_up_cropped).jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Bryan Berlin",
+      "attribution": "Bryan Berlin, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "2d3fbe76fd406f62527bd7287d773633db15a5f3",
+      "fetched": "2026-11-13"
+    },
+    "Q222458": {
+      "name": "Frederick Stanley, 16th Earl of Derby",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Frederick Stanley, Lord Stanley of Preston.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Frederick_Stanley,_Lord_Stanley_of_Preston.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Unknown author Unknown author",
+      "attribution": "Unknown author Unknown author, Public domain, via Wikimedia Commons",
+      "sha1": "29778ea24d55dba742ca7cc5dd8f16a3f8ac0255",
+      "fetched": "2026-11-13"
+    },
+    "Q236482": {
+      "name": "Adrienne Clarkson",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "GG-Adrienne Clarkson2.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:GG-Adrienne_Clarkson2.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Andrew Rusk",
+      "attribution": "Andrew Rusk, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "4ef0c5b8303218ed3a41f9290349945c24657a2c",
+      "fetched": "2026-11-13"
+    },
+    "Q239235": {
+      "name": "Louise Arbour",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Louise Arbour during her first official visit to the Citadelle de Québec (3-4 cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Louise_Arbour_during_her_first_official_visit_to_the_Citadelle_de_Qu%C3%A9bec_(3-4_cropped).jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Snowolf",
+      "attribution": "Snowolf, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "f4828fc8e216c411f81c12c223c24151625a4765",
+      "fetched": "2026-11-13"
+    },
+    "Q240769": {
+      "name": "Julie Payette",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Julie Payette 2017.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Julie_Payette_2017.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Johanie Maheu",
+      "attribution": "Johanie Maheu, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "976998f62b40ccd1967f3adc25531f63e1003a27",
+      "fetched": "2026-11-13"
+    },
+    "Q269412": {
+      "name": "George V",
+      "roles": [
+        "monarch"
+      ],
+      "file": "King George 1923 LCCN2014715558 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:King_George_1923_LCCN2014715558_(cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Bassano Ltd",
+      "attribution": "Bassano Ltd, Public domain, via Wikimedia Commons",
+      "sha1": "4edc10cfde4bad2075a14531f3997ca78323fdfe",
+      "fetched": "2026-11-13"
+    },
+    "Q278691": {
+      "name": "Henri-Elzéar Taschereau",
+      "roles": [
+        "chief-justice"
+      ],
+      "file": "Henri Elzéar Taschereau.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Henri_Elz%C3%A9ar_Taschereau.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "William James Topley",
+      "attribution": "William James Topley, Public domain, via Wikimedia Commons",
+      "sha1": "3abcbb8b28ae27059a6c42c9875bbfa0fa44c686",
+      "fetched": "2026-11-13"
+    },
+    "Q280856": {
+      "name": "George VI",
+      "roles": [
+        "monarch"
+      ],
+      "file": "King George VI LOC matpc.14736 A (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:King_George_VI_LOC_matpc.14736_A_(cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Matson Photo Service",
+      "attribution": "Matson Photo Service, Public domain, via Wikimedia Commons",
+      "sha1": "3fc012bfc95590d1346473c90f63cea8b34baef2",
+      "fetched": "2026-11-13"
+    },
+    "Q333004": {
+      "name": "John Buchan",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Lord tweedsmuiir.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Lord_tweedsmuiir.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Bassano Ltd",
+      "attribution": "Bassano Ltd, Public domain, via Wikimedia Commons",
+      "sha1": "9dd23a0109a55d9f35f8f1b33320a794985e1ab0",
+      "fetched": "2026-11-13"
+    },
+    "Q333233": {
+      "name": "Charles Monck, 4th Viscount Monck",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Charles Stanley Monck.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Charles_Stanley_Monck.png",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Jules-Isaïe Benoît",
+      "attribution": "Jules-Isaïe Benoît, Public domain, via Wikimedia Commons",
+      "sha1": "d48f57e33ac224d0979f3af8de9a8f917b906d02",
+      "fetched": "2026-11-13"
+    },
+    "Q333245": {
+      "name": "Vere Ponsonby, 9th Earl of Bessborough",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Vere Ponsonby, 9th Earl of Bessborough, circa 1935.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Vere_Ponsonby,_9th_Earl_of_Bessborough,_circa_1935.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Violet Keene",
+      "attribution": "Violet Keene, Public domain, via Wikimedia Commons",
+      "sha1": "f87e9481f3465120ae05253d62b5c305b60d8b61",
+      "fetched": "2026-11-13"
+    },
+    "Q333336": {
+      "name": "Albert Grey, 4th Earl Grey",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Albert Grey.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Albert_Grey.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "James Russell and Sons",
+      "attribution": "James Russell and Sons, Public domain, via Wikimedia Commons",
+      "sha1": "975e203c423903588c8bee58975c89f7ae7c6fa0",
+      "fetched": "2026-11-13"
+    },
+    "Q334392": {
+      "name": "John Young, 1st Baron Lisgar",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "John Young, 1st Baron Lisgar.png",
+      "page": "https://commons.wikimedia.org/wiki/File:John_Young,_1st_Baron_Lisgar.png",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Notman",
+      "attribution": "Notman, Public domain, via Wikimedia Commons",
+      "sha1": "ec6b0316a59f243224aaad202819d65acdb82660",
+      "fetched": "2026-11-13"
+    },
+    "Q334971": {
+      "name": "John Campbell, 9th Duke of Argyll",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "John Campbell, 9th Duke of Argyll.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:John_Campbell,_9th_Duke_of_Argyll.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Unknown author Unknown author",
+      "attribution": "Unknown author Unknown author, Public domain, via Wikimedia Commons",
+      "sha1": "7f888b837565e73389114e9eb0fa5055a1179420",
+      "fetched": "2026-11-13"
+    },
+    "Q334974": {
+      "name": "Julian Byng, 1st Viscount Byng of Vimy",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Lord-byng.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Lord-byng.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Rice studio (see other versions) Credit: Canada. Patent and Copyright Office / Library and Archives Canada / C-033239",
+      "attribution": "Rice studio (see other versions) Credit: Canada. Patent and Copyright Office / Library and Archives Canada / C-033239, Public domain, via Wikimedia Commons",
+      "sha1": "b3023284fe04493dd9907306b8f1655f17a26e3a",
+      "fetched": "2026-11-13"
+    },
+    "Q335091": {
+      "name": "Alexander Cambridge, 1st Earl of Athlone",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Prince of Teck LCCN2014696394.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Prince_of_Teck_LCCN2014696394.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Bain News Service, publisher",
+      "attribution": "Bain News Service, publisher, Public domain, via Wikimedia Commons",
+      "sha1": "92db24cc4fcb1798f56a1e346b7f92af1d42a252",
+      "fetched": "2026-11-13"
+    },
+    "Q335981": {
+      "name": "John Hamilton-Gordon, 1st Marquess of Aberdeen and Temair",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Lord Aberdeen.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Lord_Aberdeen.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "S.J. Thompson",
+      "attribution": "S.J. Thompson, Public domain, via Wikimedia Commons",
+      "sha1": "fa04e0cad80ef6a82081fbfd0f8db071e27b6900",
+      "fetched": "2026-11-13"
+    },
+    "Q336280": {
+      "name": "Gilbert Elliot-Murray-Kynynmound, 4th Earl of Minto",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Picture of Gilbert Elliot-Murray-Kynynmound, 4th Earl of Minto.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Picture_of_Gilbert_Elliot-Murray-Kynynmound,_4th_Earl_of_Minto.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Unknown author Unknown author",
+      "attribution": "Unknown author Unknown author, Public domain, via Wikimedia Commons",
+      "sha1": "1d4a7e9ac32eddc87a34f4f269c0dfa388a8ebf0",
+      "fetched": "2026-11-13"
+    },
+    "Q336374": {
+      "name": "Frederick Hamilton-Temple-Blackwood, 1st Marquess of Dufferin and Ava",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Comte de Dufferin.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Comte_de_Dufferin.JPG",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": null,
+      "attribution": "Unknown author, Public domain, via Wikimedia Commons",
+      "sha1": "5629bcf42d674ab2eb93a281c639e144792e631d",
+      "fetched": "2026-11-13"
+    },
+    "Q337386": {
+      "name": "Henry Petty-Fitzmaurice, 5th Marquess of Lansdowne",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "The Marquess of Lansdowne in 1887.png",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Marquess_of_Lansdowne_in_1887.png",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Topley Studio",
+      "attribution": "Topley Studio, Public domain, via Wikimedia Commons",
+      "sha1": "65e65f2705472a93c22abd7c3833f7b6843af88c",
+      "fetched": "2026-11-13"
+    },
+    "Q387532": {
+      "name": "William Buell Richards",
+      "roles": [
+        "chief-justice"
+      ],
+      "file": "William Buell Richards.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:William_Buell_Richards.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Frances Richards (1852-1934) (signed in the painting)",
+      "attribution": "Frances Richards (1852-1934) (signed in the painting), Public domain, via Wikimedia Commons",
+      "sha1": "638e5b9c7ec3f6f22234d0e69c9d49871926ca42",
+      "fetched": "2026-11-13"
+    },
+    "Q433191": {
+      "name": "Jeanne Sauvé",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Jeanne Sauve 1987 crop (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Jeanne_Sauve_1987_crop_(cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "White House Television Office (Reagan Administration)",
+      "attribution": "White House Television Office (Reagan Administration), Public domain, via Wikimedia Commons",
+      "sha1": "0c638e34bac2bb898672710438610c614dc994eb",
+      "fetched": "2026-11-13"
+    },
+    "Q443059": {
+      "name": "Charles Fitzpatrick",
+      "roles": [
+        "chief-justice"
+      ],
+      "file": "Photograph of Charles Fitzpatrick, M.P (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Photograph_of_Charles_Fitzpatrick,_M.P_(cropped).jpg",
+      "licence": "No restrictions",
+      "licenceUrl": "https://www.flickr.com/commons/usage/",
+      "author": "Montminy & Cie, Quebec",
+      "attribution": "Montminy & Cie, Quebec, No restrictions, via Wikimedia Commons",
+      "sha1": "55408ab47bcbc2763db822399cfe8c8a4f6ff7e2",
+      "fetched": "2026-11-13"
+    },
+    "Q445620": {
+      "name": "Elizabeth May",
+      "roles": [
+        "mp"
+      ],
+      "file": "Elizabeth May, 2024 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Elizabeth_May,_2024_(cropped).jpg",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "TVA Nouvelles",
+      "attribution": "TVA Nouvelles, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "657df010652ccdd44c48833c5934ffc1a56c5b18",
+      "fetched": "2026-11-13"
+    },
+    "Q452488": {
+      "name": "Lyman Duff",
+      "roles": [
+        "chief-justice"
+      ],
+      "file": "Lyman Poore Duff.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Lyman_Poore_Duff.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Topley Studio",
+      "attribution": "Topley Studio, Public domain, via Wikimedia Commons",
+      "sha1": "a4a66d1ea819055b56078f8d3960b56d599b7eb1",
+      "fetched": "2026-11-13"
+    },
+    "Q452496": {
+      "name": "John Robert Cartwright",
+      "roles": [
+        "chief-justice"
+      ],
+      "file": "Rt. Hon. John Robert Cartwright (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Rt._Hon._John_Robert_Cartwright_(cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Gar Lunney",
+      "attribution": "Gar Lunney, Public domain, via Wikimedia Commons",
+      "sha1": "89d8b75a66de1869af7db2081852b802920016a1",
+      "fetched": "2026-11-13"
+    },
+    "Q452633": {
+      "name": "Patrick Kerwin",
+      "roles": [
+        "chief-justice"
+      ],
+      "file": "Patrick Kerwin (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Patrick_Kerwin_(cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "National Film Board of Canada",
+      "attribution": "National Film Board of Canada, Public domain, via Wikimedia Commons",
+      "sha1": "4c61207a77e67e90fd7acf0e0ca34ab72a147b70",
+      "fetched": "2026-11-13"
+    },
+    "Q452863": {
+      "name": "Gérald Fauteux",
+      "roles": [
+        "chief-justice"
+      ],
+      "file": "Rt. Hon. Gerald Fauteux in 1953 02.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Rt._Hon._Gerald_Fauteux_in_1953_02.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Gar Lunney",
+      "attribution": "Gar Lunney, Public domain, via Wikimedia Commons",
+      "sha1": "5b31247ed64658dee55b56671307ffa8acf5741d",
+      "fetched": "2026-11-13"
+    },
+    "Q460136": {
+      "name": "Beverley McLachlin",
+      "roles": [
+        "chief-justice"
+      ],
+      "file": "Beverley McLachlin (crop).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Beverley_McLachlin_(crop).jpg",
+      "licence": "CC BY 3.0 br",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
+      "author": "Gervásio Baptista/ABr",
+      "attribution": "Gervásio Baptista/ABr, CC BY 3.0 br, via Wikimedia Commons",
+      "sha1": "8ab49dba8b1910bc9a81074f36443a922404a6ed",
+      "fetched": "2026-11-13"
+    },
+    "Q509426": {
+      "name": "Ray Hnatyshyn",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Hnatyshyn.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Hnatyshyn.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Sparks1 ( talk)",
+      "attribution": "Sparks1 ( talk), Public domain, via Wikimedia Commons",
+      "sha1": "43d5d3b1bf8204af65891e819eb019b27789934b",
+      "fetched": "2026-11-13"
+    },
+    "Q525733": {
+      "name": "Roland Michener",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Governor General Roland Michener at Alma College graduation ceremonies 1972 (crop).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Governor_General_Roland_Michener_at_Alma_College_graduation_ceremonies_1972_(crop).jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Uncropped version from the St. Thomas Times-Journal (via Elgin County Archives)",
+      "attribution": "Uncropped version from the St. Thomas Times-Journal (via Elgin County Archives), CC BY 2.0, via Wikimedia Commons",
+      "sha1": "77427c49103125f9a7b818f490eb82243471d1a1",
+      "fetched": "2026-11-13"
+    },
+    "Q590227": {
+      "name": "Edward VIII",
+      "roles": [
+        "monarch"
+      ],
+      "file": "Duke and Duchess of Windsor - Google Art Project (Duke cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Duke_and_Duchess_of_Windsor_-_Google_Art_Project_(Duke_cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Attributed to Angelo Laviosa / Formerly attributed to Vincenzo Laviosa",
+      "attribution": "Attributed to Angelo Laviosa / Formerly attributed to Vincenzo Laviosa, Public domain, via Wikimedia Commons",
+      "sha1": "600a67d956e0e4fa199ae38d6fcb4c865bf566d6",
+      "fetched": "2026-11-13"
+    },
+    "Q603107": {
+      "name": "Freeman Freeman-Thomas, 1st Marquess of Willingdon",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Freeman Freeman-Thomas by Henry Walter Barnett.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Freeman_Freeman-Thomas_by_Henry_Walter_Barnett.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Henry Walter Barnett",
+      "attribution": "Henry Walter Barnett, Public domain, via Wikimedia Commons",
+      "sha1": "2a90d5e263948279cb9a8243ba066865809fa1a5",
+      "fetched": "2026-11-13"
+    },
+    "Q771878": {
+      "name": "Mark Strahl",
+      "roles": [
+        "mp"
+      ],
+      "file": "Mark Strahl - 2017 (38985000371) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Mark_Strahl_-_2017_(38985000371)_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andre Forget",
+      "attribution": "Andre Forget, CC0, via Wikimedia Commons",
+      "sha1": "3d13d59f95052a88956e542a97e26e0ae27fd830",
+      "fetched": "2026-11-13"
+    },
+    "Q774134": {
+      "name": "Jacques Gourde",
+      "roles": [
+        "mp"
+      ],
+      "file": "Jacques Gourde 2018.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Jacques_Gourde_2018.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "d8ad05ad0f390bcffddd7a3b93dff34031a5a74e",
+      "fetched": "2026-11-13"
+    },
+    "Q788205": {
+      "name": "Samuel Henry Strong",
+      "roles": [
+        "chief-justice"
+      ],
+      "file": "Samuel Henry Strong in 1895.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Samuel_Henry_Strong_in_1895.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "William James Topley",
+      "attribution": "William James Topley, Public domain, via Wikimedia Commons",
+      "sha1": "87363c28846404047044e2b8abfb51f45ddb2433",
+      "fetched": "2026-11-13"
+    },
+    "Q927934": {
+      "name": "Roméo LeBlanc",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Roméo LeBlanc 1979 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Rom%C3%A9o_LeBlanc_1979_(cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "United Press International",
+      "attribution": "United Press International, Public domain, via Wikimedia Commons",
+      "sha1": "b62f76d38bb9b32b09d877e5aaa3310eaf13406b",
+      "fetched": "2026-11-13"
+    },
+    "Q951045": {
+      "name": "Robert Taschereau",
+      "roles": [
+        "chief-justice"
+      ],
+      "file": "Robert Taschereau.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Robert_Taschereau.png",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Notman & Son",
+      "attribution": "Notman & Son, Public domain, via Wikimedia Commons",
+      "sha1": "052b0a78abef5ae7aad67b19732367e4063ae882",
+      "fetched": "2026-11-13"
+    },
+    "Q955143": {
+      "name": "Francis Scarpaleggia",
+      "roles": [
+        "mp"
+      ],
+      "file": "Francis Scarpaleggia July 2025 (3-4 cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Francis_Scarpaleggia_July_2025_(3-4_cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Ambassador Pete Hoekstra",
+      "attribution": "Ambassador Pete Hoekstra, Public domain, via Wikimedia Commons",
+      "sha1": "0f6199dfce13085387aa695386fc4693f36f767c",
+      "fetched": "2026-11-13"
+    },
+    "Q966669": {
+      "name": "Vincent Massey",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Governor General Vincent Massey (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Governor_General_Vincent_Massey_(cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Gar Lunney",
+      "attribution": "Gar Lunney, Public domain, via Wikimedia Commons",
+      "sha1": "a6c1fde65806f80aa20c9b43df7db0aa79f8c4e3",
+      "fetched": "2026-11-13"
+    },
+    "Q974089": {
+      "name": "Georges Vanier",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Portrait of Governor General Georges Vanier (1965 UPI press photo).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Governor_General_Georges_Vanier_(1965_UPI_press_photo).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "United Press International",
+      "attribution": "United Press International, Public domain, via Wikimedia Commons",
+      "sha1": "efae6696c48ae60c024b7de5330320427ae226ab",
+      "fetched": "2026-11-13"
+    },
+    "Q1029113": {
+      "name": "Louis Henry Davies",
+      "roles": [
+        "chief-justice"
+      ],
+      "file": "LouisHenryDavies.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:LouisHenryDavies.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": null,
+      "attribution": "Unknown author, Public domain, via Wikimedia Commons",
+      "sha1": "656c95a24416cdd7c74bb11984e88f6ce7fe1290",
+      "fetched": "2026-11-13"
+    },
+    "Q1207881": {
+      "name": "Edward Schreyer",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Edward Richard Schreyer.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Edward_Richard_Schreyer.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "House of Commons",
+      "attribution": "House of Commons, Public domain, via Wikimedia Commons",
+      "sha1": "b82ead328b4295ee01f5dc5ce9834069f2c15226",
+      "fetched": "2026-11-13"
+    },
+    "Q1208406": {
+      "name": "Jules Léger",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Jules Leger Jan 1974 (3-4 cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Jules_Leger_Jan_1974_(3-4_cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Unknown author Unknown author",
+      "attribution": "Unknown author Unknown author, Public domain, via Wikimedia Commons",
+      "sha1": "b68416a4753989df0cf2da7fa2a0e6f6e4000a1b",
+      "fetched": "2026-11-13"
+    },
+    "Q1391375": {
+      "name": "Gregor Robertson",
+      "roles": [
+        "mp"
+      ],
+      "file": "Gregor Robertson (2021).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Gregor_Robertson_(2021).jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "PearGurl",
+      "attribution": "PearGurl, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "47f774b45be580761c66fa0d0f1d70b2a319bd9e",
+      "fetched": "2026-11-13"
+    },
+    "Q1441358": {
+      "name": "Francis Alexander Anglin",
+      "roles": [
+        "chief-justice"
+      ],
+      "file": "Francis Anglin.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Francis_Anglin.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Unknown author Unknown author",
+      "attribution": "Unknown author Unknown author, Public domain, via Wikimedia Commons",
+      "sha1": "5bba8a2098a1608cfc98a550518bfb5d14f6d0af",
+      "fetched": "2026-11-13"
+    },
+    "Q1685302": {
+      "name": "Jean-Yves Duclos",
+      "roles": [
+        "mp"
+      ],
+      "file": "Jean-Yves Duclos (2024) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Jean-Yves_Duclos_(2024)_(cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "DHSgov",
+      "attribution": "DHSgov, Public domain, via Wikimedia Commons",
+      "sha1": "942049b6ab1a8773d040b7df9d7781ca2b1c488a",
+      "fetched": "2026-11-13"
+    },
+    "Q1783010": {
+      "name": "William Johnstone Ritchie",
+      "roles": [
+        "chief-justice"
+      ],
+      "file": "William Johnstone Ritchie.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:William_Johnstone_Ritchie.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "William James Topley",
+      "attribution": "William James Topley, Public domain, via Wikimedia Commons",
+      "sha1": "b3b59fde1d275647115bb4617dc04da092e65bba",
+      "fetched": "2026-11-13"
+    },
+    "Q2411883": {
+      "name": "Victor Cavendish, 9th Duke of Devonshire",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Son Honneur le Due de Devonshire, Gouverneur General du Canada (HS85-10-32530).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Son_Honneur_le_Due_de_Devonshire,_Gouverneur_General_du_Canada_(HS85-10-32530).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Dupras and Colas",
+      "attribution": "Dupras and Colas, Public domain, via Wikimedia Commons",
+      "sha1": "917065666f94407bd7f8e86bace0d115c7afdd10",
+      "fetched": "2026-11-13"
+    },
+    "Q2420578": {
+      "name": "Thibaudeau Rinfret",
+      "roles": [
+        "chief-justice"
+      ],
+      "file": "Rt. Hon. Thibaudeau Rinfret.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Rt._Hon._Thibaudeau_Rinfret.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Frank Royal",
+      "attribution": "Frank Royal, Public domain, via Wikimedia Commons",
+      "sha1": "37a86d91f67ab509084ca5f017dc4542e247c51b",
+      "fetched": "2026-11-13"
+    },
+    "Q2833301": {
+      "name": "Alexandra Mendès",
+      "roles": [
+        "mp"
+      ],
+      "file": "Alexandra Mendes 2011.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Alexandra_Mendes_2011.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Michael Ignatieff Photo:Georges Alexandar",
+      "attribution": "Michael Ignatieff Photo:Georges Alexandar, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "f6912d95c136e2839990723b30a797f6a9f6ba1e",
+      "fetched": "2026-11-13"
+    },
+    "Q2833494": {
+      "name": "Alexandre Boulerice",
+      "roles": [
+        "mp"
+      ],
+      "file": "Alexandre Boulerice 2016-09-10 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Alexandre_Boulerice_2016-09-10_(cropped).jpg",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Asclepias",
+      "attribution": "Asclepias, CC BY-SA 3.0, via Wikimedia Commons",
+      "sha1": "2737376addba6fb48253451dc313f65acb9921f5",
+      "fetched": "2026-11-13"
+    },
+    "Q2846724": {
+      "name": "Andrew Scheer",
+      "roles": [
+        "mp"
+      ],
+      "file": "Andrew Scheer in Delta - 2019 (48898645342) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Andrew_Scheer_in_Delta_-_2019_(48898645342)_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "5673f220b86e168c1b4ff89d2e5068469abc195d",
+      "fetched": "2026-11-13"
+    },
+    "Q2895501": {
+      "name": "Ben Lobb",
+      "roles": [
+        "mp"
+      ],
+      "file": "BenLobb 2018 KSF.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:BenLobb_2018_KSF.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Ajadams94",
+      "attribution": "Ajadams94, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "ef4ff0f4328ee6ad447217674fb1c1886bc4a877",
+      "fetched": "2026-11-13"
+    },
+    "Q2898026": {
+      "name": "Bernard Généreux",
+      "roles": [
+        "mp"
+      ],
+      "file": "Bernard Généreux - 2018 (42122913425) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bernard_G%C3%A9n%C3%A9reux_-_2018_(42122913425)_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "a3708d85197c5048d72603e2f927e7e9893e040b",
+      "fetched": "2026-11-13"
+    },
+    "Q2905842": {
+      "name": "Blake Richards",
+      "roles": [
+        "mp"
+      ],
+      "file": "Blake Richards.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Blake_Richards.jpg",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Robert Thivierge (Thivierr)",
+      "attribution": "Robert Thivierge (Thivierr), CC BY-SA 3.0, via Wikimedia Commons",
+      "sha1": "9ccd765689ce4d9df2ad1db4d830e7121228d497",
+      "fetched": "2026-11-13"
+    },
+    "Q2962814": {
+      "name": "Cheryl Gallant",
+      "roles": [
+        "mp"
+      ],
+      "file": "Cheryl Gallant in 2017.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Cheryl_Gallant_in_2017.png",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Cheryl Gallant",
+      "attribution": "Cheryl Gallant, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "767e6fd25807c63b4d35d8c3771c71fe8e6bb39f",
+      "fetched": "2026-11-13"
+    },
+    "Q2964888": {
+      "name": "Chris Warkentin",
+      "roles": [
+        "mp"
+      ],
+      "file": "Chris Warkentin MP 2014.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Chris_Warkentin_MP_2014.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Jake Wright",
+      "attribution": "Jake Wright, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "23b6b4b5051ea2a8c17dc68ee4b26fbc4f6841a3",
+      "fetched": "2026-11-13"
+    },
+    "Q3007723": {
+      "name": "Currie Dixon",
+      "roles": [
+        "premier"
+      ],
+      "file": "Currie Dixon interview.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Currie_Dixon_interview.jpg",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Cross Border Network",
+      "attribution": "Cross Border Network, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "8b3e638a54defc934234f1034af4b5fefbc14c64",
+      "fetched": "2026-11-13"
+    },
+    "Q3013003": {
+      "name": "Dan Albas",
+      "roles": [
+        "mp"
+      ],
+      "file": "Dan Albas in Kelowna Chamber - 2018 (40564630864) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Dan_Albas_in_Kelowna_Chamber_-_2018_(40564630864)_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "7a5a5f9a32e61fd199affaa935fb249b066d4dd9",
+      "fetched": "2026-11-13"
+    },
+    "Q3018407": {
+      "name": "David McGuinty",
+      "roles": [
+        "mp"
+      ],
+      "file": "David McGuinty 2025.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:David_McGuinty_2025.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "SECWAR",
+      "attribution": "SECWAR, Public domain, via Wikimedia Commons",
+      "sha1": "c2c12c632700e93e0bf15502e2d76156085f172a",
+      "fetched": "2026-11-13"
+    },
+    "Q3020613": {
+      "name": "Dean Allison",
+      "roles": [
+        "mp"
+      ],
+      "file": "Dean Allison in USA - 2018 (25896188228) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Dean_Allison_in_USA_-_2018_(25896188228)_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andre Forget - Andrew Scheer",
+      "attribution": "Andre Forget - Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "027caf376e0ac65a7964f245eab113c40613f262",
+      "fetched": "2026-11-13"
+    },
+    "Q3034854": {
+      "name": "Dominic LeBlanc",
+      "roles": [
+        "mp"
+      ],
+      "file": "Dominic LeBlanc 2023-03-06.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Dominic_LeBlanc_2023-03-06.jpg",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Justin Trudeau – Prime Minister of Canada",
+      "attribution": "Justin Trudeau – Prime Minister of Canada, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "f41ca886638b9d0251a72bd59117f5438dd39771",
+      "fetched": "2026-11-13"
+    },
+    "Q3035523": {
+      "name": "Dominique Vien",
+      "roles": [
+        "mp"
+      ],
+      "file": "Dominique Vien (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Dominique_Vien_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Unidentified photographer for Erin O'Toole",
+      "attribution": "Unidentified photographer for Erin O'Toole, CC0, via Wikimedia Commons",
+      "sha1": "645208e999676fc84d8c9c66196e6141098148c6",
+      "fetched": "2026-11-13"
+    },
+    "Q3035763": {
+      "name": "Don Davies",
+      "roles": [
+        "mp"
+      ],
+      "file": "Don Davies NDP.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Don_Davies_NDP.JPG",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Aaron.beattie",
+      "attribution": "Aaron.beattie, CC BY-SA 3.0, via Wikimedia Commons",
+      "sha1": "38c6107d559292beaf757d6f14e0c276e43d7029",
+      "fetched": "2026-11-13"
+    },
+    "Q3099714": {
+      "name": "Justin Trudeau",
+      "roles": [
+        "prime-minister"
+      ],
+      "file": "Justin Trudeau at the European Commission - 2025.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Justin_Trudeau_at_the_European_Commission_-_2025.jpg",
+      "licence": "Attribution",
+      "licenceUrl": null,
+      "author": "European Union",
+      "attribution": "© European Union, 1998 – 2026, Attribution, via Wikimedia Commons",
+      "sha1": "ed8c72ca953d2f6d86c0da8c0abc8aa9db585ded",
+      "fetched": "2026-11-13"
+    },
+    "Q3123899": {
+      "name": "Gérard Deltell",
+      "roles": [
+        "mp"
+      ],
+      "file": "Gérard Deltell - 2018 (41609596932) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:G%C3%A9rard_Deltell_-_2018_(41609596932)_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "6b1882ff592963b6626cdefc3ed7b9dc0abd2907",
+      "fetched": "2026-11-13"
+    },
+    "Q3129348": {
+      "name": "Hedy Fry",
+      "roles": [
+        "mp"
+      ],
+      "file": "Special Representative on Gender Issues Hedy Fry - 2017 (32687209370) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Special_Representative_on_Gender_Issues_Hedy_Fry_-_2017_(32687209370)_(cropped).jpg",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "OSCE Parliamentary Assembly from Copenhagen, Denmark",
+      "attribution": "OSCE Parliamentary Assembly from Copenhagen, Denmark, CC BY-SA 2.0, via Wikimedia Commons",
+      "sha1": "583432e4cd5b0ac2992989000e81c616b0d3684b",
+      "fetched": "2026-11-13"
+    },
+    "Q3160939": {
+      "name": "James Bezan",
+      "roles": [
+        "mp"
+      ],
+      "file": "James Bezan 2014.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:James_Bezan_2014.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Paul Shapka of US Embassy Canada",
+      "attribution": "Paul Shapka of US Embassy Canada, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "7411fa43371edcac3c498a53fd5aff0364d253d9",
+      "fetched": "2026-11-13"
+    },
+    "Q3188045": {
+      "name": "Judy A. Sgro",
+      "roles": [
+        "mp"
+      ],
+      "file": "Judy Sgro.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Judy_Sgro.jpg",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Michael Ignatieff",
+      "attribution": "Michael Ignatieff, CC BY-SA 2.0, via Wikimedia Commons",
+      "sha1": "c123769404fa6c2e15963bad784b5ef7e60f5d77",
+      "fetched": "2026-11-13"
+    },
+    "Q3195738": {
+      "name": "Kevin Lamoureux",
+      "roles": [
+        "mp"
+      ],
+      "file": "Kevin Lamoureux.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Kevin_Lamoureux.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Michael Ignatieff / Greg Kolz",
+      "attribution": "Michael Ignatieff / Greg Kolz, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "f51e68afb1023389f5e2054cddf0d7212a3d1838",
+      "fetched": "2026-11-13"
+    },
+    "Q3241356": {
+      "name": "Linda Lapointe",
+      "roles": [
+        "mp"
+      ],
+      "file": "LapointeLinda.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:LapointeLinda.jpg",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Marty555",
+      "attribution": "Marty555, CC BY-SA 3.0, via Wikimedia Commons",
+      "sha1": "708f7598f9b2c14baae4b3228be592cba29bcb6a",
+      "fetched": "2026-11-13"
+    },
+    "Q3308109": {
+      "name": "Michael Chong",
+      "roles": [
+        "mp"
+      ],
+      "file": "Michael Chong.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Michael_Chong.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Jake Wright",
+      "attribution": "Jake Wright, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "2989ed65d2d51e2e8b43283a4084541e779d6e72",
+      "fetched": "2026-11-13"
+    },
+    "Q3311457": {
+      "name": "Michelle Rempel Garner",
+      "roles": [
+        "mp"
+      ],
+      "file": "Michelle Rempel 2017 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Michelle_Rempel_2017_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "98835cb17a89aab4380edc6ede11c5a98357fd76",
+      "fetched": "2026-11-13"
+    },
+    "Q3313399": {
+      "name": "Mike Lake",
+      "roles": [
+        "mp"
+      ],
+      "file": "Mike Lake 2015.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Mike_Lake_2015.jpg",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Connormah",
+      "attribution": "Connormah, CC BY-SA 3.0, via Wikimedia Commons",
+      "sha1": "9c21160a1529dcb58be8f5050d4fc91d1dd007ea",
+      "fetched": "2026-11-13"
+    },
+    "Q3372147": {
+      "name": "Paul St-Pierre Plamondon",
+      "roles": [
+        "premier"
+      ],
+      "file": "Paul.St-Pierre.Plamondon.cropped.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Paul.St-Pierre.Plamondon.cropped.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "UnPingouin",
+      "attribution": "UnPingouin, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "22eedb1d6b3d288fd7f38cdee2b6bf15cdac04d2",
+      "fetched": "2026-11-13"
+    },
+    "Q3386636": {
+      "name": "Pierre Poilievre",
+      "roles": [
+        "mp"
+      ],
+      "file": "Pierre Poilievre in 2023 (edited).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Pierre_Poilievre_in_2023_(edited).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Humberland",
+      "attribution": "Humberland, CC0, via Wikimedia Commons",
+      "sha1": "a7990292bb130134b54021007f9f9e79189d7770",
+      "fetched": "2026-11-13"
+    },
+    "Q3431309": {
+      "name": "Richard Wagner",
+      "roles": [
+        "chief-justice",
+        "supreme-court"
+      ],
+      "file": "The Honourable Richard Wagner.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Honourable_Richard_Wagner.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Andrew Balfour Photography",
+      "attribution": "Andrew Balfour Photography, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "00f091b612148decf1a39ef81145761d701a1222",
+      "fetched": "2026-11-13"
+    },
+    "Q3434216": {
+      "name": "Rob Moore",
+      "roles": [
+        "mp"
+      ],
+      "file": "Rob Moore.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Rob_Moore.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "29bd4bbe176c5c2f9b4bb82476d3bea1554df280",
+      "fetched": "2026-11-13"
+    },
+    "Q3476240": {
+      "name": "Scott Reid",
+      "roles": [
+        "mp"
+      ],
+      "file": "Scott Reid.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Scott_Reid.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Grant Deme photo",
+      "attribution": "Grant Deme photo, CC0, via Wikimedia Commons",
+      "sha1": "c2fdefe87bc77f235172d60cf87658a80e5830e9",
+      "fetched": "2026-11-13"
+    },
+    "Q3476701": {
+      "name": "Sean Casey",
+      "roles": [
+        "mp"
+      ],
+      "file": "Capture.P11NG.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Capture.P11NG.png",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Chelsey Rogerson",
+      "attribution": "Chelsey Rogerson, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "dc904bd669268a25c5b4758b6fcfe7268145f097",
+      "fetched": "2026-11-13"
+    },
+    "Q3499230": {
+      "name": "Steven Guilbeault",
+      "roles": [
+        "mp"
+      ],
+      "file": "Steven Guilbeault - 2022 (52548719776) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Steven_Guilbeault_-_2022_(52548719776)_(cropped).jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "UN Biodiversity",
+      "attribution": "UN Biodiversity, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "1efd5687a4fe925eb61378be28d7831eaebbbdb9",
+      "fetched": "2026-11-13"
+    },
+    "Q3503377": {
+      "name": "Sukh Dhaliwal",
+      "roles": [
+        "mp"
+      ],
+      "file": "Sukh Dhaliwal.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Sukh_Dhaliwal.jpg",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Not mentioned by the uploader",
+      "attribution": "Not mentioned by the uploader, CC BY-SA 3.0, via Wikimedia Commons",
+      "sha1": "3c021aa1864ac4df7ce3dd0e8d79689a3a657df3",
+      "fetched": "2026-11-13"
+    },
+    "Q3528703": {
+      "name": "Tim Uppal",
+      "roles": [
+        "mp"
+      ],
+      "file": "Uppalmp.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Uppalmp.png",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "e33f2689b9936cc60b730123ee0af50e46e1392d",
+      "fetched": "2026-11-13"
+    },
+    "Q3573412": {
+      "name": "Yves-François Blanchet",
+      "roles": [
+        "mp"
+      ],
+      "file": "Yves-François Blanchet Entrevue no smile 2023 (cropped).png",
+      "page": "https://commons.wikimedia.org/wiki/File:Yves-Fran%C3%A7ois_Blanchet_Entrevue_no_smile_2023_(cropped).png",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "TVA Nouvelles",
+      "attribution": "TVA Nouvelles, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "e8d3cbd2952f4418cc5a79e2da9398dc932cde62",
+      "fetched": "2026-11-13"
+    },
+    "Q4492815": {
+      "name": "Chrystia Freeland",
+      "roles": [
+        "mp"
+      ],
+      "file": "Chrystia Freeland in Ukraine - 2017 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Chrystia_Freeland_in_Ukraine_-_2017_(cropped).jpg",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "https://www.kmu.gov.ua/ua/mediagallery/premyer-ministr-ukrayini-volodimir-grojsman-zustrivsya-z-ministrom-zakordonnih-sprav-kanadi-hristeyu-friland",
+      "attribution": "Kmu.gov.ua, CC BY 4.0, via Wikimedia Commons",
+      "sha1": "aec03d561fee5bbadb8874ae8777700f12b03d72",
+      "fetched": "2026-11-13"
+    },
+    "Q4772746": {
+      "name": "Anthony Housefather",
+      "roles": [
+        "mp"
+      ],
+      "file": "Anthony campaign shot december 2014.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Anthony_campaign_shot_december_2014.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "I'm not sure who took the picture but it belongs to the person in it, and he gives his permission",
+      "attribution": "I'm not sure who took the picture but it belongs to the person in it, and he gives his permission, CC0, via Wikimedia Commons",
+      "sha1": "8c023a0669d34648bc0819beb70408876c8c0eaa",
+      "fetched": "2026-11-13"
+    },
+    "Q4908168": {
+      "name": "Bill Blair",
+      "roles": [
+        "mp"
+      ],
+      "file": "Bill Blair 2025 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bill_Blair_2025_(cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "U.S. Secretary of Defense",
+      "attribution": "U.S. Secretary of Defense, Public domain, via Wikimedia Commons",
+      "sha1": "a12bc9cc7fa72b9c435282ab2c54d961d2c2e252",
+      "fetched": "2026-11-13"
+    },
+    "Q4934493": {
+      "name": "Bob Zimmer",
+      "roles": [
+        "mp"
+      ],
+      "file": "Bob Zimmer.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bob_Zimmer.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "OhanaUnited Talk page",
+      "attribution": "OhanaUnited Talk page, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "d48c117f02de5f8c293804036251cb4fb60646a2",
+      "fetched": "2026-11-13"
+    },
+    "Q4935396": {
+      "name": "Robert Morrissey",
+      "roles": [
+        "mp"
+      ],
+      "file": "Bobby 002.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bobby_002.jpg",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "RMorrissey",
+      "attribution": "RMorrissey, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "ff4f151dfb5c8a5eb70beb0dc813d2d9d1b21fec",
+      "fetched": "2026-11-13"
+    },
+    "Q4983346": {
+      "name": "Buckley Belanger",
+      "roles": [
+        "mp"
+      ],
+      "file": "Buckley Belanger at gdi agm 2022.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Buckley_Belanger_at_gdi_agm_2022.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Mis4mark",
+      "attribution": "Mis4mark, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "157cf76add529131b22b65c6f599816ff70c61d7",
+      "fetched": "2026-11-13"
+    },
+    "Q5082574": {
+      "name": "Charles Sousa",
+      "roles": [
+        "mp"
+      ],
+      "file": "CS Headshot 4.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:CS_Headshot_4.jpg",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Sputnik421",
+      "attribution": "Sputnik421, CC BY-SA 3.0, via Wikimedia Commons",
+      "sha1": "6a53ab8a7f98d94465f3ce2c7254722d7b92a15c",
+      "fetched": "2026-11-13"
+    },
+    "Q5108569": {
+      "name": "Chris d'Entremont",
+      "roles": [
+        "mp"
+      ],
+      "file": "ChrisdEntremont.png",
+      "page": "https://commons.wikimedia.org/wiki/File:ChrisdEntremont.png",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "CharlesFAllison",
+      "attribution": "CharlesFAllison, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "870de7ba68141f6a4be121e66f18714f4f31ff81",
+      "fetched": "2026-11-13"
+    },
+    "Q5170456": {
+      "name": "Corey Tochor",
+      "roles": [
+        "mp"
+      ],
+      "file": "CoreyTochor.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:CoreyTochor.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "5f2482079a2327bdf1d18f911af9e4914c097be8",
+      "fetched": "2026-11-13"
+    },
+    "Q5175052": {
+      "name": "Costas Menegakis",
+      "roles": [
+        "mp"
+      ],
+      "file": "Costas Menegakis in Richmond Hill - 2019 (48600179727) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Costas_Menegakis_in_Richmond_Hill_-_2019_(48600179727)_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "9d6802a7715b98cea64f16e3109446078b36bb2f",
+      "fetched": "2026-11-13"
+    },
+    "Q5219439": {
+      "name": "Danielle Smith",
+      "roles": [
+        "premier"
+      ],
+      "file": "Pete Hoekstra with Danielle Smith June 2025 (cropped(a)).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Pete_Hoekstra_with_Danielle_Smith_June_2025_(cropped(a)).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Ambassador Pete Hoekstra",
+      "attribution": "Ambassador Pete Hoekstra, Public domain, via Wikimedia Commons",
+      "sha1": "685d73b3fdfe6bad7ca467bb6d8369a3caf9f58e",
+      "fetched": "2026-11-13"
+    },
+    "Q5233252": {
+      "name": "David Eby",
+      "roles": [
+        "premier"
+      ],
+      "file": "David Eby - 2022 (52507022370) (cropped).png",
+      "page": "https://commons.wikimedia.org/wiki/File:David_Eby_-_2022_(52507022370)_(cropped).png",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "BC NDP",
+      "attribution": "BC NDP, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "62b6025eb5d8eadb212cc821a55e4d441840b882",
+      "fetched": "2026-11-13"
+    },
+    "Q5237875": {
+      "name": "David Myles",
+      "roles": [
+        "mp"
+      ],
+      "file": "David Myles at the Sean O'Sullivan Theatre.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:David_Myles_at_the_Sean_O%27Sullivan_Theatre.jpg",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Brock University",
+      "attribution": "Brock University, CC BY-SA 2.0, via Wikimedia Commons",
+      "sha1": "8d84d37ed424f95eb3dce863ec70a2f24bc66029",
+      "fetched": "2026-11-13"
+    },
+    "Q5300478": {
+      "name": "Doug Ford",
+      "roles": [
+        "premier"
+      ],
+      "file": "Doug Ford in Toronto June 2025 (edited).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Doug_Ford_in_Toronto_June_2025_(edited).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Ambassador Pete Hoekstra",
+      "attribution": "Ambassador Pete Hoekstra, Public domain, via Wikimedia Commons",
+      "sha1": "28fc52d65318ce380ac322dcfa3c8c2970f05088",
+      "fetched": "2026-11-13"
+    },
+    "Q5415550": {
+      "name": "Evan Solomon",
+      "roles": [
+        "mp"
+      ],
+      "file": "Evan Solomon at the 2023 US-Canada Summit (52806999641) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Evan_Solomon_at_the_2023_US-Canada_Summit_(52806999641)_(cropped).jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Eurasia Group",
+      "attribution": "Eurasia Group, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "80772b5fb55bb5ddc1717e92b8bf69763dc35c11",
+      "fetched": "2026-11-13"
+    },
+    "Q6179373": {
+      "name": "Jenny Kwan",
+      "roles": [
+        "mp"
+      ],
+      "file": "NDP MP Jenny Kwan.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:NDP_MP_Jenny_Kwan.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "https://www.flickr.com/photos/leadnow/",
+      "attribution": "https://www.flickr.com/photos/leadnow/, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "dc0fdea315e0a23c017ee5a7984edfbcffdaf4a3",
+      "fetched": "2026-11-13"
+    },
+    "Q6385949": {
+      "name": "Kelly Block",
+      "roles": [
+        "mp"
+      ],
+      "file": "MPBlock.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:MPBlock.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "b23f8b57f134bebc0ed6f87ab34faa29c0520562",
+      "fetched": "2026-11-13"
+    },
+    "Q6451430": {
+      "name": "Kyle Seeback",
+      "roles": [
+        "mp"
+      ],
+      "file": "Kyle Seeback.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Kyle_Seeback.jpg",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Connor Mah",
+      "attribution": "Connor Mah, CC BY-SA 2.0, via Wikimedia Commons",
+      "sha1": "70ae9e9946562bacbd30fcc2027fa7dff343da5a",
+      "fetched": "2026-11-13"
+    },
+    "Q6755491": {
+      "name": "Marc Dalton",
+      "roles": [
+        "mp"
+      ],
+      "file": "2020 MPDalton Headshot 01.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:2020_MPDalton_Headshot_01.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Aveeno12",
+      "attribution": "Aveeno12, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "4b7878144960e13454d49c40d6674bc7086aa57d",
+      "fetched": "2026-11-13"
+    },
+    "Q6780723": {
+      "name": "Mary Simon",
+      "roles": [
+        "governor-general"
+      ],
+      "file": "Mary Simon, Governor General of Canada.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Mary_Simon,_Governor_General_of_Canada.jpg",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "New Zealand Government, Office of the Governor-General",
+      "attribution": "New Zealand Government, Office of the Governor-General, CC BY 4.0, via Wikimedia Commons",
+      "sha1": "27a0926b6797cafc255095f25c7a4f337b16c3fe",
+      "fetched": "2026-11-13"
+    },
+    "Q6788847": {
+      "name": "Matt Jeneroux",
+      "roles": [
+        "mp"
+      ],
+      "file": "Jeneroux Matt Cropped.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Jeneroux_Matt_Cropped.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "e8a2c612bb618733ed3d0ae75ed6d6715b281113",
+      "fetched": "2026-11-13"
+    },
+    "Q6829490": {
+      "name": "Michael Coteau",
+      "roles": [
+        "mp"
+      ],
+      "file": "Michael Coteau - 2017 CFC Annual BBQ Fundraiser (36996970172) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Michael_Coteau_-_2017_CFC_Annual_BBQ_Fundraiser_(36996970172)_(cropped).jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Canadian Film Centre from Toronto, Canada",
+      "attribution": "Canadian Film Centre from Toronto, Canada, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "328986ecc163f67313620e418094d800f49c7d08",
+      "fetched": "2026-11-13"
+    },
+    "Q7174026": {
+      "name": "Peter Fonseca",
+      "roles": [
+        "mp"
+      ],
+      "file": "Peter Fonseca 2022.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Peter_Fonseca_2022.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Mykola Swarnyk",
+      "attribution": "Mykola Swarnyk, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "560f42b7887075768a082bb10066d3558567a451",
+      "fetched": "2026-11-13"
+    },
+    "Q7292236": {
+      "name": "Randy Hoback",
+      "roles": [
+        "mp"
+      ],
+      "file": "MPRandyHoback.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:MPRandyHoback.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "c56a5b5a4c53273b81cb25e994b676c96a312276",
+      "fetched": "2026-11-13"
+    },
+    "Q7340436": {
+      "name": "Robert Oliphant",
+      "roles": [
+        "mp"
+      ],
+      "file": "Rob Oliphant January 2023 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Rob_Oliphant_January_2023_(cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "US Consulate Toronto",
+      "attribution": "US Consulate Toronto, Public domain, via Wikimedia Commons",
+      "sha1": "30a7b16c6acd5908a60d816ca149a408b186430a",
+      "fetched": "2026-11-13"
+    },
+    "Q7436891": {
+      "name": "Scott Moe",
+      "roles": [
+        "premier"
+      ],
+      "file": "Scott Moe at US EPA (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Scott_Moe_at_US_EPA_(cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Office of EPA Administrator",
+      "attribution": "Office of EPA Administrator, Public domain, via Wikimedia Commons",
+      "sha1": "ce290191c06e84423a1ea81dd7ff0f4793ee6b03",
+      "fetched": "2026-11-13"
+    },
+    "Q7704329": {
+      "name": "Terry Duguid",
+      "roles": [
+        "mp"
+      ],
+      "file": "TerryDuguid.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:TerryDuguid.JPG",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Georges Alexandar",
+      "attribution": "Georges Alexandar, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "44a3bb9d71ceb89b9104fe68446919e2fece42e1",
+      "fetched": "2026-11-13"
+    },
+    "Q7817128": {
+      "name": "Tom Osborne",
+      "roles": [
+        "mp"
+      ],
+      "file": "Tom Osborne at an event in the District of Waterford Valley - July 2017.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Tom_Osborne_at_an_event_in_the_District_of_Waterford_Valley_-_July_2017.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "JReynolds00",
+      "attribution": "JReynolds00, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "98e33818576e68701c0d866e82a3fe5cd39b4ac5",
+      "fetched": "2026-11-13"
+    },
+    "Q7958591": {
+      "name": "Wab Kinew",
+      "roles": [
+        "premier"
+      ],
+      "file": "Wab Kinew in Sept 2024 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Wab_Kinew_in_Sept_2024_(cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Office of Governor Tim Walz & Lt. Governor Peggy Flanagan",
+      "attribution": "Office of Governor Tim Walz & Lt. Governor Peggy Flanagan, Public domain, via Wikimedia Commons",
+      "sha1": "6fe58385a0641b5e72798428460d35bd0a9b07ac",
+      "fetched": "2026-11-13"
+    },
+    "Q7970499": {
+      "name": "Warren Steinley",
+      "roles": [
+        "mp"
+      ],
+      "file": "SteinleyMP.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:SteinleyMP.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "6a7a089e2aa5b98bde90df79e61431031be06ed2",
+      "fetched": "2026-11-13"
+    },
+    "Q8049806": {
+      "name": "Yasir Naqvi",
+      "roles": [
+        "mp"
+      ],
+      "file": "Yasir Naqvi - 2021 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Yasir_Naqvi_-_2021_(cropped).jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Cynthia Münster",
+      "attribution": "Cynthia Münster, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "ef89ee178d52aa140402e93a09bf5f010b643fed",
+      "fetched": "2026-11-13"
+    },
+    "Q14946726": {
+      "name": "John Williamson",
+      "roles": [
+        "mp"
+      ],
+      "file": "John Williamson MP.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:John_Williamson_MP.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "manningcentre",
+      "attribution": "manningcentre, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "59cc43e69bf6882d1a3b49409388649bdb719ee8",
+      "fetched": "2026-11-13"
+    },
+    "Q15054353": {
+      "name": "Mélanie Joly",
+      "roles": [
+        "mp"
+      ],
+      "file": "Mélanie Joly - UNGA 2023 (53203204441) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:M%C3%A9lanie_Joly_-_UNGA_2023_(53203204441)_(cropped).jpg",
+      "licence": "PDM-owner",
+      "licenceUrl": null,
+      "author": "Ministerie van Buitenlandse Zaken",
+      "attribution": "Ministerie van Buitenlandse Zaken, PDM-owner, via Wikimedia Commons",
+      "sha1": "3c116410bebdf7d9b4042172fb28214891930967",
+      "fetched": "2026-11-13"
+    },
+    "Q15280719": {
+      "name": "Tim Houston",
+      "roles": [
+        "premier"
+      ],
+      "file": "TimHouston.png",
+      "page": "https://commons.wikimedia.org/wiki/File:TimHouston.png",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "CharlesFAllison",
+      "attribution": "CharlesFAllison, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "37838c28d2fef7a21d3b05cb6b36cea0030178f7",
+      "fetched": "2026-11-13"
+    },
+    "Q15296602": {
+      "name": "Lena Metlege Diab",
+      "roles": [
+        "mp"
+      ],
+      "file": "Lena Diab, Minister Canadian for Immigration, Refugees and Citizenship, on the right, meets with Magnus Brunner in the Qatar Lounge (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Lena_Diab,_Minister_Canadian_for_Immigration,_Refugees_and_Citizenship,_on_the_right,_meets_with_Magnus_Brunner_in_the_Qatar_Lounge_(cropped).jpg",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "Bryan R. Smith",
+      "attribution": "© European Union, 2026, CC BY 4.0, via Wikimedia Commons",
+      "sha1": "23bbdaa4aff6eae8528d74a50edd3777942af9af",
+      "fetched": "2026-11-13"
+    },
+    "Q16187047": {
+      "name": "Kerry Diotte",
+      "roles": [
+        "mp"
+      ],
+      "file": "2013-05-16 Kerry Diotte.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:2013-05-16_Kerry_Diotte.jpg",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Dave Cournoyer",
+      "attribution": "Dave Cournoyer, CC BY-SA 2.0, via Wikimedia Commons",
+      "sha1": "4d87aa79e5f51973082951a625ab7568ef22c391",
+      "fetched": "2026-11-13"
+    },
+    "Q16194184": {
+      "name": "Richard Martel",
+      "roles": [
+        "mp"
+      ],
+      "file": "Richard Martel’s campaign office - 2018 (41609596932) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Richard_Martel%E2%80%99s_campaign_office_-_2018_(41609596932)_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "a8ef5d1fed09a919a6a2a8db50c6b9c95a299988",
+      "fetched": "2026-11-13"
+    },
+    "Q16211070": {
+      "name": "Ahmed Hussen",
+      "roles": [
+        "mp"
+      ],
+      "file": "Ahmed Hussen at the Toronto Caribbean Carnival - 2017 (36258275322).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Ahmed_Hussen_at_the_Toronto_Caribbean_Carnival_-_2017_(36258275322).jpg",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Bruce Reeve",
+      "attribution": "Bruce Reeve, CC BY-SA 2.0, via Wikimedia Commons",
+      "sha1": "36650e71fa4508a23bb5ab8919b03e229166dda2",
+      "fetched": "2026-11-13"
+    },
+    "Q16215273": {
+      "name": "Mark Gerretsen",
+      "roles": [
+        "mp"
+      ],
+      "file": "Mayor Mark Gerretsen at the Kingston Council on Aging 4 Life Expo (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Mayor_Mark_Gerretsen_at_the_Kingston_Council_on_Aging_4_Life_Expo_(cropped).jpg",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "HelpMovingON",
+      "attribution": "HelpMovingON, CC BY-SA 3.0, via Wikimedia Commons",
+      "sha1": "05765ed85adc4d2fb49f1c14d38d1210194a5c9f",
+      "fetched": "2026-11-13"
+    },
+    "Q17174697": {
+      "name": "Mario Beaulieu",
+      "roles": [
+        "mp"
+      ],
+      "file": "MarioBeaulieuBCInterimLeader2018.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:MarioBeaulieuBCInterimLeader2018.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Kek-9",
+      "attribution": "Kek-9, Public domain, via Wikimedia Commons",
+      "sha1": "b5bc570ae43dccce9851438e9a8b51cfc99ab6c4",
+      "fetched": "2026-11-13"
+    },
+    "Q17180515": {
+      "name": "Yvan Baker",
+      "roles": [
+        "mp"
+      ],
+      "file": "Yvan Baker 2017.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Yvan_Baker_2017.jpg",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Mykola Swarnyk",
+      "attribution": "Mykola Swarnyk, CC BY-SA 3.0, via Wikimedia Commons",
+      "sha1": "e129791b1a5f649e8329e4c2ac1e0cf2ee965cce",
+      "fetched": "2026-11-13"
+    },
+    "Q17180720": {
+      "name": "Marie-France Lalonde",
+      "roles": [
+        "mp"
+      ],
+      "file": "Marie-France Lalonde at 2016 AMO Conference (28416650454) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Marie-France_Lalonde_at_2016_AMO_Conference_(28416650454)_(cropped).jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "MMA | MHO",
+      "attribution": "MMA | MHO, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "422f560cdd7898a3146284de5b0af3191f41827c",
+      "fetched": "2026-11-13"
+    },
+    "Q17305669": {
+      "name": "John Barlow",
+      "roles": [
+        "mp"
+      ],
+      "file": "John Barlow in USA - 2018 (25896188228) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:John_Barlow_in_USA_-_2018_(25896188228)_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andre Forget - Andrew Scheer",
+      "attribution": "Andre Forget - Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "ae21c35f3bc04bc16072420021ff818601cc9a6b",
+      "fetched": "2026-11-13"
+    },
+    "Q17306091": {
+      "name": "Jamil Jivani",
+      "roles": [
+        "mp"
+      ],
+      "file": "Jamil Jivani - Rhonda Kirkland Conservative Campaign Launch March 23 2025 034 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Jamil_Jivani_-_Rhonda_Kirkland_Conservative_Campaign_Launch_March_23_2025_034_(cropped).jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Robert T Bell from Oshawa, Canada",
+      "attribution": "Robert T Bell from Oshawa, Canada, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "f4ee19ebcd96365510c5d211f83a741282af0b5f",
+      "fetched": "2026-11-13"
+    },
+    "Q17386312": {
+      "name": "James Maloney",
+      "roles": [
+        "mp"
+      ],
+      "file": "James Maloney Ukr Cons 2022.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:James_Maloney_Ukr_Cons_2022.jpg",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Mykola Swarnyk",
+      "attribution": "Mykola Swarnyk, CC BY-SA 3.0, via Wikimedia Commons",
+      "sha1": "ce4f471e512fae2d906e9500ca9a07e10d0b88bf",
+      "fetched": "2026-11-13"
+    },
+    "Q19561148": {
+      "name": "Rob Lantz",
+      "roles": [
+        "premier"
+      ],
+      "file": "RobLantz2015.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:RobLantz2015.jpg",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "PEI Home and School Federation",
+      "attribution": "PEI Home and School Federation, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "9490658b09fc391f8da473e370fc63aa2697d101",
+      "fetched": "2026-11-13"
+    },
+    "Q19876367": {
+      "name": "Michael Barrett",
+      "roles": [
+        "mp"
+      ],
+      "file": "Michael Barrett - 2018 (45482137854) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Michael_Barrett_-_2018_(45482137854)_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "9a4e5f46878c026378630bde0525c08b462026d2",
+      "fetched": "2026-11-13"
+    },
+    "Q19880392": {
+      "name": "Stephanie McLean",
+      "roles": [
+        "mp"
+      ],
+      "file": "Stephanie McLean in her campaign office, prior to being elected MLA for Calgary Varsity (17172988618) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Stephanie_McLean_in_her_campaign_office,_prior_to_being_elected_MLA_for_Calgary_Varsity_(17172988618)_(cropped).jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "JMacPherson from Calgary, Canada",
+      "attribution": "JMacPherson from Calgary, Canada, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "e640e7644514a7926f79421d0137b09e2334e2ba",
+      "fetched": "2026-11-13"
+    },
+    "Q20676568": {
+      "name": "Nate Erskine-Smith",
+      "roles": [
+        "mp"
+      ],
+      "file": "Nathaniel Erskine-Smith at the East York Canada Day Parade - 2018 (42256213615) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Nathaniel_Erskine-Smith_at_the_East_York_Canada_Day_Parade_-_2018_(42256213615)_(cropped).jpg",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Bruce Reeve",
+      "attribution": "Bruce Reeve, CC BY-SA 2.0, via Wikimedia Commons",
+      "sha1": "135928a2fe450aedef0ab80c8e68c29c82279a22",
+      "fetched": "2026-11-13"
+    },
+    "Q21156200": {
+      "name": "Ali Ehsassi",
+      "roles": [
+        "mp"
+      ],
+      "file": "Ali Ehsassi 20170523.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Ali_Ehsassi_20170523.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "總統府",
+      "attribution": "總統府, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "2a38f78207e607031aea1c69450ee569cfb1f62b",
+      "fetched": "2026-11-13"
+    },
+    "Q21158711": {
+      "name": "Pierre Paul-Hus",
+      "roles": [
+        "mp"
+      ],
+      "file": "Pierre Paul-Hus - fête nationale - 2017 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Pierre_Paul-Hus_-_f%C3%AAte_nationale_-_2017_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "627c6e9b1c362452549f12ccc7b84083fd4e11dc",
+      "fetched": "2026-11-13"
+    },
+    "Q21159815": {
+      "name": "François-Philippe Champagne",
+      "roles": [
+        "mp"
+      ],
+      "file": "François-Philippe Champagne - 2017 (32684778620) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois-Philippe_Champagne_-_2017_(32684778620)_(cropped).jpg",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Saeima",
+      "attribution": "Saeima, CC BY-SA 2.0, via Wikimedia Commons",
+      "sha1": "ea469644e47743ada2fa79c3d42ec98f234745d3",
+      "fetched": "2026-11-13"
+    },
+    "Q21159821": {
+      "name": "Joël Lightbound",
+      "roles": [
+        "mp"
+      ],
+      "file": "Joel Lightbound.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Joel_Lightbound.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "US Embassy Canada",
+      "attribution": "US Embassy Canada, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "7b62d666f8e54c494f312220ec33f81f6f6355dc",
+      "fetched": "2026-11-13"
+    },
+    "Q21160212": {
+      "name": "Gary Anandasangaree",
+      "roles": [
+        "mp"
+      ],
+      "file": "2025 Gary Anandasangaree - (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:2025_Gary_Anandasangaree_-_(cropped).jpg",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "UK Home Office",
+      "attribution": "UK Home Office, CC BY 4.0, via Wikimedia Commons",
+      "sha1": "83b5f60f6eeb9d58ac4ab0a54f9e6e764bf9221e",
+      "fetched": "2026-11-13"
+    },
+    "Q21177259": {
+      "name": "Gabriel Ste-Marie",
+      "roles": [
+        "mp"
+      ],
+      "file": "Gabriel Ste-Marie.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Gabriel_Ste-Marie.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Denis Trudeau, photographe",
+      "attribution": "Denis Trudeau, photographe, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "7fc12e7be53b200afbce04e4226a18fea3ccb134",
+      "fetched": "2026-11-13"
+    },
+    "Q21266477": {
+      "name": "Steven MacKinnon",
+      "roles": [
+        "mp"
+      ],
+      "file": "Steven MacKinnon 2025.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Steven_MacKinnon_2025.jpg",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "International Maritime Organization",
+      "attribution": "International Maritime Organization, CC BY 4.0, via Wikimedia Commons",
+      "sha1": "54305dadcd5f858fdf0f7c880d8051ba5a347ae6",
+      "fetched": "2026-11-13"
+    },
+    "Q21281905": {
+      "name": "Greg Fergus",
+      "roles": [
+        "mp"
+      ],
+      "file": "Greg Fergus in Estonia on 6 March 2024 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Greg_Fergus_in_Estonia_on_6_March_2024_(cropped).jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Estonian Foreign Ministry",
+      "attribution": "Estonian Foreign Ministry, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "1896fdbdf591edb3cfcd02106cc4fb94b666a59d",
+      "fetched": "2026-11-13"
+    },
+    "Q21284594": {
+      "name": "Xavier Barsalou-Duval",
+      "roles": [
+        "mp"
+      ],
+      "file": "Xavier richelieu.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Xavier_richelieu.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Bobby212Charest",
+      "attribution": "Bobby212Charest, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "0d76c7ae7502d997c24c12b9ec87d7b1ff4f87b2",
+      "fetched": "2026-11-13"
+    },
+    "Q21402871": {
+      "name": "Bardish Chagger",
+      "roles": [
+        "mp"
+      ],
+      "file": "Bardish Chagger - 2015.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bardish_Chagger_-_2015.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Laurel L. Russwurm",
+      "attribution": "Laurel L. Russwurm, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "6e391319985c2295a1c5904ae1b58e86137a239c",
+      "fetched": "2026-11-13"
+    },
+    "Q21572925": {
+      "name": "Julie Dabrusin",
+      "roles": [
+        "mp"
+      ],
+      "file": "Julie Dabrusin - 2018 CFC Annual Gala & Auction (39592363104) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Julie_Dabrusin_-_2018_CFC_Annual_Gala_%26_Auction_(39592363104)_(cropped).jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Canadian Film Centre from Toronto, Canada",
+      "attribution": "Canadian Film Centre from Toronto, Canada, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "6c219b8b4512a8dc40b5889c3555d28b8e3dbfc6",
+      "fetched": "2026-11-13"
+    },
+    "Q21573510": {
+      "name": "Patty Hajdu",
+      "roles": [
+        "mp"
+      ],
+      "file": "Patty Hajdu, 2016 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Patty_Hajdu,_2016_(cropped).jpg",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Robert Thivierge",
+      "attribution": "Robert Thivierge, CC BY-SA 3.0, via Wikimedia Commons",
+      "sha1": "3d23d5c35e28f0e2f4b6b148bd28bd02900566df",
+      "fetched": "2026-11-13"
+    },
+    "Q21642395": {
+      "name": "Michael Cooper",
+      "roles": [
+        "mp"
+      ],
+      "file": "Michael Cooper, Member of Parliament (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Michael_Cooper,_Member_of_Parliament_(cropped).jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Mmagrak",
+      "attribution": "Mmagrak, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "23359f2dc8d0e39b9c6ba94b207e460b13f05932",
+      "fetched": "2026-11-13"
+    },
+    "Q21642488": {
+      "name": "Peter Fragiskatos",
+      "roles": [
+        "mp"
+      ],
+      "file": "Peter f 3385p-2.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Peter_f_3385p-2.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Rg8617",
+      "attribution": "Rg8617, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "df2404591a11c5421ee8406cedc8be5294c8663d",
+      "fetched": "2026-11-13"
+    },
+    "Q21642492": {
+      "name": "Sean Fraser",
+      "roles": [
+        "mp"
+      ],
+      "file": "Sean Fraser - Collision 2023 - Centre Stage VR3 8228 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Sean_Fraser_-_Collision_2023_-_Centre_Stage_VR3_8228_(cropped).jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Vaughn Ridley / Collision via Sportsfile",
+      "attribution": "Vaughn Ridley / Collision via Sportsfile, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "abb409852e909d63e90c789d1cf8997f982e8f1e",
+      "fetched": "2026-11-13"
+    },
+    "Q21642507": {
+      "name": "Garnett Genuis",
+      "roles": [
+        "mp"
+      ],
+      "file": "Garnett Genuis.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Garnett_Genuis.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "16bc8c05389fa23cd21768b874b954e504de3a53",
+      "fetched": "2026-11-13"
+    },
+    "Q21642653": {
+      "name": "Iqra Khalid",
+      "roles": [
+        "mp"
+      ],
+      "file": "Iqra Khalid MP.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Iqra_Khalid_MP.jpg",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "KAIROS Canada",
+      "attribution": "KAIROS Canada, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "f95b394338e11b41e96d37d8e1191d12e1872a47",
+      "fetched": "2026-11-13"
+    },
+    "Q21642848": {
+      "name": "John Nater",
+      "roles": [
+        "mp"
+      ],
+      "file": "John Nater MP.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:John_Nater_MP.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "d7bd457894f5994d8cbba1b2e64e63b18a9201b4",
+      "fetched": "2026-11-13"
+    },
+    "Q21714336": {
+      "name": "Ginette Petitpas Taylor",
+      "roles": [
+        "mp"
+      ],
+      "file": "Canadian Cabinet Minister Ginette Petitpas Taylor.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Canadian_Cabinet_Minister_Ginette_Petitpas_Taylor.jpg",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "AllianceON",
+      "attribution": "AllianceON, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "0bf3b571b4d95a1345bb45a92d4edbed1f364f13",
+      "fetched": "2026-11-13"
+    },
+    "Q21714343": {
+      "name": "Wayne Long",
+      "roles": [
+        "mp"
+      ],
+      "file": "Wayne long speaking at his 2019 re-election kick-off luncheon.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Wayne_long_speaking_at_his_2019_re-election_kick-off_luncheon.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "John Bessa",
+      "attribution": "John Bessa, CC0, via Wikimedia Commons",
+      "sha1": "e5d27e04134413c512b13d1cc34a2bf7a6d774a2",
+      "fetched": "2026-11-13"
+    },
+    "Q21716242": {
+      "name": "Terry Beech",
+      "roles": [
+        "mp"
+      ],
+      "file": "Terry Beech - 2014.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Terry_Beech_-_2014.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Simon Fraser University",
+      "attribution": "Simon Fraser University, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "b111424a8eb2528d14d9d64a329e41b373e6cc29",
+      "fetched": "2026-11-13"
+    },
+    "Q21716260": {
+      "name": "Karina Gould",
+      "roles": [
+        "mp"
+      ],
+      "file": "Karina Gould, LPC MPP for Burlington, Minister Of Democratic Institutions.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Karina_Gould,_LPC_MPP_for_Burlington,_Minister_Of_Democratic_Institutions.jpg",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "Laurelrusswurm",
+      "attribution": "Laurelrusswurm, CC BY 4.0, via Wikimedia Commons",
+      "sha1": "ad0bfb320877254ce8262b347862d90bed406ac9",
+      "fetched": "2026-11-13"
+    },
+    "Q21716310": {
+      "name": "Jonathan Wilkinson",
+      "roles": [
+        "mp"
+      ],
+      "file": "Jonathan Wilkinson 2023 (cropped).png",
+      "page": "https://commons.wikimedia.org/wiki/File:Jonathan_Wilkinson_2023_(cropped).png",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "U.S. Embassy and Consulates in Canada",
+      "attribution": "U.S. Embassy and Consulates in Canada, Public domain, via Wikimedia Commons",
+      "sha1": "2431a17e9b3fb4ee96c950551f40623676e87e08",
+      "fetched": "2026-11-13"
+    },
+    "Q21872800": {
+      "name": "Arnold Viersen",
+      "roles": [
+        "mp"
+      ],
+      "file": "Arnold.Viersen.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Arnold.Viersen.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Scaredmonkey54",
+      "attribution": "Scaredmonkey54, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "fb38dac14d93d84ab3aeeb6c3e3f1df786027aa3",
+      "fetched": "2026-11-13"
+    },
+    "Q21891834": {
+      "name": "Luc Berthold",
+      "roles": [
+        "mp"
+      ],
+      "file": "Luc Berthold 2019.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Luc_Berthold_2019.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "be8c948f1e92e16971fb4c9fae75cd7c71f0c5aa",
+      "fetched": "2026-11-13"
+    },
+    "Q22003182": {
+      "name": "Mel Arnold",
+      "roles": [
+        "mp"
+      ],
+      "file": "Mel Arnold - 2018 (40564630864) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Mel_Arnold_-_2018_(40564630864)_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "d60893816b71a7c825252b892b3c4bdf3ec89619",
+      "fetched": "2026-11-13"
+    },
+    "Q22003456": {
+      "name": "John Brassard",
+      "roles": [
+        "mp"
+      ],
+      "file": "John Brassard - 2019 (47899551081) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:John_Brassard_-_2019_(47899551081)_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andre Forget - Andrew Scheer",
+      "attribution": "Andre Forget - Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "83c41d258aa5bb67fc54105220436e7e0fa57414",
+      "fetched": "2026-11-13"
+    },
+    "Q22004241": {
+      "name": "Doug Eyolfson",
+      "roles": [
+        "mp"
+      ],
+      "file": "Dr. Doug Eyolfson.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Dr._Doug_Eyolfson.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "2017 Canada Summer Games",
+      "attribution": "2017 Canada Summer Games, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "898dd774a4f825eb61fbd9ca6bb07fb7dd017fdc",
+      "fetched": "2026-11-13"
+    },
+    "Q22004363": {
+      "name": "Darren Fisher",
+      "roles": [
+        "mp"
+      ],
+      "file": "Darren Fisher.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Darren_Fisher.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Darren Fisher",
+      "attribution": "Darren Fisher, CC0, via Wikimedia Commons",
+      "sha1": "fa4d82dfa71fa85abc3aa12e52324314f4148e00",
+      "fetched": "2026-11-13"
+    },
+    "Q22080847": {
+      "name": "Angelo Iacono",
+      "roles": [
+        "mp"
+      ],
+      "file": "Angelo Iacono - OSCE - Minsk - 2017.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Angelo_Iacono_-_OSCE_-_Minsk_-_2017.jpg",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "OSCE Parliamentary Assembly",
+      "attribution": "OSCE Parliamentary Assembly, CC BY-SA 2.0, via Wikimedia Commons",
+      "sha1": "712f782b8a931ac1fd5a4f33a7c0bead101860c9",
+      "fetched": "2026-11-13"
+    },
+    "Q22086204": {
+      "name": "Julie Dzerowicz",
+      "roles": [
+        "mp"
+      ],
+      "file": "Julie Dzerowicz.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Julie_Dzerowicz.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Alex Guilbourd",
+      "attribution": "Alex Guilbourd, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "d3bdfe0a42f9e19fe92e5efa2e81984cfc57ac19",
+      "fetched": "2026-11-13"
+    },
+    "Q22096924": {
+      "name": "Ruby Sahota",
+      "roles": [
+        "mp"
+      ],
+      "file": "Ruby Sahota 2021.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Ruby_Sahota_2021.png",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "TAG TV",
+      "attribution": "TAG TV, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "d7793100ed4a7c4f2001602494fd76e22a73d04c",
+      "fetched": "2026-11-13"
+    },
+    "Q22114010": {
+      "name": "Shannon Stubbs",
+      "roles": [
+        "mp"
+      ],
+      "file": "StubbsShannonMP.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:StubbsShannonMP.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "bd98b985c005bc1cbd31be1ad0db178020f7d666",
+      "fetched": "2026-11-13"
+    },
+    "Q22116843": {
+      "name": "Cathay Wagantall",
+      "roles": [
+        "mp"
+      ],
+      "file": "MPWagantall.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:MPWagantall.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "0a82855422003e3587d9b29aee9e30bde19d524d",
+      "fetched": "2026-11-13"
+    },
+    "Q22121196": {
+      "name": "Peter Schiefke",
+      "roles": [
+        "mp"
+      ],
+      "file": "Peter schiefke.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Peter_schiefke.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "BeaverCB18",
+      "attribution": "BeaverCB18, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "0a485f6750cf004da72fb2458bf94ed88e8d5834",
+      "fetched": "2026-11-13"
+    },
+    "Q22277334": {
+      "name": "Shaun Chen",
+      "roles": [
+        "mp"
+      ],
+      "file": "Shaun Chen 2023.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Shaun_Chen_2023.jpg",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "中国新闻社",
+      "attribution": "中国新闻网, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "8fcfb8c8d51c801934be714d5a450295c23f284d",
+      "fetched": "2026-11-13"
+    },
+    "Q22277600": {
+      "name": "Todd Doherty",
+      "roles": [
+        "mp"
+      ],
+      "file": "MPDoherty.png",
+      "page": "https://commons.wikimedia.org/wiki/File:MPDoherty.png",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "5c2e49a958c3d68fdbcab15a76d87d5f1e55dace",
+      "fetched": "2026-11-13"
+    },
+    "Q22277949": {
+      "name": "Marilyn Gladu",
+      "roles": [
+        "mp"
+      ],
+      "file": "Marilyn Gladu.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Marilyn_Gladu.png",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "9fb1f40d53860f2c9ca11483cead9e1959a73bac",
+      "fetched": "2026-11-13"
+    },
+    "Q22277957": {
+      "name": "Joël Godin",
+      "roles": [
+        "mp"
+      ],
+      "file": "Joël Godin - 2017 (37389373365) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Jo%C3%ABl_Godin_-_2017_(37389373365)_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "fe238397fc3bfa7800fc53f8be62cefa80b88045",
+      "fetched": "2026-11-13"
+    },
+    "Q22278125": {
+      "name": "Rachael Thomas",
+      "roles": [
+        "mp"
+      ],
+      "file": "Rachael Harder 2021-16.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Rachael_Harder_2021-16.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Rachael Thomas",
+      "attribution": "Rachael Thomas, CC0, via Wikimedia Commons",
+      "sha1": "eab395224b62486f671f436b76b78c1f595ff220",
+      "fetched": "2026-11-13"
+    },
+    "Q22278424": {
+      "name": "Gord Johns",
+      "roles": [
+        "mp"
+      ],
+      "file": "Gord Johns at convention 2023.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Gord_Johns_at_convention_2023.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "DrOwl19",
+      "attribution": "DrOwl19, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "4e5d87cb8c58c430d1f153be773f44de6ce62c92",
+      "fetched": "2026-11-13"
+    },
+    "Q22278561": {
+      "name": "Pat Kelly",
+      "roles": [
+        "mp"
+      ],
+      "file": "Pat Kelly.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Pat_Kelly.png",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "OwenTGillis",
+      "attribution": "OwenTGillis, CC BY 4.0, via Wikimedia Commons",
+      "sha1": "4938021008ceeffbf8c6acbef697e9817b61fcfc",
+      "fetched": "2026-11-13"
+    },
+    "Q22278649": {
+      "name": "Tom Kmiec",
+      "roles": [
+        "mp"
+      ],
+      "file": "Tom Kmiec (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Tom_Kmiec_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "b2e11fcd9edb2a9bf39bda715c040fa112d4862f",
+      "fetched": "2026-11-13"
+    },
+    "Q22279214": {
+      "name": "Marc Miller",
+      "roles": [
+        "mp"
+      ],
+      "file": "Marc Miller at Woman Life Freedom Protest 2023 002 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Marc_Miller_at_Woman_Life_Freedom_Protest_2023_002_(cropped).jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Taymaz Valley",
+      "attribution": "Taymaz Valley, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "cabc521fbb5a46cd8bd8a4d990aafaabc36945b2",
+      "fetched": "2026-11-13"
+    },
+    "Q22280309": {
+      "name": "Randeep Sarai",
+      "roles": [
+        "mp"
+      ],
+      "file": "Randeep Sarai - 2025 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Randeep_Sarai_-_2025_(cropped).jpg",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "Eric Norman Sales / Asian Development Bank",
+      "attribution": "Eric Norman Sales / Asian Development Bank, CC BY 4.0, via Wikimedia Commons",
+      "sha1": "a236a6ff8515813e6c86b632250aecfea3c60fec",
+      "fetched": "2026-11-13"
+    },
+    "Q22280358": {
+      "name": "Jamie Schmale",
+      "roles": [
+        "mp"
+      ],
+      "file": "MPSchmale.png",
+      "page": "https://commons.wikimedia.org/wiki/File:MPSchmale.png",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "afc8e8acefa5e69b1d77852c6d5d9297d740ba06",
+      "fetched": "2026-11-13"
+    },
+    "Q22282329": {
+      "name": "Anita Vandenbeld",
+      "roles": [
+        "mp"
+      ],
+      "file": "Anita Vandenbeld (52525396114).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Anita_Vandenbeld_(52525396114).jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Taymaz Valley from Ottawa, Canada",
+      "attribution": "Taymaz Valley from Ottawa, Canada, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "2cba20a4890215b9eac67b8f28cad94f2f5835ab",
+      "fetched": "2026-11-13"
+    },
+    "Q22282385": {
+      "name": "Salma Zahid",
+      "roles": [
+        "mp"
+      ],
+      "file": "Zahid headshot.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Zahid_headshot.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "MississaugaBoy",
+      "attribution": "MississaugaBoy, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "784ce2a7171ae8d185b5d8e2edd8f3c6ea11d627",
+      "fetched": "2026-11-13"
+    },
+    "Q22770988": {
+      "name": "Sonia Sidhu",
+      "roles": [
+        "mp"
+      ],
+      "file": "Sonia Sidhu - Member of Parliament for Brampton South, Canada.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Sonia_Sidhu_-_Member_of_Parliament_for_Brampton_South,_Canada.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Nabin K. Sapkota",
+      "attribution": "Nabin K. Sapkota, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "30621be4e2ccb15539b11b411fdabf7ccffa13ef",
+      "fetched": "2026-11-13"
+    },
+    "Q22770989": {
+      "name": "Kevin Waugh",
+      "roles": [
+        "mp"
+      ],
+      "file": "MPWaugh.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:MPWaugh.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "22710406868dd9d64b153307b12b90031ccacd6a",
+      "fetched": "2026-11-13"
+    },
+    "Q23761322": {
+      "name": "R. J. Simpson",
+      "roles": [
+        "premier"
+      ],
+      "file": "R.J. Simpson.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:R.J._Simpson.jpg",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Cross Border Network",
+      "attribution": "Cross Border Network, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "fd85cb984fa3edcb7c47258518285f133341523d",
+      "fetched": "2026-11-13"
+    },
+    "Q27663754": {
+      "name": "Glen Motz",
+      "roles": [
+        "mp"
+      ],
+      "file": "MPGlenMotz.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:MPGlenMotz.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "dc5e2e9664a96a9c7c537e3730533df7619213bd",
+      "fetched": "2026-11-13"
+    },
+    "Q27734072": {
+      "name": "Malcolm Rowe",
+      "roles": [
+        "supreme-court"
+      ],
+      "file": "Malcolm Rowe 2025 (1) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Malcolm_Rowe_2025_(1)_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Caddyshack01",
+      "attribution": "Caddyshack01, CC0, via Wikimedia Commons",
+      "sha1": "833545f6f298de7250293dfdb096cb5282197df6",
+      "fetched": "2026-11-13"
+    },
+    "Q27967841": {
+      "name": "Eric Lefebvre",
+      "roles": [
+        "mp"
+      ],
+      "file": "Eric Lefebvre 23 avril 2024.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Eric_Lefebvre_23_avril_2024.png",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "TVA Nouvelles",
+      "attribution": "TVA Nouvelles, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "35efa59c9133272bedcda653892bf45c079cc178",
+      "fetched": "2026-11-13"
+    },
+    "Q29139551": {
+      "name": "Stephanie Kusie",
+      "roles": [
+        "mp"
+      ],
+      "file": "StephanieKusie2.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:StephanieKusie2.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "d3125afb02351c0f59807d6fe710deb6b4d5b383",
+      "fetched": "2026-11-13"
+    },
+    "Q29139554": {
+      "name": "Emmanuella Lambropoulos",
+      "roles": [
+        "mp"
+      ],
+      "file": "Emmanuella Lambropoulos au Le Challenger (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Emmanuella_Lambropoulos_au_Le_Challenger_(cropped).jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Bull-Doser",
+      "attribution": "Bull-Doser, Public domain, via Wikimedia Commons",
+      "sha1": "81fa55e68227766d1056fc4634f75ab3708cb523",
+      "fetched": "2026-11-13"
+    },
+    "Q29913577": {
+      "name": "Ellis Ross",
+      "roles": [
+        "mp"
+      ],
+      "file": "Ellis Ross in Vancouver in March 2021.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Ellis_Ross_in_Vancouver_in_March_2021.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "TimBray",
+      "attribution": "TimBray, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "abaf107c615d43441e252600ba46ca9f490f5990",
+      "fetched": "2026-11-13"
+    },
+    "Q30302772": {
+      "name": "Simon-Pierre Savard-Tremblay",
+      "roles": [
+        "mp"
+      ],
+      "file": "Simon-Pierre Savard-Tremblay 2015.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Simon-Pierre_Savard-Tremblay_2015.jpg",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Jasmin Roy-Rouleau",
+      "attribution": "Jasmin Roy-Rouleau, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "afa3930a396f0158ed7044fdb334a3fb623a0a88",
+      "fetched": "2026-11-13"
+    },
+    "Q42666524": {
+      "name": "Rosemarie Falk",
+      "roles": [
+        "mp"
+      ],
+      "file": "Rosemarie Falk in the House of Commons - 2018 (26120505928) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Rosemarie_Falk_in_the_House_of_Commons_-_2018_(26120505928)_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andre Forget - Andrew Scheer",
+      "attribution": "Andre Forget - Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "4ae43195f2e135e26cfc99f95e183ecbe93e3313",
+      "fetched": "2026-11-13"
+    },
+    "Q43380305": {
+      "name": "John Main",
+      "roles": [
+        "premier"
+      ],
+      "file": "Premier John Main at the 2026 Summer Meeting of Canada's Premiers.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Premier_John_Main_at_the_2026_Summer_Meeting_of_Canada%27s_Premiers.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Canada's Premiers",
+      "attribution": "Canada's Premiers, Public domain, via Wikimedia Commons",
+      "sha1": "84741d4832299cfe85853820047363d0eae57843",
+      "fetched": "2026-11-13"
+    },
+    "Q44080964": {
+      "name": "Sheilah Martin",
+      "roles": [
+        "supreme-court"
+      ],
+      "file": "SMARTIN.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:SMARTIN.jpg",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Benjamin Locke",
+      "attribution": "Benjamin Locke, CC BY-SA 2.0, via Wikimedia Commons",
+      "sha1": "f950a7dca38f586101a55fafe045d0ee30867a49",
+      "fetched": "2026-11-13"
+    },
+    "Q54862573": {
+      "name": "Doly Begum",
+      "roles": [
+        "mp"
+      ],
+      "file": "Doly Begum MS 2023.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Doly_Begum_MS_2023.jpg",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "OntarioLegislature",
+      "attribution": "OntarioLegislature, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "7d9acafbe21f005f841df1f3847e2d0961575f14",
+      "fetched": "2026-11-13"
+    },
+    "Q55081065": {
+      "name": "Roman Baber",
+      "roles": [
+        "mp"
+      ],
+      "file": "Roman Baber mic pic (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Roman_Baber_mic_pic_(cropped).jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Aaronposner",
+      "attribution": "Aaronposner, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "efa926e392909a302f04efd12c1ff0ae7fb0e986",
+      "fetched": "2026-11-13"
+    },
+    "Q57915838": {
+      "name": "Jennifer McKelvie",
+      "roles": [
+        "mp"
+      ],
+      "file": "Jennifer McKelvie - Collision 2023 - Centre Stage VR3 8170 (53005287167) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Jennifer_McKelvie_-_Collision_2023_-_Centre_Stage_VR3_8170_(53005287167)_(cropped).jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Vaughn Ridley / Collision via Sportsfile",
+      "attribution": "Vaughn Ridley / Collision via Sportsfile, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "e35fb925192cadb8be1c921a0fbdd4ca575875d6",
+      "fetched": "2026-11-13"
+    },
+    "Q59240247": {
+      "name": "Jenna Sudds",
+      "roles": [
+        "mp"
+      ],
+      "file": "Jenna Sudds.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Jenna_Sudds.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Munschi",
+      "attribution": "Munschi, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "0a90c4076997904c79fa97ace949f4313465f698",
+      "fetched": "2026-11-13"
+    },
+    "Q61881929": {
+      "name": "Scot Davidson",
+      "roles": [
+        "mp"
+      ],
+      "file": "ScotDavidson.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:ScotDavidson.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "fb602b7e8680d82b03b02e2fef1b46b1fe449f8c",
+      "fetched": "2026-11-13"
+    },
+    "Q61881930": {
+      "name": "Rachel Bendayan",
+      "roles": [
+        "mp"
+      ],
+      "file": "Rachel Bendayan (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Rachel_Bendayan_(cropped).jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Mff34",
+      "attribution": "Mff34, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "c7101172656bda3b146fba96a0fe74f241f4137b",
+      "fetched": "2026-11-13"
+    },
+    "Q62608301": {
+      "name": "Zoe Royer",
+      "roles": [
+        "mp"
+      ],
+      "file": "Zoe Royer in the video 'Tri-Cities Environmental Groups Hold All Candidates Forum in Coquitlam'.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Zoe_Royer_in_the_video_%27Tri-Cities_Environmental_Groups_Hold_All_Candidates_Forum_in_Coquitlam%27.png",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "tricitiestv",
+      "attribution": "tricitiestv, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "42176653ee3cb6d4b9db1dcc049e93a6b67804fa",
+      "fetched": "2026-11-13"
+    },
+    "Q64010272": {
+      "name": "Tony Wakeham",
+      "roles": [
+        "premier"
+      ],
+      "file": "Tony Wakeham 2022.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Tony_Wakeham_2022.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Dougj765",
+      "attribution": "Dougj765, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "e06adffa714ae024a05b718715ef98a8f8fe2d4f",
+      "fetched": "2026-11-13"
+    },
+    "Q64214518": {
+      "name": "Helena Konanz",
+      "roles": [
+        "mp"
+      ],
+      "file": "Helena Konanz in Penticton (48188151487) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Helena_Konanz_in_Penticton_(48188151487)_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "cbaa0e2574865b8ac9355d490f3faee2154c3339",
+      "fetched": "2026-11-13"
+    },
+    "Q67442310": {
+      "name": "Anita Anand",
+      "roles": [
+        "mp"
+      ],
+      "file": "Anita Anand, December 2025 (P-068488 00-05) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Anita_Anand,_December_2025_(P-068488_00-05)_(cropped).jpg",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "Jennifer Jacquemart / European Commission",
+      "attribution": "© European Union, 2026, CC BY 4.0, via Wikimedia Commons",
+      "sha1": "fd401898bea771d040ce3bbd846488e0961353ca",
+      "fetched": "2026-11-13"
+    },
+    "Q71894607": {
+      "name": "Richard Bragdon",
+      "roles": [
+        "mp"
+      ],
+      "file": "Richard Bragdon 1.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Richard_Bragdon_1.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "31934728990e31e73acd50a745217376df821efd",
+      "fetched": "2026-11-13"
+    },
+    "Q71912401": {
+      "name": "Scott Aitchison",
+      "roles": [
+        "mp"
+      ],
+      "file": "Scott Aitchison Headshot (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Scott_Aitchison_Headshot_(cropped).jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Scott Aitchison Campaign",
+      "attribution": "Scott Aitchison Campaign, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "a3e8646a1bca036c5c6c9bd3b67727c38e7f3ce0",
+      "fetched": "2026-11-13"
+    },
+    "Q71920855": {
+      "name": "Heather McPherson",
+      "roles": [
+        "mp"
+      ],
+      "file": "Heather McPherson at convention 2023.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Heather_McPherson_at_convention_2023.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "DrOwl19",
+      "attribution": "DrOwl19, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "60dea91be8d9746d12507cbe9a6ab289f2dd5d45",
+      "fetched": "2026-11-13"
+    },
+    "Q71920912": {
+      "name": "Damien Kurek",
+      "roles": [
+        "mp"
+      ],
+      "file": "Damien Kurek.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Damien_Kurek.png",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "OwenTGillis",
+      "attribution": "OwenTGillis, CC BY 4.0, via Wikimedia Commons",
+      "sha1": "f91833f7bb46c694bb2fd6d6c24f8c6cd28ead93",
+      "fetched": "2026-11-13"
+    },
+    "Q71920931": {
+      "name": "Greg McLean",
+      "roles": [
+        "mp"
+      ],
+      "file": "Greg McLean (52520622512) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Greg_McLean_(52520622512)_(cropped).jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Taymaz Valley from Ottawa, Canada",
+      "attribution": "Taymaz Valley from Ottawa, Canada, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "6b895fde10b98f81af5e9555e7acea5b5038a2c0",
+      "fetched": "2026-11-13"
+    },
+    "Q71921024": {
+      "name": "Jasraj Hallan",
+      "roles": [
+        "mp"
+      ],
+      "file": "JasrajSinghHallan.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:JasrajSinghHallan.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "2d6f36c3374cb0a81088e783c59645065609bcd6",
+      "fetched": "2026-11-13"
+    },
+    "Q71929797": {
+      "name": "Marcus Powlowski",
+      "roles": [
+        "mp"
+      ],
+      "file": "Marcus Powlowski.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Marcus_Powlowski.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Macker8",
+      "attribution": "Macker8, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "f7198c257e7a2b5377eb7baa1e47bc49426fb5b2",
+      "fetched": "2026-11-13"
+    },
+    "Q71936991": {
+      "name": "Raquel Dancho",
+      "roles": [
+        "mp"
+      ],
+      "file": "Raquel Dancho 1.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Raquel_Dancho_1.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "51e58f08a7fbef6d472eec0cce1fc292857bcc01",
+      "fetched": "2026-11-13"
+    },
+    "Q71937024": {
+      "name": "Leah Gazan",
+      "roles": [
+        "mp"
+      ],
+      "file": "NDP MP Leah Gazan.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:NDP_MP_Leah_Gazan.jpg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "https://www.flickr.com/photos/us_mission_canada/",
+      "attribution": "https://www.flickr.com/photos/us_mission_canada/, Public domain, via Wikimedia Commons",
+      "sha1": "25b0564959029eb94f5fd0086a51b6047447ca2a",
+      "fetched": "2026-11-13"
+    },
+    "Q71937041": {
+      "name": "Eric Melillo",
+      "roles": [
+        "mp"
+      ],
+      "file": "Mellilo, Eric portrait.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Mellilo,_Eric_portrait.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andre Forget",
+      "attribution": "Andre Forget, CC0, via Wikimedia Commons",
+      "sha1": "0683f440c61523b2c6d3ef62f8956f82ce5153e8",
+      "fetched": "2026-11-13"
+    },
+    "Q71937055": {
+      "name": "Eric Duncan",
+      "roles": [
+        "mp"
+      ],
+      "file": "Eric Duncan (52510773399) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Eric_Duncan_(52510773399)_(cropped).jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Taymaz Valley from Ottawa, Canada",
+      "attribution": "Taymaz Valley from Ottawa, Canada, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "684afebad9469761a298206aa0ba27b9561942af",
+      "fetched": "2026-11-13"
+    },
+    "Q71942375": {
+      "name": "Tamara Jansen",
+      "roles": [
+        "mp"
+      ],
+      "file": "Tamara Jansen cropped.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Tamara_Jansen_cropped.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Deathying",
+      "attribution": "Deathying, CC0, via Wikimedia Commons",
+      "sha1": "5a21eed52c8b60db449579f5ec07a99a2b50f174",
+      "fetched": "2026-11-13"
+    },
+    "Q71942473": {
+      "name": "Maninder Sidhu",
+      "roles": [
+        "mp"
+      ],
+      "file": "2025-08-27 Reunião entre Tarcísio de Freitas e Maninder Sidhu, 011 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:2025-08-27_Reuni%C3%A3o_entre_Tarc%C3%ADsio_de_Freitas_e_Maninder_Sidhu,_011_(cropped).jpg",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "Governo do Estado de São Paulo",
+      "attribution": "Governo do Estado de São Paulo, CC BY 4.0, via Wikimedia Commons",
+      "sha1": "f2a2222056f58a0a4c0f42481a060b56bb360a7b",
+      "fetched": "2026-11-13"
+    },
+    "Q72177965": {
+      "name": "Sébastien Lemire",
+      "roles": [
+        "mp"
+      ],
+      "file": "Sébastien Lemire 2020.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9bastien_Lemire_2020.jpg",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Défi Témiscabitibi aka Gaymeboy_guy",
+      "attribution": "Défi Témiscabitibi aka Gaymeboy_guy, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "97a76a255ef61237bca81f37e4d8edbbc2ceddc8",
+      "fetched": "2026-11-13"
+    },
+    "Q72219274": {
+      "name": "Christine Normandin",
+      "roles": [
+        "mp"
+      ],
+      "file": "Christine Normandin 1.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Christine_Normandin_1.jpg",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "TVA Nouvelles",
+      "attribution": "TVA Nouvelles, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "886cc5012fd3cd7e70a75b9bcf2a1c058d36b5e5",
+      "fetched": "2026-11-13"
+    },
+    "Q72219417": {
+      "name": "Maxime Blanchette-Joncas",
+      "roles": [
+        "mp"
+      ],
+      "file": "Maxime Blanchette-Joncas.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Maxime_Blanchette-Joncas.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Sophie Barma",
+      "attribution": "Sophie Barma, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "c7bbf1903c8b71a27d2563ebb62e66a33e59907c",
+      "fetched": "2026-11-13"
+    },
+    "Q72219423": {
+      "name": "Michael Kram",
+      "roles": [
+        "mp"
+      ],
+      "file": "Michael Kram - 2019 (49064433513) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Michael_Kram_-_2019_(49064433513)_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "435cc2570b46f14c1cf3160032a3f68cae7d81a6",
+      "fetched": "2026-11-13"
+    },
+    "Q72219741": {
+      "name": "Yves Perron",
+      "roles": [
+        "mp"
+      ],
+      "file": "Yves Perron, assemblée d'investiture (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Yves_Perron,_assembl%C3%A9e_d%27investiture_(cropped).jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Fralambert",
+      "attribution": "Fralambert, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "3509cf2b5057c3d17636df4625cdab8068fb7aa0",
+      "fetched": "2026-11-13"
+    },
+    "Q73210893": {
+      "name": "Tim Louis",
+      "roles": [
+        "mp"
+      ],
+      "file": "Tim Louis.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Tim_Louis.jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Laurel L. Russwurm from Canada",
+      "attribution": "Laurel L. Russwurm from Canada, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "ab7d41a882e184318e2ff1a08e3586a59be1ee65",
+      "fetched": "2026-11-13"
+    },
+    "Q85793092": {
+      "name": "Philip Lawrence",
+      "roles": [
+        "mp"
+      ],
+      "file": "Philip Lawrence CPC.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Philip_Lawrence_CPC.jpg",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "YourTV Northumberland",
+      "attribution": "YourTV Northumberland, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "6c3e16a2067281f1f0066f924bb69c060dff115e",
+      "fetched": "2026-11-13"
+    },
+    "Q94691482": {
+      "name": "Leslyn Lewis",
+      "roles": [
+        "mp"
+      ],
+      "file": "LeslynLewis-HEADSHOT1-lg.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:LeslynLewis-HEADSHOT1-lg.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "John Balca",
+      "attribution": "John Balca, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "83da9ac25e3d0a389fc219811f5a39b5d190f03d",
+      "fetched": "2026-11-13"
+    },
+    "Q105490025": {
+      "name": "Tako Van Popta",
+      "roles": [
+        "mp"
+      ],
+      "file": "2021-04-27 DR24990 3 4.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:2021-04-27_DR24990_3_4.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Team TVP",
+      "attribution": "Team TVP, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "465ae6ca6ad2e92d9958bcebdefb5433ae5bc9f4",
+      "fetched": "2026-11-13"
+    },
+    "Q108619068": {
+      "name": "Melissa Lantsman",
+      "roles": [
+        "mp"
+      ],
+      "file": "MelissaLantsman2022.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:MelissaLantsman2022.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Canadiancon2020",
+      "attribution": "Canadiancon2020, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "d9ef76135df8e0079b131cf2dde2dd768499dbe6",
+      "fetched": "2026-11-13"
+    },
+    "Q108619069": {
+      "name": "Lori Idlout",
+      "roles": [
+        "mp"
+      ],
+      "file": "Lori Idlout and Jeff Avery at Kullik Elementary School 2022-04-12 4 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Lori_Idlout_and_Jeff_Avery_at_Kullik_Elementary_School_2022-04-12_4_(cropped).jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "CambridgeBayWeather",
+      "attribution": "CambridgeBayWeather, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "4f98a1c13fb48ada3e4775de489e9e8743e37df3",
+      "fetched": "2026-11-13"
+    },
+    "Q108628484": {
+      "name": "Arielle Kayabaga",
+      "roles": [
+        "mp"
+      ],
+      "file": "Arielle Kayabaga - 26 January 2019 01 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Arielle_Kayabaga_-_26_January_2019_01_(cropped).jpg",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Joey Coleman",
+      "attribution": "Joey Coleman, CC BY-SA 2.0, via Wikimedia Commons",
+      "sha1": "7d7a2292e13f6810da0335782c9acf693d0048c4",
+      "fetched": "2026-11-13"
+    },
+    "Q108635653": {
+      "name": "Larry Brock",
+      "roles": [
+        "mp"
+      ],
+      "file": "Larry Brock (2023).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Larry_Brock_(2023).jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "JFVoll",
+      "attribution": "JFVoll, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "d364f9b85c2c61a17f93e4ae3b78a86b4efaf108",
+      "fetched": "2026-11-13"
+    },
+    "Q108635682": {
+      "name": "Iqwinder Gaheer",
+      "roles": [
+        "mp"
+      ],
+      "file": "Iqwinder Gaheer - 2025.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Iqwinder_Gaheer_-_2025.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Jiffles3",
+      "attribution": "Jiffles3, CC0, via Wikimedia Commons",
+      "sha1": "55c412f23d2e5a3c1bf062786042e1c740e5641c",
+      "fetched": "2026-11-13"
+    },
+    "Q108635691": {
+      "name": "Sophie Chatel",
+      "roles": [
+        "mp"
+      ],
+      "file": "OECD Profile Pic.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:OECD_Profile_Pic.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Thomas Boogaart",
+      "attribution": "Thomas Boogaart, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "d1c935a21f1ec237204176be13c3b67bf816fd98",
+      "fetched": "2026-11-13"
+    },
+    "Q108650398": {
+      "name": "Frank Caputo",
+      "roles": [
+        "mp"
+      ],
+      "file": "Frank Caputo at Le Estcwicwey on 2022-05-23.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Frank_Caputo_at_Le_Estcwicwey_on_2022-05-23.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Jeffrey N. Murphy",
+      "attribution": "Jeffrey N. Murphy, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "f2f0a8bdd784740f9056694be290a0f9cf060391",
+      "fetched": "2026-11-13"
+    },
+    "Q108650405": {
+      "name": "Shelby Kramp-Neuman",
+      "roles": [
+        "mp"
+      ],
+      "file": "Shelby Kramp-Neuman in Taiwan in 2026.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Shelby_Kramp-Neuman_in_Taiwan_in_2026.jpg",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "Taiwan Presidential Office",
+      "attribution": "Taiwan Presidential Office, CC BY 4.0, via Wikimedia Commons",
+      "sha1": "27ff3493921052efd1660e0c8b627a850c9b3155",
+      "fetched": "2026-11-13"
+    },
+    "Q108655399": {
+      "name": "Rechie Valdez",
+      "roles": [
+        "mp"
+      ],
+      "file": "Rechie Valdez (261026).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Rechie_Valdez_(261026).jpg",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "Patrick Doyle",
+      "attribution": "© European Union, 2026, CC BY 4.0, via Wikimedia Commons",
+      "sha1": "50b68139a172ed9ecf352da813f9fc267aed12a9",
+      "fetched": "2026-11-13"
+    },
+    "Q108655435": {
+      "name": "Parm Bains",
+      "roles": [
+        "mp"
+      ],
+      "file": "Parm Bains 2025 Cropped.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Parm_Bains_2025_Cropped.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Ornithoptera",
+      "attribution": "Ornithoptera, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "49e723a1a1a155567d37ed646eac942c5acaf3f2",
+      "fetched": "2026-11-13"
+    },
+    "Q108659139": {
+      "name": "Lisa Hepfner",
+      "roles": [
+        "mp"
+      ],
+      "file": "Lisa Hepfner MP.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Lisa_Hepfner_MP.jpg",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Joey Coleman",
+      "attribution": "Joey Coleman, CC BY-SA 2.0, via Wikimedia Commons",
+      "sha1": "bfbf159fbc9b2d7da09f2c6c8a77348a6ca3db17",
+      "fetched": "2026-11-13"
+    },
+    "Q108659311": {
+      "name": "Jean-Denis Garon",
+      "roles": [
+        "mp"
+      ],
+      "file": "JeanDenisGaron2023.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:JeanDenisGaron2023.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "RémiTurgeon",
+      "attribution": "RémiTurgeon, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "f395515e04364f7fdc431f3e1ea51e96ef8c4a5a",
+      "fetched": "2026-11-13"
+    },
+    "Q108687439": {
+      "name": "Adam Chambers",
+      "roles": [
+        "mp"
+      ],
+      "file": "Adam Chambers in Taiwan in 2026.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Adam_Chambers_in_Taiwan_in_2026.jpg",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "Taiwan Presidential Office",
+      "attribution": "Taiwan Presidential Office, CC BY 4.0, via Wikimedia Commons",
+      "sha1": "ea0224e32378e964f1b8175f3c0ddd4dfb836b57",
+      "fetched": "2026-11-13"
+    },
+    "Q108687503": {
+      "name": "Joanne Thompson",
+      "roles": [
+        "mp"
+      ],
+      "file": "Joanne Thompson, Canadian Minister for Fisheries, in 2026.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Joanne_Thompson,_Canadian_Minister_for_Fisheries,_in_2026.jpg",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "Lukasz Kobus",
+      "attribution": "© European Union, 2026, CC BY 4.0, via Wikimedia Commons",
+      "sha1": "9c7b34e062ef05fc60dec987f4c81568f6847768",
+      "fetched": "2026-11-13"
+    },
+    "Q108687511": {
+      "name": "Clifford Small",
+      "roles": [
+        "mp"
+      ],
+      "file": "Clifford Small, MP.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Clifford_Small,_MP.jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "https://www.flickr.com/photos/192052143@N06/",
+      "attribution": "https://www.flickr.com/photos/192052143@N06/, CC0, via Wikimedia Commons",
+      "sha1": "c6b186d43a2637d7ce9cc43f977d8b9de664c58b",
+      "fetched": "2026-11-13"
+    },
+    "Q109315431": {
+      "name": "Mandy Gull-Masty",
+      "roles": [
+        "mp"
+      ],
+      "file": "Mandy Gull-Masty horizontale.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Mandy_Gull-Masty_horizontale.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Erbvdat",
+      "attribution": "Erbvdat, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "abec7fca562d7cdd5f3ddc815779cf1ed94da586",
+      "fetched": "2026-11-13"
+    },
+    "Q113509940": {
+      "name": "Susan Holt",
+      "roles": [
+        "premier"
+      ],
+      "file": "Susan Holt.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Susan_Holt.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Anntippy",
+      "attribution": "Anntippy, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "168889a507728e925c585e1ac6bd5b6519b95c6e",
+      "fetched": "2026-11-13"
+    },
+    "Q115518743": {
+      "name": "Billy Morin",
+      "roles": [
+        "mp"
+      ],
+      "file": "Naitgrad (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Naitgrad_(cropped).jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Feleciachalifoux",
+      "attribution": "Feleciachalifoux, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "fefb5aa4fa3c1df3044e5db29a7a390d3085eca4",
+      "fetched": "2026-11-13"
+    },
+    "Q119207540": {
+      "name": "Mike Dawson",
+      "roles": [
+        "mp"
+      ],
+      "file": "MP Mike Dawson.png",
+      "page": "https://commons.wikimedia.org/wiki/File:MP_Mike_Dawson.png",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Brandon Ly",
+      "attribution": "Brandon Ly, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "1d8754d265eb272f995b27337e406d4629fb839f",
+      "fetched": "2026-11-13"
+    },
+    "Q119757957": {
+      "name": "Branden Leslie",
+      "roles": [
+        "mp"
+      ],
+      "file": "2023 07 01 brandenleslie (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:2023_07_01_brandenleslie_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Ronny Guenther",
+      "attribution": "Ronny Guenther, CC0, via Wikimedia Commons",
+      "sha1": "8fd6e4a2b1d710184cb52c90d599b72af0c4f07b",
+      "fetched": "2026-11-13"
+    },
+    "Q119764777": {
+      "name": "Arpan Khanna",
+      "roles": [
+        "mp"
+      ],
+      "file": "Arpan Khanna (cropped).png",
+      "page": "https://commons.wikimedia.org/wiki/File:Arpan_Khanna_(cropped).png",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Andrew Scheer",
+      "attribution": "Andrew Scheer, CC0, via Wikimedia Commons",
+      "sha1": "a42d115736348bf2f0f6a98dff88e8f5ed7b549c",
+      "fetched": "2026-11-13"
+    },
+    "Q126540443": {
+      "name": "Leslie Church",
+      "roles": [
+        "mp"
+      ],
+      "file": "Leslie Church Election Night 2025.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Leslie_Church_Election_Night_2025.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Fisceral",
+      "attribution": "Fisceral, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "67c9b34d320114be570c88bf7964221dcffbf5f8",
+      "fetched": "2026-11-13"
+    },
+    "Q134255591": {
+      "name": "Kent MacDonald",
+      "roles": [
+        "mp"
+      ],
+      "file": "Kent MacDonald Canadian flag (3-4 cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Kent_MacDonald_Canadian_flag_(3-4_cropped).jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Yellowjournalism",
+      "attribution": "Yellowjournalism, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "4831a27e11a4a9b7792e819d1912b28b1ebbaa87",
+      "fetched": "2026-11-13"
+    },
+    "Q134256246": {
+      "name": "Shannon Miedema",
+      "roles": [
+        "mp"
+      ],
+      "file": "Shannon Miedema Headshot (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Shannon_Miedema_Headshot_(cropped).jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Haligonian99",
+      "attribution": "Haligonian99, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "3f0e6dc133f7e370bb234101c15b0836c5a0e95f",
+      "fetched": "2026-11-13"
+    },
+    "Q134258977": {
+      "name": "Guillaume Deschênes-Thériault",
+      "roles": [
+        "mp"
+      ],
+      "file": "Guillaume Deschênes-Thériault.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Guillaume_Desch%C3%AAnes-Th%C3%A9riault.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "WikiAcadie123",
+      "attribution": "WikiAcadie123, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "fc56438f844a75e75b6f824f15b4f07d53421c59",
+      "fetched": "2026-11-13"
+    },
+    "Q134267314": {
+      "name": "Wade Chang",
+      "roles": [
+        "mp"
+      ],
+      "file": "Wade Chang (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Wade_Chang_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "AncientMoon5",
+      "attribution": "AncientMoon5, CC0, via Wikimedia Commons",
+      "sha1": "ed009d679bbadf223051f726daf73d58313f0c3d",
+      "fetched": "2026-11-13"
+    },
+    "Q134267318": {
+      "name": "Harb Gill",
+      "roles": [
+        "mp"
+      ],
+      "file": "MP Harb Gill, Windsor, Ontario, 2026-11-11 04.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:MP_Harb_Gill,_Windsor,_Ontario,_2026-11-11_04.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Chris Woodrich",
+      "attribution": "Chris Woodrich, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "dcf04701c2d650e29080987f2fcdde931f6c168e",
+      "fetched": "2026-11-13"
+    },
+    "Q134267462": {
+      "name": "Alexis Deschênes",
+      "roles": [
+        "mp"
+      ],
+      "file": "Alexis Deschênes en Gaspésie.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Alexis_Desch%C3%AAnes_en_Gasp%C3%A9sie.jpg",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "TVA Nouvelles",
+      "attribution": "TVA Nouvelles, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "e6e533de913d3b920cdf1965f0a9391b1fb18e45",
+      "fetched": "2026-11-13"
+    },
+    "Q134267687": {
+      "name": "Giovanna Mingarelli",
+      "roles": [
+        "mp"
+      ],
+      "file": "Giovanna Mingarelli in the video 'Insight Reporting - The Eureka Effect'.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Giovanna_Mingarelli_in_the_video_%27Insight_Reporting_-_The_Eureka_Effect%27.png",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "World Economic Forum",
+      "attribution": "World Economic Forum, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "08170c7a08f384051a5ac58b1927aeee3f569eb2",
+      "fetched": "2026-11-13"
+    },
+    "Q134267701": {
+      "name": "Rhonda Kirkland",
+      "roles": [
+        "mp"
+      ],
+      "file": "Rhonda Kirkland Conservative Campaign Launch March 23 2025 068 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Rhonda_Kirkland_Conservative_Campaign_Launch_March_23_2025_068_(cropped).jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Robert T Bell from Oshawa, Canada",
+      "attribution": "Robert T Bell from Oshawa, Canada, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "4b03a6e5bd25fb23bc4c8dfb20e17b42295519c6",
+      "fetched": "2026-11-13"
+    },
+    "Q134267917": {
+      "name": "Eleanor Olszewski",
+      "roles": [
+        "mp"
+      ],
+      "file": "EleanorOlszewski-PrairiesCan.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:EleanorOlszewski-PrairiesCan.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Fuzzycalicocat",
+      "attribution": "Fuzzycalicocat, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "fa272c874f32d5a38b89a8dc4a323601caa9e3ab",
+      "fetched": "2026-11-13"
+    },
+    "Q134269325": {
+      "name": "Wade Grant",
+      "roles": [
+        "mp"
+      ],
+      "file": "WADE-GRANT.png",
+      "page": "https://commons.wikimedia.org/wiki/File:WADE-GRANT.png",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "WGLover",
+      "attribution": "WGLover, CC BY 4.0, via Wikimedia Commons",
+      "sha1": "7d5871a9975532270ab9443e75a87c2258995bae",
+      "fetched": "2026-11-13"
+    },
+    "Q134271431": {
+      "name": "Patrick Bonin",
+      "roles": [
+        "mp"
+      ],
+      "file": "Patrick Bonin TVA Nouvelles.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Patrick_Bonin_TVA_Nouvelles.jpg",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "TVA Nouvelles",
+      "attribution": "TVA Nouvelles, CC BY 3.0, via Wikimedia Commons",
+      "sha1": "1b763e0833c7a829c80994d0f8bf9209752286f2",
+      "fetched": "2026-11-13"
+    },
+    "Q134279246": {
+      "name": "Amandeep Sodhi",
+      "roles": [
+        "mp"
+      ],
+      "file": "Amandeep Sodhi, Brampton Centre - 20250425 - 01 (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Amandeep_Sodhi,_Brampton_Centre_-_20250425_-_01_(cropped).jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Sikander Iqbal",
+      "attribution": "Sikander Iqbal, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "5bf4abfce0818f9f1fa213993b0bfabab93fa06e",
+      "fetched": "2026-11-13"
+    },
+    "Q134279428": {
+      "name": "Vince Gasparro",
+      "roles": [
+        "mp"
+      ],
+      "file": "Vince Gasparro.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Vince_Gasparro.png",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Ewelynnie",
+      "attribution": "Ewelynnie, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "a1d8be71fafad9ce85f9d2c0da4e41d23218adb4",
+      "fetched": "2026-11-13"
+    },
+    "Q134282305": {
+      "name": "Tim Hodgson",
+      "roles": [
+        "mp"
+      ],
+      "file": "Tim Hodgson - 2026 (P-070128-00-06) (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Tim_Hodgson_-_2026_(P-070128-00-06)_(cropped).jpg",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "Europäische Kommission - Audiovisueller Dienst, Peter McCabe, CE - Service audiovisuel, EC - Audiovisual Service, FACTSTORY",
+      "attribution": "© European Union, 2026, CC BY 4.0, via Wikimedia Commons",
+      "sha1": "6cada320c150149c8776ca9df13685614bd8ef14",
+      "fetched": "2026-11-13"
+    },
+    "Q134284375": {
+      "name": "Chak Au",
+      "roles": [
+        "mp"
+      ],
+      "file": "Chak Au 2 (32732172364).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Chak_Au_2_(32732172364).jpg",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "BC NDP",
+      "attribution": "BC NDP, CC BY 2.0, via Wikimedia Commons",
+      "sha1": "bd6daef7d40b75c4e06ec229c998f4dca42e13ef",
+      "fetched": "2026-11-13"
+    },
+    "Q134289424": {
+      "name": "Ernie Klassen",
+      "roles": [
+        "mp"
+      ],
+      "file": "Ernie Klassen.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Ernie_Klassen.jpg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Hirgax",
+      "attribution": "Hirgax, CC BY-SA 4.0, via Wikimedia Commons",
+      "sha1": "a2caf7b12491f50f95e3db651984be5793b3ec59",
+      "fetched": "2026-11-13"
+    },
+    "Q134305819": {
+      "name": "Kristina Tesser Derksen",
+      "roles": [
+        "mp"
+      ],
+      "file": "Kristina Tesser Derksen Portrait (cropped).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Kristina_Tesser_Derksen_Portrait_(cropped).jpg",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Noisytude",
+      "attribution": "Noisytude, CC0, via Wikimedia Commons",
+      "sha1": "82506857c63fe882a1a70a42357b5d3f1240df0e",
+      "fetched": "2026-11-13"
+    }
+  },
+  "supremeCourt": [
+    {
+      "qid": "Q3431309",
+      "name": "Richard Wagner",
+      "role": "chief",
+      "since": "2017-12-18",
+      "joined": "2012-10-05",
+      "born": 1957,
+      "wikipedia": "https://en.wikipedia.org/wiki/Richard_Wagner_(judge)"
+    },
+    {
+      "qid": "Q4759474",
+      "name": "Andromache Karakatsanis",
+      "role": "puisne",
+      "since": "2011-10-21",
+      "joined": "2011-10-21",
+      "born": 1955,
+      "wikipedia": "https://en.wikipedia.org/wiki/Andromache_Karakatsanis"
+    },
+    {
+      "qid": "Q18577413",
+      "name": "Suzanne Côté",
+      "role": "puisne",
+      "since": "2014-12-01",
+      "joined": "2014-12-01",
+      "born": 1958,
+      "wikipedia": "https://en.wikipedia.org/wiki/Suzanne_C%C3%B4t%C3%A9"
+    },
+    {
+      "qid": "Q27734072",
+      "name": "Malcolm Rowe",
+      "role": "puisne",
+      "since": "2016-10-28",
+      "joined": "2016-10-28",
+      "born": 1953,
+      "wikipedia": "https://en.wikipedia.org/wiki/Malcolm_Rowe"
+    },
+    {
+      "qid": "Q44080964",
+      "name": "Sheilah Martin",
+      "role": "puisne",
+      "since": "2017-12-18",
+      "joined": "2017-12-18",
+      "born": 1956,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sheilah_Martin"
+    },
+    {
+      "qid": "Q14949443",
+      "name": "Nicholas Kasirer",
+      "role": "puisne",
+      "since": "2019-09-16",
+      "joined": "2019-09-16",
+      "born": 1960,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_Kasirer"
+    },
+    {
+      "qid": "Q107278146",
+      "name": "Mahmud Jamal",
+      "role": "puisne",
+      "since": "2021-07-01",
+      "joined": "2021-07-01",
+      "born": 1967,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mahmud_Jamal"
+    },
+    {
+      "qid": "Q113557494",
+      "name": "Michelle O'Bonsawin",
+      "role": "puisne",
+      "since": "2022-09-01",
+      "joined": "2022-09-01",
+      "born": 1974,
+      "wikipedia": "https://en.wikipedia.org/wiki/Michelle_O%27Bonsawin"
+    },
+    {
+      "qid": "Q123194924",
+      "name": "Mary Moreau",
+      "role": "puisne",
+      "since": "2023-11-06",
+      "joined": "2023-11-06",
+      "born": 1956,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary_Moreau"
+    }
+  ],
+  "members": {
+    "10001": "Q134256643",
+    "10002": "Q7817128",
+    "10003": "Q108687511",
+    "10004": "Q134253325",
+    "10005": "Q130619833",
+    "10006": "Q108687503",
+    "10007": "Q134587348",
+    "11001": "Q134255591",
+    "11002": "Q3476701",
+    "11003": "Q4935396",
+    "11004": "Q19966780",
+    "12001": "Q5108569",
+    "12002": "Q19955984",
+    "12003": "Q21642492",
+    "12004": "Q134279322",
+    "12005": "Q22004363",
+    "12006": "Q134256246",
+    "12007": "Q15296602",
+    "12008": "Q71929973",
+    "12009": "Q108137739",
+    "12010": "Q134263273",
+    "12011": "Q71930000",
+    "13001": "Q21572911",
+    "13002": "Q3034854",
+    "13003": "Q5237875",
+    "13004": "Q3434216",
+    "13005": "Q134258977",
+    "13006": "Q119207540",
+    "13007": "Q21714336",
+    "13008": "Q21714343",
+    "13009": "Q14946726",
+    "13010": "Q71894607",
+    "24001": "Q109315431",
+    "24002": "Q72177965",
+    "24003": "Q15054353",
+    "24004": "Q22080847",
+    "24005": "Q22080839",
+    "24006": "Q134263320",
+    "24007": "Q2977252",
+    "24008": "Q134267464",
+    "24009": "Q3262931",
+    "24010": "Q3035523",
+    "24011": "Q3573412",
+    "24012": "Q72219741",
+    "24013": "Q55122408",
+    "24014": "Q136397685",
+    "24015": "Q2833301",
+    "24016": "Q21158711",
+    "24017": "Q112661063",
+    "24019": "Q134263225",
+    "24020": "Q2898026",
+    "24021": "Q21167969",
+    "24022": "Q21572945",
+    "24023": "Q72219413",
+    "24024": "Q134267462",
+    "24025": "Q21266477",
+    "24026": "Q111455862",
+    "24027": "Q136396208",
+    "24028": "Q21281905",
+    "24029": "Q21177259",
+    "24030": "Q72219402",
+    "24031": "Q17174697",
+    "24032": "Q134269323",
+    "24033": "Q72194331",
+    "24034": "Q955143",
+    "24035": "Q134267463",
+    "24036": "Q72219707",
+    "24038": "Q22278594",
+    "24039": "Q134267323",
+    "24040": "Q774134",
+    "24041": "Q22280112",
+    "24042": "Q134279305",
+    "24043": "Q21159821",
+    "24044": "Q3123899",
+    "24045": "Q16212596",
+    "24046": "Q21891834",
+    "24047": "Q108659311",
+    "24048": "Q4772746",
+    "24049": "Q134289441",
+    "24050": "Q1396130",
+    "24051": "Q134386128",
+    "24052": "Q119802649",
+    "24053": "Q61881930",
+    "24054": "Q134381108",
+    "24055": "Q21284594",
+    "24056": "Q72012003",
+    "24057": "Q108635691",
+    "24058": "Q22277957",
+    "24059": "Q1685302",
+    "24060": "Q134271431",
+    "24061": "Q27967841",
+    "24062": "Q72219417",
+    "24063": "Q3241356",
+    "24064": "Q21159929",
+    "24067": "Q72219274",
+    "24068": "Q29139554",
+    "24069": "Q22006190",
+    "24070": "Q21159815",
+    "24071": "Q72012161",
+    "24072": "Q72012105",
+    "24073": "Q134279288",
+    "24074": "Q134268588",
+    "24075": "Q130620111",
+    "24076": "Q22121196",
+    "24077": "Q22279214",
+    "24078": "Q72012050",
+    "35001": "Q57915838",
+    "35002": "Q2962814",
+    "35003": "Q5175052",
+    "35004": "Q22003456",
+    "35005": "Q71929954",
+    "35006": "Q134267697",
+    "35008": "Q17306091",
+    "35009": "Q134279246",
+    "35010": "Q108687462",
+    "35011": "Q71942473",
+    "35012": "Q22096924",
+    "35013": "Q22770988",
+    "35014": "Q134268598",
+    "35016": "Q71929907",
+    "35017": "Q21716260",
+    "35018": "Q81496",
+    "35019": "Q130620381",
+    "35020": "Q134267311",
+    "35021": "Q71929935",
+    "35022": "Q22086204",
+    "35023": "Q134267794",
+    "35024": "Q7340436",
+    "35025": "Q6451430",
+    "35026": "Q134279428",
+    "35027": "Q134455139",
+    "35028": "Q81142481",
+    "35029": "Q17180515",
+    "35030": "Q17386312",
+    "35031": "Q134267695",
+    "35032": "Q108635667",
+    "35033": "Q134267325",
+    "35034": "Q94691482",
+    "35035": "Q22280358",
+    "35036": "Q134268590",
+    "35037": "Q130620470",
+    "35038": "Q108659139",
+    "35039": "Q134267691",
+    "35040": "Q108650405",
+    "35041": "Q3188045",
+    "35042": "Q2895501",
+    "35043": "Q59240247",
+    "35044": "Q134279385",
+    "35045": "Q71937041",
+    "35046": "Q16215273",
+    "35047": "Q108687444",
+    "35048": "Q134275020",
+    "35049": "Q73210893",
+    "35050": "Q134279455",
+    "35051": "Q3476240",
+    "35052": "Q19876367",
+    "35053": "Q21642488",
+    "35054": "Q134267700",
+    "35055": "Q108628484",
+    "35056": "Q5703595",
+    "35057": "Q134282305",
+    "35058": "Q134284328",
+    "35059": "Q71930019",
+    "35060": "Q134305819",
+    "35061": "Q134267469",
+    "35062": "Q7174026",
+    "35063": "Q21642653",
+    "35064": "Q5082574",
+    "35065": "Q108635682",
+    "35066": "Q108655399",
+    "35067": "Q192533",
+    "35068": "Q134267309",
+    "35069": "Q61881929",
+    "35070": "Q71929868",
+    "35071": "Q134268593",
+    "35072": "Q3020613",
+    "35073": "Q134381122",
+    "35074": "Q85793092",
+    "35075": "Q67442310",
+    "35076": "Q134285396",
+    "35077": "Q17180720",
+    "35078": "Q134267701",
+    "35079": "Q8049806",
+    "35080": "Q3018407",
+    "35081": "Q29138522",
+    "35082": "Q22282329",
+    "35083": "Q119764777",
+    "35084": "Q71912401",
+    "35085": "Q21642848",
+    "35086": "Q134455118",
+    "35087": "Q134267688",
+    "35088": "Q134267687",
+    "35089": "Q134281486",
+    "35090": "Q22277949",
+    "35091": "Q22096449",
+    "35092": "Q45311888",
+    "35093": "Q22282385",
+    "35094": "Q21160212",
+    "35096": "Q54862573",
+    "35097": "Q6829490",
+    "35098": "Q71929888",
+    "35099": "Q108687439",
+    "35100": "Q135003396",
+    "35101": "Q21572835",
+    "35102": "Q71937055",
+    "35103": "Q108628500",
+    "35104": "Q134381096",
+    "35105": "Q134267315",
+    "35106": "Q108619068",
+    "35107": "Q71929797",
+    "35108": "Q21573510",
+    "35109": "Q5415550",
+    "35110": "Q21572925",
+    "35111": "Q126540443",
+    "35112": "Q16728371",
+    "35113": "Q134267321",
+    "35114": "Q21402871",
+    "35115": "Q3308109",
+    "35116": "Q71929780",
+    "35117": "Q21156200",
+    "35118": "Q130620786",
+    "35119": "Q134267318",
+    "35120": "Q55081065",
+    "35121": "Q130620669",
+    "35122": "Q16211070",
+    "46001": "Q122929613",
+    "46002": "Q134428572",
+    "46003": "Q130539059",
+    "46004": "Q71936991",
+    "46005": "Q119757957",
+    "46006": "Q15300563",
+    "46007": "Q71920812",
+    "46008": "Q134267932",
+    "46009": "Q3160939",
+    "46010": "Q71937024",
+    "46011": "Q3195738",
+    "46012": "Q7704329",
+    "46013": "Q119802776",
+    "46014": "Q22004241",
+    "47001": "Q42666524",
+    "47002": "Q6385949",
+    "47003": "Q4983346",
+    "47004": "Q108650393",
+    "47005": "Q7292236",
+    "47006": "Q7970499",
+    "47007": "Q2846724",
+    "47008": "Q72219423",
+    "47009": "Q22770989",
+    "47010": "Q5170456",
+    "47011": "Q71937029",
+    "47012": "Q23881399",
+    "47013": "Q71920882",
+    "48001": "Q2905842",
+    "48002": "Q3386636",
+    "48003": "Q134263178",
+    "48004": "Q71920931",
+    "48005": "Q134279336",
+    "48006": "Q22278561",
+    "48007": "Q71921024",
+    "48008": "Q120877240",
+    "48009": "Q134267912",
+    "48010": "Q29139551",
+    "48011": "Q3311457",
+    "48012": "Q22278649",
+    "48013": "Q134386027",
+    "48014": "Q134381065",
+    "48015": "Q134267917",
+    "48016": "Q3528703",
+    "48017": "Q16187047",
+    "48018": "Q22002979",
+    "48019": "Q115518743",
+    "48020": "Q6788847",
+    "48021": "Q134267913",
+    "48022": "Q71920855",
+    "48023": "Q22006757",
+    "48024": "Q17305669",
+    "48025": "Q55584744",
+    "48026": "Q2964888",
+    "48027": "Q22114010",
+    "48028": "Q3313399",
+    "48029": "Q22278125",
+    "48030": "Q27663754",
+    "48031": "Q42308688",
+    "48032": "Q21872800",
+    "48033": "Q2905717",
+    "48034": "Q134263130",
+    "48035": "Q21642507",
+    "48036": "Q21642395",
+    "48037": "Q134455121",
+    "59001": "Q134267923",
+    "59002": "Q134267314",
+    "59003": "Q21716242",
+    "59004": "Q22277600",
+    "59005": "Q771878",
+    "59006": "Q71942375",
+    "59007": "Q71936954",
+    "59008": "Q22279147",
+    "59009": "Q22278424",
+    "59010": "Q134267928",
+    "59011": "Q134267931",
+    "59012": "Q19880392",
+    "59013": "Q134271375",
+    "59014": "Q22003182",
+    "59015": "Q108650398",
+    "59016": "Q22004431",
+    "59017": "Q105490025",
+    "59018": "Q71942395",
+    "59019": "Q130621168",
+    "59020": "Q134279441",
+    "59021": "Q134267467",
+    "59023": "Q3013003",
+    "59024": "Q6755491",
+    "59025": "Q62608301",
+    "59026": "Q4934493",
+    "59027": "Q134284375",
+    "59028": "Q108655435",
+    "59029": "Q445620",
+    "59030": "Q64214518",
+    "59031": "Q29913577",
+    "59032": "Q134289424",
+    "59033": "Q22280309",
+    "59034": "Q3503377",
+    "59035": "Q3129348",
+    "59036": "Q6179373",
+    "59037": "Q1391375",
+    "59038": "Q7679141",
+    "59039": "Q3035763",
+    "59040": "Q134269325",
+    "59041": "Q134455145",
+    "59042": "Q134267465",
+    "59043": "Q71936984",
+    "60001": "Q108638234",
+    "61001": "Q121546486",
+    "62001": "Q108619069"
+  },
+  "elected2025": {
+    "10001": "Q134256643",
+    "10002": "Q7817128",
+    "10003": "Q108687511",
+    "10004": "Q134253325",
+    "10005": "Q130619833",
+    "10006": "Q108687503",
+    "10007": "Q134587348",
+    "11001": "Q134255591",
+    "11002": "Q3476701",
+    "11003": "Q4935396",
+    "11004": "Q19966780",
+    "12001": "Q5108569",
+    "12002": "Q19955984",
+    "12003": "Q21642492",
+    "12004": "Q134279322",
+    "12005": "Q22004363",
+    "12006": "Q134256246",
+    "12007": "Q15296602",
+    "12008": "Q71929973",
+    "12009": "Q108137739",
+    "12010": "Q134263273",
+    "12011": "Q71930000",
+    "13001": "Q21572911",
+    "13002": "Q3034854",
+    "13003": "Q5237875",
+    "13004": "Q3434216",
+    "13005": "Q134258977",
+    "13006": "Q119207540",
+    "13007": "Q21714336",
+    "13008": "Q21714343",
+    "13009": "Q14946726",
+    "13010": "Q71894607",
+    "24001": "Q109315431",
+    "24002": "Q72177965",
+    "24003": "Q15054353",
+    "24004": "Q22080847",
+    "24005": "Q22080839",
+    "24006": "Q134263320",
+    "24007": "Q2977252",
+    "24008": "Q134267464",
+    "24009": "Q3262931",
+    "24010": "Q3035523",
+    "24011": "Q3573412",
+    "24012": "Q72219741",
+    "24013": "Q55122408",
+    "24014": "Q136397685",
+    "24015": "Q2833301",
+    "24016": "Q21158711",
+    "24017": "Q112661063",
+    "24018": "Q16194184",
+    "24019": "Q134263225",
+    "24020": "Q2898026",
+    "24021": "Q21167969",
+    "24022": "Q21572945",
+    "24023": "Q72219413",
+    "24024": "Q134267462",
+    "24025": "Q21266477",
+    "24026": "Q111455862",
+    "24027": "Q136396208",
+    "24028": "Q21281905",
+    "24029": "Q21177259",
+    "24030": "Q72219402",
+    "24031": "Q17174697",
+    "24032": "Q134269323",
+    "24033": "Q72194331",
+    "24034": "Q955143",
+    "24035": "Q134267463",
+    "24036": "Q72219707",
+    "24037": "Q3499230",
+    "24038": "Q22278594",
+    "24039": "Q134267323",
+    "24040": "Q774134",
+    "24041": "Q22280112",
+    "24042": "Q134279305",
+    "24043": "Q21159821",
+    "24044": "Q3123899",
+    "24045": "Q16212596",
+    "24046": "Q21891834",
+    "24047": "Q108659311",
+    "24048": "Q4772746",
+    "24049": "Q134289441",
+    "24050": "Q1396130",
+    "24051": "Q134386128",
+    "24052": "Q119802649",
+    "24053": "Q61881930",
+    "24054": "Q134381108",
+    "24055": "Q21284594",
+    "24056": "Q72012003",
+    "24057": "Q108635691",
+    "24058": "Q22277957",
+    "24059": "Q1685302",
+    "24060": "Q134271431",
+    "24061": "Q27967841",
+    "24062": "Q72219417",
+    "24063": "Q3241356",
+    "24064": "Q21159929",
+    "24065": "Q2833494",
+    "24066": "Q30302772",
+    "24067": "Q72219274",
+    "24068": "Q29139554",
+    "24069": "Q22006190",
+    "24070": "Q21159815",
+    "24071": "Q72012161",
+    "24072": "Q72012105",
+    "24073": "Q134279288",
+    "24074": "Q134268588",
+    "24075": "Q130620111",
+    "24076": "Q22121196",
+    "24077": "Q22279214",
+    "24078": "Q72012050",
+    "35001": "Q57915838",
+    "35002": "Q2962814",
+    "35003": "Q5175052",
+    "35004": "Q22003456",
+    "35005": "Q71929954",
+    "35006": "Q134267697",
+    "35007": "Q20676568",
+    "35008": "Q17306091",
+    "35009": "Q134279246",
+    "35010": "Q108687462",
+    "35011": "Q71942473",
+    "35012": "Q22096924",
+    "35013": "Q22770988",
+    "35014": "Q134268598",
+    "35015": "Q108635653",
+    "35016": "Q71929907",
+    "35017": "Q21716260",
+    "35018": "Q81496",
+    "35019": "Q130620381",
+    "35020": "Q134267311",
+    "35021": "Q71929935",
+    "35022": "Q22086204",
+    "35023": "Q134267794",
+    "35024": "Q7340436",
+    "35025": "Q6451430",
+    "35026": "Q134279428",
+    "35027": "Q134455139",
+    "35028": "Q81142481",
+    "35029": "Q17180515",
+    "35030": "Q17386312",
+    "35031": "Q134267695",
+    "35032": "Q108635667",
+    "35033": "Q134267325",
+    "35034": "Q94691482",
+    "35035": "Q22280358",
+    "35036": "Q134268590",
+    "35037": "Q130620470",
+    "35038": "Q108659139",
+    "35039": "Q134267691",
+    "35040": "Q108650405",
+    "35041": "Q3188045",
+    "35042": "Q2895501",
+    "35043": "Q59240247",
+    "35044": "Q134279385",
+    "35045": "Q71937041",
+    "35046": "Q16215273",
+    "35047": "Q108687444",
+    "35048": "Q134275020",
+    "35049": "Q73210893",
+    "35050": "Q134279455",
+    "35051": "Q3476240",
+    "35052": "Q19876367",
+    "35053": "Q21642488",
+    "35054": "Q134267700",
+    "35055": "Q108628484",
+    "35056": "Q5703595",
+    "35057": "Q134282305",
+    "35058": "Q134284328",
+    "35059": "Q71930019",
+    "35060": "Q134305819",
+    "35061": "Q134267469",
+    "35062": "Q7174026",
+    "35063": "Q21642653",
+    "35064": "Q5082574",
+    "35065": "Q108635682",
+    "35066": "Q108655399",
+    "35067": "Q192533",
+    "35068": "Q134267309",
+    "35069": "Q61881929",
+    "35070": "Q71929868",
+    "35071": "Q134268593",
+    "35072": "Q3020613",
+    "35073": "Q134381122",
+    "35074": "Q85793092",
+    "35075": "Q67442310",
+    "35076": "Q134285396",
+    "35077": "Q17180720",
+    "35078": "Q134267701",
+    "35079": "Q8049806",
+    "35080": "Q3018407",
+    "35081": "Q29138522",
+    "35082": "Q22282329",
+    "35083": "Q119764777",
+    "35084": "Q71912401",
+    "35085": "Q21642848",
+    "35086": "Q134455118",
+    "35087": "Q134267688",
+    "35088": "Q134267687",
+    "35089": "Q134281486",
+    "35090": "Q22277949",
+    "35091": "Q22096449",
+    "35092": "Q45311888",
+    "35093": "Q22282385",
+    "35094": "Q21160212",
+    "35095": "Q22277334",
+    "35096": "Q4908168",
+    "35097": "Q6829490",
+    "35098": "Q71929888",
+    "35099": "Q108687439",
+    "35100": "Q135003396",
+    "35101": "Q21572835",
+    "35102": "Q71937055",
+    "35103": "Q108628500",
+    "35104": "Q134381096",
+    "35105": "Q134267315",
+    "35106": "Q108619068",
+    "35107": "Q71929797",
+    "35108": "Q21573510",
+    "35109": "Q5415550",
+    "35110": "Q21572925",
+    "35111": "Q126540443",
+    "35112": "Q4492815",
+    "35113": "Q134267321",
+    "35114": "Q21402871",
+    "35115": "Q3308109",
+    "35116": "Q71929780",
+    "35117": "Q21156200",
+    "35118": "Q130620786",
+    "35119": "Q134267318",
+    "35120": "Q55081065",
+    "35121": "Q130620669",
+    "35122": "Q16211070",
+    "46001": "Q122929613",
+    "46002": "Q134428572",
+    "46003": "Q130539059",
+    "46004": "Q71936991",
+    "46005": "Q119757957",
+    "46006": "Q15300563",
+    "46007": "Q71920812",
+    "46008": "Q134267932",
+    "46009": "Q3160939",
+    "46010": "Q71937024",
+    "46011": "Q3195738",
+    "46012": "Q7704329",
+    "46013": "Q119802776",
+    "46014": "Q22004241",
+    "47001": "Q42666524",
+    "47002": "Q6385949",
+    "47003": "Q4983346",
+    "47004": "Q108650393",
+    "47005": "Q7292236",
+    "47006": "Q7970499",
+    "47007": "Q2846724",
+    "47008": "Q72219423",
+    "47009": "Q22770989",
+    "47010": "Q5170456",
+    "47011": "Q71937029",
+    "47012": "Q23881399",
+    "47013": "Q71920882",
+    "47014": "Q22116843",
+    "48001": "Q2905842",
+    "48002": "Q71920912",
+    "48003": "Q134263178",
+    "48004": "Q71920931",
+    "48005": "Q134279336",
+    "48006": "Q22278561",
+    "48007": "Q71921024",
+    "48008": "Q120877240",
+    "48009": "Q134267912",
+    "48010": "Q29139551",
+    "48011": "Q3311457",
+    "48012": "Q22278649",
+    "48013": "Q134386027",
+    "48014": "Q134381065",
+    "48015": "Q134267917",
+    "48016": "Q3528703",
+    "48017": "Q16187047",
+    "48018": "Q22002979",
+    "48019": "Q115518743",
+    "48020": "Q6788847",
+    "48021": "Q134267913",
+    "48022": "Q71920855",
+    "48023": "Q22006757",
+    "48024": "Q17305669",
+    "48025": "Q55584744",
+    "48026": "Q2964888",
+    "48027": "Q22114010",
+    "48028": "Q3313399",
+    "48029": "Q22278125",
+    "48030": "Q27663754",
+    "48031": "Q42308688",
+    "48032": "Q21872800",
+    "48033": "Q2905717",
+    "48034": "Q134263130",
+    "48035": "Q21642507",
+    "48036": "Q21642395",
+    "48037": "Q134455121",
+    "59001": "Q134267923",
+    "59002": "Q134267314",
+    "59003": "Q21716242",
+    "59004": "Q22277600",
+    "59005": "Q771878",
+    "59006": "Q71942375",
+    "59007": "Q71936954",
+    "59008": "Q22279147",
+    "59009": "Q22278424",
+    "59010": "Q134267928",
+    "59011": "Q134267931",
+    "59012": "Q19880392",
+    "59013": "Q134271375",
+    "59014": "Q22003182",
+    "59015": "Q108650398",
+    "59016": "Q22004431",
+    "59017": "Q105490025",
+    "59018": "Q71942395",
+    "59019": "Q130621168",
+    "59020": "Q134279441",
+    "59021": "Q134267467",
+    "59022": "Q21716310",
+    "59023": "Q3013003",
+    "59024": "Q6755491",
+    "59025": "Q62608301",
+    "59026": "Q4934493",
+    "59027": "Q134284375",
+    "59028": "Q108655435",
+    "59029": "Q445620",
+    "59030": "Q64214518",
+    "59031": "Q29913577",
+    "59032": "Q134289424",
+    "59033": "Q22280309",
+    "59034": "Q3503377",
+    "59035": "Q3129348",
+    "59036": "Q6179373",
+    "59037": "Q1391375",
+    "59038": "Q7679141",
+    "59039": "Q3035763",
+    "59040": "Q134269325",
+    "59041": "Q134455145",
+    "59042": "Q134267465",
+    "59043": "Q71936984",
+    "60001": "Q108638234",
+    "61001": "Q121546486",
+    "62001": "Q108619069"
+  },
+  "unmatched": [
+    "current MP: Daniel Gobeil (Chicoutimi—Le Fjord, 24018)",
+    "current MP: Tanveer Shahnawaz (Beaches—East York, 35007)",
+    "current MP: Braeden Caley (North Vancouver—Capilano, 59022)"
+  ],
+  "skipped": []
+}

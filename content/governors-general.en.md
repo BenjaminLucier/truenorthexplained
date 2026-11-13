@@ -19,6 +19,8 @@ century, especially after the Statute of Westminster in 1931, and since 1953 the
 has used a Canadian title.
 <!-- check: 1953 Royal Style and Titles Act as the first distinct Canadian title -->
 
+<tn-widget name="crown" data-set="monarchs" data-part="gallery"></tn-widget>
+
 <tn-widget name="crown" data-set="monarchs" data-part="timeline"></tn-widget>
 
 <tn-widget name="crown" data-set="monarchs" data-part="table"></tn-widget>

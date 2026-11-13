@@ -21,6 +21,7 @@
     "data:population": "tsx scripts/data/province-population.ts",
     "data:treaties": "tsx scripts/data/treaties.ts",
     "data:demographics": "tsx scripts/data/demographics.ts",
+    "data:portraits": "tsx scripts/data/portraits.ts",
     "grounding": "tsx scripts/grounding/index.ts"
   },
   "dependencies": {
@@ -45,6 +46,7 @@
     "pagefind": "^1.6.0",
     "playwright": "^1.65.0",
     "satteri": "0.11.7",
+    "sharp": "0.35.5",
     "tailwindcss": "^4.3.5",
     "topojson-client": "^3.1.0",
     "tsx": "^4.23.15",

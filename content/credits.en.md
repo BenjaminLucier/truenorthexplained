@@ -55,6 +55,16 @@ file's licence and author are listed as recorded on Commons.
 
 <tn-widget name="credits" data-part="flags"></tn-widget>
 
+## Portraits
+
+Photographs of prime ministers, monarchs, governors general, Supreme Court judges,
+premiers and MPs come from Wikimedia Commons, through each person's image on Wikidata.
+Only freely licensed photos are used, and each is cropped to a square. Where there's no
+free photo, the site shows an empty portrait instead. Each photo's author and licence
+are listed as recorded on Commons.
+
+<tn-widget name="credits" data-part="portraits"></tn-widget>
+
 ## Wikipedia
 
 The site's writers use a snapshot of about 150 English Wikipedia articles as background

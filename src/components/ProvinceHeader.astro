@@ -3,11 +3,15 @@
  * Flag and locator map for a province or territory page header.
  *
  * The flag comes from public/flags/<slug>.svg. When the file is missing,
- * nothing is drawn for it, and the locator map stands alone.
+ * nothing is drawn for it, and the locator map stands alone. Below the map,
+ * a small card shows the current premier (src/data/wikidata/provinces.json)
+ * with their portrait.
  */
 import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import CanadaMap from "./map/CanadaMap.astro";
+import Portrait from "./Portrait.astro";
+import { provinceBySlug } from "../lib/reference";
 import { provinceFeatures } from "./map/geo";
 import type { Page } from "../lib/site";
 
@@ -40,6 +44,8 @@ function flag(): { src: string; width: number; height: number } | undefined {
 }
 
 const flagImg = flag();
+const province = provinceBySlug(slug);
+const premier = province?.premier;
 ---
 
 <div class="province-header float-end ms-4 mb-3 flex w-28 flex-col items-stretch gap-3 sm:ms-8 sm:w-40">
@@ -68,6 +74,22 @@ const flagImg = flag();
     item={(f) => ({ highlight: f.properties.slug === slug, marker: f.properties.slug === slug && "auto" })}
     class="locator"
   />
+  {
+    premier && (
+      <figure class="flex flex-col items-center gap-1.5 rounded-card border border-subtle bg-surface px-2 pt-3 pb-2.5 text-center">
+        <Portrait qid={premier.qid} name={premier.name} size={56} />
+        <figcaption class="text-xs leading-snug text-secondary">
+          <span class="block font-semibold tracking-wide text-muted uppercase">Premier</span>
+          <span class="block font-semibold text-primary">{premier.name}</span>
+          {premier.party ? (
+            <span class="block">{premier.party}</span>
+          ) : (
+            province?.type === "territory" && <span class="block">No party: consensus government</span>
+          )}
+        </figcaption>
+      </figure>
+    )
+  }
 </div>
 
 <style>

@@ -49,6 +49,7 @@ pnpm dev                                 # http://localhost:4321
 | `pnpm data:population` | Re-download 2021 Census population by province (used by the amending-formula widget) |
 | `pnpm data:treaties` | Re-download CIRNAC historic and modern treaty boundaries, simplify them with mapshaper and write `src/data/geo/treaties.topo.json` |
 | `pnpm data:demographics` | Re-download Statistics Canada language, immigrant origin, urban/rural, Indigenous and age-pyramid data into `src/data/demographics/` |
+| `pnpm data:portraits` | Re-download portraits of prime ministers, monarchs, governors general, Supreme Court judges, premiers and MPs from Wikimedia Commons into `public/portraits/`, with licence and author for each in `src/data/portraits.json`. Run after `pnpm grounding` and `pnpm data:elections` |
 | `pnpm grounding` | Re-download the Wikipedia/Wikidata grounding corpus, flags and Statistics Canada demographics. See [grounding/README.md](grounding/README.md) |
 
 `pnpm data:geo` uses Statistics Canada's official province boundary shapefile when it's
