@@ -19,7 +19,7 @@ represent the King.
 
 ## Comparison
 
-<!-- visual: clickable map -->
+<tn-widget name="province-map"></tn-widget>
 
 ### Provinces vs territories
 

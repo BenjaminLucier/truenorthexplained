@@ -1,0 +1,282 @@
+---
+/**
+ * A map of Canada (and only Canada), rendered to SVG at build time.
+ *
+ * Pass any polygon features (provinces, ridings, …) and a function that says
+ * how to draw each one: link, label, class, fill and data attributes. The
+ * projection is Statistics Canada's Lambert conformal conic, fitted to the
+ * features (or to `fitTo`, or to an inset's `bounds`).
+ *
+ *   ---
+ *   import CanadaMap from "../components/map/CanadaMap.astro";
+ *   import { provinceFeatures, ridingFeatures, inset, featuresInBounds } from "../components/map/geo";
+ *   ---
+ *   <CanadaMap
+ *     features={provinceFeatures()}
+ *     title="Provinces and territories of Canada"
+ *     item={(f) => ({ href: `/provinces/${f.properties.slug}`, label: f.properties.name_en })}
+ *   />
+ *
+ *   <!-- All 343 ridings, coloured by a party token -->
+ *   <CanadaMap
+ *     features={ridingFeatures()}
+ *     title="Federal ridings"
+ *     precision={0}
+ *     item={(f) => ({ fill: "var(--tn-party-lpc)", data: { fed: String(f.properties.fed) } })}
+ *   />
+ *
+ *   <!-- A city inset: only ridings inside the box are drawn, clipped to it -->
+ *   <CanadaMap features={ridingFeatures()} bounds={inset("toronto").bounds} width={400} height={300} title="Toronto ridings" />
+ *
+ * Styling: each feature is a `<path class="map-feature …">`. Its fill comes
+ * from `--map-fill` (set per feature by `fill`), falling back to the map-wide
+ * default. Highlighted features get `is-highlighted` and are drawn last, so
+ * their outline sits on top. Classes passed in `item().class` are plain
+ * strings: use Tailwind utilities (fill-accent, stroke-primary) or :global()
+ * selectors, since Astro's scoped styles from the parent won't reach them.
+ */
+import type { MapFeature, Bounds } from "./geo";
+import { boundsOutline, canadaProjection, featuresInBounds, pathData } from "./geo";
+import type { Feature } from "geojson";
+import { geoPath } from "d3-geo";
+
+export interface MapItem {
+  /** Makes the feature a link. */
+  href?: string;
+  /** Accessible name: aria-label on the link, or a <title> tooltip when there's no link. */
+  label?: string;
+  /** Extra classes on the <path> (or on the <a> wrapping it, see `linkClass`). */
+  class?: string;
+  /** Classes on the <a>, when there's a link. */
+  linkClass?: string;
+  /** A CSS colour, normally a token: "var(--tn-data-seq-3)". Sets --map-fill on the path. */
+  fill?: string;
+  /** Drawn last, with the `is-highlighted` class. */
+  highlight?: boolean;
+  /** data-* attributes for the path (or the link), without the "data-" prefix. */
+  data?: Record<string, string | number | undefined>;
+  /** Extra attributes for the link (e.g. aria-describedby). */
+  linkAttrs?: Record<string, string | undefined>;
+  /**
+   * Draw a ring around the feature so it can be found at small sizes: true
+   * always, "auto" only when it's under 12 viewBox units across.
+   */
+  marker?: boolean | "auto";
+  /** Skip this feature entirely. */
+  hidden?: boolean;
+}
+
+interface Props {
+  features: MapFeature<any>[];
+  /** How to draw each feature. Defaults to a plain, unlabelled path. */
+  item?: (feature: MapFeature<any>, index: number) => MapItem;
+  /** Accessible title. Required: every map needs a name. */
+  title: string;
+  /** Longer description for screen readers. */
+  desc?: string;
+  /** viewBox width. */
+  width?: number;
+  /** viewBox height. Omit to take the natural height of the fitted map at `width`. */
+  height?: number;
+  /** Space around the map, in viewBox units. */
+  padding?: number;
+  /** Fit to these features instead of all of `features`. */
+  fitTo?: MapFeature[];
+  /**
+   * An inset: [west, south, east, north] in degrees. The map is fitted to this
+   * box, features outside it are skipped and the rest are clipped to the view.
+   */
+  bounds?: Bounds;
+  /** Decimal places in path data, in viewBox units. 0 is plenty for small or dense maps. */
+  precision?: number;
+  /**
+   * Skip rings (islands, lakes) smaller than this many square viewBox units.
+   * Every feature keeps its largest ring regardless. Default 1.
+   */
+  minArea?: number;
+  /** Drop points closer than this to the previous point, in viewBox units. Default 1 (about a pixel). */
+  tolerance?: number;
+  /** Features drawn underneath without links or labels (e.g. province outlines under an inset). */
+  context?: MapFeature[];
+  /** Class for each context path. */
+  contextClass?: string;
+  /** "img" for a purely decorative or locator map with no links. Defaults to a group when any feature links. */
+  role?: "img" | "group";
+  /** Unique prefix for ids (title, desc). Needed when two maps share a page. */
+  id?: string;
+  class?: string;
+  /** Attributes for the <svg>. */
+  [attr: `data-${string}`]: string | undefined;
+}
+
+const {
+  features,
+  item = (): MapItem => ({}),
+  title,
+  desc,
+  width = 800,
+  height: givenHeight,
+  padding = 4,
+  fitTo,
+  bounds,
+  precision = 1,
+  minArea = 1,
+  tolerance = 1,
+  context = [],
+  contextClass = "map-context",
+  role,
+  id = `map-${Math.random().toString(36).slice(2, 8)}`,
+  class: className,
+  ...rest
+} = Astro.props;
+
+const projection = canadaProjection();
+const fitObject = {
+  type: "FeatureCollection" as const,
+  features: (bounds ? [boundsOutline(bounds)] : (fitTo ?? features)) as Feature[],
+};
+let height = givenHeight;
+if (height === undefined) {
+  // Natural height: fit to the width, then measure the projected extent.
+  projection.fitWidth(width - padding * 2, fitObject);
+  const [[, top], [, bottom]] = geoPath(projection).bounds(fitObject);
+  height = Math.ceil(bottom - top + padding * 2);
+}
+projection.fitExtent(
+  [
+    [padding, padding],
+    [width - padding, height - padding],
+  ],
+  fitObject,
+);
+if (bounds) projection.clipExtent([[-2, -2], [width + 2, height + 2]]);
+
+// A feature too small to survive rounding (a downtown riding on a national
+// map) is retried with more decimals, so every feature still gets a path.
+const paths = [0, 1, 2].map((extra) =>
+  pathData(projection, precision + extra, minArea / 4 ** extra, tolerance / 4 ** extra),
+);
+const path = (f: MapFeature) => paths.reduce((d, p) => d || p(f), "");
+// For an inset, a cheap pre-filter on a generously widened box (the view is a
+// projected rectangle, so it shows a little more than the lon/lat box near the
+// corners). The clip extent then drops anything that's still off-screen.
+const widened = (b: Bounds): Bounds => {
+  const dx = (b[2] - b[0]) / 2;
+  const dy = (b[3] - b[1]) / 2;
+  return [b[0] - dx, b[1] - dy, b[2] + dx, b[3] + dy];
+};
+const visible = bounds ? featuresInBounds(features, widened(bounds)) : features;
+const visibleContext = bounds ? featuresInBounds(context, widened(bounds)) : context;
+
+const drawn = visible
+  .map((f) => ({ f, it: item(f, features.indexOf(f)) }))
+  .filter(({ it }) => !it.hidden)
+  .map(({ f, it }) => ({ f, it, d: path(f) }))
+  .filter(({ d }) => d !== "");
+// Highlighted features last, so their strokes aren't covered by neighbours.
+drawn.sort((a, b) => Number(Boolean(a.it.highlight)) - Number(Boolean(b.it.highlight)));
+
+const measure = geoPath(projection);
+const round1 = (n: number) => Math.round(n * 10) / 10;
+const markers = drawn.flatMap(({ f, it }) => {
+  if (!it.marker) return [];
+  const [[x0, y0], [x1, y1]] = measure.bounds(f);
+  const size = Math.max(x1 - x0, y1 - y0);
+  if (it.marker === "auto" && size >= 12) return [];
+  return [{ cx: round1((x0 + x1) / 2), cy: round1((y0 + y1) / 2), r: round1(Math.max(size / 2 + 4, 6)) }];
+});
+
+const dataAttrs = (data: MapItem["data"]) =>
+  Object.fromEntries(
+    Object.entries(data ?? {})
+      .filter(([, v]) => v !== undefined)
+      .map(([k, v]) => [`data-${k}`, String(v)]),
+  );
+const anyLinks = drawn.some(({ it }) => it.href);
+const svgRole = role ?? (anyLinks ? "group" : "img");
+const titleId = `${id}-title`;
+const descId = `${id}-desc`;
+---
+
+<svg
+  viewBox={`0 0 ${width} ${height}`}
+  role={svgRole}
+  aria-labelledby={titleId}
+  aria-describedby={desc ? descId : undefined}
+  class:list={["canada-map", className]}
+  {...rest}
+>
+  <title id={titleId}>{title}</title>
+  {desc && <desc id={descId}>{desc}</desc>}
+  {
+    visibleContext.length > 0 && (
+      <g aria-hidden="true">
+        {visibleContext.map((f) => {
+          const d = path(f);
+          return d && <path class={contextClass} d={d} />;
+        })}
+      </g>
+    )
+  }
+  {
+    drawn.map(({ it, d }) => {
+      const style = it.fill ? `--map-fill:${it.fill}` : undefined;
+      const cls = ["map-feature", it.highlight && "is-highlighted", it.class];
+      if (it.href) {
+        return (
+          <a href={it.href} aria-label={it.label} class:list={["map-link", it.linkClass]} {...dataAttrs(it.data)} {...it.linkAttrs}>
+            <path d={d} class:list={cls} style={style} />
+          </a>
+        );
+      }
+      return (
+        <path d={d} class:list={cls} style={style} {...dataAttrs(it.data)}>
+          {it.label && <title>{it.label}</title>}
+        </path>
+      );
+    })
+  }
+  {markers.map((m) => <circle class="map-marker" cx={m.cx} cy={m.cy} r={m.r} aria-hidden="true" />)}
+  <slot />
+</svg>
+
+<style>
+  .canada-map {
+    display: block;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+  }
+  .map-feature {
+    fill: var(--map-fill, var(--tn-border));
+    stroke: var(--map-stroke, var(--tn-surface));
+    stroke-width: var(--map-stroke-width, 0.75);
+    stroke-linejoin: round;
+    vector-effect: non-scaling-stroke;
+  }
+  .map-feature.is-highlighted {
+    fill: var(--map-highlight-fill, var(--tn-accent));
+    stroke: var(--map-highlight-stroke, var(--tn-surface));
+  }
+  .map-context {
+    fill: var(--map-context-fill, var(--tn-surface-muted));
+    stroke: var(--map-context-stroke, var(--tn-border-strong));
+    stroke-width: 0.5;
+    vector-effect: non-scaling-stroke;
+  }
+  /* The browser's focus box around an SVG link is a loose rectangle; outline the shape instead. */
+  .map-link {
+    outline: none;
+  }
+  .map-link:focus-visible .map-feature {
+    stroke: var(--tn-focus);
+    stroke-width: 2.5;
+  }
+  .map-marker {
+    fill: none;
+    stroke: var(--map-marker-stroke, var(--tn-accent));
+    stroke-width: 1.5;
+    vector-effect: non-scaling-stroke;
+    pointer-events: none;
+  }
+</style>

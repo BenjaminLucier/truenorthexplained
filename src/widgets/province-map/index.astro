@@ -1,0 +1,487 @@
+---
+/**
+ * Clickable map of the 13 provinces and territories.
+ *
+ *   <tn-widget name="province-map"></tn-widget>
+ *   <ProvinceMap compact />            (home page: no colour toggle or legend)
+ *
+ * Every province is a link to its page. Hover or focus shows a card with the
+ * capital, the year it joined and the population; on touch screens the card
+ * sits under the map and the first tap shows it (with a link), a second tap
+ * follows the link. The colour toggle is a pair of radio buttons that works
+ * through CSS alone, so it also works without JavaScript.
+ */
+import CanadaMap from "../../components/map/CanadaMap.astro";
+import { population, populationPeriod, provinceFeatures } from "../../components/map/geo";
+import { href, provinces } from "../../lib/site";
+
+interface Props {
+  /** Any value turns on the compact version (markdown passes strings). */
+  compact?: boolean | string;
+  /** Unique id prefix, if the page has more than one map. */
+  id?: string;
+}
+
+const { compact: compactProp, id = compactProp ? "pm-compact" : "pm" } = Astro.props;
+const compact = compactProp !== undefined && compactProp !== false && compactProp !== "false";
+
+const pages = await provinces();
+const features = provinceFeatures();
+const bySlug = new Map(pages.map((p) => [p.id.replace(/^provinces\//, ""), p]));
+for (const f of features) {
+  if (!bySlug.has(f.properties.slug)) throw new Error(`province-map: no page for "${f.properties.slug}"`);
+}
+
+/** Year joined → step on the sequential scale. Earlier is darker. */
+const bins = [
+  { label: "1867", from: 1867, to: 1867, step: 6 },
+  { label: "1870", from: 1870, to: 1870, step: 5 },
+  { label: "1871–1873", from: 1871, to: 1873, step: 4 },
+  { label: "1898–1905", from: 1898, to: 1905, step: 3 },
+  { label: "1949", from: 1949, to: 1949, step: 2 },
+  { label: "1999", from: 1999, to: 1999, step: 1 },
+];
+const binFor = (year: number) => {
+  const bin = bins.find((b) => year >= b.from && year <= b.to);
+  if (!bin) throw new Error(`province-map: no colour bin for ${year}`);
+  return bin;
+};
+const legend = bins.map((b) => ({
+  ...b,
+  names: pages
+    .filter((p) => p.data.joined !== undefined && p.data.joined >= b.from && p.data.joined <= b.to)
+    .sort((a, b2) => (a.data.joined ?? 0) - (b2.data.joined ?? 0) || a.data.title.localeCompare(b2.data.title))
+    .map((p) => p.data.title),
+}));
+
+const fmt = new Intl.NumberFormat("en-CA");
+const period = new Date(`${populationPeriod}T12:00:00Z`).toLocaleDateString("en-CA", {
+  month: "long",
+  day: "numeric",
+  year: "numeric",
+  timeZone: "UTC",
+});
+
+const info = (slug: string) => {
+  const page = bySlug.get(slug)!;
+  const pop = population[slug];
+  return {
+    name: page.data.title,
+    type: page.data.type === "territory" ? "Territory" : "Province",
+    capital: page.data.capital ?? "",
+    joined: String(page.data.joined ?? ""),
+    population: pop ? fmt.format(pop) : "",
+    href: href(page.id),
+  };
+};
+---
+
+<tn-province-map class:list={["pm not-prose", compact ? "pm-compact block" : "my-8 block"]}>
+  <figure class:list={[!compact && "rounded-card border border-subtle bg-surface p-4 shadow-card sm:p-6"]}>
+    {
+      !compact && (
+        <fieldset class="pm-toggle">
+          <legend class="sr-only">Map colours</legend>
+          <label>
+            <input type="radio" name={`${id}-mode`} value="joined" class="pm-mode-joined" checked />
+            <span>Year joined Confederation</span>
+          </label>
+          <label>
+            <input type="radio" name={`${id}-mode`} value="plain" />
+            <span>Plain</span>
+          </label>
+        </fieldset>
+      )
+    }
+
+    <div class="pm-stage relative">
+      <CanadaMap
+        id={id}
+        features={features}
+        width={800}
+        padding={6}
+        precision={0}
+        minArea={compact ? 4 : 1.5}
+        title="Map of Canada's provinces and territories"
+        desc="Each of the 13 provinces and territories links to its own page. The same links are listed after the map."
+        item={(f) => {
+          const slug = f.properties.slug as string;
+          const i = info(slug);
+          return {
+            href: i.href,
+            label: i.name,
+            fill: `var(--tn-data-seq-${binFor(Number(i.joined)).step})`,
+            data: { slug, name: i.name, type: i.type, capital: i.capital, joined: i.joined, pop: i.population },
+            linkAttrs: { "aria-describedby": `${id}-d-${slug}` },
+          };
+        }}
+      >
+        <path class="pm-outline" d="" aria-hidden="true" />
+      </CanadaMap>
+
+      <div class="pm-card" aria-hidden="true" data-state="idle">
+        <p class="pm-hint">Tap a province or territory to see its details.</p>
+        <div class="pm-details">
+          <p class="flex items-baseline justify-between gap-3">
+            <span class="pm-name font-semibold text-primary"></span>
+            <span class="pm-type text-xs font-semibold tracking-wide text-muted uppercase"></span>
+          </p>
+          <dl class="mt-2 grid grid-cols-[auto_1fr] gap-x-3 gap-y-0.5 text-sm">
+            <dt class="text-muted">Capital</dt>
+            <dd class="pm-capital text-secondary"></dd>
+            <dt class="text-muted">Joined</dt>
+            <dd class="pm-joined text-secondary tabular-nums"></dd>
+            <dt class="text-muted">Population</dt>
+            <dd class="pm-pop text-secondary tabular-nums"></dd>
+          </dl>
+          <p class="mt-2 text-xs text-muted">Population estimate for {period}</p>
+          <a class="pm-go mt-3 inline-flex items-center gap-1 text-sm font-medium text-accent hover:text-accent-hover" href="#" tabindex="-1">
+            <span class="pm-go-label"></span>
+            <span aria-hidden="true">→</span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    {
+      !compact && (
+        <div class="pm-legend mt-4">
+          <p class="text-xs font-semibold tracking-wide text-muted uppercase">Year joined Confederation</p>
+          <ul class="mt-2 grid gap-x-6 gap-y-2 text-sm sm:grid-cols-2">
+            {legend.map((b) => (
+              <li class="flex items-start gap-2.5">
+                <span class="pm-swatch" style={`--swatch:var(--tn-data-seq-${b.step})`} aria-hidden="true" />
+                <span>
+                  <span class="font-semibold text-primary tabular-nums">{b.label}</span>
+                  <span class="text-secondary">: {b.names.join(", ")}</span>
+                </span>
+              </li>
+            ))}
+          </ul>
+          <p class="mt-3 text-xs text-muted">
+            Yukon (1898) and Nunavut (1999) were created from parts of the Northwest Territories.
+          </p>
+        </div>
+      )
+    }
+
+    {
+      !compact && (
+        <figcaption class="mt-4 border-t border-subtle pt-3 text-xs text-muted">
+          Select a province or territory to open its page. Population: Statistics Canada estimates for {period}.
+          Boundaries: Statistics Canada.
+        </figcaption>
+      )
+    }
+
+    <div hidden>
+      {
+        features.map((f) => {
+          const i = info(f.properties.slug as string);
+          return (
+            <p id={`${id}-d-${f.properties.slug}`}>
+              {i.type}. Capital: {i.capital}. Joined Canada in {i.joined}.
+              {i.population && ` Population: ${i.population} (${period}).`}
+            </p>
+          );
+        })
+      }
+    </div>
+  </figure>
+</tn-province-map>
+
+<style>
+  /* Colour toggle: a segmented control built from native radio buttons. */
+  .pm-toggle {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    margin-bottom: 1rem;
+    padding: 0.25rem;
+    border: 1px solid var(--tn-border);
+    border-radius: 9999px;
+    background: var(--tn-surface-muted);
+  }
+  .pm-toggle label {
+    position: relative;
+    cursor: pointer;
+  }
+  .pm-toggle input {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    cursor: pointer;
+  }
+  .pm-toggle span {
+    display: block;
+    border-radius: 9999px;
+    padding: 0.375rem 0.875rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--tn-text-secondary);
+    transition: background-color 150ms, color 150ms;
+  }
+  .pm-toggle input:checked + span {
+    background: var(--tn-surface);
+    color: var(--tn-text-primary);
+    box-shadow: var(--shadow-card);
+  }
+  .pm-toggle label:hover span {
+    color: var(--tn-text-primary);
+  }
+  .pm-toggle input:focus-visible + span {
+    outline: 2px solid var(--tn-focus);
+    outline-offset: 2px;
+  }
+
+  /* Map colours. Plain by default; the scale when "Year joined" is checked. */
+  .pm :global(.map-feature) {
+    fill: var(--tn-border);
+    stroke: var(--tn-surface);
+    stroke-width: 1;
+    cursor: pointer;
+    transition: fill 150ms;
+  }
+  .pm:has(.pm-mode-joined:checked) :global(.map-feature) {
+    fill: var(--map-fill);
+  }
+  .pm :global(.map-link:hover .map-feature),
+  .pm[data-active] :global(.map-link.is-active .map-feature) {
+    fill: var(--tn-accent-soft);
+  }
+  .pm:has(.pm-mode-joined:checked) :global(.map-link:hover .map-feature),
+  .pm:has(.pm-mode-joined:checked)[data-active] :global(.map-link.is-active .map-feature) {
+    fill: var(--map-fill);
+  }
+  /* Without JavaScript, focus still needs to show. With it, the outline path does the job. */
+  .pm:not([data-ready]) :global(.map-link:focus-visible .map-feature) {
+    stroke: var(--tn-focus);
+    stroke-width: 2.5;
+  }
+  /* A hairline around the whole country, so pale fills still have an edge. */
+  .pm :global(.canada-map) {
+    filter: drop-shadow(0 0 0.5px var(--tn-text-muted));
+  }
+  .pm-outline {
+    fill: none;
+    stroke: var(--tn-text-primary);
+    stroke-width: 2;
+    stroke-linejoin: round;
+    vector-effect: non-scaling-stroke;
+    pointer-events: none;
+  }
+  .pm[data-focus-visible] .pm-outline {
+    stroke: var(--tn-focus);
+    stroke-width: 3;
+  }
+
+  .pm-swatch {
+    flex: none;
+    width: 1rem;
+    height: 1rem;
+    margin-top: 0.15rem;
+    border-radius: 0.25rem;
+    background: var(--swatch);
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--tn-text-primary) 15%, transparent);
+  }
+  .pm-legend {
+    display: none;
+  }
+  .pm:has(.pm-mode-joined:checked) .pm-legend {
+    display: block;
+  }
+
+  /* The card. Docked under the map on touch screens and narrow layouts. */
+  .pm-card {
+    margin-top: 0.75rem;
+    min-height: 7.5rem;
+    border: 1px solid var(--tn-border);
+    border-radius: var(--radius-card);
+    background: var(--tn-surface);
+    padding: 0.75rem 1rem;
+  }
+  .pm-compact .pm-card {
+    min-height: 0;
+  }
+  .pm-hint {
+    font-size: 0.875rem;
+    color: var(--tn-text-muted);
+  }
+  .pm-card[data-state="idle"] .pm-details,
+  .pm-card:not([data-state="idle"]) .pm-hint {
+    display: none;
+  }
+  /* Without JavaScript the card has nothing to show. */
+  .pm:not([data-ready]) .pm-card {
+    display: none;
+  }
+
+  /* Floating tooltip where there's a mouse and room for it. */
+  @media (hover: hover) and (pointer: fine) and (min-width: 40rem) {
+    .pm-card {
+      position: absolute;
+      z-index: 10;
+      top: 0;
+      left: 0;
+      width: 16rem;
+      min-height: 0;
+      margin: 0;
+      box-shadow: 0 4px 24px rgb(0 0 0 / 0.12);
+      pointer-events: none;
+      opacity: 0;
+      visibility: hidden;
+    }
+    .pm-card[data-state="shown"] {
+      opacity: 1;
+      visibility: visible;
+    }
+    .pm-hint,
+    .pm-go {
+      display: none !important;
+    }
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .pm-card {
+      transition:
+        opacity 120ms ease-out,
+        visibility 120ms;
+    }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .pm :global(.map-feature),
+    .pm-toggle span {
+      transition: none;
+    }
+  }
+</style>
+
+<script>
+  const FLOATING = "(hover: hover) and (pointer: fine) and (min-width: 40rem)";
+
+  class ProvinceMap extends HTMLElement {
+    #active: SVGAElement | null = null;
+
+    connectedCallback() {
+      const stage = this.querySelector<HTMLElement>(".pm-stage")!;
+      const card = this.querySelector<HTMLElement>(".pm-card")!;
+      const outline = this.querySelector<SVGPathElement>(".pm-outline")!;
+      const links = [...this.querySelectorAll<SVGAElement>("a.map-link")];
+      const floating = window.matchMedia(FLOATING);
+      const set = (sel: string, text: string) => {
+        const el = card.querySelector(sel);
+        if (el) el.textContent = text;
+      };
+
+      const show = (link: SVGAElement, point?: { x: number; y: number }) => {
+        const d = link.dataset;
+        if (this.#active !== link) {
+          this.#active?.classList.remove("is-active");
+          link.classList.add("is-active");
+          this.#active = link;
+          set(".pm-name", d.name ?? "");
+          set(".pm-type", d.type ?? "");
+          set(".pm-capital", d.capital ?? "");
+          set(".pm-joined", d.joined ?? "");
+          set(".pm-pop", d.pop ?? "");
+          set(".pm-go-label", `Go to ${d.name}`);
+          const go = card.querySelector<HTMLAnchorElement>(".pm-go")!;
+          go.href = link.getAttribute("href") ?? "#";
+          outline.setAttribute("d", link.querySelector("path")?.getAttribute("d") ?? "");
+        }
+        this.dataset.active = d.slug;
+        card.dataset.state = "shown";
+        // The docked card's link is only reachable once it has something to show.
+        card.setAttribute("aria-hidden", floating.matches ? "true" : "false");
+        card.querySelector(".pm-go")?.setAttribute("tabindex", floating.matches ? "-1" : "0");
+        if (floating.matches) place(link, point);
+      };
+
+      const hide = () => {
+        if (!floating.matches) return; // The docked card keeps its last province.
+        card.dataset.state = "hidden";
+        this.#active?.classList.remove("is-active");
+        this.#active = null;
+        delete this.dataset.active;
+        outline.setAttribute("d", "");
+      };
+
+      const place = (link: SVGAElement, point?: { x: number; y: number }) => {
+        const box = stage.getBoundingClientRect();
+        let x: number;
+        let y: number;
+        if (point) {
+          x = point.x - box.left + 16;
+          y = point.y - box.top + 16;
+        } else {
+          const r = link.getBoundingClientRect();
+          x = r.left - box.left + r.width / 2;
+          y = r.top - box.top + r.height / 2;
+        }
+        const w = card.offsetWidth;
+        const h = card.offsetHeight;
+        // Flip to the other side of the pointer rather than run off the edge.
+        if (x + w > box.width) x = Math.max(0, (point ? x - 32 : x) - w);
+        if (y + h > box.height) y = Math.max(0, (point ? y - 32 : y) - h);
+        card.style.transform = `translate(${Math.round(x)}px, ${Math.round(y)}px)`;
+      };
+
+      for (const link of links) {
+        link.addEventListener("pointerenter", (e) => {
+          if (e.pointerType === "mouse") show(link, { x: e.clientX, y: e.clientY });
+        });
+        link.addEventListener("pointermove", (e) => {
+          if (e.pointerType === "mouse" && floating.matches) place(link, { x: e.clientX, y: e.clientY });
+        });
+        link.addEventListener("pointerleave", (e) => {
+          if (e.pointerType === "mouse") hide();
+        });
+        link.addEventListener("focus", () => {
+          if (link.matches(":focus-visible")) this.dataset.focusVisible = "";
+          show(link);
+        });
+        link.addEventListener("blur", () => {
+          delete this.dataset.focusVisible;
+          hide();
+        });
+      }
+
+      // On a touch screen the first tap on a province shows its card (with a
+      // link); tapping the same province again follows its link. The tap also
+      // focuses the link, which shows the card, so remember beforehand whether
+      // the card already showed this province.
+      let touchTap = false;
+      let sameAsBefore = false;
+      this.addEventListener(
+        "pointerdown",
+        (e) => {
+          touchTap = e.pointerType === "touch" || e.pointerType === "pen";
+          const link = (e.target as Element).closest?.("a.map-link");
+          sameAsBefore = Boolean(link) && link === this.#active && card.dataset.state === "shown";
+        },
+        { capture: true },
+      );
+      for (const link of links) {
+        link.addEventListener("click", (e) => {
+          if (touchTap && !sameAsBefore) {
+            e.preventDefault();
+            show(link);
+          }
+          touchTap = false;
+        });
+      }
+
+      this.addEventListener("keydown", (e) => {
+        if (e.key === "Escape" && floating.matches && this.#active) hide();
+      });
+      floating.addEventListener("change", () => {
+        card.style.transform = "";
+        card.dataset.state = this.#active ? "shown" : "idle";
+      });
+
+      this.dataset.ready = "";
+    }
+  }
+
+  customElements.define("tn-province-map", ProvinceMap);
+</script>

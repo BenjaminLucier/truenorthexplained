@@ -1,0 +1,17 @@
+{
+  "source": "Statistics Canada, 2021 Census Provinces/territories Cartographic Boundary File (lpr_000b21a)",
+  "url": "https://geo.statcan.gc.ca/geo_wa/rest/services/2021/Cartographic_boundary_files/MapServer/0",
+  "dataset": "https://open.canada.ca/data/en/dataset/ef70dc3b-1069-4037-9bce-61f47e628a1d",
+  "licence": "Open Government Licence – Canada",
+  "licenceUrl": "https://open.canada.ca/en/open-government-licence-canada",
+  "fetched": "2026-11-13",
+  "notes": "Shoreline-clipped cartographic file. Read per province from Statistics Canada's ArcGIS REST service with a 50 m generalization, reprojected from Statistics Canada Lambert (EPSG:3347) to WGS84, islands and lakes under 150 km² dropped, simplified with mapshaper (weighted Visvalingam, 3.9 km interval, keep-shapes), quantized to 1e4.",
+  "object": "provinces",
+  "properties": {
+    "id": "PRUID",
+    "uid": "DGUID",
+    "name_en": "English name",
+    "name_fr": "French name",
+    "slug": "page slug"
+  }
+}

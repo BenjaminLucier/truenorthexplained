@@ -38,6 +38,15 @@
   --tn-party-bq: #0088ce;
   --tn-party-gpc: #3d9b35;
   --tn-party-other: #8a8580;
+
+  /* Data colours: sequential scale (maps, charts). Step 1 is closest to the
+     background, step 6 stands out most. Not for UI chrome. */
+  --tn-data-seq-1: #dbe9f0;
+  --tn-data-seq-2: #b0d2e2;
+  --tn-data-seq-3: #7fb4cf;
+  --tn-data-seq-4: #4f93b9;
+  --tn-data-seq-5: #2c709d;
+  --tn-data-seq-6: #154d76;
 }
 
 [data-theme="dark"] {
@@ -67,6 +76,13 @@
   --tn-party-bq: #3cb4e6;
   --tn-party-gpc: #5cbf52;
   --tn-party-other: #a19e98;
+
+  --tn-data-seq-1: #1c3340;
+  --tn-data-seq-2: #22495e;
+  --tn-data-seq-3: #2a6580;
+  --tn-data-seq-4: #3b86a6;
+  --tn-data-seq-5: #62a9c8;
+  --tn-data-seq-6: #9ccfe4;
 }
 
 /* No-JavaScript fallback: follow the system setting. */
@@ -91,6 +107,13 @@
     --tn-danger: #ff8b80;
     --tn-danger-soft: #3a1d1b;
     --tn-focus: #ff6b75;
+
+    --tn-data-seq-1: #1c3340;
+    --tn-data-seq-2: #22495e;
+    --tn-data-seq-3: #2a6580;
+    --tn-data-seq-4: #3b86a6;
+    --tn-data-seq-5: #62a9c8;
+    --tn-data-seq-6: #9ccfe4;
   }
 }
 
@@ -123,6 +146,12 @@
   --color-party-bq: var(--tn-party-bq);
   --color-party-gpc: var(--tn-party-gpc);
   --color-party-other: var(--tn-party-other);
+  --color-data-seq-1: var(--tn-data-seq-1);
+  --color-data-seq-2: var(--tn-data-seq-2);
+  --color-data-seq-3: var(--tn-data-seq-3);
+  --color-data-seq-4: var(--tn-data-seq-4);
+  --color-data-seq-5: var(--tn-data-seq-5);
+  --color-data-seq-6: var(--tn-data-seq-6);
 
   --font-sans: "Inter Variable", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
 

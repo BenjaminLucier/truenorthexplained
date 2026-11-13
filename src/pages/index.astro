@@ -3,6 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import Icon from "../components/Icon.astro";
 import MapleLeaf from "../components/MapleLeaf.astro";
 import ModuleIcon from "../components/ModuleIcon.astro";
+import ProvinceMap from "../widgets/province-map/index.astro";
 import { getPage, href, modules, provinces } from "../lib/site";
 import { t } from "../i18n/en";
 
@@ -124,6 +125,9 @@ const reference = [
       <Icon name="Map" class="size-8 text-accent" />
       <h2 class="mt-4 text-2xl font-bold tracking-tight text-primary">Provinces and territories</h2>
       <p class="mt-2 text-secondary">All 13, and what makes each one different.</p>
+      <div class="mt-6">
+        <ProvinceMap compact />
+      </div>
       <ul class="mt-6 flex flex-wrap gap-2">
         {
           provs.map((p) => (
