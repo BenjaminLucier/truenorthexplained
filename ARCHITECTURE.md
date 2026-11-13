@@ -85,6 +85,65 @@ A widget is a normal Astro component:
 
 Widgets can also be imported directly by `.astro` pages.
 
+## Charts
+
+Charts are SVG or HTML drawn at build time, with no chart library. The shared pieces
+live in `src/components/charts/`:
+
+| File | What it is |
+|---|---|
+| `ChartCard.astro` | The card round every chart: title, lede, the chart (default slot), a "Show the data" table (`table` slot) and the sources. |
+| `Legend.astro` | The one legend: `items` of `{ label, color, kind }`, where `kind` is `swatch` (default), `light`, `outline`, `line`, `dash`, `dot`, `band` or `shade`. `size="sm"` for a larger legend. |
+| `ChartTip.astro` | The one tooltip: the `<tn-chart>` custom element, its tooltip box and styles. |
+| `SeriesChart.astro` | Lines, bars, bands and notes over a numeric x axis. Its `hover` prop adds a crosshair tooltip. |
+| `TimePlot.astro` | The frame for election-history charts (1867 to today on `xOf`). |
+
+`src/lib/charts.ts` has the scales and path helpers, plus `tipRows` and `formatValue`
+for tooltips. Colours are tokens (`var(--tn-data-cat-1)`, `var(--tn-party-lpc)`…).
+
+**Making a chart interactive.** Wrap it in `<tn-chart>`, put `<ChartTip />` inside, and
+mark each hoverable thing (a bar, a column, a point's hit area) as a *stop* with
+`data-tip`:
+
+```astro
+<tn-chart role="group" aria-label="Seats by province. Use the arrow keys to move between provinces.">
+  <svg>…
+    <rect data-tip data-tip-title="Ontario" data-tip-rows={tipRows([["Seats", "122", color]])} data-group="on" />
+  …</svg>
+  <ChartTip />
+</tn-chart>
+```
+
+- **Tooltip content.** Either `data-tip=""` plus `data-tip-title`, `data-tip-sub`,
+  `data-tip-note` and `data-tip-rows` (JSON `[label, value?, colour?][]`, made with
+  `tipRows`), or `data-tip="some-id"` naming a `<template id="some-id">` with richer
+  markup using the `ct-h`, `ct-sub`, `ct-p`, `ct-rows` (a table; `ct-strong` row) and
+  `ct-sw` (swatch, `style="--sw: …"`) classes.
+- **Accessible name.** Give stops an `aria-label` with the same facts, or leave it off and
+  `<tn-chart>` writes one from the tooltip text. Stops get `role="img"` if they have no
+  role. The tooltip itself is `aria-hidden`. Label the chart (`role="group"` and
+  `aria-label` on `<tn-chart>` or on the SVG holding the stops), and always give the
+  card a `table` slot: it's the text alternative with JavaScript off.
+- **Keyboard.** The chart is one tab stop: the stop with `data-start`, else the first.
+  Left/Right (and Up/Down) step through stops in document order, PageUp/PageDown jump a
+  tenth, Home/End go to the ends, Escape hides the tooltip. Stops with `data-row="n"`
+  make rows, and Up/Down go to the nearest stop in the next row. `data-nav="grid"` on
+  `<tn-chart>` makes the arrows move to the nearest stop on screen instead, for grids
+  whose layout changes with width. Hidden stops are skipped.
+- **Pointer.** Mouse hover shows the tooltip beside the pointer; a tap (or a drag) shows
+  it above the stop, and tapping elsewhere hides it. `data-tip-place="side"` on
+  `<tn-chart>` puts it beside the stop instead, or beside the element in the same group
+  marked `data-tip-anchor` (a crosshair line, say).
+- **Highlighting.** While a stop is active, it and every element with the same
+  `data-group` get `.is-active`, and `<tn-chart>` gets `data-active`. Style those in the
+  widget (dim the others, show a guide line or dots). SVG stops get no browser focus
+  outline, so style `:focus-visible` or `.is-active` for them; HTML stops keep the
+  site's focus ring.
+
+`src/components/reference/LineChart.astro` (static population lines) and
+`TermTimeline.astro` (terms as links) predate this and have no tooltips. For a new
+chart over time, use `SeriesChart` with `hover`.
+
 ## Content pages
 
 - Pages are `content/**/*.en.md`, with ids derived by `src/lib/paths.ts`.

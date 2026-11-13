@@ -39,10 +39,10 @@ const sources = [
 >
   <Legend
     items={[
-      { label: "Revenue", color: REV },
-      { label: "Spending", color: SPEND },
-      { label: "Deficit (spending above revenue)", color: DEFICIT, kind: "band" },
-      { label: "Surplus", color: SURPLUS, kind: "band" },
+      { label: "Revenue", color: REV, kind: "line" },
+      { label: "Spending", color: SPEND, kind: "line" },
+      { label: "Deficit (spending above revenue)", color: DEFICIT, kind: "shade" },
+      { label: "Surplus", color: SURPLUS, kind: "shade" },
     ]}
   />
   <p class="mt-3 text-xs font-medium text-muted">Per cent of GDP</p>

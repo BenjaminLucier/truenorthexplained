@@ -6,7 +6,9 @@
  */
 import ChartCard from "../../components/charts/ChartCard.astro";
 import data from "../../data/demographics/immigrant-origins.json";
-import ChartTips from "./ChartTips.astro";
+import ChartTip from "../../components/charts/ChartTip.astro";
+import Legend from "../../components/charts/Legend.astro";
+import { tipRows } from "../../lib/charts";
 
 type Key = "europe" | "asia" | "americas" | "africa" | "other";
 const COLORS: Record<Key, string> = {
@@ -36,21 +38,12 @@ const millions = (n: number) => `${(n / 1e6).toFixed(1)} million`;
   sources={[{ label: "Statistics Canada, table 98-10-0302-01: immigrant status and period of immigration by place of birth (2021 Census)", url: data._meta.url }]}
   tableLabel="Show the data"
 >
-  <ul class="flex flex-wrap gap-x-5 gap-y-1.5 text-sm text-secondary">
-    {
-      regions.map((r) => (
-        <li class="inline-flex items-center gap-2">
-          <span class="io-swatch" style={`--swatch:${COLORS[r.key]}`} aria-hidden="true" />
-          {r.name}
-        </li>
-      ))
-    }
-  </ul>
+  <Legend size="sm" items={regions.map((r) => ({ label: r.name, color: COLORS[r.key] }))} />
 
-  <ChartTips label="Immigrants by period of arrival and region of birth" class="mt-4">
+  <tn-chart class="mt-4" role="group" aria-label="Immigrants by period of arrival and region of birth. Use the arrow keys to step through the values.">
     <div class="space-y-3">
       {
-        periods.map((p) => (
+        periods.map((p, row) => (
           <div>
             <p class="flex items-baseline justify-between gap-3 text-sm">
               <span class="font-medium text-primary">Arrived {p.label === "Before 1980" ? "before 1980" : p.label.replace(" to ", "–")}</span>
@@ -59,13 +52,15 @@ const millions = (n: number) => `${(n / 1e6).toFixed(1)} million`;
             <div class="io-bar mt-1">
               {regions.map((r) => {
                 const share = p.shares[r.key];
-                const tip = `${num.format(p[r.key] as number)} people|${share.toFixed(1)}% of this period's immigrants`;
+                const tip = tipRows([[`${num.format(p[r.key] as number)} people`], [`${share.toFixed(1)}% of this period's immigrants`]]);
                 return (
                   <span
                     class="io-seg"
                     style={`--w:${share.toFixed(2)}%;--c:${COLORS[r.key]}`}
                     data-tip-title={`${r.name}, arrived ${p.label.toLowerCase()}`}
-                    data-tip={tip}
+                    data-tip=""
+                    data-tip-rows={tip}
+                    data-row={row}
                   >
                     {share >= 9 && <span class="io-label">{pct(share)}</span>}
                   </span>
@@ -76,7 +71,8 @@ const millions = (n: number) => `${(n / 1e6).toFixed(1)} million`;
         ))
       }
     </div>
-  </ChartTips>
+    <ChartTip />
+  </tn-chart>
   <p class="mt-4 text-xs text-muted">
     These are the {millions(data.total)} immigrants counted by the {2021} Census. People who came long ago and have
     since died or moved away aren't counted, which is why the earliest bar covers far fewer people than actually arrived
@@ -121,12 +117,6 @@ const millions = (n: number) => `${(n / 1e6).toFixed(1)} million`;
   names are specific to this chart.
 -->
 <style is:global>
-  .io-swatch {
-    width: 0.875rem;
-    height: 0.875rem;
-    border-radius: 0.2rem;
-    background: var(--swatch);
-  }
   .io-bar {
     display: flex;
     gap: 2px;
@@ -153,6 +143,7 @@ const millions = (n: number) => `${(n / 1e6).toFixed(1)} million`;
       0 0 0 3.5px var(--tn-text-primary);
   }
   .io-seg:focus-visible {
+    outline: none;
     box-shadow:
       0 0 0 2px var(--tn-surface),
       0 0 0 4px var(--tn-focus);

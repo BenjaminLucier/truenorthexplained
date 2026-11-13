@@ -1,24 +1,58 @@
 ---
-/** A row of legend keys: a line, dashed line, filled box or tinted band, each with a label. */
-interface Props {
-  items: { label: string; color: string; kind?: "line" | "dashed" | "box" | "band" }[];
+/**
+ * The site's one chart legend: a row of keys that wraps. Each key is drawn in
+ * a colour token with its label in text ink. It's a plain list, so screen
+ * readers hear the labels; the keys themselves are decorative.
+ *
+ *   <Legend items={[{ label: "Revenue", color: "var(--tn-data-cat-1)", kind: "line" }]} />
+ *
+ * Kinds: `swatch` (a filled square, the default), `light` (a tinted square
+ * with an outline, e.g. a minority government), `outline`, `line`, `dash`,
+ * `dot`, `band` (a wide strip in the colour as given, e.g. `--tn-data-band`)
+ * and `shade` (a wide strip at the 28% tint charts use for shaded areas).
+ * `size="sm"` gives larger text and keys, for legends that head a whole card.
+ */
+export interface LegendItem {
+  label: string;
+  /** A CSS colour, normally a token: "var(--tn-data-cat-1)". */
+  color: string;
+  kind?: "swatch" | "light" | "outline" | "line" | "dash" | "dot" | "band" | "shade";
+  /** Extra classes for this key, e.g. to hide it with the chart's own controls. */
   class?: string;
 }
-const { items, class: className } = Astro.props;
+interface Props {
+  items: LegendItem[];
+  size?: "xs" | "sm";
+  class?: string;
+}
+const { items, size = "xs", class: className } = Astro.props;
+const sm = size === "sm";
+// Key height: 10 for xs, 14 for sm.
+const H = sm ? 14 : 10;
+const S = H; // square side
+const wide = (kind: string) => ["line", "dash", "band", "shade"].includes(kind);
 ---
 
-<ul class:list={["flex flex-wrap gap-x-5 gap-y-1.5 text-xs text-secondary", className]}>
+<ul class:list={["flex flex-wrap text-secondary", sm ? "gap-x-5 gap-y-1 text-sm" : "gap-x-4 gap-y-1.5 text-xs", className]}>
   {
-    items.map((it) => (
-      <li class="inline-flex items-center gap-1.5">
-        <svg class="h-3 w-5 shrink-0" viewBox="0 0 20 12" aria-hidden="true">
-          {(it.kind ?? "line") === "line" && <line x1="1" x2="19" y1="6" y2="6" stroke={it.color} stroke-width="2.5" stroke-linecap="round" />}
-          {it.kind === "dashed" && <line x1="1" x2="19" y1="6" y2="6" stroke={it.color} stroke-width="2.5" stroke-dasharray="4 3" />}
-          {it.kind === "box" && <rect x="3" y="1" width="14" height="10" rx="2" fill={it.color} />}
-          {it.kind === "band" && <rect x="1" y="1" width="18" height="10" rx="2" fill={it.color} fill-opacity={it.color.includes("band") ? 1 : 0.28} />}
-        </svg>
-        {it.label}
-      </li>
-    ))
+    items.map(({ label, color, kind = "swatch", class: itemClass }) => {
+      // xs keys share one 16×10 box so rows of keys line up; sm square keys get a square box.
+      const W = !sm ? 16 : wide(kind) ? 20 : S;
+      const sx = (W - S) / 2;
+      return (
+        <li class:list={["inline-flex items-center", sm ? "gap-2" : "gap-1.5", itemClass]}>
+          <svg viewBox={`0 0 ${W} ${H}`} class:list={["shrink-0 overflow-visible", sm ? "h-3.5" : "h-2.5", !sm ? "w-4" : wide(kind) ? "w-5" : "w-3.5"]} aria-hidden="true">
+            {kind === "swatch" && <rect width={S} height={S} x={sx} rx={sm ? 3 : 2} fill={color} />}
+            {kind === "light" && <rect width={S - 1} height={S - 1} x={sx + 0.5} y="0.5" rx="2" fill={color} fill-opacity="0.3" stroke={color} />}
+            {kind === "outline" && <rect width={S - 1.5} height={S - 1.5} x={sx + 0.75} y="0.75" rx="2" fill="none" stroke={color} stroke-width="1.5" />}
+            {kind === "line" && <line x1="0" x2={W} y1={H / 2} y2={H / 2} stroke={color} stroke-width="2" stroke-linecap="round" />}
+            {kind === "dash" && <line x1="0" x2={W} y1={H / 2} y2={H / 2} stroke={color} stroke-width="2" stroke-dasharray="3 2.5" />}
+            {kind === "dot" && <circle cx={W / 2} cy={H / 2} r={H / 2 - 1} fill={color} />}
+            {(kind === "band" || kind === "shade") && <rect width={W} height={H} rx="2" fill={color} fill-opacity={kind === "shade" ? 0.28 : 1} />}
+          </svg>
+          {label}
+        </li>
+      );
+    })
   }
 </ul>

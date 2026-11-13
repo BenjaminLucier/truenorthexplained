@@ -4,9 +4,10 @@
  * 2021. Data: src/data/demographics/urban-rural.json.
  */
 import ChartCard from "../../components/charts/ChartCard.astro";
-import { PLOT_W, areaPath, linePath, pct, scale } from "../../lib/charts";
+import { PLOT_W, areaPath, linePath, pct, scale, tipRows } from "../../lib/charts";
 import data from "../../data/demographics/urban-rural.json";
-import ChartTips from "./ChartTips.astro";
+import ChartTip from "../../components/charts/ChartTip.astro";
+import Legend from "../../components/charts/Legend.astro";
 
 const pts = data.points;
 const hist = pts.filter((p) => p.year <= 1971);
@@ -30,7 +31,11 @@ const x = scale(first.year, now.year, 0, PLOT_W);
 const y = scale(0, 100, plotH, 0);
 const label = (p: (typeof pts)[number]) => (p.definition === "population-centre" ? "population centres" : "urban areas");
 const tip = (p: (typeof pts)[number]) =>
-  `Urban: ${fmt(p.urbanPct)} (${num.format(p.urban)})|Rural: ${fmt(100 - p.urbanPct)} (${num.format(p.rural)})|Counted as urban: ${label(p)}`;
+  tipRows([
+    ["Urban", `${fmt(p.urbanPct)} (${num.format(p.urban)})`],
+    ["Rural", `${fmt(100 - p.urbanPct)} (${num.format(p.rural)})`],
+    ["Counted as urban", label(p)],
+  ]);
 const xTicks = [1871, 1901, 1931, 1961, 2021];
 const lastHist = hist.at(-1)!;
 /** Hit areas: from halfway to the previous census to halfway to the next. */
@@ -50,17 +55,14 @@ const hit = pts.map((p, i) => {
   ]}
   tableLabel="Show the data"
 >
-  <ul class="flex flex-wrap gap-x-5 gap-y-1 text-sm text-secondary">
-    <li class="inline-flex items-center gap-2">
-      <span class="h-0.5 w-5 rounded bg-accent" aria-hidden="true"></span>
-      Share living in urban areas, at each census
-    </li>
-    <li class="inline-flex items-center gap-2">
-      <span class="w-5 border-t-2 border-dashed border-strong" aria-hidden="true"></span>
-      No comparable figures for 1976–2016
-    </li>
-  </ul>
-  <ChartTips label="Urban share by census year" class="mt-3">
+  <Legend
+    size="sm"
+    items={[
+      { label: "Share living in urban areas, at each census", color: "var(--tn-accent)", kind: "line" },
+      { label: "No comparable figures for 1976–2016", color: "var(--tn-border-strong)", kind: "dash" },
+    ]}
+  />
+  <tn-chart class="mt-3" role="group" aria-label="Urban share by census year. Use the arrow keys to step through the values.">
     <svg class="block w-full overflow-visible" height={H} style="font-variant-numeric: tabular-nums">
       {
         [0, 25, 50, 75, 100].map((v) => (
@@ -110,7 +112,7 @@ const hit = pts.map((p, i) => {
       </text>
       {
         pts.map((p, i) => (
-          <g class="ur-pt" data-tip-title={`${p.year} census`} data-tip={tip(p)}>
+          <g class="ur-pt" data-tip="" data-tip-title={`${p.year} census`} data-tip-rows={tip(p)}>
             <rect class="ur-hit" x={pct(hit[i]!.from)} y={T} width={pct(hit[i]!.width)} height={plotH} />
             <line class="ur-guide" x1={pct(x(p.year))} x2={pct(x(p.year))} y1={T} y2={T + plotH} />
             <circle
@@ -124,7 +126,8 @@ const hit = pts.map((p, i) => {
         ))
       }
     </svg>
-  </ChartTips>
+    <ChartTip />
+  </tn-chart>
 
   <Fragment slot="table">
     <table>

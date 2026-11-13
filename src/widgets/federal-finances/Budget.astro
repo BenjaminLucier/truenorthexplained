@@ -2,6 +2,7 @@
 /** Where the money comes from and where it goes, in the latest fiscal year. */
 import ChartCard from "../../components/charts/ChartCard.astro";
 import ChartTip from "../../components/charts/ChartTip.astro";
+import { tipRows } from "../../lib/charts";
 import { finances, formatDollars, formatMillions } from "../../lib/money";
 
 const L = finances.latest;
@@ -40,15 +41,15 @@ const biggestRevenue = [...revenue].sort((a, b) => b.value - a.value)[0]!;
 const biggestGroup = [...groups].sort((a, b) => b.value - a.value)[0]!;
 const debt = groups.find((g) => g.key === "debt");
 
-const tipRows = (label: string, v: number, total: number, color: string) =>
-  JSON.stringify([
+const rowsFor = (label: string, v: number, total: number, color: string) =>
+  tipRows([
     [label, formatMillions(v), color],
     ["Share", share(v, total)],
     ["Per person", perPerson(v)],
   ]);
 const segments = {
-  revenue: revenue.map((r) => ({ label: r.label, value: r.value, color: r.color, rows: tipRows("Amount", r.value, L.revenue.total, r.color) })),
-  spending: groups.map((g) => ({ label: g.label, value: g.value, color: g.color, rows: tipRows("Amount", g.value, L.expenses.total, g.color) })),
+  revenue: revenue.map((r) => ({ label: r.label, value: r.value, color: r.color, rows: rowsFor("Amount", r.value, L.revenue.total, r.color) })),
+  spending: groups.map((g) => ({ label: g.label, value: g.value, color: g.color, rows: rowsFor("Amount", g.value, L.expenses.total, g.color) })),
 };
 ---
 
@@ -58,7 +59,7 @@ const segments = {
   sources={[{ label: `Finance Canada, Fiscal Reference Tables (${finances.edition}), tables 3, 6, 7, 10 and 11`, url: finances._meta.url }]}
   tableLabel="Show the data"
 >
-  <tn-tips class="relative block">
+  <tn-chart data-tip-place="side" role="group" aria-label="Revenue and spending by category; use the arrow keys to move between categories">
     <div class="grid grid-cols-[4.5rem_1fr] items-center gap-x-3 gap-y-3 sm:grid-cols-[6rem_1fr]">
       {
         (
@@ -66,7 +67,7 @@ const segments = {
             ["Revenue", segments.revenue, L.revenue.total],
             ["Spending", segments.spending, L.expenses.total],
           ] as const
-        ).map(([name, segs, total]) => (
+        ).map(([name, segs, total], row) => (
           <>
             <p class="text-sm font-medium text-primary">
               {name}
@@ -77,10 +78,11 @@ const segments = {
                 {segs.map((s) => (
                   <span
                     role="img"
-                    tabindex="0"
                     class="h-full border-e-2 border-surface last:border-e-0 focus-visible:outline-offset-0"
                     style={`width:${((100 * s.value) / total).toFixed(2)}%;background:${s.color}`}
-                    data-tip={s.label}
+                    data-tip=""
+                    data-tip-title={s.label}
+                    data-row={row}
                     data-tip-rows={s.rows}
                     aria-label={`${s.label}: ${formatMillions(s.value)}, ${share(s.value, total)} of ${name.toLowerCase()}`}
                   />
@@ -90,10 +92,11 @@ const segments = {
                 <span
                   class="ms-0.5 flex h-full items-center justify-center rounded-md border-2 border-dashed border-strong"
                   style={`width:${((100 * -gap) / max).toFixed(2)}%`}
-                  tabindex="0"
                   role="img"
-                  data-tip="Deficit: spending not covered by revenue"
-                  data-tip-rows={JSON.stringify([
+                  data-tip=""
+                  data-tip-title="Deficit: spending not covered by revenue"
+                  data-row={row}
+                  data-tip-rows={tipRows([
                     ["Amount", formatMillions(-gap)],
                     ["Per person", perPerson(-gap)],
                   ])}
@@ -113,7 +116,7 @@ const segments = {
       )
     }
     <ChartTip />
-  </tn-tips>
+  </tn-chart>
 
   <div class="mt-6 grid gap-6 sm:grid-cols-2">
     <div>
@@ -235,7 +238,3 @@ const segments = {
     </table>
   </Fragment>
 </ChartCard>
-
-<script>
-  import "../../scripts/chart-tips";
-</script>

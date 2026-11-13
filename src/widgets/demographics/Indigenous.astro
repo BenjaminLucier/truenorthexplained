@@ -6,7 +6,9 @@
  */
 import ChartCard from "../../components/charts/ChartCard.astro";
 import data from "../../data/demographics/indigenous.json";
-import ChartTips from "./ChartTips.astro";
+import ChartTip from "../../components/charts/ChartTip.astro";
+import Legend from "../../components/charts/Legend.astro";
+import { tipRows } from "../../lib/charts";
 
 const GROUPS = [
   { key: "firstNations", label: "First Nations", color: "var(--tn-data-cat-1)" },
@@ -41,7 +43,7 @@ const under15 = (k: "indigenous" | "nonIndigenous") => (100 * ages.find((a) => a
 const over65 = (k: "indigenous" | "nonIndigenous") => (100 * ages.find((a) => a.age === "65 and older")![k]) / sum(k);
 const pc = (v: number) => `${v.toFixed(1)}%`;
 const tip = (c: Census, g: (typeof GROUPS)[number], denom: number, of: string) =>
-  `${num.format(part(c, g.key))} people|${pc((100 * part(c, g.key)) / denom)} of ${of}`;
+  tipRows([[`${num.format(part(c, g.key))} people`], [`${pc((100 * part(c, g.key)) / denom)} of ${of}`]]);
 ---
 
 <ChartCard
@@ -50,22 +52,13 @@ const tip = (c: Census, g: (typeof GROUPS)[number], denom: number, of: string) =
   sources={[{ label: "Statistics Canada, table 98-10-0292-01: Indigenous identity population by gender and age (2011, 2016 and 2021)", url: data._meta.url }]}
   tableLabel="Show the data"
 >
-  <ul class="flex flex-wrap gap-x-5 gap-y-1.5 text-sm text-secondary">
-    {
-      GROUPS.map((g) => (
-        <li class="inline-flex items-center gap-2">
-          <span class="ig-swatch" style={`--swatch:${g.color}`} aria-hidden="true" />
-          {g.label}
-        </li>
-      ))
-    }
-  </ul>
+  <Legend size="sm" items={GROUPS.map((g) => ({ label: g.label, color: g.color }))} />
 
   <p class="mt-4 text-sm font-semibold text-primary">People who identified as Indigenous, by census</p>
-  <ChartTips label="Indigenous population by census and group" class="mt-2">
+  <tn-chart class="mt-2" role="group" aria-label="Indigenous population by census and group. Use the arrow keys to step through the values.">
     <div class="space-y-2">
       {
-        byYear.map((c) => (
+        byYear.map((c, row) => (
           <div class="grid grid-cols-[2.75rem_1fr] items-center gap-3">
             <span class="text-sm text-secondary tabular-nums">{c.year}</span>
             <div class="flex items-center gap-2">
@@ -75,7 +68,9 @@ const tip = (c: Census, g: (typeof GROUPS)[number], denom: number, of: string) =
                     class="ig-seg"
                     style={`--w:${((100 * part(c, g.key)) / c.indigenous).toFixed(2)}%;--c:${g.color}`}
                     data-tip-title={`${g.label}, ${c.year}`}
-                    data-tip={tip(c, g, c.indigenous, "Indigenous people")}
+                    data-tip=""
+                    data-tip-rows={tip(c, g, c.indigenous, "Indigenous people")}
+                    data-row={row}
                   />
                 ))}
               </div>
@@ -85,7 +80,8 @@ const tip = (c: Census, g: (typeof GROUPS)[number], denom: number, of: string) =
         ))
       }
     </div>
-  </ChartTips>
+    <ChartTip />
+  </tn-chart>
   <p class="mt-2 text-xs text-muted">
     Bar length is the number of people. The {c0.year} figures come from the voluntary National Household Survey, so they
     compare less well. Growth comes from births and also from more people identifying as Indigenous over time.
@@ -96,10 +92,10 @@ const tip = (c: Census, g: (typeof GROUPS)[number], denom: number, of: string) =
     {`In ${places[0]!.name}, ${pc(places[0]!.now.sharePct)} of people are Indigenous, mostly Inuit; in the ${places[1]!.name}, ${pc(places[1]!.now.sharePct)}.`} Among the provinces, the share is highest in {topProvince.name} (
     {pc(topProvince.now.sharePct)}).
   </p>
-  <ChartTips label={`Indigenous share of the population by province and territory, ${cN.year}`} class="mt-3">
+  <tn-chart class="mt-3" role="group" aria-label={`Indigenous share of the population by province and territory, ${cN.year}. Use the arrow keys to step through the values.`}>
     <div class="space-y-1.5">
       {
-        places.map((p) => (
+        places.map((p, row) => (
           <div class="grid grid-cols-[7.5rem_1fr] items-center gap-3 sm:grid-cols-[11rem_1fr]">
             <span class="truncate text-xs text-secondary sm:text-sm">{p.name}</span>
             <div class="flex items-center gap-2">
@@ -109,7 +105,9 @@ const tip = (c: Census, g: (typeof GROUPS)[number], denom: number, of: string) =
                     class="ig-seg"
                     style={`--w:${((100 * part(p.now, g.key)) / p.now.indigenous).toFixed(2)}%;--c:${g.color}`}
                     data-tip-title={`${p.name}: ${g.label}`}
-                    data-tip={tip(p.now, g, p.now.total, `the population of ${p.name}`)}
+                    data-tip=""
+                    data-tip-rows={tip(p.now, g, p.now.total, `the population of ${p.name}`)}
+                    data-row={row}
                   />
                 ))}
               </div>
@@ -119,7 +117,8 @@ const tip = (c: Census, g: (typeof GROUPS)[number], denom: number, of: string) =
         ))
       }
     </div>
-  </ChartTips>
+    <ChartTip />
+  </tn-chart>
   <p class="mt-2 text-xs text-muted">
     Canada as a whole: {pc(cN.sharePct)}. {pc(over65("indigenous"))} of Indigenous people were 65 or older in {cN.year},
     against {pc(over65("nonIndigenous"))} of non-Indigenous people.
@@ -173,12 +172,6 @@ const tip = (c: Census, g: (typeof GROUPS)[number], denom: number, of: string) =
   names are specific to this chart.
 -->
 <style is:global>
-  .ig-swatch {
-    width: 0.875rem;
-    height: 0.875rem;
-    border-radius: 0.2rem;
-    background: var(--swatch);
-  }
   .ig-bar {
     display: flex;
     gap: 2px;
@@ -205,6 +198,7 @@ const tip = (c: Census, g: (typeof GROUPS)[number], denom: number, of: string) =
       0 0 0 3.5px var(--tn-text-primary);
   }
   .ig-seg:focus-visible {
+    outline: none;
     box-shadow:
       0 0 0 2px var(--tn-surface),
       0 0 0 4px var(--tn-focus);
