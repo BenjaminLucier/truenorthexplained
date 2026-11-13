@@ -1,0 +1,104 @@
+# Institutions and offices. Id: org:<id>.
+#
+# Fields (see src/lib/entities.ts):
+#   id, name, page (required: the page or #anchor that explains it best),
+#   short?, aliases?, summary?, url?, people? (person ids), entities? (any ids)
+#
+# An office (Governor General, Prime Minister) is an org; the people who held
+# it are person: entities derived from src/data/wikidata.
+# Only facts already stated on the site's pages belong here.
+
+- id: crown
+  name: The Crown
+  summary: The institution where legal authority comes from, personified by the monarch.
+  page: /learn/crown
+
+- id: parliament
+  name: Parliament of Canada
+  short: Parliament
+  summary: Canada's federal law-making body, made up of the King (represented by the Governor General), the Senate and the House of Commons (s. 17).
+  page: /learn/parliament
+  entities: [doc:constitution-act-1867/s17]
+
+- id: house-of-commons
+  name: House of Commons
+  short: the House
+  summary: The elected chamber of Parliament, with one MP per riding.
+  page: /learn/parliament
+  url: https://www.ourcommons.ca/members/en
+
+- id: senate
+  name: Senate
+  aliases: [Senate of Canada]
+  summary: Parliament's appointed upper house, whose seats are divided by region.
+  page: /learn/parliament/senate
+  url: https://sencanada.ca/en/about/
+
+- id: governor-general
+  name: Governor General
+  aliases: [Governor General of Canada]
+  summary: The King's representative at the federal level.
+  page: /learn/crown/governor-general#the-governor-general
+  url: https://www.gg.ca/en/governor-general/role-and-responsibilities
+
+- id: prime-minister
+  name: Prime Minister
+  aliases: [Prime Minister of Canada]
+  summary: The head of government; the office isn't created anywhere in the Constitution Act, 1867 and exists by convention.
+  page: /learn/elections/cabinet-and-pmo#how-much-power-does-the-pm-have
+
+- id: cabinet
+  name: Cabinet
+  summary: The Prime Minister and the ministers they choose; the government's main decision-making body.
+  page: /learn/elections/cabinet-and-pmo#cabinet
+
+- id: pmo
+  name: Prime Minister's Office
+  short: PMO
+  summary: The Prime Minister's own partisan political staff.
+  page: /learn/elections/cabinet-and-pmo#the-prime-ministers-office-pmo
+
+- id: pco
+  name: Privy Council Office
+  short: PCO
+  summary: The Prime Minister's non-partisan public service department, led by the Clerk of the Privy Council.
+  page: /learn/elections/cabinet-and-pmo#the-privy-council-office-pco
+  url: https://www.canada.ca/en/privy-council.html
+
+- id: supreme-court
+  name: Supreme Court of Canada
+  short: the Supreme Court
+  summary: Canada's final court of appeal, with nine judges, at least three from Quebec.
+  page: /learn/law/supreme-court
+  entities: [doc:constitution-act-1867/s101]
+
+- id: bank-of-canada
+  name: Bank of Canada
+  summary: Canada's central bank, a special federal Crown corporation.
+  page: /learn/government/bank-of-canada-vs-mint#what-the-bank-of-canada-does
+  url: https://www.bankofcanada.ca/about/
+
+- id: royal-canadian-mint
+  name: Royal Canadian Mint
+  short: the Mint
+  summary: The Crown corporation that manufactures Canada's coins.
+  page: /learn/government/bank-of-canada-vs-mint#what-the-mint-does
+  url: https://www.mint.ca/
+
+- id: elections-canada
+  name: Elections Canada
+  summary: The independent, non-partisan agency that runs federal elections, headed by the Chief Electoral Officer.
+  page: /learn/elections/election-day#elections-canada
+
+- id: auditor-general
+  name: Auditor General of Canada
+  short: Auditor General
+  summary: The officer of Parliament who audits the federal government's finances and programs.
+  page: /learn/government/watchdogs#the-auditor-general
+  url: https://www.canada.ca/en/auditor-general/
+
+- id: parliamentary-budget-officer
+  name: Parliamentary Budget Officer
+  short: PBO
+  summary: The officer of Parliament who gives MPs and senators independent analysis of the economy and the government's finances.
+  page: /learn/government/watchdogs#the-parliamentary-budget-officer

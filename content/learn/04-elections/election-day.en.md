@@ -67,9 +67,9 @@ census, independent commissions in each province redraw riding boundaries so the
 population changes. The number of seats per province is set by a formula in the Constitution
 and federal law.
 
-> **As of 2026:** There are 343 ridings, in effect since the 2025 general election.
+> **As of 2026:** There are {{ridings.count}} ridings, in effect since the 2025 general election.
 
-The [ridings map](/ridings) shows all 343, with each one's 2025 result, and can find the
+The [ridings map](/ridings) shows all {{ridings.count}}, with each one's 2025 result, and can find the
 riding you live in.
 
 The formula starts from population, but the Constitution also guarantees smaller and slower-growing

@@ -40,8 +40,9 @@ roles are legally separate. Canada's monarch acts on Canadian advice for Canadia
 matters. Since 1953, the monarch's Canadian title has included "Queen" or "King of
 Canada".
 
-> **As of 2026:** Charles III is King of Canada. He became King on the death of
+> **As of 2026:** {{monarch.name}} is King of Canada. He became King on the death of
 > Elizabeth II in September 2022 and was crowned in May 2023.
+<!-- check: the rest of this note (accession, coronation, "He") is about Charles III; rewrite it if monarch.name changes -->
 
 The written Constitution puts the Crown at the centre:
 

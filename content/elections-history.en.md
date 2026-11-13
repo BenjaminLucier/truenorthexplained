@@ -5,7 +5,7 @@ summary: "Every federal general election since 1867 in six charts: who won the s
 status: draft
 ---
 
-Canadians have voted in 45 federal general elections since Confederation. Each one fills
+Canadians have voted in {{elections.count}} federal general elections since Confederation. Each one fills
 every seat in the House of Commons, and whoever can hold the House's
 [confidence](/learn/parliament/confidence) forms the government. Hover over or tap any
 chart, or tab to it and use the arrow keys, to see each election's numbers. Every chart

@@ -1,7 +1,9 @@
 /**
  * Content checks that the Astro build doesn't cover on its own:
- * internal links, quiz page references, pages without questions, and the
- * review markers (`<!-- check -->`, `<!-- unverified link -->`).
+ * internal links, quiz page references, pages without questions, the
+ * semantic layer (entity links `[…](type:slug)`, `about:` ids, the entity YAML
+ * and its page targets, `{{fact}}` keys) and the review markers
+ * (`<!-- check -->`, `<!-- unverified link -->`, and `# check:` in YAML).
  *
  *   pnpm validate          check everything
  *   pnpm review            also regenerate REVIEW.md
@@ -14,6 +16,8 @@ import { glob } from "node:fs/promises";
 import { relative, resolve } from "node:path";
 import { parse } from "yaml";
 import { sitePathFromEntry } from "../src/lib/paths.ts";
+import { ENTITY_LINK_RE, allEntities, checkEntityPages, entityNotes, getEntity } from "../src/lib/entities.ts";
+import { FACT_LIKE_RE, FACT_RE, allFacts, getFact } from "../src/lib/facts.ts";
 
 const ROOT = resolve(import.meta.dirname, "..");
 const CONTENT = resolve(ROOT, "content");
@@ -33,7 +37,42 @@ const pages = new Map(pageFiles.map((f) => [sitePathFromEntry(f), resolve(CONTEN
 const validPaths = new Set([...pages.keys(), ...GENERATED]);
 validPaths.delete("home");
 
-// Internal links
+// The entity registry and facts: loading them checks the YAML (fields, types,
+// duplicate ids, references between entities) and the derivations.
+let entityCount: Record<string, number> = {};
+let entitiesOk = false;
+try {
+  for (const e of allEntities()) entityCount[e.type] = (entityCount[e.type] ?? 0) + 1;
+  errors.push(...checkEntityPages(validPaths));
+  entitiesOk = true;
+} catch (e) {
+  errors.push(...(e as Error).message.split("\n").map((l) => l.trim()).filter(Boolean));
+  entityCount = {};
+}
+let factsOk = false;
+try {
+  allFacts();
+  factsOk = true;
+} catch (e) {
+  errors.push(...(e as Error).message.split("\n").map((l) => l.trim()).filter(Boolean));
+}
+const checkEntity = (where: string, id: string) => {
+  if (!entitiesOk) return;
+  try {
+    getEntity(id);
+  } catch (e) {
+    errors.push(`${where}: ${(e as Error).message}`);
+  }
+};
+/** Markdown without inline code and non-Mermaid fenced code, which may show `{{key}}` literally. */
+const blank = (s: string) => s.replace(/[^\n]/g, " ");
+const withoutCode = (text: string) =>
+  text.replace(/^(```|~~~)(?!mermaid)[^\n]*\n[\s\S]*?^\1[^\n]*$/gm, blank).replace(/`[^`\n]*`/g, blank);
+let entityLinks = 0;
+let aboutIds = 0;
+const factsUsed = new Map<string, number>();
+
+// Internal links, entity links, `about:` and facts
 const linkRe = /\]\((\/[^)\s#]*)(?:#[^)]*)?\)/g;
 const statuses: Record<string, number> = {};
 for (const [, file] of pages) {
@@ -43,6 +82,32 @@ for (const [, file] of pages) {
   for (const m of text.matchAll(linkRe)) {
     const target = m[1]!.replace(/^\/|\/$/g, "");
     if (!validPaths.has(target)) errors.push(`${rel(file)}: broken internal link /${target}`);
+  }
+  for (const m of text.matchAll(ENTITY_LINK_RE)) {
+    entityLinks++;
+    checkEntity(`${rel(file)}:${text.slice(0, m.index).split("\n").length}`, m[1]!);
+  }
+  const front = text.match(/^---\n([\s\S]*?)\n---/)?.[1];
+  const about = front ? (parse(front) as { about?: unknown }).about : undefined;
+  if (about !== undefined) {
+    if (!Array.isArray(about)) errors.push(`${rel(file)}: about: must be a list of entity ids`);
+    else for (const id of about) (aboutIds++, checkEntity(`${rel(file)}: about`, String(id)));
+  }
+  const body = withoutCode(text);
+  for (const m of body.matchAll(FACT_LIKE_RE)) {
+    const where = `${rel(file)}:${body.slice(0, m.index).split("\n").length}`;
+    const valid = [...m[0].matchAll(FACT_RE)][0];
+    if (!valid || valid[0] !== m[0]) {
+      errors.push(`${where}: malformed fact placeholder ${m[0]} (write {{key}} or {{key|raw}}, key in lowercase)`);
+      continue;
+    }
+    factsUsed.set(valid[1]!, (factsUsed.get(valid[1]!) ?? 0) + 1);
+    if (!factsOk) continue;
+    try {
+      getFact(valid[1]!);
+    } catch (e) {
+      errors.push(`${where}: ${(e as Error).message}`);
+    }
   }
 }
 
@@ -88,6 +153,8 @@ interface Marker {
 const markers: Marker[] = [];
 const markerFiles: string[] = [];
 for await (const f of glob("**/*.en.{md,yaml}", { cwd: CONTENT })) markerFiles.push(f);
+// Entity and fact YAML carry `# check:` comments too.
+for await (const f of glob(["entities/*.yaml", "facts.yaml"], { cwd: CONTENT })) markerFiles.push(f);
 for (const f of markerFiles.sort()) {
   if (COMPILED.has(f)) continue;
   const file = resolve(CONTENT, f);
@@ -126,6 +193,12 @@ if (process.argv.includes("--review")) {
 console.log(`Pages: ${pages.size}  status: ${JSON.stringify(statuses)}`);
 console.log(`Quiz questions: ${seen.size}`);
 console.log(`Review markers: ${checks} check comments, ${unverified} unverified links`);
+const typeCounts = Object.entries(entityCount).map(([t, n]) => `${t} ${n}`).join(", ");
+const entityTotal = Object.values(entityCount).reduce((a, b) => a + b, 0);
+console.log(`Entities: ${entityTotal} (${typeCounts})  entity links: ${entityLinks}  about ids: ${aboutIds}`);
+const placeholders = [...factsUsed.values()].reduce((a, b) => a + b, 0);
+console.log(`Facts: ${factsOk ? allFacts().size : 0} defined, ${factsUsed.size} used in ${placeholders} placeholders`);
+for (const n of entitiesOk ? entityNotes() : []) console.log(`NOTE  ${n}`);
 for (const w of warnings) console.log(`WARN  ${w}`);
 for (const e of errors) console.log(`ERROR ${e}`);
 process.exit(errors.length ? 1 : 0);

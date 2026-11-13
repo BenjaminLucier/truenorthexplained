@@ -19,6 +19,7 @@ import {
   sequenceFor,
   type Page,
 } from "../lib/site";
+import { relatedPages } from "../lib/semantic";
 
 interface Props {
   page: Page;
@@ -36,6 +37,7 @@ const next = index >= 0 ? sequence[index + 1] : undefined;
 const modKey = mod ? moduleKey(mod.page.id) : undefined;
 const modIds = mod ? await moduleQuestionIds(mod.page.id) : [];
 const tryIt = mod ? visualsForModule(mod.page.id) : [];
+const related = await relatedPages(page);
 ---
 
 <BaseLayout title={page.data.title} description={page.data.summary}>
@@ -109,6 +111,29 @@ const tryIt = mod ? visualsForModule(mod.page.id) : [];
         <GlossaryPopovers page={page} />
 
         <div class="tn-col"><QuizBlock questions={questions} /></div>
+
+        {
+          related.length > 0 && (
+            <nav aria-labelledby="related-heading" class="tn-col mt-16">
+              <h2 id="related-heading" class="text-sm font-semibold tracking-wide text-muted uppercase">
+                {t.page.related}
+              </h2>
+              <ul class="mt-4 grid gap-3 sm:grid-cols-2">
+                {related.map((r) => (
+                  <li class="min-w-0">
+                    <a
+                      href={href(r.page.id)}
+                      class="group block h-full rounded-card border border-subtle p-4 transition-colors hover:border-accent"
+                    >
+                      <span class="block font-semibold text-primary group-hover:text-accent">{r.page.data.title}</span>
+                      {r.page.data.summary && <span class="mt-1 line-clamp-2 text-sm text-secondary">{r.page.data.summary}</span>}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          )
+        }
 
         {
           (prev || next) && (

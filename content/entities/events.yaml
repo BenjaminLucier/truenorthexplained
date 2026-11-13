@@ -1,0 +1,83 @@
+# Events, and the eras that group them on the timeline. Id: event:<id>.
+#
+# eras: list of
+#   id, title (the era heading as shown on /timeline)
+#
+# events: list of (see src/lib/entities.ts)
+#   id, title (required: short name, "The King–Byng affair"),
+#   date (required: a year, 1926, or an ISO date, "1926-06" / "1926-06-28"; quote
+#     full dates if you like, both work), end? (same forms, for ranges),
+#   text (required: inline markdown, one or two sentences: what happened),
+#   era (required: an era id below),
+#   module? (a learn module key such as "crown"; default: the module of the
+#     first /learn/… entry in `pages`),
+#   pages? (pages that explain it, most relevant first: a site path, or
+#     { page, label } to set the link text; default label is the page title),
+#   people? (person ids), entities? (any ids),
+#   name? (default: title), short?, aliases?, summary?, url?,
+#   page? (home; default /timeline#<id>; set it when one page tells the story)
+#
+# Only facts already stated on the site's pages belong here.
+
+eras:
+  - id: before-confederation
+    title: Before Confederation (to 1866)
+  - id: building-the-country
+    title: Building the country (1867–1923)
+  - id: becoming-fully-independent
+    title: Becoming fully independent (1926–1981)
+  - id: charter-era
+    title: The Charter era (1982–1999)
+  - id: recent
+    title: Recent (2000–today)
+
+events:
+  - id: confederation
+    title: Confederation
+    date: 1867-07-01
+    text: On July 1, the Constitution Act, 1867 (then the BNA Act) unites Ontario, Quebec, Nova Scotia and New Brunswick and divides powers between Ottawa and the provinces.
+    era: building-the-country
+    pages: [/learn/constitution/constitution-act-1867]
+    entities: [doc:constitution-act-1867]
+
+  - id: king-byng-affair
+    title: The King–Byng affair
+    date: 1926
+    # check: exact dates (King's request ~June 26–28; Meighen defeated and Parliament dissolved July 2, 1926), as flagged on /learn/crown/reserve-powers
+    text: In the King–Byng affair, the Governor General refuses the Prime Minister's request for an election, the last time this happened federally.
+    era: becoming-fully-independent
+    module: crown
+    pages:
+      - /learn/crown/reserve-powers
+      - { page: /learn/constitution/conventions, label: Conventions }
+    people: [person:william-lyon-mackenzie-king, person:julian-byng, person:arthur-meighen]
+    entities: [org:governor-general, term:reserve-powers]
+    page: /learn/crown/reserve-powers#1926-the-kingbyng-affair
+
+  - id: imperial-conference-1926
+    title: The Imperial Conference of 1926
+    date: 1926
+    text: The Imperial Conference establishes that a Governor General represents the monarch personally, not the British government.
+    era: becoming-fully-independent
+    pages: [/learn/crown/reserve-powers, /learn/constitution/conventions]
+    entities: [org:governor-general, event:king-byng-affair]
+
+  - id: patriation
+    title: Patriation
+    date: 1982-04-17
+    text: On April 17, the Constitution Act, 1982 comes into force, adding the Charter, an amending formula and section 35, and ending Britain's last formal role.
+    era: charter-era
+    pages: [/learn/constitution/patriation-1982]
+    entities: [doc:constitution-act-1982, doc:charter, term:patriation]
+
+  - id: prorogation-2008
+    title: The 2008 prorogation
+    date: 2008-12-04
+    text: On December 4, Parliament is prorogued before an expected non-confidence vote.
+    era: recent
+    pages:
+      - /learn/crown/reserve-powers
+      - { page: /learn/parliament/confidence, label: Confidence }
+    people: [person:stephen-harper, person:michaelle-jean]
+    entities: [org:governor-general, term:reserve-powers]
+    page: /learn/crown/reserve-powers#2008-the-prorogation

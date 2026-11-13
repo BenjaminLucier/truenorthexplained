@@ -4,6 +4,7 @@ parent: crown
 title: "Reserve powers"
 order: 2
 summary: "The few decisions the Governor General can make without advice, and the 1926 and 2008 crises that tested them."
+about: [term:reserve-powers, event:king-byng-affair, event:prorogation-2008]
 status: draft
 ---
 
@@ -13,7 +14,7 @@ status: draft
 (or a Lieutenant Governor) can make on their own judgment instead of on a minister's
 advice. They exist to protect responsible government, not to let the Crown govern. They
 are rarely used, and every real use has been controversial. The two federal cases most
-often studied are the **King–Byng affair** of 1926 and the **2008 prorogation**.
+often studied are the **[King–Byng affair](event:king-byng-affair)** of 1926 and the **[2008 prorogation](event:prorogation-2008)**.
 
 ## The details
 
@@ -36,13 +37,13 @@ would stop the House of Commons from deciding who governs.
 
 ### 1926: the King–Byng affair
 
-**Background.** In the 1925 election, the Conservatives under Arthur Meighen won the
-most seats, but Liberal Prime Minister William Lyon Mackenzie King stayed in office
+**Background.** In the 1925 election, the Conservatives under [Arthur Meighen](person:arthur-meighen) won the
+most seats, but Liberal Prime Minister [](person:william-lyon-mackenzie-king) stayed in office
 with the support of smaller parties. This is allowed: the sitting Prime Minister gets
 the first chance to test the House's confidence.
 
 **The crisis.** By June 1926, a scandal in the customs department had put King's
-government at risk of losing a vote in the House. King asked Governor General Lord Byng
+government at risk of losing a vote in the House. King asked Governor General [Lord Byng](person:julian-byng)
 to dissolve Parliament and call an election. Byng refused. He reasoned that the
 election had been recent and that Meighen should get a chance to govern.
 
@@ -67,14 +68,14 @@ General has refused a federal Prime Minister's request to dissolve Parliament.
 
 ### 2008: the prorogation
 
-**Background.** After the October 2008 election, Stephen Harper's Conservatives led a
+**Background.** After the October 2008 election, [Stephen Harper](person:stephen-harper)'s Conservatives led a
 minority government. In late November, the government's fiscal update angered the
 opposition. The Liberals and NDP agreed to form a coalition government, with a
 supporting agreement from the Bloc Québécois, and planned to defeat the government in
 a confidence vote in early December.
 
 **The request.** On **December 4, 2008**, before the vote could happen, Harper asked
-Governor General Michaëlle Jean to **prorogue** Parliament: to end the session, which
+Governor General [](person:michaelle-jean) to **prorogue** Parliament: to end the session, which
 also cancels all pending votes. After a meeting of about two hours, she agreed.
 Parliament didn't return until **January 26, 2009**. <!-- check: length of the meeting -->
 

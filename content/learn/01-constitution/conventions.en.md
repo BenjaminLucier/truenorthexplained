@@ -4,6 +4,7 @@ parent: constitution
 title: "Conventions: the unwritten rules"
 order: 4
 summary: "Conventions are unwritten rules, like 'the government needs the House's confidence', that everyone follows but courts don't enforce."
+about: [term:convention]
 status: draft
 ---
 
@@ -82,7 +83,7 @@ legal but "unconstitutional in the conventional sense". <!-- check: exact wordin
 
 Because they're unwritten, conventions evolve:
 
-- The **Imperial Conference of 1926**, held months after the King–Byng affair, settled
+- The **Imperial Conference of 1926**, held months after the [King–Byng affair](event:king-byng-affair), settled
   that the Governor General acts as the King's representative, not as an agent of the
   British government. See
   [Reserve powers](/learn/crown/reserve-powers).
