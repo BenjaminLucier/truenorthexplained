@@ -21,6 +21,10 @@ status: draft
 
 > **As of 2026:** The Legislative Assembly has 124 seats.
 
+## In numbers
+
+<tn-widget name="province-profile" data-province="ontario"></tn-widget>
+
 ## How it's governed
 
 Ontario's legislature is the **Legislative Assembly of Ontario**, which meets at

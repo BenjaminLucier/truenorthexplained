@@ -22,6 +22,10 @@ status: draft
 > **As of 2026:** The Legislative Assembly has 21 seats. It grew from 19 to 21 for
 > the November 2025 general election.
 
+## In numbers
+
+<tn-widget name="province-profile" data-province="yukon"></tn-widget>
+
 ## How it's governed
 
 Yukon is a **territory**, so its powers come from a federal law, the **Yukon Act**,

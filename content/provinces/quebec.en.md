@@ -22,6 +22,10 @@ status: draft
 > **As of 2026:** The National Assembly has 127 seats. It grew from 125 to 127 under
 > the electoral map used for the October 2026 general election.
 
+## In numbers
+
+<tn-widget name="province-profile" data-province="quebec"></tn-widget>
+
 ## How it's governed
 
 Quebec uses the same **parliamentary** model as the other provinces (see

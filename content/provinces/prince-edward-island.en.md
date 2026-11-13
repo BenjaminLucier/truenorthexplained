@@ -21,6 +21,10 @@ status: draft
 
 > **As of 2026:** The Legislative Assembly has 27 seats, one for each electoral district.
 
+## In numbers
+
+<tn-widget name="province-profile" data-province="prince-edward-island"></tn-widget>
+
 ## How it's governed
 
 Prince Edward Island (PEI) works like every other province. It has a

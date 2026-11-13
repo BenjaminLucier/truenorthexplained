@@ -21,6 +21,10 @@ status: draft
 
 > **As of 2026:** The House of Assembly has 40 seats.
 
+## In numbers
+
+<tn-widget name="province-profile" data-province="newfoundland-and-labrador"></tn-widget>
+
 ## How it's governed
 
 Newfoundland and Labrador's legislature is the **House of Assembly**, which has a

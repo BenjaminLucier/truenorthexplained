@@ -1,0 +1,222 @@
+---
+/** Share of people vs share of House seats and people per MP; then the population since 1951 (1991 for the NWT and Nunavut). */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import ChartTip from "../../components/charts/ChartTip.astro";
+import SeriesChart from "../../components/charts/SeriesChart.astro";
+import { compact, niceMax, niceTicks, tipRows } from "../../lib/charts";
+import { formatDate, population as quarterly, seatAllocation } from "../../lib/elections";
+import { datasets } from "../../lib/reference";
+import { num, pct, possessive, withArticle } from "../../lib/province-profile";
+import type { ProvinceProfile } from "./data";
+
+interface Props {
+  p: ProvinceProfile;
+}
+const { p } = Astro.props;
+const s = p.population;
+const name = p.name;
+const Name = withArticle(name).replace(/^the/, "The");
+
+// Bars: two comparisons, each on its own scale.
+const shareMax = Math.max(s.popShare, s.seatShare);
+const perMax = Math.max(s.perSeat, s.avgPerSeat);
+const groups = [
+  {
+    title: "Share of Canada",
+    bars: [
+      { label: "People", value: s.popShare, text: pct(s.popShare), w: s.popShare / shareMax, color: "var(--tn-data-cat-1)", note: `${num(s.population)} people, ${formatDate(s.refDate)}` },
+      {
+        label: "House seats",
+        value: s.seatShare,
+        text: pct(s.seatShare),
+        w: s.seatShare / shareMax,
+        color: "var(--tn-data-cat-2)",
+        note: `${s.seats} of ${s.totalSeats} seats`,
+      },
+    ],
+  },
+  {
+    title: "People per MP",
+    bars: [
+      { label: name, value: s.perSeat, text: num(s.perSeat), w: s.perSeat / perMax, color: "var(--tn-data-cat-1)", note: `${num(s.population)} people ÷ ${s.seats} ${s.seats === 1 ? "seat" : "seats"}` },
+      {
+        label: "Canada",
+        value: s.avgPerSeat,
+        text: num(s.avgPerSeat),
+        w: s.avgPerSeat / perMax,
+        color: "var(--tn-text-muted)",
+        note: `${num(s.canadaPopulation)} people ÷ ${s.totalSeats} seats`,
+      },
+    ],
+  },
+];
+
+// Population over time.
+const series = s.series;
+const first = series[0];
+const last = series.at(-1);
+const yMax = last ? niceMax(Math.max(...series.map((d) => d.value)), 4) : 1;
+const yTicks = niceTicks(0, yMax, 4);
+const span = first && last ? last.year - first.year : 0;
+const xTicks = first && last ? niceTicks(first.year, last.year, span > 50 ? 4 : 3).filter((t) => t >= first.year && t <= last.year) : [];
+// Tooltips every five years (and at both ends), to keep the page light; the table has every year.
+const sampled = series.filter((d, i) => d.year % 5 === 0 || i === 0 || i === series.length - 1);
+const popMeta = datasets.find((d) => d.id === "population")!.meta;
+const north = p.slug === "northwest-territories" || p.slug === "nunavut";
+---
+
+<ChartCard
+  title={`${Name} in the House of Commons`}
+  lede={s.takeaway}
+  sources={[
+    { label: `Statistics Canada, Table 17-10-0009-01 (${formatDate(s.refDate)})`, url: quarterly._meta.url },
+    { label: "Elections Canada, 2022 allocation of seats", url: seatAllocation._meta.url },
+  ]}
+  tableLabel="Show the data"
+>
+  <tn-chart class="pp-bars" role="group" aria-label={`${possessive(name)} share of people and seats, and people per MP. Use the arrow keys to move between the bars.`}>
+    {
+      groups.map((g, gi) => (
+        <div class:list={[gi > 0 && "mt-4"]}>
+          <p class="text-sm font-medium text-primary">{g.title}</p>
+          <ul class="mt-1.5 space-y-1.5">
+            {g.bars.map((b) => (
+              <li class="grid grid-cols-[6.5rem_minmax(0,1fr)_4.75rem] items-center gap-x-3 sm:grid-cols-[9rem_minmax(0,1fr)_5.5rem]">
+                <span class="truncate text-xs text-secondary sm:text-sm">{b.label}</span>
+                <span class="relative block h-5">
+                  <span
+                    class="pp-bar absolute inset-y-0 left-0 rounded-e-md"
+                    style={`width:${Math.max(0.6, 100 * b.w).toFixed(2)}%;background:${b.color}`}
+                    data-tip=""
+                    data-tip-title={`${g.title}: ${b.label}`}
+                    data-tip-rows={tipRows([[b.label, b.text, b.color]])}
+                    data-tip-note={b.note}
+                    data-row={gi}
+                  />
+                </span>
+                <span class="text-end text-sm font-semibold text-primary tabular-nums">{b.text}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))
+    }
+    <ChartTip />
+  </tn-chart>
+  <p class="mt-4 text-xs text-muted">
+    {s.seatSources} Seats were shared out in 2022 using 2021 population estimates; the population shown is the latest estimate, so the shares have drifted a little since.{" "}
+    <a href="/learn/elections/election-day#seats-vs-population" class="underline decoration-strong underline-offset-2 hover:text-accent">How seats are shared out</a>.
+  </p>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col"></th>
+          <th scope="col">{name}</th>
+          <th scope="col">Canada</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row" class="font-normal">Population, {formatDate(s.refDate)}</th>
+          <td>{num(s.population)}</td>
+          <td>{num(s.canadaPopulation)}</td>
+        </tr>
+        <tr>
+          <th scope="row" class="font-normal">Share of Canada's population</th>
+          <td>{pct(s.popShare)}</td>
+          <td>100%</td>
+        </tr>
+        <tr>
+          <th scope="row" class="font-normal">Seats in the House of Commons</th>
+          <td>{s.seats}</td>
+          <td>{s.totalSeats}</td>
+        </tr>
+        <tr>
+          <th scope="row" class="font-normal">Share of seats</th>
+          <td>{pct(s.seatShare)}</td>
+          <td>100%</td>
+        </tr>
+        <tr>
+          <th scope="row" class="font-normal">Seats by population alone</th>
+          <td>{s.strictSeats.toFixed(1)}</td>
+          <td>{s.totalSeats}</td>
+        </tr>
+        <tr>
+          <th scope="row" class="font-normal">People per MP</th>
+          <td>{num(s.perSeat)}</td>
+          <td>{num(s.avgPerSeat)}</td>
+        </tr>
+      </tbody>
+      <caption>
+        "Seats by population alone" shares all {s.totalSeats} seats in proportion to today's population, with no rounding or guarantees.
+      </caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+{
+  first && last && s.trendTakeaway && (
+    <ChartCard
+      title={`${possessive(name).replace(/^the/, "The")} population, ${first.year} to ${last.year}`}
+      lede={s.trendTakeaway}
+      sources={[{ label: "Statistics Canada, Table 17-10-0009-01 (July 1 estimates)", url: popMeta.url }]}
+      tableLabel="Show the data"
+    >
+      <SeriesChart
+        title={`Population of ${withArticle(name)}, ${first.year} to ${last.year}`}
+        desc={s.trendTakeaway}
+        height={200}
+        xMin={first.year}
+        xMax={last.year}
+        yMin={0}
+        yMax={yMax}
+        yTicks={yTicks}
+        yFormat={compact}
+        xTicks={xTicks}
+        lines={[{ points: series.map((d) => [d.year, d.value]), color: "var(--tn-data-cat-1)", area: true }]}
+        hover={{
+          xs: sampled.map((d) => d.year),
+          labels: sampled.map((d) => `July 1, ${d.year}`),
+          series: [
+            { label: "Population", color: "var(--tn-data-cat-1)", dp: 0 },
+            { label: "Share of Canada", color: "var(--tn-text-muted)", suf: "%", dp: 2, dot: false },
+          ],
+          values: [sampled.map((d) => d.value), sampled.map((d) => s.shareOf(d.year, d.value))],
+        }}
+        hoverLabel={`Population of ${withArticle(name)}: use the left and right arrow keys to read every fifth year`}
+      />
+      {north && <p class="mt-2 text-xs text-muted">Estimates for today's boundaries start in 1991, so the line starts there.</p>}
+
+      <Fragment slot="table">
+        <div class="max-h-80 overflow-auto">
+          <table>
+            <thead class="sticky top-0">
+              <tr>
+                <th scope="col">July 1</th>
+                <th scope="col">Population</th>
+                <th scope="col">Share of Canada</th>
+              </tr>
+            </thead>
+            <tbody>
+              {[...series].reverse().map((d) => {
+                const sh = s.shareOf(d.year, d.value);
+                return (
+                  <tr>
+                    <th scope="row" class="font-normal">
+                      {d.year}
+                    </th>
+                    <td>{num(d.value)}</td>
+                    <td>{sh === null ? "—" : `${sh.toFixed(2)}%`}</td>
+                  </tr>
+                );
+              })}
+            </tbody>
+            <caption>Statistics Canada's July 1 population estimates. Estimates before 1971 are rounded to the nearest thousand.</caption>
+          </table>
+        </div>
+      </Fragment>
+    </ChartCard>
+  )
+}

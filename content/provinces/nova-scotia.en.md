@@ -22,6 +22,10 @@ status: draft
 > **As of 2026:** The House of Assembly has 55 seats, a number first used in the 2021
 > general election.
 
+## In numbers
+
+<tn-widget name="province-profile" data-province="nova-scotia"></tn-widget>
+
 ## How it's governed
 
 Nova Scotia's legislature has a single elected chamber, the **House of Assembly**.

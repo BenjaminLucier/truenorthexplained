@@ -24,6 +24,10 @@ status: draft
 > commission recommended 89 seats, and a 2026 government bill proposed 91.
 > <!-- check: final seat count for the 2027 election (Bill 32, 2026) -->
 
+## In numbers
+
+<tn-widget name="province-profile" data-province="alberta"></tn-widget>
+
 ## How it's governed
 
 Alberta's legislature has a single chamber, the **Legislative Assembly**, which has

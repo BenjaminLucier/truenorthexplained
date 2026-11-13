@@ -1,0 +1,53 @@
+---
+/**
+ * The premiers ribbon's table alternative: every premier of the given
+ * provinces and territories (all 13 by default), with party and dates.
+ * Goes in a ChartCard's `table` slot.
+ */
+import { PROVINCIAL, formatDate, premiersMeta, type ProvincialFamily } from "../../lib/election-history";
+import { RIBBON_ORDER, governmentsFor } from "./rows";
+
+interface Props {
+  slugs?: string[];
+}
+
+const { slugs } = Astro.props;
+const govs = (slugs ? RIBBON_ORDER.filter((r) => slugs.includes(r.slug)) : RIBBON_ORDER).map((r) => governmentsFor(r.slug));
+const single = govs.length === 1;
+const families = (Object.keys(PROVINCIAL) as ProvincialFamily[]).filter((f) => govs.some((p) => p.terms.some((t) => t.family === f)));
+---
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Premier</th>
+      <th scope="col">Party</th>
+      <th scope="col">From</th>
+      <th scope="col">To</th>
+    </tr>
+  </thead>
+  {
+    govs.map((p) => (
+      <tbody>
+        {!single && (
+          <tr>
+            <th scope="colgroup" colspan="4" class="!text-start">
+              {p.name}
+            </th>
+          </tr>
+        )}
+        {p.terms.map((t) => (
+          <tr>
+            <td class="!text-start">{t.name}</td>
+            <td>{t.party}</td>
+            <td>{formatDate(t.start, "short")}</td>
+            <td>{t.end ? formatDate(t.end, "short") : "In office"}</td>
+          </tr>
+        ))}
+      </tbody>
+    ))
+  }
+  <caption>
+    Party families: {families.map((f) => `${PROVINCIAL[f].label}: ${PROVINCIAL[f].covers}`).join(". ")}. Data fetched {premiersMeta.fetched}.
+  </caption>
+</table>

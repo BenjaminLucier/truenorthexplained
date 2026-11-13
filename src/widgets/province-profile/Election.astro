@@ -1,0 +1,257 @@
+---
+/**
+ * The 2025 federal election in this province: seats and votes by party, then
+ * its ridings on a map (one tooltip stop per riding) with a table that links
+ * each riding into the ridings explorer (/ridings#r-<number>). A one-seat
+ * territory gets no map: its riding is the whole territory, so the party
+ * chart already shows the result.
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import ChartTip from "../../components/charts/ChartTip.astro";
+import Legend from "../../components/charts/Legend.astro";
+import CanadaMap from "../../components/map/CanadaMap.astro";
+import { ridingFeatures } from "../../components/map/geo";
+import ridingsGeoMeta from "../../data/geo/ridings.topo.meta.json";
+import { tipRows } from "../../lib/charts";
+import { PARTIES, resultsMeta, winnersMeta, type PartyKey } from "../../lib/elections";
+import { num, numberWord, pct, possessive, withArticle } from "../../lib/province-profile";
+import type { ProvinceProfile } from "./data";
+
+interface Props {
+  p: ProvinceProfile;
+}
+const { p } = Astro.props;
+const e = p.election;
+const r = e.result;
+const name = p.name;
+const label = (k: PartyKey) => (k === "other" ? "Others" : PARTIES[k].en);
+const max = Math.max(...e.parties.map((x) => Math.max(x.share, x.seatShare)));
+const w = (v: number) => `${((100 * v) / max).toFixed(2)}%`;
+const single = r.seats === 1;
+const only = single ? e.ridings[0] : undefined;
+
+const features = single ? [] : ridingFeatures().filter((f) => f.properties.province === p.slug);
+if (!single && features.length !== r.seats) throw new Error(`province-profile: ${features.length} riding shapes for ${r.seats} seats in ${p.slug}`);
+const bySeat = new Map(e.ridings.map((x) => [x.fed, x]));
+const won = e.parties.filter((x) => x.seats > 0);
+const ridingLink = (fed: number) => `/ridings#r-${fed}`;
+const Name = withArticle(name).replace(/^the/, "The");
+---
+
+<ChartCard
+  title={`${Name}: seats and votes, 2025`}
+  lede={e.takeaway}
+  sources={[{ label: "Elections Canada, official voting results, 45th general election (April 28, 2025)", url: resultsMeta.url }]}
+  tableLabel="Show the data"
+>
+  <Legend
+    items={[
+      { label: "Share of seats", color: "var(--tn-text-secondary)", kind: "swatch" },
+      { label: "Share of the vote", color: "var(--tn-text-secondary)", kind: "light" },
+    ]}
+  />
+  <tn-chart class="pp-parties mt-3" data-tip-place="side" role="group" aria-label={`Seats and votes by party in ${withArticle(name)}, 2025. Use the arrow keys to move between parties.`}>
+    <ul class="space-y-2.5">
+      {
+        e.parties.map((x) => (
+          <li
+            class="grid grid-cols-[6.5rem_minmax(0,1fr)] items-center gap-x-3 sm:grid-cols-[9rem_minmax(0,1fr)]"
+            data-tip=""
+            data-tip-title={x.party === "other" ? PARTIES.other.nameEn : PARTIES[x.party].nameEn}
+            data-tip-rows={tipRows([
+              ["Seats", `${x.seats} of ${r.seats} (${pct(x.seatShare)})`, `var(--tn-party-${x.party})`],
+              ["Votes", `${num(x.votes)} (${pct(x.share)})`],
+              ["Candidates", String(x.candidates)],
+            ])}
+          >
+            <span class="truncate text-xs text-secondary sm:text-sm">{label(x.party)}</span>
+            <span class="pp-pbars block" style={`--c: var(--tn-party-${x.party})`}>
+              <span class="flex items-center gap-2">
+                <span class="pp-seat block h-3 rounded-e-sm" style={`width:${w(x.seatShare)}`} />
+                <span class="shrink-0 text-xs font-semibold text-primary tabular-nums">
+                  {x.seats} {x.seats === 1 ? "seat" : "seats"}
+                </span>
+              </span>
+              <span class="mt-1 flex items-center gap-2">
+                <span class="pp-vote block h-3 rounded-e-sm" style={`width:${w(x.share)}`} />
+                <span class="shrink-0 text-xs text-secondary tabular-nums">{pct(x.share)}</span>
+              </span>
+            </span>
+          </li>
+        ))
+      }
+    </ul>
+    <ChartTip />
+  </tn-chart>
+  <p class="mt-4 text-xs text-muted">
+    Turnout was {pct(r.turnout)} of {num(r.electors)} electors.{" "}
+    {
+      only ? (
+        <>
+          {withArticle(name).replace(/^the/, "The")} is one riding, {only.name}.{" "}
+          <a href={ridingLink(only.fed)} class="underline decoration-strong underline-offset-2 hover:text-accent">
+            See its candidates in the ridings explorer
+          </a>
+          .
+        </>
+      ) : (
+        <>
+          A party's share of the seats is rarely its share of the vote: in each riding, the candidate with the most votes wins.{" "}
+          <a href="/learn/elections/first-past-the-post" class="underline decoration-strong underline-offset-2 hover:text-accent">
+            How first past the post works
+          </a>
+          .
+        </>
+      )
+    }
+  </p>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Party</th>
+          <th scope="col">Votes</th>
+          <th scope="col">Share of the vote</th>
+          <th scope="col">Seats</th>
+          <th scope="col">Share of seats</th>
+          <th scope="col">Candidates</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          e.parties.map((x) => (
+            <tr>
+              <th scope="row" class="font-normal">
+                {x.party === "other" ? PARTIES.other.nameEn : PARTIES[x.party].nameEn}
+              </th>
+              <td>{num(x.votes)}</td>
+              <td>{pct(x.share)}</td>
+              <td>{x.seats}</td>
+              <td>{pct(x.seatShare)}</td>
+              <td>{x.candidates}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <tfoot>
+        <tr>
+          <td>Total</td>
+          <td>{num(r.validVotes)}</td>
+          <td>100%</td>
+          <td>{r.seats}</td>
+          <td>100%</td>
+          <td />
+        </tr>
+      </tfoot>
+      <caption>Valid votes. "Others" groups every other party and independent candidate.</caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+{
+  !single && e.ridingsTakeaway && (
+    <ChartCard
+      title={`${possessive(name).replace(/^the/, "The")} ${numberWord(r.seats)} ridings`}
+      lede={e.ridingsTakeaway}
+      sources={[
+        { label: "Elections Canada, official voting results (April 28, 2025)", url: winnersMeta.url },
+        { label: "Elections Canada, federal electoral district boundaries (2023 Representation Order)", url: ridingsGeoMeta.url },
+      ]}
+      tableLabel={`Show all ${r.seats} ridings`}
+    >
+      <Legend items={won.map((x) => ({ label: label(x.party), color: `var(--tn-party-${x.party})` }))} />
+      <tn-chart
+        class="pp-map mt-3"
+        data-nav="grid"
+        role="group"
+        aria-label={`Map of ${possessive(name)} ${r.seats} ridings, coloured by the winning party. Use the arrow keys to move between ridings.`}
+      >
+        <CanadaMap
+          features={features}
+          title={`${possessive(name).replace(/^the/, "The")} federal ridings, coloured by the party that won in 2025`}
+          role="group"
+          width={640}
+          precision={0}
+          item={(f) => {
+            const x = bySeat.get(f.properties.fed);
+            if (!x) throw new Error(`province-profile: no result for riding ${f.properties.fed}`);
+            return {
+              fill: `var(--tn-party-${x.party})`,
+              class: "pp-riding",
+              data: {
+                tip: "",
+                "tip-title": x.name,
+                "tip-sub": `${x.winner}, ${label(x.party)}`,
+                "tip-note": `${pct(x.winnerShare)} of the vote; won by ${num(x.marginVotes)} ${x.marginVotes === 1 ? "vote" : "votes"}`,
+              },
+            };
+          }}
+        />
+        <ChartTip />
+      </tn-chart>
+      <p class="mt-2 text-xs text-muted">
+        {r.seats > 20 ? "City ridings are small at this scale: the table lists them all, and the " : "The table lists every riding, and the "}
+        <a href="/ridings" class="pp-a">ridings explorer</a> shows every candidate{r.seats > 20 ? " and zooms in on the cities" : ""}.
+      </p>
+
+      <Fragment slot="table">
+        <div class="max-h-96 overflow-auto">
+          <table>
+            <thead class="sticky top-0">
+              <tr>
+                <th scope="col">Riding</th>
+                <th scope="col">Winner</th>
+                <th scope="col">Party</th>
+                <th scope="col">Winner's share</th>
+                <th scope="col">Margin, votes</th>
+                <th scope="col">Margin, points</th>
+              </tr>
+            </thead>
+            <tbody>
+              {e.ridings.map((x) => (
+                <tr>
+                  <th scope="row" class="font-normal">
+                    <a href={ridingLink(x.fed)} class="pp-a">
+                      {x.name}
+                    </a>
+                  </th>
+                  <td>{x.winner}</td>
+                  <td>{label(x.party)}</td>
+                  <td>{pct(x.winnerShare)}</td>
+                  <td>{num(x.marginVotes)}</td>
+                  <td>{x.margin.toFixed(1)}</td>
+                </tr>
+              ))}
+            </tbody>
+            <caption>
+              Names as at the election{e.ridings.some((x) => x.renamed) ? "; some ridings have been renamed since" : ""}. The margin is the winner's lead over the runner-up. Each name opens the riding in the ridings explorer.
+            </caption>
+          </table>
+        </div>
+      </Fragment>
+    </ChartCard>
+  )
+}
+
+
+<style is:global>
+  /* Global: the map's paths carry no scoping attribute (see CanadaMap.astro). */
+  .pp-map .canada-map {
+    max-height: 30rem;
+  }
+  .pp-map .pp-riding {
+    outline: none;
+  }
+  .pp-map[data-active] .pp-riding:not(.is-active) {
+    opacity: 0.55;
+  }
+  .pp-map .pp-riding.is-active {
+    stroke: var(--tn-text-primary);
+    stroke-width: 2;
+  }
+  .pp-map .pp-riding:focus-visible {
+    stroke: var(--tn-focus);
+    stroke-width: 2.5;
+  }
+</style>

@@ -22,6 +22,10 @@ status: draft
 > **As of 2026:** The Legislative Assembly has 93 seats, a number first used in the 2024
 > general election.
 
+## In numbers
+
+<tn-widget name="province-profile" data-province="british-columbia"></tn-widget>
+
 ## How it's governed
 
 British Columbia has a single-chamber legislature, the **Legislative Assembly**, which

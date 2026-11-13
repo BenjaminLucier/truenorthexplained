@@ -1,0 +1,199 @@
+---
+/**
+ * Treaty areas that overlap this province, from CIRNAC's historic and modern
+ * treaty boundaries (src/data/geo/treaties.topo.json). The data has no
+ * province field, so the overlap is worked out at build time by
+ * `treatyOverlaps` in src/lib/province-profile.ts: approximate, and treaty
+ * areas that only touch the border are left out (and named).
+ */
+import { geoBounds } from "d3-geo";
+import ChartCard from "../../components/charts/ChartCard.astro";
+import ChartTip from "../../components/charts/ChartTip.astro";
+import Legend from "../../components/charts/Legend.astro";
+import CanadaMap from "../../components/map/CanadaMap.astro";
+import { provinceFeatures, treatyFeatures, type Bounds, type TreatyProps } from "../../components/map/geo";
+import meta from "../../data/geo/treaties.topo.meta.json";
+import provincesMeta from "../../data/geo/provinces.topo.meta.json";
+import { tipRows } from "../../lib/charts";
+import { joinList, num, possessive, shareWords, withArticle } from "../../lib/province-profile";
+import type { ProvinceProfile } from "./data";
+
+interface Props {
+  p: ProvinceProfile;
+}
+const { p } = Astro.props;
+const t = p.treaties;
+const name = p.name;
+const Name = withArticle(name).replace(/^the/, "The");
+
+const KIND = {
+  historic: { label: "Historic treaty", color: "var(--tn-data-treaty-historic)" },
+  pf: { label: "Peace and Friendship (no land surrendered)", color: "var(--tn-data-treaty-pf)" },
+  modern: { label: "Modern treaty", color: "var(--tn-data-treaty-modern)" },
+} as const;
+const kindOf = (x: TreatyProps) => (x.era === "modern" ? "modern" : x.noSurrender ? "pf" : "historic");
+const kinds = (Object.keys(KIND) as (keyof typeof KIND)[]).filter((k) => t.treaties.some((x) => kindOf(x.props) === k));
+const byId = new Map(t.treaties.map((x) => [x.props.id, x]));
+// Largest first, so smaller areas inside them are drawn on top.
+const features = treatyFeatures()
+  .filter((f) => byId.has(f.properties.id))
+  .sort((a, b) => byId.get(b.properties.id)!.areaKm2 - byId.get(a.properties.id)!.areaKm2);
+
+// Fit the map to the province's box, with a little room.
+const [[w, s], [e, n]] = geoBounds(t.provinceFeature);
+const padX = (e - w) * 0.03;
+const padY = (n - s) * 0.03;
+const bounds: Bounds = [w - padX, s - padY, e + padX, n + padY];
+const yearText = (x: TreatyProps) => (x.yearNote ? `${x.years} (${x.yearNote})` : x.years);
+const provShare = (v: number) => shareWords(v).replace(/^about /, "");
+const overlap = t.treaties.reduce((a, x) => a + x.shareOfProvince, 0) > t.covered + 2;
+const edgeNames = t.edgeOnly.map((x) => x.name);
+---
+
+<ChartCard
+  title={`Treaty areas in ${withArticle(name)}`}
+  lede={t.takeaway}
+  sources={[
+    { label: "Crown–Indigenous Relations and Northern Affairs Canada, Historic treaties", url: meta.datasets[0]! },
+    { label: "Modern treaties", url: meta.datasets[1]! },
+    { label: "Statistics Canada, province boundaries", url: provincesMeta.url },
+  ]}
+  tableLabel="Show the data"
+>
+  {
+    t.treaties.length > 0 && (
+      <>
+        <Legend items={kinds.map((k) => ({ label: KIND[k].label, color: KIND[k].color }))} />
+        <tn-chart class="pp-treaties mt-3" data-nav="grid" role="group" aria-label={`Map of the treaty areas in ${withArticle(name)}. Use the arrow keys to move between them.`}>
+          <CanadaMap
+            features={features}
+            bounds={bounds}
+            context={provinceFeatures()}
+            contextClass="pp-land"
+            overlay={[t.provinceFeature]}
+            overlayClass="pp-outline"
+            width={640}
+            precision={0}
+            role="group"
+            title={`Treaty areas overlapping ${withArticle(name)}`}
+            item={(f) => {
+              const x = byId.get(f.properties.id)!;
+              const pr = x.props;
+              return {
+                fill: KIND[kindOf(pr)].color,
+                class: "pp-treaty",
+                marker: "auto",
+                data: {
+                  tip: "",
+                  "tip-title": pr.name,
+                  "tip-sub": `${pr.era === "modern" ? "Modern treaty" : "Historic treaty"}, ${yearText(pr)}`,
+                  "tip-rows": tipRows([
+                    [`Share of ${possessive(name)} land`, provShare(x.shareOfProvince), KIND[kindOf(pr)].color],
+                    [`Share of the area in ${withArticle(name)}`, provShare(x.shareOfTreaty)],
+                  ]),
+                  "tip-note": pr.noSurrender ? "These treaties did not surrender land." : undefined,
+                },
+              };
+            }}
+          />
+          <ChartTip />
+        </tn-chart>
+
+        <ul class="mt-4 grid gap-x-6 gap-y-1.5 text-sm sm:grid-cols-2">
+          {t.treaties.map((x) => (
+            <li class="flex items-baseline gap-2">
+              <span class="pp-key mt-1 inline-block size-2.5 shrink-0 rounded-sm" style={`background:${KIND[kindOf(x.props)].color}`} aria-hidden="true" />
+              <span class="min-w-0">
+                <a href={x.props.href} class="text-primary underline decoration-strong underline-offset-2 hover:text-accent">
+                  {x.props.name}
+                </a>{" "}
+                <span class="text-muted">
+                  {yearText(x.props)} · {provShare(x.shareOfProvince)} of the land
+                </span>
+              </span>
+            </li>
+          ))}
+        </ul>
+      </>
+    )
+  }
+  <p class="mt-4 text-xs text-muted">
+    Treaty areas as mapped by Crown–Indigenous Relations and Northern Affairs Canada. The data doesn't say which province each is in, so this site works it out by
+    overlaying the areas on the province's boundary; the shares are approximate{overlap ? ", and add up to more than the total because some areas overlap" : ""}.
+    {edgeNames.length > 0 && ` Left out because they only touch the border: ${joinList(edgeNames)}.`}{" "}
+    <a href="/learn/indigenous/treaties#treaty-map" class="underline decoration-strong underline-offset-2 hover:text-accent">All treaty areas in Canada</a>.
+  </p>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Treaty</th>
+          <th scope="col">Type</th>
+          <th scope="col">Years</th>
+          <th scope="col">Share of {possessive(name)} land</th>
+          <th scope="col">Area in {withArticle(name)}, km²</th>
+          <th scope="col">Parties</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          t.treaties.map((x) => (
+            <tr>
+              <th scope="row" class="font-normal">
+                {x.props.name}
+              </th>
+              <td>{KIND[kindOf(x.props)].label}</td>
+              <td>{yearText(x.props)}</td>
+              <td>{provShare(x.shareOfProvince)}</td>
+              <td>{num(Math.round(x.areaKm2 / 100) * 100)}</td>
+              <td class="pp-wrap">{x.props.parties}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <caption>
+        Areas are estimates from sampling the boundaries, rounded to the nearest 100 km². {Name} covers about {num(Math.round(t.provinceKm2 / 1000) * 1000)} km² of land on the same
+        map; {shareWords(t.covered)} of it is in at least one treaty area.
+      </caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+<style is:global>
+  /* Global: the map's paths carry no scoping attribute (see CanadaMap.astro). */
+  .pp-treaties .canada-map {
+    max-height: 30rem;
+  }
+  .pp-treaties .pp-land {
+    fill: var(--tn-surface-muted);
+    stroke: var(--tn-border-strong);
+    stroke-width: 0.5;
+    vector-effect: non-scaling-stroke;
+  }
+  .pp-treaties .pp-treaty {
+    fill-opacity: 0.85;
+    outline: none;
+  }
+  .pp-treaties[data-active] .pp-treaty:not(.is-active) {
+    fill-opacity: 0.35;
+  }
+  .pp-treaties .pp-treaty.is-active {
+    fill-opacity: 1;
+    stroke: var(--tn-text-primary);
+    stroke-width: 2;
+  }
+  .pp-treaties .pp-treaty:focus-visible {
+    stroke: var(--tn-focus);
+    stroke-width: 2.5;
+  }
+  .pp-treaties .pp-outline {
+    --map-overlay-stroke: var(--tn-text-primary);
+    --map-overlay-stroke-width: 1.5;
+  }
+  .chart-table .pp-wrap {
+    white-space: normal;
+    min-width: 14rem;
+    text-align: start;
+  }
+</style>

@@ -1,0 +1,172 @@
+---
+/**
+ * The premiers ribbon itself: a legend, one row per province or territory
+ * (one block per premier, coloured by party family) inside a `<tn-chart>`,
+ * and the tooltips. Used for all 13 rows by the premiers-ribbon widget and
+ * for a single row by the province profile.
+ *
+ *   <Ribbon id="premiers-ribbon" slugs={["ontario"]} from={1867} />
+ *
+ * `from` starts the time axis at a year (default 1867, the axis the
+ * election-history charts share); the axis always runs to the end of this year.
+ * The table alternative is RibbonTable.astro.
+ */
+import ChartTip from "../../components/charts/ChartTip.astro";
+import Legend from "../../components/charts/Legend.astro";
+import { niceTicks } from "../../lib/charts";
+import { formatDuration } from "../../lib/reference";
+import { PROVINCIAL, X0, X1, X_TICKS, formatDate, type PremierTerm, type ProvincialFamily } from "../../lib/election-history";
+import { RIBBON_ORDER, daysBetween, ribbonRow, termEnd } from "./rows";
+
+interface Props {
+  /** Unique id prefix for the tooltip templates. */
+  id: string;
+  /** Province and territory slugs to draw; all 13 by default, in Statistics Canada's order. */
+  slugs?: string[];
+  /** First year on the axis. */
+  from?: number;
+  /** Accessible name of the chart. */
+  label?: string;
+  class?: string;
+}
+
+const { id, slugs, from = X0, label = "Premiers by province and territory; use the arrow keys to move between premiers", class: className } = Astro.props;
+const order = slugs ? RIBBON_ORDER.filter((r) => slugs.includes(r.slug)) : RIBBON_ORDER;
+if (slugs && order.length !== slugs.length) throw new Error(`premiers-ribbon: unknown slug in ${slugs.join(", ")}`);
+const single = order.length === 1;
+const rows = order.map(({ slug, code }, row) => ribbonRow(slug, code, row, from, X1));
+const xPct = (x: number) => `${(x / 10).toFixed(2)}%`;
+const xOfYear = (y: number) => ((y - from) / (X1 - from)) * 1000;
+const ticks = from === X0 ? X_TICKS : [...new Set([from, ...niceTicks(from, X1, single ? 4 : 6).filter((t) => t > from + (X1 - from) * 0.08 && t <= X1)])];
+
+const families = (Object.keys(PROVINCIAL) as ProvincialFamily[]).filter((f) => rows.some((r) => r.p.terms.some((t) => t.family === f)));
+const anyGaps = rows.some((r) => r.gaps.length > 0);
+const range = (t: PremierTerm) => `${formatDate(t.start, "short")} – ${t.end ? formatDate(t.end, "short") : "today"}`;
+---
+
+<Legend items={[...families.map((f) => ({ label: PROVINCIAL[f].label, color: PROVINCIAL[f].color }))]} />
+{
+  anyGaps && (
+    <p class="mt-1.5 inline-flex items-center gap-1.5 text-xs text-secondary">
+      <span class="rb-none inline-block h-2.5 w-4 rounded-sm" aria-hidden="true" />
+      No premier or government leader
+    </p>
+  )
+}
+
+<tn-chart class:list={["rb mt-4 block", single && "rb-single", className]}>
+  <div
+    class:list={["grid gap-y-1", single ? "grid-cols-[minmax(0,1fr)]" : "grid-cols-[2rem_minmax(0,1fr)] sm:grid-cols-[11.5rem_minmax(0,1fr)]"]}
+    role="group"
+    aria-label={label}
+  >
+    {
+      rows.map(({ p, code, row, terms, gaps, joinedX }) => (
+        <>
+          {!single && (
+            <span class="self-center truncate pr-2 text-[11px] leading-none text-secondary sm:text-xs" title={p.name}>
+              <span class="sm:hidden" aria-hidden="true">
+                {code}
+              </span>
+              <span class="hidden sm:inline">{p.name}</span>
+            </span>
+          )}
+          <div class="rb-row relative h-[1.125rem]">
+            <span class="rb-before absolute inset-y-0 left-0" style={`width: ${xPct(joinedX)}`} />
+            {gaps.map((g) => (
+              <span class="rb-none absolute inset-y-0" style={`left: ${xPct(g.x)}; width: ${xPct(g.w)}`} />
+            ))}
+            {terms.map(({ t, k, x, w }) => (
+              <span
+                class="rb-seg absolute inset-y-0"
+                style={`left: ${xPct(x)}; width: ${xPct(w)}; --c: ${PROVINCIAL[t.family].color}`}
+                data-tip={`${id}-${row}-${k}`}
+                data-row={row}
+                data-start={single && k === terms.length - 1 ? "" : undefined}
+                role="img"
+                aria-label={`${p.name}: ${t.name}, ${t.party}, ${range(t)}.`}
+              />
+            ))}
+          </div>
+        </>
+      ))
+    }
+    {!single && <span />}
+    <div class="relative mt-1 h-4 text-[11px] text-muted" aria-hidden="true">
+      {
+        ticks.map((t, k) => (
+          <span
+            class:list={["absolute leading-none", k === 0 ? "" : k === ticks.length - 1 && xOfYear(t) > 960 ? "-translate-x-full" : "-translate-x-1/2"]}
+            style={`left: ${k === 0 ? "0%" : xPct(xOfYear(t))}`}
+          >
+            {t}
+          </span>
+        ))
+      }
+    </div>
+  </div>
+  <p class="mt-3 text-xs text-muted">
+    {
+      single
+        ? `Each block is one premier's time in office, coloured by their party's family, from ${from} to today.${anyGaps ? " Hatching marks years with no premier or government leader." : ""}`
+        : "Each block is one premier's time in office, coloured by their party's family. Rows start when the province or territory joined Canada. Hatching marks years when a territory had no premier or government leader."
+    }
+  </p>
+
+  {
+    rows.map(({ p, row, terms }) =>
+      terms.map(({ t, k }) => (
+        <template id={`${id}-${row}-${k}`}>
+          <p class="ct-h">{t.name}</p>
+          <p class="ct-sub">{p.name}</p>
+          <p class="ct-p">
+            <span class="ct-sw" style={`--sw: ${PROVINCIAL[t.family].color}`} />
+            {t.party}
+            {PROVINCIAL[t.family].label !== t.party && <span class="text-muted"> ({PROVINCIAL[t.family].label})</span>}
+          </p>
+          <p class="ct-p">
+            {range(t)} · {formatDuration(daysBetween(t.start, termEnd(t)))}
+          </p>
+        </template>
+      )),
+    )
+  }
+  <ChartTip />
+</tn-chart>
+
+<style>
+  .rb-row {
+    background: var(--tn-surface-muted);
+    border-radius: 3px;
+  }
+  .rb-single .rb-row {
+    height: 1.75rem;
+  }
+  .rb-before {
+    background: var(--tn-surface);
+  }
+  .rb-none {
+    background: repeating-linear-gradient(135deg, var(--tn-border-strong) 0 1.5px, transparent 1.5px 5px);
+  }
+  .rb-seg {
+    background: var(--c);
+    box-shadow: inset -1px 0 0 var(--tn-surface);
+    transition: opacity 120ms ease-out;
+  }
+  .rb[data-active] .rb-seg:not(.is-active) {
+    opacity: 0.45;
+  }
+  .rb-seg.is-active {
+    outline: 2px solid var(--tn-text-primary);
+    outline-offset: 0;
+    z-index: 1;
+  }
+  .rb-seg:focus-visible {
+    outline-color: var(--tn-focus);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .rb-seg {
+      transition: none;
+    }
+  }
+</style>

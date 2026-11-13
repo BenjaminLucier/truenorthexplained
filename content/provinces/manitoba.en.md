@@ -21,6 +21,10 @@ status: draft
 
 > **As of 2026:** The Legislative Assembly has 57 seats.
 
+## In numbers
+
+<tn-widget name="province-profile" data-province="manitoba"></tn-widget>
+
 ## How it's governed
 
 Manitoba's legislature is the **Legislative Assembly**, which has a single chamber.
