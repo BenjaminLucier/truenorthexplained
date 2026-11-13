@@ -1,10 +1,9 @@
 /**
- * `pnpm data:geo`: download boundary files and population estimates, and build
+ * `pnpm data:geo`: download boundary files and build
  * the TopoJSON the maps use.
  *
  *   src/data/geo/provinces.topo.json      13 provinces and territories (+ .meta.json)
  *   src/data/geo/ridings.topo.json        343 federal electoral districts (+ .meta.json)
- *   src/data/geo/province-stats.json      latest quarterly population estimates
  *
  * Sources (all Open Government Licence – Canada):
  *
@@ -29,7 +28,6 @@ import { mkdtemp, mkdir, readFile, rm, stat, writeFile } from "node:fs/promises"
 import { tmpdir } from "node:os";
 import { join, resolve } from "node:path";
 import { unzipSync } from "fflate";
-import { parse } from "csv-parse/sync";
 import mapshaper from "mapshaper";
 
 const ROOT = resolve(import.meta.dirname, "../..");
@@ -60,8 +58,6 @@ const PR_SERVICE = "https://geo.statcan.gc.ca/geo_wa/rest/services/2021/Cartogra
 const PR_DATASET = "https://open.canada.ca/data/en/dataset/ef70dc3b-1069-4037-9bce-61f47e628a1d";
 const FED_ZIP = "https://www.elections.ca/res/cir/mapsCorner/edb/FederalElectoralDistricts_SHP.zip";
 const FED_DATASET = "https://open.canada.ca/data/en/dataset/18bf3ea7-1940-46ec-af52-9ba3f77ed708";
-const POP_TABLE = "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901";
-const POP_WDS = "https://www150.statcan.gc.ca/t1/wds/rest/getFullTableDownloadCSV/17100009/en";
 
 async function get(url: string, init: RequestInit = {}, tries = 3): Promise<Response> {
   for (let attempt = 1; ; attempt++) {
@@ -225,47 +221,8 @@ try {
   });
   console.log(`  → ridings.topo.json ${await kb(ridingsOut)}`);
 
-  // --------------------------------------------------------------- population
-  console.log("Population: Statistics Canada table 17-10-0009-01");
-  const { object: csvZipUrl } = (await (await get(POP_WDS)).json()) as { object: string };
-  const csvZip = unzipSync(new Uint8Array(await (await get(csvZipUrl)).arrayBuffer()));
-  const csvName = Object.keys(csvZip).find((n) => /^\d+\.csv$/.test(n));
-  if (!csvName) throw new Error("No data CSV in the table download");
-  const rows = parse(new TextDecoder().decode(csvZip[csvName]), { columns: true, bom: true }) as Record<
-    string,
-    string
-  >[];
-  const byName = new Map(Object.values(PROVINCES).map((slug) => [slug, slug]));
-  const nameToSlug = (name: string) =>
-    byName.get(
-      name
-        .toLowerCase()
-        .normalize("NFD")
-        .replace(/[̀-ͯ]/g, "")
-        .replace(/[^a-z]+/g, "-"),
-    );
-  const latest = rows.reduce((max, r) => (r.REF_DATE! > max ? r.REF_DATE! : max), "");
-  const population: Record<string, number> = {};
-  for (const r of rows) {
-    if (r.REF_DATE !== latest || !r.VALUE) continue;
-    const slug = r.GEO === "Canada" ? "canada" : nameToSlug(r.GEO ?? "");
-    if (slug) population[slug] = Number(r.VALUE);
-  }
-  const missing = ["canada", ...Object.values(PROVINCES)].filter((s) => !population[s]);
-  if (missing.length) throw new Error(`No population for ${missing.join(", ")}`);
-  await writeJson(join(OUT, "province-stats.json"), {
-    _meta: {
-      source: "Statistics Canada, Table 17-10-0009-01 Population estimates, quarterly",
-      url: POP_TABLE,
-      download: csvZipUrl,
-      licence: LICENCE,
-      licenceUrl: LICENCE_URL,
-      fetched: today,
-    },
-    period: latest,
-    population,
-  });
-  console.log(`  → province-stats.json (${latest})`);
+  // Population estimates live in src/data/population/provinces.json, written by
+  // `pnpm data:elections`; the maps read them from there.
 } finally {
   if (!cache) await rm(tmp, { recursive: true, force: true });
 }

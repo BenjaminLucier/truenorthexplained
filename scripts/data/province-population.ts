@@ -5,14 +5,14 @@
  * "the then latest general census" (Constitution Act, 1982, s. 38(1)(b)).
  *
  * Run: pnpm data:population
- * Writes: src/data/province-population.json
+ * Writes: src/data/population/census-2021.json
  */
 import { mkdir, writeFile } from "node:fs/promises";
 import { parse } from "csv-parse/sync";
 import { strFromU8, unzipSync } from "fflate";
 
 const SOURCE = "https://www150.statcan.gc.ca/n1/tbl/csv/98100001-eng.zip";
-const OUT = new URL("../../src/data/province-population.json", import.meta.url);
+const OUT = new URL("../../src/data/population/census-2021.json", import.meta.url);
 
 /** Provinces from west to east, with the slugs used for /provinces pages. */
 const PROVINCES = [

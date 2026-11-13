@@ -13,7 +13,8 @@ import { feature } from "topojson-client";
 import type { Feature, FeatureCollection, GeoJsonProperties, MultiPolygon, Polygon } from "geojson";
 import provincesTopo from "../../data/geo/provinces.topo.json";
 import ridingsTopo from "../../data/geo/ridings.topo.json";
-import stats from "../../data/geo/province-stats.json";
+import populationData from "../../data/population/provinces.json";
+import { PROVINCES, type ProvinceCode } from "../../lib/elections-constants";
 
 export type ProvinceProps = {
   /** PRUID, e.g. "35". */
@@ -59,8 +60,11 @@ export function ridingFeatures(): MapFeature<RidingProps>[] {
 }
 
 /** Latest quarterly population estimate per province slug (plus "canada"), and its reference date. */
-export const population = stats.population as Record<string, number>;
-export const populationPeriod: string = stats.period;
+export const population: Record<string, number> = Object.fromEntries([
+  ["canada", populationData.canada],
+  ...populationData.provinces.map((p) => [PROVINCES[p.province as ProvinceCode].slug, p.population]),
+]);
+export const populationPeriod: string = populationData.refDate;
 
 /**
  * Statistics Canada Lambert conformal conic (EPSG:3347): standard parallels
