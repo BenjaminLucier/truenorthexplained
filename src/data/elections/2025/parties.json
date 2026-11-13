@@ -1,0 +1,1032 @@
+{
+ "_meta": {
+  "source": "Elections Canada, Official Voting Results, 45th General Election (April 28, 2025): table 12 (candidates and their results), summed by party",
+  "url": "https://www.elections.ca/res/rep/off/ovrGE45/62/data_donnees/table_tableau12.csv",
+  "licence": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada). Elections Canada publishes its official voting results datasets under this licence on open.canada.ca.",
+  "fetched": "2026-11-13",
+  "status": "official",
+  "notes": "Parties are normalized to lpc, cpc, bq, ndp, gpc and other (every other party, independents and candidates with no affiliation). share is the percentage of valid votes; seatShare is the percentage of the province's or country's seats."
+ },
+ "parties": {
+  "lpc": {
+   "key": "lpc",
+   "en": "Liberal",
+   "fr": "Libéral",
+   "nameEn": "Liberal Party of Canada",
+   "nameFr": "Parti libéral du Canada"
+  },
+  "cpc": {
+   "key": "cpc",
+   "en": "Conservative",
+   "fr": "Conservateur",
+   "nameEn": "Conservative Party of Canada",
+   "nameFr": "Parti conservateur du Canada"
+  },
+  "bq": {
+   "key": "bq",
+   "en": "Bloc Québécois",
+   "fr": "Bloc Québécois",
+   "nameEn": "Bloc Québécois",
+   "nameFr": "Bloc Québécois"
+  },
+  "ndp": {
+   "key": "ndp",
+   "en": "NDP",
+   "fr": "NPD",
+   "nameEn": "New Democratic Party",
+   "nameFr": "Nouveau Parti démocratique"
+  },
+  "gpc": {
+   "key": "gpc",
+   "en": "Green",
+   "fr": "Vert",
+   "nameEn": "Green Party of Canada",
+   "nameFr": "Parti vert du Canada"
+  },
+  "other": {
+   "key": "other",
+   "en": "Other",
+   "fr": "Autres",
+   "nameEn": "Other parties and independents",
+   "nameFr": "Autres partis et indépendants"
+  }
+ },
+ "national": {
+  "seats": 343,
+  "majority": 172,
+  "electors": 28731275,
+  "totalVotes": 19811520,
+  "validVotes": 19641663,
+  "turnout": 69,
+  "parties": [
+   {
+    "party": "lpc",
+    "votes": 8595488,
+    "share": 43.76,
+    "seats": 169,
+    "seatShare": 49.27,
+    "candidates": 342
+   },
+   {
+    "party": "cpc",
+    "votes": 8113484,
+    "share": 41.31,
+    "seats": 144,
+    "seatShare": 41.98,
+    "candidates": 342
+   },
+   {
+    "party": "bq",
+    "votes": 1236349,
+    "share": 6.29,
+    "seats": 22,
+    "seatShare": 6.41,
+    "candidates": 78
+   },
+   {
+    "party": "ndp",
+    "votes": 1234673,
+    "share": 6.29,
+    "seats": 7,
+    "seatShare": 2.04,
+    "candidates": 342
+   },
+   {
+    "party": "gpc",
+    "votes": 238892,
+    "share": 1.22,
+    "seats": 1,
+    "seatShare": 0.29,
+    "candidates": 232
+   },
+   {
+    "party": "other",
+    "votes": 222777,
+    "share": 1.13,
+    "seats": 0,
+    "seatShare": 0,
+    "candidates": 623
+   }
+  ]
+ },
+ "byProvince": [
+  {
+   "province": "NL",
+   "electors": 427592,
+   "totalVotes": 281218,
+   "turnout": 65.8,
+   "validVotes": 278007,
+   "seats": 7,
+   "parties": [
+    {
+     "party": "lpc",
+     "votes": 150458,
+     "share": 54.12,
+     "seats": 4,
+     "seatShare": 57.14,
+     "candidates": 7
+    },
+    {
+     "party": "cpc",
+     "votes": 110259,
+     "share": 39.66,
+     "seats": 3,
+     "seatShare": 42.86,
+     "candidates": 7
+    },
+    {
+     "party": "bq",
+     "votes": 0,
+     "share": 0,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 0
+    },
+    {
+     "party": "ndp",
+     "votes": 15319,
+     "share": 5.51,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 7
+    },
+    {
+     "party": "gpc",
+     "votes": 299,
+     "share": 0.11,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 2
+    },
+    {
+     "party": "other",
+     "votes": 1672,
+     "share": 0.6,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 5
+    }
+   ]
+  },
+  {
+   "province": "PE",
+   "electors": 124729,
+   "totalVotes": 98145,
+   "turnout": 78.7,
+   "validVotes": 97241,
+   "seats": 4,
+   "parties": [
+    {
+     "party": "lpc",
+     "votes": 56011,
+     "share": 57.6,
+     "seats": 4,
+     "seatShare": 100,
+     "candidates": 4
+    },
+    {
+     "party": "cpc",
+     "votes": 35846,
+     "share": 36.86,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 4
+    },
+    {
+     "party": "bq",
+     "votes": 0,
+     "share": 0,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 0
+    },
+    {
+     "party": "ndp",
+     "votes": 2367,
+     "share": 2.43,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 4
+    },
+    {
+     "party": "gpc",
+     "votes": 2170,
+     "share": 2.23,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 4
+    },
+    {
+     "party": "other",
+     "votes": 847,
+     "share": 0.87,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 4
+    }
+   ]
+  },
+  {
+   "province": "NS",
+   "electors": 805073,
+   "totalVotes": 582447,
+   "turnout": 72.3,
+   "validVotes": 578543,
+   "seats": 11,
+   "parties": [
+    {
+     "party": "lpc",
+     "votes": 332354,
+     "share": 57.45,
+     "seats": 10,
+     "seatShare": 90.91,
+     "candidates": 11
+    },
+    {
+     "party": "cpc",
+     "votes": 204051,
+     "share": 35.27,
+     "seats": 1,
+     "seatShare": 9.09,
+     "candidates": 11
+    },
+    {
+     "party": "bq",
+     "votes": 0,
+     "share": 0,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 0
+    },
+    {
+     "party": "ndp",
+     "votes": 29413,
+     "share": 5.08,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 10
+    },
+    {
+     "party": "gpc",
+     "votes": 5448,
+     "share": 0.94,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 9
+    },
+    {
+     "party": "other",
+     "votes": 7277,
+     "share": 1.26,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 19
+    }
+   ]
+  },
+  {
+   "province": "NB",
+   "electors": 644344,
+   "totalVotes": 471071,
+   "turnout": 73.1,
+   "validVotes": 467778,
+   "seats": 10,
+   "parties": [
+    {
+     "party": "lpc",
+     "votes": 250659,
+     "share": 53.59,
+     "seats": 6,
+     "seatShare": 60,
+     "candidates": 10
+    },
+    {
+     "party": "cpc",
+     "votes": 190429,
+     "share": 40.71,
+     "seats": 4,
+     "seatShare": 40,
+     "candidates": 10
+    },
+    {
+     "party": "bq",
+     "votes": 0,
+     "share": 0,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 0
+    },
+    {
+     "party": "ndp",
+     "votes": 13626,
+     "share": 2.91,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 10
+    },
+    {
+     "party": "gpc",
+     "votes": 7982,
+     "share": 1.71,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 8
+    },
+    {
+     "party": "other",
+     "votes": 5082,
+     "share": 1.09,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 12
+    }
+   ]
+  },
+  {
+   "province": "QC",
+   "electors": 6680684,
+   "totalVotes": 4538778,
+   "turnout": 67.9,
+   "validVotes": 4470702,
+   "seats": 78,
+   "parties": [
+    {
+     "party": "lpc",
+     "votes": 1904206,
+     "share": 42.59,
+     "seats": 44,
+     "seatShare": 56.41,
+     "candidates": 78
+    },
+    {
+     "party": "cpc",
+     "votes": 1040992,
+     "share": 23.28,
+     "seats": 11,
+     "seatShare": 14.1,
+     "candidates": 77
+    },
+    {
+     "party": "bq",
+     "votes": 1236349,
+     "share": 27.65,
+     "seats": 22,
+     "seatShare": 28.21,
+     "candidates": 78
+    },
+    {
+     "party": "ndp",
+     "votes": 200900,
+     "share": 4.49,
+     "seats": 1,
+     "seatShare": 1.28,
+     "candidates": 78
+    },
+    {
+     "party": "gpc",
+     "votes": 40795,
+     "share": 0.91,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 42
+    },
+    {
+     "party": "other",
+     "votes": 47460,
+     "share": 1.06,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 110
+    }
+   ]
+  },
+  {
+   "province": "ON",
+   "electors": 11048632,
+   "totalVotes": 7640124,
+   "turnout": 69.1,
+   "validVotes": 7588695,
+   "seats": 122,
+   "parties": [
+    {
+     "party": "lpc",
+     "votes": 3730652,
+     "share": 49.16,
+     "seats": 70,
+     "seatShare": 57.38,
+     "candidates": 122
+    },
+    {
+     "party": "cpc",
+     "votes": 3324929,
+     "share": 43.81,
+     "seats": 52,
+     "seatShare": 42.62,
+     "candidates": 122
+    },
+    {
+     "party": "bq",
+     "votes": 0,
+     "share": 0,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 0
+    },
+    {
+     "party": "ndp",
+     "votes": 367819,
+     "share": 4.85,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 122
+    },
+    {
+     "party": "gpc",
+     "votes": 85907,
+     "share": 1.13,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 88
+    },
+    {
+     "party": "other",
+     "votes": 79388,
+     "share": 1.05,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 305
+    }
+   ]
+  },
+  {
+   "province": "MB",
+   "electors": 961292,
+   "totalVotes": 645673,
+   "turnout": 67.2,
+   "validVotes": 641037,
+   "seats": 14,
+   "parties": [
+    {
+     "party": "lpc",
+     "votes": 261113,
+     "share": 40.73,
+     "seats": 6,
+     "seatShare": 42.86,
+     "candidates": 14
+    },
+    {
+     "party": "cpc",
+     "votes": 297510,
+     "share": 46.41,
+     "seats": 7,
+     "seatShare": 50,
+     "candidates": 14
+    },
+    {
+     "party": "bq",
+     "votes": 0,
+     "share": 0,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 0
+    },
+    {
+     "party": "ndp",
+     "votes": 70685,
+     "share": 11.03,
+     "seats": 1,
+     "seatShare": 7.14,
+     "candidates": 14
+    },
+    {
+     "party": "gpc",
+     "votes": 4579,
+     "share": 0.71,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 10
+    },
+    {
+     "party": "other",
+     "votes": 7150,
+     "share": 1.12,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 17
+    }
+   ]
+  },
+  {
+   "province": "SK",
+   "electors": 833386,
+   "totalVotes": 565648,
+   "turnout": 67.9,
+   "validVotes": 561519,
+   "seats": 14,
+   "parties": [
+    {
+     "party": "lpc",
+     "votes": 149397,
+     "share": 26.61,
+     "seats": 1,
+     "seatShare": 7.14,
+     "candidates": 14
+    },
+    {
+     "party": "cpc",
+     "votes": 362495,
+     "share": 64.56,
+     "seats": 13,
+     "seatShare": 92.86,
+     "candidates": 14
+    },
+    {
+     "party": "bq",
+     "votes": 0,
+     "share": 0,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 0
+    },
+    {
+     "party": "ndp",
+     "votes": 42378,
+     "share": 7.55,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 14
+    },
+    {
+     "party": "gpc",
+     "votes": 2869,
+     "share": 0.51,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 8
+    },
+    {
+     "party": "other",
+     "votes": 4380,
+     "share": 0.78,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 11
+    }
+   ]
+  },
+  {
+   "province": "AB",
+   "electors": 3277657,
+   "totalVotes": 2281661,
+   "turnout": 69.6,
+   "validVotes": 2267230,
+   "seats": 37,
+   "parties": [
+    {
+     "party": "lpc",
+     "votes": 631929,
+     "share": 27.87,
+     "seats": 2,
+     "seatShare": 5.41,
+     "candidates": 36
+    },
+    {
+     "party": "cpc",
+     "votes": 1442094,
+     "share": 63.61,
+     "seats": 34,
+     "seatShare": 91.89,
+     "candidates": 37
+    },
+    {
+     "party": "bq",
+     "votes": 0,
+     "share": 0,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 0
+    },
+    {
+     "party": "ndp",
+     "votes": 142198,
+     "share": 6.27,
+     "seats": 1,
+     "seatShare": 2.7,
+     "candidates": 37
+    },
+    {
+     "party": "gpc",
+     "votes": 8944,
+     "share": 0.39,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 21
+    },
+    {
+     "party": "other",
+     "votes": 42065,
+     "share": 1.86,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 83
+    }
+   ]
+  },
+  {
+   "province": "BC",
+   "electors": 3844085,
+   "totalVotes": 2659499,
+   "turnout": 69.2,
+   "validVotes": 2644069,
+   "seats": 43,
+   "parties": [
+    {
+     "party": "lpc",
+     "votes": 1105033,
+     "share": 41.79,
+     "seats": 20,
+     "seatShare": 46.51,
+     "candidates": 43
+    },
+    {
+     "party": "cpc",
+     "votes": 1088655,
+     "share": 41.17,
+     "seats": 19,
+     "seatShare": 44.19,
+     "candidates": 43
+    },
+    {
+     "party": "bq",
+     "votes": 0,
+     "share": 0,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 0
+    },
+    {
+     "party": "ndp",
+     "votes": 343670,
+     "share": 13,
+     "seats": 3,
+     "seatShare": 6.98,
+     "candidates": 43
+    },
+    {
+     "party": "gpc",
+     "votes": 79255,
+     "share": 3,
+     "seats": 1,
+     "seatShare": 2.33,
+     "candidates": 38
+    },
+    {
+     "party": "other",
+     "votes": 27456,
+     "share": 1.04,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 57
+    }
+   ]
+  },
+  {
+   "province": "YT",
+   "electors": 31392,
+   "totalVotes": 22761,
+   "turnout": 72.5,
+   "validVotes": 22636,
+   "seats": 1,
+   "parties": [
+    {
+     "party": "lpc",
+     "votes": 12009,
+     "share": 53.05,
+     "seats": 1,
+     "seatShare": 100,
+     "candidates": 1
+    },
+    {
+     "party": "cpc",
+     "votes": 8719,
+     "share": 38.52,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 1
+    },
+    {
+     "party": "bq",
+     "votes": 0,
+     "share": 0,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 0
+    },
+    {
+     "party": "ndp",
+     "votes": 1434,
+     "share": 6.34,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 1
+    },
+    {
+     "party": "gpc",
+     "votes": 474,
+     "share": 2.09,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 1
+    },
+    {
+     "party": "other",
+     "votes": 0,
+     "share": 0,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 0
+    }
+   ]
+  },
+  {
+   "province": "NT",
+   "electors": 30497,
+   "totalVotes": 16748,
+   "turnout": 54.9,
+   "validVotes": 16549,
+   "seats": 1,
+   "parties": [
+    {
+     "party": "lpc",
+     "votes": 8855,
+     "share": 53.51,
+     "seats": 1,
+     "seatShare": 100,
+     "candidates": 1
+    },
+    {
+     "party": "cpc",
+     "votes": 5513,
+     "share": 33.31,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 1
+    },
+    {
+     "party": "bq",
+     "votes": 0,
+     "share": 0,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 0
+    },
+    {
+     "party": "ndp",
+     "votes": 2011,
+     "share": 12.15,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 1
+    },
+    {
+     "party": "gpc",
+     "votes": 170,
+     "share": 1.03,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 1
+    },
+    {
+     "party": "other",
+     "votes": 0,
+     "share": 0,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 0
+    }
+   ]
+  },
+  {
+   "province": "NU",
+   "electors": 21912,
+   "totalVotes": 7747,
+   "turnout": 35.4,
+   "validVotes": 7657,
+   "seats": 1,
+   "parties": [
+    {
+     "party": "lpc",
+     "votes": 2812,
+     "share": 36.72,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 1
+    },
+    {
+     "party": "cpc",
+     "votes": 1992,
+     "share": 26.02,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 1
+    },
+    {
+     "party": "bq",
+     "votes": 0,
+     "share": 0,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 0
+    },
+    {
+     "party": "ndp",
+     "votes": 2853,
+     "share": 37.26,
+     "seats": 1,
+     "seatShare": 100,
+     "candidates": 1
+    },
+    {
+     "party": "gpc",
+     "votes": 0,
+     "share": 0,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 0
+    },
+    {
+     "party": "other",
+     "votes": 0,
+     "share": 0,
+     "seats": 0,
+     "seatShare": 0,
+     "candidates": 0
+    }
+   ]
+  }
+ ],
+ "affiliations": [
+  {
+   "en": "Liberal",
+   "fr": "Libéral",
+   "party": "lpc",
+   "votes": 8595488,
+   "seats": 169,
+   "candidates": 342,
+   "share": 43.76
+  },
+  {
+   "en": "Conservative",
+   "fr": "Conservateur",
+   "party": "cpc",
+   "votes": 8113484,
+   "seats": 144,
+   "candidates": 342,
+   "share": 41.31
+  },
+  {
+   "en": "Bloc Québécois",
+   "fr": "Bloc Québécois",
+   "party": "bq",
+   "votes": 1236349,
+   "seats": 22,
+   "candidates": 78,
+   "share": 6.29
+  },
+  {
+   "en": "NDP-New Democratic Party",
+   "fr": "NPD-Nouveau Parti démocratique",
+   "party": "ndp",
+   "votes": 1234673,
+   "seats": 7,
+   "candidates": 342,
+   "share": 6.29
+  },
+  {
+   "en": "Green Party",
+   "fr": "Parti Vert",
+   "party": "gpc",
+   "votes": 238892,
+   "seats": 1,
+   "candidates": 232,
+   "share": 1.22
+  },
+  {
+   "en": "People's Party - PPC",
+   "fr": "Parti populaire - PPC",
+   "party": "other",
+   "votes": 136977,
+   "seats": 0,
+   "candidates": 247,
+   "share": 0.7
+  },
+  {
+   "en": "Independent",
+   "fr": "Indépendant(e)",
+   "party": "other",
+   "votes": 34289,
+   "seats": 0,
+   "candidates": 159,
+   "share": 0.17
+  },
+  {
+   "en": "Christian Heritage Party",
+   "fr": "Parti de l'Héritage Chrétien",
+   "party": "other",
+   "votes": 10065,
+   "seats": 0,
+   "candidates": 32,
+   "share": 0.05
+  },
+  {
+   "en": "Parti Rhinocéros Party",
+   "fr": "Parti Rhinocéros Party",
+   "party": "other",
+   "votes": 7063,
+   "seats": 0,
+   "candidates": 29,
+   "share": 0.04
+  },
+  {
+   "en": "United Party of Canada (UP)",
+   "fr": "Parti Uni du Canada (UP)",
+   "party": "other",
+   "votes": 6061,
+   "seats": 0,
+   "candidates": 16,
+   "share": 0.03
+  },
+  {
+   "en": "Libertarian",
+   "fr": "Libertarien",
+   "party": "other",
+   "votes": 5561,
+   "seats": 0,
+   "candidates": 16,
+   "share": 0.03
+  },
+  {
+   "en": "No Affiliation",
+   "fr": "Aucune appartenance",
+   "party": "other",
+   "votes": 5209,
+   "seats": 0,
+   "candidates": 18,
+   "share": 0.03
+  },
+  {
+   "en": "Marxist-Leninist",
+   "fr": "Marxiste-Léniniste",
+   "party": "other",
+   "votes": 4996,
+   "seats": 0,
+   "candidates": 35,
+   "share": 0.03
+  },
+  {
+   "en": "Communist",
+   "fr": "Communiste",
+   "party": "other",
+   "votes": 4685,
+   "seats": 0,
+   "candidates": 24,
+   "share": 0.02
+  },
+  {
+   "en": "Centrist",
+   "fr": "Centriste",
+   "party": "other",
+   "votes": 3314,
+   "seats": 0,
+   "candidates": 19,
+   "share": 0.02
+  },
+  {
+   "en": "Canadian Future Party",
+   "fr": "Parti Avenir Canadien",
+   "party": "other",
+   "votes": 3123,
+   "seats": 0,
+   "candidates": 19,
+   "share": 0.02
+  },
+  {
+   "en": "Animal Protection Party",
+   "fr": "Parti Protection Animaux",
+   "party": "other",
+   "votes": 1301,
+   "seats": 0,
+   "candidates": 7,
+   "share": 0.01
+  },
+  {
+   "en": "Marijuana Party",
+   "fr": "Parti Marijuana",
+   "party": "other",
+   "votes": 133,
+   "seats": 0,
+   "candidates": 2,
+   "share": 0
+  }
+ ]
+}

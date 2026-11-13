@@ -1,0 +1,604 @@
+{
+ "_meta": {
+  "source": "Senate of Canada, Senators (list and standings)",
+  "url": "https://sencanada.ca/en/senators/",
+  "licence": "Senate of Canada; see https://sencanada.ca/en/important-notices/",
+  "fetched": "2026-11-13",
+  "notes": "Seats per province are fixed by the Constitution Act, 1867, ss. 21–22 (105 in all). The script checks that sitting senators plus vacancies equal those numbers. Affiliation codes are the Senate's own."
+ },
+ "seats": 105,
+ "byProvince": [
+  {
+   "province": "NL",
+   "division": "Newfoundland and Labrador",
+   "seats": 6,
+   "senators": 5,
+   "vacant": 1
+  },
+  {
+   "province": "PE",
+   "division": "Maritimes",
+   "seats": 4,
+   "senators": 4,
+   "vacant": 0
+  },
+  {
+   "province": "NS",
+   "division": "Maritimes",
+   "seats": 10,
+   "senators": 9,
+   "vacant": 1
+  },
+  {
+   "province": "NB",
+   "division": "Maritimes",
+   "seats": 10,
+   "senators": 10,
+   "vacant": 0
+  },
+  {
+   "province": "QC",
+   "division": "Quebec",
+   "seats": 24,
+   "senators": 20,
+   "vacant": 4
+  },
+  {
+   "province": "ON",
+   "division": "Ontario",
+   "seats": 24,
+   "senators": 21,
+   "vacant": 3
+  },
+  {
+   "province": "MB",
+   "division": "Western",
+   "seats": 6,
+   "senators": 5,
+   "vacant": 1
+  },
+  {
+   "province": "SK",
+   "division": "Western",
+   "seats": 6,
+   "senators": 4,
+   "vacant": 2
+  },
+  {
+   "province": "AB",
+   "division": "Western",
+   "seats": 6,
+   "senators": 6,
+   "vacant": 0
+  },
+  {
+   "province": "BC",
+   "division": "Western",
+   "seats": 6,
+   "senators": 5,
+   "vacant": 1
+  },
+  {
+   "province": "YT",
+   "division": "Territories",
+   "seats": 1,
+   "senators": 1,
+   "vacant": 0
+  },
+  {
+   "province": "NT",
+   "division": "Territories",
+   "seats": 1,
+   "senators": 1,
+   "vacant": 0
+  },
+  {
+   "province": "NU",
+   "division": "Territories",
+   "seats": 1,
+   "senators": 1,
+   "vacant": 0
+  }
+ ],
+ "affiliations": [
+  {
+   "code": "CSG",
+   "en": "Canadian Senators Group",
+   "fr": "Groupe des sénateurs canadiens",
+   "senators": 15
+  },
+  {
+   "code": "C",
+   "en": "Conservative Party of Canada",
+   "fr": "Parti conservateur du Canada",
+   "senators": 13
+  },
+  {
+   "code": "ISG",
+   "en": "Independent Senators Group",
+   "fr": "Groupe des sénateurs indépendants",
+   "senators": 37
+  },
+  {
+   "code": "PSG",
+   "en": "Progressive Senate Group",
+   "fr": "Groupe progressiste du Sénat",
+   "senators": 17
+  },
+  {
+   "code": "Non-affiliated",
+   "en": "Non-affiliated",
+   "fr": "Non affilié(e)",
+   "senators": 5
+  },
+  {
+   "code": "GRO",
+   "en": "Government Representative’s Office",
+   "fr": "Bureau du représentant du gouvernement",
+   "senators": 5
+  }
+ ],
+ "vacant": 13,
+ "senators": [
+  {
+   "name": "Adler, Charles S.",
+   "affiliation": "CSG",
+   "province": "MB"
+  },
+  {
+   "name": "Anderson, Dawn",
+   "affiliation": "C",
+   "province": "NT"
+  },
+  {
+   "name": "Arnold, Dawn",
+   "affiliation": "ISG",
+   "province": "NB"
+  },
+  {
+   "name": "Arnot, David M.",
+   "affiliation": "ISG",
+   "province": "SK"
+  },
+  {
+   "name": "Ataullahjan, Salma",
+   "affiliation": "C",
+   "province": "ON"
+  },
+  {
+   "name": "Aucoin, Rejean",
+   "affiliation": "CSG",
+   "province": "NS"
+  },
+  {
+   "name": "Audette, Michele",
+   "affiliation": "PSG",
+   "province": "QC"
+  },
+  {
+   "name": "Batters, Denise",
+   "affiliation": "C",
+   "province": "SK"
+  },
+  {
+   "name": "Bernard, Wanda Thomas",
+   "affiliation": "PSG",
+   "province": "NS"
+  },
+  {
+   "name": "Black, Robert",
+   "affiliation": "CSG",
+   "province": "ON"
+  },
+  {
+   "name": "Boehm, Peter M.",
+   "affiliation": "ISG",
+   "province": "ON"
+  },
+  {
+   "name": "Boudreau, Victor",
+   "affiliation": "ISG",
+   "province": "NB"
+  },
+  {
+   "name": "Boyer, Yvonne",
+   "affiliation": "ISG",
+   "province": "ON"
+  },
+  {
+   "name": "Brazeau, Patrick",
+   "affiliation": "Non-affiliated",
+   "province": "QC"
+  },
+  {
+   "name": "Burey, Sharon",
+   "affiliation": "CSG",
+   "province": "ON"
+  },
+  {
+   "name": "Cardozo, Andrew",
+   "affiliation": "PSG",
+   "province": "ON"
+  },
+  {
+   "name": "Carignan, Claude, P.C.",
+   "affiliation": "C",
+   "province": "QC"
+  },
+  {
+   "name": "Clement, Bernadette",
+   "affiliation": "ISG",
+   "province": "ON"
+  },
+  {
+   "name": "Cormier, Rene",
+   "affiliation": "ISG",
+   "province": "NB"
+  },
+  {
+   "name": "Coyle, Mary",
+   "affiliation": "ISG",
+   "province": "NS"
+  },
+  {
+   "name": "Cuzner, Rodger",
+   "affiliation": "PSG",
+   "province": "NS"
+  },
+  {
+   "name": "Dalphond, Pierre J.",
+   "affiliation": "ISG",
+   "province": "QC"
+  },
+  {
+   "name": "Deacon, Colin",
+   "affiliation": "CSG",
+   "province": "NS"
+  },
+  {
+   "name": "Deacon, Marty",
+   "affiliation": "ISG",
+   "province": "ON"
+  },
+  {
+   "name": "Dean, Tony",
+   "affiliation": "ISG",
+   "province": "ON"
+  },
+  {
+   "name": "Dhillon, Baltej S.",
+   "affiliation": "ISG",
+   "province": "BC"
+  },
+  {
+   "name": "Downe, Percy E.",
+   "affiliation": "CSG",
+   "province": "PE"
+  },
+  {
+   "name": "Duncan, Pat",
+   "affiliation": "GRO",
+   "province": "YT"
+  },
+  {
+   "name": "Forest, Eric",
+   "affiliation": "ISG",
+   "province": "QC"
+  },
+  {
+   "name": "Francis, Brian",
+   "affiliation": "PSG",
+   "province": "PE"
+  },
+  {
+   "name": "Fridhandler, Daryl S.",
+   "affiliation": "PSG",
+   "province": "AB"
+  },
+  {
+   "name": "Gagne, Raymonde",
+   "affiliation": "Non-affiliated",
+   "province": "MB"
+  },
+  {
+   "name": "Galvez, Rosa",
+   "affiliation": "ISG",
+   "province": "QC"
+  },
+  {
+   "name": "Gerba, Amina",
+   "affiliation": "PSG",
+   "province": "QC"
+  },
+  {
+   "name": "Gignac, Clement",
+   "affiliation": "CSG",
+   "province": "QC"
+  },
+  {
+   "name": "Greenwood, Margo",
+   "affiliation": "ISG",
+   "province": "BC"
+  },
+  {
+   "name": "Harder, Peter, P.C.",
+   "affiliation": "PSG",
+   "province": "ON"
+  },
+  {
+   "name": "Hay, Katherine",
+   "affiliation": "PSG",
+   "province": "ON"
+  },
+  {
+   "name": "Hebert, Martine",
+   "affiliation": "ISG",
+   "province": "QC"
+  },
+  {
+   "name": "Henkel, Daniele",
+   "affiliation": "PSG",
+   "province": "QC"
+  },
+  {
+   "name": "Housakos, Leo",
+   "affiliation": "C",
+   "province": "QC"
+  },
+  {
+   "name": "Ince, Tony",
+   "affiliation": "CSG",
+   "province": "NS"
+  },
+  {
+   "name": "Karetak-Lindell, Nancy",
+   "affiliation": "ISG",
+   "province": "NU"
+  },
+  {
+   "name": "Kingston, Joan",
+   "affiliation": "ISG",
+   "province": "NB"
+  },
+  {
+   "name": "Klyne, Marty",
+   "affiliation": "PSG",
+   "province": "SK"
+  },
+  {
+   "name": "LaBoucane-Benson, Patti",
+   "affiliation": "GRO",
+   "province": "AB"
+  },
+  {
+   "name": "Loffreda, Tony",
+   "affiliation": "ISG",
+   "province": "QC"
+  },
+  {
+   "name": "MacAdam, Jane",
+   "affiliation": "ISG",
+   "province": "PE"
+  },
+  {
+   "name": "MacDonald, Michael L.",
+   "affiliation": "C",
+   "province": "NS"
+  },
+  {
+   "name": "Manning, Fabian",
+   "affiliation": "C",
+   "province": "NL"
+  },
+  {
+   "name": "Martel, Richard",
+   "affiliation": "C",
+   "province": "QC"
+  },
+  {
+   "name": "Martin, Yonah",
+   "affiliation": "C",
+   "province": "BC"
+  },
+  {
+   "name": "McBean, Marnie",
+   "affiliation": "ISG",
+   "province": "ON"
+  },
+  {
+   "name": "McCallum, Mary Jane",
+   "affiliation": "C",
+   "province": "MB"
+  },
+  {
+   "name": "McNair, John M.",
+   "affiliation": "ISG",
+   "province": "NB"
+  },
+  {
+   "name": "Miville-Dechene, Julie",
+   "affiliation": "PSG",
+   "province": "QC"
+  },
+  {
+   "name": "Mohamed, Farah",
+   "affiliation": "ISG",
+   "province": "ON"
+  },
+  {
+   "name": "Moncion, Lucie",
+   "affiliation": "ISG",
+   "province": "ON"
+  },
+  {
+   "name": "Moodie, Rosemary",
+   "affiliation": "ISG",
+   "province": "ON"
+  },
+  {
+   "name": "Moreau, Pierre, P.C.",
+   "affiliation": "GRO",
+   "province": "QC"
+  },
+  {
+   "name": "Muggli, Tracy",
+   "affiliation": "PSG",
+   "province": "SK"
+  },
+  {
+   "name": "Osler, Flordeliz (Gigi)",
+   "affiliation": "CSG",
+   "province": "MB"
+  },
+  {
+   "name": "Oudar, Manuelle",
+   "affiliation": "ISG",
+   "province": "QC"
+  },
+  {
+   "name": "Ouellette, Rodney",
+   "affiliation": "Non-affiliated",
+   "province": "NB"
+  },
+  {
+   "name": "Pate, Kim",
+   "affiliation": "ISG",
+   "province": "ON"
+  },
+  {
+   "name": "Patterson, Rebecca",
+   "affiliation": "CSG",
+   "province": "ON"
+  },
+  {
+   "name": "Petitclerc, Chantal",
+   "affiliation": "ISG",
+   "province": "QC"
+  },
+  {
+   "name": "Petten, Iris G.",
+   "affiliation": "GRO",
+   "province": "NL"
+  },
+  {
+   "name": "Pitfield, Thomas",
+   "affiliation": "Non-affiliated",
+   "province": "QC"
+  },
+  {
+   "name": "Poirier, Rose-May",
+   "affiliation": "C",
+   "province": "NB"
+  },
+  {
+   "name": "Prosper, Paul (PJ)",
+   "affiliation": "CSG",
+   "province": "NS"
+  },
+  {
+   "name": "Pupatello, Sandra",
+   "affiliation": "GRO",
+   "province": "ON"
+  },
+  {
+   "name": "Quinn, Jim",
+   "affiliation": "C",
+   "province": "NB"
+  },
+  {
+   "name": "Ravalia, Mohamed-Iqbal",
+   "affiliation": "ISG",
+   "province": "NL"
+  },
+  {
+   "name": "Ringuette, Pierrette",
+   "affiliation": "ISG",
+   "province": "NB"
+  },
+  {
+   "name": "Robinson, Mary",
+   "affiliation": "CSG",
+   "province": "PE"
+  },
+  {
+   "name": "Ross, Krista",
+   "affiliation": "CSG",
+   "province": "NB"
+  },
+  {
+   "name": "Senior, Paulette",
+   "affiliation": "ISG",
+   "province": "ON"
+  },
+  {
+   "name": "Simons, Paula",
+   "affiliation": "ISG",
+   "province": "AB"
+  },
+  {
+   "name": "Sorensen, Karen",
+   "affiliation": "PSG",
+   "province": "AB"
+  },
+  {
+   "name": "Surette, Allister",
+   "affiliation": "ISG",
+   "province": "NS"
+  },
+  {
+   "name": "Tannas, Scott",
+   "affiliation": "CSG",
+   "province": "AB"
+  },
+  {
+   "name": "Tucker, Geeta",
+   "affiliation": "Non-affiliated",
+   "province": "MB"
+  },
+  {
+   "name": "Varone, Toni",
+   "affiliation": "ISG",
+   "province": "ON"
+  },
+  {
+   "name": "Verner, Josee, P.C.",
+   "affiliation": "CSG",
+   "province": "QC"
+  },
+  {
+   "name": "Wells, David M.",
+   "affiliation": "C",
+   "province": "NL"
+  },
+  {
+   "name": "Wells, Kristopher",
+   "affiliation": "PSG",
+   "province": "AB"
+  },
+  {
+   "name": "White, Judy A.",
+   "affiliation": "PSG",
+   "province": "NL"
+  },
+  {
+   "name": "Wilson, Duncan",
+   "affiliation": "PSG",
+   "province": "BC"
+  },
+  {
+   "name": "Woo, Yuen Pau",
+   "affiliation": "ISG",
+   "province": "BC"
+  },
+  {
+   "name": "Youance, Suze",
+   "affiliation": "ISG",
+   "province": "QC"
+  },
+  {
+   "name": "Yussuff, Hassan",
+   "affiliation": "ISG",
+   "province": "ON"
+  }
+ ]
+}

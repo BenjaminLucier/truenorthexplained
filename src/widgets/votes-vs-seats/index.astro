@@ -1,0 +1,164 @@
+---
+/**
+ * Each party's share of the national vote against its share of seats in the
+ * 2025 general election: the first-past-the-post effect.
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import { PARTIES, PROVINCES, formatNumber, formatPct, nationalResult, provinceResults, ridingsMeta, type PartyKey } from "../../lib/elections";
+
+const rows = nationalResult.parties
+  .filter((p) => p.votes > 0)
+  .sort((a, b) => b.votes - a.votes || (a.party === "other" ? 1 : -1))
+  .map((p) => ({
+    ...p,
+    gap: p.seatShare - p.share,
+    votesPerSeat: p.seats ? Math.round(p.votes / p.seats) : null,
+  }));
+const max = Math.max(55, ...rows.flatMap((r) => [r.share, r.seatShare]));
+const domain = Math.ceil(max / 10) * 10;
+const x = (v: number) => (100 * v) / domain;
+const ticks = Array.from({ length: domain / 10 + 1 }, (_, i) => i * 10);
+
+const name = (k: PartyKey) => PARTIES[k].en;
+/** "the Liberals", "the NDP", "the Bloc Québécois". */
+const the = (k: PartyKey) => `the ${k === "ndp" || k === "bq" ? PARTIES[k].en : k === "gpc" ? "Greens" : `${PARTIES[k].en}s`}`;
+const cap = (s: string) => s[0]!.toUpperCase() + s.slice(1);
+/** Provinces and territories where the party ran at least one candidate. */
+const ranInList = (k: PartyKey) => provinceResults.filter((p) => p.parties.some((t) => t.party === k && t.candidates > 0));
+const ranIn = (k: PartyKey) => ranInList(k).length;
+const signed = (n: number) => `${n > 0 ? "+" : n < 0 ? "−" : "±"}${Math.abs(n).toFixed(1)}`;
+
+// A data-driven observation: the parties with the biggest bonus and the biggest shortfall.
+const parties = rows.filter((r) => r.party !== "other");
+const bonus = parties.reduce((a, b) => (b.gap > a.gap ? b : a));
+const short = parties.reduce((a, b) => (b.gap < a.gap ? b : a));
+// Two parties with nearly the same vote but very different seat counts make the point best.
+const pair = parties
+  .flatMap((a, i) => parties.slice(i + 1).map((b) => [a, b] as const))
+  .find(([a, b]) => Math.abs(a.votes - b.votes) / Math.max(a.votes, b.votes) < 0.02 && a.seats !== b.seats);
+const twins = pair && {
+  more: pair[0].seats > pair[1].seats ? pair[0] : pair[1],
+  fewer: pair[0].seats > pair[1].seats ? pair[1] : pair[0],
+  votes: Math.round((pair[0].votes + pair[1].votes) / 2 / 1000) * 1000,
+};
+---
+
+<ChartCard
+  title="Votes vs seats, 2025 general election"
+  lede="Each party's share of the votes cast across Canada, compared with its share of the 343 seats."
+  sources={[{ label: "Elections Canada, official voting results (2025)", url: ridingsMeta.url }]}
+>
+  <div class="flex flex-wrap gap-x-5 gap-y-2 text-xs text-secondary" aria-hidden="true">
+    <span class="inline-flex items-center gap-2">
+      <svg viewBox="0 0 20 10" class="h-2.5 w-5"><rect width="20" height="10" rx="2" fill="var(--tn-text-muted)" fill-opacity="0.35" stroke="var(--tn-text-muted)" stroke-width="1" /></svg>
+      Share of votes
+    </span>
+    <span class="inline-flex items-center gap-2">
+      <svg viewBox="0 0 20 10" class="h-2.5 w-5"><rect width="20" height="10" rx="2" fill="var(--tn-text-muted)" /></svg>
+      Share of seats
+    </span>
+    <span class="inline-flex items-center gap-2">
+      <svg viewBox="0 0 2 10" class="h-3 w-0.5"><line x1="1" x2="1" y1="0" y2="10" stroke="var(--tn-text-primary)" stroke-width="2" stroke-dasharray="2 2" /></svg>
+      Half
+    </span>
+  </div>
+
+  <ul class="mt-4 space-y-4">
+    {
+      rows.map((r) => (
+        <li class="vs-row">
+          <p class="flex items-baseline justify-between gap-3">
+            <span class="inline-flex items-center gap-2 font-semibold text-primary">
+              <span class="size-3 shrink-0 rounded-full" style={`background: var(--tn-party-${r.party})`} aria-hidden="true" />
+              {r.party === "other" ? "Others" : name(r.party)}
+            </span>
+            <span class="text-xs text-muted tabular-nums">
+              {r.seats} {r.seats === 1 ? "seat" : "seats"}
+            </span>
+          </p>
+          <div class="mt-1.5 grid grid-cols-[3rem_1fr_3.25rem] items-center gap-x-2 gap-y-1 text-xs tabular-nums">
+            <span class="text-muted">Votes</span>
+            <svg viewBox="0 0 100 10" preserveAspectRatio="none" class="h-3 w-full overflow-visible" aria-hidden="true">
+              <rect width="100" height="10" fill="var(--tn-surface-muted)" />
+              <rect width={Math.max(x(r.share), 0.4)} height="10" fill={`var(--tn-party-${r.party})`} fill-opacity="0.35" />
+              <rect width={Math.max(x(r.share), 0.4)} height="10" fill="none" stroke={`var(--tn-party-${r.party})`} stroke-width="1" vector-effect="non-scaling-stroke" />
+              <line x1={x(50)} x2={x(50)} y1="-2" y2="12" stroke="var(--tn-text-primary)" stroke-width="1.5" stroke-dasharray="2 2" vector-effect="non-scaling-stroke" />
+            </svg>
+            <span class="text-end text-secondary">{formatPct(r.share)}</span>
+            <span class="text-muted">Seats</span>
+            <svg viewBox="0 0 100 10" preserveAspectRatio="none" class="h-3 w-full overflow-visible" aria-hidden="true">
+              <rect width="100" height="10" fill="var(--tn-surface-muted)" />
+              <rect width={Math.max(x(r.seatShare), r.seats ? 0.4 : 0)} height="10" fill={`var(--tn-party-${r.party})`} />
+              <line x1={x(50)} x2={x(50)} y1="-2" y2="12" stroke="var(--tn-text-primary)" stroke-width="1.5" stroke-dasharray="2 2" vector-effect="non-scaling-stroke" />
+            </svg>
+            <span class="text-end font-semibold text-primary">{formatPct(r.seatShare)}</span>
+          </div>
+          <p class="sr-only">
+            {r.party === "other" ? "Other parties and independents" : PARTIES[r.party].nameEn}: {formatPct(r.share)} of the votes,
+            {formatPct(r.seatShare)} of the seats ({r.seats}).
+          </p>
+        </li>
+      ))
+    }
+  </ul>
+
+  <div class="mt-5 space-y-2 rounded-lg bg-surface-muted p-4 text-sm text-secondary">
+    <p>
+      Under first-past-the-post, only the winner in each riding gets a seat, so seat shares drift away from vote shares. In
+      2025 {the(bonus.party)} won {formatPct(bonus.share)} of the votes and {formatPct(bonus.seatShare)} of the seats.{" "}
+      {cap(the(short.party))} won {formatPct(short.share)} of the votes but only {formatPct(short.seatShare)} of the seats.
+    </p>
+    {
+      twins && (
+        <p>
+          {cap(the(twins.more.party))} and {the(twins.fewer.party)} each won about {formatNumber(twins.votes)} votes.
+          {ranIn(twins.more.party) === 1 ? ` ${cap(the(twins.more.party))} ran only in ${PROVINCES[ranInList(twins.more.party)[0]!.province].en}, where its votes were concentrated enough to win ` : ` ${cap(the(twins.more.party))}'s votes were more concentrated and won `}
+          {twins.more.seats} seats. {cap(the(twins.fewer.party))} ran {ranIn(twins.fewer.party) === 13 ? "across the country" : `in ${ranIn(twins.fewer.party)} provinces and territories`} and won {twins.fewer.seats}.
+        </p>
+      )
+    }
+  </div>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Party</th>
+          <th scope="col">Votes</th>
+          <th scope="col">Vote share</th>
+          <th scope="col">Seats</th>
+          <th scope="col">Seat share</th>
+          <th scope="col">Difference</th>
+          <th scope="col">Votes per seat won</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          rows.map((r) => (
+            <tr>
+              <th scope="row" class="font-normal">{PARTIES[r.party].nameEn}</th>
+              <td>{formatNumber(r.votes)}</td>
+              <td>{formatPct(r.share)}</td>
+              <td>{r.seats}</td>
+              <td>{formatPct(r.seatShare)}</td>
+              <td>{signed(r.gap)} pts</td>
+              <td>{r.votesPerSeat ? formatNumber(r.votesPerSeat) : "No seats"}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <tfoot>
+        <tr>
+          <td>Total</td>
+          <td>{formatNumber(nationalResult.validVotes)}</td>
+          <td>100%</td>
+          <td>{nationalResult.seats}</td>
+          <td>100%</td>
+          <td />
+          <td>{formatNumber(Math.round(nationalResult.validVotes / nationalResult.seats))}</td>
+        </tr>
+      </tfoot>
+      <caption>Vote share is the percentage of valid votes. Turnout was {formatPct(nationalResult.turnout)} of registered electors.</caption>
+    </table>
+  </Fragment>
+</ChartCard>

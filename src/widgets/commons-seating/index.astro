@@ -1,0 +1,219 @@
+---
+/**
+ * The House of Commons as a hemicycle of 343 seats, coloured by party.
+ * Toggles between the 2025 election result and the current standing.
+ * The toggle and the legend highlight work with CSS alone; a small script
+ * lets a tap or click pin a party's highlight.
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import { PARTIES, commons, electionSeats, formatDate, nationalResult, ridingsMeta, type PartyKey } from "../../lib/elections";
+import { fillSeats, hemicycle, r2 } from "../../lib/hemicycle";
+
+type Key = PartyKey | "vacant";
+/** Left to right around the chamber. */
+const ORDER: Key[] = ["lpc", "ndp", "gpc", "bq", "other", "cpc", "vacant"];
+
+const total = commons.seats;
+const majority = commons.majority;
+const layout = hemicycle(total, 11, 300, 0.4);
+const uid = `cs${Math.random().toString(36).slice(2, 8)}`;
+
+const cap = (s: string) => s[0]!.toUpperCase() + s.slice(1);
+const label = (k: Key) => (k === "vacant" ? "Vacant" : PARTIES[k].en);
+const plural = (k: Key) =>
+  k === "vacant" ? "vacant seats" : k === "bq" ? "the Bloc Québécois" : k === "other" ? "independents" : k === "ndp" ? "the NDP" : `the ${PARTIES[k].en}s`;
+
+const views = [
+  {
+    id: "election",
+    label: "2025 election result",
+    counts: { ...electionSeats, vacant: 0 } as Record<Key, number>,
+    when: "in the April 28, 2025 election",
+  },
+  {
+    id: "current",
+    label: "Current standing",
+    counts: { ...commons.standing, vacant: commons.vacant } as Record<Key, number>,
+    when: `as of ${formatDate(commons._meta.fetched)}`,
+  },
+].map((v) => {
+  const keys = ORDER.filter((k) => v.counts[k] > 0);
+  const seats = fillSeats(layout, keys.map((k) => ({ key: k, count: v.counts[k] })), "vacant" as Key);
+  const parties = ORDER.filter((k) => k !== "vacant");
+  const largest = parties.reduce((a, b) => (v.counts[b] > v.counts[a] ? b : a));
+  const n = v.counts[largest];
+  const summary =
+    n >= majority
+      ? `${cap(v.when)}, ${plural(largest)} ${v.id === "election" ? "won" : "hold"} ${n} seats. That's at least ${majority}, so it's a majority.`
+      : `No party ${v.id === "election" ? "won" : "holds"} a majority ${v.when}. The largest, ${plural(largest)}, ${v.id === "election" ? "won" : "holds"} ${n} seats, ${majority - n} short of ${majority}.`;
+  const description = keys.map((k) => `${label(k)} ${v.counts[k]}`).join(", ");
+  return { ...v, keys, seats, summary, description };
+});
+
+const midX = r2(layout.cx);
+const lineTop = r2(layout.cy - layout.outer - layout.r - 4);
+const lineBottom = r2(layout.cy - layout.inner + layout.r + 4);
+---
+
+<ChartCard
+  title="Seats in the House of Commons"
+  lede={`A party needs ${majority} of the ${total} seats for a majority. With a majority, it can pass bills and win confidence votes on its own MPs' votes. With fewer, the governing party leads a minority and needs support from at least one other party.`}
+  sources={[
+    { label: "Elections Canada, official voting results (2025)", url: ridingsMeta.url },
+    { label: `House of Commons, Members of Parliament (retrieved ${formatDate(commons._meta.fetched)})`, url: "https://www.ourcommons.ca/members/en" },
+  ]}
+>
+  <tn-commons-seating class="block" data-uid={uid}>
+    <fieldset class="view-toggle">
+      <legend class="sr-only">Show</legend>
+      <div class="grid grid-cols-2 gap-1 rounded-2xl border border-subtle bg-surface-muted p-1 sm:inline-grid sm:rounded-full">
+        {
+          views.map((v, i) => (
+            <label class="flex cursor-pointer items-center justify-center rounded-xl px-3 py-1.5 text-center text-sm leading-tight font-medium text-secondary transition-colors hover:text-primary has-checked:bg-accent has-checked:text-accent-contrast sm:rounded-full sm:px-4 has-focus-visible:outline-2 has-focus-visible:outline-offset-2 has-focus-visible:outline-focus">
+              <input type="radio" class="sr-only" name={`${uid}-view`} value={v.id} checked={i === 0} data-view-input={v.id} />
+              {v.label}
+            </label>
+          ))
+        }
+      </div>
+    </fieldset>
+
+    {
+      views.map((v) => (
+        <div class="view mt-4" data-view={v.id}>
+          <svg
+            viewBox={`0 0 ${r2(layout.width)} ${r2(layout.height)}`}
+            class="mx-auto block h-auto w-full max-w-xl"
+            role="img"
+            aria-label={`House of Commons, ${v.label.toLowerCase()}: ${v.description}. Majority line at ${majority} seats.`}
+          >
+            <g class="seats">
+              {layout.seats.map((s, i) => {
+                const k = v.seats[i]!;
+                return (
+                  <circle
+                    class="seat"
+                    data-party={k}
+                    cx={r2(s.x)}
+                    cy={r2(s.y)}
+                    r={r2(k === "vacant" ? layout.r - 0.75 : layout.r)}
+                    fill={k === "vacant" ? "none" : `var(--tn-party-${k})`}
+                    stroke={k === "vacant" ? "var(--tn-text-muted)" : undefined}
+                    stroke-width={k === "vacant" ? 1.5 : undefined}
+                  />
+                );
+              })}
+            </g>
+            <line x1={midX} x2={midX} y1={lineTop} y2={lineBottom} stroke="var(--tn-text-primary)" stroke-width="2" stroke-dasharray="5 4" />
+            <text x={midX} y={r2(layout.cy - 36)} text-anchor="middle" class="fill-primary text-[38px] font-bold tabular-nums">
+              {total} seats
+            </text>
+            <text x={midX} y={r2(layout.cy - 4)} text-anchor="middle" class="fill-secondary text-[28px] tabular-nums">
+              Majority: {majority}
+            </text>
+          </svg>
+
+          <p class="mt-3 text-center text-sm text-secondary">{v.summary}</p>
+
+          <ul class="legend mt-4 flex flex-wrap justify-center gap-2" aria-label={`Seats by party, ${v.label.toLowerCase()}`}>
+            {v.keys.map((k) => (
+              <li>
+                <button
+                  type="button"
+                  data-party={k}
+                  aria-pressed="false"
+                  class="inline-flex items-center gap-2 rounded-full border border-subtle bg-surface px-3 py-1.5 text-sm text-secondary transition-colors hover:border-strong aria-pressed:border-primary aria-pressed:text-primary"
+                >
+                  <span
+                    class="size-3 shrink-0 rounded-full"
+                    style={k === "vacant" ? "border: 1.5px solid var(--tn-text-muted)" : `background: var(--tn-party-${k})`}
+                    aria-hidden="true"
+                  />
+                  <span>{label(k)}</span>
+                  <span class="font-semibold text-primary tabular-nums">{v.counts[k]}</span>
+                </button>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))
+    }
+    <p class="mt-3 text-center text-xs text-muted">
+      Hover over or select a party to highlight its seats. The dashed line marks seat {majority}. The Speaker is counted with
+      their party but votes only to break a tie.
+      {commons.vacant > 0 && ` Vacant seats stay empty until a by-election.`}
+    </p>
+  </tn-commons-seating>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr><th scope="col">Party</th><th scope="col">2025 election</th><th scope="col">Current standing</th></tr>
+      </thead>
+      <tbody>
+        {
+          ORDER.filter((k) => views.some((v) => v.counts[k] > 0)).map((k) => (
+            <tr>
+              <th scope="row" class="font-normal">{k === "vacant" ? "Vacant" : PARTIES[k].nameEn}</th>
+              <td>{views[0]!.counts[k]}</td>
+              <td>{views[1]!.counts[k]}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <tfoot>
+        <tr><td>Total</td><td>{nationalResult.seats}</td><td>{total}</td></tr>
+      </tfoot>
+      <caption>Current standing as of {formatDate(commons._meta.fetched)}. A majority is {majority} seats.</caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+<style>
+  /* Show only the chosen view. Without :has() support, both views show, one under the other. */
+  tn-commons-seating:has([data-view-input="election"]:checked) .view[data-view="current"],
+  tn-commons-seating:has([data-view-input="current"]:checked) .view[data-view="election"] {
+    display: none;
+  }
+
+  .seat {
+    transition: opacity 150ms ease;
+  }
+  /* Highlight a party's seats while its legend button is hovered, focused or pressed. */
+  .view:has(.legend button:is(:hover, :focus-visible, [aria-pressed="true"])) .seat {
+    opacity: 0.18;
+  }
+  .view:has(.legend [data-party="lpc"]:is(:hover, :focus-visible, [aria-pressed="true"])) .seat[data-party="lpc"],
+  .view:has(.legend [data-party="cpc"]:is(:hover, :focus-visible, [aria-pressed="true"])) .seat[data-party="cpc"],
+  .view:has(.legend [data-party="bq"]:is(:hover, :focus-visible, [aria-pressed="true"])) .seat[data-party="bq"],
+  .view:has(.legend [data-party="ndp"]:is(:hover, :focus-visible, [aria-pressed="true"])) .seat[data-party="ndp"],
+  .view:has(.legend [data-party="gpc"]:is(:hover, :focus-visible, [aria-pressed="true"])) .seat[data-party="gpc"],
+  .view:has(.legend [data-party="other"]:is(:hover, :focus-visible, [aria-pressed="true"])) .seat[data-party="other"],
+  .view:has(.legend [data-party="vacant"]:is(:hover, :focus-visible, [aria-pressed="true"])) .seat[data-party="vacant"] {
+    opacity: 1;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .seat {
+      transition: none;
+    }
+  }
+</style>
+
+<script>
+  /** Tap or click a legend button to pin its highlight; only one at a time. */
+  class CommonsSeating extends HTMLElement {
+    connectedCallback() {
+      this.addEventListener("click", (e) => {
+        const button = (e.target as Element).closest<HTMLButtonElement>(".legend button");
+        if (!button) return;
+        const pressed = button.getAttribute("aria-pressed") === "true";
+        for (const b of this.querySelectorAll(".legend button")) b.setAttribute("aria-pressed", "false");
+        button.setAttribute("aria-pressed", String(!pressed));
+      });
+      this.addEventListener("change", () => {
+        for (const b of this.querySelectorAll(".legend button")) b.setAttribute("aria-pressed", "false");
+      });
+    }
+  }
+  if (!customElements.get("tn-commons-seating")) customElements.define("tn-commons-seating", CommonsSeating);
+</script>

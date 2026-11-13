@@ -69,6 +69,11 @@ and federal law.
 
 > **As of 2026:** There are 343 ridings, in effect since the 2025 general election.
 
+The formula starts from population, but the Constitution also guarantees smaller and slower-growing
+provinces a minimum number of seats, so seat shares don't match population shares exactly.
+
+<tn-widget name="seats-vs-population"></tn-widget>
+
 ### Fixed election dates, and why they aren't really fixed
 
 In 2007, Parliament amended the Canada Elections Act to set a **fixed election date**. Under

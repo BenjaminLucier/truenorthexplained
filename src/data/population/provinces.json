@@ -1,0 +1,78 @@
+{
+ "_meta": {
+  "source": "Statistics Canada, Table 17-10-0009-01, Population estimates, quarterly",
+  "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901",
+  "licence": "Statistics Canada Open Licence (https://www.statcan.gc.ca/en/terms-conditions/open-licence), which follows the Open Government Licence – Canada",
+  "fetched": "2026-11-13",
+  "doi": "https://doi.org/10.25318/1710000901-eng"
+ },
+ "refDate": "2026-07-01",
+ "canada": 41798407,
+ "provinces": [
+  {
+   "province": "NL",
+   "population": 552462,
+   "share": 1.322
+  },
+  {
+   "province": "PE",
+   "population": 182989,
+   "share": 0.438
+  },
+  {
+   "province": "NS",
+   "population": 1103419,
+   "share": 2.64
+  },
+  {
+   "province": "NB",
+   "population": 883522,
+   "share": 2.114
+  },
+  {
+   "province": "QC",
+   "population": 9067114,
+   "share": 21.692
+  },
+  {
+   "province": "ON",
+   "population": 16262121,
+   "share": 38.906
+  },
+  {
+   "province": "MB",
+   "population": 1517379,
+   "share": 3.63
+  },
+  {
+   "province": "SK",
+   "population": 1278402,
+   "share": 3.058
+  },
+  {
+   "province": "AB",
+   "population": 5101050,
+   "share": 12.204
+  },
+  {
+   "province": "BC",
+   "population": 5710598,
+   "share": 13.662
+  },
+  {
+   "province": "YT",
+   "population": 50356,
+   "share": 0.12
+  },
+  {
+   "province": "NT",
+   "population": 45904,
+   "share": 0.11
+  },
+  {
+   "province": "NU",
+   "population": 43091,
+   "share": 0.103
+  }
+ ]
+}

@@ -121,6 +121,23 @@
     runoff or minimum share.
   source: https://laws-lois.justice.gc.ca/eng/acts/E-2.01/
 
+- id: elections-fptp-concentrated-votes
+  pages: [learn/elections/first-past-the-post]
+  tags: [elections, electoral-reform]
+  type: single
+  question: In 2025 the Bloc Québécois and the NDP each won about 6.3% of the national vote. Why did the Bloc win many more seats?
+  options:
+    - Quebec ridings have fewer voters than ridings elsewhere
+    - Its votes were concentrated in one province, so it came first in more ridings
+    - Seats in Quebec are shared out by each party's vote share
+    - The NDP ran candidates in fewer ridings
+  answer: 1
+  explanation: >
+    Under first-past-the-post, only first place in a riding wins a seat. The Bloc
+    runs only in Quebec, so its votes were concentrated enough to win 22 ridings.
+    The NDP's similar total was spread across the country and won 7.
+  source: https://www.elections.ca/res/rep/off/ovrGE45/home.html
+
 - id: elections-erre-report
   pages: [learn/elections/first-past-the-post]
   tags: [electoral-reform]

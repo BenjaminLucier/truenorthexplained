@@ -1,0 +1,105 @@
+---
+/**
+ * Frame for a build-time chart widget: title, optional lede, the chart, a
+ * table fallback in a <details>, and the data sources.
+ *
+ *   <ChartCard title="…" sources={[{ label, url }]}>
+ *     …chart…
+ *     <Fragment slot="table">…<table>…</Fragment>
+ *   </ChartCard>
+ */
+interface Props {
+  title: string;
+  lede?: string;
+  sources: { label: string; url: string }[];
+  /** Text for the table toggle. */
+  tableLabel?: string;
+  class?: string;
+}
+const { title, lede, sources, tableLabel = "Show the numbers as a table", class: className } = Astro.props;
+const id = `chart-${Math.random().toString(36).slice(2, 9)}`;
+---
+
+<figure
+  class:list={["not-prose my-10 rounded-card border border-subtle bg-surface p-4 shadow-card sm:p-6", className]}
+  aria-labelledby={`${id}-title`}
+>
+  <header>
+    <p id={`${id}-title`} class="text-lg font-bold tracking-tight text-primary">{title}</p>
+    {lede && <p class="mt-1 text-sm text-secondary">{lede}</p>}
+  </header>
+
+  <div class="mt-4">
+    <slot />
+  </div>
+
+  {
+    Astro.slots.has("table") && (
+      <details class="group mt-5 rounded-lg border border-subtle">
+        <summary class="flex cursor-pointer list-none items-center justify-between gap-3 rounded-lg px-4 py-2.5 text-sm font-medium text-primary hover:bg-surface-muted [&::-webkit-details-marker]:hidden">
+          {tableLabel}
+          <svg viewBox="0 0 24 24" class="size-4 shrink-0 text-muted transition-transform group-open:rotate-180" aria-hidden="true">
+            <path d="m6 9 6 6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+          </svg>
+        </summary>
+        <div class="chart-table overflow-x-auto border-t border-subtle">
+          <slot name="table" />
+        </div>
+      </details>
+    )
+  }
+
+  <figcaption class="mt-4 text-xs text-muted">
+    Source{sources.length > 1 ? "s" : ""}:{" "}
+    {
+      sources.map((s, i) => (
+        <>
+          {i > 0 && "; "}
+          <a href={s.url} class="underline decoration-strong underline-offset-2 hover:text-accent">
+            {s.label}
+          </a>
+        </>
+      ))
+    }
+  </figcaption>
+</figure>
+
+<style>
+  .chart-table :global(table) {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.875rem;
+    font-variant-numeric: tabular-nums;
+  }
+  .chart-table :global(th),
+  .chart-table :global(td) {
+    padding: 0.5rem 0.75rem;
+    text-align: end;
+    border-bottom: 1px solid var(--tn-border);
+    white-space: nowrap;
+  }
+  .chart-table :global(:is(th, td):first-child) {
+    text-align: start;
+    padding-inline-start: 1rem;
+  }
+  .chart-table :global(thead th) {
+    background: var(--tn-surface-muted);
+    color: var(--tn-text-primary);
+    font-weight: 600;
+  }
+  .chart-table :global(tbody td) {
+    color: var(--tn-text-secondary);
+  }
+  .chart-table :global(tfoot td) {
+    color: var(--tn-text-primary);
+    font-weight: 600;
+    border-bottom: 0;
+  }
+  .chart-table :global(caption) {
+    caption-side: bottom;
+    padding: 0.5rem 1rem 0.75rem;
+    text-align: start;
+    font-size: 0.75rem;
+    color: var(--tn-text-muted);
+  }
+</style>
