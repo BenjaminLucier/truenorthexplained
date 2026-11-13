@@ -1,0 +1,141 @@
+---
+/**
+ * "What is a dollar from year X worth today?" Pick a year and an amount; the
+ * consumer price index converts it to the latest month's dollars. The page
+ * renders a worked example at build time, and the script recalculates as the
+ * reader types, entirely in the browser.
+ */
+import { formatMonth, prices } from "../../lib/money";
+import { uniqueId } from "../../lib/ids";
+
+const annual = prices.cpi.annual;
+const now = prices.cpi.latestMonth;
+const DEFAULT_YEAR = 1975;
+const DEFAULT_AMOUNT = 100;
+const QUICK = [1914, 1945, 1970, 1990, 2010].filter((y) => annual.some((p) => p.year === y));
+
+/** The same arithmetic the script uses, for the build-time example. */
+function convert(amount: number, year: number) {
+  const then = annual.find((p) => p.year === year)!.index;
+  const value = (amount * now.index) / then;
+  const years = Number(now.month.slice(0, 4)) + (Number(now.month.slice(5, 7)) - 0.5) / 12 - (year + 0.5);
+  const rate = (Math.pow(now.index / then, 1 / years) - 1) * 100;
+  return { value, ratio: now.index / then, rate };
+}
+const money = (v: number) =>
+  `$${v.toLocaleString("en-CA", { minimumFractionDigits: v < 1000 ? 2 : 0, maximumFractionDigits: v < 1000 ? 2 : 0 })}`;
+const ex = convert(DEFAULT_AMOUNT, DEFAULT_YEAR);
+const id = uniqueId(Astro, "calc");
+const cfg = { years: annual.map((p) => p.year), index: annual.map((p) => p.index), now: now.index, nowMonth: now.month };
+---
+
+<figure class="not-prose my-10 rounded-card border border-subtle bg-surface p-4 shadow-card sm:p-6" aria-labelledby={`${id}-title`}>
+  <header>
+    <p id={`${id}-title`} class="text-lg font-bold tracking-tight text-primary">What is a dollar from the past worth today?</p>
+    <p class="mt-1 text-sm text-secondary">
+      Pick a year and an amount. The calculator uses the consumer price index to show what it would cost in{" "}
+      {formatMonth(now.month)}, the latest month with data.
+    </p>
+  </header>
+
+  <tn-dollar-calc class="mt-5 block">
+    <form class="grid gap-4 sm:grid-cols-2">
+      <label class="block text-sm font-medium text-primary">
+        Amount
+        <span class="mt-1 flex items-center rounded-lg border border-strong bg-surface focus-within:outline-2 focus-within:outline-offset-2 focus-within:outline-focus">
+          <span class="ps-3 text-muted" aria-hidden="true">$</span>
+          <input
+            name="amount"
+            type="number"
+            inputmode="decimal"
+            min="0"
+            step="any"
+            value={DEFAULT_AMOUNT}
+            class="w-full min-w-0 bg-transparent px-2 py-2 text-base text-primary tabular-nums outline-none"
+          />
+        </span>
+      </label>
+      <label class="block text-sm font-medium text-primary">
+        In the year
+        <select name="year" class="mt-1 block w-full rounded-lg border border-strong bg-surface px-3 py-2 text-base text-primary tabular-nums">
+          {annual.toReversed().map((p) => <option value={p.year} selected={p.year === DEFAULT_YEAR}>{p.year}</option>)}
+        </select>
+      </label>
+    </form>
+    <div class="mt-3 flex flex-wrap items-center gap-2 text-xs text-muted">
+      <span>Try:</span>
+      {
+        QUICK.map((y) => (
+          <button type="button" data-year={y} class="rounded-full border border-subtle px-2.5 py-1 text-secondary tabular-nums hover:border-accent hover:text-accent">
+            {y}
+          </button>
+        ))
+      }
+    </div>
+
+    <output class="mt-5 block rounded-lg bg-surface-muted p-4" aria-live="polite">
+      <span class="block text-sm text-secondary">
+        <span data-out="amount">{money(DEFAULT_AMOUNT)}</span> in <span data-out="year">{DEFAULT_YEAR}</span> buys about as much as
+      </span>
+      <span class="mt-1 block text-3xl font-bold tracking-tight text-primary tabular-nums" data-out="value">{money(ex.value)}</span>
+      <span class="mt-1 block text-sm text-secondary">
+        in {formatMonth(now.month)}. Prices are <span data-out="ratio" class="font-semibold text-primary">{ex.ratio < 10 ? ex.ratio.toFixed(2) : ex.ratio.toFixed(1)}</span> times
+        as high, an average rise of <span data-out="rate" class="font-semibold text-primary">{ex.rate.toFixed(1)}%</span> a year.
+      </span>
+    </output>
+    <script type="application/json" data-config set:html={JSON.stringify(cfg)} />
+  </tn-dollar-calc>
+
+  <figcaption class="mt-4 text-xs text-muted">
+    Uses the annual average consumer price index for the year you pick and the index for {formatMonth(now.month)} (not
+    seasonally adjusted). It measures the cost of a typical basket of goods and services, so particular things, like
+    houses or televisions, changed in price differently. Source:{" "}
+    <a href={prices._meta.urls![0]} class="underline decoration-strong underline-offset-2 hover:text-accent">Statistics Canada, tables 18-10-0005-01 and 18-10-0004-01</a>.
+  </figcaption>
+</figure>
+
+<script>
+  interface Config {
+    years: number[];
+    index: number[];
+    now: number;
+    nowMonth: string;
+  }
+
+  class DollarCalc extends HTMLElement {
+    connectedCallback() {
+      const cfg = JSON.parse(this.querySelector("script[data-config]")!.textContent!) as Config;
+      const form = this.querySelector("form")!;
+      const amount = form.elements.namedItem("amount") as HTMLInputElement;
+      const year = form.elements.namedItem("year") as HTMLSelectElement;
+      const out = (k: string) => this.querySelector<HTMLElement>(`[data-out="${k}"]`)!;
+      const nowYears = Number(cfg.nowMonth.slice(0, 4)) + (Number(cfg.nowMonth.slice(5, 7)) - 0.5) / 12;
+      const money = (v: number) =>
+        `$${v.toLocaleString("en-CA", { minimumFractionDigits: v < 1000 ? 2 : 0, maximumFractionDigits: v < 1000 ? 2 : 0 })}`;
+
+      const update = () => {
+        const y = Number(year.value);
+        const a = Math.max(0, Number(amount.value) || 0);
+        const then = cfg.index[cfg.years.indexOf(y)];
+        if (!then) return;
+        const ratio = cfg.now / then;
+        const span = nowYears - (y + 0.5);
+        out("amount").textContent = money(a);
+        out("year").textContent = String(y);
+        out("value").textContent = money(a * ratio);
+        out("ratio").textContent = ratio < 10 ? ratio.toFixed(2) : ratio.toFixed(1);
+        out("rate").textContent = `${((Math.pow(ratio, 1 / span) - 1) * 100).toFixed(1)}%`;
+      };
+      form.addEventListener("input", update);
+      form.addEventListener("submit", (e) => e.preventDefault());
+      this.querySelectorAll<HTMLButtonElement>("button[data-year]").forEach((b) =>
+        b.addEventListener("click", () => {
+          year.value = b.dataset.year!;
+          update();
+        }),
+      );
+      update();
+    }
+  }
+  if (!customElements.get("tn-dollar-calc")) customElements.define("tn-dollar-calc", DollarCalc);
+</script>

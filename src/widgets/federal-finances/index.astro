@@ -1,0 +1,23 @@
+---
+/**
+ * Federal finances from Finance Canada's Fiscal Reference Tables and, before
+ * 1966-67, Statistics Canada's Historical Statistics of Canada
+ * (src/data/money/federal-finances.json, from `pnpm data:money`).
+ *
+ *   <tn-widget name="federal-finances" data-chart="balance"></tn-widget>
+ *
+ * data-chart: balance (revenue, spending and the deficit) | debt | budget (where the money goes)
+ */
+import Balance from "./Balance.astro";
+import Debt from "./Debt.astro";
+import Budget from "./Budget.astro";
+
+interface Props {
+  chart: "balance" | "debt" | "budget";
+}
+const { chart } = Astro.props;
+---
+
+{chart === "balance" && <Balance />}
+{chart === "debt" && <Debt />}
+{chart === "budget" && <Budget />}

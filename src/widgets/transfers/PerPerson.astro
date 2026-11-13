@@ -1,0 +1,140 @@
+---
+/** The latest year's Canada Health Transfer, Canada Social Transfer and equalization per person, by province. */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import ChartTip from "../../components/charts/ChartTip.astro";
+import Legend from "../../components/charts/Legend.astro";
+import { niceMax, niceTicks } from "../../lib/charts";
+import { PROVINCES } from "../../lib/elections-constants";
+import { formatDollars, formatMillions, transfers } from "../../lib/money";
+
+const L = transfers.latest;
+const PARTS = [
+  { key: "cht", label: "Canada Health Transfer", color: "var(--tn-data-cat-1)" },
+  { key: "cst", label: "Canada Social Transfer", color: "var(--tn-data-cat-3)" },
+  { key: "equalization", label: "Equalization", color: "var(--tn-data-cat-2)" },
+] as const;
+type Key = (typeof PARTS)[number]["key"];
+const per = (m: number, people: number) => (m * 1e6) / people;
+
+const all = L.provinces.map((p) => ({
+  ...p,
+  info: PROVINCES[p.province],
+  per: Object.fromEntries(PARTS.map((part) => [part.key, per(p[part.key], p.population)])) as Record<Key, number>,
+  tffPer: per(p.tff, p.population),
+}));
+const provinces = all.filter((p) => !p.info.territory).map((p) => ({ ...p, total: PARTS.reduce((n, part) => n + p.per[part.key], 0) }));
+provinces.sort((a, b) => b.total - a.total);
+const territories = all.filter((p) => p.info.territory);
+
+const people = provinces.reduce((n, p) => n + p.population, 0);
+const avg = (key: Key) => (provinces.reduce((n, p) => n + p[key], 0) * 1e6) / people;
+const max = Math.max(...provinces.map((p) => p.total));
+const ticks = niceTicks(0, niceMax(max, 3), 3);
+const domain = Math.max(ticks.at(-1)!, max);
+const w = (v: number) => `${((100 * v) / domain).toFixed(2)}%`;
+const top = provinces[0]!;
+const bottom = provinces.at(-1)!;
+const tffRange = territories.map((t) => t.tffPer).sort((a, b) => a - b);
+---
+
+<ChartCard
+  title={`Major transfers per person, ${L.label}`}
+  lede={`The health and social transfers are the same everywhere: about ${formatDollars(avg("cht"))} and ${formatDollars(avg("cst"))} per person. Equalization is what makes the totals differ, from ${formatDollars(top.total)} per person in ${top.info.en} to ${formatDollars(bottom.total)} in ${bottom.info.en}.`}
+  sources={[{ label: `Finance Canada, Historical Transfer Tables (${L.label} allocations and population)`, url: transfers._meta.url }]}
+  tableLabel="Show the data"
+>
+  <Legend items={PARTS.map((p) => ({ label: p.label, color: p.color, kind: "box" as const }))} />
+  <tn-tips class="relative mt-4 block">
+    <div class="grid grid-cols-[6.5rem_minmax(0,1fr)_3.75rem] items-center gap-x-3 text-xs text-muted sm:grid-cols-[11rem_minmax(0,1fr)_4rem]" aria-hidden="true">
+      <span></span>
+      <div class="relative h-4">
+        {
+          ticks.map((t, i) => (
+            <span class:list={["absolute tabular-nums", i === 0 ? "" : i === ticks.length - 1 && t >= domain ? "-translate-x-full" : "-translate-x-1/2"]} style={`left:${w(t)}`}>
+              {formatDollars(t)}
+            </span>
+          ))
+        }
+      </div>
+      <span class="text-end">Total</span>
+    </div>
+    <ul class="mt-1">
+      {
+        provinces.map((p) => (
+          <li class="grid grid-cols-[6.5rem_minmax(0,1fr)_3.75rem] items-center gap-x-3 py-1 sm:grid-cols-[11rem_minmax(0,1fr)_4rem]">
+            <span class="truncate text-xs text-secondary sm:text-sm">{p.info.en}</span>
+            <div class="relative h-6">
+              {ticks.map((t) => (
+                <span class="absolute inset-y-0 w-px bg-subtle" style={`left:${w(t)}`} aria-hidden="true" />
+              ))}
+              <div class="relative flex h-full overflow-hidden rounded-e-md" style={`width:${w(p.total)}`}>
+                {PARTS.filter((part) => p[part.key] > 0).map((part) => (
+                  <span
+                    tabindex="0"
+                    role="img"
+                    class="h-full border-e-2 border-surface last:border-e-0 focus-visible:outline-offset-0"
+                    style={`width:${((100 * p.per[part.key]) / p.total).toFixed(2)}%;background:${part.color}`}
+                    data-tip={`${p.info.en}: ${part.label}`}
+                    data-tip-rows={JSON.stringify([
+                      ["Per person", formatDollars(p.per[part.key]), part.color],
+                      ["Total", formatMillions(p[part.key])],
+                    ])}
+                    aria-label={`${p.info.en}, ${part.label}: ${formatDollars(p.per[part.key])} per person`}
+                  />
+                ))}
+              </div>
+            </div>
+            <span class="text-end text-xs font-semibold text-primary tabular-nums sm:text-sm">{formatDollars(p.total)}</span>
+          </li>
+        ))
+      }
+    </ul>
+    <ChartTip />
+  </tn-tips>
+  <p class="mt-3 text-xs text-muted">
+    Dollars per resident in fiscal year {L.label}, using the population Finance Canada uses to share out the transfers.
+    The territories aren't shown, to keep the scale readable: on top of the health and social transfers, Territorial
+    Formula Financing gives them {formatDollars(tffRange[0]!)} to {formatDollars(tffRange.at(-1)!)} per person (see the table).
+  </p>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Province or territory</th>
+          <th scope="col">Population</th>
+          <th scope="col">CHT, $M</th>
+          <th scope="col">CST, $M</th>
+          <th scope="col">Equalization, $M</th>
+          <th scope="col">TFF, $M</th>
+          <th scope="col">Total per person</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          all.map((p) => (
+            <tr>
+              <th scope="row" class="font-normal">
+                {p.info.en}
+              </th>
+              <td>{p.population.toLocaleString("en-CA")}</td>
+              <td>{p.cht.toLocaleString("en-CA")}</td>
+              <td>{p.cst.toLocaleString("en-CA")}</td>
+              <td>{p.equalization ? p.equalization.toLocaleString("en-CA") : "—"}</td>
+              <td>{p.tff ? p.tff.toLocaleString("en-CA") : "—"}</td>
+              <td>{formatDollars(per(p.cht + p.cst + p.equalization + p.tff, p.population))}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <caption>
+        Millions of dollars, cash payments, fiscal year {L.label}. CHT: Canada Health Transfer. CST: Canada Social Transfer.
+        TFF: Territorial Formula Financing.
+      </caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+<script>
+  import "../../scripts/chart-tips";
+</script>

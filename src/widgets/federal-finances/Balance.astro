@@ -1,0 +1,143 @@
+---
+/** Federal revenue and spending as a share of GDP, the gap between them, and the deficit or surplus. */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import SeriesChart from "../../components/charts/SeriesChart.astro";
+import Legend from "../../components/charts/Legend.astro";
+import { finances, formatMillions } from "../../lib/money";
+import { ERAS, SOURCE_NOTE, X_MAX, X_MIN, X_TICKS, first, last, pct1, years } from "./eras";
+
+const REV = "var(--tn-data-cat-1)";
+const SPEND = "var(--tn-data-cat-2)";
+const DEFICIT = "var(--tn-data-cat-8)";
+const SURPLUS = "var(--tn-data-cat-1)";
+
+const peak = years.reduce((a, b) => (b.expenses > a.expenses ? b : a));
+const worst = years.reduce((a, b) => (b.balance < a.balance ? b : a));
+const covid = years.find((y) => y.year === 2020);
+// The most recent run of surpluses.
+const surplusYears = years.filter((y) => y.balance > 0 && y.source === "frt");
+const runEnd = surplusYears.at(-1);
+let runStart = runEnd;
+while (runStart && surplusYears.some((y) => y.year === runStart!.year - 1)) runStart = surplusYears.find((y) => y.year === runStart!.year - 1);
+const deficitOrSurplus = (v: number) => (v < 0 ? "deficit" : "surplus");
+
+const yMax = Math.ceil(Math.max(...years.map((y) => Math.max(y.revenue, y.expenses))) / 10) * 10;
+const yMinBal = Math.floor(Math.min(...years.map((y) => y.balance)) / 10) * 10;
+const yMaxBal = Math.max(10, Math.ceil(Math.max(...years.map((y) => y.balance)) / 5) * 5);
+
+const sources = [
+  { label: `Finance Canada, Fiscal Reference Tables (${finances.edition}), tables 1 and 2`, url: finances._meta.url },
+  { label: "Statistics Canada, Historical Statistics of Canada, series H1-18, H19-34 and F14-32", url: finances._meta.urls![2]! },
+];
+---
+
+<ChartCard
+  title={`Federal revenue and spending, ${first.label} to ${last.label}`}
+  lede={`Spending peaked at ${pct1(peak.expenses)} of the economy in ${peak.label}, during the Second World War. In ${last.label}, Ottawa took in ${pct1(last.revenue)} of GDP and spent ${pct1(last.expenses)}: a ${deficitOrSurplus(last.balance)} of ${pct1(Math.abs(last.balance))} of GDP (${formatMillions(Math.abs(last.balanceM ?? 0))}).`}
+  sources={sources}
+  tableLabel="Show the data"
+>
+  <Legend
+    items={[
+      { label: "Revenue", color: REV },
+      { label: "Spending", color: SPEND },
+      { label: "Deficit (spending above revenue)", color: DEFICIT, kind: "band" },
+      { label: "Surplus", color: SURPLUS, kind: "band" },
+    ]}
+  />
+  <p class="mt-3 text-xs font-medium text-muted">Per cent of GDP</p>
+  <SeriesChart
+    title="Federal revenue and spending as a share of GDP"
+    desc={`Two lines from ${first.label} to ${last.label}. Spending jumps to ${pct1(peak.expenses)} of GDP in ${peak.label} and to ${pct1(covid?.expenses ?? 0)} in 2020-21; revenue stays between about 7% and 25%. Shading between the lines shows deficits and surpluses.`}
+    height={280}
+    xMin={X_MIN}
+    xMax={X_MAX}
+    yMin={0}
+    yMax={yMax}
+    yTicks={Array.from({ length: yMax / 10 + 1 }, (_, i) => i * 10)}
+    yFormat={(v) => `${v}%`}
+    xTicks={X_TICKS}
+    eras={ERAS}
+    gap={{ a: years.map((y) => [y.year, y.revenue]), b: years.map((y) => [y.year, y.expenses]), above: DEFICIT, below: SURPLUS }}
+    lines={[
+      { points: years.map((y) => [y.year, y.revenue]), color: REV },
+      { points: years.map((y) => [y.year, y.expenses]), color: SPEND },
+    ]}
+    notes={[{ x: peak.year, y: peak.expenses, label: `${pct1(peak.expenses)} in ${peak.label}`, color: SPEND }]}
+    hover={{
+      xs: years.map((y) => y.year),
+      labels: years.map((y) => y.label),
+      labelPrefix: "Fiscal year ",
+      series: [
+        { label: "Revenue", color: REV, suf: "% of GDP" },
+        { label: "Spending", color: SPEND, suf: "% of GDP" },
+        { label: "Deficit or surplus", color: "var(--tn-text-muted)", suf: "% of GDP", signed: true, dot: false },
+      ],
+      values: [years.map((y) => y.revenue), years.map((y) => y.expenses), years.map((y) => y.balance)],
+    }}
+    hoverLabel="Federal revenue and spending chart: use the left and right arrow keys to read each year"
+  />
+
+  <p class="mt-6 text-sm font-medium text-primary">Deficit (−) or surplus (+), per cent of GDP</p>
+  <p class="mt-0.5 text-xs text-muted">
+    The deepest deficit was {pct1(worst.balance)} of GDP in {worst.label}.{" "}
+    {covid && `COVID-19 brought the deepest since: ${pct1(covid.balance)} in ${covid.label}.`}{" "}
+    {runStart && runEnd && `The last run of surpluses was ${runStart.label} to ${runEnd.label}.`}
+  </p>
+  <SeriesChart
+    title="Federal deficit or surplus as a share of GDP"
+    desc={`Bars for each year: below zero for a deficit, above for a surplus. The deepest is ${pct1(worst.balance)} in ${worst.label}.`}
+    height={170}
+    xMin={X_MIN - 0.5}
+    xMax={X_MAX + 0.5}
+    yMin={yMinBal}
+    yMax={yMaxBal}
+    yTicks={Array.from({ length: (yMaxBal - yMinBal) / 10 + 1 }, (_, i) => yMinBal + i * 10).filter((v) => v <= yMaxBal)}
+    yFormat={(v) => `${v > 0 ? "+" : v < 0 ? "−" : ""}${Math.abs(v)}%`}
+    xTicks={X_TICKS}
+    bars={{ points: years.map((y) => [y.year, y.balance]), pos: SURPLUS, neg: DEFICIT, width: 0.7 }}
+    hover={{
+      xs: years.map((y) => y.year),
+      labels: years.map((y) => y.label),
+      labelPrefix: "Fiscal year ",
+      series: [
+        { label: "Deficit or surplus", color: "var(--tn-text-muted)", suf: "% of GDP", signed: true },
+        { label: "In dollars", color: "var(--tn-text-muted)", pre: "$", suf: " billion", scale: 0.001, signed: true, dot: false },
+      ],
+      values: [years.map((y) => y.balance), years.map((y) => y.balanceM ?? null)],
+    }}
+    hoverLabel="Federal deficit or surplus chart: use the left and right arrow keys to read each year"
+  />
+  <p class="mt-2 text-end text-xs text-muted">Fiscal year (starting April 1)</p>
+  <p class="mt-3 text-xs text-muted">{SOURCE_NOTE}</p>
+
+  <Fragment slot="table">
+    <div class="max-h-96 overflow-y-auto">
+      <table>
+        <thead class="sticky top-0">
+          <tr>
+            <th scope="col">Fiscal year</th>
+            <th scope="col">Revenue</th>
+            <th scope="col">Spending</th>
+            <th scope="col">Deficit or surplus</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            years.toReversed().map((y) => (
+              <tr>
+                <th scope="row" class="font-normal">
+                  {y.label}
+                </th>
+                <td>{pct1(y.revenue)}</td>
+                <td>{pct1(y.expenses)}</td>
+                <td>{pct1(y.balance)}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+        <caption>Per cent of GDP. Spending includes interest on the debt. {SOURCE_NOTE}</caption>
+      </table>
+    </div>
+  </Fragment>
+</ChartCard>

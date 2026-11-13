@@ -24,6 +24,14 @@ are built from these datasets when the site is built.
 - **Statistics Canada** data is used under the
   [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada).
   This site is not endorsed by Statistics Canada.
+- **Finance Canada** (the Fiscal Reference Tables and the Historical Transfer Tables)
+  publishes its data under the same
+  [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada).
+  The **Bank of Canada**'s interest rates come from its Valet data service, used under the
+  Bank's [terms of use](https://www.bankofcanada.ca/terms/), which allow free use with
+  attribution. They feed the charts on [federal spending](/learn/government/the-budget),
+  [transfers and equalization](/learn/federalism/money-and-equalization) and
+  [the Bank of Canada](/learn/government/bank-of-canada-vs-mint). Neither endorses this site.
 
 ## Flags
 

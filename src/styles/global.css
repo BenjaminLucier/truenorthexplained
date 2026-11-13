@@ -47,6 +47,19 @@
   --tn-data-seq-4: #4f93b9;
   --tn-data-seq-5: #2c709d;
   --tn-data-seq-6: #154d76;
+
+  /* Data colours: categorical series (money and economy charts). Assign in this
+     order, never cycled: the order keeps neighbours apart for colour-blind
+     readers. --tn-data-band shades a target range behind a chart. Not for UI chrome. */
+  --tn-data-cat-1: #2a78d6;
+  --tn-data-cat-2: #eb6834;
+  --tn-data-cat-3: #1baf7a;
+  --tn-data-cat-4: #eda100;
+  --tn-data-cat-5: #e87ba4;
+  --tn-data-cat-6: #008300;
+  --tn-data-cat-7: #6250d6;
+  --tn-data-cat-8: #e34948;
+  --tn-data-band: #dcefe3;
 }
 
 [data-theme="dark"] {
@@ -83,6 +96,16 @@
   --tn-data-seq-4: #3b86a6;
   --tn-data-seq-5: #62a9c8;
   --tn-data-seq-6: #9ccfe4;
+
+  --tn-data-cat-1: #3987e5;
+  --tn-data-cat-2: #d95926;
+  --tn-data-cat-3: #199e70;
+  --tn-data-cat-4: #c98500;
+  --tn-data-cat-5: #d55181;
+  --tn-data-cat-6: #008300;
+  --tn-data-cat-7: #9085e9;
+  --tn-data-cat-8: #e66767;
+  --tn-data-band: #1b3427;
 }
 
 /* No-JavaScript fallback: follow the system setting. */
@@ -114,6 +137,16 @@
     --tn-data-seq-4: #3b86a6;
     --tn-data-seq-5: #62a9c8;
     --tn-data-seq-6: #9ccfe4;
+
+    --tn-data-cat-1: #3987e5;
+    --tn-data-cat-2: #d95926;
+    --tn-data-cat-3: #199e70;
+    --tn-data-cat-4: #c98500;
+    --tn-data-cat-5: #d55181;
+    --tn-data-cat-6: #008300;
+    --tn-data-cat-7: #9085e9;
+    --tn-data-cat-8: #e66767;
+    --tn-data-band: #1b3427;
   }
 }
 
@@ -274,6 +307,15 @@
   --color-data-seq-4: var(--tn-data-seq-4);
   --color-data-seq-5: var(--tn-data-seq-5);
   --color-data-seq-6: var(--tn-data-seq-6);
+  --color-data-cat-1: var(--tn-data-cat-1);
+  --color-data-cat-2: var(--tn-data-cat-2);
+  --color-data-cat-3: var(--tn-data-cat-3);
+  --color-data-cat-4: var(--tn-data-cat-4);
+  --color-data-cat-5: var(--tn-data-cat-5);
+  --color-data-cat-6: var(--tn-data-cat-6);
+  --color-data-cat-7: var(--tn-data-cat-7);
+  --color-data-cat-8: var(--tn-data-cat-8);
+  --color-data-band: var(--tn-data-band);
 
   --font-sans: "Inter Variable", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
 

@@ -1,0 +1,125 @@
+---
+/** Consumer price inflation, year over year, from 1915, with the inflation-control target range. */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import SeriesChart from "../../components/charts/SeriesChart.astro";
+import Legend from "../../components/charts/Legend.astro";
+import { BASE_YEAR, formatMonth, formatPct, monthX, prices, rates } from "../../lib/money";
+
+const RISE = "var(--tn-data-cat-2)";
+const FALL = "var(--tn-data-cat-1)";
+const cpi = prices.cpi.annual;
+const rows = cpi.slice(1).map((p, i) => ({ year: p.year, index: p.index, change: Number(((100 * (p.index - cpi[i]!.index)) / cpi[i]!.index).toFixed(1)) }));
+const first = rows[0]!;
+const last = rows.at(-1)!;
+
+const by = (pred: (r: (typeof rows)[number]) => boolean) => rows.filter(pred);
+const maxOf = (rs: typeof rows) => rs.reduce((a, b) => (b.change > a.change ? b : a));
+const ww1 = maxOf(by((r) => r.year <= 1920));
+const seventies = maxOf(by((r) => r.year >= 1970 && r.year <= 1990));
+const depression = by((r) => r.year >= 1929 && r.year <= 1939).reduce((a, b) => (b.change < a.change ? b : a));
+const y2022 = rows.find((r) => r.year === 2022);
+const sinceTargets = by((r) => r.year >= 1992);
+const avgSince = (Math.pow(last.index / cpi.find((p) => p.year === 1991)!.index, 1 / sinceTargets.length) - 1) * 100;
+const avgAll = (Math.pow(last.index / cpi[0]!.index, 1 / rows.length) - 1) * 100;
+const lastHigher = y2022 && by((r) => r.year < 2022 && r.change >= y2022.change).at(-1);
+
+const xEnd = last.year + 0.5;
+const yMin = Math.floor(Math.min(...rows.map((r) => r.change)) / 10) * 10;
+const yMax = Math.ceil(Math.max(...rows.map((r) => r.change)) / 10) * 10;
+const bands = rates.targetBand.map((b, i, all) => ({
+  x0: Math.max(monthX(b.from), first.year - 0.5),
+  x1: i + 1 < all.length ? monthX(all[i + 1]!.from) : xEnd,
+  y0: b.low,
+  y1: b.high,
+  color: "var(--tn-data-band)",
+}));
+---
+
+<ChartCard
+  title={`Inflation in Canada, ${first.year} to ${last.year}`}
+  lede={`Prices have risen ${formatPct(avgAll)} a year on average since ${cpi[0]!.year}, but in bursts: ${formatPct(ww1.change)} in ${ww1.year}, ${formatPct(seventies.change)} in ${seventies.year}. Since inflation targets took hold in the early 1990s, the average has been ${formatPct(avgSince)}.${y2022 ? ` The ${formatPct(y2022.change)} of 2022 was the highest since ${lastHigher?.year ?? "the 1980s"}.` : ""}`}
+  sources={[
+    { label: "Statistics Canada, Table 18-10-0005-01 (Consumer Price Index, annual average)", url: prices._meta.urls![0]! },
+    { label: "Bank of Canada, inflation-control target", url: rates._meta.urls![2]! },
+  ]}
+  tableLabel="Show the data"
+>
+  <Legend
+    items={[
+      { label: "Prices rose", color: RISE, kind: "box" },
+      { label: "Prices fell", color: FALL, kind: "box" },
+      { label: "Inflation-control target range", color: "var(--tn-data-band)", kind: "band" },
+    ]}
+  />
+  <p class="mt-3 text-xs font-medium text-muted">Change in the consumer price index from the year before, per cent</p>
+  <SeriesChart
+    title="Consumer price inflation in Canada by year"
+    desc={`Bars for each year from ${first.year}. Big spikes during and after the First World War (${formatPct(ww1.change)} in ${ww1.year}), falling prices in the Depression (${formatPct(depression.change)} in ${depression.year}), a long run of high inflation in the 1970s and early 1980s (${formatPct(seventies.change)} in ${seventies.year}), then mostly between 1% and 3% after 1991${y2022 ? `, with a jump to ${formatPct(y2022.change)} in 2022` : ""}.`}
+    height={270}
+    xMin={first.year - 0.5}
+    xMax={xEnd}
+    yMin={yMin}
+    yMax={yMax}
+    yTicks={Array.from({ length: (yMax - yMin) / 10 + 1 }, (_, i) => yMin + i * 10).filter((v) => v % 10 === 0)}
+    yFormat={(v) => `${v > 0 ? "+" : v < 0 ? "−" : ""}${Math.abs(v)}%`}
+    xTicks={[1920, 1940, 1960, 1980, 2000, 2020]}
+    bands={bands}
+    eras={[
+      { from: 1914.5, to: 1918.9, label: "First World War", lane: 0 },
+      { from: 1929.5, to: 1933.5, label: "Depression", lane: 1 },
+      { from: 1972.5, to: 1982.5, label: "1970s inflation", lane: 0 },
+      { from: 2021.5, to: 2023.5, label: "2022", lane: 0, anchor: "end" },
+    ]}
+    markers={[{ x: 1991.1, label: "1991: inflation targets" }]}
+    bars={{ points: rows.map((r) => [r.year, r.change]), pos: RISE, neg: FALL, width: 0.72 }}
+    notes={[
+      { x: seventies.year, y: seventies.change, label: `${formatPct(seventies.change)} in ${seventies.year}`, anchor: "end", dy: -4 },
+      ...(y2022 ? [{ x: 2022, y: y2022.change, label: formatPct(y2022.change), anchor: "end" as const, dy: -4 }] : []),
+    ]}
+    hover={{
+      xs: rows.map((r) => r.year),
+      labels: rows.map((r) => String(r.year)),
+      series: [
+        { label: "Inflation", color: "var(--tn-text-muted)", suf: "%", signed: true },
+        { label: "Price index (2002 = 100)", color: "var(--tn-text-muted)", dp: 1, dot: false },
+      ],
+      values: [rows.map((r) => r.change), rows.map((r) => r.index)],
+    }}
+    hoverLabel="Inflation chart: use the left and right arrow keys to read each year"
+  />
+  <p class="mt-2 text-end text-xs text-muted">Calendar year</p>
+  <p class="mt-3 text-xs text-muted">
+    Annual average of the all-items consumer price index for Canada. The index is published to one decimal and early
+    values are small ({cpi[0]!.index.toFixed(1)} in {cpi[0]!.year}), so early yearly changes are approximate. The latest month, {formatMonth(prices.cpi.latestMonth.month)},
+    was {formatPct(prices.cpi.latestYoY)} above a year earlier. The band shows the Bank of Canada's target range,
+    which applies to the 12-month change in the index.
+  </p>
+
+  <Fragment slot="table">
+    <div class="max-h-96 overflow-y-auto">
+      <table>
+        <thead class="sticky top-0">
+          <tr>
+            <th scope="col">Year</th>
+            <th scope="col">Inflation</th>
+            <th scope="col">Price index (2002 = 100)</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            rows.toReversed().map((r) => (
+              <tr>
+                <th scope="row" class="font-normal">
+                  {r.year}
+                </th>
+                <td>{formatPct(r.change)}</td>
+                <td>{r.index.toFixed(1)}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+        <caption>Inflation is the change in the annual average index from the year before. {cpi[0]!.year}: index {cpi[0]!.index.toFixed(1)}. Prices in {BASE_YEAR} were about {Math.round(last.index / cpi[0]!.index)} times their {cpi[0]!.year} level.</caption>
+      </table>
+    </div>
+  </Fragment>
+</ChartCard>

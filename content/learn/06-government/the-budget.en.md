@@ -58,6 +58,26 @@ Some key points:
 > the change puts the budget ahead of the Main Estimates, so more budget measures can
 > be included in them.
 
+### What the numbers look like
+
+Every budget forecasts revenue, spending and the gap between them. Here's how they've
+actually turned out, measured against the size of the whole economy (**GDP**, gross
+domestic product) so that years decades apart can be compared:
+
+<tn-widget name="federal-finances" data-chart="balance"></tn-widget>
+
+When spending is higher than revenue, the government borrows the difference. Those
+deficits add up to the **federal debt**, which is easiest to judge against the size of
+the economy that supports it:
+
+<tn-widget name="federal-finances" data-chart="debt"></tn-widget>
+
+And here's where the money came from and went in the most recent year with final
+figures. Notice how much of it is transfers set by existing laws (statutory spending,
+explained below) rather than the running costs of departments:
+
+<tn-widget name="federal-finances" data-chart="budget"></tn-widget>
+
 ### The estimates
 
 The **estimates** are the government's detailed requests to Parliament for the money

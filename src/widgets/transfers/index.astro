@@ -1,0 +1,20 @@
+---
+/**
+ * Federal transfers to provinces and territories, from Finance Canada's
+ * Historical Transfer Tables (src/data/money/transfers.json, `pnpm data:money`).
+ *
+ *   <tn-widget name="transfers" data-chart="equalization"></tn-widget>
+ *
+ * data-chart: equalization (program size and a provinces × years heatmap) | per-person (latest year's CHT, CST and equalization)
+ */
+import Equalization from "./Equalization.astro";
+import PerPerson from "./PerPerson.astro";
+
+interface Props {
+  chart: "equalization" | "per-person";
+}
+const { chart } = Astro.props;
+---
+
+{chart === "equalization" && <Equalization />}
+{chart === "per-person" && <PerPerson />}

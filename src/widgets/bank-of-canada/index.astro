@@ -1,0 +1,23 @@
+---
+/**
+ * Interest rates and prices: the Bank of Canada's policy rate since 1935,
+ * consumer price inflation since 1915, and a what-is-a-dollar-worth calculator
+ * (src/data/money/prices.json and interest-rates.json, from `pnpm data:money`).
+ *
+ *   <tn-widget name="bank-of-canada" data-chart="rates"></tn-widget>
+ *
+ * data-chart: rates | inflation | calculator
+ */
+import Rates from "./Rates.astro";
+import Inflation from "./Inflation.astro";
+import Calculator from "./Calculator.astro";
+
+interface Props {
+  chart: "rates" | "inflation" | "calculator";
+}
+const { chart } = Astro.props;
+---
+
+{chart === "rates" && <Rates />}
+{chart === "inflation" && <Inflation />}
+{chart === "calculator" && <Calculator />}

@@ -1,0 +1,318 @@
+---
+/**
+ * Build-time SVG chart over a numeric x axis (years, or months as fractional
+ * years) with hover and keyboard tooltips. It extends the approach of
+ * src/components/reference/LineChart.astro (see src/lib/charts.ts): text stays
+ * at its real size while the plotted marks stretch to any width.
+ *
+ * Marks: lines (optionally stepped or filled), diverging bars, a shaded gap
+ * between two lines, value bands (e.g. a target range), era bands with labels,
+ * vertical markers and point notes. `hover` turns the chart into a focusable
+ * <tn-series-hover> (src/scripts/chart-tips.ts).
+ */
+import { PLOT_W, linePath, pct, scale } from "../../lib/charts";
+import { uniqueId } from "../../lib/ids";
+import type { SeriesConfig } from "../../scripts/chart-tips";
+import ChartTip from "./ChartTip.astro";
+
+type Pt = [number, number | null];
+export interface Line {
+  points: Pt[];
+  /** A CSS colour, normally a data token: "var(--tn-data-cat-1)". */
+  color: string;
+  width?: number;
+  dashed?: boolean;
+  /** Draw as steps: each value holds until the next point. */
+  step?: boolean;
+  /** Fill down to zero with a light tint. */
+  area?: boolean;
+}
+export interface Hover {
+  xs: number[];
+  labels: string[];
+  series: SeriesConfig["series"];
+  values: (number | null)[][];
+  step?: boolean;
+  labelPrefix?: string;
+  labelFormat?: "month";
+}
+
+interface Props {
+  title: string;
+  desc: string;
+  height?: number;
+  xMin: number;
+  xMax: number;
+  yMin: number;
+  yMax: number;
+  yTicks: number[];
+  yFormat?: (v: number) => string;
+  /** Appended to the top y label, e.g. "% of GDP". */
+  yUnit?: string;
+  xTicks: number[];
+  xFormat?: (v: number) => string;
+  lines?: Line[];
+  bars?: { points: [number, number][]; pos: string; neg: string; width?: number };
+  /** Shade between line a and line b: `above` where b is higher than a, `below` where it is lower. */
+  gap?: { a: [number, number][]; b: [number, number][]; above: string; below: string };
+  bands?: { x0: number; x1: number; y0: number; y1: number; color: string }[];
+  eras?: { from: number; to: number; label: string; lane?: number; anchor?: "start" | "end" }[];
+  markers?: { x: number; label: string }[];
+  notes?: { x: number; y: number; label: string; color?: string; anchor?: "start" | "end"; dy?: number }[];
+  hover?: Hover;
+  /** Accessible name for the focusable hover layer. */
+  hoverLabel?: string;
+}
+
+const {
+  title,
+  desc,
+  height = 260,
+  xMin,
+  xMax,
+  yMin,
+  yMax,
+  yTicks,
+  yFormat = (v: number) => String(v),
+  yUnit,
+  xTicks,
+  xFormat = (v: number) => String(v),
+  lines = [],
+  bars,
+  gap,
+  bands = [],
+  eras = [],
+  markers = [],
+  notes = [],
+  hover,
+  hoverLabel,
+} = Astro.props;
+
+const id = uniqueId(Astro, "sc", title);
+const lanes = eras.length ? Math.max(...eras.map((e) => e.lane ?? 0)) + 1 : 0;
+const TOP = 18 + lanes * 15;
+const BOTTOM = 22;
+const plotH = height - TOP - BOTTOM;
+const x = scale(xMin, xMax, 0, PLOT_W);
+const y = scale(yMin, yMax, plotH, 0);
+const yc = (v: number) => Math.max(0, Math.min(plotH, y(v)));
+
+/** Path for a line, broken at nulls, optionally stepped. */
+function pathFor(l: Line): string {
+  const parts: [number, number][][] = [[]];
+  let prev: [number, number] | null = null;
+  for (const [px, py] of l.points) {
+    if (py === null) {
+      if (parts.at(-1)!.length) parts.push([]);
+      prev = null;
+      continue;
+    }
+    const pt: [number, number] = [x(px), yc(py)];
+    if (l.step && prev) parts.at(-1)!.push([pt[0], prev[1]]);
+    parts.at(-1)!.push(pt);
+    prev = pt;
+  }
+  return parts.filter((p) => p.length > 1).map(linePath).join("");
+}
+const areaFor = (l: Line) => {
+  const pts = l.points.filter((p): p is [number, number] => p[1] !== null);
+  if (pts.length < 2) return "";
+  const base = yc(Math.max(yMin, 0));
+  return `${pathFor({ ...l, points: pts })}L${x(pts.at(-1)![0]).toFixed(1)} ${base}L${x(pts[0]![0]).toFixed(1)} ${base}Z`;
+};
+
+const gapPaths = gap && {
+  between:
+    linePath(gap.a.map(([px, py]) => [x(px), yc(py)])) +
+    gap.b
+      .toReversed()
+      .map(([px, py]) => `L${x(px).toFixed(1)} ${yc(py).toFixed(1)}`)
+      .join("") +
+    "Z",
+  aboveA: `${linePath(gap.a.map(([px, py]) => [x(px), yc(py)]))}L${x(gap.a.at(-1)![0]).toFixed(1)} 0L${x(gap.a[0]![0]).toFixed(1)} 0Z`,
+  belowA: `${linePath(gap.a.map(([px, py]) => [x(px), yc(py)]))}L${x(gap.a.at(-1)![0]).toFixed(1)} ${plotH}L${x(gap.a[0]![0]).toFixed(1)} ${plotH}Z`,
+};
+
+const config: SeriesConfig | null = hover
+  ? {
+      x: hover.xs.map((v) => Number((x(v) / PLOT_W).toFixed(4))),
+      labels: hover.labels,
+      series: hover.series,
+      values: hover.values,
+      yMin,
+      yMax,
+      top: TOP,
+      plotH,
+      step: hover.step,
+      labelPrefix: hover.labelPrefix,
+      labelFormat: hover.labelFormat,
+    }
+  : null;
+const Host = hover ? "tn-series-hover" : "div";
+const topTick = yTicks.at(-1);
+---
+
+<Host
+  class="relative block rounded-sm"
+  tabindex={hover ? "0" : undefined}
+  aria-label={hover ? (hoverLabel ?? `${title}: use the arrow keys to read each value`) : undefined}
+  aria-describedby={hover ? `${id}-d` : undefined}
+>
+  <svg class="block w-full overflow-visible select-none" height={height} role="img" aria-labelledby={`${id}-t ${id}-d`} style="font-variant-numeric: tabular-nums">
+    <title id={`${id}-t`}>{title}</title>
+    <desc id={`${id}-d`}>{desc}</desc>
+    <svg x="0" y={TOP} width="100%" height={plotH} viewBox={`0 0 ${PLOT_W} ${plotH}`} preserveAspectRatio="none" overflow="visible">
+      {
+        eras.map((e) => (
+          <rect x={x(e.from)} width={Math.max(x(e.to) - x(e.from), 2)} y="0" height={plotH} fill="var(--tn-surface-muted)" />
+        ))
+      }
+      {bands.map((b) => <rect x={x(b.x0)} width={x(b.x1) - x(b.x0)} y={yc(b.y1)} height={yc(b.y0) - yc(b.y1)} fill={b.color} />)}
+    </svg>
+    {
+      yTicks.map((v) => (
+        <g>
+          <line x1="0" x2="100%" y1={TOP + y(v)} y2={TOP + y(v)} class:list={[v === 0 || v === yMin ? "stroke-strong" : "stroke-subtle"]} />
+        </g>
+      ))
+    }
+    {
+      eras.map((e) => {
+        const right = e.anchor ? e.anchor === "end" : x(e.from) > PLOT_W * 0.72;
+        return (
+          <text
+            x={pct(right ? x(e.to) : x(e.from))}
+            dx={right ? 2 : x(e.from) <= 1 ? 0 : -2}
+            y={12 + (e.lane ?? 0) * 15}
+            text-anchor={right ? "end" : "start"}
+            class="fill-secondary text-[11px] font-medium"
+          >
+            {e.label}
+          </text>
+        );
+      })
+    }
+    {
+      markers.map((m) => (
+        <g>
+          <line x1={pct(x(m.x))} x2={pct(x(m.x))} y1={TOP} y2={TOP + plotH} class="stroke-strong" stroke-dasharray="3 3" />
+          <text
+            x={pct(x(m.x))}
+            dx={x(m.x) > PLOT_W * 0.6 ? -4 : 4}
+            y={TOP + plotH - 6}
+            text-anchor={x(m.x) > PLOT_W * 0.6 ? "end" : "start"}
+            class="fill-muted text-[10px]"
+          >
+            {m.label}
+          </text>
+        </g>
+      ))
+    }
+    <svg x="0" y={TOP} width="100%" height={plotH} viewBox={`0 0 ${PLOT_W} ${plotH}`} preserveAspectRatio="none" overflow="visible">
+      {
+        gapPaths && gap && (
+          <>
+            <defs>
+              <clipPath id={`${id}-above`}>
+                <path d={gapPaths.aboveA} />
+              </clipPath>
+              <clipPath id={`${id}-below`}>
+                <path d={gapPaths.belowA} />
+              </clipPath>
+            </defs>
+            <path d={gapPaths.between} fill={gap.above} fill-opacity="0.28" clip-path={`url(#${id}-above)`} />
+            <path d={gapPaths.between} fill={gap.below} fill-opacity="0.28" clip-path={`url(#${id}-below)`} />
+          </>
+        )
+      }
+      {
+        bars &&
+          bars.points.map(([bx, bv]) => {
+            const w = (bars.width ?? 0.8) * (PLOT_W / (xMax - xMin));
+            const y0 = yc(0);
+            const y1 = yc(bv);
+            return <rect x={x(bx) - w / 2} width={w} y={Math.min(y0, y1)} height={Math.max(Math.abs(y1 - y0), 0.5)} fill={bv >= 0 ? bars.pos : bars.neg} />;
+          })
+      }
+      {lines.map((l) => l.area && <path d={areaFor(l)} fill={l.color} fill-opacity="0.12" stroke="none" />)}
+      {
+        lines.map((l) => (
+          <path
+            d={pathFor(l)}
+            fill="none"
+            stroke={l.color}
+            stroke-width={l.width ?? 2}
+            stroke-linejoin="round"
+            stroke-linecap="round"
+            vector-effect="non-scaling-stroke"
+            stroke-dasharray={l.dashed ? "5 4" : undefined}
+          />
+        ))
+      }
+    </svg>
+    {
+      notes.map((n) => (
+        <g>
+          <circle cx={pct(x(n.x))} cy={TOP + yc(n.y)} r="3.5" fill={n.color ?? "var(--tn-text-primary)"} stroke="var(--tn-surface)" stroke-width="1.5" />
+          <text
+            x={pct(x(n.x))}
+            dx={(n.anchor ?? "start") === "start" ? 7 : -7}
+            y={TOP + yc(n.y) + (n.dy ?? 4)}
+            text-anchor={n.anchor ?? "start"}
+            class="fill-primary text-[11px] font-semibold"
+            paint-order="stroke"
+            stroke="var(--tn-surface)"
+            stroke-width="3"
+            stroke-linejoin="round"
+          >
+            {n.label}
+          </text>
+        </g>
+      ))
+    }
+    {
+      /* Y labels go over the marks, with a halo in the card colour so they stay readable. */
+      yTicks
+        .filter((v) => !(v === 0 && yMin === 0))
+        .map((v) => (
+          <text
+            x="0"
+            y={TOP + y(v) - 4}
+            class="fill-muted text-[11px]"
+            paint-order="stroke"
+            stroke="var(--tn-surface)"
+            stroke-width="3"
+            stroke-linejoin="round"
+          >
+            {yFormat(v)}
+            {v === topTick && yUnit ? ` ${yUnit}` : ""}
+          </text>
+        ))
+    }
+    {
+      xTicks.map((t, i) => (
+        <text
+          x={pct(x(t))}
+          y={height - 5}
+          text-anchor={i === 0 && x(t) < 40 ? "start" : i === xTicks.length - 1 && x(t) > PLOT_W - 40 ? "end" : "middle"}
+          class="fill-muted text-[11px]"
+        >
+          {xFormat(t)}
+        </text>
+      ))
+    }
+  </svg>
+  {
+    config && (
+      <>
+        <div data-guide hidden class="pointer-events-none absolute left-0 w-px bg-primary/40" style={`top:${TOP}px;height:${plotH}px`} />
+        <ChartTip />
+        <script type="application/json" data-config set:html={JSON.stringify(config)} />
+      </>
+    )
+  }
+</Host>
+
+<script>
+  import "../../scripts/chart-tips";
+</script>

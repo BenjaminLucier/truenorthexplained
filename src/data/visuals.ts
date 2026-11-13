@@ -7,7 +7,7 @@
  */
 import type * as icons from "lucide-static";
 
-export type VisualKind = "map" | "chart" | "interactive" | "timeline" | "reference";
+export type VisualKind = "map" | "chart" | "money" | "interactive" | "timeline" | "reference";
 
 export interface Visual {
   title: string;
@@ -22,6 +22,7 @@ export interface Visual {
 export const KINDS: Record<VisualKind, { title: string; text: string }> = {
   map: { title: "Maps", text: "Canada's provinces, territories and all 343 ridings." },
   chart: { title: "Parliament in numbers", text: "Who holds the seats, and how votes turn into them." },
+  money: { title: "Money and the economy", text: "Federal budgets, transfers to the provinces, interest rates and prices." },
   interactive: { title: "Step through it", text: "Explainers you click through, and a game to test yourself." },
   timeline: { title: "Timelines", text: "How we got here, one event at a time." },
   reference: { title: "People and population", text: "Every prime minister, governor general and census." },
@@ -82,6 +83,66 @@ export const VISUALS: Visual[] = [
     href: "/learn/parliament/senate#senate-composition",
     icon: "Landmark",
     kind: "chart",
+  },
+
+  // Money and the economy
+  {
+    title: "Federal revenue and spending",
+    text: "A century of federal budgets as a share of the economy, with every deficit and surplus.",
+    href: "/learn/government/the-budget#federal-finances",
+    icon: "ChartArea",
+    kind: "money",
+    featured: true,
+  },
+  {
+    title: "Federal debt",
+    text: "Federal debt against the size of the economy, from the Second World War to today.",
+    href: "/learn/government/the-budget#federal-finances-2",
+    icon: "TrendingUp",
+    kind: "money",
+  },
+  {
+    title: "Where the money goes",
+    text: "The latest year's federal revenue by source and spending by type.",
+    href: "/learn/government/the-budget#federal-finances-3",
+    icon: "ChartBarStacked",
+    kind: "money",
+  },
+  {
+    title: "Major transfers per person",
+    text: "Health, social and equalization payments per resident of each province.",
+    href: "/learn/federalism/money-and-equalization#transfers",
+    icon: "HandCoins",
+    kind: "money",
+  },
+  {
+    title: "Who receives equalization",
+    text: "Every province and every year since 1957, in today's dollars.",
+    href: "/learn/federalism/money-and-equalization#transfers-2",
+    icon: "Grid3x3",
+    kind: "money",
+    featured: true,
+  },
+  {
+    title: "Inflation since 1914",
+    text: "How fast prices rose each year, and the Bank of Canada's target range.",
+    href: "/learn/government/bank-of-canada-vs-mint#bank-of-canada",
+    icon: "Percent",
+    kind: "money",
+  },
+  {
+    title: "The policy interest rate",
+    text: "The Bank of Canada's key rate, month by month since 1935.",
+    href: "/learn/government/bank-of-canada-vs-mint#bank-of-canada-2",
+    icon: "Landmark",
+    kind: "money",
+  },
+  {
+    title: "What is a dollar worth?",
+    text: "Turn an amount from any year since 1914 into today's dollars.",
+    href: "/learn/government/bank-of-canada-vs-mint#bank-of-canada-3",
+    icon: "Calculator",
+    kind: "money",
   },
 
   // Interactives
