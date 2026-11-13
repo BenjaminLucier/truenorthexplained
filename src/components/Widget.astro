@@ -18,6 +18,12 @@ if (!Component) {
 }
 ---
 
-{/* The anchor is an empty marker so widgets keep full control of their own markup. */}
-{anchor && <span id={anchor} class="block scroll-mt-24" aria-hidden="true"></span>}
-<Component {...props} />
+{/*
+  Pages are full width with prose held to reading width; this wrapper is what
+  lets a widget use the whole width (see ContentLayout's article). The anchor
+  is an empty marker so widgets keep full control of their own markup.
+*/}
+<div class="tn-widget">
+  {anchor && <span id={anchor} class="block scroll-mt-24" aria-hidden="true"></span>}
+  <Component {...props} />
+</div>

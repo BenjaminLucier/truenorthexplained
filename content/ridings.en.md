@@ -3,7 +3,6 @@ id: ridings
 title: "Ridings map"
 summary: "All 343 federal ridings: who won each one in 2025, by how much, and how many people voted."
 status: draft
-wide: true
 ---
 
 ## What is a riding?
