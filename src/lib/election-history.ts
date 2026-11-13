@@ -116,7 +116,8 @@ export function largest(e: Election): FederalFamily {
 // mapped onto the 0–1000 plotting width of src/lib/charts.ts.
 
 export const X0 = 1867;
-export const X1 = Math.ceil(today);
+// floor + 1 rather than ceil: on January 1 the fraction is whole, and ceil would end the axis today.
+export const X1 = Math.floor(today) + 1;
 export const xOf = (yearFrac: number) => ((yearFrac - X0) / (X1 - X0)) * 1000;
 export const xOfDate = (iso: string) => xOf(yearFraction(iso));
 export const X_TICKS = [1867, 1900, 1925, 1950, 1975, 2000, 2025];

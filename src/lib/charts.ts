@@ -56,7 +56,8 @@ export const pct = (x: number) => `${((x / PLOT_W) * 100).toFixed(2)}%`;
 /** Axis label for counts: 40000000 → "40M", 750000 → "750K", 2500 → "2.5K". */
 export function compact(n: number): string {
   const a = Math.abs(n);
-  if (a >= 1e6) return `${Number((n / 1e6).toFixed(1))}M`;
+  // Compare after rounding, so 999,950 reads "1M" rather than "1000K".
+  if (a >= 999_950) return `${Number((n / 1e6).toFixed(1))}M`;
   if (a >= 1e3) return `${Number((n / 1e3).toFixed(1))}K`;
   return String(n);
 }
@@ -84,8 +85,11 @@ export interface ValueFormat {
 
 export function formatValue(v: number, f: ValueFormat): string {
   const n = v * (f.scale ?? 1);
-  const abs = Math.abs(n).toLocaleString("en-CA", { minimumFractionDigits: f.dp ?? 1, maximumFractionDigits: f.dp ?? 1 });
-  const sign = n < 0 ? "−" : f.signed && n > 0 ? "+" : "";
+  const dp = f.dp ?? 1;
+  const abs = Math.abs(n).toLocaleString("en-CA", { minimumFractionDigits: dp, maximumFractionDigits: dp });
+  // The sign follows the rounded value: −0.04 at one decimal reads "0.0", not "−0.0".
+  const rounded = Number(n.toFixed(dp));
+  const sign = rounded < 0 ? "−" : f.signed && rounded > 0 ? "+" : "";
   return `${sign}${f.pre ?? ""}${abs}${f.suf ?? ""}`;
 }
 

@@ -353,8 +353,10 @@ const titleId = "court-map-title";
     @apply text-base;
   }
 
-  /* Selection and relations (set by the script) */
-  .court[aria-current="true"] {
+  /* Selection and relations (set by the script). The second selector outranks
+     the Supreme Court's soft fill above, so its selected text stays readable. */
+  .court[aria-current="true"],
+  .map-cell[data-system="top"] .court[aria-current="true"] {
     @apply border-accent bg-accent text-accent-contrast;
   }
   .court[aria-current="true"] :is(.court-name, .court-up) {

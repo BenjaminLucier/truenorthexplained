@@ -96,15 +96,21 @@ export function provincePopulation(code: ProvinceCode, year: number): number | u
 
 /** 526412 ($ millions) → "$526.4 billion"; 860 → "$860 million". */
 export function formatMillions(m: number, digits = 1): string {
-  const sign = m < 0 ? "−" : "";
   const a = Math.abs(m);
-  if (a >= 1000) return `${sign}$${(a / 1000).toLocaleString("en-CA", { minimumFractionDigits: digits, maximumFractionDigits: digits })} billion`;
+  const sign = m < 0 && Math.round(a) > 0 ? "−" : "";
+  // Compare after rounding, so 999.6 reads "$1.0 billion" rather than "$1,000 million".
+  if (Math.round(a) >= 1000) return `${sign}$${(a / 1000).toLocaleString("en-CA", { minimumFractionDigits: digits, maximumFractionDigits: digits })} billion`;
   return `${sign}$${Math.round(a).toLocaleString("en-CA")} million`;
 }
-export const formatDollars = (n: number) => `${n < 0 ? "−" : ""}$${Math.round(Math.abs(n)).toLocaleString("en-CA")}`;
+export const formatDollars = (n: number) => `${Math.round(n) < 0 ? "−" : ""}$${Math.round(Math.abs(n)).toLocaleString("en-CA")}`;
+/** The sign of `n` once rounded to `digits`, so −0.04 at one decimal has none ("0.0", not "−0.0"). */
+const signOf = (n: number, digits: number) => Math.sign(Number(n.toFixed(digits)));
 /** A signed percentage with a true minus sign: "−1.2%". */
-export const formatSignedPct = (n: number, digits = 1) => `${n > 0 ? "+" : n < 0 ? "−" : ""}${Math.abs(n).toFixed(digits)}%`;
-export const formatPct = (n: number, digits = 1) => `${n < 0 ? "−" : ""}${Math.abs(n).toFixed(digits)}%`;
+export function formatSignedPct(n: number, digits = 1): string {
+  const s = signOf(n, digits);
+  return `${s > 0 ? "+" : s < 0 ? "−" : ""}${Math.abs(n).toFixed(digits)}%`;
+}
+export const formatPct = (n: number, digits = 1) => `${signOf(n, digits) < 0 ? "−" : ""}${Math.abs(n).toFixed(digits)}%`;
 
 const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 /** "2026-09" → "September 2026". */

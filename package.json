@@ -22,7 +22,9 @@
     "data:treaties": "tsx scripts/data/treaties.ts",
     "data:demographics": "tsx scripts/data/demographics.ts",
     "data:portraits": "tsx scripts/data/portraits.ts",
-    "grounding": "tsx scripts/grounding/index.ts"
+    "grounding": "tsx scripts/grounding/index.ts",
+    "test": "vitest run",
+    "test:e2e": "pnpm build && playwright test"
   },
   "dependencies": {
     "astro": "7.4.11"
@@ -30,7 +32,9 @@
   "devDependencies": {
     "@astrojs/markdown-satteri": "0.4.9",
     "@astrojs/ts-content-mapper": "^0.2.0",
+    "@axe-core/playwright": "^4.14.0",
     "@fontsource-variable/inter": "^5.3.0",
+    "@playwright/test": "^1.65.0",
     "@tailwindcss/typography": "^0.5.20",
     "@tailwindcss/vite": "^4.3.5",
     "@types/d3-geo": "^3.1.1",
@@ -51,6 +55,7 @@
     "topojson-client": "^3.1.0",
     "tsx": "^4.23.15",
     "typescript": "7.1.0-beta",
+    "vitest": "^5.1.0",
     "yaml": "^2.9.1"
   }
 }
