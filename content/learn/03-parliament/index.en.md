@@ -33,7 +33,7 @@ Constitution says Parliament is made up of the King, the Senate and the House of
 | Senate | Senators | Appointed by the Governor General on the Prime Minister's recommendation; serve to age 75 | Reviews bills, studies issues, represents regions and groups |
 | House of Commons | Members of Parliament (MPs) | Elected, one per riding | Passes laws, approves taxes and spending, decides who governs |
 
-> **As of 2026:** The House of Commons has 343 seats and the Senate has 105.
+> **As of 2026:** The House of Commons has {{commons.seats}} seats and the Senate has {{senate.seats}}.
 
 ### What Parliament does
 
@@ -102,7 +102,7 @@ moral questions.
 
 ### The Senate in one paragraph
 
-The Senate is the "upper house." Its 105 senators are appointed, not elected, and seats are
+The Senate is the "upper house." Its {{senate.seats}} senators are appointed, not elected, and seats are
 divided by region rather than by population. It can amend or reject any bill, but because
 it isn't elected, by convention it usually gives way to the House. Since 2016, senators have
 been recommended through an independent advisory process, and most no longer sit as party

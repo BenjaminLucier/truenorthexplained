@@ -60,8 +60,8 @@ returns:
 - **John A. Macdonald** resigned in 1873 over the Pacific Scandal, a controversy about
   election money linked to the contract for the transcontinental railway. His party won
   the 1878 election and he governed until his death in 1891.
-- **The King–Byng affair (1926).** William Lyon Mackenzie King asked Governor General
-  Lord Byng to dissolve Parliament; Byng refused, and King resigned. Arthur Meighen
+- **[The King–Byng affair](event:king-byng-affair) (1926).** William Lyon Mackenzie King asked Governor General
+  [Lord Byng](person:julian-byng) to dissolve Parliament; Byng refused, and King resigned. Arthur Meighen
   formed a government but lost a confidence vote within days, and King won the election
   that followed. It's the best-known use of the Governor General's
   [reserve powers](/learn/crown/reserve-powers). See also the

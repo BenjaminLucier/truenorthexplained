@@ -25,8 +25,18 @@ How every page on True North Explained is written. The model page is
   amendments), put it in an "As of" note:
 
   ```markdown
-  > **As of 2026:** The House of Commons has 343 seats.
+  > **As of 2026:** The House of Commons has {{commons.seats}} seats.
   ```
+
+- Write a changing value as a **fact** when one exists: `{{commons.seats}}`,
+  `{{commons.majority}}`, `{{monarch.name}}`, `{{premier.ontario.name}}`. It's filled
+  in from the site's data at build time, so a data refresh updates every page. The
+  list of keys is in ARCHITECTURE.md ("Facts registry"). Facts work in body text, in
+  Mermaid diagrams and in `title` and `summary`, but not in headings. Only use them
+  for statements about now ("is King of Canada"), never for history ("Mary Simon
+  (2021) was the first Indigenous Governor General" stays as written). If a value
+  can't be derived, add it to `content/facts.yaml` with a source and a `# check:`
+  comment, or leave it in the text with a `<!-- check: … -->` comment.
 
 ## Page structure
 
@@ -70,10 +80,25 @@ section headings.
   Use them sparingly: at most one or two per page, and never for "As of" notes, which
   stay plain blockquotes. The facts in a callout follow the same sourcing rules as the
   rest of the page.
-- **Glossary links** (`[riding](/glossary#riding)`) show the term's definition in a
-  popover on hover or focus, taken from the glossary entry. Link a term's first use on
-  a page when a reader might not know it, and check the slug exists in
-  `content/glossary.en.md`.
+- **Glossary links** (`[riding](term:riding)`, or the older `[riding](/glossary#riding)`)
+  show the term's definition in a popover on hover or focus, taken from the glossary
+  entry. Link a term's first use on a page when a reader might not know it.
+- **Entity links** point at a thing rather than a page: a term, person, institution,
+  document or section, case or event. Write the entity id as the link target, and
+  leave the text empty to use the entity's name:
+
+  ```markdown
+  [reserve powers](term:reserve-powers) · [](event:king-byng-affair) · [Lord Byng](person:julian-byng)
+  [section 33](doc:charter/s33) · [*R. v. Oakes*](case:r-v-oakes) · [the Senate](org:senate)
+  ```
+
+  The link goes to the page that explains the thing best, and the page shows up in
+  that thing's backlinks and in "Related pages". The ids live in `content/entities/`
+  (people come from the site's data: `person:` plus the name in lowercase with
+  hyphens). A wrong id fails `pnpm validate` and the build, with a suggestion.
+- **`about:`** in front matter lists the entities a page is the main explanation of:
+  `about: [doc:charter/s33, term:notwithstanding-clause]`. Keep it short; it's for
+  the page's subject, not everything it mentions.
 - **Timelines.** Wrap a dated list or table in `<tn-widget name="timeline">` to show it as
   an interactive timeline (see `src/widgets/timeline/index.astro` for the options). The
   markdown inside stays the source of the facts.

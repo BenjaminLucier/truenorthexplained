@@ -21,17 +21,17 @@ Constitution, interpreted by independent courts, sets the rules for all of them.
 
 ### The sentence, one idea at a time
 
-**Constitutional monarchy.** Canada has a King. Charles III has been King of Canada
-since 2022. The Constitution says the government's executive authority belongs to the
-monarch. But by long-standing [*convention*](/glossary#convention) (an unwritten rule everyone follows), the
+**Constitutional monarchy.** Canada has a King. {{monarch.name}} has been King of Canada
+since {{monarch.since-year}}. The Constitution says the government's executive authority belongs to the
+monarch. But by long-standing [*convention*](term:convention) (an unwritten rule everyone follows), the
 King and his representative, the Governor General, act only on the advice of elected
 ministers. The Crown is where legal authority comes from. Elected politicians are the
 ones who make the decisions.
 
 **Parliamentary democracy.** Canada uses the British-style "Westminster" system. You
 don't vote for a leader. You vote for one **member of Parliament (MP)** to represent
-your **[riding](/glossary#riding)** (electoral district). After an election, the party that can command the
-**[confidence](/glossary#confidence)** of the House of Commons forms the government, and its leader becomes
+your **[riding](term:riding)** (electoral district). After an election, the party that can command the
+**[confidence](term:confidence)** of the House of Commons forms the government, and its leader becomes
 Prime Minister. The Prime Minister and cabinet ministers are almost always MPs
 themselves. They sit in the House and must answer to it every day. If the government
 loses a confidence vote, it falls.
@@ -129,7 +129,7 @@ confidence of the House of Commons, which is normally the leader of the party wi
 most seats.
 
 **"Canada isn't tied to the monarchy anymore."**
-It still is. Charles III is King of Canada, a title legally separate from his British
+It still is. {{monarch.name}} is King of Canada, a title legally separate from his British
 one. His role is almost entirely ceremonial, but the whole legal system is built around
 the Crown.
 

@@ -5,6 +5,7 @@ import { readdir, readFile } from "node:fs/promises";
 import { parse } from "yaml";
 import * as lucide from "lucide-static";
 import { sitePathFromEntry } from "./lib/paths";
+import { getEntity } from "./lib/entities";
 
 const pages = defineCollection({
   loader: glob({
@@ -28,6 +29,19 @@ const pages = defineCollection({
     parent: z.string().optional(),
     deep_dives: z.array(z.string()).optional(),
     quiz: z.array(z.string()).optional(),
+    // Entity ids this page is the main explanation of (ARCHITECTURE.md, "The semantic layer").
+    about: z
+      .array(z.string())
+      .superRefine((ids, ctx) => {
+        ids.forEach((id, i) => {
+          try {
+            getEntity(id);
+          } catch (e) {
+            ctx.addIssue({ code: "custom", path: [i], message: (e as Error).message });
+          }
+        });
+      })
+      .optional(),
     // Provinces and territories
     type: z.enum(["province", "territory"]).optional(),
     capital: z.string().optional(),

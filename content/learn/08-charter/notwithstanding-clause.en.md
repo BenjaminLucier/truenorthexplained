@@ -4,6 +4,7 @@ parent: charter
 title: "The notwithstanding clause: section 33"
 order: 3
 summary: "How Parliament or a province can override some Charter rights for five years at a time, which rights are off-limits, and why it's so debated."
+about: [doc:charter/s33, term:notwithstanding-clause]
 status: draft
 ---
 
@@ -51,7 +52,7 @@ law on a federal subject like criminal law.
 
 ### What courts have said about how it's used
 
-In *Ford v. Quebec (Attorney General)* (1988), the Supreme Court said section 33 sets a
+In [*Ford v. Quebec (Attorney General)*](case:ford-v-quebec) (1988), the Supreme Court said section 33 sets a
 requirement of **form only**:
 
 - The legislature doesn't have to explain or justify the override.

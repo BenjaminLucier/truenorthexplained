@@ -24,6 +24,8 @@ For setup and scripts, see [README.md](README.md). For how content is written, s
 
 ```
 content/                 Markdown pages and the quiz bank (source of truth for prose)
+  entities/              Entity registry YAML (institutions, documents, cases, events, people overrides)
+  facts.yaml             Facts that can't be derived from src/data
 grounding/               Raw reference material fetched from Wikipedia/Wikidata (not published)
 scripts/                 Node/TypeScript scripts, run with tsx
   grounding/             `pnpm grounding`: re-download the grounding corpus
@@ -167,24 +169,56 @@ optional one-line `summary`, and a canonical **home**: the existing page or anch
 that explains it best. Entities do not get pages of their own, so no new URLs exist
 and every old URL keeps working.
 
-| Type | Id example | Lives in | Home |
+| Type | Id example | Lives in | Home (default) |
 |---|---|---|---|
-| Person | `person:mackenzie-king` | Derived from `src/data/wikidata/{prime-ministers,governors-general,monarchs,chief-justices,premiers}.json` (id = slug of the name; the JSON is never copied). Others, and overrides such as `aliases`, in `content/entities/people.yaml` | The list page for their office (`/prime-ministers`, `/governors-general`, a province page), or an explicit `page` |
-| Institution | `org:senate` | `content/entities/institutions.yaml` | `page` (with optional `#anchor`) |
-| Document, section | `doc:charter`, `doc:charter/s33` | `content/entities/documents.yaml`; sections nest under their document | `page`; `url` holds the official text |
-| Case | `case:r-v-oakes` | `content/entities/cases.yaml` (year, citation, sections, one-line holding) | `/learn/charter/landmark-cases#<slug>` or `page` |
-| Event | `event:king-byng-affair` | `content/entities/events.yaml` (date, era, text, `pages`, `people`, `entities`) | `/timeline#<slug>`, or `page` when one page tells the story |
-| Term or concept | `term:reserve-powers` | The glossary: one file per term, `content/glossary/<slug>.en.md` | `/glossary#<slug>` |
+| Person | `person:william-lyon-mackenzie-king` | Derived from `src/data/wikidata/{prime-ministers,governors-general,monarchs,chief-justices,premiers}.json` (the JSON is never copied). Others, and overrides, in `content/entities/people.yaml` | The row for their highest office: `/prime-ministers#pm-N`, `/governors-general#gg-N`, `/governors-general#monarch-N`, `/governors-general#cj-N` (monarchs and chief justices are listed there too), or `/provinces/<slug>` for premiers |
+| Institution | `org:senate` | `content/entities/institutions.yaml` | `page` (required) |
+| Document, section | `doc:charter`, `doc:charter/s33` | `content/entities/documents.yaml`; sections nest under their document | `page` (required); a section defaults to its document's page and `url` |
+| Case | `case:r-v-oakes` | `content/entities/cases.yaml` | `/learn/charter/landmark-cases#<slug>` |
+| Event | `event:king-byng-affair` | `content/entities/events.yaml`, which also lists the timeline's `eras` | `/timeline#<slug>` |
+| Term or concept | `term:reserve-powers` | The glossary (today: the `### Term {#slug}` headings of `content/glossary.en.md`, read by `glossaryTermSources()`; later one file per term, see below) | `/glossary#<slug>` |
 
-YAML entity fields: `id` (slug only; the file gives the type), `name`, `short?`,
-`aliases?`, `summary?`, `page?` (site path, may carry `#anchor`), `url?`, plus the
-type's own fields. Entities may point at each other (`people`, `entities`, `sections`).
+An explicit `page` always replaces the default home. Each YAML file starts with a
+comment listing its fields; `src/lib/entities.ts` has the matching types. Fields every
+YAML entity can have: `id` (slug only; the file gives the type), `name`, `short`,
+`aliases`, `summary`, `page` (a site path, may carry `#anchor`), `url`. Then, by type:
+
+- **org**: `people` (person ids), `entities` (any ids).
+- **doc**: `year`, `entities`, `sections`: a list of `{ n, title?, name?, short?,
+  summary?, page?, url? }`. `n` is the number as written (`33`, `"92A"`, `"91(24)"`); the
+  section id is `s` plus its slug: `doc:constitution-act-1867/s92a`, `…/s91-24`. A
+  section's `name` defaults to "section 92A" and `short` to "s. 92A".
+- **case**: `year` and `holding` (required; one line, inline markdown), `citation`,
+  `sections` (doc or section ids), `tag` (the free-text label of the landmark-cases
+  table, "s. 1, s. 11(d)"), `topic` (the subject in its heading), `people`, `entities`.
+- **event**: `title`, `date`, `text` (inline markdown) and `era` (required); `end`,
+  `module` (a learn module key; otherwise the first `/learn/…` page decides), `pages`
+  (site paths, or `{ page, label }` to set the link text), `people`, `entities`;
+  `name` defaults to `title`. `date` and `end` are a year (`1926`) or an ISO date
+  (`1926-06`, `1926-06-28`). `eras` is a list of `{ id, title }`.
+- **person** (people.yaml): with `qid`, an override of a derived person (`id` may
+  rename them; `page` replaces the derived home). Without `qid`, a new person:
+  `name` and `page` are required.
+
+Person ids are the slug of the name (`slugify(name, 80)` from `src/lib/ids.ts`). The
+same person in several datasets (Charles Tupper was premier, then prime minister) is
+merged by Wikidata id, and their highest office gives the name and home (prime
+minister, Governor General, monarch, chief justice, premier). When two different
+people share a name, the one holding the higher office (then the earlier one) keeps
+the plain slug and the other gets the year they first took office
+(`person:daniel-johnson-1994`); `pnpm validate` prints a NOTE for each. Rename either
+in people.yaml with `qid` + `id`.
 
 `src/lib/entities.ts` is the registry. It is **plain Node** (reads files with
-`node:fs` from the project root; no `astro:` imports), because three callers need it:
-the markdown plugin (runs in the Astro config), `scripts/validate.ts` (runs under
-tsx) and pages. It exposes `allEntities()`, `getEntity(id)` (throws on unknown ids),
-`hrefFor(id)` and `labelFor(id)`.
+`node:fs` from the project root, found by `src/lib/project-root.ts`; no `astro:`
+imports), because three callers need it: the markdown plugins (run in the Astro
+config), `scripts/validate.ts` (runs under tsx) and pages, plus tests. It exposes
+`allEntities()`, `getEntity(id)` (throws, suggesting the nearest id), `hasEntity(id)`,
+`hrefFor(id)`, `labelFor(id)`, `eras()` and `checkEntityPages(validPaths)`. Loading
+checks the YAML (unknown fields, types, duplicate ids, references between entities)
+and throws one error listing every problem with its file and id. Whether each `page`
+exists is checked by `pnpm validate`, which knows the site's paths; anchors are not
+checked.
 
 ### Referring to an entity in markdown
 
@@ -203,53 +237,84 @@ popovers keep working unchanged. An unknown id is a build error, and
 build). Plain links to pages remain fine; use an entity link when the thing has an
 identity beyond one page.
 
+Sätteri collects `ctx.report()` diagnostics without failing the compile, so the
+plugins throw as well; that is what stops the build.
+
 ### `about:` front matter
 
-`about: [org:senate, doc:constitution-act-1867/s24]` lists the entities a page is the
+`about: [org:senate, doc:constitution-act-1867/s17]` lists the entities a page is the
 main explanation of (checked by `validate` and the schema). It drives backlinks and
 related pages, and gives events and glossary terms somewhere to send the reader.
 
 ### Backlinks and related pages
 
-`src/lib/semantic.ts` (Astro side) builds one index per build from every page's
-`about` and its `data-entity` links:
+`src/lib/semantic.ts` (Astro side) builds one index per build (in dev, per call)
+from every page's `about` and the `data-entity` links in its rendered HTML:
 
 - `pagesAbout(id)`: pages that list the entity in `about`.
-- `mentions(id)`: pages (and glossary terms, events) that link to it.
-- `relatedPages(page)`: pages about the entities this page mentions, then pages that
-  mention the entities this page is about, ranked by overlap, excluding itself, its
-  parent module and its neighbours in the reading order.
+- `mentions(id)`: `{ pages, entities }`: pages that link to it, and entities that
+  name it in `people`, `entities` or `sections`.
+- `relatedPages(page)`: `{ page, via, score }[]`, at most four. A page counts as
+  being about the entities in its `about` and those whose home is on it. Scoring is
+  the pure `rankRelated()` in `src/lib/related.ts`: 3 points for each entity this page
+  links to that the other is about, 2 for each entity both are about, 1 for each
+  entity this page is about that the other links to. It leaves out the page itself,
+  hub pages (home, glossary, timeline, sources, myths, credits, about), the module's
+  main page and the neighbours in the reading order; hub pages get no suggestions.
 
-ContentLayout shows "Related pages" under the article. Each glossary term shows
-"Explained in" (its `see` list plus pages about it) and "Mentioned in" (computed).
-Timeline events link to their `pages` and to the list pages of their `people`.
+ContentLayout shows "Related pages" under the quiz, above previous/next, and nothing
+when there are none. Planned: each glossary term shows "Explained in" (its `see`
+list plus pages about it) and "Mentioned in"; timeline events link to their `pages`
+and to the list pages of their `people`.
 
 ### Glossary
 
-One markdown file per term: `content/glossary/<slug>.en.md`, front matter
+Planned. One markdown file per term: `content/glossary/<slug>.en.md`, front matter
 `{ term, aliases?, alias_of?, see?: [page ids or entity ids] }`, body = the definition
 (normal markdown, so entity links and facts work inside definitions). They load as
 the `glossary` collection and are excluded from the `pages` collection and from page
 counts. `content/glossary.en.md` keeps the page's front matter and intro; the
 `glossary` widget renders the A–Z list from the collection with the same `#slug`
-anchors, so `/glossary#slug` links and popovers are unchanged.
+anchors, so `/glossary#slug` links and popovers are unchanged. Switching `term:`
+entities over means changing `glossaryTermSources()` in `src/lib/entities.ts`.
 
 ### Facts registry
 
 Values that change (seat counts, the majority threshold, who holds an office, the
 latest population) come from `src/lib/facts.ts`, also plain Node. A fact is
-`{ value, asOf?, source }`. Most are **derived** from committed data
-(`commons.seats`, `commons.majority`, `senate.seats`, `pm.name`, `gg.name`,
-`monarch.name`, `premier.<province-slug>.name`, `population.canada`, …); the few
-that can't be derived sit in `content/facts.yaml` with an `asOf` date, a `source`
-and a `# check:` comment.
+`{ value, asOf?, source }`. Most are **derived** from committed data; the few that
+can't be derived sit in `content/facts.yaml` with an `asOf` date, a `source` and a
+`# check:` comment. A key can't be both.
+
+| Keys | From |
+|---|---|
+| `commons.seats`, `commons.majority` (checked against floor(seats/2)+1), `commons.seats.<province>` | `src/data/parliament/commons.json`, `seat-allocation.json` |
+| `ridings.count` | `src/data/elections/2025/ridings.json` |
+| `senate.seats`, `senate.seats.<province>` | `src/data/parliament/senate.json` |
+| `pm.name`, `pm.ordinal` ("24th"), `pm.since`, `pm.party`, `pm.count` | `src/data/wikidata/prime-ministers.json` |
+| `gg.*`, `monarch.*`, `chief-justice.*`: `.name`, `.since` ("September 8, 2022"), `.since-year` | `src/data/wikidata/{governors-general,monarchs,chief-justices}.json` |
+| `premier.<province>.name`, `.party`, `.since` | `src/data/wikidata/premiers.json` |
+| `population.canada`, `population.<province>`, each with `.rounded` ("41.8 million"); `population.as-of` | `src/data/population/provinces.json` (latest quarterly estimate) |
+| `elections.count`, `elections.latest.year` | `src/data/elections/history.json` |
+
+`<province>` is the site's slug (`british-columbia`). Numbers render with `en-CA`
+grouping and `{{key|raw}}` gives the bare value, so years are stored as strings.
 
 In markdown, write `{{commons.seats}}`. The `facts` hast plugin
-(`src/plugins/facts.ts`) replaces placeholders in text (including Mermaid sources)
-before the other plugins run. `resolveFacts()` does the same for front-matter
-strings (`title`, `summary`) in layouts, the search index and widgets. An unknown
-key is a build error and a `validate` error. Numbers render with `en-CA` grouping;
-`{{key|raw}}` gives the bare value.
+(`src/plugins/facts.ts`) runs first, so Mermaid sources see the resolved text (and the
+diagram's id hash follows what is drawn). It skips inline code and other code blocks,
+so the syntax can be shown. Placeholders don't work in headings (`{…}` there is read
+as attributes), and Mermaid hexagon nodes (`A{{text}}`) can't be used. For front
+matter, `allPages()` in `src/lib/site.ts` runs `resolveFacts()` over `title`,
+`summary` and the home page's `hero` and `ideas`, so layouts, cards, navigation,
+`<meta name="description">` and the search index all get resolved text. An unknown
+key is a build error and a `validate` error; a placeholder left in a rendered page
+fails the build too.
+
+**Cache:** `facts` and `entityLinks` carry a `cacheKey`, a hash of every fact value
+and every entity's home and name. It is part of the Astro config, so Astro drops its
+cached markdown when a dataset or YAML change alters what a page would render, even
+if no page changed. The dev server only rereads the config on restart.
 
 Rule of thumb: if a re-run of a `pnpm data:*` script or an election could make a
 sentence false, the changing part should be a fact.

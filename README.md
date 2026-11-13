@@ -16,8 +16,9 @@ Live at **[truenorthexplained.ca](https://truenorthexplained.ca)**.
 - **Vanilla TypeScript** custom elements handle the few interactive parts: the theme
   toggle, the mobile menu and the quizzes. There is no UI framework.
 - **Sätteri**, Astro 7's Rust-based markdown processor, does the markdown processing.
-  Small hast plugins in `src/plugins/markdown.ts` strip authoring comments, wrap tables
-  and render **Mermaid** diagrams to SVG at build time.
+  Small hast plugins in `src/plugins/` strip authoring comments, wrap tables, fill in
+  facts (`{{commons.seats}}`), resolve entity links (`[](event:king-byng-affair)`) and
+  render **Mermaid** diagrams to SVG at build time. See ARCHITECTURE.md, "The semantic layer".
 - **TypeScript 7.1**, which also type-checks `.astro` files through
   `@astrojs/ts-content-mapper`.
 
@@ -39,7 +40,7 @@ pnpm dev                                 # http://localhost:4321
 | `pnpm build` | Static build into `dist/` (validates all front matter and quiz data), then builds the Pagefind search index in `dist/pagefind/` |
 | `pnpm preview` | Serve the built site, with working search |
 | `pnpm check` | Type-check `.ts` and `.astro` files |
-| `pnpm validate` | Check internal links and quiz page references |
+| `pnpm validate` | Check internal links, quiz page references, entity ids (links, `about:`, entity YAML) and fact keys |
 | `pnpm review` | Regenerate [REVIEW.md](REVIEW.md), the list of facts and links awaiting review |
 | `pnpm data:geo` | Re-download province and riding boundaries and population estimates into `src/data/geo/` |
 | `pnpm data:elections` | Re-download 2025 election results, current MPs and senators, and seat allocation into `src/data/elections/`, `src/data/parliament/` and `src/data/population/` |
@@ -68,6 +69,8 @@ content/            All site content (the source of truth)
   learn/            10 modules: a main page plus deep dives
   provinces/        13 provinces and territories
   quizzes/          The global question bank (YAML)
+  entities/         The entity registry: institutions, documents, cases, events, people (YAML)
+  facts.yaml        Changing values that can't be derived from src/data
   *.en.md           Home, glossary, timeline, myths, sources, about
 src/
   content.config.ts Collections and schemas for pages and quiz questions
@@ -75,7 +78,7 @@ src/
   layouts/          Page shells
   components/       Header, footer, icons, quiz pieces
   scripts/          Client-side TypeScript (quiz logic, progress storage)
-  plugins/          Sätteri markdown plugins (comments, tables, Mermaid)
+  plugins/          Sätteri markdown plugins (facts, entity links, comments, tables, Mermaid)
   styles/global.css Design tokens and base styles
   i18n/en.ts        Interface text, ready for a French dictionary
 scripts/validate.ts Content checks and review-list generator

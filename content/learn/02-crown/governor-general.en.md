@@ -4,6 +4,7 @@ parent: crown
 title: "The Governor General and Lieutenant Governors"
 order: 1
 summary: "Who represents the King in Canada and the provinces, how they're chosen, and what they actually do."
+about: [org:governor-general]
 status: draft
 ---
 

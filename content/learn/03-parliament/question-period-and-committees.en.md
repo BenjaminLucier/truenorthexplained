@@ -64,7 +64,7 @@ The House is too big to study every bill in detail, so it divides the work among
 | **Joint committees** | MPs and senators together. |
 | **Committee of the Whole** | The entire House sitting as a committee, with less formal rules. Sometimes used for spending bills. |
 
-> **As of 2026:** The House's Standing Orders set up 25 standing committees and 2 standing
+> **As of 2026:** The House's Standing Orders set up {{commons.standing-committees}} standing committees and {{commons.standing-joint-committees}} standing
 > joint committees with the Senate.
 
 **Who sits on them:** membership is negotiated among parties and generally reflects each

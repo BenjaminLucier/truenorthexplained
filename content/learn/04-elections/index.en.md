@@ -26,7 +26,7 @@ from among the MPs.
 Your ballot lists the candidates running in **your riding** only. You mark one name. That's
 it. There's no separate vote for Prime Minister and no national vote for parties.
 
-> **As of 2026:** There are 343 ridings, so 343 MPs.
+> **As of 2026:** There are {{ridings.count}} ridings, so {{commons.seats}} MPs.
 
 To see every riding and who won it in 2025, or to find your own, use the
 [ridings map](/ridings).
@@ -76,7 +76,7 @@ Here's the chain that turns an election into a government:
 ```mermaid
 flowchart TD
     V[You vote in your riding] --> R[Each riding elects one MP]
-    R --> H[343 MPs form the House of Commons]
+    R --> H[{{commons.seats}} MPs form the House of Commons]
     H --> C{Who can win the<br/>House's confidence?}
     C -->|normally the leader of<br/>the largest party| PM[Governor General<br/>appoints Prime Minister]
     PM --> CAB[PM chooses cabinet]

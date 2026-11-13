@@ -1,0 +1,24 @@
+# Facts that can't be derived from the datasets in src/data.
+# Most facts are derived in src/lib/facts.ts; prefer adding a derivation there.
+#
+#   key:
+#     value: 25            # a string, or a number (numbers print with en-CA grouping;
+#                          # write years as strings: "2026")
+#     asOf: 2026-11-13     # required: when the value was checked (year or ISO date)
+#     source: …            # required: where it comes from
+#
+# Use in markdown as {{key}} (or {{key|raw}} for the bare value). Every entry
+# keeps a check comment (the review marker, as in content pages) until someone
+# has confirmed it against the source.
+
+commons.standing-committees:
+  # check: number of standing committees in the House of Commons Standing Orders
+  value: 25
+  asOf: 2026
+  source: House of Commons, Standing Orders (as stated on /learn/parliament/question-period-and-committees)
+
+commons.standing-joint-committees:
+  # check: number of standing joint committees in the House of Commons Standing Orders
+  value: 2
+  asOf: 2026
+  source: House of Commons, Standing Orders (as stated on /learn/parliament/question-period-and-committees)

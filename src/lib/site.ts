@@ -1,13 +1,40 @@
 import { getCollection, type CollectionEntry } from "astro:content";
+import { resolveFacts } from "./facts";
 
 export type Page = CollectionEntry<"pages">;
 export type Question = CollectionEntry<"quizzes">;
 
 export const href = (id: string) => (id === "home" ? "/" : `/${id}`);
 
-/** Every page. Not memoised here: Astro already caches collections, and a module-level cache would hide edits in dev. */
+/**
+ * Every page, with `{{fact}}` placeholders in its front-matter strings (title,
+ * summary, and the home page's hero and ideas) resolved. Everything that
+ * prints front matter gets its pages from here, so this is the one place that
+ * happens. Not memoised: Astro already caches collections, and a module-level
+ * cache would hide edits in dev.
+ */
 export async function allPages(): Promise<Page[]> {
-  return getCollection("pages");
+  return (await getCollection("pages")).map(withFacts);
+}
+
+function withFacts(page: Page): Page {
+  const d = page.data;
+  const strings = [d.title, d.summary, d.hero?.title, d.hero?.lede, ...(d.ideas ?? []).flatMap((i) => [i.title, i.text])];
+  if (!strings.some((s) => s?.includes("{{"))) return page;
+  try {
+    return {
+      ...page,
+      data: {
+        ...d,
+        title: resolveFacts(d.title),
+        summary: resolveFacts(d.summary),
+        hero: d.hero && { ...d.hero, title: resolveFacts(d.hero.title), lede: resolveFacts(d.hero.lede) },
+        ideas: d.ideas?.map((i) => ({ ...i, title: resolveFacts(i.title), text: resolveFacts(i.text) })),
+      },
+    };
+  } catch (e) {
+    throw new Error(`${page.filePath ?? page.id}: ${(e as Error).message}`);
+  }
 }
 
 export async function getPage(id: string): Promise<Page> {

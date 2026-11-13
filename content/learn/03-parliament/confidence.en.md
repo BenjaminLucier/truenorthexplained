@@ -26,7 +26,7 @@ See [conventions](/learn/constitution/conventions).
 
 ### Majority vs minority
 
-> **As of 2026:** The House has 343 seats, so a majority means at least 172.
+> **As of 2026:** The House has {{commons.seats}} seats, so a majority means at least {{commons.majority}}.
 
 <tn-widget name="commons-seating"></tn-widget>
 

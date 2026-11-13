@@ -4,6 +4,7 @@ parent: charter
 title: "Reasonable limits: section 1"
 order: 2
 summary: "Why Charter rights aren't absolute, and the Oakes test courts use to decide whether a limit on a right is justified."
+about: [doc:charter/s1, term:reasonable-limits, term:oakes-test]
 status: draft
 ---
 
@@ -11,7 +12,7 @@ status: draft
 
 Section 1 of the Charter says rights can be limited, but only by limits that are
 **reasonable**, **prescribed by law**, and **demonstrably justified in a free and democratic
-society**. In *R. v. Oakes* (1986), the Supreme Court turned those words into a test.
+society**. In [*R. v. Oakes*](case:r-v-oakes) (1986), the Supreme Court turned those words into a test.
 The government must show that the law has an important purpose and that its way of
 achieving that purpose is proportionate. If it can't, the law is struck down.
 

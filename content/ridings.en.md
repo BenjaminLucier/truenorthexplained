@@ -1,7 +1,7 @@
 ---
 id: ridings
 title: "Ridings map"
-summary: "All 343 federal ridings: who won each one in 2025, by how much, and how many people voted."
+summary: "All {{ridings.count}} federal ridings: who won each one in 2025, by how much, and how many people voted."
 status: draft
 ---
 
@@ -20,7 +20,7 @@ whole territory: Nunavut is one riding, about a fifth of Canada's land area. Aft
 10-year census, an independent commission in each province redraws the boundaries
 ([how that works](/learn/elections/election-day#ridings-and-their-boundaries)).
 
-> **As of 2026:** There are 343 ridings. Their boundaries were set in 2023 and first used in
+> **As of 2026:** There are {{ridings.count}} ridings. Their boundaries were set in 2023 and first used in
 > the April 28, 2025 general election.
 
 ## The 2025 results, riding by riding

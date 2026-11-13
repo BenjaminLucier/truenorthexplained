@@ -1,0 +1,62 @@
+# Court cases. Id: case:<id>.
+#
+# Fields (see src/lib/entities.ts):
+#   id, name (as usually written, e.g. "R. v. Oakes"), year (required),
+#   holding (required: one line, inline markdown, what the court decided),
+#   citation? ("[1986] 1 S.C.R. 103"), sections? (doc or section ids it turns on),
+#   tag? (free text label, as in the landmark-cases table: "s. 1, s. 11(d)"),
+#   topic? (short subject, as in the landmark-cases headings),
+#   short?, aliases?, summary?, url? (the decision), people?, entities?,
+#   page? (home; default /learn/charter/landmark-cases#<id>)
+#
+# The landmark-cases headings don't carry {#<id>} anchors yet, so each case
+# here names its current heading anchor in `page`. Once that page gives each
+# heading an explicit {#<id>}, `page` can go.
+# Only facts already stated on the site's pages belong here.
+
+- id: r-v-big-m-drug-mart
+  name: R. v. Big M Drug Mart
+  aliases: [R. v. Big M Drug Mart Ltd., Big M Drug Mart]
+  year: 1985
+  citation: "[1985] 1 S.C.R. 295"
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/43/index.do
+  sections: [doc:charter/s2]
+  tag: s. 2(a) religion
+  topic: freedom of religion
+  holding: A law forcing Sunday closing for religious reasons was struck down
+  page: /learn/charter/landmark-cases#r-v-big-m-drug-mart-ltd-1985-freedom-of-religion
+
+- id: r-v-oakes
+  name: R. v. Oakes
+  year: 1986
+  citation: "[1986] 1 S.C.R. 103"
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/117/index.do
+  sections: [doc:charter/s1]
+  tag: s. 1, s. 11(d)
+  topic: the test for reasonable limits
+  holding: Created the test for justifying limits on rights
+  page: /learn/charter/landmark-cases#r-v-oakes-1986-the-test-for-reasonable-limits
+  entities: [term:oakes-test]
+
+- id: ford-v-quebec
+  name: Ford v. Quebec
+  aliases: [Ford v. Quebec (Attorney General)]
+  year: 1988
+  citation: "[1988] 2 S.C.R. 712"
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/384/index.do
+  sections: [doc:charter/s2, doc:charter/s33]
+  tag: s. 2(b), s. 33
+  topic: signs, expression and section 33
+  holding: Commercial signs are protected expression; set the rules for using s. 33
+  page: /learn/charter/landmark-cases#ford-v-quebec-attorney-general-1988-signs-expression-and-section-33
+
+- id: secession-reference
+  name: Reference re Secession of Quebec
+  aliases: [Secession Reference]
+  year: 1998
+  citation: "[1998] 2 S.C.R. 217"
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/1643/index.do
+  tag: (not a Charter case)
+  topic: can a province leave?
+  holding: Quebec can't secede unilaterally, but a clear vote would require negotiation
+  page: /learn/charter/landmark-cases#reference-re-secession-of-quebec-1998-can-a-province-leave

@@ -40,6 +40,7 @@ export const en = {
     readMore: "Read more",
     deepDives: "Go deeper",
     module: "Module",
+    related: "Related pages",
   },
   quiz: {
     heading: "Test yourself",
