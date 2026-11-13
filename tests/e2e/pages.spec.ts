@@ -23,6 +23,14 @@ const THEMES: Theme[] = ["light", "dark"];
 const AXE_EXCLUDE: { rule: string; selector: string; why: string }[] = [
 ];
 
+// One page in one setting: load, settle, measure overflow, run axe. The heaviest
+// pages (quizzes, glossary, the money pages) take about 10s with 8 workers on an
+// idle machine, and axe's time grows with the DOM, so a loaded machine can push
+// them past Playwright's default 30s. 60s leaves room for that while a page that
+// genuinely hangs still fails well within a CI job. Failures are real failures:
+// only CI retries (playwright.config.ts), and a retried pass is reported as flaky.
+test.describe.configure({ timeout: 60_000 });
+
 for (const path of builtPages()) {
   for (const viewport of VIEWPORTS) {
     for (const theme of THEMES) {
@@ -33,13 +41,22 @@ for (const path of builtPages()) {
         const problems = watchPage(page, { allowStatus: (url, status) => status === 404 && new URL(url).pathname === "/404.html" });
 
         await page.goto(path, { waitUntil: "load" });
-        // Let fonts load and entrance animations and transitions finish, so axe
-        // measures colours as they end up rather than mid-fade.
+        // Let fonts load, and jump entrance animations and transitions to their
+        // end state, so axe measures colours as they end up rather than mid-fade.
+        // finish() rather than awaiting `finished`: no waiting on a busy machine,
+        // and a paused animation can't hang the test.
         await page.evaluate(async () => {
           await document.fonts.ready;
           await new Promise((r) => requestAnimationFrame(r));
-          const finite = document.getAnimations().filter((a) => a.effect?.getComputedTiming().endTime !== Infinity);
-          await Promise.all(finite.map((a) => a.finished.catch(() => undefined)));
+          for (const a of document.getAnimations()) {
+            if (a.effect?.getComputedTiming().endTime === Infinity) continue;
+            try {
+              a.finish();
+            } catch {
+              /* playbackRate 0: nothing to finish */
+            }
+          }
+          await new Promise((r) => requestAnimationFrame(r));
         });
 
         expect(await page.locator("html").getAttribute("data-theme"), "theme applied").toBe(theme);

@@ -13,8 +13,15 @@ export default defineConfig({
   testDir: "tests/e2e",
   fullyParallel: true,
   forbidOnly: !!process.env.CI,
+  // Retries only in CI, where a shared runner can stall; a test that passes on
+  // retry is reported as "flaky", not hidden. Locally a failure is a failure.
   retries: process.env.CI ? 1 : 0,
-  reporter: process.env.CI ? [["list"], ["html", { open: "never" }]] : [["list"]],
+  // GitHub-hosted runners have 4 vCPUs (public repos) or 2 (private). Each
+  // worker drives a Chromium running axe next to the preview server, so 2 is
+  // the safe default there. Locally Playwright uses half the cores. Override
+  // with --workers.
+  workers: process.env.CI ? 2 : undefined,
+  reporter: process.env.CI ? [["list"], ["github"], ["html", { open: "never" }]] : [["list"]],
   use: {
     baseURL: `http://localhost:${PORT}`,
     trace: "retain-on-failure",

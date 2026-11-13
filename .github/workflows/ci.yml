@@ -1,0 +1,88 @@
+# Checks every push to main and every pull request: install, type-check,
+# validate content, unit tests, build, then the browser tests against the build.
+# No deploy here. See ARCHITECTURE.md, "Checks".
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+# A newer push to the same branch or PR cancels the run it supersedes.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    name: Check, build and test
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Check out
+        uses: actions/checkout@v5
+
+      # The pnpm version comes from package.json "packageManager".
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Set up Node (from .nvmrc)
+        uses: actions/setup-node@v5
+        with:
+          node-version-file: .nvmrc
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Type-check
+        run: pnpm check
+
+      - name: Validate content
+        run: pnpm validate
+
+      - name: Unit tests
+        run: pnpm test
+
+      # Chromium is needed before the build too: Mermaid diagrams are rendered
+      # with headless Chromium at build time (mermaid-isomorphic → playwright).
+      - name: Read the Playwright version
+        id: playwright
+        run: echo "version=$(pnpm exec playwright --version | awk '{print $2}')" >> "$GITHUB_OUTPUT"
+
+      - name: Cache Playwright browsers
+        id: playwright-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ steps.playwright.outputs.version }}-chromium
+
+      - name: Install Chromium and its system dependencies
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
+        run: pnpm exec playwright install --with-deps chromium
+
+      # The browser came from the cache; the OS packages it needs did not.
+      - name: Install Chromium's system dependencies
+        if: steps.playwright-cache.outputs.cache-hit == 'true'
+        run: pnpm exec playwright install-deps chromium
+
+      # Also builds the Pagefind search index.
+      - name: Build
+        run: pnpm build
+
+      # `pnpm test:e2e` is `pnpm build && playwright test`; the build above is
+      # reused rather than run twice. CI=true (set by GitHub) gives 2 workers,
+      # one retry and an HTML report (playwright.config.ts).
+      - name: Browser tests
+        run: pnpm exec playwright test
+
+      - name: Upload the Playwright report
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-report
+          path: playwright-report/
+          retention-days: 14
