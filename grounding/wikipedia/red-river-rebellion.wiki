@@ -1,0 +1,355 @@
+{{Short description|1869 events establishing Manitoba, Canada}}
+{{Use Canadian English|date=December 2023}}
+{{Use mdy dates|date=September 2026}}
+{{Infobox military conflict
+| conflict          = {{unbulleted list | Red River Rebellion | {{nativename|fr|Rébellion de la rivière Rouge}}}}
+| width             = 
+| part_of           = 
+| image             = ProvisionalMetisGovernment.jpg
+| caption           = The Métis provisional government
+| date              = 1869–1870
+| location          = [[Red River Colony]], Rupert's Land, Canada
+| coordinates       = 
+| pushpin_map       = 
+| pushpin_relief    = 
+| pushpin_map_size  = 
+| pushpin_mark_size = 
+| pushpin_caption   = 
+| pushpin_label     = 
+| territory         = 
+| result            = Métis political victory
+*[[Red River Colony]] enters [[Canadian Confederation]] as the [[Manitoba|Province of Manitoba]]
+Canadian military victory
+*The [[Wolseley Expedition]] takes control of [[Fort Garry]] (now [[Winnipeg]])
+*Louis Riel flees to the United States
+| status            = 
+| combatants_header = 
+| combatant1        = {{flagicon image|Metis_Blue.svg}} [[Provisional Government of Rupert's Land and the North-West]]
+| combatant2        = {{flag|Canada|1868}}
+*[[Canadian Party]]
+| commander1        = {{plainlist|
+* {{flagicon image|Metis_Blue.svg}} [[Louis Riel]]
+* {{flagicon image|Metis_Blue.svg}} [[John Bruce (Canada)|John Bruce]]
+* {{flagicon image|Metis_Blue.svg}} [[Ambroise-Dydime Lépine]]
+}}
+| commander2        = {{plainlist|
+* {{flagicon|Canada|1868}} [[John A. Macdonald]]
+* {{flagicon|Canada|1868}} [[William McDougall (politician, born 1822)|William McDougall]]
+* {{flagicon|Canada|1868}} [[John Christian Schultz]]
+* {{flagicon|United Kingdom}} [[Garnet Wolseley]]
+}}
+| units1            = 
+| units2            = 
+| strength1         = 
+| strength2         = 
+| casualties1       = 3 ([[Elzear Goulet]])
+| casualties2       = 1 ([[Thomas Scott (Orangeman)|Thomas Scott]])
+| notes             = 
+| campaignbox       = 
+}}
+
+The '''Red River Rebellion''' ({{langx|fr|Rébellion de la rivière Rouge}}), also known as the '''Red River Resistance''', '''Red River uprising''', or '''First Riel Rebellion''', was the sequence of events that led up to the 1869 establishment of a [[provisional government]] by [[Métis]] leader [[Louis Riel]] and his followers at the [[Red River Colony]], in the early stages of establishing today's [[Provinces and territories of Canada|Canadian province]] of [[Manitoba]]. It had earlier been a territory called [[Rupert's Land]] and been under control of the [[Hudson's Bay Company]] before it was sold.
+
+The event was the first crisis the [[1st Canadian Parliament|new federal government]] faced after [[Canadian Confederation]] in 1867. The [[Government of Canada]] had bought [[Rupert's Land]] from the [[Hudson's Bay Company]] in 1869 and appointed an English-speaking governor, [[William McDougall (Ontario politician)|William McDougall]]. He was opposed by the French-speaking mostly-Métis inhabitants of the settlement. Before the land was officially transferred to Canada, McDougall had sent out [[surveyors]] to plot the land according to the square township system used in the [[Dominion Land Survey]]. The Métis, led by Riel, prevented McDougall from entering the territory.  McDougall declared that the [[Hudson's Bay Company]] was no longer in control of the territory and that Canada had asked for the transfer of sovereignty to be postponed. The Métis created a provisional government to which they invited an equal number of anglophone representatives. Riel negotiated directly with the Canadian government to establish [[Manitoba]] as a Canadian province.
+
+Meanwhile, Riel's men arrested members of a pro-Canadian faction who resisted the provisional government. The arrested included an [[Orange Order|Orangeman]], [[Thomas Scott (Orangeman)|Thomas Scott]].  Riel's government tried Scott for insubordination, convicted him and then [[Capital punishment|executed]] him.<ref name="scott">{{Cite DCB
+  | last =Rea
+  | first =J.E.
+  | title =Scott, Thomas
+  | volume =9
+  | url =https://www.biographi.ca/en/bio/scott_thomas_1870_9E.html
+  | access-date =December 21, 2013
+  | archive-date =April 23, 2021
+  | archive-url =https://web.archive.org/web/20210423055834/http://www.biographi.ca/en/bio/scott_thomas_1870_9E.html
+  | url-status =live
+  }}</ref> Canada and the Assiniboia provisional government soon negotiated an agreement. In 1870, the [[Parliament of Canada]] passed the ''[[Manitoba Act, 1870]]'', allowing the Red River Colony to enter [[Canadian Confederation|Confederation]] as the province of Manitoba.  The act also incorporated some of Riel's demands, such as the provision of [[separate school|separate French schools]] for Métis children and the protection of Catholicism.
+
+After reaching an agreement, Canada sent a military expedition to Manitoba to enforce federal authority. Now known as the [[Wolseley expedition]], or the Red River Expedition, it consisted of Canadian [[Colonial militia in Canada|militia]] and British regular soldiers, led by Colonel [[Garnet Wolseley]]. Outrage grew in Ontario over Scott's execution, and many there wanted Wolseley's expedition to arrest Riel for murder and to suppress what they considered to be rebellion.<ref name="scott"/>
+
+Riel peacefully withdrew from [[Fort Garry]] before the troops could arrive in August 1870. Warned by many that the soldiers would harm him and denied amnesty for his political leadership of the rebellion, Riel fled to the United States. The arrival of troops marked the end of the incident. In 1885 Louis Riel would lead another rebellion, the [[North-West Rebellion]], ending with his capture and execution.
+
+== Background ==
+[[Image:UpperFortGarryEarly1870s.jpg|thumb|left|Fort Garry c. 1872]] 
+In the late 1860s, the [[Red River Colony]] of [[Rupert's Land]] was changing rapidly. It had developed under the aegis of the [[Hudson's Bay Company]] (HBC), which had a continent-wide trading and commercial network. It had been confirmed on the territory by [[Anne, Queen of Great Britain|Queen Anne]], who had evicted King [[Louis XIV]] and his subjects from it by the 1713 [[Treaty of Utrecht]].<ref>[https://archive.org/stream/acollectiontrea00britgoog#page/n404/mode/2up A Collection of Treaties Between Great Britain and Other Powers (1790). See Article X, p.&nbsp;379.]</ref> Further notice was given in 1763, when King [[George III]] dispossessed King [[Louis XV]] of nearly all his colonies of North America at the [[Treaty of Paris (1763)|Treaty of Paris]].
+
+Historically, the population was mainly [[francophone]] Métis, who developed a mixed ethnicity descended of [[First Nations in Canada|First Nations]] and French descent and a unique culture during the decades of the fur trade. In the 18th and the 19th centuries, they intermarried; established a tradition of men working as trappers, guides, and interpreters to fur traders; and developed farms. Métis women also were sometimes active in the trade, and among several influential families in [[Sault Ste. Marie, Ontario|Sault Ste. Marie]] in the early 19th century, the husbands were European. The Métis culture was based on the French language and Roman Catholic religion.
+
+In the late 18th century, English and Scottish men entered the fur trade and also married into the [[Ojibwe people]] and other First Nations in this region. Their mixed-race descendants generally spoke English and were sometimes known as the "country born" (also as [[Anglo-Métis]]). The third group of settlers to the region was a small number of [[Presbyterian]] Scottish settlers. More [[English Canadian|anglophone]] [[Protestants]] began to settle there from [[Ontario]] in the 19th century.<ref>{{Citation
+|publisher = Printed for the author by J. Lovell
+|location = Montreal
+|title = Red River
+|url = https://archive.org/stream/redriver00harggoog#page/n181/mode/1up
+|author = Joseph James Hargrave
+|edition = Red River.
+|date = 1871
+|pages = 182
+|oclc = 5035707}}</ref>
+
+The newer settlers were generally insensitive to Métis culture and hostile to Roman Catholicism, and many advocated Canadian expansionism. Meanwhile, many Americans migrated there, some of whom favouring annexation of the territory by the United States. Against the backdrop of religious, nationalistic, and ethnic tensions, political uncertainty was high. To forestall US expansionism and to bring law and order to the wild, the [[British government|British]] and [[Canadian government]]s had been for some time negotiating the transfer of [[Rupert's Land]] from the [[Hudson's Bay Company]] to Canada. The British [[Rupert's Land Act 1868]] authorized the transfer.<ref name="American Expansionism">{{cite web
+| title = American Expansionism
+| url = https://www.collectionscanada.gc.ca/confederation/023001-3010.05-e.html
+| publisher = Library and Archives Canada
+| date = March 26, 2015
+| access-date = May 10, 2015
+| archive-date = March 13, 2014
+| archive-url = https://web.archive.org/web/20140313001059/http://www.collectionscanada.gc.ca/confederation/023001-3010.05-e.html
+| url-status = live
+}}</ref> On December 1, 1869, Canada purchased the territory.
+
+In anticipation of the transfer, Public Works Minister [[William McDougall (politician, born 1822)|William McDougall]], who with [[George-Étienne Cartier]] had been instrumental in securing Rupert's Land for Canada, ordered a survey party to the Red River Colony.<ref name="McDougall">{{Cite DCB
+  | last =Zeller
+  | first =Suzanne
+  | title =McDougall, William
+  | volume = 13
+  | url =https://www.biographi.ca/en/bio/mcdougall_william_13E.html
+  | access-date =December 21, 2013
+  | archive-date =December 20, 2013
+  | archive-url =https://web.archive.org/web/20131220175604/http://www.biographi.ca/en/bio/mcdougall_william_13E.html
+  | url-status =live
+  }}</ref> A Catholic bishop, [[Alexandre-Antonin Taché]]; the [[Anglican]] bishop of Rupert's Land, [[Robert Machray (bishop)|Robert Machray]]; and the HBC governor of [[Assiniboia]], [[William Mactavish]], all warned the federal government that such surveys would precipitate unrest.
+
+Headed by [[Colonel]] [[John Stoughton Dennis]], the survey party arrived at [[Fort Garry]] on August 20, 1869. The Métis were anxious about the survey since they did not possess clear title to their lands but held a tenuous [[adverse possession|right of occupancy]]. In addition, the lots had been laid out according to the French [[seigneurial system of New France|seigneurial colonial system]], with long narrow lots fronting the river, rather than the square lots that were preferred by the English.<ref>{{Cite web
+  | last = Read
+  | first =Colin Frederick
+  | title =Dennis, John Stoughton
+  | volume = 11
+  | url =https://www.biographi.ca/en/bio/dennis_john_stoughton_1820_85_11E.html
+  | access-date =December 21, 2013
+  | archive-date =December 21, 2013
+  | archive-url =https://web.archive.org/web/20131221114312/http://www.biographi.ca/en/bio/dennis_john_stoughton_1820_85_11E.html
+  | url-status =live
+  }}</ref> The Métis considered the survey to be a forerunner of increased Canadian migration to the territory, which they perceived as a threat to their way of life. More specifically, they feared 
+a possible confiscation of their farmland by the Canadian government.<ref name="Richot"/> The Métis were also concerned that Canadian immigrants would not care for their culture and so the Métis wanted to ensure that they could preserve their religious and political rights. Their concerns were motivated in part by the Canadian government's behaviour, as the negotiations that took place had carried out as if the territory were uninhabited.<ref name="Richot"/>
+
+== Emergence of Riel as leader ==
+[[File:Louis Riel.jpg|thumb|upright|Louis Riel in 1884]]
+The Canadian government appointed a notorious francophobe, McDougall, as the designate of the [[Lieutenant Governor of the North-West Territories]] on September 28, 1869, in anticipation of a formal transfer to take effect on December 1. That increased tensions among the Métis, who, in July 1869, had become more suspicious after McDougall ordered a survey of the settlement. Emerging as a leader, [[Louis Riel]], who had been formally educated in European-style schools, denounced the survey in a speech delivered in late August from the steps of [[St. Boniface Cathedral]]. His lifestyle was very different from those of buffalo-hunting Métis. When Riel returned to the West, it was apparent that MacDonald feared that the United States was negotiating with HBC for the transfer of Rupert's Land without consulting the Red River population and the Council of Assiniboia. On October 11, 1869, Riel and other Métis disrupted the survey's work. On October 16 the group organized the "Métis National Committee" to represent Métis interests. Riel was elected secretary, [[John Bruce (Canada)|John Bruce]] as president, and two representatives were elected from each parish.<ref name="Louis Riel">{{cite web
+| title = Louis Riel
+| url = https://www.collectionscanada.gc.ca/confederation/023001-4000.61-e.html
+| publisher = Library and Archives Canada
+| date = March 26, 2015
+| access-date = May 10, 2015
+| archive-date = July 18, 2019
+| archive-url = https://web.archive.org/web/20190718204002/https://www.collectionscanada.gc.ca/confederation/023001-4000.61-e.html
+| url-status = live
+}}</ref><ref name="National Métis Committee">{{cite web
+| title = Prologue to the Red River Resistance: Preliminal Politics and the Triumph of Riel
+| url = https://www.erudit.org/en/journals/jcha/1994-v5-n1-jcha1001/031075ar.pdf
+| publisher = The Canadian Historical Association
+| date = 1994
+| access-date = December 6, 2017
+| archive-date = January 22, 2021
+| archive-url = https://web.archive.org/web/20210122123326/https://www.erudit.org/en/journals/jcha/1994-v5-n1-jcha1001/031075ar.pdf
+| url-status = live
+}}</ref>
+
+There were originally two resistance groups in Red River. One was led by Riel, and the other was led by a Métis named William Dease, who expressed Métis values in his opposition. For a long time they were locked in a power struggle on a symbolic level, both sides offering different perspectives on Métis unity. Riel finally defeated Dease for the leadership of the resistance and consolidated his support system within the French Métis community. He then felt strong enough to initiate the breach of October 1869.<ref name="William Dease">{{cite web
+| title = Canadian Confederation (John Black)
+| url = https://www.collectionscanada.gc.ca/confederation/023001-4000.06-e.html
+| publisher = Library and Archives Canada
+| date = March 26, 2015
+| access-date = May 10, 2015
+| archive-date = July 6, 2014
+| archive-url = https://web.archive.org/web/20140706183148/http://www.collectionscanada.gc.ca/confederation/023001-4000.06-e.html
+| url-status = live
+}}</ref>
+
+Because the Hudson's Bay Company's [[Council of Assiniboia]] still had authority over the area, its representatives summoned Riel on October 25 to explain the actions of the committee.<ref name="William Dease"/> On October 30, McDougall had reached the border despite the written order from Riel, who declared that any attempt by McDougall to enter the Red River Colony would be blocked unless the Canadians had first negotiated terms with the Métis and with the general population of the settlement.
+
+On November 2, under the command of [[Ambroise-Dydime Lépine]], the Métis turned back McDougall's party near the US border and forced it to retreat to [[Pembina, Dakota Territory]].<ref name="Lepine">{{Cite DCB
+  | last = Ens
+  | first = Gerhard J.
+  | title =Lépine, Ambroise-Dydime
+  | volume = 15
+  | url =https://www.biographi.ca/en/bio/lepine_ambroise_dydime_15E.html
+  | access-date =December 26, 2014
+  | archive-date =December 27, 2014
+  | archive-url =https://web.archive.org/web/20141227044234/http://www.biographi.ca/en/bio.php?id_nbr=7934
+  | url-status =live
+  }}</ref> On the same day Riel led roughly 400 men recruited from fur-brigades recently returned to the settlement for the season to seize [[Fort Garry]] without bloodshed.<ref name="Manitoba 1870">{{cite web
+| title = Manitoba (1870)
+| url = https://www.collectionscanada.gc.ca/confederation/023001-3040-e.html
+| publisher = Library and Archives Canada
+| date = March 26, 2015
+| access-date = May 10, 2015
+| archive-date = June 2, 2015
+| archive-url = https://web.archive.org/web/20150602011427/http://www.collectionscanada.gc.ca/confederation/023001-3040-e.html
+| url-status = live
+}}</ref> That would come to be known as one of Riel's most brilliant moves, as control of the fort symbolized control of all access to the settlement and the Northwest.
+
+Residents of the Red River Colony disagreed on how to negotiate with Canada. In particular, the French- and English-speaking inhabitants did not agree on how to proceed. In a conciliatory gesture, Riel on November 6 asked the anglophones to select delegates from each of their parishes to attend a convention with the Métis representatives. After little was accomplished at the first meeting, [[James Ross (Canadian lawyer)|James Ross]] expressed displeasure at Riel's treatment of McDougall. Riel angrily denied that and stated that he had no intentions of invoking American interventions. Instead, throughout the entire resistance, he insisted that he and the Métis were loyal subjects of [[Queen Victoria]].<ref name="Riel">{{Cite DCB
+  | last =Thomas
+  | first =Lewis H.
+  | title =Riel, Louis
+  | volume = 11
+  | url =https://www.biographi.ca/en/bio/riel_louis_1844_85_11E.html
+  | access-date =December 7, 2017
+  | archive-date =December 12, 2017
+  | archive-url =https://web.archive.org/web/20171212055306/http://www.biographi.ca/en/bio/riel_louis_1844_85_11E.html
+  | url-status =live
+  }}</ref>
+
+On November 16, the Council of Assiniboia made a final attempt to assert its authority when Governor Mactavish issued a proclamation ordering the Métis to lay down their arms. Instead, on November 23, Riel proposed the formation of a [[provisional government]] to replace the Council of Assiniboia to enter into direct negotiations with Canada. The anglophone delegates requested an adjournment to discuss matters. They neither succeeded in rallying the English-speaking parishes behind that move nor originally approved of the "List of Rights," which was presented to the convention on December 1. Despite his Métis sympathies, Governor Mactavish did not do enough to end the conflict and was imprisoned by Riel shortly afterward.<ref name=Goosen>{{Cite DCB
+  |last=Goossen
+  |first= N. Jaye
+  |url=http://www.biographi.ca/en/bio/mactavish_william_9E.html
+  |title=Mactavish, William
+  |volume=IX
+  |access-date=January 23, 2018 |archive-date=February 22, 2018
+  |archive-url=https://web.archive.org/web/20180222035745/http://www.biographi.ca/en/bio/mactavish_william_9E.html
+  |url-status=live
+  }}</ref>
+
+Also on December 1, McDougall had proclaimed that the HBC was no longer in control of Rupert's Land and that he was the new [[list of Northwest Territories lieutenant-governors|lieutenant-governor]]. The proclamation was to later prove problematic, as it effectively ended the authority of the council but failed to establish Canadian authority. McDougall did not know that the transfer had been postponed once news of the unrest had reached Ottawa.
+
+Around mid-December 1869, Riel presented the convention with a list of 14 rights as a condition of union. They included representation in Parliament, a [[bilingual]] legislature and chief justice, and recognition of certain land claims. The convention did not adopt the list at the time, but once the list of rights was generally known, most anglophones accepted the majority of the demands as reasonable.
+
+Much of the settlement was moving toward the Métis point of view, but a passionately-pro-Canadian minority became more resistant. It was loosely organized as the [[Canadian Party]] and was led by Dr. [[John Christian Schultz]] and [[Charles Mair]]. Colonel Dennis and [[Major (rank)|Major]] [[Charles Boulton]] also supported it. McDougall appointed Dennis to raise a militia to arrest the Métis, who were occupying [[Upper Fort Garry]]. The anglophone settlers largely ignored the call to arms, and Dennis withdrew to [[Lower Fort Garry]]. Schultz, however, was emboldened to fortify his house and his store and attracted around 50 recruits.<ref name="Mactavish">{{Cite DCB
+  | last = Clark
+  | first = Lovell
+  | title =Schultz, Sir John Christian
+  | volume = 12
+  | url =https://www.biographi.ca/en/bio/schultz_john_christian_12E.html
+  | access-date =December 21, 2013
+  | archive-date =December 21, 2013
+  | archive-url =https://web.archive.org/web/20131221114310/http://www.biographi.ca/en/bio/schultz_john_christian_12E.html
+  | url-status =live
+  }}</ref>
+
+Riel took the threat seriously and ordered for Schultz's home to be surrounded. The resisters surrendered on December 7 and were imprisoned in Fort Garry.<ref name=Goosen/>
+
+== Provisional government ==
+The unrest and the absence of a clear authority made the Métis National Committee declare a provisional government on December 8. Having received notification of the delay in the union until the British government of the HBC could guarantee a peaceful transfer, McDougall and Dennis departed for Ontario on December 18. Major Boulton fled to [[Portage la Prairie, Manitoba|Portage la Prairie]].
+
+[[Image:ProvisionalMetisGovernment.jpg|thumb|right|Métis provisional government]]
+In Ottawa, [[Governor General of Canada|Governor General]] [[John Young, 1st Baron Lisgar|Lord Lisgar]] had, at the behest of Prime Minister [[John A. Macdonald]], proclaimed an [[amnesty]] on December 6 for all in the Red River area who would lay down their arms.  He dispatched [[Abbé]] [[Jean-Baptiste Thibault]] and [[Charles-René-Léonidas d'Irumberry de Salaberry|Charles-René d'Irumberry de Salaberry]] on a mission of reconciliation but failed to give them the authority to negotiate on behalf of the government.  Macdonald appointed the HBC representative, [[Donald Alexander Smith, 1st Baron Strathcona and Mount Royal|Donald Alexander Smith]], as special commissioner with a greater authority to negotiate.<ref name="Manitoba 1870"/><ref name="martin">{{cite journal|last1=Martin|first1=Joseph E.|title=Titans|journal=Canada's History|date=2017|volume=97|issue=5|pages=47–53|issn=1920-9894}}</ref>
+
+On December 27, John Bruce resigned as president of the provisional government, and Riel was elected president. The same day, Donald Smith arrived in the settlement, followed shortly by de Salaberry, who joined Thibault, who had arrived on Christmas Day.  They met with Riel on January 5, 1870, but reached no conclusions.  The next day, Riel and Smith had another meeting. Smith then concluded that negotiation with the committee would be fruitless.  He maneuvered to bypass it and to present the Canadian position at a public meeting.<ref name="Smith">{{Cite DCB
+  | last = Reford
+  | first = Alexander
+  | title = Smith, Donald Alexander
+  | volume = 14
+  | url = http://www.biographi.ca/en/bio/smith_donald_alexander_14E.html
+  | access-date = May 20, 2015
+  | archive-date = April 7, 2015
+  | archive-url = https://web.archive.org/web/20150407064548/http://www.biographi.ca/en/bio/smith_donald_alexander_14E.html
+  | url-status = live
+  }}</ref>
+
+Meetings were held on January 19 and 20. With Riel acting as translator, Smith assured the large audiences of the Canadian government's goodwill, intention to grant representation, and willingness to extend concessions with respect to land claims. With the settlement now solidly behind him, Riel proposed the formation of a new convention of 40 representatives, divided evenly between French- and English-speaking settlers, to consider Smith's instructions, which was accepted. A committee of six outlined a more comprehensive list of rights, which the convention accepted on February 3. After meetings on February 7 in which the new list of rights were presented to Thibault, Salaberry, and Smith, Smith proposed for a delegation to be sent to Ottawa to engage in direct negotiations with Canada, a suggestion that was eagerly accepted by Riel.<ref name="Smith"/>
+
+Riel also proposed for the provisional government to be reformed to be more inclusive of both language groups. A constitution enshrining those goals was accepted by the convention on February 10. An elected assembly was established, consisting of 12 representatives from anglophone parishes and an equal number of representatives from francophone parishes.
+
+== Canadian resistance and execution of Thomas Scott ==
+Despite the progress on the political front and the inclusion of anglophones within the provisional government, the Canadian contingent was not yet silenced. On January 9, many prisoners escaped from the prison at Fort Garry, including Charles Mair, Thomas Scott and ten others. John Schultz escaped on January 23. By February 15, Riel had freed the remaining prisoners on ''[[parole]]'' to refrain from engaging in political agitation. Schultz, Mair, and Scott intended to continue to work to depose the Métis from power.<ref name="scott"/>
+[[Image:ShootingThomasScott.jpg|thumb|left|An artist's depiction of the execution of Scott, 1870]]
+Mair and Scott proceeded to the Canadian settlements surrounding Portage la Prairie, where they met Boulton, and Schultz sought recruits in the Canadian parishes downstream. On February 12, Boulton led a party from Portage la Prairie to rendezvous at [[Old Kildonan|Kildonan]] with Schultz's men. They intended to overthrow the provisional government.  Boulton had misgivings and turned the party back. Riel's forces detected the men, and on February 17, Boulton, Scott, and 46 other men were captured near Fort Garry. On hearing the news, Schultz and Mair fled to Ontario.
+
+Riel demanded for an example to be made of Boulton. He was tried and sentenced to death for his interference with the provisional government. Intercessions on his behalf by Donald Smith and others resulted in his pardon but only after Riel had obtained assurances from Smith that he would persuade the English parishes to elect provisional representatives. However, the prisoner Thomas Scott, an [[Orange Institution|Orangeman]], interpreted Boulton's pardon as weakness on the part of the Métis, whom he regarded with open contempt. After he had repeatedly quarreled with his guards, they insisted for him to be tried for insubordination. At his trial, which was overseen by [[Ambroise-Dydime Lépine]], he was found guilty of insulting the president, defying the authority of the provisional government, and fighting with his guards. He was sentenced to death although they were not then considered [[capital crimes]]. Smith and Boulton asked Riel to commute the sentence, but Smith reported that Riel responded to his pleas by saying, "I have done three good things since I have commenced; I have spared Boulton's life at your instance, I pardoned Gaddy, and now I shall shoot Scott."<ref name="Boulton1985">{{cite book|author=Charles Arkoll Boulton|title=I Fought Riel: A Military Memoir|url=https://books.google.com/books?id=zdE5PVWEarEC&pg=PA51|year=1985|publisher=James Lorimer & Company|isbn=978-0-88862-935-7|page=51|access-date=September 23, 2021|archive-date=August 17, 2021|archive-url=https://web.archive.org/web/20210817021403/https://books.google.com/books?id=zdE5PVWEarEC&pg=PA51|url-status=live}}</ref>
+
+Scott was executed by a firing squad on March 4, 1870. Historians have debated Riel's motivations for allowing the execution, as they have considered it his one great political blunder. His own justification was that he felt it necessary to demonstrate to the Canadians that the Métis must be taken seriously.<ref name="scott"/>
+
+== Creation of Manitoba ==
+[[Image:Canada provinces 1870-1871.png|thumb|Canada after the creation of [[Manitoba]] by the ''[[Manitoba Act]]'' of 1870 ]]
+
+Upon receiving news of the unrest, Bishop Taché was recalled from Rome. He arrived back in the colony on March 8, and he conveyed to Riel his mistaken impression that the December amnesty would apply to both Riel and [[Ambroise-Dydime Lépine|Lépine]]. On March 15, he read to the elected assembly a telegram from [[Joseph Howe]] indicating that the government found the demands in the list of rights to be "in the main satisfactory." After the preparation of a final list of rights, which included new demands such as a general [[amnesty]] for all members of the provisional government and provisions for separate francophone schools, the delegates Abbé [[Joseph-Noël Ritchot]], Judge [[John Black (Canadian judge)|John Black]] and [[Alfred Henry Scott (Canadian politician)|Alfred Henry Scott]] departed for Ottawa on March 23 and 24.<ref name="Louis Riel"/>
+
+Shortly afterward, Mair and Schultz arrived in [[Toronto]], Ontario. Assisted by [[George Taylor Denison III]], they immediately set about inflaming anti-Métis and anti-Catholic sentiment in the editorial pages of the Ontario press over the execution of Scott. However, Macdonald had decided before the provisional government was established, Canada must negotiate with the Métis. Although the delegates were arrested after their arrival in [[Ottawa]] on April 11 on charges of abetting murder, they were quickly released. They soon entered into direct talks with Macdonald and [[George-Étienne Cartier]], and Ritchot emerged as an effective negotiator. An agreement enshrining many of the demands in the list of rights was soon reached. That formed the basis for the ''[[Manitoba Act]]'' of May 12, 1870, which admitted [[Manitoba]] to the [[Canadian Confederation]] on July 15.<ref name="Manitoba Act">{{cite web
+| title = Manitoba Act
+| url = https://www.collectionscanada.gc.ca/confederation/023001-7118-e.html
+| publisher = Library and Archives Canada
+| date = March 26, 2015
+| access-date = May 10, 2015
+| archive-date = May 18, 2015
+| archive-url = https://web.archive.org/web/20150518081830/https://www.collectionscanada.gc.ca/confederation/023001-7118-e.html
+| url-status = live
+}}</ref><ref name="Manitoba Act (Page 2)">{{cite web
+| title = Manitoba Act (Page 2)
+| url = https://www.collectionscanada.gc.ca/confederation/023001-7118.01-e.html
+| publisher = Library and Archives Canada
+| date = March 26, 2015
+| access-date = May 10, 2015
+| archive-date = May 18, 2015
+| archive-url = https://web.archive.org/web/20150518081812/https://www.collectionscanada.gc.ca/confederation/023001-7118.01-e.html
+| url-status = live
+}}</ref>
+
+The government had to deal with several issues before peace could be made. Fortunately for the government, an agreement was reached. With the creation of Manitoba, the Canadian government would gain control over a new area and not have to worry about the Métis being upset, as they would also be gaining control over the land.
+
+On May 12, 1870, the Métis had been given 200,000 hectares of land, which would make up the province of Manitoba. That would allow for the Métis to hunt freely in their land and have some form of government with legitimate powers to run the province and protect Métis rights. Even though the government had created the province of Manitoba for the Métis, it also allowed the government to have control over the province without being responsible for any events that occurred in it. Manitoba would be the first province created from the Northwest Territories.
+
+Significantly, however, Ritchot could not secure a clarification of the governor-general's amnesty. Anger over Scott's execution was growing rapidly in Ontario, and any such guarantee was not politically expedient. The delegates returned to Manitoba with only a promise of a forthcoming amnesty.<ref name="Richot">{{Cite DCB
+  | last = Mailhot
+  | first = Philippe R.
+  | title =Richot, Noël-Joseph
+  | volume = 13
+  | url =https://www.biographi.ca/en/bio/ritchot_noel_joseph_13E.html
+  | access-date =May 20, 2015
+  | archive-date =April 23, 2021
+  | archive-url =https://web.archive.org/web/20210423035806/http://www.biographi.ca/en/bio/ritchot_noel_joseph_13E.html
+  | url-status =live
+  }}</ref>
+
+== The Wolseley expedition ==
+[[Image:FAH Red River Expedition.jpg|thumb|right|''The Red River Expedition at Kakabeka Falls'', by [[Frances Anne Hopkins]], 1877.]]
+{{Main|Wolseley Expedition}}
+
+A military expedition had in any case been decided on as a means of exercising Canadian authority in the Red River settlement and dissuading the Minnesota expansionists. It embarked in May under [[Colonel]] [[Garnet Wolseley]] and made its way up the [[Great Lakes]]. Ontarians especially believed the [[Wolseley Expedition]] to be intended to suppress the rebellion, but the government described it as an "errand of peace." Knowing that he would be arrested and charged with criminal acts and believing that members of the [[Colonial Militia in Canada|Canadian militia]] in the expedition meant to [[lynching|lynch]] him, Riel and his followers fled hurriedly when the troops arrived unexpectedly at Fort Garry on August 24 during pouring rain.<ref>{{cite book |last=Wallace |first=Nesbitt Willougby |title=The Rebellion in the Red River Settlement |date=1872 |location=Barnstable |publisher=Haarry T. Coo k|page=29 |url=https://www.canadiana.ca/view/oocihm.3052/429}}</ref> The arrival of the expedition at Fort Garry marked the effective end of the Red River Rebellion.<ref name="Louis Riel"/>
+
+== Aftermath ==
+The Red River crisis was described as a [[rebellion]] only after sentiment grew in Ontario against the execution of [[Thomas Scott (Orangeman)|Thomas Scott]].  The historian A.&nbsp;G. Morice suggests that the phrase ''Red River Rebellion'' owes its persistence to [[alliteration]], a quality that made it attractive for publication in newspaper headlines.<ref>''Critical History of The Red River Insurrection'' [1935]</ref> The episode has been described as a resistance rather than a rebellion by some scholars as it was resisting against an expanding authority rather than rebelling against an established government.<ref>{{cite encyclopedia |last=Bumsted |first=J.M. |title=Red River Resistance |encyclopedia=[[The Canadian Encyclopedia]]|date=February 7, 2006|publisher=[[Historica Canada]] |edition=online |url=https://www.thecanadianencyclopedia.ca/en/article/red-river-rebellion|access-date=September 26, 2024}}</ref>
+
+Lisgar's viceregal successor, [[Frederick Hamilton-Temple-Blackwood, 1st Marquess of Dufferin and Ava|the Earl of Dufferin]], prevented the execution of [[Ambroise-Dydime Lépine]], who had sentenced Scott to death. Although Scott had been the son a tenant on Dufferin's estate in [[Northern Ireland]], Dufferin heeded appeals from francophones in [[Quebec]] who were sympathetic to the Métis and reduced Lépine's sentence to two years in jail.<ref>{{cite encyclopedia |url=https://www.thecanadianencyclopedia.ca/en/article/frederick-temple-blackwood-1st-marquess-of-dufferin-and-ava| last=Harris| first=Carolyn| title=Lord Dufferin| date=September 22, 2017| encyclopedia=The Canadian Encyclopedia| publisher=Historica Canada |edition=online |accessdate=March 13, 2024}}</ref>
+
+Following the suppression of the rebellion, soldiers of the 1st (Ontario) Battalion of Rifles, stationed at Upper Fort Garry, assaulted many Métis found around the fort, whether they had participated in the rebellion or not. [[John Bruce (Canada)|John Bruce]] and Laurent Garneau, later a pioneer of Edmonton, left Red River in part due to this situation.<ref>Dictionary of Canadian Biography "John Bruce (Brousse)</ref><ref>Monto, Tom. Old Strathcona Edmonton's Southside Roots (Crang Publishing/Alhambra Books), p. 16</ref>
+
+In 1875, Riel was formally [[exile]]d from Canada for five years. Under pressure from Quebec, the government of Sir John A. Macdonald took no more vigorous action. Riel was elected to the [[Canadian Parliament]] three times in exile but never took his seat. He returned to Canada in 1885 to lead the ill-fated [[North-West Rebellion]].  He was then tried and convicted for [[high treason]] and executed by hanging.<ref name="Louis Riel"/>
+
+== In popular culture==
+
+Canadian folk singer-writer [[James Keelaghan]] wrote a song "Red River Rising" about the Red River Rebellion.<ref>{{cite book|editor1-last=Marsh|editor1-first=James H.|editor1-link=James Harley Marsh|title=[[The Canadian Encyclopedia]]|chapter=Red River Rising|date=2000|publisher=McClelland and Stewart|isbn=0-7710 2099 6|page=1237|chapter-url=https://books.google.com/books?id=wR_-aSFyvuYC&q=%22red+river+rising%22+Keelaghan+Riel&pg=PA1237|access-date=October 14, 2017|archive-date=August 16, 2021|archive-url=https://web.archive.org/web/20210816225539/https://books.google.com/books?id=wR_-aSFyvuYC&q=%22red+river+rising%22+Keelaghan+Riel&pg=PA1237|url-status=live}}</ref><ref>{{cite encyclopedia |last=Gregory |first=David |title=James Keelaghan |encyclopedia=The Canadian Encyclopedia |date=December 16, 2013 |publisher=Historica Canada |edition=online |url=https://www.thecanadianencyclopedia.ca/en/article/james-keelaghan}}</ref>
+
+[[Frances Koncan]]'s 2020 play ''[[Women of the Fur Trade]]'' was set in a fort in Red River and features three women discussing the events around them.<ref name=":0">{{Cite news |last=Cram |first=Stephanie |date=February 28, 2020 |title=History, humour and a dash of Keanu Reeves: Women of the Fur Trade a fun, clever look at Red River Resistance |work=CBC |url=https://www.cbc.ca/news/canada/manitoba/theatre-review-rmtc-women-of-the-fur-trade-1.5478175}}</ref>
+
+== See also ==
+{{Portal|Indigenous peoples of the Americas|Canada|History}}
+* [[Historiography of Louis Riel]]
+* [[List of incidents of civil unrest in Canada]]
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+{{Further|Historiography of Louis Riel}}
+* {{cite book |author-link=Charles Arkoll Boulton |last=Boulton |first=Charles A. |date=1886 |title=Reminiscences of the North-West Rebellions |publisher=Grip Printing & Publishing |location=Toronto |url=http://wsb.datapro.net/rebellions/index.html|url-status=dead |archive-url=https://web.archive.org/web/20091123015618/http://wsb.datapro.net/rebellions/index.html |archive-date=November 23, 2009 }}
+* Knaplund, Paul (1934). "[https://www.jstor.org/stable/1896405 Gladstone on the Red River Rebellion, 1870]". ''The Mississippi Valley Historical Review''. '''21''' (1): 76–77
+* {{cite book |author-link=W. L. Morton |last=Morton |first=W. L. |date=1956 |title=Alexander Begg's Red River Journal and Other Papers Relative to the Red River Resistance of 1869–1870 |location=Toronto |publisher=Champlain Society Publications}}
+* {{cite book |title = Riel: a life of revolution |last= Siggins |first=Maggie |author-link=Maggie Siggins |year=1994 |publisher=HarperCollins |location=Toronto |isbn=0-00-215792-6}}
+* Stanley, George F. G. ''The birth of western Canada: A history of the Riel Rebellions'' (1936), a major scholarly study  [https://archive.org/details/P001544/page/n9/mode/1up online]
+* {{cite book |title = Louis Riel |last=Stanley |first=George F. G. |author-link = George Stanley |year=1972 |orig-date=1963 |publisher=[[Ryerson Press]] |location=Toronto |isbn=0-07-092961-0}}
+* {{cite book |author-link=George Stanley |last=Stanley |first=George F. G. |date=1989 |title=Toil & Trouble: Military Expeditions to Red River |publisher=Dundurn Press |isbn=1-55002-059-5}}
+
+== External links ==
+*[https://www.flickr.com/photos/manitobamaps/3928814271/ Winnipeg looking north from near Upper Fort Garry 1870 (showing Schult's Store and residence)]
+*[https://www.collectionscanada.gc.ca/confederation/023001-3010.39-e.html Canadian Confederation (The Orange Order)]
+*[https://www.metismuseum.ca/media/document.php/149078.THE%20REIGN%20OF%20%09TERROR%20revised.pdf]
+
+{{Metis in Canada}}
+{{Canadian military history}}
+{{Louis Riel}}
+{{John A. Macdonald}}
+{{Authority control}}
+
+[[Category:Red River Rebellion| ]]
+[[Category:Political history of Manitoba]]
+[[Category:19th century in Winnipeg]]
+[[Category:Military history of Canada]]
+[[Category:Métis in Canada]]
+[[Category:Rebellions in Canada]]
+[[Category:Red River Colony]]
+[[Category:Louis Riel]]
+[[Category:First premiership of John A. Macdonald]]
+[[Category:Indigenous conflicts in Canada]]
+[[Category:Surveying of Canada]]
+[[Category:Political violence in Canada]]
+[[Category:Riots and civil disorder in Canada]]

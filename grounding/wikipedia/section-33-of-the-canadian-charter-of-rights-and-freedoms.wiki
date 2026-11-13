@@ -1,0 +1,411 @@
+{{Short description|Notwithstanding clause - Canadian Constitution}}
+{{italic title|string=Canadian Charter of Rights and Freedoms}}
+{{Use Canadian English|date=April 2026}}
+{{Use mdy dates|date=July 2024}}
+{{Canadian Charter}}
+
+'''Section 33''' of the ''[[Canadian Charter of Rights and Freedoms]]'', commonly known as the '''notwithstanding clause''' ({{langx|fr|clause dérogatoire|links=no}} or {{lang|fr|clause nonobstant}}), allows the [[Parliament of Canada]] or provincial and territorial legislatures to temporarily override sections 2 and 7 through 15 of the Charter.<ref name="library">Library of Parliament, Parliamentary Information and Research Service, [https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/201817E The Notwithstanding Clause of the Charter] {{Webarchive|url=https://web.archive.org/web/20180915231437/https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/201817E |date=2018-09-15 }}, prepared by David Johansen, 1989, as revised May 2005. Retrieved August 7, 2006.</ref>
+
+==Text==
+
+The text of section 33 is as follows:<ref group="ps">[https://laws-lois.justice.gc.ca/eng/Const/page-12.html ''Canadian Charter of Rights and Freedoms''], s. 33.</ref><ref>{{cite web |title=Section 33 – Notwithstanding clause |url=https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/check/art33.html |website=Charterpedia |publisher=Government of Canada |access-date=12 June 2026}}</ref>
+{{blockquote|'''Exception where express declaration'''<br>'''33(1)''' Parliament or the legislature of a province may expressly declare in an Act of Parliament or of the legislature, as the case may be, that the Act or a provision thereof shall operate notwithstanding a provision included in section 2 or sections 7 to 15.
+
+'''Operation of exception'''<br>'''(2)''' An Act or a provision of an Act in respect of which a declaration made under this section is in effect shall have such operation as it would have but for the provision of this Charter referred to in the declaration.
+
+'''Five year limitation'''<br>'''(3)''' A declaration made under subsection (1) shall cease to have effect five years after it comes into force or on such earlier date as may be specified in the declaration.
+
+'''Re-enactment'''<br>'''(4)''' Parliament or the legislature of a province may re-enact a declaration made under subsection (1).
+
+'''Five year limitation'''<br>'''(5)''' Subsection (3) applies in respect of a re-enactment made under subsection (4).}}
+
+==Function==
+
+The Parliament of Canada, a provincial legislature, or a territorial legislature may enact a law stating that the legislation, or any of its provisions, operates notwithstanding one or more of sections 2 and 7–15 of the ''Charter''.{{sfn|Hogg|Wright|2024|loc=§ 39:1}} The notwithstanding clause cannot be invoked by implication; the law must clearly specify which ''Charter'' rights are being overridden.{{sfn|Hogg|Wright|2024|loc=§ 39:5}} There is no special procedure for invoking the notwithstanding clause; the legislation is enacted through the ordinary legislative process and requires only a simple majority, like any other bill. A legislature may also invoke the notwithstanding clause by enacting a separate [[Omnibus bill|omnibus]] statute that specifies one or more laws which will going forward operate notwithstanding the identified ''Charter'' rights.{{sfn|Hogg|Wright|2024|loc=§ 39:5}}<ref name="1988CanLII19" group="ps">{{cite CanLII|litigants = Ford v Quebec (AG) |link = Ford v Quebec (AG) |year = 1988 |court = SCC |num = 19 |format = CanLII |pinpoint = |parallelcite =[1988] 2 SCR 712 |courtname=auto |juris = }}</ref>
+
+Normally, the validity of a law may be challenged in court on the basis that it infringes a ''Charter'' right. If a court finds that a ''Charter'' right has been infringed, it may nonetheless uphold the law under [[Section One of the Canadian Charter of Rights and Freedoms|Section 1 of the ''Charter'']] if the court determines the infringement is justified in a free and democratic society. However, if the notwithstanding clause is invoked, it overrides the [[judicial review|court's ability to review the law's compliance]] with the specified ''Charter'' rights.
+
+Section 33(1) provides that the notwithstanding clause may only be used to override a "fundamental right", "legal right", or "[[equality right]]" under sections 2, and 7–15 of the ''Charter''. The fundamental rights guaranteed under [[Section Two of the Canadian Charter of Rights and Freedoms|Section 2 of the ''Charter'']] include: [[freedom of speech|freedom of expression]], [[freedom of religion]], [[freedom of thought]], [[freedom of belief]], [[freedom of assembly|freedom of peaceful assembly]] and [[freedom of association]]. The legal rights guaranteed under sections 7–14 of the ''Charter'' include: the [[right to life]], [[liberty]] and [[security of the person]]; protection against unreasonable [[search and seizure]]; protection against arbitrary detention or imprisonment; right to legal counsel and the guarantee of [[habeas corpus]]; rights in criminal and penal matters such as the right to be [[presumption of innocence|presumed innocent]] until proven guilty; protection against [[cruel and unusual punishment]]; protection against self-incrimination; and right to an interpreter in a court proceeding. The equality rights under [[Section Fifteen of the Canadian Charter of Rights and Freedoms|section 15 of the ''Charter'']] include protection from [[discrimination]] perpetrated by the government.<ref name="library"/>{{sfn|Hogg|Wright|2024|loc=§ 39:3}}
+
+The notwithstanding clause does not apply to other rights enumerated in the ''Charter'', including mobility rights ([[Section Six of the Canadian Charter of Rights and Freedoms|section 6]]), democratic rights (sections 3–5), language rights (sections 16–23), the enforcement provision ([[Section 24 of the Canadian Charter of Rights and Freedoms|section 24]]), or the sexual equality clause ([[Section 28 of the Canadian Charter of Rights and Freedoms|section 28]]).{{sfn|Hogg|Wright|2024|loc=§ 39:3}}
+
+Section 33(3) provides that a declaration invoking the notwithstanding clause expires after five years, or a shorter period specified in the law.{{sfn|Hogg|Wright|2024|loc=§ 39:4}} However, section 33(4) permits the legislature to re-enact the invocation of the notwithstanding clause, which is subject to the five year expiry period.{{sfn|Hogg|Wright|2024|loc=§ 39:4}} The five-year limit aligns with the maximum term of a legislature or Parliament before an election must be called, ensuring that the public can hold elected officials accountable. Therefore, if voters disagree with the law, they may elect new representatives who can repeal the legislation or allow the declaration to lapse.{{sfn|Chrétien|2007|p=392}}
+
+== Purpose ==
+
+The notwithstanding clause reflects the hybrid character of Canadian political institutions. In effect, it protects the British tradition of [[parliamentary supremacy]] under the American-style system of written constitutional rights and strong courts introduced in 1982.<ref>{{cite news |last1=McKnight |first1=Peter |title=Notwithstanding what? |work=[[The Vancouver Sun]] |date=January 21, 2006 |page=C.4.}}</ref> Former Prime Minister [[Jean Chrétien]] also described it as a tool that could guard against a hypothetical Supreme Court ruling legalizing [[hate speech]] and [[child pornography]] as freedom of expression.{{sfn|Chrétien|2007|p=392}}
+
+==History==
+{{more citations needed section|date=September 2018}}
+[[Pierre Trudeau]] advocated for the [[Patriation]] of the Canadian Constitution and a constitutional bill of rights after becoming [[Prime Minister of Canada|Prime Minister]] in 1968. Various attempts to patriate and include the bill of rights, including the [[Victoria Charter]], failed in the 1970s. Trudeau announced the intent to constitutionalize a bill of rights that would include: fundamental freedoms, such as the freedom of movement, democratic guarantees, legal rights, language rights and [[social equality|equality rights]]. This proposal gained popular support, but was opposed by the [[Progressive Conservative Party of Canada|Progressive Conservative]] opposition.<ref name="Weinrib269-271">{{cite book |editor1-last=Cohen |editor1-first=Andrew |editor2-last=Granastein |editor2-first=J.L. |title=Trudeau's Shadow: The Life and Legacy of Pierre Elliott Trudeau |date=1999 |publisher=Random House of Canada |location=Toronto |isbn=0-679-30954-3 |url=https://archive.org/details/trudeausshadowli0000unse |url-access=registration |chapter=Trudeau and the Canadian Charter of Rights and Freedoms: A Question of Constitutional Maturation |first1=Lorraine E. |last1=Weinrib |pages=269–271}}</ref> In 1981 the patriation process was accelerated when the Supreme Court of Canada in the ''[[Patriation Reference]]'', affirmed that the federal government could unilaterally patriate the constitution, but a [[Convention (political norm)|constitutional convention]] existed that some provincial approval should be sought for constitutional reform.
+
+The inclusion of the notwithstanding clause in the ''Charter'' was proposed by [[Premier of Alberta]] [[Peter Lougheed]]. In 1972, Alberta passed the ''Alberta Bill of Rights'' which included its own notwithstanding clause on the suggestion of Attorney General of Alberta [[Merv Leitch]].<ref name="Lougheed1998">{{cite book |last1=Lougheed |first1=Peter |author1-link=Peter Lougheed |editor1-last=Schneiderman |editor1-first=David |title=Points of View/Points de vue No. 6 |date=1998 |publisher=University of Alberta. Centre for Constitutional Studies |chapter-url=https://www.constitutionalstudies.ca/wp-content/uploads/2020/08/Lougheed.pdf |chapter=Why a notwithstanding clause?}}</ref> The clause was a compromise reached during the debate over the new constitution in the early 1980s. Among the provinces' major complaints about the ''Charter'' was that it shifted power from elected officers to the judiciary, giving the courts the final word. Section 33, along with the [[limitations clause]], in section 1, was intended to give provincial legislators more leverage to pass law. Trudeau at first strongly objected to the clause, but eventually consented to its inclusion under pressure from the provincial premiers.<ref name="irpp.org">{{cite magazine |url=http://www.irpp.org/po/archive/oct03/manfredi.pdf |title=Same-sex Marriage and the notwithstanding clause |first1=Christopher P. |last1=Manfredi |author1-link=Christopher P. Manfredi |magazine=Policy Options |date=October 2003 |pages=21–24 |publisher=[[Institute for Research on Public Policy]] |issn=1910-9741 |access-date=2011-05-05 |archive-date=2011-10-16 |archive-url=https://web.archive.org/web/20111016174511/http://www.irpp.org/po/archive/oct03/manfredi.pdf |url-status=dead }}</ref>
+
+[[File:Jean Chrétien1.jpg|thumb|Justice Minister [[Jean Chrétien]] agreed to the notwithstanding clause in the [[Patriation#The Kitchen Accord|Kitchen Accord]].]]
+The clause was included as part of what is known as the "[[Kitchen Accord]]". At the end of a conference on the constitution that was poised to end in deadlock, Jean Chrétien, the [[Minister of Justice (Canada)|federal justice minister]], and [[Roy McMurtry]] and [[Roy Romanow]], both provincial ministers, met in a kitchen in the [[Government Conference Centre]] in [[Ottawa]] and sowed the seeds for a deal. This compromise caused two major changes to the constitution package: the first was that the ''Charter'' would include the "notwithstanding clause", and the second was an agreed-upon amending formula. They then worked through the night with consultations from different premiers, and agreement from almost everybody. However, they excluded from the negotiations [[René Lévesque]], the [[premier of Quebec]]. He refused to agree to the deal, and the Quebec government declined to endorse the constitutional amendment. Chrétien would later say, of the notwithstanding clause, "Canada probably wouldn't have had any ''Charter'' without it."{{sfn|Chrétien|2007|p=392}}
+
+In exchange for agreeing to the notwithstanding clause, Trudeau declined to remove the federal powers of [[Disallowance and reservation in Canada|disallowance and reservation]] from the draft Constitution.<ref>{{cite book |last1=Russell |first1=Peter H. |author-link1=Peter H. Russell |title=Constitutional odyssey : can Canadians become a sovereign people? |date=2004 |publisher=University of Toronto Press |location=Toronto |isbn=978-0-8020-3936-1 |url=https://archive.org/details/constitutionalod0000russ |url-access=registration |page=89}}</ref>
+
+When it was introduced, [[Alan Borovoy]], the general counsel to the [[Canadian Civil Liberties Association]], addressed concerns that the notwithstanding clause was susceptible to abuse from a government by stating that "Political difficulty is a reasonable safeguard for the charter."<ref group="ps">{{Cite web |title=House of Commons Debates, 32nd Parliament, 1st ... - Canadian Parliamentary Historical Resources |url=https://parl.canadiana.ca/view/oop.debates_HOC3201_12/128 |access-date=2024-12-05 |website=parl.canadiana.ca}}</ref><ref>{{Cite newspaper |first1=Charles |last1=Lynch |author1-link=Charles Lynch (journalist) |date=November 7, 1981 |title=Trudeau shares the credit – and the blame |url=https://news.google.com/newspapers?id=0TsyAAAAIBAJ&sjid=B6UFAAAAIBAJ&pg=4682%2C2540814 |access-date=2024-12-05 |work=[[Montreal Gazette]] |page=77}}</ref>
+
+According to Chrétien, in 1992, Trudeau blamed him for the notwithstanding clause, saying "you gave them that". Chrétien replied, "Sorry, Pierre. I recommended it. ''You'' gave it."{{sfn|Chrétien|2007|p=392}}
+
+During the January 9, 2006, party leaders' debate for the [[2006 Canadian federal election|2006 federal election]], Prime Minister [[Paul Martin]] unexpectedly pledged that his [[Liberal Party of Canada|Liberal]] government, if returned, would support a [[constitutional amendment]] to prevent the federal government from invoking section 33, and challenged [[Conservative Party of Canada|Conservative]] leader [[Stephen Harper]] to agree.<ref>{{cite web |url=http://www.cbc.ca/story/canadavotes2006/national/2006/01/09/elxn-debates-look.html |title=Martin says he would ban notwithstanding clause |publisher=[[CBC News]] |date=January 9, 2006 |access-date=10 January 2006 |archive-url=https://web.archive.org/web/20060111123627/http://www.cbc.ca/story/canadavotes2006/national/2006/01/09/elxn-debates-look.html |archive-date=11 January 2006 |url-status=dead }}</ref> This sparked a debate about how the notwithstanding clause could be amended. Some argued that the [[Amendments to the Constitution of Canada|amending formula]] required the federal government to gain the approval of at least seven provinces with at least half the national population (the standard procedure). Others argued that, because the proposal would limit only the federal Parliament's powers, Parliament could make the change alone.<ref>{{cite news |last1=Corbella |first1=Licia |date=January 11, 2006 |title=Martin shocks drafter of Charter of Rights |work=[[Calgary Sun]]}}</ref>
+
+==Comparison with other human rights instruments==
+Constitutional scholar [[Peter Hogg]] has remarked that the notwithstanding clause "seems to be a uniquely Canadian invention".{{sfn|Hogg|Wright|2024|loc=§ 39:8}} The [[United States Constitution]] gives no such powers to the [[U.S. state|states]] (see: [[Nullification (U.S. Constitution)|nullification]]), but Article III, sect. 2 does authorize the [[United States Congress|Congress]] to [[Jurisdiction stripping|remove jurisdiction from the federal courts]]. Not since [[World War II]] has Congress mustered the requisite majority.<ref>The [[Norris–La Guardia Act of 1932]] "provided, with certain exceptions, that no Federal court should have jurisdiction to issue an injunction in a case involving or growing out of a labor dispute". The [[Emergency Price Control Act of 1942]] "contained a provision withholding from Federal district courts authority to enjoin the enforcement of the act".</ref>
+
+However, the concept of the notwithstanding clause was not created with the Charter. The presence of the clause makes the Charter similar to the ''[[Canadian Bill of Rights]]'' (1960), which, under section 2, states that "an Act of the Parliament" may declare that a law "shall operate notwithstanding the ''Canadian Bill of Rights''". A primary difference is that the Bill of Rights' notwithstanding clause could be used to invalidate "any" right, not just specified clauses as with the Charter. The Saskatchewan Human Rights Code (1979), the [[Quebec Charter of Human Rights and Freedoms]] (1977), and the Alberta Bill of Rights (1972) also contain devices like the notwithstanding clause.{{sfn|Hogg|Wright|2024|loc=§ 39:8}}
+
+Outside Canada, [[Israel]] added a device similar to the notwithstanding clause to one of its [[Basic Laws of Israel|Basic Laws]] in 1992. However, this power could be used only in respect of the freedom of occupation.{{sfn|Hogg|Wright|2024|loc=§ 39:8}} The [[2023 Israeli judicial reform]] envisaged [[Override clause (Israel)|extending this power to all matters, including the Basic Laws which do not deal with rights and freedoms]].
+
+In [[Victoria (Australia)|Victoria]], [[Australia]], section 31 of the [[Victorian Charter of Human Rights and Responsibilities]] fulfils a similar purpose.<ref group="ps">[[Charter of Human Rights and Responsibilities Act 2006]], No. 43 of 2006, s.31.</ref><ref>{{cite news |title=''AM'' radio program |url=http://www.abc.net.au/am/content/2005/s1535533.htm |work=[[Australian Broadcasting Corporation|ABC]] |date=December 21, 2005 |archive-url=https://web.archive.org/web/20081013083550/http://www.abc.net.au/am/content/2005/s1535533.htm |archive-date=2008-10-13}}</ref> The uncodified [[constitution of the United Kingdom]] has an implicit equivalent of a notwithstanding clause: following the doctrine of [[parliamentary sovereignty]], the courts have no power to declare primary legislation invalid on constitutional grounds, including on grounds of incompatibility with the [[European Convention on Human Rights]]. The [[Human Rights Act 1998]] requires legislation to be interpreted in a way compatible with the Convention ''if possible'', but they must nonetheless enforce any [[primary legislation]] that they cannot so interpret. This does not apply to [[secondary legislation]] or devolved legislation, which may be ''[[ultra vires]]'' if incompatible.
+
+==Uses and proposed uses==
+
+Four provinces and one territory have passed laws invoking the notwithstanding clause.<ref name=":1">{{Cite journal |last1=Nicolaides |first1=Eleni |last2=Snow |first2=Dave |date=2021 |title=A Paper Tiger No More? The Media Portrayal of the Notwithstanding Clause in Saskatchewan and Ontario |url=https://doi.org/10.1017/S0008423920000876 |journal=Canadian Journal of Political Science |volume=54 |issue=1 |pages=62 |doi=10.1017/S0008423920000876 |s2cid=229475904 |access-date=2022-06-15 |archive-date=2024-04-27 |archive-url=https://web.archive.org/web/20240427172132/https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/paper-tiger-no-more-the-media-portrayal-of-the-notwithstanding-clause-in-saskatchewan-and-ontario/8530B331C57766C9BC92AF235B2331E7 |url-status=live |url-access=subscription}}</ref> The clause has been invoked most frequently by Quebec, including the blanket application of the clause to every law from 1982 to 1985, a French-only sign law in 1988, a law prohibiting state-affiliated employees from wearing religious symbols in 2019,<ref>{{Cite web |last=Bordan |first=Gregory |date=2019-03-26 |title=Opinion: Allowing charter rights to be set aside puts all at risk |url=https://montrealgazette.com/opinion/opinion-courts-not-mnas-must-be-the-arbiters-of-rights |url-status=live |archive-url=https://web.archive.org/web/20190329102910/https://montrealgazette.com/opinion/opinion-courts-not-mnas-must-be-the-arbiters-of-rights |archive-date=2019-03-29 |access-date=2019-07-18 |work=Montreal Gazette |language=en}}</ref> and a law strengthening the use of French in 2022. Saskatchewan passed a strike-break act invoking the clause in 1986, and passed a law in 2018 (never brought into force) invoking the clause to permit the government to pay for non-Catholics to attend publicly funded Catholic schools. Alberta passed a law invoking the clause in 2000 to define marriage as "between a man and a woman". In 2025, Alberta invoked the clause once again to pass strike-breaking legislation against teachers. In 2021, Ontario passed a law invoking the clause to increase the period during which third-party groups must limit their activities in the lead-up to an election.<ref>{{cite web |title=Ford government pushes through controversial election spending bill with notwithstanding clause |url=https://www.cbc.ca/news/canada/toronto/notwithstanding-clause-vote-ontario-1.6064952 |access-date=15 June 2021 |publisher=The Canadian Press |archive-date=15 June 2021 |archive-url=https://web.archive.org/web/20210615000516/https://www.cbc.ca/news/canada/toronto/notwithstanding-clause-vote-ontario-1.6064952 |url-status=live }}</ref> Yukon invoked the clause in 1982, but this law was never brought into force.
+
+The federal government has never invoked the notwithstanding clause. 
+
+{{sticky header}}
+{| class="wikitable sortable sticky-header"
+|+ Usages of the notwithstanding clause
+!Jurisdiction
+!Year
+!Period in effect
+!Statute enacting notwithstanding clause
+!Charter right(s) circumvented
+!Enacted
+!Notes on enactment
+|-
+|Quebec||1982||1982&ndash;1990||''Act Respecting the Constitution Act, 1982'', (Retroactive amendment of every existing law);<ref name="ARCA1982CQLR-L4.2" group="ps">{{Cite canlaw|short title =Act respecting the Constitution Act, 1982|abbr =CQLR |year =1982 |chapter =L-4.2 |section = |link =https://canlii.ca/t/hd4k}}</ref> All new statutes from 1982 to 1985<ref name=":0">{{Cite journal |last=Kahana |first=Tsvi |date=2001 |title=The Notwithstanding Mechanism and Public Discussion: Lessons from the Ignored Practice of Section 33 of the Charter |journal=Canadian Public Administration |volume=44 |issue=3 |pages=260–264, 281|doi=10.1111/j.1754-7121.2001.tb00891.x |doi-access=free }}</ref>
+|Blanket application to sections 2 and 7 to 15 (all applicable Charter sections)||{{ya}}||Brought into force, but was unnecessary in most cases. The Supreme Court accepted the validity of the blanket application in ''[[Ford v Quebec (AG)|Ford v. Quebec]]'' (at para. 35).
+|-
+|Yukon||1982||{{n/a}}||''Land Planning and Development Act''<ref group="ps">''Land Planning and Development Act'', SY&nbsp;1982 c&nbsp;22, s&nbsp;39</ref>||[[Section 15 of the Canadian Charter of Rights and Freedoms|Section&nbsp;15]] equality rights pertaining appointment to committees||{{MaybeCheck}}||Received royal assent, but not brought into force.
+|-
+|House of Commons||1983||{{n/a}}||''An Act respecting the Execution of [[Clifford Olson|Clifford Robert Olson]]'' (Bill C-671)<ref group="ps">{{multiref|
+{{cite web |last1=Taylor |first1=Gordon |title=Bill C-671; An Act respecting the Execution of Clifford Robert Olson |url=https://parl.canadiana.ca/view/oop.HOC_32_1_C583_C700/450 |website=House of Commons Bills, 32nd Parliament, 1st Session: C583-C700 |publisher=Canadian Parliamentary Historical Resources |access-date=January 24, 2023 |date=January 20, 1983}}|
+{{cite hansard |title=Act respecting the Execution of Clifford Robert Olson |url=https://www.lipad.ca/full/1983/01/20/15/#3398177 |website=Lipad |access-date=January 21, 2023 |jurisdiction=Canada |house=Commons |part=32nd Parliament, 1st Session |volume=19 |column=[https://parl.canadiana.ca/view/oop.debates_HOC3201_19/802 22046] |speaker=Gordon Edward Taylor |date=January 20, 1983}}
+}}</ref>||Sections 2 and 7 to 15 (all applicable Charter sections)||{{na}}||Ruled out of order ([[bill of attainder]])<ref group="ps">{{cite hansard|title=An Act respecting the Execution of Clifford Robert Olson|jurisdiction=Canada|house=Commons|date=May 14, 1984|volume=3|url=https://www.lipad.ca/full/1984/05/14/7/#3480490|column_start=[https://parl.canadiana.ca/view/oop.debates_HOC3202_03/1321 3683]|column_end=3684|speaker=Gildas L. Molgat|position=Speaker pro tempore|website=|access-date=January 21, 2023|part=32nd Parliament, 2nd Session}}</ref>
+|-
+|Quebec
+|1986
+|1986&ndash;''present''
+|''An Act Respecting the Pension Plan of Certain Teachers''
+|[[Section 15 of the Canadian Charter of Rights and Freedoms|Section&nbsp;15]] (equality rights)
+|{{Ya}}
+|Renewed 7 times; set to expire in January 2025.<ref name=":6">{{Cite journal |last=Kahana |first=Tsvi |date=2023-05-09 |title=The Notwithstanding Clause in Canada: The First Forty Years |url=https://digitalcommons.osgoode.yorku.ca/ohlj/vol60/iss1/1 |journal=Osgoode Hall Law Journal |volume=60 |issue=1 |pages=1–71 |doi=10.60082/2817-5069.3875 |issn=2817-5069 |doi-access=free |access-date=2023-08-15 |archive-date=2023-08-15 |archive-url=https://web.archive.org/web/20230815135512/https://digitalcommons.osgoode.yorku.ca/ohlj/vol60/iss1/1/ |url-status=live |id=[https://canlii.ca/t/7n3xs 2023 CanLIIDocs 875]}}</ref>
+|-
+|Quebec
+|1986
+|1986&ndash;''present''
+|''An Act Respecting the Government and Public Employees Retirement Plan''
+|[[Section 15 of the Canadian Charter of Rights and Freedoms|Section&nbsp;15]] (equality rights)
+|{{Ya}}
+|Renewed 7 times; set to expire in January 2025.<ref name=":6" />
+|-
+|Quebec
+|1986
+|1986&ndash;''present''
+|''An Act Respecting the Teachers Pension Plan''
+|[[Section 15 of the Canadian Charter of Rights and Freedoms|Section&nbsp;15]] (equality rights)
+|{{Ya}}
+|Renewed 7 times; set to expire in January 2025.<ref name=":6" />
+|-
+|Quebec
+|1986
+|1986&ndash;''present''
+|''An Act Respecting the Civil Service Superannuation Plan''
+|[[Section 15 of the Canadian Charter of Rights and Freedoms|Section&nbsp;15]] (equality rights)
+|{{Ya}}
+|Renewed 7 times; set to expire in January 2025.<ref name=":6" />
+|-
+|Quebec
+|1986
+|1986&ndash;2001
+|''An Act Respecting the Conseil superieur de l'Éducation''
+|[[Section 2 of the Canadian Charter of Rights and Freedoms|Section 2(a)]] (freedom of religion and conscience) and [[Section 15 of the Canadian Charter of Rights and Freedoms|section 15]] (equality rights)
+|{{Ya}}
+|Renewed in 1988, 1994, and 1999; repealed in 2001.<ref name=":6" />
+|-
+|Quebec
+|1986
+|1986&ndash;2001
+|''An Act Respecting the Ministère de l'Éducation''
+|[[Section 2 of the Canadian Charter of Rights and Freedoms|Section 2(a)]] (freedom of religion and conscience) and [[Section 15 of the Canadian Charter of Rights and Freedoms|section 15]] (equality rights)
+|{{Ya}}
+|Renewed in 1988, 1994, and 1999; repealed in 2001.<ref name=":6" />
+|-
+|Quebec
+|1986
+|1986&ndash;2008
+|''The Education Act for Cree, Inuit and Naskapi Native Persons''
+|[[Section 2 of the Canadian Charter of Rights and Freedoms|Section 2(a)]] (freedom of religion and conscience) and [[Section 15 of the Canadian Charter of Rights and Freedoms|section 15]] (equality rights)
+|{{Ya}}
+|Renewed 5 times; expired on July 1, 2008.<ref name=":6" />
+|-
+|Quebec
+|1986
+|1986&ndash;1987
+|''An Act to Amend the Act to Promote the Development of Agricultural Operations''
+|[[Section 15 of the Canadian Charter of Rights and Freedoms|Section&nbsp;15]] (equality rights)
+|{{Ya}}
+|Repealed in 1987.<ref name=":6" />
+|-
+|Saskatchewan||1986||1986&ndash;1987||''SGEU Dispute Settlement Act''<ref name="SGEUDisputeSettlementAct" group="ps">{{Cite canlaw|short title =SGEU Dispute Settlement Act|abbr =SS |year =1986 |chapter =111 |section =9(1) |link =https://canlii.ca/t/537d3}}</ref>||[[Section 2 of the Canadian Charter of Rights and Freedoms|Section&nbsp;2(d)]] (freedom of association) ||{{ya}}||Brought into force.
+|-
+|Quebec
+|1988
+|1988&ndash;2008
+|''Education Act''
+|[[Section 2 of the Canadian Charter of Rights and Freedoms|Section 2(a)]] (freedom of religion and conscience) and [[Section 15 of the Canadian Charter of Rights and Freedoms|section 15]] (equality rights)
+|{{Ya}}
+|Renewed 4 times; expired on July 1, 2008.<ref name=":6" />
+|-
+|Quebec||1988||1988&ndash;1993||[[Bill 178|''An Act to Amend the Charter of the French Language'']]<ref group="ps">''An Act to Amend the Charter of the French Language'', SQ&nbsp;1988 c&nbsp;54, s&nbsp;10</ref>||[[Section 2 of the Canadian Charter of Rights and Freedoms|Section&nbsp;2(b)]] (freedom of expression) and [[Section 15 of the Canadian Charter of Rights and Freedoms|section&nbsp;15]] (equality rights)||{{ya}}||Brought into force. Not re-enacted after the five-year expiry in 1993.<ref name=":6" />
+|-
+|Quebec
+|1989
+|1989&ndash;1999
+|''An Act Respecting School Elections''
+|[[Section 2 of the Canadian Charter of Rights and Freedoms|Section 2(a)]] (freedom of religion and conscience) and [[Section 15 of the Canadian Charter of Rights and Freedoms|section 15]] (equality rights)
+|{{Ya}}
+|Renewed in 1994; repealed in 1999.<ref name=":6" />
+|-
+|Quebec
+|1992
+|1992&ndash;1997
+|''An Act Respecting Private Education''
+|[[Section 2 of the Canadian Charter of Rights and Freedoms|Section 2(a)]] (freedom of religion and conscience) and [[Section 15 of the Canadian Charter of Rights and Freedoms|section 15]] (equality rights)
+|{{Ya}}
+|Expired after 5 years in 1997 and not renewed.<ref name=":6" />
+|-
+|Alberta||1998||{{n/a}}||''Institutional Confinement and Sexual Sterilization Compensation Act''<ref group="ps">Bill 26, ''[https://docs.assembly.ab.ca/LADDAR_files/docs/bills/bill/legislature_24/session_2/19980127_bill-026.pdf Institutional Confinement and Sexual Sterilization Compensation Act]'', 2nd Sess, 24th Leg, Alberta, 1998.</ref>||Sections 2 and 7 to 15 (all applicable Charter sections)||{{na}}||Bill dropped by legislature.
+|-
+|Alberta||2000||2000&ndash;2004||''Marriage Amendment Act, 2000''<ref name="MarriageActAlberta" group="ps">{{Cite canlaw |short title=Marriage Act |abbr =RSA |year =2000|chapter =M-5|section = |link=https://canlii.ca/t/55x56 |amended1=''[https://canlii.ca/t/53mfd Marriage Amendment Act, 2000]'', SA 2000, c. 3}}</ref>||Sections 2 and 7 to 15 (all applicable Charter sections)|| {{Ya}}
+|Came into force; notwithstanding clause expired by operation of law in March 2005.<ref name=":6" />
+|-
+|Quebec
+|2001
+|2001&ndash;''present''
+|''An Act Respecting the Pension Plan of Management Personnel''
+|[[Section 15 of the Canadian Charter of Rights and Freedoms|Section&nbsp;15]] (equality rights)
+|{{Ya}}
+|Renewed 4 times; set to expire in January 2025.<ref name=":6" />
+|-
+|Quebec
+|2005
+|2005&ndash;2008
+|''Act to Amend Various Legislative Provisions of a Confessional Nature in the Education Field''
+|[[Section 2 of the Canadian Charter of Rights and Freedoms|Section 2(a)]] (freedom of religion and conscience) and [[Section 15 of the Canadian Charter of Rights and Freedoms|section 15]] (equality rights)||{{ya}}
+|Permitted schools to continue offering religious programs until July 2008, at which point the clause expired.<ref name=":1" /><ref name=":6" />
+|-
+|Saskatchewan||2018||{{n/a}}||''School Choice Protection Act''<ref name="SchoolChoiceProtectionAct" group="ps">{{Cite canlaw |short title=School Choice Protection Act |abbr =SS|year =2018|chapter =39|section =2.2(1) |link=https://canlii.ca/t/538v0}}</ref>||[[Section 2 of the Canadian Charter of Rights and Freedoms|Section 2]] (fundamental freedoms) and [[Section 15 of the Canadian Charter of Rights and Freedoms|Section&nbsp;15]] (equality rights)||{{MaybeCheck}}||Received royal assent, but not brought into force.<ref>[http://www.publications.gov.sk.ca/details.cfm?p=91057 Publications Saskatchewan] {{Webarchive|url=https://web.archive.org/web/20181115105809/http://publications.gov.sk.ca/details.cfm?p=91057 |date=2018-11-15 }}. Accessed URL on April 21, 2020.</ref> Usage of the Clause became unnecessary when the original court case was overturned on appeal.{{cn|date=November 2026}}
+|-
+|Ontario||2018||{{n/a}}||''Efficient Local Government Act, 2018''<ref name="EfficientLocalGovernmentAct" group="ps">Bill 31, ''[https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-31 Efficient Local Government Act, 2018]'', 1st Sess, 42nd Leg, Ontario, 2018.</ref>||Sections 2, 7 and 15 (all applicable Charter sections)||{{na}}||Bill dropped by legislature when Court of Appeal granted a stay of the lower court's decision
+|-
+|Quebec||2019||2019&ndash;{{As of|2020|4|21|alt=''present''}}||[[Quebec ban on religious symbols|''An Act Respecting the Laicity of the State'']]<ref name="AnActrespectingthelaicityoftheState2019" group="ps">{{Cite canlaw |short title=An Act respecting the laicity of the State |abbr =SQ|year =2019 |chapter = 12|section = |link=https://canlii.ca/t/53mgl |linkloc =CanLII |wikilink =Act respecting the laicity of the State}}</ref> (Bill 21)||Sections 2 and 7 to 15 (all applicable Charter sections)||{{ya}}||Received royal assent and brought into force on June 16, 2019. Renewed in May 2024.<ref name="AnActrespectingthelaicityoftheState2024" group="ps">{{Cite canlaw |short title=An Act to enable the Parliament of Québec to preserve the principle of parliamentary sovereignty with respect to the Act respecting the laicity of the State |abbr =SQ|year =2024 |chapter = 12|section = |link=https://canlii.ca/t/568q4 |linkloc =|wikilink =}}</ref>
+|-
+|New Brunswick
+|2019
+|{{n/a}}
+|''An Act Respecting Proof of Immunization''<ref group="ps">Bill 11, ''[https://www.legnb.ca/en/legislation/bills/59/3/11/an-act-respecting-proof-of-immunization An Act Respecting Proof of Immunization]'', 3rd Sess, 59th Leg, New Brunswick, 2019.</ref>
+|Sections 2 and 7 to 15 (all applicable Charter sections)||{{na}}||Clause removed from bill prior to defeat at third reading.<ref name=":3">{{Cite web |date=2020-06-18 |title=New Brunswick legislators defeat controversial mandatory vaccination bill |url=https://www.ctvnews.ca/atlantic/article/new-brunswick-legislators-defeat-controversial-mandatory-vaccination-bill/ |access-date=2022-06-01 |website=CTV News Atlantic |agency=[[The Canadian Press]] |language=en |archive-date=2022-06-01 |archive-url=https://web.archive.org/web/20220601174640/https://atlantic.ctvnews.ca/new-brunswick-legislators-defeat-controversial-mandatory-vaccination-bill-1.4990085 |url-status=live }}</ref>
+|-
+|Ontario
+|2021
+|2021&ndash;2023
+|''Protecting Elections and Defending Democracy Act, 2021''<ref group="ps">{{Cite canlaw |short title=Protecting Elections and Defending Democracy Act, 2021 |abbr =SO|year =2021|chapter =31|section = |link=https://canlii.ca/t/56077}}</ref>
+|Sections 2 and 7 to 15 (all applicable Charter sections)||{{MaybeCheck|Yes, but later struck down by the courts}}||Received royal assent on June 14, 2021. The act was struck down in March 2023 by the [[Ontario Court of Appeal|Court of Appeal for Ontario]] for violating a section of the Charter not protected by Section 33.
+|-
+|Quebec
+|2022
+|2022&ndash;{{As of|2022|8|18|alt=''present''}}
+|''[[Charter of the French Language#2021 amendments (Bill 96)|An Act respecting French, the official and common language of Québec]]''<ref name="AnActRespectingFrenchBill96" group="ps">{{Cite canlaw |short title=An Act respecting French, the official and common language of Québec |abbr =SQ |year =2022 |chapter =14|section = |wikilink=An Act respecting French, the official and common language of Québec |link=https://canlii.ca/t/55fcr|linkloc = CanLII}}</ref> (Bill 96)
+|Sections 2 and 7 to 15 (all applicable Charter sections)
+|{{Ya}}
+|Received royal assent on June 1, 2022.<ref name="AnActRespectingFrenchBill96" group="ps"/>
+|-
+|Ontario
+|2022
+|{{n/a}}
+|''[[Keeping Students in Class Act|Keeping Students in Class Act, 2022]]''<ref name="KeepingStudentsinClassAct" group="ps">{{Cite canlaw|short title =Keeping Students in Class Act, 2022 |abbr =SO|year =2022|chapter = 19 |wikilink =Keeping Students in Class Act |linkloc=CanLII |link=https://canlii.ca/t/55m2c}}</ref>
+|Sections 2, 7 and 15
+|{{MaybeCheck|Yes, but later nullified retroactively}}
+|Received royal assent on November 3, 2022.<ref group="ps">{{Cite web |title=Keeping Students in Class Act, 2022 |url=https://www.ola.org/en/legislative-business/bills/parliament-43/session-1/bill-28/status |access-date=2022-11-04 |website=Legislative Assembly of Ontario |language=en |archive-date=2022-11-03 |archive-url=https://web.archive.org/web/20221103210438/https://www.ola.org/en/legislative-business/bills/parliament-43/session-1/bill-28/status |url-status=live }}</ref> Repealed and retroactively nullified on November 14, 2022.<ref name="KeepingStudentsinClassRepealAct" group="ps">{{Cite canlaw|short title =Keeping Students in Class Repeal Act, 2022  |abbr =SO|year =2022|chapter = 20 |wikilink = |linkloc=CanLII |link=https://canlii.ca/t/55np4}}</ref>
+|-
+|Saskatchewan
+|2023
+|2023&ndash;{{As of|2023|10|20|alt=''present''}}
+|''[[Parents' Bill of Rights (Saskatchewan)|The Education (Parents’ Bill of Rights) Amendment Act, 2023]]'' (Bill 137)
+|Sections 2, 7 and 15
+|{{Ya}}
+|Royal assent received and came into force on October 20, 2023.
+|-
+|Alberta
+|2025
+|2025&ndash;present
+|''Back to School Act'' (Bill 2)
+|Sections 2 and 7 to 15 (all applicable Charter sections)
+|{{Ya}}
+|Royal assent received and came into force on October 28, 2025.<ref name="BacktoSchoolAct" group="ps">{{Cite canlaw|short title =Back to School Act  |abbr =SA|year =2025|chapter = B-0.5 |wikilink = |linkloc=CanLII |link=https://canlii.ca/t/56lr0}}</ref>
+|-
+|Québec
+|2025
+|2025&ndash;present
+|''An Act to, in particular, reinforce laicity in the education network and to amend various legislative provisions'' (Bill 94)
+|Sections 2 and 7 to 15 (all applicable Charter sections)
+|{{Ya}}
+|Royal assent received and came into force on October 30, 2025.<ref name="2025QC94" group="ps">{{cite canlaw|short title=n Act to, in particular, reinforce laicity in the education network and to amend various legislative provisions |abbr = SQ|year = 2025|chapter =29 |wikilink = |linkloc = CanLII |link=https://www.canlii.org/en/qc/laws/astat/sq-2025-c-29/latest/sq-2025-c-29.html}}</ref>
+|-
+|British Columbia||2025||{{n/a}}||''Protecting Minors from Gender Transition Act''<ref group="ps">Bill M-216, ''[https://archive.org/details/bc-bill-m216-2025/page/n10/mode/1up Protecting Minors from Gender Transition Act]'', 1st Sess, 43rd Leg, British Columbia, 2025 (on Archive.org).</ref>||Sections 2 and 7 to 15 (all applicable Charter sections)||{{na}}||Bill defeated at first reading.
+|-
+|Alberta
+|2025
+|2025&ndash;present
+|''Protecting Alberta's Children Statutes Amendment Act, 2025'' (Bill 9)
+|Sections 2 and 7 to 15 (all applicable Charter sections)
+|{{Ya}}
+|Royal assent received and came into force on 11 December 2025<ref name="2025AB09" group="ps">Bill 9, [https://www.assembly.ab.ca/assembly-business/assembly-dashboard?legl=31&session=2&billinfoid=12098&anchor=g12098&sectionb=d12098#g12098 2nd Sess, 31st Leg, Alberta, 2025]</ref>
+|-
+|Quebec
+|2025
+|2025&ndash;present
+|''An Act respecting the reinforcement of laicity in Québec'' (Bill 9)
+|Sections 2 and 7 to 15 (all applicable Charter sections)
+|{{Ya}}
+|Bill adopted on 9 April 2026<ref name="2025QC9" group="ps">Bill 9, ''[https://www.assnat.qc.ca/en/travaux-parlementaires/projets-loi/projet-loi-9-43-2.html]'', 2nd Sess, 43rd Leg, Québec, 2025</ref><ref>{{cite web |last1=Shingler |first1=Benjamin |title=Quebec passes expanded secularism law targeting daycare workers, public prayer |url=https://www.cbc.ca/news/canada/montreal/quebec-secularism-bill-9.7151637 |website=CBC News |access-date=16 April 2026}}</ref>
+|-
+|British Columbia
+|2026
+|{{n/a}}
+|''Drug Recovery and Community Safety Act''
+|Sections 2 and 7 to 15 (all applicable Charter sections)
+|{{na}}
+|Ruled out of order after first reading<ref name="2026BC235" group="ps">Bill M 235, ''[https://www.bclaws.gov.bc.ca/civix/document/id/bills/billscurrent/m235-1_43rd2nd]'', 2nd Sess, 43rd Leg, British Columbia, 2026</ref><ref>{{cite web |title=2nd Session, 43rd Parliament – Progress of Bills with Hansard Debates |url=https://www.bclaws.gov.bc.ca/civix/document/id/bills/billscurrent/2nd43rd_progress-of-bills_members |website=www.bclaws.gov.bc.ca |access-date=16 April 2026}}</ref>
+|}
+
+===Alberta===
+====Compensation for forced sterilization (1998)====
+In 1998, Alberta introduced, but later abandoned, a bill that would attempt to use the notwithstanding clause to limit lawsuits against the government for past [[Compulsory sterilization in Canada|forced sterilizations]]<ref>"Sterilizing Klein's legislation", ''Maclean's'', Toronto: March 23, 1998. Vol. 111, Iss. 12, p. 29.</ref> approved by the [[Alberta Eugenics Board]] before the [[Sexual Sterilization Act]] was repealed.<ref>{{Cite web|url=https://www.cbc.ca/news/canada/alberta-backs-down-on-sterilization-compensation-1.158995|title=Alberta backs down on sterilization compensation|access-date=2020-02-27|archive-date=2019-04-17|archive-url=https://web.archive.org/web/20190417210819/https://www.cbc.ca/news/canada/alberta-backs-down-on-sterilization-compensation-1.158995|url-status=live}}</ref>
+
+====Same-sex marriage (2000)====
+In March 2000, the [[Legislature of Alberta]] passed Bill 202, which amended the province's Marriage Act<ref name="MarriageActAlberta" group="ps"/> to include an opposite-sex-only definition of marriage as well as the notwithstanding clause to insulate the definition from Charter challenges. However, a legislature may use the "notwithstanding clause" only on legislation it would otherwise have the authority to enact, and the [[Supreme Court of Canada]] ruled in 2004 in ''[[Re Same-Sex Marriage|Reference re Same-Sex Marriage]]'' that the definition of marriage is within the exclusive domain of the [[Parliament of Canada]]. The implication was Bill 202 was {{lang|la|[[ultra vires]]}}, or beyond the constitutional powers of the Alberta Legislature.<ref name="irpp.org"/>
+
+====Back to School Act (2025)====
+
+In October 2025, the legislature proposed Bill 2, the ''Back to School Act'', which invoked the notwithstanding clause in suspending sections 2 and 7 to 15, which outline fundamental freedoms, legal rights, and equality rights.<ref name="BacktoSchoolAct" group="ps" /> Most importantly it suspended the freedom of association, which has protected unions' right to strike since [[Saskatchewan Federation of Labour v Saskatchewan]].<ref>{{cite web |title=Charter's Freedom of Association Now Includes the Right to Strike: A decision 28 years in the making may profoundly alter labour relations in Canada |url=https://www.constitutionalstudies.ca/2015/04/charters-freedom-of-association-now-includes-the-right-to-strike-a-decision-28-years-in-the-making-may-profoundly-alter-labour-relations-in-canada/?print=print |website=Centre for Constitutional Studies |access-date=29 October 2025}}</ref>
+
+The act was written to order the [[Alberta Teachers' Association]], which had been [[2025 Alberta teachers' strike|on strike]] since early that month, back to work.
+
+Some have said that this usage of Section 33 has implications beyond Alberta and could influence other provincial governments to use it in their own labour disputes.<ref name="CTV News, Labour Expert">{{cite news |last1=Green |first1=Kevin |title=Labour relations expert weighs in on Alberta’s use of notwithstanding clause |url=https://www.ctvnews.ca/calgary/article/labour-relations-expert-weighs-in-on-albertas-use-of-notwithstanding-clause/ |access-date=30 October 2025}}</ref>
+
+====Anti-trans legislation (2025)====
+In 2024, Premier [[Danielle Smith]] said she might use the notwithstanding clause to protect a ban on [[gender-affirming healthcare]],<ref name="CBCNews20241215">{{cite news |last1=Johnson |first1=Lisa |title=Alberta Premier Smith willing to use the notwithstanding clause on trans health bill |url=https://www.cbc.ca/news/canada/calgary/alberta-premier-smith-willing-to-use-the-notwithstanding-clause-on-trans-health-bill-1.7411263 |access-date=April 15, 2025 |work=[[CBC News]] |agency=[[The Canadian Press]] |date=December 15, 2024}}</ref> which would become the case in a bill introduced in November 2025.<ref>{{cite web |title=PROTECTING ALBERTA’S CHILDREN STATUTES AMENDMENT ACT, 2025 |url=https://docs.assembly.ab.ca/LADDAR_files/docs/bills/bill/legislature_31/session_2/20251023_bill-009.pdf |access-date=19 November 2025}}</ref>
+
+====Other discussions of its use in Alberta====
+There were also discussions to invoke the notwithstanding clause following the Supreme Court of Canada's 1998 decision in ''[[Vriend v Alberta]]'', but were resisted by Premier [[Ralph Klein]] at the time.<ref>{{Cite news|url=http://theconversation.com/the-sparse-use-of-canadas-notwithstanding-clause-90508|title=The sparse use of Canada's notwithstanding clause|last=Norman|first=Ken|work=The Conversation|access-date=2018-06-18|language=en|archive-date=2018-06-18|archive-url=https://web.archive.org/web/20180618203315/http://theconversation.com/the-sparse-use-of-canadas-notwithstanding-clause-90508|url-status=live}}</ref>
+
+===New Brunswick===
+====Mandatory vaccinations (2019)====
+On November 22, 2019, Education Minister [[Dominic Cardy]] introduced a bill in the [[Legislative Assembly of New Brunswick]] to end non-medical exemptions to vaccinations in school children, which includes invoking the notwithstanding clause. Cardy said this was to pre-empt any court and charter challenges to the bill by "an organized, well-financed lobby out there that's intent on derailing efforts to protect vulnerable children".<ref>{{Cite news|url=https://www.cbc.ca/news/canada/new-brunswick/cardy-notwithstanding-clause-mandatory-vaccination-bill-1.5369965|title=New Brunswick uses notwithstanding clause in 2nd bid to pass vaccination bill|last=Poitras|first=Jacques|date=Nov 22, 2019|work=CBC New Brunswick|access-date=Nov 22, 2019|archive-date=November 22, 2019|archive-url=https://web.archive.org/web/20191122231214/https://www.cbc.ca/news/canada/new-brunswick/cardy-notwithstanding-clause-mandatory-vaccination-bill-1.5369965|url-status=live}}</ref> The use of the notwithstanding clause was removed from the bill in June 2020,<ref>{{Cite web|date=2020-06-17|title=New Brunswick committee drops notwithstanding clause from vaccination bill|url=https://www.ctvnews.ca/atlantic/article/new-brunswick-committee-drops-notwithstanding-clause-from-vaccination-bill/|access-date=2020-10-12|website=CTV News Atlantic |agency=[[The Canadian Press]]|language=en|archive-date=2020-10-13|archive-url=https://web.archive.org/web/20201013003341/https://atlantic.ctvnews.ca/new-brunswick-committee-drops-notwithstanding-clause-from-vaccination-bill-1.4987933|url-status=live}}</ref> before the bill was ultimately defeated in a free vote at third reading in the legislature.<ref name=":3" />
+
+===Ontario===
+====Municipal elections (2018)====
+In August 2018, the government of Ontario passed the ''Better Local Government Act'', which, among other things, ordered the [[Toronto City Council]] to change its electoral ward boundaries for the [[2018 Toronto municipal election|2018 municipal election]] to match the boundaries used for [[List of Ontario federal electoral districts|federal]] and [[List of Ontario provincial electoral districts|provincial]] electoral ridings, thus reducing the number of wards from 47 to 25. Premier of Ontario [[Doug Ford]] stated that the council had "failed to act on the critical issues facing the city", and claimed cost savings of $25&nbsp;million over the next four years. The bill was controversial for both its intent and its timing, as it came in the midst of a municipal election campaign. The electoral boundaries had already been realigned for the 2018 election to expand it from 44 to 47 wards, by consolidating several existing wards and adding new ones.<ref name="fordsmash">{{cite news| url=https://www.thestar.com/news/queenspark/2018/07/27/its-like-a-comedy-show-down-at-city-hall-ford-defends-unilateral-moves-to-slash-toronto-council-axe-regional-chair-elections.html| title='It's like a comedy show down at city hall:' Ford defends unilateral moves to slash Toronto council, axe regional chair elections| first=Robert| last=Benzie| date=July 27, 2018| work=[[Toronto Star]]| access-date=September 10, 2018| archive-date=September 29, 2018| archive-url=https://web.archive.org/web/20180929162658/https://www.thestar.com/news/queenspark/2018/07/27/its-like-a-comedy-show-down-at-city-hall-ford-defends-unilateral-moves-to-slash-toronto-council-axe-regional-chair-elections.html| url-status=live}}</ref><ref>{{Cite news|url=https://www.cbc.ca/news/canada/toronto/tory-ford-city-council-statements-1.4763890|title=Canada's 'most dysfunctional political arena' – Toronto council – will be chopped in size, premier says|work=CBC News|access-date=2018-09-10|language=en-US|archive-date=2018-09-09|archive-url=https://web.archive.org/web/20180909095603/https://www.cbc.ca/news/canada/toronto/tory-ford-city-council-statements-1.4763890|url-status=live}}</ref><ref>{{Cite news|url=https://www.cbc.ca/news/canada/toronto/better-local-government-act-passes-1.4785145|title=Ontario passes bill slashing Toronto city council|work=CBC News|access-date=2018-09-10|language=en-US|archive-date=2020-05-23|archive-url=https://web.archive.org/web/20200523103024/https://www.cbc.ca/news/canada/toronto/better-local-government-act-passes-1.4785145|url-status=live}}</ref>
+
+On September 10, 2018, the act was struck down by [[Ontario Superior Court of Justice|Superior Court]] Justice Edward Belobaba as unconstitutional, ruling that the larger wards infringed voters' rights to an election whose outcome provides "effective representation", and that unilaterally changing electoral boundaries in the middle of a campaign infringed on candidates' freedom of expression.<ref name="cbc-courtreact">{{Cite news|url=https://www.cbc.ca/news/canada/toronto/judge-ruling-city-council-bill-election-1.4816664|title=Toronto Mayor John Tory reacts as Premier Doug Ford doubles down on plan to slash size of city council|work=CBC News|access-date=2018-09-10|language=en-US|archive-date=2018-09-10|archive-url=https://web.archive.org/web/20180910133555/https://www.cbc.ca/news/canada/toronto/judge-ruling-city-council-bill-election-1.4816664|url-status=live}}</ref> Shortly afterward, Ford announced his intent to table legislation authorizing an invocation of the notwithstanding clause to overturn the ruling,<ref>{{Cite press release |url=https://news.ontario.ca/opo/en/2018/09/doug-ford-announces-action-to-uphold-the-better-local-government-act.html|title=Doug Ford Announces Action to Uphold the Better Local Government Act|work=news.ontario.ca|date=September 10, 2018|access-date=2018-09-10|language=en|archive-date=2018-09-10|archive-url=https://web.archive.org/web/20180910214330/https://news.ontario.ca/opo/en/2018/09/doug-ford-announces-action-to-uphold-the-better-local-government-act.html|url-status=live}}</ref> which, if passed, would have been the first use of the notwithstanding clause in Ontario.<ref>{{Cite news|url=https://www.ctvnews.ca/politics/article/a-very-serious-matter-what-is-the-notwithstanding-clause/|title=What is the notwithstanding clause?|date=2018-09-10|work=CTV News|access-date=2018-09-10|language=en-CA|archive-date=2018-09-10|archive-url=https://web.archive.org/web/20180910220511/https://www.ctvnews.ca/politics/what-is-the-notwithstanding-clause-1.4087536|url-status=live}}</ref><ref name="cbc-courtreact"/> However, on September 19, the [[Court of Appeal for Ontario]] granted a stay of the Superior Court's decision, allowing the province to again implement a 25-ward structure for the City of Toronto. During the oral argument for that case, the counsel for the attorney general stated that the provincial government would not proceed with the legislation to invoke the notwithstanding clause if the stay was granted.<ref>{{Cite news|url=https://www.cbc.ca/news/canada/toronto/ford-court-toronto-council-1.4829250|title=Doug Ford's government wins latest court challenge, moving closer to slashing size of Toronto council|work=CBC News|access-date=September 19, 2018|date=September 19, 2018|archive-date=September 19, 2018|archive-url=https://web.archive.org/web/20180919163759/https://www.cbc.ca/news/canada/toronto/ford-court-toronto-council-1.4829250|url-status=live}}</ref> Belobaba's ruling was ultimately overturned 3–2 by the Court of Appeal in a full hearing. The Court of Appeal ruling was upheld by the Supreme Court of Canada in 2021; in a 5-4 ruling, a majority of the Court ruled that Ontario's ''Better Local Government Act'' violated neither freedom of expression nor the unwritten constitutional principle of democracy.<ref name="2021SCC34" group="ps">{{cite CanLII|litigants = Toronto (City) v Ontario (Attorney General) |link = Toronto (City) v Ontario (Attorney General) |year = 2021 |court = SCC |num = 34|format =  |pinpoint = |parallelcite =  |date = |courtname=auto |juris = }}</ref>
+
+====Third-party political advertising (2021)====
+In early 2021, the Ontario government passed the ''Protecting Ontario Elections Act, 2021'', which restricted the ability of private sector organizations from running political advertisements outside of election periods. In June, The [[Ontario Superior Court]] found the law to violate freedom of expression, and struck down those sections of the law. The Ontario government then passed the ''Protecting Elections and Defending Democracy Act, 2021'' to enact the restrictions using the notwithstanding clause.
+
+In March 2023, the [[Court of Appeal for Ontario]] struck down the law again as violation of voter participation rights protected by [[Section 3 of the Canadian Charter of Rights and Freedoms|section 3 of the ''Charter'']], which cannot be subject to the notwithstanding clause.<ref>{{Cite news |date=March 6, 2023 |title=Ontario's top court strikes down third-party election ad spending rules |work=CBC News |url=https://www.cbc.ca/news/canada/toronto/third-party-spending-court-1.6769636 |access-date=March 7, 2023 |archive-date=March 7, 2023 |archive-url=https://web.archive.org/web/20230307014620/https://www.cbc.ca/news/canada/toronto/third-party-spending-court-1.6769636 |url-status=live }}</ref> In 2025, a 5–4 majority of the Supreme Court of Canada affirmed the Court of Appeal decision.<ref name="2025SCC5" group="ps">{{cite CanLII|litigants=Ontario (Attorney General) v Working Families Coalition (Canada) Inc |link=|year=2025|court=SCC|num=5|courtname=auto}}</ref>
+
+====Education worker labour rights (2022)====
+On November 3, 2022, the government of Ontario passed a bill that imposed a contract on Ontario education workers who were part of the [[Canadian Union of Public Employees]] to prevent them from striking; the bill used the notwithstanding clause in an attempt to prohibit the union from a constitutional challenge regarding the freedom to associate. Despite this, the education workers still went on strike after the bill was passed.<ref>{{Cite web |last=McQuillan |first=Laura |date=2022-11-01 |title=The dispute between Ontario's government and education workers, explained |url=https://www.cbc.ca/news/canada/toronto/ontario-government-education-workers-dispute-explained-1.6637105 |access-date=2022-11-01 |website=CBC News |archive-date=2022-11-01 |archive-url=https://web.archive.org/web/20221101233628/http://www.cbc.ca/news/canada/toronto/ontario-government-education-workers-dispute-explained-1.6637105 |url-status=live }}</ref>
+
+The Ontario government faced heavy backlash from the general public over the law.<ref>{{Cite web |last=Aguilar |first=Bryann |date=2022-11-06 |title=Poll finds 6 of 10 Ontarians blame Ford government for labour disruptions |url=https://www.ctvnews.ca/toronto/article/poll-finds-6-of-10-ontarians-blame-ford-government-for-labour-disruptions/ |access-date=2023-05-26 |website=CTV News |archive-date=2023-05-26 |archive-url=https://web.archive.org/web/20230526051504/https://toronto.ctvnews.ca/poll-finds-6-of-10-ontarians-blame-ford-government-for-labour-disruptions-1.6141246 |url-status=live }}</ref> Other unions also threatened to walk off the job and protest the law in solidarity.<ref name=dustinc1>{{Cite web |last1=Cook |first1=Dustin |last2=Alphonso |first2=Caroline |date=2022-11-14 |title=Ontario officially repeals bill aimed at banning education workers from striking |url=https://www.theglobeandmail.com/canada/article-ontario-officially-repeals-bill-aimed-at-banning-education-workers/ |access-date=2023-05-26 |website=The Globe and Mail |archive-date=2023-05-26 |archive-url=https://web.archive.org/web/20230526104321/https://www.theglobeandmail.com/canada/article-ontario-officially-repeals-bill-aimed-at-banning-education-workers/ |url-status=live }}</ref> As a result, the government made a deal with CUPE where the law was repealed with the provisions and penalties deemed to have never been in effect, and in exchange CUPE ended their strike and contract negotiations resumed.<ref name="KeepingStudentsinClassRepealAct" group="ps"/><ref name=caseyl>{{Cite web |last=Casey |first=Liam |date=2022-11-14 |title=Ontario government repeals anti-strike law for CUPE education workers |url=https://www.cbc.ca/news/canada/toronto/ont-government-repeals-education-bill-1.6650584 |access-date=2023-05-26 |website=CBC News |archive-date=2023-05-26 |archive-url=https://web.archive.org/web/20230526051505/https://www.cbc.ca/news/canada/toronto/ont-government-repeals-education-bill-1.6650584 |url-status=live }}</ref><ref name=dustinc1 />
+
+===Quebec===
+====Blanket application (1982&ndash;1985)====
+After the ''Charter'' came into force in 1982, the [[Parti Québécois]] government passed the ''Act respecting the Constitution Act'', which inserted wording invoking section 33 into every law passed by the [[National Assembly of Quebec]], as well as retroactively amending every existing law, in an attempt to ensure that no provincial law could ever be challenged in the courts on grounds in the relevant ''Charter'' sections.<ref name="ARCA1982CQLR-L4.2" group="ps"/>
+<ref name=globalunderstanding>{{cite news |last1=Giles |first1=David |title=Understanding the Charter’s notwithstanding clause |url=https://globalnews.ca/news/1816424/understanding-the-charters-notwithstanding-clause/ |work=[[Global News]] |date=February 5, 2015}}</ref> This practice ended in 1985, when the newly elected [[Liberal Party of Quebec|Quebec Liberals]] discontinued the blanket application of the notwithstanding clause.<ref name=globalunderstanding/><ref name=":0" /> The Quebec Liberals did successfully invoke the notwithstanding clause to apply to a number of pieces of legislation pertaining to education and pensions between 1986 and 1992. Many of these uses of the notwithstanding clause were subsequently re-enacted.<ref name=":0" />
+
+The way the Quebec legislature deployed the clause in the late 1980s diminished public respect in the rest of the country for section 33.<ref name="library"/> Due to the mass opposition that its use, or even threatened use, as in the case of Alberta (listed above), would evoke, the act of invoking the notwithstanding clause would be more politically costly even than had always been apprehended, according to some.<ref>Heather Scoffield, "Ottawa rules out invoking notwithstanding clause to stop migrant ships", Canadian Press, September 13, 2010</ref>{{sfn|Chrétien|2007|pp=392–393}}<ref>{{cite news |url=https://www.theglobeandmail.com/opinion/a-clash-of-the-charters-notwithstanding/article17778521/ |title=The Quebec election is a clash of two charters |last=Yakabuski |first=Konrad |newspaper=[[The Globe and Mail]] |date=April 3, 2014 |access-date=September 11, 2017 |archive-date=March 8, 2016 |archive-url=https://web.archive.org/web/20160308013812/http://www.theglobeandmail.com/opinion/a-clash-of-the-charters-notwithstanding/article17778521/ |url-status=live }}</ref>
+
+====Sign laws (1988)====
+On December 21, 1988, after the decision of the Supreme Court of Canada in ''[[Ford v Quebec (AG)]]'', the [[National Assembly of Quebec]] employed section 33 and the equivalent section 52 of the Quebec Charter of Human Rights and Freedoms in their [[Bill 178]]. This allowed Quebec to continue to restrict the posting of certain commercial signs in languages other than French. In 1993, after the law was criticized by the [[United Nations Human Rights Committee]], the [[Robert Bourassa|Bourassa]] government had the National Assembly rewrite the law to conform to Supreme Court's interpretation of the right to freedom of expression in section 2(b) Charter, and the notwithstanding clause was removed.
+
+====Wearing of religious symbols by public servants / ''Laïcité'' (2019-)====
+On March 28, 2019, the recently elected [[Coalition Avenir Québec]] (CAQ) government applied the notwithstanding clause in Bill 21 (An Act respecting the Laicity of the State). The bill was passed on June 16, 2019, and prevents public workers in [[Quebec ban on Religious symbols|positions of authority from wearing religious symbols]].<ref>{{Cite web|url=https://www.cbc.ca/news/canada/montreal/quebec-notwithstanding-religious-symbols-1.5073945|title=Quebec government's proposed secularism law would ban public workers from wearing religious symbols|website=CBC News|access-date=2020-02-27|archive-date=2019-03-29|archive-url=https://web.archive.org/web/20190329025750/https://www.cbc.ca/news/canada/montreal/quebec-notwithstanding-religious-symbols-1.5073945|url-status=live}}</ref> It also prevents people from receiving public services with their faces covered.
+
+On May 2, 2024, the National Assembly of Quebec voted to renew Bill 21 by using the [[notwithstanding clause]] for five more years until 2029.<ref>{{Cite news |last=Authier |first=Philip |date=2 May 2024 |title=Legault calls out Liberals, QS for voting against renewal of notwithstanding clause |url=https://montrealgazette.com/news/politics/legault-calls-out-liberals-qs-for-voting-against-renewal-of-notwithstanding-clause |work=The Gazette}}</ref>
+
+This ban would be further extended with Bill 94, in 2025, to encompass a ban on [[Multifaith space|prayer rooms]], and an obligation to have one's face uncovered. It equally extends the ban on religious symbols to non-teaching personnel in schools.<ref>{{cite web|url=https://www.assnat.qc.ca/en/travaux-parlementaires/projets-loi/projet-loi-94-43-1.html|website=Assemblée nationale du Québec|title=Bill 94, An Act to, in particular, reinforce laicity in the education network and to amend various legislative provisions}}</ref>
+
+====French language requirements for multiple sectors (2021)====
+
+The stated goal of [[Charter of the French Language#2021 amendments (Bill 96)|Bill 96]] was "to affirm that the only official language of Québec is French. It also affirms that French is the common language of the Québec nation."<ref name="AnActRespectingFrenchBill96" group="ps"/> Bill 96 was adopted on May 24, 2022, with 78 MNAs in favour and 29 against (from the [[Quebec Liberal Party|Liberal Party]] and [[Parti Québécois]]). Instead of applying the notwithstanding clause only to parts of Bill 96, the [[Coalition Avenir Québec]] government applied it to the entire Bill.
+
+The amendment expanded [[Francization#Quebec|the requirements of businesses to communicate in French]]. Previously, businesses with more than 50 employees faced additional responsibilities to have the common language be French. The amendment lowered that minimum from 50 employees to 25.
+
+Employers may not require knowledge of a language other than French during "recruitment, hiring, transfer or promotion," unless they can show that additional language is necessary and they took "all reasonable means to avoid imposing such a requirement."
+
+The amendment also granted search and seizure laws to the [[Office québécois de la langue française]] (OQLF) and the Minister Responsible for the French Language. Section 111 gives the OQLF authorization to "enter at any reasonable hour any place, other than a dwelling house," where a business conducts activity or holds documents. The amendment requires that anyone present with access to a device or data must provide that access to the inspectors; the inspectors also may seize devices and data for future examination and reproduction without a warrant.
+
+The amendment also impacted health care and social services, limiting service in English to "historic anglophones" or "{{lang|fr|ayant droit}}", immigrants, refugees, or asylum seekers who have been in Quebec for less than 6 months, or "where health, public safety or the principles of natural justice so require." The Minister of Justice and French Language, [[Simon Jolin-Barrette]], said that access would not change for English speakers, but critics suggested that the law is unclear, especially since unlike in the ''[[Act respecting the laicity of the State]]'', no special exemption is explicit.<ref>{{cite news |last1=Marchand |first1=Laura |title=What's in Quebec's new law to protect the French language |url=https://www.cbc.ca/news/canada/montreal/bill-96-explained-1.6460764 |access-date=25 May 2022 |agency=CBC |publisher=CBC |date=21 May 2022 |archive-date=24 May 2022 |archive-url=https://web.archive.org/web/20220524235107/https://www.cbc.ca/news/canada/montreal/bill-96-explained-1.6460764 |url-status=live }}</ref>
+
+===Saskatchewan===
+====Back-to-work legislation (1986)====
+In 1986, the [[Legislature of Saskatchewan]] enacted the ''SGEU Dispute Settlement Act'', which required striking government workers to return to work. The [[Court of Appeal for Saskatchewan]] had previously held that a similar back-to-work law was unconstitutional because it infringed workers' freedom of association. The government appealed that decision to the Supreme Court of Canada. Since the Court of Appeal decision was still the statement of law at the time of the ''SGEU Dispute Settlement Act'', a clause was written into the act, invoking the section 33 override.<ref name="SGEUDisputeSettlementAct" group="ps"/>{{sfn|Hogg|Wright|2024|loc=§ 39:2}}<ref>Joel Bakan et al., ''Canadian Constitutional Law'', 3d ed. (Toronto: Edmond Montgomery, 2003), p. 780.</ref> The earlier law was later found by the Supreme Court to be consistent with the ''Charter'', meaning the use of the clause had been unnecessary.{{sfn|Hogg|Wright|2024|loc=§ 39:2}}<ref name="1987SCR460" group="ps">{{cite CanLII|litigants = RWDSU v Saskatchewan |link = RWDSU v Saskatchewan |year = 1987 |court = Canlii |num = 90 |parallelcite = [1987] 1 SCR 460 |courtname=auto}}</ref>
+
+====Catholic school funding (2018)====
+In May 2018, the Saskatchewan Legislature invoked the notwithstanding clause to overrule a 2017 [[Court of Queen's Bench for Saskatchewan|Court of Queen's Bench]] ruling, which stated the government could not provide funding for non-Catholic students to attend Catholic [[separate school]]s.<ref name="SchoolChoiceProtectionAct" group="ps"/><ref>{{Cite web|url=https://ottawacitizen.com/opinion/columnists/kurl-doug-ford-shows-conservative-parties-arent-what-they-used-to-be|title=Kurl: Doug Ford shows Conservative parties aren't what they used to be|work=Ottawa Citizen|first1=Shachi|last1=Kurl|date=2018-09-14|language=en|access-date=2019-07-18|archive-date=2019-04-01|archive-url=https://web.archive.org/web/20190401022432/https://ottawacitizen.com/opinion/columnists/kurl-doug-ford-shows-conservative-parties-arent-what-they-used-to-be|url-status=live}}</ref> The [[Saskatchewan Court of Appeal]] overturned the decision in March 2020, and the Supreme Court of Canada declined leave to appeal.<ref>{{Cite web |url=https://globalnews.ca/news/7662259/supreme-court-canada-appeal-saskatchewan-theodore-case |title=Supreme Court of Canada dismisses appeal in Saskatchewan Theodore case |first1=Jonathan |last1=Guignard |date=February 26, 2021 |work=[[Global News]] |access-date=2021-04-22 |archive-date=2021-02-27 |archive-url=https://web.archive.org/web/20210227061319/https://globalnews.ca/news/7662259/supreme-court-canada-appeal-saskatchewan-theodore-case/ |url-status=live }}</ref><ref group ="ps">{{cite CanLII|litigants=Good Spirit School Division No. 204 v Christ the Teacher Roman Catholic Separate School Division No. 212|link=|year=2020|court=SKCA|num=34|courtname=auto}}, overturning {{cite CanLII|litigants=Good Spirit School Division No. 204 v Christ the Teacher Roman Catholic Separate School Division No. 212|link=|year=2017|court=SKQB|num=109|courtname=auto}}</ref> With the original decision overturned, there was no longer a need for the notwithstanding clause.
+
+==== Parent consent for non-conforming gender identity in school (2023) ====
+In 2023, Premier Scott Moe told reporters that the province would be willing to use the notwithstanding clause to uphold a policy requiring parents be notified of and approve any requested name and pronoun change from their child before it be recognized at school.<ref>{{Cite news |date=2023-09-14 |title=Saskatchewan considers using notwithstanding clause to keep school pronoun policy change |language=en-CA |work=The Globe and Mail |url=https://www.theglobeandmail.com/canada/article-saskatchewan-considers-using-notwithstanding-clause-to-keep-school/ |access-date=2023-09-14 |archive-date=2023-09-17 |archive-url=https://web.archive.org/web/20230917135020/https://www.theglobeandmail.com/canada/article-saskatchewan-considers-using-notwithstanding-clause-to-keep-school/ |url-status=live }}</ref><ref>{{Cite news |last=Taylor |first=Stephanie |date=2023-09-14 |title=Sask. premier ready to use notwithstanding clause to protect new school pronoun and name rule |work=[[CBC News]] |url=https://www.cbc.ca/news/canada/saskatchewan/sask-premier-ready-to-use-nonwithstanding-clause-to-protect-newschool-pronoun-and-name-rules-1.6966385 |access-date=2023-09-30 |archive-date=2023-09-29 |archive-url=https://web.archive.org/web/20230929155805/https://www.cbc.ca/news/canada/saskatchewan/sask-premier-ready-to-use-nonwithstanding-clause-to-protect-newschool-pronoun-and-name-rules-1.6966385 |url-status=live }}</ref> This came after legal action was initiated by an advocacy group against the provincial government,<ref>{{cite news |last1=Simes |first1=Jeremy |date=2023-08-31 |title=Legal action filed against Sask. government over new school pronoun rules |publisher=[[CBC News]] |url=https://www.cbc.ca/news/canada/saskatchewan/saskatchewan-school-pronoun-policy-legal-court-1.6954046 |access-date=2023-09-30 |archive-date=2023-09-29 |archive-url=https://web.archive.org/web/20230929233913/https://www.cbc.ca/news/canada/saskatchewan/saskatchewan-school-pronoun-policy-legal-court-1.6954046 |url-status=live }}</ref> the province's youth advocate published a report against the policy,<ref>{{cite news |last1=Kruger |first1=Brooke |date=2023-09-15 |title=Saskatchewan Children's Advocate says new names and pronouns school policy violates human rights |publisher=[[Global News]] |url=https://globalnews.ca/news/9964944/saskatchewan-childrens-advocate-says-new-names-and-pronouns-school-policy-violates-human-rights/ |access-date=2023-09-30 |archive-date=2023-09-28 |archive-url=https://web.archive.org/web/20230928210911/https://globalnews.ca/news/9964944/saskatchewan-childrens-advocate-says-new-names-and-pronouns-school-policy-violates-human-rights/ |url-status=live }}</ref> and a Regina court granted an injunction to stop the policy.<ref>{{Cite news |last1=Salloum |first1=Alec |last2=Harder |first2=Brandon |last3=Kurz |first3=Larissa |date=2023-09-28 |title=Moe vows to use notwithstanding clause after court injunction halts pronoun policy |work=[[Regina Leader-Post]] |url=https://leaderpost.com/news/saskatchewan/judge-grants-injunction-to-halt-saskatchewan-pronoun-policy |access-date=2023-09-30 |archive-date=2023-09-29 |archive-url=https://web.archive.org/web/20230929002328/https://leaderpost.com/news/saskatchewan/judge-grants-injunction-to-halt-saskatchewan-pronoun-policy |url-status=live }}</ref>
+
+The bill, titled the "[[Parents' Bill of Rights (Saskatchewan)|Parents' Bill of Rights]]", was passed on October 20, 2023.<ref>{{Cite web |date=2023-10-20 |title=Sask. government's 'Parents' Bill of Rights' becomes law |url=https://regina.ctvnews.ca/sask-government-s-parents-bill-of-rights-becomes-law-1.6609978 |access-date=2023-10-20 |website=CTV News Regina |language=en |archive-date=2023-10-20 |archive-url=https://web.archive.org/web/20231020174900/https://regina.ctvnews.ca/sask-government-s-parents-bill-of-rights-becomes-law-1.6609978 |url-status=dead }}</ref>
+
+====Other discussions of its use in Saskatchewan====
+
+Following a Supreme Court of Canada decision of January 30, 2015,<ref name="2015SCC4" group="ps">{{cite CanLII|litigants = Saskatchewan Federation of Labour v Saskatchewan |link = Saskatchewan Federation of Labour v Saskatchewan |year = 2015 |court = SCC |num = 4 |format =  |pinpoint = |parallelcite = |date = |courtname=auto |juris = }}</ref> which struck down Saskatchewan [[Essential services|essential service]] legislation, Premier [[Brad Wall]] publicly considered using the notwithstanding clause to protect the province's ability to force essential service employees back to work.<ref>{{cite news |title=Brad Wall open to using 'notwithstanding clause' over labour ruling |url=http://www.cbc.ca/news/canada/saskatchewan/brad-wall-open-to-using-notwithstanding-clause-over-labour-ruling-1.2945304 |work=[[Canadian Broadcasting Corporation]] |date=4 February 2015 |access-date=7 February 2015 |archive-date=6 February 2015 |archive-url=https://web.archive.org/web/20150206091206/http://www.cbc.ca/news/canada/saskatchewan/brad-wall-open-to-using-notwithstanding-clause-over-labour-ruling-1.2945304 |url-status=live }}</ref><ref>{{cite news |title=Wall floats notwithstanding clause in response to SCOC labour ruling |last=Charlton |first=Jonathan |url=https://thestarphoenix.com/Wall+floats+notwithstanding+clause+response+SCOC+labour+ruling/10787534/story.html |journal=[[The StarPhoenix]] |date=4 February 2015 |access-date=27 January 2019 |archive-date=7 February 2015 |archive-url=https://web.archive.org/web/20150207055228/http://www.thestarphoenix.com/Wall+floats+notwithstanding+clause+response+SCOC+labour+ruling/10787534/story.html |url-status=live }}</ref>
+
+===Yukon===
+====Committee appointments (1982)====
+In 1982, the legislature of [[Yukon]] made use of the notwithstanding clause in the Land Planning and Development Act. This was the first use, by any Canadian legislature, of the section 33 override. However, as constitutional scholar [[Peter Hogg]] notes, the "statute&nbsp;... was never brought into force and so scarcely counts as an example".{{sfn|Hogg|Wright|2024|loc=§ 39:2}}
+
+==References==
+{{Reflist}}
+<!--<nowiki>Please do not type footnotes here. Instead insert the footnote in its proper spot in the body of this article using the <ref name=> </ref> tags. See [[Wikipedia:Footnotes]] for an explanation of how to generate footnotes using the tags.</nowiki>-->
+
+=== Primary sources ===
+{{Reflist|group="ps"}}
+
+=== Works cited ===
+{{refbegin}}
+* {{cite book |last1=Brosseau |first1=Laurence |last2=Dodsworth |first2=Sarah |last3=Roy |first3=Marc-André |last4=Johansen |first4=David |last5=Rosen |first5=Philip |title=The Notwithstanding Clause of the Charter |date=August 2024 |orig-date=2008 |publisher=[[Library of Parliament]] |location=Ottawa |url=https://lop.parl.ca/staticfiles/PublicWebsite/Home/ResearchPublications/HillStudies/PDF/2018-17-E.pdf}}
+* {{cite book |last1=Chrétien |first1=Jean |author1-link=Jean Chrétien |title=My years as Prime Minister |date=2007 |publisher=A.A. Knopf Canada |location=Toronto |isbn=978-0-676-97900-8}}
+* {{cite book |last1=Hogg |first1=Peter W. |author1-link=Peter Hogg |last2=Wright |first2=Wade |title=Constitutional Law of Canada |orig-date=2007 |date=2024 |publisher=Thomson Reuters Canada |isbn=978-0-7798-1337-7 |edition=5th |version=(loose-leaf)}}
+* {{Cite journal |last=Kahana |first=Tsvi |date=2023 |title=The Notwithstanding Clause in Canada: The First Forty Years |url= |journal=Osgoode Hall Law Journal |volume=60 |issue=1 |pages=1–71 |doi=10.60082/2817-5069.3875 |issn=2817-5069 |doi-access=free |id=[https://canlii.ca/t/7n3xs 2023 CanLIIDocs 875]}}
+{{refend}}
+
+== Further reading ==
+{{refbegin}}
+* {{cite book |last1=Biro |first1=Peter L. |title=The Notwithstanding Clause and the Canadian Charter: Rights, Reforms, and Controversies |date=2024 |publisher=McGill-Queen's University Press |isbn=978-0-2280-2021-9 |language=en}}
+* {{cite journal |last1=Dumais |first1=Charles |last2=Scott |first2=Michael |last3=Buck |first3=Charlie |title=Mapping the Limitations of the Notwithstanding Clause: The PrimaryDocuments.ca Drafting History for Section 33 of the Canadian Charter of Rights and Freedoms |journal=Canadian Legal Information Institute |date=2025 |id=[https://canlii.ca/t/7nqxh 2025 CanLIIDocs 3143]}}
+{{refend}}
+
+==External links==
+{{Wikibooks
+|Canadian Constitutional Law
+|Notwithstanding clause
+|Section 33 of the Canadian Charter of Rights and Freedoms}}
+{{wiktionary|notwithstanding clause}}
+* [http://ualawccsprod.srv.ualberta.ca/ccs/index.php/i-o/755-notwithstanding-clause Centre for Constitutional Studies: Notwithstanding Clause Keyword]
+* [http://www.mapleleafweb.com/features/notwithstanding-clause-section-33-charter Maple Leaf Web: Section 33: The Notwithstanding Clause]
+* [https://www.cbc.ca/news2/background/cdngovernment/notwithstanding.html CBC News In Depth: Canadian Government. Notwithstanding clause – FAQs (2005)]
+
+{{Constitution of Canada|patriation}}
+
+[[Category:Canadian Charter of Rights and Freedoms|Section 33]]

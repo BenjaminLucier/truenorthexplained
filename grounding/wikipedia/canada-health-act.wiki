@@ -1,0 +1,203 @@
+{{Short description|Canadian federal law for health care funding}}
+{{italic title}}
+{{Infobox legislation
+| short_title    = ''Canada Health Act''<br />{{nobold|{{langx|fr|Loi canadienne sur la santé|label=none}}}}
+| image = Centre Block - Parliament Hill.jpg
+| imagesize      = 
+| caption        = 
+| long_title     = ''An Act relating to cash contributions by Canada and relating to criteria and conditions in respect of insured health services and extended health care services''
+| citation       = RSC 1985, c. C-6
+| enacted_by     = [[Parliament of Canada]]
+| date_enacted   = 
+| date_assented  = April 17, 1984
+| date_commenced = 
+| bill           = 
+| bill_citation  = 
+| bill_date      = 
+| introduced_by  = [[Monique Bégin]], Minister of Health
+| 1st_reading    = December 12, 1983
+| 2nd_reading    = March 26, 1984
+| 3rd_reading    = April 9, 1984
+| repeals        = ''[[Hospital Insurance and Diagnostic Services Act]]'', RSC 1970, c. H-8<br />''Medical Care Act'', RSC 1970, c. M-8
+| status         = in force amended
+}}
+{{Healthcare in Canada sidebar}}
+
+The '''''Canada Health Act''''' ('''CHA'''; ''{{langx|fr|Loi canadienne sur la santé}}''),<ref name=":0">{{Cite canlaw|short title=Canada Health Act|abbr=RSC|year=1985|chapter=C-6|section=|link=https://laws-lois.justice.gc.ca/eng/acts/c-6/}}</ref> adopted in 1984, is the federal legislation in [[Canada]] for publicly-funded [[health insurance]], commonly called "[[Medicare (Canada)|medicare]]", and sets out the primary objective of [[Healthcare in Canada|Canadian healthcare policy]].<ref name=":1">{{Cite web |last=Health Canada |date=2004-07-26 |title=Canada Health Act |url=https://www.canada.ca/en/health-canada/services/health-care-system/canada-health-care-system-medicare/canada-health-act.html |access-date=2023-04-19 |website=www.canada.ca}}</ref>
+
+As set out in the Act, the main objective of healthcare policy in Canada is to facilitate reasonable, continued access to quality healthcare to all Canadians, regardless of income or geographic location by establishing criteria and conditions in respect of insured health services and extended health care services.<ref name="HC_2002">{{cite web |author=[[Health Canada]] |date=November 25, 2002 |title=Canada Health Act Overview, 2002 |url=http://www.hc-sc.gc.ca/ahc-asc/media/nr-cp/2002/2002_care-soinsbk4_e.html |archive-url=https://web.archive.org/web/20071217093738/http://hc-sc.gc.ca/ahc-asc/media/nr-cp/2002/2002_care-soinsbk4_e.html |archive-date=December 17, 2007 |access-date=2007-12-26 |work=About Health Canada |publisher=Canada}}</ref><ref name=":1" />
+
+The statute establishes the framework for federal financial contributions to the [[Provinces and territories of Canada|provincial and territorial]] healthcare insurance programs under the [[Canada Health Transfer]]. With that said, the CHA deals only with how the system is financed: under the constitutional division of powers in [[Canadian federalism]], adherence to ''Canada Health Act'' conditions is voluntary on the part of the provinces/territories; the federal government cannot compel the provinces to comply with the Act. However, if a province does not comply with the terms, it would not receive the federal financial contribution to healthcare.<ref name=":2">{{Cite web|url=https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/201954E?#a2-1|title=The Canada Health Act: An Overview|website=lop.parl.ca|accessdate=31 May 2023}}</ref> Those fiscal levers have helped to ensure a relatively consistent level of coverage across the country.
+
+Establishing the principle of [[Universal health care|universal]], [[single-payer healthcare]], the Act's basic requirement is universality: to qualify for federal funding, provinces and territories must provide universal coverage of all "insured health services" for all "insured persons."<ref name="cha-s10">{{Cite canlaw|short title  =Canada Health Act|abbr =RSC|year =1985|chapter =C-6|section =10.|link =https://laws-lois.justice.gc.ca/eng/acts/c-6/section-10.html#docCont}}</ref> "Insured health services" include hospital services, physician services, and surgical-dental services provided to insured persons, if they are not covered by any other programme.<ref name="cha-s2">{{Cite canlaw|short title  =Canada Health Act|abbr =RSC|year =1985|chapter =C-6|section =2.|link =https://laws-lois.justice.gc.ca/eng/acts/c-6/section-2.html#h-151441}}</ref> "Insured persons" means anyone who is resident in a province or territory and lawfully entitled to be or to remain in Canada.<ref name="cha-s2" />
+
+Governments' fiscal position will influence health spending trends. {{As of|2020}}, Canada’s per capita spending on healthcare was among the highest internationally, placing Canada above the [[Organisation for Economic Co-operation and Development|OECD]] average in terms of per-person spending on healthcare. However, Canada's healthcare spending per capita is less than 60% of its neighbour's, the United States.<ref name=":3" /> In addition, prior to the [[COVID-19 pandemic in Canada|COVID-19 pandemic]] health spending growth was constrained due to federal and provincial/territorial governments running [[Deficit spending|budget deficits]]. In 2005, international data shows that approximately 70% of Canadian health expenditures were paid from public sources,<ref>{{citation|author=[[Canadian Institute for Health Information]]|date=September 27, 2005|title=CIHI exploring the 70-30 split|url=https://secure.cihi.ca/estore/productSeries.htm?pc=PCC292|isbn=1-55392-655-2|access-date=2010-12-15|archive-url=https://web.archive.org/web/20110706172606/https://secure.cihi.ca/estore/productSeries.htm?pc=PCC292|archive-date=July 6, 2011|url-status=dead}}.</ref> thereby placing Canada below the OECD average.<ref>{{citation|author=[[Organisation for Economic Co-operation and Development]]|year=2010|title=OECD Health Data 2010: How Does Canada Compare|url=http://www.oecd.org/dataoecd/46/33/38979719.pdf|access-date=2010-12-15}}.</ref><ref name=":3">{{Cite web|url=https://www.cihi.ca/en/national-health-expenditure-trends-2022-snapshot|title=National health expenditure trends, 2022 — Snapshot &#124; CIHI|website=www.cihi.ca}}</ref>
+
+==Overview==
+
+Bill C-6 was introduced in the [[House of Commons of Canada|House of Commons]] by federal [[Minister of Health (Canada)|Minister of Health]] [[Monique Bégin]] in December 1983. The bill passed unanimously in the House of Commons in April 1984, and received [[royal assent]] 8 days later. The ''Canada Health Act'' was thereby enacted in 1984. It has since been included in the [[Revised Statutes of Canada]] 1985, and is now cited to the Revised Statutes.
+
+As Bégin noted, the government decided not to expand coverage (e.g., to mental health and public health), but instead to incorporate much of the principles from previous federal legislation, the ''[[Hospital Insurance and Diagnostic Services Act]]'' and the ''Medical Care Act'', which were then repealed by the ''Canada Health Act''.<ref name=":4">Monique Begin. Medicare: Canada's Right to Health. 1988 {{ISBN|978-0-88890-219-1}}</ref>
+
+Following the election of the [[24th Canadian Ministry|Brian Mulroney government]] in September 1984, the new health minister, [[Jake Epp]], wrote a letter in June 1985 to the provincial health ministers that clarified and interpreted the criteria points and other parts of the new act.
+
+The ''Canada Health Act'' sets out the main objective of [[Health care in Canada|healthcare policy in Canada]], which is "to protect, promote and restore the physical and mental well-being of residents of Canada and to facilitate reasonable access to health services without financial or other barriers."<ref name=":1" />
+
+The CHA establishes criteria and conditions related to insured health services and extended health care services that [[Provinces and territories of Canada|provincial and territorial]] governments must fulfill in order to receive the full federal cash contribution under the [[Canada Health Transfer]] (CHT).<ref name=":1" /> With that said, under the constitutional division of powers in [[Canadian federalism]], adherence to ''Canada Health Act'' conditions is voluntary on the part of the provinces/territories; the federal government cannot compel the provinces to comply with the Act.<ref name=":2" />
+
+One cause for debate is the scope of what should be included as "insured health services". For historical reasons, the ''Canada Health Act'' definition of insured health services is largely restricted to care delivered in hospitals or by physicians. As care has moved from hospitals to home and community, it increasingly has been moving beyond the terms of the ''Canada Health Act''.  However, health insurance covers surgery and services, including [[psychotherapy]], in clinics and doctors' offices as well as dental surgery at dental offices and laboratory tests.{{Citation needed|date=April 2023}}
+
+==Conditions and criteria==
+In order to receive federal funding, there are five principal requirements that provincial and territorial plans must be based on:<ref name=GCinfo>{{Cite web|url=https://www.canada.ca/en/public-health/services/publications/science-research-data/canada-health-act-infographic.html|title=Infographic: Canada Health Act|first=Public Health Agency of|last=Canada|date=February 24, 2020|website=www.canada.ca}}</ref><ref>{{Cite canlaw|short title  =Canada Health Act|abbr =RSC|year =1985|chapter =C-6|section =7.|link =https://laws-lois.justice.gc.ca/eng/acts/c-6/section-7.html#h-151558}}</ref>
+
+* public administration
+* comprehensiveness
+* universality
+* portability
+* accessibility.
+
+There are also two secondary conditions:<ref name="GCinfo" /><ref name=":5">{{Cite canlaw|short title  =Canada Health Act|abbr =RSC|year =1985|chapter =C-6|section =13.|link =https://laws-lois.justice.gc.ca/eng/acts/c-6/section-13.html#h-151558}}</ref>
+
+* recognition: the provinces and territories must ensure recognition of the federal payments; and
+* information: the provinces and territories must provide information on the operation of their health systems to the federal government.
+
+===Criteria===
+
+==== Public administration ====
+The health insurance plans must be:<ref>{{Cite canlaw|short title=Canada Health Act|abbr=RSC|year=1985|chapter=C-6|section=8.|link=https://laws-lois.justice.gc.ca/eng/acts/c-6/section-8.html#docCont}}</ref>
+
+# administered and operated on a non-profit basis by a public authority
+# responsible to the provincial/territorial governments
+# subject to audits of their accounts and financial transactions. This condition does not deal with healthcare delivery, but rather with the system to pay for healthcare. It is the basis for [[Single-payer healthcare|single-payer]] [[Medicare (Canada)|medicare]]. It reduces the scope for private insurers to cover insured health services (although they are still able to cover non-insured health services or non-insured persons).
+
+==== Comprehensiveness ====
+The provincial/territorial healthcare insurance plans must cover "all insured health services provided by hospitals, medical practitioners or dentists" under section 9.<ref name=":0" />
+
+Section 2 defines what is meant by insured health services.<ref name="cha-s2" /> In general, this retains the restriction to hospital and physician services arising from the earlier legislation. The provinces are allowed, but not required, to insure additional services.
+
+Notably, the ''Canada Health Act'' refers to "surgical dental services" but only if these must be provided within a hospital.<ref name="cha-s2" /> In practice, this almost never occurs, and the annual health expenditure data published by the [[Canadian Institute for Health Information]] (CIHI) confirm that Canadian dental services are almost entirely financed privately.{{Citation needed|date=April 2023}} Lobbying by other providers, including nurses, led the act to speak of 'practitioners' rather than physicians; physician services had to be covered, but provinces were allowed, but not required, to define other health professions as qualifying under the ''Canada Health Act''. To date, this provision has been used only occasionally; for example, some provinces have added [[midwifery]], which means that their services are also fully publicly paid for.{{Citation needed|date=April 2023}}
+
+==== Universality ====
+All insured persons must be covered for insured health services "provided for by the plan on uniform terms and conditions." This definition of insured persons excludes those who may be covered by other federal or provincial legislation, such as serving members of the [[Canadian Armed Forces|Canadian Forces]] or [[Royal Canadian Mounted Police]], inmates of [[List of prisons in Canada|federal penitentiaries]], persons covered by provincial [[Workers Compensation Board of Manitoba|workers' compensation]], and some [[Indigenous peoples in Canada|Indigenous peoples]]. Some categories of resident, such as landed immigrants and Canadians returning to live in Canada from other countries, may be subject to a waiting period by a province or territory, not to exceed three months, before they are classified as insured persons; this waiting period arises from the portability provisions.<ref name="cha-s10" />
+
+==== Portability ====
+{{Unreferenced section|date=April 2023}}
+Because plans are organized on a provincial basis, provisions are required for covering individuals who are in another province. The conditions attempt to separate temporary from more permanent absences by using three months as the maximum cut-off. As the above-mentioned summary clarifies, "Residents moving from one province or territory to another must continue to be covered for insured health care services by the "home" province during any minimum waiting period, not to exceed three months, imposed by the new province of residence. After the waiting period, the new province or territory of residence assumes health care coverage." The portability provisions are subject to inter-provincial agreements; there is variation in what is considered emergency (since the portability requirement does not extend to elective services), in how out-of-country care is covered (since there is no 'receiving' province), in how longer absences are dealt with (e.g., students studying in another province), whether the care will be paid for at home province or host province rates, and so on.
+
+==== Accessibility ====
+Finally, section 12(a) stipulates that the insurance plan must provide for "reasonable access" to insured health services by insured persons, "on uniform terms and conditions, unprecluded, unimpeded, either directly or indirectly, by charges (user charges or extra-billing) or other means (age, health status or financial circumstances)."<ref name=":0" />
+
+This section also provides for "reasonable compensation for...services rendered by medical practitioners or dentists" and payments to hospitals that cover the cost of the health services provided. Neither reasonable access nor reasonable compensation are defined by the ''Canada Health Act'', although there is a presupposition that certain processes (e.g., negotiations between the provincial governments and organizations representing the providers) satisfy the condition. The ''Canada Health Act'' allows for dollar-for-dollar withholding of contributions from any provinces allowing user charges or extra-billing to insured persons for insured health services. As noted below, this provision was effective in 'solving' the extra-billing issue.
+
+===Conditions===
+Section 13 lists two conditions that must be met by the province/territory in order to receive its full share of the federal transfers.<ref name=":5" />
+
+The first condition is that the federal minister of health is entitled to specific information relating to a province's insured and extended health care services. This information is used in drafting annual reports, presented to parliament, on how the province administered its health care services over the previous year.
+
+The second condition is that the province must "give recognition" to the federal government "in any public documents, or in any advertising or promotional material, relating to insured health services and extended health care services in the province".<ref>{{Cite web|last=Branch|first=Legislative Services|date=2017-12-12|title=Consolidated federal laws of canada, Canada Health Act|url=https://laws-lois.justice.gc.ca/eng/acts/c-6/page-2.html|access-date=2021-05-20|website=laws-lois.justice.gc.ca}}</ref>
+
+===Violations and penalties===
+{{unreferenced section|date=October 2014}}
+In order to document compliance with the ''Canada Health Act'', the federal minister of health reports to the [[Parliament of Canada]] each year on how the law has been administered by each province over the course of the previous fiscal year.
+
+For non-compliance with any of the five criteria listed above, section 15 allows the federal government to withhold all or a part of the transfer payment with "regard to the gravity of the default". Thus far all non-compliance issues have been settled through discussion or negotiation. Some{{who|date=February 2015}} argue that the federal government has not actively attempted to enforce these conditions, with particular concerns about handling of portability (e.g., the reduction of coverage for residents while traveling abroad) and comprehensiveness (e.g., de-insuring of some medical procedures).
+
+In accordance with section 20, if a province were to violate the prohibition on extra-billing or user charges, the corresponding amount of that collected would be deducted from the transfer payment.
+
+One aspect of the ''Canada Health Act'' was provision for reimbursement of funds withheld for extra-billing and user charges if these were eliminated within three years. Although often contentious (e.g., Ontario's physicians went on strike), all provinces complied with the provisions of the ''Canada Health Act''. Although the amounts withheld were relatively modest—financial penalties totaling $246,732,000 were withheld from the provinces in the first two years—provinces found it difficult to resist the pressure. (They found that many interest groups seeking additional funds would argue that it could be afforded if the province/territory eliminated their extra billing/user fees. Faced with multiple claims on the same pot, most provinces decided that the easiest path was to eliminate these charges.)
+
+In 1993, British Columbia allowed approximately 40 medical practitioners to use extra-billing in their practices. In response, the federal government reduced B.C.'s EPF payments by a total of $2,025,000 over the course of four years.
+
+In 1996, Alberta had their EPF payment reduced by a total of $3,585,000 over the course of a few years due to the use of private clinics that charged user fees. Newfoundland suffered the loss of $323,000 until 1998 and Manitoba lost a total of $2,056,000 until 1999 from user fees being charged at private clinics. Nova Scotia has also forgone EPF payment for their use of user fees in private clinics.
+
+As required by section 23 of the ''CHA'', the Government of Canada publishes a yearly report describing the extent to which each province and territory has complied with the Act.
+
+==History==
+
+=== Background ===
+
+==== Constitutional division of powers over healthcare ====
+Under the principles of [[Canadian federalism]], legislative powers are divided between the federal and provincial governments by the ''[[Constitution Act, 1867]]''. Specific clauses of section 91 of the constitution give the federal Parliament some powers over aspects of health care, for example "quarantine and the establishment and maintenance of marine hospitals". Section 92 gives the provincial legislatures exclusive powers over other aspects of health care, such as the regulation of health professions and the "establishment, maintenance, and management of hospitals, asylums, charities, and eleemosynary institutions in and for the province, other than marine hospitals."<ref>Canada, {{cite web|url=http://laws.justice.gc.ca/eng/Const/index.html|title=Constitutional Documents|access-date=2010-11-07|url-status=dead|archive-url=https://web.archive.org/web/20110605081725/http://laws.justice.gc.ca/eng/Const/index.html|archive-date=2011-06-05}}</ref> As well, the [[Supreme Court of Canada]] has held that the final clause of section 92, which gives the provinces jurisdiction over "matters of a merely local or private nature in the Province" includes jurisdiction over public health.<ref>[https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/2449/index.do ''Schneider v. The Queen''], [1982] 2 SCR 112.</ref>
+
+Parliamentary committees have reported on the division of powers between the federal, provincial, and territorial governments, including the March 2001 report entitled, "The Health of Canadians: The Federal Role".<ref name="sencanada_200103">{{citation|author=Standing Senate Committee on Social Affairs, Science and Technology|date=March 2001|title=The Health of Canadians – The Federal Role, Interim Report, Volume One – The Story So Far|publisher=Canada|url=https://sencanada.ca/content/sen/Committee/371/pdf/interim-soci-e.pdf|access-date=2007-12-26}}</ref> The report described how the federal government assisted the provinces by providing federal funding to the provinces and territories to health services, and that tensions arose when the federal government attempted to set national standards on health along with the federal transfers.<ref name="sencanada_200103"/>
+
+The challenge of ensuring equal access to the same level of services to all provinces and territories—which have differing fiscal resources and fiscal capacities—by implementing federal programs, encountered resistance from the provinces and territories. The implementation of different iterations of equalization payment plans, became increasingly problematic. This resulted in several legal battles.{{citation needed|date=November 2021}}
+
+==== Health insurance before the ''Canada Health Act'' ====
+The development of Canadian health insurance<ref>[http://www.civilization.ca/cmc/exhibitions/hist/medicare/medic00e.shtml Exhibitions] civilization.ca {{Webarchive|url=https://web.archive.org/web/20101130153737/http://www.civilization.ca/cmc/exhibitions/hist/medicare/medic00e.shtml |date=2010-11-30 }}</ref> has been well described by Malcolm Taylor, who participated in many of the negotiations in addition to studying it as an academic.<ref>Malcolm G. Taylor. ''The Seven Decisions That Created the Canadian Health Insurance System and Their Outcomes''. Second edition. McGill-Queen's University Press, 1987. {{ISBN|978-0-7735-0629-9}}</ref>
+
+Healthcare was delivered privately but largely administered and funded publicly by provinces, consistent with their jurisdictional authority. Funded privately until the mid-to-late 20th century, Taylor notes that many Canadians "daily faced the potentially catastrophic physical and financial consequence of unpredictable illness, accident, and disability," and providers, unwilling to deny needed care, had growing bad debts. A number of efforts to establish [[social insurance]] systems failed due to provincial opposition to federal incursion into their jurisdiction. These included the 1937 [[Rowell-Sirois Commission]] on Dominion-Provincial Relations, and the 1945 Green Book proposals of Prime Minister [[Mackenzie King]] as part of the post-World War II reconstruction. At the same time, Canada resembled other developed economies in its receptivity to a more expansive government role in improving [[Welfare state|social welfare]], particularly given the widespread sacrifices during [[World War II]] and the still active memories of the [[Great Depression]].
+
+In 1948, the federal government introduced a series of National Health Grants to directly provide funds to the provinces and territories to construct hospitals, to provide professional training and for public health. This increased the number of hospital beds but did not address the issue of how their operating costs would be covered.
+
+Following the collapse of the conference proposals in 1946, in 1947, the social democratic premier of [[Saskatchewan]], [[Tommy Douglas]] of the [[Co-operative Commonwealth Federation]] (CCF) established Canada's first publicly-funded hospital insurance plan. Other provinces—including [[British Columbia]] (BC), [[Alberta]], and [[Ontario]]—introduced their own insurance plans, with varying degrees of coverage, and varying degrees of success. When [[Newfoundland and Labrador|Newfoundland]] joined Canada, it brought along its system of [[cottage hospital]]s. These policy initiatives increased pressure on the federal government, flush with post-war financial resources, to buy in to health care for its electoral appeal and to extend public financing to provinces whose citizens did not yet have full coverage for hospital care.
+
+The result was that the Progressive Conservative government of [[John Diefenbaker]], who also happened to represent Saskatchewan, introduced and passed (with all-party approval) the ''[[Hospital Insurance and Diagnostic Services Act]] of 1957''. This shared the costs of covering hospital services. By the start date (July 1, 1958) five provinces—Newfoundland, [[Manitoba]], Saskatchewan, Alberta, and British Columbia—had programs in place which could receive the federal funds. By January 1, 1961, when [[Quebec]] finally joined, all provinces had universal coverage for hospital care.
+
+Saskatchewan decided to take the money released by the federal contributions to pioneer again, and following lengthy consultations with but also strong opposition from the provincial medical association, introduced a plan to insure physician costs (The Saskatchewan Medical Care Insurance Plan). By this time, Douglas had moved to national politics, as leader of the federal [[New Democratic Party]] (NDP), The provincial plan precipitated a [[Saskatchewan doctors' strike|strike by the province's physicians]] in 1962. It was eventually settled, but the CCF lost the [[1964 Saskatchewan general election|1964 election]] to Liberal [[Ross Thatcher]]. The plan, however, remained popular, and encouraged other provinces to examine similar programs. A policy debate ensued, with some arguing for universal coverage, and others (particularly the [[Canadian Medical Association]]) arguing for an emphasis on voluntary coverage, with the government assisting only those who could not afford the premiums. Three provinces (BC, Alberta, and Ontario) introduced such programs.
+
+The federal reaction was to appoint a Royal Commission on Health Services. First announced by Prime Minister Diefenbaker in December 1960, it was activated in the following June. Its chair was [[Emmett Matthew Hall|Justice Emmett Hall]], the chief justice of Saskatchewan, and a lifelong friend of Diefenbaker. Three years later, following extensive hearings and deliberations, it released an influential report, which recommended that Canada establish agreements with all provinces to assist them in setting up comprehensive, universal programs for insuring medical services, on the Saskatchewan model, but also recommended adding coverage for prescription drugs, prosthetic services, home care services, as well as optical and dental services for children and those on public assistance. (None of these have yet been added to the formal national conditions, although most provinces do have some sort of coverage for these services.)
+
+By this time, the Liberals, under [[Lester B. Pearson]] were in power. Following intense debate, the Pearson government introduced the ''[[Medical Care Act]]'' which was passed in 1966 by a vote of 177 to two. These two acts established a formula whereby the federal government paid approximately 50 per cent of approved expenditures for hospital and physician services. (The actual formula was a complex one, based on a combination of average national expenditures and spending by each province. In practice, this meant that higher-spending provinces received more federal money, but that it represented a lower proportion of their expenditures, and vice versa for lower-spending provinces.) By 1972, all provinces and territories had complying plans. However, the fiscal arrangements were seen as both cumbersome and inflexible. By 1977, a new fiscal regimen was in place.
+
+==== Change in fiscal arrangements: the 1977 Act ====
+In 1977, the ''[[Hospital Insurance and Diagnostic Services Act]]'' (HIDS), the ''Medical Care Act'', and federal funds for post-secondary education (also under provincial jurisdiction) were combined into a new ''Federal-Provincial Fiscal Arrangements and Established Programs Financing Act of 1977'' (known as EPF). This legislation de-coupled the legislation governing the amount of the federal transfer from the legislation establishing the terms and conditions to be met to receive it.
+
+Under this new arrangement, cost sharing was no more. Provinces/territories now had more flexibility, as long as the federal terms and conditions continued to be met. The federal government had more predictability. Rather than an open-ended commitment, EPF established a per capita entitlement (not adjusted for age-sex or other demographic factors) which would be indexed to inflation. This money would go into provincial general revenues. To simplify a complex formula, the EPF entitlement could be seen as consisting of two components. Part of the funds were in the form of "tax transfers" whereby "the federal government agreed with provincial and territorial governments to reduce its personal and corporate income tax rates, thus allowing them to raise their tax rates by the same amount. As a result, revenue that would have flowed to the federal government began to flow directly to provincial and territorial governments."<ref>{{citation|author=[[Health Canada]]|year=2002|title=The Canada Health and Social Transfer|publisher=Canada|url= http://www.hc-sc.gc.ca/ahc-asc/media/nr-cp/2002/2002_care-soinsbk1_e.html|access-date=2007-12-26|archive-url=https://web.archive.org/web/20071218032141/http://hc-sc.gc.ca/ahc-asc/media/nr-cp/2002/2002_care-soinsbk1_e.html|archive-date=December 18, 2007}}</ref>
+
+This transfer could not be reversed by subsequent governments, meaning that the federal government had no fiscal leverage over this component of the transfer. (Indeed, there has been an ongoing controversy as to whether this component should even be considered part of the federal contribution.)<ref>{{citation|author=Raisa Deber|date=July 11, 2000|title=Who Wants To Pay For Health Care|volume=163|issue=1|journal=[[Canadian Medical Association Journal]]|pages=43–44|url=http://www.cmaj.ca/cgi/reprint/163/1/43|access-date=2007-12-26|pmid=10920731|pmc=1232551}}</ref> The remainder of the entitlement was in the form of cash grants. Although the per capita amount was intended to be escalated to inflation, subsequently, the federal government tried to deal with its fiscal position by unilaterally first reducing and then freezing the inflation escalator. As the cash portion threatened to disappear, in 1996, the federal government combined the EPF transfers with another cost-shared program, the [[Canada Assistance Plan]] (CAP), to form the [[Canada Health and Social Transfer]] (CHST). This enabled the federal government to both cut the total transfers (by approximately the amount in the CAP) while retaining a 'cash floor' on the total amount. In 2004, these transfers were split into the [[Canada Health Transfer]] (CHT) and the Canada Social Transfer. The federal Department of Finance publishes brief guides to these programs.<ref>{{cite web|author=Department of Finance|url=http://www.fin.gc.ca/FEDPROV/hise.html|title=A Brief History of the Health and Social Transfers|work=Federal provincial cost sharing programs|publisher=Canada|access-date=2007-12-27|archive-url=https://web.archive.org/web/20071217155935/http://www.fin.gc.ca/FEDPROV/hise.html|archive-date=2007-12-17|url-status=dead}}</ref> Nonetheless, many argue that there has been no explicit federal transfer for health care since 1977, since these programs are no longer tied to specific spending.
+
+The second component of the federal plan, specification of the terms and conditions which provincial/territorial insurance plans must meet, continued to be those established in HIDS and the ''Medical Care Act''. (Note that there were almost no conditions attached to the CAP or post-secondary education components of the transfers.) The genesis of the ''CHA'' was recognition of the extent to which the federal ability to control provincial behaviour had been reduced. One particular problem was the absence of any provision for graduated withholding of the federal contribution. Because there was little desire to withhold the full contribution for minor violations of terms and conditions, provinces increasingly were permitting extra billing for insured services. In response to the resulting political uproar, the federal government again turned to [[Emmett Matthew Hall|Justice Emmett Hall]] and asked him to report on the future of medicare. His 1979 report, 'Canada's National-Provincial Health Program for the 1980s' noted some of the areas recommended in his earlier report which had not yet been acted on, and warned that accessibility to health care was being threatened through rising user fees. The federal response was to pass the 1984 ''Canada Health Act'' which replaced both HIDS and the ''Medical Care Act'' and clarified the federal conditions.
+
+=== Passing the ''Canada Health Act'' ===
+On December 12, 1983, under the [[Liberal Party of Canada|Liberal]] government of [[Pierre Trudeau]], Bill C-6 was introduced in the [[House of Commons of Canada|House of Commons]] by federal [[Minister of Health (Canada)|Minister of Health]] [[Monique Bégin]]. As she noted, the government decided not to expand coverage (e.g., to mental health and public health), but instead to incorporate much of the principles from previous federal legislation, the ''[[Hospital Insurance and Diagnostic Services Act]]'' and the ''Medical Care Act'', which were then repealed by the ''Canada Health Act''.<ref name=":4" />
+
+The bill passed unanimously in the House of Commons on April 9, 1984, and received [[royal assent]] on April 17, 1984. Following the election of a [[Progressive Conservative Party of Canada|Progressive Conservative]] government under [[Brian Mulroney]] in September 1984, the new health minister, [[Jake Epp]], consulted with his provincial counterparts about the implementation of the ''Canada Health Act''. In June 1985, Epp wrote a letter to the provincial health ministers that clarified and interpreted the criteria points and other parts of the new act.
+
+The ''Canada Health Act'' was enacted in 1984. It has since been included in the [[Revised Statutes of Canada]] 1985, and is now cited to the Revised Statutes.
+
+==Critique==
+In popular discussion, the ''Canada Health Act'' is often conflated with the [[Healthcare in Canada|healthcare system]] in general. However, the ''Canada Health Act'' does not cover how care should be organized and delivered, as long as its criteria are met. The CHA states that "the primary objective of Canadian health care policy is to protect, promote and restore the physical and mental well-being of residents of Canada and to facilitate reasonable access to health services without financial or other barriers."<ref name="chal3">{{cite web |date=1984-04-01 |title=Canada Health Act, Section 3 |url=http://laws-lois.justice.gc.ca/eng/acts/C-6/page-2.html#docCont |access-date=2012-12-14 |publisher=Government of Canada}}</ref>
+
+[[Pro-choice]] advocates have pointed out that the ''Canada Health Act'' fails to meet its criteria in providing access to [[Abortion in Canada|abortion]]. Abortion, as a medical service, does not meet the basic principles of the ''CHA'': public administration, comprehensiveness, universality, portability, and accessibility. Joyce Arthur concludes that "Abortion services fail at least 4 out 5 of these tests." The delivery of abortion services fails comprehensiveness because clinics are not equally funded; universality because of lack of equal access across the country and especially in rural areas; portability because abortion is excluded from the standard reciprocal billing between provinces; accessibility because of lack of clinics in some provinces; and possibly public administration because private clinics are forced to administer its costs.<ref name="cha-fail">{{cite web|title=Canada Health Act Violates Abortion Services: Five Basic Principles Not Met|publisher=Pro Choice Action Network|first=Joyce|last=Arthur|date=November 2001|url=http://www.prochoiceactionnetwork-canada.org/articles/healthact.shtml|access-date=2012-12-14}}</ref>
+
+General [[Dentistry in Canada|oral healthcare]] is not included in the ''Canada Health Act''. Most Canadians receive oral healthcare through privately-operated dental clinics and pay for services through insurance or [[Out-of-pocket expense|out of pocket]]. Some dental services are covered through government dental programs.
+
+A 2016 ''[[HuffPost|Huffington Post]]'' article quoting Saskatchewan [[Member of the Legislative Assembly]] and family physician [[Ryan Meili]] stated:<blockquote>Extra-billing in Ontario, private [[Magnetic resonance imaging|MRIs]] in Saskatchewan and [[user fee]]s in Quebec: violations of the ''Canada Health Act'' are on the rise across the country. Canadian doctors are concerned about the impact of this trend not only on their patients, but on our public health care system as well.<ref>{{Cite web|url=http://www.huffingtonpost.ca/ryan-meili/canada-health-act_b_9610424.html|title = It's Time for the Federal Government to Enforce the Canada Health Act|date = 4 April 2016}}</ref></blockquote>
+
+==See also==
+
+* [[Canada Health Transfer]]
+* [[Canada Health and Social Transfer]]
+* [[Indian Health Transfer Policy (Canada)]]
+* [[Healthcare in Canada]]
+* [[Canadian Institute for Health Information]]
+* [[Canadian and American health care systems compared]]
+* [[Royal Commission on the Future of Health Care in Canada]]
+* [[Medicare (Canada)]]
+* [[Medical Services Plan of British Columbia]]
+* [[Ontario Health Insurance Plan]]
+
+==References==
+{{Reflist|30em}}
+
+; General references
+* [https://web.archive.org/web/20031205153216/http://laws.justice.gc.ca/en/C-6/ Canada Health Act]
+* [https://web.archive.org/web/20100227080931/http://www.hc-sc.gc.ca/hcs-sss/pubs/cha-lcs/2008-cha-lcs-ar-ra/page3-eng.php#AnB Epp Letter, 1985]
+* [http://hc-sc.gc.ca/hcs-sss/medi-assur/cha-lcs/index-eng.php Overview of the Act by Health Canada]
+* [https://web.archive.org/web/20120519042245/http://www.parl.gc.ca/Content/LOP/researchpublications/944-e.htm Madore's Overview And Options, 2003]
+* [https://web.archive.org/web/20111018031520/http://www.parl.gc.ca/Content/LOP/ResearchPublications/prb0552-e.pdf Madore, Private Health Care Funding and Delivery under the Canada Health Act, 2005]
+* [http://www.mapleleafweb.com/features/canada-health-act-provisions-administration Maple Leaf Web: The Canada Health Act]
+* [http://www.hc-sc.gc.ca/hcs-sss/com/fed/index_e.html Health Canada page linking to key Federal reports and commissions and their background material, including Romanow Report and Kirby Commission]
+
+{{Canadian identity}}{{Health care}}
+
+== External links ==
+
+* Reports: [http://www.hc-sc.gc.ca/hcs-sss/pubs/cha-lcs/index-eng.php ''Canada Health Act'' Annual Reports]
+
+[[Category:Healthcare in Canada|act]]
+[[Category:Canadian federal legislation]]
+[[Category:Health law in Canada]]
+[[Category:1984 in Canadian law]]
+[[Category:Universal health care]]

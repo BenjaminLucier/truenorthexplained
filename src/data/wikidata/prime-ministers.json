@@ -1,0 +1,515 @@
+{
+  "_meta": {
+    "source": "Wikidata: prime ministers of Canada",
+    "url": "https://query.wikidata.org/",
+    "licence": "CC0 1.0 (Wikidata)",
+    "query": "P39 = Q839078 (Prime Minister of Canada) with P580/P582; P102 party, filtered to PARTIES",
+    "script": "scripts/grounding/wikidata.ts",
+    "fetched": "2026-11-13"
+  },
+  "parties": {
+    "Q138345": {
+      "name": "Liberal",
+      "family": "lpc"
+    },
+    "Q1538184": {
+      "name": "Liberal-Conservative",
+      "family": "cpc"
+    },
+    "Q909827": {
+      "name": "Conservative",
+      "family": "cpc"
+    },
+    "Q1686042": {
+      "name": "Unionist",
+      "family": "cpc"
+    },
+    "Q1292617": {
+      "name": "Progressive Conservative",
+      "family": "cpc"
+    },
+    "Q488523": {
+      "name": "Conservative",
+      "family": "cpc"
+    }
+  },
+  "primeMinisters": [
+    {
+      "ordinal": 1,
+      "name": "John A. Macdonald",
+      "qid": "Q128702",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_A._Macdonald",
+      "terms": [
+        {
+          "start": "1867-07-01",
+          "end": "1873-11-05",
+          "parties": [
+            "Liberal-Conservative",
+            "Conservative"
+          ]
+        },
+        {
+          "start": "1878-10-17",
+          "end": "1891-06-06",
+          "parties": [
+            "Conservative"
+          ]
+        }
+      ],
+      "parties": [
+        "Liberal-Conservative",
+        "Conservative"
+      ]
+    },
+    {
+      "ordinal": 2,
+      "name": "Alexander Mackenzie",
+      "qid": "Q128708",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Mackenzie_(politician)",
+      "terms": [
+        {
+          "start": "1873-11-07",
+          "end": "1878-10-08",
+          "parties": [
+            "Liberal"
+          ]
+        }
+      ],
+      "parties": [
+        "Liberal"
+      ]
+    },
+    {
+      "ordinal": 3,
+      "name": "John Abbott",
+      "qid": "Q128696",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Abbott",
+      "terms": [
+        {
+          "start": "1891-06-16",
+          "end": "1892-11-24",
+          "parties": [
+            "Liberal-Conservative",
+            "Conservative"
+          ]
+        }
+      ],
+      "parties": [
+        "Liberal-Conservative",
+        "Conservative"
+      ]
+    },
+    {
+      "ordinal": 4,
+      "name": "John Sparrow David Thompson",
+      "qid": "Q128686",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Sparrow_David_Thompson",
+      "terms": [
+        {
+          "start": "1892-12-05",
+          "end": "1894-12-12",
+          "parties": [
+            "Liberal-Conservative"
+          ]
+        }
+      ],
+      "parties": [
+        "Liberal-Conservative"
+      ]
+    },
+    {
+      "ordinal": 5,
+      "name": "Mackenzie Bowell",
+      "qid": "Q128677",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mackenzie_Bowell",
+      "terms": [
+        {
+          "start": "1894-12-21",
+          "end": "1896-04-27",
+          "parties": [
+            "Liberal-Conservative",
+            "Conservative"
+          ]
+        }
+      ],
+      "parties": [
+        "Liberal-Conservative",
+        "Conservative"
+      ]
+    },
+    {
+      "ordinal": 6,
+      "name": "Charles Tupper",
+      "qid": "Q128672",
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_Tupper",
+      "terms": [
+        {
+          "start": "1896-05-01",
+          "end": "1896-07-08",
+          "parties": [
+            "Conservative"
+          ]
+        }
+      ],
+      "parties": [
+        "Conservative"
+      ]
+    },
+    {
+      "ordinal": 7,
+      "name": "Wilfrid Laurier",
+      "qid": "Q128664",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wilfrid_Laurier",
+      "terms": [
+        {
+          "start": "1896-07-11",
+          "end": "1911-10-06",
+          "parties": [
+            "Liberal"
+          ]
+        }
+      ],
+      "parties": [
+        "Liberal"
+      ]
+    },
+    {
+      "ordinal": 8,
+      "name": "Robert Borden",
+      "qid": "Q128655",
+      "wikipedia": "https://en.wikipedia.org/wiki/Robert_Borden",
+      "terms": [
+        {
+          "start": "1911-10-10",
+          "end": "1920-07-10",
+          "parties": [
+            "Conservative",
+            "Unionist"
+          ]
+        }
+      ],
+      "parties": [
+        "Conservative",
+        "Unionist"
+      ]
+    },
+    {
+      "ordinal": 9,
+      "name": "Arthur Meighen",
+      "qid": "Q128645",
+      "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Meighen",
+      "terms": [
+        {
+          "start": "1920-07-10",
+          "end": "1921-12-29",
+          "parties": [
+            "Unionist",
+            "Conservative"
+          ]
+        },
+        {
+          "start": "1926-06-29",
+          "end": "1926-09-25",
+          "parties": [
+            "Conservative"
+          ]
+        }
+      ],
+      "parties": [
+        "Unionist",
+        "Conservative"
+      ]
+    },
+    {
+      "ordinal": 10,
+      "name": "William Lyon Mackenzie King",
+      "qid": "Q128633",
+      "wikipedia": "https://en.wikipedia.org/wiki/William_Lyon_Mackenzie_King",
+      "terms": [
+        {
+          "start": "1921-12-29",
+          "end": "1926-06-28",
+          "parties": [
+            "Liberal"
+          ]
+        },
+        {
+          "start": "1926-09-25",
+          "end": "1930-08-07",
+          "parties": [
+            "Liberal"
+          ]
+        },
+        {
+          "start": "1935-10-23",
+          "end": "1948-11-15",
+          "parties": [
+            "Liberal"
+          ]
+        }
+      ],
+      "parties": [
+        "Liberal"
+      ]
+    },
+    {
+      "ordinal": 11,
+      "name": "R. B. Bennett",
+      "qid": "Q128641",
+      "wikipedia": "https://en.wikipedia.org/wiki/R._B._Bennett",
+      "terms": [
+        {
+          "start": "1930-08-07",
+          "end": "1935-10-23",
+          "parties": [
+            "Conservative"
+          ]
+        }
+      ],
+      "parties": [
+        "Conservative"
+      ]
+    },
+    {
+      "ordinal": 12,
+      "name": "Louis St. Laurent",
+      "qid": "Q128626",
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_St._Laurent",
+      "terms": [
+        {
+          "start": "1948-11-15",
+          "end": "1957-06-21",
+          "parties": [
+            "Liberal"
+          ]
+        }
+      ],
+      "parties": [
+        "Liberal"
+      ]
+    },
+    {
+      "ordinal": 13,
+      "name": "John Diefenbaker",
+      "qid": "Q128614",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Diefenbaker",
+      "terms": [
+        {
+          "start": "1957-06-21",
+          "end": "1963-04-22",
+          "parties": [
+            "Progressive Conservative"
+          ]
+        }
+      ],
+      "parties": [
+        "Progressive Conservative"
+      ]
+    },
+    {
+      "ordinal": 14,
+      "name": "Lester B. Pearson",
+      "qid": "Q128604",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lester_B._Pearson",
+      "terms": [
+        {
+          "start": "1963-04-22",
+          "end": "1968-04-20",
+          "parties": [
+            "Liberal"
+          ]
+        }
+      ],
+      "parties": [
+        "Liberal"
+      ]
+    },
+    {
+      "ordinal": 15,
+      "name": "Pierre Trudeau",
+      "qid": "Q8619",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Trudeau",
+      "terms": [
+        {
+          "start": "1968-04-20",
+          "end": "1979-06-04",
+          "parties": [
+            "Liberal"
+          ]
+        },
+        {
+          "start": "1980-03-03",
+          "end": "1984-06-30",
+          "parties": [
+            "Liberal"
+          ]
+        }
+      ],
+      "parties": [
+        "Liberal"
+      ]
+    },
+    {
+      "ordinal": 16,
+      "name": "Joe Clark",
+      "qid": "Q128574",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joe_Clark",
+      "terms": [
+        {
+          "start": "1979-06-04",
+          "end": "1980-03-03",
+          "parties": [
+            "Progressive Conservative"
+          ]
+        }
+      ],
+      "parties": [
+        "Progressive Conservative"
+      ]
+    },
+    {
+      "ordinal": 17,
+      "name": "John Turner",
+      "qid": "Q128568",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Turner",
+      "terms": [
+        {
+          "start": "1984-06-30",
+          "end": "1984-09-17",
+          "parties": [
+            "Liberal"
+          ]
+        }
+      ],
+      "parties": [
+        "Liberal"
+      ]
+    },
+    {
+      "ordinal": 18,
+      "name": "Brian Mulroney",
+      "qid": "Q128563",
+      "wikipedia": "https://en.wikipedia.org/wiki/Brian_Mulroney",
+      "terms": [
+        {
+          "start": "1984-09-17",
+          "end": "1993-06-25",
+          "parties": [
+            "Progressive Conservative"
+          ]
+        }
+      ],
+      "parties": [
+        "Progressive Conservative"
+      ]
+    },
+    {
+      "ordinal": 19,
+      "name": "Kim Campbell",
+      "qid": "Q128553",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kim_Campbell",
+      "terms": [
+        {
+          "start": "1993-06-25",
+          "end": "1993-11-03",
+          "parties": [
+            "Progressive Conservative"
+          ]
+        }
+      ],
+      "parties": [
+        "Progressive Conservative"
+      ]
+    },
+    {
+      "ordinal": 20,
+      "name": "Jean Chrétien",
+      "qid": "Q128543",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jean_Chr%C3%A9tien",
+      "terms": [
+        {
+          "start": "1993-11-04",
+          "end": "2003-12-12",
+          "parties": [
+            "Liberal"
+          ]
+        }
+      ],
+      "parties": [
+        "Liberal"
+      ]
+    },
+    {
+      "ordinal": 21,
+      "name": "Paul Martin",
+      "qid": "Q128529",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paul_Martin",
+      "terms": [
+        {
+          "start": "2003-12-12",
+          "end": "2006-02-06",
+          "parties": [
+            "Liberal"
+          ]
+        }
+      ],
+      "parties": [
+        "Liberal"
+      ]
+    },
+    {
+      "ordinal": 22,
+      "name": "Stephen Harper",
+      "qid": "Q206",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Harper",
+      "terms": [
+        {
+          "start": "2006-02-06",
+          "end": "2015-11-04",
+          "parties": [
+            "Conservative"
+          ]
+        }
+      ],
+      "parties": [
+        "Conservative"
+      ]
+    },
+    {
+      "ordinal": 23,
+      "name": "Justin Trudeau",
+      "qid": "Q3099714",
+      "wikipedia": "https://en.wikipedia.org/wiki/Justin_Trudeau",
+      "terms": [
+        {
+          "start": "2015-11-04",
+          "end": "2025-03-14",
+          "parties": [
+            "Liberal"
+          ]
+        }
+      ],
+      "parties": [
+        "Liberal"
+      ]
+    },
+    {
+      "ordinal": 24,
+      "name": "Mark Carney",
+      "qid": "Q192533",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mark_Carney",
+      "terms": [
+        {
+          "start": "2025-03-14",
+          "end": null,
+          "parties": [
+            "Liberal"
+          ]
+        }
+      ],
+      "parties": [
+        "Liberal"
+      ]
+    }
+  ]
+}

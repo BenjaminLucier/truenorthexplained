@@ -1,0 +1,429 @@
+{{Short description|Highest court of Canada}}
+{{More citations needed|date=May 2021}}
+{{Use Canadian English|date=May 2015}}
+{{Use dmy dates|date=November 2019}}
+{{Infobox high court
+| court_name = Supreme Court of Canada
+| native_name = {{nobold|{{lang|fr|Cour suprême du Canada}}}}
+| image = Supreme Court of Canada Coat of Arms.png
+| imagesize = 130
+| caption = The [[Heraldic badge|badge]] of the Supreme Court<ref name="Heraldic Emblems">{{cite web |url=https://www.scc-csc.ca/court-cour/he-eh/description-eng.aspx |title=Description of Heraldic Emblems |work=Supreme Court of Canada |date=15 March 2021 |accessdate=2021-07-09 |archive-date=9 July 2021 |archive-url=https://web.archive.org/web/20210709190738/https://www.scc-csc.ca/court-cour/he-eh/description-eng.aspx |url-status=live }}</ref>
+| image2 = {{Photomontage
+|photo1a = Supreme court flag.svg|350px
+|photo1b = Supreme Court of Canada historic badge (Cormier Emblem).png|180px
+|spacing = 30
+|color = transparent
+|border = 0
+}}
+| established = {{start date and age|8 April 1875}}
+| caption2 = The [[Judiciary flag|flag of the Supreme Court]] (left)<br />and the Cormier Emblem (right)<ref name="Heraldic Emblems"/>
+| jurisdiction = Canada
+| location = [[Ottawa]], [[Ontario]]
+| coordinates = 
+| type = [[Judicial appointments in Canada]]
+| authority = ''[[Constitution Act, 1867]]'' and ''[[Supreme Court Act]], 1875''
+| terms = Mandatory retirement at age 75
+| positions = 9
+| website = {{URL|https://www.scc-csc.ca/}}
+| chiefjudgetitle = [[Chief Justice of Canada]]
+| chiefjudgename = [[Richard Wagner (judge)|Richard Wagner]]
+| termstart = 18 December 2017
+| termend = 2 April 2032
+}}
+{{Canadian law sidebar}}
+
+The '''Supreme Court of Canada''' ('''SCC'''; {{langx|fr|Cour suprême du Canada}}, {{lang|fr|CSC}}) is the [[Supreme court|highest court]] in the [[Court system of Canada|judicial system]] of [[Canada]]. It comprises [[List of justices of the Supreme Court of Canada|nine justices]], whose decisions are the ultimate application of [[Canadian law]], and grants permission to between 40 and 75 [[litigant]]s each year to appeal decisions rendered by provincial, territorial and federal [[Appeal|appellate courts]]. The Supreme Court is bijural, hearing cases from two major legal traditions ([[common law]] and [[Civil law (legal system)|civil law]]) and bilingual, hearing cases in both [[Official bilingualism in Canada|official languages of Canada]] (English and French).<ref name=":0">{{Cite web |last=Government of Canada |first=Department of Justice |date=2008-04-15 |title=Harmonization of Federal Legislation with the Civil Law of the Province of Quebec - Booklet 1 |url=https://www.justice.gc.ca/eng/rp-pr/csj-sjc/harmonization/hfl-hlf/b1-f1/bf1g.html |access-date=2024-11-18 |website=justice.gc.ca}}</ref>
+
+The effects of any judicial decision on the common law, on the interpretation of statutes, or on any other application of law, can, in effect, be nullified by legislation, unless the particular decision of the court in question involves application of the [[Constitution of Canada|Canadian Constitution]], in which case, the decision (in most cases) is completely binding on the legislative branch.<ref>{{Cite web |last=Government of Canada |first=Department of Justice |date=1999-11-09 |title=Charterpedia - Section 52(1) of the Constitution Act, 1982 – The supremacy clause |url=https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/check/art521.html |access-date=2024-12-01 |website=justice.gc.ca}}</ref> This is especially true of decisions which touch upon the ''[[Canadian Charter of Rights and Freedoms]]'', which cannot be altered by the legislative branch unless the decision is overridden pursuant to [[section 33]] (the "[[notwithstanding clause]]").
+
+==History==
+{{Main|History of the Supreme Court of Canada}}
+[[File:Interior of the old Supreme Court of Canada.jpg|thumb|left|Courtroom inside the [[Second Supreme Court of Canada building]] in April 1890]]
+
+The authority to establish a national appeal court dated back to the creation of the [[Province of Canada]] in 1840, but the power remained unused.{{sfn|Bushnell|1992|p=4}} When the ''[[Constitution Act, 1867|British North America Act, 1867]]'',{{efn|In 1982, the ''British North America Act, 1867'' was renamed the ''Constitution Act, 1867''.}} was finalized, [[Section 101 of the Constitution Act, 1867|section 101]] provided [[Parliament of Canada|Parliament]] may create a general court of appeal.{{sfn|Snell|Vaughan|1985|p=4}}<ref group="ps">''Constitution Act, 1867'' (UK), 30 & 31 Vict, c 3, s 101, reprinted in RSC 1985, Appendix II, No 5.</ref> Prime Minister [[John A. Macdonald]] introduced two bills to establish the supreme court in 1869 and 1870, however, both were withdrawn.{{sfn|Bushnell|1992|pp=6–7, 11–12}}{{sfn|Snell|Vaughan|1985|pp=5–6}}<ref group="ps">Bill 80: ''[https://parl.canadiana.ca/view/oop.bills_HOC_0102_1/489 An Act to Establish a Supreme Court for the Dominion of Canada]'', 2nd Session, 1st Parliament, 1869.</ref><ref group="ps">Bill 48: ''[https://parl.canadiana.ca/view/oop.bills_HOC_0103_1/289 An Act to establish a Supreme Court for Canada]'', 3rd Session, 1st Parliament, 1870.</ref>
+
+During the [[1874 Canadian federal election|1874 federal election]], [[Alexander Mackenzie (politician)|Alexander Mackenzie's]] [[Liberal Party of Canada|Liberals]] included the creation of a central court of appeal as part of their campaign platform. [[Minister of Justice (Canada)|Minister of Justice]] [[Télésphore Fournier]] introduced ''The Supreme and Exchequer Court Act'', which passed on April 8, 1875, with bipartisan support. The Act simultaneously established both the Supreme Court and the [[Exchequer Court of Canada|Exchequer Court]].{{sfn|Snell|Vaughan|1985|pp=8–11}}<ref name="Hulmes1986">{{Cite journal |last=Hulmes |first=F. |date=1986 |title=The Supreme Court of Canada: History of the Institution |url= |journal=Canadian Journal of Political Science |volume=19 |issue=2 |jstor=3227510}}</ref><ref name="sceca1875"  group="ps">{{Cite canlaw|short title =The Supreme and Exchequer Court Act |abbr =S.C. |year =1875 |chapter =11 |link =https://www.canadiana.ca/view/oocihm.9_08051_4_1/270 |wikilink =Supreme Court Act |linkloc =Canadiana |type =}}</ref>
+
+However, prior to 1949, the Supreme Court did not constitute the [[court of last resort]] as litigants could appeal the Court's decisions to the [[Judicial Committee of the Privy Council]] in London. Some cases could bypass the Supreme Court and go directly to the Judicial Committee from the provincial courts of appeal.{{sfn|McCormick|2000|p=2}} The Supreme Court formally became the court of last resort for criminal appeals in 1933{{sfn|Snell|Vaughan|1985|p=185}}<ref name="SC1932-33_c.54" group="ps">{{Cite canlaw|short title =Criminal Code Amendment Act |abbr =S.C. |year =1932–33|chapter = 53 |section = 17 |link =https://archive.org/details/actsofparl193233v01cana/page/292 |wikilink = |linkloc =|type =}}</ref> and for all other appeals in 1949.{{sfn|Snell|Vaughan|1985|p=190}}<ref name="SC1949_c.37" group="ps">{{Cite canlaw|short title =An Act to Amend the Supreme Court Act |abbr =S.C. |year =1949|chapter = 37|section = |link =https://archive.org/details/actsofparl1949v01cana_0/page/247 |wikilink = |linkloc =|type =}}</ref> Cases that were begun prior to those dates remained appealable to the Judicial Committee, and the last case on appeal from the Supreme Court was not decided until 1959.{{sfn|McCormick|2000|p=11}}<ref group="ps">{{cite BAILII|litigants=Ponoka-Calmar Oils Ltd. and another v Earl F. Wakefield Co. And others|link= |court=UKPC|year=1959|num=20|date=7 October 1959|parallelcite = [1960] AC 18, {{cite CanLII |court=JCPC |year=1959 |num=427 |format=canlii}} |courtname=[[Judicial Committee of the Privy Council|P.C.]]|juris=Canada|format = 1}}</ref>
+
+The increase in the importance of the Supreme Court was mirrored by the numbers of its members. When the Court was established in 1875, it operated with a [[Judicial panel|panel]] of six judges, with a [[quorum]] of four. This meant if there was an equal division (3–3), the appeal would be dismissed.{{sfn|Bushnell|1992|pp=76–77}}{{sfn|Snell|Vaughan|1985|p=67}} In 1927, Parliament amended the ''Supreme Court Act'' to add a seventh position on the Court and to establish a [[mandatory retirement age]] of 75.{{sfn|Snell|Vaughan|1985|p=125}}<ref name="sceca1927" group="ps">{{Cite canlaw|short title =An Act to amend the Supreme Court Act |abbr =S.C. |year =1927 |chapter =38 |link =https://archive.org/details/actsofparl192627v01cana/page/177 |wikilink =Supreme Court Act |linkloc =Archive.org |type =}}</ref> In 1949, the bench reached its current composition of nine justices.{{sfn|Bushnell|1992|pp=275–276}}
+
+Prior to 1949, most of the appointees to the Supreme Court owed their position to political [[patronage]].<ref name="McCormick_2005">{{Cite journal |last=McCormick |first=Peter |date=2005 |title=Selecting the Supremes: The Appointment of Judges to the Supreme Court of Canada |url=https://journals.librarypublishing.arizona.edu/appellate/article/2562/galley/2685/download/ |journal=The Journal of Appellate Practice and Process |volume=7 |issue=1 |pages=42}}</ref> Each judge had strong ties to the party in power at the time of their appointment. In 1973, the appointment of a constitutional law professor [[Bora Laskin]] as chief justice represented a major turning point for the court.<ref>{{Cite web |title=Bora Laskin |url=https://thecanadianencyclopedia.ca/en/article/bora-laskin |access-date=2025-09-11 |website=The Canadian Encyclopedia}}</ref> Laskin's [[Federalism in Canada|federalist]] and liberal views were shared by [[Prime Minister of Canada|Prime Minister]] [[Pierre Trudeau]], who recommended Laskin's appointment to the Supreme Court, but from that appointment onward appointees increasingly either came from academic backgrounds or were well-respected practitioners with several years' experience in appellate courts.<ref name="McCormick_2005" />
+
+The ''[[Constitution Act, 1982]]'', greatly expanded the role of the Supreme Court in Canadian society by the addition of the ''Canadian Charter of Rights and Freedoms'', which greatly broadened the scope of judicial review. The evolution from the court under Chief Justice [[Brian Dickson]] (1984–1990) through to that of [[Antonio Lamer]] (1990–2000) witnessed a continuing vigour in the protection of civil liberties. Lamer's criminal law background proved an influence on the number of criminal cases heard by the Court during his time as chief justice. Nonetheless, the Lamer court was more conservative with ''Charter'' rights, with only about a 1% success rate for ''Charter'' claimants.<ref>{{Cite book |last1=Hogg |first1=Peter W. |title=Constitutional Law of Canada |last2=Wright |first2=Wade K. |publisher=Thomson Reuters |year=2023 |edition=5th}}</ref>
+
+Lamer was succeeded as the chief justice by [[Beverley McLachlin]] in January 2000. She was the first woman to hold that position.<ref>{{cite web |title=The Right Honourable Beverley McLachlin, P.C., C.C. |date=January 2001 |url=https://www.scc-csc.ca/judges-juges/bio-eng.aspx?id=beverley-mclachlin |publisher=Supreme Court of Canada |location=Ottawa, Ontario |access-date=18 November 2018 |archive-date=22 July 2018 |archive-url=https://web.archive.org/web/20180722214153/https://scc-csc.ca/judges-juges/bio-eng.aspx?id=beverley-mclachlin |url-status=live }}</ref> McLachlin's appointment resulted in a more centrist and unified court. Dissenting and concurring reasons were fewer than during the Dickson and Lamer courts. With the 2005 appointments of puisne justices [[Louise Charron]] and [[Rosalie Abella]], the Supreme Court became the world's most gender-balanced national high court with four of its nine members being female.<ref>{{cite news |title=New judges fill gaps in spectrum |url=https://www.theglobeandmail.com/news/national/new-judges-fill-gaps-in-spectrum/article25680054/ |work=[[The Globe and Mail]] |date=5 October 2004 |access-date=6 May 2016 |archive-date=29 June 2016 |archive-url=https://web.archive.org/web/20160629112500/http://www.theglobeandmail.com/news/national/new-judges-fill-gaps-in-spectrum/article25680054/ |url-status=live }}</ref><ref>{{cite news |title=Two women named to Canada's supreme court |url=http://www.upi.com/Top_News/2004/10/04/Two-women-named-to-Canadas-supreme-court/30531096911205/" |work=UPI |date=4 October 2004 |access-date=6 May 2016}}</ref> Justice [[Marie Deschamps]]'s retirement on 7 August 2012 caused the number to fall to three;<ref name=deschamps>{{cite news |title=Supreme Court loses third veteran judge in a year with Justice Marie Deschamps' departure |url=https://www.thestar.com/news/canada/2012/05/18/supreme_court_loses_third_veteran_judge_in_a_year_with_justice_marie_deschamps_departure.html |work=[[Toronto Star]] |date=18 May 2012 |access-date=27 May 2014 |archive-date=23 June 2012 |archive-url=https://web.archive.org/web/20120623135400/http://www.thestar.com/news/canada/article/1180564--supreme-court-loses-third-veteran-judge-in-a-year-with-justice-marie-deschamps-departure |url-status=live }}</ref> however, the appointment of [[Suzanne Côté]] on 1 December 2014 restored the number to four. The appointment of [[Mary Moreau|Mary T. Moreau]] on 6 November 2023 created the first female-majority in the history of the Court.<ref>{{cite web| title=The Honourable Mary T. Moreau| date= November 6, 2023| url=https://scc-csc.lexum.com/scc-csc/news/en/item/7807/index.do| publisher=Supreme Court of Canada| location=Ottawa, Ontario| access-date=November 10, 2023}}</ref><ref>{{cite web|title=Justice Mary Moreau officially welcomed as the Supreme Court's newest member|date=February 19, 2024|access-date=April 25, 2025|url=https://www.cbc.ca/news/politics/mary-moreau-joins-supreme-court-1.7119387|publisher=[[CBC News]]}}</ref>  After serving on the court for {{ayd|1989|3|30|2017|12|14}} ({{ayd|2000|1|7|2017|12|14}} as chief justice), McLachlin retired in December 2017. Her successor as the chief justice is [[Richard Wagner (judge)|Richard Wagner]].
+
+Along with the [[Federal Constitutional Court|German Federal Constitutional Court]] and the [[European Court of Human Rights]], the Supreme Court of Canada is among the most frequently cited courts in the world.<ref name="Hirschl1">{{citation|author1-first=Ran|author1-last=Hirschl|chapter=The View from the Bench: Where the Comparative Judicial Imagination Travels|title=Comparative Matters: The Renaissance of Comparative Constitutional Law|publication-place=Oxford|publisher=Oxford University Press|date=August 2014|isbn=978-0-19-871451-4|chapter-url=https://academic.oup.com/book/8033/chapter-abstract/153409435|doi=10.1093/acprof:oso/9780198714514.003.0002|pages=20–76|access-date=2022-09-06|language=en|quote=Accordingly, the Supreme Court of Canada, the German Federal Constitutional Court, and the European Court of Human Rights have emerged as three of the most frequently cited courts in the world.}}</ref>{{rp|pages=21, 27–28}}
+
+==Canadian judiciary==
+{{Unreferenced section|date=May 2021}}
+The structure of the [[Canadian court system]] is pyramidal, a broad base being formed by the various provincial and territorial courts whose judges are appointed by the provincial or territorial governments.<ref name=":2">{{Cite web |last=Government of Canada |first=Department of Justice |date=2016-09-07 |title=The judicial structure - About Canada's System of Justice |url=https://www.justice.gc.ca/eng/csj-sjc/just/07.html |access-date=2025-10-08 |website=justice.gc.ca}}</ref> At the next level are the provincial and territorial superior trial courts, where judges are appointed by the federal government.<ref name=":0" /> Judgments from the superior courts may be appealed to a still higher level, the provincial or territorial superior courts of appeal.
+
+Several federal courts also exist: the [[Tax Court of Canada|Tax Court]], the [[Federal Court (Canada)|Federal Court]], the [[Federal Court of Appeal (Canada)|Federal Court of Appeal]], and the [[Court Martial Appeal Court of Canada|Court Martial Appeal Court]]. Unlike the provincial superior courts, which exercise inherent or general [[jurisdiction]], the jurisdiction of federal courts and provincially appointed provincial courts are limited by statute.<ref name="Hulmes1986" /> In all, there are over 1,000 federally appointed judges at various levels across Canada. {{Citation needed|date=October 2025}}
+
+===Appellate process===
+The Supreme Court rests at the apex of the judicial pyramid. This institution hears appeals from the provincial courts of last resort, usually the provincial or territorial courts of appeal, and the Federal Court of Appeal.<ref name=":2" /> In some matters appeals come straight from the trial courts, as in the case of [[publication ban]]s and other orders that are otherwise not appealable.<ref>{{Cite web |title=Supreme Court of Canada {{!}} Applying for leave to appeal |url=https://www.scc-csc.ca/parties/self-rep-non-rep/applying-demande/ |access-date=2025-10-08 |website=scc-csc.ca}}</ref>
+
+In most cases, permission to appeal must first be obtained from the court.<ref>{{Cite web |title=Supreme Court of Canada {{!}} Applying for leave to appeal |url=https://www.scc-csc.ca/parties/self-rep-non-rep/applying-demande/ |access-date=2026-08-08 |website=scc-csc.ca}}</ref> Motions for [[discretionary review|leave to appeal]] to the court are generally heard by a panel of three of its judges and a simple majority is determinative. By convention, this panel never explains why it grants or refuses leave in any particular case, but the court typically hears cases of national importance or where the case allows it to settle an important issue of law. Leave is rarely granted, meaning that for most litigants, provincial courts of appeal are courts of last resort. But leave to appeal is not required for some cases, primarily indictable criminal cases in which at least one appellate judge (on the relevant provincial court of appeal) dissented on a point of law, and appeals from provincial [[reference case]]s.
+
+A final source of cases is the power of the federal government to submit reference cases. In such cases, the Supreme Court is required to give an opinion on questions referred to it by the Governor in Council (the [[Cabinet of Canada|Cabinet]]). However, in many cases, including the most recent [[Re Same-Sex Marriage|same-sex marriage reference]], the Supreme Court has declined to answer a question from the Cabinet. In that case, the court said it would not decide if [[same-sex marriage]]s were required by the ''Charter of Rights and Freedoms'', because the government had announced it would change the law regardless of its opinion, and subsequently did.
+
+===Constitutional interpretation===
+[[File:Supreme Court Judges. Ottawa, Ontario - LAC 4301941.jpg|thumb|The justices of the Supreme Court of Canada in 1961]]
+The Supreme Court thus performs a unique function. It can be asked by the Governor-in-Council to hear references considering important questions of law. Such referrals may concern the constitutionality or interpretation of federal or provincial legislation, or the [[Provinces and territories of Canada|division of powers]] between federal and provincial spheres of government. Any point of law may be referred in this manner. However, the Court is not often called upon to hear references. References have been used to re-examine criminal convictions that have concerned the country as in the cases of [[David Milgaard]] and [[Steven Truscott]].
+
+The Supreme Court has the ultimate power of [[judicial review]] over Canadian federal and provincial laws' constitutional validity. If a federal or provincial law has been held contrary to the division of power provisions of one of the various constitution acts, the legislature or parliament must either live with the result, amend the law so that it complies, or obtain an amendment to the constitution. If a law is declared contrary to certain sections of the ''Charter of Rights and Freedoms'', Parliament or the provincial legislatures may make that particular law temporarily valid again against by using the "override power" of the [[Section Thirty-three of the Canadian Charter of Rights and Freedoms|notwithstanding clause]]. In one case, the [[Quebec National Assembly]] invoked this power to override a Supreme Court decision (''[[Ford v Quebec (AG)]]'') that held that one of Quebec's language laws banning the display of English commercial signs was inconsistent with the ''Charter''. Saskatchewan has also used it to uphold its labour laws. This override power can be exercised for five years, after which time the override must be renewed or the decision comes into force.
+
+In some cases, the court may stay the effect of its judgments so that unconstitutional laws continue in force for a period of time. Usually, this is done to give Parliament or a legislature sufficient time to enact a new replacement scheme of legislation. For example, in ''[[Reference Re Manitoba Language Rights]]'', the court struck down Manitoba's laws because they were not enacted in the French language, as required by the Constitution. However, the Court stayed its judgment for five years to give Manitoba time to re-enact all its legislation in French. It turned out five years was insufficient so the court was asked, and agreed, to give more time.
+
+Constitutional questions may, of course, also be raised in the normal case of appeals involving individual litigants, governments, government agencies or [[Crown corporation]]s. In such cases the federal and provincial governments must be notified of any constitutional questions and may [[intervention (law)|intervene]] to submit a [[brief (law)|brief]] and attend [[oral argument]] at the court. Usually the other governments are given the right to argue their case in the court, although on rare occasions this has been curtailed and prevented by order of one of the court's judges.
+
+==Sessions==
+{{Main|Procedures of the Supreme Court of Canada}}
+The Supreme Court sits in three sessions in each calendar year. The first session begins on the fourth Tuesday in January, the second session on the fourth Tuesday in April, and the third session on the first Tuesday in October. The Court determines how long each session will be. Hearings only take place in [[Ottawa]],<ref>{{Cite web |title=Guide to the Supreme Court of Canada |url=https://www.scc-csc.ca/about-apropos/guide-eng.aspx |access-date=2025-09-11 |website=Supreme Court of Canada}}</ref> although litigants can present oral arguments from remote locations by means of a video-conference system. Hearings are open to the public. Most hearings are taped for delayed telecast in both of Canada's official languages. When in session, the court sits Monday to Friday, hearing two appeals a day. A quorum consists of five members for appeals, but a panel of nine justices hears most cases.<ref name="SCA_s.17" group="ps">{{Cite canlaw|short title =Supreme Court Act |abbr =R.S.C. |year =1985|chapter = S-26 |section = [https://canlii.ca/t/7vlk#sec25 25] |link =https://canlii.ca/t/7vlk |wikilink =Supreme Court Act |linkloc =CanLII |type =}}</ref>
+[[File:The Nine.jpg|thumb|Courtroom seats used by the justices of the Supreme Court of Canada]]
+On the bench, the [[chief justice of Canada]] or, in his or her absence, the senior [[puisne]] justice, presides from the center chair with the other justices seated to his or her right and left by order of seniority of appointment. At sittings, the justices usually appear in black silk robes but they wear their ceremonial robes of bright scarlet trimmed with Canadian white mink in court on special occasions and in the Senate at the opening of each new session of Parliament.{{citation needed|date=May 2021}}
+
+Counsel appearing before the court may use either English or French. The judges can also use either English or French. There is simultaneous translation available to the judges, counsel and to members of the public who are in the audience, or watching by livestream.
+
+The decision of the court is sometimes rendered orally at the conclusion of the hearing. In these cases, the court may simply refer to the decision of the court below to explain its own reasons. In other cases, the court may announce its decision at the conclusion of the hearing, with reasons to follow.<ref name="1988CanLII126" group="ps">{{cite CanLII|litigants=R v Beare; R v Higgins |link= |year=1988 |court=SCC |num=126|format=CanLII|pinpoint=para 19 |parallelcite=[1988] 2 SCR 387 |date=|courtname=|juris=}}</ref><ref name="1998CanLII762" group="ps">{{cite CanLII|litigants=Consortium Developments (Clearwater) Ltd. v Sarnia (City) |link= |year=1998 |court=SCC |num=762 |format=CanLII|pinpoint=para 1 |parallelcite=[1998] 3 SCR 3 |date=|courtname=|juris=}}</ref><ref name="2005SCC13_p.1" group="ps">{{cite CanLII|litigants=Rothmans, Benson & Hedges Inc. v Saskatchewan |link= |year=2005 |court=SCC |num=13 |format= |pinpoint=para 1 |parallelcite=[2005] 1 SCR 188 |date=|courtname=|juris=}}</ref> As well, in some cases, the court may not call on counsel for the respondent, if it has not been convinced by the arguments of counsel for the appellant.<ref group="ps">{{cite CanLII|litigants=Whitbread v Walley |link= |year=1990 |court=SCC |num=33 |format=CanLII|pinpoint=para 2 |parallelcite=[1990] 3 SCR 1273 |date=|courtname=|juris=}}</ref> In very rare cases, the court may not call on counsel for the appellant and instead calls directly on counsel for the respondent.<ref name="2005SCC13" group="ps">{{cite CanLII|litigants=Rothmans, Benson & Hedges Inc. v Saskatchewan |link= |year=2005 |court=SCC |num=13 |format= |pinpoint= |parallelcite=[2005] 1 SCR 188 |date=|courtname=|juris=}}</ref> However, in most cases, the court hears from all counsel and then reserves judgment to enable the justices to write considered reasons. Decisions of the court need not be unanimous{{snd}}a majority may decide, with dissenting reasons given by the minority. Justices may write separate or joint reasons for any case.
+
+==Judgments==
+===Number of judgments per year===
+The number of judgments issued annually by the Supreme Court has declined over the past 65 years.  In 1970, the starting point for the Supreme Court's online publication of its decisions, the court under Chief Justice [[Gérald Fauteux|Fauteux]] issued 102 decisions.<ref>[https://decisions.scc-csc.ca/scc-csc/scc-csc/en/1970/nav_date.do?page=5 Supreme Court Judgments, 1970.]</ref> In 1974, the first full year under Chief Justice [[Bora Laskin|Laskin]], the court issued 114 judgments.<ref>[https://decisions.scc-csc.ca/scc-csc/scc-csc/en/1974/nav_date.do Supreme Court Judgments, 1974.]</ref> In 1985, the first full year under Chief Justice [[Brian Dickson|Dickson]], the number was 84,<ref>[https://decisions.scc-csc.ca/scc-csc/scc-csc/en/1984/nav_date.do Supreme Court Judgments, 1984.]</ref> while in 1991, the first full year under Chief Justice [[Antonio Lamer|Lamer]], the number was 109.<ref>[https://decisions.scc-csc.ca/scc-csc/scc-csc/en/1991/nav_date.do Supreme Court Judgments, 1991.]</ref> In 2000, Chief Justice [[Beverley McLachlin|McLachlin]]'s first year, the number was 69.<ref>[https://decisions.scc-csc.ca/scc-csc/scc-csc/en/2000/nav_date.do Supreme Court Judgments, 2000.]</ref>  Under Chief Justice [[Richard Wagner (judge)|Wagner]], the number has declined further, with the lowest number of judgments being 34 in 2024.<ref>[https://decisions.scc-csc.ca/scc-csc/scc-csc/en/2023/nav_date.do Supreme Court Judgments, 2023.]</ref>
+
+===Judgments issued, 2006 to 2026===
+{{Table alignment}}
+{|class="wikitable defaultcenter col3left
+|+ Number of Supreme Court judgments
+|-
+! Year !! Judgments per Year, 2006 to 2026 !! Chief Justice
+|-
+| 2026 (in progress) || 23 || [[Richard Wagner (judge)|Wagner]]
+|-
+| 2025 || 44 || Wagner
+|-
+| 2024 || 43 || Wagner
+|-
+| 2023 || 34 || Wagner
+|-
+| 2022 || 54 || Wagner
+|-
+| 2021 || 54 || Wagner
+|-
+| 2020 || 45 || Wagner
+|-
+| 2019 || 67 || Wagner
+|-
+| 2018 || 59 || Wagner
+|-
+| 2017 || 64 || [[Beverley McLachlin|McLachlin]]
+|-
+| 2016 || 56 || McLachlin
+|-
+| 2015 || 66 || McLachlin
+|-
+| 2014 || 77 || McLachlin
+|-
+| 2013 || 73 || McLachlin
+|-
+| 2012 || 75 || McLachlin
+|-
+| 2011 || 66 || McLachlin
+|-
+| 2010 || 67 || McLachlin
+|-
+| 2009 || 62 || McLachlin
+|-
+| 2008 || 72 || McLachlin
+|-
+| 2007 || 54 || McLachlin
+|-
+| 2006 || 59 || McLachlin
+|-
+! colspan="3"|Source:  [https://decisions.scc-csc.ca/scc-csc/scc-csc/en/nav_date.do Supreme Court Judgments, 2006 to {{CURRENTYEAR}}]
+|}
+
+===Language of the judgments===
+Since 1970 and the introduction of the ''[[Official Languages Act (Canada)|Official Languages Act]]'', all judgments of the Court are fully bilingual, released in both official languages.  Prior to 1970, the decisions were written in the language of the individual judges.  If only one judge wrote a decision, it would be in the language chosen by that judge.  If more than one judge wrote reasons in a case, there could be a mixture of English and French reasons.  In July 2025, the Court announced that it will begin the process of translating the 6,000 judgments which were rendered prior to 1970, so that eventually the entire set of the Court's reasons will be bilingual.  The translation will begin with a list of 25 judgments selected by an advisory panel as some of the most significant cases.<ref>{{cite web |url=https://ici.radio-canada.ca/nouvelle/2182322/traduction-jugements-cour-supreme-francais-anglais |title=La Cour suprême du Canada commence à traduire ses vieux jugements unilingues |work=Radio-Canada|date=29 July 2025 |access-date=30 July 2025}}</ref>
+
+==Appointment of justices==
+{{Main|Judicial appointments in Canada}}
+
+Justices of the Supreme Court of Canada are appointed by the [[Governor General of Canada|governor general]] on the [[Advice (constitutional law)|advice]] of the prime minister.<ref>{{Cite web |last=Amelio |first=Julia |date=June 6, 2019 |title=Supreme Court Appointment Process and the Prime Minister of the Day - Centre for Constitutional Studies |url=https://www.constitutionalstudies.ca/2019/06/supreme-court-appointment-process-and-the-prime-minister-of-the-day/ |access-date=2023-04-07 |website=constitutionalstudies.ca |language=en-CA}}</ref>
+
+Eligibility requirements for appointment to the Court are provided under the ''[[Supreme Court Act]]'', which requires that appointees be judges of a superior court or members of the [[Bar association|bar]] for ten or more years. Members of the bar or superior judiciary of Quebec, by law, must hold three of the nine positions on the Supreme Court of Canada.<ref name="SCA_s.6" group="ps">{{Cite canlaw|short title =Supreme Court Act |abbr =R.S.C. |year =1985|chapter = S-26 |section = [https://canlii.ca/t/7vlk#sec6 6] |link =https://canlii.ca/t/7vlk |wikilink =Supreme Court Act |linkloc =CanLII |type =}}</ref> This is justified on the basis that Quebec uses [[Civil law (legal system)|civil law]], rather than [[common law]], as in the rest of the country. As explained in the reasons in ''[[Reference Re Supreme Court Act, ss 5 and 6|Reference Re Supreme Court Act, ss. 5 and 6]]'', sitting judges of the Federal Court and Federal Court of Appeal cannot be appointed to any of Quebec's three seats. By convention, the remaining six positions are divided in the following manner: three from Ontario, two from the western provinces and one from the Atlantic provinces.<ref>{{Cite book |last1=Crandall |first1=Erin |url=https://www.researchgate.net/publication/337618171 |title=Canada: The State of the Federation 2017 |last2=Schertzer |first2=Robert |publisher=McGill-Queen's Press |year=2019 |isbn=9781553394600 |editor-last=Goodyear-Grant |editor-first=Elizabeth |pages=111–132 |editor-last2=Hanniman |editor-first2=Kyle|chapter=Competing Diversities: Representing "Canada" on the Supreme Court|access-date=October 13, 2025}}</ref> Parliament and the provincial governments have no constitutional role in such appointments, sometimes a point of contention.<ref>{{Cite web |title=The Legislative Process - Stages in the Legislative Process |url=https://www.ourcommons.ca/marleaumontpetit/DocumentViewer.aspx?Language=E&Sec=Ch16&Seq=6 |access-date=2023-06-08 |website=ourcommons.ca}}</ref>
+
+In 2006, an interview phase by an {{Lang|la|ad hoc}} committee of members of Parliament was added. Justice [[Marshall Rothstein]] became the first justice to undergo the new process. The prime minister still has the final say on who becomes the candidate that is recommended to the governor general for appointment to the court. The government proposed an interview phase again in 2008, but a general election and minority parliament intervened with delays such that the Prime Minister recommended [[Thomas Cromwell (Canadian jurist)|Justice Cromwell]] after consulting the [[Leader of the Official Opposition (Canada)|leader of the Opposition]].<ref>{{Cite web |title=The Governor General's Decision to Prorogue Parliament: A Dangerous Precedent |url=https://www.sfu.ca/~aheard/elections/prorogation-2008.html |access-date=2023-06-08 |website=sfu.ca}}</ref>
+
+As of August 2016, Prime Minister [[Justin Trudeau]] opened the process of application to change from the above-noted appointment process. Under the revised process, "[any] Canadian lawyer or judge who fits specified criteria can apply for a seat on the Supreme Court, through the Office of the Commissioner for Federal Judicial Affairs."<ref>{{cite news |url=https://www.theglobeandmail.com/opinion/why-canada-has-a-new-way-to-choose-supreme-court-judges/article31220275/ |title=Why Canada has a new way to choose Supreme Court judges |date=2 August 2016 |access-date=24 April 2017 |author=Justin Trudeau |author-link=Justin Trudeau |website=[[The Globe and Mail]] |archive-date=18 May 2017 |archive-url=https://web.archive.org/web/20170518100914/http://www.theglobeandmail.com/opinion/why-canada-has-a-new-way-to-choose-supreme-court-judges/article31220275/ |url-status=live }}</ref><ref>{{cite press release |url=http://pm.gc.ca/eng/news/2016/08/02/new-process-judicial-appointments-supreme-court-canada |title=New process for judicial appointments to the Supreme Court of Canada |date=2 August 2016 |publisher=[[Government of Canada]] |access-date=14 July 2017 |archive-date=13 July 2017 |archive-url=https://web.archive.org/web/20170713224832/http://pm.gc.ca/eng/news/2016/08/02/new-process-judicial-appointments-supreme-court-canada |url-status=live }}</ref> Functional [[Official bilingualism in Canada|bilingualism]] is now a requirement.<ref>{{cite web |url=https://pm.gc.ca/en/news/news-releases/2019/05/14/prime-minister-announces-advisory-board-select-next-supreme-court |title=Prime Minister announces advisory board to select the next Supreme Court justice |date=15 May 2019 |website=Prime Minister of Canada |access-date=22 October 2019 |archive-date=22 October 2019 |archive-url=https://web.archive.org/web/20191022200739/https://pm.gc.ca/en/news/news-releases/2019/05/14/prime-minister-announces-advisory-board-select-next-supreme-court |url-status=live }}</ref><ref>{{cite web |url=https://www.lawtimesnews.com/archive/the-hill-the-wrangle-over-bilingualism/262237 |title=The Hill: The wrangle over bilingualism |website=lawtimesnews.com |access-date=22 October 2019 |archive-date=22 October 2019 |archive-url=https://web.archive.org/web/20191022200538/https://www.lawtimesnews.com/archive/the-hill-the-wrangle-over-bilingualism/262237 |url-status=live }}</ref><ref>{{cite web |url=https://www.canadianlawyermag.com/news/general/applicants-for-scc-vacancy-must-be-bilingual-westerners-or-northerners/274397 |title=Applicants for SCC vacancy must be bilingual Westerners or Northerners |website=canadianlawyermag.com |access-date=22 October 2019 |archive-date=22 October 2019 |archive-url=https://web.archive.org/web/20191022200542/https://www.canadianlawyermag.com/news/general/applicants-for-scc-vacancy-must-be-bilingual-westerners-or-northerners/274397 |url-status=live }}</ref>
+
+Justices were originally allowed to remain on the bench for [[life tenure|life]], but in 1927 a [[mandatory retirement]] age of 75 was instituted. They may choose to retire earlier, but can only be removed involuntarily before that age by a vote of the [[Senate of Canada|Senate]] and [[House of Commons of Canada|House of Commons]].<ref name="sceca1927_s.2" group="ps">{{Cite canlaw|short title =An Act to amend the Supreme Court Act |abbr =S.C. |year =1927 |chapter =38 |section=2 |link =https://archive.org/details/actsofparl192627v01cana/page/177 |wikilink =Supreme Court Act |linkloc =Archive.org |type =}}</ref><ref name="SCA_s.9" group="ps">{{Cite canlaw|short title =Supreme Court Act |abbr =R.S.C. |year =1985|chapter = S-26 |section = [https://canlii.ca/t/7vlk#sec9 9] |link =https://canlii.ca/t/7vlk |wikilink =Supreme Court Act |linkloc =CanLII |type =}}</ref>
+
+When a judge leaves the Court, either at age 75 or by resigning earlier, the ''Supreme Court Act'' provides that they can participate in cases that they heard before leaving, for up to six months after the date of their retirement or resignation.<ref name=SCCPractice>Ragan, Estabrooks, Ouellet, and Desjardins, ''Supreme Court of Canada Practice 2025'' (Thomson Reuters, 2025), p. 189.</ref><ref>''Supreme Court Act'', RSC 1985, c. S-26, [https://laws-lois.justice.gc.ca/eng/acts/S-26/page-1.html#h-443296 s. 27(2)].</ref>  Some judges use this period to finish up work in progress on reserved judgments, while other judges simply leave and do not participate in reserved judgments.  For example, Justices [[John C. Major|Major]] and [[Louise Arbour|Arbour]] did not participate in judgments on reserve;  Justices [[L'Heureux-Dubé]] and [[Charles Gonthier|Gonthier]] participated in most, but not all of the reserved judgments;  and Justice [[Frank Iacobucci|Iacobucci]]  worked on some judgments, but not for the full six month period.<ref name =SCCPractice/>
+
+A puisne justice of the Supreme Court is [[Judge#Canada|referred to]] as ''The [[Honourable]] Mr/Madam Justice'' and the chief justice as ''[[Right Honourable]]''. At one time, judges were addressed as "My Lord" or "My Lady" during sessions of the court, but it has since discouraged this style of address and has directed lawyers to use the simpler "Justice", "Mr Justice" or "Madam Justice".<ref>{{cite web |url=https://www.scc-csc.ca/contact/faq/qa-qr-eng.aspx |title=Supreme Court of Canada - Frequently Asked Questions (FAQ) |first=Supreme Court of |last=Canada |date=1 January 2001 |website=scc-csc.ca |access-date=6 February 2020 |archive-date=31 January 2020 |archive-url=https://web.archive.org/web/20200131233947/https://scc-csc.ca/contact/faq/qa-qr-eng.aspx |url-status=live }}</ref> The designation "My Lord/My Lady" continues in many provincial superior courts and in the Federal Court of Canada and Federal Court of Appeal, where it is optional.
+
+Every four years, the [[Judicial Compensation and Benefits Commission]] makes recommendations to the federal government about the salaries for federally appointed judges, including the judges of the Supreme Court. That recommendation is not legally binding on the federal government, but the federal government is generally required to comply with the recommendation unless there is a very good reason to not do so.<ref group="ps">{{cite CanLII|litigants=Provincial Court Judges' Assn. of New Brunswick v New Brunswick (Minister of Justice); Ontario Judges' Assn. v Ontario (Management Board); Bodner v Alberta; Conférence des juges du Québec v Quebec (Attorney General); Minc v Quebec (Attorney General) |link= |year=2005 |court=SCC |num=44 |format=|pinpoint=para 21 |parallelcite=[2005] 2 SCR 286 |date=|courtname=auto|juris=}}</ref> The chief justice receives $370,300 while the puisne justices receive $342,800 annually.<ref name="JudgesAct_s.9" group="ps">{{Cite canlaw|short title =Judges Act |abbr =R.S.C. |year =1985|chapter = J-1 |section = [https://canlii.ca/t/7vhq#sec9 9] |link =https://canlii.ca/t/7vhq |wikilink = |linkloc =CanLII |type =}}</ref>
+
+==Current members==
+{{Further|List of justices of the Supreme Court of Canada}}
+[[File:The Honourable Richard Wagner.jpg|thumb|245x245px|[[Richard Wagner (judge)|Richard Wagner]], the current chief justice (since 2017)]]
+The current chief justice of Canada is Richard Wagner. He was appointed to the court as a puisne judge on 5 October 2012 and appointed chief justice, 18 December 2017.<ref name=RWSCC>{{cite web |title=The Right Honourable Richard Wagner, P.C., Chief Justice of Canada |date=January 2001 |url=https://www.scc-csc.ca/judges-juges/bio-eng.aspx?id=richard-wagner |publisher=Supreme Court of Canada |location=Ottawa, Ontario |access-date=13 November 2018 |archive-date=16 November 2018 |archive-url=https://web.archive.org/web/20181116085419/https://www.scc-csc.ca/judges-juges/bio-eng.aspx?id=richard-wagner |url-status=live }}</ref> The eight current justices of the Supreme Court are:
+{| class="wikitable sortable"
+|-
+! colspan=4 | Justice
+! rowspan=2 | Nominated by
+! rowspan=2 | Date appointed
+! rowspan=2 | Retirement date
+! rowspan=2 | Law school
+! rowspan=2 class="unsortable" | Prior office
+|-
+! <abbr title="Position in the Court's order of precedence">OP</abbr>
+! Name<br />(Province)
+! Birthdate
+! Birthplace
+|- style="background:#fff;"
+| 1st
+| {{sortname|Richard|Wagner|Richard Wagner (judge)}}<ref name=RWSCC/><br />([[Quebec]])
+| {{sort|19570402|2 April 1957}}<br />(age {{age|1957|4|2}})
+| Canada (Quebec)
+| nowrap | [[Stephen Harper|Harper]]<br />[[Justin Trudeau|J.&nbsp;Trudeau]]{{efn-ua|name=CJ|As chief justice}}
+| {{dts|format=dmy|2012|10|05}}<br />{{dts|format=dmy|2017|12|18}}{{efn-ua|name=CJ}}
+| {{dts|format=dmy|2032|4|02}}
+| [[University of Ottawa Faculty of Law|Faculté de droit, Université d'Ottawa]] ([[Bachelor of Civil Law#Canada (BCL / LLB / LLL)|LLL]])
+| [[Quebec Court of Appeal]]<br />[[Superior Court of Quebec]]
+|-
+| 2nd
+| {{sortname|Andromache|Karakatsanis}}<ref>{{cite web| title=The Honourable Andromache Karakatsanis| date=January 2001| url=https://www.scc-csc.ca/judges-juges/bio-eng.aspx?id=andromache-karakatsanis| publisher=Supreme Court of Canada| location=Ottawa, Ontario| access-date=13 November 2018| archive-date=24 November 2018| archive-url=https://web.archive.org/web/20181124230815/https://www.scc-csc.ca/judges-juges/bio-eng.aspx?id=andromache-karakatsanis| url-status=live}}</ref><br />([[Ontario]])
+| {{Sort|19551003|3 October 1955}}<br />(age {{age|1955|10|3}})
+| Canada (Ontario)
+| [[Stephen Harper|Harper]]
+| {{dts|format=dmy|2011|10|21}}
+| {{dts|format=dmy|2030|10|03}}
+| [[Osgoode Hall Law School]] ([[Bachelor of Laws|LLB]])
+| [[Court of Appeal for Ontario]]<br />[[Ontario Superior Court|Ontario Superior Court of Justice]]
+|-
+| 3rd
+| {{sortname|Suzanne|Côté|Suzanne Côté}}<ref>{{cite web| title=The Honourable Suzanne Côté| date=January 2001| url=https://www.scc-csc.ca/judges-juges/bio-eng.aspx?id=suzanne-cote| publisher=Supreme Court of Canada| location=Ottawa, Ontario| access-date=13 November 2018| archive-date=5 November 2018| archive-url=https://web.archive.org/web/20181105202635/https://www.scc-csc.ca/judges-juges/bio-eng.aspx?id=suzanne-cote| url-status=live}}</ref><br />([[Quebec]])
+| {{sort|19580921|21 September 1958}}<br />(age {{age|1958|09|21}})
+| Canada (Quebec)
+| [[Stephen Harper|Harper]]
+| {{dts|format=dmy|2014|12|01}}
+| {{dts|format=dmy|2033|9|21}}
+| {{Lang|fr|[[Université Laval Faculté de droit|Université Laval]]|italic=no}} ([[Bachelor of Laws|LLB]])
+| [[Partner lawyer|Partner]] at [[Osler, Hoskin & Harcourt]]
+|-
+| 4th
+| {{sortname|Malcolm|Rowe}}<ref>{{cite web| title=The Honourable Malcolm Rowe| date=January 2001| url=https://www.scc-csc.ca/judges-juges/bio-eng.aspx?id=malcolm-rowe| publisher=Supreme Court of Canada| location=Ottawa, Ontario| access-date=13 November 2018| archive-date=24 November 2018| archive-url=https://web.archive.org/web/20181124230815/https://www.scc-csc.ca/judges-juges/bio-eng.aspx?id=malcolm-rowe| url-status=live}}</ref><br />([[Newfoundland and Labrador]])
+| {{sort|19530627|27 June 1953}}<br />(age {{age|1953|06|27}})
+| Canada (Newfoundland and Labrador)
+| [[Justin Trudeau|J. Trudeau]]
+| {{dts|format=dmy|2016|10|28}}
+| 27 June 2028
+| [[Osgoode Hall Law School]] ([[Bachelor of Laws|LLB]])
+| [[Supreme Court of Newfoundland and Labrador (Court of Appeal)|Court of Appeal of Newfoundland and Labrador]]<br />[[Supreme Court of Newfoundland and Labrador]]
+|-
+| 5th
+| {{sortname|Nicholas|Kasirer}}<ref>{{cite web| title=The Honourable Nicholas Kasirer| date=January 2001| url=https://www.scc-csc.ca/judges-juges/bio-eng.aspx?id=nicholas-kasirer| publisher=Supreme Court of Canada| location=Ottawa, Ontario| access-date=16 September 2019| archive-date=24 April 2020| archive-url=https://web.archive.org/web/20200424125910/https://www.scc-csc.ca/judges-juges/bio-eng.aspx?id=nicholas-kasirer| url-status=live}}</ref><br />([[Quebec]])
+| {{sort|19600220|20 February 1960}}<br />(age {{age|1960|2|20}})
+| Canada (Quebec)
+| [[Justin Trudeau|J. Trudeau]]
+| {{dts|format=dmy|2019|09|16}}
+| {{dts|format=dmy|2035|2|20}}
+| [[McGill University Faculty of Law|McGill University]] ([[Bachelor of Laws|LLB]], [[Bachelor of Civil Law|BCL]])<br />[[University of Paris 1 Pantheon-Sorbonne]] ([[Master of Advanced Studies|DEA]])
+| [[Quebec Court of Appeal]]
+|-
+| 6th
+| {{sortname|Mahmud|Jamal}}<ref>{{cite web| title=The Honourable Mahmud Jamal| date=January 2001| url=https://scc-csc.ca/judges-juges/bio-eng.aspx?id=mahmud-jamal| publisher=Supreme Court of Canada| location=Ottawa, Ontario| access-date=16 September 2019| archive-date=1 July 2021| archive-url=https://web.archive.org/web/20210701134818/https://www.scc-csc.ca/judges-juges/bio-eng.aspx?id=mahmud-jamal| url-status=live}}</ref><br />([[Ontario]])
+| {{sort|19670720|20 July 1967}}<br />(age {{age|1967|7|20}})
+| Kenya ([[Nairobi]])
+| [[Justin Trudeau|J. Trudeau]]
+| {{dts|format=dmy|2021|07|01}}
+| {{dts|format=dmy|2042|7|20}}
+| [[McGill University Faculty of Law|McGill University]] ([[Bachelor of Laws|LLB]], [[Bachelor of Civil Law|BCL]])<br />[[Yale University]] ([[Master of Laws|LLM]])
+| [[Court of Appeal for Ontario]]
+|-
+| 7th
+| {{sortname|Michelle|O'Bonsawin}}<ref>{{cite web| title=The Honourable Michelle O'Bonsawin| date=January 2001| url=https://scc-csc.ca/judges-juges/bio-eng.aspx?id=michelle-obonsawin| publisher=Supreme Court of Canada| location=Ottawa, Ontario| access-date=16 September 2019| archive-date=1 September 2022| archive-url=https://web.archive.org/web/20220901191525/https://www.scc-csc.ca/judges-juges/bio-eng.aspx?id=michelle-obonsawin| url-status=live}}</ref><br />([[Ontario]])
+| {{sort|19740502|2 May 1974}}<br />(age {{age|1974|5|2}})
+| Canada (Ontario)
+| [[Justin Trudeau|J. Trudeau]]
+| {{dts|format=dmy|2022|09|01}}
+| {{dts|format=dmy|2049|5|2}}
+| [[University of Ottawa Faculty of Law|University of Ottawa]] ([[Bachelor of Laws|LLB]], [[Doctor of Philosophy|PhD]])<br />[[Osgoode Hall Law School]] ([[Master of Laws|LLM]])
+| [[Ontario Superior Court|Ontario Superior Court of Justice]]
+|-
+| 8th
+| {{sortname|Mary|Moreau}}<ref>{{cite web| title=The Honourable Mary T. Moreau| date= November 6, 2023| url=https://scc-csc.lexum.com/scc-csc/news/en/item/7807/index.do| publisher=Supreme Court of Canada| location=Ottawa, Ontario| access-date=November 6, 2023}}</ref><br />([[Alberta]])
+| 1955 or 1956 (age 67–68)
+| Canada (Alberta)
+| [[Justin Trudeau|J. Trudeau]]
+| {{dts|format=dmy|2023|11|06}}
+| 2030–2031
+| [[University of Alberta Faculty of Law|University of Alberta]] ([[Bachelor of Laws|LLB]])<br />[[Université de Sherbrooke]] (Civil Law certification)
+| [[Court of King's Bench of Alberta]]
+|-
+| 9th
+| {{sortname|Glenn|Joyal}}<ref>{{cite web| title=Prime Minister Carney announces the appointment of the Honourable Glenn D. Joyal to the Supreme Court of Canada
+| date= June 30, 2026| url=https://www.pm.gc.ca/en/news/news-releases/2026/06/30/prime-minister-carney-announces-appointment-honourable-glenn-d-joyal| location=Ottawa, Ontario| access-date=June 30, 2026}}</ref><br />([[Manitoba]])
+| 1959 or 1960 (age 66)
+| Canada (Manitoba)
+| [[Mark Carney|Carney]]
+| {{dts|format=dmy|2026|06|30}}
+| 2034–2035
+| [[McGill University Faculty of Law|McGill University]] ([[Bachelor of Laws|LLB]])
+| [[Court of King's Bench of Manitoba]]
+|}
+{{notelist-ua|30em}}
+
+===Length of tenure===
+The following graphical timeline depicts the length of each current justice's tenure on the Supreme Court (not their position in the court's order of precedence) as of {{FULLDATE|type=dmy}}.
+{{#tag:timeline|
+ImageSize = width:780 height:auto barincrement:20
+PlotArea = top:10 bottom:20 right:160 left:14
+AlignBars = late
+DateFormat = x.y
+Period = from:2011.00 till:{{#expr:{{#time:Y}}+{{#time:m}}/12}}
+TimeAxis = orientation:horizontal
+ScaleMajor = gridcolor:tan2 unit:year increment:2 start:2012
+ScaleMinor = gridcolor:tan1 unit:year increment:2 start:2011
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+ id:Martin value:rgb(0.792,0.573,0.557)
+ id:Harper value:rgb(1,0.882,0.325)
+ id:JTrudeau value:rgb(0.325,1,0.882)
+ id:ChiefJ value:rgb(0.96,0.81,0.04)
+ id:PuisneJ value:rgb(0.96,0.04,0.19)
+
+BarData =
+ barset:Justices
+
+PlotData=
+ width:6 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+ barset:Justices
+
+ from:2011.80 till:$now color:PuisneJ text:"[[Andromache Karakatsanis]]"
+ from:2017.95 till:$now color:ChiefJ text:"[[Richard Wagner (judge)|Richard Wagner]]"
+ from:2014.92 till:$now color:PuisneJ text:"[[Suzanne Côté]]"
+ from:2016.82 till:$now color:PuisneJ text:"[[Malcolm Rowe]]"
+ from:2017.96 till:$now color:PuisneJ text:"[[Sheilah Martin]]"<!--This row to be deleted. But retained temporarily because of timeline error, see Wikipedia:Village_pump_(technical)#Broken_timelines.-->
+ from:2019.66 till:$now color:PuisneJ text:"[[Nicholas Kasirer]]"
+ from:2021.50 till:$now color:PuisneJ text:"[[Mahmud Jamal]]"
+ from:2022.75 till:$now color:PuisneJ text:"[[Michelle O'Bonsawin]]"
+ from:2023.85 till:$now color:PuisneJ text:"[[Mary Moreau]]"
+ from:2026.50 till:$now color:PuisneJ text:"[[Glenn Joyal]]"
+
+
+LineData=
+ atpos:159 from:2012.76 till:2017.95 color:PuisneJ width:6 # Wagner's puisne appointment
+
+ #These are the colored bars of the Legend:
+ atpos:94 from:2011.75 till:2012.15 color:ChiefJ width:8
+ atpos:81 from:2011.75 till:2012.15 color:PuisneJ width:8
+
+TextData=
+ #This is the text of the Legend
+ pos:(80, 103)
+ text:"Chief Justice"
+ text:"Puisne Justices"
+}}
+
+Andromache Karakatsanis has had the longest tenure of any of the current members of the court, having been appointed in October 2011. Richard Wagner's cumulative tenure is {{ayd|2012|10|5}}—{{ayd|2012|10|5|2017|12|18}} as puisne justice, and {{ayd|2017|12|18}} as chief justice. Glenn Joyal has the briefest tenure, having been appointed {{ayd|2026|07|15}} ago. The length of tenure for the other justices are: Suzanne Côté, {{ayd|2014|12|1}}; Malcom Rowe, {{ayd|2016|10|28}}; Nicholas Kasirer, {{ayd|2019|09|16}}; Mahmud Jamal, {{ayd|2021|07|01}};  Michelle O'Bonsawin, {{ayd|2022|09|01}}; and Mary Moreau {{ayd|2023|11|06}}.
+
+==Rules of the court==
+The ''Rules of the Supreme Court of Canada'' are located on the Justice Laws Website,<ref>{{cite web |url=http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-156/FullText.html |website=Justice Laws Website |title=Rules of the Supreme Court of Canada (SOR/2002-156) |publisher=[[Department of Justice Canada]] |location=Ottawa |language=en |date=June 3, 2024 |orig-date=April 15, 2002}}</ref> as well as in the [[Canada Gazette]], as SOR/2002-216 (plus amendments), made pursuant to subsection 97(1) of the ''Supreme Court Act''. Fees and taxes are stipulated near the end.
+
+==Law clerks==
+Since 1967, the court has hired [[law clerk]]s to assist in legal research. Between 1967 and 1982, each puisne justice was assisted by one law clerk and the chief justice had two. From 1982, the number was increased to two law clerks for each justice.<ref>{{cite book |title=The Supreme Court of Canada / La Cour Suprême du Canada |location=Ottawa |publisher=Supreme Court of Canada |year=2005 |page=7}}</ref> Currently, each justice has up to three law clerks.<ref>{{cite web |title=Law Clerk Program |date=January 2001 |url=https://www.scc-csc.ca/empl/lc-aj-eng.aspx |publisher=Supreme Court of Canada |location=Ottawa, Ontario |access-date=12 May 2019 |archive-date=22 April 2019 |archive-url=https://web.archive.org/web/20190422213646/https://scc-csc.ca/empl/lc-aj-eng.aspx |url-status=live }}</ref>
+
+==Ceremonial robes==
+Justices previously wore ceremonial robes of bright scarlet wool trimmed with Canadian white mink in court on special occasions and in the Senate at the opening of each new session of Parliament. In October 2025, the new ceremonial robe for justices was unveiled. The fur-free ceremonial robes are made of black silk with red piping.<ref name="NP1">{{cite web |last1=Lewis |first1=Stewart |title=Supreme Court's ditching of 'Santa robes' sparks debate within legal profession |url=https://nationalpost.com/news/canada/supreme-courts-ditching-of-ceremonial-santa-robes-sparks-sartorial-debate-among-legal-profession |website=National Post |access-date=27 April 2026}}</ref><ref name="OC1">{{cite web |last1=Hollis |first1=Lauren |title=Supreme Court of Canada should ditch the fur on ceremonial robes: activists |url=https://ottawacitizen.com/news/politics/supreme-court-of-canada-should-ditch-the-fur-on-ceremonial-robes-activists |website=Ottawa Citizen |access-date=27 April 2026}}</ref>
+
+==Building==
+{{main|Supreme Court of Canada Building}}
+[[File:Supreme court of Canada in summer.jpg|thumb|Exterior of the Supreme Court of Canada building]]
+The Supreme Court of Canada Building ({{langx|fr|édifice de la Cour suprême du Canada}}) is located just west of [[Parliament Hill]], at 301 [[Wellington Street (Ottawa)|Wellington Street]]. It is situated on a bluff high above the [[Ottawa River]] in [[downtown Ottawa]] and is home to the Supreme Court of Canada.<ref name=SCCbldg>{{cite web |title=SCC Building |date=January 2001 |url=https://www.scc-csc.ca/court-cour/buil-edi-eng.aspx |publisher=Supreme Court of Canada |location=Ottawa, Ontario |access-date=18 November 2018 |archive-date=3 June 2022 |archive-url=https://web.archive.org/web/20220603161227/https://scc-csc.ca/court-cour/buil-edi-eng.aspx |url-status=live }}</ref> It also contains two courtrooms used by the Federal Court and the [[Federal Court of Appeal]].
+
+The building was designed by [[Ernest Cormier]] and is known for its [[Art Deco]] style<ref>{{cite web |url=http://archiseek.com/2009/1940-supreme-court-of-canada-ottawa-ontario/ |title=1940 – Supreme Court of Canada, Ottawa, Ontario |date=10 December 2009 |publisher=archiseek.com |access-date=27 May 2014 |archive-date=29 July 2014 |archive-url=https://web.archive.org/web/20140729140048/http://archiseek.com/2009/1940-supreme-court-of-canada-ottawa-ontario/ |url-status=live }}</ref>—including two candelabrum-style fluted metal lamp standards that flank the entrance and the marble walls and floors of the lobby<ref name=post/>—contrasting with the [[châteauesque]] roof. Construction began in 1939, with the cornerstone laid by [[Queen Elizabeth The Queen Mother|Queen Elizabeth]], consort of King [[George VI]] and later known as the Queen Mother. In her speech, she said, "perhaps it is not inappropriate that this task should be performed by a woman; for woman's position in a civilized society has depended upon the growth of law."<ref name=CHP>{{citation| url=https://www.historicplaces.ca/en/pages/28_royalty_royaute.aspx| title="At Home in Canada": Royalty at Canada's Historic Places| publisher=Canad's Historic Places| accessdate=30 April 2023}}</ref> The court began hearing cases in the new building by January 1946.
+
+In 2000, the edifice was named by the [[Royal Architectural Institute of Canada]] as one of the top 500 buildings produced in Canada during the last millennium.<ref name=cook>{{cite news |url=http://www.ty-a.ca/Citizen/top500.htm |title=Cultural consequence |last=Cook |first=Marcia |date=11 May 2000 |work=[[Ottawa Citizen]] |publisher=Canwest |access-date=11 October 2009 |url-status=dead |archive-url=https://web.archive.org/web/20100530090211/http://www.ty-a.ca/Citizen/top500.htm |archive-date=30 May 2010}}</ref> [[Canada Post]] issued a commemorative stamp on 9 June 2011, as part of the Architecture Art Déco series.<ref name=post>{{cite press release |title=Supreme Court of Canada, Ottawa |url=http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(architect.A790,C790.)+Or+(null.B742.)&l=50&d=STMP&p=1&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=29&f=G&Sect1=STMP |date=9 June 2011 |publisher=[[Canada Post]] |access-date=27 May 2014}}</ref>
+{{multiple image
+|total_width=260
+|align      =left
+|image1     =Justicia Ottawa.jpg
+|caption1   =Statue of [[Justitia]]
+|image2     =Veritas Ottawa.jpg
+|caption2   =Statue of [[Veritas]]
+|footer     =Two statues sculpted by [[Walter Seymour Allward|Walter Allward]] are located on the grounds of the Supreme Court building.
+}}
+
+Two flagstaffs have been erected in front of the building. A flag on one is flown daily, while the other is hoisted only on those days when the court is in session. Also located on the grounds are several statues, including one of Prime Minister [[Louis St. Laurent]], by [[Elek Imredy]] in 1976, and two—[[Veritas]] (Truth) and [[Justitia]] (Justice)—by Canadian sculptor [[Walter Seymour Allward|Walter S. Allward]]. Inside there are busts of several chief justices: [[John Robert Cartwright]] (1967–1970), Bora Laskin (1973–1983), Brian Dickson (1984–1990), and Antonio Lamer (1990–2000), all sculpted by Kenneth Phillips Jarvis, a retired Under Treasurer of the [[Law Society of Ontario|Law Society of Upper Canada]].<ref>{{cite web |url=http://www.attorneygeneral.jus.gov.on.ca/english/mundell_medal/kenneth_jarvis_memoriam.pdf |title=In Memoriam: Kenneth Jarvis 1927–2007 |access-date=26 February 2015 |url-status=dead |archive-url=https://web.archive.org/web/20140320173854/http://www.attorneygeneral.jus.gov.on.ca/english/mundell_medal/kenneth_jarvis_memoriam.pdf |archive-date=20 March 2014}}</ref>
+
+The court was previously housed in the [[Centre Block#Railway Committee Room and Reading Room|Railway Committee Room]] and a number of other committee rooms in the [[Centre Block]] on Parliament Hill.<ref>{{cite web |url=https://nationalpost.com/news/canada/liberals-take-their-leave-of-the-railway-room |title=Liberals take their leave of the Railway Room |author=Kathryn Blaze Carlson |date=11 May 2011 |work=National Post}}</ref> The court then sat in the [[Old Supreme Court (Canada)|Old Supreme Court]] building on Bank Street, between 1889 and 1945. That structure was demolished in 1955 and the site used as parking for Parliament Hill.
+
+[[File:Supreme Court of Canada Signage on West Memorial Building 04.jpg|thumb|Supreme Court of Canada signage on the West Memorial Building]]
+
+Starting in fall 2026 the court will be housed temporarily in the [[West Memorial Building]].<ref>{{Cite web |last=Bronskill |first=Jim |date=2026-10-05 |title=Supreme Court set to open judicial year with ceremony in temporary new building {{!}} Canada's National Observer: Climate News |url=https://www.nationalobserver.com/2026/10/05/news/supreme-court-set-open-judicial-year-ceremony-temporary-new-building |access-date=2026-10-20 |website=www.nationalobserver.com |language=en}}</ref>
+
+==See also==
+{{portal|border=no|Canada|Law}}
+* [[:Category:Supreme Court of Canada cases|Supreme Court of Canada cases]]
+* [[List of supreme courts by country]]{{Clear}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+===Primary sources===
+{{Reflist|group="ps"}}
+
+==Further reading==
+===History of the Supreme Court of Canada===
+{{columns-list|colwidth=23em|
+{{refbegin}}
+* {{cite journal |last1=Adams |first1=George W. |last2=Cavalluzzo |first2=Paul J. |title=The Supreme Court of Canada: A Biographical Study |journal=Osgoode Hall Law Journal |date=1969 |volume=7 |issue=1 |pages=61–86 |id=[https://canlii.ca/t/7nksg 1969 CanLIIDocs 331] |doi=10.60082/2817-5069.2358 |doi-access=free}}
+* {{Cite book|title = Captive Court: A Study of the Supreme Court of Canada|last = Bushnell|first = Ian|publisher = McGill-Queen's University Press|year = 1992|isbn = 978-0-7735-0851-4 |url=https://archive.org/details/captivecourtstud0000bush |url-access=registration}}
+* {{citation |last = McCormick |first = Peter|year =2000 |title =Supreme at last: the evolution of the Supreme Court of Canada |publisher=J. Lorimer |isbn=978-1-55028-693-9 |url = https://archive.org/details/supremeatlastevo0000mcco |url-access=registration }}
+* {{Cite book|title = The Supreme Court of Canada: History of the Institution|last1 = Snell|first1 = James G. |last2 = Vaughan|first2 = Frederick |publisher = The Osgoode Society|year = 1985|isbn = 978-0-8020-3417-5 |location = Toronto|url = https://archive.org/details/supremecourtofca0000snel|url-access = registration}}
+{{refend}}
+
+===Other works===
+{{Refbegin}}
+* {{citation |last=Ostberg |first=Cynthia L |year=2007 |title=Attitudinal decision making in the Supreme Court of Canada |url=https://archive.org/details/attitudinaldecis0000ostb |publisher=UBC Press |isbn=978-0-7748-1312-9 |url-access=registration}}
+* {{citation |last=Songer |first=Donald R |year=2008 |title=The transformation of the Supreme Court of Canada: an empirical examination |url=https://archive.org/details/transformationof0000song |publisher=University of Toronto Press |isbn=978-0-8020-9689-0 |url-access=registration}}
+{{Refend}}
+}}
+
+==External links==
+{{Commons category}}
+* [https://www.scc-csc.ca/ Supreme Court of Canada website]
+* [https://web.archive.org/web/20070928195125/http://216.226.59.131/ Supreme Court of Canada Library Catalogue]
+* [http://scc-csc.lexum.com/ Judgments of the Supreme Court of Canada]
+* [http://www.canlii.org searchable database of SCC decisions] (to 1948, with select older cases) via [[CanLII]]
+* [https://web.archive.org/web/20050305143415/http://www2.marianopolis.edu/quebechistory/federal/scc.htm Supreme Court of Canada from www.marianopolis.edu]
+* [http://www.charterofrights.ca/en/27_00_01 Explore the Virtual Charter]—Charter of Rights website with video, audio and the Charter in more than twenty languages
+* [http://www.mapleleafweb.com/features/judical/supreme-court/appointment/reforming.html The appointment process and reform] {{Webarchive|url=https://web.archive.org/web/20060427070143/http://www.mapleleafweb.com/features/judical/supreme-court/appointment/reforming.html |date=27 April 2006 }}
+* [https://web.archive.org/web/20120311153254/http://scc-csc.gc.ca/court-cour/buil-edi/index-eng.asp SCC building from official site]
+* {{usurped|1=[https://web.archive.org/web/20080331111619/http://www.glasssteelandstone.com/CA/ON/OttawaSupCo.html SCC Building]}}
+
+{{Courts of Canada}}
+{{Canada topics}}
+
+{{FederalCourtsOfCanada}}
+{{Supreme Court of Canada}}
+{{Americas topic|Supreme Court of|title=Supreme Courts of the Americas|countries_only=yes}}
+{{Authority control}}
+
+{{DEFAULTSORT:Supreme Court Of Canada}}
+[[Category:Supreme Court of Canada| ]]
+[[Category:Courthouses in Canada]]
+[[Category:Canadian appellate courts]]
+[[Category:Federal government buildings in Ottawa]]
+[[Category:National supreme courts|Canada]]
+[[Category:Canadian organizations established in 1875]]
+[[Category:Courts and tribunals established in 1875]]

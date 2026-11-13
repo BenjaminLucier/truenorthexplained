@@ -1,0 +1,1065 @@
+{
+  "_meta": {
+    "source": "Statistics Canada, tables 17-10-0063-01 (1852–1970) and 17-10-0008-01 (1971/72 on)",
+    "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000801",
+    "urls": [
+      "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710006301",
+      "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000801"
+    ],
+    "licence": "Open Government Licence – Canada",
+    "licenceUrl": "https://www.statcan.gc.ca/en/reference/licence",
+    "notes": [
+      "Immigrants are people granted permanent residence (\"landed immigrants\"). Temporary residents such as students and workers are not counted.",
+      "Up to 1970: calendar years. From 1971/1972: years running July 1 to June 30, labelled by the year they start.",
+      "per1000: immigrants per 1,000 people, using the estimated population for that year (July 1 from 1971)."
+    ],
+    "script": "scripts/grounding/statcan.ts",
+    "fetched": "2026-11-13"
+  },
+  "canada": [
+    {
+      "year": 1852,
+      "period": "1852",
+      "immigrants": 29307,
+      "per1000": null
+    },
+    {
+      "year": 1853,
+      "period": "1853",
+      "immigrants": 29464,
+      "per1000": null
+    },
+    {
+      "year": 1854,
+      "period": "1854",
+      "immigrants": 37263,
+      "per1000": null
+    },
+    {
+      "year": 1855,
+      "period": "1855",
+      "immigrants": 25296,
+      "per1000": null
+    },
+    {
+      "year": 1856,
+      "period": "1856",
+      "immigrants": 22544,
+      "per1000": null
+    },
+    {
+      "year": 1857,
+      "period": "1857",
+      "immigrants": 33854,
+      "per1000": null
+    },
+    {
+      "year": 1858,
+      "period": "1858",
+      "immigrants": 12339,
+      "per1000": null
+    },
+    {
+      "year": 1859,
+      "period": "1859",
+      "immigrants": 6300,
+      "per1000": null
+    },
+    {
+      "year": 1860,
+      "period": "1860",
+      "immigrants": 6276,
+      "per1000": null
+    },
+    {
+      "year": 1861,
+      "period": "1861",
+      "immigrants": 13589,
+      "per1000": null
+    },
+    {
+      "year": 1862,
+      "period": "1862",
+      "immigrants": 18294,
+      "per1000": null
+    },
+    {
+      "year": 1863,
+      "period": "1863",
+      "immigrants": 21000,
+      "per1000": null
+    },
+    {
+      "year": 1864,
+      "period": "1864",
+      "immigrants": 24779,
+      "per1000": null
+    },
+    {
+      "year": 1865,
+      "period": "1865",
+      "immigrants": 18958,
+      "per1000": null
+    },
+    {
+      "year": 1866,
+      "period": "1866",
+      "immigrants": 11427,
+      "per1000": null
+    },
+    {
+      "year": 1867,
+      "period": "1867",
+      "immigrants": 10666,
+      "per1000": 3.1
+    },
+    {
+      "year": 1868,
+      "period": "1868",
+      "immigrants": 12765,
+      "per1000": 3.6
+    },
+    {
+      "year": 1869,
+      "period": "1869",
+      "immigrants": 18630,
+      "per1000": 5.2
+    },
+    {
+      "year": 1870,
+      "period": "1870",
+      "immigrants": 24706,
+      "per1000": 6.8
+    },
+    {
+      "year": 1871,
+      "period": "1871",
+      "immigrants": 27773,
+      "per1000": 7.5
+    },
+    {
+      "year": 1872,
+      "period": "1872",
+      "immigrants": 36578,
+      "per1000": 9.7
+    },
+    {
+      "year": 1873,
+      "period": "1873",
+      "immigrants": 50050,
+      "per1000": 13.1
+    },
+    {
+      "year": 1874,
+      "period": "1874",
+      "immigrants": 39373,
+      "per1000": 10.1
+    },
+    {
+      "year": 1875,
+      "period": "1875",
+      "immigrants": 27382,
+      "per1000": 6.9
+    },
+    {
+      "year": 1876,
+      "period": "1876",
+      "immigrants": 25633,
+      "per1000": 6.4
+    },
+    {
+      "year": 1877,
+      "period": "1877",
+      "immigrants": 27082,
+      "per1000": 6.7
+    },
+    {
+      "year": 1878,
+      "period": "1878",
+      "immigrants": 29807,
+      "per1000": 7.2
+    },
+    {
+      "year": 1879,
+      "period": "1879",
+      "immigrants": 40492,
+      "per1000": 9.7
+    },
+    {
+      "year": 1880,
+      "period": "1880",
+      "immigrants": 38505,
+      "per1000": 9
+    },
+    {
+      "year": 1881,
+      "period": "1881",
+      "immigrants": 47991,
+      "per1000": 11.1
+    },
+    {
+      "year": 1882,
+      "period": "1882",
+      "immigrants": 112458,
+      "per1000": 25.7
+    },
+    {
+      "year": 1883,
+      "period": "1883",
+      "immigrants": 133624,
+      "per1000": 30.2
+    },
+    {
+      "year": 1884,
+      "period": "1884",
+      "immigrants": 103824,
+      "per1000": 23.1
+    },
+    {
+      "year": 1885,
+      "period": "1885",
+      "immigrants": 79169,
+      "per1000": 17.4
+    },
+    {
+      "year": 1886,
+      "period": "1886",
+      "immigrants": 69152,
+      "per1000": 15.1
+    },
+    {
+      "year": 1887,
+      "period": "1887",
+      "immigrants": 84526,
+      "per1000": 18.3
+    },
+    {
+      "year": 1888,
+      "period": "1888",
+      "immigrants": 88766,
+      "per1000": 19
+    },
+    {
+      "year": 1889,
+      "period": "1889",
+      "immigrants": 91600,
+      "per1000": 19.4
+    },
+    {
+      "year": 1890,
+      "period": "1890",
+      "immigrants": 75067,
+      "per1000": 15.7
+    },
+    {
+      "year": 1891,
+      "period": "1891",
+      "immigrants": 82165,
+      "per1000": 17
+    },
+    {
+      "year": 1892,
+      "period": "1892",
+      "immigrants": 30996,
+      "per1000": 6.3
+    },
+    {
+      "year": 1893,
+      "period": "1893",
+      "immigrants": 29633,
+      "per1000": 6
+    },
+    {
+      "year": 1894,
+      "period": "1894",
+      "immigrants": 20829,
+      "per1000": 4.2
+    },
+    {
+      "year": 1895,
+      "period": "1895",
+      "immigrants": 18790,
+      "per1000": 3.7
+    },
+    {
+      "year": 1896,
+      "period": "1896",
+      "immigrants": 16835,
+      "per1000": 3.3
+    },
+    {
+      "year": 1897,
+      "period": "1897",
+      "immigrants": 21716,
+      "per1000": 4.2
+    },
+    {
+      "year": 1898,
+      "period": "1898",
+      "immigrants": 31900,
+      "per1000": 6.2
+    },
+    {
+      "year": 1899,
+      "period": "1899",
+      "immigrants": 44543,
+      "per1000": 8.5
+    },
+    {
+      "year": 1900,
+      "period": "1900",
+      "immigrants": 41681,
+      "per1000": 7.9
+    },
+    {
+      "year": 1901,
+      "period": "1901",
+      "immigrants": 55747,
+      "per1000": 10.4
+    },
+    {
+      "year": 1902,
+      "period": "1902",
+      "immigrants": 89102,
+      "per1000": 16.2
+    },
+    {
+      "year": 1903,
+      "period": "1903",
+      "immigrants": 138660,
+      "per1000": 24.5
+    },
+    {
+      "year": 1904,
+      "period": "1904",
+      "immigrants": 131252,
+      "per1000": 22.5
+    },
+    {
+      "year": 1905,
+      "period": "1905",
+      "immigrants": 141465,
+      "per1000": 23.6
+    },
+    {
+      "year": 1906,
+      "period": "1906",
+      "immigrants": 211653,
+      "per1000": 34.7
+    },
+    {
+      "year": 1907,
+      "period": "1907",
+      "immigrants": 272409,
+      "per1000": 42.5
+    },
+    {
+      "year": 1908,
+      "period": "1908",
+      "immigrants": 143326,
+      "per1000": 21.6
+    },
+    {
+      "year": 1909,
+      "period": "1909",
+      "immigrants": 173694,
+      "per1000": 25.5
+    },
+    {
+      "year": 1910,
+      "period": "1910",
+      "immigrants": 286839,
+      "per1000": 41
+    },
+    {
+      "year": 1911,
+      "period": "1911",
+      "immigrants": 331288,
+      "per1000": 46
+    },
+    {
+      "year": 1912,
+      "period": "1912",
+      "immigrants": 375756,
+      "per1000": 50.9
+    },
+    {
+      "year": 1913,
+      "period": "1913",
+      "immigrants": 400870,
+      "per1000": 52.5
+    },
+    {
+      "year": 1914,
+      "period": "1914",
+      "immigrants": 150484,
+      "per1000": 19.1
+    },
+    {
+      "year": 1915,
+      "period": "1915",
+      "immigrants": 36665,
+      "per1000": 4.6
+    },
+    {
+      "year": 1916,
+      "period": "1916",
+      "immigrants": 55914,
+      "per1000": 7
+    },
+    {
+      "year": 1917,
+      "period": "1917",
+      "immigrants": 72910,
+      "per1000": 9
+    },
+    {
+      "year": 1918,
+      "period": "1918",
+      "immigrants": 41845,
+      "per1000": 5.1
+    },
+    {
+      "year": 1919,
+      "period": "1919",
+      "immigrants": 107698,
+      "per1000": 13
+    },
+    {
+      "year": 1920,
+      "period": "1920",
+      "immigrants": 138824,
+      "per1000": 16.2
+    },
+    {
+      "year": 1921,
+      "period": "1921",
+      "immigrants": 91728,
+      "per1000": 10.4
+    },
+    {
+      "year": 1922,
+      "period": "1922",
+      "immigrants": 64224,
+      "per1000": 7.2
+    },
+    {
+      "year": 1923,
+      "period": "1923",
+      "immigrants": 133729,
+      "per1000": 14.8
+    },
+    {
+      "year": 1924,
+      "period": "1924",
+      "immigrants": 124164,
+      "per1000": 13.6
+    },
+    {
+      "year": 1925,
+      "period": "1925",
+      "immigrants": 84907,
+      "per1000": 9.1
+    },
+    {
+      "year": 1926,
+      "period": "1926",
+      "immigrants": 135982,
+      "per1000": 14.4
+    },
+    {
+      "year": 1927,
+      "period": "1927",
+      "immigrants": 158886,
+      "per1000": 16.5
+    },
+    {
+      "year": 1928,
+      "period": "1928",
+      "immigrants": 166783,
+      "per1000": 17
+    },
+    {
+      "year": 1929,
+      "period": "1929",
+      "immigrants": 164993,
+      "per1000": 16.5
+    },
+    {
+      "year": 1930,
+      "period": "1930",
+      "immigrants": 104806,
+      "per1000": 10.3
+    },
+    {
+      "year": 1931,
+      "period": "1931",
+      "immigrants": 27530,
+      "per1000": 2.7
+    },
+    {
+      "year": 1932,
+      "period": "1932",
+      "immigrants": 20591,
+      "per1000": 2
+    },
+    {
+      "year": 1933,
+      "period": "1933",
+      "immigrants": 14382,
+      "per1000": 1.4
+    },
+    {
+      "year": 1934,
+      "period": "1934",
+      "immigrants": 12476,
+      "per1000": 1.2
+    },
+    {
+      "year": 1935,
+      "period": "1935",
+      "immigrants": 11277,
+      "per1000": 1
+    },
+    {
+      "year": 1936,
+      "period": "1936",
+      "immigrants": 11643,
+      "per1000": 1.1
+    },
+    {
+      "year": 1937,
+      "period": "1937",
+      "immigrants": 15101,
+      "per1000": 1.4
+    },
+    {
+      "year": 1938,
+      "period": "1938",
+      "immigrants": 17244,
+      "per1000": 1.5
+    },
+    {
+      "year": 1939,
+      "period": "1939",
+      "immigrants": 16994,
+      "per1000": 1.5
+    },
+    {
+      "year": 1940,
+      "period": "1940",
+      "immigrants": 11324,
+      "per1000": 1
+    },
+    {
+      "year": 1941,
+      "period": "1941",
+      "immigrants": 9329,
+      "per1000": 0.8
+    },
+    {
+      "year": 1942,
+      "period": "1942",
+      "immigrants": 7576,
+      "per1000": 0.7
+    },
+    {
+      "year": 1943,
+      "period": "1943",
+      "immigrants": 8504,
+      "per1000": 0.7
+    },
+    {
+      "year": 1944,
+      "period": "1944",
+      "immigrants": 12801,
+      "per1000": 1.1
+    },
+    {
+      "year": 1945,
+      "period": "1945",
+      "immigrants": 22722,
+      "per1000": 1.9
+    },
+    {
+      "year": 1946,
+      "period": "1946",
+      "immigrants": 71719,
+      "per1000": 5.8
+    },
+    {
+      "year": 1947,
+      "period": "1947",
+      "immigrants": 64127,
+      "per1000": 5.1
+    },
+    {
+      "year": 1948,
+      "period": "1948",
+      "immigrants": 125414,
+      "per1000": 9.8
+    },
+    {
+      "year": 1949,
+      "period": "1949",
+      "immigrants": 95217,
+      "per1000": 7.1
+    },
+    {
+      "year": 1950,
+      "period": "1950",
+      "immigrants": 73912,
+      "per1000": 5.4
+    },
+    {
+      "year": 1951,
+      "period": "1951",
+      "immigrants": 194391,
+      "per1000": 13.9
+    },
+    {
+      "year": 1952,
+      "period": "1952",
+      "immigrants": 164498,
+      "per1000": 11.4
+    },
+    {
+      "year": 1953,
+      "period": "1953",
+      "immigrants": 168868,
+      "per1000": 11.4
+    },
+    {
+      "year": 1954,
+      "period": "1954",
+      "immigrants": 154227,
+      "per1000": 10.1
+    },
+    {
+      "year": 1955,
+      "period": "1955",
+      "immigrants": 109946,
+      "per1000": 7
+    },
+    {
+      "year": 1956,
+      "period": "1956",
+      "immigrants": 164857,
+      "per1000": 10.3
+    },
+    {
+      "year": 1957,
+      "period": "1957",
+      "immigrants": 282164,
+      "per1000": 17
+    },
+    {
+      "year": 1958,
+      "period": "1958",
+      "immigrants": 124851,
+      "per1000": 7.3
+    },
+    {
+      "year": 1959,
+      "period": "1959",
+      "immigrants": 106928,
+      "per1000": 6.1
+    },
+    {
+      "year": 1960,
+      "period": "1960",
+      "immigrants": 104111,
+      "per1000": 5.8
+    },
+    {
+      "year": 1961,
+      "period": "1961",
+      "immigrants": 71689,
+      "per1000": 3.9
+    },
+    {
+      "year": 1962,
+      "period": "1962",
+      "immigrants": 74586,
+      "per1000": 4
+    },
+    {
+      "year": 1963,
+      "period": "1963",
+      "immigrants": 93151,
+      "per1000": 4.9
+    },
+    {
+      "year": 1964,
+      "period": "1964",
+      "immigrants": 112606,
+      "per1000": 5.8
+    },
+    {
+      "year": 1965,
+      "period": "1965",
+      "immigrants": 146758,
+      "per1000": 7.5
+    },
+    {
+      "year": 1966,
+      "period": "1966",
+      "immigrants": 194743,
+      "per1000": 9.7
+    },
+    {
+      "year": 1967,
+      "period": "1967",
+      "immigrants": 222876,
+      "per1000": 10.9
+    },
+    {
+      "year": 1968,
+      "period": "1968",
+      "immigrants": 183974,
+      "per1000": 8.9
+    },
+    {
+      "year": 1969,
+      "period": "1969",
+      "immigrants": 161531,
+      "per1000": 7.7
+    },
+    {
+      "year": 1970,
+      "period": "1970",
+      "immigrants": 147713,
+      "per1000": 6.9
+    },
+    {
+      "year": 1971,
+      "period": "1971/1972",
+      "immigrants": 117036,
+      "per1000": 5.3
+    },
+    {
+      "year": 1972,
+      "period": "1972/1973",
+      "immigrants": 138526,
+      "per1000": 6.2
+    },
+    {
+      "year": 1973,
+      "period": "1973/1974",
+      "immigrants": 217456,
+      "per1000": 9.7
+    },
+    {
+      "year": 1974,
+      "period": "1974/1975",
+      "immigrants": 209283,
+      "per1000": 9.2
+    },
+    {
+      "year": 1975,
+      "period": "1975/1976",
+      "immigrants": 170028,
+      "per1000": 7.3
+    },
+    {
+      "year": 1976,
+      "period": "1976/1977",
+      "immigrants": 130931,
+      "per1000": 5.6
+    },
+    {
+      "year": 1977,
+      "period": "1977/1978",
+      "immigrants": 100967,
+      "per1000": 4.3
+    },
+    {
+      "year": 1978,
+      "period": "1978/1979",
+      "immigrants": 84518,
+      "per1000": 3.5
+    },
+    {
+      "year": 1979,
+      "period": "1979/1980",
+      "immigrants": 143825,
+      "per1000": 5.9
+    },
+    {
+      "year": 1980,
+      "period": "1980/1981",
+      "immigrants": 127238,
+      "per1000": 5.2
+    },
+    {
+      "year": 1981,
+      "period": "1981/1982",
+      "immigrants": 135339,
+      "per1000": 5.5
+    },
+    {
+      "year": 1982,
+      "period": "1982/1983",
+      "immigrants": 101404,
+      "per1000": 4
+    },
+    {
+      "year": 1983,
+      "period": "1983/1984",
+      "immigrants": 88592,
+      "per1000": 3.5
+    },
+    {
+      "year": 1984,
+      "period": "1984/1985",
+      "immigrants": 83925,
+      "per1000": 3.3
+    },
+    {
+      "year": 1985,
+      "period": "1985/1986",
+      "immigrants": 88657,
+      "per1000": 3.4
+    },
+    {
+      "year": 1986,
+      "period": "1986/1987",
+      "immigrants": 130880,
+      "per1000": 5
+    },
+    {
+      "year": 1987,
+      "period": "1987/1988",
+      "immigrants": 152211,
+      "per1000": 5.8
+    },
+    {
+      "year": 1988,
+      "period": "1988/1989",
+      "immigrants": 177632,
+      "per1000": 6.6
+    },
+    {
+      "year": 1989,
+      "period": "1989/1990",
+      "immigrants": 203357,
+      "per1000": 7.5
+    },
+    {
+      "year": 1990,
+      "period": "1990/1991",
+      "immigrants": 221382,
+      "per1000": 8
+    },
+    {
+      "year": 1991,
+      "period": "1991/1992",
+      "immigrants": 244281,
+      "per1000": 8.7
+    },
+    {
+      "year": 1992,
+      "period": "1992/1993",
+      "immigrants": 266890,
+      "per1000": 9.4
+    },
+    {
+      "year": 1993,
+      "period": "1993/1994",
+      "immigrants": 235360,
+      "per1000": 8.2
+    },
+    {
+      "year": 1994,
+      "period": "1994/1995",
+      "immigrants": 220738,
+      "per1000": 7.6
+    },
+    {
+      "year": 1995,
+      "period": "1995/1996",
+      "immigrants": 217478,
+      "per1000": 7.4
+    },
+    {
+      "year": 1996,
+      "period": "1996/1997",
+      "immigrants": 224857,
+      "per1000": 7.6
+    },
+    {
+      "year": 1997,
+      "period": "1997/1998",
+      "immigrants": 194459,
+      "per1000": 6.5
+    },
+    {
+      "year": 1998,
+      "period": "1998/1999",
+      "immigrants": 173194,
+      "per1000": 5.7
+    },
+    {
+      "year": 1999,
+      "period": "1999/2000",
+      "immigrants": 205710,
+      "per1000": 6.8
+    },
+    {
+      "year": 2000,
+      "period": "2000/2001",
+      "immigrants": 252527,
+      "per1000": 8.2
+    },
+    {
+      "year": 2001,
+      "period": "2001/2002",
+      "immigrants": 256405,
+      "per1000": 8.3
+    },
+    {
+      "year": 2002,
+      "period": "2002/2003",
+      "immigrants": 199170,
+      "per1000": 6.4
+    },
+    {
+      "year": 2003,
+      "period": "2003/2004",
+      "immigrants": 239101,
+      "per1000": 7.6
+    },
+    {
+      "year": 2004,
+      "period": "2004/2005",
+      "immigrants": 244599,
+      "per1000": 7.7
+    },
+    {
+      "year": 2005,
+      "period": "2005/2006",
+      "immigrants": 254381,
+      "per1000": 7.9
+    },
+    {
+      "year": 2006,
+      "period": "2006/2007",
+      "immigrants": 238127,
+      "per1000": 7.3
+    },
+    {
+      "year": 2007,
+      "period": "2007/2008",
+      "immigrants": 249632,
+      "per1000": 7.6
+    },
+    {
+      "year": 2008,
+      "period": "2008/2009",
+      "immigrants": 245313,
+      "per1000": 7.4
+    },
+    {
+      "year": 2009,
+      "period": "2009/2010",
+      "immigrants": 270635,
+      "per1000": 8
+    },
+    {
+      "year": 2010,
+      "period": "2010/2011",
+      "immigrants": 259143,
+      "per1000": 7.6
+    },
+    {
+      "year": 2011,
+      "period": "2011/2012",
+      "immigrants": 260043,
+      "per1000": 7.6
+    },
+    {
+      "year": 2012,
+      "period": "2012/2013",
+      "immigrants": 263115,
+      "per1000": 7.6
+    },
+    {
+      "year": 2013,
+      "period": "2013/2014",
+      "immigrants": 267936,
+      "per1000": 7.6
+    },
+    {
+      "year": 2014,
+      "period": "2014/2015",
+      "immigrants": 240775,
+      "per1000": 6.8
+    },
+    {
+      "year": 2015,
+      "period": "2015/2016",
+      "immigrants": 323188,
+      "per1000": 9.1
+    },
+    {
+      "year": 2016,
+      "period": "2016/2017",
+      "immigrants": 272694,
+      "per1000": 7.6
+    },
+    {
+      "year": 2017,
+      "period": "2017/2018",
+      "immigrants": 303369,
+      "per1000": 8.3
+    },
+    {
+      "year": 2018,
+      "period": "2018/2019",
+      "immigrants": 313603,
+      "per1000": 8.5
+    },
+    {
+      "year": 2019,
+      "period": "2019/2020",
+      "immigrants": 284153,
+      "per1000": 7.6
+    },
+    {
+      "year": 2020,
+      "period": "2020/2021",
+      "immigrants": 226314,
+      "per1000": 6
+    },
+    {
+      "year": 2021,
+      "period": "2021/2022",
+      "immigrants": 493236,
+      "per1000": 12.9
+    },
+    {
+      "year": 2022,
+      "period": "2022/2023",
+      "immigrants": 468913,
+      "per1000": 12
+    },
+    {
+      "year": 2023,
+      "period": "2023/2024",
+      "immigrants": 464344,
+      "per1000": 11.6
+    },
+    {
+      "year": 2024,
+      "period": "2024/2025",
+      "immigrants": 435551,
+      "per1000": 10.6
+    },
+    {
+      "year": 2025,
+      "period": "2025/2026",
+      "immigrants": 368224,
+      "per1000": 8.8
+    }
+  ]
+}

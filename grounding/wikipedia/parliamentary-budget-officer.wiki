@@ -1,0 +1,209 @@
+{{short description|Canadian government accountability agency}}
+{{about|the Canadian agency|the Australian agency|Parliamentary Budget Office}}
+{{Use Canadian English|date=December 2018}}
+{{Infobox official post
+| post = Parliamentary Budget Officer
+| native_name = {{nobold|{{lang|fr|Directeur parlementaire du budget}}}}
+| insignia = Office of the Parliamentary Budget Officer.svg
+| insignia_size = 200px
+| insignia_caption = 
+| flag = 
+| flag_size = 
+| flag_border = 
+| flag_caption = 
+| image = 
+| alt = 
+| incumbent = Annette Ryan
+| acting = no
+| incumbent_since = April 22, 2026
+| style = 
+| type = 
+| status = 
+| abbreviation = PBO
+| member_of = 
+| reports_to = [[Parliament of Canada]]
+| residence = 
+| seat = 
+| nominator = [[Prime Minister of Canada]]
+| appointer = [[Governor in Council]]
+| appointer_qualified = 
+| term_length = 7 years
+| term_length_qualified = once renewable
+| constituting_instrument = Parliament of Canada Act
+| precursor = 
+| formation = 
+| first = [[Kevin Page (economist)|Kevin Page]]
+| abolished = 
+| succession = 
+| unofficial_names = 
+| deputy = 
+| salary = $174,700 - $205,500 (GCQ-6)
+| website = {{URL|https://www.pbo-dpb.ca/}}
+}}
+{{Infobox government agency
+| name              = Office of the Parliamentary Budget Officer
+| native_name       = {{lang|fr|Bureau du directeur parlementaire du budget}}
+| seal              = 
+| logo              = 
+| formed            = 2006
+| jurisdiction      = 
+| headquarters      = [[Ottawa]], Ontario, Canada
+| employees         = 40
+| budget            = C$7.3 million<br /><small>(2012-20)</small><ref>{{Cite web|url=https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#orgs/dept/346/infograph/financial|title=GC InfoBase|website=www.tbs-sct.gc.ca|language=en|access-date=2020-04-10}}</ref>
+| chief1_name       = 
+| chief1_position   = 
+| chief2_name       = 
+| chief2_position   = 
+| chief3_name       = 
+| chief3_position   = 
+| chief4_name       = 
+| chief4_position   = 
+| chief5_name       = 
+| chief5_position   = 
+| chief6_name       = 
+| chief6_position   = 
+| chief7_name       = 
+| chief7_position   = 
+| chief8_name       = 
+| chief8_position   = 
+| chief9_name       = 
+| chief9_position   = 
+| parent_department = 
+| website           = 
+}}
+
+The '''Office of the Parliamentary Budget Officer''' ('''OPBO'''; {{Langx|fr|Bureau du directeur parlementaire du budget}}) is an office of the [[Parliament of Canada]] which provides independent, authoritative and non-partisan financial and economic analysis. The office is led by the '''Parliamentary Budget Officer''' ('''PBO'''; {{Langx|fr|Directeur parlementaire du budget}}), an independent officer who supports parliamentarians in carrying out their constitutional roles of scrutinizing the raising and spending of public monies and generally overseeing the government's activities.<ref>[https://www.pbo-dpb.ca/en/about--a-propos PBO At a Glance]</ref><ref>{{Cite web|last=Office of the Parliamentary Budget Officer|date=|title=The Office of the Parliamentary Budget Officer|url=https://www.pbo-dpb.ca/en/office-of-pbo--bureau-du-dpb|access-date=2 January 2020|website=}}</ref>
+
+==History==
+
+=== Creation of PBO (2006) ===
+The Parliamentary Budget Officer was established in 2006 by the [[Conservative Party of Canada|Conservative]] government of [[Prime Minister of Canada|Prime Minister]] [[Stephen Harper]], as one of the independent oversight offices established by the ''[[Federal Accountability Act]]''.<ref name=":0">{{Cite web|url=https://ipolitics.ca/2016/07/16/harpers-accountability-act-ten-years-on/|title=Harper's Accountability Act, ten years on|last=Flumian|first=Maryantonett|date=2016-07-16|website=iPolitics|access-date=2017-03-18}}</ref> The act was the [[Premiership of Stephen Harper|Harper government]]'s first piece of legislation.<ref name=":0" />
+
+The powers of the PBO are enshrined in the ''Parliament of Canada Act'' (Sections 79.1-79.5).<ref name="laws-lois.justice.gc.ca">[http://laws-lois.justice.gc.ca/eng/acts/P-1/page-30.html#docCont Parliament of Canada Act (Sections 79.1-79.5)]</ref> The PBO's mission is to "support Parliament in exercising its oversight role in the government’s stewardship of public funds by ensuring budget transparency and promoting informed public dialogue with an aim to implement sound economic and fiscal policies in Canada''."''<ref name="PBO Operational Plan">[http://www.parl.gc.ca/PBO-DPB/documents/Operational_Plan.pdf PBO Operational Plan]</ref>
+
+=== Conservative government (2006 to 2015) ===
+In March 2011, the PBO published a 65-page peer-reviewed report that estimated the cost of buying [[Lockheed Martin F-35 Lightning II|F-35 fighter jets]]. The PBO estimated the full cost to be $29.3-billion, including upgrade costs of $3.9-billion, much higher than the $9-billion the [[Department of National Defence (Canada)|Department of National Defence]] had publicly estimated.<ref>[http://www.pbo-dpb.gc.ca/files/files/Publications/F-35_Cost_Estimate_EN.pdf An Estimate of the Fiscal Impact of Canada’s Proposed Acquisition of the F-35 Lightning II Joint Strike Fighter]</ref> The Auditor General later reached a similar conclusion as the PBO.<ref>{{Cite web| title=Report of the Auditor General of Canada to the House of Commons | url=http://www.oag-bvg.gc.ca/internet/docs/parl_oag_201204_02_e.pdf | archive-url=https://web.archive.org/web/20120425113011/http://www.oag-bvg.gc.ca:80/internet/docs/parl_oag_201204_02_e.pdf | archive-date=2012-04-25}}</ref> Harper said that he refused “to get into a lengthy debate on numbers.”<ref name="NaPo_Selley_20170317">{{Cite news|url=https://nationalpost.com/opinion/chris-selley-an-island-of-reason-in-the-sea-of-trump-imagine-what-a-better-funded-pbo-could-do-for-canada|title=Chris Selley: An island of reason in the Sea of Trump: Imagine what a better-funded PBO could do for Canada|last=Selley|first=Chris|work=National Post|date=March 17, 2017|access-date=2017-03-18|language=en}}</ref>
+
+In February 2012, the PBO released an analysis of the projected cost over the next 70 years of benefits to the elderly. It concluded that those costs would rise for a number of years relative to GDP, then fall back very close to current levels (slightly less than 15 per cent of total federal program spending). This report contradicted the government's statement that [[Old Age Security]] was unsustainable.<ref>[http://www.pbo-dpb.gc.ca/files/files/Publications/Sustainability_OAS.pdf Federal Fiscal Sustainability and Elderly Benefits]</ref>
+
+In June 2012, [[Minister of Foreign Affairs (Canada)|Minister of Foreign Affairs]] [[John Baird (Canadian politician)|John Baird]] said in [[Question Period]] that PBO [[Kevin Page (economist)|Kevin Page]] had overstepped his mandate after Page sought a legal opinion on whether the PBO is entitled to all financial and economic data from federal departments, should it not be protected for privacy or confidentiality reasons.<ref name=":1">{{Cite news|url=http://www.cbc.ca/news/politics/budget-watchdog-operating-outside-mandate-1.1152959|title=Budget watchdog operating 'outside' mandate|work=CBC News|access-date=2017-03-18|language=en}}</ref>
+
+In 2012, Page required 56 departments to detail savings and cost reduction measures they were undertaking, cuts which were required under that year's federal budget.<ref name=":1" /> A number of government departments refused to disclose the number of job cuts and how much service in each department would be affected. Some cabinet ministers, such as [[Minister of Finance (Canada)|Minister of Finance]] [[Jim Flaherty]] and [[President of the Treasury Board]] [[Tony Clement]] refused to disclose their numbers, stating in October 2012 that the PBO was exceeding his office's mandate by requesting such information.<ref name=":1" /><ref name="cbc.ca">[https://www.cbc.ca/news/politics/budget-watchdog-gets-details-on-savings-but-not-on-cuts-1.1150993 Budget watchdog gets details on savings, but not on cuts]</ref>  Other members of Parliament defended the PBO, arguing that it is difficult to vote on a budget when details aren't known about how significant cuts will affect government services and programs.<ref>{{Cite news|url=http://www.cbc.ca/news/politics/pbo-government-showdown-looms-1.1152956|title=PBO, government showdown looms|work=CBC News|access-date=2017-03-18|language=en}}</ref> The PBO argued that it is his job to inform parliamentarians and the public about what a $5.2-billion cut will do to government.<ref name="cbc.ca"/> The PBO stated that it was prepared to take the issue to the [[Federal Court (Canada)|Federal Court]] to attempt to force the government to comply.
+
+In March 2013, after departing as PBO, [[Kevin Page (economist)|Kevin Page]] said the Conservative government was sending a "very strong signal" that it's "moving to unwind the office."<ref>{{Cite news|url=http://www.cbc.ca/news/politics/tories-to-unwind-budget-office-departing-pbo-warns-1.1335292|title=Tories to 'unwind' budget office, departing PBO warns|work=CBC News|access-date=2017-03-18|language=en}}</ref>
+
+During the [[2015 Canadian federal election|2015 federal election]], both the [[Liberal Party of Canada|Liberal Party]] and [[New Democratic Party]] promised to strengthen the PBO.<ref name=":2">{{Cite news|url=http://www.cbc.ca/news/politics/wherry-pbo-bill-1.3689435|title=Parliament's budget watchdog may soon have a bigger budget, more staff — and more power|work=CBC News|access-date=2017-03-18|language=en}}</ref><ref>{{Cite news|url=http://www.cbc.ca/news/politics/wherry-pbo-pmo-mulcair-1.3697798|title=Meetings between PMO and PBO were 'inappropriate' says NDP|work=CBC News|access-date=2017-03-18|language=en}}</ref>
+
+=== Liberal government (2015 to present) ===
+The Liberal Party's 2015 election platform committed to making the PBO “truly independent of the government” and “accountable only – and directly – to Parliament”. The platform also committed to expand the PBO's mandate to include “the costing of party election platforms”. These changes were included in the ''Budget Implementation Act, 2017'' and came into force in September 2017.
+
+In March 2017, the PBO said that the budget only showed $5.5 billion of the planned $8 billion that was allocated to new infrastructure spending under [[Justin Trudeau]]'s  budget.<ref name=":3">{{Cite news|url=https://www.ctvnews.ca/politics/article/liberal-spending-estimates-short-25b-on-infrastructure-budget-office/|title=Liberal spending estimates short $2.5B on infrastructure: budget office|last=Press|first=Jordan|work=CTVNews|access-date=2017-03-18|language=en-CA}}</ref> The Liberals disputed some of the findings, with a [[Treasury Board]] spokesperson saying that the problems arose from confusion surrounding the budget process.<ref name=":3" />
+
+The nomination of Annette Ryan in 2026 was opposed by Conservatives and the [[Bloc Québécois]].<ref>{{cite web |title=Conservatives cite PBO analysis in critique of Liberal fiscal plan |publisher=CBC News |work=CBC News |date=2026 |url=https://www.cbc.ca/news/politics/pbo-ryan-jacques-conservatives-analysis-9.7143506 |access-date=2026-04-21}}</ref>
+
+==Office of the Parliamentary Budget Officer==
+The '''Office of the Parliamentary Budget Officer''', the agency which supports the PBO in their work is organized into two divisions: Economic and Fiscal Analysis, and Budgetary Analysis and Costing. Each division is led by an Assistant Parliamentary Budget Officer. Both divisions support the PBO's role to inform parliamentarians and improve budget transparency.<ref name="PBO Operational Plan"/>
+
+===The Economic and Fiscal Analysis Division===
+The Economic and Fiscal Analysis Division provides economic and fiscal analysis, outlook and risk assessments. This analysis relies heavily on the use of econometric and statistical models and includes broader research on macroeconomic and fiscal policy.<ref name="PBO_101711">{{cite report |url=https://www.pbo-dpb.gc.ca/web/default/files/Documents/General/PBO_Business_Case_2018-19_Final.pdf |title=Budgetary Request New Office of the Parliamentary Budget Officer |date=November 2017 |access-date=November 2, 2019 |work=Parliamentary Budget Officer (PBO) |pages=13}}</ref>
+
+===The Budgetary Analysis and Costing Division===
+The Budgetary Analysis and Costing Division analyzes program costs and estimates, assesses budgetary systems and provides cost estimates on Parliamentary proposals. This work often involves financial analysis and ‘due-diligence’, assessing business cases and developing cost methodologies.<ref name="PBO_101711"/>
+
+==Operating model==
+The PBO's basic operating model was developed through extensive stakeholder consultations.<ref name="PBO Operational Plan"/>
+
+*Independence: The PBO's advice is independent, objective and non-partisan.<ref name="PBO Operational Plan"/>
+*Open and Transparent Publishing Model: The PBO's analysis is openly reported to committees and parliamentarians and is freely accessible to all on its public website.<ref name="PBO Operational Plan"/>
+*Collaboration and Partnering: The PBO works with academics, think tanks, consulting firms and external experts to provide authoritative analysis.  Peer review is also used when appropriate to ensure the quality and credibility of the analysis.<ref name="PBO Operational Plan"/>
+*Setting Priorities Based on Materiality and Contribution Potential:  The PBO maintains an independent research plan, while simultaneously responding to incoming requests from parliamentarians and committees.
+
+:Given resource limitations, research priorities are set using two core principles:<ref name="PBO Operational Plan"/>
+:* materiality: the issue can reasonably be expected to have a substantive impact on the government’s finances, estimates or the Canadian economy and;
+:* contribution potential: the issue has the potential to increase budget transparency and/or promote informed parliamentary and public dialogue towards implementing sound budget policy and financial management
+
+===Access to information===
+The PBO has developed an information protocol.  This process relies on the legislated provisions of the ''Parliament of Canada Act'' to provide the PBO with free and timely access to information from departments and agencies, while simultaneously providing them with clarity, predictability and transparency for all PBO information requests.<ref name="PBO Operational Plan"/>
+
+The ''Parliament of Canada Act'' states that ''"''the Parliamentary Budget Officer is entitled, by request made to the deputy head of a department... to free and timely access to any financial or economic data in the possession of the department that are required for the performance of his or her mandate.''"''<ref name="laws-lois.justice.gc.ca"/>
+
+===Relation to the Auditor General===
+The PBO and the [[Auditor General of Canada]] provide distinct, but complementary services to support Parliament.<ref name="PBO Operational Plan"/>
+
+The PBO, on the other hand, provides independent economic, fiscal and financial analysis to Parliament and parliamentarians. The PBO also provides these types of reports to relevant committees upon request.<ref name="PBO Operational Plan"/>
+
+The Auditor General takes a retrospective view of the public accounts and plays an [[assurance services|assurance]] role. This is distinct from the PBO's work, which is largely prospective in nature and in a decision support role for Parliament.<ref name="PBO Operational Plan"/>
+
+==Parliamentary Budget Officers==
+The Parliamentary Budget Officer is an officer of both houses of the [[Parliament of Canada]], the [[Senate of Canada|Senate]] and the [[House of Commons of Canada|House of Commons]], and reports to the speakers of both chambers.
+
+The [[King-in-Council|Governor in Council]] appoints the Parliamentary Budget Officer for a term of not more than seven years (formerly five years), renewable once.<ref>{{Cite web|url=https://appointments.gc.ca/prflOrg.asp?OrgID=OPBO&lang=eng|title=Organization Profile - Office of the Parliamentary Budget Officer|last=Canada|first=Government of|date=2017-11-20|website=appointments.gc.ca|access-date=2020-04-09}}</ref><ref>{{Cite web|url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/Parliament/OfficersParliament/pbo|title=Parliamentary Budget Officers|website=lop.parl.ca|access-date=2020-04-09|archive-date=2020-01-24|archive-url=https://web.archive.org/web/20200124024306/https://lop.parl.ca/sites/ParlInfo/default/en_CA/Parliament/OfficersParliament/pbo|url-status=dead}}</ref> The Prime Minister nominates the PBO.<ref>{{Cite web|url=https://www.cbc.ca/news/politics/yves-giroux-career-public-servant-nominated-to-be-new-budget-watchdog-1.4712228|title=Yves Giroux, career public servant, nominated to be new budget watchdog|last=|first=|date=|website=|access-date=}}</ref>
+
+{| class="wikitable sortable"
+|-
+!No.
+! Name
+! Begin date
+! End date
+!Notes
+|-
+|1
+|[[Kevin Page (economist)|Kevin Page]]
+|{{dts|2008|03|25}}
+|{{dts|2013|03|22}}
+|
+|-
+|–
+|[[Sonia L'Heureux]]
+|{{dts|2013|03|25}}
+|{{dts|2013|09|02}}
+|Acting; [[Parliamentary Librarian of Canada|Parliamentary Librarian]] 
+|-
+|2
+|Jean-Denis Fréchette
+|{{dts|2013|09|03}}<ref>{{cite web|url=http://www.appointments.gc.ca/prflOrg.asp?OrgID=LIB&lang=eng|title=Organization Profile - Library of Parliament|publisher=Governor in Council|date=2013-10-10|accessdate=2013-11-11}}</ref>
+|{{dts|2018|09|02}}
+|
+|-
+|3
+|Yves Giroux
+|{{dts|2018|09|03}}<ref name="PBO_Staff">{{cite web |url=https://www.pbo-dpb.ca/en/staff--equipe |title=Staff |work=Parliamentary Budget Officer}}</ref>
+|{{dts|2025|09|02}}
+|
+|-
+|–
+|Jason Jacques
+| September 3, 2025<ref>https://ottawacitizen.com/public-service/new-interim-pbo-jason-jacques</ref>
+|March 3, 2026
+|Interim; six-month term
+|-
+| 4
+| Annette Ryan
+|April 22, 2026
+| current
+|
+|}
+
+==Further reading==
+* Chohan, Usman W. ''[http://www.revparl.ca/36/3/36n3e_13_chohan.pdf Canada and the Global Network of Parliamentary Budget Officers.]''  ''The Canadian Parliamentary Review - Vol XXXVI, No III, Autumn 2013''. 
+* Chohan, Usman W. ''[http://content.yudu.com/A2aytc/three2013/resources/index.htm?referrerUrl=http%3A%2F%2Fwww.cpahq.org%2Fcpahq%2F Fostering a Community of Practice Among Parliamentary Budget Offices of the Commonwealth]'' ''The Parliamentarian Journal - Commonwealth Parliamentary Association - Issue III, 2013. Page 40-43 (198-201).''
+* Chohan, Usman W. ''[http://www.revparl.ca/36/3/36n3f_13_chohan.pdf Le Canada et le Réseau mondial des directeurs parlementaires du budget]''  ''La Revue Parlementaire Canadienne - Vol XXXVI, No III, Automne 2013.'' (French)
+
+== See also ==
+* [[Congressional Budget Office]] (United States) 
+* [[Office for Budget Responsibility]] (United Kingdom)
+* [[National Assembly Budget Office]] (Korea)
+* [[Parliamentary Budget Office]] (Australia)
+
+==References==
+<references/>
+
+==External links==
+* [http://www.pbo-dpb.ca/en/ Parliamentary Budget Officer]
+{{Officers of Parliament in Canada}}
+
+{{authority control}}
+
+[[Category:2006 establishments in Ontario]]
+[[Category:Officers of the Parliament of Canada]]
+[[Category:Economic research institutes]]

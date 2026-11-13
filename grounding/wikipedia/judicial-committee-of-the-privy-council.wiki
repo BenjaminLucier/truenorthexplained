@@ -1,0 +1,487 @@
+{{Short description|Judicial body in the United Kingdom}}
+{{Use dmy dates|date=June 2026}}
+{{Use British English|date=June 2026}}
+{{Infobox high court
+| court_name = Judicial Committee of the Privy Council
+| established = 14 August 1833
+| image = Royal Arms of the United Kingdom (Privy Council) Tudor Crown and Gaelic Harp.svg
+| imagesize = 130px
+| caption = [[Royal Arms of the United Kingdom|Arms]] as used by the Judicial Committee of the Privy Council<ref>{{Cite web | title=The Judicial Committee of the Privy Council | url=https://www.jcpc.uk/ | access-date=1 January 2026 | website=www.jcpc.uk}}</ref>
+| jurisdiction = {{Collapsible list
+  | title = List of countries
+  | framestyle = text-align:left;border:0;padding:0;line-height:16px;
+  | titlestyle = background:transparent;text-align:left;font-weight:normal;
+  | {{Flaglist|Antigua and Barbuda}}
+  | {{Flaglist|The Bahamas}}
+  | {{Flaglist|Grenada}}
+  | {{Flaglist|Jamaica}}
+  | {{Flaglist|St. Kitts and Nevis}}
+  | {{Flaglist|St. Vincent and the Grenadines}}
+  | {{Flaglist|Tuvalu}}
+  | {{Flaglist|Cook Islands}}
+  | {{Flaglist|Niue}}
+  | {{Flaglist|Isle of Man}}
+  | {{Flaglist|Jersey}}
+  | {{Flaglist|Alderney}}
+  | {{Flaglist|Sark}}
+  | {{Flaglist|Guernsey}}
+  | {{Flaglist|Anguilla}}
+  | {{Flaglist|Bermuda}}
+  | {{Flaglist|British Virgin Islands}}
+  | {{Flaglist|Cayman Islands}}
+  | {{Flaglist|Falkland Islands}}
+  | {{Flaglist|Gibraltar}}
+  | {{Flaglist|Montserrat}}
+  | {{Flaglist|Saint Helena}}
+  | {{Flaglist|Ascension}}
+  | {{Flaglist|Tristan da Cunha}}
+  | {{Flaglist|Turks and Caicos}}
+  | {{Flaglist|Pitcairn Islands}}
+  | {{Flaglist|British Antarctic Territory}}
+  | {{Flaglist|British Indian Ocean Territory}}
+  | {{Flaglist|South Georgia and the South Sandwich Islands}}
+  | {{Flaglist|Akrotiri and Dhekelia}}
+  | {{Flaglist|Mauritius}}
+  | {{Flaglist|Trinidad and Tobago}}
+  | {{Flaglist|Kiribati}}
+  | {{Flaglist|Brunei Darussalam}}
+  | {{Flaglist|United Kingdom}}
+  }}
+| location = [[Middlesex Guildhall]], City of Westminster, London, England
+| coordinates = {{coord|51|30|01.3|N|0|07|41.3|W|display=inline,title}}
+| type = <!-- partisan election/non-partisan election/legislative selection/executive selection/cooption/etc -->
+| authority = {{plainlist|
+*Judicial Committee Act 1833
+*Judicial Committee Act 1844}}
+| appeals = 
+| website = {{URL|https://jcpc.uk}}
+| terms = <!-- length of court term for judges-->
+| positions = <!-- number of positions/seats on court-->
+| termend = <!-- year term for current chief as chief ends, if applicable-->
+| termend2 = <!-- year term of current chief ends if applicable-->
+}}
+
+The '''Judicial Committee of the Privy Council''' ('''JCPC''') is the [[Supreme court|highest court of appeal]] for the [[Crown Dependencies]], the [[British Overseas Territories]], some [[Commonwealth of Nations|Commonwealth]] countries and a few institutions in the [[United Kingdom]]. Established on 14 August 1833 to hear appeals formerly heard by the [[King-in-Council]],<ref>{{Cite web|url=https://www.legislation.gov.uk/ukpga/Will4/3-4/41/section/3|title=Judicial Committee Act 1833}}</ref> the Privy Council formerly acted as the court of last resort for the entire [[British Empire]] except for the United Kingdom itself.<ref name="Howell">P. A. Howell, ''The Judicial Committee of the Privy Council, 1833–1876: Its Origins, Structure, and Development'', Cambridge, UK: Cambridge University Press, 1979</ref><ref>{{Cite web |last= |first= |title=Practice direction 1 |url=https://www.jcpc.uk/procedures/practice-direction-01.html |access-date=8 January 2024 |website=The Judicial Committee of the Privy Council}}</ref>
+
+Formally a statutory committee of [[Privy Council (United Kingdom)|His Majesty's Most Honourable Privy Council]], the Judicial Committee consists of [[List of Lords Justices of Appeal|senior judges]] who are privy counsellors; they are predominantly [[Justice of the Supreme Court of the United Kingdom|justices]] of the [[Supreme Court of the United Kingdom]] and senior judges from the Commonwealth of Nations. Although it is often simply referred to as the "Privy Council", the Judicial Committee is only one constituent part of the Council. In [[Commonwealth realm]]s that retain the JCPC as the final court of appeal, appeals are nominally made to "His Majesty in Council" (i.e. the [[British monarch]] as formally advised by his privy counsellors), who then refers the case to the Judicial Committee for "advice". In [[republics in the Commonwealth of Nations]] that retain the JCPC as their final court of appeal, appeals are made directly to the Judicial Committee itself. The panel of judges (typically five) hearing a particular case is known as "the Board". The report of the Board is, by convention, always accepted by the King-in-Council as judgement.
+
+[[File:Judicial Committee of the Privy Council court room 3 in United Kingdom Supreme Court.jpg|thumb|Court 3 in [[Middlesex Guildhall]], the normal location for Privy Council hearings]]
+
+== History ==
+
+The origins of the Judicial Committee of the Privy Council can be traced back to the {{Lang|la|[[curia regis]]}}, or royal council. In theory, the king was the fount of justice, and petitions for redress of wrongs arising from his courts were addressed to him. That power was gradually taken over by [[Parliament of England|Parliament]] (which evolved out of the {{Lang|la|curia regis}}) within England, but the [[King-in-Council]] (which also evolved out of the {{Lang|la|curia regis}}) retained jurisdiction to hear petitions from the King's non-English possessions, such as the [[Channel Islands]] and, later on, from England's colonies.<ref name="Howell" />
+
+The task of hearing appeals was given to a series of short-lived committees of the Privy Council. In 1679, appellate jurisdiction was given to the [[Board of Trade]], before being transferred to a standing Appeals Committee of the Privy Council in 1696.<ref name="Howell_Pages7-13">{{cite book |last1=Howell |first1=P.A. |title=The Judicial Committee of the Privy Council: 1833–1876 Its Origins, Structure and Development |date=2009 |publisher=Cambridge University Press |location=Cambridge |isbn=9780521085595 |pages=7–13 |url=https://books.google.com/books?id=SGmQ7Z-aQ1cC&pg=PA7 |access-date=13 July 2020}}</ref> The Appeals Committee of the Privy Council was one of the earliest judicial bodies which exercised the power of judicial review, in a series of cases from the American colonies which raised questions about the constitutionality of colonial statutes, measured against the royal charters which set out the powers of the colonial governments.<ref>{{cite journal|first=Arthur Meier|last= Schlesinger|author-link =Arthur M. Schlesinger Sr.|url=https://www.jstor.org/stable/214194|title=Colonial Appeals to the Privy Council|journal=[[Political Science Quarterly]]|volume=28|issue=3|date=September 1913|pages=440–446|issn=0032-3195}}</ref><ref>{{cite journal|first=Dudley Odell |last=McGovney|title=The British Origin of Judicial Review of Legislation|journal=[[University of Pennsylvania Law Review]]|volume=93|issue=1|pages=1–49|location=Philadelphia|url=https://www.jstor.org/stable/3333805|date=September 1944}}</ref>
+
+By the early nineteenth century, the growth of the British Empire had greatly expanded the appellate jurisdiction of the Privy Council, which in turn had put great strains on the existing arrangements.<ref name="Howell_Pages7-13" /> The Appeals Committee had to hear cases arising from a variety of different legal systems in the colonies.  In a major speech in the House of Commons in 1828, [[Henry Brougham, 1st Baron Brougham and Vaux|Henry Brougham]] pointed out that the committee heard appeals from some jurisdictions with [[Roman-Dutch law|Dutch law]], some with Spanish law, some with French law, and some with [[Hindu law]], with which its members were unfamiliar.  Even in colonies which used English law, there were also local statutes and variations, so that no colony had the same law.<ref name="Howell_Pages7-13" /><ref>Mance and Turner, ''Privy Council Practice'', para. 1.13, note 44.</ref>
+
+Another serious problem was that the Appeals Committee was technically a [[committee of the whole]] of the entire Privy Council, of which a minimum of three were required for a quorum.<ref name="Howell_Pages7-13" />  Many members of the Privy Council were not lawyers but had an equal right to sit on appeals with legally trained members. There was no requirement that any of the Privy Counsellors actually hearing a particular appeal had to be a lawyer.  Bishops could sit on matters involving the Church of England.<ref>Jonathan Mance and Jacob Turner, ''Privy Council Practice'' (Oxford University Press, 2017), para. 1.12.</ref> It became possible for certain parties to appeal to secure desired judgements by persuading nonlawyer Privy Counsellors to attend the hearings on their appeals.<ref name="Howell_Pages7-13" /> 
+
+The Judicial Committee was also under-resourced.  In his 1828 speech in the House of Commons, Brougham pointed out that in the twelve years up to 1826, the committee sat just nine days a year.<ref>Mance and Turner, ''Privy Council Practice'', para. 1.14.</ref> For these reasons, the Appeals Committee fell into disrepute among better-informed lawyers and judges in the colonies.<ref name="Howell_Pages7-13" />
+
+In 1833, Brougham became the [[Lord Chancellor]].  At his instigation, Parliament passed the '''{{visible anchor|Judicial Committee Act 1833}}''' ([[3 & 4 Will. 4]]. c. 41).The act established the Judicial Committee of the Privy Council, a statutory committee of the Privy Council that would hear appeals to the [[King-in-Council]]. In addition to colonial appeals, later legislation gave the Judicial Committee appellate jurisdiction over a range of miscellaneous matters, such as patents, ecclesiastical matters, and [[Prize (law)|prize]] suits.<ref name="Howell" /><ref>Mance and Turner, ''Privy Council Practice'', paras.1.15–1.20.</ref>  At its height, the Judicial Committee was said to be the court of final appeal for over a quarter of the world.{{cn|date=September 2026}}
+
+In the twentieth century, the jurisdiction of the Judicial Committee of the Privy Council shrank considerably, as British [[dominion]]s established their own courts of final appeal and as British colonies became independent, although many retained appeals to the Privy Council post-independence. Canada abolished Privy Council appeals in 1949, India and South Africa in 1950, [[Australia Act 1986|Australia in 1986]], and New Zealand in 2003. Currently, eleven Commonwealth countries outside of the United Kingdom retain Privy Council appeals, in addition to various British and New Zealand territories. The Judicial Committee also retains jurisdiction over a small number of domestic matters in the United Kingdom, reduced by the creation of the [[Supreme Court of the United Kingdom]] in 2009.
+
+== Jurisdiction ==
+
+===Domestic jurisdiction===
+
+{{CourtsEnglandWales}}
+
+The United Kingdom does not have a single highest national court; the Judicial Committee is the highest court of appeal in some cases, while in most others the highest court of appeal is the [[Supreme Court of the United Kingdom]]. (In Scotland the highest court in criminal cases is the [[High Court of Justiciary]]; the Supreme Court is the highest court in civil cases and matters arising from [[devolution issues|Scottish devolution]], the latter previously having been dealt with by the Judicial Committee.)
+
+The Judicial Committee of the Privy Council has jurisdiction in the following domestic matters:
+*Appeals against schemes of the [[Church Commissioners]] (who control the estate of the [[Church of England]]).
+*Appeals from the [[ecclesiastical court]]s (the [[Arches Court]] of Canterbury and the [[Chancery Court of York]]) in non-doctrinal faculty cases.
+*Appeals from the [[High Court of Chivalry]].<ref>Privy Council Appeals Act 1832 ([[2 & 3 Will. 4]]. c. 92)</ref>
+*Appeals from the [[Admiralty court|Court of Admiralty]] of the [[Cinque Ports]].
+*Appeals from [[prize court]]s or [[High Court of Justice|High Court]] in matters concerning prize 
+*Appeals from the Disciplinary Committee of the [[Royal College of Veterinary Surgeons]].<ref name=":0">{{cite web |title=Role of the JCPC |url=https://www.jcpc.uk/about/role-of-the-jcpc.html |access-date=16 April 2024 |publisher=Judicial Committee of the Privy Council}}</ref>
+*Disputes under the [[House of Commons Disqualification Act 1975]].
+
+Additionally, the government may (through the King) refer any issue to the committee for "consideration and report" under section 4 of the Judicial Committee Act 1833.
+
+The Judicial Committee of the Privy Council is the court of final appeal for the [[Church of England]]. It hears appeals from the [[Court of Arches|Arches Court]] of Canterbury and the [[Chancery Court of York]], except on matters of doctrine, ritual or ceremony, which go to the [[Court of Ecclesiastical Causes Reserved]]. By the [[Church Discipline Act 1840]] ([[3 & 4 Vict.]] c. 86) and the [[Appellate Jurisdiction Act 1876]] all archbishops and bishops of the Church of England became eligible to be members of the Judicial Committee.
+
+Prior to the coming into force of the [[Constitutional Reform Act 2005]], the Privy Council was the court of last resort for [[Devolution in the United Kingdom|devolution]] issues. On 1 October 2009 this jurisdiction was transferred to the new [[Supreme Court of the United Kingdom]].
+
+==== Authority of Privy Council decisions in domestic British courts ====
+
+Judgments of the Judicial Committee are not generally [[Persuasive authority#Binding precedent|binding]] on courts within the [[United Kingdom]], having only [[persuasive authority]], but are binding on all courts within any other [[Commonwealth of Nations|Commonwealth]] country which still allows for appeals to the Judicial Committee. Where a binding precedent of the UK Supreme Court, or of the [[Judicial Committee of the House of Lords|House of Lords]], or of the [[Court of Appeal of England and Wales|Court of Appeal]] conflicts with that of a decision of the Judicial Committee on English law, English courts are required to follow the domestic decision over that of the Judicial Committee except when the Judicial Committee has in its decision expressly directed the domestic court to follow its new decision.<ref>{{cite web|url=https://supremecourt.uk/uploads/uksc_2015_0154a_judgment_41d44310af.pdf|title=Willers v Joyce & Anor. &#91;2016&#93; UKSC 44|publisher=The Supreme Court|access-date=23 July 2016}}</ref> However, given the overlap between the membership of the Judicial Committee and of the Supreme Court, the decisions of the former are extremely persuasive and usually followed.<ref>As in ''[[Bisset v Wilkinson]]'' 1927</ref>
+
+===Overseas jurisdiction===
+
+The Judicial Committee holds [[jurisdiction]] in appeals from the following 32 jurisdictions (including eleven independent nations):
+
+{| class="wikitable sortable"
+|+
+! style="min-width: 200px;" | Jurisdiction
+! style="min-width: 150px;" | Type of jurisdiction
+! Appeals to
+|-
+|{{flag|Anguilla}}
+| rowspan="16" |[[British Overseas Territories|British Overseas Territory]]
+| rowspan="30" | [[King-in-Council|His Majesty in Council]]
+|-
+|{{flag|Bermuda}}
+|-
+|{{flag|British Virgin Islands}}
+|-
+|{{flag|Cayman Islands}}
+|-
+|{{flag|Falkland Islands}}
+|-
+|{{flag|Gibraltar}}
+|-
+|{{flag|Montserrat}}
+|-
+|{{flag|Saint Helena}}
+|-
+|{{flag|Ascension}}
+|-
+|{{flag|Tristan da Cunha}}
+|-
+|{{flag|Turks and Caicos}}
+|-
+|{{flag|Pitcairn Islands}}
+|-
+|{{flag|British Antarctic Territory}}
+|-
+|{{flag|British Indian Ocean Territory}}
+|-
+|{{flag|South Georgia and the South Sandwich Islands}}
+|-
+|{{flag|Akrotiri and Dhekelia}}
+|-
+|{{flag|Isle of Man}}
+| rowspan="3" | [[Crown Dependencies|Crown Dependency]]
+|-
+|{{flag|Jersey}}
+|-
+|{{flag|Guernsey}}
+|-
+|{{flag|Alderney}}
+| rowspan="2" | Parts of the [[Bailiwick of Guernsey]]
+|-
+|{{flag|Sark}}
+|-
+|{{flag|Antigua and Barbuda}}
+| rowspan="7" | [[Commonwealth realm|Commonwealth Realm]]
+|-
+|{{flag|The Bahamas}}
+|-
+|{{flag|Grenada}}
+|-
+|{{flag|Jamaica}}
+|-
+|{{flag|St. Kitts and Nevis}}
+|-
+|{{flag|St. Vincent and the Grenadines}}
+|-
+|{{flag|Tuvalu}}
+|-
+|{{flag|Cook Islands}}
+|rowspan="2" | [[Realm of New Zealand|States in Association with a Commonwealth Realm (New Zealand)]]
+|-
+|{{flag|Niue}}
+|-
+|{{flag|Brunei Darussalam}}
+|Independent Commonwealth monarchy
+| The [[Sultan of Brunei|Sultan]] as head of state; only [[civil cases]] are under the jurisdiction of the Judicial Committee.<ref name=":0" />{{Efn|By agreement with the United Kingdom the Judicial Committee hears cases in which such an appeal has been made, and reports back to him.}}<ref name="brunei">{{cite web|url=http://www.legislation.gov.uk/uksi/1989/2396/made |website=Legislation.gov.uk |title=The Brunei (Appeals) Order 1989|access-date=16 June 2011}}</ref>
+|-
+|{{flag|Mauritius}}
+| rowspan="3" |[[Republics in the Commonwealth of Nations|Republic in the Commonwealth of Nations]]
+| rowspan="2" | Directly to the Judicial Committee.
+|-
+|{{flag|Trinidad and Tobago}}
+|-
+|{{flag|Kiribati}}
+|Directly made to the Judicial Committee, some cases only.{{Efn|Only cases involving certain constitutional rights of [[Banaba]]ns and/or the [[Rabi Council of Leaders|Rabi Council]] are under the jurisdiction of the Judicial Committee.}}<ref name=":0" />
+|}
+
+===Jurisdiction removed===
+
+Judicial appeal of final resort has been assumed by other bodies in some current and former Commonwealth countries:
+ 
+{|class="wikitable sortable"
+|-
+!data-sort-type="text"|Country !!data-sort-type="number"| Date !!data-sort-type="text"|Abolishing statute !!data-sort-type="text"|New court of final appeal !!class="unsortable"|Notes
+|-
+|{{flag|Irish Free State}}|| 1933 
+| [[Constitution (Amendment No. 22) Act 1933]] || [[Supreme Court of the Irish Free State|Supreme Court]] 
+| {{main|Judicial Committee of the Privy Council and the Irish Free State}} [[names of the Irish state|Name changed]] to [[Republic of Ireland|Ireland]] by [[Constitution of Ireland|1937 Constitution]]. Left the Commonwealth via the [[Republic of Ireland Act 1948|Republic of Ireland Act]] in 1949. [[Supreme Court (Ireland)|Supreme Court reconstituted]] in 1961.<ref>{{multiref|
+{{cite web |title=Courts (Establishment and Constitution) Act 1961, s.1 |url=http://www.irishstatutebook.ie/eli/1961/act/38/section/1/enacted/en/html#sec1 |website=electronic Irish Statute Book (eISB) |language=en |date=16 August 1961}}|
+{{cite web |url=http://www.irishstatutebook.ie/eli/1961/si/217/made/en/print |title=S.I. No. 217/1961 – Courts (Establishment and Constitution) Act, 1961 (Commencement) Order, 1961. |date=29 September 1961 |website=electronic Irish Statute Book (eISB) |language=en }}
+}}</ref>
+|-
+|{{flag|Canada|1921}}|| 1949 ||''An Act to Amend the Supreme Court Act'', S.C. 1949 (2nd sess.), c. 37, s. 3. ||[[Supreme Court of Canada]]|| Criminal appeals ended in 1933.<ref>''An Act to amend the Criminal Code'', S.C. 1932–33, c. 53, s. 17.</ref>
+|-
+|{{flag|India}}|| 1949 || Abolition of Privy Council Jurisdiction Act, 1949 || [[Federal Court of India|Federal Court]] || Replaced by the [[Supreme Court of India|Supreme Court]] on 28 January 1950.
+|-
+|{{nowrap|{{flag|Dominion of Newfoundland|name=Newfoundland}}}}|| 1949 || An Act to Amend the Supreme Court Act, S.C. 1949 (2nd sess.), c. 37, s. 3. || [[Supreme Court of Canada]] || Right of appeal continued after Newfoundland joined Canada, until abolished by the federal government for all of Canada
+|-
+|{{flag|Union of South Africa|name=South Africa}}|| 1950 || Privy Council Appeals Act, 1950 || [[Supreme Court of South Africa|Supreme Court Appellate Division]] || Replaced by the [[Supreme Court of Appeal of South Africa|Supreme Court of Appeal]] in 1997.
+|-
+|{{flag|Dominion of Pakistan|name=Pakistan}}|| 1950 || Privy Council (Abolition of Jurisdiction) Act, 1950 || [[Federal Court of Pakistan|Federal Court]] || Replaced by the [[Supreme Court of Pakistan|Supreme Court]] under the [[Constitution of Pakistan of 1956|1956 Constitution]].
+|-
+|{{flag|Dominion of Ghana|name=Ghana}}|| 1960 ||  Constitution (Consequential Provisions) Act 1960 || [[Supreme Court of Ghana|Supreme Court]] || 
+|-
+|{{flagcountry|Tanganyika (1961–1964)}} || 1962 || Appellate Jurisdiction Act, 1962 || [[East African Court of Appeal]] || <ref>{{cite book |last1=Feingold |first1=Ellen R. |title=Colonial Justice and Decolonization in the High Court of Tanzania, 1920–1971 |date= 2018 |publisher=Palgrave MacMillan |isbn=978-3-319-69690-4 |pages=146, 161}}</ref>
+|-
+|{{flag|Federation of Nigeria|name=Nigeria}} || 1963 || 1963 Constitution || [[Supreme Court of Nigeria|Supreme Court]] || 
+|-
+|{{flag|Kenya}} || 1964 || [[Constitution of Kenya (Amendment) Act, 1965]]<ref>{{cite web |title=Constitution of Kenya (Amendment) Act, 1965 |url=http://www.kenyalaw.org/kl/fileadmin/pdfdownloads/Constitution/HistoryoftheConstitutionofKenya/Acts/1965/ActNo.14of1965.pdf |website=kenyalaw.org |access-date=30 September 2020}}</ref> || [[East African Court of Appeal]] || 
+|-
+|{{flag|Malawi (1964-1966)|name=Malawi}} || 1965 || [[Constitution of Malawi (Amendment) Act, 1965]]|| [[Supreme Court of Appeal of Malawi]]||
+|-
+|{{flag|Uganda}} || 1966 || 1966 Constitution || [[East African Court of Appeal]] || Criminal and civil appeals ended in 1964.<ref>{{cite web |title=Appellate Jurisdiction (Amendment) Act, 1964 |url=https://books.google.com/books?id=3Lk_AQAAIAAJ&pg=PA343 |website=1964 Statutes and Subsidiary Legislation|author1 = Uganda|year = 1964}}</ref>
+|-
+| {{flag|Australia}} || 1968 || Privy Council (Limitation of Appeals) Act 1968<ref>{{cite news|url=https://www.legislation.gov.au/Details/C2004C00594|title=Privy Council (Limitation of Appeals) Act 1968|publisher=Federal Register of Legislation}}</ref> || [[High Court of Australia|High Court]] || Abolished appeals of cases originating in federal and territory courts.
+|-
+|{{flag|Lesotho|1966}}|| 1970 || [[Court of Appeal and High Court Order 1970]]|| [[Court of Appeal of Lesotho]]||<ref>{{cite journal|url=https://opendocs.ids.ac.uk/opendocs/bitstream/handle/123456789/6474/SSP8-S.Poulter.pdf#page=4 |format=PDF|title=No.8: Dual Marriages in Lesotho|last=Poulter|first=Sebastian|date=November 1977|journal=National University of Lesotho, Faculty of Social Sciences, Staff Seminar Papers|page=3|access-date=17 April 2018}}</ref><ref>{{cite journal |last1=Pain |first1=JH |title=The reception of English and Roman-Dutch law in Africa with reference to Botswana, Lesotho and Swaziland |journal=The Comparative and International Law Journal of Southern Africa |date=July 1978 |volume=11 |page=166}}</ref>
+|-
+|{{flag|Sierra Leone}}|| 1971 || 1971 Constitution<ref>{{cite web |title=Sierra Leone – Government and society |url=https://www.britannica.com/place/Sierra-Leone/Government-and-society#ref274787 |website=Britannica |access-date=22 February 2021}}</ref> || [[Supreme Court of Sierra Leone|Supreme Court]] || 
+|-
+|{{flag|Ceylon|1951}}|| 1971 || Court of Appeal Act No. 44 of 1971<ref>{{cite web |title=Court of Appeal Act (No. 44 of 1971) –Sect 18 |url=http://www.commonlii.org/lk/legis/num_act/coaa44o1971203/s18.html |website=CommonLII |access-date=26 October 2020}}</ref> || [[Court of Appeal of Sri Lanka|Court of Appeal]] || 
+|-
+|{{flag|State of Malta|name=Malta}}|| 1972 || [[Constitution of Malta (Amendment) Act, 1972]]<ref>{{cite web |last1=Busuttil |first1=Edwin |title=Malta |url=http://uniset.ca/microstates2/mt_intl-ency-comp-l.pdf |website=International Encyclopedia of Comparative Law Online |access-date=22 February 2021}}</ref> || [[Constitutional Court of Malta]]||
+|-
+|{{flag|Guyana}}|| 1973 || Constitution (Amendment) Act 1973<ref>{{cite web |title=Constitution (Amendment) Bill 1973 |url=http://old.parliament.gov.gy/chamber-business/bill-status/constitution-amendment-bill-1973/ |publisher=Parliament of Guyana |access-date=30 April 2021}}</ref> || [[Court of Appeal of Guyana]]|| 	Criminal and civil appeals ended in 1970.<ref>{{cite web |title=Judicial Committee of The Privy Council (Termination of Appeals) Act 1970 |url=https://parliament.gov.gy/publications/acts-of-parliament/judicial-committee-of-the-privy-council-termination-of-appeals-act-1970 |website=Parliament of the Co-operative Republic of Guyana |access-date=14 December 2021}}</ref><br />Since 2005 the [[Caribbean Court of Justice]] hears appeals from Guyana's Court of Appeal.
+|-
+|{{flag|Botswana}}|| 1973 || [[Judicial Committee (Abolition of Appeals) Act 1973]]<ref>{{cite web |title=Judicial Committee (Abolition of Appeals) Act, 1973 |url=https://botswanalaws.com/StatutesActpdf/1973Actpdf/JUDICIAL%20COMMITTEE%20(ABOLITION%20OF%20APPEALS)%20ACT,%2019%20OF%201973.pdf |website=botswanalaws.com |access-date=26 October 2020}}</ref> || Court of Appeal || 
+|-
+|{{flag|Malaysia}}|| 1985 || [[Constitution (Amendment) Act 1983]]<br />Courts of Judicature (Amendment) Act 1984 || [[Supreme Court of Malaysia|Supreme Court]] || The Supreme Court was called the Federal Court until the 1985 change and reverted to the old name in 1994.
+|-
+|{{collapsible list|title={{nobold|{{flag|Australia}} – state courts}}|{{flag|New South Wales}}|{{flag|Queensland}}|{{flag|South Australia}}|{{flag|Tasmania}}|{{flag|Victoria}}|{{flag|Western Australia}}}}
+| 1986 || [[Australia Act 1986]] || [[High Court of Australia|High Court]] || Abolished appeals of cases originating in state courts.
+|-
+|{{flag|Fiji}}  || 1987 || Fiji Judicature Decree 1987<ref>{{cite web |title=Fiji Judicature Decree 1987 |url=http://www.paclii.org/fj/promu/promu_dec/fjd1987166/ |website=Paclii |access-date=14 December 2021}}</ref> || Court of Appeal ||
+|-
+|{{flag|Singapore}}|| 1994 || [[Judicial Committee (Repeal) Act 1994]]|| [[Court of Appeal of Singapore|Court of Appeal]] ||
+|-
+|data-sort-value="Gambia"|{{flag|The Gambia}}|| 1998 || 1997 [[Constitution of the Gambia]] || [[Supreme Court of the Gambia|Supreme Court]] || A restructure of the Gambian judiciary by [[Yahya Jammeh]], which made the Supreme Court of The Gambia the highest court instead of being below the [[Court of Appeal of the Gambia]] as was the case under the [[1970 Constitution of the Gambia]].
+|-
+|{{flag|New Zealand}}|| 2004 || [[Supreme Court Act 2003]] || [[Supreme Court of New Zealand|Supreme Court]] ||
+|-
+|{{flagcountry|BRB}}|| 2005 || Constitution (Amendment) Act, 2003  || rowspan="4" | [[Caribbean Court of Justice]] || 
+|-
+|{{flagcountry|BLZ}}|| 2010 || Belize Constitution (Seventh Amendment) Act, 2010 || 
+|-
+|{{flagcountry|DMA}}|| 2015 || Constitution of Dominica (Amendment) Act, 2014 || 
+|-
+|{{flagcountry|LCA}}|| 2023 || Constitution of Saint Lucia (Amendment) Act, 2023<ref>{{cite news|title=In Saint Lucia, parliament passes constitutional amendment to replace Privy Council with Caribbean Court of Justice as final court of appeal|url=https://constitutionnet.org/news/saint-lucia-parliament-passes-constitutional-amendment-replace-privy-council-caribbean-court|access-date=20 June 2023|work=ConstitutionNet|date=2 March 2023}}</ref> || 
+|}
+
+The following countries or territories did not retain the jurisdiction of the Judicial Committee at the time of independence or of the transfer of sovereignty from the United Kingdom: [[Burma]] (1948), [[Israel]] (1948), [[State of Somaliland|Somaliland]] (1960), [[Cyprus]] (1960), [[Zanzibar]] (1963), [[Zambia]] (1964), [[Rhodesia]] (1965), [[South Yemen]] (1967), [[Swaziland]] (1968), [[Papua New Guinea]] (1975), [[Seychelles]] (1976), [[Solomon Islands]] (1978), [[Vanuatu]] (1980), [[Hong Kong]] (1997).{{citation needed|date=January 2024}}
+
+==Composition==
+
+===Members===
+
+The following are members of the Judicial Committee:
+
+*Justices of the [[Supreme Court of the United Kingdom]] (before the establishment of that court in 2009, the [[Lords of Appeal in Ordinary]])
+*Other Lords of Appeal (senior judges) from within the United Kingdom
+*Privy Counsellors who are (or have been) judges of the [[Court of Appeal of England and Wales]], the [[Inner House]] of the [[Court of Session]] in Scotland, or of the [[Court of Appeal in Northern Ireland]]
+*Judges of certain superior courts in Commonwealth nations, who are appointed Privy Counsellors for the purpose of sitting in the JCPC
+
+The bulk of the Committee's work is done by the Supreme Court Justices, who are paid to work full-time in both the Supreme Court and the Privy Council. Overseas judges may not sit when certain UK domestic matters are being heard, but will often sit when appeals from their own countries are being heard.
+
+=== Registrars ===
+
+{{colbegin|colwidth=}}
+* Henry Reeve, 1853–1887<ref>Laughton, John Knox [https://books.google.com/books?id=XpnhZH5hDCoC&dq=henry+reeve+%22registrar+of+the+Privy+Council&pg=PT564 "Memoirs of the Life and Correspondence of Henry Reeve, C.B., D.C.L ..., Volume 2"], p. 564.</ref>
+* [[Denison Faber, 1st Baron Wittenham]], 1887–1896<ref name="TT07021900">{{Cite newspaper The Times |title=Election intelligence |date=7 February 1900 |page=11 |issue=36059}}</ref>
+* [[Thomas Raleigh|Sir Thomas Raleigh]], 1896–1899<ref>[https://www.thegazette.co.uk/London/issue/26715/page/1123/data.pdf ''The London Gazette'', 25 February 1896], p. 1123a</ref>
+* Edward Stanley Hope,  1899–1909<ref>Wall, Edgar G. (1903) [https://archive.org/stream/britishempireyea1190wall#page/4/mode/2up "The British Empire yearbook"], London: Edward Stanford, p. 4.</ref>
+* Sir Charles Henry Lawrence Neish, 1909–1934<ref name="Neish">{{cite web|title=Dundee at War|url=http://www.archives-records-artefacts.blogspot.com/2012/03/dundee-at-war.html|work=Archives Records and Artefacts at the University of Dundee|date=23 March 2012|publisher=[[University of Dundee]]|access-date=22 December 2015}}</ref><ref>Portrait by John Mansfield Crealock at [http://www.gac.culture.gov.uk/work.aspx?obj=35029&tid=131950 Sir Charles Henry Lawrence Neish (1857–1934)]. Government Art Collection. Retrieved</ref>
+* Colin Smith, 1934–1940
+* Lieutenant-Colonel John Dallas Waters, 1940–1954<ref>''The London Gazette'', 1 November 1940, p. 6348a</ref><ref>Waters's brother, Major Philip Duncan Joseph Waters, was the commander of the firing squad that executed [[Josef Jakobs]], the last person executed in the [[Tower of London]]. [http://www.josefjakobs.info/2014/04/major-pdj-waters-commander-of-firing.html Major P.D.J. Waters – Commander of the Firing Squad that Executed Josef Jakobs]. Retrieved 6 May 2017.</ref>
+* Aylmer J. N. Paterson, 1954–1963
+* Leslie Upton, 1963–1966
+* Eric Mills, 1966–1983<ref>Swinfen, David B. [https://books.google.com/books?id=wtlRAQAAIAAJ ''Imperial Appeal: The Debate on the Appeal to the Privy Council, 1833–1986''], p. vii.</ref>
+* D. H. O. Owen, 1983–1998
+* John Watherston, 1998–2005
+* Mary Macdonald, 2005–2010
+* Louise di Mambro, 2011–2022
+* Laura Angus 2022–present<ref name="Executive Team">[https://www.jcpc.uk/about/executive-team.html "Executive Team"]. ''Judicial Committee of the Privy Council''. Retrieved 14 October 2023.</ref>
+* Celia Cave 2023–present<ref name="Executive Team"/>
+{{colend}}
+Until 1904 the Registrar of the [[Admiralty court]] was also Registrar to the Judicial Committee of the Privy Council in ecclesiastical and maritime causes.<ref>[http://discovery.nationalarchives.gov.uk/details/r/C142 "Records of the High Court of Admiralty and colonial Vice-Admiralty courts"]. ''National Archives''. Retrieved 6 May 2017.</ref>
+
+== Procedure ==
+
+Most appeals to the Judicial Committee of the Privy Council are formally appeals to "His Majesty in Council". Appeals from Brunei are formally to the [[Sultan of Brunei|Sultan and Yang di-Pertuan]], while appeals from republics within the Commonwealth are directly to the Judicial Committee. Appeals are generally by leave of the local Court of Appeal, although the Judicial Committee retains discretionary power to grant leave to appeal as well.
+
+After hearing an appeal, the panel of judges which heard the case (known as "the Board") issues its decision in writing. For appeals to His Majesty in Council, the Board submits its decision to the King as advice for his consideration. By convention, the advice is always accepted by the King and given effect via an [[Order in Council]].
+
+Historically, the Judicial Committee could only give a unanimous report, but since the Judicial Committee (Dissenting Opinions) Order 1966, [[dissenting opinion]]s have been allowed.
+
+The Judicial Committee is not bound by its own previous decisions, but may depart from them in exceptional circumstances if following its previous decisions would be unjust or contrary to public policy.<ref>{{Cite web|url=http://www.bailii.org/uk/cases/UKPC/2007/52.html|title=Gibson v. United States of America (The Bahamas) [2007] UKPC 52 (23 July 2007).}}</ref>
+
+== Location ==
+
+The Judicial Committee of the Privy Council is based in London. From its establishment to 2009, it mainly met in the [[Privy Council Chamber]] in [[Downing Street]], although increase in the Judicial Committee's business in the twentieth century required it to sit simultaneously in several panels, which met elsewhere. The Chamber, designed by [[John Soane]], was often criticised for its interior design, and was extensively remodelled in 1845 by [[Charles Barry|Sir Charles Barry]].<ref name="Howell" /> On 1 October 2009, the Judicial Committee moved to the former [[Middlesex Guildhall]] building, which had been refurbished in 2007 to provide a home for both the JCPC and the newly created [[Supreme Court of the United Kingdom]]. In this renovated building, Court 3 is used for Privy Council sittings.
+
+In recent years, the Judicial Committee has occasionally sat outside of London. Between 2005 and 2010, it sat twice in Mauritius and three times in The Bahamas.
+
+==Decline in Commonwealth appeals==
+
+Initially, all [[Commonwealth realm]]s and their territories maintained a right of appeal to the Privy Council. Many of those [[Commonwealth of Nations|Commonwealth]] countries that became republics, or which had indigenous monarchies, preserved the Judicial Committee's jurisdiction by agreement with the United Kingdom. However, retention of a right of appeal to a court located overseas, made up mostly of British judges who may be out of tune with local values, has often come to be seen as incompatible with notions of an independent nation's sovereign status, and so a number of Commonwealth members have ended the right of appeal from their jurisdiction. The [[Balfour Declaration of 1926]], while not considered to be ''[[lex scripta]]'', severely limited the conditions under which the Judicial Committee might hear cases:<ref>{{Cite web|url=http://www.foundingdocs.gov.au/resources/transcripts/cth11_doc_1926.pdf|title=Imperial conference 1926: Inter-Imperial Relations Committee Report, Proceedings and Memoranda, E (I.R./26) Series}}</ref>
+
+{{Blockquote|text=From these discussions it was clear that it was no part of the policy of His Majesty's Government in Great Britain that questions affecting judicial appeals should be determined otherwise than in accordance with the wishes of the part of the Empire primarily affected}}
+
+===Australia===
+
+In 1901, the [[Constitution of Australia]] limited appeals from the new federal [[High Court of Australia]] to the Privy Council, by prohibiting appeals on constitutional matters unless leave is granted by the High Court on ''inter se'' questions. Appeals on non-constitutional matters were not prohibited, but the federal [[Parliament of Australia]] had the power to legislate to limit them. The right of appeal from federal courts (including territory supreme courts) was abolished through the Privy Council (Limitation of Appeals) Act 1968.<ref>[http://www.austlii.edu.au/au/legis/cth/consol_act/pcoaa1968370/ Privy Council (Limitation of Appeals) Act 1968 (Cth)].</ref><ref>[http://www.austlii.edu.au/au/legis/cth/consol_act/pcfthca1975417/ ''Privy Council (Appeals from the High Court) Act 1975'' (Cth)].</ref> Appeals from state courts, a continuation of the right to appeal decisions of colonial courts before 1901, continued, until they were also abolished by the [[Australia Act 1986]], which was enacted by both the UK and Australian parliaments, on the request of all the state governments. The [[Constitution of Australia|Australian Constitution]] retains the provision allowing the [[High Court of Australia]] to permit appeals to the Privy Council on ''[[inter se]]'' questions. However, the only time such permission was given was in 1912<ref>{{Citation |title=Colonial Sugar Refining Co Ltd v Attorney-General (Cth) |date=22 October 1912 |issue=94 |url=http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1912/94.html |access-date=}}</ref> and the High Court has stated that it will not grant it again, since the jurisdiction to do so "has long since been spent", and it is obsolete.<ref>{{Citation |title=Kirmani v Captain Cook Cruises Pty Ltd (No 2) |date=17 April 1985 |issue=27 |url=http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1985/27.html |access-date=}}</ref>
+
+===Canada===
+
+{{See also|List of Canadian appeals to the Judicial Committee of the Privy Council}}
+
+Canada created its own [[Supreme Court of Canada|Supreme Court]] in 1875 and abolished appeals to the Privy Council in criminal cases in 1933.<ref>''Criminal Procedure Amendment Act'', S.C. 1888, c. 43, s. 1</ref> Despite this, some decisions by the Supreme Court of Canada went on to appeal in the JCPC, including notably the [[Persons Case]] (''Edwards v Canada (AG)''), which affirmed that women had always been "qualified persons" under the [[British North America Act, 1867]] (Canada's [[Constitution of Canada|Constitution]]) eligible to sit in the [[Senate of Canada]]. In this case, it also used a metaphor in the ''[[obiter dicta]]'', later reinterpreted and employed by the Supreme Court of Canada in the 1980s to establish what came to be known as the "[[living tree doctrine]]" in Canadian Constitutional law, which says that a constitution is organic and must be read in a broad and liberal manner so as to adapt it to changing times.
+
+In 1949, all appeals to the Privy Council were abolished, but prior to this, there were several factors that served to limit the effectiveness of measures to reduce appeals:
+
+*Appeals of rulings from the various provincial courts of appeal could still be made directly to the Privy Council, without first going to the [[Supreme Court of Canada]].
+*In ''[[Cushing v. Dupuy]]'' (1885),<ref>{{cite BAILII |litigants=Charles Cushing v Louis Dupuy |court=UKPC |year=1880 |num=22 |date=15 April 1880 |parallelcite=(1880) 5 AC 409 |courtname=P.C. |juris=Quebec |format=1}}</ref> the Privy Council held that the ability to grant special leave to appeal to the Privy Council was unaffected, as the prerogative of the Crown cannot be taken away except by express words.
+*In ''[[Nadan v The King]]'' (1926),<ref>{{cite BAILII |litigants=Frank Nadan v The King |court=UKPC |year=1926 |num=13 |date=25 February 1926 |parallelcite=[1926] AC 482 |courtname=P.C. |juris=Alberta |format=1}}</ref> the Privy Council ruled that the provision of the [[Criminal Code (Canada)|Criminal Code]] barring appeals to the Privy Council was ''[[ultra vires]]'' of the [[Parliament of Canada]] as it was contrary to s. 2 of the [[Colonial Laws Validity Act 1865]].
+
+''Nadan'', together with the [[King–Byng Affair]], was a major irritant for Canada and provoked the discussion at the [[1926 Imperial Conference]] which led to the [[Balfour Declaration 1926|Balfour Declaration]], which declared the United Kingdom and the [[dominion]]s to be
+{{blockquote|... autonomous Communities within the [[British Empire]], equal in status, in no way subordinate one to another in any aspect of their domestic or external affairs, though united by a common allegiance to [[the Crown]], and freely associated as members of the British [[Commonwealth of Nations]].}}
+
+With that Declaration and its statutory confirmation in the [[Statute of Westminster 1931]] (Imp, 22–23 Geo 5, c.4)<ref name=westminster>{{Cite web|url=https://www.legislation.gov.uk/ukpga/Geo5/22-23/4/contents|title=Statute of Westminster 1931}}</ref> the impediment to abolishing appeals to the Privy Council, whether or not it had been legitimate, was comprehensively removed. Criminal appeals to the Privy Council were ended in 1933. Moves to extend the abolition to civil matters were shelved during the growing international crisis of the 1930s but re-tabled after the [[Second World War]], and civil appeals ended in 1949, with an amendment of the Supreme Court Act.<ref>{{Cite web|url=http://www.canadiana.ca/citm/glossaire/glossaire1_e.html#jcpc|title=Glossary entry: "Judicial Committee of the Privy Council" at canadiana.ca|access-date=12 November 2013|archive-date=31 October 2013|archive-url=https://web.archive.org/web/20131031093130/http://www.canadiana.ca/citm/glossaire/glossaire1_e.html#jcpc|url-status=dead}}</ref> Cases begun before 1949 were still allowed to appeal after 1949, and the final case to make it to the Council was not until 1959 with the case of ''[[Ponoka-Calmar Oils v Wakefield]]''.<ref>{{cite BAILII |litigants=Ponoka-Calmar Oils Ltd. and another v Earl F. Wakefield Co. And others |court=UKPC |year=1959 |num=20 |date=7 October 1959 |parallelcite=[1960] AC 18 |courtname=P.C. |juris=Canada |format=1}}</ref>
+
+The JCPC played a controversial role in the evolution of Canadian [[federalism]] in that, whereas some Fathers of Confederation in negotiating the union of the British North American colonies against the backdrop of the American Civil War wished to ensure a strong central government vis-à-vis relatively weak provinces, appeals to the JCPC in constitutional matters progressively shifted the balance in favour of the provinces.<ref>Hogg, Peter W. Constitutional Law of Canada, 4th ed. Toronto: Carswell, 2003, ss. 5.3(a)–(c); 2004 Student Edition Abridgment, ss. 5.3(a)–(c), pp. 117–120</ref> While a few commentators have suggested that Canadian [[First Nations in Canada|First Nations]] retain the right to appeal to the Privy Council because their treaties predate their relationship to Canada, the JCPC has not entertained any such appeal since 1867 and the dominant view is that no such appeal right exists.<ref>{{cite book|title=Native Liberty, Crown Sovereignty|publisher=McGill-Queen's University Press|year=1990|author=Bruce Clark|isbn=9780773507678}}{{page needed|date=October 2024}}</ref>
+
+===Caribbean Community===
+
+The nations of the [[Caribbean Community]] voted in 2001 to abolish the right of appeal to the Privy Council in favour of a [[Caribbean Court of Justice]] (CCJ). Some debate between member countries and also the Judicial Committee of the Privy Council<ref>{{cite web | title = Bombshell ruling – Privy Council says passage of CCJ unconstitutional | publisher = Jamaica Gleaner | url = http://www.jamaica-gleaner.com/gleaner/20050204/lead/lead1.html | access-date = 16 June 2007 | archive-date = 13 September 2012 | archive-url = https://web.archive.org/web/20120913045258/http://jamaica-gleaner.com/gleaner/20050204/lead/lead1.html | url-status = dead }}</ref><ref>{{cite web|title=Privy Council Decision should not halt Caribbean Court |publisher=Caribbean Net News |url=http://www.caribbeannetnews.com/2005/02/08/sanders.shtml |access-date=16 June 2007 |url-status=dead |archive-url=https://web.archive.org/web/20060225193604/http://www.caribbeannetnews.com/2005/02/08/sanders.shtml |archive-date=25 February 2006 }}</ref> had repeatedly delayed the court's date of inauguration. As of 2005, [[Barbados]] replaced the process of appeals to Her Majesty in Council with the CCJ, which had then come into operation. The [[Co-operative Republic of Guyana]] also enacted local legislation allowing the CCJ to have jurisdiction over their sovereign final court of appeals system. [[Belize]] acceded to the Appellate Jurisdiction of the CCJ on 1 June 2010. As it stands, a few other CARICOM states appear to be ready for the abolition of appeals to the Judicial Committee of the Privy Council in the immediate future. The government of [[Jamaica]] in particular had come close and attempted to abolish appeals to the Judicial Committee without the support of the opposition in Parliament; however, it was ruled by the Judicial Committee of the Privy Council that the procedure used in Jamaica to bypass the opposition was incorrect and unconstitutional.<ref>{{cite web | title = CCJ blow | publisher = Jamaica Observer Newspaper | url = http://www.jamaicaobserver.com/news/html/20050203T220000-0500_74458_OBS_CCJ_BLOW.asp | access-date =16 June 2007 |archive-url = https://web.archive.org/web/20070607000002/http://www.jamaicaobserver.com/news/html/20050203T220000-0500_74458_OBS_CCJ_BLOW.asp <!-- Bot retrieved archive --> |archive-date = 7 June 2007}}</ref> Another attempt will also be forthcoming.<ref>{{Cite news|url=https://www.bbc.com/news/world-18668861|title=Jamaica's London appeal court dilemma|work=BBC News |date=1 July 2012}}</ref>
+
+Caribbean governments have been coming under increased pressure from their electorates<ref>{{cite news | title = Death-Row Rule Sours Caribbean on Britain | work = [[The New York Times]] | url = https://www.nytimes.com/1997/07/07/world/death-row-rule-sours-caribbean-on-britain.html?scp=7&sq=British%20High%20Commissioner%20Barbados&st=cse | access-date =24 June 2009 | first=Larry | last=Rohter | date=7 July 1997}}</ref> to devise ways to override previous rulings by the JCPC such as ''[[Pratt v A-G]]'' (Jamaica, 1993),<ref>{{Cite web|url=https://webarchive.nationalarchives.gov.uk/ukgwa/20101103140224/http://www.privy-council.org.uk/files/other/PRATTJ~1.rtf|title=UK Government Web Archive: JCPC Judgment: ''Earl Pratt and Ivan Morgan v. The Attorney General for Jamaica'', Appeal No. 10 of 1993|website=webarchive.nationalarchives.gov.uk}}</ref> ''[[R v Hughes]]'' (Saint Lucia, 2002), ''[[Fox v R]]'' (Saint Kitts and Nevis, 2002), ''[[Reyes v R]]'' (2002, Belize), ''[[Boyce v R]]'' (Barbados, 2004), and ''[[Matthew v S]]'' (Trinidad and Tobago, 2004), all of which are Privy Council judgements concerning the death penalty in the Caribbean region.<ref>[https://www.usatoday.com/news/topstories/2008-11-11-1708983066_x.htm Spurning Europe, Caribbean pushes death penalty] By Mike Melia  (Associated Press) – 11 November 2008</ref><ref>[http://news.bbc.co.uk/1/hi/world/americas/4185745.stm Letter: Colonial power over death penalty] By Therese Mills  (BBC) – Wednesday, 19 January 2005, 19:15 GMT</ref><ref>[http://archive.nationnews.com/archive_detail.php?archiveFile=2008/January/17/Regional/51927.xml&start=0&numPer=20&keyword=Pratt+Morgan&sectionSearch=&begindate=1%2F1%2F2008&enddate=12%2F2%2F2008&authorSearch=&IncludeStories=1&pubsection=&page=&IncludePages=1&IncludeImages=1&mode=allwords&archive_pubname=Daily+Nation%0A%09%09%09 T & T pushing death penalty] {{Webarchive|url=https://web.archive.org/web/20161013092107/http://archive.nationnews.com/archive_detail.php?archiveFile=2008%2FJanuary%2F17%2FRegional%2F51927.xml&start=0&numPer=20&keyword=Pratt+Morgan&sectionSearch=&begindate=1%2F1%2F2008&enddate=12%2F2%2F2008&authorSearch=&IncludeStories=1&pubsection=&page=&IncludePages=1&IncludeImages=1&mode=allwords&archive_pubname=Daily+Nation%0A%09%09%09 |date=13 October 2016 }} Nation Newspaper – 17 January 2008</ref>
+
+The then President of the [[Supreme Court of the United Kingdom]], [[Lord Phillips of Worth Matravers]], has voiced displeasure with [[Anglophone Caribbean|Caribbean]] and other [[Commonwealth of Nations|Commonwealth countries]] continuing to rely on the British JCPC. During an interview, Phillips was quoted by the ''[[Financial Times]]'' as saying that {{"'}}in an ideal world' Commonwealth countries—including those in the Caribbean—would stop using the Privy Council and set up their own final courts of appeal instead".<ref>[https://www.bbc.co.uk/caribbean/news/story/2009/09/090922_privyccjphillips.shtml Privy Council's Caribbean complaint] By Staff Writer, (BBCCaribbean.com) Tuesday, 22 September 2009 – Published 18:08 GMT</ref>
+
+On 18 December 2006, the Judicial Committee made history when for the first time in more than 170 years it ventured outside London, holding a five-day sitting in [[The Bahamas]]. Lords Bingham of Cornhill, Brown of Easton-under-Heywood, Carswell and Scott of Foscote, and Baroness Hale of Richmond, travelled to The Bahamas for the special sitting at the invitation of [[Joan Sawyer (judge)|Dame Joan Sawyer]], then the [[President of the Court of Appeal of the Bahamas]];<ref>[http://www.thebahamasinvestor.com/2007/never-before-in-the-history-of-england/ Never before in the history of England] By Clifford Bishop, (The Bahamas Investor Magazine), 27 June 2007</ref> the Committee returned to The Bahamas in December 2007 for a second sitting. On the latter occasion, Lords Hope of Craighead, Rodger of Earlsferry, Walker of Gestingthorpe, and Mance, and Sir Christopher Rose, heard several cases. At the end of the sitting, Lord Hope of Craighead indicated that there may be future sittings of the Committee in The Bahamas,<ref>[http://www.jonesbahamas.com/print.php?a=15218 Privy Council Sitting In Bahamas For Second Time] {{Webarchive|url=https://web.archive.org/web/20110718221944/http://www.jonesbahamas.com/print.php?a=15218 |date=18 July 2011 }} By Tosheena Robinson-Blair, (The Bahama Journal), 18 December 2007</ref> and the Committee has indeed sat in the Bahamas again, in 2009.<ref>{{Cite web|url=https://www.bahamaslocal.com/newsitem/485/Privy_Council_Judicial_Committee_on_third_working_visit_in_The_Bahamas.html|title=Privy Council Judicial Committee on third working visit in The Bahamas &#124; Nassau / Paradise Island, Bahamas &#124; Bahamas Local News – Nassau / Paradise Island, Bahamas|website=www.bahamaslocal.com}}</ref>
+
+The [[2018 Antiguan constitutional referendum]] saw the proposal to replace the JCPC with the CCJ rejected by a 52.04% majority.
+
+On 28 February 2023, the parliament of Saint Lucia approved the Constitution of St Lucia Amendment Bill 2023, which would replace the JCPC with the CCJ.<ref>{{Cite web |date=1 March 2023 |title=Parliament approves move to make CCJ St Lucia's final court |url=https://jamaica-gleaner.com/article/caribbean/20230301/parliament-approves-move-make-ccj-st-lucias-final-court |website=[[The Gleaner]]}}</ref>
+
+An injunction against Saint Lucia's accession to the CCJ was filed on 3 March 2023 against the bill in the [[Eastern Caribbean Supreme Court]] in the High Court of Justice of Saint Lucia, and is currently pending.<ref>{{Cite web|url=https://menafn.com/1105731432/Injunction-Filed-In-Matter-Of-St-Lucias-Accession-To-CCJ|title=Injunction Filed In Matter Of 'St Lucia's Accession To CCJ'|website=menafn.com}}</ref>
+
+===Sri Lanka (Ceylon)===
+
+[[Sri Lanka]], formerly [[Dominion of Ceylon|Ceylon]], abolished appeals to the Privy Council under the Court of Appeal Act, 1971, which came into effect on 15 November 1971.<ref>{{cite web |title=SRI LANKA REPUBLIC BILL [Lords] (Hansard, 18 July 1972) |url=https://api.parliament.uk/historic-hansard/commons/1972/jul/18/sri-lanka-republic-bill-lords#S5CV0841P0_19720718_HOC_459 |website=parliament.uk |access-date=26 October 2020}}</ref> Previously, the Privy Council had ruled in ''[[Ibralebbe v The Queen]]'' that it remained the highest court of appeal in Ceylon notwithstanding the [[Independence of Sri Lanka|country's independence]] as a [[British Dominions|dominion]] in 1948.<ref>''[[Ibralebbe v The Queen]]'' [1964] AC 900</ref>
+
+===The Gambia===
+
+[[The Gambia]] retained the right of appeal to the Judicial Committee of the Privy Council under the [[Gambia Independence Act 1964]], even after The Gambia became a republic in the Commonwealth of Nations in April 1970 under [[Dawda Jawara|Sir Dawda Jawara]]. Appeals were still taken to the JCPC from 1994 to 1998, when [[Yahya Jammeh]], the then dictator and [[President of the Gambia]] decided to restructure the [[Gambian judiciary]] under the 1997 [[Constitution of the Gambia]] to replace the JCPC with the [[Supreme Court of the Gambia]].
+
+The last case from The Gambia to the JCPC was ''[[West Coast Air Limited v. Gambia Civil Aviation Authority and Others]]'' UKPC 39 (15 September 1998).<ref>{{cite BAILII|litigants=West Coast Air Limited v. Gambia Civil Aviation Authority and Others|court=UKPC|year=1998|num=39|date=15 September 1998|courtname=auto|juris=The Gambia|ref=}}</ref>
+
+===Grenada===
+
+[[Grenada|Grenadian]] appeals to the Privy Council were temporarily abolished from 1979 until 1991, as a result of the [[Grenadian Revolution]], which brought Prime Minister [[Maurice Bishop]] to power. [[People's Law 84]] was enacted to this effect. In 1985, ''[[Mitchell v DPP]]'' affirmed Grenada's right to unilaterally abolish appeals to the Privy Council. In 1991, Grenada restored the JCPC's jurisdiction.
+
+In 2016, there was a proposal in the [[2016 Grenadian constitutional referendum]] to terminate appeals from Grenada to the JCPC and to replace the JCPC with the [[Caribbean Court of Justice]]. This was rejected by a 56.73% majority, which means the JCPC remains Grenada's highest court.
+
+Another referendum, the [[2018 Grenadian constitutional referendum]] also rejected terminating appeals to the JCPC by a 55.2% majority.
+
+===Guyana===
+
+[[Guyana]] retained the right of appeal to the Privy Council until the government of Prime Minister [[Forbes Burnham]] passed the Judicial Committee of the Privy Council (Termination of Appeals) Act 1970 and the Constitution (Amendment) Act 1973.
+
+===Hong Kong===
+
+Hong Kong's court system changed following the [[Transfer of sovereignty over Hong Kong|transfer of sovereignty]] from the United Kingdom to [[China]] on 1 July 1997, with the [[Court of Final Appeal of Hong Kong|Court of Final Appeal]] serving as the highest judicial authority of the [[Special administrative regions of China|Special Administrative Region]] (SAR), and (pursuant to Article 158 of the [[Hong Kong Basic Law|Basic Law]], the constitutional instrument of the SAR) the power of final interpretation vested not in the Court of Final Appeal of Hong Kong but in the [[Standing Committee of the National People's Congress of China]], which, unlike the Judicial Committee of the Privy Council, is a political, legislative body rather than an independent and impartial tribunal of last resort.
+
+Decisions of the Privy Council on Hong Kong appeals before 1 July 1997 remain binding on the courts of Hong Kong. This accords with the principle of continuity of the legal system enshrined in Article 8 of the Basic Law. Decisions of the Privy Council on non-Hong Kong appeals are of persuasive authority only. Such decisions were not binding on the courts in Hong Kong under the doctrine of precedent before 1 July 1997 and are not binding today. Decisions of the House of Lords before 1 July 1997 stand in a similar position. It is of the greatest importance that the courts of Hong Kong should derive assistance from overseas jurisprudence, particularly from the final appellate courts of other common law jurisdictions. This is recognised by Article 84 of the Basic Law.<ref>[http://legalref.judiciary.gov.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=13294&QS=%2B&TP=JU CACV375/1999 ''Thapa Indra Bahadur v The Secretary for Security''] (18 April 2000) at para 14.</ref><ref>[http://legalref.judiciary.gov.hk/lrs/common/ju/ju_frame.jsp?DIS=68220 FACV2/2009] (30 October 2009) at para 79.</ref>
+
+===India===
+
+[[India]] retained the right of appeal from the [[Federal Court of India]] to the Privy Council after the establishment of the [[Dominion of India]]. Following the replacement of the Federal Court with the [[Supreme Court of India]] in January 1950, the Abolition of Privy Council Jurisdiction Act 1949 came into effect, ending the right of appeal to the Judicial Committee of the Privy Council.
+
+The Supreme Court of India was inaugurated on 28 January 1950, at which point it took over the appellate functions from the Privy Council.<ref>{{cite web |title=Supreme Court of India History, Composition, Appointments, Impeachment, Jurisdiction, & Judicial Review Britannica | url=https://www.britannica.com/topic/Supreme-Court-of-India | publisher=Britannica | access-date=22 April 2026}}</ref>
+
+===Irish Free State===
+
+{{See also|List of Judicial Committee of the Privy Council cases on appeal from the Irish Free State}}
+
+The right of appeal to the Privy Council was provided for in the [[Constitution of the Irish Free State]] until its abolition in 1933 by an Act of the [[Oireachtas of the Irish Free State]], amending said constitution.<ref>[http://www.irishstatutebook.ie/1933/en/act/pub/0045/print.html Constitution (Amendment No. 22) Act, 1933] Irish Statute Book</ref>
+
+In ''[[Moore v Attorney-General of the Irish Free State]]''<ref>''[[Moore v Attorney-General of the Irish Free State]]'' [1935] AC 484 (PC)</ref> the right of the Oireachtas to abolish appeals to the Privy Council was challenged as a violation of the 1921 [[Anglo-Irish Treaty]].<ref name="mooreDecision">{{cite web|url=http://www.supremecourt.ie/supremecourt/sclibrary3.nsf/(WebFiles)/34740D4947655F668025765E0036AE51/$FILE/Moore%20v%20AG_1935.rtf|title=Moore -v- Attorney General of the Irish Free State|work=Important Judgments|publisher=Courts Service|access-date=2 November 2010|location=Dublin}}</ref> The then [[Attorney General for England and Wales]] ([[Sir Thomas Inskip]]) is reported to have warned the then [[Attorney-General of the Irish Free State]] ([[Conor Maguire (judge)|Conor Maguire]]) that the [[Irish Free State]] had no right to abolish appeals to the Privy Council.<ref name="mooreDecision"/> The Judicial Committee of the Privy Council itself ruled that the Irish Free State Government had that right under the [[Statute of Westminster 1931]] (Imp.).<ref name="mooreDecision"/>
+
+===Jamaica===
+
+In May 2015, the Jamaican [[Parliament of Jamaica|House of Representatives]] approved, with the necessary two-thirds majority, bills to end legal appeals to the Judicial Committee of the Privy Council and make the [[Caribbean Court of Justice]] Jamaica's final court of appeal. The reform will be debated by the Jamaican Senate; however, the government needed the support of at least one opposition Senator for the measures to be approved by the required two-thirds majority.<ref>{{cite news|title=House of Representatives Votes For Jamaica To Leave The Privy Council for the CCJ|url=http://jamaica-gleaner.com/article/news/20150512/house-representatives-votes-jamaica-leave-privy-council-ccj|access-date=2 June 2015|work=The Gleaner|date=12 May 2015}}</ref><ref>{{cite news|title=Bills to replace Privy Council with CCJ tabled in Senate|url=http://www.jamaicaobserver.com/latestnews/Bills-to-replace-Privy-Council-with-CCJ-tabled-in-Senate|access-date=2 June 2015|work=Jamaica Observer|date=22 May 2015|url-status=dead|archive-url=https://web.archive.org/web/20150523194256/http://www.jamaicaobserver.com/latestnews/Bills-to-replace-Privy-Council-with-CCJ-tabled-in-Senate|archive-date=23 May 2015}}</ref> The [[Jamaican general election, 2016|2016 general election]] was called before the reforms could be brought to the Senate for a final vote. The Jamaican Labour Party, which opposed the changes, won the election and has promised to hold a referendum on the issue.<ref>{{Cite web|url=http://www.jamaicaobserver.com/news/Holness-promises--The-first-100-days|title=Holness promises: The first 100 days – News – JamaicaObserver.com<!-- Bot generated title -->}}</ref>{{update inline|date=June 2019}}
+
+===Malaysia===
+
+[[Malaysia]] abolished appeals to the Privy Council in criminal and constitutional matters in 1978,<ref>{{Cite web |title=University of Minnesota Human Rights Library |url=http://hrlibrary.umn.edu/research/malaysia/malaysia-legal-system.html |access-date=20 November 2023 |website=hrlibrary.umn.edu}}</ref> and in civil matters in 1984.<ref name="Porritt 2007">{{cite journal |last1=Porritt |first1=Vernon L |title=Constitutional change in Sarawak 1963-1988: 25 years as a state within the federation of Malaysia |journal=Borneo Research Bulletin |date=2007 |volume=38 |pages=159–171 |url=https://www.thefreelibrary.com/Constitutional+change+in+sarawak+1963-1988%3A+25+years+as+a+state...-a0179660415 |access-date=19 April 2023|archiveurl=https://web.archive.org/web/20230406100643/https://www.thefreelibrary.com/Constitutional+change+in+sarawak+1963-1988%3A+25+years+as+a+state...-a0179660415|archivedate=6 April 2023}}</ref>
+
+===New Zealand===
+New Zealand was the last of the original [[dominion]]s to remove appeals to the Privy Council from its legal system. Proposals to abolish appeals to the Privy Council in New Zealand were first put forward in the early 1980s.<ref name="public_policy">{{cite book|title=Public Policy in New Zealand – Institutions, Processes and Outcomes|author=Chris Eichbaum, Richard Shaw|year=2005|publisher=Pearson|isbn=1-877258-93-8}}</ref>
+
+The Privy Council's respect for local decisions was noted by [[Lord Brightman]] in 1985 in regard to the possible adoption of a New Zealand decision, in the case of ''Archer v. Cutler'' (1980), as a precedent,{{efn|In ''Archer v. Cutler'' [1980] 1 NZLR 386 the New Zealand court had ruled that "a contract made by a person of insufficient [[mental capacity]] was voidable at his option not only if the other party knew of or ought to have appreciated his unsoundness of mind, but also if the contract 'was unfair to the person of unsound mind'".<ref name=app56 />}} where he stated that:{{blockquote|If ''Archer v. Cutler'' is properly to be regarded as a decision based on considerations peculiar to New Zealand, it is highly improbable that their Lordships would think it right to impose their own interpretation of the law, thereby contradicting the unanimous conclusions of the [[High Court of New Zealand|High Court]] and the [[Court of Appeal of New Zealand]] on a matter of local significance. If, however, the principle of ''Archer v. Cutler'', if it be correct, must be regarded as having general application throughout all jurisdictions based on the common law, because it does not depend on local considerations, their Lordships could not properly treat the unanimous view of the courts of New Zealand as being necessarily decisive.<ref name=app56>Judicial Committee of the Privy Council, [https://www.bailii.org/uk/cases/UKPC/1985/1985_17.html Thomas Bruce Hart (Appeal No. 56 of 1984) v Joseph O'Connor Paul Michael O'Connor Frances Joseph O'Connor (New Zealand) <nowiki>[</nowiki>1985<nowiki>]</nowiki> UKPC 17 (22 May 1985)], accessed 27 November 2023</ref>}}
+
+In October 2003, with respect to all cases heard by the Court of Appeal of New Zealand, New Zealand law was changed to abolish appeals to the Privy Council, after the end of 2003. The old system was replaced by the [[Supreme Court of New Zealand]]. In 2008, Prime Minister [[John Key]] ruled out any abolition of the Supreme Court and return to the Privy Council.<ref name="key_pc">{{cite book|publisher=[[New Zealand Listener|The Listener]]|author=Jane Clifton|title=Leaders Loosen Up|date=1 November 2008}}</ref>
+
+However, judgement on the last appeal from New Zealand to be heard by the Judicial Committee of the Privy Council was not delivered until 3 March 2015.<ref>{{Cite web|url=https://www.brickcourt.co.uk/news/detail/privy-council-delivers-judgment-in-final-appeal-from-new-zealand|title=Privy Council delivers judgment in final appeal from New Zealand &#124; Brick Court Chambers|website=www.brickcourt.co.uk}}</ref><ref>Privy Council Appeal, ''[[Teina Pora|Pora]] (Appellant) v The Queen (Respondent) (New Zealand)'', judgment [2015] UKPC 9.[http://www.bailii.org/uk/cases/UKPC/2015/9.html]</ref><ref>{{Cite web|url=https://www.youtube.com/watch?v=uoDpn_AONUo|title=Pora (Appellant) v The Queen (Respondent) (New Zealand)|date=3 March 2015 |via=www.youtube.com}}</ref>
+
+===Newfoundland===
+{{See also|List of Newfoundland appeals to the Judicial Committee of the Privy Council (pre-1949)}}
+
+Newfoundland was one of the original Dominions, recognised in the [[Balfour Declaration of 1926|Balfour Declaration]] and the [[Statute of Westminster 1931]].  Like the other Dominions, an appeal lay from the Newfoundland courts to the Judicial Committee.
+
+In 1949, Newfoundland joined Canada as the tenth province.  Like other provinces, an appeal continued to lie from the Newfoundland courts to the Judicial Committee.  In late 1949, the federal Parliament abolished appeals to the Judicial Committee from courts in Canada, making the Supreme Court of Canada the final court of appeal.  Cases started prior to the abolition could still be appealed to the Judicial Committee, but it does not appear that there were any cases from Newfoundland to the Judicial Committee after 1949.
+
+===Pakistan===
+The [[Dominion of Pakistan]] retained the right of appeal to the Privy Council from the [[Federal Court of Pakistan]] until the Privy Council (Abolition of Jurisdiction) Act, 1950 was passed. The Federal Court of [[Pakistan]] remained the highest court until 1956, when the [[Supreme Court of Pakistan]] was established.
+
+===Rhodesia===
+Despite the [[Rhodesian Constitution of 1965]] coming into effect as a result of the [[Rhodesia's Unilateral Declaration of Independence|Unilateral Declaration of Independence]], appeals continued to be accepted by the Privy Council as late as 1969 due to the fact that under international law, [[Rhodesia]] remained a British colony until gaining its independence as [[Zimbabwe]] in April 1980.
+
+===Singapore===
+Singapore abolished Privy Council appeals in all cases save those involving the [[Capital punishment in Singapore|death penalty]], or in civil cases where the parties had agreed to such a right of appeal, in 1989. The remaining rights of appeal were abolished in April 1994.
+
+One notable case in Singapore where an appeal against the death sentence was allowed by the Privy Council was [[1972 Pulau Ubin murder|a murder case that occurred in Pulau Ubin]] between 22 and 23 April 1972. In this case, Mohamed Yasin bin Hussein, who was 19 at the time of the murder, was sentenced to death by the [[High Court of Singapore|High Court]] for murdering and raping a 58-year-old woman named Poon Sai Imm, while his 25-year-old accomplice Harun bin Ripin went to ransack the elderly woman's house for items to rob (Harun, who also stood trial for murder together with Yasin, was instead sentenced to 12 years' imprisonment and received 12 strokes of the cane for a lesser charge of robbery at night). The Privy Council found that there was no evidence to show that Yasin had intended to cause death or any fatal bodily injury when he caused the fatal rib fractures on Poon while raping the struggling victim. As such, they found him guilty of committing a rash/negligent act not amounting to culpable homicide and sentenced him to two years' imprisonment. Following this appeal, Yasin was brought back to court to be charged with rape, and he was eventually jailed for another eight years for the attempted rape of the victim.<ref>{{Cite web|url=https://www.mewatch.sg/en/series/true-files-s3/ep6/367508|title=True Files S3|website=meWATCH|access-date=20 May 2020}}</ref>
+
+Another notable case heard by the Privy Council was the case of [[Haw Tua Tau]], a hawker who was sentenced to death in 1978 for the double murder of two hawkers, Phoon Ah Leong and his mother Hu Yuen Keng.<ref>{{cite news|title=Hawker is sentenced to death for double murder|url=https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19780318-1.2.46|newspaper=The Straits Times|date=18 March 1978}}</ref> After his appeal was dismissed,<ref>{{cite news|title=Hawker's death sentence appeal rejected|url=https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19790910-1.2.92|newspaper=The Straits Times|date=10 September 197}}</ref> Haw was granted special leave to appeal to the Privy Council against his sentence and conviction, but his appeal was dismissed by the Privy Council, which issued a landmark ruling that decreed the prosecution shall be allowed to present its case against an accused in court, as long as there is sufficient evidence to back a charge against the accused and hence present a case for the accused to answer.<ref>{{cite news|title=How much proof – how Privy Council ruled|url=https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19950321-1.2.45.2|newspaper=The Straits Times|date=21 March 1995}}</ref> After losing his final appeal, Haw was eventually hanged in 1982 for the hawker killings.<ref>{{cite news|title=Cleaning of tables led to hawkers' murders|url=https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960803-1.2.49.2|newspaper=The Straits Times|date=3 August 1996}}</ref>
+
+===South Africa===
+South Africa abolished the right of appeal to the Privy Council from the [[Supreme Court of South Africa|Appellate Division of the then Supreme Court of South Africa]] in 1950 under the terms of the Privy Council Appeals Act, 1950.
+
+==See also==
+*[[Constitutional Reform Act 2005]]
+*[[List of Judicial Committee of the Privy Council cases]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+
+{{Commons category|Judicial Committee of the Privy Council}}
+
+*{{official website}}
+*[http://www.legislation.gov.uk/ukpga/Will4/3-4/41/contents Judicial Committee Act 1833]
+*[http://privycouncil.independent.gov.uk/ Privy Council Office site, including JCPC]
+*[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6323298 History of the Judicial Committee (Dissenting Opinions) Order 1966]
+{{Privy Council (United Kingdom)}}
+{{Judiciary of England and Wales}}
+{{Authority control}}
+
+{{DEFAULTSORT:Judicial Committee Of The Privy Council}}
+[[Category:Judicial Committee of the Privy Council| ]]
+[[Category:1833 establishments in the United Kingdom]]
+[[Category:Governance of the British Empire]]
+[[Category:International supreme courts|United Kingdom]]
+[[Category:Members of the Judicial Committee of the Privy Council|*]]
+[[Category:Privy Council of the United Kingdom]]
+[[Category:Commonwealth of Nations]]
+[[Category:Courts of dependent territories of the United Kingdom]]
+[[Category:Courts of Crown Dependencies]]

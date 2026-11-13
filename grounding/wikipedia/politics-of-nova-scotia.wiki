@@ -1,0 +1,195 @@
+{{Short description|Politics of Canadian province}}
+{{Infobox political system
+| name                          = Politics of Nova Scotia
+| image                         = Coat of arms of Nova Scotia.svg
+| image_size                    = 100
+| caption                       = [[Coat of arms of Nova Scotia]]
+| type                          = [[Provinces and territories of Canada|Province]] within a [[Federation|federal]] [[Parliamentary system|parliamentary]] [[constitutional monarchy]]
+| constitution                  = [[Constitution of Canada]]
+| legislature                   = [[General Assembly of Nova Scotia|General Assembly]]
+{{Bulleted list
+|[[Nova Scotia House of Assembly|House of Assembly]]
+}}
+| legislature_type              = [[Unicameralism|Unicameral]]
+| legislature_place             = [[Province House (Nova Scotia)|Province House]], [[Halifax, Nova Scotia|Halifax]]
+| legislature_speaker           = [[Speaker of the Nova Scotia House of Assembly|Speaker of the House of Assembly]]
+| legislature_speaker_title     = 
+| upperhouse                    = 
+| upperhouse_speaker            = 
+| upperhouse_speaker_title      = 
+| upperhouse_appointer          = 
+| lowerhouse                    = 
+| lowerhouse_speaker            = 
+| lowerhouse_speaker_title      = 
+| current_hos                     = [[Monarchy in Nova Scotia|King]] {{Current Canadian monarch |Charles III}}<br>represented by <br> [[Michael Savage (politician)|Michael Savage]], <br> [[Lieutenant Governor of Nova Scotia|Lieutenant Governor]]
+| current_hog                     = [[Premier of Nova Scotia|Premier]]<br>[[Tim Houston]]
+| appointer_hog                 = Lieutenant Governor
+| title_hosag                   =
+| current_hosag                 =
+| appointer_hosag               =
+| cabinet                       = [[Executive Council of Nova Scotia|Executive Council]]
+| current_cabinet               = 
+| cabinet_leader                = Premier (as President of the Executive Council)
+| cabinet_deputyleader          = 
+| cabinet_appointer             = Lieutenant Governor
+| cabinet_hq                    = Halifax
+| cabinet_ministries            = 
+| judiciary                     = 
+| judiciary_head                = 
+| courts                        =
+| court                         = [[Nova Scotia Court of Appeal|Court of Appeal]]
+| chief_judge                   = Michael Wood
+| court_seat                    = 
+| court1                        =
+| chief_judge1                  =
+| court_seat1                   = Law Courts, Halifax
+}}
+The politics of the Canadian province of [[Nova Scotia]] take place within the framework of a [[Westminster system|Westminster-style]] [[Parliamentary system|parliamentary]] [[constitutional monarchy]]. As Canada's head of state and monarch, {{Current Canadian monarch |Charles III}} is the sovereign of the province in his capacity as [[Monarchy in Nova Scotia|King in Right of Nova Scotia]]; his duties in Nova Scotia are carried out by the [[Lieutenant Governor (Canada)|Lieutenant Governor]], [[Michael Savage (politician)|Michael Savage]]. The [[General Assembly of Nova Scotia|General Assembly]] is the legislature, consisting of the Lieutenant Governor and fifty-five members representing their electoral districts in the [[Nova Scotia House of Assembly|House of Assembly]].<ref name=":0">{{Cite news|url=https://nslegislature.ca/about|title=About the Legislature|date=2016-09-06|work=Nova Scotia Legislature|access-date=2018-07-15|language=en}}</ref>  The [[Government of Nova Scotia|Government]] is headed by the [[Premier]], [[Tim Houston]], who took office on August 31, 2021. The capital city is Halifax, home to the Lieutenant Governor, the House of Assembly, and the Government. The House of Assembly has met in Halifax at [[Province House (Nova Scotia)|Province House]] since 1819.<ref>{{Cite web|url=https://nslegislature.ca/sites/default/files/pdfs/about/ProvinceHouseEn.pdf|title=Province House, Halifax, Nova Scotia|last=Province of Nova Scotia|date=2009|website=Nova Scotia Legislature}}</ref>
+
+== Monarchy ==
+{{Main article|Monarchy in Nova Scotia}}
+The role of the Crown is both legal and practical; it functions in [[Nova Scotia]] in the same way [[Monarchy in the Canadian provinces#Constitutional role|it does in all of Canada's other provinces]], being the centre of a constitutional construct in which the institutions of government acting under the sovereign's authority share the power of the whole.<ref>{{cite journal |last=Cox |first=Noel |date=September 2002 |title=Black v Chrétien: Suing a Minister of the Crown for Abuse of Power, Misfeasance in Public Office and Negligence |url=http://www.murdoch.edu.au/elaw/issues/v9n3/cox93.html |journal=Murdoch University Electronic Journal of Law |location=Perth |publisher=Murdoch University |volume=9 |issue=3 |pages=12 |access-date=17 May 2009}}</ref> It is thus the foundation of the [[Executive Council of Nova Scotia|executive]], [[Legislative Assembly of Nova Scotia|legislative]], and [[Nova Scotia Supreme Court|judicial]] branches of the province.<ref name="PCO">{{Citation |last=Privy Council Office |title=Accountable Government: A Guide for Ministers and Ministers of State – 2008 |page=49 |year=2008 |url=http://www.pco-bcp.gc.ca/index.asp?lang=eng&page=information&sub=publications&doc=ag-gr/2008/ag-gr-eng.htm |access-date=17 May 2009 |archive-url=https://web.archive.org/web/20100318110030/http://www.pco-bcp.gc.ca/index.asp?lang=eng&page=information&sub=publications&doc=ag-gr%2F2008%2Fag-gr-eng.htm |archive-date=18 March 2010 |url-status=dead |location=Ottawa |publisher=Queen's Printer for Canada |isbn=978-1-100-11096-7 |author-link=Privy Council Office (Canada)}}</ref> The [[Monarchy of Canada|Canadian monarch]]—since {{Current Canadian monarch |ascension}}, [[Title and style of the Canadian monarch|King]] {{Current Canadian monarch |Charles III}}—is represented and his duties carried out by the [[lieutenant governor of Nova Scotia]], whose direct participation in governance is limited by the [[Convention (norm)#Government|conventional]] stipulations of [[constitutional monarchy]], with most related powers entrusted for exercise by the elected parliamentarians, the [[Minister of the Crown|ministers of the Crown]] generally drawn from among them, and the [[Court system of Canada|judges]] and [[Justice of the Peace#Canada|justices of the peace]].<ref name="MacLeod16">{{Cite book |last=MacLeod |first=Kevin S. |url=http://www.pch.gc.ca/pgm/ceem-cced/fr-rf/crnCdn/crn_mpls-eng.pdf |title=A Crown of Maples |publisher=Queen's Printer for Canada |year=2008 |isbn=978-0-662-46012-1 |edition=1 |place=Ottawa |page=16 |author-link=Kevin S. MacLeod |access-date=21 June 2009}}</ref>
+
+== Legislative power ==
+The [[Nova Scotia House of Assembly]],{{efn|{{langx|fr|Assemblée législative de la Nouvelle-Écosse}}; {{langx|gd|Taigh Seanaidh Alba Nuadh}}}} or Legislative Assembly, is the sole chamber of the unicameral [[General Assembly of Nova Scotia]]. The assembly is the oldest in Canada, having first sat in 1758;<ref>[http://www.parl.gc.ca/information/library/idb/forsey/parl_gov_print-e.asp How Canadians Govern Themselves<!-- Bot generated title -->]</ref> in 1848, it was the site of the first [[responsible government]] in the [[British Empire]]. Bills passed by the House of Assembly are given royal assent by the [[lieutenant governor of Nova Scotia|Lieutenant Governor of Nova Scotia]]<ref>Constitution Act, 1867, ss. 69 & 88; [http://www.nslegislature.ca/ Nova Scotia House of Assembly]</ref> in the name of the [[Monarchy in Nova Scotia|King in Right of Nova Scotia]].
+
+When established in 1758, the [[General Assembly of Nova Scotia|General Assembly]] consisted of the Crown represented by the Governor (Lieutenant Governor post-[[Canadian Confederation|confederation]]), the appointed [[Nova Scotia Council]] holding both executive and legislative duties and the elected House of Assembly (lower chamber). In 1838, the Council was replaced by an [[Executive Council of Nova Scotia|executive council]] with the executive function and a [[Legislative Council of Nova Scotia|legislative council]] with the legislative functions based on the House of Lords. In 1928, the Legislative Council was abolished and the members pensioned off, resulting in a unicameral legislature with the House of Assembly as the sole chamber.
+
+There are 56 [[Member of the Legislative Assembly|members of the legislative assembly]] (MLAs) representing 56 [[List of Nova Scotia provincial electoral districts|electoral districts]].<ref>Chapter 32 of Nova Scotia Acts of 2019</ref> Members nearly always represent one of the three main political parties of the province: the [[Nova Scotia Liberal Party]], the [[Progressive Conservative Association of Nova Scotia]], and [[Nova Scotia New Democratic Party]].
+
+== Executive power ==
+{{Further information|Executive Council of Nova Scotia}}
+The [[Government of Nova Scotia]] exercises the executive power. The chief body of the Government is the [[Executive Council of Nova Scotia|Executive Council]], also known as Cabinet.<ref name="EC">{{Cite web |last=admin |date=2017-06-23 |title=Cabinet |url=https://nslegislature.ca/members/cabinet |access-date=2024-01-20 |website=Nova Scotia Legislature |language=en}}</ref> The Premier of Nova Scotia is President of the Executive Council.<ref name="EC" />
+
+==Electoral history==
+===1867 to 1916===
+{| class="wikitable"
+|+ Elections to the Legislative Assembly of Nova Scotia (1867–1916) – seats won by party
+|-
+| colspan="2"| '''Government'''
+| {{Canadian party colour|NS||background}} align="center" colspan=1|'''Anti Confederation'''
+| {{Canadian party colour|NS|Liberal|background}} align="center" colspan=2|'''Liberal'''
+| {{Canadian party colour|NS|Conservative|background}} align="center" |'''Con'''
+| {{Canadian party colour|NS|Liberal|background}} align="center" colspan=9|'''Liberal'''
+|-
+! colspan="2"|Party !! 1867 !! 1871 !! 1874 !! 1878 !! 1882 !! 1886 !! 1890 !! 1897 !! 1897 !! 1901 !! 1906 !! 1911 !! 1916
+|- align="right"
+| bgcolor="#EA6D6A" | &nbsp; &nbsp; || align="left"|'''[[Liberal Party of Nova Scotia|Liberal]]''' || 36|| 24|| 22|| 6|| 24|| 28|| 29|| 25|| 34|| 36|| 32|| 26|| 31
+|- align="right"
+| bgcolor="#9999FF" | &nbsp; &nbsp;  || align="left"|'''[[Progressive Conservative Party of Nova Scotia|Conservative]]''' || 2|| 14|| 12|| 32|| 14|| 10|| 9|| 13|| 3|| 2|| 4|| 12|| 12
+|- align="right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp;  || align="left"|'''Independent''' || || || 4|| || || || || || 1|| || 2|| ||
+|- align="right"
+| colspan="2" align="left"|'''Total''' || 38|| 38|| 38|| 38|| 38|| 37|| 38|| 37|| 38|| 38|| 38|| 38|| 43
+|}
+
+===1920 to 1967===
+{| class="wikitable"
+|+ Elections to the Legislative Assembly of Nova Scotia (1920–1967) – seats won by party
+|-
+| colspan="2"| '''Government'''
+| {{Canadian party colour|NS|Liberal|background}} align="center"|'''Liberal'''
+| {{Canadian party colour|NS|Conservative|background}} align="center" colspan=2|'''Con'''
+| {{Canadian party colour|NS|Liberal|background}} align="center" colspan=6|'''Liberal'''
+| {{Canadian party colour|NS|Conservative|background}} align="center" colspan=4|'''PC'''
+|-
+! colspan="2"|Party !! 1920 !! 1925 !! 1928 !! 1933 !! 1937 !! 1941 !! 1945 !! 1949 !! 1953 !! 1956 !! 1960 !! 1963 !! 1967
+|- align="right"
+| bgcolor="#EA6D6A" | &nbsp; &nbsp; || align="left"|'''[[Liberal Party of Nova Scotia|Liberal]]''' || 29|| 3|| 18|| 22|| 25|| 22|| 28|| 27|| 22|| 18|| 15|| 4|| 6
+|- align="right"
+| bgcolor="#9999FF" | &nbsp; &nbsp;  || align="left"|'''[[Progressive Conservative Party of Nova Scotia|Conservative]]''' || 3|| 40|| 24|| 8|| 5|| 5|| || || || || || ||
+|- align="right"
+| bgcolor="#9999FF" | &nbsp; &nbsp;  || align="left"|'''[[Progressive Conservative Party of Nova Scotia|Progressive Conservative]]''' || || || || || || || || 8|| 13|| 24|| 27|| 39|| 40
+|- align="right"
+| bgcolor="#66CC00" | &nbsp; &nbsp;  || align="left"|'''[[United Farmers of Nova Scotia|United Farmers]]''' || 6|| || || || || || || || || || || ||
+|- align="right"
+| bgcolor="#EEBBBB" | &nbsp; &nbsp;  || align="left"|'''[[Labour Party (Canada)|Labour]]''' || 5|| || 1|| || || || || || || || || ||
+|- align="right"
+| bgcolor="#EEDDAA" | &nbsp; &nbsp;  || align="left"|'''[[Nova Scotia New Democratic Party|Cooperative Commonwealth Federation]]''' || || || || || || 3|| 2|| 2|| 2|| 1|| 1|| ||
+|- align="right"
+| colspan="2" align="left"|'''Total''' || 43|| 43|| 43|| 30|| 30|| 30|| 30|| 37|| 37|| 43|| 43|| 43|| 46
+|}
+
+===1970 to present===
+{| class="wikitable"
+|+ Elections to the Legislative Assembly of Nova Scotia (1970–present) – seats won by party
+|-
+| colspan="2"| '''Government'''
+| {{Canadian party colour|NS|Liberal|background}} align="center" colspan=2|'''Liberal'''
+| {{Canadian party colour|NS|Conservative|background}} align="center" colspan=4|'''PC'''
+| {{Canadian party colour|NS|Liberal|background}} align="center" colspan=2|'''Liberal'''
+| {{Canadian party colour|NS|Conservative|background}} align="center" colspan=3|'''PC'''
+| {{Canadian party colour|NS|NDP|background}} align="center"|'''NDP'''
+| {{Canadian party colour|NS|Liberal|background}} align="center" colspan=2|'''Liberal'''
+| {{Canadian party colour|NS|PC|background}} align="center" colspan=2|'''PC'''
+|-
+! colspan="2"|Party !! 1970 !! 1974 !! 1978 !! 1981 !! 1984 !! 1988 !! 1993 !! 1998 !! 1999 !! 2003 !! 2006 !! 2009 !! 2013 !! 2017 !! 2021 !! 2024
+|- align="right"
+| bgcolor="#EA6D6A" | &nbsp; &nbsp; || align="left"|'''[[Liberal Party of Nova Scotia|Liberal]]''' || 23|| 31|| 17|| 13|| 6|| 21|| 40|| 19|| 11|| 12|| 9|| 11|| 33|| 27 || 17 || 2
+|- align="right"
+| bgcolor="#9999FF" | &nbsp; &nbsp;  || align="left"|'''[[Progressive Conservative Party of Nova Scotia|Progressive Conservative]]''' || 21|| 12|| 31|| 37|| 42|| 28|| 9|| 14|| 30|| 25|| 23|| 10|| 11|| 17 || 31 || 43
+|- align="right"
+| bgcolor="sandybrown" | &nbsp; &nbsp;  || align="left"|'''[[Nova Scotia New Democratic Party|New Democratic]]''' || 2|| 3|| 4||1 || 3||2 || 3|| 19|| 11|| 15|| 20|| 31|| 7|| 7 || 6 || 9
+|- align="right"
+| bgcolor="#EEBBBB" | &nbsp; &nbsp;  || align="left"|'''[[Cape Breton Labour Party|Cape Breton Labour]]''' || || || || 1|| 1|| 1|| || || || || || || || ||
+|- align="right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp;  || align="left"|'''Independent''' || || || || || || || || || || || || || ||  || 1 || 1
+|- align="right"
+| colspan="2" align="left"|'''Total''' || 46|| 46|| 52|| 52|| 52|| 52|| 52|| 52|| 52|| 52|| 52|| 52|| 51|| 51 || 55 || 55
+|}
+Of the registered voters in 2017, 53.4% voted. Voter turnout has decreased from 82% turnout in 1960.<ref>{{Cite web |last=Chief Electoral Officer |date=30 May 2017 |title=Statement of Votes and Statistics: Volume 1 |url=https://electionsnovascotia.ca/sites/default/files/2017_SOVvolume1.pdf |website=Elections Nova Scotia}}</ref>
+
+=== Federal elections from 1968 to 2021 ===
+{| class="wikitable"
+|+ Elections to the Parliament of Canada from Nova Scotia (1968–2021) — seats won by party
+! colspan = "2"|Party !! [[1968 Canadian federal election|1968]] !! [[1972 Canadian federal election|1972]] !! [[1974 Canadian federal election|1974]] !! [[1979 Canadian federal election|1979]] !! [[1980 Canadian federal election|1980]] !! [[1984 Canadian federal election|1984]] !! [[1988 Canadian federal election|1988]] !! [[1993 Canadian federal election|1993]] !! [[1997 Canadian federal election|1997]] !! [[2000 Canadian federal election|2000]] !! [[2004 Canadian federal election|2004]] !! [[2006 Canadian federal election|2006]] !! [[2008 Canadian federal election|2008]] !! [[2011 Canadian federal election|2011]] !! [[2015 Canadian federal election|2015]] !! [[2019 Canadian federal election|2019]] !! [[2021 Canadian federal election|2021]]
+|- align = "right"
+| bgcolor="#EA6D6A" | &nbsp; &nbsp; || align="left"|'''[[Liberal Party of Canada|Liberal]]''' || 1|| 1|| 2|| 2|| 6|| 2|| 6|| 11|| || 4|| 6|| 6|| 5|| 4|| 11|| 10|| 8
+|- align = "right"
+| bgcolor="#9999FF" | &nbsp; &nbsp; || align="left"|'''[[Progressive Conservative Party of Canada|PC]]''' || 10|| 10|| 8|| 8|| 5|| 9|| 5|| || 6|| 4|| || || || || || || 
+|- align = "right"
+| bgcolor="#F4A460" | &nbsp; &nbsp; || align="left"|'''[[New Democratic Party|NDP]]''' || || || 1|| 1|| || || || || 6|| 3|| 2|| 2|| 2|| 3|| || ||
+|- align = "right"
+| bgcolor="#3CB371" | &nbsp; &nbsp; || align="left"|'''[[Reform Party of Canada|Reform]]''' '''/''' '''[[Canadian Alliance|Alliance]]''' || || || || || || || || || || || || || || || || ||
+|- align = "right"
+| bgcolor="#6495ED" | &nbsp; &nbsp; || align="left"|'''[[Conservative Party of Canada|Conservative]]''' || || || || || || || || || || || 3|| 3|| 3|| 4|| || 1|| 3
+|- align = "right"
+| colspan = "2" align="left"|'''Total''' || 11|| 11|| 11|| 11|| 11|| 11|| 11|| 11|| 11|| 11|| 11|| 11|| 11|| 11|| 11|| 11|| 11
+|}
+
+==See also==
+{{Portal|Nova Scotia|Canada|Politics}}
+* [[Lieutenant Governor of Nova Scotia]]
+* [[Premier of Nova Scotia]]
+* [[Government of Nova Scotia]]
+* [[Politics of Canada]]
+* [[Political culture of Canada]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{Main list|Bibliography of Nova Scotia#Government and politics}}
+* {{cite book |last=Beck |first=J. Murray |author-link=James Murray Beck |date=1985 |title=Politics of Nova Scotia: Volume One: Nicholson-Fielding, 1710-1896 |url= |location=Tantallon, N.S. |publisher=Four East Publications |isbn=978-0-9204-2729-3}}
+* {{cite book |last=Beck |first=J. Murray |date=1985 |title=Politics of Nova Scotia: Volume Two, 1896-1988|url=https://archive.org/details/politicsofnovasc0002beck |url-access=registration |location=Tantallon, N.S. |publisher=Four East Publications |isbn=978-0-9204-2704-0}}
+
+==External links==
+*[http://www.gov.ns.ca Government of Nova Scotia]
+*[http://archives.cbc.ca/IDD-1-73-2277/politics_economy/ns_elections/ How The East Was Won: Nova Scotia Elections (1949-2003)]
+
+{{Navboxes
+| title = Articles related to Politics of Nova Scotia
+| list1  = 
+{{Politics of Canadian provinces}}
+{{NS Elections}}
+{{NSPremiers}}
+{{Nova Scotia}}
+}}
+{{Nova Scotia politics}}
+{{Canada topic|Politics of}}
+{{Authority control}}
+
+[[Category:Politics of Nova Scotia| ]]

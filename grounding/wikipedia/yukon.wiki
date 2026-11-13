@@ -1,0 +1,520 @@
+{{Short description|Territory of Canada}}
+{{About|the Canadian territory|the river|Yukon River|other uses}}
+{{Use Canadian English|date=January 2021}}
+{{Use mdy dates|date=November 2019}}
+{{Infobox province or territory of Canada
+| name                = Yukon
+| other_name          = {{native name|gwi|Ųųg Han}}<br>{{native name|tce|Chu Nìikwän}}
+| type                = [[Provinces and territories of Canada|Territory]]
+| motto               = <!---Note that "Larger than Life" is not a motto but a tourism slogan-->
+| image_flag          = Flag of Yukon.svg
+| image_shield        = Coat of arms of Yukon.svg
+| image_map           = Yukon in Canada 2.svg
+| Label_map           = yes
+| coordinates         = {{Coord|63|N|135|W|type:adm1st_scale:30000000_region:CA-YT|display=inline,title}}<ref>{{Cite cgndb|KAIIM|Yukon}}</ref>
+| official_lang       = 
+ {{hlist
+  |[[Canadian English|English]]|[[Canadian French|French]]<ref>{{cite web |title=The Legal Context of Canada's Official Languages |publisher=University of Ottawa |url=https://slmc.uottawa.ca/?q=english_french_legal |access-date=October 7, 2016 |archive-url=https://web.archive.org/web/20161221032458/https://slmc.uottawa.ca/?q=english_french_legal |archive-date=December 21, 2016}}</ref>}}
+| capital             = [[Whitehorse]]
+| largest_city        = [[Whitehorse]]
+| largest_metro       = Whitehorse
+| Premier             = [[Currie Dixon]]
+| government_type     = [[Parliamentary system]]
+| Viceroy             = [[Adeline Webber]]
+| ViceroyType         = Commissioner
+| Legislature         = Yukon Legislative Assembly
+
+|  area_footnotes = &nbsp;(2016 / 2021{{Efn|Land area is from the 2021 census and the water area is from 2016<ref name=2021CensusYukon/><ref>{{cite web |url=https://www150.statcan.gc.ca/n1/pub/11-402-x/2010000/chap/geo/tbl/tbl07-eng.htm |title=Table 15.7 Land and freshwater area, by province and territory |date=October 7, 2016 |access-date=October 30, 2026}}</ref>}})
+
+| area_rank           = 9th
+| area_total_km2      = 480397.44
+| area_land_km2       = 472,345.44
+| area_water_km2      = 8052
+| population_demonym  = Yukoner<br>[[French language|French]]: {{lang|fr|Yukonnais(e)}}<ref name="usito-yukoner">{{cite web |title=yukonais, yukonaise |url=https://usito.usherbrooke.ca/d%C3%A9finitions/yukonais_ou_yukonnais |website=Usito - le dictionnaire |publisher=[[Université de Sherbrooke]] |access-date=4 September 2025 |language=fr |date=2025-08-30 |quote={{lang|fr|{{strong|yukonais, yukonaise}} ou {{strong|yukonnais, yukonnaise}} {{IPA|[jukɔnɛ, jukɔnɛz]}} : adjectif et nom : Du Yukon. [Nuance:] Nom (avec une majuscule) : Un Yukonais, une Yukonaise.}} |trans-quote={{lang|fr|{{strong|yukonais, yukonaise}}}} or {{lang|fr|{{strong|yukonnais, yukonnaise}}}} : adjective and noun : From (the)<!-- French doesn't make this distinction. --> Yukon. [Modified form:] Noun (with a capital letter) : A Yukoner.}}</ref>
+
+| population_footnotes 2021
+
+| population_rank     = [[Population of Canada by province and territory|12th]]
+| population_total    = 40232
+| population_ref      = <!-- 2021 StatCan census population only per [[WP:CANPOP]]. Do not update until 2026 census population released. Use "Population_est" below for latest StatCan quarterly estimate. --><ref name=2021CensusYukon/>
+| population_as_of    = [[2021 Canadian census|2021]]
+| population_est      = 50356<!-- Latest StatCan quarterly estimate only. -->
+| pop_est_as_of       = Q3 2026
+| pop_est_ref         = <ref name=SCEst/>
+| GDP_year            = 2024
+| GDP_total           = C$4.349&nbsp;billion<ref name="GDP2024">{{cite web |url=https://yukon.ca/sites/default/files/2025-12/fin-economic-accounts-2024.pdf |title=Yukon Economic Accounts 2024 |publisher=Yukon Bureau of Statistics |date=December 10, 2025 |access-date=September 1, 2026}}</ref>
+| GDP_rank            = 13th
+| GDP_per_capita      = C$91,375
+| GDP_per_capita_rank = 4th
+| HDI_year            = 2023
+| HDI                 = 0.933<ref>{{cite report | last=Shariati | first=Alisaleh | date=October 2025 | title=The Human Development Index in Canada: Ranking the Provinces and Territories Internationally | url=https://www.csls.ca/reports/csls2025-03.pdf#page=36 | page=35 | publisher=Centre for the Study of Living Standards | work=Centre for the Study of Living Standards Research Report 2025-03 | access-date=24 May 2026}}</ref>—<span style="color:#090">Very high</span>
+| HDI_rank            = [[List of Canadian provinces and territories by Human Development Index|5th]]
+| Former              = District of Yukon
+| AdmittanceOrder     = 9th
+| AdmittanceDate      = June 13, 1898
+| HouseSeats          = 1
+| SenateSeats         = 1
+| time_zone_link      = Time in Canada
+| time_zone1          = [[Pacific Daylight Time]], officially called [[Time in Yukon|Yukon Standard Time]]
+| utc_offset1         = −07:00
+| time_zone1_DST      = 
+| utc_offset1_DST     = 
+| PostalAbbreviation  = YT
+| PostalCodePrefix    = [[List of Y Postal Codes of Canada|Y]]
+| iso_code            = CA-YT
+| website             = {{URL|https://yukon.ca/}}
+| flower              = [[Fireweed]]
+| tree                = [[Abies lasiocarpa|Subalpine fir]]<ref>{{cite web |title=Government of Yukon: Emblems and Symbols |url=http://www.gov.yk.ca/aboutyukon/emblemsandsymbols.html |archive-url=https://web.archive.org/web/20120212123740/http://www.gov.yk.ca/aboutyukon/emblemsandsymbols.html |archive-date=February 12, 2012}}</ref>
+| bird                = [[Common raven]]
+}}
+
+'''Yukon''' ({{IPAc-en|j|u|k|ɒ|n}}, {{IPA|fr-CA|jukõ|lang}}) is a [[Provinces and territories of Canada|territory]] of [[Canada]], bordering [[British Columbia]] to the south, the [[Northwest Territories]] to the east, the [[Beaufort Sea]] to the north, and the [[U.S. state]] of [[Alaska]] to the west. It is Canada's westernmost and smallest territory by land area. {{As of|2026|pre=the}} third quarter estimates Yukon had a population of 50,356, the most of the territories.<ref name=SCEst>{{Cite web |date=September 24, 2026 |title=Population estimates, quarterly |url=https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901 |access-date=September 26, 2026 |publisher=[[Statistics Canada]] |archive-url=https://web.archive.org/web/20260926001804/https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901 |archive-date=September 26, 2026 |url-status=live}}</ref> [[Whitehorse]], the territorial capital, is the largest city in northern Canada.<ref>{{Cite web |url=https://yukoncareerpaths.ca/yukon-life/community-profiles/whitehorse |title=Community profile Whitehorse |publisher=[[Government of Yukon]] |website=yukoncareerpaths.ca |language=en |access-date=October 30, 2026}}</ref>
+
+Yukon was [[History of the Northwest Territories|split from the Northwest Territories]] by a federal [[statute]] in 1898 as the '''Yukon Territory'''. The current governing legislation is the ''Yukon Act'' passed by the federal Parliament in 2002.<ref name="canlii-yukon-act">{{cite web |url=http://canlii.ca/t/5213k |title=Yukon Act, SC 2002, c 7 |publisher=CanLII |access-date=February 22, 2011}}</ref> That act established Yukon as the territory's official name, although Yukon Territory remains in popular usage. [[Canada Post]] uses the territory's internationally approved postal abbreviation of '''YT'''.<ref>{{cite web |url=https://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-8-eng.cfm |title=Table 8 Abbreviations and codes for provinces and territories, 2011 Census |publisher=Statistics Canada |date=December 30, 2015 |access-date=January 9, 2016}}</ref> In 2021, territorial government policy was changed so that '''The Yukon''' is recommended for use in official territorial government materials.<ref name="Offically The Yukon">{{cite web |url=https://www.cbc.ca/news/canada/north/the-yukon-renaming-1.6136896 |title=Back to 'the' Yukon: The big return of a 3-letter word |date=August 10, 2021 |publisher=CBC |access-date=November 3, 2021}}</ref>
+
+Although officially bilingual (English and French), the Yukon government recognizes [[First Nations in Canada|First Nations]] languages.
+
+At {{convert|5959|m|abbr=off}}, Yukon's [[Mount Logan]], in [[Kluane National Park and Reserve]], is the highest mountain in Canada and the second-highest on the North American continent (after [[Denali]] in the [[U.S. state]] of [[Alaska]]). Most of the Yukon has a [[subarctic climate]], characterized by long, cold winters and brief, warm summers. The coastal area along the [[Arctic Ocean]] has a [[tundra climate]].
+
+Notable rivers include the [[Yukon River|Yukon]], [[Pelly River|Pelly]], [[Stewart River (Yukon)|Stewart]], [[Peel River (Canada)|Peel]], [[White River (Yukon)|White]], [[Liard River|Liard]], and [[Tatshenshini River|Tatshenshini]].
+
+==Etymology==
+The territory is named after the [[Yukon River]], the longest river in the Yukon. The name itself is from a [[Contraction (grammar)|contraction]] of the words in the [[Gwich'in language|Gwich'in]] phrase ''chųų gąįį han'', which means "white water river" and refers to "the pale colour" of [[Rock flour|glacial runoff]] in the Yukon River.<ref name="ObsoletePhrase">"Dear Sir, I have great pleasure in informing you that I have at length after much trouble and difficulties, succeed[ed] in reaching the 'Youcon', or white water River, so named by the ([[Gwich'in]]) natives from the pale colour of its water. ..., I have the honour to Remain Your ob<sup>t</sup> Serv<sup>t</sup>, [[John Bell (explorer)|John Bell]]" [[Hudson's Bay Company]] Correspondence to [[George Simpson (Pre-Confederation Canada politician and trader)|George Simpson]] from John Bell (August 1, 1845), [https://www.gov.mb.ca/chc/archives/hbca/ HBC Archives], D.5/14, fos. 212-215d, also quoted in, {{cite book |url=https://books.google.com/books?id=pPLYUsb3gAQC&pg=PA21 |title=Land of the Midnight Sun: A History of the Yukon |page=21 |last1=Coates |first1=Kenneth S. |first2=William R. |last2=Morrison |name-list-style=amp |publisher=Hurtig Publishers |year=1988 |isbn=0-8883-0331-9 |access-date=October 16, 2017}}</ref><ref name="NotGreat">In Gwich'in, adjectives, such as ''choo'' [big] and ''gąįį'' [white], follow the nouns that they modify. Thus, ''white water'' is ''chųų gąįį'' [water white]. ''White water river'' is ''chųų gąįį han'' [water white river]. {{cite book |url=https://library.alaska.gov/hist/hist_docs/docs/anlm/24000656.pdf |title=Dinjii Zhuh Ginjik Nagwan Tr'iłtsąįį: Gwich'in Junior Dictionary |pages=ii (ą, į, ų are nasalized a, i, u), xii (adjectives follow nouns), 19 (''nitsii'' or ''choo'' [big]), 88 (''ocean'' = ''chųų choo'' [water big]), 105 (''han'' [river]), 142 (''chųų'' [water]), 144 (''gąįį'' [white]) |first=Katherine |last=Peter |publisher=Univ. of Alaska |year=1979 |access-date=October 16, 2017 }}</ref>
+
+Historically, the name of the Yukon Territory has been abbreviated to "The Yukon" in informal speech. In 2003, the territorial government announced that the territory should be referred to as "Yukon", but the change in name sparked discussion amongst Yukoners. In the 2021 election, the leader of the [[Yukon NDP]], [[Kate White (politician)|Kate White]], campaigned on returning to using "The Yukon". Following the election, the [[Yukon Liberal Party]] government announced that "The Yukon" would again be used by the government.<ref name="Offically The Yukon"/>
+
+==Geography==
+[[File:Cañón Miles, Yukón, Canadá, 2017-08-26, DD 130-132 PAN.jpg|thumb|upright=1.25|The [[Yukon River]] at [[Schwatka Lake]] and the entry to Miles Canyon]]
+{{Main|Geography of Yukon}}
+
+The territory is the approximate shape of a [[right triangle]], bordering the [[U.S. state]] of [[Alaska]] to the west and northwest for {{convert|1210|km|mi}}<!-- Official Conversion as Cited --> mostly along [[141st meridian west|longitude 141° W]], the [[Northwest Territories]] to the east and [[British Columbia]] to the south mostly along [[60th parallel north|latitude 60° N]].<ref>{{cite web |url=http://www.internationalboundarycommission.org/boundaryfacts.html |title=Boundary Facts |access-date=October 18, 2011 |publisher=International Boundary Commission |archive-url=https://web.archive.org/web/20110611215733/http://www.internationalboundarycommission.org/boundaryfacts.html |archive-date=June 11, 2011 |quote=Length of boundary by province&nbsp;– Yukon- 1,210 kilometres or 752 miles}}</ref> Its northern coast is on the [[Beaufort Sea]]. Its ragged eastern boundary mostly follows the [[Drainage divide|divide]] between the Yukon Basin and the [[Mackenzie River]] [[drainage basin]] to the east in the Mackenzie mountains.
+
+Most of the territory is in the watershed of its namesake, the Yukon River, which flows across the territory in a northwesterly direction. The southern Yukon is dotted with a large number of large, long and narrow glacier-fed alpine lakes, most of which flow into the Yukon River system. The larger lakes include [[Teslin Lake]], [[Atlin Lake]], [[Tagish Lake]], [[Marsh Lake]], [[Lake Laberge]], [[Kusawa Lake]] and [[Kluane Lake]]. [[Bennett Lake]] on the [[Klondike, Yukon|Klondike Gold Rush]] trail is a lake flowing into Nares Lake, with the greater part of its area within Yukon. Other watersheds in the territory include the Mackenzie River, the [[Peel Watershed]] and the [[Alsek River|Alsek]]–[[Tatshenshini River|Tatshenshini]], and a number of rivers flowing directly into the Beaufort Sea. The two main Yukon rivers flowing into the Mackenzie in the Northwest Territories are the [[Liard River]] in the southeast and the [[Peel River (Canada)|Peel River]] and its tributaries in the northeast.
+
+Canada's highest point, Mount Logan ({{convert|5959|m|ft|disp=or}}), is in the territory's southwest. Mount Logan and a large part of the Yukon's southwest are in [[Kluane National Park and Reserve]], a UNESCO [[World Heritage Site]]. Other national parks include [[Ivvavik National Park]] and [[Vuntut National Park]] in the north. A second UNESCO World Heritage Site, [[Klondike, Yukon|Tr'ondëk-Klondike World Heritage Site]], was designated in 2023.
+
+Notable widespread tree species within the Yukon are the [[black spruce]] and [[white spruce]]. Many trees are stunted because of the short growing season and severe climate.<ref>Carl Duncan, "[http://travelyukon.com/media/yukonnewsroom/publicationreadyfeaturestories/dempsterhighwaytothearctic/ The Dempster: Highway to the Arctic] {{webarchive |url=https://web.archive.org/web/20090504155248/http://travelyukon.com/media/yukonnewsroom/publicationreadyfeaturestories/dempsterhighwaytothearctic/ |date=May 4, 2009}}" accessed 2009.10.22.</ref>
+
+===Climate===
+[[File:Yukon Köppen.svg|thumb|[[Köppen climate classification|Köppen climate types]] in Yukon]]
+{{See also|Climate change in the Arctic}}
+While the average winter temperature in the Yukon is mild by Canadian arctic standards, no other place in North America grows as cold as the Yukon during extreme cold snaps. The temperature has dropped to {{convert|-60|C|0}} three times, 1947, 1952, and 1968. The most extreme cold snap occurred in February 1947 when the abandoned town of [[Snag, Yukon|Snag]] dropped to {{convert|-63.0|C|1}}.<ref name="Men of Snag">{{cite web |url=http://www.islandnet.com/~see/weather/events/life-80.htm |title=Life at Minus 80: The Men of Snag |publisher=The Weather Doctor |access-date=December 19, 2014}}</ref>
+
+Unlike most of Canada where the most extreme heat waves occur in July, August, and even September, the Yukon's extreme heat tends to occur in June and even May. The Yukon has recorded {{convert|36|C|0}} three times. The first time was in June 1969 when [[Mayo, Yukon|Mayo]] recorded a temperature of {{convert|36.1|C|0}}. 14 years later this record was almost beaten when [[Forty Mile, Yukon|Forty Mile]] recorded {{convert|36|C|0}} in May 1983. The old record was finally broken 21 years later in June 2004 when the Mayo Road weather station, located just northwest of [[Whitehorse, Yukon|Whitehorse]], recorded a temperature of {{convert|36.5|C|1}}.<ref name="Historical Climate Data">{{cite web |url=http://climate.weather.gc.ca/index_e.html |title=National Climate Data and Information Archive |date=October 31, 2011 |publisher=Environment Canada |access-date=December 19, 2014}}</ref>
+{| class="wikitable sortable" style="width:60%;"
+|+Average daily maximum and minimum temperatures for selected locations in Yukon<ref name="Historical Climate Data" /><ref>{{Cite web |url=http://www.yukoncommunities.yk.ca/whitehorse/geography-climate |title=Whitehorse – Geography and Climate |website=www.yukoncommunities.yk.ca |access-date=October 6, 2019 |archive-date=October 6, 2019 |archive-url=https://web.archive.org/web/20191006093056/http://www.yukoncommunities.yk.ca/whitehorse/geography-climate |url-status=dead }}</ref>
+|-
+!City
+!July average high
+!July average low
+!January average high
+!January average low
+|-
+| [[Whitehorse]] || {{convert|21|C|F}} || {{convert|8|C|F}} || {{convert|-11|C|F}} || {{convert|-19|C|F}}
+|-
+| [[Dawson City]] || {{convert|23|C|F}} || {{convert|8|C|F}} || {{convert|-22|C|F}} || {{convert|-30|C|F}}
+|-
+| [[Old Crow, Yukon|Old Crow]] || {{convert|20|C|F}} || {{convert|9|C|F}} || {{convert|-25|C|F}} || {{convert|-34|C|F}}
+|}
+
+==History==
+{{Main|History of Yukon}}
+
+[[File:Klondike mining, c.1899.jpg|thumb|Hill-side mining during the [[Klondike Gold Rush]], {{circa|1899}}]]
+Long before the arrival of Europeans, the central and southern Yukon was populated by First Nations people, and the area escaped [[Glacier|glaciation]]. Sites of [[Archaeology|archeological]] significance in the Yukon hold some of the earliest evidence of the presence of human habitation in North America.<ref name="tc.gov.yk.ca">Services, Cultural. Archaeology Program. Department of Tourism and Culture. [Online] March 8, 2011. [Cited: April 7, 2012.] [http://www.tc.gov.yk.ca/archaeology.html]</ref> The sites safeguard the history of the first people and the earliest First Nations of the Yukon.<ref name="tc.gov.yk.ca" />
+
+The [[volcano|volcanic]] eruption of [[Mount Churchill]] in approximately 800 AD in what is now the U.S. state of Alaska blanketed the southern Yukon with a layer of [[Volcanic ash|ash]] which can still be seen along the [[Klondike Highway]], and which forms part of the oral tradition of First Nations peoples in the Yukon and further south in Canada.
+
+Coastal and inland First Nations had extensive trading networks. European incursions into the area began early in the 19th century with the [[fur trade]], followed by [[Missionary|missionaries]]. By the 1870s and 1880s, gold miners began to arrive. This drove a population increase that justified the establishment of a police force, just in time for the start of the [[Klondike Gold Rush]] in 1897. The increased population coming with the gold rush led to the separation of the Yukon district from the Northwest Territories and the formation of the separate Yukon Territory in 1898.
+
+==Demographics==
+{{Main|Demographics of Yukon}}
+
+The [[2021 Canadian census|2021 census]] reported a Yukon population of 40,232.<ref name=2021CensusYukon/> With a land area of {{cvt|472,345.44|km2}}, it had a population density of {{Pop density|40232|472345.44|km2|sqmi|prec=2}} in 2021, the highest among Canada's three territories.<ref name="2011censusYKmunis">{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/Table-Tableau.cfm?LANG=Eng&T=302&SR=1&S=51&O=A&RPP=9999&CMA=0&PR=60 |title=Population and dwelling counts, for Canada, provinces and territories, and census subdivisions (municipalities), 2011 and 2006 censuses (Yukon) |publisher=Statistics Canada |date=January 13, 2014 |access-date=January 15, 2014}}</ref> Statistics Canada has estimated Yukon's 2024 population to be 46,948,<ref name=SCEst/> an increase of 17.5% from the 2016 census. This is the largest percentage increase for any Canadian province or territory.
+
+Unlike in other Canadian [[Provinces and territories of Canada|provinces and territories]], [[Statistics Canada]] uses the entire territory as a single at-large census division.
+<!--{{Graph:Chart
+ | width =150
+ | height= 100
+ | type = line
+ | interpolate = 
+ | xType = date
+ | xAxisAngle = -40
+ | yAxisTitle = Population
+ | yGrid = yes
+ | linewidth = 2
+ | x =1901, 1911, 1921, 1931, 1941, 1951, 1956, 1961, 1966, 1971, 1975, 1981, 1986, 1991, 1996, 2001, 2006, 2011, 2016, 2021
+ | y = 27219, 8512, 4157, 4230, 4914, 9096, 12190, 14628, 14382, 18390, 21835, 23150, 23505, 27797, 30766, 28674, 30372, 33897, 35874, 40232
+ | colors = #fcc917
+}}-->
+
+===Ethnicity===
+{{see also|Indigenous peoples in Yukon}}
+According to the [[2021 Canadian census]] the majority of the territory's population was of European descent, although it has a significant population of [[First Nations in Canada|First Nations]] communities across the territory. The 2021 census examined the Yukon's ethnocultural diversity and immigration. At that time, 83.2% of residents were Canadian-born and 22.3% were of Indigenous origin. The most common countries of birth for immigrants were the Philippines (26.1%), the United States (9.8%), and the United Kingdom (9.7%). Among very recent immigrants (between 2016 and 2021) living in the Yukon, 56% were born in Asia.<ref name=2021CensusYukon>{{cite web |title=Census Profile, 2021 Census of Population Profile Table Yukon [Territory] |url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=E&SearchText=Yukon&DGUIDlist=2021A000260&GENDERlist=1,2,3&STATISTIClist=1,4&HEADERlist=0 |publisher=[[Statistics Canada]] |work=2021 Census |date=June 5, 2026 |access-date=August 22, 2025}}</ref>
+
+As of the 2021 census, the top ten ancestries in the Yukon were:<ref name=2021CensusYukon/>
+{| class="wikitable sortable" 
+|-
+!Rank
+!Ethnic group
+!Population (2021)
+!Percentage
+|-
+|1
+|[[English Canadians|English]]
+|9,105
+|23.0
+|-
+|2
+|[[Indigenous peoples in Canada|Indigenous]]
+|8,810
+|22.3
+
+|-
+|3
+|[[Scottish Canadians|Scottish]]
+|8,375
+|21.2
+
+|-
+|4
+|[[Irish Canadians|Irish]]
+|7,440
+|18.8
+|-
+|5
+|[[German Canadians|German]]
+|5,325
+|13.5
+
+|-
+
+|6
+|[[Canadian ethnicity|Canadian]]
+|4,680
+|11.8
+|-
+|7
+|[[Francophonie|French]]{{Efn|This refers to people of the [[Francophonie|Francophone world]] that have not been included elsewhere. [[French Canadians]], of which there are 600 people, make up 1.5% of the population.}}
+|4,245
+|11.8
+|-
+|8
+|[[Ukrainian Canadians|Ukrainian]]
+|1,975
+|5.0
+|-
+|9
+|[[Dutch Canadians|Dutch]]
+|1,825 
+|4.6
+|-
+|10
+|[[Filipino Canadians|Filipino]]
+|1,490 
+|4.5
+|}
+
+===Language===
+The most commonly reported mother tongue among the 39,840 single responses to the [[2021 Canadian census]] was English at 31,995 ({{percentage|31995|39840}}).<ref name=2021CensusYukon/> The second-most common was 1,455 ({{percentage|1785|39840}}) for French.<ref name=2021CensusYukon/> Among the 1,355 multiple respondents, 440 of them ({{percentage|440|1355}}) reported a mother tongue of both English and French, while 785 ({{percentage|785|1355}}) reported English and a "{{nowrap|non-official}} language" and 15 ({{percentage|15|1355}}) reported French and a "{{nowrap|non-official}} language".<ref name=2021CensusYukon/>
+
+The Yukon's ''Language Act'' "recognizes the significance" of the territory's aboriginal languages in the Yukon, and permits their use in Legislative Assembly proceedings, although only English and French are available for laws and court proceedings.<ref>{{cite web |url=http://www.gov.yk.ca/legislation/acts/languages.pdf |title=Language Act, Statues of the Yukon (2002) |access-date=February 22, 2011}}</ref>
+
+{{col-begin}}
+{{col-break|width=40%}}
+{| class="wikitable plainrowheaders" style="width: 95%; float: left;"
+|-
+!colspan=2| First Nations linguistic groups by tribes/clans<ref>{{Cite web|url=http://www.cyfn.ca/ourNations/ |archive-url=https://web.archive.org/web/20020714191630/http://www.cyfn.ca/ourNations/ |archive-date=2002-07-14 |title=Council of Yukon First Nations-Our Nations|date=July 14, 2002}}</ref>
+|-
+! scope="col" | Linguistic group
+! scope="col" | Tribe/clan
+|-
+! scope="row" | [[Gwich'in]]
+| [[Vuntut Gwitchin First Nation]], [[Old Crow, Yukon|Old Crow]]
+|-
+! scope="row" | [[Hän language|Hän]]
+| [[Tr'ondëk Hwëch'in First Nation]], [[Dawson City, Yukon|Dawson City]]
+|-
+! scope="row" | [[Upper Tanana language|Upper Tanana]]
+| [[White River First Nation]], [[Beaver Creek, Yukon|Beaver Creek]]
+* Small communities near [[Tok, Alaska|Tok]] (Alaska)
+|-
+! scope="row" | [[Northern Tutchone]]
+| [[Selkirk First Nation]]
+* [[Little Salmon/Carmacks First Nation]]
+* [[First Nation of Na-Cho Nyäk Dun]], [[Mayo, Yukon|Mayo]]
+|-
+! scope="row" | [[Southern Tutchone]]
+| [[Champagne and Aishihik First Nations]], [[Haines Junction, Yukon|Haines Junction]]
+* [[Kluane First Nation]], [[Burwash Landing, Yukon|Burwash Landing]]
+* [[Ta'an Kwach'an Council]], [[Lake Laberge]]
+* [[Kwanlin Dün First Nation]], [[Whitehorse, Yukon|Whitehorse]]
+|-
+! scope="row" | [[Kaska]]
+| [[Ross River Dena Council]], [[Ross River, Yukon|Ross River]]
+* [[Liard River First Nation]], [[Watson Lake, Yukon|Watson Lake]]
+|-
+! scope="row" | [[Tlingit people|Inland Tlingit]]
+| [[Teslin Tlingit Council]]
+|-
+! scope="row" | [[Tagish]]
+| [[Carcross/Tagish First Nation]]
+|}
+{{col-break|width=20%|align=center}}
+{| class="wikitable" style="width: 95%;"
+!colspan=4| Mother tongue, 2021 census<ref name=2021CensusYukon/>
+|-
+!Rank
+!align="left"| Language
+!Population
+!Percent
+|- style="text-align:right;"
+|1.
+| style="text-align:left;"|English
+|31,995
+|80.31%
+|- style="text-align:right;"
+|2.
+| style="text-align:left;"|French
+|1,785
+|4.48%
+|- style="text-align:right;"
+|3.
+| style="text-align:left;"|Tagalog
+|985
+|2.47%
+|- style="text-align:right;"
+|4.
+| style="text-align:left;"|German
+|600
+|1.51%
+|- style="text-align:right;"
+|5.
+| style="text-align:left;"|Punjabi
+|410
+|1.03%
+|- style="text-align:right;"
+|6.
+| style="text-align:left;"|Spanish
+|235
+|0.59%
+|- style="text-align:right;"
+|7.
+| style="text-align:left;"|Cantonese (Yue)
+|200
+|0.50%
+|- style="text-align:right;"
+|8.
+| style="text-align:left;"|Japanese
+|135
+|0.34%
+|- style="text-align:right;"
+|9.
+| style="text-align:left;"|Mandarin
+|130
+|0.33%
+|- style="text-align:right;"
+|10.
+| style="text-align:left;"|Tuchone Languages
+|115
+|0.29%
+|}
+{{col-end}}
+
+===Religion===
+[[File:Sikh men in turbans sitting and standing on rocky bank with bags and supplies, Whitehorse, Yukon Territory, April 1906 (AL+CA 7021).jpg|thumb|right|250px|Sikhs in [[Whitehorse]], Yukon in April 1906]]
+The [[2021 Canadian census]] reported that 59.7% of Yukoners reported having no religious affiliation, the [[Irreligion in Canada|highest percentage in Canada]]. The most frequently reported religious affiliation was Christianity, reported by 35.0% of residents, followed by Sikhism at 1.0%.<ref name="auto">{{cite web |url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=E&SearchText=Yukon&DGUIDlist=2021A000260&GENDERlist=1,2,3&STATISTIClist=1&HEADERlist=0|title=Census Profile, 2021 Census of Population, Yukon|date=February 9, 2022 |publisher= [[Statistics Canada]] |access-date=November 20, 2022}}</ref>
+{| class="wikitable"
+! colspan="3" | Religious beliefs in Yukon ([[Canada 2021 Census|2021 census]])<ref name="auto"/>
+|-
+! Religion
+! Adherents
+! % of the population
+|-
+|[[Irreligion in Canada|No religion and secular perspectives]]||23,640 ||{{Percentage |  23,640 |  39,590| 2 }}
+|-
+|[[Christianity in Canada|Christian]] ||13,860||{{Percentage |  13,860|  39,590| 2 }}
+|-
+|[[Sikhism in Canada|Sikh]]||380||{{Percentage | 380|  39,590| 2 }}
+|-
+|Traditional (North American Indigenous) spirituality ||325||{{Percentage | 325|  39,590| 2 }}
+|-
+|[[Hinduism in Canada|Hindu]] ||265||{{Percentage | 265|  39,590| 2 }}
+|-
+|[[Buddhism in Canada|Buddhist]] ||260||{{Percentage | 260|  39,590| 2 }}
+|-
+|[[Islam in Canada|Muslim]] ||185||{{Percentage | 185|  39,590| 2 }}
+|-
+|[[Judaism in Canada|Jewish]] ||70||{{Percentage | 70|  39,590| 2 }}
+|-
+|[[Religion in Canada|Other religions and spiritual traditions]]||600||{{Percentage | 600|  39,590| 2 }}
+|-
+|''Total''||''39,590''||''{{Percentage | 39,590| 39,590| 2 }}''
+|}
+
+==Economy==
+[[File:Hopper and Cart (15671202387).jpg|thumb|A conveyor belt and cart outside of a mine tunnel in the Yukon. The economy of the territory has historically been centred around mining.]]
+The Yukon's major industry is mining (lead, [[zinc]], silver, gold, [[asbestos]] and copper). The federal government acquired the land from the [[Hudson's Bay Company]] in 1870 and split it from the [[Northwest Territories]] in 1898 to fill the need for local government created by the population influx of the gold rush. Thousands of these prospectors moved to the territory, ushering a period of Yukon history recorded by authors such as [[Robert W. Service]] and [[Jack London]]. The memory of this period and the early days of the [[Royal Canadian Mounted Police]], as well as the territory's scenic wonders and outdoor recreation opportunities, makes tourism the second most important industry in the territory.
+
+Manufacturing, including furniture, clothing, and handicrafts, follows in importance, along with [[hydroelectricity]]. The traditional industries of [[Animal trapping|trapping]] and fishing have declined. As of 2012, the government sector directly employs approximately 6,300 out of a labour force of 20,800, on a population of 27,500.<ref>{{Cite web |url=https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010002501&pickMembers%5B0%5D=1.13&pickMembers%5B1%5D=2.1 |title=Archived – Public sector employment, wages and salaries, seasonally unadjusted and adjusted |website=Statistics Canada |date=August 2012 |access-date=September 23, 2019}}</ref><ref>{{Cite web |url=https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410009001#timeframe |title=Labour force characteristics by province, territory and economic region, annual (x 1,000) |website=Statistics Canada |date=January 28, 2015 |access-date=September 23, 2019}}</ref>
+
+On May 1, 2015, the Yukon modified its Business Corporations Act,<ref name="buco">[http://www.gov.yk.ca/legislation/acts/buco_c.pdf gov.yk.ca: "Business Corporations Act"] {{webarchive |url=https://web.archive.org/web/20151016133756/http://www.gov.yk.ca/legislation/acts/buco_c.pdf |date=October 16, 2015}}, May 1, 2015</ref><ref name="oic1">[http://www.gov.yk.ca/legislation/regs/oic2015_006.pdf gov.yk.ca: "O.I.C. 2015/06 Business Corporations Act"] {{webarchive |url=https://web.archive.org/web/20151009192515/http://www.gov.yk.ca/legislation/regs/oic2015_006.pdf |date=October 9, 2015}}, May 1, 2015</ref><ref name="ociname">[http://www.gov.yk.ca/legislation/regs/oic2015_007.pdf gov.yk.ca: "O.I.C. 2015/07 Societies Act"] {{webarchive |url=https://web.archive.org/web/20151009071331/http://www.gov.yk.ca/legislation/regs/oic2015_007.pdf |date=October 9, 2015}}, May 1, 2015</ref> in an effort to attract more benefits and participants to its economy. One amendment to the BCA lets a proxy be given for voting purposes. Another change will allow directors to pursue business opportunities declined by the corporation, a practice off-limits in most other jurisdictions due to the inherent potential for conflicts of interest.<ref name="ytbca">[https://www.cbc.ca/news/business/go-north-not-west-yukon-lures-businesses-with-new-company-rules-1.3057441 cbc.ca: "Go north, not west: Yukon lures businesses with new company rules"], May 1, 2015</ref> One of the changes will allow a corporation to serve as a director of a subsidiary registered in Yukon.<ref name="gm18">[https://www.theglobeandmail.com/report-on-business/yukons-move-to-draw-corporations-worries-shareholders-coalition/article25030368/ theglobeandmail.com: "Yukon's move to draw corporations worries shareholders coalition"], June 18, 2015</ref> The legislation also allows companies to add provisions in their articles of incorporation giving directors blanket approval to sell off all of the company's assets without requiring a shareholder vote.<ref name="gm18" /> If provided for by a unanimous shareholders agreement, a corporation is not required to have directors at all.<ref name="dla">[http://www.deallawwire.com/2015/06/02/changes-of-note-to-the-yukon-business-corporations-act/ deallawwire.com: "Changes of note to the Yukon Business Corporations Act"] {{Webarchive|url=https://web.archive.org/web/20150923213134/http://www.deallawwire.com/2015/06/02/changes-of-note-to-the-yukon-business-corporations-act/ |date=September 23, 2015 }}, June 2, 2015</ref> There is increased flexibility regarding the location of corporate records offices, including the ability to maintain a records office outside of the Yukon so long as it is accessible by electronic means.<ref name="dla" />
+
+===Tourism===
+[[File:Sheep Slot Rapids, Firth River, Ivvavik National Park, YT.jpg|thumb|[[Ivvavik National Park]] is one of three [[National Parks of Canada|national parks]] located in Yukon.]]
+Tourism revenue in the Yukon garnered over $560 million in 2024.<ref name="x032">{{cite web | title=Yukon tourism indicators | website=Economic overview | url=https://open-data-static-files.service.yukon.ca/tourism-indicators/economic-overview.html | access-date=2025-12-10}}</ref> The territory's tourism motto is "Larger than life".<ref>[http://www.travelyukon.com/en/ Travel Yukon] {{webarchive |url=https://web.archive.org/web/20081012232640/http://www.travelyukon.com/en/ |date=October 12, 2008}}</ref> Its tourism industry relies heavily on natural environment, with many organized [[outfitter]]s and [[guide]]s available for activities such as [[hunting]], [[Fisherman|angling]], [[canoe]]ing/[[kayak]]ing, [[hiking]], [[skiing]], [[snowboarding]], [[ice climbing]], and [[dog sled]]ding. These activities are offered both in an organized setting or in the [[backcountry skiing|backcountry]], which is accessible by air or [[snowmobile]]. The Yukon's festivals and sporting events include the [[Adäka Cultural Festival]], [[Yukon International Storytelling Festival]], and the [[Yukon Sourdough Rendezvous]]. The Yukon's latitude enables the view of [[Aurora (astronomy)|aurora borealis]].
+
+The Yukon Government maintains a series of territorial parks,<ref>{{cite web |url=http://environmentyukon.gov.yk.ca/parksconservation/yukonparks.php |title=Territorial Parks |publisher=Environmentyukon.gov.yk.ca |access-date=February 22, 2011 |archive-url=https://web.archive.org/web/20080212184643/http://environmentyukon.gov.yk.ca/parksconservation/yukonparks.php |archive-date=February 12, 2008}}</ref> including parks such as [[Herschel Island]] [[Qikiqtaruk Territorial Park]],<ref>{{cite web |url=http://environmentyukon.gov.yk.ca/parksconservation/HerschelIslandQikiqtaruk.php |title=Herschel Island Qikiqtaruk Territorial Park |publisher=Environmentyukon.gov.yk.ca |access-date=February 22, 2011 |archive-url=https://web.archive.org/web/20110313111842/http://www.environmentyukon.gov.yk.ca/parksconservation/HerschelIslandQikiqtaruk.php |archive-date=March 13, 2011}}</ref> [[Tombstone Territorial Park]],<ref>{{cite web |url=http://environmentyukon.gov.yk.ca/parksconservation/tombstonepark.php |title=Tombstone Territorial Park |publisher=Environmentyukon.gov.yk.ca |access-date=February 22, 2011 |archive-url=https://web.archive.org/web/20110315175203/http://www.environmentyukon.gov.yk.ca/parksconservation/tombstonepark.php |archive-date=March 15, 2011}}</ref> [[Ni'iinlii'njik (Fishing Branch) Territorial Park|Fishing Branch Ni'iinlii'njik Park]],<ref>{{cite web |url=http://environmentyukon.gov.yk.ca/parksconservation/FishingBranch.php |title=Fishing Branch Ni'iinlii'njik Park |publisher=Environmentyukon.gov.yk.ca |access-date=February 22, 2011 |archive-url=https://web.archive.org/web/20101218002252/http://www.environmentyukon.gov.yk.ca/parksconservation/FishingBranch.php |archive-date=December 18, 2010}}</ref> and [[Coal River Springs Territorial Park]].<ref>{{cite web |url=http://environmentyukon.gov.yk.ca/parksconservation/CoalRiverSprings.php |title=Coal River Springs Territorial Park |publisher=Environmentyukon.gov.yk.ca |access-date=February 22, 2011 |archive-url=https://web.archive.org/web/20120313062919/http://www.env.gov.yk.ca/parksconservation/CoalRiverSprings.php |url-status=dead |archive-date=March 13, 2012}}</ref> [[Parks Canada]], a federal agency of the [[Government of Canada]], also maintains three [[National Parks of Canada|national parks and reserves]] within the territory: [[Kluane National Park and Reserve]], [[Ivvavik National Park]], and [[Vuntut National Park]]. 
+[[File:Whitehorse entrance Yukon Beringia.JPG|thumb|The [[Yukon Beringia Interpretive Centre]] is an [[interpretive centre]] with a focus on the [[Beringia]] land bridge.]]
+The Yukon is also home to twelve [[List of National Historic Sites of Canada in Yukon|National Historic Sites of Canada]]. The sites are also administered by [[Parks Canada]], with five of the twelve sites being located within national parks. The territory is host to [[List of museums in Yukon|a number of museums]], including the [[Copperbelt Railway & Mining Museum]], the [[SS Klondike|SS ''Klondike'']] boat museum, the [[Yukon Beringia Interpretive Centre]] in Whitehorse; as well as the [[Keno City Mining Museum]] in [[Keno City]]. The territory also holds a number of enterprises that allows tourists to experience pre-colonial and modern cultures of Yukon's First Nations and Inuit.<ref>{{cite web |url=http://www.yfnta.org/ |title=Yukon First Nation Tourist Association |publisher=Yfnta.org |access-date=February 22, 2011 |archive-url=https://web.archive.org/web/20110524095311/http://www.yfnta.org/ |archive-date=May 24, 2011 |url-status=dead }}</ref>
+
+==Culture==
+The Yukon has a wide array of cultural and sporting events that attract artists, local residents, and tourists. Annual events include the [[Adäka Cultural Festival]], [[Dawson City Music Festival]], [[Yukon International Storytelling Festival]], [[Yukon Quest]] dog sled race, [[Yukon Sourdough Rendezvous]], as well as Klondike Gold Rush memorials<ref>{{cite web|title=Dawson Music Festival|url=https://www.dcmf.com|access-date=February 22, 2011|publisher=Dcmf.com}}</ref><ref>{{cite web|title=Yukon Beringia Interpretive Centre|url=https://www.beringia.com/|access-date=February 22, 2011|publisher=Beringia.com}}</ref> and the Northern Lights Centre.<ref>{{cite web|title=Northern Lights Centre|url=https://www.northernlightscentre.ca/|url-status=dead|archive-url=https://web.archive.org/web/20110203015418/http://northernlightscentre.ca/|archive-date=February 3, 2011|access-date=February 22, 2011|publisher=Northernlightscentre.ca}}</ref><ref>{{cite web|date=February 1, 2011|title=Whitehorse fish ladder|url=http://www.yukonenergy.ca/services/facilities/fishway/|archive-url=https://web.archive.org/web/20100903012416/http://www.yukonenergy.ca/services/facilities/fishway/|archive-date=September 3, 2010|access-date=February 22, 2011|publisher=Yukonenergy.ca}}</ref>
+[[File:YQ Start Whitehorse 2005 0002.jpg|thumb|A musher during the start of the [[Yukon Quest]] dog sledding race in Whitehorse]]
+The Yukon's Aboriginal culture is also strongly reflected in such areas as winter sports, as in the [[Yukon Quest]] sled dog race. The modern comic-book character [[Yukon Jack]] depicts a heroic aboriginal persona. Similarly, the territorial government also recognizes that First Nations and Inuit languages plays a part in cultural heritage of the territory; these languages include [[Tlingit language|Tlingit]], and the less common [[Tahltan]], as well as seven Athapaskan languages, [[Upper Tanana]], [[Gwich'in]], [[Hän people|Hän]], [[Northern Tutchone]], [[Southern Tutchone]], [[Kaska language|Kaska]], and [[Tagish]], some of which are rare.<ref>[http://www.pinnacle-travel.org/yukon/history-culture.htm Yukon Territory History and Culture] {{Webarchive|url=https://web.archive.org/web/20110907074048/http://www.pinnacle-travel.org/yukon/history-culture.htm|date=September 7, 2011}}, Pinnacle Travel</ref>
+
+===Arts===
+{{See also|Music of Yukon}}
+Notable Yukon artists include [[Jim Robb (painter)|Jim Robb]] and [[Ted Harrison]] and Emma Barr whose paintings have become iconic for their depictions of rugged landscape, historic and contemporary life and culture in the Yukon.<ref>{{Cite book|last=Hocking|first=Anthony|url=https://books.google.com/books?id=aet5AAAAMAAJ&q=%E2%80%9CTed+harrison%E2%80%9D+and+%E2%80%9CJim+Robb%E2%80%9D|title=The Yukon and Northwest Territories|publisher=McGraw-Hill Ryerson|year=1979|isbn=978-0-0708-2694-6|pages=29|language=en}}</ref>
+
+With the [[Klondike Gold Rush]], a number of [[folk music|folk]] songs from the Yukon became popular, including "Rush to the Klondike" (1897, written by W. T. Diefenbaker), "The Klondike Gold Rush", "I've Got the Klondike Fever" (1898), and "La Chanson du Klondyke".
+
+A notable cultural and tourist feature is the legacy of the [[Klondike Gold Rush]] (1897–1899), which inspired contemporary writers of the time such as [[Jack London]], [[Robert W. Service]], and [[Jules Verne]], and which continues to inspire films and games, such as Mae West's ''[[Klondike Annie]]'' and ''[[The Yukon Trail]]'' {{crossreference|(see [[Cultural legacy of the Klondike Gold Rush]])}}.
+
+==Government==
+===Yukon Legislature===
+[[File:Yukon Legislature main entrance.jpg|thumb|The [[Yukon Legislative Building]] is the meeting place for the territory's [[Legislative Assembly of Yukon|legislative assembly]].]]
+Executive power in the Yukon is formally vested in the [[Commissioner of Yukon|Territorial Commissioner]],<ref>{{Cite web |date=2022-04-12 |title=About |url=https://commissionerofyukon.ca/about |access-date=2022-06-09 |website=commissionerofyukon.ca}}</ref> who plays an analogous role to that of a provincial [[lieutenant governor]]. As guarantor of [[responsible government]] in the territory, the Commissioner generally acts on the advice of the [[Premier of Yukon]], who commands the confidence of the elected [[Legislative Assembly of Yukon|Legislative Assembly]]. Unlike lieutenant governors, commissioners are not direct representatives of the [[Monarchy of Canada|King]] but are instead appointed by the federal government.
+
+The Yukon has numerous political parties and candidates who stand for election to the 21 seats in the [[Yukon Legislative Assembly]]. Those elected to the legislature are known as [[Member of the Legislative Assembly|members of the Legislative Assembly]] and may use the post-nominal letters "MLA". The three parties presently represented are the centre-right leaning [[Yukon Party]] (14 seats) – who currently form government, the centre-left leaning [[Yukon New Democratic Party]] (6), and the centre-leaning [[Yukon Liberal Party]] (1).<ref>{{Cite web|last=Silva|first=Steve|date=19 April 2021|title=Yukon NDP win final riding by rare drawing of lots, maintaining Liberal, Yukon Party tie in assembly|url=https://www.cbc.ca/news/canada/north/silver-governnment-vuntut-gwitchin-recount-result-1.5993478}}</ref>
+
+The 12th and current [[premier of Yukon]] is [[Currie Dixon]]; he is the first premier born in the territory.<ref>[https://yukon.ca/en/your-government/office-premier/about-premier-mike-pemberton Yukon Government:  About Premier Mike Pemberton.]</ref>
+
+===Local government===
+{{See also|List of municipalities in Yukon|List of communities in Yukon}}
+[[File:Yukon municipalities.png|thumb|alt=Map showing locations of all municipalities of Yukon|Distribution of Yukon's eight municipalities by type]]
+The vast majority of the Yukon's land mass is [[Unorganized Yukon|unorganized]], with no defined municipal or otherwise supralocal level of government like in other parts of Canada.
+
+For most individuals in the Yukon, though, local level governance is provided by [[List of municipalities in Yukon|municipalities]]. The Yukon's eight [[municipality|municipalities]] cover only {{percentage|733.09|474712.68|1}} of the territory's land mass{{#tag:ref|The remaining 99.8% of Yukon's land mass contains two unincorporated [[Hamlet (place)|hamlets]], four [[Unorganized area (Canada)|unorganized areas]], four [[Indian settlement]]s, four self-governments ([[Indian reserve]]s), thirteen unincorporated [[Human settlement|settlements]] and a [[Teslin Tlingit Council|Teslin land]] claim.<ref name=StatCaninterim>{{cite web | url=https://www.statcan.gc.ca/pub/92f0009x/92f0009x2013000-eng.pdf | title=Interim List of Changes to Municipal Boundaries, Status, and Names: From January 2, 2012 to January 1, 2013 | publisher=Statistics Canada | type=[[PDF]] | pages=6&ndash;7 | accessdate=August 19, 2014}}</ref> [[Unorganized Yukon]], one of the four unorganized areas, accounts for the vast majority of the territory's land mass, at {{percentage|465513.32|474712.64|1}}.<ref name=2016censusYKmunis>{{cite web | url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?Lang=Eng&T=302&PR=60&S=86&O=A&RPP=25 | title=Population and dwelling counts, for Canada, provinces and territories, and census subdivisions (municipalities), 2016 and 2011 censuses – 100% data (Yukon) | publisher=[[Statistics Canada]] | date=February 8, 2017 | accessdate=February 11, 2017}}</ref>|group=lower-alpha}} but are home to {{percentage|29028|35874|1}} of its population.<ref name=2016censusYKmunis/><ref name=provinces>{{cite web | url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?Lang=Eng&T=101&S=50&O=A | title=Population and dwelling counts, for Canada, provinces and territories, 2016 and 2011 censuses – 100% data | publisher=[[Statistics Canada]] | date=February 6, 2017 | accessdate=February 11, 2017}}</ref><ref name=munis>{{cite web | url=http://www.community.gov.yk.ca/yukon_communities.html | title=Yukon Communities | publisher=Yukon Government: Department of Community Services | date=November 7, 2013 | accessdate=January 15, 2014 | url-status=dead | archiveurl=https://web.archive.org/web/20140116091318/http://www.community.gov.yk.ca/yukon_communities.html | archivedate=January 16, 2014 }}</ref>
+
+Municipal governments are created by the Yukon Government in accordance with the ''Municipal Act'' of 2001.<ref name=MunicipalAct>{{cite web | url=http://www.gov.yk.ca/legislation/acts/municipal.pdf | title=Municipal Act | publisher=Government of Yukon | year=2002 | accessdate=January 6, 2014}}</ref> Municipal governments provide "jurisdiction services, facilities, or things that a local government considers necessary or desirable for all or part of its community".<ref name=MunicipalAct/> Classifications of municipalities under the ''Municipal Act'' include [[city|cities]] and [[town]]s.<ref name=MunicipalAct/> [[Whitehorse, Yukon|Whitehorse]] is the capital of the Yukon and its only city. The remaining seven municipalities are towns, of which four were villages that were continued as towns upon adoption of the 2001 ''Municipal Act''.<ref name=MunicipalAct/>
+
+The usage is somewhat confusing: according to the Municipal Act of 2001 villages are legally given the status of towns, but may call themselves villages in English. In French they are called villages, and the French word ville, which means town, is not used for them. Instead larger settlements are called ville and even bigger ones grande ville, apart from Dawson which is called a cité, and in English is also called a city. [[Keno City]], though unincorporated, also bears city in its name.
+
+===History===
+In the 19th century, the Yukon was a segment of [[North-Western Territory]] that was administered by the [[Hudson's Bay Company]], and then of the Northwest Territories administered by the federal Canadian government. It only obtained a recognizable local government in 1895 when it became a separate [[Districts of the Northwest Territories|district of the Northwest Territories]].<ref>Coates and Morrison, p.74</ref> In 1898, it was made a separate territory with its own commissioner and an appointed Territorial Council.<ref>Coates and Morrison, p.103</ref>
+
+[[File:North-western-territory.png|thumb|upright=1.3|From the early 19th century to 1870, the areas that made up the Yukon were administered by the [[Hudson's Bay Company]] as the [[North-Western Territory]].]]
+Prior to 1979, the territory was administered by the [[Commissioner#Canadian territories|commissioner]] who was appointed by the federal [[Minister of Indian Affairs and Northern Development (Canada)|Minister of Indian Affairs and Northern Development]]. The commissioner had a role in appointing the territory's ''Executive Council'', served as chair, and had a day-to-day role in governing the territory. The elected ''Territorial Council'' had a purely advisory role. In 1979, a significant degree of power was [[Devolution|devolved]] from the commissioner and the federal government to the territorial legislature which, in that year, adopted a party system of [[responsible government]]. This change was accomplished through a letter from [[Jake Epp]], Minister of Indian Affairs and Northern Development, rather than through formal legislation.
+
+In preparation for [[responsible government]], political parties were organized and ran candidates to the [[Yukon Legislative Assembly]] for the first time in 1978. The [[Yukon Party|Progressive Conservatives]] won these elections and formed the first party government of the Yukon in January 1979. The [[Yukon New Democratic Party]] (NDP) formed the government from 1985 to 1992 under [[Tony Penikett]] and again from 1996 under [[Piers McDonald]] until being defeated in 2000. The conservatives returned to power in 1992 under [[John Ostashek]] after having renamed themselves the [[Yukon Party]]. The [[Yukon Liberal Party|Liberal]] government of [[Pat Duncan]] was defeated in elections in November 2002, with [[Dennis Fentie]] of the Yukon Party forming the government as [[Premier (Canada)|premier]]. In 2003, the old ''Yukon Act'' was repealed and replaced by a new ''Yukon Act'', which continued the existing powers of the Yukon Government, and devolved additional powers to the territorial government such as control over land and natural resources.<ref>{{cite web |last1=Graham |first1=Katherine |last2=Yarhi |first2=Eli |title=Territorial Government in Canada |url=https://www.thecanadianencyclopedia.ca/en/article/territorial-government |website=The Canadian Encyclopedia |access-date=4 June 2024}}</ref>
+
+===Federal representation===
+{{main|Yukon (electoral district)}}
+
+At the federal level, the Yukon is represented in the [[Parliament of Canada]] by one member of Parliament (MP) and one [[Senate of Canada|senator]]. MPs from Canadian territories are full and equal voting representatives and residents of the territory enjoy the same rights as other Canadian citizens. One Yukon MP, [[Erik Nielsen]], served as [[Deputy Prime Minister of Canada|Deputy Prime Minister]] under [[Brian Mulroney]], while another, [[Audrey McLaughlin]], was the leader of the federal [[New Democratic Party (Canada)|New Democratic Party]] (NDP) from 1989 to 1995.
+
+===First Nations===
+{{col-begin}}
+{{col-break|width=60%}}A substantial minority of the territory's population is [[First Nations in Canada|First Nations]]. An [[Yukon Land Claims|umbrella land claim agreement]] representing 7,432 members of fourteen different First Nations was signed with the federal government in 1993. Eleven of the fourteen Yukon First Nations have negotiated and signed comprehensive land claim and self-government agreements. The fourteen First Nations speak eight different languages.
+
+The territory once had an [[Inuit]] settlement, located on [[Herschel Island]] off the [[Arctic Ocean]] coast. This settlement was dismantled in 1987 and its inhabitants relocated to the neighbouring Northwest Territories. As a result of the Inuvialuit Final Agreement, the island is now a territorial park and is known officially as [[Qikiqtaruk Territorial Park]], Qikiqtaruk being the name of the island in [[Inuvialuktun]].{{col-break|width=60%}}
+{| class="wikitable" float: right;"
+|-
+! Government !! Seat !! Chief
+|-
+| [[Carcross/Tagish First Nation]] || [[Carcross, Yukon|Carcross]] || Khà Shâde Héni Andy Carvill<ref>{{cite web |url=http://www.ctfn.ca/governance/2012-02-25-00-51-11/executive |title=Executive Council |publisher=Ctfn.ca |access-date=October 31, 2016 |archive-url=https://web.archive.org/web/20180307023307/https://www.ctfn.ca/governance/2012-02-25-00-51-11/executive |archive-date=March 7, 2018}}</ref>
+|-
+| [[Champagne and Aishihik First Nations]] || [[Haines Junction, Yukon|Haines Junction]] || Steve Smith<ref>{{cite web |url=http://cafn.ca/government/chief-council/ |title=Dän nätthe dä̀tthʼi (Chief and Council) |publisher=Champagne and Aishihik First Nations |access-date=October 31, 2016 |archive-url=https://web.archive.org/web/20161019135906/http://cafn.ca/government/chief-council/ |archive-date=October 19, 2016 |url-status=dead }}</ref>
+|-
+| [[First Nation of Na-cho Nyak Dun]] || [[Mayo, Yukon|Mayo]] || Simon Mervyn<ref>{{cite web |url=http://www.nndfn.com/departments/main-administration/ |title=Governance and Administration |publisher=First Nation of Nacho Nyak Dun |date=October 20, 2016 |access-date=October 31, 2016 |archive-url=https://web.archive.org/web/20161018233326/http://www.nndfn.com/departments/main-administration/ |archive-date=October 18, 2016 |url-status=dead }}</ref>
+|-
+| [[Kluane First Nation]] || [[Burwash Landing, Yukon|Burwash Landing]] || Mathieya Alatini<ref>{{cite web |url=https://www.kfn.ca/index.php/government/chief-and-council |title=Chief and Council |publisher=Kluane First Nation |access-date=October 31, 2016 |archive-url=https://web.archive.org/web/20161024094012/http://kfn.ca/index.php/government/chief-and-council |archive-date=October 24, 2016 |url-status=dead }}</ref>
+|-
+| [[Kwanlin Dün First Nation]] || [[Whitehorse, Yukon|Whitehorse]] || Doris Bill<ref>{{cite web |url=https://www.cbc.ca/news/canada/north/doris-bill-elected-kwanlin-dun-chief-1.2580056 |title=Doris Bill elected Kwanlin Dun chief |publisher=CBC News |date=March 20, 2014 |access-date=October 31, 2016}}</ref>
+|-
+| [[Liard River First Nation]] || [[Watson Lake, Yukon|Watson Lake]] || Daniel Morris<ref>{{cite web |url=http://www.kaskadenacouncil.com/kaska-nations/liard-first-nation |title=Liard First Nation |publisher=Kaska Dena Council |access-date=October 31, 2016 |archive-url=https://web.archive.org/web/20160914213124/http://www.kaskadenacouncil.com/kaska-nations/liard-first-nation |archive-date=September 14, 2016 |url-status=dead }}</ref>
+|-
+| [[Little Salmon/Carmacks First Nation]] || [[Carmacks, Yukon|Carmacks]] || Eric Fairclough<ref>{{cite web |url=http://www.lscfn.ca/departments-c_c-res.html |title=Chief & Council |publisher=Little Salmon Carmacks First Nation |access-date=October 31, 2016 |archive-url=https://web.archive.org/web/20170112200935/http://www.lscfn.ca/departments-c_c-res.html |archive-date=January 12, 2017 |url-status=dead }}</ref>
+|-
+| [[Ross River Dena Council]] || [[Ross River, Yukon|Ross River]] || Dylan Loblaw<ref>{{cite web |url=https://www.cbc.ca/news/canada/north/dylan-loblaw-chief-ross-river-dena-nation-1.6386067 |title=Dylan Loblaw elected chief of Ross River Dena Council|publisher=CBC News |date=March 15, 2022|access-date=August 2, 2022}}</ref>
+|-
+| [[Selkirk First Nation]] || [[Pelly Crossing, Yukon|Pelly Crossing]] || Kevin McGinty<ref>{{cite web |author=Selkirk First Nation |url=http://www.selkirkfn.com/government/structure/council/ |title=The Council |publisher=Selkirk First Nation |access-date=October 31, 2016 |archive-date=June 28, 2023 |archive-url=https://web.archive.org/web/20230628002820/http://www.selkirkfn.com/government/structure/council/ |url-status=dead }}</ref>
+|-
+| [[Ta'an Kwach'an Council]] || Whitehorse || Kristina Kane<ref>{{cite web |url=http://taan.ca/governance/chief-and-council/ |title=Chief and Council |publisher=Government of the Ta'an Kwäch'än Council |access-date=October 31, 2016 |archive-url=https://web.archive.org/web/20161111160643/http://taan.ca/governance/chief-and-council/ |archive-date=November 11, 2016 |url-status=dead }}</ref>
+|-
+| [[Teslin Tlingit Council]] || [[Teslin, Yukon|Teslin]] || Richard Sidney<ref>{{cite web |url=https://www.cbc.ca/news/canada/north/richard-sidney-elected-chief-teslin-tlingit-1.3681143 |title=Richard Sidney elected chief of Teslin Tlingit Council |publisher=CBC News |date=July 15, 2016 |access-date=October 31, 2016}}</ref>
+|-
+| [[Tr'ondëk Hwëch'in]] || [[Dawson City, Yukon|Dawson City]] || Roberta Joseph<ref>{{cite web |url=https://www.cbc.ca/news/canada/north/roberta-joseph-new-chief-of-dawson-s-tr-ondek-hwech-in-1.2794826 |title=Roberta Joseph new chief of Dawson's Tr'ondek Hwech'in |publisher=CBC News |date=October 10, 2014 |access-date=October 31, 2016}}</ref>
+|-
+| [[Vuntut Gwitchin First Nation]] || [[Old Crow, Yukon|Old Crow]] || [[Dana Tizya-Tramm]]<ref>{{cite web |url=https://www.cbc.ca/news/canada/north/old-crow-vgfn-tizya-tramm-1.4974171 |title=Humbled Beyond Words Dana Tizya-Tramm becomes Chief of Vuntut Gwitchin |publisher=CBC News |date=January 11, 2019 |access-date=January 25, 2021}}</ref>
+|-
+| [[White River First Nation]] || [[Beaver Creek, Yukon|Beaver Creek]] || Angela Demit<ref>{{cite web |url=https://whiteriverfirstnation.com/chief-council/ |title=Chief & Council |publisher=White River First Nation |access-date=October 31, 2016 |archive-url=https://web.archive.org/web/20170202005457/https://whiteriverfirstnation.com/chief-council/ |archive-date=February 2, 2017}}</ref>
+|}
+{{col-end}}
+
+==Transportation==
+
+[[File:Whitehorse Airport, Yukon Territory.jpg|thumb|[[Erik Nielsen Whitehorse International Airport]] serves as the air transport hub for Yukon]]
+Before modern forms of transportation, the rivers and mountain passes were the main transportation routes for the coastal [[Tlingit people]] trading with the Athabascans of the [[Chilkoot Pass]] and [[Dalton Trail]], as well as the first Europeans.
+===Air===
+{{see also|List of airports in Yukon}}
+
+[[Erik Nielsen Whitehorse International Airport]] serves as the air transport infrastructure hub, with scheduled direct flights to [[Calgary International Airport|Calgary]], [[Dawson City Airport|Dawson City]], [[Edmonton International Airport|Edmonton]], [[Inuvik (Mike Zubko) Airport|Inuvik]], [[Kelowna International Airport|Kelowna]], [[Old Crow]], [[Ottawa International Airport|Ottawa]], [[Toronto Pearson International Airport|Toronto–Pearson]], [[Vancouver International Airport|Vancouver]], [[Victoria International Airport|Victoria]], and [[Yellowknife Airport|Yellowknife]]. It was formerly connected to [[Frankfurt Airport|Frankfurt]] by [[Condor (airline)|Condor]] before the airline temporarily suspended the route in 2023 until the completion of a runway reconstruction project when services are expected to resume.<ref>{{Cite web |date=23 June 2023 |title=Condor Airlines won't fly to Yukon for at least the next 2 summers |url=https://www.cbc.ca/news/canada/north/condor-airlines-whitehorse-airport-1.6815719 |website=CBC}}</ref>
+
+===Rail===
+{{Yukon rail network}}
+The railway ceased operation in the 1980s with the first closure of the [[Faro, Yukon|Faro]] mine. It is now run during the summer months for the tourism season, with operations between [[Carcross, Yukon|Carcross]] and Skagway, Alaska.<ref>{{Cite web|url=https://arc.lib.montana.edu/snow-science/objects/ISSW16_P4.48.pdf|title=THE WHITE PASS AND YUKON ROUTE AVALANCHE PROGRAM, FORECASTING AND RISK MANAGEMENT FOR A HISTORICAL RAILROAD}}</ref>
+
+===Roads===
+{{see also|List of Yukon territorial highways}}
+[[File:Yukon Highway.jpg|thumb|The [[Klondike Highway]] is one of several territorial highways in Yukon.]]
+Today, major land routes include the [[Alaska Highway]], the [[Klondike Highway]] (between Skagway and Dawson City), the [[Haines Highway]] (between [[Haines, Alaska]], and [[Haines Junction, Yukon|Haines Junction]]), and the [[Dempster Highway]] (linking [[Inuvik]], Northwest Territories to the Klondike Highway, and the only road access route to the [[Arctic Ocean]] in Canada), all paved except for the Dempster. Other highways with less traffic include the [[Robert Campbell Highway]] linking [[Carmacks, Yukon|Carmacks]] (on the Klondike Highway) to [[Watson Lake, Yukon|Watson Lake]] (Alaska Highway) via Faro and [[Ross River, Yukon|Ross River]], and the [[Silver Trail]] linking the old silver mining communities of [[Mayo, Yukon|Mayo]], [[Elsa, Yukon|Elsa]], and [[Keno City, Yukon|Keno City]] to the Klondike Highway at the Stewart River bridge. Air travel is the only way to reach the far-north community of Old Crow.
+
+===Waterways===
+From the Gold Rush until the 1950s, riverboats plied the Yukon River, mostly between Whitehorse and Dawson City, with some making their way further to Alaska and over to the [[Bering Sea]], and other tributaries of the Yukon River such as the [[Stewart River (Yukon)|Stewart River]]. Most of the riverboats were owned by the British-Yukon Navigation Company, an arm of the [[White Pass and Yukon Route]], which also operated a [[narrow-gauge railway]] between [[Skagway, Alaska]], and Whitehorse.
+
+==See also==
+{{portal|Canada}}
+* [[Outline of Yukon]]
+{{clear}}
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{Main|Bibliography of the Arctic|Bibliography of the history of Canadian Arctic}}
+{{refbegin}}
+* {{citation |last=Coates |first=Kenneth |year=1985 |title=Canada's colonies: a history of the Yukon and Northwest Territories |url=https://books.google.com/books?id=sPXVRynQH5wC&q=Yukon&pg=PP1 |publisher=Lorimer |isbn=0-8886-2931-1}}
+* {{Citation |first1=Ken S. |last1=Coates |name-list-style=amp |first2=William R. |last2=Morrison |year=1988 |title=Land of the Midnight Sun: A History of the Yukon |url=https://books.google.com/books?id=_q_H8vdlezsC&q=Yukon&pg=PP1 |publisher=Hurtig Publishers |location=Edmonton |isbn=0-8883-0331-9}}
+* {{citation |last=Cody |first=William J |year=2000 |title=Flora of the Yukon Territory |url=https://books.google.com/books?id=-5hfWWmwE78C&q=Yukon&pg=PP1 |publisher=National Research Press |isbn=0-6601-8110-X}}
+* {{citation |last=Hart |first=Ann |year=2000 |title=Alaska and the Yukon |url=https://books.google.com/books?id=LiyDDMG2e3cC&q=Yukon&pg=PP1 |publisher=JPM Publications |isbn=2-8845-2051-1}}
+* {{citation |last=Laguna |first=Frederica De |year=2000 |title=Travels among the Dena : exploring Alaska's Yukon Valley |url=https://books.google.com/books?id=UK_s4nMIaucC&q=Yukon&pg=PP1 |publisher=Univ. of Washington Press |isbn=0-2959-7902-X}}
+* {{citation |last1=O'Reilly |first1=Shauna |first2=Brennan |last2=O'Reilly |year=2009 |title=Alaska Yukon Pacific Exposition |url=https://books.google.com/books?id=RRG0UkaI5HMC&q=Yukon&pg=PP1 |publisher=Arcadia Pub |isbn=978-0-7385-7132-4}}
+* {{citation |last=Webb |first=Melody |year=1993 |title=Yukon: The Last Frontier |url=https://books.google.com/books?id=z-WsBum6UckC&q=Yukon&pg=PP1 |publisher=University of British Columbia Press |isbn=0-7748-0441-6}}
+{{refend}}
+
+==External links==
+* {{Official website|name=Official website of the Government of Yukon}}
+* [https://www.yukoninfo.com/ Yukon Attraction & Service Guides]
+
+{{Provinces and territories of Canada}}
+{{Northern Canada}}
+{{Subdivisions of Yukon}}
+{{Yukon politics}}
+{{Polar regions}}
+{{Sister bar|auto=1|voy =Yukon}}
+{{Authority control}}
+
+[[Category:Yukon| ]]
+[[Category:1898 establishments in Canada]]
+[[Category:Census divisions of the Canadian territories]]
+[[Category:Beaufort Sea]]
+[[Category:States and territories established in 1898]]
+[[Category:1898 establishments in Yukon]]
+[[Category:Arctic Ocean]]
+[[Category:Provinces and territories of Canada]]
+[[Category:Countries and territories where English is an official language]]
+[[Category:Countries and territories where French is an official language]]

@@ -1,0 +1,102 @@
+{{Short description|1986 Supreme Court of Canada case}}
+{{multiple issues|
+{{no footnotes|date=January 2012}}
+{{original research|date=January 2012}}
+}}
+{{Italic title}}{{SCCInfoBox
+  |case-name=R v Oakes
+  |full-case-name=Her Majesty the Queen v David Edwin Oakes
+  |heard-date=March 12, 1985
+  |decided-date=February 28, 1986
+  |citations=[1986] 1 SCR 103; (1986), 26 DLR (4th) 200; (1986), 24 CCC (3d) 321; (1986), 19 CRR 308; (1986), 50 CR (3d) 1; (1986), 14 OAC 335; [https://canlii.ca/t/1ftv6 1986 CanLII 46 (SCC)]  
+|docket=17550
+  |history=Judgment for defendant in the [[Court of Appeal for Ontario]]
+  |ruling= Appeal dismissed
+  |ratio=  Section 8 of the ''Narcotic Control Act'' violates the right to presumption of innocence under section 11(d) of the ''Canadian Charter of Rights and Freedoms'' and cannot be saved under section 1 of the ''Charter''.
+  |SCC=1985-1987
+  |Majority=Dickson (paras 1–81)
+  |JoinMajority=Chouinard, Lamer, Wilson and Le Dain
+  |Concurrence=Estey (para 82)
+  |JoinConcurrence=McIntyre
+  |NotParticipating=Beetz and La Forest
+  |LawsApplied=
+}}
+'''''R v Oakes''''' [1986] 1 [[Supreme Court Reports (Canada)|SCR]] 103 is a [[Supreme Court of Canada]] decision that established the legal test for whether a government action infringing a right under the ''[[Canadian Charter of Rights and Freedoms]]'' is justified. David Oakes challenged the validity of provisions under the ''[[Narcotic Control Act]]'' that provided a person found in possession of a narcotic, absent of evidence to the contrary, must be convicted of trafficking the narcotic. Oakes contended the presumption of trafficking violated the [[presumption of innocence]] guarantee under [[Section Eleven of the Canadian Charter of Rights and Freedoms|section 11(d)]] of the Charter.
+
+The Supreme Court established the ''Oakes'' test as an analysis of the [[Section One of the Canadian Charter of Rights and Freedoms|limitations clause (section&nbsp;1)]] of the ''Charter'' that allows reasonable limitations on rights and freedoms through legislation if the limitation is motivated by a "pressing and substantial objective" and can be "demonstrably justified in a free and democratic society."<ref name="1986_1_SCR_103p69–70" group="c">''R v Oakes'', [https://www.canlii.org/en/ca/scc/doc/1986/1986canlii46/1986canlii46.html <nowiki>[1986] 1 SCR 103</nowiki>], 1986 CanLII 46, paras 69–70.</ref>
+
+== Background == 
+
+On December 17, 1981, David Edwin Oakes was arrested in [[London, Ontario]], and charged with possession of eight one gram vials of [[cannabis resin]] for the purpose of [[Illegal drug trade|trafficking]], a narcotic under section 4(2) of the ''Narcotic Control Act''.<ref name="1986_1_SCR_103p3" group="c">''R v Oakes'', [https://www.canlii.org/en/ca/scc/doc/1986/1986canlii46/1986canlii46.html <nowiki>[1986] 1 SCR 103</nowiki>], 1986 CanLII 46, para 3.</ref><ref name="1982_38_OR_598" group="c">''Regina v. Oakes'', [https://www.canlii.org/en/on/onsc/doc/1982/1982canlii2080/1982canlii2080.html (1982), 38 O.R. (2d) 598], 1982 CanLII 2080 (ON SC).</ref> Oakes was also found with CA$619.45 ({{Inflation|CA|619.45|1981|fmt=eq}}) in cash, afterwards he told police he had purchased ten one gram vials of hashish oil for $150 for personal use and the money was from a [[workers' compensation]] cheque.<ref name="1986_1_SCR_103p3" group="c"/><ref name="1982_38_OR_598" group="c"/>
+
+=== ''Narcotic Control Act'' ===
+{{main|Narcotic Control Act}}
+
+In 1961, the [[Parliament of Canada]] passed the ''Narcotic Control Act'', a new legislative framework for the control of narcotics in Canada.{{sfn|Senate Special Committee on Illegal Drugs|2002|p=268}} The new act replaced the ''Opium and Narcotic Drug Act'' while providing an offence for illegal importing or exporting of narcotics, and increased penalties for convictions.{{sfn|Senate Special Committee on Illegal Drugs|2002|p=268}} The new ''Narcotic Control Act'' carried forward [[reverse onus]] provisions for possession introduced first introduced in 1911, and further expanded through the 1920s.{{sfn|Senate Special Committee on Illegal Drugs|2002|pp=261–262}} Parliament expanded reverse onus provisions in 1954 to facilitate convictions for possession of drugs for the purpose of trafficking.{{sfn|Senate Special Committee on Illegal Drugs|2002|p=264}}
+
+Section 4 of the ''Narcotic Control Act'' provided the provisions and penalties for trafficking narcotics.
+
+{{quote|'''Section 4(1)''': No person shall traffic in a narcotic or any substance represented or held out by him to be a narcotic.<br>
+'''Section 4(2)''': No person shall have in his possession a narcotic for the purpose of trafficking.
+'''Section 4(3)''': Every person who violates subsection (1) or (2) is guilty of an indictable offence and is liable to imprisonment for life.}}
+
+Section 8 of the ''Narcotic Control Act'' provided that if the court finds the accused in possession of a narcotic, the accused is presumed to be in possession for the purpose of trafficking and that, absent the accused's establishing the contrary, he must be convicted of trafficking. 
+
+{{quote|'''Section 8''': In any prosecution for a violation of subsection 4(2), if the accused does not plead guilty, the trial shall proceed as if it were a prosecution for an offence under section 3, and after the close of the case for the prosecution and after the accused has had an opportunity to make full answer and defence, the court shall make a finding as to whether or not the accused was in possession of the narcotic contrary to section 3; if the court finds that the accused was not in possession of the narcotic contrary to section 3, he shall be acquitted but if the court finds that the accused was in possession of the narcotic contrary to section 3, he shall be given an opportunity of establishing that he was not in possession of the narcotic for the purpose of trafficking, and thereafter the prosecutor shall be given an opportunity of adducing evidence to establish that the accused was in possession of the narcotic for the purpose of trafficking; if the accused establishes that he was not in possession of the narcotic for the purpose of trafficking, he shall be acquitted of the offence as charged but he shall be convicted of an offence under section 3 and sentenced accordingly; and if the accused fails to establish that he was not in possession of the narcotic for the purpose of trafficking, he shall be convicted of the offence as charged and sentenced accordingly.}}
+
+Oakes' Charter challenge claimed that the [[reverse onus]] created by the presumption of possession for purposes of trafficking violated the [[presumption of innocence]] guarantee under [[Section Eleven of the Canadian Charter of Rights and Freedoms|section 11(d)]] of the Charter. The issues before the court were whether section 8 of the [[Narcotic Control Act]] violated section 11(d) of the Charter and whether any violation of section 11(d) could be upheld under section 1.
+
+=== Prior cases ===
+The reverse onus provisions of the ''Narcotic Control Act'' regarding trafficking had been previously challenged through the courts in Canada. The Ontario Court of Appeals considered the reverse onus provisions in the wake of Parliament passing the ''[[Canadian Bill of Rights]]'' which included section 2(f) and the presumption of innocence, in 1960. In ''R v. Sharp'' (1961), 131 C.C.C. 75, Justice Kenneth Gibson Morden of the Ontario Court of Appeal found the reverse onus provisions did not deprive the accused of the presumption of innocence, as the accused had the secondary burden of adducing evidence, and the primary onus remained with the Crown.<ref name="1961_131_CCC_75" group="c">''Regina v. Sharpe'', [https://www.canlii.org/en/on/onca/doc/1961/1961canlii505/1961canlii505.html 1961 CanLII 505], 131 CCC 75 — 35 CR 375 — [1961] OWN 261 (ON CA).</ref><ref name="1986_1_SCR_103p23–24" group="c">''R v Oakes'', [https://www.canlii.org/en/ca/scc/doc/1986/1986canlii46/1986canlii46.html <nowiki>[1986] 1 SCR 103</nowiki>], 1986 CanLII 46, paras 23–24.</ref>
+
+Following the introduction of the ''Charter'' two Section 11 challenges to the reverse onus trafficking provisions of the ''Narcotic Control Act'' were heard. In the [[Saskatchewan Court of Queen's Bench]], ''R. v. Fraser'' (1982) 68 CCC (2d) 433, found that the reasonable limit provisions of section 1 of the ''Charter'' protected the provisions.<ref>''R. v. Fraser'', [https://www.canlii.org/en/sk/skqb/doc/1982/1982canlii2444/1982canlii2444.html 1982 CanLII 2444] (SK KB), 68 CCC (2d) 433, 21 Sask R 227, 138 DLR (3d) 488.</ref> In ''R. v. Therrien'' 1982 [[CanLII]] 3832, heard in the [[Ontario Court of Justice]], the court relied on the 1961 ruling in ''R v Sharp'' and did not strike down section 8 of the ''Narcotic Control Act''.<ref>''R. v. Therrien'', [https://www.canlii.org/en/on/oncj/doc/1982/1982canlii3832/1982canlii3832.html 1982 CanLII 3832] (ON CJ), 1 CRR 354, 67 CCC (2d) 31.</ref>
+
+== Court's reasons ==
+The court was unanimous in holding that the shift in onus violated both Oakes' section 11(d) rights and indirectly his [[Section Seven of the Canadian Charter of Rights and Freedoms|section 7]] rights, and could not be justified under section 1 of the ''Charter''. This was because there was no rational connection between basic possession and the presumption of trafficking, and therefore the shift in onus is not related to the previous challenge to section 11(d) of the ''Charter''.
+
+The court described the exceptional criteria under which rights could be justifiably limited under section 1. The court identified two main functions of section 1. First, "it guarantees the rights which follow it", and secondly, it "states the criteria against which justifications for limitations on those rights must be measured".
+
+The key values of the ''Charter'' come from the phrase "free and democratic society" and should be used as the "ultimate standard" for interpretation of section 1. These include values such as:
+:''respect for the inherent dignity of the human person, commitment to social justice and equality, accommodation of a wide variety of beliefs, respect for cultural and group identity, and faith in social and political institutions which enhance the participation of individuals and groups in society.''
+
+''Charter'' rights are not absolute and it is necessary to limit them in order to achieve "collective goals of fundamental importance".
+
+The court presents a two-step test to justify a limitation based on the analysis in ''[[R v Big M Drug Mart Ltd]]''. First, the limitation must be motivated by "an objective related to concerns which are pressing and substantial in a free and democratic society", and second it must be shown "that the means chosen are reasonable and demonstrably justified".
+
+The second part is described as a "[[Proportionality (law)|proportionality]] test" which requires the invoking party to show:
+* ''First, the measures adopted must be carefully designed to achieve the objective in question. They must not be arbitrary, unfair, or based on irrational considerations. In short, they must be rationally connected to the objective;'' 
+* ''Second, the means, even if rationally connected to the objective in this first sense, should impair "as little as possible" the right or freedom in question;'' 
+* ''Third, there must be a proportionality between the effects of the measures which are responsible for limiting the Charter right or freedom, and the objective which has been identified as of "sufficient importance".''
+
+In applying this test to the facts, the court found that section 8 did not pass the rational connection test because the "possession of a small or negligible quantity of narcotics does not support the inference of trafficking … it would be irrational to infer that a person had an intent to traffic on the basis of his or her possession of a very small quantity of narcotics". Therefore, section 8 of the Narcotic Control Act was held to be in violation of the ''Charter'' and therefore of no force or effect.
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Cases ===
+{{Reflist|group="c"}}
+
+=== Bibliography ===
+{{refbegin}}
+* {{cite report |author1=Senate Special Committee on Illegal Drugs |title=Cannabis: Our Position for a Canadian Public Policy |date=September 2002 |publisher=Senate of Canada |url=https://sencanada.ca/Content/SEN/Committee/371/ille/rep/repfinalvol1-e.pdf}}
+{{refend}}
+
+== Further reading == 
+{{refbegin}}
+* {{cite journal |last1=Choudhry |first1=Sujit |title=So What Is the Real Legacy of Oakes? Two Decades of Proportionality Analysis Under the Canadian Charter's Section 1 |journal=The Supreme Court Law Review |date=2006 |volume=34 |doi=10.60082/2563-8505.1107 |id=[https://canlii.ca/t/ssjx 2006 CanLIIDocs 341]|doi-access=free }}
+* {{cite journal |last1=Martin |first1=Sheilah L. |author1-link=Sheilah Martin |title=Balancing Individual Rights to Equality and Social Goals |journal=Canadian Bar Review |date=2001 |volume=80 |issue=1 |id=[https://canlii.ca/t/2cm6 2001 CanLIIDocs 111]}}
+* {{cite journal |last1=Siebrasse |first1=Norman |title=The Oakes Test: An Old Ghost Impeding Bold New Initiatives |journal=Ottawa Law Review |date=1991 |volume=23 |issue=1 |id=[https://canlii.ca/t/29fk 1991 CanLIIDocs 5]}}
+* {{cite journal |last1=Zion |first1=Mark |title=Effecting Balance: Oakes Analysis Restaged |journal=Ottawa Law Review |date=2012 |volume=43 |issue=3 |id=[https://canlii.ca/t/28db 2012 CanLIIDocs 93]}}
+{{refend}}
+
+== External links ==
+* {{lexum-scc2|1986|1|103|46}}
+* [http://www.canlii.org/en/search/search.do?type=decision&sort=citationCount&origin1=%2Fen%2Fca%2Fscc%2Fdoc%2F1986%2F1986canlii46%2F1986canlii46.html Full text access] to over 1,100 Canadian court decisions citing ''R. v. Oakes'', sorted by most influential case
+
+{{DEFAULTSORT:Oakes}}
+[[Category:Supreme Court of Canada cases]]
+[[Category:Section 1 Charter case law]]
+[[Category:Section Eleven Charter case law]]
+[[Category:1986 in Canadian case law]]
+[[Category:Canadian criminal case law]]

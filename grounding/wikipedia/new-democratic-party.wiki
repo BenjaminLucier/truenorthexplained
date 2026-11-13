@@ -1,0 +1,610 @@
+{{Short description|Federal political party in Canada}}
+{{About|the federal political party in Canada|other political parties with the same name|New Democratic Party (disambiguation)}}
+{{Use Canadian English|date=April 2025}}
+{{Use mdy dates|date=May 2025}}
+{{Infobox political party
+| name = New Democratic Party
+| native_name = {{lang|fr|Nouveau Parti démocratique}}
+| native_name_lang = fr
+| abbreviation = {{hlist|NDP|{{lang|fr|NPD}}}}
+| logo = Orange NDP logo English.svg
+| logo_size = 200
+| colorcode = {{Canadian party colour|CA|NDP}}
+| foundation = {{Start date and age|p=y|1961|08|03}}<ref name=Vansun19610803>{{cite news|last=Neville|first=William|title=Douglas Leads New Party, 'Democratic' Tag in Name|url=https://news.google.com/newspapers?id=qphlAAAAIBAJ&dq=new%20democratic%20party&pg=4770%2C472587|access-date=August 22, 2011|newspaper=The Vancouver Sun|date=August 3, 1961|agency=UPI|location=Vancouver|page=1}}</ref>
+| ideology = <!-- IMPORTANT: Do not change party ideology without bringing reliable sources to the Talk page and garnering consensus. -->
+ {{ubl|
+ | [[Social democracy]]{{refn|name="socdem"}}
+ | [[Democratic socialism]]{{refn|name="demsoc"}}
+}}
+| headquarters = 279 Laurier Ave W<br />Unit 300<br />[[Ottawa]], [[Ontario]], Canada<br />K1P 5J9
+| international = [[Socialist International]] until 2013, then [[Progressive Alliance]]<ref name="PAlliance" />
+| affiliation1_title = Union affiliate
+| affiliation1 = [[Canadian Labour Congress]]
+| website = {{Official URL}}
+| country = Canada
+| leader1_title = [[Leader of the New Democratic Party|Leader]]
+| leader1_name = [[Avi Lewis]]
+| leader2_title = President
+| leader2_name = Niall Ricardo
+| leader3_title = National director
+| leader3_name = François Picard
+| leader4_title = Parliamentary leader
+| leader4_name = [[Don Davies]]
+| leader5_title = [[House leader]]
+| leader5_name = [[Heather McPherson (politician)|Heather McPherson]]
+| merger = {{unbulleted list
+ | [[Co-operative Commonwealth Federation]]
+ | [[New Party (Canada)|New Party]]
+ | [[Canadian Labour Congress]]
+ }}
+| youth_wing = [[Canada's Young New Democrats]]
+| membership = {{increase}} 100,542<ref>{{Cite web |title=Avi Lewis elected Leader of NDP |url=https://www.ndp.ca/news/avi-lewis-elected-leader-ndp |access-date=March 29, 2026 |website=ndp.ca |language=en-CA}}</ref>
+| membership_year = 2026
+| position = <!-- IMPORTANT: Do not change party position without bringing reliable sources to the Talk page and garnering consensus. -->[[Centre-left politics|Centre-left]] to [[Left-wing politics|left-wing]]
+| colours = {{colour box|{{Canadian party colour|CA|NDP}}|border=silver}} Orange
+| slogan = ''In our lifetime'' (2026)
+| blank1_title = Provincial and territorial wings
+| seats1_title = [[Senate of Canada|Senate]]
+| seats1 = {{Composition bar|0|105|hex={{Canadian party colour|CA|NDP}}}}
+| seats2_title = [[House of Commons of Canada|House of Commons]]
+| seats2 = {{Composition bar|5|343|hex={{Canadian party colour|CA|NDP}}}}
+}}
+
+The '''New Democratic Party''' ('''NDP'''; {{langx|fr|Nouveau Parti démocratique}}; '''{{lang|fr|NPD}}''') is a [[List of federal political parties in Canada|federal political party in Canada]]. Widely described as [[Social democracy|social democratic]]{{refn|name="socdem"|<ref>{{cite book |author1=Bryan Evans |url=https://archive.org/details/SocialDemocracyAfterTheColdWar |title=Social Democracy After the Cold War |author2=Ingo Schmidt |publisher=Athabasca University Press |year=2012 |isbn=978-1-926836-87-4}}</ref><ref>{{cite book |author1=Melody Hessing |author2=Michael Howlett |author3=Tracy Summerville |year=2005 |url=https://books.google.com/books?id=_qHF160KzwgC&pg=PA176 |title=Canadian Natural Resource and Environmental Policy: Political Economy and Public Policy |publisher=UBC Press |isbn=978-0-7748-1181-1 |page=176}}</ref><ref>{{cite book |author=Rand Dyck |url=https://books.google.com/books?id=BUOoN8e5Ps0C&pg=PA219 |title=Canadian Politics |publisher=Cengage Learning |year=2011 |isbn=978-0-17-650343-7 |page=219}}</ref><ref>{{cite book |author=Norman Penner |url=https://books.google.com/books?id=A70zWFHTg2EC |title=From Protest to Power: Social Democracy in Canada 1900–Present |publisher=[[James Lorimer & Company]] |year=1992 |isbn=978-1-55028-384-6}}</ref><ref>{{cite book |author1=John M. Herrick |url=https://archive.org/details/encyclopediaofso00john |title=Encyclopedia of Social Welfare History in North America |author2=Paul H. Stuart |publisher=SAGE |year=2004 |isbn=978-0-7619-2584-2 |page=[https://archive.org/details/encyclopediaofso00john/page/337 337] |url-access=registration}}</ref><ref>{{cite book |author1=John Herd Thompson |url=https://archive.org/details/canadaunitedstat00thom_0 |title=Canada and the United States: Ambivalent Allies |author2=Stephen J. Randall |publisher=University of Georgia Press |year=2002 |isbn=978-0-8203-2403-6 |page=[https://archive.org/details/canadaunitedstat00thom_0/page/309 309] |url-access=registration}}</ref><ref>{{cite book |author=Ian McLeod |url=https://books.google.com/books?id=VGLXAYJHHLUC |title=Under Siege: The Federal NDP in the Nineties |publisher=[[James Lorimer & Company]] |year=1994 |isbn=978-1-55028-454-6}}</ref><ref>{{cite book |author=Keith Archer |url=https://archive.org/details/politicalchoices00arch |title=Political Choices and Electoral Consequences: A Study of Organized Labour and the New Democratic Party |publisher=McGill-Queens |year=1990 |isbn=978-0-7735-0744-9 |page=[https://archive.org/details/politicalchoices00arch/page/15 15] |url-access=registration}}</ref><ref>{{cite book |author1=Richard Collin |url=https://books.google.com/books?id=-vSlx-_Z408C&pg=PA209 |title=An Introduction to World Politics: Conflict and Consensus on a Small Planet |author2=Pamela L. Martin |publisher=Rowman & Littlefield |year=2012 |isbn=978-1-4422-1803-1 |page=209 |access-date=July 18, 2013}}</ref><ref>{{cite web |author=William Cross |date=September 2012 |title=The Canadian New Democratic Party: A New Big Player in Canadian Politics? |url=https://library.fes.de/pdf-files/id/09361.pdf |access-date=January 2, 2019 |publisher=Friedrich Ebert Stiftung}}</ref><ref>{{cite news |author=Jessica Murphy |date=September 26, 2017 |title=Who will Canada's New Democrats pick to take on Trudeau? |url=https://www.bbc.co.uk/news/world-us-canada-41405645 |access-date=January 2, 2019 |publisher=BBC News}}</ref><ref>{{cite web |author=Gerard Di Trolio |date=June 4, 2018 |title=The NDP Claws Its Way Back |url=https://jacobinmag.com/2018/06/ndp-election-ontario-liberals-pc |access-date=January 2, 2019 |publisher=Jacobin}}</ref><ref>[https://www.britannica.com/topic/New-Democratic-Party-political-party "New Democratic Party"]. ''Encyclopædia Britannica''. Retrieved April 28, 2025</ref>}} and [[Democratic socialism|democratic socialist]],{{refn|name="demsoc"}} the party sits at the [[Centre-left politics|centre-left]]{{refn|<ref name="McGrane2018">{{cite book|author=David McGrane|chapter=Electoral competition in Canada among the centre-left parties: liberal versus social democrats|editor1=Rob Manwaring|editor2=Paul Kennedy|title=Why the Left Loses: The Decline of the Centre-Left in Comparative Perspective|chapter-url=https://books.google.com/books?id=UlI8DwAAQBAJ&pg=PA39|year=2018|publisher=Policy Press|isbn=978-1-4473-3266-4|pages=39–52}}</ref><ref>{{cite news|url=https://www.bbc.co.uk/news/world-us-canada-41463165|title=Canada's New Democrats elect Jagmeet Singh as party leader|publisher=BBC News|date=October 2, 2017|access-date=December 31, 2018}}</ref><ref>Annabelle Quince (October 16, 2015). [https://www.abc.net.au/radionational/programs/rearvision/canadas-election-explained/6854408 "How Canada's politics are different to Australia's"]. ABC.  Retrieved January 2, 2019.</ref><ref>Ian Austen (August 22, 2011). [https://www.nytimes.com/2011/08/23/world/americas/23canada.html "Death of Jack Layton Weakens Canada's Political Opposition"]. ''The New York Times''. Retrieved January 2, 2019</ref>}} to [[Left-wing politics|left-wing]]{{refn|<ref>{{cite journal |last1=Gauvin |first1=Jean-Philippe |last2=Chhim |first2=Chris|last3=Medeiros|first3=Mike |date=May 16, 2016 |title=Did They Mind the Gap? Voter/Party Ideological Proximity between the BQ, the NDP and Quebec Voters |url=https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/abs/did-they-mind-the-gap-voterparty-ideological-proximity-between-the-bq-the-ndp-and-quebec-voters-20062011/67A3C8C199A8F3F061F4982D9F4891F9 |journal=Canadian Journal of Political Science/Revue Canadienne de Science Politique |volume=49 |issue=2 |pages=289–310 |doi=10.1017/S000842391600038X |quote=Given that the BQ and NDP are left-wing parties, both being socially progressive and economically leftist, it is not surprising to see similar trends on these dimensions.|publisher=Cambridge |access-date=September 19, 2024|url-access=subscription}}</ref><ref>{{Cite journal |last1=Cochrane|first1=Christopher |year=2010 |title=Left/Right Ideology and Canadian Politics|journal=Canadian Journal of Political Science / Revue canadienne de science politique |volume=43 |issue=3 |pages=583–603 |publisher=Canadian Political Science Association |doi=10.1017/S0008423910000624 |jstor=40983510 |url=https://www.jstor.org/stable/40983510|url-access=subscription}}</ref><ref>{{cite web |url=https://theconversation.com/educated-voters-in-canada-tend-to-vote-for-left-leaning-parties-while-richer-voters-go-right-215108|title= Educated voters in Canada tend to vote for left-leaning parties while richer voters go right
+|last1=Kiss|first1=Simon|last2=Polacko|first2=Matt|last3=Graefe|first3=Peter|date= October 24, 2023 |website= The Conversation|access-date= September 4, 2024}}</ref><ref>{{cite web |url=https://www.bbc.com/news/articles/cm2n00e3z87o|title=Canada's NDP pulls support for Trudeau's Liberals|last=Honderich |first=Holly |date= September 4, 2024 |publisher=BBC News |access-date= September 4, 2024 |quote=Canada's left-wing New Democratic Party (NDP) has pulled the plug on a two-and-a-half-year-old agreement with Justin Trudeau's Liberals that had helped keep his minority government in power.}}</ref><ref name="Goodyear-Grant2013">{{cite book |author=Elizabeth Goodyear-Grant |author1-link=Elizabeth Goodyear-Grant |url=https://books.google.com/books?id=TUFFAAAAQBAJ&pg=PA31 |title=Gendered News: Media Coverage and Electoral Politics in Canada |publisher=UBC Press |year=2013 |isbn=978-0-7748-2625-9 |page=31}}</ref><ref name="Olive2015">{{cite book |author=Andrea Olive |url=https://books.google.com/books?id=Bvw_CwAAQBAJ&pg=PA55 |title=The Canadian Environment in Political Context |publisher=University of Toronto Press |year=2015 |isbn=978-1-4426-0871-9 |page=55}}</ref><ref>{{cite book |last=Reichley |first=A. James |date=1992 |title=The Life of the Parties: A History of American Political Parties |url=https://books.google.com/books?id=FpuHAAAAMAAJ |publisher=Free Press |page=32 |isbn=0029260256 |access-date=April 10, 2025 |quote=[...] and at times the left-wing New Democratic party has held the balance of power.}}</ref>}} of the Canadian [[political spectrum]], to the left of the [[Liberal Party of Canada|Liberal Party]].{{refn|<ref name="Goodyear-Grant2013">{{cite book |author=Elizabeth Goodyear-Grant |author1-link=Elizabeth Goodyear-Grant |url=https://books.google.com/books?id=TUFFAAAAQBAJ&pg=PA31 |title=Gendered News: Media Coverage and Electoral Politics in Canada |publisher=UBC Press |year=2013 |isbn=978-0-7748-2625-9 |page=31}}</ref><ref name="Olive2015">{{cite book |author=Andrea Olive |url=https://books.google.com/books?id=Bvw_CwAAQBAJ&pg=PA55 |title=The Canadian Environment in Political Context |publisher=University of Toronto Press |year=2015 |isbn=978-1-4426-0871-9 |page=55}}</ref><ref name="ThomasBiette2014">{{cite book |author1=David Martin Thomas |url=https://books.google.com/books?id=yQqnAwAAQBAJ&pg=PA168 |title=Canada and the United States: Differences that Count, Fourth Edition |author2=David Biette |publisher=University of Toronto Press |year=2014 |isbn=978-1-4426-0908-2 |page=168}}</ref><ref name="Carlisle2005">{{cite book |author=Rodney P. Carlisle |url=https://books.google.com/books?id=Bpx2AwAAQBAJ&pg=PA274 |title=Encyclopedia of Politics: The Left and the Right |publisher=SAGE Publications |year=2005 |isbn=978-1-4522-6531-5 |page=274}}</ref>}} The party was founded in 1961 by the [[Co-operative Commonwealth Federation]] and the [[Canadian Labour Congress]].<ref>{{cite book |author=Pamela Behan |url=https://books.google.com/books?id=O762LmJSp3oC |title=Solving the Health Care Problem: How Other Nations Succeeded and Why the United States Has Not |publisher=SUNY Press |year=2012 |isbn=978-0-791-48135-6 |pages=15–16}}</ref> As of 2026, it is the fourth-largest party in the House of Commons, with five seats.
+
+The NDP is more integrated than other political parties in Canada, with some provincial- and territorial-level parties sharing membership with the federal party.<ref>{{Cite news |date=2025-05-03 |title=Alberta NDP votes to allow members to opt out of joining federal party |url=https://www.theglobeandmail.com/canada/alberta/article-alberta-ndp-to-vote-on-allowing-new-members-to-opt-out-of-joining/ |access-date=2026-10-18 |work=The Globe and Mail |language=en-CA}}</ref><ref name="Guinjoan2014">{{cite book |author=Marc Guinjoan |title=Parties, Elections and Electoral Contests: Competition and Contamination Effects|url=https://books.google.com/books?id=7bSlBAAAQBAJ&pg=PA62|date=2014|publisher=Ashgate|isbn=978-1-4724-3910-9|page=62}}</ref> The NDP has never won the largest share of seats at the federal level and thus has never formed a government. From [[41st Canadian Parliament|2011 to 2015]], it formed the [[Official Opposition (Canada)|Official Opposition]]; apart from this, it has been the third or fourth-largest party in the [[House of Commons of Canada|House of Commons]]. However, the party has held the [[Balance of power (parliament)|balance of power]], and with it considerable influence, during periods of Liberal [[Minority governments in Canada|minority governments]]. Sub-national branches of the NDP have formed the government in six provinces ([[Ontario New Democratic Party|Ontario]], [[Manitoba New Democratic Party|Manitoba]], [[Saskatchewan New Democratic Party|Saskatchewan]], [[Alberta New Democratic Party|Alberta]], [[British Columbia New Democratic Party|British Columbia]], and [[Nova Scotia New Democratic Party|Nova Scotia]]) and the territory of [[Yukon New Democratic Party|Yukon]]. 
+
+The NDP supports a [[mixed economy]], broader [[welfare spending|welfare]], [[Senate of Canada|Senate]] abolition, [[LGBTQ rights in Canada|LGBTQ rights]], [[World peace|international peace]], [[Natural environment|environmental]] stewardship, and expanding [[Healthcare in Canada|Canada's universal healthcare system]] to include dental care, mental health care, eye and hearing care, infertility procedures, and prescription drugs.<ref>{{Cite web |date=2013-10-28 |title=Jim Flaherty joins the NDP |url=https://www.ndp.ca/news/jim-flaherty-joins-ndp#:~:text=While%20more%20and%20more%20members,undemocratic%20and%20costly%20institution.&text=Senate%20despite%20seven%20long%20years,time%20I%20had%20an%20opportunity.&text=growth.,I%20always%20have%20been.%E2%80%9D&text=the%20NDP%20when%20it%20comes%20to%20abolishing%20the%20Senate.&text=NDP's%20efforts%20to%20get%20rid,Canadians%20deserve%20better |access-date=2026-04-12 |website=New Democratic Party |language=en}}</ref>
+
+==History==
+{{Main|History of the New Democratic Party}}
+
+===20th century===
+[[File:TommyDouglas-c1971-crop.jpg|right|thumb|200px|[[Tommy Douglas]], leader of the NDP from 1961 to 1971]]
+
+====Origins and Tommy Douglas====
+{{See also|1961 New Democratic Party leadership election}}
+In 1956, after the birth of the [[Canadian Labour Congress]] (CLC) by a merger of two previous labour congresses, negotiations began between the CLC and the [[Co-operative Commonwealth Federation]] (CCF) to bring about an alliance between [[labour movement|organized labour]] and the [[left-wing politics|political left]] in Canada. In 1958 a joint CCF-CLC committee, the National Committee for the New Party (NCNP), was formed to create a new social democratic political party, with ten members from each group. The NCNP spent the next three years laying down the foundations of the [[New Party (Canada)|New Party]], the party's interim name pending a national convention. During this process, a large number of New Party Clubs were established to allow like-minded Canadians to join in its founding, and six representatives from New Party Clubs were added to the National Committee. In 1961, at the end of a five-day long founding convention which established its principles, policies and structures, the New Democratic Party was born, and [[Tommy Douglas]], the long-time CCF [[Premier of Saskatchewan]], was elected as its first leader.<ref>{{cite web|url=http://www.mta.ca/faculty/arts/canadian_studies/english/about/study_guide/roots/ccf2ndp.html|archive-url=https://web.archive.org/web/20090205161148/http://www.mta.ca/faculty/arts/canadian_studies/english/about/study_guide/roots/ccf2ndp.html|url-status=dead|title=The evolution of CCF into NDP: 1961 and after|archive-date=February 5, 2009}}</ref> Supporters of the New Democratic Party are sometimes referred to as "Dippers".<ref>{{cite web | title=The Dipper Deal—Not Just Words, but Signed and Sealed – Policy Magazine | date=March 23, 2022 | url=https://www.policymagazine.ca/the-dipper-deal-not-just-words-but-signed-and-sealed/}}</ref>
+
+====David Lewis====
+At the [[1971 New Democratic Party leadership election|1971 leadership convention]], an activist group called [[the Waffle]] tried to take control of the party but was defeated by [[David Lewis (Canadian politician)|David Lewis]] with the help of the union members. The following year, most of The Waffle split from the NDP and formed their own party. The NDP itself supported the minority government formed by the [[Pierre Trudeau]]–led Liberals from 1972 to 1974, although the two parties never entered into a [[coalition government|coalition]]. Together, they succeeded in passing several socially progressive initiatives into law such as pension indexing and the creation of the crown corporation [[Petro-Canada]].<ref>{{cite web|title=David Lewis – Federal NDP Leader 1971–75 – Biography of David Lewis|url=http://canadaonline.about.com/od/federalndp/p/davidlewis.htm|archive-url=https://web.archive.org/web/20110606111643/http://canadaonline.about.com/od/federalndp/p/davidlewis.htm|archive-date=June 6, 2011|access-date=February 21, 2022|publisher=Canadaonline.about.com}}</ref>
+
+In 1974, the NDP worked with the Progressive Conservatives to pass a motion of non-confidence, forcing an [[1974 Canadian federal election|election]]. However, it backfired as Trudeau's Liberals regained a majority government, mostly at the expense of the NDP, which lost half its seats. Lewis lost his own riding and resigned as leader the following year.
+
+====Ed Broadbent====
+[[File:Ed Broadbent 1980 (cropped).jpg|thumb|right|200px|[[Ed Broadbent]], leader of the NDP from 1975 to 1989]]
+Under [[Ed Broadbent]] (1975–1989) the NDP attempted to find a more populist image to contrast with the governing parties, focusing on more pocketbook issues than on ideological fervour. The party played a critical role during [[Joe Clark]]'s minority government of 1979–1980, moving the [[Motion of No Confidence|non-confidence motion]] on [[John Crosbie]]'s [[1979 Canadian federal budget|1979 budget]] that brought down the [[Progressive Conservative Party of Canada|Progressive Conservative]] government and forced the [[1980 Canadian federal election|1980 election]] that brought the Liberal Party back to power.<ref>{{cite web |title=The day Joe Clark's short-lived PC government fell |url=https://www.cbc.ca/archives/the-day-joe-clark-s-short-lived-pc-government-fell-1.4941568 |access-date=2025-05-22 |website=[[CBC News]]}}</ref>
+
+In the [[1984 Canadian federal election|1984 election]], which saw the Progressive Conservatives under [[Brian Mulroney]] win the most seats in Canadian history, the NDP won 30 seats, while the governing Liberals fell to 40 seats.<ref>{{cite web |title=Canada: 1984 Parliamentary Election Results |url=https://pdba.georgetown.edu/Elecdata/Canada/parl84.html |access-date=2025-05-22 |website=[[Georgetown University]]}}</ref>
+
+The NDP set a then-record of 43 [[Member of Parliament|members of parliament]] (MPs) elected to the house in the [[1988 Canadian federal election|election of 1988]]. The Liberals, however, had reaped most of the benefits of opposing the [[Canada–United States Free Trade Agreement]] to emerge as the dominant alternative to the ruling PC government. In 1989, Broadbent stepped down after 14 years as federal leader of the NDP.<ref>{{cite news|url=http://www.cbc.ca/news2/background/broadbent/|title=CBC News Indepth: Ed Broadbent|publisher=CBC News|access-date=September 17, 2015}}</ref>
+
+====Audrey McLaughlin====
+At the [[New Democratic Party leadership elections|party's leadership convention]] in 1989, former [[List of British Columbia premiers|BC Premier]] [[Dave Barrett]] and [[Yukon]] [[Member of Parliament|MP]] [[Audrey McLaughlin]] were the main contenders for the leadership. During the campaign, Barrett argued that the party should be concerned with [[Western Alienation|western alienation]], rather than focusing its attention on [[Quebec]]. The Quebec wing of the NDP strongly opposed Barrett's candidacy, with [[Phil Edmonston]], the party's main spokesman in Quebec, threatening to resign from the party if Barrett won.<ref>{{cite encyclopedia|url=https://www.thecanadianencyclopedia.ca/en/article/david-barrett/|title=Dave Barrett|encyclopedia=[[The Canadian Encyclopedia]]|access-date=August 18, 2019}}</ref> McLaughlin ran on a more traditional approach, and became the first woman to lead a major federal political party in Canada.<ref>{{cite web |title=Yukon's Audrey McLaughlin looks back, 35 years after becoming 1st female leader of major federal party |url=https://www.cbc.ca/news/canada/north/q-a-audrey-mclaughlin-35-years-1.7401061 |access-date=2025-05-22 |website=[[CBC News]]}}</ref><ref>{{cite web |title=Audrey McLaughlin |url=https://www.thecanadianencyclopedia.ca/en/article/audrey-mclaughlin |access-date=2025-05-22 |author=Alan Whitehorn |website=[[The Canadian Encyclopedia]]}}</ref>
+[[File:AudreyMcLaughlin2012 1 (cropped).png|thumb|[[Audrey McLaughlin]], leader of the NDP from 1989 to 1995]]
+Although enjoying strong support among organized labour and rural voters in the Prairies, McLaughlin tried to expand their support into Quebec without much success. Under McLaughlin, the party did manage to win an election in Quebec for the first time when Edmonston won the [[1990 Chambly by-election]].<ref>{{cite web |title=Chambly – Borduas |url=https://www.cbc.ca/news/canada/chambly-borduas-1.879817 |access-date=2025-05-22 |website=[[CBC News]]}}</ref>
+
+McLaughlin and the NDP were routed in the [[1993 Canadian federal election|1993 election]], where the party won only nine seats and 7% of the vote,<ref>{{Citation |chapter=Neo-liberalism and the decline of state strategic capacity |date=2012-07-26 |title=Democratic Decline and Democratic Renewal |pages=70–99 |chapter-url=https://doi.org/10.1017/cbo9781139198691.006 |access-date=2025-09-25 |publisher=Cambridge University Press |doi=10.1017/cbo9781139198691.006 |isbn=978-1-139-19869-1 |chapter-url-access=subscription}}</ref> three seats short of [[official party status]] in the House of Commons.<ref>{{cite web |title=Canadian Parliamentary Elections |url=https://pdba.georgetown.edu/Elecdata/Canada/parl93.html |access-date=2025-05-22 |website=[[Georgetown University]]}}</ref> This was, until [[2025 Canadian federal election|2025]], the NDP's lowest seat total in any election since the party's founding in 1961; the election also resulted in the lowest-ever total number of votes ever received by the NDP in a federal election.<ref>{{cite web |title=Canada federal election 2025 live results |url=https://newsinteractives.cbc.ca/elections/federal/2025/results/#/all-parties |access-date=2025-05-22 |website=[[CBC News]]}}</ref> The loss was blamed on the unpopularity of NDP provincial governments under [[Bob Rae]] in Ontario and [[Mike Harcourt]] in British Columbia and the loss of a significant portion of the Western vote to the [[Reform Party of Canada|Reform Party]], which promised a more decentralized and democratic federation along with right-wing economic reforms.<ref>{{cite web |title=Profile – 1993-10-25 |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/ElectionsRidings/Elections/Profile?election=1993-10-25 |access-date=2025-05-22 |website=[[Library of Parliament]]}}</ref><ref>{{cite web |title=NDP faces 'Parliament from hell' without official party status, says former MP |url=https://www.cbc.ca/news/politics/ndp-parliament-from-hell-svend-robinson-1.7529822 |access-date=2025-05-22 |author=David Baxter |website=[[CBC News]]}}</ref>
+
+====Alexa McDonough====
+[[File:Alexa McDonough cropped.jpg|thumb|200x200px|[[Alexa McDonough]], leader of the NDP from 1995 to 2002]]
+McLaughlin resigned in 1995 and was succeeded by [[Alexa McDonough]], the former leader of the [[Nova Scotia New Democratic Party|Nova Scotia NDP]]. In contrast to traditional Canadian practice, where an MP for a safe seat stands down to allow a newly elected leader a chance to enter Parliament via a [[by-election]], McDonough opted to wait until the next election to enter Parliament.<ref>{{cite web |title=Alexa McDonough, former NDP leader trailblazer for women in politics, has died |url=https://www.cbc.ca/news/canada/nova-scotia/alexa-mcdonough-death-ndp-women-in-politics-1.6314981 |access-date=2025-05-22 |author=Jean Laroche |website=[[CBC News]]}}</ref>
+
+The party recovered somewhat in [[1997 Canadian federal election|the 1997 election]], electing 21 members. The NDP made a breakthrough in [[Atlantic Canada]], a region where they had been practically nonexistent at the federal level. Before 1997, they had won only three seats in Atlantic Canada. However, in 1997 they won eight seats in that region. The party was able to harness the discontent of voters in Atlantic Canada, who were upset over cuts to [[Employment insurance (Canada)|employment insurance]] and other social programs implemented by [[Jean Chrétien]]'s Liberal majority government.<ref>{{cite web |title=Elections '97: The Platforms |url=https://www.thecanadianencyclopedia.ca/en/article/elections-97-the-platforms |access-date=2025-05-22 |author=Mary Janigan, Anthony Wilson-Smith |website=[[The Canadian Encyclopedia]]}}</ref><ref>{{cite web |title=Canada: 1997 Parliamentary Elections |url=https://pdba.georgetown.edu/Elecdata/Canada/parl97.html |access-date=2025-05-22 |website=[[Georgetown University]]}}</ref>
+
+In the November [[2000 Canadian federal election|2000 election]], the NDP campaigned primarily on the issue of Medicare but lost significant support. The governing Liberals ran an effective campaign on their economic record and managed to recapture some of the Atlantic ridings lost to the NDP in the 1997 election. The initial high electoral prospects of the [[Canadian Alliance]] under new leader [[Stockwell Day]] also hurt the NDP as many supporters strategically voted Liberal to keep the Alliance from winning. The NDP finished with 13 MPs—just barely over the threshold for official party status.<ref>{{cite web |title=Elections and Prime Ministers |url=https://www.thecanadianencyclopedia.ca/en/timeline/elections-and-prime-ministers |access-date=2025-05-22 |website=[[The Canadian Encyclopedia]]}}</ref><ref>{{cite web |title=Members of the 37th Parliament |url=https://www.ourcommons.ca/Members/en/search?parliament=37&caucusId=all&province=all&gender=all |access-date=2025-05-22 |website=ourcommons.com}}</ref> McDonough announced her resignation as party leader for family reasons in June 2002 (effective upon her successor's election).<ref>{{cite web |title=Halifax MP Alexa McDonough announces retirement |url=https://www.cbc.ca/news/canada/nova-scotia/halifax-mp-alexa-mcdonough-announces-retirement-1.703579 |access-date=2025-05-22 |website=[[CBC News]]}}</ref>
+
+===21st century===
+[[File:Layton winnipeg rally.JPG|thumb|Jack Layton was the first leader of the NDP to become [[Leader of the Official Opposition (Canada)|Leader of the Official Opposition]].|278x278px]]
+
+====Jack Layton====
+A Toronto city councillor and recent President of the [[Federation of Canadian Municipalities]], [[Jack Layton]] was elected at the party's [[2003 New Democratic Party leadership election|leadership election]] in Toronto on January 25, 2003.<ref>{{cite web |url=http://www.cbc.ca/news/features/ndp_leadership/ |title=New Democrats pick a new leader |access-date=March 2, 2022 |archive-url=https://web.archive.org/web/20081231040331/http://www.cbc.ca/news/features/ndp_leadership/ |archive-date=December 31, 2008 |url-status=dead}}</ref>
+
+The [[2004 Canadian federal election|2004 election]] produced mixed results for the NDP. It increased its total vote by more than a million votes; however, despite Layton's optimistic predictions of reaching 40 seats, the NDP only gained five seats in the election, for a total of 19. The party was disappointed to see its two [[Saskatchewan]] incumbents defeated in close races by the new [[Conservative Party of Canada|Conservative Party]] (created by merger of the Canadian Alliance and Progressive Conservative parties), perhaps because of the unpopularity of the NDP provincial government.<ref>{{cite web |title=Democracy in Action: Vote 2004 |url=https://www.cpac.ca/articles/democracy-in-action-vote-2004 |access-date=2025-05-22 |website=[[CPAC (TV channel)|CPAC]]}}</ref><ref>{{cite web |title=2004 Canadian Election Results |url=https://www.sfu.ca/~aheard/elections/2004-results.html |access-date=2025-05-22 |website=[[Simon Fraser University]]}}</ref>
+
+The Liberals were re-elected, though this time as a [[minority government]]. Combined, the Liberals and NDP had 154 seats – one short of the total needed for the balance of power.<ref>{{cite web |title=Members of the 38th Parliament |url=https://www.ourcommons.ca/Members/en/search?nameFirstLetter=L&lastName=L&parliament=38 |access-date=2025-05-23 |website=ourcommons.ca}}</ref> As has been the case with Liberal minorities in the past, the NDP were in a position to make gains on the party's priorities, such as fighting health care [[privatization]], fulfilling Canada's obligation to the [[Kyoto Protocol]], and [[electoral reform]]. The party used Prime Minister [[Paul Martin]]'s politically precarious position caused by the [[sponsorship scandal]] to force investment in multiple federal programs, agreeing not to help topple the government provided that some major concessions in the federal budget were ceded to.<ref>{{cite web |title=Government survives 2 confidence votes |url=https://www.cbc.ca/news/canada/government-survives-2-confidence-votes-1.538644 |access-date=2025-05-23 |website=[[CBC News]]}}</ref><ref>{{cite web |title=Sponsership Scandal (Adscam) |url=https://www.thecanadianencyclopedia.ca/en/article/sponsorship-scandal-adscam |access-date=2025-05-23 |author=John Boyko, Andrew McIntosh |website=[[The Canadian Encyclopedia]]}}</ref>
+
+On November 9, 2005, after the findings of the [[Gomery Inquiry]] were released, Layton notified the Liberal government that continued NDP support would require a ban on private healthcare. When the Liberals refused, Layton announced that he would introduce a motion on November 24 that would ask Martin to call a federal election in February to allow for several pieces of legislation to be passed. The Liberals turned down this offer. On November 28, 2005, Conservative leader [[Stephen Harper]]'s motion of no confidence was seconded by Layton and it was passed by all three opposition parties, forcing an election.<ref>{{cite web |title=The vote that toppled Paul Martin's minority government in 2005 |url=https://www.cbc.ca/archives/the-vote-that-toppled-paul-martin-s-minority-government-in-2005-1.4913662 |access-date=2025-05-22 |website=[[CBC News]]}}</ref>
+
+During the [[2006 Canadian federal election|election]], the NDP won 29 seats, a significant increase of 10 seats from the 19 won in 2004. It was the fourth-best performance in party history, approaching the level of popular support enjoyed in the 1980s. The NDP kept all of the 18 seats it held at the dissolution of Parliament. While the party gained no seats in Atlantic Canada, Quebec, or the Prairie provinces, it gained five seats in British Columbia, five more in Ontario and the [[Western Arctic]] riding of the [[Northwest Territories]].<ref>{{cite web |title=2006 Canadian Election Results |url=https://www.sfu.ca/~aheard/elections/2006-results.html |access-date=2025-05-23 |website=[[Simon Fraser University]]}}</ref><ref>{{cite web |title=The 2006 election – seven reasons to cheer |url=https://policyoptions.irpp.org/magazines/the-prime-minister/the-2006-election-seven-reasons-to-cheer/ |access-date=2025-05-23 |website=Policy Options}}</ref>
+
+The Conservatives won a minority government in the 2006 election, and initially the NDP was the only party that would not be able to pass legislation with the Conservatives. However, following a series of [[crossing the floor|floor crossings]], the NDP also came to hold the balance of power. The NDP voted against the government in all four confidence votes in the 39th parliament, the only party to do so. However, it worked with the Conservatives on other issues, including in passing the [[Federal Accountability Act]] and pushing for changes to the [[Air quality law|Clean Air Act]].<ref>{{cite web |title=Timeline of Harper's government |url=https://www.cbc.ca/news2/background/parliament39/timeline.html |access-date=2025-05-23 |website=[[CBC News]]}}</ref>
+
+Following that election, the NDP caucus rose to 30 members with the victory of NDP candidate [[Thomas Mulcair]] in a [[2007 Outremont by-election|by-election in Outremont]].<ref>{{cite web |title=Mulcair clinches Outremont for NDP |url=https://www.cbc.ca/news/canada/mulcair-clinches-outremont-for-ndp-1.730810 |access-date=2025-05-23 |author=Corrine Smith |website=[[CBC News]]}}</ref> This marked the second time ever (and first time in seventeen years) that the NDP won a riding in Quebec. The party won 37 seats in the [[2008 Canadian federal election|2008 federal election]], the best performance since the 1988 total of 43.<ref>{{cite web |title=Canadian Federal Election of 2008 |url=https://www.britannica.com/topic/Canadian-Federal-Election-of-2008 |access-date=2025-05-23 |website=[[Encyclopedia Britannica]]}}</ref> This included a breakthrough in the riding of [[Edmonton Strathcona (federal electoral district)|Edmonton-Strathcona]], only the second time the NDP had managed to win a federal seat in Alberta in the party's history.<ref>{{cite web |title=Edmonton NDP's Duncan spoils Tory sweep of Alberta |url=https://www.cbc.ca/news/canada/edmonton/edmonton-ndp-s-duncan-spoils-tory-sweep-of-alberta-1.730054 |access-date=2025-05-23 |website=[[CBC News]]}}</ref>
+
+In the [[2011 Canadian federal election|2011 federal election]], the NDP won a record 103 seats, becoming the [[Official Opposition (Canada)|Official Opposition]] for the first time in the party's history.<ref>{{cite web |title=NDP's Layton becomes Official Opposition leader |url=https://www.cbc.ca/news/politics/ndp-s-layton-becomes-official-opposition-leader-1.1086887 |access-date=2025-05-23 |website=[[CBC News]]}}</ref> The party had a historic breakthrough in [[Quebec]], where they won 59 out of 75 seats, dominating [[Montreal]] and sweeping [[Quebec City]] and the [[Outaouais]]. This meant that a majority of the party's MPs now came from a province where they had only ever had two candidates elected in the party's history.<ref>{{cite web |title=NDP hits Jack-pot in Quebec |url=https://policyoptions.irpp.org/magazines/the-winner/ndp-hits-the-jack-pot-in-quebec-from-decades-of-work-to-overnight-success/ |access-date=2025-05-23 |author=Derek Leebosh |website=Policy Options}}</ref> The NDP's success in Quebec was mirrored by the collapse of the [[Bloc Québécois]], which lost all but four of its 47 seats, and the collapse of the Liberal Party nationally, which was cut down to just 34 seats, its worst-ever result.<ref>{{cite web |title=Duceppe quits after BQ crushed in Quebec |url=https://www.cbc.ca/news/politics/duceppe-quits-after-bq-crushed-in-quebec-1.1080086 |access-date=2025-05-23 |website=[[CBC News]]}}</ref> This also marked the first time in history where the Liberal Party was neither the government nor the Official Opposition, as the NDP had taken over the latter role.<ref>{{cite web |last1=Goldenberg |first1=Suzanne |title=Micheal Ignatieff resigns after Canada poll defeat for Liberal Party |url=https://www.theguardian.com/world/2011/may/03/michael-ignatieff-resigns-canada-poll-defeat |access-date=2025-05-23 |website=[[The Guardian]] |date=May 3, 2011 }}</ref><ref>{{cite web |title=A Harper dynasty and the end of the Liberals? How the 2011 election didn't change everything |url=https://www.cbc.ca/news/politics/grenier-2011-election-anniversary-1.6007145 |access-date=2025-05-23 |author=Eric Grenier |website=[[CBC News]]}}</ref> The NDP was now the second largest party in the House of Commons opposing a Conservative majority government.<ref>{{cite web |title=2011 Canadian Election Results |url=https://www.sfu.ca/~aheard/elections/2011-results.html |access-date=2025-05-23 |website=[[Simon Fraser University]]}}</ref>
+
+In July 2011, Layton announced that he was suffering from a new cancer and would take a leave of absence, projected to last until the resumption of Parliament in September. He would retain his position of NDP Leader and Leader of the Opposition. The party confirmed his suggestion of [[Hull—Aylmer]] MP [[Nycole Turmel]] to carry out the functions of party leader in his absence. Layton [[Death and state funeral of Jack Layton|died]] from his cancer on August 22, 2011.<ref>{{cite web |title=Jack Layton to take leave after new cancer found |url=https://www.cbc.ca/news/politics/jack-layton-to-take-leave-after-new-cancer-found-1.1017020 |access-date=2025-05-22 |website=[[CBC News]]}}</ref><ref>{{cite web |title=Jack Layton, Canadian opposition leader, dies aged 61 |url=https://www.bbc.com/news/world-us-canada-14618943 |access-date=2025-05-22 |website=[[BBC News]] |date=August 22, 2011 }}</ref>
+
+====Tom Mulcair====
+[[File:Tom-Mulcair-Rally-For-Change-Crop.jpg|thumb|231x231px|[[Tom Mulcair]], leader of the NDP from 2012 to 2016]]
+In his final letter, Layton called for a [[2012 New Democratic Party leadership election|leadership election to be held in early 2012]] to choose his successor,<ref>{{cite web|last=Layton|first=Jack|title=A letter to Canadians from the Honourable Jack Layton|url=https://www.ndp.ca/letter-to-canadians-from-jack-layton|publisher=New Democratic Party of Canada|access-date=October 5, 2017|url-status=live|archive-url=https://wayback.archive-it.org/227/20111105094032/http://www.ndp.ca/letter-to-canadians-from-jack-layton|archive-date=November 5, 2011}}</ref> which was held on March 24, 2012, and elected new leader [[Thomas Mulcair|Tom Mulcair]].<ref>{{cite news|title=NDP leadership convention: Thomas Mulcair holds on for victory|url=https://vancouversun.com/news/Thomas+Mulcair+holds+victory/6354649/story.html|archive-url=https://web.archive.org/web/20120328043347/http://www.vancouversun.com/news/Thomas+Mulcair+holds+victory/6354649/story.html|url-status=dead|archive-date=March 28, 2012|access-date=March 24, 2012|newspaper=Vancouver Sun|date=March 24, 2012}}</ref>
+
+Despite early campaign polls which showed the NDP in first place, the party lost 59 seats in the [[2015 Canadian federal election|2015 election]] and fell back to third place in Parliament. By winning 44 seats, Mulcair was able to secure the second best showing in the party's history, winning one more seat than Ed Broadbent managed in the 1988 election, but with a smaller share of the popular vote.<ref name="National Observer Mulcair">{{cite web|url=https://www.nationalobserver.com/2015/10/21/opinion/better-luck-next-time-mr-mulcair|title=Better luck next time, Mr. Mulcair|publisher=National Observer|author=Elizabeth McSheffrey|date=October 21, 2015|access-date=October 23, 2015}}</ref> NDP seat gains in Saskatchewan and British Columbia were offset by numerical losses in almost every other region, while in Alberta and Manitoba the party maintained its existing seat counts. The party was locked out of Atlantic Canada and the Territories, and lost over half of its seats in Ontario, including all of its seats in Toronto. In Quebec, the NDP lost seats to all three of the other major parties, namely the Liberals, Conservatives, and Bloc Québécois, though it managed to place second in both vote share (25.4%) and seats (16) behind the Liberals in the province. The election resulted in a Liberal majority government.<ref>{{cite web |title=2015 Federal Election Results |url=https://www.cbc.ca/news2/interactives/results-2015/ |access-date=2025-05-23 |website=[[CBC News]]}}</ref><ref>{{cite web |title=NDP left looking for answers after crushing collapse in support |url=https://www.cbc.ca/news/politics/canada-election-2015-whither-the-ndp-mulcair-next-steps-1.3280900 |access-date=2025-05-23 |author=Evan Dyer |website=[[CBC News]]}}</ref>
+
+Mulcair's leadership faced criticism following the election, culminating in his losing a [[leadership review]] vote held at the NDP's policy convention in [[Edmonton]], [[Alberta]] on April 10, 2016. This marked the first time in Canadian federal politics that a leader was defeated in a confidence vote.<ref>{{cite news|title=A history of dramatic leadership reviews in Canadian politics|url=http://www.macleans.ca/news/canada/a-history-of-dramatic-leadership-reviews-in-canadian-politics/ |agency=The Canadian Press |access-date=April 11, 2016 |work=Maclean's|date=April 10, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160411110824/http://www.macleans.ca/news/canada/a-history-of-dramatic-leadership-reviews-in-canadian-politics/ |archive-date= April 11, 2016 }}</ref> Consequently, his successor was to be chosen at a [[2017 New Democratic Party leadership election|leadership election]] to be held no later than October 2017, with Mulcair agreeing to remain as leader until then.<ref name=interim>{{cite web |url=http://www.cbc.ca/news/canada/calgary/mulcair-leadership-rebuke-1.3529511 |title=Mulcair 'a lame duck,' says political scientist on NDP convention results |website=CBC News |date=April 10, 2016 |first1=David |last1=Bell |url-status=live |archive-url=https://web.archive.org/web/20230405041014/https://www.cbc.ca/news/canada/calgary/mulcair-leadership-rebuke-1.3529511 |archive-date= April 5, 2023 }}</ref>
+
+====Jagmeet Singh====
+[[File:Джаґміт Сінґг Блюр-Вест 2022 (cropped).jpg|thumb|244x244px|[[Jagmeet Singh]], leader of the NDP from 2017 to 2025]]
+On October 1, 2017, [[Jagmeet Singh]], the first person of a [[visible minority]] group to lead a major Canadian federal political party on a permanent basis, won the leadership vote to head the NDP on the first ballot.<ref>{{cite news|url=http://www.cbc.ca/news/politics/new-democratic-party-leadership-results-1.4315704 |date=October 1, 2017 |first1=Peter |last1=Zimonjic |title=Jagmeet Singh wins leadership of federal NDP on first ballot |publisher=CBC News |access-date=October 4, 2017}}</ref> On August 8, 2018, Singh announced he would be running in a by-election to replace [[Kennedy Stewart (Canadian politician)|Kennedy Stewart]] as the Member of Parliament for [[Burnaby South]]. Stewart had resigned in order to make an ultimately successful bid for [[List of mayors of Vancouver|Mayor of Vancouver]].<ref>{{cite news|last=Ballingall|first=Alex|date=August 8, 2018|title=NDP Leader Jagmeet Singh to run in B.C. byelection|work=[[StarMetro (newspaper)|StarMetro Ottawa]]|url=https://www.thestar.com/news/canada/2018/08/08/ndp-leader-jagmeet-singh-to-run-in-bc-byelection.html|url-status=live|access-date=August 8, 2018|archive-url=https://web.archive.org/web/20180808214458/https://www.thestar.com/news/canada/2018/08/08/ndp-leader-jagmeet-singh-to-run-in-bc-byelection.html|archive-date=August 8, 2018}}</ref> Singh relocated to [[Burnaby]] for the election<ref>{{cite news|date=August 8, 2018|title=NDP Leader Jagmeet Singh to run in Burnaby South byelection|work=[[CBC News]]|url=https://www.cbc.ca/news/canada/british-columbia/ndp-leader-jagmeet-singh-to-make-announcement-in-burnaby-1.4777775|url-status=live|access-date=August 8, 2018|archive-url=https://web.archive.org/web/20180815112559/http://www.cbc.ca/news/canada/british-columbia/ndp-leader-jagmeet-singh-to-make-announcement-in-burnaby-1.4777775|archive-date=August 15, 2018}}</ref> and won on February 25, 2019, with 38.9 percent of the vote.<ref name="CBC by-election" /><ref>{{cite web|url=https://www.cbc.ca/news/canada/montreal/jagmeet-singh-campaigns-montreal-byelection-1.4957697|title=NDP Leader Jagmeet Singh campaigns in Montreal ahead of tough byelection fight|website=Cbc.ca|access-date=February 26, 2019|archive-url=https://web.archive.org/web/20190225211110/https://www.cbc.ca/news/canada/montreal/jagmeet-singh-campaigns-montreal-byelection-1.4957697|archive-date=February 25, 2019|url-status=live}}</ref>{{force singular}}
+
+In the [[2019 Canadian federal election|2019 federal election]], the NDP won only 24 seats in its worst result since 2004, shedding 15 seats.<ref>{{Cite web |last=Tunney |first=Catharine |date=October 22, 2019 |title=Singh fails to capitalize on late-campaign momentum as NDP loses seats |url=https://www.cbc.ca/news/politics/ndp-election-down-seat-1.5329689 |url-status=live |archive-url=https://web.archive.org/web/20240205051855/https://www.cbc.ca/news/politics/ndp-election-down-seat-1.5329689 |archive-date=February 5, 2024 |website=CBC News}}</ref> [[Alexandre Boulerice]], who was elected to his third term in [[Rosemont—La Petite-Patrie (federal electoral district)|Rosemont—La Petite-Patrie]], was the only NDP candidate to win a seat in Quebec,<ref>{{cite web |url=https://globalnews.ca/news/6064438/ndp-quebec-federal-election/ |title=NDP all but disappears in Quebec as Liberals form minority government |website=Global News |date=October 22, 2019 |first1=Kalina |last1=Laframboise |url-status=live |archive-url= https://web.archive.org/web/20230923180534/https://globalnews.ca/news/6064438/ndp-quebec-federal-election/ |archive-date= September 23, 2023 }}</ref> while the party lost all three of its Saskatchewan ridings ([[Desnethé—Missinippi—Churchill River]], [[Regina—Lewvan]], and [[Saskatoon West]]) to the Conservatives.<ref name=consweep2019>{{cite web |url=https://nationalpost.com/news/andrew-scheers-conservatives-sweep-over-the-prairies-in-the-2019-federal-election-results |title=Andrew Scheer's Conservatives sweep over the Prairies in the 2019 federal election results |website=National Post |date=October 22, 2019 |first1=Tyler |last1=Dawson |url-status=live |archive-url=https://archive.today/20240223223056/https://nationalpost.com/news/andrew-scheers-conservatives-sweep-over-the-prairies-in-the-2019-federal-election-results |archive-date= February 23, 2024 }}</ref> The party remained shut out of Toronto<ref>{{Cite web |last=Ballingall |first=Alex |date=October 22, 2019 |title=Jagmeet Singh can't explain how the NDP failed to win any seats in Toronto in election 2019 |url=https://www.thestar.com/politics/federal/2019/10/22/jagmeet-singh-cant-explain-how-the-ndp-failed-to-win-any-seats-in-toronto.html |website=Toronto Star |language=en |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20230404044019/https://www.thestar.com/politics/federal/2019/10/22/jagmeet-singh-cant-explain-how-the-ndp-failed-to-win-any-seats-in-toronto.html |archive-date= April 4, 2023}}</ref> and lost two of its MPs ([[Cheryl Hardcastle]] in [[Windsor—Tecumseh (federal electoral district)|Windsor—Tecumseh]] and [[Tracey Ramsey]] in [[Essex (federal electoral district)|Essex]]) in the rest of Ontario,<ref>{{cite web |url=https://www.cbc.ca/news/canada/toronto/federal-election-ontario-results-1.5330024 |title=Ontario proves crucial to propelling Liberals to second term |website=CBC News |date=October 22, 2019 |first1=Mike |last1=Crawley |url-status=live |archive-url= https://web.archive.org/web/20230404130813/https://www.cbc.ca/news/canada/toronto/federal-election-ontario-results-1.5330024 |archive-date= April 4, 2023}}</ref> while making small or no gains in the popular vote in Manitoba, Newfoundland and Labrador, Alberta and Nunavut. In British Columbia, the NDP lost three seats ([[Kootenay—Columbia]], [[Port Moody—Coquitlam (federal electoral district)|Port Moody—Coquitlam]], and, after having lost it at [[2019 Nanaimo—Ladysmith federal by-election|a by-election]], [[Nanaimo—Ladysmith]]); however, they retained most of their support in the province.<ref>{{cite web |last1=Boynton |first1=Sean |date=October 22, 2019 |title=B.C. election results full of surprises with Tory gains, NDP losses and Greens staying put |url=https://globalnews.ca/news/6065039/canada-election-bc-results-wrap/ |url-status=live |archive-url=https://web.archive.org/web/20231223090713/https://globalnews.ca/news/6065039/canada-election-bc-results-wrap/ |archive-date=December 23, 2023 |website=[[Global News]]}}</ref>
+
+Following the election, the NDP held the balance of power as the Liberals won a minority government, although it fell back to fourth place behind the resurgent Bloc Québécois.<ref>{{cite web |last1=Lowrie |first1=Morgan |date=October 22, 2019 |title=Liberals, Bloc Quebecois split Quebec vote as NDP nearly wiped out |url=https://www.bnnbloomberg.ca/liberals-bloc-quebecois-split-quebec-vote-as-ndp-nearly-wiped-out-1.1335279 |url-status=live |archive-url=https://web.archive.org/web/20230404102302/https://www.bnnbloomberg.ca/liberals-bloc-quebecois-split-quebec-vote-as-ndp-nearly-wiped-out-1.1335279 |archive-date=April 4, 2023 |website=BNN Bloomberg |agency=[[The Canadian Press]]}}</ref><ref>{{Cite web |last=Shah |first=Maryam |date=October 21, 2019 |title=What the NDP's drop in seats means for the party – National {{!}} Globalnews.ca |url=https://globalnews.ca/news/6062299/ndp-loss-in-seats-federal-election/ |access-date=2025-10-08 |website=[[Global News]] |language=en-US}}</ref> During the [[COVID-19 pandemic in Canada|COVID-19 pandemic]], the NDP used its leverage to lobby the Liberals to be more generous in their financial aid to Canadians, including by extending of the [[Federal aid during the COVID-19 pandemic in Canada#Canada Emergency Response Benefit|Canada Emergency Response Benefit (CERB)]] program, which was a key demand in order to provide confidence to the government in the autumn of 2020.<ref>[https://www.ctvnews.ca/politics/article/can-the-ndp-take-credit-for-improving-pandemic-benefits/ Can the NDP take credit for improving pandemic benefits?] CTV News, August 18, 2021</ref>
+
+In the [[snap election|snap]] [[2021 Canadian federal election|2021 federal election]], the NDP made minor gains in both vote share and seat count, winning in 25 ridings. The party won a second seat in Alberta for the first time when [[Blake Desjarlais]] picked up [[Edmonton Griesbach]] and [[Heather McPherson (politician)|Heather McPherson]] won her second term at [[Edmonton Strathcona (federal electoral district)|Edmonton Strathcona]]. The party also picked up two seats in British Columbia with [[Lisa Marie Barron]] reclaiming Nanaimo—Ladysmith and [[Bonita Zarrillo]] reclaiming Port Moody—Coquitlam.<ref>{{Cite news |last=Boisvert |first=Nick |date=Sep 20, 2021 |title=NDP projected to make minor gains in Jagmeet Singh's 2nd election as party leader |url=https://www.cbc.ca/news/politics/ndp-election-night-2021-1.6183033 |work=[[CBC News]]}}</ref> These gains were offset by losses to the Liberals in [[St. John's East (federal electoral district)|St. John's East]] and [[Hamilton Mountain (federal electoral district)|Hamilton Mountain]], where incumbent NDP MPs [[Jack Harris (Newfoundland and Labrador politician)|Jack Harris]] and [[Scott Duvall]] did not stand for re-election.<ref>[https://www.cbc.ca/news/canada/hamilton/hamilton-mountain-1.6185269 NDPer Malcolm Allen concedes, Liberal Lisa Hepfner becomes new Hamilton Mountain MP], CBC News, September 22, 2021</ref><ref>[https://www.cbc.ca/news/canada/newfoundland-labrador/st-johns-east-results-2021-1.6183143 Liberals flip St. John's East (federal electoral district)|St. John's East, as Conservatives look to claim Coast of Bays-Central-Notre Dame], CBC News, September 21, 2021</ref> Overall, the election resulted in no change to the balance of power in the House of Commons.<ref>{{Cite web |title=Meet the new parliament, same as the old parliament {{!}} Watch News Videos Online |url=https://globalnews.ca/video/8211099/meet-the-new-parliament-same-as-the-old-parliament/ |access-date=2025-10-08 |website=[[Global News]] |language=en-US}}</ref>
+
+In March 2022, the NDP agreed to a [[confidence and supply]] deal with the Liberal Party, led by [[Prime Minister of Canada|Prime Minister]] [[Justin Trudeau]].<ref>{{Cite web |title=Liberals, NDP agree to confidence deal seeing Trudeau government maintain power until 2025 |url=https://www.ctvnews.ca/politics/liberals-ndp-agree-to-confidence-deal-seeing-trudeau-government-maintain-power-until-2025-1.5829116 |archive-url=https://web.archive.org/web/20220322125404/https://www.ctvnews.ca/politics/liberals-ndp-agree-to-confidence-deal-seeing-trudeau-government-maintain-power-until-2025-1.5829116 |url-status=dead |archive-date=March 22, 2022 |website=[[CTV News]]|date=March 22, 2022 }}</ref> Among the policies included in the deal were the establishment of a national [[Canadian Dental Care Plan|dental care program]] for low income Canadians, progress towards a national [[pharmacare]] program, labour reforms for federally regulated workers, and new taxes on financial institutions.<ref>{{Cite web |date=March 22, 2022 |title=Liberals' deal with NDP will keep Trudeau minority in power for 3 more years |url=https://www.ctvnews.ca/politics/article/liberals-deal-with-ndp-will-keep-trudeau-minority-in-power-for-3-more-years/ |access-date=March 1, 2024 |website=CTVNews |language=en |archive-date=March 1, 2024 |archive-url=https://web.archive.org/web/20240301060047/https://www.ctvnews.ca/politics/liberals-deal-with-ndp-will-keep-trudeau-minority-in-power-for-3-more-years-1.5829116 |url-status=live }}</ref> In September 2024, the NDP ended their confidence and supply agreement with the Liberal Party; the deal had run from March 2022 but was pulled nine months early.<ref>{{Cite web|last=Zimonjic|first=Peter|access-date=September 4, 2024|title=The NDP is ending its governance agreement with the Liberals|url=https://www.cbc.ca/news/politics/jagmeet-singh-ndp-ending-agreement-1.7312910|website=[[CBC News]]}}</ref>
+
+Following the appointment of [[Mark Carney]] as prime minister, the NDP suffered a steep decline in polling.<ref>{{Cite web |last=Borg |first=Jeremy |date=February 20, 2025 |title=NDP sees 'deadly' slide in polls |url=https://epaper.nationalpost.com/article/281642490901391 |access-date=March 22, 2025 |website=nationalpost.com}}</ref><ref>{{Cite web |last1=von Stackelberg |first1=Marina |last2=Thurton |first2=David |date=March 21, 2025 |title=This election, the NDP could be fighting for its own survival |url=https://www.cbc.ca/news/politics/ndp-polling-election-2025-1.7489648 |website=[[CBC News]]}}</ref> At the [[2025 Canadian federal election|2025 federal election]], the NDP has suffered its worst seat result in its history, losing 17 of their 24 seats to both Liberal and Conservative candidates,<ref>{{Cite news|url=https://www.cbc.ca/news/politics/jagmeet-singh-ndp-election-results-1.7520955|last=Zimonjic|first=Peter|title=An emotional Singh steps down with NDP set to lose party status|work=CBC News|date=April 29, 2025|access-date=May 1, 2025}}</ref> and lost [[official party status]] in the [[Canadian House of Commons|House of Commons]].<ref>{{Cite news|url=https://ca.news.yahoo.com/disastrous-collapse-ndp-vote-federal-184000978.html|last=King|first=Nykole|title='Disastrous': The collapse of the NDP vote in the federal election and how it happened|work=Regina Leader-Post|publisher=Yahoo News Canada|date=May 1, 2025|access-date=May 1, 2025}}</ref> Singh failed to be elected in the new riding of [[Burnaby Central]],<ref name=ndp2025fedresults>{{cite news|url=https://www.cbc.ca/news/politics/takeaways-election-results-1.7521355|title=5 key takeaways from Monday's historic vote|first=Darren|last=Major|publisher=CBC News|date=April 29, 2025|access-date=April 29, 2025}}</ref> and announced that he would resign as party leader after the selection of an interim leader.<ref>{{Cite news |date=April 29, 2025 |title=CP NewsAlert: Jagmeet Singh to step down as NDP Leader after losing seat |url=https://www.thestar.com/politics/federal-elections/cp-newsalert-jagmeet-singh-to-step-down-as-ndp-leader-after-losing-seat/article_fa3b8c61-dfee-52d8-936a-0e18cf6cd122.html |access-date=May 6, 2025 |work=[[Toronto Star]] |agency=[[The Canadian Press]]|archive-url=https://web.archive.org/web/20250429203658/https://www.thestar.com/politics/federal-elections/cp-newsalert-jagmeet-singh-to-step-down-as-ndp-leader-after-losing-seat/article_fa3b8c61-dfee-52d8-936a-0e18cf6cd122.html|archive-date=April 29, 2025|quote=Jagmeet Singh says he will step down as the leader of the NDP as soon as new interim leader is chosen.}}</ref> He was replaced by [[Vancouver Kingsway]] MP [[Don Davies]] on an interim basis until [[2026 New Democratic Party leadership election|a new party leader is elected]].<ref>{{cite web|url=https://www.cbc.ca/news/politics/ndp-new-leader-1.7526573|title=NDP appoints Don Davies as interim leader Monday evening: sources|last1=Thurton|first1=David |date=May 5, 2025|work=CBC News|access-date=May 5, 2025}}</ref><ref>{{Cite news |date=2026-03-11|title=Nunavut MP Lori Idlout cites Northern priorities in joining Liberals|url=https://www.theglobeandmail.com/politics/article-nunavut-mp-lori-idlout-cites-northern-priorities-in-joining-liberals/|access-date=2026-03-11|work=The Globe and Mail|language=en-CA}}</ref>
+
+====Avi Lewis====
+[[File:Avi Lewis - 2016 (cropped).jpg|thumb|240x240px|[[Avi Lewis]], current leader of the NDP since 2026]]
+On March 29, 2026, [[Avi Lewis]], the grandson of former NDP leader David Lewis and son of former Ontario NDP leader [[Stephen Lewis]], won the [[2026 NDP leadership election|NDP leadership election]] on the first ballot.<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=KMZOKCxCujM |title=2026 NDP Convention – In-Depth Coverage – Day 3 |date=2026-03-29 |last=cpac |access-date=2026-03-29 |via=YouTube}}</ref> Afterwards, [[Alberta New Democratic Party|Alberta NDP]] leader [[Naheed Nenshi]] and [[Saskatchewan New Democratic Party|Saskatchewan NDP]] leader [[Carla Beck]] criticized the federal party's oil and gas policy under Lewis.<ref>{{Cite web |last=Major |first=Darren |date=March 29, 2026 |title=The NDP has a new leader. What does Avi Lewis's arrival mean for the party? |url=https://www.cbc.ca/news/politics/ndp-new-leader-avi-lewsi-9.7146004 |website=[[CBC News]]}}</ref>
+
+==Ideology and policies==
+The NDP evolved in 1961 from a merger of the [[Canadian Labour Congress]] (CLC) and the [[Co-operative Commonwealth Federation]] (CCF). The CCF grew from [[populism|populist]], [[agrarianism|agrarian]] and [[socialism|socialist]] roots into a modern social democratic party; it has also been described as democratic socialist.{{refn|name="demsoc"|<ref>{{cite journal |last1=Bisom-Rapp |first1=Susan |last2=Coiquaud |first2=Urwana |title=How to Manage the Wolf in the Fold: A Government-Focused Approach to Regulatory Capture in the Platform Economy Comparing California with British Columbia |year=2025 |journal=[[Connecticut Law Review]] |publisher=California Western School of Law Research |ssrn=5504438 |doi=10.2139/ssrn.5504438 |issue=58 |page=18 |quote=The strategy seemingly failed electorally, and a no confidence vote followed, which ushered in the allied New Democratic Party (“NDP”, a democratic socialist party) and the Green Party (a party promoting ecological sustainability and social justice) as the minority government.}}</ref><ref>{{cite journal |title=Ontology, Democracy and Totalitarianism in George Grant: A Response to Ryan Alexander McKinnell |journal=Cosmos + Taxis |volume=13 |issue=11/12 |first=Tyler |last=Chamberlain |publisher=[[Trinity Western University]] |url=https://cosmosandtaxis.org/wp-content/uploads/2025/11/Chamberlain_CT_Vol13_Iss_11_12.pdf |page=89 |year=2025 |quote=This is demonstrated in an essay written before Grant had discovered Strauss, a 1961 contribution to a volume set to coincide with and support the creation of the democratic socialist New Democratic Party of Canada.}}</ref><ref>{{cite conference |title=The Nature and Sources of Voters' Beliefs about the Left-Right Positions of Political Parties |conference=Annual Meeting of the European Political Science Association |date=2 October 2018 |volume=64 |first1=Seonghui |last1=Lee |first2=Philip |last2=Santoso |first3=Randolph |last3=Stevenson |url=https://scholar.google.com.au/scholar?oi=bibs&cluster=17456284133326437085&btnI=1&hl=fr |page=41 |quote=In contrast, the respondents answered almost 5 seconds more slowly when cooperation with the (democratic socialist) NDP was paired with this same attribute.}}</ref><ref>{{cite journal |first=Bryan H. |last=Wildenthal |title="An Inside Account of a Very Canadian Revolution," reviewing Strayer, Canada's Constitutional Revolution |journal=H-Net Reviews in the Humanities & Social Sciences |year=2021 |ssrn=2538225 |page=3 |quote=Saskatchewan played a major role in the founding of the Co-operative Commonwealth Federation (CCF), later the New Democratic Party (NDP), a democratic socialist movement with which Strayer remained proudly affiliated his entire career, even while serving in Trudeau’s more mainstream Liberal Party government.}}</ref><ref>{{cite journal |page=12 |quote=As a result, the Liberals were dependent on the New Democratic Party (NDP), a democratic socialist and nationalist party, for power. |last=Valentine |first=John |year=2021 |title=The State and Canadian Cultural Nationalism: Protecting Canadian Football |journal=The International Journal of the History of Sport |volume=38 |issue=12 |doi=10.1080/09523367.2021.2003332 |publisher=[[Taylor & Francis]] |url=https://www.tandfonline.com/doi/abs/10.1080/09523367.2021.2003332|url-access=subscription }}</ref><ref>{{cite thesis |title=Moving with the Tide? A Content Analysis of the Relative Prominence of Left and Right-Wing Populism in Recent Canadian Federal Electoral Manifestos |first=Rowan |last=Markovich |degree=Master in Political Science |publisher=School of Political Studies Faculty of Social Sciences University of Ottawa |location=[[Ottawa, Canada]] |year=2021 |page=12 |quote=The overtly democratic socialist party of the NDP incorporated several left populist policy ideals and figures, most notably with the first party leader being the former head of the CCF Tommy Douglas (Jenson and Papillon, 1998; Macgregor, 2018; Penner, 1993). |url=https://ruor.uottawa.ca/items/e601fc94-37d0-42af-b967-bf44fd44a0c9}}</ref><ref>{{cite journal |quote=The NDP is a democratic socialist party. Layton, who began his career in municipal politics in Toronto, led the federal NDP from 2003 to 2011. In the 2011 election, it became the Official Opposition for the first time in its history. |page=195 |first1=Sandford |last1=Borins |first2=Beth |last2=Herst |title=Canadian Political Storytelling: Back to a Future? |journal=New Area Studies |volume=2 |issue=1 |year=2021 |doi=10.37975/NAS.42|doi-access=free }}</ref><ref>{{cite journal |page=8 |quote=In Ontario these are the centreright Progressive Conservative (PC) party, centrist Liberal party, and democratic socialist New Democratic Party (NDP). |journal=Canadian Election Study Working Papers Series |year=2013 |title=Who Responds to Election Campaigns? The Two-Moderator Model Revisited |first1=Patrick |last1=Fournier |first2=Fred |last2=Cutler |first3=Stuart |last3=Soroka |publisher=[[Université de Montréal]] |url=https://ces-eec.sites.olt.ubc.ca/files/2014/07/Fournier-Cutler-Soroka-Who-Responds-to-Election-Campaigns-Jan-2012.pdf}}</ref><ref>{{cite journal |first1=Mahendra |last1=Prasad Singh |first2=Krishna |last2=Murari |title=Party System in Parliamentary Federal Canada and India |volume=15 |issue=3 |page=23 |quote=By 2004 Reform/CA merged with the Progressive Conservative. The democratic socialist NDP also suffered a precipitous decline from 43 in 1988 (till then its highest tally) to 9 in 1993, 21 in 1997 and 13 in 2000. Between 2004 and 2008 the NDP gradually increased their seats and reached its highest water mark of 100 in 2011. |issn=0971-1260 |journal=Think India Quarterly Journal |year=2012 |url=http://www.thinkindiaquarterly.org/ArticleDetails.aspx?ArticleId=436&Id=46 }}</ref><ref>{{cite journal |year=2010 |doi=10.1111/0033-0124.00325 |page=197 |quote=Ontario’s third major player, the New Democratic Party (often referred to as the NDP), is a democratic socialist party with strong historical support coming from Ontario’s industrially based organized labor. |last=Donald |first=Betsy |title=The Permeable City: Toronto's Spatial Shift at the Turn of the Millennium |journal=The Professional Geographer |volume=54 |issue=2 |publisher=[[Taylor & Francis]] |url=https://www.tandfonline.com/doi/abs/10.1111/0033-0124.00325|url-access=subscription }}</ref><ref>{{cite book |page=108 |quote=The Conservative Party of Canada, a merger between the Canadian Alliance Party and the Progressive Conservative Party of Canada, won 99 seats with 29.6% of the vote, the separatist Bloc Québécois (BQ), with candidates only in Quebec, won 54 (12.4%), and the democratic socialist New Democratic Party (NDP) 19 (15.7%). |title=Political Parties of the World |edition=6th |first=Bogdan |last=Szajkowski |isbn=0-9543811-4-9 |publisher=[[Harper (publisher)|John Harper Publishing]] |year=2005}}</ref><ref>{{cite journal |quote=The New Democratic Party (NDP), the democratic socialist party, was elected in Canada's wealthiest and most populous province. |title=Feminists in Power: Women Cabinet Ministers in the New Democratic Party (NDP) Government of Ontario, 1990–1995 |first=Lesley Hyland |last=Byrne |doi=10.1111/j.1541-0072.1997.tb00044.x |year=2005 |journal=Policy Studies Journal |volume=25 |issue=4 |publisher=[[Wiley (publisher)|Wiley]] |page=601}}</ref>}} Although the CCF was part of the [[Christian left]] and the [[Social Gospel]] movement,<ref>{{cite web |url=http://www.bc.united-church.ca/uccfiles/archives/The%20United%20Church%20of%20Canada%20in%20BC%20(history).pdf |title=The United Church of Canada in British Columbia |author=Bob Stewart |year=1983 |access-date=April 15, 2011 |archive-date=July 6, 2011 |archive-url=https://web.archive.org/web/20110706213434/http://www.bc.united-church.ca/uccfiles/archives/The%20United%20Church%20of%20Canada%20in%20BC%20(history).pdf |url-status=dead }}</ref> the NDP is [[secularity|secular]] and pluralistic. It has broadened to include concerns of the [[New Left]], and advocates issues such as [[LGBT rights]], [[World peace|international peace]], and [[Natural environment|environmental]] stewardship.<ref>{{cite web|url=https://xfer.ndp.ca/2017/Documents/2016_POLICY-EN.pdf|title=POLICY OF THE New Democratic Party of Canada : EFFECTIVE APRIL 2016|website=Xfer.ndp.ca|access-date=March 2, 2022}}</ref> The NDP also supports a [[mixed economy]] and broader [[welfare spending|welfare]],<ref>{{Cite web |title=New Democratic Party |url=https://www.britannica.com/topic/New-Democratic-Party-political-party |access-date=November 3, 2022 |website=[[Encyclopædia Britannica]] |language=en}}</ref> and has a [[Left-wing politics|left-wing]],<ref name="Goodyear-Grant2013">{{cite book |author=Elizabeth Goodyear-Grant |author1-link=Elizabeth Goodyear-Grant |url=https://books.google.com/books?id=TUFFAAAAQBAJ&pg=PA31 |title=Gendered News: Media Coverage and Electoral Politics in Canada |publisher=UBC Press |year=2013 |isbn=978-0-7748-2625-9 |page=31}}</ref><ref name="Olive2015">{{cite book |author=Andrea Olive |url=https://books.google.com/books?id=Bvw_CwAAQBAJ&pg=PA55 |title=The Canadian Environment in Political Context |publisher=University of Toronto Press |year=2015 |isbn=978-1-4426-0871-9 |page=55}}</ref> [[Democratic socialism|democratic socialist]] faction.<ref>{{cite news |author=Laura Payton |date=April 14, 2013 |title=NDP votes to take 'socialism' out of party constitution |url=https://www.cbc.ca/news/politics/ndp-votes-to-take-socialism-out-of-party-constitution-1.1385171 |access-date=May 19, 2020 |work=CBC News}}</ref> The NDP is a member of the [[Progressive Alliance]], a [[political international]] of progressive and social democratic parties.<ref name="PAlliance">{{cite web |title=Parties & Organisations of the Progressive Alliance |url=http://progressive-alliance.info/network/parties-and-organisations/ |website=progressive-alliance.info |access-date=October 6, 2018 |archive-date=March 6, 2017 |archive-url=https://web.archive.org/web/20170306042542/http://progressive-alliance.info/network/parties-and-organisations/ |url-status=dead}}</ref>
+
+===Ideological orientation===
+The NDP's constitution states that both [[social democracy]] and [[democratic socialism]] are influences on the party. Specific inclusion of the party's history as the continuation of the more radical Co-operative Commonwealth Federation, and specific identification of the "democratic socialist" tradition as a continuing influence on the party are part of the language of the preamble to the party's constitution:
+{{Blockquote|text=New Democrats are proud of our political and activist heritage, and our long record of visionary, practical, and successful governments. That heritage and that record have distinguished and inspired our party since the creation of the Co-operative Commonwealth Federation in 1933 and the founding of the New Democratic Party in 1961. New Democrats seek a future that brings together the best of the insights and objectives of Canadians who, within the social democratic and democratic socialist traditions, have worked through farmer, labour, co-operative, feminist, human rights and environmental movements, and with First Nations, Métis and Inuit peoples, to build a more just, equal, and sustainable Canada within a global community dedicated to the same goals.<ref name="NDP constitution">{{cite web |url=http://xfer.ndp.ca/2013/constitution/2013_CONSTITUTION_E.pdf |title=Constitution of the New Democratic Party of Canada, Effective April 2013 |publisher=New Democratic Party of Canada }}</ref>}}
+
+===Health care===
+The NDP states that it is committed to public health care. The party states that it fights for "a national, universal, public pharmacare program to make sure that all Canadians can access the prescription medicine they need with their health card, not their credit card – saving money and improving health outcomes for everyone".<ref>{{cite web |url= https://www.ndp.ca/better-care |title= A new deal for better health care for all Canadians |website= New Democratic Party (official website) |access-date= January 13, 2021}}</ref> The party also states its support for expanding services covered under the national health care system to include dental care, mental health care, eye and hearing care, infertility procedures, and prescription drugs. Regarding dentistry, the NDP notes that "one in three Canadians has no dental insurance and over six million people don't visit the dentist every year because they can't afford to. Too many people are forced to go without the care they need until the pain is so severe that they are forced to seek relief in hospital emergency rooms".<ref>{{cite web |url= https://www.ndp.ca/better-care |title= Extending Medicare to cover services you need |website= New Democratic Party (official website) |access-date= January 13, 2021}}</ref>
+
+===Palestine===
+The NDP supports the [[State of Palestine|Palestinian state]]. In March 2024, the House of Commons passed an NDP motion on Palestine after significant amendments were agreed with the Liberals. In particular, the motion called on the government to "officially recognize the State of Palestine"; however, this was amended to "work...towards the establishment of the State of Palestine as part of a negotiated [[two-state solution]]."<ref>{{cite news |last1=Aiello |first1=Rachel |title=NDP motion regarding Palestinian statehood passes after major Liberal alterations |url=https://www.ctvnews.ca/politics/mps-to-vote-on-ndp-motion-calling-on-canada-to-recognize-palestinian-statehood-1.6811956 |archive-url=https://web.archive.org/web/20240318175318/https://www.ctvnews.ca/politics/mps-to-vote-on-ndp-motion-calling-on-canada-to-recognize-palestinian-statehood-1.6811956 |url-status=dead |archive-date=March 18, 2024 |work=CTV News |date=March 18, 2024}}</ref>
+
+==Electoral achievements==
+Since its formation, the party has had a presence in the House of Commons. It was the third largest political party from 1965 to 1993, when the party dropped to fourth and lost [[official party status]]. The NDP's peak period of policy influence in those periods was during the minority [[Liberal Party of Canada|Liberal]] governments of [[Lester B. Pearson]] (1963–1968) and [[Pierre Trudeau]] (1972–1974). The NDP regained official status in 1997, and played a similar role in the Liberal and Conservative minority governments of 2004–2006 and 2006–2011, respectively. Following the [[2011 Canadian federal election|2011 election]], the party became the second-largest party and formed the [[Official Opposition (Canada)|Official Opposition]] in the [[41st Canadian Parliament]].<ref>{{cite web |title=New Democratic Party (NDP) |url=https://www.thecanadianencyclopedia.ca/en/article/new-democratic-party |access-date=2025-05-23 |author=Alan Whitehorn |website=[[The Canadian Encyclopedia]]}}</ref><ref>{{cite web |title=Party Leaders in the House of Commons |url=https://www.ourcommons.ca/procedure/procedure-and-practice-3/App08-e.html |access-date=2025-05-23 |website=ourcommons.ca}}</ref>
+
+Provincial New Democratic parties, which are organizationally sections of the federal party, have governed in six of the ten [[Provinces and territories of Canada|provinces and one territory]]. As of 2025, the NDP governs the provinces of [[British Columbia]]<ref>{{cite web |title=B.C. lieutenant-governor asks NDP Leader David Eby to form government |url=https://www.cbc.ca/news/canada/british-columbia/bc-election-2024-winners-1.7364897 |access-date=2025-05-23 |author=Karin Larsen |website=[[CBC News]]}}</ref> and [[Manitoba]],<ref>{{cite web |title=NDP to form majority government following historic Manitoba election |url=https://www.ctvnews.ca/winnipeg/article/ndp-to-form-majority-government-following-historic-manitoba-election/ |access-date=2025-05-23 |author=Katherine Dow, Devon McKendrick |website=[[CTV News]] |date=October 4, 2023 }}</ref> forms the [[Official Opposition]] in [[Alberta]],<ref>{{cite web |title=Alberta NDP forms official opposition; release statement following election results |url=https://lethbridgenewsnow.com/2023/05/30/alberta-ndp-forms-official-opposition-releases-statement-following-election-results/ |access-date=2025-05-23 |website=Lethbridge News}}</ref> [[Nova Scotia]],<ref>{{cite web |title=NDP to become Official Opposition as Liberal vote collapses in N.S. election |url=https://www.cbc.ca/news/canada/nova-scotia/ndp-to-become-official-opposition-as-liberal-vote-collapses-in-n-s-election-1.7394012 |access-date=2025-05-23 |author=Richard Cuthbertson |website=[[CBC News]]}}</ref> [[Ontario]],<ref>{{cite web |title=RECAP: PCs win as Crombie fails to earn seat in Mississauga but vows to remain leader |url=https://www.ctvnews.ca/toronto/ontario-election-2025/article/pcs-win-as-crombie-fails-to-earn-seat-in-mississauga-but-vows-to-remain-leader-live-updates-here/ |access-date=2025-05-23 |author=Alex Arsenych, Chris Fox, Joshua Freeman, and Tony Grace |website=[[CTV News]] |date=February 28, 2025 }}</ref> and [[Saskatchewan]],<ref>{{cite web |title=Saskatchewan election 2024 live results |url=https://newsinteractives.cbc.ca/elections/saskatchewan/2024/results/ |access-date=2025-05-23 |website=[[CBC News]]}}</ref> and has sitting members in every provincial legislature except those of [[New Brunswick]],<ref>{{cite web |title=Members of the 61st Legislative Assembly of New Brunswick |url=https://www.legnb.ca/en/members/current |access-date=2025-05-23 |website=[[Legislative Assembly of New Brunswick]]}}</ref> [[Prince Edward Island]],<ref>{{cite web |title=Memebers – Legislative Assembly of Prince Edward Island |url=https://www.assembly.pe.ca/members |access-date=2025-05-23 |website=[[Legislative Assembly of Prince Edward Island]]}}</ref> and [[Quebec]].<ref>{{cite web |title=Members – National Assembly of Quebec |url=https://www.assnat.qc.ca/en/deputes/index.html |access-date=2025-05-23 |website=[[National Assembly of Quebec]]}}</ref> The NDP has previously formed the government in the provinces of BC,<ref>{{cite web |title=Dave Barrett |url=https://www.thecanadianencyclopedia.ca/en/article/david-barrett |access-date=2025-05-23 |website=[[The Canadian Encyclopedia]]}}</ref> Alberta,<ref>{{cite web |title=Former Alberta NDP premier Rachel Notley to resign as MLA |url=https://www.cbc.ca/news/canada/edmonton/rachel-notley-mla-resignation-1.7408616 |access-date=2025-05-23 |author=Wallis Snowdon |website=[[CBC News]]}}</ref> Saskatchewan,<ref>{{cite web |title=Tommy Douglas |url=https://www.thecanadianencyclopedia.ca/en/article/tommy-douglas |access-date=2025-05-23 |author=Tabitha de Bruin |website=[[The Canadian Encyclopedia]]}}</ref> Manitoba,<ref>{{cite web |title=Ed Schreyer |url=https://www.thecanadianencyclopedia.ca/en/article/edward-richard-schreyer |access-date=2025-05-23 |author=Norman Hillmer, Danny Kucharsky |website=[[The Canadian Encyclopedia]]}}</ref> Ontario,<ref>{{cite web |title=Bob Rae |url=https://www.thecanadianencyclopedia.ca/en/article/robert-keith-bob-rae |access-date=2025-05-23 |author=Alan Whitehorn |website=[[The Canadian Encyclopedia]]}}</ref> Nova Scotia,<ref>{{cite web |title=Darrell Dexter |url=https://www.thecanadianencyclopedia.ca/en/article/darrell-dexter |access-date=2025-05-23 |author=J.D.M. Steward |website=[[The Canadian Encyclopedia]]}}</ref> and the [[Yukon]] Territory.<ref>{{cite web |title=Tony Penikett |url=https://canadaehx.com/2024/12/06/tony-penikett/ |access-date=2025-05-23 |author=Craig Baird |website=Canadian History Ehx |date=December 6, 2024 }}</ref> The NDP has since its founding in 1961 had at least one sitting member in every provincial legislature except that of Quebec.
+
+While members of the party are active in municipal politics, the party does not organize at that level. For example, though former Toronto mayor [[David Miller (Canadian politician)|David Miller]] was an NDP member during his successful 2003 and 2006 mayoral campaigns, his campaigns were not affiliated with the NDP.<ref>{{cite web |title=As Calgary Party launches, Alberta's major cities brace for big change to local politics |url=https://www.cbc.ca/news/canada/calgary/calgary-party-launch-1.7532119 |access-date=2025-05-23 |author=Andrew Jeffery |website=[[CBC News]]}}</ref><ref>{{cite web |title=Are municipal politics already partisan? |url=https://www.policyalternatives.ca/news-research/are-municipal-politics-already-partisan/ |access-date=2025-05-23 |author=Elliot Dillabough |website=Policy Alternatives |date=November 12, 2024 }}</ref> This is also the case with incumbent Toronto mayor [[Olivia Chow]], Hamilton mayor [[Andrea Horwath]], and former Vancouver mayor [[Kennedy Stewart (Canadian politician)|Kennedy Stewart]].
+
+===Federal secretaries and national directors===
+{{incomplete list|date=April 2025}}
+
+'''Federal secretaries'''
+* [[Ervin (Ernie) Hall]] (1961)<ref>{{cite news |last=Hall |first=Ervin (Ernie) Hall |author-link=Ervin |date=January 24, 2025 |title=Provincial Secretaries |url=https://bcndphistory.ca/provincial-secretaries/ |work=BCNDP History}}</ref>
+* [[Terry Grier]] (1962–1966)<ref>{{cite news |last=Grier |first=Terry |author-link=Terry Grier |date=December 6, 2003 |title=More Than the Father of Medicare |url=https://www.theglobeandmail.com/arts/more-than-the-father-of-medicare/article774233/ |work=The Globe and Mail |archive-url=https://web.archive.org/web/20250211044740/https://www.theglobeandmail.com/arts/more-than-the-father-of-medicare/article774233/ |archive-date=February 11, 2025}}</ref>
+* Clifford Scotton (1966–1974)<ref>{{cite web |date=February 18, 1983 |title=Scotton to Advise on Labour Issues |url=https://news.gov.mb.ca/news/archives/1983/02/1983-02-18-scotton_to_advise_on_labor_market_issues.pdf |url-status=live |type=press release |publisher=Government of Manitoba |archive-url=https://web.archive.org/web/20250422024946/https://news.gov.mb.ca/news/archives/1983/02/1983-02-18-scotton_to_advise_on_labor_market_issues.pdf |archive-date=April 22, 2025}}</ref>
+* [[Robin Sears]] (1974<ref>{{cite web |last=Sears |first=Robin V. |author-link=Robin Sears |date=March 30, 2023 |title=Then and Now: The Amazing Griers |work=Douglas Coldwell Layton Foundation |url=https://www.douglascoldwelllayton.ca/the_amazing_griers |archive-url=https://web.archive.org/web/20230621224929/https://www.douglascoldwelllayton.ca/the_amazing_griers |archive-date=June 21, 2023}}</ref>&nbsp;– {{abbr|aft.|after}} 1980<ref>{{cite news |title=OPEIU Officers and Staff Attend Training Conference |url=https://www.opeiu.org/portals/0/whitecollar/1980-1989/1981-Mar-Apr-398.pdf |url-status=live |work=White Collar |issue=398 |location=Washington, DC |publisher=Office and Professional Employees International Union |page=2 |issn=0043-4876 |archive-url=https://web.archive.org/web/20140613012556/https://www.opeiu.org/portals/0/whitecollar/1980-1989/1981-Mar-Apr-398.pdf |archive-date=June 13, 2014}}</ref>)
+* Mary Ellen McQuay ({{circa|1981}}<ref>{{cite news |last=Thomas |first=Hilda |date=November–December 1981 |title=Participation of Women Committee Meeting |url=https://riseupfeministarchive.ca/wp-content/uploads/priorities-9-6-nov-dec-1981-COMPLETE.pdf |url-status=live |work=Priorities |volume=9 |issue=6 |location=Vancouver |publisher=Standing Committee on Women's Rights of the British Columbia New Democratic Party |page=12 |archive-url=https://web.archive.org/web/20240922091328/https://riseupfeministarchive.ca/wp-content/uploads/priorities-9-6-nov-dec-1981-COMPLETE.pdf |archive-date=September 22, 2024}}</ref>&nbsp;– {{circa|1982}}<ref name="Socialist Affairs 1982">{{cite magazine |year=1982 |title=Appointment |url=https://www.socialistinternational.org/fileadmin/uploads/si/Documents/Socialist_Affairs/Socialist_Affairs_No.6_1982.pdf |url-status=live |magazine=Socialist Affairs |issue=6/82 |location=London |publisher=Socialist International |page=263 |archive-url=https://web.archive.org/web/20240704013012/https://www.socialistinternational.org/fileadmin/uploads/si/Documents/Socialist_Affairs/Socialist_Affairs_No.6_1982.pdf |archive-date=July 4, 2024}}</ref>)
+* [[Gerry Caplan]] (1982<ref name="Socialist Affairs 1982"/>–1984)
+* Dennis Young ({{circa|1985}})<ref>{{cite thesis |last=Thomlinson |first=Neil R. |year=1992 |title=Intra-Party Caucuses and N.D.P. Leadership Selection in 1989 |degree=master's |location=Saskatoon, Saskatchewan |publisher=University of Saskatchewan |page=22 |hdl=10388/etd-10252011-123741 |hdl-access=free}}</ref>
+* [[Bill Knight]] (1988–1989)<ref>{{cite web | url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=10289 | title=Profile }}</ref>
+* [[Dick Proctor]] (1989–1992)
+* [[Peter Julian]] (acting; {{circa|1990s}})
+* David Woodbury ({{circa|1997}})<ref>{{cite book |last1=Carty |first1=R. Kenneth |last2=Cross |first2=William |last3=Young |first3=Lisa |title=Rebuilding Canadian Party Politics |date=2000 |location=Vancouver |publisher=UBC Press |page=230 |isbn=978-0-7748-0777-7}}</ref>
+* Jill Marzetti (1997<ref>{{cite web | url=https://www.hilltimes.com/story/1997/12/22/liberals-outspent-major-parties-grits-spent-1-3m-more-than-the-1993-election/253613/ | title=Liberals outspent major parties: Grits spent $1.3m more than the 1993 election | work=The Hill Times }}</ref>&nbsp;– {{abbr|aft.|after}} 2000<ref>{{cite web | url=https://nowtoronto.com/news/canadians-react-to-ndp-candidate-speaking-toronto-slang-in-tiktok-campaign/ | title='Big up yourself,' Canadians react to NDP candidate speaking Toronto slang in TikTok campaign | date=April 21, 2025 }}</ref>)
+* Chris Watson ({{circa|2003}})<ref>{{cite web | url=https://www.ourcommons.ca/DocumentViewer/en/37-2/HAFF/meeting-36/minutes | title=Minutes – HAFF (37–2) – No. 36 – House of Commons of Canada }}</ref>
+* Eric Hébert-Daly (2004–2008)<ref>{{cite book |last=McGrane |first=Dave |author-link=Dave McGrane |year=2019 |title=The New NDP: Moderation, Modernization, and Political Marketing |location=Vancouver |publisher=UBC Press |page=340 |isbn=978-0-7748-6048-2}}</ref>
+
+'''National directors'''
+* [[Dick Proctor]] (interim; {{circa|2008}}&nbsp;– 2009)
+* [[Brad Lavigne]] (2009–2011)
+* Nathan Rotman (2012–2014)<ref>{{cite news |last=O'Malley |first=Kady |author-link=Kady O'Malley |date=March 26, 2014 |title=Nathan Rotman Leaves NDP Role to Work on Olivia Chow Mayoral Bid |url=https://www.cbc.ca/news/politics/nathan-rotman-leaves-ndp-role-to-work-on-olivia-chow-mayoral-bid-1.2587411 |url-status=live |work=CBC News |archive-url=https://web.archive.org/web/20140327011211/https://www.cbc.ca/news/politics/nathan-rotman-leaves-ndp-role-to-work-on-olivia-chow-mayoral-bid-1.2587411 |archive-date=March 27, 2014}}</ref>
+* [[Anne McGrath]] (2014–2015)<ref name="Ryckewaert 2025">{{cite news |last=Ryckewaert |first=Laura |date=April 15, 2025 |title=NDP Has a Familiar Team Fighting to Keep Its Presence in the House |url=https://www.hilltimes.com/story/2025/04/15/ndp-has-a-familiar-team-fighting-to-keep-its-presence-strong-in-the-house/456917/ |url-access=subscription |work=The Hill Times |location=Ottawa}}</ref>
+* [[Karl Bélanger]] (interim; 2016)
+* Robert Fox (2016–2018)<ref>{{cite news |last=Ryckewaert |first=Laura |date=September 19, 2016 |title=Amid Party 'Renewal,' NDP Recruits Robert Fox as New National Director |url=https://www.hilltimes.com/story/2016/09/19/amid-party-renewal-ndp-recruits-robert-fox-as-new-national-director/222794/ |url-access=subscription |work=The Hill Times |location=Ottawa}}</ref><ref>{{cite web |date=November 29, 2017 |title=NDP Announces New Interim National Director |url=https://www.ndp.ca/news/ndp-announces-new-interim-national-director |publisher=New Democratic Party |access-date=April 22, 2025}}</ref>
+* Melissa Bruno (2018–2019)
+* [[Anne McGrath]] (2019–2024)<ref name="Ryckewaert 2025"/>
+* Lucy Watson (2024–2026)<ref>{{cite news |last=Thurton |first=David |date=January 15, 2024 |title=Leadership Shakeup at the Federal NDP as Party Gets Election Ready |url=https://www.cbc.ca/news/politics/ndp-top-staff-changes-1.7083904 |url-status=live |website=CBC News |archive-url=https://web.archive.org/web/20240115152621/https://www.cbc.ca/news/politics/ndp-top-staff-changes-1.7083904 |archive-date=January 15, 2024}}</ref>
+* [[Matthew Green (Canadian politician)|Matthew Green]] (interim; 2026)
+* François Picard (2026–present)
+
+==Provincial and territorial wings==
+[[File:NDP leaders summit 2013.jpg|thumb|250px|NDP leaders at the federal and provincial levels during a federal leaders summit on January 15, 2013]]
+Unlike most other Canadian federal parties, the NDP is integrated with its provincial and territorial parties. Holding membership of a provincial or territorial section of the NDP includes automatic membership in the federal party, and this precludes a person from being a member of different parties at the federal and provincial levels. Membership lists are maintained by the provinces and territories.<ref>{{cite web |title=Alberta NDP ending automatic membership in federal party |url=https://www.cbc.ca/news/canada/edmonton/alberta-ndp-automatic-membership-convention-1.7526027 |access-date=2025-05-22 |author=Michelle Bellefontaine |website=[[CBC News]]}}</ref> This has the effect of there being different minimum membership ages depending on the province, with age ranges from 12 to 14 years old.{{Efn|12 in [[British Columbia]] and [[Yukon]], 13 in [[Ontario]] and [[Saskatchewan]], and 14 in the remaining [[provinces and territories]].}}<ref>{{Cite web |title=Overview Report: Political Parties Rules and Processes (PDF). |url=https://foreigninterferencecommission.ca/fileadmin/foreign_interference_commission/Documents/Exhibits_and_Presentations/Overview_Reports/COM0000591.EN.pdf?}}</ref><ref>{{Cite web |title=Interview Summary: New Democratic Party (Lucy Watson and Jesse Calvert) (PDF). |url=https://foreigninterferencecommission.ca/fileadmin/foreign_interference_commission/Documents/Exhibits_and_Presentations/Exhibits/WIT0000087.pdf?}}</ref> The sole exception is the Alberta NDP, which voted to end its automatic joint membership in 2025, giving provincial members the option to opt out of federal membership.<ref>{{Cite news |last=Bellefontaine |first=Michelle |date=May 3, 2025 |title=Alberta NDP ending automatic membership in federal party |url=https://www.cbc.ca/news/canada/edmonton/alberta-ndp-automatic-membership-convention-1.7526027 |work=[[CBC News]]}}</ref>
+
+There are two territories and one province without a local party: [[Nunavut]], the [[Northwest Territories]], and [[Quebec]]. In Nunavut and in the Northwest Territories, whose territorial legislatures have non-partisan [[consensus government]]s, the federal NDP is promoted by its riding associations, since each territory is composed of only one federal [[Electoral district (Canada)|riding]].<ref>{{cite web |title=Political parties |url=https://www.electionsquebec.qc.ca/en/parties-and-other-political-entities/political-parties/ |access-date=2025-05-22 |website=Elections Quebec |date=July 29, 2021 }}</ref><ref>{{cite web |title=Territorial Government in Canada |url=https://www.thecanadianencyclopedia.ca/en/article/territorial-government |access-date=2025-05-22 |author=Katherine A. Graham, Eli Yarhi |website=[[The Canadian Encyclopedia]]}}</ref>
+
+In Quebec, the [[Parti de la Democratie Socialiste|historical New Democratic Party of Quebec]] was integrated with the federal party from 1963 until 1989, when the two agreed to sever their structural ties after the Quebec party adopted a [[Quebec sovereignty|sovereigntist]] platform. For the next two decades, the federal NDP was represented in Quebec only by their Quebec Section,<ref>{{cite web|url=http://www.npd.qc.ca|title=Nouveau Parti Démocratique &#124; Nouveau Parti Démocratique Section Québec|publisher=Npd.qc.ca|date=March 31, 2010|access-date=April 28, 2010|archive-url=https://web.archive.org/web/20100420100534/http://www.npd.qc.ca/|archive-date=April 20, 2010|url-status=dead}}</ref> whose activities in the province were limited to the federal level. In 2014, the [[New Democratic Party of Quebec (2014)|New Democratic Party of Quebec]] (NDPQ) was re-established as a [[Federalism in Quebec|federalist]] party, unaffiliated with the federal NDP.<ref>{{Cite news |date=January 22, 2018 |title=New leader of provincial NDP aims to give Quebec's 'political orphans' a home |url=https://www.cbc.ca/news/canada/montreal/raphael-fortin-leader-quebec-ndp-1.4497859 |access-date=February 14, 2025 |work=[[CBC News]]}}</ref> The NDPQ dissolved at the end of 2024. The province's democratic socialist party, [[Québec solidaire]], is not affiliated with the NDP and supports Quebec sovereignty.<ref>{{cite web |date=December 28, 2024 |title=Fin des activités du NPDQ |url=https://mailchi.mp/43efba4144e0/un-mot-de-raphal-fortin-chef-npdq-13898311?e=afc510b9ae |url-status=live |language=fr |publisher=New Democratic Party of Quebec |archive-url=https://web.archive.org/web/20250118204111/https://mailchi.mp/43efba4144e0/un-mot-de-raphal-fortin-chef-npdq-13898311?e=afc510b9ae |archive-date=January 18, 2025}}</ref>
+
+The New Democratic Party currently forms government in Manitoba,<ref>{{Cite web |title=Current Party Standings {{!}} Legislative Assembly of BC |url=https://www.leg.bc.ca/members/current-party-standings |access-date=May 1, 2025 |website=www.leg.bc.ca}}</ref><ref>{{Cite web |title=Cabinet Ministers |url=https://www.gov.mb.ca/legislature/members/cabinet_ministers.html |access-date=May 1, 2025 |website=www.gov.mb.ca}}</ref> and has previously formed government in Alberta, British Columbia,<ref>{{cite news |title=Rachel Notley sworn in as Alberta premier, reveals cabinet |agency=[[Canadian Broadcasting Corporation|CBC]] News Edmontondate=May 24, 2015 |url=http://www.cbc.ca/news/canada/edmonton/rachel-notley-sworn-in-as-alberta-premier-reveals-cabinet-1.3085645 |access-date=May 1, 2025 |archive-date=December 31, 2016 |archive-url=https://web.archive.org/web/20161231033213/http://www.cbc.ca/news/canada/edmonton/rachel-notley-sworn-in-as-alberta-premier-reveals-cabinet-1.3085645 |url-status=live }}</ref> Nova Scotia,<ref>{{cite news|url=http://www.cbc.ca/news/canada/nova-scotia/atlantic-canada-s-1st-ndp-government-takes-office-in-nova-scotia-1.789362|title=Atlantic Canada's 1st NDP government takes office in Nova Scotia|publisher=CBC News |access-date=May 1, 2025|date=June 19, 2009}}</ref> Ontario,<ref>{{Cite web|url=http://bilan.usherbrooke.ca/bilan/liste.jsp?titreListe=117|title=Liste des Premiers ministres de l'Ontario|access-date=May 1, 2025|archive-date=November 22, 2018|archive-url=https://web.archive.org/web/20181122173418/http://bilan.usherbrooke.ca/bilan/liste.jsp?titreListe=117|url-status=live}}</ref> Saskatchewan,<ref>{{Cite web|url=https://www.saskarchives.com/sites/default/files/2024-07/2024_Premiers.pdf|title=SASKATCHEWAN PREMIERS|access-date=May 1, 2025|work=Provincial Archives of Saskatchewan}}</ref> and Yukon.<ref>{{Cite web|url=https://www.craigmarlatt.com/canada/provinces&territories/YT_premiers.html|title=Yukon Premiers|access-date=May 1, 2025|work=CraigMarlatt.com}}</ref>
+{|class="wikitable sortable"
+|+Current standing of affiliated of provincial and territorial parties
+!Party
+!Seats / Total
+!Role in legislature
+!Last election
+!Leader
+!Leader since
+|-
+| [[Alberta New Democratic Party]]
+| style="text-align:center;"| {{Composition bar|39|87|hex={{Canadian party colour|CA|NDP}}}}
+| {{no2|Opposition}}
+| style="text-align:center;"| [[2023 Alberta general election|2023]]
+| [[Naheed Nenshi]]{{Efn|Not a member of the federal NDP<ref>{{cite news |last=Thurton |first=David |date=4 February 2026 |title=Nenshi's 'blunt' message to federal NDP: Don't mess this up for Alberta |url=https://www.cbc.ca/news/politics/naheed-nenshi-ndp-leadership-race-9.7072751 |work=[[CBC News]] |access-date=4 April 2026}}</ref>}}
+|[[2024 Alberta New Democratic Party leadership election|June 22, 2024]]
+|-
+| [[British Columbia New Democratic Party]]
+| style="text-align:center;"| {{Composition bar|28|93|hex={{Canadian party colour|CA|NDP}}}}
+| {{no2|Opposition}}
+| style="text-align:center;"| [[2026 British Columbia general election|2026]]
+| [[Jennifer Whiteside]] ''([[Next British Columbia New Democratic Party leadership election|interim]])''
+|October 29, 2026
+|-
+| [[New Democratic Party of Manitoba]]
+| style="text-align:center;"| {{Composition bar|34|57|hex={{Canadian party colour|CA|NDP}}}}
+| {{yes|Majority}}
+| style="text-align:center;"| [[2023 Manitoba general election|2023]]
+| [[Wab Kinew]]
+|[[2017 Manitoba New Democratic Party leadership election|September 16, 2017]]
+|-
+| [[New Brunswick New Democratic Party]]
+| style="text-align:center;"| {{Composition bar|0|49|hex={{Canadian party colour|CA|NDP}}}}
+| {{no|Extra-parliamentary}}
+| style="text-align:center;"| [[2024 New Brunswick general election|2024]]
+| [[Alex White (Canadian politician)|Alex White]]
+|June 28, 2022{{efn|Served as interim leader from June 28, 2022 – August 11, 2023.}}
+|-
+| [[New Democratic Party of Newfoundland and Labrador|New Democratic Party of<br />Newfoundland and Labrador]]
+| style="text-align:center;"| {{Composition bar|2|40|hex={{Canadian party colour|CA|NDP}}}}
+| {{no|Third party}}
+| style="text-align:center;"| [[2025 Newfoundland and Labrador general election|2025]]
+| [[Jim Dinn]]
+|[[2023 New Democratic Party of Newfoundland and Labrador leadership election|October 19, 2021]]{{efn|On October 19, 2021, [[Alison Coffin]] resigned as leader of the [[Newfoundland and Labrador New Democratic Party|NDP]]. The same day, Dinn would become interim leader.<ref name="JimDinnInterim"/> On March 28, 2023, Dinn was officially instated as the permanent leader of the NDP.<ref name="JimDinnPerm"/>}}
+|-
+| [[Nova Scotia New Democratic Party]]
+| style="text-align:center;"| {{Composition bar|9|55|hex={{Canadian party colour|CA|NDP}}}}
+| {{no2|Opposition}}
+| style="text-align:center;"| [[2024 Nova Scotia general election|2024]]
+| [[Claudia Chender]]
+|[[2022 Nova Scotia New Democratic Party leadership election|June 25, 2022]]
+|-
+| [[Ontario New Democratic Party]]
+| style="text-align:center;"| {{Composition bar|27|124|hex={{Canadian party colour|CA|NDP}}}}
+| {{no2|Opposition}}
+| style="text-align:center;"| [[2025 Ontario general election|2025]]
+| [[Marit Stiles]]
+|[[2023 Ontario New Democratic Party leadership election|February 4, 2023]]
+|-
+| [[New Democratic Party of Prince Edward Island]]
+| style="text-align:center;"| {{Composition bar|0|27|hex={{Canadian party colour|CA|NDP}}}}
+| {{no|Extra-parliamentary}}
+| style="text-align:center;"| [[2023 Prince Edward Island general election|2023]]
+| Thomas Burleigh
+|[[2026 New Democratic Party of Prince Edward Island leadership election|February 7, 2026]]
+|-
+| [[Saskatchewan New Democratic Party]]
+| style="text-align:center;"| {{Composition bar|26|61|hex={{Canadian party colour|CA|NDP}}}}
+| {{no2|Opposition}}
+| style="text-align:center;"| [[2024 Saskatchewan general election|2024]]
+| [[Carla Beck]]
+|[[2022 Saskatchewan New Democratic Party leadership election|June 26, 2022]]
+|-
+| [[Yukon New Democratic Party]]
+| style="text-align:center;"| {{Composition bar|6|21|hex={{Canadian party colour|CA|NDP}}}}
+| {{no2|Opposition}}
+| style="text-align:center;"| [[2025 Yukon general election|2025]]
+| [[Kate White (politician)|Kate White]]
+|May 4, 2019
+|}
+
+== Current members of Parliament ==
+{| class="wikitable"
+|+
+!No.
+!Name
+!Riding
+!Province/territory
+!MP since
+!Predecessor
+|-
+|1
+|[[Don Davies]]
+|[[Vancouver Kingsway]]
+|[[British Columbia]]
+|October 14, 2008
+|[[David Emerson]]
+|-
+|2
+|[[Leah Gazan]]
+|[[Winnipeg Centre]]
+|[[Manitoba]]
+|October 21, 2019
+|[[Robert-Falcon Ouellette]]
+|-
+|3
+|[[Gord Johns]]
+|[[Courtenay—Alberni]]
+|British Columbia
+|October 19, 2015
+|''riding created''
+|-
+|4
+|[[Jenny Kwan]]
+|[[Vancouver East (federal electoral district)|Vancouver East]]
+|British Columbia
+|October 19, 2015
+|[[Libby Davies]]
+|-
+|5
+|[[Heather McPherson (politician)|Heather McPherson]]
+|[[Edmonton Strathcona]]
+|[[Alberta]]
+|October 21, 2019
+|[[Linda Duncan]]
+|}
+
+==Federal leadership==
+{{Main|Leader of the New Democratic Party|New Democratic Party leadership elections}}
+
+{{div col|colwidth=30em}}
+* [[Tommy Douglas]] (1961–1971)
+* [[David Lewis (Canadian politician)|David Lewis]] (1971–1975)
+* [[Ed Broadbent]] (1975–1989)
+* [[Audrey McLaughlin]] (1989–1995)
+* [[Alexa McDonough]] (1995–2003)
+* [[Jack Layton]] (2003–2011)
+* [[Nycole Turmel]] (2011–2012; interim)
+* [[Tom Mulcair]] (2012–2017)
+* [[Jagmeet Singh]] (2017–2025)
+* [[Don Davies]] (2025–2026; interim)
+* [[Avi Lewis]] (since 2026)
+{{div col end}}
+
+==Election results==
+===House of Commons===
+{| class=wikitable style="text-align: center;"
+|-
+! Election
+! Leader
+! Votes
+! %
+! Seats
+! +/−
+! Position
+! Status
+|-
+! [[1962 Canadian federal election|1962]]
+| rowspan=4|[[Tommy Douglas]]
+| 1,044,754
+| 13.57
+| {{Composition bar|19|265|hex={{Canadian party colour|CA|NDP}}}}
+| {{increase}} 11
+| {{decrease}} 4th
+| {{no2|Fourth party}}
+|-
+! [[1963 Canadian federal election|1963]]
+| 1,044,701
+| 13.22
+| {{Composition bar|17|265|hex={{Canadian party colour|CA|NDP}}}}
+| {{decrease}} 2
+| {{steady}} 4th
+| {{no2|Fourth party}}
+|-
+! [[1965 Canadian federal election|1965]]
+| 1,381,658
+| 17.91
+| {{Composition bar|21|265|hex={{Canadian party colour|CA|NDP}}}}
+| {{increase}} 4
+| {{increase}} 3rd
+| {{no2|Third party}}
+|-
+! [[1968 Canadian federal election|1968]]
+| 1,378,263
+| 16.96
+| {{Composition bar|22|264|hex={{Canadian party colour|CA|NDP}}}}
+| {{increase}} 1
+| {{steady}} 3rd
+| {{no2|Third party}}
+|-
+! [[1972 Canadian federal election|1972]]
+| rowspan=2|[[David Lewis (Canadian politician)|David Lewis]]
+| 1,725,719
+| 17.83
+| {{Composition bar|31|264|hex={{Canadian party colour|CA|NDP}}}}
+| {{increase}} 9
+| {{steady}} 3rd
+| {{no2|Third party}}
+|-
+! [[1974 Canadian federal election|1974]]
+| 1,467,748
+| 15.44
+| {{Composition bar|16|264|hex={{Canadian party colour|CA|NDP}}}}
+| {{decrease}} 15
+| {{steady}} 3rd
+| {{no2|Third party}}
+|-
+! [[1979 Canadian federal election|1979]]
+| rowspan=4|[[Ed Broadbent]]
+| 2,048,988
+| 17.88
+| {{Composition bar|26|282|hex={{Canadian party colour|CA|NDP}}}}
+| {{increase}} 10
+| {{steady}} 3rd
+| {{no2|Third party}}
+|-
+! [[1980 Canadian federal election|1980]]
+| 2,165,087
+| 19.77
+| {{Composition bar|32|282|hex={{Canadian party colour|CA|NDP}}}}
+| {{increase}} 6
+| {{steady}} 3rd
+| {{no2|Third party}}
+|-
+! [[1984 Canadian federal election|1984]]
+| 2,359,915
+| 18.81
+| {{Composition bar|30|282|hex={{Canadian party colour|CA|NDP}}}}
+| {{decrease}} 2
+| {{steady}} 3rd
+| {{no2|Third party}}
+|-
+! [[1988 Canadian federal election|1988]]
+| 2,685,263
+| 20.38
+| {{Composition bar|43|295|hex={{Canadian party colour|CA|NDP}}}}
+| {{increase}} 13
+| {{steady}} 3rd
+| {{no2|Third party}}
+|-
+! [[1993 Canadian federal election|1993]]
+| [[Audrey McLaughlin]]
+| 939,575
+| 6.88
+| {{Composition bar|9|295|hex={{Canadian party colour|CA|NDP}}}}
+| {{decrease}} 34
+| {{decrease}} 4th
+| {{no|No status}}
+|-
+! [[1997 Canadian federal election|1997]]
+| rowspan=2|[[Alexa McDonough]]
+| 1,434,509
+| 11.05
+| {{Composition bar|21|301|hex={{Canadian party colour|CA|NDP}}}}
+| {{increase}} 12
+| {{steady}} 4th
+| {{no2|Fourth party}}
+|-
+! [[2000 Canadian federal election|2000]]
+| 1,093,748
+| 8.51
+| {{Composition bar|13|301|hex={{Canadian party colour|CA|NDP}}}}
+| {{decrease}} 8
+| {{steady}} 4th
+| {{no2|Fourth party}}
+|-
+! [[2004 Canadian federal election|2004]]
+| rowspan=4|[[Jack Layton]]
+| 2,127,403
+| 15.68
+| {{Composition bar|19|308|hex={{Canadian party colour|CA|NDP}}}}
+| {{increase}} 6
+| {{steady}} 4th
+| {{no2|Fourth party}}
+|-
+! [[2006 Canadian federal election|2006]]
+| 2,589,597
+| 17.48
+| {{Composition bar|29|308|hex={{Canadian party colour|CA|NDP}}}}
+| {{increase}} 10
+| {{steady}} 4th
+| {{no2|Fourth party}}
+|-
+! [[2008 Canadian federal election|2008]]
+| 2,515,288
+| 18.18
+| {{Composition bar|37|308|hex={{Canadian party colour|CA|NDP}}}}
+| {{increase}} 8
+| {{steady}} 4th
+| {{no2|Fourth party}}
+|-
+! [[2011 Canadian federal election|2011]]
+| '''4,508,474'''
+| '''30.63'''
+| '''{{Composition bar|103|308|hex={{Canadian party colour|CA|NDP}}}}'''
+| {{increase}} '''66'''
+| {{increase}} '''2nd'''
+| {{no2|Official Opposition}}
+|-
+! [[2015 Canadian federal election|2015]]
+| [[Tom Mulcair]]
+| 3,441,409
+| 19.71
+| {{Composition bar|44|338|hex={{Canadian party colour|CA|NDP}}}}
+| {{decrease}} 59
+| {{decrease}} 3rd
+| {{no2|Third party}}
+|-
+! [[2019 Canadian federal election|2019]]
+| rowspan=4|[[Jagmeet Singh]]
+| 2,903,722
+| 15.98
+| {{Composition bar|24|338|hex={{Canadian party colour|CA|NDP}}}}
+| {{decrease}} 20
+| {{decrease}} 4th
+| {{no2|Fourth party}}
+|-
+! rowspan=2 | [[2021 Canadian federal election|2021]]
+| rowspan=2 | 3,036,346
+| rowspan=2 | 17.83
+| rowspan=2 | {{Composition bar|25|338|hex={{Canadian party colour|CA|NDP}}}}
+| rowspan=2 | {{increase}} 1
+| rowspan=2 | {{steady}} 4th
+| {{no2|Fourth party {{small|(2021–2022, 2024–2025)}}}}
+|-
+| {{partial2|Confidence and supply {{small|(2022–2024)}}}}
+|-
+! [[2025 Canadian federal election|2025]]
+| rowspan=1 | 1,236,317
+| rowspan=1 | 6.29
+| {{Composition bar|7|343|hex={{Canadian party colour|CA|NDP}}}}
+| {{decrease}} 18
+| {{steady}} 4th
+| {{no|No status}}
+|}
+
+==Logos==
+{| class="wikitable" style="text-align:center"
+|+ Logo history
+|-
+! style="width:100px;"| 1961{{efn|founding convention logo}}
+! style="width:100px;"| 1961
+! style="width:100px;"| 1984
+! style="width:100px;"| 1997<ref>{{cite news |title=Junkets around the world keeps former Rat Packer busy|url=https://www.newspapers.com/clip/122802392/the-leader-post/ |access-date=April 13, 2023 |work=Regina Leader-Post|date=March 29, 1997 |page=12}}</ref>{{efn|name="Bilingual"|Bilingual version of the logo}}
+! style="width:100px;"| 2004{{efn|name="Bilingual"}} 
+! style="width:100px;"| {{nowrap|2012{{efn|name="Bilingual"}}}}
+! style="width:100px;"| {{nowrap|2026{{efn|name="Bilingual"}}}}
+|-
+| [[File:NDP 1961 Logo Text.png{{!}}class=skin-invert|120px]]
+| [[File:NDP logo, 1974-1984.svg{{!}}class=skin-invert|120px]]
+| [[File:NDP logo, 1984-1993.svg{{!}}class=skin-invert|120px]]
+| [[File:NDP NPD 1997.svg|120px]]
+| [[File:NDP-NPD Canada logo 2004-2011.svg|120px]]
+| [[File:NDP-NPD Canada.svg|120px]]
+| [[File:NDPlogo2026.png|180px]]
+|}
+
+==See also==
+{{Portal|Canada|Socialism|Politics}}
+* [[List of federal political parties in Canada]]
+* [[List of CCF/NDP members|List of CCF/NDP MPs]] 
+Progressive think tanks:
+* [[Broadbent Institute]]
+* [[Douglas–Coldwell Foundation]]
+Factions of the NDP:
+* [[Left Caucus]]
+* [[New Democratic Party Socialist Caucus]]
+* [[New Politics Initiative]]
+International:
+
+*[[Category:Democratic socialist parties in North America|Democratic socialist parties in North America]]
+* [[Socialist International]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons category|New Democratic Party}}
+* {{Official website}}
+* [https://wayback.archive-it.org/227/*/http://www.ndp.ca/ New Democratic Party – Canadian Political Parties and Political Interest Groups] – Web Archive created by the University of Toronto Libraries
+* [https://www.bac-lac.gc.ca/eng/CollectionSearch/Pages/record.aspx?app=fonandcol&IdNumber=105674 Co-operative Commonwealth Federation and New Democratic Party fonds] at [[Library and Archives Canada]]
+
+{{NDP}}
+{{Canadian federal political parties}}
+{{navboxes|title=Provincial and territorial wings of the New Democratic Party|list1=
+{{Alberta New Democratic Party}}
+{{British Columbia New Democratic Party}}
+{{Ontario New Democratic Party}}
+}}
+{{Authority control}}
+
+[[Category:New Democratic Party (Canada)| ]]
+[[Category:1961 establishments in Canada]]
+[[Category:Political parties established in 1961]]
+[[Category:Social democratic parties in Canada]]
+[[Category:Non-interventionist parties]]
+[[Category:Centre-left parties in North America]]
+[[Category:Progressive Alliance]]
+[[Category:Socialism in Canada]]
+[[Category:Labour parties in Canada]]
+[[Category:Federal political parties in Canada]]
+[[Category:Progressivism in Canada]]

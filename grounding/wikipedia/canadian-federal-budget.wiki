@@ -1,0 +1,425 @@
+{{Short description|none}}
+{{for|the most recent Canadian budget|2025 Canadian federal budget}}
+{{More references|date=October 2019}}
+{{Original research|date=October 2019}}
+
+The '''Canadian federal budget''' is presented annually by the [[Government of Canada]] to identify planned government spending and expected government revenue, and to forecast economic conditions for the upcoming [[fiscal year]]. Federal budgets are presented in the fall by the [[Minister of Finance (Canada)|minister of finance]]. Before 2025, federal budgets were released in the spring.
+
+== Budget process ==
+The budget is announced in the [[House of Commons of Canada|House of Commons]] by the minister of finance, who traditionally [[new shoes on budget day|wears new shoes while doing so]].<ref name="lop">{{Cite web |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/Parliament/procedure/budgets |title=Finance Ministers Wearing New Shoes on Budget Day |website=Parlinfo |publisher=Library of Parliament |access-date=2019-12-03}}</ref> The budget is then voted on by the House of Commons. Budgets are a [[confidence (politics)|confidence]] measure, and if the House votes against it the government can fall, as happened to [[Prime Minister of Canada|Prime Minister]] [[Joe Clark]]'s government in 1980. The governing party strictly enforces [[party discipline]], usually expelling from the party caucus any government [[Member of Parliament (Canada)|member of Parliament]] (MP) who votes against the budget. Opposition parties almost always vote against the budget. In cases of [[minority government]], the government has normally had to include major concessions to one of the smaller parties to ensure passage of the budget.{{Citation needed|date=March 2026}}
+
+Historically the [[Official Opposition (Canada)|Official Opposition]] used to prepare a complete alternative budget and present it along with the main budget. In recent years, opposition parties are more likely to pick only certain aspects to criticize. The [[Reform Party of Canada|Reform Party]] revived this practice for a time, however. A complete alternative budget is today produced each year by the [[Canadian Centre for Policy Alternatives]], a non-partisan think-tank.{{Citation needed|date=March 2026}}
+
+Traditionally, the budget process was immensely secretive with little consultation. Under Prime Minister [[Louis St. Laurent]], the minister of finance famously would type the entire budget himself so that no secretary could read it. This secrecy was felt to be needed for inside information could enable individuals to profit from upcoming government decisions. The secrecy also had a large political component, as it would help undermine the response by the opposition.{{Citation needed|date=March 2026}}
+
+Under Prime Minister [[Jean Chrétien]] and his Finance Minister [[Paul Martin]], this changed considerably. Most of the budget would be released well before its announcement, especially any major changes so as to get feedback from the populace and the market.{{Citation needed|date=March 2026}}
+
+The process of creating the budget is a complex one which begins within the working ranks for the federal government. Each year, the various departments that make up the government submit what are called 'Main Estimates' to the [[Treasury Board of Canada Secretariat]] (TBS). These documents identify the planned expenditure of each department, linking these proposed expenses to programs, to objectives and ultimately to the priorities of the current ruling government. TBS combines these budget estimates and compiles an initial proposed budget. From there, Cabinet and the Prime Minister's Office adjust the budget based on a series of economic, social and political factors. In reality, decisions are usually made with the primary intent of re-election and so often include advantages for key regions and lobby groups.{{Citation needed|date=March 2026}}
+
+Following the budget, Parliament will pass an appropriation act (called the interim supply) which will allow individual departments to spend 3/12th of their annual budget. This partial authority enables Parliament to spend more time in examining the Estimates documents. In June, Parliament appropriates the full supply.{{Citation needed|date=March 2026}} Under Prime Minister [[Mark Carney]], budgets began being tabled in the fall, with an economic statement in the spring.<ref>{{Cite web |title=The Government’s New Budgeting Approach – PBO’s Initial Assessment |url=https://www.pbo-dpb.ca/en/additional-analyses--analyses-complementaires/BLOG-2526-007--government-new-budgeting-approach-pbo-initial-assessment--nouvelle-approche-budgetaire-gouvernement-premiere-evaluation-directeur-parlementaire-budget |access-date=2026-03-15 |website=www.pbo-dpb.ca}}</ref>
+
+== Summary of budgets ==
+{{Expand section|date=November 2020}}
+{| class="wikitable" style="font-size:90%;"
+|-
+! rowspan="2" scope="col" style="width: 300px;"|Budget<br>''(Unofficial) Subtitle''
+! rowspan="2" scope="col" style="width: 50px;"|Fiscal year
+! rowspan="2"|Tabled on
+! rowspan="2" colspan="2"|Minister <br>of Finance
+! colspan="5"|Initial Budget Implementation Act
+! rowspan="2"|Ministry
+|-
+! scope="col" style="width: 50px;"|Bill
+! Fate
+! Votes for<ref group="note" name="TLR">Votes presented are those of the latest reading in the House of Commons</ref>
+! Vote against<ref group="note" name="TLR" />
+! Paired votes<ref group="note" name="TLR" />
+|-
+| [[1988 Canadian federal budget]]<br>''None''<ref group="note" name="SER">All budgets tabled during the [[33rd Canadian Parliament]] had the subtitle ''Securing Economic Renewal'' on their cover page.</ref>
+| 1988–89
+| 10 February 1988
+| rowspan=4 {{Canadian party colour|CA|Progressive Conservative|background}}|
+| rowspan=4 | [[Michael Wilson (Canadian politician)|Michael Wilson]]<br><small>{{Canadian party colour|CA|Progressive Conservative|name|short}}</small>
+| 
+| 
+| 
+|
+|
+| rowspan=6 |[[24th Canadian Ministry|24]]<br><small>([[Brian Mulroney|Mulroney]])</small>
+|-
+| [[1989 Canadian federal budget]]<br>''None''<ref group="note" name="SER"/>
+| 1989–90
+| 27 April 1989
+| 
+| 
+| 
+|
+| 
+|-
+| [[1990 Canadian federal budget]]<br>''None''<ref group="note" name="SER"/>
+| 1990–91
+| 20 February 1990
+| 
+| 
+| 
+|
+| 
+|-
+| [[1991 Canadian federal budget]]<br>''None''<ref group="note" name="SER"/>
+| 1991–92
+| 26 February 1990
+| 
+| 
+| 
+|
+| 
+|-
+| [[1992 Canadian federal budget]]<br>''None''<ref group="note" name="SER"/>
+| 1992–93
+| 25 February 1992
+| rowspan=2 {{Canadian party colour|CA|Progressive Conservative|background}}|
+| rowspan=2| [[Don Mazankowski]]<br><small>{{Canadian party colour|CA|Progressive Conservative|name|short}}</small>
+| 
+| 
+| 
+|
+| 
+|-
+| [[1993 Canadian federal budget]]<br>''None''<ref group="note" name="SER"/>
+| 1993–94
+| 26 April 1993
+| align="center"|[https://www.parl.ca/LegisInfo/en/bill/35-1/C-9 C-9]
+| {{aye}} Royal Assent (12 May 1994)<ref>[https://parl.canadiana.ca/view/oop.debates_HOC3501_03/541 Debates of the House of Commons – 19 April 1994]</ref>
+| colspan=3 align="center"|Adopted on division
+|-
+| [[1994 Canadian federal budget]]<br>''None''
+| 1994–95
+| 22 February 1994
+| rowspan=8 {{Canadian party colour|CA|Liberal|background}}|
+| rowspan=8|[[Paul Martin]]<br><small>{{Canadian party colour|CA|Liberal|name|short}}</small>
+| align="center"|[https://www.parl.ca/LegisInfo/en/bill/35-1/c-17 C-17]
+| {{aye}} Royal Assent (15 June 1994)<ref>[https://www.ourcommons.ca/DocumentViewer/en/35-1/house/sitting-75/hansard#4680 Debates of the House of Commons – 31 May 1994]</ref>
+| {{Composition bar|137|228|per=1|green}}
+| {{Composition bar|91|228|per=1|red}}
+| align=center|16
+| rowspan=9|[[26th Canadian Ministry|26]] <small>([[Jean Chrétien|Chrétien]])</small>
+|-
+| [[1995 Canadian federal budget]]<br>''None''
+| 1995–96
+| 27 February 1995
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=2328382 C-76]
+| {{aye}} Royal Assent (22 June 1995)<ref>[https://www.ourcommons.ca/DocumentViewer/en/35-1/house/sitting-212/hansard#13349 Debates of the House of Commons – 6 June 1995]</ref>
+| {{Composition bar|141|226|per=1|green}}
+| {{Composition bar|85|226|per=1|red}}
+| align=center|28
+|-
+| [[1996 Canadian federal budget]]<br>''Securing the Future''
+| 1996–97
+| 6 March 1996
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=F&billId=2329469 C-31]
+| {{aye}} Royal Assent (22 June 1995)<ref>[https://www.ourcommons.ca/DocumentViewer/en/35-2/house/sitting-50/journals Debates of the House of Commons – 27 May 1996]</ref>
+| {{Composition bar|115|169|per=1|green}}
+| {{Composition bar|54|169|per=1|red}}
+| align=center|60
+|-
+| [[1997 Canadian federal budget]]<br>''Building the Future for Canadians''
+| 1997–98
+| 18 February 1997
+| align="center"|[https://parl.ca/DocumentViewer/en/35-2/bill/C-93/royal-assent C-93]
+| {{aye}} Royal Assent (27 April 1997)<ref>[https://www.ourcommons.ca/DocumentViewer/en/35-2/house/sitting-161/journals Debates of the House of Commons – 22 April 1997]</ref>
+| {{Composition bar|109|160|per=1|green}}
+| {{Composition bar|51|160|per=1|red}}
+| align=center|30
+|-
+| [[1998 Canadian federal budget]]<br>''A Strong Economy and a Secure Society''
+| 1998–99
+| 24 February 1998
+| align="center"|[https://parl.ca/DocumentViewer/en/36-1/bill/C-36/royal-assent C-36]
+| {{aye}} Royal Assent (18 June 1998)<ref>[https://www.ourcommons.ca/DocumentViewer/en/36-1/house/sitting-110/hansard#LINK189 Debates of the House of Commons – 27 May 1998]</ref>
+| {{Composition bar|142|237|per=1|green}}
+| {{Composition bar|95|237|per=1|red}}
+| align=center|12
+|-
+| [[1999 Canadian federal budget]]<br>''Building today for a better tomorrow''
+| 1999–00
+| 16 February 1999
+| align="center"|[https://www.parl.ca/DocumentViewer/en/36-1/bill/C-71/royal-assent C-71]
+| {{aye}} Royal Assent (17 June 1999)<ref>[https://www.ourcommons.ca/DocumentViewer/en/36-1/house/sitting-225/hansard#LINK224 Debates of the House of Commons – 10 May 1999]</ref>
+| {{Composition bar|142|219|per=1|green}}
+| {{Composition bar|77|219|per=1|red}}
+| align=center|20
+|-
+| [[2000 Canadian federal budget]]<br>''Better finances, better lives''
+| 2000–01
+| 28 February 2000
+| align="center"|[https://www.parl.ca/DocumentViewer/en/36-2/bill/C-32/royal-assent C-32]
+| {{aye}} Royal Assent (6 June 2000)<ref>[https://www.ourcommons.ca/DocumentViewer/en/36-2/house/sitting-108/hansard#LINK246 Debates of the House of Commons – 6 June 2000]</ref>
+| {{Composition bar|137|233|per=1|green}}
+| {{Composition bar|96|233|per=1|red}}
+| align=center|4
+|-
+| [[2001 Canadian federal budget]]<br>''Securing progress in an uncertain world''
+| 2002–03
+| 10 December 2001
+| align="center"|[https://www.parl.ca/LegisInfo/en/bill/37-1/c-49 C-49]
+| {{aye}} Royal Assent (27 March 2002)
+| {{Composition bar|127|193|per=1|green}}
+| {{Composition bar|66|193|per=1|red}}
+| align=center|–
+|-
+| [[2003 Canadian federal budget]]<br> ''Building the Canada We Want''
+| 2003–04
+| 18 February 2003
+| {{Canadian party colour|CA|Liberal|background}}|
+| [[John Manley]]<br><small>{{Canadian party colour|CA|Liberal|name|short}}</small>
+| align="center"|[https://www.parl.ca/DocumentViewer/en/37-2/bill/C-28/royal-assent C-28]
+| {{aye}} Royal Assent (19 June 2003)
+| {{Composition bar|147|244|per=1|green}}
+| {{Composition bar|97|244|per=1|red}}
+| align=center|18
+|-
+| [[2004 Canadian federal budget]]<br> ''New Agenda for Achievement''
+| 2004–05
+| 23 March 2004
+| rowspan=2 {{Canadian party colour|CA|Liberal|background}}|
+| rowspan=2|[[Ralph Goodale]]<br><small>{{Canadian party colour|CA|Liberal|name|short}}</small>
+| align="center"|[https://www.parl.ca/DocumentViewer/en/37-3/bill/C-30/royal-assent C-30]
+| {{aye}} Royal Assent (14 June 2004)
+| {{Composition bar|124|208|per=1|green}}
+| {{Composition bar|84|208|per=1|red}}
+| align=center|8
+| rowspan=2|[[27th Canadian Ministry|27]]<br><small>([[Paul Martin|Martin]])</small>
+|-
+| [[2005 Canadian federal budget]]<br> ''Delivering on Commitments''
+| 2005–06
+| 23 February 2005
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=1694033 C-43]
+| {{aye}} Royal Assent (29 June 2005)
+| {{Composition bar|242|296|per=1|green}}
+| {{Composition bar|54|296|per=1|red}}
+| align=center|–
+|-
+| [[2006 Canadian federal budget]]<br>''Focusing on Priorities''
+| 2006–07
+| 2 May 2006
+| rowspan=10 {{Canadian party colour|CA|Conservative|background}}|
+| rowspan=10|[[Jim Flaherty]]<br><small>{{Canadian party colour|CA|Conservative|name|short}}</small>
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=2184887 C-4]
+| {{aye}} Royal Assent (22 June 2006)
+| colspan="3" {{n/a|Bill adopted without dissent}}
+| rowspan="11"|[[28th Canadian Ministry|28]]<br><small>([[Stephen Harper|Harper]])</small>
+|-
+| [[2007 Canadian federal budget]]<br>''Aspire to a Stronger, Safer, Better Canada''
+| 2007–08
+| 19 March 2007
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=2801101 C-52]
+| {{aye}} Royal Assent (22 June 2007)
+| {{Composition bar|156|257|per=1|green}}
+| {{Composition bar|101|257|per=1|red}}
+| align=center|10
+|-
+| [[2008 Canadian federal budget]]<br> ''Responsible Leadership''
+| 2008–09
+| 26 February 2008
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=3354384 C-50]
+| {{aye}} Royal Assent (18 June 2008)
+| {{Composition bar|120|210|per=1|green}}
+| {{Composition bar|90|210|per=1|red}}
+| align=center|12
+|-
+| [[2009 Canadian federal budget]]<br> ''Canada's Economic Action Plan''
+| 2009–10
+| 7 January 2009
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=3636372 C-10]
+| {{aye}} Royal Assent (12 March 2009)
+| {{Composition bar|204|282|per=1|green}}
+| {{Composition bar|78|282|per=1|red}}
+| align=center|12
+|-
+| [[2010 Canadian federal budget]]<br> ''Leading the Way on Jobs and Growth''
+| 2010–11
+| 4 March 2010
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=4371983 C-12]
+| {{aye}} Royal Assent (12 July 2010)
+| {{Composition bar|138|264|per=1|green}}
+| {{Composition bar|126|264|per=1|red}}
+| align=center|6
+|-
+| rowspan="2"|[[2011 Canadian federal budget]]<br>''A Low-Tax Plan for Jobs and Growth''
+| rowspan="2"|2011–12
+| 22 March 2011
+| {{n/a}}
+| {{nay}} Never adopted
+| colspan="3" {{n/a|40th Parliament dissolved before vote}}
+|-
+| 6 June 2011
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=5085532 C-3]
+| {{aye}} Royal Assent (26 June 2011)
+| {{Composition bar|158|291|per=1|green}}
+| {{Composition bar|133|291|per=1|red}}
+| align=center|–
+|-
+| [[2012 Canadian federal budget]]<br>''Jobs, Growth and Long-Term Prosperity''
+| 2012–13
+| 29 March 2012
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=5514128 C-19]
+| {{aye}} Royal Assent (29 June 2012)
+| {{Composition bar|158|293|per=1|green}}
+| {{Composition bar|135|293|per=1|red}}
+| align=center|–
+|-
+| [[2013 Canadian federal budget]]<br>''Jobs, Growth and Long-Term Prosperity''
+| 2013–14
+| 21 March 2013
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=6108103 C-33]
+| {{aye}} Royal Assent (26 June 2013)
+| {{Composition bar|153|272|per=1|green}}
+| {{Composition bar|119|272|per=1|red}}
+| align=center|–
+|-
+| [[2014 Canadian federal budget]]<br>''The Road to Balance''
+| 2014–15
+| 11 February 2014
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=6483626 C-31]
+| {{aye}} Royal Assent (19 June 2014)
+| {{Composition bar|148|242|per=1|green}}
+| {{Composition bar|94|242|per=1|red}}
+| align=center|–
+|-
+| [[2015 Canadian federal budget]]<br>''Strong Leadership''
+| 2015–16
+| 21 April 2015
+| {{Canadian party colour|CA|Conservative|background}}|
+| [[Joe Oliver (politician)|Joe Oliver]]<br><small>{{Canadian party colour|CA|Conservative|name|short}}</small>
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=8196581 C-15]
+| {{aye}} Royal Assent (23 June 2015)
+| {{Composition bar|150|266|per=1|green}}
+| {{Composition bar|116|266|per=1|red}}
+| align=center|–
+|-
+| [[2016 Canadian federal budget]]<br>''Growing the Middle Class''
+| 2016–17
+| 22 March 2016
+| rowspan=4 {{Canadian party colour|CA|Liberal|background}}|
+| rowspan=4|[[Bill Morneau]]<br><small>{{Canadian party colour|CA|Liberal|name|short}}</small>
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=8196581 C-15]
+| {{aye}} Royal Assent (22 June 2016)
+| {{Composition bar|171|300|per=1|green}}
+| {{Composition bar|129|300|per=1|red}}
+| align=center|–
+| rowspan="9" |[[29th Canadian Ministry|29]]<br><small>([[Justin Trudeau|J. Trudeau]])</small>
+|-
+| [[2017 Canadian federal budget]]<br>''Building a Strong Middle Class''
+| 2017–18
+| 22 March 2017
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=8874160 C-44]
+| {{aye}} Royal Assent (22 June 2017)
+| {{Composition bar|162|289|per=1|green}}
+| {{Composition bar|127|289|per=1|red}}
+| align=center|–
+|-
+| [[2018 Canadian federal budget]]<br>''Equality + Growth''
+| 2018–19
+| 27 February 2018
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=9727472 C-74]
+| {{aye}} Royal Assent (21 June 2018)
+| {{Composition bar|159|280|per=1|green}}
+| {{Composition bar|121|280|per=1|red}}
+| align=center|–
+|-
+| [[2019 Canadian federal budget]]<br>''Investing in the Middle Class''
+| 2019–20
+| 19 March 2019
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=10404016 C-97]
+| {{aye}} Royal Assent (21 June 2019)
+| {{Composition bar|157|252|per=1|green}}
+| {{Composition bar|97|252|per=1|red}}
+| align=center|2
+|-
+| <s>2020 Canadian federal budget</s>
+| 2020–21
+| colspan=4 {{n/a}}
+| {{nay}} Never presented 
+| colspan="3" {{n/a|Postponed and combined into the following year's budget<br> due to the [[COVID-19 pandemic in Canada|COVID-19 pandemic]]}}
+|-
+| [[2021 Canadian federal budget]]<br>''A Recovery Plan for Jobs, Growth, and Resilience''
+| 2021–22
+| 19 April 2021
+| rowspan=4 {{Canadian party colour|CA|Liberal|background}}|
+| rowspan=4|[[Chrystia Freeland]]<br><small>{{Canadian party colour|CA|Liberal|name|short}}</small> 
+| align="center"|[https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=E&billId=11283337 C-30]
+| {{aye}} Royal Assent (29 June 2021)
+| {{Composition bar|211|332|per=1|green}}
+| {{Composition bar|121|332|per=1|red}}
+| align=center|–
+|-
+| [[2022 Canadian federal budget]]<br>''A Plan to Grow Our Economy and Make Life More Affordable''
+| 2022–23
+| 7 April 2022
+| align="center"|[https://www.parl.ca/LegisInfo/en/bill/44-1/c-19 C-19]
+| {{aye}} Royal Assent (23 June 2022)
+| {{Composition bar|202|317|per=1|green}}
+| {{Composition bar|115|317|per=1|red}}
+| align=center|12
+|-
+| [[2023 Canadian federal budget]]<br>''A Made-in-Canada Plan: Strong Middle Class, Affordable Economy, Healthy Future''
+| 2023–24
+| 28 March 2023
+| align="center"|[https://www.parl.ca/LegisInfo/en/bill/44-1/c-47 C-47]
+| {{aye}} Royal Assent (22 June 2023)
+| {{Composition bar|177|323|per=1|green}}
+| {{Composition bar|146|323|per=1|red}}
+| align=center|2
+|-
+| [[2024 Canadian federal budget]]<br>''Fairness for every generation''
+| 2024–25
+| 16 April 2024
+| align="center"|[https://www.parl.ca/legisinfo/en/bill/44-1/c-69 C-69]
+| {{aye}} Royal Assent (20 June 2024)
+| {{Composition bar|173|323|per=1|green}}
+| {{Composition bar|150|323|per=1|red}}
+| align=center|2
+|-
+| [[2025 Canadian federal budget]]
+''Canada Strong''
+| 2025–26
+| 4 November 2025
+| rowspan=2 {{Canadian party colour|CA|Liberal|background}}|
+| rowspan=2| [[François-Philippe Champagne]]<br><small>{{Canadian party colour|CA|Liberal|name|short}}</small>
+| align="center"|[https://www.parl.ca/LegisInfo/en/bill/45-1/c-15 C-15]
+| {{aye}} Royal Assent (17 November 2025)
+| {{Composition bar|170|343|per=1|green}}
+| {{Composition bar|168|343|per=1|red}}
+| align=center|0
+|rowspan=2|[[30th Canadian Ministry|30]]<br><small>([[Mark Carney|Carney]])</small>
+|-
+| [[2026 Canadian federal budget]]
+''Masters of Our Destiny''
+| 2026–27
+| 5 November 2026
+|
+|
+|
+|
+|
+|}
+
+==See also==
+* [[Taxation in Canada]]
+* [[Canadian public debt]]
+
+'''International:'''
+* [[Government budget by country]]
+
+==Notes and references==
+===Notes===
+{{reflist|group=note}}
+
+===References===
+{{reflist|33em}}
+
+{{Canada federal budget}}
+{{National government budgets}}
+
+[[Category:Canadian federal budgets| ]]
+[[Category:Department of Finance Canada|Budget]]

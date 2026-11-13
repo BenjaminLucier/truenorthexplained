@@ -1,0 +1,789 @@
+{{Redirect|Inuk|the film|Inuk (film){{!}}''Inuk'' (film)|the Indigenous people of Labrador and Quebec|Innu|other uses|Inuit (disambiguation)}}
+{{Use dmy dates|date=August 2026}}
+{{Infobox ethnic group
+| group            = Inuit
+| image            = Distribution_of_Inuit_in_Canada_(2021).svg
+| image_caption    = <div style="text-align: left">Percentage of population identifying as Inuit by Canadian census division, 2021 census
+{{Infobox/Columns|{{legend|#FFF7FB|0%}}{{legend|#ECE7F2|0.1–0.2%}}{{legend|#D0D1E6|0.3–0.4%}}{{legend|#A6BDDB|0.5–1%}}|{{legend|#74A9CF|1–2%}}{{legend|#3690C0|3–4%}}{{legend|#045A8D|10–30%}}{{legend|#023858|50%+}}}}</div>
+| population       = 155,066<ref name="canada2021"/><ref name="geinu"/><ref name="dkinu"/><ref name="usinu"/>
+| region1          = Canada
+| pop1             = 70,540 (2021)
+| ref1             = <ref name="canada2021"/>
+| region2          = Greenland
+| pop2             = 50,878 (2024 estimate)
+| ref2             = <ref name="geinu"/>
+| region3          = Denmark
+| pop3             = 17,067 (2023)
+| ref3             = <ref name="dkinu"/>
+| region4          = United States
+| pop4             = 16,581 (2010)
+| ref4             = <ref name="usinu"/>
+| languages        = {{Plainlist|
+* [[Inuit languages]] and [[Inuit Sign Language]]
+* Non-native European languages:
+* [[English language|English]]
+* [[Danish language|Danish]]
+* [[French language|French]]
+}}
+| religions        = {{hlist | [[Christianity]] | [[Inuit religion]]}}
+| related_groups   = {{hlist | [[Aleut]] | [[Yupik peoples|Yupik]] | [[Indigenous people of the Americas]] | [[Indigenous people of Siberia]]}}
+| native_name      =
+| native_name_lang =  
+}}
+{{Infobox ethnonym|root=Inu- ᐃᓄ- / nuna ᓄᓇ<br /><small>"person" / "land"</small>|person= Inuk ᐃᓄᒃ<br /><small>[[Dual (grammatical number)|Dual]]:</small> Inuuk ᐃᓅᒃ|people=Inuit ᐃᓄᐃᑦ|language= [[Inuit languages]]|country= * [[Inuit Nunangat|Inuit Nunangat&nbsp;/&nbsp;ᐃᓄᐃᑦ ᓄᓇᖓᑦ]]<br />([[Inuvialuit Settlement Region|Inuvialuit Nunangit]], [[Nunavut]], [[Nunavik]], [[Nunatsiavut]])
+* Iñupiat Nunaŋat
+* [[Greenland|Kalaallit Nunaat]]}}
+
+'''Inuit'''{{efn|Pronounced {{IPAc-en|ˈ|ɪ|nj|u|ᵻ|t}} {{respell|IN|ew|it}};<ref>{{Cite Merriam-Webster|Inuit|access-date=24 March 2024}}</ref> {{langx|iu|ᐃᓄᐃᑦ}} {{gloss|the people}}, singular: '''Inuk''', {{lang|iu|ᐃᓄᒃ}}, [[Dual (grammatical number)|dual]]: '''Inuuk''', {{lang|iu|ᐃᓅᒃ}}; [[Iñupiaq language|Iñupiaq]]: '''Iñuit''' {{gloss|the people}}; [[Greenlandic language|Greenlandic]]: '''Inuit''')<ref name="naming">{{cite web |title=Inuit, Inuk (Linguistic recommendation from the Translation Bureau) |url=https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inuk-inuit |publisher=[[Translation Bureau]], [[Public Services and Procurement Canada]] |date=25 November 2024 |website=www.noslangues-ourlanguages.gc.ca |access-date=19 January 2026}}</ref><ref name=":1">{{cite web |title=Indigenous peoples of the Arctic |url=https://www.institut-polaire.fr/ipev-en/polar-information/in-arctic/peoples-of-the-arctic-2/indigenous-peoples-of-the-arctic/ |archive-url=https://web.archive.org/web/20201030024037/https://www.institut-polaire.fr/ipev-en/polar-information/in-arctic/peoples-of-the-arctic-2/indigenous-peoples-of-the-arctic/ |archive-date=30 October 2020 |access-date=26 August 2020 |website=Institut polaire français Paul-Emile Victor}}</ref>{{sfnp|Alia|2009|page=151}}}} (singular: '''Inuk''') are a group of culturally and historically similar [[Indigenous peoples of the Americas|Indigenous peoples]] traditionally inhabiting the [[Arctic]] and [[Subarctic]] regions of North America and Russia, including [[Greenland]], [[Labrador]], [[Quebec]], [[Nunavut]], the [[Northwest Territories]], [[Yukon]] (traditionally),{{efn|name=fn1}} and [[Alaska]]. The [[Inuit languages]] are part of the [[Eskaleut languages]], also known as Inuit-Yupik-Unangan and as Eskimo–Aleut.<ref>{{cite web |title=Overview of Comparative Inuit-Yupik-Unangan |url=https://www.uaf.edu/anla/collections/cea/about/ |access-date=13 May 2021 |website=Alaska Native Language Archive |publisher=University of Alaska, Fairbanks}}</ref>
+
+Many individuals who would have historically been referred to as ''[[Eskimo]]'', a controversial umbrella term that refers to groups of related Indigenous peoples, find that term offensive or forced upon them in a colonial way; ''Inuit'' is now a common [[Endonym and exonym|autonym]] for a large sub-group of these people.<ref name="NPR" /><ref name="kaplannew">{{cite web |last=Kaplan |first=Lawrence |title=Inuit or Eskimo: Which name to use? |url=https://www.uaf.edu/anlc/research-and-resources/resources/archives/inuit_or_eskimo.php |access-date=1 April 2021 |publisher=[[Alaska Native Language Center]], [[University of Alaska Fairbanks]]}}</ref><ref name="global">{{cite news |first=Chris |last=Purdy |title=Expert says 'meat-eater' name Eskimo an offensive term placed on Inuit |work=[[Global News]] |date=27 November 2015 |agency=[[The Canadian Press]] |url=https://globalnews.ca/news/2366689/expert-says-meat-eater-name-eskimo-an-offensive-term-placed-on-inuit/}}</ref><ref name="mailhot">{{cite journal |last=Mailhot |first=José |title =L'etymologie de "esquimau" revue et corrigée |journal=Études/Inuit/Studies |volume=2 |issue=2 |pages=59–70 |year=1978 |jstor=42869777}}</ref> The word ''Inuit'' (varying forms Iñupiat, [[Inuvialuit]], [[Inughuit]], etc.), however, is an ancient self-referential to a group of peoples which includes at most the Iñupiat of Bering Strait coast of Chukotka and northern Alaska, the four broad groups of Inuit in Canada, and the Greenlandic Inuit. This usage has long been employed to the exclusion of other, related groups (e.g. [[Yupik peoples|Yupik]], [[Aleut]]).<ref name="ethno">{{cite encyclopedia |title=Eskimo-Aleut |encyclopedia=[[Ethnologue]]: Languages of the World |editor-last1=Eberhard |editor-first1=David M. |editor-first2=Gary F. |editor-last2=Simons |editor-first3=Charles D. |editor-last3=Fennig |date=2021 |publisher=SIL International |edition=24th |url=https://www.ethnologue.com/subgroups/eskimo-aleut|archive-url=https://web.archive.org/web/20200612134531/https://www.ethnologue.com/subgroups/eskimo-aleut|archive-date=12 June 2020}}</ref><ref>{{cite web |url=https://www.alaskan-natives.com/2166/eskimo-inuit-inupiaq-terms-thing/ |title=Eskimo, Inuit, and Inupiaq: Do these terms mean the same thing? |website=Alaskan-Natives.com}}</ref><ref>{{cite web |url=https://mappingignorance.org/2016/01/18/3250/ |first=Adrià |last=Rofes |date=18 January 2016 |title=When 'Eskimo' and 'Inuit' are not the same thing: looking inside words |work= Mapping Ignorance}}</ref><ref name="igoddard">{{cite book |first1=James W. |last1=VanStone |author-link1=James W. VanStone |last2=Goddard |first2=Ives |author-link2=Ives Goddard |title=Territorial Groups of West-Central Alaska Before 1898 |pages=556–561}} in {{harvp|Sturtevant|1984}}</ref> Therefore, the Aleut (Unangan) and Yupik peoples ([[Alutiiq]]/Sugpiaq, [[Yup'ik|Central Yup'ik]], [[Siberian Yupik]]), who live in Alaska and Siberia, at least at an individual and local level, generally do not self-identify as Inuit.<ref name="ethno" />{{Better source needed|reason=The current source is insufficiently reliable ([[WP:NOTRS]]).|date=May 2022}}
+
+==History==
+
+===Pre-contact history===
+{{For|earlier pre-contact history|Indigenous peoples in Canada#Paleo-Indian period}}
+[[File:Dorset, Norse, and Thule cultures 900-1500 (vertical)-01.svg|thumb|Dorset, Norse, and Thule cultures 900–1500]]
+Inuit are the descendants of what [[anthropology|anthropologists]] call the [[Thule people]],<ref name="TriggerWashburn1996">{{cite book|first1=Bruce G. |last1=Trigger |first2=Wilcomb E. |last2=Washburn |title=The Cambridge History of the Native Peoples of the Americas |url=https://books.google.com/books?id=DRGVjLiyXEwC&pg=PA192 |year=1996 |publisher=Cambridge University Press |isbn=978-0-521-57392-4 |page=192}}</ref> who emerged from the [[Bering Strait]] and western [[Alaska]] around 1000 CE. They had split from the related [[Aleut]] group about 4000 years previously and from northeastern Siberian migrants. They spread eastward across the Arctic.<ref name="DeanMatthews1998">{{cite book |first1=William G. |last1=Dean |first2=Geoffrey J. |last2=Matthewso |title=Concise Historical Atlas of Canada |url=https://books.google.com/books?id=Dw39BoD0-6cC&pg=PA2 |year=1998 |publisher=University of Toronto Press |isbn=978-0-8020-4203-3 |page=2}}</ref> They displaced the related [[Dorset culture]], called the {{Lang|iu|Tuniit}} in [[Inuktitut]], which was the last major [[Paleo-Eskimo]] culture.<ref name="ColeGentilcore1987">{{cite book |last1=Harris |first1=R. Cole |first2=R. Louis |last2=Gentilcore |first3=Geoffrey J. |last3=Matthews |first4=Donald P. |last4=Kerr |title=Historical Atlas of Canada |url=https://books.google.com/books?id=itsTLSnw8qgC&pg=PA28 |year=1987 |publisher=University of Toronto Press |isbn=978-0-8020-2495-4 |pages=28–29}}</ref>
+
+Inuit legends speak of the {{Lang|iu|Tuniit}} as "giants", people who were taller and stronger than Inuit.<ref>{{cite web |first=Bruce |last=Rigley |title=Qaummaarviit Historic Park |work=Nunavut Handbook |page=324 |url=http://www.nunavuthandbook.com/parks_pgs_297_331.pdf |archive-url=https://web.archive.org/web/20060529123547/http://www.nunavuthandbook.com/parks_pgs_297_331.pdf |archive-date=29 May 2006}}</ref> Less frequently, the legends refer to the Dorset as "dwarfs".<ref>{{cite thesis |first=Shannon Raye |last=Wood |date=1984 |title=Tooth wear and the sexual division of labor in an Inuit population |publisher=University of Saskatchewan |url=http://ir.lib.sfu.ca/bitstream/1892/5348/1/b14258730.pdf |archive-url=https://web.archive.org/web/20110514020806/http://ir.lib.sfu.ca/bitstream/1892/5348/1/b14258730.pdf |archive-date=14 May 2011}}</ref> Researchers believe that Inuit society had advantages by having adapted to using dogs as transport animals, and developing larger weapons and other technologies superior to those of the Dorset culture.<ref name="Diamond2006">{{cite book |first=Jared M. |last=Diamond |title=Collapse: How Societies Choose to Fail Or Succeed |year=2006 |publisher=Penguin (University of California) |isbn=978-0-14-303655-5 |page=256 |url=https://archive.org/details/collapse00jare/page/256 |url-access=registration}}</ref> By 1100 CE, Inuit migrants had reached west Greenland, where they settled.<ref name=":0" /> During the 12th century, they also settled in East Greenland.<ref>{{cite book| first=John F. |last=Hoffecker |title=A Prehistory of the North: Human Settlement of the Higher Latitudes |url=https://books.google.com/books?id=UEckqQU41KcC&pg=PA3 |year=2005 |publisher=Rutgers University Press |isbn=978-0-8135-3469-5 |page=3}}</ref><ref>{{cite book |last1=Sandell |first1=Hanne Tuborg |last2=Sandell |first2=Birger |date=1991 |title=Archaeology and Environment in the Scoresby Sund Fjord |url=https://books.google.com/books?id=4DaHyIC3DeEC&pg=PA24 |series=Meddelelser om Grønland Man & Society |publisher=Museum Tusculanum Press |volume=15 |page=23 |access-date=18 March 2019 |isbn=978-87-635-1208-4}}</ref>
+
+Faced with population pressures from the Thule and other surrounding groups, such as the [[Algonquian peoples|Algonquian]] and [[Siouan languages|Siouan]]-speaking peoples to the south, the {{Lang|iu|Tuniit}} gradually receded.<ref>{{cite journal |title=The Dorset: An Enigma = Le Dorset: une énigme |last=Palmer |first=Jay W. |journal=North American Archaeologist |date=January 1999 |volume=19 |issue=3 |pages=201–222 |doi=10.2190/HLB1-LAU5-RDC5-WUU0|s2cid=162328800  |issn=0197-6931}}</ref> The {{Lang|iu|Tuniit}} were thought to have become completely extinct as a people by about 1400 or 1500. But in the mid-1950s, researcher Henry B. Collins determined that based on the ruins found at [[Native Point]], on [[Southampton Island]], the [[Sadlermiut]] were likely the last remnants of the Dorset culture, or {{Lang|iu|Tuniit}}.<ref>{{cite magazine |magazine=[[National Geographic]] |title=Vanished Mystery Men of Hudson Bay |first=Henry B. |last=Collins |volume=CX |issue=5 |year=1956 |page=674 |url=https://books.google.com/books?id=X_2UYgEACAAJ&pg=PA674}}</ref> The Sadlermiut population survived up until winter 1902–1903 when exposure to new [[infectious disease]]s brought by contact with Europeans led to their extinction as a people.<ref>{{cite web |publisher=[[Library and Archives Canada]] |title=Aboriginal 7 – Life in Canada |url=http://www.collectionscanada.gc.ca/art/050602/0506020222_e.html |archive-url=https://web.archive.org/web/20120415180541/http://www.collectionscanada.gc.ca/webarchives/20060131084654/http://www.lac-bac.gc.ca/art/050602/0506020222_e.html |archive-date=15 April 2012 |access-date=12 March 2008}}</ref>
+
+In the early 21st century, [[human mitochondrial DNA haplogroup|mitochondrial DNA]] research has supported the theory of continuity between the {{Lang|iu|Tuniit}} and the Sadlermiut peoples.<ref>{{cite web |url=http://sci.tech-archive.net/Archive/sci.anthropology/2004-07/1342.html |first=Floyd L. |last=Davidson |date=26 April 2004 |access-date=13 October 2008 |title=Re: Barrow Boy gibberish... |archive-date=23 January 2016 |archive-url=https://web.archive.org/web/20160123040416/http://sci.tech-archive.net/Archive/sci.anthropology/2004-07/1342.html}}</ref><ref>{{cite web |url=http://www.mnh.si.edu/arctic/html/pdf/news02.pdf |title=Arctic Studies Center Newsletter |access-date=13 October 2008 |date=June 2002 |publisher=[[Smithsonian Institution]] |work=[[National Museum of Natural History]] |archive-date=25 December 2015 |archive-url=https://web.archive.org/web/20151225080434/https://www.mnh.si.edu/arctic/html/pdf/news02.pdf}}</ref> It also provided evidence that a population displacement did not occur within the [[Aleutian Islands]] between the Dorset and Thule transition.<ref>{{cite web|url=http://www.physanth.org/annmeet/aapa2001/ajpasuppl32.pdf |title=Ancestor descendant relationships in North American Arctic prehistory: Ancient DNA evidence from the Aleutian Islands and the Eastern Canadian Arctic. |access-date=13 October 2008 |first=M.G. |last=Hayes |year=2001  |archive-url=https://web.archive.org/web/20080514033111/http://www.physanth.org/annmeet/aapa2001/ajpasuppl32.pdf |archive-date=14 May 2008}}</ref> However a subsequent 2012 genetic analysis showed no genetic link between the Sadlermiut and the Dorset or {{Lang|iu|Tuniit}} people.<ref>{{cite journal |first=Robert W. |last=Park |url=https://www.science.org/doi/full/10.1126/science.1258607 |title=Stories of Arctic colonization | journal=[[Science (journal)|Science]] |volume=345 |issue=6200 |pages=1004–1005 |doi=10.1126/science.1258607 |date=29 August 2014 |access-date=8 August 2015 |pmid=25170138 |bibcode=2014Sci...345.1004P |s2cid=206560802|url-access=subscription }}</ref> In contrast to other {{Lang|iu|Tuniit}} populations, the Aleut and Sadlermiut benefited from both geographical isolation and their ability to adopt certain Thule technologies.{{citation needed|date=December 2020}}
+
+In Canada and Greenland, Inuit circulated almost exclusively north of the [[Tree line#Arctic|Arctic tree line]], with the exception of Inuit in [[Labrador]] where there are large swaths of coastal barrens. In Labrador there are two Inuit groups, one accepted by [[Inuit Tapiriit Kanatami]], [[Nunatsiavut]] and one independent, [[NunatuKavut]]. The most southern Inuit community in Nunatsiavut is [[Rigolet]]<ref>{{cite web |publisher=Rigolet Inuit Community Government |title=Welcome to Rigolet| url=http://www.townofrigolet.com/home/ |date=2017}}</ref> while the most southern community within the traditional Inuit territory of NunatuKavut and in the world is L'anse au Clair, Labrador.<ref>{{cite journal |last1=Auger |first1=Réginald |title=Late-18th and Early-19th-Century Inuit and Europeans in Southern Labrador |journal=Arctic |date=1993 |volume=46 |doi=10.14430/arctic1318 |url=https://journalhosting.ucalgary.ca/index.php/arctic/article/view/64373/48308/ |access-date=29 April 2024}}</ref>
+
+In other areas south of the tree line, non-Inuit indigenous cultures were well-established. As a result of being challenged by groups south of the tree line, including the [[Chukchi people|Chukchi]] and [[Siberian Yupik]] for Russian Iñupiat, the [[Alaskan Athabaskans|Arctic Athabascans]] and [[Gwichʼin]] for Alaskan Iñupiat and Inuvialuit, the [[Cree]] for Nunavummiut (Nunavut Inuit) and Nunavimmiut (Northern Quebec Inuit), and the [[Innu]] for Nunatsiavummiut (Labrador Inuit) and NunatuKavummiut (Southern Inuit or Inuit-Metis), the Inuit did not make significant progress southward, or in the case of Labrador, eastward.
+
+Inuit had trade relations with more southern cultures; boundary disputes were frequent and gave rise to aggressive actions. Warfare was not uncommon among those Inuit groups with sufficient population density. Inuit such as the [[Nunamiut]] (''[[Uummarmiut]]''), who inhabited the [[Mackenzie River]] delta area, often engaged in warfare. The more sparsely settled Inuit in the Central Arctic, however, did so less often.
+
+Their first European contact was with the [[Norsemen|Norse]] who had settled in [[Norse Greenland|Greenland]]. The [[saga]]s recorded meetings between the Norse and ''{{Lang|mis|[[skræling]]ar}}'', probably an undifferentiated label for all the indigenous peoples encountered in North America, whether {{Lang|iu|Tuniit}}, Inuit or [[Beothuk]].<ref name="Weidensaul2012">{{cite book |first=Scott |last=Weidensaul |title=The First Frontier: The Forgotten History of Struggle, Savagery, and Endurance in Early America |url=https://books.google.com/books?id=_cXE4BL25hAC&pg=PA20 |year= 2012 |publisher=Houghton Mifflin Harcourt |isbn=978-0-547-53956-0 |page=20}}</ref>
+
+After about 1350, the climate grew colder during the period known as the [[Little Ice Age]]. During this period, Siberian and Alaskan natives were able to continue their [[whaling]] activities. But in the high Arctic, Inuit were forced to abandon their hunting and whaling sites as [[bowhead whale]]s disappeared from Canada and [[Greenland]].<ref name="PerrinWursig2009"/> These Inuit had to subsist on a much poorer diet, and lost access to the essential raw materials for their tools and architecture which they had previously derived from whaling.<ref name="PerrinWursig2009">{{cite book |first1=Anne M. |last1=Jensen |first2=Glenn W. |last2=Sheehan |first3=Stephen A. |last3=MacLean |chapter=Inuit and Marine Mammals |editor1=William F. Perrin |editor-link1=William F. Perrin |editor2=Bernd Würsig |editor-link2=Bernd Würsig |editor3=J.G.M. Thewissen |editor-link3=Hans Thewissen |title=Encyclopedia of Marine Mammals |edition=second |chapter-url=https://books.google.com/books?id=2rkHQpToi9sC&pg=PA630 |year=2009 |publisher=Academic Press |isbn=978-0-08-091993-5 |page=630}}</ref>
+
+===Post-contact history===
+[[File:Histoire de l'Amerique Septentrionale - divisée en quatre tomes (1753) (14577039230).jpg|thumb|A European ship coming into contact with Inuit in the ice of [[Hudson Bay]] in 1697]]
+
+====Early contact with Europeans====
+The lives of Paleo-Eskimos of the far north were largely unaffected by the arrival of visiting Norsemen except for mutual trade.<ref>McGhee 1992:194{{full citation needed|date=July 2021}}</ref> After the disappearance of the [[Norse colonization of the Americas|Norse colonies in Greenland]], Inuit had no contact with Europeans for at least a century. By the mid-16th century, [[Basque people|Basque]] whalers and fishermen were already working the Labrador coast and had established whaling stations on land, such as the one that has been excavated at [[Red Bay, Newfoundland and Labrador|Red Bay]], Labrador.<ref>{{cite web|url=http://www.heritage.nf.ca/exploration/basque.html|title=Basque Whaling in Red Bay, Labrador |website=Heritage.nf.ca |access-date=24 January 2011}}</ref><ref>{{cite web|url=http://www.heritage.nf.ca/exploration/16fishery.html |title=The International Fishery of the 16th Century |website=Heritage.nf.ca |access-date=24 January 2011}}</ref> Inuit do not appear to have interfered with their operations, but raided the stations in winter, taking tools and items made of worked iron, which they adapted to their own needs.
+
+[[File:Zentralbibliothek Zürich - Merckliche Beschreibung sampt eygenlicher Abbildung eynes frembden unbekanten Volcks - 000003625 (cropped).jpg|thumb|An anonymous 1578 illustration believed to show [[Kalicho]] (left), and [[Arnaq]] and Nutaaq (right)|alt=]]
+[[Martin Frobisher]]'s 1576 search for the [[Northwest Passage]] was the first well-documented contact between Europeans and Inuit. Frobisher's expedition landed in [[Frobisher Bay]], [[Baffin Island]], not far from the settlement now called [[Iqaluit]]. Frobisher encountered Inuit on [[Resolution Island (Nunavut)|Resolution Island]] where five sailors left the ship, under orders from Frobisher, with instructions to stay clear of Inuit. They became part of Inuit mythology. Inuit [[oral tradition]] tells that the men lived among them for a few years of their own free will until they died attempting to leave Baffin Island in a self-made boat and vanished.<ref name="Williams2010">{{cite book |first=Glyn |last=Williams |title=Arctic Labyrinth: The Quest for the Northwest Passage |url=https://books.google.com/books?id=H6kwDwAAQBAJ&pg=PA20 |date=March 2010 |publisher=University of California Press |isbn=978-0-520-26995-8 |page=20}}</ref> Frobisher, in an attempt to find the men, captured three Inuit and brought them back to England. They were possibly the first Inuit ever to visit Europe.<ref>{{cite web |title=Inuit in England |website=Inuit & Englishmen: The Nunavut Voyages of Martin Frobisher |publisher=[[Canadian Museum of History]] |url=https://www.historymuseum.ca/cmc/exhibitions/hist/frobisher/freng01e.html}}</ref>
+
+The semi-nomadic Inuit were fishermen and hunters harvesting lakes, seas, ice platforms, and [[tundra]]. While there are some allegations that Inuit were hostile to early French and English explorers, fishermen, and whalers, more recent research suggests that the early relations with whaling stations along the Labrador coast and later [[James Bay]] were based on a mutual interest in trade.{{sfnp|Mitchell|1996|pages=49–62}} In the final years of the 18th century, the [[Moravian Church]] began missionary activities in Labrador, supported by the British<ref>{{cite encyclopedia |last=Pedersen |first=Annemarie |title=Labrador Inuit (Labradormiut) |encyclopedia=[[The Canadian Encyclopedia]] |date=8 March 2016 |publisher=[[Historica Canada]] |url=https://thecanadianencyclopedia.ca/en/article/labrador-inuit |url-status=live |archive-url=https://web.archive.org/web/20160425234054/https://thecanadianencyclopedia.ca/en/article/labrador-inuit |archive-date=25 April 2016}}</ref> who were tired of the raids on their whaling stations. The Moravian missionaries could easily provide Inuit with the iron and basic materials they had been stealing from whaling outposts, materials whose real cost to Europeans was almost nothing, but whose value to Inuit was enormous. From then on, contacts between the national groups in Labrador were far more peaceful.
+
+[[File:HBC-Upper Savage Islands-Hudson Strait.jpg|thumb|alt=The Hudson's Bay Company ships ''Prince of Wales'' and ''Eddystone'' with Inuit boats off the Upper Savage Islands, Hudson Strait, Canada|Hudson's Bay Company Ships bartering with Inuit off the Upper Savage Islands, [[Hudson Strait]], 1819]]
+
+The exchanges that accompanied the arrival and colonization by the Europeans greatly damaged Inuit way of life. Mass death was caused by the new infectious diseases carried by whalers and explorers, to which the Indigenous peoples had no acquired immunity. The high mortality rate contributed to the enormous social disruptions caused by the distorting effect of Europeans' material wealth and the introduction of different materials. Nonetheless, Inuit society in the higher latitudes largely remained in isolation during the 19th century.
+
+The [[Hudson's Bay Company]] opened [[trading post]]s such as Great Whale River (1820), today the site of the twin villages of [[Whapmagoostui]] (Cree-majority) and [[Kuujjuarapik]] (Inuit-majority), where whale products of the commercial whale hunt were processed and furs traded. The expedition of 1821–23 to the Northwest Passage led by [[Commander (Royal Navy)|Commander]] [[William Edward Parry]] twice over-wintered in [[Foxe Basin]].<ref>{{cite DCB |first=Robert E. |last=Johnson |title=William Edward Parry |volume=8 |url=http://www.biographi.ca/en/bio/parry_william_edward_8E.html}}</ref> It provided the first informed, sympathetic and well-documented account of the economic, social and religious life of Inuit. Parry stayed in what is now [[Igloolik]] over the second winter. Parry's writings, with pen and ink illustrations of Inuit everyday life, and those of [[George Francis Lyon]] were widely read after they were both published in 1824.<ref>D'Anglure 2002:205{{full citation needed|date=July 2021}}</ref> Captain [[George Comer]]'s Inuk wife Shoofly, known for her sewing skills and elegant attire,<ref>Driscoll 1980:6{{full citation needed|date=July 2021}}</ref> was influential in convincing him to acquire more sewing accessories and beads for trade with Inuit.
+
+====Early 20th century====
+During the early 20th century, a few traders and missionaries circulated among the more accessible bands. After 1904, they were accompanied by a handful of [[North-West Mounted Police in the Canadian north|North-West Mounted Police]] (NWMP). Unlike most Aboriginal peoples in Canada, however, Inuit did not occupy lands that were coveted by European settlers. Used to more temperate climates and conditions, most Europeans considered the homeland of Inuit to be hostile [[hinterland]]. Southerners enjoyed lucrative careers as bureaucrats and service providers to the people of the North, but very few ever chose to visit there.
+
+Once its more hospitable lands were largely settled, the government of Canada and entrepreneurs began to take a greater interest in its more peripheral territories, especially the fur and mineral-rich hinterlands. By the late 1920s, there were no longer any Inuit who had not been contacted by traders, missionaries or government agents. In 1939, the [[Supreme Court of Canada]] found, in a decision known as ''[[Re Eskimos]]'', that Inuit should be considered Indians and were thus under the jurisdiction of the federal government.
+
+Native customs were worn down by the actions of the RCMP, who enforced [[Criminal law of Canada|Canadian criminal law]] on Inuit. People such as [[Kikkik]] often did not understand the rules of the alien society with which they had to interact. In addition, the generally Protestant missionaries of the British preached a [[Morality|moral code]] very different from the one Inuit had as part of their tradition. Many Inuit were systematically [[converted to Christianity]] in the 19th and 20th centuries, through rituals such as the ''[[Siqqitiq]]''.
+
+====The Second World War to the 1960s====
+World War II and the Cold War made Arctic Canada strategically important to the great powers for the first time. Thanks to the development of modern long-distance aircraft, these areas became accessible year-round. The construction of [[Military airbase|air bases]] and the [[Distant Early Warning Line]] in the 1940s and 1950s brought more intensive contact with European society, particularly in the form of public education for children. The traditionalists complained that Canadian education promoted foreign values that were disdainful of the traditional structure and culture of Inuit society.<ref>{{cite book|last=McGregor|first=Heather E.|title=Inuit Education and Schools in the Eastern Arctic|url=https://books.google.com/books?id=ySE3BJgBGkYC&pg=PP1|year=2010|publisher=UBC Press|isbn=978-0-7748-5949-3}}</ref>
+
+In the 1950s, the [[Government of Canada]] undertook what was called the [[High Arctic relocation]] for several reasons.<!-- How many people were involved? How long did it last? --> These were to include protecting Canada's [[Territorial claims in the Arctic|sovereignty in the Arctic]], alleviating hunger (as the area currently occupied had been over-hunted), and attempting to solve the "Eskimo problem", by seeking assimilation of the people and the end of their traditional Inuit culture. One of the more notable relocations was undertaken in 1953, when 17 families were moved from [[Inukjuak, Quebec|Port Harrison]] (now Inukjuak, Quebec) to [[Resolute, Nunavut|Resolute]] and [[Grise Fiord, Nunavut|Grise Fiord]].<ref>{{cite press release |title=Government of Canada Apologizes for Relocation of Inuit Families to the High Arctic |publisher=Government of Canada |date=18 August 2010 |url=https://www.canada.ca/en/news/archive/2010/08/government-canada-apologizes-relocation-inuit-families-high-arctic.html}}</ref> They were dropped off in early September when winter had already arrived. The land they were sent to was very different from that in the Inukjuak area; it was barren, with only a couple of months when the temperature rose above freezing, and several months of [[polar night]]. The families were told by the RCMP they would be able to return to their home territory within two years if conditions were not right. However, two years later more Inuit families were relocated to the High Arctic. Thirty years passed before they were able to visit Inukjuak.<ref>{{cite report |title=The High Arctic Relocation: A Report on the 1953–55 Relocation |first1=René |last1=Dussault |first2=George |last2=Erasmus |publisher=[[Royal Commission on Aboriginal Peoples]] |date=1994 |url=http://publications.gc.ca/collections/collection_2016/bcp-pco/Z1-1991-1-41-3-eng.pdf |isbn=0-660-15544-3}}</ref><ref>{{cite report |chapter=Part Two: False Assumptions and a Failed Relationship: Chapter 11 – Relocation of Aboriginal Communities: 2.2 To Improve the Lives of Aboriginal People |volume=1 – Looking Forward Looking Back |title=Report on the [[Royal Commission on Aboriginal Peoples]] |chapter-url=https://data2.archives.ca/e/e448/e011188230-01.pdf | pages=434–438 |publisher=Indian and Northern Affairs Canada |date=October 1996 |archive-url=https://web.archive.org/web/20060513074801/http://www.ainc-inac.gc.ca/ch/rcap/sg/sg38_e.html |archive-date=13 May 2006|url-status=live}}</ref><ref>{{cite web |title=High Arctic Relocation |url= http://www.gov.nu.ca/education/eng/css/curr/10-12/English/En102030/Relocation%20Modules/gr%2010/H_Arctic/H_ARCTIC.pdf |archive-url= https://web.archive.org/web/20070204055507/http://www.gov.nu.ca/education/eng/css/curr/10-12/English/En102030/Relocation%20Modules/gr%2010/H_Arctic/H_ARCTIC.pdf |archive-date=4 February 2007}}</ref><ref>{{cite web |url=http://www.nutaaq.com/productions/brokenpromises.html |title=Broken Promises: The High Arctic Relocation |website=Nutaaq.com |access-date=24 January 2011}}</ref>
+
+By 1953, [[Prime Minister of Canada|Canada's prime minister]] [[Louis St. Laurent]] publicly admitted, "Apparently we have administered the vast territories of the north in an almost continuing absence of mind."<ref>{{cite journal |first=Raleigh |last=Parkin |title=The Arctic Institute of North America: The Origin of the Institute |journal=Arctic  |volume=19 |issue=1|page=5 |date=March 1966 |doi=10.14430/arctic3410 |url=https://dev.journalhosting.ucalgary.ca/index.php/arctic/article/view/66460/50373|doi-access=free |archive-url=https://web.archive.org/web/20210711022253/https://dev.journalhosting.ucalgary.ca/index.php/arctic/article/view/66460/50373|archive-date=11 July 2021}}</ref><ref name=PK32>{{cite book|last=Parker|first=John Havelock|title=Arctic Power: The Path to Responsible Government in Canada's North|url=https://books.google.com/books?id=lgCXNwAACAAJ&pg=PA32|year=1996|publisher=Cider Press|isbn=978-1-896851-02-0|page=32}}</ref> The government began to establish about forty permanent administrative centers to provide education, health, and economic development services.<ref name=PK32/> Inuit from hundreds of smaller camps scattered across the north began to congregate in these hamlets.{{sfnp|Mitchell|1996|p=118}}
+
+Regular visits from doctors and access to modern medical care raised the [[birth rate]] and decreased the [[Mortality rate|death rate]], causing a marked [[Demographic transition|natural increase]] in the population that made it more difficult for them to survive by traditional means. In the 1950s, the Canadian government began to actively settle Inuit into permanent villages and cities, occasionally against their will (such as in Nuntak and Hebron). In 2005 the Canadian government acknowledged the abuses inherent in these forced resettlements.<ref>{{cite news |first=Ashley |last=Fitzpatrick |date=15 August 2012 |url=http://www.thetelegram.com/News/Local/2012-08-15/article-3052970/Forced-relocation-of-Inuit-acknowledged/1 |title=Forced relocation of Inuit acknowledged |work=The Telegram |archive-url=https://web.archive.org/web/20121016064029/http://www.thetelegram.com/News/Local/2012-08-15/article-3052970/Forced-relocation-of-Inuit-acknowledged/1 |archive-date=16 October 2012}}</ref> By the mid-1960s, encouraged first by missionaries, then by the prospect of paid jobs and government services, and finally forced by hunger and required by the police, most Canadian Inuit lived year-round in permanent settlements. The nomadic migrations that were the central feature of Arctic life had become a much smaller part of life in the North. Inuit, a once self-sufficient people in an extremely harsh environment were, in the span of perhaps two generations, transformed into a small, impoverished minority, lacking skills or resources to sell to the larger economy, but increasingly dependent on it for survival.
+
+Although anthropologists like [[Diamond Jenness]] (1964) were quick to predict that Inuit culture was facing extinction, Inuit political activism was already emerging.
+
+====Cultural renewal====
+[[File:Inuit-Kleidung 1.jpg|thumb|[[Igloolik]] Inuit women and child (known as Iglulingmiut or "people of Igloolik")  in traditional parkas (1999)]]
+In the 1960s, the Canadian government funded the establishment of [[Secularity|secular]], government-operated [[high school]]s in the Northwest Territories (including what is now Nunavut) and Inuit areas in Quebec and Labrador along with the [[Canadian Indian residential school system|residential school system]]. Inuit population was not large enough to support a full high school in every community, so this meant only a few schools were built, and students from across the territories were boarded there. These schools, in [[Aklavik, Northwest Territories|Aklavik]], Iqaluit, [[Yellowknife]], [[Inuvik]] and [[Kuujjuaq, Quebec|Kuujjuaq]], brought together young Inuit from across the Arctic in one place for the first time and exposed them to the rhetoric of [[Civil and political rights|civil]] and [[human rights]] that prevailed in Canada in the 1960s. This was a real wake-up call for Inuit, and it stimulated the emergence of a new generation of young Inuit activists in the late 1960s who came forward and pushed for respect for Inuit and their territories.
+
+Inuit began to emerge as a political force in the late 1960s and early 1970s, shortly after the first graduates returned home. They formed new politically active associations in the early 1970s, starting with the [[Inuit Tapiriit Kanatami|Inuit Tapirisat of Canada]] (Inuit Brotherhood and today known as Inuit Tapiriit Kanatami), an outgrowth of the Indian and Eskimo Association of the '60s, in 1971, and more region-specific organizations shortly afterward, including the Committee for the Original People's Entitlement (representing the Inuvialuit),<ref>{{cite web|url=http://www.connexions.org/CxLibrary/CX2830.htm|title=Committee for Original Peoples Entitlement (COPE)|website=Connexions.org|date=5 June 2007|access-date=24 January 2011}}</ref> the Northern Quebec Inuit Association ([[Makivik Corporation]]) and the Labrador Inuit Association (LIA) representing Northern Labrador Inuit. Since the mid-1980s the disputed Southern Labrador Inuit of [[NunatuKavut]] began organizing politically after being geographically cut out of the LIA, because the organization called itself the Labrador Métis Nation just a few years before. Various activist movements began to change the direction of Inuit society in 1975 with the [[James Bay and Northern Quebec Agreement]]. This comprehensive land claims settlement for Quebec Inuit, along with a large cash settlement and substantial administrative autonomy in the new region of Nunavik, set the precedent for the settlements to follow. The northern Labrador Inuit submitted their land claim in 1977, although they had to wait until 2005 to have a signed land settlement establishing [[Nunatsiavut]]. Southern Labrador Inuit of NunatuKavut is currently in the process of establishing land claims and title rights that would allow them to negotiate with the Newfoundland Government.
+
+Canada's 1982 Constitution Act recognized Inuit as Aboriginal peoples in Canada.<ref name="s35"/> In the same year, the [[Tunngavik Federation of Nunavut]] (TFN) was incorporated, in order to take over negotiations for [[Aboriginal land claim|land claims]] on behalf of Inuit living in the eastern Northwest Territories, that would later become Nunavut, from Inuit Tapiriit Kanatami, which became a joint association of Inuit of Quebec, Labrador, and the Northwest Territories.
+
+====Inuit cabinet members at the federal level====
+On 30 October 2008, [[Leona Aglukkaq]] was appointed as [[Minister of Health (Canada)|Minister of Health]], "[becoming] the first Inuk to hold a senior cabinet position, although she is not the first Inuk to be in cabinet altogether."<ref>{{cite news |url=https://www.cbc.ca/news/canada/north/nunavut-s-aglukkaq-named-federal-health-minister-1.695400 |publisher=CBC News |title=Nunavut's Aglukkaq named federal health minister |date=30 August 2008 |url-status=live |archive-url=https://web.archive.org/web/20090119195019/http://www.cbc.ca/canada/north/story/2008/10/30/aglukkaq-cabinet.html |archive-date=19 January 2009}}</ref> [[Jack Anawak]] and [[Nancy Karetak-Lindell]] were both [[Parliamentary Secretary|parliamentary secretaries]] respectively from 1993 to 1996 and in 2003.
+
+==Nomenclature==
+{{See also|Eskimo#Nomenclature}}
+The term ''Eskimo'' is still used by people;<ref name="NPR"/><ref name="MWD">{{cite web |title=Eskimo |url=https://www.merriam-webster.com/dictionary/Eskimo |access-date=1 April 2021 |work=[[Merriam-Webster]]}}</ref><ref name="EEB">{{cite encyclopedia |title=Eskimo |encyclopedia=[[Encyclopædia Britannica]] |url=https://www.britannica.com/topic/Eskimo-people |date=28 November 2020}}</ref> however in the 21st century, usage in North America has declined.<ref name=kaplannew/><ref name="global"/>
+
+In the United States the term ''[[Eskimo]]'' was, as of 2016, commonly<ref name="NPR">{{cite web|url=https://www.npr.org/sections/goatsandsoda/2016/04/24/475129558/why-you-probably-shouldnt-say-eskimo |title=Why You Probably Shouldn't Say 'Eskimo' |first=Rebecca |last=Hersher |work=Goats and Soda: Stories of a Life in a Changing World |publisher=NPR |date=24 April 2016}}</ref> used to describe Inuit and the Siberian and Alaskan Yupik, and Iñupiat peoples. Eskimo is still used by some groups and organizations to encompass Inuit and Yupik, as well as other Indigenous Alaskan and Siberian peoples.<ref name=MWD/><ref name=EEB/>
+
+In 2011, Lawrence Kaplan of the [[Alaska Native Language Center]] at the [[University of Alaska Fairbanks]] wrote that ''Inuit'' was not generally accepted as a term for the Yupik, and ''Eskimo'' was often used as the term that applied to the Yupik, Iñupiat, and Inuit.<ref name="kaplanold">{{cite web |last=Kaplan|first=Lawrence |url=https://www.uaf.edu/anlc/resources/inuit-eskimo/ |title=Inuit or Eskimo: Which names to use? |publisher=[[Alaska Native Language Center]], [[University of Alaska Fairbanks]] |date=1 July 2011 |archive-url= https://web.archive.org/web/20190112064340/https://www.uaf.edu/anlc/resources/inuit-eskimo/ |archive-date=12 January 2019}}</ref> Since then Kaplan has updated this to indicate that the term ''Inuit'' has gained acceptance in Alaska.<ref name=kaplannew/>
+
+Though there is much debate, the word ''Eskimo'' likely derives from a [[Innu-aimun]] (Montagnais)<ref name="aueo">{{cite web |url=https://www.alt-usage-english.org//excerpts/fxeskimo.html |title=Eskimo |first=Mark |last=Israel |website=alt.usage.english.org}}</ref><ref name="goddard">{{cite book |last=Goddard |first=Ives |title=Synonymy |pages=5–7}} in {{harvp|Sturtevant|1984}}</ref><ref name="campbell">{{cite book |last=Campbell |first=Lyle |author-link=Lyle Campbell  |title=American Indian Languages: The Historical Linguistics of Native America |url=https://books.google.com/books?id=h36tPYqAZPwC&pg=PA394 |year=1997 |publisher=Oxford University Press |isbn=978-0-19-534983-2 |page=394}}</ref> [[exonym]] meaning 'a person who laces a snowshoe',<ref name="mailhot"/><ref name="igoddard"/><ref name="aueo"/><ref name="creeml">{{cite web |url=http://www.nisto.com/cree/mail/cree-1997-11.txt |title=Cree Mailing List Digest November 1997 |access-date=13 June 2012|archive-url=https://web.archive.org/web/20191104061608/http://www.nisto.com/cree/mail/cree-1997-11.txt |archive-date=4 November 2019}}</ref> but is also used in [[folk etymology]] as meaning 'eater of raw meat' in the [[Cree language]].<ref name="natlang">{{cite web|url=http://www.native-languages.org/iaq23.htm |title=Setting the Record Straight About Native Languages: What Does "Eskimo" Mean In Cree? |website=Native-languages.org |access-date=13 June 2012}}</ref> Though the Cree etymology has been discredited, "Eskimo" is considered pejorative by some Canadian and English-speaking Greenlandic Inuit.<ref name="natlang"/><ref name="bartlebyeskimo">{{cite web |url=http://www.bartleby.com/61/24/E0212400.html |title=Eskimo |archive-url=https://web.archive.org/web/20010412155403/http://www.bartleby.com/61/24/E0212400.html |archive-date=12 April 2001|publisher=Bartleby|work=American Heritage Dictionary of the English Language: Fourth Edition, 2000 |access-date=13 January 2008}}</ref><ref name=publications>{{cite web |url=http://www.publications.gc.ca/collections/Collection/R2-236-2002E.pdf |title=Words First An Evolving Terminology Relating to Aboriginal Peoples in Canada |publisher=Communications Branch, Indian and Northern Affairs Canada |date=October 2002 |quote=The term 'Eskimo', applied to Inuit by European explorers, is no longer used in Canada.}}</ref><ref>{{cite web |title=Eskimo |url=https://www.lexico.com/en/definition/eskimo |archive-url=https://web.archive.org/web/20210210154048/https://www.lexico.com/en/definition/eskimo  |archive-date=10 February 2021 |access-date=19 December 2020 |website=Lexico.com}}</ref>
+
+In Canada and Greenland, ''Inuit'' is preferred. ''Inuit'' is the [[Inuktitut|Eastern Canadian Inuit]] (Inuktitut) and [[Kalaallisut language|West Greenlandic]] (Kalaallisut) word for 'the people'.<ref name="naming"/> Since Inuktitut and Kalaallisut are the [[prestige dialect]]s in Canada and Greenland, respectively, their version has become dominant, although every Inuit dialect uses cognates from the [[Proto-Eskimo]] ''*ińuɣ'' {{ndash}} for example, "people" is ''inughuit'' in [[Inuktun language|North Greenlandic]] and ''iivit'' in [[Tunumiisut language|East Greenlandic]].
+
+==Cultural history==
+{{Main|Inuit culture}}
+
+===Languages===
+{{Main|Inuit languages}}
+[[File:Inuktitut dialect map.svg|thumb|upright=1.35|alt=Inuktitut dialect map with labels in Inuktitut inuujingajut or local Roman alphabet|Distribution of Inuit dialects]]
+
+Inuit speak [[Iñupiaq language|Inupiaq (Inupiatun)]], [[Inuinnaqtun]],<ref>{{Ethnologue18|ikt|Inuinnaqtun}}</ref> [[Inuktitut]],<ref name=E18ike>{{Ethnologue18|ike|Inuktitut, Eastern Canadian}}</ref> [[Inuvialuktun]], and [[Greenlandic language]]s,<ref name=E18kal>{{Ethnologue18|kal|Greenlandic}}</ref> which belong to the Inuit-Inupiaq branch of the [[Eskimo–Aleut languages|Inuit-Yupik-Unangan language family]].<ref name=ethno/>
+
+Inupiaq (Inupiatun) is spoken in Russia (extinct) and Alaska, which is one of the 22 official languages of the State of Alaska. In Russia, due to the replacement from their traditional territory in Big Diomede Island to Mainland Russia, Inupiaq language has been nearly extinct with most of them speaking [[Central Siberian Yupik language|Central Siberian Yupik]] or Russian predominantly with some Inupiaq linguistic features.
+
+In Canada, three Inuit languages (Inuvialuktun, Inuinnaqtun, Inuktitut) are spoken. Inuvialuktun is spoken in the [[Inuvialuit Settlement Region]], [[Northwest Territories]], with official language status from the territorial government. Inuinnaqtun is spoken across the Northwest Territories and the [[Kitikmeot Region]] of [[Nunavut]] with official language status from both territories. Inuktitut, the most widely spoken Inuit language in Canada, however, is an official, and one of two main languages, alongside English, of Nunavut and has its speakers throughout Nunavut, [[Nunavik]] (Northern Quebec), [[Nunatsiavut]] (Labrador), and the Northwest Territories, where it is also an official language.<ref name="lang">{{cite web |url=https://www.gov.nu.ca/sites/default/files/2015-07-28-official_language_act-conssnu2008c10_0.pdf |title=Consolidation of Official Languages Act |date=11 November 2013 |publisher=Government of Nunavut}}</ref><ref>{{cite web |title=Official Languages Act, SNu 2008, c 10 |date=9 July 2017 |website=Canadian Legal Information Institute |url=https://canlii.ca/t/8lvd}}</ref><ref>{{cite web |title=Inuit Language Protection Act, SNu 2008, c 17 |date=10 November 2020 |website=Canadian Legal Information Institute |url=https://canlii.ca/t/8m2b}}</ref><ref name="lang-2">{{cite web |title=Official Languages Act, RSNWT 1988, c O-1 |website=Canadian Legal Information Institute |date=27 October 2020 |url=https://canlii.ca/t/8htc}}</ref><ref name="lang1">{{cite web| url = https://www.justice.gov.nt.ca/en/files/legislation/official-languages/official-languages.a.pdf | title = Official Languages Act (Northwest Territories| date = 1998 | access-date = 5 August 2021|publisher = Government of the Northwest Territories}}</ref><ref name="lang2">{{cite web|url=https://www.pwnhc.ca/official-languages-of-the-northwest-territories/|title=Official Languages of the Northwest Territories|access-date=5 August 2021|publisher=[[Prince of Wales Northern Heritage Centre]]|archive-date=19 October 2021|archive-url=https://web.archive.org/web/20211019184622/https://www.pwnhc.ca/official-languages-of-the-northwest-territories/}}</ref>
+
+Kalaallisut is the official language of Greenland.<ref name="Stern2004">{{cite book |first=Pamela R. |last=Stern |title=Historical Dictionary of the Inuit |url=https://archive.org/details/historicaldictio0000ster/page/75 |url-access=registration |date=2004 |publisher=Scarecrow Press |isbn=978-0-8108-6556-3 |page=75}}</ref> The Greenlandic languages are divided into: [[West Greenlandic|Kalaallisut]] (Western), [[Inuktun]] (Northern), and [[Tunumiit language|Tunumiit]] (Eastern). As Inuktitut was the language of the Eastern Canadian Inuit<ref name="E18ike" /> and Kalaallisut is the language of the Western Greenlandic Inuit,<ref name="E18kal" /> they are related more closely than most other dialects.<ref name="Dorais2010">{{cite book|last=Dorais|first=Louis-Jacques|title=The Language of the Inuit: Syntax, Semantics, and Society in the Arctic|url=https://books.google.com/books?id=xKWJbxkZvPwC&pg=PA62|year=2010|publisher=McGill-Queen's University Press|isbn=978-0-7735-8162-3|page=62}}</ref>
+
+Inuit in Alaska and Northern Canada also typically speak English.<ref>{{cite web |url=https://www.clo-ocol.gc.ca/en/newsletter/2013/04/05/the-languages-of-nunavut-a-delicate-balance |title=The languages of Nunavut: A delicate balance |publisher=[[Office of the Commissioner of Official Languages]] |date=5 April 2013 |access-date=20 January 2021 |archive-url=https://web.archive.org/web/20140806140832/https://www.clo-ocol.gc.ca/en/newsletter/2013/04/05/the-languages-of-nunavut-a-delicate-balance |archive-date=6 August 2014|url-status=live}}</ref> In Greenland, Inuit also speak [[Danish language|Danish]] and learn [[English language|English]] in school. Inuit in Russia mostly speak Russian and Central Siberian Yupik. Canadian Inuit, particularly those from Nunavik, may also speak [[Quebec French|Québécois French]].
+
+Finally, deaf Inuit use [[Inuit Sign Language]] (ISL), which is a [[language isolate]] and is almost extinct as only around 50 people still use it.<ref>{{Ethnologue18|iks|Inuit Sign Language}}</ref>
+
+===Diet===
+{{Main|Inuit diet}}
+Inuit have traditionally been fishermen and hunters. They still hunt [[whale]]s (esp. [[bowhead whale]]), [[Pinniped|seal]], (esp. [[ringed seal]], [[harp seal]], [[Harbor seal|common seal]], [[bearded seal]]), [[polar bear]]s, [[muskox]]en, [[caribou]], [[birds]], and [[fish]] and at times other less commonly eaten animals such as the [[Arctic fox]]. The typical Inuit diet is high in [[protein]] and very high in [[Animal fat|fat]] – in their traditional diets, Inuit consumed an average of 75 percent of their daily energy intake from fat.<ref>{{cite web |url=https://www.discovermagazine.com/health/the-inuit-paradox |title=The Inuit Paradox |work=[[Discover (magazine)|Discover]] |first1=Patricia |last1=Gadsby |first2=Leon |last2=Steele |date=19 January 2004}}</ref> While it is not possible to cultivate plants for food in the Arctic, Inuit have traditionally gathered those that are naturally available. [[Poaceae|Grasses]], [[tuber]]s, [[root]]s, [[Edible plant stem|plant stems]], [[berry|berries]], and [[seaweed]] (''kuanniq'' or edible seaweed) were collected and preserved depending on the season and the location.<ref>{{cite book |last1=Kuhnlein |first1=Harriet V. |author-link=Harriet V. Kuhnlein |title=Traditional Plant Foods of Canadian Indigenous Peoples: Nutrition, Botany and Use |last2=Turner |first2=Nancy J. |publisher=Taylor and Francis |year=1991 |isbn=978-2-88124-465-0 |edition=1st |series=Food and Nutrition in History and Anthropology, Volume 8 |pages=26–29 |chapter=Chapter 4. Descriptions and Uses of Plant Foods by Indigenous Peoples |chapter-url=https://books.google.com/books?id=fPDErXqH8YYC&q=inuit+seaweed&pg=PA26}}</ref><ref>{{cite report |url=https://www.itk.ca/wp-content/uploads/2016/07/Arctic-Wildlife.pdf |title=Arctic Wildlife |access-date=20 November 2007 |publisher=[[Inuit Tapiriit Kanatami]] |page=2 |quote=Not included are the myriad of other species of plants and animals that Inuit use, such as geese, ducks, rabbits, ptarmigan, swans, halibut, clams, mussels, cod, berries and seaweed.}}</ref><ref>{{cite book|last1=Bennett|first1=John|last2=Rowley |first2=Susan |title=Uqalurait: An Oral History of Nunavut |year=2004 |publisher=[[McGill-Queen's University Press]]|isbn=978-0-7735-2340-1|pages=78–85|chapter=Chapter 5. Gathering|chapter-url=https://books.google.com/books?id=6cjGnMRRrcEC&q=inuit+seaweed&pg=PA84 |quote=...shorelines, Inuit gathered seaweed and shellfish. For some, these foods were a treat;...}}</ref><ref>{{cite web|url=http://www.livingdictionary.com/term/viewTerm.jsp?term=132285700004|archive-url=https://web.archive.org/web/20071223111149/http://www.livingdictionary.com/term/viewTerm.jsp?term=132285700004|url-status=usurped|archive-date=23 December 2007|title=kuanniq|work=Asuilaak Living Dictionary|access-date=16 February 2007}}</ref> There is a vast array of different [[North American Hunting Technologies|hunting technologies]] that Inuit used to gather their food.
+
+In the 1920s, anthropologist [[Vilhjalmur Stefansson]] lived with and studied a group of Inuit.<ref name=JAMA_Lieb>{{cite journal |last1=Lieb |first1=Clarence W. |date=1926 |title=The Effects of an Exclusive Long-Continued Meat Diet |journal=[[Journal of the American Medical Association|JAMA]] |volume=87|issue=1|pages=25–26 |doi=10.1001/jama.1926.02680010025006}}</ref> The study focused on Stefansson's observation that Inuit's [[low-carbohydrate diet]] apparently had no adverse effects on their health, nor indeed, on his own health. Stefansson (1946) also observed that Inuit were able to get the necessary vitamins they needed from their traditional winter diet, which did not contain any plant matter. In particular, he found that adequate [[vitamin C]] could be obtained from items in their traditional diet of [[Raw animal food diets|raw meat]] such as ringed seal [[Liver (food)|liver]] and whale skin ([[muktuk]]). While there was considerable skepticism when he reported these findings, the initial anecdotal reports were reaffirmed both in the 1970s,<ref>{{Cite journal |doi=10.1093/AJCN/25.8.737 |first1=Kang-Jey |first2=Belma |first3=Lena A. |first4=Sheldon A. |first5=C. Bruce |issn=0002-9165 |issue=8 |journal=[[The American Journal of Clinical Nutrition]] |language=en |last1=Ho |last2=Mikkelson |last3=Lewis |last4=Feldman |last5=Taylor |pages=737–745 |pmid=5046723 |date=1 August 1972 |title=Alaskan Arctic Eskimo: responses to a customary high fat diet |volume=25}}</ref> and more recently.<ref>{{cite journal |last1=DiNicolantonio |first1=JJ |last2=O'Keefe |first2=J |title=Markedly increased intake of refined carbohydrates and sugar is associated with the rise of coronary heart disease and diabetes among the Alaskan Inuit |journal=Open Heart |date=2017 |volume=4 |issue=2 |article-number=e000673 |doi=10.1136/openhrt-2017-000673|pmid=29259789 |pmc=5729304 }}</ref><ref>{{cite journal |last=DiNicolantonio |first=JJ |title=Increase in the intake of refined carbohydrates and sugar may have led to the health decline of the Greenland Eskimos |journal=Open Heart |date=2016 |volume=3 |issue=2 |article-number=e000444 |doi=10.1136/openhrt-2016-000444|pmid=27547433 |pmc=4975865 }}</ref>
+
+Modern Inuit have lifespans 12 to 15 years shorter than the average Canadian's, which is thought to be influenced by factors such as their diet<ref name="MRZimmerman">{{Cite journal |first=M.R. |issn=0730-2347 |issue=4 |journal=Texas Heart Institute Journal |language=en |last=Zimmerman |pages=252–257 |pmc=325106 |pmid=8298320 |date=1 January 1993 |title=The paleopathology of the cardiovascular system |volume=20}}</ref> and limited access to medical services.<ref name="reuterslife">{{Cite news |url=https://www.reuters.com/article/us-inuit-idUSN2362426520080123 |title=Inuit lifespan stagnates while Canada's rises |publisher=Reuters |date=23 January 2008 |archive-date=13 November 2015 |archive-url=https://web.archive.org/web/20151113174017/http://www.reuters.com/article/2008/01/23/us-inuit-idUSN2362426520080123 |url-status=live |last1=Spicer |first1=Jonathan}}</ref> The life expectancy gap is not closing and remains stagnant.<ref name="reuterslife"/><ref>{{cite web|url=https://www.itk.ca/sites/default/files/private/factsheet-seriesFINAL2.pdf |access-date=29 May 2013 |title=Inuit & Cancer: Fact sheets |publisher=Inuit Tapiriit Kanatami|date=February 2009 |archive-url=https://web.archive.org/web/20131023013249/https://www.itk.ca/sites/default/files/private/factsheet-seriesFINAL2.pdf |archive-date=23 October 2013}}</ref><ref>{{Cite journal |author1=Kang-Jey Ho |author2=Belma Mikkelson |author3=Lena A. Lewis |author4=Sheldon A. Feldman |author5=C. Bruce Taylor |doi=10.1093/AJCN/25.8.737 |id=[[WDQ (identifier)|Wikidata]]&nbsp;[[:d:Q34227145|Q34227145]] |issn=0002-9165 |issue=8 |journal=[[The American Journal of Clinical Nutrition]] |language=en |pages=737–745 |pmid=5046723 |publication-date=1 August 1972 |title=Alaskan Arctic Eskimo: responses to a customary high fat diet |volume=25}}</ref>
+
+===Tattoos===
+{{Main|Kakiniit}}
+The ancient art of face tattooing among Inuit women, which is called ''[[kakiniit]]'' or ''tunniit'' in [[Inuktitut]], dates back nearly 4,000 years. The facial tattoos detailed aspects of the women's lives, such as where they were from, who their family was, their life achievements, and their position in the community.<ref name=video>{{cite web |title=Inuk woman shares the meaning behind her traditional tattoos |format=Video 4:47 |website=CBC/Radio-Canada |date=29 September 2021 |access-date=19 February 2022 |url=https://www.youtube.com/watch?v=FuaA1I9YKbY}}</ref>
+
+In the 19th and 20th centuries, Christian missionaries arrived and forbade many important cultural practices, including Indigenous languages, dances, and tattoo.<ref>{{Cite web |title=Identifying Marks: Tattoos and Expression {{!}} The Anchorage Museum |url=https://www.anchoragemuseum.org/exhibits/identifying-marks-tattoos-and-expression/ |access-date=4 February 2026 |website=Anchorage Museum |language=en}}</ref><ref>{{Cite web |title=This ancient tattoo practice gives Inuit women a feeling of strength |url=https://newsinteractives.cbc.ca/longform/inuit-kakiniit-traditional-tattoo |access-date=4 February 2026 |website=newsinteractives.cbc.ca |language=en}}</ref> However, it is now making a comeback thanks to some modern Inuit women who want to revive the practices of their ancestors and get in touch with their cultural roots.<ref>{{cite web |title=Reclaiming Inuit culture, one tattoo at a time |website=CNN Travel |date=23 October 2019 |access-date=19 February 2022 |author=Jennifer Allford |url=https://www.cnn.com/travel/article/inuit-tattoos-culture-canada/index.html}}</ref> The traditional method of tattooing was done with needles made of sinew or bone soaked in suet and sewn into the skin, but today they use ink.<ref name="video" /> The Inuit Tattoo Revitalization Project is a community that was created to highlight the revitalization of this ancient tradition.<ref>{{cite web |title=Keeping Tradition Alive: The Inuit Tattoo Revitalization Project |author=Ross Howerton |website=Tattoodo |date=6 September 2016 |access-date=19 February 2022 |url=https://www.tattoodo.com/articles/keeping-tradition-alive-the-inuit-tattoo-revitalization-project-9894#:~:text=The%20Inuit%20Tattooing%20Revitalization%20Project,towns%20and%20tattoo%20Inuit%20women. |archive-date=19 February 2022 |archive-url=https://web.archive.org/web/20220219170441/https://www.tattoodo.com/articles/keeping-tradition-alive-the-inuit-tattoo-revitalization-project-9894#:~:text=The%20Inuit%20Tattooing%20Revitalization%20Project,towns%20and%20tattoo%20Inuit%20women. |url-status=dead}}</ref><ref>{{cite web |title=How Inuit Women Are Using Tattoos to Reclaim Their Own Skin |date=10 February 2021 |access-date=19 February 2022 |website=Inuit Art Quarterly |author=John Geoghegan |url=https://www.inuitartfoundation.org/iaq-online/healing-ink}}</ref><ref>{{cite web |title=Tunniit: Retracing the Lines of Inuit Tattoos |format=Documentary |access-date=19 February 2022 |website=Unikkaat Studios Inc. |url=http://www.unikkaat.com/projects/tunniit-retracing-the-lines-of-inuit-tattoos/}}</ref>
+
+===Transport, navigation, and dogs===
+{{See also|Inuit navigation}}
+[[File:Inuit man by Curtis - Noatak AK.jpg|thumb|alt=Photograph of an Inuit man seated in a kayak, holding a paddle|[[Iñupiat|Iñupiaq]] man in a kayak, Noatak, Alaska, {{Circa|1929}}, photo by [[Edward S. Curtis]]]]
+[[File:Qinngorput-Nuuk.JPG|thumb|Urbanization in [[Greenland]]]]
+Inuit hunted [[Marine biology|sea animals]] from single-passenger, seal-skin covered boats called ''[[Kayak|qajaq]]'' (Inuktitut syllabics: ''ᖃᔭᖅ'')<ref>{{cite web|url=http://www.livingdictionary.com/term/viewTerm.jsp?term=49141890685|archive-url=https://web.archive.org/web/20071013093641/http://livingdictionary.com/term/viewTerm.jsp?term=49141890685|url-status=usurped|archive-date=13 October 2007|title=Qajaq|work=Asuilaak Living Dictionary|access-date=12 May 2007}}</ref> which were extraordinarily buoyant, and could be righted by a seated person, even if completely overturned. Because of this property, the design was copied by non-Inuit, who still produce them as kayak, a name derived from the Inuit language.
+[[File:Covered Basket, Eskimo, Alaska, undated, coiled dyed and undyed rye grass - Chazen Museum of Art - DSC01872.JPG|thumb|Covered Inuit basket, Alaska, undated]]
+Inuit also made ''[[Umiak|umiaq]]'' ("woman's boat"), larger open boats made of wood frames covered with animal skins, for transporting people, goods, and dogs. They were {{cvt|6|-|12|m}} long and had a flat bottom so that the boats could come close to shore. In the winter, Inuit would also hunt [[Marine mammal|sea mammals]] by patiently watching an ''aglu'' (breathing hole) in the ice and waiting for the air-breathing seals to use them. This technique is also used by the polar bear, who hunts by seeking holes in the ice and waiting nearby.
+
+In winter, both on land and on sea ice, Inuit used [[dog sled]]s (''[[qamutiik]]'') for transportation. A [[Sled dog|team of dogs]] in either a tandem / side-by-side or fan formation would pull a sled made of wood, especially driftwood, lashed together with animal-hide thongs or [[baleen]]. In the absence of wood, a sled could be made with cross pieces and runners made from bone, antler, or even frozen fish or meat.<ref>{{Cite journal |last1=Vitale |first1=Emma |last2=Rasmussen |first2=Jacob A. |last3=Grønnow |first3=Bjarne |last4=Hansen |first4=Anders J. |last5=Meldgaard |first5=Morten |last6=Feuerborn |first6=Tatiana R. |date=1 November 2023 |title=An ethnographic framework for identifying dog sledding in the archaeological record |journal=Journal of Archaeological Science |volume=159 |article-number=105856 |doi=10.1016/j.jas.2023.105856 |bibcode=2023JArSc.159j5856V |issn=0305-4403|doi-access=free |hdl=109.1.5/0b6d0f0f-231c-4ef2-a660-7fc439d14ff9 |hdl-access=free }}</ref>
+
+[[Inuit navigation|Inuit used stars to navigate at sea and landmarks to navigate on land]]; they possessed a comprehensive native system of [[toponymy]]. Where natural landmarks were insufficient, Inuit would erect an ''[[inuksuk]]''. Also, Greenland Inuit created [[Ammassalik wooden maps]], which are tactile devices that represent the coastline.
+
+Dogs played an integral role in the annual routine of Inuit. During the summer they became pack animals, sometimes dragging up to {{cvt|20|kg}} of baggage and in the winter they pulled the sled. Yearlong they assisted with hunting by sniffing out seals' holes and pestering polar bears. They also protected Inuit villages by barking at bears and strangers. Inuit generally favoured, and tried to breed, the most striking and handsome of dogs, especially ones with bright eyes and healthy coats. Common husky dog breeds used by Inuit were the [[Canadian Eskimo Dog|Canadian Inuit Dog]], the official animal of Nunavut,<ref>{{cite web |url=http://www.assembly.nu.ca/about-legislative-assembly/official-animal-nunavut |title=The Official Animal of Nunavut: The Canadian Inuit Dog |publisher=Legislative Assembly of Nunavut |access-date=25 February 2011 |archive-date=31 August 2014 |archive-url=https://web.archive.org/web/20140831065018/http://www.assembly.nu.ca/about-legislative-assembly/official-animal-nunavut}}</ref> (''Qimmiq''; Inuktitut for dog), the [[Greenland Dog]], the [[Siberian Husky]] and the [[Alaskan Malamute]].
+
+===Industry, art, and clothing===
+{{Main|Inuit art|Inuit clothing}}
+
+[[File:Tøj til kvinde fra Rensdyr-inuit i arktisk Canada - Woman’s clothing from Caribou Inuit in Arctic Canada (15307253096).jpg|Caribou skin [[amauti]] from Nunavut|thumb]]
+[[File:Tøj til pige fra inuit i Vestgrønland - Girl’s clothing from Inuit in West Greenland (15143578500).jpg|[[Kalaallit]] girl's clothing from Western Greenland|thumb]]
+Inuit industry relied almost exclusively on animal hides, [[driftwood]], and bones, although some tools were also made out of worked stones, particularly the readily worked [[soapstone]]. [[Walrus ivory]] was a particularly essential material, used to make knives. Art played a big part in Inuit society and continues to do so today. Small sculptures of animals and human figures, usually depicting everyday activities such as [[hunting]] and whaling, were carved from [[ivory]] and bone. In modern times [[Printmaking|prints]] and figurative works carved in relatively soft stone such as soapstone, [[serpentinite]], or [[argillite]] have also become popular.
+
+Traditional [[Inuit clothing]] and footwear is made from animal skins, sewn together using needles made from animal bones and threads made from other animal products, such as [[Tendon|sinew]]. The [[anorak]] (parka) is made in a similar fashion by Arctic peoples from Europe through [[Asia]] and the Americas, including Inuit. The back part of an ''[[amauti]]'' (women's parka) was traditionally made extra-large with a separate compartment below the hood to allow the mother to carry a baby against her back and protect it from the harsh wind.{{sfnp|Ohokak|Kadlun|Harnum|p=10}} Styles vary from region to region, from the shape of the hood to the length of the tails. Boots (''[[mukluk]]''<ref>{{cite encyclopedia |last=Gadacz |first=René R. |title=Mukluk |encyclopedia=[[The Canadian Encyclopedia]] |date=20 October 2015 |publisher=[[Historica Canada]] |url=https://www.thecanadianencyclopedia.ca/en/article/mukluk}}</ref> or ''kamik''<ref>{{cite web |title=Kamik |work=Collins Dictionary |date=13 February 2020 |url=https://www.collinsdictionary.com/us/dictionary/english/kamik |access-date=12 July 2021}}</ref>), could be made of caribou or seal skin, and designed for men and women.
+
+[[Snow goggles]] ([[Inuktitut]]: {{lang|iu-Latn|ilgaak}} or {{lang|iu-Latn|iggaak}}, [[Inuktitut syllabics|syllabics]]: <span lang="iu" dir="ltr">ᐃᓪᒑᒃ</span> or <span lang="iu" dir="ltr">ᐃᒡᒑᒃ</span>;<ref>{{cite web|url=http://www.livingdictionary.com/term/viewTerm.jsp?term=52781578516 |archive-url=https://web.archive.org/web/20110807093150/http://www.livingdictionary.com/term/viewTerm.jsp?term=52781578516 |url-status=dead |archive-date=7 August 2011 |title=Asuilaak Living Dictionary – snow goggles |work=Asuilaak Living Dictionary}}</ref> {{langx|esu|nigaugek}}, {{lang|esu|nigauget}}) are a type of eyewear traditionally used by the Inuit and the [[Yupik peoples|Yupik]] peoples of the [[Arctic]] to prevent [[photokeratitis|snow blindness]].<ref name="VMM">[https://web.archive.org/web/20070314111555/http://www.vancouvermaritimemuseum.com/modules/vmmuseum/treasures/?artifactid=77 Inuit Snow Goggles] at the [[Vancouver Maritime Museum]]</ref>
+[[File:Inuit-Igloo P.png|thumb|Inuit building an igloo]]
+During the winter, certain Inuit lived in a temporary shelter made from snow called an ''[[igloo]]'', and during the few months of the year when temperatures were above freezing, they lived in tents, known as ''[[tupiq]]'',{{sfnp|Ohokak|Kadlun|Harnum|p=10}} made of animal skins supported by a frame of bones or wood.<ref>{{cite book|last1=Larsen|first1=Olga Popovic|last2=Tyas|first2=Andy|title=Conceptual Structural Design: Bridging the Gap Between Architects and Engineers|url=https://books.google.com/books?id=8H2q0KUZeOsC&pg=PA19|year=2003|publisher=Thomas Telford|isbn=978-0-7277-3235-4|page=19}}
+</ref><ref>{{cite web |url=http://www.inuvialuitsodhouse.ca/dwellings/warm-season/ |title=Warm Season Dwellings: Tupiq |access-date=20 March 2013 |archive-url=https://web.archive.org/web/20131021052212/http://www.inuvialuitsodhouse.ca/dwellings/warm-season/ |archive-date=21 October 2013 }}</ref> Some, such as the [[Siglit]], used driftwood,<ref>{{Cite journal |doi=10.14430/ARCTIC1393 |first1=Charles D. |first2=Elisa J. |issn=0004-0843 |issue=2 |journal=[[Arctic (journal)|Arctic]] |language=en |last1=Arnold |last2=Hart |date=1 January 1992 |title=The Mackenzie Inuit Winter House |volume=45}}</ref> while others built [[sod]] houses.<ref>{{cite journal |first1=Richard M. |last1=Levy |first2=Peter C. |last2=Dawson |first3=Charles |last3=Arnold |title=Reconstructing traditional Inuit house forms using three-dimensional interactive computer modelling |journal=[[Visual Studies (journal)|Visual Studies]] |volume=19 |issue=1 |date=2004 |pages=26–36 |url=https://www.ucalgary.ca/~rmlevy/Thule/Documents/Visual%20Studies%20Final%20Copy.pdf |doi=10.1080/1472586042000204825 |s2cid=53394477}}</ref>
+
+Inuit also used the [[Cape York Meteorite]] as a primary resource of Iron, using a technique called [[cold forging]], which consisted in slicing a piece of the meteorite and giving it shape by smashing it with rocks until getting the desired shape, for example, tools for fishing. They used this meteorite for centuries until [[Robert E. Peary]] sold it to the [[American Natural History Museum]] in 1883.<ref>{{cite report |title=The Cultural History of the Innaanganeq/Cape York Meteorite |url=https://now.ku.dk/documents/Meteorit2014FinalReportLight.pdf |publisher=Greenland National Museum & Archives |date=2015 |access-date=2 July 2021 |archive-date=6 May 2021 |archive-url=https://web.archive.org/web/20210506114615/https://now.ku.dk/documents/Meteorit2014FinalReportLight.pdf}}</ref>
+
+===Gender roles, marriage, birth, and community===
+{{See also|Eskimo kinship|Inuit women}}
+[[File:Inuit Woman 1907 Crisco edit 2.jpg|thumb|[[Iñupiat|Iñupiaq]] woman, [[Alaska]], circa 1907]]
+The [[division of labor]] in traditional Inuit society had a strong gender component, but it was not absolute. The men were traditionally hunters and fishermen, and the women took care of the children, cleaned the home, sewed, processed food, and cooked. However, there are numerous examples of women who hunted, out of necessity or as a personal choice. At the same time, men, who could be away from camp for several days at a time, would be expected to know how to sew and cook.{{sfnp|Billson|Mancini|2007|p=38}}
+
+The marital customs among Inuit were not strictly [[Monogamy|monogamous]]; many Inuit relationships were implicitly or explicitly sexual. [[Open marriage]]s, [[polygamy]], [[divorce]], and remarriage were known. Among some Inuit groups, if there were children, divorce required the approval of the community and particularly the agreement of the elders. Marriages were often [[Arranged marriage|arranged]], sometimes [[child marriage|in infancy]], and occasionally [[forced marriage|forced on the couple]] by the community.{{sfnp|Billson|Mancini|2007|p=65}}
+[[File:Inupiat Family from Noatak, Alaska, 1929, Edward S. Curtis (restored).jpg|thumb|An [[Iñupiat]] family from [[Noatak, Alaska]], 1929]]
+Marriage was common for women at puberty and for men when they became productive hunters. [[Family]] structure was flexible: a household might consist of a [[Nuclear family|husband and wife]] (or wives) and children; it might include his [[Complex family|parents or his wife's parents]] as well as adopted children; it might be a [[Extended family|larger formation]] of several siblings with their parents, wives, and children; or even more than one family sharing dwellings and resources. Every household had its head, either an elder or a particularly respected man.{{sfnp|Billson|Mancini|2007|p=56}}
+
+There was also a larger notion of community as, generally, several families shared a place where they wintered. Goods were shared within a household, and also, to a significant extent, within a whole community.
+
+Inuit were [[hunter–gatherer]]s,<ref>{{cite book |last=Snow |first=Dean R. |chapter=The first Americans and the differentiation of hunter-gatherer cultures North America. |editor1=Bruce G. Trigger |editor-link1=Bruce Trigger |editor2=Wilcomb E. Washburn |editor-link2=Wilcomb E. Washburn |volume= I: North America |title=The Cambridge History of the Native Peoples of the Americas |publisher=Cambridge University Press |date=1996 |pages=125–200 |isbn=978-1-1390-5555-0 |doi=10.1017/CHOL9780521573924.004}}</ref> and have been referred to as [[nomad]]ic.<ref>{{cite web |url=http://dsp-psd.communication.gc.ca/Collection/R2-251-2003E-3.pdf |title=The Inuit |access-date=24 January 2011 |archive-url=https://web.archive.org/web/20110706181657/http://dsp-psd.communication.gc.ca/Collection/R2-251-2003E-3.pdf |archive-date=6 July 2011}}</ref>
+One of the customs following the birth of an infant was for an ''[[Angakkuq]]'' ([[Shamanism|shaman]]) to place a tiny [[ivory]] carving of a whale into the baby's mouth, in hopes this would make the child good at hunting. Loud singing and drumming were also customary at birth.<ref>{{cite book |last=Olmert |first=Michael |author-link=Michael Olmert |title=Milton's Teeth and Ovid's Umbrella: Curiouser and Curiouser Adventures in History |url=https://books.google.com/books?id=IiNBAAAAMAAJ&pg=PA158|year=1996|publisher=Touchstone|isbn=978-0-684-80164-3|page=158}}</ref>
+
+===Raiding===
+Virtually all Inuit cultures have [[oral tradition]]s of raids by other Indigenous peoples, including fellow Inuit, and of taking vengeance on them in return. Western observers often regarded these tales as generally not entirely accurate historical accounts, but more as self-serving myths. However, evidence shows that Inuit cultures had quite accurate methods of teaching historical accounts to each new generation.<ref name="burch">{{cite magazine |title=From Skeptic to Believer: The Making of an Oral Historian | first=Ernest S. Jr. |last=Burch |url=http://www.alaskool.org/projects/traditionalife/oralhistory/skeptic_to_believer.htm |magazine=Alaska History |volume=6 |issue=1 |date=Spring 1991}}</ref> [[Ethnic conflict|Ethnic feuds]] historically occurred between the [[Dene|Dene First Nations]] and Inuit, as witnessed by [[Samuel Hearne]] in the [[Bloody Falls massacre|1771 Bloody Falls massacre]].<ref>{{cite book|last=Hearne|first=Samuel|author-link=Samuel Hearne|title=A Journey from Prince of Wales's Fort in Hudson's Bay, to the Northern Ocean |url=https://books.google.com/books?id=V5NcAAAAcAAJ&pg=PP1|year=1795|publisher=A. Strahan and T. Cadell|location=London|pages=114–162}}</ref> In 1996, Dene and Inuit representatives participated in a healing ceremony at the massacre site to reconcile centuries-old grievances.<ref>{{cite news |url=https://www.cbc.ca/news/canada/cbc-s-david-mclauchlin-dies-at-56-1.382941 |publisher=CBC News |title=CBC's David McLauchlin dies at 56 |date=26 May 2003 |url-status=live |archive-url=https://web.archive.org/web/20080620203125/http://www.cbc.ca/canada/story/2003/05/26/mclauchlin_obit030526.html |archive-date=20 June 2008}}</ref>
+
+In western Alaska and the Bering Strait region, intertribal [[Tribal warfare|warfare]] and cross-strait [[Raid (military)|raiding]] expeditions formed part of the pre-contact history of the region.<ref name="Nelson">{{cite book |last=Nelson |first=Edward William |title=The Eskimo about Bering Strait |publisher=Smithsonian Institution |year=1899 |url=https://repository.si.edu/items/846d3b00-dafd-4ea6-8391-d362f589c934 |pages=327–330}}</ref> Raids were commonly conducted in large skin-covered boats. [[Edward William Nelson|Nelson]] described regional alliances, including one between the inhabitants of the [[Diomede Islands]] and the [[Siberia]]n coast people against groups from [[King Island (Alaska)|King Island]] and the American mainland.<ref name="Nelson"/> Coastal communities also established fortified settlements on elevated ground and maintained lookout stations to guard against attacks.<ref name="Nelson"/>
+
+The historic accounts of violence against outsiders make it clear that there was a history of hostile contact within Inuit cultures and with other cultures.<ref>{{cite book|last=Fienup-Riordan|first=Ann|title=Eskimo Essays: Yup'ik Lives and how We See Them|url=https://books.google.com/books?id=erhrp9-RHiYC&pg=PP1|year=1990|publisher=Rutgers University Press|isbn=978-0-8135-1589-2}}</ref> It also makes it clear that Inuit nations existed through history, as well as confederations of such nations. The known confederations were usually formed to defend against a more prosperous, and thus stronger, nation. Alternately, people who lived in less productive geographical areas tended to be less warlike, as they had to spend more time producing food.
+
+Justice within Inuit culture was moderated by the form of governance that gave significant power to the elders. As in most cultures around the world, justice could be harsh and often included capital punishment for serious crimes against the community or the individual. During raids against other peoples, Inuit, like their non-Inuit neighbors, tended to be merciless.<ref name="attituq">{{cite web|url=http://www.nunatsiaq.com/archives/nunavut000131/nunani.html|title=War |first=Rachel Attituq |last=Qitsualik |work=Nunatsiaq.com |access-date=24 January 2011 |archive-url=https://web.archive.org/web/20090823183025/http://www.nunatsiaq.com/archives/nunavut000131/nunani.html |archive-date=23 August 2009}}</ref>
+
+=== <span class="anchor" id="Suicide"></span> Suicide, murder, and death===
+{{further|Suicide in Greenland|Suicide in Canada#Among the Inuit|l2=Suicide among Canadian aboriginal people}}
+
+A pervasive European myth about Inuit is that they killed elderly ([[senicide]]) and "unproductive people",<ref>{{Cite journal |doi=10.3138/CHR.79.3.577 |issn=0008-3755 |issue=3 |journal=[[Canadian Historical Review]] |language=en |pages=577–610 |date=September 1998 |title=Book Reviews |volume=79}}</ref> but this is not generally true.<ref>{{cite journal |title=Senilicide and Invalidicide among the Eskimos |first=Rolf |last=Kjellstrom |journal=Folk: Dansk Etnografisk Tidsskrift |volume=16/17 |issue=1 |pages=117–124 |date=1974 |hdl=10822/767368 |url=https://www.antikvariat.net/en/cen99035-senilicide-and-invalidecide-among-eskimos-reprint-form-folk-vol-16-17-1974-75-kjellstrom}}</ref><ref>{{Cite journal |author1=Leighton, Alexander H. |author2=Hughes, Charles C. |doi=10.1086/SOUTJANTH.11.4.3628908 |id=[[WDQ (identifier)|Wikidata]]&nbsp;[[:d:Q64013807|Q64013807]] |issn=0038-4801 |issue=4 |journal=Southwestern Journal of Anthropology |language=en |pages=327–338 |publication-date=December 1955 |title=Notes on Eskimo Patterns of Suicide |volume=11}}</ref><ref>{{cite book|last=Oswalt|first=Wendell H.|title=Eskimos and Explorers|url=https://books.google.com/books?id=1qK0Hn4qsjwC&pg=PP1|edition=second|year=1999|orig-date=1979|publisher=University of Nebraska Press|isbn=0-8032-8613-9}}{{page needed|date=July 2021}}</ref> In a culture with an [[oral history]], elders are the keepers of communal knowledge, effectively the community library.<ref name="nso0">{{cite web |url=http://www.nativescience.org/html/traditional_knowledge.html |title=What is Traditional Knowledge? |publisher=Alaska Native Science Commission |access-date=5 May 2008 |archive-date=29 January 2021 |archive-url=https://web.archive.org/web/20210129022035/http://www.nativescience.org/html/traditional_knowledge.html }}</ref> Because they are of extreme value as the repository of knowledge, there are cultural [[taboo]]s against sacrificing elders.<ref>{{cite book|last=Kawagley|first=Angayuqaq Oscar|title=A Yupiaq Worldview: A Pathway to Ecology and Spirit, Second Edition|url=https://books.google.com/books?id=hdEYAAAAQBAJ&pg=PP1|edition=Second|year=2006|publisher=Waveland Press|isbn=978-1-4786-0921-6}}</ref><ref>{{cite book|title=The Eskimos|first=Ernest S.|last=Burch |publisher=University of Oklahoma Press|isbn=978-0-8061-2126-0|year=1988|page=21 |quote=Given the importance that Eskimos attached to the aged, it is surprising that so many Westerners believe that they systematically eliminated elderly people as soon as they became incapable of performing the duties related to hunting or sewing.|url=https://archive.org/details/eskimos00burc/page/21}}</ref>
+
+In [[Antoon Leenaars|Antoon A. Leenaars]]' book ''Suicide in Canada'', he states that "[[Knud Rasmussen|Rasmussen]] found that the death of elders by suicide was a commonplace among the Iglulik Inuit".{{sfnp|Leenaars|Kral|Dyck|1998|page=196}}
+
+According to [[Franz Boas]], suicide was "not of rare occurrence" and was generally accomplished through hanging.<ref>Boas, Franz (1964), p. 207){{full citation needed|date=July 2021}}</ref> Writing of the Labrador Inuit, Hawkes (1916) was considerably more explicit on the subject of suicide and the burden of the elderly:
+
+{{Blockquote |text=Aged people who have outlived their usefulness and whose life is a burden both to themselves and their relatives are put to death by stabbing or strangulation. This is customarily done at the request of the individual concerned, but not always so. Aged people who are a hindrance on the trail are abandoned. |author=Leenaars et al. |source=''Suicide in Canada''{{sfnp|Leenaars|Kral|Dyck|1998|page=195}} }}
+
+When food is not sufficient, the elderly are the least likely to survive. In the extreme case of [[famine]], Inuit fully understood that, if there was to be any hope of obtaining more food, a hunter was necessarily the one to feed on whatever food was left. However, a common response to desperate conditions and the threat of starvation was [[infanticide]].{{sfnp|Billson|Mancini|2007|p=64}}<ref>{{cite news|url=https://www.sciencenews.org/archive/female-infanticide-northern-exposure |archive-url=https://web.archive.org/web/20250804103845/https://www.sciencenews.org/archive/female-infanticide-northern-exposure |archive-date=4 August 2025 |title=Female infanticide: northern exposure |publisher=[[Science News]] |date=26 November 1994 |access-date=24 January 2011 |first=Bruce|last=Bower}}</ref> A mother abandoned an infant in hopes that someone less desperate might find and adopt the child before the cold or animals killed it. The belief that Inuit regularly resorted to infanticide may be due in part to studies done by [[Asen Balikci]],<ref>{{cite book|last=Balikci|first=Asen|title=The Netsilik Eskimo|url=https://archive.org/details/netsilikeskimo0000bali|year=1970|publisher=American Museum of Natural History|location=Garden City, New York|isbn=978-0-385-05766-0}}</ref> Milton Freeman<ref>{{Cite journal |author=Freeman, Milton M.R. |doi=10.1525/AA.1971.73.5.02A00020 |doi-access=free |id=[[WDQ (identifier)|Wikidata]]&nbsp;[[:d:Q56521444|Q56521444]] |issn=0002-7294 |issue=5 |journal=[[American Anthropologist]] |jstor=672815 |language=en |pages=1011–1018 |publication-date=October 1971 |title=A Social and Ecologic Analysis of Systematic Female Infanticide among the Netsilik Eskimo |volume=73}}</ref> and David Riches<ref>{{Cite journal |author=Riches, David |doi=10.2307/3773051 |issn=0014-1828 |issue=4 |journal=[[Ethnology (journal)|Ethnology]] |jstor=3773051 |language=en |date=October 1974 |title=The Netsilik Eskimo: A Special Case of Selective Female Infanticide |volume=13|pages=351–361 |doi-access=free }}</ref> among the Netsilik, along with the trial of [[Kikkik]].<ref>{{cite news |url=http://www.nunatsiaq.com/archives/nunavut020621/news/features/20621_1.html |title=Remembering Kikkik |work=Nunatsiaq News |date=21 June 2002 |archive-url=https://web.archive.org/web/20080607013315/http://www.nunatsiaq.com/archives/nunavut020621/news/features/20621_1.html |archive-date=7 June 2008 }}</ref><ref>{{cite web |url=https://mysteriesofcanada.com/nunavut/kikkik/ |title=Kikkik, When Justice Was Done |website=MysteriesofCanada.com |access-date=24 January 2011}}</ref> Other recent research has noted that "While there is little disagreement that there were examples of infanticide in Inuit communities, it is presently not known the depth and breadth of these incidents. The research is neither complete nor conclusive to allow for a determination of whether infanticide was a rare or a widely practiced event."<ref>{{cite book|last=Hund|first=Andrew |editor1=Brigitte Bechtold |editor2=Donna Cooper Graves|title=An Encyclopedia of Infanticide|chapter-url=https://books.google.com/books?id=Yj6acQAACAAJ&pg=PP1|year=2010|location=[[Lewiston, New York]]|publisher=[[Edwin Mellen Press]]|isbn=978-0-7734-1402-0|chapter=Inuit}}</ref> There is no agreement about the actual estimates of the frequency of newborn female infanticide in Inuit population. [[Carmel Schrire]] mentions diverse studies ranging from 15 to 80 percent.<ref>{{Cite journal |author-link=Carmel Schrire |doi=10.2307/2800072 |first1=Carmel |first2=William Lee |issn=0025-1496 |issue=2 |journal=Man |jstor=2800072 |language=en |last1=Schrire |last2=Steiger |page=161 |date=June 1974 |title=A Matter of Life and Death: An Investigation Into the Practice of Female Infanticide in the Arctic |volume=9}}</ref>
+
+Anthropologists believed that Inuit cultures routinely killed children born with physical defects because of the demands of the extreme climate. These views were changed by late 20th century discoveries of burials at an archaeological site. Between 1982 and 1994, a storm with high winds caused ocean waves to erode part of the bluffs near [[Utqiaġvik, Alaska]], and a body was discovered to have been washed out of the mud. Unfortunately, the storm claimed the body, which was not recovered. But examination of the eroded bank indicated that an ancient house, perhaps with other remains, was likely to be claimed by the next storm. The site, known as the "Ukkuqsi archaeological site", was excavated. Several frozen bodies (now known as the "frozen family") were recovered, autopsies were performed, and they were re-interred as the first burials in the then-new Imaiqsaun Cemetery south of Barrow.<ref>{{cite book|last=Hess|first=Bill|title=Gift of the Whale: The Inupiat Bowhead Hunt, a Sacred Tradition|url=https://books.google.com/books?id=nb2-rZLR95EC&pg=PP1|year=2003|publisher=Sasquatch Books|isbn=978-1-57061-382-1}}{{page needed|date=July 2021}}</ref> Years later another body was washed out of the bluff. It was a female child, approximately nine years old, who had clearly been born with a [[Congenital disorder|congenital birth defect]].<ref>{{cite web|url=http://www.echonsb.org/docs/BarrowVisitorsGuide2006.pdf|archive-url=https://web.archive.org/web/20080529083129/http://www.echonsb.org/docs/BarrowVisitorsGuide2006.pdf |archive-date=29 May 2008|title=Barrow Visitors Guide 2006|work=Touch Alaska}}</ref> This child had never been able to walk, but must have been cared for by family throughout her life.<ref name="deargirl">{{cite web|url=http://www.mnh.si.edu/arctic/html/dear_young_girl.html|title=Dear Young Girl|access-date=12 April 2008|archive-date=24 December 2015|archive-url=https://web.archive.org/web/20151224202352/http://www.mnh.si.edu/arctic//html/dear_young_girl.html}}</ref> She was the best preserved body ever recovered in Alaska, and radiocarbon dating of grave goods and of a strand of her hair all place her back to about 1200 CE.<ref name="deargirl"/>
+
+===Health===
+{{See also|Indian hospital}}
+During the 19th century, the Western Arctic suffered a population decline of close to 90 per cent, resulting from exposure to new diseases, including [[tuberculosis]], [[measles]], [[influenza]], and [[smallpox]]. Autopsies near Greenland reveal that, more commonly [[pneumonia]], [[Nephrology|kidney diseases]], [[trichinosis]], [[malnutrition]], and [[Degenerative disease|degenerative disorders]] may have contributed to mass deaths among different Inuit tribes. Inuit believed that the causes of the disease were of a spiritual origin.<ref>{{cite book|last1=Morrison|first1=David A.|last2=Germain|first2=Georges-Hébert|title=Inuit: Glimpses of an Arctic Past|url=https://books.google.com/books?id=AWd1AAAAMAAJ&pg=PP1|year=1995|publisher=Canadian Museum of Civilization|isbn=978-0-660-14038-4}}{{Page needed|date=July 2021}}</ref>
+
+Canadian churches and, eventually, the federal government ran the earliest health facilities for Inuit population, whether fully segregated hospitals or "annexes" and wards attached to settler hospitals. These "[[Indian hospital]]s" were focused on treating people for tuberculosis, though diagnosis was difficult and treatment involved forced removal of individuals from their communities for in-patient confinement in other parts of the country.
+
+Dr. Kevin Patterson, a physician, wrote an op-ed in ''[[The Globe and Mail]]'': "In October (2017) the federal Minister of Indigenous Services, Jane Philpott, announced that in 2015 tuberculosis{{spaces|1}}... Was 270 times{{spaces|1}}... More common among the Canadian Inuit than it is among non-Indigenous southern Canadians." The Canadian Medical Association Journal published in 2013 that "tuberculosis among Canadian Inuit has dramatically increased since 1997. In 2010 the incidence in Nunavut{{spaces|1}}... Was 304 per 100,000—more than 66 times the rate seen in the general population.<ref>{{cite news |first=Kevin |last=Patterson |title=Out in the cold: What the TB crisis in Nunavut reveals about Canada |work=[[The Globe and Mail]] |date=29 March 2018 |url=https://www.theglobeandmail.com/opinion/article-out-in-the-cold-what-the-tb-crisis-in-nunavut-reveals-about-canada/}}</ref>
+
+===Traditional law===
+{{Main|Inuit Qaujimajatuqangit}}
+
+[[Inuit Qaujimajatuqangit]] or Inuit traditional laws are anthropologically different from [[Western law]] concepts. [[Custom (law)|Customary law]] was thought non-existent in Inuit society before the introduction of the [[Law of Canada|Canadian legal system]]. In 1954, [[E. Adamson Hoebel]] concluded that only "rudimentary law" existed amongst Inuit. No known Western observer before 1970 was aware that any form of governance existed among any Inuit;<ref name=tpm>{{cite web|url=http://nac.nu.ca/OnlineBookSite/vol2/introduction.html |title=Tirigusuusiit, Piqujait and Maligait: Inuit Perspectives on Traditional Law |access-date=17 October 2007|publisher=Nunavut Arctic College  |archive-url=https://web.archive.org/web/20110221063926/http://nac.nu.ca/OnlineBookSite/vol2/introduction.html |archive-date=21 February 2011}}</ref> however, there was a set way of doing things that had to be followed:
+
+* ''maligait'' refers to what has to be followed
+* ''piqujait'' refers to what has to be done
+* ''tirigusuusiit'' refers to what has to be avoided
+
+If an individual's actions went against the tirigusuusiit, maligait or piqujait, the [[angakkuq]] (shaman) might have to intervene, lest the consequences be dire to the individual or the community.<ref>{{cite web|url=http://www.tradition-orale.ca/english/tirigusuusiit-and-maligait-58.html|title=Tirigusuusiit and Maligait|access-date=17 October 2007|work=Listening to our past}}</ref><ref>{{Cite book |last=Bogliolo Bruna |first=Giulia |title=Les objets messages de la pensée inuit |publisher=Institut Charles Cros / L'Harmattan (coll. "Ethique de Création") |year=2015 |location=Paris |language=French}}</ref><ref>{{Cite journal |last=Bogliolo Bruna |first=Giulia |date=2024 |title=Résister à l'oubli, les messages de l'art inuit traditionnel |journal=Apulée |volume=9 |issue=Art & politique |pages=270–282}}</ref>
+
+{{Blockquote|We are told today that Inuit never had laws or "maligait". Why? They say because they are not written on paper. When I think of paper, I think you can tear it up, and the laws are gone. The laws of the Inuit are not on paper.|Mariano Aupilaarjuk, Rankin Inlet, Nunavut|''Perspectives on Traditional Law''<ref>{{cite web|url=http://voices-unabridged.net/format/creat_ss_format.php?id_ss_article=14|title=When Survival Means Preserving Oral Traditions|access-date=17 October 2007|last=Eileen|first=Travers|date=1 January 2003|publisher=voices-unabridged.org|archive-url=https://web.archive.org/web/20110511032958/http://voices-unabridged.net/format/creat_ss_format.php?id_ss_article=14 |archive-date=11 May 2011}}</ref>}}
+
+==Traditional beliefs==
+{{See also|Inuit religion|Inuit astronomy}}
+[[File:Polarlicht.jpg|thumb|Some Inuit (including Alaska Natives) believed that the spirits of their ancestors could be seen in the [[Aurora (astronomy)|aurora borealis]]]]
+
+The environment in which Inuit lived inspired a [[mythology]] filled with adventure tales of whale and walrus hunts. Long winter months of waiting for caribou herds or sitting near breathing holes hunting seals gave birth to stories of the mysterious and sudden appearance of ghosts and fantastic creatures. Some Inuit looked into the ''[[Aurora (astronomy)|aurora borealis]]'', or northern lights, to find images of their family and friends dancing in the next life.<ref>{{cite web|url=http://www.mccord-museum.qc.ca/en/collection/artifacts/M2634?Lang=1&accessnumber=M2634|title=Aurora borealis observation journal of Sir George Back|publisher=Mccord-museum.qc.ca|access-date=24 January 2011|archive-url=https://web.archive.org/web/20160123040416/http://www.mccord-museum.qc.ca/en/collection/artifacts/M2634?Lang=1&accessnumber=M2634|archive-date=23 January 2016}}</ref> However, some Inuit believed that the lights were more sinister and if you whistled at them, they would come down and cut off your head. This tale is still told to children today.<ref name="CAAE">{{cite web|url=http://www.aurora-inn.mb.ca/borealis.html|title=The Canadian Association of Aboriginal Entrepreneurship|publisher=Aurora-inn.mb.ca|access-date=24 January 2011|archive-url=https://web.archive.org/web/20110511084622/http://www.aurora-inn.mb.ca/borealis.html |archive-date=11 May 2011}}</ref> For others they were invisible giants, the souls of animals, a guide to hunting and as a spirit for the ''[[angakkuq]]'' to help with healing.<ref name="CAAE"/><ref>{{cite book|url=https://archive.org/details/firstnationsinui0000robe|url-access=registration|page=[https://archive.org/details/firstnationsinui0000robe/page/6 6]|quote=aurora borealis Inuit.|title=First Nations, Inuit, and Métis peoples: exploring their past, present, and future|publisher=Emond Montgomery Publications|access-date=24 January 2011|isbn=978-1-55239-167-9|year=2006|last1=Roberts|first1=John A.|last2=Sproule|first2=Fredrick C.|last3=Montgomery|first3=Randy}}</ref> They relied upon the ''angakkuq'' (shaman) for spiritual interpretation. The nearest thing to a central deity was the Old Woman (''[[Sedna (mythology)|Sedna]]''), who lived beneath the sea. The waters, a central food source, were believed to contain great gods.
+
+Inuit practiced a form of shamanism based on [[Animism|animist]] principles. They believed that all things had a form of spirit, including humans, and that to some extent these spirits could be influenced by a [[Pantheon (gods)|pantheon]] of supernatural entities that could be appeased when one required some animal or inanimate thing to act in a certain way. The ''angakkuq'' of a community of Inuit was not the leader, but rather a sort of healer and [[Psychotherapy|psychotherapist]], who tended wounds and offered advice, as well as invoking the spirits to assist people in their lives. Their role was to see, interpret and exhort the subtle and unseen. ''Angakkuit'' were not trained; they were held to be born with the ability and recognized by the community as they approached adulthood.
+
+[[Inuit religion]] was closely tied to a system of rituals integrated into the daily life of the people. These rituals were simple but held to be necessary. According to a customary Inuit saying, "The great peril of our existence lies in the fact that our diet consists entirely of souls".<ref>{{cite web|url=https://www.first-nations.info/inuit-spirit-mythology.html |publisher=First-Nations.info|title=Inuit Spirit Mythology|date=21 September 2014|access-date=4 June 2021}}</ref>
+
+By believing that all things, including animals, have souls like those of humans,<ref>{{cite web|url=https://oceanwide-expeditions.com/blog/the-greenland-inuit-s-belief-of-soul-and-body|title=Greenlandic Inuit Beliefs|publisher=Aurora-inn.mb.ca|access-date=4 June 2021|last=Brears|first=Robert C.}}</ref> any hunt that failed to show appropriate respect and customary supplication would only give the liberated spirits cause to avenge themselves.
+
+The harshness and unpredictability of life in the Arctic ensured that Inuit lived with concern for the uncontrollable, where a streak of bad luck could destroy an entire community. To offend a spirit was to risk its interference with an already marginal existence. Inuit understood that they had to work in harmony with supernatural powers to provide the necessities of day-to-day life.
+
+==Demographics==
+In total, there are about 155,000 Inuit living in four countries, Canada, Greenland, Denmark and the United States.<ref name="canada2021">{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&DGUID=2021A000011124&GENDER=1&AGE=1&RESIDENCE=1&HP=0&HH=0&SearchText=Canada |title=Indigenous Population Profile, 2021 Census of Population Profile table: Canada [Country]|publisher=[[Statistics Canada]], [[Government of Canada]] |date=8 June 2023 |access-date=12 June 2025|website=www12.statcan.gc.ca}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Nunavut&DGUID=2021A000262&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Nunavut [Territory] |publisher=Statistics Canada |date=8 June 2023 |access-date=12 June 2025|website=www12.statcan.gc.ca}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Quebec&DGUID=2021A000224&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Quebec [Province] |publisher=Statistics Canada |date=8 June 2023 |access-date=12 June 2025|website=www12.statcan.gc.ca}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Newfoundland%20and%20Labrador&DGUID=2021A000210&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Newfoundland and Labrador [Province] |publisher=Statistics Canada |date=8 June 2023 |access-date=12 June 2025|website=www12.statcan.gc.ca}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Ontario&DGUID=2021A000235&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Ontario [Province] |publisher=Statistics Canada |date=8 June 2023 |access-date=12 June 2025|website=www12.statcan.gc.ca}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Northwest%20Territories&DGUID=2021A000261&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Northwest Territories [Territory] |publisher=Statistics Canada |date=8 June 2023 |access-date=12 June 2025|website=www12.statcan.gc.ca}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Alberta&DGUID=2021A000248&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Alberta [Province] |publisher=Statistics Canada |date=8 June 2023 |access-date=12 June 2025|website=www12.statcan.gc.ca}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=British%20Columbia&DGUID=2021A000259&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: British Columbia [Province] |publisher=Statistics Canada |date=8 June 2023 |access-date=12 June 2025|website=www12.statcan.gc.ca}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Nova%20Scotia&DGUID=2021A000212&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Nova Scotia [Province] |publisher=Statistics Canada |date=8 June 2023 |access-date=12 June 2025|website=www12.statcan.gc.ca}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Manitoba&DGUID=2021A000246&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Manitoba [Province] |publisher=Statistics Canada |date=8 June 2023 |access-date=12 June 2025|website=www12.statcan.gc.ca}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=New%20Brunswick&DGUID=2021A000213&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: New Brunswick [Province] |publisher=Statistics Canada |date=8 June 2023 |access-date=12 June 2025|website=www12.statcan.gc.ca}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Saskatchewan&DGUID=2021A000247&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Saskatchewan [Province] |publisher=Statistics Canada |date=8 June 2023 |access-date=12 June 2025|website=www12.statcan.gc.ca}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Yukon&DGUID=2021A000260&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Yukon [Territory] |publisher=Statistics Canada |date=8 June 2023 |access-date=12 June 2025|website=www12.statcan.gc.ca}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Prince%20Edward%20Island&DGUID=2021A000211&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Prince Edward Island [Province] |publisher=Statistics Canada |date=8 June 2023 |access-date=12 June 2025|website=www12.statcan.gc.ca}}</ref><ref name="geinu"/><ref name="dkinu"/><ref name="usinu"/>
+{| class="wikitable sortable mw-collapsible"
+|+Inuit demographics by region
+!Country
+!Region
+!data-sort-type=number |Inuit population
+!data-sort-type=number |Inuit population<br />concentration<br />[of total Inuit]
+!Inuit territory
+!Notes and references
+|-
+| rowspan="13" | Canada<br />(70,540<ref name="canada2021"/>)
+|[[Nunavut]]
+| align=right| 30,865
+| align=right| {{percentage|30865|36600|2}} [{{percentage|30865|70450|2}}]
+|[[Inuit Nunangat]]
+|<ref name="canada2021"/>
+|-
+|[[Quebec]]
+| align=right| 15,800
+| align=right| {{percentage|15500|8308480|2}} [{{percentage|15800|70450|2}}]
+|[[Nunavik]]<br />([[Inuit Nunangat]])
+|12,595 or {{percentage|12595|15800|2}} of the population lives in Nunavik<ref name="canada2021"/><ref name="Inuit Nunangat">
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Inuvialuit%20region&DGUID=2021C1005086&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Inuvialuit region [Inuit region], Northwest Territories |date=8 June 2023 |access-date=12 June 2025 |publisher=Statistics Canada}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Nunatsiavut&DGUID=2021C1005083&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Nunatsiavut [Inuit region], Newfoundland and Labrador |date=8 June 2023 |access-date=12 June 2025 |publisher=Statistics Canada}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Nunavik&DGUID=2021C1005084&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Nunavik [Inuit region], Quebec |date=8 June 2023 |access-date=12 June 2025 |publisher=Statistics Canada}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Nunavut&DGUID=2021A000262&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Nunavut [Territory] |publisher=Statistics Canada |date=8 June 2023 |access-date=12 June 2025|website=www12.statcan.gc.ca}}
+*{{cite web|url=https://irc.inuvialuit.com/lands/ |title=Inuvialuit Lands |publisher=Inuvialuit Regional Corporation |access-date=12 June 2025}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Whitehorse&DGUID=2021S0504990&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Whitehorse, Census agglomeration [Census agglomeration], Yukon |date=8 June 2023 |access-date=12 June 2025 |publisher=Statistics Canada}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Dawson&DGUID=2021A00056001029&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Dawson, Town [Census subdivision], Yukon |date=8 June 2023 |access-date=12 June 2025 |publisher=Statistics Canada}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Watson%20Lake&DGUID=2021A00056001003&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Watson Lake, Town [Census subdivision], Yukon |date=8 June 2023 |access-date=12 June 2025 |publisher=Statistics Canada}}
+*{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/details/page.cfm?Lang=E&SearchText=Champagne%20and%20Aishihik%20First%20Nations&DGUID=2021C1005471&GENDER=1&AGE=1&HP=0&HH=0 |title=Indigenous Population Profile, 2021 Census of Population Profile table: Champagne and Aishihik First Nations [First Nation or Indian band or Tribal Council area], Yukon |date=8 June 2023 |access-date=12 June 2025 |publisher=Statistics Canada}}</ref>
+|-
+|[[Newfoundland and Labrador]]
+| align=right| 7,330
+| align=right| {{percentage|7330|502095|2}} [{{percentage|7330|70450|2}}]
+|[[Nunatsiavut]]<br />([[Inuit Nunangat]])
+|2,090 or {{percentage|2090|7330|2}} of the population lives in Nunatsiavut<ref name="canada2021"/><ref name="Inuit Nunangat"/>
+|-
+|[[Ontario]]
+| align=right| 4,310
+| align=right| {{percentage|4310|14031755|2}} [{{percentage|4310|70450|2}}]
+|No
+|<ref name="canada2021"/>
+|-
+|[[Northwest Territories]]
+| align=right| 4,155
+| align=right| {{percentage|4155|40380|2}} [{{percentage|4115|70450|2}}]
+|{{nowrap|[[Inuvialuit Settlement Region]]}}<br />([[Inuit Nunangat]])
+|3,145 or {{percentage|3145|4155|2}} live in the Inuvialuit Settlement Region<ref name="canada2021"/><ref name="Inuit Nunangat"/>
+|-
+|[[Alberta]]
+| align=right| 2,950
+| align=right| {{percentage|2950|4177720|2}} [{{percentage|2950|70450|2}}]
+|No
+|<ref name="canada2021"/>
+|-
+|[[British Columbia]]
+| align=right| 1,720
+| align=right| {{percentage|1720|4915940|2}} [{{percentage|1720|70450|2}}]
+|No
+|<ref name="canada2021"/>
+|-
+|[[Nova Scotia]]
+| align=right| 1,100
+| align=right| {{percentage|1100|955855|2}} [{{percentage|1100|70450|2}}]
+|No
+|<ref name="canada2021"/>
+|-
+|[[Manitoba]]
+| align=right| 730
+| align=right| {{percentage|730|1307190|2}} [{{percentage|730|70450|2}}]
+|No
+|<ref name="canada2021"/>
+|-
+|[[New Brunswick]]
+| align=right| 685
+| align=right| {{percentage|685|759195|2}} [{{percentage|685|70450|2}}]
+|No
+|<ref name="canada2021"/>
+|-
+|[[Saskatchewan]]
+| align=right| 460
+| align=right| {{percentage|460|1103200|2}} [{{percentage|460|70450|2}}]
+|No
+|<ref name="canada2021"/>
+|-
+|[[Yukon]]
+| align=right| 260
+| align=right| {{percentage|260|39585|2}} [{{percentage|260|70450|2}}]
+|[[Inuvialuit Settlement Region]]<br />([[Inuit Nunangat]])
+|There are no Inuit communities in the Inuvialuit Settlement Region. As of 2021 there were 220 Inuit in the [[Whitehorse]] [[Census geographic units of Canada#Census agglomerations|census agglomeration]], 15 in [[Dawson City]] and 10 each in [[Watson Lake, Yukon|Watson Lake]] and [[Champagne and Aishihik First Nations]]<ref name="canada2021"/><ref name="Inuit Nunangat"/>
+|-
+|[[Prince Edward Island]]
+| align=right| 180
+| align=right| {{percentage|180|150485|2}} [{{percentage|180|70450|2}}]
+|No
+|<ref name="canada2021"/>
+|-
+| rowspan="5" | Greenland<br />(50,878<ref name="geinu"/>)
+|[[Sermersooq]]
+| align=right| 23,416
+| align=right| 95.20% (90.44%)
+|Yes
+|<ref name=":1" />
+|-
+|[[Avannaata]]
+| align=right| 10,693
+| align=right| 92.14% (87.53%)
+|Yes
+|<ref name=":1" />
+|-
+|[[Qeqqata]]
+| align=right| 9,252
+| align=right| 98.10% (93.20%)
+|Yes
+|<ref name=":1" />
+|-
+|[[Qeqertalik]]
+| align=right| 6,284
+| align=right| 98.56% (93.63%)
+|Yes
+|<ref name=":1" />
+|-
+|[[Kujalleq]]
+| align=right| 6,266
+| align=right| 96.28% (91.47%)
+|Yes
+|<ref name=":1" />
+|-
+| rowspan="5" | Denmark<br />(17,067<ref name="dkinu"/>)
+|[[Capital Region of Denmark|Hovedstaden]]
+| align=right| 5,498
+| align=right| 0.31%
+|No
+|<ref name=":3">"Grønlænderebosiddende i Danmark" (PDF). The North Atlantic Group in the Danish Parliament. 1 January 2006. Archived (PDF) from the original on 30 October 2020. Retrieved 3 October 2020.</ref>
+|-
+|[[Region of Southern Denmark|Syddanmark]]
+| align=right| 4,411
+| align=right| 0.34%
+|No
+|<ref name=":3" />
+|-
+|[[Central Denmark Region|Midtjylland]]
+| align=right| 3,822
+| align=right| 0.33%
+|No
+|<ref name=":3" />
+|-
+|[[Region Zealand|Sjælland]]
+| align=right| 2,664
+| align=right| 0.33%
+|No
+|<ref name=":3" />
+|-
+|[[North Jutland Region|Nordjylland]]
+| align=right| 2,168
+| align=right| 0.44%
+|No
+|<ref name=":3" />
+|-
+| rowspan="2" | United States<br />(16,581<ref name="usinu"/>)
+|[[Alaska]]
+| align=right| 14,718
+| align=right| 2.00%
+|Yes
+|<ref name="usinu" /><ref name="akinu" />
+|-
+|[[Washington (state)|Washington]]
+| align=right| 1,863
+| align=right| 0.02%
+|No
+|<ref name="usinu" /><ref name="seattle" />
+|}
+
+===Canada===
+
+Canadian Inuit{{anchor|Canadian_Inuit}} live throughout much of [[Northern Canada]]. The [[Provinces and territories of Canada|territory]] of Nunavut is most associated with their culture and history, while significant populations also inhabit [[Nunavik]] in the northern third of Quebec, [[Nunatsiavut]] in Labrador, and in the Northwest Territories and Yukon, particularly around the [[Arctic Ocean]] in the [[Inuvialuit Settlement Region]] (ISR).{{efn|name=fn1|The [[Inuvialuit Settlement Region]] (ISR) also includes the Yukon North Slope in the territory of [[Yukon]], which is relatively small compared with the ISR in Northwest Territories and has no communities living within it—but is part of traditional and current Inuvialuit hunting, trapping, fishing, etc. grounds.}} These areas are known, by [[Inuit Tapiriit Kanatami]] and the [[Government of Canada]], as [[Inuit Nunangat]].<ref name="inuitnuna">{{cite web|url=https://www.rcaanc-cirnac.gc.ca/eng/1650556354784/1650556491509 |title=Inuit Nunangat Policy |date=26 May 2025 |access-date=12 June 2025 |publisher=[[Crown–Indigenous Relations and Northern Affairs Canada]] |website=www.rcaanc-cirnac.gc.ca}}</ref><ref>{{cite web |date=5 September 2008 |title=Maps of Inuit Nunangat (Inuit Regions of Canada) |url=https://www.itk.ca/maps-of-inuit-nunangat/ |url-status=live |archive-url=https://web.archive.org/web/20210414051301/https://www.itk.ca/maps-of-inuit-nunangat/ |archive-date=14 April 2021 |publisher=[[Inuit Tapiriit Kanatami]]}}</ref> In Canada, [[Section 25 of the Canadian Charter of Rights and Freedoms|sections 25]] and [[Section 35 of the Constitution Act, 1982|35]] of the [[Constitution Act, 1982|Constitution Act of 1982]] classify Inuit as a distinctive group of Aboriginal Canadians who are not included under either the [[First Nations in Canada|First Nations]] or the [[Métis]].<ref name="defe">{{cite web |date=30 June 2021 |title=Aboriginal rights and freedoms not affected by Charter |url=https://laws-lois.justice.gc.ca/eng/Const/page-12.html |website=[[Constitution Act, 1982]] |publisher=[[Department of Justice (Canada)]] |quote=[T]his Charter of certain rights and freedoms shall not be construed so as to abrogate or derogate from any aboriginal, treaty or other rights or freedoms that pertain to the aboriginal peoples of Canada.}}</ref><ref name="s35">{{cite web |date=30 June 2021 |title=Rights of the Aboriginal Peoples of Canada |url=https://laws-lois.justice.gc.ca/eng/Const/page-13.html?txthl=inuit#s-35 |website=Constitution Act, 1982 |publisher=[[Department of Justice (Canada)]] |quote=In this Act, aboriginal peoples of Canada includes the Indian, Inuit and Métis peoples of Canada.}}</ref>
+
+{{As of|2021|alt=As of the [[2021 Canadian census]]}}, there were 70,540 people identifying as Inuit living in Canada.<ref name="canada2021"/> This was up {{percentage|{{#expr:70540-65025}}|65025|1|% = &nbsp;per cent}} from the [[2016 Canadian census]] count of 65,025 people. Over two thirds (48,695 people or {{percentage|48695|70540|1|% = &nbsp;per cent|pad=yes}}) of Inuit lived in one of the four regions comprising [[Inuit Nunangat]] (Nunavut, Nunavik, Nunatsiavut, and the Inuvialuit Settlement Region) and 21,810 people or {{percentage|21810|70540|1|% = &nbsp;per cent}}. From 2016 to 2021, the Inuit population grew by {{percentage|{{#expr:48695-47330}}|47330|1|% = &nbsp;per cent}} inside Inuit Nunangat and {{percentage|{{#expr:21810-17695}}|17695|1|% = &nbsp;per cent}} outside of the Inuit homelands.<ref name="canada2021"/><ref name=caninu>{{cite web |date=2 July 2019 |title=Inuit population by residence inside or outside Inuit Nunangat, 2016 |url=https://www150.statcan.gc.ca/n1/daily-quotidien/171025/mc-a001-eng.htm |website=Awww150.statcan.gc.ca |access-date=12 June 2025 |publisher=Statistics Canada}}</ref>
+
+The largest population of Inuit in Canada {{as of|2021|lc=y}} live in [[Nunavut]] with 30,865 Inuit out of a total population of 36,858 residents. In Nunavut, Inuit population forms a majority in all communities and is the only [[Provinces and territories of Canada|jurisdiction of Canada]] where Indigenous peoples form a majority. Between 2016 and 2021, the Inuit population of Nunavut grew by {{percentage|{{#expr:30865-30135}}|30135|1|% = &nbsp;per cent}}<ref name="canada2021"/><ref name="Inuit Nunangat"/><ref name=StatCan2021>{{cite web |url=https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000101 |title=Population and dwelling counts: Canada, provinces and territories |publisher=Statistics Canada |date=12 June 2022 |access-date=12 June 2022 |archive-date=9 February 2022 |archive-url=https://web.archive.org/web/20220209134802/https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000101 |url-status=live }}</ref>
+
+{{As of|2021}}, there were 15,800 Inuit living in [[Quebec]]. The majority, about 12,595, live in [[Nunavik]]. Inuit population of Nunavik grew {{percentage|{{#expr:12595-11795}}|11795|1|% = &nbsp;per cent}} between the 2016 and 2021 censuses. This was the fastest growth among all four regions of Inuit Nunangat.<ref name="canada2021"/><ref name="Inuit Nunangat"/>
+
+{{As of|2021|alt=The 2021}} Canadian census found there were 7,330 Inuit living in [[Newfoundland and Labrador]] including 2,090 who live in [[Nunatsiavut]]. In Nunatsiavut, the Inuit population showed a decrease of {{percentage|{{#expr:2090-2285}}|2285|1|% = &nbsp;per cent}} between 2016 and 2021.<ref name="canada2021"/><ref name="Inuit Nunangat"/>
+
+{{As of|2021}}, there were 4,155 Inuit living in the [[Northwest Territories]]. The majority, 3,145, live in the six communities of the [[Inuvialuit Settlement Region]]. Inuit population growth in the Inuvialuit Settlement Region was {{percentage|{{#expr:3145-3110}}|3110|1|% = &nbsp;per cent}} between 2016 and 2021.<ref name="canada2021"/><ref name="Inuit Nunangat"/>
+
+Outside of Inuit Nunangat, Inuit population was 21,810 {{as of|2021|lc=y}}. This was a growth of {{percentage|{{#expr:21810-17695}}|17695|1|% = &nbsp;per cent}} between the 2016 and 2021 censuses. Of those Inuit living outside of Inuit Nunangat {{percentage|7205|21810|1|% = &nbsp;per cent|pad=yes}} lived in [[Atlantic Canada]] ({{percentage|5240|21810|1|% = &nbsp;per cent|pad=yes}} in [[Newfoundland and Labrador]]), {{percentage|4310|21810|1|% = &nbsp;per cent}} lived in [[Ontario]], {{percentage|4140|21810|1|% = &nbsp;per cent|pad=yes}} live in the [[Canadian Prairies]], {{percentage|3205|21810|1|% = &nbsp;per cent}} lived in [[Quebec]], {{percentage|1720|21810|1|% = &nbsp;per cent}} lived in [[British Columbia]] and {{percentage|1230|21810|1|% = &nbsp;per cent}} in the [[Northwest Territories]] and [[Yukon]].<ref name="canada2021"/><ref name="Inuit Nunangat"/>
+
+Included in the population of Newfoundland and Labrador outside of Inuit Nunangat is the unrecognized Inuit territory of [[NunatuKavut]] where about 6,000 [[NunatuKavummiut]] (formerly known as "Labrador-metis") reside in southern [[Labrador]].<ref>{{cite web |title=Who We Are |url=https://nunatukavut.ca/about/who-we-are/ |website=Nunatukavut.ca |access-date=15 July 2021|archive-url=https://web.archive.org/web/20200301205411/https://nunatukavut.ca/about/who-we-are/|archive-date=1 March 2020}}</ref> The numbers are not projected to rise in any significant way because of the enrollment requirements, which require proof of Inuit ancestry and demonstrated connection with NunatuKavut society.<ref>{{cite web |title=NunatuKavut Constitution |url=https://nunatukavut.ca/wp-content/uploads/2025/07/Constitution-of-the-NunatuKavut-Inuit.pdf |access-date=4 March 2026}}</ref>
+
+{| class="wikitable sortable" style="text-align:right"
+|+Inuit population in Canada by region in selected censuses
+!Province / territory
+![[1931 Canadian census|1931]]<ref>{{cite report|title=Seventh Census of Canada 1931: Volume III |pages=148–180|url=https://publications.gc.ca/collections/collection_2017/statcan/CS98-1931-3.pdf|publisher=Government of Canada|access-date=16 January 2025}}</ref>
+![[1941 Canadian census|1941]]<ref name="Goldman1993">{{Cite report |title=The Aboriginal Population and the Census: 120 Years of Information – 1871 to 1991 |date=24 August 1993 |url=https://publications.gc.ca/collections/collection_2016/statcan/CS91-0045-1993-eng.pdf |last=Goldman |first=Gustave |access-date=16 January 2025}}</ref>
+![[1951 Canadian census|1951]]
+![[1961 Canadian census|1961]]
+![[1971 Canadian census|1971]]
+![[1981 Canadian census|1981]]
+![[1996 Canadian census|1996]]
+![[2011 Canadian census|2011]]<ref name="2011nhsprofile">{{cite web |title=2011 National Household Survey Aboriginal Population Profile |url=https://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/aprof/index.cfm?Lang=E |website=Statistics Canada |access-date=17 January 2025 |date=13 November 2013}}</ref>
+![[2016 Canadian census|2016]]<ref name="2016canprofile">{{cite web |title=Aboriginal Population Profile, 2016 Census |url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/abpopprof/index.cfm?Lang=E |website=Statistics Canada |publisher=Government of Canada |access-date=17 January 2025 |language=en |date=18 July 2018}}</ref>
+![[2021 Canadian census|2021]]<ref name="canada2021"/>
+|-
+| [[Newfoundland and Labrador]]
+| —{{efn|1=Newfoundland and Labrador did not enter confederation until 1 April 1949|name=nfld}}
+| —{{efn|name=nfld}}
+| 769
+| 815
+| 1055
+| 1850
+| 4,265
+| 6,265
+| 6,450
+| 7,330
+|-
+| align=left| [[Prince Edward Island]]
+| 0
+| 0
+| 0
+| 0
+| 0
+| 30
+| 15
+| 55
+| 75
+| 180
+|-
+| align=left| [[Nova Scotia]]
+| 0
+| 4
+| 3
+| 4
+| 20
+| 130
+| 210
+| 695
+| 790
+| 1,100
+|-
+| align=left| [[New Brunswick]]
+| 0
+| 0
+| 0
+| 0
+| 5
+| 5
+| 120
+| 485
+| 385
+| 685
+|-
+| align=left| [[Quebec]]
+| 1,159
+| 1,778
+| 1,989
+| 2,467
+| 3,755
+| 4,875
+| 8,300
+| 12,570
+| 13,945
+| 15,800
+|-
+| align=left| [[Ontario]]
+| 0
+| 3
+| 18
+| 212
+| 760
+| 1,095
+| 1,300
+| 3,360
+| 3,860
+| 4,310
+|-
+| align=left| [[Manitoba]]
+| 62
+| 1
+| 26
+| 208
+| 130
+| 230
+| 360
+| 580
+| 605
+| 730
+|-
+| align=left| [[Saskatchewan]]
+| 0
+| 4
+| 3
+| 2
+| 75
+| 145
+| 190
+| 295
+| 360
+| 460
+|-
+| align=left| [[Alberta]]
+| 3
+| 4
+| 47
+| 85
+| 135
+| 515
+| 795
+| 1,985
+| 2,495
+| 2,950
+|-
+| align=left| [[British Columbia]]
+| 0
+| 7
+| 26
+| 25
+| 210
+| 510
+| 815
+| 1,570
+| 1,615
+| 1,720
+|-
+| align=left| [[Yukon]]
+| 85
+| 0
+| 30
+| 40
+| 10
+| 95
+| 110
+| 180
+| 225
+| 260
+|-
+| align=left| [[Northwest Territories]]
+| 4,670
+| 5,404
+| 6,822
+| 7,977
+| 11,400
+| 15,910
+| 24,600
+| 4,335 {{efn|name=nunavutest}}
+| 4,080
+| 4,155
+|-
+| align=left| [[Nunavut]]
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| 27,070 {{efn|1=Nunavut officially separated from the Northwest Territories on 1 April 1999, providing the Inuit with a self-governing territory.|name=nunavutest}}
+| 30,135
+| 30,865
+|-
+! Canada total
+! 5,979
+! 7,205
+! 9,733
+! 11,835
+! 17,555
+! 25,390
+! 41,080
+! 59,440
+! 65,025
+! 70,540 
+|}
+
+===Greenland===
+{{main|Greenlandic Inuit}}
+
+[[Greenlandic Inuit]], also known as Kalaallit, are descendants of [[Thule people|Thule]] migrations from Canada by 1100 CE.<ref name=":0">{{Cite journal |doi=10.2307/281966 |first=Robert W. |issn=0002-7316 |issue=2 |journal=[[American Antiquity]] |jstor=281966 |language=en |last=Park |date=April 1993 |title=The Dorset-Thule Succession in Arctic North America: Assessing Claims for Culture Contact |volume=58 |pages=203–234 |bibcode=1993AmAnt..58..203P }}</ref> Although Greenland [[Withdrawal of Greenland from the European Communities|withdrew from the European Communities]] in 1985, Inuit of Greenland are Danish citizens and, as such, remain [[citizens of the European Union]].<ref>{{cite web |title=The Greenland Treaty of 1985 |url=http://eu.nanoq.gl/Emner/EuGl/The%20Greenland%20Treaty.aspx |archive-url=https://web.archive.org/web/20140416110747/http://eu.nanoq.gl/Emner/EuGl/The%20Greenland%20Treaty.aspx |archive-date=16 April 2014 |access-date=24 June 2016}}</ref><ref>{{cite web |title=The Greenland Treaty of 1985 |url=https://naalakkersuisut.gl/en/Naalakkersuisut/Greenland-Representation-to-the-EU/European-Union-and-Greenland/The-Greenland-Treaty-of-1985 |url-status=live |archive-url=https://web.archive.org/web/20160317000602/https://naalakkersuisut.gl/en/Naalakkersuisut/Greenland-Representation-to-the-EU/European-Union-and-Greenland/The-Greenland-Treaty-of-1985 |archive-date=17 March 2016 |access-date=20 January 2021}}</ref><ref>{{cite web |title=Overseas Countries and Territories (OCTs) |url=https://eur-lex.europa.eu/summary/glossary/overseas_countries_and_territories.html |url-status=live |archive-url=https://web.archive.org/web/20151225234728/https://eur-lex.europa.eu/summary/glossary/overseas_countries_and_territories.html |archive-date=25 December 2015 |access-date=20 January 2021}}</ref> In the United States, the Alaskan [[Iñupiat]] are traditionally located in the [[Northwest Arctic Borough]], on the [[Alaska North Slope]], the [[Bering Strait]] and on [[Little Diomede Island]]. In Russia, a few pockets of [[diaspora]] communities of Russian Iñupiat from [[Big Diomede|Big Diomede Island]], of which inhabitants were removed to the Russian mainland, remain in the Bering Strait coast of the Chukotka Autonomous Okrug, particularly in [[Uelen]], [[Lavrentiya]], and [[Lorino, Chukotka Autonomous Okrug|Lorino]].
+
+According to a 2024 estimate in the ''[[Central Intelligence Agency|CIA]] [[The World Factbook|World Factbook]]'', Inuit population of Greenland is 88 per cent (50,878) out of a total of 57,751 people.<ref name="geinu">{{cite web |url = https://www.cia.gov/the-world-factbook/countries/greenland/ |archive-url = https://web.archive.org/web/20260113143011/https://www.cia.gov/the-world-factbook/countries/greenland/ |url-status = dead |archive-date = 13 January 2026 |title = The World Factbook (Greenland) |website = [[Central Intelligence Agency]] |year = 2018 }}</ref> Like Nunavut, the population lives throughout the habitable areas of the region.
+
+===Denmark===
+The population size of [[Greenlandic people in Denmark]] varies from source to source between 15,000 and 20,000. According to 2023 figures from [[Statistics Denmark]], there are 17,067 people residing in Denmark of Greenlandic Inuit ancestry.<ref name="dkinu">{{cite web |url =https://www.statistikbanken.dk/BEF5G |title = Statistikbanken |website = [[Statistics Denmark]] |year = 2018 |access-date = 22 July 2018}}</ref> Most travel to Denmark for educational purposes, and many remain after finishing their education,<ref name="gebra">{{cite web |url = http://www.thelocal.dk/20150330/greenland-brain-drain-as-young-leave-for-denmark |title = Greenland: Brain drain to Denmark |date =30 March 2015 |access-date =25 January 2016}}</ref> which results in the population being mostly concentrated in the big four educational cities of [[Copenhagen]], [[Aarhus]], [[Odense]], and [[Aalborg]], which all have vibrant Greenlandic communities and cultural centers (Kalaallit Illuutaat).
+
+===United States===
+According to the [[2000 United States census]] there were a total of 16,581 Inuit / Inupiat living throughout the country.<ref name="usinu">{{cite web |url = https://www.census.gov/population/www/cen2000/briefs/phc-t18/tables/tab001.xls |format = xls |title = Table 1: American Indian and Alaska Native Alone and Alone or in Combination Population by Tribe for the United States: 2000 |website = [[United States Census Bureau]] |year = 2000 |access-date =13 November 2018|archive-url=https://web.archive.org/web/20200801210624/https://www.census.gov/population/www/cen2000/briefs/phc-t18/tables/tab001.xls |archive-date=1 August 2020}}</ref> The majority, about 14,718, live in the state of [[Alaska]].<ref name="akinu">{{cite web |url = https://www.census.gov/population/www/cen2000/briefs/phc-t18/tables/tab016.xls |format = xls |title = Table 16: American Indian and Alaska Native Alone and Alone or in Combination Population by Tribe for Alaska: 2000 |website = [[United States Census Bureau]] |year = 2000 |access-date =20 October 2013|archive-url=https://web.archive.org/web/20160120224826/https://www.census.gov/population/www/cen2000/briefs/phc-t18/tables/tab016.xls|archive-date=20 January 2016}}</ref> According to 2019-based [[U.S. Census Bureau]] data, there are 700 Alaskan Natives in [[Seattle]], many of whom are Inuit and [[Yupik peoples|Yupik]], and almost 7,000 in [[Washington state]].<ref name="seattle">{{cite web |url = https://suburbanstats.org/race/washington/seattle/how-many-alaska-native-tribes-people-live-in-seattle-washington|title =Current Alaska Native Tribes Population demographics in Seattle, Washington 2020, 2019 by gender and age
+ |publisher= [[U.S. Census Bureau]] and SuburbanStats.org}}</ref><ref name="wa">{{cite web |url = https://suburbanstats.org/race/washington/how-many-alaska-native-tribes-people-live-in-washington|title =Current Alaska Native Tribes Population demographics in Washington 2020, 2019 by gender and age
+|publisher= [[U.S. Census Bureau]] and SuburbanStats.org}}</ref>
+
+==Governance==
+[[File:Inuit conf map.png|thumb|Inuit Circumpolar Council members]]
+
+The [[Inuit Circumpolar Council]] is a [[United Nations]]–recognized [[non-governmental organization]] (NGO), which defines its constituency as Canada's Inuit and [[Inuvialuit]], Greenland's [[Kalaallit Inuit]], Alaska's [[Inupiat]] and [[Yup'ik]], and Russia's [[Siberian Yupik]],<ref name="ICCcharter">{{cite web|publisher=[[Inuit Circumpolar Council]]|url=https://www.inuitcircumpolar.com/icc-international/icc-charter/ |title=Inuit Circumpolar Council Charter|date=3 January 2019 |access-date=16 January 2024}}</ref> despite the last two neither speaking an Inuit dialect<ref name="kaplanold"/> or considering themselves "Inuit". Nonetheless, it has come together with other circumpolar cultural and political groups to promote Inuit and other northern people in their fight against [[ecology|ecological]] problems such as [[climate change]] which disproportionately affects Inuit population. The Inuit Circumpolar Council is one of the six group of Arctic Indigenous peoples that have a seat as a so-called "Permanent Participant" on the [[Arctic Council]],<ref>See: [http://www.arctic-council.org/ Arctic Council]</ref> an international high level forum in which the eight Arctic Countries (United States, Canada, Russia, Denmark, Iceland, Norway, Sweden and Finland) discuss Arctic policy. On 12 May 2011, Greenland's Prime Minister [[Kuupik Kleist]] hosted the ministerial meeting of the Arctic Council, an event for which the American Secretary of State [[Hillary Clinton]] came to Nuuk, as did many other high-ranking officials such as Russian Foreign Minister [[Sergei Lavrov]], Swedish Foreign Minister [[Carl Bildt]] and Norwegian Foreign Minister [[Jonas Gahr Støre]]. At that event they signed the Nuuk Declaration.<ref>{{cite web |url=http://arctic-council.org/filearchive/nuuk_declaration_2011_signed_copy-1..pdf |title=Nuuk Declaration |archive-url=https://web.archive.org/web/20111016021822/http://arctic-council.org/filearchive/nuuk_declaration_2011_signed_copy-1..pdf |archive-date=16 October 2011}}</ref>
+
+===Canada===
+{{See also|Nunavut|Nunavik|Nunatsiavut|Nunangit}}
+[[File:Map-regions-inuit.jpg|thumb|Regions of Inuit Nunangat]]
+
+While [[Inuit Nunangat]] is within Canada, and the [[Inuit Tapiriit Kanatami]] oversees only the four official regions, there remains the unrecognized [[NunatuKavut]] in southern Labrador.
+
+The [[Inuvialuit]] are western Canadian Inuit who remained in the Northwest Territories when Nunavut split off. They live primarily in the Mackenzie River delta, on [[Banks Island]], and parts of [[Victoria Island (Canada)|Victoria Island]] in the Northwest Territories. They are officially represented by the Inuvialuit Regional Corporation and, in 1984, received a comprehensive land claims settlement, the first in Northern Canada, with the signing of the Inuvialuit Final Agreement.<ref>{{cite web|url=http://www.irc.inuvialuit.com/about/finalagreement.html|title=Inuvialuit Final Agreement|publisher=Irc.inuvialuit.com|date=5 June 1984|access-date=24 January 2011|archive-date=10 February 2012|archive-url=https://web.archive.org/web/20120210184606/http://www.irc.inuvialuit.com/about/finalagreement.html}}</ref>
+
+The TFN worked for ten years and, in September 1992, came to a final agreement with the Government of Canada. This agreement called for the separation of the Northwest Territories into an eastern territory whose Aboriginal population would be predominately Inuit,<ref>{{cite web|url=http://www12.statcan.ca/english/profil01/AP01/details/Page.cfm?Lang=E&Geo1=PR&Code1=62&Geo2=PR&Code2=01&Data=Count&SearchText=Nunavut&SearchType=Begins&SearchPR=01&B1=All&Custom=All|title=Aboriginal identity population in 2001|publisher=2.statcan.ca|date=21 January 2003|access-date=24 January 2011|archive-date=13 December 2007|archive-url=https://web.archive.org/web/20071213064709/http://www12.statcan.ca/english/profil01/AP01/details/Page.cfm?Lang=E&Geo1=PR&Code1=62&Geo2=PR&Code2=01&Data=Count&SearchText=Nunavut&SearchType=Begins&SearchPR=01&B1=All&Custom=All}}</ref> the future Nunavut, and a rump Northwest Territories in the west. It was the largest [[Comprehensive land claim|land claim]] agreement in Canadian history. In November 1992, the ''Nunavut Final Agreement'' was approved by nearly 85 per cent of Inuit of what would become Nunavut. As the final step in this long process, the ''[[Nunavut Land Claims Agreement]]'' was signed on 25 May 1993, in Iqaluit by Prime Minister [[Brian Mulroney]] and by Paul Quassa, the president of [[Nunavut Tunngavik Incorporated]], which replaced the TFN with the ratification of the Nunavut Final Agreement. The [[Parliament of Canada|Canadian Parliament]] passed the supporting legislation in June of the same year, enabling the 1999 establishment of Nunavut as a territorial entity.
+
+===Greenland===
+{{See also|Kalaallit|History of Greenland}}
+
+In 1953, Denmark put an end to the colonial status of Greenland and granted [[home rule]] in 1979 and in 2008 a [[2008 Greenlandic self-government referendum|self-government referendum]] was passed with 75 per cent approval. Although still a part of the [[Danish Realm|Kingdom of Denmark]] (along with [[Denmark]] proper and the [[Faroe Islands]]), Greenland, known as Kalaallit Nunaat in the [[Greenlandic language]], maintains much autonomy today. Of a population of 56,000, 80 per cent of Greenlanders identify as Inuit. Their economy is based on [[fishing]] and [[Shrimp fishery|shrimping]].{{sfnp|Hessel|2006| p=20}}
+
+The Thule people arrived in Greenland in the 13th century. There they encountered the Norsemen, who had established colonies there since the late 10th century, as well as a later wave of the Dorset people. Because most of Greenland is covered in ice, the Greenland Inuit (or Kalaallit) only live in coastal settlements, particularly the northern polar coast, the eastern Amassalik coast and the central coasts of western Greenland.{{sfnp|Hessel|2006| p=11}}
+
+===Alaska===
+Inuit of Alaska are the [[Iñupiat]] who live in the [[Northwest Arctic Borough, Alaska|Northwest Arctic Borough]], the [[North Slope Borough, Alaska|North Slope Borough]] and the [[Bering Strait]] region. [[Utqiagvik, Alaska|Utqiagvik]], the [[Extreme points of the United States|northernmost city in the United States]], is in the Inupiat region. Their language is [[Inupiaq language|Iñupiaq]].
+
+==Genetics==
+{{See also|Saqqaq culture#Genetics|Dorset culture#Genetics|Birnirk culture#Genetics|Thule people#Genetics|Sadlermiut#Genetics}}
+
+A genetic study published in ''[[Science (journal)|Science]]'' in August 2014 examined a large number of remains from the [[Dorset culture]], [[Birnirk culture]] and the [[Thule people]]. Genetic continuity was observed between Inuit, Thule and Birnirk, who overwhelmingly carried the maternal haplogroup [[Haplogroup A (mtDNA)|A2a]] and were genetically very different from the Dorset. The evidence suggested that Inuit descend from the Birnirk of Siberia, who through the Thule culture expanded into northern Canada and Greenland, where they genetically and culturally completely replaced the Indigenous Dorset people some time after 1300 AD.{{sfnp|Raghavan|DeGiorgio|Albrechtsen|2014|p=1 |loc=Supplementary Materials, pp. 109–112, Table S1}}
+
+Inuit tend to have the [[Earwax#Wet or dry|dry variant of human earwax]].<ref>{{cite journal| doi=10.1002/ajpa.1330470203| title=Cerumen types in Eskimos| year=1977| last1=Bass| first1=Edward J.| last2=Jackson| first2=John F.| journal=American Journal of Physical Anthropology| volume=47| issue=2| pages=209–210| pmid=910884| bibcode=1977AJPA...47..209B}}</ref>
+
+==Modern culture==
+[[File:Maktaaq_2_2002-08-10.jpg|thumb|Two Inuit elders share [[muktuk]] (maktaaq) in 2002]]
+
+[[Inuit art]], carving, print making, textiles and [[Inuit throat singing]], are very popular, not only in Canada but globally, and Inuit artists are widely known. Canada has adopted some of Inuit culture as national symbols, using Inuit cultural icons like the [[inuksuk]] in unlikely places, such as its use as a symbol at the [[2010 Winter Olympics]] in Vancouver. Respected art galleries display Inuit art, the largest collection of which is at the [[Winnipeg Art Gallery]]. Their traditional New Year is called ''[[Quviasukvik]]''.<ref>{{Cite journal |doi = 10.4000/jsa.2772 |title = ''Quviasukvik.'' The celebration of an Inuit winter feast in the central Arctic |year=2002 |last1=Laugrand |first1=Frédéric |last2=Oosten |first2=Jarich |journal=Journal de la Société des Américanistes |volume=88 |issue= 88|pages=203–225|doi-access=free }}</ref>
+
+Some Inuit languages, such as Inuktitut, appear to have a more secure future in Quebec and Nunavut. There are a number of Inuit, even those who now live in urban centres such as [[Ottawa]], [[Montreal]] and [[Winnipeg]], who have experienced living on the land in the traditional life style. People such as [[Legislative Assembly of Nunavut]] member, [[Levinia Brown]] and former [[Commissioners of Nunavut|Commissioner of Nunavut]] and the [[Commissioners of Northwest Territories|NWT]], [[Helen Maksagak]] were born and lived the early part of their life "on the land". Inuit culture is alive and vibrant today in spite of the negative impacts of recent history.
+
+An important biennial event, the [[Arctic Winter Games]], is held in communities across the northern regions of the world, featuring traditional Inuit and northern sports as part of the events. A cultural event is also held. The games were first held in 1970, and while rotated usually among Alaska, Yukon and the Northwest Territories, they have also been held in [[Schefferville]], Quebec, in 1976, in [[Slave Lake]], Alberta, and a joint Iqaluit, Nunavut-[[Nuuk]], Greenland staging in 2002. In other sporting events, [[Jordin Tootoo]] became the first Inuk to play in the [[National Hockey League]] in the 2003–2004 season, playing for the [[Nashville Predators]].
+
+[[File:Baby Carriage 2002-08-02.jpg|thumb|An Inuk woman uses a traditional [[amauti]] and a modern stroller]]
+
+Although Inuit life has changed significantly over the past century, many traditions continue. ''[[Inuit Qaujimajatuqangit]]'', or [[traditional knowledge]], such as storytelling, mythology, [[Inuit music|music]], and dancing remain important parts of the culture. Family and community are very important. The Inuktitut language is still spoken in many areas of the Arctic and is common on radio and in television programming.
+
+Well-known Inuit politicians include former [[Premier of Nunavut]], [[P.J. Akeeagok]], [[Lori Idlout]], member of parliament for the [[Nunavut (electoral district)|riding of Nunavut]], [[Eva Aariak]], [[Commissioner of Nunavut]] and [[Múte Bourup Egede]], [[Prime Minister of Greenland]]. [[Leona Aglukkaq]], former MP, was the first Inuk to be sworn into the Canadian Federal Cabinet as Health Minister in 2008. In May 2011 after being re-elected for her second term, Aglukkaq was given the additional portfolio of Minister of the Canadian Northern Economic Development Agency. In July 2013 she was sworn in as the minister of the environment.<ref>{{cite news |url=http://www.leonaaglukkaq.ca/about/about-leona/ |title=Biography of the Honourable Leona Aglukkaq |work=LeonaAglukkaq.ca  |archive-url=https://web.archive.org/web/20141227200005/http://www.leonaaglukkaq.ca/about/about-leona/ |archive-date=27 December 2014}}</ref>
+
+[[File:Greenland kayak seal hunter 2006.jpg|thumb|Inuk seal hunter in a kayak, armed with a harpoon]]
+
+Visual and performing arts are strong features of Inuit culture. In 2002 the first [[feature film]] in Inuktitut, ''[[Atanarjuat: The Fast Runner]]'', was released worldwide to great critical and popular acclaim. It was directed by [[Zacharias Kunuk]], and written, filmed, produced, directed, and acted almost entirely by Inuit of Igloolik. In 2009, the film ''[[Le Voyage D'Inuk]]'', a Greenlandic-language feature film, was [[film director|directed]] by Mike Magidson and co-written by Magidson and French [[film producer]] Jean-Michel Huctin.<ref name=R0>{{cite web |first=Samir |last=Ardjoum |title=Entretien avec Jean-Michel Huctin, co-auteur du Voyage d'Inuk |trans-title=Interview with Jean-Michel Huctin, co-author of Tour Inuk |language=fr |website=iletaitunefoisleCinema.com |access-date=20 January 2009 |url=http://www.iletaitunefoislecinema.com/entretien/2594/entretien-avec-jeanmichel-huctin-coauteur-du-voyage-dinuk |archive-url=https://web.archive.org/web/20171015151548/http://www.iletaitunefoislecinema.com/entretien/2594/entretien-avec-jeanmichel-huctin-coauteur-du-voyage-dinuk |archive-date=15 October 2017}}</ref> One of the most famous Inuit artists is [[Pitseolak Ashoona]]. [[Susan Aglukark]] is a popular singer. [[Mitiarjuk Nappaaluk|Mitiarjuk Attasie Nappaaluk]] worked at preserving Inuktitut and wrote one of the first novels ever published in that language.<ref>{{cite magazine |url=https://www.ammsa.com/publications/windspeaker/northern-resident-helps-bridge-gap-between-cultures-0 |title=Northern resident helps bridge the gap between cultures |magazine=Windspeaker |publisher=[[Aboriginal Multi-Media Society]] |volume=16 |issue=12 |date=1 April 1999 |first=Joan |last=Black}}</ref> In 2006, [[Cape Dorset, Nunavut|Cape Dorset]] was hailed as Canada's most artistic city, with 23 per cent of the labor force employed in the arts.<ref>{{cite news|author=CBC Arts |url=https://www.cbc.ca/news/canada/north/cape-dorset-named-most-artistic-municipality-1.574437 |title=Cape Dorset named most 'artistic' municipality |publisher=CBC News |date=13 February 2006 |url-status=live |archive-url=https://web.archive.org/web/20070808115551/http://www.cbc.ca/arts/story/2006/02/13/report-artistic-capedorset.html |archive-date=8 August 2007}}</ref> Inuit art such as soapstone carvings is one of Nunavut's most important industries. [[Ada Eyetoaq]] was an Inuk artist who made miniature sculptures out of soapstone.
+
+Recently, there has been an identity struggle among the younger generations of Inuit, between their traditional heritage and the modern society which their cultures have been forced to assimilate into in order to maintain a livelihood. With current dependence on modern society for necessities, (including governmental jobs, food, aid, medicine, etc.), Inuit have had much interaction with and exposure to the [[Norm (sociology)|societal norms]] outside their previous cultural boundaries. The stressors regarding the [[Identity crisis (psychology)|identity crisis]] among teenagers have led to disturbingly high numbers of suicide.<ref name="analysis">{{cite report |title=Suicide in Inuit Nunaat: An analysis of suicide rates and the effect of Community-level factors |last1=Penney |first1=Christopher |last2=Senecal |first2=Sacha |last3=Guimond |first3=Eric |last4=Bobet |first4=Ellen |last5=Uppal |first5=Sharanjit |date=27 June 2008 |work=Position paper for the 5th NRF open Assembly, September 24th–27th 2008 |publisher=Indian and Northern Affairs Canada |url=https://www.researchgate.net/publication/265120789}}</ref>
+
+[[David Pisurayak Kootook]] was awarded the Meritorious Service Cross, posthumously, for his heroic efforts in a 1972 plane crash. Other notable Inuit include the freelance journalist Ossie Michelin, whose iconic photograph of the activist [[Amanda Polchies]] went viral after the 2013 anti-fracking protests at [[Elsipogtog First Nation]].<ref>{{cite news |title=Inuk journalist awarded for best image in human rights exhibition |url=https://www.cbc.ca/news/indigenous/inuk-journalist-ossie-micheline-best-image-museum-1.4174047 |publisher=CBC News |date=23 June 2017}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+
+=== Citations ===
+{{reflist|colwidth=30em}}
+
+=== General and cited references ===
+* {{Cite book |last=Alia |first=Valerie |year=2009 |title=Names and Nunavut: Culture and Identity in Arctic Canada |url=https://books.google.com/books?id=rVoNxuS4n1gC&pg=PP1 |publisher=Berghahn Books |isbn=978-1-84545-165-3}}
+* {{Cite book |last1=Billson |first1=Janet Mancini|first2=Kyra |last2=Mancini |year=2007 |title=Inuit Women: Their Powerful Spirit in a Century of Change |url=https://books.google.com/books?id=8M8aihnBACwC&q=Inuit&pg=PP1 |publisher=Rowman & Littlefield |isbn=978-0-7425-3597-8}}
+* {{cite book |last=Hessel |first=Ingo |title=Arctic Spirit: Inuit Art from the Albrecht Collection at the Heard Museum |url=https://books.google.com/books?id=CXiAQgAACAAJ&pg=PP1 |year=2006 |publisher=Heard Museum |isbn=978-1-55365-189-5}}
+* {{cite book |title=Suicide in Canada |last1=Leenaars |first1=Antoon A. |author-link1=Antoon Leenaars |first2=Michael J. |last2=Kral |first3=Ronald J. |last3=Dyck |year=1998 |publisher=University of Toronto Press |isbn=978-0-8020-7791-2 |url=https://archive.org/details/suicideincanada00leen |url-access=registration}}
+* {{cite book |editor-last1=Leenaars|editor-first1=Antoon A.|editor-last2=Wenckstern|editor-first2=Susanne|editor-last3=Sakinofsky|editor-first3=Isaac|editor-first4=Ron |editor-last4=Dyck |editor-first5=Michael J. |editor-last5=Kral |editor-first6=Roger |editor-last6=Bland |display-editors=3 |title=Suicide in Canada |url=https://books.google.com/books?id=spGsTJFoMTAC&pg=PP1|year=1998|publisher=University of Toronto Press|isbn=978-0-8020-7791-2}}
+* {{cite book| last=Mitchell |first=Marybelle |title=From Talking Chiefs to a Native Corporate Elite: The Birth of Class and Nationalism among Canadian Inuit |url=https://books.google.com/books?id=YqwCYgMlnsAC&pg=PA49 |year=1996 |publisher=McGill-Queen's University Press |isbn=978-0-7735-6580-7}}
+* {{cite book |last1=Ohokak |first1=Gwen |first2=Margo |last2=Kadlun |first3=Betty |last3=Harnum |title=Inuinnaqtun to English Dictionary |publisher=Kitikmeot Heritage Society |url=http://en.copian.ca/library/learning/nac/nac_dictionary/nac_dictionary.pdf |url-status=live |archive-url=https://web.archive.org/web/20120904191006/http://www.nald.ca/library/learning/nac/nac_dictionary/nac_dictionary.pdf |archive-date=4 September 2012}}
+* {{Cite journal |display-authors=etal |doi=10.1126/SCIENCE.1255832 |first1=Maanasa |first2=Michael |first3=Anders |issn=0036-8075 |issue=6200 |journal=[[Science (journal)|Science]] |language=en |last1=Raghavan |last2=DeGiorgio |last3=Albrechtsen |article-number=1255832 |pmid=25170159 |date=August 2014 |title=The Genetic Prehistory of the New World Arctic |volume=345 |bibcode=2014Sci...34555832R |url=https://escholarship.org/uc/item/3197t6wz }}
+* {{cite book |editor-last=Sturtevant |editor-first=William C. |editor-link=William C. Sturtevant |title=[[Handbook of North American Indians]] |volume=5 (Arctic) |publisher=[[Smithsonian Institution]] |year=1984 |isbn=978-0-16-004580-6}}
+
+==Further reading==
+{{Main|Bibliography of the Arctic|Bibliography of the history of Canadian Arctic|Bibliography of the history of the Inuit}}
+
+{{further|Bibliography of Canadian Aboriginals}}
+{{Refbegin}}
+* {{cite book |last=Briggs |first=Jean L. |title=Never in Anger: Portrait of an Eskimo Family |url=https://books.google.com/books?id=A9QuJjQbh7MC&pg=PP1 |year=1970|publisher=Harvard University Press |isbn=978-0-674-60828-3}}
+* {{cite encyclopedia |title=Collections: Inuit |encyclopedia=[[The Canadian Encyclopedia]] |publisher=[[Historica Canada]] |url=https://thecanadianencyclopedia.ca/en/collection/inuit-peoples |access-date=11 July 2021}}
+* {{cite book |last=Crandall |first=Richard C. |title=Inuit Art: A History |url=https://books.google.com/books?id=M4p8ZrkbSCkC&pg=PP1 |year=2000|publisher=McFarland |isbn=978-0-7864-0711-8}}
+* {{Cite book |last=Eber |first=Dorothy |year=1997 |title=Images of Justice: A Legal History of the Northwest Territories and Yellowknife |url=https://books.google.com/books?id=g7Qcr7vzQbQC&pg=PP1|publisher=McGill-Queen's University Press |isbn=978-0-7735-1675-5}}
+* {{Cite book |last=Eber |first=Dorothy |year=2008 |title=Encounters on the Passage: Inuit Meet the Explorers |url=https://books.google.com/books?id=zG50985kCSUC&pg=PP1|publisher=University of Toronto Press |isbn=978-1-4426-8798-1}}
+* {{Cite book |author1=Forman, Werner |author2=Burch, Ernest S. |title=The Eskimos |publisher=University of Oklahoma Press |year=1988 |url=https://archive.org/details/eskimos00burc |url-access=registration |isbn=978-0-8061-2126-0}}
+* {{cite book |last=Fossett |first=Renée |title=In Order to Live Untroubled: Inuit of the Central Arctic 1550 to 1940 |url=https://books.google.com/books?id=yK7cac_mXGgC&pg=PP1 |year=2001|publisher=University of Manitoba Press |isbn=978-0-88755-328-8}}
+* {{cite encyclopedia |last=Freeman |first=Milton M. R. |title=Arctic Indigenous Peoples in Canada |encyclopedia=The Canadian Encyclopedia |date=24 October 2017 |publisher=Historica Canada |url=https://www.thecanadianencyclopedia.ca/en/article/aboriginal-people-arctic}}
+* {{cite encyclopedia |last=Freeman |first=Minnie Aodla |title=Inuit |encyclopedia=The Canadian Encyclopedia |date=24 September 2020 |publisher=Historica Canada |url=https://www.thecanadianencyclopedia.ca/en/article/inuit}}
+* {{Cite book |last1=Hauser |first1=Michael |first2=Erik |last2=Holtved |first3=Bent |last3=Jensen |year=2010 |title=Traditional Inuit songs from the Thule area |volume=2 |url=https://books.google.com/books?id=NjgysV2UGygC&pg=PP1|publisher=Museum Tusculanum Press |isbn=978-87-635-2589-3}}
+* {{Cite book |author=Hund, Andrew |year=2012 |title=Inuit |publisher=Sage Publications |isbn=978-1-4129-9261-9}}
+* {{cite book |last1=Kulchyski |first1=Peter Keith|last2=Tester |first2=Frank J. |title=Kiumajut (Talking Back): Game Management and Inuit Rights, 1900–70 |url=https://books.google.com/books?id=RGB7w2x0sa0C&pg=PP1 |year=2007|publisher=UBC Press |isbn=978-0-7748-1241-2}}
+* {{cite book |last1=King |first1=J. C. H. |last2=Pauksztat |first2=Birgit|last3=Storrie |first3=Robert |title=Arctic Clothing of North America – Alaska, Canada, Greenland |url=https://books.google.com/books?id=ZD2_7LRxGwsC&pg=PP1 |year=2005 |publisher=McGill-Queen's University Press |isbn=978-0-7735-3008-9}}
+* {{cite book |last=McGrath |first=Melanie |title=The Long Exile: A Tale of Inuit Betrayal and Survival in the High Arctic |url=https://books.google.com/books?id=7p3rBU6aDb0C&pg=PP1 |year=2006|publisher=Knopf Doubleday |isbn=978-0-307-53786-7}} Also at {{Internet Archive|longexiletaleofi00mcgr|The long exile: a tale of Inuit betrayal and survival in the high Arctic}}
+* {{cite episode |title=Inuit Odyssey: History of the Thule Migration |series=[[The Nature of Things]] |date=12 February 2009 |season=48 |network=CBC |url=https://www.cbc.ca/natureofthings/episodes/inuit-odyssey/history.html |archive-url=https://web.archive.org/web/20130825230419/http://www.cbc.ca/documentaries/natureofthings/2009/inuitodyssey/history.html |archive-date=25 August 2013}}
+* {{cite book |last=Paver |first=Michelle |title=Chronicles of Ancient Darkness: Wolf Brother; Spirit Walker; Soul Eater |url=https://books.google.com/books?id=0uAyLgAACAAJ&pg=PP1|series=Issues 1–3 of Chronicles of ancient darkness |year=2008|publisher=Orion Children's |isbn=978-1-84255-705-1}}
+* {{cite book |last1=Poncins |first1=Gontran De|author-link1=Gontran de Poncins|last2=Galantiere |first2=Lewis |title=Kabloona: Among the Inuit |title-link=Kabloona |year=1996 |publisher=Graywolf Press |isbn=978-1-55597-249-3 |orig-date=1941}}
+* {{cite book |last=Sowa |first=Frank |chapter=Inuit |editor=Andrew J. Hund |title=Antarctica and the Arctic Circle: A Geographic Encyclopedia of the Earth's Polar Regions |chapter-url=https://books.google.com/books?id=wRvFBAAAQBAJ&pg=PP1|volume=1: A–I |year=2014|publisher=ABC-CLIO |isbn=978-1-61069-393-6|pages=390–395}}
+* {{Cite book |last1=Stern |first1=Pamela R. |first2=Lisa |last2=Stevenson |year=2006 |title=Critical Inuit studies: an anthology of contemporary Arctic ethnography |url=https://books.google.com/books?id=71lBFUBkrMwC&pg=PP1|publisher=University of Nebraska Press |isbn=978-0-8032-4303-3}}
+* {{Cite book |last=Steckley |first=John |year=2008 |title=White Lies About the Inuit |url=https://books.google.com/books?id=i-osjdNH3g8C&pg=PP1|publisher=Broadview Press |isbn=978-1-55111-875-8}}
+* {{Cite book |last=Stern |first=Pamela R. |year=2004 |title=Historical Dictionary of the Inuit |url=https://archive.org/details/historicaldictio0000ster |url-access=registration |publisher=Scarecrow Press |isbn=978-0-8108-5058-3}}
+* {{Cite book |last=Walk |first=Ansgar |title=Kenojuak: The Life Story of an Inuit Artist |publisher=Penumbra Press |location=Manotick, Ontario |year=1999|isbn=978-0-921254-95-9 |title-link=Kenojuak Ashevak}}
+{{Refend}}
+
+==External links==
+{{Commons}}
+* [https://www.inuitcircumpolar.com/ Inuit Circumpolar Council]
+* [https://iccalaska.org/ Inuit Circumpolar Council Alaska]
+* [https://inuit.org/ Inuit Circumpolar Council Greenland]
+* [https://www.inuitcircumpolar.com/icc-international/# Inuit Circumpolar Council Chukotka]
+* [http://www.itk.ca/ National Inuit Organization in Canada]
+
+{{Inuit}}
+{{Navboxes|list =
+{{People of Canada}}
+{{Arctic topics}}
+{{Indigenous peoples in Quebec}}
+}}
+{{Authority control}}
+
+[[Category:Inuit| ]]
+[[Category:Indigenous peoples in the United States]]
+[[Category:Hunter-gatherers of Canada]]
+[[Category:Hunter-gatherers of the Arctic]]
+[[Category:Hunter-gatherers of the United States]]
+[[Category:Indigenous peoples in Atlantic Canada]]
+[[Category:Indigenous peoples in Northern Canada]]
+[[Category:Indigenous peoples of Siberia]]
+[[Category:Eskimos]]

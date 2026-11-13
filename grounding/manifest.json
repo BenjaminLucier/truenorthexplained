@@ -1,0 +1,1477 @@
+{
+  "description": "Fetch log for `pnpm grounding`. Run times live here and nowhere else, so per-page files stay diff-friendly.",
+  "runs": {
+    "flags": "2026-11-13T03:54:06Z",
+    "statcan": "2026-11-13T03:55:59Z",
+    "wikidata": "2026-11-13T03:53:06Z",
+    "wikipedia": "2026-11-13T03:54:58Z"
+  },
+  "wikipedia": {
+    "pages": {
+      "2025-canadian-federal-election": {
+        "title": "2025 Canadian federal election",
+        "requested": "2025 Canadian federal election",
+        "topic": "elections",
+        "pageid": 68483222,
+        "revid": 1381781183,
+        "url": "https://en.wikipedia.org/wiki/2025_Canadian_federal_election",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "aboriginal-title": {
+        "title": "Aboriginal title",
+        "requested": "Aboriginal title",
+        "topic": "indigenous",
+        "pageid": 9417291,
+        "revid": 1366241280,
+        "url": "https://en.wikipedia.org/wiki/Aboriginal_title",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "act-respecting-the-laicity-of-the-state": {
+        "title": "Act respecting the laicity of the State",
+        "requested": "Act respecting the laicity of the State",
+        "topic": "charter",
+        "pageid": 60358521,
+        "revid": 1379803230,
+        "url": "https://en.wikipedia.org/wiki/Act_respecting_the_laicity_of_the_State",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "alberta": {
+        "title": "Alberta",
+        "requested": "Alberta",
+        "topic": "provinces",
+        "pageid": 717,
+        "revid": 1384204433,
+        "url": "https://en.wikipedia.org/wiki/Alberta",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "alberta-act": {
+        "title": "Alberta Act",
+        "requested": "Alberta Act",
+        "topic": "provinces",
+        "pageid": 461970,
+        "revid": 1369413038,
+        "url": "https://en.wikipedia.org/wiki/Alberta_Act",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "amendments-to-the-constitution-of-canada": {
+        "title": "Amendments to the Constitution of Canada",
+        "requested": "Amendments to the Constitution of Canada",
+        "topic": "constitution",
+        "pageid": 2696625,
+        "revid": 1382275232,
+        "url": "https://en.wikipedia.org/wiki/Amendments_to_the_Constitution_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "auditor-general-of-canada": {
+        "title": "Auditor General of Canada",
+        "requested": "Auditor General of Canada",
+        "topic": "government",
+        "pageid": 464427,
+        "revid": 1374572252,
+        "url": "https://en.wikipedia.org/wiki/Auditor_General_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "bank-of-canada": {
+        "title": "Bank of Canada",
+        "requested": "Bank of Canada",
+        "topic": "government",
+        "pageid": 3230405,
+        "revid": 1378816070,
+        "url": "https://en.wikipedia.org/wiki/Bank_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "bloc-quebecois": {
+        "title": "Bloc Québécois",
+        "requested": "Bloc Québécois",
+        "topic": "elections",
+        "pageid": 60338,
+        "revid": 1383929223,
+        "url": "https://en.wikipedia.org/wiki/Bloc_Qu%C3%A9b%C3%A9cois",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "british-columbia": {
+        "title": "British Columbia",
+        "requested": "British Columbia",
+        "topic": "provinces",
+        "pageid": 3392,
+        "revid": 1384693762,
+        "url": "https://en.wikipedia.org/wiki/British_Columbia",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "cabinet-of-canada": {
+        "title": "Cabinet of Canada",
+        "requested": "Cabinet of Canada",
+        "topic": "executive",
+        "pageid": 261417,
+        "revid": 1384986218,
+        "url": "https://en.wikipedia.org/wiki/Cabinet_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "calder-v-british-columbia-ag": {
+        "title": "Calder v British Columbia (AG)",
+        "requested": "Calder v British Columbia (AG)",
+        "topic": "indigenous",
+        "pageid": 3207460,
+        "revid": 1358452136,
+        "url": "https://en.wikipedia.org/wiki/Calder_v_British_Columbia_(AG)",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "canada": {
+        "title": "Canada",
+        "requested": "Canada",
+        "topic": "canada",
+        "pageid": 5042916,
+        "revid": 1385080399,
+        "url": "https://en.wikipedia.org/wiki/Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "canada-health-act": {
+        "title": "Canada Health Act",
+        "requested": "Canada Health Act",
+        "topic": "federalism",
+        "pageid": 369449,
+        "revid": 1303202962,
+        "url": "https://en.wikipedia.org/wiki/Canada_Health_Act",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "canada-health-transfer": {
+        "title": "Canada Health Transfer",
+        "requested": "Canada Health Transfer",
+        "topic": "federalism",
+        "pageid": 6615588,
+        "revid": 1365412908,
+        "url": "https://en.wikipedia.org/wiki/Canada_Health_Transfer",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "canadian-bill-of-rights": {
+        "title": "Canadian Bill of Rights",
+        "requested": "Canadian Bill of Rights",
+        "topic": "charter",
+        "pageid": 224448,
+        "revid": 1381411178,
+        "url": "https://en.wikipedia.org/wiki/Canadian_Bill_of_Rights",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "canadian-charter-of-rights-and-freedoms": {
+        "title": "Canadian Charter of Rights and Freedoms",
+        "requested": "Canadian Charter of Rights and Freedoms",
+        "topic": "charter",
+        "pageid": 129190,
+        "revid": 1376431275,
+        "url": "https://en.wikipedia.org/wiki/Canadian_Charter_of_Rights_and_Freedoms",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "canadian-confederation": {
+        "title": "Canadian Confederation",
+        "requested": "Canadian Confederation",
+        "topic": "canada",
+        "pageid": 79774,
+        "revid": 1384348187,
+        "url": "https://en.wikipedia.org/wiki/Canadian_Confederation",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "canadian-federal-budget": {
+        "title": "Canadian federal budget",
+        "requested": "Canadian federal budget",
+        "topic": "government",
+        "pageid": 549744,
+        "revid": 1383041307,
+        "url": "https://en.wikipedia.org/wiki/Canadian_federal_budget",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "canadian-indian-residential-school-system": {
+        "title": "Canadian Indian residential school system",
+        "requested": "Canadian Indian residential school system",
+        "topic": "indigenous",
+        "pageid": 949755,
+        "revid": 1382490246,
+        "url": "https://en.wikipedia.org/wiki/Canadian_Indian_residential_school_system",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "canadian-western-bank-v-alberta": {
+        "title": "Canadian Western Bank v Alberta",
+        "requested": "Canadian Western Bank v Alberta",
+        "topic": "law",
+        "pageid": 23948440,
+        "revid": 1357047588,
+        "url": "https://en.wikipedia.org/wiki/Canadian_Western_Bank_v_Alberta",
+        "fetched": "2026-11-13T03:54:46Z"
+      },
+      "carter-v-canada-ag": {
+        "title": "Carter v Canada (AG)",
+        "requested": "Carter v Canada (AG)",
+        "topic": "charter",
+        "pageid": 45325220,
+        "revid": 1369307494,
+        "url": "https://en.wikipedia.org/wiki/Carter_v_Canada_(AG)",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "charlottetown-accord": {
+        "title": "Charlottetown Accord",
+        "requested": "Charlottetown Accord",
+        "topic": "constitution",
+        "pageid": 370395,
+        "revid": 1381437203,
+        "url": "https://en.wikipedia.org/wiki/Charlottetown_Accord",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "charter-of-the-french-language": {
+        "title": "Charter of the French Language",
+        "requested": "Charter of the French Language",
+        "topic": "charter",
+        "pageid": 357629,
+        "revid": 1383927103,
+        "url": "https://en.wikipedia.org/wiki/Charter_of_the_French_Language",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "chief-justice-of-canada": {
+        "title": "Chief Justice of Canada",
+        "requested": "Chief Justice of Canada",
+        "topic": "law",
+        "pageid": 333093,
+        "revid": 1373636197,
+        "url": "https://en.wikipedia.org/wiki/Chief_Justice_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "civil-code-of-quebec": {
+        "title": "Civil Code of Quebec",
+        "requested": "Civil Code of Quebec",
+        "topic": "law",
+        "pageid": 215261,
+        "revid": 1371348645,
+        "url": "https://en.wikipedia.org/wiki/Civil_Code_of_Quebec",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "clarity-act": {
+        "title": "Clarity Act",
+        "requested": "Clarity Act",
+        "topic": "constitution",
+        "pageid": 426861,
+        "revid": 1371797738,
+        "url": "https://en.wikipedia.org/wiki/Clarity_Act",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "confidence-and-supply": {
+        "title": "Confidence and supply",
+        "requested": "Confidence and supply",
+        "topic": "parliament",
+        "pageid": 9493642,
+        "revid": 1379615439,
+        "url": "https://en.wikipedia.org/wiki/Confidence_and_supply",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "consensus-government-in-canada": {
+        "title": "Consensus government in Canada",
+        "requested": "Consensus government in Canada",
+        "topic": "provinces",
+        "pageid": 471974,
+        "revid": 1363236566,
+        "url": "https://en.wikipedia.org/wiki/Consensus_government_in_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "conservative-party-of-canada": {
+        "title": "Conservative Party of Canada",
+        "requested": "Conservative Party of Canada",
+        "topic": "elections",
+        "pageid": 308647,
+        "revid": 1384728614,
+        "url": "https://en.wikipedia.org/wiki/Conservative_Party_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "constitution-act-1867": {
+        "title": "Constitution Act, 1867",
+        "requested": "Constitution Act, 1867",
+        "topic": "constitution",
+        "pageid": 876280,
+        "revid": 1374059516,
+        "url": "https://en.wikipedia.org/wiki/Constitution_Act%2C_1867",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "constitution-act-1982": {
+        "title": "Constitution Act, 1982",
+        "requested": "Constitution Act, 1982",
+        "topic": "constitution",
+        "pageid": 299360,
+        "revid": 1383300413,
+        "url": "https://en.wikipedia.org/wiki/Constitution_Act%2C_1982",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "constitution-of-canada": {
+        "title": "Constitution of Canada",
+        "requested": "Constitution of Canada",
+        "topic": "constitution",
+        "pageid": 7411,
+        "revid": 1384254242,
+        "url": "https://en.wikipedia.org/wiki/Constitution_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "convention-political-norm": {
+        "title": "Convention (political norm)",
+        "requested": "Constitutional convention (political custom)",
+        "topic": "constitution",
+        "pageid": 219364,
+        "revid": 1385038725,
+        "url": "https://en.wikipedia.org/wiki/Convention_(political_norm)",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "council-of-the-federation": {
+        "title": "Council of the Federation",
+        "requested": "Council of the Federation",
+        "topic": "federalism",
+        "pageid": 992190,
+        "revid": 1381337321,
+        "url": "https://en.wikipedia.org/wiki/Council_of_the_Federation",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "court-system-of-canada": {
+        "title": "Court system of Canada",
+        "requested": "Court system of Canada",
+        "topic": "law",
+        "pageid": 1124694,
+        "revid": 1381539535,
+        "url": "https://en.wikipedia.org/wiki/Court_system_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "criminal-code-canada": {
+        "title": "Criminal Code (Canada)",
+        "requested": "Criminal Code (Canada)",
+        "topic": "law",
+        "pageid": 476776,
+        "revid": 1385296517,
+        "url": "https://en.wikipedia.org/wiki/Criminal_Code_(Canada)",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "criminal-law-of-canada": {
+        "title": "Criminal law of Canada",
+        "requested": "Canadian criminal law",
+        "topic": "law",
+        "pageid": 3343743,
+        "revid": 1380575924,
+        "url": "https://en.wikipedia.org/wiki/Criminal_law_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "crown-corporation": {
+        "title": "Crown corporation",
+        "requested": "Crown corporation",
+        "topic": "government",
+        "pageid": 15316438,
+        "revid": 1381573475,
+        "url": "https://en.wikipedia.org/wiki/Crown_corporation",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "declaration-on-the-rights-of-indigenous-peoples-act-british-columbia": {
+        "title": "Declaration on the Rights of Indigenous Peoples Act (British Columbia)",
+        "requested": "Declaration on the Rights of Indigenous Peoples Act (British Columbia)",
+        "topic": "indigenous",
+        "pageid": 83036641,
+        "revid": 1385110852,
+        "url": "https://en.wikipedia.org/wiki/Declaration_on_the_Rights_of_Indigenous_Peoples_Act_(British_Columbia)",
+        "fetched": "2026-11-13T03:54:46Z"
+      },
+      "delgamuukw-v-british-columbia": {
+        "title": "Delgamuukw v British Columbia",
+        "requested": "Delgamuukw v British Columbia",
+        "topic": "indigenous",
+        "pageid": 2396181,
+        "revid": 1376138687,
+        "url": "https://en.wikipedia.org/wiki/Delgamuukw_v_British_Columbia",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "demographics-of-canada": {
+        "title": "Demographics of Canada",
+        "requested": "Demographics of Canada",
+        "topic": "canada",
+        "pageid": 5193,
+        "revid": 1384404352,
+        "url": "https://en.wikipedia.org/wiki/Demographics_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "duty-to-consult-and-accommodate": {
+        "title": "Duty to consult and accommodate",
+        "requested": "Duty to consult and accommodate",
+        "topic": "indigenous",
+        "pageid": 44391541,
+        "revid": 1347138407,
+        "url": "https://en.wikipedia.org/wiki/Duty_to_consult_and_accommodate",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "edwards-v-canada-ag": {
+        "title": "Edwards v Canada (AG)",
+        "requested": "Persons Case",
+        "topic": "law",
+        "pageid": 2631542,
+        "revid": 1380828210,
+        "url": "https://en.wikipedia.org/wiki/Edwards_v_Canada_(AG)",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "elections-canada": {
+        "title": "Elections Canada",
+        "requested": "Elections Canada",
+        "topic": "elections",
+        "pageid": 368124,
+        "revid": 1383923109,
+        "url": "https://en.wikipedia.org/wiki/Elections_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "elections-in-canada": {
+        "title": "Elections in Canada",
+        "requested": "Elections in Canada",
+        "topic": "elections",
+        "pageid": 924141,
+        "revid": 1384444177,
+        "url": "https://en.wikipedia.org/wiki/Elections_in_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "electoral-district-canada": {
+        "title": "Electoral district (Canada)",
+        "requested": "Electoral district (Canada)",
+        "topic": "elections",
+        "pageid": 732798,
+        "revid": 1380111450,
+        "url": "https://en.wikipedia.org/wiki/Electoral_district_(Canada)",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "equalization-payments-in-canada": {
+        "title": "Equalization payments in Canada",
+        "requested": "Equalization payments in Canada",
+        "topic": "federalism",
+        "pageid": 24731958,
+        "revid": 1382122453,
+        "url": "https://en.wikipedia.org/wiki/Equalization_payments_in_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "federalism-in-canada": {
+        "title": "Federalism in Canada",
+        "requested": "Canadian federalism",
+        "topic": "federalism",
+        "pageid": 221156,
+        "revid": 1381840495,
+        "url": "https://en.wikipedia.org/wiki/Federalism_in_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "first-nations-in-canada": {
+        "title": "First Nations in Canada",
+        "requested": "First Nations in Canada",
+        "topic": "indigenous",
+        "pageid": 315239,
+        "revid": 1384882392,
+        "url": "https://en.wikipedia.org/wiki/First_Nations_in_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "first-past-the-post-voting": {
+        "title": "First-past-the-post voting",
+        "requested": "First-past-the-post voting",
+        "topic": "elections",
+        "pageid": 261709,
+        "revid": 1384228971,
+        "url": "https://en.wikipedia.org/wiki/First-past-the-post_voting",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "ford-v-quebec-ag": {
+        "title": "Ford v Quebec (AG)",
+        "requested": "Ford v Quebec (AG)",
+        "topic": "charter",
+        "pageid": 220469,
+        "revid": 1358627583,
+        "url": "https://en.wikipedia.org/wiki/Ford_v_Quebec_(AG)",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "governor-general-of-canada": {
+        "title": "Governor General of Canada",
+        "requested": "Governor General of Canada",
+        "topic": "crown",
+        "pageid": 38152,
+        "revid": 1384971292,
+        "url": "https://en.wikipedia.org/wiki/Governor_General_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "green-party-of-canada": {
+        "title": "Green Party of Canada",
+        "requested": "Green Party of Canada",
+        "topic": "elections",
+        "pageid": 286271,
+        "revid": 1384305740,
+        "url": "https://en.wikipedia.org/wiki/Green_Party_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "haida-nation-v-british-columbia-minister-of-forests": {
+        "title": "Haida Nation v British Columbia (Minister of Forests)",
+        "requested": "Haida Nation v British Columbia (Minister of Forests)",
+        "topic": "indigenous",
+        "pageid": 26779343,
+        "revid": 1359476492,
+        "url": "https://en.wikipedia.org/wiki/Haida_Nation_v_British_Columbia_(Minister_of_Forests)",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "house-of-commons-of-canada": {
+        "title": "House of Commons of Canada",
+        "requested": "House of Commons of Canada",
+        "topic": "parliament",
+        "pageid": 64313,
+        "revid": 1382643630,
+        "url": "https://en.wikipedia.org/wiki/House_of_Commons_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "immigration-to-canada": {
+        "title": "Immigration to Canada",
+        "requested": "Immigration to Canada",
+        "topic": "canada",
+        "pageid": 4319287,
+        "revid": 1383957868,
+        "url": "https://en.wikipedia.org/wiki/Immigration_to_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "indian-act": {
+        "title": "Indian Act",
+        "requested": "Indian Act",
+        "topic": "indigenous",
+        "pageid": 544064,
+        "revid": 1382270419,
+        "url": "https://en.wikipedia.org/wiki/Indian_Act",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "indigenous-peoples-in-canada": {
+        "title": "Indigenous peoples in Canada",
+        "requested": "Indigenous peoples in Canada",
+        "topic": "indigenous",
+        "pageid": 196075,
+        "revid": 1382288445,
+        "url": "https://en.wikipedia.org/wiki/Indigenous_peoples_in_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "inuit": {
+        "title": "Inuit",
+        "requested": "Inuit",
+        "topic": "indigenous",
+        "pageid": 15704166,
+        "revid": 1384880366,
+        "url": "https://en.wikipedia.org/wiki/Inuit",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "judicial-committee-of-the-privy-council": {
+        "title": "Judicial Committee of the Privy Council",
+        "requested": "Judicial Committee of the Privy Council",
+        "topic": "law",
+        "pageid": 15960,
+        "revid": 1382864320,
+        "url": "https://en.wikipedia.org/wiki/Judicial_Committee_of_the_Privy_Council",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "judicial-independence": {
+        "title": "Judicial independence",
+        "requested": "Judicial independence",
+        "topic": "law",
+        "pageid": 59563,
+        "revid": 1384577146,
+        "url": "https://en.wikipedia.org/wiki/Judicial_independence",
+        "fetched": "2026-11-13T03:54:46Z"
+      },
+      "king-byng-affair": {
+        "title": "King–Byng affair",
+        "requested": "King–Byng affair",
+        "topic": "crown",
+        "pageid": 880268,
+        "revid": 1369864862,
+        "url": "https://en.wikipedia.org/wiki/King%E2%80%93Byng_affair",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "kings-privy-council-for-canada": {
+        "title": "King's Privy Council for Canada",
+        "requested": "King's Privy Council for Canada",
+        "topic": "executive",
+        "pageid": 520178,
+        "revid": 1383329903,
+        "url": "https://en.wikipedia.org/wiki/King's_Privy_Council_for_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "liberal-party-of-canada": {
+        "title": "Liberal Party of Canada",
+        "requested": "Liberal Party of Canada",
+        "topic": "elections",
+        "pageid": 149536,
+        "revid": 1383145053,
+        "url": "https://en.wikipedia.org/wiki/Liberal_Party_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "lieutenant-governor-canada": {
+        "title": "Lieutenant governor (Canada)",
+        "requested": "Lieutenant governor (Canada)",
+        "topic": "crown",
+        "pageid": 5063360,
+        "revid": 1385090367,
+        "url": "https://en.wikipedia.org/wiki/Lieutenant_governor_(Canada)",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "list-of-canadian-monarchs": {
+        "title": "List of Canadian monarchs",
+        "requested": "List of Canadian monarchs",
+        "topic": "crown",
+        "pageid": 10089348,
+        "revid": 1373616586,
+        "url": "https://en.wikipedia.org/wiki/List_of_Canadian_monarchs",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "list-of-federal-political-parties-in-canada": {
+        "title": "List of federal political parties in Canada",
+        "requested": "List of Canadian federal political parties",
+        "topic": "elections",
+        "pageid": 10005501,
+        "revid": 1381592234,
+        "url": "https://en.wikipedia.org/wiki/List_of_federal_political_parties_in_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "list-of-governors-general-of-canada": {
+        "title": "List of governors general of Canada",
+        "requested": "List of governors general of Canada",
+        "topic": "crown",
+        "pageid": 255825,
+        "revid": 1384086008,
+        "url": "https://en.wikipedia.org/wiki/List_of_governors_general_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "list-of-prime-ministers-of-canada": {
+        "title": "List of prime ministers of Canada",
+        "requested": "List of prime ministers of Canada",
+        "topic": "executive",
+        "pageid": 255823,
+        "revid": 1381462436,
+        "url": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "local-government-in-canada": {
+        "title": "Local government in Canada",
+        "requested": "Municipal government in Canada",
+        "topic": "federalism",
+        "pageid": 4833683,
+        "revid": 1385327323,
+        "url": "https://en.wikipedia.org/wiki/Local_government_in_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "manitoba": {
+        "title": "Manitoba",
+        "requested": "Manitoba",
+        "topic": "provinces",
+        "pageid": 18926,
+        "revid": 1383101141,
+        "url": "https://en.wikipedia.org/wiki/Manitoba",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "manitoba-act-1870": {
+        "title": "Manitoba Act, 1870",
+        "requested": "Manitoba Act, 1870",
+        "topic": "provinces",
+        "pageid": 626723,
+        "revid": 1377858524,
+        "url": "https://en.wikipedia.org/wiki/Manitoba_Act%2C_1870",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "meech-lake-accord": {
+        "title": "Meech Lake Accord",
+        "requested": "Meech Lake Accord",
+        "topic": "constitution",
+        "pageid": 371984,
+        "revid": 1384683074,
+        "url": "https://en.wikipedia.org/wiki/Meech_Lake_Accord",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "metis": {
+        "title": "Métis",
+        "requested": "Métis in Canada",
+        "topic": "indigenous",
+        "pageid": 1236047,
+        "revid": 1383912779,
+        "url": "https://en.wikipedia.org/wiki/M%C3%A9tis",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "minority-government": {
+        "title": "Minority government",
+        "requested": "Minority government",
+        "topic": "executive",
+        "pageid": 271434,
+        "revid": 1384254643,
+        "url": "https://en.wikipedia.org/wiki/Minority_government",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "monarchy-of-canada": {
+        "title": "Monarchy of Canada",
+        "requested": "Monarchy of Canada",
+        "topic": "crown",
+        "pageid": 56504,
+        "revid": 1384659640,
+        "url": "https://en.wikipedia.org/wiki/Monarchy_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "motion-of-no-confidence": {
+        "title": "Motion of no confidence",
+        "requested": "Motion of no confidence",
+        "topic": "parliament",
+        "pageid": 208101,
+        "revid": 1384836312,
+        "url": "https://en.wikipedia.org/wiki/Motion_of_no_confidence",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "new-brunswick": {
+        "title": "New Brunswick",
+        "requested": "New Brunswick",
+        "topic": "provinces",
+        "pageid": 21182,
+        "revid": 1383072529,
+        "url": "https://en.wikipedia.org/wiki/New_Brunswick",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "new-democratic-party": {
+        "title": "New Democratic Party",
+        "requested": "New Democratic Party",
+        "topic": "elections",
+        "pageid": 19283982,
+        "revid": 1384578832,
+        "url": "https://en.wikipedia.org/wiki/New_Democratic_Party",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "newfoundland-and-labrador": {
+        "title": "Newfoundland and Labrador",
+        "requested": "Newfoundland and Labrador",
+        "topic": "provinces",
+        "pageid": 21980,
+        "revid": 1384416417,
+        "url": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "nisga-a-final-agreement": {
+        "title": "Nisgaʼa Final Agreement",
+        "requested": "Nisga'a Final Agreement",
+        "topic": "indigenous",
+        "pageid": 15629078,
+        "revid": 1344915161,
+        "url": "https://en.wikipedia.org/wiki/Nisga%CA%BCa_Final_Agreement",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "northwest-territories": {
+        "title": "Northwest Territories",
+        "requested": "Northwest Territories",
+        "topic": "provinces",
+        "pageid": 21186,
+        "revid": 1384754416,
+        "url": "https://en.wikipedia.org/wiki/Northwest_Territories",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "nova-scotia": {
+        "title": "Nova Scotia",
+        "requested": "Nova Scotia",
+        "topic": "provinces",
+        "pageid": 21184,
+        "revid": 1384920123,
+        "url": "https://en.wikipedia.org/wiki/Nova_Scotia",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "numbered-treaties": {
+        "title": "Numbered Treaties",
+        "requested": "Numbered Treaties",
+        "topic": "indigenous",
+        "pageid": 2884107,
+        "revid": 1383364248,
+        "url": "https://en.wikipedia.org/wiki/Numbered_Treaties",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "nunavut": {
+        "title": "Nunavut",
+        "requested": "Nunavut",
+        "topic": "provinces",
+        "pageid": 7129693,
+        "revid": 1384754442,
+        "url": "https://en.wikipedia.org/wiki/Nunavut",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "nunavut-land-claims-agreement": {
+        "title": "Nunavut Land Claims Agreement",
+        "requested": "Nunavut Land Claims Agreement",
+        "topic": "indigenous",
+        "pageid": 12644168,
+        "revid": 1377296696,
+        "url": "https://en.wikipedia.org/wiki/Nunavut_Land_Claims_Agreement",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "office-of-the-prime-minister-canada": {
+        "title": "Office of the Prime Minister (Canada)",
+        "requested": "Prime Minister's Office (Canada)",
+        "topic": "executive",
+        "pageid": 3654615,
+        "revid": 1364008185,
+        "url": "https://en.wikipedia.org/wiki/Office_of_the_Prime_Minister_(Canada)",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "official-bilingualism-in-canada": {
+        "title": "Official bilingualism in Canada",
+        "requested": "Official bilingualism in Canada",
+        "topic": "canada",
+        "pageid": 1555010,
+        "revid": 1384669604,
+        "url": "https://en.wikipedia.org/wiki/Official_bilingualism_in_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "ontario": {
+        "title": "Ontario",
+        "requested": "Ontario",
+        "topic": "provinces",
+        "pageid": 22218,
+        "revid": 1384907668,
+        "url": "https://en.wikipedia.org/wiki/Ontario",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "paramountcy-canada": {
+        "title": "Paramountcy (Canada)",
+        "requested": "Paramountcy (Canada)",
+        "topic": "federalism",
+        "pageid": 4166861,
+        "revid": 1334057268,
+        "url": "https://en.wikipedia.org/wiki/Paramountcy_(Canada)",
+        "fetched": "2026-11-13T03:54:46Z"
+      },
+      "parliament-of-canada": {
+        "title": "Parliament of Canada",
+        "requested": "Parliament of Canada",
+        "topic": "parliament",
+        "pageid": 87446,
+        "revid": 1377395502,
+        "url": "https://en.wikipedia.org/wiki/Parliament_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "parliamentary-budget-officer": {
+        "title": "Parliamentary Budget Officer",
+        "requested": "Parliamentary Budget Officer",
+        "topic": "parliament",
+        "pageid": 23254646,
+        "revid": 1383379824,
+        "url": "https://en.wikipedia.org/wiki/Parliamentary_Budget_Officer",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "patriation": {
+        "title": "Patriation",
+        "requested": "Patriation",
+        "topic": "constitution",
+        "pageid": 738613,
+        "revid": 1373610973,
+        "url": "https://en.wikipedia.org/wiki/Patriation",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "peace-order-and-good-government": {
+        "title": "Peace, order, and good government",
+        "requested": "Peace, order, and good government",
+        "topic": "federalism",
+        "pageid": 1095076,
+        "revid": 1370761883,
+        "url": "https://en.wikipedia.org/wiki/Peace%2C_order%2C_and_good_government",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "politics-of-alberta": {
+        "title": "Politics of Alberta",
+        "requested": "Politics of Alberta",
+        "topic": "provinces",
+        "pageid": 370588,
+        "revid": 1371664834,
+        "url": "https://en.wikipedia.org/wiki/Politics_of_Alberta",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "politics-of-british-columbia": {
+        "title": "Politics of British Columbia",
+        "requested": "Politics of British Columbia",
+        "topic": "provinces",
+        "pageid": 5157564,
+        "revid": 1382345679,
+        "url": "https://en.wikipedia.org/wiki/Politics_of_British_Columbia",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "politics-of-canada": {
+        "title": "Politics of Canada",
+        "requested": "Politics of Canada",
+        "topic": "canada",
+        "pageid": 5194,
+        "revid": 1385245559,
+        "url": "https://en.wikipedia.org/wiki/Politics_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "politics-of-manitoba": {
+        "title": "Politics of Manitoba",
+        "requested": "Politics of Manitoba",
+        "topic": "provinces",
+        "pageid": 10045336,
+        "revid": 1360616670,
+        "url": "https://en.wikipedia.org/wiki/Politics_of_Manitoba",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "politics-of-new-brunswick": {
+        "title": "Politics of New Brunswick",
+        "requested": "Politics of New Brunswick",
+        "topic": "provinces",
+        "pageid": 9524063,
+        "revid": 1368699677,
+        "url": "https://en.wikipedia.org/wiki/Politics_of_New_Brunswick",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "politics-of-newfoundland-and-labrador": {
+        "title": "Politics of Newfoundland and Labrador",
+        "requested": "Politics of Newfoundland and Labrador",
+        "topic": "provinces",
+        "pageid": 12866975,
+        "revid": 1370964693,
+        "url": "https://en.wikipedia.org/wiki/Politics_of_Newfoundland_and_Labrador",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "politics-of-nova-scotia": {
+        "title": "Politics of Nova Scotia",
+        "requested": "Politics of Nova Scotia",
+        "topic": "provinces",
+        "pageid": 9530702,
+        "revid": 1340720837,
+        "url": "https://en.wikipedia.org/wiki/Politics_of_Nova_Scotia",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "politics-of-nunavut": {
+        "title": "Politics of Nunavut",
+        "requested": "Politics of Nunavut",
+        "topic": "provinces",
+        "pageid": 20549034,
+        "revid": 1358912365,
+        "url": "https://en.wikipedia.org/wiki/Politics_of_Nunavut",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "politics-of-ontario": {
+        "title": "Politics of Ontario",
+        "requested": "Politics of Ontario",
+        "topic": "provinces",
+        "pageid": 1586335,
+        "revid": 1367647022,
+        "url": "https://en.wikipedia.org/wiki/Politics_of_Ontario",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "politics-of-prince-edward-island": {
+        "title": "Politics of Prince Edward Island",
+        "requested": "Politics of Prince Edward Island",
+        "topic": "provinces",
+        "pageid": 4763937,
+        "revid": 1355331723,
+        "url": "https://en.wikipedia.org/wiki/Politics_of_Prince_Edward_Island",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "politics-of-quebec": {
+        "title": "Politics of Quebec",
+        "requested": "Politics of Quebec",
+        "topic": "provinces",
+        "pageid": 369616,
+        "revid": 1381636926,
+        "url": "https://en.wikipedia.org/wiki/Politics_of_Quebec",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "politics-of-saskatchewan": {
+        "title": "Politics of Saskatchewan",
+        "requested": "Politics of Saskatchewan",
+        "topic": "provinces",
+        "pageid": 9523217,
+        "revid": 1356992360,
+        "url": "https://en.wikipedia.org/wiki/Politics_of_Saskatchewan",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "politics-of-the-northwest-territories": {
+        "title": "Politics of the Northwest Territories",
+        "requested": "Politics of the Northwest Territories",
+        "topic": "provinces",
+        "pageid": 6299793,
+        "revid": 1364108588,
+        "url": "https://en.wikipedia.org/wiki/Politics_of_the_Northwest_Territories",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "prime-minister-of-canada": {
+        "title": "Prime Minister of Canada",
+        "requested": "Prime Minister of Canada",
+        "topic": "executive",
+        "pageid": 24135,
+        "revid": 1385172115,
+        "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "prince-edward-island": {
+        "title": "Prince Edward Island",
+        "requested": "Prince Edward Island",
+        "topic": "provinces",
+        "pageid": 23071,
+        "revid": 1385292726,
+        "url": "https://en.wikipedia.org/wiki/Prince_Edward_Island",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "privy-council-office-canada": {
+        "title": "Privy Council Office (Canada)",
+        "requested": "Privy Council Office (Canada)",
+        "topic": "executive",
+        "pageid": 737943,
+        "revid": 1375562207,
+        "url": "https://en.wikipedia.org/wiki/Privy_Council_Office_(Canada)",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "progressive-conservative-party-of-canada": {
+        "title": "Progressive Conservative Party of Canada",
+        "requested": "Progressive Conservative Party of Canada",
+        "topic": "elections",
+        "pageid": 123462,
+        "revid": 1381252598,
+        "url": "https://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "prorogation-in-canada": {
+        "title": "Prorogation in Canada",
+        "requested": "Prorogation in Canada",
+        "topic": "parliament",
+        "pageid": 26041652,
+        "revid": 1363435384,
+        "url": "https://en.wikipedia.org/wiki/Prorogation_in_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "provinces-and-territories-of-canada": {
+        "title": "Provinces and territories of Canada",
+        "requested": "Provinces and territories of Canada",
+        "topic": "provinces",
+        "pageid": 75763,
+        "revid": 1383788226,
+        "url": "https://en.wikipedia.org/wiki/Provinces_and_territories_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "public-service-of-canada": {
+        "title": "Public Service of Canada",
+        "requested": "Public Service of Canada",
+        "topic": "government",
+        "pageid": 12354893,
+        "revid": 1360828867,
+        "url": "https://en.wikipedia.org/wiki/Public_Service_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "quebec": {
+        "title": "Quebec",
+        "requested": "Quebec",
+        "topic": "provinces",
+        "pageid": 7954867,
+        "revid": 1384009327,
+        "url": "https://en.wikipedia.org/wiki/Quebec",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "quebec-sovereignty-movement": {
+        "title": "Quebec sovereignty movement",
+        "requested": "Quebec sovereignty movement",
+        "topic": "federalism",
+        "pageid": 319505,
+        "revid": 1384624587,
+        "url": "https://en.wikipedia.org/wiki/Quebec_sovereignty_movement",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "question-period": {
+        "title": "Question Period",
+        "requested": "Question Period",
+        "topic": "parliament",
+        "pageid": 220545,
+        "revid": 1358649026,
+        "url": "https://en.wikipedia.org/wiki/Question_Period",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "r-v-oakes": {
+        "title": "R v Oakes",
+        "requested": "R v Oakes",
+        "topic": "charter",
+        "pageid": 221703,
+        "revid": 1357739794,
+        "url": "https://en.wikipedia.org/wiki/R_v_Oakes",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "red-river-rebellion": {
+        "title": "Red River Rebellion",
+        "requested": "Red River Resistance",
+        "topic": "provinces",
+        "pageid": 244109,
+        "revid": 1384909454,
+        "url": "https://en.wikipedia.org/wiki/Red_River_Rebellion",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "reference-question": {
+        "title": "Reference question",
+        "requested": "Reference question",
+        "topic": "law",
+        "pageid": 1260808,
+        "revid": 1341132261,
+        "url": "https://en.wikipedia.org/wiki/Reference_question",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "reference-re-secession-of-quebec": {
+        "title": "Reference Re Secession of Quebec",
+        "requested": "Reference Re Secession of Quebec",
+        "topic": "constitution",
+        "pageid": 563140,
+        "revid": 1356066904,
+        "url": "https://en.wikipedia.org/wiki/Reference_Re_Secession_of_Quebec",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "reference-re-senate-reform": {
+        "title": "Reference Re Senate Reform",
+        "requested": "Reference Re Senate Reform",
+        "topic": "parliament",
+        "pageid": 48603382,
+        "revid": 1381849499,
+        "url": "https://en.wikipedia.org/wiki/Reference_Re_Senate_Reform",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "republicanism-in-canada": {
+        "title": "Republicanism in Canada",
+        "requested": "Republicanism in Canada",
+        "topic": "crown",
+        "pageid": 1283475,
+        "revid": 1382773323,
+        "url": "https://en.wikipedia.org/wiki/Republicanism_in_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "reserve-power": {
+        "title": "Reserve power",
+        "requested": "Reserve power",
+        "topic": "crown",
+        "pageid": 192754,
+        "revid": 1379634727,
+        "url": "https://en.wikipedia.org/wiki/Reserve_power",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "responsible-government": {
+        "title": "Responsible government",
+        "requested": "Responsible government",
+        "topic": "executive",
+        "pageid": 26329,
+        "revid": 1383557190,
+        "url": "https://en.wikipedia.org/wiki/Responsible_government",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "royal-assent": {
+        "title": "Royal assent",
+        "requested": "Royal assent",
+        "topic": "parliament",
+        "pageid": 153067,
+        "revid": 1374881895,
+        "url": "https://en.wikipedia.org/wiki/Royal_assent",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "royal-canadian-mint": {
+        "title": "Royal Canadian Mint",
+        "requested": "Royal Canadian Mint",
+        "topic": "government",
+        "pageid": 372810,
+        "revid": 1375778527,
+        "url": "https://en.wikipedia.org/wiki/Royal_Canadian_Mint",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "royal-canadian-mounted-police": {
+        "title": "Royal Canadian Mounted Police",
+        "requested": "Royal Canadian Mounted Police",
+        "topic": "government",
+        "pageid": 69080,
+        "revid": 1384413220,
+        "url": "https://en.wikipedia.org/wiki/Royal_Canadian_Mounted_Police",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "royal-proclamation-of-1763": {
+        "title": "Royal Proclamation of 1763",
+        "requested": "Royal Proclamation of 1763",
+        "topic": "constitution",
+        "pageid": 132989,
+        "revid": 1382109223,
+        "url": "https://en.wikipedia.org/wiki/Royal_Proclamation_of_1763",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "saskatchewan": {
+        "title": "Saskatchewan",
+        "requested": "Saskatchewan",
+        "topic": "provinces",
+        "pageid": 26840,
+        "revid": 1384458581,
+        "url": "https://en.wikipedia.org/wiki/Saskatchewan",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "section-1-of-the-canadian-charter-of-rights-and-freedoms": {
+        "title": "Section 1 of the Canadian Charter of Rights and Freedoms",
+        "requested": "Section 1 of the Canadian Charter of Rights and Freedoms",
+        "topic": "charter",
+        "pageid": 1602437,
+        "revid": 1351397197,
+        "url": "https://en.wikipedia.org/wiki/Section_1_of_the_Canadian_Charter_of_Rights_and_Freedoms",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "section-15-of-the-canadian-charter-of-rights-and-freedoms": {
+        "title": "Section 15 of the Canadian Charter of Rights and Freedoms",
+        "requested": "Section 15 of the Canadian Charter of Rights and Freedoms",
+        "topic": "charter",
+        "pageid": 1625449,
+        "revid": 1351414757,
+        "url": "https://en.wikipedia.org/wiki/Section_15_of_the_Canadian_Charter_of_Rights_and_Freedoms",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "section-33-of-the-canadian-charter-of-rights-and-freedoms": {
+        "title": "Section 33 of the Canadian Charter of Rights and Freedoms",
+        "requested": "Section 33 of the Canadian Charter of Rights and Freedoms",
+        "topic": "charter",
+        "pageid": 123500,
+        "revid": 1384864431,
+        "url": "https://en.wikipedia.org/wiki/Section_33_of_the_Canadian_Charter_of_Rights_and_Freedoms",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "section-35-of-the-constitution-act-1982": {
+        "title": "Section 35 of the Constitution Act, 1982",
+        "requested": "Section 35 of the Constitution Act, 1982",
+        "topic": "indigenous",
+        "pageid": 2337942,
+        "revid": 1354399579,
+        "url": "https://en.wikipedia.org/wiki/Section_35_of_the_Constitution_Act%2C_1982",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "section-91-of-the-constitution-act-1867": {
+        "title": "Section 91 of the Constitution Act, 1867",
+        "requested": "Section 91 of the Constitution Act, 1867",
+        "topic": "federalism",
+        "pageid": 34229292,
+        "revid": 1379547543,
+        "url": "https://en.wikipedia.org/wiki/Section_91_of_the_Constitution_Act%2C_1867",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "section-92-of-the-constitution-act-1867": {
+        "title": "Section 92 of the Constitution Act, 1867",
+        "requested": "Section 92 of the Constitution Act, 1867",
+        "topic": "federalism",
+        "pageid": 34484438,
+        "revid": 1379834543,
+        "url": "https://en.wikipedia.org/wiki/Section_92_of_the_Constitution_Act%2C_1867",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "senate-of-canada": {
+        "title": "Senate of Canada",
+        "requested": "Senate of Canada",
+        "topic": "parliament",
+        "pageid": 123498,
+        "revid": 1385180115,
+        "url": "https://en.wikipedia.org/wiki/Senate_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "statute-of-westminster-1931": {
+        "title": "Statute of Westminster 1931",
+        "requested": "Statute of Westminster 1931",
+        "topic": "constitution",
+        "pageid": 29263,
+        "revid": 1385254137,
+        "url": "https://en.wikipedia.org/wiki/Statute_of_Westminster_1931",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "supreme-court-of-canada": {
+        "title": "Supreme Court of Canada",
+        "requested": "Supreme Court of Canada",
+        "topic": "law",
+        "pageid": 123468,
+        "revid": 1384083621,
+        "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "treasury-board-of-canada": {
+        "title": "Treasury Board of Canada",
+        "requested": "Treasury Board of Canada",
+        "topic": "executive",
+        "pageid": 4094996,
+        "revid": 1383349311,
+        "url": "https://en.wikipedia.org/wiki/Treasury_Board_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "truth-and-reconciliation-commission-of-canada": {
+        "title": "Truth and Reconciliation Commission of Canada",
+        "requested": "Truth and Reconciliation Commission of Canada",
+        "topic": "indigenous",
+        "pageid": 15212557,
+        "revid": 1384016480,
+        "url": "https://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_of_Canada",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "tsilhqot-in-nation-v-british-columbia": {
+        "title": "Tsilhqotʼin Nation v British Columbia",
+        "requested": "Tsilhqot'in Nation v British Columbia",
+        "topic": "indigenous",
+        "pageid": 43154925,
+        "revid": 1184394647,
+        "url": "https://en.wikipedia.org/wiki/Tsilhqot%CA%BCin_Nation_v_British_Columbia",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "united-nations-declaration-on-the-rights-of-indigenous-peoples-act-canada": {
+        "title": "United Nations Declaration on the Rights of Indigenous Peoples Act (Canada)",
+        "requested": "United Nations Declaration on the Rights of Indigenous Peoples Act (Canada)",
+        "topic": "indigenous",
+        "pageid": 66013644,
+        "revid": 1377685089,
+        "url": "https://en.wikipedia.org/wiki/United_Nations_Declaration_on_the_Rights_of_Indigenous_Peoples_Act_(Canada)",
+        "fetched": "2026-11-13T03:54:46Z"
+      },
+      "vriend-v-alberta": {
+        "title": "Vriend v Alberta",
+        "requested": "Vriend v Alberta",
+        "topic": "charter",
+        "pageid": 1572643,
+        "revid": 1368636097,
+        "url": "https://en.wikipedia.org/wiki/Vriend_v_Alberta",
+        "fetched": "2026-11-13T03:54:21Z"
+      },
+      "yukon": {
+        "title": "Yukon",
+        "requested": "Yukon",
+        "topic": "provinces",
+        "pageid": 34230,
+        "revid": 1384880661,
+        "url": "https://en.wikipedia.org/wiki/Yukon",
+        "fetched": "2026-11-13T03:54:21Z"
+      }
+    },
+    "missing": []
+  },
+  "wikidata": {
+    "chief-justices": {
+      "file": "src/data/wikidata/chief-justices.json",
+      "sha1": "2e4dfea2786a4597acc851e70d7b07d43b01bbaf",
+      "fetched": "2026-11-13T03:53:06Z"
+    },
+    "governors-general": {
+      "file": "src/data/wikidata/governors-general.json",
+      "sha1": "f60bb3f41088cbc4225d7d4093f9795a3ab965c7",
+      "fetched": "2026-11-13T03:49:34Z"
+    },
+    "monarchs": {
+      "file": "src/data/wikidata/monarchs.json",
+      "sha1": "79d68de3c4ad306b1a988b8f94d8d84d86b9d140",
+      "fetched": "2026-11-13T03:53:06Z"
+    },
+    "population-history": {
+      "file": "src/data/wikidata/population-history.json",
+      "sha1": "7fe15f32dc9fb3cd1a6f6b1ef3ed09695bdbda50",
+      "fetched": "2026-11-13T03:49:34Z"
+    },
+    "prime-ministers": {
+      "file": "src/data/wikidata/prime-ministers.json",
+      "sha1": "887bb0bc7abb5ce96a0395725d08f675a4e503e4",
+      "fetched": "2026-11-13T03:53:06Z"
+    },
+    "provinces": {
+      "file": "src/data/wikidata/provinces.json",
+      "sha1": "495b706351efc92edd86ec17126cb07e36b892b8",
+      "fetched": "2026-11-13T03:52:30Z"
+    }
+  },
+  "flags": {
+    "alberta": {
+      "file": "public/flags/alberta.svg",
+      "sha1": "6fe25312f841042bfb35f84e22b23eab92bd77a7",
+      "commonsSha1": "7fe899db9a6756d35a9653ceddf144df3f1af173",
+      "commons": "Flag of Alberta.svg",
+      "fetched": "2026-11-13T03:53:12Z"
+    },
+    "british-columbia": {
+      "file": "public/flags/british-columbia.svg",
+      "sha1": "771ad6de8fda68439030e10b47a7aa5bfad214f6",
+      "commonsSha1": "e0fbca06d063f981825badbba1c2b57f8d5f2f6d",
+      "commons": "Flag of British Columbia.svg",
+      "fetched": "2026-11-13T03:53:12Z"
+    },
+    "canada": {
+      "file": "public/flags/canada.svg",
+      "sha1": "1ad79621ce4e447ca96bc28c804c4b7f00a4c3f2",
+      "commonsSha1": "82a9df4f13c5e617b82c4aa06be775c9afebddfe",
+      "commons": "Flag of Canada (Pantone).svg",
+      "fetched": "2026-11-13T03:53:12Z"
+    },
+    "manitoba": {
+      "file": "public/flags/manitoba.svg",
+      "sha1": "dab4a241bebbeb14d24dde6a4c38891aecf0cb01",
+      "commonsSha1": "77be17a27de6d084fd6d2be3954b6d4a366d1ad7",
+      "commons": "Flag of the Province of Manitoba.svg",
+      "fetched": "2026-11-13T03:53:12Z"
+    },
+    "new-brunswick": {
+      "file": "public/flags/new-brunswick.svg",
+      "sha1": "06591715dad6d505e6404640261641c6f3b64b33",
+      "commonsSha1": "d63659bfefa1aa4f79126179a220ec357578833f",
+      "commons": "Flag of New Brunswick.svg",
+      "fetched": "2026-11-13T03:53:13Z"
+    },
+    "newfoundland-and-labrador": {
+      "file": "public/flags/newfoundland-and-labrador.svg",
+      "sha1": "02ab7a257a3bae14c33e7e17ee939122578b9cb4",
+      "commonsSha1": "c0ec902b8c8240e8103043ab0123251eb06da411",
+      "commons": "Flag of Newfoundland and Labrador.svg",
+      "fetched": "2026-11-13T03:53:13Z"
+    },
+    "northwest-territories": {
+      "file": "public/flags/northwest-territories.svg",
+      "sha1": "5bb28fdb711ceb7c96390bdabd08c9b9b6bef3dd",
+      "commonsSha1": "81762c39b2ff38272bbda2caabcdd9fc21b26fa5",
+      "commons": "Flag of the Northwest Territories.svg",
+      "fetched": "2026-11-13T03:53:13Z"
+    },
+    "nova-scotia": {
+      "file": "public/flags/nova-scotia.svg",
+      "sha1": "50eb15aa2ff1d68342ae6a3d8a7c86028497f9c4",
+      "commonsSha1": "311a02d80801857b0d000fa79367df122a5ddc8d",
+      "commons": "Flag of Nova Scotia.svg",
+      "fetched": "2026-11-13T03:53:13Z"
+    },
+    "nunavut": {
+      "file": "public/flags/nunavut.svg",
+      "sha1": "3245b03f705490f73d22fc804c485f76cd04ea03",
+      "commonsSha1": "94093e78aceab81767519f05a579a91235bf0034",
+      "commons": "Flag of Nunavut.svg",
+      "fetched": "2026-11-13T03:53:13Z"
+    },
+    "ontario": {
+      "file": "public/flags/ontario.svg",
+      "sha1": "f7c4392048fe3f82ee49085ac514aad5993836d6",
+      "commonsSha1": "fd8181a060566a1e27afc5f8584f4a88c69e576f",
+      "commons": "Flag of Ontario.svg",
+      "fetched": "2026-11-13T03:53:13Z"
+    },
+    "prince-edward-island": {
+      "file": "public/flags/prince-edward-island.svg",
+      "sha1": "ba5f95a8c9b43db42307d47b002709ba47334f68",
+      "commonsSha1": "f500b51a04418de665945601aa6fc48113344ed8",
+      "commons": "Flag of Prince Edward Island.svg",
+      "fetched": "2026-11-13T03:53:13Z"
+    },
+    "quebec": {
+      "file": "public/flags/quebec.svg",
+      "sha1": "ae689e0fda28f4a57cef66c7c2ea35d10aa6b06a",
+      "commonsSha1": "a7ac82df064bb3627cb26752b1397446fd39e04f",
+      "commons": "Flag of Quebec.svg",
+      "fetched": "2026-11-13T03:53:13Z"
+    },
+    "saskatchewan": {
+      "file": "public/flags/saskatchewan.svg",
+      "sha1": "1f23ac7c0ce046501042d3ae2ca7d8f61fcaa43e",
+      "commonsSha1": "8f8fd8208383da5bd9aaadf3a6ce732e6eaf50fb",
+      "commons": "Flag of Saskatchewan.svg",
+      "fetched": "2026-11-13T03:53:13Z"
+    },
+    "yukon": {
+      "file": "public/flags/yukon.svg",
+      "sha1": "cb5887a83272fbb6c04322d94284a79854a2ea98",
+      "commonsSha1": "fce1f0ffcea1cebeb43bac15dd77b4e139486053",
+      "commons": "Flag of Yukon.svg",
+      "fetched": "2026-11-13T03:53:13Z"
+    }
+  },
+  "statcan": {
+    "age": {
+      "file": "src/data/statcan/age.json",
+      "sha1": "9a563cad7d11f11e2a9ea888c796180f8a5908fe",
+      "fetched": "2026-11-13T03:55:40Z"
+    },
+    "immigration": {
+      "file": "src/data/statcan/immigration.json",
+      "sha1": "63f507e3528e5318f5e06d2f76c37bcb48a0d50d",
+      "fetched": "2026-11-13T03:55:59Z"
+    },
+    "population": {
+      "file": "src/data/statcan/population.json",
+      "sha1": "9cd977b91633e6829c9f7074330b1c120a06f3d4",
+      "fetched": "2026-11-13T03:55:40Z"
+    }
+  }
+}

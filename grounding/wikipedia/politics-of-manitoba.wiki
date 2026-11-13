@@ -1,0 +1,465 @@
+{{Short description|None}}
+{{Infobox political system
+| name                          = Politics of Manitoba
+| image                         = Coat of arms of Manitoba.svg
+| image_size                    = 100
+| caption                       = [[Coat of arms of Manitoba]]
+| type                          = [[Provinces and territories of Canada|Province]] within a [[Federation|federal]] [[Parliamentary system|parliamentary]] [[constitutional monarchy]]
+| constitution                  = [[Constitution of Canada]]
+| legislature                   = [[Manitoba Legislature|Legislature]]
+{{Bulleted list
+|[[Legislative Assembly of Manitoba|Legislative Assembly]]
+}}
+| legislature_type              = [[Unicameralism|Unicameral]]
+| legislature_place             = [[Manitoba Legislative Building]], [[Winnipeg]]
+| legislature_speaker           = [[Speaker of the Legislative Assembly of Manitoba|Speaker of the Legislative Assembly]]
+| legislature_speaker_title     = 
+| upperhouse                    = 
+| upperhouse_speaker            = 
+| upperhouse_speaker_title      = 
+| upperhouse_appointer          = 
+| lowerhouse                    = 
+| lowerhouse_speaker            = 
+| lowerhouse_speaker_title      = 
+| current_hos                     = [[Monarchy in Manitoba|King]] {{Current Canadian monarch |Charles III}}<br>represented by <br> [[Anita Neville]], <br> [[Lieutenant Governor of Manitoba|Lieutenant Governor]]
+| current_hog                     = [[Premier of Manitoba|Premier]]<br>[[Wab Kinew]]
+| appointer_hog                 = Lieutenant Governor
+| title_hosag                   =
+| current_hosag                 =
+| appointer_hosag               =
+| cabinet                       = [[Executive Council of Manitoba|Executive Council]]
+| current_cabinet               = 
+| cabinet_leader                = Premier (as President of the Executive Council)
+| cabinet_deputyleader          = 
+| cabinet_appointer             = Lieutenant Governor
+| cabinet_hq                    = Winnipeg
+| cabinet_ministries            = 
+| judiciary                     = 
+| judiciary_head                = 
+| courts                        =
+| court                         = [[Manitoba Court of Appeal|Court of Appeal]]
+| chief_judge                   = [[Marianne Rivoalen]]
+| court_seat                    = 
+| court1                        =
+| chief_judge1                  =
+| court_seat1                   = Law Courts Building, Winnipeg
+}}
+[[File:Manitoba Provincial Legislature Building.JPG|thumb|The [[Manitoba Legislative Building]]]]
+The Province of [[Manitoba]], similar to other [[Provinces and territories of Canada|Canadian provinces and territories]], is governed through a [[Westminster system|Westminster]]-based [[parliamentary system]]. The Manitoba government's authority to conduct provincial affairs is derived from the [[Constitution of Canada]], which divides legislative powers among the [[Parliament of Canada|federal parliament]] and the [[Legislative assemblies of Canadian provinces and territories#Legislatures of provinces|provincial legislatures]]. Manitoba operates through three branches of government: the executive, the legislative, and the judicial. The executive branch—the [[Government of Manitoba]]—consists of the [[Executive Council of Manitoba|Executive Council]] and the [[Premier of Manitoba|Premier]], who is the [[head of government]] and the President of the Executive Council. The legislative branch—the [[Manitoba Legislature]]—is composed of the [[Lieutenant Governor of Manitoba|Lieutenant Governor]] and the [[Legislative Assembly of Manitoba|Legislative Assembly]], which is composed of the 57 members (MLAs) elected to represent the people of Manitoba, as well as the [[Speaker of the Legislative Assembly of Manitoba|Speaker]], the [[Clerk (legislature)|Clerk]], the Officers of the Legislative Assembly, and the employees of the legislative service.<ref name=":0">{{cite book|author=Hogg, Peter W|title=The Role of Courts in Society|editor=Shimon Shetreet|publisher=Aspen Publishing|date=1988|page=9|chapter=Necessity in Manitoba: The Role of Courts in Formative or Crisis Periods|isbn=90-247-3670-6}}</ref>
+
+The judicial arm consists of the [[Chief Justice of Manitoba|Chief Justice]] and the judges who preside over the courts. These three branches are linked through [[Monarchy in Manitoba|the Crown]], which is the [[head of state]] and represented by the [[Lieutenant Governor of Manitoba]].<ref name="roles">"[https://www.manitobalg.ca/role/role-responsibilities/ Roles and Responsibilities]." Lieutenant-Governor of Manitoba. Retrieved 2021 January 29. [https://web.archive.org/web/20091113194312/http://lg.gov.mb.ca/role/resp.html Archived] from the original on 2009-11-13.</ref> Under section 23 of the 1870 ''[[Manitoba Act]]'' (which is part of the [[Constitution of Canada]]), both [[Canadian English|English]] and [[Canadian French|French]] are [[official language]]s of the legislature and courts of Manitoba.
+
+Manitoba's primary political parties are the [[New Democratic Party of Manitoba|New Democratic Party]] (NDP) and the [[Progressive Conservative Party of Manitoba|Progressive Conservative Party]] (PC). The [[List of premiers of Manitoba|premier of Manitoba]] is [[Wab Kinew]], who leads the NDP with 34 seats. The last [[List of Manitoba general elections|general election]] was held on October 3, 2023.
+
+Manitoba is represented in federal politics by fourteen [[Member of Parliament (Canada)|Members of Parliament]] and six [[Senate of Canada|Senator]]s.<ref name=":1">{{cite web|title=Parliamentary Institutions - Canadian Parliamentary Institutions|url=https://www.ourcommons.ca/marleaumontpetit/DocumentViewer.aspx?DocId=1001&Sec=Ch01&Seq=3&Language=E|access-date=2021-01-29|website=www.ourcommons.ca}}</ref><ref name=":3">{{cite web|url=http://webinfo.parl.gc.ca/MembersOfParliament/MainMPsCompleteList.aspx?TimePeriod=Current&Language=E|title=Members of Parliament|publisher=Government of Canada|accessdate=2009-11-12|archiveurl=https://web.archive.org/web/20110424171818/http://webinfo.parl.gc.ca/MembersOfParliament/MainMPsCompleteList.aspx?Language=E&TimePeriod=Current|archivedate=2011-04-24|url-status=dead}}</ref><ref name=":4">{{cite web|url=http://www.parl.gc.ca/common/senmemb/senate/isenator.asp?Language=E|title=Senators|publisher=Government of Canada|accessdate=2009-11-12}}</ref>
+
+==Arms of Government==
+The Government of Manitoba uses a [[Westminster system|Westminster]]-based [[parliamentary system]] and has three levels of government: the executive, the legislative, and the judiciary.
+
+These three branches are linked through [[Monarchy in Manitoba|the Crown]], which is the [[head of state]] and represented by the [[Lieutenant Governor of Manitoba]], who is appointed by the [[Governor General of Canada]] on advice of the [[Prime Minister of Canada|Prime Minister]].
+{| class="wikitable"
+!Period
+!Parliament
+!Lower house
+!Upper house
+|+Legislatures of Manitoba
+|1870–76
+| rowspan="2" |[[Legislature of Manitoba]]
+| rowspan="2" |[[Legislative Assembly of Manitoba]]
+|[[Legislative Council of Manitoba]]
+|-
+|1876–
+|N/A (''abolished'')
+|}
+
+=== Legislative ===
+In Canada, each provincial legislature is composed of the [[Lieutenant governor (Canada)|Lieutenant-Governor]] and the [[Legislative assemblies of Canadian provinces and territories|provincial legislative assembly]].<ref>{{cite book|author=Summers, Harrison Boyd|title=Unicameral Legislatures|publisher=Wilson|date=1936|volume=11|page=9|oclc=1036784}}</ref><ref name=":2">Ruff, Norman J. 2006 February 7. "[https://www.thecanadianencyclopedia.ca/en/article/provincial-government Provincial Government in Canada]." ''The Canadian Encyclopedia''. Historica Canada.</ref> The Legislative Assembly consists of the 57 members (MLAs) elected to represent the people of Manitoba.<ref name=":0" />
+
+The [[Lieutenant Governor of Manitoba]], who is appointed by the [[Governor General of Canada]] on advice of the [[Prime Minister of Canada|Prime Minister]], represents the head of state, [[Monarchy in Manitoba|the Crown]].<ref name="roles" /> The head of state is primarily a ceremonial role, although the Lieutenant Governor has the official responsibility of ensuring that Manitoba always has a duly constituted government, with the authority to [[Opening of the Canadian parliament|summon]], [[Prorogation in Canada|prorogue]], and [[Dissolution of parliament#Canada|dissolve]] the legislature.<ref name="roles" /><ref name=":2" />
+
+In 1869, after the control of [[Rupert's Land]] was passed from Great Britain and the Hudson's Bay Company to the Government of Canada, Manitoba was split off of the [[North-Western Territory]] and was created as a province. It was given upper house (the [[Legislative Council of Manitoba|Legislative Council]]) and a lower house, attaining full-fledged rights and responsibilities of [[Self-governance|self-government]]. The Legislative Assembly of Manitoba was established on 14 July 1870,<ref>{{cite book|author=Dupont, Jerry|title=The Common Law Abroad: Constitutional and Legal Legacy of the British Empire|publisher=Fred B Rothman & Co|date=2000|pages=139–142|isbn=0-8377-3125-9}}</ref> and would first meet on 15 March 1871 in [[Fort Garry]] (now [[Winnipeg]]).<ref name=":1" /> In 1876, Manitoba abolished its upper house, thereby becoming a [[unicameralism|unicameral legislature]].<ref name=":1" /> In 1920 it was the first province in Canada to adopt a form of [[proportional representation]] to elect part of its legislative assembly. In the 1950s it was the first province in Canada to adopt an independent electoral commission to draw the boundaries of electoral districts. In 1980, the Office of the Chief Electoral Officer was established to serve as an independent office of the Legislative Assembly for the purpose of administering fair elections
+
+=== Executive ===
+The executive branch (or [[Cabinet (government)|cabinet]]) of Manitoba—the [[Executive Council of Manitoba|Executive Council]]—is formed by members who are appointed by the [[two-party system|majority party]] in the Legislative Assembly. That [[party leader|party's leader]] is the [[Premier of Manitoba]], and is both the [[head of government]] and the President of the Executive Council.<ref name=":2" />
+
+In addition to the Premier, the executive branch consists of [[List of Manitoba government departments and agencies|government ministries]] and deputy ministers.
+
+The [[Lieutenant Governor of Manitoba|Lieutenant Governor]] appoints and may dismiss the Premier and the members of their cabinets.<ref name=":2" />
+
+=== Judiciary ===
+Manitoba's judiciary consists of three courts:
+
+# the [[Provincial Court of Manitoba|Provincial Court]] — This court is primarily a criminal court; 95% of criminal cases in Manitoba are heard in this court.<ref>{{cite web|url=https://www.manitobacourts.mb.ca/pr/pr_work.html|title=Provincial Court – Description of the Court's Work|date=2006-09-21|publisher=Manitoba Courts|accessdate=2009-11-09}}</ref>
+# the [[Court of King's Bench of Manitoba|Court of King's Bench]] — This court is the highest trial court in Manitoba. It has four jurisdictions: [[family law]] ([[child and family services]] cases), [[civil law (common law)|civil law]], [[criminal law]] (for [[indictable offence]]s), and [[appeal]]s for Provincial Court decisions.
+# the [[Manitoba Court of Appeal|Court of Appeal]] — This court hears appeals from both the Court of King's Bench and the Provincial Court; decisions of this court can only be appealed to the [[Supreme Court of Canada]].<ref>{{cite book|author=Brawn, Dale|title=The Court of King's Bench of Manitoba, 1870–1950: A Biographical History|publisher=University of Toronto Press|location=Toronto|date=2006|pages=16–20|isbn=0-8020-9225-X}}</ref>
+
+==Official languages==
+{{further|Bilingualism in Canada|Manitoba Act}}Under section 23 of the 1870 ''[[Manitoba Act]]'' (which is part of the [[Constitution of Canada]]), both [[Canadian English|English]] and [[Canadian French|French]] are [[official language]]s of the legislature and courts of Manitoba.
+
+With a [[provisional government]] set up by [[Métis people (Canada)|Métis]] leader [[Louis Riel]] in the [[Red River Colony]]—following the [[Red River Rebellion]] (or Resistance) against the federal Canadian government—Prime Minister [[John A. Macdonald]] decided to negotiate with Riel and his party. The provisional government drafted four successive lists of rights, the final version of which became the basis of federal legislation that created Manitoba: the ''Manitoba Act''. In addition to demanding that Manitoba be admitted into [[Canadian Confederation|Confederation]] as a province (rather than a territory), among other things, the final list also demanded that the lieutenant governor of the new province speak both French and English. Though Macdonald was reluctant, Manitoba entered Confederation as a province, and English and French-language rights were safeguarded in the new legislature and the courts. However, the right to education in either English or French was not protected by the ''Act''.<ref name=":5">Rea, J. E., and Jeff Scott. 2006 February 7. "[https://www.thecanadianencyclopedia.ca/en/article/manitoba-act Manitoba Act]." ''The Canadian Encyclopedia''.</ref>
+
+In April 1890, the [[Manitoba Legislature]] ceased to publish bilingual legislation, as well as [[Manitoba Act#Controversies|taking other courses of action]] in attempts to abolish the official status of French in the province. However, in ''[[Reference Re Manitoba Language Rights]]'' (1985), the [[Supreme Court of Canada]] ruled that ''Manitoba Act'' [[Section sign|§]]23 still applied, and that legislation published only in English was invalid. (Unilingual legislation was declared valid for a temporary period to allow time for translation.)<ref>{{cite book|author=Hebert, Raymond M|title=Manitoba's French-Language Crisis: A Cautionary Tale|publisher=McGill-Queen's University Press|year=2005|pages=xiv–xvi, 11–12, 30, 67–69|isbn=978-0-7735-2790-4}}</ref><ref>[https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/60/index.do <nowiki>Re Manitoba Language Rights, [1985 1 SCR 721]</nowiki>]. – via ''LexUM''.</ref>
+
+Although French is an official language for the purposes of the legislature, legislation, and the courts, the ''Manitoba Act'' does not require it to be an official language for the purpose of the [[Executive Council of Manitoba|executive branch]]—except when performing legislative or judicial functions.<ref>In [1992] 1 S.C.R. 221–222 [http://scc-csc.lexum.com/scc-csc/scc-csc/en/item/834/index.do scc-csc.lexum.com] {{webarchive|url=https://web.archive.org/web/20140520003655/http://scc-csc.lexum.com/scc-csc/scc-csc/en/item/834/index.do|date=20 May 2014}}, the Supreme Court rejected the contentions of the Société Franco-manitobaine that §23 extends to executive functions of the executive branch.</ref> The Government of Manitoba is therefore not completely bilingual. The Manitoba French Language Services Policy of 1999 was established with the intent to provide a comparable level of provincial government services in both official languages.<ref>{{cite web|url=https://www.gov.mb.ca/fls-slf/pdf/fls_policy.pdf|title=Manitoba Francophone Affairs Secretariat|publisher=Government of Manitoba|accessdate=29 October 2009|url-status=live|archiveurl=https://web.archive.org/web/20100524231502/http://www.gov.mb.ca/fls-slf/pdf/fls_policy.pdf|archivedate=24 May 2010}}</ref> According to the [[2006 Canadian Census|2006 Census]], 82.8% of Manitoba's population spoke only English, 3.2% spoke only French, 15.1% spoke both, and 0.9% spoke neither.<ref>{{cite web|url=http://www40.statcan.gc.ca/l01/cst01/demo15-eng.htm|title=Population by knowledge of official language, by province and territory (2006 Census)|date=11 December 2007|publisher=Statistics Canada|accessdate=8 March 2010|url-status=dead|archiveurl=https://web.archive.org/web/20110115061228/http://www40.statcan.gc.ca/l01/cst01/demo15-eng.htm|archivedate=15 January 2011}}</ref>
+
+In 2010, the Government of Manitoba passed the ''Aboriginal Languages Recognition Act'', giving official recognition to seven indigenous languages: [[Cree language|Cree]], [[Dakota language|Dakota]], [[Dene language|Dene]], [[Inuktitut]], [[Michif]], [[Ojibway language|Ojibway]], and [[Oji-Cree language|Oji-Cree]].<ref>''[http://web2.gov.mb.ca/laws/statutes/ccsm/a001-5e.php The Aboriginal Languages Recognition Act].'' 17 June 2010. Retrieved 2021 January 29. [https://web.archive.org/web/20130411062204/http://web2.gov.mb.ca/laws/statutes/ccsm/a001-5e.php Archived] from the original on 11 April 2013.</ref>
+
+==Federal politics==
+{{further|Canadian federal election results in Winnipeg|Canadian federal election results in Rural Manitoba|}}[[Manitoba]] is represented in federal politics by fourteen [[Member of Parliament (Canada)|Members of Parliament]] and six [[Senate of Canada|Senator]]s.<ref name=":1" /><ref name=":3" /><ref name=":4" /> At its inception, the province was allotted only four seats in the federal Parliament, which at the time allowed strong representation for Manitoba considering its small population.<ref name=":5" />
+
+Federal elections are administered by [[Elections Canada]].
+
+=== Confederation ===
+{{further|Manitoba Act|Canadian Confederation|}}Following the [[Red River Rebellion]] (or Resistance) against the federal Canadian government—with concern over [[Métis]] land rights, among other things—local people of the [[Red River Settlement]] (or Colony) demanded for a voice to create the terms under which the Colony would be incorporated into the newly formed Canada. As such, a [[Popularly elected|popularly-elected]] convention supported the creation of a [[provisional government]]. This government, considered illegal by the federal government in Ottawa, was led by [[Louis Riel]], himself a Métis. With a provisional government in place, Prime Minister [[John A. Macdonald]] decided to negotiate with Riel and his people. Riel's government drafted four successive lists of rights, the final version of which became the basis of federal legislation that created the Province of Manitoba: the ''[[Manitoba Act]]'', which became part of the [[Constitution of Canada]]. Among other things, the final list demanded that Manitoba be admitted into [[Canadian Confederation|Confederation]] as a province (rather than a territory). Though met with reluctance from Macdonald, Manitoba indeed entered Confederation as a province.<ref name=":5" />
+
+Centred on the area of [[Fort Garry]], or present-day [[Winnipeg]], the initial geography of Manitoba was much smaller—roughly {{Convert|1,400,000|acre|sqkm|abbr=}} of land were set aside for the Métis upon the ''Manitoba Act''<nowiki/>'s passing.<ref name=":5" /> ([[Cf.]] Manitoba's total area today: {{Convert|160,610,000|acre|sqkm|abbr=out|disp=or}}.)<ref>{{cite web|title=Manitoba's Strategic Advantages {{!}} Economic Development and Jobs {{!}} Province of Manitoba|url=https://www.gov.mb.ca/jec/mbadvantage/land.html|access-date=2021-01-30|website=www.gov.mb.ca|language=en}}</ref> The small population and size of the province made it unable to support itself financially. The federal government agreed to pay [[Subsidy|subsidies]] to the province, as well as grant it four seats in the federal Parliament.<ref name=":5" />
+
+==Political parties==
+{{Main|List of political parties in Manitoba}}
+Historically, political parties first appeared between 1878 and 1883, with a two-party system: [[Manitoba Liberal Party|Liberals]] and [[Progressive Conservative Party of Manitoba|Conservative]].<ref name="adams">{{cite journal|author=Adams, Chris|date=2006-09-17|title=Manitoba's Political Party Systems: An Historical Overview|journal=Annual Meeting of the Canadian Political Science Association|publisher=York University|location=Toronto|pages=2–23}}</ref>
+
+The [[Progressive Party of Manitoba|United Farmers of Manitoba]] appeared in 1922, and later merged with the Liberals in 1932 to form the dominant political party.<ref name="adams" /> Other parties, including the [[Co-operative Commonwealth Federation (Manitoba)|Co-operative Commonwealth Federation]] (CCF), appeared during the Great Depression.<ref name="adams" />
+
+In the 1950s, Manitoban politics became a three-party system, and the Liberal party gradually declined in power.<ref name="adams" /> The CCF became the [[New Democratic Party of Manitoba|New Democratic Party]] (NDP), which came to power in 1969.<ref name="adams" /> Since then, the Conservatives, now the [[Progressive Conservative Party of Manitoba|Progressive Conservative Party]] (PC), and the NDP have been the dominant parties.<ref name="adams" />
+
+{| class="wikitable"
+|+Political parties/ideologies of Manitoba
+|- 
+! colspan=2 | Ideology
+! Party
+{{Canadian party colour|MB|Communist|row}}
+|[[Communism in Canada|Communism]]
+|[[Communist Party of Canada (Manitoba)|Communist Party]]
+{{Canadian party colour|MB|Green|row}}
+|[[Green politics]]
+|[[Green Party of Manitoba|Green Party]]
+{{Canadian party colour|MB|NDP|row}}
+| [[Social democracy]]
+| [[Manitoba New Democratic Party|New Democratic Party]]
+{{Canadian party colour|MB|Liberal|row}}
+| [[Liberalism in Canada|Liberalism]]
+| [[Manitoba Liberal Party|Liberal Party]]
+{{Canadian party colour|MB|PC|row}}
+| [[Conservatism in Canada|Conservatism]]
+| [[Progressive Conservative Party of Manitoba|Progressive Conservative Party]]
+{{Canadian party colour|MB|Manitoba|row}}
+| rowspan=2 | [[Right-wing libertarianism]]
+|[[Manitoba First]]
+{{Canadian party colour|MB|Manitoba Forward|row}}
+||[[Manitoba Forward]] 
+|}
+
+== Provincial elections ==
+{{Infobox legislation
+| short_title = ''The Elections Act''
+| legislature = [[Legislative Assembly of Manitoba]]
+| long_title = 
+| citation = [https://web2.gov.mb.ca/laws/statutes/ccsm/e030e.php C.C.S.M. c. E30]
+| territorial_extent = [[Manitoba]]
+| enacted_by = 4th Session, 38th Legislature
+| date_enacted = 
+| date_assented = 13 June 2006
+| date_commenced = 
+| bill = 
+| bill_citation = 
+| bill_date = 
+| introduced_by = 
+| 1st_reading = 
+| 2nd_reading = 
+| 3rd_reading = 
+| amended_by = [https://web2.gov.mb.ca/laws/statutes/2019/c02219e.php# SM 2019, c. 22]
+| related_legislation = {{plainlist|
+* ''[https://web2.gov.mb.ca/laws/statutes/ccsm/e027e.php The Election Financing Act]''
+* ''[https://web2.gov.mb.ca/laws/statutes/ccsm/e040e.php The Electoral Divisions Act]''
+* ''[https://web2.gov.mb.ca/laws/statutes/ccsm/l110e.php The Legislative Assembly Act]''
+}}
+| summary = 
+| keywords = 
+| status = current
+}}{{Main|List of Manitoba general elections|List of Manitoba by-elections}}
+In Manitoba, [[general election]]s to the [[Legislative Assembly of Manitoba|Legislative Assembly]] are typically held every five years; however, the [[Lieutenant Governor of Manitoba|Lieutenant Governor]] is able to call one at any time. The last general election of Manitoba was held on [[2023 Manitoba general election|3 October 2023]], four years after the one held on [[2019 Manitoba general election|10 September 2019]].
+
+These provincial elections are regulated by [[Elections Manitoba]]. Much like [[Chief Electoral Officer (Canada)|federal elections]], Manitoba elections are administered by the province's Chief Electoral Officer (CEO), who is appointed by the Lieutenant Governor-in-council. The Office of the Chief Electoral Officer was established in 1980 to serve as an independent office of the [[Legislative Assembly of Manitoba|Legislative Assembly]] and the [[Clerk (legislature)|Clerk]] of [[Executive Council of Manitoba|Executive Council]]. Obstructing the CEO would become an election offence as of 1998. Moreover, the CEO appoints the [[Commissioner of Elections]], who carries sole investigation and prosecution responsibilities.
+
+As of 2001, the CEO would also have the authority to appoint [[Returning officer|Returning Officers]], which was originally a political appointment by Cabinet. Prior to 2001, in the case of a tie vote, the Returning Officer would be the one to cast the deciding ballot. Tie votes are now resolved through a [[List of Manitoba by-elections|by-election]].
+
+=== History of electoral system ===
+{{Main|Elections Manitoba|}}
+In 1870, only males who were established members of the community and in good financial standing, could vote. At that time, voting took place at public constituency meetings, in which each voter would publicly declare his preference. There, the electoral officer would record the votes, and the simple plurality (i.e., [[First-past-the-post voting|first-past-the-post]] or FPTP) system was used to elect members for the 24 seats in the [[Legislative Assembly of Manitoba|Legislative Assembly]]. In 1888, the requirement to be in "good financial standing" was eliminated,<ref group="lower-roman">''Elections Act 1888''</ref> and two years later, those receiving government salary of [[CA$]]350 or more could now vote.<ref name=":6">{{cite web|url=https://www.electionsmanitoba.ca/en/Resources/History|title = History of Electoral Process from 1870 to 2011}}</ref><ref group="lower-roman">''Manitoba Elections Act'' ''1900''</ref>
+
+In 1916, Manitoba became the first Canadian province to grant [[Women's suffrage in Canada|women the right to vote]].<ref name=":6" /> (However it did not hold a general election until [[1920 Manitoba general election|1920]] so its first woman MLA did not come first in Canada.)
+
+A new system of representation was introduced in [[1914 Manitoba general election|1914]], when Winnipeg was divided into three constituencies, each represented by two members, each of which was elected in separate contest. Two ballots, one for each seat in a district, were issued. No candidate could be listed on both ballots in a district. The districts outside Winnipeg meanwhile retained the plain FPTP system.
+
+Manitoba's electoral system was again the center of innovation with the 1920 introduction of [[Single transferable vote]], a [[proportional representation]] election system, in Winnipeg. This was the first time a PR system was used in a provincial election in Canada.  In this system, the city was consolidated into a single constituency electing ten members; and voters cast one vote. Preferential votes were used to allow voters to mark back-up preferences. Voters had the right to indicate their preferences by putting a number beside candidates' names on the ballot paper (i.e., 1, 2, 3, etc.). The votes were counted using a method of counting provided via amendments to ''The Elections Act''.
+
+In 1924, the FPTP system in districts outside Winnipeg was replaced by [[instant-runoff voting|alternative voting]], where to be elected a candidate had to have a majority of the votes (or close to it). In constituencies with more than two candidates, voters cast transferable votes by ranking candidates by marking candidates' name on the ballot with a number - 1, 2, 3, etc.<ref name=":6" /> With the retention of STV in Winnipeg, the mixed STV/AV system was used in eight elections, until 1955. (In 1949 Winnipeg was redistricted.)
+
+[[Advance voting]] was first introduced during the [[1932 Manitoba general election|1932 general election of Manitoba]].<ref name=":6" /><ref name=":0" group="lower-roman">''Manitoba Elections Act 1931''</ref>
+
+In 1949,<ref group="lower-roman">''Elections Act'' 1949</ref> the single, ten-member constituency of Winnipeg was replaced by three constituencies, each represented by [[Multimember district|4 members]]. As well, the constituency of [[St. Boniface (provincial electoral district)|St. Boniface]] was given two members, also elected by STV.  IRV outside of Winnipeg and St. Boniface was retained.
+
+Six years later, Manitoba dropped the mixed STV/AV system. The four multi-member districts were divided into single-seat districts, and there and everywhere elsewhere the election system switched to [[First past the post]]. Winnipeg, St. Boniface and two suburban districts were made into 20 [[Single-member district|single-member]] constituencies.<ref name=":6" />
+
+Manitoba was the first province in Canada with an independent boundaries commission in 1957, when the Electoral Divisions Boundaries Commission is formed. The Commission included three members until 2006, when the number was increased to five and the presidents of [[Brandon University]] and [[University College of the North]] were added.<ref name=":6" />
+
+The voting age was lowered in 1969 from 21 to 18.<ref name=":6" />
+
+In 1980, the ''Elections Finances Act'' (EFA) was proclaimed in Manitoba,<ref group="lower-roman">[https://web2.gov.mb.ca/laws/statutes/ccsm/e027e.php ''The Election Financing Act'', C.C.S.M. c. E27]</ref> introducing spending limits on advertising for candidates and parties; a [[Tax credit|tax-credit]] system for contributions to registered political parties and candidates; and provisions for [[Financial disclosure of public servants|financial disclosure]] of contributions and expenses. Three years later, it would be decided that election day is always to take place on a Tuesday.<ref group="lower-roman">''Elections Act 1982''</ref> In 1985, spending limits were expanded to include all expenses, rather than just advertising. Since then, definitions were clarified (e.g., the definition of [[Campaign finance|''election expense'']]), exclusions were made (e.g., [[Voluntarism (philosophy)#Political voluntarism|voluntarism]] from being an election expense), and provisions were added (e.g., making [[advance payment]]s and assigning reimbursements) throughout the decades. Effective 1 July 1986, only [[Canadian citizens]] would be eligible to vote, which would exclude [[British subject]]s and [[landed immigrant]]s.<ref name=":6" />
+
+In 1998, penalties for election offences were increased. Though spending limits for advertising were also eliminated that year, they would be reinstated in 2001. Five years later, in 2006, rewriting of the ''Elections Act'' would bring about significant changes to understanding Manitoba's electoral system.<ref name=":6" /> A set election date was established in 2008, with the first election set to take place on [[2011 Manitoba general election|4 October 2011]], and subsequent elections to take place on the first Tuesday of October every four years. Also that year, election expense limits and election advertising expense limits for parties and candidates were increased; political parties were made entitled to [[Publicly funded elections|public funding]] (called an 'annual allowance'), with a requirement of having to file a statement in order to receive that allowance; the ban on government advertising and publications was extended to 90 days prior to a set-date election; and thresholds were increased for fundraising-event ticket sales and on items sold for fundraising.<ref name=":6" />
+{| class="wikitable"
+|+Enfranchisement in Manitoba
+!Date
+!Demographic
+|-
+|1916
+|[[Women's suffrage in Canada|Women]]
+|-
+|1932
+|[[First Nations in Manitoba|First Nations]] persons in [[Canadian Armed Forces|Armed Forces]]<ref name=":0" group="lower-roman" />
+|-
+|1952
+|[[Treaty 1|Manitoba's Treaty Indian population]]<ref group="lower-roman">''Manitoba Elections Act 1952'', section 5, p. 51</ref>
+|}
+
+=== Seats won in past elections ===
+{{Main|List of Manitoba general elections}}
+The current [[List of premiers of Manitoba|Premier of Manitoba]] is [[Wab Kinew]], who leads the [[New Democratic Party of Manitoba|New Democratic Party]] (NDP) with 34 seats. The [[Progressive Conservative Party of Manitoba|Progressive Conservative Party]] (PC) holds 22 seats, and the [[Manitoba Liberal Party|Liberal Party]] with 1 seat; however, the Liberals do not have official party status in the Manitoba Legislature.<ref name="39th">{{cite web|url=https://www.electionsmanitoba.ca/en/Results/Elections/2019|title=39th General Election|publisher=Elections Manitoba|accessdate=2020-10-31|archiveurl=https://web.archive.org/web/20201031113535/https://www.electionsmanitoba.ca/en/Results/Elections/2019|url-status=dead|archivedate=2020-10-31}}</ref>
+{| class="wikitable"
+|+Seats in the Legislative Assembly
+!Date
+!Number of seats
+!Notes
+|-
+|1870
+|24 seats
+|
+|-
+|1892
+|40 seats<ref group="lower-roman">''Manitoba Electoral Divisions Act 1892'', section 8, p. 27</ref>
+|
+|-
+|1914
+|49 seats<ref group="lower-roman">''Manitoba Legislative Act 1914''</ref>
+|
+|-
+|1920
+|55 seats<ref>''Manitoba Legislative Act 1920''</ref>
+|
+|-
+|1946
+|58 seats
+|This increase was caused by the addition of 3 members to represent the three branches of the [[Canadian Armed Forces|Armed Forces]], elected by Manitobans in the Armed Forces.
+|-
+|1949
+|57 seats
+|The 3 Armed Forces seats in the Assembly are eliminated, while the number of constituencies within Manitoba is increased to 57.
+|}
+
+====Before World War I====
+
+{| class="wikitable"
+|+ Seats won by party, 1879–1914
+|-
+| colspan = "2"| '''Government'''
+| {{Canadian party colour|MB|Conservative|background}} align="center" colspan=3|'''Conservative'''
+| {{Canadian party colour|MB|Liberal|background}} align="center" colspan=3|'''Liberal'''
+| {{Canadian party colour|MB|Conservative|background}} align="center" colspan=5|'''Conservative'''
+|- 
+! colspan = "2"|Party !! 1879 !! 1883 !! 1886 !! 1888 !! 1892 !! 1896 !! 1899 !! 1903 !! 1907 !! 1910 !! 1914
+|- align = "right"
+| bgcolor="#9999FF" | &nbsp; &nbsp;  || align="left"|'''Liberal-Conservative''' || 7|| || || || 2|| || 3|| || || || 
+|- align = "right"
+| bgcolor="#9999FF" | &nbsp; &nbsp; || align="left"|'''[[Progressive Conservative Party of Manitoba|Conservative]]''' || 6|| 20|| 20|| 4|| 9|| 5|| 18|| 32|| 28|| 28|| 28
+|- align = "right"
+| bgcolor="#EA6D6A" | &nbsp; &nbsp; || align="left"|'''[[Manitoba Liberal Party|Liberal]]''' || 2|| 10|| 15|| 33|| 26|| 32|| 17||8 || 13|| 13|| 20
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp;  || align="left"|'''National Party''' || 1|| || || || || || || || || ||
+|- align = "right"
+| bgcolor="#A52A2A" | &nbsp; &nbsp;  || align="left"|'''[[Patrons of Industry in Manitoba|Patrons of Industry]]''' || || || || || || 2|| || || || ||
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp;  || align="left"|'''Independent Conservative''' || 2|| || || || || || 2|| || || ||
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp;  || align="left"|'''Independent Liberal''' || 1|| || || || 2|| || || || || ||
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp;  || align="left"|'''Independent''' || 5|| || ||1 || 1|| 1|| || || || || 1
+|- align = "right"
+| colspan = "2" align="left"|'''Total''' || 24|| 30|| 35|| 38|| 40|| 40|| 40|| 40|| 41||41 || 49
+|}
+
+====Farmers, Labour, CCF and Duff Roblin (1915–69)====
+
+{| class="wikitable"
+|+ Seats won by party, 1915–66
+|-
+| colspan = "2"| '''Government'''
+| {{Canadian party colour|MB|Liberal|background}} align="center" colspan=2|'''Liberal'''
+| {{Canadian party colour|MB|Progressive|background}} align="center" |'''UFM'''
+| {{Canadian party colour|MB|Progressive|background}} align="center" |'''Progressive'''
+| {{Canadian party colour|MB|Liberal-Progressive|background}} align="center" colspan=2|'''L-P'''
+| {{Canadian party colour|MB|Coalition|background}} align="center" colspan=3|'''Coalition'''
+| {{Canadian party colour|MB|Liberal|background}} align="center" |'''L-P'''
+| {{Canadian party colour|MB|PC|background}} align="center" colspan=4|'''Progressive Conservative'''
+|- 
+! colspan = "2"|Party !! [[1915 Manitoba general election|1915]] !! [[1920 Manitoba general election|1920]] !! [[1922 Manitoba general election|1922]] !! [[1927 Manitoba general election|1927]] !! [[1932 Manitoba general election|1932]] !! [[1936 Manitoba general election|1936]] !! [[1941 Manitoba general election|1941]] !! [[1945 Manitoba general election|1945]] !! [[1949 Manitoba general election|1949]] !! [[1953 Manitoba general election|1953]] !! [[1958 Manitoba general election|1958]] !! [[1959 Manitoba general election|1959]] !! [[1962 Manitoba general election|1962]] !! [[1966 Manitoba general election|1966]]
+|- align = "right"
+| bgcolor="#EA6D6A" | &nbsp; &nbsp; || align="left"|'''[[Manitoba Liberal Party|Liberal]]''' || 40|| 21|| 8|| 7|| || || || || || || || || 13||14
+|- align = "right"
+| bgcolor="#EA6D6A" | &nbsp; &nbsp; || align="left"|'''[[Manitoba Liberal Party|Liberal-Progressive]]''' || || || || || 38|| 23|| 27|| 25|| 31|| 32|| 19|| 11|| ||
+|- align = "right"
+| bgcolor="#EA6D6A" | &nbsp; &nbsp; || align="left"|'''[[Independent Liberal-Progressive candidates in the 1953 Manitoba provincial election|Independent Liberal-Progressive]]''' || || || || || || || || || || 3|| || || ||
+|- align = "right"
+| bgcolor="#9999FF" | &nbsp; &nbsp; || align="left"|'''[[Progressive Conservative Party of Manitoba|Conservative]]''' || 5|| 8|| 7|| 15|| 10|| 16|| 12|| || || || || || ||
+|- align = "right"
+| bgcolor="#9999FF" | &nbsp; &nbsp; || align="left"|'''Anti-Coalition Conservative''' || || || || || || || 3|| || || || || || ||
+|- align = "right"
+| bgcolor="#9999FF" | &nbsp; &nbsp; || align="left"|'''[[Progressive Conservative Party of Manitoba|Progressive Conservative]]''' || || || || || || || || 13|| 9|| 12|| 26|| 36|| 36||31
+|- align = "right"
+| bgcolor="#B9E5B9" | &nbsp; &nbsp; || align="left"|'''[[Progressive Party of Manitoba|Farmer]]''' || || 12|| || || || || || || || || || || ||
+|- align = "right"
+| bgcolor="#66CC00" | &nbsp; &nbsp; || align="left"|'''[[Progressive Party of Manitoba|United Farmers of Manitoba]]''' || || || 28|| || || || || || || || || || ||
+|- align = "right"
+| bgcolor="#66CC00" | &nbsp; &nbsp; || align="left"|'''[[Progressive Party of Manitoba|Progressive]]''' || || || || 29|| || || || || || || || || ||
+|- align = "right"
+| bgcolor="#EEBBBB" | &nbsp; &nbsp; || align="left"|'''[[Dominion Labour Party (Manitoba)|Labour]]''' || || 9|| || || || || || || || || || || ||
+|- align = "right"
+| bgcolor="#EEBBBB" | &nbsp; &nbsp; || align="left"|'''[[Independent Labour Party (Manitoba, 1920)|Independent Labour]]''' || || || 6|| 3|| 5|| || || || || || || || ||
+|- align = "right"
+| bgcolor="#EEDDAA" | &nbsp; &nbsp; || align="left"|'''[[Independent Labour Party (Manitoba, 1920)|ILP-CCF]]''' || || || || || || 7|| || || || || || || ||
+|- align = "right"
+| bgcolor="#EEDDAA" | &nbsp; &nbsp; || align="left"|'''[[Co-operative Commonwealth Federation (Manitoba Section)|Co-operative Commonwealth Federation]]''' || || || || || || || 3|| 9|| 7|| 5|| 11|| 10|| ||
+|- align = "right"
+| bgcolor="#F4A460" | &nbsp; &nbsp; || align="left"|'''[[New Democratic Party of Manitoba|New Democratic]]''' || || || || || || || || || || || || || 7||11
+|- align = "right"
+| bgcolor="#DA7C7C" | &nbsp; &nbsp; || align="left"|'''[[Social Democratic Party of Canada (in Manitoba)|Social Democratic]]''' || 1|| 1|| || || || || || || || || || || ||
+|- align = "right"
+| bgcolor="#FFD700" | &nbsp; &nbsp; || align="left"|'''[[Socialist Party of Canada (Manitoba)|Socialist]]''' || || 1|| || || || || || || || || || || ||
+|- align = "right"
+| bgcolor="#90EE90" | &nbsp; &nbsp; || align="left"|'''[[Manitoba Social Credit Party|Social Credit]]''' || || || || || || 5|| 3|| 2|| || 2|| || || 1||1
+|- align = "right"
+| bgcolor="#FF6347" | &nbsp; &nbsp; || align="left"|'''[[Communist Party of Canada (Manitoba)|Communist]]''' || || || || || || 1|| || || || || || || ||
+|- align = "right"
+| bgcolor="#FF6347" | &nbsp; &nbsp; || align="left"|'''[[Communist Party of Canada (Manitoba)|Labour Progressive]]''' || || || || || || || || 1|| 1|| 1|| || || ||
+
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp;  || align="left"|'''Independent''' || 1|| 3|| 6|| 1|| 2|| 3|| 7|| 5|| 9|| 2|| 1|| || ||
+|- align = "right"
+| colspan = "2" align="left"|'''Total''' || 47|| 55|| 55|| 55|| 55|| 55|| 57|| 57|| 57|| 57|| 57|| 57|| 57||57
+|}
+
+==== Recent history (1969–present) ====
+
+{| class="wikitable"
+|+ Seats won by party, 1969&ndash;2019
+|-
+| colspan = "2"| '''Government'''
+| {{Canadian party colour|MB|NDP|background}} align="center" colspan=2|'''NDP'''
+| {{Canadian party colour|MB|PC|background}} align="center" |'''PC'''
+| {{Canadian party colour|MB|NDP|background}} align="center" colspan=2|'''NDP'''
+| {{Canadian party colour|MB|PC|background}} align="center" colspan=3|'''PC'''
+| {{Canadian party colour|MB|NDP|background}} align="center" colspan=4|'''NDP'''
+| {{Canadian party colour|MB|PC|background}} align="center" colspan=2|'''PC'''
+| {{Canadian party colour|MB|NDP|background}} align="center" |'''NDP'''
+|- 
+! colspan = "2"|Party !! [[1969 Manitoba general election|1969]]!! [[1973 Manitoba general election|1973]]!! [[1977 Manitoba general election|1977]]!! [[1981 Manitoba general election|1981]]!! [[1986 Manitoba general election|1986]]!! [[1988 Manitoba general election|1988]]!! [[1990 Manitoba general election|1990]]!! 1995 !! 1999 !! 2003 !! 2007 !! 2011 !! 2016 !! 2019 !! 2023
+|- align = "right"
+| bgcolor="#F4A460" | &nbsp; &nbsp; || align="left"|'''[[New Democratic Party of Manitoba|New Democratic]]'''  || 28|| 31|| 23|| 34|| 30|| 12|| 20|| 23|| 32|| 35|| 36||37||14 || 18 || 34
+|- align = "right"
+| bgcolor="#9999FF" | &nbsp; &nbsp; || align="left"|'''[[Progressive Conservative Party of Manitoba|Progressive Conservative]]''' || 22|| 21|| 33|| 23|| 26|| ''25''|| 30|| 31|| 24|| 20|| 19||19||40 || 36 || 22
+|- align = "right"
+| bgcolor="#EA6D6A" | &nbsp; &nbsp; || align="left"|'''[[Manitoba Liberal Party|Liberal]]''' || 5|| 5|| 1|| || 1|| 20|| 7|| 3|| 1|| 2|| 2|| 1||3 || 3 || 1
+|- align = "right"
+| bgcolor="#90EE90" | &nbsp; &nbsp; || align="left"|'''[[Manitoba Social Credit Party|Social Credit]]''' || 1|| || || || || || || || || || || || || ||
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp;  || align="left"|'''Independent''' || 1|| || || || || || || || || || || || || ||
+|- align = "right"
+| colspan = "2" align="left"|'''Total''' || 57|| 57|| 57|| 57|| 57|| 57|| 57|| 57|| 57|| 57|| 57||57||57 || 57 || 57
+|}
+
+{| class="wikitable" style="text-align:right;"
+|+ % share of popular vote by party
+|- 
+! colspan = "2"|Party !! 1969 !! 1973 !! 1977 !! 1981 !! 1986 !! 1988 !! 1990 !! 1995 !! 1999 !! 2003 !! 2007 !! 2011 !! 2016 || 2019 !! 2023
+|-
+{{Canadian party colour|MB|NDP|row-name}}
+| 38.27|| 42.31|| 38.62|| 47.38|| 41.50|| 23.62|| 28.80|| 32.81|| 44.51|| 49.47|| 48.00||46.16||25.74 || 31.38 || 45.63
+|-
+{{Canadian party colour|MB|PC|row-name}}
+| 35.56|| 36.73|| 48.75|| 43.82|| 40.56|| 38.37|| 41.99||42.87 || 40.84|| 36.19|| 37.89||43.71||53.20 || 47.07 || 41.86
+|-
+{{Canadian party colour|MB|Liberal|row-name}}
+| 23.99|| 19.04|| 12.29|| 6.70|| 13.92|| 35.52|| 28.15|| 23.72|| 13.40|| 13.19|| 12.39||7.52||14.24 || 14.48 || 10.63
+|-
+{{Canadian party colour|MB|Social Credit|row-name}}
+| 1.36|| 0.37|| 0.27|| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;||&ndash;||&ndash; ||&ndash; ||&ndash;
+|-
+{{Canadian party colour|MB|Progressive (1981)|row-name}}
+| &ndash;|| &ndash;|| &ndash;|| 1.81|| 0.51|| 0.18|| 0.24|| &ndash;|| &ndash;|| &ndash;|| &ndash;||&ndash;||&ndash; ||&ndash; ||&ndash;
+|-
+{{Canadian party colour|MB|CoR|row-name}}
+| &ndash;|| &ndash;|| &ndash;|| &ndash;|| 2.44|| 1.32|| 0.32|| &ndash;|| &ndash;|| &ndash;||&ndash; ||&ndash;||&ndash; ||&ndash; ||&ndash;
+|-
+{{Canadian party colour|MB|Western Canada Concept|row-name}}
+| &ndash;|| &ndash;|| &ndash;|| &ndash;|| 0.14|| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;||&ndash; ||&ndash;||&ndash; ||&ndash; ||&ndash;
+|-
+{{Canadian party colour|MB|Western Independence|row-name}}
+| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;|| 0.45|| 0.28|| &ndash;||&ndash; || &ndash;|| &ndash;||&ndash;||&ndash; ||&ndash; ||&ndash;
+|-
+{{Canadian party colour|MB|Green|row-name}}
+| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;|| 0.20|| 0.96|| 1.34||2.52||5.17 || 6.43 || 0.74
+|-
+| style="width: 5px; background-color: #D1AA29;" | 
+|align=left|[[Manitoba Party (2016)|Manitoba Party/Manitoba First]]
+| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;||&ndash; || &ndash;|| &ndash;||&ndash;||1.11 || 0.14 ||&ndash;
+|-
+{{Canadian party colour|MB|Keystone|row-name}}
+| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;|| &ndash;||&ndash; || &ndash;|| &ndash;||&ndash;||&ndash; || &ndash; || 0.77
+|-
+{{Canadian party colour|MB|Independent|row-name}}
+| 0.60|| 1.49|| &ndash;|| 0.24|| 0.85|| 0.39|| 0.09|| 0.47|| 0.25|| 0.04|| 0.30||0.05||0.46 || 0.18 || 0.28
+|-
+{{Canadian party colour|MB|Other|row-name}}
+| 0.22|| 0.06|| 0.07|| 0.05|| 0.08|| 0.14|| 0.13|| 0.13|| 0.80|| 0.14|| 0.09||0.04||0.07 ||&ndash; || 0.09
+|}
+
+==Administrative divisions and municipal elections==
+Winnipeg city elections began to use [[single transferable voting]] (STV) in 1920, electing six councillors in three wards but only three at a time due to staggered terms. This system was used until 1970, when single-member wards were introduced.<ref>J. Paul Johnston and Miriam Koene, "Learning History’s Lessons Anew: The Use of STV in Canadian Municipal Elections" (pp. 205-247), in Bowler and Grofman, Elections in Australia, Ireland, and Malta under the Single Transferable Vote: Reflections on an Embedded Institution</ref>
+
+Meanwhile Winnipeg's municipal structure was changed to the Metro system.
+
+[[File:Manitoba municipalities 2015.png|thumb|right|The urban and rural municipalities of Manitoba.]]
+
+Below the provincial level of government, Manitoba is divided into [[List of municipalities in Manitoba|municipalities]] of two types: urban and rural. A municipality in Manitoba is "a municipality that is continued or formed under" the ''Municipal Act'', which was enacted in 1996.<ref name=MuniAct>{{cite web | url=https://web2.gov.mb.ca/laws/statutes/ccsm/_pdf.php?cap=m225 | title=The Municipal Act (enacted 1996) | publisher=Government of Manitoba | date=September 12, 2013 | access-date=September 16, 2013}}</ref> Municipalities that can be formed under this legislation include urban municipalities (cities, towns and villages) and rural municipalities.<ref name=MuniAct/> The ''Local Government Districts Act'', enacted in 1987, allows the formation of local government districts as another municipality type.<ref name=LGDAct>{{cite web | url=https://web2.gov.mb.ca/laws/statutes/ccsm/_pdf.php?cap=l190 | title=The Local Government Districts Act (enacted 1987) | publisher=Government of Manitoba | date=September 24, 2013 | access-date=September 26, 2013}}</ref> Of Manitoba's 137 municipalities, 37 of them are urban municipalities (10 cities, 25 towns and 2 villages), 98 are rural municipalities and 2 are local government districts.<ref name=2010stats>{{cite web | url=http://web5.gov.mb.ca/mfas/pdf/10_stats.pdf | archive-url=https://web.archive.org/web/20130929142020/http://web5.gov.mb.ca/mfas/pdf/10_stats.pdf | url-status=dead | archive-date=September 29, 2013 | title=2010 Statistical Information for Municipalities in the Province of Manitoba | publisher=Manitoba Department of Local Government | access-date=September 12, 2013 }}</ref> The ''Municipal Act'' and the ''Local Government Districts Act'' stipulate governance of these municipalities.<ref name=MuniAct/><ref name=LGDAct/> Additional charters or acts are in place specifically for the cities of [[Brandon, Manitoba|Brandon]], [[Flin Flon]], [[Portage la Prairie]], [[Thompson, Manitoba|Thompson]] and [[Winnipeg]], the towns of [[Morris, Manitoba|Morris]] and [[Winnipeg Beach, Manitoba|Winnipeg Beach]], and the rural municipalities of [[Rural Municipality of Kelsey|Kelsey]], [[Rural Municipality of St. Andrews|St. Andrews]] and [[Rural Municipality of Victoria Beach|Victoria Beach]].<ref name=muniacts>{{cite web | url=https://web2.gov.mb.ca/laws/statutes/index_muni.php | title=Municipal Acts | publisher=Government of Manitoba | date=September 12, 2013 | access-date=September 16, 2013}}</ref>
+
+== See also ==
+{{Portal|Canada|Politics}}
+* [[List of Manitoba general elections]]
+* [[Monarchy in Manitoba]]
+*[[List of Manitoba government departments and agencies]]
+*[[Elections Manitoba]]
+* [[Politics of Canada]]
+** [[Political culture of Canada]]
+** [[Council of the Federation]]
+
+==References==
+{{Reflist}}
+
+=== Cited legislation ===
+{{Reflist|group=lower-roman}}
+
+== Further reading ==
+
+* Adams, Christopher. 2008. ''Politics in Manitoba: Parties, Leaders, and Voters''. Winnipeg: University of Manitoba Press. {{ISBN|9780887557040}}.
+* Thomas, Paul, and Curtis Brown, eds. 2010. ''Manitoba Politics and Government: Issues, Institutions, Traditions''. Winnipeg: University of Manitoba Press. {{ISBN|9780887557194}}.
+
+== External links ==
+
+* "[https://www.youtube.com/watch?v=xsRJwN_kfj8&feature=emb_title&ab_channel=ElectionsManitoba Three Levels of Government in Canada (English)]." Elections Manitoba. 2020 October 19.
+{{Manitoba politics}}{{MB-ED}}{{MBPremiers}}{{Manitoba provincial political parties}}
+
+{{Navboxes|list1={{Canada topic|1=Politics of}}
+{{Politics of Canadian provinces}}|title=Articles related to Politics in Canada}}
+
+{{DEFAULTSORT:Politics Of Manitoba}}
+[[Category:Politics of Manitoba| ]]

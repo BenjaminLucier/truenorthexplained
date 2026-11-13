@@ -1,0 +1,596 @@
+{{Short description|none}}
+{{distinguish|text=[[Elections Canada]] which administers elections}}
+{{For|national general election results|List of Canadian federal elections}}
+<!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{Use mdy dates|date=October 2019}}
+{{Politics of Canada}}
+
+[[Canada]] holds [[election]]s for legislatures or governments in several jurisdictions: for the [[Government of Canada|federal (national) government]], [[Provinces and territories of Canada|provincial and territorial governments]], and [[Municipal government in Canada|municipal governments]]. Elections are also held for [[First Nations government (Canada)|self-governing First Nations]] and for many other public and private organizations including [[Canadian corporation|corporations]] and [[trade unions]]. Municipal elections can also be held for both upper-tier ([[regional municipality]] or [[county]]) and lower-tier (town, village, or city) governments.
+
+Formal elections have occurred in Canada since at least 1792, when both [[Legislative Assembly of Upper Canada|Upper Canada]] and [[Legislative Assembly of Lower Canada|Lower Canada]] had their first elections. Canada's first recorded election was held in Halifax in 1758 to elect the [[1st General Assembly of Nova Scotia]].<ref>"Proclamation" (PDF). Nova Scotia Legislature. Province of Nova–Scotia. May 20, 1758. Democracy 250 : Celebrating 250 Years of Parliamentary Democracy in Canada</ref>
+
+All Canadian citizens aged 18 or older may register and vote in federal elections.<ref>{{Cite web |last=Canada |first=Elections |title=Voter Registration |url=https://www.elections.ca/content.aspx?section=vot&dir=reg&document=index&lang=e |archive-url=https://web.archive.org/web/20250521185959/https://www.elections.ca/content.aspx?section=vot&dir=reg&document=index&lang=e |archive-date=May 21, 2025 |access-date=2025-06-06 |website=Elections Canada |language=en |url-status=live }}</ref> Elections for other levels of government may have additional residency or ownership requirements. For example, some municipalities allow both residents and non-resident landowners to vote.
+
+The most recent Canadian federal election occurred on [[2025 Canadian federal election|April 28, 2025]]. The [[Constitution of Canada|Constitution]] limits terms for Parliament and all provincial legislatures to five years; current legislation [[Fixed election dates in Canada|fixes terms at four years]] at the federal level and in every province except Nova Scotia. However, as in other [[Westminster system]]s, a parliamentary term may still be ended early due to a successful [[Motion of no confidence|vote of no confidence]] or a [[snap election]] called by the ruling government. Though not impossible, there have never been two general elections in the same calendar year, either at the federal level or in any province or territory.
+
+Although only the [[first-past-the-post voting]] is used currently in federal and all provincial '''elections in Canada''', federal elections in the 1867-1970 period and elections in every province (except Quebec) used other election systems and multi-member districts at one time or another between 1867 and 1996. Through the years, Canadians have seen numerous instances of electoral reform and attempted electoral reform. Alberta was the first province to elect all its MLAs using non-FPTP systems, in [[1926 Alberta general election|1926]]. Also recent attempts to change from first past the post to a different electoral system by referendum failed (or were ignored) in [[2005 British Columbia electoral reform referendum|B.C. in 2005]] and [[2018 British Columbia electoral reform referendum|2018]], [[2005 Prince Edward Island electoral reform referendum|P.E.I. in 2005]], [[2016 Prince Edward Island electoral reform referendum|2016]], and [[2019 Prince Edward Island electoral reform referendum|2019]], [[2007 Ontario electoral reform referendum|Ontario in 2007]], and [[2025 Yukon electoral reform referendum|Yukon in 2025]].<ref>{{Cite web |last=Windeyer |first=Chris |date=October 8, 2025 |title=Yukoners will vote on electoral reform, but will anything actually change? |url=https://www.cbc.ca/news/canada/north/yukon-electoral-reform-1.7653790 |website=CBC News}}</ref> Referendums on electoral reform have been proposed or cancelled in other provinces.
+
+==Latest election==
+{{2025 Canadian federal election results}}
+
+==Electoral regulatory bodies==
+{{See also|Canadian electoral system|Fixed election dates in Canada}}
+
+Elections in Canada (federal, provincial, or Territorial) are organized by their respective election regulatory bodies as follows:
+{{sticky header}}
+{| class="wikitable sortable sticky-header" border="1" style="float: left;"
+|+ style="font-size:100%; background:#cef; text-align:center; border:1px solid #a2a9b1; border-bottom:none" |Canadian electoral regulatory bodies
+|-
+!Jurisdiction
+!Electoral regulatory body (year established)
+!Periodic oversight of legislative seat contests in any given election
+!Date of most recent major election
+!Next major election scheduled for / required by
+|-
+|{{Flagicon|Canada}} [[Canada|Federal]]
+|[[Elections Canada]] (1920)
+|[[Lower house]]: All 343 seats in the [[House of Commons of Canada]] (every 4 years, on the third Monday of October)
+|[[2025 Canadian federal election|April 28, 2025]]
+|[[46th Canadian federal election|October 15, 2029]]
+|-
+|{{Flag|British Columbia}}
+|[[Elections BC]] (1995)
+|Unicameral: All 93 seats in the [[Legislative Assembly of British Columbia]] (every 4 years, on the third Saturday of October)
+|[[44th British Columbia general election|October 24, 2026]]
+|[[45th British Columbia general election|October 19, 2030]]
+|-
+|{{Flag|Alberta}}
+|[[Elections Alberta]] (1977)
+|Unicameral: All 87 seats in the [[Legislative Assembly of Alberta]] (every 4 years, on the third Monday of October, notwithstanding exceptions)
+|[[2023 Alberta general election|May 29, 2023]]
+|[[32nd Alberta general election|October 18, 2027]]
+|-
+|{{Flag|Saskatchewan}}
+|[[Elections Saskatchewan]] (1959)
+|Unicameral: All 61 seats in the [[Legislative Assembly of Saskatchewan]] (every 4 years, on the last Monday of October)
+|[[2024 Saskatchewan general election|October 28, 2024]]
+|[[31st Saskatchewan general election|October 30, 2028]]
+|-
+|{{Flag|Manitoba}}
+|[[Elections Manitoba]] (1980)
+|Unicameral: All 57 seats in the [[Legislative Assembly of Manitoba]] (every 4 years, on the first Tuesday of October)
+|[[2023 Manitoba general election|October 3, 2023]]
+|[[44th Manitoba general election|October 5, 2027]]
+|-
+|{{Flag|Ontario}}
+|[[Elections Ontario]] (1919)
+|[[Unicameralism|Unicameral]]: All 124 seats in the [[Legislative Assembly of Ontario]] (every 5 years)
+|[[44th Ontario general election|February 27, 2025]]
+|[[45th Ontario general election|April 11, 2030]]
+|-
+|{{Flag|Quebec}}
+|[[Élections Québec]] (1945)
+|Unicameral: All 127 seats in the [[National Assembly of Quebec]] (every 4 years, on the first Monday of October)
+|[[2026 Quebec general election|October 5, 2026]]
+|[[45th Quebec general election|October 7, 2030]]
+|-
+|{{Flag|Nova Scotia}}
+|[[Elections Nova Scotia]] (1991)
+|Unicameral: All 55 seats in the [[Nova Scotia House of Assembly]] (every 5 years)
+|[[2024 Nova Scotia general election|November 26, 2024]]
+|[[66th Nova Scotia general election|December 7, 2029]]
+|-
+|{{Flag|New Brunswick}}
+|[[Elections New Brunswick]] (1967)
+|Unicameral: All 49 seats in the [[Legislative Assembly of New Brunswick]] (every 4 years, on the third Monday of October)
+|[[41st New Brunswick general election|October 21, 2024]]
+|[[42nd New Brunswick general election|October 23, 2028]]
+|-
+|{{Flag|Newfoundland and Labrador}}
+|[[Elections Newfoundland & Labrador]] (1991)
+|Unicameral: All 40 seats in the [[Newfoundland and Labrador House of Assembly]] (every 4 years, on the second Tuesday of October)
+|[[2025 Newfoundland and Labrador general election|October 14, 2025]]
+|[[53rd Newfoundland and Labrador general election|October 9, 2029]]
+|-
+|{{Flag|Prince Edward Island}}
+|[[Elections Prince Edward Island]] (1965)
+|Unicameral: All 27 seats in the [[Legislative Assembly of Prince Edward Island]] (every 4 years, on the first Monday of October)
+|[[2023 Prince Edward Island general election|April 3, 2023]]
+|[[68th Prince Edward Island general election|October 4, 2027]]
+|-
+|{{Flag|Northwest Territories}}
+|[[Elections NWT]] (1997)
+|Unicameral: All 19 seats in the [[Legislative Assembly of the Northwest Territories]] (every 4 years, on the first Tuesday of October)
+|[[2023 Northwest Territories general election|November 14, 2023]]
+|[[2027 Northwest Territories general election|October 5, 2027]]
+|-
+|{{Flag|Yukon}}
+|[[Elections Yukon]] (2002)
+|Unicameral: All 21 seats in the [[Yukon Legislative Assembly]] (every 4 years, on the first Monday of November)
+|[[40th Yukon general election|November 3, 2025]]
+|[[41st Yukon general election|November 5, 2029]]
+|-
+|{{Flag|Nunavut}}
+|[[Elections Nunavut]] (2003)
+|Unicameral: All 22 seats in the [[Legislative Assembly of Nunavut]] (every 4 years, on the last Monday of October)
+|[[2025 Nunavut general election|October 27, 2025]]
+|[[2029 Nunavut general election|October 29, 2029]]
+|}
+{{clear}}
+
+==National (federal) elections==
+The [[Parliament of Canada]] has two [[bicameralism|chambers]]: the [[House of Commons of Canada|House of Commons]] has 343 members, elected for a maximum five-year term in single-seat [[electoral district (Canada)|electoral district]]s through [[first-past-the-post voting]], and the [[Senate of Canada|Senate]] has 105 members appointed by the [[Governor General of Canada|governor general]] on the [[Advice (constitutional)|advice]] of the [[Prime Minister of Canada|prime minister]]. Senators are given permanent terms (up to age 75) and thus often serve much longer than the prime minister who was primarily responsible for their appointment.
+
+National elections are governed by the ''[[Canada Elections Act]]'' and administered by an independent agency, [[Elections Canada]]. [[Canadians]] vote for their choice for local [[Member of Parliament]] (MP), who will hold a seat in the House of Commons. Under [[first-past-the-post voting]], the plurality winner is elected and then votes as the named representative of that specific [[Electoral district (Canada)|constituency]] in the House of Commons. But in practice usually voting in line with other members of their party caucus in the House of Commons.
+
+The leader of the party most likely to hold the confidence of the House of Commons becomes the prime minister. They stay in power as long as they hold the support of a majority of MPs in the House of Commons.
+
+Most MPs are members of a [[political party]], although candidates may stand for election and be elected as [[Independent politician#Canada|independents]] unaffiliated with any political party. The practice of listing candidates' party affiliation on ballots began with the [[1972 Canadian federal election|1972 election]]. Since then, the Canada Elections Act has required that a local candidate running under a party label be directly approved by the leader of their affiliated party, effectively centralizing the candidate nomination process.<ref>
+{{cite book |editor-last1=Pammet |editor-first1=Jon |editor-last2=Dornan |editor-first2=Christopher |last=Cross |first=William |title=The Canadian General Election of 2006 |publisher=Dundurn |date=September 1, 2006 |pages=[https://archive.org/details/canadianfederale0000unse/page/172 172–195] |chapter=Chapter 7: Candidate Nomination in Canada's Political Parties |isbn=978-1550026504 |chapter-url=http://paperroom.ipsa.org/papers/paper_5470.pdf |url=https://archive.org/details/canadianfederale0000unse/page/172 }}
+</ref>
+
+Once MPs are elected, sitting members of parliament are permitted to "[[cross the floor]]" switching party affiliation without having to first resign and restand for office under their new affiliation. Sitting members may also be dismissed from or voluntarily leave their party and become independents. By-elections (casual vacancies) also may change the party seat counts. As a result, the distribution of seats by party affiliation often fluctuates between elections.
+
+Although several parties are typically represented in parliament, Canada historically has had [[two-party system|two dominant political parties]]: the [[Liberal Party of Canada|Liberal Party]] and the [[Conservative Party of Canada|Conservative Party]], which was preceded by the [[Progressive Conservative Party of Canada|Progressive Conservative Party]] and the [[Conservative Party of Canada (1867–1942)|Conservative Party (1867–1942)]]. However, in the 2011 federal election, the New Democratic Party of Canada (NDP), took the second largest caucus. While other parties have sometimes formed the [[Official Opposition (Canada)|Official Opposition]], the [[41st Canadian Parliament|41st Parliament (2011–2015)]] was the first in which the Liberals did not form either the government or the Official Opposition.
+
+Every government since [[Canadian Confederation|Confederation]] has been either Liberal or Conservative with the exception of the [[Unionist Party (Canada)|Unionist]] government during [[World War I]], which was a coalition of Conservatives and some Liberals. Most have been majority governments (one party holding a majority of seats in the House of Commons, even if not holding a majority of votes cast in the last election). Many times due to strong showing by "third parties", no party (neither the Liberals nor the Conservatives) captured a majority of seats in the House of Commons, thus producing a minority government. Faced with such a situation, the Liberals and the NDP signed a [[Confidence and supply|Confidence and Supply Agreement]] in 2022, the first of its kind in Canada.<ref name="LiberalNDP">{{cite web| url=https://www.cbc.ca/news/politics/trudeau-singh-how-it-will-work-1.6393710| title=How the Liberal-NDP agreement will work and what it might nean for Canadians| publisher=[[CBC News]]| access-date=May 8, 2025|date=March 22, 2022}}</ref>
+
+If a government loses a [[Motion of no confidence|confidence motion]], traditionally the prime minister asks the governor general to call an election and traditionally the governor general follows that advice. However, the viceroy's compliance is not assured—the governor general has the right to seek out another party leader who is thought to command the confidence of the House (support from majority of the MPs) and ask them to form a government. This happened in 1926 and is referred to as the ''[[King–Byng Affair]]''.
+
+Strictly speaking, the five-year time limitation is applied to the life of the parliament or assembly in question — that body is not deemed to have been formed until the return of the [[writ of election|writs]] and ceases to exist the moment it is [[Dissolution of parliament|dissolved]]. It is therefore legally possible for slightly more than five years to elapse between [[Election Day (politics)|election day]]s, as was the case between the [[1930 Canadian federal election|1930]] and [[1935 Canadian federal election|1935 elections]]. As well, under emergency situations it is possible to extend the life of the government as [[Robert Borden|Prime Minister Borden]] did  - the [[1917 Canadian federal election|1917 election]] took place six years and three months after the previous election.
+
+Although the law allows for a five-year gap between election and dissolution, there have been in fact only two gaps since 1974 that approached the five-year limit: [[1974 Canadian federal election|1974]]-[[1979 Canadian federal election|1979]] and [[1988 Canadian federal election|1988]]-[[1993 Canadian federal election|1993]]. When no party secures a majority of seats, it is common for a government to last just a couple years or less. (The 1979 government of Joe Clark lasted just six months.)<ref>{{cite web| url=https://www.cbc.ca/archives/the-day-joe-clark-s-short-lived-pc-government-fell-1.4941568| title=The day Joe Clark's short-lived PC government fell| publisher=[[CBC News]] Archives| access-date=May 8, 2025|date=December 13, 2018}}</ref> As well, a party with a majority of seats may decide to call an election early, hoping to win more seats and fearing that postponement will lower its chances for reelection.<ref>{{cite web| url=https://www.ctvnews.ca/toronto/article/ontario-parties-spend-summer-preparing-for-possibility-of-an-early-election/| title=Ontario parties spend summer preparing for possibility of early election| publisher=[[CTV News]]| access-date=May 8, 2025|date=August 21, 2024}}</ref> At the federal level, there have been eight [[list of Canadian federal elections|general elections]] since 2000.
+
+It is also possible for a general election to be delayed should Canada be embroiled in a [[war]] or [[insurrection]].  This provision was enacted to allow Prime Minister Sir [[Robert Borden]] to delay a federal election for about a year during the [[First World War]].{{Citation needed|date=April 2011}}<!-- needs clarification because clearly no provision of the 1982 Charter was enacted to allow Robert Borden to do anything --> Since then, the provision has only been used twice, both times by provincial governments — Ontario [[1919 Ontario general election|delayed an election]] for a few weeks in the year following the Armistice in 1918. Saskatchewan was the only jurisdiction to delay a general election by more than a year, due to [[World War II]], but held an [[1944 Saskatchewan general election|election in 1944]], one week more than six years after the previous vote.
+
+The Canadian population generally misunderstands the electoral system, with most citizens believing they vote to directly elect the prime minister; that the majority choice is elected in each district; that a majority government in the House of Commons had support of a majority of voters; that a party with the most seats in the House of Commons has the right to control the House of Commons.<ref>{{harvnb| Cyr| 2017| p=105}}</ref> In 2008, Conservative politicians tried to use the public's misconception of how governments are formed to defend its decision to maintain its grip on power despite not having a majority of seats in the House of Commons.{{refn|For example, during the [[2008–2009 Canadian parliamentary dispute|paliarmentary dispute in 2008]], the Cabinet tried to convince the public that its attempt to [[Prorogation|prorogue]] Parliament to avoid a [[motion of no confidence]] brought by the opposition parties was legitimate, saying the Canadian parliamentary system determined the party holding the most seats had "won" the election.<ref name=Cyr109/>|group=n|name=pro}} Attempts to correct erroneous claims are often delegitimized as politically motivated.<ref name=Cyr109>{{harvnb| Cyr| 2017| pp=109, 131}}</ref>
+
+===Results===
+{{Further|2025 Canadian federal election}}
+
+Hugo Cyr found in 2017 that the Canadian media's habit of announcing, before polls close on election nights, which party will form the next government misrepresents the process of the governor general or lieutenant governors appointing cabinet or executive councils, respectively, "as automatic, merely a matter of arithmetic".<ref>{{citation| url=https://www.constitutionalstudies.ca/wp-content/uploads/2022/05/22.1-Full-Issue.pdf| editor-last1=Lagassé| editor-first1=Philippe| editor-last2=MacDonald| editor-first2=Nicholas A.| title=The Crown in the 21st Century| last=Cyr| first1=Hugo| series=On the Formation of Government| pages=103–104| volume=22| issue=1| year=2017| publisher=Centre for Constitutional Studies| location=Edmonton| access-date=June 5, 2023}}</ref>
+
+The leader of a party that secures a majority of seats in the House of Commons or other legislative assembly is the obvious choice to be prime minister or premier. And when no party has majority of seats, the leader of the political party that wins the plurality of seats in the elected body is typically called by the [[Governor General of Canada|governor general]] or [[Lieutenant governor (Canada)|lieutenant governor]] to form a government. But this is not a requirement. The relevant viceroy must appoint as [[head of government]] whoever can command the [[Confidence and supply|confidence]] of the elected house. This means a party that does not win the majority of seats, or even the plurality of seats in an election, can still govern if it allies itself with another party or other parties in the same legislative chamber, so as to, combined, hold the majority of seats, whether forming a [[coalition government]] or not.<ref>{{harvnb| Cyr| 2017| pp=105–106}}</ref> Only a few coalition governments have existed in Canadian history. To produce a working majority, Liberals and the NDP signed a Confidence and Supply Agreement in 2022, the first of its kind in Canada, which allowed the Liberal minority government to rule for longer than most minority governments have done so historically.<ref name="LiberalNDP"/> In many cases, minority governments have been sustained in power due to passage of bills by ad hoc case-by-case multi-party support, at least for a couple years.
+
+Due to many votes not being used to elect the winner in each of the 340 or so ridings in Canada, a party's share of seats in the House of Commons may vary considerably from the party's share of votes cast. Smaller parties have almost always received fewer seats than their due share. Disproportional artificially-produced  one-party sweep of a province's seats is often produced.<ref>{{cite web| url=https://www.cbc.ca/news/opinion/opinion-warren-bowen-electoral-change-1.5333743| title=Do the math -- Canadians aren't getting tbe government they voted for| publisher=[[CBC News]]| access-date=May 8, 2025|date=October 25, 2019}}</ref> On occasion a party with more votes may receive fewer seats than a party with fewer votes.<ref>{{cite web| url=https://ici.radio-canada.ca/info/2021/elections-federales/resultats-cartes-vainqueur-perdant-partis-circonscriptions/en?tz=MST| title=Here is where the election played out (and where it didn't)| publisher=[[CBC News]]| access-date=May 8, 2025|date=September 21, 2021}}</ref> Such situations lead some to call for electoral reform and [[proportional representation]]. ("Adopted and attempted electoral reform" is discussed below.)
+
+===Fixed dates===
+{{main |Fixed election dates in Canada}}
+[[Section 4 of the Canadian Charter of Rights and Freedoms]] limits the term of any federal, provincial, or territorial parliament to a maximum of five years after the return of the writs of the last election. On November 6, 2006, the Parliament of Canada amended the Canada Elections Act to introduce a requirement that each federal general election must take place on the third Monday in October in the fourth calendar year after the previous poll, starting with October 19, 2009.<ref name=nodice>{{cite web| url=http://www.electionalmanac.com/articles/fixedelectiondates.php| title=Fixed election dates in Canada| publisher=Election Almanac| access-date=May 19, 2008| archive-url=https://web.archive.org/web/20120224201248/http://www.electionalmanac.com/articles/fixedelectiondates.php| archive-date=February 24, 2012| url-status=dead}}</ref><ref name=fed_bill>{{cite web| url=http://www2.parl.gc.ca/HousePublications/Publication.aspx?Docid=2475836&file=4| last=Parliament of Canada| title=Bill C-16, An Act to amend the Canada Elections Act| date=November 6, 2006| publisher=Queen's Printer for Canada| access-date=August 31, 2008}}</ref><ref name=fed_law>{{cite web| url=https://laws.justice.gc.ca/eng/acts/e-2.01/page-1.html| title=Canada Elections Act| last=Elizabeth II| author-link=Elizabeth II| date=July 27, 2008| publisher=Queen's Printer for Canada| access-date=August 30, 2008}}</ref> Since then, all [[Provinces and territories of Canada|provinces and territories]] enacted similar legislation establishing fixed election dates, but in 2025 Nova Scotia and Ontario repealed their laws.<ref>{{cite act |title=An Act Respecting Government Organization and Administration |year=2025 |legislature=[[65th General Assembly of Nova Scotia]] |url=https://nslegislature.ca/sites/default/files/legc/PDFs/annual%20statutes/2025%20Spring/c008.pdf }}</ref>
+
+These laws, nevertheless, do not curtail the power of the governor general or a provincial lieutenant governor to dissolve a legislature prior to the fixed election date on the advice of the relevant first minister or due to a motion of no confidence.<ref>[https://laws.justice.gc.ca/eng/acts/e-2.01/page-9.html#h-204214 "Canada Elections Act, SC 2000, c. 9, s. 56.1”] Retrieved on April 19, 2020.</ref>
+
+Even where such legislation is in effect, voluntary variation is possible.<ref name="ABemergency"/>
+
+===By-elections and referendums===
+[[By-election]]s can be held between general elections when seats become vacant through the resignation or death of a member. The date of the by-election is determined by the governor general, who must call it between 11 and 180 days after being notified of the seat vacancy by the [[Speaker of the House of Commons of Canada|Speaker]] of the House of Commons.
+
+The federal government can also hold [[Referendums in Canada|nationwide referendums]] on major issues. The last federal referendum was held in 1992, on proposed constitutional changes in the [[Charlottetown Accord]]. On occasion, one particular issue will dominate an election, and the election will in a sense be a virtual referendum. The most recent instance of this was the [[1988 Canadian federal election|1988 election]], which was considered by most parties to be a referendum on [[Canada-United States Free Trade Agreement|free trade with the United States]].
+
+===Qualifications===
+Every Canadian citizen 18 years of age or older has the right to vote, except for the [[Chief Electoral Officer (Canada)|Chief Electoral Officer]]. Previously, section 4 of the [[Canada Elections Act]] prohibited inmates serving a sentence of at least two years from voting, but on October 31, 2002, the [[Supreme Court of Canada]] ruled in ''[[Sauvé v. Canada]]'' that such a law violated the [[Section Three of the Canadian Charter of Rights and Freedoms|section 3 of the Charter]], and was rendered of no force or effect until its repeal in 2018 by the [[Elections Modernization Act]].<ref>{{Cite news |last=Jones |first=El |date=2019-10-24 |title=Prisoners say they were denied their constitutional right to vote |url=https://www.halifaxexaminer.ca/uncategorized/prisoners-say-they-were-denied-their-constitutional-right-to-vote/ |url-status=live |archive-url=https://web.archive.org/web/20240705192208/https://www.halifaxexaminer.ca/uncategorized/prisoners-say-they-were-denied-their-constitutional-right-to-vote/ |archive-date=2024-07-05 |access-date=2026-10-22 |work=[[Halifax Examiner]]}}</ref> Section 4 also forbade the Assistant Chief Electoral Officer from voting. Following the [[2015 Canadian federal election]], the Chief Electoral Officer noted in his recommendation report that this appointed position lacked any specific mandate, and had not been filled since 2001; it was subsequently eliminated in the Elections Modernization Act.<ref>{{Cite report |url=https://www.elections.ca/res/rep/off/rec_2016/rec2016_e.pdf |title=An Electoral Framework for the 21st Century—Recommendations from the Chief Electoral Officer of Canada Following the 42nd General Election |last=Mayrand |first=Marc |date=2016-09-26 |publisher=[[Elections Canada]] |location=Gatineau |page=67 |access-date=2026-10-22 |archive-url=https://web.archive.org/web/20260807231410/https://www.elections.ca/res/rep/off/rec_2016/rec2016_e.pdf |archive-date=2026-08-07 |url-status=live}}</ref><ref>{{Cite canlaw|short title=Elections Modernization Act|abbr=S.C.|year=2018|chapter=31|section=3|link=https://laws-lois.justice.gc.ca/eng/annualstatutes/2018_31/FullText.html|linkloc=Department of Justice (Canada)|wikilink=Elections Modernization Act|accessdate=2026-10-22}}</ref>
+
+The federal [[National Register of Electors]] is updated to reflect various changes in the Canadian population, including address changes, reaching voting age, naturalization, and death.<ref name="NROE">{{cite web|url=http://www.elections.ca/content.aspx?section=vot&dir=reg/des&document=index&lang=e|title=Description of the National Register of Electors|publisher=[[Elections Canada]]|access-date=March 27, 2011}}</ref> Every year, about 3,000,000 address changes are processed by Elections Canada from information obtained from the [[Canada Revenue Agency]], [[Canada Post]] (via the National Change of Address service), provincial and territorial motor vehicle registrars, and provincial electoral agencies with permanent voters lists. Every year, about 400,000 Canadians reach voting age and 200,000 Canadians die, resulting in changes to the National Register of Electors based on information obtained from the Canada Revenue Agency, provincial and territorial motor vehicle registrars, and provincial electoral agencies with permanent voters lists. Additionally, over 150,000 individuals a year become naturalized Canadians, and are added to the National Register of Electors by Elections Canada based on information obtained from [[Citizenship and Immigration Canada]].
+
+===Canadian citizens abroad===
+The [[Supreme Court of Canada]]'s 2019 decision in ''[[Frank v Canada (AG)]]'' ruled that non-resident citizens have the right to vote regardless of time living outside of Canada.<ref name="SCC ruling">{{cite news |last1=Harris |first1=Kathleen |title=Supreme Court of Canada guarantees voting rights for expats |url=https://www.cbc.ca/news/politics/supreme-court-expat-voting-rights-ruling-1.4970305 |access-date=January 11, 2019 |work=CBC News |date=January 11, 2019 |language=en}}</ref><ref>{{Cite web |title=Supreme Court of Canada {{!}} Frank v. Canada (Attorney General) |url=https://www.scc-csc.ca/judgments-jugements/cb/2019/36645/ |access-date=2025-06-06 |website=[[Supreme Court of Canada]]}}</ref><ref name="CanLII Frank v Canada SCC" />
+
+While [[Section Three of the Canadian Charter of Rights and Freedoms]] provides that "every citizen of Canada has the right to vote",<ref>{{cite web|title=Constitution Act, 1982, Part I: Canadian Charter of Rights and Freedoms |url=http://laws-lois.justice.gc.ca/eng/const/page-15.html |website=laws-lois.justice.gc.ca |access-date=August 3, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20160110221331/http://laws-lois.justice.gc.ca/eng/Const/page-15.html |archive-date=January 10, 2016 }}</ref> in practice only those citizens 18 years of age or older who resided in Canada ''or'' had been abroad for fewer than five years were eligible to vote in federal elections from 1993 to 2019.<ref name=":0">{{cite web|title = Canada Elections Act|url = http://laws-lois.justice.gc.ca/eng/acts/e-2.01/page-65.html|website = laws-lois.justice.gc.ca|access-date = August 3, 2015|at = Section 222}}</ref> The five-year limit was originally enacted as part of Bill C-114, ''An Act to Amend the Canada Elections Act'', in 1993; these amendments extended the special ballot to certain prisoners, and Canadians "living or travelling" abroad.<ref>{{cite web|title = A History of the Vote in Canada: Chapter 4 (The Charter Era, 1982–2006)|url = http://www.elections.ca/content.aspx?section=res&dir=his&document=chap4&lang=e|access-date = August 3, 2015|first = Elections|last = Canada}}</ref> Exemptions to the five-year limit existed for members of the [[Canadian Armed Forces]], employees of the federal or a provincial government stationed abroad, employees of certain international organizations, and their cohabitants.<ref name=":0" />
+
+[[Jean-Pierre Kingsley]], then the Chief Electoral Officer of Canada for 15 years, explicitly recommended in his 2005 official post-election report that Parliament remove the five-year limit by amendment, but no action was taken.<ref>{{cite web|title = Completing the Cycle of Electoral Reforms – Recommendations from the Chief Electoral Officer of Canada on the 38th General Election|url = http://www.elections.ca/content.aspx?section=res&dir=rep/off/r38&document=part13&lang=e#e|access-date = August 3, 2015|date = September 29, 2005|publisher = [[Elections Canada]]}}</ref><ref>{{cite web|title = Report of the Chief popples Electoral Officer of Canada on the 41st general election of May 2, 2011|url = http://www.elections.ca/content.aspx?section=res&dir=rep/off/sta_2011&document=p2&lang=e|access-date = August 3, 2015|publisher = [[Elections Canada]]|date = August 17, 2011}}</ref>
+
+In May 2014, the [[Ontario Superior Court of Justice]] ruled in favour of Canadian expatriates Gillian Frank and Jamie Duong's claim that the five-year limit was an unconstitutional restriction on the [[right to vote]], in violation of the Charter of Rights and Freedoms, leading to a period of fourteen months during which all Canadian expatriates could apply to be on the register of electors.<ref>{{cite web|url = http://www.canlii.org/en/on/onsc/doc/2014/2014onsc907/2014onsc907.html |title = Frank et al. v. AG Canada, 2014 ONSC 907|date = May 2, 2014|access-date = August 3, 2015|publisher = Canadian Legal Information Institute}}</ref> However, the decision was reversed 2–1 on appeal at the [[Court of Appeal for Ontario]] on July 20, 2015, in a judicial opinion citing Canada's history of using a residence-based [[Electoral district (Canada)|electoral district]] system and a justification based on [[social contract]] theory, which held that the five-year limit was a permissible limitation of the constitutional right to vote under [[Section One of the Canadian Charter of Rights and Freedoms|Section One]].<ref>{{cite web|title = Frank v. Canada (Attorney General), 2015 ONCA 536|url = http://www.ontariocourts.ca/decisions/2015/2015ONCA0536.htm|website = www.ontariocourts.ca |access-date = August 3, 2015}}</ref><ref>{{cite news|title = Long-term Canadian expats denied right to vote, court rules|url = https://www.theglobeandmail.com/news/national/no-voting-rights-for-long-term-canadian-expats-appeal-court-rules/article25590714/ |access-date = August 3, 2015|last = Fine|first = Sean|date = July 20, 2015|newspaper = [[The Globe and Mail]]}}</ref> In response to the appellate court ruling, [[Elections Canada]] implemented changes in August 2015 to require expatriates already on the register to declare an intended date of return.<ref>{{cite web|title = Voting by Canadians living abroad|url = http://www.elections.ca/content2.aspx?section=vote&dir=abro&document=index&lang=e |access-date = August 3, 2015|website = Elections Canada Online|archive-url =https://web.archive.org/web/20150809093407/http://www.elections.ca/content2.aspx?section=vote&dir=abro&document=index&lang=e|archive-date = August 9, 2015}}</ref>  The decision from the Court of Appeal was subsequently appealed to the [[Supreme Court of Canada]], which announced on April 14, 2016, that it would hear the case.<ref name="scc-appeal">{{cite court |litigants=Gillian Frank, et al. v. Attorney General of Canada |court=[[Supreme Court of Canada]] |date= August 25, 2016 |url=http://www.scc-csc.ca/case-dossier/info/dock-regi-eng.aspx?cas=36645 |access-date= September 7, 2016 }}</ref> The court ultimately overturned the appellate court's decision, with the majority finding that "the disenfranchisement of long-term non-resident citizens not only denies them a fundamental democratic right, but also comes at the expense of their self-worth and their dignity."<ref name="CanLII Frank v Canada SCC">{{cite CanLII|litigants=Frank v Canada (AG)|link= Frank v Canada (AG)|year=2019|court=scc|num=1|format=|pinpoint=|parallelcite=[2019] 1 SCR 3|date=|courtname=auto|juris=}}</ref>
+
+===Length of election campaigns===
+The length of election campaigns can vary, but under the Elections Act, the minimum length of a campaign is 36 days and the maximum length of the campaign is 50 days.<ref>{{cite web |url=https://www.elections.ca/content.aspx?section=vot&dir=bkg&document=ec90795&lang=e |title=The 36-Day Election Calendar |author=<!--Not stated--> |date=June 8, 2021 |website=Elections Canada |publisher=The Office of the Chief Electoral Officer |access-date=June 11, 2022 |quote=}}</ref>  [[Section Five of the Canadian Charter of Rights and Freedoms|Section 5 of the ''Charter'']] also requires that the Parliament sit at least once every twelve months; therefore, a campaign would have to conclude in time for returns to be completed and parliament to be called into session within twelve months of the previous sitting. The federal election date must be set on a Monday (or Tuesday if the Monday is a statutory holiday).
+
+The first two elections, the [[1867 Canadian federal election|1867 election]] and the [[1872 Canadian federal election|1872 election]], took place over several weeks.
+
+The 1872 election was both the second shortest and the longest campaign in history. Parliament was dissolved on July 8, 1872, while the writ was dropped on July 15, 1872. Voting occurred from July 20 to October 12. Therefore, the campaign started 12 days after dissolution of Parliament and 5 days after the writ, and was concluded 96 days (13 weeks plus 5 days) after dissolution and 89 days after the writ.<ref name = electionsandridings>{{cite web|title=Length of Federal Election Campaigns |url= http://www.parl.gc.ca/Parlinfo/Compilations/ElectionsAndRidings/LengthCampaigns.aspx |work= Parliament of Canada|publisher=Parliament of Canada|archive-url =https://web.archive.org/web/20150924131725/http://www.parl.gc.ca/Parlinfo/Compilations/ElectionsAndRidings/LengthCampaigns.aspx |archive-date = September 24, 2015}}</ref>
+
+Every subsequent election has occurred on a single day. Of these elections, the longest election campaign, in terms of days from dissolution to election day, was that of [[1926 Canadian federal election|1926 election]],<ref name = electionsandridings/> following the [[King–Byng Affair]], which lasted 74 days.
+
+In terms of days from writ to election day, the longest campaign had been the [[1980 Canadian federal election|1980 election]], which lasted 66 days. It was surpassed by the [[2015 Canadian federal election|2015 election]], which was 78 days long from writ to election day, making it the longest campaign for a one-day election, exceeded in length only by that of 1872.
+
+Prior to the adoption of the minimum of 36 days in law, there were six elections that lasted shorter periods of time. The last of these was the [[1904 Canadian federal election|1904 election]] which occurred many decades before the minimum was imposed.
+
+In practice, the prime minister will generally keep a campaign as brief as is legal and feasible, because spending by parties is strictly limited by the Elections Act. The maximum spending by each party is increased by 1/37th of the maximum for each day that the campaign exceeds 37 days. The [[1997 Canadian federal election|1997]], [[2000 Canadian federal election|2000]] and [[2004 Canadian federal election|2004 election]]s were all of the minimum 36 days in length which has led to a common misconception that elections ''must'' be 36 days long. However, prior to 1997, elections averaged much longer: aside from the 47-day campaign for the [[1993 Canadian federal election|1993 election]] and the 51-day campaign for the [[1988 Canadian federal election|1988 Election]], the shortest election period after [[World War II]] was 57 days and many were over 60 days in length.
+
+Much speculation had surrounded how long the campaign for the [[2006 Canadian federal election|39th federal election]] would be in 2006, especially as it became certain the election would be called in the weeks preceding Christmas 2005.  The government of [[Joe Clark]], which fell on December 13, 1979, recommended a campaign of 66 days for the [[1980 Canadian federal election|resulting election]], and nothing legal barred a similarly lengthened campaign.  In the end, the 2006 election was called on November 29, 2005, for January 23, 2006 — making a 55-day-long campaign.<ref name=electionsandridings/>
+
+==Provincial and territorial==
+
+===System===
+All of Canada's provinces and territories use the same [[plurality voting system]] used in federal elections ([[First-past-the-post voting]]). However, since elections are monitored and organized by an independent provincial and territorial [[election commission]], a province may legally change its [[electoral system]] should its parliament wish to do so. This would not require permission from the federal government or the Parliament of Canada. Federal elections formerly used a mixture of first-past the-post and [[plurality block voting]]; provincial elections formerly used a variety of electoral methods See "Electoral reform" below.
+
+In the ten provinces and [[Yukon]], elections are contested by candidates either representing political parties or running as independents. Territorial elections in the [[Northwest Territories]] and [[Nunavut]] are held on a fully non-partisan basis, due to those territories' use of a [[Consensus government in Canada|consensus government]] model.
+
+===Parties===
+All Canadian provinces and Yukon, have electoral systems dominated by major [[political party|political parties]]. In most provinces the leading parties are the same parties prominent at the federal level. However, the provincial party may or may not have an official affiliation with the federal party of the same name. Thus, names of provincial parties can sometimes be misleading when associating a provincial party with a national party, although the respective ideologies are usually fairly similar.
+
+The [[Conservative Party of Canada]] has no provincial wings and none of the current provincial Progressive Conservative Parties are formally linked with the federal party as they all predate the 2003 establishment of the federal party, which resulted in the formal disbanding of the [[Progressive Conservative Party of Canada]]. Some provincial parties (such as Alberta) formally broke off links with the federal party prior to the merger.
+
+In Alberta and Quebec, the provincial Liberal parties are independent of the [[Liberal Party of Canada]], while in the other provinces, the provincial Liberal parties are autonomous entities that retain formal links with the federal party.
+
+All provincial wings of the [[New Democratic Party]] are fully integrated with the federal party, and members of the provincial party are automatically also members of the federal party. The [[Green Party of Canada|Green Party]] has provincial counterparts that are directly affiliated but do not share membership or organizational structure and support.
+
+In [[Saskatchewan]] and [[Yukon]], the political parties, the [[Saskatchewan Party]] and the [[Yukon Party]], respectively, have no federal counterpart, although they are both ideologically conservative.
+
+===Results===
+The following table summarizes the results of the most recent [[Provinces and territories of Canada|provincial and territorial]] elections.  A link to complete lists for each province and territory is below. The winning party is indicated in '''bold''' and by the coloured bar at the left of the table.
+
+This table shows the party standings as a result of the most recent election, and not the current representation in legislatures; refer to the articles on the individual houses for the current state.
+
+{| class="wikitable sortable" style="font-size:95%;"
+!rowspan=2|Province or territory
+!rowspan=2|Date of most recent election
+!rowspan=2|
+!class="unsortable"|[[Conservatism in Canada|Progressive Conservative]]
+!class="unsortable"|[[Liberalism in Canada|Liberal]]
+!class="unsortable"|[[New Democratic Party|New Democrat]]
+!class="unsortable"|Green
+!class="unsortable"|[[Conservative parties in Canada|Other Conservative Party]]
+!class="unsortable"|Other
+!rowspan=2|'''''Total seats'''''
+|-
+!width=15% style="background-color:{{Canadian party colour|XX|PC}};"|
+!width=15% style="background-color:{{Canadian party colour|XX|Liberal}};"|
+!width=15% style="background-color:{{Canadian party colour|XX|NDP}};"|
+!width=10% style="background-color:{{Canadian party colour|XX|Green}};"|
+!width=15% style="background-color:{{Canadian party colour|CA|Conservative}};"|
+!width=20% style="background-color:{{Canadian party colour|XX|Inde}};"|
+|-
+|[[Yukon Legislative Assembly|Yukon]]
+|nowrap data-sort-value="2025-11-03"|[[2025 Yukon general election|November 3, 2025]]
+|{{Canadian party colour|CA|Conservative|background}}|&nbsp;
+|&nbsp;
+|align=center|1<sup>2</sup>
+|align=center|6
+|&nbsp;
+!align=center|14 ([[Yukon Party]])
+|align=center|
+|align=center|'''<big>''21''</big>'''
+|-
+|[[Legislative Assembly of Nunavut|Nunavut]]
+|nowrap data-sort-value="2025-10-27"|[[2025 Nunavut general election|October 27, 2025]]
+|{{Canadian party colour|XX|Inde|background}}|&nbsp;
+|&nbsp;
+|&nbsp;
+|&nbsp;
+|&nbsp;
+|
+!align=center|22<sup>1</sup>
+|align=center|'''<big>''22''</big>'''
+|-
+|[[Newfoundland and Labrador House of Assembly|{{nowrap|Newfoundland & Labrador}}]]
+|nowrap data-sort-value="2025-10-14"|[[2025 Newfoundland and Labrador general election|October 14, 2025]]
+|{{Canadian party colour|XX|PC|background}}|&nbsp;
+!align=center|21
+|align=center|15
+|align=center|2
+|&nbsp;
+|
+|align=center|2 (Independent)
+|align=center|'''<big>''40''</big>'''
+|-
+|[[Legislative Assembly of Ontario|Ontario]]
+|nowrap data-sort-value="2025-02-27"|[[2025 Ontario general election|February 27, 2025]]
+|{{Canadian party colour|XX|PC|background}}|&nbsp;
+!align=center|80
+|align=center|14<sup>2</sup>
+|align=center|27
+|align=center|2
+|
+|align=center|1 (Independent)
+|align=center|'''<big>''124''</big>'''
+|-
+|[[Nova Scotia House of Assembly|Nova Scotia]]
+|nowrap data-sort-value="2024-11-26"|[[2024 Nova Scotia general election|November 26, 2024]]
+|{{Canadian party colour|XX|PC|background}}|&nbsp;
+!align=center|43
+|align=center|2
+|align=center|9
+|
+|&nbsp;
+|align=center|1 (Independent)
+|align=center|'''<big>''55''</big>'''
+|-
+|[[Legislative Assembly of Saskatchewan|Saskatchewan]]
+|nowrap data-sort-value="2024-10-28"|[[2024 Saskatchewan general election|October 28, 2024]]
+|{{Canadian party colour|SK|Saskatchewan|background}}|&nbsp;
+|&nbsp;
+|&nbsp;
+|align=center|27
+|&nbsp;
+!align=center|34 ([[Saskatchewan Party]])
+|
+|align=center|'''<big>''61''</big>'''
+|-
+|[[Legislative Assembly of New Brunswick|New Brunswick]]
+|nowrap data-sort-value="2024-10-21"|[[2024 New Brunswick general election|October 21, 2024]]
+|{{Canadian party colour|XX|Liberal|background}}|&nbsp;
+|align=center|16
+!align=center|31
+|&nbsp;
+|align=center|2
+|&nbsp;
+|
+|align=center|'''<big>''49''</big>'''
+|-
+|[[Legislative Assembly of British Columbia|British Columbia]]
+|nowrap data-sort-value="2026-10-24"|[[2026 British Columbia general election|October 24, 2026]]
+|{{Canadian party colour|BC|Conservative|background}}|&nbsp;
+|&nbsp;
+|align=center|
+|align=center|27
+|align=center|2
+!align=center|64 ([[BC Conservatives]]) 
+|
+|align=center|'''<big>''93''</big>'''
+|-
+|[[Legislative Assembly of the Northwest Territories|Northwest Territories]]
+|nowrap data-sort-value="2023-11-14"|[[2023 Northwest Territories general election|November 14, 2023]]
+|{{Canadian party colour|XX|Inde|background}}|&nbsp;
+|&nbsp;
+|&nbsp;
+|&nbsp;
+|&nbsp;
+|
+!align=center|19<sup>1</sup>
+|align=center|'''<big>''19''</big>'''
+|-
+|[[Legislative Assembly of Manitoba|Manitoba]]
+|nowrap data-sort-value="2023-10-03"|[[2023 Manitoba general election|October 3, 2023]]
+|{{Canadian party colour|XX|NDP|background}}|&nbsp;
+|align=center|22
+|align=center|1<sup>2</sup>
+!align=center|34
+|align=center|
+|
+|&nbsp;
+|align=center|'''<big>''57''</big>'''
+|-
+|[[Legislative Assembly of Alberta|Alberta]]
+|nowrap data-sort-value="2023-05-29"|[[2023 Alberta general election|May 29, 2023]]
+|{{Canadian party colour|AB|UCP|background}}|&nbsp;
+|align=center|
+|align=center|
+|align=center|38
+|&nbsp;
+!align=center|49 ([[United Conservative Party]])
+|
+|align=center|'''<big>''87''</big>'''
+|-
+|[[Legislative Assembly of Prince Edward Island|Prince Edward Island]]
+|nowrap data-sort-value="2023-04-03"|[[2023 Prince Edward Island general election|April 3, 2023]]
+|{{Canadian party colour|XX|PC|background}}|&nbsp;
+! align="center" |22
+| align="center" |3
+|&nbsp;
+|align=center|2
+|&nbsp;
+|
+|align=center|'''<big>''27''</big>'''
+|-
+|[[National Assembly of Quebec|Quebec]]
+|nowrap data-sort-value="2026-10-5"|[[2026 Quebec general election|October 5, 2026]]
+|{{Canadian party colour|QC|PQ|background}}|&nbsp;
+|&nbsp;
+|align=center|40<sup>2</sup>
+|&nbsp;
+|&nbsp;
+|align=center|19 ([[Conservative Party of Quebec]])
+!align=center|59 ([[Parti Québécois]])<br />9 ([[Québec Solidaire]])
+|align=center|'''<big>''127''</big>'''
+|}
+
+For lists of general elections in each province and territory, see the infobox at the bottom of the article.
+
+<sup>1</sup>Note: [[Nunavut]] does not have political parties, and political parties in the [[Northwest Territories]] were disbanded in 1905. MLAs in both territories are elected as [[Independent politician#Canada|independents]] and the legislatures function under a [[consensus government]] model.
+
+<sup>2</sup>Note: Provincial Liberal parties that are not affiliated with the federal Liberal Party of Canada.
+
+==Municipal==
+{{Main|Municipal elections in Canada}}
+
+Municipal elections are held in Canada for the election of local governments. Most provinces hold all of their municipal elections on the same date. The mayor is elected in a city-wide contest. Councillors (or aldermen) are elected through either [[Ward (country subdivision)|ward]] or [[at-large]] systems, every two, three or four years, depending on the province. [[Plurality block voting]] is used in at-large elections and where wards elect multiple members; otherwise [[First past the post]] is used. (London, Ontario did adopt [[Instant-runoff voting]] but has been banned from using that system.){{citation needed|date=January 2026}}
+
+A minority of locations in Canada have local [[political parties]] or [[Slate (elections)|election slate]]s, while most locations elect only [[Independent (politician)|independent]]s, or where the candidate has party ties, no party identification is allowed on the ballot.
+
+==Senate nominee (Alberta)==
+{{Main|Alberta Senate nominee election}}
+
+==Adopted and attempted electoral reform==
+{{See also|Canadian electoral system#Voting Reform}}
+By one count, at the provincial level there have been ten instances of electoral reform in Canadian history. All of them were achieved by passage of normal legislation, without referendum.<ref>Dennis Pilon, Review Essay, ''Canadian Political Science Review'', vol. 12, No. 1, p. 31</ref> There have been no instances in Canadian history of electoral reform being achieved after the holding of a referendum.
+
+Reforms and attempted reforms are outlined below.
+
+===Switch to secret voting and other reforms===
+The move away from oral voting to the "Australian ballot" freed the voter to vote as he or she pleased. It was done at different times in different parts of Canada. New Brunswick adopted secret ballots in 1855; Ontario in 1874; federal elections in 1878.<ref name="Canada p. 42-3">A History of the Vote in Canada, p. 42-3</ref>
+
+Holding the elections in all districts at the same time calmed elections and prevented some forms of fraud. Ontario provincial elections and federal elections adopted this in mid-1870s.<ref name="Canada p. 42-3"/>
+
+Using a non-partisan commission to draw up districts was intended to limit partisan redistricting ([[gerrymandering]]). Manitoba established the first such commission in the 1950s. Canada's first independent federal boundary commission was established by the Electoral Boundaries Readjustment Act in November 1964. The use of city-wide multi-member provincial districts in Edmonton and Calgary from the 1920s to 1950s prevented gerrymandering as city boundaries, not arbitrary politically-driven boundaries, were used.
+
+Other reforms that have been achieved concerned extension to the franchise, the right to vote. In some provinces at one time, only property owners were allowed to vote. [[Women's suffrage in Canada|The vote was extended to women]] and to certain races or ethnicities at various times, such as the [[1921 Canadian election]]. In 1970 the right to vote in federal elections was extended to those between the ages of 18 and 21. Provinces soon also lowered their voting age.
+
+===Multiple-member districts replaced by single-member districts -- federal elections, all provinces, two territories various dates===
+At various times in the 19th and 20th centuries, federal elections and those held in every province used multi-member districts to elect all or some of its members. The systems used included [[Plurality block voting|Block Voting]], [[Single transferable voting]], [[Limited voting]] and a system where each seat was filled through a separate contest. Limited voting usually resulted in mixed multi-party representation, according representation to both the majority and at least the largest minority. STV resulted in mixed multi-party representation and every candidate that had quota were elected, thus every party with substantial backing in the district got some representation.<ref>{{Cite book |title=Parliamentary Guide}}</ref><ref>{{Cite book |title=Report on Alberta Elections, 1905-1982}}</ref> Block voting in multi-member districts usually (but not always) produced one-party sweeps of the district's seats.<ref name="Parliament Guide">Parliament Guide</ref>
+
+Now federal elections — and all provincial and territorial elections — use only single-member districts, a situation that came about through electoral reform.<ref name="Parliamentary Guide">Parliamentary Guide</ref>
+
+Eleven ridings elected multiple MPs (two at a time) at one time or another, between 1867 and 1968. These were [[Ottawa (City of) (electoral district)|Ottawa]], [[Toronto West (federal electoral district)|West Toronto]], [[Hamilton (federal electoral district)|Hamilton]], [[Halifax (federal electoral district)|Halifax (NS)]], Cape Breton (NS), Pictou (NS), St. John City and County (NB), [[Victoria (federal electoral district)|Victoria]] and three in PEI: King's County, Queen's County and Prince County.<ref name="Parliament Guide">Parliament Guide</ref>
+
+All the provinces and territories (except Nunavut) once used multiple-member districts. Most of the multiple-member districts elected just two, but others elected 5 to 7 or more. Ten MLAs were elected in the Winnipeg district from 1920 to 1949.<ref name="Parliamentary Guide"/>
+
+The provinces and territories switched to electing all their members in single-member districts elected through [[First past the post]] in these years:
+
+* Quebec [[1867 Quebec general election|1867]]
+* North-West Territories 1894 (see [[1891 North-West Territories general election]])
+* Yukon [[1920 Yukon general election|1920]]
+* Ontario [[1926 Ontario general election|1926]]
+* Manitoba 1954
+* Alberta [[1959 Alberta general election|1956]]
+* Saskatchewan 1967
+* New Brunswick 1974
+* Newfoundland and Labrador 1975
+* Nova Scotia 1978
+* BC [[1991 British Columbia general election|1990]]
+* PEI [[1996 Prince Edward Island general election|1996]]
+(PEI's elections were special cases. Each district elected two members. At one time voters who owned property in the district voted for the Councilman while voters resident in the district joined with the property-owners to vote for the Assemblyman. Later the exact same voters were allowed to vote for each of the two members in a district but still each seat was filled in separate contest.)<ref name="Parliament Guide" />
+
+=== 1800s ===
+
+==== 1886, 1890 Ontario used Limited Voting in Toronto ====
+Toronto's three MPPs were elected through [[Limited voting]], where each voter could cast up to two votes. Later Toronto MPPs were elected in two-seat districts, with each seat elected separately through single-winner First Past The Post voting. This ended in 1926 when all the MPPs in the province began to be elected in single-member districts.
+
+=== 1900s ===
+
+==== 1909-1921 Alberta partially adopted Block Voting system ====
+For the 1909, 1913 and 1921 election Alberta adopted multiple-member city-wide districts in one or both of the cities of Edmonton and Calgary. Alberta's two army representatives were elected in [[1971 Alberta general election|1917]] in one contest.  Also in 1921, the city of Medicine Hat was a two-seat district. Voters cast multiple votes under the [[Plurality block voting]] to elect [[Member of the Legislative Assembly#Canada|MLA]]s.<ref name="A Report on Alberta Elections">A Report on Alberta Elections</ref>
+
+==== 1914 Manitoba adopted multi-member districts, later brought in STV/FPTP then STV/IRV ====
+In 1914, the three Winnipeg districts -- [[Winnipeg Centre (provincial electoral district)|Winnipeg Centre]], [[Winnipeg South (provincial electoral district)|Winnipeg South]] and [[Winnipeg North (provincial electoral district)|Winnipeg North]] — were each given a second member. Each seat was filled through a separate contest. The same system was used in the 1915 election.
+
+In 1920 [[Winnipeg]] was made into a ten-member city-wide [[Winnipeg (provincial electoral district)|district]]. Manitoba began to use [[Single transferable voting]] in the new district. Later the province adopted [[Instant-runoff voting|Alternative Voting]] in single-member rural districts.<ref name="Parliamentary Guide"/>
+
+In 1949 Winnipeg was divided into three four-seat districts. St. Boniface got a second member and switched from AV to STV to elect its MLAs.<ref name="Parliamentary Guide"/>
+
+==== 1924 Alberta adopted STV/AV system ====
+After the election of the [[United Farmers of Alberta]] in 1921, Alberta maintained its existing mixture of multi-member districts and single-member districts. In 1924 Alberta adopted [[Single transferable voting]] in the cities' multi-member districts and the [[Instant-runoff voting]] system in single-member rural districts. (It was the first instance in North America where all the members in a legislature were elected through non-plurality methods.) This mixed system was in use until 1956. In 1956 the province brought in consistent single-member districts and [[First past the post]] elections. Medicine Hat reverted to being a single-member district before the 1930 election (IRV was then used there).<ref name="A Report on Alberta Elections"/>
+
+==== 1922 House of Commons elections ====
+Canadian MP [[William Charles Good]]  introduced legislation in the House of Commons in June 1922 that would have seen [[Instant-runoff voting]] used in each riding where more than two candidates were competing and he also called for demonstration multi-member districts in to provide experience of [[proportional representation]]. However the bill was talked out and nothing was changed.<ref>The UFA, June 1, 1922</ref>
+
+==== 1952, 1953 BC elections used Instant-runoff voting electoral system ====
+{{See also|Instant-runoff voting}}
+In 1952, BC adopted the [[Instant run-off voting|Alternative Voting system]]. It retained its mixture  of single-member districts and multi-member districts. In the later, it held separate contests for each seat. [[History and use of the single transferable vote#British Columbia|preferential ballots]] was used for the first time in a BC general election. 
+After 1953 election the province returned to its previous electoral system, a mixture of single-member and multi-member districts, of Block Voting and FPTP, which in turn was replaced by consistent FPTP single-member-district contests in [[1991 British Columbia general election|1990]].<ref>{{cite web|title=Resources / Electoral History of BC|url=http://elections.bc.ca/resources/electoral-history-of-bc/|website=Elections BC|date=May 9, 2008 |publisher=Elections BC|access-date=June 17, 2017}}</ref>
+
+=== 2000-2009 ===
+
+==== 2004 Quebec proposed electoral reform ====
+The Liberal government of Quebec proposed electoral reform in 2004, which was scheduled to be passed in the fall of 2006 without a referendum. The project was postponed due to divergent views on how to improve it.
+
+==== 2005 BC Single Transferable Vote referendum ====
+{{main|2005 British Columbia electoral reform referendum}}
+
+In a 2005 referendum 57.7% of British Columbians voted in favour of the [[Single Transferable Vote]] system. However the government required a vote of 60% to pass the change, and the vote result was ignored.
+
+==== 2005 PEI Provincial MMP referendum ====
+{{main|2005 Prince Edward Island electoral reform referendum}}
+
+Prince Edward Island held a referendum in 2005 regarding the adoption of [[mixed member proportional representation]]. The motion was defeated.<ref>{{cite news |title=Electoral reform rejected|url=https://www.cbc.ca/news/canada/prince-edward-island/electoral-reform-rejected-1.533310|accessdate=December 13, 2018|work=CBC News|date=November 29, 2005|language=en}}</ref>
+
+==== 2007 Ontario MMP referendum ====
+{{main|2007 Ontario electoral reform referendum}}
+
+A referendum was held in Ontario in 2007 on the question of whether to establish a [[mixed member proportional representation]] (MMP) system for elections to the [[Legislative Assembly of Ontario]]. The vote was strongly in favour of the existing [[plurality voting system|plurality voting]] or first-past-the-post (FPTP) system.
+
+==== 2008 New Brunswick referendum ====
+{{main|2008 New Brunswick electoral reform referendum}}
+
+A referendum on the issue of electoral reform in New Brunswick was proposed for 2008 by the [[Progressive Conservative Party of New Brunswick|Progressive Conservative Party]], but the party was defeated in the September 2006 election and the new Liberal government cancelled the vote.
+
+==== 2009 BC Proportional Representation Vote referendum ====
+{{main|2009 British Columbia electoral reform referendum}}
+
+A referendum for the [[proportional representation]] (PR) system was held in British Columbia on May 12, 2009. The adoption of PR was defeated, with 61% of voters preferring First past the post (FPTP) over Proportional Representation.<ref>{{cite book |last=Elections BC|title=Statement of Votes – Referendum on Electoral Reform|date=May 12, 2009|pages=20|url=http://www.elections.bc.ca/docs/rpt/2009Ref/2009-Ref-SOV.pdf}}</ref>
+
+=== 2015-present ===
+
+==== 2015 federal election ====
+{{Main|2015 Canadian federal election}}
+
+In the 2015 federal election, both of the main opposition parties (the federal Liberals and NDP) promised to implement electoral reform no later than the next scheduled election.  The NDP has long supported [[Mixed Member Proportional]], a hybrid system proposed by the Law Commission in which voters would cast two ballots (one for a riding representative and one for their preferred party, with member elected from a regional and open list).
+
+By comparison, the Liberals led by [[Justin Trudeau]] promised to review numerous electoral reform options through an [[Canadian House of Commons Special Committee on Electoral Reform|"all party parliamentary committee"]] and to implement the changes in time for the next election.  Trudeau promised to make the 2015 election "Canada's last [[First-past-the-post voting|first-past-the-post election]]".  There are differences between the political parties over which alternative system would be better.
+
+67% of Canadians voted in 2015 for parties that promised to replace the voting system. 88% of experts brought forward by the Liberal government recommended a proportional representation voting system; 96% rejected Trudeau's preferred [[Instant-runoff voting]] system.<ref>{{Cite news|url=http://www.fairvote.ca/strong-mandate/|date = November 3, 2016|title=Consultations Provide Strong Mandate for Proportional Representation |language=en|website= Fair Vote Canada}}</ref> On December 1, 2016, the all party Special Committee on Electoral Reform released its final report, recommending that the government design a system of proportional representation with a [[gallagher index]] score of 5 or less, and hold a [[Referendums in Canada|national referendum]] with that system against the current system. The Liberal members of the all party special-committee urged Prime Minister Justin Trudeau to break his promise to change Canada's voting system.<ref>{{cite web |url=https://www.ourcommons.ca/Content/Committee/421/ERRE/Reports/RP8655791/errerp03/errerp03-e.pdf |title=STRENGTHENING DEMOCRACY IN CANADA: PRINCIPLES, PROCESS AND PUBLIC ENGAGEMENT FOR ELECTORAL REFORM Report of the Special Committee on Electoral Reform|last1=Scarpaleggia |first1=Francis |date=December 1, 2016 |website=ourcommons.ca |publisher=[[House of Commons of Canada]] |access-date=May 25, 2023}}</ref><ref>{{cite news |first=Aaron |last=Wherry |date=December 1, 2016 |title=Electoral reform committee recommends referendum on proportional representation, but Liberals disagree |journal=[[Canadian Broadcasting Corporation|CBC News]] |url=http://www.cbc.ca/news/politics/wherry-electoral-reform-committee-1.3866879 |access-date=December 1, 2016 |archive-date=April 12, 2018 |archive-url=https://web.archive.org/web/20180412133850/http://www.cbc.ca/news/politics/wherry-electoral-reform-committee-1.3866879 |url-status=live }}</ref><ref>{{cite news |first=Joan |last=Bryden |date=December 1, 2016 |title=Liberal MPs urge Prime Minister to break promise of new voting system by next election |journal=[[Ottawa Citizen]] |url=https://ottawacitizen.com/news/politics/all-party-committee-recommends-proportional-voting-system-referendum |access-date=August 8, 2021 |archive-date=July 6, 2021 |archive-url=https://web.archive.org/web/20210706202043/https://ottawacitizen.com/news/politics/all-party-committee-recommends-proportional-voting-system-referendum |url-status=live }}</ref><ref>{{cite news |first=Alex |last=Boutilier |date=December 1, 2016 |title=Liberal MPs recommend breaking electoral reform promise |journal=[[Toronto Star]] |url=https://www.thestar.com/news/canada/2016/12/01/liberal-mps-recommend-breaking-electoral-reform-promise.html |access-date=December 1, 2016 |archive-date=December 2, 2016 |archive-url=https://web.archive.org/web/20161202114719/https://www.thestar.com/news/canada/2016/12/01/liberal-mps-recommend-breaking-electoral-reform-promise.html |url-status=live }}</ref><ref>{{cite news |first=Laura |last=Payton |date=December 1, 2016 |title=Liberals dig in heels against election referendum |journal=[[CTV News]] |url=https://www.ctvnews.ca/politics/article/liberals-dig-in-heels-against-election-referendum/ |access-date=December 1, 2016 |archive-date=December 1, 2016 |archive-url=https://web.archive.org/web/20161201213717/http://www.ctvnews.ca/politics/liberals-dig-in-heels-against-election-referendum-1.3185002 |url-status=live }}</ref>
+
+On February 1, 2017, the new Liberal Minister of Democratic Institutions, Karina Gould, announced that Trudeau instructed her that a change of voting system would no longer be in her mandate. She claimed a lack of broad consensus among Canadians in favour of one particular type of electoral voting and that the various political parties could not agree on a new system as reasons for the abandonment of the 2015 election promise.<ref>{{Cite news|url=http://www.cbc.ca/news/politics/trudeau-electoral-reform-mandate-1.3961736|title=Opposition accuses Trudeau of betrayal as Liberals abandon promise of electoral reform|newspaper=CBC News|language=en|access-date=February 2, 2017}}</ref> On May 31, 2017, the House of Commons officially rejected the final report of the all party special-committee by a vote of 146–159, with the Conservatives, NDP, BQ, and Greens voting to concur in the report, and the Liberals voting not to, notably, two Liberal MPs, [[Sean Casey (Canadian politician)|Sean Casey]] and [[Nathaniel Erskine-Smith]] [[Whip (politics)|broke whip]] and voted to concur in the report.<ref>{{cite web |url=https://www.ourcommons.ca/Members/en/votes/42/1/290 |title=VOTE NO. 290 |date=May 31, 2017 |website=ourcommons.ca |publisher=[[House of Commons of Canada]] |access-date=May 25, 2023}}</ref><ref>{{cite news |date=May 31, 2017 |title=Casey refuses to toe Liberal party line on electoral reform vote |journal=[[Canadian Broadcasting Corporation|CBC News]] |url=https://www.cbc.ca/news/canada/prince-edward-island/sean-casey-electoral-reform-1.4140596 |access-date=May 25, 2023}}</ref>
+
+During the 2015 election campaign, the Liberal Party of Canada made a promise to implement a process to review the costs of campaign platforms in future elections.<ref name="Beeby">{{cite news|url=https://www.cbc.ca/news/politics/parliamentary-budget-officer-giroux-page-election-costing-parties-platform-netherlands-1.5100218|title=PBO launches new service to cost out party platforms, despite the political risks|last=Beeby|first=Dean|publisher=[[CBC News]]|date=April 18, 2019|access-date=April 18, 2019}}</ref> It was implemented within an omnibus bill passed in 2017, with responsibility assigned to the [[Parliamentary Budget Officer|Parliamentary Budget Office]].<ref name="Beeby" />
+
+==== 2016 Prince Edward Island electoral reform referendum ====
+{{main|2016 Prince Edward Island electoral reform referendum}}
+
+The 2016 Plebiscite on Democratic Renewal<ref>{{cite web|title=Media Release: Voting locations|url=http://www.yourchoicepei.ca/media-release-voting-locations|website=Is it Time for Change?|publisher=Elections Prince Edward Island|access-date=October 28, 2016|archive-url=https://web.archive.org/web/20161029120013/http://www.yourchoicepei.ca/media-release-voting-locations|archive-date=October 29, 2016|url-status=dead}}</ref> was a non-binding<ref name="cbc - voting begins">{{cite news|title=Voting begins in P.E.I. plebiscite on electoral reform|url=http://www.cbc.ca/news/canada/prince-edward-island/pei-plebiscite-electoral-reform-begins-1.3826045|access-date=October 29, 2016|work=CBC News}}</ref> [[referendum]] held in the [[Provinces and territories of Canada|Canadian province]] of [[Prince Edward Island]] between October 27 – November 7, 2016. The referendum asked which of five [[voting system]]s residents would prefer to use in electing members to the [[Legislative Assembly of Prince Edward Island]].<ref name="TGAM1">{{cite news|url=https://www.theglobeandmail.com/news/national/pei-sets-voting-reform-plebiscite-for-fall/article30809776/|title=PEI sets voting-reform plebiscite for fall|last=Roberts|first=Rob|date=July 7, 2016|newspaper=[[The Globe and Mail]]|language=en|access-date=October 2, 2016|location=Toronto}}</ref><ref name="TGC1">{{cite news|url=http://www.theguardian.pe.ca/Opinion/2016-09-21/article-4646212/PETER-MCKENNA%3A-Electoral-reform-in-P.E.I.-redux/1|title=Electoral reform in P.E.I. redux|last=McKenna|first=Peter|date=September 21, 2016|newspaper=[[The Guardian (Charlottetown)|The Guardian Charlottetown]]|language=en|access-date=October 2, 2016|location=Charlottetown, PEI|archive-date=October 3, 2016|archive-url=https://web.archive.org/web/20161003055343/http://www.theguardian.pe.ca/Opinion/2016-09-21/article-4646212/PETER-MCKENNA:-Electoral-reform-in-P.E.I.-redux/1|url-status=dead}}</ref><ref name="CBC1">{{cite news|url=http://www.cbc.ca/news/canada/prince-edward-island/pei-electoral-reform-4-things-to-know-1.3541234|title=P.E.I. electoral reform: 4 unanswered questions about the plebiscite|last=Campbell|first=Kerry|date=April 16, 2016|publisher=CBC|language=en|access-date=October 2, 2016|archive-url=https://web.archive.org/web/20161005142247/http://www.cbc.ca/news/canada/prince-edward-island/pei-electoral-reform-4-things-to-know-1.3541234|archive-date=October 5, 2016|url-status=dead}}</ref> The referendum was conducted using Instant runoff voting, and no option was the choice of a majority in the first count. After three options were eliminated due to being un-electable, mixed member proportional representation received more than 52% support on the final count. But government ignored the result, holding another referendum in 2019.<ref>Bradley, Susan (November 8, 2016). "P.E.I. plebiscite results favour mixed member proportional representation". CBC News. Retrieved November 8, 2016</ref>
+
+==== 2018 British Columbia Electoral Reform Referendum ====
+{{main|2018 British Columbia electoral reform referendum}}
+
+In accordance to campaign promises, the BC NDP (In a confidence and supply agreement with the Greens) scheduled a plebiscite to be held between October 22 and November 30, 2018, with voting done through mail for those registered to vote.<ref>{{cite web |title=2018 Referendum on Electoral Reform {{!}} Elections BC |url=https://elections.bc.ca/referendum/ |website=elections.bc.ca |language=en |access-date=September 29, 2018 |archive-date=November 16, 2018 |archive-url=https://web.archive.org/web/20181116023902/https://elections.bc.ca/referendum/ |url-status=dead }}</ref> 61.3% of voters voted for retaining First Past The Post.
+
+==== 2019 Prince Edward Island Electoral Reform Referendum ====
+{{main|2019 Prince Edward Island electoral reform referendum}}
+
+the 2019 referendum ended in defeat.
+On the question "Should Prince Edward Island change its voting system to a mixed member proportional voting system?", 52 percent voted against change while only 48 percent voted in favour. But neither side took a majority of votes in 60 percent of the districts so government did not consider it a clear decision.<ref>The Canadian Press (April 24, 2019). "Slim majority vote 'no' to electoral reform in P.E.I. referendum". CTV News. Retrieved April 25, 2019</ref> In 2021/2022, PEI again investigated switching away from the FPTP system.<ref>{{cite news|url=https://www.cbc.ca/news/canada/prince-edward-island/pei-proportional-representation-citizens-committee-1.6254341|title=Citizens' assembly to explore electoral reform on P.E.I. could be created in new year, premier says|work=CBC|date=November 19, 2021}}</ref>
+
+==== 2022 Quebec proposed electoral reform ====
+CAQ [[François Legault]] was elected on a promise to reform the electoral system within a year of his victory in 2018.  On September 25, 2019, [[Minister of Justice (Quebec)|Minister of Justice]] [[Sonia LeBel]] presented Bill 39, ''An Act to establish a new electoral system'' which aims to replace the [[First-past-the-post voting|First-past-the-post]] electoral system in favour of a [[Mixed-member proportional system|mixed-member proportional representation system]].  According to the bill, the [[National Assembly of Quebec|National Assembly]] would have kept 125 members. Of the 125 members, 80 would have been elected by receiving a plurality of votes in single-member districts matching the 78 [[Quebec federal electoral districts|federal ridings]] with the addition of 2 unique districts: [[Îles-de-la-Madeleine (provincial electoral district)|Îles-de-la-Madeleine]] and [[Ungava (electoral district)|Ungava]]). The remaining 45 members would have been chosen according to their order in a regional party list. All 17 [[List of regions of Quebec|regions of Quebec]] would have been guaranteed at least one MNA.<ref>{{Cite web|url=https://ici.radio-canada.ca/nouvelle/1484171/reforme-mode-scrutin-montreal-regions-quebec-politique|title=Réforme du mode de scrutin : Montréal perdra trois sièges au bénéfice des régions|access-date=April 8, 2021|archive-date=April 10, 2021|archive-url=https://web.archive.org/web/20210410214413/https://ici.radio-canada.ca/nouvelle/1484171/reforme-mode-scrutin-montreal-regions-quebec-politique|url-status=live}}</ref>
+
+Bill 39 was intended to be debated in the legislature before June 2021. The bill's implementation would have been contingent on popular support expressed in a referendum held on the same day as the general election.<ref>{{Cite web |url=http://www.assnat.qc.ca/Media/Process.aspx?MediaId=ANQ.Vigie.Bll.DocumentGenerique_149283en&process=Original&token=ZyMoxNwUn8ikQ+TRKYwPCjWrKwg+vIv9rjij7p3xLGTZDmLVSmJLoqe%2FvG7%2FYWzz |title=Bill 39{{Snd}} An act to establish a new electoral system |website=[[National Assembly of Quebec]] |access-date=October 22, 2019 |archive-date=October 15, 2019 |archive-url=https://web.archive.org/web/20191015045219/http://www.assnat.qc.ca/Media/Process.aspx?MediaId=ANQ.Vigie.Bll.DocumentGenerique_149283en&process=Original&token=ZyMoxNwUn8ikQ+TRKYwPCjWrKwg+vIv9rjij7p3xLGTZDmLVSmJLoqe%2FvG7%2FYWzz |url-status=live }}</ref> Was this referendum successful, then the first legislature to be elected under [[mixed-member proportional]] would have been the 44th, in October 2026 at the latest. On April 28, 2021, Justice Minister LeBel informed a legislative committee hearing that the government would not move forward with a referendum on electoral reform in 2022. LeBel blamed the [[COVID-19 pandemic in Quebec|COVID-19 pandemic]] for altering the government's timeline and could not commit to providing an alternate date for the referendum, effectively ending discussions about electoral reform in Quebec.<ref name="EndOfReform">{{cite news |url=https://www.cbc.ca/news/canada/montreal/quebec-electoral-reform-referendum-2022-1.6005897 |title=Quebec backtracks on promise, no referendum on electoral reform in 2022 |first=Jonathan |last=Montpetit |date=April 28, 2021 |work=CBC Montreal |access-date=April 28, 2021 |archive-date=April 28, 2021 |archive-url=https://web.archive.org/web/20210428204943/https://www.cbc.ca/news/canada/montreal/quebec-electoral-reform-referendum-2022-1.6005897 |url-status=live }}</ref>
+
+==== 2025 Yukon electoral reform plebiscite ====
+{{main|2025_Yukon_general_election#Electoral_reform_plebiscite}}
+
+Following the final report from the [[citizen's assembly]] on electoral reform, the territorial government announced on September 19, 2024, that a plebiscite on adopting instant-runoff voting would be held simultaneously with the 2025 general election.<ref>{{cite news |last=Pilkington |first=Caitrin |date=September 19, 2024 |title=Yukon government to hold referendum on electoral reform in 2025 |url=https://www.cbc.ca/news/canada/north/yukon-government-to-hold-referendum-on-electoral-reform-in-2025-1.7327564 |accessdate=October 18, 2024 |work=CBC News}}</ref> The opposition Yukon Party reiterated its stance that changes to Yukon's electoral system should have to go through a referendum, while expressing its preference for first-past-the-post voting.<ref>{{cite web |last=Hatherly |first=Dana |date=September 26, 2024 |title=Yukon Party prefers current voting system despite citizens' assembly's ranked ballot pitch |url=https://www.yukon-news.com/news/yukon-party-prefers-current-voting-system-despite-citizens-assemblys-ranked-ballot-pitch-7554280 |access-date=December 2, 2024 |publisher=[[Yukon News]]}}</ref> The [[Yukon NDP]] was for the plebiscite while the [[Yukon Liberal Party]] was neutral on the matter.<ref>{{Cite web |date=October 21, 2025 |title=Vote Yes campaign born as Yukon faces plebiscite ballot on voting system |url=https://www.yukon-news.com/news/vote-yes-campaign-born-as-yukon-faces-plebiscite-ballot-on-voting-system-8310444 |website=[[Yukon News]] |publisher=[[Black Press Media]]}}</ref>
+
+According to preliminary results, the plebiscite recorded a majority in favour of switching to ranked-choice voting, with 56.18% in favour and 43.82% opposed.<ref name="Pleb">{{Cite web |title=Plebiscite Unofficial Results &#124; Elections Yukon |url=https://electionsyukon.ca/en/plebiscite-unofficial-results |website=electionsyukon.ca}}</ref> The Yukon Party government has not taken steps to change from FPTP.<ref>{{Cite web |last=Hatherly |first=Dana |date=2026-01-03 |title=2025 in review: Yukon government won't change electoral system despite plebiscite |url=https://yukon-news.com/2026/01/03/2025-in-review-yukon-government-wont-change-electoral-system-despite-plebiscite/ |access-date=2026-02-18 |website=Yukon News |language=en}}</ref>
+
+==See also==
+{{div col|colwidth=25em}}
+* [[Canadian electoral calendar]]
+* [[Canadian electoral system]]
+* [[Canadian House of Commons Special Committee on Electoral Reform]]
+* [[Democracy Day (Canada)]]
+* [[Electronic voting in Canada]]
+* [[Fair Vote Canada]]
+* [[Federal political financing in Canada]]
+* [[List of Canadian federal electoral districts]]
+* [[List of Canadian federal general elections]]
+* [[List of elections in the Province of Canada]] (pre-Confederation)
+* [[List of federal by-elections in Canada]]
+* [[List of political parties in Canada]]
+* [[Historical federal electoral districts of Canada]]
+* [[Proportional representation in Canada]]
+* [[Referendums in Canada]]
+* [[Timeline of Canadian elections]]
+* [[Voter turnout in Canada]]
+* [[Longest Ballot Committee]]
+{{div col end}}See also [[:Category: Electoral reform in Canada]]
+
+== Notes ==
+{{Reflist|group=n|30em}}
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Argyle, Ray, ''Turning Points: The campaigns that changed Canada, 2004 and before.'' (2004); Scholarly analysis of 15 major national and provincial elections from 1866 to 2004. [https://archive.org/details/turningpointscam0000argy  online]
+* Duffy John. ''Fights of our Lives: Elections, Leadership, and the Making of Canada'' (Harper Collins, 2002); Popular coverage of all major elections 1867 to 1988; heavily illustrated. [https://archive.org/details/fightsofourlives0000duff online]
+* Granatstein, J. L. ''Prime ministers: Ranking Canada's leaders'' (1999) [https://archive.org/details/primeministersra0000gran  online] evaluates all 20 prime ministers from 1867 to 1999.
+
+==External links==
+*[http://www.elections.ca Elections Canada]
+*[http://archives.cbc.ca/IDD-1-73-1450/politics_economy/voting_rights/ CBC Digital Archives—Voting in Canada: How a Privilege Became a Right]
+*[http://archives.cbc.ca/IDD-1-73-1181/politics_economy/federal_elections/ CBC Digital Archives—Campaigning for Canada]
+*[http://etatscanadiens-canadiangovernments.enap.ca/en/nav.aspx?sortcode=2.0.1.0 Canadian Governments Compared]
+*[https://web.archive.org/web/20121106165651/http://www.canada.com/vancouversun/news/story.html?id=0e5b8b55-fe90-4c1a-9b3b-2cd69a78a8c9 U.S. State Department estimates of Canadian elections]
+*[http://www.election-atlas.ca/fed/ Canada Elections Atlas - Federal]
+*
+
+{{Elections in Canada}}
+{{Canada topic|List of political parties in}}
+{{Canada topics}}
+
+{{DEFAULTSORT:Elections In Canada}}
+[[Category:Elections in Canada| ]]
+[[Category:Politics of Canada]]
+[[Category:Government in Canada]]
+[[Category:Political history of Canada]]
+[[Category:Electoral reform in Canada]]

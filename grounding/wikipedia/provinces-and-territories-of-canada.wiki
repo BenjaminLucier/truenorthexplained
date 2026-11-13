@@ -1,0 +1,744 @@
+{{Short description|Top-level subdivisions of Canada}}
+{{Redirect|Canadian Province|the historic colony|Province of Canada|the floristic region|Circumboreal Region#Canadian Province}}
+{{Use mdy dates|date=February 2024}}
+{{Infobox subdivision type
+| name={{ubl|Provinces and territories of Canada}}
+|alt_name=
+| map=[[File:Political map of Canada.svg|350px|A map of Canada showing its 10 provinces and 3 territories]]
+| category=[[Federated state]]
+| current_number={{ubl|10 provinces|3 territories}}
+| number_date=
+| population_range=
+| territory=
+| area_range=
+| government= [[Constitutional monarchy]] | subdivision=
+}}
+
+[[Canada]] has ten provinces and three territories that are sub-national [[administrative division]]s under the jurisdiction of the [[Constitution of Canada|Canadian Constitution]]. In the 1867 [[Canadian Confederation]], three provinces of [[British North America]]—[[New Brunswick]], [[Nova Scotia]], and the [[Province of Canada]] (which upon Confederation was divided into [[Ontario]] and [[Quebec]])—united to form a [[federation]], becoming a fully [[Independence|independent country]] over the next century. Over its history, Canada's international borders have changed several times as it has added territories and provinces, making it the [[List of countries and dependencies by area|world's second-largest country]] by area.
+
+The major difference between a Canadian [[province]] and a [[territory]] is that provinces receive their power and authority from the ''[[Constitution Act, 1867]]'' (formerly<ref>Name changed only in Canada by the [[Canada Act 1982]] (UK), s. 1</ref> called the ''[[British North America Acts|British North America Act, 1867]]''). Territories are [[Federal territory|federal territories]] whose territorial governments have powers delegated to them by the [[Parliament of Canada]]. Powers are divided between the [[Government of Canada]] (the federal government) and the provincial governments by the ''Constitution Act'', either exclusively or concurrently. A change to the division of powers between the federal government and the provinces requires a [[Amendments to the Constitution of Canada|constitutional amendment]]. A similar change affecting the territories can be performed unilaterally by the government or [[Parliament of Canada]].
+
+In modern [[Federalism in Canada|Canadian constitutional theory]], the provinces are considered to be [[sovereignty|co-sovereign]], based on the division of responsibility between the provincial and federal governments within the ''Constitution Act, 1867''; each province thus has its own representative, the [[Lieutenant governor (Canada)|lieutenant governor]], of the Canadian [[monarchy in the Canadian provinces|Crown]]. The territories are not sovereign but have their authorities and responsibilities [[Devolution#Canada|devolved]] from the federal level; as a result, each has a [[Commissioner#Canadian territories|commissioner]] who represents the federal government.
+
+==Provinces==
+<!--Section linked from [[Province of Canada]] hatnote-->
+{| class="wikitable sortable plainrowheaders" style="margin:auto; text-align: center;"
+|+ {{sronly|Provinces of Canada}}
+|-
+! scope="col" colspan="2" rowspan="2" | Name and [[Canadian postal abbreviations for provinces and territories|postal abbreviation]]
+! scope="col" colspan="2" | Cities
+! scope="col" rowspan="2" | Became a province in Canada<ref name="(Canada)2004">{{cite book |author=Reader's Digest Association (Canada) |author2=Canadian Geographic Enterprises |title=The Canadian Atlas: Our Nation, Environment and People |url=https://books.google.com/books?id=vDR7hrnO1aYC&pg=PP41 |year=2004 |publisher=Douglas & McIntyre |isbn=978-1-55365-082-9 |page=41 |access-date=November 21, 2015 |archive-url=https://web.archive.org/web/20160503090030/https://books.google.com/books?id=vDR7hrnO1aYC&pg=PP41 |archive-date=May 3, 2016 |url-status=live}}</ref>
+! scope="col" rowspan="2" | Official<br>language(s)<ref>{{cite web |title=Official Language Policies of the Canadian Provinces |publisher=Fraser Institute |year=2012 |first1=Olivier |last1=Coche |first2=François |last2=Vaillancourt |first3=Marc-Antoine |last3=Cadieux |first4=Jamie Lee |last4=Ronson |url=http://www.fraserinstitute.org/uploadedFiles/fraser-ca/Content/research-news/research/publications/official-language-policies-of-canadian-provinces.pdf |access-date=August 6, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120428174237/http://www.fraserinstitute.org/uploadedFiles/fraser-ca/Content/research-news/research/publications/official-language-policies-of-canadian-provinces.pdf |archive-date=April 28, 2012}}</ref>
+! scope="col" colspan="2" | Population
+! scope="col" class="unsortable" colspan="3" | Area (km<sup>2</sup>)<ref name=StatsCan>{{cite web |url=http://www40.statcan.gc.ca/l01/cst01/phys01-eng.htm |title=Land and freshwater area, by province and territory |publisher=Statistics Canada |year=2005 |access-date=August 4, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20110524063547/http://www40.statcan.gc.ca/l01/cst01/phys01-eng.htm |archive-date=May 24, 2011}}</ref><ref name="j158">{{cite web |title=Table 15.7 Land and freshwater area, by province and territory |website=Statistics Canada |date=2010-10-27 |url=https://www150.statcan.gc.ca/n1/pub/11-402-x/2010000/chap/geo/tbl/tbl07-eng.htm | access-date=2024-12-27}}</ref>
+! scope="col" class="unsortable" colspan="2" | Seats<ref name="autogenerated2">{{cite web |url=http://www.parl.gc.ca/About/Parliament/GuideToHoC/index-e.htm |title=Guide to the Canadian House of Commons |publisher=Parliament of Canada |year=2012 |access-date=August 6, 2013 |archive-url=https://web.archive.org/web/20130627214354/http://www.parl.gc.ca/About/Parliament/GuideToHoC/index-e.htm |archive-date=June 27, 2013 |url-status=live}}</ref>
+|-
+! scope="col" | Capital<ref name="canada1"/>
+! scope="col" | Largest<ref>{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/index.cfm?Lang=E |title=Census Profile |publisher=Statistic Canada |year=2013 |access-date=August 6, 2013 |archive-url=https://web.archive.org/web/20130208074653/http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/index.cfm?Lang=E |archive-date=February 8, 2013 |url-status=live}}</ref>
+! scope="col" |2021 census<ref name=StatCan2021>{{cite web |url=https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000101 |title=Population and dwelling counts: Canada, provinces and territories |publisher=[[Statistics Canada]] |date=October 11, 2022 |access-date=October 11, 2022 |url-status=live |archive-date=February 9, 2022 |archive-url=https://web.archive.org/web/20220209134802/https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000101}}</ref>
+! scope="col" |Q3 2026<br>estimates<ref name="pop">{{Cite web |date=September 24, 2026 |title=Population estimates, quarterly |url=https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901&cubeTimeFrame.startMonth=10&cubeTimeFrame.startYear=2025&cubeTimeFrame.endMonth=04&cubeTimeFrame.endYear=2026&referencePeriods=20260101%2C20260701 |access-date=September 26, 2026 |publisher=[[Statistics Canada]]}}</ref>
+! scope="col" | Land
+! scope="col" | Water
+! scope="col" | Total
+! scope="col" | [[House of Commons of Canada|Commons]]
+! scope="col" | [[Senate of Canada|Senate]]
+|-
+! scope="row" | [[Ontario]]
+| ON
+| colspan="2" | [[Toronto]]
+| rowspan="4" |{{dts|July 1, 1867}}
+| [[Canadian English|English]]{{efn|name=english|De facto; French has limited constitutional status.}}
+| {{right|14,223,942}}
+| {{right|16,262,121}}
+| {{right|917,741}}
+| {{right|158,654}}
+| {{right|1,076,395}}
+| 122
+| 24
+|-
+! scope="row" | [[Quebec]]
+| QC
+| [[Quebec City]]
+| [[Montreal]]
+| [[Quebec French|French]]{{efn|As established under the [[Charter of the French Language]]. English has limited constitutional status in Quebec.}}
+| {{right|8,501,833}}
+| {{right|9,067,114}}
+| {{right|1,356,128}}
+| {{right|185,928}}
+| {{right|1,542,056}}
+| 78
+| 24
+|-
+! scope="row" | [[Nova Scotia]]
+| NS
+| colspan="2" | [[Halifax, Nova Scotia|Halifax]]{{efn|Nova Scotia dissolved cities in 1996 in favour of [[Administrative divisions of Nova Scotia|regional municipalities]]; its largest regional municipality is therefore substituted.}}
+| English{{efn|name=english}}
+| {{right|969,383}}
+| {{right|1,103,419}}
+| {{right|53,338}}
+| {{right|1,946}}
+| {{right|55,284}}
+| 11
+| 10
+|-
+! scope="row" | [[New Brunswick]]
+| NB
+| [[Fredericton]]
+| [[Moncton]]
+| English,<br>[[Acadian French|French]]{{efn|As established under [[Section 16 of the Canadian Charter of Rights and Freedoms]].}}
+| {{right|775,610}}
+| {{right|883,522}}
+| {{right|71,450}}
+| {{right|1,458}}
+| {{right|72,908}}
+| 10
+| 10
+|-
+! scope="row" | [[Manitoba]]
+| MB
+| colspan="2" | [[Winnipeg]]
+| {{dts|July 15, 1870}}
+| English{{efn|name=english}}
+| {{right|1,342,153}}
+| {{right|1,517,379}}
+| {{right|553,556}}
+| {{right|94,241}}
+| {{right|647,797}}
+| 14
+| 6
+|-
+! scope="row" | [[British Columbia]]
+| BC
+| [[Victoria, British Columbia|Victoria]]
+| [[Vancouver]]
+| {{dts|July 20, 1871}}
+| English{{efn|name=english}}
+| {{right|5,000,879}}
+| {{right|5,710,598}}
+| {{right|925,186}}
+| {{right|19,549}}
+| {{right|944,735}}
+| 43
+| 6
+|-
+! scope="row" | [[Prince Edward Island]]
+| PE
+| colspan="2" | [[Charlottetown]]
+| {{dts|July 1, 1873}}
+| English{{efn|name=english}}
+| {{right|154,331}}
+| {{right|182,989}}
+| {{right|5,660}}
+| {{right|0}}
+| {{right|5,660}}
+| 4
+| 4
+|-
+! scope="row" | [[Saskatchewan]]
+| SK
+| [[Regina, Saskatchewan|Regina]]
+| [[Saskatoon]]
+| rowspan=2| {{dts|September 1, 1905}}
+| English{{efn|name=abandsk}}
+| {{right|1,132,505}}
+| {{right|1,278,402}}
+| {{right|591,670}}
+| {{right|59,366}}
+| {{right|651,036}}
+| 14
+| 6
+|-
+! scope="row" | [[Alberta]]
+| AB
+| [[Edmonton]]
+| [[Calgary]]
+| English{{efn|name=abandsk|As established under Languages Acts passed by Alberta and Saskatchewan's respective legislatures in 1988. French has limited constitutional status.}}
+| {{right|4,262,635}}
+| {{right|5,101,050}}
+| {{right|642,317}}
+| {{right|19,531}}
+| {{right|661,848}}
+| 37
+| 6
+|-
+! scope="row" | [[Newfoundland and Labrador]]
+| NL
+| colspan="2" | [[St. John's, Newfoundland and Labrador|St. John's]]
+| {{dts|March 31, 1949}}
+| English{{efn|name=english}}
+| {{right|510,550}}
+| {{right|552,462}}
+| {{right|373,872}}
+| {{right|31,340}}
+| {{right|405,212}}
+| 7
+| 6
+|- class="sortbottom"
+! scope="row" colspan="6" | Total provinces
+! {{right|{{nts|36873821}}}}
+! {{right|{{nts|41659056}}}}
+! {{right|{{nts|5490918}}}}
+! {{right|{{nts|572013}}}}
+! {{right|{{nts|6062931}}}}
+! {{nts|340}}
+! {{nts|102}}
+|}
+
+==Territories==
+There are three territories in Canada. Unlike the provinces, the territories of Canada have no inherent [[sovereignty]] and have only those powers delegated to them by the [[federal government]].<ref>{{Cite canlaw |short title=Northwest Territories Act |abbr=S.C. |year=2014 |chapter=2 |section=2 |link=https://www.canlii.org/en/ca/laws/stat/sc-2014-c-2-s-2/latest/sc-2014-c-2-s-2.html |linkloc=Canlii}}</ref><ref>{{Cite canlaw |short title=Yukon Act |abbr=S.C. |year=2002 |chapter=7 |link=https://www.canlii.org/en/ca/laws/stat/sc-2002-c-7/latest/sc-2002-c-7.html |linkloc=Canlii}}</ref><ref>{{Cite canlaw |short title=Nunavut Act |abbr=S.C. |year=1993 |chapter=28 |link=https://www.canlii.org/en/ca/laws/stat/sc-1993-c-28/latest/sc-1993-c-28.html |linkloc=Canlii}}</ref> They include all of mainland Canada north of [[60th parallel north|latitude 60° north]] and west of [[Hudson Bay]], and all islands north of the Canadian mainland, from those in [[James Bay]] to the [[Queen Elizabeth Islands]]. They cover 40% of Canada's land, but contain only 0.3% of the population.{{efn|Source says 3% of population but [[WP:CALC|simple calculations]] indicate 0.3%<ref>{{cite web |last=Affairs |first=Intergovernmental |title=Provinces and territories |website=Canada.ca |date=2017-08-21 |url=https://www.canada.ca/en/intergovernmental-affairs/services/provinces-territories.html | access-date=2024-12-27}}</ref>}}
+
+Another territory, the [[District of Keewatin]], existed from October 7, 1876, to September 1, 1905, when it rejoined the Northwest Territories and became the [[Keewatin Region]]. It occupied the area that is now the [[Kenora District]] of Ontario, northern Manitoba, and mainland Nunavut.<ref name="f365">{{cite web |title=Historical Boundaries of Canada |website=The Canadian Encyclopedia |date=2015-03-04 |url=https://www.thecanadianencyclopedia.ca/en/article/territorial-evolution | access-date=2024-12-27}}</ref> The government of Keewatin was based in Winnipeg, Manitoba. The territory did not have any representation in federal parliament.{{cn|date=April 2026}}
+
+The Northwest Territories has varied in size substantially through the years. In 1880, it covered {{Convert|7.1|e6km2|abbr=unit}}, and from 1925 to 1999, it covered {{Convert|3.4|e6km2|abbr=unit}}.<ref>Illustrated atlas of the Dominion of Canada containing authentic and complete maps of all the provinces (1880), p. xix https://babel.hathitrust.org/cgi/pt?id=aeu.ark:/13960/t9z03t60q&seq=46&q1=%22square+miles%22</ref>
+
+{| class="wikitable sortable plainrowheaders" style="margin: auto; text-align: center;"
+|+ {{sronly|Territories of Canada}}
+! scope="col" rowspan="2" colspan="2" | Name and [[Canadian postal abbreviations for provinces and territories|postal abbreviation]]
+! scope="col" colspan="2" | Cities<ref name="canada1"/>
+! scope="col" rowspan="2" | Became a territory in Canada<ref name="(Canada)2004"/>
+! scope="col" rowspan="2" | Official languages
+! scope="col" colspan="2" | Population
+! scope="col" class="unsortable" colspan="3" | Area (km<sup>2</sup>)<ref name=StatsCan/>
+! scope="col" class="unsortable" colspan="2" | Seats<ref name="autogenerated2"/>
+|-
+! scope="col" | Capital
+! scope="col" | Largest
+! scope="col" |2021 census<ref name=StatCan2021/>
+! scope="col" |Q3 2026<br>estimates<ref name="pop"/>
+! scope="col" | Land
+! scope="col" | Water
+! scope="col" | Total
+! [[House of Commons of Canada|Commons]]
+! [[Senate of Canada|Senate]]
+|-
+| align=left | {{nowrap|[[Northwest Territories]]}}
+| NT
+| colspan="2" | [[Yellowknife]]
+| {{dts|July 15, 1870}}
+| [[Chipewyan language|Chipewyan]], [[Cree language|Cree]], English, French, [[Gwichʼin language|Gwichʼin]], [[Inuinnaqtun]], [[Inuktitut]], [[Inuvialuktun]], [[Slavey language|North Slavey]], [[Slavey language|South Slavey]], [[Dogrib language|Tłįchǫ]]<ref name="lang">{{Cite canlaw |short title=Official Languages Act |abbr=R.S.N.W.T. |year=1988 |chapter=O-1 |link=https://www.canlii.org/en/nt/laws/stat/rsnwt-1988-c-o-1/latest/rsnwt-1988-c-o-1.html |linkloc=Canlii |amended1=S.N.W.T., c. 23, s. 5}}</ref>
+| {{right|41,070}}
+| {{right|45,904}}
+| {{right|1,183,085}}
+| {{right|163,021}}
+| {{right|1,346,106}}
+| 1
+| 1
+|-
+| align=left | [[Yukon]]
+| YT
+| colspan="2" | [[Whitehorse]]
+| {{dts|June 13, 1898}}
+| English, French<ref>{{Cite canlaw |short title=Languages Act |abbr=R.S.Y. |year=2002 |chapter=133 |link=https://www.canlii.org/en/ca/laws/stat/sc-2002-c-7/latest/sc-2002-c-7.html |linkloc=Canlii |wikilink=Languages Act (Yukon)}}</ref>
+| {{right|40,232}}
+| {{right|50,356}}
+| {{right|474,391}}
+| {{right|8,052}}
+| {{right|482,443}}
+| 1
+| 1
+|-
+| align=left | [[Nunavut]]
+| NU
+| colspan="2" | [[Iqaluit]]
+| {{dts|April 1, 1999}}
+| [[Inuit languages#In Nunavut|Inuktut]] ([[Inuinnaqtun]], [[Inuktitut]]), English, French<ref>{{Cite canlaw |short title=Official Languages Act |abbr=C.S.N.u. |chapter=O-20 |link=https://www.canlii.org/en/nu/laws/stat/csnu-c-o-20/latest/csnu-c-o-20.html |linkloc=Canlii}}</ref>
+| {{right|36,858}}
+| {{right|43,091}}
+| {{right|1,936,113}}
+| {{right|157,077}}
+| {{right|2,093,190}}
+| 1
+| 1
+|- class="sortbottom"
+! scope="row" colspan="6" | Total territories
+! {{right|{{nts|118160}}}}
+! {{right|{{nts|139351}}}}
+! {{right|{{nts|3593589}}}}
+! {{right|{{nts|328150}}}}
+! {{right|{{nts|3921739}}}}
+! 3
+! 3
+|}
+
+==Population==
+{{main|Population of Canada by province and territory}}
+
+[[File:2016 Canada Pop Pie.svg|thumb|upright=1.4|Canada's population from the 2016 census by province/territory]]
+The vast majority of Canada's population is concentrated in areas close to the [[Canada–United States border|Canada–US border]]. Its four largest provinces by area ([[Quebec]], [[Ontario]], [[British Columbia]] and [[Alberta]]) are (with Quebec and Ontario switched in order) its most populous. Together they account for 86% of Canada's population. The territories (the [[Northwest Territories]], [[Nunavut]] and [[Yukon]]) account for over a third of Canada's area but are only home to 0.3% of its population, which skews the national [[population density]] value.<ref name=":1">[http://www.statcan.gc.ca/pub/11-516-x/pdf/5500092-eng.pdf Series A2-14. Population of Canada] by province, census dates, 1851 to 1976</ref>
+
+Canada's population grew by 5.0% between [[2011 Canadian census|the 2011]] and [[2016 Canadian census|2016 censuses]]. Except for [[New Brunswick]], all territories and provinces increased in population during this time. In terms of percent change, the fastest-growing province or territory was [[Nunavut]] with an increase of 12.7% between 2011 and 2016, followed by [[Alberta]] with 11.6% growth, while New Brunswick's population decreased by 0.5%.<ref>{{Cite web |url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/index.cfm?Lang=E |title=2016 Census profiles |date=2016 |website=Statistics Canada}}</ref>
+
+Generally, Canadian provinces have steadily grown in population along with Canada. However, some provinces such as Saskatchewan, Prince Edward Island and Newfoundland and Labrador have experienced long periods of stagnation or population decline. Ontario and Quebec have always been the two biggest provinces in Canada, with together over 60% of the population at any given time. The population of [[Western Canada|the West]] relative to Canada as a whole has steadily grown over time, while that of [[Atlantic Canada]] has declined.<ref name=":1" />
+
+==Territorial evolution==
+{{main| Territorial evolution of Canada|Former colonies and territories in Canada}}
+
+[[File:Canada provinces evolution 2.gif|thumb|upright=1.15|alt=When Canada was formed in 1867 its provinces were a relatively narrow strip in the southeast, with vast territories in the interior. It grew by adding British Columbia in 1871, P.E.I. in 1873, the British Arctic Islands in 1880, and Newfoundland in 1949; meanwhile, its provinces grew both in size and number at the expense of its territories.|The territorial evolution of the borders and the names of Canada's provinces and territories]]
+[[File:Stained glass, Oh Canada Royal Military College of Canada Club Montreal 1965.jpg|upright=1.15|thumb|"[[O Canada]] we stand on guard for thee". Stained glass, Yeo Hall, [[Royal Military College of Canada]]. Featuring arms of the Canadian provinces and territories as of 1965.]]
+
+Ontario, Quebec, New Brunswick, and Nova Scotia were the original provinces, formed when three [[British North America]]n colonies federated on July 1, 1867, into the [[Name of Canada#Kingdom and Dominion|Dominion of Canada]] and by stages began accruing the indicia of sovereignty from the United Kingdom.<ref name="Ajzenstat2003">{{cite book |first=Janet |last=Ajzenstat |title=Canada's Founding Debates |url=https://books.google.com/books?id=73gRch5cXZ4C&pg=PA3 |year=2003 |publisher=University of Toronto Press |isbn=978-0-8020-8607-5 |page=3 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160424073840/https://books.google.com/books?id=73gRch5cXZ4C&pg=PA3 |archive-date=April 24, 2016 |url-status=live}}</ref> (Ontario and Quebec had been united as the [[Province of Canada]] from 1841 to 1867.) Over the next six years, Manitoba (1870), British Columbia (1871), and Prince Edward Island (1873) joined as provinces.<ref name="Ajzenstat2003"/>
+
+[[The Crown|The British Crown]] had claimed two large areas, known as [[Rupert's Land]] and the [[North-Western Territory]], northwest of the original Dominion and assigned them to the [[Hudson's Bay Company]]. In 1870, the company relinquished its claims for £300,000 (CND$1.5&nbsp;million), assigning the vast territory to the government of Canada.<ref name="OlsonShadle1996">{{cite book |first1=James Stuart |last1=Olson |first2=Robert |last2=Shadle |title=Historical Dictionary of the British Empire: A-J |url=https://books.google.com/books?id=L-X-XYB_ZkIC&pg=PA538 |year=1996 |publisher=Greenwood Publishing Group |isbn=978-0-313-29366-5 |page=538 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160506081515/https://books.google.com/books?id=L-X-XYB_ZkIC&pg=PA538 |archive-date=May 6, 2016 |url-status=live}}</ref> The area entered confederation as the Province of Manitoba and the North-West Territories.<ref name="OlsonShadle1996"/>
+
+The North-West Territories encompassed all of current [[Northern Canada|northern]] and [[western Canada]] except for the [[British Arctic Territories]] in the [[Arctic Archipelago]], the [[Colony of British Columbia (1866–1871)|Colony of British Columbia]], and the original Province of Manitoba, a small area in the south of today's province (which expanded to its present size in 1912).<ref name="Gough2010"/> It also included the northern two-thirds of Ontario and Quebec.
+
+In 1880, the British claims to the Arctic islands were transferred to Canada, adding to the size of the North-West Territories. In 1898, the Yukon Territory, renamed "Yukon" in 2003, was carved from the area surrounding the [[Klondike Gold Rush|Klondike gold fields]]. In September 1905, a portion of the North-West Territories south of the 60th parallel north became the provinces of Alberta and Saskatchewan.<ref name="Gough2010"/> In 1912, the boundaries of Quebec, Ontario, and Manitoba were expanded northward: Manitoba's to the 60° parallel, Ontario's to Hudson Bay and Quebec's to encompass the [[District of Ungava]].<ref name="Atlas">{{cite web |url=http://atlas.nrcan.gc.ca/site/english/maps/historical/territorialevolution/1912/1 |title=Territorial evolution |author=Atlas of Canada |access-date=January 27, 2007 |url-status=dead |archive-url= https://web.archive.org/web/20070202135304/http://atlas.nrcan.gc.ca/site/english/maps/historical/territorialevolution/1912/1 |archive-date=February 2, 2007}}</ref>
+
+In 1869, the people of Newfoundland voted to remain a [[British Empire|British colony]] over fears that taxes would increase with Confederation, and that the economic policy of the Canadian government would favour mainland industries.<ref>{{cite web |url=http://www.heritage.nf.ca/law/debate.html |title=Confederation Rejected: Newfoundland and the Canadian Confederation, 1864–1869: Newfoundland and Labrador Heritage |publisher=Newfoundland and Labrador Heritage |year=2000 |access-date=July 29, 2013 |archive-url=https://web.archive.org/web/20130922063836/http://www.heritage.nf.ca/law/debate.html |archive-date=September 22, 2013 |url-status=live}}</ref> In 1907, Newfoundland acquired dominion status.<ref name="Clarke2010">{{cite book |first=Sandra |last=Clarke |title=Newfoundland and Labrador English |url=https://books.google.com/books?id=moDVp5TTpgcC&pg=PA7 |year=2010 |publisher=Edinburgh University Press |isbn=978-0-7486-2617-5 |page=7 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160512031858/https://books.google.com/books?id=moDVp5TTpgcC&pg=PA7 |archive-date=May 12, 2016 |url-status=live}}</ref> In the middle of the [[Great Depression in Canada]], Newfoundland underwent a prolonged [[financial crisis|economic crisis]], and the legislature turned over political control to the [[Newfoundland Commission of Government]] in 1933.<ref name="FriesenHarrison2010">{{cite book |first1=John W. |last1=Friesen |first2=Trevor W. |last2=Harrison |title=Canadian Society in the Twenty-first Century: An Historical Sociological Approach |url=https://books.google.com/books?id=EVGDUAP3LjAC&pg=PA115 |year=2010 |publisher=Canadian Scholars' Press |isbn=978-1-55130-371-0 |page=115 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160429195319/https://books.google.com/books?id=EVGDUAP3LjAC&pg=PA115 |archive-date=April 29, 2016 |url-status=live}}</ref> Following [[Canada in World War II|Canada's participation in the Second World War]], in a [[1948 Newfoundland referendums|1948 referendum]], a narrow majority of Newfoundland citizens voted to enter into Confederation, and on March 31, 1949, Newfoundland became Canada's tenth province.<ref name="Blake1994">{{cite book |first=Raymond Benjamin |last=Blake |title=Canadians at Last: Canada Integrates Newfoundland As a Province |url=https://books.google.com/books?id=-bv8AVgdK1UC&pg=PA4 |year=1994 |publisher=University of Toronto Press |isbn=978-0-8020-6978-8 |page=4 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160623221933/https://books.google.com/books?id=-bv8AVgdK1UC&pg=PA4 |archive-date=June 23, 2016 |url-status=live}}</ref> The province was renamed Newfoundland and Labrador in 2001.<ref name="Shelley2013">{{cite book |first=Fred M. |last=Shelley |title=Nation Shapes: The Story behind the World's Borders |url=https://books.google.com/books?id=5qlXatHRJtMC&pg=PA175 |year=2013 |publisher=ABC-CLIO |isbn=978-1-61069-106-2 |page=175 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160428164804/https://books.google.com/books?id=5qlXatHRJtMC&pg=PA175 |archive-date=April 28, 2016 |url-status=live}}</ref>
+
+[[Bermuda]], the last British North American colony,<ref>{{cite magazine |author=<!--Staff writer(s); no by-line.--> |title=Civil List of the Province of Lower-Canada 1828: Governor |url= |magazine=The Quebec Almanack and British American Royal Kalendar For The Year 1828 |location=Quebec |publisher=Neilson and Cowan, No. 3 Mountain Street |date=1812 |access-date=}}</ref><ref>{{cite magazine |author=<!--Staff writer(s); no by-line.--> |title=STAFF of the ARMY in the Provinces of Nova-Scotia, New-Brunswick, and their Dependencies, including the Island of Newfoundland, Cape Breton, Prince Edward and Bermuda |url= |magazine=The Quebec Almanack and British American Royal Kalendar For The Year 1828 |location=Quebec |publisher=Neilson and Cowan, No. 3 Mountain Street |date=1812 |access-date=}}</ref><ref>{{cite book |author=<!--Staff writer(s); no by-line.--> |date=1890 |title=Meteorological Observations at the Foreign and Colonial Stations of the Royal Engineers and the Army Medical Department 1852—1886. |location=London |publisher=Meteorological Council. HMSO |page= |isbn=}}</ref><ref>{{cite book |last=Young |first=Douglas MacMurray |author-link= |date=1961 |title=The Colonial Office in The Early Nineteenth Century |url= |location=London |publisher=Published for the Royal Commonwealth Society by Longmans |page=55 |isbn=}}</ref> which had been somewhat subordinated to Nova Scotia, was one of two [[Imperial fortress]] colonies in British North America{{snd}} the other being Nova Scotia, and more particularly the city of Halifax.<ref>{{cite book |last=Keith |first=Arthur Berriedale |author-link= |date=1909 |title=Responsible Government in The Dominions |location=London |publisher=Stevens and Sons Ltd |page=5 |isbn= |quote=<!--Bermuda is still an Imperial fortress-->}}</ref><ref>{{cite book |first=Lieutenant-Colonel Sir Edward Sinclair |last=May |author-link=|date=1903 |title=Principles and Problems of Imperial Defence |url= |location=London |publisher=Swan Sonnenschein & Co. |page=145 |isbn= |quote=<!-- In the North American and West Indian station the naval base is at the Imperial fortress of Bermuda, with a garrison numbering 3068 men, of whom 1011 are Colonials; while at Halifax, Nova Scotia, we have another naval base of the first importance which is to be classed amongst our Imperial fortresses, and has a garrison of 1783 men.-->}}</ref> Halifax and Bermuda were the sites of the [[Royal Navy]]'s [[North America and West Indies Station]] main bases, dockyards, and Admiralty Houses (called variously the ''River St. Lawrence and Coast of America and North America and West Indies Station'', the ''North America and Newfoundland Station'', the ''North America and West Indies Station'', and the ''America and West Indies Station''). The squadron of the station was based at [[Royal Naval Dockyard, Halifax]], during the summers and [[Royal Naval Dockyard, Bermuda]], in the winters. In the 1820s, Bermuda, which was better located to control the [[East Coast of the United States|Atlantic Seaboard of the United States]], impossible to attack over land, and almost impregnable against attack over water, became the main base year round.<ref>{{cite book |last=Stranack, Royal Navy |first=Lieutenant-Commander B. Ian D |date=1977 |title=The Andrew and The Onions: The Story of The Royal Navy in Bermuda, 1795–1975 |url= |location=Bermuda |publisher=Island Press Ltd <!--., Bermuda, 1977 (1st Edition); Bermuda Maritime Museum Press, Royal Naval Dockyard Bermuda, Ireland Island, Sandys, Bermuda, 1990 (2nd Edition)--> |page= |isbn=9780921560036}}</ref><ref>{{cite web |url=https://whc.unesco.org/en/list/983/multiple=1&unique_number=1147 |title=World Heritage List: Historic Town of St George and Related Fortifications, Bermuda |author=<!--Not stated--> |date=<!--Not stated--> |publisher=UNESCO |access-date=July 28, 2021}}</ref><ref>{{cite book |last=Ingham-Hind |first=Jennifer M. |title=Defence, Not Defiance: A History Of The Bermuda Volunteer Rifle Corps |year=1992 |location=Bermuda |publisher=The Island Press |isbn=0969651716}}</ref><ref>{{cite book |last=Harris |first=Edward C. |author-link=Edward C. Harris |title=Bermuda Forts 1612–1957 |year=1997 |location=Bermuda |publisher=The Bermuda Maritime Museum Press |isbn=9780921560111}}</ref>
+
+A large [[Bermuda Garrison|British Army garrison in Bermuda]], which fell under the [[Commander-in-Chief, North America#Commanders-in-Chief, Maritime provinces 1783–1875|commander-in-chief in Nova Scotia]], existed to defend the colony as a naval base, and to prevent it becoming as useful a base to the navy of an adversary, and to support amphibious operations throughout the region, such as the [[Chesapeake campaign]] during the American [[War of 1812]].<ref>{{cite news |last=Harris |first=Edward Cecil |date=January 21, 2012 |title=Bermuda's role in the Sack of Washington |url=https://www.royalgazette.com/archive/lifestyle/article/20120121/bermudas-role-in-the-sack-of-washington/ |work=The Royal Gazette |location=City of Hamilton, Pembroke, Bermuda |access-date=August 8, 2021}}</ref><ref>{{cite magazine |last=Grove |first=Tim |date=January 22, 2021 |title=Fighting The Power |url=https://chesapeakebaymagazine.com/fighting-the-power/ |magazine=Chesapeake Bay Magazine |location=Annapolis |publisher=Chesapeake Bay Media, LLC |access-date=August 8, 2021}}</ref> Bermuda was consequently the most important British naval and military base in the Americas.<ref>{{cite book |last=Willock [[United States Marine Corps|USMC]] |first=Lieutenant-Colonel Roger |title=Bulwark Of Empire: Bermuda's Fortified Naval Base 1860–1920 |year=1988 |location=Bermuda |publisher=The Bermuda Maritime Museum Press |isbn=9780921560005}}</ref><ref>{{cite book |last=Gordon |first=Donald Craigie |date=1965 |title=The Dominion Partnership in Imperial Defense, 1870-1914 |location=Baltimore, Maryland, US |publisher=Johns Hopkins Press |page=14 |isbn= |quote=<!-- There were more than 44,000 troops stationed overseas in colonial garrisons, and slightly more than half of these were in imperial fortresses: in the Mediterranean, Bermuda, Halifax, St. Helena, and Mauritius. The rest of the forces were in colonies proper, with a heavy concentration in New Zealand and South Africa. The imperial government paid approximately £1,715,000 per annum toward the maintenance of these forces, and the various colonial governments contributed £370,000, the largest amounts coming from Ceylon and Victoria in Australia.-->}}</ref>
+
+[[Canadian Confederation]] resulted in the [[Canadian Militia]] becoming responsible for the defence of [[the Maritimes]], the abolition of the [[British Army]]'s commander-in-chief there, and the reduction of British military forces in the Maritimes to a small garrison for the protection of the Halifax dockyard, which was withdrawn when the dockyard was handed over to the Dominion government in 1905 for use by the new Canadian naval service. Britain retained control of Bermuda as an imperial fortress, with the governor and commander-in-chief of Bermuda (a military officer previously ranking between lieutenant-colonel and major-general) becoming a lieutenant-general termed a ''[[general officer commanding]]'' and the Bermuda garrison becoming a command in its own right.<ref>{{cite book |last=MacFarlane |first=Thomas |author-link= |date=1891 |title=Within the Empire; An Essay on Imperial Federation |location=Ottawa |publisher=James Hope & Co. |page=29 |isbn= |quote=<!-- Besides the Imperial fortress of Malta, Gibraltar, Halifax and Bermuda it has to maintain and arm coaling stations and forts at Siena Leone, St. Helena, Simons Bay (at the Cape of Good Hope), Trincomalee, Jamaica and Port Castries (in the island of Santa Lucia).-->}}</ref><ref>{{cite magazine |last=Kennedy, R.N. |first=Captain W. R. |date=July 1, 1885 |title=An Unknown Colony: Sport, Travel and Adventure in Newfoundland and the West Indies |url= |magazine=Blackwood's Edinburgh Magazine |publisher=William Blackwood & Sons |access-date= |page=111 |quote=<!--As a fortress, Bermuda is of the first importance. It is situated almost exactly half-way between the northern and the southern naval stations; while nature has made it practically impregnable. The only approach lies through that labyrinth of reefs and narrow channels which Captain Kennedy has described. The local pilots are sworn to secrecy; and, what is more reassuring, by lifting buoys and laying down torpedoes, hostile vessels trying to thread the passage must come to inevitable grief, So far Bermuda may be considered safe, whatever may be the condition of the fortifications and the cannon in the batteries. Yet the universal neglect of our colonial defences is apparent in the fact that no telegraphic communication has hitherto been established with the West Indies on the one side, or with the Dominion of Canada on the other.-->}}</ref><ref>{{cite magazine |last=VERAX |first=(anonymous) |date=May 1, 1889 |title=The Defense of Canada. (From Colburn's United Service Magazine) |url= |magazine=The United Service: A Quarterly Review of Military and Naval Affairs |location= |publisher=LR Hamersly & Co. |access-date= |page=552 |quote=<!--The objectives for America are clearly marked,—Halifax, Quebec, Montreal, Prescott, Kingston, Ottawa, Toronto, Winnipeg, and Vancouver. Halifax and Vancouver are certain to be most energetically attacked, for they will be the naval bases, besides Bermuda, from which England would carry on her naval attack on the American coasts and commerce.-->}}</ref><ref>{{cite book |last1=Dawson |first1=George M. |last2=Sutherland |first2=Alexander |date=1898 |title=MacMillan's Geographical Series: Elementary Geography of the British Colonies |location=London |publisher=MacMillan and Co. |page=184 |isbn= |quote=<!--There is a strongly fortified dockyard, and the defensive works, together with the intricate character of the approaches to the harbour, render the islands an almost impregnable fortress. Bermuda is governed as a Crown colony by a Governor who is also Commander-in-Chief, assisted by an appointed Executive Council and a representative House of Assembly.-->}}</ref>
+
+Bermuda was consequently left out of Canadian confederation. It retained naval links with Halifax. The [[Christian state|state church]] (or ''established church''), the [[Church of England]], continued to place Bermuda under the [[Diocese of Newfoundland|bishop of Newfoundland]] until 1919. Bermuda also remained linked to the Maritimes under the Methodist and Roman Catholic churches.<ref>{{cite web |url=http://www.anglican.bm/index.php/worship/our-churches.html |title=Our Churches: Pembroke Parish |author=<!--Not stated--> |date=<!--Not stated--> |website=Anglican Church of Bermuda |access-date=August 28, 2021 |quote=}}</ref><ref>{{cite web |url=https://anglicanenl.net/home/our-history |title=Our History |author=<!--Not stated--> |date=<!--Not stated--> |website=Anglican East NL |publisher=Anglican Diocese of Eastern Newfoundland and Labrador |access-date=August 17, 2021 |quote=}}</ref><ref>{{cite web |url=https://www.heritage.nf.ca/articles/society/anglicanism.php |title=The Church of England |last=Piper |first=Liza |date=2000 |website=Heritage Newfoundland and Labrador |publisher=Newfoundland and Labrador Heritage Web Site |access-date=August 17, 2021 |quote=}}</ref><ref>{{cite web |url=https://www.romancatholicbermuda.bm/about-us |title=A History Of Our Church |author=<!--Not stated--> |date= |website=Roman Catholic Diocese of Hamilton in Bermuda |publisher=The Diocese of Hamilton in Bermuda |access-date=August 28, 2021 |quote=The Diocese of Hamilton in Bermuda was established in 12th June 1967. Bermuda was served by the Diocesan clergy of Halifax until 1953, after which pastoral responsibility transferred to the Congregation of the Resurrection.}}</ref>
+
+In 1903, resolution of the [[Alaska boundary dispute|Alaska Panhandle Dispute]] fixed British Columbia's northwestern boundary,<ref name="Laxer2010">{{cite book |first=James |last=Laxer |title=The Border: Canada, the US and Dispatches From the 49th Parallel |url=https://books.google.com/books?id=MjVlI8V0i9AC&pg=PT215 |year=2010 |publisher=Doubleday Canada |isbn=978-0-385-67290-0 |page=215 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160430173323/https://books.google.com/books?id=MjVlI8V0i9AC&pg=PT215 |archive-date=April 30, 2016 |url-status=live}}</ref> the first of only two provincial reductions in Canada. In 1927, the second reduction occurred when a [[Labrador#Boundary dispute|boundary dispute]] between Canada and the Dominion of Newfoundland saw [[Labrador]] (part of the Dominion of Newfoundland) enlarged at Quebec's expense. (In 1949, this land returned to Canada as part of the province of Newfoundland.)<ref name="Cukwurah1967">{{cite book |first=A. Oye |last=Cukwurah |title=The Settlement of Boundary Disputes in International Law |url=https://books.google.com/books?id=xHm7AAAAIAAJ&pg=PA186 |year=1967 |publisher=Manchester University Press |page=186 |id=GGKEY:EXSJZ7S92QE |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160519125410/https://books.google.com/books?id=xHm7AAAAIAAJ&pg=PA186 |archive-date=May 19, 2016 |url-status=live}}</ref> In 1999, Nunavut was created from the northern and eastern portions of the Northwest Territories.<ref name="School2013"/><ref name="Nuttall2012">{{cite book |first=Mark |last=Nuttall |title=Encyclopedia of the Arctic |url=https://books.google.com/books?id=LcucDSk4w3YC&pg=PA301 |year=2012 |publisher=Routledge |isbn=978-1-57958-436-8 |page=301 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160506200637/https://books.google.com/books?id=LcucDSk4w3YC&pg=PA301 |archive-date=May 6, 2016 |url-status=live}}</ref>
+
+The three territories are the most sparsely populated region in Canada, combined covering {{convert|{{#expr:1346106+482443+2093190}}|km2|mi2|abbr=on}} in land area.<ref name=StatsCan/> They are often referred to as a single region, the North, for organizational and economic purposes.<ref name="Development2002">{{cite book |author=Organisation for Economic Co-operation and Development |title=Oecd Territorial Reviews: Canada |url=https://archive.org/details/oecdterritorialr0000orga |url-access=registration |year=2002 |publisher=OECD Publishing |isbn=978-92-64-19832-6 |page=[https://archive.org/details/oecdterritorialr0000orga/page/16 16] |access-date=November 22, 2015}}</ref> For much of the Northwest Territories' early history, it was divided into [[Districts of the Northwest Territories|several districts]] for ease of administration.<ref name="WaldmanBraun2009">{{cite book |first1=Carl |last1=Waldman |first2=Molly |last2=Braun |title=Atlas of the North American Indian |url=https://books.google.com/books?id=P2HKD9PgC6wC&pg=PA234 |year=2009 |publisher=Infobase Publishing |isbn=978-1-4381-2671-5 |page=234 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160516202620/https://books.google.com/books?id=P2HKD9PgC6wC&pg=PA234 |archive-date=May 16, 2016 |url-status=live}}</ref> The [[District of Keewatin]] was created as a separate territory from 1876 to 1905, after which, as the [[Keewatin Region]], it became an administrative district of the Northwest Territories.<ref name="ForsythMuller2001">{{cite book |last1=McIlwraith |first1=Thomas Forsyth |first2=Edward K. |last2=Muller |title=North America: The Historical Geography of a Changing Continent |url=https://books.google.com/books?id=8NS0OTXRlTMC&pg=PA359 |year=2001 |publisher=Rowman & Littlefield |isbn=978-0-7425-0019-8 |page=359 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160506120037/https://books.google.com/books?id=8NS0OTXRlTMC&pg=PA359 |archive-date=May 6, 2016 |url-status=live}}</ref> In 1999, it was dissolved when it became part of Nunavut and, under different boundaries, was renamed the [[Kivalliq Region]].
+
+==Government==
+{{Main|Federalism in Canada|Monarchy in the Canadian provinces|Office-holders of Canada|Legislative assemblies of Canadian provinces and territories}}
+Theoretically, provinces have a great deal of power relative to the federal government, with jurisdiction over many [[public good]]s such as health care, education, welfare, and intra-provincial transportation.<ref name="Mahler1987">{{cite book |first=Gregory S. |last=Mahler |title=New Dimensions of Canadian Federalism: Canada in a Comparative Perspective |url=https://archive.org/details/newdimensionsofc0000mahl |url-access=registration |year=1987 |publisher=Fairleigh Dickinson Univ Press |isbn=978-0-8386-3289-5 |page=[https://archive.org/details/newdimensionsofc0000mahl/page/86 86] |access-date=November 22, 2015}}</ref> They receive "[[transfer payment]]s" from the federal government to pay for these, as well as exacting their own taxes.<ref name="Peach2007">{{cite book |first=Ian |last=Peach |title=Constructing Tomorrows Federalism: New Perspectives on Canadian Governance |url=https://books.google.com/books?id=K8VkyxvK1VAC&pg=PA52 |year=2007 |publisher=Univ. of Manitoba Press |isbn=978-0-88755-315-8 |page=52 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160510100747/https://books.google.com/books?id=K8VkyxvK1VAC&pg=PA52 |archive-date=May 10, 2016 |url-status=live}}</ref> In practice, however, the federal government can use these transfer payments to influence these provincial areas. For instance, in order to receive healthcare funding under [[Medicare (Canada)|Medicare]], provinces must agree to meet certain federal mandates, such as universal access to required medical treatment.<ref name="Peach2007"/>
+
+Provincial and territorial legislatures have no second chamber like the [[Senate of Canada|Canadian Senate]]. Originally, most provinces had such bodies, known as [[legislative council]]s, with members titled councillors. These upper houses were abolished one by one, Quebec's being the last in 1968.<ref name="Maclure2003wt">{{cite book |first=Jocelyn |last=Maclure |title=Quebec Identity: The Challenge of Pluralism |url=https://books.google.com/books?id=rDq-VVN4XtcC&pg=PA162 |year=2003 |publisher=McGill-Queen's Press – MQUP |isbn=978-0-7735-7111-2 |page=162 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160501132404/https://books.google.com/books?id=rDq-VVN4XtcC&pg=PA162 |archive-date=May 1, 2016 |url-status=live}}</ref> In most provinces, the single house of the legislature is known as the [[legislative assembly]]. The exceptions are Nova Scotia and Newfoundland and Labrador, where the chamber is called the [[Bicameralism|House of Assembly]], and Quebec where it is called the [[National Assembly of Quebec|National Assembly]].<ref name="Tidridge2011nm">{{cite book |first=Nathan |last=Tidridge |title=Canada's Constitutional Monarchy: An Introduction to Our Form of Government |url=https://books.google.com/books?id=JvGsvHsAtDgC&pg=PA281 |year=2011 |publisher=Dundurn |isbn=978-1-4597-0084-0 |page=281 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160514004708/https://books.google.com/books?id=JvGsvHsAtDgC&pg=PA281 |archive-date=May 14, 2016 |url-status=live}}</ref> Ontario has a legislative assembly but its members are called [[Member of Provincial Parliament (Canada)|members of the Provincial Parliament]] or MPPs.<ref name="Pinto2012">{{cite book |first=Laura Elizabeth |last=Pinto |title=Curriculum Reform in Ontario: 'Common-Sense' Policy Processes and Democratic Possibilities |url=https://books.google.com/books?id=4DYswZZ5gPIC&pg=PT325 |year=2012 |publisher=University of Toronto Press |isbn=978-1-4426-6158-5 |page=325 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160529132945/https://books.google.com/books?id=4DYswZZ5gPIC&pg=PT325 |archive-date=May 29, 2016 |url-status=live}}</ref>
+
+The legislative assemblies use a procedure similar to that of the [[House of Commons of Canada]]. The head of government of each province, called the [[Premier (Canada)|premier]], is generally the head of the party with the most seats.<ref name="Barnhart2004">{{cite book |first=Gordon |last=Barnhart |title=Saskatchewan Premiers of the Twentieth Century |url=https://books.google.com/books?id=lOX4Cal-54EC&pg=PR7 |year=2004 |publisher=University of Regina Press |isbn=978-0-88977-164-2 |page=7 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160527102212/https://books.google.com/books?id=lOX4Cal-54EC&pg=PR7 |archive-date=May 27, 2016 |url-status=live}}</ref> This is also the case in Yukon, but the Northwest Territories and Nunavut have no political parties at the territorial level.<ref name="Zellen2009iu">{{cite book |first=Barry Scott |last=Zellen |title=On Thin Ice: The Inuit, the State, and the Challenge of Arctic Sovereignty |url=https://books.google.com/books?id=Syskcmi-5XMC&pg=PA54 |year=2009 |publisher=Lexington Books |isbn=978-0-7391-3280-7 |page=54 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160430214327/https://books.google.com/books?id=Syskcmi-5XMC&pg=PA54 |archive-date=April 30, 2016 |url-status=live}}</ref> The King's representative in each province is the [[Lieutenant governor (Canada)|lieutenant governor]].<ref name="Tidridge2011po">{{cite book |first=Nathan |last=Tidridge |title=Canada's Constitutional Monarchy |url=https://books.google.com/books?id=KAvtMxqSDncC&pg=PA94 |year=2011 |publisher=Dundurn |isbn=978-1-55488-980-8 |page=94 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160617041001/https://books.google.com/books?id=KAvtMxqSDncC&pg=PA94 |archive-date=June 17, 2016 |url-status=live}}</ref> In each of the territories there is an analogous [[Commissioner#Canadian territories|commissioner]], but they represent the federal government rather than the monarch.<ref name="PikeMcCreery2011fr">{{cite book |first1=Corinna |last1=Pike |first2=Christopher |last2=McCreery |author-link2=Christopher McCreery |title=Canadian Symbols of Authority: Maces, Chains, and Rods of Office |url=https://books.google.com/books?id=8x_k6AR1_IUC&pg=PT183 |year=2011 |publisher=Dundurn |isbn=978-1-4597-0016-1 |page=183 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160529022104/https://books.google.com/books?id=8x_k6AR1_IUC&pg=PT183 |archive-date=May 29, 2016 |url-status=live}}</ref>
+
+{| class="wikitable plainrowheaders" style="margin:auto;"
+|+ Federal, provincial, and territorial terminology compared
+! Jurisdiction
+! Legislature
+! Lower house
+! Members of lower house
+! Superior court
+! Head of government
+! Viceroy
+|-
+! scope="row" | Canada
+| [[Parliament of Canada|Parliament]]
+| [[House of Commons of Canada|House of Commons]]
+| [[Member of Parliament (Canada)|Member of Parliament]] (MP)
+| [[Federal Court (Canada)|Federal Court]]
+| [[Prime Minister of Canada|Prime Minister]]
+| [[Governor General of Canada|Governor General]]
+|-
+| colspan="7"|
+|-
+! scope="row" | Ontario
+| [[Legislature of Ontario|Parliament]]
+| [[Legislative Assembly of Ontario|Legislative Assembly]]
+| [[Member of Provincial Parliament (Canada)#Ontario|Member of the Provincial Parliament]] (MPP){{efn|name=OLA2| Members were previously titled "Member of the Legislative Assembly".}}
+| [[Superior Court of Justice (Ontario)|Superior Court of Justice]]
+| [[Premier of Ontario|Premier]]
+| [[Lieutenant Governor of Ontario|Lieutenant Governor]]
+|-
+! scope="row" | Quebec{{efn|name=National Assembly| Quebec's lower house was previously called the "Legislative Assembly" with members titled "Member of the Legislative Assembly". The name was changed at the same time Quebec's upper house was abolished.}}
+| [[Parliament of Quebec|Parliament]]
+| [[National Assembly of Quebec|National Assembly]]
+| [[Member of the National Assembly (Quebec)|Member of the National Assembly]] (MNA)
+| [[Superior Court of Quebec|Superior Court]]
+| [[Premier of Quebec|Premier]]
+| [[Lieutenant Governor of Quebec|Lieutenant Governor]]
+
+|-
+! scope="row" | Nova Scotia
+| [[General Assembly of Nova Scotia|General Assembly]]
+| [[Nova Scotia House of Assembly|House of Assembly]]
+| Member of the Legislative Assembly (MLA)
+| [[Nova Scotia Supreme Court|Supreme Court]]
+| [[Premier of Nova Scotia|Premier]]
+| [[Lieutenant Governor of Nova Scotia|Lieutenant Governor]]
+|-
+! scope="row" | New Brunswick
+| [[New Brunswick Legislature|Legislature]]
+| [[Legislative Assembly of New Brunswick|Legislative Assembly]]
+| Member of the Legislative Assembly (MLA)
+| [[Court of King's Bench of New Brunswick|Court of King's Bench]]
+| [[Premier of New Brunswick|Premier]]
+| [[Lieutenant Governor of New Brunswick|Lieutenant Governor]]
+|-
+! scope="row" | Manitoba
+| [[Manitoba Legislature|Legislature]]
+| [[Legislative Assembly of Manitoba|Legislative Assembly]]
+| Member of the Legislative Assembly (MLA)
+| [[Court of King's Bench of Manitoba|Court of King's Bench]]
+| [[Premier of Manitoba|Premier]]
+| [[Lieutenant Governor of Manitoba|Lieutenant Governor]]
+|-
+! scope="row" | British Columbia
+| [[Legislature of British Columbia|Parliament]]
+| [[Legislative Assembly of British Columbia|Legislative Assembly]]
+| Member of the Legislative Assembly (MLA)
+| [[Supreme Court of British Columbia|Supreme Court]]
+| [[Premier of British Columbia|Premier]]
+| [[Lieutenant Governor of British Columbia|Lieutenant Governor]]
+|-
+! scope="row" | Prince Edward Island{{efn|name=pei la| Prince Edward Island's lower house was previously called the "House of Assembly" and its members were titled "Assemblyman". After the abolition of its upper house, assemblymen and councillors both sat in the renamed "Legislative Assembly". Later, this practice was abolished so that all members would be titled "Member of the Legislative Assembly".}}
+| [[General Assembly of Prince Edward Island|General Assembly]]
+| [[Legislative Assembly of Prince Edward Island|Legislative Assembly]]
+| Member of the Legislative Assembly (MLA)
+| [[Supreme Court of Prince Edward Island|Supreme Court]]
+| [[Premier of Prince Edward Island|Premier]]
+| [[Lieutenant Governor of Prince Edward Island|Lieutenant Governor]]
+|-
+! scope="row" | Saskatchewan
+| [[Saskatchewan Legislature|Legislature]]
+| [[Legislative Assembly of Saskatchewan|Legislative Assembly]]
+| Member of the Legislative Assembly (MLA)
+| [[Court of King's Bench for Saskatchewan|Court of King's Bench]]
+| [[Premier of Saskatchewan|Premier]]
+| [[Lieutenant Governor of Saskatchewan|Lieutenant Governor]]
+|-
+! scope="row" | Alberta
+| [[Alberta Legislature|Legislature]]
+| [[Legislative Assembly of Alberta|Legislative Assembly]]
+| Member of the Legislative Assembly (MLA)
+| [[Court of King's Bench of Alberta|Court of King's Bench]]
+| [[Premier of Alberta|Premier]]
+| [[Lieutenant Governor of Alberta|Lieutenant Governor]]
+|-
+! scope="row" | Newfoundland and Labrador
+|[[General Assembly of Newfoundland and Labrador|General Assembly]]
+|[[Newfoundland and Labrador House of Assembly|House of Assembly]]
+| Member of the House of Assembly (MHA)
+|[[Supreme Court of Newfoundland and Labrador|Supreme Court]]
+| [[Premier of Newfoundland and Labrador|Premier]]
+| [[Lieutenant Governor of Newfoundland and Labrador|Lieutenant Governor]]
+|-
+| colspan="7"|
+|-
+! scope="row" | Northwest Territories
+| Assembly
+| [[Legislative Assembly of the Northwest Territories|Legislative Assembly]]
+| Member of the Legislative Assembly (MLA)
+| [[Supreme Court of the Northwest Territories|Supreme Court]]
+| [[Premier of the Northwest Territories|Premier]]{{efn|name=government leader|In Northwest Territories and Yukon the head of government was previously titled "Government Leader".}}
+| [[Commissioner of the Northwest Territories|Commissioner]]
+|-
+! scope="row" | Yukon
+| [[Legislature of Yukon|Legislature]]
+| [[Yukon Legislative Assembly|Legislative Assembly]]
+| Member of the Legislative Assembly (MLA)
+| [[Supreme Court of Yukon|Supreme Court]]
+| [[Premier of Yukon|Premier]]
+| [[Commissioner of Yukon|Commissioner]]
+|-
+! scope="row" | Nunavut
+| Assembly
+| [[Legislative Assembly of Nunavut|Legislative Assembly]]
+| Member of the Legislative Assembly (MLA)
+| [[Nunavut Court of Justice|Court of Justice]]
+| [[Premier of Nunavut|Premier]]
+| [[Commissioner of Nunavut|Commissioner]]
+|}
+
+===Provincial legislature buildings and flags===
+<gallery class="center" width="165" height="120" perrow="5">
+2011 Alberta Legislature Building 03.jpg|[[Alberta Legislature Building]]
+British Columbia Parliament Buildings - panoramio.jpg|[[British Columbia Parliament Buildings]]
+Parliamentwinnipeg manitoba.jpg|[[Manitoba Legislative Building]]
+New Brunswick Legislature.png|[[New Brunswick Legislative Building]]
+Confederation Building (front), St. John's, Newfoundland, Canada.jpg|[[Confederation Building (Newfoundland and Labrador)|Newfoundland and Labrador Confederation Building]]
+Province House (Nova Scotia).jpg|[[Province House (Nova Scotia)|Nova Scotia Province House]]
+Ontario Legislative Building, Toronto, South view 20170417 1.jpg|[[Ontario Legislative Building]]
+282 - Birthplace of Canada Charlottetown PEI.JPG|[[Province House (Prince Edward Island)|Prince Edward Island Province House]]
+Quebec City (14765614666).jpg|[[Parliament Building (Quebec)|Quebec Parliament Building]]
+Saskatchewan legislative building.jpg|[[Saskatchewan Legislative Building]]
+</gallery>
+
+===Provincial flags and coat of arms===
+
+<gallery class="center" width="165" height="120" perrow="6">
+Flag of Alberta.svg|[[Flag of Alberta]]
+Coat of arms of Alberta.svg|[[Coat of arms of Alberta]]
+Flag of British Columbia.svg|[[Flag of British Columbia]]
+Coat of arms of British Columbia.svg|[[Coat of arms of British Columbia]]
+Flag of Manitoba.svg|[[Flag of Manitoba]]
+Coat of arms of Manitoba.svg|[[Coat of arms of Manitoba]]
+Flag of New Brunswick.svg|[[Flag of New Brunswick]]
+Coat of arms of New Brunswick, Canada.svg|[[Coat of arms of New Brunswick]]
+Flag of Newfoundland and Labrador.svg|[[Flag of Newfoundland and Labrador]]
+Coat of Arms of Newfoundland and Labrador.svg|[[Coat of arms of Newfoundland and Labrador]]
+Flag of Nova Scotia.svg|[[Flag of Nova Scotia]]
+Coat of arms of Nova Scotia.svg|[[Coat of arms of Nova Scotia]]
+Flag of Ontario.svg|[[Flag of Ontario]]
+Coat of arms of Ontario.svg|[[Coat of arms of Ontario]]
+Flag of Prince Edward Island.svg|[[Flag of Prince Edward Island]]
+Coat of arms of Prince Edward Island, Canada.svg|[[Coat of arms of Prince Edward Island]]
+Flag of Quebec.svg|[[Flag of Quebec]]
+Coat of arms of Quebec (without crown).svg|[[Coat of arms of Quebec]]
+Flag of Saskatchewan.svg|[[Flag of Saskatchewan]]
+Coat of arms of Saskatchewan.svg|[[Coat of arms of Saskatchewan]]
+</gallery>
+
+===Territorial legislature buildings and flags===
+<gallery class="center" width="165px" height="120px" perrow="3">
+Northwest Territories Legislative Building.jpg|[[Northwest Territories Legislative Building]]
+Leg Building Iqaluit 2000-08-27.jpg|[[Legislative Building of Nunavut|Nunavut Legislative Building]]
+Yukon Legislature main entrance.jpg|[[Yukon Legislative Building]]
+</gallery>
+
+===Territorial flags and coat of arms===
+<gallery class="center" width="165px" height="120px" perrow="6">
+Flag of the Northwest Territories.svg|[[Flag of the Northwest Territories]]
+Coat of arms of Northwest Territories.svg|[[Coat of arms of the Northwest Territories]]
+Flag of Nunavut.svg|[[Flag of Nunavut]]
+Coat of arms of Nunavut.svg|[[Coat of arms of Nunavut]]
+Flag of Yukon.svg|[[Flag of Yukon]]
+Coat of arms of Yukon.svg|[[Coat of arms of Yukon]]
+</gallery>
+
+=== Map ===
+{{Canada image map}}
+
+==Provincial political parties==
+Most provinces have rough provincial counterparts to major federal parties. However, these provincial parties are not usually formally linked to the federal parties that share the same name.<ref name="Cross2011">{{cite book |first=William |last=Cross |title=Political Parties |year=2011 |publisher=UBC Press |isbn=978-0-7748-4111-5 |pages=17–20}}</ref> For example, no provincial Conservative or Progressive Conservative Party shares an organizational link to the federal [[Conservative Party of Canada]], and neither do provincial Green Parties to the [[Green Party of Canada]].{{cn|date=April 2026}}
+
+Provincial New Democratic Parties, on the other hand, are fully integrated with the federal [[New Democratic Party]]—meaning that provincial parties effectively operate as sections, with common membership, of the federal party.{{cn|date=April 2026}}
+
+The [[Liberal Party of Canada]] shares such an organizational integration with [[Atlantic Canada]] provincial Liberals in [[New Brunswick Liberal Association|New Brunswick]], [[Liberal Party of Newfoundland and Labrador|Newfoundland and Labrador]], [[Nova Scotia Liberal Party|Nova Scotia]], and [[Prince Edward Island Liberal Party|Prince Edward Island]]. Other provincial Liberal parties are unaffiliated with their federal counterpart.<ref name="Cross2011"/>
+
+Some provinces have provincial political parties with no clear federal equivalent, such as the [[Saskatchewan Party]].{{cn|date=April 2026}}
+
+The provincial political climate of Quebec is different: the main split is between [[Quebec sovereignty movement|sovereignty]], represented by the [[Parti Québécois]] and [[Québec solidaire]], and [[Federalism in Quebec|federalism]], represented primarily by the [[Quebec Liberal Party]].<ref name="Gagnon2000pm">{{cite book |first=Alain-Gustave |last=Gagnon |title=The Canadian Social Union Without Quebec: 8 Critical Analyses |url=https://books.google.com/books?id=97a8-s131u0C&pg=PA209 |year=2000 |publisher=IRPP |isbn=978-0-88645-184-4 |pages=209–210 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160505184122/https://books.google.com/books?id=97a8-s131u0C&pg=PA209 |archive-date=May 5, 2016 |url-status=live}}</ref> The {{lang|fr|[[Coalition Avenir Québec]]|italic=no}}, meanwhile, takes an abstentionist position on the question and does not support or oppose sovereignty.{{cn|date=April 2026}}
+
+===Provincial/territorial governments===
+{| class="wikitable sortable plainrowheaders"
+|+ Provincial/territorial governments of Canada
+! scope="col" | Province/territory
+! scope="col" | [[Premier (Canada)|Premier]]<ref name="autogenerated1">{{cite web |url=http://www.parl.gc.ca/Parlinfo/compilations/ProvinceTerritory/PremiersTerritorialLeaders.aspx |title=Premiers |publisher=Parliament of Canada |access-date=August 6, 2013}}</ref>
+! scope="col" colspan="2" | Party in government<ref name="autogenerated1" />
+! scope="col" | Party main ideology
+! scope="col" | Party political position
+! scope="col" | Majority/{{wbr}}minority
+!Party in Opposition
+! scope="col" | Lieutenant governor / commissioner<ref>{{cite web |url=http://www.parl.gc.ca/parlinfo/compilations/ProvinceTerritory/LieutenantGovernors.aspx |title=Lieutenant Governors and Territorial Commissioners |publisher=Parliament of Canada |access-date=August 6, 2013}}</ref>
+! scope="col" | Last election
+!Next election
+|-
+! scope="row" | Alberta
+| {{sortname|Danielle|Smith}}
+| {{Canadian party colour|AB|UCP|background}} |
+| [[United Conservative Party|United Conservative]]
+| [[Conservatism]] {{nowrap|([[Conservatism in Canada|Canadian]])}}
+| [[Right-wing politics|Right-wing]]
+| Majority
+| [[Alberta New Democratic Party|New Democratic]] 
+| {{sortname|Salma|Lakhani}}
+| data-sort-value="2023-05-29"|[[2023 Alberta general election|2023]]
+| data-sort-value="2027-10-18"|[[32nd Alberta general election|2027]]
+|-
+! scope="row" | British Columbia
+| {{sortname|David|Eby}}
+| {{Canadian party colour|BC|NDP|background}} |
+| [[British Columbia New Democratic Party|New Democratic]]
+| [[Social democracy]]
+| [[Centre-left politics|Centre-left]]
+| ''Legislature dissolved''
+| [[Conservative Party of British Columbia|Conservative]]
+| {{sortname|Wendy|Lisogar-Cocchia}}
+| data-sort-value="2026-10-24"|[[2026 British Columbia general election|2026]]
+| data-sort-value="2030-10-19"|[[45th British Columbia general election|2030]]
+|-
+! scope="row" | Manitoba
+| {{sortname|Wab|Kinew}}
+| {{Canadian party colour|MB|NDP|background}} |
+| [[New Democratic Party of Manitoba|New Democratic]]
+| [[Social democracy]]
+| [[Centre-left politics|Centre-left]]
+| Majority
+| [[Progressive Conservative Party of Manitoba|Progressive Conservative]] 
+| {{sortname|Anita|Neville}}
+| data-sort-value="2023-10-03"|[[2023 Manitoba general election|2023]]
+| data-sort-value="2027-10-05"|[[44th Manitoba general election|2027]]
+|-
+! scope="row" | New Brunswick
+| {{sortname|Susan|Holt}}
+| {{Canadian party colour|NL|Liberal|background}} |
+| [[New Brunswick Liberal Association|Liberal]] 
+| [[Liberalism]] {{nowrap|([[Liberalism in Canada|Canadian]])}}
+| [[Centrism|Centre]] to [[Centre-left politics|centre-left]]
+| Majority 
+| [[Progressive Conservative Party of New Brunswick|Progressive Conservative]] 
+| {{sortname|Louise|Imbeault}}
+| data-sort-value="2024-10-22"|[[2024 New Brunswick general election|2024]]
+| data-sort-value="2028-10-21"|[[42nd New Brunswick general election|2028]]
+|-
+! scope="row" | Newfoundland and Labrador
+| {{sortname|Tony|Wakeham}}
+| {{Canadian party colour|NL|PC|background}} |
+| [[Progressive Conservative Party of Newfoundland and Labrador|Progressive Conservative]] 
+| [[Progressive conservatism]]
+| [[Centre-right politics|Centre-right]]
+| Majority
+| [[Liberal Party of Newfoundland and Labrador|Liberal]]
+| {{sortname|Joan Marie|Aylward}}
+| data-sort-value="2025-10-14"|[[2025 Newfoundland and Labrador general election|2025]]
+| data-sort-value="2029-10-14"|[[53rd Newfoundland and Labrador general election|2029]]
+|-
+! scope="row" | Nova Scotia
+| {{sortname|Tim|Houston}}
+| {{Canadian party colour|NS|PC|background}} |
+| [[Progressive Conservative Association of Nova Scotia|Progressive Conservative]]
+| [[Red Tory]]ism
+| [[Centre-right politics|Centre-right]]
+| Majority
+| [[Nova Scotia New Democratic Party|New Democratic]] 
+| {{sortname|Mike|Savage|dab=politician}}
+| data-sort-value="2024-11-26"|[[2024 Nova Scotia general election|2024]]
+| data-sort-value="2029-12-07"|[[66th Nova Scotia general election|2029]]
+|-
+! scope="row" | Ontario
+| {{sortname|Doug|Ford}}
+| {{Canadian party colour|ON|PC|background}} |
+| [[Progressive Conservative Party of Ontario|Progressive Conservative]]
+| [[Conservatism]] {{nowrap|([[Conservatism in Canada|Canadian]])}}
+| {{nowrap|[[Centre-right politics|Centre-right]]}}
+| Majority
+| [[Ontario New Democratic Party|New Democratic]]
+| {{sortname|Edith|Dumont}}
+| data-sort-value="2025-02-27"|[[2025 Ontario general election|2025]]
+| data-sort-value="2029-06-07"|[[45th Ontario general election|2029]]
+|-
+! scope="row" | Prince Edward Island
+| {{sortname|Rob|Lantz}}
+| {{Canadian party colour|PE|PC|background}} |
+| [[Progressive Conservative Party of Prince Edward Island|Progressive Conservative]]
+| [[Progressive conservatism]]
+| [[Centrism|Centre]] to [[Centre-right politics|centre-right]]
+| Majority
+| [[Prince Edward Island Liberal Party|Liberal]] 
+| {{sortname|Wassim|Salamoun}}
+| data-sort-value="2023-10-02"|[[2023 Prince Edward Island general election|2023]]
+| data-sort-value="2027-10-04"|[[68th Prince Edward Island general election|2027]]
+|-
+! scope="row" | Quebec
+| {{sortname|Paul St-Pierre|Plamondon}}
+| {{Canadian party colour|QC|PQ|background}} |
+| [[Parti Québécois]]
+| [[Quebec nationalism]]
+| [[Centre-left politics|Centre-left]]
+| Minority
+| [[Quebec Liberal Party|Liberal]] 
+| {{sortname|Manon|Jeannotte}}
+| data-sort-value="2026-10-05"|[[2026 Quebec general election|2026]]
+| data-sort-value="2030-10-07"|[[45th Quebec general election|2030]]
+|-
+! scope="row" | Saskatchewan
+| {{sortname|Scott|Moe}}
+| {{Canadian party colour|SK|Saskatchewan|background}} |
+| [[Saskatchewan Party]]
+| [[Conservatism]] {{nowrap|([[Conservatism in Canada|Canadian]])}}
+| [[Centre-right politics|Centre-right]] {{nowrap|to [[Right-wing politics|right-wing]]}}
+| Majority
+| [[Saskatchewan New Democratic Party|New Democratic]] 
+| {{sortname|Bernadette|McIntyre}}
+| data-sort-value="2024-10-28"|[[2024 Saskatchewan general election|2024]]
+| data-sort-value="2028-10-30"|[[31st Saskatchewan general election|2028]]
+|-
+! scope="row" | Northwest Territories
+| {{sortname|R.J.|Simpson}}
+| {{Canadian party colour|NT|Non-partisan|background}} |
+| colspan="4" {{nonpartisan|''[[Consensus government in Canada|Nonpartisan consensus government]]''}}
+| N/A
+| {{sortname|Gerald|Kisoun}}
+| data-sort-value="2023-11-14"|[[2023 Northwest Territories general election|2023]]
+| data-sort-value="2027-10-05"|[[2027 Northwest Territories general election|2027]]
+|-
+! scope="row" | Nunavut
+| {{sortname|John|Main|dab=politician}}
+| {{Canadian party colour|NU|Non-partisan|background}} |
+| colspan="4" {{nonpartisan|''[[Consensus government in Canada|Nonpartisan consensus government]]''}}
+| N/A
+| {{sortname|Eva|Aariak}}
+| data-sort-value="2025-10-27"|[[2025 Nunavut general election|2025]]
+| data-sort-value="2029-10-29"|[[List of Nunavut general elections|2029]]
+|-
+! scope="row" | Yukon
+| {{sortname|Currie|Dixon}}
+| {{Canadian party colour|YT|Yukon|background}} |
+| [[Yukon Party]]
+| [[Conservatism]] {{nowrap|([[Conservatism in Canada|Canadian]])}}
+| [[Centre-right politics|Centre-right]]
+| Majority
+| [[Yukon New Democratic Party|New Democratic]] 
+| {{sortname|Adeline|Webber}}
+| data-sort-value="2025-11-03"|[[2025 Yukon general election|2025]]
+| data-sort-value="2029-11-05"|[[List of Yukon general elections|2029]]
+|}
+[[File:Provincial Parties 2025 Nov.jpg|center|thumb|Provincial party standings at the district level across Canada {{as of|2025|11|lc=y}}]]
+
+==Ceremonial territory==
+The [[Canadian National Vimy Memorial]], near [[Vimy]], Pas-de-Calais, and the [[Beaumont-Hamel Newfoundland Memorial]], near [[Beaumont-Hamel]], both in France, are ceremonially considered Canadian territory.<ref name="Wilson2012">{{cite book |first=John |last=Wilson |title=Failed Hope: The Story of the Lost Peace |url=https://archive.org/details/failedhopestoryo0000wils |url-access=registration |year=2012 |publisher=Dundurn |isbn=978-1-4597-0345-2 |page=[https://archive.org/details/failedhopestoryo0000wils/page/38 38] |access-date=November 22, 2015}}</ref> In 1922, the French government donated the land used for the Vimy Memorial "freely, and for all time, to the Government of Canada the free use of the land exempt from all taxes".<ref>{{cite web |title=Design and Construction of the Vimy Ridge Memorial |publisher=Veteran Affairs Canada |date=August 8, 1998 |url=http://www.vac-acc.gc.ca/remembers/sub.cfm?source=Memorials/ww1mem/Vimy/vmemory#one |access-date=July 20, 2007 |archive-url=https://web.archive.org/web/20090409062438/http://www.vac-acc.gc.ca/remembers/sub.cfm?source=Memorials%2Fww1mem%2FVimy%2Fvmemory#one |archive-date=April 9, 2009}}</ref>
+
+In 1921, the site of the Somme battlefield near Beaumont-Hamel site was purchased by the people of the [[Dominion of Newfoundland]].<ref name="Wilson2012"/> These sites do not enjoy [[extraterritoriality|extraterritorial status]] and are subject to French law.{{cn|date=April 2026}}
+
+==Proposed provinces and territories==
+{{main|List of proposed provinces and territories of Canada}}
+
+Since Confederation in 1867, there have been several proposals for new Canadian provinces and territories. The [[Amendments to the Constitution of Canada|Constitution of Canada requires an amendment]] for the creation of a new province.<ref name="amendment">An amendment to the Constitution of Canada in relation to the following matters may be made only in accordance with subsection 38(1)...notwithstanding any other law or practice, the establishment of new provinces.</ref> The creation of a new territory requires only an [[Act of parliament#Canada|act of Parliament]], a [[Parliamentary procedure|legislatively]] simpler process.<ref name="Nicholson1979">{{cite book |first=Norman L. |last=Nicholson |title=The boundaries of the Canadian Confederation |url=https://books.google.com/books?id=Ek7cloNk3E8C&pg=PA174 |year=1979 |publisher=McGill-Queen's Press – MQUP |isbn=978-0-7705-1742-7 |pages=174–175 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160624010940/https://books.google.com/books?id=Ek7cloNk3E8C&pg=PA174 |archive-date=June 24, 2016 |url-status=live}}</ref>
+
+In late 2004, Prime Minister [[Paul Martin]] surprised some observers by expressing his personal support for all three territories gaining provincial status "eventually". He cited their importance to Canada as a whole and the ongoing need to assert [[Territorial claims in the Arctic|sovereignty in the Arctic]], particularly as [[global warming]] could make that region more open to exploitation, leading to more complex [[Northwest Passage#International waters dispute|international waters disputes]].<ref>{{cite news |date=November 23, 2004 |title=Northern territories 'eventually' to be given provincial status |publisher=CBC News |url=https://www.cbc.ca/news/canada/northern-territories-eventually-to-be-given-provincial-status-1.484399 |url-status=live |access-date=January 27, 2007 |archive-url=https://web.archive.org/web/20070225050248/http://www.cbc.ca/canada/story/2004/11/22/provinces041122.html |archive-date=February 25, 2007}}</ref>
+
+==See also==
+{{portal|border=no|Canada|Ontario}}
+* [[List of Canadian provincial and territorial name etymologies]]
+**[[List of adjectival and demonymic forms of place names#Canadian provinces and territories|Canadian adjectival and demonymic forms of place names]]
+* [[Language policies of Canada's provinces and territories]]
+* [[List of areas disputed by Canada and the United States]]
+* [[List of regions in Canada]]
+*[[List of governments in Canada by annual expenditures]]
+* [[Commonwealth Local Government Forum]]
+* [[Provincial and territorial museums of Canada]]
+* [[List of Canada-related topics by provinces and territories]]
+**[[List of Canadian provinces and territories by gross domestic product]]
+**[[List of Canadian provincial and territorial symbols]]
+**[[List of Canadian provinces by unemployment rate]]
+**[[List of Canadian provinces and territories by Human Development Index]]
+**[[Population of Canada by province and territory]]
+**[[List of Canadian flags]]
+
+==Notes==
+{{notelist}}
+
+== References ==
+{{Reflist
+|refs =
+<ref name="canada1">
+{{cite web |url=http://www.canada.gc.ca/othergov-autregouv/prov-eng.html |title=Provinces and Territories |publisher=Government of Canada |year=2013 |access-date=August 6, 2013 |url-status=dead |archive-url = https://web.archive.org/web/20100209021646/http://www.canada.gc.ca/othergov-autregouv/prov-eng.html |archive-date=February 9, 2010}}
+</ref>
+<ref name="Gough2010">{{cite book |first=Barry M. |last=Gough |title=Historical Dictionary of Canada |url=https://books.google.com/books?id=z4xK6CasigkC&pg=PA141 |year=2010 |publisher=Wilfrid Laurier University |isbn=978-0-8108-7504-3 |pages=141–142 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160529074918/https://books.google.com/books?id=z4xK6CasigkC&pg=PA141 |archive-date=May 29, 2016 |url-status=live}}</ref>
+<ref name="School2013">{{cite book |first1=Michael M. |last1=Atkinson |first2=Gregory P. |last2=Marchildon |first3=Peter W. B. |last3=Phillips |first4=Daniel |last4=Béland |first5=Kenneth A. |last5=Rasmussen |first6=Kathleen |last6=McNutt |title=Governance and Public Policy in Canada: A View from the Provinces |url=https://books.google.com/books?id=rkdktaOtprEC&pg=PA19 |year=2013 |publisher=University of Toronto Press |isbn=978-1-4426-0493-3 |page=19 |access-date=November 22, 2015 |archive-url=https://web.archive.org/web/20160506014545/https://books.google.com/books?id=rkdktaOtprEC&pg=PA19 |archive-date=May 6, 2016 |url-status=live}}</ref>
+}}
+
+==Further reading==
+{{main|Bibliography of Canadian provinces and territories}}
+
+{{refbegin}}
+*{{cite book |first1=Keith |last1=Brownsey |first2=Michael |last2=Howlett |title=The Provincial State in Canada: Politics in the Provinces and Territories |url=https://books.google.com/books?id=j3Ky0-JAAbYC&pg=PP1 |year=2001 |publisher=University of Toronto Press |isbn=978-1-55111-368-5}}
+* {{cite book |first1=Christopher |last1=Moore |author1-link=Christopher Moore (Canadian historian) |first2=Bill |last2=Slavin |first3=Janet |last3=Lunn |title=The Big Book of Canada: Exploring the Provinces and Territories |url=https://books.google.com/books?id=0Dmi_sb_ufgC&pg=PA1 |year=2002 |publisher=Random House Digital, Inc |isbn=978-0-88776-457-8}}
+* {{cite book |first1=A. Paul |last1=Pross |first2=Catherine A. |last2=Pross |title=Government Publishing in the Canadian Provinces: a Prescriptive Study |location=Toronto, Ont. |publisher=University of Toronto Press |year=1972 |isbn=0-8020-1827-0 |url=https://archive.org/details/governmentpublis0000pros}}
+*{{cite book |first=Stephen |last=Tomblin |title=Ottawa and the Outer Provinces: The Challenge of Regional Integration in Canada |url=https://books.google.com/books?id=mUnFSlFnGZUC&pg=PR1 |year=1995 |publisher=James Lorimer & Company |isbn=978-1-55028-476-8}}
+{{refend}}
+
+==External links==
+{{sister project links|c=category:Provinces and territories of Canada|voy=Canada|n=Portal:Canada|s=Portal:Canada|d=Q2879|v=no|m=no|mw=no|wikt=no|q=no|b=no}}
+*{{Deprecated archive|url=https://archive.today/20130806101230/http://www.servicecanada.gc.ca/eng/common/provterr.shtml|title=Provincial and territorial government web sites|sec=el}} – Service Canada (archived August 6, 2013)
+*[https://www.parl.gc.ca/parlinfo/compilations/provinceterritory/Provincialterritoriallegislatures.aspx Provincial and territorial legislature web sites] – Parliament of Canada
+*[https://web.archive.org/web/20140227162009/http://www.pco-bcp.gc.ca/aia/index.asp?lang=eng&page=provterr&sub=difference&doc=difference-eng.htm Difference between provinces and territories] – Intergovernmental Affairs (archived February 27, 2014)
+* [http://www.statcan.gc.ca/eng/reference/province-eng Provincial and territorial statistics] {{Webarchive|url=https://web.archive.org/web/20160425233852/http://www.statcan.gc.ca/eng/reference/province-eng |date=April 25, 2016 }} – Statistics Canada
+*[https://web.archive.org/web/20171122105414/http://www.cic.gc.ca/english/newcomers/pt/ Provincial and territorial immigration information] – Citizenship and Immigration Canada (archived November 22, 2017)
+* [http://etatscanadiens-canadiangovernments.enap.ca/en/nav.aspx?sortcode=2.0.0 Canadian governments compared] – University of Public Administration
+
+{{Provinces and territories of Canada}}
+{{Politics of Canadian provinces}}
+{{Articles on first-level administrative divisions of North American countries}}
+{{Authority control}}
+
+[[Category:Provinces and territories of Canada| ]]
+[[Category:Subdivisions of Canada| ]]
+[[Category:Lists of provinces and territories of Canada| ]]
+[[Category:Administrative divisions in North America|Canada 1]]
+[[Category:First-level administrative divisions by country|Provinces, Canada]]

@@ -1,0 +1,930 @@
+{{Short description|Indigenous people in Canada who are not Inuit or Métis}}
+{{Redirect|Canadian Indian|Canadians with heritage from the Republic of [[India]]|Indian Canadians|Indians of Canadian descent|Canadians in India}}
+{{Use dmy dates |date=February 2024}}
+{{Use Canadian English |date=February 2024}}
+{{Infobox ethnic group
+| group            = First Nations<br />{{lang|fr|Premières Nations}}
+| image            = File:Distribution_of_First_Nations_Canadians_(2021).svg
+| image_caption          =
+<div style="text-align: left">Percentage of population identifying as First Nations by Canadian census division, 2021 census
+{{Infobox/Columns|{{legend|#FFF7FB|0-1.9%}}{{legend|#ECE7F2|2–4.9%}}{{legend|#D0D1E6|5–9.9%}}{{legend|#A6BDDB|10-19%}}|{{legend|#74A9CF|20-29%}}{{legend|#3690C0|30–49%}}{{legend|#045A8D|50–69%}}{{legend|#023858|70-90%}}}}</div>
+| population       = '''1,127,010'''<ref name=INSTAT>{{Cite book |title=ISC/CIRNAC's 2021 Census Core Table 1. Prepared by Strategic Research and Statistics Directorate |publisher=INSTAT. Record ID: ENQ-021722}}</ref><ref name=CIRNAC>{{Cite web |title=CIRNAC - First Nations|url=https://www.rcaanc-cirnac.gc.ca/eng/1100100013791/1535470872302|website=www.rcaanc-cirnac.gc.ca}}</ref> ([[2021 Canadian census|2021]]) 
+<br />'''{{Percentage|1127010|36991981|2}}''' of the total Canadian population
+| languages        = {{plainlist|
+* [[Languages of Canada#Indigenous languages|Indigenous languages]]
+* [[Aboriginal English in Canada|Indigenous English (FNE)]]
+* [[Canadian French]]
+}}
+| religions       = {{plainlist|
+* [[Christianity in Canada|Christianity]]
+* [[Native American religion|Traditional beliefs]]
+* Others (see [[Religion in Canada]])
+}}
+| related_groups          = [[Native Americans in the United States|Native Americans]], [[Alaska Natives]], [[Métis in Canada|Métis]]
+}}
+
+'''First Nations''' ({{langx|fr|Premières Nations}}) is a term used to identify [[Indigenous peoples in Canada]] who are neither [[Inuit]] nor [[Métis]].<ref>{{Cite web|url=https://www.rcaanc-cirnac.gc.ca/eng/1307460755710/1536862806124|title=First Nations in Canada|publisher=Government of Canada; Crown-Indigenous Relations and Northern Affairs Canada|date=June 7, 2011|website=www.rcaanc-cirnac.gc.ca}}</ref><ref>{{cite web |url=https://www.rcaanc-cirnac.gc.ca/eng/1100100013785/1529102490303 |title=Indigenous peoples and communities |publisher=Government of Canada |date=2021-06-11 |access-date=25 September 2021 |url-status=live |archive-url=https://web.archive.org/web/20210925171702/https://www.rcaanc-cirnac.gc.ca/eng/1100100013785/1529102490303 |archive-date=25 September 2021 |website=[[Crown-Indigenous Relations and Northern Affairs Canada]] |language=en |quote=The Canadian Constitution recognizes three groups of Aboriginal peoples: Indians (more commonly referred to as First Nations), Inuit and Métis. These are three distinct peoples with unique histories, languages, cultural practices and spiritual beliefs. }}</ref> Traditionally, First Nations in Canada were peoples who lived south of the [[tree line]], and mainly south of the [[Arctic Circle]]. There are 634 recognized [[List of First Nations band governments|First Nations governments or bands]] across Canada.<ref>{{cite web |url=http://www.afn.ca/description-of-the-afn |title=Description of the AFN |publisher=Assembly of First Nations |access-date=November 25, 2017 |archive-date=June 12, 2021 |archive-url=https://web.archive.org/web/20210612194615/https://www.afn.ca/description-of-the-afn/ |url-status=dead }}</ref> Roughly half are located in the provinces of [[Ontario]] and [[British Columbia]].<ref name="one">{{cite web|url=http://www.afn.ca/article.asp?id=59 |title=Assembly of First Nations – The Story |publisher=The Assembly of First Nations |access-date=October 6, 2009  |archive-url=https://web.archive.org/web/20090802164225/http://www.afn.ca/article.asp?id=59 |archive-date=August 2, 2009 }}</ref>
+
+Under [[Employment equity (Canada)|federal employment equity law]], First Nations are a "designated group", along with women, [[Visible minority|visible minorities]], and people with physical or mental disabilities.<ref>{{cite web |url=https://www.chrc-ccdp.gc.ca/individuals/employment-equity |title=Canadian Human Rights Commission:Employment Equity |publisher=[[Canadian Human Rights Commission]] |access-date=November 11, 2025 }}</ref> First Nations are not included in the [[Statistics Canada]] visible minority category, as there is a separate category for First Nations, Metis and Inuit.<ref>{{cite web |url=https://www12.statcan.gc.ca/census-recensement/2016/ref/dict/pop127-eng.cfm |title=Visible minority |work=Dictionary, Census of Population, 2016 |publisher=Statistics Canada |date=October 25, 2017}}</ref>
+
+North American Indigenous peoples have cultures spanning thousands of years. Many of their [[oral tradition]]s accurately describe historical events, such as the [[1700 Cascadia earthquake|Cascadia earthquake of 1700]] and the 18th-century [[Tseax Cone]] eruption. Written records began with the arrival of [[Exploration of North America|European explorers]] and [[European colonization of the Americas|colonists]] during the [[Age of Discovery]] in the late 15th century.<ref name="Woodcock">{{cite book|last=Woodcock|first=George|author-link=George Woodcock|title=A Social History of Canada|url=https://books.google.com/books?id=jJtdu4rlj4oC&pg=PP1|year=1989|publisher=Penguin|isbn=978-0-14-010536-0}}</ref><ref name="wolf">{{cite book|last=Wolf|first=Eric R.|author-link=Eric Wolf|title=Europe and the People Without History|url=https://books.google.com/books?id=eJWjES159ocC&pg=PP1|year=1982|publisher=University of California Press|isbn=978-0-520-04898-0}}</ref> [[History of Canada|European accounts]] by [[Animal trapping|trappers]], [[Merchant|traders]], [[Exploration|explorers]], and [[Missionary|missionaries]] give important evidence of early contact culture.<ref>{{cite web |title=Introduction |website=Codex canadiensis |publisher=[[Library and Archives Canada]] |date=August 1, 2006 |url=http://www.collectionscanada.gc.ca/codex/index-e.html |archive-url=https://wayback.archive-it.org/all/20130529193125/http://www.collectionscanada.gc.ca/codex/index-e.html  |archive-date=May 29, 2013 |access-date=October 7, 2009}}
+</ref> In addition, [[archeological]] and [[anthropological]] research, as well as [[linguistics]], have helped scholars piece together an understanding of ancient cultures and historic peoples.
+
+==Terminology==
+{{See also|Section 35 of the Constitution Act, 1982}}
+Collectively, First Nations (Indians),<ref name="one"/> Inuit,<ref name="ICCcharter">{{cite web |title=ICC Charter |work=ICC International |date=3 January 2019 |publisher=Inuit Circumpolar Council Canada |url=https://www.inuitcircumpolar.com/icc-international/icc-charter/ |access-date=December 21, 2019}}</ref> and Métis<ref>{{cite web |title=Métis Nation Citizenship |url=https://www.metisnation.ca/index.php/who-are-the-metis/citizenship |website=MétisNation.ca |access-date=December 21, 2019 |archive-date=21 December 2019 |archive-url=https://web.archive.org/web/20191221190348/https://www.metisnation.ca/index.php/who-are-the-metis/citizenship |url-status=dead }}</ref> peoples constitute [[Indigenous peoples in Canada]], [[Indigenous peoples of the Americas]], or "[[first peoples]]".<ref>{{cite web |title=First Peoples |website=The Canadian Atlas Online |url=http://www.canadiangeographic.ca/atlas/themes.aspx?id=first&lang=En |publisher=[[Canadian Geographic]] |access-date=October 9, 2009 |archive-date=October 8, 2015 |archive-url=https://web.archive.org/web/20151008025709/http://www.canadiangeographic.ca/atlas/themes.aspx?id=first&lang=En |url-status=dead }}</ref> ''First Nation'' as a term became officially used by the government beginning in 1980s to replace the term ''Indian band'' in referring to groups of Indians with common government and language.<ref name="Institute2014">{{cite book|last=Longboat|first=Dianne|editor=Jean Barman, Yvonne Héubert & Don McCaskill|title=Indian Education in Canada, Volume 2: The Challenge|chapter-url=https://books.google.com/books?id=PdqJAAAAQBAJ&pg=PA41|year=1987|publisher=UBC Press|isbn=978-0-7748-4524-3|pages=41, Note 2|chapter=First Nation Control of Education: The Path to our Survival as Nations}}</ref><ref name="gibson5">{{cite book|last=Gibson|first=Gordon|title=A New Look at Canadian Indian Policy: Respect the Collective, Promote the Individual|url=https://books.google.com/books?id=oWkWXRcqCM4C&pg=PA21|year=2009|publisher=The Fraser Institute|isbn=978-0-88975-243-6|pages=21–22}}</ref> The First Nations people had begun to identify by this term during 1970s activism, in order to avoid using the word ''Indian'', which some considered offensive.<ref name="Terminology Guide">{{cite web |title=Terminology Guide: Research on Aboriginal Heritage |publisher=Library and Archives Canada |page=11 |date=2015 |url=https://www.bac-lac.gc.ca/eng/discover/aboriginal-heritage/Documents/Terminology%20Guide%20%20Aboriginal%20Heritage.pdf}}</ref><ref>{{citation |title=Terminology |website=IndigenousFoundations.Arts.UBC.ca |url=https://indigenousfoundations.arts.ubc.ca/terminology/ |access-date=2019-12-21}}</ref><ref>{{cite web |last1=Ross |first1=Sheila M. |title=Words First: An Evolving Terminology Relating to Aboriginal Peoples in Canada |website=TERMIUM Plus |publisher=[[Public Works and Government Services Canada]] |date=2015-10-15|url=https://www.btb.termiumplus.gc.ca/tpv2guides/guides/favart/index-eng.html?lang=eng&lettr=indx_autr8O0AtFJSwmcY&page=96ZhAVsLVncU.html}}</ref> No legal definition of the term exists.<ref name="Terminology Guide"/>
+
+Some Indigenous peoples in Canada have also adopted the term ''First Nation'' to replace the word ''band'' in the formal name of their community.<ref>{{cite web |url=http://www.aadnc-aandc.gc.ca/eng/1100100014642 |title=Terminology |archive-url=https://web.archive.org/web/20120813194248/http://www.aadnc-aandc.gc.ca/eng/1100100014642 |archive-date=August 13, 2012 |publisher=Indigenous Affairs and Northern Development Canada |access-date=April 12, 2012}}</ref> A band is a "body of Indians (a) for whose use and benefit in common lands ... have been set apart, (b) ... moneys are held ... or (c) declared ... to be a band for the purposes of", according to the ''[[Indian Act]]'' by the [[Canadian Crown]].<ref>{{Cite canlaw|short title=Indian Act|abbr=R.S.C.|year=1985|chapter=I-5|section=2|subsection=1|link=https://laws-lois.justice.gc.ca/eng/acts/i-5/page-1.html}}</ref>
+
+The term ''Indian'' is a misnomer, given to Indigenous peoples of North America by European explorers who erroneously thought they had landed in the [[East Indies]]. The use of term like [[Native Americans in the United States|''Native Americans'']] or American Indians, which the government and others have adopted in the United States, is not common in Canada. It refers more specifically to the Indigenous peoples residing within the boundaries of the US.<ref>{{cite web|last=Hill |first=Liz |url=http://www.americanindian.si.edu/subpage.cfm?subpage=shop&second=books&third=DoAllIndiansLiveInTipis |title=National Museum of the American Indian |publisher=Smithsonian Institution |year=2007 |access-date=October 9, 2009  |archive-url=https://web.archive.org/web/20090703022007/http://americanindian.si.edu/subpage.cfm?subpage=shop&second=books&third=DoAllIndiansLiveInTipis |archive-date=July 3, 2009}}</ref> The parallel term ''Native Canadian'' is not commonly used, but ''Native'' (in English) and {{lang|fr|Autochtone}} (in [[Canadian French]]; from the Greek {{lang|grc-Latn|auto}}, own, and {{lang|grc-Latn|chthon}}, land) are. Under the [[Royal Proclamation of 1763]],<ref>{{cite wikisource |title=Royal Proclamation of 1763 |wslink=Royal Proclamation of 1763}}</ref> also known as the "Indian ''[[Magna Carta]],''"<ref>{{cite web|last=Wilson|first=W.R.|url=http://www.uppercanadahistory.ca/pp/ppa.html|title=The Royal Proclamation of 1763|year=2004|access-date=October 9, 2009}}</ref> [[the Crown]] referred to [[Indigenous peoples]] in [[British North America|British territory]] as tribes or nations. The term ''First Nations'' is capitalized. Bands and [[nation]]s may have slightly different meanings.
+
+Within Canada, the term ''First Nations'' has come into general use for Indigenous peoples other than [[Inuit]] and [[Métis]]. Outside Canada, the term can refer to [[Indigenous Australians]], [[Tribe (Native American)|U.S. tribes]] within the [[Pacific Northwest]], as well as supporters of the [[Cascadia (independence movement)|Cascadian independence movement]]. The singular, commonly used on culturally politicized [[Indian reserve|reserves]]{{Citation needed|date=November 2022}}, is the term ''First Nations person'' {{Citation needed|date=November 2022}} (when gender-specific, ''First Nations man'' or ''First Nations woman''). Since the late 20th century, members of various nations more frequently identify by their [[Indian tribe|tribal]] or [[Nationality|national]] identity only, e.g., "I'm [[Haida people|Haida]]", or "We're [[Kwantlen First Nation|Kwantlens]]", in recognition of the distinct First Nations.<ref>{{cite book|last=Mandel|first=Michael|title=The Charter of Rights & the Legalization of Politics in Canada|url=https://books.google.com/books?id=0x-FQgAACAAJ&pg=PA354|year=1994|publisher=Thompson Educational|isbn=978-1-55077-050-6|pages=354–356}}</ref>
+
+==History==
+{{For|pre-history|Indigenous peoples in Canada#Paleo-Indian period}}
+
+===Nationhood===
+:''First Nations by linguistic-cultural area: [[List of First Nations peoples]]''
+First Nations peoples had settled and established trade routes across what is now Canada by 500 BCE – 1,000 CE. Communities developed, each with its own culture, customs, and character.<ref name="Joe">{{cite book|last1=Joe|first1=Rita|last2=Choyce|first2=Lesley|title=The Native Canadian Anthology|year= 2005|publisher=Nimbus Publishing (CN)|isbn= 1-895900-04-2}}</ref> In the northwest were the [[Athabaskan languages|Athapaskan-speaking]] peoples, [[Slavey language|Slavey]], [[Tłı̨chǫ]], [[Tutchone language|Tutchone-speaking]] peoples, and [[Tlingit]]. Along the Pacific coast were the Haida, [[Tsimshian]], Salish, [[Kwakwakaʼwakw]], [[Nuu-chah-nulth]], [[Nisgaʼa]] and [[Gitxsan]]. On the prairies were the Blackfoot, [[Kainai Nation|Kainai]], [[Tsuutʼina Nation|Tsuutʼina]] and [[Piikani]]. In the northern woodlands were the [[Cree]] and [[Chipewyan]]. Around the Great Lakes were the [[Anishinaabe]], [[Algonquin people|Algonquin]], [[Iroquois]] and [[Wyandot people|Wyandot]]. Along the Atlantic coast were the [[Beothuk]], [[Wolastoqiyik]], [[Innu]], [[Abenaki]] and [[Miꞌkmaq]].
+
+The [[Blackfoot Confederacy]] resides in the [[Great Plains]] of [[Montana]] and [[Provinces and territories of Canada|Canadian provinces]] of [[Alberta]], [[British Columbia]] and [[Saskatchewan]].<ref name="gibson5"/>{{rp|5}} The name ''Blackfoot'' came from the dye or paint on the bottoms of their leather [[moccasin]]s. One account claimed that the Blackfoot Confederacies walked through the ashes of prairie fires, which in turn blackened the bottoms of their moccasins.<ref name="gibson5"/>{{rp|5}} They had migrated onto the Great Plains (where they followed bison herds and cultivated berries and edible roots) from the area of now eastern Canada and the northeastern United States. Historically, they allowed only legitimate traders into their territory, making treaties only when the bison herds were exterminated in the 1870s.{{Citation needed|date=November 2022}}
+[[File:Mrs. Joe Capilano.jpg|thumb|left|upright|[[Squamish people|Squamish]] woman]]
+Pre-contact [[Squamish history]] is passed on through [[oral tradition]] of the [[Squamish people|Squamish]] [[Indigenous peoples of the Pacific Northwest Coast]]. Prior to colonization and the introduction of writing had only oral tradition as a way to transmit stories, law, and knowledge across generations.<ref name="Khatsahlano 1966. p16">{{Cite book
+ | last1 = Khatsahlano
+ | first1 = August Jack
+ | last2=Charlie|first2=Dominic
+ | title = Squamish Legends: The First People
+ | publisher = Oliver N. Wells
+ | date = June 1966
+ | url=https://books.google.com/books?id=IT3YAAAAMAAJ&pg=PA16
+ | page = 16}}
+</ref> The writing system established in the 1970s uses the [[Latin alphabet]] as a base. Knowledgeable elders have the responsibility to pass historical knowledge to the next generation. People lived and prospered for thousands of years until the [[Deluge myth|Great Flood]]. In another story, after the Flood, they repopulated from the villages of [[Schenks and Chekwelp]],<ref>{{Cite book
+ | last = Clark
+ | first = Ella E
+ | title = Indian Legends of the Pacific Northwest
+ | publisher = University of California Press
+ | year = 2003
+ | pages = INSERT p.19
+ | isbn =0-520-23926-1 |url=https://books.google.com/books?id=Z8-3KVL03UYC&pg=PA19}}
+</ref> located at [[Gibsons, British Columbia|Gibsons]]. When the water lines receded, the first Squamish came to be. The first man, named Tseḵánchten, built his [[Longhouses of the Indigenous peoples of North America|longhouse]] in the village, and later on another man named Xelálten, appeared on his longhouse roof and sent by the Creator, or in the [[Squamish language]] {{lang|squ|keke7nex siyam}}. He called this man his brother. It was from these two men that the population began to rise and the Squamish spread back through their territory.<ref name="Khatsahlano 1966. p16"/>{{rp|20}}
+[[File:Theiroquoislonghouse.png|thumb|upright|A traditional Iroquois [[longhouse]].]]
+The Iroquois influence extended from northern New York into what are now southern Ontario and the Montreal area of modern Quebec.<ref>{{cite encyclopedia|last=Ramsden |first=Peter G.|url=https://thecanadianencyclopedia.ca/en/article/iroquois|title=Haudenosaunee (Iroquois)|publisher=[[Historica Canada]]|encyclopedia=[[The Canadian Encyclopedia]] |edition=online |date=October 16, 2018}}</ref> The Iroquois Confederacy is, from oral tradition, formed circa 1142.<ref>{{cite magazine
+ | last =Johanson
+ | first = Bruce E
+ | title = Dating the Iroquois Confederacy
+ | magazine= Akwesasne Notes |series=New Series |date=Fall 1995 |volume=1, 3 & 4 |pages=62–63
+ | url = http://www.ratical.org/many_worlds/6Nations/DatingIC.html
+ | access-date=October 9, 2009
+}}</ref> Adept at cultivating the [[Three Sisters (agriculture)|Three Sisters]] ([[maize]]/[[bean]]s/[[Squash (plant)|squash]]), the Iroquois became powerful because of their confederacy. Gradually the Algonquians adopted agricultural practises enabling larger populations to be sustained.
+
+The [[Assiniboine people|Assiniboine]] were close allies and trading partners of the Cree, engaging in wars against the [[Gros Ventres]] alongside them, and later fighting the Blackfoot.<ref name="Assini" /> A Plains people, they went no further north than the [[North Saskatchewan River]] and purchased a great deal of European trade goods through Cree middlemen from the [[Hudson's Bay Company]]. The lifestyle of this group was semi-nomadic, and they followed the herds of [[Plains bison|bison]] during the warmer months. They traded with European traders, and worked with the [[Mandan]], [[Hidatsa]], and [[Arikara]] tribes.<ref name="Assini">{{Cite book
+ | last = Denig
+ | first = Edwin Thompson
+ | editor= J.N.B. Hewitt
+ | title = The Assiniboine
+ | publisher   =University of Oklahoma Press
+ | year = 2000
+ | isbn =978-0-8061-3235-8 |url=https://books.google.com/books?id=G9VvgKUDbRcC&pg=PP1}}
+</ref>
+
+In the earliest [[oral tradition|oral history]], the Algonquins were from the [[Atlantic Ocean|Atlantic]] coast. Together with other Anicinàpek,{{Clarify|date=November 2026}} they arrived at the "First Stopping Place" near Montreal.<ref name="Algonquins">{{Cite book
+ | last = Bright
+ | first = William
+ | title = Native American Place Names of the United States
+ | publisher = University of Oklahoma Press
+ | year = 2004 |isbn=978-0-8061-3598-4
+ | page = 32 |url=https://books.google.com/books?id=5XfxzCm1qa4C&pg=PA32
+ }}
+</ref> While the other Anicinàpe peoples continued their journey up the [[St. Lawrence River]], the Algonquins settled along the [[Ottawa River]] ({{lang|alq|Kitcisìpi}}), an important highway for commerce, cultural exchange, and transportation. A distinct Algonquin identity, though, was not realized until after the dividing of the Anicinàpek at the "Third Stopping Place", estimated at 2,000 years ago near present-day [[Detroit]].<ref name="Algonquins" />
+[[File:Eastman Johnson - Ojibwe Wigwam at Grand Portage - ebj - fig 22 pg 41.jpg|thumb|left|upright|Detail of the painting ''Ojibwe Wigwam at Grand Portage'' by [[Eastman Johnson]] ]]
+According to their tradition, and from recordings in [[birch bark]] [[scroll]]s ({{lang|oj|[[wiigwaasabak]]}}), Ojibwe (an Algonquian-speaking people) came from the eastern areas of North America, or [[Turtle Island (North America)|Turtle Island]], and from along the east coast.<ref name="Ojibwe">{{Cite book
+ | last = Johnston
+ | first = Basil
+ | title = Ojibway Heritage
+ | publisher = McClelland and Stewart
+ | year = 1976
+ | location = Toronto | isbn = 978-1-55199-590-8
+ | url=https://books.google.com/books?id=Kqbu8yjqYx0C&pg=PP1
+}}
+</ref> They traded widely across the continent for thousands of years and knew of the canoe routes west and a land route to the west coast. According to the oral history, seven great {{lang|oj|miigis}} (radiant/iridescent) beings appeared to the peoples in the {{lang|oj|Waabanakiing}} to teach the peoples of the [[midewiwin|{{lang|oj|cat=no|mide}} way]] of life. One of the seven great {{lang|oj|miigis}} beings was too spiritually powerful and killed the peoples in the {{lang|oj|Waabanakiing}} when the people were in its presence. The six great {{lang|oj|miigis}} beings remained to teach while the one returned into the ocean. The six great {{lang|oj|miigis}} beings then established {{lang|oj|cat=no|[[Anishinaabe clan system|doodem]]}} (clans) for the peoples in the east. Of these {{lang|oj|doodem}}, the five original Anishinaabe {{lang|oj|doodem}} were the {{lang|oj|Wawaazisii}} ([[Brown bullhead|Bullhead]]), {{lang|oj|Baswenaazhi}} (Echo-maker, i.e., [[Crane (bird)|Crane]]), {{lang|oj|Aan'aawenh}} ([[Northern pintail|Pintail Duck]]), {{lang|oj|Nooke}} (Tender, i.e., [[Bear]]) and {{lang|oj|Moozoonsii}} (Little [[Moose]]), then these six {{lang|oj|miigis}} beings returned into the ocean as well. If the seventh {{lang|oj|miigis}} being stayed, it would have established the [[Thunderbird (mythology)|Thunderbird]] {{lang|oj|doodem}}.<ref name="Ojibwe" />
+
+[[File:Nuu-chah-nulth children in Friendly Cove.jpg|thumb|Three [[Nuu-chah-nulth]] (Nootka) children at [[Friendly Cove]], British Columbia, in the 1930s]]
+
+The [[Nuu-chah-nulth]] are one of the Indigenous peoples of the [[Pacific Northwest|Pacific Northwest Coast]]. The term ''Nuu-chah-nulth'' is used to describe fifteen separate but related First Nations, such as the [[Tla-o-qui-aht First Nations]], [[Ehattesaht First Nation]] and [[Hesquiaht First Nation]] whose traditional home is on the west coast of [[Vancouver Island]].<ref>{{cite book|last=McMillan|first=Alan D.|title=Since the Time of the Transformers: The Ancient Heritage of the Nuu-chah-nulth, Ditidaht, and Makah|url=https://books.google.com/books?id=FoxeHCjALygC&pg=PP1|year=1999|publisher=UBC Press|isbn=978-0-7748-4237-2}}</ref> In pre-contact and early post-contact times, the number of nations was much greater, but [[smallpox]] and other consequences of contact resulted in the disappearance of groups, and the absorption of others into neighbouring groups. The Nuu-chah-nulth are relations of the [[Kwakwaka'wakw]], the [[Haisla people|Haisla]], and the [[Ditidaht First Nation|Ditidaht]]. The [[Nuu-chah-nulth language]] is part of the [[Wakashan languages|Wakashan language]] group.<ref>{{cite book|last=Jacobson|first=William H. Jr|editor1=Lyle Campbell |editor-link1=Lyle Campbell |editor2=Marianne Mithun|title=The Languages of Native America: Historical and Comparative Assessment|chapter-url=https://books.google.com/books?id=maGDBAAAQBAJ&pg=PP1|year=1999|publisher=University of Texas Press|isbn=978-0-292-76850-5|chapter=Hokan Inter-Branch Comparisons}}</ref>
+
+In 1999 the discovery of the body of [[Kwäday Dän Tsʼìnchi]] provided archaeologists with significant information on Indigenous tribal life prior to extensive European contact. Kwäday Dän Tsʼìnchi (meaning "Long Ago Person Found" in [[Southern Tutchone]]), or "Canadian Ice Man", is a naturally [[mummified]] body that a group of hunters found in [[Tatshenshini-Alsek Provincial Park]] in British Columbia. [[Radiocarbon dating]] of artifacts found with the body placed the age of the find between 1450 and 1700&nbsp;AD.<ref name="background">{{cite web|title=Kwaday Dän Ts'inchi Project Introduction – Archaeology – Ministry of Tourism, Culture and the Arts |url=http://www.tsa.gov.bc.ca/archaeology/kwaday_d%C3%A4n_ts%E2%80%99inchi/project_introduction.htm |publisher=Government of British Columbia Tourism, Culture and the Arts Archaeology |date=July 22, 2008 |access-date=October 7, 2009  |archive-url=https://web.archive.org/web/20080612044728/http://www.tsa.gov.bc.ca/archaeology/kwaday_d%C3%A4n_ts%E2%80%99inchi/project_introduction.htm |archive-date=June 12, 2008 }}</ref><ref name="relatives">{{cite news |title=Scientists find 17 living relatives of 'iceman' discovered in B.C. glacier |url=http://www.lincolnheritage.org/scientists-find-17-living-relatives-of-iceman-discovered-in-b-c-glacier/ |archive-url=https://archive.today/20150202080835/http://www.lincolnheritage.org/scientists-find-17-living-relatives-of-iceman-discovered-in-b-c-glacier/  |archive-date=February 2, 2015 |date=April 25, 2008 |publisher=[[CBC News]] |access-date=October 7, 2009 }}</ref> [[Genetic testing]] showed that he was a member of the [[Champagne and Aishihik First Nations]].<ref name="background"/><ref name="relatives" /><ref name="photos">{{cite web|title=Kwaday Dän Ts'inchi Project Photos Archaeology Ministry of Tourism, Culture and the Arts |url=http://www.tsa.gov.bc.ca/archaeology/kwaday_d%C3%A4n_ts%E2%80%99inchi/pages/7.9.3_index.htm |publisher=Government of British Columbia Tourism, Culture and the Arts Archaeology |date=July 22, 2008 |access-date=October 7, 2009  |archive-url=https://web.archive.org/web/20080501070334/http://www.tsa.gov.bc.ca/archaeology/kwaday_d%C3%A4n_ts%E2%80%99inchi/pages/7.9.3_index.htm |archive-date=May 1, 2008 }}</ref>
+
+===European contact===
+{{See also|Hudson's Bay Company|North American fur trade}}
+[[File:Langs N.Amer.png|upright=1.5|thumb|alt="Colour-coded map of North America showing the distribution of North American language families north of Mexico"|[[Indigenous languages of the Americas|Linguistic areas of North American Indigenous peoples]] at the time of European contact.]]
+Aboriginal people in Canada interacted with Europeans as far back as 1000 AD,<ref name="Woodcock"/>{{rp|Part 1}} but prolonged contact came only after Europeans established permanent settlements in the 17th and 18th centuries. European written accounts noted friendliness on the part of the First Nations,<ref name="Woodcock" />{{rp|Part 1}} who profited in trade with Europeans. Such trade strengthened the more organized political entities such as the Iroquois Confederation.<ref name="wolf"/>{{rp|Ch 6}} The [[Population history of the Indigenous peoples of the Americas|Aboriginal population]] is estimated to have been between 200,000<ref>{{Cite book|last1=Wilson|first1=Donna M|last2=Northcott|first2=Herbert C.|title=Dying and Death in Canada|publisher=University of Toronto Press|location=Toronto|year=2008|page=25|isbn=978-1-55111-873-4}}</ref> and two million in the late 15th century.<ref>{{Cite book|last=Thornton|first=Russell|title=A Population History of North America|editor=Michael R. Haines |editor2=Richard Hall Steckel|publisher=Cambridge University Press|location=Cambridge|year=2000|page=13|chapter=Population history of Native North Americans|isbn=0-521-49666-7}}</ref> The effect of European colonization was a 40 to 80 percent Aboriginal population decrease post-contact. This is attributed to various factors, including repeated outbreaks of European [[infectious disease]]s such as [[influenza]], [[measles]] and [[smallpox]] (to which they had not developed immunity), inter-nation conflicts over the fur trade, conflicts with colonial authorities and settlers and loss of land and a subsequent loss of nation self-suffiency.<ref name="dying">{{Cite book|author1=Wilson|author2=Northcott|title=Dying and Death in Canada|year=2008|pages=25–27}}</ref> For example, during the late 1630s, smallpox killed more than half of the [[Wyandot people|Huron]], who controlled most of the early [[fur trade]] in what became Canada. Reduced to fewer than 10,000 people, the Huron Wendat were attacked by the Iroquois, their traditional enemies.<ref>{{Cite book|last=Robertson|first=Ronald G|title=Rotting Face: Smallpox and the American Indian|publisher=Caxton Press|location=Caldwell, Idaho|year=2001|isbn=0-87004-419-2|pages=[https://archive.org/details/rottingfacesmall0000robe/page/107 107–108]|url=https://archive.org/details/rottingfacesmall0000robe/page/107}}</ref> In the Maritimes, the Beothuk disappeared entirely.{{Citation needed|date=June 2026}}
+
+There are reports of contact made before [[Christopher Columbus]] between the first peoples and those from other continents.
+Even in Columbus' time there was much speculation that other Europeans had made the trip in ancient or contemporary times; [[Gonzalo Fernández de Oviedo y Valdés]] records accounts of these in his ''General y natural historia de las Indias'' of 1526, which includes biographical information on Columbus.<ref name="Madrid">{{Cite book
+ | last = de Amezúa
+ | first = Agustín G.
+ | title   =Introduction to the facsimile reprint of ''Libro de Claribalte''
+| publisher = Spanish Royal Academy
+ | year = 1956
+ | location = Madrid
+}}
+</ref> Aboriginal first contact period is not well defined. The earliest accounts of contact occurred in the late 10th century, between the Beothuk and [[Norsemen]].<ref name=Middleton/> According to the [[Sagas of Icelanders]], the first European to see what is now Canada was [[Bjarni Herjólfsson]], who was blown off course en route from [[Iceland]] to [[Greenland]] in the summer of 985 or 986 CE.<ref name=Middleton>{{Cite book
+|title=The Norse Discovery of America
+|first=Arthur Middleton
+|last=Reeves
+|author-link=Arthur Middleton Reeves
+|url=https://books.google.com/books?id=HkoPUdPM3V8C&pg=PA7
+|publisher=BiblioLife
+|format=Digitized online by Google books
+|page=191
+|year=2009
+|access-date=April 15, 2010
+|isbn=978-0-559-05400-6}}</ref> The first European explorers and settlers of what is now Canada relied on the First Nations peoples, for resources and trade to sustain a living. The first written accounts of interaction show a predominantly [[Old World]] bias, labelling the Indigenous peoples as "savages", although the Indigenous peoples were organized and self-sufficient. In the early days of contact, the First Nations and Inuit populations welcomed the Europeans, assisting them in living off the land and joining forces with the French and British in their various battles. It was not until the colonial and imperial forces of Britain and France established dominant settlements and, no longer needing the help of the First Nations people, began to break treaties and force them off the land that the antagonism between the two groups grew.{{Citation needed|date=June 2026}}
+
+===16th–18th centuries===
+{{See also|European colonization of the Americas}}
+
+The [[List of Portuguese monarchs|Portuguese Crown]] claimed that it had territorial rights in the area visited by Cabot. In 1493 [[Pope Alexander VI]] – assuming international jurisdiction – had divided lands discovered in America between Spain and Portugal. The next year, in the [[Treaty of Tordesillas]], these two kingdoms decided to draw the dividing line running north–south, 370 [[League (unit)|leagues]] (from {{convert|1500|to|2200|km|abbr=on}} approximately depending on the league used) west of the [[Cape Verde]] Islands. Land to the west would be Spanish, to the east Portuguese. Given the uncertain geography of the day, this seemed to give the "new founde isle" to Portugal. On the 1502 [[Cantino planisphere|Cantino map]], Newfoundland appears on the Portuguese side of the line (as does Brazil). An expedition captured about 60 Aboriginal people as slaves who were said to "resemble [[Romani people|gypsies]] in colour, features, stature and aspect; are clothed in the skins of various animals ...They are very shy and gentle, but well formed in arms and legs and shoulders beyond description ...." Some captives, sent by [[Gaspar Corte-Real]], reached Portugal. The others drowned, with Gaspar, on the return voyage. Gaspar's brother, [[Miguel Corte-Real]], went to look for him in 1502, but also failed to return.{{Citation needed|date=June 2026}}
+
+[[File: Non-Native-American-Nations-Territorial-Claims-over-NAFTA-countries-1750-2008.gif|thumb|upright|Non-Indigenous land claims in North America, 1750–2008.]]
+
+In 1604 King [[Henry IV of France]] granted [[Pierre Dugua, Sieur de Mons]] a fur-trade monopoly.<ref name="Vaugeois">{{Cite book|last1=Vaugeois|first1=Denis |last2=Litalien|first2=Raymonde|others=Translated by Käthe Roth|title=Champlain: The Birth of French America|publisher=McGill-Queen's Press|year=2004|pages=146, 242|isbn=0-7735-2850-4|url=https://books.google.com/books?id=ZnE0tjj9MbgC&pg=PA242 |format=Digitized online by Google Books| access-date =October 9, 2009}}
+</ref> Dugua led his first colonization expedition to an island located near to the mouth of the [[St. Croix River (Maine-New Brunswick)|St. Croix River]]. [[Samuel de Champlain]], his geographer, promptly carried out a major exploration of the northeastern coastline of what is now the United States. Under Samuel de Champlain, the [[Saint Croix Island, Maine|Saint Croix settlement]] moved to [[Port-Royal (Acadia)|Port Royal]] (today's [[Annapolis Royal, Nova Scotia]]), a new site across the [[Bay of Fundy]], on the shore of the [[Annapolis Basin]], an inlet in western Nova Scotia. [[Acadia]] became France's most successful colony to that time.<ref>{{Cite book
+ | last = Brasseaux
+ | first = Carl A
+ | title = The Founding of New Acadia: The Beginnings of Acadian Life in Louisiana, 1765–1803
+ | publisher = [[Louisiana State University]] Press
+ | year = 1987
+ | location = Baton Rouge, LA
+ | isbn =0-8071-1296-8 }}
+</ref> The cancellation of Dugua's fur monopoly in 1607 ended the Port Royal settlement. Champlain persuaded First Nations to allow him to settle along the St. Lawrence, where in 1608 he would found France's first permanent colony in Canada at Quebec City. The colony of [[Acadia]] grew slowly, reaching a population of about 5,000 by 1713. [[New France]] had [[cod]]-fishery coastal communities, and farm economies supported communities along the St. Lawrence River. French ''[[voyageurs]]'' travelled deep into the hinterlands (of what is today Quebec, Ontario, and Manitoba, as well as what is now the American Midwest and the [[Mississippi River|Mississippi Valley]]), trading with First Nations as they went – guns, gunpowder, cloth, knives, and kettles for beaver furs.<ref>{{Cite book
+ | last = Podruchny
+ | first = Carolyn
+ | title = Making the Voyageur World: Travelers and Traders in the North American Fur Trade
+ | publisher   =[[University of Toronto Press]]
+ | year = 2006
+ | location = Toronto
+ | isbn = 978-0-8020-9428-5}}
+</ref> The fur trade kept the interest in France's overseas colonies alive, yet only encouraged a small colonial population, as minimal labour was required. The trade also discouraged the development of agriculture, the surest foundation of a colony in the New World.<ref>{{Cite book
+ | last = Rich
+ | first = E.E.
+ | title = The Fur Trade and the Northwest to 1857
+ | publisher = McClelland and Stewart Limited
+ | year = 1967
+ | location = Toronto
+ | page = 296
+}}
+</ref>
+
+According to [[David L. Preston]], after French colonisation with Champlain "the French were able to settle in the depopulated St. Lawrence Valley, not directly intruding on any Indian nation's lands. This geographic and demographic fact presents a striking contrast to the British colonies' histories: large numbers of immigrants coming to New England, New York, Pennsylvania, Virginia, and the Carolinas all stimulated destructive wars over land with their immediate Indian neighbors...Settlement patterns in New France also curtailed the kind of relentless and destructive expansion and land-grabbing that afflicted many British colonies."<ref>{{cite book|last=Preston|first=David L.|title=The Texture of Contact: European and Indian Settler Communities on the Frontiers of Iroquoia, 1667–1783|url=https://books.google.com/books?id=L-9N6-6UCnoC&pg=PA43|year=2009|publisher=University of Nebraska Press|isbn=978-0-8032-2549-7|pages=43–44|url-status=live|archive-url=https://web.archive.org/web/20160112102431/https://books.google.com/books?id=L-9N6-6UCnoC&pg=PA43|archive-date=January 12, 2016}}</ref>
+
+====The Métis====
+{{Main|Métis in Canada}}
+The Métis (from French ''métis'' – "mixed") are descendants of unions between [[Cree]], [[Ojibwe]], [[Algonquin people|Algonquin]], [[Saulteaux]], [[Menominee]] and other First Nations in the 17th, 18th and 19th centuries and [[Ethnic groups in Europe|Europeans]],<ref>
+{{cite web
+ |url=http://www.collectionscanada.gc.ca/genealogie/022-905.004-e.html
+ |title=Ethno-Cultural and Aboriginal Groups
+ |publisher=Collectionscanada.gc.ca
+ |date=May 19, 2010
+ |access-date=July 1, 2010
+ 
+ |archive-url=https://web.archive.org/web/20141006095911/http://www.collectionscanada.gc.ca/genealogie/022-905.004-e.html
+ |archive-date=October 6, 2014
+}}
+</ref> mainly French.<ref>Rinella, Steven. 2008. ''American Buffalo: In Search of A Lost Icon''. NY: Spiegel and Grau.</ref> The Métis were historically the children of French fur traders and Nehiyaw women or, from unions of English or Scottish traders and Northern Dene women ([[Anglo-Métis]]). The Métis spoke or still speak either [[Métis French]] or a [[mixed language]] called [[Michif language|Michif]]. ''Michif'', ''Mechif'' or ''Métchif'' is a [[Pronunciation spelling|phonetic spelling]] of the Métis pronunciation of ''Métif'', a variant of ''Métis''. The Métis {{as of | 2013 | lc = on}} predominantly speak [[Canadian English|English]], with [[Canadian French|French]] a strong second language, as well as numerous Aboriginal tongues. Métis French is best preserved in Canada, Michif in the United States, notably in the [[Turtle Mountain Indian Reservation]] of [[North Dakota]], where Michif is the [[official language]] of the Métis that reside on this [[Turtle Mountain Band of Chippewa Indians|Chippewa]] reservation. The encouragement and use of Métis French and Michif is growing due to outreach within the five provincial Métis councils after at least a generation of steep decline. Canada's Indian and Northern Affairs define Métis to be those persons of mixed First Nation and European ancestry.<ref name="well">{{Cite book |last1=Bardwell |first1=Lawrence J. |last2=Dorion |first2=Leah |last3=Hourie |first3=Audreen |year=2006 |title=Métis legacy Michif culture, heritage, and folkways |series=Métis legacy series |volume=2 |publisher=[[Gabriel Dumont Institute]] | isbn=0-920915-80-9 }}</ref>
+
+====Colonial wars====
+{{Main|French and Indian Wars|Father Rale's War|Father Le Loutre's War}}
+
+[[File:Conference Between the French and Indian Leaders Around a Ceremonial Fire by Vernier.jpg|thumb|Conference between the French and First Nations leaders by [[Émile Louis Vernier]].]]
+
+Allied with the French, the first nations of the [[Wabanaki Confederacy]] of [[Acadia]] fought six colonial wars against the British and their native allies (See the [[French and Indian Wars]], [[Father Rale's War]] and [[Father Le Loutre's War]]).<ref>In [[British America]] nomenclature, the sitting British monarch became the war's namesake, such as [[King William's War]] or [[Queen Anne's War]]. Because there had already been a [[King George's War]] in the 1740s, British colonists named the second war in [[George II of Great Britain|King George II's]] reign after their opponents, so it became the ''French and Indian War''.</ref> In the second war, [[Queen Anne's War]], the British conquered [[Acadia]] (1710). The sixth and final [[French and Indian War|colonial war]] between the nations of [[Ancien Régime in France|France]] and [[Kingdom of Great Britain|Great Britain]] (1754–1763), resulted in the French giving up their claims and the British claimed the lands of [[Canada (New France)]].{{Citation needed|date=June 2026}}
+
+In this final war, the [[Franco-Indian alliance]] brought together Americans, First Nations and the French, centred on the [[Great Lakes]] and the [[Illinois Country]].<ref name="volo">{{cite book|last1=Volo |first1=James M. |last2=Volo |first2=Dorothy Denneen |title=Family Life in Native America |url=https://books.google.com/books?id=-9Nfy4ztuPwC&pg=PA316 |access-date=August 31, 2009 |date=September 30, 2007 |publisher=[[Greenwood Publishing Group]] |isbn= 978-0-313-33795-6 |page=316}}</ref> The alliance involved French settlers on the one side, and on the other side were the Abenaki, Odawa, [[Menominee]], [[Ho-Chunk]] (Winnebago), [[Mississaugas]], [[Illinois Confederation|Illiniwek]], Huron-[[Petun]], [[Potawatomi]] etc.<ref name="volo" /> It allowed the French and the Indians to form a haven in the middle-[[Ohio River|Ohio valley]] before the open conflict between the European powers erupted.<ref>{{cite book|last1=Calloway |first1=Colin G. |title=The American Revolution in Indian Country: Crisis and Diversity in Native American Communities (Studies in North American Indian History) |url=https://books.google.com/books?id=5YWahCbKiUoC&pg=PA6 |access-date=August 31, 2009 |date=April 28, 1995 |publisher=[[Cambridge University Press]] |isbn=978-0-521-47569-3 |page=6}}</ref>
+
+In the [[Royal Proclamation of 1763]], the British recognized the treaty rights of the Indigenous populations and resolved to only settle those areas purchased lawfully from the Indigenous peoples. Treaties and land purchases were made in several cases by the British, but the lands of several Indigenous nations remain unceded and/or unresolved.{{Citation needed|date=June 2026}}
+
+====Slavery====
+{{Main|Slavery in Canada}}
+
+First Nations routinely captured slaves from neighbouring tribes. Sources report that the conditions under which First Nations slaves lived could be brutal, with the [[Makah]] tribe practising death by [[starvation]] as punishment and Pacific coast tribes routinely performing ritualized killings of slaves as part of social ceremonies into the mid-1800s.<ref>Donald, Leland (1997). Aboriginal Slavery on the Northwest Coast of North America, University of California Press, p. 237</ref> Slave-owning tribes of the fishing societies, such as the [[Yurok (tribe)|Yurok]] and [[Haida people|Haida]] lived along the coast from what is now [[Alaska]] to [[California]].<ref>{{Cite encyclopedia
+ | title =Welcome to Encyclopædia Britannica's Guide to Black History
+ | encyclopedia= Slavery in the New World
+ | publisher = Encyclopædia Britannica, Inc.
+ | year = 2009
+ | url = https://www.britannica.com/blackhistory/article-24156
+}}
+</ref> Fierce warrior Indigenous [[History of slavery|slave-traders]] of the Pacific Northwest Coast raided as far south as California. Slavery was hereditary, the slaves and their descendants being considered [[Prisoner of war|prisoners of war]]. Some tribes in British Columbia continued to segregate and ostracize the descendants of slaves as late as the 1970s.<ref>Donald, 1997, pp. 249–251</ref> Among Pacific Northwest tribes about a quarter of the population were slaves.<ref name="afua"/>
+
+The citizens of New France received slaves as gifts from their allies among First Nations peoples. Slaves were prisoners taken in raids against the villages of the [[Meskwaki]], a tribe that was an ancient rival of the [[Miami tribe|Miami people]] and their [[Algonquian peoples|Algonquian]] allies.<ref>{{Cite book|url=https://historycooperative.org/journal/slavery-the-fox-wars-and-the-limits-of-alliance-2/|title=Slavery, the Fox Wars, and the Limits of Alliance|last=Rushforth|first=Brett|date=January 2006|publisher=William and Mary Quarterly|volume=63|format=digitised online by History cooperative|issue=1}} Rushforth confuses the two Vincennes explorers. François-Marie was 12 years old during the First Fox War.
+</ref>
+Native (or "pani", a corruption of [[Pawnee people|Pawnee]]) slaves were much easier to obtain and thus more numerous than African slaves in New France, but were less valued. The average native slave died at 18, and the average African slave died at 25<ref name="afua"/> (the average European could expect to live until the age of 35<ref>
+{{cite web|url=http://sasked.gov.sk.ca/docs/history10/activity/unit2/u2act1sis.html |archive-url=https://archive.today/20120721183644/http://sasked.gov.sk.ca/docs/history10/activity/unit2/u2act1sis.html  |archive-date=July 21, 2012 |work=Saskatchewan Education. (1992). History 10: Social Organizations A Teacher's Activity Guide |title=Standard of Living in 18th century Canada :section 2 |access-date=October 9, 2009 }}
+</ref>). By 1790 the [[Abolitionism in the United Kingdom|abolition movement]] was gaining ground in Canada and the ill intent of slavery was evidenced by an incident involving a slave woman being violently abused by her slave owner on her way to being sold in the United States.<ref name="afua"/> The [[Act Against Slavery]] of 1793 legislated the gradual abolition of slavery: no slaves could be imported; slaves already in the province would remain enslaved until death, no new slaves could be brought into [[Upper Canada]], and children born to female slaves would be slaves but must be freed at age 25.<ref name="afua">
+{{Cite book|last1= Cooper |first1= Afua |title= The Hanging of Angelique: Canada, Slavery and the Burning of Montreal |date= February 2006 |publisher= [[HarperCollins|HarperCollins Canada]] |isbn= 978-0-00-200553-1 }}
+</ref> The act [[coming into force|remained in force]] until 1833 when the [[Parliament of the United Kingdom|British Parliament's]] [[Slavery Abolition Act 1833|Slavery Abolition Act]] finally abolished slavery in all parts of the [[British Empire]].<ref name=SectionLXIV>
+{{cite web|url=http://www.pdavis.nl/Legis_07.htm |title=Slavery Abolition Act 1833; Section LXIV |date=August 28, 1833 |access-date=June 3, 2008}}</ref> Historian [[Marcel Trudel]] has documented 4,092 recorded slaves throughout Canadian history, of which 2,692 were Aboriginal people, owned by the French, and 1,400 blacks owned by the British, together owned by approximately 1,400 masters.<ref name="afua"/> Trudel also noted 31 marriages took place between French colonists and Aboriginal slaves.<ref name="afua"/>
+
+====1775–1815====
+{{Weasel|section|date=August 2024}}[[File:Fur traders in canada 1777.jpg|thumb|Fur traders in Canada, trading with First Nations, 1777]]
+
+British agents worked to make the First Nations into military allies of the British, providing supplies, weapons, and encouragement. During the [[American Revolutionary War]] (1775–1783) most of the tribes supported the British. In 1779, the Americans [[Sullivan Expedition|launched a campaign]] to burn the villages of the Iroquois in New York State.<ref>
+Max M. Mintz, ''Seeds of Empire: The American Revolutionary Conquest of the Iroquois'' (New York University Press, 1999).
+</ref> The refugees fled to Fort Niagara and other British posts, with some remaining permanently in Canada. Although the British ceded the Old Northwest to the United States in the Treaty of Paris in 1783, it kept fortifications and trading posts in the region until 1795. The British then evacuated American territory, but operated trading posts in British territory, providing weapons and encouragement to tribes that were resisting American expansion into such areas as Ohio, Indiana, Michigan, Illinois and Wisconsin.<ref>
+Robert S. Allen, ''His Majesty's Indian allies: British Indian policy in the defence of Canada, 1774–1815'' (Toronto: Dundurn Press, 1992)</ref> Officially, the British agents discouraged any warlike activities or raids on American settlements, but the Americans became increasingly angered, and this became one of the [[Origins of the War of 1812|causes of the War of 1812]].<ref>
+David S. Heidler, and Jeanne T., Heidler, eds., ''Encyclopedia of the War of 1812'' (1997) pp=253, 392</ref>
+
+In the war, the great majority of First Nations supported the British, and many fought under the aegis of [[Tecumseh]].<ref>
+Herbert C. W. Goltz, "Tecumseh". in John English, ed., ''Dictionary of Canadian Biography Online: V (1801–1820)'' (2000) [http://www.biographi.ca/009004-119.01-e.php?BioId=36806&query=tecumseh online]
+</ref> But Tecumseh died in battle in 1813 and the Indian coalition collapsed. The British had long wished to create a neutral Indian state in the American Old Northwest,<ref>{{cite journal | last1 = Smith | first1 = Dwight L. | year = 1989 | title = A North American Neutral Indian Zone: Persistence of a British Idea | journal = Northwest Ohio Quarterly | volume = 61 | issue = 2–4| pages = 46–63 }}
+</ref> and made this demand as late as 1814 at the peace negotiations at Ghent. The Americans rejected the idea, the British dropped it, and Britain's Indian allies lost British support. In addition, the Indians were no longer able to gather furs in American territory. Abandoned by their powerful sponsor, Great Lakes-area natives ultimately assimilated into American society, migrated to the west or to Canada, or were relocated onto reservations in Michigan and Wisconsin.<ref>
+Colin G. Calloway, "The End of an Era: British-Indian Relations in the Great Lakes Region after the War of 1812," ''Michigan Historical Review'' 1986 12(2): 1–20. 0890–1676
+</ref> Historians have unanimously agreed that the Indians were the major losers in the War of 1812.<ref>
+Wesley B. Turner, ''The War of 1812: The War That Both Sides Won'' (2000)</ref>
+
+===19th century===
+{{See also|North-West Rebellion|Red River Rebellion}}
+[[File:Kane Assiniboine hunting buffalo.jpg|thumb| Painting representing ''[[Assiniboine people|Assiniboine]] hunting buffalo'', c. 1851]]
+Living conditions for Indigenous people in the [[Canadian Prairies|prairie]] regions deteriorated quickly. Between 1875 and 1885, settlers and hunters of European descent contributed to hunting the North American bison almost to extinction; the construction of the [[Canadian Pacific Railway]] brought large numbers of European settlers west who encroached on Indigenous territory. European Canadians established governments, police forces, and [[Court|courts of law]] with different foundations from Indigenous practices. Various epidemics continued to devastate Indigenous communities. All of these factors had a profound effect on Indigenous people, particularly those from the plains who had relied heavily on bison for food and clothing. Most of those nations that agreed to treaties had negotiated for a guarantee of food and help to begin farming.<ref name="finkelconrad">{{Cite book | last1 = Finkel | first1 = Alvin | last2 = Conrad | first2 = Margaret Conrad | title = History of the Canadian Peoples, 1867–present | publisher = Pearson Education Canada | edition = 4 | date = August 25, 2005 | volume = 2 | isbn = 978-0-321-27009-2 | url-access = registration | url = https://archive.org/details/historyofcanadia0004conr }}</ref> Just as the bison disappeared (the last Canadian hunt was in 1879), [[Lieutenant Governor (Canada)|Lieutenant-Governor]] [[Edgar Dewdney]] cut rations to Indigenous people in an attempt to reduce government costs. Between 1880 and 1885, approximately 3,000 Indigenous people starved to death in the [[North-West Territories]].<ref name="finkelconrad"/>
+
+[[File:Poundmaker.png|thumb|left|upright|Chief [[Poundmaker]] ]]
+
+Offended by the concepts of the treaties, Cree chiefs resisted them. [[Big Bear]] refused to sign [[Treaty 6]] until starvation among his people forced his hand in 1882.<ref name="finkelconrad"/> His attempts to unite Indigenous nations made progress. In 1884 the Métis (including the Anglo-Métis) asked [[Louis Riel]] to return from the United States, where he had fled after the [[Red River Rebellion]], to appeal to the government on their behalf. The government gave a vague response. In March 1885, Riel, [[Gabriel Dumont (Métis leader)|Gabriel Dumont]], and [[Honoré Jackson]] (a.k.a. Will Jackson) set up the [[Provisional Government of Saskatchewan]], believing that they could influence the federal government in the same way as they had in 1869.<ref>{{cite web|author=Boulton, Charles A. |year=1886 |title=Reminiscences of the North-West Rebellions |location=Toronto. |url=http://wsb.datapro.net/rebellions/index.html |access-date=October 9, 2009 |author-link=Charles Arkoll Boulton  |archive-url=https://web.archive.org/web/20091123015618/http://wsb.datapro.net/rebellions/index.html |archive-date=November 23, 2009 }}</ref> The [[North-West Rebellion]] of 1885 was a brief and unsuccessful uprising by the [[Métis people (Canada)|Métis]] people of the [[District of Saskatchewan]] under Riel against the Dominion of Canada, which they believed had failed to address their concerns for the survival of their people.<ref>{{cite web
+ | website =Canada in the Making |title=The Riel Rebellions
+ | url =http://www.canadiana.org/citm/specifique/rielreb_e.html
+ | access-date = October 6, 2007 |archive-date=2006-01-12 |archive-url=https://web.archive.org/web/20060112173624/http://www.canadiana.org/citm/specifique/rielreb_e.html}}</ref> In 1884, 2,000 Cree from reserves met near [[Battleford]] to organize into a large, cohesive resistance. Discouraged by the lack of government response but encouraged by the efforts of the Métis at armed rebellion, [[Wandering Spirit (Cree leader)|Wandering Spirit]] and other young militant Cree attacked the small town of [[Frog Lake Massacre|Frog Lake]], killing Thomas Quinn, an [[Indian Agent (Canada)|Indian agent]], and eight others.<ref name="finkelconrad"/> Although Big Bear actively opposed the attacks, he was charged and tried for treason and sentenced to three years in prison. After the Red River Rebellion of 1869–1870, Métis moved from [[Manitoba]] to the District of Saskatchewan, where they founded a settlement at [[Batoche, Saskatchewan|Batoche]] on the [[South Saskatchewan River]].<ref>{{Cite book| title = Riel: a life of revolution| author = Siggins, Maggie | year = 1994 | publisher = [[HarperCollins]], Toronto | isbn = 0-00-215792-6| author-link = Maggie Siggins}}</ref> 
+[[File:Mik'maq at Province House, Halifax,NS 1879.png|thumb|[[Mi'kmaq]] Grand Chief [[Jacques-Pierre Peminuit Paul]] (3rd from left with beard) meets Governor General of Canada, [[John Campbell, 9th Duke of Argyll|Marquess of Lorne]], Red Chamber, [[Province House (Nova Scotia)|Province House]], Halifax, Nova Scotia, 1879]]
+In Manitoba settlers from [[Ontario]] began to arrive. They pushed for land to be allotted in the square concession system of [[English Canada]], rather than the [[Seigneurial system of New France|seigneurial system]] of strips reaching back from a river which the Métis were familiar with in their [[French-Canadian]] culture.
+
+====Colonization and assimilation====
+{{Main|Canadian Indian residential school system|Indian Residential Schools Truth and Reconciliation Commission}}
+[[File:Stpauls-middlechurch-man.jpg|thumb|upright|St. Paul's Indian Industrial School, Manitoba, 1901]]
+The history of colonization is complex, varied according to the time and place. France and Britain were the main colonial powers involved, though the United States also began to extend its territory at the expense of Indigenous people as well.
+
+From the late 18th century, European Canadians encouraged First Nations to [[Cultural imperialism|assimilate]] into the European-based culture, referred to as "[[Canadian culture]]". The assumption was that this was the "correct" culture because the Canadians of European descent saw themselves as dominant, and technologically, politically and culturally superior.<ref name="RoyalCom-sg3">{{Cite journal
+ |title=Report of the Royal Commission on Aboriginal Peoples Stage Three: Displacement and Assimilation
+ |volume=1 part 1 chapter 6
+ |journal=[[Indian and Northern Affairs Canada]]
+ |publisher=Government of Canada
+ |date=August 26, 1991
+ |url=http://www.ainc-inac.gc.ca/ch/rcap/sg/sgm6_e.html
+ |archive-url=https://wayback.archive-it.org/all/20080315013149/http://www.ainc-inac.gc.ca:80/ch/rcap/sg/sgm6_e.html
+ 
+ |archive-date=March 15, 2008
+ |access-date=October 9, 2009
+}}
+</ref> There was resistance against this assimilation and many businesses denied European practices. The Tecumseh Wigwam of Toronto, for example, did not adhere to the widely practiced Lord's Day observance, making it a popular spot, especially on Sundays.<ref>{{cite web|last1=Peppiatt|first1=Liam|title=Chapter 12: The Tecumseh Wigwam |archive-url=https://web.archive.org/web/20160821091733/http://www.landmarksoftoronto.com/the-tecumseh-wigwam/ |url=http://www.landmarksoftoronto.com/the-tecumseh-wigwam/ |archive-date=August 21, 2016 |website=Robertson's Landmarks of Toronto Revisited}}</ref> Moreover, Canadian policies were at times contradictory, such as through the late 19th century-[[Peasant Farm Policy]] that severely restricted farming on reserves, despite this practice being seen as important to assimilation efforts.<ref>{{Cite book |last=[[Sarah Carter (historian)|Carter, Sarah]] |title=Lost Harvests: Prairie Indian reserve farmers and government policy |publisher=McGill-Queen's University Press |year=1990 |isbn=0-7735-0755-8 |location=Montreal and Kingston |page=193 |language=en}}</ref> These kinds of attempts reached a climax in the late 19th and early 20th centuries.
+
+Founded in the 19th century, the [[Canadian Indian residential school system]] was intended to force the assimilation of Aboriginal and First Nations people into European-Canadian society.<ref>{{cite web|last=Dolha |first=Lloyd |url=http://www.firstnationsdrum.com/education/Default.htm |title=Alberni School Victim Speaks Out |work=First Nations drum |access-date=October 9, 2009  |url-status=usurped |archive-url=https://web.archive.org/web/20100419141730/http://www.firstnationsdrum.com/education/Default.htm |archive-date=April 19, 2010 }}</ref> The purpose of the schools, which separated children from their families, has been described by commentators as "killing the Indian in the child."<ref name=chronology>{{cite web|title=Residential Schools – A Chronology |publisher=Assembly of First Nations |url=http://www.afn.ca/article.asp?id=2586 |access-date=January 19, 2009  |archive-url=https://web.archive.org/web/20090201154953/http://www.afn.ca/article.asp?id=2586 |archive-date=February 1, 2009 }}
+</ref><ref>{{cite web
+ |title=Canada apologizes for killing the 'Indian in the child' (Roundup)
+ |work=Americas News
+ |publisher=Deutsche Presse-Agentur
+ |date=June 11, 2008
+ |url=http://www.monstersandcritics.com/news/americas/news/article_1410655.php
+ |archive-url=https://archive.today/20130129002544/http://www.monstersandcritics.com/news/americas/news/article_1410655.php
+ 
+ |archive-date=January 29, 2013
+ |access-date=October 9, 2009
+}}
+</ref>
+
+[[File:Buying provisions for Xmas.jpg|thumb|left|upright|Representation of buying provisions, [[Hudson's Bay Company|Hudson's Bay]] territory, 1870s]]
+Funded under the ''[[Indian Act]]'' by Indian and Northern Affairs Canada, a branch of the federal government, the schools were run by churches of various denominations – about 60% by [[Catholic Church|Catholics]], and 30% by the [[Anglican Church of Canada]] and the [[United Church of Canada]], along with its pre-1925 predecessors, [[Presbyterian Church in Canada|Presbyterian]], [[Congregational church|Congregationalist]] and [[Methodism|Methodist]] churches.
+
+The attempt to [[Forced assimilation|force assimilation]] involved punishing children for speaking their own languages or practising their own faiths, leading to allegations in the 20th century of [[cultural genocide]] and [[ethnocide]]. There was also widespread physical and [[sexual abuse]]. Overcrowding, poor sanitation, and a lack of medical care led to high rates of [[tuberculosis]], and death rates at some schools of up to 69%.<ref>{{cite web | last1 = Curry | first1 = Bill | last2 = Howlett | first2 = Karen | title = Natives died in droves as Ottawa ignored warnings Tuberculosis took the lives of students at residential schools for at least 40 years | work = [[The Globe and Mail|Globe and Mail]] | date = April 24, 2007 | url = http://www.heyokamagazine.com/HEYOKA.8.GlobeAndMail.1.htm | format = Digitised online by Heyoka Magazine | access-date = October 9, 2009  | archive-url = https://web.archive.org/web/20090413064440/http://www.heyokamagazine.com/HEYOKA.8.GlobeAndMail.1.htm | archive-date = April 13, 2009 }}
+</ref> Details of the mistreatment of students had been published numerous times throughout the 20th century, but following the closure of the schools in the 1960s, the work of Indigenous activists and historians led to a change in the public perception of the residential school system, as well as official government apologies, and a (controversial) legal settlement.<ref>{{Cite journal |last=Carney |first=Robert |date=1995 |title=Aboriginal Residential Schools Before Confederation: The Early Experience |journal=Historical Studies |volume=61 |pages=13–40 |publisher=Canadian Catholic Historical Association |access-date=13 August 2024 |url=https://catholicvoices.ca/indian-residential-schools-resources-historical-cultural-background/ }}</ref>
+
+Colonization had a significant impact on First Nations diet and health. According to the historian Mary-Ellen Kelm, "inadequate reserve allocations, restrictions on the food fishery, overhunting, and over-trapping" alienated First Nations from their traditional way of life, which undermined their physical, mental, emotional, and spiritual health.<ref>Kelm, Mary-Ellen (1998). Colonizing Bodies: Aboriginal Health and Healing in British Columbia 1900–50. Vancouver: UBC Press, p. 37.</ref>
+
+===20th century===
+[[File:Frances Densmore recording Mountain Chief2.jpg|thumb|left|upright|Ethnomusicologist [[Frances Densmore]] plays a recording for [[Blackfoot Confederacy|Blackfoot]] chief [[Mountain Chief]] (1916)]]
+As Canadian ideas of [[Progressivism|progress]] evolved around the start of the 20th century, the federal Indian policy was directed at removing Indigenous people from their communal lands and encouraging assimilation.<ref name="finkelconrad"/> Amendments to the ''Indian Act'' in 1905 and 1911 made it easier for the government to expropriate reserve lands from First Nations.<ref>{{Cite web|title=The Indian Act|url=https://indigenousfoundations.arts.ubc.ca/the_indian_act/|access-date=2021-01-20|website=indigenousfoundations.arts.ubc.ca}}</ref><ref>{{Cite web|last=Joseph|first=Bob|title=21 Things You May Not Have Known About The Indian Act|url=https://www.ictinc.ca/blog/21-things-you-may-not-have-known-about-the-indian-act-|access-date=2021-01-20|website=www.ictinc.ca}}</ref> The government sold nearly half of the Blackfoot reserve in Alberta to settlers.{{Citation needed|date=February 2012}}
+
+When the Kainai (Blood) Nation refused to accept the sale of their lands in 1916 and 1917, the Department of Indian Affairs held back funding necessary for farming until they relented.<ref name="finkelconrad"/> In British Columbia, the [[McKenna–McBride Royal Commission]] was created in 1912 to settle disputes over reserve lands in the province. The claims of Indigenous people were ignored, and the commission allocated new, less valuable lands (reserves) for First Nations.<ref name="finkelconrad"/>
+
+Those nations who managed to maintain their ownership of good lands often farmed successfully. Indigenous people living near the [[Cowichan River|Cowichan]] and [[Fraser River|Fraser]] rivers, and those from Saskatchewan managed to produce good harvests.<ref name="finkelconrad"/> Since 1881, those First Nations people living in the prairie provinces required permits from Indian Agents to sell any of their produce. Later the government created a pass system in the old Northwest Territories that required Indigenous people to seek written permission from an Indian Agent before leaving their reserves for any length of time.<ref name="finkelconrad"/> Indigenous people regularly defied those laws, as well as bans on [[Sun Dance]]s and potlatches, in an attempt to practice their culture.<ref>{{cite web
+ | title = An historical overview
+ | work = The Justice System and Aboriginal People The Aboriginal Justice Implementation Commission
+ | publisher = Manitoba Government
+ | url = http://www.ajic.mb.ca/volumel/chapter3.html#1
+ | access-date =September 11, 2009 }}
+</ref>
+
+The [[wikisource:Constitution Act, 1930 (annotated)|''1930 Constitution Act'']] or [[Natural Resources Acts]] was part of a shift acknowledging [[Indigenous rights]]. It enabled provincial control of [[Crown land]] and allowed Provincial laws regulating game to apply to Indians, but it also ensured that "Indians shall have the right&nbsp;... of hunting, trapping and fishing game and fish for food at all seasons of the year on all unoccupied Crown lands and on any other lands to which the said Indians may have a right of access."<ref>''Statutes of Great Britain (1930)'', 20–21 [[George V]], chapter 26.</ref>
+
+===First and Second World Wars===
+[[File:Aboriginal War Veterans monument.JPG|thumb|upright|Aboriginal War Veterans monument]]
+More than 6,000 First Nations, Inuit and Métis served with [[British Armed Forces|British forces]] during [[World War I|First World War]] and [[World War II|Second World War]]. A generation of young native men fought on the battlefields of Europe during the Great War and approximately 300 of them died there.{{Citation needed|date=April 2021}} When Canada declared war on [[Nazi Germany|Germany]] on September 10, 1939, the native community quickly responded to volunteer. Four years later, in May 1943, the government declared that, as [[British subject]]s, all able Indian men of military age could be called up for training and service in Canada or overseas.
+
+===Late 20th century===
+Following the end of the Second World War, laws concerning First Nations in Canada began to change, albeit slowly. The federal prohibition of potlatch and Sun Dance ceremonies ended in 1951. Provincial governments began to accept the right of Indigenous people to vote. In June 1956, section 9 of the ''[[Canadian Citizenship Act 1946|Citizenship Act]]'' was amended to grant formal citizenship to Status Indians and Inuit, retroactively as of January 1947.
+
+In 1960, First Nations people received the right to vote in federal elections without forfeiting their Indian status. By comparison, Native Americans in the United States had been allowed to vote since the 1920s.<ref>{{cite web
+ | last = Kinnear
+ | first = Michael
+ | title = The Effect of Expansion of the Franchise on Turnout
+ | work = Electoral Insight
+ | publisher = Elections Canada
+ | date = November 2003
+ | url = http://www.elections.ca/res/eim/article_search/article.asp?id=28&lang=e&frmPageSize=
+ | access-date =April 29, 2014 }} 
+</ref>
+
+====1969 White Paper====
+
+In his [[1969 White Paper]], then-[[Minister of Indian Affairs and Northern Development (Canada)|Minister of Indian Affairs]], [[Jean Chrétien]], proposed the abolition of the ''Indian Act'' of Canada, the rejection of [[Aboriginal land claim]]s, and the assimilation of First Nations people into the Canadian population with the status of "other ethnic minorities" rather than as a distinct group.<ref name="two">{{cite web|url=http://www.afn.ca/misc/AFN-AGA-2009.pdf |title=Assembly of First Nations Annual Report |work=AFN Executive Committee Reports |publisher=Assembly of First Nations |date=2008–2009 |access-date=October 6, 2009  |archive-url=https://web.archive.org/web/20091102145955/http://www.afn.ca/misc/AFN-AGA-2009.pdf |archive-date=November 2, 2009 }}</ref>
+
+[[Harold Cardinal]] and the Indian Chiefs of Alberta responded with a document entitled "Citizens Plus" but commonly known as the "Red Paper". In it, they explained Status Indians' widespread opposition to Chrétien's proposal. [[Prime Minister of Canada|Prime Minister]] [[Pierre Trudeau]] and the [[Liberal Party of Canada|Liberals]] began to back away from the 1969 White Paper, particularly after the [[Calder v. British Columbia (Attorney General)|Calder case]] decision in 1973.<ref name="ndp-ear">{{cite news |last1=Tester |first1=Frank James |last2=McNicoll|first2=Paule McNicoll |author3=Jessie Forsyth |title=With an ear to the ground: The CCF/NDP and Aboriginal policy in Canada, 1926–1993 |work=Journal of Canadian Studies |date=Spring 1999|url=http://www.findarticles.com/p/articles/mi_qa3683/is_199904/ai_n8843392/pg_9 |archive-url=https://web.archive.org/web/20070706013520/http://findarticles.com/p/articles/mi_qa3683/is_199904/ai_n8843392/pg_9  |archive-date=2007-07-06 |url-status=usurped |access-date=October 9, 2009}}</ref> After the Canadian Supreme Court recognized that Indigenous rights and treaty rights were not extinguished, a process was begun to resolve land claims and treaty rights and is ongoing today.
+
+====Health transfer policy====
+{{Main|Indian Health Transfer Policy (Canada)}}
+In 1970, severe [[mercury poisoning]], called [[Ontario Minamata disease]], was discovered among [[Asubpeeschoseewagong First Nation]] and [[Wabaseemoong Independent Nations]] people, who lived near [[Dryden, Ontario]]. There was extensive mercury pollution caused by Dryden Chemicals Company's waste water effluent in the [[Wabigoon River|Wabigoon]]-[[English River (Ontario)|English River]] system.<ref name="itri">{{cite journal|author1=D'ltri, P. A. |author2=D'ltri, F. M. | title=Mercury contamination: A human tragedy | journal=Environmental Management | volume=2 | issue=1 | pages=3–16 |date=January 1978 | doi=10.1007/BF01866442|bibcode=1978EnMan...2....3D |s2cid=153666705 }}</ref><ref name="mcdonald">{{cite book|author=McDonald, A. | chapter=Indigenous peoples' vulnerabilities exposed: Lessons learned from Canada's Minamata incident: An Environmental analysis based on the case study of methyl-mercury pollution in northwestern Ontario, Canada | title=JACS Conference 2007 | publisher=Japanese Association for Canadian Studies | chapter-url=http://jacs.jp/AnnualConf2007/JACS2007/JACS2007resume/20070923mcdonald-e.pdf | access-date=December 14, 2007|archive-url = https://web.archive.org/web/20071014080420/http://www.jacs.jp/AnnualConf2007/JACS2007/JACS2007resume/20070923mcdonald-e.pdf <!-- Bot retrieved archive --> |archive-date = October 14, 2007}}</ref> Because local fish were no longer safe to eat, the Ontario provincial government closed the commercial fisheries run by the First Nation people and ordered them to stop eating local fish. Previously it had made up the majority of their diet.<ref>{{cite news
+ | title = Mercury Rising: The Poisoning of Grassy Narrows
+ | publisher = CBC TV
+ | date = November 1, 1970
+ | url = http://archives.cbc.ca/IDC-1-70-1178-6450/disasters_tragedies/grassy_narrows_mercury_pollution/clip1
+ | access-date =August 31, 2009 }}
+</ref> In addition to the acute mercury poisoning in [[northwestern Ontario]], [[Aamjiwnaang First Nation]] people near [[Sarnia]], Ontario, experienced a wide range of chemical effects, including severe mercury poisoning. They suffered low birth rates, skewed birth-gender ratio, and health effects among the population.<ref>{{cite web|last1=Gilbertson |first1=Michael |author2=Occupational and Environmental Health Research Group |title=Injury to Health: a forensic audit of the Great Lakes Water Quality Agreement (1972 to 2005) with special reference to congenital Minamata disease |publisher=University of Stirling |year=2007 |url=https://dspace.stir.ac.uk/dspace/bitstream/1893/249/3/M-Gilbertson-PhD-Master-Thesis.pdf |access-date=September 11, 2009  |archive-url=https://web.archive.org/web/20110718083716/https://dspace.stir.ac.uk/dspace/bitstream/1893/249/3/M-Gilbertson-PhD-Master-Thesis.pdf |archive-date=July 18, 2011 }}
+</ref><ref>{{cite web
+ | title = Rachel's environment and Health weekly
+ | work = From: Globe and Mail (Toronto, Ontario, Canada) (pg. A4), Apr. 11, 2007 The Mystery of the missing boys; Chemical pollutants flagged in new study as possible factor in skewed sex ratio By Martin Mittelstaedt, Environment Reporter
+ | url = http://www.ecomall.com/activism/rachel232.htm
+ | access-date = September 11, 2009}}
+</ref><ref>{{cite web|title=Mercury Study Report to Congress Volume V: Health Effects of Mercury and Mercury Compounds |work=EPA-452/R-97-007 |publisher=United States Environmental Protection Agency |date=December 1997 |url=http://www.epa.gov/ttncaaa1/t3/reports/volume5.pdf |access-date=September 11, 2009  |archive-url=https://web.archive.org/web/20111202224416/http://www.epa.gov/ttncaaa1/t3/reports/volume5.pdf |archive-date=December 2, 2011 }}
+</ref> This led to legislation and eventually the [[Indian Health Transfer Policy (Canada)|Indian Health Transfer Policy]] that provided a framework for the assumption of control of health services by First Nations people, and set forth a developmental approach to transfer centred on the concept of [[self-determination]] in health.<ref>{{cite web|url=http://www.hc-sc.gc.ca/fniah-spnia/alt_formats/fnihb-dgspni/pdf/pubs/agree-accord/1999_finance_integr-eng.pdf |archive-url=https://wayback.archive-it.org/all/20130111060520/http://www.hc-sc.gc.ca/fniah-spnia/alt_formats/fnihb-dgspni/pdf/pubs/agree-accord/1999_finance_integr-eng.pdf  |archive-date=January 11, 2013 |title=Financing a First Nations and Inuit Integrated Health System |work=Health Canada |publisher=Government of Canada |access-date=October 9, 2009 }}</ref> Through this process, the decision to enter into transfer discussions with [[Health Canada]] rests with each community. Once involved in transfer, communities are able to take control of health programme responsibilities at a pace determined by their individual circumstances and health management capabilities.<ref>{{cite web|url=http://www.hc-sc.gc.ca/fniah-spnia/pubs/finance/index-eng.php#agree-accord |title=Funding – Reports and Publications |work=Health Canada|publisher=Government of Canada|access-date=October 9, 2009|date=July 2005 }}</ref>
+
+The capacity, experience and relationships developed by First Nations as a result of the health transfer were a factor that assisted the creation of the [[First Nations Health Authority]] in British Columbia.
+
+====Elijah Harper and the Meech Lake Accord====
+{{Main|Meech Lake Accord}}
+In 1981, [[Elijah Harper]], a Cree from [[Red Sucker Lake First Nation|Red Sucker Lake]], Manitoba, became the first "Treaty Indian" in Manitoba to be elected as a [[Member of the Legislative Assembly|member]] of the [[Legislative Assembly of Manitoba]]. In 1990, Harper achieved national fame by holding an eagle feather as he refused to accept the [[Meech Lake Accord]], a [[constitutional amendment]] package negotiated to gain Quebec's acceptance of the ''[[Constitution Act, 1982]]'', but also one that did not address any First Nations grievances. The accord was negotiated in 1987 without the input of Canada's [[Indigenous peoples|Aboriginal peoples]].<ref>{{Cite book
+ | last1 = Rose
+ | first1 = Jürgen
+ | first2 = Johannes Ch |last2=Traut |author3=George C. Marshall European Center for Security Studies
+ | title = Federalism and: perspectives for the transformation process in Eastern and Central Europe Volume 2 of George C. Marshall European Center for Security Studies
+ | publisher = LIT Verlag Berlin-Hamburg-Münster
+ | year = 2001
+ | page = 151
+ | url = https://books.google.com/books?id=FtxtDf418LsC&q=aboriginal&pg=PA151
+ | isbn = 978-3-8258-5156-9}}
+</ref><ref>{{cite news|title=Man who died at scrapyard was Elijah Harper's brother |publisher=CBC News |date=March 25, 2009 |url=https://www.cbc.ca/news/canada/manitoba/man-who-died-at-scrapyard-was-elijah-harper-s-brother-1.791875 |access-date=September 11, 2009  |archive-url=https://web.archive.org/web/20090328144756/https://www.cbc.ca/news/canada/manitoba/man-who-died-at-scrapyard-was-elijah-harper-s-brother-1.791875 |archive-date=March 28, 2009 }}
+</ref><ref>{{cite web
+ |last=Parkinson
+ |first=Rhonda
+ |title=The Meech Lake Accord
+ |work=Maple Leaf Web
+ |publisher=Department of Political Science, University of Lethbridge
+ |date=November 2006
+ |url=http://www.rhondaparkinson.com/meech-lake-accord.htm
+ |access-date=September 11, 2009
+ 
+ |archive-url=https://web.archive.org/web/20090312070451/http://www.rhondaparkinson.com/meech-lake-accord.htm
+ |archive-date=March 12, 2009
+}}
+</ref> The third, final constitutional conference on Aboriginal peoples was also unsuccessful. The Manitoba assembly was required to unanimously consent to a motion allowing it to hold a vote on the accord, because of a procedural rule. Twelve days before the ratification deadline for the Accord, Harper began a [[filibuster]] that prevented the assembly from ratifying the accord. Because Meech Lake failed in Manitoba, the proposed constitutional amendment failed.<ref>{{Cite book
+ | last = Cohen
+ | first = Andrew
+ | title = A Deal Undone: The Making and Breaking of the Meech Lake Accord
+ | publisher = Douglas & McIntyre
+ | year   =1990
+ | location = Vancouver/Toronto
+ | isbn =0-88894-704-6  }}
+</ref> Harper also opposed the [[Charlottetown Accord]] in 1992, even though [[Assembly of First Nations]] Chief [[Ovide Mercredi]] supported it.<ref name="two"/>
+
+====Women's status and Bill C-31====
+{{Main|Indian Act}}
+According to the ''Indian Act'', [[status Indian]] women who married men who were not status Indians lost their [[Indian Register|treaty status]], and their children would not get status. However, in the reverse situation, if a status Indian man married a woman who was not a status Indian, the man would keep his status and his children would also receive treaty status. In the 1970s, the Indian Rights for Indian Women and [[Native Women's Association of Canada]] groups campaigned against this policy because it discriminated against women and failed to fulfill treaty promises.<ref name="finkelconrad"/> They successfully convinced the federal government to change the section of the act with the adoption of Bill C-31 on June 28, 1985. Women who had lost their status and children who had been excluded were then able to register and gain official Indian status. Despite these changes, status Indian women who married men who were not status Indians could pass their status on only one generation: their children would gain status, but (without a marriage to a full-status Indian) their grandchildren would not. A status Indian man who married a woman who was not a status Indian retained status as did his children, but his wife did not gain status, nor did his grandchildren.
+
+Bill C-31 also gave elected bands the power to regulate who was allowed to reside on their reserves and to control development on their reserves. It abolished the concept of "[[Gradual Civilization Act|enfranchisement]]" by which First Nations people could gain certain rights by renouncing their Indian status.<ref>{{cite web
+ |last         = Laurin
+ |first        = I
+ |title        = First Nations, Bill C-31, Indian Act
+ |work         = Indian and Northern Affairs Canada
+ |date         = September 1995
+ |url          = http://www.johnco.com/nativel/bill_c31.html
+ |access-date  = October 9, 2009
+ 
+ |archive-url  = https://web.archive.org/web/20090730192508/http://www.johnco.com/nativel/bill_c31.html
+ |archive-date = July 30, 2009
+ }}
+</ref>
+
+====Erasmus–Dussault commission====
+{{Main|Royal Commission on Aboriginal Peoples}}
+In 1991, Prime Minister [[Brian Mulroney]] created the [[Royal Commission on Aboriginal Peoples]], chaired by René Dussault and [[Georges Erasmus]]. Their 1996 report proposed the creation of a government for (and by) the First Nations that would be responsible within its own jurisdiction, and with which the federal government would speak on a "Nation-to-Nation" basis.<ref name="Royal"/> This proposal offered a far different way of doing politics than the traditional policy of assigning First Nations matters under the jurisdiction of the Indian and Northern Affairs, managed by one minister of the federal cabinet. The report also recommended providing the governments of the First Nations with up to [[Canadian dollar|$]]2 billion every year until 2010, in order to reduce the economic gap between the First Nations and the rest of the Canadian citizenry.<ref name="Royal"/> The money would represent an increase of at least 50% to the budget of Indian and Northern Affairs.<ref name="Royal"/> The report engaged First Nations leaders to think of ways to cope with the challenging issues their people were facing, so the First Nations could take their destiny into their own hands.<ref name="Royal">{{cite web|last1=Dussault |first1=René |last2=Erasmus|first2=George |title=The High Arctic Relocation: A Report on the 1953–55 Relocation |work=Royal Commission on Aboriginal Peoples |publisher=Canadian Government Publishing |year=1994 |url=http://www.fedpubs.com/subject/aborig/arctic_reloc.htm |access-date=October 9, 2009  |archive-url=https://web.archive.org/web/20091001232453/http://www.fedpubs.com/subject/aborig/arctic_reloc.htm |archive-date=October 1, 2009 }}
+</ref>
+
+The federal government, then headed by Jean Chrétien, responded to the report a year later by officially presenting its apologies for the forced acculturation the federal government had imposed on the First Nations, and by offering an "initial" provision of $350 million.<ref name="Royal"/>
+
+In the spirit of the Eramus–Dussault commission, tripartite (federal, provincial, and First Nations) accords have been signed since the report was issued. Several political crises between different provincial governments and different bands of the First Nations also occurred in the late 20th century, notably the [[Oka Crisis]], [[Ipperwash Crisis]], [[Burnt Church Crisis]], and the [[Gustafsen Lake standoff]].<ref name="Royal"/>
+
+===Early 21st century===
+{{See also|Grand River land dispute|Kelowna Accord}}
+In 2001, the [[Quebec government]], the federal government, and the Cree Nation signed "[[Agreement Respecting a New Relationship Between the Cree Nation and the Government of Quebec|La Paix des Braves]]" (''The Peace of the Braves'', a reference to the 1701 peace treaty between the French and the Iroquois League). The agreement allowed [[Hydro-Québec]] to exploit the province's [[hydroelectric]] resources in exchange for an allocation of $3.5 billion to be given to the government of the Cree Nation. Later, the Inuit of [[Nord-du-Québec|northern Quebec]] ([[Nunavik]]) joined in the agreement.
+[[File: The Defense of Cree Rights.jpg|thumb|left|upright|Defence of Cree rights]]
+
+In 2005, the leaders of the First Nations, various provincial governments, and the federal government produced an agreement called the [[Kelowna Accord]], which would have yielded $5 billion over 10 years, but the new federal government of [[Stephen Harper]] (2006) did not follow through on the working paper.
+First Nations, along with the Métis and the Inuit, have claimed to receive inadequate funding for education, and allege their rights have been overlooked. [[James Bartleman]], [[Lieutenant Governor of Ontario]] from 2002 to 2007, listed the encouragement of Indigenous young people as one of his key priorities. During his term, he launched initiatives to promote literacy and bridge-building. Bartleman was the first Aboriginal person to be lieutenant governor in Ontario.
+
+In 2006, 76 First Nations communities had [[boil-water advisory]] conditions.<ref>{{cite news|title=Water still a problem on 76 reserves |url=https://www.cbc.ca/news/canada/water-still-a-problem-on-76-reserves-1.605364 |publisher=[[Canadian Broadcasting Corporation]] |date=February 20, 2006 |access-date=July 1, 2007  |url-status=live |archive-url=https://web.archive.org/web/20070813005820/http://www.cbc.ca/canada/story/2006/02/20/aboriginal-water060220.html |archive-date=August 13, 2007 }}</ref>
+In late 2005, the [[Water scarcity|drinking water crisis]] of the [[Kashechewan First Nation]] received national [[media of Canada|media]] attention when ''[[E. coli]]'' was discovered in their [[water supply system]], following two years of living under a boil-water advisory. The [[drinking water]] was supplied by a new [[Water treatment|treatment plant]] built in March 1998. The cause of the tainted water was a plugged chlorine injector that was not discovered by local operators, who were not qualified to run the treatment plant. When officials arrived and fixed the problem, [[chlorine]] levels were around 1.7&nbsp;mg/L, which was blamed for [[Skin disease|skin disorders]] such as [[impetigo]] and [[scabies]]. An investigation led by [[Health Canada]] revealed that skin disorders were likely due to living in squalor. The evacuation of Kashechewan was largely viewed by Canadians as a cry for help for other underlying social and economic issues that Aboriginal people in Canada face.
+
+On June 29, 2007, Canadian Aboriginal groups held countrywide protests aimed at ending First Nations poverty, dubbed the [[Aboriginal Day of Action]]. The demonstrations were largely peaceful, although groups disrupted transportation with blockades or bonfires; a stretch of the [[Highway 401 (Ontario)|Highway 401]] was shut down, as was the [[Canadian National Railway]]'s line between [[Toronto]] and Montreal.<ref>{{cite news
+ |last=Sibonney
+ |first=Claire
+ |title=Poverty the focus of Canada-wide native protests
+ |url=http://www.canada.com/topics/news/national/story.html?id=bd61f2dd-0a80-4fc9-af3f-01698fb6e099&k=90824
+ |agency=Reuters
+ |date=June 29, 2007
+ |access-date=July 1, 2007
+ 
+ |archive-url=https://web.archive.org/web/20071016172727/http://canada.com/topics/news/national/story.html?id=bd61f2dd-0a80-4fc9-af3f-01698fb6e099&k=90824
+ |archive-date=October 16, 2007
+}}</ref>
+
+The [[Idle No More]] [[Social movement|protest movement]] originated among the Aboriginals in  Canada and their non-Aboriginal supporters in Canada, and to a lesser extent, internationally. It consisted of a number of political actions worldwide, inspired in part by the [[hunger strike]] of [[Attawapiskat First Nation]] Chief [[Theresa Spence]]<ref name=Raveena>{{cite news|last=Aulakh|first=Raveena|title=Chief Theresa Spence's hunger strike has full backing of Attawapiskat residents|url=https://www.thestar.com/news/canada/politics/article/1306869--chief-theresa-spence-s-hunger-strike-has-full-backing-of-attawapiskat-residents|work=theStar.com|access-date=December 27, 2012|location=Toronto|date=December 25, 2012}}</ref> and further coordinated via [[social media]]. A reaction to alleged abuses of Indigenous [[treaty rights]] by the federal government, the movement took particular issue with the [[omnibus bill]] Bill C-45.<ref>[http://www.parl.gc.ca/HousePublications/Publication.aspx?Language=E&Mode=1&DocId=5942521&File=4 Bill C-45] was part of the [[41st Canadian Parliament#Omnibus bills|41st Canadian Parliament Omnibus bills]] and was a "second Act to implement certain provisions of the budget tabled in Parliament on March 29, 2012, and other measures." Bill C-45 was assented to on December 14, 2012.</ref><ref>{{cite web|title=History of Idle No More |date=December 23, 2012 |url=http://idlenomore1.blogspot.ca/p/background-on-idle-no-more.html  |archive-url=https://web.archive.org/web/20130113101803/http://idlenomore1.blogspot.ca/p/background-on-idle-no-more.html |archive-date=January 13, 2013 }}</ref>
+
+==Canadian Crown and First Nations relations==
+{{Main|The Canadian Crown and Indigenous peoples of Canada}}
+[[File:David Laird explaining Treaty 8 Fort Vermilion 1899 - NA-949-34.jpg|thumb|upright|[[David Laird]] explaining<br /> terms of Treaty 8, [[Fort Vermilion]], 1899]]
+The relationship between the Canadian Crown and the First Nations, Inuit, and Métis peoples stretches back to the [[Timeline of colonization of North America|first interactions]] between European colonialists and North American Indigenous people. Over centuries of interaction, [[Treaty|treaties]] were established, and First Nations have, like the [[Māori people|Māori]] and the [[Treaty of Waitangi]] in New Zealand, come to generally view these agreements as being between them and the Crown of Canada, and not the ever-changing governments.<ref>{{cite news|url=https://www.thestar.com/comment/article/220171|last=Mainville|first= Sara|work=Toronto Star|title=Lawsuits, treaty rights and the sacred balance|date= June 1, 2007|access-date=October 9, 2009}}</ref>
+
+The associations exist between the Aboriginal peoples and the reigning [[Title and style of the Canadian monarch|monarch of Canada]]; as was stated in the proposed First Nations{{spaced ndash}}Federal Crown Political Accord: "cooperation will be a cornerstone for partnership between Canada and First Nations, wherein Canada is the short-form reference to Her Majesty the Queen in Right of Canada".<ref name=FN /> These relations are governed by the established treaties; the [[Supreme Court of Canada|Supreme Court]] stated that treaties "served to reconcile pre-existing Aboriginal sovereignty with assumed Crown sovereignty, and to define Aboriginal rights",<ref name=FN>{{cite web|url=http://www.afn.ca/cmslib/general/PolAcc.pdf |title=A First Nations – Federal Crown Political Accord on the Recognition and Implementation of First Nation Governments |publisher=Assembly of First Nations and Government of Canada |access-date=October 9, 2009  |archive-url=https://web.archive.org/web/20100816041503/http://www.afn.ca/cmslib/general/PolAcc.pdf |archive-date=August 16, 2010 }}</ref> and the First Nations saw these agreements as meant to last "as long as the sun shines, grass grows and rivers flow".
+
+===Taxation===
+Although taxes are not specifically addressed in the written terms of any treaties, assurances regarding taxation were clearly offered when at least some treaties were negotiated.<ref>See Richard H. Bartlett, ''Indians and Taxation in Canada'', 3d ed.(Saskatoon: Native Law Centre, 1992) pp. 1–14.</ref>
+
+The various statutory exemptions from taxation are established under the ''[[Indian Act]]'', which reads:
+
+{{blockquote|{{unbulleted list
+|87(1). Notwithstanding any other Act of Parliament or any Act of the legislature of a province ... the following property is exempt from taxation{{unbulleted list|item_style=margin-left:4em
+|(a) the interest of an Indian or a band in reserve lands or surrendered lands; and
+|(b) the personal property of an Indian or a band situated on a reserve.}}
+|87(2). No Indian or band is subject to taxation in respect of the ownership, occupation, possession or use of any property mentioned in paragraph (1)(a) or (b) or is otherwise subject to taxation in respect of any such property.<ref>R.S.C. 1985, c. I-5 ''[Indian Act]''. Web: {{cite web|url=http://laws-lois.justice.gc.ca/eng/acts/I-5/ |title=Indian Act |access-date=February 7, 2013  |archive-url=https://web.archive.org/web/20130216033916/http://laws-lois.justice.gc.ca/eng/acts/I-5/ |archive-date=February 16, 2013 }}</ref>}}}}
+
+Many scholars<ref>Joel Oliphant, "Taxation and Treaty Rights: Benoit v. Canada's Historical Context and Impact" (2003) 29 Man. L.J. 343.</ref><ref>John Borrows, "The Supreme Court, Citizenship and the Canadian Community: the Judgments of Justice La Forest" in Rebecca Johnson et al., eds., Gérard V. La Forest at the Supreme Court of Canada 1985–1997 (Ottawa: Supreme Court of Canada Historical Society, 2000) 243 at 261–64.</ref> believe these exemptions serve to oppress Aboriginal peoples by allowing conservative-minded courts to impart their own (sometimes discriminatory) views into the Aboriginal taxation jurisprudence. As one professor wrote:
+
+{{blockquote|[Because] income-generating activity in the "commercial mainstream" contrasts with income-generating activity that is "intimately connected to" the reserve ... [the] Tax Court of Canada implie[s] that the "traditional way of life" of Aboriginal peoples d[oes] not embrace "economic aspects" ... beyond a subsistence economy. [footnotes omitted]<ref>{{cite journal|last=MacIntosh|first=Constance|title=From Judging Culture to Taxing 'Indians': Tracing the Legal Discourse of the 'Indian Mode of Life'|journal=Osgoode Hall Law Journal|date=27 June 2009|volume=47|issue=3 |page=339|doi=10.60082/2817-5069.1137 |ssrn=2094598|s2cid=142612068 |doi-access=free}}</ref>}}
+
+===Political organization===
+{{Main|First Nations government (Canada)|List of First Nations governments}}
+Self-government has given chiefs and their councils powers which combine those of a province, school board, health board and municipality. Councils are also largely self-regulating regarding utilities, environmental protection, natural resources, building codes, etc. There is concern that this wide-ranging authority, [[Separation of powers|concentrated in a single council]], might be a cause of the dysfunctional governments experienced by many First Nations.<ref>{{cite web
+ | last = Graham
+ | first = John
+ | title = The First Nation Governance System: A Brake on Closing the Community Well-being Gap
+ | publisher = Institute on Governance
+ | date = April 2010
+ | url = http://ag-bus-uic-2030-050.yolasite.com/resources/Reading%208%20-%20PolicyBrief36.pdf
+ | access-date = July 17, 2011}}</ref>
+
+[[File:Ovide Mercredi.JPG|thumb|upright|alt="Ovide Mercredi speaking to the media"|[[Ovide Mercredi]], former national chief of the [[Assembly of First Nations]]]]
+
+The [[Assembly of First Nations]] (AFN) is a body of First Nations leaders in Canada. The aims of the organization are to protect the rights, treaty obligations, ceremonies, and claims of citizens of the First Nations in Canada.
+
+After the failures of the League of Indians in Canada in the [[interwar period]] and the North American Indian Brotherhood in two decades following the Second World War, the Aboriginal peoples of Canada organised themselves once again in the early 1960s. The National Indian Council was created in 1961 to represent Indigenous people, including treaty/status Indians, non-status people, the Métis people, though not the Inuit.<ref name="afnstory">{{cite web|title=Assembly of First Nations – The Story |url=http://www.afn.ca/article.asp?id=59 |access-date=October 9, 2009  |archive-url=https://web.archive.org/web/20090802164225/http://www.afn.ca/article.asp?id=59 |archive-date=August 2, 2009 }}</ref> This organization  collapsed in 1968 as the three groups failed to act as one, so the non-status and Métis groups formed the Native Council of Canada and treaty/status groups formed the National Indian Brotherhood (NIB), an [[Umbrella organization|umbrella group]] for provincial and territorial First Nations organizations.
+
+==Culture==
+{{See also|Mythologies of the Indigenous peoples of the Americas|Classification of the Indigenous peoples of the Americas}}
+[[National Indigenous Peoples Day]], formerly ''National Aboriginal Day'', June 21, recognizes the cultures and contributions of Aboriginal peoples of Canada.<ref name=history>{{cite web|url=http://dsp-psd.pwgsc.gc.ca/Collection/R32-179-2000E.pdf|title=National Aboriginal Day History|work=Indian and Northern Affairs Canada | access-date = October 18, 2009}}</ref> There are currently over 600 recognized [[List of First Nations peoples|First Nations governments or bands]] encompassing 1,172,790 <sup>2006</sup> people spread across Canada with distinctive Aboriginal cultures, languages, art, and music.<ref name="one"/><ref name="Aboriginal Identity 2006 Census">{{cite web
+ | title = Aboriginal Identity (8), Sex (3) and Age Groups (12) for the Population of Canada, Provinces, Territories, Census Metropolitan Areas and Census Agglomerations, 2006 Census – 20% Sample Data
+ | work = [[Canada 2006 Census]] data products
+ | publisher = Statistics Canada, Government of Canada
+ | date = June 12, 2008
+ | url = http://www12.statcan.ca/english/census06/data/topics/RetrieveProductTable.cfm?ALEVEL=3&APATH=3&CATNO=&DETAIL=0&DIM=&DS=99&FL=0&FREE=0&GAL=0&GC=99&GK=NA&GRP=1&IPS=&METH=0&ORDER=1&PID=89122&PTYPE=88971&RL=0&S=1&ShowAll=No&StartRow=1&SUB=0&Temporal=2006&Theme=73&VID=0&VNAMEE=&VNAMEF=&GID=837928
+ | access-date = September 18, 2009
+ | archive-date = April 20, 2009
+ | archive-url = https://web.archive.org/web/20090420121815/http://www12.statcan.ca/english/census06/data/topics/RetrieveProductTable.cfm?ALEVEL=3&APATH=3&CATNO=&DETAIL=0&DIM=&DS=99&FL=0&FREE=0&GAL=0&GC=99&GK=NA&GRP=1&IPS=&METH=0&ORDER=1&PID=89122&PTYPE=88971&RL=0&S=1&ShowAll=No&StartRow=1&SUB=0&Temporal=2006&Theme=73&VID=0&VNAMEE=&VNAMEF=&GID=837928
+ | url-status = dead
+ }}</ref><ref name="three">{{cite web
+ | title = Civilization.ca-Gateway to Aboriginal Heritage-object
+ | publisher = Canadian Museum of Civilization Corporation
+ | date = May 12, 2006
+ | url = http://www.civilization.ca/cmc/exhibitions/tresors/ethno/etb0000e.shtml
+ | access-date = October 2, 2009}}
+</ref>
+
+===Languages===
+{{Main|Spoken languages of Canada#Aboriginal languages}}
+
+Today, there are over thirty different languages spoken by Indigenous people, most of which are spoken only in Canada. Many are in decline. Those with the most speakers include [[Anishinaabe language|Anishinaabe]] and [[Cree language|Cree]] (together totalling up to 150,000 speakers); [[Inuktitut]] with about 29,000 speakers in the [[Northwest Territories]], [[Nunavut]], Nunavik (Northern Quebec), and [[Nunatsiavut]] (Northern Labrador); and [[Mi'kmaq language|Mi'kmaq]], with around 8,500 speakers, mostly in Eastern Canada. Many Aboriginal peoples have lost their native languages and often all but surviving elders speak English or French as their first language.<ref name="online">{{Cite book
+ | last = Gordon
+ | first = Raymond G. Jr
+ | title = Ethnologue: Languages of the world
+ | edition=15
+ | publisher = [[SIL International]]
+ | location=Dallas, TX
+ | year = 2005
+ | url = http://www.ethnologue.com
+ | isbn=1-55671-159-X
+ | access-date =October 9, 2009 }}
+</ref>
+
+Two of Canada's territories give official status to native languages. In [[Nunavut]], Inuktitut and [[Inuinnaqtun]] are official languages alongside English and French, and Inuktitut is a common vehicular language in government. In the Northwest Territories, the ''Official Languages Act''<ref>{{cite web|url=http://www.justice.gov.nt.ca/PDF/ACTS/Official_Languages.pdf |title=Official Languages Act |publisher=Government of Canada |work=Justice Canada |access-date=October 9, 2009  |archive-url=https://web.archive.org/web/20090324214716/http://www.justice.gov.nt.ca/PDF/ACTS/Official_Languages.pdf |archive-date=March 24, 2009 }}</ref> declares that there are eleven different languages: [[Dene Suline language|Chipewyan]], [[Cree language|Cree]], English, [[French language|French]], [[Gwich'in language|Gwich'in]], [[Inuinnaqtun]], [[Inuktitut]], [[Inuvialuktun]], North [[Slavey language|Slavey]], South Slavey and [[Dogrib language|Tłįchǫ]]. Besides English and French, these languages are not vehicular in government; official status entitles citizens to receive services in them on request and to deal with the government in them.<ref name="online"/>
+
+===Art===
+{{Main|Visual arts by Indigenous peoples of the Americas}}
+[[File:Totem haida.jpg|thumb|right|[[Haida people|Haida]] totem pole, Thunderbird Park, Victoria, British Columbia]]
+First Nations were producing art for thousands of years before the arrival of European [[Settler colonialism|settler colonists]] and the eventual establishment of Canada as a [[nation state]]. Like the people who produced them, Indigenous art traditions spanned territories across North America. Indigenous art traditions are organized by art historians according to cultural, linguistic or regional groups: Northwest Coast, [[Plateau First Nations|Plateau]], [[Plains Indians|Plains]], [[Eastern Woodlands tribes|Eastern Woodlands]], Subarctic, and Arctic.<ref name="art" />
+
+Art traditions vary enormously amongst and within these diverse groups. Indigenous art, with a focus on portability and the body, is distinguished from European traditions and their focus on architecture. Indigenous visual art may be used in conjunction with other arts. [[Shamanism among Eskimo peoples|Shaman]]s' [[Masks among Eskimo peoples|masks]] and rattles are used ceremoniously in dance, storytelling and music.<ref name="art" >{{cite book|last1=Hessel|first1=Ingo|last2=Hessel|first2=Dieter|title=Inuit Art|trans-title=An introduction. foreword by George Swinton|year=1998|publisher=[[British Museum]] Press|location=London, UK|isbn=0-7141-2545-8}}</ref>
+Artworks preserved in museum collections date from the period after European contact and show evidence of the creative adoption and adaptation of European trade goods such as metal and glass beads.<ref>{{cite encyclopedia|url=https://www.thecanadianencyclopedia.ca/en/article/aboriginal-art-in-canada/|title=Aboriginal art in Canada|encyclopedia=The Canadian Encyclopedia|access-date=September 9, 2019}}</ref><ref name="Hempstead2010">{{cite book|author=Andrew Hempstead|title=Moon Alberta: Including Banff, Jasper & the Canadian Rockies|url=https://books.google.com/books?id=U3U-WpBsL80C&pg=PA477|date=May 11, 2010|publisher=Avalon Travel|isbn=978-1-59880-371-6|page=477}}</ref> During the 19th and the first half of the 20th century the Canadian government pursued an active policy of [[Forced assimilation|forced]] and [[cultural assimilation]] toward Indigenous peoples. The ''Indian Act'' banned manifestations of  the [[Sun Dance]], the [[Potlatch]], and works of art depicting them.<ref name="IA1880">{{cite book
+|title=An Act further to amend "The Indian Act, 1880"
+|edition=47 Vict.
+|series=3
+|year=1884
+|location=S.C.
+|chapter=17 An Act to amend "The Indian Act, 1880
+|chapter-url=http://www.ainc-inac.gc.ca/ai/arp/ls/pubs/d81c17/d81c17-eng.asp
+|publisher=Government of Canada
+|access-date=October 18, 2009
+|archive-date=June 13, 2011
+|archive-url=https://web.archive.org/web/20110613180222/http://www.ainc-inac.gc.ca/ai/arp/ls/pubs/d81c17/d81c17-eng.asp
+}}</ref>
+
+It was not until the 1950s and 1960s that Indigenous artists such as [[Mungo Martin]], [[Bill Reid]], and [[Norval Morrisseau]] began to publicly renew and re-invent Indigenous art traditions. Currently, Indigenous artists are practising in all media in Canada, and two Indigenous artists, [[Edward Poitras]] and [[Rebecca Belmore]], have represented Canada at the [[Venice Biennale]] in 1995 and 2005 respectively.<ref name="art" />
+
+===Music===
+[[File:2000 Eel Ground Pow-wow Dancer.jpg|thumb|upright|[[Powwow|Pow-wow]] at Eel Ground First Nation]]
+{{Main|Indigenous music of Canada}}
+{{See also|Blackfoot music|Iroquois music| Kwakwaka'wakw music}}
+The First Nations peoples of Canada comprise diverse ethnic groups, each with their own musical traditions. There are general similarities in the music, but is usually social (public) or ceremonial (private). Public, social music may be [[dance music]] accompanied by [[Rattle (percussion instrument)|rattles]] and [[drum]]s. Private, ceremonial music includes vocal songs with accompaniment on [[Percussion instrument|percussion]], used to mark occasions like Midewiwin ceremonies and Sun Dances.
+
+Traditionally, Aboriginal peoples used the materials at hand to make their instruments for centuries before Europeans immigrated to Canada.<ref name="second">{{Cite book
+ | last = Patterson
+ | first = Nancy-Lou
+ | author-link=Nancy-Lou Patterson
+ | title = Canadian native art; arts and crafts of Canadian Indians and Eskimos
+ | publisher = Collier-Macmillan
+ | year = 1973
+ | location = Don Mills, Ontario
+ | isbn = 0-02-975610-3}}
+</ref> First Nations people made [[gourd]]s and animal [[Horn (anatomy)|horns]] into rattles, which were elaborately carved and beautifully painted.<ref>{{Cite book |last=Nettl |first=Bruno |date= 1956 |title=Music in primitive culture |publisher=Harvard University Press |isbn=978-0674590007 |pages=96–7 |url=https://archive.org/details/musicinprimitive0000nett_y7y5/page/96/mode/1up |access-date=13 August 2024 }}
+</ref> In woodland areas, they made horns of [[birch bark]] and [[Percussion mallet|drumsticks]] of carved [[antler]]s and wood. Traditional [[percussion instruments]] such as drums were generally made of carved wood and animal [[Hide (skin)|hides]].<ref name="Firsts">{{cite web
+ | title = Welcome to the Music, Dance and Culture of First Nations People, Métis and Inuit of Canada
+ | work = Veterans Affairs Canada Canada Remembers Features Aboriginal Spiritual Journey
+ | publisher = Government of Canada
+ | date = January 11, 2005
+ | url = http://www.vac-acc.gc.ca/remembers/sub.cfm?source=feature/abspirit/abback/ab_ceremony_program
+ | access-date = October 9, 2009
+  }}{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes }}  Canadian Government section on First Nation music and dance</ref> These [[musical instrument]]s provide the background for songs, and songs are the background for dances. Traditional First Nations people consider song and dance to be sacred. For years after Europeans came to Canada, First Nations people were forbidden to practice their ceremonies.<ref name="IA1880"/><ref name="second" />
+
+==Demographics==
+{{Further|List of First Nations peoples|List of Indian reserves in Canada}}
+
+In 1822, the Indian population in Canada, excluding the Métis, was estimated as 283,500 individuals<ref name="Hassel">{{cite book |last1=Hassel |first1=Georg |url=https://www.digitale-sammlungen.de/de/view/bsb10326198?page=63 |title=Statistischer Umriß der sämmtlichen europäischen und der vornehmsten außereuropäischen Staaten, in Hinsicht ihrer Entwickelung, Größe, Volksmenge, Finanz- und Militärverfassung, tabellarisch dargestellt; Zweiter Heft... |publisher=Verlag des Geographischen Instituts Weimar |year=1824 |page=59}}</ref> and in 1885 it was estimated as 127,952 people (plus 4,000 Inuit).<ref>{{Cite book |last=Donaldson |first=Thomas |url=https://repository.si.edu/items/8e9c9515-3c83-4b75-94c1-ca6c60dbc838 |title=The George Catlin Indian Gallery in the U.S. National Museum |publisher=Government Printing Office |year=1886 |location=Washington |pages=910–915}}</ref> In the 20th century, the First Nations population of Canada increased tenfold.<ref name="statcan_aboriginal_demographics">{{cite web | title=Aboriginal peoples of Canada: A demographic profile | url=http://www12.statcan.ca/english/census01/Products/Analytic/companion/abor/canada.cfm | work=Statistics Canada Analysis series : Aboriginal peoples of Canada | publisher=Government of Canada | access-date=May 14, 2008 | archive-date=May 17, 2008 | archive-url=https://web.archive.org/web/20080517064517/http://www12.statcan.ca/english/census01/products/analytic/companion/abor/canada.cfm/ | url-status=dead }}</ref> Between 1900 and 1950 the population grew only by 29% but after the 1960s the [[infant mortality]] level on reserves dropped and the population grew by 161%. Since the 1980s, the number of First Nations babies more than doubled and currently almost half of the First Nations population is under the age of 25. As a result, the First Nations population of Canada is expected to increase in the coming decades.<ref name="statcan_aboriginal_demographics" />
+
+In 2021, there were 1,807,250 Aboriginal people in Canada, accounting for 5.0% of the total population. This was up from 4.9% in 2016.<ref>{{Cite web|last=Government of Canada|first=Statistics Canada|date=2022-09-21|title=Indigenous population continues to grow and is much younger than the non-Indigenous population, although the pace of growth has slowed|url=https://www150.statcan.gc.ca/n1/daily-quotidien/220921/dq220921a-eng.htm|access-date=2022-10-12|website=www150.statcan.gc.ca}}</ref>
+{{Canada provinces map|align=right|prefix =First Nations in|QC =Aboriginal peoples in Quebec|caption=First Nations by province or territory}}
+There are distinct First Nations in Canada, originating across the country. [[Indian reserve]]s, established in [[Law of Canada|Canadian law]] by treaties such as [[Treaty 7]], are the very limited contemporary lands of First Nations recognized by the non-Indigenous governments. A few reserves exist [[Urban Indian reserve|within cities]], such as the Opawikoscikan Reserve in [[Prince Albert, Saskatchewan|Prince Albert]], [[Wendake, Quebec|Wendake]] in Quebec City or [[Enoch Cree Nation 135]] in the [[Edmonton Metropolitan Region]]. There are more [[List of Indian reserves in Canada|reserves in Canada]] than there are First Nations, as First Nations were ceded multiple reserves by treaty.
+
+[[File:Canada ethnic origin map 2021.png|thumb|left|upright|People who self-identify as having North American Indian ancestors are the [[Plurality (voting)|plurality]] in large areas of Canada (areas coloured in brown and tan).]]
+First Nations can be [[Classification of the Indigenous peoples of the Americas|grouped into cultural areas]] based on their ancestors' primary [[Types of societies|lifeway]], or occupation, at the time of European contact. These culture areas correspond closely with [[geography of Canada|physical and ecological]] [[List of regions of Canada|regions of Canada]].<ref name="three"/>
+
+[[Ethnography|Ethnographers]] commonly classify Indigenous peoples of the Americas in the United States and Canada into ten geographical regions with shared cultural traits (called ''[[cultural area]]s'').<ref>{{cite web|url=http://www.civilization.ca/cmc/exhibitions/tresors/ethno/etb0170e.shtml |title=Culture Areas Index|publisher=Government of Canada|date=May 12, 2006 |work=the Canadian Museum of Civilization|access-date=October 9, 2009}}</ref> The Canadian (in whole or in part) regions are [[Arctic]], [[Indigenous peoples of the Subarctic|Subarctic]], Northeast [[Indigenous peoples of the Northeastern Woodlands|Woodlands]], [[Plains Indians|Plain]]s, and [[Indigenous peoples of the Northwest Plateau|Plateau]]. See the individual article on each [[tribe]], [[band society]] or [[First Nations government (Canada)|First Nation]].
+
+The Indigenous peoples of the Pacific Northwest Coast communities centred around ocean and river fishing; in the [[British Columbia Interior|interior of British Columbia]], hunting and gathering and river fishing. In both of these areas, salmon was of chief importance. For the people of the plains, [[bison]] hunting was the primary activity. In the [[taiga|subarctic forest]], other species such as the moose were more important. For people near the Great Lakes and the St. Lawrence River, [[shifting agriculture]] was practised, including the raising of maize, beans, and squash.<ref name="three" />
+
+Today, Aboriginal people work in a variety of occupations and live outside their ancestral homes. The traditional cultures of their ancestors, shaped by nature, still exert a strong influence on their culture, from spirituality to political attitudes.<ref name="three" />
+{{table alignment}}
+{| class="wikitable sortable defaultright col1left"
+|+First Nations (North American Indian) population in Canada by region in selected censuses
+!Province / territory
+!1885
+!1921
+!1931
+!1941
+!1951
+!1961
+!1971
+!1981
+!1996
+!2011
+!2016
+!2021<ref name=INSTAT>{{Cite book |title=ISC/CIRNAC's 2021 Census Core Table 1. Prepared by Strategic Research and Statistics Directorate |publisher=INSTAT. Record ID: ENQ-021722}}</ref><ref name=CIRNAC>{{Cite web |title=CIRNAC - First Nations|url=https://www.rcaanc-cirnac.gc.ca/eng/1100100013791/1535470872302|website=www.rcaanc-cirnac.gc.ca}}</ref>
+|-
+|[[Newfoundland and Labrador]]
+| 1,000
+| -
+| -
+| -
+|358
+|596
+|1,225
+|3,230
+|5,430
+|19,315
+|28,375
+|32,070
+|-
+|[[Prince Edward Island]]
+|292
+|235
+|233
+|258
+|257
+|236
+|315
+|440
+|825
+|1,520
+|1,875
+|2,395
+|-
+|[[Nova Scotia]]
+|2,197
+|2,048
+|2,191
+|2,063
+|2,717
+|3,267
+|4,475
+|6,305
+|11,340
+|21,895
+|25,830
+|30,550
+|-
+|[[New Brunswick]]
+|1,524
+|1,331
+|1,685
+|1,939
+|2,255
+|2,921
+|3,915
+|4,610
+|9,180
+|16,120
+|17,575
+|22,685
+|-
+|[[British Columbia]]
+|39,011
+|22,377
+|24,599
+|24,875
+|28,478
+|38,789
+|52,220
+|64,695
+|113,315
+|155,020
+|172,520
+|191,860
+|-
+|[[Quebec]]
+| rowspan="8" |83,928<br>{{Refn|This number included 33,959 in Manitoba and the Northwest Territories (within the boundaries of that time), 16,892 in Ontario, 12,023 in Quebec, 8,000 in Athabaska District, 7,000 in McKenzie District, 4,016 in Eastern Rupert's Land and 2,038 in Peace River District.|group=Note}}
+|11,566
+|12,312
+|11,863
+|14,631
+|18,876
+|32,835
+|46,855
+|47,600
+|82,420
+|92,655
+|131,515
+|-
+|[[Ontario]]
+|26,654
+|30,368
+|30,336
+|37,370
+|47,862
+|62,415
+|83,860
+|118,830
+|201,105
+|236,685
+|272,015
+|-
+|[[Manitoba]]
+|13,869
+|15,417
+|15,473
+|21,024
+|29,219
+|43,035
+|59,920
+|82,990
+|114,225
+|130,510
+|140,680
+|-
+|[[Saskatchewan]]
+|12,914
+|15,268
+|13,384
+|22,250
+|30,628
+|40,475
+|54,720
+|75,205
+|103,205
+|114,570
+|125,315
+|-
+|[[Alberta]]
+|14,557
+|15,258
+|12,565
+|21,163
+|28,469
+|44,545
+|60,005
+|72,645
+|116,670
+|136,590
+|157,150
+|-
+|[[Yukon]]
+|1,390
+|1,543
+|1,508
+|1,533
+|2,167
+|2,580
+|3,415
+|5,530
+|6,590
+|6,690
+|7,245
+|-
+|[[Northwest Territories]]
+|3,873
+|4,046
+|4,052
+|3,838
+|5,256
+|7,180
+|7,635
+|11,400
+|13,345
+|13,180
+|13,295
+|-
+|[[Nunavut]]
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|130
+|190
+|235
+|-
+!Canada total
+!127,952
+!110,814
+!122,920
+!118,316
+!155,874
+!208,286
+!295,215
+!395,690
+!554,290
+!851,560
+!977,235
+!1,127,010
+|}
+{{Reflist|group=Note}}
+
+==Contemporary issues==
+First Nations peoples face a number of problems to a greater degree than Canadians overall, some with living conditions comparable to [[developing countries]] like [[Haiti]].<ref>{{cite web |last=O'Neil |first=Peter |url=http://blogs.vancouversun.com/2011/11/24/a-canadian-community-compared-to-haiti-at-minus-40c/ |title=A Canadian community compared to Haiti – at minus-40C &#124; Vancouver Sun |work=Vancouver Sun |publisher=Blogs.vancouversun.com |access-date=February 9, 2013 |date=November 25, 2011 |archive-date=4 February 2013 |archive-url=https://web.archive.org/web/20130204040618/http://blogs.vancouversun.com/2011/11/24/a-canadian-community-compared-to-haiti-at-minus-40c/ |url-status=dead }}</ref><ref>{{cite news|url=https://www.thestar.com/opinion/editorials/article/1095160--stop-the-blame-game |title=Stop the blame game &#124; Toronto Star |work=Thestar.com |date=November 30, 2011 |access-date=January 24, 2014}}</ref> Indigenous peoples have higher rates of unemployment,<ref>{{cite web|url=http://www.indianz.com/News/2005/008747.asp|title=Natives in Canada suffer from high unemployment – June 14, 2005|publisher=Indianz.Com; Noble Savage Media, LLC; Ho-Chunk, Inc.|date=2000–2005|access-date=October 9, 2009 }}</ref> rates of incarceration,<ref>{{cite news|last=Gorelick|first=Melissa|url=http://findarticles.com/p/articles/mi_m1309/is_3_44/ai_n24217352|archive-url=https://web.archive.org/web/20080503134015/http://findarticles.com/p/articles/mi_m1309/is_3_44/ai_n24217352|url-status=usurped|archive-date=3 May 2008|title=Discrimination of Aboriginals on native lands in Canada: a comprehensive crisis – September 2007|work= UN Chronicle|issue=3|volume=44|access-date=October 9, 2009 | year=2007}}</ref> [[substance abuse]],<ref>{{cite web|url=http://www.hc-sc.gc.ca/fnih-spni/substan/ads/nnadap-pnlaada_e.html |title=Health Canada – National Native Alcohol and Drug Abuse Program |publisher=Government of Canada |date=March 6, 2006 |access-date=November 14, 2008  |archive-url=https://web.archive.org/web/20080506055231/http://www.hc-sc.gc.ca/fnih-spni/substan/ads/nnadap-pnlaada_e.html |archive-date=May 6, 2008 }}</ref> health problems, homelessness, [[fetal alcohol syndrome]],<ref>{{cite web|url=http://www.hc-sc.gc.ca/fniah-spnia/famil/preg-gros/intro-eng.php|title=Health Canada – First Nations, Inuit and Aboriginal Health – Fetal Alcohol Syndrome/Fetal Alcohol Effects|publisher=Government of Canada|date=February 23, 2012|access-date=January 29, 2015}}</ref> lower levels of education and higher levels of [[Poverty in Canada|poverty]].<ref>{{cite news|url=https://www.ctvnews.ca/poverty-to-blame-for-tb-among-aboriginals-experts-1.342651|archive-url=https://web.archive.org/web/20130301055301/http://www.ctvnews.ca/poverty-to-blame-for-tb-among-aboriginals-experts-1.342651|url-status=dead|archive-date=1 March 2013|title=Poverty to blame for TB among Aboriginals: experts|date=November 14, 2008|publisher=CTV News|access-date=November 14, 2008}}</ref><ref>{{cite web|url=http://www.hc-sc.gc.ca/fnih-spni/pubs/gen/stats_profil_e.html |title=Health Canada – Statistical Profile on the Health of First Nations in Canada |publisher=Government of Canada |access-date=October 9, 2009  |archive-url=https://web.archive.org/web/20080528220902/http://www.hc-sc.gc.ca/fnih-spni/pubs/gen/stats_profil_e.html |archive-date=May 28, 2008 }}</ref><ref>{{cite web|last=Jennissen|first=Therese |url=http://dsp-psd.pwgsc.gc.ca/Collection-R/LoPBdP/BP/bp325-e.htm#B.%20Peopletxt|title=Health issues in rural Canada – B. People of Aboriginal Origin|date=December 1992|work=Political and Social Affairs Division|publisher=Government of Canada |access-date=October 9, 2009}}</ref>
+
+=== Residential schools ===
+{{main|Canadian Indian residential school system|Residential school denialism}}
+
+{{excerpt|Canadian Indian residential school system|only=paragraphs|hat=no}}
+
+=== Employment ===
+The income of women with status living off-reserve was on average $13,870 a year, according to a 1996 Canadian census. This is about $5500 less than other Indigenous women, such as Inuit and Métis women, which recorded slightly higher average annual incomes; regardless of the small discrepancy, all of which are substantially less than Statistics Canada's estimated amount of which an individual living in a large Canadian city would require to meet their needs. It is not unlikely for Aboriginal women living in poverty to not only tend to their own needs, but often tend to the needs of their elderly parents, care for loved ones in ill-health, as well as raising children; all of which is often supported only on a single income. It is believed that homelessness and inadequate shelter are widespread problems facing Aboriginal families, in all settings.<ref name=":1" />
+
+=== Self governance ===
+A paramount conclusion by the Royal Commission on Aboriginal Peoples is that the repeated assaults on the culture and collective identity of the Aboriginal people have resulted in a weakened foundation of Aboriginal society and have contributed to the alienation that inevitably drives some to self-destructive and antisocial behaviour. The social problems among Aboriginal people are, in large measure, a legacy of history.<ref name=":1">{{Cite journal|url=https://courseware.mymru.ca/bbcswebdav/pid-2984811-dt-content-rid-8719626_1/courses/50730.201404/Amnesty%20International%20--%20Stolen%20Sisters.pdf |title=Stolen Sisters: A Human Rights Response to Discrimination and Violence Against Indigenous Women in Canada |last=Anonymous |date=Winter–Spring 2008 |journal=Canadian Woman Studies }}{{dead link|date=May 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+=== Crime and incarceration ===
+{{Further|Gladue report#Over-representation of Aboriginal People in Criminal Justice System|}}
+Aboriginals are also more likely to be the victims of crime. This is particularly true in the younger population (aged 15–34), where acts of violence are two and a half times more likely to occur than in the older population. Domestic violence and sexual abuse against children is more prevalent in the Aboriginal population with sexual abuse affecting 25–50% of Aboriginal female children versus 20–25% of female children in the general population.<ref name=":2">{{Cite web|url = http://www.justice.gc.ca/eng/rp-pr/cj-jp/victim/rd3-rr3/p3.html|title = Aboriginal Victimization in Canada: A Summary of the Literature|date = April 30, 2013|access-date = December 13, 2014|website = Victims of Crime Research Digest No. 3|publisher = Canada Department of Justice}}</ref> Children who come from homes with a history of violence are at a greater risk of becoming the perpetrators of violence later in life. This is especially true of males.<ref name=":2" />
+
+As of 2007, 17% of incarcerated individuals in Canada were of Aboriginal descent, despite representing only 2.7% of the general population.<ref>{{cite web|title=Aboriginal Corrections|url=http://www.csc-scc.gc.ca/aboriginal/index-eng.shtml|publisher=Correctional Service Canada|access-date=May 7, 2016|quote=At the end of March 2007, Aboriginal people accounted for 17.0% of federally sentenced offenders although the general Aboriginal population is only 2.7% of the Canadian adult population.|archive-url=https://web.archive.org/web/20160505194816/http://www.csc-scc.gc.ca/aboriginal/index-eng.shtml|archive-date=May 5, 2016}}</ref> This is a sixfold increase in rates of incarceration within the Aboriginal population as opposed to the general Canadian population.<ref name=":2" /> There are many reasons for the over-representation of Aboriginals within the Canadian justice system. Lack of education, poverty, unemployment and abuse all lead to higher crime rates. Also, statistically, Aboriginals have a greater chance of conviction and subsequently, incarceration once convicted. They are also much less likely to receive parole during their sentence.<ref name=":2" />
+
+=== Health ===
+The Canadian federal government is responsible for health and social services on the reserve and in Inuit communities, while the provincial and territorial governments provide services elsewhere. The divide between each level of government has led to a gap in services for Aboriginal people living off-reserve and in Canadian towns and cities. Although Aboriginal people living off-reserve have access to the programs and services designed for the general population, these programs and services do not address the specific needs of Aboriginal people, nor are they delivered in a [[culturally appropriate]] way. It has not been until recently that the Canadian federal government has had to increase recognition of the need for programs and services for Aboriginal people in predominantly non-Aboriginal communities. It is, however, funding that lags the growth of urban Aboriginal populations and the uncoordinated delivery of services through various government departments that would also pose a barrier. The federal Interlocutor for Métis and Non-Status Indians pointed out that in 2003, almost 90 percent of the funding for programs designed for Aboriginal peoples is spent on reserves, while off-reserve programs for Aboriginal people are delivered through just 22 federal departments, as well as other provincial and territorial agencies. The federal subcommittee on Indigenous child welfare described a "jurisdictional web" in which there is little to no coordination with or between municipal, provincial and federal levels of government,<ref name=":1" /> but in recognition of this issue, the funding of integrated programs to support the urban Aboriginal population has been seen as a case where [[policy#Horizontal|horizontal policy-making]] can be effective.<ref>Motsi, G., [https://www.files.ethz.ch/isn/108918/policybrief34.pdf Two Key Questions For Horizontal Policy Making & Implementation], Policy Brief No. 34, ''Institute on Governance'', page 3, published in 2009, accessed on 10 December 2025</ref>
+
+The health care services available to Aboriginal people are rarely delivered in a [[culturally sensitive]] approach. It is the constant cast of "the other" by the settler Canadian population that contaminates the delivery of such necessary services to Aboriginal peoples. It was argued by Ontario finance minister Jim Flaherty in 1992 that the Canadian government could boost health-care funding for "real people in real towns" by cutting the bureaucracy that serves only Aboriginal peoples. These types of statements, especially made by people often heard by a greater audience, are said to have detrimental and influential effects on the overall attitudes of the settler population, as well as Aboriginal peoples.<ref>{{Cite book|title = Conquest: Sexual Violence and American Indian Genocide|last = Smith|first = Andrea|publisher = South End Press|year = 2005|isbn = 978-0-89608-743-9|location = Cambridge, MA|page = 12}}</ref>
+
+==== Diabetes ====
+{{main|First Nations and diabetes}}
+There are marked differences between the epidemiology of diabetes in First Nation population compared to the general population. Reasons for the different rate of [[Type 2 diabetes|Type 2 Diabetes]] between First Nation and the general population include a complex combination of environmental (lifestyle, diet, poverty) and genetic and biological factors (e.g. [[Thrifty gene hypothesis|thrifty genotype hypothesis]], [[thrifty phenotype]])<ref>Pollard, T. M. (2008), ''Western Diseases: An Evolutionary Perspective''. Chapter 4: "The thrifty genotype versus thrifty phenotype debate: efforts to explain between population variation in rates of type 2 diabetes and cardiovascular disease". Cambridge: Cambridge University Press.</ref> – though to what extent each factor plays a role is still not clear.<ref name="10.1503/cmaj.090846">{{cite journal |first1=Roland |last1=Dyck |first2=Nathaniel |last2=Osgood |first3=Ting Hsiang |last3=Lin |first4=Amy |last4=Gao |first5=Mary Rose |last5=Stang |date=23 February 2010 |title=Epidemiology of diabetes mellitus among First Nations and non-First Nations adults |journal=Canadian Medical Association Journal |volume=182|issue=3|pages=249–256 |doi=10.1503/cmaj.090846 |pmid=20083562 |pmc=2826466 |url=https://www.cmaj.ca/content/cmaj/182/3/249.full.pdf}}</ref>
+
+The Aboriginal population in Canada (First Nations, Inuit and Métis) has a significantly higher prevalence rate of diabetes than the non-Aboriginal population. Age-standardized rates show that the prevalence of diabetes among First Nations individuals living on-reserve is 17.2%; First Nations individuals living off-reserve is 10.3%; Métis individuals 7.3%; and non-Aboriginal peoples at 5.0%. Aboriginal individuals are generally diagnosed at a younger age than non-Aboriginal individuals, and Aboriginal females experience higher rates of gestational diabetes than non-Aboriginal females. The complications and prevalence of diabetes are seen among the Aboriginal population more often than non-Aboriginal population. These may be attributed to the socio-cultural, biological, environmental and lifestyle changes seen in the First Nations, Inuit, and Métis populations, which have been most especially prevalent in the last half century, all of which contributing significantly to the increased rates of diabetes and the complications associated among the Aboriginal population.<ref>{{Cite web|url = http://www.phac-aspc.gc.ca/cd-mc/publications/diabetes-diabete/facts-figures-faits-chiffres-2011/highlights-saillants-eng.php#chp6|title = Diabetes in Canada: Facts and figures from a public health perspective|date = December 15, 2011|website = Statistics Canada|publisher = Public Health Agency of Canada}}</ref>
+
+==== Substance-use disorders ====
+First Nations in Canada engage in a  disproportionate amount of substance abuse. In Vancouver, Indigenous people were faced with almost 18 per cent of drug charges, but are just 2.2 per cent of the city's population. A much higher proportion of First Nations people engage in heavy drinking weekly (16%) as opposed to the general population (8%).<ref>{{Cite journal|last1=Spillane|first1=Nichea S.|last2=Greenfield|first2=Brenna|last3=Venner|first3=Kamilla|last4=Kahler|first4=Christopher W.|date=February 2015|title=Alcohol use among reserve-dwelling adult First Nation members: Use, Problems, and Intention to Change Drinking Behavior|journal=Addictive Behaviors|volume=41|pages=232–237|doi=10.1016/j.addbeh.2014.10.015|issn=0306-4603|pmc=4403763|pmid=25452070}}</ref> 19% of First Nations also reported cocaine and opiates use, higher than 13% of the general Canadian population that reported using opioids.<ref name=":5">{{Cite journal|last1=Firestone|first1=Michelle|last2=Smylie|first2=Janet|last3=Maracle|first3=Sylvia|last4=McKnight|first4=Constance|last5=Spiller|first5=Michael|last6=O'Campo|first6=Patricia|date=2015|title=Mental health and substance use in an urban First Nations population in Hamilton, Ontario|journal=Canadian Journal of Public Health |volume=106|issue=6|pages=e375–e381|issn=0008-4263|jstor=90005913|doi=10.17269/CJPH.106.4923|pmid=26680428|pmc=6972211}}</ref>
+
+==== Life expectancy ====
+[[Life expectancy]] at birth is significantly lower for First Nations babies than for babies in the Canadian population as a whole. {{As of|2021}}, Indian and Northern Affairs Canada estimates First Nations life expectancy to be 12.1 years shorter for males and 11 years shorter for females.<ref>{{cite web|url=http://www.hc-sc.gc.ca/fnih-spni/diseases-maladies/2005-01_health-sante_indicat_e.html |title=First Nations Comparable Health Indicators |work=Health Canada First Nations, Inuit & Aboriginal Health Diseases & Health Conditions |publisher=Government of Canada |date=March 16, 2007 |access-date=May 14, 2008  |archive-url=https://web.archive.org/web/20080512140346/http://www.hc-sc.gc.ca/fnih-spni/diseases-maladies/2005-01_health-sante_indicat_e.html |archive-date=May 12, 2008 }}</ref> Where females in the general population had a life expectancy at birth of 82 years, First Nations females had a life expectancy of 76 years. In males the life expectancy for First Nations individuals was 69 years as opposed to 77 in the general population.<ref>{{Cite web|url=http://www.aboriginalgba.ca/category.aspx?catid=119&rt=2 |title=Life Expectancy |date=2009 |access-date=December 13, 2014 |website=Our Voices: First Nations, Metis, and Inuit GBA  |archive-url=https://web.archive.org/web/20150211091413/http://aboriginalgba.ca/category.aspx?catid=119&rt=2 |archive-date=February 11, 2015 }}</ref> The reasons behind the lower life expectancy for First Nations individuals are varied and complex; however, [[social determinants of health]] are thought to play a large part.
+
+==== Suicide ====
+Overall, First Nations individuals have some of the highest rates of suicide globally. Suicide rates are more than twice the sex-specific rate and also three times the age-specific rates of non-Aboriginal Canadians.<ref>{{cite web|last=Robinson|first=B.A.|url=http://www.religioustolerance.org/sui_nati.htm|archive-url=https://archive.today/20130113104709/http://www.religioustolerance.org/sui_nati.htm|url-status=usurped|archive-date=13 January 2013|title=Suicide among Canada's First Nations|publisher=Ontario Consultants on Religious Tolerance|date= January 3, 2007 |access-date=October 9, 2009}}</ref> Residential Aboriginals between ages 10 and 29 show an elevated suicide risk as compared to non-residential Aboriginals by 5–6 times.<ref name=":0">{{Cite journal|title = Suicide Among Canadian Aboriginal Peoples|last = Kirmayer|first = Laurence J.|date = March 1994|journal = Transcultural Psychiatric Research Review|volume = 31|pages = 3–58|doi = 10.1177/136346159403100101|s2cid = 146137986}}</ref> One theory for the increased incidences of suicide within Aboriginal populations as compared to the general Canadian population is called acculturation stress which results from the intersection of multiple cultures within one's life. This leads to differing expectations and cultural clashes within the community, the family and the individual. At the community level, a general economic disadvantage is seen, exacerbated by unemployment and low education levels, leading to poverty, political disempowerment and community disorganization. The family suffers through a loss of tradition as they attempt to assimilate into mainstream Canadian culture. These lead to low self-esteem in the individual as First Nations culture and tradition are marginalized, affecting one's sense of self-identity. These factors combine to create a world where First Nations individuals feel they cannot identify completely as Aboriginal, nor can they fully identify as mainstream Canadians. When that balance cannot be found, many (particularly youths) turn to suicide as a way out.<ref name=":0" />
+
+==== Drinking water ====
+{{main|Long-term drinking water advisories}}
+400 First Nations communities in Canada had some kind of water problem between 2004 and 2014. The residents of [[Neskantaga First Nation]] in Ontario have had a boil-water advisory since 1995.<ref>Joanne Levasseur, Jacques Marcoux, [http://www.cbc.ca/news/canada/manitoba/bad-water-third-world-conditions-on-first-nations-in-canada-1.3269500 "Bad water: 'Third World' conditions on First Nations in Canada"], CBC News, October 14, 2015.</ref><ref>{{cite web|url=http://www.amnesty.ca/our-work/issues/indigenous-peoples/indigenous-peoples-in-canada/the-right-to-water|title=The Right to Water|work=Amnesty International Canada |date=October 18, 2012}}</ref> In 2015, newly elected Prime Minister [[Justin Trudeau]] promised to solve the drinking water problem within five years, by investing $1.8 billion.<ref>{{cite web|url=http://www.cbc.ca/news/politics/canada-election-2015-justin-trudeau-first-nations-boil-water-advisories-1.3258058|title=Trudeau vows to end First Nations reserve boil-water advisories within 5 years |publisher= CBC News}}</ref><ref>{{cite web|url=http://www.cbc.ca/news/politics/first-nations-orbis-infrastructure-water-consultants-budgets-1.3780760|title=Feds ask why First Nations projects over budget – Answer? The feds |publisher= CBC News}}</ref> As of October 2021, long-term boil water advisories are still present in 32 First Nations drinking water systems.<ref>{{Cite web |date=2021 |title=Map of long-term drinking water advisories on public systems on reserves |website=Government of Canada - Indigenous Services |url=https://www.sac-isc.gc.ca/eng/1620925418298/1620925434679 |access-date=7 October 2021 }}</ref>
+
+=== Land claims ===
+{{main|Indigenous land claims in Canada}}
+Across Canada, many First Nations have not signed treaties with the [[Canadian Crown]]. Many First Nations are in the process of negotiating a modern treaty, which would grant them [[treaty rights]].<ref name=":4">{{cite encyclopedia|url=https://www.thecanadianencyclopedia.ca/en/article/land-claims|title=Indigenous Land Claims|encyclopedia=[[The Canadian Encyclopedia]]|access-date=September 9, 2019}}</ref> Some First Nation bands are also trying to resolve their [[Indigenous specific land claims in Canada|historical grievances]] with the Canadian government. These grievances often originate from a breach of treaty obligations or of the ''Indian Act'' by the government of Canada. They can also involve mismanagement of Indigenous land or assets by the Crown.<ref name=":4" />
+
+===Missing and murdered women===
+{{main|Missing and murdered Indigenous women}}
+{{Further|AmINext|}}
+Across Canada, there has been a large number of missing and murdered Aboriginal women since 1980. 16% of female murder victims and 12% of missing women have been Aboriginal, while demographically they constitute only 4% of the overall female population. This amounts to almost 1,200 Aboriginal females either missing or murdered in just over 30 years.<ref>{{Cite news|url = https://www.theglobeandmail.com/globe-debate/its-time-for-canada-to-act-on-missing-and-murdered-aboriginal-women/article18638089/|title = It's time for Canada to act on missing and murdered aboriginal women|first=Meghan| last=Rhoad|date = May 13, 2014|access-date = November 21, 2014|website = Globe and Mail}}</ref>
+
+In 2014 the Royal Canadian Mounted Police (RCMP) released ''Missing and Murdered Aboriginal Women: A National Operational Review''. This publication documents the official findings of this demographic as well as advises for future change. It finds that there are 164 Aboriginal women still missing and 1,017 murdered, making for a total of 1,181.<ref name="Royal Canadian Mounted Police">{{Cite document|title = Missing and Murdered Aboriginal Women: A National Operational overview|date = 2014|publisher = Royal Canadian Mounted Police }}</ref> "There are 225 unsolved cases of either missing or murdered Aboriginal females: 105 missing for more than 30 days {{as of|2013|November|4|lc=y|df=US}}, whose cause of disappearance was categorized as 'unknown' or 'foul play suspected' and 120 unsolved homicides between 1980 and 2012."<ref name="Royal Canadian Mounted Police"/> Indigenous women in Canada are overrepresented among the missing and murdered females in Canada. Additionally, there are shared characteristics among these cases: most of the murders were committed by men and were someone the victim knew, either a partner or an acquaintance.<ref name="Royal Canadian Mounted Police"/> "Aboriginal women between the ages of 25 and 44 are 5 times more likely than other women of the same age to die as a result of violence."<ref name="KuokkanenGRSV">Rauna Kuokkanen. "[https://rauna.files.wordpress.com/2008/05/793277480_content.pdf]" 2008.</ref> These statistics portray the severity and prevalence of violence against Indigenous women in Canada.
+
+Self-governance and preservation of Indigenous territories become increasingly difficult as natural resources continue to be exploited by foreign companies. Projects such as "mining, logging, hydroelectric construction, large-scale export oriented agribusiness or oil exploration"{{attribution needed|date=June 2016}} are usually coupled with environmental degradation and occasionally violence and militarization."{{attribution needed|date=June 2016}}<ref name="KuokkanenGRSV"/> Many scholars go so far as to link the proliferation of global neoliberalism with a rise in violence.<ref name="KuokkanenGRSV"/> Women's concerns are nearly always pushed aside, to be addressed later; their safety is therefore often compromised and not deemed priority. Privatization of public services and reduction in the universality of health care produce negative repercussions for those of lower socioeconomic status in rural locations; these downsides are magnified for female Aboriginals.<ref name="KuokkanenGRSV"/>
+
+===Missing and murdered men===
+Approximately 2,500 Aboriginal people were murdered in Canada between 1982 and 2011, out of 15,000 murders in Canada overall. Of the 2,500 murdered aboriginal Canadians, fully 71 per cent{{snd}}1,750{{snd}}were male.<ref>{{Cite web|url = https://nationalpost.com/opinion/adam-jones-aboriginal-men-are-murdered-and-missing-far-more-than-aboriginal-women-a-proper-inquiry-would-explore-both|title = Adam Jones: Aboriginal men are murdered and missing far more than aboriginal women. A proper inquiry would explore both|date = April 27, 2015|access-date = September 18, 2016|website = National Post}}</ref>
+
+According to summaries of seven consultation sessions posted to a government website, the desire to dedicate some attention to violence against Indigenous men and boys has come up at four of the meetings.<ref name=MMAMglobeandmail02012016>{{Cite news|url = https://www.theglobeandmail.com/news/national/national-inquiry-should-not-study-violence-against-aboriginal-men-experts/article28498467/|title = National inquiry should not study violence against aboriginal men: experts|first=Kathryn Blake| last=Baum|date = February 1, 2016|access-date = September 18, 2016|website = The Globe and Mail}}</ref>
+
+These calls to extend the scope of the inquiry to include missing and murdered aboriginal people of all genders have met with resistance and been criticized as detracting from the current focus on the issue of missing and murdered aboriginal women. Barbara Bailey, who was on the UN team that visited Canada in 2013 to investigate the violence, has said, "I think to detract now would really be a tragedy. Let's fix that problem first and then we can begin to see what else is out there."
+
+Speaking on the matter, [[Minister of Crown-Indigenous Relations and Northern Affairs|Minister of Indigenous Affairs]], [[Carolyn Bennett]] has said, "Our mandate now is to get to the bottom of the tragedy of missing and murdered Indigenous women and girls in Canada", citing sexism as being of specific concern. [[Dawn Lavell-Harvard]], the president of the [[Native Women's Association of Canada]], has also weighed in on the issue by saying, "Absolutely [men] deserve the same amount of attention, just not necessarily in the same forum", neither that forum nor an equal level of attention have yet to materialize.<ref name=MMAMglobeandmail02012016 />
+
+==See also==
+{{Portal|Canada|Indigenous peoples of the Americas}}
+*[[Index of articles related to Indigenous Canadians]]
+* [[Declaration on the Rights of Indigenous Peoples]]
+* [[Indigenous law]]
+* [[International Work Group for Indigenous Affairs]]
+
+{{clear}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{main|Bibliography of Canadian Aboriginals}}
+{{Refbegin}}
+* {{Cite book |last1=Bell|first1=Catherine|last2=Paternson|first2=Robert K.|year =2009 |title =Protection of First Nations Cultural Heritage: Laws, Policy, and Reform |url =https://books.google.com/books?id=dri7rAWiVYsC&q=First%20Nations&pg=PP1 |publisher=UBC Press |isbn= 978-0-7748-1463-8}}
+* {{Cite book |last1=Bell|first1=Catherine|last2=Napoleon|first2=Val Napoleon |year =2008 |title =First Nations Cultural Heritage and Law: Case Studies, Voices, and Perspectives|url =https://books.google.com/books?id=avKUsA40Q0QC&q=First%20Nations&pg=PP1 |publisher=UBC Press |isbn=978-0-7748-1461-4  }}
+* {{Cite book|last=Cavell|first=Edward|year=2009|title=Classic Images of Canada's First Nations: 1850–1920|url=https://books.google.com/books?id=i-c-b_g6N7oC&q=First%20nations%20of%20canada&pg=PP1|publisher=Heritage House|isbn=978-1-894974-64-6}}
+* {{Cite book|last1=Comeau|first1=Pauline|last2=Santin|first2=Aldo|year=1995|title=The first Canadians: a profile of Canada's native people today|url=https://books.google.com/books?id=uesEO4uWlj0C&q=Court%20system%20of%20Canada&pg=PP1 |publisher=J. Lorimer |isbn= 1-55028-479-7}}
+* {{Cite book|last=Dickason|first=Olive Patricia|year=1992|title=Canada's first nations: a history of founding peoples from earliest times|url=https://books.google.com/books?id=M5KhH8l1ldMC&q=First%20nations%20of%20canada&pg=PP1|publisher=University of Oklahoma Press|isbn=0-8061-2438-5}}
+*{{Cite book | author = Flanagan, Thomas | title = First Nations?: Second Thoughts | edition=2 | publisher = McGill-Queen's University Press | year = 2008 | location = Montreal |url=https://books.google.com/books?id=dbmfPwAACAAJ&q=editions:uC1aeCIJGacC | isbn = 978-0-7735-3443-8}}
+*{{Cite book | last1 = Flanagan|first1=Thomas|last2=Le Dressay|first2=André Le Dressay |last3=Alcantara|first3=Christopher | title = Beyond the Indian Act: restoring Aboriginal property rights | publisher = McGill-Queen's University Press | year = 2010 | location = Montreal | isbn = 978-0-7735-3686-9}}
+*{{Citation
+ | last1 =Flanagan
+ | first1 =Thomas
+ | last2 =Jackson
+ | first2 =Taylor
+ | title =Bending the Curve: Recent Developments in Government Spending on First Nations
+ | publisher =Fraser Institute
+ | date =21 November 2017
+ | url =https://www.fraserinstitute.org/studies/bending-the-curve-recent-developments-in-government-spending-on-first-nations
+ | access-date =21 November 2017 }}
+*{{Cite book|last=Gibson|first=Gordon|title=A New Look at Canadian Indian Policy: Respect the Collective – Promote the Individual|publisher=Fraser Institute|year=2009|location=Vancouver|page=268|url=https://books.google.com/books?id=oWkWXRcqCM4C&q=A%20New%20Look%20at%20Canadian%20Indian%20Policy%3A%20Respect%20the%20Collective%20-%20Promote%20the%20Individual&pg=PP1 | isbn = 978-0-88975-243-6}}
+*{{Cite book|last=Gibson|first=Karen Bush|title=The Blackfeet: People of the Dark Moccasins|publisher=Capstone Press|year=2000|location=Mankato, Minnesota|url=https://books.google.com/books?id=HsEJ1nFpwPEC&q=The%20Blackfeet%3A%20People%20of%20the%20Dark%20Moccasins.&pg=PP1 | isbn =978-0-7368-4824-4 }}
+* {{Cite book |last1 = Thom |first1 = Ian M|author2=McMichael Canadian Art Collection|year =2009 |title =Challenging traditions: contemporary First Nations art of the Northwest Coast |url =https://books.google.com/books?id=tKupaO3mzS0C&q=First%20Nations&pg=PP1 |publisher=University of Washington Press |isbn=978-0-295-98919-8 }}
+* {{Cite book |last = Voyageur |first =Cora Jane |year =2008 |title =Firekeepers of the twenty-first century: First Nations women chiefs |url = https://books.google.com/books?id=zfqtC-m3OkMC&q=First%20Nations&pg=PP1|publisher=McGill-Queen's University Press|isbn=978-0-7735-3216-8  }}
+{{Refend}}
+
+==External links==
+{{Sister project links|First Nations of Canada|auto=yes}}
+{{Wiktionary|First Nations}}
+
+* {{cite magazine | url=https://indigenouspeoplesatlasofcanada.ca/ | title=Indigenous Peoples Atlas of Canada |magazine=Canadian Geographic}}
+* [http://www.museevirtuel-virtualmuseum.ca/Search.do?Ntk=SearchAll_EN&Ntx=mode%2Bmatchallany&Ntt=Aboriginal&QSo=Search&ex=on Aboriginal Virtual Exhibits] from the [[Virtual Museum of Canada]] (a consortium of Canadian museums)
+* [http://www.historymuseum.ca/cmc/exhibitions/tresors/ethno/index_e.shtml  Gateway to Aboriginal Heritage] from the [[Canadian Museum of Civilization]]
+* [https://www.aadnc-aandc.gc.ca/ Official website] of [[Indigenous and Northern Affairs Canada]], a department of the [[government of Canada]]
+* [http://nfb.ca/aboriginalperspectives Aboriginal Perspectives]{{Dead link|date=August 2018 |bot=InternetArchiveBot |fix-attempted=yes }} A [[National Film Board of Canada]] website with documentaries on Canada's Aboriginal Peoples, including films by Aboriginal filmmakers.
+* [http://www.firstnationsseeker.ca First Nations Seeker] Portal to First Nations websites across North America along with continental map showing locations of all the tribes.
+* [https://barrenlands.library.utoronto.ca/ "The Barren Lands Collection" Thomas Fisher Rare Book Library, University of Toronto]
+* [https://www.bac-lac.gc.ca/eng/discover/aboriginal-heritage/Pages/indigenous-documentary-heritage-initiatives.aspxf Indigenous%20Documentary%20Heritage%20Initiatives%20-%20Library%20and%20Archives%20Canada Indigenous Documentary Heritage Initiatives – Library and Archives Canada]{{Dead link|date=September 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{People of Canada}}
+{{Canada topics}}
+{{Indigenous peoples of the Americas}}
+{{Indigenous peoples by continent}}
+{{Americas topic|Indigenous peoples of}}
+
+{{Authority control}}
+
+[[Category:First Nations in Canada| ]]
+[[Category:Ethnic groups in Canada]]
+[[Category:History of Indigenous peoples of North America]]
+[[Category:Hunter-gatherers of Canada]]
+[[Category:Indigenous peoples in Canada]]
+[[Category:Indigenous peoples of North America]]

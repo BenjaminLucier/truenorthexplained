@@ -1,0 +1,289 @@
+{{Short description|None}}
+{{Infobox political system
+| name                          = Politics of Newfoundland and Labrador
+| image                         = Coat of Arms of Newfoundland and Labrador.svg
+| image_size                    = 100
+| caption                       = [[Coat of arms of Newfoundland and Labrador]]
+| type                          = [[Provinces and territories of Canada|Province]] within a [[Federation|federal]] [[Parliamentary system|parliamentary]] [[constitutional monarchy]]
+| constitution                  = [[Constitution of Canada]]
+| legislature                   = [[General Assembly of Newfoundland and Labrador|General Assembly]]
+{{Bulleted list
+|[[Nova Scotia House of Assembly|House of Assembly]]
+}}
+| legislature_type              = [[Unicameralism|Unicameral]]
+| legislature_place             = [[Confederation Building (Newfoundland and Labrador)|Confederation Building]], [[St. John's, Newfoundland and Labrador|St. John's]]
+| legislature_speaker           = [[Speaker of the Newfoundland and Labrador House of Assembly|Speaker of the House of Assembly]]
+| legislature_speaker_title     = 
+| upperhouse                    = 
+| upperhouse_speaker            = 
+| upperhouse_speaker_title      = 
+| upperhouse_appointer          = 
+| lowerhouse                    = 
+| lowerhouse_speaker            = 
+| lowerhouse_speaker_title      = 
+| current_hos                     = [[Monarchy in Newfoundland and Labrador|King]] {{Current Canadian monarch |Charles III}}<br>represented by <br> [[Joan Marie Aylward]], <br> [[Lieutenant Governor of Newfoundland and Labrador|Lieutenant Governor]]
+| current_hog                     = [[Premier of Newfoundland and Labrador|Premier]]<br>[[Tony Wakeham]]
+| appointer_hog                 = Lieutenant Governor
+| title_hosag                   =
+| current_hosag                 =
+| appointer_hosag               =
+| cabinet                       = [[Executive Council of Newfoundland and Labrador|Executive Council]]
+| current_cabinet               = 
+| cabinet_leader                = Premier (as President of the Executive Council)
+| cabinet_deputyleader          = 
+| cabinet_appointer             = Lieutenant Governor
+| cabinet_hq                    = St. John's
+| cabinet_ministries            = 
+| judiciary                     = 
+| judiciary_head                = 
+| courts                        =
+| court                         = [[Court of Appeal of Newfoundland and Labrador|Court of Appeal]]
+| chief_judge                   = [[Deborah Fry]]
+| court_seat                    = 
+| court1                        =
+| chief_judge1                  =
+| court_seat1                   = St. John's
+}}
+{{Canada provinces map|prefix =Politics of|the=the|Map=NL-Canada-province.png|width=260px|caption=The Canadian province of Newfoundland and Labrador}}
+The [[Canada|Canadian]] [[Provinces and territories of Canada|province]] of [[Newfoundland and Labrador]] has a unicameral [[legislature]], the [[General Assembly of Newfoundland and Labrador|General Assembly]] composed of the [[Lieutenant Governor of Newfoundland and Labrador|Lieutenant Governor]] and the [[Newfoundland and Labrador House of Assembly|House of Assembly]], which operates on the [[Westminster system]] of [[government]]. The [[executive (government)|executive]] function of government is formed by the Lieutenant Governor, the [[premier]] (head of government, and normally the leader of the largest party in the legislature) and their [[Cabinet (government)|cabinet]].
+
+==History==
+
+===Colonization===
+
+Newfoundland was first inhabited by the [[Beothuk]] and the [[Maritime Archaic]], while Labrador was first inhabited by the Dorset, Thule, and later Inuit and Innu. It has the first known European settlement in the [[Americas]] at [[L'Anse aux Meadows]], built by the [[Vikings]] circa 1020 A.D.<ref>{{cite web|title=L'Anse aux Meadows National Historic Site of Canada History|url=http://www.pc.gc.ca/eng/lhn-nhs/nl/meadows/natcul/saga.aspx|publisher=Parks Canada|access-date=21 December 2011}}</ref> The island of [[Newfoundland (island)|Newfoundland]] and the coast of [[Labrador]] has been colonized or settled by a number of European nations including [[UK|England]] and [[France]].<ref>{{cite web|last=Bélanger|first=Claude|title=Newfoundland History Early Colonization and Settlement Policy in Newfoundland|url=http://faculty.marianopolis.edu/c.belanger/nfldhistory/NewfoundlandHistory-EarlyColonizationandSettlementofNewfoundland.htm|publisher=Marianopolis College|access-date=21 December 2011}}</ref>
+
+The emergence of a [[common law]] system and political institutions was slow. Law and order was initially the responsibility of fishing [[Captain (nautical)|captains]] and [[admirals]] and [[Governor|military governors]] in the 17th and 18th centuries. With permanent settlement however, this system was eventually replaced by civil officials and in 1832 ''representative government''. This meant that a colonial assembly would share power with an appointed Legislative Council. In 1854, Newfoundland was granted [[responsible government]], and it attained [[British Dominions|Dominion]] status in 1907.<ref>{{cite web|title=Reform Era, 1815-1832|url=http://www.heritage.nf.ca/law/reform.html|publisher=Heritage Newfoundland and Labrador|access-date=21 December 2011}}</ref><ref>{{cite web|last=Bélanger|first=Claude|title=Newfoundland History The Development of Self-Government in Newfoundland|url=http://faculty.marianopolis.edu/c.belanger/nfldhistory/TheDevelopmentofSelf-GovernmentinNewfoundland.htm|publisher=Marianopolis College|access-date=21 December 2011}}</ref>
+
+
+
+=== Dominion status ===
+The [[Dominion of Newfoundland]] was a highly [[Polarization (politics)|polarized]] society, marked by distinct cleavages between [[Roman Catholics]] and [[Protestants]], [[Liberal parties in Newfoundland (pre-Confederation)|Liberals]] and [[Conservative parties in Newfoundland (pre-Confederation)|Conservatives]], descendants of [[Irish people|Irish]] and [[West Country]] English, rich merchants and poor fishermen and tradesmen, and rural Newfoundland versus [[St. John's, Newfoundland and Labrador|St. John's]] (or alternatively the [[Avalon Peninsula]] against the rest of the Dominion's districts). This often manifested itself in hotly contested and even violent [[elections]]. Various reforms in the 1860s and 1870s (during which Newfoundland rejected [[Canadian Confederation|confederation]] with Canada) quelled the often hostile nature of this polarization.
+
+With exceptions throughout its Dominion history, class, religion and political parties tended to align such that Irish Catholics tended to support the Liberal Party and English Protestants tended to support the Conservative Party.
+
+Newfoundland and Labrador's present-day boundaries were finalized as a result of the [[Her Majesty's Most Honourable Privy Council|British Privy Council]]'s decision in the Labrador Boundary Dispute of 1927, to cede much of inland Labrador to the Dominion of Newfoundland rather than to the Canadian province of [[Quebec]].<ref>{{cite web|last=Bélanger|first=Claude|title=Newfoundland History The Labrador Boundary Issue (1927)|url=http://faculty.marianopolis.edu/c.belanger/nfldhistory/TheLabradorBoundaryIssue.htm|publisher=Marianopolis College|access-date=21 December 2011}}</ref>
+
+===Commission of Government===
+[[File:Colonial riot 500.jpg|thumb|left|The riot at Colonial Building in 1932]]
+As a result of the [[Great Depression]], Newfoundland's economy deteriorated. This resulted in a famous episode in 1932 when a [[1932 Colonial Building riot|large riot]] erupted at the [[Colonial Building]] and then Prime Minister [[Richard Squires]] narrowly escaped.<ref>{{cite web|last=Webb|first=Jeff|title=Collapse of Responsible Government, 1929-1934|url=http://www.heritage.nf.ca/law/collapse_responsible_gov.html|publisher=Heritage Newfoundland and Labrador|access-date=21 December 2011}}</ref> The Dominion assembly approved the recommendations of the [[Newfoundland Royal Commission|Amulree Commission]] the following year and voted itself out of existence in order to be replaced by an appointed [[Commission of Government]].<ref>{{cite web|title=The Newfoundland Royal Commission, 1933 (The Amulree Commission)|url=http://www.heritage.nf.ca/law/amulree.html|publisher=Heritage Newfoundland and Labrador|access-date=21 December 2011}}</ref> This commission was effectively an appointed council with a British Governor and six commissioners from both Britain and Newfoundland. The Commission oversaw slow growth during the beginning of its reign, but Newfoundland began to thrive during [[World War II]].<ref>{{cite web|last=Webb|first=Jeff|title=The Commission of Government, 1934-1949|url=http://www.heritage.nf.ca/law/commission_gov.html|publisher=Heritage Newfoundland and Labrador|access-date=21 December 2011}}</ref>
+====1948 referendums====
+
+{| class="wikitable"
+|+ Results of Newfoundland constitutional referendums (1948)
+|-
+! Choice !! 1st round !! 2nd round !! Result
+|- align="right"
+| align="left" | Responsible Government|| 69,400||71,334|| bgcolor="lightgray" |DECLINED
+|- align="right"
+| align="left" | Confederation with Canada|| 64,066||78,323 || bgcolor="lightgreen" |ACCEPTED
+|- align="right"
+| align="left" | [[Commission of Government]]|| 22,331|| colspan="2" bgcolor="lightgray" |DECLINED
+|- align="right"
+| align="left" | '''Total'''|| 155,797||149,657
+|}
+[[File:Joseph Smallwood signing Newfoundland into Confederation.jpg|thumb|[[Joey Smallwood]] signs the document bringing Newfoundland into Confederation]]
+
+It was shortly after the Second World War that a [[Newfoundland National Convention]] was created in order to deliberate the constitutional future of Newfoundland.<ref>{{cite web|last=Hillier|first=J. K.|title=The Newfoundland National Convention, 1946-1948|url=http://www.heritage.nf.ca/law/national.html|publisher=Heritage Newfoundland and Labrador|access-date=21 December 2011}}</ref> Two [[1948 Newfoundland referendums|referendums]] were initiated in the year 1948. In the first, Newfoundlanders were asked to vote on whether to join Canada as a province, return to an independent dominion with responsible government, or continue with an appointed Commission. In the second referendum, Newfoundlanders were asked to choose between responsible government and confederation with Canada. The movement for responsible government tended to be weaker, less organized in rural areas, and had some divisions stemming from many of its members supporting a special [[Economic Union Party|economic union]] with the [[United States]]. Newfoundland's voters narrowly voted in favour of confederation and in 1949 Newfoundland joined Canada as its tenth province.<ref name="referendum">{{cite web|last=Hillier|first=J. K.|title=The 1948 Referendums|url=http://www.heritage.nf.ca/law/referendums.html|publisher=Heritage Newfoundland and Labrador|access-date=21 December 2011}}</ref>
+
+The second referendum was a very divisive one and still to this day is a source of contention among Newfoundlanders and Labradorians. During the referendum, [[Joey Smallwood]] campaigned for the [[Confederate Association]] and [[Peter Cashin]] campaigned for the [[Responsible Government League]] (RGL). The confederate cause drew most of its support from Protestants, poor fishermen and rural Newfoundlanders particularly those from outside the Avalon Peninsula. Likewise, the RGL depended on the support of Catholics and voters from the Avalon Peninsula.
+
+Religion served as a very important determinant in a voter's decision. The Roman Catholic establishment, centered in St. John's, feared a loss of power and the possible elimination of its role in denominational education after confederation. Confederation was seen as a plot to join loyalist, predominantly English Canada (conversely RGL supporters feared joining "French Canada").
+
+This trend was not universal since, for example, Catholics from western Newfoundland tended to vote for confederation rather than against it. But it did bring about a crack in the Liberal/Catholic and Conservative/Protestant alignment of Newfoundland's voters. After confederation, the RGL elected to form the [[Progressive Conservative Party of Newfoundland and Labrador]], while Smallwood, Newfoundland's first Premier after confederation was a [[Liberal Party of Newfoundland and Labrador|Liberal]].
+
+Finally economic issues were quite salient in the referendum on confederation. The confederate cause received much of its support from rural Protestant communities, won over to the confederate side by promises of a [[Child benefit|child allowance]] ("baby bonus"), better health care, full employment, higher incomes and other social reforms. These were measures to which Newfoundland migrants to Canada and the United States were already accustomed, but could not be as successfully promised by the Avalon Peninsula-based, affluent leaders of the RGL.
+
+===Post-Confederation history===
+After confederation, Liberal Premier Joey Smallwood was in power for over 23 years. His reign was characterized by an [[Autocracy|autocratic]] style of leadership and initiatives to [[Modernization|modernize]] the economy. For example, in the 1950s the Smallwood government began a controversial [[Resettlement (Newfoundland)|resettlement]] program to relocate Newfoundlanders and Labradorians from hundreds of small, rural settlements and communities to larger urban areas. He also personally encouraged and subsidized foreign industrialists to invest in Newfoundland, often with little benefit. Smallwood for example is credited with bungling a deal on the [[Churchill Falls]] hydro-electric development in Labrador and creating a situation where the province of Quebec reaps most of the benefits.
+
+Additionally, Smallwood maintained firm control over dissent both within and outside his party. He frequently accused a local newspaper, [[The Telegram]], of libel and threatened legal action. When [[John Crosbie]] challenged him for the leadership of the provincial Liberal Party in 1969 Smallwood forced delegates to sign [[affidavit]]s opposing Crosbie's leadership bid. He famously told then student union leader [[Rex Murphy]] not to return to Newfoundland when Murphy, who was in Quebec at the time, called Smallwood's announcement of a free tuition policy a "sham". As a result of Smallwood's tight control over the party and the government, a younger generation of Liberal Party activists such as John Crosbie who lost the 1969 leadership bid defected to the Progressive Conservative Party which wrested control from Smallwood in 1972 under the tutelage of [[Frank Moores]].
+
+The Progressive Conservative Party of Newfoundland remained in power from 1972 to 1989, first under the leadership of Frank Moores then from 1979 to 1989 under [[Brian Peckford]]. Peckford's agenda was characterized by battles with the federal government under Prime Ministers [[Pierre Trudeau]] and then [[Brian Mulroney]]. The Peckford government stated, early in its term, its intention to make the fishery the prime generator of wealth and stability in the province's future. Peckford's later career became mired in a subsidized farming scandal, he retired from politics in 1989 and was succeeded by [[Thomas Rideout|Tom Rideout]].
+
+A month after becoming Premier, Rideout's Progressive Conservative Party was defeated in the 1989 election by the Liberal Party under [[Clyde Kirby Wells|Clyde Wells]], though the Tories won a higher percentage of votes the Liberals won a majority of the seats in the House of Assembly. Wells' administration oversaw a tumultuous time in Newfoundland's recent history. Wells was involved in some confrontation with the federal government and the other provinces over the issue of the [[Meech Lake Accord]] which provided for [[distinct society]] status for the province of Quebec. He was also the premier when the federal government brought in a moratorium on year round [[Cod fisheries#Modern fishing methods and the fishery collapse|cod fishing]], a pivotal moment in Newfoundland and Labrador's recent history, ever since which outmigration and [[Rural depopulation|depopulation]] have been a perpetual problem. Furthermore, Liberal Party leader Wells ushered in a period of privatizing government services. The Liberals would govern until [[2003 Newfoundland and Labrador general election|2003]], with the PCs under [[Danny Williams (Canadian politician)|Danny Williams]] winning power. [[Kathy Dunderdale]] would become Premier in 2010, the first woman in the role. From [[2015 Newfoundland and Labrador general election|2015]] to [[2025 Newfoundland and Labrador general election|2025]], the Liberals formed government, which was followed by a PC victory.
+
+==Political culture and institutions==
+
+===Legislative power===
+The [[General Assembly of Newfoundland and Labrador|General Assembly]] is the unicameral provincial legislature, consisting of the [[Newfoundland and Labrador House of Assembly|House of Assembly]] and the [[Lieutenant Governor of Newfoundland and Labrador|Lieutenant Governor]]. It is situated in the [[Confederation Building (Newfoundland and Labrador)|Confederation Building]] which is located in the capital city of St. John's. The Newfoundland and Labrador House of Assembly is unique because the government sits to the left of the speaker in parliament rather than the right, which is the norm in the Westminster system. The legislature has 40 seats, each seat representing one geographical district in the province.
+
+===Elections===
+[[File:NL elections2.gif|thumb|right|350px|{{center|Number of seats won by major parties at each election}}
+{|align="center"
+|-
+|width=7 bgcolor=#99ccff| ||Conservative 
+|width=7|
+|width=7 bgcolor=#ff99cc| ||Liberal 
+|width=7|
+|width=7 bgcolor=#ffcc99| ||NDP
+|width=7|
+|width=7 bgcolor=#cc99ff| ||Other / Independent
+|}]]
+
+Newfoundland and Labrador's 40 electoral districts are competed for in [[Plurality voting system|first-past-the-post]] elections. Elections must be held every four years in October under a fixed-date elections law brought in by the current Progressive Conservative government. The seats were reduced from 48 in the 2015 boundary review.
+
+The chart on the right provides a summary of results for the province's general elections, with the most recent elections on the right. It shows that politics in Newfoundland and Labrador have been dominated by two parties: the [[Liberal Party of Newfoundland and Labrador|Liberal Party]] (red) and the [[Progressive Conservative Party of Newfoundland and Labrador|Progressive Conservative Party]] (blue). The Liberal party have won ten out of the nineteen elections held.
+
+===Parties and the party system===
+Elections Newfoundland and Labrador officially recognizes three political parties; the Progressive Conservatives, the Liberals, and the New Democrats.
+
+Newfoundland and Labrador traditionally had what can be described as a "[[two-and-a-half party system]]", with two parties capable of forming government (Liberals and Progressive Conservatives) and one small party that does not (the New Democratic Party). In 2011, the NDP had a breakthrough in the provincial election and placed second in the popular vote behind the Progressive Conservatives. The two main parties share very few [[Ideology|ideological]] differences and presently there exist very few divides along class or religious backgrounds any more. The Progressive Conservative Party traditionally supported less government intervention in the economy, was a more welcome home for socially conservative attitudes, and has a significant nationalist streak perhaps as a result of its predecessor in the RGL. The Liberal Party has traditionally been seen as being on the centre-left of the political spectrum. However, with the possible exception of contemporary Nova Scotia, Newfoundland and Labrador shares with the other Atlantic provinces a largely personality driven party system where both parties tend to hug the centre. Furthermore, the province's Progressive Conservatives tend to be of the "[[Red Tory]]" variety, and the Liberal Party particularly under [[Roger Grimes]] has shown itself to also have something of a nationalist streak, although the party is generally seen as the more favorable to Canadian federalism in comparison to its historically more nationalist counterparts in the Progressive Conservative Party.
+
+Third parties have traditionally done poorly in Newfoundland and Labrador. The left-wing, [[Populism|populist]] [[Fisherman's Protective Union]] (FPU) under [[William Coaker]] during the 1920s and 1930s achieved a breakthrough in politics. However, the party never formed government and later disintegrated. The federal [[Cooperative Commonwealth Federation]] (or CCF, predecessor to the New Democratic Party) made overtures to Joey Smallwood (who had a history of union organizing and [[Socialism|socialist]] activities) during the referendums of 1948 but failed to shore up any mass support in the province. Until 2011, support for the New Democratic Party was confined to [[Labrador West]] and the eastern and downtown core of St. John's. In 1983, the Party for an Independent Newfoundland (PIN) was founded, seeking independence from Canada.<ref>{{Cite book|last=Gezelius|first=Stig S.|url=https://books.google.com/books?id=aW_7CAAAQBAJ&q=%22party+for+an+independent+newfoundland%22&pg=PA168|title=Regulation and Compliance in the Atlantic Fisheries: State/Society Relations in the Management of Natural Resources|date=2012-12-06|publisher=Springer Science & Business Media|isbn=978-94-010-0051-2|language=en}}</ref> It disbanded in 1984.<ref>{{Cite journal|last=Baker|first=James|date=2012-12-01|title=As loved our fathers: The strength of patriotism among young Newfoundlanders|journal=National Identities|volume=14|issue=4|pages=367–386|doi=10.1080/14608944.2012.732053|bibcode=2012NatId..14..367B |s2cid=144415420|issn=1460-8944}}</ref>
+
+Under Danny Williams, any traditional notions of a left-right spectrum in Newfoundland and Labrador politics appeared to deteriorate. The Progressive Conservative Party benefited from Williams' personal popularity, and the ideological orientation of the party system, it has been argued, has given way to a new one based on leadership personality and Newfoundland nationalism.
+
+==Electoral history==
+Single-member districts and [[first-past-the-post voting]] was the common form of elections, but Harbour Grace [[1861 Newfoundland general election|in pre-Confederation days]] and the provincial district of [[Harbour Main]] from 1949 to 1975 elected two members using [[plurality block voting]].
+
+{| class="wikitable"
+|+ Elections to the House of Assembly of the Colony of Newfoundland (1832-1904) - seats won by party
+|-
+| colspan = "2"| '''Government'''
+| {{Canadian party colour|NL|Independent|background}} align="center" colspan=6|'''Before responsible government'''
+| {{Canadian party colour|NL|Liberal (historical)|background}} align="center" colspan=2|'''Liberal'''
+| {{Canadian party colour|NL|Conservative (historical)|background}} align="center" colspan=2|'''Conservative'''
+| {{Canadian party colour|NL|Anti-Confederation|background}} align="center" colspan=2|'''ACP'''
+| {{Canadian party colour|NL|Conservative (historical)|background}} align="center" colspan=3|'''Conservative'''
+| {{Canadian party colour|NL|Reform|background}} align="center" |'''Reform'''
+| {{Canadian party colour|NL|Liberal (historical)|background}} align="center" colspan=2|'''Liberal'''
+| {{Canadian party colour|NL|Tory|background}} align="center" |'''Tory'''
+| {{Canadian party colour|NL|Liberal (historical)|background}} align="center" colspan=2|'''Liberal'''
+|- 
+! colspan = "2"|Party !! [[1832 Newfoundland general election|1832]]!! [[1836 Newfoundland general election|1836]]!! [[1837 Newfoundland general election|1837]]!! [[1842 Newfoundland general election|1842]]!! [[1848 Newfoundland general election|1848]]!! [[1852 Newfoundland general election|1852]]!! [[1855 Newfoundland general election|1855]]!! [[1859 Newfoundland general election|1859]]!! [[1861 Newfoundland general election|1861]]!! [[1865 Newfoundland general election|1865]]!! [[1869 Newfoundland general election|1869]]!! [[1873 Newfoundland general election|1873]]!! [[1874 Newfoundland general election|1874]]!! [[1878 Newfoundland general election|1878]]!! [[1882 Newfoundland general election|1882]]!! [[1885 Newfoundland general election|1885]]!! [[1889 Newfoundland general election|1889]]!! [[1893 Newfoundland general election|1893]]!! [[1897 Newfoundland general election|1897]]!! [[1900 Newfoundland general election|1900]]!! [[1904 Newfoundland general election|1904]]
+|- align = "right"
+| bgcolor="#006699" | &nbsp; &nbsp; || align="left"|'''[[Conservative parties in Newfoundland (pre-Confederation)|Conservative]]''' || 10|| 4|| 4|| 6|| 6|| 6|| 12|| 12|| 15|| 22|| 9|| 13|| 17|| 21|| 26|| || || || || || 
+|- align = "right"
+| bgcolor="#000077" | &nbsp; &nbsp; || align="left"|'''[[Conservative parties in Newfoundland (pre-Confederation)|Reform]]''' || || || || || || || || || || || || || || || || 18|| 3|| || || || 
+|- align = "right"
+| bgcolor="#006699" | &nbsp; &nbsp; || align="left"|'''[[Conservative parties in Newfoundland (pre-Confederation)|Tory]]''' || || || || || || || || || || || || || || || || || || 12|| 23|| 4|| 
+|- align = "right"
+| bgcolor="#006699" | &nbsp; &nbsp; || align="left"|'''[[Conservative parties in Newfoundland (pre-Confederation)|United Opposition]]''' || || || || || || || || || || || || || || || || || || || || || 6
+|- align = "right"
+| bgcolor="#E62020" | &nbsp; &nbsp; || align="left"|'''[[Liberal parties in pre-Confederation Newfoundland|Liberal]]''' || 5|| 11|| 11|| 9|| 9|| 9|| 18|| 18|| 13|| 8|| || || || || || 13|| 28|| 23|| 13|| 32|| 30
+|- align = "right"
+| bgcolor="#EABB94" | &nbsp; &nbsp; || align="left"|'''[[Anti-Confederation Party]]''' || || || || || || || || || || || 21|| 17|| 13|| || || || || || || || 
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp; || align="left"|'''Opposition''' || || || || || || || || || || || || || || 10|| || || || || || || 
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp; || align="left"|'''New Party''' || || || || || || || || || || || || || || || 5|| || || || || || 
+|- align = "right"
+| bgcolor="FFFFFF" | &nbsp; &nbsp; || align="left"|'''Vacant''' || || || || || || || || || 2|| || || || || || || || || || || || 
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp; || align="left"|'''Other''' || || || || || || || || || || || || || || || 2|| 1|| 1|| 1|| || || 
+|- align = "right"
+| colspan = "2" align="left"|'''Total''' 
+! '''<big>15</big>'''!! '''<big>15</big>'''!! '''<big>15</big>'''!! '''<big>15</big>'''!! '''<big>15</big>'''!! '''<big>15</big>'''!! '''<big>30</big>'''!! '''<big>30</big>'''!! '''<big>30</big>'''!! '''<big>30</big>'''!! '''<big>30</big>'''!! '''<big>30</big>'''!! '''<big>30</big>'''!! '''<big>31</big>'''!! '''<big>33</big>'''!! '''<big>32</big>'''!! '''<big>32</big>'''!! '''<big>36</big>'''!! '''<big>36</big>'''!! '''<big>36</big>'''!! '''<big>36</big>'''
+|}
+{| class="wikitable"
+|+ Elections to the House of Assembly of the Dominion of Newfoundland (1908-1932) - seats won by party
+|-
+| colspan = "2"| '''Government'''
+| {{Canadian party colour|NL|People's|background}} align="center" colspan=3|'''People's'''
+| {{Canadian party colour|NL|Liberal (historical)|background}} align="center" colspan=2|'''LR'''
+| {{Canadian party colour|NL|Conservative (historical)|background}} align="center" |'''LCP'''
+| {{Canadian party colour|NL|Liberal (historical)|background}} align="center" |'''Liberal'''
+| {{Canadian party colour|NL|Conservative (historical)|background}} align="center" |'''UNP'''
+|- 
+! colspan = "2"|Party !! [[1908 Newfoundland general election|1908]]!! [[1909 Newfoundland general election|1909]]!! [[1913 Newfoundland general election|1913]]!! [[1919 Newfoundland general election|1919]]!! [[1923 Newfoundland general election|1923]]!! [[1924 Newfoundland general election|1924]]!! [[1928 Newfoundland general election|1928]]!! [[1932 Newfoundland general election|1932]]
+|- align = "right"
+| bgcolor="#FFB6C1" | &nbsp; &nbsp; || align="left"|'''[[Newfoundland People's Party|People's]]''' || 18|| 26|| 21|| 12|| || || || 
+|- align = "right"
+| bgcolor="#FFB6C1" | &nbsp; &nbsp; || align="left"|'''[[Newfoundland People's Party|Liberal-Labour-Progressive]]''' || || || || || 13|| || || 
+|- align = "right"
+| bgcolor="#E62020" | &nbsp; &nbsp; || align="left"|'''[[Liberal parties in pre-Confederation Newfoundland|Liberal]]''' || 18|| 10|| 7|| || || || 19|| 2
+|- align = "right"
+| bgcolor="#E62020" | &nbsp; &nbsp; || align="left"|'''[[Liberal parties in pre-Confederation Newfoundland|Liberal Reform]]''' || || || || 24|| 23|| || || 
+|- align = "right"
+| bgcolor="#E62020" | &nbsp; &nbsp; || align="left"|'''[[Liberal parties in pre-Confederation Newfoundland|Liberal-Progressive]]''' || || || || || || 10|| || 
+|- align = "right"
+| bgcolor="#66CC00" | &nbsp; &nbsp; || align="left"|'''[[Fishermen's Protective Union]]''' || || || 8|| || || || 9|| 
+|- align = "right"
+| bgcolor="#006699" | &nbsp; &nbsp; || align="left"|'''[[Conservative parties in Newfoundland (pre-Confederation)|Liberal-Conservative-Progressive Party]]''' || || || || || || 25|| 12|| 
+|- align = "right"
+| bgcolor="#006699" | &nbsp; &nbsp; || align="left"|'''[[United Newfoundland Party]]''' || || || || || || || || 24
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp; || align="left"|'''Other''' || || || || || || 1|| || 1
+|- align = "right"
+| colspan = "2" align="left"|'''Total''' 
+! '''<big>36</big>'''!! '''<big>36</big>'''!! '''<big>36</big>'''!! '''<big>36</big>'''!! '''<big>36</big>'''!! '''<big>36</big>'''!! '''<big>40</big>'''!! '''<big>27</big>'''
+|}
+{| class="wikitable"
+|+ Elections to the House of Assembly of Newfoundland and Labrador (1949-2025) - seats won by party
+|-
+| colspan = "2"| '''Government'''
+| {{Canadian party colour|NL|Liberal|background}} align="center" colspan=7|'''Liberal'''
+| {{Canadian party colour|NL|PC|background}} align="center" colspan=5|'''PC'''
+| {{Canadian party colour|NL|Liberal|background}} align="center" colspan=4|'''Liberal'''
+| {{Canadian party colour|NL|PC|background}} align="center" colspan=3|'''PC'''
+| colspan="6" {{Canadian party colour|NL|Liberal|background}} align="center" |'''Liberal'''
+|- 
+! colspan = "2"|Party !! [[1949 Newfoundland general election|1949]]!! [[1951 Newfoundland general election|1951]]!! [[1956 Newfoundland general election|1956]]!! [[1959 Newfoundland general election|1959]]!! [[1962 Newfoundland general election|1962]]!! [[1966 Newfoundland general election|1966]]!! [[1971 Newfoundland general election|1971]]!! [[1972 Newfoundland general election|1972]]!! [[1975 Newfoundland general election|1975]]!! [[1979 Newfoundland general election|1979]]!! [[1982 Newfoundland general election|1982]]!! [[1985 Newfoundland general election|1985]]!! [[1989 Newfoundland general election|1989]]!! [[1993 Newfoundland general election|1993]]!! [[1996 Newfoundland general election|1996]]!! [[1999 Newfoundland general election|1999]]!! [[2003 Newfoundland and Labrador general election|2003]]!! [[2007 Newfoundland and Labrador general election|2007]]!! [[2011 Newfoundland and Labrador general election|2011]]!! [[2015 Newfoundland and Labrador general election|2015]]!! [[2019 Newfoundland and Labrador general election|2019]]
+![[2021 Newfoundland and Labrador general election|2021]] !![[2025 Newfoundland and Labrador general election|2025]]
+
+|- align = "right"
+| bgcolor="#E62020" | &nbsp; &nbsp; || align="left"|'''[[Liberal Party of Newfoundland and Labrador|Liberal]]''' || 22|| 24|| 32|| 31|| 34|| 39|| 20|| 9|| 16|| 19|| 8|| 15|| 31|| 35|| 37|| 32|| 12|| 3|| 6|| 31|| 20 ||22 ||15
+|- align = "right"
+| bgcolor="#006699" | &nbsp; &nbsp; || align="left"|'''[[Progressive Conservative Party of Newfoundland and Labrador|Progressive Conservative]]''' || 5|| 4|| 4|| 2|| 7|| 3|| 21|| 33|| 30|| 33|| 44|| 36|| 21|| 16|| 9|| 14|| 34|| 44|| 37|| 7|| 15 
+|13 || 21
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp; || align="left"|'''[[United Newfoundland Party|United Newfoundland]]''' || || || || 2|| || || || || || || || || || || || || || || || || ||
+|
+|- align = "right"
+| bgcolor="#3CB371" | &nbsp; &nbsp; || align="left"|'''[[Labrador Party|Labrador]]''' || || || || || || || 1|| || || || || || || || || || || || || || ||
+|
+|- align = "right"
+| bgcolor="palevioletred" | &nbsp; &nbsp;  || align="left"|'''[[Newfoundland Reform Liberal Party|Liberal Reform]]''' || || || || || || || || || 4|| || || || || || || || || || || || ||
+|
+|- align = "right"
+| bgcolor="#F4A460" | &nbsp; &nbsp; || align="left"|'''[[Newfoundland and Labrador New Democratic Party|New Democratic]]''' || || || || || || || || || || || || 1|| || 1|| 1|| 2|| 2|| 1|| 5|| 2|| 3
+|2 || 2
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp;  || align="left"|'''Independent Liberal''' || || || || || || || || || 1|| || || || || || || || || || || || ||
+|
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp;  || align="left"|'''Independent''' || 1|| || || 1|| || || || || || || || || || || 1|| || || || || || 2
+|3 || 2
+|- align = "right"
+| colspan = "2" align="left"|'''Total''' 
+! '''<big>28</big>'''!! '''<big>28</big>'''!! '''<big>36</big>'''!! '''<big>36</big>'''!! '''<big>42</big>'''!! '''<big>42</big>'''!! '''<big>42</big>'''!! '''<big>42</big>'''!! '''<big>51</big>'''!! '''<big>52</big>'''!! '''<big>52</big>'''!! '''<big>52</big>'''!!'''<big>52</big>''' !! '''<big>52</big>'''!! '''<big>48</big>'''!! '''<big>48</big>'''!! '''<big>48</big>'''!! '''<big>48</big>'''!! '''<big>48</big>'''!! '''<big>40</big>'''!! '''<big>40</big>'''
+!'''<big>40</big>''' !!'''<big>40</big>'''
+
+|}
+
+==See also==
+*
+* [[Lieutenant Governor of Newfoundland and Labrador]]
+* [[Premier of Newfoundland and Labrador]]
+* [[General Assembly of Newfoundland and Labrador]]
+* [[Newfoundland and Labrador House of Assembly]]
+* [[Government of Newfoundland and Labrador]]
+* [[Executive Council of Newfoundland and Labrador]]
+* [[Council of the Federation]]
+* [[Politics of Canada]]
+* [[Political culture of Canada]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* {{cite web|url=http://www.heritage.nf.ca/confederation/default.html|title=The Confederation Debate: Fifty Years and Counting|work=Newfoundland and Labrador Heritage Website Project|access-date=2007-08-20 }}
+* {{cite web|url=http://www.heritage.nf.ca/law/default.html|title=History of '''Government and Politics''' in Newfoundland and Labrador|work=Newfoundland and Labrador Heritage Website Project|access-date=2007-08-20 }}
+* {{cite web|url=https://www.mun.ca/mha/resettlement/index.html|title=Resettlement: "''No Great Future ''"|work=Maritime History Archive of the Memorial University of Newfoundland|access-date=2007-08-20 }}
+* {{cite web|url=http://www.hoa.gov.nl.ca/hoa/|title=Newfoundland and Labrador House of Assembly|work=Government of Newfoundland and Labrador|access-date=2007-08-20|archive-url=https://web.archive.org/web/20070903035127/http://www.hoa.gov.nl.ca/hoa/|archive-date=2007-09-03|url-status=dead}}
+* Letto, Douglas. ''Chocolate Bars and Rubber Boots: The Smallwood Industrialization Plan''. Paradise, NL: Blue Hill Pub., 1998.
+* Crosbie, John. ''No Holds Barred: My Life in Politics''. Toronto: M&S, 1997.
+* Blake, Raymond. ''Canadians at Last: Canada Integrates Newfoundland As a Province''. Toronto: University of Toronto Press, 1994.
+* {{cite web|url=http://www.cbc.ca/national/blog/video/about_us/rexs_video_bio.html|title=Rex Murphy's Video Biography|work=CBC|access-date=2007-08-20 }}
+
+{{Newfoundland and Labrador politics}}
+{{Canada topic|Politics of}}
+{{Politics of Canadian provinces}}
+{{Newfoundland and Labrador provincial political parties}}
+{{NL-ED}}
+{{NLPremiers}}
+{{Authority control}}
+
+{{DEFAULTSORT:Politics Of Newfoundland And Labrador}}
+[[Category:Politics of Newfoundland and Labrador| ]]

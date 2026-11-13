@@ -1,0 +1,402 @@
+{{short description|Series of proposed amendments to the Constitution of Canada}}
+{{More citations needed|date=September 2021}}
+The '''Charlottetown Accord''' ({{langx|fr|Accord de Charlottetown}}) was a package of proposed amendments to the [[Constitution of Canada]], proposed by the [[Canada|Canadian]] federal and provincial governments in 1992. It was submitted to a public [[referendums in Canada|referendum]] on October 26 and was defeated.
+
+==Background==
+The [[Statute of Westminster, 1931|Statute of Westminster (1931)]] gave Canada legislative independence from the [[United Kingdom]]. Canada requested that the [[British North America Acts]] (the written portions of the [[Constitution of Canada]]) be exempted from the statute because the federal and provincial governments could not agree upon an amending formula for the acts.  Negotiations between Ottawa and the provinces were finally successful in 1981, allowing Canada to [[patriation|patriate]] its constitution by passing the ''[[Canada Act 1982]]'', which included the ''[[Constitution Act, 1982]]'' and the [[Canadian Charter of Rights and Freedoms|Charter of Rights and Freedoms]], and finally established an amending formula for the Canadian Constitution. These constitutional changes had the consent of all provincial governments except Quebec's.
+
+Attempts to appease Quebec's enduring resentment and demands resulted in the [[Meech Lake Accord]], which failed when the provinces of [[Manitoba]] and [[Newfoundland and Labrador|Newfoundland]] were not able to ratify the document by the deadline established. This was followed by a resurgence in the [[Quebec sovereignty movement]]. Premier [[Robert Bourassa]] stated that a referendum would occur in 1992 on either a new constitutional agreement with Canada or sovereignty for Quebec, and citing his dignity, refused to again negotiate as one province.{{clarify|date=November 2020 |reason=How else would he negotiate? }}
+
+The Quebec government set up the [[Allaire Report|Allaire Committee]] and the [[Commission on the Political and Constitutional Future of Quebec|Bélanger–Campeau Committee]] to discuss Quebec's future and the federal government struck the [[Beaudoin–Edwards Committee]] and the [[Spicer commission]] to find ways to resolve concerns in Canada's other provinces.
+
+Former Prime Minister [[Joe Clark]] was appointed [[Minister responsible for Constitutional Affairs]] on 21 April 1991,<ref>{{cite book |author-link=Peter C. Newman |first=Peter C. |last=Newman |title-link=The Secret Mulroney Tapes |title=The Secret Mulroney Tapes: Unguarded Confessions of a Prime Minister |publisher=Random House Canada |date=2005 |page=11}}</ref> and was made responsible by Prime Minister [[Brian Mulroney]] for pulling together a new constitutional agreement. Clark conducted over the period from November 1991 to its culmination in August 1992 a series of negotiations with the non-Quebec premiers on a new constitutional accord. Representation for Quebec was not physically present, but communications were held through a back channel. Broad agreement was made for the Meech Lake provisions to be included, a recognition of aboriginal self-government, and wholesale Senate reform that allowed for equality of the provinces. A misunderstanding on the back channel regarding Quebec's position on the latter created an impression that the agreement would be acceptable to the National Assembly, and Clark announced that a consensus had been reached.
+
+Mulroney, advised of the agreement while in Paris, was shocked and dismayed, as he believed the Senate arrangements would doom any agreement in Quebec. However, a refusal of the agreement would necessitate the resignation of the popular and influential Clark from Cabinet, crippling his already unpopular government. Mulroney decided to work with the agreement, and on August 28, 1992, the agreement known as the Charlottetown Accord was reached. It required intense negotiations in [[Charlottetown]], Prince Edward Island, between federal, provincial and territorial governments, and representatives from the [[Assembly of First Nations]], the [[Native Council of Canada]], the [[Inuit Tapiriit Kanatami|Inuit Tapirisat of Canada]] and the [[Métis National Council]].
+
+==Topics addressed by the Accord==
+
+===Aboriginal self-government===
+
+The Accord would have substantially altered the status of Aboriginal groups in Canadian political society. Under the Accord, an Aboriginal right to self-government would have been enshrined in the Canadian Constitution. Moreover, the Accord would have recognized Aboriginal governments as a third order of government, analogous to the federal government and the provinces. In other words, Aboriginal governments would have been granted their own order of government, which would have been constitutionally autonomous from the federal and provincial levels of government. Aboriginal legislation, however, would have been required to be consistent with the principles of "peace, order, and good government in Canada", and would have been subject to judicial review under the ''Canadian Charter of Rights and Freedoms''.
+
+Beyond these general principles, the Charlottetown Accord did not provide any details on the precise form that such Aboriginal self-government would have taken, or how the transition would have been effected. Further, it provided for a breathing period before Aboriginal groups could access the right to self-government in the courts. This would have allowed the federal government and the provinces time to negotiate the details in the absence of court decisions. If, however, self-government was not realized during this period, then Aboriginal groups could litigate matters in the courts.
+
+In addition to the principle of self-government, the Charlottetown Accord would have entrenched existing treaty rights in the Constitution (although it would not have created any additional treaty rights) and it would have given constitutional recognition to Métis rights.<ref name="mapleleafweb.com" />
+
+===Canada Clause===
+
+A central component of the Charlottetown Accord was the ''Canada Clause'', which was intended to be an interpretive section of the Canadian Constitution. The Canada Clause set out general values which it asserted defined the nature of Canadian character and political society. One such value was the recognition of Quebec as a distinct society within Canada. Other aspects of the Canada Clause dealt with the rule of law, Canada as a parliamentary and federal system, Aboriginal Peoples of Canada and their rights, official-language minorities, cultural and racial diversity, individual and collective rights, gender equality, and the equality and diversity of the provinces. The purpose of this Clause was to symbolically recognize what the leaders believed to be the core values of Canada. On a more practical level, it would require the courts to interpret the Constitution in accordance with the basic values outlined.<ref name="mapleleafweb.com">{{cite web|url=http://mapleleafweb.com/features/charlottetown-accord-history-and-overview|title=Charlottetown Accord: History and Overview - Mapleleafweb.com|website=mapleleafweb.com|date=10 February 2009 }}</ref>
+
+===Federalism===
+The Charlottetown Accord attempted to resolve long-standing disputes around the [[Canadian federalism|division of powers between federal and provincial jurisdiction]].
+
+The Accord declared that forestry, mining, natural resources, and cultural policy would become provincial jurisdictions, with the federal government retaining jurisdiction over national cultural bodies such as the [[Canadian Broadcasting Corporation]] and the [[National Film Board of Canada|National Film Board]]. Federal funding would also have been guaranteed for programs under provincial heads of power, such as Medicare, limiting the federal government's authority to negotiate national standards in return for funding increases. The accord also required the federal and provincial governments to harmonize policy in telecommunications, labour development and training, regional development, and immigration.
+
+The federal power of [[disallowance and reservation in Canada|reservation]], under which the provincial [[lieutenant governor]] could refer a bill passed by a provincial legislature to the federal government for assent or refusal, would have been abolished, and the federal power of [[disallowance and reservation in Canada|disallowance]], under which the federal government could overrule a provincial law that had already been signed into law, would have been severely limited.
+
+The accord formally institutionalized the federal-provincial-territorial [[First Ministers conference|consultative process]], and provided for Aboriginal inclusion in certain circumstances. It also increased the number of matters in the existing constitutional amending formula that required unanimous consent.
+
+===Institutional reform===
+The Accord proposed a number of major reforms to Federal institutions. The [[Supreme Court of Canada]] and its [[Supreme Court Act|governing legislation]] were to be constitutionally entrenched, ending the ambiguity surrounding the inclusion of the Court in the ''Constitution Act, 1982'', but not its governing statute.
+
+The [[Senate of Canada]] would have been reformed, with senators to be elected either in a general election or by provincial legislatures at the discretion of the provinces. Six would be assigned for every province and one for each territory, with additional seats able to be created for Aboriginal voters. The enumerated powers of the Senate would be reduced, with the body's power to defeat legislation removed and replaced with [[suspensive veto]]es and, in cases of deadlock, joint sittings between the Senate and the (much larger) House of Commons. On matters related to francophone culture and language, passage of a bill would require a majority in the Senate as a whole and a majority of (self-declared) francophone senators.
+
+Changes were also proposed for the House of Commons. Following the "equalization" of the Senate, the House's seat distribution would also be based more on population than previously, with more seats allotted to Ontario and the Western provinces. In exchange for Quebec losing Senate seats under a [[Triple-E Senate]] (dropping from 24 to 6), Quebec was guaranteed never to be allotted less than 25% of the seats in the House.
+
+===Social charters===
+
+The accord also proposed a social charter to promote such objectives as [[health care]], [[social welfare|welfare]], [[education]], [[natural environment|environment]]al protection, and [[collective bargaining]]. It also proposed the elimination of barriers to the free flow of goods, services, labour and capital, and other provisions related to [[employment]], [[standard of living]], and development among the provinces.
+
+==The referendum==
+{{see also|Referendums in Canada#Referendum on the Charlottetown Accord}}
+{{Infobox referendum
+| name        = Charlottetown Accord Referendum
+| title       = Do you agree that the Constitution of Canada should be renewed on the basis of the agreement reached on August 28, 1992?<br />{{langx|fr|Acceptez-vous que la Constitution du Canada soit renouvelée sur la base de l'entente conclue le 28 août 1992 ?|link=no}}
+| location    = Canada
+| date        = {{Start date|1992|10|26}}
+| yes         =  6,185,902
+| no          =  7,550,732
+| invalid     =    136,730
+| electorate  = 18,598,931
+| map         = Canada 1992 Referendum.svg
+| mapdivision = [[Provinces and territories of Canada|province and territory]]
+| notes       = 
+| legend_yes  = #2166ac
+| legend_no   = #b2182b
+|map_caption=Results by province and territory{{col-begin}}{{col-2}}'''No'''{{legend|#DEDEBD|50–59%}}{{legend|#BCBC83|60–69%}}{{col-2}}'''Yes'''{{legend|#B6C8D9|50–59%}}{{legend|#7D9CBB|60–69%}}{{legend|#47729E|70–79%}}{{col-end}}|map_size=300px|country=Canada}}
+Unlike the Meech Lake Accord, the Charlottetown Accord's ratification process provided for a national referendum. Three provinces — [[British Columbia]], [[Alberta]], and [[Quebec]] — had recently passed legislation requiring that constitutional amendments be submitted to a public referendum. At risk of a greater perception of unfairness if only three provinces were able to vote, Prime Minister Mulroney decided to go with a national referendum. Mulroney's government subsequently introduced the ''[[Referendum Act 1992|Referendum Act]]'', which was duly passed by Parliament to provide a legal framework for the conduct of referendums on constitutional matters. Notably, the law explicitly gave the federal government the power to conduct such votes in only some provinces while excluding others. British Columbia and Alberta agreed to have their referendums overseen by [[Elections Canada]], but Quebec opted to conduct its vote provincially. One of the effects of the arrangement was that Quebecers "temporarily" living outside the province could have two votes, since they were enumerated to the voters' list based on federal rules, whereas people relatively new to Quebec could not vote at all because they had not established residency.
+
+The referendum's measure of success was an open question, as the amending formula in Part V of the ''[[Constitution Act, 1982]]'', only considered the consent of provincial legislatures and had no binding referendum mechanism. The government took an ambiguous stance, with speculation that if one or more recalcitrant provinces voted "No," the legislature could be convinced to pass the national package anyway. The minimum standard was generally seen to have been a majority "Yes" vote in Quebec and a majority of voters in favour of "Yes" amongst the other nine provinces collectively.<ref>Discussed in "The Challenge of Direct Democracy", Richard Johnston, André Blais, Elisabeth Gidengil and Neil Nevitt</ref>
+
+The campaign began with the accord popular across English Canada, with a statistical dead heat in Quebec.
+
+===Support===
+The campaign saw an alignment of disparate groups in support of the new amendments. The [[Progressive Conservative Party of Canada|Progressive Conservatives]], the [[Liberal Party of Canada|Liberals]], and the [[New Democratic Party of Canada|New Democratic Party]] supported the accord. [[First Nations in Canada|First Nations]] groups endorsed it as did some women's groups and business leaders. All ten provincial premiers supported it. Most major media and media figures seemed to support it.{{citation needed|date=June 2016}} All three major party leaders travelled the country supporting the accord while large amounts of money were spent on pro-accord advertising. While many advocates of the accord acknowledged that it was a compromise and had many flaws, they also felt that without it the country would break apart.
+
+===Opposition===
+Former Prime Minister [[Pierre Trudeau]] was a prominent opponent of the Accord. In a piece first published in ''[[Maclean's]]'', he argued that the accord meant the end of Canada and was the effective disintegration of the federal government. He hosted a press conference at a [[Montreal]] restaurant, the transcript of which was published and distributed in book form as ''A Mess That Deserves a Big No''.<ref>{{Cite book|last=Trudeau|first=Pierre|date=1992|title=A Mess That Deserves a Big NO|publisher=Robert Davies Pub. |isbn=9782890192508|url=https://books.google.com/books?id=osFVAAAAYAAJ}}</ref>
+
+[[Preston Manning]]'s fledgling, western-based [[Reform Party of Canada|Reform Party]] battled the Accord in the West with the slogan, "K''NO''w More", opposing recognition of Quebec's "distinct society", Quebec's guarantee of 25% of House seats and arguing that Senate reform did not go far enough.
+
+The two Quebec sovereigntist parties, [[Lucien Bouchard]]'s [[Bloc Québécois]] and [[Jacques Parizeau]]'s [[Parti Québécois]], both strongly opposed the Accord, as they believed it did not give Quebec enough powers.
+
+==Waning popularity==
+{{Unreferenced section|date=August 2021}}
+As the campaign progressed, the accord steadily became less and less popular. This is often credited to much of the electorate finding at least some aspect of the lengthy accord with which they disagreed and the extreme unpopularity of Prime Minister Mulroney in 1992. Canada was experiencing a deepening recession since the Meech Lake Accord process ended on June 23, 1990, and many saw a political elite obsessed with constitutional affairs to the detriment of the health of the economy.
+
+Mulroney was already deeply unpopular with Canadian voters, and was generally seen to have made a number of mistakes in the referendum campaign. Most famously, he referred to persons against the Accord as "enemies of Canada", and while speaking about the dangers of voting against the agreement in [[Sherbrooke]], he ripped a piece of paper in half with a dramatic flourish to represent the historic gains for Quebec that would be threatened if the accord failed. Many voters, in fact, misinterpreted the action as a reference to the potential breakup of the country, with overtones of belligerence and intimidation.
+
+The Accord was especially unpopular in Western provinces, where prominent figures argued that the Accord was essentially a document created by the nation's elites to codify their vision of what Canada "should" be. B.C. broadcaster [[Rafe Mair]] gained national prominence by arguing that the accord represented an attempt to permanently cement Canada's power base in the Quebec-Ontario bloc at the expense of fast-growing, wealthy provinces like Alberta and British Columbia that were challenging its authority. To proponents of such beliefs, opposing the accord became portrayed as a campaign of [[grassroots]] activism against the interests of the powerful.
+
+In Quebec, a tape featuring two [[Bureaucracy|bureaucrats]] saying that Bourassa had "caved" in negotiations was played on a radio station. Further undermining the "Yes" vote in Quebec was when British Columbia's Constitutional Affairs minister [[Moe Sihota]], responding to Mair's comments, said that Bourassa had been "outgunned" in the discussions. Despite a consensus victory by Bourassa in a television debate against Parizeau, the "Oui" campaign stalled at 45% in the polls.
+
+==Opinion polls==
+===All of Canada===
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px"
+|-
+! style="width:100px;"| Completion Date 
+!Polling firm
+! Source 
+!class="unsortable" style="background:#99f;"| Yes
+!class="unsortable" style="background:#dc241f; color:white;"|No
+!class="unsortable"  style="background:gray;color:white"| Undecided
+! {{Abbr|ME|Margin of Error}}
+! Sample
+!class="unsortable"| Lead
+|-
+|style="background:#D5D5D5"| ''October 26, 1992'' 
+|style="background:#D5D5D5" |''Official results'' 
+|style="background:#D5D5D5"| 
+|style="background:#D5D5D5"|'''45.7%''' 
+|style="background:#dc241f"|'''54.3''' 
+|style="background:#D5D5D5" | 
+|style="background:#D5D5D5" | 
+|style="background:#D5D5D5" | 
+|style="background:#dc241f; color:white;"|''8.6%''
+|-
+|August, 1992 
+|CROP
+|<ref>{{cite news |title=Not a 'clean launch' |last=Fraser |first=Graham |date=August 31, 1992 |page=A4}}</ref> 
+|37
+|style="background:#f8c1be;"|'''37'''
+|33
+|{{N/A}}
+|{{N/A}}
+|style="background:#dc241f; color:white;"| 7 
+|-
+|August 16, 1992 
+|Insight 
+|<ref>{{cite news |title=Few risks in referendum, poll says |date=August 31, 1992 |page=A4}}</ref> 
+|style="background:#99f;"|'''67'''
+|20
+|13
+|{{N/A}}
+|{{N/A}}
+|style="background:#004281; color:white;"| 47 
+|-
+|October 29, 1991
+|Angus Reid
+|<ref name="ReidNov1991">{{cite news |title=Support for proposals on the wane, poll finds |last=Bryden |first=Joan |date=November 6, 1991 |page=A6}}</ref> 
+|style="background:#99f;"|'''41'''
+|40
+|20
+|{{formatnum:2.5}}
+|{{formatnum:1500}}
+|style="background:#004281; color:white;"| 1  
+|}
+
+===Quebec only===
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px"
+|-
+! style="width:100px;"| Completion Date 
+!Polling firm
+! Source 
+!class="unsortable" style="background:#99f;"| Yes
+!class="unsortable" style="background:#dc241f; color:white;"|No
+!class="unsortable" style="background:gray;color:white"| Undecided
+!class="unsortable"| {{Abbr|ME|Margin of Error}}
+!class="unsortable"| Sample Size
+!class="unsortable"| Lead
+|-
+|style="background:#D5D5D5"| ''October 26, 1992'' 
+|style="background:#D5D5D5" |''Official results'' 
+|style="background:#D5D5D5"| 
+|style="background:#D5D5D5"|'''43.3''' 
+|style="background:#dc241f"|'''56.7''' 
+|style="background:#D5D5D5"| 
+|style="background:#D5D5D5"|
+|style="background:#D5D5D5"|{{formatnum:3945189}}<ref name="QuebecResults">{{cite web |url=https://www.electionsquebec.qc.ca/en/results-and-statistics/referendum-on-the-charlottetown-constitutional-accord/ |title=Results and statistics from the October 26, 1992 referendum |date=17 May 2021 |publisher=Élections Québec}}</ref>
+|style="background:#dc241f; color:white;"|''13.4''
+|-
+|October 22, 1992 
+|CROP
+|<ref>{{cite news |last=Picard |first=Andre |title=Both sides preach unity to Quebec: CROP poll gives No side wide lead
+ |date=October 26, 1992 |page=A4}}</ref> 
+|31
+|style="background:#f8c1be;"|'''52'''
+|17
+
+|{{formatnum:3}}
+|{{formatnum:1016}}
+|style="background:#dc241f; color:white;"|14 
+|-
+|September 30, 1992 
+|Leger
+|<ref>{{cite news |title=Yes side in a slide |date=October 3, 1992 |page=A4}}</ref> 
+|28.8
+|style="background:#f8c1be;"|'''42.8'''
+|28.4 
+
+|{{formatnum:3}}
+|{{formatnum:1006}}
+|style="background:#dc241f; color:white;"|14 
+|-
+|September 19, 1992 
+|CROP
+|<ref>{{cite news |title=Prominent businessman says Yes in Quebec |last=Picard |first=Andre |date=September 24, 1992 |page=A10}}</ref> 
+|38
+|style="background:#f8c1be;"|'''46'''
+|33
+|{{formatnum:3}}
+|{{formatnum:1016}}
+|style="background:#dc241f; color:white;"|8 
+|-
+|August, 1992 
+|Environics
+|<ref>{{cite news |title=For Bourassa, the Yes campaign has got off to a shaky start |last=Gagnon |first=Lysiane |date=September 12, 1992 |page=D3}}</ref> 
+|style="background:#99f;"|'''43'''
+|39
+|18
+|
+|
+|style="background:#004281; color:white;"|5 
+|-
+|October 29, 1991 
+|Angus Reid
+|<ref name="ReidNov1991"/>
+|23
+|style="background:#f8c1be;"|'''52'''
+|25
+|{{N/A}}
+|{{N/A}}
+|style="background:#dc241f; color:white;"|14 
+|-
+|}
+
+===Alberta only===
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px"
+|-
+! style="width:100px;"| Completion Date 
+!Polling firm
+! Source 
+!class="unsortable" style="background:#99f;"| Yes
+!class="unsortable" style="background:#dc241f; color:white;"|No
+!class="unsortable" style="background:gray;color:white"| Undecided
+!class="unsortable"| {{Abbr|ME|Margin of Error}}
+!class="unsortable"| Sample Size
+!class="unsortable"| Lead
+|-
+|style="background:#D5D5D5"| ''October 26, 1992'' 
+|style="background:#D5D5D5" |''Official results'' 
+|style="background:#D5D5D5"| 
+|style="background:#D5D5D5"|'''39.8''' 
+|style="background:#dc241f"|'''60.2''' 
+|style="background:#D5D5D5"| 
+|style="background:#D5D5D5"|
+|style="background:#D5D5D5"|{{formatnum:484472}}
+|style="background:#dc241f; color:white;"|''13.4''
+|-
+|October 1992
+|Angus Reid
+|<ref>{{cite news |title=Mulroney makes bid to turn Alberta tide: Weekend poll finds No side in control
+ |last=Cernetig |first=Miro|date=September 12, 1992 |page=D3}}</ref> 
+|35
+|style="background:#f8c1be;"|'''55'''
+|10
+|{{formatnum:6}}
+|{{N/A}}
+|style="background:#dc241f; color:white;"|20
+|}
+
+===British Columbia only===
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px"
+|-
+! style="width:100px;"| Completion Date 
+!Polling firm
+! Source 
+!class="unsortable" style="background:#99f;"| Yes
+!class="unsortable" style="background:#dc241f; color:white;"|No
+!class="unsortable" style="background:gray;color:white"| Undecided
+!class="unsortable"| {{Abbr|ME|Margin of Error}}
+!class="unsortable"| Sample Size
+!class="unsortable"| Lead
+|-
+|style="background:#D5D5D5"| ''October 26, 1992'' 
+|style="background:#D5D5D5" |''Official results'' 
+|style="background:#D5D5D5"| 
+|style="background:#D5D5D5"|'''31.7''' 
+|style="background:#dc241f"|'''68.3''' 
+|style="background:#D5D5D5"| 
+|style="background:#D5D5D5"|
+|style="background:#D5D5D5"|
+|style="background:#dc241f; color:white;"|''36.6''
+|-
+|October 1992
+|Angus Reid
+|<ref>{{cite news |title=Mulroney makes bid to turn Alberta tide: Weekend poll finds No side in control
+ |last=Cernetig |first=Miro|date=September 12, 1992 |page=D3}}</ref> 
+|30
+|style="background:#f8c1be;"|'''61'''
+|9
+|{{N/A}}
+|{{N/A}}
+|style="background:#dc241f; color:white;"|20
+|}
+
+==Results==
+On October 26, 1992, two referendums, the Quebec government's referendum in Quebec, and the federal government's referendum in all other provinces and territories, were put to the voters.<ref>[https://www.thestar.com/opinion/editorialopinion/2012/10/26/rejection_of_charlottetown_accord_ended_era_of_constitutional_reform.html "Rejection of Charlottetown accord ended era of constitutional reform"]. ''Toronto Star'', By John D. Whyte. Oct. 26, 2012</ref>
+
+The Question:
+
+: ''Do you agree that the Constitution of Canada should be renewed on the basis of the agreement reached on August 28, 1992?''<br><small>[[French language|French]]: ''Acceptez-vous que la Constitution du Canada soit renouvelée sur la base de l'entente conclue le 28 août 1992 ?''</small>
+
+{| width=100% cellspacing=0 cellpadding=0 style="text-align: center;"
+| width=54.3% style="background-color: #fcc;" | No/Non: '''54.3%'''
+| width=45.7% style="background-color: cornflowerblue" | Yes/Oui: '''45.7%'''
+|-
+| colspan=4 style="text-align: center; line-height: 80%;" | '''▲'''
+|}
+
+===Breakdown by province===
+
+
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px"
+|- align="center" style="background:#E9E9E9;"
+! align="left" | Jurisdiction !! Yes votes !! No votes !! Yes(%) !! No(%) !! Turnout
+|-
+| align="left" | [[Alberta]] || {{formatnum:484472}} || bgcolor="red"|{{formatnum:732457}} || 39.8 || bgcolor="red"|60.2 || 72.6
+|-
+| align="left" | [[British Columbia]] || {{formatnum:528773}} || bgcolor="red"|{{formatnum:1139127}} || 31.7 || bgcolor="red"|68.3 || 76.7
+|-
+| align="left" | [[Manitoba]] || {{formatnum:199905}} || bgcolor="red"|{{formatnum:320918}} || 38.4 || bgcolor="red"|61.6 || 70.6
+|-
+| align="left" | [[New Brunswick]] || bgcolor="cornflowerblue"|{{formatnum:234469}} || {{formatnum:114885}} || bgcolor="cornflowerblue"|61.8 || 38.2 || 72.2
+|-
+| align="left" | [[Newfoundland and Labrador|Newfoundland]] ||bgcolor="cornflowerblue"| {{formatnum:133583}} || {{formatnum:77742}} ||bgcolor="cornflowerblue"|63.2 || 36.8 || 53.3
+|-
+| align="left" | [[Nova Scotia]] || {{formatnum:218967}} ||bgcolor="red"|{{formatnum:229690}} || 48.8 || bgcolor="red"|51.2 || 67.8
+|-
+| align="left" | [[Ontario]] ||bgcolor="cornflowerblue"| {{formatnum:2409713}} || {{formatnum:2395465}} || bgcolor="cornflowerblue"|50.1 || 49.9 || 71.9
+|-
+| align="left" | [[Prince Edward Island]] ||bgcolor="cornflowerblue"| {{formatnum:48541}} || {{formatnum:17128}} || bgcolor="cornflowerblue"|73.9 || 26.2 || 70.5
+|-
+| align="left" | [[Quebec]]<ref group=Note name=Note01/><ref name="QuebecResults"/> || {{formatnum:1709075}} || bgcolor="red"|{{formatnum:2236114}}|| 43.3 || bgcolor="red"|56.7 || 82.8
+|-
+| align="left" | [[Saskatchewan]] || {{formatnum:203525}} || bgcolor="red"|{{formatnum:251441}}|| 44.7 || bgcolor="red"|55.3 || 68.7
+|-
+| align="left" | [[Northwest Territories]] ||bgcolor="cornflowerblue"| {{formatnum:14723}} || {{formatnum:9280}}|| bgcolor="cornflowerblue"|61.3 || 38.7 || 70.4
+|-
+| align="left" | [[Yukon|Yukon Territory]] || {{formatnum:5360}} || bgcolor="red"|{{formatnum:6916}} || 43.7 || bgcolor="red"|56.3 || 70.0
+|- style="background:#E9E9E9;"
+! align="left" | Nation total<ref>{{cite report
+ | date        = 1994
+ | title       = The 1992 Federal Referendum: A Challenge Met
+ | publisher   = Chief Electoral Office of Canada
+ | page        =57
+|url=https://publications.gc.ca/site/eng/9.697844/publication.html
+}}</ref> !! {{formatnum:4482031}} !! {{formatnum:5325049}} !! 45.7 !! bgcolor="red"|54.3 !! 71.8
+|}
+
+===Notes===
+
+{{reflist|group=Note|refs=
+<ref name=Note01>Quebec's results were tabulated by the {{lang|fr|i=unset|Directeur général des élections du Québec}}, not by the federal Chief Electoral Officer as in other provinces.</ref>
+}}
+
+==Aftermath==
+The impact of the referendum caused the [[Canadian Press]] to label it the [[Canadian Newsmaker of the Year]], an honour that usually goes to individual people. CBC said that this was the first time that the "country's newsrooms have selected a symbol instead of a specific person", which was done again in 2006,<ref>CBC.ca, "[https://www.cbc.ca/news/canada/canadian-soldier-voted-2006-newsmaker-1.579620 'Canadian Soldier' voted 2006 Newsmaker]," ''[[Canadian Broadcasting Corporation]]'', December 25, 2006, URL accessed 16 February 2010.</ref> 2007, and 2020.<!---RCMP-->
+
+Many thought, from a perspective favouring national unity, that the result given was probably the next-best result to the Accord passing: since both Quebec and English Canada rejected it, and the only widespread support for the Accord had been in Atlantic Canada (and even there it was rejected in Nova Scotia) and the Northwest Territories, there really was not a fundamental disagreement as there was with Meech. A division in the [[Quebec Liberal Party]] over the accord brought former Liberal youth committee president [[Mario Dumont]] to form the {{lang|fr|i=no|[[Action démocratique du Québec]]}} in 1994.
+
+Probably the most striking result of the referendum was the effect of most of Canada's population voting against an agreement endorsed by every first minister and most other political groups, and most media. Despite sustained political and media pressure, a majority of Canadian voters were unwilling to support the Accord. This stinging rebuke against the "political class" in Canada was a preview of things to come. Mulroney retired from politics in June 1993 after polls showed the Tories would be heavily defeated under his continued leadership. In the [[1993 Canadian federal election|federal election on October 25, 1993]], a year less a day after the Charlottetown referendum, the Progressive Conservatives under Mulroney's successor, Prime Minister [[Kim Campbell]], were reduced to two seats in the worst defeat of a sitting government at the federal level. They were replaced in most Western ridings by the Reform Party and in Quebec by the Bloc Québécois, parties who had opposed the Accord and who had not previously won seats as parties in any general election. The NDP was cut down to only nine seats. Both the PCs and NDP thereby lost [[official party status]] in the [[35th Canadian Parliament]].
+
+The Liberals, despite their support for the accord, had a new leader in [[Jean Chrétien]] who promised not to revisit constitutional issues, and won a large majority in the new Parliament. The Liberals won nearly every seat in [[Ontario]] and [[Atlantic Canada]], and in spite of the Reform and Bloc breakthroughs won respectable numbers of seats in Quebec and [[Western Canada]].
+
+One of the Accord's reforms dealing specifically with New Brunswick was successfully enacted in 1993 as [[Section Sixteen One of the Canadian Charter of Rights and Freedoms|section 16.1 of the Charter of Rights]].<ref>Russell, Peter.  ''Constitutional Odyssey,'' 2nd ed. (Toronto:  University of Toronto Press, 1993), p. 231.</ref>
+
+In the late 1990s and early 2000s, several matters relating to the status of Quebec were pursued through Parliament (e.g., the [[Clarity Act]]) or through intergovernmental agreements. In 2006 the [[House of Commons of Canada]] passed the [[Québécois nation motion]], recognizing the Québécois as a nation within a united Canada. {{As of|2025}} there have been no further attempts to resolve the status of Quebec through a formal constitutional process.
+
+Changes to Canada's population confirm that Quebec's 25% guarantee clause would have taken effect during seat distributions. During [[Canadian federal electoral redistribution, 2012|Canada's 2012 redistribution of House of Commons seats]], Quebec received seats that were proportional to its population relative to Canada (23%), slightly fewer than the 25% of seats it would have been guaranteed under the Accord.
+
+==See also==
+*[[2026 Alberta referendum]]
+
+==References==
+{{Reflist}}
+
+== Further reading ==
+{{refbegin}}
+* {{cite book |last1=Russell |first1=Peter H. |author1-link=Peter H. Russell |title=Constitutional Odyssey: can Canadians become a sovereign people? |date=2004 |publisher=University of Toronto Press |location=Toronto |edition=3rd|isbn=978-0-8020-3936-1 |url=https://archive.org/details/constitutionalod0000russ |url-access=registration}}
+* {{cite book |last1=Johnston |first1=Richard |last2=Blais |first2=André |last3=Gidengil |first3=Elisabeth |last4=Nevitte |first4=Neil |author2-link=André Blais |author3-link=Elisabeth Gidengil |title=The challenge of direct democracy: the 1992 Canadian referendum |date=1996 |publisher=McGill-Queen's University Press |location=Montreal |isbn=978-0-7735-1504-8 |url=https://archive.org/details/challengeofdirec0000unse |url-access=registration}}
+* {{cite book |editor1-last=McRoberts |editor1-first=Kenneth |editor2-last=Monahan |editor2-first=Patrick J. |editor2-link=Patrick J. Monahan |title=The Charlottetown Accord, the referendum, and the future of Canada |date=1993 |publisher=University of Toronto Press |location=Toronto |isbn=978-1-4875-7768-1 |url=https://archive.org/details/charlottetownacc0000unse_o7p8 |url-access=registration}}
+{{refend}}
+
+==External links==
+*[https://thecanadianencyclopedia.ca/en/article/charlottetown-accord-document/ Charlottetown Accord document] The Canadian encyclopedia
+*[https://web.archive.org/web/20060712155629/http://fc.lbpsb.qc.ca/~history/time-today-ctown.ra History of Quebec and Canada Resource Centre]: A clip of Brian Mulroney speaking after the defeat of the Accord
+* [https://web.archive.org/web/20180908015736/https://lop.parl.ca/content/lop/researchpublications/bp406-f.htm Charlottetown Accord] Canada parliament library
+* [https://dn790006.ca.archive.org/0/items/31761115498693/31761115498693.pdf Draft Legal Text]
+
+{{Canada elections}}
+{{Constitution of Canada|debates}}
+{{Canadian Newsmaker of the Year}}
+{{Brian Mulroney}}
+
+[[Category:1992 referendums]]
+[[Category:1992 in Canadian politics]]
+[[Category:Constitution of Canada]]
+[[Category:Referendums in Canada]]
+[[Category:History of Canada (1982–1992)]]
+[[Category:1992 in Quebec]]
+[[Category:1992 documents]]
+[[Category:Premiership of Brian Mulroney]]

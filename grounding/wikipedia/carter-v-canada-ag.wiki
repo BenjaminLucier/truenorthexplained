@@ -1,0 +1,91 @@
+{{short description|Decision of the Supreme Court of Canada}}
+{{Italic title|all=yes}}
+{{Infobox SCC
+  |case-name=Carter v Canada (Attorney General)
+  |full-case-name=
+  |heard-date=October 15, 2014
+  |decided-date=February 6, 2015
+  |citations={{cite CanLII|year=2015|court=SCC|num=5}}, [2015] 1 SCR 331
+  |docket= S112688
+  |history=On appeal from the [[Court of Appeal for British Columbia]]
+  |subsequent=
+  |ruling=Appeal allowed
+  |ratio= Criminal prohibition of assisted suicide violates the ''Charter''.
+  |SCC=2014-2014
+  |PerCuriam=yes
+  |Majority=
+  |JoinMajority=
+  |Concurrence=
+  |JoinConcurrence=
+  |Concurrence/Dissent=
+  |JoinConcurrence/Dissent=
+  |Dissent=
+  |JoinDissent=
+  |NotParticipating=
+  |LawsApplied=''Canadian Charter of Rights and Freedoms'', s 7 <br /> ''Criminal Code'', ss 14, 241(b)
+  |italic title=no
+}}
+'''''Carter v Canada (AG)''''', 2015 SCC 5,<ref>{{cite CanLII|litigants=Carter v Canada (Attorney General)|link=|year=2015|court=SCC|num=5|format=|pinpoint=|parallelcite=[2015] 1 SCR 331|date=|courtname=|juris=}}</ref> is a landmark [[Supreme Court of Canada]] decision where the prohibition of [[assisted suicide]] was challenged as contrary to the ''[[Canadian Charter of Rights and Freedoms]]'' ("''Charter''") by several parties, including the family of Kay Carter, a woman suffering from degenerative [[spinal stenosis]], and [[Gloria Taylor (patient)|Gloria Taylor]], a woman suffering from [[amyotrophic lateral sclerosis]] ("ALS").<ref name=bccla>[https://bccla.org/our-work/blog/death-with-dignity-case/ Carter v. Canada: The Death with Dignity Case], British Columbia Civil Liberties Association</ref> In a unanimous decision on February 6, 2015, the Court struck down the provision in the ''[[Criminal Code (Canada)|Criminal Code]]'', thereby giving Canadian adults who are mentally competent and suffering intolerably and enduringly the right to a doctor's assistance in dying.<ref>{{cite web |url=https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/14637/index.do |title=Supreme Court Judgments  |author=<!--no by-line.--> |date=February 6, 2015 |website=Supreme Court of Canada |publisher=SCC/CSC |access-date=January 2, 2016}}</ref> This ruling overturned the Supreme Court's 1993 ruling in ''[[Rodriguez v British Columbia (AG)]],'' which had denied a right to assisted suicide.
+
+The court suspended its ruling for 12 months, with the decision taking effect in 2016, to give the federal government enough time to amend its laws.<ref name=npr>{{cite web|last1=Chappell|first1=Bill|title=Canadians Have A Right To Assisted Suicide, High Court Says|url=https://www.npr.org/blogs/thetwo-way/2015/02/06/384292996/canadians-have-a-right-to-assisted-suicide-high-court-says|website=NPR|accessdate=9 February 2015}}</ref> In January 2016, the court granted an additional four-month extension to its ruling suspension to allow time for the newly elected federal Liberal government to consult with Canadians on drafting a law to comply with the ruling. As an interim measure, it also ruled that provincial courts could approve applications for euthanasia until the new law passed.<ref>{{cite web | title = Supreme court gives Parliament 4-month extension on doctor-assisted dying law | date = January 15, 2016 | url = https://www.ctvnews.ca/canada/article/supreme-court-gives-parliament-4-month-extension-on-doctor-assisted-dying-law/ | access-date =28 February 2016 }}</ref>
+
+== Background ==
+In 1972, the Canadian government repealed the ''Criminal Code'' provision prohibiting suicide. However, 241(b) of the ''Criminal Code'' provided that everyone who aids or abets a person in committing suicide commits an indictable offence, and section 14 stated that no person may consent to death being inflicted on them. The Supreme Court denied a right to assisted suicide in their 1993 ruling ''[[Rodriguez v British Columbia (AG)]]'',<ref>''[http://canlii.ca/t/1frz0 Rodriguez v. British Columbia (Attorney General)] {{webarchive|url=https://archive.today/20130628044744/http://canlii.ca/t/1frz0 |date=2013-06-28 }}'', [1993] 3 SCR 519.</ref> upholding the constitutionality of the prohibitions based upon a thin evidentiary record.
+ 
+In April 2011, the [[British Columbia Civil Liberties Association]] ("BCCLA") filed a lawsuit challenging both section 14 and section 241(b) of ''Criminal Code'' (law that prohibits aiding a person to commit suicide), claiming they violated [[Section Seven of the Canadian Charter of Rights and Freedoms|sections 7]] (the right to "life, liberty, and security of the person) and [[Section Fifteen of the Canadian Charter of Rights and Freedoms|15(1)]] of the ''Charter'' (equality).<ref name=bccla />
+
+The case was heard at the [[Supreme Court of British Columbia]], which ruled in favour of the BCCLA in June 2012. The federal government appealed the ruling to the [[Court of Appeal for British Columbia]], which overturned the ruling in a 2–1 decision in October 2013. The BCCLA then filed a leave to appeal to the Supreme Court of Canada.<ref name=bccla />
+
+== Reasons of the Court ==
+The Court framed the issue at bar thus:
+{{cquote|[1] It is a crime in Canada to assist another person in ending her own life. As a result, people who are grievously and irremediably ill cannot seek a physician's assistance in dying and may be condemned to a life of severe and intolerable suffering. A person facing this prospect has two options: she can take her own life prematurely, often by violent or dangerous means, or she can suffer until she dies from natural causes. The choice is cruel.}}
+
+The Court found that section 241(b) and section 14 of the ''Criminal Code'' had a permissible object, identified as "not, broadly, to preserve life whatever the circumstances, but more specifically to protect vulnerable persons from being induced to commit suicide at a time of weakness." According to the Court, however, the relevant sections were overbroad in catching cases that fell outside of the object. Thus, the sections unjustifiably infringed [[Section 7 of the Canadian Charter of Rights and Freedoms|section 7]] of the ''Charter''; furthermore, this violation was not saved by operation of [[Section 1 of the Canadian Charter of Rights and Freedoms|section 1]].<ref>''{{Deprecated archive|url=https://archive.today/20150209143404/http://canlii.ca/t/gg5z4|title=Carter v Canada (AG)}}'', 2015 SCC 5</ref>
+
+=== ''Stare decisis'' ===
+The Court found that the trial judge was not bound by the Supreme Court's 1993 decision in ''[[Rodriguez v British Columbia (AG)]]'', instead holding that ''[[stare decisis]]'' is "not a straitjacket that condemns the law to stasis".<ref name=SCC_par44>SCC, par. 44</ref> The Court expanded on their discussion of the issue in ''[[Canada (AG) v Bedford]]'' by ruling trial judges may reconsider the decisions of higher courts if there is a new legal issue at bar, and if circumstances or evidence have "fundamentally shift[ed] the parameters of the debate".<ref name=SCC_par44/> The Court found that the section 7 legal issues raised in the case at bar differed from those in ''Rodriguez'', noting in particular the development of the overbreadth and gross disproportionality principles since 1993. The court also determined that the trial judge was entitled to consider the different "matrix of legislative and social facts"<ref>SCC, par. 47</ref> that had arisen since ''Rodriguez''.
+
+=== Division of powers ===
+The Court affirmed that section 241(b) of the ''Criminal Code'' fell within the federal government's [[Section 91(27) of the Constitution Act, 1867|section 91(27) criminal law power]]. Echoing their decision in ''[[Canada (AG) v PHS Community Services Society]]'',<ref>2011 SCC 44 at para 51.</ref> the Court dismissed the appellants' argument that section 241(b) lay within the core of the provincial [[Section 92 of the Constitution Act, 1867|section 92]] powers. [[Interjurisdictional immunity]] could not prevent the federal government from enacting the legislation, since the proposed core of the provincial health powers was overly vague. The Court reaffirmed that health is an area of concurrent jurisdiction, allowing both the federal and provincial legislatures to legislate in the area.<ref>SCC, para 50–53</ref>
+
+== Public reaction and planned implementation ==
+The decision was well received by many,<ref>{{cite news |title=Reactions to the SCC's historic ruling on doctor-assisted suicide |author=CTV News |url=https://www.ctvnews.ca/canada/article/reactions-to-the-sccs-historic-ruling-on-doctor-assisted-suicide/ |journal=[[CTV News]] |date=6 February 2015}}</ref> but characterized as [[judicial activism]] by others. The BCCLA, appellants at the Supreme Court, were "overjoyed" by the ruling, holding that "physician-assisted dying will now be recognized for what it is—a medical service".<ref>{{cite web |url=https://bccla.org/2015/02/the-death-with-dignity-decision-explained/ |title=What you need to know about Carter v. Canada: the death with dignity decision in 900 words |last1=Pastine |first1=Grace |date=6 February 2015 |website=[[BCCLA]] |publisher= |access-date=25 February 2015}}</ref> The day of the decision, [[Andrew Coyne]] wrote in his ''[[National Post]]'' column that the Court was being eerily complacent about ramifications of its decision.<ref>{{cite news |title=Crossing the Rubicon, Supreme Court seems eerily complacent about ramifications of assisted suicide ruling |last=Coyne |first=Andrew |url=https://nationalpost.com/opinion/andrew-coyne-crossing-the-rubicon-supreme-court-seems-eerily-complacent-about-ramifications-of-assisted-suicide-ruling |journal=[[National Post]] |date=6 February 2015}}</ref> He also argued that the decision signaled the death of [[judicial restraint]] in Canada.<ref>{{cite news |title=Supreme Court euthanasia ruling marks the death of judicial restraint |last=Coyne |first=Andrew |url=https://nationalpost.com/opinion/andrew-coyne-supreme-court-euthanasia-ruling-marks-the-death-of-judicial-restraint |journal=[[National Post]] |date=13 February 2015}}</ref> Former politician [[Stockwell Day]] was particularly critical of the Court, saying, "[I]f you want to write laws, you should run for office."<ref>{{cite news |title=Assisted-suicide ruling part of 'activist' Supreme Court's stance against social conservative values |last=Gerson |first=Jen |url=https://nationalpost.com/news/politics/assisted-suicide-ruling-part-of-activist-supreme-courts-stance-against-social-conservative-values-stockwell-day |journal=[[National Post]] |date=8 February 2015}}</ref>  In an op-ed published on [[Canadian Broadcasting Corporation]]'s website, he called for a nationwide debate concerning [[assisted-suicide]] legislation.<ref>{{cite news |title=Assisted-suicide ruling response requires nationwide debate |last=Day |first=Stockwell |url=http://www.cbc.ca/news/politics/assisted-suicide-ruling-response-requires-nationwide-debate-1.2956689 |journal=[[Canadian Broadcasting Corporation]] |date=14 February 2015}}</ref> In response to ''Carter'', [[Conrad Black]] argued politicians should invoke the [[section 33|notwithstanding clause]] to send a message to the court that [[Parliamentary sovereignty|Parliament is supreme]].<ref>{{cite news |title=Supreme Court on the loose |last=Black |first=Conrad |url=https://nationalpost.com/2015/02/14/conrad-black-supreme-court-on-the-loose/ |journal=[[National Post]] |date=14 February 2015}}</ref>
+
+The February 2015 Supreme Court decision<ref>{{cite web |url=https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/14637/index.do |title=Supreme Court Judgments  |author=<!--no by-line--> |date=February 6, 2015 |website=Supreme Court of Canada |publisher=SCC/CSC |access-date=January 2, 2016}}</ref>  in ''Carter v Canada (AG'') limits physician-assisted suicides to "a competent adult person who clearly consents to the termination of life and has a grievous and irremediable medical condition, including an illness, disease or disability, that causes enduring suffering that is intolerable to the individual in the circumstances of his or her condition". The ruling was suspended for 12 months to allow the Canadian parliament to draft a new, constitutional law to replace the existing one.<ref name=SeanFine>{{cite web |url= https://www.theglobeandmail.com/news/national/supreme-court-rules-on-doctor-assisted-suicide/article22828437/ |title=Supreme Court rules Canadians have right to doctor-assisted suicide |first=Sean |last=Fine |work=The Globe and Mail |date=February 6, 2015}}</ref>
+
+The [[Canadian Medical Association]] ("CMA") reported that not all doctors were willing to help a patient die. However, the belief in late 2015 was that no physician would be forced to do so but the CMA was offering educational sessions to members as to the process that would be used.<ref name=CTV_mixed>{{cite web |url= https://www.ctvnews.ca/health/article/canadian-doctors-express-mixed-opinions-on-assisted-dying/ |title=Canadian doctors express mixed opinions on assisted dying |agency=The Canadian Press |date=December 27, 2015 |website=CTV News |publisher=Bell Media |access-date=January 2, 2016}}</ref>
+
+Specifically the Supreme Court held that the current legislation was overbroad in that it prohibits "physician‑assisted death for a competent adult person who (1) clearly consents to the termination of life and (2) has a grievous and irremediable medical condition (including an illness, disease or disability) that causes enduring suffering that is intolerable to the individual in the circumstances of his or her condition."
+
+The government subsequently requested a six-month extension for implementation; the arguments for this request were scheduled to be heard by the Supreme Court in January 2016.<ref name=CTV_mixed/>
+
+The court decision includes a requirement that there must be stringent limits that are "scrupulously monitored." This will require the death certificate to be completed by an independent medical examiner, not the treating physician, to ensure the accuracy of reporting the cause of death.<ref>{{cite news |author=Guichon, Alakija |author2=Doig, Mitchell |author3=Thibeault |name-list-style=amp |date=December 28, 2015 |title=Assisted dying: Four problems, one simple solution |url=https://www.theglobeandmail.com/globe-debate/assisted-dying-four-problems-one-simple-solution/article27924838/ |newspaper=Glove and Mail |location=Toronto, Canada |access-date=January 2, 2016}}</ref>
+
+==Subsequent legislative history==
+After a lengthy delay, the House of Commons passed a Bill (C-14) in mid-June 2016 that would allow for doctor-assisted suicide in the case of a terminal illness. The bill was then debated in the Senate. Initially, the Senate amended the bill, expanding the right to die. However, when it became apparent that the elected House of Commons would not accept the amendment, a final vote was held on 17 June 2016. At that time, a majority agreed with the restrictive wording provided by the House of Commons indicating that "only patients suffering from incurable illness whose natural death is 'reasonably foreseeable' are eligible for a medically assisted death," as summarized by the ''[[Toronto Star]]''. Critics of the Bill indicate that the ''Carter'' decision was broader, including desperately ill individuals and not only those who are terminally ill or near death. The House of Commons did accept a few Senate amendments, such as requiring that patients be counselled about alternatives, including palliative care and barring beneficiaries from acting in the euthanasia.<ref>{{cite news |last=McCharles |first=Tonda |date=June 17, 2016 |title=Assisted dying to become law after Senate backs Liberals' bill |url=https://www.thestar.com/news/canada/2016/06/17/senate-votes-not-to-send-assisted-dying-bill-back-to-mps.html |newspaper=Toronto Star |location=Toronto, Canada |access-date=June 18, 2016}}</ref> The bill was given [[Royal assent]] the same day.
+
+Senators such as Serge Joyal who disagree with the restrictive wording believe that one of the provinces should [[Reference question|refer]] the issue to its [[List of Canadian courts of appeal|Court of Appeal]] for an opinion; this tactic would help to move the process along and would preclude the need for individuals to proceed with a very expensive appeal process.<ref>{{cite web |url=http://www.macleans.ca/news/canada/serge-joyal-urges-provinces-to-test-constitutionality-of-assisted-dying-law/ |title=Serge Joyal urges provinces to test constitutionality of assisted dying law |author=The Canadian Press<!--Staff writer(s); no by-line.--> |date=June 18, 2016 |website=Macleans |publisher= |access-date=June 18, 2016 |quote=Senator wants to test whether it's constitutional to exclude Canadians suffering intolerably from non-terminal medical conditions}}</ref>
+
+== See also ==
+* [[List of Supreme Court of Canada cases (McLachlin Court)]]
+* [[Suicide legislation]]
+* [[Euthanasia in Canada]]
+* [[2015 reasons of the Supreme Court of Canada]]
+* [[Death]]
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* Full text of [[Supreme Court of Canada]] decision at [https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/14637/index.do LexUM]
+
+{{DEFAULTSORT:Carter V. Canada (Attorney General)}}
+[[Category:Section Seven Charter case law]]
+[[Category:Supreme Court of Canada cases]]
+[[Category:2015 in Canadian case law]]
+[[Category:Assisted suicide]]
+[[Category:Euthanasia case law]]
+[[Category:Canadian federal government litigation]]
+[[Category:Healthcare in British Columbia]]
+[[Category:Euthanasia in Canada]]
+[[Category:Health law in Canada]]

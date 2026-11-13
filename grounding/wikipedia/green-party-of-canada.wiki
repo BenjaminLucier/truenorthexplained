@@ -1,0 +1,588 @@
+{{Short description|Federal political party}}
+{{Use Canadian English|date=April 2025}}
+{{Use mdy dates|date=August 2021}}
+{{Infobox political party
+| name = Green Party of Canada
+| native_name = Parti vert du Canada
+| native_name_lang = fr
+| logo = Logo 2025 Green Party of Canada.svg
+| logo_upright = 1.2
+| colorcode = {{Canadian party colour|CA|Green}}
+| leader = [[Elizabeth May]]
+| leader2_title = Deputy leader
+| leader2_name = Rainbow Eyes (Angela Davidson)
+| leader3_title = Chair
+| leader3_name = Anne-Marie Zajdlik
+| leader4_title = Executive Director
+| leader4_name = Robin Marty
+| foundation = {{Start date and age|df=yes|1983|11|4}}
+| ideology = {{ubl|class=nowrap
+ | [[Green politics]]
+ | '''Factions:'''
+ | [[Eco-capitalism]]<ref name="Cambridge University Press">{{cite journal |last1=Routley |first1=Sam |last2=Armstrong |first2=David A. |title=The Effects of Personality Traits, Environmental Attitudes, and Demographic Factors on Green Party Support in Canada |journal=Canadian Journal of Political Science |publisher=Cambridge University Press (CUP) |volume=57 |issue=3 |year=2024 |issn=0008-4239 |doi=10.1017/s0008423924000258 |pages=626–640 |quote=The Canadian Greens also have some unique features. First, many members are ideologically centrist on other policy issues and more heterogeneous in their policy preferences than other partisans (Camcastle 2007).1 The recent conflict between the “pro-capitalist environmentalism” of Elizabeth May and Annamie Paul and the “eco-socialist” faction over issues such as Israeli-Palestine hostilities serves as a case-in-point (Grant 2020; Reynolds 2021).|doi-access=free }}</ref>
+ | [[Eco-socialism]]<ref name="Cambridge University Press" />
+ }}
+| membership = {{decrease}} 9,877<ref>{{cite web |title=Leadership Review: Elizabeth May Wins Mandate To Resign |url=https://globalgreen.news/en/leadership-review-elizabeth-mays-wins-mandate-to-resign/ |website=Global Green News |access-date=17 May 2026 |date=1 October 2025}}</ref>
+| membership_year = 2025
+| position = 
+| headquarters = 116 Albert Street<br />Suite 812<br />[[Ottawa]], [[Ontario]]<ref name="privacy">{{Cite web |title=Privacy Policy |url=https://www.greenparty.ca/en/privacy |access-date=2024-01-07 |website=Green Party of Canada |language=en}}</ref>
+| international = [[Global Greens]]<ref name="global_greens"/>
+| website = {{Official URL}}
+| country = Canada
+| abbreviation = GPC<br />''PVC''
+| slogan = ''Change. Vote for it'' (2025)
+| youth_wing = [[Young Greens of Canada]]
+| continental = [[Federation of the Green Parties of the Americas]]<ref name="global_greens">{{Cite web |title=GG Member |url=https://globalgreens.org/member-parties/ |access-date=2024-01-07 |website=Global Greens |language=en-US}}</ref>
+| colours = {{Colour box|{{Canadian party colour|CA|Green}}|border=darkgray}} Green
+| seats2_title = [[House of Commons of Canada|House of Commons]]
+| seats2 = {{Composition bar|1|343|hex={{Canadian party colour|CA|Green}}}}
+| seats1_title = [[Senate of Canada|Senate]]
+| seats1 = {{Composition bar|0|105|hex={{Canadian party colour|CA|Green}}}}
+}}
+
+The '''Green Party of Canada''' ('''GPC'''; {{langx|fr|Parti vert du Canada}}, ''PVC'') is a [[List of federal political parties in Canada|federal political party in Canada]], founded in 1983 with a focus on [[green politics]].
+
+The Green Party is currently the fifth largest party in the [[House of Commons of Canada|House of Commons]] by seat count. It elected its first [[Member of Parliament (Canada)|member of Parliament]] (MP), leader [[Elizabeth May]], in the [[2011 Canadian federal election|2011 election]], winning in [[Saanich—Gulf Islands]]. In the [[2019 Canadian federal election|2019 election]], the party expanded its caucus to three. In the [[2021 Canadian federal election|2021 election]], the party fell to two seats. In the [[2025 Canadian federal election|2025 election]], the party fell to one seat.
+
+Elizabeth May served as the party leader from 2006 to 2019, and again since November 19, 2022.<ref name="Meet Elizabeth May">[https://elizabethmaymp.ca/ Meet Elizabeth May]</ref> On February 4, 2025, the party ratified a motion to adopt a co-leadership model, with May and [[Jonathan Pedneault]] serving together as the first co-leaders of the party.  Pedneault resigned as co-leader after less than three months in that position, leaving May once again as the party's sole leader.<ref>{{Cite web |last=Caruso-Moro |first=Luca |date=2025-04-30 |title=Green Party co-leader Jonathan Pedneault resigns |url=https://www.cp24.com/federal-election-2025/2025/04/30/green-party-co-leader-jonathan-pedneault-resigns/ |access-date=2025-04-30 |website=CP24}}</ref>
+
+The Green Party is founded on six principles: [[ecological wisdom]], [[Nonviolence|non-violence]], [[social justice]], [[sustainability]], [[participatory democracy]], and [[Diversity, equity, and inclusion|respect for diversity]].<ref name=":0" />
+
+==History==
+{{Main|History of the Green Party of Canada}}
+About two months before the 1980 federal election, eleven candidates, mostly from ridings in the Atlantic provinces, issued a joint press release declaring that they were running on a common platform. It called for a transition to a non-nuclear, conserver society. Although they ran as independents, they unofficially used the name "Small Party" as part of their declaration of unity, a reference to the "[[Small Is Beautiful|small is beautiful]]" philosophy of [[E. F. Schumacher]]. This was the most substantial early attempt to answer the call for an ecologically oriented Canadian political party. A key organizer (and one of the candidates) was [[Elizabeth May]], who later became leader of the Greens in 2006.
+
+The Green Party of Canada was founded at a conference held at [[Carleton University]] in Ottawa on November 4, 1983. Under its first leader, [[Trevor Hancock]], the party ran 60 candidates in the [[1984 Canadian federal election]].<ref name="History">{{Cite web |title=Our History |url=https://www.greenparty.ca/en/our-history |access-date=2024-01-07 |website=Green Party of Canada |language=en}}</ref><ref>{{Cite web |date=2023-11-04 |title=Green Party of Canada's 40th Birthday Bash |url=https://elizabethmaymp.ca/event/green-party-of-canadas-40th-birthday-bash/ |url-status=dead |archive-url=https://web.archive.org/web/20231205151143/https://elizabethmaymp.ca/event/green-party-of-canadas-40th-birthday-bash/ |archive-date=2023-12-05 |access-date=2025-02-08 |website=Elizabeth May MP|language=en-CA}}</ref>
+
+The Quebec wing hosted the 1990 Canadian Greens conference in Montreal. Soon after, Canada's constitutional problems interfered; as a result, many Quebec candidates abandoned the Greens in favour of a Quebec sovereigntist party, the [[Bloc Québécois]]. There were only six Green candidates from Quebec in the 1993 election. In the spring of 1996, although the hopes of electing a representative to the BC legislature proved premature, Andy Shadrack in the interior of the province received over 11% of the vote. Overall, the party's proportion of the popular vote surged to a new high. Shadrack was also the most popular Green candidate in the 1997 federal election, scoring over 6% of the popular vote in [[West Kootenay—Okanagan]].
+
+===Joan Russow years===
+British Columbia's [[Joan Russow]] became leader of the Green Party of Canada on April 13, 1997.<ref>{{Cite web|url=https://www.theglobeandmail.com/series/election/2000Federal/candidates-new/1642.html|url-status=dead|archive-url=https://web.archive.org/web/20041206125627/http://www.theglobeandmail.com/series/election/2000Federal/candidates-new/1642.html|title=Globe and Mail Election 2000|website=[[The Globe and Mail]] |archive-date=6 December 2004}}</ref><ref name="autogenerated2">{{cite web|url=http://www.law-lib.utoronto.ca/testcase/russow.pdf|title=Affidavit of Joan Russow|archive-url=https://web.archive.org/web/20110706233659/http://www.law-lib.utoronto.ca/testcase/russow.pdf|archive-date=6 July 2011|url-status=dead|access-date=28 March 2011}}</ref> Russow won 52% of the ballots cast in the 1997 leadership race, surpassing Ontario's [[Jim Harris (politician)|Jim Harris]] (39%) and Rachelle Small (8%). Immediately upon attaining the leadership, Russow was plunged into a federal general election.<ref name="autogenerated2" /> Russow's campaign in 1997 set a number of important precedents. The [[1997 Canadian federal election|1997 federal election]] was the first campaign in which the Greens conducted a national leader's tour, presented a national platform and a bilingual campaign. Previous campaigns, due in part to the party's few resources and, in part, to the party's constitutional straitjacket, had been characterized by policy and spokespeople operating, at best, province-by-province and, at worst, riding-by-riding. In her own riding of [[Victoria (British Columbia federal electoral district)|Victoria]], Russow received just shy of 3000 votes and 6% of the popular vote.<ref>{{cite web|url=https://www.elections.ca/content.aspx?section=res&dir=rep/off/dec3097&document=res_table1210&lang=e|title=Thirty-sixth General Election 1997: Official Voting Results|publisher=[[Elections Canada]] |access-date=21 June 2024}}</ref>
+
+In 1998, the party adopted a rule that forbids membership in any other federal political party. This was intended to prevent the party from being taken over. A small number of Greens who advocate the more cooperative approach to legislation objected to the rule not to hold cross-memberships, a tool they occasionally employed.
+
+Since its inception, the party has been developing as an organization, expanding its membership and improving its showing at the polls. In the [[2000 Canadian federal election|2000 federal election]], the party fielded 111 candidates,<ref>{{cite web|url=https://www.sfu.ca/~aheard/elections/parties-2000.html|access-date=25 June 2024|title=Registered Parties & Candidates for 2000 Canadian Elections|publisher=[[Simon Fraser University]]|first=Andrew |last=Heard}}</ref> up from 78 in 1997.<ref>{{cite web|title=1997 Federal Election|website=Canadian Elections Database|publisher=The School of Public Policy, University of Calgary|url=https://canadianelectionsdatabase.ca/PHASE5/?p=0&type=election&ID=612|access-date=25 June 2024}}</ref>
+
+Candidates were not run in [[Newfoundland and Labrador]], as a result of ongoing divisions over Joan Russow's refusal to endorse the Green candidate in an earlier St. John's West by-election. (The candidate in question supported the seal hunt and mining development, as most locals did.)<ref name="autogenerated1">[http://www.infonet.st-johns.nf.ca/providers/green/policy.html] {{webarchive|url=https://web.archive.org/web/20060219211719/http://www.infonet.st-johns.nf.ca/providers/green/policy.html|date=19 February 2006}}</ref> This caused much uncertainty and friction between Newfoundland's Terra Nova Green Party<ref name="autogenerated1" /> Association and the Green Party leader as the party gradually adapted to the realities of functioning as a true national party rather than a disorganized federation of local activists.
+
+The conflicts left Russow isolated and alienated from most members of the party. Volunteer efforts were substantially absorbed in provincial campaigns between 2001 and 2003, and the federal party became dormant between elections, as was typical in the past. [[Chris Bradshaw]] served the party as interim leader from 2001 to February 2003. During his term, the party ended its sharing of office and staff with the Ontario party, establishing its own office in the national capital of Ottawa.
+
+Russow left the party in 2001 and later criticized the Green Party for not following their policies. She re-joined the party in 2020 to support [[Dimitri Lascaris]]' campaign for the [[2020 Green Party of Canada leadership election|Green Party leadership]].<ref>{{Cite web|date=12 March 2020|title=Former Green Party Leader Dr. Joan Russow Endorses Dimitri|url=https://www.teamdimitri.ca/former_green_party_leader_dr_joan_russow_endorses_dimitri|access-date=5 July 2020|website=Team Dimitri}}</ref>
+
+===Breakthrough under Jim Harris===
+[[File:Jim Harris of the Green Party - 2008 (cropped).jpg|thumb|upright|right|[[Jim Harris (politician)|Jim Harris]], leader of the party from 2003 to 2006]]
+
+In February 2003, [[Jim Harris (politician)|Jim Harris]], in his second bid for the leadership, defeated John Grogan of [[Valemount]], British Columbia, and Jason Crummey. Crummey was originally from Newfoundland and involved with Newfoundland and Labrador Terra Nova Greens.
+
+During the [[2004 Canadian federal election|2004 federal election]], the Green Party of Canada became the fourth federal political party ever to run candidates in all the ridings. When the ballots were counted, the Green Party secured 4.3% of the popular vote, thereby surpassing the 2% threshold required for party financing under new [[Elections Canada]] rules.<ref>"[http://www.elections.ca/scripts/webpep/fin/summary_report.aspx Financial summary]", Elections Canada website</ref>
+
+Momentum continued to build around the Green Party of Canada and in the [[2006 Canadian federal election|2006 federal election]] the Green Party again ran 308 candidates and increased its share of the popular vote to 4.5%, once again securing federal financing as a result.
+
+The party's [[2006 Canadian federal election|2006 election campaign]] was disrupted by allegations made by Matthew Pollesell, the party's former assistant national organizer, that Harris had not filed a proper accounting of money spent during his 2004 leadership campaign, as required by law. Pollesell issued a request that Elections Canada investigate. Pollesell and another former party member, Gretchen Schwarz, were subsequently warned by the party's legal counsel to retract allegations they had made or face a possible legal action. Dana Miller, who served in the party's shadow cabinet with responsibility for human-rights issues, made public her earlier complaints that the party has violated election law and its own constitution and has also asked for an Elections Canada investigation. Miller had been expelled from the party after filing a complaint within the party in April.<ref>{{Cite web|url=https://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051229/ELXNGREENS29/TPNational/?query=%22jim+harris%22|title=globeandmail.com|website=[[The Globe and Mail]] }}</ref>
+
+Some opponents of Harris's leadership of the Green Party formed the rival Peace and Ecology Party,<ref>{{Cite news |last=Dobbin |first=Murray |title=Green Party Blues |url=https://thewalrus.ca/green-party-blues/ |archive-url=https://web.archive.org/web/20140705125910/https://thewalrus.ca/green-party-blues/ |archive-date=2014-07-05 |access-date=2026-05-26 |work=The Walrus}}</ref> which presumably disbanded after he stepped down as leader.
+
+===Arrival of Elizabeth May===
+[[File:Emay photo.jpg|300px|thumb|upright|right|[[Elizabeth May]], July 2014]]
+
+A [[leadership convention|leadership vote]] was held at the party's August 2006 convention. On April 24, 2006, [[Jim Harris (politician)|Jim Harris]] announced his intention not to stand for re-election as party leader.<ref>"[https://www.theglobeandmail.com/servlet/story/RTGAM.20060424.wxgreen24/BNStory/National/home Harris to give up on Green leadership],{{dead link|date=December 2017|bot=InternetArchiveBot|fix-attempted=yes}}" ''[[The Globe and Mail]]'', 24 April 2006.</ref> Three candidates officially entered the leadership race: [[David Chernushenko]], [[Elizabeth May]], and Jim Fannon. May won the leadership with 65% of the vote on the first ballot.
+
+On October 22, 2006, [[Elizabeth May]] announced she would run in the federal by-election to be held on November 27, 2006, in [[London North Centre (federal electoral district)|London North Centre]], [[Ontario]]. She finished second behind the Liberal candidate, but garnered 26% of the popular vote.
+
+Even though it had never held a seat, Elizabeth May's Green Party began to receive more mainstream media attention on other party policy not directly related to the environment – for example, supporting labour rights<ref>{{cite web|date=3 September 2007|title=Labour Rights are Human Rights|url=https://greenparty.ca/en/releases/09.02.2007B|url-status=dead|archive-url=https://web.archive.org/web/20110629140717/http://greenparty.ca/en/releases/09.02.2007B|archive-date=29 June 2011|access-date=28 March 2011|publisher=Greenparty.ca}}</ref> and poppy legalization in [[Afghanistan]].<ref>{{cite web|date=29 August 2007|title=Legalize and commercialize the Afghan poppy crop, says May|url=https://greenparty.ca/en/releases/08.29.2007|url-status=dead|archive-url=https://web.archive.org/web/20110629140733/http://greenparty.ca/en/releases/08.29.2007|archive-date=29 June 2011|access-date=28 March 2011|publisher=Greenparty.ca}}</ref>
+
+On August 30, 2008, Vancouver area MP [[Blair Wilson]] became the first-ever Green member of Parliament, after sitting for nearly a year of the [[39th Canadian Parliament]] as an [[Independent politician|independent]]. He had been a [[Liberal Party of Canada|Liberal]] MP but stepped down voluntarily from the caucus earlier in the Parliament after anonymous allegations of campaign finance irregularities, most of which he was later cleared after a 9-month investigation by [[Elections Canada]].<ref>{{cite news|url=https://www.cbc.ca/news/canada/green-party-announces-its-first-member-of-parliament-1.697339|title=Green party announces its first member of Parliament|date=30 August 2008|access-date=30 August 2008|publisher=[[CBC News]]}}</ref> Wilson had joined the Green Party during Parliament's summer recess and never sat in the House of Commons as a Green MP.
+
+After initial opposition from three of the four major political parties, May was invited to the leaders' debates; this was a first for the party.<ref name="debates">{{cite web |title=Greens win spot in TV election debates |url=http://ca.reuters.com/article/topNews/idCAN1039064420080910 |archive-url=https://web.archive.org/web/20080910233525/http://ca.reuters.com/article/topNews/idCAN1039064420080910 |url-status=dead |archive-date=10 September 2008 |website=[[Reuters]] |access-date=26 October 2020 |date=10 September 2008}}</ref> In the [[2008 Canadian federal election|2008 federal election]], the party increased its share of the popular vote by 2.33% (to 6.80%), being the only federally funded party to increase its total vote tally over 2006, attracting nearly 280,000 new votes. However, the party failed to elect a candidate. Some prominent Green Party members blamed the public discussion of strategic voting and the media's misrepresentation of May's comments during the election campaign for the failure of some promising candidates to reach Election Canada's 10% reimbursement threshold, as well as reducing the party's federal funding based on popular vote.
+
+On August 11, 2010, 74% of Green Party members voted to hold a [[leadership review]] after the [[2011 Canadian federal election|next election]], instead of in August 2010, which was when May's four-year term as leader was set to end.<ref>{{cite news|url=https://www.cbc.ca/news/politics/green-party-delays-leadership-vote-1.894641|title=Green Party delays leadership vote|date=11 August 2010|work=[[CBC News]]}}</ref>
+
+=== Greens in Parliament ===
+[[2011 Canadian federal election|On May 2, 2011]], May became the first elected Green Party MP to sit in the House of Commons. She won the riding of [[Saanich—Gulf Islands]] in coastal [[British Columbia]].<ref>{{cite news|url=https://www.theglobeandmail.com/news/politics/elizabeth-may-wins-first-seat-for-greens/article578488/|title=Elizabeth May wins first seat for Greens|date=3 May 2011|access-date=8 May 2011|archive-url=https://web.archive.org/web/20110507040335/http://www.theglobeandmail.com/news/politics/elizabeth-may-wins-first-seat-for-greens/article2007621/|archive-date=7 May 2011|url-status=dead|work=[[The Globe and Mail]]|location=Toronto}}</ref> In winning her seat, May also became one of the few Greens worldwide to be elected in a federal, single-seat election.<ref name="global greens">{{Cite news |date=2011-06-08 |title=Greens Elected in Federal Single Seat Elections |url=https://www.globalgreens.org/officeholders/elected-federal-single-seat |archive-url=https://web.archive.org/web/20210224193116/https://www.globalgreens.org/officeholders/elected-federal-single-seat |archive-date=2021-02-24 |access-date=2026-05-26 |work=Global Greens |language=en}}</ref> On 13 December 2013, [[Thunder Bay—Superior North (federal electoral district)|Thunder Bay—Superior North]] MP [[Bruce Hyer]], who had left the [[New Democratic Party]] (NDP) in 2012 to sit as an independent after breaking party lines to vote in favour of a repeal of the [[Canadian Firearms Registry|Long Gun Registry]], joined the party, resulting in a record two-member caucus in Parliament.<ref name="CBC-Hyer">{{cite news|url=http://www.cbc.ca/news/politics/thunder-bay-mp-bruce-hyer-joins-green-party-doubles-caucus-1.2462983|title=Thunder Bay MP Bruce Hyer joins Green Party, doubles caucus|date=13 December 2013|access-date=13 December 2013|publisher=[[CBC News]]}}</ref>[[File:Canadian federal election, 2015 results by riding - Green Party strength.svg|thumb|Results of the [[2015 Canadian federal election]] showing support for Green candidates by riding]]
+In August 2014, party president-elect Paul Estrin published a blog post on the Green Party's website criticizing the actions of [[Hamas]] during the [[2014 Israel–Gaza conflict]]. In his article, "Why Gaza Makes Me Sad", Estrin talked about Hamas' "desire to obliterate" the State of [[Israel]] and how the terrorist group uses children as human shields.<ref>{{cite web|url=https://nationalpost.com/news/politics/green-party-president-steps-down-one-week-after-posting-pro-israel-statement|title=Green Party president quits after facing backlash over pro-Israel blog post|author=Katrina Clarke|date=6 August 2014|work=National Post}}</ref> Estrin's blog post was subsequently deleted by the party, with many party seniors and decision makers, including Elizabeth May, distancing themselves from Estrin, with a large majority of the party calling on him to resign. On August 5, Estrin resigned, criticizing the party for betraying their commitment to values of inclusivity and open public discourse.<ref>{{cite web|url=http://www.cjnews.com/node/129211|title=Why I'm no longer president of the Green Party of Canada - The Canadian Jewish News|work=cjnews.com|date=11 August 2014}}</ref> Elizabeth May accepted the resignation of Estrin, stating that he was not forced to resign, but did so of his own volition. May has said that the problem with his statements were the "confusion" they caused because they differed from party lines, but confirmed that Estrin was indeed a "true Green".<ref>{{cite news|url=https://www.theglobeandmail.com/news/politics/controversial-ex-president-of-green-party-should-have-role-in-party-future-says-may/article19943062/|title=Controversial ex-president of Green Party should have role in party future, says May|work=The Globe and Mail}}</ref>
+
+In the lead up to the [[2015 Canadian federal election|federal election on October 19, 2015]], [[José Núñez-Melo]] joined the Green Party. Núñez-Melo, first elected in 2011 as a [[New Democratic Party|New Democrat]] in the riding of [[Laval (federal electoral district)|Laval]], was barred by the NDP from seeking re-nomination after he publicly criticized the nomination process; after the dropping of the writ, Núñez-Melo announced he would run for re-election in [[Vimy (electoral district)|Vimy]] as a Green Party candidate.<ref>{{Cite news|title=Former NDP MP Jose Nunez-Melo to run for Greens in Quebec {{!}} CBC News|language=en-US|work=CBC|url=https://www.cbc.ca/news/politics/former-ndp-mp-jose-nunez-melo-to-run-for-greens-in-quebec-1.3192736|access-date=21 October 2020}}</ref> As Parliament was dissolved for the election at the time of Núñez-Melo's change in affiliation, he was never formally recorded as a Green MP. Ultimately, May was re-elected in the riding of Saanich—Gulf Islands while both Hyer and Núñez-Melo were defeated, leaving May as the only member in the House.<ref>{{Cite news|title=Greens a party of 1 as vote-splitting fears hurt hopes for growth {{!}} CBC News|language=en-US|work=CBC|url=https://www.cbc.ca/news/canada/british-columbia/greens-looking-themselves-in-mirror-after-popularity-drops-1.3279508|access-date=21 October 2020}}</ref>
+
+In March 2018, Green Party leader Elizabeth May appointed journalist and broadcaster [[Jo-Ann Roberts]] as a deputy leader along with environmentalist Daniel Green of Montreal. Roberts ran as Green Party candidate in a Victoria, British Columbia, riding during the 2015 federal election and finished second.<ref>{{cite news |title=Green party names veteran journalist Jo-Ann Roberts as deputy leader |url=https://www.theglobeandmail.com/politics/article-green-party-names-veteran-journalist-jo-ann-roberts-as-deputy-leader/ |newspaper=The Globe and Mail|date=19 March 2018 }}</ref>
+
+On May 6, 2019, [[Paul Manly]] became the second MP elected under the party's banner, after winning a [[2019 Nanaimo—Ladysmith federal by-election|by-election]] in [[Nanaimo—Ladysmith]].<ref name="By-election win1">{{Cite news|url=https://globalnews.ca/news/5247949/greens-win-nanaimo-byelection/|title=Greens claim historic 2nd federal seat with upset byelection win in Nanaimo-Ladysmith|last1=Little|first1=Samon|date=6 May 2019|work=[[Global News]]|access-date=8 May 2019|last2=Zussman|first2=Richard}}</ref><ref>{{Cite news|url=https://www.660citynews.com/2019/05/06/green-partys-paul-manly-elected-mp-of-nanaimo-ladysmith-in-byelection-upset/|title=Federal Green Party wins seat in byelection upset|date=6 May 2019|work=660 News|access-date=8 May 2019}}</ref><ref>{{Cite news|url=https://www.tribuneindia.com/news/archive/diaspora/green-party-win-in-by-election-sets-alarm-bells-ringing-for-jagmeet-singh-trudeau-770053/|title=Green Party win in by-election sets alarm bells ringing for Jagmeet Singh, Trudeau|last1=Singh|first1=Varinder|date=6 May 2019|work=[[The Tribune]]|access-date=8 May 2019|archive-date=May 9, 2019|archive-url=https://web.archive.org/web/20190509000213/https://www.tribuneindia.com/news/diaspora/green-party-win-in-by-election-sets-alarm-bells-ringing-for-jagmeet-singh-trudeau/770053.html|url-status=live}}</ref> On 19 August 2019, a former NDP and briefly [[Independent politician|Independent]] MP [[Pierre Nantel]] joined the Green Party during the Parliament's summer recess.<ref name="Another MP joins the Greens">{{cite news|url=https://www.ctvnews.ca/politics/article/former-ndp-mp-pierre-nantel-joins-the-green-party/|title=Former NDP MP Pierre Nantel joins the Green Party |date=19 August 2019|access-date=20 August 2019|publisher=[[CTV news]]|last1=Gilmore|first1=Rachel}}</ref><ref>{{cite news|url=https://www.cbc.ca/news/politics/pierre-nantel-greens-1.5252289|title=May confirms ex-New Democrat Pierre Nantel is running as a Green candidate|date=19 August 2019|work=[[CBC News]]|access-date=19 August 2019}}</ref>
+
+During the [[2019 Canadian federal election|2019 federal election]], both May and Manly were re-elected while [[Jenica Atwin]] was elected in her [[New Brunswick]] riding of [[Fredericton—Oromocto]], making her the third elected Green MP in the federal parliament, and the first Green MP outside of [[British Columbia]].<ref>{{cite web|title=Canada election results: Fredericton|url=https://globalnews.ca/news/5819180/canada-election-fredericton/|date=21 October 2019|publisher=Global News|access-date=21 October 2019}}</ref><ref>{{cite web|title=Jenica Atwin wins Fredericton federal race in historic campaign|url=https://www.thebruns.ca/articles/jenica-atwin-wins-fredericton-federal-race-in-historic-campaign|date=21 October 2019|access-date=22 October 2019|archive-date=April 17, 2023|archive-url=https://web.archive.org/web/20230417072618/https://www.thebruns.ca/articles/jenica-atwin-wins-fredericton-federal-race-in-historic-campaign|url-status=dead}}</ref><ref>{{cite web|title=Jenica Atwin captures historic win for the Greens in New Brunswick campaign|url=https://www.thompsoncitizen.net/jenica-atwin-captures-historic-win-for-the-greens-in-new-brunswick-1.23983925|date=21 October 2019|access-date=22 October 2019|archive-date=22 October 2019|archive-url=https://web.archive.org/web/20191022042005/https://www.thompsoncitizen.net/jenica-atwin-captures-historic-win-for-the-greens-in-new-brunswick-1.23983925|url-status=dead}}</ref>
+
+During the [[2021 Canadian federal election|2021 federal election]], [[Mike Morrice]] was elected in [[Kitchener Centre (federal electoral district)|Kitchener Centre]], becoming the first Green MP elected in [[Ontario]], and second Green MP outside of British Columbia, as well the former leader May was re-elected. However, Manly was defeated in Nanaimo—Ladysmith.<ref>{{Cite news|last=Flanagan|first=Ryan|date=20 September 2021|title=Greens win first Ontario seat ever as national vote dries up|work=[[CTV News]]|url=https://www.ctvnews.ca/politics/federal-election-2021/greens-win-first-ontario-seat-ever-as-national-vote-dries-up-1.5593552|archive-url=https://web.archive.org/web/20210921051917/https://www.ctvnews.ca/politics/federal-election-2021/greens-win-first-ontario-seat-ever-as-national-vote-dries-up-1.5593552|url-status=dead|archive-date=September 21, 2021|access-date=21 September 2021}}</ref> In addition, Atwin won re-election, but only after crossing the floor as a Liberal candidate.<ref>{{Cite news |last=Poitras |first=Jacques |date=2021-09-22 |title=Liberal Jenica Atwin defeats Conservative Andrea Johnson after mail-in votes counted |work=[[CBC News]] |url=https://www.cbc.ca/news/canada/new-brunswick/federal-election-jenica-atwin-adrea-johnson-1.6185037 |access-date=2023-07-10}}</ref>
+
+=== Division under Annamie Paul ===
+[[File:Annamie Paul in Toronto Regent Park.jpg|thumb|right|Party Leader [[Annamie Paul]] (2020–2021)]]
+On November 4, 2019, May announced she would be stepping down as leader of the Green Party of Canada.<ref>{{Cite web|url=https://www.ctvnews.ca/politics/article/elizabeth-may-steps-down-as-green-party-leader/|archive-url=https://web.archive.org/web/20191105033347/https://www.ctvnews.ca/politics/elizabeth-may-steps-down-as-green-party-leader-1.4669169|url-status=live|archive-date=5 November 2019|title=Elizabeth May steps down as Green Party leader &#124; CTV News|date=5 November 2019}}</ref> May continued to act as parliamentary leader and sit as a Green member of Parliament. The decision to step down came as a promise to May's daughter.<ref>{{Cite web|url=https://www.cbc.ca/news/politics/elizabeth-may-green-party-leader-1.5346635|title=Elizabeth May steps down as Green Party leader|date=4 November 2019|website=CBC|access-date=5 November 2019}}</ref> A [[2020 Green Party of Canada leadership election|leadership election]] was held on 3 October 2020, and [[Toronto]]-based lawyer and activist [[Annamie Paul]] was elected to succeed Elizabeth May as Green Party leader.<ref>{{Cite news|url=https://www.cbc.ca/news/politics/green-party-hopes-to-court-jody-wilson-raybould-for-permanent-leader-1.5353986?__vfz=medium%3Dsharebar|title=Interim Green Party leader hoping to court Wilson-Raybould for top job|last=Patel|first=Raisa|date=9 November 2019|publisher=CBC News|access-date=13 June 2020}}</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=2O83lgofQSM |archive-url=https://ghostarchive.org/varchive/youtube/20211212/2O83lgofQSM| archive-date=2021-12-12 |url-status=live|title=Green Leadership Vote 2020 / Vote pour la chefferie du Parti vert 2020|date=3 October 2020|access-date=3 October 2020|website=Youtube}}{{cbignore}}</ref> At the time, Annamie Paul had been described as a [[Centrism|centrist]].<ref>{{cite news |last= Pinkerton |first= Charlie |date= 7 October 2020 |title= Annamie Paul is starting down an exhausting path |url= https://ipolitics.ca/2020/10/07/annamie-paul-is-starting-down-an-exhausting-path/ |work= iPolitics |access-date= 12 June 2021}}</ref><ref>{{cite news |last= Cui |first= Sarah |date= 24 October 2020 |title= Justice Greens on Annamie Paul's win, and the future of eco-socialism in Canada |url= https://globalgreen.news/justice-greens-on-annamie-pauls-win-and-the-future-of-eco-socialism-in-canada/ |work= Global Green News |access-date= 12 June 2021}}</ref>
+
+Paul ran in the [[2020 Toronto Centre federal by-election]], where she placed second.<ref>{{cite news|date=26 October 2020|title=Federal Liberals projected to hold onto Toronto Centre in byelection|work=CBC News|url=https://www.cbc.ca/news/canada/toronto/byelections-toronto-centre-york-centre-results-1.5777436|url-status=live|access-date=26 October 2020|archive-url=https://web.archive.org/web/20201027092536/https://www.cbc.ca/news/canada/toronto/byelections-toronto-centre-york-centre-results-1.5777436|archive-date=27 October 2020}}</ref>
+
+On June 10, 2021, [[Jenica Atwin]] crossed the floor, leaving the Green caucus to join the Liberal caucus. This came shortly after a public rift over the [[Israeli–Palestinian conflict]]. Atwin had criticized party leader Paul's statement on the matter following Israeli airstrikes as "inadequate", which in turn prompted an advisor to Paul, Noah Zatzman, to vow to replace Atwin with a "[[Zionist]]" candidate. In a Facebook post, Zatzman stated: "We will work to defeat you and bring in progressive climate champions who are [[Antifa (United States)|antifa]] and pro LGBT and pro [[indigenous sovereignty]] and Zionists!!!!!”<ref name="cgulyz">{{cite news |last1=Guly |first1=Christopher |title=The Man Who Upended Canada's Green Party |url=https://thetyee.ca/News/2021/07/20/The-Man-Who-Upended-Canadas-Green-Party/ |access-date=4 November 2021 |work=[[The Tyee]] |date=20 July 2021}}</ref> Atwin cited "distractions" in the Green Party as a factor in her departure.<ref>{{Cite web|last=Cochrane|first=David|date=10 June 2021|title=Green MP Jenica Atwin crossing the floor to join the Liberals|url=https://www.cbc.ca/news/politics/jenica-atwin-joining-the-liberals-1.6060501|access-date=10 June 2021|website=Canadian Broadcasting Corporation}}</ref> The Green federal council subsequently passed a motion calling for Paul to repudiate Zatzman for his statements towards Atwin and other Green MPs, of which Paul refused to act on.<ref name="fatimas">{{cite news |last1=Syed |first1=Fatima |title=Does Canada still need a Green Party? |url=https://thenarwhal.ca/green-party-canada-future/ |access-date=4 November 2021 |work=The Narwhal |date=16 October 2021}}</ref><ref name="cgulyz" /> Following Atwin's defection, the remaining two Green MPs, Elizabeth May and Paul Manly, reaffirmed their commitment to their party and expressed their disappointment, stating "the attack against Ms. Atwin by the Green party leader's chief spokesperson on May 14 created the conditions that led to this crisis".<ref name="cgully" />
+
+In the [[2021 Canadian federal election|2021 election]], the party's share of the vote fell to its lowest amount in 21 years.<ref>{{Cite news|last=Little|first=Simson|date=21 September 2021|title=Future of Canada's Greens in the spotlight after election setbacks|work=[[Global News]]|url=https://globalnews.ca/news/8200829/future-of-canadas-greens-in-the-spotlight-after-election-setbacks/|access-date=21 September 2021}}</ref> As well, the Green Party ran candidates in only 252 of the country's 338 ridings; limited resources and staff layoffs hampered any attempt at a co-ordinated countrywide campaign, which also lacked a national director during all five weeks of election campaigning.<ref>{{cite web | url=https://www.ctvnews.ca/politics/federal-election-2021/green-party-in-tatters-with-glimmers-of-hope-after-disappointing-election-finish-1.5596122 | archive-url=https://web.archive.org/web/20210922185315/https://www.ctvnews.ca/politics/federal-election-2021/green-party-in-tatters-with-glimmers-of-hope-after-disappointing-election-finish-1.5596122 | url-status=dead | archive-date=September 22, 2021 | title=Green Party in tatters, with glimmers of hope, after disappointing election finish | date=22 September 2021 }}</ref> A week after the election, Paul announced her intention to resign as leader.<ref>{{Cite web|last=Aiello|first=Rachel|date=2021-09-27|title=Annamie Paul resigning as leader of the Green Party|url=https://www.ctvnews.ca/politics/article/annamie-paul-resigns-as-green-party-leader/|access-date=2021-09-27|website=CTVNews}}</ref>
+
+According to reporting by ''[[The Tyee]]'', Paul confronted the federal council following her statement to intend to resign. She allegedly asked the council “How many of you think I resigned today?” and following her statement with "Well, I didn't. I just started the process of my resignation."<ref name="cgully">{{cite news |last1=Guly |first1=Christopher |title=Where Do the Greens Go from Here? |url=https://thetyee.ca/News/2021/10/08/Where-Greens-Go-From-Here/ |access-date=4 November 2021 |work=[[The Tyee]] |date=8 October 2021}}</ref> Paul allegedly told Elizabeth May "not to talk to the media" regarding her exit, but May ignored her request and stated that Paul was "creating chaos".<ref name="cgully" /> May, talking with ''The Tyee'', stated that Paul was resistant to leave the building, and continued to control the party's communications. She cited an instance of an associate of Paul blocking Lorraine Rekmans, an Indigenous woman, from making a statement regarding the National Day for Truth and Reconciliation, and writing a statement instead.<ref name="cgully" /> An internal report of the Green Party obtained by ''[[The Globe and Mail]]'' stated: "there is systemic racism at the governance level of the party, which needs to be, but is not being, addressed".<ref name="fatimas" /> Former leader [[Jim Harris (politician)|Jim Harris]] was critical of Paul's statements on her experiences of racism within the Green Party and dismissed the existence of issues of systemic racism within the party, stating: "When she doesn't get her way, she calls racism. Now, racism, sexism, and violent metaphors like 'walking over shards of glass' and 'spitting up blood' get headlines, but what we have to judge a leader by is their performance."<ref>{{cite news |last1=Turnbull |first1=Sarah |title=Former Green leader criticized for saying Paul calls racism 'when she doesn't get her way' |url=https://www.ctvnews.ca/politics/article/former-green-leader-criticized-for-saying-paul-calls-racism-when-she-doesnt-get-her-way/ |access-date=4 November 2021 |work=[[CTV News]] |date=4 October 2021}}</ref> A member of the Greens' federal council, Louise Comeau, stepped down following the internal turmoil, citing "[the] stress and anxiety of those meetings affected [her] physical and mental health", with regards to negotiations surrounding Paul's departure.<ref name="cgully" /> May theorized Paul wished to negotiate a [[severance package]] before her departure as Green leader.<ref name="cgully" />
+
+On October 28, 2021, Green members received a [[leadership review]] ballot regarding Paul's continued status as leader.<ref name="dthurton">{{cite news |last1=Thurton |first1=David |title=Green Party members are voting on Annamie Paul's leadership – weeks after she said she would quit |url=https://www.cbc.ca/news/politics/annamie-paul-green-party-1.6228402 |access-date=4 November 2021 |work=[[CBC News]] |date=28 October 2021}}</ref> Several days later, Paul told a press conference she was surprised by the review, and that it was unnecessary since she had previously announced her intention to resign.<ref name="dthur2">{{cite news |last1=Thurton |first1=David |title=Annamie Paul says she was blindsided by leadership review |url=https://www.cbc.ca/news/politics/annamie-paul-green-party-1.6233155 |access-date=4 November 2021 |work=[[CBC News]] |publisher=Canadian Broadcasting Corporation |date=2 November 2021}}</ref> Paul's protracted departure was due to continued legal conflict between Paul and the Green Party's leadership, with Paul negotiating compensation for legal fees incurred due to arbitration following a previous attempt to remove Paul as leader.<ref name="dthurton" /><ref name="dthur2" /> Paul officially resigned on November 10, 2021, as voting in the review was ongoing.<ref name="CBC11/10">{{Cite news |date=10 November 2021|title=Annamie Paul officially quits as Green leader, will end membership in party |url=https://www.cbc.ca/news/politics/annamie-paul-quits-green-leader-1.6244217 |work=[[CBC News]]}}</ref> Her resignation took effect on November 14, 2021, upon its acceptance by the party's federal council.<ref name="Official">{{cite news|last1=Ballingall|first1=Alex|date=November 15, 2021|title=Green Party formally accepts Annamie Paul's resignation as leader|work=Toronto Star|url=https://www.thestar.com/politics/federal/2021/11/15/green-party-formally-accepts-annamie-pauls-resignation-as-leader.html|access-date=November 15, 2021}}</ref><ref>{{cite news|last1=Thurton|first1=David |date=November 16, 2021|title=Green Party accepts Annamie Paul's resignation as leader|work=[[CBC News]]|url=https://www.cbc.ca/news/politics/green-party-annamie-paul-1.6251482|access-date=November 17, 2021}}</ref>
+
+====Aftermath====
+[[File:Green Party of Canada English Logo.png|thumb|upright|right|Party logo until 2025]]
+
+On November 24, 2021, [[Amita Kuttner]] was appointed interim leader.<ref name="GPCKuttner">{{Cite web |date=24 November 2021 |title=Green Party appoints Amita Kuttner as Interim Leader |url=https://www.greenparty.ca/en/media-release/2021-11-24/green-party-appoints-amita-kuttner-interim-leader |work=Green Party of Canada |access-date=November 25, 2021 |archive-date=November 25, 2021 |archive-url=https://web.archive.org/web/20211125032223/https://www.greenparty.ca/en/media-release/2021-11-24/green-party-appoints-amita-kuttner-interim-leader |url-status=dead }}</ref><ref name="Woolf1"/> Appointed at the age of 30, Kuttner was the youngest person to lead a federal political party, as well as the first [[Transgender|transgender person]] and person of [[Ethnic groups in East Asia|East Asian heritage]].<ref name="Woolf1">{{Cite news |last=Woolf |first=Marie |date=November 25, 2021 |title=Greens pick astrophysicist Amita Kuttner as interim leader, 1st leader who is trans |url=https://www.cbc.ca/news/politics/amita-kuttner-green-leader-1.6262005 |work=[[CBC News]] |access-date=2021-11-25}}</ref>
+
+The party's constitution required a leadership election to select a permanent leader to begin within six months of the appointment of an interim leader, and conclude within two years of their appointment.<ref name="MacLeod2">{{Cite news |last=Hyslop |first=Andrew |date=November 26, 2021 |title=Interim Green Leader Steps in after a Tough Year: 'I Want to Help' |url=https://thetyee.ca/News/2021/11/26/Interim-Green-Leader-Steps-In |work=[[The Tyee]]}}</ref><ref name="GPCConstitutionLR">{{cite web |quote=Section 2.1.7.2 |title=Constitution of the Green Party of Canada |url=https://www.greenparty.ca/en/party/documents/constitution |access-date=November 15, 2021 |website=Green Party of Canada |date=2018}}</ref> Kuttner had said that they did not wish to be the permanent leader.<ref name="MacLeod2" /> In December 2021, Kuttner said that they believed there should be a "longer period before launching a permanent leadership contest, and then a short leadership race."<ref name="Woods1">{{Cite news |url=https://xtramagazine.com/power/politics/amita-kuttner-interview-213689 |first=Mel |last=Woods |date=December 1, 2021 |title=Amita Kuttner on being Canada's first trans political party leader: 'I have zero intention of playing by the rules' |work=[[Xtra Magazine]]}}</ref>
+
+In a press conference about a week after their appointment, Kuttner said they wanted to start the process of regrowth and to heal the party.<ref name="Woolf2">{{Cite news |last=Woolf |first=Marie |date=December 1, 2021 |title=Interim Green Leader Amita Kuttner ready to get tough on party infighting |url=https://www.timescolonist.com/national-news/interim-green-leader-amita-kuttner-ready-to-get-tough-on-party-infighting-4819921 |work=[[Times Colonist]] |access-date=December 2, 2021}}</ref> The party had released a report indicating that it was threatened with insolvency, and was considering closing its office in Ottawa.<ref name="Thurton4"/> The party had lost 499 monthly donors since July 2021, and 6,259 members in the same time.<ref name="Thurton4"/> Kuttner acknowledged internal conflict over Annamie Paul's leadership had affected donations.<ref name="Thurton4" /> The report also blamed negotiations concerning Annamie Paul's departure as leader of the party for significant legal costs.<ref name="Thurton4">{{Cite news |last=Thurton |first=David |date=December 3, 2021 |title=Threatened with insolvency, Green Party considers closing its head office |url=https://www.cbc.ca/news/politics/green-party-headquarters-insolvency-1.6271510 |work=[[CBC News]] |access-date=December 3, 2021}}</ref> In a December 2021 media interview, Kuttner said that the party's financial position was getting "back on track" and was "turning around" pointing to fundraising including at the party's virtual general meeting about a week earlier.<ref>{{Cite news |last=Bulowski |first=Natasha |date=December 6, 2021 |title=Amita Kuttner on bringing the Greens back from brink |url=https://www.nationalobserver.com/2021/12/06/news/amita-kuttner-bringing-greens-back-brink |work=[[National Observer (Canada)|National Observer]] |access-date=December 6, 2021}}</ref>
+
+On September 11, 2022, the president of the party, Lorraine Rekmans, announced her resignation. She was very critical of the party and the candidates in the ongoing leadership race, stating "The dream is dead."<ref>[https://www.cbc.ca/news/politics/green-party-president-quits-tells-members-the-dream-is-dead-1.6579335 David Thurton, "Green Party president quits, tells members 'the dream is dead' ", ''CBC News'', September 10, 2022.]</ref> She was succeeded as party president by Ian Soutar.<ref>{{Cite web |title=Results of 2023 Federal Council Elections |url=https://www.greenparty.ca/en/results-2022-federal-council-elections |archive-url=https://web.archive.org/web/20230924072515/https://www.greenparty.ca/en/results-2022-federal-council-elections |archive-date=2023-09-24 |access-date=2026-05-26 |website=Green Party of Canada |language=en}}</ref>
+
+===Return of Elizabeth May and co-leadership ===
+{{multiple image
+ | total_width = 250
+ | width = 150
+ | image1 = Elizabeth May 4431 (37439753570) (cropped).jpg
+ | image2 = Jonathan Pedneault Interview.jpg
+ | footer = Co-leaders Elizabeth May and Jonathan Pedneault}}
+On November 19, 2022, Elizabeth May was [[2022 Green Party of Canada leadership election|elected leader]] of the party once again, promising to convert the current leadership model into a co-leadership model, with [[Jonathan Pedneault]] being her co-leader.<ref>{{cite web | url=https://www.ctvnews.ca/politics/article/elizabeth-may-elected-green-party-leader-again-plans-to-co-lead-with-jonathan-pedneault/ | title=Elizabeth May elected Green Party leader again, plans to co-lead with Jonathan Pedneault | date=19 November 2022 }}</ref> May ran with Pedneault in the leadership race, and Pedneault served as the deputy leader of the party.<ref>{{Cite news |date=November 21, 2022 |title=Political insider breaks down Green Party of Canada co-leadership win, potential trouble ahead |url=https://www.cbc.ca/news/canada/british-columbia/green-party-canada-coleadership-elizabeth-may-jonathan-pedneault-1.6659259 |work=[[CBC News]] |access-date=January 15, 2024}}</ref> In February 2024, party members were to vote on motions which, if passed, would have amended the party's constitution to implement a co-leadership model.<ref>{{Cite news |last=Campbell |first=Ian |date=November 20, 2023 |title=One year after leadership vote, Greens yet to amend constitution, but still moving towards co-leadership |url=https://www.hilltimes.com/story/2023/11/20/one-year-after-leadership-vote-greens-yet-to-amend-constitution-but-still-moving-towards-co-leadership/403640 |work=[[The Hill Times]] |access-date=January 15, 2024}}</ref> However, Pedneault was unsuccessful in his attempt to win a seat in the House of Commons through a byelection and the proposed constitutional amendment was not voted upon due to disagreement within the party.<ref>{{cite news |title=Deputy leader stepping down from bid to co-lead federal Green Party after internal debate |url=https://www.thestar.com/politics/federal/deputy-leader-stepping-down-from-bid-to-co-lead-federal-green-party-after-internal-debate/article_3b2d099c-3d5a-11ef-8ae1-9be3efbafb4f.html |access-date=July 9, 2024 |work=[[Toronto Star]] |date=July 9, 2024}}</ref> On July 9, 2024, Jonathan Pedneault resigned as deputy leader, citing personal reasons.<ref>{{cite news |title=Green Party deputy leader Jonathan Pedneault steps down for 'personal reasons' |url=https://www.cbc.ca/news/politics/elizabeth-may-green-party-leadership-pedneault-1.7258101 |access-date=July 9, 2024 |work=[[CBC News]] |date=July 9, 2024}}</ref><ref>{{cite news |title=Jonathan Pedneault resigns from Green Party, leaving Elizabeth May as sole leader |url=https://www.thestar.com/politics/federal/jonathan-pedneault-resigns-from-green-party-leaving-elizabeth-may-as-sole-leader/article_30be03c8-9460-52fb-a1c6-bd4c5a1df21e.html |access-date=July 9, 2024 |work=[[Toronto Star]] |date=July 9, 2024}}</ref> He returned in January 2025 to serve as co-leader, pending election by party membership, which was [[2025 Green Party of Canada co-leadership election|approved]] on February 4, 2025.<ref>{{cite news |agency=[[The Canadian Press]] |date=January 27, 2025 |title=Pedneault plans return as Green Party co-leader after 6-month pause |url=https://www.cbc.ca/news/politics/green-party-pedneault-1.7442732 |access-date=February 14, 2025 |work=[[CBC News]] }}</ref><ref>{{Cite web |last=Lachance Nové |first=Fabrice |date=2025-02-04 |title=Historic Vote: Greens Choose Co-Leadership |url=https://www.greenparty.ca/en/media-release/2025-02-04/historic-vote-greens-choose-co-leadership |access-date=2025-02-14 |website=Green Party of Canada |language=en-US |archive-date=February 11, 2025 |archive-url=https://web.archive.org/web/20250211155240/https://www.greenparty.ca/en/media-release/2025-02-04/historic-vote-greens-choose-co-leadership |url-status=dead }}</ref><ref>{{cite news |last=Benson |first=Stuart |date=February 11, 2025 |title=Greens can tap into global network as Canada finds itself with few friends amid U.S. threats, say co-leaders |url=https://www.hilltimes.com/story/2025/02/11/greens-can-tap-into-global-network-at-a-time-when-canada-finds-itself-with-few-friends-amid-u-s-threats-say-co-leaders/450795/ |access-date=February 14, 2025 |work=[[The Hill Times]] }}</ref> The party unveiled its new logo on February 18, its first rebrand in 25 years.<ref>{{Cite news |last=Thurton |first=David |date=February 18, 2025 |title=Green Party adopts green dot emoji 🟢 as new logo |url=https://www.cbc.ca/news/politics/green-party-emoji-branding-1.7461800 |access-date=February 18, 2025 |work=[[CBC News]]}}</ref>
+
+Jonathan Pedneault spoke to the press the morning of April 16, 2025, after the Green Party's invitation to a debate scheduled for the same evening was withdrawn. The Leaders' Debate Commission said the Party was disqualified for "strategically" dropping the number of its candidates from 343 to 232 before the [[2025 Canadian federal election]]. "Parties that deliberately reduce candidate numbers, limit voters' choices and undermine the premise that a national debate includes truly national parties," it stated. Pedneault called the decision "undemocratic."<ref>{{cite web |url=https://www.ctvnews.ca/federal-election-2025/article/green-party-disinvited-from-federal-leaders-debate-commission-says/ |title=Carney, Poilievre align on pipelines as Trump and trade loom over French debate |work=CTV News |agency=The Canadian Press |date=April 16, 2025 |access-date=May 5, 2025}}</ref><ref>{{cite web |url=https://www.netnewsledger.com/2025/04/16/green-party-removed-from-leaders-debate-for-election-2025/ |title=Green Party Removed from Leaders Debate for Election 2025 |website=NetNewsLedger |last=Murray |first=James |date=April 16, 2025 |access-date=May 5, 2025}}</ref> In the election, the party was once again reduced to 1 seat (Saanich—Gulf Islands), and a further decreased popular vote of just over 1%. Pedneault resigned as co-leader two days after the election, taking responsibility for the party's dismal electoral results.<ref>{{Cite web |last=Caruso-Moro |first=Luca |date=2025-04-30 |title=Green Party co-leader Jonathan Pedneault resigns |url=https://www.cp24.com/federal-election-2025/2025/04/30/green-party-co-leader-jonathan-pedneault-resigns/ |access-date=2025-04-30 |website=CP24}}</ref> On August 19, May announced her intention to resign as party leader before the next federal election.<ref>{{Cite web |last=Major |first=Darren |date=2025-08-19 |title=Elizabeth May says she won't lead Green Party in next election |url=https://www.cbc.ca/news/politics/elizabeth-may-not-leading-greens-next-election-1.7612908 |access-date=2025-01-08 |website=CBC}}</ref>
+
+===Leadership of Mike Morrice===
+In the ensuing [[2026 Green Party of Canada leadership election|leadership election]], former Green MP [[Mike Morrice]] and party activist Nira Dookeran entered as candidates, with Dookeran withdrawing prior to the voting period. Morrice will be acclaimed party leader in November 2026, unless None of the Above gets more votes, in which case a re-do would logically be required.
+
+==Principles and policies==
+{{Expand section|date=August 2022}}
+{{Green politics sidebar}}
+
+===Political position===
+The Green Party officially rejects the traditional [[left–right political spectrum]], describing it as "something of an anachronism". Instead, the Green Party believes that "voters in modern democracies [are] divided on lines … more to do with 'insiders' and 'outsiders.'"<ref>{{cite web |author1=Elizabeth May |title=The Left? The Right? |url=https://www.greenparty.ca/en/blog/2019-01-14/left-right |website=Green Party of Canada |access-date=8 November 2021 |date=14 January 2019 |archive-date=October 27, 2022 |archive-url=https://web.archive.org/web/20221027161330/https://www.greenparty.ca/en/blog/2019-01-14/left-right |url-status=dead }}</ref> According to co-founder and former leader Trevor Hancock, "the perennial left vs. right squabbling about who gets to control and benefit from the ever-expanding pie is to completely miss the point; the pie cannot continue to expand, indeed it must contract … the struggle for social justice is deeply rooted in the fact that [[The Limits to Growth|the limits to growth]] requires a radical global and societal redistribution of the Earth’s limited resources."<ref>{{cite news |last1=Hancock |first1=Trevor |title=Neither left nor right, but ahead — why the Greens are different |url=https://www.timescolonist.com/opinion/columnists/trevor-hancock-neither-left-nor-right-but-ahead-why-the-greens-are-different-1.24354333 |access-date=8 November 2021 |publisher=[[Times Colonist]] |date=19 August 2021}}</ref> In 2019, the Green Party under Elizabeth May ran on a campaign slogan of "Not Left. Not Right. Forward Together."<ref>{{Cite web |title=Green Party of Canada |url=https://www.greenparty.ca/en |access-date=August 26, 2019 |website=Green Party of Canada}}</ref>
+
+The party is noted as having a wide range of internal factions; the [[2020 Green Party of Canada leadership election|2020 leadership election]] saw both self-described [[political moderate|moderate]] and [[eco-socialism|eco-socialist]] candidates.<ref>{{cite news |last1=Smith |first1=Marie-Danielle |title=When it comes to Elizabeth May's successor, the Green Party is spoiled for choice |url=https://www.macleans.ca/politics/elizabeth-may-green-party-canada-leadership-2020/ |access-date=8 November 2021 |publisher=[[Maclean's]] |date=3 September 2020}}</ref> Writing in ''[[Maclean's]]'', Anne Kingston described the party as an "ideological hybrid", combining left-leaning views on social issues and welfare with a right-leaning embrace of market solutions and tax shifting.<ref>{{Cite news |last=Kingston |first=Anne |date=2019-05-03 |title=Why you just may vote Green this time |work=[[Maclean's]] |url=https://www.macleans.ca/politics/green-party-were-going-to-break-through-this-time/}}</ref> In another article, Matt Gurney concurred with that description; he also said that "in practice", the Greens are "simply another centre-left party".<ref>{{cite news |last1=Gurney |first1=Matt |date=24 May 2019 |title=Elizabeth May's lack of vision |url=https://www.macleans.ca/opinion/elizabeth-mays-lack-of-vision/ |access-date=8 November 2021 |publisher=[[Maclean's]]}}</ref> Other political commentators, such as [[Andrew Coyne]],<ref>{{cite news |last1=Coyne |first1=Andrew |title=The rise of the Greens, and the danger it poses to the Liberals |url=https://nationalpost.com/opinion/andrew-coyne-the-rise-of-the-greens-and-the-danger-it-poses-to-the-liberals |access-date=8 November 2021 |publisher=[[National Post]] |date=3 June 2019}}</ref> [[Chantal Hébert]]<ref name="position">{{cite news |last1=Hébert |first1=Chantal |title=Green victory suggests progressive vote is up for grabs |url=https://www.thestar.com/politics/federal/2019/05/07/green-victory-suggests-progressive-vote-is-up-for-grabs.html |access-date=8 November 2021 |publisher=[[Toronto Star]] |date=8 May 2019}}</ref> and [[Heather Mallick]],<ref>{{cite news |last1=Mallick |first1=Heather |title=Left twisting in the wind: why can't progressives get along? |url=https://www.thestar.com/opinion/star-columnists/2021/07/14/left-twisting-in-the-wind-why-cant-progressives-get-along.html |access-date=8 November 2021 |publisher=[[Toronto Star]] |date=14 July 2021}}</ref> identify the party as being on the left.
+
+The party has also been described as populists, more adjacent to the left.<ref>{{Cite web |title=Political Parties |url=https://thecanadaguide.com/government/political-parties/ |access-date=2026-04-17 |website=The Canada Guide |language=en-CA |quote=Initially, the Greens were simply a one-issue party exclusively devoted to raising awareness of “the environment,” until former leaders Jim Harris (b. 1961) and especially Elizabeth May (b. 1954, see sidebar), sought to broaden the Greens’ appeal and market themselves more as centre-left populists}}</ref>
+
+===Principles===
+The Green Party of Canada is founded on six key principles that were adopted at the 2002 convention of the [[Global Greens]].<ref name=":0">{{Cite web|title=Green Party: The Movement|url=https://www.greenparty.ca/en/the-movement|website=greenparty.ca}}</ref> These principles are:
+* [[Ecological wisdom]]
+* [[Nonviolence|Non-violence]]
+* [[Social justice]]
+* [[Sustainability]]
+* [[Participatory democracy]]
+* [[Diversity, equity, and inclusion|Respect for diversity]]
+
+== Members of Parliament ==
+{| class="wikitable"
+|+
+!Name
+!Riding
+!Province/territory
+!Green MP from
+!Green MP until
+!Predecessor
+!Crossed the floor
+|-
+|[[Mike Morrice]]
+|[[Kitchener Centre (federal electoral district)|Kitchener Centre]]
+|[[Ontario]]
+|September 20, 2021
+|March 23, 2025
+|[[Raj Saini]]
+|No
+|-
+|[[Jenica Atwin]]
+|[[Fredericton—Oromocto|Fredericton]]
+|[[New Brunswick]]
+|October 21, 2019
+|June 10, 2021
+|[[Matt DeCourcey]]
+|'''Yes, left caucus (to Liberals)'''
+|-
+|[[Paul Manly]]
+|[[Nanaimo—Ladysmith]]
+|[[British Columbia]]
+|May 6, 2019
+|September 20, 2021
+|[[Sheila Malcolmson]]
+|No
+|-
+|[[Bruce Hyer]]
+|[[Thunder Bay—Superior North (federal electoral district)|Thunder Bay—Superior North]]
+|[[Ontario]]
+|December 13, 2013
+|August 4, 2015
+|[[Joe Comuzzi]]
+|'''Yes, joined caucus (from NDP)'''
+|-
+|[[Elizabeth May]]
+|[[Saanich—Gulf Islands]]
+|[[British Columbia]]
+|May 2, 2011
+|''present''
+|[[Gary Lunn]]
+|No
+|-
+|[[Blair Wilson]]
+|[[West Vancouver—Sunshine Coast—Sea to Sky Country]]
+|[[British Columbia]]
+|August 30, 2008
+|October 14, 2008
+|[[John Reynolds (Canadian politician)|John Reynolds]]
+|'''Yes, joined caucus (from Liberals)'''
+|}
+
+=== Members who joined after parliament's dissolution ===
+{| class="wikitable"
+!Name
+!Riding
+!Green MP from
+!Green MP until
+!Province/territory
+!Predecessor
+!Crossed the floor
+|-
+|[[José Núñez-Melo]]
+|[[Laval (federal electoral district)|Laval]]
+|August 16, 2015
+|October 18, 2015
+|[[Quebec]]
+|[[Nicole Demers]]
+|Yes (the NDP dropped him as a candidate). He ran for the Greens but lost to Liberal candidate Eva Nassif
+|}
+{| class="wikitable"
+|+
+!Name
+!Riding
+!Independent MP from
+!Independent MP until
+!Province/territory
+!Predecessor
+!Crossed the floor
+|-
+|[[Pierre Nantel]]
+|[[Longueuil—Saint-Hubert]]
+|August 19, 2019
+|October 20, 2019
+|[[Quebec]]
+|[[Jean Dorion]]
+|No, but ran as a Green and lost to Bloc candidate Denis Trudel
+|}
+
+==Leadership==
+===Party leaders===
+'''Source:'''<ref name="Parl">{{cite web|url=http://www.parl.gc.ca/parlinfo/Files/Party.aspx?Item=1e408209-128a-426f-b76c-70bd598f481b&Language=E&MenuID=Lists.Members.aspx&MenuQuery=http%3A%2F%2Fwww.parl.gc.ca%2Fparlinfo%2FLists%2FMembers.aspx%3FParliament%3D1924d334-6bd0-4cb3-8793-cee640025ff6%26Current%3DTrue%26Language%3DE|title=Green Party of Canada|publisher=[[Parliament of Canada]]|access-date=21 May 2011|location=Ottawa|archive-date=7 May 2013|archive-url=https://web.archive.org/web/20130507082433/http://www.parl.gc.ca/ParlInfo/Files/Party.aspx?Item=1e408209-128a-426f-b76c-70bd598f481b|url-status=dead}}</ref>
+{| class="wikitable" width="60%"
+! Leader
+! Term start
+! Term end
+|-
+|[[Trevor Hancock]]
+|1983
+|1984
+|-
+|[[Seymour Trieger]]
+|1984
+|1988
+|-
+|[[Kathryn Cholette]]
+|1988
+|1990 
+|-
+|[[Chris Lea]]
+|1990
+|1996 
+|-
+|[[Wendy Priesnitz]]
+|1996
+|1997
+|-
+|[[Harry Garfinkle]] (interim)
+|1997
+|1997
+|-
+|[[Joan Russow]]
+|1997
+|2001
+|-
+|[[Chris Bradshaw]] (interim)
+|2001
+|2003
+|-
+|[[Jim Harris (politician)|Jim Harris]]
+|2003
+|2006
+|-
+|[[Elizabeth May]]
+|[[2006 Green Party of Canada leadership election|2006]]
+|2019
+|-
+|[[Jo-Ann Roberts]] (interim)
+|2019
+|2020
+|-
+|[[Annamie Paul]]
+|[[2020 Green Party of Canada leadership election|2020]]
+|2021
+|-
+|[[Amita Kuttner]] (interim)
+|2021
+|2022
+|-
+|[[Elizabeth May]]
+|[[2022 Green Party of Canada leadership election|2022]]
+|present
+|-
+|[[Jonathan Pedneault]]
+|[[2025 Green Party of Canada co-leadership election|2025]]{{efn|While May and Pedneault campaigned together during the [[2022 Green Party of Canada leadership election|2022 leadership election]], saying the two intended to be co-leaders, the party did not formally adopt a co-leadership model until 2025. Pedneault served as deputy leader 2022–2024.}}
+|2025
+|-
+|[[Mike Morrice]]
+|[[2026 Green Party of Canada leadership election|2026]]
+|presumed designate
+|}
+=== Deputy party leaders ===
+{| class="wikitable" width="60%"
+! Deputy leader
+! Leader(s)
+! Term start
+! Term end
+|-
+| [[Andrew Lewis (Canadian politician)|Andrew Lewis]]
+| rowspan="2" | [[Jim Harris (politician)|Jim Harris]]
+| rowspan="2" | 2004
+| 26 August 2006
+|-
+| [[Tom Manley (Canadian politician)|Tom Manley]]
+| 23 September 2005
+|-
+| [[Adriane Carr]]
+| rowspan="7" | [[Elizabeth May]]
+| 21 November 2006
+| 22 January 2014
+|-
+| [[Claude Genest]]
+| 21 November 2006
+| 24 November 2009
+|-
+| [[Jacques Rivard]]
+| 24 November 2009
+| July 2010
+|-
+| [[Georges Laraque]]
+| 31 July 2010
+| 17 October 2013
+|-
+| [[Bruce Hyer]]
+| 27 January 2014
+| 19 March 2018
+|-
+| [[Daniel Green (politician)|Daniel Green]]
+| 5 December 2014
+| 4 November 2019
+|-
+| [[Jo-Ann Roberts]]
+| 19 March 2018
+| 4 November 2019
+|-
+| [[Angela Davidson (activist)|Angela Davidson]]
+| rowspan="2" | [[Amita Kuttner]]
+| 2021
+| 21 June 2022
+|-
+| [[Luc Joli-Coeur]]
+| 21 June 2022
+| 19 November 2022
+|-
+| [[Jonathan Pedneault]]
+| rowspan="3" | [[Elizabeth May]]
+| 19 November 2022
+| 9 July 2024
+|-
+| [[Angela Davidson (activist)|Angela Davidson]]
+| 8 February 2024
+| present
+|-
+| [[Mike Morrice]]
+| 28 November 2025
+| 5 August 2026
+|}
+
+===Party parliamentary leaders ===
+The position of [[parliamentary leader]] was created on 4 November 2019, when then-leader Elizabeth May announced that she was resigning as leader of the party, but would remain leader of the parliamentary caucus.<ref>{{Cite web |date=4 November 2019 |title=Elizabeth May steps down as Green Party leader |url=https://www.cbc.ca/news/politics/elizabeth-may-green-party-leader-1.5346635 |website=CBC News}}</ref> The position ceased to exist after May re-assumed the party leadership in 2022.
+* [[Elizabeth May]] (2019–2022)<ref name="Meet Elizabeth May"/><ref name="CTV-2019-01">{{cite web|url=https://www.ctvnews.ca/politics/article/elizabeth-may-steps-down-as-green-party-leader/|title=Elizabeth May steps down as Green Party leader|date=4 November 2019|publisher=[[CTV News]]|access-date=4 November 2019|location=Ottawa}}</ref>
+
+==Election results==
+{{See also|List of Green politicians who have held office in Canada}}
+
+===House of Commons===
+Source: [https://web.archive.org/web/20090609211221/http://www2.parl.gc.ca/Sites/LOP/HFER/hfer.asp?Language=E History of Federal elections since 1867]
+{{div flex row}}
+{| class=wikitable style="text-align: center;"
+|-
+! Election
+! Leader
+! Votes
+! %
+! Seats
+! +/–
+! Position
+! Status
+|-
+! [[1984 Canadian federal election|1984]]
+| [[Trevor Hancock]]
+| 26,921
+| 0.21
+| {{composition bar|0|282|hex={{Canadian party colour|CA|Green}}}}
+| {{steady}}
+| {{steady}} 7th
+| {{N/A|No seats}}
+|-
+! [[1988 Canadian federal election|1988]]
+| [[Seymour Trieger]]
+| 47,228
+| 0.36
+| {{composition bar|0|295|hex={{Canadian party colour|CA|Green}}}}
+| {{steady}}
+| {{steady}} 7th
+| {{N/A|No seats}}
+|-
+! [[1993 Canadian federal election|1993]]
+| [[Chris Lea]]
+| 32,979
+| 0.24
+| {{composition bar|0|295|hex={{Canadian party colour|CA|Green}}}}
+| {{steady}}
+| {{decrease}} 10th
+| {{N/A|No seats}}
+|-
+! [[1997 Canadian federal election|1997]]
+| rowspan=2|[[Joan Russow]]
+| 55,583
+| 0.43
+| {{composition bar|0|301|hex={{Canadian party colour|CA|Green}}}}
+| {{steady}}
+| {{increase}} 6th
+| {{N/A|No seats}}
+|-
+! [[2000 Canadian federal election|2000]]
+| 104,402
+| 0.81
+| {{composition bar|0|301|hex={{Canadian party colour|CA|Green}}}}
+| {{steady}}
+| {{steady}} 6th
+| {{N/A|No seats}}
+|-
+! [[2004 Canadian federal election|2004]]
+| rowspan=2|[[Jim Harris (politician)|Jim Harris]]
+| 582,247
+| 4.32
+| {{composition bar|0|308|hex={{Canadian party colour|CA|Green}}}}
+| {{steady}}
+| {{increase}} 5th
+| {{N/A|No seats}}
+|-
+! [[2006 Canadian federal election|2006]]
+| 665,940
+| 4.48
+| {{composition bar|0|308|hex={{Canadian party colour|CA|Green}}}}
+| {{steady}}
+| {{steady}} 5th
+| {{N/A|No seats}}
+|-
+! [[2008 Canadian federal election|2008]]
+| rowspan=4|[[Elizabeth May]]
+| 941,097
+| 6.78
+| {{composition bar|0|308|hex={{Canadian party colour|CA|Green}}}}
+| {{steady}}
+| {{steady}} 5th
+| {{N/A|No seats}}
+|-
+! [[2011 Canadian federal election|2011]]
+| 576,221
+| 3.91
+| {{composition bar|1|308|hex={{Canadian party colour|CA|Green}}}}
+| {{increase}} 1
+| {{steady}} 5th
+| {{no2|No status}}
+|-
+! [[2015 Canadian federal election|2015]]
+| 605,637
+| 3.45
+| {{composition bar|1|338|hex={{Canadian party colour|CA|Green}}}}
+| {{steady}}
+| {{steady}} 5th
+| {{no2|No status}}
+|-
+! [[2019 Canadian federal election|2019]]
+| 1,189,607
+| 6.55
+| {{composition bar|3|338|hex={{Canadian party colour|CA|Green}}}}
+| {{increase}} 2
+| {{steady}} 5th
+| {{no2|No status}}
+|-
+! [[2021 Canadian federal election|2021]]
+| [[Annamie Paul]]
+| 397,014
+| 2.33
+| {{composition bar|2|338|hex={{Canadian party colour|CA|Green}}}}
+| {{decrease}} 1
+| {{steady}} 5th
+| {{no2|No status}}
+|-
+! [[2025 Canadian federal election|2025]]
+| [[Elizabeth May]] &<br>[[Jonathan Pedneault]]
+|238,892
+|1.22
+| {{composition bar|1|343|hex={{Canadian party colour|CA|Green}}}}
+| {{decrease}} 1
+| {{steady}} 5th
+| {{no2|No status}}
+|}
+ {{Chart|definition=Election results of the Green Party of Canada.chart|data=Election results of the Green Party of Canada.tab|width=500px|thumb}}
+{{div flex row end}}
+
+==Provincial and territorial parties==
+{{See also|List of Green party leaders in Canada}}
+Nine provinces have an active Green party. While these parties and the Green Party of Canada share values and often supporters, they operate as independent entities and do not have common membership.
+
+Nine Green legislators sit in provincial legislative assemblies, including four in [[Legislative Assembly of Prince Edward Island|Prince Edward Island]], two in [[Legislative Assembly of British Columbia|British Columbia]], two in [[Legislative Assembly of New Brunswick|New Brunswick]], and two in [[Legislative Assembly of Ontario|Ontario]]. The Greens in Prince Edward Island were the first Green party to form the official opposition in any provincial assembly.
+
+The only province without a Green party is [[Newfoundland and Labrador]]. An association called the Terra Nova Greens, created in 1996, was previously the Green Party of Canada's "official unit" for the province.<ref>{{cite web|url=http://www.rantandroar.ca/terranovaparty.htm |title=Terra Nova Green Party |publisher=Rantandroar.ca |access-date=28 March 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110921074215/http://www.rantandroar.ca/terranovaparty.htm |archive-date=21 September 2011 }}</ref> TNG was never a registered party, but fielded independent candidates in three provincial general elections. They remained the federal party's "official unit" until 2007, but most supporters cut ties to the national party in 2006 (or earlier) over its opposition to the traditional Newfoundland [[seal hunting|seal hunt]]. As of 2021, there are ongoing efforts to establish a provincial green party in Newfoundland and Labrador.<ref>{{cite web|url=http://www.thetelegram.com/News/Local/2014-02-18/article-3618696/Trying-to-resurrect-the-Green-Party/1|title=Trying to resurrect the Green Party|date=18 February 2014|access-date=3 May 2014|newspaper=[[The Telegram]]|archive-url=https://web.archive.org/web/20140503120248/http://www.thetelegram.com/News/Local/2014-02-18/article-3618696/Trying-to-resurrect-the-Green-Party/1|archive-date=3 May 2014|url-status=dead}}</ref>
+
+The [[Yukon Green Party]] was active from 2011 to 2021.<ref name="Faded">{{Cite news |date=25 March 2021 |title=Why Yukon's Green Party faded to black this election |url=https://www.cbc.ca/news/canada/north/yukon-green-party-election-no-candidates-1.5963957 |access-date=31 March 2021 |work=[[CBC News]]}}</ref>
+
+[[Nunavut]] and the [[Northwest Territories]] have legislatures that use non-partisan [[Consensus government in Canada|consensus government]]. As such, there are no registered green parties (or any other parties) in these territories. However, one member of the Northwest Territories Legislative Assembly was known to be a member of the federal Green Party: [[Rylund Johnson]] of [[Yellowknife North]].<ref>{{cite web |last1=Peacock |first1=Emelie |title=28-year-old Yk lawyer announces bid for Yellowknife North seat |url=https://www.mytruenorthnow.com/41074/28-year-old-yk-lawyer-announces-bid-for-yellowknife-north-seat/ |website=My True North Now |access-date=23 July 2021 |language=en-CA |date=3 July 2019}}</ref>
+
+==See also==
+{{Portal|Canada|Climate change|Environment|Politics}}
+*[[Green Party of Canada leadership elections]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+
+* {{Official website}}
+* [https://www.greenparty.ca/en/council/election-2021/candidates Federal Council Elections 2021 - Candidates]
+* [http://youth.greenparty.ca Young Greens of Canada] {{Webarchive|url=https://web.archive.org/web/20071213210309/http://youth.greenparty.ca/ |date=13 December 2007 }}
+* {{YouTube|user=canadiangreenparty|Green Party of Canada}}
+* [https://www.thecanadianencyclopedia.ca/en/article/green-party-of-canada Green Party of Canada] at [[The Canadian Encyclopedia]]
+*[https://wayback.archive-it.org/227/*/http://greenparty.ca/ Green Party of Canada - Canadian Political Parties and Political Interest Groups] - Web Archive created by the University of Toronto Libraries
+{{GPC}}
+{{Canadian federal political parties}}
+{{Green parties in Canada}}
+{{Green parties}}
+{{Authority control}}
+
+{{DEFAULTSORT:Green Party of Canada}}
+[[Category:Canadian organisations established in 1983]]
+[[Category:Environmental organizations based in Ontario]]
+[[Category:Federal political parties in Canada]]
+[[Category:Global Greens member parties|Canada]]
+[[Category:Green Party of Canada| ]]
+[[Category:Political parties established in 1983]]
+[[Category:Progressivism in Canada]]

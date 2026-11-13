@@ -1,0 +1,389 @@
+{
+  "_meta": {
+    "source": "Wikidata: provinces and territories of Canada",
+    "url": "https://query.wikidata.org/",
+    "licence": "CC0 1.0 (Wikidata)",
+    "query": "P36 capital, P150 (on Q16) start = joined, P2046 area, P1082 population, P41 flag, P6 head of government, P102 party",
+    "script": "scripts/grounding/wikidata.ts",
+    "fetched": "2026-11-13"
+  },
+  "provinces": [
+    {
+      "slug": "alberta",
+      "name": "Alberta",
+      "qid": "Q1951",
+      "type": "province",
+      "capital": "Edmonton",
+      "joined": "1905-09-01",
+      "areaKm2": 661848,
+      "population": 4262635,
+      "populationDate": "2021-01-01",
+      "largestCity": {
+        "name": "Calgary",
+        "population": 1306784,
+        "date": "2021-01-01"
+      },
+      "flagFile": "Flag of Alberta.svg",
+      "premier": {
+        "name": "Danielle Smith",
+        "qid": "Q5219439",
+        "party": "United Conservative Party",
+        "since": "2022-10-11",
+        "check": {
+          "wikidata": "Danielle Smith",
+          "wikidataSince": "2022-10-11",
+          "agrees": true
+        }
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Alberta"
+    },
+    {
+      "slug": "british-columbia",
+      "name": "British Columbia",
+      "qid": "Q1973",
+      "type": "province",
+      "capital": "Victoria",
+      "joined": "1871-07-20",
+      "areaKm2": 944735,
+      "population": 5000879,
+      "populationDate": "2021-01-01",
+      "largestCity": {
+        "name": "Vancouver",
+        "population": 662248,
+        "date": "2021-01-01"
+      },
+      "flagFile": "Flag of British Columbia.svg",
+      "premier": {
+        "name": "David Eby",
+        "qid": "Q5233252",
+        "party": "British Columbia New Democratic Party",
+        "since": "2022-11-18",
+        "check": {
+          "wikidata": "David Eby",
+          "wikidataSince": "2022-11-18",
+          "agrees": true
+        }
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/British_Columbia"
+    },
+    {
+      "slug": "manitoba",
+      "name": "Manitoba",
+      "qid": "Q1948",
+      "type": "province",
+      "capital": "Winnipeg",
+      "joined": "1870-07-15",
+      "areaKm2": 647797,
+      "population": 1342153,
+      "populationDate": "2021-01-01",
+      "largestCity": {
+        "name": "Winnipeg",
+        "population": 749607,
+        "date": "2021-01-01"
+      },
+      "flagFile": "Flag of the Province of Manitoba.svg",
+      "premier": {
+        "name": "Wab Kinew",
+        "qid": "Q7958591",
+        "party": "New Democratic Party of Manitoba",
+        "since": "2023-10-18",
+        "check": {
+          "wikidata": "Wab Kinew",
+          "wikidataSince": "2023-10-18",
+          "agrees": true
+        }
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Manitoba"
+    },
+    {
+      "slug": "new-brunswick",
+      "name": "New Brunswick",
+      "qid": "Q1965",
+      "type": "province",
+      "capital": "Fredericton",
+      "joined": "1867-07-01",
+      "areaKm2": 72908,
+      "population": 775610,
+      "populationDate": "2021-01-01",
+      "largestCity": {
+        "name": "Moncton",
+        "population": 79470,
+        "date": "2021-01-01"
+      },
+      "flagFile": "Flag of New Brunswick.svg",
+      "premier": {
+        "name": "Susan Holt",
+        "qid": "Q113509940",
+        "party": "New Brunswick Liberal Association",
+        "since": "2024-11-02",
+        "check": {
+          "wikidata": "Susan Holt",
+          "wikidataSince": "2024-11-02",
+          "agrees": true
+        }
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/New_Brunswick"
+    },
+    {
+      "slug": "newfoundland-and-labrador",
+      "name": "Newfoundland and Labrador",
+      "qid": "Q2003",
+      "type": "province",
+      "capital": "St. John's",
+      "joined": "1949-03-31",
+      "areaKm2": 405212,
+      "population": 510550,
+      "populationDate": "2021-01-01",
+      "largestCity": {
+        "name": "St. John's",
+        "population": 110525,
+        "date": "2021-01-01"
+      },
+      "flagFile": "Flag of Newfoundland and Labrador.svg",
+      "premier": {
+        "name": "Tony Wakeham",
+        "qid": "Q64010272",
+        "party": "Progressive Conservative Party of Newfoundland and Labrador",
+        "since": "2025-10-29",
+        "check": {
+          "wikidata": "Tony Wakeham",
+          "wikidataSince": "2025-10-01",
+          "agrees": false
+        }
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador"
+    },
+    {
+      "slug": "northwest-territories",
+      "name": "Northwest Territories",
+      "qid": "Q2007",
+      "type": "territory",
+      "capital": "Yellowknife",
+      "joined": "1870-07-15",
+      "areaKm2": 1346106,
+      "population": 41070,
+      "populationDate": "2021-01-01",
+      "largestCity": {
+        "name": "Yellowknife",
+        "population": 20340,
+        "date": "2021-01-01"
+      },
+      "flagFile": "Flag of the Northwest Territories.svg",
+      "premier": {
+        "name": "R. J. Simpson",
+        "qid": "Q23761322",
+        "party": null,
+        "since": "2023-12-08",
+        "check": {
+          "wikidata": "R. J. Simpson",
+          "wikidataSince": "2023-12-08",
+          "agrees": true
+        }
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Northwest_Territories"
+    },
+    {
+      "slug": "nova-scotia",
+      "name": "Nova Scotia",
+      "qid": "Q1952",
+      "type": "province",
+      "capital": "Halifax",
+      "joined": "1867-07-01",
+      "areaKm2": 55283,
+      "population": 969383,
+      "populationDate": "2021-01-01",
+      "largestCity": {
+        "name": "Halifax",
+        "population": 440072,
+        "date": "2021-01-01"
+      },
+      "flagFile": "Flag of Nova Scotia.svg",
+      "premier": {
+        "name": "Tim Houston",
+        "qid": "Q15280719",
+        "party": "Progressive Conservative Association of Nova Scotia",
+        "since": "2021-08-31",
+        "check": {
+          "wikidata": "Tim Houston",
+          "wikidataSince": "2021-08-31",
+          "agrees": true
+        }
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Nova_Scotia"
+    },
+    {
+      "slug": "nunavut",
+      "name": "Nunavut",
+      "qid": "Q2023",
+      "type": "territory",
+      "capital": "Iqaluit",
+      "joined": "1999-04-01",
+      "areaKm2": 2038722,
+      "population": 36858,
+      "populationDate": "2021-01-01",
+      "largestCity": {
+        "name": "Iqaluit",
+        "population": 7429,
+        "date": "2021-01-01"
+      },
+      "flagFile": "Flag of Nunavut.svg",
+      "premier": {
+        "name": "John Main",
+        "qid": "Q43380305",
+        "party": null,
+        "since": "2025-11-20",
+        "check": {
+          "wikidata": "P.J. Akeeagok",
+          "wikidataSince": "2021-11-19",
+          "agrees": false
+        }
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Nunavut"
+    },
+    {
+      "slug": "ontario",
+      "name": "Ontario",
+      "qid": "Q1904",
+      "type": "province",
+      "capital": "Toronto",
+      "joined": "1867-07-01",
+      "areaKm2": 1076395,
+      "population": 14223942,
+      "populationDate": "2021-01-01",
+      "largestCity": {
+        "name": "Toronto",
+        "population": 2794356,
+        "date": "2021-01-01"
+      },
+      "flagFile": "Flag of Ontario.svg",
+      "premier": {
+        "name": "Doug Ford",
+        "qid": "Q5300478",
+        "party": "Progressive Conservative Party of Ontario",
+        "since": "2018-06-29",
+        "check": {
+          "wikidata": "Doug Ford",
+          "wikidataSince": "2018-06-29",
+          "agrees": true
+        }
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Ontario"
+    },
+    {
+      "slug": "prince-edward-island",
+      "name": "Prince Edward Island",
+      "qid": "Q1978",
+      "type": "province",
+      "capital": "Charlottetown",
+      "joined": "1873-07-01",
+      "areaKm2": 5620,
+      "population": 154331,
+      "populationDate": "2021-01-01",
+      "largestCity": {
+        "name": "Charlottetown",
+        "population": 38809,
+        "date": "2021-01-01"
+      },
+      "flagFile": "Flag of Prince Edward Island.svg",
+      "premier": {
+        "name": "Rob Lantz",
+        "qid": "Q19561148",
+        "party": "Progressive Conservative Party of Prince Edward Island",
+        "since": "2026-02-09",
+        "check": {
+          "wikidata": "Bloyce Thompson",
+          "wikidataSince": "2025-12-12",
+          "agrees": false
+        }
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Prince_Edward_Island"
+    },
+    {
+      "slug": "quebec",
+      "name": "Quebec",
+      "qid": "Q176",
+      "type": "province",
+      "capital": "Quebec City",
+      "joined": "1867-07-01",
+      "areaKm2": 1542056,
+      "population": 8501833,
+      "populationDate": "2021-01-01",
+      "largestCity": {
+        "name": "Montreal",
+        "population": 1762949,
+        "date": "2021-01-01"
+      },
+      "flagFile": "Flag of Quebec.svg",
+      "premier": {
+        "name": "Paul St-Pierre Plamondon",
+        "qid": "Q3372147",
+        "party": "Parti Québécois",
+        "since": "2026-10-21",
+        "check": {
+          "wikidata": null,
+          "wikidataSince": null,
+          "agrees": false
+        }
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Quebec"
+    },
+    {
+      "slug": "saskatchewan",
+      "name": "Saskatchewan",
+      "qid": "Q1989",
+      "type": "province",
+      "capital": "Regina",
+      "joined": "1905-09-01",
+      "areaKm2": 651900,
+      "population": 1132505,
+      "populationDate": "2021-01-01",
+      "largestCity": {
+        "name": "Saskatoon",
+        "population": 266141,
+        "date": "2021-01-01"
+      },
+      "flagFile": "Flag of Saskatchewan.svg",
+      "premier": {
+        "name": "Scott Moe",
+        "qid": "Q7436891",
+        "party": "Saskatchewan Party",
+        "since": "2018-02-02",
+        "check": {
+          "wikidata": "Scott Moe",
+          "wikidataSince": "2018-02-02",
+          "agrees": true
+        }
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Saskatchewan"
+    },
+    {
+      "slug": "yukon",
+      "name": "Yukon",
+      "qid": "Q2009",
+      "type": "territory",
+      "capital": "Whitehorse",
+      "joined": "1898-06-13",
+      "areaKm2": 482443,
+      "population": 40232,
+      "populationDate": "2021-01-01",
+      "largestCity": {
+        "name": "Whitehorse",
+        "population": 28201,
+        "date": "2021-01-01"
+      },
+      "flagFile": "Flag of Yukon.svg",
+      "premier": {
+        "name": "Currie Dixon",
+        "qid": "Q3007723",
+        "party": "Yukon Party",
+        "since": "2025-11-22",
+        "check": {
+          "wikidata": "Mike Pemberton",
+          "wikidataSince": "2025-06-27",
+          "agrees": false
+        }
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Yukon"
+    }
+  ]
+}

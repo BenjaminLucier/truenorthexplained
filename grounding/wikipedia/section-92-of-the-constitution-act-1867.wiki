@@ -1,0 +1,94 @@
+{{Short description|Provision of the Constitution of Canada}}
+{{italic title|string=Constitution Act, 1867}}
+{{Use Canadian English|date=May 2022}}
+{{Use mdy dates|date=May 2022}}
+
+[[File:Proclamation Canadian Confederation.jpg|thumb|upright=0.75|Proclamation bringing the ''Constitution Act'' into force, July 1, 1867]]
+{{Constitution Act, 1867}}
+
+'''Section 92 of the ''Constitution Act, 1867''''' ({{langx|fr|'''article 92 de la Loi constitutionnelle de 1867'''}}) is a provision in the [[Constitution of Canada]] that sets out the legislative powers of the legislatures of the [[provinces of Canada]].  The provincial powers in section 92 are balanced by the list of federal legislative powers set out in [[Section 91 of the Constitution Act, 1867|section 91 of the ''Constitution Act, 1867'']].  The dynamic tension between these two sets of legislative authority is generally known as the [[Canadian federalism|division of powers]].  The interplay between the two lists of powers have been the source of much constitutional litigation since [[Confederation of Canada]] in 1867.
+
+The ''[[Constitution Act, 1867]]'' is the constitutional statute which established [[Canada]].  Originally named the ''[[British North America Acts|British North America Act, 1867]]'', the Act continues to be the foundational statute for the Constitution of Canada, although it has been amended many times since 1867.  It is now recognised as part of the supreme law of Canada.
+
+==''Constitution Act, 1867''==
+{{Main|Constitution Act, 1867}}
+
+The ''[[Constitution Act, 1867]]'' is part of the [[Constitution of Canada]] and thus part of the supreme law of Canada.<ref>Peter Hogg and Wade Wright, ''Constitutional Law of Canada'', 5th ed. (Thomson Reuters (looseleaf;  current to 2025)), para. 1:4.</ref><ref name=supreme>[https://laws.justice.gc.ca/eng/const/section-52.html#h-59''Constitution Act, 1982''], s. 52, s. 53, and Schedule, item 1.</ref>  The Act sets out the constitutional framework of Canada, including the structure of the [[Government of Canada|federal government]] and [[Canadian federalism|the powers of the federal government and the provinces]]. It was the product of extensive negotiations between the provinces of [[British North America]] at the [[Charlottetown Conference]] in 1864, the [[Quebec Conference, 1864|Quebec Conference]] in 1864, and the [[London Conference of 1866|London Conference in 1866]].<ref name = Road>Donald Creighton, ''The Road to Confederation'' (Macmillan Publishing, 1964;  reprinted ed., Oxford University Press, 2012);  [https://archive.org/details/roadtoconfederat0000crei_f8y4 online version].</ref><ref>Christopher Moore, ''1867 — How the Fathers Made a Deal'' (McClelland & Stewart, 1997).</ref> Those conferences were followed by consultations with the British government in 1867.<ref name =Road/><ref>Ben Gilding,[https://www.utpjournals.press/doi/full/10.3138/chr.2017-0053 "The Silent Framers of British North American Union: The Colonial Office and Canadian Confederation, 1851–67"] (2018) 99:3 ''Canadian Historical Review''.</ref>  The Act was then enacted by the [[Parliament of the United Kingdom|British Parliament]] under the name the ''British North America Act, 1867''.<ref name=name>Hogg and Wright, ''Constitutional Law of Canada'', para. 1:2.</ref><ref>[https://www.legislation.gov.uk/ukpga/1867/3/pdfs/ukpga_18670003_en.pdf ''British North America Act, 1867''], 30 & 31 Vict., c. 3 (UK).</ref> In 1982 the Act was brought under full Canadian control through the [[Patriation]] of the Constitution, and was renamed the ''Constitution Act, 1867''.<ref name= supreme/><ref name=name/>  Since Patriation, the Act can only be amended in Canada, under the amending formula set out in the ''[[Constitution Act, 1982]]''.<ref>Hogg and Wright, ''Constitutional Law of Canada'', para. 4:1.</ref><ref>[https://laws.justice.gc.ca/eng/const/page-13.html#h-57 ''Constitution Act, 1982''], Part V.</ref><ref>[https://laws-lois.justice.gc.ca/eng/const/page-11.html#h-38 ''Canada Act 1982''], 1982, c. 11, s. 2 (UK).</ref>
+
+==Text of section 92==
+
+Section 92 reads:
+{{Bquote|'''Subjects of exclusive provincial jurisdiction'''<br>'''92.''' In each Province the Legislature may exclusively make Laws in relation to Matters coming within the Classes of Subjects next herein-after enumerated; that is to say,—
+{{block indent|1=1. Repealed.}}
+{{block indent|1=2. Direct Taxation within the Province in order to the raising of a Revenue for Provincial Purposes.}}
+{{block indent|1=3. The borrowing of Money on the sole Credit of the Province.}}
+{{block indent|1=4. The Establishment and Tenure of Provincial Offices and the Appointment and Payment of Provincial Officers.}}
+{{block indent|1=5. The Management and Sale of the Public Lands belonging to the Province and of the Timber and Wood thereon.}}
+{{block indent|1=6. The Establishment, Maintenance, and Management of Public and Reformatory Prisons in and for the Province.}}
+{{block indent|1=7. The Establishment, Maintenance, and Management of Hospitals, Asylums, Charities, and Eleemosynary Institutions in and for the Province, other than Marine Hospitals.}}
+{{block indent|1=8. Municipal Institutions in the Province.}}
+{{block indent|1=9. Shop, Saloon, Tavern, Auctioneer, and other Licences in order to the raising of a Revenue for Provincial, Local, or Municipal Purposes.}}
+{{block indent|1=[[Section 92(10) of the Constitution Act, 1867|10. Local Works and Undertakings]] other than such as are of the following Classes:—}}
+{{block indent|{{block indent|1=a. Lines of Steam or other Ships, Railways, Canals, Telegraphs, and other Works and Undertakings connecting the Province with any other or others of the Provinces, or extending beyond the Limits of the Province:}}}}
+{{block indent|{{block indent|1=b. Lines of Steam Ships between the Province and any British or Foreign Country:}}}}
+{{block indent|{{block indent|1=c. Such Works as, although wholly, situate within the Province, are before or after their Execution declared by the Parliament of Canada to be for the general Advantage of Canada or for the Advantage of Two or more of the Provinces.}}}}
+{{block indent|1=11. The Incorporation of Companies with Provincial Objects.}}
+{{block indent|1=12. The Solemnization of Marriage in the Province.}}
+{{block indent|1=[[Section 92(13) of the Constitution Act, 1867|13. Property and Civil Rights in the Province.]]}}
+{{block indent|1=[[Section 92(14) of the Constitution Act, 1867|14. The Administration of Justice in the Province]], including the Constitution, Maintenance, and Organization of Provincial Courts, both of Civil and of Criminal Jurisdiction, and including Procedure in Civil Matters in those Courts.}}
+{{block indent|1=15. The Imposition of Punishment by Fine, Penalty, or Imprisonment for enforcing any Law of the Province made in relation to any Matter coming within any of the Classes of Subjects enumerated in this Section.}}
+{{block indent|1=16. Generally all Matters of a merely local or private Nature in the Province.<ref name=s92>[https://laws-lois.justice.gc.ca/eng/Const/section-92.html#docCont ''Constitution Act, 1867'', s. 92.]</ref>}}}}
+
+Section 92 is found in Part VI of the ''Constitution Act, 1867'', dealing with the distribution of legislative powers between the federal and provincial governments. It has been expressly amended once since 1867.<ref name=s92/>
+
+==Legislative history==
+
+===Quebec Resolutions:  October 1864===
+
+[[File:Fathers of Confederation LAC c001855.jpg|thumb|alt=black and white image of mid-Victorian gentlement gathered around a conference table, some sitting, some standing;  large windows in the back give view of the St Lawrence|Quebec Conference, 1864]]
+Section 92 has its origins in the [[Quebec Resolutions]] which were prepared by the [[Quebec Conference, 1864|Quebec Conference]] in the fall of 1864.  The proposed powers of the provincial legislatures were set out in resolution 43, although there were some differences from that initial draft and the final version in section 92. The main differences were as follows:
+*provincial taxation power would include the power to impose export duties on wood, coal, and other minerals;  that power was not included in the act.<ref>{{cite web|author = Quebec Conference | date = October 1864 | title = Quebec Resolutions, resolution 43, clause 1 |url = https://primarydocuments.ca/john-a-macdonald-papers-the-quebec-resolutions-as-adopted-in-the-legislature-of-the-province-of-canada-14-march-1865 | website = PrimaryDocuments.ca | access-date = October 10, 2026}}</ref><ref>Quebec Resolutions, resolution 43, clause 1, in G.P. Browne and Janet Ajzenstat (eds.), ''Documents on the Confederation of British North America'' (McGill-Queen's University Press, 2009; reprint of the 1969 edition), document 34, p. 160.</ref><ref>[https://laws-lois.justice.gc.ca/eng/const/page-3.html#docCont ''Constitution Act, 1867''], s. 91(3).</ref>
+*agriculture and immigration were included in the proposed list of provincial powers, and also in the proposed list of federal powers. They were instead made concurrent federal and provincial powers, in [[Section 95 of the Constitution Act, 1867|section 95 of the act]].<ref>{{cite web|author = Quebec Conference | date = October 1864 | title = Quebec Resolutions, resolution 29, clauses 35 and 36 and resolution 43, clauses 4 and 5 |url = https://primarydocuments.ca/john-a-macdonald-papers-the-quebec-resolutions-as-adopted-in-the-legislature-of-the-province-of-canada-14-march-1865 | website = PrimaryDocuments.ca | access-date = October 10, 2026}}</ref><ref>Quebec Resolutions, resolution 29, clauses 35 and 36 and resolution 43, clauses 4 and 5 in Browne and Ajzenstat (eds.), ''Documents'', document 34, pp. 159, 160.</ref><ref>[https://laws-lois.justice.gc.ca/eng/const/page-3.html#docCont ''Constitution Act, 1867''], s. 95.</ref>
+*education was included in list of proposed provincial powers, with a proviso to protect the rights of the Protestant and Catholic minorities in both Canadas with respect to denominational schools.  This became a separate section in the act, section 93.<ref>{{cite web|author = Quebec Conference | date = October 1864 | title = Quebec Resolutions, resolution 43, clause 6  |url = https://primarydocuments.ca/john-a-macdonald-papers-the-quebec-resolutions-as-adopted-in-the-legislature-of-the-province-of-canada-14-march-1865 | website = PrimaryDocuments.ca | access-date = October 10, 2026}}</ref><ref>Quebec Resolutions, resolution 43, clause 6 in Browne and Ajzenstat (eds.), ''Documents'', document 34, p. 161.</ref><ref>[https://laws-lois.justice.gc.ca/eng/const/page-3.html#docCont ''Constitution Act, 1867''], s. 93.</ref>
+*sea, coast, and inland fisheries were included in the list of proposed provincial powers, as well as in the list of proposed federal powers. In the act, fisheries were listed only as a federal power.<ref>{{cite web|author = Quebec Conference | date = October 1864 | title = Quebec Resolutions, resolution 43, clause 8  |url = https://primarydocuments.ca/john-a-macdonald-papers-the-quebec-resolutions-as-adopted-in-the-legislature-of-the-province-of-canada-14-march-1865 | website = PrimaryDocuments.ca | access-date = October 10, 2026}}</ref><ref>Quebec Resolutions, resolution 43, clause 7 in Browne and Ajzenstat (eds.), ''Documents'', document 34, p. 161.</ref><ref>[https://laws-lois.justice.gc.ca/eng/const/page-3.html#docCont ''Constitution Act, 1867''], s. 91(12).</ref>
+*solemnization of marriage was not included in the list of proposed provincial powers, with marriage and divorce being listed as a federal power.
+
+==Amendments==
+=== Express amendments ===
+Section 92 has been expressly amended once since the Act was enacted in 1867.  Section 92(1) originally gave the provincial legislatures the power to enact laws to amend the constitutions of the provinces, other than the office of the [[Lieutenant Governor (Canada)|Lieutenant Governor]].  Section 92(1) was repealed as part of the Patriation of the Constitution.  The provincial power to amend the provincial constitution is now found in section 45 of the ''Constitution Act, 1982''.  The exception with regard to the office of the Lieutenant Governor is now found in section 41 of the ''Constitution Act, 1982''.<ref name=CA82V>[https://laws.justice.gc.ca/eng/const/page-13.html#h-57 ''Constitution Act, 1982'', Part V.]</ref>
+
+=== Implicit amendments ===
+
+Section 92 has been amended by implication twice. 
+
+The first implicit amendment was in 1931, with the passage of the ''[[Statute of Westminster, 1931]]''.  That statute removed a restriction on both the federal Parliament and the provincial legislatures, authorising them to repeal or amend British statutes which came within their legislative jurisdiction. 
+
+The second implicit amendment was in 1940, when the category of unemployment insurance was added to the list of exclusive federal powers. That amendment implicitly removed jurisdiction over unemployment insurance from the provinces.
+
+==Background and interpretation ==
+
+The interplay between the list of provincial powers in section 92, and the corresponding list of federal powers in [[Section 91 of the Constitution Act, 1867|section 91]], has been one of the most heavily litigated issues since [[Canadian Confederation|Confederation]] in 1867.  The relationship between the federal and provincial powers is generally referred to as the "division of powers", meaning federalism issues, not [[separation of powers]].
+
+Both the provincial powers and the federal powers are stated to be exclusive, not concurrent.  A subject matter which falls within provincial legislative jurisdiction therefore does not come within federal jurisdiction, and ''vice versa''.  Canadian constitutional analysis uses the term ''[[ultra vires]]'' as shorthand for a matter that is outside the jurisdiction of a government, and ''[[intra vires]]'' for a matter that is within the jurisdiction of a government.  Related constitutional doctrines such as [[paramountcy]] and [[inter-jurisdictional immunity]] are also used to assess the constitutionality of a law under the division of powers.
+
+Although some of the Fathers of Confederation, such as [[John A. Macdonald]], favoured a strong central government, other Fathers of Confederation, such as [[Oliver Mowat]], were more inclined to broader provincial powers.  Quebec has traditionally favoured stronger provincial powers.  In the late 19th century and early 20th century, the [[Judicial Committee of the Privy Council]], the highest appellate body of the [[British Empire]], issued a series of decisions which expanded provincial powers at the expense of federal powers.
+
+== Other sources of provincial jurisdiction==
+Section 92 is not the only source of provincial legislative authority, as there are other provisions of the ''Constitution Act, 1867'' which confer legislative power on the provincial legislatures:
+
+*[[Section 92A of the Constitution Act, 1867|Section 92A]], enacted by the ''Constitution Act, 1982'', gives the provinces jurisdiction over natural resources in the Province;<ref>[https://laws.justice.gc.ca/eng/const/section-92A.html#h-20 ''Constitution Act, 1867'', s. 92A], as enacted by [https://laws.justice.gc.ca/eng/const/section-50.html#h-58 ''Constitution Act, 1982'', s. 50.]</ref>
+
+*[[Section 93  of the Constitution Act, 1867|Section 93]] gives the provinces jurisdiction over education, including jurisdiction over denominational and separate schools in some provinces;<ref>[https://laws.justice.gc.ca/eng/const/section-93.html#docCont ''Constitution Act, 1867'', s. 93.]</ref>
+
+*[[Section 94A of the Constitution Act, 1867|Section 94A]] confirms provincial jurisdiction over old age pensions and supplemental benefits, even when the federal Parliament has legislated in the area;<ref>[https://laws.justice.gc.ca/eng/const/section-94A.html#docCont ''Constitution Act, 1867'', s. 94A.]</ref>
+
+*[[Section 94 of the Constitution Act, 1867|Section 95]] gives the provinces jurisdiction over agriculture and immigration, subject to concurrent federal jurisdiction over those subjects.<ref>[https://laws.justice.gc.ca/eng/const/section-95.html#docCont ''Constitution Act, 1867'', s. 95.]</ref>
+
+There is also section 45 of the ''Constitution Act, 1982'', which gives the provincial legislatures the power to amend the provincial constitutions.<ref name = CA82V/>
+
+== References ==
+{{Reflist}}
+
+[[Category:Constitution Act, 1867]]
+[[Category:Canadian Confederation]]
+[[Category:Federalism in Canada]]

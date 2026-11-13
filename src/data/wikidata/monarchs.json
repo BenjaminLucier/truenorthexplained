@@ -1,0 +1,96 @@
+{
+  "_meta": {
+    "source": "Wikidata: monarchs of Canada since 1867",
+    "url": "https://query.wikidata.org/",
+    "licence": "CC0 1.0 (Wikidata)",
+    "query": "P39 = Q14931511 (monarch of Canada)",
+    "script": "scripts/grounding/wikidata.ts",
+    "fetched": "2026-11-13"
+  },
+  "monarchs": [
+    {
+      "ordinal": 1,
+      "name": "Queen Victoria",
+      "qid": "Q9439",
+      "wikipedia": "https://en.wikipedia.org/wiki/Queen_Victoria",
+      "terms": [
+        {
+          "start": "1867-07-01",
+          "end": "1901-01-22"
+        }
+      ]
+    },
+    {
+      "ordinal": 2,
+      "name": "Edward VII",
+      "qid": "Q20875",
+      "wikipedia": "https://en.wikipedia.org/wiki/Edward_VII",
+      "terms": [
+        {
+          "start": "1901-01-22",
+          "end": "1910-05-06"
+        }
+      ]
+    },
+    {
+      "ordinal": 3,
+      "name": "George V",
+      "qid": "Q269412",
+      "wikipedia": "https://en.wikipedia.org/wiki/George_V",
+      "terms": [
+        {
+          "start": "1910-05-06",
+          "end": "1936-01-20"
+        }
+      ]
+    },
+    {
+      "ordinal": 4,
+      "name": "Edward VIII",
+      "qid": "Q590227",
+      "wikipedia": "https://en.wikipedia.org/wiki/Edward_VIII",
+      "terms": [
+        {
+          "start": "1936-01-20",
+          "end": "1936-12-11"
+        }
+      ]
+    },
+    {
+      "ordinal": 5,
+      "name": "George VI",
+      "qid": "Q280856",
+      "wikipedia": "https://en.wikipedia.org/wiki/George_VI",
+      "terms": [
+        {
+          "start": "1936-12-11",
+          "end": "1952-02-06"
+        }
+      ]
+    },
+    {
+      "ordinal": 6,
+      "name": "Elizabeth II",
+      "qid": "Q9682",
+      "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_II",
+      "terms": [
+        {
+          "start": "1952-02-06",
+          "end": "2022-09-08"
+        }
+      ]
+    },
+    {
+      "ordinal": 7,
+      "name": "Charles III",
+      "qid": "Q43274",
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_III",
+      "terms": [
+        {
+          "start": "2022-09-08",
+          "end": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{{Short description|Provincial civil code}}
+{{italic title}}
+{{More citations needed|date=March 2009}}
+{{Infobox legislation
+|short_title         = Civil Code of Quebec
+|legislature         = [[National Assembly of Quebec]]
+|image               = Coat of arms of Quebec (without crown).svg
+|imagesize           = 130px
+|imagealt            = 
+|caption             = 
+|long_title          = 
+|citation            = CQLR c. CCQ-1991
+|territorial_extent  = 
+|enacted_by          = 
+|date_enacted        = 
+|date_passed         = 
+|enacted_by2         = 
+|date_enacted2       = 
+|date_passed2        = 
+|date_assented       = 
+|royal_assent        = 8 December 1991
+|date_signed         = 
+|date_commenced      = 1 January 1994
+|date_of_expiry      = 
+|date_repealed       = 
+|administered_by     = 
+|bill                = 
+|bill_citation       = Bill 125 (34th Legislature, 1st session)
+|bill_date           = 
+|introduced_by       = [[Gil Rémillard]], [[List of Ministers of Justice of Quebec|Minister of Justice]]
+|1st_reading         = 18 December 1990
+|2nd_reading         = 4 June 1991
+|3rd_reading         = 8 December 1991
+|conf_committee_passed  = 
+|bill2               = 
+|bill_citation2      = 
+|bill_date2          = 
+|introduced_by2      = 
+|1st_reading2        = 
+|2nd_reading2        = 
+|3rd_reading2        = 
+|conf_committee_passed2 = 
+|date_conf_committee = 
+|white_paper         = 
+|committee_report    = 
+|amendments          = 
+|repeals             = ''[[Civil Code of Lower Canada]]''
+|related_legislation = {{Deprecated archive|url=https://archive.today/20130703233236/http://www.canlii.org/en/qc/laws/stat/sq-1992-c-57/latest/sq-1992-c-57.html|title=''An Act respecting the implementation of the reform of the Civil Code''}} (SQ 1992, c. 57)
+|summary             = 
+|keywords            = 
+|status              = 
+}}
+The '''''Civil Code of Quebec''''' ('''CCQ'''; {{langx|fr|Code civil du Québec}}, {{IPA|fr|kɔd sivil dy kebɛk|pron}}) is the [[civil code]] in force in the Canadian province of [[Quebec]], which came into effect on January 1, 1994. It replaced the ''[[Civil Code of Lower Canada]]'' ({{langx|fr|Code civil du Bas-Canada}}) enacted by the [[Legislative Assembly of the Province of Canada]] in 1865, which had been in force since August 1, 1866.
+
+The ''Civil Code of Quebec'' governs a number of areas affecting relations between individuals under Quebec law. It deals with the main rules governing the law of persons, the family, succession, property and civil liability. It also contains rules of evidence in civil matters and Quebec private international law.
+
+==Scope==
+As summarized in its preliminary provision, the ''Civil Code of Quebec'' is a [[Codification (law)|codification]] of the basic principles of laws, or ''[[jus commune]]'', applicable to all people and property in Quebec and their respective relationships to each other. The Code, with some limited statutory exceptions, stands alongside the ''[[Quebec Charter of Human Rights and Freedoms]]'' as the foundation of all other laws in the province.
+
+As the cornerstone of Quebec's legal system, the Civil Code is frequently amended in order to keep in step with the demands of modern society.
+
+===Layout and significant changes===
+The ''Civil Code of Quebec'' comprises over 3,000 articles and is structured into major divisions and subdivisions called books, titles, chapters and subsections.  The Code is made up of ten books:
+{{div col|colwidth=22em}}
+#Persons
+#The Family
+#Successions
+#Property
+#Obligations
+#Prior Claims and Hypothecs
+#Evidence
+#Prescription
+#Publication of Rights
+#Private International Law
+
+{{div col end}}
+
+Articles of the code are numbered in sequential order (1, 2, 3...) across all books, going up to Article 3168. Articles inserted in-between are numbered with a decimal (1, 1.1, 2, 3...). Articles with multiple paragraphs do not have the paragraphs individually numbered.
+
+The ''Code''  restatement of the civil law in Quebec as of the date of its adoption, including judicial interpretation of codal provisions, that included several significant changes from the former Code:
+
+:* broad [[privacy]] and [[personality rights]] protection,<ref>CCQ 35{{endash}}41</ref>
+:* the adoption of rules on [[patrimony of affectation|patrimonies by appropriation]]<ref>CCQ 1256{{endash}}1298</ref> (analogous to, but conceptually different from, the [[law of trusts]] in [[common law]] jurisdictions),
+:* the introduction of a requirement for parties to conduct themselves in [[good faith]]<ref>CCQ 1375</ref>
+:* the ability to create [[unincorporated association]]s with the ability to sue and be sued<ref>CCQ 2267{{endash}}2279</ref>
+:* the ability to create [[hypothec]]s on [[movable property]]<ref>CCQ 2696{{endash}}2714</ref>
+:* the introduction of a central register for personal and movable real rights<ref>CCQ 2980</ref><ref>{{cite web|title = ''Regulation respecting the register of personal and movable real rights'' (O.C. 1594-93)|url = http://www2.publicationsduquebec.gouv.qc.ca/dynamicSearch/telecharge.php?type=2&file=/CCQ_1991/CCQR8_A.HTM|access-date = 3 June 2013}}</ref><ref>{{cite web|title = Registre des droits personnels et réels mobiliers|url = https://www.rdprm.gouv.qc.ca/fr/Pages/Accueil.html|access-date = 3 June 2013|language=fr}}</ref>
+:* the codification of the rules relating to [[private international law]]<ref>CCQ 3134{{endash}}3168</ref>
+
+==History ==
+
+===Adoption of the ''Civil Code of Lower Canada''===
+{{See also|Civil Code of Lower Canada}}
+The substantive law of the 1866 ''Civil Code of Lower Canada'' was derived primarily from the judicial interpretations of the law that had been in force to that date in Lower Canada. The work of the Commission on [[Codification (law)|codification]] was also inspired by some of the modernizations found in the 1804 [[Napoleonic Code]].  At the time of [[Canadian Confederation]], the Civil Code of Lower Canada replaced most of the laws inherited from the [[Custom of Paris in New France|Custom of Paris]] and incorporated some English law as it had been applied in Lower Canada such as the English law of [[Investment trust|trust]]s.  The former Civil Code was also inspired by the [[Louisiana Civil Code]], the [[Field Code]] movement in [[New York (state)|New York]], and the Civil Code of the [[Canton of Vaud]] (1819).
+
+===Revision process (1955–1991)===
+In 1955, the Government of Quebec embarked on a reform of the Civil Code.<ref>''An Act respecting the revision of the Civil Code'' (S.Q. 1954-1955, c. 47)</ref> The Civil Code Revision Office was established, headed by [[Thibaudeau Rinfret]], a former [[Chief Justice of Canada]].<ref name="people">{{cite web |title=People |url=http://digital.library.mcgill.ca/ccro/people.php |publisher=Archives of the Civil Code Revision Office, [[McGill University]] |access-date=1 June 2013}}</ref> In 1960, the role of the Office was expanded to include the appointment of four codifiers to work on a definitive draft for the new Code.<ref>''An Act to amend the Act respecting the revision of the Civil Code'' (S.Q. 1959-1960, c. 97)</ref>
+
+In 1961, Rinfret stepped down from the Office, and was replaced by [[André Nadeau]] who served until his appointment to the [[Superior Court of Quebec]] in 1964.<ref name="people" /> [[Paul-André Crépeau]] was subsequently appointed to head the Office, where he served until 1977.<ref name="people" />
+
+The reform process that led to the replacement of the ''Civil Code of Lower Canada'' by the ''Civil Code of Quebec'' was one of the largest legislative recodification undertakings in any [[Civil law (legal system)|civil law]] [[jurisdiction]]. The Office produced reports, held consultations, and presented a Draft Civil Code with commentaries to the Quebec National Assembly on 15 August 1977.<ref>{{cite web|title = Report on the Quebec Civil Code|url = http://digital.library.mcgill.ca/ccro/final_report.php|publisher = Archives of the Civil Code Revision Office, [[McGill University]]|access-date = 1 June 2013}}</ref>  After further consultations during the 1980s, portions of the Book on the Law of the Family were adopted.<ref>''An Act to establish a new Civil Code and to reform family law'', (S.Q. 1980, c. 39)</ref><ref>''An Act ensuring the application of the reform of family law'' (S.Q. 1982, c. 17)</ref> The consultation process continued through to the early 1990s.
+
+===Implementation (1991–1994)===
+The bill to enact the new Code was introduced into the [[National Assembly of Quebec]] on 18 December 1990 by [[Gil Rémillard]], who was then Quebec's [[List of Ministers of Justice of Quebec|Minister of Justice]]. It received [[royal assent]] on 8 December 1991. It did not come into force until 1 January 1994, as the necessary legislation to provide transitional rules determining what matters would be subject to the new Code was not passed until 1992.<ref>''An Act respecting the implementation of the reform of the Civil Code'' (SQ 1992, c. 57)</ref>
+
+===Harmonization with federal law===
+The [[Government of Canada]] has been undertaking a review of all federal laws that deal with private law to ensure that they take into consideration the terminology, concepts and institutions of Quebec civil law.<ref>{{cite web |title=Harmonization Acts and related information |url=http://www.justice.gc.ca/eng/csj-sjc/harmonization/bijurilex/harmonization-loisdharmonisation.html |publisher=[[Department of Justice (Canada)]] |access-date=1 June 2010}}</ref> In that regard, the following Acts have been passed:
+:* ''Income Tax Amendments Act, 2000''<ref>{{cite web |title=''Income Tax Amendments Act, 2000'' (S.C. 2001, c. 17, Part 2) |url=http://www.parl.gc.ca/HousePublications/Publication.aspx?Pub=Bill&Doc=C-22&Language=E&Mode=1&Parl=37&Ses=1}}</ref>
+:* ''Federal Law—Civil Law Harmonization Act, No. 1''<ref>{{cite web |title=''Federal Law-Civil Law Harmonization Act, No. 1'' (S.C. 2001, c. 4) |url=http://laws-lois.justice.gc.ca/eng/AnnualStatutes/2001_4/}}</ref>
+:* ''Federal Law—Civil Law Harmonization Act, No. 2''<ref>{{cite web |title=''Federal Law-Civil Law Harmonization Act, No. 2'' (S.C. 2004, c. 25) |url=http://laws-lois.justice.gc.ca/eng/AnnualStatutes/2004_25/}}</ref>
+:* ''Federal Law—Civil Law Harmonization Act, No. 3''<ref>{{cite web |title=''Federal Law-Civil Law Harmonization Act, No. 3'' (S.C. 2011, c. 21) |url=http://laws-lois.justice.gc.ca/eng/AnnualStatutes/2011_21/}}</ref>
+
+As part of the first Harmonization Act, the ''Federal Law and Civil Law of the Province of Quebec Act'' was passed, which came into effect on 1 June 2001,<ref>{{Cite web |title=Backgrounder: A Third Bill to Harmonize Federal Law with the Civil Law of Quebec |url=http://www.justice.gc.ca/eng/news-nouv/nr-cp/2010/doc_32559.html |publisher=[[Department of Justice (Canada)]] |access-date=8 August 2012 |archive-url=https://web.archive.org/web/20120323222606/http://www.justice.gc.ca/eng/news-nouv/nr-cp/2010/doc_32559.html |archive-date=23 March 2012 |url-status=dead }}</ref> which:
+:* repealed the provisions of the ''CCLC'' relating to areas under federal jurisdiction (insofar as they had not been already displaced by other federal Acts)
+:* standardized the rules relating to [[marriage]] that are to apply in Quebec as though they formed part of the ''Civil Code''
+
+It is estimated that, as of 2011, the federal harmonization project was 46% complete.<ref>{{cite web |title=Legislative Summary of Bill S-3: ''Federal Law–Civil Law Harmonization Act, No. 3'' |url=http://www.parl.gc.ca/Content/LOP/LegislativeSummaries/41/1/s3-e.pdf |author1=Élise Hurtubise-Loranger |author2=Dara Lithwick |author3=Julia Nicol |publisher=[[Library of Parliament]], Legal and Legislative Affairs Division |date=13 October 2011 |access-date=1 June 2013}}</ref>
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+{{div col|colwidth=30em}}
+
+===Books (CCLC)===
+* {{cite book |url= https://archive.org/details/civilcodelowerc02progoog|title= The Civil Code of Lower Canada: together with a synopsis of changes in the law, references to the reports of the commissioners, the authorities as reported by the commissioners, a concordance with the Code Napoleon and the Code de commerce, special references for notaries, clergymen, physicians, merchants, real estate owners, and persons out of Lower Canada, and a complete index|year = 1867|publisher= Thomas McCord|access-date=27 March 2013}}
+* {{cite book |last= Walton|first= Frederick Parker|title= The Scope and Interpretation of the Civil Code of Lower Canada|year=1907 |publisher= Wilson & Lafleur|location= Montreal}}
+* {{cite book |last= Castel|first= Jean-Gabriel|title= The Civil Law System of the Province of Quebec: Notes, Cases, and Materials|year= 1962|publisher= Butterworths|location= Toronto}}
+* {{cite book |last= Franklin|first= Martin|edition= 3rd|title= Introduction to Quebec Law|year= 1984|publisher= Copp Clark Pitman|location= Toronto|isbn= 0-7730-4290-3}}
+* {{cite book |editor1-last= Landry|editor1-first= Raymond A.|editor2-last= Caparros|editor2-first= Ernest|title= Essays on the civil codes of Québec and St. Lucia|year= 1984|publisher= University of Ottawa Press|location= Ottawa|isbn= 0-7766-2114-9}}
+* {{cite book |last= Young|first= Brian J|title= The Politics of Codification: The Lower Canadian Civil Code of 1866|url= https://archive.org/details/politicsofcodifi0000youn|url-access= registration|year= 1994|publisher= McGill-Queen's Press|location= Montreal|isbn= 0-7735-1235-7}}
+
+===Books (CCQ)===
+* {{cite book |editor1-last= Brierley|editor1-first= John E.C.|editor2-last= Macdonald|editor2-first= Roderick A.|title= Quebec Civil Law: An Introduction to Quebec Private Law|year= 1993|publisher= Emond Montgomery|location= Toronto|isbn= 0-92072247-4}}
+* {{cite book|title= The Harmonization of Federal Legislation with Quebec Civil Law and Canadian Bijuralism: Collection of Studies|url= http://www.bijurilex.org/site/Export/Recueil%281997%29/_e/premier-recueil%281997%29_e/index_e_a.htm|year= 1999|publisher= [[Department of Justice (Canada)]]|location= Ottawa|isbn= 2-921290-12-X|archive-url= https://web.archive.org/web/20090714041647/http://www.bijurilex.org/site/Export/Recueil(1997)/_e/premier-recueil(1997)_e/index_e_a.htm|archive-date= 2009-07-14|url-status= dead}}
+
+===Articles===
+* {{cite journal |author= E. Fabre-Surveyer|year= 1939|title= The Civil Law in Quebec and Louisiana|journal= Louisiana Law Review|volume= 1|issue= 4|pages= 649{{endash}}664|publisher= [[Paul M. Hebert Law Center]]|url= http://digitalcommons.law.lsu.edu/cgi/viewcontent.cgi?article=1082&context=lalrev|access-date=1 April 2013}}
+* {{cite journal |author= Paul-A. Crépeau, QC|author-link = Paul-André Crépeau|year= 1974|title= Civil Code Revision in Quebec|journal= Louisiana Law Review|volume= 34|issue= 5|pages= 921{{endash}}951|publisher= [[Paul M. Hebert Law Center]]|url= http://digitalcommons.law.lsu.edu/cgi/viewcontent.cgi?article=4009&context=lalrev|access-date=2 June 2013}}
+* {{cite journal|author= Hans W. Baade|year= 1995|title= Book Review: Quebec Civil Law|journal= [[McGill Law Journal]]|volume= 40|issue= 2|pages= 571{{endash}}579|publisher= [[McGill Law School]]|url= http://lawjournal.mcgill.ca/documents/40.2_Baade.pdf|access-date= 2 June 2013}}{{Dead link|date=July 2019 |bot=InternetArchiveBot |fix-attempted=yes }}
+{{div col end}}
+
+==External links==
+{{div col|colwidth=30em}}
+* {{cite web|url = https://www.legisquebec.gouv.qc.ca/en/document/cs/CCQ-1991|title = ''Civil Code of Quebec''}}
+* {{cite web|url = http://ccq.lexum.com/ccq/en|publisher = Lexum|title = Annoted ''Civil Code of Québec''}}
+* {{cite web|title= A Short History of the Civil Code Reform|url= http://www.justice.gouv.qc.ca/english/ministere/dossiers/code/code-a.htm|access-date= January 19, 2006|publisher= Ministère de la Justice du Québec|url-status= dead|archive-url= https://web.archive.org/web/20051218072812/http://justice.gouv.qc.ca/english/ministere/dossiers/code/code-a.htm|archive-date= December 18, 2005}}
+* {{cite web|title = Timeline|url = http://digital.library.mcgill.ca/ccro/timeline.php|publisher = Archives of the Civil Code Revision Office, [[McGill University]]|access-date = 1 June 2013}}
+{{div col end}}
+
+[[Category:Quebec provincial legislation]]
+[[Category:Civil codes|Quebec]]
+[[Category:1991 establishments in Quebec]]

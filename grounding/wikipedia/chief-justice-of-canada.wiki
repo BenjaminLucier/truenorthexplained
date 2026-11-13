@@ -1,0 +1,357 @@
+{{Short description|Presiding judge of the Supreme Court of Canada}}
+{{Use Canadian English|date=April 2026}}
+{{Infobox official post
+| post = Chief Justice
+| body = Canada
+| insignia = 
+| insignia_size = 
+| insignia_caption = 
+| department = [[Supreme Court of Canada]]<br>[[Court system of Canada|Canadian judicial system<br>(King-on-the-Bench)]]
+| image = The Honourable Richard Wagner.jpg
+| alt = The Chief Justice of Canada
+| incumbent = [[Richard Wagner (judge)|Richard Wagner]]
+| incumbent_since = December 18, 2017
+| style = [[The Right Honourable]]<br>[[Court system of Canada#Etiquette/Decorum|Madam/Mister Chief Justice]]
+| status = [[Chief justice]], head of a [[court system]]<br>[[Deputy of the Governor General of Canada|Deputy Governor General]]<br>4th in [[Canadian order of precedence]]
+| member_of = [[Supreme Court of Canada|Supreme Court]]<br>[[Canadian Judicial Council]] (''[[Ex-officio]]'' chairman)<br>[[Order of Canada#Advisory council|Order of Canada advisory council]] (chairman)
+| seat = [[Supreme Court of Canada Building|Supreme Court Building]], [[Ottawa]], Ontario
+| nominator = [[Cabinet of Canada|Cabinet]]
+| appointer = [[Governor General of Canada|The governor general]];
+| constituting_instrument = ''[[Supreme Court Act]]''
+| term_length = None;
+| inaugural = [[Sir William Buell Richards]]
+| formation = {{start date and age|1875|9|30|p=1|br=1}}
+| last = 
+| abolished = 
+| succession = May assume viceregal role as [[Administrator of Canada]]
+| deputy = 
+| salary = $510,100 (''as of April 2024'')<ref>{{cite web| title=Guide for Candidates| url=http://www.fja-cmf.gc.ca/appointments-nominations/guideCandidates-eng.html#Remuneration| publisher=Office of the Commissioner for Federal Judicial Affairs| location=Ottawa, Ontario| access-date=March 7, 2025}}</ref>
+| website = {{URL|http://scc-csc.gc.ca/}}
+| native_name = {{smaller|{{nobold|{{lang|fr|Juge en Chef du Canada}}}}}}
+| appointer_qualified = on the [[Advice (constitutional)|advice]] of the [[Prime Minister of Canada|prime minister]]
+| term_length_qualified = mandatory retirement at age 75
+}}
+{{Politics of Canada}}
+
+The '''chief justice of Canada''' ({{langx|fr|juge en chef du Canada}}) is the presiding judge of the nine-member [[Supreme Court of Canada]], the highest [[Judiciary|judicial]] body in [[Canada]]. As such, the chief justice is the highest-ranking judge of the [[Court system of Canada|Canadian court system]]. The ''[[Supreme Court Act]]'' provides that the chief justice is appointed by the Governor-in-Council, meaning the [[Governor General]] acting on the advice of the [[Cabinet of Canada|federal Cabinet]]. The chief justice serves until they resign, turn 75 years old, die, or are removed from office for cause. By tradition, a new chief justice is chosen from among the court's [[puisne justice]]s.
+
+The chief justice has significant influence in the [[Procedures of the Supreme Court of Canada|procedural rules of the Court]], presides when [[oral arguments]] are held, and leads the discussion of cases among the justices. The chief justice is also [[Deputy of the Governor General of Canada|deputy governor general]], ''[[ex-officio]]'' chairman of the [[Canadian Judicial Council]], and heads the committee that selects recipients of the [[Order of Canada]]. Additionally, a chief justice also assumes the role of [[Administrator (Canada)|Administrator of Canada]] and exercises the viceregal duties of the governor general upon the death, resignation or incapacitation of the governor general.
+
+[[Richard Wagner (judge)|Richard Wagner]] has served as the current chief justice of Canada since 2017. Since the Supreme Court was established in 1875, 18 people have served as chief justice. The court's first chief justice was [[William Buell Richards]]; [[Beverley McLachlin]] is the longest serving Canadian chief justice ({{ayd|2000|1|7|2017|12|14}}), and was the first woman to hold the position.
+
+== History ==
+On October 8, 1875, General [[William O'Grady Haly]] administered the [[oath of office]] to Chief Justice [[William Buell Richards]]. A month later on November 8, the five puisne justices took their oath of office.{{sfn|Snell|Vaughan|1985|p=17}} In January 1879, Chief Justice William Buell Richards resigned following pressure from his longtime friend, Prime Minister [[John A. Macdonald]],{{sfn|Snell|Vaughan|1985|p=26}} likely due to Richards' deteriorating health.{{sfn|Bushnell|1992|p=88}} On January 11, 1879, [[William Johnstone Ritchie]] was appointed chief justice by Macdonald.
+
+On September 25, 1892, Chief Justice [[William Johnstone Ritchie]] died after a relapse of bronchitis at the age of 78.{{sfn|Snell|Vaughan|1985|p=52}} Early rumors indicated that Prime Minister [[John Abbott]] might appoint Justice Minister [[John Sparrow David Thompson]].{{sfn|Snell|Vaughan|1985|p=52}} The opinion that the chief justice should not default to the longest-serving member of the court was prevalent, and prominent Conservative senator [[James Robert Gowan]], who was a chief party advisor on legal matters, opposed this strongly.{{sfn|Snell|Vaughan|1985|p=53}} Senator Gowan wrote Justice Minister Thompson suggesting Justice Strong be allowed to retire and the appointment be delayed, and indicated he had little faith in Strong's work ethic.{{sfn|Snell|Vaughan|1985|p=53}} However, three weeks after becoming prime minister, Thompson appointed Strong as the court's third chief justice.{{sfn|Snell|Vaughan|1985|p=53}}
+
+In April 1896, [[7th Canadian Parliament|Parliament]] under the Conservative government of Prime Minister [[Mackenzie Bowell]] amended the ''Supreme and Exchequer Courts Act'' to create the title of "Chief Justice of Canada".{{sfn|Snell|Vaughan|1985|p=68}}<ref name="59VicC14" group="ps">{{Cite canlaw|short title =An Act further to amend the Supreme and Exchequer Courts Act |abbr =S.C. |year =1896 |chapter =14 |link =https://www.canadiana.ca/view/oocihm.9_08051_25_1/134 |wikilink = |linkloc = |type =}}</ref> Prior to the amendment, the title was just "chief justice".{{sfn|Snell|Vaughan|1985|p=68}}<ref name="sceca1875_s3" group="ps">{{Cite canlaw|short title =The Supreme and Exchequer Court Act |abbr =S.C. |year =1875 |chapter =11 |section= 3 |link =https://www.canadiana.ca/view/oocihm.9_08051_4_1/270 |wikilink = |linkloc = |type =}}</ref>
+
+== Appointment ==
+The chief justice is appointed by the Governor in Council under the ''Supreme Court Act'' on the advice of the prime minister.<ref name=":0">{{Cite web|title = Supreme Court of Canada|url = http://www.lop.parl.gc.ca/ParlInfo/compilations/SupremeCourt.aspx?Current=True&Menu=SupremeCourt|access-date = 2016-01-06}}</ref> The appointment is subject to the ''Supreme Court Act'', which governs the administration and appointment of judges of the court. By this component of the [[Constitution of Canada]], Judges appointed to the court must be "a judge of a superior court of a province or a barrister or advocate of at least ten years standing at the bar of a province."
+
+Tradition dictates that the chief justice be appointed from among the court's puisne judges; in the [[History of the Supreme Court of Canada|history of the Court]], only two were not: William Buell Richards, and [[Charles Fitzpatrick]].{{sfn|Snell|Vaughan|1985|p=90}} It is also customary that a new chief justice be chosen alternately from among: the three justices who by law must be from [[Quebec]] (with its [[law in Quebec|civil law]] system), and the other six justices from the rest of Canada (representing the [[Law of Canada#Common law|common law]] tradition). Since 1933, this tradition has only been broken once, when [[Brian Dickson]] of [[Manitoba]] was named to succeed [[Bora Laskin]] of [[Ontario]] in 1984.
+
+== Duties ==
+The chief justice's central duty is to preside at hearings before the Supreme Court.<ref name=":1">{{Cite web|title = Supreme Court of Canada – Role of the Court|url = http://www.scc-csc.ca/court-cour/role-eng.aspx|website = www.scc-csc.ca|access-date = 2016-01-06|publisher = Supreme Court of Canada}}</ref> The chief justice presides from the centre chair. If the chief justice is absent, the senior puisne judge presides.<ref name=":1" />
+
+===Judicial Council===
+The chief justice chairs the [[Canadian Judicial Council]], which is composed of all chief justices and associate chief justices of superior courts in Canada. This body, established in 1971 by the ''Judges Act'', organizes seminars for federally appointed judges, coordinates the discussion of issues of concern to the judiciary, and conducts inquiries, either on public complaint or at the request of a federal or provincial minister of justice or attorney general, into the conduct of any federally appointed judge.
+
+=== Other duties ===
+The chief justice is sworn as a member of the [[Queen's Privy Council for Canada|Privy Council]] prior to taking the judicial [[oath of office]].<ref>{{cite web | url=http://www.scc-csc.ca/court-cour/judges-juges/about-apropos-eng.aspx | title=About the Judges | publisher=Supreme Court of Canada | access-date=6 January 2016 | archive-url=https://web.archive.org/web/20160304101011/http://www.scc-csc.ca/court-cour/judges-juges/about-apropos-eng.aspx | archive-date=4 March 2016 | url-status=dead }}</ref> The chief justice also sits on the advisory council of Canada's highest civilian order, the [[Order of Canada]]. In practice however, the chief justice abstains from voting on a candidate's [[Removal from the Order of Canada|removal from the order]], presumably because this process has so far only applied to individuals convicted in a lower court of a criminal offence, and could create a conflict of interest for the chief justice if that individual appealed their conviction to the Supreme Court.
+
+Under the ''[[Electoral Boundaries Readjustment Act]]'', each province has a three-person commission responsible for modifying that province's federal [[electoral district (Canada)|ridings]]. The chair of each such commission is appointed by the chief justice of that province; if no appointment is made by the provincial chief justice, the responsibility falls to the chief justice of Canada.<ref group="ps">{{cite web|url=http://laws.justice.gc.ca/en/E-3/index.html|title=Electoral Boundaries Readjustment Act|access-date=2009-09-25|archive-date=2006-11-11|archive-url=https://web.archive.org/web/20061111025108/http://laws.justice.gc.ca/en/E-3/index.html|url-status=dead}}</ref>
+
+==Administrator of Canada==
+The ''[[Constitution Act, 1867]]'' provides that there can be an "Administrator for the Time being carrying on the Government of Canada."<ref group="ps">[https://laws-lois.justice.gc.ca/eng/const/page-1.html''Constitution Act, 1867'', s. 10.]</ref> The ''[[Letters Patent, 1947]]'' respecting the Office of [[Governor General of Canada|Governor General]] provide that, should the governor general die, become incapacitated, or be absent from the country for a period of more than one month, the chief justice or, if that office is vacant, the senior puisne justice, of the Supreme Court would become [[Administrator (Canada)|Administrator of Canada]] and exercise all the powers and duties of the governor general.<ref group="ps">[https://www.solon.org/Constitutions/Canada/English/LettersPatent.html ''Letters Patent Constituting the Office of Governor General of Canada'', s. 8.]</ref> This has happened on four occasions: chief justices [[Lyman Duff]] and [[Robert Taschereau]] each did so, in 1940 and 1967 respectively, following the death of the [[incumbent]] governor general, as did Chief Justice [[Beverley McLachlin]] when the Governor General underwent surgery in 2005. With the resignation of [[Julie Payette]] in January 2021, Richard Wagner served as Administrator until the appointment of [[Mary Simon]] as governor general in July of the same year.<ref>Ashley Burke, [https://www.cbc.ca/news/politics/governor-general-payette-step-down-1.5882675 "Payette stepping down as governor general after blistering report on Rideau Hall work environment"]. [[CBC News]], January 21, 2021.</ref><ref>Catharine Tunney, [https://www.cbc.ca/news/politics/mary-simon-installed-as-governor-general-1.6114622 "Mary Simon officially becomes Canada's first Inuk Governor General"]. [[CBC News]], July 26, 2021.</ref>
+
+The chief justice and the other justices of the court serve as [[Deputy of the Governor General of Canada|deputies of the governor general]] for the purpose of giving [[Royal Assent]] to bills passed by [[Parliament of Canada|Parliament]], signing official documents or receiving credentials of newly appointed [[High Commissioner|high commissioner]]s and [[ambassador]]s.
+
+==Current chief justice==
+The current chief justice is [[Richard Wagner (judge)|Richard Wagner]], who took office on December 18, 2017, succeeding [[Beverley McLachlin]]. Born in [[Montreal]] on April 2, 1957, Wagner had been a puisne Supreme Court justice for {{ayd|2012|10|5|2017|12|18}} at the time of his elevation to chief justice. He previously sat on the [[Quebec Court of Appeal]].
+
+==List of chief justices==
+Since the Supreme Court was established in 1875, the following 18 persons have served as Chief Justice:<ref name=CFCJs>{{cite web|title=Current and Former Chief Justices| url=https://www.scc-csc.ca/judges-juges/cfcju-jucp-eng.aspx| publisher=Supreme Court of Canada| location=Ottawa, Ontario| access-date=November 12, 2018}}</ref>
+
+{| class="wikitable sortable"
+|-
+! Image
+! Name<br>(Province)
+! colspan=2 | Order and term{{efn-ua|The ''start date'' listed for each chief justice is the day the justice took the judicial oath of office, and the ''end date'' is the date of the justice's death, resignation, or retirement.}}
+! Length of&nbsp;term
+! class="unsortable" | Appointed&nbsp;on<br>advice&nbsp;of
+! Date of birth
+! Date of death
+|-
+| [[File:William Buell Richards.jpg|75px]]
+| {{sortname|William Buell|Richards}}<br>([[Ontario]])
+| {{sort|01|1st}}
+| September 30, 1875 –<br>January 10, 1879
+| {{ayd|1875|9|30|1879|1|10}}
+| [[Alexander Mackenzie (politician)|Mackenzie]]
+| {{dts|1815|5|2}}
+| {{dts|1889|1|26}}
+|-
+| [[File:William Johnstone Ritchie.jpg|75px]]
+| {{sortname|William Johnstone|Ritchie}}<br>([[New Brunswick]])
+| {{sort|02|2nd}}
+| January 11, 1879 –<br>September 25, 1892
+| {{ayd|1879|1|11|1892|9|25}}
+| [[John A. Macdonald|Macdonald]]
+| {{dts|1813|10|28}}
+| {{dts|1892|9|25}}{{efn-ua|name=DIO|Died in office}}
+|-
+| [[File:Samuel Henry Strong in 1895.jpg|75px]]
+| {{sortname|Samuel Henry|Strong}}<br>([[Ontario]])
+| {{sort|03|3rd}}
+| December 13, 1892 –<br>November 17, 1902
+| {{ayd|1892|12|13|1902|11|17}}
+| [[John Sparrow David Thompson|Thompson]]
+| {{dts|1825|8|13}}
+| {{dts|1909|8|31}}
+|-
+| [[File:Henri Elzéar Taschereau.jpg|75px]]
+| {{sortname|Henri Elzéar|Taschereau}}<br>([[Quebec]])
+| {{sort|04|4th}}
+| November 21, 1902 –<br>May 1, 1906
+| {{ayd|1902|11|21|1906|5|1}}
+| [[Wilfrid Laurier|Laurier]]
+| {{dts|1836|10|7}}
+| {{dts|1911|4|14}}
+|-
+| [[File:Charles Fitzpatrick.jpg|75px]]
+| {{sortname|Charles|Fitzpatrick}}{{efn-ua|name=direct2CJ|Appointed directly from the [[Cabinet of Canada|Cabinet]], and never served as puisne justice; only time the chief justiceship has been filled from outside the [[Court system of Canada|judiciary]].{{sfn|Snell|Vaughan|1985|p=90}}}}<br>([[Quebec]])
+| {{sort|05|5th}}
+| June 4, 1906 –<br>October 20, 1918
+| {{ayd|1906|6|4|1918|10|20}}
+| [[Wilfrid Laurier|Laurier]]
+| {{dts|1851|12|19}}
+| {{dts|1942|6|17}}
+|-
+| [[File:Hon. Sir Louis Henry Davies.jpg|75px]]
+| {{sortname|Louis Henry|Davies}}<br>([[Prince&nbsp;Edward&nbsp;Island]])
+| {{sort|06|6th}}
+| October 23, 1918 –<br>May 1, 1924
+| {{ayd|1918|10|23|1924|5|1}}
+| [[Robert Laird Borden|Borden]]
+| {{dts|1845|5|4}}
+| {{dts|1924|5|1}}{{efn-ua|name=DIO}}
+|-
+| [[File:Francis Anglin.jpg|75px]]
+| {{sortname|Francis Alexander|Anglin}}<br>([[Ontario]])
+| {{sort|07|7th}}
+| {{nowrap|September 16, 1924 –}}<br>February 27, 1933
+| {{ayd|1924|9|16|1933|2|27}}
+| [[William Lyon Mackenzie King|King]]
+| {{dts|1865|4|2}}
+| {{dts|1933|3|2}}
+|-
+| [[File:Lyman Poore Duff.jpg|75px]]
+| {{sortname|Lyman|Duff}}<br>([[British Columbia]])
+| {{sort|08|8th}}
+| March 17, 1933 –<br>January 6, 1944{{efn-ua|Assumed vice regal duties as Administrator of Canada February 11 – June 21, 1940, following the death in office of Governor General [[John Buchan|Lord Tweedsmuir]].}}
+| {{ayd|1933|3|17|1944|1|6}}
+| [[Richard Bedford Bennett|Bennett]]
+| {{dts|1865|1|7}}
+| {{dts|1955|4|26}}
+|-
+| [[File:Rt. Hon. Thibaudeau Rinfret.jpg|75px]]
+| {{sortname|Thibaudeau|Rinfret}}<br>([[Quebec]])
+| {{sort|09|9th}}
+| January 8, 1944 –<br>June 21, 1954
+| {{ayd|1944|1|8|1954|6|21}}
+| [[William Lyon Mackenzie King|King]]
+| {{dts|1879|6|22}}
+| {{dts|1962|7|25}}
+|-
+| [[File:Patrick Kerwin (cropped).jpg|75px]]
+| {{sortname|Patrick|Kerwin}}<br>([[Ontario]])
+| {{sort|10|10th}}
+| July 1, 1954 –<br>February 2, 1963
+| {{ayd|1954|7|1|1963|2|2}}
+| [[Louis St. Laurent|St. Laurent]]
+| {{dts|1889|10|25}}
+| {{dts|1963|2|2}}{{efn-ua|name=DIO}}
+|-
+| [[File:Robert Taschereau.png|75px]]
+| {{sortname|Robert|Taschereau}}<br>([[Quebec]])
+| {{sort|11|11th}}
+| April 22, 1963 –<br>{{nowrap|August 31, 1967{{efn-ua|Assumed vice regal duties as Administrator of Canada March 5 – April 17, 1967, following the death in office of Governor General [[Georges Vanier]].}}}}
+| {{ayd|1963|4|22|1967|8|31}}
+| [[Lester B. Pearson|Pearson]]
+| {{dts|1896|9|10}}
+| {{dts|1970|7|26}}
+|-
+| [[File:Rt. Hon. John Robert Cartwright (cropped).jpg|75px]]
+| {{sortname|John Robert|Cartwright}}<br>([[Ontario]])
+| {{sort|12|12th}}
+| September 1, 1967 –<br>March 22, 1970
+| {{ayd|1967|9|1|1970|3|22}}
+| [[Lester B. Pearson|Pearson]]
+| {{dts|1895|3|23}}
+| {{dts|1979|11|24}}
+|-
+| [[File:Rt. Hon. Gerald Fauteux in 1953 02.jpg|75px]]
+| {{sortname|Gérald|Fauteux}}<br>([[Quebec]])
+| {{sort|13|13th}}
+| March 23, 1970 –<br>December 22, 1973
+| {{ayd|1970|3|23|1973|12|22}}
+| [[Pierre Trudeau|P. Trudeau]]
+| {{dts|1900|10|22}}
+| {{dts|1980|9|14}}
+|-
+|
+| {{sortname|Bora|Laskin}}<br>([[Ontario]])
+| {{sort|14|14th}}
+| December 27, 1973 –<br>March 26, 1984
+| {{ayd|1973|12|27|1984|3|26}}
+| [[Pierre Trudeau|P. Trudeau]]
+| {{dts|1912|10|5}}
+| {{dts|1984|3|26}}{{efn-ua|name=DIO}}
+|-
+|
+| {{sortname|Brian|Dickson}}<br>([[Manitoba]])
+| {{sort|15|15th}}
+| April 18, 1984 –<br>June 29, 1990
+| {{ayd|1984|4|18|1990|6|29}}
+| [[Pierre Trudeau|P. Trudeau]]
+| {{dts|1916|5|25}}
+| {{dts|1998|10|17}}
+|-
+|
+| {{sortname|Antonio|Lamer}}<br>([[Quebec]])
+| {{sort|16|16th}}
+| July 1, 1990 –<br>January 6, 2000
+| {{ayd|1990|7|1|2000|1|6}}
+| [[Brian Mulroney|Mulroney]]
+| {{dts|1933|7|8}}
+| {{dts|2007|11|24}}
+|-
+| [[File:Beverley McLachlin.jpg|75px]]
+| {{sortname|Beverley|McLachlin}}<br>([[British Columbia]])
+| {{sort|17|17th}}
+| January 7, 2000 –<br>December 14, 2017{{efn-ua|Assumed vice regal duties as Administrator of Canada in July 2005 when Governor General [[Adrienne Clarkson]] underwent surgery.<ref>{{cite web| title=Beverly McLachlin, Canada: Chief Justice, Supreme Court of Canada| last=Everett| first=Jason K.| url=http://www.judicialmonitor.org/summer2016/justiceinprofile.html| work=International Judicial Monitor| publisher=International Judicial Academy of the International Law Institute| location=Washington, D.C.| date=Summer 2016| access-date=November 12, 2018}}</ref>}}
+| {{ayd|2000|1|7|2017|12|14}}
+| [[Jean Chrétien|Chrétien]]
+| {{dts|1943|9|7}}
+| <span style="display:none">{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}</span>''(living)''
+|-bgcolor="#fffacd"
+| [[File:The Honourable Richard Wagner.jpg|75px]]
+| {{sortname|Richard|Wagner|Richard Wagner (judge)}}<br>([[Quebec]])
+| {{sort|18|18th}}
+| December 18, 2017 –<br>''[[Incumbent]]''{{efn-ua|Assumed vice-regal duties as Administrator of Canada January 23 – July 26, 2021, following the resignation of Governor-General [[Julie Payette]].}}
+| ''{{ayd|2017|12|18}}{{efn-ua|name=ongoing|As of {{FULLDATE}}}}'' 
+| [[Justin Trudeau|J. Trudeau]]
+| {{dts|1957|4|2}}
+| <span style="display:none">{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}</span>''(living)''
+|}
+
+This [[Bar chart|graphical timeline]] depicts the length of each justice's tenure as chief justice:<ref name=CFCJs/>
+
+{{#tag:timeline
+|ImageSize = width:1050 height:auto barincrement:19
+PlotArea  = top:10 bottom:20 right:140 left:14
+AlignBars = late
+DateFormat = x.y
+Period     = from:1875.00 till:{{#expr:{{#time:Y}}+{{#time:m}}/12}}
+TimeAxis   = orientation:horizontal
+
+Colors =
+  id:bg         value:white
+  id:grayline   value:rgb(0.894,0.882,0.871)
+  id:blackline  value:rgb(0.212,0.192,0.173)
+  id:goldline   value:rgb(0.945,0.675,0.231) #f1ac3b
+  id:ltblueline value:rgb(0.867,0.933,1)
+  id:RED        value:rgb(0.910,0.067,0.076) #e8112d
+
+ScaleMajor  = gridcolor:grayline unit:year increment:5 start:1875
+ScaleMinor  = unit:year increment:1 start:1875
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+BarData =
+  barset:ChiefJusticesLine
+  barset:ChiefJustices
+  #barset:blankline
+
+PlotData=
+ width:1 align:right fontsize:S shift:(-1,-4) anchor:from fontsize:8 color:black
+
+ barset:ChiefJusticesLine
+ from:1875.00 till:$now
+
+ width:4 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+ barset:ChiefJustices
+ from:1875.67 till:1879.00 color:RED text:"William Buell Richards"
+ from:1879.00 till:1892.67 color:RED text:"William Johnstone Ritchie"
+ from:1892.92 till:1902.83 color:RED text:"Samuel Henry Strong"
+ from:1902.83 till:1906.33 color:RED text:"Henri Elzéar Taschereau"
+ from:1906.41 till:1918.75 color:RED text:"Charles Fitzpatrick"
+ from:1918.75 till:1924.33 color:RED text:"Louis Henry Davies"
+ from:1924.67 till:1933.09 color:RED text:"Francis Alexander Anglin"
+ from:1933.16 till:1944.00 color:RED text:"Lyman Duff"
+ from:1944.00 till:1954.41 color:RED text:"Thibaudeau Rinfret"
+ from:1954.50 till:1963.09 color:RED text:"Patrick Kerwin"
+ from:1963.25 till:1967.67 color:RED text:"Robert Taschereau"
+ from:1967.67 till:1970.16 color:RED text:"John Robert Cartwright"
+ from:1970.16 till:1973.92 color:RED text:"Gérald Fauteux"
+ from:1973.92 till:1984.16 color:RED text:"Bora Laskin"
+ from:1984.28 till:1990.50 color:RED text:"Brian Dickson"
+ from:1990.50 till:2000.02 color:RED text:"Antonio Lamer"
+ from:2000.02 till:2017.94 color:RED text:"Beverley McLachlin"
+ from:2017.94 till:$now color:RED text:"Richard Wagner"
+
+Linedata=
+ at:1875.67 width:0.5 color:goldline # William Buell Richards
+ at:1879.00 width:0.4 color:goldline # William Johnstone Ritchie
+ at:1892.92 width:0.3 color:goldline # "Samuel Henry Strong
+ at:1902.83 width:0.2 color:goldline # Henri Elzéar Taschereau
+ at:1906.41 width:0.1 color:goldline # Charles Fitzpatrick
+ at:1918.75 width:0.1 color:goldline # Louis Henry Davies
+ at:1924.67 width:0.1 color:goldline # Francis Alexander Anglin
+ at:1933.16 width:0.1 color:goldline # Lyman Duff
+ at:1944.00 width:0.1 color:goldline # Thibaudeau Rinfret
+ at:1954.50 width:0.1 color:goldline # Patrick Kerwin
+ at:1963.25 width:0.1 color:goldline # Robert Taschereau
+ at:1967.67 width:0.1 color:goldline # John Robert Cartwright
+ at:1970.16 width:0.1 color:goldline # Gérald Fauteux
+ at:1973.92 width:0.1 color:goldline # Bora Laskin
+ at:1984.28 width:0.1 color:goldline # Brian Dickson
+ at:1990.50 width:0.1 color:goldline # Antonio Lamer
+ at:2000.02 width:0.1 color:goldline # Beverley McLachlin
+ at:2017.94 width:0.1 color:goldline # Richard Wagner
+}}
+
+==Notes==
+{{notelist-ua|30em}}
+
+==References==
+{{reflist}}
+
+=== Primary sources ===
+{{Reflist|group="ps"}}
+
+=== Works centering on the history of the Supreme Court of Canada ===
+{{refbegin}}
+* {{Cite book|title = Captive Court: A Study of the Supreme Court of Canada|last = Bushnell|first = Ian|publisher = McGill-Queen's University Press|year = 1992|isbn = 978-0-7735-0851-4 |url=https://archive.org/details/captivecourtstud0000bush |url-access=registration}}
+* {{citation |last = McCormick |first = Peter|year =2000 |title =Supreme at last: the evolution of the Supreme Court of Canada |publisher=J. Lorimer |isbn=978-1-55028-693-9 |url = https://archive.org/details/supremeatlastevo0000mcco |url-access=registration }}
+* {{Cite book|title = The Supreme Court of Canada: History of the Institution|last1 = Snell|first1 = James G. |last2 = Vaughan|first2 = Frederick |publisher = The Osgoode Society|year = 1985|isbn = 978-0-8020-3417-5 |location = Toronto|url = https://archive.org/details/supremecourtofca0000snel|url-access = registration}}
+{{refend}}
+
+== Further reading ==
+{{refbegin}}
+* {{cite journal |last1=McCormick |first1=Peter |title=Choosing the Chief: Duality, Seniority, and Beyond |journal=Journal of Canadian Studies |date=2013 |volume=47 |issue=1 |pages=5–35}}
+{{refend}}
+
+{{s-start}}
+{{s-prec}}
+{{s-bef | before=[[Justin Trudeau]]|as=[[Prime Minister of Canada]]}}
+{{s-ttl | title=Chief Justice of Canada<br>[[Canadian order of precedence]] (ceremonial)}}
+{{s-aft | after=Former Governors General of Canada<br><small>''in order of their departure from office''</small>}}
+{{S-end}}
+
+{{CanadaCJs}}
+{{Canada topic|Chief Justice of}}
+
+[[Category:Supreme Court of Canada]]
+[[Category:Chief justices of Canada|*]]
+[[Category:Lists of Canadian judges]]

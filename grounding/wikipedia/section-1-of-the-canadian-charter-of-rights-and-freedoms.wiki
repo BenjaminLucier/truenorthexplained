@@ -1,0 +1,120 @@
+{{Short description|"Reasonable limits clause" of the Canadian constitution}}
+{{Use Canadian English|date=April 2026}}
+{{Canadian Charter}}
+'''Section 1''' of the ''[[Canadian Charter of Rights and Freedoms]]'' is the section that confirms that the rights listed in the Charter are ''guaranteed''. The section is also known as the '''reasonable limits clause'''  or '''limitations clause''', as it legally allows the government to limit an individual's ''Charter'' rights.  This limitation on rights has been used in the last twenty years to prevent a variety of objectionable conduct such as [[child pornography]] (e.g., in ''[[R v Sharpe]]''),<ref>''R v Sharpe'', [https://www.canlii.org/en/ca/scc/doc/2001/2001scc2/2001scc2.html 2001 SCC 83].</ref> [[hate speech]] (e.g., in ''[[R v Keegstra]]''),<ref>''R v Keegstra'', [https://www.canlii.org/en/ca/scc/doc/1990/1990canlii24/1990canlii24.html 1990 SCC 24].</ref> and [[obscenity]] (e.g., in ''[[R v Butler]]'').<ref>''R v Butler'', [https://www.canlii.org/en/ca/scc/doc/1992/1992canlii124/1992canlii124.html 1992 SCR 452].</ref>
+
+When the government has limited an individual's right, there is an onus upon the Crown to show, on the [[balance of probabilities]], firstly, that the limitation was ''prescribed by law'' namely, that the law is attuned to the values of ''accessibility'' and ''intelligibility''; and secondly, that it is ''justified in a free and democratic society'', which means that it must have a justifiable purpose and must be proportional.
+
+==Text==
+Under the heading of "Guarantee of Rights and Freedoms", the section states:
+
+{{blockquote|1  The ''Canadian Charter of Rights and Freedoms'' guarantees the rights and freedoms set out in it subject only to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society.}}
+
+==Prescribed by law==
+The inquiry into whether the limitation was "prescribed by law" concerns the situation where the limitation was the result of some conduct of a government or its agents and whether the conduct was authorized by accessible and intelligible law. The Court articulated when the authorization would fail for being too vague as "where there is no intelligible standard and where the legislature has given a plenary discretion to do whatever seems best in a wide set of circumstances".<ref>''[[Irwin Toy Ltd v Quebec (AG)]]''</ref>
+
+Where there is no lawful basis for the conduct the limitation will certainly fail. In ''[[Little Sisters Book and Art Emporium v Canada]]'', the Supreme Court found that the conduct of a border official in singling out homosexual from heterosexual reading materials was not authorized by any law. Likewise, police conduct that was not exercised under lawful authority will fail at this stage.<ref>See, for example, ''[[R v Therens]]'', ''[[R v Hebert]]'', and ''[[R v Broyles]]''</ref>
+
+==''Oakes'' test==
+The primary test to determine if the purpose is demonstrably justifiable in a free and democratic society is known as the ''Oakes test'', which takes its name from the essential case ''[[R v Oakes]]'' [1986] 1 S.C.R. 103 which was written by [[Brian Dickson|Chief Justice Dickson]].  The test is applied once the claimant has proven that one of the provisions of the Charter has been violated. The onus is on the Crown to pass the Oakes test.
+
+In ''[[R v Big M Drug Mart Ltd]]'' (1985), Dickson asserted that limitations on rights must be motivated by an objective of sufficient importance.  Moreover, the limit must be as small as possible.  In ''Oakes'' (1986), Dickson elaborated on the standard when one David Oakes was accused of selling [[narcotics]].  Dickson for a unanimous Court found that David Oakes' rights had been violated because he had been presumed guilty.  This violation was not justified under the second step of the two step process:
+
+# There must be a ''pressing and substantial objective''
+# The means must be ''proportional''
+## The means must be ''rationally connected to the objective''
+## There must be ''minimal impairment'' of rights
+## There must be proportionality between the infringement and objective
+
+The test is heavily founded in factual analysis so strict adherence is not always practiced. A degree of overlap is to be expected as there are some factors, such as vagueness, which are to be considered in multiple sections. If the legislation fails any of the above branches, it is unconstitutional. Otherwise the impugned law passes the Oakes test and remains valid.
+
+Since ''Oakes'', the test has been modified slightly.<ref>For greater detail on the evolution of the test see Sujit Choudhry, "So What is the Real Legacy of Oakes? Two Decades of Proportionality Analysis under the Canadian Charter's Section 1" (2006) 34 Supreme Court Law Review 501. [https://ssrn.com/abstract=930436]</ref>
+
+===Pressing and substantial objective===
+This step asks whether the Government's objective in limiting the ''Charter'' protected right is a ''pressing'' and ''substantial objective'' according to the values of a free and democratic society.  In practice, judges have recognized many objectives as sufficient, with the exception, since ''Big M'', of objectives which are in and of themselves [[discrimination|discriminatory]] or antagonistic to fundamental freedoms, or objectives inconsistent with the proper [[Canadian federalism|division of powers]].  In ''[[Vriend v Alberta]]'' (1998), it was found that a government action may also be invalidated at this stage if there is no objective at all, but rather just an excuse.  Specifically, the [[Supreme Court of Canada|Supreme Court]] found an [[Alberta]] law unconstitutional because it extended no protection to employees terminated due to [[sexual orientation]], contradicting [[Section Fifteen of the Canadian Charter of Rights and Freedoms|section 15]].  The government had chosen not to protect people in this predicament because the predicament was considered rare and obscure.  The Court ruled this was an insufficient objective, because it was more of an explanation than an objective.
+
+===Rational connection===
+[[Image:Peter Hogg Law.JPG|right|thumb|Professor [[Peter Hogg]] questions the usefulness of the rational connection test.]]
+This step asks whether the legislation's limitation of the ''Charter'' right has a ''rational connection'' to Parliament's objective.  The means used must be carefully designed to achieve the objective.  They must not be arbitrary, unfair, or based on irrational considerations.  Professor [[Peter Hogg]], who used to argue the rational connection test was redundant, continued to argue the criterion was of little use.{{sfn|Hogg|2003|p=807}}  An example of the rational connection test being failed can be found in ''[[R v Morgentaler]]'' (1988), in which Dickson held that a particular ''Criminal Code'' [[abortion]] prohibition should be struck down partly because of a breach of health rights under section 7 and an irrational connection between the objective (protecting the [[fetus]] and the pregnant woman's health), and the process by which therapeutic abortions were granted.  Dickson held that this process was unfair to pregnant women requiring therapeutic abortions, because committees meant to approve abortions were not formed or took too long.  (The law afterwards failed the other two proportionality criteria as well).
+
+===Minimal impairment===
+This step had been considered the most important of the steps and is the test that is failed the most.{{sfn|Hogg|2003|pp=809–810}}  Typically, outright bans will be difficult to prove as minimally impairing.<ref>see for example ''[[RJR-MacDonald Inc v Canada (AG)]]'' (1994) and ''[[Ramsden v Peterborough (City of)]]'' (1993)</ref> However, the means does not necessarily have to be the absolute least intrusive; this is indeed one of the steps of the test that has been modified.  In ''Oakes'', the step was phrased to require the limit as being "as little as possible".  In ''[[R v Edwards Books and Art Ltd]]'' (1986), this was changed to "as little as is reasonably possible",<ref>''[[R v Edwards Books and Art Ltd]]'' (1986)</ref> thus allowing for more realistic expectations for governments.
+
+The inquiry focuses on balance of alternatives. In ''[[Ford v Quebec (AG)]]'' (1988), it was found that [[Quebec]] laws requiring the exclusive use of [[French language|French]] on signs limited free speech.  While the law had a sufficient objective of protecting the French language, it was nevertheless unconstitutional because the legislature could have accepted a more benign alternative such as signs including smaller [[English language|English]] words in addition to larger French words. (The Court decided in ''Ford'' that the same test would apply to article 9.1 of the Quebec Charter. Thus it is the reason why Quebec Charter jurisprudence can be of interest under section 1 of the Canadian Charter.)
+
+===Proportionality===
+This step asks whether the objective is proportional to the effect of the law. Are the measures that are responsible for limiting the ''Charter'' right proportional to the objective?  Does the benefit to be derived from the legislation outweigh the seriousness of the infringement?  The legislation may not produce effects of such severity so as to make the impairment unjustifiable.  Professor Hogg has argued that merely satisfying the first three criteria of the Oakes test probably amounts to automatic satisfaction of the fourth criterion.{{sfn|Hogg|2003|pp=816-817}}
+
+==Other Section 1 analyses==
+While the Oakes test has been the primary form of section 1 analysis used by Supreme Court justices, it has not been the only one.
+
+===McIntyre's section 1 test in ''Andrews''===
+In the early section 15 case ''[[Andrews v Law Society of British Columbia]]'' (1989), half of the justices declared that the Oakes test should not and cannot be the section 1 test used for all sections of the ''Charter''.  For Justice [[William McIntyre (judge)|William McIntyre]], the Oakes test was too high a standard for equality rights, which was a complex issue since governments must distinguish between many groups in society, to create "sound social and economic legislation".  He thus drew up the following two-step test:
+
+: 1.  The government action must have been made to achieve a "desirable social objective".
+: 2. The equality right infringed in the process of pursuing that objective is examined, with its "importance" to those whose rights were limited evaluated; this evaluation is then balanced against a judgment as to whether the limit achieves the objective.
+
+The rest of the justices, however, continued to apply the Oakes test; the Oakes test is still used in section 15 cases.
+
+===''R. v. Stone''===
+In the case ''[[R v Stone]]'' (1999), the issue of crime committed by a person suffering from [[automatic behavior|automatism]] was considered.  The majority ruled that since automatism could be "easily feigned", the [[Legal burden of proof|burden of proof]] must rest with the defense; while this would be a limit on [[Section Eleven of the Canadian Charter of Rights and Freedoms|section 11]] rights, the majority found section 1 would uphold this because criminal law presumes willing actions.  As the dissent noted, this use of section 1 did not reflect the standard Oakes test.{{sfn|Hogg|2003|p=1010}}
+
+===Section 12===
+It has been questioned whether the Oakes test, or any section 1 test at all, could ever be applied to [[Section Twelve of the Canadian Charter of Rights and Freedoms|section 12]] of the ''Charter'', which provides rights against [[cruel and unusual punishment]].  In [[R. v. Smith (1987)|''R. v. Smith'' (1987)]], some Supreme Court justices felt section 1 could not apply, although the majority employed section 1.  Hogg believes section 1 can never apply; he has said section 12 "may be an absolute right.  Perhaps it is the only one."{{sfn|Hogg|2003|p=822}}
+
+===Administrative law===
+In ''[[Doré v Barreau du Québec]]'' (2012), the Supreme Court of Canada found that the ''Oakes'' test should not apply to administrative law decisions that impact the ''Charter'' rights of a specific individual.  Instead, the decision-maker must proportionally balance between the ''Charter'' values in question and the statutory objectives.  The [[standard of review]] by a judicially reviewing court is one of "reasonableness" (not "correctness").
+
+==Comparison with other human rights instruments==
+
+This general limitations clause definitely makes the ''Canadian Charter'' distinct from its United States counterpart, the [[United States Bill of Rights|Bill of Rights]]. Regarding similarities with the [[European Convention on Human Rights]] (ECHR), there are various limitations in the European Convention that are similar to the limitations clause in the ''Charter''. These limits include:
+
+*limits on privacy rights as are accepted as in Canada  (Article '''8(2)''' ECHR: "except such as is in accordance with the law and is [[necessary in a democratic society]]");
+*limits on freedom of thought and religion similar to Canadian limitations (art. '''9(2)''' ECHR: "subject only to such limitations as are prescribed by law and are necessary in a democratic society");
+*limits on freedom of expression are accepted as in Canada (art. '''10(2)''' ECHR: "subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society");
+*limits on freedom of peaceable assembly and free association are accepted in Canada as well (art. '''11(2)''' ECHR: "No restrictions shall be placed on the exercise of these rights other than such as are prescribed by law and are necessary in a democratic society").
+
+However, unlike the ''Canadian Charter'', art. 18 of the European Convention limits all these specifically enumerated restrictions: "The restrictions permitted under this Convention to the said rights and freedoms shall not be applied for any purpose other than those for which they have been prescribed". Perhaps{{original research inline|date=July 2022}} the ''Canadian Charter''{{'s}} single overriding limitation upon all of the enumerated rights is much more general limitation than the specific limitations in the European Convention.
+
+The [[Constitution of South Africa Chapter 2: Bill of Rights|Bill of Rights]] entrenched in the [[Constitution of South Africa]] in 1996 also contains a clause comparable to the ''Charter''{{'s}} section 1 and the ECHR's articles 8 to 11.<ref>Brice Dickson, "Human Rights in the 21st Century", Amnesty International Lecture, Queen's University, Belfast, 11 November 1999.</ref> Section 36 requires that a "limitation is reasonable and justifiable in an open and democratic society", and that one should consider relevant factors such "the importance of the purpose of the limitation", "the relation between the limitation and its purpose", and "less restrictive means to achieve the purpose".
+
+In Canada itself, the Oakes test has been comparable to the ways in which other rights have been limited. [[Section Thirty-five of the Constitution Act, 1982]], which affirms Aboriginal and treaty rights, is technically not part of the Charter and therefore is not subject to section 1. However, in ''[[R v Sparrow]]'' the Court developed a test to limit section 35 that Hogg has compared to the section 1 Oakes test.{{sfn|Hogg|2003|p=621}} After the ''Sparrow'' case, provincial legislation can only limit Aboriginal rights if it has given them appropriate priority. The [[Quebec Charter of Human Rights and Freedoms]] contains a section that has also been compared to section 1. Namely, section 9.1 states that when one invokes rights, it should be in a manner with respecting "democratic values, public order and the general well-being of the citizens of Québec" and that law may limit rights. In ''[[Ford v Quebec (AG)]]'', it was found an analysis of limits under section 9.1 should be similar to that under section 1 of the Canadian Charter. In ''[[Syndicat Northcrest v Amselem]]'', Justice [[Michel Bastarache]] contrasted this with the main difference between the two sections. Namely, the section 9.1 statements about how one should use rights does not mention legislatures, and thus the Quebec Charter has relevance to [[private law]].<ref>Bastarache J., ''[[Syndicat Northcrest v Amselem]]'', para. 152.</ref> In ''[[Dagenais v Canadian Broadcasting Corp.]]'' (1994), the Court also developed a test under the [[common law]] modelled after the Oakes test to consider [[publication ban]]s.
+
+==History==
+At around the time of the centennial of [[Canadian Confederation]] in 1967, [[Liberal Party of Canada|Liberal]] [[Attorney General of Canada|Attorney General]] [[Pierre Trudeau]] appointed law professor [[Barry Strayer]] to research enshrining rights into the Constitution.  Canada already had a [[Canadian Bill of Rights]] passed in 1960.  This Bill of Rights did not have the force of the Charter and was criticised as being weak.  The Bill of Rights is similar in content to the Charter however it does include a protection for property that is not in the Charter.
+
+Strayer's report for the Trudeau government advocated a number of ideas which were later incorporated into the Charter, including allowing for limits on rights.  Such limits are now included in the Charter's limitation and notwithstanding clauses.<ref>Strayer, Barry L. [https://web.archive.org/web/20031025061505/http://www.justice.gc.ca/en/dept/pub/jc/vol2/no2/page4.html "My Constitutional Summer of 1967", ''Reflections on the Charter''], Department of Justice Canada. URL accessed on March 18, 2006.</ref>  Trudeau had become prime minister in 1968 and his government implemented the Charter in 1982.
+
+In the initial planning stages of the ''Charter'''s development this section was intended to be the counter-balance to the court's ability to strike-out law with the ''Charter''. An early version of the section guaranteed rights "subject only to such reasonable limits as are generally accepted in a free and democratic society with a parliamentary system of government".  This wording sparked debate over what government actions could be "generally accepted", with [[civil libertarian]]s arguing that the clause would render ''Charter'' rights impotent.  They even referred to it as a "[[Mack Truck]]" to imply that it would run over significant rights.  In response, the wording was changed to the current version, to focus less on the importance of parliamentary government and more on justifiability of limits in free societies; the latter logic was more in line with rights developments around the world after [[World War II]].<ref>Weinrib, Lorraine Eisenstat. "Trudeau and the Canadian Charter of Rights and Freedoms:  A Question of Constitutional Maturation".  In ''Trudeau's Shadow:  The Life and Legacy of Pierre Elliott Trudeau''. Edited by Andrew Cohen and JL Granatstein.  Vintage Canada, 1998, pages 269–272.</ref>  The [[provinces and territories of Canada|provinces]], however, did not find it a sufficiently strong enough recourse and instead insisted on the inclusion of the [[Section Thirty-three of the Canadian Charter of Rights and Freedoms|notwithstanding clause]].
+
+In September 2020, Justice Donald Burrage ruled that the [[Newfoundland and Labrador]] [[Travel restrictions related to the COVID-19 pandemic|travel ban]] did indeed violate [[Section 6 of the Canadian Charter of Rights and Freedoms]], which allows Canadians to move freely throughout the country. However, Burrage said the ban is protected by Section 1, which allows for reasonable exemptions to the charter.<ref>{{cite web| url = https://www.cbc.ca/news/canada/newfoundland-labrador/nl-travel-ban-supreme-court-decision-1.5727549| title = N.L. travel ban upheld in provincial Supreme Court ruling {{!}} CBC News}}</ref><ref>{{cite web| url = https://www.cbc.ca/news/canada/newfoundland-labrador/travel-ban-appeal-decision-1.5767641| title = N.L.'s COVID-19 travel ban decision to be appealed, Canadian Civil Liberties Association says {{!}} CBC News}}</ref>
+
+==Criticism==
+[[Image:Joel Bakan, 2011.jpg|thumb|200px|right| Professor [[Joel Bakan]] was [[Brian Dickson]]'s clerk during ''[[R v Oakes]]'' (1986).]]
+The ''Charter'' has been criticized for increasing [[judicial power]], as the scope of [[judicial review]] has been widened.  Section 1 is part of the perceived problem.  In their book ''The Charter Revolution & the Court Party'', Alberta politician [[Ted Morton]] and Professor [[Rainer Knopff]] allege judges have a greater role and more choice in shaping policy, and quote former Chief Justice [[Antonio Lamer]] as stating that a ''Charter'' case, "especially when one has to look at Section 1&nbsp;... is asking us to make essentially what used to be a political call."<ref>Morton, F. L., and Knopff, Rainer. ''The Charter Revolution & the Court Party''. Toronto: Broadview Press, 2000, page 52.</ref>
+
+At one point Morton and Knopff also criticize the growing power of Supreme Court clerks by alleging that Dickson's clerk [[Joel Bakan]] was the true author of the Oakes test.  Morton and Knopff write,
+{{quote|Dickson, it is said, was dissatisfied with the section 1 portion of a draft judgment.  He gave the draft to Bakan and asked him to rework the reasonable limitations section.  Sensing a long night, Bakan armed himself with a bottle of [[sherry]] and set about constructing the now famous three prong balancing test.}}
+
+Bakan was supposedly influenced by US case law, which Morton and Knopff write should disappoint "Those who praise the section 1/Oakes Test as a distinctively Canadian approach to rights litigation."  However, Morton and Knopff's source is "anonymous".<ref>Morton and Knopff, pages 111, 190.</ref>
+
+==References==
+{{reflist|30em}}
+
+==References==
+* {{cite book
+|last=Hogg
+|first=Peter W.
+|author-link=Peter Hogg
+|year=2003
+|title=Constitutional law of Canada
+|edition=2003 student
+|location=Scarborough, Ontario
+|publisher=[[Carswell Legal Publications]]
+|isbn=978-0-459-24085-1
+|oclc=51801564
+}}
+
+{{Constitution of Canada|patriation}}
+[[Category:Canadian Charter of Rights and Freedoms|Section 01]]
+[[Category:Legal tests]]

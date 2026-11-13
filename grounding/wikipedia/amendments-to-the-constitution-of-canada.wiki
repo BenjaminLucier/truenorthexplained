@@ -1,0 +1,332 @@
+{{Short description|none}}
+{{More citations needed|date=February 2022}}
+{{Use Canadian English|date=July 2015}}
+{{Use dmy dates|date=October 2020}}
+{{Constitutional history of Canada}}
+
+Before 1982, [[constitutional amendment|modifying]] the [[Constitution of Canada]] primarily meant amending the ''[[Constitution Act, 1867|British North America Act, 1867]]''. Unlike most other constitutions, however, the Act had no amending formula; instead, changes were enacted through Acts of the [[Parliament of the United Kingdom]] (or "Imperial Parliament") called the [[British North America Acts]].<ref>{{Cite book |last=Oliver |first=Peter C. |date=April 2005 |chapter=Canada I: Confederation and the Imperial Theory |title=The Constitution of Independence: The Development of Constitutional Theory in Australia, Canada, and New Zealand |url=https://academic.oup.com/book/26966/chapter/196147114 |access-date=6 December 2023 |publisher=Oxford University Press |pages=111–134 |doi=10.1093/acprof:oso/9780198268956.003.0005|isbn=978-0-19-826895-6 }}</ref>
+
+Other [[Commonwealth of Nations|Commonwealth]] countries had taken over the authority for constitutional amendment after the ''[[Statute of Westminster 1931]]'', but at the time, Canada decided to allow the Parliament of the United Kingdom to retain the power "temporarily". Between 1931 and 1982, the federal government, on behalf of the [[House of Commons of Canada]] and the [[Senate of Canada|Senate]], would issue an address to the British government requesting an amendment. The request would include a resolution containing the desired amendments, which in turn were always passed by the British Parliament with [[Rubber stamp (politics)|little or no debate]].
+
+With the ''[[Constitution Act, 1982]]'', Canada took over the authority to amend its own constitution, achieving full sovereignty.<ref>{{cite web |url=http://www.bac-lac.gc.ca/eng/discover/politics-government/proclamation-constitution-act-1982/Pages/proclamation-constitution-act-1982.aspx |title=Proclamation of the Constitution Act, 1982 |author=<!--Staff writer(s); no by-line.--> |date=5 May 2014 |publisher=Government of Canada |access-date=10 February 2017}}</ref><ref>{{cite news |author=<!--Staff writer(s); no by-line.--> |date=17 March 2009 |title=A statute worth 75 cheers |url=https://www.theglobeandmail.com/opinion/a-statute-worth-75-cheers/article1329730/ |newspaper=The Globe and Mail|location=Toronto |access-date=10 February 2017}}</ref><ref>{{cite web |url=http://www.cbc.ca/2017/canada-is-celebrating-150-years-of-what-exactly-1.3883315 |title=Canada is celebrating 150 years of... what, exactly? |last=Couture |first=Christa |author-link=Christa Couture |date=1 January 2017 |website=Canadian Broadcasting Corporation |access-date=10 February 2017 |quote=...&nbsp;the ''Constitution Act'' itself cleaned up a bit of unfinished business from the Statute of Westminster in 1931, in which Britain granted each of the Dominions full legal autonomy if they chose to accept it. All but one Dominion – that would be us, Canada – chose to accept every resolution. Our leaders couldn't decide on how to amend the constitution, so that power stayed with Britain until 1982.}}</ref> Since then, amendments to the Constitution of Canada have been made using one of five amending formulas requiring consent of some combination of the House of Commons, Senate, and provincial legislatures.
+
+==Amendment formulas==
+{{Pie chart
+|caption=Demographic weight of each province (2021)
+|value1 = 38.58
+|label1 = Ontario
+|color1 = #c8102e
+|value2 = 23.06
+|label2 = Quebec
+|color2 = #1E90FF
+|value3 = 13.56
+|label3 = British Columbia
+|color3 = #f47f28
+|value4 = 11.56
+|label4 = Alberta
+|color4 = #005d7c
+|value5 = 3.64
+|label5 = Manitoba
+|color5 = #000000
+|value6 = 3.07
+|label6 = Saskatchewan
+|color6 = #076a21
+|value7 = 2.63
+|label7 = Nova Scotia
+|color7 = #0047b6
+|value8 = 2.10
+|label8 = New Brunswick
+|color8 = #8c0c04
+|value9 = 1.38
+|label9 = Newfoundland and Labrador
+|color9 = #ff99cc
+|value10= 0.42
+|label10= Prince Edward Island
+|color10= #068774}}
+
+As part of the [[patriation]] of the constitution in 1982 an amending formula was adopted in sections 38 to 49 of the ''[[Constitution Act, 1982]]''.<ref>{{Cite web |title=Part V – Procedure for Amending Constitution of Canada, Constitution Act, 1982 |url=http://laws-lois.justice.gc.ca/eng/Const/page-16.html#h-56 |url-status=dead |accessdate=8 February 2013 |publisher=Department of Justice, Canada |archive-date=29 June 2013 |archive-url=https://web.archive.org/web/20130629034150/http://laws-lois.justice.gc.ca/eng/Const/page-16.html#h-56 }}</ref>
+
+According to this act, the amendment procedure is composed of different categories, depending on the part of the constitution to be amended.<ref name=":0">{{Cite book |last=Pelletier |first=Benoit |url=https://academic.oup.com/edited-volume/41300 |title=The Oxford Handbook of the Canadian Constitution |date=19 October 2017 |publisher=Oxford University Press |isbn=978-0-19-066481-7 |editor-last=Oliver |editor-first=Peter |edition=1 |pages=253–270 |language=en |chapter=Ch.12 Amending the Constitution of Canada |doi=10.1093/law/9780190664817.001.0001 |editor-last2=Macklem |editor-first2=Patrick |editor-last3=Des Rosiers |editor-first3=Nathalie}}</ref>
+
+===Unanimous consent amendments===
+There are some parts of the constitution that can be modified only with the unanimous consent of ''all'' the provincial legislative assemblies plus the two Houses of Parliament. This does not affect the actual passing of the resolutions granting consent in each legislative chamber, which as usual requires a simple majority in that chamber – it is the final resolutions that must be unanimous. This formula is contained in section 41 of the ''Constitution Act, 1982'', and is known as the "unanimity formula".<ref name=":1">{{Cite web |title=Canada Act 1982 - Part V - Procedure for amending Constitution of Canada |url=https://www.legislation.gov.uk/ukpga/1982/11/schedule/B/part/V |website=legislation.gov.uk}}</ref> It is reserved for the following matters:
+{{Blockquote|
+{{ubli|(a) the office of the Monarch, the Governor General and the Lieutenant Governor of a province;
+|(b) the right of a province to a number of members in the House of Commons not less than the number of Senators by which the province is entitled to be represented at the time the ''Constitution Act, 1982'', came into force;
+|(c) subject to section 43, the use of the English or the French language;
+|(d) the composition of the Supreme Court of Canada; and
+|(e) changing the amendment procedure itself.}}
+}}
+
+==="7/50 formula" amendments===
+For some constitutional provisions, amendments can be passed only if identical resolutions are adopted by the House of Commons, the Senate and two-thirds or more of the provincial legislative assemblies (i.e. at least seven) representing at least 50 per cent of the total population of the provinces. This formula, which is outlined in section 38 of the ''Constitution Act, 1982'', is officially referred to as the "general amendment procedure" and is known colloquially as the "7/50 formula".<ref>{{Cite web |last=The Canadian Press |date=19 September 2013 |title=Unanimous consent required for Senate abolition say top court's lawyers |url=https://macleans.ca/general/unanimous-consent-required-for-senate-abolition-say-top-courts-lawyers-2/ |website=Maclean's}}</ref><ref name=":1" /> It is the amendment formula that applies when the amendment does not fall into any other category.<ref name=":0" />
+
+Once the procedure for the adoption of the amendment is followed successfully, the amendment is formalized as a proclamation of the Governor General in Council. Officially, therefore, the constitution is amended by Proclamation, and the issue of the Proclamation requires prior approval by resolutions of the House of Commons, the Senate, and the necessary number of provincial legislative assemblies.
+
+The following matters are explicitly reserved to the "7/50 formula", by virtue of s. 42:
+
+{{Blockquote|
+{{ubli|(a) the principle of proportionate representation of the provinces in the House of Commons prescribed by the Constitution of Canada;
+|(b) the powers of the Senate and the method of selecting Senators;
+|(c) the number of members by which a province is entitled to be represented in the Senate and the residence qualifications of Senators;
+|(d) subject to paragraph 41(d), the Supreme Court of Canada;
+|(e) the extension of existing provinces into the territories; and
+|(f) the establishment of new provinces.}}
+}}
+
+No specific mention is made in the procedure for amendments affecting what falls within the federal/provincial distribution of powers. Therefore, they can be dealt with generally under s. 38, or with respect to specific provinces under s. 43. However, a s. 38 amendment in that regard will not apply to a province that has passed a resolution of dissent from it, and s. 40 states that a s. 38 amendment that transfers provincial jurisdiction over an education or cultural matter to Parliament must be accompanied by reasonable compensation by Canada to the provinces.
+
+===Provisions applying to one or more, but not all, provinces===
+According to s. 43, any amendment applying to one or more, but not all, provinces must be "authorized by resolution of the Senate and House of Commons and of the legislative assembly of each province to which the amendment applies."<ref name=":1" />
+
+If a constitutional amendment affects only one province, only the assent of the two houses of Parliament and of that province's legislative assembly is required. Eight of the thirteen amendments passed since 1982 have been of this nature, four being passed by and for [[Newfoundland and Labrador]], one for [[New Brunswick]], one for [[Prince Edward Island]], one for [[Quebec]], and one for [[Saskatchewan]]. This formula is contained in section 43 of the ''Constitution Act, 1982''.
+
+===Provisions concerning federal institutions===
+According to s. 44, constitutional provisions concerning federal institutions (executive government of Canada, Senate, and House of Commons) can be amended unilaterally by the Parliament of Canada if the provisions are not those explicitly reserved for unanimity or 7/50 formula.<ref name=":1" /><ref name=":0" /> For example, in 2022, the Canadian government used this amendment method to [[Preserving Provincial Representation in the House of Commons Act|modify the House of Commons seat allocation formula]].<ref>{{Cite web |date=5 November 2021 |title=Feds would need majority provincial OK to guarantee Quebec share of Commons seats |url=https://www.ctvnews.ca/politics/article/feds-would-need-majority-provincial-ok-to-guarantee-quebec-share-of-commons-seats/ |access-date=3 March 2023 |website=CTV News |language=en}}</ref><ref>{{Cite web |date=24 March 2022 |title=Feds look to amend Constitution Act to impose new minimum seat count for each province |url=https://www.ctvnews.ca/politics/article/feds-look-to-amend-constitution-act-to-impose-new-minimum-seat-count-for-each-province/ |access-date=3 March 2023 |website=CTV News |language=en}}</ref>
+
+===Provincial constitutions===
+According to s. 45, each province has the exclusive power to modify its own constitution, if the changes do not concern matters outlined in s. 41.<ref name=":0" /> This section has been the subject of much confusion and debate, since some provincial constitutions are embedded in the same documents that form the Constitution of Canada.<ref>{{Cite web |title='It could be very messy': What happens if we can all amend the Constitution? |url=https://nationalpost.com/news/canada/it-could-be-very-messy-what-happens-if-we-can-all-amend-the-constitution |access-date=3 March 2023 |website=National Post |language=en-CA}}</ref><ref name="Montpetit 2021">{{citation| url=https://www.cbc.ca/news/canada/montreal/quebec-canada-constitution-changes-language-bill-1.6031828| last=Montpetit| first=Jonathan| title=Quebec's proposed changes to Constitution seem small, but they could prompt historic makeover| date=19 May 2021| publisher=CBC News| access-date=6 August 2023}}</ref>
+
+===Bypassing the Senate===
+Section 47 allows an amendment to the Constitution of Canada to be made without a resolution of the Senate authorizing the issue of the proclamation if, within 180 days after the adoption by the House of Commons of a resolution authorizing its issue, the Senate has not adopted such a resolution and if, at any time after the expiration of that period, the House of Commons again adopts the resolution. Any period when Parliament is prorogued or dissolved shall not be counted in computing the 180-day period. Section 47 only applies to amendments made under the Section 38(1) Amendment by General Procedure, the Section 41 Amendment by Unanimous Consent, Section 42 and the Section 43 Amendment by Bilateral Agreement procedures <ref>{{cite web | title=Consolidated federal laws of Canada, THE CONSTITUTION ACTS 1867 to 1982 | url=https://laws-lois.justice.gc.ca/eng/const/ }}</ref>
+
+==Amendments before 1982==
+A majority of the constitutional amendments before 1982 were acts of the United Kingdom or Canadian parliaments to amend the ''British North America Act, 1867'' (now the ''Constitution Act, 1867''). In some cases, amendments were made to the constitutional structure of Canada by adding entire extra documents to the constitution. These include orders that added provinces to Canada, such as the ''British Columbia Terms of Union'' and documents that altered the structure of the government of Canada, such as the ''Parliament of Canada Act, 1875''.
+
+{|class="wikitable"
+|+ List of Constitutional amendments from 1867 to 1982
+!Name!!Year!!Amendments to other constitutional documents!!Status (as of 2022)
+|-
+|''[[Rupert's Land Act 1868]]''||1868||none||[[Spent enactment|Spent]] when ''Rupert's Land and North-Western Territory Order'' came into effect.
+|-
+|''Temporary Government of Rupert's Land Act, 1869''||1869||none||Expired on 14 April 1871.
+|-
+|''An Act to amend and continue the Act 32–33 Victoria chapter&nbsp;3; and to establish and provide for the Government of the Province of Manitoba, 1870''||1870||Section 21 of the ''Constitution Act, 1867''||In the Constitution under the name [[Manitoba Act, 1870]].
+|-
+|''Order of Her Majesty in Council admitting Rupert's Land and the North-Western Territory into the Union, dated the 23rd day of June 1870''||1870||none||In the constitution under the name [[Rupert's Land and North-Western Territory Order]].
+|-
+|''Order of Her Majesty in Council admitting British Columbia into the Union, dated the 16th day of May 1871.''||1871||Section 21 of the ''Constitution Act, 1867''||In the constitution under the name [[British Columbia Terms of Union]].
+|-
+|''[[British North America Act, 1871]]''||1871||none||In the constitution under the name ''[[Constitution Act, 1871]]''.
+|-
+|''Order of Her Majesty in Council admitting Prince Edward Island into the Union, dated the 26th day of June 1873.''||1873||none||In the Constitution under the name [[Prince Edward Island Terms of Union]].
+|-
+|''Parliament of Canada Act, 1875''||1875||Section 18 of the ''Constitution Act, 1867''||In the constitution under the same name.
+|-
+|''Order of Her Majesty in Council admitting all British possessions and Territories in North America and islands adjacent thereto into the Union, dated the 31st day of July 1880.''||1880||none||In the constitution under the name [[Adjacent Territories Order]].
+|-
+|''[[Constitution Act, 1886|British North America Act, 1886]]''||1886||none||In the constitution under the name ''[[Constitution Act, 1886]]''.
+|-
+|''Canada (Ontario Boundary) Act, 1889''||1889||none||In the constitution under the same name.
+|-
+|''[[Statute Law Revision Act 1893|Statute Law Revision Act, 1893]]''||1893||Enacting clause and sections 2, 4, 25, 42, 43, 51, 81, 88, 89, 127, 145 of the ''Constitution Act, 1867''<ref>British North America Act and Amendments . . . 1867–1943. King's Printer. 1943. [https://books.google.com/books?id=f41CDC97FaYC&pg=PA78 p. 78] (see further p. 76).</ref>||[[Spent enactment|Spent]].
+|-
+|''[[Canadian Speaker (Appointment of Deputy) Act 1895|Canadian Speaker (Appointment of Deputy) Act, 1895]]''||1895||none||Repealed in 1982.
+|-
+|''[[Alberta Act|The Alberta Act, 1905]]''||1905||Section 21 of the ''Constitution Act, 1867''||In the constitution under the name ''[[Alberta Act]]''.
+|-
+|''[[Saskatchewan Act|The Saskatchewan Act, 1905]]''||1905||Section 21 of the ''Constitution Act, 1867''||In the constitution under the name ''[[Saskatchewan Act]]''.
+|-
+|''[[British North America Act 1907|British North America Act, 1907]]''||1907||none||In the constitution under the name ''Constitution Act, 1907''.
+|-
+|''[[British North America Act, 1915]]''||1915||Sections 21, 22, 26, 27, 28, 51A of the ''Constitution Act, 1867''||In the constitution under the name ''Constitution Act, 1915''.
+|-
+|''[[British North America Act, 1916]]''||1916||none||Repealed by ''Statute Law Revision Act, 1927''.
+|-
+|''[[Statute Law Revision Act 1927|Statute Law Revision Act, 1927]]''||1927||Removed section 1(2) from the ''British North America Act, 1915'' and repealed ''British North America Act, 1916''.||[[Spent enactment|Spent]].
+|-
+|''[[British North America Act 1930|British North America Act, 1930]]''||1930||none||In the constitution under the name ''Constitution Act, 1930''.
+|-
+|''[[Statute of Westminster, 1931]]''||1931||none||In the constitution under the same name.
+|-
+|''[[British North America Act, 1940]]''||1940||Section 91(2A) of the ''Constitution Act, 1867''||In the constitution under the name ''Constitution Act, 1940''.
+|-
+|''[[British North America Act 1943|British North America Act, 1943]]''||1943||Section 51 of the ''Constitution Act, 1867''||Repealed in 1982.
+|-
+|''[[British North America Act 1946|British North America Act, 1946]]''||1946||Section 51 of the ''Constitution Act, 1867''||Repealed in 1982.
+|-
+|''[[Newfoundland Act|British North America Act, 1949]]''||1949||Section 21, 22 of the ''Constitution Act, 1867''||In the Constitution under the name [[Newfoundland Act]].
+|-
+|''[[British North America (No. 2) Act, 1949]]''||1949||Section 91 of the ''Constitution Act, 1867''||Repealed in 1982.
+|-
+|''Statute Law Revision Act, 1950''||1950||Removed the redundant section 118 of the ''Constitution Act, 1867''.||[[Spent enactment|Spent]].
+|-
+|''[[British North America Act 1951|British North America Act, 1951]]''||1951||Section 94A of the ''Constitution Act, 1867''||Repealed in 1982.
+|-
+|''[[British North America Act 1951|British North America Act, 1952]]''||1952||Section 51 of the ''Constitution Act, 1867''||Repealed in 1982.
+|-
+|''British North America Act, 1960''||1960||Section 99 of the ''Constitution Act, 1867''||In the constitution under the name ''Constitution Act, 1960''.
+|-
+|''[[British North America Act 1964|British North America Act, 1964]]''||1964||Section 94(A) of the ''Constitution Act, 1867''||In the constitution under the name ''Constitution Act, 1964''.
+|-
+|''[[British North America Act, 1965]]''||1965||Section 29 of the ''Constitution Act, 1867''||In the constitution under the name ''Constitution Act, 1965''.
+|-
+|''British North America Act, 1974''||1974||Section 51(1) of the ''Constitution Act, 1867''||In the constitution under the name ''Constitution Act, 1974''.
+|-
+|''British North America Act (No. 1), 1975'' (previously named ''Northwest Territories Representation Act'')||1975||Section 51(2) of the ''Constitution Act, 1867''||Repealed in 1999 after being renamed ''Constitution Act (No. 1), 1975''.
+|-
+|''British North America Act (No. 2), 1975''||1975||Sections 21, 22, 28 of the ''Constitution Act, 1867''||In the constitution under the name ''Constitution Act (No. 2), 1975''.
+|-
+|''Miscellaneous Statute Law Revision Act, 1977''||1977||Renamed constitutional documents that were, again renamed by the ''Constitution Act, 1982''.||[[Spent enactment|Spent]].
+|-
+|''[[Canada Act 1982]]''||1982||none||In the constitution under the same name.
+|-
+|''[[Constitution Act, 1982]]''||1982||Sections 1, 20, 51, 91(1), 92(1), 92A(6), 94A, Sixth Schedule of the ''Constitution Act, 1867''||In the constitution under the same name.
+|}
+
+==Amendments after 1982==
+Amending the constitution has been a topic of much debate in contemporary Canada, and the two most comprehensive attempts to revise the document have both been defeated. There have, however, been thirteen amendments to the constitution since it was amended in 1982. Most of these amendments have been limited in scope, dealing only with matters affecting specific provinces.
+
+{|class="wikitable"
+|+ List of Constitutional amendments after 1982<!-- the amendments in this part of the list are considered by constitutional scholars to have been validly enacted -->
+!Name
+!Section(s) amended
+!Purpose and notes
+!Amending procedure
+|-style="vertical-align: top"
+|''{{Visible anchor|Constitution Amendment Proclamation, 1983}}''
+|ss. 25(b), 35(3)–(4), 35.1, 37.1, 54.1, and 61 of ''Constitution Act, 1982''
+|Strengthened Aboriginal rights in the constitution. Includes land claims agreements as treaties.<ref>{{Cite news |last=Diabo |first=Russell |date=22 September 2017 |title=When moving past the Indian Act means something worse |url=https://policyoptions.irpp.org/magazines/september-2017/when-moving-past-the-indian-act-means-something-worse/ |url-status=live |archive-url=https://web.archive.org/web/20170927013845/https://policyoptions.irpp.org/magazines/september-2017/when-moving-past-the-indian-act-means-something-worse/ |archive-date=27 September 2017 |access-date=19 May 2025 |work=[[Policy Options]]}}</ref> 
+|s. 38: 7/50 rule
+|-style="vertical-align: top"
+|''[[Representation Act, 1985|Constitution Act, 1985 (Representation)]]''
+|s. 51(1) of ''Constitution Act, 1867''
+|Modified the formula for apportioning seats in the House of Commons.
+
+Amendment was replaced by ''[[Fair Representation Act (Canada)|Fair Representation Act]]'' in 2011.
+|s. 44: Parliament of Canada
+|-style="vertical-align: top"
+|''Constitution Amendment, 1987''
+|s. 3 of ''[[Newfoundland Act]]'' and term 17 of schedule to that ''Act''
+|Extended education rights to the [[Pentecostal]] Church in [[Newfoundland and Labrador|Newfoundland]].
+
+Replaced by ''Constitution Amendment, 1998 (Newfoundland Act)''.
+|s. 43: House of Commons, Senate and Newfoundland House of Assembly
+|-style="vertical-align: top"
+|''[[Constitution Amendment, 1993 (New Brunswick)]]''
+|s. 16.1 of ''Constitution Act, 1982''
+|Added [[Section 16.1 of the Canadian Charter of Rights and Freedoms|Section 16.1]] to the ''Canadian Charter of Rights and Freedoms'', which made the English and French linguistic communities in [[New Brunswick]] equal, with the right to distinct cultural and educational institutions.
+|s. 43: House of Commons, Senate and New Brunswick Legislative Assembly
+|-style="vertical-align: top"
+|''Constitution Amendment, 1993 (Prince Edward Island)''
+|schedule to ''[[Prince Edward Island Terms of Union]]''
+|Allowed for a [[Confederation Bridge|fixed link bridge]] to replace ferry services to [[Prince Edward Island]].<ref>{{Cite news |last=Downe |first=Percy |date=15 October 2018 |title=Many discrepancies in plans for toll-free Champlain Bridge |url=https://policyoptions.irpp.org/magazines/october-2018/many-discrepancies-in-plans-for-toll-free-champlain-bridge/ |url-status=live |archive-url=https://web.archive.org/web/20250422135338/https://policyoptions.irpp.org/magazines/october-2018/many-discrepancies-in-plans-for-toll-free-champlain-bridge/ |archive-date=22 April 2025 |access-date=19 May 2025 |work=Policy Options}}</ref>
+|s. 43: House of Commons, Senate and PEI Legislative Assembly
+|-style="vertical-align: top"
+|''Constitution Amendment, 1997 (Newfoundland Act)''
+|term 17 of schedule to ''[[Newfoundland Act]]''
+|Allowed the Province of Newfoundland to create a secular school system to replace the church-based education system.<ref>{{Cite web |title=Constitution - 221 |url=https://www.sfu.ca/~aheard/221/constitution-221.html |url-status=live |archive-url=https://web.archive.org/web/20250526202743/https://www.sfu.ca/~aheard/221/constitution-221.html |archive-date=26 May 2025 |access-date=26 May 2025 |website=[[Simon Fraser University]]}}</ref>
+|s. 43: House of Commons and Newfoundland House of Assembly; Senate approval was bypassed with s. 47
+|-style="vertical-align: top"
+|''{{Visible anchor|Constitution Amendment, 1997 (Quebec)}}''
+|s. 93A of ''Constitution Act, 1867''
+|Permitted the [[Quebec|Province of Quebec]] to replace the denominational school boards with ones organized on linguistic lines.
+
+''NB:'' The preamble to the resolution of the Quebec National Assembly adopting the amendment makes no reference to which amending formula is being used, and includes the following statement: "Whereas such amendment in no way constitutes recognition by the National Assembly of the ''Constitution Act, 1982'', which was adopted without its consent."
+|s. 43: House of Commons, Senate and Quebec National Assembly
+|-style="vertical-align: top"
+|''{{Visible anchor|Constitution Amendment, 1998 (Newfoundland Act)}}''
+|term 17 of schedule to ''Newfoundland Act''
+|Ended denominational quotas for Newfoundland religion classes.<ref>{{Cite web |last=Grimes |first=Roger |date=18 November 1997 |title=Commons Committee on Term 17 - Brief |url=https://www.releases.gov.nl.ca/releases/1997/edu/Term17.htm |url-status=live |archive-url=https://web.archive.org/web/20240329051247/https://www.releases.gov.nl.ca/releases/1997/edu/Term17.htm |archive-date=29 March 2024 |access-date=26 May 2025 |website=www.releases.gov.nl.ca}}</ref>
+|s. 43: House of Commons, Senate and Newfoundland House of Assembly
+|-style="vertical-align: top"
+|''[[Constitution Act, 1999 (Nunavut)]]''
+|ss. 21, 23, 28, and 51(2) of ''Constitution Act, 1867''
+|Granted the [[Nunavut|Territory of Nunavut]] representation in the [[Senate of Canada]].
+
+''NB:'' At the time of the Act's adoption, Leader of the Opposition [[Preston Manning]] argued that both this Act and the ''[[Nunavut Act]]'' of 1993 ought to have been adopted using a more inclusive amendment formula (probably the 7/50 formula), and that the failure to use the appropriate formula could result in future constitutional difficulties.<ref>{{cite hansard |title=Government Orders: Nunavut Act|jurisdiction= Canada| url= http://www.parl.gc.ca/HousePublications/Publication.aspx?Language=E&Mode=1&Parl=36&Ses=1&DocId=2332793#LINK184| house= House of Commons| date= 20 April 1998| column= |speaker= Preston Manning|position=Leader of the Opposition}}at 3:15 pm.</ref>
+|s. 44: Parliament of Canada
+|-style="vertical-align: top"
+|''{{Visible anchor|Constitution Amendment, 2001 (Newfoundland and Labrador)}}''
+|every instance of the word "Newfoundland" in the schedule to ''Newfoundland Act''
+|Changed the name of the "Province of Newfoundland" to the "Province of Newfoundland and Labrador".<ref>{{Cite news |date=30 October 2001 |title=Newfoundland and Labrador: it's (almost) official |url=https://www.cbc.ca/news/canada/newfoundland-and-labrador-it-s-almost-official-1.286201 |url-status=live |archive-url=https://web.archive.org/web/20250519124256/https://www.cbc.ca/news/canada/newfoundland-and-labrador-it-s-almost-official-1.286201 |archive-date=19 May 2025 |access-date=19 May 2025 |work=CBC News}}</ref>
+|s. 43: House of Commons, Senate and Newfoundland House of Assembly
+|-style="vertical-align: top"
+|''[[Fair Representation Act (Canada)|Fair Representation Act, 2011]]''
+|s. 51(1),(1.1) of ''Constitution Act, 1867''
+|Modified the formula for apportioning seats in the House of Commons.
+|s. 44: Parliament of Canada
+|-style="vertical-align: top"
+|''Constitution Amendment, 2022 (Saskatchewan Act)''
+|s. 24 of the ''[[Saskatchewan Act]]'' repealed retroactive to 29 August 1966
+|Removed a historic tax exemption specific to the [[Canadian Pacific Railway]].<ref>{{Cite news |last=Hunter |first=Adam |date=13 April 2022 |title=Constitutional amendment ends century-old tax exemption for CP Rail in Sask. |url=https://www.cbc.ca/news/canada/saskatchewan/sask-cp-rail-tax-1.6418398 |url-status=live |archive-url=https://web.archive.org/web/20220414132525/https://www.cbc.ca/news/canada/saskatchewan/sask-cp-rail-tax-1.6418398 |archive-date=14 April 2022 |access-date=19 May 2025 |work=CBC News}}</ref>
+|s. 43: House of Commons, Senate and Saskatchewan Legislative Assembly
+|-style="vertical-align: top"
+|''[[Preserving Provincial Representation in the House of Commons Act]]'' (2022)
+|s. 51(1) of ''Constitution Act, 1867''
+|Modified the formula for apportioning seats in the House of Commons.
+|s. 44: Parliament of Canada
+|}
+
+==Amendments to provincial constitutions==
+{{See also|Sections 90Q and 90S of the Constitution Act, 1867}}
+
+Section 45 of the ''Constitution Act, 1982'' allows provinces to amend their own provincial constitutions. However, many parts of provincial constitutions are embedded in documents forming part of the Constitution of Canada, and could require approval of the Senate and House of Commons under the section 43 amending formula. Various methods have been used to amend provincial constitutions without invoking section 43, but not all have been tested in court.
+
+In Alberta, the ''Constitution of Alberta Amendment Act, 1990'' limits powers of the province's legislative assembly by requiring consent of [[Metis settlement]] members to change laws regarding expropriation of Metis land. Courts have not yet ruled about whether this kind of language really would bind future legislatures, but it might do so if the higher bar was met when creating the law.<ref>{{Cite web|url=https://statecon.camden.rutgers.edu/sites/statecon/files/subpapers/morton.pdf |archive-url=https://web.archive.org/web/20191107143537/https://statecon.camden.rutgers.edu/sites/statecon/files/subpapers/morton.pdf |archive-date=7 November 2019 |url-status=live|title=Conference on "Federalism and Sub-national Constitutions: Design and Reform"|access-date=16 December 2019}}</ref>
+
+British Columbia has an Act titled [[Constitution Act (British Columbia)|''Constitution Act'']] that outlines the powers and rules governing the executive and legislative branches of the provincial government. However, the act specifically says that it is subject to the ''Constitution Act, 1867'' and the ''British Columbia Terms of Union'', presumably because a section 43 amendment would be needed to change any part of the British Columbia Constitution contained in those documents.
+
+Quebec and Saskatchewan both passed amendments to their provincial constitutions framed as amendments to the Constitution of Canada. In 2021, the Quebec parliament passed a bill titled ''An Act respecting French, the official and common language of Quebec'', which was largely amendments to the ''[[Charter of the French Language]]''. The act purports to add sections 90Q.1 and 90Q.2 to the ''Constitution Act, 1867'', which provide that Quebecers form a nation and that French is the only official language of Quebec. Because the House of Commons did not authorize these additions to the ''Constitution Act, 1867'', they would only have effect if they were amendments to the [[constitution of Quebec]] made by the section&nbsp;45 amending process. Constitutional scholars are divided on the validity of an amendment to a provincial constitution framed as an addition to part of the Constitution of Canada.<ref>{{citation| url=https://www.constitutionalstudies.ca/2021/08/11094/| last=England| first=Elizabeth| title=The Constitutional Amendments in Quebec's Bill 96: Whose Consent is Needed?| date=3 August 2021| publisher=Centre for Constitutional Studies| access-date=28 July 2023}}</ref><ref>{{citation| last1=Taillon| first1=Patrick| last2=Cauchon| first2=Hubert| chapter=Formal Constitutions of the Federating and Federated States of Canada| editor-last1=Albert| editor-first1=Richard| editor-last2=Sirota| editor-first2=Léonid | title=Does Quebec Need a Written Constitution?| location=Montreal| publisher=McGill-Queen’s University Press| date=2023| page=88}}</ref><ref name="Montpetit 2021" /><ref>{{Citation| url=https://nationalpost.com/news/canada/quebec-rewrite-canada-constitution| last=Hopper| first=Tristan| title=First Reading: Quebec is trying to unilaterally rewrite the Constitution again| date=9 December 2022| newspaper=National Post| access-date=22 January 2023}}</ref><ref>{{citation| url=https://www.ctvnews.ca/regina/article/saskatchewan-first-act-aims-to-assert-constitutional-jurisdiction-province/| last=Bamford| first=Allison| title='Saskatchewan First Act' aims to assert constitutional jurisdiction: province| date=1 November 2022| publisher=CTV News| access-date=6 August 2023}}</ref><ref>{{citation| url=https://leaderpost.com/news/saskatchewan/constitutional-scholars-say-sask-first-act-without-much-substance| last=Simes| first=Jeremy| title=Constitutional scholars say Sask. First Act lacking substance| date=3 November 2022| newspaper=Regina Leader-Post| access-date=6 August 2023}}</ref> An official at the [[Department of Justice (Canada)|Department of Justice]], in June 2022, stated to ''[[Le Devoir]]'' that the additions to the constitution ostensibly made by the [[Quebec Legislature]],<ref>{{Cite canlaw| short title=Constitution Act, 1867| abbr=30 & 31 Victoria, c. 3 (U.K.)| date=1 July 1867| chapter =Legislative Power| section=2| subsection=71| part=V| linkloc=CanLII| link=https://laws-lois.justice.gc.ca/eng/const/page-2.html#h-12| publisher=King's Printer for Canada| accessdate=12 August 2023}}</ref> through its ''Act respecting French, the official and common language of Quebec'', would be "reproduced in the codification of the constitutional laws [...] in the next update".<ref>{{citation| url=https://www.ledevoir.com/societe/724515/lois-21-et-96-david-lametti-c-simon-jolin-barrette| last=Bélair-Cirino| first=Marco| title=David Lametti c. Simon Jolin-Barrette| date=18 June 2022| newspaper=Le Devoir| access-date=9 August 2023}}</ref> Sections 90Q.1, 90Q.2, 90S.1 and 128Q.1 have been effectively added to the text of the ''Constitution Act, 1867'', by the federal government on 1 January 2024.<ref>{{cite web | url=https://laws-lois.justice.gc.ca/eng/Const//FullText.html | title=Consolidated federal laws of canada, THE CONSTITUTION ACTS, 1867 to 1982 | date=1 January 2024 }}</ref>
+
+Following Quebec's action, legislation passed by the Parliament of Québec in 2022 and by the parliament of Saskatchewan in 2023 purport to add sections 128Q.1 and section 90S.1 to the ''Constitution Act, 1867''. Section 128Q.1 exempts members of Quebec's legislative assembly from the oath required by section 128 and section 90S.1 declares, among other things, that Saskatchewan has autonomy with respect to all matters falling under its exclusive jurisdiction.
+
+{|class="wikitable"
+|+ Amendments to provincial constitutions purporting to amend the Constitution of Canada
+!Name
+!Section(s) amended
+!Purpose and notes
+!Amending procedure
+|-style="vertical-align: top"
+|''[[An Act respecting French, the official and common language of Québec|An Act respecting French, the official and common language of Quebec]] (2022)''
+|[[Sections 90Q and 90S of the Constitution Act, 1867|ss. 90Q.1 and 90Q.2 of ''Constitution Act, 1867'']]
+|Added Sections 90Q.1 and 90Q.2 to the ''Constitution Act, 1867'', which provide that Quebecers form a nation and that French is the only official language of Quebec.
+|s. 45: Parliament of Quebec
+|-style="vertical-align: top"
+|''[[An Act to recognize the oath provided in the Act respecting the National Assembly as the sole oath required in order to sit in the Assembly]]'' (2022)<ref>{{cite web | url=https://www.assnat.qc.ca/en/travaux-parlementaires/projets-loi/projet-loi-4-43-1.html | title=Bill 4, an Act to recognize the oath provided in the Act respecting the National Assembly as the sole oath required in order to sit in the Assembly - National Assembly of Québec }}</ref>
+|s. 128Q.1 of ''Constitution Act, 1867''
+|Deleted the [[Oath of Allegiance (Canada)|Oath of Allegiance]] to the [[Monarchy of Canada|Canadian monarch]] from the Oath of Office in [[National Assembly of Quebec|Quebec's National Assembly]].
+|s. 45: Parliament of Quebec
+|-style="vertical-align: top"
+|''The [[Saskatchewan First Act]]'' (2023)
+|[[Sections 90Q and 90S of the Constitution Act, 1867|s. 90S.1 of ''Constitution Act, 1867'' and s. 3.1 of the ''Saskatchewan Act'']]
+|Added Section 90S.1 to the ''Constitution Act, 1867'', and Section 3.1 to the ''Saskatchewan Act'', which provide that Saskatchewan has autonomy with respect to all of the matters falling under its exclusive legislative jurisdiction.
+|s. 45: Parliament of Saskatchewan
+|}
+
+==Debate==
+{{See also|Constitutional debate in Canada}}
+Amending the Canadian constitution is a topic of great debate in Canada. There seems to be general agreement among provincial governments that some parts of the constitution need to be amended to deal with long-standing demands from many provinces. There are demands by western provinces for a greater share of power at the federal level, and demands from Quebec for greater protection for its status as a [[distinct society]]. Quebec, in particular, has not formally agreed to the ''Constitution Act, 1982'', although this does not affect the legal applicability of the ''Act''.
+
+Nevertheless, agreement on details of amendments has been elusive. Further complicating attempts to amend the constitution is the complexity of the procedure for doing so, which in most cases requires approval from both the federal government and two-thirds of the provincial governments representing at least 50 per cent of the population, and in some cases require the approval of the federal government and all ten provincial governments.
+
+There have been several amendments to the constitution since it was patriated in 1982 including amendments dealing with provincial schooling in Newfoundland and Quebec and the changing of the name of Newfoundland to Newfoundland and Labrador (see below).
+
+Although the amending formula has not been formally altered, the Canadian government under Prime Minister [[Jean Chrétien]] after the [[1995 Quebec referendum]] recognized regional [[veto]]es over proposed amendments, held by the provinces of [[Ontario]], Quebec and [[British Columbia]], and by the regions the [[Canadian Prairies|Prairies]] ([[Alberta]], [[Saskatchewan]] and [[Manitoba]]) and the [[Atlantic Canada|Atlantic]] (New Brunswick, [[Nova Scotia]], Newfoundland and Labrador, and Prince Edward Island).<ref>{{cite web|title=Gomery Inquiry: Jean Chrétien: a former PM testifies|url=http://www.cbc.ca/news/background/groupaction/chretien_statement.html#top|publisher=CBC News|date = 8 February 2005|accessdate=18 March 2012}}</ref>
+
+===Failed attempts===
+{{main|Unsuccessful attempts to amend the Canadian Constitution}}
+The 1987 [[Meech Lake Accord]], a package of constitutional amendments, intended to address Quebec's objections to the ''Constitution Act, 1982'', failed in 1990 when it was not ratified by all ten provincial governments. The last attempt at a comprehensive package of constitutional amendments was the Charlottetown Accord, which arose out of the failure of the Meech Lake Accord. The [[Charlottetown Accord]] was defeated in a national referendum in 1992.
+
+===Notwithstanding clause===
+Various provisions of the Canadian Constitution are subject to the ''notwithstanding clause'', which is [[Section Thirty-three of the Canadian Charter of Rights and Freedoms|Section Thirty-three of the ''Canadian Charter of Rights and Freedoms'']]. This section authorizes federal and provincial parliaments to temporarily override the rights and freedoms in sections 2 and 7–15 for up to five years, subject to renewal. The federal parliament has never invoked it, although provincial parliaments have done so.<ref>Heather Scoffield, "Ottawa rules out invoking notwithstanding clause to stop migrant ships," Canadian Press, 13 September 2010</ref>
+
+The notwithstanding clause was invoked routinely between 1982 and 1985 by the [[Parliament of Quebec]], which did not support the enactment of the ''Charter'' but is subject to it nonetheless. The parliaments of [[Saskatchewan]] and [[Alberta]] have also previously invoked the notwithstanding clause, to end a [[strike action|strike]] and to protect an exclusively [[Same-sex marriage in Canada|heterosexual definition]] of marriage, respectively.<ref>[http://www.canlii.org/ab/laws/sta/m-5/20060217/whole.html ''Marriage Act''] {{webarchive|url=https://web.archive.org/web/20070113082005/http://www.canlii.org/ab/laws/sta/m-5/20060217/whole.html |date=13 January 2007 }}, R.S.A. 2000, c. M-5. Accessed URL on 10 March 2006.</ref> (Alberta's use of the notwithstanding clause was ultimately of no force or effect, since the definition of marriage is solely a federal jurisdiction and same-sex marriage was legalized nationwide with the ''[[Civil Marriage Act]]''.)<ref>McKnight, Peter. "Notwithstanding what?" ''[[The Vancouver Sun]]'', 21 January 2006, pg. C.4.</ref> The territory of Yukon also passed legislation once{{vague|date=May 2021}} that invoked the notwithstanding clause, but the legislation was never proclaimed in force.<ref>Library of Parliament, Parliamentary Information and Research Service, [http://www.parl.gc.ca/information/library/PRBpubs/bp194-e.htm#Section The Notwithstanding Clause of the Charter] {{Webarchive|url=https://web.archive.org/web/20061115221734/http://www.parl.gc.ca/information/library/PRBpubs/bp194-e.htm#Section |date=15 November 2006 }}, prepared by David Johansen, 1989, as revised May 2005. Retrieved 7 August 2006.</ref> In 2018, Ontario's provincial government threatened to invoke the notwithstanding clause after legislation changing the size of Toronto's city council in the middle of a municipal election campaign period was ruled unconstitutional by the [[Ontario Superior Court of Justice]]. The threat was dropped after the [[Ontario Court of Appeal]] overturned the lower court decision, ruling that the change was "unfair" but still constitutional.<ref>{{Cite web|url=https://www.canadianlawyermag.com/author/shannon-kari/the-charter-under-assault-16654/|title = The Charter under assault}}</ref>
+
+===Supreme Court of Canada in the amending formula===
+There has been a debate among legal scholars as to whether the [[Supreme Court of Canada]] is entrenched in the Constitution of Canada. The Supreme Court of Canada was not created by the constitution, rather the power to create a "Court of General Appeal for Canada" was granted to Parliament by s. 101 of the ''British North America Act, 1867''. Parliament proceeded to create the Supreme Court of Canada under the authority of s. 101 in 1875 by passing the ''[[Supreme Court Act]]'', which was an ordinary piece of legislation with no constitutional significance at the time.
+
+The Supreme Court of Canada was mentioned for the first time in a constitutional document by the ''Constitution Act, 1982''. The Supreme Court is referred to twice. First, s. 41 lists several amendments to the Constitution of Canada requiring unanimous consent. S. 41(d) includes the "composition of the Supreme Court of Canada" in this list. Second, s. 42(1) lists several amendments to the Constitution of Canada requiring the general amendment procedure. S. 42(1)(d) includes "subject to s. 41(d), the Supreme Court of Canada" in this list. Sections 41 and 42 of the ''Constitution Act, 1982'', thus appear to include the Supreme Court of Canada in the Constitution of Canada. However, this conclusion is questionable because the "Constitution of Canada" is expressly defined in s. 52(2) as a set of 30 instruments that does not include the ''Supreme Court Act''. Some scholars, including Peter Hogg, have suggested that the references to the Supreme Court of Canada in sections 41 and 42 are ineffective. They argue that these references are "anticipatory" and will become effective only if Parliament adds the ''Supreme Court Act'' to the list in s. 52(2). Other scholars, including Professor Cheffins, have argued that the ''Supreme Court Act'' is implied as entrenched into s. 52(2) because of sections 41 and 42. S. 52(2) uses the words "includes ..." to introduce the list of thirty instruments, suggesting that the provision does not contain an exhaustive list. The Supreme Court itself has confirmed in [[New Brunswick Broadcasting Co. v. Nova Scotia (Speaker of the House of Assembly)]], [1993] 1 S.C.R. 319 that s. 52(2) is not exhaustive, but has not yet ruled on whether the ''Supreme Court Act'' is included in the Constitution of Canada.
+
+In [[Reference re Supreme Court Act, ss. 5 and 6|''Reference re'' Supreme Court Act'', ss. 5 and 6'']] 2014 SCC 21, a majority of the Supreme Court ruled that clauses concerning the appointment of Justices from Quebec are entrenched.<ref>{{Cite web|url=http://scc-csc.lexum.com/scc-csc/scc-csc/en/item/13544/index.do|title=Supreme Court of Canada - SCC Case Information - Search|date=January 2001}}</ref>
+
+===Succession to the Throne Act, 2013===
+There was debate about whether the ''[[Succession to the Throne Act, 2013]]'', a federal statute, was a constitutional amendment that should have been passed under the constitutional amending formula requiring unanimous provincial consent. The Canadian Parliament passed the act to give its assent to the [[Succession to the Crown Act 2013|Succession to the Crown Bill]] (then still under debate in the [[Parliament of the United Kingdom]]), which aimed to remove male preference in the line of succession to Britain's throne, consistent with the [[Perth Agreement]] of the [[Commonwealth realms]]. Two professors of law from the Université Laval, Geneviève Motard and Patrick Taillon, began a lawsuit in the Quebec courts, arguing that the amendment should have been enacted using the unanimous amending formula under section 41. The Superior Court of Quebec and the Quebec Court of Appeal both rejected the claim, holding that, according to the ''[[Statute of Westminster, 1931]]'', a constitutional amendment is not required to match Canada's rules of succession to those of the [[United Kingdom]].<ref>[https://www.canlii.org/en/qc/qccs/doc/2016/2016qccs588/2016qccs588.html ''Motard c Canada (Procureur général)'', 2016 QCCS 588 (CanLII).]</ref><ref>[https://www.canlii.org/en/qc/qcca/doc/2019/2019qcca1826/2019qcca1826.html ''Motard v. Attorney General of Canada'', 2019 QCCA 1826 (CanLII).]</ref> The Supreme Court of Canada denied leave to appeal.<ref>[https://www.canlii.org/en/ca/scc-l/doc/2020/2020canlii29392/2020canlii29392.html ''Geneviève Motard, et al. v. Procureur général du Canada'', 2020 CanLII 29392 (SCC).]</ref>
+
+==References==
+{{reflist}}
+
+{{Constitution of Canada|amendments}}
+
+[[Category:Constitution of Canada]]
+[[Category:Constitutional amendments|Canada]]

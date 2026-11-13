@@ -1,0 +1,238 @@
+{{Short description|Cabinet committee of the Privy Council of Canada responsible for financial management}}
+{{Distinguish|Treasury Board of Canada Secretariat}}
+{{Redirect|Treasury Board|other uses|Treasury Board (disambiguation)}}
+{{Use Canadian English|date=April 2026}}
+{{Infobox organization
+| name                = Treasury Board of Canada
+| native_name         = {{lang|fr|Conseil du Trésor du Canada}}
+| native_name_lang    = fr
+| logo                = 
+| logo_size           = 
+| logo_alt            = 
+| logo_caption        = 
+| image               = 
+| image_size          = 
+| image_alt           = 
+| caption             = 
+| map                 = 
+| map_size            = 
+| map_alt             = 
+| map_caption         = 
+| abbreviation        = TB
+| named_after         = 
+| predecessor         = 
+| merged_into         = 
+| successor           = 
+| formation           = 1867
+| founder             = 
+| founding_location   = 
+| merger              = 
+| type                = Cabinet committee
+| status              = 
+| purpose             = 
+| headquarters        = 
+| location            = 
+| coordinates         = 
+| region_served       = 
+| products            = 
+| services            = 
+| methods             = 
+| fields              = 
+| num_members         = Appointment by [[Prime Minister of Canada]]
+| num_members_year    = 
+| language            = 
+| secretary_general   = 
+| leader_title        = [[President of the Treasury Board]]
+| leader_name         = [[Shafqat Ali]]
+| leader_title2       = 
+| leader_name2        = 
+| key_people          = 
+| main_organ          = 
+| parent_organization = {{hlist|[[Queen's Privy Council for Canada|Privy Council]]|[[Cabinet of Canada|Cabinet]]}}
+| subsidiaries        = 
+| secessions          = 
+| affiliations        = 
+| budget              = 
+| budget_year         = 
+| revenue             = 
+| revenue_year        = 
+| disbursements       = 
+| expenses            = 
+| expenses_year       = 
+| endowment           = 
+| num_staff           = [[Treasury Board of Canada Secretariat]]
+| website             = {{URL|https://www.canada.ca/en/treasury-board-secretariat/corporate/about-treasury-board.html}}
+| remarks             = 
+| former_name         = 
+| footnotes           = 
+| extinction          = 
+}}
+The '''Treasury Board''' '''of Canada''' ({{langx|fr|Conseil du Trésor du Canada}}) is the [[Cabinet of Canada|Cabinet]] committee of the [[Queen's Privy Council for Canada|Privy Council of Canada]] which oversees the spending and operation of the [[Government of Canada]] and is the principal employer of the core [[Public Service of Canada|public service]].<ref name=":0">{{Cite web|last=Smith|first=Alex|date=23 April 2009|title=The Roles and Responsibilities of Central Agencies|url=https://central.bac-lac.gc.ca/.item?id=2009-01-eng&op=pdf&app=Library|publisher=[[Library of Parliament]]|type=Background paper}}</ref> The committee is supported by the [[Treasury Board of Canada Secretariat]], its administrative branch and a department within the government itself.
+
+The committee is chaired by the [[president of the Treasury Board]], currently [[Shafqat Ali]], who is also the minister responsible for the Treasury Board of Canada Secretariat.
+
+==Role==
+The [[Canadian Cabinet]] is arranged into several committees with varying responsibilities, but all other ones are informal structures and frequently change. Currently organized under the ''[[Financial Administration Act]]'',<ref>{{cite web |url=http://laws.justice.gc.ca/en/showdoc/cs/F-11/bo-ga:l_I/20090923/en#anchorbo-ga:l_I |title=Financial Administration Act. Part I: Organization. Treasury Board |publisher=[[Department of Justice (Canada)]] |year=1985 |access-date=September 25, 2009}}</ref> the Treasury Board is the only one created by law and is officially a committee of the Privy Council.
+
+Its role in government makes it far more powerful than most Cabinet committees as it is responsible for "accountability and ethics, financial, personnel and administrative management, [[comptroller]]ship, approving regulations and most [[Orders-in-Council]]".<ref name=":1">{{cite web |url=http://www.tbs-sct.gc.ca/tbs-sct/abu-ans/tb-ct/abu-ans-eng.asp |title=About the Treasury Board |publisher=Treasury Board Secretariat |access-date=June 9, 2011}}</ref> It is also unique in that its committee chair, the president of the Treasury Board, is a member of Cabinet by virtue of holding that office—other Cabinet committees are chaired by ministers holding seats in Cabinet by virtue of some other office.
+
+It has administered since February 2009 the ''Values and Ethics Code for the Public Sector'' through its [[Office of the Chief Human Resources Officer]]. It took on this role from the [[Canada Public Service Agency]].<ref name="tbs1">{{cite news |url=https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=25049 | title=Values and Ethics Code for the Public Sector | date=15 December 2011 }}</ref>
+
+=== Expenditure management ===
+The Treasury Board oversees the expenditures of the federal government. [[Minister (government)|Ministers]] submit funding proposals on behalf of their departments to seek financial approval for programs and policies approved in the [[Canadian federal budget|federal budget]] or by Cabinet. The president of the Treasury Board is responsible for presenting the [[Estimates]] from these submissions to [[Parliament of Canada|Parliament]]. The Estimates are prepared by the Secretariat in collaboration with the [[Department of Finance (Canada)|Department of Finance Canada]].<ref name=":0" />
+
+=== Management and performance policies and principal employer ===
+The Treasury Board, on advice of the Secretariat, sets policies regulating the authority of ministers and [[Deputy minister (Canada)|deputy ministers]] to administer and manage their departments, ensuring a government-wide approach to administration.
+
+As the principal employer of the Government of Canada, it is responsible for labour relations, collective bargaining, and pension and benefits across the core public administration.
+
+== Secretariat ==
+{{Main|Treasury Board of Canada Secretariat}}
+The Treasury Board is supported by the Treasury Board of Canada Secretariat, a federal department which acts as a central agency of the Government of Canada and is administered by members of the public service. The role of the Secretariat is to advise members the Treasury Board, develop policies for approval and administer certain programs on behalf of the Treasury Board.<ref name=":0" />
+
+==Membership==
+The Treasury Board is composed of six Cabinet ministers, always including its president and the [[Canadian Minister of Finance|minister of finance]]. The current members, as of May 2, 2025, are as follows:<ref>{{cite web |url=https://pm.gc.ca/en/cabinet-committee-mandate-and-membership |title = Cabinet Committee Mandate and Membership}}</ref>
+{| class="wikitable"
+|+Membership of the Treasury Board of Canada
+!Member
+!Ministerial portfolio
+!Notes
+|-
+|[[Shafqat Ali]]
+|[[President of the Treasury Board]]
+|Chair
+|-
+|[[François-Philippe Champagne]]
+|[[Minister of Finance|Minister of Finance and National Revenue]]
+|Vice-chair
+|-
+|[[Joël Lightbound]]
+|[[Minister of Government Transformation, Public Services and Procurement]]
+|Member
+|-
+|[[Julie Dabrusin]]
+|[[Minister of Environment and Climate Change]]
+|Member
+|-
+|[[Marjorie Michel]]
+|[[Minister of Health]]
+|Member
+|-
+|[[Maninder Sidhu]]
+|[[Minister of International Trade Diversification|Minister of International Trade]]
+|Member
+|}
+There are also a number of alternate members, who may attend Treasury Board meetings in the event of conflicts of interest. The [[Prime Minister of Canada|prime minister]], through a [[Governor-in-Council|Governor in Council]] appointment, may designate as many alternate members as the committee may need. As of May 19, 2025, the following are alternate members of the Treasury Board:
+{| class="wikitable"
+|+Alternate members of the Treasury Board of Canada
+!Alternate member
+!Ministerial portfolio
+|-
+|[[Randy Boissonnault]]
+|[[Minister of Employment, Workforce Development and Official Languages]]
+|-
+|[[Jean-Yves Duclos]]
+|[[Minister of Public Services and Procurement]]
+|-
+|[[Sean Fraser (politician)|Sean Fraser]]
+|[[Minister of Housing, Infrastructure and Communities]]
+|-
+|[[Gudie Hutchings]]
+|[[Minister of Rural Economic Development]] and [[Minister responsible for the Atlantic Canada Opportunities Agency]]
+|-
+|[[Mary Ng]]
+|[[Minister of Export Promotion, International Trade and Economic Development]]
+|-
+|[[Carla Qualtrough]]
+|[[Minister of Sport and Physical Activity]]
+|-
+|[[Dan Vandal]]
+|[[Minister of Northern Affairs]], [[Minister responsible for Prairies Economic Development Canada]], and [[Minister responsible for the Canadian Northern Economic Development Agency]]
+|-
+|[[Jonathan Wilkinson]]
+|[[Minister of Energy and Natural Resources]]
+|}
+
+==See also==
+* [[Canada security clearance|Security clearances]]
+* [[Info Source]]
+* [[Common Look and Feel]]
+
+===Related legislation===
+* ''[[Access to Information Act]]''
+* ''[[Auditor General Act]]''
+* [[Official Languages Act (Canada)|''Official Languages Act'']]
+* ''[[Privacy Act, 1983]]''
+* ''[[Security of Information Act]]''
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+*{{cite web
+|url=https://www.canada.ca/en/privy-council/services/publications/memoranda-cabinet/drafters-guide-documents.html
+|title=A Drafter's Guide to Cabinet Documents
+|date=2018-02-22
+|author=PCO
+|author-link=Privy Council Office (Canada)
+|publisher=Government of Canada
+}}
+*{{cite web
+|url=https://www.canada.ca/en/treasury-board-secretariat/services/treasury-board-submissions/comparing-types-cabinet-papers.html
+|title=Comparing Types of Cabinet Papers
+|date=2013-12-31
+|author=Treasury Board Secretariat
+|publisher=Government of Canada
+}}
+*{{cite web
+|url=https://www.canada.ca/en/privy-council/services/publications/memoranda-cabinet.html
+|title=Memoranda to Cabinet
+|date=2017-12-07
+|author=PCO
+|author-link=Privy Council Office (Canada)
+|publisher=Government of Canada
+}}
+*{{cite web
+|url=https://www.canada.ca/en/treasury-board-secretariat/services/treasury-board-submissions/business-treasury-board.html
+|title=The Business of the Treasury Board
+|date=2016-07-15
+|author=Treasury Board Secretariat
+|publisher=Government of Canada
+}}
+*{{cite web
+|url=https://www.tbs-sct.gc.ca/pubs_pol/opepubs/TBM_162/gptbs-gppct01-eng.asp
+|title=ARCHIVED - A Guide to Preparing Treasury Board Submissions
+|date=2011-06-02
+|author=Treasury Board Secretariat
+|publisher=Government of Canada
+}}
+*{{cite web
+|url=https://www.bac-lac.gc.ca/eng/services/government-information-resources/guidelines/generic-valuation-tools/Pages/treasury-board-submissions.aspx
+|title=Treasury Board Submissions
+|date=2017-05-26
+|author=Library and Archives Canada
+|publisher=Government of Canada
+}}
+*{{cite web
+|url=http://www.fmi.ca/media/869808/ENG_GIBBY.pptx
+|title=Better government with partners, for Canadians: Memorandum to Cabinet and Treasury Board Submission - Why They Are Major Tools for Government
+|date=June 2016
+|author=Treasury Board Secretariat
+|publisher=Government of Canada
+}}
+*{{cite web
+|url=https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25487
+|title=Archived - Access to Information Guidelines - Confidences of the Queen's Privy Council for Canada
+|date=1999-12-01
+|author=Treasury Board Secretariat
+|publisher=Government of Canada
+}}
+
+==External links==
+* [http://www.tbs-sct.gc.ca/ Treasury Board of Canada Secretariat]
+* [http://www.tbs-sct.gc.ca/tbs-sct/abu-ans/tb-ct/former-anciens-eng.asp Former Presidents of the Treasury Board]
+
+{{Coord|45.4189|N|75.6970|W|source:wikidata|display=title}}
+
+[[Category:Government of Canada]]
+[[Category:Committees]]

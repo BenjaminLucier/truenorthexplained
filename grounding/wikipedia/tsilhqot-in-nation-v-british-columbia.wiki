@@ -1,0 +1,73 @@
+{{Short description|2014 Supreme Court of Canada case}}
+{{Use dmy dates|date=June 2014}}
+{{Use Canadian English|date=June 2014}}
+{{Infobox SCC
+  |case-name= Tsilhqotʼin Nation v British Columbia
+  |full-case-name=
+  |heard-date=7 November 2013
+  |decided-date=26 June 2014
+  |citations=  2014 SCC 44
+  |docket= 34986
+  |history=Appealed from British Columbia
+  |subsequent=
+  |ruling= Appeal allowed
+  |ratio=
+  |SCC=2013-2014
+  |Unanimous=McLachlin
+  |Majority=
+  |JoinMajority=
+  |Concurrence=
+  |JoinConcurrence=
+  |Concurrence/Dissent=
+  |JoinConcurrence/Dissent=
+  |Dissent=
+  |JoinDissent=
+  |NotParticipating=
+  |LawsApplied=
+}}
+'''''Tsilhqotʼin Nation v British Columbia'''''<ref>{{cite CanLII|litigants='''Tsilhqotʼin Nation v British Columbia'''|year=2014|court=scc|num=44|parallelcite=}}</ref> is a landmark decision of the [[Supreme Court of Canada]] that established [[Aboriginal land title in Canada|Aboriginal land title]] for the [[Tsilhqotʼin]] First Nation, with larger effects. As a result of the landmark decision, provinces cannot unilaterally claim a right to engage in clearcut logging on lands protected by Aboriginal title; they must engage in meaningful consultation with the title holder before they proceed. Although the Aboriginal title holder does not have to consent to the activity, meaningful consultation is required before infringement of the right can take place.<ref name="star">{{cite news | url=https://www.thestar.com/news/canada/2014/06/26/supreme_court_grants_land_title_to_bc_first_nation_in_landmark_case.html | title=Supreme Court grants land title to B.C. First Nation in landmark case | first=Tonda | last=MacCharles | newspaper=Toronto Star | date=26 June 2014 | accessdate=26 June 2014}}</ref>
+
+== Background ==
+In 1983, the province of [[British Columbia]] issued a licence to Carrier Lumber to cut trees in lands that included remote central British Columbia territory which was claimed by the [[Xeni Gwetʼin]] band of the Tsilhqotʼin. The Tsilhqotʼin are a semi-nomadic group of [[First Nations in Canada|First Nations]] people who had lived in the area for centuries, managing these lands and repelling invaders. The Xeni Gwetʼin blockaded the area, preventing Carrier from logging. The company conducted unsuccessful negotiations with the provincial government to continue logging.<ref>SCC, para 5</ref> The Xeni Gwetʼin filed suit seeking a court declaration that would prohibit Carrier Lumber's commercial logging operations in this area, and establish their claim for Aboriginal title to the land, which was part of their historical territory.
+
+== Lower courts ==
+
+At trial, which lasted five years, both the federal and provincial governments opposed the title claim. The trial judge applied a test for Aboriginal title that examined whether the Xeni Gwet'in regularly and exclusively used the sites or territory within the claim area. The trial judge rejected the title claim for procedural reasons. 
+
+In 2012, the decision was appealed to the [[British Columbia Court of Appeal]], where the court upheld the decision that the Tsilhqotʼin did not hold title to these lands, except for limited situations.<ref>SCC, para 8</ref> The court applied a more stringent title test that examined site-specific occupation of definite tracts of land at the time of European sovereignty.
+
+== Decision of the Supreme Court ==
+
+The Supreme Court, led by [[Beverly McLachlin]], unanimously allowed the appeal. They ruled that  the Tsilhqotʼin did have a claim of Aboriginal title to the {{convert|1750|km2|mi2}} they had historically occupied.
+
+=== Aboriginal title ===
+
+The court held that Aboriginal title constitutes a beneficial interest in the land, the underlying control of which is retained by the Crown.<ref>SCC, para 70</ref> Rights conferred by Aboriginal title include the right to decide how the land will be used; to enjoy, occupy and possess the land; and to proactively use and manage the land, including its natural resources.<ref>SCC, par 73</ref> But, the court set out a ''[[R v Sparrow|Sparrow]]''-style mechanism by which the Crown can override Aboriginal title in the public interest:
+
+# the Crown must have carried out consultation and accommodation;
+# the Crown's actions must have been supported by a compelling and substantial objective; and
+# the Crown's action must have been consistent with its fiduciary obligation to the Aboriginal body in question.<ref>SCC, para 77</ref>
+
+==See also==
+
+* [[Aboriginal land title in Canada]]
+* ''[[Calder v British Columbia (AG)]]'' (1971)
+* ''[[R v Guerin|Guerin v The Queen]]'' (1984)
+* ''[[R v Sparrow]]'' (1990)
+* ''[[Delgamuukw v British Columbia]]'' (1997)
+* [[Grassy Narrows First Nation v. Ontario (Natural Resources)]] (2014)
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://scc-csc.lexum.com/scc-csc/scc-csc/en/item/14246/index.do ''Tsilhqotʼin Nation v. British Columbia'' at the Supreme Court of Canada]
+
+{{Canadian Aboriginal case law}}
+
+[[Category:Supreme Court of Canada cases]]
+[[Category:2014 in Canadian case law]]
+[[Category:Aboriginal title case law in Canada]]
+[[Category:Land use]]
+[[Category:Tsilhqot'in]]
+[[Category:Forestry in Canada]]

@@ -1,0 +1,179 @@
+# Wikipedia pages fetched by `pnpm grounding --only wikipedia`.
+#
+# Grouped by topic. Each entry is an English Wikipedia page title exactly as it
+# appears in the page's URL (spaces or underscores both work). Redirects are
+# resolved through the API, and the file is named after the title it resolves to.
+# A title that doesn't exist is reported and skipped, never guessed.
+#
+# To add a page: add its title under the right topic and re-run the script.
+# To drop a page: remove it here; the script deletes its files on the next run.
+
+canada:
+  - Canada
+  - Politics of Canada
+  - Demographics of Canada
+  - Immigration to Canada
+  - Official bilingualism in Canada
+  - Canadian Confederation
+
+constitution:
+  - Constitution of Canada
+  - Constitution Act, 1867
+  - Constitution Act, 1982
+  - Patriation
+  - Amendments to the Constitution of Canada
+  - Constitutional convention (political custom)
+  - Statute of Westminster 1931
+  - Royal Proclamation of 1763
+  - Meech Lake Accord
+  - Charlottetown Accord
+  - Clarity Act
+  - Reference Re Secession of Quebec
+
+crown:
+  - Monarchy of Canada
+  - Governor General of Canada
+  - Lieutenant governor (Canada)
+  - Reserve power
+  - King–Byng affair
+  - Republicanism in Canada
+  - List of governors general of Canada
+  - List of Canadian monarchs
+
+parliament:
+  - Parliament of Canada
+  - House of Commons of Canada
+  - Senate of Canada
+  - Question Period
+  - Royal assent
+  - Confidence and supply
+  - Motion of no confidence
+  - Prorogation in Canada
+  - Parliamentary Budget Officer
+  - Reference Re Senate Reform
+
+executive:
+  - Prime Minister of Canada
+  - List of prime ministers of Canada
+  - Cabinet of Canada
+  - King's Privy Council for Canada
+  - Privy Council Office (Canada)
+  - Prime Minister's Office (Canada)
+  - Treasury Board of Canada
+  - Responsible government
+  - Minority government
+
+elections:
+  - Elections in Canada
+  - Elections Canada
+  - Electoral district (Canada)
+  - First-past-the-post voting
+  - List of Canadian federal political parties
+  - Liberal Party of Canada
+  - Conservative Party of Canada
+  - New Democratic Party
+  - Bloc Québécois
+  - Green Party of Canada
+  - Progressive Conservative Party of Canada
+  - 2025 Canadian federal election
+
+federalism:
+  - Canadian federalism
+  - Section 91 of the Constitution Act, 1867
+  - Section 92 of the Constitution Act, 1867
+  - Peace, order, and good government
+  - Paramountcy (Canada)
+  - Equalization payments in Canada
+  - Canada Health Transfer
+  - Canada Health Act
+  - Council of the Federation
+  - Municipal government in Canada
+  - Quebec sovereignty movement
+
+government:
+  - Bank of Canada
+  - Royal Canadian Mint
+  - Crown corporation
+  - Auditor General of Canada
+  - Public Service of Canada
+  - Canadian federal budget
+  - Royal Canadian Mounted Police
+
+law:
+  - Supreme Court of Canada
+  - Court system of Canada
+  - Chief Justice of Canada
+  - Judicial Committee of the Privy Council
+  - Canadian criminal law
+  - Criminal Code (Canada)
+  - Civil Code of Quebec
+  - Canadian Western Bank v Alberta
+  - Judicial independence
+  - Reference question
+  - Persons Case
+
+charter:
+  - Canadian Charter of Rights and Freedoms
+  - Section 1 of the Canadian Charter of Rights and Freedoms
+  - Section 15 of the Canadian Charter of Rights and Freedoms
+  - Section 33 of the Canadian Charter of Rights and Freedoms
+  - R v Oakes
+  - Canadian Bill of Rights
+  - Charter of the French Language
+  - Act respecting the laicity of the State
+  - Ford v Quebec (AG)
+  - Vriend v Alberta
+  - Carter v Canada (AG)
+
+indigenous:
+  - Section 35 of the Constitution Act, 1982
+  - Indian Act
+  - Numbered Treaties
+  - Indigenous peoples in Canada
+  - First Nations in Canada
+  - Inuit
+  - Métis in Canada
+  - Aboriginal title
+  - Calder v British Columbia (AG)
+  - Delgamuukw v British Columbia
+  - Tsilhqot'in Nation v British Columbia
+  - Haida Nation v British Columbia (Minister of Forests)
+  - Duty to consult and accommodate
+  - Canadian Indian residential school system
+  - Truth and Reconciliation Commission of Canada
+  - Nisga'a Final Agreement
+  - Nunavut Land Claims Agreement
+  - United Nations Declaration on the Rights of Indigenous Peoples Act (Canada)
+  - Declaration on the Rights of Indigenous Peoples Act (British Columbia)
+
+provinces:
+  - Provinces and territories of Canada
+  - Alberta
+  - British Columbia
+  - Manitoba
+  - New Brunswick
+  - Newfoundland and Labrador
+  - Northwest Territories
+  - Nova Scotia
+  - Nunavut
+  - Ontario
+  - Prince Edward Island
+  - Quebec
+  - Saskatchewan
+  - Yukon
+  - Politics of Alberta
+  - Politics of British Columbia
+  - Politics of Manitoba
+  - Politics of New Brunswick
+  - Politics of Newfoundland and Labrador
+  - Politics of the Northwest Territories
+  - Politics of Nova Scotia
+  - Politics of Nunavut
+  - Politics of Ontario
+  - Politics of Prince Edward Island
+  - Politics of Quebec
+  - Politics of Saskatchewan
+  - Consensus government in Canada
+  - Alberta Act
+  - Manitoba Act, 1870
+  - Red River Resistance

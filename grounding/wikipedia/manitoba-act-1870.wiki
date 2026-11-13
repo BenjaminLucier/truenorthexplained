@@ -1,0 +1,164 @@
+{{Short description|Part of the Constitution of Canada establishing Manitoba}}
+{{Use Canadian English|date=July 2025}}
+{{Use mdy dates|date=October 2017}}
+{{Infobox legislation
+|short_title        = ''Manitoba Act, 1870''<br>''Loi de 1870 sur le Manitoba''
+|image              = Centre Block - Parliament Hill.jpg
+|legislature        = Part of the [[Constitution of Canada]]
+|citation           = {{bulleted list | [https://www.canadiana.ca/view/oocihm.9_08050_3/38 SC 1870, c. 3] (original citation – English) | [https://www.canadiana.ca/view/oocihm.9_01839_3/28 SC 1870, c. 3] (original citation – French) | [https://primarydocuments.ca/wp-content/uploads/2017/12/ManAct81870May12.pdf RSC 1985, App. II, No. 8] (alternative citation – bilingual)}}
+|territorial_extent = [[Canada]]
+|considered_by      = {{bulleted list | Negotiations between representatives of the provisional government of Red River and the federal government | [[Senate of Canada]] | [[House of Commons of Canada]]}}
+|enacted_by         = [[Parliament of Canada]]
+|date_enacted       = 
+|assented_by        = 
+|royal_assent       = May 12, 1870
+|date_commenced     = July 15, 1870
+|original_text      = https://www.canadiana.ca/view/oocihm.9_08050_3/38
+|revised_text       = 
+|status             = current
+}}
+{{italic title}}
+The '''''Manitoba Act, 1870''''' ({{langx|fr|'''Loi de 1870 sur le Manitoba'''}})<ref name=":3">Originally entitled (until renamed in 1982) ''An Act to amend and continue the Act 32 and 33 Victoria, chapter 3; and to establish and provide for the Government of the Province of Manitoba.''</ref> is one of the enactments which make up the [[Constitution of Canada]]. It created the province of [[Manitoba]] and admitted it as the fifth [[Provinces and territories of Canada|province of Canada]].  The act also created the legislature and government of Manitoba, set out land rights for the Métis people, defined language rights, and dealt with denominational schools.<ref name=":9">Rea, J.E., Jeff Scott, and Andrew McIntosh. February 7, 2006. "[https://www.thecanadianencyclopedia.ca/en/article/manitoba-act Manitoba Act]." ''Canadian Encyclopedia'' (last updated January 7, 2021).</ref><ref name=":10" />
+
+Receiving royal assent on May 12, 1870, the act also continued in force ''An Act for the Temporary Government of Rupert's Land and the North-Western Territories when united with Canada''<ref name=":10">{{Cite canlaw|short title  =An Act for the Temporary Government of Rupert's Land and the North-Western Territories when united with Canada|abbr =S.C.|year =1869|chapter = 3|link= https://books.google.ca/books?id=I-gDAAAAQAAJ&lpg=PA59&ots=756R6rG4eO&pg=PA19#v=onepage&f=false}}</ref> upon the absorption of the [[British Canada|British]] territories of [[Rupert's Land]] and the [[North-Western Territory]] into Canada on July 15, 1870.
+
+Hoping to decrease tension, the act marked the legal resolution of the fight for [[self-determination]] between the federal government and the people (particularly the [[Métis in Canada|Métis]]) of the [[Red River Colony]], which began in 1870 with Canada's purchase of Rupert's Land.<ref name=":9" />
+
+Many negotiations and uprisings came with this act, some of which are still not settled today. One area of contention was that the Métis people were not familiar with the enforcement of laws, and the concept of deeds and money – this resulted in many Métis people being cheated out of the land that was supposed to be theirs. While the act included protections for the region's Métis, these protections were not fully realized and resulted in many Métis leaving the province for the [[Northwest Territories#History|North-West Territories]].<ref name=":9" />
+
+== Background ==
+{{multiple image
+ | align = right
+ | direction = vertical
+ | footer = Canada before and after receiving Rupert's Land and the North-Western Territory; the Province of [[Manitoba]] was created simultaneously
+ | image1 = Canada provinces 1867-1870.png
+ | image2 = Canada provinces 1870-1871.png
+}}
+The [[Manitoba|Province of Manitoba]] was previously the area settled by the people of the [[Red River Colony]].
+
+This area was originally a part of [[Rupert's Land]], which was where the fur traders did the majority of their hunting and trapping. Rupert's Land was controlled by the [[Hudson's Bay Company]] (HBC), the largest fur trading company of its time. In the late 1860s, the HBC surrendered the land to the [[British Crown]], through the ''[[Rupert's Land Act 1868]]''. This caused severe controversy, specifically in the area of the Red River Colony: in the eyes of the [[British Crown]] and the Canadian government, the land was seen to be owned by the HBC, even though Indigenous and Métis people lived there. The Canadian government paid [[Pound Sterling|£]]300,000 for Rupert's Land, becoming the largest land purchase to date for the Canadian government.<ref name=":4">{{Cite journal|last=Galbraith|first=John S.|author-link = John Semple Galbraith|date=1949|title=The Hudson's Bay Land Controversy, 1863–1869|jstor=1893017|journal=The Mississippi Valley Historical Review|volume=36|issue=3|pages=457–478|doi=10.2307/1893017}}</ref>
+
+Once the Canadian government claimed the land from the HBC, they began to set up members of Parliament. [[William McDougall (politician, born 1822)|William McDougall]] was appointed to be the lieutenant governor of Rupert's Land and the [[North-Western Territory]] in 1869.<ref name=":2">{{Cite journal|last=Daugherty|first=Wayne|date=1983|title=Treaty Research Report Treaty One and Treaty Two (1871)|journal=Indian and Northern Affairs Canada}}</ref> In September 1869, McDougall set out to Red River, accompanied by many administrative officers.<ref name=":2" /> The Métis were not consulted upon these government actions, thus causing a great amount of uproar and distress.
+
+=== Rise of the Métis ===
+The Métis became aware of the new government attempting to control their territory. A [[popularly elected]] convention supported the creation of a [[provisional government]].<ref name=":9" />
+
+However, many of the Métis people did not have the ability to understand all the legal action due to a lack of education and experience. As result, [[Louis Riel]] was positioned leader for the Métis people,<ref name=":0">{{Cite web|title=Louis Riel|url=https://library.usask.ca/northwest/background/riel.htm|access-date=2018-03-26|website=library.usask.ca}}</ref> due to his educational experience from his time spent at school training to be a priest and lawyer, even though he never finished his schooling.<ref name=":0" /> As the Red River Colony was a bilingual area, Riel's ability to speak both French and English was also a huge advantage.<ref name=":0" /> Riel and his supporters thereby created a provisional government, which was considered illegal by the federal government; this time period is known as the [[Red River Resistance]] (or Red River Rebellion).<ref name=":4" />
+
+Riel and the Métis prepared for the arrival of William McDougall and his accompanying administrative officers. Once they arrived at the border of the Red River Colony at the [[49th parallel north|49th Parallel]], they encountered the armed party of the Métis, who denied them entry into the colony by creating a barrier. McDougall did not give up his efforts at that point, instead staying in [[Pembina Region|Pembina]] for approximately a month's time, attempting to control the area.<ref name=":4" /> The Métis actions separated the Canadian party due to their barriers, while some were captured and held in jail at Fort Garry.<ref name=":8">{{Cite journal|last=St-onge|first=Nicole J.M|date=1985|title=The Dissolution of a Metis Community|journal=Studies in Political Economy|volume=18|pages=149–172|doi=10.1080/19187033.1985.11675607|s2cid=38667200}}</ref> On December 16, McDougall gave up his efforts for the time being. The Canadian government created a new expedition in attempts to establish sovereignty and establish a political solution.<ref name=":8" />
+
+The Red River Resistance started out as a non-violent protest and uprising toward the Canadian government. Riel and his people had occupied [[Fort Garry]]. A group of Ontario settlers who were opposed to the Riel uprising set out to the fort. This caused 45 men to be incarcerated in the fort by Riel and his people. While these men were incarcerated, a major historical event occurred. A man by the name of [[Thomas Scott (Orangeman)|Thomas Scott]] was executed while being held captive at the fort on March 4, 1870. This event has been analysed by many historians because it is hotly disputed why Scott was executed. The execution of Thomas Scott had a great impact on how the Canadian government and its supporters viewed the Métis. People were so outraged that when Riel was to make appearances at Parliament he did not attend in fear of getting himself killed.<ref name=":53">{{Cite journal|last=Richtik|first=James M.|date=1975|title=The Policy Framework for Settling the Canadian West 1870–1880|jstor=3741487|journal=Agricultural History|volume=49|issue=4|pages=613–628}}</ref> Despite the execution, the Canadian government was still working towards sovereignty.
+
+The ''Manitoba Act, 1870'' made the Red River Colony a part of Canada and created the province of Manitoba. Even with the ''Manitoba Act, 1870'' in place, much work was to be done with the settling of land rights. Before land rights were settled, Sir [[John A. Macdonald]] sent a military expedition to Manitoba, led by Colonel Garnet Wolseley. This Red River Expedition became known as the [[Wolseley expedition]]. The government portrayed this expedition as non-punitive; however, the militiamen wanted to avenge the death of Thomas Scott. The ensuing chaos and retribution against the Métis population was labelled "The Reign of Terror" by newspapers in eastern Canada and the United States.<ref>{{cite web |title=The reign of Terror Against the Métis of Red River |first=Lawrence |last=Barkwell |publisher=Louis Riel Institute |url=http://www.metismuseum.ca/media/document.php/149078.THE%20REIGN%20OF%20TERROR%20revised.pdf }}</ref><ref>{{Cite web|url=https://www.thecanadianencyclopedia.ca/en/article/red-river-expedition|title = Red River Expedition &#124; the Canadian Encyclopedia}}</ref> Many Métis fled to Saskatchewan, while Louis Riel fled to the United States at this time.<ref name=":53" />
+
+=== Government ===
+Manitoba entered [[Canadian Confederation|Confederation]] as a province. English and French-language rights were safeguarded in the new legislature and the courts, as were Protestant and Roman Catholic educational rights. The right to education in either English or French, however, was not protected.
+
+Ottawa agreed to pay subsidies to the provincial government. Roughly {{Convert|1.4|e6acres|km2||abbr=}} of land ([[Legislative Assembly of Assiniboia|Assiniboia district]]) were set aside specifically for the betterment of the Métis nation. The province received four seats in the federal Parliament, which was a strong representation considering the small population.<ref name=":9" /><ref>{{Citation|title=Manitoba|date=1967-12-31|pages=121–150|chapter=6. The Resistance of the Red River Métis, 1869–1871|publisher=University of Toronto Press|doi=10.3138/9781487578039-009|isbn=978-1-4875-7803-9}}</ref>
+
+John A. Macdonald and [[George-Étienne Cartier]] were both leading figures in the establishment of the [[Province of Manitoba]] during 1870. These two men shared personal alliances which made their conjunction a strong one when it came to political movements.<ref name=":5">{{Cite book|title=The Manitoba Act|last=Cappon|publisher=Queens Quarterly|year=1904|location=Kingston, Ontario|pages=1–4}}</ref>
+
+== Métis list of rights ==
+The [[Métis]] have traditionally been known to come from the Red River Colony. In areas such of the Red River Colony, the Métis came as result of many European trappers marrying and having children with the Indigenous women of the area.<ref name=":1">{{Cite journal|last=Sawchuk|first=Joe|date=2001|title=Negotiating an Identity: Métis Political Organizations, the Canadian Government, and Competing Concepts of Aboriginality|journal=The American Indian Quarterly|language=en|volume=25|issue=1|pages=73–92|doi=10.1353/aiq.2001.0012|issn=1534-1828|s2cid=155081003}}</ref> Throughout the years, the definition of Métis have gone through many changes.<ref name=":1" /> Due to this part-European heritage, often being labelled "[[half-blood]]" or "[[half-breed]]s", the Métis have struggled with recognition as a distinct [[Aboriginal People of Canada|Aboriginal people]]. Métis are not identified under the ''[[Indian Act]]'' of Canada causing a great amount of controversy. As they are not [[settler]]s nor are they fully Indigenous, Métis people are known to be "[[self-identified]]".
+
+=== List of rights ===
+In the 1990s, there was a separate definition for 'Red River Métis', a term created for individuals whose families' Métis ancestry came from Red River.<ref name=":1" /> The Red River Métis were directly involved in many elements of consideration for the ''Manitoba Act, 1870'' – some requests were essential to be guaranteed by the Government of Canada in this act, such as the prospect of fishing was deemed to be limited to Métis people only, and that any parties intending to communicate with Métis people must be fluent in French.
+
+Four successive lists of rights were drafted by the provisional government.<ref name=":9" /> In summary, the final list demanded that Manitoba be admitted into Confederation as a province, not a territory; that the [[Lieutenant governor of Manitoba|lieutenant governor]] of the new province speak both French and English; and that members of the provisional government not face legal consequences for their actions in the [[Red River Rebellion|Rebellion]].
+
+The following is the fourth and final iteration of the list of some of the Red River Métis' demands for the act.<ref>Lawrence Barkwell, "Metis Lists of Rights: The Evolution of the List from the First to Fourth Iteration" (Louis Riel Institute).</ref><blockquote>'''May 9, 1870'''
+
+# That this province be governed:
+## By a Lieutenant-Governor, appointed by the [[Governor General of Canada|Governor-General of Canada]];
+## By a Senate;
+## By a [[Manitoba Legislature|Legislature]] chosen by the people with a responsible ministry.
+# That, until such time as the increase of the population in this country entitle us to a greater number, we have two representatives in the Senate and four in the Commons of Canada.
+# That in entering the Confederation the Province of the [[Northwest Territories|Northwest]] be completely free from the public debt of Canada; and if called upon to assume a part of the said debt of Canada, that it be only after having received from Canada the same amount for which the said Province of the Northwest should be held responsible.
+# That the annual sum of $80,000 be allotted by the Dominion of Canada to the [[Legislature of the Northwest Territories|Legislature of the Province of the Northwest]].
+# That all properties, rights and privileges enjoyed by us up to this day be respected, and that the recognition and settlement of customs, usages and privileges be left exclusively to the decision of the Local Legislature.
+# That this country be submitted to no direct taxation except such as may be imposed by the local legislature for municipal or other local purposes.
+# That the schools be separate, and that the public money for schools be distributed among the different religious denominations in proportion to their respective populations according to the system of the [[Province of Quebec]].
+# That the determination of the qualifications of members for the parliament of the province or for the parliament of Canada be left to the local legislature.
+# That in this province, with the exception of the [[Canadian indians|Indians]], who are neither civilized nor settled, every man having attained the age of 21 years, and every foreigner being a British subject, after having resided three years in this country, and being Possessed of a house, be entitled to vote at the elections for the members of the local legislature and of the Canadian Parliament, and that every foreigner other than a British subject, having resided here during the same period, and being proprietor of a house, be likewise entitled to vote on condition of taking the oath of allegiance. It is understood that this article is subject to amendment, by the local legislature exclusively.
+# That the bargain of the Hudson's Bay Company with respect to the transfer of government of this country to the Dominion of Canada, never have in any case an effect prejudicial to the rights of Northwest.
+# That the Local Legislature of this Province have full control over all the lands of the Northwest.
+# That a commission of engineers appointed by Canada explore the various districts of the Northwest, and lay before the Local Legislature within the space of five years a report of the mineral wealth of the country.
+# That treaties be concluded between Canada and the different Indian tribes of the Northwest, at the request and with the co-operation of the Local Legislature.
+# That an uninterrupted steam communication from Lake Superior to Fort Garry be guaranteed to be completed within the space of five years, as well as the construction of a railroad connecting the American railway as soon as the latter reaches the international boundary.
+# That all public buildings and constructions be at the cost of the Canadian Exchequer.
+# That both the English and French languages be common in the Legislature and in the Courts; and that all public documents as well as the acts of the Legislature be published in both languages.
+# That the Lieutenant-Governor to be appointed for the province of the Northwest be familiar with both the English and French languages.
+# That the Judge of the Supreme Court speak the English and French languages.
+# That all debts contracted by the Provisional government of the territory of the Northwest, now called [[Assiniboia]], in consequence of the illegal and inconsiderate measures adopted by Canadian officials to bring about a civil war in our midst, be paid out of the Dominion treasury, and that none of the Provisional government, or any of those acting under them, be in any way held liable or responsible with regard to the movement or any of the actions which led to the present negotiations.
+</blockquote>
+
+== Guarantees of the act ==
+
+=== Land ===
+In the Métis' favour, the ''Manitoba Act, 1870'' guaranteed that the Métis would receive the title for the land that they already farmed and in addition they would receive {{Convert|1.4|e6acres|km2||abbr=}} of farmland for the use of their children.<ref name=":53" /> This land was to be divided up through an application process.
+
+The act also set aside land for the Métis, with each family receiving a [[scrip]] (a certificate) saying they owned {{Convert|96|ha|m2||abbr=}}, amounting to a total of about 5{{Spaces|1|thin}}600&nbsp;km<sup>2</sup>.{{Clarify|reason=|date=January 2021}} The number of applications that the government was going to receive was greatly underestimated. The 1.4&nbsp;million acres of land was not enough for the number of applications. The Canadian government began giving money for land, the equivalent value of $1 per acre, which was the current land value at that time.
+
+Section 31 reads, in part:<ref>{{cite web|url=https://www.collectionscanada.gc.ca/metis-scrip/005005-3100-e.html|title=Manitoba Commissions: Claims Under Section 31|publisher=Library and Archives Canada|access-date=25 November 2018}}</ref>
+{{blockquote|And whereas, it is expedient, towards the extinguishment of the Indian Title to the lands in the Province, to appropriate a portion of such ungranted lands, to the extent of one million four hundred thousand acres thereof, for the benefit of the families of the half-breed residents, it is hereby enacted, that, under regulations to be from time to time made by the Governor General in Council, the Lieutenant-Governor shall select such lots or tracts in such parts of the Province as he may deem expedient, to the extent aforesaid, and divide the same among the children of the half-breed heads of families residing in the Province at the time of the said transfer to Canada, and the same shall be granted to the said children respectively, in such mode and on such conditions as to settlement and otherwise. as the Governor General in Council may from time to time determine.|sign=|source=}}
+
+=== Denominational schools ===
+The act contained a guarantee for religious [[separate schools|denominational schools]].<ref name=":53" /> Prior to the creation of the province, education was provided by church-run schools, either Catholic or Protestant. The act provided that residents of Manitoba could continue to have denominational schools, "which any class of persons have by Law or practice in the Province at the Union".
+
+In the 1890s, the provincial government ended public funding for denominational schools and provided funding only to public schools with limited religious education allowed. This action created tremendous controversy, both locally and nationally, in the [[Manitoba Schools Question]]. The courts ruled that the change was consistent with the provision in the act, and that it was up to the federal government to provide a remedy.
+
+The provision respecting education did not provide any guarantee of education in French. As a practical matter, the Catholic denominational schools used French and the Protestant schools used English. 
+
+When the Legislature abolished funding for denominational schools, it also required that almost all education in the public schools would be in English only.
+
+=== Language rights ===
+
+The act stated that all laws passed by the provincial Legislature had to be in both French and English, and published in both languages. It also provided that either English or French could be used in the Legislature. It also gave the right to use either language in any courts established by either Canada or the province. 
+
+In the 1890s, the provincial Legislature passed an ''Official Language Act'' which made English the only official language for the province and abolished the rights to use French. In 1985, the Supreme Court ruled that the ''Official Language Act'' was unconstitutional because it conflicted with the language guarantees in the ''Manitoba Act, 1870''.
+
+=== Parliament of Canada ===
+The act also provided for Manitoba to send four members to the [[House of Commons of Canada]] and two members to the [[Senate of Canada]].
+
+== Controversies ==
+Since the ''Manitoba Act, 1870'' was put into action, it has been adjusted and under review multiple times. Historian D. N. Sprague notes that the land assigned to the [[Métis in Canada|Métis]] in the ''Manitoba Act, 1870'' was later revised by government laws, which took land away from the Métis.<ref name=":8" /> To receive scrip for children living or deceased, proof of birth in Manitoba prior to 1871 was required. Proof could be in the form of a baptismal or death certificate from the church, or a letter from an employer such as the HBC.<ref name=":8" /> The legislature also enacted English-only laws, which were later found unconstitutional by the [[Supreme Court of Canada]] in the case ''[[Reference re Manitoba Language Rights]]'' (1985). The ''Manitoba Act, 1870'', and Section 31 in particular, was also used in the 2013 Supreme Court case ''Manitoba Métis Federation v. Canada and Manitoba''.<ref name=":6">[http://laws.justice.gc.ca/eng/Const/page-13.html#anchorsc:7-bo-ga:l_VII ''Constitution Act, 1982'', s. 52] and [http://laws.justice.gc.ca/eng/Const/page-14.html#anchorsc:8 Schedule, Item 2].</ref>
+
+=== Manitoba Schools Question ===
+{{Main |Manitoba Schools Question}}
+Most clauses in the ''Manitoba Act, 1870'' were agreed upon apart from one. Topics such as language and religion were safeguarded by the government and recognized by the Canadian court system. The clause on the right to English and French in educational systems was not safeguarded and was instead disputed amongst political figures. Notable people such as [[Pierre-Joseph-Olivier Chauveau]] and Liberal leader [[Alexander Mackenzie (politician)|Alexander Mackenzie]] had opposing views on the clause that would affect the right to education in French or English.<ref name=":5" />
+
+=== Section 31 ===
+Section 31 required the government to provide a tract of land to each Métis child upon reaching the age of 21 years, from a notional pool of 1.4&nbsp;million acres of land appropriated for this purpose. Métis families were promised a large amount of land through the ''Manitoba Act, 1870''. The government, however, did not grant the land until the land had been surveyed.<ref>{{Cite book|title=The confrontations at Riviere aux Ilets-de-Bois. Manitoba History|last=McCullough|first=A.B|publisher=Winnipeg : G. Bourdeau|year=1884|pages=67}}</ref> The act, therefore, ensured this process. However, the [[Canadian government]] later realized that the amount of land that was promised fell short compared to the number of Métis children entitled. This issue is what changed the process of receiving land by lottery draw through the Land Titles Office to money scrips. The government decided to allot money scrips in place of land, which could only be provided for the purchase of lands in government-owned parts of the [[Northwest Territories]].<ref name=":7">{{Cite journal|last=O’Toole|first=D.|date=2014|title=Section 31 of the ''Manitoba Act, 1870'': A Land Claim Agreement|journal=Manitoba Law Journal|volume=38|issue=1|pages=73–117|doi=10.29173/mlj915 |doi-access=free}}</ref> In a subsequent legal case regarding section 31, the Manitoba Court of Appeal held that "there was no request for, expectation of or consideration by Canada to create a Métis homeland or land base."<ref>[http://canlii.ca/t/2bgpf ''Manitoba Métis Federation'' v. ''Canada (Attorney General) et al.''], 2010 MBCA 71 at 238.</ref>
+
+=== Validity of the ''Manitoba Act, 1870'' ===
+Following the enactment of the ''Manitoba Act, 1870'', questions arose whether the federal Parliament had the constitutional authority to create new provinces by ordinary federal statute. To eliminate any uncertainty on this point, the Imperial Parliament enacted the ''[[Constitution Act, 1871]]'', which confirmed that the federal Parliament had the power to establish new provinces and provide for their constitutions.<ref>''[http://wikisophia.org/index.php?title=Constitution_Act,_1871_(annotated) Constitution Act, 1871]{{dead link|date=April 2024|bot=medic}}{{cbignore|bot=medic}}'', 34–35 Vict., c. 28 (U.K.), s. 2.</ref>
+
+== See also ==
+* [[History of Manitoba]]
+* [[Winnipeg]]
+* [[Timeline of Winnipeg history]]
+* [[Republic of Manitobah|Republic of Manitoba]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Wikisource|Manitoba Act 1870|Manitoba Act}}
+* [http://faculty.marianopolis.edu/c.belanger/QuebecHistory/encyclopedia/ManitobaAct.html L'Encyclopédie de l'histoire du Québec / The Quebec History Encyclopedia: Manitoba Act]
+* [https://web.archive.org/web/20050519222807/http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0005070 Canadian Encyclopedia: Manitoba Act]
+* [http://www.solon.org/Constitutions/Canada/English/ma_1870.html The Solon Law Archive: Manitoba Act 1870]
+
+{{Constitution of Canada|amendments|state=expanded}}
+
+[[Category:1870 in Canadian law]]
+[[Category:1870 in Canadian politics]]
+[[Category:May 1870 in Canada]]
+[[Category:1st Canadian Parliament]]
+[[Category:Canadian Constitutional Enactments]]
+[[Category:Canadian federal legislation]]
+[[Category:First premiership of John A. Macdonald]]
+[[Category:History of Canada]]
+[[Category:History of Manitoba]]
+[[Category:Legal history of Canada]]
+[[Category:Manitoba law]]
+[[Category:Political history of Manitoba]]

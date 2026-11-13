@@ -1,0 +1,139 @@
+{{Short description|2000 Canadian law on seccession}}
+{{Use Canadian English|date=January 2023}}
+{{Use dmy dates|date=October 2015}}
+{{for|the proposed US bill, sometimes called the CLARITY Act|Digital Asset Market Clarity Act}}
+{{Infobox legislation
+| short_title    = Clarity Act
+| legislature    = [[Parliament of Canada]]
+| long_title     = An Act to give effect to the requirement for clarity as set out in the opinion of the Supreme Court of Canada in the Quebec Secession Reference
+| citation       = S.C. 2000, c. 26
+| bill_citation  = Bill C-20
+| introduced_by  = 
+| territorial_extent = Canada
+| royal_assent   = 29 June 2000
+| commencement   = 
+| repeal_date    = 
+| replaces       = 
+| amends         = 
+| amendments     = 
+| related_legislation = 
+| repealing_legislation = 
+| status         = current
+| imagesize      = 130px
+}}
+{{Constitutional history of Canada}}
+{{italic title}}
+The '''''Clarity Act'''''<ref name=ca2000>''An Act to give effect to the requirement for clarity as set out in the opinion of the Supreme Court of Canada in the Quebec Secession Reference'', [http://laws-lois.justice.gc.ca/eng/acts/C-31.8/FullText.html S.C. 2000, c. 26] (''Clarity Act'').</ref> ({{langx|fr|Loi sur la clarté référendaire}}, known as '''Bill C-20''' before it became law) is legislation passed by the [[Parliament of Canada]] that established the conditions under which the Government of Canada would enter into negotiations that might lead to [[secession]] following such a vote by one of the provinces. The Clarity Bill (C-20) was tabled for first reading in the House of Commons on 13 December 1999. It was passed by the House on 15 March 2000, and by the [[Senate of Canada|Senate]], in its final version, on 29 June 2000.
+
+Although the law applies to all provinces, the ''Clarity Act'' was created in response to the [[1995 Quebec referendum]] and ongoing [[Quebec sovereignty movement|independence movement]] in that province. The content of the act was based on the [[Reference re Secession of Quebec|1998 secession reference]] to the [[Supreme Court of Canada]] made by the federal government of Prime Minister [[Jean Chrétien]]. Previously in 1996, a private member's bill, the ''[[Quebec Contingency Act]]'' (Bill C-341) was introduced to establish the conditions which would apply to a referendum regarding the separation of Quebec from Canada, but it did not proceed further than the first reading.
+
+Two days after the act had been introduced in the Canadian House of Commons, the [[Parti Québécois]] government passed ''[[An Act respecting the exercise of the fundamental rights and prerogatives of the Québec people and the Québec State]]'' in the [[National Assembly of Quebec]].
+
+==Background==
+
+===Ambiguity of referendum question===
+The motivation behind the act was largely based on the near separation vote of the [[1995 Quebec referendum]], in which the people of Quebec voted against the [[sovereignty]] option by a small margin (50.58% to 49.42%). Controversy surrounded the ambiguity and wording of the ballot question. In French, the question on the ballot asked:
+{{blockquote|{{lang|fr|Acceptez-vous que le Québec devienne souverain, après avoir offert formellement au Canada un nouveau partenariat économique et politique, dans le cadre du projet de loi sur l'avenir du Québec et de l'entente signée le 12 juin 1995 ?}}}}
+
+In English, the question on the ballot asked:
+{{blockquote|Do you agree that Quebec should become sovereign after having made a formal offer to Canada for a new economic and political partnership within the scope of the bill respecting the future of Quebec and of the agreement signed on June 12, 1995?}}
+
+Trilingual ballots were issued in communities in which Indigenous languages were commonly used.
+
+===Stéphane Dion and the three letters===
+Prime Minister Chrétien advised the governor general to appoint political scientist [[Stéphane Dion]] (first elected as [[Member of Parliament (Canada)|Member of Parliament]] for the [[Electoral district (Canada)|riding]] of [[Saint-Laurent–Cartierville]] in [[Montreal]] in 1996) as [[Minister of Intergovernmental Affairs (Canada)|Minister of Intergovernmental Affairs]] in 1996. Dion would challenge [[Quebec sovereigntist]] assertions about the legal validity of the 1995 Quebec referendum question in [[Stéphane Dion#Clarity Act|three open letters]] to Quebec Premier [[Lucien Bouchard]] and Quebec Intergovernmental Affairs Minister [[Jacques Brassard]].<ref name="PCO">{{cite web |author=Dion, Stéphane |publisher=Ministry of Intergovernmental Affairs Canada |date=11 August 1997 |url=http://www.pco-bcp.gc.ca/aia/index.asp?lang=eng&Page=archive&Sub=letters-lettres&Doc=19970811-eng.htm |title=Letter to Premier Lucien Bouchard Concerning his Position on a Unilateral Declaration of Independence |access-date=4 December 2006 |archive-date=6 June 2011 |archive-url=https://web.archive.org/web/20110606054612/http://www.pco-bcp.gc.ca/aia/index.asp?lang=eng&Page=archive&Sub=letters-lettres&Doc=19970811-eng.htm |url-status=dead }}</ref><ref name="letter2">{{cite web |author=Dion, Stéphane |publisher=Ministry of Intergovernmental Affairs Canada |date=19 November 1997 |url=http://www.pco-bcp.gc.ca/aia/index.asp?lang=eng&Page=archive&Sub=letters-lettres&Doc=19971119-eng.htm |title=Letter to Mr. Jacques Brassard in Response to his Ministerial Statement on the Territorial Integrity of Quebec |access-date=4 December 2006 |archive-date=6 June 2011 |archive-url=https://web.archive.org/web/20110606054652/http://www.pco-bcp.gc.ca/aia/index.asp?lang=eng&Page=archive&Sub=letters-lettres&Doc=19971119-eng.htm |url-status=dead }}</ref><ref name="letter3">{{cite web |author=Dion, Stéphane |publisher=Ministry of Intergovernmental Affairs Canada |date=25 August 1998 |url=http://www.pco-bcp.gc.ca/aia/index.asp?lang=eng&Page=archive&Sub=letters-lettres&Doc=19980825-eng.htm |title=Letter to Premier Lucien Bouchard on the Need to Respect the Supreme Court's Decision in its Entirety |access-date=4 December 2006 |archive-url=https://web.archive.org/web/20110606054700/http://www.pco-bcp.gc.ca/aia/index.asp?lang=eng&Page=archive&Sub=letters-lettres&Doc=19980825-eng.htm |archive-date=6 June 2011}}</ref>
+
+In the first open letter, Dion challenged three assertions that Bouchard had made: that a [[unilateral declaration of independence]] is supported by international law, that a majority of "50% plus one" was a sufficient threshold for secession, and that international law would protect the territorial integrity of Quebec following a secession. Against the first assertion, Dion argued that the vast majority of international law experts "believe that the right to declare secession unilaterally does not belong to constituent entities of a democratic country such as Canada".<ref name="PCO" /> In regard to the simple majority argument, Dion argues that due to the momentous changes to Quebecers' lives that would result from secession, a simple majority that could disappear in the face of difficulties would be insufficient to ensure the political legitimacy of the sovereigntist project. In regard to the territorial integrity of Quebec, Dion retorts that "there is neither a paragraph nor a line in international law that protects Quebec's territory but not Canada's. International experience demonstrates that the borders of the entity seeking independence can be called into question, sometimes for reasons based on democracy."<ref name="PCO" />
+
+In Dion's second open letter to Jacques Brassard, Quebec's intergovernmental affairs minister, Dion expands upon his earlier arguments against the territorial integrity of Quebec following secession by highlighting the inconsistency in the argument that Canada is divisible but Quebec is not. Secondly, Dion underscores that without recognition by the [[Government of Canada]] and when opposed by a strong minority of citizens, a unilateral declaration of independence faces many difficulties in gaining international recognition.<ref name="letter2" />
+
+In Dion's third open letter to Lucien Bouchard, he criticizes the Quebec premier for accepting some aspects of the [[Reference re Secession of Quebec|Supreme Court ruling on secession]] (such as the political obligation for the Government of Canada to negotiate secession following a clear expression of will from the people of Quebec) and not other sections of the ruling (such as the need for a clear majority on a clear question and the unconstitutionality of a unilateral declaration of independence). In regard to the ruling, Dion makes three claims: that the federal government has a role in the selection of the question and the level of support required for it to pass, that secession can only be achieved through negotiation rather than a "unilateral declaration of independence", and that the terms of negotiation could not be decided solely by the Government of Quebec.<ref name="letter3" />
+
+===Supreme Court Reference re Secession of Quebec===
+On 30 September 1996, Dion submitted three questions to the Supreme Court of Canada constituting the Supreme Court [[Reference re Secession of Quebec]]:
+
+#Under the Constitution of Canada, can the National Assembly, legislature, or government of Quebec effect the secession of Quebec from Canada unilaterally?
+#Does international law give the National Assembly, legislature, or government of Quebec the right to effect the secession of Quebec from Canada unilaterally? In this regard, is there a right to self-determination under international law that would give the National Assembly, legislature, or government of Quebec the right to effect the secession of Quebec from Canada unilaterally?
+#In the event of a conflict between domestic and international law on the right of the National Assembly, legislature, or government of Quebec to effect the secession of Quebec from Canada unilaterally, which would take precedence in Canada?
+
+When these questions were made public a few days earlier on 27 September by federal Justice Minister [[Allan Rock]], both parties of Quebec's National Assembly{{mdash}}the [[Parti Québécois]] and the [[Quebec Liberal Party]]{{mdash}}denounced Ottawa's gesture.<ref>{{Cite news |last=McKenzie |first=Donald |date=29 September 1996 |title=Feds won't have a say: PQ |access-date= |work=[[Winnipeg Free Press]] |at=A7}}</ref>
+
+On 20 August 1998, the Supreme Court answered, concluding that Quebec cannot secede unilaterally under Canadian or international law. However, the Government of Canada would have to enter into negotiations with the Quebec government if Quebecers expressed a clear will to secede. It confirmed that the Parliament of Canada had the power to determine whether or not a referendum question was clear enough to trigger such negotiations. The [[Constitution of Canada]] would remain in effect until terms of secession were agreed to by all parties involved, through an amendment to the Constitution, which needs the consent of the federal Parliament and every province.<ref name=ca2000/> These terms would have to respect principles of democracy; minority and individual rights as outlined in the [[Canadian constitution]].<ref>''Reference re Secession of Quebec'', [https://canlii.ca/t/1fqr3 1998 CanLII 793] (SCC), [1998] 2 SCR 217</ref>
+
+The court did not define what a clear majority means, and left that definition to politicians.<ref name="montrealgazette.com">https://montrealgazette.com/news/Battle+secession+control/9071161/story.html {{Dead link|date=January 2018}}</ref>
+
+Any negotiations would need to consider "many issues of great complexity and difficulty", such as economics, debt, minorities, Aboriginals, and boundaries. The court stated that:
+{{blockquote|Nobody seriously suggests that our national existence, seamless in so many aspects, could be effortlessly separated along what are now the provincial boundaries of Quebec.<ref name="montrealgazette.com"/>}}
+:
+Both the [[Government of Quebec]] and the Government of Canada publicly stated that they were very pleased with the opinion of the Supreme Court, which stated both that Quebec could not legally separate unilaterally from Canada, and that the Government of Canada would have a legal obligation to enter into separation negotiations with Quebec in the event that a clear majority of its populace were to vote in favour of independence.
+
+{{anchor|Conference|First International Conference on Federalism}}
+
+===Bill Clinton and the First International Conference on Federalism===
+Stéphane Dion organized and hosted the First International Conference on Federalism in [[Mont Tremblant]] in October 1999 to foster international support for the cause of [[federalism]] in Canada. Quebec sovereigntist leaders were granted a prominent role in the conference and used their floor time to denounce [[Canadian federalism]] before an international audience to the great annoyance of their federalist host. But the ''Clarity Act'' got a big boost during the closing speech by United States President [[Bill Clinton]]. While looking directly at Quebec Premier Lucien Bouchard in the audience, Clinton appeared to echo the Supreme Court Reference, warning that "when a people thinks it should be independent in order to have a meaningful political existence, serious questions should be asked.... Are minority rights as well as majority rights respected? How are we going to co-operate with our neighbours?" Clinton argued that federalism allows peoples seeking recognition of their identity a way to do so without isolating themselves in a nation-state. The speech laid to rest any doubts about the U.S. position on the desirability of unilateral secession in Quebec.<ref>{{cite news |first=Bruce |last=Wallace |work=[[Maclean's]] |issn=0024-9262 |date=18 October 1999 |url=http://www.thecanadianencyclopedia.ca/en/article/clinton-defends-canadian-federalism/|title=Clinton Defends Canadian Federalism|access-date=21 December 2006}}</ref>
+
+===Passage and reactions to ''Clarity Act''===
+
+The ''Clarity Act'' (Bill C-20) was later drafted and presented to the House of Commons on 13 December 1999.<ref name=":0">{{Cite journal |last=Docherty |first=David |date=January 2, 2004 |title=Could the Rebels Find a Cause? House of Commons Reform in the Chrétien Era |url=https://www.constitutionalstudies.ca/wp-content/uploads/2019/08/ReviewVol9.pdf |journal=Review of Constitutional Studies |volume=9.1 & 9.2 |pages=294 |access-date=1 May 2026}}</ref> The legislation was supported by the NDP,<ref>{{cite news| url=http://www.macleans.ca/2011/04/27/the-ndp-quebec-and-the-constitution/ |work=[[Maclean's]] |issn=0024-9262 | title=The NDP, Quebec and the constitution | date=27 April 2011 |first=Paul |last=Wells |author1-link=Paul Wells}}</ref> and [[Canadian Alliance|the Alliance]],<ref name=":0" /> but was denounced by the Quebec Premier as an "assault against good sense and democracy".<ref>{{Cite news |last=MacAfee |first=Michelle |date=16 December 1999 |title=Bouchard steps up attack on Ottawa |work=Winnipeg Free Press |at=B2}}</ref> It was also opposed by the [[Bloc Québécois]],<ref name=":0" /> and the [[Progressive Conservative Party of Canada|Progressive Conservative Party]], led by former Prime Minister [[Joe Clark]].<ref>{{cite news |last1=Clark |first1=Joe |author1-link=Joe Clark |title=Let's get back to Plan A: We should reject Jean Chretien's confrontational approach to Confederation |work=[[The Globe and Mail]] |date=3 January 2000 |page=A13 |id={{ProQuest|1125410572}}}}</ref>
+
+Following its adoption by the [[Parliament of Canada]], an open letter supporting Quebec's right to [[self-determination]] was published and signed by numerous intellectuals from Quebec and other parts of Canada.
+
+[[Reform Party of Canada|Reform Party]] MP [[Grant Hill (politician)|Grant Hill]] called the act too vague.<ref>{{Cite web |title=Clarity act. - Free Online Library |url=https://www.thefreelibrary.com/Clarity+act.-a094010075 |access-date=2025-09-19 |website=www.thefreelibrary.com}}</ref>
+
+[[William Johnson (author)|William Johnson]], leader of Quebec's largest Anglophone rights group, [[Alliance Quebec]] said the act would prevent the promulgation of misinformation by separatists.<ref>{{cite news| url=https://www.cbc.ca/news/canada/pq-takes-clarity-bill-complaints-to-ottawa-1.238898 | work=CBC News | title=PQ takes clarity bill complaints to Ottawa | date=11 November 2000 | access-date=2 June 2018}}</ref>
+
+Former Prime Minister Chrétien has often stated that the act was among his proudest achievements in federal politics.
+
+In an interview with [[CTV Television Network|CTV]] News aired on 15 May 2005, separatist former premier of Quebec, [[Jacques Parizeau]] said that the act "meant nothing" and would be ignored.
+
+On 7 December 2005, in the midst of a federal election, [[New Democratic Party of Canada|New Democratic Party]] leader [[Jack Layton]] too announced that he backed the act. This was in contrast to comments made in the [[2004 Canadian federal election|2004 election]] where he said that Canada should recognize a declaration of Quebec independence if sovereigntists win a referendum.<ref>{{cite news| url=http://regina.ctv.ca/servlet/an/local/CTVNews/20040529/layton_quebec_040528?hub=TorontoNewHome | archive-url=https://web.archive.org/web/20110505060156/http://regina.ctv.ca/servlet/an/local/CTVNews/20040529/layton_quebec_040528?hub=TorontoNewHome | url-status=dead | archive-date=5 May 2011 | work=CTV Toronto | title=NDP's Layton would repeal federal Clarity Act | date=29 May 2004}}</ref>
+
+==Key points==
+The key points of the legislation included the following:
+* Giving the House of Commons the power to decide whether a proposed referendum question was considered clear before the public vote;
+* Specifically stating that any question not solely referring to secession was to be considered unclear;
+* Giving the House of Commons the power to determine whether a clear majority had expressed itself ''following'' any referendum vote, implying that some sort of [[supermajority]] is required for success;<ref>{{cite news |url=https://beta.theglobeandmail.com/opinion/editorials/globe-editorial-which-side-is-the-ndp-on-in-quebec/article36589589/|title=Globe editorial: Which side is the NDP on in Quebec?|date=13 October 2017|work=[[The Globe and Mail]] |access-date=9 January 2018}}</ref>
+* Stating that all provinces and the [[Indigenous peoples in Canada|indigenous peoples]] were to be part of the negotiations;
+* Allowing the House of Commons to override a referendum decision if it felt the referendum violated any of the tenets of the ''Clarity Act'';
+* The secession of a province of Canada would require an amendment to the Constitution of Canada.
+
+==Quebec mirror law==
+Following the adoption of the act by the federal government, the Parti Québécois provincial government adopted its own law, [[Bill 99]] (''An Act respecting the exercise of the fundamental rights and prerogatives of the Québec people and the Québec State'').<ref>''Act respecting the exercise of the fundamental rights and prerogatives of the Québec people and the Québec State'', [https://canlii.ca/t/hcz6 CQLR c E-20.2].</ref> This provincial act was inspired by the same decision of the Supreme Court of Canada that the ''Clarity Act'' was.
+
+This Quebec act emphasizes the right to [[self-determination]] according to [[public international law]]. It also claims the right to [[territorial integrity]] of the province of Quebec. The act also recognizes the rights of Quebec's English-speaking minority and of the [[Indigenous peoples in Quebec|aboriginal nations of Quebec]]. Finally, Article 13 clearly responds to the Canadian federal ''Clarity Act'' by stating: "No other parliament or government may reduce the powers, authority, sovereignty or [[Legitimacy (political)|legitimacy]] of the National Assembly, or impose constraint on the democratic will of the Québec people to determine its own future."
+
+==See also==
+* [[Politics of Quebec]]
+* [[Politics of Canada]]
+* [[Alberta separatism]]
+
+==References==
+{{reflist|2}}
+
+== Further reading ==
+* {{cite journal |last1=Dion |first1=Stéphane |title=Secession and the Virtues of Clarity |journal=Ottawa Law Review |date=2013 |volume=44 |issue=2 |url=https://canlii.ca/t/28cn |id=[https://canlii.ca/t/28cn 2013 CanLIIDocs 158]}}
+
+==External links==
+* [http://laws.justice.gc.ca/eng/acts/C-31.8/FullText.html Text of the Clarity Act]
+* [https://web.archive.org/web/20040229132319/http://www.canlii.org/ca/cas/scc/1998/1998scc63.html Full text of the Reference re Secession of Quebec]
+* [https://www.sfu.ca/~aheard/bill1.html 1995 Act Respecting the Future of Quebec]
+* [http://www.hartford-hwp.com/archives/44/159.html Open letter in support of the democratic right to self-determination for Quebec]
+*[https://sencanada.ca/en/Content/Sen/chamber/362/debates/044db_2000-04-06-e#0.2.W54BJ2.MERRJT.S7Z7PH.421 Debates - Issue 44 - April 6, 2000 (Senate's Second Reading debate about the passage of specific powers to the House of Commons; notable because the Senate is a co-equal body)]
+* [https://www.cbc.ca/archives/categories/politics/federal-politics/separation-anxiety-the-1995-quebec-referendum/introducing-the-clarity-bill.html CBC report on introduction of Clarity Bill]
+
+{{Quebec sovereignty movement}}
+{{Jean Chrétien}}
+
+[[Category:Canadian federal legislation]]
+[[Category:Political history of Quebec]]
+[[Category:2000 in Canadian law]]
+[[Category:Stéphane Dion]]
+[[Category:Premiership of Jean Chrétien]]
+[[Category:36th Canadian Parliament]]
+[[Category:Quebec sovereignty movement]]
+[[Category:Federalism in Canada]]
+[[Category:Referendums]]
+[[Category:Election legislation]]
+[[Category:Independence]]
+[[Category:Secession]]
+[[Category:Consequences]]

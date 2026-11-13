@@ -1,0 +1,66 @@
+{{Short description|Canadian parliamentary procedure}}
+{{for|the Canadian television program|Question Period (TV series){{!}}''Question Period'' (TV series)}}
+[[File:Andrew Scheer in Ottawa (49208633586).jpg|thumb|250px|Then-Leader of the Opposition [[Andrew Scheer]] poses a question to then-Prime Minister [[Justin Trudeau]], 2019]]
+'''Question Period''' ('''QP'''; {{langx|fr|période des questions}}), known officially as '''Oral Questions''' ({{langx|fr|questions orales}}), occurs each sitting day in the [[House of Commons of Canada]]—similarly in [[Legislative assemblies of Canadian provinces and territories|provincial legislatures]]—in which members of the Parliament [[question time|ask questions]] of government ministers (including the [[Prime Minister of Canada|prime minister]]). According to the House of Commons Compendium, "The primary purpose of Question Period is to seek information from the Government and to call it to account for its actions."<ref>{{Cite web|url=http://www.parl.gc.ca/compendium/web-content/c_d_principlesguidelinesoralquestions-e.htm|title = Oral Questions - Questions - House of Commons Procedure and Practice, Third edition, 2017}}</ref> 
+
+It is similar in form to [[question time]] in other parliaments, mainly those following the [[Westminster system]]. 
+
+In the [[Legislative Assembly of Ontario|Legislative Assemblies of Ontario]] and [[Legislative Assembly of Manitoba|Manitoba]] (as well as in several other provinces), questions raised are formally referred as ''Oral Questions''. In the [[Quebec National Assembly]], the term is ''Oral Questions and Answers''.
+
+==History==
+The first oral question occurred during the [[1st Canadian Parliament]], before rules had been established providing for formal questions.  According to the record of debates for  November 29, 1867, a question was posed to Chairman of the Printing Committee before Orders of the Day were called.<ref>{{Cite web|url=http://www.parl.gc.ca/MarleauMontpetit/DocumentViewer.aspx?DocId=1001&Sec=Ch11&Seq=4&Lang=E&Print=2|title=Questions - Notes 1-50}}</ref>
+
+In the absence of formal rules, the [[speaker of the House of Commons (Canada)|speaker of the House of Commons]] exerted great control over form, nature, and admissibility of questions. The first codification of formal rules to govern Question Period occurred in April 1964, and subsequent rule changes have been adopted;<ref>Pearson, Glen, MP. n.d. "Some Personal Thoughts on Question Period." Canadian Parliamentary Review, vol. 33, no. 4 (Winter 2010), p. 2-3.</ref> however, the opinion of the speaker carries the most weight, as the actions of the speaker set precedents when a new [[point of order]] or questions arises about practices during Question Period.
+
+==Current practice==
+Question Period lasts 45 minutes pursuant to Standing Order 30(5),<ref>{{Cite web|url=http://www.parl.gc.ca/compendium/web-content/c_d_questionperiod-e.htm|title=Daily Proceedings - the Daily Program - House of Commons Procedure and Practice, Third edition, 2017}}</ref> beginning no later than 2:15 pm or 11:15 am, as the case may be. Typically, 2:15 pm is the start time for Question Period Monday through Thursday, with Question Period starting at 11:15 am on Fridays. On Wednesdays, Question Period starts slightly after 2:15 pm due to the 2:00 pm singing of the National Anthem, "[[O Canada]]".
+
+Questions may be posed to either the [[Prime Minister of Canada|prime minister]], or any [[Minister (government)|minister]] of the [[Cabinet of Canada]], who will answer the question unless the speaker rejects the question under established rules or accepted custom. No formal limits on permitted topics exist, but questions on current legal matters before the courts are not acceptable; the minister (typically the [[Minister of Justice and Attorney General of Canada|Minister of Justice and Attorney General]]) will typically decline to answer them.
+
+Question Period in [[Canada]], as an instance of [[Question time]] in Westminster tradition, is similar to the [[Prime Minister's Questions]] practice of the [[Parliament of the United Kingdom]]. The Canadian version occurs daily as opposed to weekly, runs 45 minutes instead of 30, and questions may be asked to any cabinet member, not just the prime minister. In Great Britain, individual ministers answer questions on a rotating schedule with one Question Time session daily. 
+
+===Format===
+At the start of a typical Question Period, the speaker recognizes the [[Leader of the Opposition (Canada)|leader of the Opposition]] to ask the lead question. It is possible for the question to be asked by a designee of the leader of the Opposition, yet this [[member of Parliament (Canada)|member of Parliament]] must be a member of the [[Official Opposition (Canada)|Official Opposition]]. Following the answer to the lead question, the lead questioner has two more questions permitted, referred to as supplementary questions. These questions may be asked by the same member of Parliament to follow up on the answer provided to the lead question, or they may be given to another member of the Official Opposition.
+
+When the Official Opposition has exhausted its initial three questions, the lead questioners of the other officially recognized [[opposition parties]] are permitted an initial question and one supplementary question each, in order of size. In the [[43rd Canadian Parliament]], once the Official Opposition is finished, questions then come from the [[Bloc Québécois]], then the [[New Democratic Party]].
+
+Throughout the remainder of Question Period, members of officially recognized parties ask questions in rotation based upon party representation in the House. Members of the governing party may occasionally pose a question to one of their own. Members of political parties not officially recognized in the House and independent members may also be recognized to ask questions, though not as often as members of officially recognized opposition parties. Ministers and 
+Parliamentary Secretaries do not ask questions.
+
+===Rules===
+Question Period has a reputation for being quite chaotic due to the commonplace [[Street harassment|cat-calling]] and jeering from non-participating MPs, but notwithstanding the heckling, Question Period is actually tightly regulated. Parties are only allowed to ask a predetermined number of questions based on the size of their [[caucus]] and must ask their questions in a specific order, predetermined by their [[Party leader|party leadership]] for that day on a list given to the speaker.
+
+Questions and responses are all timed as well, to prevent excessive speeches, and the speaker of the House can cut the microphones of members speaking after the specified time has elapsed. The parties may negotiate a maximum time limit for each question and answer; currently, this limit is 35 seconds for each.
+
+As with other parliamentary procedures in the House, members of opposition parties must place questions through the speaker, addressing them only indirectly to the minister responsible for the issue at hand. When asking questions, members address the speaker as "Mr. Speaker" or "Madam Speaker" (''"Monsieur le président"'' or ''"Madame la présidente"'' in [[French language|French]]). There is no obligation for the minister referred to in the question to respond, and often the minister's [[parliamentary secretary]] or a fellow cabinet member will rise to answer the question. This is particularly true when the minister addressed is not present in the House during Question Period. It is also common when a question is asked of the Prime Minister and the Cabinet minister for the relevant file rises to answer instead, being more informed about the situation.
+
+Members are also not allowed to rise on [[Point of order|Points of Order]] during Question Period and must first wait until Question Period has ended to raise them to the speaker.<ref>{{Cite book |url=https://www.ourcommons.ca/procedure/procedure-and-practice-3/index-e.html |title=House of Commons Procedure and Practice |year=2017 |editor-last=Gagnon |editor-first=André |edition=3rd |chapter=Chapter 13: Rules of Order and Decorum |editor-last2=Bosc |editor-first2=Mark |chapter-url=https://www.ourcommons.ca/procedure/procedure-and-practice-3/ch_13-e.html}}</ref>
+
+==Bilingual nature==
+Reflecting the nature of [[Bilingualism in Canada]], Question Period is bilingual. Questions may be posed in either [[English language|English]] or [[French language|French]], and responses may be in either [[official language]]. Although English was the primary language in Parliament in its early days, French is now spoken just as much as English.{{Citation needed|date=August 2020}} [[Simultaneous interpretation]] is provided on English and French broadcasts of Question Period, on many news networks, as well as the [[CPAC TV network|Cable Public Affairs Channel]] (CPAC). Transcripts of Question Period are published in both official languages in the Canadian ''[[Hansard]]'', as with any other proceedings in the House of Commons and its committees.
+
+There is no guarantee that the answer will be provided in the same language as the question, and a member relying on the simultaneous interpretation may respond to something differing slightly from the actual question asked. For the most part, bilingual members respond to the question in the language in which it was asked.
+
+The simultaneous translation provided to members in the Chamber as well as visitors in the gallery is also available over the internet on either the website of the [[Parliament of Canada]], or through services such as [[CPAC TV network|CPAC]].
+
+==Provincial equivalent==
+[[File:2018-04-12 Question Period Ontario Legislature.webm|thumb|Question Period in the [[Legislative Assembly of Ontario]], April 2018. MPP's were wearing hockey jerseys due to this session being held shortly after the [[Humboldt Broncos bus crash]].]]
+The practice of holding a Question Period also takes place in [[Provinces of Canada|provincial]] legislatures, where members of a provincial legislature may ask questions of provincial ministers. Question Period in provincial legislatures are also formally known as ''Oral Questions'' in the Legislative Assemblies of [[Legislative Assembly of British Columbia|British Columbia]] and [[Legislative Assembly of Manitoba|Manitoba]], and ''Oral Questions and Answers'' in the [[Quebec National Assembly]].
+
+== See also ==
+* [[Question time]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{wiktionary|Question Period}}
+* [http://www.cpac.ca CPAC], Canada's parliamentary channel; broadcasts Question Period online.
+* [http://www.parl.gc.ca/compendium/web-content/c_g_questions-e.htm Parliament of Canada Compendium article on Question Period]
+* [http://www.parl.gc.ca/MarleauMontpetit/DocumentViewer.aspx?DocId=1001&Sec=Ch11&Seq=2&Lang=E Chapter on Questions from House of Commons Procedure and Practice by Robert Marleau and Camille Montpetit]
+
+{{Constitution of Canada}}
+[[Category:Westminster system in Canada]]
+[[Category:Parliamentary procedure in Canada]]
+[[Category:Parliamentary opposition in Canada]]
+[[Category:House of Commons of Canada]]

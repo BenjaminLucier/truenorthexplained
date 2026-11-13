@@ -1,0 +1,46 @@
+{{SCCInfoBox
+  |case-name=Reference Re Senate Reform
+  |full-case-name= IN THE MATTER OF a Reference by the Governor in Council concerning reform of the Senate, as set out in Order in Council P.C. 2013-70, dated February 1, 2013
+  |heard-date=14 November 2013
+  |decided-date=25 April 2014
+  |citations= 2014 SCC 32
+  |docket=35203
+  |ratio=  Term limits and consultative elections for the Senate cannot be implemented by Parliament alone, but requires approval via the [[Amendments to the Constitution of Canada#Amendment formula|7/50 amending formula]]; abolishing the Senate requires unanimous consent of all provinces
+  |SCC=2013-2014
+  |PerCuriam=yes
+  |Majority=
+  |JoinMajority=
+  |Concurrence=
+  |JoinConcurrence=
+  |Concurrence/Dissent=
+  |JoinConcurrence/Dissent=
+  |Dissent=
+  |JoinDissent=
+  |NotParticipating=
+  |LawsApplied=
+}}
+'''Reference Re Senate Reform''' [2014] 1 S.C.R. 704, 2014 SCC 32<ref>{{Cite web |title=Reference re Senate Reform - SCC Cases |url=https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/13614/index.do |access-date=2025-10-22 |website=decisions.scc-csc.ca}}</ref> was a [[reference question]] to the [[Supreme Court of Canada]] regarding the [[Constitution of Canada|constitutional]] validity of proposals to change the Senate, such as term limits, consultative elections, and abolition. The ruling was announced April 2014, following arguments made in November 2013. The court decided that term limits and consultative elections could not be done by the [[Government of Canada|Federal Government]] alone through [[Parliament of Canada|Parliament]], but also required the consent of seven provinces representing more than 50% of the population, in accordance with the lower of two thresholds for the [[Amendments to the Constitution of Canada#Amendment formula|constitutional amending formula]].<ref name="Canadian Press" /><ref name="Maclean's piece">{{cite web | url=http://www.macleans.ca/politics/did-the-supreme-court-just-kill-senate-reform/ | title=Did the Supreme Court just kill Senate reform? | publisher=[[Maclean's]] | date=25 April 2014 | accessdate=20 November 2015 | author=Macfarlane, Emmett}}</ref> The court also ruled that Senate abolition would require the higher threshold for amendment: Parliamentary approval plus consent of all ten provinces.<ref name="Canadian Press">{{cite web | url=http://www.macleans.ca/politics/ottawa/high-court-says-no-to-unilateral-senate-reform/ | title=High court says no to unilateral Senate reform | publisher=[[Canadian Press]] | work=[[Maclean's]] | date=25 April 2014 | accessdate=20 November 2015}}</ref><ref name="Maclean's piece" />
+
+==See also==
+*[[List of Supreme Court of Canada cases (McLachlin Court)]]
+
+==References==
+{{reflist}}
+
+== Further reading ==
+{{refbegin}}
+* {{cite journal |last1=Dodek |first1=Adam |title=The Politics of the Senate Reform Reference: Fidelity, Frustration, and Federal Unilateralism |journal=McGill Law Journal |date=2015 |volume=60 |issue=4 |pages=623–672 |id=[https://canlii.ca/t/29rd 2015 CanLIIDocs 390]}}
+* {{cite journal |last1=Glover |first1=Kate |title=Structure, Substance and Spirit: Lessons in Constitutional Architecture from the Senate Reform Reference |journal=Supreme Court Law Review |date=2014 |volume=67 |pages=221–255 |url=https://www.canlii.org/en/commentary/doc/2014CanLIIDocs33321}}
+* {{cite book |last1=Macfarlane |first1=Emmett |title=Constitutional pariah: reference re Senate Reform and the future of Parliament |date=2021 |publisher=UBC Press |location=Vancouver |isbn=978-0-7748-6622-4}}
+* {{cite journal |last1=Pal |first1=Michael |title=Constitutional Amendment After the Senate Reference and the Prospects for Electoral Reform |journal=Supreme Court Law Review |date=2016 |volume=76 |pages=377-398 |id=[https://canlii.ca/t/ss7v 2016 CanLIIDocs 4519]}}
+{{refend}}
+
+== External links ==
+* [http://scc-csc.lexum.com/scc-csc/scc-csc/en/item/13614/index.do Supreme Court Decision]
+
+{{Senate of Canada navbox}}
+
+{{DEFAULTSORT:Senate Reform Reference}}
+[[Category:Supreme Court of Canada reference question cases]]
+[[Category:2014 in Canadian case law]]
+[[Category:Senate reform (Canada)]]

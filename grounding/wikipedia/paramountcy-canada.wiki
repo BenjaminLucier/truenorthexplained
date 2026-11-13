@@ -1,0 +1,84 @@
+{{Short description|Doctrine in Canadian constitutional law}}
+
+In [[Canadian constitutional law]], the doctrine of '''paramountcy''' ({{langx|fr|prépondérance fédérale}}) establishes that where there is a conflict between valid provincial and federal laws, the federal law will prevail and the provincial law will be inoperative to the extent that it conflicts with the federal law. Unlike [[interjurisdictional immunity]], which is concerned with the scope of the federal power, paramountcy deals with the way in which that power is exercised.
+
+The only exception to the doctrine is under [[Section 94A of the Constitution Act, 1867|section 94A of the ''Constitution Act, 1867'']], which allows both the federal government and the provinces to make laws for old age pensions and supplementary benefits, but, to the extent of any conflict, the provincial law is paramount over the federal law.
+
+==Nature of the doctrine==
+
+Paramountcy is relevant where there is conflicting federal and provincial legislation.  As Justice [[John C. Major|Major]] explained in ''Rothmans'':<ref>''Rothmans, Benson & Hedges Inc. v. Saskatchewan'', [https://canlii.ca/t/1jz6k#par11 2005 CanLII 13] (SCC), [2005] 1 S.C.R. 188, at para. 11.</ref>
+
+{{centered pull quote|The doctrine of federal legislative paramountcy dictates that where there is an inconsistency between validly enacted but overlapping provincial and federal legislation, the provincial legislation is inoperative to the extent of the inconsistency.
+}}
+
+Claims in paramountcy may arise from two different forms of conflict:<ref>''COPA'', par. 64</ref>
+
+:* Operational conflict between federal and provincial laws, such that dual compliance is impossible.
+:* Where dual compliance is possible, but the provincial law is incompatible with the purpose of federal legislation, thus frustrating a federal purpose. To determine whether the impugned legislation frustrates a federal purpose, it is necessary to consider the regulatory framework that governs the matter in question. The party seeking to invoke the doctrine of federal paramountcy bears the burden of proof.<ref>''Rothmans, Benson & Hedges Inc. v. Saskatchewan'', [https://canlii.ca/t/1jz6k#par12 2005 CanLII 13] (SCC), [2005] 1 S.C.R. 188, at para. 12.</ref>
+
+==History==
+
+===Development===
+
+The doctrine was first expressed in the ''[[Local Prohibition Case]]'', and was subsequently described by [[Andrew Murray, 1st Viscount Dunedin|Lord Dunedin]] in ''[[Grand Trunk v. Attorney General of Canada]]'' thus:<ref>{{harvnb|Colvin|1979|p=88}}</ref>
+
+{{Quotation|
+First, ... there can be a domain in which provincial and Dominion legislation may overlap, in which case neither legislation will be ''[[ultra vires]]'', if the field is clear; and, secondly, ... if the field is not clear, and in such a domain the two legislations meet, then the Dominion must prevail.<ref>''Grand Trunk'', at p. 68</ref>
+}}
+
+Historically, the doctrine was interpreted very strictly. When there was any overlap between federal or provincial laws the federal law would always render the provincial law inoperative even if there was no conflict. Over time courts and academics began to interpret the power as only applying where conformity to one law would necessarily violate the other. The [[Supreme Court of Canada]] adopted such an interpretation in the decision of ''[[Smith v. The Queen]]''. The Court held that there must be an "operational incompatibility" between the laws in order to invoke paramountcy.
+
+The modern paramountcy doctrine was articulated in ''[[Multiple Access v. McCutcheon]]''. In that case, both the provincial and federal governments had enacted virtually identical [[insider trading]] legislation. The [[Supreme Court of Canada]] found that the statutory duplication did not invoke paramountcy as the court had the discretion to prevent double penalties. Instead, paramountcy could only be invoked when the compliance with one means the breach of the other. A later example was in the decision ''[[Law Society of British Columbia v. Mangat]]'', where the Court found an operational conflict between the provincial ''Legal Profession Act'' prohibiting non-lawyers from appearing in front of a judge and the federal ''Immigration Act'', which allowed non-lawyers to appear before the immigration tribunal.
+
+===Tensions in the two-branch test===
+
+The extent to which each branch of the paramountcy test can apply was explored in several cases decided by the Supreme Court of Canada in November 2015, which have come to be known as the "paramountcy trilogy."{{sfn|Mastrangelo|2016b}} The majority in each of these held that:
+
+#"Operational conflict" is to be construed broadly, using a more substantive, contextual, and purposive approach, and it is not necessary to consider whether dual compliance would be impossible.{{sfn|Mastrangelo|2016a}}
+
+#"Federal purpose" requires a more in-depth analysis and interpretation of the federal statute in order to ensure that it is properly identified. To that end, decision makers should not search high and low for it, as too broad a characterization can have the unwanted effect of improperly impairing provincial legislative authority.{{sfn|Mastrangelo|2016b}}
+
+Justice [[Suzanne Côté|Côté]] wrote vigorous dissents in all three cases, arguing that the majority's interpretation of the first branch conflicts with the clear standard of impossibility of dual compliance as a result of an express conflict expressed in prior jurisprudence,{{sfn|Mastrangelo|2016a}} which was succinctly expressed in ''[[Multiple Access Ltd. v. McCutcheon|Multiple Access]]'' as "where one enactment says 'yes' and the other says 'no'; 'the same citizens are being told to do inconsistent things'; compliance with one is defiance of the other."<ref>''Multiple Access Ltd'', p. 191, quoted at ''Moloney'', par. 100.</ref> As well, the majority's interpretation of the second branch conflicts with the Court's prior ruling in ''[[Law Society of British Columbia v. Mangat|Mangat]]'',{{sfn|Mastrangelo|2016b}} in that "harmonious interpretation of both federal and provincial legislation cannot lead this Court to disregard obvious purposes that are pursued in federal legislation."<ref>''Lemare'', par. 78, drawing on ''Mangat'', par. 66</ref>
+
+== See also ==
+
+* [[Federal preemption]] and the [[Supremacy Clause]] for the US context
+* [[Section 109 of the Constitution of Australia]]
+*[[State preemption]]
+*[[Pith and substance]] – doctrine for determining the relative legislative powers of the federal and provincial governments
+*[[Double aspect]] – matters within the competence of both the federal and provincial governments
+*[[Interjurisdictional immunity]] – immunity of federal law from limitation by provincial law
+
+==References==
+{{reflist|2}}
+
+==Significant cases==
+{{div col|colwidth=30em}}
+* {{cite BAILII|litigants=The Attorney General for Ontario v The Attorney General for the Dominion of Canada, and the Distillers and Brewers’ Association of Ontario|link=Local Prohibition Case|court=UKPC|year=1896|num=20|parallelcite = [1896] AC 348|date=9 May 1896|courtname=[[Judicial Committee of the Privy Council|P.C.]]|juris=Canada|format=1}}
+* {{cite BAILII|litigants=The Grand Trunk Railway Company of Canada v The Attorney General for the Dominion of Canada|link=|court=UKPC|year=1906|num=72|para=|format=1|parallelcite=[1907] AC 65|date=5 November 1906|courtname=|juris=Canada}}
+* {{cite CanLII|litigants=Smith v. The Queen|link=|year=1960|court=scc|num=12|format=canlii|pinpoint=|parallelcite=[1960] SCR 776|date=1960-10-04|courtname=|juris=}}
+* {{cite CanLII|litigants=O'Grady v. Sparling|link=O'Grady v. Sparling|year=1960|court=scc|num=70|format=canlii|pinpoint=|parallelcite=[1960] S.C.R. 804|date=1960-10-04|courtname=|juris=}}
+* {{cite CanLII|litigants=Multiple Access Ltd. v. McCutcheon|link=Multiple Access Ltd. v. McCutcheon|year=1982|court=scc|num=55|format=canlii|pinpoint=|parallelcite=[1982] 2 SCR 161|date=1982-08-09|courtname=auto|juris=}}
+* {{cite CanLII|litigants=Law Society of British Columbia v. Mangat|link=Law Society of British Columbia v. Mangat|year=2001|court=scc|num=67|format=|pinpoint=|parallelcite=[2001] 3 SCR 113|date=2001-10-18|courtname=|juris=}}
+* {{cite CanLII|litigants=Rothmans, Benson & Hedges Inc. v. Saskatchewan|link=|year=2005|court=scc|num=13|format=|pinpoint=|parallelcite=[2005] 1 SCR 188|date=2005-03-18|courtname=|juris=}}
+* {{cite CanLII|litigants=Quebec (Attorney General) v. Canadian Owners and Pilots Association|link=Quebec (Attorney General) v. Canadian Owners and Pilots Association|year=2010|court=scc|num=39|format=|pinpoint=|parallelcite=[2010] 2 SCR 536|date=2010-10-15|courtname=|juris=}}
+* {{cite CanLII|litigants=Marine Services International Ltd v Ryan Estate|link=Marine Services International Ltd v Ryan Estate|year=2013|court=scc|num=44|parallelcite=[2013] 3 SCR 53|date=2013-08-02}}
+* {{cite CanLII|litigants=Alberta (Attorney General) v Moloney|link=|year=2015|court=scc|num=51|parallelcite=|date=2015-11-13}}
+* {{cite CanLII|litigants=407 ETR Concession Co. v. Canada (Superintendent of Bankruptcy)|link=|year=2015|court=scc|num=52|parallelcite=|date=2015-11-13}}
+* {{cite CanLII|litigants=Saskatchewan (Attorney General) v Lemare Lake Logging Ltd|link=|year=2015|court=scc|num=53|parallelcite=|date=2015-11-13}}
+{{div col end}}
+
+==Further reading==
+
+{{div col|colwidth=30em}}
+* {{Cite web|title = Doctrine of Paramountcy|url = http://ualawccsprod.srv.ualberta.ca/ccs/index.php/cd/509-doctrine-of-paramountcy|publisher = Centre for Constitutional Studies, [[University of Alberta]]|access-date = 4 February 2014}}
+* {{cite journal |author= Eric Colvin|year= 1979|title= Legal Theory and the Paramountcy Rule|journal= [[McGill Law Journal]]|volume= 25|issue= 1|pages= 82{{endash}}98|publisher= [[McGill Law School]]|url= http://lawjournal.mcgill.ca/userfiles/other/5428842-colvin.pdf|access-date=7 April 2016|ref={{harvid|Colvin|1979}}}}
+* {{cite journal |author= Peter W. Hogg|author-link = Peter Hogg|year= 2006|title= Paramountcy and Tobacco|journal= Supreme Court Law Review|volume= 34|pages= 335{{endash}}344|publisher= [[Osgoode Hall Law School]]|url= http://pi.library.yorku.ca/ojs/index.php/sclr/article/viewFile/34918/31699|access-date=13 January 2013|ref={{harvid|Hogg|2006}}}}
+* {{cite web|url= http://www.thecourt.ca/2015/11/23/paramountcy-problems-in-alberta-attorney-general-v-moloney/|title= Paramountcy Problems in ''Alberta (Attorney General) v Moloney''|last1= Mastrangelo|first1= John|date= November 23, 2015|website= thecourt.ca|publisher= [[Osgoode Hall Law School]]|ref= {{harvid|Mastrangelo|2016a}}|url-status= dead|archive-url= https://web.archive.org/web/20160131231044/http://www.thecourt.ca/2015/11/23/paramountcy-problems-in-alberta-attorney-general-v-moloney/|archive-date= January 31, 2016}}
+* {{cite web|url= http://www.thecourt.ca/2016/01/02/paramountcy-problems-part-ii-narrowing-federal-purpose-in-saskatchewan-attorney-general-v-lemare-lake-logging/|title= Paramountcy Problems Part II - Narrowing 'Federal Purpose' in ''Saskatchewan (Attorney General) v Lemare Lake Logging''|last1= Mastrangelo|first1= John|date= January 2, 2016|website= thecourt.ca|publisher= [[Osgoode Hall Law School]]|ref= {{harvid|Mastrangelo|2016b}}|url-status= dead|archive-url= https://web.archive.org/web/20160131220454/http://www.thecourt.ca/2016/01/02/paramountcy-problems-part-ii-narrowing-federal-purpose-in-saskatchewan-attorney-general-v-lemare-lake-logging/|archive-date= January 31, 2016}}
+{{div col end}}
+
+{{Constitution of Canada|interpretation}}
+
+[[Category:Constitution of Canada]]
+[[Category:Federalism in Canada]]
