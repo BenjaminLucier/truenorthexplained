@@ -39,6 +39,14 @@
   --tn-party-gpc: #3d9b35;
   --tn-party-other: #8a8580;
 
+  /* Data colours: historical party families (election history, premiers).
+     See src/lib/party-families.ts for what each one covers. */
+  --tn-party-progressive: #c29a2e;
+  --tn-party-socred: #2f9e83;
+  --tn-party-autonomist: #14635f;
+  --tn-party-coalition: #7d4e9e;
+  --tn-party-nonpartisan: #c4bdb3;
+
   /* Data colours: sequential scale (maps, charts). Step 1 is closest to the
      background, step 6 stands out most. Not for UI chrome. */
   --tn-data-seq-1: #dbe9f0;
@@ -96,6 +104,11 @@
   --tn-party-bq: #3cb4e6;
   --tn-party-gpc: #5cbf52;
   --tn-party-other: #a19e98;
+  --tn-party-progressive: #d9a845;
+  --tn-party-socred: #4cc4a6;
+  --tn-party-autonomist: #2b8c87;
+  --tn-party-coalition: #c47fc0;
+  --tn-party-nonpartisan: #5a554f;
 
   --tn-data-seq-1: #1c3340;
   --tn-data-seq-2: #22495e;
@@ -162,6 +175,11 @@
     --tn-data-treaty-historic: #a9532f;
     --tn-data-treaty-pf: #5e3424;
     --tn-data-treaty-modern: #2f6db8;
+    --tn-party-progressive: #d9a845;
+    --tn-party-socred: #4cc4a6;
+    --tn-party-autonomist: #2b8c87;
+    --tn-party-coalition: #c47fc0;
+    --tn-party-nonpartisan: #5a554f;
   }
 }
 
@@ -316,6 +334,11 @@
   --color-party-bq: var(--tn-party-bq);
   --color-party-gpc: var(--tn-party-gpc);
   --color-party-other: var(--tn-party-other);
+  --color-party-progressive: var(--tn-party-progressive);
+  --color-party-socred: var(--tn-party-socred);
+  --color-party-autonomist: var(--tn-party-autonomist);
+  --color-party-coalition: var(--tn-party-coalition);
+  --color-party-nonpartisan: var(--tn-party-nonpartisan);
   --color-data-seq-1: var(--tn-data-seq-1);
   --color-data-seq-2: var(--tn-data-seq-2);
   --color-data-seq-3: var(--tn-data-seq-3);

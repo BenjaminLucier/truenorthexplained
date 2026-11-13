@@ -1,0 +1,925 @@
+{{Short description|none}}
+{{Use mdy dates|date=October 2012}}
+
+The [[Provinces and territories of Canada|Canadian province]] of [[New Brunswick]] was a British [[crown colony]] before it joined [[Canada]] in 1867.<ref>{{cite web|access-date=November 9, 2008 |url=http://www.collectionscanada.gc.ca/confederation/023001-2110-e.html |title=Canadian Confederation |date=May 2, 2005 |publisher=Library and Archives Canada |archive-url=https://web.archive.org/web/20080622201545/http://www.collectionscanada.gc.ca/confederation/023001-2110-e.html |archive-date=June 22, 2008 |url-status=dead }}</ref> It had a system of [[responsible government]] beginning in 1854, and has kept its own legislature to deal with provincial matters.<ref>{{cite web|access-date=November 9, 2008 |url=http://www.collectionscanada.gc.ca/confederation/023001-2974-e.html |title=Responsible Government |date=May 2, 2005 |publisher=Library and Archives Canada |archive-url=https://web.archive.org/web/20080621130920/http://www.collectionscanada.gc.ca/confederation/023001-2974-e.html |archive-date=June 21, 2008 |url-status=dead }}</ref> New Brunswick has a unicameral [[Westminster-style]] [[parliamentary government]], in which the premier is the leader of the party that has the confidence of the [[Legislative Assembly of New Brunswick|Legislative Assembly]] to form a government. The premier is New Brunswick's [[head of government]], and the [[king of Canada]] is its [[head of state]] and is represented by the [[lieutenant governor of New Brunswick]]. The premier picks a cabinet from the elected members to form the [[Executive Council of New Brunswick]], and presides over that body.<ref name=process>{{cite web|access-date=November 9, 2008|url=http://www.gnb.ca/legis/publications/tradition/legtrad4-e.asp|title=The Legislative Process |publisher=Legislative Assembly of New Brunswick }}</ref>
+
+Members are first elected to the legislature during [[List of New Brunswick general elections|general elections]]. General elections must be conducted every five years from the date of the last election, but the premier may ask for early dissolution of the Legislative Assembly. An election may also take place if the governing party loses the confidence of the legislature by the defeat of a supply bill or tabling of a confidence motion.<ref name=process />
+
+New Brunswick has had 37 individuals serve as first minister. The province had five individuals as leaders while a colony, and 32 individuals after Canadian Confederation, of which two were from the [[Confederation Party]], 11 from the [[Progressive Conservative Party of New Brunswick]], 16 from the [[New Brunswick Liberal Association]], one from the [[Anti-Confederation Party]], and seven with unofficial party affiliations.
+
+==Premiers of New Brunswick==
+{{Canadian first minister list/top|references=yes}}
+|-
+|colspan=10|'''Leader of the Government of the Colony of New Brunswick (1854–1867)'''
+{{Canadian first minister list
+|name            = [[Charles Fisher (Canadian politician)|Charles Fisher]]
+|jurisdiction    = NB
+|number          = 1
+|number_sub      = 1 of 2
+|image           = CharlesFisher23.jpg
+|party           = Non-partisan
+|birth_year      = 1808
+|death_year      = 1880
+|riding          = [[York (1785–1974 electoral district)|York]]
+|term_start      = 1854-11-1
+|term_end_custom = <small>May</small><br/>1856
+|event1          = election
+|event1_year     = 1854
+|event1_assembly = 16th
+|accomplishments = 
+|references      = <ref name=fish>{{cite web|access-date=November 9, 2008 |url=http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/CFisher.pdf |title=Fisher, Charles (Hon.) |publisher=Government of New Brunswick |url-status=dead |archive-url=https://web.archive.org/web/20081219204029/http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/CFisher.pdf |archive-date=December 19, 2008 }}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[John Hamilton Gray (New Brunswick politician)|John Hamilton Gray]]
+|jurisdiction    = NB
+|number          = 2
+|image           = John Hamilton Gray.jpg
+|party           = Non-partisan
+|birth_year      = 1814
+|death_year      = 1889
+|riding          = [[Saint John County (provincial electoral district)|Saint John County]]
+|term_start      = 1856-06-21
+|term_end_custom = <small>June</small><br/>1857
+|event1          = election
+|event1_year     = 1856
+|event1_assembly = 17th
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008 |url=http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/JHGray.pdf |publisher=Government of New Brunswick |title=John Hamilton Gray |url-status=dead |archive-url=https://web.archive.org/web/20081219204047/http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/JHGray.pdf |archive-date=December 19, 2008 }}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[Charles Fisher (Canadian politician)|Charles Fisher]]
+|jurisdiction    = NB
+|number          = 3
+|number_sub      = 2 of 2
+|image           = CharlesFisher23.jpg
+|party           = Non-partisan
+|birth_year      = 1808
+|death_year      = 1880
+|riding          = [[York (1785–1974 electoral district)|York]]
+|term_start      = 1857-06-01
+|term_end        = 1861-03-19
+|event1          = election
+|event1_year     = 1857
+|event1_assembly = 18th
+|accomplishments = 
+|references      = <ref name=fish />
+}}
+
+{{Canadian first minister list
+|name            = [[Samuel Leonard Tilley]]
+|jurisdiction    = NB
+|number          = 4
+|image           = Samuel Leonard Tilley 1864.jpg
+|party           = Non-partisan
+|birth_year      = 1818
+|death_year      = 1896
+|riding          = [[Saint John Centre (electoral district)|Saint John City]]
+|term_start      = 1861-03-19
+|term_end_custom = <small>March</small><br/>1865
+|event1          = appointment
+|event1_year     = 1861
+|event1_assembly = 18th
+|event2          = election
+|event2_year     = 1861
+|event2_assembly = 19th
+|accomplishments = 
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Albert James Smith]]
+|jurisdiction    = NB
+|number          = 5
+|image           = Albert James Smith.jpg
+|party           = Anti-Confederation
+|birth_year      = 1822
+|death_year      = 1883
+|riding          = [[Westmorland (provincial electoral district)|Westmorland]]
+|term_start      = 1865-09-21
+|term_end        = 1866-04-14
+|event1          = election
+|event1_year     = 1865
+|event1_assembly = 20th
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008 |url=http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/AJSmith.pdf |publisher=Government of New Brunswick |title=Albert J. Smith |url-status=dead |archive-url=https://web.archive.org/web/20081219204026/http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/AJSmith.pdf |archive-date=December 19, 2008 }}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[Peter Mitchell (politician)|Peter Mitchell]]
+|jurisdiction    = NB
+|number          = 6
+|leadership      = 1866
+|image           = Peter Mitchell.jpg
+|party           = Confederation
+|birth_year      = 1824
+|death_year      = 1899
+|riding          = <br/>colony at-large
+|member_title    = [[Legislative Council of New Brunswick|Legislative Councillor]]
+|term_start      = 1866-04-14
+|term_end_custom = <small>August</small><br/>1867
+|event1          = appointment
+|event1_year     = 1866
+|event1_assembly = 20th
+|event2          = election
+|event2_year     = 1866
+|event2_assembly = 21st
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008 |url=http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/PMitchell.pdf |publisher=Government of New Brunswick |title=Peter Mitchell |url-status=dead |archive-url=https://web.archive.org/web/20081219204055/http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/PMitchell.pdf |archive-date=December 19, 2008 }}</ref>
+}}
+|-
+|colspan=10|'''Premiers of the province of New Brunswick since [[Canadian Confederation|Confederation]] (1867–present)'''
+{{Canadian first minister list
+|name            = [[Andrew R. Wetmore]]
+|jurisdiction    = NB
+|number          = 1
+|leadership      = 1867
+|image           = 
+|party           = Confederation
+|birth_year      = 1820
+|death_year      = 1892
+|riding          = [[Saint John Centre (electoral district)|Saint John City]]
+|term_start      = 1867-08-16
+|term_end        = 1870-05-25
+|event1          = appointment
+|event1_year     = 1867
+|event1_assembly = 21st
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008|url=http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/ARWetmore.pdf|publisher=Government of New Brunswick|title=Andrew R. Wetmore|url-status=dead|archive-url=https://web.archive.org/web/20081219204106/http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/ARWetmore.pdf|archive-date=December 19, 2008|df=mdy-all}}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[George Edwin King|George E. King]]
+|jurisdiction    = NB
+|number          = 2*
+|number_sub      = 1 of 2
+|leadership      = 1870
+|image           = George Edwin King 1895.jpg
+|party           = Conservative
+|birth_year      = 1839
+|death_year      = 1901
+|riding          = [[Saint John County (provincial electoral district)|Saint John County]]
+|term_start      = 1870-06-09
+|term_end        = 1871-02-21
+|event1          = appointment
+|event1_year     = 1870
+|event1_assembly = 21st
+|event2          = election
+|event2_year     = 1870
+|event2_assembly = 22nd
+|accomplishments = 
+|references      = <ref name=king>{{cite web|access-date=November 9, 2008 |url=http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/GEKing.pdf |title=King, George Edwin (Hon.) |publisher=Government of New Brunswick |url-status=dead |archive-url=https://web.archive.org/web/20081219204051/http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/GEKing.pdf |archive-date=December 19, 2008 }}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[George L. Hathaway]]
+|jurisdiction    = NB
+|number          = 3
+|leadership      = 1871
+|image           = 
+|party           = Conservative
+|birth_year      = 1813
+|death_year      = 1872
+|riding          = [[York (1785–1974 electoral district)|York]]
+|term_start      = 1871-02-21
+|term_end        = 1872-07-05
+|event1          = appointment
+|event1_year     = 1871
+|event1_assembly = 22nd
+|accomplishments = 
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[George Edwin King|George E. King]]
+|jurisdiction    = NB
+|number          = 4*
+|number_sub      = 2 of 2
+|leadership      = 1872
+|image           = George Edwin King 1895.jpg
+|party           = Conservative
+|birth_year      = 1839
+|death_year      = 1901
+|riding          = [[Saint John County (provincial electoral district)|Saint John County]]
+|term_start      = 1872-07-05
+|term_end        = 1878-05-03
+|event1          = appointment
+|event1_year     = 1872
+|event1_assembly = 22nd
+|event2          = election
+|event2_year     = 1874
+|event2_assembly = 23rd
+|accomplishments = 
+|references      = <ref name=king />
+}}
+
+{{Canadian first minister list
+|name            = [[John James Fraser]]
+|jurisdiction    = NB
+|number          = 5
+|leadership      = 1878
+|image           = John James Fraser.png
+|party           = Conservative
+|birth_year      = 1829
+|death_year      = 1896
+|riding          = [[York (1785–1974 electoral district)|York]]
+|term_start_custom = <small>June</small><br/>1878
+|term_end        = 1882-05-25
+|event1          = election
+|event1_year     = 1878
+|event1_assembly = 24th
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008 |url=http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/JJFraser.pdf |publisher=Government of New Brunswick |title=John James Fraser |url-status=dead |archive-url=https://web.archive.org/web/20081219204049/http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/JJFraser.pdf |archive-date=December 19, 2008 }}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[Daniel L. Hanington]]
+|jurisdiction    = NB
+|number          = 6
+|leadership      = 1882
+|image           = 
+|party           = Conservative
+|birth_year      = 1835
+|death_year      = 1909
+|riding          = [[Westmorland (provincial electoral district)|Westmorland]]
+|term_start      = 1882-05-25
+|term_end_custom = <small>February</small><br/>1883
+|event1          = appointment
+|event1_year     = 1882
+|event1_assembly = 24th
+|event2          = election
+|event2_year     = 1882
+|event2_assembly = 25th
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008 |url=http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/DLHanington.pdf |publisher=Government of New Brunswick |title=Daniel L. Hanington |url-status=dead |archive-url=https://web.archive.org/web/20081219204059/http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/DLHanington.pdf |archive-date=December 19, 2008 }}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[Andrew G. Blair]]
+|jurisdiction    = NB
+|number          = 7
+|leadership      = 1879
+|image           = Portrait of Hon. Andrew G. Blair.jpg
+|party           = Liberal
+|birth_year      = 1844
+|death_year      = 1907
+|riding          = [[York (1785–1974 electoral district)|York]]
+|riding_term     = 1876-1892
+|riding2         = [[Queens (New Brunswick provincial electoral district)|Queens]]
+|riding2_term    = 1892-1896
+|term_start      = 1883-03-03
+|term_end        = 1896-07-17
+|event1          = appointment
+|event1_year     = 1883
+|event1_assembly = 25th
+|event2          = election
+|event2_year     = 1886
+|event2_assembly = 26th
+|event3          = election
+|event3_year     = 1890
+|event3_assembly = 27th
+|event4          = election
+|event4_year     = 1892
+|event4_assembly = 28th
+|event5          = election
+|event5_year     = 1895
+|event5_assembly = 29th
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008|url=http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/AGBlair.pdf|publisher=Government of New Brunswick|title=Andrew G. Blair|url-status=dead|archive-url=https://web.archive.org/web/20120319030219/http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/AGBlair.pdf|archive-date=March 19, 2012|df=mdy-all}}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[James Mitchell (Canadian politician)|James Mitchell]]
+|jurisdiction    = NB
+|number          = 8
+|leadership      = 1896
+|image           = 
+|party           = Liberal
+|birth_year      = 1843
+|death_year      = 1897
+|riding          = [[Charlotte (1785–1974 electoral district)|Charlotte]]
+|term_start      = 1896-07-17
+|term_end        = 1897-10-29
+|event1          = appointment
+|event1_year     = 1896
+|event1_assembly = 29th
+|accomplishments = 
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Henry Emmerson]]
+|jurisdiction    = NB
+|number          = 9
+|leadership      = 1897
+|image           = Henry Robert Emmerson Portrait.jpg
+|party           = Liberal
+|birth_year      = 1853
+|death_year      = 1914
+|riding          = [[Albert (1846–1973 electoral district)|Albert]]
+|term_start      = 1897-10-29
+|term_end        = 1900-08-31
+|event1          = appointment
+|event1_year     = 1897
+|event1_assembly = 29th
+|event2          = election
+|event2_year     = 1899
+|event2_assembly = 30th
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008 |url=http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/HREmmerson.pdf |publisher=Government of New Brunswick |title=Henry R. Emmerson |url-status=dead |archive-url=https://web.archive.org/web/20081219204057/http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/HREmmerson.pdf |archive-date=December 19, 2008 }}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[Lemuel J. Tweedie]]
+|jurisdiction    = NB
+|number          = 10
+|leadership      = 1900
+|image           = Lemuel John Tweedie.jpg
+|party           = Liberal
+|birth_year      = 1849
+|death_year      = 1917
+|riding          = [[Northumberland (provincial electoral district)|Northumberland]]
+|term_start      = 1900-09-01
+|term_end        = 1907-03-02
+|event1          = appointment
+|event1_year     = 1900
+|event1_assembly = 30th
+|event2          = election
+|event2_year     = 1903
+|event2_assembly = 31st
+|accomplishments = 
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[William Pugsley]]
+|jurisdiction    = NB
+|number          = 11
+|leadership      = 1907
+|image           = William Pugsley.jpg
+|party           = Liberal
+|birth_year      = 1850
+|death_year      = 1925
+|riding          = [[Kings (New Brunswick provincial electoral district)|Kings]]
+|term_start      = 1907-03-06
+|term_end        = 1907-05-31
+|event1          = appointment
+|event1_year     = 1907
+|event1_assembly = 31st
+|accomplishments = 
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Clifford W. Robinson]]
+|jurisdiction    = NB
+|number          = 12
+|leadership      = 1907
+|image           = Clifford William Robinson.jpg
+|party           = Liberal
+|birth_year      = 1866
+|death_year      = 1947
+|riding          = [[Westmorland (provincial electoral district)|Westmorland]]
+|term_start      = 1907-05-31
+|term_end        = 1908-03-24
+|event1          = appointment
+|event1_year     = 1907
+|event1_assembly = 31st
+|accomplishments = 
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[John Douglas Hazen]]
+|jurisdiction    = NB
+|number          = 13
+|leadership      = 1899
+|image           = John Douglas Hazen.jpg
+|party           = Conservative
+|birth_year      = 1860
+|death_year      = 1937
+|riding          = [[Sunbury (1785–1973 electoral district)|Sunbury]]
+|term_start      = 1908-03-24
+|term_end        = 1911-10-10
+|event1          = election
+|event1_year     = 1908
+|event1_assembly = 32nd
+|accomplishments = 
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[James Kidd Flemming]]
+|jurisdiction    = NB
+|number          = 14
+|leadership      = 1911
+|image           = James_Kidd_Flemming.jpg
+|party           = Conservative
+|birth_year      = 1868
+|death_year      = 1927
+|riding          = [[Carleton (1834–1974 electoral district)|Carleton]]
+|term_start      = 1911-10-16
+|term_end        = 1914-12-06
+|event1          = appointment
+|event1_year     = 1911
+|event1_assembly = 32nd
+|event2          = election
+|event2_year     = 1912
+|event2_assembly = 33rd
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008 |url=http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/JKFlemming.pdf |publisher=Government of New Brunswick |title=James Kidd Flemming |url-status=dead |archive-url=https://web.archive.org/web/20081219204031/http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/JKFlemming.pdf |archive-date=December 19, 2008 }}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[George Johnson Clarke|George Clarke]]
+|jurisdiction    = NB
+|number          = 15
+|leadership      = 1914
+|image           = 
+|party           = Conservative
+|birth_year      = 1857
+|death_year      = 1917
+|riding          = [[Charlotte (1785–1974 electoral district)|Charlotte]]
+|term_start      = 1914-12-06
+|term_end        = 1917-02-01
+|event1          = appointment
+|event1_year     = 1914
+|event1_assembly = 33rd
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008 |url=http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/GJClarke.pdf |publisher=Government of New Brunswick |title=George J. Clarke |url-status=dead |archive-url=https://web.archive.org/web/20081219204103/http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/GJClarke.pdf |archive-date=December 19, 2008 }}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[James Alexander Murray|James A. Murray]]
+|jurisdiction    = NB
+|number          = 16
+|leadership      = 1917
+|image           = 
+|party           = Conservative
+|birth_year      = 1864
+|death_year      = 1960
+|riding          = [[Kings (New Brunswick provincial electoral district)|Kings]]
+|term_start      = 1917-02-01
+|term_end        = 1917-04-04
+|event1          = appointment
+|event1_year     = 1917
+|event1_assembly = 33rd
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008 |url=http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/JAMurray.pdf |publisher=Government of New Brunswick |title=James A. Murray |url-status=dead |archive-url=https://web.archive.org/web/20081219204037/http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/JAMurray.pdf |archive-date=December 19, 2008 }}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[Walter E. Foster]]
+|jurisdiction    = NB
+|number          = 17
+|leadership      = 1916
+|image           = Walter Edward Foster.jpg
+|party           = Liberal
+|birth_year      = 1873
+|death_year      = 1947
+|riding          = [[Victoria (New Brunswick provincial electoral district)|Victoria]]
+|riding_term     = 1917-1920
+|riding2         = [[Saint John Centre (electoral district)|Saint John City]]
+|riding2_term    = 1920-1923
+|term_start      = 1917-04-04
+|term_end        = 1923-02-01
+|event1          = election
+|event1_year     = 1917
+|event1_assembly = 34th
+|event2          = election
+|event2_year     = 1920
+|event2_assembly = 35th
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008|url=http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/WEFoster.pdf|publisher=Government of New Brunswick|title=Walter E. Foster|url-status=dead|archive-url=https://web.archive.org/web/20081219204039/http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/WEFoster.pdf|archive-date=December 19, 2008|df=mdy-all}}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[Peter J. Veniot]]
+|jurisdiction    = NB
+|number          = 18
+|leadership      = 1923
+|image           = Peter Veniot as Postmaster General.jpg
+|party           = Liberal
+|birth_year      = 1863
+|death_year      = 1936
+|riding          = [[Gloucester (provincial electoral district)|Gloucester]]
+|term_start      = 1923-02-28
+|term_end        = 1925-09-10
+|event1          = appointment
+|event1_year     = 1923
+|event1_assembly = 35th
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008|url=http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/PJVeniot.pdf|publisher=Government of New Brunswick|title=Peter J. Veniot|url-status=dead|archive-url=https://web.archive.org/web/20081219204033/http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/PJVeniot.pdf|archive-date=December 19, 2008|df=mdy-all}}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[John B. M. Baxter]]
+|jurisdiction    = NB
+|number          = 19
+|leadership      = 1925
+|image           = J. B. M. Baxter 1944.jpg
+|party           = Conservative
+|birth_year      = 1868
+|death_year      = 1946
+|riding          = [[Saint John County (provincial electoral district)|Saint John County]]
+|term_start      = 1925-09-14
+|term_end        = 1931-05-19
+|event1          = election
+|event1_year     = 1925
+|event1_assembly = 36th
+|event2          = election
+|event2_year     = 1930
+|event2_assembly = 37th
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008 |url=http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/JBMBaxter.pdf |title=Baxter, John Babington Macaulay Sr. |publisher=Government of New Brunswick |url-status=dead |archive-url=https://web.archive.org/web/20070324135306/http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/JBMBaxter.pdf |archive-date=March 24, 2007 }}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[Charles D. Richards]]
+|jurisdiction    = NB
+|number          = 20
+|leadership      = 1931
+|image           = Charles Dow Richards 1916.png
+|party           = Conservative
+|birth_year      = 1879
+|death_year      = 1956
+|riding          = [[York (1785–1974 electoral district)|York]]
+|term_start      = 1931-05-18
+|term_end        = 1933-06-02
+|event1          = appointment
+|event1_year     = 1931
+|event1_assembly = 37th
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008 |url=http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/CDRichards.pdf |title=Richards, Charles Dow |publisher=Government of New Brunswick |url-status=dead |archive-url=https://web.archive.org/web/20081219204101/http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/CDRichards.pdf |archive-date=December 19, 2008 }}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[Leonard P. D. Tilley]]
+|jurisdiction    = NB
+|number          = 21
+|leadership      = 1933
+|image           = LeonardPDTilley.jpg
+|party           = Conservative
+|birth_year      = 1870
+|death_year      = 1947
+|riding          = [[Saint John Centre (electoral district)|Saint John City]]
+|term_start      = 1933-06-01
+|term_end        = 1935-07-12
+|event1          = appointment
+|event1_year     = 1933
+|event1_assembly = 37th
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008 |url=http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/LPDTilley.pdf |title=Tilley, Leonard Percy DeWolfe |publisher=Government of New Brunswick |url-status=dead |archive-url=https://web.archive.org/web/20081219204053/http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/LPDTilley.pdf |archive-date=December 19, 2008 }}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[Allison A. Dysart]]
+|jurisdiction    = NB
+|number          = 22
+|leadership      = 1926
+|image           = Allison Dysart dates.jpg
+|party           = Liberal
+|birth_year      = 1880
+|death_year      = 1962
+|riding          = [[Kent (1827–1974 electoral district)|Kent]]
+|term_start      = 1935-07-16
+|term_end        = 1940-03-13
+|event1          = election
+|event1_year     = 1935
+|event1_assembly = 38th
+|event2          = election
+|event2_year     = 1939
+|event2_assembly = 39th
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008 |url=http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/AADysart.pdf |title=Dysart, Albert Allison |publisher=Government of New Brunswick |url-status=dead |archive-url=https://web.archive.org/web/20081219204041/http://www.gnb.ca/legis/leglibbib/special_projects/premiers-bios/english/AADysart.pdf |archive-date=December 19, 2008 }}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[John B. McNair]]
+|jurisdiction    = NB
+|number          = 23
+|leadership      = 1940
+|image           = John B. McNair 1944 newspaper.png
+|party           = Liberal
+|birth_year      = 1889
+|death_year      = 1968
+|riding          = [[Victoria (New Brunswick provincial electoral district)|Victoria]]
+|riding_term     = 1940-1944
+|riding2         = [[York (1785–1974 electoral district)|York]]
+|riding2_term    = 1944-1952
+|term_start      = 1940-03-13
+|term_end        = 1952-10-07
+|event1          = appointment
+|event1_year     = 1940
+|event1_assembly = 39th
+|event2          = election
+|event2_year     = 1944
+|event2_assembly = 40th
+|event3          = election
+|event3_year     = 1948
+|event3_assembly = 41st
+|accomplishments = 
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Hugh John Flemming]]
+|jurisdiction    = NB
+|number          = 24
+|leadership      = 1951
+|image           = 
+|party           = PC
+|birth_year      = 1899
+|death_year      = 1982
+|riding          = [[Carleton (1834–1974 electoral district)|Carleton]]
+|term_start      = 1952-10-08
+|term_end        = 1960-07-11
+|event1          = election
+|event1_year     = 1952
+|event1_assembly = 42nd
+|event2          = election
+|event2_year     = 1956
+|event2_assembly = 43rd
+|accomplishments = 
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Louis Joseph Robichaud]]
+|jurisdiction    = NB
+|number          = 25
+|leadership      = 1958
+|image           = 
+|party           = Liberal
+|birth_year      = 1925
+|death_year      = 2005
+|riding          = [[Kent (1827–1974 electoral district)|Kent]]
+|term_start      = 1960-07-12
+|term_end        = 1970-11-11
+|event1          = election
+|event1_year     = 1960
+|event1_assembly = 44th
+|event2          = election
+|event2_year     = 1963
+|event2_assembly = 45th
+|event3          = election
+|event3_year     = 1967
+|event3_assembly = 46th
+|accomplishments = 
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Richard Bennett Hatfield]]
+|jurisdiction    = NB
+|number          = 26
+|leadership      = 1967
+|image           = 
+|party           = PC
+|birth_year      = 1931
+|death_year      = 1991
+|riding          = [[Carleton (1834–1974 electoral district)|Carleton]]
+|riding_term     = 1961-1974
+|riding2         = [[Carleton Centre]]
+|riding2_term    = 1974-1987
+|term_start      = 1970-11-11
+|term_end        = 1987-10-27
+|event1          = election
+|event1_year     = 1970
+|event1_assembly = 47th
+|event2          = election
+|event2_year     = 1974
+|event2_assembly = 48th
+|event3          = election
+|event3_year     = 1978
+|event3_assembly = 49th
+|event4          = election
+|event4_year     = 1982
+|event4_assembly = 50th
+|accomplishments = 
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Frank McKenna]]
+|jurisdiction    = NB
+|number          = 27
+|leadership      = 1985
+|image           = Frank McKenna2.jpg
+|party           = Liberal
+|birth_year      = 1948
+|death_year      = 
+|riding          = [[Chatham (electoral district)|Chatham]]
+|riding_term     = 1982-1995
+|riding2         = [[Miramichi-Bay du Vin]]
+|riding2_term    = 1995-1997
+|term_start      = 1987-10-27
+|term_end        = 1997-10-14
+|event1          = election
+|event1_year     = 1987
+|event1_assembly = 51st
+|event2          = election
+|event2_year     = 1991
+|event2_assembly = 52nd
+|event3          = election
+|event3_year     = 1995
+|event3_assembly = 53rd
+|accomplishments = 
+|references      = <ref>{{cite web|access-date=November 9, 2008|url=http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/FMcKenna.pdf|title=McKenna, Francis Joseph (Frank)|publisher=Government of New Brunswick|url-status=dead|archive-url=https://web.archive.org/web/20081219204034/http://www.gnb.ca/legis/leglibbib/Special_Projects/premiers-bios/english/FMcKenna.pdf|archive-date=December 19, 2008|df=mdy-all}}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[Ray Frenette]]
+|jurisdiction    = NB
+|number          = 28
+|leadership      = 1997
+|image           = 
+|party           = Liberal
+|birth_year      = 1935
+|death_year      = 2018
+|riding          = [[Moncton East (electoral district)|Moncton East]]
+|term_start      = 1997-10-14
+|term_end        = 1998-05-14
+|event1          = appointment
+|event1_year     = 1997
+|event1_assembly = 53rd
+|accomplishments = 
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Camille Thériault]]
+|jurisdiction    = NB
+|number          = 29
+|leadership      = 1998
+|image           = Camille Thériault.jpg
+|party           = Liberal
+|birth_year      = 1955
+|death_year      = 
+|riding          = [[Kent South]]
+|term_start      = 1998-05-14
+|term_end        = 1999-06-21
+|event1          = appointment
+|event1_year     = 1998
+|event1_assembly = 53rd
+|accomplishments = 
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Bernard Lord]]
+|jurisdiction    = NB
+|number          = 30
+|leadership      = [[1997 Progressive Conservative Party of New Brunswick leadership election|1997]]
+|image           = Bernard Lord au PJP 2012.jpg
+|party           = PC
+|birth_year      = 1965
+|death_year      = 
+|riding          = [[Moncton East (electoral district)|Moncton East]]
+|term_start      = 1999-06-21
+|term_end        = 2006-10-03
+|event1          = election
+|event1_year     = 1999
+|event1_assembly = 54th
+|event2          = election
+|event2_year     = 2003
+|event2_assembly = 55th
+|accomplishments = 
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Shawn Graham]]
+|jurisdiction    = NB
+|number          = 31
+|leadership      = [[2002 New Brunswick Liberal Association leadership election|2002]]
+|image           = Shawn Graham 2007.JPG
+|party           = Liberal
+|birth_year      = 1968
+|death_year      = 
+|riding          = [[Kent (provincial electoral district)|Kent]]
+|term_start      = 2006-10-03
+|term_end        = 2010-10-12
+|event1          = election
+|event1_year     = 2006
+|event1_assembly = 56th
+|event2          = 
+|event2_year     = 
+|event2_assembly = 
+|accomplishments = 
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[David Alward]]
+|jurisdiction    = NB
+|number          = 32
+|leadership      = [[2008 Progressive Conservative Party of New Brunswick leadership election|2008]]
+|image           = David Alward, premier of New Brunswick, Canada.png
+|party           = PC
+|birth_year      = 1959
+|death_year      = 
+|riding          = [[Woodstock (electoral district)|Woodstock]]
+|term_start      = 2010-10-12
+|term_end        = 2014-10-07
+|event1          = election
+|event1_year     =2010
+|event1_assembly = 57th
+|event2          = 
+|event2_year     = 
+|event2_assembly = 
+|accomplishments = 
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Brian Gallant]]
+|jurisdiction    = NB
+|number          = 33
+|leadership      = [[2012 New Brunswick Liberal Association leadership election|2012]]
+|image           = Premier Brian Gallant (cropped).jpg
+|party           = Liberal
+|birth_year      = 1982
+|death_year      = 
+|riding          = [[Shediac Bay-Dieppe]]
+|term_start      = 2014-10-07
+|term_end        = 2018-11-09
+|event1          = election
+|event1_year     = 2014
+|event1_assembly = 58th
+|event2          = election
+|event2_year     = 2018
+|event2_assembly = 59th
+|accomplishments = 
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Blaine Higgs]]
+|jurisdiction    = NB
+|number          = 34
+|leadership      = [[2016 Progressive Conservative Party of New Brunswick leadership election|2016]]
+|image           = Blaine Higgs at COVID-19 announcement in 2020 (49667487992) (cropped).jpg
+|party           = PC
+|birth_year      = 1954
+|riding          = [[Quispamsis (electoral district)|Quispamsis]]
+|term_start      = 2018-11-09
+|term_end        = 2024-11-02
+|event1          = appointment
+|event1_year     = 2018
+|event1_assembly = 59th
+|event2          = election
+|event2_year     = 2020
+|event2_assembly = 60th
+|accomplishments = 
+|references      = 
+}}
+{{Canadian first minister list
+|name            = [[Susan Holt]] 
+|jurisdiction    = NB
+|number          = 35
+|leadership      = [[2022 New Brunswick Liberal Association leadership election|2022]]
+|image           = Susan Holt Quispamsis 2024.jpg
+|party           = Liberal
+|birth_year      = 1977
+|riding          = [[Fredericton South-Silverwood]]
+|term_start      = 2024-11-02
+|term_end        =  
+|event1          = election
+|event1_year     = 2024
+|event1_assembly = 61st
+|event2          =  
+|event2_year     =  
+|event2_assembly = 
+|accomplishments = 
+|references      =  
+}}
+{{Canadian first minister list/bottom|colspan=10|notes=<nowiki>*</nowiki> The New Brunswick practice is to count George E. King as the 2nd and 4th premier.<ref>{{cite web|title=Shawn Graham Bios |url=http://www1.gnb.ca/legis/bios1/bio-e.asp?IDNo=130&version=e |publisher=Legislative Assembly of New Brunswick |access-date=March 19, 2011 |date=August 26, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20110718121303/http://www1.gnb.ca/legis/bios1/bio-e.asp?idNo=130&version=e |archive-date=July 18, 2011 }}</ref>}}
+
+==See also==
+* [[Leader of the Opposition (New Brunswick)]]
+
+== References ==
+;General
+{{refbegin}}
+* {{cite web|access-date=November 9, 2008|url=http://www.cbc.ca/nbvotes2006/features/feature1-bythenumbers.html|title=New Brunswick by the numbers |publisher=CBC|date=August 25, 2006 }}
+* {{cite web|access-date=November 9, 2008|url=http://www.gnb.ca/legis/leglibbib/special_projects/premiers.asp|title=Premiers of New Brunswick|publisher=The Legislative Library of New Brunswick|url-status=dead|archive-url=https://web.archive.org/web/20110611205203/http://www.gnb.ca/legis/leglibbib/special_projects/premiers.asp|archive-date=June 11, 2011|df=mdy-all}}
+* {{cite book |last=Doyle |first=Arthur T. |title=Elections in New Brunswick, 1784-1984 |year=1984 |publisher=Brunswick Press |location=Fredericton |isbn=0-88838-391-6}}
+{{refend}}
+
+;Specific
+{{Reflist|30em}}
+
+==External links==
+* [https://web.archive.org/web/20081114083824/http://www.gnb.ca/0089/index-e.asp New Brunswick Office of the Premier]
+{{NBPremiers}}
+{{New Brunswick politics}}
+{{Canadian First Ministers}}
+
+{{featured list}}
+
+{{DEFAULTSORT:List Of Premiers Of New Brunswick}}
+[[Category:Lists of premiers of Canada by province or territory|New Brunswick]]
+[[Category:Premiers of New Brunswick|*]]
+[[Category:Lists of political office-holders in New Brunswick|Premiers]]

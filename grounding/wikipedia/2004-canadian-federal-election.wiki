@@ -1,0 +1,2326 @@
+{{Short description|none}}
+{{Use mdy dates|date=June 2019}}
+{{Infobox election
+| election_name = 2004 Canadian federal election
+| country = Canada
+| type = parliamentary
+| ongoing = no
+| party_colour = no
+| party_name = no
+| previous_election = 2000 Canadian federal election
+| previous_year = 2000
+| election_date = {{start date|2004|6|28}}
+| next_election = 2006 Canadian federal election
+| next_year = 2006
+| seats_for_election = 308 seats in the [[House of Commons of Canada|House of Commons]]
+| majority_seats = 155
+| previous_mps = 37th Canadian Parliament
+| elected_mps = List of House members of the 38th Parliament of Canada
+| opinion_polls = Opinion polling in the Canadian federal election, 2004
+| registered = 22,466,621
+| turnout = 60.9% ({{decrease}} 3.2 [[Percentage Point|pp]])
+| image1 = {{CSS image crop|Image = Canadian Prime Minister Paul Martin respond to questions from the press corps in the Rose Garden after a meeting at the White House (3x4 cropped).jpg |bSize = 160|cWidth = 120|cHeight = 160|oTop = 15|oLeft = 20}}
+| colour1 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader1 = [[Paul Martin]]
+| party1 = {{Canadian party colour|CA|Liberal|name}}
+| leader_since1 = [[2003 Liberal Party of Canada leadership election|November 14, 2003]]
+| leaders_seat1 = [[LaSalle—Émard]]
+| last_election1 = 172 seats, 40.85%
+| seats_before1 = 168
+| seats1 = '''135'''
+| seat_change1 = {{decrease}} 33
+| popular_vote1 = '''4,982,220'''
+| percentage1 = '''36.73%'''
+| swing1 = {{decrease}} 4.12 [[Percentage Point|pp]]
+| image2 = {{CSS image crop|Image =Prime Minister Stephen Harper in 2005.jpg|bSize = 180|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 35}}
+| colour2 = {{Canadian party colour|CA|Conservative|nohash}}
+| leader2 = [[Stephen Harper]]
+| leader_since2 = [[2004 Conservative Party of Canada leadership election|March 20, 2004]]
+| party2 = {{Canadian party colour|CA|Conservative|name}}
+| leaders_seat2 = [[Calgary Southwest]]
+| last_election2 = 78 seats, 37.68%
+| seats_before2 = 72
+| seats2 = 99
+| seat_change2 = {{increase}} 27
+| popular_vote2 = 4,019,498
+| percentage2 = 29.63%
+| swing2 = {{decrease}} 8.05 [[Percentage Point|pp]]
+| image4 = {{CSS image crop|Image =Gilles Duceppe1cropped.jpg|bSize = 180|cWidth = 120|cHeight = 160|oTop = 23|oLeft = 30}}
+| colour4 = {{Canadian party colour|CA|BQ|nohash}}
+| leader4 = [[Gilles Duceppe]]
+| leader_since4 = [[1997 Bloc Québécois leadership election|March 15, 1997]]
+| party4 = {{Canadian party colour|CA|BQ|name}}
+| leaders_seat4 = [[Laurier—Sainte-Marie|Laurier]]
+| last_election4 = 38 seats, 10.72%
+| seats_before4 = 33
+| seats4 = 54
+| seat_change4 = {{increase}} 21
+| popular_vote4 = 1,680,109
+| percentage4 = 12.39%{{efn-lr|group=results0|Only contested seats in [[Quebec]].}}
+| swing4 = {{increase}} 1.67 [[Percentage Point|pp]]
+| image5 = {{CSS image crop|Image =Jack Layton in 2005.jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour5 = {{Canadian party colour|CA|NDP|nohash}}
+| leader5 = [[Jack Layton]]
+| leader_since5 = [[2003 New Democratic Party leadership election|January 24, 2003]]
+| party5 = {{Canadian party colour|CA|NDP|name}}
+| leaders_seat5 = ''Ran in [[Toronto—Danforth (federal electoral district)|Toronto—Danforth]] (won)''
+| last_election5 = 13 seats, 8.51%
+| seats_before5 = 14
+| seats5 = 19
+| seat_change5 = {{increase}} 5
+| popular_vote5 = 2,127,403
+| percentage5 = 15.68%
+| swing5 = {{increase}} 7.17 [[Percentage Point|pp]]
+
+<!-- map -->| map = {{Switcher
+| [[File:2004 Canadian General Election.svg|300px]]
+| Results by electoral district, shaded by winners' vote share
+| [[File:Canada 2004 Federal Election.svg|300px]]
+| Results by province and territory}}
+
+<!-- bottom -->| title = Prime Minister
+| before_election = [[Paul Martin]]
+| before_party = {{Canadian party colour|CA|Liberal|name}}
+| posttitle = Prime Minister after election
+| after_election = [[Paul Martin]]
+| after_party = {{Canadian party colour|CA|Liberal|name}}
+| map2_image = Elec2004.PNG
+| map2_size = 300px
+| map2_caption = The Canadian parliament after the 2004 election
+}}
+
+The '''2004 Canadian federal election''' was held on June 28, 2004, to elect members to the [[House of Commons of Canada]] of the [[38th Canadian Parliament|38th Parliament]] of [[Canada]]. The [[Liberal Party of Canada|Liberal]] government of [[Prime Minister of Canada|Prime Minister]] [[Paul Martin]] lost its [[majority government|majority]] but was able to continue in office as a [[Federal minority governments in Canada|minority government]] after the election. This was the first election contested by the newly amalgamated [[Conservative Party of Canada]], after it was formed by the two [[centre-right politics|right-of-centre]] parties, the [[Progressive Conservative Party of Canada|Progressive Conservative Party]] and the [[Canadian Alliance]].
+
+On May 23, 2004, the [[Governor General of Canada|governor general]], [[Adrienne Clarkson]], on the advice of Martin, ordered the dissolution of the House of Commons, triggering an [[snap election|early election]] despite the Liberals being only three and a half years into their five-year mandate. Earlier, the election result was widely expected to be a fourth consecutive majority government for the Liberals, but early in 2004 Liberal popularity fell sharply due to the emerging details of the [[sponsorship scandal]]. Polls even started to indicate the possibility of a Conservative minority government. In the end, the Liberals won a minority government, though they were well short of a majority and lost nearly three dozen seats. This was the last time any party in Canada won four consecutive terms in government until [[2025 Canadian federal election|2025]], which was also won by the Liberals. It was also the first election since [[1988 Canadian federal election|1988]] in which the NDP won any seats in [[Ontario]].
+
+On election day, polling times were arranged to allow results from most provinces to be announced more or less simultaneously, with the exception of [[Atlantic Canada]], whose results were known before the close of polling in other provinces due to the [[British Columbia Supreme Court]]'s decision in ''[[R v Bryan]]''.
+
+== Major political parties ==
+{{Main|List of political parties in Canada}}
+
+=== Liberal Party of Canada ===
+
+Until the [[Liberal Party of Canada sponsorship scandal|sponsorship scandal]], most pundits were predicting that new [[Prime Minister of Canada|Prime Minister]] [[Paul Martin]] would lead the [[Liberal Party of Canada]] to a fourth [[majority government]], possibly setting a record for number of seats won.
+
+However, polls released immediately after the scandal broke showed Liberal support down as much as 10% nationwide, with greater declines in its heartland of [[Quebec]] and [[Ontario]]. Although there was some recovery in Ontario and [[Atlantic Canada]], Liberal hopes of making unprecedented gains in the west faded. The unpopularity of some provincial Liberal parties may also have had an effect on federal Liberal fortunes. In Ontario, for instance, the [[Ontario Liberal Party|provincial Liberal]] government introduced an unpopular budget the week of the expected election call, and their federal counterparts then fell into a statistical dead heat with the [[Conservative Party of Canada|Conservatives]] in polls there. The Liberals were also harmed by high-profile [[2004 Liberal Party of Canada infighting|party infighting]] that had been plaguing the party since Martin's earlier ejection from Cabinet by now-former Prime Minister Jean Chrétien.
+
+===Conservative Party of Canada===<!-- This section is linked from [[Stephen Harper]] -->
+
+In the final months of 2003, the [[Progressive Conservative Party of Canada|Progressive Conservatives]] and the [[Canadian Alliance]] were running a distant third and fourth, respectively, in public opinion polls.
+
+Many pundits predicted that the combination of the popular and fiscally conservative Martin, along with continued vote-splitting on the right, could have led to the almost total annihilation of the Progressive Conservatives and Canadian Alliance. This fear prompted those two parties to form a united [[Conservative Party of Canada]], which was approved by the members of the Canadian Alliance on December 5, 2003, and controversially by the delegates of the Progressive Conservatives on December 6, 2003.
+
+The new Conservative Party pulled well ahead of the NDP in the polls just before the election, although its support remained below the combined support that the Progressive Conservatives and the Alliance had as separate parties. On March 20, the Conservatives elected [[Stephen Harper]] as their new leader.
+
+The Conservatives gained more ground in polls after Harper became leader, and the poll results in the weeks before the election had them within one to two points of the Liberals, sometimes ahead, sometimes behind them. Party supporters hoped that the voters would react negatively to the Liberal attacks on what they called Harper's "hidden agenda", and that anger over the sponsorship scandal and other Liberal failures would translate to success at the polls.
+
+Late in the campaign, the Conservatives began to lose some momentum, in part due to remarks made by MPs. [[Scott Reid (politician)|Scott Reid]], the party's language critic, said that the policy of [[official bilingualism]] was unrealistic and needed to be reformed.<ref>Campbell Morrison, “Harper gov’t would overhaul bilingualism; Requirement for mandatory bilingual services would be eased under Tory gov’t: candidate.” ''Moncton Times and Transcript'', May 27, 2004, p. A1.</ref> [[Rob Merrifield]], health critic, suggested that women ought to have mandatory family counseling before they choose to have an abortion.<ref>{{Cite news|date=June 2, 2004|title=Martin defends ministers' ambush of Harper|work=[[CBC News]]|url=https://www.cbc.ca/news/canada/martin-defends-ministers-ambush-of-harper-1.477481|access-date=February 23, 2022}}</ref> [[Randy White (Canadian politician)|Randy White]] was quoted as saying "to heck with the courts" in reference to ''[[Reference Re Same-Sex Marriage]]'', suggesting the party would overturn same-sex marriage.<ref name="Court ruling">{{Cite news|date=February 14, 2012|title=Court ruling blasts mandatory minimums but fails to draw Conservative ire|work=Canadian Press|url=http://globalnews.ca/news/211267/court-ruling-blasts-mandatory-minimums-but-fails-to-draw-conservative-ire-2/|accessdate=2015-05-11}}</ref> [[Cheryl Gallant]] drew controversy when she compared [[abortion]] to the beheading of [[Iraq War]] [[hostage]] [[Nick Berg]],<ref>{{Cite news|date=7 June 2004|title=MP Gallant compares abortion to Iraq beheading|publisher=CTV.ca News|url=http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1086654108341_57?hub=Canada|url-status=dead|archive-url=https://web.archive.org/web/20070203235809/http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1086654108341_57?hub=Canada|archive-date=2007-02-03}}</ref> and called for the repeal of recently amended hate laws that include sexual orientation as one of the protected groups.<ref>{{Cite news|date=June 6, 2004|title=Conservative MP calls for repeal of hate law|work=[[CBC News]]|url=https://www.cbc.ca/news/canada/conservative-mp-calls-for-repeal-of-hate-law-1.497761|access-date=February 23, 2022}}</ref> Additionally, the Liberal Party began airing controversial TV ads.  Harper was also criticized for his position supporting the American-led [[2003 invasion of Iraq]].  The term "hidden agenda", used commonly in the 2000 election to refer to Stockwell Day, began surfacing with increasing regularity with regard to Harper's history of supporting privatized health care. Further damaging the Conservative campaign was a press release from Conservative headquarters that suggested that Paul Martin supported [[child pornography]].
+
+Although on the eve of the election the party was polling slightly ahead of the Liberals everywhere west of Quebec, it had dropped in support, polling behind or on par with Liberals everywhere except the West (Alberta, British Columbia, Saskatchewan, and Manitoba), where it held onto its traditional support.
+
+All together the new Conservatives fell from the combined Canadian Alliance-Progressive Conservative vote in 2000 of 37%, to only 29% of the vote, yet still gained 21 extra seats, finishing in second-place with 99 seats.
+
+=== New Democratic Party ===
+
+Before the announcement of the merger of the Canadian Alliance and Progressive Conservative Party, some were predicting that the [[New Democratic Party (Canada)|NDP]] would form the [[Official Opposition (Canada)|official opposition]] because the party was polling ahead of both right-of-centre parties.  A new leader ([[Jack Layton]]) and clear [[social democracy|social democratic]] policies helped revitalize the NDP. Polls suggested that the NDP had returned to the 18% to 20% level of support it enjoyed in the [[1984 Canadian federal election|1984 election]] and [[1988 Canadian federal election|1988 election]]. Layton suggested that the NDP would break their previous record of 43 seats won under former leader [[Ed Broadbent]].
+
+The NDP focused the campaign on winning ridings in Canada's urban centres, hoping especially to win seats in central [[Toronto]], [[Hamilton, Ontario|Hamilton]], [[Ottawa]] and [[Winnipeg, Manitoba|Winnipeg]]. The party's platform was built to cater to these regions and much of Layton's time was spent in these areas.
+
+The campaign stumbled early when Layton blamed the deaths of homeless people on Paul Martin, prompting the Liberals to accuse the NDP of negative campaigning. The NDP benefited from the decline in Liberal support, but not to the same extent as the Conservatives. There was an increasing prospect that NDP voters would switch to the Liberals to block a Conservative government. This concern did not manifest itself in the polls, however, and the NDP remained at somewhat below 20 percent mark in the polls for most of the campaign.
+
+The NDP achieved 15% of the popular vote, its highest in 16 years. However, it only won 19 seats in the House of Commons, two less than the 21 won in 1997, and far short of the 40 predicted. There was criticism{{According to whom|date=March 2025}} that Layton's focus on urban issues and gay rights marginalized the party's traditional emphasis on the poor, the working class, and rural Canadians. Long-time MP [[Lorne Nystrom]] and several other incumbents from the Prairie provinces were defeated, with the NDP being shut out of [[Saskatchewan]] for the first time since [[1965 Canadian federal election|1965]]. Layton won his own seat in a tight race, while Broadbent was returned to Parliament after many years of absence.
+
+=== Bloc Québécois ===
+The [[Bloc Québécois]] (BQ) had managed their best showing back in 1993, but they lost seats to the Liberals in 1997 and 2000, prompting pundits to suggest a decline in support for Quebec sovereignty. The Bloc continued to slide in the polls in most of 2003 after the election of the federalist [[Quebec Liberal Party]] at the [[National Assembly of Quebec]] under [[Jean Charest]], and during the long run-up to Paul Martin becoming leader of the federal Liberals.
+
+However, things progressively changed during 2003, partly because of the decline in popularity of the [[Liberal Party of Quebec]] government of [[Jean Charest]], and partly because support for [[Quebec sovereignty movement|independence in Quebec]] rose again (49% in March).{{Citation needed|date=June 2007}} The tide took its sharp turn when, in February 2004, the sponsorship scandal (uncovered in considerable part by the Bloc) hit the Liberal federal government.
+
+These events led to a resurgence of the BQ, putting it ahead of the pack once again: according to an [[Ipsos-Reid]] poll carried out for ''[[The Globe and Mail]]'' and [[CTV Television Network|CTV]] between the June 4 and 8, 50% of Quebecers intended to vote for the BQ against 24% for the Liberals.
+
+[[File:Jim Harris of the Green Party - 2008 (cropped).jpg|thumb|right|120px|[[Jim Harris (politician)|Jim Harris]], Greens Leader]]
+Speculation was ongoing about the possibility of the Bloc forming alliances with other opposition parties or with an eventual minority government to promote its goals of [[social democracy]] and respect of the autonomy of provinces. Leader Gilles Duceppe stated that the Bloc, as before, would co-operate with other opposition parties or with the government when interests were found to be in common, but that the Bloc would not participate in a coalition government.
+
+=== Green Party of Canada ===
+The [[Green Party of Canada|Greens]] ran candidates in all 308 ridings for the first time in its history. The party won twice as many votes in this election than it had over the previous 21 years of its history combined, although it failed to win a seat. It also spent more money than in the previous 21 years, and although much of this money was borrowed, the Greens' share of the popular vote enabled them to receive federal funding.
+
+== Campaign slogans ==
+
+These are the official slogans for the 2004 campaigns. The optional parts of the mottos (sometimes not used for efficiency) are put in brackets.
+
+{| cellpadding="5"
+|- valign="top"
+| [[Liberal Party of Canada|Liberal Party]] || English: Moving (Canada) Forward or Choose your Canada<br />French: Allons (or Aller) droit devant (avec l'Équipe Martin) (Moving forward with Team Martin)
+|- valign="top"
+| [[Conservative Party of Canada|Conservative Party]] || English:  Demand Better<br /> French:  C'est assez! (Enough!)
+|- valign="top"
+| [[Bloc Québécois]] || Un parti propre au Québec (A party belonging to Quebec ''or'' An honest party in Quebec) <br />Pre-election:  Parce qu'on est différent (Because we're different)
+|- valign="top"
+| [[New Democratic Party (Canada)|New Democratic Party]] || English:  [New Energy.] A Positive Choice.<br />French:  [Une force nouvelle.] Un choix Positif. (A New Force, A Positive Choice)
+|- valign="top"
+| [[Green Party of Canada|Green Party]] || English:  Someday is now<br />French:  L'avenir c'est maintenant
+|}
+
+== Issues ==
+Important issues in the election:
+*[[Liberal Party of Canada sponsorship scandal|Sponsorship scandal]]: badly hurt the Liberals in the polls and the theme of widespread corruption was used by all opposition parties, especially the Bloc.
+*[[Medicare (Canada)|Health care]]: all parties support Canada's government-administered health care system but acknowledge that improvements must be made to meet new demographic challenges and to reduce long wait times. Transfer payments to the provinces have been cut substantially to 16% by the federal Liberal government and it was difficult for Paul Martin to reconcile these cuts with his plan to improve the system.
+*[[Fiscal imbalance]]: all major parties except the Liberals claimed that there was a monetary imbalance between Ottawa and the provinces and spoke of plans to reduce it, the Bloc Québécois probably being the strongest denouncer of the situation.
+*[[Taxation]]: for the Conservatives, significantly lowering taxes, to stimulate the economy, was a central issue. The Conservatives also promised to end "[[corporate welfare]]" and replace it with tax cuts for all businesses. The Liberals, Communist Party and NDP opposed large tax cuts and argued that money should instead be spent to improve social programs.
+*[[Child care]]: The Liberals and NDP promised national child care programs.
+*[[Parliament of Canada|Parliamentary reform]]: The Conservatives accused the Liberals of perpetuating "undemocratic practices" in Parliament, by limiting the powers of MPs. Martin called for some reform, but not to the satisfaction of the Conservatives. The Conservatives promised an elected Senate and standing committee and provincial review of judicial appointments. The NDP spoke of abolishing the Senate.
+*[[Electoral reform]]: Conservatives promised fixed election dates. The NDP promoted the idea of [[proportional representation]] voting.
+*[[Same-sex marriage in Canada|Same-sex marriage]]: The Bloc Québécois and the NDP strongly favoured same sex marriage. The NDP considers it a human rights issue, and requires its MPs to either support legislation favouring same-sex marriage or abstain on such questions. The Bloc, on the other hand, treats it as a matter of conscience, allowing its members free votes on the issue. The Liberals sent the issue to be ruled upon by the Supreme Court, and the Liberal caucus was publicly divided on the issue. The majority of Conservative candidates opposed it; the Conservative party's official stance was for the issue to be resolved by a free vote in the Commons.
+*[[National Missile Defence]]: the [[George W. Bush|Bush]] administration in the U.S. wanted Canada to join the missile shield. The Conservatives strongly supported such a plan while the Bloc and the NDP opposed it. Although the Liberals reiterated past opposition to the weaponization of space, they did not have an expressed opinion on the shield.
+*[[2003 invasion of Iraq]]: the Conservatives supported the United States over Iraq, while the other parties generally opposed it.
+*[[Canadian gun registry|Gun registry]]: The Conservatives strongly opposed the gun registry while the other parties support it.
+*[[Cannabis in Canada|Marijuana]]: The Liberals have introduced measures to decriminalize possession of small quantities of marijuana, a move generally supported by the other opposition parties. The Conservative Party opposes such legislation. The Bloc Québécois is more explicit in its support for decriminalization, while the NDP wishes to study the issue and consider going beyond mere decriminalization.
+*[[Abortion]]: This was not a significant issue in this election. Abortion is legal in Canada after Parliament's failure to pass legislation to replace previous restrictions ruled illegal by the courts. Many Conservatives and a few Liberals oppose abortion. The Liberals tried to use it as a wedge issue after comments from pro-life Conservatives, but it did not change the outcome.
+*[[Dalton McGuinty|Ontario budget]]: The introduction by the [[Ontario Liberal Party|Liberal]] government of [[Dalton McGuinty]] of "Ontario Health Premiums" was very unpopular, despite Mr. McGuinty's claim that this new tax was necessary because of the budgetary deficit left by the previous [[Ontario Progressive Conservative Party|Progressive Conservative]] government. The Conservatives and the NDP capitalized on this and other unpopular fiscal and tax-related policy to attack the Liberals at the federal level.
+
+== Opinion polls ==
+{{further|Opinion polling for the 2004 Canadian federal election}}
+{{Canadian federal election opinion polling|1997|2000|2004|2006|2008|next=yes}}
+
+[[File:Intentions de vote (Campagne de 2004, fédéral).svg|thumb|center|600px|Voting intentions during the 2004 Canadian federal election campaign]]
+
+== Results ==
+{{Main|Results of the 2004 Canadian federal election|Results of the 2004 Canadian federal election by riding}}
+In 2004, a federal party required 155 of the 308 seats to form a majority government in Canada.  The Liberals came short of this number, winning 135. Until extremely close ridings were decided on the west coast, it appeared as though the Liberals' seat total, if combined with that of the left-wing [[New Democratic Party (Canada)|New Democratic Party]] (NDP), would be sufficient to hold a majority in the House of Commons. In the end, the Conservatives won Vancouver Island North, West Vancouver-Sunshine Coast, and New Westminster-Coquitlam, after trailing in all three ridings, as preliminary results were announced through the evening.
+
+As a result, the combined seat count of the Liberals and the NDP was 154, while the other 154 seats belonged to the Conservatives, Bloquistes, and one independent [[Chuck Cadman]] (previously a Conservative). Rather than forming a coalition with the NDP, the Liberal party led a minority government, obtaining majorities for its legislation on an ad hoc basis.  Nevertheless, as the showdown on [[Canadian federal budget, 2005|Bill C-48]], a matter of confidence, loomed in the spring of 2005, the Liberals and NDP, who wanted to continue the Parliament, found themselves matched against the Conservatives and the Bloc, who were registering no confidence. The bill passed with the Speaker casting the decisive tie-breaking vote.
+
+Voter turnout nationwide was 60.9%, the lowest in Canadian history at that time,<ref>{{Cite web|url=http://www.elections.ca/content.asp?section=pas&document=turnout&lang=e&textonly=false |title=Elections Canada Online &#124; Voter Turnout at Federal Elections and Referendums, 1867–2008 |publisher=Elections.ca |access-date=February 24, 2011}}</ref> with 13,683,570 out of 22,466,621 registered voters casting their ballots. The voter turnout fell by more than 3[[Percentage Point|pp]] from the 2000 federal election which had 64.1% turnout.<ref>{{Cite web |url=http://www.elections.ca/gen/rep/37g/table3_e.html |title= Thirty-seventh General Election 2000: Official Voting Results: Synopsis: TABLE 3|website=www.elections.ca |archive-url=https://web.archive.org/web/20031223150014/http://www.elections.ca/gen/rep/37g/table3_e.html |archive-date=December 23, 2003}}</ref>
+
+[[File:2004 Canadian parliament.svg|center|300px]]
+
+{|class="wikitable" style="text-align:right; font-size:85%"
+|+Elections to the [[38th Canadian Parliament]] (2004)<ref name="Report2004">{{cite book |author=<!--Not stated--> |date= 2004|title= Report of the Chief Electoral Officer of Canada on the 38th General Election Held on June 28, 2004|url= https://www.elections.ca/res/rep/off/statreport2004_e.pdf|location= Ottawa|publisher= [[Elections Canada]]|issn= 0846-6351|isbn=0-662-49240-4}}</ref><ref name="Districts2004">{{cite web |url= https://www.elections.ca/scripts/OVR2004/23/data/table11.csv|title= Table 11: Voting results by electoral district|author=<!--Not stated--> |publisher= [[Elections Canada]]|access-date= May 8, 2024}}</ref><ref name="Candidates2004">{{cite web |url= https://www.elections.ca/scripts/OVR2004/23/data/table12.csv|title= Table 12: List of candidates by electoral district and individual results|author=<!--Not stated--> |publisher= [[Elections Canada]]|access-date= May 8, 2024}}</ref>
+|-
+! rowspan="2" colspan="2" style="width:15%"|Party
+! rowspan="2"|Leader
+! rowspan="2"|Candidates
+! colspan="6"|Votes
+! colspan="3"|Seats
+|-
+! #
+! ±
+! %
+! colspan="3" | Change (pp)
+! [[2000 Canadian federal election|2000]]
+! 2004
+! ±
+{{Canadian party colour|CA|Liberal|row-name}}
+| style="text-align:left;" |[[Paul Martin]]
+| 308  || 4,982,220  || 269,811{{decrease}} || 36.73
+| {{bartable| -4.12||-5|1em|background:red}}
+|172
+|{{Composition bar|135|308|{{Canadian party colour|CA|Liberal}}}}
+|37{{decrease}}
+{{Canadian party colour|CA|Conservative|row-name}}<ref group=a>Compared to combined total of Alliance/PC in 2000.</ref>
+| style="text-align:left;" |[[Stephen Harper]]
+| 308  || 4,019,498  || 824,429{{decrease}} || 29.63
+| {{bartable| -8.04||-5|1em|background:red}}
+|78
+|{{Composition bar|99|308|{{Canadian party colour|CA|Conservative}}}}
+|21{{increase}}
+{{Canadian party colour|CA|NDP|row-name}}
+| style="text-align:left;" |[[Jack Layton]]
+| 308  || 2,127,403  || 1,033,535{{increase}}  || 15.68
+| {{bartable| 7.18||-5|1em|background:green}}
+|13
+|{{Composition bar|19|308|{{Canadian party colour|CA|NDP}}}}
+|6{{increase}}
+{{Canadian party colour|CA|BQ|row-name}}
+| style="text-align:left;" |[[Gilles Duceppe]]
+| 75  || 1,680,109  || 302,382{{increase}}  || 12.39
+| {{bartable| 1.67||-5|1em|background:green}}
+|38
+|{{Composition bar|54|308|{{Canadian party colour|CA|BQ}}}}
+|16{{increase}}
+{{Canadian party colour|CA|Green|row-name}}
+| style="text-align:left;" |[[James R. M. Harris|Jim Harris]]
+| 308  || 582,247  || 477,845{{increase}}  || 4.29
+| {{bartable| 3.48||-5|1em|background:green}}
+{{Canadian party colour|CA|Independent|row-name}}
+|  || 65  || 64,864  || 9,828{{increase}}  || 0.48
+| {{bartable| 0.05||-5|1em|background:green}}
+| –
+|{{Composition bar|1|308|{{Canadian party colour|CA|Independent}}}}
+|1{{increase}}
+{{Canadian party colour|CA|Christian Heritage|row-name}}
+| style="text-align:left;" |Ron Gray
+| 62  || 40,335  || 40,335{{increase}}  || 0.30 ||''New''
+{{Canadian party colour|CA|Marijuana|row-name}}
+| style="text-align:left;" |[[Marc-Boris St-Maurice]]
+| 71  || 33,276  || 32,982{{decrease}} || 0.25 || -0.27
+{{Canadian party colour|CA|Progressive Canadian|row-name}}
+| style="text-align:left;" |Ernie Schreiber
+| 16  || 10,872  || 10,872{{increase}}  || 0.08 ||''New''
+{{Canadian party colour|CA|Canadian Action|row-name}}
+| style="text-align:left;" |[[Connie Fogal]]
+| 45  || 8,807  || 18,296{{decrease}} || 0.06 || -0.15
+{{Canadian party colour|CA|Marxist-Leninist|row-name}}
+| style="text-align:left;" |Sandra L. Smith
+| 76  || 8,696  || 3,372{{decrease}} || 0.06 || -0.03
+{{Canadian party colour|CA|Communist|row-name}}
+| style="text-align:left;" |[[Miguel Figueroa]]
+| 35  || 4,426  || 4,350{{decrease}} || 0.03 || -0.04
+{{Canadian party colour|CA|Libertarian|row-name}}
+| style="text-align:left;" |[[Jean-Serge Brisson]]
+| 8  || 1,949  || 1,949{{increase}}  || 0.01 ||''New''
+|-
+| colspan="3" style="text-align: left;" |'''Total''' ||1,685
+! colspan="2"|13,564,702
+! colspan="2"| 100.00%
+|-
+| colspan="4" style="text-align:left;" | Rejected ballots
+| 118,868 ||20,544{{decrease}}
+|-
+| colspan="4" style="text-align:left;" | Turnout
+|13,683,570 ||686,385{{increase}}
+|60.91% ||0.27{{decrease}}
+|-
+| colspan="4" style="text-align:left;" | Registered voters
+|22,466,621 ||1,223,148{{increase}}
+|}
+{{reflist|group=a}}
+
+===Synopsis of results===
+{| class="wikitable sortable mw-collapsible" style="text-align:right; font-size:80%"
+|+ Results by riding — 2004 Canadian federal election<ref name="Report2004"/><ref name="Districts2004"/><ref name="Candidates2004"/>
+|-
+! colspan="2" rowspan="3" scope="col" | [[List of Canadian federal electoral districts|Riding]]
+! colspan="2" rowspan="3" scope="col" | [[2000 Canadian federal election|2000]]<br>(Redist.)<br><ref group=a>{{cite web |url= https://epe.lac-bac.gc.ca/100/205/301/elections_canada-ef/06-01-17/www.elections.ca/content.asp@section=cir&document=index&dir=tran&lang=e&textonly=false|title= Transposition of Votes|author=<!--Not stated--> |date= January 20, 2004|website= epe.lac-bac.gc.ca|publisher= [[Elections Canada]]}}</ref>
+! scope="col" colspan="6" | Winning party
+! rowspan="3" scope="col" | Turnout<br><ref group=a>including spoilt ballots</ref>
+! scope="col" colspan="8" | Votes<ref group=a>minor political parties receiving less than 1% of the national popular vote are aggregated under "Other"; independent candidates are aggregated separately</ref>
+|-
+! colspan="2" rowspan="2" scope="col" | Party
+! rowspan="2" scope="col" | Votes
+! rowspan="2" scope="col" | Share
+! rowspan="2" scope="col" | Margin<br>#
+! rowspan="2" scope="col" | Margin<br>%
+! scope="col" | [[Liberal Party of Canada|Lib]]
+! scope="col" | [[Conservative Party of Canada|Con]]
+! scope="col" | [[New Democratic Party of Canada|NDP]]
+! scope="col" | [[Bloc Québécois|BQ]]
+! scope="col" | [[Green Party of Canada|Green]]
+! scope="col" | {{abbr|Ind|Independent or No Affiliation}}
+! scope="col" | Other
+! rowspan="2" scope="col" | Total
+|-
+! scope="col" style="background-color:#EA6D6A;"|
+! scope="col" style="background-color:#6495ED;"|
+! scope="col" style="background-color:#F4A460;"|
+! scope="col" style="background-color:#87CEFA;"|
+! scope="col" style="background-color:#99C955;"|
+! scope="col" style="background-color:#DCDCDC;"|
+! scope="col" style="background-color:#FFFFFF;"|
+|-
+! &nbsp; !! !! colspan="2"| !! colspan="2"| !! !! !! !! !! !! !! !! !! !! !! !! !!
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Athabasca (electoral district)|Athabasca]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 17,942  || 60.30% || 10,784  || 36.24% || 47.85% || 7,158  || 17,942  || 3,115  || – || 1,542  || – || – || 29,757 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Calgary East]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 21,897  || 61.12% || 14,276  || 39.85% || 47.79% || 7,621  || 21,897  || 3,535  || – || 2,529  || – || 245  || 35,827 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Calgary North Centre]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 28,143  || 54.19% || 17,050  || 32.83% || style="background-color:#D8BFD8;"|60.97% || 11,093  || 28,143  || 6,298  || – || 5,840  || 380  || 184  || 51,938 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Calgary Northeast]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 21,924  || 62.24% || 13,252  || 37.62% || 47.80% || 8,672  || 21,924  || 2,682  || – || 1,658  || – || 291  || 35,227 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Calgary—Nose Hill]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 31,088  || 64.38% || 20,037  || 41.50% || style="background-color:#D8BFD8;"|61.21% || 11,051  || 31,088  || 3,250  || – || 2,898  || – || – || 48,287 
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;" | AB || style="text-align:left;" | [[Calgary South Centre]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 26,192  || 51.16% || 10,887  || 21.26% || 57.54% || 15,305  || 26,192  || 4,350  || – || 5,080  || – || 274  || 51,201 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Calgary Southeast]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 36,843  || 71.00% || 28,355  || 54.64% || style="background-color:#D8BFD8;"|63.72% || 8,488  || 36,843  || 3,419  || – || 3,142  || – || – || 51,892 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Calgary Southwest]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 35,297  || 68.36% || 25,796  || 49.96% || style="background-color:#D8BFD8;"|64.49% || 9,501  || 35,297  || 2,884  || – || 3,210  || – || style="background-color:#F0E68C;"|745  || 51,637 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Calgary West]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 31,322  || 55.90% || 14,920  || 26.63% || style="background-color:#D8BFD8;"|67.52% || 16,402  || 31,322  || 3,632  || – || 4,274  || – || style="background-color:#F0E68C;"|402  || 56,032 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Crowfoot (electoral district)|Crowfoot]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 37,649  || 80.21% || 34,034  || 72.51% || style="background-color:#D8BFD8;"|62.36% || 3,615  || 37,649  || 3,241  || – || 1,795  || – || 639  || 46,939 
+|- style="background-color:#AFEEEE;"
+| style="text-align:left;" | AB || style="text-align:left;" | [[Edmonton—Beaumont]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 17,555  || 42.82% || 134  || 0.33% || 59.67% || 17,555  || 17,421  || 3,975  || – || 1,911  || – || 135  || 40,997 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Edmonton Centre]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 22,560  || 42.50% || 721  || 1.36% || 59.77% || 22,560  || 21,839  || 4,836  || – || 2,584  || 221  || style="background-color:#F0E68C;"|1,043  || 53,083 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Edmonton East]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 20,224  || 46.02% || 5,974  || 13.59% || 51.58% || 14,250  || 20,224  || 6,464  || – || 2,471  || – || 538  || 43,947 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Edmonton—Leduc]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 26,791  || 55.05% || 12,522  || 25.73% || style="background-color:#D8BFD8;"|65.08% || 14,269  || 26,791  || 4,581  || – || 3,029  || – || – || 48,670 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Edmonton—St. Albert]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 29,508  || 57.65% || 17,149  || 33.51% || 60.04% || 12,359  || 29,508  || 5,927  || – || 3,387  || – || – || 51,181 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Edmonton—Sherwood Park (federal electoral district)|Edmonton—Sherwood Park]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 27,222  || 57.87% || 15,703  || 33.38% || 60.15% || 11,519  || 27,222  || 5,155  || – || 3,146  || – || – || 47,042 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Edmonton—Spruce Grove]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 30,497  || 60.40% || 17,585  || 34.83% || 60.33% || 12,912  || 30,497  || 4,508  || – || 2,572  || – || – || 50,489 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Edmonton Strathcona (federal electoral district)|Edmonton—Strathcona]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 19,089  || 39.40% || 5,032  || 10.39% || style="background-color:#D8BFD8;"|65.66% || 14,057  || 19,089  || 11,535  || – || 3,146  || – || style="background-color:#F0E68C;"|622  || 48,449 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Lethbridge (federal electoral district)|Lethbridge]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 29,765  || 62.62% || 19,515  || 41.06% || style="background-color:#D8BFD8;"|61.92% || 10,250  || 29,765  || 4,623  || – || 1,262  || – || style="background-color:#F0E68C;"|1,632  || 47,532 
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;" | AB || style="text-align:left;" | [[Macleod (federal electoral district)|Macleod]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 32,232  || 74.76% || 27,018  || 62.67% || 60.03% || 5,214  || 32,232  || 2,802  || – || 2,865  || – || – || 43,113 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Medicine Hat (federal electoral district)|Medicine Hat]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 30,241  || 76.15% || 25,910  || 65.24% || 53.88% || 4,331  || 30,241  || 3,643  || – || 1,498  || – || – || 39,713 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Peace River (federal electoral district)|Peace River]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 28,158  || 65.13% || 19,958  || 46.16% || 53.73% || 8,200  || 28,158  || 4,804  || – || 2,073  || – || – || 43,235 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Red Deer (federal electoral district)|Red Deer]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 33,510  || 74.80% || 28,216  || 62.98% || 57.73% || 5,294  || 33,510  || 3,500  || – || 2,142  || – || 353  || 44,799 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Vegreville—Wainwright]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 33,800  || 73.54% || 28,410  || 61.82% || 59.56% || 5,390  || 33,800  || 3,793  || – || 2,976  || – || – || 45,959 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Westlock—St. Paul]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 26,433  || 66.80% || 18,814  || 47.55% || 56.56% || 7,619  || 26,433  || 3,480  || – || 2,036  || – || – || 39,568 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Wetaskiwin (federal electoral district)|Wetaskiwin]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 31,404  || 73.66% || 26,316  || 61.73% || 60.77% || 5,088  || 31,404  || 3,090  || – || 2,642  || – || 410  || 42,634 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Wild Rose (electoral district)|Wild Rose]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 33,337  || 70.60% || 27,366  || 57.95% || style="background-color:#D8BFD8;"|61.51% || 5,971  || 33,337  || 4,009  || – || 3,904  || – || – || 47,221 
+|-
+| style="text-align:left;" | AB || style="text-align:left;" | [[Yellowhead (electoral district)|Yellowhead]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 26,503  || 68.61% || 22,062  || 57.11% || 56.57% || 4,441  || 26,503  || 4,429  || – || 2,534  || – || 721  || 38,628 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Abbotsford (electoral district)|Abbotsford]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 29,587  || 61.37% || 19,970  || 41.42% || style="background-color:#D8BFD8;"|64.57% || 9,617  || 29,587  || 6,575  || – || 1,389  || – || style="background-color:#F0E68C;"|1,040  || 48,208 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Burnaby—Douglas]]
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 15,682  || 34.59% || 934  || 2.06% || style="background-color:#D8BFD8;"|61.49% || 14,748  || 12,531  || 15,682  || – || 1,687  || 282  || style="background-color:#F0E68C;"|413  || 45,343 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Burnaby—New Westminster (federal electoral district)|Burnaby—New Westminster]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 14,061  || 33.72% || 329  || 0.79% || 58.95% || 13,732  || 11,821  || 14,061  || – || 1,606  || – || style="background-color:#F0E68C;"|478  || 41,698 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Cariboo—Prince George]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 19,721  || 46.72% || 8,538  || 20.23% || 57.43% || 8,397  || 19,721  || 11,183  || – || 1,798  || 478  || style="background-color:#F0E68C;"|635  || 42,212 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Chilliwack—Fraser Canyon]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 24,096  || 53.68% || 14,852  || 33.08% || style="background-color:#D8BFD8;"|61.82% || 8,249  || 24,096  || 9,244  || – || 1,449  || – || style="background-color:#F0E68C;"|1,854  || 44,892 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Delta—Richmond East]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 21,308  || 45.60% || 5,793  || 12.40% || style="background-color:#D8BFD8;"|63.97% || 15,515  || 21,308  || 6,838  || – || 3,066  || – || – || 46,727 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Dewdney—Alouette]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 18,490  || 38.51% || 2,797  || 5.83% || style="background-color:#D8BFD8;"|62.29% || 10,500  || 18,490  || 15,693  || – || 2,535  || 798  || – || 48,016 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Esquimalt—Juan de Fuca]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 19,389  || 35.30% || 2,568  || 4.68% || style="background-color:#D8BFD8;"|65.93% || style="background-color:#EABB94;"|19,389  || 13,271  || 16,821  || – || 5,078  || 229  || 141  || 54,929 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Fleetwood—Port Kells]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 14,052  || 35.80% || 2,484  || 6.33% || 59.06% || 11,568<ref group=a>[[Gulzar Singh Cheema]] was previously a member of the [[Legislative Assembly of British Columbia]] and a BC Cabinet minister. Before he moved to BC, he had been a member of the [[Legislative Assembly of Manitoba]].</ref>  || 14,052  || 10,976  || – || 2,484  || – || 167  || 39,247 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Kamloops—Thompson]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 20,611  || 40.35% || 6,177  || 12.09% || style="background-color:#D8BFD8;"|63.89% || 14,434  || 20,611  || 13,379  || – || 2,213  || 440  || – || 51,077 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Kelowna (electoral district)|Kelowna]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 25,553  || 48.00% || 11,444  || 21.50% || style="background-color:#D8BFD8;"|62.14% || 14,109  || 25,553  || 8,954  || – || 3,903  || – || style="background-color:#F0E68C;"|718  || 53,237 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Kootenay—Columbia]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 21,336  || 52.02% || 11,564  || 28.19% || style="background-color:#D8BFD8;"|65.09% || 7,351  || 21,336  || 9,772  || – || 2,558  || – || – || 41,017 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Langley (federal electoral district)|Langley]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 24,390  || 47.70% || 11,741  || 22.96% || style="background-color:#D8BFD8;"|65.40% || 12,649  || 24,390  || 8,568  || – || 3,108  || 2,422  || – || 51,137 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Nanaimo—Alberni]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 23,158  || 39.07% || 4,006  || 6.76% || style="background-color:#D8BFD8;"|68.26% || 11,770  || 23,158  || 19,152  || – || 4,357  || – || style="background-color:#F0E68C;"|841  || 59,278 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Nanaimo—Cowichan]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 25,243  || 43.71% || 6,315  || 10.94% || style="background-color:#D8BFD8;"|66.70% || 9,257  || 18,928  || 25,243  || – || 3,822  || 229  || 270  || 57,749 
+|- style="background-color:#AFEEEE;"
+| style="text-align:left;" | BC || style="text-align:left;" | [[New Westminster—Coquitlam]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 15,693  || 32.87% || 113  || 0.24% || style="background-color:#D8BFD8;"|63.63% || 13,080  || 15,693  || 15,580  || – || 2,684  || – || 700  || 47,737 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Newton—North Delta]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 13,529  || 32.82% || 520  || 1.26% || style="background-color:#D8BFD8;"|62.99% || 13,009  || 13,529  || 12,037  || – || 2,555  || – || 98  || 41,228 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[North Okanagan—Shuswap]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 24,014  || 46.39% || 11,486  || 22.19% || style="background-color:#D8BFD8;"|63.69% || 11,636  || 24,014  || 12,528  || – || 2,333  || style="background-color:#F0E68C;"|505  || style="background-color:#F0E68C;"|749  || 51,765 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[North Vancouver (electoral district)|North Vancouver]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 22,619  || 40.03% || 2,071  || 3.67% || style="background-color:#D8BFD8;"|68.16% || 22,619  || 20,548  || 8,967  || – || 4,114  || – || style="background-color:#F0E68C;"|258  || 56,506 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Okanagan—Coquihalla]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 24,220  || 49.79% || 13,008  || 26.74% || style="background-color:#D8BFD8;"|63.55% || 11,212  || 24,220  || 9,509  || – || 2,896  || – || style="background-color:#F0E68C;"|807  || 48,644 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Port Moody—Westwood—Port Coquitlam]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 18,664  || 40.94% || 6,219  || 13.64% || style="background-color:#D8BFD8;"|62.96% || 12,445  || 18,664  || 12,023  || – || 1,971  || – || style="background-color:#F0E68C;"|481  || 45,584 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Prince George—Peace River]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 21,281  || 58.71% || 13,780  || 38.02% || 53.56% || 4,988  || 21,281  || 7,501  || – || 2,073  || – || style="background-color:#F0E68C;"|402  || 36,245 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Richmond (British Columbia federal electoral district)|Richmond]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 18,204  || 44.48% || 3,747  || 9.16% || 56.69% || 18,204  || 14,457  || 6,142  || – || 1,743  || – || 376  || 40,922 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Saanich—Gulf Islands]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 22,050  || 34.58% || 4,968  || 7.79% || style="background-color:#D8BFD8;"|73.97% || 17,082  || 22,050  || 13,763  || – || 10,662  || 214  || – || 63,771 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Skeena—Bulkley Valley]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 13,706  || 37.14% || 1,272  || 3.45% || 59.99% || 7,965  || 12,434  || 13,706  || – || 1,225  || – || style="background-color:#F0E68C;"|1,569  || 36,899 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[South Surrey—White Rock—Cloverdale]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 22,760  || 42.67% || 3,149  || 5.90% || style="background-color:#D8BFD8;"|69.43% || 19,611  || 22,760  || 7,663  || – || 3,032  || – || 272  || 53,338 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Southern Interior (electoral district)|Southern Interior]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 16,940  || 36.60% || 680  || 1.47% || style="background-color:#D8BFD8;"|66.82% || 8,310  || 16,940  || 16,260  || – || 3,663  || 591  || style="background-color:#F0E68C;"|517  || 46,281 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Surrey North (federal electoral district)|Surrey North]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#DCDCDC;" | || style="text-align:left;" |Ind
+| 15,089  || 43.80% || 6,777  || 19.67% || 55.40% || 5,413  || 4,340  || 8,312  || – || 658  || style="background-color:#EABB94;"|15,089  || style="background-color:#F0E68C;"|638  || 34,450 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Vancouver Centre]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 21,280  || 40.31% || 4,230  || 8.01% || style="background-color:#D8BFD8;"|61.47% || 21,280  || 10,139  || 17,050  || – || 3,580  || – || style="background-color:#F0E68C;"|744  || 52,793 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Vancouver East (federal electoral district)|Vancouver East]]
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 23,452  || 56.46% || 12,684  || 30.54% || 58.16% || 10,768  || 4,153  || 23,452  || – || 2,365  || 147  || style="background-color:#F0E68C;"|649  || 41,534 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Vancouver Island North]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 18,733  || 35.41% || 483  || 0.91% || style="background-color:#D8BFD8;"|65.79% || 11,352  || 18,733  || 18,250  || – || 4,456  || – || 111  || 52,902 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Vancouver Kingsway]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 17,267  || 40.44% || 1,351  || 3.16% || 58.01% || 17,267  || 7,037  || style="background-color:#EEBBBB;"|15,916  || – || 1,521  || 548  || style="background-color:#F0E68C;"|408  || 42,697 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Vancouver Quadra]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 29,187  || 52.43% || 14,539  || 26.12% || style="background-color:#D8BFD8;"|66.53% || 29,187  || 14,648  || 8,348  || – || 3,118  || – || style="background-color:#F0E68C;"|364  || 55,665 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Vancouver South (federal electoral district)|Vancouver South]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 18,196  || 44.52% || 7,770  || 19.01% || 55.82% || 18,196  || 10,426  || 10,038  || – || 1,465  || 98  || style="background-color:#F0E68C;"|653  || 40,876 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[Victoria (British Columbia federal electoral district)|Victoria]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 20,398  || 35.04% || 2,305  || 3.96% || style="background-color:#D8BFD8;"|68.41% || 20,398  || 12,708  || 18,093  || – || 6,807  || – || 206  || 58,212 
+|-
+| style="text-align:left;" | BC || style="text-align:left;" | [[West Vancouver—Sunshine Coast]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 21,372  || 35.30% || 1,687  || 2.79% || style="background-color:#D8BFD8;"|66.00% || 19,685  || 21,372  || 13,156  || – || 5,887  || – || style="background-color:#F0E68C;"|444  || 60,544 
+|-
+| style="text-align:left;" | MB || style="text-align:left;" | [[Brandon—Souris]]
+|style="color:inherit;background-color:#9999FF;" | || style="text-align:left;" |PC
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 18,209  || 51.72% || 9,687  || 27.52% || 56.24% || 8,522  || 18,209  || 6,740  || – || 1,264  || – || style="background-color:#F0E68C;"|469  || 35,204 
+|-
+| style="text-align:left;" | MB || style="text-align:left;" | [[Charleswood—St. James]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 18,688  || 44.29% || 734  || 1.74% || style="background-color:#D8BFD8;"|65.45% || 17,954  || 18,688  || 4,283  || – || 880  || – || style="background-color:#F0E68C;"|386  || 42,191 
+|-
+| style="text-align:left;" | MB || style="text-align:left;" | [[Churchill (electoral district)|Churchill]]
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 8,612  || 43.44% || 1,008  || 5.08% || 41.40% || 7,604  || 2,999  || 8,612  || – || 612  || – || – || 19,827 
+|-
+| style="text-align:left;" | MB || style="text-align:left;" | [[Dauphin—Swan River]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 18,025  || 53.95% || 10,684  || 31.98% || 58.63% || 6,809  || 18,025  || 7,341  || – || 673  || – || 560  || 33,408 
+|-
+| style="text-align:left;" | MB || style="text-align:left;" | [[Elmwood—Transcona]]
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 15,221  || 51.99% || 7,577  || 25.88% || 50.65% || 4,923  || 7,644  || 15,221  || – || 719  || – || style="background-color:#F0E68C;"|771  || 29,278 
+|-
+| style="text-align:left;" | MB || style="text-align:left;" | [[Kildonan—St. Paul]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 13,582  || 37.30% || 278  || 0.76% || 60.19% || 13,304  || 13,582<ref group=a>[[Joy Smith]] was previously a member of the [[Legislative Assembly of Manitoba]]</ref>  || 8,202  || – || 756  || – || style="background-color:#F0E68C;"|568  || 36,412 
+|-
+| style="text-align:left;" | MB || style="text-align:left;" | [[Portage—Lisgar]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 22,939  || 65.93% || 16,765  || 48.18% || 57.35% || 6,174  || 22,939  || 3,251  || – || 856  || – || style="background-color:#F0E68C;"|1,575  || 34,795 
+|-
+| style="text-align:left;" | MB || style="text-align:left;" | [[Provencher]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 22,694  || 63.02% || 13,719  || 38.09% || 59.67% || 8,975  || 22,694  || 3,244  || – || 1,100  || – || – || 36,013 
+|-
+| style="text-align:left;" | MB || style="text-align:left;" | [[Saint Boniface (electoral district)|Saint Boniface]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 17,989  || 46.61% || 6,033  || 15.63% || 60.70% || 17,989  || 11,956  || 6,954  || – || 925  || – || style="background-color:#F0E68C;"|772  || 38,596 
+|-
+| style="text-align:left;" | MB || style="text-align:left;" | [[Selkirk—Interlake]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 18,727  || 47.25% || 8,211  || 20.72% || 59.41% || 9,059  || 18,727  || 10,516  || – || 982  || – || 353  || 39,637 
+|-
+| style="text-align:left;" | MB || style="text-align:left;" | [[Winnipeg Centre]]
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 12,149  || 45.39% || 2,864  || 10.70% || 45.08% || 9,285  || 3,631  || 12,149  || – || 1,151  || 92  || style="background-color:#F0E68C;"|460  || 26,768 
+|-
+| style="text-align:left;" | MB || style="text-align:left;" | [[Winnipeg North]]
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 12,507  || 48.16% || 3,016  || 11.61% || 47.13% || 9,491  || 3,186  || 12,507  || – || 531  || – || style="background-color:#F0E68C;"|252  || 25,967 
+|-
+| style="text-align:left;" | MB || style="text-align:left;" | [[Winnipeg South]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 19,270  || 51.31% || 6,500  || 17.31% || style="background-color:#D8BFD8;"|63.23% || 19,270  || 12,770  || 4,217  || – || 1,003  || – || 296  || 37,556 
+|-
+| style="text-align:left;" | MB || style="text-align:left;" | [[Winnipeg South Centre]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 18,133  || 46.60% || 7,617  || 19.57% || style="background-color:#D8BFD8;"|62.64% || 18,133  || 10,516  || 8,270  || – || 1,508  || – || style="background-color:#F0E68C;"|488  || 38,915 
+|-
+| style="text-align:left;" | NB || style="text-align:left;" | [[Acadie—Bathurst]]
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 23,857  || 53.93% || 9,405  || 21.26% || style="background-color:#D8BFD8;"|70.38% || 14,452  || 4,841  || 23,857  || – || 1,085  || – || – || 44,235 
+|-
+| style="text-align:left;" | NB || style="text-align:left;" | [[Beauséjour (electoral district)|Beauséjour]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 21,934  || 53.28% || 10,330  || 25.09% || style="background-color:#D8BFD8;"|68.29% || 21,934  || 11,604  || 6,056  || – || 1,574  || – || – || 41,168 
+|-
+| style="text-align:left;" | NB || style="text-align:left;" | [[Fredericton (federal electoral district)|Fredericton]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 19,819  || 46.78% || 5,626  || 13.28% || style="background-color:#D8BFD8;"|61.82% || 19,819  || 14,193  || 7,360  || – || 997  || – || – || 42,369 
+|-
+| style="text-align:left;" | NB || style="text-align:left;" | [[Fundy (electoral district)|Fundy]]
+|style="color:inherit;background-color:#9999FF;" | || style="text-align:left;" |PC
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 14,997  || 44.82% || 3,362  || 10.05% || style="background-color:#D8BFD8;"|62.26% || 11,635  || 14,997  || 5,417  || – || 1,051  || 358  || – || 33,458 
+|-
+| style="text-align:left;" | NB || style="text-align:left;" | [[Madawaska—Restigouche]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 14,144  || 44.66% || 5,407  || 17.07% || 60.58% || 14,144  || 7,605  || 8,737  || – || 1,185  || – || – || 31,671 
+|-
+| style="text-align:left;" | NB || style="text-align:left;" | [[Miramichi (electoral district)|Miramichi]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 15,647  || 48.08% || 6,199  || 19.05% || style="background-color:#D8BFD8;"|65.42% || 15,647  || 9,448  || 5,980  || – || 1,468  || – || – || 32,543 
+|-
+| style="text-align:left;" | NB || style="text-align:left;" | [[Moncton—Riverview—Dieppe]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 25,266  || 59.29% || 15,263  || 35.82% || 58.96% || 25,266  || 10,003  || 5,344  || – || 1,998  || – || – || 42,611 
+|-
+| style="text-align:left;" | NB || style="text-align:left;" | [[Saint John (electoral district)|Saint John]]
+|style="color:inherit;background-color:#9999FF;" | || style="text-align:left;" |PC
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 15,725  || 43.28% || 3,513  || 9.67% || 55.03% || style="background-color:#EEBBBB;"|15,725  || 12,212  || 6,926  || – || 807  || 290  || 369  || 36,329 
+|-
+| style="text-align:left;" | NB || style="text-align:left;" | [[St. Croix—Belleisle]]
+|style="color:inherit;background-color:#9999FF;" | || style="text-align:left;" |PC
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 16,339  || 53.06% || 6,637  || 21.55% || style="background-color:#D8BFD8;"|62.23% || 9,702  || 16,339  || 3,600  || – || 960  || – || 194  || 30,795 
+|-
+| style="text-align:left;" | NB || style="text-align:left;" | [[Tobique—Mactaquac]]
+|style="color:inherit;background-color:#9999FF;" | || style="text-align:left;" |PC
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 16,787  || 48.23% || 3,008  || 8.64% || style="background-color:#D8BFD8;"|64.00% || 16,787  || 13,779  || 2,957  || – || 1,282  || – || – || 34,805 
+|-
+| style="text-align:left;" | NL || style="text-align:left;" | [[Avalon (electoral district)|Avalon]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 18,335  || 58.34% || 9,124  || 29.03% || 49.83% || 18,335  || 9,211  || 3,450  || – || 430  || – || – || 31,426 
+|-
+| style="text-align:left;" | NL || style="text-align:left;" | [[Bonavista—Exploits]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 15,970  || 48.20% || 2,184  || 6.59% || 46.30% || 15,970  || style="background-color:#87CEFA;"|13,786  || 2,667  || – || 367  || 344  || – || 33,134 
+|-
+| style="text-align:left;" | NL || style="text-align:left;" | [[Humber—St. Barbe—Baie Verte]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 17,820  || 62.56% || 11,282  || 39.61% || 47.77% || 17,820  || 6,538  || 3,743  || – || 384  || – || – || 28,485 
+|-
+| style="text-align:left;" | NL || style="text-align:left;" | [[Labrador (electoral district)|Labrador]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 5,524  || 62.23% || 4,124  || 46.46% || 44.82% || 5,524  || 1,400  || 856  || – || 178  || 919  || – || 8,877 
+|-
+| style="text-align:left;" | NL || style="text-align:left;" | [[Random—Burin—St. George's]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 12,383  || 46.77% || 3,586  || 13.55% || 44.91% || 12,383  || 4,820  || 8,797  || – || 474  || – || – || 26,474 
+|-
+| style="text-align:left;" | NL || style="text-align:left;" | [[St. John's North]]
+|style="color:inherit;background-color:#9999FF;" | || style="text-align:left;" |PC
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 15,073  || 41.40% || 1,730  || 4.75% || 55.62% || 13,343<ref group=a>[[Walter Noel]] was previously a member of the [[House of Assembly of Newfoundland and Labrador]], as well as a provincial Cabinet minister.</ref>  || 15,073  || 7,198  || – || 791  || – || – || 36,405 
+|-
+| style="text-align:left;" | NL || style="text-align:left;" | [[St. John's South]]
+|style="color:inherit;background-color:#9999FF;" | || style="text-align:left;" |PC
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 13,330  || 39.57% || 1,451  || 4.31% || 52.30% || 11,879  || 13,330  || 7,989  || – || 493  || – || – || 33,691 
+|-
+| style="text-align:left;" | NS || style="text-align:left;" | [[Cape Breton—Canso]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 20,139  || 53.26% || 10,942  || 28.94% || style="background-color:#D8BFD8;"|63.80% || 20,139  || 7,654  || 9,197  || – || 820  || – || – || 37,810 
+|-
+| style="text-align:left;" | NS || style="text-align:left;" | [[Central Nova]]
+|style="color:inherit;background-color:#9999FF;" | || style="text-align:left;" |PC
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 16,376  || 43.27% || 5,906  || 15.60% || style="background-color:#D8BFD8;"|65.32% || 9,986  || 16,376  || 10,470  || – || 1,015  || – || – || 37,847 
+|-
+| style="text-align:left;" | NS || style="text-align:left;" | [[Dartmouth—Cole Harbour]]
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 17,425  || 42.07% || 3,962  || 9.56% || style="background-color:#D8BFD8;"|61.93% || 17,425  || 8,739  || 13,463  || – || 1,311  || – || style="background-color:#F0E68C;"|485  || 41,423 
+|-
+| style="text-align:left;" | NS || style="text-align:left;" | [[Halifax (federal electoral district)|Halifax]]
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 18,341  || 41.55% || 1,074  || 2.43% || style="background-color:#D8BFD8;"|62.68% || 17,267  || 6,457  || 18,341  || – || 2,081  || – || – || 44,146 
+|-
+| style="text-align:left;" | NS || style="text-align:left;" | [[Halifax West]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 19,083  || 47.50% || 7,855  || 19.55% || style="background-color:#D8BFD8;"|63.51% || 19,083  || 8,413  || 11,228  || – || 1,452  || – || – || 40,176 
+|-
+| style="text-align:left;" | NS || style="text-align:left;" | [[Kings—Hants]]
+|style="color:inherit;background-color:#9999FF;" | || style="text-align:left;" |PC
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 17,555  || 46.61% || 6,211  || 16.49% || style="background-color:#D8BFD8;"|62.42% || style="background-color:#EABB94;"|17,555  || 11,344  || 6,663  || – || 1,364  || 242  || 493  || 37,661 
+|-
+| style="text-align:left;" | NS || style="text-align:left;" | [[North Nova]]
+|style="color:inherit;background-color:#9999FF;" | || style="text-align:left;" |PC
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 20,188  || 50.49% || 9,597  || 24.00% || 60.46% || 10,591  || 20,188  || 7,560  || – || 1,245  || – || 399  || 39,983 
+|-
+| style="text-align:left;" | NS || style="text-align:left;" | [[Sackville—Eastern Shore]]
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 17,925  || 45.77% || 6,703  || 17.12% || 60.55% || 11,222  || 8,363  || 17,925  || – || 1,007  || – || 645  || 39,162 
+|-
+| style="text-align:left;" | NS || style="text-align:left;" | [[South Shore—St. Margaret's]]
+|style="color:inherit;background-color:#9999FF;" | || style="text-align:left;" |PC
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 14,954  || 37.90% || 2,296  || 5.82% || 60.52% || 12,658  || 14,954  || style="background-color:#EEBBBB;"|10,140  || – || 1,700  || – || – || 39,452 
+|-
+| style="text-align:left;" | NS || style="text-align:left;" | [[Sydney—Victoria]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 19,372  || 52.13% || 9,074  || 24.42% || 60.58% || 19,372  || 5,897  || 10,298  || – || 855  || 264  || 474  || 37,160 
+|-
+| style="text-align:left;" | NS || style="text-align:left;" | [[West Nova]]
+|style="color:inherit;background-color:#9999FF;" | || style="text-align:left;" |PC
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 18,343  || 42.64% || 4,134  || 9.61% || style="background-color:#D8BFD8;"|63.92% || 18,343  || 14,209  || 9,086  || – || 1,385  || – || – || 43,023 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Ajax—Pickering]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 21,706  || 49.77% || 7,040  || 16.14% || style="background-color:#D8BFD8;"|61.18% || 21,706  || 14,666  || 5,286  || – || 1,951  || – || – || 43,609 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Algoma—Manitoulin—Kapuskasing (federal electoral district)|Algoma—Manitoulin—Kapuskasing]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 14,276  || 40.94% || 3,225  || 9.25% || 57.74% || 14,276  || 8,093  || 11,051  || – || 1,449  || – || – || 34,869 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Ancaster—Dundas—Flamborough—Westdale (federal electoral district)|Ancaster—Dundas—Flamborough—Westdale]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 21,935  || 39.69% || 2,800  || 5.07% || style="background-color:#D8BFD8;"|69.91% || 21,935  || 19,135  || 11,557  || – || 2,636  || – || – || 55,263 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Barrie (federal electoral district)|Barrie]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 21,233  || 42.66% || 1,295  || 2.60% || style="background-color:#D8BFD8;"|61.17% || 21,233  || 19,938  || 5,312  || – || 3,288  || – || – || 49,771 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Beaches—East York (federal electoral district)|Beaches—East York]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 22,494  || 47.93% || 7,338  || 15.64% || style="background-color:#D8BFD8;"|64.02% || 22,494  || 6,603  || 15,156  || – || 2,127  || 80  || style="background-color:#F0E68C;"|473  || 46,933 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Bramalea—Gore—Malton (federal electoral district)|Bramalea—Gore—Malton]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 20,394  || 49.54% || 7,800  || 18.95% || 54.87% || 20,394  || 12,594  || 6,113  || – || 1,832  || – || 237  || 41,170 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Brampton—Springdale (federal electoral district)|Brampton—Springdale]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 19,385  || 47.73% || 8,203  || 20.20% || 54.85% || 19,385  || 11,182  || 8,038  || – || 1,927  || – || 86  || 40,618 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Brampton West (federal electoral district)|Brampton West]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 21,254  || 45.30% || 2,486  || 5.30% || 54.75% || 21,254  || 18,768<ref group=a>[[Tony Clement]] was a member of the [[Legislative Assembly of Ontario]] and a provincial Cabinet minister.</ref>  || 4,920  || – || 1,603  || 371  || – || 46,916 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Brant (electoral district)|Brant]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 20,455  || 38.05% || 2,663  || 4.95% || 60.28% || 20,455  || 17,792  || 11,826  || – || 2,738  || 373  || 570  || 53,754 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Burlington (federal electoral district)|Burlington]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 27,423  || 44.96% || 4,034  || 6.61% || style="background-color:#D8BFD8;"|68.80% || 27,423  || 23,389  || 6,581  || – || 3,169  || – || 429  || 60,991 
+|- style="background-color:#AFEEEE;"
+| style="text-align:left;" | ON || style="text-align:left;" | [[Cambridge (federal electoral district)|Cambridge]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 19,123  || 37.09% || 224  || 0.43% || 59.63% || 18,899  || 19,123  || 10,392  || – || 2,506  || style="background-color:#F0E68C;"|248  || 395  || 51,563 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Carleton—Lanark]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 32,664  || 50.04% || 10,479  || 16.05% || style="background-color:#D8BFD8;"|75.43% || 22,185  || 32,664  || 6,758  || – || 3,665  || – || – || 65,272 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Chatham-Kent—Essex (federal electoral district)|Chatham-Kent—Essex]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 17,435  || 39.63% || 407  || 0.93% || 59.53% || 17,435  || 17,028  || 7,538  || – || 1,845  || – || 150  || 43,996 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Clarington—Scugog—Uxbridge]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 20,813  || 40.74% || 1,265  || 2.48% || style="background-color:#D8BFD8;"|64.24% || 19,548  || 20,813  || 7,721  || – || 2,085  || – || 915  || 51,082 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Davenport (federal electoral district)|Davenport]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 16,773  || 50.69% || 5,481  || 16.56% || 52.89% || 16,773  || 3,077  || 11,292  || – || 1,384  || – || style="background-color:#F0E68C;"|564  || 33,090 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Don Valley East (federal electoral district)|Don Valley East]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 21,864  || 54.62% || 10,658  || 26.63% || 59.38% || 21,864  || 11,206  || 5,287  || – || 1,172  || – || style="background-color:#F0E68C;"|500  || 40,029 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Don Valley West (federal electoral district)|Don Valley West]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 30,615  || 59.79% || 16,120  || 31.48% || style="background-color:#D8BFD8;"|66.31% || 30,615  || 14,495  || 4,393  || – || 1,703  || – || – || 51,206 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Dufferin—Caledon]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 19,270  || 42.81% || 1,713  || 3.81% || 60.73% || 17,557  || 19,270<ref group=a>[[David Tilson]] was previously a member of the [[Legislative Assembly of Ontario]].</ref>  || 3,798  || – || 3,947  || – || 443  || 45,015 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Eglinton—Lawrence (federal electoral district)|Eglinton—Lawrence]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 28,360  || 60.24% || 16,568  || 35.19% || style="background-color:#D8BFD8;"|63.77% || 28,360  || 11,792  || 4,886  || – || 1,924  || – || 115  || 47,077 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Elgin—Middlesex—London (federal electoral district)|Elgin—Middlesex—London]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 20,333  || 43.84% || 4,473  || 9.64% || style="background-color:#D8BFD8;"|61.44% || 15,860  || 20,333  || 6,763  || – || 2,033  || – || style="background-color:#F0E68C;"|1,392  || 46,381 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Essex (federal electoral district)|Essex]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 18,755  || 36.57% || 829  || 1.62% || style="background-color:#D8BFD8;"|61.12% || 17,926  || 18,755  || 12,519  || – || 1,981  || – || 105  || 51,286 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Etobicoke Centre (federal electoral district)|Etobicoke Centre]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 30,441  || 58.28% || 15,612  || 29.89% || style="background-color:#D8BFD8;"|67.28% || 30,441  || 14,829  || 5,174  || – || 1,676  || – || 112  || 52,232 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Etobicoke—Lakeshore (federal electoral district)|Etobicoke—Lakeshore]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 24,909  || 50.24% || 9,750  || 19.67% || style="background-color:#D8BFD8;"|62.98% || 24,909  || 15,159  || 7,179  || – || 2,201  || – || 129  || 49,577 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Etobicoke North (federal electoral district)|Etobicoke North]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 19,450  || 63.32% || 13,713  || 44.64% || 51.01% || 19,450  || 5,737  || 3,761  || – || 605  || 309  || style="background-color:#F0E68C;"|856  || 30,718 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Glengarry—Prescott—Russell (federal electoral district)|Glengarry—Prescott—Russell]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 23,921  || 47.86% || 5,192  || 10.39% || style="background-color:#D8BFD8;"|67.04% || 23,921  || 18,729  || 4,238  || – || 2,634  || – || 464  || 49,986 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Grey—Bruce—Owen Sound]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 22,411  || 44.99% || 4,587  || 9.21% || style="background-color:#D8BFD8;"|64.26% || 17,824  || 22,411  || 6,516  || – || 2,076  || – || 982  || 49,809 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Guelph (federal electoral district)|Guelph]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 23,442  || 44.61% || 9,721  || 18.50% || style="background-color:#D8BFD8;"|64.18% || 23,442  || 13,721  || 10,527  || – || 3,866  || – || style="background-color:#F0E68C;"|991  || 52,547 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Haldimand—Norfolk]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 20,981  || 42.15% || 1,645  || 3.30% || style="background-color:#D8BFD8;"|63.63% || 19,336  || 20,981  || 7,143  || – || 1,703  || – || 617  || 49,780 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Haliburton—Kawartha Lakes—Brock (federal electoral district)|Haliburton—Kawartha Lakes—Brock]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 24,731  || 44.23% || 5,437  || 9.72% || style="background-color:#D8BFD8;"|64.22% || 19,294  || 24,731  || 8,427  || – || 2,637  || 330  || 493  || 55,912 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Halton (federal electoral district)|Halton]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 27,362  || 48.35% || 5,658  || 10.00% || style="background-color:#D8BFD8;"|65.18% || 27,362  || 21,704  || 4,642  || – || 2,889  || – || – || 56,597 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Hamilton Centre (federal electoral district)|Hamilton Centre]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 20,321  || 45.81% || 5,373  || 12.11% || 55.32% || 14,948  || 6,714  || 20,321<ref group=a>[[David Christopherson]] was previously a member of the [[Legislative Assembly of Ontario]].</ref>  || – || 1,422  || 345  || style="background-color:#F0E68C;"|611  || 44,361 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Hamilton East—Stoney Creek (federal electoral district)|Hamilton East—Stoney Creek]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 18,417  || 37.74% || 927  || 1.90% || 57.88% || 18,417  || 10,888  || 17,490  || – || 1,446  || 393  || 166  || 48,800 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Hamilton Mountain (federal electoral district)|Hamilton Mountain]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 18,548  || 34.81% || 996  || 1.87% || style="background-color:#D8BFD8;"|61.38% || 18,548  || 15,590  || 17,552  || – || 1,378  || – || 214  || 53,282 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Huron—Bruce (federal electoral district)|Huron—Bruce]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 25,538  || 49.79% || 9,608  || 18.73% || style="background-color:#D8BFD8;"|66.74% || 25,538  || 15,930  || 6,707  || – || 1,518  || – || style="background-color:#F0E68C;"|1,596  || 51,289 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Kenora (federal electoral district)|Kenora]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 8,563  || 36.23% || 986  || 4.17% || 56.11% || 8,563  || 6,598  || 7,577  || – || 898  || – || – || 23,636 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Kingston and the Islands (federal electoral district)|Kingston and the Islands]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 28,544  || 52.45% || 15,962  || 29.33% || 60.32% || 28,544  || 12,582  || 8,964  || – || 3,339  || style="background-color:#F0E68C;"|337  || style="background-color:#F0E68C;"|660  || 54,426 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Kitchener Centre (federal electoral district)|Kitchener Centre]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 21,264  || 47.13% || 8,852  || 19.62% || 58.56% || 21,264  || 12,412  || 8,717  || – || 2,450  || 277  || – || 45,120 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Kitchener—Conestoga (federal electoral district)|Kitchener—Conestoga]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 17,819  || 42.29% || 2,916  || 6.92% || 58.24% || 17,819  || 14,903  || 6,623  || – || 2,793  || – || – || 42,138 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Kitchener—Waterloo (electoral district)|Kitchener—Waterloo]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 28,015  || 48.12% || 10,860  || 18.65% || style="background-color:#D8BFD8;"|65.80% || 28,015  || 17,155  || 9,267  || – || 3,277  || 124  || 379  || 58,217 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Lanark—Frontenac—Lennox and Addington (federal electoral district)|Lanark—Frontenac—Lennox and Addington]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 27,566  || 48.77% || 10,059  || 17.80% || style="background-color:#D8BFD8;"|65.82% || 17,507  || 27,566  || 7,418  || – || 2,736  || style="background-color:#EEBBBB;"|820  || 479  || 56,526 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Leeds—Grenville]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 26,002  || 50.46% || 9,035  || 17.54% || style="background-color:#D8BFD8;"|70.38% || 16,967  || 26,002  || 5,834  || – || 2,722  || – || – || 51,525 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[London—Fanshawe (federal electoral district)|London—Fanshawe]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 15,664  || 38.08% || 3,153  || 7.66% || 55.67% || 15,664  || 10,811  || 12,511<ref group=a>[[Irene Mathyssen]] was previously a member of the [[Legislative Assembly of Ontario]] and a provincial Cabinet minister.</ref>  || – || 1,634  || – || style="background-color:#F0E68C;"|518  || 41,138 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[London North Centre (federal electoral district)|London North Centre]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 21,472  || 43.08% || 7,795  || 15.64% || 60.02% || 21,472  || 13,677  || 12,034  || – || 2,376  || – || style="background-color:#F0E68C;"|287  || 49,846 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[London West (federal electoral district)|London West]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 25,061  || 45.48% || 7,726  || 14.02% || style="background-color:#D8BFD8;"|65.27% || 25,061  || 17,335  || 9,522  || – || 2,611  || – || style="background-color:#F0E68C;"|578  || 55,107 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Markham—Unionville (federal electoral district)|Markham—Unionville]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 30,442  || 66.31% || 20,117  || 43.82% || 56.10% || 30,442  || 10,325  || 3,993  || – || 1,148  || – || – || 45,908 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Lambton—Kent—Middlesex (federal electoral district)|Middlesex—Kent—Lambton]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 19,452  || 39.73% || 164  || 0.33% || style="background-color:#D8BFD8;"|62.99% || 19,452  || 19,288  || 7,376  || – || 1,834  || – || 1,015  || 48,965 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Mississauga East—Cooksville (federal electoral district)|Mississauga East—Cooksville]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 22,435  || 56.70% || 12,136  || 30.67% || 52.43% || 22,435  || 10,299  || 4,619  || – || 1,167  || 114  || style="background-color:#F0E68C;"|932  || 39,566 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Mississauga South]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 24,628  || 51.67% || 8,601  || 18.04% || style="background-color:#D8BFD8;"|63.07% || 24,628  || 16,027  || 5,004  || – || 1,899  || – || 107  || 47,665 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Mississauga—Brampton South]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 24,753  || 57.16% || 14,320  || 33.07% || 53.84% || 24,753  || 10,433  || 6,411  || – || 1,525  || – || 185  || 43,307 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Mississauga—Erindale]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 28,246  || 54.37% || 11,646  || 22.42% || 60.27% || 28,246  || 16,600  || 5,104  || – || 1,855  || – || 145  || 51,950 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Mississauga—Streetsville (federal electoral district)|Mississauga—Streetsville]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 22,768  || 50.56% || 8,481  || 18.83% || 57.87% || 22,768  || 14,287  || 4,266  || – || 2,415  || – || 1,293  || 45,029 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Nepean—Carleton (federal electoral district)|Nepean—Carleton]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 30,420  || 45.66% || 3,736  || 5.61% || style="background-color:#D8BFD8;"|75.07% || 26,684  || 30,420  || 6,072  || – || 2,886  || – || 561  || 66,623 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Newmarket—Aurora (federal electoral district)|Newmarket—Aurora]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 21,818  || 42.42% || 689  || 1.34% || style="background-color:#D8BFD8;"|66.97% || 21,129  || 21,818  || 5,111  || – || 2,298  || – || 1,079  || 51,435 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Niagara Falls (federal electoral district)|Niagara Falls]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 19,882  || 38.70% || 1,137  || 2.21% || 57.09% || 18,745  || 19,882  || 10,680  || – || 2,071  || – || – || 51,378 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Niagara West—Glanbrook]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 20,874  || 40.29% || 664  || 1.28% || style="background-color:#D8BFD8;"|67.38% || 20,210  || 20,874  || 7,681  || – || 1,761  || – || style="background-color:#F0E68C;"|1,286  || 51,812 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Nickel Belt (electoral district)|Nickel Belt]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 17,188  || 42.41% || 3,208  || 7.92% || 59.64% || 17,188  || 7,628  || 13,980  || – || 1,031  || 217  || style="background-color:#F0E68C;"|481  || 40,525 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Nipissing—Timiskaming]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 18,254  || 42.31% || 2,253  || 5.22% || style="background-color:#D8BFD8;"|62.45% || 18,254  || 16,001<ref group=a>[[Al McDonald]] was previously a member of the [[Legislative Assembly of Ontario]].</ref>  || 7,354  || – || 1,329  || – || 204  || 43,142 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Northumberland—Quinte West (federal electoral district)|Northumberland—Quinte West]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 22,989  || 39.85% || 313  || 0.54% || style="background-color:#D8BFD8;"|63.19% || 22,989  || 22,676<ref group=a>[[Doug Galt]] was previously a member of the [[Legislative Assembly of Ontario]].</ref>  || 9,007  || – || 3,016  || – || – || 57,688 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Oak Ridges—Markham (federal electoral district)|Oak Ridges—Markham]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 31,964  || 51.73% || 11,252  || 18.21% || style="background-color:#D8BFD8;"|63.38% || 31,964  || 20,712  || 5,430  || – || 2,406  || – || style="background-color:#F0E68C;"|1,278  || 61,790 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Oakville (federal electoral district)|Oakville]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 28,729  || 52.01% || 9,205  || 16.66% || style="background-color:#D8BFD8;"|69.46% || 28,729  || 19,524  || 4,027  || – || 2,861  || – || 95  || 55,236 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Oshawa (federal electoral district)|Oshawa]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 15,815  || 33.21% || 463  || 0.97% || 57.20% || 14,510  || 15,815  || 15,352  || – || 1,850  || – || 91  || 47,618 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Ottawa Centre (federal electoral district)|Ottawa Centre]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 25,734  || 41.05% || 6,256  || 9.98% || style="background-color:#D8BFD8;"|70.35% || 19,478  || 11,933  || style="background-color:#EEBBBB;"|25,734  || – || 4,730  || 121  || style="background-color:#F0E68C;"|688  || 62,684 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Ottawa—Orléans]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 26,383  || 44.99% || 2,728  || 4.65% || style="background-color:#D8BFD8;"|73.63% || 26,383  || 23,655  || 5,905  || – || 2,699  || – || – || 58,642 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Ottawa South]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 25,956  || 43.82% || 5,334  || 9.01% || style="background-color:#D8BFD8;"|69.67% || 25,956  || 20,622  || 8,080  || – || 3,398  || 225  || style="background-color:#F0E68C;"|949  || 59,230 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Ottawa—Vanier (federal electoral district)|Ottawa—Vanier]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 25,952  || 49.17% || 13,183  || 24.98% || style="background-color:#D8BFD8;"|64.24% || 25,952  || 12,769  || 9,787  || – || 3,628  || – || style="background-color:#F0E68C;"|643  || 52,779 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Ottawa West—Nepean]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 23,971  || 41.78% || 1,380  || 2.41% || style="background-color:#D8BFD8;"|70.04% || 23,971  || 22,591  || 7,449  || – || 2,748  || – || style="background-color:#F0E68C;"|619  || 57,378 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Oxford (federal electoral district)|Oxford]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 20,606  || 44.89% || 6,595  || 14.37% || style="background-color:#D8BFD8;"|63.13% || 14,011  || 20,606  || 6,673  || – || 1,951  || – || style="background-color:#F0E68C;"|2,662  || 45,903 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Parkdale—High Park (federal electoral district)|Parkdale—High Park]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 19,727  || 42.05% || 3,526  || 7.52% || style="background-color:#D8BFD8;"|64.14% || 19,727  || 7,221  || 16,201  || – || 3,249  || – || style="background-color:#F0E68C;"|514  || 46,912 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Parry Sound—Muskoka (federal electoral district)|Parry Sound-Muskoka]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 19,271  || 43.86% || 3,301  || 7.51% || style="background-color:#D8BFD8;"|64.03% || 19,271  || 15,970  || 5,171  || – || 3,524  || – || – || 43,936 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" |[[Perth—Wellington (federal electoral district)|Perth Wellington]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 18,879  || 41.97% || 3,847  || 8.55% || style="background-color:#D8BFD8;"|61.78% || 15,032  || style="background-color:#87CEFA;"|18,879  || 7,027  || – || 2,770  || – || 1,273  || 44,981 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Peterborough (electoral district)|Peterborough]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 25,099  || 43.55% || 6,706  || 11.64% || style="background-color:#D8BFD8;"|65.19% || 25,099  || 18,393  || 10,957  || – || 3,182  || – || – || 57,631 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Pickering—Scarborough East (federal electoral district)|Pickering—Scarborough East]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 27,312  || 56.98% || 13,895  || 28.99% || style="background-color:#D8BFD8;"|64.27% || 27,312  || 13,417  || 5,392  || – || 1,809  || – || – || 47,930 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Prince Edward—Hastings (federal electoral district)|Prince Edward—Hastings]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 22,598  || 42.36% || 2,556  || 4.79% || style="background-color:#D8BFD8;"|62.59% || 20,042  || 22,598  || 8,105  || – || 2,130  || 468  || – || 53,343 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Renfrew—Nipissing—Pembroke (federal electoral district)|Renfrew—Nipissing—Pembroke]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 27,494  || 55.08% || 12,696  || 25.43% || style="background-color:#D8BFD8;"|67.08% || 14,798  || 27,494  || 5,720  || – || 1,191  || – || 714  || 49,917 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Richmond Hill (federal electoral district)|Richmond Hill]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 27,102  || 58.48% || 15,572  || 33.60% || 58.25% || 27,102  || 11,530  || 4,495  || – || 2,144  || – || 1,074  || 46,345 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[St. Catharines (federal electoral district)|St. Catharines]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 21,277  || 40.44% || 3,016  || 5.73% || style="background-color:#D8BFD8;"|62.03% || 21,277  || 18,261  || 10,135  || – || 1,927  || – || style="background-color:#F0E68C;"|1,016  || 52,616 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[St. Paul's (electoral district)|St. Paul's]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 32,171  || 58.39% || 20,945  || 38.02% || style="background-color:#D8BFD8;"|68.12% || 32,171  || 11,226  || 8,667  || – || 3,031  || – || – || 55,095 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Sarnia—Lambton (federal electoral district)|Sarnia—Lambton]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 19,932  || 41.93% || 5,432  || 11.43% || style="background-color:#D8BFD8;"|60.95% || 19,932  || 14,500  || 7,764  || – || 2,548  || style="background-color:#F0E68C;"|978  || 1,819  || 47,541 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Sault Ste. Marie (federal electoral district)|Sault Ste. Marie]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 16,512  || 38.29% || 752  || 1.74% || style="background-color:#D8BFD8;"|63.36% || 15,760  || 9,969  || 16,512<ref group=a>[[Tony Martin (politician)|Tony Martin]] was previously a member of the [[Legislative Assembly of Ontario]].</ref>  || – || 814  || – || 67  || 43,122 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Scarborough—Agincourt (federal electoral district)|Scarborough—Agincourt]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 26,400  || 64.08% || 17,751  || 43.09% || 56.44% || 26,400  || 8,649  || 4,182  || – || 919  || – || 1,048  || 41,198 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Scarborough Centre (federal electoral district)|Scarborough Centre]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 20,740  || 56.65% || 12,225  || 33.39% || 55.40% || 20,740  || 8,515  || 6,156  || – || 1,045  || – || 152  || 36,608 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Scarborough—Guildwood (federal electoral district)|Scarborough-Guildwood]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 20,950  || 57.53% || 12,673  || 34.80% || 55.26% || 20,950  || 8,277  || 5,885  || – || 1,106  || – || 200  || 36,418 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Scarborough—Rouge River (federal electoral district)|Scarborough—Rouge River]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 22,564  || 57.92% || 15,602  || 40.05% || 51.08% || 22,564  || 5,184  || 3,635  || – || 610  || 6,962<ref group=a>[[Raymond Cho (politician)|Raymond Cho]] identified himself as an Independent-Liberal</ref>  || – || 38,955 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Scarborough Southwest (federal electoral district)|Scarborough Southwest]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 18,776  || 49.46% || 9,748  || 25.68% || 57.16% || 18,776  || 9,028  || 8,471  || – || 1,520  || – || 168  || 37,963 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Simcoe—Grey (federal electoral district)|Simcoe—Grey]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 22,496  || 40.62% || 100  || 0.18% || style="background-color:#D8BFD8;"|63.15% || 22,396  || 22,496  || 5,532  || – || 2,668  || – || 2,285  || 55,377 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Simcoe North (federal electoral district)|Simcoe North]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 23,664  || 43.36% || 3,094  || 5.67% || style="background-color:#D8BFD8;"|64.65% || 23,664  || 20,570  || 6,162  || – || 3,486  || – || style="background-color:#F0E68C;"|689  || 54,571 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Stormont—Dundas—South Glengarry (federal electoral district)|Stormont—Dundas—South Glengarry]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 21,678  || 44.85% || 3,899  || 8.07% || style="background-color:#D8BFD8;"|64.54% || 17,779  || 21,678  || 5,387  || – || 3,491  || – || – || 48,335 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Sudbury (federal electoral district)|Sudbury]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 18,914  || 44.19% || 6,133  || 14.33% || 60.08% || 18,914  || 9,008  || 12,781  || – || 1,999  || – || 100  || 42,802 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Thornhill (federal electoral district)|Thornhill]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 28,709  || 54.58% || 10,584  || 20.12% || style="background-color:#D8BFD8;"|62.69% || 28,709  || 18,125  || 3,671  || – || 1,622  || style="background-color:#F0E68C;"|474  || – || 52,601 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Thunder Bay—Rainy River]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 14,290  || 39.37% || 3,509  || 9.67% || 57.22% || 14,290  || 9,559  || 10,781  || – || 856  || – || style="background-color:#F0E68C;"|814  || 36,300 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Thunder Bay—Superior North (federal electoral district)|Thunder Bay—Superior North]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 15,022  || 43.04% || 4,792  || 13.73% || 56.27% || 15,022  || 7,394  || 10,230  || – || 1,614  || – || 645  || 34,905 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Timmins—James Bay (federal electoral district)|Timmins-James Bay]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 14,138  || 41.45% || 613  || 1.80% || 55.38% || style="background-color:#EEBBBB;"|13,525  || 5,682  || 14,138  || – || 767  || – || – || 34,112 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Toronto Centre (federal electoral district)|Toronto Centre]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 30,336  || 56.53% || 17,589  || 32.78% || style="background-color:#D8BFD8;"|63.29% || 30,336  || 7,936  || 12,747  || – || 2,097  || – || style="background-color:#F0E68C;"|547  || 53,663 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Toronto—Danforth (federal electoral district)|Toronto—Danforth]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 22,198  || 46.34% || 2,395  || 5.00% || style="background-color:#D8BFD8;"|64.10% || 19,803  || 2,975  || 22,198  || – || 2,575  || – || style="background-color:#F0E68C;"|349  || 47,900 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Trinity—Spadina (federal electoral district)|Trinity—Spadina]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 23,202  || 43.55% || 805  || 1.51% || style="background-color:#D8BFD8;"|63.71% || 23,202  || 4,605  || 22,397  || – || 2,259  || 89  || style="background-color:#F0E68C;"|724  || 53,276 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Vaughan (federal electoral district)|Vaughan]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 31,430  || 62.96% || 19,609  || 39.28% || 56.01% || 31,430  || 11,821  || 4,371  || – || 1,722  || – || style="background-color:#F0E68C;"|580  || 49,924 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Welland (electoral district)|Welland]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 19,642  || 39.63% || 5,019  || 10.13% || 59.90% || 19,642  || 12,997  || 14,623  || – || 1,454  || – || style="background-color:#F0E68C;"|848  || 49,564 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Wellington—Halton Hills (federal electoral district)|Wellington—Halton Hills]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 21,479  || 42.81% || 2,306  || 4.60% || style="background-color:#D8BFD8;"|67.03% || 19,173  || 21,479  || 5,974<ref group=a>[[Noel Duignan]] was previously a member of the [[Legislative Assembly of Ontario]].</ref>  || – || 2,725  || – || 826  || 50,177 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Whitby—Oshawa]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 25,649  || 45.04% || 5,118  || 8.99% || style="background-color:#D8BFD8;"|64.08% || 25,649  || 20,531  || 8,002  || – || 2,759  || – || – || 56,941 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Willowdale (federal electoral district)|Willowdale]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 30,855  || 61.39% || 19,240  || 38.28% || style="background-color:#D8BFD8;"|60.92% || 30,855  || 11,615  || 4,812  || – || 1,844  || 253  || 883  || 50,262 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Windsor—Tecumseh (federal electoral district)|Windsor—Tecumseh]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 20,037  || 41.85% || 3,818  || 7.97% || 57.58% || 16,219  || 9,827  || 20,037  || – || 1,613  || – || 182  || 47,878 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[Windsor West (federal electoral district)|Windsor West]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+| 20,297  || 45.97% || 6,466  || 14.64% || 54.09% || 13,831  || 8,348  || style="background-color:#87CEFA;"|20,297  || – || 1,545  || – || 134  || 44,155 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[York Centre (federal electoral district)|York Centre]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 21,520  || 54.79% || 11,202  || 28.52% || 56.77% || 21,520  || 10,318  || 5,376  || – || 1,240  || 824  || – || 39,278 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[York—Simcoe (federal electoral district)|York—Simcoe]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 21,343  || 45.17% || 4,580  || 9.69% || 59.30% || 16,763  || 21,343  || 5,314  || – || 2,576  || – || style="background-color:#F0E68C;"|1,258  || 47,254 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[York South—Weston (federal electoral district)|York South—Weston]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 20,537  || 59.83% || 13,256  || 38.62% || 51.71% || 20,537  || 5,133  || 7,281  || – || 1,199  || – || 175  || 34,325 
+|-
+| style="text-align:left;" | ON || style="text-align:left;" | [[York West]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 17,903  || 64.74% || 13,675  || 49.45% || 48.49% || 17,903  || 3,120  || 4,228  || – || 824  || – || 1,580  || 27,655 
+|-
+| style="text-align:left;" | PE || style="text-align:left;" | [[Cardigan (electoral district)|Cardigan]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 11,064  || 53.38% || 4,175  || 20.14% || style="background-color:#D8BFD8;"|75.44% || 11,064  || 6,889  || 2,103  || – || 670  || – || – || 20,726 
+|-
+| style="text-align:left;" | PE || style="text-align:left;" | [[Charlottetown (electoral district)|Charlottetown]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 9,175  || 49.36% || 4,054  || 21.81% || style="background-color:#D8BFD8;"|67.30% || 9,175  || 5,121  || 3,428  || – || 760  || – || 105  || 18,589 
+|-
+| style="text-align:left;" | PE || style="text-align:left;" | [[Egmont (electoral district)|Egmont]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 10,220  || 55.44% || 4,857  || 26.35% || style="background-color:#D8BFD8;"|67.41% || 10,220  || 5,363  || 2,133  || – || 717  || – || – || 18,433 
+|-
+| style="text-align:left;" | PE || style="text-align:left;" | [[Malpeque (electoral district)|Malpeque]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 9,782  || 51.90% || 3,656  || 19.40% || style="background-color:#D8BFD8;"|73.01% || 9,782  || 6,126  || 1,902  || – || 1,037  || – || – || 18,847 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Abitibi—Témiscamingue (electoral district)|Abitibi—Témiscamingue]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 25,041  || 57.66% || 11,584  || 26.67% || 55.53% || 13,457  || 2,425  || 1,472  || 25,041  || 1,037  || – || – || 43,432 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Ahuntsic (federal electoral district)|Ahuntsic]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 21,234  || 43.76% || 1,214  || 2.50% || style="background-color:#D8BFD8;"|64.20% || 21,234  || 2,544  || 3,013  || 20,020  || 1,301  || – || style="background-color:#F0E68C;"|416  || 48,528 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Alfred-Pellan]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 26,239  || 49.20% || 5,123  || 9.61% || style="background-color:#D8BFD8;"|67.95% || 21,116  || 2,703  || 1,849  || 26,239  || 1,132  || style="background-color:#F0E68C;"|293  || – || 53,332 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Argenteuil—Mirabel]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 28,228  || 57.40% || 15,014  || 30.53% || 60.33% || 13,214  || 3,460  || 1,493  || 28,228  || 2,510  || – || style="background-color:#F0E68C;"|271  || 49,176 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Beauce (electoral district)|Beauce]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 19,592  || 41.38% || 2,424  || 5.12% || 59.50% || 19,592  || 8,091  || 1,443  || 17,168  || 1,054  || – || – || 47,348 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Beauharnois—Salaberry]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 26,775  || 50.67% || 8,482  || 16.05% || style="background-color:#D8BFD8;"|64.26% || 18,293  || 4,864  || 1,018  || 26,775  || 1,415  || – || 480  || 52,845 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Beauport (electoral district)|Beauport]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 22,989  || 49.65% || 11,123  || 24.02% || 56.68% || 11,866  || 7,388  || 1,896  || 22,989  || 1,577  || – || 585  || 46,301 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Berthier—Maskinongé]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 29,432  || 59.90% || 18,234  || 37.11% || 60.33% || 11,198  || 5,535  || 1,653  || 29,432  || 1,314  || – || – || 49,132 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Bourassa (electoral district)|Bourassa]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 20,927  || 50.03% || 5,133  || 12.27% || 57.00% || 20,927  || 2,226  || 1,661  || 15,794  || 660  || – || style="background-color:#F0E68C;"|557  || 41,825 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Brome—Missisquoi (federal electoral district)|Brome—Missisquoi]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 18,609  || 42.08% || 1,072  || 2.42% || style="background-color:#D8BFD8;"|62.63% || 18,609  || 4,888  || 1,177  || 17,537  || 2,011  || – || – || 44,222 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Brossard—La Prairie]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 24,155  || 45.90% || 2,559  || 4.86% || style="background-color:#D8BFD8;"|63.65% || 24,155  || 3,107  || 2,321  || 21,596  || 1,340  || – || 109  || 52,628 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Chambly—Borduas]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 33,945  || 60.85% || 21,251  || 38.09% || style="background-color:#D8BFD8;"|67.00% || 12,694  || 4,219  || 2,681  || 33,945  || 2,248  || – || – || 55,787 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Charlesbourg-Haute-Saint-Charles|Charlesbourg]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 23,886  || 51.60% || 11,975  || 25.87% || style="background-color:#D8BFD8;"|62.31% || 11,911  || 7,306  || 1,623  || 23,886  || 1,188  || – || 376  || 46,290 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Charlevoix—Montmorency]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 25,451  || 60.91% || 16,853  || 40.33% || 58.25% || 8,598  || 5,259  || 1,055  || 25,451  || 1,422  || – || – || 41,785 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Châteauguay—Saint-Constant]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 29,337  || 57.28% || 13,953  || 27.24% || style="background-color:#D8BFD8;"|64.63% || 15,384  || 2,902  || 1,704  || 29,337  || 1,889  || – || – || 51,216 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Chicoutimi—Le Fjord]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 20,650  || 45.33% || 863  || 1.89% || 58.80% || 19,787  || 2,385  || 1,699  || 20,650  || 1,038  || – || – || 45,559 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Compton—Stanstead]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 20,450  || 46.70% || 4,698  || 10.73% || 60.27% || 15,752  || 4,589  || 1,451  || 20,450  || 1,546  || – || – || 43,788 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Drummond (federal electoral district)|Drummond]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 23,670  || 56.29% || 14,079  || 33.48% || style="background-color:#D8BFD8;"|61.33% || 9,591  || 7,123  || 745  || 23,670  || 921  || – || – || 42,050 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Gaspésie—Îles-de-la-Madeleine (electoral district)|Gaspésie—Îles-de-la-Madeleine]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 21,446  || 55.67% || 8,867  || 23.02% || 56.57% || 12,579  || 2,636  || 805  || 21,446  || 1,060  || – || – || 38,526 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Gatineau (federal electoral district)|Gatineau]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 19,198  || 42.09% || 830  || 1.82% || 56.61% || 19,198  || 3,461  || 2,610  || 18,368  || 1,402  || – || style="background-color:#F0E68C;"|578  || 45,617 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Hochelaga (electoral district)|Hochelaga]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 27,476  || 60.12% || 15,764  || 34.50% || 57.79% || 11,712  || 1,856  || 2,510  || 27,476  || 1,361  || – || style="background-color:#F0E68C;"|784  || 45,699 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Honoré-Mercier]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 22,223  || 46.10% || 2,762  || 5.73% || style="background-color:#D8BFD8;"|61.64% || 22,223  || 2,902  || 1,973  || 19,461  || 852  || – || style="background-color:#F0E68C;"|790  || 48,201 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Hull—Aylmer]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 20,135  || 41.87% || 4,509  || 9.38% || 58.40% || 20,135  || 3,963  || 5,709  || 15,626  || 2,561  || – || 98  || 48,092 
+|- style="background-color:#AFEEEE;"
+| style="text-align:left;" | QC || style="text-align:left;" | [[Jeanne-Le Ber]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 18,766  || 41.09% || 72  || 0.16% || 55.22% || 18,766  || 2,524  || 3,160  || 18,694  || 1,864  || – || style="background-color:#F0E68C;"|668  || 45,676 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Joliette (federal electoral district)|Joliette]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 30,661  || 63.42% || 19,686  || 40.72% || 60.38% || 10,975  || 3,107  || 1,755  || 30,661  || 1,147  || – || 701  || 48,346 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Jonquière—Alma]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 25,193  || 54.93% || 11,838  || 25.81% || 59.19% || 13,355  || 2,217  || 1,561  || 25,193  || 679  || style="background-color:#EABB94;"|2,737  || 121  || 45,863 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[La Pointe-de-l'Île (electoral district)|La Pointe-de-l'Île]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 30,713  || 66.47% || 20,120  || 43.55% || 59.18% || 10,593<ref group=a>[[Jean-Claude Gobé]] was previously a member of the [[National Assembly of Quebec]].</ref>  || 1,961  || 1,751  || 30,713  || 1,186  || – || – || 46,204 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Lac-Saint-Louis]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 32,122  || 63.91% || 26,040  || 51.81% || style="background-color:#D8BFD8;"|63.37% || 32,122  || 6,082  || 3,789  || 5,106  || 2,584  || – || 578  || 50,261 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[LaSalle—Émard]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 25,806  || 56.55% || 11,805  || 25.87% || 59.61% || 25,806  || 2,271  || 1,995  || 14,001  || 1,000  || – || style="background-color:#F0E68C;"|559  || 45,632 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Laurentides—Labelle]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 28,675  || 58.38% || 14,216  || 28.94% || 59.22% || 14,459  || 2,887  || 1,320  || 28,675  || 1,781  || – || – || 49,122 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Laurier (federal electoral district)|Laurier]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 28,728  || 60.07% || 20,274  || 42.39% || 60.10% || 8,454  || 1,224  || 5,779  || 28,728  || 2,912  || – || style="background-color:#F0E68C;"|726  || 47,823 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Laval (federal electoral district)|Laval]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 24,425  || 50.09% || 6,786  || 13.92% || style="background-color:#D8BFD8;"|62.05% || 17,639  || 3,115  || 1,998  || 24,425  || 1,091  || – || 492  || 48,760 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Laval—Les Îles]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 23,985  || 47.86% || 5,388  || 10.75% || style="background-color:#D8BFD8;"|61.84% || 23,985  || 3,498  || 2,202  || 18,597  || 1,178  || – || style="background-color:#F0E68C;"|652  || 50,112 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Lévis—Bellechasse]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 21,930  || 44.34% || 8,266  || 16.71% || 59.61% || 13,664  || 9,425  || 1,910  || 21,930  || 2,372  || – || 163  || 49,464 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Longueuil (electoral district)|Longueuil]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 29,473  || 60.94% || 17,110  || 35.38% || style="background-color:#D8BFD8;"|64.14% || 12,363  || 2,354  || 2,512  || 29,473  || 1,263  || – || 401  || 48,366 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Lotbinière—Chutes-de-la-Chaudière]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 20,245  || 45.99% || 9,617  || 21.84% || 60.42% || 9,445  || 10,628  || 2,091  || 20,245  || 1,615  || – || – || 44,024 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Louis-Hébert (federal electoral district)|Louis-Hébert]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 24,071  || 43.11% || 5,072  || 9.08% || style="background-color:#D8BFD8;"|68.96% || 18,999  || 7,512  || 3,112  || 24,071  || 2,137  || – || – || 55,831 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Louis-Saint-Laurent]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 17,248  || 38.44% || 3,281  || 7.31% || 59.39% || 10,025  || 13,967  || 1,369  || 17,248  || 1,243  || style="background-color:#F0E68C;"|895<ref group=a>[[Jean-Guy Carignan]], previously elected as the Liberal incumbent in [[Quebec East]], received 563 votes.</ref>  || 119  || 44,866 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Manicouagan (electoral district)|Manicouagan]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 19,040  || 58.51% || 10,943  || 33.63% || 50.86% || 8,097  || 1,601  || 3,361  || 19,040  || 444  || – || – || 32,543 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Marc-Aurèle-Fortin]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 30,779  || 58.88% || 16,288  || 31.16% || style="background-color:#D8BFD8;"|67.55% || 14,491  || 3,125  || 1,867  || 30,779  || 2,012  || – || – || 52,274 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Matapédia—Matane]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 17,878  || 56.45% || 8,225  || 25.97% || 54.20% || 9,653  || 1,972  || 1,581  || 17,878  || 585  || – || – || 31,669 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Mégantic—L'Érable]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 19,264  || 44.74% || 3,486  || 8.10% || style="background-color:#D8BFD8;"|63.01% || 15,778  || 4,916  || 1,608  || 19,264<ref group=a>[[Marc Boulianne]] was previously a member of the [[National Assembly of Quebec]] and a Quebec Cabinet minister.</ref>  || 1,489  || – || – || 43,055 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Montcalm (federal electoral district)|Montcalm]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 34,383  || 71.24% || 26,468  || 54.84% || 59.22% || 7,915  || 2,831  || 1,531  || 34,383  || 1,606  || – || – || 48,266 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Mount Royal (electoral district)|Mount Royal]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 28,670  || 75.68% || 25,399  || 67.04% || 53.40% || 28,670  || 3,271  || 1,859  || 2,636  || 1,046  || – || style="background-color:#F0E68C;"|402  || 37,884 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Notre-Dame-de-Grâce—Lachine]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 23,552  || 53.20% || 13,816  || 31.21% || 57.68% || 23,552  || 4,526  || 3,513  || 9,736  || 2,214  || – || style="background-color:#F0E68C;"|732  || 44,273 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Nunavik—Eeyou]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 12,578  || 45.23% || 572  || 2.06% || 49.61% || 12,006  || 1,265  || 1,097  || 12,578  || 862  || – || – || 27,808 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Outremont (federal electoral district)|Outremont]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 15,675  || 40.94% || 2,945  || 7.69% || 56.13% || style="background-color:#EEBBBB;"|15,675  || 2,284  || 5,382  || 12,730  || 1,643  || – || style="background-color:#F0E68C;"|572  || 38,286 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Papineau (electoral district)|Papineau]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 16,892  || 41.10% || 468  || 1.14% || 57.07% || 16,892  || 1,961  || 3,603  || 16,424  || 1,058  || 250  || style="background-color:#F0E68C;"|911  || 41,099 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Pierrefonds—Dollard]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 29,601  || 63.57% || 22,175  || 47.62% || 58.76% || 29,601  || 5,010  || 2,545  || 7,426  || 1,401  || – || style="background-color:#F0E68C;"|582  || 46,565 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Pontiac (federal electoral district)|Pontiac]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 15,358  || 38.36% || 3,673  || 9.17% || 53.04% || 15,358  || 8,869  || 2,317  || 11,685  || 1,673  || – || 132  || 40,034 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Portneuf (federal electoral district)|Portneuf]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 18,471  || 42.91% || 6,608  || 15.35% || style="background-color:#D8BFD8;"|61.68% || 11,863  || 9,251  || 1,540  || 18,471  || 1,925  || – || – || 43,050 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Québec (electoral district)|Québec]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 24,373  || 50.63% || 11,391  || 23.66% || 60.77% || 12,982  || 5,330  || 2,670  || 24,373  || 2,046  || – || style="background-color:#F0E68C;"|735  || 48,136 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Repentigny (federal electoral district)|Repentigny]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 35,907  || 70.06% || 26,554  || 51.81% || style="background-color:#D8BFD8;"|64.27% || 9,353  || 2,447  || 1,526  || 35,907  || 1,482  || – || 539  || 51,254 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Bas-Richelieu—Nicolet—Bécancour|Richelieu]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 31,497  || 64.67% || 20,452  || 41.99% || style="background-color:#D8BFD8;"|66.06% || 11,045  || 3,726  || 1,017  || 31,497  || 839  || – || 580  || 48,704 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Richmond—Arthabaska]]
+|style="color:inherit;background-color:#9999FF;" | || style="text-align:left;" |PC
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 26,211  || 55.55% || 13,402  || 28.40% || style="background-color:#D8BFD8;"|62.20% || 12,809<ref group=a>The Liberal candidate [[Christine St-Pierre]] had been endorsed by the outgoing PC (subsequently Independent) incumbent [[André Bachand (Progressive Conservative MP)|André Bachand]].</ref>  || 4,925  || 1,540  || 26,211  || 1,699  || – || – || 47,184 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Rimouski—Témiscouata]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 22,215  || 57.63% || 13,054  || 33.87% || 58.05% || 9,161  || 3,445  || 2,717  || 22,215  || 1,008  || – || – || 38,546 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Rivière-des-Mille-Îles (electoral district)|Rivière-des-Mille-Îles]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 27,993  || 61.39% || 16,968  || 37.21% || style="background-color:#D8BFD8;"|64.81% || 11,025  || 3,064  || 1,559  || 27,993  || 1,961  || – || – || 45,602 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Rivière-du-Loup—Montmagny]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 25,327  || 57.13% || 12,203  || 27.53% || 57.61% || 13,124  || 4,040  || 876  || 25,327  || 962  || – || – || 44,329 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Rivière-du-Nord (electoral district)|Rivière-du-Nord]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 29,204  || 66.33% || 19,695  || 44.73% || 59.71% || 9,509  || 2,435  || 1,290  || 29,204  || 1,129  || – || 459  || 44,026 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Roberval (electoral district)|Roberval]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 20,655  || 59.41% || 12,591  || 36.22% || 55.84% || 8,064  || 3,011  || 1,777  || 20,655  || 1,260  || – || – || 34,767 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Rosemont—La Petite-Patrie (federal electoral district)|Rosemont—La Petite-Patrie]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 31,224  || 61.80% || 19,652  || 38.90% || style="background-color:#D8BFD8;"|61.54% || 11,572  || 1,561  || 3,876  || 31,224  || 2,145  || – || 145  || 50,523 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Saint-Bruno—Saint-Hubert]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 28,050  || 55.11% || 12,593  || 24.74% || style="background-color:#D8BFD8;"|66.10% || 15,457  || 3,189  || 2,253  || 28,050  || 1,349  || – || 596  || 50,894 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Saint-Hyacinthe—Bagot]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 29,789  || 62.40% || 19,231  || 40.28% || style="background-color:#D8BFD8;"|64.77% || 10,558  || 5,240  || 1,204  || 29,789  || 948  || – || – || 47,739 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Saint-Jean (electoral district)|Saint-Jean]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 29,485  || 60.11% || 16,756  || 34.16% || style="background-color:#D8BFD8;"|64.75% || 12,729  || 3,856  || 1,687  || 29,485  || 1,298  || – || – || 49,055 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Saint-Lambert (electoral district)|Saint-Lambert]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 22,024  || 48.84% || 5,370  || 11.91% || 60.38% || 16,654  || 2,739  || 2,130  || 22,024  || 1,404  || – || 145  || 45,096 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Saint-Laurent—Cartierville]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 28,107  || 66.82% || 20,846  || 49.56% || 54.28% || 28,107  || 2,606  || 2,630  || 7,261  || 875  || – || style="background-color:#F0E68C;"|585  || 42,064 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Saint-Léonard—Saint-Michel]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 25,884  || 63.90% || 17,032  || 42.05% || 54.52% || 25,884  || 2,138  || 2,422  || 8,852  || 944  || – || 267  || 40,507 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Saint-Maurice—Champlain]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 25,918  || 55.29% || 11,598  || 24.74% || 60.16% || 14,320  || 4,129  || 1,104  || 25,918<ref group=a>[[Marcel Gagnon (politician)|Marcel Gagnon]] was previously a member of the [[National Assembly of Quebec]].</ref>  || 855  || – || 547  || 46,873 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Shefford (federal electoral district)|Shefford]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 21,968  || 46.60% || 3,243  || 6.88% || style="background-color:#D8BFD8;"|62.95% || 18,725  || 3,732  || 1,146  || 21,968  || 1,571  || – || – || 47,142 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Sherbrooke (federal electoral district)|Sherbrooke]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 29,323  || 58.74% || 13,841  || 27.73% || style="background-color:#D8BFD8;"|62.66% || 15,482  || 2,142  || 1,463  || 29,323  || 1,509  || – || – || 49,919 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Terrebonne—Blainville]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 31,288  || 68.13% || 22,240  || 48.43% || style="background-color:#D8BFD8;"|63.58% || 9,048  || 2,582  || 1,451  || 31,288  || 1,554  || – || – || 45,923 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Trois-Rivières (federal electoral district)|Trois-Rivières]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 26,240  || 56.51% || 13,537  || 29.15% || style="background-color:#D8BFD8;"|62.17% || 12,703  || 4,381  || 1,635  || 26,240  || 1,476  || – || – || 46,435 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Vaudreuil-Soulanges (electoral district)|Vaudreuil-Soulanges]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 24,675  || 44.29% || 3,062  || 5.50% || style="background-color:#D8BFD8;"|66.82% || 21,613  || 4,558  || 2,175  || 24,675  || 2,103  || – || 585  || 55,709 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Verchères—Les Patriotes]]
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+|style="color:inherit;background-color:#87CEFA;" | || style="text-align:left;" | BQ
+| 33,333  || 67.62% || 23,375  || 47.42% || style="background-color:#D8BFD8;"|69.66% || 9,958  || 2,750  || 1,815  || 33,333  || 975  || – || 463  || 49,294 
+|-
+| style="text-align:left;" | QC || style="text-align:left;" | [[Westmount—Ville-Marie]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 22,337  || 55.84% || 16,415  || 41.04% || 52.00% || 22,337  || 4,027  || 4,795  || 5,922  || 2,419  || – || style="background-color:#F0E68C;"|499  || 39,999 
+|-
+| style="text-align:left;" | SK || style="text-align:left;" | [[Battlefords—Lloydminster]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 15,441  || 58.25% || 10,074  || 38.01% || 51.65% || 4,617  || 15,441  || 5,367  || – || 766  || – || 316  || 26,507 
+|-
+| style="text-align:left;" | SK || style="text-align:left;" | [[Blackstrap (electoral district)|Blackstrap]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 15,608  || 41.48% || 3,793  || 10.08% || style="background-color:#D8BFD8;"|63.90% || 11,815  || 15,608  || 8,862  || – || 1,168  || – || 177  || 37,630 
+|-
+| style="text-align:left;" | SK || style="text-align:left;" | [[Churchill River (electoral district)|Churchill River]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 7,279  || 37.39% || 1,464  || 7.52% || 47.41% || 5,815  || 7,279  || 3,910  || – || 539  || style="background-color:#EABB94;"|1,923  || – || 19,466 
+|-
+| style="text-align:left;" | SK || style="text-align:left;" | [[Cypress Hills—Grasslands]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 18,010  || 60.64% || 12,463  || 41.96% || style="background-color:#D8BFD8;"|63.04% || 5,547  || 18,010  || 4,901  || – || 1,243  || – || – || 29,701 
+|- style="background-color:#DDA0DD;"
+| style="text-align:left;" | SK || style="text-align:left;" | [[Palliser (Saskatchewan electoral district)|Palliser]]<ref group=a>Application withdrawn upon the court not finding any supporting evidence.</ref>
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 11,909  || 35.85% || 124  || 0.37% || style="background-color:#D8BFD8;"|64.42% || 8,244  || 11,909  || 11,785  || – || 829  || – || 451  || 33,218 
+|-
+| style="text-align:left;" | SK || style="text-align:left;" | [[Prince Albert (federal electoral district)|Prince Albert]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 13,576  || 47.28% || 6,355  || 22.13% || 53.48% || 6,929  || 13,576  || 7,221  || – || 987  || – || – || 28,713 
+|- style="background-color:#AFEEEE;"
+| style="text-align:left;" | SK || style="text-align:left;" | [[Regina—Lumsden—Lake Centre]]<ref group=a>Recount terminated on request of applicant. There was also an application alleging election irregularities, but this was withdrawn upon the court not finding any supporting evidence.</ref>
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 10,289  || 33.21% || 122  || 0.39% || style="background-color:#D8BFD8;"|62.81% || 10,167  || 10,289  || 8,300  || – || 716  || style="background-color:#EABB94;"|1,506  || – || 30,978 
+|-
+| style="text-align:left;" | SK || style="text-align:left;" | [[Regina—Qu'Appelle]]
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 10,012  || 35.76% || 861  || 3.08% || 56.23% || 7,793  || 10,012  || 9,151  || – || 639  || 106  || 293  || 27,994 
+|-
+| style="text-align:left;" | SK || style="text-align:left;" | [[Saskatoon—Humboldt]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 9,444  || 26.75% || 417  || 1.18% || style="background-color:#D8BFD8;"|62.97% || 9,009  || 9,444  || 9,027  || – || 680  || style="background-color:#F0E68C;"|7,147<ref group=a>[[Jim Pankiw]], previously elected as the Alliance incumbent, received 7,076 votes.</ref>  || – || 35,307 
+|-
+| style="text-align:left;" | SK || style="text-align:left;" | [[Saskatoon—Rosetown—Biggar]]
+|style="color:inherit;background-color:#F4A460;" | || style="text-align:left;" |NDP
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 11,875  || 44.84% || 2,278  || 8.60% || 52.52% || 4,171  || 11,875  || style="background-color:#EEBBBB;"|9,597  || – || 841  || – || – || 26,484 
+|-
+| style="text-align:left;" | SK || style="text-align:left;" | [[Saskatoon—Wanuskewin]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 15,109  || 46.64% || 4,556  || 14.07% || 59.72% || 10,553  || 15,109  || 5,770  || – || 960  || – || – || 32,392 
+|-
+| style="text-align:left;" | SK || style="text-align:left;" | [[Souris—Moose Mountain]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 11,306  || 36.90% || 2,907  || 9.49% || style="background-color:#D8BFD8;"|62.99% || 6,001  || 11,306  || 4,202  || – || 537  || 8,399<ref group=a>[[Grant Devine]], previously a member of the [[Legislative Assembly of Saskatchewan]] and a form [[Premier of Saskatchewan]].</ref>  || 191  || 30,636 
+|-
+| style="text-align:left;" | SK || style="text-align:left;" | [[Wascana (electoral district)|Wascana]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 20,567  || 57.17% || 11,858  || 32.96% || style="background-color:#D8BFD8;"|63.14% || 20,567  || 8,709  || 5,771  || – || 928  || – || – || 35,975 
+|-
+| style="text-align:left;" | SK || style="text-align:left;" | [[Yorkton—Melville]]
+|style="color:inherit;background-color:#5F9EA0;" | || style="text-align:left;" |All
+|style="color:inherit;background-color:#6495ED;" | || style="text-align:left;" |Con
+| 19,940  || 62.94% || 14,050  || 44.35% || 60.19% || 4,697  || 19,940  || 5,890  || – || 630  || 524  || – || 31,681 
+|-
+| style="text-align:left;" | Terr || style="text-align:left;" | [[Nunavut (electoral district)|Nunavut]] 
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 3,818  || 51.30% || 2,646  || 35.55% || 43.86% || 3,818  || 1,075  || 1,129  || – || 248  || 1,172<ref group=a>[[Manitok Thompson]],  previously a member of the [[Legislative Assembly of the Northwest Territories]].</ref>  || – || 7,442 
+|- style="background-color:#AFEEEE;"
+| style="text-align:left;" | Terr || style="text-align:left;" | [[Northwest Territories (electoral district)|Western Arctic]] 
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 5,317  || 39.45% || 53  || 0.39% || 47.33% || 5,317  || 2,314  || 5,264  || – || 583  || – || – || 13,478 
+|-
+| style="text-align:left;" | Terr || style="text-align:left;" | [[Yukon (electoral district)|Yukon]]
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+|style="color:inherit;background-color:#EA6D6A;" | || style="text-align:left;" |Lib
+| 5,724  || 45.69% || 2,508  || 20.02% || style="background-color:#D8BFD8;"|61.82% || 5,724  || 2,618  || 3,216  || – || 571  || – || style="background-color:#F0E68C;"|399  || 12,528 
+|}
+{{reflist|group=a}}
+
+:{{Color box|AFEEEE|border=#BFBFBF}} = went to a judicial recount
+:{{Color box|DDA0DD|border=#BFBFBF}} = election contested on grounds of irregularities
+:{{Color box|#D8BFD8|border=silver}} = turnout is above national average
+:{{Color box|#EABB94|border=silver}} = Incumbent had switched allegiance
+:{{Color box|#EEBBBB|border=silver}} = Not incumbent; was previously elected to the House
+:{{Color box|#87CEFA|border=silver}} = Incumbency arose from by-election gain
+:{{Color box|#F0E68C|border=silver}} = Multiple candidates
+
+===Analysis===
+{{Gallery
+|title=[[Ternary plot]]s - shift of electoral support (2000-2004)
+|width=350 | height=200 |noborder=yes
+|align=center
+|footer=Electoral districts identified by colours of winning parties
+|File:Ternary CA2000.svg
+ |2000
+ |alt1=Ternary plot of 2000 results
+|File:Ternary CA2004.svg
+ |2004
+ |alt2=Ternary plot of 2004 results
+}}
+
+=== Results by province ===
+
+{| class="wikitable"
+! colspan="3"|Party name
+! [[British Columbia|BC]]
+! [[Alberta|AB]]
+! [[Saskatchewan|SK]]
+! [[Manitoba|MB]]
+! [[Ontario|ON]]
+! [[Quebec|QC]]
+! [[New Brunswick|NB]]
+! [[Nova Scotia|NS]]
+! [[Prince Edward Island|PE]]
+! [[Newfoundland and Labrador|NL]]
+! [[Nunavut|NU]]
+! [[Northwest Territories|NT]]
+! [[Yukon|YK]]
+! Total
+|-
+|rowspan=2 {{Canadian party colour|CA|Liberal|background}}|&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan=2|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| style="text-align:right;"|8 <!--BC-->
+| style="text-align:right;"|2 <!--Alb-->
+| style="text-align:right;"|1 <!--Sask-->
+| style="text-align:right;"|3 <!--Man-->
+| style="text-align:right;"|75 <!--Ont-->
+| style="text-align:right;"|21 <!--Que-->
+| style="text-align:right;"|7 <!--NB-->
+| style="text-align:right;"|6 <!--NS-->
+| style="text-align:right;"|4 <!--PEI-->
+| style="text-align:right;"|5 <!--NL-->
+| style="text-align:right;"|1 <!--NU-->
+| style="text-align:right;"|1 <!--NT-->
+| style="text-align:right;"|1 <!--YK-->
+| style="text-align:right;"|135 <!--Canada/Total-->
+|-
+| Popular vote:
+| style="text-align:right;"|28.6 <!--BC-->
+| style="text-align:right;"|22.0 <!--Alb-->
+| style="text-align:right;"|27.2 <!--Sask-->
+| style="text-align:right;"|33.2 <!--Man-->
+| style="text-align:right;"|44.7 <!--Ont-->
+| style="text-align:right;"|33.9 <!--Que-->
+| style="text-align:right;"|44.6 <!--NB-->
+| style="text-align:right;"|39.7 <!--NS-->
+| style="text-align:right;"|52.5 <!--PEI-->
+| style="text-align:right;"|48.0 <!--NL-->
+| style="text-align:right;"|51.3 <!--NU-->
+| style="text-align:right;"|39.4 <!--NT-->
+| style="text-align:right;"|45.7 <!--YK-->
+| style="text-align:right;"|36.7 <!--Canada/Total-->
+|-
+|rowspan=2 {{Canadian party colour|CA|Conservative|background}}|&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan="2"|[[Conservative Party of Canada|Conservative]]
+| Seats:
+| style="text-align:right;"|22 <!--BC-->
+| style="text-align:right;"|26 <!--Alb-->
+| style="text-align:right;"|13 <!--Sask-->
+| style="text-align:right;"|7  <!--Man-->
+| style="text-align:right;"|24 <!--Ont-->
+| style="text-align:right;"|-  <!--Que-->
+| style="text-align:right;"|2  <!--NB-->
+| style="text-align:right;"|3  <!--NS-->
+| style="text-align:right;"|-  <!--PEI-->
+| style="text-align:right;"|2  <!--NL-->
+| style="text-align:right;"|-  <!--NU-->
+| style="text-align:right;"|-  <!--NT-->
+| style="text-align:right;"|-  <!--YK-->
+| style="text-align:right;"|99 <!--Canada/Total-->
+|-
+| Vote:
+| style="text-align:right;"|36.3 <!--BC-->
+| style="text-align:right;"|61.7 <!--Alb-->
+| style="text-align:right;"|41.8 <!--Sask-->
+| style="text-align:right;"|39.1 <!--Man-->
+| style="text-align:right;"|31.5 <!--Ont-->
+| style="text-align:right;"|8.8 <!--Que-->
+| style="text-align:right;"|31.1 <!--NB-->
+| style="text-align:right;"|28.0 <!--NS-->
+| style="text-align:right;"|30.7 <!--PEI-->
+| style="text-align:right;"|32.3 <!--NL-->
+| style="text-align:right;"|14.4 <!--NU-->
+| style="text-align:right;"|17.2 <!--NT-->
+| style="text-align:right;"|20.9 <!--YK-->
+| style="text-align:right;"|29.6 <!--Canada/Total-->
+|-
+|rowspan=2 {{Canadian party colour|CA|BQ|background}}|&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan="2"|[[Bloc Québécois]]
+| Seats:
+| style="text-align:right;"|&nbsp; <!--BC-->
+| style="text-align:right;"|&nbsp; <!--Alb-->
+| style="text-align:right;"|&nbsp; <!--Sask-->
+| style="text-align:right;"|&nbsp; <!--Man-->
+| style="text-align:right;"|&nbsp; <!--Ont-->
+| style="text-align:right;"|54 <!--Que-->
+| style="text-align:right;"|&nbsp; <!--NB-->
+| style="text-align:right;"|&nbsp; <!--NS-->
+| style="text-align:right;"|&nbsp; <!--PEI-->
+| style="text-align:right;"|&nbsp; <!--NL-->
+| style="text-align:right;"|&nbsp; <!--NU-->
+| style="text-align:right;"|&nbsp; <!--NT-->
+| style="text-align:right;"|&nbsp; <!--YK-->
+| style="text-align:right;"|54 <!--Canada/Total-->
+|-
+| Vote:
+| style="text-align:right;"|&nbsp; <!--BC-->
+| style="text-align:right;"|&nbsp; <!--Alb-->
+| style="text-align:right;"|&nbsp; <!--Sask-->
+| style="text-align:right;"|&nbsp; <!--Man-->
+| style="text-align:right;"|&nbsp; <!--Ont-->
+| style="text-align:right;"|48.9 <!--Que-->
+| style="text-align:right;"|&nbsp; <!--NB-->
+| style="text-align:right;"|&nbsp; <!--NS-->
+| style="text-align:right;"|&nbsp; <!--PEI-->
+| style="text-align:right;"|&nbsp; <!--NL-->
+| style="text-align:right;"|&nbsp; <!--NU-->
+| style="text-align:right;"|&nbsp; <!--NT-->
+| style="text-align:right;"|&nbsp; <!--YK-->
+| style="text-align:right;"|12.4 <!--Canada/Total-->
+|-
+|rowspan=2 {{Canadian party colour|CA|NDP|background}}|&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan=2|[[New Democratic Party (Canada)|New Democratic]]
+| Seats:
+| style="text-align:right;"|5 <!--BC-->
+| style="text-align:right;"|- <!--Alb-->
+| style="text-align:right;"|- <!--Sask-->
+| style="text-align:right;"|4 <!--Man-->
+| style="text-align:right;"|7 <!--Ont-->
+| style="text-align:right;"|-  <!--Que-->
+| style="text-align:right;"|1 <!--NB-->
+| style="text-align:right;"|2 <!--NS-->
+| style="text-align:right;"|-  <!--PEI-->
+| style="text-align:right;"|-  <!--NL-->
+| style="text-align:right;"|-  <!--NU-->
+| style="text-align:right;"|-  <!--NT-->
+| style="text-align:right;"|-  <!--YK-->
+| style="text-align:right;"|19 <!--Canada/Total-->
+|-
+| Vote:
+| style="text-align:right;"|26.6 <!--BC-->
+| style="text-align:right;"|9.5 <!--Alb-->
+| style="text-align:right;"|23.4 <!--Sask-->
+| style="text-align:right;"|23.5 <!--Man-->
+| style="text-align:right;"|18.1 <!--Ont-->
+| style="text-align:right;"|4.6 <!--Que-->
+| style="text-align:right;"|20.6 <!--NB-->
+| style="text-align:right;"|28.4 <!--NS-->
+| style="text-align:right;"|12.5 <!--PEI-->
+| style="text-align:right;"|17.5 <!--NL-->
+| style="text-align:right;"|15.2 <!--NU-->
+| style="text-align:right;"|39.1 <!--NT-->
+| style="text-align:right;"|25.7 <!--YK-->
+| style="text-align:right;"|15.7 <!--Canada/Total-->
+|-
+|rowspan=2 {{Canadian party colour|CA|Independant|background}}|&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan=2|No Affiliation
+| Seats:
+| style="text-align:right;"|1  <!--BC-->
+| style="text-align:right;"|&nbsp;  <!--Alb-->
+| style="text-align:right;"|- <!--Sask-->
+| style="text-align:right;"|&nbsp; <!--Man-->
+| style="text-align:right;"|-  <!--Ont-->
+| style="text-align:right;"|&nbsp; <!--Que-->
+| style="text-align:right;"|&nbsp; <!--NB-->
+| style="text-align:right;"|&nbsp; <!--NS-->
+| style="text-align:right;"|&nbsp; <!--PEI-->
+| style="text-align:right;"|&nbsp; <!--NL-->
+| style="text-align:right;"|&nbsp; <!--NU-->
+| style="text-align:right;"|&nbsp; <!--NT-->
+| style="text-align:right;"|&nbsp; <!--YK-->
+| style="text-align:right;"|1 <!--Canada/Total-->
+|-
+| Vote:
+| style="text-align:right;"|1.0 <!--BC-->
+| style="text-align:right;"|&nbsp; <!--Alb-->
+| style="text-align:right;"|x <!--Sask-->
+| style="text-align:right;"|&nbsp; <!--Man-->
+| style="text-align:right;"|x <!--Ont-->
+| style="text-align:right;"|&nbsp; <!--Que-->
+| style="text-align:right;"|&nbsp; <!--NB-->
+| style="text-align:right;"|&nbsp; <!--NS-->
+| style="text-align:right;"|&nbsp; <!--PEI-->
+| style="text-align:right;"|&nbsp; <!--NL-->
+| style="text-align:right;"|&nbsp; <!--NU-->
+| style="text-align:right;"|&nbsp; <!--NT-->
+| style="text-align:right;"|&nbsp; <!--YK-->
+| style="text-align:right;"|0.1 <!--Canada/Total-->
+|-
+! colspan=3|Total seats:
+! style="text-align:right;"|36 <!--BC-->
+! style="text-align:right;"|28 <!--Alb-->
+! style="text-align:right;"|14 <!--Sask-->
+! style="text-align:right;"|14 <!--Man-->
+! style="text-align:right;"|106 <!--Ont-->
+! style="text-align:right;"|75 <!--Que-->
+! style="text-align:right;"|10 <!--NB-->
+! style="text-align:right;"|11 <!--NS-->
+! style="text-align:right;"|4 <!--PEI-->
+! style="text-align:right;"|7 <!--NL-->
+! style="text-align:right;"|1 <!--NT-->
+! style="text-align:right;"|1 <!--NU-->
+! style="text-align:right;"|1 <!--YK-->
+! style="text-align:right;"|308 <!--Canada/Total-->
+|-
+| colspan=17|'''Parties that won no seats:'''
+|-
+{{Canadian party colour|CA|Green|row-name}}
+| Vote:
+| style="text-align:right;"|6.3 <!--BC-->
+| style="text-align:right;"|6.1 <!--Alb-->
+| style="text-align:right;"|2.7 <!--Sask-->
+| style="text-align:right;"|2.7 <!--Man-->
+| style="text-align:right;"|4.4 <!--Ont-->
+| style="text-align:right;"|3.2 <!--Que-->
+| style="text-align:right;"|3.4 <!--NB-->
+| style="text-align:right;"|3.3 <!--NS-->
+| style="text-align:right;"|4.2 <!--PEI-->
+| style="text-align:right;"|1.6 <!--NL-->
+| style="text-align:right;"|3.3 <!--NU-->
+| style="text-align:right;"|4.3 <!--NT-->
+| style="text-align:right;"|4.6 <!--YK-->
+| style="text-align:right;"|4.3<!--Canada/Total-->
+{{Canadian party colour|CA|Christian Heritage|row-name}}
+| Vote:
+| style="text-align:right;"|0.3 <!--BC-->
+| style="text-align:right;"|0.2 <!--Alb-->
+| style="text-align:right;"|0.3 <!--Sask-->
+| style="text-align:right;"|0.9 <!--Man-->
+| style="text-align:right;"|0.5 <!--Ont-->
+| style="text-align:right;"|x   <!--Que-->
+| style="text-align:right;"|&nbsp; <!--NB-->
+| style="text-align:right;"|0.1 <!--NS-->
+| style="text-align:right;"|0.1 <!--PEI-->
+| style="text-align:right;"|&nbsp; <!--NL-->
+| style="text-align:right;"|&nbsp; <!--NU-->
+| style="text-align:right;"|&nbsp; <!--NT-->
+| style="text-align:right;"|0.8 <!--YK-->
+| style="text-align:right;"|0.3<!--Canada/Total-->
+{{Canadian party colour|CA|Marijuana|row-name}}
+| Vote:
+| style="text-align:right;"|0.2 <!--BC-->
+| style="text-align:right;"|0.2 <!--Alb-->
+| style="text-align:right;"|&nbsp; <!--Sask-->
+| style="text-align:right;"|0.4 <!--Man-->
+| style="text-align:right;"|0.2 <!--Ont-->
+| style="text-align:right;"|0.4 <!--Que-->
+| style="text-align:right;"|0.1 <!--NB-->
+| style="text-align:right;"|0.1 <!--NS-->
+| style="text-align:right;"|&nbsp; <!--PEI-->
+| style="text-align:right;"|&nbsp; <!--NL-->
+| style="text-align:right;"|&nbsp; <!--NU-->
+| style="text-align:right;"|&nbsp; <!--NT-->
+| style="text-align:right;"|2.4 <!--YK-->
+| style="text-align:right;"|0.2<!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+|[[Progressive Canadian Party|Progressive Canadian]]
+|Vote:
+| style="text-align:right;"|&nbsp; <!--BC-->
+| style="text-align:right;"|x   <!--Alb-->
+| style="text-align:right;"|&nbsp; <!--Sask-->
+| style="text-align:right;"|&nbsp; <!--Man-->
+| style="text-align:right;"|0.2 <!--Ont-->
+| style="text-align:right;"|&nbsp; <!--Que-->
+| style="text-align:right;"|0.3 <!--NB-->
+| style="text-align:right;"|&nbsp; <!--NS-->
+| style="text-align:right;"|&nbsp; <!--PEI-->
+| style="text-align:right;"|&nbsp; <!--NL-->
+| style="text-align:right;"|&nbsp; <!--NU-->
+| style="text-align:right;"|&nbsp; <!--NT-->
+| style="text-align:right;"|&nbsp; <!--YK-->
+| style="text-align:right;"|0.1<!--Canada/Total-->
+{{Canadian party colour|CA|Marxist-Leninist|row-name}}
+
+| Vote:
+| style="text-align:right;"|0.1 <!--BC-->
+| style="text-align:right;"|x   <!--Alb-->
+| style="text-align:right;"|&nbsp; <!--Sask-->
+| style="text-align:right;"|&nbsp; <!--Man-->
+| style="text-align:right;"|0.1 <!--Ont-->
+| style="text-align:right;"|0.1 <!--Que-->
+| style="text-align:right;"|&nbsp; <!--NB-->
+| style="text-align:right;"|x   <!--NS-->
+| style="text-align:right;"|&nbsp; <!--PEI-->
+| style="text-align:right;"|&nbsp; <!--NL-->
+| style="text-align:right;"|&nbsp; <!--NU-->
+| style="text-align:right;"|&nbsp; <!--NT-->
+| style="text-align:right;"|&nbsp; <!--YK-->
+| style="text-align:right;"|0.1<!--Canada/Total-->
+{{Canadian party colour|CA|Canadian Action|row-name}}
+| Vote:
+| style="text-align:right;"|0.3 <!--BC-->
+| style="text-align:right;"|0.1 <!--Alb-->
+| style="text-align:right;"|&nbsp; <!--Sask-->
+| style="text-align:right;"|x   <!--Man-->
+| style="text-align:right;"|x   <!--Ont-->
+| style="text-align:right;"|x   <!--Que-->
+| style="text-align:right;"|0.1 <!--NB-->
+| style="text-align:right;"|&nbsp; <!--NS-->
+| style="text-align:right;"|&nbsp; <!--PEI-->
+| style="text-align:right;"|&nbsp; <!--NL-->
+| style="text-align:right;"|&nbsp; <!--NU-->
+| style="text-align:right;"|&nbsp; <!--NT-->
+| style="text-align:right;"|&nbsp; <!--YK-->
+| style="text-align:right;"|0.1<!--Canada/Total-->
+{{Canadian party colour|CA|Communist|row-name}}
+| Vote:
+| style="text-align:right;"|0.1 <!--BC-->
+| style="text-align:right;"|x   <!--Alb-->
+| style="text-align:right;"|&nbsp; <!--Sask-->
+| style="text-align:right;"|0.9 <!--Man-->
+| style="text-align:right;"|x   <!--Ont-->
+| style="text-align:right;"|x   <!--Que-->
+| style="text-align:right;"|&nbsp; <!--NB-->
+| style="text-align:right;"|&nbsp; <!--NS-->
+| style="text-align:right;"|&nbsp; <!--PEI-->
+| style="text-align:right;"|&nbsp; <!--NL-->
+| style="text-align:right;"|&nbsp; <!--NU-->
+| style="text-align:right;"|&nbsp; <!--NT-->
+| style="text-align:right;"|&nbsp; <!--YK-->
+| style="text-align:right;"|x  <!--Canada/Total-->
+{{Canadian party colour|CA|Libertarian|row-name}}
+| Vote:
+| style="text-align:right;"|0.1 <!--BC-->
+| style="text-align:right;"|&nbsp; <!--Alb-->
+| style="text-align:right;"|&nbsp; <!--Sask-->
+| style="text-align:right;"|&nbsp; <!--Man-->
+| style="text-align:right;"|x   <!--Ont-->
+| style="text-align:right;"|x   <!--Que-->
+| style="text-align:right;"|&nbsp; <!--NB-->
+| style="text-align:right;"|&nbsp; <!--NS-->
+| style="text-align:right;"|&nbsp; <!--PEI-->
+| style="text-align:right;"|&nbsp; <!--NL-->
+| style="text-align:right;"|&nbsp; <!--NU-->
+| style="text-align:right;"|&nbsp; <!--NT-->
+| style="text-align:right;"|&nbsp; <!--YK-->
+| style="text-align:right;"|x  <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+|Independents
+| Vote:
+| style="text-align:right;"|0.3 <!--BC-->
+| style="text-align:right;"|x   <!--Alb-->
+| style="text-align:right;"|4.6 <!--Sask-->
+| style="text-align:right;"|x   <!--Man-->
+| style="text-align:right;"|0.3 <!--Ont-->
+| style="text-align:right;"|0.1 <!--Que-->
+| style="text-align:right;"|0.2 <!--NB-->
+| style="text-align:right;"|0.1 <!--NS-->
+| style="text-align:right;"|&nbsp; <!--PEI-->
+| style="text-align:right;"|0.6 <!--NL-->
+| style="text-align:right;"|15.7 <!--NU-->
+| style="text-align:right;"|&nbsp; <!--NT-->
+| style="text-align:right;"|&nbsp; <!--YK-->
+| style="text-align:right;"|0.3<!--Canada/Total-->
+|}
+
+Source: [https://web.archive.org/web/20050206214209/http://www.elections.ca/scripts/resval/ovr_2004.asp?prov=&lang=e Elections Canada]
+
+=== 10 closest ridings ===
+# '''[[Western Arctic]], NT''': [[Ethel Blondin-Andrew]] (Lib) def. [[Dennis Bevington]] (NDP) by 53 votes
+# '''[[Jeanne-Le Ber]], QC''': [[Liza Frulla]] (Lib) def. [[Thierry St-Cyr]] (BQ) by 72 votes
+# '''[[Simcoe—Grey (federal electoral district)|Simcoe—Grey]], ON''': [[Helena Guergis]] (Cons) def. [[Paul Bonwick]] (Lib) by 100 votes
+# '''[[New Westminster—Coquitlam]], BC''': [[Paul Forseth]] (Cons) def. [[Steve McClurg]] (NDP) by 113 votes
+# '''[[Regina—Lumsden—Lake Centre]], SK''': [[Tom Lukiwski]] (Cons) def. [[Gary Anderson (politician)|Gary Anderson]] (Lib) by 122 votes
+# '''[[Palliser (Saskatchewan electoral district)|Palliser]], SK''': [[Dave Batters]] (Cons) def. [[Dick Proctor]] (NDP) by 124 votes
+# '''[[Edmonton—Beaumont]], AB''': [[David Kilgour]] (Lib) def. [[Tim Uppal]] (Cons) by 134 votes
+# '''[[Cambridge (federal electoral district)|Cambridge]], ON''': [[Gary Goodyear]] (Cons) def. [[Janko Peric]] (Lib) by 224 votes
+# '''[[Kildonan—St. Paul]], MB''': [[Joy Smith]] (Cons) def. [[Terry Duguid]] (Lib) by 278 votes
+# '''[[Northumberland—Quinte West (federal electoral district)|Northumberland—Quinte West]], ON''': [[Paul Macklin]] (Lib) def. [[Doug Galt]] (Cons) by 313 votes
+
+== Allegations of coalition talks ==
+On March 26, 2011, [[Gilles Duceppe]] stated that Harper had tried to form a [[coalition government]] with the Bloc and NDP two months after the 2004 election. He was responding to Harper's warnings in 2011 that the Liberals might form a coalition with the Bloc and the NDP.<ref>{{Cite news|last=Payton|first=Laura|title=Harper wanted 2004 coalition: Duceppe|url=https://www.cbc.ca/news/politics/harper-wanted-2004-coalition-duceppe-1.1118390|access-date=March 26, 2011|newspaper=CBC News|date=March 26, 2011}}</ref>
+
+== See also ==
+{{Portal|Canada|Politics}}
+* [[Timeline of the 2004 Canadian federal election]]
+
+Leadership elections of 2003 and 2004:
+*[[2004 Conservative Party of Canada leadership election]]
+*[[2003 Liberal Party of Canada leadership election]]
+*[[2003 Progressive Conservative leadership election]]
+*[[2003 New Democratic Party leadership election]]
+
+Articles on parties' candidates in this election:
+{{div col|colwidth=15em}}
+* [[Canadian Action Party candidates, 2004 Canadian federal election|Canadian Action]]
+* [[Christian Heritage Party candidates, 2004 Canadian federal election|Christian Heritage]]
+* [[Communist Party candidates, 2004 Canadian federal election|Communists]]
+* [[Conservative Party candidates, 2004 Canadian federal election|Conservatives]]
+* [[Green Party candidates, 2004 Canadian federal election|Green]]
+* [[Independent candidates, 2004 Canadian federal election|Independents]]
+* [[Marijuana Party candidates, 2004 Canadian federal election|Marijuana Party]]
+* [[Marxist-Leninist candidates, 2004 Canadian federal election|Marxist-Leninists]]
+* [[New Democratic Party candidates, 2004 Canadian federal election|New Democrats]]
+* [[Progressive Canadian Party candidates, 2004 Canadian federal election|Progressive Canadians]]
+{{div col end}}
+
+Other articles:
+*[[List of Canadian federal general elections]]
+*[[List of elections in the Province of Canada]] (pre-Confederation)
+*[[Politics of Canada]]
+*[[List of political parties in Canada]]
+*[[Minority governments in Canada]]
+
+== References ==
+'''Notes'''
+{{Reflist}}
+{{Reflist|group=lower-roman}}
+'''General'''
+{{refbegin}}
+* {{Cite book |last1=Argyle |first1=Ray |title=Turning Points: The Campaigns that Changed Canada 2004 and Before |date=2004 |publisher=White Knight Publications |location=Toronto |isbn=978-0-9734186-6-8 |url=https://archive.org/details/turningpointscam0000argy |url-access=registration}}
+* {{Cite book |editor1-last=Dornan |editor1-first=Christopher |editor2-last=Pammett |editor2-first=Jon H. |title=The Canadian General Election of 2004 |date=2004 |publisher=Dundurn Press |location=Toronto |isbn=978-1-55002-516-3 |url=https://archive.org/details/canadiangenerale0000unse |url-access=registration}}
+{{refend}}
+
+==Further reading ==
+* Argyle, Ray. ''Turning Points: The Campaigns that Changed Canada: 2004 and before'' (2004) [https://archive.org/details/turningpointscam0000argy online pp.1-42.]
+* {{Cite book |editor1-last=Mutimer |editor1-first=David |title=Canadian Annual Review of Politics and Public Affairs, 2004 |date=2010 |publisher=University of Toronto Press |location=Toronto |isbn=978-1-4426-4228-7 |url=https://archive.org/details/canadianannualre0000unse_f1b5 |url-access=registration}}
+
+== External links ==
+* [http://www.cbc.ca/canadavotes/ CBC – Canada Votes] (includes video files of the whole English debate)
+* [https://web.archive.org/web/20040618171737/http://www.ctv.ca/mini/election2004/ CTV – Election 2004]
+* [https://web.archive.org/web/20050405081403/http://www.radio-canada.ca/nouvelles/elections/federales_2004/ SRC – Élections] (in French, includes video files of the whole French debate)
+* [http://www.elections.ca/ Elections Canada]
+* [http://enr.elections.ca/National_e.aspx Elections Canada official numbers]
+* [https://web.archive.org/web/20090705085708/http://www.electionalmanac.com/canada/ Election Almanac – Canada Federal Election]
+* [http://www.egwald.ca/statistics/canadianelections2004.php Predicting the 2004 Canadian Election]
+* [https://insinc.com/2001-2004/2004-07-15/ International Delivery of Canadian Federal Election debate] (Press Release issued by CTV and INSINC)
+
+{{Canadian federal election, 2004A}}
+{{Canada elections}}
+{{navboxes|title=Leaders|list1=
+{{Paul Martin (politician)}}
+{{Stephen Harper}}
+{{Jack Layton}}
+}}
+
+{{DEFAULTSORT:Canadian Federal Election, 2004}}
+[[Category:2004 Canadian federal election| ]]
+[[Category:Canadian federal elections by year|2004]]
+[[Category:2004 elections in Canada|Federal]]
+[[Category:June 2004 in Canada]]

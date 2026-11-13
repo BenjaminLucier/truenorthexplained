@@ -1,0 +1,1679 @@
+{{Short description|none}}
+{{pp-move|small=yes}}
+{{Use Canadian English|date=January 2023}}
+{{Use mdy dates|date=June 2019}}
+{{Infobox election
+| election_name = 2015 Canadian federal election
+| country = Canada
+| type = parliamentary
+| ongoing = no
+| party_colour = no
+| party_name = no
+| previous_election = 2011 Canadian federal election
+| previous_year = 2011
+| election_date = {{Start date|2015|10|19}}
+| next_election = 2019 Canadian federal election
+| next_year = 2019
+| seats_for_election = 338 seats in the [[House of Commons of Canada|House of Commons]]
+| majority_seats = 170
+| previous_mps = List of House members of the 41st Parliament of Canada
+| elected_mps = List of House members of the 42nd Parliament of Canada
+| opinion_polls = Opinion polling in the Canadian federal election, 2015
+| turnout = {{nowrap|68.3%<ref name="turnout">{{cite news|url=http://www.cbc.ca/news/politics/multimedia/federal-election-voter-turnout-68-3-per-cent-highest-in-22-years-official-vote-count-1.3302064|title=Federal election voter turnout 68.3 per cent, highest in 22 years: official vote count|work=[[CBC News]]|access-date=June 3, 2016|date=November 5, 2015|last1=Schwartz|first1=Daniel|archive-date=June 25, 2016|archive-url=https://web.archive.org/web/20160625114405/http://www.cbc.ca/news/politics/multimedia/federal-election-voter-turnout-68-3-per-cent-highest-in-22-years-official-vote-count-1.3302064|url-status=live}}</ref> ({{increase}} 7.2 [[Percentage Point|pp]])}}
+
+<!-- Liberal -->| image1 = {{CSS image crop|Image =Justin Trudeau APEC 2015 (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| image1_size = 
+| caption1 = 
+| colour1 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader1 = [[Justin Trudeau]]
+| party1 = {{Canadian party colour|CA|Liberal|name}}
+| leader_since1 = [[2013 Liberal Party of Canada leadership election|April 14, 2013]]
+| leaders_seat1 = [[Papineau (electoral district)|Papineau]]
+| last_election1 = 34 seats, 18.91%
+| seats_before1 = 36
+| seats1 = '''184'''
+| seat_change1 = {{increase}} 148
+| popular_vote1 = '''6,942,937'''
+| percentage1 = '''39.47%'''
+| swing1 = {{increase}} 20.56 [[percentage points|pp]]
+
+<!-- Conservative -->| image2 = {{CSS image crop|Image =Stephen Harper 2014 (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| image2_size = 
+| caption2 = 
+| colour2 = {{Canadian party colour|CA|Conservative|nohash}}
+| leader2 = [[Stephen Harper]]
+| leader_since2 = [[2004 Conservative Party of Canada leadership election|March 20, 2004]]
+| leaders_seat2 = [[Calgary Heritage]]
+| party2 = {{Canadian party colour|CA|Conservative|name}}
+| last_election2 = 166 seats, 39.62%
+| seats_before2 = 159
+| seats2 = 99
+| seat_change2 = {{decrease}} 60
+| popular_vote2 = 5,613,633
+| percentage2 = 31.91%
+| swing2 = {{decrease}} 7.71 [[percentage points|pp]]
+
+<!-- NDP -->| image3 = {{CSS image crop|Image =Thomas Mulcair 2015 (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| image3_size = 
+| caption3 = 
+| colour3 = {{Canadian party colour|CA|NDP|nohash}}
+| leader3 = [[Tom Mulcair]]
+| leaders_seat3 = [[Outremont (electoral district)|Outremont]]
+| leader_since3 = [[2012 New Democratic Party leadership election|March 24, 2012]]
+| party3 = {{Canadian party colour|CA|NDP|name}}
+| last_election3 = 103 seats, 30.63%
+| seats_before3 = 95{{efn|name=|Includes [[José Núñez-Melo]], who sat as a member of the NDP at the dissolution of Parliament, but ran as a [[Green Party of Canada|Green Party]] candidate in the 2015 election. Does not include [[Maria Mourani]], who sat as an independent at the dissolution of Parliament, but ran as an NDP candidate in the 2015 election.}}
+| seats3 = 44
+| seat_change3 = {{decrease}} 51
+| popular_vote3 = 3,469,368
+| percentage3 = 19.72%
+| swing3 = {{decrease}} 10.91 [[percentage points|pp]]
+
+<!-- Bloc Québécois -->| image4 = {{CSS image crop|Image =Gilles Duceppe 2011 (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| image4_size = 
+| caption4 = 
+| colour4 = {{Canadian party colour|CA|BQ|nohash}}
+| leader4 = [[Gilles Duceppe]]
+| leaders_seat4 = ''Ran in [[Laurier—Sainte-Marie]] (lost)''
+| leader_since4 = [[Bloc Québécois#Return and departure of Duceppe|June 10, 2015]]{{efn|Appointed as leader without a leadership election.}}
+| party4 = {{Canadian party colour|CA|BQ|name}}
+| last_election4 = 4 seats, 6.04%
+| seats_before4 = 2
+| seats4 = 10
+| seat_change4 = {{increase}} 8
+| popular_vote4 = 821,144
+| percentage4 = 4.67%
+| swing4 = {{decrease}} 1.38 [[percentage points|pp]]
+
+<!-- Green -->| image5 = {{CSS image crop|Image =Elizabeth May 2014 (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| image5_size = 
+| caption5 = 
+| colour5 = {{Canadian party colour|CA|Green|nohash}}
+| leader5 = [[Elizabeth May]]
+| leader_since5 = [[2006 Green Party of Canada leadership election|August 27, 2006]]
+| leaders_seat5 = [[Saanich—Gulf Islands]]
+| party5 = {{Canadian party colour|CA|Green|name}}
+| last_election5 = 1 seat, 3.91%
+| seats_before5 = 2{{efn|Does not include [[José Núñez-Melo]], who sat as a member of the NDP at the dissolution of Parliament, but ran as a [[Green Party of Canada|Green Party]] candidate in the 2015 election}}
+| seats5 = 1
+| seat_change5 = {{decrease}} 1
+| popular_vote5 = 602,933
+| percentage5 = 3.43%
+| swing5 = {{decrease}} 0.49 [[percentage points|pp]]
+
+<!-- Consensus has been made that Strength in Democracy does not warrant inclusion in the infobox. See talk page. -->
+<!-- map -->| map = {{Switcher
+| [[File:2015 Canadian General Election.svg|400px]]
+| Results by electoral district
+| [[File:Canada 2015 Federal Election.svg|400px]]
+| Results by province and territory
+}}
+
+<!-- bottom -->| title = Prime Minister
+| before_election = [[Stephen Harper]]
+| before_party = {{Canadian party colour|CA|Conservative|name}}
+| posttitle = Prime Minister after election
+| after_election = [[Justin Trudeau]]
+| after_party = {{Canadian party colour|CA|Liberal|name}}
+}}
+The '''2015 Canadian federal election''' was held on October 19, 2015, to elect the 338 members of the [[House of Commons of Canada|House of Commons]] of the [[42nd Canadian Parliament|42nd Parliament of Canada]]. In accordance with the [[Fixed election dates in Canada#Federal|maximum four-year term]] under a [[Canada Elections Act#Notable provisions|2007 amendment to the ''Canada Elections Act'']], the [[writ of election|writs of election]] for the 2015 election were issued by Governor General [[David Johnston (governor general)|David Johnston]] on August 2.<ref>{{cite journal |title=Proclamation Issuing Election Writs |journal=Canada Gazette |date=4 August 2015 |volume=149 |issue=Extra |page=3 |url=https://gazette.gc.ca/rp-pr/p2/2015/2015-08-04-x4/pdf/g2-149x4.pdf |access-date=5 September 2026}}</ref> At 11 weeks, the ensuing campaign was one of the longest in Canadian history:<ref>Only the first two election campaigns after Confederation were longer: 81 days in 1867 and 96 days in 1872. In those early days voting was staggered across the country over a period of several months, necessarily extending the length of the campaigns. Prior to 2015, the longest federal election campaign lasted 74 days, in [[1926 Canadian federal election|1926]]. (Canadian Press, [http://www.torontosun.com/2015/07/29/imminent-federal-election-to-be-costliest-longest-in-recent-canadian-history "Imminent federal election to be costliest, longest in recent Canadian history"] {{Webarchive|url=https://web.archive.org/web/20150918194443/http://www.torontosun.com/2015/07/29/imminent-federal-election-to-be-costliest-longest-in-recent-canadian-history |date=September 18, 2015 }}. ''Toronto Sun'', July 29, 2015)</ref> It was also the first time since [[1979 Canadian federal election|1979]] that a [[Prime Minister of Canada|prime minister]] attempted to remain in office into a fourth consecutive Parliament and the first time since [[1980 Canadian federal election|1980]] that someone attempted to win a fourth term of any kind as prime minister.{{efn|In both cases, it was [[Pierre Trudeau]], father of 2015 winner [[Justin Trudeau]], who attempted in 1979 to win a 4th consecutive term and succeeded in 1980 in winning a fourth term overall. He joined [[John A. Macdonald]] (four consecutive) and [[Wilfrid Laurier]] (four consecutive) as the only four-time Canadian prime ministers.}} This is also the most recent election in which a majority government was formed.{{efn|The April [[2025 Canadian federal election|2025 election result]] did not form a majority government; following the general election, a series of floor crossings and byelections would make it a majority government in April 2026.<ref>{{cite news |first=John Paul |last=Tasker |title=Carney clinches a majority government with 3 Liberal byelection wins |work=[[CBC News]] |date=2026-04-14 |orig-date=2026-04-13 |url=https://www.cbc.ca/news/politics/byelection-liberal-conservatives-carney-majority-government-9.7161054 |access-date=2026-09-03}}</ref>
+
+}}
+
+The [[Liberal Party of Canada|Liberal Party]] won 184 seats, forming a [[majority government]] with its leader [[Justin Trudeau]] becoming prime minister.<ref>{{cite news | url = https://www.bbc.com/news/world-us-canada-34566369 | title = Trudeau brings Liberals back on top | first = Anthony | last = Zurcher | work = BBC News | date = October 20, 2015 | access-date = October 22, 2015 | archive-date = October 21, 2015 | archive-url = https://web.archive.org/web/20151021230302/http://www.bbc.com/news/world-us-canada-34566369 | url-status = live }}</ref> [[29th Canadian Ministry|Trudeau and the rest of his cabinet]] were sworn in on November 4, 2015.<ref>{{cite web|url=http://www.macleans.ca/politics/ottawa/when-does-justin-trudeau-become-prime-minister/|title=When does Justin Trudeau become prime minister?|first1=Patricia|last1=Treble|work=Maclean's|access-date=October 28, 2015|date=October 20, 2015|archive-date=October 23, 2020|archive-url=https://web.archive.org/web/20201023053058/https://www.macleans.ca/politics/ottawa/when-does-justin-trudeau-become-prime-minister/|url-status=live}}</ref> The [[Conservative Party of Canada|Conservative Party]], led by incumbent Prime Minister [[Stephen Harper]], won 99 seats, becoming the [[Official Opposition (Canada)|Official Opposition]] after nearly a decade on the government benches. The [[New Democratic Party]], led by [[Tom Mulcair]], won 44 seats, becoming the third-largest party in the House of Commons, after having formed the Official Opposition following the [[2011 Canadian federal election|2011 election]].<ref>{{cite news|url=https://www.theguardian.com/world/2015/oct/20/justin-trudeau-set-to-become-pm-as-liberals-sweep-board-in-canada-election|work=The Guardian|title=Justin Trudeau set to become Canadian PM as Liberals sweep board in election|first=Nicky|last=Woolf|date=October 19, 2015|access-date=October 19, 2015|archive-date=July 13, 2018|archive-url=https://web.archive.org/web/20180713212132/https://www.theguardian.com/world/2015/oct/20/justin-trudeau-set-to-become-pm-as-liberals-sweep-board-in-canada-election|url-status=live}}</ref> The [[Bloc Québécois]] won 10 seats, the [[Green Party of Canada|Green Party]] won 1 seat, and [[Strength in Democracy]] lost all its seats.
+
+The Liberal Party's increase of 148 seats from the previous election was the largest-ever numerical increase by a party in a Canadian election. Prior to the campaign, the Liberals had held only 36 seats—the fewest seats ever held at dissolution by any federal party that won the following election. The Liberals also became the first federal party in Canadian history to win a majority of seats without having been either the governing party or the Official Opposition in the previous parliament, and this was only the second time a party went from having the third-most seats to the most seats (the first being in [[1925 Canadian federal election|1925]]). It was the second largest number of seats won in a federal election for the Liberals, the best being 191 in [[1949 Canadian federal election|1949]]. This was the first election since [[2000 Canadian federal election|2000]] in which the Liberals gained seats. It was also the first election since [[1980 Canadian federal election|1980]] in which the Liberals won the most seats in [[Quebec]], and the first election since [[1968 Canadian federal election|1968]] in which the Liberals won the most seats in [[British Columbia]]. The election also had the highest voter turnout since [[1993 Canadian federal election|1993]].<ref name="turnout"/> Every party represented in the House of Commons except the Liberal Party recorded a decrease in its [[Direct election|popular vote]] share. There was an increase in voter turnout among all age groups. The largest was among eligible voters aged 18 to 24, which increased 18.3 points, to 57.1%. Elections Canada reported that this was the biggest increase in turnout among this age group since it began making demographic turnout estimates.<ref>{{Cite news |last=Grenier |first=Eric |date=June 15, 2016 |title=2015 federal election saw youth vote in unprecedented numbers |url=https://www.cbc.ca/news/politics/grenier-youth-turnout-2015-1.3636290 |work=CBC News}}</ref>
+
+Following the election, Harper conceded defeat to Trudeau and resigned as leader of the Conservative Party.<ref name="CTVHarper2015">{{cite web|url=https://www.ctvnews.ca/politics/article/stephen-harper-resigns-as-conservative-leader/|title=Stephen Harper resigns as Conservative leader|work=CTV News|access-date=October 28, 2015|last1=Dehaas|first1=Josh|date=October 19, 2015|archive-date=October 20, 2015|archive-url=https://web.archive.org/web/20151020035634/http://www.ctvnews.ca/politics/stephen-harper-resigns-as-conservative-leader-1.2617950|url-status=live}}</ref> [[Gilles Duceppe]] resigned as leader of the Bloc Québécois shortly after the election on October 22, 2015. [[Tom Mulcair]] announced his intention to remain leader of the NDP, but was forced to step down in October 2017, after losing a party vote on his leadership in the spring of 2016.
+
+==Background==
+{{See also|Timeline of the 2015 Canadian federal election|41st Canadian Parliament|List of MPs who stood down at the 2015 Canadian federal election}}
+The [[2011 Canadian federal election|2011 federal election]] resulted in the continuation of the incumbent [[Conservative Party of Canada|Conservative]] government headed by [[Stephen Harper]], while the [[New Democratic Party]] (NDP) became Official Opposition and the [[Liberal Party of Canada|Liberal Party]] became the third party. The [[Bloc Québécois]] won four seats and the [[Green Party of Canada|Green Party]] won one seat. Liberal leader [[Michael Ignatieff]] and Bloc leader [[Gilles Duceppe]] resigned shortly after failing to win their own ridings. The Bloc Québécois lost official party status by failing to attain the minimum seats needed (12).
+
+[[Bob Rae]] was chosen as interim leader of the Liberal Party. In July 2011 [[Jack Layton]], suffering from cancer, temporarily stepped down as leader of the NDP because of illness, indicating his intention to return for the reconvening of Parliament in September.  Weeks later Layton died of cancer and was given a [[state funeral]]. In March 2012 [[Tom Mulcair]] was elected leader of the New Democratic Party. In April 2013 [[Justin Trudeau]] was elected leader of the Liberal Party. Bloc Québécois leader [[Daniel Paillé]] stepped down in December 2013 and was eventually replaced in June 2014 by [[Mario Beaulieu (politician)|Mario Beaulieu]], who in turn was replaced by Duceppe in June 2015.<ref name="DuceppeReturns">{{cite web |url=http://www.parl.gc.ca/ParlInfo/Files/Parliamentarian.aspx?Item=ed3d4160-8a5a-4efc-a0a6-d65deeb994d9&Language=E |title=DUCEPPE, Gilles |publisher=House of Commons of Canada |access-date=August 8, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150810102600/http://www.parl.gc.ca/parlinfo/Files/Parliamentarian.aspx?Item=ed3d4160-8a5a-4efc-a0a6-d65deeb994d9&Language=E |archive-date=August 10, 2015  }}</ref> In late 2014, MPs [[Jean-François Larose]] of the NDP and [[Jean-François Fortin (politician)|Jean-François Fortin]] of the Bloc formed the new political party [[Strength in Democracy]]. As set forth in the ''Fair Representation Act'',<ref>{{cite web|title=Fair Representation Act, S.C. 2011, c. 26|url=http://laws.justice.gc.ca/eng/AnnualStatutes/2011_26/page-1.html|website=laws.justice.gc.ca|publisher=Queen's Printer for Canada|access-date=January 17, 2015|date=December 16, 2011|archive-date=September 16, 2015|archive-url=https://web.archive.org/web/20150916205941/http://laws.justice.gc.ca/eng/AnnualStatutes/2011_26/page-1.html|url-status=live}}</ref> the number of seats in the House of Commons to be contested in the 42nd Canadian federal election was 338, an increase of 30 seats from the 308 seats comprising the [[House of Commons of Canada]] of the [[41st Parliament of Canada]], at its [[Dissolution of parliament|dissolution]].<ref name="FRAct">{{cite news|title=30 more MPs for rebalanced House of Commons|url=http://www.cbc.ca/news/politics/30-more-mps-for-rebalanced-house-of-commons-1.994608|website=[[CBC News]]|access-date=June 8, 2014|date=October 26, 2011|archive-date=June 20, 2015|archive-url=https://web.archive.org/web/20150620213946/http://www.cbc.ca/news/politics/30-more-mps-for-rebalanced-house-of-commons-1.994608|url-status=live}}</ref>
+
+Prime Minister Stephen Harper requested [[writ of election|writs of election]] for a federal general election from [[Governor General of Canada|Governor General]] [[David Johnston (governor general)|David Johnston]] on August 2.  The official proclamations were issued on August 4.<ref>{{cite journal|url=http://www.gazette.gc.ca/rp-pr/p2/2015/2015-08-04-x4/pdf/g2-149x4.pdf#page=3|title=Proclamation Issuing Election Writs|journal=Canada Gazette Part II|volume=149|date=August 4, 2015|access-date=October 22, 2015}}</ref> The date of the vote is determined by the fixed-date [[Canada Elections Act]].<ref name="C16">{{cite web |url=http://www.parl.gc.ca/HousePublications/Publication.aspx?Docid=2475836&file=4 |title=Amendment to Canada Elections Act |publisher=Queen's Printer for Canada |date=November 6, 2006 |access-date=July 29, 2011 |archive-date=August 5, 2011 |archive-url=https://web.archive.org/web/20110805041409/http://www.parl.gc.ca/HousePublications/Publication.aspx?Docid=2475836&file=4 |url-status=live}}</ref> At 11 weeks, the campaign was the longest in modern Canadian history.<ref>{{cite news|url=http://www.cbc.ca/news/politics/canada-election-2015-stephen-harper-confirms-start-of-11-week-federal-campaign-1.3175136|title=Canada election 2015: Stephen Harper confirms start of 11-week federal campaign|work=[[CBC News]]|date=August 2, 2015|access-date=August 2, 2015|archive-date=August 6, 2015|archive-url=https://web.archive.org/web/20150806021936/http://www.cbc.ca/news/politics/canada-election-2015-stephen-harper-confirms-start-of-11-week-federal-campaign-1.3175136|url-status=live}}</ref> As a result of the [[2012 Canadian federal electoral redistribution|2012 federal electoral redistribution]], the number of electoral districts was increased to 338, with additional seats based on population assigned to Alberta (6), British Columbia (6), Ontario (15), and Quebec (3).<ref>{{cite news|last1=Aulakh|first1=Raveena|last2=Kane|first2=Laura|title=Growing population means 11 new ridings in the GTA|url=https://www.thestar.com/news/canada/2012/08/27/growing_population_means_11_new_ridings_in_the_gta.html|access-date=May 3, 2018|work=Toronto Star|date=August 27, 2012|archive-date=May 4, 2018|archive-url=https://web.archive.org/web/20180504090700/https://www.thestar.com/news/canada/2012/08/27/growing_population_means_11_new_ridings_in_the_gta.html|url-status=live}}</ref>
+
+{| class="wikitable" style="text-align:right"
+|+ Effect of 2012 redistribution on notional number of seats held
+|-
+!colspan="2"|Party
+!2011 (election)
+!New seats
+!Merged seat
+!Adjt +
+!Adjt -
+!2011 (redistributed)
+|-
+{{Canadian party colour|CA|Liberal|row-name}}
+|34 ||2 || ||2 ||(2) ||36
+|-
+{{Canadian party colour|CA|Conservative|row-name}}
+|166 ||23 ||(1) ||4 ||(4) ||188
+|-
+{{Canadian party colour|CA|NDP|row-name}}
+|103 ||6 || ||4 ||(4) ||109
+|-
+{{Canadian party colour|CA|BQ|row-name}}
+|4 || || ||1 ||(1) ||4
+|-
+{{Canadian party colour|CA|Green|row-name}}
+|1 || || || || ||1
+|-
+| colspan="2" style="text-align:left;"|'''Total''' ||308 ||31 ||(1) ||11 ||(11) ||338
+|}
+[[File:The transposed results of the 2011 election, if they had taken place under the 2013 Representation Order.svg|thumb|The transposed results of the 2011 election, if they had taken place under the 2013 Representation Order]]
+{{election table|title=Notional seats by party by province<ref>{{cite web|url= http://www.elections.ca/content.aspx?section=res&dir=cir/trans2013&document=p41&lang=e#a41|title= Transposition of Votes – 2013 Representation Order|publisher= Elections Canada|access-date= 2015-09-28|archive-date= 2015-09-24|archive-url= https://web.archive.org/web/20150924191920/http://www.elections.ca/content.aspx?section=res&dir=cir/trans2013&document=p41&lang=e#a41|url-status= live}}</ref>}}
+|-
+! colspan="2" style="text-align:left;" | Party !! BC !! AB !! SK !! MB !!ON !! QC !! NB !! PE !! NS !! NL !! Territories!! Total
+|-
+{{Canadian party colour|CA|Conservative|row-name}}
+| 28 ||33 ||11 ||11 ||83 ||5 ||8 ||1 ||4 ||2 ||2 ||188
+|-
+{{Canadian party colour|CA|NDP|row-name}}
+|11  ||1 || 2||3 ||24 ||61 ||1 || ||3 ||2 ||1 ||109
+|-
+{{Canadian party colour|CA|Liberal|row-name}}
+| 2 || ||1 || ||14 ||8 ||1 ||3 ||4 ||3 || ||36
+|-
+{{Canadian party colour|CA|BQ|row-name}}
+|  || || || || ||4 || || || || || ||4
+|-
+{{Canadian party colour|CA|Green|row-name}}
+| 1 || || || || || || || || || || ||1
+|-
+! colspan="2" style="text-align:left;" | Total
+! style="text-align:right;" |42
+! style="text-align:right;" |34
+! style="text-align:right;" |14
+! style="text-align:right;" |14
+! style="text-align:right;" |121
+! style="text-align:right;" |78
+! style="text-align:right;" |10
+! style="text-align:right;" |4
+! style="text-align:right;" |11
+! style="text-align:right;" |7
+! style="text-align:right;" |3
+! style="text-align:right;" |338
+|}61 MPs [[List of MPs who stood down at the 2015 Canadian federal election|chose to not seek reelection]] at the 2015 federal election, meaning they were [[Member of Parliament#Canada|Members of Parliament (MPs)]] in the [[41st Parliament of Canada]], but chose not to stand for election to the [[42nd Parliament of Canada]] (in some cases after being deselected by their parties).
+
+== Campaign slogans ==
+{|class="wikitable"
+|-
+! Party !! English !! French !! Translation of French (unofficial)
+|-
+|Conservative Party
+|"Proven leadership for a strong Canada."<ref>{{cite web|url=https://www.conservative.ca/cpc/i-stand-with-stephen-harper-1/|title=I Stand With Stephen Harper|author=Conservative Party of Canada|access-date=August 5, 2015|archive-date=August 5, 2015|archive-url=https://web.archive.org/web/20150805221235/http://www.conservative.ca/cpc/i-stand-with-stephen-harper-1/}}</ref><br />"Safer Canada/Stronger Economy"<ref>{{cite news|url = https://www.economist.com/news/americas/21660571-stephen-harper-wants-fourth-term-prime-minister-he-faces-tough-fight-long-not|title = Long, but not boring|access-date = August 10, 2015|newspaper = [[The Economist]]|date = August 8, 2015|archive-date = August 9, 2015|archive-url = https://web.archive.org/web/20150809053522/http://www.economist.com/news/americas/21660571-stephen-harper-wants-fourth-term-prime-minister-he-faces-tough-fight-long-not|url-status = live}}</ref><br />"Protect our Economy"<ref>{{cite web|title=Cover Photos|url=https://www.facebook.com/cpcpcc/photos/a.10150673458204204.413594.5661704203/10153638567194204/|publisher=Official Facebook page of Conservative Party of Canada|date=September 13, 2015|access-date=October 19, 2015|archive-date=March 8, 2021|archive-url=https://web.archive.org/web/20210308063630/https://www.facebook.com/cpcpcc/photos/a.10150673458204204.413594.5661704203/10153638567194204/|url-status=live}}</ref>
+|"Un leadership qui a fait ses preuves pour une économie plus forte"
+|"Leadership that has proven itself for a stronger economy"
+|-
+|New Democratic Party
+|"Ready for Change."<ref>{{cite web|url=https://www.ndp.ca/|title=Canada's NDP|access-date=August 5, 2015|archive-date=August 4, 2015|archive-url=https://web.archive.org/web/20150804151242/http://www.ndp.ca/|url-status=live}}</ref>
+|"Ensemble pour le changement"
+|"Together for change"
+|-
+|Liberal Party
+|"Real Change (Now)."<ref>{{cite news|url=http://www.cbc.ca/news/politics/canada-election-2015-justin-trudeau-takes-his-campaign-to-stephen-harper-s-backyard-1.3177921|title=Canada election 2015: Justin Trudeau takes his campaign to Stephen Harper's backyard|date=August 4, 2015|work=[[CBC News]]|access-date=August 5, 2015|last1=Payton|first1=Laura|archive-date=August 6, 2015|archive-url=https://web.archive.org/web/20150806001640/http://www.cbc.ca/news/politics/canada-election-2015-justin-trudeau-takes-his-campaign-to-stephen-harper-s-backyard-1.3177921|url-status=live}}</ref><ref>{{cite press release|url=https://www.liberal.ca/liberals-release-new-campaign-ads-across-canada|title=Liberals release new campaign ads across Canada|work=Liberal Party of Canada|date=October 10, 2015|access-date=October 10, 2015|archive-date=October 11, 2015|archive-url=https://web.archive.org/web/20151011223316/https://www.liberal.ca/liberals-release-new-campaign-ads-across-canada/|url-status=live}}</ref>
+|"Changer ensemble (maintenant)"
+|"Change together (now)"
+|-
+|Bloc Québécois
+|{{N/A}}
+|"Des gains pour le Québec"<ref>{{cite news|title=Bloc Quebecois abandons sovereignty slogan|url=http://montreal.ctvnews.ca/bloc-quebecois-abandons-sovereignty-slogan-1.2540997|archive-url=https://archive.today/20161023095713/http://montreal.ctvnews.ca/bloc-quebecois-abandons-sovereignty-slogan-1.2540997|url-status=dead|archive-date=October 23, 2016|access-date=August 31, 2015|work=[[CTV News]] |location=Montreal |date=August 31, 2015}}</ref><br />"On a tout à gagner"
+|"Gains for Quebec"<br />"We have everything to win"
+|-
+|Green Party
+|"A Canada That Works. Together."<ref>{{cite web|url=https://greenparty.ca/en|title=Green Party of Canada|work=greenparty.ca|access-date=August 5, 2015|archive-date=August 5, 2015|archive-url=https://web.archive.org/web/20150805021916/http://www.greenparty.ca/en|url-status=live}}</ref>
+|"Prendre l'avenir en main"
+|"Take the future in hand"
+|}
+
+==Election campaign==
+
+=== Leaders' debates ===
+{{See also|Canadian leaders' debates#2015 debates}}
+Traditionally, party leaders participated in at least two nationally televised debates during the federal election – at least one each in [[Canadian English|English]] and [[Canadian French|French]].  These debates were produced by a consortium of Canada's major television networks.<ref name="theglobeandmail.com">{{cite news|url=https://www.theglobeandmail.com/news/politics/broadcasters-fight-back-against-federal-leaders-debate-changes/article24442646/|title=Broadcasters fight back against federal leaders' debate changes|work=The Globe and Mail|access-date=May 28, 2015|last1=Chase|first1=Steven|location=Ottawa|archive-date=May 21, 2015|archive-url=https://web.archive.org/web/20150521060329/http://www.theglobeandmail.com/news/politics/broadcasters-fight-back-against-federal-leaders-debate-changes/article24442646/|url-status=live}}</ref> In May 2015, the Conservatives said they would not participate in the consortium debates and instead would take part in as many as five independently staged debates in the run-up to the fall federal election.<ref name="theglobeandmail.com" /> Ultimately, the Conservatives agreed to participate in a French-language debate organized by the consortium of broadcasters as one of their five debates.<ref name="NDP debates and 2nd consortium">{{cite news|last1=Payton|first1=Laura|title=Harper, Mulcair and Trudeau confirm participation in Munk Debates, 2nd French debate|url=http://www.cbc.ca/news/politics/canada-election-2015-ndp-debates-aug11-1.3186042|access-date=August 12, 2015|work=[[CBC News]]|date=August 12, 2015|archive-date=August 12, 2015|archive-url=https://web.archive.org/web/20150812000500/http://www.cbc.ca/news/politics/canada-election-2015-ndp-debates-aug11-1.3186042|url-status=live}}</ref>  The New Democratic Party confirmed that [[Tom Mulcair]] would accept every debate where the prime minister was present. The NDP had previously confirmed its intention to participate in both of the consortium debates before [[Stephen Harper]] withdrew<ref>{{cite news|url=http://www.cbc.ca/news/politics/canada-election-2015-ndp-threatens-to-pull-out-of-broadcasters-debates-1.3175720|title=Canada election 2015: NDP threatens to pull out of broadcasters' debates|date=July 31, 2015|work=[[CBC News]]|last1=Barton|first1=Rosemary|access-date=July 31, 2015|archive-date=August 1, 2015|archive-url=https://web.archive.org/web/20150801222749/http://www.cbc.ca/news/politics/canada-election-2015-ndp-threatens-to-pull-out-of-broadcasters-debates-1.3175720|url-status=live}}</ref><ref name="Consortium">{{cite news|url=http://www.cbc.ca/news/politics/election-debate-dates-set-by-broadcasters-without-conservatives-1.3145190|title=Election debate dates set by broadcasters without Conservatives|last=Payton|first=Laura|work=[[CBC News]]|date=July 9, 2015|access-date=August 6, 2015|archive-date=August 18, 2015|archive-url=https://web.archive.org/web/20150818124920/http://www.cbc.ca/news/politics/election-debate-dates-set-by-broadcasters-without-conservatives-1.3145190|url-status=live}}</ref> but ultimately only participated in the French language consortium debate which included the Conservatives.<ref name="NDP debates and 2nd consortium" /> Liberal leader [[Justin Trudeau]] attended the ''Maclean's'', ''Globe and Mail'', and French consortium debates; and the Liberals confirmed he would attend the other debates.<ref name="Consortium" /><ref name="theglobeandmail.com1">{{cite news |url=https://www.theglobeandmail.com/news/politics/conservatives-ndp-agree-to-globe-election-debate-on-economy/article24510188/ |title=Conservatives, NDP agree to Globe election debate on economy |work=The Globe and Mail |last1=Chase |first1=Steven |date=May 20, 2015 |access-date=May 20, 2015 |location=Ottawa |archive-date=May 24, 2015 |archive-url=https://web.archive.org/web/20150524174109/http://www.theglobeandmail.com/news/politics/conservatives-ndp-agree-to-globe-election-debate-on-economy/article24510188/ |url-status=live }}</ref><ref name="newswire.ca">{{cite web|url=http://www.newswire.ca/en/story/1540825/federal-election-debate-announcement-first-ever-federal-election-debate-on-foreign-policy-proposed|title=Munk Debates – Federal Election Debate Announcement – First Ever Federal Election Debate on Foreign Policy Proposed|work=newswire.ca|access-date=August 1, 2015|archive-date=October 25, 2017|archive-url=https://web.archive.org/web/20171025131810/http://www.newswire.ca/news-releases/federal-election-debate-announcement---first-ever-federal-election-debate-on-foreign-policy-proposed-517736231.html|url-status=dead}}</ref><ref name="radio-canada.ca">{{cite web |url=http://ici.radio-canada.ca/nouvelles/politique/2015/05/22/004-debats-electoraux-groupe-tva-accord-quatre-partis-federaux.shtml |title=Harper, Mulcair, Trudeau et Beaulieu croiseront le fer à TVA |work=Radio-Canada |date=May 22, 2015 |access-date=May 22, 2015 |archive-date=September 23, 2015 |archive-url=https://web.archive.org/web/20150923090311/http://ici.radio-canada.ca/nouvelles/politique/2015/05/22/004-debats-electoraux-groupe-tva-accord-quatre-partis-federaux.shtml |url-status=live }}</ref><ref name="GAM04Aug15" /> The Bloc Québécois attended the French language consortium debate and confirmed its attendance at the French-language TVA debate. The Green Party attended the ''Maclean's'' and French language consortium debates, and confirmed its intention to participate in the English language consortium debate.<ref name="Consortium" /><ref name="radio-canada.ca" /><ref>{{cite web|url=http://www.macleans.ca/politics/the-macleans-national-leaders-debate|title=A viewer's guide to the Maclean's National Leaders Debate|work=Maclean's|date=July 22, 2015|access-date=July 22, 2015|archive-date=July 26, 2015|archive-url=https://web.archive.org/web/20150726040013/http://www.macleans.ca/politics/the-macleans-national-leaders-debate/|url-status=live}}</ref><ref name="global fr consortium debate">{{cite news|title=Agreement reached for televised French-language 2015 leaders debate|url=http://globalnews.ca/news/2160291/agreement-reached-for-televised-french-language-2015-leaders-debate/|access-date=September 19, 2015|work=Global News|date=August 12, 2015|archive-date=September 14, 2015|archive-url=https://web.archive.org/web/20150914162935/http://globalnews.ca/news/2160291/agreement-reached-for-televised-french-language-2015-leaders-debate/|url-status=live}}</ref>  [[Strength in Democracy]], which had the same number of seats in the House of Commons at dissolution as the Greens and Bloc Québécois, were not invited to participate in any of the televised debates. The leaders of the party objected to their exclusion and launched a petition demanding that all parties represented in Parliament be invited to the debates.<ref>{{cite web|title=Strength in Democracy demands to be present in debates|url=http://www.forcesetdemocratie.org/en/293/strength-in-democracy-demands-to-be-present-in-debates/nouvelle.html|publisher=Strength in Democracy|access-date=August 31, 2015|date=August 17, 2015|archive-url=https://web.archive.org/web/20150911223248/http://www.forcesetdemocratie.org/en/293/strength-in-democracy-demands-to-be-present-in-debates/nouvelle.html|archive-date=September 11, 2015|url-status=dead}}</ref> Other minor parties without representation in the House of Commons were not invited to participate in any of the televised debates.
+
+{| class="wikitable"
+|+ Televised debates
+|-
+! Subject !! Participants !! Date !! Organizer !!Moderator !! Location !! Notes
+|-
+| General || Harper, May, Mulcair, Trudeau || {{nowrap|August 6}}<ref name="ReferenceA">{{cite web |title=Maclean's Election Debate To Feature All 4 National Party Leaders |url=http://www.huffingtonpost.ca/2015/06/15/all-four-main-national-pa_n_7588460.html|work=Huffington Post|access-date=June 21, 2015|date=June 15, 2015}}</ref> || {{nowrap|[[Rogers Media]] (''[[Maclean's]]'')<ref name="thestar.com">{{cite web|url=https://www.thestar.com/news/canada/2015/05/12/conservatives-turn-down-traditional-tv-debates-for-leaders.html|title=Conservatives turn down traditional TV debates for leaders|date=May 12, 2015|work=thestar.com|access-date=May 28, 2015|last1=MacCharles|first1=Tonda|archive-date=May 28, 2015|archive-url=https://web.archive.org/web/20150528182157/http://www.thestar.com/news/canada/2015/05/12/conservatives-turn-down-traditional-tv-debates-for-leaders.html|url-status=live}}</ref>}} ||[[Paul Wells]]|| [[Toronto]] ||The debate included live translations into French, Italian, Mandarin, Cantonese and Punjabi. Aired live on [[City (TV network)|City]] stations (English), [[CPAC (TV channel)|CPAC]] (French), and [[Omni Television]] stations (all other languages); streamed live at the ''Maclean's'' website and all networks' websites, [[Facebook]] and [[YouTube]]; and on [[Rogers Media]] news radio stations.<ref>{{cite news|url=http://www.cbc.ca/news/politics/canada-election-2015-debate-list-aug6-1.3180139|title=Federal leaders' debate: 5 things to watch for tonight|work=[[CBC News]]|access-date=August 6, 2015|date=August 6, 2015|last1=Payton|first1=Laura|archive-date=August 7, 2015|archive-url=https://web.archive.org/web/20150807052021/http://www.cbc.ca/news/politics/canada-election-2015-debate-list-aug6-1.3180139|url-status=live}}</ref>
+|-
+| Economy || Harper, Mulcair, Trudeau<ref name="theglobeandmail.com1" /><ref name="GAM04Aug15">{{cite news|url=https://www.theglobeandmail.com/news/politics/harper-mulcair-and-trudeau-confirm-globe-debate-attendance/article25820792/|title=Harper, Mulcair and Trudeau confirm Globe debate attendance|work=The Globe and Mail|access-date=August 4, 2015|last1=Bradshaw|first1=James|date=August 4, 2015|archive-date=September 23, 2015|archive-url=https://web.archive.org/web/20150923102635/http://www.theglobeandmail.com/news/politics/harper-mulcair-and-trudeau-confirm-globe-debate-attendance/article25820792/|url-status=live}}</ref>  || {{nowrap|September 17}}<ref name="GAM04Aug15" /> || {{nowrap|''[[The Globe and Mail]]'' and}}  {{nowrap|[[Google]] Canada}}<ref name="theglobeandmail.com1"/> ||[[David Walmsley]]|| [[Calgary]] ||The first half of the 90-minute debate covered five central themes on the economy: jobs, energy and the environment, infrastructure, housing and taxation. The second half consisted of follow-up questions and questions sent in by voters. Aired live nationwide on [[CPAC (TV channel)|CPAC]] in both official languages with an additional English feed in Ontario on [[CHCH-DT|CHCH]],<ref>"And the only place you can watch it on broadcast TV in Ontario is on CHCH." {{cite news|title=Leaders prepping for debate|url=http://www.chch.com/leaders-prepping-for-debate/|access-date=September 26, 2015|work=CHCH|publisher=Channel Zero Inc.|date=September 17, 2015|archive-date=September 27, 2015|archive-url=https://web.archive.org/web/20150927151914/http://www.chch.com/leaders-prepping-for-debate/|url-status=live}}</ref> streamed live on ''The Globe and Mail''<nowiki>'</nowiki>s website, and distributed on YouTube. Uninvited Green Party leader Elizabeth May answered questions on [[Twitter]] live during the debate at an event in [[Victoria, British Columbia]].<ref>{{cite news|title=Elizabeth May dominates debate on Twitter|url=http://www.ctvnews.ca/politics/election/green-party-leader-elizabeth-may-dominates-debate-on-twitter-1.2568799|access-date=September 25, 2015|agency=CTV News|last1=Shulman|first1=Michael|date=September 17, 2015|archive-date=September 25, 2015|archive-url=https://web.archive.org/web/20150925223111/http://www.ctvnews.ca/politics/election/green-party-leader-elizabeth-may-dominates-debate-on-twitter-1.2568799|url-status=dead}}</ref>
+|-
+| General || Duceppe, Harper, May, Mulcair, Trudeau<ref name="NDP debates and 2nd consortium" />|| September 24<ref name="NDP debates and 2nd consortium" /> || Consortium ([[CBC Television|CBC]]/{{nowrap|[[Ici Radio-Canada Télé|Radio-Canada]]}}, [[CTV Television Network|CTV]], [[Global Television Network|Global]], {{nowrap|[[Télé-Québec]]}}) and {{nowrap|''[[La Presse (Canadian newspaper)|La Presse]]''}}<ref name="NDP debates and 2nd consortium" /><ref name="Consortium" /><ref name="natpost-frdebates">{{cite news|last1=O'Malley|first1=Kady|title=Here's why you should watch the French leaders' debate (even if you only speak English)|url=https://nationalpost.com/news/politics/heres-why-you-should-watch-the-french-leaders-debate-even-if-you-only-speak-english|access-date=October 2, 2015|work=National Post|date=September 24, 2015|archive-date=May 28, 2021|archive-url=https://web.archive.org/web/20210528122649/https://nationalpost.com/category/news/|url-status=live}}</ref> ||[[Anne-Marie Dussault]]|| [[Montreal]]||The debate included live translation into English. Aired live in French on {{nowrap|[[Ici Radio-Canada Télé]]}} and {{nowrap|[[Télé-Québec]]}} stations, and participant networks' websites; and in English on [[CBC News Network]], [[CTV News Channel (Canada)|CTV News Channel]], and participant networks' websites.<ref name="global fr consortium debate" />
+|-
+| {{nowrap|Foreign Policy}}  || Harper, Mulcair, Trudeau<ref name="NDP debates and 2nd consortium" /> || {{nowrap|September 28}}<ref name="NDP debates and 2nd consortium" /> || Aurea Foundation<ref name="cbc.ca">{{cite news|url=http://www.cbc.ca/news/politics/federal-election-2015-munk-debates-wins-bid-to-host-foreign-policy-face-off-1.3081976|title=Federal election 2015: Munk Debates wins bid to host foreign policy face-off|date=May 21, 2015|work=[[CBC News]]|access-date=May 28, 2015|last1=O'Malley|first1=Kady|archive-date=May 31, 2015|archive-url=https://web.archive.org/web/20150531173322/http://www.cbc.ca/news/politics/federal-election-2015-munk-debates-wins-bid-to-host-foreign-policy-face-off-1.3081976|url-status=live}}</ref> and [[Facebook]] Canada<ref name="munk-debate-desc">{{cite web|title=Date Announced For First Ever Federal Election Debate on Foreign Policy|url=https://www.munkdebates.com/election-debate|website=Election Debate|publisher=Munk Debates|access-date=August 31, 2015|archive-date=August 22, 2015|archive-url=https://web.archive.org/web/20150822132329/http://munkdebates.com/election-debate|url-status=dead}}</ref>||[[Rudyard Griffiths]]|| Toronto|| Bilingual<ref name="NDP debates and 2nd consortium" /> debate on Canada's foreign policy hosted as part of the foundation's regular [[Munk Debates]].<ref name="newswire.ca" /><ref name="torstar munk debate">{{cite news|last1=Blanchfield|first1=Mike|title=Moderator asks Harper, Trudeau, Mulcair to skip talking points in upcoming foreign policy debate|url=https://www.thestar.com/news/canada/2015/09/27/moderator-asks-harper-trudeau-mulcair-to-skip-talking-points-in-upcoming-foreign-policy-debate.html|access-date=September 28, 2015|work=Toronto Star|date=September 27, 2015|archive-date=September 28, 2015|archive-url=https://web.archive.org/web/20150928042257/http://www.thestar.com/news/canada/2015/09/27/moderator-asks-harper-trudeau-mulcair-to-skip-talking-points-in-upcoming-foreign-policy-debate.html|url-status=live}}</ref> The debate consisted of six 12-minute segments, with two leaders debating for the first seven minutes and the third leader brought in to the debate for the final five.<ref name="torstar munk debate" /> Aired on [[CPAC (TV channel)|CPAC]] in both official languages with an additional English feed in Ontario on [[CHCH-DT|CHCH]],<ref>"CHCH ... is the only over the air broadcaster running the next English language leaders debate live this coming Monday" {{cite news|title=Main party leaders are back on the campaign trail|url=http://www.chch.com/main-party-leaders-are-back-on-the-campaign-trail/|access-date=September 26, 2015|work=CHCH News|publisher=Channel Zero Inc.|date=September 25, 2015|archive-date=September 27, 2015|archive-url=https://web.archive.org/web/20150927113557/http://www.chch.com/main-party-leaders-are-back-on-the-campaign-trail/|url-status=live}}</ref> streamed live on the Munk Debates website, and distributed on Facebook.<ref name="munk-debate-desc" />
+|-
+| General || Duceppe, Harper, Mulcair, Trudeau<ref name="TVA" />|| {{nowrap|October 2}}<ref name="TVA">{{cite web|url=https://ipolitics.ca/2015/06/03/tva-to-hold-french-language-leaders-debate-on-october-2/|title=TVA to hold French-language leaders' debate on October 2|last=McRobie|first=Deane|date=June 3, 2015|access-date=August 6, 2015|archive-date=May 28, 2021|archive-url=https://web.archive.org/web/20210528122647/https://ipolitics.ca/2015/06/03/tva-to-hold-french-language-leaders-debate-on-october-2/|url-status=live}}</ref> || [[Quebecor Media]] ([[TVA (Canada)|TVA]]) ||[[Pierre Bruneau (journalist)|Pierre Bruneau]]|| Montreal ||The debate focused on three themes: the economy, national security and Canada's place in the world, and social policies; the format consisted of six rounds of four-minute debate between two leaders, with an open debate section at the end of each theme.<ref name="torstar tva debate">{{cite news|last1=Kestler-D'Amours|first1=Jillian|title=Leaders prepare for last debate before federal election|url=https://www.thestar.com/news/canada/2015/10/02/leaders-prepare-for-last-debate-before-federal-election.html|access-date=October 2, 2015|work=Toronto Star|date=October 2, 2015|archive-date=October 3, 2015|archive-url=https://web.archive.org/web/20151003052308/http://www.thestar.com/news/canada/2015/10/02/leaders-prepare-for-last-debate-before-federal-election.html|url-status=live}}</ref> Aired live in French on [[TVA (Canada)|TVA]] stations, [[Le Canal Nouvelles]], and streamed on the [[TVA Nouvelles]] website;<ref name="torstar tva debate" /> Aired with [[simultaneous interpretation]] to English on [[CPAC (TV channel)|CPAC]].<ref name="kady tva debate">{{cite news|last1=O'Malley|first1=Kady|title=Here's what you need to know about tomorrow's French debate|url=https://ottawacitizen.com/storyline/kady-heres-what-you-need-to-know-about-tomorrows-french-debate|access-date=October 2, 2015|work=Ottawa Citizen|date=October 1, 2015|archive-date=October 4, 2015|archive-url=https://web.archive.org/web/20151004045401/http://ottawacitizen.com/storyline/kady-heres-what-you-need-to-know-about-tomorrows-french-debate|url-status=live}}</ref>
+|}
+
+=== Controversies ===
+The second Canadian federal election to significantly incorporate [[social media]], the 2015 campaign was notable for the rise of new avenues of scrutiny for potential candidates.<ref>{{cite news|last1=Harris|first1=Kathleen|title=How political operatives dig up dirt to take down candidates|url=http://www.cbc.ca/news/politics/canada-election-2015-vetting-candidates-media-1.3229594|access-date=December 28, 2017|work=[[CBC News]]|date=September 17, 2015|archive-date=April 4, 2018|archive-url=https://web.archive.org/web/20180404123135/http://www.cbc.ca/news/politics/canada-election-2015-vetting-candidates-media-1.3229594|url-status=live}}</ref> A number of damaging revelations for each of the major political parties late in the campaign led to calls for increased vetting amongst political strategists, academics and outside observers.<ref>{{cite news|last1=Young|first1=Leslie|title=How parties vet candidates, and why they sometimes miss important things|url=https://globalnews.ca/news/2209287/how-parties-vet-candidates-and-why-they-sometimes-miss-important-things/|access-date=December 28, 2017|work=Global News|date=September 8, 2015|archive-date=December 29, 2017|archive-url=https://web.archive.org/web/20171229053134/https://globalnews.ca/news/2209287/how-parties-vet-candidates-and-why-they-sometimes-miss-important-things/|url-status=live}}</ref><ref>{{cite news|author=The Canadian Press|title=Candidates' gaffes show more social media vetting needed, experts say|url=https://www.thestar.com/news/canada/2015/09/11/experts-advice-on-social-media-gaffes-vette-more-but-also-chill-out.html|access-date=December 28, 2017|work=Toronto Star|date=September 11, 2015|archive-date=December 29, 2017|archive-url=https://web.archive.org/web/20171229112411/https://www.thestar.com/news/canada/2015/09/11/experts-advice-on-social-media-gaffes-vette-more-but-also-chill-out.html|url-status=live}}</ref><ref>{{cite news|last1=Cullen|first1=Catherine|title=Political parties look closer at candidates' social media histories after recent gaffes|url=http://www.cbc.ca/news/politics/canada-election-2015-parties-candidates-social-media-gaffes-1.3225871|access-date=December 28, 2017|work=[[CBC News]]|date=September 13, 2015|archive-date=February 2, 2017|archive-url=https://web.archive.org/web/20170202010803/http://www.cbc.ca/news/politics/canada-election-2015-parties-candidates-social-media-gaffes-1.3225871|url-status=live}}</ref>
+
+{| class="wikitable"
+|-
+! Party !!Description
+|- valign="top"
+|Conservative
+|
+* August 7, 2015: [[Hochelaga (electoral district)|Hochelaga]] candidate Augustin Ali Kitoko was removed as a candidate after sharing a Facebook photo album from New Democrat leader [[Tom Mulcair]].<ref name="CBC Gaffes">{{cite news|url=http://www.cbc.ca/news/politics/canada-election-2015-candidates-dropped-gaffes-in-trouble-1.3231366|title=List of candidates, party officials who have made headlines for various gaffes|author=The Canadian Press|work=[[CBC News]]|date=September 16, 2015|access-date=September 29, 2015|archive-date=September 28, 2015|archive-url=https://web.archive.org/web/20150928190836/http://www.cbc.ca/news/politics/canada-election-2015-candidates-dropped-gaffes-in-trouble-1.3231366|url-status=live}}</ref>
+* August 21, 2015: [[Rosemont—La Petite-Patrie (federal electoral district)|Rosemont—La Petite-Patrie]] candidate Gilles Guibord was no longer a candidate after a number of online comments on ''[[Le Journal de Montréal]]'' were uncovered, including blaming [[First Nations in Canada|First Nations]] for not integrating into European culture, claiming the French, not the [[Mohawk people|Mohawks]], have ancestral rights to Quebec, and speaking about man's "authority over women".<ref>{{cite news|url=http://www.cbc.ca/news/canada/montreal/gilles-guibord-no-longer-conservative-candidate-after-internet-comments-surface-1.3199158|title=Gilles Guibord no longer Conservative candidate after internet comments surface|work=[[CBC News]]|date=August 21, 2015|access-date=September 29, 2015|archive-date=September 17, 2015|archive-url=https://web.archive.org/web/20150917025809/http://www.cbc.ca/news/canada/montreal/gilles-guibord-no-longer-conservative-candidate-after-internet-comments-surface-1.3199158|url-status=live}}</ref>
+* August 24, 2015: [[Ahuntsic-Cartierville (electoral district)|Ahuntsic-Cartierville]] candidate Wiliam Moughrabi deleted his Facebook account after violent and sexist posts were discovered.<ref>{{cite news|url=http://www.cbc.ca/news/politics/wiliam-moughrabi-facebook-violent-sexual-posts-1.3203206|title=Tory candidate deletes Facebook page after violent and sexist posts come to light|author=Haydn Watters|work=[[CBC News]]|date=August 25, 2015|access-date=September 29, 2015|archive-date=October 4, 2015|archive-url=https://web.archive.org/web/20151004070626/http://www.cbc.ca/news/politics/wiliam-moughrabi-facebook-violent-sexual-posts-1.3203206|url-status=live}}</ref>
+* August 25, 2015: [[Joliette (federal electoral district)|Joliette]] candidate Soheil Eid apologized after comparing New Democrat leader [[Tom Mulcair]]'s statements regarding the [[Energy East]] pipeline project to Nazi propagandist [[Joseph Goebbels]] by quoting ''"Mentez mentez, il en restera toujours quelque chose"'' ("Lie lie and something will always remain").<ref>{{cite news|url=http://www.cbc.ca/news/politics/soheil-eid-nazi-ndp-1.3204299|title=Quebec Tory candidate apologizes for trying to draw Nazi-NDP parallel|author=The Canadian Press|work=[[CBC News]]|date=August 26, 2015|access-date=September 29, 2015|archive-date=September 17, 2015|archive-url=https://web.archive.org/web/20150917094257/http://www.cbc.ca/news/politics/soheil-eid-nazi-ndp-1.3204299|url-status=live}}</ref>
+* September 6, 2015: [[Scarborough—Rouge Park (federal electoral district)|Scarborough—Rouge Park]] candidate Jerry Bance was dropped from the party after a video from [[Canadian Broadcasting Corporation|CBC]]'s ''[[Marketplace (Canadian TV program)|Marketplace]]'' surfaced showing an appliance repairman named Jerry urinating into a mug in a client's kitchen. It was later discovered that it was Bance himself.<ref>{{cite news|url=http://www.cbc.ca/news/politics/jerry-bance-marketplace-1.3217797|title=Jerry Bance, Conservative caught peeing in mug, no longer candidate, party says|work=[[CBC News]]|date=September 6, 2015|access-date=September 29, 2015|archive-date=September 28, 2015|archive-url=https://web.archive.org/web/20150928102511/http://www.cbc.ca/news/politics/jerry-bance-marketplace-1.3217797|url-status=live}}</ref> It became a popular meme on Twitter under the [[hashtag]] #peegate.<ref>{{cite news|url=http://www.cbc.ca/news/politics/canada-election-2015-peegate-jerry-bance-1.3218157|title='Peegate' memes flood Twitter after Tory candidate caught urinating in mug|author=Haydn Watters|work=[[CBC News]]|date=September 7, 2015|access-date=September 29, 2015|archive-date=September 28, 2015|archive-url=https://web.archive.org/web/20150928102436/http://www.cbc.ca/news/politics/canada-election-2015-peegate-jerry-bance-1.3218157|url-status=live}}</ref>
+* September 7, 2015: [[Toronto—Danforth (federal electoral district)|Toronto—Danforth]] candidate Tim Dutaud was forced to resign his candidacy after it was discovered he was YouTube user UniCaller, who has uploaded videos of himself pretending to orgasm while on the phone with female customer service representatives, and mocking people with mental disabilities.<ref>{{cite news|url=http://www.cbc.ca/news/politics/canada-election-2015-tim-dutaud-conservative-candidate-unicaller-1.3218162|title=Tim Dutaud 2nd Conservative candidate dropped over embarrassing videos|work=[[CBC News]]|date=September 7, 2015|access-date=September 29, 2015|archive-date=September 28, 2015|archive-url=https://web.archive.org/web/20150928102441/http://www.cbc.ca/news/politics/canada-election-2015-tim-dutaud-conservative-candidate-unicaller-1.3218162|url-status=live}}</ref>
+* September 8, 2015: [[Bay of Quinte (federal electoral district)|Bay of Quinte]] Conservative Electoral District Association board member Sue MacDonell was fired after she posted on Facebook that [[Cree]] woman and newly crowned [[Mrs. Universe]] [[Ashley Callingbull-Burnham]] was a "monster" and a "smug entitled Liberal pet."<ref name="CBC Gaffes" />
+* September 15, 2015: [[Bonavista—Burin—Trinity]] candidate Blair Dale was removed from his candidacy after racist and sexist online comments surfaced, including saying that abortion should not be an option for "irresponsible" people.<ref>{{cite news|url=http://www.cbc.ca/news/politics/canada-election-2015-blair-dale-newfoundland-cpc-1.3229260|title=Conservative candidate Blair Dale dropped after remarks about women, abortion surface|work=[[CBC News]]|date=September 15, 2015|access-date=September 29, 2015|archive-date=September 18, 2015|archive-url=https://web.archive.org/web/20150918020845/http://www.cbc.ca/news/politics/canada-election-2015-blair-dale-newfoundland-cpc-1.3229260|url-status=live}}</ref>
+* September 17, 2015: Prime Minister [[Stephen Harper]]'s use of the appellation "[[Old Stock Canadians#Harper controversy|Old Stock Canadians]]" during a nationally televised debate with Liberal Leader [[Justin Trudeau]], and NDP Leader [[Tom Mulcair]] created a Twitter frenzy and substantial media coverage.<ref name="CBC News 2015-09-17">{{cite news | url=http://www.cbc.ca/news/trending/canada-election-2015-globe-debate-weird-moments-1.3233233 | title='Old stock Canadians,' egg timer, creepy set top debate's odd moments Moderator David Walmsley's Irish accent and a ringing bell get reaction on social media | work=[[CBC News]] | date=September 17, 2015 | access-date=September 21, 2015 | archive-date=September 20, 2015 | archive-url=https://web.archive.org/web/20150920205404/http://www.cbc.ca/news/trending/canada-election-2015-globe-debate-weird-moments-1.3233233 | url-status=live }}</ref> Without specifically repeating the phrase, Harper later claimed to be referring to Canadians whose families have been here for "one or more generations".<ref name="Global_2015_09_17">{{cite news |title='Old-stock Canadians' are those already here, says Harper spokesman |url=http://globalnews.ca/news/2228095/old-stock-canadians-are-those-already-here-says-harper-spokesman/ |access-date=September 21, 2015 |author=Muise, Monique |work=Global News |date=September 18, 2015 |archive-date=September 21, 2015 |archive-url=https://web.archive.org/web/20150921000119/http://globalnews.ca/news/2228095/old-stock-canadians-are-those-already-here-says-harper-spokesman/ |url-status=live }}</ref>
+* October 1, 2015: [[Sackville—Preston—Chezzetcook]] candidate Robert Strickland was lambasted after Facebook remarks made by Strickland (or a staffer) told a young voter to "gain some experience in life" before engaging in political discussions.<ref>{{cite news|url=http://www.cbc.ca/news/canada/nova-scotia/robert-strickland-conservative-candidate-facebook-1.3251729|title=Robert Strickland, Conservative candidate, skewered over Facebook comments|author=Richard Woodbury|work=[[CBC News]]|date=October 1, 2015|access-date=October 1, 2015|archive-date=October 2, 2015|archive-url=https://web.archive.org/web/20151002132859/http://www.cbc.ca/news/canada/nova-scotia/robert-strickland-conservative-candidate-facebook-1.3251729|url-status=live}}</ref>
+* October 1, 2015: [[St. Catharines (federal electoral district)|St. Catharines]] incumbent [[Rick Dykstra]] was alleged to have purchased six [[Cîroc]] vodka bottles for underage girls at a local nightclub and then had his campaign offer bribes in exchange for their silence, a charge Dykstra denied.<ref>{{cite news|url=http://www.cbc.ca/news/canada/hamilton/news/conservative-incumbent-rick-dysktra-denies-buying-vodka-for-teens-at-nightclub-1.3253561|title=Conservative incumbent Rick Dykstra denies buying vodka for teens at nightclub|author=The Canadian Press|work=[[CBC News]]|date=October 1, 2015|access-date=October 2, 2015|archive-date=October 2, 2015|archive-url=https://web.archive.org/web/20151002132849/http://www.cbc.ca/news/canada/hamilton/news/conservative-incumbent-rick-dysktra-denies-buying-vodka-for-teens-at-nightclub-1.3253561|url-status=live}}</ref>
+* October 6, 2015: [[Mississauga—Malton (federal electoral district)|Mississauga—Malton]] candidate Jagdish Grewal was dropped from the party after an editorial by Grewal was printed in the ''Punjabi Post'' titled "Is it wrong for a homosexual to become a normal person?" in which he defended [[reparative therapy|gay-conversion therapy]] to return gay youths to their "normal" heterosexuality. He remained on the ballot.<ref>{{cite news|url=http://www.cbc.ca/news/politics/canada-election-2015-conservative-candidate-jagdish-grewal-gay-youth-1.3259324|title=Tories dump candidate who touts therapies to turn gay youth straight|author=Jennifer Ditchburn|work=[[CBC News]]|date=October 6, 2015|access-date=October 6, 2015|archive-date=October 7, 2015|archive-url=https://web.archive.org/web/20151007132947/http://www.cbc.ca/news/politics/canada-election-2015-conservative-candidate-jagdish-grewal-gay-youth-1.3259324|url-status=live}}</ref>
+* October 10, 2015: ''[[The Economist]]'' said that "[[Islamophobia|Muslim-bashing]]" had entered the election campaign, led primarily by the Conservatives, through the issue of the public wearing of the [[niqab]].<ref>{{cite news|title=Veiled attack: Muslim-bashing is an effective campaign tactic|url=https://www.economist.com/news/americas/21672361-muslim-bashing-effective-campaign-tactic-veiled-attack|access-date=October 11, 2015|newspaper=[[The Economist]]|date=October 10, 2015}}</ref> See also: [[Zunera Ishaq]]
+|- valign="top"
+|NDP
+|
+* August 10, 2015: [[Kings—Hants]] candidate Morgan Wheeldon resigned his candidacy after a Facebook comment surfaced where he is accused of saying [[Israel]] intended to "ethnically cleanse the region".<ref>{{cite news|url=http://www.cbc.ca/news/canada/nova-scotia/morgan-wheeldon-kings-hants-ndp-candidate-resigns-over-israel-comments-1.3185485|title=Morgan Wheeldon, Kings-Hants NDP candidate, resigns over Israel comments|work=[[CBC News]]|date=August 10, 2015|access-date=September 29, 2015|archive-date=September 16, 2015|archive-url=https://web.archive.org/web/20150916192715/http://www.cbc.ca/news/canada/nova-scotia/morgan-wheeldon-kings-hants-ndp-candidate-resigns-over-israel-comments-1.3185485|url-status=live}}</ref>
+* September 8, 2015: Shawn Dearn, [[Tom Mulcair]]'s director of communications apologized after tweets came to light criticizing the [[Catholic Church]], including stating that the "misogynist, homophobic, child-molesting Catholic church" is no moral authority, and used an expletive to refer to [[Pope Benedict XVI]] after the pope denounced Britain's gay equality rights.<ref>{{cite news|url=http://www.cbc.ca/news/politics/canada-election-2015-shawn-dearn-ndp-mulcair-twitter-apology-1.3220283|title=Senior NDP aide to Tom Mulcair apologized for tweets targeting Catholic Church|author=Colin Perkel|work=[[CBC News]]|date=September 8, 2015|access-date=September 29, 2015|archive-date=September 17, 2015|archive-url=https://web.archive.org/web/20150917064538/http://www.cbc.ca/news/politics/canada-election-2015-shawn-dearn-ndp-mulcair-twitter-apology-1.3220283|url-status=live}}</ref>
+* September 20, 2015: NDP Leader [[Tom Mulcair]] was forced to apologize for using the term "[[Newfie]]" in a derogatory fashion as a synonym for "stupid" during a heated exchange in the [[Quebec legislature]] in 1996.<ref>{{cite web|title = Mulcair apologizes for 1996 'Newfie' remark at campaign stop in N.L.|url = http://www.ctvnews.ca/politics/mulcair-apologizes-for-1996-newfie-remark-at-campaign-stop-in-n-l-1.2572207|website = CTV News|access-date = October 13, 2015|date = September 20, 2015|last1 = Pedwell|first1 = Terry|agency = The Canadian Press|archive-date = October 22, 2015|archive-url = https://web.archive.org/web/20151022184153/http://www.ctvnews.ca/politics/mulcair-apologizes-for-1996-newfie-remark-at-campaign-stop-in-n-l-1.2572207|url-status = dead}}</ref>
+* September 21, 2015: [[Winnipeg Centre]] MP [[Pat Martin]] apologized for offensive language. Martin called Green Party candidate Don Woodstock a "son of a bitch" during a candidates debate the previous week. In a ''[[Huffington Post]]'' article, Martin was quoted as saying Liberal candidate [[Robert-Falcon Ouellette]] is a "political slut" because he had considered running for different political parties before running for the Liberals.<ref>{{cite web|title = Here's Where The NDP-Liberal Battle Could Get Nastiest|url = http://www.huffingtonpost.ca/2015/09/19/winnipeg-centre-pat-martin-robert-falcon-ouellette-_n_8164126.html|website = The Huffington Post|access-date = October 13, 2015|date = September 19, 2015|last1 = Raj|first1 = Althia|archive-date = October 11, 2015|archive-url = https://web.archive.org/web/20151011132741/http://www.huffingtonpost.ca/2015/09/19/winnipeg-centre-pat-martin-robert-falcon-ouellette-_n_8164126.html|url-status = live}}</ref><ref>{{cite news |author=Steve Lambert |url=https://www.theglobeandmail.com/news/politics/ndp-incumbent-pat-martin-apologizes-for-offensive-language/article26457675/ |title=NDP incumbent Pat Martin apologizes for offensive language |newspaper=The Globe and Mail |date=September 21, 2015 |access-date=October 22, 2015 |archive-date=September 22, 2015 |archive-url=https://web.archive.org/web/20150922135522/http://www.theglobeandmail.com/news/politics/ndp-incumbent-pat-martin-apologizes-for-offensive-language/article26457675/ |url-status=live }}</ref>
+* September 22, 2015: [[Hamilton West—Ancaster—Dundas (federal electoral district)|Hamilton West—Ancaster—Dundas]] candidate Alex Johnstone apologized for Facebook comments from seven years prior, where she commented on photos of the [[Auschwitz concentration camp]] with "Ahhh, the infamous Pollish{{sic}}, phallic, hydro posts." She claimed to not know that the picture was of the infamous concentration camp.<ref>{{cite news|url=http://www.cbc.ca/news/canada/hamilton/news/canada-election-2015-ndp-hamilton-alex-johnstone-auschwitz-1.3241065|title=NDP candidate Alex Johnstone 'didn't know what Auschwitz was'|author=The Canadian Press|work=[[CBC News]]|date=September 23, 2015|access-date=September 29, 2015|archive-date=September 27, 2015|archive-url=https://web.archive.org/web/20150927135744/http://www.cbc.ca/news/canada/hamilton/news/canada-election-2015-ndp-hamilton-alex-johnstone-auschwitz-1.3241065|url-status=live}}</ref>
+* September 24, 2015: [[Charleswood—St. James—Assiniboia—Headingley]] candidate Stefan Johansson was asked to step down as candidate after social media posts from three years earlier emerged where he compared the [[Haredi Judaism|Haredim]] sect of Judaism to the [[Taliban]] and other extremists.<ref>{{cite news|url=http://www.cbc.ca/news/canada/manitoba/winnipeg-ndp-candidate-quits-over-social-media-posts-linking-jewish-sect-to-taliban-1.3243053|title=Winnipeg NDP candidate quits over social media posts linking Jewish sect to Taliban|author=Steve Lambert|work=[[CBC News]]|date=September 24, 2015|access-date=September 29, 2015|archive-date=September 28, 2015|archive-url=https://web.archive.org/web/20150928223605/http://www.cbc.ca/news/canada/manitoba/winnipeg-ndp-candidate-quits-over-social-media-posts-linking-jewish-sect-to-taliban-1.3243053|url-status=live}}</ref>
+* October 7, 2015: [[Brampton East]] candidate Harbaljit Singh Kahlon, who once told a television programme [[same-sex marriage]] could lead to polygamy and public nudity, offered an apology and said he no longer held those views.<ref>{{cite news|title = NDP candidate apologizes for former views on gay marriage, homosexuality|url = http://www.cbc.ca/news/politics/ndp-candidate-harbaljit-singh-kahlon-same-sex-marriage-polygamy-nudity-1.3261883|website = www.cbc.ca|access-date = October 13, 2015|archive-date = October 10, 2015|archive-url = https://web.archive.org/web/20151010221551/http://www.cbc.ca/news/politics/ndp-candidate-harbaljit-singh-kahlon-same-sex-marriage-polygamy-nudity-1.3261883|url-status = live}}</ref>
+|- valign="top"
+|Liberal
+|
+* August 18, 2015: [[Calgary Nose Hill]] candidate Ala Buzreba stepped down as candidate after offensive Twitter tweets from several years earlier were uncovered, including "Go blow your brains out you waste of sperm" and "Your mother should have used that coat hanger."<ref>{{cite news|url=http://www.cbc.ca/news/politics/canada-election-2015-ala-buzreba-tweets-1.3195193|title=Liberal Ala Buzreba apologizes, steps down after offensive tweets found|author=The Canadian Press|work=[[CBC News]]|date=August 18, 2015|access-date=September 29, 2015|archive-date=September 23, 2015|archive-url=https://web.archive.org/web/20150923151334/http://www.cbc.ca/news/politics/canada-election-2015-ala-buzreba-tweets-1.3195193|url-status=live}}</ref>
+* September 10, 2015: [[South Surrey—White Rock]] candidate Joy Davies resigned her candidacy after Facebook comments surfaced where she suggested that [[marijuana]] reduced family violence, that growing marijuana in a home poses no harm to children, and that the [[Canadian Cancer Society]] was "another outlet for [[Big Pharma conspiracy theory|big pharma]]."<ref>{{cite news|url=http://www.cbc.ca/news/politics/trudeau-liberals-social-media-candidates-marijuana-1.3223459|title=Joy Davies resigns as Liberal candidate over pro-pot Facebook comments|work=[[CBC News]]|date=September 10, 2015|access-date=September 29, 2015|archive-date=September 16, 2015|archive-url=https://web.archive.org/web/20150916192656/http://www.cbc.ca/news/politics/trudeau-liberals-social-media-candidates-marijuana-1.3223459|url-status=live}}</ref>
+* September 10, 2015: [[Peace River—Westlock]] candidate Chris Brown apologized for offensive tweets he made in December 2009, during a bout of alcoholism after the death of his wife.<ref>{{cite news|url=http://www.cbc.ca/news/politics/trudeau-liberals-social-media-candidates-1.3222690|title=Liberal candidate Chris Brown apologizes for offensive booze-fuelled tweets|author=Kathleen Harris|work=[[CBC News]]|date=September 10, 2015|access-date=September 29, 2015|archive-date=September 16, 2015|archive-url=https://web.archive.org/web/20150916192701/http://www.cbc.ca/news/politics/trudeau-liberals-social-media-candidates-1.3222690|url-status=live}}</ref>
+* September 16, 2015: [[Sturgeon River—Parkland]] candidate Chris Austin had his candidacy removed because of views that "are irreconcilable with the values" of the Liberals, including saying [[Stephen Harper]] "has turned our Nation's Capital into a War Zone as his thirst for War" in the aftermath of the [[2014 shootings at Parliament Hill, Ottawa|Parliament Hill shootings]], and suggesting that the [[Royal Canadian Mounted Police|RCMP]] are the "Canadian [[Gestapo]]."<ref>{{cite news|url=http://www.cbc.ca/news/politics/canada-election-2015-chris-austin-sturgeon-river-parkland-nomination-1.3230350|title=Chris Austin, Liberal candidate, pulled for views 'irreconcilable' with party values|work=[[CBC News]]|date=September 16, 2015|access-date=September 29, 2015|archive-date=September 20, 2015|archive-url=https://web.archive.org/web/20150920031848/http://www.cbc.ca/news/politics/canada-election-2015-chris-austin-sturgeon-river-parkland-nomination-1.3230350|url-status=live}}</ref>
+* September 28, 2015: [[Cowichan—Malahat—Langford]]  candidate Maria Manna resigned her candidacy after Facebook comments surfaced questioning the events of the [[September 11 attacks]].<ref>{{cite news|url=http://www.cbc.ca/news/politics/canada-election-2015-liberal-facebook-candidate-1.3243888|title=Liberal candidate says Facebook posts questioning 9/11 were her 'truth' at the time|author=Kathleen Harris|work=[[CBC News]]|date=September 25, 2015|access-date=September 29, 2015|archive-date=September 29, 2015|archive-url=https://web.archive.org/web/20150929020033/http://www.cbc.ca/news/politics/canada-election-2015-liberal-facebook-candidate-1.3243888|url-status=live}}</ref>
+* September 30, 2015: [[Victoria (British Columbia federal electoral district)|Victoria]] candidate Cheryl Thomas resigned after past social media posts came to light, including referring to mosques as "brainwashing stations" and saying "the oppressed of the Warsaw ghettos and the concentration camps have become the oppressors." As the candidate deadline (September 28) had already passed, her name remained on the ballot.<ref>{{cite news|url=http://www.cbc.ca/news/canada/british-columbia/cheryl-thomas-liberal-candidate-resigns-1.3251338|title=Liberal candidate Cheryl Thomas resigns over Facebook comments|work=[[CBC News]]|date=September 30, 2015|access-date=September 30, 2015|archive-date=October 1, 2015|archive-url=https://web.archive.org/web/20151001134858/http://www.cbc.ca/news/canada/british-columbia/cheryl-thomas-liberal-candidate-resigns-1.3251338|url-status=live}}</ref>
+* October 14, 2015: Dan Gagnier, a co-chair of the Liberal Party's national campaign, stepped down from his position after the reveal of an email indicating he had provided advice to [[TransCanada Corporation|TransCanada]] on how to lobby a potential Liberal government regarding energy issues.<ref>{{cite news|first=Kady|last=O'Malley|url=https://ottawacitizen.com/storyline/kady-campaign-co-chair-lobbying-email-a-throwback-to-the-dark-days-of-liberal-scandals-past|title=Campaign co-chair lobbying email a throwback to the dark days of Liberal scandals past|newspaper=Ottawa Citizen|date=October 14, 2015|access-date=November 26, 2015|archive-date=November 17, 2015|archive-url=https://web.archive.org/web/20151117080501/http://ottawacitizen.com/storyline/kady-campaign-co-chair-lobbying-email-a-throwback-to-the-dark-days-of-liberal-scandals-past|url-status=live}}</ref>
+|- valign="top"
+|BQ
+|
+* Late August 2015: [[Mégantic—L'Érable]] candidate Virginie Provost was embarrassed after a survey asking what she would need in the event of a nuclear attack was revealed. Her answer was that she would bring "her cellphone, a penis and chips".<ref name="CBC Gaffes" />
+* September 19, 2015: [[Ville-Marie—Le Sud-Ouest—Île-des-Sœurs]] candidate Chantal St-Onge apologized after sharing an anti-Islam [[Pegida]] post on Facebook.<ref name="CBC Gaffes" />
+|}
+
+== Opinion polls ==
+{{Main|Opinion polling for the 2015 Canadian federal election|Opinion polling for the 2015 Canadian federal election by constituency}}
+
+{{Canadian federal election opinion polling|2008|2011|2015|2019|2021|byCon2=yes|byCon3=yes|byCon4=yes|byCon5=yes}}
+
+[[File:Opinion Polling during the 2015 Canadian Federal Election.svg|1000px]]
+
+Evolution of voting intentions during the campaign leading up to the 2015 Canadian federal election to be held on October 19, 2015. Points represent results of individual polls.
+
+== Endorsements ==
+{{Main|Newspaper endorsements in the 2015 Canadian federal election|Endorsements from individuals and organizations in the 2015 Canadian federal election}}
+
+== Election spending ==
+Before the campaign, there were no limits to what a political party, candidate, or third party (corporations, unions, special interest groups, etc.) can spend: spending rules are only in force after the writs have been dropped and the campaign has begun. Because the election period is set longer than the standard 37-day election period, spending limits are increased in proportion to the length of the period.<ref name="elections.ca1">{{cite web|url=http://www.elections.ca/content.aspx?section=pol&document=index&dir=thi/limits&lang=e|title=Elections Canada Online – Third Party Election Advertising Expenses Limits|work=elections.ca|access-date=August 3, 2015|archive-date=July 18, 2015|archive-url=https://web.archive.org/web/20150718060744/http://www.elections.ca/content.aspx?section=pol&document=index&dir=thi%2Flimits&lang=e|url-status=live}}</ref>
+
+{| class="wikitable" style="text-align:right"
+|+ Party spending limits and actual spending, 2015 vs 2011
+|-
+!rowspan="3"| Type !! colspan="2" | Spending limits !! colspan="6" |2015!! colspan="6" |2011<ref>{{cite web|url=http://www.punditsguide.ca/parties.php?elec=26|title=Browse Parties – 2011 General Election|author=Alice Funke|work=punditsguide.ca|access-date=August 3, 2015|archive-date=August 25, 2015|archive-url=https://web.archive.org/web/20150825203414/http://www.punditsguide.ca/parties.php?elec=26|url-status=live}}</ref>
+|- style="text-align:center;"
+|rowspan="2"|'''2015'''<ref>{{cite web|url=http://www.elections.ca/content.aspx?section=pol&dir=limits&document=index&lang=e|title=Elections Canada Online – Expenses Limits|work=elections.ca|access-date=August 3, 2015|archive-date=July 26, 2015|archive-url=https://web.archive.org/web/20150726223655/http://www.elections.ca/content.aspx?section=pol&dir=limits&document=index&lang=e|url-status=live}}</ref> ||rowspan="2"|'''2011''' ||{{Canadian party colour|CA|Conservative|background}} colspan="2" |'''Conservative'''||{{Canadian party colour|CA|NDP|background}} colspan="2" |'''NDP'''||{{Canadian party colour|CA|Liberal|background}} colspan="2" |'''Liberal'''||{{Canadian party colour|CA|Conservative|background}} colspan="2" |'''Conservative'''||{{Canadian party colour|CA|NDP|background}} colspan="2" |'''NDP'''||{{Canadian party colour|CA|Liberal|background}} colspan="2" |'''Liberal'''
+|- style="text-align:center;"
+|'''Amount''' ||'''%''' ||'''Amount''' ||'''%''' ||'''Amount''' ||'''%''' ||'''Amount''' ||'''%''' ||'''Amount''' ||'''%''' ||'''Amount''' ||'''%'''
+|- valign="top"
+|style="text-align:left;"|Political party ||$54,475,840<ref>{{cite web |url=http://www.elections.ca/content2.aspx?section=can&dir=part/pollim&document=index&lang=e |title=Elections Canada Online – Registered Political Party Preliminary Election Expenses Limit |work=elections.ca |access-date=August 10, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150815055751/http://www.elections.ca/content2.aspx?section=can&dir=part%2Fpollim&document=index&lang=e |archive-date=August 15, 2015  }}</ref> ||$21,025,793 || $29,000,000
+| || $28,000,000
+| || $26,000,000
+| ||$19,519,995 ||93% ||$20,372,231 ||97% ||$19,507,746 ||93%
+|- valign="top"
+|style="text-align:left;"|Party candidates ||$73,611,590<ref>{{cite web |url=http://www.elections.ca/content2.aspx?section=can&dir=cand/canlim&document=index&lang=e |title=Elections Canada Online – Preliminary Candidates Election Expenses Limits |work=elections.ca |access-date=August 10, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150815061116/http://www.elections.ca/content2.aspx?section=can&dir=cand%2Fcanlim&document=index&lang=e |archive-date=August 15, 2015  }}</ref> ||$28,244,499 || $21,000,000
+| || $11,000,000
+| || $15,000,000
+| ||$19,655,136 ||70% ||$7,117,962 ||25% ||$14,517,363 ||41%
+|- valign="top"
+|style="text-align:left;"|Total ||$128,087,430 ||$49,270,292 || || || || || || ||$39,175,131 ||80% ||$27,490,193 ||56% ||$34,025,109 ||69%
+|- style="text-align:center;"
+|style="text-align:left;" colspan="3"|Candidates spending > 75% of limit
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|173
+|colspan="2"|44
+|colspan="2"|91
+|- style="text-align:center;"
+|style="text-align:left;" colspan="3"|Candidates spending > 50% of limit
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|228
+|colspan="2"|70
+|colspan="2"|169
+|}
+
+=== Reimbursements for political parties and candidates ===
+
+Political parties receive a reimbursement for 50 per cent of their election expenses during the writ period.  Similarly, candidates (through their official agents) receive a reimbursement of 60 per cent of their election expenses during the writ period.  Both reimbursements are publicly funded.<ref name="elections.ca2">{{cite web|url=http://www.elections.ca/content.aspx?section=res&dir=ces&document=part6&lang=e|title=Elections Canada Online – The Electoral System of Canada|work=elections.ca|access-date=August 3, 2015|archive-date=August 20, 2015|archive-url=https://web.archive.org/web/20150820005709/http://elections.ca/content.aspx?section=res&dir=ces&document=part6&lang=e|url-status=live}}</ref>
+
+=== Fundraising ===
+
+Elections Canada reports that during the financial quarter preceding the writ period, the Conservatives received $7.4 million in contributions, the NDP received $4.5 million, and the Liberals received $4.0 million.<ref name="elections.ca">{{cite web|url=http://www.elections.ca/WPAPPS/WPF/EN/PP/SelectParties?act=C23&period=1&returntype=1|title=Financial Reports: Registered Party Financial Transactions Return|work=elections.ca|access-date=July 30, 2015|archive-date=August 20, 2015|archive-url=https://web.archive.org/web/20150820123251/http://elections.ca/WPAPPS/WPF/EN/PP/SelectParties?act=C23&period=1&returntype=1|url-status=live}}</ref> The NDP had the most individual donors at 48,314, followed by the Conservatives at 45,532 and then the Liberals at 32,789.<ref name="elections.ca" /><ref>{{cite web|url=https://ipolitics.ca/2015/07/30/ndp-fundraising-up-conservatives-still-ahead/|title=NDP fundraising up, Conservatives still ahead|work=iPolitics|date=July 30, 2015|last1=Duggan|first1=Kyle|access-date=July 30, 2015|archive-date=October 20, 2015|archive-url=https://web.archive.org/web/20151020111417/http://ipolitics.ca/2015/07/30/ndp-fundraising-up-conservatives-still-ahead/|url-status=live}}</ref>
+
+The New Democratic Party stated that it collected greater than $9 million in the third quarter of 2015, the most it ever received from donors, and greater than the quarterly record established by the Conservative Party in 2011.<ref>{{cite news|url=http://www.cbc.ca/news/politics/canada-election-2015-ndp-fundraising-record-1.3252990|title=NDP says $9M raised in 3rd quarter a Canadian record — for now|date=October 1, 2015|work=[[CBC News]]|access-date=October 1, 2015|last1=Dyer|first1=Evan|archive-date=October 2, 2015|archive-url=https://web.archive.org/web/20151002132858/http://www.cbc.ca/news/politics/canada-election-2015-ndp-fundraising-record-1.3252990|url-status=live}}</ref>
+
+At the riding level, financial reports in each of the 338 constituencies showed that in Conservative electoral district associations ended 2014 with net assets totalling more than $19 million, Liberal riding associations reported a total of about $8 million in net assets, and NDP associations more than $4.4 million.<ref>{{cite news|url=http://www.cbc.ca/news/politics/riding-analysis-shows-spending-for-longer-campaign-favours-tory-candidates-1.3168680|title=Riding analysis shows spending for longer campaign favours Tory candidates|date=July 27, 2015|work=[[CBC News]]|access-date=August 3, 2015|last1=Bryden|first1=Joan|last2=Press|first2=Jordan|agency=The Canadian Press|archive-date=July 29, 2015|archive-url=https://web.archive.org/web/20150729233255/http://www.cbc.ca/news/politics/riding-analysis-shows-spending-for-longer-campaign-favours-tory-candidates-1.3168680|url-status=live}}</ref>
+
+Individuals are able to give up to $1,500 to each political party and an additional $1,500 to all the registered associations, nomination contestants and candidates of each registered party combined.<ref>{{cite web|url=http://www.elections.ca/content.aspx?section=pol&dir=lim/post2015&document=index&lang=e|title=Elections Canada Online – Contribution limits as of January 1, 2015|work=elections.ca|access-date=August 3, 2015|archive-date=August 20, 2015|archive-url=https://web.archive.org/web/20150820000406/http://elections.ca/content.aspx?section=pol&dir=lim%2Fpost2015&document=index&lang=e|url-status=live}}</ref>
+
+=== Registered third parties ===
+
+A person or group must register as a [[Registered third parties (Canada)|third party]] immediately after incurring election advertising expenses totalling $500 or more.<ref>{{cite web |url=http://www.elections.ca/content2.aspx?section=thi&dir=42ge&document=index&lang=e |title=Elections Canada Online – Election advertising handbook for Third Parties, Financial Agents and Auditors (EC 20227) – July 2015 |work=elections.ca |access-date=August 10, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150815055756/http://www.elections.ca/content2.aspx?section=thi&dir=42ge&document=index&lang=e |archive-date=August 15, 2015  }}</ref>  There are strict limits on advertising expenses, and specific limits that can be incurred to promote or oppose the election of one or more candidates in a particular electoral district.  There were 112 registered third parties in the 2015 election.<ref name="elections.ca3">{{cite web |url=http://www.elections.ca/content2.aspx?section=thi&dir=thilim&document=index&lang=e |title=Elections Canada Online – Limits on Election Advertising Expenses Incurred by Third Parties |work=elections.ca |access-date=August 10, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150815060115/http://www.elections.ca/content2.aspx?section=thi&dir=thilim&document=index&lang=e |archive-date=August 15, 2015  }}</ref> There was a $150,000 election advertising expenses limit.  Of that amount, no more than $8,788 could be incurred to promote or oppose the election of one or more candidates in a particular electoral district.<ref name="elections.ca3" />
+
+== Results ==
+{{main|Results of the 2015 Canadian federal election|Results of the 2015 Canadian federal election by riding}}
+
+[[File:Canadian Federal Election Cartogram 2015.svg|thumb|Cartogram of the 2015 Canadian federal election results]]
+[[File:CanadianFederalElection2015PollingStation.jpg|thumb|A polling station on election day]]
+
+{{election table||Summary of the 2015 Canadian federal election<br>[[File:2015 Canadian parliament.svg|center|300px]]}}
+|- style="text-align:center;background-color:#e9e9e9"
+! rowspan="2" colspan="2" style="text-align:left;" | Party
+! rowspan="2" style="text-align:left;" | Party leader
+! rowspan="2" | Candidates
+! colspan="6" | Seats
+! colspan="5" | Popular vote
+|- style="text-align:center;background-color:#e9e9e9"
+| [[2011 Canadian federal election|2011]]
+| style="font-size:80%" | [[41st Canadian Parliament|Dissol.]]
+| style="font-size:80%" |[[Canadian federal electoral redistribution, 2012|Redist.]]{{efn|The party totals are theoretical. They are the transposition of the 2011 district results redistributed to the new districts formed in 2015.}}
+| '''2015'''
+| style="font-size:80%" | % change<br/>from 2011
+| style="font-size:80%" | % seats
+| style="font-size:80%" | Votes
+| style="font-size:80%" | Vote<br/>change
+| style="font-size:80%" |%
+| style="font-size:80%" | [[percentage point|pp]] change
+| style="font-size:80%" | % where<br/>running
+|-
+{{Canadian party colour|CA|Liberal|row-name}}
+| style="text-align:left;" |[[Justin Trudeau]]
+| style="text-align:right;" |338{{efn|Includes Liberal candidate Cheryl Thomas from [[Victoria (British Columbia federal electoral district)|Victoria]], who publicly withdrew from the election after the final list of candidates was released and thus remained on the ballot as the Liberal candidate.}}
+| style="text-align:right;" |34
+| style="text-align:right;" |36
+| style="text-align:right;" |36
+| style="text-align:right;" |'''184'''
+| style="text-align:right;" |+{{#expr:(184/34-1)*100 round 2}}%
+| style="text-align:right;" |{{#expr:(184/338)*100 round 2}}%
+| style="text-align:right;" |6,942,937
+| style="text-align:right;" |+4,159,861
+| style="text-align:right;" |39.47%
+| style="text-align:right;" |+20.57pp
+| style="text-align:right;" |39.47%
+{{Canadian party colour|CA|Conservative|row-name}}
+| style="text-align:left;" |[[Stephen Harper]]
+| style="text-align:right;" |338{{efn|Includes Conservative candidate Jagdish Grewal from [[Mississauga—Malton (federal electoral district)|Mississauga—Malton]], who was expelled by the Conservative Party after the final list of candidates was released and thus remained on the ballot as the Conservative candidate.}}
+| style="text-align:right;" |166
+| style="text-align:right;" |159
+| style="text-align:right;" |188
+| style="text-align:right;" |'''99'''
+| style="text-align:right;" |{{#expr:(99/166-1)*100 round 2}}%
+| style="text-align:right;" |{{#expr:(99/338)*100 round 2}}%
+| style="text-align:right;" |5,613,633
+| style="text-align:right;" |&minus;221,637
+| style="text-align:right;" |31.91%
+| style="text-align:right;" |&minus;7.72pp
+| style="text-align:right;" |31.91%
+{{Canadian party colour|CA|NDP|row-name}}
+| style="text-align:left;" |[[Thomas Mulcair|Tom Mulcair]]
+| style="text-align:right;" |338
+| style="text-align:right;" |103
+| style="text-align:right;" |95{{efn|name=|Includes [[José Núñez-Melo]], who sat as a member of the NDP at the dissolution of Parliament, but ran as a [[Green Party of Canada|Green Party]] candidate in the 2015 election. Does not include [[Maria Mourani]], who sat as an independent at the dissolution of Parliament, but ran as an NDP candidate in the 2015 election.}}
+| style="text-align:right;" |109
+| style="text-align:right;" |'''44'''
+| style="text-align:right;" |{{#expr:(44/103-1)*100 round 2}}%
+| style="text-align:right;" |{{#expr:(44/338)*100 round 2}}%
+| style="text-align:right;" |3,469,368
+| style="text-align:right;" |&minus;1,043,043
+| style="text-align:right;" |19.72%
+| style="text-align:right;" |&minus;10.92pp
+| style="text-align:right;" |19.73%
+{{Canadian party colour|CA|BQ|row-name}}
+| style="text-align:left;" |[[Gilles Duceppe]]
+| style="text-align:right;" |78
+| style="text-align:right;" |4
+| style="text-align:right;" |2
+| style="text-align:right;" |4
+| style="text-align:right;" |'''10'''
+| style="text-align:right;" |+{{#expr:(10/4-1)*100 round 2}}%
+| style="text-align:right;" |{{#expr:(10/338)*100 round 2}}%
+| style="text-align:right;" |821,144
+| style="text-align:right;" |&minus;70,281
+| style="text-align:right;" |4.67%
+| style="text-align:right;" |&minus;1.39pp
+| style="text-align:right;" |19.36%
+{{Canadian party colour|CA|Green|row-name}}
+| style="text-align:left;" |[[Elizabeth May]]
+| style="text-align:right;" |336
+| style="text-align:right;" |1
+| style="text-align:right;" |2{{efn|Does not include [[José Núñez-Melo]], who sat as a member of the NDP at the dissolution of Parliament, but ran as a [[Green Party of Canada|Green Party]] candidate in the 2015 election}}
+| style="text-align:right;" |1
+| style="text-align:right;" |'''1'''
+| style="text-align:right;" |{{#expr:(1/1-1)*100 round 2}}%
+| style="text-align:right;" |{{#expr:(1/338)*100 round 2}}%
+| style="text-align:right;" |602,933
+| style="text-align:right;" |+30,838 
+| style="text-align:right;" |3.43%
+| style="text-align:right;" |&minus;0.46pp
+| style="text-align:right;" |3.44%
+{{Canadian party colour|CA|Independent|row}}
+| style="text-align:left;" colspan="2" |[[Independent politician#Canada|Independent]] and No Affiliation
+| style="text-align:right;" |80
+| style="text-align:right;" |0
+| style="text-align:right;" |8{{efn|Includes [[Manon Perreault]], who sat as an independent at the dissolution of Parliament, but ran as a [[Forces et Démocratie|Strength in Democracy]] candidate in the 2015 election. Includes [[Maria Mourani]], who sat as an independent at the dissolution of Parliament, but ran as an NDP candidate in the 2015 election.}}
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |49,616
+| style="text-align:right;" |&minus;23,245
+| style="text-align:right;" |0.28%
+| style="text-align:right;" |&minus;0.21pp
+| style="text-align:right;" |1.18%
+{{Canadian party colour|CA|Libertarian|row-name}}
+| style="text-align:left;" |[[Tim Moen]]
+| style="text-align:right;" |72
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |36,775
+| style="text-align:right;" |+30,773
+| style="text-align:right;" |0.21%
+| style="text-align:right;" |+0.17pp
+| style="text-align:right;" |0.93%
+{{Canadian party colour|CA|Christian Heritage|row-name}}
+| style="text-align:left;" |Rod Taylor
+| style="text-align:right;" |30
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |15,232
+| style="text-align:right;" |&minus;3,678
+| style="text-align:right;" |0.09%
+| style="text-align:right;" |&minus;0.04pp
+| style="text-align:right;" |0.97%
+{{Canadian party colour|CA|Marxist-Leninist|row-name}}
+| style="text-align:left;" |Anna Di Carlo
+| style="text-align:right;" |70
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |8,838
+| style="text-align:right;" |&minus;1,087
+| style="text-align:right;" |0.05%
+| style="text-align:right;" |&minus;0.02pp
+| style="text-align:right;" |0.23%
+{{Canadian party colour|CA|FD|row-name}}
+| style="text-align:left;" |{{nowrap|[[Jean-François Fortin (politician)|Jean-François Fortin]]}}
+| style="text-align:right;" |17
+| {{N/A}}
+| style="text-align:right;" |2{{efn|Does not include [[Montcalm (federal electoral district)|Montcalm]] MP [[Manon Perreault]], who sat as an independent before the writ was dropped, after which she announced her candidacy for Strength in Democracy.}}
+| {{N/A}}
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |8,274
+| style="text-align:right;" |*
+| style="text-align:right;" |0.05%
+| style="text-align:right;" |*
+| style="text-align:right;" |0.90%
+{{Canadian party colour|CA|Rhinoceros|row-name}}
+| style="text-align:left;" |Sébastien Corriveau
+| style="text-align:right;" |27
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |7,263
+| style="text-align:right;" |+3,463
+| style="text-align:right;" |0.04%
+| style="text-align:right;" |+0.02pp
+| style="text-align:right;" |0.52%
+{{Canadian party colour|CA|Progressive Canadian|row-name}}
+| style="text-align:left;" |[[Sinclair Stevens]]
+| style="text-align:right;" |8
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |4,476
+| style="text-align:right;" |&minus;1,314
+| style="text-align:right;" |0.03%
+| style="text-align:right;" |&minus;0.01pp
+| style="text-align:right;" |1.03%
+{{Canadian party colour|CA|Communist|row-name}}
+| style="text-align:left;" |[[Miguel Figueroa]]
+| style="text-align:right;" |26
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |4,393
+| style="text-align:right;" |+1,499
+| style="text-align:right;" |0.02%
+| style="text-align:right;" |+0.01pp
+| style="text-align:right;" |0.32%
+{{Canadian party colour|CA|AAEVPC|row-name}}
+| style="text-align:left;" |[[Liz White (activist)|Liz White]]
+| style="text-align:right;" |8
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |1,699
+| style="text-align:right;" |+355
+| style="text-align:right;" |0.01%
+| style="text-align:right;" |–
+| style="text-align:right;" |0.36%
+{{Canadian party colour|CA|Marijuana|row-name}}
+| style="text-align:left;" |[[Blair Longley]]
+| style="text-align:right;" |8
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |1,557
+| style="text-align:right;" |&minus;199
+| style="text-align:right;" |0.01%
+| style="text-align:right;" |–
+| style="text-align:right;" |0.34%
+
+{{Canadian party colour|XX|National Citizens Alliance|row}}
+| style="text-align:left;" | [[National Citizens Alliance|Democratic Advancement Party]]
+| style="text-align:left;" |Stephen Garvey
+| style="text-align:right;" |4
+| {{N/A}}
+| style="text-align:right;" |0
+| {{N/A}}
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |1,187
+| style="text-align:right;" |*
+| style="text-align:right;" |0.01%
+| style="text-align:right;" |*
+| style="text-align:right;" |0.62%
+{{Canadian party colour|CA|Pirate|row-name}}
+| style="text-align:left;" |Roderick Lim
+| style="text-align:right;" |5
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |908
+| style="text-align:right;" |&minus;2,289
+| style="text-align:right;" |0.01%
+| style="text-align:right;" |&minus;0.02pp
+| style="text-align:right;" |0.32%
+{{Canadian party colour|CA|Canadian Action|row-name}}
+| style="text-align:left;" |Jeremy Arney
+| style="text-align:right;" |3
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |401
+| style="text-align:right;" |&minus;1,550
+| style="text-align:right;" |0.00%
+| style="text-align:right;" |&minus;0.01pp
+| style="text-align:right;" |0.24%
+{{Canadian party colour|CA|[[Canada Party (2015)|Canada Party]]|row-name}}
+| style="text-align:left;" |[[Jim Pankiw]]
+| style="text-align:right;" |1
+| {{N/A}}
+| style="text-align:right;" |0
+| {{N/A}}
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |271
+| style="text-align:right;" |*
+| style="text-align:right;" |0.00%
+| style="text-align:right;" |*
+| style="text-align:right;" |0.72%
+{{Canadian party colour|CA|Seniors|row-name}}
+| style="text-align:left;" |Daniel J. Patton
+| style="text-align:right;" |1
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |157
+| style="text-align:right;" |*
+| style="text-align:right;" |0.00%
+| style="text-align:right;" |*
+| style="text-align:right;" |0.29%
+{{Canadian party colour|CA|[[Alliance of the North]]|row-name}}
+| style="text-align:left;" |François Bélanger
+| style="text-align:right;" |1
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |136
+| style="text-align:right;" |*
+| style="text-align:right;" |0.00%
+| style="text-align:right;" |*
+| style="text-align:right;" |0.22%
+{{Canadian party colour|CA|[[The Bridge Party of Canada|Bridge]]|row-name}}
+| style="text-align:left;" |[[David Berlin]]
+| style="text-align:right;" |1
+| {{N/A}}
+| style="text-align:right;" |0
+| {{N/A}}
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |122
+| style="text-align:right;" |*
+| style="text-align:right;" |0.00%
+| style="text-align:right;" |*
+| style="text-align:right;" |0.29%
+{{Canadian party colour|CA|[[Party for Accountability, Competency and Transparency|PACT]]|row-name}}
+| style="text-align:left;" |Michael Nicula
+| style="text-align:right;" |1
+| {{N/A}}
+| style="text-align:right;" |0
+| {{N/A}}
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |91
+| style="text-align:right;" |*
+| style="text-align:right;" |0.00%
+| style="text-align:right;" |*
+| style="text-align:right;" |0.17%
+{{Canadian party colour|CA|United|row-name}}
+| style="text-align:left;" |Bob Kesic
+| style="text-align:right;" |1
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+| style="text-align:right;" |57
+| style="text-align:right;" |&minus;237
+| style="text-align:right;" |0.00%
+| style="text-align:right;" |&minus;0.00pp
+| style="text-align:right;" |0.10%
+|-{{Canadian party colour|CA|Vacant|row}}
+| colspan="3" style="text-align:left;" |Vacant
+| style="text-align:right;" |0
+| style="text-align:right;" |4
+| style="text-align:right;" |0
+| style="text-align:right;" |0
+|colspan="7" {{N/A}}
+|-
+| colspan="3" style="text-align:left;" |'''Total'''
+| style="text-align:right;" |'''1,792'''
+| style="text-align:right;" |'''308'''
+| style="text-align:right;" |'''308'''
+| style="text-align:right;" |'''338'''
+| style="text-align:right;" |'''338'''
+| style="text-align:right;" |'''+{{#expr:(338/308-1)*100 round 2}}%'''
+| style="text-align:right;" |'''{{#expr:(338/338)*100 round 2}}%'''
+| style="text-align:center;" |'''17,591,468'''
+| style="text-align:center;" |'''+2,870,888'''
+| style="text-align:center;" |'''100%'''
+| style="text-align:center;" |
+| style="text-align:center;" |'''100%'''
+|-
+| style="text-align:left;" colspan="15" | '''Source:''' [http://www.elections.ca/res/rep/off/ovr2015app/home.html Elections Canada] (Final results)
+{{end}}
+
+===Analysis===
+{{Gallery
+|title=[[Ternary plot]]s - shift of electoral support (2011-2015)
+|width=350 | height=200 |noborder=yes
+|align=center
+|footer=Electoral districts identified by colours of winning parties
+|File:Ternary CA2011.svg
+ |2011
+ |alt1=Ternary plot of 2011 results
+|File:Ternary CA2015.svg
+ |2015
+ |alt2=Ternary plot of 2015 results
+}}
+
+{{Bar box
+|title=Popular vote
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{Bar percent|Liberal|{{Canadian party colour|CA|Liberal}}|39.47}}
+{{Bar percent|Conservative|{{Canadian party colour|CA|Conservative}}|31.91}}
+{{Bar percent|New Democratic|{{Canadian party colour|CA|NDP}}|19.73}}
+{{Bar percent|Bloc Québécois|{{Canadian party colour|CA|BQ}}|4.67}}
+{{Bar percent|Green|{{Canadian party colour|CA|Green}}|3.43}}
+{{Bar percent|Others|{{Canadian party colour|CA|Inde}}|0.79}}
+}}
+<br />
+{{Bar box
+|title=Seat totals
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{Bar percent|Liberal|{{Canadian party colour|CA|Liberal}}|54.44}}
+{{Bar percent|Conservative|{{Canadian party colour|CA|Conservative}}|29.29}}
+{{Bar percent|New Democratic|{{Canadian party colour|CA|NDP}}|13.02}}
+{{Bar percent|Bloc Québécois|{{Canadian party colour|CA|BQ}}|2.96}}
+{{Bar percent|Green|{{Canadian party colour|CA|Green}}|0.3}}
+}}
+
+{| class="wikitable" style="text-align:right"
+|+ Elections to the 42nd Parliament of Canada – seats won/lost by party, 2011–2015
+|-
+!rowspan="2" colspan="2"|Party
+!rowspan="2"|2011<br />(redist.)
+!colspan="5"|Gain from (loss to)
+!rowspan="2"|2015
+|-
+! {{Canadian party colour|CA|Liberal|background}} |Lib
+! {{Canadian party colour|CA|Conservative|background}} |Con
+! {{Canadian party colour|CA|NDP|background}} |NDP
+! {{Canadian party colour|CA|BQ|background}} |BQ
+! {{Canadian party colour|CA|Green|background}} |Grn
+|-
+{{Canadian party colour/Temporary|CA|Liberal|row-name}}
+|36 || ||96 ||51 ||1 || ||184
+|-
+{{Canadian party colour/Temporary|CA|Conservative|row-name}}
+|188 ||(96) || ||(3) || || ||99
+|-
+{{Canadian party colour/Temporary|CA|NDP|row-name}}
+|109 ||(51) ||3 || ||(7) || ||44
+|-
+{{Canadian party colour/Temporary|CA|BQ|row-name}}
+|4 ||(1) || ||7 || || ||10
+|-
+{{Canadian party colour/Temporary|CA|Green|row-name}}
+|1 || || || || || ||1
+|-
+| colspan="2" style="text-align:left;"|'''Total''' ||338 ||(148) ||99 ||55 ||(6) || ||338
+|}
+
+{| class="wikitable"
+|- 
+|rowspan="2"|[[Swing (United Kingdom)|Swing]] analysis
+!Conservative to Liberal !!NDP to Liberal !!NDP to Conservative
+|- 
+!+14.15pp
+!+15.74pp
+!+1.60pp
+|}
+
+===Results by province===
+
+{| class="wikitable"
+|-
+! style="text-align:center;" colspan="3"|Party name
+! style="text-align:center;"|[[British Columbia|BC]]
+! style="text-align:center;"|[[Alberta|AB]]
+! style="text-align:center;"|[[Saskatchewan|SK]]
+! style="text-align:center;"|[[Manitoba|MB]]
+! style="text-align:center;"|[[Ontario|ON]]
+! style="text-align:center;"|[[2015 Canadian federal election in Quebec|QC]]
+! style="text-align:center;"|[[New Brunswick|NB]]
+! style="text-align:center;"|[[Nova Scotia|NS]]
+! style="text-align:center;"|[[Prince Edward Island|PE]]
+! style="text-align:center;"|[[Newfoundland and Labrador|NL]]
+! style="text-align:center;"|[[Yukon|YT]]
+! style="text-align:center;"|[[Northwest Territories|NT]]
+! style="text-align:center;"|[[Nunavut|NU]]
+! style="text-align:center;"|Total
+|-
+|{{Canadian party colour|CA|Liberal|background}} rowspan="2" |&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan="2"|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| style="text-align:right;"|'''17''' <!--BC-->
+| style="text-align:right;"|'''4''' <!--AB-->
+| style="text-align:right;"|'''1''' <!--SK-->
+| style="text-align:right;"|'''7''' <!--MB-->
+| style="text-align:right;"|'''80''' <!--ON-->
+| style="text-align:right;"|'''40''' <!--QC-->
+| style="text-align:right;"|'''10''' <!--NB-->
+| style="text-align:right;"|'''11''' <!--NS-->
+| style="text-align:right;"|'''4''' <!--PE-->
+| style="text-align:right;"|'''7''' <!--NL-->
+| style="text-align:right;"|'''1''' <!--YT-->
+| style="text-align:right;"|'''1''' <!--NT-->
+| style="text-align:right;"|'''1''' <!--NU-->
+| style="text-align:right;"|'''184'''<!--Canada/Total-->
+|-
+| Vote:
+| style="text-align:right;"|35.2 <!--BC-->
+| style="text-align:right;"|24.6 <!--AB-->
+| style="text-align:right;"|23.9 <!--SK-->
+| style="text-align:right;"|44.6 <!--MB-->
+| style="text-align:right;"|44.8 <!--ON-->
+| style="text-align:right;"|35.7 <!--QC-->
+| style="text-align:right;"|51.6 <!--NB-->
+| style="text-align:right;"|61.9 <!--NS-->
+| style="text-align:right;"|58.3 <!--PE-->
+| style="text-align:right;"|64.5 <!--NL-->
+| style="text-align:right;"|53.6 <!--YT-->
+| style="text-align:right;"|48.3 <!--NT-->
+| style="text-align:right;"|47.2 <!--NU-->
+| style="text-align:right;"|39.5 <!--Canada/Total-->
+|-
+|{{Canadian party colour|CA|Conservative|background}} rowspan="2" |&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan="2"|[[Conservative Party of Canada|Conservative]]
+| Seats:
+| style="text-align:right;"|'''10''' <!--BC-->
+| style="text-align:right;"|'''29''' <!--AB-->
+| style="text-align:right;"|'''10''' <!--SK-->
+| style="text-align:right;"|'''5''' <!--MB-->
+| style="text-align:right;"|'''33''' <!--ON-->
+| style="text-align:right;"|'''12''' <!--QC-->
+| style="text-align:right;"|'''0''' <!--NB-->
+| style="text-align:right;"|'''0''' <!--NS-->
+| style="text-align:right;"|'''0''' <!--PE-->
+| style="text-align:right;"|'''0''' <!--NL-->
+| style="text-align:right;"|'''0''' <!--YT-->
+| style="text-align:right;"|'''0''' <!--NT-->
+| style="text-align:right;"|'''0''' <!--NU-->
+| style="text-align:right;"|'''99'''<!--Canada/Total-->
+|-
+| Vote:
+| style="text-align:right;"|30.0 <!--BC-->
+| style="text-align:right;"|59.5 <!--AB-->
+| style="text-align:right;"|48.5 <!--SK-->
+| style="text-align:right;"|37.3 <!--MB-->
+| style="text-align:right;"|35.0 <!--ON-->
+| style="text-align:right;"|16.7 <!--QC-->
+| style="text-align:right;"|25.3 <!--NB-->
+| style="text-align:right;"|17.9 <!--NS-->
+| style="text-align:right;"|19.3 <!--PE-->
+| style="text-align:right;"|10.3 <!--NL-->
+| style="text-align:right;"|24.0 <!--YT-->
+| style="text-align:right;"|18.0 <!--NT-->
+| style="text-align:right;"|24.8 <!--NU-->
+| style="text-align:right;"|31.9 <!--Canada/Total-->
+|-
+|{{Canadian party colour|CA|NDP|background}} rowspan="2" |&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan="2"|[[New Democratic Party|New Democratic]]
+| Seats:
+| style="text-align:right;"|'''14''' <!--BC-->
+| style="text-align:right;"|'''1''' <!--AB-->
+| style="text-align:right;"|'''3''' <!--SK-->
+| style="text-align:right;"|'''2''' <!--MB-->
+| style="text-align:right;"|'''8''' <!--ON-->
+| style="text-align:right;"|'''16''' <!--QC-->
+| style="text-align:right;"|'''0''' <!--NB-->
+| style="text-align:right;"|'''0''' <!--NS-->
+| style="text-align:right;"|'''0''' <!--PE-->
+| style="text-align:right;"|'''0''' <!--NL-->
+| style="text-align:right;"|'''0''' <!--YT-->
+| style="text-align:right;"|'''0''' <!--NT-->
+| style="text-align:right;"|'''0''' <!--NU-->
+| style="text-align:right;"|'''44'''<!--Canada/Total-->
+|-
+| Vote:
+| style="text-align:right;"|25.9 <!--BC-->
+| style="text-align:right;"|11.6 <!--AB-->
+| style="text-align:right;"|25.1 <!--SK-->
+| style="text-align:right;"|13.8 <!--MB-->
+| style="text-align:right;"|16.6 <!--ON-->
+| style="text-align:right;"|25.4 <!--QC-->
+| style="text-align:right;"|18.3 <!--NB-->
+| style="text-align:right;"|16.4 <!--NS-->
+| style="text-align:right;"|16.0 <!--PE-->
+| style="text-align:right;"|21.0 <!--NL-->
+| style="text-align:right;"|19.5 <!--YT-->
+| style="text-align:right;"|30.8 <!--NT-->
+| style="text-align:right;"|26.5 <!--NU-->
+| style="text-align:right;"|19.7 <!--Canada/Total-->
+|-
+|{{Canadian party colour|CA|BQ|background}} rowspan="2" |&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan="2"|[[Bloc Québécois]]
+| Seats:
+| colspan="5" rowspan="2" {{n/a}}
+| style="text-align:right;"|'''10''' <!--QC-->
+| colspan="7" rowspan="2" {{n/a}}
+| style="text-align:right;"|'''10'''<!--Canada/Total-->
+|-
+| Vote:
+| style="text-align:right;"|19.3 <!--QC-->
+| style="text-align:right;"|4.7 <!--Canada/Total-->
+|-
+|{{Canadian party colour|CA|Green|background}} rowspan="2" |&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan="2"|[[Green Party of Canada|Green]]
+| Seats:
+| style="text-align:right;"|'''1''' <!--BC-->
+| style="text-align:right;"|'''0''' <!--AB-->
+| style="text-align:right;"|'''0''' <!--SK-->
+| style="text-align:right;"|'''0''' <!--MB-->
+| style="text-align:right;"|'''0''' <!--ON-->
+| style="text-align:right;"|'''0''' <!--QC-->
+| style="text-align:right;"|'''0''' <!--NB-->
+| style="text-align:right;"|'''0''' <!--NS-->
+| style="text-align:right;"|'''0''' <!--PE-->
+| style="text-align:right;"|'''0''' <!--NL-->
+| style="text-align:right;"|'''0''' <!--YT-->
+| style="text-align:right;"|'''0''' <!--NT-->
+| style="text-align:right;"|'''0''' <!--NU-->
+| style="text-align:right;"|'''1'''<!--Canada/Total-->
+|-
+| Vote:
+| style="text-align:right;"|8.2 <!--BC-->
+| style="text-align:right;"|2.5 <!--AB-->
+| style="text-align:right;"|2.1 <!--SK-->
+| style="text-align:right;"|3.2 <!--MB-->
+| style="text-align:right;"|2.9 <!--ON-->
+| style="text-align:right;"|2.3 <!--QC-->
+| style="text-align:right;"|4.6 <!--NB-->
+| style="text-align:right;"|3.4 <!--NS-->
+| style="text-align:right;"|6.0 <!--PE-->
+| style="text-align:right;"|1.1 <!--NL-->
+| style="text-align:right;"|2.9 <!--YT-->
+| style="text-align:right;"|2.8 <!--NT-->
+| style="text-align:right;"|1.5 <!--NU-->
+| style="text-align:right;"|3.4 <!--Canada/Total-->
+|-
+|{{Canadian party colour|CA|Independent|background}}|&nbsp;&nbsp;&nbsp;&nbsp;
+| [[Independent (politician)|Independent and No Affiliation]]
+| Vote:
+| style="text-align:right;"|0.1 <!--BC-->
+| style="text-align:right;"|0.8 <!--AB-->
+| style="text-align:right;"|0.2 <!--SK-->
+| style="text-align:right;"|0.6 <!--MB-->
+| style="text-align:right;"|0.2 <!--ON-->
+| style="text-align:right;"|0.1 <!--QC-->
+| style="text-align:right;"|0.1 <!--NB-->
+| style="text-align:right;"|0.3 <!--NS-->
+| style="text-align:right;"| <!--PE-->
+| style="text-align:right;"|2.9 <!--NL-->
+| style="text-align:right;"| <!--YT-->
+| style="text-align:right;"| <!--NT-->
+| style="text-align:right;"| <!--NU-->
+| style="text-align:right;"|0.2<!--Canada/Total-->
+|-
+| colspan="3" |Total seats
+! style="text-align:right;"|42 <!--BC-->
+! style="text-align:right;"|34 <!--AB-->
+! style="text-align:right;"|14 <!--SK-->
+! style="text-align:right;"|14 <!--MB-->
+! style="text-align:right;"|121<!--ON-->
+! style="text-align:right;"|78 <!--QC-->
+! style="text-align:right;"|10 <!--NB-->
+! style="text-align:right;"|11 <!--NS-->
+! style="text-align:right;"|4 <!--PE-->
+! style="text-align:right;"|7 <!--NL-->
+! style="text-align:right;"|1 <!--YT-->
+! style="text-align:right;"|1 <!--NT-->
+! style="text-align:right;"|1 <!--NU-->
+! style="text-align:right;"|338 <!--Canada/Total-->
+|}
+
+=== Canadian Election Study ===
+The 2015 CES included two survey components. Both included two waves of questions, one in the campaign period (CPS) and a recontact wave after the election (PES).<ref>{{Cite web |title=Surveys {{!}} Canadian Election Study {{!}} Étude électorale canadienne |url=https://ces-eec.arts.ubc.ca/english-section/surveys/ |access-date=2025-01-10 |website=ces-eec.arts.ubc.ca}}</ref>
+
+The non-probability online survey included a  sample of Canadians from across the country (CPS n=11,614; PES n=6,554).
+
+The following table is the indicated vote choice in the 2015 election, cross-tabbed with demographic questions. The weights have been adjusted to match the actual results of the election.
+
+==== Demographics ====
+{| class="wikitable mw-collapsible"
+!Demographic Subgroup
+! style="background:#ea6d6a;" |[[Liberal Party of Canada|LPC]]
+! style="background:#6495ed;" |[[Conservative Party of Canada|CPC]]
+! style="background:#f4a460;" |[[New Democratic Party|NDP]]
+! style="background:#87cefa;" |[[Bloc Québécois|BQC]]
+! style="background:#99c955;" |[[Green Party of Canada|GPC]]
+!Other
+!Sample
+|-
+|Total Vote
+| style="background:#ea6d6a;" |39.5
+|31.9
+|19.7
+|4.7
+|3.4
+|0.8
+|6,554
+|-
+! colspan="8" |Gender
+|-
+|Men
+| style="background:#ea6d6a;" |36.6
+|35.7
+|18.8
+|4.8
+|2.9
+|1.2
+|3,083
+|-
+|Women
+| style="background:#ea6d6a;" |42.5
+|28.0
+|20.7
+|4.6
+|3.9
+|0.4
+|2,996
+|-
+! colspan="8" |Age
+|-
+|18-29
+| style="background:#ea6d6a;" |45.7
+|22.1
+|23.7
+|2.6
+|4.2
+|1.7
+|762
+|-
+|30-39
+| style="background:#ea6d6a;" |43.9
+|26.9
+|22.1
+|4.1
+|2.9
+|0.0
+|963
+|-
+|40-49
+| style="background:#ea6d6a;" |39.1
+|33.4
+|18.1
+|4.9
+|4.3
+|0.3
+|929
+|-
+|50-59
+| style="background:#ea6d6a;" |37.2
+|32.7
+|20.1
+|5.7
+|3.1
+|1.2
+|1,225
+|-
+|60-69
+| style="background:#ea6d6a;" |36.4
+|34.2
+|18.8
+|6.3
+|3.1
+|1.2
+|1,300
+|-
+|70-79
+|37.0
+| style="background:#6495ed;" |40.0
+|16.2
+|3.6
+|2.7
+|0.5
+|665
+|-
+|80+
+|30.8
+| style="background:#6495ed;" |46.9
+|14.7
+|0.9
+|6.7
+|0.0
+|143
+|-
+! colspan="8" |Language
+|-
+|English
+| style="background:#ea6d6a;" |41.5
+|35.5
+|18.1
+|0.2
+|3.9
+|0.7
+|4,868
+|-
+|French
+| style="background:#ea6d6a;" |31.4
+|17.4
+|26.1
+|22.6
+|1.5
+|1.0
+|1,216
+|-
+! colspan="8" |Highest Education Attainment
+|-
+|High School or Less
+| style="background:#ea6d6a;" |38.0
+|32.4
+|19.7
+|5.5
+|3.4
+|1.0
+|2,495
+|-
+|College
+|35.9
+| style="background:#6495ed;" |36.0
+|19.8
+|4.2
+|2.9
+|1.2
+|1,299
+|-
+|University
+| style="background:#ea6d6a;" |43.1
+|29.1
+|19.7
+|4.0
+|3.7
+|0.4
+|2,221
+|-
+! colspan="8" |Religion
+|-
+|Atheist
+| style="background:#ea6d6a;" |41.6
+|23.0
+|24.7
+|4.7
+|5.1
+|0.9
+|1,603
+|-
+|Agnostic
+| style="background:#ea6d6a;" |38.7
+|21.0
+|26.3
+|5.9
+|8.1
+|0.0
+|75
+|-
+|Buddhist
+| style="background:#ea6d6a;" |38.2
+|26.1
+|21.2
+|2.3
+|7.6
+|4.5
+|61
+|-
+|Hindu
+| style="background:#ea6d6a;" |63.8
+|27.5
+|8.7
+|0.0
+|0.0
+|0.0
+|39
+|-
+|Jewish
+|39.5
+| style="background:#6495ed;" |49.8
+|10.7
+|0.0
+|0.0
+|0.0
+|60
+|-
+|Muslim/Islam
+| style="background:#ea6d6a;" |76.5
+|9.4
+|13.4
+|0.0
+|0.7
+|0.0
+|84
+|-
+|Sikh
+| style="background:#ea6d6a;" |67.5
+|22.0
+|10.5
+|0.0
+|0.0
+|0.0
+|19
+|-
+|Christian
+|37.0
+| style="background:#6495ed;" |37.7
+|17.0
+|4.9
+|2.5
+|0.9
+|3,416
+|-
+|Catholic
+| style="background:#ea6d6a;" |40.4
+|27.9
+|19.6
+|9.6
+|1.8
+|0.7
+|1,606
+|-
+|Protestant & Other Christian
+|33.9
+| style="background:#6495ed;" |46.4
+|14.7
+|0.7
+|3.2
+|1.0
+|1,810
+|-
+|Other Religion
+| style="background:#ea6d6a;" |43.8
+|27.2
+|20.2
+|1.4
+|7.4
+|0.0
+|147
+|-
+! colspan="8" |Ethnicity
+|-
+|White
+| style="background:#ea6d6a;" |38.4
+|32.4
+|19.8
+|5.1
+|3.5
+|0.8
+|5,462
+|-
+|East Asian
+| style="background:#ea6d6a;" |44.9
+|39.6
+|13.1
+|0.0
+|2.3
+|0.0
+|159
+|-
+|Hispanic
+| style="background:#ea6d6a;" |47.5
+|31.9
+|16.7
+|0.0
+|3.9
+|0.0
+|27
+|-
+|South Asian
+| style="background:#ea6d6a;" |53.1
+|30.5
+|15.3
+|1.0
+|0.0
+|0.0
+|67
+|-
+|Indigenous
+| style="background:#ea6d6a;" |49.0
+|22.2
+|23.2
+|0.5
+|5.0
+|0.0
+|129
+|-
+|Other
+| style="background:#ea6d6a;" |49.7
+|24.2
+|20.5
+|1.5
+|3.5
+|0.6
+|432
+|-
+! colspan="8" |Income
+|-
+|0-30,000
+| style="background:#ea6d6a;" |37.1
+|25.2
+|24.9
+|7.1
+|4.6
+|1.1
+|889
+|-
+|30,001-60,000
+| style="background:#ea6d6a;" |38.8
+|29.7
+|21.7
+|5.5
+|3.7
+|0.4
+|1,514
+|-
+|60,001-90,000
+| style="background:#ea6d6a;" |38.8
+|32.9
+|19.9
+|4.5
+|2.8
+|1.1
+|1,277
+|-
+|90,001-110,000
+| style="background:#ea6d6a;" |43.0
+|32.1
+|18.0
+|4.0
+|2.5
+|0.3
+|614
+|-
+|>110,000
+| style="background:#ea6d6a;" |41.8
+|36.5
+|14.8
+|3.1
+|2.8
+|1.0
+|1,281
+|-
+! colspan="8" |Home Ownership
+|-
+|Own
+| style="background:#ea6d6a;" |39.1
+|34.4
+|18.0
+|4.0
+|3.6
+|0.9
+|4,699
+|-
+|Rent
+| style="background:#ea6d6a;" |40.3
+|23.3
+|26.0
+|7.0
+|3.0
+|0.3
+|1,311
+|-
+! colspan="8" |Marital Status
+|-
+|Married
+| style="background:#ea6d6a;" |39.4
+|38.4
+|15.2
+|2.9
+|3.2
+|0.9
+|3,042
+|-
+|Not Married
+| style="background:#ea6d6a;" |39.5
+|25.4
+|24.3
+|6.4
+|3.7
+|0.7
+|2,983
+|-
+! colspan="8" |Employment
+|-
+|Working for pay
+| style="background:#ea6d6a;" |41.9
+|31.0
+|19.0
+|4.1
+|3.4
+|0.5
+|2,678
+|-
+|Self employed
+|33.2
+| style="background:#6495ed;" |38.5
+|18.3
+|3.5
+|4.1
+|2.4
+|478
+|-
+|Retired
+| style="background:#ea6d6a;" |36.3
+|35.0
+|18.8
+|5.9
+|3.4
+|0.5
+|1,604
+|-
+|Unemployed
+| style="background:#ea6d6a;" |40.9
+|24.4
+|24.2
+|6.3
+|2.5
+|1.7
+|244
+|-
+|Student
+| style="background:#ea6d6a;" |42.9
+|18.8
+|26.6
+|5.0
+|4.5
+|2.3
+|188
+|-
+|Caregiver/Homemaker
+|36.8
+| style="background:#6495ed;" |37.9
+|17.7
+|3.4
+|4.3
+|0.0
+|177
+|-
+|Disabled
+| style="background:#ea6d6a;" |42.5
+|26.6
+|24.4
+|3.4
+|3.0
+|0.0
+|219
+|-
+! colspan="8" |Do you belong to a union?
+|-
+|Yes
+| style="background:#ea6d6a;" |42.3
+|24.5
+|24.4
+|5.2
+|2.9
+|0.7
+|1,087
+|-
+|No
+| style="background:#ea6d6a;" |38.6
+|34.3
+|18.5
+|4.4
+|3.6
+|0.5
+|3,992
+|}
+
+== Student Vote results ==
+Student votes are [[mock election]]s, running parallel to actual elections, in which students not of [[voting age]] participate. Student vote elections are administered by Student Vote Canada, and are for educational purposes and do not count towards the results. Note that the total seats adds up to 340 instead of 338, due to ties.<ref>{{Cite web |title=2015 Federal Election |url=https://studentvote.ca/results/provincial_results/7 |access-date=2025-03-01 |language=en}}</ref>
+
+{{election table|title=Summary of the 2015 Canadian Student Vote}}
+! colspan="2" rowspan="2" | Party
+! rowspan="2" | Leader
+! colspan="2" | Seats
+! colspan="2" | Popular vote
+|-
+! Elected
+! %
+! Votes
+! %
+{{Canadian party colour|CA|Liberal|row-name}}
+| style="text-align: left;"| [[Justin Trudeau]]
+| 225 || 66.18 || 335,887|| 37.61
+|-
+{{Canadian party colour|CA|Conservative|row-name}}
+| style="text-align: left;"| [[Stephen Harper]] 
+| 71 || 20.88 || 232,033	 || 25.98
+|-
+{{Canadian party colour|CA|NDP|row-name}}
+| style="text-align: left;"| [[Tom Mulcair]]
+| 40 || 11.76 || 175,360 || 19.64
+|-
+|-
+{{Canadian party colour|CA|Green|row-name}}
+| style="text-align: left;"| [[Elizabeth May]]
+| 4 || 1.18 || 107,431 || 12.03
+ |-
+|-
+| style="background-color:gainsboro"|
+| colspan="2" style="text-align: left;" | Other
+| 0 ||0 || 36,383 || 4.1
+|-
+{{Canadian party colour|CA|BQ|row-name}} 
+| style="text-align: left;"| [[Gilles Duceppe]]
+| 0 || 0 || 5,924 || 0.66
+
+|-
+| colspan="3" style="text-align: left;" | '''Total'''
+| '''340*''' || '''100.00''' || '''893,018''' || '''100.00''';
+|}
+
+== Election aftermath ==
+[[File:2015 Canadian election pie chart.svg|thumb|Pie chart detailing the percentage of seats won in the House of Commons]]
+Hours after conceding defeat on election night, incumbent Prime Minister Stephen Harper resigned as leader of the [[Conservative Party of Canada|Conservative Party]], though he announced his intention to remain in the new parliament as a backbencher after being elected in the riding of [[Calgary Heritage]].<ref name="CTVHarper2015"/><ref>{{cite web|url=http://www.macleans.ca/politics/ottawa/moving-trucks-at-24-sussex-as-stephen-harpers-family-heads-for-calgary/|title=Moving trucks at 24 Sussex as Stephen Harper's family heads for Calgary|author=The Canadian Press|work=Macleans.ca|date=October 27, 2015|access-date=November 4, 2015|archive-date=October 29, 2015|archive-url=https://web.archive.org/web/20151029160155/http://www.macleans.ca/politics/ottawa/moving-trucks-at-24-sussex-as-stephen-harpers-family-heads-for-calgary/|url-status=live}}</ref> The Conservative caucus met on November 5, 2015, and elected former health minister and Alberta MP [[Rona Ambrose]] as interim leader of the party, and hence, interim [[Leader of the Official Opposition (Canada)|Leader of the Official Opposition]].<ref>{{cite web|author=The Canadian Press|url=https://nationalpost.com/news/politics/rona-ambrose-named-interim-leader-of-the-conservative-party-of-canada |title=Rona Ambrose named interim leader of the Conservative Party of Canada|newspaper=National Post|date=November 5, 2015|access-date=July 6, 2021}}</ref> The next [[2017 Conservative Party of Canada leadership election|Conservative Party of Canada leadership election]] was held on May 27, 2017.<ref name=may27>{{cite web|url=https://nationalpost.com/news/politics/kady-mark-your-calendars-federal-conservatives-youll-be-electing-a-new-leader-on-may-27-2017|title=Mark your calendars, federal Conservatives: You'll be electing a new leader on May 27, 2017|work=National Post|access-date=January 19, 2016|date=January 19, 2016|archive-date=May 28, 2021|archive-url=https://web.archive.org/web/20210528122644/https://nationalpost.com/category/news/|url-status=live}}</ref> Following his swearing in on November 4, 2015, Prime Minister Justin Trudeau announced that parliament would reconvene on December 3, 2015, with the [[Speech from the Throne]] to follow on December 4.<ref name="ctvnews.ca">{{cite web|url=https://www.ctvnews.ca/politics/article/cabinet-sworn-in-parliament-will-resume-on-dec-3/|title=Prime Minister Justin Trudeau, new cabinet sworn in at Rideau Hall; Parliament will resume on Dec. 3|work=CTV News|access-date=November 5, 2015|date=November 4, 2015|last1=Puzic|first1=Sonja|archive-date=November 4, 2015|archive-url=https://web.archive.org/web/20151104223240/http://www.ctvnews.ca/politics/cabinet-sworn-in-parliament-will-resume-on-dec-3-1.2641761|url-status=live}}</ref>
+
+=== Commentary ===
+In the aftermath of the 2011 election, many pundits had characterized it as a [[Political realignment|realigning election]]. [[Lawrence Martin (journalist)|Lawrence Martin]], commentator for ''The Globe and Mail'' said, "Harper has completed a remarkable reconstruction of a Canadian political landscape that endured for more than a century. The realignment saw both old parties of the moderate middle, the Progressive Conservatives and the Liberals, either eliminated or marginalized."<ref>Lawrence Martin, "Harper’s triumph: a realignment of historic proportions, [https://www.theglobeandmail.com/news/opinions/opinion/harpers-triumph-a-realignment-of-historic-proportions/article2008719/ ''Globe and Mail'' May 4, 2011] {{webarchive|url=https://web.archive.org/web/20111216043610/http://www.theglobeandmail.com/news/opinions/opinion/harpers-triumph-a-realignment-of-historic-proportions/article2008719/|date=December 16, 2011}}</ref> [[Andrew Coyne]], writing in ''Maclean's'', said the election marked "an unprecedented realignment of Canadian politics" as "the Conservatives are now in a position to replace the Liberals as the [[natural governing party]] in Canada."<ref>Andrew Coyne, "The West is in and Ontario has joined it: How the election led to an unprecedented realignment of Canadian politics," [http://www.macleans.ca/2011/05/06/a-new-power-couple/ ''Maclean's'' May 6, 2011]</ref>
+
+Despite the grim outlook and poor early poll numbers, when the 2015 election was held, the Liberals under Trudeau made an unprecedented comeback. Gaining 148 seats, they won a majority government for the first time since 2000.<ref>Andrew Coyne, "Liberal comeback unprecedented in Canadian history" [https://nationalpost.com/opinion/andrew-coyne-liberal-comeback-unprecedented-in-canadian-history ''National Post'' Oct 25 2015]</ref> Chantal Hébert, writing in the ''Toronto Star,'' claimed the comeback was "headed straight for the history books" and that Harper's name would "forever be joined with that of his Liberal nemesis in Canada's electoral annals".<ref>Chantal Hébert, "Liberal comeback headed for history books" [https://www.thestar.com/news/federal-election/2015/10/20/liberal-comeback-headed-for-history-books-hbert.html ''Toronto Star'' Oct 20 2015] {{webarchive|url=https://web.archive.org/web/20151024000551/http://www.thestar.com/news/federal-election/2015/10/20/liberal-comeback-headed-for-history-books-hbert.html|date=2015-10-24}}</ref> Spencer McKay, writing for the ''National Post'', suggested that "maybe we've witnessed a revival of Canada's 'natural governing party'".<ref>Spencer McKay, "The Great Liberal Comeback" [https://nationalpost.com/opinion/spencer-mckay-the-great-liberal-comeback ''National Post'' Oct 29 2015]</ref>
+
+===International reactions===
+* {{flag|China}}: Foreign Ministry Deputy Director and Spokeswoman [[Hua Chunying]] expressed hope on building on existing relations between Canada and China, stating "a sustainable and steady development of [[Canada–China relations|China–Canada relations]]" will benefit both countries.<ref name="TorStar congratulations">{{cite news|last1=Panetta|first1=Alexander|title=World leaders congratulate Justin Trudeau on his win|url=https://www.thestar.com/news/canada/2015/10/20/world-leaders-congratulate-justin-trudeau-on-his-win.html|access-date=October 23, 2015|work=Toronto Star|date=October 20, 2015|archive-date=October 22, 2015|archive-url=https://web.archive.org/web/20151022223933/http://www.thestar.com/news/canada/2015/10/20/world-leaders-congratulate-justin-trudeau-on-his-win.html|url-status=live}}</ref>
+* {{flag|Germany}}: German Ambassador to Canada Werner Wnendt said that his government welcomed Trudeau's commitment to restoring a [[Multilateralism|multilateral]] foreign policy and "the traditional voice that Canada has had at the [[United Nations|UN]] has been missed".<ref>{{cite news|author1=The Canadian Press|title=Germany Welcomes Trudeau Participation On Climate Change, Diplomacy|url=http://www.huffingtonpost.ca/2015/10/23/germany-welcomes-trudeau-participation-on-climate-change-diplomacy_n_8373144.html|access-date=October 24, 2015|work=Huffington Post Canada|date=October 23, 2015|archive-date=October 24, 2015|archive-url=https://web.archive.org/web/20151024133112/http://www.huffingtonpost.ca/2015/10/23/germany-welcomes-trudeau-participation-on-climate-change-diplomacy_n_8373144.html|url-status=live}}</ref>
+* {{flag|India}}: Prime Minister [[Narendra Modi]] congratulated Trudeau by telephone where he reminisced about meeting Trudeau's family, expressed hope for further improvement of [[Canada–India relations]], and invited Trudeau to visit India.<ref>{{cite web|title=PM Modi speaks to Mr. Trudeau – invites him to visit India|url=http://www.hciottawa.ca/press_detail.php?nid=61|website=News and Events|publisher=High Commission of India, Ottawa|access-date=October 23, 2015|date=October 21, 2015|archive-date=November 20, 2015|archive-url=https://web.archive.org/web/20151120041733/http://www.hciottawa.ca/press_detail.php?nid=61|url-status=live}}</ref>
+* {{flag|Italy}}: Prime Minister [[Matteo Renzi]] sent Trudeau a Twitter message wishing him luck and saying that he looked forward to them meeting at the [[2015 G-20 Antalya summit]].<ref name="TorStar congratulations" />
+* {{flag|Mexico}}: President [[Enrique Peña Nieto]] congratulated Trudeau by telephone and tweeted that "Canada and Mexico have the opportunity to start a new chapter in their relationship".<ref name="TorStar congratulations" />
+* {{flag|United States}}: President [[Barack Obama]] congratulated Trudeau on the result in a telephone call where the two discussed [[Canada–United States relations]], the [[Trans-Pacific Partnership]], and the [[2015 United Nations Climate Change Conference|2015 climate change conference in Paris]].<ref>{{cite web|title=Readout of the President's Call with Prime Minister-Designate Justin Trudeau of Canada|url=https://obamawhitehouse.archives.gov/the-press-office/2015/10/20/readout-presidents-call-prime-minister-designate-justin-trudeau-canada|access-date=October 23, 2015|via=[[NARA|National Archives]]|work=[[whitehouse.gov]]|date=October 20, 2015|archive-date=February 16, 2017|archive-url=https://web.archive.org/web/20170216140405/https://obamawhitehouse.archives.gov/the-press-office/2015/10/20/readout-presidents-call-prime-minister-designate-justin-trudeau-canada|url-status=live}}</ref>
+
+== Cabinet appointments ==
+{{Main|29th Canadian Ministry}}
+
+On November 4, 2015, the following individuals were sworn in as cabinet ministers of the [[29th Canadian Ministry]], in addition to Justin Trudeau as prime minister and [[Minister of Intergovernmental Affairs and Youth (Canada)|minister of Intergovernmental Affairs and Youth]]:<ref>{{cite web|url=http://www.cbc.ca/news/politics/canada-trudeau-liberal-cabinet-ministers-1.3302743|title=Justin Trudeau signals new style in 1st address as Canada's 23rd prime minister|date=November 4, 2015|work=[[CBC News]]|access-date=November 4, 2015|last1=Harris|first1=Kathleen|archive-date=November 4, 2015|archive-url=https://web.archive.org/web/20151104221759/http://www.cbc.ca/news/politics/canada-trudeau-liberal-cabinet-ministers-1.3302743|url-status=live}}</ref><ref>{{cite web|url=https://toronto.citynews.ca/2015/11/04/members-of-prime-minister-justin-trudeaus-new-cabinet-sworn-in/|title=Members of Prime Minister Justin Trudeau's new cabinet sworn in|work=680 NEWS|access-date=November 4, 2015|date=November 4, 2015|archive-date=November 6, 2015|archive-url=https://web.archive.org/web/20151106233846/http://www.680news.com/2015/11/04/members-of-prime-minister-justin-trudeaus-new-cabinet-sworn-in/|url-status=live}}</ref><ref>{{cite web|url=http://www.cbc.ca/news/politics/full-list-of-justin-trudeau-s-cabinet-1.3300699|title=Full list of Justin Trudeau's cabinet|date=November 4, 2015|work=[[CBC News]]|access-date=November 4, 2015|archive-date=April 3, 2019|archive-url=https://web.archive.org/web/20190403163026/https://www.cbc.ca/news/politics/full-list-of-justin-trudeau-s-cabinet-1.3300699|url-status=live}}</ref>
+
+{{columns-list|colwidth=22em|
+*'''[[Minister of Public Safety and Emergency Preparedness|Public Safety]]:''' [[Ralph Goodale]]
+*'''[[Minister of Agriculture (Canada)|Agriculture and Agri-Food]]:''' [[Lawrence MacAulay]]
+*'''[[Minister of Foreign Affairs (Canada)|Foreign Affairs]]:''' [[Stéphane Dion]]
+*'''[[Minister of Immigration, Refugees and Citizenship|Immigration]]:''' [[John McCallum]]
+*'''[[Minister of Indigenous and Northern Affairs|Indigenous and Northern Affairs]]:''' [[Carolyn Bennett]]
+*'''[[President of the Treasury Board]]:''' [[Scott Brison]]
+*'''[[Leader of the Government in the House of Commons]]:''' [[Dominic LeBlanc]]
+*'''[[Minister of Innovation, Science and Economic Development|Innovation, Science and Economic Development]]:''' [[Navdeep Singh Bains]]
+*'''[[Minister of Finance (Canada)|Finance]]:''' [[Bill Morneau]]
+*'''[[Minister of Justice (Canada)|Minister of Justice and Attorney General]]:''' [[Jody Wilson-Raybould]]
+*'''[[Minister of Public Services and Procurement|Public Services and Procurement]]:''' [[Judy Foote]]
+*'''[[Minister of International Trade (Canada)|International Trade]]:''' [[Chrystia Freeland]]
+*'''[[Minister of Health (Canada)|Health]]:''' [[Jane Philpott]]
+*'''[[Minister of Families, Children and Social Development|Families, Children and Social Development]]:''' [[Jean-Yves Duclos]]
+*'''[[Minister of Transport (Canada)|Transport]]:''' [[Marc Garneau]]
+*'''[[Minister of International Development (Canada)|International Development]]:''' [[Marie-Claude Bibeau]]
+*'''[[Minister of Natural Resources (Canada)|Natural Resources]]:''' [[Jim Carr]]
+*'''[[Minister of Canadian Heritage|Canadian Heritage]]:''' [[Mélanie Joly]]
+*'''[[Minister of National Revenue (Canada)|Revenue]]:''' [[Diane Lebouthillier]]
+*'''[[Minister of Veterans Affairs (Canada)|Veterans Affairs]]:''' [[Kent Hehr]]
+*'''[[Minister of the Environment and Climate Change (Canada)|Environment and Climate Change]]:''' [[Catherine McKenna]]
+*'''[[Minister of National Defence (Canada)|National Defence]]:''' [[Harjit Sajjan]]
+*'''[[Minister of Employment, Workforce Development and Disability Inclusion|Employment, Workforce and Labour]]:''' [[MaryAnn Mihychuk]]
+*'''[[Minister of Infrastructure and Communities|Infrastructure and Communities]]:''' [[Amarjeet Sohi]]
+*'''[[Minister of Democratic Institutions|Democratic Institutions]]:''' [[Maryam Monsef]]
+*'''[[Minister of Sport and Persons with Disabilities|Sports and Persons with Disabilities]]:''' [[Carla Qualtrough]]
+*'''[[Minister of Fisheries, Oceans and the Canadian Coast Guard|Fisheries, Oceans and the Canadian Coast Guard]]:''' [[Hunter Tootoo]]
+*'''[[Minister for Science (Canada)|Science]]:''' [[Kirsty Duncan]]
+*'''[[Minister of Status of Women|Status of Women]]:''' [[Patty Hajdu]]
+*'''[[Minister of Small Business and Tourism|Small Business and Tourism]]:''' [[Bardish Chagger]]
+}}
+
+== See also ==
+*[[Fixed election dates in Canada]]
+*[[List of Canadian federal general elections]]
+*[[List of political parties in Canada]]
+*[[Results by riding of the Canadian federal election, 2015]]
+*[[2011 Bloc Québécois leadership election]]
+*[[2012 New Democratic Party leadership election]]
+*[[2013 Liberal Party of Canada leadership election]]
+*[[2014 Bloc Québécois leadership election]]
+*[[2015 Canadian federal election in Quebec]]
+
+==Notes==
+{{notelist}}
+
+== References ==
+{{Reflist|30em}}
+
+==Further reading==
+{{refbegin}}
+* {{cite book|editor1-last= Pammett|editor1-first= Jon H.|editor2-last= Dornan|editor2-first= Christopher|date= 2016|title= The Canadian Federal Election of 2015|url= https://books.google.com/books?id=ONEkCgAAQBAJ&pg=PP1|location= Toronto|publisher= Dundurn Press|isbn= 978-1-4597-3334-3|access-date= October 15, 2020|archive-date= April 14, 2021|archive-url= https://web.archive.org/web/20210414045244/https://books.google.com/books?id=ONEkCgAAQBAJ&pg=PP1|url-status= live}}
+* {{cite journal|last1= MacNeil|first1= Robert|last2= Paterson|first2= Matthew|date= 2016|title= This changes everything? Canadian climate policy and the 2015 election|url= https://www.research.manchester.ac.uk/portal/en/publications/this-changes-everything-canadian-climate-policy-and-the-2015-election(f16abdc7-0d6f-4d7d-a416-9cc41a6c1d4d).html|journal= [[Environmental Politics (journal)|Environmental Politics]]|volume= 25|issue= 3|pages= 553–557|doi= 10.1080/09644016.2016.1140280|bibcode= 2016EnvPo..25..553M|s2cid= 155153475|access-date= October 26, 2019|archive-date= September 7, 2020|archive-url= https://web.archive.org/web/20200907143236/https://www.research.manchester.ac.uk/portal/en/publications/this-changes-everything-canadian-climate-policy-and-the-2015-election(f16abdc7-0d6f-4d7d-a416-9cc41a6c1d4d).html|url-status= live}}
+* {{cite book |editor1-last=Marland |editor1-first=Alex |editor2-last=Giasson |editor2-first=Thierry |title=Canadian Election Analysis: Communication, Strategy and Democracy |date=2015 |publisher=UBC Press |url=https://www.ubcpress.ca/asset/1712/election-analysis2015-final-v3-web-copy.pdf |access-date=May 3, 2021 |archive-date=May 3, 2021 |archive-url=https://web.archive.org/web/20210503140146/https://www.ubcpress.ca/asset/1712/election-analysis2015-final-v3-web-copy.pdf |url-status=live }}
+* {{cite journal|last1= Marland|first1= Alex|date= 2016|title= The 2015 Newfoundland and Labrador Election: Liberals Have a Ball as PC Party Suffers from Post-Williams Hangover|url= https://ojs.unbc.ca/index.php/cpsr/article/download/1302/1148|journal= Canadian Political Science Review|volume= 9|issue= 3|pages= 72–98|doi= 10.24124/c677/20151302|access-date= September 30, 2017|archive-date= April 23, 2018|archive-url= https://web.archive.org/web/20180423001440/https://ojs.unbc.ca/index.php/cpsr/article/download/1302/1148|url-status= live}}
+* {{cite journal |last1= Palmer|first1= Bryan D.|date= 2016|title= Snatching Defeat from the Jaws of Victory: The New Democratic Party and the Canadian Elections|journal= [[New Labor Forum]]|volume= 25|issue= 1|pages= 87–94|doi= 10.1177/1095796015620147|s2cid= 157729157}}
+{{refend}}
+
+== External links ==
+*[http://www.elections.ca/ Elections Canada]
+
+{{Canadian federal election, 2015A |state=collapsed}}
+{{Canada elections}}
+{{navboxes|title=Leaders|list1=
+{{Justin Trudeau}}
+{{Stephen Harper}}
+}}
+
+{{DEFAULTSORT:42nd Canadian Federal Election}}
+[[Category:2015 Canadian federal election| ]]
+[[Category:Canadian federal elections by year|2015]]
+[[Category:2015 elections in Canada|Federal election]]
+[[Category:October 2015 elections]]
+[[Category:October 2015 in Canada]]

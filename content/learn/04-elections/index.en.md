@@ -62,6 +62,13 @@ Because of this, a party's share of **seats** can be quite different from its sh
 national **vote**. A party with under 40% of the vote can win more than half the seats. A
 party with broad but thin support everywhere can win very few seats.
 
+Here is every general election since 1867, with each party family's share of the seats:
+
+<tn-widget name="election-seats" data-compact="true"></tn-widget>
+
+For turnout, minority governments and more, see
+[150 years of federal elections](/elections-history).
+
 ### From seats to a Prime Minister
 
 Here's the chain that turns an election into a government:

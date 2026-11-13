@@ -1,0 +1,1219 @@
+{{Short description|None}}
+{{Use Canadian English|date=January 2023}}
+{{Use mdy dates|date=May 2016}}
+[[File:David Eby - 2022 (52507022370) (cropped).png|thumb|[[David Eby]] has been premier of British Columbia since 2022.]]
+The [[premier of British Columbia]] is the [[first minister]] for the [[Provinces and territories of Canada|Canadian province]] of [[British Columbia]]. The province was a British crown colony governed by the [[governors of British Columbia]]<ref>{{cite web|url=http://www.britishcolumbia.com/history/ |title=History and Heritage of British Columbia |publisher=BritishColumbia.com |access-date=November 5, 2008 |archive-url=https://web.archive.org/web/20081102193708/http://www.britishcolumbia.com/history/ |archive-date=November 2, 2008 |url-status=dead }}</ref> before joining [[Canadian Confederation]] in 1871.<ref>{{cite web|url=http://www.collectionscanada.gc.ca/confederation/023001-2185-e.html |title=British Columbia – Canadian Confederation |publisher=Library and Archives Canada |access-date=November 5, 2008 |date=August 9, 2006 |archive-url=https://web.archive.org/web/20080621230955/http://www.collectionscanada.gc.ca/confederation/023001-2185-e.html |archive-date=June 21, 2008 |url-status=dead }}</ref> Since then, it has had a [[unicameral]] [[Westminster System|Westminster-style]] [[parliamentary government]], in which the premier is the leader of the party that controls the most seats in the [[Legislative Assembly of British Columbia|legislative assembly]]. The premier is British Columbia's [[head of government]], and the [[Monarchy of Canada|{{lcfirst:{{Canadian monarch, current|title=*}}}} of Canada]] is its [[head of state]] and is represented by the [[Lieutenant Governor of British Columbia|lieutenant governor of British Columbia]]. The premier picks a cabinet from the elected members to form the [[Executive Council of British Columbia]] and presides over that body.<ref name="office">{{cite web|url=http://www.gov.bc.ca/govt/lieutenant_governor_legislature.html|title=The Office of the Lieutenant Governor and the Legislature – Province of British Columbia|publisher=Province of British Columbia|access-date=November 5, 2008}}</ref>
+
+Members are first elected to the legislature during [[List of British Columbia general elections|general elections]]. General elections must be conducted every four years from the date of the last election. An election may take place before the four-year mark if the governing party loses the confidence of the legislature by the defeat of a supply bill or the passage of a no-confidence motion, provided that there is no alternative configuration in the legislature that the lieutenant governor believes can command confidence.{{efn|''See the [[2017 British Columbia general election]] and aftermath.''}}<ref name="office" />
+
+Before 1903, British Columbia did not use a party system; instead, premiers of British Columbia had no official party affiliation and were chosen by elected members of the legislative assembly from among themselves. Candidates ran as "Government", "Opposition", "Independent", or in formulations such as "Opposition independent", indicating their respective positions to the incumbent regime.
+
+British Columbia has had 36 individuals serve as premier since joining Confederation, of which 14 individuals had no party affiliation, three were [[British Columbia Conservative Party|Conservatives]], eight were [[British Columbia Liberal Party|Liberals]], four were [[British Columbia Social Credit Party|Socreds]], and seven were [[British Columbia New Democratic Party|New Democrats]]. The first premier was [[John Foster McCreight]], who was inaugurated in 1871. [[Joseph Martin (Canadian politician)|Joseph Martin]] spent the shortest time in office, at 106 days. At over twenty years, [[W. A. C. Bennett]] spent the longest time in office and is the only premier to serve in more than five parliaments. The incumbent premier is [[David Eby]], who was sworn in on November 18, 2022.
+
+==Premiers of British Columbia==
+{{Canadian first minister list/top|cabinet=yes|references=yes}}
+{{Canadian first minister list
+|name            = [[John Foster McCreight]]
+|jurisdiction    = BC
+|number          = 1
+|image           = John Foster McCreight.jpg
+|birth_year      = 1827
+|death_year      = 1913
+|party           = Non-partisan
+|riding          = [[Victoria City (provincial electoral district)|Victoria City]]
+|cabinet         = [[McCreight ministry]]
+|term_start      = 1871-11-14
+|term_end        = 1872-12-23
+|event1          = establishment
+|event1_year     = 1871
+|event1_assembly = none
+|event2          = election
+|event2_year     = 1871
+|event2_assembly = 1st
+|references      = 
+}}
+{{Canadian first minister list
+|name            = [[Amor De Cosmos]]
+|jurisdiction    = BC
+|number          = 2
+|image           = Amor de Cosmos 2a.png
+|birth_year      = 1825
+|death_year      = 1897
+|party           = Non-partisan
+|riding          = [[Victoria (British Columbia electoral district)|Victoria]]
+|cabinet         = [[De Cosmos ministry]]
+|term_start      = 1872-12-23
+|term_end        = 1874-02-11
+|event1          = appointment
+|event1_year     = 1872
+|event1_assembly = 1st
+}}
+{{Canadian first minister list
+|name            = [[George Anthony Walkem]]
+|jurisdiction    = BC
+|number          = 3{{efn|name=Walkem|Unlike other Canadian jurisdictions, British Columbia's legislative library follows the American convention of giving multiple ordinal numbers to premiers who serve non-consecutive terms. George Anthony Walkem is therefore both the third and fifth premier.}}
+|number_sub      = 1 of 2
+|image           = George Anthony Walkem.jpg
+|birth_year      = 1834
+|death_year      = 1908
+|party           = Non-partisan
+|riding          = [[Cariboo (provincial electoral district)|Cariboo]]
+|cabinet         = [[First Walkem ministry|1st Walkem ministry]]
+|term_start      = 1874-02-11
+|term_end        = 1876-02-01
+|event1          = appointment
+|event1_year     = 1874
+|event1_assembly = 1st
+|event2          = election
+|event2_year     = 1875
+|event2_assembly = 2nd
+|references      = 
+}}
+{{Canadian first minister list
+|name            = [[Andrew Charles Elliott]]
+|jurisdiction    = BC
+|number          = 4
+|image           = Andrew Charles Elliott.jpg
+|birth_year      = 1829
+|death_year      = 1889
+|party           = Non-partisan
+|riding          = [[Victoria City (provincial electoral district)|Victoria City]]
+|cabinet         = [[Elliott ministry]]
+|term_start      = 1876-02-01
+|term_end        = 1878-06-25
+|event1          = appointment
+|event1_year     = 1876
+|event1_assembly = 2nd
+|references      = 
+}}
+{{Canadian first minister list
+|name            = [[George Anthony Walkem]]
+|jurisdiction    = BC
+|number          = 5{{efn|name=Walkem}}
+|number_sub      = 2 of 2
+|image           = George Anthony Walkem.jpg
+|birth_year      = 1834
+|death_year      = 1908
+|party           = Non-partisan
+|riding          = [[Cariboo (provincial electoral district)|Cariboo]]
+|cabinet         = [[Second Walkem ministry|2nd Walkem ministry]]
+|term_start      = 1878-06-25
+|term_end        = 1882-06-13
+|event1          = election
+|event1_year     = 1878
+|event1_assembly = 3rd
+|references      = 
+}}
+{{Canadian first minister list
+|name            = [[Robert Beaven]]
+|jurisdiction    = BC
+|number          = 6
+|image           = Beaven r.jpg
+|birth_year      = 1836
+|death_year      = 1920
+|party           = Non-partisan
+|riding          = [[Victoria City (provincial electoral district)|Victoria City]]
+|cabinet         = [[Beaven ministry]]
+|term_start      = 1882-06-13
+|term_end        = 1883-01-29
+|event1          = appointment
+|event1_year     = 1882
+|event1_assembly = 3rd
+|event2          = election
+|event2_year     = 1882
+|event2_assembly = 4th
+|references      = 
+}}
+{{Canadian first minister list
+|name            = [[William Smithe]]
+|jurisdiction    = BC
+|number          = 7
+|image           = Smithe.jpg
+|birth_year      = 1842
+|death_year      = 1887
+|party           = Non-partisan
+|riding          = [[Cowichan (electoral district)|Cowichan]]
+|cabinet         = [[Smithe ministry]]
+|term_start      = 1883-01-29
+|term_end        = 1887-03-28
+|event1          = appointment
+|event1_year     = 1883
+|event1_assembly = 4th
+|event2          = election
+|event2_year     = 1886
+|event2_assembly = 5th
+|references      = 
+}}
+{{Canadian first minister list
+|name            = [[Alexander Edmund Batson Davie]]
+|jurisdiction    = BC
+|number          = 8
+|image           = Alexander Edmund Batson Davie.png
+|birth_year      = 1847
+|death_year      = 1889
+|party           = Non-partisan
+|riding          = [[Lillooet (electoral district)|Lillooet]]
+|cabinet         = [[A. E. B. Davie ministry]]
+|term_start      = 1887-04-01
+|term_end        = 1889-08-01
+|event1          = appointment
+|event1_year     = 1887
+|event1_assembly = 5th
+|references      = 
+}}
+{{Canadian first minister list
+|name            = [[John Robson (politician)|John Robson]]
+|jurisdiction    = BC
+|number          = 9
+|image           = John Robson.jpg
+|birth_year      = 1824
+|death_year      = 1892
+|party           = Non-partisan
+|riding          = [[New Westminster (provincial electoral district)|New Westminster]]
+|riding_term     = 1889–1890
+|riding2         = [[Cariboo (provincial electoral district)|Cariboo]]{{efn|In the 1890 election, Robson also won the seat in the riding of [[Westminster (electoral district)|Westminster]] but turned it down.}}
+|riding2_term    = 1890–1892
+|cabinet         = [[Robson ministry]]
+|term_start      = 1889-08-02
+|term_end        = 1892-06-29
+|event1          = appointment
+|event1_year     = 1889
+|event1_assembly = 5th
+|event2          = election
+|event2_year     = 1890
+|event2_assembly = 6th
+|references      = 
+}}
+{{Canadian first minister list
+|name            = [[Theodore Davie]]
+|jurisdiction    = BC
+|number          = 10
+|image           = Theodore Davie.jpg
+|birth_year      = 1852
+|death_year      = 1898
+|party           = Non-partisan
+|riding          = [[Cowichan-Alberni]]
+|cabinet         = [[Theodore Davie ministry|T. Davie ministry]]
+|term_start      = 1892-07-02
+|term_end        = 1895-03-04
+|event1          = appointment
+|event1_year     = 1892
+|event1_assembly = 6th
+|event2          = election
+|event2_year     = 1894
+|event2_assembly = 7th
+|references      = 
+}}
+{{Canadian first minister list
+|name            = [[John Herbert Turner]]
+|jurisdiction    = BC
+|number          = 11
+|image           = John Herbert Turner.png
+|birth_year      = 1834
+|death_year      = 1923
+|party           = Non-partisan
+|colour          = {{Canadian party colour|BC|Independent}}
+|leadership      = 
+|riding          = [[Victoria City (provincial electoral district)|Victoria City]]
+|cabinet         = [[John H. Turner ministry|Turner ministry]]
+|term_start      = 1895-03-04
+|term_end        = 1898-08-15
+|event1          = appointment
+|event1_year     = 1895
+|event1_assembly = 7th
+|references      = 
+}}
+{{Canadian first minister list
+|name            = [[Charles Augustus Semlin]]
+|jurisdiction    = BC
+|number          = 12
+|image           = Charles Semlin.png
+|birth_year      = 1836
+|death_year      = 1927
+|party           = Non-partisan
+|riding          = [[Yale-West]]
+|cabinet         = [[Semlin ministry]]
+|term_start      = 1898-08-15
+|term_end        = 1900-02-28
+|event1          = election
+|event1_year     = 1898
+|event1_assembly = 8th
+|references      = 
+}}
+{{Canadian first minister list
+|name            = [[Joseph Martin (Canadian politician)|Joseph Martin]]
+|jurisdiction    = BC
+|number          = 13
+|image           = Joseph Martin.png
+|birth_year      = 1852
+|death_year      = 1923
+|party           = Non-partisan
+|colour          = {{Canadian party colour|BC|Independent}}
+|leadership      = 
+|riding          = [[Vancouver City (provincial electoral district)|Vancouver City]]
+|cabinet         = [[Joseph Martin ministry|Martin ministry]]
+|term_start      = 1900-02-28
+|term_end        = 1900-06-15
+|event1          = appointment
+|event1_year     = 1900
+|event1_assembly = 8th
+|references      =
+|accomplishments = Immediately lost a [[confidence vote]] 28 to 1 upon being appointed but formed a cabinet and governed for another three months anyway
+}}
+{{Canadian first minister list
+|name            = [[James Dunsmuir]]
+|jurisdiction    = BC
+|number          = 14
+|image           = James Dunsmuir.png
+|birth_year      = 1851
+|death_year      = 1920
+|party           = Non-partisan
+|riding          = [[South Nanaimo]]
+|cabinet         = [[Dunsmuir ministry]]
+|term_start      = 1900-06-15
+|term_end        = 1902-11-21
+|event1          = election
+|event1_year     = 1900
+|event1_assembly = 9th
+|references      = 
+}}
+{{Canadian first minister list
+|name            = [[Edward Gawler Prior]]
+|jurisdiction    = BC
+|number          = 15
+|image           = Edward Gawler Prior.jpg
+|birth_year      = 1853
+|death_year      = 1920
+|party           = Non-partisan
+|riding          = [[Victoria City (provincial electoral district)|Victoria City]]
+|cabinet         = [[Prior ministry]]
+|term_start      = 1902-11-21
+|term_end        = 1903-06-01
+|event1          = appointment
+|event1_year     = 1902
+|event1_assembly = 9th
+|references      = 
+}}
+{{Canadian first minister list
+|title           = Sir
+|name            = [[Richard McBride]]
+|jurisdiction    = BC
+|number          = 16
+|image           = Richard McBride.jpg
+|birth_year      = 1870
+|death_year      = 1917
+|party           = Conservative
+|leadership      = 1903
+|riding          = [[Westminster-Dewdney]]
+|riding_term     = 1903
+|riding2         = [[Dewdney (electoral district)|Dewdney]]
+|riding2_term    = 1903–1907
+|riding3         = [[Victoria City (provincial electoral district)|Victoria City]]{{efn|In the 1907 election, McBride also won the seat in the riding of [[Dewdney (electoral district)|Dewdney]] but turned it down.}}{{efn|In the 1909 election, McBride also won the seat in the riding of [[Yale (federal electoral district)|Yale]] but turned it down.}}
+|riding3_term    = 1907–1915
+|cabinet         = [[McBride ministry]]
+|term_start      = 1903-06-01
+|term_end        = 1915-12-15
+|event1          = appointment
+|event1_year     = 1903
+|event1_assembly = 9th
+|event2          = election
+|event2_year     = 1903
+|event2_assembly = 10th
+|event3          = election
+|event3_year     = 1907
+|event3_assembly = 11th
+|event4          = election
+|event4_year     = 1909
+|event4_assembly = 12th
+|event5          = election
+|event5_year     = 1912
+|event5_assembly = 13th
+|references      = 
+|accomplishments = Led first partisan administration. During First World War, the provincial government purchased and took possession of two submarines to defend the province from the threat of German attack; quickly transferred by order of the federal government to the Royal Canadian Navy in August 1914. Created the province's first university, the [[University of British Columbia]].
+}}
+{{Canadian first minister list
+|name            = [[William John Bowser]]
+|jurisdiction    = BC
+|number          = 17
+|image           = William John Bowser.jpg
+|birth_year      = 1867
+|death_year      = 1933
+|party           = Conservative
+|leadership      = 1915
+|riding          = [[Vancouver City (provincial electoral district)|Vancouver City]]
+|cabinet         = [[Bowser ministry]]
+|term_start      = 1915-12-15
+|term_end        = 1916-11-23
+|event1          = appointment
+|event1_year     = 1915
+|event1_assembly = 13th
+|references      = 
+}}
+{{Canadian first minister list
+|name            = [[Harlan Carey Brewster]]
+|jurisdiction    = BC
+|number          = 18
+|image           = Harlan Carey Brewster.jpg
+|birth_year      = 1870
+|death_year      = 1918
+|party           = Liberal
+|leadership      = [[British Columbia Liberal Party leadership elections#1912 leadership convention|1912]]
+|riding          = [[Victoria City (provincial electoral district)|Victoria City]]{{efn|In the 1916 election, Brewster also won the seat in the riding of [[Alberni (electoral district)|Alberni]] but turned it down.}}
+|cabinet         = [[Brewster ministry]]
+|term_start      = 1916-11-23
+|term_end        = 1918-03-01
+|event1          = election
+|event1_year     = 1916
+|event1_assembly = 14th
+|references      = 
+|accomplishments = Brought in [[women's suffrage]], instituted [[prohibition]], and combatted political corruption
+}}
+{{Canadian first minister list
+|name            = [[John Oliver (British Columbia politician)|John Oliver]]
+|jurisdiction    = BC
+|number          = 19
+|image           = JohnOliver.jpg
+|birth_year      = 1856
+|death_year      = 1927
+|party           = Liberal
+|leadership      = [[British Columbia Liberal Party leadership elections#1918 Party Caucus|1918]]
+|riding          = [[Dewdney (electoral district)|Dewdney]]
+|riding_term     = 1918–1920
+|riding2         = [[Victoria City (provincial electoral district)|Victoria City]]{{efn|In the 1920 election, Oliver also won the seat in the riding of [[Delta (provincial electoral district)|Delta]] but turned it down.}}
+|riding2_term    = 1920–1924
+|riding3         = [[Nelson (provincial electoral district)|Nelson]]
+|riding3_term    = 1924–1927
+|cabinet         = [[Oliver ministry]]
+|term_start      = 1918-03-06
+|term_end        = 1927-08-17
+|event1          = appointment
+|event1_year     = 1918
+|event1_assembly = 14th
+|event2          = election
+|event2_year     = 1920
+|event2_assembly = 15th
+|event3          = election
+|event3_year     = 1924
+|event3_assembly = 16th
+|references      = 
+|accomplishments = Developed the produce industry in the [[Okanagan Valley]], and tried to persuade the federal government to lower the freight rate for rail transport. In 1923, hosted the visit of [[Warren Harding]] to Vancouver, the first ever visit of a sitting United States President to Canada.
+}}
+{{Canadian first minister list
+|name            = [[John Duncan MacLean]]
+|jurisdiction    = BC
+|number          = 20
+|image           = John Duncan MacLean.jpg
+|birth_year      = 1873
+|death_year      = 1948
+|party           = Liberal
+|leadership      = [[British Columbia Liberal Party leadership elections#Developments 1927-1930|1927]]
+|riding          = [[Yale (provincial electoral district)|Yale]]
+|cabinet         = [[MacLean ministry]]
+|term_start      = 1927-08-20
+|term_end        = 1928-08-21
+|event1          = appointment
+|event1_year     = 1927
+|event1_assembly = 16th
+|references      = 
+}}
+{{Canadian first minister list
+|name            = [[Simon Fraser Tolmie]]
+|jurisdiction    = BC
+|number          = 21
+|image           = Simon Fraser Tolmie.png
+|birth_year      = 1867
+|death_year      = 1937
+|party           = Conservative
+|leadership      = 1926
+|riding          = [[Saanich (electoral district)|Saanich]]
+|cabinet         = [[Tolmie ministry]]
+|term_start      = 1928-08-21
+|term_end        = 1933-11-15
+|event1          = election
+|event1_year     = 1928
+|event1_assembly = 17th
+|references      = 
+|accomplishments = Attempted to apply "business principles to the business of government" during the [[Great Depression]] hit. Unemployment reached 28% – the highest in Canada. Set up [[relief camps]]. The Kidd Report recommended such sharp cuts to social services that the Conservative Party split and decided to run no candidates in the 1933 election. Local riding associations that supported Tolmie ran "Unionist" candidates while those supporting former premier Bowser stood "non-partisan" candidates and others ran as Independent Conservatives, resulting in electoral collapse and only 2 Conservative MLAs (one pro-Bowser, one pro-Tolmie) being returned and Tolmie losing his own seat. 
+}}
+{{Canadian first minister list
+|name            = [[Thomas Dufferin Pattullo]]
+|jurisdiction    = BC
+|number          = 22
+|image           = Thomas Dufferin Pattullo (cropped).jpg
+|birth_year      = 1873
+|death_year      = 1956
+|party           = Liberal
+|leadership      = [[British Columbia Liberal Party leadership elections#Developments 1927-1930|1929]]
+|riding          = [[Prince Rupert (electoral district)|Prince Rupert]]
+|cabinet         = [[Pattullo ministry]]
+|term_start      = 1933-11-15
+|term_end        = 1941-12-09
+|event1          = election
+|event1_year     = 1933
+|event1_assembly = 18th
+|event2          = election
+|event2_year     = 1937
+|event2_assembly = 19th
+|event3          = election
+|event3_year     = 1941
+|event3_assembly = 20th
+|references      = 
+|accomplishments = Attempted to extend government services and relief to the unemployed during the [[Great Depression]]. Re-elected in 1937 using the slogan "socialized capitalism". Failed to win a majority in 1941 and removed as leader by his party when he was unwilling to form a [[coalition government]] with the Conservative Party to keep the [[Co-operative Commonwealth Federation]] out of power.
+}}
+{{Canadian first minister list
+|name            = [[John Hart (Canadian politician)|John Hart]]
+|jurisdiction    = BC
+|number          = 23
+|image           = Canadian politician John Hart.png
+|birth_year      = 1879
+|death_year      = 1957
+|party           = Liberal
+|leadership      = [[1941 British Columbia Liberal Party leadership election|1941]]
+|riding          = [[Victoria City (provincial electoral district)|Victoria City]]
+|cabinet         = [[Hart ministry]]
+|term_start      = 1941-12-09
+|term_end        = 1947-12-29
+|event1          = appointment
+|event1_year     = 1941
+|event1_assembly = 20th
+|event2          = election
+|event2_year     = 1945
+|event2_assembly = 21st
+|references      = {{ref_label|coalition|Co.}}
+|accomplishments = Became Liberal leader and premier in order to form a coalition government with the Conservatives, which his predecessor had refused to do, in order to keep the socialist CCF out of power. Undertook an ambitious program of rural electrification, hydroelectric and highway construction. Built [[British Columbia Highway 97|Highway 97]] to northern British Columbia and relaunched the [[Bridge River Power Project]], which was the province's first major hydroelectric development. Established the BC Power Commission to provide power to smaller communities that were not serviced by private utilities.
+}}
+{{Canadian first minister list
+|name            = [[Boss Johnson]]
+|jurisdiction    = BC
+|number          = 24
+|image           = Byron Johnson.jpg
+|birth_year      = 1890
+|death_year      = 1964
+|party           = Liberal
+|leadership      = [[1947 British Columbia Liberal Party leadership election|1947]]
+|riding          = [[New Westminster (provincial electoral district)|New Westminster]]
+|cabinet         = [[Boss Johnson ministry|Johnson ministry]]
+|term_start      = 1947-12-29
+|term_end        = 1952-08-01
+|event1          = appointment
+|event1_year     = 1947
+|event1_assembly = 21st
+|event2          = election
+|event2_year     = 1949
+|event2_assembly = 22nd
+|references      = {{ref_label|coalition|Co.}}
+|accomplishments = Introduced compulsory [[health insurance]], and a 3% provincial sales tax to pay for it, expanded the highway system, extended the [[Pacific Great Eastern Railway]], and negotiated the [[Alcan Agreement]], which facilitated construction of the [[Kenney Dam]]. Coalition government collapsed when Conservatives left to form the Official Opposition in January 1952, leaving Johnson to lead a straight Liberal government until its defeat in that year's general election. 
+}}
+{{Canadian first minister list
+|name            = [[W. A. C. Bennett]]
+|jurisdiction    = BC
+|number          = 25
+|image           = WAC Bennett - 1942.jpg 
+|birth_year      = 1900
+|death_year      = 1979
+|party           = Social Credit
+|leadership      = 
+|riding          = [[South Okanagan]]
+|cabinet         = [[W. A. C. Bennett ministry]]
+|term_start      = 1952-08-01
+|term_end        = 1972-09-15
+|event1          = election
+|event1_year     = 1952
+|event1_assembly = 23rd
+|event2          = election
+|event2_year     = 1953
+|event2_assembly = 24th
+|event3          = election
+|event3_year     = 1956
+|event3_assembly = 25th
+|event4          = election
+|event4_year     = 1960
+|event4_assembly = 26th
+|event5          = election
+|event5_year     = 1963
+|event5_assembly = 27th
+|event6          = election
+|event6_year     = 1966
+|event6_assembly = 28th
+|event7          = election
+|event7_year     = 1969
+|event7_assembly = 29th
+|references      = 
+|accomplishments = Longest-serving premier. Oversaw rapid expansion of the province's highway system and [[BC Rail]], creation of [[BC Ferries]], [[BC Hydro]], and the [[Bank of British Columbia]], hydro-electric dam-building projects on the Columbia and Peace Rivers and the creation of the [[University of Victoria]] and [[Simon Fraser University]]. 
+}}
+{{Canadian first minister list
+|name            = [[Dave Barrett]]
+|jurisdiction    = BC
+|number          = 26
+|image           = Dave Barrett, 1975.jpg 
+|birth_year      = 1930
+|death_year      = 2018
+|party           = NDP
+|leadership      = [[British Columbia New Democratic Party Leadership Conventions#Leadership convention, 1970|1970]]
+|riding          = [[Coquitlam (electoral district)|Coquitlam]]
+|cabinet         = [[Barrett ministry]]
+|term_start      = 1972-09-15
+|term_end        = 1975-12-22
+|event1          = election
+|event1_year     = 1972
+|event1_assembly = 30th
+|references      = 
+|accomplishments = Reformed the welfare system, established the province's Labour Relations Board, and expanded the public sector. Reformed Legislative Assembly by introducing [[question period]] and full [[Hansard]] transcripts of legislative proceedings. Brought in the [[Agricultural Land Reserve]] (ALR) to protect the supply of farm land and [[Insurance Corporation of British Columbia]] to provide [[public car insurance]]. 
+}}
+{{Canadian first minister list
+|name            = [[Bill Bennett]]
+|jurisdiction    = BC
+|number          = 27
+|image           = Bill Bennett.jpg
+|birth_year      = 1932
+|death_year      = 2015
+|party           = Social Credit
+|leadership      = [[British Columbia Social Credit Party leadership elections#1973 leadership convention|1973]]
+|riding          = [[South Okanagan]]
+|riding_term     = 1975–1979
+|riding2         = [[Okanagan South]]
+|riding2_term    = 1979–1986
+|cabinet         = [[Bill Bennett ministry|B. Bennett ministry]]
+|term_start      = 1975-12-22
+|term_end        = 1986-08-06
+|event1          = election
+|event1_year     = 1975
+|event1_assembly = 31st
+|event2          = election
+|event2_year     = 1979
+|event2_assembly = 32nd
+|event3          = election
+|event3_year     = 1983
+|event3_assembly = 33rd
+|references      = 
+|accomplishments = Implemented significant cuts to social services and education and repealed labour laws, resulting in a [[general strike]]. Spent hundreds of millions of dollars on [[Expo 86]] and the construction of [[BC Place]], Vancouver's [[SkyTrain (Vancouver)|SkyTrain]] rapid transit system, and the [[Vancouver Convention Centre]]. Built the [[Coquihalla Highway]]. 
+}}
+{{Canadian first minister list
+|name            = [[Bill Vander Zalm]]
+|jurisdiction    = BC
+|number          = 28
+|image           = 
+|birth_year      = 1934
+|party           = Social Credit
+|leadership      = [[British Columbia Social Credit Party leadership elections#1986 leadership convention|1986]]
+|riding          = [[Richmond (British Columbia provincial electoral district)|Richmond]]
+|cabinet         = [[Vander Zalm ministry]]
+|term_start      = 1986-08-06
+|term_end        = 1991-04-02
+|event1          = appointment
+|event1_year     = 1986
+|event1_assembly = 33rd
+|event2          = election
+|event2_year     = 1986
+|event2_assembly = 34th
+|references      = 
+|accomplishments = Granted five community colleges authority to grant baccalaureate degrees ([[Thompson Rivers University|Cariboo]], [[University of the Fraser Valley|Fraser Valley]], [[Kwantlen Polytechnic University|Kwantlen]], [[Vancouver Island University|Malaspina]], and [[Okanagan University College|Okanagan]]). Built [[British Columbia Highway 97C|Phase 3 of the Coquihalla Highway]]. Forced to resign due to [[Fantasy Gardens]] conflict of interest controversy.
+}}
+{{Canadian first minister list
+|name            = [[Rita Johnston]]
+|jurisdiction    = BC
+|number          = 29
+|image           = 
+|birth_year      = 1935
+|party           = Social Credit
+|leadership      = [[British Columbia Social Credit Party leadership elections#1991 interim leadership|1991]]
+|riding          = [[Surrey-Newton (provincial electoral district)|Surrey-Newton]]
+|cabinet         = [[Johnston ministry]]
+|term_start      = 1991-04-02
+|term_end        = 1991-11-05
+|event1          = appointment
+|event1_year     = 1991
+|event1_assembly = 34th
+|references      = 
+}}
+{{Canadian first minister list
+|name            = [[Mike Harcourt]]
+|jurisdiction    = BC
+|number          = 30
+|image           = Mike Harcourt.jpg
+|birth_year      = 1943
+|party           = NDP
+|leadership      = [[British Columbia New Democratic Party Leadership Conventions#Leadership convention, 1987|1987]]
+|riding          = [[Vancouver-Mount Pleasant]]
+|cabinet         = [[Harcourt ministry]]
+|term_start      = 1991-11-05
+|term_end        = 1996-02-22
+|event1          = election
+|event1_year     = 1991
+|event1_assembly = 35th
+|references      = 
+|accomplishments = Reformed the welfare system. Resigned due to [[David Stupich|Bingogate]].
+}}
+{{Canadian first minister list
+|name            = [[Glen Clark]]
+|jurisdiction    = BC
+|number          = 31
+|image           = Glen Clark 2011 NDP convention crop.jpg
+|birth_year      = 1957
+|party           = NDP
+|leadership      = [[1996 British Columbia New Democratic Party leadership election|1996]]
+|riding          = [[Vancouver-Kingsway (provincial electoral district)|Vancouver-Kingsway]]
+|cabinet         = [[Glen Clark ministry|G. Clark ministry]]
+|term_start      = 1996-02-22
+|term_end        = 1999-08-25
+|event1          = appointment
+|event1_year     = 1996
+|event1_assembly = 35th
+|event2          = election
+|event2_year     = 1996
+|event2_assembly = 36th
+|references      = 
+|accomplishments = Signed the [[Nisga'a Final Agreement]], continued welfare reform. Resigned due to the [[Fast Ferry Scandal]] and [[Glen Clark#Scandals|Casinogate]].
+}}
+{{Canadian first minister list
+|name            = [[Dan Miller (Canadian politician)|Dan Miller]]
+|jurisdiction    = BC
+|number          = 32
+|image           = Dan Miller, 1990.jpg 
+|birth_year      = 1944
+|party           = NDP
+|leadership      = 1999
+|riding          = [[North Coast (provincial electoral district)|North Coast]]
+|cabinet         = [[Miller ministry (British Columbia)|Miller ministry]]
+|term_start      = 1999-08-25
+|term_end        = 2000-02-24
+|event1          = appointment
+|event1_year     = 1999
+|event1_assembly = 36th
+|references      = 
+}}
+{{Canadian first minister list
+|name            = [[Ujjal Dosanjh]]
+|jurisdiction    = BC
+|number          = 33
+|image           = Ujjal Dosanjh in New Delhi - 2014 (cropped).jpg
+|birth_year      = 1947
+|party           = NDP
+|leadership      = [[2000 British Columbia New Democratic Party leadership election|2000]]
+|riding          = [[Vancouver-Kensington]]
+|cabinet         = [[Dosanjh ministry]]
+|term_start      = 2000-02-24
+|term_end        = 2001-06-05
+|event1          = appointment
+|event1_year     = 2000
+|event1_assembly = 36th
+|references      = 
+|accomplishments = Created the Sex Offenders Registry
+}}
+{{Canadian first minister list
+|name            = [[Gordon Campbell (Canadian politician)|Gordon Campbell]]
+|jurisdiction    = BC
+|number          = 34
+|image           = Gordon Campbell.jpg
+|birth_year      = 1948
+|party           = Liberal
+|leadership      = [[British Columbia Liberal Party leadership elections#1993 leadership challenge|1993]]
+|riding          = [[Vancouver-Point Grey]]
+|cabinet         = [[Campbell ministry]]
+|term_start      = 2001-06-05
+|term_end        = 2011-03-14
+|event1          = election
+|event1_year     = 2001
+|event1_assembly = 37th
+|event2          = election
+|event2_year     = 2005
+|event2_assembly = 38th
+|event3          = election
+|event3_year     = 2009
+|event3_assembly = 39th
+|references      = 
+|accomplishments = Privatized [[BC Rail]], hosted the [[2010 Winter Olympics]], oversaw the launch of the [[Canada Line]], introduced the provincial [[carbon tax]], oversaw the completion of [[Golden Ears Bridge]], resigned in [[HST in BC|HST controversy]]
+}}
+{{Canadian first minister list
+|name            = [[Christy Clark]]
+|jurisdiction    = BC
+|number          = 35
+|image           = Christy Clark by Kris Krug 01 (cropped).jpg
+|birth_year      = 1965
+|party           = Liberal
+|leadership      = [[2011 British Columbia Liberal Party leadership election|2011]]
+|riding          = N/A (did not hold a seat){{efn|Christy Clark did not have a seat when appointed as premier and served as premier without a constituency until elected in a by-election.}}
+|riding_term     = 2011
+|riding2         = [[Vancouver-Point Grey]]
+|riding2_term    = 2011–2013
+|riding3         = N/A (did not hold a seat){{efn|Christy Clark lost her seat in the [[2013 British Columbia general election]] and served as premier without a constituency for 56 days until elected in a by-election.}}
+|riding3_term    = 2013
+|riding4         = [[Westside-Kelowna]]
+|riding4_term    = 2013–2017
+|riding5         = [[Kelowna West]]
+|riding5_term    = 2017
+|cabinet         = [[Christy Clark ministry|C. Clark ministry]]
+|term_start      = 2011-03-14
+|term_end        = 2017-07-18 
+|event1          = appointment
+|event1_year     = 2011
+|event1_assembly = 39th
+|event2          = election
+|event2_year     = 2013
+|event2_assembly = 40th
+|event3          = election
+|event3_year     = 2017
+|event3_assembly = 41st
+|references      = {{efn|name=ClarkNonCon|C. Clark's government remained in office after the 2017 election until [[2017 British Columbian government formation|defeated 44 to 42 on a confidence vote]] less than a week into the legislative session. The lieutenant governor asked Horgan to form a government on the strength of a [[confidence and supply]] agreement between the NDP and the [[Green Party of British Columbia|Green Party]]. Horgan led a [[minority government]] for the remainder of the [[41st Parliament of British Columbia|41st Parliament]] until the 2020 election, when the NDP attained a majority.}}
+|accomplishments = Increased minimum wage from $8.00/hr to $10.25/hr, oversaw completion of the [[Gateway Program (Vancouver)|Gateway Program]], introduced [[Family Day]] statutory holiday, oversaw completion of [[Evergreen Extension]]. Resigned after she [[2017 British Columbian government formation|lost the confidence of the Assembly]].
+}}
+{{Canadian first minister list
+|name            = [[John Horgan]] 
+|jurisdiction    = BC
+|number          = 36
+|image           = John Horgan 2015.jpg
+|birth_year      = 1959
+|death_year      = 2024
+|party           = NDP
+|leadership      = [[2014 British Columbia New Democratic Party leadership election|2014]]
+|riding          = [[Langford-Juan de Fuca]]
+|cabinet         = [[Horgan ministry]]
+|term_start      = 2017-07-18
+|term_end        = 2022-11-18
+|event1          = appointment
+|event1_year     = 2017
+|event1_assembly = 41st
+|event2          = election
+|event2_year     = 2020
+|event2_assembly = 42nd
+|references      = {{efn|name=ClarkNonCon}}
+|accomplishments = Continued construction of [[John Horgan Dam]], replaced medical service plan fee with payroll tax, increased minimum wage from $10.25/hr to $15.65/hr, indexed minimum wage to inflation.
+}}
+{{Canadian first minister list
+|name            = [[David Eby]] 
+|jurisdiction    = BC
+|number          = 37
+|image           = David Eby - 2022 (52507022370) (cropped).png
+|birth_year      = 1976
+|party           = NDP
+|leadership      = [[2022 British Columbia New Democratic Party leadership election|2022]]
+|riding          = [[Vancouver-Point Grey]]
+|cabinet         = [[Eby ministry]]
+|term_start      = 2022-11-18
+|term_end        = 
+|event1          = appointment
+|event1_year     = 2022
+|event1_assembly = 42nd
+|event2          = election
+|event2_year     = 2024
+|event2_assembly = 43rd
+|accomplishments = Introduced housing reforms permitting higher-density residential development, particularly near public transit, restricted [[short-term rental]]s, and implemented a [[home flipping]] tax. Expanded access to free prescription contraception and publicly funded [[in vitro fertilisation]]. Oversaw changes to the province's drug decriminalization pilot project, including restrictions on public drug use. Led the NDP to a narrow majority in the [[2024 British Columbia general election]]. Introduced legislation to expedite major infrastructure and renewable energy projects and measures responding to [[Tariffs in the second Trump administration|United States tariffs]].
+|references      = {{efn|Eby called a [[2026 British Columbia general election|snap election]] for October 24, 2026, less than two years into his government's four-year mandate. Eby cited economic threats from the United States under President [[Donald Trump]] as justification for the early election. The election was called amid divisions within the opposition [[Conservative Party of British Columbia]], whose leader, [[Kerry-Lynne Findlay]], had resigned two days earlier.<ref>{{cite news |last=Depner |first=Wolfgang |title=B.C. Premier Eby calls early election for Oct. 24, says Trump is 'existential' threat |url=https://vancouver.citynews.ca/2026/09/22/b-c-premier-eby-to-deliver-address-amid-rumours-of-possible-election-call/ |work=The Canadian Press |date=September 22, 2026 |access-date=November 1, 2026}}</ref>}}
+
+}}
+{{Canadian first minister list/bottom|colspan=11|notes=
+:{{note_label|minority|Min.}} Led a [[minority government]]
+:{{note_label|coalition|Co.}} Led a [[coalition government]]
+}}
+
+== List of premiers by time in office ==
+{| class="wikitable sortable"
+|-
+! Rank
+! Premier 
+! Total time in office
+! Dates in office 
+! {{tooltip|Mandates|Number of parliamentary terms while serving as premier}}
+! Party
+|-
+| style="text-align:center;" | '''1'''
+| {{sortname|W. A. C.|Bennett}} 
+| {{ayd|1952|8|1|1972|9|15}}
+| {{dts|1952|8|1}} – {{dts|1972|9|15}}
+| style="text-align:center;" | 7
+| {{Canadian party colour|BC|Social Credit|colour&name}}
+|-
+| style="text-align:center;" | '''2'''
+| {{sortname|Richard|McBride}}
+| {{ayd|1903|6|1|1915|12|15}}
+| {{dts|1903|6|1}} – {{dts|1915|12|15}}
+| style="text-align:center;" | 5
+| {{Canadian party colour|BC|Conservative|colour&name}}
+|-
+| style="text-align:center;" | '''3'''
+| {{sortname|Bill|Bennett}} 
+| {{ayd|1975|12|22|1986|08|06}}
+| {{dts|1975|12|22}} – {{dts|1986|08|06}}
+| style="text-align:center;" | 3
+| {{Canadian party colour|BC|Social Credit|colour&name}}
+|-
+| style="text-align:center;" | '''4'''
+| {{sortname|Gordon|Campbell|Gordon Campbell (Canadian politician)}}
+| {{ayd|2001|06|05|2011|03|14}} 
+| {{dts|2001|06|05}} – {{dts|2011|03|14}}
+| style="text-align:center;" | 3
+| {{Canadian party colour|BC|Liberal|colour&name}}
+|-
+| style="text-align:center;" | '''5'''
+| {{sortname|John|Oliver|John Oliver (British Columbia politician)}}
+| {{ayd|1918|03|06|1927|08|17}}
+| {{dts|1918|03|06}} – {{dts|1927|08|17}}
+| style="text-align:center;" | 3
+| {{Canadian party colour|BC|Liberal|colour&name}}
+|-
+| style="text-align:center;" | '''6'''
+| {{sortname|Thomas Dufferin|Pattullo|Duff Pattullo}}
+| {{ayd|1933|11|15|1941|12|09}}
+| {{dts|1933|11|15}} – {{dts|1941|12|09}}
+| style="text-align:center;" | 3
+| {{Canadian party colour|BC|Liberal|colour&name}}
+|-
+| style="text-align:center;" | '''7'''
+| {{sortname|Christy|Clark}}
+| {{ayd|2011|03|14|2017|07|18}} 
+| {{dts|2011|03|14}} – {{dts|2017|07|18}}
+| style="text-align:center;" | 3
+| {{Canadian party colour|BC|Liberal|colour&name}}
+|-
+| style="text-align:center;" | '''8'''
+| {{sortname|John|Hart|John Hart (Canadian politician)}}
+| {{ayd|1941|12|09|1947|12|29}}
+| {{dts|1941|12|09}} – {{dts|1947|12|29}}
+| style="text-align:center;" | 2
+| {{Canadian party colour|BC|Liberal|colour&name}}
+|-
+| style="text-align:center;" | '''9'''
+|{{sortname|George Anthony|Walkem}}
+|{{ntsh|2169}} 5 years, 343 days
+| {{dts|1874|2|11}} – {{dts|1876|2|1}}<hr/>{{dts|1878|6|25}} – {{dts|1882|6|13}}
+| style="text-align:center;" | 3
+|{{Canadian party colour|BC|Non-partisan|colour&name}}
+|-
+| style="text-align:center;" | '''10'''
+| {{sortname|John|Horgan}}
+| {{ayd|2017|07|18|2022|11|18}} 
+| {{dts|2017|07|18}} – {{dts|2022|11|18}}
+| style="text-align:center;" | 2
+| {{Canadian party colour|BC|NDP|colour&name}}
+|-
+| style="text-align:center;" | '''11'''
+| {{sortname|Simon Fraser|Tolmie}}
+| {{ayd|1928|08|21|1933|11|15}}
+| {{dts|1928|08|21}} – {{dts|1933|11|15}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|Conservative|colour&name}}
+|-
+| style="text-align:center;" | '''12'''
+| {{sortname|Bill|Vander Zalm}}
+| {{ayd|1986|08|06|1991|04|02}}
+| {{dts|1986|08|06}} – {{dts|1991|04|02}}
+| style="text-align:center;" | 2
+| {{Canadian party colour|BC|Social Credit|colour&name}}
+|-
+| style="text-align:center;" | '''13'''
+| {{sortname|Boss|Johnson}}
+| {{ayd|1947|12|29|1952|08|01}}
+| {{dts|1947|12|29}} – {{dts|1952|08|01}}
+| style="text-align:center;" | 2
+| {{Canadian party colour|BC|Liberal|colour&name}}
+|-
+| style="text-align:center;" | '''14'''
+| {{sortname|Mike|Harcourt}}
+| {{ayd|1991|11|05|1996|02|22}} 
+| {{dts|1991|11|05}} – {{dts|1996|02|22}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|NDP|colour&name}}
+|-
+| style="text-align:center;" | '''15'''
+| {{sortname|William|Smithe}}
+| {{ayd|1883|1|29|1887|3|28}}
+| {{dts|1883|1|29}} – {{dts|1887|3|28}}
+| style="text-align:center;" | 2
+| {{Canadian party colour|BC|Non-partisan|colour&name}}
+|- bgcolor="ccccff"
+| style="text-align:center;" | '''16'''
+| '''{{sortname|David|Eby}}'''
+| {{ayd|2022|11|18}} 
+| {{dts|2022|11|18}} – present
+| style="text-align:center;" | 2
+| {{Canadian party colour|BC|NDP|colour&name}}
+|-
+| style="text-align:center;" | '''17'''
+| {{sortname|Glen|Clark}}
+| {{ayd|1996|02|22|1999|08|25}} 
+| {{dts|1996|02|22}} – {{dts|1999|08|25}}
+| style="text-align:center;" | 2
+| {{Canadian party colour|BC|NDP|colour&name}}
+|-
+| style="text-align:center;" | '''18'''
+| {{sortname|John Herbert|Turner}}
+| {{ayd|1895|3|4|1898|8|15}}
+| {{dts|1895|3|4}} – {{dts|1898|8|15}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|Non-partisan|colour&name}}
+|-
+| style="text-align:center;" | '''19'''
+| {{sortname|Dave|Barrett}}
+| {{ayd|1972|09|15|1975|12|22}}
+| {{dts|1972|09|15}} – {{dts|1975|12|22}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|NDP|colour&name}}
+|-
+| style="text-align:center;" | '''20'''
+| {{sortname|John|Robson|John Robson (politician)}}
+| {{ayd|1889|8|2|1892|6|29}}
+| {{dts|1889|8|2}} – {{dts|1892|6|29}}
+| style="text-align:center;" | 2
+| {{Canadian party colour|BC|Non-partisan|colour&name}}
+|-
+| style="text-align:center;" | '''21'''
+| {{sortname|Theodore|Davie}}
+| {{ayd|1892|7|2|1895|3|2}}
+| {{dts|1892|7|2}} – {{dts|1895|3|4}}
+| style="text-align:center;" | 2
+| {{Canadian party colour|BC|Non-partisan|colour&name}}
+|-
+| style="text-align:center;" | '''22'''
+| {{sortname|James|Dunsmuir}}
+| {{ayd|1900|6|15|1902|11|21}}
+| {{dts|1900|6|15}} – {{dts|1902|11|21}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|Non-partisan|colour&name}}
+|-
+| style="text-align:center;" | '''23'''
+| {{sortname|Andrew Charles|Elliott}}
+| {{ayd|1876|2|1|1878|6|25}}
+| {{dts|1876|2|1}} – {{dts|1878|6|25}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|Non-partisan|colour&name}}
+|-
+| style="text-align:center;" | '''24'''
+| {{sortname|Alexander E. B.|Davie|Alexander Edmund Batson Davie}}
+| {{ayd|1887|4|1|1889|8|1}}
+| {{dts|1887|4|1}} – {{dts|1889|8|1}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|Non-partisan|colour&name}}
+|-
+| style="text-align:center;" | '''25'''
+| {{sortname|Charles Augustus|Semlin}}
+| {{ayd|1898|8|15|1900|2|27}}
+| {{dts|1898|8|15}} – {{dts|1900|2|27}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|Non-partisan|colour&name}}
+|-
+| style="text-align:center;" | '''26'''
+| {{sortname|Ujjal|Dosanjh}}
+| {{ayd|2000|02|24|2001|06|05}} 
+| {{dts|2000|02|24}} – {{dts|2001|06|05}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|NDP|colour&name}}
+|-
+| style="text-align:center;" | '''27'''
+| {{sortname|Harlan Carey|Brewster}}
+| {{ayd|1916|11|23|1918|03|01}}
+| {{dts|1916|11|23}} – {{dts|1918|03|01}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|Liberal|colour&name}}
+|-
+| style="text-align:center;" | '''28'''
+| {{sortname|Amor |De Cosmos}}
+| {{ayd|1872|12|23|1874|2|11}}
+| {{dts|1872|12|23}} – {{dts|1874|2|11}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|Non-partisan|colour&name}}
+|-
+| style="text-align:center;" | '''29'''
+| {{sortname|John Foster|McCreight}}
+| {{ayd|1871|11|14|1872|12|23}}
+| {{dts|1871|11|14}} – {{dts|1872|12|23}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|Non-partisan|colour&name}}
+|-
+| style="text-align:center;" | '''30'''
+| {{sortname|John Duncan|MacLean}}
+| {{ayd|1927|08|20|1928|08|21}}
+| {{dts|1927|08|20}} – {{dts|1928|08|21}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|Liberal|colour&name}}
+|-
+| style="text-align:center;" | '''31'''
+| {{sortname|William John|Bowser}}
+| {{ayd|1915|12|15|1916|11|23}}
+| {{dts|1915|12|15}} – {{dts|1916|11|23}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|Conservative|colour&name}}
+|-
+| style="text-align:center;" | '''32'''
+| {{sortname|Robert|Beaven}}
+| {{ayd|1882|6|13|1883|1|29}}
+| {{dts|1882|6|13}} – {{dts|1883|1|29}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|Non-partisan|colour&name}}
+|-
+| style="text-align:center;" | '''33'''
+| {{sortname|Rita|Johnston}}
+| {{ayd|1991|04|02|1991|11|05}}
+| {{dts|1991|04|02}} – {{dts|1991|11|05}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|Social Credit|colour&name}}
+|-
+| style="text-align:center;" | '''34'''
+| {{sortname|Edward Gawler|Prior}}
+| {{ayd|1902|11|21|1903|6|1}}
+| {{dts|1902|11|21}} – {{dts|1903|6|1}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|Non-partisan|colour&name}}
+|-
+| style="text-align:center;" | '''35'''
+| {{sortname|Dan|Miller|Dan Miller (Canadian politician)}}
+| {{ayd|1999|08|25|2000|02|24}} 
+| {{dts|1999|08|25}} – {{dts|2000|02|24}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|NDP|colour&name}}
+|-
+| style="text-align:center;" | '''36'''
+| {{sortname|Joseph|Martin|Joseph Martin (Canadian politician)}}
+| {{ayd|1900|2|28|1900|6|15}}
+| {{dts|1900|2|28}} – {{dts|1900|6|15}}
+| style="text-align:center;" | 1
+| {{Canadian party colour|BC|Non-partisan|colour&name}}
+|-
+|}
+
+=== Political parties by time in office ===
+{| class="wikitable"
+|+By premier's party
+!colspan="2"|Party
+!Time in office<br />(days)
+! <abbr title="Number of premiers">#</abbr>
+! Premiers
+{{Canadian party colour|BC|Liberal|row}}
+| [[BC United|Liberal Party]]
+| style="text-align:center;" |{{formatnum:{{#expr:
+ {{age in days|1916|11|23|1918|03|01}} + 1 + <!-- Brewster -->
+ {{age in days|1918|03|06|1927|08|17}} + 1 + <!-- Oliver -->
+ {{age in days|1927|08|20|1928|08|21}} + 1 + <!-- MacLean -->
+ {{age in days|1933|11|15|1941|12|09}} + 1 + <!-- Pattullo -->
+ {{age in days|1941|12|09|1947|12|29}} + 1 + <!-- Hart -->
+ {{age in days|1947|12|29|1952|08|01}} + 1 + <!-- Johnson -->
+ {{age in days|2001|06|05|2011|03|14}} + 1 + <!-- Campbell -->
+ {{age in days|2011|03|14|2017|07|18}} + 1 <!-- Christy Clark -->
+}}}}{{efn|name=CoalitionHartJohnson|This number includes the entire premierships of John Hart and Boss Johnson, as they were Liberal party members, despite them leading coalition governments with some Conservative MLAs.}}
+|style="text-align:center;" |8
+| [[Harlan Carey Brewster]], [[John Oliver (British Columbia politician)|John Oliver]], [[John Duncan MacLean]], [[Duff Pattullo]], [[John Hart (Canadian politician)|John Hart]]{{efn|name=CoalitionHartJohnson}}, [[Boss Johnson]]{{efn|name=CoalitionHartJohnson}}, [[Gordon Campbell (Canadian politician)|Gordon Campbell]], and [[Christy Clark]]
+|-{{Canadian party colour|BC|Social Credit|row}}
+| [[British Columbia Social Credit Party|Social Credit Party]]
+| style="text-align:center;" |{{formatnum:{{#expr:
+{{age in days|1952|08|01|1972|09|15}} + 1 + <!-- W. A. C. Bennett -->
+{{age in days|1975|12|22|1986|08|06}} + 1 + <!-- Bill Bennett -->
+{{age in days|1986|08|06|1991|04|02}} + 1 + <!-- Vander Zalm -->
+{{age in days|1991|04|02|1991|11|05}} + 1 <!-- Johnston -->
+}}}}
+|style="text-align:center;" |4
+| [[W.&nbsp;A.&nbsp;C. Bennett]], [[Bill Bennett]], [[Bill Vander Zalm]], and [[Rita Johnston]]
+|-{{Canadian party colour|BC|NDP|row}}
+| bgcolor="ccccff"|[[British Columbia New Democratic Party|New Democratic Party]]
+| style="text-align:center;" bgcolor="ccccff"|{{formatnum:{{#expr:
+{{age in days|1972|09|15|1975|12|22}} + 1 + <!-- Barrett -->
+{{age in days|1991|11|05|1996|02|22}} + 1 + <!-- Harcourt -->
+{{age in days|1996|02|22|1999|08|25}} + 1 + <!-- Glen Clark -->
+{{age in days|1999|08|25|2000|02|24}} + 1 + <!-- Miller -->
+{{age in days|2000|02|24|2001|06|05}} + 1 + <!-- Dosanjh -->
+{{age in days|2017|07|18|2022|11|18}} + 1 + <!-- Horgan -->
+{{age in days|2022|11|18}} + 1 <!-- Eby -->
+}}}}
+|style="text-align:center;" bgcolor="ccccff"|7
+| bgcolor="ccccff"|[[Dave Barrett]], [[Mike Harcourt]], [[Glen Clark]], [[Dan Miller (Canadian politician)|Dan Miller]], [[Ujjal Dosanjh]], [[John Horgan]], and '''[[David Eby]] (incumbent)'''
+|-{{Canadian party colour|BC|Conservative|row}}
+| [[British Columbia Conservative Party|Conservative Party]]
+| style="text-align:center;" |{{formatnum:{{#expr:
+{{age in days|1903|06|01|1915|12|15}} + 1 + <!-- McBride -->
+{{age in days|1915|12|15|1916|11|23}} + 1 + <!-- Bowser -->
+{{age in days|1928|08|21|1933|11|15}} + 1 <!-- Tolmie -->
+}}}}
+|style="text-align:center;" |3
+| [[Richard McBride]], [[William John Bowser]], and [[Simon Fraser Tolmie]]
+|-
+|}
+
+{| class="wikitable"
+|+ By cabinet's party
+!colspan="2"|Party
+!Time in office<br />(days)
+! <abbr title="Number of cabinets">#</abbr>
+! Cabinets
+{{Canadian party colour|BC|Liberal|row}}
+| [[BC United|Liberal Party]]
+| style="text-align:center;" |{{formatnum:{{#expr:
+ {{age in days|1916|11|23|1918|03|01}} + 1 + <!-- Brewster -->
+ {{age in days|1918|03|06|1927|08|17}} + 1 + <!-- Oliver -->
+ {{age in days|1927|08|20|1928|08|21}} + 1 + <!-- MacLean -->
+ {{age in days|1933|11|15|1941|12|09}} + 1 + <!-- Pattullo -->
+ {{age in days|1952|01|18|1952|08|01}} + 1 + <!-- Johnson 2 -->
+ {{age in days|2001|06|05|2011|03|14}} + 1 + <!-- Campbell -->
+ {{age in days|2011|03|14|2017|07|18}} + 1 <!-- Christy Clark -->
+}}}}
+|style="text-align:center;" |7
+| [[Brewster ministry|Brewster]], [[Oliver ministry|Oliver]], [[MacLean ministry|MacLean]], [[Pattullo ministry|Pattullo]], [[Boss Johnson ministry|Johnson]]{{efn|name=BossJohnsonMinistry|Boss Johnson led a coalition majority government from December 29, 1947 to January 18, 1952, and a Liberal minority government from January 18, 1952 to August 1, 1952.}}, [[Campbell ministry|Campbell]], and [[Christy Clark ministry|C. Clark]]
+|-{{Canadian party colour|BC|Social Credit|row}}
+| [[British Columbia Social Credit Party|Social Credit Party]]
+| style="text-align:center;" |{{formatnum:{{#expr:
+{{age in days|1952|08|01|1972|09|15}} + 1 + <!-- W. A. C. Bennett -->
+{{age in days|1975|12|22|1986|08|06}} + 1 + <!-- Bill Bennett -->
+{{age in days|1986|08|06|1991|04|02}} + 1 + <!-- Vander Zalm -->
+{{age in days|1991|04|02|1991|11|05}} + 1 <!-- Johnston -->
+}}}}
+|style="text-align:center;" |4
+| [[W. A. C. Bennett ministry|W.&nbsp;A.&nbsp;C. Bennett]], [[Bill Bennett ministry|B. Bennett]], [[Vander Zalm ministry|Vander Zalm]], and [[Johnston ministry|Johnston]]
+|-{{Canadian party colour|BC|NDP|row}}
+| bgcolor="ccccff"|[[British Columbia New Democratic Party|New Democratic Party]]
+| style="text-align:center;" bgcolor="ccccff"|{{formatnum:{{#expr:
+{{age in days|1972|09|15|1975|12|22}} + 1 + <!-- Barrett -->
+{{age in days|1991|11|05|1996|02|22}} + 1 + <!-- Harcourt -->
+{{age in days|1996|02|22|1999|08|25}} + 1 + <!-- Glen Clark -->
+{{age in days|1999|08|25|2000|02|24}} + 1 + <!-- Miller -->
+{{age in days|2000|02|24|2001|06|05}} + 1 + <!-- Dosanjh -->
+{{age in days|2017|07|18|2022|11|18}} + 1 + <!-- Horgan -->
+{{age in days|2022|11|18}} + 1 <!-- Eby -->
+}}}}
+|style="text-align:center;" bgcolor="ccccff"|7
+| bgcolor="ccccff"|[[Barrett ministry|Barrett]], [[Harcourt ministry|Harcourt]], [[Glen Clark ministry|G. Clark]], [[Miller ministry (British Columbia)|Miller]], [[Dosanjh ministry|Dosanjh]], [[Horgan ministry|Horgan]], and '''[[Eby ministry|Eby]] (incumbent)'''
+|-{{Canadian party colour|BC|Conservative|row}}
+| [[British Columbia Conservative Party|Conservative Party]]
+| style="text-align:center;" |{{formatnum:{{#expr:
+{{age in days|1903|06|01|1915|12|15}} + 1 + <!-- McBride -->
+{{age in days|1915|12|15|1916|11|23}} + 1 + <!-- Bowser -->
+{{age in days|1928|08|21|1933|11|15}} + 1 <!-- Tolmie -->
+}}}}
+|style="text-align:center;" |3
+| [[McBride ministry]], [[Bowser ministry]], and [[Tolmie ministry]]
+|-
+| bgcolor="{{Canadian party colour|BC|Coalition}}" | 
+| ''[[Coalition government#Provincial|Liberal–Conservative coalition]]''
+| style="text-align:center;" |{{formatnum:{{#expr:
+ {{age in days|1941|12|09|1947|12|29}} + 1 + <!-- Hart -->
+ {{age in days|1947|12|29|1952|01|18}} + 1 <!-- Johnson 1 -->
+}}}}
+|style="text-align:center;" |2
+| [[Hart ministry|Hart]], and [[Boss Johnson ministry|Johnson]]{{efn|name=BossJohnsonMinistry}}
+|-
+|}
+
+==See also==
+{{Portal|Canada}}
+* [[List of British Columbian ministries]]
+* [[Leader of the Opposition (British Columbia)]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===General===
+{{refbegin}}
+*{{cite web|url=http://www.gov.bc.ca/bcfacts/premiers.html|title=Premiers of British Columbia, 1871–today|publisher=Province of British Columbia|access-date=April 26, 2011 |url-status=dead|archive-url=https://web.archive.org/web/20130604011213/http://www.gov.bc.ca/bcfacts/premiers.html|archive-date=June 4, 2013}}
+* {{cite encyclopedia|url=https://www.thecanadianencyclopedia.ca/en/article/british-columbia|title=British Columbia|encyclopedia=[[The Canadian Encyclopedia]]|access-date=October 8, 2019}}
+{{refend}}
+
+{{Premiers of British Columbia}}
+{{Lists of political office-holders in British Columbia}}
+{{British Columbia politics}}
+{{Canadian first ministers}}
+
+{{Featured list}}
+
+{{DEFAULTSORT:Premiers of British Columbia, List of}}
+[[Category:Lists of premiers of Canada by province or territory|British Columbia]]
+[[Category:Premiers of British Columbia|*]]
+[[Category:Lists of political office-holders in British Columbia]]

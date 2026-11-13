@@ -24,6 +24,8 @@ import urbanRuralData from "../data/demographics/urban-rural.json";
 import indigenousData from "../data/demographics/indigenous.json";
 import agePyramidData from "../data/demographics/age-pyramid.json";
 import treatiesMeta from "../data/geo/treaties.topo.meta.json";
+import electionHistoryData from "../data/elections/history.json";
+import premierData from "../data/wikidata/premiers.json";
 
 // ---------------------------------------------------------------------------
 // Shared shapes
@@ -172,6 +174,8 @@ export const datasets: { id: string; title: string; file: string; meta: DatasetM
   { id: "language", title: "Mother tongue", file: "src/data/demographics/language.json", meta: meta(languageData) },
   { id: "indigenous", title: "Indigenous population", file: "src/data/demographics/indigenous.json", meta: meta(indigenousData) },
   { id: "treaties", title: "Treaty areas", file: "src/data/geo/treaties.topo.json", meta: { ...(treatiesMeta as unknown as DatasetMeta) } },
+  { id: "election-history", title: "Federal elections since 1867", file: "src/data/elections/history.json", meta: meta(electionHistoryData) },
+  { id: "premiers", title: "Premiers", file: "src/data/wikidata/premiers.json", meta: meta(premierData) },
   { id: "flags", title: "Flags", file: "src/data/flags.json", meta: meta(flagData) },
 ];
 

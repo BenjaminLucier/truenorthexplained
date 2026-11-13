@@ -1,0 +1,640 @@
+{{Short description|none}}
+{{more footnotes needed|date=August 2012}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 1979 Canadian federal election
+| country = Canada
+| type = parliamentary
+| ongoing = no
+| party_colour = no
+| party_name = no
+| turnout = 75.7%<ref>{{cite web|last=Pomfret|first=R.|title=Voter Turnout at Federal Elections and Referendums|url=http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|work=Elections Canada|publisher=Elections Canada|access-date=11 January 2014}}</ref> ({{increase}} 4.7 [[Percentage Point|pp]])
+| opinion_polls = Opinion polling for the 1979 Canadian federal election
+| previous_election = 1974 Canadian federal election
+| previous_year = 1974
+| previous_mps = 30th Canadian Parliament
+| next_election = 1980 Canadian federal election
+| next_year = 1980
+| elected_mps = 31st Canadian Parliament
+| seats_for_election = 282 seats in the [[House of Commons of Canada|House of Commons]]
+| majority_seats = 142
+| election_date = May 22, 1979
+| image_size =
+| image1 = {{CSS image crop|Image =Joe Clark being interviewed 1979 crop (cropped).jpg|bSize = 130|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour1 = {{Canadian party colour|CA|PC|nohash}}
+| leader1 = [[Joe Clark]]
+| leader_since1 = [[1976 Progressive Conservative leadership election|February 22, 1976]]
+| party1 = {{Canadian party colour|CA|PC|name}}
+| leaders_seat1 = [[Yellowhead (electoral district)|Yellowhead]]
+| last_election1 = 95 seats, 35.46%
+| seats_before1 = 98
+| seats1 = '''136'''
+| seat_change1 = {{increase}} 38
+| popular_vote1 = 4,111,606
+| percentage1 = 35.89%
+| swing1 = {{increase}} 0.43 [[Percentage Point|pp]]
+| image2 = {{CSS image crop|Image =Pierre Trudeau 1979 (UPI press photo) (cropped2).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour2 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader2 = [[Pierre Trudeau]]
+| leader_since2 = [[1968 Liberal Party of Canada leadership election|April 6, 1968]]
+| party2 = {{Canadian party colour|CA|Liberal|name}}
+| leaders_seat2 = [[Mount Royal (electoral district)|Mount Royal]]
+| last_election2 = 141 seats, 43.15%
+| seats_before2 = 133
+| seats2 = 114
+| seat_change2 = {{decrease}} 19
+| popular_vote2 = '''4,595,319'''
+| percentage2 = '''40.11%'''
+| swing2 = {{decrease}} 3.04 [[Percentage Point|pp]]
+| image4 = {{CSS image crop|Image =Ed Broadbent 1980 (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour4 = {{Canadian party colour|CA|NDP|nohash}}
+| leader4 = [[Ed Broadbent]]
+| leader_since4 = [[1975 New Democratic Party leadership election|July 7, 1975]]
+| party4 = {{Canadian party colour|CA|NDP|name}}
+| leaders_seat4 = [[Oshawa (federal electoral district)|Oshawa]]
+| last_election4 = 16 seats, 15.44%
+| seats_before4 = 17
+| seats4 = 26
+| seat_change4 = {{increase}} 9
+| popular_vote4 = 2,048,988
+| percentage4 = 17.88%
+| swing4 = {{increase}} 2.45 [[Percentage Point|pp]]
+| image5 = <div style="width:100%;"><span style="line-height:160px; vertical-align:center; text-align:center; color:{{Canadian party colour|CA|Social Credit}}; font-size:38px;"> '''SC'''</span></div>
+| colour5 = {{Canadian party colour|CA|Social Credit|nohash}}
+| leader5 = [[Fabien Roy]]
+| leader_since5 = [[Social Credit Party of Canada|March 30, 1979]]
+| party5 = {{Canadian party colour|CA|Social Credit|name}}
+| leaders_seat5 = [[Beauce (electoral district)|Beauce]]
+| last_election5 = 11 seats, 5.06%
+| seats_before5 = 9
+| seats5 = 6
+| seat_change5 = {{decrease}} 3
+| popular_vote5 = 527,604
+| percentage5 = 4.61%
+| swing5 = {{decrease}} 0.46 [[Percentage Point|pp]]
+| map = {{Switcher
+| [[File:1979 Canadian General Election fixed.svg|350px]]
+| Results by electoral district
+| [[File:Canada 1979 Federal Election.svg|350px]]
+| Results by Province and Territory}}
+| title = Prime Minister
+| posttitle = Prime Minister after election
+| after_election = [[Joe Clark]]
+| after_party = {{Canadian party colour|CA|PC|name}}
+| before_election = [[Pierre Trudeau]]
+| before_party = {{Canadian party colour|CA|Liberal|name}}
+| map2_image = Chambre des Communes 1979.png
+| map2_size = 
+| map2_caption = The Canadian parliament after the 1979 election
+}}
+The '''1979 Canadian federal election''' was held on May 22, 1979, to elect members of the [[House of Commons of Canada]] of the [[31st Canadian Parliament|31st Parliament]] of [[Canada]]. It resulted in the defeat of the [[Liberal Party of Canada]] after 16 years in power, 11 of them under [[Prime Minister of Canada|Prime Minister]] [[Pierre Trudeau]]. [[Joe Clark]] led the [[Progressive Conservative Party of Canada|Progressive Conservative Party]] to power but with only a minority of seats in the House of Commons. The Liberals, however, beat the Progressive Conservatives in the overall popular vote by more than 400,000 votes (40.11% to 35.89%). Taking office on the eve of his 40th birthday, Clark became the youngest prime minister in Canadian history.
+
+==Overview==
+The PC Party campaigned on the slogans, "Let's get Canada working again", and "It's time for a change&nbsp;– give the future a chance!" Canadians were not, however, sufficiently confident in the young Joe Clark to give him a majority in the House of Commons. Quebec, in particular, was unwilling to support Clark and elected only two PC [[Member of Parliament|Members of Parliament]] (MPs) in the province's 75 [[Electoral district (Canada)|ridings]]. Clark, relatively unknown when elected as PC leader at the [[1976 Progressive Conservative leadership election|1976 PC Party convention]], was seen as being bumbling and unsure. Clark had had problems with certain right-wing members of his caucus. In particular, when Clark's riding was merged into the riding of another PC MP during a redistribution of ridings, the other MP refused to step aside, and Clark ended up running in another riding. Also, when Clark undertook a tour of the Middle East to show his ability to handle foreign affairs issues, his luggage was lost, and Clark appeared to be uncomfortable with the issues being discussed.
+
+The Liberals tried to make leadership and Clark's inexperience the issue by arguing in their advertising, "This is no time for on-the-job training" and "We need tough leadership to keep Canada growing. A leader must be a leader."
+
+The [[Social Credit Party of Canada]] ("Socred"), which had lost its mercurial leader, [[Réal Caouette]], who died in 1976, struggled to remain relevant. After a series of interim leaders, including Caouette's son, the party turned to [[Fabien Roy]], a popular member of the [[National Assembly of Quebec]], who took the reins of the party just before the beginning of the campaign. The party won the tacit support of the separatist ''[[Parti Québécois]]'', which formed the government of Quebec. Social Credit attempted to rally the separatist and nationalist vote: Canadian flags were absent at its campaign kick-off rally, and the party's slogan was ''C'est à notre tour'' ("It's our turn"), which was reminiscent of the popular separatist anthem ''[[Gens du pays]]'' ("People of the Country"), which includes the chorus, "''C'est votre tour, de vous laisser parler d'amour''" ("It's your turn, to let you talk about love").  The party focused its platform on constitutional change, which promised to fight to abolish the federal government's constitutional power to disallow any provincial legislation and stated that each province has a "right to choose its own destiny within Canada."
+
+The Socreds' support from the Parti Québécois was not welcome by everyone; for instance, [[Gilles Caouette]] publicly denounced what he called ''[[péquiste]]s déguisés en créditistes'' ("péquistes disguised as Socreds"). What remained of its support outside Quebec virtually disappeared, and while the party only suffered a marginal loss in its overall Quebec vote share, its support was much less efficiently distributed than before. The party managed some increase of votes in péquiste areas, but also lost many votes in areas of traditional Socred strength while much of the reduced PC vote share went to the Liberals. The result was a drop from eleven to six [[Members of Parliament|seats]]. ''(See also: [[Social Credit Party candidates, 1979 Canadian federal election]].)''
+
+Clark's [[minority government]] lasted less than nine months. Clark required support from the Socreds to pass the [[1979 Canadian federal budget|1979 budget]] but refused to work with them on ideological grounds, opting instead to "govern as though he had a majority."<ref>{{Citation|title=1979 Canadian Federal Election Debate|url=https://www.youtube.com/watch?v=JBfDSimvCFY |archive-url=https://ghostarchive.org/varchive/youtube/20211221/JBfDSimvCFY |archive-date=2021-12-21 |url-status=live|language=en|access-date=2020-06-20}}{{cbignore}}</ref> With none of their demands being met, the Socreds refused to prop up the government. That resulted in the [[1980 Canadian federal election|1980 election]] in which the PCs were defeated by the resurgent Trudeau Liberals.
+
+As of 2025, this is the earliest Canadian election from which a major party leader (Clark) is still alive.
+
+==National results==
+The Conservatives won the popular vote in seven provinces, while losing the popular vote nationwide, and because they won only two seats in Quebec, Clark won only a minority government. The Liberals won only one seat west of Manitoba. The election was the last in which the [[Social Credit Party of Canada]] won seats. An unusual event occurred in the Northwest Territories: the Liberals took more votes overall than any other party but won neither of the territory's two seats.
+[[File:1979 Canadian parliament.svg|center|300px]]
+
+{| class="wikitable"
+!rowspan=2 colspan=2|Party
+!rowspan=2|Party leader
+!rowspan=2|# of<br />candidates
+!colspan=4|Seats
+!colspan=3|Popular vote
+|- bgcolor="CCCCCC"
+|align="center"|[[1974 Canadian federal election|1974]]
+|align="center"|[[Dissolution of parliament|<span style="font-size: 75%;">Dissolution</span>]]
+|align="center"|'''Elected'''
+|align="center"|% Change
+|align="center"|#
+|align="center"|%
+|align="center"|Change
+{{Canadian party colour|CA|PC|row}}
+| [[Progressive Conservative Party of Canada|Progressive Conservative]]
+|align="center"| [[Joe Clark]]
+|align="right"|282
+|align="right"| 95
+|align="right"|98
+|align="right"| '''136'''
+|align="right"|+43.2%
+|align="right"| 4,111,606
+|align="right"| 35.89%
+|align="right"|+0.43pp
+{{Canadian party colour|CA|Liberal|row}}
+| [[Liberal Party of Canada|Liberal]]
+|align="center"| [[Pierre Trudeau]]
+|align="right"|282
+|align="right"|141
+|align="right"|133
+|align="right"|'''114'''
+|align="right"|−19.1%
+|align="right"| 4,595,319
+|align="right"| 40.11%
+|align="right"|−3.04pp
+{{Canadian party colour|CA|NDP|row}}
+| [[New Democratic Party (Canada)|New Democratic Party]]
+|align="center"| [[Ed Broadbent]]
+|align="right"|282
+|align="right"| 16
+|align="right"|17
+|align="right"| '''26'''
+|align="right"|+62.5%
+|align="right"| 2,048,988
+|align="right"| 17.88%
+|align="right"|+2.45pp
+{{Canadian party colour|CA|Social Credit|row-name}}
+|align="center"| [[Fabien Roy]]
+|align="right"|103
+|align="right"| 11
+|align="right"|9
+|align="right"| '''6'''
+|align="right"|−45.5%
+|align="right"| 527,604
+|align="right"| 4.61%
+|align="right"|−0.46pp
+{{Canadian party colour|CA|Rhinoceros (historical)|row-name}}
+|align="center"| [[Cornelius the First|Cornelius I]]
+|align="right"|63
+|align="right"|  &nbsp;
+|align="right"|&nbsp;
+|align="right"| -
+|align="right"| &nbsp;
+|align="right"| 62,601
+|align="right"| 0.55%
+|align="right"| &nbsp;
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Independent
+|align="right"|48
+|align="right"| 1
+|align="right"| 5
+|align="right"| -
+|align="right"|−100%
+|align="right"| 30,518
+|align="right"| 0.27%
+|align="right"|−0.14pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Unknown
+|align="right"|19
+|align="right"| -
+|align="right"| -
+|align="right"| -
+|align="right"|-
+|align="right"| 21,268
+|align="right"| 0.19%
+|align="right"|+0.01pp
+{{Canadian party colour|CA|Union populaire|row}}
+| ''[[Union Populaire]]''
+|align="center"| 
+|align="right"|69
+|align="right"|&nbsp;
+|align="right"| &nbsp;
+|align="right"| -
+|align="right"| &nbsp;
+|align="right"| 19,514
+|align="right"| 0.17%
+|align="right"| &nbsp;
+{{Canadian party colour|CA|Libertarian|row-name}}
+| [[Alex Eaglesham]]
+|align="right"|60
+|align="right"| &nbsp;
+|align="right"|&nbsp;
+|align="right"| -
+|align="right"| &nbsp;
+|align="right"| 16,042
+|align="right"| 0.14%
+|align="right"| &nbsp;
+{{Canadian party colour|CA|Marxist-Leninist|row-name}}
+|align="center"| [[Hardial Bains]]
+|align="right"|144
+|align="right"| -
+|align="right"| -
+|align="right"| -
+|align="right"| -
+|align="right"| 14,231
+|align="right"| 0.12%
+|align="right"|−0.05pp
+{{Canadian party colour|CA|Communist|row-name}}
+|align="center"| [[William Kashtan]]
+|align="right"|71
+|align="right"| -
+|align="right"| -
+|align="right"| -
+|align="right"|-
+|align="right"| 9,141
+|align="right"| 0.08%
+|align="right"|−0.05pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2| No affiliation
+|align="right"|1
+|align="right"| -
+|align="right"| -
+|align="right"| -
+|align="right"|-
+|align="right"| 176
+|align="right"| x
+|align="right"|x
+|-
+|rowspan=2|&nbsp;&nbsp;&nbsp;&nbsp;
+|colspan=4|Vacant
+|align="right"|2
+|align="center" colspan=5|&nbsp;
+|-
+| colspan=2|'''Total'''
+| align="right"|''' 1,424'''
+| align="right"|''' 265'''
+|align="right"| '''265'''
+| align="right"|''' 282'''
+| align="right"|'''+6.8%'''
+| align="right"|''' 11,457,008'''
+| align="right"|''' 100.00%'''
+| align="right"| &nbsp;
+|-
+| align="center" colspan=11|'''Sources:''' http://www.elections.ca [https://web.archive.org/web/20090609211221/http://www2.parl.gc.ca/Sites/LOP/HFER/hfer.asp?Language=E History of Federal Ridings since 1867]
+|-
+|}
+
+'''Notes:'''
+
+"% change" refers to change from previous election.
+
+''x'' − less than 0.005% of the popular vote.
+
+==Vote and seat summaries==
+{{Gallery
+|title=[[Ternary plot]]s - shift of electoral support (1974-1979)
+|width=350 | height=200 |noborder=yes
+|align=center
+|footer=Electoral districts identified by colours of winning parties
+|File:Ternary CA1974.svg
+ |1974
+ |alt1=Ternary plot of 1974 results
+|File:Ternary CA1979.svg
+ |1979
+ |alt2=Ternary plot of 1979 results
+}}
+
+{{Bar box
+| title    = Popular vote
+| titlebar = #ddd
+| width    = 600px
+| barwidth = 410px
+| bars     = 
+{{Bar percent|Liberal|#F08080|40.11}}
+{{Bar percent|PC|#6495ED|35.89}}
+{{Bar percent|NDP|#F4A460|17.88}}
+{{Bar percent|Social Credit|{{Canadian party colour|CA|Social Credit}}|4.61}}
+{{Bar percent|Others|#DCDCDC|1.51}}
+}}
+
+{{Bar box
+| title    = Seat totals
+| titlebar = #ddd
+| width    = 600px
+| barwidth = 410px
+| bars     = 
+{{Bar percent|PC|#6495ED|48.23}}
+{{Bar percent|Liberal|#F08080|40.43}}
+{{Bar percent|NDP|#F4A460|9.22}}
+{{Bar percent|Social Credit|{{Canadian party colour|CA|Social Credit}}|2.13}}
+}}
+
+==Results by province==
+
+{| class="wikitable"
+! align="center" colspan=3|Party name
+! align="center"|[[British Columbia|BC]]
+! align="center"|[[Alberta|AB]]
+! align="center"|[[Saskatchewan|SK]]
+! align="center"|[[Manitoba|MB]]
+! align="center"|[[Ontario|ON]]
+! align="center"|[[Quebec|QC]]
+! align="center"|[[New Brunswick|NB]]
+! align="center"|[[Nova Scotia|NS]]
+! align="center"|[[Prince Edward Island|PE]]
+! align="center"|[[Newfoundland and Labrador|NL]]
+! align="center"|[[Northwest Territories|NT]]
+! align="center"|[[Yukon|YK]]
+! align="center"|Total
+{{Canadian party colour|CA|PC|row}}
+| rowspan=2|[[Progressive Conservative Party of Canada|Progressive Conservative]]
+| Seats:
+| align="right"|19 <!--BC-->
+| align="right"|21 <!--Alb-->
+| align="right"|10 <!--Sask-->
+| align="right"|7 <!--Man-->
+| align="right"|57 <!--Ont-->
+| align="right"|2 <!--Que-->
+| align="right"|4 <!--NB-->
+| align="right"|8 <!--NS-->
+| align="right"|4 <!--PEI-->
+| align="right"|2 <!--NL-->
+| align="right"|1 <!--NT-->
+| align="right"|1 <!--YK-->
+| align="right"|136 <!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| Popular Vote:
+| align="right"|44.3 <!--BC-->
+| align="right"|65.6 <!--Alb-->
+| align="right"|41.2 <!--Sask-->
+| align="right"|43.4 <!--Man-->
+| align="right"|41.8 <!--Ont-->
+| align="right"|13.5 <!--Que-->
+| align="right"|40.0 <!--NB-->
+| align="right"|45.4 <!--NS-->
+| align="right"|52.8 <!--PEI-->
+| align="right"|27.7 <!--NL-->
+| align="right"|32.3 <!--NT-->
+| align="right"|40.6 <!--YK-->
+| align="right"|35.9 <!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| rowspan=2|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| align="right"|1 <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"|- <!--Sask-->
+| align="right"|2 <!--Man-->
+| align="right"|32 <!--Ont-->
+| align="right"|67 <!--Que-->
+| align="right"|6 <!--NB-->
+| align="right"|2 <!--NS-->
+| align="right"|- <!--PEI-->
+| align="right"|4 <!--NL-->
+| align="right"|- <!--NT-->
+| align="right"|- <!--YK-->
+| align="right"|114 <!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| Vote:
+| align="right"|23.0 <!--BC-->
+| align="right"|22.1 <!--Alb-->
+| align="right"|21.8 <!--Sask-->
+| align="right"|23.5 <!--Man-->
+| align="right"|36.4 <!--Ont-->
+| align="right"|61.7 <!--Que-->
+| align="right"|44.6 <!--NB-->
+| align="right"|35.5 <!--NS-->
+| align="right"|40.6 <!--PEI-->
+| align="right"|41.7 <!--NL-->
+| align="right"|34.1 <!--NT-->
+| align="right"|36.4 <!--YK-->
+| align="right"|40.1 <!--Canada/Total-->
+{{Canadian party colour|CA|NDP|row}}
+| rowspan=2|[[New Democratic Party (Canada)|New Democratic Party]]
+| Seats:
+| align="right"|8 <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"|4 <!--Sask-->
+| align="right"|5 <!--Man-->
+| align="right"|6 <!--Ont-->
+| align="right"|- <!--Que-->
+| align="right"|- <!--NB-->
+| align="right"|1 <!--NS-->
+| align="right"|- <!--PEI-->
+| align="right"|1 <!--NL-->
+| align="right"|1 <!--NT-->
+| align="right"|- <!--YK-->
+| align="right"|26 <!--Canada/Total-->
+{{Canadian party colour|CA|NDP|row}}
+| Vote:
+| align="right"|31.9 <!--BC-->
+| align="right"|9.9 <!--Alb-->
+| align="right"|35.8 <!--Sask-->
+| align="right"|32.7 <!--Man-->
+| align="right"|21.1 <!--Ont-->
+| align="right"|5.1 <!--Que-->
+| align="right"|15.3 <!--NB-->
+| align="right"|18.7 <!--NS-->
+| align="right"|6.5 <!--PEI-->
+| align="right"|30.6 <!--NL-->
+| align="right"|31.9 <!--NT-->
+| align="right"|23.1 <!--YK-->
+| align="right"|17.9 <!--Canada/Total-->
+{{Canadian party colour|CA|Social Credit|row}}
+| rowspan=2|[[Social Credit Party of Canada|Social Credit]]
+| Seats:
+| align="right"|- <!--BC-->
+| align="right"| - <!--Alb-->
+| align="right"| - <!--Sask-->
+| align="right"| - <!--Man-->
+| align="right"| - <!--Ont-->
+| align="right"|6 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|6 <!--Canada/Total-->
+{{Canadian party colour|CA|Social Credit|row}}
+| Vote:
+| align="right"|0.2 <!--BC-->
+| align="right"|1.0 <!--Alb-->
+| align="right"|0.5 <!--Sask-->
+| align="right"|0.2 <!--Man-->
+| align="right"|xx <!--Ont-->
+| align="right"|16.0 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|4.6 <!--Canada/Total-->
+|-
+| colspan=3|'''Total seats:'''
+| align="right"|'''28''' <!--BC-->
+| align="right"|'''21''' <!--Alb-->
+| align="right"|'''14''' <!--Sask-->
+| align="right"|'''14''' <!--Man-->
+| align="right"|'''95''' <!--Ont-->
+| align="right"|'''75''' <!--Que-->
+| align="right"|'''10''' <!--NB-->
+| align="right"|'''11''' <!--NS-->
+| align="right"|'''4''' <!--PEI-->
+| align="right"|'''7''' <!--NL-->
+| align="right"|'''2''' <!--NT-->
+| align="right"|'''1''' <!--YK-->
+| align="right"|'''282''' <!--Canada/Total-->
+|-
+|colspan=16|'''Parties that won no seats'''
+{{Canadian party colour|CA|Rhinoceros (historical)|row-name}}
+| Vote:
+| align="right"|xx <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|xx <!--Ont-->
+| align="right"|1.9 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.5 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Independent
+| Vote:
+| align="right"|0.2 <!--BC-->
+| align="right"|1.1 <!--Alb-->
+| align="right"|0.7 <!--Sask-->
+| align="right"|0.1 <!--Man-->
+| align="right"|0.1 <!--Ont-->
+| align="right"|0.3 <!--Que-->
+| align="right"|0.1 <!--NB-->
+| align="right"|0.3 <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|1.6 <!--NT-->
+| align="right"| &nbsp; <!--YK-->
+| align="right"|0.3 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Unknown
+| Vote:
+| align="right"|0.1 <!--BC-->
+| align="right"|0.2 <!--Alb-->
+| align="right"|xx <!--Sask-->
+| align="right"|xx <!--Man-->
+| align="right"|xx <!--Ont-->
+| align="right"|0.5 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|xx <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"| &nbsp; <!--YK-->
+| align="right"|0.2 <!--Canada/Total-->
+{{Canadian party colour|CA|Union populaire|row}}
+| ''[[Union Populaire]]''
+| Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|0.6 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"| &nbsp; <!--YK-->
+| align="right"|0.2 <!--Canada/Total-->
+{{Canadian party colour|CA|Libertarian|row-name}}
+| Vote:
+| align="right"|xx <!--BC-->
+| align="right"|xx <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|0.3 <!--Ont-->
+| align="right"|0.1 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|xx <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"| &nbsp; <!--YK-->
+| align="right"|0.1 <!--Canada/Total-->
+{{Canadian party colour|CA|Marxist-Leninist|row-name}}
+| Vote:
+| align="right"|0.1 <!--BC-->
+| align="right"|0.1 <!--Alb-->
+| align="right"|0.1 <!--Sask-->
+| align="right"|0.1 <!--Man-->
+| align="right"|0.1 <!--Ont-->
+| align="right"|0.2 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|xx <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"| &nbsp; <!--YK-->
+| align="right"|0.1 <!--Canada/Total-->
+{{Canadian party colour|CA|Communist|row-name}}
+| Vote:
+| align="right"|0.2 <!--BC-->
+| align="right"|0.1 <!--Alb-->
+| align="right"|xx <!--Sask-->
+| align="right"|0.1 <!--Man-->
+| align="right"|0.1 <!--Ont-->
+| align="right"|0.1 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|xx <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"| &nbsp; <!--YK-->
+| align="right"|0.1 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| No affiliation
+| Vote:
+| align="right"|xx <!--BC-->
+| align="right"|xx <!--Alb-->
+| align="right"|xx <!--Sask-->
+| align="right"|xx <!--Man-->
+| align="right"|xx <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"| &nbsp; <!--YK-->
+| align="right"|xx <!--Canada/Total-->
+|}
+
+xx – less than 0.05% of the popular vote.
+
+===Notes===
+* '''Number of parties''': 9
+** '''First appearance''': [[Libertarian Party of Canada]], [[Union populaire]]
+** '''Reappearance after hiatus''': [[Rhinoceros Party of Canada (1963–1993)|Rhinoceros Party of Canada]]
+** '''Final appearance''': ''none''
+{{for|a full list of MPs elected in this election|31st Canadian Parliament}}
+
+==See also==
+{{Portal|Canada|Politics}}
+*[[List of Canadian federal general elections]]
+*[[List of political parties in Canada]]
+
+''Articles on parties' candidates in this election:''
+* [[Liberal Party of Canada candidates, 1979 Canadian federal election|Liberal]]
+* [[Progressive Conservative Party of Canada candidates, 1979 Canadian federal election|Progressive Conservative]]
+* [[Social Credit Party of Canada candidates, 1979 Canadian federal election|Social Credit]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite book |editor1-last=Penniman |editor1-first=Howard |title=Canada at the Polls, 1979 and 1980: A Study of the Federal General Elections |date=1981 |publisher=American Enterprise Institute for Public Policy Research |location=Washington D.C.|isbn=0844734748 |url=https://archive.org/details/canadaatpolls1970000unse |url-access=registration}}
+* {{cite book |last1=Byers |first1=R.B. |title=Canadian Annual Review of Politics and Public Affairs. 1979 |date=1981 |publisher=University of Toronto Press |location=Toronto |isbn=978-1-4426-7193-5 |url=https://archive.org/details/canadianannualre0000unse_w1r4 |url-access=registration}}
+* {{cite book |last1=Simpson |first1=Jeffrey |author1-link=Jeffrey Simpson |title=Discipline of Power: the Conservative Interlude and the Liberal Restoration |date=1996 |publisher=University of Toronto Press |location=Toronto |isbn=978-0-8020-7620-5 |url=https://archive.org/details/disciplineofpowe0000simp |url-access=registration}}
+* {{cite book |last1=Cocking |first1=Clive |title=Following the Leaders: A Media Watcher's Diary of Campaign '79 |date=1979 |publisher=Doubleday Canada |location=Toronto |isbn=978-0-385-14395-0 |url=https://archive.org/details/followingleaders0000cock |url-access=registration}}
+* {{cite book |last1=Pammett |first1=Jon H. |title=The Politics of Limited Change: The 1979 Federal Election |date=1981 |publisher=Dept. of Political Science, Carleton University |location=Ottawa |isbn=978-0-7709-0103-5}}
+
+=== Government Reports ===
+* {{cite report |author1=Canada, Chief Electoral Officer |title=Thirty-First General Election, 1979: Report of the Chief Electoral Officer |date=1979 |publisher=Queen's Printer |location=Ottawa |url=https://archive.org/details/31761115529737}}
+* {{cite report |author1=Canada, Chief Electoral Officer |title=Thirty-First General Election, 1979: Report of the Chief Electoral Officer - Respecting Election Expenses |date=1979 |publisher=Queen's Printer |location=Ottawa |url=https://archive.org/details/31761115530131}}
+
+==External links==
+*[https://web.archive.org/web/20060213092021/http://atlas.gc.ca/site/english/maps/archives/5thedition/peopleandsociety/politicalgeography/mcr4020 Riding map]
+*[https://web.archive.org/web/20080421014728/http://www.histori.ca/prodev/article.do?id=15406 The Elections of 1979 and 1980, by Robert Bothwell]
+*[https://www.nfb.ca/film/history_on_the_run/ ''History on the Run: The Media and the '79 Election''], a documentary film by [[Peter Raymont]], [[National Film Board of Canada]]
+
+{{Canadian federal election, 1979A}}
+{{Canada elections}}
+{{Pierre Trudeau}}
+
+{{DEFAULTSORT:Canadian Federal Election, 1979}}
+[[Category:1979 Canadian federal election| ]]
+[[Category:Canadian federal elections by year|1979]]

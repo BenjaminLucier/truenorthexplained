@@ -44,6 +44,8 @@ pnpm dev                                 # http://localhost:4321
 | `pnpm data:geo` | Re-download province and riding boundaries and population estimates into `src/data/geo/` |
 | `pnpm data:elections` | Re-download 2025 election results, current MPs and senators, and seat allocation into `src/data/elections/`, `src/data/parliament/` and `src/data/population/` |
 | `pnpm data:money` | Re-download federal finances (Finance Canada, Statistics Canada), transfers to provinces and equalization (Finance Canada), the consumer price index (Statistics Canada) and interest rates (Bank of Canada) into `src/data/money/` |
+| `pnpm data:election-history` | Rebuild every federal general election since 1867 (seats and votes by party family, turnout, government, women elected) into `src/data/elections/history.json` from Elections Canada and Wikipedia. Refreshes the Wikipedia pages first; add `--offline` to use the copies in `grounding/wikipedia/` |
+| `pnpm data:premiers` | Rebuild every premier of each province and territory, with party family, into `src/data/wikidata/premiers.json` from Wikidata and Wikipedia |
 | `pnpm data:population` | Re-download 2021 Census population by province (used by the amending-formula widget) |
 | `pnpm data:treaties` | Re-download CIRNAC historic and modern treaty boundaries, simplify them with mapshaper and write `src/data/geo/treaties.topo.json` |
 | `pnpm data:demographics` | Re-download Statistics Canada language, immigrant origin, urban/rural, Indigenous and age-pyramid data into `src/data/demographics/` |

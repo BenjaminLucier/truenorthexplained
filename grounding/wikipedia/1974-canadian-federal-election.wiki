@@ -1,0 +1,558 @@
+{{Short description|none}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 1974 Canadian federal election
+| country = Canada
+| type = parliamentary
+| ongoing = no
+| party_colour = no
+| party_name = no
+| turnout = 71.0%<ref>{{cite web|last=Pomfret|first=R.|title=Voter Turnout at Federal Elections and Referendums|url=http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|work=Elections Canada|publisher=Elections Canada|access-date=11 January 2014}}</ref> ({{decrease}} 5.7 [[Percentage Point|pp]])
+| opinion_polls = Opinion polling for the 1974 Canadian federal election
+| previous_election = 1972 Canadian federal election
+| previous_year = 1972
+| next_election = 1979 Canadian federal election
+| next_year = 1979
+| seats_for_election = 264 seats in the [[House of Commons of Canada|House of Commons]]
+| majority_seats = 133
+| election_date = July 8, 1974
+| elected_mps = 30th Canadian Parliament
+| previous_mps = 29th Canadian Parliament
+| image_size =
+| image1 = {{CSS image crop|Image =Pierre Trudeau (1975) (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour1 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader1 = [[Pierre Trudeau]]
+| leader_since1 = [[1968 Liberal Party of Canada leadership election|April 6, 1968]]
+| party1 = {{Canadian party colour|CA|Liberal|name}}
+| leaders_seat1 = [[Mount Royal (electoral district)|Mount Royal]]
+| last_election1 = 109 seats, 38.42%
+| seats_before1 = 109
+| seats1 = '''141'''
+| seat_change1 = {{increase}} 32
+| popular_vote1 = '''4,102,853'''
+| percentage1 = '''43.15%'''
+| swing1 = {{increase}} 4.73 [[Percentage Point|pp]]
+| image2 = {{CSS image crop|Image =Robert Stanfield 1968 press photo (3x4).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour2 = {{Canadian party colour|CA|PC|nohash}}
+| leader2 = [[Robert Stanfield]]
+| leader_since2 = [[1967 Progressive Conservative leadership election|September 9, 1967]]
+| party2 = {{Canadian party colour|CA|PC|name}}
+| leaders_seat2 = [[Halifax (federal electoral district)|Halifax]]
+| last_election2 = 107 seats, 35.02%
+| seats_before2 = 106
+| seats2 = 95
+| seat_change2 = {{decrease}} 11
+| popular_vote2 = 3,371,319
+| percentage2 = 35.46%
+| swing2 = {{increase}} 0.44 [[Percentage Point|pp]]
+| image4 = {{CSS image crop|Image =David Lewis 1968 Edit Alt.jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour4 = {{Canadian party colour|CA|NDP|nohash}}
+| leader4 = [[David Lewis (Canadian politician)|David Lewis]]
+| leader_since4 = [[1971 New Democratic Party leadership election|April 24, 1971]]
+| party4 = {{Canadian party colour|CA|NDP|name}}
+| leaders_seat4 = [[York South (federal electoral district)|York South]]<br />''(lost re-election)''
+| last_election4 = 31 seats, 17.83%
+| seats_before4 = 31
+| seats4 = 16
+| seat_change4 = {{decrease}} 15
+| popular_vote4 = 1,467,748
+| percentage4 = 15.44%
+| swing4 = {{decrease}} 2.40 [[Percentage Point|pp]]
+| image5 = {{CSS image crop|Image =Real Caouette (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour5 = {{Canadian party colour|CA|Social Credit|nohash}}
+| leader5 = [[Réal Caouette]]
+| leader_since5 = [[Social Credit Party of Canada leadership elections#1971 leadership convention|October 9, 1971]]
+| party5 = {{Canadian party colour|CA|Social Credit|name}}
+| leaders_seat5 = [[Témiscamingue (electoral district)|Témiscamingue]]
+| last_election5 = 15 seats, 7.55%
+| seats_before5 = 15
+| seats5 = 11
+| seat_change5 = {{decrease}} 4
+| popular_vote5 = 481,231
+| percentage5 = 5.06%
+| swing5 = {{decrease}} 2.49 [[Percentage Point|pp]]
+| map_image = Canada 1974 Federal Election.svg
+| map_size = 350px
+| map_caption = Popular vote by province, with graphs indicating the number of seats won. As this is an [[FPTP]] election, seat totals are not determined by popular vote by province but instead via results by each riding.
+| title = Prime Minister
+| posttitle = Prime Minister after election
+| before_election = [[Pierre Trudeau]]
+| before_party = {{Canadian party colour|CA|Liberal|name}}
+| after_election = [[Pierre Trudeau]]
+| after_party = {{Canadian party colour|CA|Liberal|name}}
+| map2_image = Chambre des Communes 1974.png
+| map2_size = 
+| map2_caption = The Canadian parliament after the 1974 election
+}} 
+The '''1974 Canadian federal election''' was held on July 8, 1974, to elect members  of the [[House of Commons of Canada]] of the [[30th Canadian Parliament|30th Parliament]] of [[Canada]].  The governing [[Liberal Party of Canada|Liberal Party]] was reelected, going from a minority to a majority government, and gave Prime Minister [[Pierre Trudeau]] his third term. The [[Progressive Conservative Party of Canada|Progressive Conservatives]], led by [[Robert Stanfield]], did well in the [[Atlantic Canada|Atlantic provinces]], and in the [[Western Canada|West]], but Liberal support in [[Ontario]] and [[Quebec]] ensured a majority Liberal government.
+
+==Overview ==
+{{Unreferenced section|date=June 2020}}
+The previous election had resulted in the Liberals emerging as the largest party, but far short of a majority, and only two seats ahead of the Progressive Conservatives. They were able to form a government with the support of the [[New Democratic Party]], but the NDP withdrew their backing in May 1974 and voted with the Progressive Conservatives to bring down Trudeau's government in protest of a budget proposed by finance minister [[John Turner]], which the opposition parties felt did not go far enough to control spiralling [[inflation]].{{citation needed|date=June 2020}}
+
+The issue of inflation would become key in the election campaign. Stanfield had proposed a "90-day wage and price freeze" to break the momentum of inflation. Trudeau had ridiculed this policy as an intrusion on the rights of businesses and employees to set or negotiate their own prices and wages with the catch-phrase, "Zap! You're frozen!" In 1975, Trudeau introduced his own [[Anti-Inflation Act|wage and price control system]] under the auspices of the ''Anti-Inflation Board''.{{citation needed|date=June 2020}}
+
+While polls at the election campaign's outset had projected that the Progressive Conservatives would at least win a minority government, they in fact lost nearly a dozen seats. The Conservative campaign was also hurt by other factors, including Stanfield giving what was considered to be a poor interview immediately after the vote of no confidence in Trudeau's government, in which he could not name any potential Tory policies for the forthcoming election, and then by a bungled photo op later in the campaign when he attempted to play catch with some assembled journalists, only to fumble and drop the football.{{citation needed|date=June 2020}}
+
+The New Democratic Party, led by [[David Lewis (Canadian politician)|David Lewis]], lost less than two-and-a-half percentage points in the popular vote, but lost almost half of their seats in the [[House of Commons of Canada|House of Commons]]. It was the worst result in the party's history up until that point, with only their performances in [[1993 Canadian federal election|1993]], [[2000 Canadian federal election|2000]] and  [[2025 Canadian federal election|2025]] to date being worse. They were hurt principally by the collapse of their vote in British Columbia; having won the popular vote and most seats in the province two years prior, the NDP were almost totally wiped out there during this election, losing all but two of their seats and finishing a distant third behind the Liberals and Tories. Their poor showing was blamed primarily on Lewis strongly hinting prior to the election that he would back Stanfield over Trudeau in the event of another minority parliament - which may have caused left-wing voters to vote for the Liberals in order to keep the Tories out of power - and also by an unpopular [[mineral tax]] introduced by the provincial British Columbia government of [[Dave Barrett]], which would lead to Barrett's government suffering a landslide loss in the following year's [[1975 British Columbia general election|provincial election]].{{citation needed|date=June 2020}}
+
+The [[Social Credit Party of Canada]], led by [[Réal Caouette]], began to lose ground, and fell to 11 seats, one short of the number required to be recognized as a party in the House of Commons (and therefore qualify for research funds and parliamentary committee memberships). This status was nonetheless extended to the party by the governing Liberals, who believed that Social Credit's support came primarily at the expense of the Tories.{{citation needed|date=June 2020}}
+
+One seat was won in [[New Brunswick]] by independent candidate [[Leonard Jones (politician)|Leonard Jones]]. Jones, the former mayor of [[Moncton]], had secured the Progressive Conservative nomination, but PC leader Stanfield refused to sign Jones' nomination papers because he was a vocal opponent of [[Official bilingualism in Canada|official bilingualism]], which the PC Party supported.  Jones had opposed providing services in French in the City of Moncton even though 30% of the city's population was [[francophone]]. Jones ran and won as an independent. After the election, Social Credit leader Caouette invited Jones to join the Socred caucus, which would have given that party enough members for official status. Caouette justified the invitation on the basis that Jones agreed with providing bilingual education at the primary school level. Jones declined Caouette's invitation, and sat as an independent.{{citation needed|date=June 2020}}
+
+Of the four major party leaders, only Trudeau would remain in place for the following federal election five years later. Stanfield, having failed to defeat the Liberals in any of his three elections as leader, faced pressure to stand down and eventually did so in 1976, being succeeded by [[Joe Clark]]. Lewis' position was rendered untenable by the loss of his own seat, and he was forced to stand down within a year of the election (though it later transpired that he had intended to retire in 1975 regardless of the election result, as he had secretly been battling [[leukaemia]]); [[Ed Broadbent]] initially replaced him as interim leader, and was subsequently elected to the position permanently. Caouette, who had only been able to play a minimal role in the election due to injuries sustained in a snowmobiling accident, stood down as leader of the Socreds in late 1976 and died not long afterwards; a succession of leaders took charge in the years ahead, ultimately leaving [[Fabien Roy]] as the man who would lead them into the next election.{{citation needed|date=June 2020}}
+
+==National results==
+[[File:1974 Canadian parliament.svg|center|300px]]
+
+{| class="wikitable" style="text-align:right; font-size: 95%;"
+|+ '''Summary of the 1974 [[House of Commons of Canada]] election results'''
+|- style="background:#CCCCCC"
+! style="text-align:center;" rowspan="2" colspan="2"|Party
+! style="text-align:center;" rowspan="2"|Party Leader
+! style="text-align:center;" rowspan="2"|Candidates
+! style="text-align:center;" colspan="4"|Seats
+! style="text-align:center;" colspan="3"|Popular vote
+|- style="background-color:#CCCCCC"
+| style="text-align:center;" |[[1972 Canadian federal election|1972]]
+| style="text-align:center;" |<span style="font-size:75%;">[[29th Canadian Parliament|Dissol.]]</span>
+| style="text-align:center;" |'''Elected'''
+| style="text-align:center;" |% Change
+| style="text-align:center;" |#
+| style="text-align:center;" |%
+| style="text-align:center;" |Change
+{{Canadian party colour|CA|Liberal|row-name}}
+| style="text-align:left;" |  [[Pierre Trudeau]]
+|align="right"| 264
+|align="right"|109
+|align="right"|109
+|align="right"| '''141'''
+|align="right"|+29.4%
+|align="right"| 4,102,853
+|align="right"| 43.15%
+|align="right"|+4.73pp
+{{Canadian party colour|CA|PC|row-name}}
+| style="text-align:left;" |  [[Robert Stanfield]]
+|align="right"|264
+|align="right"|107
+|align="right"|106
+|align="right"| '''95'''
+|align="right"|-11.2%
+|align="right"| 3,371,319
+|align="right"| 35.46%
+|align="right"|+0.44pp
+{{Canadian party colour|CA|NDP|row-name}}
+| style="text-align:left;" |  [[David Lewis (Canadian politician)|David Lewis]]
+|align="right"|262
+|align="right"|31
+|align="right"|31
+|align="right"| '''16'''
+|align="right"|-48.4%
+|align="right"|1,467,748  
+|align="right"|15.44% 
+|align="right"|-2.40pp
+{{Canadian party colour|CA|Social Credit|row-name}}
+| style="text-align:left;" |  [[Real Caouette]]
+|align="right"|152
+|align="right"| 15
+|align="right"|15
+|align="right"| '''11'''
+|align="right"|-26.7%
+|align="right"|  481,231 
+|align="right"| 5.06% 
+|align="right"|-2.49pp
+{{Canadian party colour|CA|Independent|row-name}}
+|align="center"|—
+|align="right"|63
+|align="right"| 1
+|align="right"|-
+|align="right"| '''1'''
+|align="right"|-
+|align="right"|38,745
+|align="right"|0.41% 
+|align="right"|-0.18pp
+{{Canadian party colour|CA|Independent|row}}
+|align="left" colspan="2"|Unknown
+|align="right"|28
+|align="right"| -
+|align="right"| - 
+|align="right"| -
+|align="right"|-
+|align="right"|17,124
+|align="right"|0.18% 
+|align="right"|-0.15pp
+{{Canadian party colour|CA|Marxist-Leninist|row-name}}	
+| style="text-align:left;" |  [[Hardial Bains]]
+|align="right"|104
+|align="right"| &nbsp;
+|align="right"|&nbsp;
+|align="right"|-
+|align="right"|&nbsp;
+|align="right"| 16,261 
+|align="right"|0.17%
+|align="right"|&nbsp;
+{{Canadian party colour|CA|Communist|row-name}}
+| style="text-align:left;" |  [[William Kashtan]]
+|align="right"|69
+|align="right"|&nbsp;
+|align="right"|&nbsp;
+|align="right"| -
+|align="right"|&nbsp;
+|align="right"|12,100 
+|align="right"| 0.13%
+|align="right"|&nbsp;
+{{Canadian party colour|CA|Independent|row}}
+| colspan="2" align="left"| No affiliation
+|align="right"|3
+|align="right"| 1
+|align="right"|1
+|align="right"| -
+|align="right"|-100%
+|align="right"|551
+|align="right"|0.01% 
+|align="right"|-0.24pp
+|-
+|rowspan="2"|&nbsp;&nbsp;&nbsp;&nbsp;
+|colspan="4"|Vacant
+|align="right"|2
+|align="center" colspan="5"|&nbsp;
+|-
+| colspan="2"|'''Total'''
+|align="right"| '''1,209'''
+|align="right"|'''264'''
+|align="right"|'''264'''
+|align="right"|'''264'''
+|align="right"|'''-'''
+|align="right"|'''9,507,932'''
+|align="right"|'''100%'''
+|align="right"|  &nbsp;  
+|-
+| align="center" colspan="11"|'''Sources:''' http://www.elections.ca  [https://web.archive.org/web/20090609211221/http://www2.parl.gc.ca/Sites/LOP/HFER/hfer.asp?Language=E History of Federal Ridings since 1867]
+|-
+|}
+
+'''Note:'''
+"% change" refers to change from previous election
+
+==Vote and seat summaries==
+{{Gallery
+|title=[[Ternary plot]]s - shift of electoral support (1972-1974)
+|width=350 | height=200 |noborder=yes
+|align=center
+|footer=Electoral districts identified by colours of winning parties
+|File:Ternary CA1972.svg
+ |1972
+ |alt1=Ternary plot of 1972 results
+|File:Ternary CA1974.svg
+ |1974
+ |alt2=Ternary plot of 1974 results
+}}
+
+{{Bar box
+| title    = Popular vote
+| titlebar = #ddd
+| width    = 600px
+| barwidth = 410px
+| bars     = 
+{{Bar percent|Liberal|#F08080|43.15}}
+{{Bar percent|PC|#9999FF|35.46}}
+{{Bar percent|NDP|#F4A460|15.44}}
+{{Bar percent|Social Credit|{{Canadian party colour|CA|Social Credit}}|5.06}}
+{{Bar percent|Others|#DCDCDC|0.89}}
+}}
+
+{{Bar box
+| title    = Seat totals
+| titlebar = #ddd
+| width    = 600px
+| barwidth = 410px
+| bars     = 
+{{Bar percent|Liberal|#F08080|53.40}}
+{{Bar percent|PC|#9999FF|35.98}}
+{{Bar percent|NDP|#F4A460|6.06}}
+{{Bar percent|Social Credit|{{Canadian party colour|CA|Social Credit}}|4.16}}
+{{Bar percent|Independent|#DCDCDC|0.37}}
+}}
+
+==Results by province==
+{| class="wikitable"
+|- style="background:#e9e9e9;"
+! align="center" colspan="3"|Party name
+! align="center"|[[British Columbia|BC]]
+! align="center"|[[Alberta|AB]]
+! align="center"|[[Saskatchewan|SK]]
+! align="center"|[[Manitoba|MB]]
+! align="center"|[[Ontario|ON]]
+! align="center"|[[Quebec|QC]]
+! align="center"|[[New Brunswick|NB]]
+! align="center"|[[Nova Scotia|NS]]
+! align="center"|[[Prince Edward Island|PE]]
+! align="center"|[[Newfoundland and Labrador|NL]]
+! align="center"|[[Northwest Territories|NT]]
+! align="center"|[[Yukon|YK]]
+! align="center"|Total
+{{Canadian party colour|CA|Liberal|row}}
+| rowspan="2"|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| align="right"|8 <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"|3 <!--Sask-->
+| align="right"|2 <!--Man-->
+| align="right"|55 <!--Ont-->
+| align="right"|60 <!--Que-->
+| align="right"|6 <!--NB-->
+| align="right"|2 <!--NS-->
+| align="right"|1 <!--PEI-->
+| align="right"|4 <!--NL-->
+| align="right"|- <!--NT-->
+| align="right"|- <!--YK-->
+| align="right"|141 <!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| Popular Vote:
+| align="right"|33.8 <!--BC-->
+| align="right"|24.8 <!--Alb-->
+| align="right"|30.7 <!--Sask-->
+| align="right"|27.4 <!--Man-->
+| align="right"|45.1 <!--Ont-->
+| align="right"|54.1 <!--Que-->
+| align="right"|47.2 <!--NB-->
+| align="right"|40.7 <!--NS-->
+| align="right"|46.2 <!--PEI-->
+| align="right"|46.7 <!--NL-->
+| align="right"|24.7 <!--NT-->
+| align="right"|33.5 <!--YK-->
+| align="right"|43.2 <!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| rowspan="2"|[[Progressive Conservative Party of Canada|Progressive Conservative]]
+| Seats:
+| align="right"|13 <!--BC-->
+| align="right"|19 <!--Alb-->
+| align="right"|8 <!--Sask-->
+| align="right"|9 <!--Man-->
+| align="right"|25 <!--Ont-->
+| align="right"|3 <!--Que-->
+| align="right"|3 <!--NB-->
+| align="right"|8 <!--NS-->
+| align="right"|3 <!--PEI-->
+| align="right"|3 <!--NL-->
+| align="right"|- <!--NT-->
+| align="right"|1 <!--YK-->
+| align="right"|95 <!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| Vote:
+| align="right"|41.9 <!--BC-->
+| align="right"|61.2 <!--Alb-->
+| align="right"|36.4 <!--Sask-->
+| align="right"|47.7 <!--Man-->
+| align="right"|35.1 <!--Ont-->
+| align="right"|21.2 <!--Que-->
+| align="right"|33.0 <!--NB-->
+| align="right"|47.5 <!--NS-->
+| align="right"|49.1 <!--PEI-->
+| align="right"|43.6 <!--NL-->
+| align="right"|33.2 <!--NT-->
+| align="right"|47.1 <!--YK-->
+| align="right"|35.5 <!--Canada/Total-->
+{{Canadian party colour|CA|NDP|row}}
+| rowspan="2"|[[New Democratic Party (Canada)|New Democratic Party]]
+| Seats:
+| align="right"|2 <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"|2 <!--Sask-->
+| align="right"|2 <!--Man-->
+| align="right"|8 <!--Ont-->
+| align="right"|- <!--Que-->
+| align="right"|- <!--NB-->
+| align="right"|1 <!--NS-->
+| align="right"|- <!--PEI-->
+| align="right"|- <!--NL-->
+| align="right"|1 <!--NT-->
+| align="right"|- <!--YK-->
+| align="right"|16 <!--Canada/Total-->
+{{Canadian party colour|CA|NDP|row}}
+| Vote:
+| align="right"|23.0 <!--BC-->
+| align="right"|9.3 <!--Alb-->
+| align="right"|31.5 <!--Sask-->
+| align="right"|23.5 <!--Man-->
+| align="right"|19.1 <!--Ont-->
+| align="right"|6.6 <!--Que-->
+| align="right"|8.7 <!--NB-->
+| align="right"|11.2 <!--NS-->
+| align="right"|4.6 <!--PEI-->
+| align="right"|9.5 <!--NL-->
+| align="right"|42.1 <!--NT-->
+| align="right"|19.5 <!--YK-->
+| align="right"|15.4 <!--Canada/Total-->
+{{Canadian party colour|CA|Social Credit|row}}
+| rowspan="2"|[[Social Credit Party of Canada|Social Credit]]
+| Seats:
+| align="right"|- <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"|- <!--Sask-->
+| align="right"|- <!--Man-->
+| align="right"|- <!--Ont-->
+| align="right"|11 <!--Que-->
+| align="right"|- <!--NB-->
+| align="right"|- <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|- <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|11 <!--Canada/Total-->
+{{Canadian party colour|CA|Social Credit|row}}
+| Vote:
+| align="right"|1.2 <!--BC-->
+| align="right"|3.4 <!--Alb-->
+| align="right"|1.1 <!--Sask-->
+| align="right"|1.1 <!--Man-->
+| align="right"|0.2 <!--Ont-->
+| align="right"|17.1 <!--Que-->
+| align="right"|2.9 <!--NB-->
+| align="right"|0.4 <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|0.1 <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|5.1 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan="2"|Independent
+| Seats:
+| align="right"|- <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"|- <!--Sask-->
+| align="right"|- <!--Man-->
+| align="right"|- <!--Ont-->
+| align="right"|- <!--Que-->
+| align="right"|1 <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|- <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|1 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote:
+| align="right"|0.1 <!--BC-->
+| align="right"|0.2 <!--Alb-->
+| align="right"|0.1 <!--Sask-->
+| align="right"|0.1 <!--Man-->
+| align="right"|0.1 <!--Ont-->
+| align="right"|0.3 <!--Que-->
+| align="right"|8.1 <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|0.1 <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.4 <!--Canada/Total-->
+|-
+! colspan="3"|'''Total seats:'''
+! align="right"|'''23''' <!--BC-->
+! align="right"|'''19''' <!--Alb-->
+! align="right"|'''13''' <!--Sask-->
+! align="right"|'''13''' <!--Man-->
+! align="right"|'''88''' <!--Ont-->
+! align="right"|'''74''' <!--Que-->
+! align="right"|'''10''' <!--NB-->
+! align="right"|'''11''' <!--NS-->
+! align="right"|'''4''' <!--PEI-->
+! align="right"|'''7''' <!--NL-->
+! align="right"|'''1''' <!--NT-->
+! align="right"|'''1''' <!--YK-->
+! align="right"|'''264''' <!--Canada/Total-->
+|-
+|colspan="16"|'''Parties that won no seats:'''
+{{Canadian party colour|CA|Independent|row}}
+| Unknown 
+|  Vote:
+| align="right"|xx <!--BC-->
+| align="right"|1.0.<!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|0.1 <!--Man-->
+| align="right"|0.1 <!--Ont-->
+| align="right"|0.3 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|0.1 <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.2 <!--Canada/Total-->
+{{Canadian party colour|CA|Marxist-Leninist|row-name}}
+|  Vote:
+| align="right"|0.1 <!--BC-->
+| align="right"|0.1 <!--Alb-->
+| align="right"|0.1 <!--Sask-->
+| align="right"|0.1 <!--Man-->
+| align="right"|0.1 <!--Ont-->
+| align="right"|0.4 <!--Que-->
+| align="right"|xx <!--NB-->
+| align="right"|0.1 <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.2 <!--Canada/Total-->
+{{Canadian party colour|CA|Communist|row-name}}
+|  Vote:
+| align="right"|0.3 <!--BC-->
+| align="right"|0.1 <!--Alb-->
+| align="right"|0.1 <!--Sask-->
+| align="right"|0.1 <!--Man-->
+| align="right"|0.1 <!--Ont-->
+| align="right"|0.1 <!--Que-->
+| align="right"|&nbsp;  <!--NB-->
+| align="right"|&nbsp;  <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.1 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+|No affiliation
+| Vote:
+| align="right"|&nbsp;  <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp;  <!--Man-->
+| align="right"|xx <!--Ont-->
+| align="right"|xx <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp;  <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|xx <!--Canada/Total-->
+|}
+
+xx - less than 0.05% of the popular vote.
+
+===Notes===
+* '''Number of parties''': 6
+** '''First appearance''': [[Communist Party of Canada (Marxist–Leninist)|Marxist–Leninist Party of Canada]]
+** '''Final appearance''': ''none''
+
+==See also==
+{{Portal|Canada|Politics}} 
+*[[List of Canadian federal general elections]]
+*[[List of political parties in Canada]]
+*[[30th Canadian parliament]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite book |last1=Pammett |first1=Jon |last2=LeDuc |first2=Lawrence |last3=Jenson |first3=Jane |last4=Clarke |first4=Harold |title=The 1974 Federal Election: A Preliminary Report |date=1974 |publisher=Carleton University. Department of Political Science |location=Ottawa |url=https://archive.org/details/1974federalelect0000unse |url-access=registration |access-date=16 April 2021}}
+* {{cite book |editor1-last=Penniman |editor1-first=Howard |title=Canada at the Polls: The General Election of 1974 |date=1975 |publisher=American Enterprise Institute for Public Policy Research |location=Washington D.C.|isbn=0844731781 |url=https://archive.org/details/canadaatpollsgen0000unse |url-access=registration}}
+* {{cite book |editor1-last=Saywell |editor1-first=John |editor1-link=John Saywell |title=Canadian Annual Review of Politics and Public Affairs, 1974 |date=1976 |publisher=University of Toronto Press |location=Toronto |isbn=9780802021960 |url=https://archive.org/details/canadianannualre0002unse_d8f4 |url-access=registration}}
+* {{cite report |author1=Canada, Chief Electoral Officer |title=Thirtieth General Election, 1974: Report of the Chief Electoral Officer |date=1974 |publisher=Queen's Printer |location=Ottawa |url=https://archive.org/details/31761115529729}}
+
+{{Canada elections}}
+{{Pierre Trudeau}}
+
+[[Category:1974 Canadian federal election| ]]
+[[Category:1974 elections in Canada| Federal]]
+[[Category:Canadian federal elections by year|1974]]
+[[Category:July 1974 in Canada|Federal election]]

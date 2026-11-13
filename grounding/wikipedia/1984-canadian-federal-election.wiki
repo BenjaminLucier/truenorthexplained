@@ -1,0 +1,827 @@
+{{Short description|none}}
+{{Use Canadian English|date=December 2024}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 1984 Canadian federal election
+| country = Canada
+| type = parliamentary
+| ongoing = no
+| party_colour = no
+| party_name = no
+| turnout = 75.3%<ref>{{cite web|last=Pomfret|first=R.|title=Voter Turnout at Federal Elections and Referendums|url=http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|work=Elections Canada|access-date=11 January 2014|archive-date=September 28, 2010|archive-url=https://web.archive.org/web/20100928015827/http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|url-status=live}}</ref> ({{increase}} 6.0 [[Percentage Point|pp]])
+| opinion_polls = Opinion polling for the 1984 Canadian federal election
+| previous_election = 1980 Canadian federal election
+| previous_year = 1980
+| previous_mps = 32nd Canadian Parliament
+| next_election = 1988 Canadian federal election
+| next_year = 1988
+| elected_mps = 33rd Canadian Parliament
+| seats_for_election = 282 seats in the [[House of Commons of Canada|House of Commons]] | majority_seats = 142 
+| election_date = September 4, 1984
+| image_size = x160px
+| image1 = {{CSS image crop|Image =Brian Mulroney in 1984 (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}} <!--This photo is better quality, and actually from the 1980s (which is the same rationale for why Turner's photo was changed). It makes far more sense to use this. Please seek consensus on the talk page before changing any of the photos. -->
+| colour1 = {{Canadian party colour|CA|PC|nohash}}
+| leader1 = [[Brian Mulroney]]
+| leader_since1 = [[1983 Progressive Conservative leadership election|June 11, 1983]]
+| party1 = {{Canadian party colour|CA|PC|name}}
+| leaders_seat1 = [[Manicouagan (electoral district)|Manicouagan]]
+| last_election1 = 103 seats, 32.45%
+| seats_before1 = 100
+| seats1 = '''211'''
+| seat_change1 = {{increase}} 111
+| popular_vote1 = '''6,278,818'''
+| percentage1 = '''50.03%'''
+| swing1 = {{increase}} 17.59 [[Percentage Point|pp]]
+| image2 = {{CSS image crop|Image =Finance Minister John Turner speaks to reporters 1975 (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour2 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader2 = [[John Turner]]
+| leader_since2 = [[1984 Liberal Party of Canada leadership election|June 16, 1984]]
+| party2 = {{Canadian party colour|CA|Liberal|name}}
+| leaders_seat2 = [[Vancouver Quadra]]
+| last_election2 = 147 seats, 44.34%
+| seats_before2 = 135
+| seats2 = 40
+| seat_change2 = {{decrease}} 95
+| popular_vote2 = 3,516,486
+| percentage2 = 28.02%
+| swing2 = {{decrease}} 16.32 [[Percentage Point|pp]]
+| image3 = {{CSS image crop|Image =Ed Broadbent 1980 (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour3 = {{Canadian party colour|CA|NDP|nohash}}
+| leader3 = [[Ed Broadbent]]
+| leader_since3 = [[1975 New Democratic Party leadership election|July 7, 1975]]
+| party3 = {{Canadian party colour|CA|NDP|name}}
+| leaders_seat3 = [[Oshawa (federal electoral district)|Oshawa]]
+| last_election3 = 32 seats, 19.77%
+| seats_before3 = 31
+| seats3 = 30
+| seat_change3 = {{decrease}} 1
+| popular_vote3 = 2,359,915
+| percentage3 = 18.81%
+| swing3 = {{decrease}} 0.97 [[Percentage Point|pp]]
+| map = {{Switcher
+| [[File:1984 Canadian federal election.svg|400px]]
+| Results by electoral district
+| [[File:Canada 1984 Federal Election.svg|400px]]
+| Results by province and territory}}
+| title = Prime Minister 
+| posttitle = Prime Minister after election
+| before_election = [[John Turner]]
+| before_party = {{Canadian party colour|CA|Liberal|name}}
+| after_election = [[Brian Mulroney]]
+| after_party = {{Canadian party colour|CA|PC|name}}
+|map2_image = Cdn1984.PNG
+|map2_size =
+|map2_caption =The Canadian parliament after the 1984 election
+}}
+[[File:1984-Canada-33rd-Parliament.jpg|thumb|Map of Canada, showing the results of the 1984 election by riding.]]
+The '''1984 Canadian federal election''' was held on September 4, 1984, to elect members to the [[House of Commons of Canada|House of Commons]] of the [[33rd Canadian Parliament|33rd Parliament]] of [[Canada]], following the dissolution of the House on July 9.<ref>{{cite web |title=Journals : House of Commons Journals, 32nd Parl... - Canadian Parliamentary Historical Resources |url=https://parl.canadiana.ca/view/oop.HOC_3202_127_01/744 |website=parl.canadiana.ca |publisher=Canadian Parliamentary Historical Resources |access-date=30 April 2025}}</ref> The [[Progressive Conservative Party of Canada|Progressive Conservative Party]], led by [[Brian Mulroney]], won a landslide victory, defeating the incumbent governing [[Liberal Party of Canada|Liberal Party]] led by [[Prime Minister of Canada|Prime Minister]] [[John Turner]]. The Progressive Conservatives won 211 seats, the most seats in the House in Canadian political history, and regained power for the first time since [[1979 Canadian federal election|1979]]. This was the first election since [[1958 Canadian federal election|1958]] in which the Progressive Conservatives won a [[majority government]], and is also the only time since 1958 that Canada's governing party received an actual majority of votes cast. It was also the first election since [[1962 Canadian federal election|1962]] in which the Progressive Conservatives won the popular vote.
+
+Mulroney's victory came as a result of his building of a 'grand coalition' that comprised [[social conservatism in Canada|social conservatives]] from [[Western Canada|the West]], [[Red Tory|Red Tories]] from [[Eastern Canada|the East]], [[Quebec nationalism|Quebec nationalists]], and [[fiscal conservatism|fiscal conservatives]]. Winning 74.8 per cent of the seats in the House of Commons meant he won the second-largest percentage of seats in Canadian history, with only Progressive Conservative Prime Minister [[John Diefenbaker]]'s triumph in the 1958 federal election, at 78.5 per cent, being higher. This was the last time that the winning party won every province and territory and the last time that the winning party received over 50 per cent of the national popular vote. The Liberals suffered what at that time was the worst defeat for a governing party at the federal level (in terms of percentage of seats), until the new record would be [[1993 Canadian federal election|set in 1993]] by the Progressive Conservatives themselves. The [[New Democratic Party (Canada)|NDP]] lost a single seat in the House of Commons.
+
+The election marked the end of the Liberals' long dominance of federal politics in [[Quebec]], a province which had been the bedrock of Liberal support for almost a century, and the beginning of a nine-year hold on power by the Progressive Conservatives. The Liberals would not win a majority of Quebec seats again until three decades later in [[2015 Canadian federal election|2015]]. The Progressive Conservatives would later be [[1988 Canadian federal election|reelected with a majority]] in 1988 before [[1993 Canadian federal election|collapsing entirely]] in 1993.
+
+==Background==
+{{More citations needed section|date=September 2024}}
+
+The election was fought almost entirely on the record of the Liberals, who had been in power for all but one year since [[1963 Canadian federal election|1963]].
+
+[[Pierre Trudeau]], who had been [[Prime Minister of Canada|prime minister]] from 1968 to 1979 and again since 1980, retired from politics in early 1984. He was succeeded by [[John Turner]], a former [[Cabinet of Canada|Cabinet minister]] under both [[Pierre Trudeau|Trudeau]] and [[Lester B. Pearson]].
+
+Turner had been out of politics for nine years; he was not an MP during this election campaign. Upon assuming the leadership, he made immediate changes in an attempt to rebuild the Liberals' struggling reputation. For example, he announced that he would not run in a [[by-election]] to return to the [[House of Commons of Canada|House of Commons]], but would instead run in the next general election as the Liberal candidate in [[Vancouver Quadra]], [[British Columbia]]. This was a sharp departure from usual practice for a Westminster system, in which the incumbent in a [[safe seat]] resigns to allow a newly elected party leader a chance to get into Parliament. But the Liberal Party had lost favour with western Canadians, and policies such as the [[National Energy Program]] only aggravated this sentiment. Turner's plan to run in a western Canada riding was, in part, an attempt to rebuild support in that region. Going into the election, the Liberals held only one seat west of [[Ontario]]—that of [[Lloyd Axworthy]], from [[Winnipeg—Fort Garry]], [[Manitoba]].
+
+More seriously, there was great disaffection in Quebec with the Liberal government, despite their traditional support for the party. Conflict between the provincial and federal parties, a series of scandals, and the 1982 [[Canada Act|patriation of the Canadian constitution]] without the approval of the Quebec provincial government had damaged the Liberals' brand in the province. Hoping for success in Quebec, leader [[Joe Clark]] began actively courting soft nationalist voters in the province. This was also a main reason why businessman [[Brian Mulroney]], a fluently bilingual native of Quebec, was chosen as Clark's replacement.
+
+Although Turner was not required to call an election until 1985, internal data initially showed that the Liberals had regained the lead in opinion polls. Turner and his advisers were also mindful of the fact that Trudeau had seemingly missed an opportunity to take advantage of favourable opinion polls in the latter half of the 1970s, when he waited the full five years to [[1979 Canadian federal election|call an election]] only to go down to an (albeit temporary) defeat. Additionally, several by-election losses and floor crossings had eroded the large majority that the Liberals had won four years earlier. By 1984, the Liberals' position in the house had been whittled down close to being a [[minority government]], leaving Turner in danger of being toppled by a [[motion of no confidence]], in addition to the fact that Turner himself was not actually a member of the House of Commons, something that had not been the case for any Prime Minister since Sir [[Mackenzie Bowell]] nearly 90 years earlier. With this in mind, the new Prime Minister requested that [[Elizabeth II of the United Kingdom|Queen Elizabeth II]] delay her tour of Canada, and asked [[Governor General of Canada|Governor General]] [[Jeanne Sauvé]] to dissolve Parliament on July 9.<ref>{{Cite web |title=The Sun - Google News Archive Search |url=https://news.google.com/newspapers?nid=3DOefFFSZ7MC&dat=19840709&printsec=frontpage&hl=en |access-date=2022-08-14 |website=news.google.com |archive-date=August 14, 2022 |archive-url=https://web.archive.org/web/20220814000851/https://news.google.com/newspapers?nid=3DOefFFSZ7MC&dat=19840709&printsec=frontpage&hl=en |url-status=live }}</ref> In accordance with Canadian constitutional practice, Sauvé granted the request and set the election for September 4.
+
+===Name changes for electoral districts===
+The following ridings had their names changed between the 1980 and 1984 elections:<ref>{{cite web |author=<!-- not stated --> |date= |title=Legal measures governing changes in federal electoral districts  |url= https://lop.parl.ca/sites/ParlInfo/default/en_CA/legislation/legalMeasuresDistricts|website= lop.parl.ca |publisher= [[Library of Parliament]] (ParlInfo)|access-date=March 31, 2025}}</ref>
+
+{|class="wikitable"
+|-
+! Former name !! Changed to
+|-
+|[[Argenteuil (electoral district)|Argenteuil]] ||[[Argenteuil—Papineau]]
+|-
+|[[Berthier—Maskinongé]] ||[[Berthier—Maskinongé—Lanaudière]]
+|-
+|[[Cochrane (federal electoral district)|Cochrane]] ||[[Cochrane—Superior]]
+|-
+|[[Dauphin (Manitoba electoral district)|Dauphin]] ||[[Dauphin—Swan River]]
+|-
+|[[Hastings—Frontenac]] ||[[Hastings—Frontenac—Lennox and Addington]]
+|-
+|[[Hull (electoral district)|Hull]] ||[[Hull—Aylmer]]
+|-
+|[[Laprairie (electoral district)|Laprairie]] ||[[La Prairie (electoral district)|La Prairie]]
+|-
+|[[Mercier (electoral district)|Mercier]] ||[[Mercier (federal electoral district)|Montreal—Mercier]]
+|-
+|[[Missisquoi (federal electoral district)|Missisquoi]] ||[[Brome—Missisquoi (federal electoral district)|Brome—Missisquoi]]
+|-
+|[[Montmorency (federal electoral district)|Montmorency]] ||[[Montmorency—Orléans]]
+|-
+|[[Notre-Dame-de-Grâce (electoral district)|Notre-Dame-de-Grâce]] ||[[Notre-Dame-de-Grâce—Lachine East]]
+|-
+|[[Richmond—Wolfe|Richmond]] ||[[Richmond—Wolfe]]
+|-
+|[[Rimouski (electoral district)|Rimouski]] ||[[Rimouski—Témiscouata]]
+|-
+|[[Saint-Hyacinthe (electoral district)|Saint-Hyacinthe]] ||[[Saint-Hyacinthe—Bagot]]
+|-
+|[[Saint-Michel (electoral district)|Saint-Michel]] ||[[Saint-Michel—Ahuntsic]]
+|-
+|[[Sainte-Marie (federal electoral district)|Sainte-Marie]] ||[[Hochelaga (electoral district)|Montreal—Sainte-Marie]]
+|-
+|[[Sarnia—Lambton (federal electoral district)|Sarnia]] ||[[Sarnia—Lambton (federal electoral district)|Sarnia—Lambton]]
+|-
+|[[Verdun (electoral district)|Verdun]] ||[[Verdun—Saint-Paul]]
+|}
+
+==Campaign==
+===Contests===
+{| class="wikitable" style="text-align:right;"
+|+ Candidate contests in the ridings<ref>{{cite web |author=<!-- not stated --> |date= |title= General Election (1984-09-04)|url= https://lop.parl.ca/sites/ParlInfo/default/en_CA/ElectionsRidings/Elections/Profile?election=1984-09-04|website= lop.parl.ca|publisher= [[Library of Parliament]]|access-date=March 28, 2025}}</ref>
+!rowspan="2"|Candidates nominated !!rowspan="2"|Ridings !!colspan="16"|Party
+|-
+|{{Canadian party colour|CA|PC|background}} align="center" |'''PC'''
+|{{Canadian party colour|CA|Liberal|background}} align="center" |'''Lib'''
+|{{Canadian party colour|CA|NDP|background}} align="center" |'''NDP'''
+|{{Canadian party colour|CA|Independent|background}} align="center" |'''{{abbr|Ind|Independent or no affiliation}}'''
+|{{Canadian party colour|CA|Rhinoceros|background}} align="center" |'''Rhino'''
+|{{Canadian party colour|CA|Parti nationaliste|background}} align="center" |'''{{abbr|PNQ|Parti nationaliste du Québec}}'''
+|{{Canadian party colour|CA|Libertarian|background}} align="center" |'''{{abbr|Ltn|Libertarian}}'''
+|{{Canadian party colour|CA|PCC|background}} align="center" |'''{{abbr|PCC|Party for the Commonwealth of Canada}}'''
+|{{Canadian party colour|CA|Green|background}} align="center" |'''Green'''
+|{{Canadian party colour|CA|CoR|background}} align="center" |'''{{abbr|CoR|Confederation}}'''
+|{{Canadian party colour|CA|Social Credit|background}} align="center" |'''{{abbr|SC|Social Credit}}'''
+|{{Canadian party colour|CA|Communist|background}} align="center" |'''{{abbr|Comm|Communist}}'''
+!Totals
+|-
+| 3 ||47 || 47 || 47 || 47 || ||  ||  ||  ||  ||  ||  ||  ||  || 141
+|-
+| 4 ||65 || 65 || 65 || 65 || 18 || 4 || 8 || 13 || 3 || 3 || 13 || 3 ||  || 260
+|-
+| 5 ||58 || 58 || 58 || 58 || 11 || 15 || 15 || 19 || 9 || 14 || 13 || 10 || 10 || 290
+|-
+| 6 ||59 || 59 || 59 || 59 || 21 || 34 || 27 || 18 || 23 || 13 || 13 || 14 || 14 || 354
+|-
+| 7 ||31 || 31 || 31 || 31 || 9 || 18 || 12 || 11 || 18 || 19 || 9 || 14 || 14 || 217
+|-
+| 8 ||13 || 13 || 13 || 13 || 11 || 9 || 7 || 8 || 7 || 6 || 5 || 5 || 7 || 104
+|-
+| 9 ||8 || 8 || 8 || 8 || 11 || 8 || 5 || 2 || 5 || 4 || 2 || 5 || 6 || 72
+|-
+| 11 ||1 || 1 || 1 || 1 || 4 || 1 ||  || 1 || 1 || 1 ||  ||  ||  || 11
+|-
+| Total ||282 || 282 || 282 || 282 || 85 || 89 || 74 || 72 || 66 || 60 || 55 || 51 || 51 || 1,449
+|}
+
+===During the campaign===
+The Liberals' early lead began to slip as Turner made several prominent gaffes. In particular, he spoke of creating new "make work programs",<ref>{{Cite web|last=Bothwell|first=Robert|date=May 27, 2007|title=John Turner|url=https://www.thecanadianencyclopedia.ca/en/article/john-turner|url-status=live|archive-url=https://web.archive.org/web/20200615150412/https://thecanadianencyclopedia.ca/en/article/john-turner|archive-date=June 15, 2020|access-date=December 29, 2021|website=[[The Canadian Encyclopedia]]}}</ref> a concept from earlier decades that had been replaced by the less patronizing-sounding "[[job creation program]]s". He also was caught on camera patting Liberal Party president [[Iona Campagnolo]] on her posterior.{{citation needed|date=January 2025}} Turner defended this action as being a friendly gesture, but it was seen by many as condescending.
+
+Other voters turned against the Liberals due to their mounting legacy of [[patronage]] and [[Political corruption|corruption]]. An especially important issue was Trudeau's recommendation that Sauvé appoint over 200 Liberals to patronage posts just before he left office. This action enraged Canadians on all sides. Turner had the right to advise that the appointments be withdrawn, which Sauvé would have had to do according to constitutional convention. However, Turner not only didn't do so, but appointed more than 70 Liberals to patronage posts himself despite a promise to bring a new way of politics to Ottawa. He cited a written agreement with Trudeau, claiming that if Trudeau had made the appointments, the Liberals would have almost certainly lost the election. However, the fact that Turner [[dropping the writ|dropped the writ]] a year early hurt his argument.
+
+Turner found out that Mulroney was allegedly setting up a patronage machine in anticipation of victory. At the English-language televised debate between Mulroney, Turner and [[New Democratic Party]] leader [[Ed Broadbent]], Turner started to attack Mulroney on his patronage plans, comparing them to the patronage machine run by old [[Union Nationale (Quebec)|Union Nationale]] in Quebec. However, Mulroney turned the tables by pointing to the raft of patronage appointments made on the advice of Trudeau and Turner. Claiming that he'd gone so far as to apologize for making light of "these horrible appointments," Mulroney demanded that Turner apologize to the country for not cancelling the appointments advised by Trudeau and for recommending his own appointments. Turner was visibly surprised, and could only reply that "I had no option" except to let the appointments stand.<ref>{{cite web |last1= |first1= |title="I had no option": Turner flustered in 1984 election debate |url=https://www.cbc.ca/archives/entry/mulroney-attacks-turner-in-1984-election-debate |website=CBC |access-date=28 December 2021 |archive-date=December 29, 2021 |archive-url=https://web.archive.org/web/20211229000230/https://www.cbc.ca/archives/entry/mulroney-attacks-turner-in-1984-election-debate |url-status=live }}</ref> Mulroney famously responded:
+
+<blockquote>[[You had an option, sir]]. You could have said, 'I am not going to do it. This is wrong for Canada, and I am not going to ask Canadians to pay the price.' You had an option, sir—to say 'no'—and you chose to say 'yes' to the old attitudes and the old stories of the Liberal Party. That sir, if I may say respectfully, that is not good enough for Canadians.</blockquote>
+
+Turner, clearly flustered by this withering riposte from Mulroney, could only repeat "I had no option." A visibly angry Mulroney called this "an avowal of failure" and "a confession of non-leadership." He told Turner, "You had an option, sir. You could have done better." Mulroney's counterattack led most of the papers the next day; it was often paraphrased as "You had an option, sir; you could have said 'no'." Many observers saw this as the end of any realistic chance for Turner to stay in power.
+
+===Final days===
+{{Unreferenced section|date=September 2024}}
+The last days of the campaign saw multiple Liberal blunders pile together. Turner continued to refer to "make work projects" and made other gaffes that caused voters to see him as a relic from the past. Even Trudeau himself did not campaign for Turner, instead only making appearances to support Liberal candidates.
+
+Besides the Tories, the NDP also benefited from the slip in Liberal support. Under Broadbent, the party had seen greater support in opinion polling than ever before, and had actually replaced the Liberals as the second party in much of western Canada.
+
+==Opinion polling==
+{{main|Opinion polling for the 1984 Canadian federal election}}
+
+==National results==
+
+''All numerical results from [[Elections Canada]]'s Official Report on the Thirty-Third Election.''
+
+{| class="wikitable"
+|-
+| colspan="11" align="center"| [[File:1984 Canadian parliament.svg|center|300px]]
+|- style="background:#CCCCCC"
+!rowspan="2" colspan="2"|Party
+!rowspan="2"|Party leader
+!rowspan="2"|# of<br />candidates
+!colspan="4"|Seats
+!colspan="3"|Popular vote
+|- style="background:#CCCCCC"
+|align="center"|[[1980 Canadian federal election|1980]]
+|align="center"|<span style="font-size: 75%;">[[Dissolution of parliament|Dissolution]]</span>
+|align="center"|'''Elected'''
+|align="center"|% Change
+|align="center"|#
+|align="center"|%
+|align="center"|Change
+{{Canadian party colour|CA|PC|row}}
+| [[Progressive Conservative Party of Canada|Progressive Conservative]]
+| [[Brian Mulroney]]
+| align="right"|282
+| align="right"|103
+| align="right"|100
+| align="right"|'''211'''
+| align="right"|+104.9%
+| align="right"|6,278,818
+| align="right"|50.03%
+| align="right"| +17.59pp
+{{Canadian party colour|CA|Liberal|row}}
+| [[Liberal Party of Canada|Liberal]]
+| [[John Turner]]
+| align="right"|282
+| align="right"|147
+| align="right"|135
+| align="right"|'''40'''
+| align="right"|-72.8%
+| align="right"|3,516,486
+| align="right"|28.02%
+| align="right"|-16.32pp
+{{Canadian party colour|CA|NDP|row}}
+| [[New Democratic Party|New Democratic]]
+| [[Ed Broadbent]]
+| align="right"|282
+| align="right"|32
+| align="right"|31
+| align="right"|'''30'''
+| align="right"|-6.3%
+| align="right"|2,359,915
+| align="right"|18.81%
+| align="right"|-0.97pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan="2"|No affiliation<sup>1</sup>
+| align="right"|20
+| align="right"|-
+| align="right"|-
+| align="right"|'''1'''
+| align="right"|&nbsp;
+| align="right"|39,298
+| align="right"|0.31%
+| align="right"|+0.29pp
+{{Canadian party colour|CA|Rhinoceros (historical)|row-name}}
+| [[Cornelius the First]]
+| align="right"|88
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|99,178
+| align="right"|0.79%
+| align="right"|-0.22pp
+{{Canadian party colour|CA|Parti nationaliste|row}}
+| [[Parti nationaliste du Québec]]<sup>2</sup>
+| [[Denis Monière]]
+| align="right"|74
+| align="right"|*
+| align="right"|*
+| align="right"|-
+| align="right"|*
+| align="right"|85,865
+| align="right"|0.68%
+| align="right"|0.55pp
+{{Canadian party colour|CA|CoR|row-name}}
+| [[Elmer Knutson]]
+| align="right"|55
+| align="right"|*
+| align="right"|*
+| align="right"|-
+| align="right"|*
+| align="right"|65,655
+| align="right"|0.52%
+| align="right"|*
+{{Canadian party colour|CA|Green|row-name}}
+| [[Trevor Hancock]]
+| align="right"|60
+| align="right"|*
+| align="right"|*
+| align="right"|-
+| align="right"|*
+| align="right"|26,921
+| align="right"|0.21%
+| align="right"|*
+{{Canadian party colour|CA|Libertarian|row-name}}
+| Victor Levis
+| align="right"|72
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|23,514
+| align="right"|0.19%
+| align="right"|+0.05pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan="2"|Independent
+| align="right"|65
+| align="right"|-
+| align="right"|1
+| align="right"|-
+| align="right"|-
+| align="right"|22,067
+| align="right"|0.18%
+| align="right"|+0.04pp
+{{Canadian party colour|CA|Social Credit|row-name}}
+| [[Ken Sweigard]]
+| align="right"|51
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|16,659
+| align="right"|0.13%
+| align="right"|-1.56pp
+{{Canadian party colour|CA|Communist|row-name}}
+| [[William Kashtan]]
+| align="right"|51
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|7,479
+| align="right"|0.06%
+| align="right"|+x
+{{Canadian party colour|CA|PCC|row-name}}
+| [[Gilles Gervais]]
+| align="right"|66
+| align="right"|*
+| align="right"|*
+| align="right"|-
+| align="right"|*
+| align="right"|7,007
+| align="right"|0.06%
+| align="right"|*
+|-
+|rowspan="2"|&nbsp;&nbsp;&nbsp;&nbsp;
+|colspan="4"|Vacant
+|align="right"|15
+|align="center" colspan="5"|&nbsp;
+|-
+| colspan="2"|'''Total'''
+| align="right"|'''1,449'''
+| align="right"|'''282'''
+| align="right"|'''282'''
+| align="right"|'''282'''
+| align="right"|'''-'''
+| align="right"|'''12,548,862'''
+| align="right"|'''100%'''
+| align="right"| &nbsp;
+|-
+| align="center" colspan="11"|'''Sources:''' http://www.elections.ca—{{Dead link|date=July 2026 |bot=InternetArchiveBot }}[https://web.archive.org/web/20090609211221/http://www2.parl.gc.ca/Sites/LOP/HFER/hfer.asp?Language=E History of Federal Ridings since 1867]
+|-
+|}
+
+'''Notes:'''
+
+"% change" refers to change from previous election.
+
+x – less than 0.05% of the popular vote.
+
+<sup>1</sup> '''[[Tony Roman]]''' was elected in the Toronto-area riding of [[York North]] as a "coalition candidate", defeating incumbent PC MP [[John A. Gamble|John Gamble]]. Roman drew support from Progressive Conservatives who were upset by Gamble's [[Far-right politics|extreme-right-wing]] views.
+
+<sup>2</sup> Results of the Parti nationaliste du Québec are compared to those of the Union Populaire in the 1980 election.
+
+The [[Revolutionary Workers League/Ligue Ouvrière Révolutionnaire|Revolutionary Workers League]] fielded five candidates: Michel Dugré, Katy Le Rougetel, Larry Johnston, Bonnie Geddes and Bill Burgess. All appeared on the ballot as independent or non-affiliated candidates, as the party was unregistered.
+
+==Vote and seat summaries==
+{{Gallery
+|title=[[Ternary plot]]s - shift of electoral support (1980-1984)
+|width=350 | height=200 |noborder=yes
+|align=center
+|footer=Electoral districts identified by colours of winning parties
+|File:Ternary CA1980.svg
+ |1980
+ |alt1=Ternary plot of 1980 results
+|File:Ternary CA1984.svg
+ |1984
+ |alt2=Ternary plot of 1984 results
+}}
+
+{{Bar box
+| title    = Popular vote
+| titlebar = #ddd
+| width    = 600px
+| barwidth = 410px
+| bars     = 
+{{Bar percent|PC|#9999FF|50.03}}
+{{Bar percent|Liberal|#F08080|28.02}} 
+{{Bar percent|NDP|#F4A460|18.81}}
+{{Bar percent|Others|#DCDCDC|3.14}}
+}}
+
+{{Bar box
+| title    = Seat totals
+| titlebar = #ddd
+| width    = 600px
+| barwidth = 410px
+| bars     = 
+{{Bar percent|PC|#9999FF|74.82}}
+{{Bar percent|Liberal|#F08080|14.81}}
+{{Bar percent|NDP|#F4A460|10.63}}
+{{Bar percent|Independent|#DCDCDC|0.35}}
+}}
+
+==Results by province==
+
+{| class="wikitable"
+! align="center" colspan="3"|Party name
+! align="center"|[[British Columbia|BC]]
+! align="center"|[[Alberta|AB]]
+! align="center"|[[Saskatchewan|SK]]
+! align="center"|[[Manitoba|MB]]
+! align="center"|[[Ontario|ON]]
+! align="center"|[[Quebec|QC]]
+! align="center"|[[New Brunswick|NB]]
+! align="center"|[[Nova Scotia|NS]]
+! align="center"|[[Prince Edward Island|PE]]
+! align="center"|[[Newfoundland and Labrador|NL]]
+! align="center"|[[Northwest Territories|NT]]
+! align="center"|[[Yukon|YK]]
+! align="center"|Total
+{{Canadian party colour|CA|PC|row}}
+| rowspan="2"|[[Progressive Conservative Party of Canada|Progressive Conservative]]
+| Seats:
+| align="right"|19 <!--BC-->
+| align="right"|21 <!--Alb-->
+| align="right"|9 <!--Sask-->
+| align="right"|9 <!--Man-->
+| align="right"|67 <!--Ont-->
+| align="right"|58 <!--Que-->
+| align="right"|9 <!--NB-->
+| align="right"|9 <!--NS-->
+| align="right"|3 <!--PEI-->
+| align="right"|4 <!--NL-->
+| align="right"|2 <!--NT-->
+| align="right"|1 <!--YK-->
+| align="right"|211 <!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| Popular Vote:
+| align="right"|46.6 <!--BC-->
+| align="right"|68.8 <!--Alb-->
+| align="right"|41.7 <!--Sask-->
+| align="right"|43.2 <!--Man-->
+| align="right"|47.6 <!--Ont-->
+| align="right"|50.2 <!--Que-->
+| align="right"|53.6 <!--NB-->
+| align="right"|50.7 <!--NS-->
+| align="right"|52.0 <!--PEI-->
+| align="right"|57.6 <!--NL-->
+| align="right"|41.3 <!--NT-->
+| align="right"|56.8 <!--YK-->
+| align="right"|50.0 <!--Camada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| rowspan="2"|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| align="right"|1 <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"|- <!--Sask-->
+| align="right"|1 <!--Man-->
+| align="right"|14 <!--Ont-->
+| align="right"|17 <!--Que-->
+| align="right"|1 <!--NB-->
+| align="right"|2 <!--NS-->
+| align="right"|1 <!--PEI-->
+| align="right"|3 <!--NL-->
+| align="right"|- <!--NT-->
+| align="right"|- <!--YK-->
+| align="right"|40 <!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| Vote:
+| align="right"|16.4 <!--BC-->
+| align="right"|12.7 <!--Alb-->
+| align="right"|18.2 <!--Sask-->
+| align="right"|21.8 <!--Man-->
+| align="right"|29.8 <!--Ont-->
+| align="right"|35.4 <!--Que-->
+| align="right"|31.9 <!--NB-->
+| align="right"|33.6 <!--NS-->
+| align="right"|41.0 <!--PEI-->
+| align="right"|36.4 <!--NL-->
+| align="right"|26.9 <!--NT-->
+| align="right"|21.7 <!--YK-->
+| align="right"|28.0 <!--Camada/Total-->
+{{Canadian party colour|CA|NDP|row}}
+| rowspan="2"|[[New Democratic Party (Canada)|New Democratic Party]]
+| Seats:
+| align="right"|8 <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"|5 <!--Sask-->
+| align="right"|4 <!--Man-->
+| align="right"|13 <!--Ont-->
+| align="right"|- <!--Que-->
+| align="right"|- <!--NB-->
+| align="right"|- <!--NS-->
+| align="right"|- <!--PEI-->
+| align="right"|- <!--NL-->
+| align="right"|- <!--NT-->
+| align="right"|- <!--YK-->
+| align="right"|30 <!--Canada/Total-->
+{{Canadian party colour|CA|NDP|row}}
+| Vote:
+| align="right"|35.1 <!--BC-->
+| align="right"|14.1 <!--Alb-->
+| align="right"|38.4 <!--Sask-->
+| align="right"|27.2 <!--Man-->
+| align="right"|20.8 <!--Ont-->
+| align="right"|8.8 <!--Que-->
+| align="right"|14.1 <!--NB-->
+| align="right"|15.2 <!--NS-->
+| align="right"|6.5 <!--PEI-->
+| align="right"|5.8 <!--NL-->
+| align="right"|28.2 <!--NT-->
+| align="right"|16.1 <!--YK-->
+| align="right"|18.8 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan="2"|No affiliation
+| Seats:
+| align="right"|- <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"| &nbsp; <!--Sask-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"|1 <!--Ont-->
+| align="right"|- <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|- <!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"| &nbsp; <!--NT-->
+| align="right"| &nbsp; <!--YK-->
+| align="right"|1 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote:
+| align="right"|xx <!--BC-->
+| align="right"|0.2 <!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|0.8 <!--Ont-->
+| align="right"|xx <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|0.4 <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp;<!--NT-->
+| align="right"| &nbsp; <!--YK-->
+| align="right"|0.3 <!--Canada/Total-->
+|-
+| colspan="3"|'''Total seats:'''
+| align="right"|'''28''' <!--BC-->
+| align="right"|'''21''' <!--Alb-->
+| align="right"|'''14''' <!--Sask-->
+| align="right"|'''14''' <!--Man-->
+| align="right"|'''95'''<!--Ont-->
+| align="right"|'''75''' <!--Que-->
+| align="right"|'''10''' <!--NB-->
+| align="right"|'''11''' <!--NS-->
+| align="right"|'''4''' <!--PEI-->
+| align="right"|'''7''' <!--NL-->
+| align="right"|'''2''' <!--NT-->
+| align="right"|'''1''' <!--YK-->
+| align="right"|'''282''' <!--Canada/Total-->
+|-
+| colspan="16"|'''Parties that won no seats:'''
+{{Canadian party colour|CA|Rhinoceros (historical)|row-name}}
+| Vote:
+| align="right"|0.4 <!--BC-->
+| align="right"|0.4 <!--Alb-->
+| align="right"|0.2 <!--Sask-->
+| align="right"|0.2 <!--Man-->
+| align="right"|0.1 <!--Ont-->
+| align="right"|2.4 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|0.3 <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|1.1 <!--YK-->
+| align="right"|0.8 <!--Camada/Total-->
+{{Canadian party colour|CA|Parti nationaliste|row}}
+| [[Parti nationaliste du Québec|Nationaliste]]
+| Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|2.5 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.7 <!--Canada/Total-->
+{{Canadian party colour|CA|CoR|row-name}}
+| Vote:
+| align="right"|0.2 <!--BC-->
+| align="right"|2.2 <!--Alb-->
+| align="right"|1.3 <!--Sask-->
+| align="right"|6.7 <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.5 <!--Canada/Total-->
+{{Canadian party colour|CA|Green|row-name}}
+| Vote:
+| align="right"|0.6 <!--BC-->
+| align="right"|0.3 <!--Alb-->
+| align="right"|0.1 <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|0.3 <!--Ont-->
+| align="right"|0.1 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|0.1 <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.2 <!--Canada/Total-->
+{{Canadian party colour|CA|Libertarian|row-name}}
+| Vote:
+| align="right"|0.3 <!--BC-->
+| align="right"|0.1 <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|0.4 <!--Man-->
+| align="right"|0.3 <!--Ont-->
+| align="right"|0.1 <!--Que-->
+| align="right"|0.1 <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|0.1 <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|4.4 <!--YK-->
+| align="right"|0.2 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Independent
+| Vote:
+| align="right"|0.1 <!--BC-->
+| align="right"|0.5 <!--Alb-->
+| align="right"|0.1 <!--Sask-->
+| align="right"|0.4 <!--Man-->
+| align="right"|0.1 <!--Ont-->
+| align="right"|0.1 <!--Que-->
+| align="right"|0.3 <!--NB-->
+| align="right"|0.1 <!--NS-->
+| align="right"|0.1 <!--PEI-->
+| align="right"|0.1 <!--NL-->
+| align="right"|3.5 <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.2 <!--Canada/Total-->
+{{Canadian party colour|CA|Social Credit|row-name}}
+| Vote:
+| align="right"|0.2 <!--BC-->
+| align="right"|0.6 <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|0.1 <!--Ont-->
+| align="right"|0.2 <!--Que-->
+| align="right"|0.1 <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.1 <!--Canada/Total-->
+{{Canadian party colour|CA|Communist|row-name}}
+| Vote:
+| align="right"|0.1 <!--BC-->
+| align="right"|0.1 <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|0.1 <!--Man-->
+| align="right"|0.1 <!--Ont-->
+| align="right"|0.1 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.1 <!--Canada/Total-->
+{{Canadian party colour|CA|PCC|row-name}}
+| Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|0.2 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.0 <!--Canada/Total-->
+|}
+
+===Notes===
+* '''Number of parties''': 11
+** '''First appearance''': [[Confederation of Regions Party of Canada]], [[Green Party of Canada]], [[Party for the Commonwealth of Canada]]
+** '''Final appearance''': ''none''
+** '''First-and-only appearance''': [[Parti nationaliste du Québec]]
+:: {{Further|Parti nationaliste du Québec candidates in the 1984 Canadian federal election}}
+
+===10 closest ridings===
+# '''[[Renfrew—Nipissing—Pembroke (federal electoral district)|Renfrew—Nipissing—Pembroke]], ON''': [[Len Hopkins]] (Lib) def. Don Whillans (PC) by 38 votes 
+# '''[[Ottawa Centre (federal electoral district)|Ottawa Centre]], ON''': [[Michael Cassidy (Canadian politician)|Mike Cassidy]] (NDP) def. Dan Chilcott (PC) by 54 votes 
+# '''[[Nunavut (electoral district)|Nunatsiaq]], NT''': [[Thomas Suluk]] (PC) def. Robert Kuptana (Lib) by 247 votes 
+# '''[[Prince Albert (federal electoral district)|Prince Albert]], SK''': [[Stan Hovdebo]] (NDP) def. Gordon Dobrowolsky (PC) by 297 votes 
+# '''[[Burin—St. George's]], NF''': [[Joe Price (politician)|Joe Price]] (PC) def. [[Roger Simmons]] (Lib) by 299 votes 
+# '''[[The Battlefords—Meadow Lake]], SK''': [[John Kenneth Gormley|John Gormley]] (PC) def. [[Doug Anguish]] (NDP) by 336 votes 
+# '''[[Willowdale (federal electoral district)|Willowdale]], ON''': [[John Oostrom]] (PC) def. [[Jim Peterson]] (Lib) by 362 votes 
+# '''[[Saskatoon East]], SK''': [[Don Ravis]] (PC) def. Colin Clay (NDP) by 417 votes 
+# '''[[Humber—Port au Port—St. Barbe]], NF''': [[Brian Tobin]] (Lib) def. Mike Monaghan (PC) by 493 votes 
+# '''[[Mackenzie (federal electoral district)|Mackenzie]], SK''': [[Jack Scowen]] (PC) def. Mel McCorriston (NDP) by 555 votes
+
+==Results analysis==
+===Liberals===
+{{Unreferenced section|date=September 2024}}
+Turner's inability to overcome the alleged resentment against Trudeau, combined with his own mistakes, resulted in a debacle for the Liberals. They lost over a third of their popular vote from [[1980 Canadian federal election|1980]], falling from 44 per cent to 28 per cent. Their seat count fell from 135 at dissolution to 40, a loss of 95 seats—the worst defeat of a sitting government in Canadian history at the time (in terms of percentage of seats lost), and among the worst defeats ever suffered by a governing party in a Westminster system. It was the worst performance in their long history at the time; the 40 seats would be their smallest seat count until they won only 34 seats in [[2011 Canadian federal election|2011]], when they fell to third place in the seat count for the first time at the national level. Eleven members of Turner's cabinet were defeated.
+
+Despite their hopes of winning more support in the West, the Liberals won only two seats west of Ontario. One of those belonged to Turner, who defeated Tory incumbent [[Bill Clarke (politician)|Bill Clarke]] in [[Vancouver Quadra]] by a fairly solid 3,200-vote margin. The other belonged to [[Lloyd Axworthy]], who was re-elected in [[Winnipeg—Fort Garry]] by 2,300 votes.
+
+Particularly shocking was the decimation of the Liberals in Quebec. They won only 17 seats, all but four in and around [[Montreal]]. The province had been the bedrock of Liberal support for almost a century; the 1958 Tory landslide was the only time since the [[1896 Canadian federal election|1896 election]] that the Liberals had not won the most seats in Quebec. They would not win the most seats in the province again until the [[2015 Canadian federal election|2015 election]] (though they won the province's popular vote in [[2000 Canadian federal election|2000]]). In Ontario, the Liberals won only 14 seats, nearly all of them in [[Metro Toronto]].
+
+===Progressive Conservatives===
+{{Unreferenced section|date=September 2024}}
+Early in the election, Mulroney focused on adding [[Quebec nationalism|Quebec nationalists]] to the traditional Tory coalition of western populist conservatives and fiscal conservatives from Ontario and the Atlantic provinces.
+
+This strategy, as well as denouncing alleged corruption in the Liberal government, resulted in a major windfall for the Tories. They won 211 seats, three more than their previous record of 208 in 1958-the only other time a Canadian party won 200 seats at an election. They won both a majority of seats and at least a plurality of the popular vote in every province and territory, the only time in Canadian history a party has achieved this (the nearest previous occasion being in 1949, when only Alberta kept the Liberals from a clean sweep). They also won just over half the popular vote, the last time to date that a Canadian party has won a majority of the popular vote.
+
+The Tories had a major breakthrough in Quebec, a province where they had been virtually unelectable for almost a century. However, Mulroney's promise of a new deal for Quebec caused the province to swing dramatically to support him. After winning only one seat out of 75 in 1980, the Tories won 58 seats in 1984, eight more than they had won in 1958, their previous high water mark in the province. In many cases, ridings where few living residents had ever been represented by a Tory elected them by margins similar to those the Liberals had scored for years.
+
+===New Democrats===
+{{Unreferenced section|date=September 2024}}
+The NDP had a net loss of one seat, which was far better than expected considering the size of the PC tidal wave. Historically, third parties do not do well in landslides, especially in a first-past-the-post system that awards power solely based on seat count. Despite losing less than a percentage point in terms of total vote share, the NDP still finished with less than two-thirds of the Liberals' popular vote. However, the NDP vote proved itself to be much more efficient since it was not as evenly distributed across the country. While they were a distant third everywhere east of Ontario, the NDP won only one seat fewer than the Liberals in Ontario despite finishing a distant third there as well. In Western Canada, the NDP lost seats to the Tories but was by far the second-largest party behind the Tories. Some NDP incumbents essentially held on to their own share of the vote, and simply had to survive a [[Swing (politics)|swing]] from Liberal to PC which in many cases proved insufficient to unseat the sitting NDP MP.
+
+More importantly, their 30 seats were only ten behind the Liberals. Although the NDP had long since established itself as the third major party in Canada, this was closer than any party had gotten to the Grits or Tories since 1921, when the [[Progressive Party of Canada|Progressive Party]] briefly surpassed the Tories. This led to speculation that Canada was headed for a [[United Kingdom|UK]]-style [[Labour Party (UK)|Labour]]–[[Conservative Party (UK)|Conservative]] division, with the NDP knocking the Liberals down to third-party status. It would be as close as the NDP would get to becoming the Official Opposition until 2011, when the party gained the second-most seats in the House of Commons and the majority of seats in Quebec.
+
+===Other parties===
+{{More citations needed section|date=September 2024}}
+The [[Social Credit Party of Canada|Social Credit Party]], which for a long time had been the country's fourth-largest (and occasionally even third-largest) party, suffered a massive drop-off in support from the previous election, in which it had already lost a major share of the vote and all of its remaining MPs. Having performed poorly in various by-elections in the years that followed, the party suffered a blow to its image in June 1983, when the party executive voted to re-admit a faction led by [[holocaust denial|Holocaust denier]] [[James Keegstra]]. Party leader [[Martin Hattersley]] resigned in protest. He was replaced on an interim basis by [[Ken Sweigard]], who publicly endorsed Keegstra's role in the party (if not his personal views) and allowed him to run as the Social Credit candidate in [[Red Deer (federal electoral district)|Red Deer]]. This, along with Sweigard instituting a new party-wide policy of not engaging with the press, caused the drop in support that had begun at the previous election to accelerate dramatically.<ref>Red Deer Advocate: [https://www.reddeeradvocate.com/life/lookback-giant-tomato-grown-100-years-ago/ LOOKBACK: Giant tomato grown 100 years ago] {{Webarchive|url=https://web.archive.org/web/20230824104927/https://www.reddeeradvocate.com/life/lookback-giant-tomato-grown-100-years-ago/ |date=August 24, 2023 }}</ref>
+
+In Quebec, most of the support which had helped keep the party viable in its final years turned to the Progressive Conservatives. The party essentially disappeared there, essentially reverting to being a western-based party.
+
+What remained of the party was in such a state that it was unable to hold a leadership convention as originally planned in September 1983, extending Swiegard's interim leadership to 1986. Social Credit thus entered the election in a precarious position. It had not had a full-time leader in over a year, and was only able to run 52 candidates in 51 ridings (with two Socreds standing in a British Columbia seat), its second-smallest slate since first running candidates east of Manitoba four decades earlier, and barely enough to allow Social Credit to retain its party registration. Even among Quebec ridings it had won as recently as 1979, it only fielded one candidate.
+
+The party lost 92 per cent of its vote from 1980 and dropped from fourth place to ninth in the popular vote. None of its candidates came remotely close to being elected; its lone candidate in its former Quebec stronghold finished last. For all intents and purposes, this was the end of Social Credit as a viable national party. It would make a desultory final appearance in [[1988 Canadian federal election|1988]] before collapsing altogether in 1993.
+
+The satirical [[Rhinoceros Party of Canada (1963–93)|Rhinoceros Party]], despite a slight drop in their popular vote tally from the previous election, recorded its highest-ever finish at a general election, finishing as the fourth-largest party. Of the minor parties, only the [[Parti nationaliste du Québec]] and the [[Confederation of Regions Party of Canada]] managed to record more votes per candidate than the Rhinos, and even then only by small margins.
+
+The [[Parti nationaliste du Québec]], a successor to the previous Quebec-nationalist [[Union populaire]] party, ran for the first (and, ultimately, only) time in this election. Despite getting nearly six times the votes that their predecessors did in 1980, and finishing fifth in the popular vote, like the Socreds they proved unable to compete with the Progressive Conservatives, and failed to win any seats. The party would eventually collapse in 1987, though several of its members, along with dissident Tories and Liberals, would go on to found the more successful [[Bloc Québécois]].
+
+The [[Confederation of Regions Party of Canada]], formed mostly by disaffected former Socreds, were another party who debuted in this election. While they placed sixth in the popular vote and attracted a little over quadruple the vote of their forerunners, they still failed to seriously challenge for any seats. Much like the Socreds, they too disappeared from the national scene after 1988, though they continued on a regional level for several years afterwards.
+
+==See also==
+{{Portal|Canada|Politics}} 
+*[[List of Canadian federal general elections]]
+*[[List of political parties in Canada]]
+*[[Leaders' debate on women's issues during the 1984 Canadian federal election campaign]]
+
+''Articles on parties' candidates in this election:''
+{{div col|colwidth=15em}}
+* [[Party for the Commonwealth of Canada candidates, 1984 Canadian federal election|Commonwealth]]
+* [[Communist Party of Canada candidates, 1984 Canadian federal election|Communist]]
+* [[Libertarian Party of Canada candidates, 1984 Canadian federal election|Libertarian]]
+* [[Liberal Party of Canada candidates, 1984 Canadian federal election|Liberal]]
+* [[Social Credit Party of Canada candidates, 1984 Canadian federal election|Social Credit]]
+* [[Progressive Conservative Party of Canada candidates, 1984 Canadian federal election|Progressive Conservative]]
+* [[Rhinoceros Party of Canada candidates, 1984 Canadian federal election|Rhinoceros]]
+{{div col end}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+=== Books ===
+* {{cite book |editor1-last=Byers |editor1-first=R. B. |title=Canadian Annual Review of Politics and Public Affairs. 1984 |date=1987 |publisher=University of Toronto Press |location=Toronto |isbn=978-1-4426-7197-3}}
+* {{cite book |last1=Fletcher |first1=Frederick J. |title=Media and voters in Canadian election campaigns |date=1991 |publisher=Dundurn Press |location=Toronto |isbn=978-1-4597-2602-4 |url=https://archive.org/details/39250615060049 |url-access=registration}}
+* {{cite book |last1=Frizzell |first1=Alan |last2=Westell |first2=Anthony |title=The Canadian General Election of 1984: Politicians, Parties, Press and Polls |date=1985 |publisher=Dundurn Press |location=Ottawa |isbn=978-1-4597-2754-0 |url=https://archive.org/details/bwb_0-88629-036-8 |url-access=registration}}
+* {{cite book |last1=Lynch |first1=Charles |author1-link=Charles Lynch (journalist) |title=Race for the Rose: Election 1984 |date=1984 |publisher=Methuen |location=Toronto |isbn=978-0-458-98460-2 |url=https://archive.org/details/raceforrosejohnt0000lync |url-access=registration}}
+* {{cite book |editor1-last=Penniman |editor1-first=Howard |title=Canada at the Polls, 1984: A Study of the Federal General Elections |date=1988 |publisher=Duke University Press |location=Durham |isbn=978-0-8223-0805-8 |url=https://archive.org/details/canadaatpolls1980000unse |url-access=registration}}
+
+=== Journal articles ===
+* {{cite journal |last1=Gibbins |first1=Roger |last2=Knopff |first2=Rainer |last3=Morton |first3=F. L. |title=Canadian Federalism, the Charter of Rights, and the 1984 Election |journal=Publius |date=1985 |volume=15 |issue=3 |pages=155–169 |issn=0048-5950 |jstor=3329984 |doi=10.1093/oxfordjournals.pubjof.a037553}}
+* {{cite journal |last1=Krashinsky |first1=Michael |last2=Milne |first2=William J. |title=The Effect of Incumbency in the 1984 Federal and 1985 Ontario Elections |journal=Canadian Journal of Political Science / Revue canadienne de science politique |date=1986 |volume=19 |issue=2 |pages=337–343 |issn=0008-4239 |jstor=3227507 |doi=10.1017/S0008423900054056}}
+* {{cite journal |last1=Studlar |first1=Donley T. |last2=Matland |first2=Richard E. |title=The Growth of Women's Representation in the Canadian House of Commons and the Election of 1984: A Reappraisal |journal=Canadian Journal of Political Science / Revue canadienne de science politique |date=1994 |volume=27 |issue=1 |pages=53–79 |issn=0008-4239 |jstor=3229259 |doi=10.1017/S0008423900006211}}
+
+=== Government reports ===
+* {{cite report |author1=Canada, Chief Electoral Officer |title=Thirty-Third General Election, 1984: Report of the Chief Electoral Officer |date=1984 |publisher=Queen's Printer |location=Ottawa |url=https://archive.org/details/31761115529752 }}
+* {{cite report |author1=Canada, Chief Electoral Officer |title=Thirty-Third General Election, 1984: Report of the Chief Electoral Officer - Respecting Election Expenses |date=1984 |publisher=Queen's Printer |location=Ottawa |url=https://archive.org/details/31761115530149 }}
+
+==External links==
+*[https://web.archive.org/web/20060213092046/http://atlas.gc.ca/site/english/maps/archives/5thedition/peopleandsociety/politicalgeography/mcr4110 Riding map]
+
+{{Canadian federal election, 1984A}}
+{{Canada elections}}
+{{Brian Mulroney}}
+
+{{DEFAULTSORT:Canadian federal election, 1984}}
+[[Category:1984 Canadian federal election| ]]
+[[Category:Canadian federal elections by year|1984]]
+[[Category:1984 elections in Canada|Federal]]
+[[Category:September 1984 in Canada]]

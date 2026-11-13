@@ -1,0 +1,3142 @@
+{
+  "_meta": {
+    "source": "Elections Canada (turnout, electors, ballots, dates; A History of the Vote in Canada for milestones in who could vote); English Wikipedia: List of Canadian federal elections, each election's article, List of women elected to Canadian Parliament",
+    "url": "https://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e",
+    "urls": [
+      "https://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e",
+      "https://en.wikipedia.org/wiki/List_of_Canadian_federal_elections",
+      "https://en.wikipedia.org/wiki/List_of_women_elected_to_Canadian_Parliament",
+      "https://en.wikipedia.org/wiki/1867_Canadian_federal_election",
+      "https://www.elections.ca/content.aspx?section=res&dir=his&document=index&lang=e"
+    ],
+    "licence": "Open Government Licence – Canada (Elections Canada); CC BY-SA 4.0 (Wikipedia)",
+    "script": "scripts/data/election-history.ts",
+    "notes": [
+      "Turnout, electors and ballots cast are Elections Canada's figures. Dates are the last polling day.",
+      "Seats by party family come from Wikipedia's list of federal elections, regrouped by the families in src/lib/party-families.ts. Green seats come from each election's infobox.",
+      "Vote shares are the parties shown in each election's Wikipedia infobox, summed by family; everything else is in 'other'. Before about 1900 many seats were won by acclamation, so vote shares are less comparable.",
+      "Majority: the governing party's own seats are at least half the House plus one. Allies (Liberal-Progressives in 1926, Independent Liberals in 1945) aren't counted.",
+      "Women elected: the number of women elected at each general election, not counting by-elections, from Wikipedia's list, which counts them three ways; the figure two of them agree on is used. Women couldn't be elected to the House before 1919, so it's 0 before 1921.",
+      "Sources disagree, 1872: Liberal seats: 95 in the list, 94 in the election article's infobox.",
+      "Sources disagree, 1882: Conservative-family seats: 134 in the list, 133 in the election article's infobox.",
+      "Sources disagree, 1887: Liberal seats: 80 in the list, 79 in the election article's infobox.",
+      "Sources disagree, 1887: Conservative-family seats: 124 in the list, 123 in the election article's infobox.",
+      "Sources disagree, 1891: Conservative-family seats: 118 in the list, 117 in the election article's infobox.",
+      "Sources disagree, 1921: the list's seat columns add up to 238, but its total is 235; \"other\" adjusted by -3.",
+      "Sources disagree, 1930: the list's seat columns add up to 246, but its total is 245; \"other\" adjusted by -1.",
+      "Sources disagree, 1930: Liberal seats: 88 in the list, 89 in the election article's infobox.",
+      "Sources disagree, 1930: Conservative-family seats: 134 in the list, 137 in the election article's infobox.",
+      "Sources disagree, 1958: Liberal seats: 49 in the list, 48 in the election article's infobox.",
+      "Sources disagree, 1968: Liberal seats: 155 in the list, 154 in the election article's infobox.",
+      "Sources disagree, 2000: turnout is 61.2% at Elections Canada and 64.1% on Wikipedia; Elections Canada's footnote explains the adjustment, and its figure is used.",
+      "Women elected, 1935: Wikipedia's proportion table gives a total of 2 and party columns adding up to 1; its member tables give 2. 2 is used.",
+      "Women elected, 1980: Wikipedia's proportion table gives a total of 14 and party columns adding up to 10; its member tables give 14. 14 is used.",
+      "Women elected, 1997: Wikipedia's proportion table gives a total of 61 and party columns adding up to 61; its member tables give 62. 61 is used.",
+      "Women elected, 2000: Wikipedia's proportion table gives a total of 81 and party columns adding up to 62; its member tables give 62. 62 is used.",
+      "Women elected, 2011: Wikipedia's proportion table gives a total of 76 and party columns adding up to 76; its member tables give 74. 76 is used.",
+      "Women elected, 2019: Wikipedia's proportion table gives a total of 99 and party columns adding up to 97; its member tables give 98. 98 is used.",
+      "Elections Canada footnote 1: In early elections, polling took place over several weeks or even months."
+    ],
+    "fetched": "2026-11-13"
+  },
+  "elections": [
+    {
+      "number": 1,
+      "year": 1867,
+      "date": "1867-09-20",
+      "dateLabel": "7 August – 20 September 1867",
+      "houseSize": 180,
+      "seatsInHouse": 181,
+      "majority": 91,
+      "seats": {
+        "lpc": 62,
+        "cpc": 100,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 18
+      },
+      "vote": {
+        "lpc": 22.7,
+        "cpc": 35,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 42.3
+      },
+      "parties": [
+        {
+          "name": "Conservative and Liberal-Conservative",
+          "family": "cpc",
+          "seats": 100,
+          "vote": 35
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 62,
+          "vote": 22.7
+        }
+      ],
+      "turnout": 73.1,
+      "electors": 361028,
+      "ballots": 268387,
+      "government": {
+        "party": "Conservative",
+        "family": "cpc",
+        "primeMinister": "John A. Macdonald",
+        "pmOrdinal": 1,
+        "seats": 100,
+        "type": "majority"
+      },
+      "women": 0,
+      "note": "The House had 181 seats, but no member was returned for Kamouraska, where the election was called off after rioting, so 180 were filled. Many seats were won by acclamation, so vote shares are a rough guide.",
+      "nextElection": "1872-10-12",
+      "daysToNext": 1849
+    },
+    {
+      "number": 2,
+      "year": 1872,
+      "date": "1872-10-12",
+      "dateLabel": "20 July – 12 October 1872",
+      "houseSize": 200,
+      "seatsInHouse": 200,
+      "majority": 101,
+      "seats": {
+        "lpc": 95,
+        "cpc": 100,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 5
+      },
+      "vote": {
+        "lpc": 34.7,
+        "cpc": 38.7,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 26.6
+      },
+      "parties": [
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 100,
+          "vote": 38.7
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 94,
+          "vote": 34.7
+        }
+      ],
+      "turnout": 70.3,
+      "electors": 426974,
+      "ballots": 318329,
+      "government": {
+        "party": "Conservative",
+        "family": "cpc",
+        "primeMinister": "John A. Macdonald",
+        "pmOrdinal": 1,
+        "seats": 100,
+        "type": "minority"
+      },
+      "women": 0,
+      "note": "Exactly half the seats. Contemporary party labels were loose, and Macdonald governed until the Pacific Scandal in 1873.",
+      "nextElection": "1874-01-22",
+      "daysToNext": 467
+    },
+    {
+      "number": 3,
+      "year": 1874,
+      "date": "1874-01-22",
+      "dateLabel": "22 January 1874",
+      "houseSize": 206,
+      "seatsInHouse": 206,
+      "majority": 104,
+      "seats": {
+        "lpc": 129,
+        "cpc": 65,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 12
+      },
+      "vote": {
+        "lpc": 39.5,
+        "cpc": 30.1,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 30.4
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 129,
+          "vote": 39.5
+        },
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 65,
+          "vote": 30.1
+        }
+      ],
+      "turnout": 69.6,
+      "electors": 432410,
+      "ballots": 324006,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Alexander Mackenzie",
+        "pmOrdinal": 2,
+        "seats": 129,
+        "type": "majority"
+      },
+      "women": 0,
+      "nextElection": "1878-09-17",
+      "daysToNext": 1699
+    },
+    {
+      "number": 4,
+      "year": 1878,
+      "date": "1878-09-17",
+      "dateLabel": "17 September 1878",
+      "houseSize": 206,
+      "seatsInHouse": 206,
+      "majority": 104,
+      "seats": {
+        "lpc": 63,
+        "cpc": 134,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 9
+      },
+      "vote": {
+        "lpc": 33.1,
+        "cpc": 42.1,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 24.9
+      },
+      "parties": [
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 134,
+          "vote": 42.06
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 63,
+          "vote": 33.05
+        }
+      ],
+      "turnout": 69.1,
+      "electors": 715279,
+      "ballots": 534029,
+      "government": {
+        "party": "Conservative",
+        "family": "cpc",
+        "primeMinister": "John A. Macdonald",
+        "pmOrdinal": 1,
+        "seats": 134,
+        "type": "majority"
+      },
+      "women": 0,
+      "nextElection": "1882-06-20",
+      "daysToNext": 1372
+    },
+    {
+      "number": 5,
+      "year": 1882,
+      "date": "1882-06-20",
+      "dateLabel": "20 June 1882",
+      "houseSize": 211,
+      "seatsInHouse": 211,
+      "majority": 106,
+      "seats": {
+        "lpc": 73,
+        "cpc": 134,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 4
+      },
+      "vote": {
+        "lpc": 31.1,
+        "cpc": 40.4,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 28.5
+      },
+      "parties": [
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 133,
+          "vote": 40.4
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 73,
+          "vote": 31.1
+        }
+      ],
+      "turnout": 70.3,
+      "electors": 663873,
+      "ballots": 508496,
+      "government": {
+        "party": "Conservative",
+        "family": "cpc",
+        "primeMinister": "John A. Macdonald",
+        "pmOrdinal": 1,
+        "seats": 134,
+        "type": "majority"
+      },
+      "women": 0,
+      "nextElection": "1887-02-22",
+      "daysToNext": 1708
+    },
+    {
+      "number": 6,
+      "year": 1887,
+      "date": "1887-02-22",
+      "dateLabel": "22 February 1887",
+      "houseSize": 215,
+      "seatsInHouse": 215,
+      "majority": 108,
+      "seats": {
+        "lpc": 80,
+        "cpc": 124,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 11
+      },
+      "vote": {
+        "lpc": 43.1,
+        "cpc": 47.4,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 9.5
+      },
+      "parties": [
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 123,
+          "vote": 47.4
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 79,
+          "vote": 43.1
+        }
+      ],
+      "turnout": 70.1,
+      "electors": 948222,
+      "ballots": 724517,
+      "government": {
+        "party": "Conservative",
+        "family": "cpc",
+        "primeMinister": "John A. Macdonald",
+        "pmOrdinal": 1,
+        "seats": 124,
+        "type": "majority"
+      },
+      "women": 0,
+      "nextElection": "1891-03-05",
+      "daysToNext": 1472
+    },
+    {
+      "number": 7,
+      "year": 1891,
+      "date": "1891-03-05",
+      "dateLabel": "5 March 1891",
+      "houseSize": 215,
+      "seatsInHouse": 215,
+      "majority": 108,
+      "seats": {
+        "lpc": 90,
+        "cpc": 118,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 7
+      },
+      "vote": {
+        "lpc": 45.2,
+        "cpc": 48.6,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 6.2
+      },
+      "parties": [
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 117,
+          "vote": 48.6
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 90,
+          "vote": 45.2
+        }
+      ],
+      "turnout": 64.4,
+      "electors": 1113140,
+      "ballots": 778495,
+      "government": {
+        "party": "Conservative",
+        "family": "cpc",
+        "primeMinister": "John A. Macdonald",
+        "pmOrdinal": 1,
+        "seats": 118,
+        "type": "majority"
+      },
+      "women": 0,
+      "nextElection": "1896-06-23",
+      "daysToNext": 1937
+    },
+    {
+      "number": 8,
+      "year": 1896,
+      "date": "1896-06-23",
+      "dateLabel": "23 June 1896",
+      "houseSize": 213,
+      "seatsInHouse": 213,
+      "majority": 107,
+      "seats": {
+        "lpc": 117,
+        "cpc": 86,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 10
+      },
+      "vote": {
+        "lpc": 41.4,
+        "cpc": 48.2,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 10.4
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 117,
+          "vote": 41.4
+        },
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 86,
+          "vote": 48.2
+        }
+      ],
+      "turnout": 62.9,
+      "electors": 1358328,
+      "ballots": 912992,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Wilfrid Laurier",
+        "pmOrdinal": 7,
+        "seats": 117,
+        "type": "majority"
+      },
+      "women": 0,
+      "nextElection": "1900-11-07",
+      "daysToNext": 1597
+    },
+    {
+      "number": 9,
+      "year": 1900,
+      "date": "1900-11-07",
+      "dateLabel": "7 November 1900",
+      "houseSize": 213,
+      "seatsInHouse": 213,
+      "majority": 107,
+      "seats": {
+        "lpc": 128,
+        "cpc": 79,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 6
+      },
+      "vote": {
+        "lpc": 50.3,
+        "cpc": 46.1,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 3.6
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 128,
+          "vote": 50.3
+        },
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 79,
+          "vote": 46.1
+        }
+      ],
+      "turnout": 77.4,
+      "electors": 1167402,
+      "ballots": 958497,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Wilfrid Laurier",
+        "pmOrdinal": 7,
+        "seats": 128,
+        "type": "majority"
+      },
+      "women": 0,
+      "nextElection": "1904-11-03",
+      "daysToNext": 1457
+    },
+    {
+      "number": 10,
+      "year": 1904,
+      "date": "1904-11-03",
+      "dateLabel": "3 November 1904",
+      "houseSize": 214,
+      "seatsInHouse": 214,
+      "majority": 108,
+      "seats": {
+        "lpc": 137,
+        "cpc": 75,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 2
+      },
+      "vote": {
+        "lpc": 50.9,
+        "cpc": 45.9,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 3.2
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 137,
+          "vote": 50.9
+        },
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 75,
+          "vote": 45.9
+        }
+      ],
+      "turnout": 71.6,
+      "electors": 1385440,
+      "ballots": 1036878,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Wilfrid Laurier",
+        "pmOrdinal": 7,
+        "seats": 137,
+        "type": "majority"
+      },
+      "women": 0,
+      "nextElection": "1908-10-26",
+      "daysToNext": 1453
+    },
+    {
+      "number": 11,
+      "year": 1908,
+      "date": "1908-10-26",
+      "dateLabel": "26 October 1908",
+      "houseSize": 221,
+      "seatsInHouse": 221,
+      "majority": 111,
+      "seats": {
+        "lpc": 133,
+        "cpc": 85,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 3
+      },
+      "vote": {
+        "lpc": 48.9,
+        "cpc": 46.2,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 4.9
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 133,
+          "vote": 48.9
+        },
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 85,
+          "vote": 46.2
+        }
+      ],
+      "turnout": 70.3,
+      "electors": 1463591,
+      "ballots": 1180820,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Wilfrid Laurier",
+        "pmOrdinal": 7,
+        "seats": 133,
+        "type": "majority"
+      },
+      "women": 0,
+      "nextElection": "1911-09-21",
+      "daysToNext": 1060
+    },
+    {
+      "number": 12,
+      "year": 1911,
+      "date": "1911-09-21",
+      "dateLabel": "21 September 1911",
+      "houseSize": 221,
+      "seatsInHouse": 221,
+      "majority": 111,
+      "seats": {
+        "lpc": 85,
+        "cpc": 132,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 4
+      },
+      "vote": {
+        "lpc": 45.8,
+        "cpc": 48.6,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 5.6
+      },
+      "parties": [
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 132,
+          "vote": 48.56
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 85,
+          "vote": 45.82
+        }
+      ],
+      "turnout": 70.2,
+      "electors": 1820742,
+      "ballots": 1314953,
+      "government": {
+        "party": "Conservative",
+        "family": "cpc",
+        "primeMinister": "Robert Borden",
+        "pmOrdinal": 8,
+        "seats": 132,
+        "type": "majority"
+      },
+      "women": 0,
+      "nextElection": "1917-12-17",
+      "daysToNext": 2279
+    },
+    {
+      "number": 13,
+      "year": 1917,
+      "date": "1917-12-17",
+      "dateLabel": "17 December 1917",
+      "houseSize": 235,
+      "seatsInHouse": 235,
+      "majority": 118,
+      "seats": {
+        "lpc": 82,
+        "cpc": 153,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 0
+      },
+      "vote": {
+        "lpc": 38.8,
+        "cpc": 56.9,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 4.3
+      },
+      "parties": [
+        {
+          "name": "Unionist",
+          "family": "cpc",
+          "seats": 153,
+          "vote": 56.93
+        },
+        {
+          "name": "Laurier Liberals",
+          "family": "lpc",
+          "seats": 82,
+          "vote": 38.8
+        }
+      ],
+      "turnout": 75,
+      "electors": 2093799,
+      "ballots": 1892741,
+      "government": {
+        "party": "Unionist",
+        "family": "cpc",
+        "primeMinister": "Robert Borden",
+        "pmOrdinal": 8,
+        "seats": 153,
+        "type": "majority"
+      },
+      "women": 0,
+      "note": "A wartime Unionist coalition of Conservatives and pro-conscription Liberals, led by Borden. Counted in the Conservative family.",
+      "nextElection": "1921-12-06",
+      "daysToNext": 1450
+    },
+    {
+      "number": 14,
+      "year": 1921,
+      "date": "1921-12-06",
+      "dateLabel": "6 December 1921",
+      "houseSize": 235,
+      "seatsInHouse": 235,
+      "majority": 118,
+      "seats": {
+        "lpc": 118,
+        "cpc": 49,
+        "progressive": 61,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 7
+      },
+      "vote": {
+        "lpc": 41.2,
+        "cpc": 30,
+        "progressive": 21.9,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 7
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 118,
+          "vote": 41.15
+        },
+        {
+          "name": "Progressive",
+          "family": "progressive",
+          "seats": 58,
+          "vote": 21.09
+        },
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 49,
+          "vote": 29.95
+        },
+        {
+          "name": "Labour",
+          "family": "other",
+          "seats": 3,
+          "vote": 2.73
+        },
+        {
+          "name": "United Farmers of Alberta",
+          "family": "progressive",
+          "seats": 2,
+          "vote": 0.71
+        },
+        {
+          "name": "United Farmers of Ontario",
+          "family": "progressive",
+          "seats": 1,
+          "vote": 0.13
+        }
+      ],
+      "turnout": 67.7,
+      "electors": 4435310,
+      "ballots": 3139306,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "William Lyon Mackenzie King",
+        "pmOrdinal": 10,
+        "seats": 118,
+        "type": "majority"
+      },
+      "women": 1,
+      "note": "Exactly the 118 seats needed for a majority. By-elections soon pushed the government in and out of minority.",
+      "nextElection": "1925-10-29",
+      "daysToNext": 1423
+    },
+    {
+      "number": 15,
+      "year": 1925,
+      "date": "1925-10-29",
+      "dateLabel": "29 October 1925",
+      "houseSize": 245,
+      "seatsInHouse": 245,
+      "majority": 123,
+      "seats": {
+        "lpc": 100,
+        "cpc": 115,
+        "progressive": 24,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 6
+      },
+      "vote": {
+        "lpc": 39.7,
+        "cpc": 46.1,
+        "progressive": 8.7,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 5.4
+      },
+      "parties": [
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 115,
+          "vote": 46.13
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 100,
+          "vote": 39.74
+        },
+        {
+          "name": "Progressive",
+          "family": "progressive",
+          "seats": 22,
+          "vote": 8.45
+        },
+        {
+          "name": "Independent Labour",
+          "family": "other",
+          "seats": 2,
+          "vote": 1.81
+        },
+        {
+          "name": "United Farmers of Alberta",
+          "family": "progressive",
+          "seats": 2,
+          "vote": 0.26
+        }
+      ],
+      "turnout": 66.4,
+      "electors": 4608636,
+      "ballots": 3168412,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "William Lyon Mackenzie King",
+        "pmOrdinal": 10,
+        "seats": 100,
+        "type": "minority"
+      },
+      "women": 1,
+      "note": "The Conservatives won more seats, but King's Liberals stayed in office with Progressive support. This led to the King–Byng affair in 1926.",
+      "nextElection": "1926-09-14",
+      "daysToNext": 320
+    },
+    {
+      "number": 16,
+      "year": 1926,
+      "date": "1926-09-14",
+      "dateLabel": "14 September 1926",
+      "houseSize": 245,
+      "seatsInHouse": 245,
+      "majority": 123,
+      "seats": {
+        "lpc": 116,
+        "cpc": 91,
+        "progressive": 31,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 7
+      },
+      "vote": {
+        "lpc": 42.9,
+        "cpc": 45.4,
+        "progressive": 5.8,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 6
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 116,
+          "vote": 42.9
+        },
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 91,
+          "vote": 45.35
+        },
+        {
+          "name": "Progressive",
+          "family": "progressive",
+          "seats": 11,
+          "vote": 3.93
+        },
+        {
+          "name": "United Farmers of Alberta",
+          "family": "progressive",
+          "seats": 11,
+          "vote": 1.87
+        }
+      ],
+      "turnout": 67.7,
+      "electors": 4665381,
+      "ballots": 3273062,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "William Lyon Mackenzie King",
+        "pmOrdinal": 10,
+        "seats": 116,
+        "type": "minority"
+      },
+      "women": 1,
+      "note": "The Liberals had 116 seats; with 8 Liberal-Progressives, who usually voted with them, King had a working majority.",
+      "nextElection": "1930-07-28",
+      "daysToNext": 1413
+    },
+    {
+      "number": 17,
+      "year": 1930,
+      "date": "1930-07-28",
+      "dateLabel": "28 July 1930",
+      "houseSize": 245,
+      "seatsInHouse": 245,
+      "majority": 123,
+      "seats": {
+        "lpc": 88,
+        "cpc": 134,
+        "progressive": 15,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 8
+      },
+      "vote": {
+        "lpc": 44,
+        "cpc": 47.8,
+        "progressive": 3.3,
+        "socred": 0,
+        "ndp": 0,
+        "bq": 0,
+        "gpc": 0,
+        "other": 4.9
+      },
+      "parties": [
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 137,
+          "vote": 47.79
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 89,
+          "vote": 44.03
+        },
+        {
+          "name": "United Farmers of Alberta",
+          "family": "progressive",
+          "seats": 9,
+          "vote": 1.46
+        },
+        {
+          "name": "Progressive",
+          "family": "progressive",
+          "seats": 3,
+          "vote": 1.82
+        }
+      ],
+      "turnout": 73.5,
+      "electors": 5153971,
+      "ballots": 3922481,
+      "government": {
+        "party": "Conservative",
+        "family": "cpc",
+        "primeMinister": "R. B. Bennett",
+        "pmOrdinal": 11,
+        "seats": 134,
+        "type": "majority"
+      },
+      "women": 1,
+      "nextElection": "1935-10-14",
+      "daysToNext": 1904
+    },
+    {
+      "number": 18,
+      "year": 1935,
+      "date": "1935-10-14",
+      "dateLabel": "14 October 1935",
+      "houseSize": 245,
+      "seatsInHouse": 245,
+      "majority": 123,
+      "seats": {
+        "lpc": 173,
+        "cpc": 39,
+        "progressive": 4,
+        "socred": 17,
+        "ndp": 7,
+        "bq": 0,
+        "gpc": 0,
+        "other": 5
+      },
+      "vote": {
+        "lpc": 44.7,
+        "cpc": 29.8,
+        "progressive": 0,
+        "socred": 4.1,
+        "ndp": 9.3,
+        "bq": 0,
+        "gpc": 0,
+        "other": 12.1
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 173,
+          "vote": 44.68
+        },
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 39,
+          "vote": 29.84
+        },
+        {
+          "name": "Social Credit",
+          "family": "socred",
+          "seats": 17,
+          "vote": 4.1
+        },
+        {
+          "name": "CCF",
+          "family": "ndp",
+          "seats": 7,
+          "vote": 9.31
+        },
+        {
+          "name": "Reconstruction",
+          "family": "other",
+          "seats": 1,
+          "vote": 8.73
+        }
+      ],
+      "turnout": 74.2,
+      "electors": 5918207,
+      "ballots": 4452675,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "William Lyon Mackenzie King",
+        "pmOrdinal": 10,
+        "seats": 173,
+        "type": "majority"
+      },
+      "women": 2,
+      "nextElection": "1940-03-26",
+      "daysToNext": 1625
+    },
+    {
+      "number": 19,
+      "year": 1940,
+      "date": "1940-03-26",
+      "dateLabel": "26 March 1940",
+      "houseSize": 245,
+      "seatsInHouse": 245,
+      "majority": 123,
+      "seats": {
+        "lpc": 179,
+        "cpc": 39,
+        "progressive": 3,
+        "socred": 10,
+        "ndp": 8,
+        "bq": 0,
+        "gpc": 0,
+        "other": 6
+      },
+      "vote": {
+        "lpc": 51.3,
+        "cpc": 29.2,
+        "progressive": 0,
+        "socred": 2.6,
+        "ndp": 8.4,
+        "bq": 0,
+        "gpc": 0,
+        "other": 8.4
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 179,
+          "vote": 51.32
+        },
+        {
+          "name": "National Government (Conservative)",
+          "family": "cpc",
+          "seats": 39,
+          "vote": 29.24
+        },
+        {
+          "name": "New Democracy (Social Credit)",
+          "family": "socred",
+          "seats": 10,
+          "vote": 2.59
+        },
+        {
+          "name": "CCF",
+          "family": "ndp",
+          "seats": 8,
+          "vote": 8.42
+        }
+      ],
+      "turnout": 69.9,
+      "electors": 6588888,
+      "ballots": 4672531,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "William Lyon Mackenzie King",
+        "pmOrdinal": 10,
+        "seats": 179,
+        "type": "majority"
+      },
+      "women": 1,
+      "nextElection": "1945-06-11",
+      "daysToNext": 1903
+    },
+    {
+      "number": 20,
+      "year": 1945,
+      "date": "1945-06-11",
+      "dateLabel": "11 June 1945",
+      "houseSize": 245,
+      "seatsInHouse": 245,
+      "majority": 123,
+      "seats": {
+        "lpc": 118,
+        "cpc": 66,
+        "progressive": 1,
+        "socred": 13,
+        "ndp": 28,
+        "bq": 0,
+        "gpc": 0,
+        "other": 19
+      },
+      "vote": {
+        "lpc": 39.8,
+        "cpc": 27.6,
+        "progressive": 0,
+        "socred": 4.1,
+        "ndp": 15.6,
+        "bq": 0,
+        "gpc": 0,
+        "other": 13
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 118,
+          "vote": 39.78
+        },
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 66,
+          "vote": 27.62
+        },
+        {
+          "name": "CCF",
+          "family": "ndp",
+          "seats": 28,
+          "vote": 15.55
+        },
+        {
+          "name": "Social Credit",
+          "family": "socred",
+          "seats": 13,
+          "vote": 4.05
+        },
+        {
+          "name": "Bloc populaire",
+          "family": "other",
+          "seats": 2,
+          "vote": 3.29
+        },
+        {
+          "name": "Labor-Progressive (Communist)",
+          "family": "other",
+          "seats": 1,
+          "vote": 2.13
+        }
+      ],
+      "turnout": 75.3,
+      "electors": 6952445,
+      "ballots": 5305193,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "William Lyon Mackenzie King",
+        "pmOrdinal": 10,
+        "seats": 118,
+        "type": "minority"
+      },
+      "women": 1,
+      "note": "The Liberals had 118 seats, five short, but Independent Liberals gave King a working majority.",
+      "nextElection": "1949-06-27",
+      "daysToNext": 1477
+    },
+    {
+      "number": 21,
+      "year": 1949,
+      "date": "1949-06-27",
+      "dateLabel": "27 June 1949",
+      "houseSize": 262,
+      "seatsInHouse": 262,
+      "majority": 132,
+      "seats": {
+        "lpc": 191,
+        "cpc": 41,
+        "progressive": 1,
+        "socred": 10,
+        "ndp": 13,
+        "bq": 0,
+        "gpc": 0,
+        "other": 6
+      },
+      "vote": {
+        "lpc": 49.2,
+        "cpc": 29.7,
+        "progressive": 0,
+        "socred": 2.3,
+        "ndp": 13.4,
+        "bq": 0,
+        "gpc": 0,
+        "other": 5.5
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 191,
+          "vote": 49.15
+        },
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 41,
+          "vote": 29.65
+        },
+        {
+          "name": "CCF",
+          "family": "ndp",
+          "seats": 13,
+          "vote": 13.42
+        },
+        {
+          "name": "Social Credit",
+          "family": "socred",
+          "seats": 10,
+          "vote": 2.31
+        }
+      ],
+      "turnout": 73.8,
+      "electors": 7893629,
+      "ballots": 5903572,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Louis St. Laurent",
+        "pmOrdinal": 12,
+        "seats": 191,
+        "type": "majority"
+      },
+      "women": 0,
+      "nextElection": "1953-08-10",
+      "daysToNext": 1505
+    },
+    {
+      "number": 22,
+      "year": 1953,
+      "date": "1953-08-10",
+      "dateLabel": "10 August 1953",
+      "houseSize": 265,
+      "seatsInHouse": 265,
+      "majority": 133,
+      "seats": {
+        "lpc": 169,
+        "cpc": 51,
+        "progressive": 1,
+        "socred": 15,
+        "ndp": 23,
+        "bq": 0,
+        "gpc": 0,
+        "other": 6
+      },
+      "vote": {
+        "lpc": 48.4,
+        "cpc": 31,
+        "progressive": 0,
+        "socred": 5.4,
+        "ndp": 11.3,
+        "bq": 0,
+        "gpc": 0,
+        "other": 3.9
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 169,
+          "vote": 48.43
+        },
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 51,
+          "vote": 31.02
+        },
+        {
+          "name": "CCF",
+          "family": "ndp",
+          "seats": 23,
+          "vote": 11.28
+        },
+        {
+          "name": "Social Credit",
+          "family": "socred",
+          "seats": 15,
+          "vote": 5.4
+        }
+      ],
+      "turnout": 67.5,
+      "electors": 8401691,
+      "ballots": 5701963,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Louis St. Laurent",
+        "pmOrdinal": 12,
+        "seats": 169,
+        "type": "majority"
+      },
+      "women": 4,
+      "nextElection": "1957-06-10",
+      "daysToNext": 1400
+    },
+    {
+      "number": 23,
+      "year": 1957,
+      "date": "1957-06-10",
+      "dateLabel": "10 June 1957",
+      "houseSize": 265,
+      "seatsInHouse": 265,
+      "majority": 133,
+      "seats": {
+        "lpc": 105,
+        "cpc": 112,
+        "progressive": 0,
+        "socred": 19,
+        "ndp": 25,
+        "bq": 0,
+        "gpc": 0,
+        "other": 4
+      },
+      "vote": {
+        "lpc": 40.5,
+        "cpc": 38.5,
+        "progressive": 0,
+        "socred": 6.5,
+        "ndp": 10.6,
+        "bq": 0,
+        "gpc": 0,
+        "other": 3.9
+      },
+      "parties": [
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 112,
+          "vote": 38.5
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 105,
+          "vote": 40.45
+        },
+        {
+          "name": "CCF",
+          "family": "ndp",
+          "seats": 25,
+          "vote": 10.59
+        },
+        {
+          "name": "Social Credit",
+          "family": "socred",
+          "seats": 19,
+          "vote": 6.54
+        }
+      ],
+      "turnout": 74.1,
+      "electors": 8902125,
+      "ballots": 6680690,
+      "government": {
+        "party": "Progressive Conservative",
+        "family": "cpc",
+        "primeMinister": "John Diefenbaker",
+        "pmOrdinal": 13,
+        "seats": 112,
+        "type": "minority"
+      },
+      "women": 2,
+      "nextElection": "1958-03-31",
+      "daysToNext": 294
+    },
+    {
+      "number": 24,
+      "year": 1958,
+      "date": "1958-03-31",
+      "dateLabel": "31 March 1958",
+      "houseSize": 265,
+      "seatsInHouse": 265,
+      "majority": 133,
+      "seats": {
+        "lpc": 49,
+        "cpc": 208,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 8,
+        "bq": 0,
+        "gpc": 0,
+        "other": 0
+      },
+      "vote": {
+        "lpc": 33.8,
+        "cpc": 53.7,
+        "progressive": 0,
+        "socred": 2.6,
+        "ndp": 9.5,
+        "bq": 0,
+        "gpc": 0,
+        "other": 0.5
+      },
+      "parties": [
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 208,
+          "vote": 53.67
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 48,
+          "vote": 33.75
+        },
+        {
+          "name": "CCF",
+          "family": "ndp",
+          "seats": 8,
+          "vote": 9.51
+        },
+        {
+          "name": "Social Credit",
+          "family": "socred",
+          "seats": 0,
+          "vote": 2.59
+        }
+      ],
+      "turnout": 79.4,
+      "electors": 9131200,
+      "ballots": 7357139,
+      "government": {
+        "party": "Progressive Conservative",
+        "family": "cpc",
+        "primeMinister": "John Diefenbaker",
+        "pmOrdinal": 13,
+        "seats": 208,
+        "type": "majority"
+      },
+      "women": 2,
+      "nextElection": "1962-06-18",
+      "daysToNext": 1540
+    },
+    {
+      "number": 25,
+      "year": 1962,
+      "date": "1962-06-18",
+      "dateLabel": "18 June 1962",
+      "houseSize": 265,
+      "seatsInHouse": 265,
+      "majority": 133,
+      "seats": {
+        "lpc": 99,
+        "cpc": 116,
+        "progressive": 0,
+        "socred": 30,
+        "ndp": 19,
+        "bq": 0,
+        "gpc": 0,
+        "other": 1
+      },
+      "vote": {
+        "lpc": 37,
+        "cpc": 37.2,
+        "progressive": 0,
+        "socred": 11.6,
+        "ndp": 13.6,
+        "bq": 0,
+        "gpc": 0,
+        "other": 0.6
+      },
+      "parties": [
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 116,
+          "vote": 37.22
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 99,
+          "vote": 36.97
+        },
+        {
+          "name": "Social Credit",
+          "family": "socred",
+          "seats": 30,
+          "vote": 11.62
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 19,
+          "vote": 13.57
+        }
+      ],
+      "turnout": 79,
+      "electors": 9700325,
+      "ballots": 7772656,
+      "government": {
+        "party": "Progressive Conservative",
+        "family": "cpc",
+        "primeMinister": "John Diefenbaker",
+        "pmOrdinal": 13,
+        "seats": 116,
+        "type": "minority"
+      },
+      "women": 5,
+      "nextElection": "1963-04-08",
+      "daysToNext": 294
+    },
+    {
+      "number": 26,
+      "year": 1963,
+      "date": "1963-04-08",
+      "dateLabel": "8 April 1963",
+      "houseSize": 265,
+      "seatsInHouse": 265,
+      "majority": 133,
+      "seats": {
+        "lpc": 128,
+        "cpc": 95,
+        "progressive": 0,
+        "socred": 24,
+        "ndp": 17,
+        "bq": 0,
+        "gpc": 0,
+        "other": 1
+      },
+      "vote": {
+        "lpc": 41.5,
+        "cpc": 32.8,
+        "progressive": 0,
+        "socred": 11.9,
+        "ndp": 13.2,
+        "bq": 0,
+        "gpc": 0,
+        "other": 0.6
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 128,
+          "vote": 41.48
+        },
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 95,
+          "vote": 32.8
+        },
+        {
+          "name": "Social Credit",
+          "family": "socred",
+          "seats": 24,
+          "vote": 11.91
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 17,
+          "vote": 13.22
+        }
+      ],
+      "turnout": 79.2,
+      "electors": 9910757,
+      "ballots": 7958636,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Lester B. Pearson",
+        "pmOrdinal": 14,
+        "seats": 128,
+        "type": "minority"
+      },
+      "women": 4,
+      "nextElection": "1965-11-08",
+      "daysToNext": 945
+    },
+    {
+      "number": 27,
+      "year": 1965,
+      "date": "1965-11-08",
+      "dateLabel": "8 November 1965",
+      "houseSize": 265,
+      "seatsInHouse": 265,
+      "majority": 133,
+      "seats": {
+        "lpc": 131,
+        "cpc": 97,
+        "progressive": 0,
+        "socred": 14,
+        "ndp": 21,
+        "bq": 0,
+        "gpc": 0,
+        "other": 2
+      },
+      "vote": {
+        "lpc": 40.2,
+        "cpc": 32.4,
+        "progressive": 0,
+        "socred": 8.3,
+        "ndp": 17.9,
+        "bq": 0,
+        "gpc": 0,
+        "other": 1.2
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 131,
+          "vote": 40.18
+        },
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 97,
+          "vote": 32.41
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 21,
+          "vote": 17.91
+        },
+        {
+          "name": "Ralliement créditiste",
+          "family": "socred",
+          "seats": 9,
+          "vote": 4.66
+        },
+        {
+          "name": "Social Credit",
+          "family": "socred",
+          "seats": 5,
+          "vote": 3.66
+        }
+      ],
+      "turnout": 74.8,
+      "electors": 10274904,
+      "ballots": 7796728,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Lester B. Pearson",
+        "pmOrdinal": 14,
+        "seats": 131,
+        "type": "minority"
+      },
+      "women": 4,
+      "nextElection": "1968-06-25",
+      "daysToNext": 960
+    },
+    {
+      "number": 28,
+      "year": 1968,
+      "date": "1968-06-25",
+      "dateLabel": "25 June 1968",
+      "houseSize": 264,
+      "seatsInHouse": 264,
+      "majority": 133,
+      "seats": {
+        "lpc": 155,
+        "cpc": 72,
+        "progressive": 0,
+        "socred": 14,
+        "ndp": 22,
+        "bq": 0,
+        "gpc": 0,
+        "other": 1
+      },
+      "vote": {
+        "lpc": 45.4,
+        "cpc": 31.4,
+        "progressive": 0,
+        "socred": 5.3,
+        "ndp": 17,
+        "bq": 0,
+        "gpc": 0,
+        "other": 1
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 154,
+          "vote": 45.37
+        },
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 72,
+          "vote": 31.43
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 22,
+          "vote": 16.96
+        },
+        {
+          "name": "Ralliement créditiste",
+          "family": "socred",
+          "seats": 14,
+          "vote": 4.43
+        },
+        {
+          "name": "Social Credit",
+          "family": "socred",
+          "seats": 0,
+          "vote": 0.85
+        }
+      ],
+      "turnout": 75.7,
+      "electors": 10860888,
+      "ballots": 8217916,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Pierre Trudeau",
+        "pmOrdinal": 15,
+        "seats": 155,
+        "type": "majority"
+      },
+      "women": 1,
+      "nextElection": "1972-10-30",
+      "daysToNext": 1588
+    },
+    {
+      "number": 29,
+      "year": 1972,
+      "date": "1972-10-30",
+      "dateLabel": "30 October 1972",
+      "houseSize": 264,
+      "seatsInHouse": 264,
+      "majority": 133,
+      "seats": {
+        "lpc": 109,
+        "cpc": 107,
+        "progressive": 0,
+        "socred": 15,
+        "ndp": 31,
+        "bq": 0,
+        "gpc": 0,
+        "other": 2
+      },
+      "vote": {
+        "lpc": 38.4,
+        "cpc": 35,
+        "progressive": 0,
+        "socred": 7.6,
+        "ndp": 17.8,
+        "bq": 0,
+        "gpc": 0,
+        "other": 1.2
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 109,
+          "vote": 38.42
+        },
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 107,
+          "vote": 35.02
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 31,
+          "vote": 17.83
+        },
+        {
+          "name": "Social Credit",
+          "family": "socred",
+          "seats": 15,
+          "vote": 7.55
+        }
+      ],
+      "turnout": 76.7,
+      "electors": 13000778,
+      "ballots": 9974661,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Pierre Trudeau",
+        "pmOrdinal": 15,
+        "seats": 109,
+        "type": "minority"
+      },
+      "women": 5,
+      "nextElection": "1974-07-08",
+      "daysToNext": 616
+    },
+    {
+      "number": 30,
+      "year": 1974,
+      "date": "1974-07-08",
+      "dateLabel": "8 July 1974",
+      "houseSize": 264,
+      "seatsInHouse": 264,
+      "majority": 133,
+      "seats": {
+        "lpc": 141,
+        "cpc": 95,
+        "progressive": 0,
+        "socred": 11,
+        "ndp": 16,
+        "bq": 0,
+        "gpc": 0,
+        "other": 1
+      },
+      "vote": {
+        "lpc": 43.2,
+        "cpc": 35.5,
+        "progressive": 0,
+        "socred": 5.1,
+        "ndp": 15.4,
+        "bq": 0,
+        "gpc": 0,
+        "other": 0.9
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 141,
+          "vote": 43.15
+        },
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 95,
+          "vote": 35.46
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 16,
+          "vote": 15.44
+        },
+        {
+          "name": "Social Credit",
+          "family": "socred",
+          "seats": 11,
+          "vote": 5.06
+        }
+      ],
+      "turnout": 71,
+      "electors": 13620353,
+      "ballots": 9671002,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Pierre Trudeau",
+        "pmOrdinal": 15,
+        "seats": 141,
+        "type": "majority"
+      },
+      "women": 9,
+      "nextElection": "1979-05-22",
+      "daysToNext": 1779
+    },
+    {
+      "number": 31,
+      "year": 1979,
+      "date": "1979-05-22",
+      "dateLabel": "22 May 1979",
+      "houseSize": 282,
+      "seatsInHouse": 282,
+      "majority": 142,
+      "seats": {
+        "lpc": 114,
+        "cpc": 136,
+        "progressive": 0,
+        "socred": 6,
+        "ndp": 26,
+        "bq": 0,
+        "gpc": 0,
+        "other": 0
+      },
+      "vote": {
+        "lpc": 40.1,
+        "cpc": 35.9,
+        "progressive": 0,
+        "socred": 4.6,
+        "ndp": 17.9,
+        "bq": 0,
+        "gpc": 0,
+        "other": 1.5
+      },
+      "parties": [
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 136,
+          "vote": 35.89
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 114,
+          "vote": 40.11
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 26,
+          "vote": 17.88
+        },
+        {
+          "name": "Social Credit",
+          "family": "socred",
+          "seats": 6,
+          "vote": 4.61
+        }
+      ],
+      "turnout": 75.7,
+      "electors": 15233653,
+      "ballots": 11541000,
+      "government": {
+        "party": "Progressive Conservative",
+        "family": "cpc",
+        "primeMinister": "Joe Clark",
+        "pmOrdinal": 16,
+        "seats": 136,
+        "type": "minority"
+      },
+      "women": 10,
+      "nextElection": "1980-02-18",
+      "daysToNext": 272
+    },
+    {
+      "number": 32,
+      "year": 1980,
+      "date": "1980-02-18",
+      "dateLabel": "18 February 1980",
+      "houseSize": 282,
+      "seatsInHouse": 282,
+      "majority": 142,
+      "seats": {
+        "lpc": 147,
+        "cpc": 103,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 32,
+        "bq": 0,
+        "gpc": 0,
+        "other": 0
+      },
+      "vote": {
+        "lpc": 44.3,
+        "cpc": 32.5,
+        "progressive": 0,
+        "socred": 1.7,
+        "ndp": 19.8,
+        "bq": 0,
+        "gpc": 0,
+        "other": 1.7
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 147,
+          "vote": 44.34
+        },
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 103,
+          "vote": 32.45
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 32,
+          "vote": 19.77
+        },
+        {
+          "name": "Social Credit",
+          "family": "socred",
+          "seats": 0,
+          "vote": 1.7
+        }
+      ],
+      "turnout": 69.3,
+      "electors": 15890416,
+      "ballots": 11015514,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Pierre Trudeau",
+        "pmOrdinal": 15,
+        "seats": 147,
+        "type": "majority"
+      },
+      "women": 14,
+      "nextElection": "1984-09-04",
+      "daysToNext": 1660
+    },
+    {
+      "number": 33,
+      "year": 1984,
+      "date": "1984-09-04",
+      "dateLabel": "4 September 1984",
+      "houseSize": 282,
+      "seatsInHouse": 282,
+      "majority": 142,
+      "seats": {
+        "lpc": 40,
+        "cpc": 211,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 30,
+        "bq": 0,
+        "gpc": 0,
+        "other": 1
+      },
+      "vote": {
+        "lpc": 28,
+        "cpc": 50,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 18.8,
+        "bq": 0,
+        "gpc": 0,
+        "other": 3.1
+      },
+      "parties": [
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 211,
+          "vote": 50.03
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 40,
+          "vote": 28.02
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 30,
+          "vote": 18.81
+        }
+      ],
+      "turnout": 75.3,
+      "electors": 16774941,
+      "ballots": 12638424,
+      "government": {
+        "party": "Progressive Conservative",
+        "family": "cpc",
+        "primeMinister": "Brian Mulroney",
+        "pmOrdinal": 18,
+        "seats": 211,
+        "type": "majority"
+      },
+      "women": 27,
+      "nextElection": "1988-11-21",
+      "daysToNext": 1539
+    },
+    {
+      "number": 34,
+      "year": 1988,
+      "date": "1988-11-21",
+      "dateLabel": "21 November 1988",
+      "houseSize": 295,
+      "seatsInHouse": 295,
+      "majority": 148,
+      "seats": {
+        "lpc": 83,
+        "cpc": 169,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 43,
+        "bq": 0,
+        "gpc": 0,
+        "other": 0
+      },
+      "vote": {
+        "lpc": 31.9,
+        "cpc": 43,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 20.4,
+        "bq": 0,
+        "gpc": 0,
+        "other": 4.7
+      },
+      "parties": [
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 169,
+          "vote": 43.02
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 83,
+          "vote": 31.92
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 43,
+          "vote": 20.38
+        }
+      ],
+      "turnout": 75.3,
+      "electors": 17639001,
+      "ballots": 13281191,
+      "government": {
+        "party": "Progressive Conservative",
+        "family": "cpc",
+        "primeMinister": "Brian Mulroney",
+        "pmOrdinal": 18,
+        "seats": 169,
+        "type": "majority"
+      },
+      "women": 39,
+      "nextElection": "1993-10-25",
+      "daysToNext": 1799
+    },
+    {
+      "number": 35,
+      "year": 1993,
+      "date": "1993-10-25",
+      "dateLabel": "25 October 1993",
+      "houseSize": 295,
+      "seatsInHouse": 295,
+      "majority": 148,
+      "seats": {
+        "lpc": 177,
+        "cpc": 54,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 9,
+        "bq": 54,
+        "gpc": 0,
+        "other": 1
+      },
+      "vote": {
+        "lpc": 41.2,
+        "cpc": 34.7,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 6.9,
+        "bq": 13.5,
+        "gpc": 0,
+        "other": 3.6
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 177,
+          "vote": 41.24
+        },
+        {
+          "name": "Bloc Québécois",
+          "family": "bq",
+          "seats": 54,
+          "vote": 13.52
+        },
+        {
+          "name": "Reform",
+          "family": "cpc",
+          "seats": 52,
+          "vote": 18.69
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 9,
+          "vote": 6.88
+        },
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 2,
+          "vote": 16.04
+        }
+      ],
+      "turnout": 69.6,
+      "turnoutNote": "This percentage rises to 70.9 when the number of electors on the lists is adjusted to account for electors who had moved or died between the enumeration for the 1992 referendum and the election of 1993, for which a separate enumeration was not carried out except in Quebec, as the 1992 electoral lists were reused.",
+      "electors": 19906796,
+      "ballots": 13863135,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Jean Chrétien",
+        "pmOrdinal": 20,
+        "seats": 177,
+        "type": "majority"
+      },
+      "women": 53,
+      "nextElection": "1997-06-02",
+      "daysToNext": 1316
+    },
+    {
+      "number": 36,
+      "year": 1997,
+      "date": "1997-06-02",
+      "dateLabel": "2 June 1997",
+      "houseSize": 301,
+      "seatsInHouse": 301,
+      "majority": 151,
+      "seats": {
+        "lpc": 155,
+        "cpc": 80,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 21,
+        "bq": 44,
+        "gpc": 0,
+        "other": 1
+      },
+      "vote": {
+        "lpc": 38.5,
+        "cpc": 38.2,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 11.1,
+        "bq": 10.7,
+        "gpc": 0,
+        "other": 1.6
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 155,
+          "vote": 38.46
+        },
+        {
+          "name": "Reform",
+          "family": "cpc",
+          "seats": 60,
+          "vote": 19.35
+        },
+        {
+          "name": "Bloc Québécois",
+          "family": "bq",
+          "seats": 44,
+          "vote": 10.67
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 21,
+          "vote": 11.05
+        },
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 20,
+          "vote": 18.84
+        }
+      ],
+      "turnout": 67,
+      "electors": 19663478,
+      "ballots": 13174698,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Jean Chrétien",
+        "pmOrdinal": 20,
+        "seats": 155,
+        "type": "majority"
+      },
+      "women": 61,
+      "nextElection": "2000-11-27",
+      "daysToNext": 1274
+    },
+    {
+      "number": 37,
+      "year": 2000,
+      "date": "2000-11-27",
+      "dateLabel": "27 November 2000",
+      "houseSize": 301,
+      "seatsInHouse": 301,
+      "majority": 151,
+      "seats": {
+        "lpc": 172,
+        "cpc": 78,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 13,
+        "bq": 38,
+        "gpc": 0,
+        "other": 0
+      },
+      "vote": {
+        "lpc": 40.9,
+        "cpc": 37.7,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 8.5,
+        "bq": 10.7,
+        "gpc": 0,
+        "other": 2.2
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 172,
+          "vote": 40.85
+        },
+        {
+          "name": "Canadian Alliance",
+          "family": "cpc",
+          "seats": 66,
+          "vote": 25.49
+        },
+        {
+          "name": "Bloc Québécois",
+          "family": "bq",
+          "seats": 38,
+          "vote": 10.72
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 13,
+          "vote": 8.51
+        },
+        {
+          "name": "Progressive Conservative",
+          "family": "cpc",
+          "seats": 12,
+          "vote": 12.19
+        }
+      ],
+      "turnout": 61.2,
+      "turnoutNote": "The turnout of 61.2% in 2000 was adjusted to arrive at the final turnout of 64.1%, after our normal maintenance of the National Register of Electors to remove the names of deceased electors and duplicates arising from moves. The Chief Electoral Officer of Canada explained the adjustment during his appearance before the Subcommittee on Electoral Boundaries Readjustment on October 6, 2003, and his appearance to discuss the 2004 Main Estimates before the Standing Committee on Procedure and House Affairs on March 5, 2004.",
+      "electors": 21243473,
+      "ballots": 12997185,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Jean Chrétien",
+        "pmOrdinal": 20,
+        "seats": 172,
+        "type": "majority"
+      },
+      "women": 62,
+      "nextElection": "2004-06-28",
+      "daysToNext": 1309
+    },
+    {
+      "number": 38,
+      "year": 2004,
+      "date": "2004-06-28",
+      "dateLabel": "28 June 2004",
+      "houseSize": 308,
+      "seatsInHouse": 308,
+      "majority": 155,
+      "seats": {
+        "lpc": 135,
+        "cpc": 99,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 19,
+        "bq": 54,
+        "gpc": 0,
+        "other": 1
+      },
+      "vote": {
+        "lpc": 36.7,
+        "cpc": 29.6,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 15.7,
+        "bq": 12.4,
+        "gpc": 0,
+        "other": 5.6
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 135,
+          "vote": 36.73
+        },
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 99,
+          "vote": 29.63
+        },
+        {
+          "name": "Bloc Québécois",
+          "family": "bq",
+          "seats": 54,
+          "vote": 12.39
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 19,
+          "vote": 15.68
+        }
+      ],
+      "turnout": 60.9,
+      "electors": 22466621,
+      "ballots": 13683570,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Paul Martin",
+        "pmOrdinal": 21,
+        "seats": 135,
+        "type": "minority"
+      },
+      "women": 64,
+      "nextElection": "2006-01-23",
+      "daysToNext": 574
+    },
+    {
+      "number": 39,
+      "year": 2006,
+      "date": "2006-01-23",
+      "dateLabel": "23 January 2006",
+      "houseSize": 308,
+      "seatsInHouse": 308,
+      "majority": 155,
+      "seats": {
+        "lpc": 103,
+        "cpc": 124,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 29,
+        "bq": 51,
+        "gpc": 0,
+        "other": 1
+      },
+      "vote": {
+        "lpc": 30.2,
+        "cpc": 36.3,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 17.5,
+        "bq": 10.5,
+        "gpc": 0,
+        "other": 5.5
+      },
+      "parties": [
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 124,
+          "vote": 36.27
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 103,
+          "vote": 30.23
+        },
+        {
+          "name": "Bloc Québécois",
+          "family": "bq",
+          "seats": 51,
+          "vote": 10.48
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 29,
+          "vote": 17.48
+        }
+      ],
+      "turnout": 64.7,
+      "electors": 23054615,
+      "ballots": 14908703,
+      "government": {
+        "party": "Conservative",
+        "family": "cpc",
+        "primeMinister": "Stephen Harper",
+        "pmOrdinal": 22,
+        "seats": 124,
+        "type": "minority"
+      },
+      "women": 64,
+      "nextElection": "2008-10-14",
+      "daysToNext": 995
+    },
+    {
+      "number": 40,
+      "year": 2008,
+      "date": "2008-10-14",
+      "dateLabel": "14 October 2008",
+      "houseSize": 308,
+      "seatsInHouse": 308,
+      "majority": 155,
+      "seats": {
+        "lpc": 77,
+        "cpc": 143,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 37,
+        "bq": 49,
+        "gpc": 0,
+        "other": 2
+      },
+      "vote": {
+        "lpc": 26.3,
+        "cpc": 37.7,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 18.2,
+        "bq": 10,
+        "gpc": 6.8,
+        "other": 1.1
+      },
+      "parties": [
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 143,
+          "vote": 37.65
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 77,
+          "vote": 26.26
+        },
+        {
+          "name": "Bloc Québécois",
+          "family": "bq",
+          "seats": 49,
+          "vote": 9.98
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 37,
+          "vote": 18.18
+        },
+        {
+          "name": "Green",
+          "family": "gpc",
+          "seats": 0,
+          "vote": 6.78
+        }
+      ],
+      "turnout": 58.8,
+      "electors": 23677639,
+      "ballots": 13929093,
+      "government": {
+        "party": "Conservative",
+        "family": "cpc",
+        "primeMinister": "Stephen Harper",
+        "pmOrdinal": 22,
+        "seats": 143,
+        "type": "minority"
+      },
+      "women": 69,
+      "nextElection": "2011-05-02",
+      "daysToNext": 930
+    },
+    {
+      "number": 41,
+      "year": 2011,
+      "date": "2011-05-02",
+      "dateLabel": "2 May 2011",
+      "houseSize": 308,
+      "seatsInHouse": 308,
+      "majority": 155,
+      "seats": {
+        "lpc": 34,
+        "cpc": 166,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 103,
+        "bq": 4,
+        "gpc": 1,
+        "other": 0
+      },
+      "vote": {
+        "lpc": 18.9,
+        "cpc": 39.6,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 30.6,
+        "bq": 6,
+        "gpc": 3.9,
+        "other": 0.9
+      },
+      "parties": [
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 166,
+          "vote": 39.62
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 103,
+          "vote": 30.63
+        },
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 34,
+          "vote": 18.91
+        },
+        {
+          "name": "Bloc Québécois",
+          "family": "bq",
+          "seats": 4,
+          "vote": 6.04
+        },
+        {
+          "name": "Green",
+          "family": "gpc",
+          "seats": 1,
+          "vote": 3.91
+        }
+      ],
+      "turnout": 61.1,
+      "electors": 24257592,
+      "ballots": 14823408,
+      "government": {
+        "party": "Conservative",
+        "family": "cpc",
+        "primeMinister": "Stephen Harper",
+        "pmOrdinal": 22,
+        "seats": 166,
+        "type": "majority"
+      },
+      "women": 76,
+      "nextElection": "2015-10-19",
+      "daysToNext": 1631
+    },
+    {
+      "number": 42,
+      "year": 2015,
+      "date": "2015-10-19",
+      "dateLabel": "19 October 2015",
+      "houseSize": 338,
+      "seatsInHouse": 338,
+      "majority": 170,
+      "seats": {
+        "lpc": 184,
+        "cpc": 99,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 44,
+        "bq": 10,
+        "gpc": 1,
+        "other": 0
+      },
+      "vote": {
+        "lpc": 39.5,
+        "cpc": 31.9,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 19.7,
+        "bq": 4.7,
+        "gpc": 3.4,
+        "other": 0.8
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 184,
+          "vote": 39.47
+        },
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 99,
+          "vote": 31.91
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 44,
+          "vote": 19.72
+        },
+        {
+          "name": "Bloc Québécois",
+          "family": "bq",
+          "seats": 10,
+          "vote": 4.67
+        },
+        {
+          "name": "Green",
+          "family": "gpc",
+          "seats": 1,
+          "vote": 3.43
+        }
+      ],
+      "turnout": 68.3,
+      "electors": 25939742,
+      "ballots": 17711983,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Justin Trudeau",
+        "pmOrdinal": 23,
+        "seats": 184,
+        "type": "majority"
+      },
+      "women": 88,
+      "nextElection": "2019-10-21",
+      "daysToNext": 1463
+    },
+    {
+      "number": 43,
+      "year": 2019,
+      "date": "2019-10-21",
+      "dateLabel": "21 October 2019",
+      "houseSize": 338,
+      "seatsInHouse": 338,
+      "majority": 170,
+      "seats": {
+        "lpc": 157,
+        "cpc": 121,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 24,
+        "bq": 32,
+        "gpc": 3,
+        "other": 1
+      },
+      "vote": {
+        "lpc": 33.1,
+        "cpc": 34.3,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 16,
+        "bq": 7.6,
+        "gpc": 6.6,
+        "other": 2.4
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 157,
+          "vote": 33.12
+        },
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 121,
+          "vote": 34.34
+        },
+        {
+          "name": "Bloc Québécois",
+          "family": "bq",
+          "seats": 32,
+          "vote": 7.63
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 24,
+          "vote": 15.98
+        },
+        {
+          "name": "Green",
+          "family": "gpc",
+          "seats": 3,
+          "vote": 6.55
+        },
+        {
+          "name": "People's Party",
+          "family": "other",
+          "seats": 0,
+          "vote": 1.62
+        }
+      ],
+      "turnout": 67,
+      "electors": 27373058,
+      "ballots": 18350359,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Justin Trudeau",
+        "pmOrdinal": 23,
+        "seats": 157,
+        "type": "minority"
+      },
+      "women": 98,
+      "nextElection": "2021-09-20",
+      "daysToNext": 700
+    },
+    {
+      "number": 44,
+      "year": 2021,
+      "date": "2021-09-20",
+      "dateLabel": "20 September 2021",
+      "houseSize": 338,
+      "seatsInHouse": 338,
+      "majority": 170,
+      "seats": {
+        "lpc": 160,
+        "cpc": 119,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 25,
+        "bq": 32,
+        "gpc": 2,
+        "other": 0
+      },
+      "vote": {
+        "lpc": 32.6,
+        "cpc": 33.7,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 17.8,
+        "bq": 7.6,
+        "gpc": 2.3,
+        "other": 5.8
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 160,
+          "vote": 32.62
+        },
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 119,
+          "vote": 33.74
+        },
+        {
+          "name": "Bloc Québécois",
+          "family": "bq",
+          "seats": 32,
+          "vote": 7.64
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 25,
+          "vote": 17.82
+        },
+        {
+          "name": "Green",
+          "family": "gpc",
+          "seats": 2,
+          "vote": 2.33
+        },
+        {
+          "name": "People's Party",
+          "family": "other",
+          "seats": 0,
+          "vote": 4.94
+        }
+      ],
+      "turnout": 62.6,
+      "electors": 27509496,
+      "ballots": 17209811,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Justin Trudeau",
+        "pmOrdinal": 23,
+        "seats": 160,
+        "type": "minority"
+      },
+      "women": 103,
+      "nextElection": "2025-04-28",
+      "daysToNext": 1316
+    },
+    {
+      "number": 45,
+      "year": 2025,
+      "date": "2025-04-28",
+      "dateLabel": "28 April 2025",
+      "houseSize": 343,
+      "seatsInHouse": 343,
+      "majority": 172,
+      "seats": {
+        "lpc": 169,
+        "cpc": 144,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 7,
+        "bq": 22,
+        "gpc": 1,
+        "other": 0
+      },
+      "vote": {
+        "lpc": 43.8,
+        "cpc": 41.3,
+        "progressive": 0,
+        "socred": 0,
+        "ndp": 6.3,
+        "bq": 6.3,
+        "gpc": 1.2,
+        "other": 1.1
+      },
+      "parties": [
+        {
+          "name": "Liberal",
+          "family": "lpc",
+          "seats": 169,
+          "vote": 43.76
+        },
+        {
+          "name": "Conservative",
+          "family": "cpc",
+          "seats": 144,
+          "vote": 41.31
+        },
+        {
+          "name": "Bloc Québécois",
+          "family": "bq",
+          "seats": 22,
+          "vote": 6.29
+        },
+        {
+          "name": "NDP",
+          "family": "ndp",
+          "seats": 7,
+          "vote": 6.29
+        },
+        {
+          "name": "Green",
+          "family": "gpc",
+          "seats": 1,
+          "vote": 1.22
+        }
+      ],
+      "turnout": 69,
+      "electors": 28731275,
+      "ballots": 19811520,
+      "government": {
+        "party": "Liberal",
+        "family": "lpc",
+        "primeMinister": "Mark Carney",
+        "pmOrdinal": 24,
+        "seats": 169,
+        "type": "minority"
+      },
+      "women": 104,
+      "nextElection": null,
+      "daysToNext": null
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1917,
+      "label": "Some women vote",
+      "detail": "Women in the armed forces and the female relatives of soldiers get the federal vote for the wartime election.",
+      "url": "https://www.elections.ca/content.aspx?section=res&dir=his/chap2&document=index&lang=e"
+    },
+    {
+      "year": 1921,
+      "label": "Women vote on equal terms",
+      "detail": "The first general election at which women vote under a universal franchise, after the 1918 and 1920 laws.",
+      "url": "https://www.elections.ca/content.aspx?section=res&dir=his/chap2&document=index&lang=e"
+    },
+    {
+      "year": 1948,
+      "label": "Racial exclusions end",
+      "detail": "Parliament removes discrimination on the basis of race from the federal franchise, ending the exclusion of Japanese Canadians.",
+      "url": "https://www.elections.ca/content.aspx?section=res&dir=his/chap3&document=index&lang=e"
+    },
+    {
+      "year": 1960,
+      "label": "First Nations vote",
+      "detail": "First Nations people get the federal vote without having to give up their status under the Indian Act.",
+      "url": "https://www.elections.ca/content.aspx?section=res&dir=his/chap3&document=index&lang=e"
+    },
+    {
+      "year": 1970,
+      "label": "Voting age 18",
+      "detail": "The voting age drops from 21 to 18, first used at the 1972 election: about two million new electors.",
+      "url": "https://www.elections.ca/content.aspx?section=res&dir=his/chap3&document=index&lang=e"
+    },
+    {
+      "year": 2002,
+      "label": "Prisoners vote",
+      "detail": "In Sauvé v. Canada the Supreme Court rules that the ban on voting by prisoners serving two years or more is unconstitutional.",
+      "url": "https://www.elections.ca/content.aspx?section=res&dir=his/chap4&document=index&lang=e"
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{{Short description|None}}
+{{Redirect|Canadian federal election|the recent Canadian federal election|2025 Canadian federal election}}
+{{about|Canadian federal general elections after confederation|a list of elections prior to the confederation of Canada|List of elections in the Province of Canada|a list of by-elections|List of federal by-elections in Canada}}
+{{Politics of Canada}}
+
+Canada holds general elections, colloquially referred to as federal elections since the 1940s (and as dominion elections from 1867 to the 1940s), for the purpose of determining the political leadership of its national government, the [[Government of Canada]] (or the "federal government"), through [[Democracy|democratic]] means. The last [[general election]] was [[2025 Canadian federal election|held in April 2025]], through which the incumbent [[Liberal Party of Canada|Liberal]] government led by new party leader [[Mark Carney]] was re-elected with a [[Minority governments in Canada|minority mandate]].
+
+This article provides a summary of results for [[Elections in Canada|Canadian general elections]] that has taken place since the nation was formed (via [[Canadian Confederation|confederation]]) in 1867. Upon the call of such a general election, all seats in the Canadian [[House of Commons of Canada|House of Commons]] are vacated and contested in local elections to determine its new representative known as a [[Member of Parliament (Canada)|member of Parliament]] (MP). As of the election held in 2025, there are 343 MPs in Canada.
+
+== Electoral system ==
+Like other [[Westminster System|Westminster-style]] [[Parliamentary government|parliamentary governments]], Canadian voters exercise their democratic franchise indirectly by electing local representatives, known as members of Parliament (MPs), to the [[House of Commons of Canada|House of Commons]], the lower house of the [[Parliament of Canada]], via plurality voting (or the [[First-past-the-post voting|first-past-the-post system]]). All Canadian citizens age eighteen or above are entitled to vote in elections held for the [[Electoral district (Canada)|electoral district]] they reside in. The head of the Canadian federal government, the [[Prime Minister of Canada|prime minister of Canada]], is typically the MP that leads the political party with the most seats in the House of Commons. They are normally chosen by virtue of being the leader of the political party with a majority of the seats in the legislature or having secured the needed support from other parties to [[Confidence and supply|command the confidence]] of Parliament.
+
+Since 1929, Canadian federal elections have been held on Mondays, or on Tuesdays immediately after a Monday that is a [[Statutory Holidays in Canada|statutory holiday]]. Section 4 of the [[Canadian Charter of Rights and Freedoms|Canadian Charter of Rights and Freedom]] requires that a general election be held no later than five years after the previous election. Since the end of [[World War II]], elections are usually held every three or four years. Under the [[Fixed election dates in Canada|fixed-date provisions]] of the ''[[Canada Elections Act]]'', a federal election must be held on the third Monday in October in the fourth calendar year after the polling day of the previous election.<ref name="C16">{{cite web |date=May 3, 2007|title=An Act to amend the Canada Elections Act|url=https://www.parl.ca/documentviewer/en/39-1/bill/C-16/royal-assent/page-27?col=2|url-status=live|archive-url=https://www.parl.ca/Content/Bills/391/Government/C-16/C-16_4/C-16_4.PDF|archive-date=June 25, 2024|archive-format=PDF|access-date=June 25, 2024|publisher=LegisINFO|format=}}</ref> However, the election may occur before that date if the [[Governor General of Canada|governor general]] dissolves Parliament on the recommendation of the prime minister, either for a [[List of snap elections in Canada|snap election]] or after Parliament expresses its lack of confidence through the rejection of a [[Loss of supply|supply bill]] (which last occurred [[1980 Canadian federal election|in 1979]]) or the adoption of a [[motion of no confidence]] (which last occurred [[2011 Canadian federal election|in 2011]]).
+
+Since 1920, all elections held for the purpose of electing MPs have been administered by the [[Chief Electoral Officer of Canada|chief electoral officer]], who heads the independent agency [[Elections Canada]] and is accountable to Parliament rather than to the government in power. Election finances has been regulated since the 1970s, and that function was separated from Elections Canada and transferred to the [[commissioner of Canada Elections]] in 1977.
+
+== Electoral dynamics ==
+Two political parties, the [[Liberal Party of Canada|Liberal Party]] and the [[Conservative Party of Canada|Conservative Party]], have been the principal contenders for power in the 21st century. The same two parties{{Spaced en dash}}in the Conservative Party's case, along with its various previous incarnations and factions{{Spaced en dash}}have dominated [[Politics of Canada|politics in Canada]] by alternating governing between them to the exclusion of all other parties at the national level. Since 1921, however, the two main parties had to contend with other forces occasionally displacing them from second place, most recently [[2011 Canadian federal election|in 2011]] when the [[New Democratic Party]] displaced the Liberals to become the largest opposition party in Parliament.
+
+With only two exceptions, transitions of power between the parties have always occurred as the result of general elections. The exception were in 1873 and in 1926, when the respective incumbent Conservative and Liberal government were brought down by scandals. In 1873, the Liberals formed government and secured an electoral mandate through a general election within two months. In 1926, the Conservative Party took power but failed to win the subsequent election that took place three months later.
+
+Since the nation was [[Canadian Confederation|formed in 1867]], Canada has held forty-five general elections. The Liberals won the most seats in twenty-six elections, in seventeen instances attaining a majority of the seats. Rival Conservatives won the most seats in nineteen elections (once under the [[Unionist Party (Canada)|Unionist]] banner), attaining a majority of the seats in thirteen instances. In one instance [[1925 Canadian federal election|in 1925]], the Conservatives won the most seats, but the incumbent Liberals remained in office with the support of the third-place [[Progressive Party of Canada|Progressive Party]]. In six elections, the largest party won the most seats and formed government despite having won a smaller share of the popular vote as their main rival. That was the case with the Progressive Conservative governments formed [[1957 Canadian federal election|in 1957]] and [[1979 Canadian federal election|in 1979]], and the Liberal governments formed following the elections [[1896 Canadian federal election|of 1896]], [[1926 Canadian federal election|1926]], [[2019 Canadian federal election|2019]] and [[2021 Canadian federal election|2021]].
+
+In addition to the two main parties, there has been significant parliamentary presence of smaller parties since 1921 when the [[Progressive Party of Canada|Progressive Party]] (and its allied [[United Farmers of Canada|United Farmers movement]]) displaced the Conservatives as the largest opposition party. As the principal alternative to the two main party, the Progressive Party was supplanted by the [[Social Credit Party of Canada|Social Credit Party]] and the [[Co-operative Commonwealth Federation]] (CCF) in the 1930s, both formally entering Parliament [[1935 Canadian federal election|in 1935]], with the CCF and its official successor the [[New Democratic Party]] (NDP) having maintained a continual presence since, while the Social Credit Party ceased to be represented as of the [[1980 Canadian federal election|1980 election]].
+
+The presence of smaller parties unsurprisingly led to occasional minority parliaments, which remained a rare event until the end of the [[World War II]]. Of the twenty elections that took place in Canada's first eight decades, only three resulted in minority parliaments. The subsequent ten elections resulted in five minority parliaments, all within a fifteen-year timespan between [[1957 Canadian federal election|the 1957]] and [[1972 Canadian federal election|1972 general elections]]. After two decades of mostly majority governments, minority parliaments become common at the start of 21st century. Six of the eight elections since 2000 have resulted in minority parliaments, including the most recent three elections.  
+
+The [[Progressive Conservative Party of Canada|Progressive Conservative Party]] suffered the most dramatic defeat ever experienced by a sitting government in the [[1993 Canadian federal election|1993 election]] when it went from a majority government with 169 seats to a group without [[official party status]], having only won two seats. The downfall of the traditional Progressive Conservative Party in the 1990s was a result of discontent manifested in the populist [[Reform Party of Canada|Reform Party]] in [[western Canada]] and the separatist [[Bloc Québécois]] in [[Quebec]]. The Reform Party rebranded as the [[Canadian Alliance]] in 2000 before uniting with the Progressive Conservatives in 2003 to form the modern [[Conservative Party of Canada|Conservative Party]], which formed government shortly after in 2006. The [[Green Party of Canada|Green Party]] secured it first seat in 2011, which it has held since, but has not since been able to expand its presence in a meaningful way.
+
+== Other lists of Canadian elections ==
+
+* [[List of federal by-elections in Canada|Federal by-elections]] – held in select electoral districts to fill vacancies midterms caused by death of resignation
+* General elections are held in each province and territories to elect their respective provincial government. For a timeline of all provincial elections, see [[Timeline of Canadian elections]].
+* [[List of elections in the Province of Canada|General elections in the Province of Canada]] – eight general elections were held between 1841 and 1864 in the [[Province of Canada]], the British colony that was the largest predecessor of Canada
+* Elections have been held in what is now Canada since as early [[1st General Assembly of Nova Scotia|as 1758]], when the colony of Nova Scotia elected its first general assembly. Of the four original provinces:
+** [[List of Nova Scotia General Assemblies#Pre-Confederation|Twenty-two general elections]] were held in Nova Scotia prior to Confederation
+** [[General elections in New Brunswick (pre-Confederation)|Twenty-one general elections]] were held in New Brunswick prior to Confederation, beginning in 1785
+** Thirteen general elections were held in Upper Canada (now part of [[Ontario]]) between 1792 and 1836 for the [[Legislative Assembly of Upper Canada]]
+** Fifteen elections were held in Lower Canada (now part of [[Quebec]]) between 1792 and 1834 for the [[Legislative Assembly of Lower Canada]]
+
+==List of federal elections==
+
+In the following table, seats won by related predecessor or allied parties (and, in limited cases, historical parties with analogous objectives, each specifically noted) are grouped together, as follows:
+{| class="wikitable"
+|{{Color sample|{{Canadian party colour|CA|Liberal}}|border=#FFF}} [[Liberal Party of Canada|Liberal]]
+|{{Color sample|{{Canadian party colour|XX|Liberal-Progressive}}|border=#FFF}} [[Liberal-Progressive]] in formal coalition (1926–1930)
+|-
+|{{Color sample|{{Canadian party colour|CA|Conservative}}|border=#FFF}} [[Conservative Party of Canada|Conservative]] 
+|{{Color sample|{{Canadian party colour|CA|PC}}|border=#FFF}} [[Progressive Conservative Party of Canada|Progressive Conservative Party]] (1942–2000), {{Color sample|{{Canadian party colour|CA|Reform}}|border=#FFF}} [[Reform Party of Canada|Reform Party]] (1993–1997), {{Color sample|{{Canadian party colour|CA|Canadian Alliance}}|border=#FFF}} [[Canadian Alliance]] (2000)
+|-
+|{{Color sample|{{Canadian party colour|CA|NDP}}|border=#FFF}} [[New Democratic Party|NDP]]
+|{{Color sample|{{Canadian party colour|CA|Labour}}|border=#FFF}} [[Independent Labour Party]] (1921, 1930), {{Color sample|{{Canadian party colour|CA|CCF}}|border=#FFF}} [[Cooperative Commonwealth Federation]] (1932–1958)
+|-
+|{{Color sample|{{Canadian party colour|CA|BQ}}|border=#FFF}} [[Bloc Québécois]]
+|{{Color sample|{{Canadian party colour|XX|Anti-Confederation}}|border=#FFF}} [[Anti-Confederation Party]] (1867), {{Color sample|{{Canadian party colour|CA|Bloc populaire}}|border=#FFF}} [[Bloc populaire]] (1945)
+|-
+|{{Color sample|{{Canadian party colour|CA|Social Credit}}|border=#FFF}} [[Social Credit Party of Canada|Social Credit]]
+|{{Color sample|{{Canadian party colour|CA|New Democracy}}|border=#FFF}} [[New Democracy]] (1940), {{color sample|{{Canadian party colour|CA|Ralliement créditiste}}|border=#FFF}} [[Ralliement créditiste]] (1965–1968)
+|-
+|{{Color sample|{{Canadian party colour|CA|Progressive}}|border=#FFF}} [[Progressive Party of Canada|Progressive]]
+|{{Color sample|{{Canadian party colour|CA|United Farmers}}|border=#FFF}} [[United Farmers of Canada|United Farmers]] and other farmer banners (1921–1930), {{Color sample|{{Canadian party colour|XX|Liberal-Progressive}}|border=#FFF}} [[Liberal-Progressive]] (1935–1953){{efn|When national Progressive Party no longer fielded candidates}} 
+|}
+{{sticky header}}{{sort under}}
+{| class="wikitable sortable sticky-header-multi sort-under-center" style="text-align: center;"
+|-
+! rowspan=2| No.<br />Year !! rowspan=2 | Date 
+! colspan="2" rowspan="2" style="width: 6em" | Resulting prime minister
+! style="width: 2.5em; vertical-align: bottom;"| Lib 
+! style="width: 2.5em; vertical-align: bottom;" | {{abbr|Con|Conservative or Progressive Conservative}}{{efn|Between 1942 and 2003, seats won by [[Progressive Conservative Party of Canada|Progressive Conservative Party]]; second number in 1993 and 1997 are seats won by [[Reform Party of Canada|Reform Party]] and in 2000 by [[Canadian Alliance]]}}{{efn|Inclusive of seats won by MPs who contested election as [[Liberal-Conservative Party]] candidates (1867 to 1911) and as Nationalist Conservative (in 1882, 1887, 1891)}}
+! style="width: 2.5em; vertical-align: bottom;" | NDP{{efn|From 1932 to 1958, seats won by CCF ([[Co-operative Commonwealth Federation]])}}
+! style="width: 2.5em; vertical-align: bottom;" | Bloc 
+! style="width: 2.5em; vertical-align: bottom;" | {{abbr|SoCr|Social Credit}}{{efn|Second number in 1965, 1968 for seats won by Ralliement créditiste}}
+! style="width: 2.5em; vertical-align: bottom;" | {{abbr|Prg|Progressive}}{{Efn|Second number in 1921–30 for seats won by United Farmers (Alberta or Ontario) MPs, in 1935–53 for seats won by Liberal-Progressives}}
+! style="width: 2.5em; vertical-align: bottom;" | Other!! rowspan="2" | Total seats
+! rowspan="2" style="width: 10em" | {{nowrap|Ministry's command}} of parliament
+! rowspan="2" | Turn-out %
+! rowspan="2" class=unsortable| Info
+|-
+! style="background: {{Canadian party colour|CA|Liberal}};"|
+! style="background: {{Canadian party colour|CA|Conservative}};"|
+! style="background: {{Canadian party colour|CA|NDP}};"|
+! style="background: {{Canadian party colour|CA|BQ}};"| 
+! style="background: {{Canadian party colour|CA|Social Credit}};"| 
+! style="background: {{Canadian party colour|CA|Progressive}};"| 
+! 
+|-
+![[1867 Canadian federal election|1st]]<br />1867
+|{{Hidden sort key|Sept 20}}Aug 7–<br />Sep 20
+| {{Canadian party colour|CA|Conservative (historical)|background}} | || {{sortname|John A.|Macdonald}} 
+|62 ||100 || ||18{{Efn|Seat count for the [[Anti-Confederation Party]], a regional polical force in Nova Scotia and New Brunswick opposed to union with Canada}}|| || || 0 
+!180 
+|{{Percentage bar|width=100%|55.5|c={{Canadian party colour|CA|Conservative (historical)}}}} ||74.3
+|{{efn-ur|name=e1867|The [[Conservative Party of Canada (1867–1942)|Conservative Party]] led by [[John A. Macdonald]], is elected to form Canada's first government, defeating the [[Liberal Party of Canada|Liberal Party]] and its de facto leader [[George Brown (Canadian politician)|George Brown]]. Brown does not win his riding of [[Ontario South]]. In [[Nova Scotia]], [[Anti-Confederation Party|Anti-Confederate]]s under [[Joseph Howe]] win 17 of 19 seats after campaigning against Confederation but later sit with the Liberals.}}
+|-
+![[1872 Canadian federal election|2nd]]<br />1872
+|{{Hidden sort key|Oct 12}}Jul 20–<br />Oct 12
+| {{Canadian party colour|CA|Conservative (historical)|background}} | || {{sortname|John A.|Macdonald}} 
+| 95 ||100{{Efn|Includes one [[Conservative Labour]] candidate}} || || || || ||5
+!200
+|{{Percentage bar|width=100%|50|c={{Canadian party colour|CA|Conservative (historical)}}}} ||70.3
+|{{efn-ur|name=e1872|Prime Minister Macdonald's Conservatives are re-elected with a minority, defeating Liberals and their de facto leader [[Edward Blake]].}}
+|-
+![[1874 Canadian federal election|3rd]]<br />1874
+|{{dts|Jan 20}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{awrap|{{sortname|Alexander|Mackenzie|dab=politician}}}}
+|129||65|| || || || ||12 
+!206
+|{{Percentage bar|width=100%|62.6|c={{Canadian party colour|CA|Liberal}}}} ||69.6
+|{{efn-ur|name=e1874|The Liberals, led by Prime Minister [[Alexander Mackenzie (politician)|Alexander Mackenzie]], retain power with a majority after having formed a government after the Conservatives, under former prime minister John A. Macdonald, lost the [[motion of confidence|confidence]] of the House in 1873. First federal election by [[secret ballot]].}}
+|-
+![[1878 Canadian federal election|4th]]<br />1878
+|{{dts|Sep 17}}|| {{Canadian party colour|CA|Conservative (historical)|background}} | ||{{sortname|John A.|Macdonald}}
+|63||134|| || || || ||9
+!206
+|{{Percentage bar|width=100%|65|c={{Canadian party colour|CA|Conservative (historical)}}}}||69.1
+|{{efn-ur|name=e1878|Former prime minister John A. Macdonald's Conservative Party defeats Prime Minister Mackenzie's Liberals, returning Macdonald to power with a second majority.}}
+|-
+![[1882 Canadian federal election|5th]]<br />1882
+|{{dts|June 20}}|| {{Canadian party colour|CA|Conservative (historical)|background}} | ||{{sortname|John A.|Macdonald}}
+|73||134|| || || || ||4
+!211
+|{{Percentage bar|width=100%|63.5|c={{Canadian party colour|CA|Conservative (historical)}}}}||70.3
+|{{efn-ur|name=e1882|Prime Minister Macdonald's Conservatives win re-election with a third majority, defeating the Liberals under Blake.}}
+|-
+![[1887 Canadian federal election|6th]]<br />1887
+|{{dts|Feb 20}}|| {{Canadian party colour|CA|Conservative (historical)|background}} | ||{{sortname|John A.|Macdonald}}
+|80||124|| || || || ||11
+!215
+|{{Percentage bar|width=100%|57.7|c={{Canadian party colour|CA|Conservative (historical)}}}}||70.1
+|{{efn-ur|name=e1887|Prime Minister Macdonald's Conservatives win re-election with a fourth majority, defeating the Liberals under Blake.}}
+|-
+![[1891 Canadian federal election|7th]]<br />1891
+|{{dts|March 5}}|| {{Canadian party colour|CA|Conservative (historical)|background}} | ||{{sortname|John A.|Macdonald}}
+| 90 || 118 || || || || || 7
+! 215
+|{{Percentage bar|width=100%|54.9|c={{Canadian party colour|CA|Conservative (historical)}}}} || 64.4
+|{{efn-ur|name=e1891|Prime Minister Macdonald's Conservatives win re-election with a fifth majority. Macdonald defeats Liberal [[Leader of the Opposition (Canada)|opposition leader]] [[Wilfrid Laurier]] in Laurier's first election as party leader. In the June following the election, Macdonald dies in office.}}
+|-
+![[1896 Canadian federal election|8th]]<br />1896
+|{{dts|June 23}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{sortname|Wilfrid|Laurier}}
+| 117 || 86 || || || || || 10
+!213
+|{{Percentage bar|width=100%|54.9|c={{Canadian party colour|CA|Liberal}}}} || 62.9
+|{{efn-ur|name1896=|Laurier's Liberals win a majority government, defeating the Conservatives, led by Prime Minister [[Charles Tupper]], despite losing the popular vote.}}
+|-
+![[1900 Canadian federal election|9th]]<br />1900
+|{{dts|Nov 7}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{sortname|Wilfrid|Laurier}}
+| 128 || 79 || || || || || 6
+!213
+|{{Percentage bar|width=100%|60.1|c={{Canadian party colour|CA|Liberal}}}} || 77.4
+|{{efn-ur|name=e1900|Prime Minister Laurier's Liberals win re-election with a second majority, defeating former prime minister Tupper's Conservatives. Tupper loses his own seat of [[Cape Breton (federal electoral district)|Cape Breton]].}}
+|-
+![[1904 Canadian federal election|10th]]<br />1904
+|{{dts|Nov 3}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{sortname|Wilfrid|Laurier}}
+| 137 || 75 || || || || || 2
+!214
+|{{Percentage bar|width=100%|64|c={{Canadian party colour|CA|Liberal}}}} || 71.6
+|{{efn-ur|name=e1904|Prime Minister Laurier's Liberals win re-election with a third majority, defeating [[Robert Borden]]'s Conservatives.}}
+|-
+![[1908 Canadian federal election|11th]]<br />1908
+|{{dts|Oct 26}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{sortname|Wilfrid|Laurier}}
+| 133 || 85 || || || || || 3
+!221
+|{{Percentage bar|width=100%|60.2|c={{Canadian party colour|CA|Liberal}}}} || 70.0
+|{{efn-ur|name=e1908|Prime Minister Laurier's Liberals defeat Borden's Conservatives to win their fourth consecutive majority mandate.}}
+|-
+![[1911 Canadian federal election|12th]]<br />1911
+|{{dts|Sep 21}}|| {{Canadian party colour|CA|Conservative (historical)|background}} | ||{{sortname|Robert|Borden}}
+| 85 || 132 || || || || || 4
+!221
+|{{Percentage bar|width=100%|59.7|c={{Canadian party colour|CA|Conservative (historical)}}}} || 70.2
+|{{efn-ur|name=e1911|Borden's Conservatives defeat Prime Minister Laurier's Liberals and win a majority mandate.}}
+|-
+![[1917 Canadian federal election|13th]]<br />1917
+|{{dts|Dec 17}}|| {{Canadian party colour|CA|Coalition|background}} | ||{{sortname|Robert|Borden}}
+| 82 || 153 || || || || || 0
+!235 
+|{{Percentage bar|width=100%|65.1|c={{Canadian party colour|CA|Coalition}}}} || 75.0
+|{{efn-ur|name=e1917|Prime Minister Borden leads the [[Unionist Party (Canada)|Unionist Party]], a pro-[[conscription]] coalition of Conservatives and former Liberals, to a majority victory. Both former Conservatives and [[Liberal–Unionist|former Liberals]] are appointed to the [[Cabinet of Canada|cabinet]]. The coalition defeats former prime minister Laurier's [[Laurier Liberals|anti-conscription Liberals]].}}
+|-
+![[1921 Canadian federal election|14th]]<br />1921
+|{{dts|Dec 6}}
+|{{Canadian party colour|CA|Liberal|background}} | ||{{sortname|William Lyon<br />Mackenzie|King|William Lyon Mackenzie King}}
+| 118 || 49 || 3{{Efn|MPs who contested election under "Independent Labour" banner|name=labour}} || || || 58 +3 || 7
+!235
+|{{Percentage bar|width=100%|50.2|c={{Canadian party colour|CA|Liberal}}}} || 67.7
+|{{efn-ur|name=e1921|[[William Lyon Mackenzie King]]'s Liberals win a [[minority government]], defeating Prime Minister [[Arthur Meighen]]'s Conservatives. The Conservatives are reduced to third place in the House; Meighen loses his own seat of [[Portage la Prairie (federal electoral district)|Portage la Prairie]]. After [[Thomas Crerar]] and his [[Progressive Party of Canada|Progressive Party]] decline the title of Official Opposition, Meighen becomes opposition leader.}}
+|-
+![[1925 Canadian federal election|15th]]<br />1925
+|{{dts|Oct 26}}
+|{{Canadian party colour|CA|Liberal|background}} | ||{{sortname|William Lyon<br />Mackenzie|King|William Lyon Mackenzie King}}{{Efn|Subject to debate: King remained Prime Minister in the months following, and Conservative leader Meighen assumed premiership in June 1926. See [[King–Byng affair]] for more info.}}
+| 100 || 115 || || || || 22 +2 || 6
+!245
+|{{Percentage bar|width=100%|40.8|c={{Canadian party colour|CA|Liberal}}}} || 66.4
+|{{efn-ur|name=e1925|Prime Minister Mackenzie King's Liberals hold power with a minority with the help of [[Robert Forke]]'s Progressives, despite former prime minister Meighen's Conservatives winning more seats, including that of King's own riding of [[York North]]. The Progressives soon withdraw support from the scandal-plagued Liberals but also refuse to support the Conservatives. [[Governor General of Canada|Governor General]] [[Julian Byng, 1st Viscount Byng of Vimy|Lord Byng]] controversially appoints Meighen as prime minister in the [[King–Byng Affair]], but the Conservative government soon falls in a non-confidence vote.}}
+|-
+![[1926 Canadian federal election|16th]]<br />1926
+|{{dts|Sept 14}}
+|{{Canadian party colour|CA|Liberal|background}} | ||{{sortname|William Lyon<br />Mackenzie|King|William Lyon Mackenzie King}}
+| 116 +8{{Efn|Progressive MPs elected under [[Liberal-Progressive]] banner, as a group splintered from rest of Progressive Party MPs and entered into formal coalition with the governing Liberals, caucused with the Liberals and leader [[Robert Forke]] served in cabinet}}|| 91 ||  ||  ||  || 11 +12 || 7
+!245
+|{{Percentage bar|width=100%|47.3|c={{Canadian party colour|CA|Liberal}}}} || 67.7
+|{{efn-ur|name=e1926|Mackenzie King's Liberals defeat former prime minister Meighen's Conservatives, winning a minority supported by the eight [[Liberal-Progressive]]s under Forke. Meighen loses his Portage la Prairie seat again. United Farmers parties take 12 seats and Labour four, giving Canada a rare Parliament with six parties, each with four seats or more, in the House.}}
+|-
+![[1930 Canadian federal election|17th]]<br />1930
+|{{dts|July 28}}|| {{Canadian party colour|CA|Conservative (historical)|background}} | ||{{Sortname|R. B.|Bennett}}
+| 88<br />+3{{Efn|Progressive MPs elected under [[Liberal-Progressive]] banner with no Liberal challenger, and caucused with the Liberals.}}
+| 134 ||  2{{Efn|name=labour}}|| || || 3<br />+9 || 7
+!245
+|{{Percentage bar|width=100%|54.7|c={{Canadian party colour|CA|Conservative (historical)}}}} ||  73.5
+|{{efn-ur|name=e1930|[[R. B. Bennett]]'s Conservatives win a majority, defeating the Liberals under Prime Minister Mackenzie King.}}
+|-
+![[1935 Canadian federal election|18th]]<br />1935
+|{{dts|Oct 14}}
+|{{Canadian party colour|CA|Liberal|background}} | ||{{sortname|William Lyon<br />Mackenzie|King|William Lyon Mackenzie King}}
+|173 ||39 ||7  || ||17 ||4{{Efn|MPs elected under Liberal-Progressive banner. The national Progressive Party ceased fielding candidate as of 1935 election, with its many of former members scattered to contest election mainly under banner of [[Co-operative Commonwealth Federation]] and other parties.|name=LibProg}}||5
+!245
+|{{Percentage bar|width=100%|70.6|c={{Canadian party colour|CA|Liberal}}}} || 74.2
+|{{efn-ur|name=e1935|Former prime minister Mackenzie King's Liberals defeat Prime Minister Bennett's Conservatives with a majority. Two new parties based in the [[Western Canada|West]] field candidates for the first time: the [[Co-operative Commonwealth Federation]] (CCF), led by [[J. S. Woodsworth]], wins seven seats on a platform of [[Reform movement|social reform]], while the new [[Social Credit Party of Canada|Social Credit Party]], led in Parliament by [[John Horne Blackmore]] (its most recognized leader, [[William Aberhart]], is serving as [[Premier of Alberta]]), wins 17 seats with its platform of [[monetary reform]]. The Progressive Party and the [[United Farmers of Alberta#Political history|United Farmers of Alberta]] pass into the history books.}}
+|-
+![[1940 Canadian federal election|19th]]<br />1940
+|{{dts|March 26}}
+|{{Canadian party colour|CA|Liberal|background}} | ||{{sortname|William Lyon<br />Mackenzie|King|William Lyon Mackenzie King}}
+|179 ||39{{Efn|Includes results for the [[Conservative Party of Canada (1867–1942)#National Government label|National Government]] party.}}||8 || || 10{{Efn|Includes three MPs elected under [[New Democracy (Canada)|New Democracy]] banner}}|| 3{{Efn|name=LibProg}}|| 6
+!245
+|{{Percentage bar|width=100%|73.1|c={{Canadian party colour|CA|Liberal}}}} || 69.9
+|{{efn-ur|name=e1940|Prime Minister Mackenzie King's Liberals are re-elected with a majority, defeating [[Robert Manion]]'s [[Conservative Party of Canada (1867–1942)#National Government label|National Government]] party, a failed attempt to recreate Robert Borden's World War I–era Unionists. Manion, previously the MP for [[London (federal electoral district)|London]], runs without success at [[Fort William (federal electoral district)|Fort William]].}}
+|-
+![[1945 Canadian federal election|20th]]<br />1945
+|{{dts|June 11}}
+| {{Canadian party colour|CA|Liberal|background}} | ||{{sortname|William Lyon<br />Mackenzie|King|William Lyon Mackenzie King}}
+| 118<br />+8{{Efn|Seat won by Independent Liberals in protest of Liberal government's decision to implement conscription, but supported subsequent Liberal minorty government and eventually rejoined party}} || 66 || 28 || 2{{Efn|Seats won by [[Bloc populaire]], which only ran candidates in Quebec on platform against conscription}}|| 13 || 1{{Efn|name=LibProg}}|| 9
+!245
+|{{Percentage bar|width=100%|48.2|c={{Canadian party colour|CA|Liberal}}}} || 75.3
+|{{efn-ur|name=e1945|Prime Minister Mackenzie King's Liberals are re-elected with a minority, defeating the newly renamed [[Progressive Conservative Party of Canada|Progressive Conservatives]], led by [[John Bracken]]. Despite his party's nationwide victory, King loses his [[Prince Albert (federal electoral district)|Prince Albert]] riding. Foreshadowing the [[Bloc Québécois]], the [[Bloc populaire|Bloc populaire canadien]] wins two seats in [[Quebec]] on a platform of [[Quebec nationalism]] and opposition to conscription.}}
+|-
+![[1949 Canadian federal election|21st]]<br />1949
+|{{dts|June 27}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{Sortname|Louis|St. Laurent}}
+|191 || 41 || 13 || || 10 || 1{{Efn|name=LibProg}}|| 6
+!262 
+|{{Percentage bar|width=100%|72.9|c={{Canadian party colour|CA|Liberal}}}} || 73.8
+|{{efn-ur|name=e1949|New prime minister [[Louis St. Laurent]] leads the Liberals to victory with a majority, defeating [[George A. Drew]]'s Progressive Conservatives.}}
+|-
+![[1953 Canadian federal election|22nd]]<br />1953
+|{{dts|Aug 10}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{Sortname|Louis|St. Laurent}}
+|169 || 51 || 23 || || 15 || 1{{Efn|name=LibProg}}|| 6
+!265
+|{{Percentage bar|width=100%|63.8|c={{Canadian party colour|CA|Liberal}}}} || 67.5
+|{{efn-ur|name=e1953|Prime Minister St-Laurent's Liberals win re-election with a majority, defeating Drew's Progressive Conservatives.}}
+|-
+![[1957 Canadian federal election|23rd]]<br />1957
+|{{dts|June 10}}
+| {{Canadian party colour|CA|PC|background}} | ||{{Sortname|John|Diefenbaker}}
+| 105 || 112 || 25 || || 19 || || 4
+!265
+|{{Percentage bar|width=100%|42.2|c={{Canadian party colour|CA|PC}}}} || 74.1
+|{{efn-ur|name=e1957|[[John Diefenbaker]]'s Progressive Conservatives defeat Prime Minister St-Laurent's Liberals with an upset minority victory despite losing the popular vote.}}
+|-
+![[1958 Canadian federal election|24th]]<br />1958
+|{{dts|March 31}}|| {{Canadian party colour|CA|PC|background}} | ||{{Sortname|John|Diefenbaker}}
+| 49 || 208 || 8 || || || ||  –
+!265
+|{{Percentage bar|width=100%|78.5|c={{Canadian party colour|CA|PC}}}} || 79.4
+|{{efn-ur|name=e1958|Prime Minister Diefenbaker's Progressive Conservatives are re-elected and win the largest majority ({{As of|2025|lc=y}}) in Canadian history, defeating the Liberals and their new leader, [[Lester B. Pearson]]. Social Credit loses all its seats (including leader [[Solon Earl Low]]'s [[Peace River (federal electoral district)|Peace River]]) and the CCF loses most of its own (including leader [[M. J. Coldwell]]'s [[Rosetown—Biggar (federal electoral district)|Rosetown—Biggar]]).}}
+|-
+![[1962 Canadian federal election|25th]]<br />1962
+|{{dts|June 18}}
+| {{Canadian party colour|CA|PC|background}} | ||{{Sortname|John|Diefenbaker}}
+|99 || 116 || 19 || || 30 || || 1
+!265
+|{{Percentage bar|width=100%|43.8|c={{Canadian party colour|CA|PC}}}} || 79.0
+|{{efn-ur|name=e1962|Prime Minister Diefenbaker leads the Progressive Conservatives to a minority government, with a margin of victory over Pearson's Liberals of only one quarter of a percentage point in the popular vote. The [[New Democratic Party]], which evolved from the CCF, wins 19 seats but fails to achieve a hoped-for breakthrough under [[Tommy Douglas]]. [[Robert N. Thompson]] makes his debut as leader of Social Credit, which makes only a modest recovery in the West but unprecedented gains in Quebec.}}
+|-
+![[1963 Canadian federal election|26th]]<br />1963
+|{{dts|April 8}}
+| {{Canadian party colour|CA|Liberal|background}} | ||{{Sortname|Lester|Pearson}}
+| 128 || 95 || 17 || || 24 || || 1
+!265
+|{{Percentage bar|width=100%|48.3|c={{Canadian party colour|CA|Liberal}}}} || 79.2
+|{{efn-ur|name=e1963|Pearson's Liberals win a minority mandate, defeating Prime Minister Diefenbaker's Progressive Conservatives.}}
+|-
+![[1965 Canadian federal election|27th]]<br />1965
+|{{dts|Nov 8}}
+| {{Canadian party colour|CA|Liberal|background}} | ||{{Sortname|Lester|Pearson}}
+| 131 || 97 || 21 || || 5<br />+9|| || 2
+!265
+|{{Percentage bar|width=100%|49.4|c={{Canadian party colour|CA|Liberal}}}} || 74.8
+|{{efn-ur|name=e1965|Prime Minister Pearson's Liberals win re-election with a second minority, defeating former prime minister Diefenbaker's Progressive Conservatives. [[Social Credit Party of Canada split, 1963|Social Credit splits in 1963]], with French-speaking, mostly Quebec-based supporters under [[Réal Caouette]] forming the [[Ralliement créditiste]], while English-speaking Western supporters under Thompson remain under the "classic" banner. Most [[social credit]] movement supporters in Parliament serve with the Ralliement créditiste. Douglas' NDP moves into third place in the number of House seats.}}
+|-
+![[1968 Canadian federal election|28th]]<br />1968
+|{{dts|June 25}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{Sortname|Pierre|Trudeau}}
+| 155 || 72 || 22 || || 0<br />+14 || || 1
+!264
+|{{Percentage bar|width=100%|58.7|c={{Canadian party colour|CA|Liberal}}}} || 75.7
+|{{efn-ur|name=e1968|New prime minister [[Pierre Trudeau]] leads the Liberals to a majority victory, defeating the Progressive Conservatives under [[Robert Stanfield]].}}
+|-
+![[1972 Canadian federal election|29th]]<br />1972
+|{{dts|Oct 30}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{Sortname|Pierre|Trudeau}}
+| 109 || 107 || 31 || || 15 || || 2
+!264
+|{{Percentage bar|width=100%|41.3|c={{Canadian party colour|CA|Liberal}}}} || 76.7
+|{{efn-ur|name=e1972|Prime Minister P. Trudeau's Liberals are re-elected but with a minority, winning only two more seats than Stanfield's Progressive Conservatives despite winning the popular vote by more than three percentage points nationwide. The NDP pick up several seats under new leader [[David Lewis (Canadian politician)|David Lewis]]. Social Credit, now reunited under Caouette's leadership, maintains its support in Quebec.}}
+|-
+![[1974 Canadian federal election|30th]]<br />1974
+|{{dts|July 8}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{Sortname|Pierre|Trudeau}}
+| 141 || 95 || 16 || || 11 || || 1
+!264
+|{{Percentage bar|width=100%|53.4|c={{Canadian party colour|CA|Liberal}}}} || 71.0
+|{{efn-ur|name=e1974|Prime Minister P. Trudeau's Liberals defeat Stanfield's Progressive Conservatives with a second majority.}}
+|-
+![[1979 Canadian federal election|31st]]<br />1979
+|{{dts|May 22}}{{Efn|name=Tuesday|Election held on a Tuesday immediately following a Monday that was a statutory holiday}}|| {{Canadian party colour|CA|PC|background}} | ||{{Sortname|Joe|Clark}}
+| 114 || 136 || 26 || || 6 || || 0
+!282
+|{{Percentage bar|width=100%|48.2|c={{Canadian party colour|CA|PC}}}} || 75.7
+|{{efn-ur|name=e1979|[[Joe Clark]]'s Progressive Conservatives defeat the Liberals, led by Prime Minister P. Trudeau, and win a minority government, despite winning a significantly smaller share of the vote than the Liberals. [[Ed Broadbent]] makes his debut as leader of the NDP, and [[Fabien Roy]] makes his debut as leader of Social Credit.}}
+|-
+![[1980 Canadian federal election|32nd]]<br />1980
+|{{dts|Feb 18}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{Sortname|Pierre|Trudeau}}
+| 147 || 103 || 32 || || || || 0
+!282
+|{{Percentage bar|width=100%|52.1|c={{Canadian party colour|CA|Liberal}}}} || 69.3
+|{{efn-ur|name=e1980|Former prime minister P. Trudeau's Liberals defeat the Progressive Conservatives, led by Prime Minister Clark. For the first time since 1958, Social Credit fails to elect any MPs and so fades into history after an almost unbroken 45-year run of federal representation, leaving Canada with a three-party system.}}
+|-
+![[1984 Canadian federal election|33rd]]<br />1984
+|{{dts|Sep 4}}{{efn|name=Tuesday}}|| {{Canadian party colour|CA|PC|background}} | ||{{Sortname|Brian|Mulroney}}
+| 40 || 211 || 30 || || || || 1
+!282
+|{{Percentage bar|width=100%|74.8|c={{Canadian party colour|CA|PC}}}} || 75.3
+|{{efn-ur|name=e1984|[[Brian Mulroney]] led Progressive Conservatives won a landslide victory, ousting the Liberals led by [[John Turner]], rendering Turner the Prime Minister with the second shortest tenure and the second Prime Minister who held no parliamentary seat while Prime Minister. The PCs' 211 seats remained to date the most number of seats won by any party, and the government formed had the second strongest command of parliament in Canadian history. The Liberals' performance was its worst to that point.}}
+|-
+![[1988 Canadian federal election|34th]]<br />1988
+|{{dts|Nov 21}}
+| {{Canadian party colour|CA|PC|background}} | ||{{Sortname|Brian|Mulroney}}
+| 83 || 169 || 43 || || || || 0
+!295
+|{{Percentage bar|width=100%|57.3|c={{Canadian party colour|CA|PC}}}} || 75.3
+|{{efn-ur|name=e1988|Prime Minister Mulroney's Progressive Conservatives win a second majority, diminished from 1984 due to contending with a much stronger performance from the Liberals under former prime minister Turner and a strong third-party showing from Broadbent's New Democrats. {{As of|2025|post=,}} this is the most recent federal general election where only three parties returned all the members of Parliament. Led by [[Preston Manning]], the right-wing, Western-based [[Reform Party of Canada|Reform Party]] contests its first election but fails to win any seats.}}
+|-
+![[1993 Canadian federal election|35th]]<br />1993
+|{{dts|Oct 25}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{Sortname|Jean|Chrétien}}
+| 177 || 2 +52 || 9 || 54 || || || 1
+!295
+|{{Percentage bar|width=100%|60|c={{Canadian party colour|CA|Liberal}}}} || 69.6
+|{{efn-ur|name=e1993|[[Jean Chrétien]]'s Liberals win a majority, soundly defeating the Progressive Conservatives, led by new prime minister [[Kim Campbell]], who are left in fifth place with just two seats, their worst ever showing. The [[Bloc Québécois]], founded in 1990 and led by ex-Mulroney cabinet minister [[Lucien Bouchard]], becomes the Official Opposition. Reform becomes the third party. [[Audrey McLaughlin]]'s New Democrats also post their worst results to this point with just nine seats. The election marks the end of the predominantly three-party Liberal–Progressive Conservative–NDP system.}}
+|-
+![[1997 Canadian federal election|36th]]<br />1997
+|{{dts|June 2}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{Sortname|Jean|Chrétien}}
+| 155 || 20 +60 || 21 || 44 || || || 1
+!301
+|{{Percentage bar|width=100%|51.5|c={{Canadian party colour|CA|Liberal}}}} || 67.0
+|{{efn-ur|name=e1997|Prime Minister Chrétien's Liberals are re-elected with a second, albeit much slimmer, majority. Manning's Reform Party becomes the Official Opposition as the Bloc Québécois falls to third place under new leader [[Gilles Duceppe]]. The NDP, led by [[Alexa McDonough]], and the Progressive Conservatives, led by [[Jean Charest]], both make gains.}}
+|-
+![[2000 Canadian federal election|37th]]<br />2000
+|{{dts|Nov 27}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{Sortname|Jean|Chrétien}} 
+| 172 || 12 +66 || 13 || 38 || || || 0
+!301 
+|{{Percentage bar|width=100%|57.1|c={{Canadian party colour|CA|Liberal}}}} || 64.1
+|{{efn-ur|name=e2000|Prime Minister Chrétien's Liberals are re-elected with a third majority, defeating [[Stockwell Day]]'s [[Canadian Alliance]], the unsuccessful attempt to unite the Reform Party and Progressive Conservatives. Both the Liberals and Alliance gain seats at the expense of the Bloc under Duceppe, NDP under McDonough, and PCs under former prime minister Clark.}}
+|-
+![[2004 Canadian federal election|38th]]<br />2004
+|{{dts|June 28}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{Sortname|Paul|Martin}} 
+| 135 || 99 || 19 || 54 || || || 1
+!308 
+|{{Percentage bar|width=100%|43.8|c={{Canadian party colour|CA|Liberal}}}} || 60.9
+|{{efn-ur|name=e2004|Prime Minister [[Paul Martin]] led Liberals secured re-election but was reduced to a minority. The reconstituted [[Conservative Party of Canada|Conservative Party]], formed by a merger of Progressive Conservatives and Canadian Alliance, contested its first election led by [[Stephen Harper]]. Bloc led by Gilles Duceppe for the third time increase its seat count from 38 to 54, matching the party's record at its debut in 1993. NDP led by new leader Jack Layton increased its seat count by half but Layton was defeated locally. }}
+|-
+![[2006 Canadian federal election|39th]]<br />2006
+|{{dts|Jan 23}}|| {{Canadian party colour|CA|Conservative|background}} | ||{{Sortname|Stephen|Harper}}
+| 103 || 124 || 29 || 51 || || || 1 
+!308
+|{{Percentage bar|width=100%|40.3|c={{Canadian party colour|CA|Conservative}}}} || 64.7
+|{{efn-ur|name=e2006|Stephen Harper led Conservatives defeated incumbent Liberals led by Prime Minister Paul Martin and formed the first government of the reconstituted party. The government formed was, and remained to date, the Canadian government with the weakest command of parliament ever. Jack Layton led the NDP to increas its seat count by half for the second time.}}
+|-
+![[2008 Canadian federal election|40th]]<br />2008
+|{{dts|Oct 14}}{{efn|name=Tuesday}}|| {{Canadian party colour|CA|Conservative|background}} | ||{{Sortname|Stephen|Harper}}
+|77 || 143 || 37 || 49 || || || 2
+!308
+|{{Percentage bar|width=100%|46.4|c={{Canadian party colour|CA|Conservative}}}} || 58.8
+|{{efn-ur|name=e2008|Prime Minister Harper's Conservatives won a second minority government, defeating [[Stéphane Dion]] led Liberals by larger margins than in 2006. BQ maintained vote share and seat counts. NDP increase seat count from 30 to 37 despite gaining less than 1% in popular vote. Greens under new leader [[Elizabeth May]] expanded its vote share by 50% but again failed to win any seats.}}
+|-
+![[2011 Canadian federal election|41st]]<br />2011
+|{{dts|May 2}}|| {{Canadian party colour|CA|Conservative|background}} | ||{{Sortname|Stephen|Harper}}
+| 34 || 166 || 103 || 4 || || || 1
+!308
+|{{Percentage bar|width=100%|53.9|c={{Canadian party colour|CA|Conservative}}}} || 61.1
+|{{efn-ur|name=e2011|Prime Minister Harper led the Conservatives to their third victory and first majority mandate. NDP led by [[Jack Layton]] form Official Opposition for the first time in the party's history. Liberals led by [[Michael Ignatieff]] fall to third place, their worst ever showing and the only time to date where they failed to form government or lead opposition. The Bloc Québécois collapsed from 47 to 4 seats. The Green Party won its first seat, that of leader Elizabeth May.}}
+|-
+![[2015 Canadian federal election|42nd]]<br />2015
+|{{dts|Oct 19}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{Sortname|Justin|Trudeau}}
+|184 || 99 || 44 || 10 || || || 1
+!338
+|{{Percentage bar|width=100%|54.4|c={{Canadian party colour|CA|Liberal}}}} || 68.3
+|{{efn-ur|name=e2015|[[Justin Trudeau]] led Liberals leapfrogged form from third place to government, ousting Conservatives Prime Minister [[Stephen Harper]], and became the first child of a previous Prime Minister to become Prime Minister.}}
+|- 
+![[2019 Canadian federal election|43rd]]<br />2019
+|{{dts|Oct 21}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{Sortname|Justin|Trudeau}}
+| 157 || 121 || 24 || 32 || || || 4
+!338
+|{{Percentage bar|width=100%|46.4|c={{Canadian party colour|CA|Liberal}}}} || 67.0
+|{{efn-ur|name=e2019|Prime Minister J. Trudeau's Liberals won a minority government with smaller share of popular vote than the Conservatives led by [[Andrew Scheer]]. This was the second time in Canadian history the government was formed by a party with less than 35% of the popular vote.}}
+|-
+![[2021 Canadian federal election|44th]]<br />2021
+|{{dts|Sep 20}}|| {{Canadian party colour|CA|Liberal|background}} | ||{{Sortname|Justin|Trudeau}}
+| 160 || 119 || 25 || 32 || || || 2
+!338
+|{{Percentage bar|width=100%|47.3|c={{Canadian party colour|CA|Liberal}}}} || 62.3
+|{{efn-ur|name=e2021|Prime Minister J. Trudeau's Liberals won minority mandate for the second time despite winning smaller share of popular vote than the Conservatives led by [[Erin O'Toole]]. Bloc Québécois, NDP and Green largely maintained their presents in Parliament. Green Party leader [[Annamie Paul]] came in fourth locally in [[Toronto Centre (federal electoral district)|Toronto Centre]] after extended acromonious infighting. People's Party leader Bernier again failed to win seat.}}
+|-
+![[2025 Canadian federal election|45th]]<br />2025
+|{{dts|April 28}}
+| {{Canadian party colour|CA|Liberal|background}} | ||{{Sortname|Mark|Carney}}
+| 169 || 144 || 7 || 22 || || || 1
+!343
+|{{Percentage bar|width=100%|49.3|c={{Canadian party colour|CA|Liberal}}}} || 69.5
+|{{efn-ur|name=e2025|Former [[Bank of Canada]] and [[Bank of England]] Governor [[Mark Carney]] led Liberals to minority victory while a first time candidate for any public office, the first person with no prior electoral experience to lead a party to victory. Conservatives led by [[Pierre Poilievre]] won over 40% share of popular vote, a new watermark for the modern Conservative Party, but failed to form government, the first time a party with more than 40% popular vote not forming government since 1979 when Liberal Prime Minister Pierre Trudeau with 40.1% was ousted by Progressive Conservative Joe Clark with 35.9%. NDP lost official party status for the first time since 1993 and its leader Jagmeet Singh was defeated locally.}}
+|}
+{{notelist-ur}}
+{{notelist}}
+===Notes===
+{{Reflist}}
+
+==Further reading==
+* {{cite book |last1=Argyle |first1=Ray |title=Turning Points: The Campaigns That Changed Canada 2004 and Before |date=2004 |publisher=White Knight Publications |location=Toronto |isbn=978-0-9734186-6-8 |url=https://archive.org/details/turningpointscam0000argy |url-access=registration}} – covers federal elections of 1878, 1896, 1911, 1917, 1926, 1945, 1957, 1968, 1988, and 2004
+* {{cite book |editor1-last=MacIvor |editor1-first=Heather |title=Election |date=2010 |publisher=Emond Montgomery Publications |location=Toronto |isbn=978-1-55239-321-5 |url=https://archive.org/details/election0000unse |url-access=registration}}
+
+== Graphs of results ==
+=== Share of seats (stacked bars) ===
+{| cellpadding="0;" style="margin: auto; width:60%; border:1px solid black; text-align:center;"
+|+'''Canada's general elections – Seat share'''
+! style="width: 3em"|Year ||style=""| Share of seats || style="width: 2em"|Total
+|-
+| 1867 || {{Stacked bar|Total=180 |A1=62 |C1=#EA6D6A |A6=18 |C6=#EABB94 |A9=100 |C9=#6495ED |height=20px}} || 180
+|-
+| 1872 || {{Stacked bar|Total=200 |A1=95 |C1=#EA6D6A |A5=5 |C5=#A9A9A9 |A9=100 |C9=#6495ED |height=20px}} || 200
+|-
+| 1874 || {{Stacked bar|Total=206 |A1=129 |C1=#EA6D6A |A5=12 |C5=#A9A9A9 |A9=65 |C9=#6495ED |height=20px}} || 206
+|-
+| 1878 || {{Stacked bar|Total=206 |A1=63 |C1=#EA6D6A |A5=9 |C5=#A9A9A9 |A9=134 |C9=#6495ED |height=20px}} || 206
+|-
+| 1882 || {{Stacked bar|Total=211 |A1=73 |C1=#EA6D6A |A5=4 |C5=#A9A9A9 |A9=134 |C9=#6495ED |height=20px}} || 211
+|-
+| 1887 || {{Stacked bar|Total=215 |A1=80 |C1=#EA6D6A |A5=11 |C5=#A9A9A9 |A9=124 |C9=#6495ED |height=20px}} || 215
+|-
+| 1891 || {{Stacked bar|Total=215 |A1=90 |C1=#EA6D6A |A5=7 |C5=#A9A9A9 |A9=118 |C9=#6495ED |height=20px}} || 215
+|-
+| 1896 || {{Stacked bar|Total=213 |A1=117 |C1=#EA6D6A |A5=10 |C5=#A9A9A9 |A9=86 |C9=#6495ED |height=20px}} || 213
+|-
+| 1900 || {{Stacked bar|Total=213 |A1=128 |C1=#EA6D6A |A5=6 |C5=#A9A9A9 |A9=79 |C9=#6495ED |height=20px}} || 213
+|-
+| 1904 || {{Stacked bar|Total=214 |A1=137 |C1=#EA6D6A |A5=2 |C5=#A9A9A9 |A9=75 |C9=#6495ED |height=20px}} || 214
+|-
+| 1908 || {{Stacked bar|Total=221 |A1=133 |C1=#EA6D6A |A5=3 |C5=#A9A9A9 |A9=85 |C9=#6495ED |height=20px}} || 221
+|-
+| 1911 || {{Stacked bar|Total=221 |A1=85 |C1=#EA6D6A |A5=4 |C5=#A9A9A9 |A9=132 |C9=#6495ED |height=20px}} || 221
+|-
+| 1917 || {{Stacked bar|Total=235 |A1=82 |C1=#EA6D6A |A9=153 |C9=#6495ED |height=20px}} || 235
+|-
+| 1921 || {{Stacked bar|Total=235 |A1=118 |C1=#EA6D6A |A3=61 |C3=#B9E5B9 |A4=3 |C4=#EEBBBB |A5=7 |C5=#A9A9A9 |A9=49 |C9=#6495ED |height=20px}} || 235
+|-
+| 1925 || {{Stacked bar|Total=245 |A1=100 |C1=#EA6D6A |A3=24 |C3=#B9E5B9 |A5=6 |C5=#A9A9A9 |A9=115 |C9=#6495ED |height=20px}} || 245
+|-
+| 1926 || {{Stacked bar|Total=245 |A1=116 |C1=#EA6D6A |A2=8 |C2=#66CC00 |A3=23 |C3=#B9E5B9 |A5=7 |C5=#A9A9A9 |A9=91 |C9=#6495ED |height=20px}} || 245
+|-
+| 1930 || {{Stacked bar|Total=245 |A1=88 |C1=#EA6D6A |A2=3 |C2=#66CC00 |A3=12 |C3=#B9E5B9 |A4=2 |C4=#EEBBBB |A5=7 |C5=#A9A9A9 |A9=134 |C9=#6495ED |height=20px}} || 245
+|-
+| 1935 || {{Stacked bar|Total=245 |A1=173 |C1=#EA6D6A |A2=4 |C2=#66CC00 |A4=7 |C4=#EEDDAA |A5=5 |C5=#A9A9A9 |A7=17 |C7=#90EE90 |A9=39 |C9=#6495ED |height=20px}} || 245
+|-
+| 1940 || {{Stacked bar|Total=245 |A1=179 |C1=#EA6D6A |A2=3 |C2=#66CC00 |A4=8 |C4=#EEDDAA |A5=6 |C5=#A9A9A9 |A7=10 |C7=#90EE90 |A9=39 |C9=#6495ED |height=20px}} || 245
+|-
+| 1945 || {{Stacked bar|Total=245 |A1=126 |C1=#EA6D6A |A2=1 |C2=#66CC00 |A4=28 |C4=#EEDDAA |A5=9 |C5=#A9A9A9 |A6=2 |C6=#87CEFA |A7=13 |C7=#90EE90 |A9=66 |C9=#6495ED |height=20px}} || 245
+|-
+| 1949 || {{Stacked bar|Total=262 |A1=191 |C1=#EA6D6A |A2=1 |C2=#66CC00 |A4=13 |C4=#EEDDAA |A5=6 |C5=#A9A9A9 |A7=10 |C7=#90EE90 |A9=41 |C9=#6495ED |height=20px}} || 262
+|-
+| 1953 || {{Stacked bar|Total=265 |A1=169 |C1=#EA6D6A |A2=1 |C2=#66CC00 |A4=23 |C4=#EEDDAA |A5=6 |C5=#A9A9A9 |A7=15 |C7=#90EE90 |A9=51 |C9=#6495ED |height=20px}} || 265
+|-
+| 1957 || {{Stacked bar|Total=265 |A1=105 |C1=#EA6D6A |A4=25 |C4=#EEDDAA |A5=4 |C5=#A9A9A9 |A7=19 |C7=#90EE90 |A9=112 |C9=#6495ED |height=20px}} || 265
+|-
+| 1958 || {{Stacked bar|Total=265 |A1=49 |C1=#EA6D6A |A4=8 |C4=#EEDDAA |A9=208 |C9=#6495ED |height=20px}} || 265
+|-
+| 1962 || {{Stacked bar|Total=265 |A1=99 |C1=#EA6D6A |A4=19 |C4=#F4A460 |A5=1 |C5=#A9A9A9 |A7=30 |C7=#90EE90 |A9=116 |C9=#6495ED |height=20px}} || 265
+|-
+| 1963 || {{Stacked bar|Total=265 |A1=128 |C1=#EA6D6A |A4=17 |C4=#F4A460 |A5=1 |C5=#A9A9A9 |A7=24 |C7=#90EE90 |A9=95 |C9=#6495ED |height=20px}} || 265
+|-
+| 1965 || {{Stacked bar|Total=265 |A1=131 |C1=#EA6D6A |A4=21 |C4=#F4A460 |A5=2 |C5=#A9A9A9 |A7=14 |C7=#90EE90 |A9=97 |C9=#6495ED |height=20px}} || 265
+|-
+| 1968 || {{Stacked bar|Total=264 |A1=155 |C1=#EA6D6A |A4=22 |C4=#F4A460 |A5=1 |C5=#A9A9A9 |A7=14 |C7=#90EE90 |A9=72 |C9=#6495ED |height=20px}} || 264
+|-
+| 1972 || {{Stacked bar|Total=264 |A1=109 |C1=#EA6D6A |A4=31 |C4=#F4A460 |A5=2 |C5=#A9A9A9 |A7=15 |C7=#90EE90 |A9=107 |C9=#6495ED |height=20px}} || 264
+|-
+| 1974 || {{Stacked bar|Total=264 |A1=141 |C1=#EA6D6A |A4=16 |C4=#F4A460 |A5=1 |C5=#A9A9A9 |A7=11 |C7=#90EE90 |A9=95 |C9=#6495ED |height=20px}} || 264
+|-
+| 1979 || {{Stacked bar|Total=282 |A1=114 |C1=#EA6D6A |A4=26 |C4=#F4A460 |A7=6 |C7=#90EE90 |A9=136 |C9=#6495ED |height=20px}} || 282
+|-
+| 1980 || {{Stacked bar|Total=282 |A1=147 |C1=#EA6D6A |A4=32 |C4=#F4A460 |A9=103 |C9=#6495ED |height=20px}} || 282
+|-
+| 1984 || {{Stacked bar|Total=282 |A1=40 |C1=#EA6D6A |A4=30 |C4=#F4A460 |A5=1 |C5=#A9A9A9 |A9=211 |C9=#6495ED |height=20px}} || 282
+|-
+| 1988 || {{Stacked bar|Total=295 |A1=83 |C1=#EA6D6A |A4=43 |C4=#F4A460 |A9=169 |C9=#6495ED |height=20px}} || 295
+|-
+| 1993 || {{Stacked bar|Total=295 |A1=177 |C1=#EA6D6A |A4=9 |C4=#F4A460 |A5=1 |C5=#A9A9A9 |A6=54 |C6=#87CEFA |A8=52 |C8=#5F9EA0 |A9=2 |C9=#6495ED |height=20px}} || 295
+|-
+| 1997 || {{Stacked bar|Total=301 |A1=155 |C1=#EA6D6A |A4=21 |C4=#F4A460 |A5=1 |C5=#A9A9A9 |A6=44 |C6=#87CEFA |A8=60 |C8=#5F9EA0 |A9=20 |C9=#6495ED |height=20px}} || 301
+|-
+| 2000 || {{Stacked bar|Total=301 |A1=172 |C1=#EA6D6A |A4=13 |C4=#F4A460 |A6=38 |C6=#87CEFA |A8=66 |C8=#5F9EA0 |A9=12 |C9=#6495ED |height=20px}} || 301
+|-
+| 2004 || {{Stacked bar|Total=308 |A1=135 |C1=#EA6D6A |A4=19 |C4=#F4A460 |A5=1 |C5=#A9A9A9 |A6=54 |C6=#87CEFA |A9=99 |C9=#6495ED |height=20px}} || 308
+|-
+| 2006 || {{Stacked bar|Total=308 |A1=103 |C1=#EA6D6A |A4=29 |C4=#F4A460 |A5=1 |C5=#A9A9A9 |A6=51 |C6=#87CEFA |A9=124 |C9=#6495ED |height=20px}} || 308
+|-
+| 2008 || {{Stacked bar|Total=308 |A1=77 |C1=#EA6D6A |A4=37 |C4=#F4A460 |A5=2 |C5=#A9A9A9 |A6=49 |C6=#87CEFA |A9=143 |C9=#6495ED |height=20px}} || 308
+|-
+| 2011 || {{Stacked bar|Total=308 |A1=34 |C1=#EA6D6A |A4=103 |C4=#F4A460 |A5=1 |C5=#99C955 |A6=4 |C6=#87CEFA |A9=166 |C9=#6495ED |height=20px}} || 308
+|-
+| 2015 || {{Stacked bar|Total=338 |A1=184 |C1=#EA6D6A |A4=44 |C4=#F4A460 |A5=1 |C5=#99C955 |A6=10 |C6=#87CEFA |A9=99 |C9=#6495ED |height=20px}} || 338
+|-
+| 2019 || {{Stacked bar|Total=338 |A1=157 |C1=#EA6D6A |A4=24 |C4=#F4A460 |A5=4 |C5=#99C955 |A6=32 |C6=#87CEFA |A9=121 |C9=#6495ED |height=20px}} || 338
+|-
+| 2021 || {{Stacked bar|Total=338 |A1=160 |C1=#EA6D6A |A4=25 |C4=#F4A460 |A5=2 |C5=#99C955 |A6=32 |C6=#87CEFA |A9=119 |C9=#6495ED |height=20px}} || 338
+|-
+| 2025 || {{Stacked bar|Total=343 |A1=169 |C1=#EA6D6A |A4=7 |C4=#F4A460 |A5=1 |C5=#99C955 |A6=22 |C6=#87CEFA |A9=144 |C9=#6495ED |height=20px}} || 343
+|-
+| ||colspan=2|{{col-begin}}{{col-3}}
+{{color sample|#EA6D6A|border=FFF}} Liberal<br />
+{{color sample|#66CC00|border=FFF}} Lib.-Prog.<br />
+{{color sample|#B9E5B9|border=FFF}} Progressive<br />
+{{color sample|#99C955|border=FFF}} Green
+{{col-3}}
+{{color sample|#F4A460|border=FFF}} NDP &nbsp; {{color sample|#EEDDAA|border=FFF}} CCF<br />
+{{color sample|#EEBBBB|border=FFF}} Labour<br />
+{{color sample|#EABB94|border=FFF}} Anti-Confed.<br />
+{{color sample|#A9A9A9|border=FFF}} Ind./Others 
+{{col-3}}
+{{color sample|#6495ED|border=FFF}} Conservative/PC<br />
+{{color sample|#5F9EA0|border=FFF}} Reform/Alliance<br />
+{{color sample|#87CEFA|border=FFF}} Bloc Quebecois<br />
+{{color sample|#90EE90|border=FFF}} Social Credit{{col-end}}
+|}
+
+=== Share of popular votes (line graph)===
+[[File:Canadian federal elections 2025.svg|thumb|centre|800px]]
+
+<!--Content here appears to be an unfinished work. In any event it does not present data in any sensible or easily understandable manner, but kept in case author wants to return to work on it.
+=== Bar graph of seats from 1867 to 2021 ===
+{{Image frame
+| caption = Seat distribution in the House of Commons from 1867 to 2021
+{{div col|colwidth=20em}}
+{{legend|{{Canadian party colour|CA|NDP}}|{{Canadian party colour|CA|NDP|name}}}}
+{{legend|{{Canadian party colour|CA|Liberal}}|{{Canadian party colour|CA|Liberal|name}}}}
+{{legend|{{Canadian party colour|CA|Green}}|{{Canadian party colour|CA|Green|name}}}}
+{{legend|{{Canadian party colour|CA|Independent}}|{{Canadian party colour|CA|Independent|name}} & others}}
+{{legend|{{Canadian party colour|CA|BQ}}|{{Canadian party colour|CA|BQ|name}}}}
+{{legend|{{Canadian party colour|CA|Conservative}}|{{Canadian party colour|CA|Conservative|name}}}}
+{{div col end}}
+Historical parties (represented in the House up to the 2000 elections)
+{{div col}}
+{{legend|{{Canadian party colour|CA|Progressive}}|{{Canadian party colour|CA|Progressive|name}}, {{Canadian party colour|CA|United Farmers of Alberta|name}}}}
+{{legend|{{Canadian party colour|CA|CCF}}|{{Canadian party colour|CA|CCF|name}}}}
+{{legend|{{Canadian party colour|CA|Conservative (historical)}}|{{Canadian party colour|CA|Conservative (historical)|name}}, {{Canadian party colour|CA|National Government|name}}, {{Canadian party colour|CA|Progressive Conservative|name}}}}
+{{legend|{{Canadian party colour|CA|Reform}}|{{Canadian party colour|CA|Reform|name}}}}
+{{legend|{{Canadian party colour|CA|Canadian Alliance}}|{{Canadian party colour|CA|Canadian Alliance|name}}}}
+{{legend|{{Canadian party colour|CA|Social Credit}}|{{Canadian party colour|CA|Social Credit|name}}, {{Canadian party colour|CA|New Democracy|name}}, {{Canadian party colour|CA|Ralliement créditiste|name}}}}
+{{legend|{{Canadian party colour|CA|Anti-Confederation}}|{{Canadian party colour|CA|Anti-Confederation|name}}}}
+{{div col end}}
+| align = center
+| width = 900
+| content = 
+    {{Chart|definition=Canadian federal elections graph of seats from 1867 to 2021.chart|data=Canadian federal elections graph of seats from 1867 to 2021.tab|Width=750}}
+}}
+-->
+
+==See also==
+{{Portal|Canada|Politics}}
+*[[List of political parties in Canada]]
+*[[Voter turnout in Canada]]
+
+==References==
+* {{cite web| url=http://www2.parl.gc.ca/Sites/LOP/HFER/hfer.asp?Language=E| title=History of Federal Ridings since 1867| work=Parliament of Canada| access-date=2007-01-07| archive-url=https://web.archive.org/web/20110101002259/http://www2.parl.gc.ca/Sites/LOP/HFER/hfer.asp?Language=E| archive-date=2011-01-01| url-status=dead}}
+
+{{Canelections}}
+{{election canada}}
+
+{{DEFAULTSORT:Canadian federal general elections, List of}}
+[[Category:Canadian election timelines|*]]
+[[Category:Canadian federal elections| ]]
+[[Category:Lists of elections in Canada|Federal]]

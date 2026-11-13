@@ -1,0 +1,356 @@
+---
+/**
+ * Seats won by each party family at every federal general election since
+ * 1867, as 100% stacked columns, with the government each election produced.
+ * From src/data/elections/history.json (`pnpm data:election-history`).
+ *
+ *   <tn-widget name="election-seats"></tn-widget>
+ *   <tn-widget name="election-seats" data-compact="true"></tn-widget>
+ *
+ * Liberals stack up from the bottom and the Conservative family hangs from
+ * the top, so either party's majority shows as its colour crossing the
+ * dashed halfway line. Smaller families sit between them. The compact
+ * variant drops the annotations and is shorter, for embedding in lessons.
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import ChartTip from "../../components/charts/TnChartTip.astro";
+import Legend from "../../components/charts/ChartLegend.astro";
+import { uniqueId } from "../../lib/ids";
+import {
+  FEDERAL,
+  STACK,
+  ecTurnoutUrl,
+  elections,
+  formatDate,
+  governmentLabel,
+  historyMeta,
+  ordinal,
+  pct,
+  wikiListUrl,
+  type Election,
+  type FederalFamily,
+} from "../../lib/election-history";
+
+interface Props {
+  compact?: boolean | string;
+}
+const compact = Astro.props.compact === true || Astro.props.compact === "true";
+const id = uniqueId(Astro, "seats", compact ? "compact" : "full");
+
+const H = compact ? 220 : 320;
+const n = elections.length;
+const slot = 1000 / n;
+const share = (e: Election, f: FederalFamily) => e.seats[f] / e.houseSize;
+
+// Families that ever won a seat, in stacking order, for the legend and table.
+const families = STACK.filter((f) => elections.some((e) => e.seats[f] > 0));
+const legendOrder: FederalFamily[] = ["lpc", "cpc", "progressive", "socred", "ndp", "bq", "gpc", "other"].filter((f) =>
+  families.includes(f as FederalFamily),
+) as FederalFamily[];
+
+const columns = elections.map((e, i) => {
+  let y = H;
+  const segs = STACK.filter((f) => e.seats[f] > 0).map((f) => {
+    const h = share(e, f) * H;
+    y -= h;
+    return { f, y, h };
+  });
+  return { e, i, x: i * slot, segs };
+});
+
+// Data-driven takeaway.
+const minorities = elections.filter((e) => e.government.type === "minority");
+const recent = elections.filter((e) => e.year >= 2004);
+const recentMin = recent.filter((e) => e.government.type === "minority").length;
+const lede = `Only the Liberals and Conservatives have ever formed a government. ${minorities.length} of ${n} elections left the winner short of a majority, and ${recentMin} of the ${recent.length} since 2004 did.`;
+
+// Annotations: the biggest majority, and each smaller family's best result where it took 15% of the seats or more.
+const biggest = elections.reduce((a, b) => (b.government.seats / b.houseSize > a.government.seats / a.houseSize ? b : a));
+/** "the Progressives win", "the NDP wins". */
+const theWin = (party: string) => (/(ive|al)$/.test(party) ? `the ${party}s win` : `the ${party} wins`);
+const notes = [
+  {
+    e: biggest,
+    text: `${biggest.year}: ${biggest.government.primeMinister}'s ${biggest.government.party}s win ${biggest.government.seats} of ${biggest.houseSize} seats, the biggest share any party has won`,
+  },
+  ...(["progressive", "ndp", "bq"] as FederalFamily[])
+    .map((f) => {
+      const best = elections.reduce((a, b) => (share(b, f) > share(a, f) ? b : a));
+      if (share(best, f) < 0.15) return null;
+      // The family's own party that year: "Progressive", "NDP", "Bloc Québécois".
+      const party = best.parties.filter((p) => p.family === f).sort((a, b) => b.seats - a.seats)[0]?.name ?? FEDERAL[f].label;
+      return { e: best, text: `${best.year}: ${theWin(party)} ${best.seats[f]} seats, its biggest share of the House` };
+    })
+    .filter((x) => x !== null),
+]
+  .sort((a, b) => a.e.year - b.e.year)
+  .map((a) => ({ ...a, x: (elections.indexOf(a.e) + 0.5) * slot }));
+
+// x-axis: the election nearest each quarter century.
+const xLabels = [1867, 1900, 1925, 1950, 1975, 2000, 2025].map((y) => {
+  const i = elections.reduce((best, e, k) => (Math.abs(e.year - y) < Math.abs(elections[best]!.year - y) ? k : best), 0);
+  return { i, year: elections[i]!.year };
+});
+
+const rowsFor = (e: Election) => {
+  const fams = (Object.keys(e.seats) as FederalFamily[])
+    .filter((f) => e.seats[f] > 0 || e.vote[f] >= 1)
+    .sort((a, b) => e.seats[b] - e.seats[a] || e.vote[b] - e.vote[a]);
+  return fams.map((f) => {
+    const parts = e.parties.filter((p) => p.family === f && p.seats > 0);
+    const split = parts.length > 1 && parts.reduce((s, p) => s + p.seats, 0) === e.seats[f];
+    return {
+      f,
+      label: FEDERAL[f].label,
+      seats: e.seats[f],
+      vote: f === "other" && e.year < 1900 ? null : e.vote[f],
+      detail: split ? parts.map((p) => `${p.name} ${p.seats}`).join(" · ") : null,
+    };
+  });
+};
+const aria = (e: Election) =>
+  `${e.year}: ${governmentLabel(e)}, ${e.government.primeMinister}. ` +
+  rowsFor(e)
+    .filter((r) => r.seats > 0)
+    .map((r) => `${r.label} ${r.seats}`)
+    .join(", ") +
+  ` of ${e.houseSize} seats.`;
+---
+
+<ChartCard
+  title={compact ? "Seats won by each party, 1867–2025" : "Who won the House, 1867–2025"}
+  lede={lede}
+  sources={[
+    { label: "Wikipedia, List of Canadian federal elections (CC BY-SA 4.0)", url: wikiListUrl },
+    { label: "Elections Canada, voter turnout and election dates", url: ecTurnoutUrl },
+  ]}
+  tableLabel="Show the data"
+>
+  <Legend
+    items={[
+      ...legendOrder.map((f) => ({ label: FEDERAL[f].label, color: FEDERAL[f].color })),
+      { label: "Half the seats", color: "var(--tn-text-primary)", kind: "dash" as const },
+    ]}
+  />
+
+  <tn-chart class="seats mt-4">
+    <div class="grid grid-cols-[2.25rem_minmax(0,1fr)]">
+      {
+        !compact && (
+          <>
+            <span />
+            <div class="relative h-5" aria-hidden="true">
+              {notes.map((a, k) => (
+                <span
+                  class="seats-mark absolute top-0 grid size-4 -translate-x-1/2 place-items-center rounded-full bg-surface-sunken text-[10px] font-semibold leading-none text-primary"
+                  style={`left: ${(a.x / 10).toFixed(2)}%`}
+                >
+                  {k + 1}
+                </span>
+              ))}
+            </div>
+          </>
+        )
+      }
+
+      <span class="self-center pr-1.5 text-end text-[10px] leading-none text-muted" aria-hidden="true">Gov.</span>
+      <svg class="block h-2.5 w-full" viewBox="0 0 1000 10" preserveAspectRatio="none" aria-hidden="true">
+        {
+          columns.map(({ e, i, x }) => (
+            <rect
+              x={x}
+              width={slot}
+              height="10"
+              class:list={["seats-gov", e.government.type]}
+              data-group={i}
+              fill={FEDERAL[e.government.family].color}
+              fill-opacity={e.government.type === "majority" ? 1 : 0.3}
+            />
+          ))
+        }
+      </svg>
+
+      <div class="relative mt-1.5 text-[11px] text-muted" aria-hidden="true">
+        {
+          [100, 75, 50, 25, 0].map((v) => (
+            <span class="absolute right-1.5 -translate-y-1/2 leading-none" style={`top: ${100 - v}%`}>
+              {v}%
+            </span>
+          ))
+        }
+      </div>
+      <div class="relative mt-1.5" style={`height: ${H}px`}>
+        <svg class="seats-plot absolute inset-0 block size-full" viewBox={`0 0 1000 ${H}`} preserveAspectRatio="none" role="group" aria-label="Seat shares by election; use the arrow keys to move between elections">
+          {
+            columns.map(({ e, i, x, segs }) => (
+              <g class="seats-col" data-group={i}>
+                {segs.map((s) => (
+                  <rect x={x} y={s.y} width={slot} height={s.h} fill={FEDERAL[s.f].color} class="seats-seg" />
+                ))}
+              </g>
+            ))
+          }
+          <line x1="0" x2="1000" y1={H / 2} y2={H / 2} class="seats-half" />
+          {
+            columns.map(({ e, i, x }) => (
+              <rect x={x} y="0" width={slot} height={H} class="seats-hit" data-tip={`${id}-${i}`} data-group={i} role="img" aria-label={aria(e)} />
+            ))
+          }
+        </svg>
+      </div>
+
+      <span />
+      <div class="relative mt-1.5 h-4 text-[11px] text-muted" aria-hidden="true">
+        {
+          xLabels.map(({ i, year }, k) => (
+            <span
+              class:list={["absolute leading-none", k === 0 ? "" : k === xLabels.length - 1 ? "-translate-x-full" : "-translate-x-1/2"]}
+              style={`left: ${k === 0 ? 0 : k === xLabels.length - 1 ? 100 : (((i + 0.5) * slot) / 10).toFixed(2)}%`}
+            >
+              {year}
+            </span>
+          ))
+        }
+      </div>
+    </div>
+
+    <p class="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-muted">
+      <span class="inline-flex items-center gap-1.5">
+        <svg viewBox="0 0 16 10" class="h-2.5 w-4" aria-hidden="true"><rect width="16" height="10" rx="2" fill="var(--tn-text-muted)" /></svg>
+        Gov.: majority government
+      </span>
+      <span class="inline-flex items-center gap-1.5">
+        <svg viewBox="0 0 16 10" class="h-2.5 w-4" aria-hidden="true"><rect width="16" height="10" rx="2" fill="var(--tn-text-muted)" fill-opacity="0.3" /></svg>
+        minority government
+      </span>
+      <span>Each column is one election.</span>
+    </p>
+    {
+      !compact && (
+        <ol class="mt-3 grid gap-x-4 gap-y-1 text-xs text-secondary sm:grid-cols-2">
+          {notes.map((a, k) => (
+            <li class="flex items-baseline gap-2">
+              <span class="grid size-4 shrink-0 place-items-center rounded-full bg-surface-sunken text-[10px] font-semibold leading-none text-primary" aria-hidden="true">
+                {k + 1}
+              </span>
+              {a.text}
+            </li>
+          ))}
+        </ol>
+      )
+    }
+
+    {
+      columns.map(({ e, i }) => (
+        <template id={`${id}-${i}`}>
+          <p class="ct-h">
+            {e.year} · {ordinal(e.number)} general election
+          </p>
+          <p class="ct-sub">
+            {formatDate(e.date)} · {e.houseSize} seats · turnout {pct(e.turnout)}
+          </p>
+          <p class="ct-p">
+            <strong>{governmentLabel(e)}</strong> under {e.government.primeMinister}
+          </p>
+          <table class="ct-rows">
+            <tbody>
+              {rowsFor(e).map((r) => (
+                <tr class:list={[{ "ct-strong": r.f === e.government.family }]}>
+                  <td>
+                    <span class="ct-sw" style={`--sw: ${FEDERAL[r.f].color}`} />
+                    {r.label}
+                    {r.detail && <span class="block pl-4 text-[11px] font-normal text-muted">{r.detail}</span>}
+                  </td>
+                  <td>{r.seats}</td>
+                  <td>{r.vote === null ? "" : pct(r.vote)}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+          <p class="ct-sub">Seats, then share of the vote.</p>
+        </template>
+      ))
+    }
+    <ChartTip />
+  </tn-chart>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Election</th>
+          <th scope="col">Government</th>
+          {legendOrder.map((f) => <th scope="col">{FEDERAL[f].label}</th>)}
+          <th scope="col">Seats</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          elections.map((e) => (
+            <tr>
+              <th scope="row" class="font-normal">
+                {formatDate(e.date, "short")}
+              </th>
+              <td>
+                {governmentLabel(e)} ({e.government.primeMinister})
+              </td>
+              {legendOrder.map((f) => (
+                <td>{e.seats[f] || "–"}</td>
+              ))}
+              <td>{e.houseSize}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <caption>
+        Seats by party family on election night. {FEDERAL.cpc.label} includes {FEDERAL.cpc.covers}. {FEDERAL.other.label} includes {FEDERAL.other.covers}.
+        Majority means the governing party alone held more than half the seats. Data fetched {historyMeta.fetched}.
+      </caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+<style>
+  .seats-seg {
+    stroke: var(--tn-surface);
+    stroke-width: 1.5;
+    vector-effect: non-scaling-stroke;
+    transition: opacity 120ms ease-out;
+  }
+  .seats-gov {
+    stroke: var(--tn-surface);
+    stroke-width: 1.5;
+    vector-effect: non-scaling-stroke;
+    transition: opacity 120ms ease-out;
+  }
+  .seats-half {
+    stroke: var(--tn-text-primary);
+    stroke-width: 1.5;
+    stroke-dasharray: 4 3;
+    vector-effect: non-scaling-stroke;
+    pointer-events: none;
+  }
+  .seats-hit {
+    fill: transparent;
+    stroke: none;
+  }
+  .seats-hit.is-active {
+    stroke: var(--tn-text-primary);
+    stroke-width: 2;
+    vector-effect: non-scaling-stroke;
+  }
+  .seats-hit:focus-visible {
+    stroke: var(--tn-focus);
+    stroke-width: 3;
+  }
+  .seats[data-active] .seats-col:not(.is-active) .seats-seg,
+  .seats[data-active] .seats-gov:not(.is-active) {
+    opacity: 0.35;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .seats-seg,
+    .seats-gov {
+      transition: none;
+    }
+  }
+</style>

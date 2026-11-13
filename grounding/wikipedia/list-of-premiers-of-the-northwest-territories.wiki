@@ -1,0 +1,310 @@
+{{Short description|none}}
+{{Use Canadian English|date=January 2023}}
+{{Use mdy dates|date=October 2012}}
+The [[premier of the Northwest Territories]] is a title given to the [[head of government]] in the [[Northwest Territories]] of Canada when the territory is using an elected system of [[responsible government]]. Throughout its history, the territory has been governed by [[List of Northwest Territories Legislative Assemblies|various combinations]] of locally elected governments and administrators appointed by the [[government of Canada]].
+
+Upon creation, the Northwest Territories were governed by the [[lieutenant governor of Manitoba]], a representative of the federal government and [[Queen Victoria]], for the newly created province of [[Manitoba]]. Six years later in 1876, the territory was given its own [[lieutenant governor]], separate from that of Manitoba.<ref name=history>{{cite web|access-date=November 10, 2008 |url=http://www.collectionscanada.gc.ca/confederation/023001-2245-e.html |title=The Northwest Territories |date=May 2, 2005 |publisher=Library and Archives Canada |archive-url=https://web.archive.org/web/20080621181522/http://www.collectionscanada.gc.ca/confederation/023001-2245-e.html |archive-date=June 21, 2008 |url-status=dead |df=mdy }}</ref> These lieutenant governors presided over an assembly with members both elected and appointed by the federal government. Before 1888, the territory required [[electoral district]]s with an area of {{convert|3000|km2|abbr=on}} to contain at least 1,000 people. When this quota was met, a [[by-election]] was held to elect a member to replace an appointed one.
+
+The Northwest Territories held its first general elections to the [[Legislative Assembly of the Northwest Territories|North-West Legislative Assembly]] in 1888 when it considered the population to be sufficient.<ref>{{cite book|title=The Struggle for Responsible Government in the North-West Territories, 1870-97|author=Thomas, Lewis Herbert |year=1978 |publisher=University of Toronto Press |isbn=978-0-8020-2287-5 |url=https://archive.org/details/struggleforrespo0000thom|url-access=registration|page=[https://archive.org/details/struggleforrespo0000thom/page/193 193] }}</ref> After this election, the chairman of the assembly's executive committee (analogous to a [[Cabinet (government)|cabinet]]) assumed the role of head of government.<ref>{{cite web|access-date=November 10, 2008 |url=http://www.assembly.ab.ca/lao/library/lt-gov/brett.htm |title=The Honourable Dr. Robert G. Brett, 1915-25 |publisher=Legislative Assembly of Alberta |url-status=dead |archive-url=https://web.archive.org/web/20081007011605/http://www.assembly.ab.ca/lao/library/lt-gov/brett.htm |archive-date=October 7, 2008 }}</ref> From 1897 to 1905, the chairman used the title "premier", the same title used by the heads of government in the Canadian provinces.<ref>{{cite web|access-date=November 10, 2008|url=http://www.lac-bac.gc.ca/obj/002013/f2/H-26_en.pdf?PHPSESSID=4056qtj4vq5glp674mokqgdsq2|format=PDF|title=The North-West Territories (1870–1905) |publisher=Library and Archives Canada }} {{Dead link|date=September 2010|bot=H3llBot}}</ref>
+
+In 1905, the provinces of [[Saskatchewan]] and [[Alberta]] were created from the most populous regions of the Northwest Territories. With a much lower population, powers of the territory's head of government reverted to a federal and Crown representative appointed by the [[prime minister of Canada]], this time with the title {{em|[[Commissioner of the Northwest Territories]]}}.<ref name=history /> Beginning in 1951, and increasingly in 1967, powers were transferred back to an elected assembly. In 1980, the head of this assembly regained the title of premier, and in 1985 the became chair of the Executive Council and full head of government.
+
+Because the Northwest Territories has a [[consensus government]], the premier is elected by, and from, the members of the Legislative Assembly, and are not divided into parties.<ref>{{cite web|access-date=January 30, 2014|url=http://www.assembly.gov.nt.ca/visitors/what-consensus|title=Election of the Speaker, Premier, and Ministers |date=November 6, 2012 |publisher=Legislative Assembly of the Northwest Territories }}</ref> This list contains only those government leaders who governed under an elected system of [[responsible government]]. For the heads of government before and in between these times, see [[commissioner of the Northwest Territories]].
+
+==Premiers of the Northwest Territories==
+{{Canadian first minister list/top|references=yes}}
+|-
+|colspan="10"|'''Chairman of the Lt. Governor's Advisory Council'''
+{{Canadian first minister list
+|name            = [[Robert Brett]]
+|jurisdiction    = N-W
+|number          = —
+|image           = RobertBrett.jpg
+|birth_year      = 1851
+|death_year      = 1929
+|party           = Non-partisan
+|riding          = [[Red Deer (N.W.T. electoral district)|Red Deer]]
+|term_start      = 1888-06-30
+|term_end        = 1891-11-07
+|event1          = election
+|event1_year     = 1888
+|event1_assembly = 1st
+}}
+|-
+|colspan="10"|'''Chairman of the Executive Committee'''
+{{Canadian first minister list
+|name            = [[Frederick W. A. G. Haultain|Frederick Haultain]]
+|title           = Sir
+|jurisdiction    = N-W
+|number          = —
+|image           = FrederickWAGHaultain.png
+|birth_year      = 1857
+|death_year      = 1942
+|party           = Non-partisan
+|riding          = [[Macleod (N.W.T. electoral district)|Macleod]]
+|term_start      = 1891-11-07
+|term_end        = 1897-10-07
+|event1          = election
+|event1_year     = 1891
+|event1_assembly = 2nd
+|event2          = election
+|event2_year     = 1894
+|event2_assembly = 3rd
+}}
+|-
+|colspan="10"|'''Premiers of the Northwest Territories'''
+{{Canadian first minister list
+|name            = [[Frederick W. A. G. Haultain|Frederick Haultain]]
+|title           = Sir
+|jurisdiction    = N-W
+|number          = 1
+|image           = FrederickWAGHaultain.png
+|birth_year      = 1857
+|death_year      = 1942
+|party           = Liberal-Conservative
+|riding          = [[Macleod (N.W.T. electoral district)|Macleod]]
+|term_start      = 1897-10-07
+|term_end        = 1905-08-24
+|event1          = election
+|event1_year     = 1898
+|event1_assembly = 4th
+|event2          = election
+|event2_year     = 1902
+|event2_assembly = 5th
+}}
+|-
+|colspan="10"|''See [[commissioner of the Northwest Territories]] for the heads of government between 1905 and 1980.''
+{{Canadian first minister list
+|name            = [[George Braden]]<ref group=N name=leader>Before 1994, the position was officially known as Government Leader; however, the territory has retroactively applied the title of Premier.</ref>
+|jurisdiction    = NT
+|number          = 2
+|image           = 
+|birth_year      = 1949
+|death_year      = 2015
+|party           = Non-partisan
+|riding          = [[Yellowknife North]]
+|term_start      = 1980-06-16
+|term_end        = 1984-01-12
+|event1          = appointment
+|event1_year     = 1980
+|event1_assembly = 9th
+}}
+{{Canadian first minister list
+|name            = [[Richard Nerysoo]]<ref group=N name=leader />
+|jurisdiction    = NT
+|number          = 3
+|image           = 
+|birth_year      = 1953
+|party           = Non-partisan
+|riding          = [[Mackenzie Delta (electoral district)|Mackenzie Delta]]
+|term_start      = 1984-01-12
+|term_end        = 1985-11-05
+|event1          = election
+|event1_year     = 1983
+|event1_assembly = 10th
+}}
+{{Canadian first minister list
+|name            = [[Nick Sibbeston]]<ref group=N name=leader />
+|jurisdiction    = NT
+|number          = 4
+|image           = Nick Sibbeston.jpg
+|birth_year      = 1943
+|party           = Non-partisan
+|riding          = Deh Cho Gah
+|term_start      = 1985-11-05
+|term_end        = 1987-11-12
+|event1          = appointment
+|event1_year     = 1985
+|event1_assembly = 10th
+}}
+{{Canadian first minister list
+|name            = [[Dennis Patterson]]<ref group=N name=leader />
+|jurisdiction    = NT
+|number          = 5
+|image           = 
+|birth_year      = 1948
+|party           = Non-partisan
+|riding          = Iqaluit
+|term_start      = 1987-11-12
+|term_end        = 1991-11-14
+|event1          = election
+|event1_year     = 1987
+|event1_assembly = 11th
+}}
+{{Canadian first minister list
+|name            = [[Nellie Cournoyea]]<ref group=N name=leader />
+|jurisdiction    = NT
+|number          = 6
+|image           = Nellie Cournoyea.jpg
+|birth_year      = 1940
+|party           = Non-partisan
+|riding          = [[Nunakput]]
+|term_start      = 1991-11-14
+|term_end        = 1995-11-22
+|event1          = election
+|event1_year     = 1991
+|event1_assembly = 12th
+}}
+{{Canadian first minister list
+|name            = [[Don Morin]]
+|jurisdiction    = NT
+|number          = 7
+|image           = 
+|birth_year      = 1954
+|party           = Non-partisan
+|riding          = [[Tu Nedhe]]
+|term_start      = 1995-11-22
+|term_end        = 1998-11-26
+|event1          = election
+|event1_year     = 1995
+|event1_assembly = 13th
+}}
+{{Canadian first minister list
+|name            = [[Goo Arlooktoo]]
+|jurisdiction    = NT
+|number          = <small>''acting''</small>
+|image           = 
+|birth_year      = 1963
+|death_year      = 2002
+|party           = Non-partisan
+|riding          = [[Baffin South]]
+|term_start      = 1998-11-26
+|term_end        = 1998-12-10
+|event1          = appointment
+|event1_year     = 1998
+|event1_assembly = 13th
+|references      = <ref name="acting">{{cite news  |title=  New premier on horizon  |publisher=  NNSL  |url=  http://www.nnsl.com/frames/newspapers/1998-11/nov30_98new.html  |date=  November 30, 1998  |url-status=  dead  |archive-url=  https://web.archive.org/web/20140201165859/http://www.nnsl.com/frames/newspapers/1998-11/nov30_98new.html  |archive-date=  February 1, 2014  |df=  mdy-all  }}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Jim Antoine]]
+|jurisdiction    = NT
+|number          = 8
+|image           = 
+|birth_year      = 1949
+|party           = Non-partisan
+|riding          = [[Nahendeh]]
+|term_start      = 1998-12-10
+|term_end        = 2000-01-17
+|event1          = appointment
+|event1_year     = 1998
+|event1_assembly = 13th
+|event2          = election
+|event2_year     = 1999
+|event2_assembly = 14th
+}}
+{{Canadian first minister list
+|name            = [[Stephen Kakfwi]]
+|jurisdiction    = NT
+|number          = 9
+|image           = 
+|birth_year      = 1950
+|party           = Non-partisan
+|riding          = [[Sahtu (electoral district)|Sahtu]]
+|term_start      = 2000-01-17
+|term_end        = 2003-12-10
+|event1          = appointment
+|event1_year     = 2000
+|event1_assembly = 14th
+}}
+{{Canadian first minister list
+|name            = [[Joe Handley]]
+|jurisdiction    = NT
+|number          = 10
+|image           = Premier Joe Handley of NWT.jpg
+|birth_year      = 1943
+|party           = Non-partisan
+|riding          = [[Weledeh]]
+|term_start      = 2003-12-10
+|term_end        = 2007-10-19
+|event1          = election
+|event1_year     = 2003
+|event1_assembly = 15th
+}}
+{{Canadian first minister list
+|name            = [[Floyd Roland]]
+|jurisdiction    = NT
+|number          = 11
+|image           = Premier Roland.jpg
+|birth_year      = 1961
+|party           = Non-partisan
+|riding          = [[Inuvik Boot Lake]]
+|term_start      = 2007-10-19
+|term_end        = 2011-10-26
+|event1          = election
+|event1_year     = 2007
+|event1_assembly = 16th
+}}
+{{Canadian first minister list
+|name            = [[Bob McLeod (politician)|Bob McLeod]]
+|jurisdiction    = NT
+|number          = 12
+|image           = Bob McLeod.jpg
+|birth_year      = 1952
+|party           = Non-partisan
+|riding          = [[Yellowknife South]]
+|term_start      = 2011-10-26
+|term_end        = 2019-10-24
+|event1          = election
+|event1_year     = 2011
+|event1_assembly = 17th
+|event2          = election
+|event2_year     = 2015
+|event2_assembly = 18th
+}}
+{{Canadian first minister list
+|name            = [[Caroline Cochrane]]
+|jurisdiction    = NT
+|number          = 13
+|image           = Caroline Cochrane.jpg
+|birth_year      = 1960
+|party           = Non-partisan
+|riding          = [[Range Lake]]
+|term_start      = 2019-10-24
+|term_end        = 2023-12-08
+|event1          = election
+|event1_year     = 2019
+|event1_assembly = 19th
+}}
+{{Canadian first minister list
+|name            = [[R. J. Simpson]]
+|jurisdiction    = NT
+|number          = 14
+|image           = R.J. Simpson.jpg
+|birth_year      = 1980
+|party           = Non-partisan
+|riding          = [[Hay River North]]
+|term_start      = 2023-12-08
+|term_end        = 
+|event1          = election
+|event1_year     = 2023
+|event1_assembly = 20th
+}}
+{{Canadian first minister list/bottom|notes={{reflist|group=N}}}}
+
+==See also==
+* [[List of Northwest Territories general elections]]
+* [[List of lieutenant governors of the Northwest Territories]]
+
+==References==
+;General
+{{refbegin}}
+* {{cite web|access-date=November 10, 2008 |url=http://www.saskarchives.com/web/seld/1-00.pdf |title=Territories |publisher=Government of Saskatchewan |url-status=dead |archive-url=https://web.archive.org/web/20070928101028/http://www.saskarchives.com/web/seld/1-00.pdf |archive-date=September 28, 2007 }} 
+* {{cite web|access-date=November 10, 2008|url=http://www.assembly.ab.ca/lao/library/lt-gov/index.htm|title=The Office of the Lieutenant Governor
+ |publisher=Legislative Assembly of Alberta }}
+{{refend}}
+
+;Specific
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20081221161822/http://www.premier.gov.nt.ca/ Premier of the Northwest Territories]
+
+{{Canadian First Ministers}}
+{{Northwest Territories politics}}
+
+{{featured list}}
+
+{{DEFAULTSORT:Premiers of the Northwest Territories, List of}}
+[[Category:Lists of premiers of Canada by province or territory|Northwest Territories]]
+[[Category:Premiers of the Northwest Territories|*]]
+[[Category:Lists of people from the Northwest Territories]]

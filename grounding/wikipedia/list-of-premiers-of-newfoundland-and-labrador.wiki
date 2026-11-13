@@ -1,0 +1,965 @@
+{{Short description|None}}
+{{Use Canadian English|date=January 2023}}
+[[File:Flag of Newfoundland and Labrador.svg|thumb|right|250px|Flag of Newfoundland and Labrador]]
+The [[premier of Newfoundland and Labrador]] is the current title of the [[first minister]] for the [[Provinces and territories of Canada|Canadian province]] of [[Newfoundland and Labrador]], which was at certain points in its was history a [[Newfoundland Colony|colony]] and [[Dominion of Newfoundland|dominion]]. Newfoundland had a system of [[responsible government]] from 1855 to 1934, and again since 1949. Originally becoming a British [[crown colony]] in 1855, it would transition to a Dominion in 1907, and since 1949, a province of Canada. Since then, the province has been a part of the Canadian federation and has kept its own legislature to deal with provincial matters. The province was named Newfoundland and Labrador on December 6, 2001.<ref name="history">{{cite web|access-date=21 May 2013 |url=http://www.collectionscanada.gc.ca/confederation/023001-2230-e.html |date=2 May 2005 |title=Newfoundland |publisher=Library and Archives Canada |archive-url=https://web.archive.org/web/20080608210845/http://www.collectionscanada.gc.ca/confederation/023001-2230-e.html |archive-date=8 June 2008 |url-status=dead }}</ref><ref>{{cite news |title=Newfoundland's name change now official |url=https://www.cbc.ca/news/canada/newfoundland-s-name-change-now-official-1.279040 |date=December 6, 2001 |access-date=2025-06-01 |website=[[CBC News]]}}</ref>
+
+The province has a unicameral [[Westminster-style]] [[parliamentary government]], in which the premier is the leader of the party that controls the most seats in the [[Newfoundland and Labrador House of Assembly|House of Assembly]]. The premier is Newfoundland and Labrador's [[head of government]], and the [[king of Canada]] is its [[head of state]] and is represented by the [[lieutenant governor of Newfoundland and Labrador]]. The premier picks a cabinet from the elected members to form the [[Executive Council of Newfoundland and Labrador]], and presides over that body. Members are first elected to the House during [[List of Newfoundland and Labrador general elections|general elections]]. General elections must be conducted every four years from the date of the last election. An election may also take place if the governing party loses the confidence of the legislature by the defeat of a supply bill or tabling of a confidence motion.<ref>{{cite web|access-date=November 12, 2008|url=https://www.assembly.nl.ca/pubinfo/history.htm|title=History of the House of Assembly |publisher=Newfoundland and Labrador House of Assembly }}</ref>
+
+From 1855 to 1907, the position of first minister was known as [[premier]]. After the colony was granted dominion status, the position became known as prime minister.<ref>{{cite web|access-date=November 12, 2008|url=https://www.heritage.nf.ca/govhouse/governorship/colonial.html|title=Colonial Governors, 1855-1933  |publisher=Memorial University of Newfoundland }}</ref> Democratic government was suspended in 1934 and replaced by an appointed [[Commission of Government]], until 1949 Newfoundland became a province of Canada. Since the reinstitution of democratic government in 1949, the title of first minister has been premier.<ref>{{cite web|access-date=November 12, 2008|url=https://www.heritage.nf.ca/govhouse/governorship/lieutenant.html|title=Lieutenant-Governors, 1949-Present  |publisher=Memorial University of Newfoundland }}</ref>
+
+Since 1855, Newfoundland and Labrador has been led by ten Colonial premiers, nine Dominion prime ministers, three chairmen of Commission of Government, and sixteen provincial premiers. Of the provincial premiers, eight are from the [[Liberal Party of Newfoundland and Labrador|Liberal Party]], and eight are from the [[Progressive Conservative Party of Newfoundland and Labrador|Progressive Conservative Party]].<ref>{{cite web |title=Prime Ministers and Premiers of Newfoundland & Labrador |url=https://assembly.nl.ca/pdfs/PrimeMinistersPremiersNL.pdf |access-date=2025-06-01 |website=House of Assembly - Newfoundland and Labrador}}</ref>
+
+==Colonial Premiers of Newfoundland (1855–1907)==
+{{Canadian first minister list/top|references=yes}}
+{{Canadian first minister list
+|name            = [[Philip Francis Little]]
+|jurisdiction    = NF
+|number          = 1
+|image           = Philip Francis Little.jpg
+|birth_year      = 1824
+|death_year      = 1897
+|party           = Liberal (historical)
+|leadership      = 
+|riding          = [[St. John's, Newfoundland and Labrador|St. John's]]
+|term_start      = 1855-05-07
+|term_end        = 1858-07-16
+|event1          = election
+|event1_year     = 1855
+|event1_assembly = 6th
+|accomplishments = First premier as colony achieves [[responsible government]].
+|references      = <ref>{{cite book|last=Tapin|first=Glen W.|title=Canadian Chronology|year=1970|publisher=Scarecrow Press|page=149}}</ref><ref>{{cite web|title=Little, Philip Francis|url=https://data2.archives.ca/pdf/pdf001/p000001197.pdf|publisher=Public Archives of Canada|access-date=21 May 2013|year=1956}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[John Kent (Newfoundland politician)|John Kent]]
+|jurisdiction    = NF
+|number          = 2
+|image           = John Kent (Prowse).jpg
+|birth_year      = 1805
+|death_year      = 1872
+|party           = Liberal (historical)
+|leadership      = 
+|riding          = [[St. John's East (provincial electoral district)|St. John's East]]
+|term_start      = 1858-07-16
+|term_end_custom = <small>{{circa|March}}</small><br/>1861
+|event1          = appointment
+|event1_year     = 1858
+|event1_assembly = 6th
+|event2          = election
+|event2_year     = 1859
+|event2_assembly = 7th
+|accomplishments = Largely supported by Catholics, Kent was dismissed by the governor after accusing him of conspiring against the government. The subsequent election was fought on sectarian lines; rioting broke out when the governor cancelled voting in the Catholic town of Harbour Grace thus denying Kent two seats needed to prevent a Conservative majority.
+|references      = <ref>{{cite DCB |first=P. B. |last=Waite |title=Kent, John |volume=10 |url=https://www.biographi.ca/en/bio/kent_john_10E.html}}</ref>
+}}
+{{Canadian first minister list
+|name            = Sir [[Hugh Hoyles]]
+|jurisdiction    = NF
+|number          = 3
+|image           = HughHoyles1861.jpg
+|birth_year      = 1814
+|death_year      = 1888
+|party           = Conservative (historical)
+|leadership      = 
+|riding          = [[Burin-Grand Bank|Burin]]
+|term_start_custom = <small>{{circa|March}}</small><br/>1861
+|term_end        = 1865-03-04
+|event1          = appointment
+|event1_year     = 1861
+|event1_assembly = 7th
+|event2          = election
+|event2_year     = 1861
+|event2_assembly = 8th
+|accomplishments = Appointed by the governor after his predecessor's dismissal, Hoyles narrowly won the subsequent election. Government tried to reduce sectarian tensions by inviting Catholics into his cabinet and including them in patronage appointments.
+|references      = <ref>{{Cite DCB |url=https://www.biographi.ca/en/bio/hoyles_hugh_william_11E.html|title=Hoyles, Sir Hugh William |first=Frederick |last=Jones |volume=XI}}</ref>
+}}
+{{Canadian first minister list
+|name            = Sir [[Frederick Carter]]
+|jurisdiction    = NF
+|number          = 4
+|number_sub      = 1 of 2
+|image           = FrederickCarter.jpg
+|birth_year      = 1819
+|death_year      = 1900
+|party           = Conservative (historical)
+|leadership      = 
+|riding          = [[Burin-Grand Bank|Burin]]
+|term_start_custom = <small>{{circa|March}}</small><br/>1865
+|term_end        = 1870-02-11
+|event1          = appointment
+|event1_year     = 1865
+|event1_assembly = 8th
+|event2          = election
+|event2_year     = 1865
+|event2_assembly = 9th
+|accomplishments = Proposed confederation with Canada but was defeated by Anti-Confederate opposition in 1869.
+|references      = <ref name="dcbcarter">{{cite DCB |first=J.K. |last=Hiller |title=Carter, Sir Frederic Bowker Terrington |volume=12 |url=https://www.biographi.ca/en/bio/carter_frederic_bowker_terrington_12E |accessdate=21 May 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Charles Fox Bennett]]
+|jurisdiction    = NF
+|number          = 5
+|image           = Charles Fox Bennett.jpg
+|birth_year      = 1793
+|death_year      = 1883
+|party           = Anti-Confederation
+|leadership      = 
+|riding          = [[Placentia—St. Mary's]]
+|term_start      = 1870-02-14
+|term_end        = 1874-01-30
+|event1          = election
+|event1_year     = 1869
+|event1_assembly = 10th
+|event2          = election
+|event2_year     = 1873
+|event2_assembly = 11th
+|accomplishments = Opposed confederation with Canada; abolished mining royalties; increased geological survey grant and funds for roads and public works; improved coastal steamship service and instituted direct shipping service to England; reorganized  [[Royal Newfoundland Constabulary|Newfoundland Constabulary]] to take over policing duties after British garrison withdrawn;  acquiesced to US fishing rights in  [[Treaty of Washington (1871)]]; began a lead mine at [[Port au Port, Newfoundland and Labrador|Port au Port]], challenging France's rights to the [[French Shore]], but was forced to close by UK government.
+|references      = <ref name="Bennett">{{cite DCB |first=James K. |last= Hiller |title=Bennett, Charles James Fox |volume=11 |url=https://www.biographi.ca/en/bio/bennett_charles_james_fox_11E.html}}</ref>
+}}
+{{Canadian first minister list
+|name            = Sir [[Frederick Carter]]
+|jurisdiction    = NF
+|number          = 4
+|number_sub      = 2 of 2
+|image           = FrederickCarter.jpg
+|birth_year      = 1819
+|death_year      = 1900
+|party           = Conservative (historical)
+|leadership      = 
+|riding          = [[The Isles of Notre Dame|Twillingate—Fogo]]
+|term_start      = 1874-01-30
+|term_end_custom = <small>{{circa|April}}</small><br/>1878
+|event1          = appointment
+|event1_year     = 1874
+|event1_assembly = 11th
+|event2          = election
+|event2_year     = 1874
+|event2_assembly = 12th
+|accomplishments = Created publicly funded denominational school system
+|references      = <ref name="dcbcarter"/><ref name="Whiteway"/>
+}}
+{{Canadian first minister list
+|name            = Sir [[William Whiteway]]
+|jurisdiction    = NF
+|number          = 6
+|number_sub      = 1 of 3
+|image           = Whiteway.jpg
+|birth_year      = 1828
+|death_year      = 1908
+|party           = Conservative (historical)
+|leadership      = 
+|riding          = [[Trinity Bay (Newfoundland and Labrador)|Trinity Bay]]
+|term_start_custom = <small>{{circa|April}}</small><br/>1878
+|term_end_custom = <small>{{circa|October}}</small><br/>1885
+|event1          = appointment
+|event1_year     = 1878
+|event1_assembly = 12th
+|event2          = election
+|event2_year     = 1878
+|event2_assembly = 13th
+|event3          = election
+|event3_year     = 1882
+|event3_assembly = 14th
+|accomplishments = Non-sectarian government including Catholics and Protestants; Proposed and arranged financing for construction of the [[Newfoundland Railway|transinsular railway]] in order to develop and diversify the economy; government collapsed following sectarian riots in Harbour Grace when several Protestant ministers quit to protest government's conciliatory attitude towards Catholics.
+|references      = <ref name="Whiteway">{{cite DCB |last=Hiller |first=J.K. |title=Whiteway, Sir William Vallance |volume=13 |url=https://www.biographi.ca/en/bio/whiteway_william_vallance_13E.html}}</ref>
+}}
+{{Canadian first minister list
+|name            = Sir [[Robert Thorburn (politician)|Robert Thorburn]]
+|jurisdiction    = NF
+|number          = 7
+|image           = Rthorburn.jpg
+|birth_year      = 1836
+|death_year      = 1906
+|party           = Reform
+|leadership      = 
+|riding          = [[Trinity Bay (Newfoundland and Labrador)|Trinity Bay]]
+|term_start      = 1885-10-12
+|term_end_custom = <small>&nbsp;</small><br/>{{circa|1889}}
+|event1          = election
+|event1_year     = 1885
+|event1_assembly = 15th
+|accomplishments = Rejected preceding government's railway plan in order to focus on developing fishery based economy; belatedly attempted to invest in public works when fishery downturn caused economic stagnation. Represented Newfoundland at the [[First Colonial Conference]] in London.
+|references      =  <ref>{{cite DCB |first=J. K. |last=Hiller |volume=13 |title=Thorburn, Sir Robert |url=https://www.biographi.ca/en/bio/thorburn_robert_13E.html}}</ref>
+}}
+{{Canadian first minister list
+|name            = Sir [[William Whiteway]]
+|jurisdiction    = NF
+|number          = 6
+|number_sub      = 2 of 3
+|image           = Whiteway.jpg
+|birth_year      = 1828
+|death_year      = 1908
+|party           = Liberal (historical)
+|leadership      = 
+|riding          = [[Trinity Bay (Newfoundland and Labrador)|Trinity Bay]]
+|term_start_custom = <small>{{circa|December}}</small><br/>1889
+|term_end        = 1894-04-11
+|event1          = election
+|event1_year     = 1889
+|event1_assembly = 16th
+|event2          = election
+|event2_year     = 1893
+|event2_assembly = 17th
+|accomplishments = Continued development of the railway; government lost power due to corruption scandal.
+|references      = <ref name="Whiteway"/>
+}}
+{{Canadian first minister list
+|name            = [[Augustus F. Goodridge]]
+|jurisdiction    = NF
+|number          = 8
+|image           = Augustus Goodridge.jpg
+|birth_year      = 1839
+|death_year      = 1920
+|party           = Tory
+|leadership      = 
+|riding          = [[Lewisporte-Twillingate|Twillingate]]
+|term_start_custom = <small>{{circa|April}}</small><br/>1894
+|term_end_custom = <small>{{circa|December}}</small><br/>1894
+|event1          = appointment
+|event1_year     = 1894
+|event1_assembly = 17th
+|references      = <ref>{{cite encyclopedia |url=https://www.thecanadianencyclopedia.ca/en/article/augustus-f-goodridge |title=Augustus F. Goodridge |first1=Robert D. |last1=Pitt |first2=J.K. |last2=Hiller |encyclopedia=[[The Canadian Encyclopedia]] |publisher=[[Historica Canada]] |edition=online |date=October 3, 2014}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Daniel Joseph Greene]]
+|jurisdiction    = NF
+|number          = 9
+|image           = Daniel Joseph Greene.png
+|birth_year      = 1850
+|death_year      = 1911
+|party           = Liberal (historical)
+|leadership      = 
+|riding          = [[Ferryland (electoral district)|Ferryland]]
+|term_start      = 1894-12-13
+|term_end        = 1895-02-08
+|event1          = appointment
+|event1_year     = 1894
+|event1_assembly = 17th
+|accomplishments = Passed the Disabilities Removal Act which allowed disqualified candidates from the [[1893 Newfoundland general election|1893 election]] to run again in election. This notably allowed [[William Whiteway|Sir William Whiteway]] to return to the premiership.
+|references      = <ref name=greene>{{cite encyclopedia |url=https://www.thecanadianencyclopedia.ca/en/article/daniel-joseph-greene |title=Daniel Joseph Greene |first=Robert D. |last=Pitt |encyclopedia=The Canadian Encyclopedia  |publisher=Historica Canada |edition=online |date=October 3, 2014 |access-date=August 18, 2019}}</ref>
+}}
+{{Canadian first minister list
+|name            = Sir [[William Whiteway]]
+|jurisdiction    = NF
+|number          = 6
+|number_sub      = 3 of 3
+|image           = Whiteway.jpg
+|birth_year      = 1828
+|death_year      = 1908
+|party           = Liberal (historical)
+|leadership      = 
+|riding          = [[Trinity Bay (Newfoundland and Labrador)|Trinity Bay]]
+|term_start      = 1895-02-08
+|term_end_custom = <small>&nbsp;</small><br/>{{circa|1897}}
+|event1          = appointment
+|event1_year     = 1895
+|event1_assembly = 17th
+|accomplishments = Failed negotiations with Canada to enter confederation. Represented Newfoundland at the [[1897 Colonial Conference]] in London.
+|references      = <ref name="Whiteway"/>
+}}
+{{Canadian first minister list
+|name            = Sir [[James Spearman Winter]]
+|jurisdiction    = NF
+|number          = 10
+|image           = James Spearman Winter.png
+|birth_year      = 1845
+|death_year      = 1911
+|party           = Tory
+|leadership      = 
+|riding          = [[Burin-Grand Bank|Burin]]
+|term_start_custom = <small>&nbsp;</small><br/>{{circa|1897}}
+|term_end        = 1900-03-05
+|event1          = election
+|event1_year     = 1897
+|event1_assembly = 18th
+|references      = <ref>{{cite DCB |first=James K. |last=Hiller |title=Winter, Sir James Spearman |volume=14 |url=https://www.biographi.ca/en/bio/winter_james_spearman_14E.html}}</ref>
+}}
+{{Canadian first minister list
+|name            = Sir [[Robert Bond]]
+|jurisdiction    = NF
+|number          = 11
+|image           = Newfoundland at the beginning of the 20th century - a treatise of history and development (1902) (14587364079).jpg
+|birth_year      = 1857
+|death_year      = 1927
+|party           = Liberal (historical)
+|leadership      = 
+|riding          = [[Lewisporte-Twillingate|Twillingate]]
+|term_start      = 1900-03-15
+|term_end        = 1907-09-25
+|event1          = appointment
+|event1_year     = 1900
+|event1_assembly = 18th
+|event2          = election
+|event2_year     = 1900
+|event2_assembly = 19th
+|event3          = election
+|event3_year     = 1904
+|event3_assembly = 20th
+|accomplishments = Settlement of [[French Shore]] territorial dispute giving Newfoundland undisputed control of the island; failed attempt to negotiate free trade with the United States. Represented Newfoundland at the [[1902 Colonial Conference]] and then at the [[1907 Imperial Conference]], where it was agreed that Newfoundland and other self-governing colonies would be given dominion status.
+|references      = <ref name=bond>{{cite DCB |first1=Melvin |last1=Baker |first2=Peter |last2=Neary |title=Bond, Sir Robert |volume=15 |url=https://www.biographi.ca/en/bio/bond_robert_15E.html}}</ref>
+}}
+{{Canadian first minister list/bottom}}
+
+==Dominion Prime Ministers of Newfoundland (1907–1934)==
+By [[Royal Proclamation]], the colony was granted [[dominion]] status on 26 September 1907 becoming the [[Dominion of Newfoundland]] with its head of government being given the title Prime Minister of the Dominion of Newfoundland.
+{{Canadian first minister list/top|references=yes}}
+{{Canadian first minister list
+|name            = Sir [[Robert Bond]]
+|jurisdiction    = NF
+|number          = 1
+|image           = Newfoundland at the beginning of the 20th century - a treatise of history and development (1902) (14587364079).jpg
+|birth_year      = 1857
+|death_year      = 1927
+|party           = Liberal (historical)
+|riding          = [[Lewisporte-Twillingate|Twillingate]]
+|term_start      = 1907-09-26
+|term_end        = 1909-03-02
+|event1          = establishment
+|event1_year     = 1907
+|event1_assembly = 20th
+|event2          = election
+|event2_year     = 1908
+|event2_assembly = 21st
+|references      = <ref>[http://archivalmoments.ca/2014/09/from-colony-of-newfoundland-to-the-dominion-of-newfoundland/ From ‘Colony of Newfoundland’ to the ‘Dominion of Newfoundland’ | Archival Moments<!-- Bot generated title -->] {{webarchive|url=https://web.archive.org/web/20160425045856/http://archivalmoments.ca/2014/09/from-colony-of-newfoundland-to-the-dominion-of-newfoundland/ |date=2016-04-25 }}</ref><ref name=biox/>
+}}
+{{Canadian first minister list
+|name            = Sir [[Edward Morris, 1st Baron Morris|Edward Patrick Morris]]
+|jurisdiction    = NF
+|number          = 2
+|image           = Sir Edward Morris - Bain Collection crop.jpg
+|birth_year      = 1859
+|death_year      = 1935
+|party           = People's
+|riding          = [[St. John's West (provincial electoral district)|St. John's West]]
+|term_start      = 1909-03-02
+|term_end        = 1917-12-31
+|event1          = appointment
+|event1_year     = 1909
+|event1_assembly = 21st
+|event2          = election
+|event2_year     = 1909
+|event2_assembly = 22nd
+|event3          = election
+|event3_year     = 1913
+|event3_assembly = 23rd
+|accomplishments = Expansion of the transinsular railway; allowed speculators to buy timber rights on Crown land. Second term was dominated by the war, introduced income tax and formed a wartime [[National Government (Canada)|national government]]. Represented Newfoundland at the [[1911 Imperial Conference]] and the [[Imperial War Conference]]. Upon retirement became first and only Newfoundland born person to be raised to the [[peerage]]. 
+|references      = <ref name=biox>{{cite encyclopedia |url=http://collections.mun.ca/cdm/ref/collection/cns_enl/id/1621 |encyclopedia=Encyclopedia of Newfoundland and Labrador |title=Bond, Robert|pages=221}}</ref><ref name=biomor>{{cite encyclopedia |url=http://collections.mun.ca/cdm/ref/collection/cns_enl/id/2903 |encyclopedia=Encyclopedia of Newfoundland and Labrador |title=Morris, Edward Patrick |pages=622–24}}</ref>
+}}
+{{Canadian first minister list
+|name            = Sir [[John Chalker Crosbie|John Crosbie]]
+|jurisdiction    = NF
+|number          = 3
+|image           = John Chalker Crosbie.png
+|birth_year      = 1876
+|death_year      = 1932
+|party           = People's
+|riding          = [[Carbonear-Trinity-Bay de Verde|Bay de Verde]]
+|term_start      = 1917-12-31
+|term_end        = 1918-01-05
+|event1          = appointment
+|event1_year     = 1917
+|event1_assembly = 23rd
+|accomplishments = [[Caretaker government|Caretaker prime minister]].
+|references      = 
+}}
+{{Canadian first minister list
+|name            = Sir [[William F. Lloyd]]
+|jurisdiction    = NF
+|number          = 4
+|image           = William Frederick Lloyd.png
+|birth_year      = 1864
+|death_year      = 1937
+|party           = Liberal Reform
+|riding          = [[Trinity Bay (Newfoundland and Labrador)|Trinity Bay]]
+|term_start      = 1918-01-05
+|term_end        = 1919-05-20
+|event1          = appointment
+|event1_year     = 1918
+|event1_assembly = 23rd
+|accomplishments = Introduced conscription for the Newfoundland Regiment; led coalition government through the conclusion of the war.
+|references      =  <ref name=lloyd>[http://collections.mun.ca/cdm/ref/collection/cns_enl/id/1871 Encyclopedia of Newfoundland and Labrador, volume 3 [Extract: letter L&#93; :: Centre for Newfoundland Studies]</ref>
+}}
+{{Canadian first minister list
+|name            = Sir [[Michael Patrick Cashin]]
+|jurisdiction    = NF
+|number          = 5
+|image           = Michael Patrick Cashin.png
+|birth_year      = 1864
+|death_year      = 1926
+|party           = People's
+|riding          = [[Ferryland (electoral district)|Ferryland]]
+|term_start      = 1919-05-22
+|term_end        = 1919-11-17
+|event1          = appointment
+|event1_year     = 1919
+|event1_assembly = 23rd
+|references      = <ref name="CASHIN, Sir MICHAEL PATRICK">{{cite DCB |title=Cashin, Sir Michael Patrick |first=Melvin |last=Baker |volume=15 |url=https://www.biographi.ca/en/bio/cashin_michael_patrick_15E.html |access-date=January 31, 2016}}</ref><ref name=squi/>
+}}
+{{Canadian first minister list
+|name            = [[Richard Squires]]
+|title           = Sir
+|jurisdiction    = NF
+|number          = 6
+|number_sub      = 1 of 2
+|image           = Richard Squires.jpg
+|birth_year      = 1880
+|death_year      = 1940
+|party           = Liberal Reform
+|riding          = [[St. John's West (provincial electoral district)|St. John's West]]
+|term_start      = 1919-11-17
+|term_end        = 1923-07-23
+|event1          = appointment
+|event1_year     = 1919
+|event1_assembly = 23rd
+|event2          = election
+|event2_year     = 1919
+|event2_assembly = 24th
+|event3          = election
+|event3_year     = 1923
+|event3_assembly = 25th
+|accomplishments = Attempted to diversify the economy and to reform the fisheries; nationalized the financially struggling transinsular railway; government fell due to a bribery scandal.
+|references      = <ref name="squi"/><ref name=squires>{{cite encyclopedia |url=https://www.thecanadianencyclopedia.ca/en/article/sir-richard-anderson-squires |title=Sir Richard Anderson Squires |first=J.K. |last=Hiller |date=December 16, 2013 |encyclopedia=The Canadian Encyclopedia  |publisher=Historica Canada |edition=online |access-date=August 18, 2019}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[William Warren (politician)|William Warren]]
+|jurisdiction    = NF
+|number          = 7
+|image           = Radio Times - 1923-10-26 - page 142 (William Robertson Warren).png
+|birth_year      = 1879
+|death_year      = 1927
+|party           = Liberal Reform
+|riding          = [[Fortune Bay-Cape La Hune|Fortune Bay]]
+|term_start      = 1923-07-24
+|term_end        = 1924-05-07
+|event1          = appointment
+|event1_year     = 1923
+|event1_assembly = 25th
+|references      = <ref name=warrennf>{{cite web|url=http://collections.mun.ca/cdm/ref/collection/cns_enl/id/2405|title=Encyclopedia of Newfoundland and Labrador, volume 5 [Extract: letter W] :: Centre for Newfoundland Studies - Encyclopedia of Newfoundland and Labrador|website=collections.mun.ca}}</ref><ref name=warren>{{cite encyclopedia |url=https://www.thecanadianencyclopedia.ca/en/article/william-robertson-warren |last=Pitt |first=Robert D. |date=December 16, 2015 |title=William Robertson Warren |encyclopedia=The Canadian Encyclopedia  |publisher=Historica Canada |access-date=August 18, 2019}}</ref><ref name=hic/>
+}}
+{{Canadian first minister list
+|name            = [[Albert Hickman]]
+|jurisdiction    = NF
+|number          = 8
+|image           = Albert Edgar Hickman.png
+|birth_year      = 1875
+|death_year      = 1943
+|party           = Liberal-Progressive
+|member_title    = none
+|term_start      = 1924-05-10
+|term_end        = 1924-06-09
+|event1          = appointment
+|event1_year     = 1924
+|event1_assembly = none
+|accomplishments = Joined with some members of former Liberal Reform Party and some members of other parties to form a Liberal-Progressive government
+|references      = <ref name=hic>{{cite web|url=http://collections.mun.ca/cdm/ref/collection/cns_enl/id/1326|title=Encyclopedia of Newfoundland and Labrador, volume 2 [Extract: letter Hac-Hoy] :: Centre for Newfoundland Studies - Encyclopedia of Newfoundland and Labrador|website=collections.mun.ca}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Walter Stanley Monroe]]
+|jurisdiction    = NF
+|number          = 9
+|image           = Walter Stanley Monroe.jpg
+|birth_year      = 1871
+|death_year      = 1952
+|party           = Liberal-Conservative
+|riding          = [[Bonavista (electoral district)|Bonavista]]
+|term_start      = 1924-06-09
+|term_end        = 1928-08-15
+|event1          = election
+|event1_year     = 1924
+|event1_assembly = 26th
+|accomplishments = Women's right to vote and hold office achieved; settlement of the [[Labrador]] boundary dispute with [[Canada]] after Newfoundland successfully argued its case at the [[Judicial Committee of the Privy Council]] in [[London]].
+|references      = <ref name=alderdice>{{cite news|title=Hon. F.C. Alderdice dead in St. John's|url=https://news.google.com/newspapers?id=d74tAAAAIBAJ&sjid=xpgFAAAAIBAJ&pg=6784,3146492&dq=alderdice&hl=en|access-date=May 21, 2013|newspaper=The Gazette|date=February 27, 1936}}</ref>  
+}}
+{{Canadian first minister list
+|name            = [[Frederick C. Alderdice]]
+|jurisdiction    = NF
+|number          = 10
+|number_sub      = 1 of 2
+|image           = Frederick C. Alderdice.png
+|birth_year      = 1872
+|death_year      = 1936
+|party           = Liberal-Conservative
+|member_title    = [[Legislative Council of Newfoundland|Councillor]]
+|riding          = dominion-at-large
+|term_start      = 1928-08-15
+|term_end        = 1928-11-17
+|event1          = appointment
+|event1_year     = 1928
+|event1_assembly = 26th
+|references      = <ref name=alderdice/><ref name="Frederick Charles Alderdice">{{cite encyclopedia |url=https://www.thecanadianencyclopedia.ca/en/article/frederick-charles-alderdice |title=Frederick Charles Alderdice |encyclopedia=The Canadian Encyclopedia |publisher=Historica Canada |access-date=August 18, 2019}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Richard Squires]]
+|title           = Sir
+|jurisdiction    = NF
+|number          = &mdash;
+|number_sub      = 2 of 2
+|image           = Richard Squires.jpg
+|birth_year      = 1880
+|death_year      = 1940
+|party           = Liberal (historical)
+|riding          = [[Humber Valley|Humber]]
+|term_start      = 1928-11-17
+|term_end        = 1932-06-11
+|event1          = election
+|event1_year     = 1928
+|event1_assembly = 27th
+|accomplishments = Attempted to govern during the Great Depression which saw a collapse of fish prices and widespread unemployment; Newfoundland requested to join Confederation in exchange for a bailout but was rejected by Canada; economic instability and allegations of corruption inflamed public opinion resulting in a riot and the fall of the government.
+|references      = <ref name="squi">{{cite DCB |first=James K. |last=Hiller |title=Squires, Sir Richard Anderson |url=https://www.biographi.ca/en/bio/squires_richard_anderson_16E.html  |volume=16 |access-date=January 31, 2016}}</ref><ref name=alderdice/>
+}}
+{{Canadian first minister list
+|name            = [[Frederick C. Alderdice]]
+|jurisdiction    = NF
+|number          = &mdash;
+|number_sub      = 2 of 2
+|image           = Frederick C. Alderdice.png
+|birth_year      = 1872
+|death_year      = 1936
+|party           = United (historical)
+|riding          = [[St. John's West (provincial electoral district)|St. John's West]]
+|term_start      = 1932-06-11
+|term_end        = 1934-02-16
+|event1          = election
+|event1_year     = 1932
+|event1_assembly = 28th
+|accomplishments = Alderdice's United Newfoundland Party wins election on the promise that it will examine the possibility of suspending the constitution and having a commission administer the country until the financial crisis improves. UK and Canada agree to give the dominion financial aid in exchange for a Royal Commission on the Newfoundland's future. Alderdice accepts the Commission's recommendation to suspend [[responsible government]] and replace it with a [[Commission of Government]] appointed by London. 
+|references      = <ref name=alderdice/>
+}}
+{{Canadian first minister list/bottom}}
+
+==Chairmen of the Commission of Government (1934–1949)==
+With the suspension of [[responsible government]] the [[dominion]] was administered by the [[Commission of Government]], from 1934 to 1949. It was a body of seven appointed by the British government, made up of three British officials, three Newfoundlanders, and chaired by the Governor of Newfoundland.<ref>{{cite web|access-date=12 November 2008|url=https://www.heritage.nf.ca/govhouse/governorship/commission.html|title=Commission Governors, 1934-1948 |publisher=Memorial University of Newfoundland }}</ref>
+{| class="wikitable"
+|-
+! No.
+! width=75|Portrait
+! Name<br/><small>(Birth–Death)</small><br/><small>District</small>
+! colspan="2"|Term of office
+|-
+| style="text-align:center;" | 1
+| [[File:David Murray Anderson.jpg|75x200px|center]]
+| style="text-align:center;" | Admiral Sir '''[[David Murray Anderson]]'''<br/><small>(1874–1936)</small>
+| <small>16 February</small><br/>1934<ref name=alderdice/>
+| <small>October</small><br/>1935<ref name=empire>{{cite web|url=http://www.britishempire.co.uk/maproom/newfoundland/newfoundlandadmin.htm|title=The British Empire, Imperialism, Colonialism, Colonies|website=www.britishempire.co.uk}}</ref>
+|-
+| style="text-align:center;" | 2
+| [[File:Humphrey T. Walwyn.jpg|75x200px|center]]
+| style="text-align:center;" | Vice-Admiral Sir '''[[Humphrey T. Walwyn]]'''<br/><small>(1879–1957)</small>
+| <small>February</small><br/>1936<ref>{{cite web|url=https://www.heritage.nf.ca/govhouse/governors/g67.html|title=Walwyn, Sir Humphrey Thomas (1879-1957)|website=www.heritage.nf.ca}}</ref>
+| <small>16 January</small><br/>1946<ref name=empire/>
+|-
+| style="text-align:center;" | 3
+| [[File:Lord Macdonald.jpg|75x200px|center]]
+| style="text-align:center;" | '''[[Gordon Macdonald, 1st Baron Macdonald of Gwaenysgor|Gordon MacDonald]]'''<br/><small>(1888–1966)</small>
+| <small>16 January</small><br/>1946<ref name=empire/>
+| <small>1 April</small><br/>1949<ref name=empire/>
+|}
+
+==Provincial Premiers of Newfoundland (1949–2001) and Newfoundland and Labrador (2001–present)==
+{{Canadian first minister list/top|references=yes|term_ref=<ref name="NL terms">{{cite web|title=Former Premiers|url=http://www.premier.gov.nl.ca/premier/formerpre.html|publisher=Government of Newfoundland and Labrador|access-date=21 May 2013|url-status=dead|archive-url=https://web.archive.org/web/20130525004838/http://www.premier.gov.nl.ca/premier/formerpre.html|archive-date=25 May 2013}}</ref>}}
+{{Canadian first minister list
+|name            = [[Joey Smallwood]]
+|jurisdiction    = NF
+|number          = 1
+|image           = BradleyKingSmallwood1948 (cropped).jpg
+|birth_year      = 1900
+|death_year      = 1991
+|party           = Liberal
+|leadership      = 1949
+|riding          = [[Bonavista North]]
+|riding_term     = 1949-1959; 1962-1966
+|riding2         = [[St. John's West (provincial electoral district)|St. John's West]]
+|riding2_term    = 1959-1962
+|riding3         = [[Humber West]]
+|riding3_term    = 1966-1971
+|riding4         = [[Placentia-St. Mary's|Placentia East]]
+|riding4_term    = 1971-1972
+|term_start      = 1949-04-01
+|term_end        = 1972-01-18
+|event1          = establishment
+|event1_year     = 1949
+|event1_assembly = none
+|event2          = election
+|event2_year     = 1949
+|event2_assembly = 29th
+|event3          = election
+|event3_year     = 1951
+|event3_assembly = 30th
+|event4          = election
+|event4_year     = 1956
+|event4_assembly = 31st
+|event5          = election
+|event5_year     = 1959
+|event5_assembly = 32nd
+|event6          = election
+|event6_year     = 1962
+|event6_assembly = 33rd
+|event7          = election
+|event7_year     = 1966
+|event7_assembly = 34th
+|event8          = election
+|event8_year     = 1971
+|event8_assembly = 35th
+|accomplishments = Led successful campaign for Newfoundland to join Canada; longest serving first minister in Newfoundland history; creation of [[welfare state]]; development of hydroelectricity, mining and paper industries; [[Churchill Falls Generating Station]] and hydro contract with Quebec.
+|references      = <ref name=parl>{{cite web|title=Newfoundland and Labrador|url=http://www.parl.gc.ca/parlinfo/Files/Province.aspx?Item=ae747a0a-f1da-4bfd-aa4d-d86bf7f9b82c&MenuID=Compilations.ProvinceTerritory.aspx.Menu&Section=Premiers&Language=E|work=Parliamentary website|publisher=Library of Parliament|access-date=May 24, 2013}}</ref> 
+}}
+{{Canadian first minister list
+|name            = [[Frank Moores]]
+|jurisdiction    = NF
+|number          = 2
+|Image             =
+|birth_year      = 1933
+|death_year      = 2005
+|party           = PC
+|leadership      = 1970
+|riding          = [[Humber West]]
+|term_start      = 1972-01-18
+|term_end        = 1979-03-26
+|event1          = election
+|event1_year     = 1972
+|event1_assembly = 36th
+|event2          = election
+|event2_year     = 1975
+|event2_assembly = 37th
+|accomplishments = First Progressive Conservative premier; emphasized rural development and resource control.
+|references      = <ref name=parl/>
+}}
+{{Canadian first minister list
+|name            = [[Brian Peckford]]
+|jurisdiction    = NF
+|number          = 3
+|image           = Brian Peckford in 1980.jpg
+|birth_year      = 1942
+|party           = PC
+|leadership      = 1979
+|riding          = [[Grand Falls-Windsor-Green Bay South|Green Bay]]
+|term_start      = 1979-03-26
+|term_end        = 1989-03-22
+|event1          = appointment
+|event1_year     = 1979
+|event1_assembly = 37th
+|event2          = election
+|event2_year     = 1979
+|event2_assembly = 38th
+|event3          = election
+|event3_year     = 1982
+|event3_assembly = 39th
+|event4          = election
+|event4_year     = 1985
+|event4_assembly = 40th
+|accomplishments = Youngest first minister in Newfoundland history; Negotiated first [[Canada-Newfoundland and Labrador Atlantic Accord|Atlantic Accord]] with Ottawa to give province greater say in and financial benefit from offshore energy exploitation; [[Hibernia oil field]] development; new [[Flag of Newfoundland and Labrador|provincial flag]], expansion of high school to grade 12; construction of [[Trans-Labrador Highway]]; creation of the Department of the Environment; brought greenhouse cucumbers to the province.
+|references      = <ref name=parl/>
+}}
+{{Canadian first minister list
+|name            = [[Tom Rideout]]
+|jurisdiction    = NF
+|number          = 4
+|image           = <!-- Free images only, please. Do not use a non-free/"fair use" image here. -->
+|birth_year      = 1948
+|party           = PC
+|leadership      = 1989
+|riding          = [[Baie Verte-Springdale]]
+|term_start      = 1989-03-22
+|term_end        = 1989-05-05
+|event1          = appointment
+|event1_year     = 1989
+|event1_assembly = 40th
+|references      = <ref name=parl/>
+}}
+{{Canadian first minister list
+|name            = [[Clyde Wells (politician)|Clyde Wells]]
+|jurisdiction    = NF
+|number          = 5
+|image           = <!-- Free images only, please. Do not use a non-free/"fair use" image here. -->
+|birth_year      = 1937
+|party           = Liberal
+|leadership      = 1987
+|riding          = [[Bay of Islands (electoral district)|Bay of Islands]]
+|term_start      = 1989-05-05
+|term_end        = 1996-01-26
+|event1          = election
+|event1_year     = 1989
+|event1_assembly = 41st
+|event2          = election
+|event2_year     = 1993
+|event2_assembly = 42nd
+|accomplishments = Opposed the [[Meech Lake Accord]], negotiated [[Charlottetown Accord]], creation of a public school system replacing two parochial streams, budgetary reform, economic diversification in response to [[collapse of the Atlantic northwest cod fishery]].
+|references      = <ref name=parl/>
+}}
+{{Canadian first minister list
+|name            = [[Brian Tobin]]
+|jurisdiction    = NL
+|number          = 6
+|image           = Briantobin.jpg
+|birth_year      = 1954
+|party           = Liberal
+|leadership      = 1996
+|riding          = [[Humber-Bay of Islands|Bay of Islands]]
+|riding_term     = 1996-1999
+|riding2         = [[The Straits – White Bay North]]
+|riding2_term     = 1999-2000
+|term_start      = 1996-01-26
+|term_end        = 2000-10-16
+|event1          = appointment
+|event1_year     = 1996
+|event1_assembly = 42nd
+|event2          = election
+|event2_year     = 1996
+|event2_assembly = 43rd
+|event3          = election
+|event3_year     = 1999
+|event3_assembly = 44th
+|accomplishments = Completed replacement of separate school system with public schools.
+|references      = <ref name=parl/>
+}}
+{{Canadian first minister list
+|name            = [[Beaton Tulk]]
+|jurisdiction    = NL
+|number          = 7
+|image           = <!-- Free images only, please. Do not use a non-free/"fair use" image here. -->
+|birth_year      = 1944
+|death_year      = 2019
+|party           = Liberal
+|leadership      = interim
+|riding          = [[Bonavista North]]
+|term_start      = 2000-10-16
+|term_end        = 2001-02-13
+|event1          = appointment
+|event1_year     = 2000
+|event1_assembly = 44th
+|references      = <ref name=parl/>
+}}
+{{Canadian first minister list
+|name            = [[Roger Grimes]]
+|jurisdiction    = NL
+|number          = 8
+|image           = Roger Grimes cropped.jpg
+|birth_year      = 1950
+|party           = Liberal
+|leadership      = 2001
+|riding          = [[Exploits (electoral district)|Exploits]]
+|term_start      = 2001-02-13
+|term_end        = 2003-11-06
+|event1          = appointment
+|event1_year     = 2001
+|event1_assembly = 44th
+|accomplishments = [[Royal Commission on Renewing and Strengthening Our Place in Canada]]
+|references      = <ref name=parl/>
+}}
+{{Canadian first minister list
+|name            = [[Danny Williams (Canadian politician)|Danny Williams]]
+|jurisdiction    = NL
+|number          = 9
+|image           = Newfoundland Premier Danny Williams.jpg
+|birth_year      = 1949
+|party           = PC
+|leadership      = 2001
+|riding          = [[Humber West]]
+|term_start      = 2003-11-06
+|term_end        = 2010-12-03
+|event1          = election
+|event1_year     = 2003
+|event1_assembly = 45th
+|event2          = election
+|event2_year     = 2007
+|event2_assembly = 46th
+|accomplishments = Reorganization of health and education; negotiated Second [[Canada-Newfoundland and Labrador Atlantic Accord|Atlantic Accord]] to keep 100% of oil revenues in the province; negotiated deals to develop Hebron offshore oil field and expand [[Hibernia oil field]]; opposed sale of New Brunswick Power to Hydro-Québec; further development of [[Lower Churchill Project]] and [[Muskrat Falls]] with transmission lines to Maritimes and the US.
+|references      = <ref name=parl/><ref name="Nov 26">{{Cite news|url=https://www.cbc.ca/news/canada/newfoundland-labrador/danny-williams-retires-as-n-l-premier-1.868431|title= N.L. Premier Danny Williams to leave Dec.&nbsp;3|publisher=Canadian Broadcasting Corporation|date=November 26, 2010|access-date=July 26, 2011}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Kathy Dunderdale]]
+|jurisdiction    = NL
+|number          = 10
+|image           = Kathy Dunderdale 31May2011.jpg
+|birth_year      = 1952
+|party           = PC
+|leadership      = [[2011 Progressive Conservative Party of Newfoundland and Labrador leadership election|2011]]{{ref|a}}
+|riding          = [[Virginia Waters (electoral district)|Virginia Waters]]
+|term_start      = 2010-12-03
+|term_end        = 2014-01-24
+|event1          = appointment
+|event1_year     = 2010
+|event1_assembly = 46th
+|event2          = election
+|event2_year     = 2011
+|event2_assembly = 47th
+|accomplishments = Only female premier; school board consolidation; further resource development; sanctioning of Muskrat Falls and negotiation of federal loan guarantee for the project; resigned following criticism of her leadership during a series of power outages and rolling blackouts across the province.
+|references      = <ref>{{cite news|url=http://www.ctv.ca/CTVNews/TopStories/20101203/danny-williams-final-day-as-NL-premier-101203/|title= Kathy Dunderdale sworn in as N.L. Premier|publisher=CTV News|date=December 3, 2010|access-date=March 19, 2011}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Tom Marshall (politician)|Tom Marshall]]
+|jurisdiction    = NL
+|number          = 11
+|image           = 
+|birth_year      = 1946
+|party           = PC
+|leadership      = interim
+|riding          = [[Humber East]]
+|term_start      = 2014-01-24
+|term_end        = 2014-09-26
+|event1          = appointment
+|event1_year     = 2014
+|event1_assembly = 47th
+|references      = <ref>{{cite web|title=Tom Marshall sworn in as 11th premier|url=https://www.cbc.ca/news/canada/newfoundland-labrador/tom-marshall-sworn-in-as-11th-premier-1.2509302|publisher=CBC News|access-date=25 January 2014|date=24 January 2014}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Paul Davis (Canadian politician)|Paul Davis]]
+|jurisdiction    = NL
+|number          = 12
+|image           = Paul Davis2 (cropped).jpg
+|birth_year      = 1961
+|party           = PC
+|leadership      = [[2014 Progressive Conservative Party of Newfoundland and Labrador leadership election|2014]]
+|riding          = [[Topsail (electoral district)|Topsail]]
+|term_start      = 2014-09-26
+|term_end        = 2015-12-14
+|event1          = appointment
+|event1_year     = 2014
+|event1_assembly = 47th
+|accomplishments = Reduced the number of electoral districts in the province to 40; introduced the Downpayment Assistance Program.
+|references      = <ref>{{cite news|title=Davis to be sworn-in as premier Friday|url=http://www.theaurora.ca/News/Regional/2014-09-25/article-3882563/Davis-to-be-sworn-in-as-premier-Friday/1|publisher=The Aurora|access-date=25 September 2014|date=25 September 2014|archive-date=January 28, 2015|archive-url=https://web.archive.org/web/20150128154841/http://www.theaurora.ca/News/Regional/2014-09-25/article-3882563/Davis-to-be-sworn-in-as-premier-Friday/1}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Dwight Ball]]
+|jurisdiction    = NL
+|number          = 13
+|image           = DwightBall (brightened, cropped).jpg
+|birth_year      = 1957
+|party           = Liberal
+|leadership      = [[2013 Liberal Party of Newfoundland and Labrador leadership election|2013]]
+|riding          = [[Humber - Gros Morne|Humber-Gros Morne]]
+|term_start      = 2015-12-14
+|term_end        = 2020-08-19
+|event1          = election
+|event1_year     = 2015
+|event1_assembly = 48th
+|event2          = election
+|event2_year     = 2019
+|event2_assembly = 49th
+|accomplishments = Called a public inquiry into cost overruns of the Muskrat Falls [[Lower Churchill Project]] and negotiated with the federal government; enacted unpopular austerity measures to combat mounting provincial debt; re-elected to a minority government in 2019; resigned following criticisms over the awarding of non-competitive contracts and appointments benefiting individuals with links to the Liberal Party. 
+|references      = <ref>{{cite news |title=Dwight Ball, new Liberal cabinet sworn in at Government House |url=https://www.cbc.ca/news/canada/newfoundland-labrador/cabinet-swearing-in-live-stream-1.3363654 |access-date=15 October 2025 |publisher=[[CBC News]] |date=14 December 2015}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Andrew Furey]]
+|jurisdiction    = NL
+|number          = 14
+|image           = Premier Andrew Furey - 2020 (cropped 3).png
+|birth_year      = 1975
+|party           = Liberal
+|leadership      = [[2020 Liberal Party of Newfoundland and Labrador leadership election|2020]]
+|riding          = [[Humber - Gros Morne|Humber-Gros Morne]]
+|term_start      = 2020-08-19
+|term_end        = 2025-05-09
+|event1          = appointment
+|event1_year     = 2019
+|event1_assembly = 49th
+|event2          = election
+|event2_year     = 2021
+|event2_assembly = 50th
+|accomplishments = Was not an MHA until winning the seat left by his predecessor, Dwight Ball; managed the provincial response to the [[COVID-19 pandemic]]; appointed the Premier's Economic Recovery Taskforce; re-elected to a majority government in 2021; amalgamation of the four health authorities.
+|references      = <ref>{{cite news |last1=Bird |first1=Lindsay |title=New N.L. premier, new finance minister: Andrew Furey takes office and shuffles cabinet |url=https://www.cbc.ca/news/canada/newfoundland-labrador/andrew-furey-premier-1.5691667 |access-date=15 October 2025 |publisher=[[CBC News]] |date=19 August 2020}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[John Hogan (Newfoundland and Labrador politician)|John Hogan]]
+|jurisdiction    = NL
+|number          = 15
+|image           = Premier-hogan-liberal-2025 (cropped).jpg
+|birth_year      = 1978
+|party           = Liberal
+|leadership      = [[2025 Liberal Party of Newfoundland and Labrador leadership election|2025]]
+|riding          = [[Windsor Lake]]
+|term_start      = 2025-05-09
+|term_end        = 2025-10-29
+|event1          = appointment
+|event1_year     = 2025
+|event1_assembly = 50th
+|accomplishments = Won the [[2025 Liberal Party of Newfoundland and Labrador leadership election|leadership race]] within his own party to become [[Premier of Newfoundland and Labrador| Premier]]; oversaw the response to the [[2025 Canadian wildfires#Newfoundland and Labrador|2025 wildfires]].
+|references      = <ref>{{cite news |last1=Kilfoy |first1=Cameron |title=John Hogan sworn in as NL's 15th premier, announces two new roles in 16-person cabinet |url=https://www.saltwire.com/newfoundland-labrador/john-hogan-sworn-in-nl-premier |access-date=15 October 2025 |publisher=[[The Telegram]] ([[SaltWire Network]]) |date=9 May 2025}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Tony Wakeham]]
+|jurisdiction    = NL
+|number          = 16
+|image           = Tony Wakeham 2022.jpg
+|birth_year      = 1956
+|party           = PC
+|leadership      = [[2023 Progressive Conservative Party of Newfoundland and Labrador leadership election|2023]]
+|riding          = [[Stephenville-Port au Port]]
+|term_start      = 2025-10-29
+|term_end        = 
+|event1          = election
+|event1_year     = 2025
+|event1_assembly = 51st
+|accomplishments = Oversaw the furthering of the Bay Du Nord oil project.
+|references      = 
+}}
+{{Canadian first minister list/bottom|colspan=10|notes=
+:1.{{note|a}}Dunderdale was named interim Progressive Conservative Party leader on 26 November 2010,<ref name="Nov 26"/> she was not elected party leader until 2 April 2011.<ref>{{Cite news|url=https://www.cbc.ca/news/canada/newfoundland-labrador/dunderdale-takes-risk-with-harper-pledge-1.1048619|title=Dunderdale takes risk with Harper pledge|publisher=Canadian Broadcasting Corporation|date=April 4, 2011|access-date=July 26, 2011}}</ref>
+}}
+
+==By time in office==
+This is a list of [[Premier of Newfoundland and Labrador|premiers of Newfoundland and Labrador]], since the jurisdiction joined [[Canadian Confederation]] in 1949, in order of time served in office as of {{FULLDATE}}. The preceding premier always stays in office during an election campaign, and that time is included in the total.
+
+{| class="wikitable sortable"
+|-
+! Rank !! Premier !! Incumbency !! Dates in power !! Mandates !! Party
+|-
+| style="text-align: center;" | 1 || {{sortname|Joey|Smallwood}} || {{ayd|1949|4|1|1972|1|18}} || 1949–1972 || 7 || {{Canadian party colour|NL|Liberal|colour&name}}
+|-
+| style="text-align: center;" | 2 || {{sortname|Brian|Peckford}} || {{ayd|1979|4|26|1989|3|22}}|| 1979–1989 || 3 || {{Canadian party colour|NL|PC|colour&name}}
+|-
+| style="text-align: center;" | 3 || {{sortname|Frank|Moores}} || {{ayd|1972|1|18|1979|3|26}} || 1972–1979 || 2 || {{Canadian party colour|NL|PC|colour&name}}
+|-
+| style="text-align: center;" | 4 || {{sortname|Danny|Williams|dab=Canadian politician}} || {{ayd|2003|11|6|2010|12|3}} || 2003–2010 || 2 || {{Canadian party colour|NL|PC|colour&name}}
+|-
+| style="text-align: center;" | 5 || {{sortname|Clyde|Wells|Clyde Kirby Wells}} || {{ayd|1989|5|5|1996|1|26}} || 1989–1996 || 2 || {{Canadian party colour|NL|Liberal|colour&name}}
+|-
+| style="text-align: center;" | 6 || {{sortname|Brian|Tobin}} || {{ayd|1996|1|26|2000|10|16}}|| 1996–2000 || 2 || {{Canadian party colour|NL|Liberal|colour&name}}
+|-
+| style="text-align: center;" | 7 || {{sortname|Andrew|Furey}} ||  {{ayd|2020|08|19|2025|05|09}}|| 2020–2025
+| 1 || {{Canadian party colour|NL|Liberal|colour&name}}
+|-
+| style="text-align: center;" | 8 || {{sortname|Dwight|Ball}} ||  {{ayd|2015|12|14|2020|08|19}}|| 2015–2020 || 1 || {{Canadian party colour|NL|Liberal|colour&name}}
+|-
+| style="text-align: center;" | 9 || {{sortname|Kathy|Dunderdale}} || {{ayd|2010|12|3|2014|1|24}} || 2010–2014 || 1 || {{Canadian party colour|NL|PC|colour&name}}
+|-
+| style="text-align: center;" | 10 || {{sortname|Roger|Grimes}} || {{ayd|2001|2|13|2003|11|6}}|| 2001–2003 || 0 || {{Canadian party colour|NL|Liberal|colour&name}}
+|-
+| style="text-align: center;" | 11 || {{sortname|Paul|Davis|Paul Davis (Canadian politician)}} || {{ayd|2014|9|26|2015|12|14}}|| 2014–2015 || 0 || {{Canadian party colour|NL|PC|colour&name}}
+|-
+| style="text-align: center;" | 14 || '''{{sortname|Tony|Wakeham}}''' || {{ayd|2025|10|29}}|| 2025–present || 1 || {{Canadian party colour|NL|PC|colour&name}}
+|-
+| style="text-align: center;" | 12 || {{sortname|Tom|Marshall|Tom Marshall (politician)}} || {{ayd|2014|1|25|2014|9|26}}|| 2014 || 0 || {{Canadian party colour|NL|PC|colour&name}}
+|-
+| style="text-align: center;" | 13 || [[John Hogan (Newfoundland and Labrador politician)|John Hogan]] ||  {{ayd|2025|05|09|2025|10|29}}|| 2025
+| 0 || {{Canadian party colour|NL|Liberal|colour&name}}
+|-
+| style="text-align: center;" | 15 || {{sortname|Beaton|Tulk}} || {{ayd|2000|10|16|2001|2|13}}|| 2000–2001 || 0 || {{Canadian party colour|NL|Liberal|colour&name}}
+|-
+| style="text-align: center;" | 16 || {{sortname|Tom|Rideout}} || {{ayd|1989|3|22|1989|5|5}}|| 1989 || 0 || {{Canadian party colour|NL|PC|colour&name}}
+|}
+
+==See also==
+* [[Leader of the Opposition (Newfoundland and Labrador)]]
+* [[List of Newfoundland and Labrador lieutenant-governors]]
+
+==References==
+;General
+{{refbegin}}
+* {{cite web|access-date=November 8, 2008 |url=http://www.elections.gov.nl.ca/elections/1949-1999stats.asp |title=General Election Statistics |publisher=Elections Newfoundland and Labrador |archive-url=https://web.archive.org/web/20080926161505/http://www.elections.gov.nl.ca/elections/1949-1999stats.asp |archive-date=September 26, 2008 |url-status=dead }}
+* {{cite web|access-date=November 9, 2008|url=https://www.canadiana.ca/view/oocihm.9_02229|title=Journal of the House of Assembly of Newfoundland |publisher=Library and Archives Canada }}
+{{refend}}
+
+;Specific
+{{reflist}}
+
+{{Canadian First Ministers}}
+{{Newfoundland and Labrador politics}}
+
+{{featured list}}
+
+{{DEFAULTSORT:List Of Premiers Of Newfoundland And Labrador}}
+[[Category:Lists of premiers of Canada by province or territory|Newfoundland and Labrador]]
+[[Category:Premiers of Newfoundland and Labrador|*]]
+[[Category:Premiers of Newfoundland Colony|*]]
+[[Category:Lists of people from Newfoundland and Labrador|Premiers]]
+[[Category:Prime ministers of the Dominion of Newfoundland|*]]
+[[Category:Newfoundland and Labrador politics-related lists|Premiers]]

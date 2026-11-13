@@ -1,0 +1,257 @@
+---
+/**
+ * Which party family has governed each province and territory since it
+ * joined Canada: one ribbon per province or territory, one block per
+ * premier, coloured by the party family of their government. From
+ * src/data/wikidata/premiers.json (`pnpm data:premiers`).
+ *
+ *   <tn-widget name="premiers-ribbon"></tn-widget>
+ *
+ * Palette (src/lib/party-families.ts, tokens in src/styles/global.css):
+ * Liberal, Conservative, CCF / NDP and Social Credit use the federal party
+ * colours, as does the Parti Québécois (the Bloc's colour). The other
+ * provincial families have their own tokens: the Quebec autonomist parties
+ * (Union Nationale, CAQ), the centre-right coalitions (BC Liberals since
+ * 1991, Saskatchewan Party), the farmer and Progressive governments, and
+ * non-partisan or consensus government. Hatching marks years with no
+ * premier or government leader.
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import ChartTip from "../../components/charts/TnChartTip.astro";
+import Legend from "../../components/charts/ChartLegend.astro";
+import { uniqueId } from "../../lib/ids";
+import { formatDuration } from "../../lib/reference";
+import {
+  PROVINCIAL,
+  X_TICKS,
+  buildDate,
+  formatDate,
+  premiersMeta,
+  provinceGovernments,
+  when,
+  xOf,
+  xPct,
+  type PremierTerm,
+  type ProvinceGovernments,
+  type ProvincialFamily,
+} from "../../lib/election-history";
+
+const id = uniqueId(Astro, "premiers", "ribbon");
+const ORDER = [
+  ["newfoundland-and-labrador", "NL"],
+  ["prince-edward-island", "PE"],
+  ["nova-scotia", "NS"],
+  ["new-brunswick", "NB"],
+  ["quebec", "QC"],
+  ["ontario", "ON"],
+  ["manitoba", "MB"],
+  ["saskatchewan", "SK"],
+  ["alberta", "AB"],
+  ["british-columbia", "BC"],
+  ["yukon", "YT"],
+  ["northwest-territories", "NT"],
+  ["nunavut", "NU"],
+] as const;
+const bySlug = new Map(provinceGovernments.map((p) => [p.slug, p]));
+if (bySlug.size !== ORDER.length) throw new Error(`premiers-ribbon: expected ${ORDER.length} provinces and territories, found ${bySlug.size}`);
+
+const end = (t: { end: string | null }) => t.end ?? buildDate;
+const days = (a: string, b: string) => Math.round((Date.parse(`${b}T00:00:00Z`) - Date.parse(`${a}T00:00:00Z`)) / 86_400_000);
+const xd = (iso: string) => xOf(when(iso));
+const MIN_GAP_DAYS = 60; // Caretaker days between premiers are too short to draw.
+
+const rows = ORDER.map(([slug, code], row) => {
+  const p = bySlug.get(slug)! as ProvinceGovernments;
+  const terms = p.terms.map((t, k) => ({ t, k, x: xd(t.start), w: xd(end(t)) - xd(t.start) }));
+  const gaps = p.gaps.filter((g) => days(g.start, g.end) >= MIN_GAP_DAYS).map((g) => ({ ...g, x: xd(g.start), w: xd(g.end) - xd(g.start) }));
+  return { p, code, row, terms, gaps, joinedX: xd(p.joined) };
+});
+
+// The longest unbroken run of one family in one province (by days).
+const runs = rows.flatMap(({ p }) => {
+  const out: { p: ProvinceGovernments; family: ProvincialFamily; party: string; start: string; end: string | null; n: number }[] = [];
+  for (const t of p.terms) {
+    const last = out.at(-1);
+    if (last && last.family === t.family && last.party === t.party && days(end(last), t.start) < 400) {
+      last.end = t.end;
+      last.n++;
+    } else out.push({ p, family: t.family, party: t.party, start: t.start, end: t.end, n: 1 });
+  }
+  return out.filter((r) => r.family !== "nonpartisan");
+});
+const longest = runs.reduce((a, b) => (days(b.start, end(b)) > days(a.start, end(a)) ? b : a));
+const current = rows.map(({ p }) => ({ p, t: p.terms.at(-1)! })).filter(({ t }) => t.end === null);
+const NOW: Partial<Record<ProvincialFamily, string>> = { ndp: "NDP", coalition: "centre-right coalition", autonomist: "Quebec autonomist" };
+const partisan = new Map<ProvincialFamily, number>();
+for (const { t } of current) if (t.family !== "nonpartisan") partisan.set(t.family, (partisan.get(t.family) ?? 0) + 1);
+const consensus = current.filter(({ t }) => t.family === "nonpartisan").map(({ p }) => (p.name.startsWith("Northwest") ? `the ${p.name}` : p.name));
+const currentText =
+  [...partisan]
+    .sort((a, b) => b[1] - a[1])
+    .map(([f, n]) => `${n} ${NOW[f] ?? PROVINCIAL[f].label}`)
+    .join(", ") + (consensus.length ? `, and consensus government in ${consensus.join(" and ")}` : "");
+const yearsOf = (a: string, b: string | null) => Math.floor(days(a, b ?? buildDate) / 365.25);
+const lede = `The longest unbroken run belongs to ${longest.p.name}'s ${longest.party}s: ${yearsOf(longest.start, longest.end)} years and ${longest.n} premiers, from ${longest.start.slice(0, 4)} to ${longest.end ? longest.end.slice(0, 4) : "today"}. Today's governments: ${currentText}.`;
+
+const families = (Object.keys(PROVINCIAL) as ProvincialFamily[]).filter((f) => rows.some((r) => r.p.terms.some((t) => t.family === f)));
+const range = (t: PremierTerm) => `${formatDate(t.start, "short")} – ${t.end ? formatDate(t.end, "short") : "today"}`;
+---
+
+<ChartCard
+  title="Who has governed the provinces and territories"
+  lede={lede}
+  sources={[
+    { label: "Wikidata, premiers of each province and territory (CC0)", url: "https://www.wikidata.org/" },
+    { label: "Wikipedia, lists of premiers and their articles (CC BY-SA 4.0)", url: "https://en.wikipedia.org/wiki/List_of_current_Canadian_first_ministers" },
+  ]}
+  tableLabel="Show the data"
+>
+  <Legend
+    items={[
+      ...families.map((f) => ({ label: PROVINCIAL[f].label, color: PROVINCIAL[f].color })),
+    ]}
+  />
+  <p class="mt-1.5 inline-flex items-center gap-1.5 text-xs text-secondary">
+    <span class="rb-none inline-block h-2.5 w-4 rounded-sm" aria-hidden="true"></span>
+    No premier or government leader
+  </p>
+
+  <tn-chart class="rb mt-4 block">
+    <div class="grid grid-cols-[2rem_minmax(0,1fr)] gap-y-1 sm:grid-cols-[11.5rem_minmax(0,1fr)]" role="group" aria-label="Premiers by province and territory; use the arrow keys to move between premiers">
+      {
+        rows.map(({ p, code, row, terms, gaps, joinedX }) => (
+          <>
+            <span class="self-center truncate pr-2 text-[11px] leading-none text-secondary sm:text-xs" title={p.name}>
+              <span class="sm:hidden" aria-hidden="true">
+                {code}
+              </span>
+              <span class="hidden sm:inline">{p.name}</span>
+            </span>
+            <div class="rb-row relative h-[1.125rem]">
+              <span class="rb-before absolute inset-y-0 left-0" style={`width: ${xPct(joinedX)}`} />
+              {gaps.map((g) => (
+                <span class="rb-none absolute inset-y-0" style={`left: ${xPct(g.x)}; width: ${xPct(g.w)}`} />
+              ))}
+              {terms.map(({ t, k, x, w }) => (
+                <span
+                  class="rb-seg absolute inset-y-0"
+                  style={`left: ${xPct(x)}; width: ${xPct(w)}; --c: ${PROVINCIAL[t.family].color}`}
+                  data-tip={`${id}-${row}-${k}`}
+                  data-row={row}
+                  role="img"
+                  aria-label={`${p.name}: ${t.name}, ${t.party}, ${range(t)}.`}
+                />
+              ))}
+            </div>
+          </>
+        ))
+      }
+      <span />
+      <div class="relative mt-1 h-4 text-[11px] text-muted" aria-hidden="true">
+        {
+          X_TICKS.map((t, k) => (
+            <span
+              class:list={["absolute leading-none", k === 0 ? "" : k === X_TICKS.length - 1 && xOf(t) > 960 ? "-translate-x-full" : "-translate-x-1/2"]}
+              style={`left: ${k === 0 ? "0%" : xPct(xOf(t))}`}
+            >
+              {t}
+            </span>
+          ))
+        }
+      </div>
+    </div>
+    <p class="mt-3 text-xs text-muted">
+      Each block is one premier's time in office, coloured by their party's family. Rows start when the province or territory joined Canada. Hatching
+      marks years when a territory had no premier or government leader.
+    </p>
+
+    {
+      rows.map(({ p, row, terms }) =>
+        terms.map(({ t, k }) => (
+          <template id={`${id}-${row}-${k}`}>
+            <p class="ct-h">{t.name}</p>
+            <p class="ct-sub">{p.name}</p>
+            <p class="ct-p">
+              <span class="ct-sw" style={`--sw: ${PROVINCIAL[t.family].color}`} />
+              {t.party}
+              {PROVINCIAL[t.family].label !== t.party && <span class="text-muted"> ({PROVINCIAL[t.family].label})</span>}
+            </p>
+            <p class="ct-p">
+              {range(t)} · {formatDuration(days(t.start, end(t)))}
+            </p>
+          </template>
+        )),
+      )
+    }
+    <ChartTip />
+  </tn-chart>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Premier</th>
+          <th scope="col">Party</th>
+          <th scope="col">From</th>
+          <th scope="col">To</th>
+        </tr>
+      </thead>
+      {
+        rows.map(({ p }) => (
+          <tbody>
+            <tr>
+              <th scope="colgroup" colspan="4" class="!text-start">
+                {p.name}
+              </th>
+            </tr>
+            {p.terms.map((t) => (
+              <tr>
+                <td class="!text-start">{t.name}</td>
+                <td>{t.party}</td>
+                <td>{formatDate(t.start, "short")}</td>
+                <td>{t.end ? formatDate(t.end, "short") : "In office"}</td>
+              </tr>
+            ))}
+          </tbody>
+        ))
+      }
+      <caption>
+        Party families: {families.map((f) => `${PROVINCIAL[f].label}: ${PROVINCIAL[f].covers}`).join(". ")}. Data fetched {premiersMeta.fetched}.
+      </caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+<style>
+  .rb-row {
+    background: var(--tn-surface-muted);
+    border-radius: 3px;
+  }
+  .rb-before {
+    background: var(--tn-surface);
+  }
+  .rb-none {
+    background: repeating-linear-gradient(135deg, var(--tn-border-strong) 0 1.5px, transparent 1.5px 5px);
+  }
+  .rb-seg {
+    background: var(--c);
+    box-shadow: inset -1px 0 0 var(--tn-surface);
+    transition: opacity 120ms ease-out;
+  }
+  .rb[data-active] .rb-seg:not(.is-active) {
+    opacity: 0.45;
+  }
+  .rb-seg.is-active {
+    outline: 2px solid var(--tn-text-primary);
+    outline-offset: 0;
+    z-index: 1;
+  }
+  .rb-seg:focus-visible {
+    outline-color: var(--tn-focus);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .rb-seg {
+      transition: none;
+    }
+  }
+</style>

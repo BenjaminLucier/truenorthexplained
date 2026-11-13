@@ -1,0 +1,386 @@
+{{Short description|none}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 1882 Canadian federal election
+| country = Canada
+| flag_year = 1868
+| type = parliamentary
+| ongoing = no
+| party_colour = no
+| party_name = no
+| previous_election = 1878 Canadian federal election
+| previous_year = 1878
+| next_election = 1887 Canadian federal election
+| next_year = 1887
+| seats_for_election = 211 seats in the [[House of Commons of Canada|House of Commons]]
+| majority_seats = 106
+| turnout = 70.3%<ref>{{cite web|title=Voter Turnout at Federal Elections and Referendums
+|url=http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|website=Elections Canada|access-date=10 March 2019}}</ref> ({{increase}} 1.2 [[Percentage Point|pp]])
+| election_date = June 20, 1882
+| elected_members = 5th Canadian Parliament
+| outgoing_members = 4th Canadian Parliament
+| image1 = Prime Minister Sir John Alexander Macdonald Nov 1833 Topley portrait (cropped)3.jpg
+| colour1 = {{Canadian party colour|CA|Conservative (historical)|nohash}}
+| leader1 = [[John A. Macdonald]]
+| leader_since1 = July 1, 1867
+| party1 = {{Canadian party colour|CA|Conservative (historical)|name}}
+| leaders_seat1 = [[Carleton (Ontario federal electoral district)|Carleton]]{{efn|Macdonald was also elected in [[Lennox (federal electoral district)|Lennox]]; he chose to sit for Carleton instead, and resigned as the Member of Parliament for Lennox.}}
+| last_election1 = 134 seats, 42.1%
+| seats1 = '''133'''
+| seat_change1 = {{decrease}} 1
+| popular_vote1 = '''208,544'''
+| percentage1 = '''40.4%'''
+| swing1 = {{decrease}} 1.7 [[Percentage Point|pp]]
+| image2 = [[File:Portrait of Edward Blake (cropped).jpg|200x200px]]
+| colour2 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader2 = [[Edward Blake]]
+| leader_since2 = May 4, 1880
+| party2 = {{Canadian party colour|CA|Liberal|name}}
+| leaders_seat2 = [[Durham West]]
+| last_election2 = 63 seats, 33.1%
+| seats2 = 73
+| seat_change2 = {{increase}} 10
+| popular_vote2 = 160,574
+| percentage2 = 31.1%
+| swing2 = {{decrease}} 2.0 [[Percentage Point|pp]]
+| map_image = Canada 1882 Federal Election.svg
+| map_size = 380px
+| map_caption = 1882 Canadian electoral map
+| map2_image = Chambre des Communes 1882.png
+| map2_size = 380px
+| map2_caption = The Canadian parliament after the 1882 election
+| title = Prime Minister
+| posttitle = Prime Minister after election
+| before_election = [[John A. Macdonald]]
+| before_party = {{Canadian party colour|CA|Conservative (historical)|name}}
+| after_election = [[John A. Macdonald]]
+| after_party = {{Canadian party colour|CA|Conservative (historical)|name}}
+| image1_size = x200px
+}}
+The '''1882 Canadian federal election''' was held on June 20, 1882, to elect members  of the [[House of Commons of Canada]] of the [[5th Canadian Parliament|5th Parliament]] of [[Canada]].
+
+[[Prime Minister of Canada|Prime Minister]] Sir [[John A. Macdonald]]'s [[Conservative Party of Canada (historical)|Conservatives]] and [[Liberal-Conservative Party|Liberal-Conservative]]s retained power, defeating the [[Liberal Party of Canada|Liberal Party]] of [[Edward Blake]].
+
+==National results==
+[[File:1882 Canadian parliament.svg|center|300px]]
+
+{| class="wikitable"
+!rowspan=2 colspan=2|Party
+!rowspan=2|Party leader
+!rowspan=2|# of<br />candidates
+!colspan=3|Seats
+!colspan=3|Popular vote
+|- bgcolor="CCCCCC"
+|align="center"|[[1878 Canadian federal election|1878]]
+!align="center"|Elected
+|align="center"|Change
+|align="center"|#
+|align="center"|%
+|align="center"|Change
+{{Canadian party colour|CA|PC|row}}
+| [[Conservative Party of Canada (historical)|Conservative]]
+|rowspan=2 align="center"| [[John A. Macdonald]]
+|align="right"|118
+|align="right"|83
+!align="right"|94
+|align="right"|+13.3%
+|align="right"|143,684
+|align="right"|27.83%
+|align="right"|-1.67pp
+{{Canadian party colour|CA|PC|row}}
+| [[Liberal-Conservative Party|Liberal-Conservative]]
+|align="right"|50
+|align="right"|46
+!align="right"|39
+|align="right"|-8.7%
+|align="right"|64,860
+|align="right"|12.56%
+|align="right"|-3.22pp
+{{Canadian party colour|CA|Liberal|row}}
+| [[Liberal Party of Canada|Liberal]]
+|align="center"| [[Edward Blake]] 
+|align="right"|112
+|align="right"|57
+!align="right"|73
+|align="right"|+26.3%
+|align="right"|160,547
+|align="right"|31.10%
+|align="right"|+1.95pp
+{{Canadian party colour|CA|Independent|row}}
+| Independent 
+|align="center"| 
+|align="right"|7
+|align="right"|5
+!align="right"|1
+|align="right"|-80%
+|align="right"|8,227
+|align="right"|1.59%
+|align="right"|-1.12pp
+{{Canadian party colour|CA|Independent|row}}
+| [[Nationalist Conservative]]
+|align="center"| 
+|align="right"|1
+|align="right"|-
+!align="right"|1
+|align="right"|-  
+|align="right"|1,084
+|align="right"|0.21%
+|align="right"|+0.14pp
+{{Canadian party colour|CA|Independent|row}}
+| Independent Liberal
+|align="center"| 
+|align="right"|3
+|align="right"|2
+!align="right"|2
+|align="right"|-
+|align="right"|5,740
+|align="right"|1.11%
+|align="right"|+0.12pp
+{{Canadian party colour|CA|Independent|row}}
+| Independent Conservative
+|align="center"| 
+|align="right"|2
+|align="right"|2
+!align="right"|1
+|align="right"|-50%
+|align="right"|927
+|align="right"|0.18%
+|align="right"|-
+{{Canadian party colour|CA|Independent|row}}
+| Unknown
+|align="center"| 
+|align="right"|121
+|align="right"|9
+!align="right"|-
+|align="right"|-100%
+|align="right"|131,178
+|align="right"|25.41%
+|align="right"|+4.48pp
+|-
+!colspan=2| Total
+! 
+!align="right"|414
+!align="right"|204
+!align="right"|211
+!align="right"|+4.4%
+!align="right"|516,247
+!align="right"|100.0%  
+!align="right"|-
+|-
+| align="center" colspan=10|'''Sources:''' http://www.elections.ca -- [http://www.parl.gc.ca/information/about/process/house/hfer/hfer.asp?Language=E History of Federal Ridings since 1867] {{Webarchive|url=https://web.archive.org/web/20081204121507/http://www.parl.gc.ca/information/about/process/house/hfer/hfer.asp?Language=E |date=2008-12-04 }}
+|}
+
+'''Acclamations:'''
+
+The following Members of Parliament were elected by acclamation;
+* British Columbia: 2 Liberal-Conservatives
+* Manitoba: 1 Conservative
+* Ontario: 2 Conservatives
+* Quebec: 11 Conservatives, 1 Independent Conservative, 4 Liberal-Conservatives, 3 Liberals
+* New Brunswick: 1 Liberal-Conservative, 1 Independent
+* Nova Scotia: 1 Conservative
+
+==Results by province==
+
+{| class="wikitable"
+! align="center" colspan=3|Party name
+! align="center"|[[British Columbia|BC]]
+! align="center"|[[Manitoba|MB]]
+! align="center"|[[Ontario|ON]]
+! align="center"|[[Quebec|QC]]
+! align="center"|[[New Brunswick|NB]]
+! align="center"|[[Nova Scotia|NS]]
+! align="center"|[[Prince Edward Island|PE]]
+! align="center"|Total
+{{Canadian party colour|CA|PC|row}}
+ | rowspan=2|[[Conservative Party of Canada (historical)|Conservative]]
+| Seats:
+| align="right"| 3 <!--BC-->
+| align="right"|   2  <!--Man-->
+| align="right"| 39  <!--Ont-->
+| align="right"| 38 <!--Que-->
+| align="right"| 4<!--NB-->
+| align="right"|  8  <!--NS-->
+| align="right"|  -    <!--PEI-->
+| align="right"|  94<!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| Popular vote (%):
+| align="right"| 38.4 <!--BC-->
+| align="right"| 13.6 <!--Man-->
+| align="right"| 27.0 <!--Ont-->
+| align="right"| 37.7 <!--Que-->
+| align="right"| 25.6 <!--NB-->
+| align="right"| 23.0 <!--NS-->
+| align="right"| 17.1 <!--PEI-->
+| align="right"| 27.8 <!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| rowspan=2 |[[Liberal-Conservative Party|Liberal-Conservative]]
+| Seats:
+| align="right"| 3  <!--BC-->
+| align="right"|  1    <!--Man-->
+| align="right"|  13 <!--Ont-->
+| align="right"|  12  <!--Que-->
+| align="right"| 3 <!--NB-->
+| align="right"|  5    <!--NS-->
+| align="right"|   2  <!--PEI-->
+| align="right"|  39 <!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| Vote (%):
+| align="right"| 15.8 <!--BC-->
+| align="right"| 38.9 <!--Man-->
+| align="right"| 9.1<!--Ont-->
+| align="right"| 10.4 <!--Que-->
+| align="right"|  7.1 <!--NB-->
+| align="right"|  25.8<!--NS-->
+| align="right"|  25.4 <!--PEI-->
+| align="right"|  12.6 <!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| rowspan=2|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| align="right"|  -   <!--BC-->
+| align="right"|  2  <!--Man-->
+| align="right"|    40  <!--Ont-->
+| align="right"|   12 <!--Que-->
+| align="right"|  7 <!--NB-->
+| align="right"|   8 <!--NS-->
+| align="right"|   4 <!--PEI-->
+| align="right"|    73 <!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| Vote (%):
+| align="right"| 10.6  <!--BC-->
+| align="right"| 25.3  <!--Man-->
+| align="right"| 31.9  <!--Ont-->
+| align="right"|  21.5 <!--Que-->
+| align="right"|  36.8 <!--NB-->
+| align="right"| 38.7  <!--NS-->
+| align="right"| 40.7  <!--PEI-->
+| align="right"|   31.1  <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2| Independent
+| Seats:
+| align="right"| &nbsp;     <!--BC-->
+| align="right"| &nbsp;  <!--Man-->
+| align="right"| - <!--Ont-->
+| align="right"| -     <!--Que-->
+| align="right"| 1 <!--NB-->
+| align="right"|  -     <!--NS-->
+| align="right"|  &nbsp; <!--PEI-->
+| align="right"|   1 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote (%):
+| align="right"|  &nbsp;    <!--BC-->
+| align="right"| &nbsp;  <!--Man-->
+| align="right"| 1.7  <!--Ont-->
+| align="right"| 0.8    <!--Que-->
+| align="right"| 0.4 <!--NB-->
+| align="right"| 4.8  <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| 1.6 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2 |Nationalist Conservative
+| Seats:
+| align="right"| &nbsp;  <!--BC-->
+| align="right"|  &nbsp;    <!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"|   1   <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"|  &nbsp;    <!--NS-->
+| align="right"| &nbsp;  <!--PEI-->
+| align="right"|  1  <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote (%):
+| align="right"| &nbsp;  <!--BC-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"|  &nbsp; <!--Ont-->
+| align="right"|   1.0    <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"| &nbsp;   <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|   0.2 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2| Independent Liberal
+| Seats:
+| align="right"| &nbsp;     <!--BC-->
+| align="right"| &nbsp;  <!--Man-->
+| align="right"|  -  <!--Ont-->
+| align="right"| 1    <!--Que-->
+| align="right"| 1     <!--NB-->
+| align="right"|  &nbsp;        <!--NS-->
+| align="right"|  &nbsp;      <!--PEI-->
+| align="right"|   2 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote (%):
+| align="right"|  &nbsp;  <!--BC-->
+| align="right"| &nbsp;      <!--Man-->
+| align="right"| 0.7 <!--Ont-->
+| align="right"| 1.5    <!--Que-->
+| align="right"| 6.2     <!--NB-->
+| align="right"| &nbsp;     <!--NS-->
+| align="right"|  &nbsp;     <!--PEI-->
+| align="right"| 1.1 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2 |Independent Conservative
+| Seats:
+| align="right"| &nbsp;   <!--BC-->
+| align="right"|  &nbsp;  <!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"|  1    <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"| &nbsp;  <!--NS-->
+| align="right"| &nbsp;   <!--PEI-->
+| align="right"| 1 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote (%):
+| align="right"| &nbsp;    <!--BC-->
+| align="right"| &nbsp;  <!--Man-->
+| align="right"| &nbsp;    <!--Ont-->
+| align="right"|  0.9 <!--Que-->
+| align="right"| &nbsp;   <!--NB-->
+| align="right"| &nbsp;    <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| 0.2  <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Unknown
+| Vote (%):
+| align="right"| 35.2   <!--BC-->
+| align="right"| 22.2 <!--Man-->
+| align="right"| 29.6   <!--Ont-->
+| align="right"| 27.1   <!--Que-->
+| align="right"| 23.9 <!--NB-->
+| align="right"| 7.7 <!--NS-->
+| align="right"| 16.8   <!--PEI-->
+| align="right"| 25.4  <!--Canada/Total-->
+|- 
+|colspan=3|'''Total seats'''
+| align="right"|''' 6 ''' <!--BC-->
+| align="right"|''' 5 ''' <!--Man-->
+| align="right"| ''' 92 '''<!--Ont-->
+| align="right"|''' 65 ''' <!--Que-->
+| align="right"|'''  16''' <!--NB-->
+| align="right"|''' 21''' <!--NS-->
+| align="right"| ''' 6 '''<!--PEI-->
+| align="right"| ''' 211  '''<!--Canada/Total-->
+|-
+|}
+
+==See also==
+{{Portal|Canada|Politics}} 
+*[[List of Canadian federal general elections]]
+*[[5th Canadian Parliament]]
+
+==Notes==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+* {{cite report |last1=Pope |first1=Richard |title=Return on the Fifth General Election for the House of Commons of Canada |date=1883 |series=Sessional Papers, Fifth Parliament, First Session |volume=12 |publisher=Queen's Printer |location=Ottawa |url=https://archive.org/details/sessional70124s1883cana/page/n166}}
+
+
+{{election canada}}
+{{John A. Macdonald}}
+
+[[Category:1882 Canadian federal election| ]]
+[[Category:Canadian federal elections by year|1882]]
+[[Category:June 1882 in Canada]]

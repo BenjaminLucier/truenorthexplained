@@ -16,6 +16,9 @@ Prime Ministers are numbered by person, not by term. Someone who leaves office a
 returns keeps their original number, which is why there have been more terms than
 Prime Ministers.
 
+For the elections that put them there, including which produced majority or minority
+governments, see [150 years of federal elections](/elections-history).
+
 ## At a glance
 
 <tn-widget name="prime-ministers" data-part="stats"></tn-widget>
