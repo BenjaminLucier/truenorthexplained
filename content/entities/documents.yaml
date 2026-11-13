@@ -21,12 +21,37 @@
   sections:
     - n: 9
       title: Executive power vested in the King
+    - n: 10
+      title: The Governor General
+      page: /learn/crown/governor-general#the-governor-general
+    - n: 11
+      title: The King's Privy Council for Canada
+      summary: Creates the King's Privy Council for Canada, the body that advises the Crown; cabinet is its active part.
+      page: /learn/elections/cabinet-and-pmo#cabinet
     - n: 17
       title: Parliament is the King, the Senate and the House of Commons
       page: /learn/parliament#three-parts-not-two
+    - n: 29
+      title: Senators retire at 75
+      summary: Senators must retire at 75 (since 1965; before that they sat for life).
+      page: /learn/parliament/senate#who-sits-there
+    - n: 53
+      title: Money bills start in the House of Commons
+      summary: Bills to spend public money or impose a tax must start in the House of Commons.
+      page: /learn/government/the-budget#two-constitutional-rules
+      url: https://laws-lois.justice.gc.ca/eng/const/page-2.html
+    - n: 54
+      title: The royal recommendation
+      summary: The House can't pass a bill to spend public money unless the Governor General has first recommended it, so only the government can propose new spending.
+      page: /learn/government/the-budget#two-constitutional-rules
+      url: https://laws-lois.justice.gc.ca/eng/const/page-2.html
     - n: 55
       title: Royal assent
       page: /learn/crown/reserve-powers
+    - n: 58
+      title: A Lieutenant Governor for each province
+      page: /learn/crown/governor-general#lieutenant-governors
+      url: https://laws-lois.justice.gc.ca/eng/const/page-2.html
     - n: 91
       title: Federal powers
       summary: Parliament's power to make laws for the "Peace, Order, and good Government of Canada", with a list of examples.
@@ -49,6 +74,11 @@
       title: Property and civil rights
       page: /learn/federalism/division-of-powers#key-provincial-powers-section-92
       url: https://laws-lois.justice.gc.ca/eng/const/page-3.html
+    - n: 92(14)
+      title: Administration of justice
+      summary: Provincial power to set up and run courts and handle civil procedure; it's why provinces run most courts, police forces and criminal prosecutions.
+      page: /learn/law/criminal-law#the-constitutional-split
+      url: https://laws-lois.justice.gc.ca/eng/const/page-3.html
     - n: 92A
       title: Natural resources
       summary: Provincial power over natural resources, added in 1982.
@@ -56,6 +86,16 @@
       url: https://laws-lois.justice.gc.ca/eng/const/page-3.html
     - n: 93
       title: Education
+      page: /learn/federalism/division-of-powers#other-sections-that-add-powers
+      url: https://laws-lois.justice.gc.ca/eng/const/page-3.html
+    - n: 94A
+      title: Pensions
+      summary: Parliament may make laws about old age pensions, but a provincial law on the subject prevails.
+      page: /learn/federalism/division-of-powers#other-sections-that-add-powers
+      url: https://laws-lois.justice.gc.ca/eng/const/page-3.html
+    - n: 95
+      title: Agriculture and immigration
+      summary: Both Parliament and the provinces can make laws about agriculture and immigration; federal law prevails in a conflict.
       page: /learn/federalism/division-of-powers#other-sections-that-add-powers
       url: https://laws-lois.justice.gc.ca/eng/const/page-3.html
     - n: 96
@@ -81,6 +121,11 @@
       title: Aboriginal and treaty rights
       summary: Recognizes and affirms the existing Aboriginal and treaty rights of First Nations, Inuit and Métis.
       page: /learn/indigenous/section-35
+    - n: 36
+      title: Equalization and regional disparities
+      summary: Commits Parliament and the government of Canada to the principle of equalization payments (s. 36(2)).
+      page: /learn/federalism/money-and-equalization#equalization
+      url: https://laws-lois.justice.gc.ca/eng/const/page-13.html
     - n: 38
       title: The general amending procedure ("7/50")
       page: /learn/constitution/amending-formula#who-has-to-agree
@@ -105,6 +150,11 @@
       title: Amendments by a province alone
       page: /learn/constitution/amending-formula#who-has-to-agree
       url: https://laws-lois.justice.gc.ca/eng/const/page-13.html
+    - n: 47
+      title: The Senate can only delay amendments
+      summary: If the Senate hasn't passed an amending resolution within 180 days of the House, the House can pass it again and go ahead without the Senate.
+      page: /learn/constitution/amending-formula#the-fine-print-that-makes-750-harder
+      url: https://laws-lois.justice.gc.ca/eng/const/page-13.html
     - n: 52
       title: Supremacy of the Constitution
       page: /learn/constitution
@@ -127,12 +177,62 @@
     - n: 2
       title: Fundamental freedoms
       page: /learn/charter/your-rights#fundamental-freedoms-s-2
+    - n: 3
+      title: The right to vote
+      summary: Every citizen can vote in federal and provincial elections, and can run for a seat in the House of Commons or a provincial legislature.
+      page: /learn/charter/your-rights#democratic-rights-ss-35
+    - n: 4
+      title: At most five years between elections
+      summary: The House of Commons and each provincial legislature can't go more than five years without an election, except in real or feared war, invasion or insurrection.
+      page: /learn/charter/your-rights#democratic-rights-ss-35
+    - n: 6
+      title: Mobility rights
+      page: /learn/charter/your-rights#mobility-rights-s-6
     - n: 7
       title: Life, liberty and security of the person
+      page: /learn/charter/your-rights#legal-rights-ss-714
+    - n: 8
+      title: Unreasonable search or seizure
+      page: /learn/charter/your-rights#legal-rights-ss-714
+    - n: 9
+      title: Arbitrary detention or imprisonment
+      page: /learn/charter/your-rights#legal-rights-ss-714
+    - n: 10
+      title: Rights on arrest or detention
+      page: /learn/charter/your-rights#legal-rights-ss-714
+    - n: 11
+      title: Rights of anyone charged with an offence
+      summary: Rights of anyone charged with an offence, including to be tried within a reasonable time (s. 11(b)) and to be presumed innocent (s. 11(d)).
+      page: /learn/charter/your-rights#legal-rights-ss-714
+    - n: 12
+      title: Cruel and unusual treatment or punishment
       page: /learn/charter/your-rights#legal-rights-ss-714
     - n: 15
       title: Equality rights
       page: /learn/charter/your-rights#equality-rights-s-15
+    - n: 16
+      title: Official languages of Canada and New Brunswick
+      summary: English and French are the official languages of Canada and of New Brunswick, with equal status in their institutions.
+      page: /learn/charter/your-rights#official-languages-ss-1622
+    - n: "16.1"
+      title: New Brunswick's English and French communities
+      summary: The English-speaking and French-speaking communities of New Brunswick have equal status; added in 1993.
+      page: /learn/charter/your-rights#official-languages-ss-1622
+    - n: 23
+      title: Minority language education rights
+      page: /learn/charter/your-rights#minority-language-education-rights-s-23
+    - n: 24
+      title: Remedies
+      summary: Courts can give remedies for breaches of the Charter, and can exclude evidence obtained in breach of it.
+      page: /learn/charter/your-rights#the-rest-of-the-charter
+    - n: 25
+      title: Aboriginal rights not reduced
+      summary: The Charter doesn't reduce Aboriginal, treaty or other rights of Aboriginal peoples, including those recognized by the Royal Proclamation of 1763.
+      page: /learn/charter/your-rights#the-rest-of-the-charter
+    - n: 32
+      title: Application of the Charter
+      summary: The Charter applies to Parliament, the provincial legislatures and governments.
+      page: /learn/charter#who-it-binds-governments-only
     - n: 33
       title: Notwithstanding clause
       summary: Lets Parliament or a provincial legislature declare that a law operates despite s. 2, ss. 7–14 or s. 15.
@@ -150,3 +250,64 @@
   year: 1876
   summary: A federal law first passed in 1876 under s. 91(24) that defines status and governs reserves.
   page: /learn/indigenous/indian-act
+
+- id: supreme-court-act
+  name: Supreme Court Act
+  summary: The federal law that sets the Supreme Court's makeup, including nine judges and at least three from Quebec.
+  page: /learn/law/supreme-court#who-sits-on-it
+  url: https://laws-lois.justice.gc.ca/eng/acts/S-26/FullText.html
+  entities: [org:supreme-court]
+  sections:
+    - n: 5
+      title: Who qualifies to be appointed
+    - n: 6
+      title: At least three judges from Quebec
+      summary: At least three judges must come from Quebec's Court of Appeal, its Superior Court or the Quebec bar.
+
+- id: canada-elections-act
+  name: Canada Elections Act
+  summary: The federal law that governs federal elections, including who can vote and the fixed election date.
+  page: /learn/elections/election-day
+  url: https://laws-lois.justice.gc.ca/eng/acts/E-2.01/
+  entities: [org:elections-canada]
+  sections:
+    - n: "56.1"
+      title: Fixed election date
+      page: /learn/elections/election-day#fixed-election-dates-and-why-they-arent-really-fixed
+
+- id: clarity-act
+  name: Clarity Act
+  year: 2000
+  summary: The federal law Parliament passed in 2000 following the Secession Reference.
+  page: /provinces/quebec#the-constitutional-question
+  url: https://laws-lois.justice.gc.ca/eng/acts/C-31.8/
+  entities: [term:clarity-act, case:secession-reference]
+
+- id: canada-health-act
+  name: Canada Health Act
+  summary: The federal law setting five criteria provincial health insurance must meet to get the full Canada Health Transfer.
+  page: /learn/federalism/money-and-equalization#the-canada-health-transfer-and-the-canada-health-act
+  url: https://laws-lois.justice.gc.ca/eng/acts/C-6/
+  entities: [term:canada-health-act]
+
+- id: undrip-act
+  name: United Nations Declaration on the Rights of Indigenous Peoples Act
+  short: the UN Declaration Act
+  year: 2021
+  summary: The 2021 federal law requiring the government to make federal laws consistent with UNDRIP, prepare an action plan and report every year.
+  page: /learn/indigenous/self-government#undrip-and-the-2021-act
+  entities: [term:undrip]
+
+- id: manitoba-act-1870
+  name: Manitoba Act, 1870
+  short: the Manitoba Act
+  aliases: [Manitoba Act]
+  year: 1870
+  summary: The law that made Manitoba a province, the result of the Red River Resistance; it's part of the Constitution.
+  page: /provinces/manitoba#rights-written-into-the-founding-law
+  entities: [term:manitoba-act-1870]
+  sections:
+    - n: 23
+      title: English and French in Manitoba's legislature, courts and laws
+    - n: 31
+      title: Land for the children of Métis families

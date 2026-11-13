@@ -102,3 +102,81 @@
   short: PBO
   summary: The officer of Parliament who gives MPs and senators independent analysis of the economy and the government's finances.
   page: /learn/government/watchdogs#the-parliamentary-budget-officer
+
+- id: privy-council
+  name: King's Privy Council for Canada
+  short: the Privy Council
+  aliases: [Privy Council]
+  summary: The advisory body created by s. 11 of the 1867 Act; ministers join it for life, and cabinet is its active part.
+  page: /learn/elections/cabinet-and-pmo#cabinet
+  entities: [doc:constitution-act-1867/s11, term:privy-council]
+
+- id: treasury-board
+  name: Treasury Board
+  summary: A cabinet committee, set up by law and supported by its Secretariat (TBS), that acts as the government's management board.
+  page: /learn/government/departments#the-centre-of-government
+  entities: [term:treasury-board]
+
+- id: lieutenant-governor
+  name: Lieutenant Governor
+  summary: The King's representative in a province, appointed by the Governor General on the federal government's advice.
+  page: /learn/crown/governor-general#lieutenant-governors
+  entities: [doc:constitution-act-1867/s58, term:lieutenant-governor]
+
+- id: judicial-committee-of-the-privy-council
+  name: Judicial Committee of the Privy Council
+  summary: A court in London that was Canada's final court of appeal until 1949; criminal appeals to it ended in 1933.
+  page: /learn/law/supreme-court#a-short-history
+  entities: [term:judicial-committee-of-the-privy-council]
+
+- id: federal-court
+  name: Federal Court
+  summary: A court created by Parliament for areas it assigns, such as immigration and refugee decisions and reviews of federal tribunals.
+  page: /learn/law/courts#the-federal-courts
+  entities: [term:federal-court]
+
+- id: canadian-judicial-council
+  name: Canadian Judicial Council
+  summary: A body of the chief justices and associate chief justices of the federally appointed courts that investigates complaints about federally appointed judges.
+  page: /learn/law/judges#retirement-and-removal
+  entities: [term:canadian-judicial-council]
+
+- id: national-assembly
+  name: National Assembly of Quebec
+  short: the National Assembly
+  aliases: [National Assembly]
+  summary: Quebec's legislature, the only one in Canada with that name; it was called the Legislative Assembly until 1968.
+  page: /provinces/quebec#how-its-governed
+  entities: [term:national-assembly]
+
+- id: council-of-the-federation
+  name: Council of the Federation
+  summary: The body through which the premiers meet on their own, created in 2003.
+  page: /learn/federalism#cooperation-in-practice
+  entities: [term:council-of-the-federation]
+
+- id: truth-and-reconciliation-commission
+  name: Truth and Reconciliation Commission
+  short: TRC
+  summary: The commission, created in 2008, that documented the history of residential schools and in 2015 issued 94 Calls to Action.
+  page: /learn/indigenous/indian-act#residential-schools-briefly
+  entities: [term:truth-and-reconciliation-commission]
+
+- id: rcmp
+  name: Royal Canadian Mounted Police
+  short: RCMP
+  summary: The federal police force, which most provinces other than Ontario and Quebec, and all three territories, pay to act as their provincial police.
+  page: /learn/law/criminal-law#who-does-what-step-by-step
+  entities: [term:rcmp]
+
+- id: commissioner-of-official-languages
+  name: Commissioner of Official Languages
+  summary: The federal officer of Parliament who oversees compliance with the Official Languages Act.
+  page: /learn/government/watchdogs#the-nine-officers
+  entities: [term:commissioner-of-official-languages]
+
+- id: ethics-commissioner
+  name: Conflict of Interest and Ethics Commissioner
+  summary: The officer of Parliament who administers the Conflict of Interest Act for ministers and senior appointees and the Conflict of Interest Code for MPs.
+  page: /learn/government/watchdogs#ethics
+  entities: [term:conflict-of-interest-and-ethics-commissioner]
