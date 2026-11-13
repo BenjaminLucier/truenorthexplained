@@ -1,0 +1,2442 @@
+{{Short description|none}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 1867 Canadian federal election
+| country = Canada
+| flag_year = 1867-official
+| type = parliamentary
+| vote_type = Popular <!-- default -->
+| ongoing = no
+| party_colour = no
+| party_name = no
+| election_date = {{start and end dates|1867|08|07|1867|09|20}}
+| elected_members = 1st Canadian Parliament#Members of Parliament
+| next_election = 1872 Canadian federal election
+| next_year = 1872
+| seats_for_election = 180 seats in the [[House of Commons of Canada|House of Commons]]
+| majority_seats = 91
+| opinion_polls = 
+| registered = 361,028<ref name="elcan">{{Cite web |url=https://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e |title=Voter Turnout at Federal Elections and Referendums |website=Elections Canada |url-status=live |archive-url=https://web.archive.org/web/20191023032844/https://www.elections.ca/content.aspx?dir=turn&document=index&lang=e&section=ele |archive-date=2019-10-23 |access-date=2019-11-10}}</ref>
+| turnout = 74.3%{{efn|[[Elections Canada]] reported a 73.1% voter turnout.<ref name="elcan" />}}
+| image_upright = <!--        John A. Macdonald        -->
+| image1 = {{CSS image crop
+| Image   = John A. Macdonald CU1114535.jpg
+| bSize   = 300
+| cWidth  = 150
+| cHeight = 200
+| oTop    = 56
+| oLeft   = 37 }}
+| colour1 = {{Canadian party colour|CA|Conservative (historical)|nohash}}
+| leader1 = [[John A. Macdonald]]
+| party1 = {{Canadian party colour|CA|Conservative (historical)|name}} & {{Canadian party colour|CA|Liberal-Conservative|name}}
+| leaders_seat1 = [[Kingston (federal electoral district)|Kingston]]
+| seats1 = '''100'''{{efn|name=LIBCON}}
+| popular_vote1 = '''93,909'''
+| percentage1 = '''35.0%'''
+
+<!--        George Brown        -->| image2 = {{CSS image crop
+| Image   = George Brown.jpg
+| bSize   = 250
+| cWidth  = 150
+| cHeight = 200
+| oTop    = 50
+| oLeft   = 45 }}
+| colour2 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader2 = [[George Brown (Canadian politician)|George Brown]] ''(unofficial)''
+| party2 = {{Canadian party colour|CA|Liberal|name}}
+| leaders_seat2 = ''Ran in [[Ontario South]] (lost)''
+| seats2 = 62
+| popular_vote2 = 60,818
+| percentage2 = 22.7%
+
+<!--        Joseph Howe        -->| image3 = {{CSS image crop
+| Image   = Joehowe.JPG
+| bSize   = 180
+| cWidth  = 150
+| cHeight = 200
+| oTop    = 0
+| oLeft   = 5
+}}
+| colour3 = {{Canadian party colour|CA|Anti-Confederation|nohash}}
+| leader3 = [[Joseph Howe]]
+| party3 = {{Canadian party colour|CA|Anti-Confederation|name}}
+| leaders_seat3 = [[Hants (electoral district)|Hants]]
+| seats3 = 18
+| popular_vote3 = 21,239
+| percentage3 = 7.9%
+
+<!-- map -->| map_image = 1867 Canadian General Election.svg
+| map_size = 470px
+| map_alt = 
+| map_caption = Popular vote by electoral riding. (Because seats are awarded by the popular vote in each riding, the provincial popular vote does not necessarily translate to more seats.)
+
+<!-- bottom -->| title = Prime Minister
+| before_election = [[John A. Macdonald]]
+| before_party = [[Conservative Party of Canada (historical)|Conservative]]
+| posttitle = Prime Minister after election
+| after_election = [[John A. Macdonald]]
+| after_party = [[Conservative Party of Canada (historical)|Conservative]]
+| leader_since1 = July 1, 1867
+| leader_since2 = 1867
+| leader_since3 = 1867
+}}
+{{Canadian Confederation sidebar}}
+
+The '''1867 Canadian federal election''' was held from August 7 to September 20, 1867, and was the first federal election in [[Canada]] following post-Confederation. It was held to elect [[Member of Parliament (Canada)|members]] representing [[Electoral district (Canada)|electoral districts]] in the provinces of [[Nova Scotia]], [[New Brunswick]], [[Ontario]] and [[Quebec]] to the [[House of Commons of Canada|House of Commons]] of the [[1st Canadian Parliament]].  The provinces of [[Manitoba]] (1870) and [[British Columbia]] (1871) were created during the term of the 1st Parliament of Canada and were not part of this election.
+
+Sir [[John A. Macdonald]] had been sworn in as prime minister by the Governor General, [[Charles Monck, 4th Viscount Monck|Lord Monck]], when the new Canadian nation was founded on 1 July 1867. As leader of the [[Conservative Party of Canada (historical)|Conservative Party of Canada]] (known as the [[Liberal-Conservative Party]] until 1873), he led his party in this election and continued as [[Prime Minister of Canada]] when the Conservatives won a majority of the seats in the election, including majorities of the seats (and votes) in the new provinces of Ontario and Quebec.
+
+The [[Liberal Party of Canada]] won the second most seats overall, including a majority of the seats (and votes) in the province of New Brunswick.  The Liberals did not have a party leader in the election.  [[George Brown (Canadian politician)|George Brown]], who was the leader of the [[Liberal Party of Ontario]], was considered the "elder statesman" of the national party. Brown ran concurrently for seats in the [[Legislative Assembly of Ontario]] and the House of Commons of Canada, and might well have been Prime Minister in the unlikely event that the Liberals prevailed over the Conservatives in the national election. Brown failed to win a seat in either body, and the national Liberals remained officially leaderless until 1873.
+
+The [[Anti-Confederation Party]], led by [[Joseph Howe]], won the third most seats overall, based solely on a majority of seats (and votes) in the province of Nova Scotia. Their main desire was the reversal of the decision to join Confederation, which was unpopular in that province.  The goals of the Anti-Confederation [[Members of Parliament]] (MPs) were openly supported by five of the Liberal MPs of New Brunswick.  The Anti-Confederation MPs sat with the Liberal caucus.  The government in [[United Kingdom of Great Britain and Ireland|Britain]] refused to allow Nova Scotia to secede. After that, most of the Anti-Confederation MPs ([[1st Canadian parliament#Nova Scotia|11 of 18]]) moved to the majority Conservatives.
+
+== Election rules ==
+The first Canadian election took place without a uniform set of election laws to govern the election of members to the House of Commons,{{sfn|LeDuc|Pammett|McKenzie|Turcotte|2010|p=63}} an interim measure until Parliament could pass its own election laws, which did not come until 1885.{{sfn|Elections Canada|2021|p=58}} Instead, the election was contested under the rules set by each individual province prior to Confederation, and future elections were to be contested under provincial rules until a time when federal parliament set their own rules. Because of this, [[Suffrage|rules governing having the right to voting]] were inconsistent, as was the method of casting a ballot.{{sfn|LeDuc|Pammett|McKenzie|Turcotte|2010|p=63}}
+
+The BNA Act did stipulate that in the district of Algoma any male British subject of 21 years of age or older, "being a householder," would have the right to vote.
+
+The election took place over a six-week period from August 7 to September 20, with electoral district polls closing at different dates throughout the period.{{sfn|Elections Canada|2021|p=61}} Under the system each electoral district was required to be polled in one day, but the day did not have to be the same across all electoral districts. The exception to the extended polling period (often called "polling circuits") being Nova Scotia which abolished the practice of polling different districts on different days after excessive violence was reported in the 1843 election.{{sfn|Garner|1969|p=28}}
+
+The election in [[Kamouraska (federal electoral district)|Kamouraska]], Quebec was delayed due to rioting.
+
+Halifax was a two-member riding at the time of the election. The City of Saint John and the County of Saint John was represented by just one district.
+
+=== Franchise ===
+The basic general requirement to vote across provinces was the requirement to be a male [[British subject]] 21 years of age or older. Voting was conducted in Ontario, Quebec and Nova Scotia through [[Open ballot system|oral vote]] which required an eligible elector to declare their choice.{{sfn|Elections Canada|2021|p=61}} New Brunswick had adopted a form of [[secret ballot]] in 1855,{{sfn|Elections Canada|2021|p=61}} where electors write the name of a candidate on a piece of paper and deposit the vote in a ballot box.{{sfn|LeDuc|Pammett|McKenzie|Turcotte|2010|p=63}}
+
+In all provinces, women and government employees including civil servants, judges, police and prosecutors were not permitted to vote.{{sfn|LeDuc|Pammett|McKenzie|Turcotte|2010|p=63}} [[Indigenous peoples in Canada|Indigenous]] individuals who met property criteria were excluded from voting eligibility in most provinces if they received a benefit paid by the government.{{sfn|LeDuc|Pammett|McKenzie|Turcotte|2010|p=63}}
+
+The Ontario elections laws were updated in 1866, with electors required to meet a [[property qualification]] of being an owner or tenant with a property value listed on the assessment roll of $600 in a city, $400 in a town, $300 in an incorporated village, and $100 in a township or police village.{{sfn|Garner|1969|p=116}}<ref>{{Cite canlaw|short title  =An Act Respecting Municipal Institutions of Upper Canada |abbr =|year =1866|chapter =LI|section =81|subsection =|part =|division =|subdivision =|schedule =|link =https://www.canadiana.ca/view/oocihm.9_00925_16/172 |linkloc =|wikilink =|type =|amended1 =|amended2=|amended3 =|amended4 =|amended5 =|regtitle =|regnumber =}}</ref>{{sfn|LeDuc|Pammett|McKenzie|Turcotte|2010|p=63}}{{efn|The value of property required to be eligible to vote for a member of parliament is listed as $200 in an urban area and $100 in a rural area by Elections Canada ''A History of the Vote in Canada'', however that number provided in the publication is a general amount for the period from 1867 to 1885 before federal law was passed governing franchise.{{sfn|Elections Canada|2021|p=67}}}} Furthermore, urban residents must prove an annual income of at least $250.{{sfn|Elections Canada|2021|p=67}} An estimated 16.5 per cent of the population of Ontario was enfranchised for the 1867 election.{{sfn|LeDuc|Pammett|McKenzie|Turcotte|2010|p=63}} In Quebec, the property qualification for being an owner was $300 in urban areas and $200 in rural areas, and a tenant required a rent of $30 in an urban area or $20 in a rural area.{{sfn|Elections Canada|2021|p=67}}{{sfn|Garner|1969|p=114}} Nova Scotia's election laws were passed in 1863, and had a property qualification for owners or tenants of $150, and enfranchised persons with $300 of personal property.{{sfn|Garner|1969|p=35}}{{sfn|Elections Canada|2021|p=67}}<ref>{{Cite canlaw|short title  =An Act to Regulate the Election of Members to Serve in the General Assembly |abbr =|year =1863|chapter =28|section =|subsection =|part =|division =|subdivision =|schedule =|link =https://www.canadiana.ca/view/oocihm.9_00925_16/172 |linkloc =|wikilink =|type =|amended1 =|amended2=|amended3 =|amended4 =|amended5 =|regtitle =|regnumber =}}</ref> while New Brunswick had a property qualification for owners of $100 and an annual income of $400, but also gave the vote to anyone who owned real or personal property with a total value of $400 or more.{{sfn|Elections Canada|2021|p=67}}{{sfn|Garner|1969|p=71}}
+
+=== Electoral system, Representation by population ===
+
+The number of members in each province in Confederation was set by the ''[[Constitution Act, 1867]]'' on the principle of representation by population.{{sfn|Elections Canada|2021|p=78}} The Act provided Quebec a minimum of 65 seats, and seat allotment for the remainder of the country was based by dividing the population of Quebec by 65 and then using it as a base to determine the number of seats for each of the other provinces.{{sfn|Elections Canada|2021|p=79}} The Act also specified that redistribution and boundary reviews should occur after each 10 year census.{{sfn|Elections Canada|2021|p=79}}<ref>BNA Act, 1867  https://www.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t11.html</ref>
+
+Thus there were 181 MPs in the first House of Commons – 82 from Ontario, 65 from Quebec, 19 from Nova Scotia, and 15 from New Brunswick. Each was elected in a [[Electoral district (Canada)|single-member district]], except there were two elected in [[Halifax (federal electoral district)|the Halifax riding]].<ref>The BNA Act https://www.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t11.html</ref> Each voter could cast one vote as under first past the post, except Halifax voters who cast up to two votes ([[Plurality block voting]]).<ref>Parliamentary Guide 1969, p. 333-334</ref>
+
+== Results ==
+[[File:Canadian Parliament Layout 1867.svg|500px]]
+
+{| class="wikitable"
+|colspan=7|[[File:Canada_House of Commons_1867.svg|center|300px]]
+|-
+!rowspan=2 colspan=2|Party
+!rowspan=2|Party leader
+!rowspan=2|# of<br />candidates
+!rowspan=2|Elected
+!colspan=2|Popular vote
+|-
+!#
+!%
+{{Canadian party colour|CA|PC|row}}
+|[[Conservative Party of Canada (historical)|Conservative]]
+|rowspan=2|Sir [[John A. Macdonald]]
+|align="right"|83
+|align="right"|'''71'''
+|align="right"|64,179
+|align="right"|23.92%
+{{Canadian party colour|CA|PC|row}}
+|[[Liberal-Conservative Party|Liberal-Conservative]]{{efn|name=LIBCON|Though [[Liberal-Conservative Party|Liberal-Conservatives]] were identifying themselves as such, these MPs (29 MPs) and those identifying as Conservatives (71 MPs) were both led by Sir John A. Macdonald (himself a Liberal-Conservative) and sat together in the House of Commons forming a 100 MPs majority.}}
+|align="right"|32
+|align="right"|'''29'''
+|align="right"|29,730
+|align="right"|11.08%
+{{Canadian party colour|CA|Liberal|row}}
+|[[Liberal Party of Canada|Liberal]]
+|none (unofficially, [[George Brown (Canadian politician)|George Brown]])
+|align="right"|66
+|align="right"|'''62'''
+|align="right"|60,818
+|align="right"|22.67%
+{{Canadian party colour|CA|Anti-Confederation|row}}
+|[[Anti-Confederation Party|Anti-Confederation]]{{efn|Anti-Confederates sat with the Liberal Party in the House of Commons.}}
+|[[Joseph Howe]]
+|align="right"|20
+|align="right"|'''18'''
+|align="right"|21,239
+|align="right"|7.92%
+{{Canadian party colour|CA|Independent|row}}
+|colspan=2|Independents
+|align="right"|1
+|align="right"|-
+|align="right"|1,756
+|align="right"|0.65%
+{{Canadian party colour|CA|Independent|row}}
+|colspan=2|Independent Liberal
+|align="right"|1
+|align="right"|-
+|align="right"|1,048
+|align="right"|0.39%
+{{Canadian party colour|CA|Independent|row}}
+|colspan=2|Unknown
+|align="right"|140
+|align="right"|-
+|align="right"|89,547
+|align="right"|33.37%
+|-
+| 
+|colspan=2|Vacant – 1
+|align="right"|&ndash;
+|align="right"|0
+|align=center|&ndash;
+|align=center|&ndash;
+|-
+| colspan=3|'''Total'''
+|align="right"|'''343'''
+|align="right"|'''180'''
+|align="right"|'''268,317'''
+|align="right"|'''100%'''
+|-
+|-
+| align="center" colspan=10|'''Source:'''  <ref>{{Cite web |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/ElectionsRidings/Elections/Profile?election=1867-08-07 |title=Profile – 1867-08-07 |website=Parlinfo |url-status=live |archive-url=https://web.archive.org/web/20191110201822/https://lop.parl.ca/sites/ParlInfo/default/en_CA/ElectionsRidings/Elections/Profile?election=1867-08-07 |archive-date=2019-11-10 |access-date=2019-11-10}}</ref>
+|-
+|}
+
+'''Acclamations'''
+
+The following MPs were acclaimed:
+*Ontario: 3 Conservative, 3 Liberal-Conservatives, 9 Liberals
+*Quebec: 14 Conservatives, 5 Liberal-Conservatives, 4 Liberals
+*New Brunswick: 1 Conservative, 3 Liberals
+*Nova Scotia: 4 Anti-Confederates
+
+'''Vacancy'''
+
+The election in [[Kamouraska (federal electoral district)|Kamouraska]], Quebec, was cancelled due to rioting at the polling places.  No member was elected for the riding until a by-election in 1869.<ref>[https://lop.parl.ca/About/Parliament/FederalRidingsHistory/hfer.asp?Language=E&Search=Det&Include=Y&rid=323 Library of Parliament – History of Federal Ridings since 1867:  Kamouraska.]</ref>
+
+=== Results by province ===
+
+{| class="wikitable"
+|-
+! align="center" colspan=3|Party name
+! [[Ontario]]
+! [[Quebec]]
+! [[New Brunswick|&nbsp;NB&nbsp;]]
+! [[Nova Scotia|&nbsp;NS&nbsp;]]
+! Total
+{{Canadian party colour|CA|PC|row}}
+| rowspan=2| [[Conservative Party of Canada (historical)|Conservative]] 
+|Seats
+| align="right"|33
+| align="right"|36
+| align="right"|1
+| align="right"|1
+| align="right"|71
+{{Canadian party colour|CA|PC|row}}
+| Vote
+| align="right"|26.2%
+| align="right"|28.5%
+| align="right"| &nbsp;
+| align="right"|13.8%
+| align="right"|23.2%
+{{Canadian party colour|CA|PC|row}}
+| rowspan=2| [[Liberal-Conservative Party|Liberal-Conservative]] 
+|Seats
+| align="right"|16
+| align="right"|11
+| align="right"|2
+| align="right"|-
+| align="right"|29
+{{Canadian party colour|CA|PC|row}}
+| Vote
+| align="right"|12.5%
+| align="right"|12.3%
+| align="right"|11.1%
+| align="right"|3.5%
+| align="right"|11.1%
+{{Canadian party colour|CA|Liberal|row}}
+| rowspan=2| [[Liberal Party of Canada|Liberal]] 
+|Seats
+| align="right"|33
+| align="right"|17
+| align="right"|12
+| align="right"|&nbsp;
+| align="right"|62
+{{Canadian party colour|CA|Liberal|row}}
+| Vote
+| align="right"|23.7%
+| align="right"|25.2%
+| align="right"|49.5%
+| align="right"|&nbsp;
+| align="right"|22.7%
+{{Canadian party colour|CA|Anti-Confederation|row}}
+| rowspan=2|[[Anti-Confederation Party|Anti-Confederation]]
+|Seats
+| align="right"|&nbsp;
+| align="right"|&nbsp;
+| align="right"|&nbsp;
+| align="right"|18
+| align="right"|18
+{{Canadian party colour|CA|Anti-Confederation|row}}
+| Vote
+| align="right"|&nbsp;
+| align="right"|&nbsp;
+| align="right"|&nbsp;
+| align="right"|58.2%
+| align="right"|7.9%
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2| Unknown 
+|Seats
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|-
+{{Canadian party colour|CA|Independent|row}}
+| Vote
+| align="right"|35.6%
+| align="right"|34.1%
+| align="right"|39.3%
+| align="right"|23.06%
+| align="right"|34%
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2| Independent 
+|Seats
+| align="right"|-
+| align="right"|&nbsp;
+| align="right"|&nbsp;
+| align="right"|&nbsp;
+| align="right"|-
+{{Canadian party colour|CA|Independent|row}}
+| Vote
+| align="right"|1.3%
+| align="right"|&nbsp;
+| align="right"|&nbsp;
+| align="right"|&nbsp;
+| align="right"|0.7%
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2| Independent Liberal 
+|Seats
+| align="right"|-
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| align="right"|-
+{{Canadian party colour|CA|Independent|row}}
+| Vote
+| align="right"|0.7%
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| align="right"|0.4%
+|-
+! colspan=3|Total seats
+! 82
+! 64
+! 15
+! 19
+! 180
+|}
+
+===By district===
+====Nova Scotia====
+=====Western Nova Scotia=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background-color:whitesmoke" |[[Annapolis (federal electoral district)|Annapolis]]
+|{{Canadian party colour|CA|Anti-Confederation|background}}|
+|[[William Hallett Ray]] (A Conf)<br> 1,171
+| 
+|[[Avard Longley]] (Cons.) <br> 1,016
+|
+|
+| 
+| [[William Hallett Ray]], [[Avard Longley]] & [[George Whitman (politician)|George Whitman]]
+|-
+| style="background-color:whitesmoke" |[[Colchester (federal electoral district)|Colchester]]
+|{{Canadian party colour|CA|Anti-Confederation|background}}|
+|[[Archibald McLelan]] (A Conf.) <br> 1,649
+|
+|[[Adams George Archibald]] (Lib.-Cons.) <br> 1,289
+|
+|
+| 
+|[[Archibald McLelan]], William Blackwood, [[Adams George Archibald]] & [[Francis R. Parker]]
+|-
+| style="background-color:whitesmoke" |[[Cumberland (federal electoral district)|Cumberland]]
+|{{Canadian party colour|CA|Conservative (historical)|background}}|
+|[[Charles Tupper]] (Cons.) <br> 1,368
+|
+|[[William Annand]] (A Conf.) <br> 1,271
+|
+|
+| 
+| [[Charles Tupper]], [[Alexander Macfarlane (politician)|Alexander Macfarlane]] & Robert Donkin 
+|-
+| style="background-color:whitesmoke" |[[Digby (electoral district)|Digby]]
+|{{Canadian party colour|CA|Anti-Confederation|background}}|
+|[[Alfred William Savary]] (A Conf)<br> 792
+| 
+|[[John Chipman Wade]] (Cons)<br> 497  
+|
+|William Mehan <br> 362
+| 
+| [[John Chipman Wade]], [[Mathurin Robicheau]], [[Colin Campbell (Nova Scotia politician)|Colin Campbell]] 
+|-
+| style="background-color:whitesmoke" |[[Halifax (electoral district)|Halifax]]
+|{{Canadian party colour|CA|Anti-Confederation|background}}|
+|[[Alfred Gilpin Jones]] (A Conf)<br> 2,381 <br> [[Patrick Power (Canadian politician)|Patrick Power]] (A Conf) <br> 2,367 
+| 
+|[[John Tobin (Nova Scotia politician)|John Tobin]] <br> 2,158 <br> [[Samuel Leonard Shannon]] <br> 2,154
+|
+|
+| 
+|[[John Tobin (Nova Scotia politician)|John Tobin]], [[Samuel Leonard Shannon]], [[Henry Pryor]], [[William Annand]] & [[Henry Balcom]]
+|-
+| style="background-color:whitesmoke" |[[Hants (electoral district)|Hants]]
+|{{Canadian party colour|CA|Anti-Confederation|background}}|
+|[[Joseph Howe]] (A Conf)<br> 1,530
+| 
+|James W. King <br> 956 
+|
+|
+| 
+| [[Ezra Churchill]], [[William Dawson Lawrence]], James W. King & Lewis W. Hill 
+|-
+| style="background-color:whitesmoke" |[[Kings (Nova Scotia federal electoral district)|Kings]]
+|{{Canadian party colour|CA|Anti-Confederation|background}}|
+|[[William Henry Chipman]] (A Conf.) <br> 1,472
+|
+|J. N. Coleman <br> 659
+|
+|
+| 
+|Charles C. Hamilton, [[Caleb Rand Bill]], [[Daniel Charles Moore]] & [[Edward L. Brown]] 
+|-
+| style="background-color:whitesmoke" |[[Lunenburg (federal electoral district)|Lunenburg]]
+|{{Canadian party colour|CA|Anti-Confederation|background}}|
+|[[Edmund Mortimer McDonald]] (A Conf)<br> 1,557
+| 
+|[[Henry Kaulback]] <br> 905
+|
+|
+| 
+| [[Henry S. Jost]], [[Henry Kaulback]] & [[Abraham Hebb]]
+|-
+| style="background-color:whitesmoke" |[[Queens (Nova Scotia federal electoral district)|Queens]]
+|{{Canadian party colour|CA|Anti-Confederation|background}}|
+|[[James F. Forbes]] (A Conf)<br> 844
+| 
+|John Campbell <br> 271 
+|
+|
+| 
+| John Campbell, [[Andrew Cowie]] & Charles Allison
+|-
+| style="background-color:whitesmoke" |[[Shelburne (federal electoral district)|Shelburne]]
+|{{Canadian party colour|CA|Anti-Confederation|background}}|
+|[[Thomas Coffin (Nova Scotia politician)|Thomas Coffin]] (A Conf)<br> Accl.
+| 
+|
+|
+|
+| 
+| [[Thomas Coffin (Nova Scotia politician)|Thomas Coffin]], [[John Locke (Canadian politician)|John Locke]] & [[Robert Robertson (Nova Scotia politician)|Robert Robertson]] 
+|-
+| style="background-color:whitesmoke" |[[Yarmouth (electoral district)|Yarmouth]]
+|{{Canadian party colour|CA|Anti-Confederation|background}}|
+|[[Thomas Killam]] (A Conf)<br> 1,225
+| 
+|[[George Stayley Brown]] <br> 666 
+|
+|
+| 
+| [[Thomas Killam]], [[George Stayley Brown]] & [[Isaac Hatfield]]
+|}
+
+=====Eastern Nova Scotia=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Antigonish (federal electoral district)|Antigonish]]
+|{{Canadian party colour|CA|Anti-Confederation|background}}|
+|[[Hugh McDonald (politician, born 1827)|Hugh McDonald]] (A Conf)<br> 1,238
+| 
+|[[William Alexander Henry]] (Cons.) <br> 390
+|
+|
+| 
+| [[William Alexander Henry]] & [[John McKinnon (Nova Scotia politician, born 1808)|John McKinnon]]
+|-
+| style="background:whitesmoke;"|[[Cape Breton (federal electoral district)|Cape Breton]]
+|{{Canadian party colour|CA|Anti-Confederation|background}}|
+|[[James McKeagney]] (A Conf.) <br> Accl.
+|
+|
+|
+|
+| 
+| Thomas Caldwell & [[John George Bourinot (elder)|John George Bourinot]]
+|-
+| style="background:whitesmoke;"|[[Guysborough (electoral district)|Guysborough]]
+|{{Canadian party colour|CA|Anti-Confederation|background}}|
+|[[Stewart Campbell (politician)|Stewart Campbell]] (A Conf.) <br> Accl.
+|
+|
+|
+|
+| 
+| [[William O. Heffernan]] & [[Stewart Campbell (politician)|Stewart Campbell]]
+|-
+| style="background:whitesmoke;"|[[Inverness (federal electoral district)|Inverness]]
+|{{Canadian party colour|CA|Anti-Confederation|background}}|
+|[[Hugh Cameron (politician)|Hugh Cameron]] (A Conf)<br> 1,186
+| 
+|[[Samuel McDonnell]] (Cons.) <br> 601
+|
+|
+| 
+| [[Hiram Blanchard]], [[Peter Smyth]] & [[Samuel McDonnell]]
+|-
+| style="background:whitesmoke;"|[[Pictou (federal electoral district)|Pictou]]
+|{{Canadian party colour|CA|Anti-Confederation|background}}|
+|[[James William Carmichael]] (A Conf)<br> 2,011
+| 
+|[[James McDonald (Canadian politician)|James McDonald]] (Cons.) <br> 1,653
+|
+|
+| 
+| James Fraser, [[James McDonald (Canadian politician)|James McDonald]], Donald Fraser & [[Alexander MacKay (politician)|Alexander MacKay]] 
+|-
+| style="background:whitesmoke;"|[[Richmond (Nova Scotia federal electoral district)|Richmond]]
+|{{Canadian party colour|CA|Anti-Confederation|background}}|
+|[[William Joseph Croke]] (A Conf)<br> 545
+| 
+|Donovan <br> 279 
+|
+|
+| 
+| [[Isaac LeVesconte]] & [[William Miller (Canadian politician)|William Miller]]
+|-
+| style="background:whitesmoke;"|[[Victoria (Nova Scotia electoral district)|Victoria]]
+|{{Canadian party colour|CA|Anti-Confederation|background}}|
+|[[William Ross (Canadian politician)|William Ross]] (A Conf.) <br> Accl.
+|
+|
+|
+|
+| 
+| [[William Ross (Canadian politician)|William Ross]] & [[Charles James Campbell]] 
+|}
+
+====New Brunswick====
+=====Northern New Brunswick=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Gloucester (electoral district)|Gloucester]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Timothy Anglin]] (Lib)<br> 1,061
+| 
+|[[John Meahan]] <br> 671
+|
+|
+| 
+| [[Robert Young (Canadian politician)|Robert Young]] & [[John Meahan]] 
+|-
+| style="background:whitesmoke;"|[[Kent (New Brunswick electoral district)|Kent]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Auguste Renaud]] (Lib)<br> 876
+| 
+|[[Lestock P. W. DesBrisay]] <br> 757
+|
+|[[Owen McInerney]]<br>485<br>[[Robert Barry Cutler]]<br>4
+| 
+| [[William Shand Caie]] & [[Owen McInerney]]
+|-
+| style="background:whitesmoke;"|[[Northumberland (New Brunswick federal electoral district)|Northumberland]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[John Mercer Johnson]] (Lib)<br> 1,226
+| 
+|[[Thomas F. Gillespie]] <br> 757
+|
+|
+| 
+|[[John Mercer Johnson]], Edward Williston, [[Richard Sutton (Canadian politician)|Richard Sutton]], [[George Kerr (New Brunswick politician)|George Kerr]]
+|-
+| style="background:whitesmoke;"|[[Restigouche (electoral district)|Restigouche]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[John McMillan (New Brunswick politician)|John McMillan]] (Lib)<br> 370
+| 
+|[[John Phillips (Canadian politician)|John Phillips]] <br> 259
+|
+|
+| 
+|[[John McMillan (New Brunswick politician)|John McMillan]] & [[Alexander Campbell DesBrisay (politician)|Alexander C. DesBrisay]]
+|-
+| style="background:whitesmoke;"|[[Victoria (New Brunswick electoral district)|Victoria]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Costigan]] (Lib-Cons)<br> 778
+| 
+|[[William Blackwood Beveridge]] <br> 549
+|
+|James Workman <br> 16 <br /> James Tibbetts <br /> 0 
+| 
+|[[Benjamin Beveridge]] & [[Vital Hébert]]
+|}
+
+=====Southern New Brunswick=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Albert (federal electoral district)|Albert]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[John Wallace (Canadian politician)|John Wallace]] (Lib)<br> 778
+| 
+|Henry J. Stevens <br> 714
+|
+|
+| 
+| [[Abner Reid McClelan]] & [[John Lewis (New Brunswick politician)|John Lewis]]
+|-
+| style="background:whitesmoke;"|[[Carleton (New Brunswick federal electoral district)|Carleton]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Charles Connell]] (Lib)<br> ''acclaimed''
+| 
+|
+|
+|
+| 
+| [[Charles Connell]] & [[William Lindsay (Canadian politician)|William Lindsay]]
+|-
+| style="background:whitesmoke;"|[[Charlotte (electoral district)|Charlotte]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[John Bolton (Canadian politician)|John Bolton]] (Lib)<br> 1,214
+| 
+|Robert Thompson <br> 918
+|
+|
+| 
+| [[John McAdam (politician)|John McAdam]], [[James G. Stevens]], Francis Hibbard, [[James Watson Chandler]]
+|-
+| style="background:whitesmoke;"|[[City and County of St. John]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Hamilton Gray (New Brunswick politician)|John Hamilton Gray]] (Cons)<br> ''acclaimed''
+| 
+|
+|
+|
+| 
+| [[Charles Nelson Skinner]], [[John Hamilton Gray (New Brunswick politician)|John Hamilton Gray]], [[Robert Duncan Wilmot]], [[James Quinton (politician)|James Quinton]]
+|-
+| style="background:whitesmoke;"|[[City of St. John]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Samuel Leonard Tilley]] (Lib-Cons)<br> 1,402
+| 
+|John Wilson <br> 610
+|
+|
+| 
+|[[Samuel Leonard Tilley]] & [[Andrew Rainsford Wetmore]]
+|-
+| style="background:whitesmoke;"|[[King's (New Brunswick electoral district)|King's]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[George Ryan (Canadian politician)|George Ryan]] (Lib)<br> 1,303
+| 
+|[[George Otty]] <br> 1,083
+|
+|
+| 
+| [[George Ryan (Canadian politician)|George Ryan]], [[William P. Flewelling]], John Flewelling 
+|-
+| style="background:whitesmoke;"|[[Queen's (New Brunswick electoral district)|Queen's]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[John Ferris (New Brunswick politician)|John Ferris]] (Lib)<br> ''acclaimed''
+| 
+|
+|
+|
+| 
+| [[John Ferris (New Brunswick politician)|John Ferris]], [[Robert Thorne Babbit]]
+|-
+| style="background:whitesmoke;"|[[Sunbury (federal electoral district)|Sunbury]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Charles Burpee]] (Lib)<br> 664
+| 
+|[[William E. Perley]] <br> 425 
+|
+|
+| 
+| [[John Glasier]] & [[William E. Perley]]
+|-
+| style="background:whitesmoke;"|[[Westmorland (federal electoral district)|Westmorland]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Albert James Smith]] (Lib)<br> 2,207
+| 
+|[[Israël Landry]] <br> 454
+|
+|
+| 
+| [[Albert James Smith]], [[Bliss Botsford]], [[Angus McQueen]], [[Amand Landry]]
+|-
+| style="background:whitesmoke;"|[[York (electoral district)|York]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Charles Fisher (Canadian politician)|Charles Fisher]] (Lib)<br> ''acclaimed''
+| 
+|
+|
+|
+| 
+| Hiram Dow, [[Charles Fisher (Canadian politician)|Charles Fisher]], Alexander Thompson, [[John Adolphus Beckwith]]
+|}
+
+====Quebec====
+=====Eastern Quebec=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Bonaventure (federal electoral district)|Bonaventure]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Théodore Robitaille]] (Cons)<br> 1,018
+| 
+|M. Tremblay <br> 444
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Théodore Robitaille]] (Bleu) 
+|-
+| style="background:whitesmoke;"|[[Dorchester (federal electoral district)|Dorchester]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Hector Louis Langevin]] (Cons)<br> ''acclaimed''
+| 
+| 
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Hector Louis Langevin]] (Bleu) 
+|-
+| style="background:whitesmoke;"|[[Gaspé (electoral district)|Gaspé]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Pierre-Étienne Fortin]] (Cons)<br> ''acclaimed''
+| 
+| 
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Le Boutillier]] (Bleu) 
+|-
+| style="background:whitesmoke;"|[[Kamouraska (federal electoral district)|Kamouraska]]
+| 
+|''No election due to rioting''
+| 
+| 
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Jean-Charles Chapais]] (Bleu) 
+|-
+| style="background:whitesmoke;"|[[Lévis (federal electoral district)|Lévis]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Joseph-Goderic Blanchet]] (Lib-Cons)<br> ''acclaimed''
+| 
+| 
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Joseph-Goderic Blanchet]] (Bleu)
+|-
+| style="background:whitesmoke;"|[[L'Islet (electoral district)|L'Islet]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Barthélemy Pouliot]] (Cons)<br> 464
+| 
+|[[Louis-Bonaventure Caron]] <br> 40  
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Louis-Bonaventure Caron]] (Rouge)  
+|-
+| style="background:whitesmoke;"|[[Montmagny (federal electoral district)|Montmagny]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Joseph-Octave Beaubien]] (Cons)<br> ''acclaimed''
+| 
+| 
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Joseph-Octave Beaubien]] (Bleu)
+|-
+| style="background:whitesmoke;"|[[Rimouski (federal electoral district)|Rimouski]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[George Sylvain]] (Cons)<br> 1,152
+| 
+|Augustin Michaud <br> 697
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[George Sylvain]] (Bleu)
+|-
+| style="background:whitesmoke;"|[[Témiscouata (federal electoral district)|Témiscouata]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Charles Bertrand (politician)|Charles Bertrand]] (Cons)<br> ''acclaimed''
+| 
+|
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Jean-Baptiste Pouliot]] (Rouge)
+|}
+
+=====Quebec City area and Saguenay=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Charlevoix (federal electoral district)|Charlevoix]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Simon-Xavier Cimon]] (Cons)<br> 999
+| 
+|[[Adolphe Gagnon]]<br> 911
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Adolphe Gagnon]] (Rouge) 
+|-
+| style="background:whitesmoke;"|[[Chicoutimi—Saguenay (federal electoral district)|Chicoutimi—Saguenay]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Pierre-Alexis Tremblay]] (Liberal)<br> ''acclaimed''
+| 
+| 
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Pierre-Alexis Tremblay]] (Liberal)
+|-
+| style="background:whitesmoke;"|[[Montmorency (federal electoral district)|Montmorency]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Joseph-Édouard Cauchon]] (Cons)<br> ''acclaimed''
+| 
+|
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Joseph-Édouard Cauchon]] (Bleu) 
+|-
+| style="background:whitesmoke;"|[[Quebec County (electoral district)|Quebec County]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Pierre-Joseph-Olivier Chauveau]] (Cons)<br> ''acclaimed''
+| 
+|
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[François Évanturel]] (Liberal) 
+|-
+| style="background:whitesmoke;"|[[Quebec East]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Pierre-Gabriel Huot]] (Liberal)<br> ''acclaimed''
+| 
+|
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Pierre-Gabriel Huot]] (Rouge) 
+|-
+| style="background:whitesmoke;"|[[Quebec West]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Thomas McGreevy]] (Lib-Cons)<br> ''acclaimed''
+| 
+|
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Charles Joseph Alleyn]] (Cons) 
+|-
+| style="background:whitesmoke;"|[[Quebec-Centre]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Georges-Honoré Simard]] (Cons)<br> 1,291
+| 
+|P. Garneau <br> 5
+|
+|Blanchet <br> 2
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Isidore Thibaudeau]] (Rouge) 
+|}
+
+=====Central Quebec=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Berthier (electoral district)|Berthier]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Anselme-Homère Pâquet]] (Lib)<br> 1,131
+| 
+|L. Trachemontagne<br> 1,095
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Anselme-Homère Pâquet]] (Rouge)
+|-
+| style="background:whitesmoke;"|[[Champlain (federal electoral district)|Champlain]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Jones Ross]] (Cons)<br> 1,449
+| 
+|M. Martineau<br> 305
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Jones Ross]] (Bleu)
+|-
+| style="background:whitesmoke;"|[[Joliette (electoral district)|Joliette]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[François Benjamin Godin]] (Lib)<br> 918
+| 
+|[[Louis François Georges Baby]] (Cons) <br> 862
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Hippolite Cornellier]] (Bleu)
+|-
+| style="background:whitesmoke;"|[[L'Assomption (federal electoral district)|L'Assomption]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Louis Archambeault]] (Lib-Cons)<br> 898
+| 
+|[[Pierre-Urgel Archambault]] <br> 665
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Louis Archambeault]] (Rouge)
+|-
+| style="background:whitesmoke;"|[[Lotbinière (electoral district)|Lotbinière]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Henri-Gustave Joly de Lotbinière]] (Lib)<br> ''acclaimed''
+| 
+|
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Henri-Gustave Joly de Lotbinière]] (Rouge)
+|-
+| style="background:whitesmoke;"|[[Maskinongé (federal electoral district)|Maskinongé]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[George Caron]] (Cons)<br> 702
+| 
+|[[Moïse Houde]] <br> 564
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Moïse Houde]] (Rouge)
+|-
+| style="background:whitesmoke;"|[[Montcalm (federal electoral district)|Montcalm]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Joseph Dufresne]] (Cons)<br> ''acclaimed''
+| 
+| 
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Joseph Dufresne]] (Bleu)
+|-
+| style="background:whitesmoke;"|[[Nicolet (federal electoral district)|Nicolet]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Joseph Gaudet]] (Cons)<br> 1,070
+| 
+|M. Rousseau <br> 499
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Joseph Gaudet]] (Bleu)
+|-
+| style="background:whitesmoke;"|[[Portneuf (electoral district)|Portneuf]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Jean-Docile Brousseau]] (Cons)<br> 1,027
+| 
+|I. P. Dery <br> 718
+|
+|Dubord <br> 1
+|{{Canadian party colour|CA|PC|background}}|
+|[[Jean-Docile Brousseau]] (Lib-Cons)
+|-
+| style="background:whitesmoke;"|[[Saint-Maurice (federal electoral district)|Saint Maurice]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Louis-Léon Lesieur Désaulniers]] (Cons)<br> ''acclaimed''
+| 
+|
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Charles Gérin-Lajoie]] (Rouge)
+|-
+| style="background:whitesmoke;"|[[Trois-Rivières (electoral district)|Three Rivers]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Louis-Charles Boucher de Niverville]] (Cons)<br> 277
+| 
+|C. B. Genest <br> 143
+|
+| 
+|{{Canadian party colour|CA|PC|background}}|
+|[[Louis-Charles Boucher de Niverville]] (Bleu)
+|-
+| style="background:whitesmoke;"|[[Yamaska (federal electoral district)|Yamaska]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Moïse Fortier]] (Lib)<br> 797
+| 
+|[[Joseph Provencher|Joseph Albert Norbert Provencher]] (Cons) <br> 760
+|
+| 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Moïse Fortier]] (Rouge)
+|}
+
+=====Eastern Townships=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Bagot (electoral district)|Bagot]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Pierre-Samuel Gendron]] (Cons)<br> 1,156
+| 
+|[[Maurice Laframboise]]<br> 889
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Maurice Laframboise]] (Rouge) 
+|-
+| style="background:whitesmoke;"|[[Beauce (electoral district)|Beauce]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Christian Pozer]] (Lib)<br> 1,180
+| 
+|[[Henri Elzéar Taschereau]]<br> 629
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Henri Elzéar Taschereau]] (Bleu) 
+|-
+| style="background:whitesmoke;"|[[Bellechasse (federal electoral district)|Bellechasse]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Louis-Napoléon Casault]] (Cons)<br> 983
+| 
+|[[Édouard Rémillard]]<br> 671
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Édouard Rémillard]] (Rouge) 
+|-
+| style="background:whitesmoke;"|[[Brome (federal electoral district)|Brome]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Christopher Dunkin]] (Cons)<br> ''acclaimed''
+| 
+|
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Christopher Dunkin]] (Cons) 
+|-
+| style="background:whitesmoke;"|[[Compton (electoral district)|Compton]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Henry Pope]] (Lib-Cons)<br> ''acclaimed''
+| 
+| 
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Henry Pope]] (Cons) 
+|-
+| style="background:whitesmoke;"|[[Drummond—Arthabaska]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Louis-Adélard Senécal]] (Cons)<br> 1,135
+| 
+|M. Houle <br> 1,111 
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Jean-Baptiste-Éric Dorion]] (Rouge) 
+|-
+| style="background:whitesmoke;"|[[Mégantic (federal electoral district)|Mégantic]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[George Irvine (politician)|George Irvine]] (Cons)<br> 1,000
+| 
+|P. O. Triganne <br> 733
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[George Irvine (politician)|George Irvine]] (Cons)
+|-
+| style="background:whitesmoke;"|[[Missisquoi (federal electoral district)|Missisquoi]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Brown Chamberlin]] (Cons)<br> 1,190
+| 
+|[[Philip Henry Moore]] <br> 497
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[James O'Halloran (politician)|James O'Halloran]] (Rouge)
+|-
+| style="background:whitesmoke;"|[[Richmond—Wolfe]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[William Hoste Webb]] (Cons)<br> 1,137
+| 
+|Beique <br> 903
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[William Hoste Webb]] (Cons)
+|-
+| style="background:whitesmoke;"|[[Shefford (electoral district)|Shefford]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Lucius Seth Huntington]] (Lib)<br> 1,317
+| 
+|Parmelee<br> 991
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Lucius Seth Huntington]] (Rouge)
+|-
+| style="background:whitesmoke;"|[[Sherbrooke (Town of)]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Alexander Tilloch Galt]] (Lib-Cons)<br> ''acclaimed''
+| 
+| 
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Alexander Tilloch Galt]] (Lib-Cons)
+|-
+| style="background:whitesmoke;"|[[Stanstead (electoral district)|Stanstead]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Charles Carroll Colby]] (Lib-Cons)<br> 814
+| 
+|[[Albert Knight (politician)|Albert Knight]]<br> 616 
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Albert Knight (politician)|Albert Knight]] (Cons)
+|}
+
+=====Montérégie Est=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Chambly (electoral district)|Chambly]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Pierre Basile Benoit]] (Cons)<br> 691
+| 
+|V. P. W. Dorion<br> 526
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Charles Boucher de Boucherville]] (Bleu) 
+|-
+| style="background:whitesmoke;"|[[Iberville (federal electoral district)|Iberville]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[François Béchard]] (Lib)<br> 1,035
+| 
+|[[Alexandre Dufresne]]<br> 504
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Alexandre Dufresne]] (Rouge)
+|-
+| style="background:whitesmoke;"|[[Richelieu (electoral district)|Richelieu]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Thomas McCarthy (Quebec politician)|Thomas McCarthy]] (Cons)<br> 777
+| 
+|[[Joseph-Xavier Perrault]]<br> 625
+|
+|P. Gélinas <br> 450
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Joseph-Xavier Perrault]] (Rouge)
+|-
+| style="background:whitesmoke;"|[[Rouville (electoral district)|Rouville]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Guillaume Cheval dit St-Jacques]] (Lib)<br> 1,236
+| 
+|[[Joseph-Napoléon Poulin]]<br> 824
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Joseph-Napoléon Poulin]] (Bleu)
+|-
+| style="background:whitesmoke;"|[[St. Hyacinthe (electoral district)|St. Hyacinthe]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Alexandre-Édouard Kierzkowski]] (Lib)<br> 1,107
+| 
+|[[Rémi Raymond]]<br> 929
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Rémi Raymond]] (Bleu)
+|-
+| style="background:whitesmoke;"|[[St. John's (electoral district)|St. John's]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[François Bourassa]] (Lib)<br> 696
+| 
+|[[Charles Laberge]]<br> 600
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[François Bourassa]] (Rouge)
+|-
+| style="background:whitesmoke;"|[[Verchères (federal electoral district)|Verchères]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Félix Geoffrion]] (Lib)<br> 831
+| 
+|L. H. Massuee<br> 740
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Félix Geoffrion]] (Rouge)
+|}
+
+=====Vallée-du-Haut-Saint-Laurent=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Beauharnois (federal electoral district)|Beauharnois]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Michael Cayley]] (Cons)<br> 724
+| 
+|[[Paul Denis (Quebec politician)|Paul Denis]]<br> 691
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Paul Denis (Quebec politician)|Paul Denis]] (Bleu) 
+|-
+| style="background:whitesmoke;"|[[Châteauguay (electoral district)|Châteauguay]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Luther Hamilton Holton]] (Lib)<br> 1,013
+| 
+|[[Thomas Kennedy Ramsay]]<br> 586
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Luther Hamilton Holton]] (Rouge)
+|-
+| style="background:whitesmoke;"|[[Huntingdon (electoral district)|Huntingdon]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Rose, 1st Baronet|John Rose]] (Lib-Cons)<br> 1,280
+| 
+|W. H. Kerr<br> 468
+|
+|
+|{{Canadian party colour|CA|Independent|background}}|
+|[[Robert Brown Somerville]] (Ind)
+|-
+| style="background:whitesmoke;"|[[La Prairie (electoral district)|Laprairie]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Alfred Pinsonneault]] (Cons)<br> 750
+| 
+|M. Normandeau<br> 293
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Alfred Pinsonneault]] (Bleu)
+|-
+| style="background:whitesmoke;"|[[Napierville (federal electoral district)|Napierville]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Sixte Coupal dit la Reine]] (Lib)<br> 878
+| 
+|M. Laviolette<br> 344
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Sixte Coupal dit la Reine]] (Rouge)
+|-
+| style="background:whitesmoke;"|[[Soulanges (federal electoral district)|Soulanges]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Luc-Hyacinthe Masson]] (Cons)<br> 729
+| 
+|M. Guindon<br> 470
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[William Duckett (Canadian politician)|William Duckett]] (Cons)
+|-
+| style="background:whitesmoke;"|[[Vaudreuil (electoral district)|Vaudreuil]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Donald McMillan (Quebec politician)|Donald McMillan]] (Cons)<br> ''acclaimed''
+| 
+| 
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Antoine Chartier de Lotbinière Harwood]] (Cons)
+|}
+
+=====Hochelaga Archipelago=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Hochelaga (electoral district)|Hochelaga]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Antoine-Aimé Dorion]] (Lib)<br> 1,312
+| 
+|J. Lanouette<br> 1,289
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Antoine-Aimé Dorion]] (Rouge) 
+|-
+| style="background:whitesmoke;"|[[Jacques Cartier (electoral district)|Jacques Cartier]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Guillaume Gamelin Gaucher]] (Cons)<br> 659
+| 
+|M. Brunet<br> 542
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Guillaume Gamelin Gaucher]] (Bleu)
+|-
+| style="background:whitesmoke;"|[[Laval (federal electoral district)|Laval]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Joseph-Hyacinthe Bellerose]] (Cons)<br> ''acclaimed''
+| 
+|
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Joseph-Hyacinthe Bellerose]] (Bleu)
+|-
+| style="background:whitesmoke;"|[[Montreal Centre]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Thomas Workman (Canadian politician)|Thomas Workman]] (Lib)<br> ''acclaimed''
+| 
+|
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Rose, 1st Baronet|John Rose]] (Cons)
+|-
+| style="background:whitesmoke;"|[[Montreal East (electoral district)|Montreal East]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[George-Étienne Cartier]] (Lib-Cons)<br> 2,431
+| 
+|M. Lanctot (Lib) <br> 2,085
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[George-Étienne Cartier]] (Bleu)
+|-
+| style="background:whitesmoke;"|[[Montreal West (electoral district)|Montreal West]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Thomas D'Arcy McGee]] (Lib-Cons)<br> 2,675
+| 
+|[[Bernard Devlin]] (Lib) <br> 2,478
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Thomas D'Arcy McGee]]  (Cons)
+|}
+
+=====Laurentides & Outaouais=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Argenteuil (electoral district)|Argenteuil]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Abbott]] (Lib-Cons)<br> 693
+| 
+|B. Hutchins<br> 595
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[John Abbott]] (Lib) 
+|-
+| style="background:whitesmoke;"|[[Ottawa (County of)]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Alonzo Wright]] (Lib-Cons)<br> ''acclaimed''
+| 
+|
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Alonzo Wright]] (Cons) 
+|-
+| style="background:whitesmoke;"|[[Pontiac (federal electoral district)|Pontiac]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Edmund Heath]] (Cons)<br> ''acclaimed''
+| 
+|
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Poupore]] (Bleu) 
+|-
+| style="background:whitesmoke;"|[[Terrebonne (electoral district)|Terrebonne]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Louis-Rodrigue Masson]] (Cons)<br> ''acclaimed''
+| 
+|
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Louis Labrèche-Viger]] (Lib) 
+|-
+| style="background:whitesmoke;"|[[Two Mountains (electoral district)|Two Mountains]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Jean-Baptiste Daoust]] (Cons)<br> ''acclaimed''
+| 
+|
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Jean-Baptiste Daoust]] (Reformer) 
+|}
+
+====Ontario====
+=====Ottawa Valley=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Carleton (Ontario federal electoral district)|Carleton]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Holmes (Ontario politician)|John Holmes]] (Lib-Cons)<br> 1,087
+| 
+|[[John Rochester (politician)|John Rochester]] (Cons) <br> 1,006
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[William Frederick Powell]] (Cons) 
+|-
+| style="background:whitesmoke;"|[[Lanark North]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[William McDougall (Ontario politician)|William McDougall]] (Lib-Cons)<br> ''acclaimed''
+| 
+| 
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[William McDougall (Ontario politician)|William McDougall]] (Reformer) 
+|-
+| style="background:whitesmoke;"|[[Lanark South]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Alexander Morris (politician)|Alexander Morris]] (Cons)<br> ''acclaimed''
+| 
+| 
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Alexander Morris (politician)|Alexander Morris]] (Cons)  
+|-
+| style="background:whitesmoke;"|[[City of Ottawa (electoral district)|Ottawa (City of)]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Joseph Merrill Currier]] (Lib-Cons)<br> 974
+| 
+|Alexander Gibb <br /> 25
+|
+|[[Edward McGillivray]]<br> 5 <br /> E. Martineau <br /> 1 <br /> [[Moss Kent Dickinson]] <br /> 0 <br /> Philip Thompson <br /> 0
+|{{Canadian party colour|CA|PC|background}}|
+|[[Joseph Merrill Currier]] (Cons)  
+|-
+| style="background:whitesmoke;"|[[Prescott (federal electoral district)|Prescott]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Albert Hagar]] (Lib)<br> 1,205
+| 
+|[[Thomas Higginson (Canadian politician)|Thomas Higginson]] <br> 130 
+|
+| 
+|{{Canadian party colour|CA|PC|background}}|
+|[[Thomas Higginson (Canadian politician)|Thomas Higginson]] (Cons)  
+|-
+| style="background:whitesmoke;"|[[Renfrew North]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Rankin (Canadian politician)|John Rankin]] (Cons)<br> 613
+| 
+|[[Thomas Murray (Canadian politician)|Thomas Murray]] <br> 527 
+|
+| 
+|rowspan="2"{{Canadian party colour|CA|Liberal|background}}|
+|rowspan="2"|Robert McIntyre (Reformer) <br><span style="font-size: 75%;">''[[Renfrew (electoral district)|Renfrew]]''</span>
+|-
+| style="background:whitesmoke;"|[[Renfrew South]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Daniel McLachlin]] (Lib)<br> ''acclaimed''
+| 
+| 
+|
+| 
+|-
+| style="background:whitesmoke;"|[[Russell (Ontario electoral district)|Russell]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[James Alexander Grant]] (Cons)<br> 1,293
+| 
+|[[Robert Bell (Ottawa politician)|Robert Bell]] <br> 695 
+|
+| 
+|{{Canadian party colour|CA|PC|background}}|
+|[[Robert Bell (Ottawa politician)|Robert Bell]] (Cons)  
+|}
+
+=====St. Lawrence Valley=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Addington (federal electoral district)|Addington]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[James Lapum]] (Cons)<br> 1,120
+| 
+|[[Schuyler Shibley]] (Lib-Cons) <br> 991
+|
+|[[Henry Smith (Canadian politician, born 1812)|Henry Smith]] <br> 2 <br /> Price<br /> 1 <br /> D. Cameron<br /> 0 <br /> Hamm<br /> 0 <br /> Lott<br /> 0
+|colspan="2" | ''New district''
+|-
+| style="background:whitesmoke;"|[[Brockville (federal electoral district)|Brockville]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[James Crawford (Canadian politician)|James Crawford]] (Cons)<br> 690
+| 
+|Fitzwilliam Henry Chambers <br> 521
+|
+| 
+|{{Canadian party colour|CA|Liberal|background}}|
+|Fitzwilliam Henry Chambers (Reformer)
+|-
+| style="background:whitesmoke;"|[[Cornwall (federal electoral district)|Cornwall]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[John Sandfield Macdonald]] (Lib)<br> 451
+| 
+|Mattice <br> 295
+|
+| 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[John Sandfield Macdonald]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Dundas (federal electoral district)|Dundas]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Sylvester Ross]] (Lib-Cons)<br> ''acclaimed''
+| 
+| 
+|
+| 
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Sylvester Ross]] (Cons)
+|-
+| style="background:whitesmoke;"|[[Frontenac (Ontario electoral district)|Frontenac]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Thomas Kirkpatrick (Canadian politician)|Thomas Kirkpatrick]] (Cons)<br> 1,242
+| 
+|J. Carruthers <br> 693
+|
+| 
+|{{Canadian party colour|CA|PC|background}}|
+|William Ferguson (Cons)
+|-
+| style="background:whitesmoke;"|[[Glengarry (electoral district)|Glengarry]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Donald Alexander Macdonald]] (Lib)<br> ''acclaimed''
+| 
+| 
+|
+| 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Donald Alexander Macdonald]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Grenville South]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Walter Shanly]] (Cons)<br> 899
+| 
+|[[William Patrick (Canadian politician)|William Patrick]] <br> 730  
+|
+| 
+|{{Canadian party colour|CA|PC|background}}|
+|[[Walter Shanly]] (Lib-Cons)  <br><span style="font-size: 75%;">''[[Grenville (electoral district)|Grenville]]''</span>
+|-
+| style="background:whitesmoke;"|[[Kingston (electoral district)|Kingston]]
+|{{Canadian party colour|CA|PC|background}}|
+|'''[[John A. Macdonald]]''' (Lib-Cons)<br> 735
+| 
+| John Stewart <br> 142 
+|
+| 
+|{{Canadian party colour|CA|PC|background}}|
+|'''[[John A. Macdonald]]''' (Lib-Cons)
+|-
+| style="background:whitesmoke;"|[[Leeds North and Grenville North]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Francis Jones (Canadian politician)|Francis Jones]] (Cons)<br> 923
+| 
+|G. Montgomery <br> 857
+|
+| 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Francis Jones (Canadian politician)|Francis Jones]] (Reformer) <br><span style="font-size: 75%;">''[[North Leeds and Grenville]]''</span>
+|-
+| style="background:whitesmoke;"|[[Leeds South (Canadian electoral district)|Leeds South]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Willoughby Crawford]] (Cons)<br> 1,393
+| 
+|[[Albert Norton Richards]] <br> 1,364
+|
+| 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Albert Norton Richards]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Lennox (electoral district)|Lennox]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Richard John Cartwright]] (Cons)<br> 1,268
+| 
+|[[John Thomas Grange]] <br> 1,122
+|
+| 
+|{{Canadian party colour|CA|PC|background}}|
+|[[Richard John Cartwright]] (Cons) <br><span style="font-size: 75%;">''[[Lennox and Addington]]''</span>
+|-
+| style="background:whitesmoke;"|[[Stormont (electoral district)|Stormont]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Samuel Ault]] (Lib-Cons)<br> 955
+| 
+|Sinclair <br> 363
+|
+| 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Samuel Ault]] (Reformer)
+|}
+
+=====Central Ontario=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Hastings East]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Robert Read]] (Cons)<br> 1,110
+| 
+|J. J. Farley <br> 457
+|
+| 
+|colspan="2" | ''New district''
+|-
+| style="background:whitesmoke;"|[[Hastings North]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Mackenzie Bowell]] (Cons)<br> 928
+| 
+|[[Thomas Campbell Wallbridge]]<br> 636
+|
+|McLean <br> 1 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Thomas Campbell Wallbridge]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Hastings West]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[James Brown (Canadian politician)|James Brown]] (Cons)<br> 773
+| 
+|Holden <br> 313
+|
+| 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Lewis Wallbridge]] (Reformer) <br> <span style="font-size: 75%;">''[[South Hastings]]''</span>
+|-
+| style="background:whitesmoke;"|[[Northumberland East]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Joseph Keeler]] (Lib-Cons)<br> 1,607
+| 
+|Kenneth McKenzie <br> 827 
+|
+|Meyers <br /> 0 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[James Lyons Biggar]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Northumberland West]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[James Cockburn (politician, born 1819)|James Cockburn]] (Cons)<br> ''acclaimed''
+| 
+|
+|
+| 
+|{{Canadian party colour|CA|PC|background}}|
+|[[James Cockburn (politician, born 1819)|James Cockburn]] (Lib-Cons)
+|-
+| style="background:whitesmoke;"|[[Peterborough East]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Peregrine Maitland Grover]] (Cons) <br> 956
+| 
+|James Anderson <br> 644 
+|
+| 
+|rowspan="2"{{Canadian party colour|CA|PC|background}}|
+|rowspan="2"|[[Frederick W. Haultain]] (Cons) <br><span style="font-size: 75%;">''[[Peterborough (electoral district)|Peterborough]]''</span>
+|-
+| style="background:whitesmoke;"|[[Peterborough West]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Charles Perry (Canadian politician)|Charles Perry]] (Cons)<br> 681
+| 
+|J. Gordon <br> 652
+|
+| 
+|-
+| style="background:whitesmoke;"|[[Prince Edouard-Xavier de Lobkowicz|Prince Edward]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Walter Ross (politician)|Walter Ross]] (Lib)<br> 1,779
+| 
+|[[James Simeon McCuaig]] (Cons) <br> 942
+|
+| 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Walter Ross (politician)|Walter Ross]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Victoria North (federal electoral district)|Victoria North]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[John Morison (Canadian politician)|John Morison]] (Lib)<br> 687
+| 
+|[[Hector Cameron (politician)|Hector Cameron]] <br> 403
+|
+| 
+|rowspan="2"{{Canadian party colour|CA|Liberal|background}}|
+|rowspan="2"|[[James Dunsford]] (Reformer) <br><span style="font-size: 75%;">''[[Victoria (Ontario electoral district)|Victoria]]''</span>
+|-
+| style="background:whitesmoke;"|[[Victoria South (federal electoral district)|Victoria South]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[George Kempt]] (Lib)<br> 1,001
+| 
+|[[Hector Cameron (politician)|Hector Cameron]] <br> 801
+|
+| 
+|}
+
+=====Greater Toronto Area=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Durham East (federal electoral district)|Durham East]]
+|{{Canadian party colour|CA|PC|background}}| 
+|[[Francis Henry Burton]] (Cons.) <br /> 1,134 
+|
+|F. Beamish <br /> 451
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[John Shuter Smith]] (Reformer) 
+|-
+| style="background:whitesmoke;"|[[Durham West]]
+|{{Canadian party colour|CA|Liberal|background}}| 
+|[[Edward Blake]] (Cons.) <br /> 1,337 
+|
+|J. Milne <br /> 931
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Henry Munro (Canada West politician)|Henry Munro]] (Reformer) 
+|-
+| style="background:whitesmoke;"|[[Halton (federal electoral district)|Halton]]
+|{{Canadian party colour|CA|Liberal|background}}| 
+|[[John White (Liberal MP)|John White]] (Lib.) <br /> 1,422 
+|
+|[[George King Chisholm]] <br /> 1,289
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[John White (Liberal MP)|John White]] (Reformer) 
+|-
+| style="background:whitesmoke;"|[[Ontario North]]
+|{{Canadian party colour|CA|Liberal|background}}| 
+|[[John Hall Thompson]] (Lib.) <br /> 1,628
+|
+|[[Matthew Crooks Cameron]] (Lib.) <br /> 1,362
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Matthew Crooks Cameron]] (Cons.) 
+|-
+| style="background:whitesmoke;"|[[Ontario South]]
+|{{Canadian party colour|CA|PC|background}}| 
+|[[Thomas Nicholson Gibbs]] (Lib.-Cons.) <br /> 1,292
+|
+|[[George Brown (Canadian politician)|George Brown]] <br /> 1,223
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Thomas Nicholson Gibbs]] (Reformer) 
+|-
+| style="background:whitesmoke;"|[[Peel (federal electoral district)|Peel]]
+|{{Canadian party colour|CA|PC|background}}| 
+|[[John Hillyard Cameron]] (Cons.) <br /> 1,138
+|
+|Wally Barber <br /> 1,076
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Hillyard Cameron]] (Cons.)
+|-
+| style="background:whitesmoke;"|[[Toronto East (federal electoral district)|Toronto East]]
+|{{Canadian party colour|CA|PC|background}}| 
+|[[James Beaty Sr.]] (Cons.) <br /> 1,113
+|
+|William Thomas Aikins <br /> 980
+|
+|Allen <br /> 1 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Alexander Mortimer Smith]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[West Toronto|Toronto West]]
+|{{Canadian party colour|CA|PC|background}}| 
+|[[Robert Alexander Harrison]] (Cons.) <br /> 1,477
+|
+|[[John Macdonald (Canadian politician)|John Macdonald]] (Ind. Lib.) <br /> 1,048
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[John Macdonald (Canadian politician)|John Macdonald]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[York East]]
+|{{Canadian party colour|CA|Liberal|background}}| 
+|[[James Metcalfe (York East MP)|James Metcalfe]] (Lib.) <br /> 1,174
+|
+|T. A. Milne <br /> 937
+|
+| 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Amos Wright]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[York North]]
+|{{Canadian party colour|CA|Liberal|background}}| 
+|[[James Pearson Wells]] (Lib.) <br /> ''Acclaimed'' 
+|
+| 
+|
+| 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[James Pearson Wells]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[York West]]
+|{{Canadian party colour|CA|PC|background}}| 
+|[[William Pearce Howland]] (Lib.-Cons.) <br /> 810
+|
+|J. S. Hubertus <br /> 297
+|
+|[[David Blain]]<br /> 0  
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[William Pearce Howland]] (Reformer)
+|}
+
+=====Georgian Bay=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Algoma (electoral district)|Algoma]]
+|{{Canadian party colour|CA|PC|background}}| 
+|[[Wemyss Mackenzie Simpson]] (Cons.) <br /> 250 
+|
+|[[William Beatty (Ontario politician)|William Beatty]] <br /> 241
+|
+|A. MacDonell <br /> 38 
+|colspan="2" | ''New district''
+|-
+| style="background:whitesmoke;"|[[Bruce North (federal electoral district)|Bruce North]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Alexander Sproat]] (Cons)<br> 862
+| 
+|R. Douglas<br> 852
+|
+| 
+|colspan="2" | ''New district''
+|-
+| style="background:whitesmoke;"|[[Bruce South (federal electoral district)|Bruce South]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Francis Hurdon]] (Cons)<br> 1,777
+| 
+|W. Rastall<br> 1,624
+|
+|Hall <br /> 5 
+|colspan="2" | ''New district''
+|-
+| style="background:whitesmoke;"|[[Cardwell (federal electoral district)|Cardwell]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Thomas Roberts Ferguson]] (Cons)<br> 1,155
+| 
+|Philips<br> 1,078
+|
+| 
+|colspan="2" | ''New district''
+|-
+| style="background:whitesmoke;"|[[Grey North (federal electoral district)|Grey North]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[George Snider (politician)|George Snider]] (Lib)<br> 1,399
+| 
+|[[D'Arcy Boulton (Ontario politician)|D'Arcy Boulton]] <br /> 1,143
+|
+| 
+|rowspan="2" {{Canadian party colour|CA|PC|background}}|
+|rowspan="2"| [[George Jackson (Canadian politician)|George Jackson]] (Cons)<br><span style="font-size: 75%;">''[[Grey (electoral district)|Grey]]''</span>
+|-
+| style="background:whitesmoke;"|[[Grey South (federal electoral district)|Grey South]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[George Jackson (Canadian politician)|George Jackson]] (Cons)<br> 1,560
+| 
+|R. Dalgleish <br /> 1,547
+|
+| 
+|-
+| style="background:whitesmoke;"|[[Simcoe North (federal electoral district)|Simcoe North]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Thomas David McConkey]] (Lib)<br> ''Acclaimed''
+| 
+| 
+|
+| 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Thomas David McConkey]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Simcoe South (federal electoral district)|Simcoe South]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[William Carruthers Little]] (Lib-Cons)<br> 1,411
+| 
+|Thomas Saunders <br /> 1,055 
+|
+| 
+|{{Canadian party colour|CA|PC|background}}|
+|[[Thomas Roberts Ferguson]] (Cons)
+|}
+
+=====Niagara Peninsula=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Brant North]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Young Bown]] (Lib-Cons) <br /> 672
+|
+|J. D. Clement <br /> 670
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Young Bown]] (Lib-Cons) <br> <span style="font-size: 75%;">''[[East Brant]]''</span>
+|-
+| style="background:whitesmoke;"|[[Brant South]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Edmund Burke Wood]] (Lib) <br /> 1,257
+|
+|H. B. Leeming <br /> 1,090
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Edmund Burke Wood]] (Reformer) <br> <span style="font-size: 75%;">''[[West Brant]]''</span>
+|-
+| style="background:whitesmoke;"|[[Haldimand (federal electoral district)|Haldimand]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[David Thompson (Canadian politician)|David Thompson]] (Lib) <br /> 1,391
+|
+|R. McKinnon <br /> 1,022
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[David Thompson (Canadian politician)|David Thompson]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Hamilton (federal electoral district)|Hamilton]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Charles Magill]] (Lib) <br /> ''Acclaimed''
+|
+| 
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Charles Magill]] (Lib)
+|-
+| style="background:whitesmoke;"|[[Lincoln (federal electoral district)|Lincoln]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[James Rea Benson]] (Lib-Cons) <br /> ''Acclaimed''
+|
+| 
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[William McGiverin]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Monck (federal electoral district)|Monck]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Lachlin McCallum]] (Lib-Cons) <br /> 1,126
+|
+|Fraser <br /> 871 
+|
+|
+|colspan="2" | ''New district''
+|-
+| style="background:whitesmoke;"|[[Niagara (federal electoral district)|Niagara]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Angus Morrison (politician)|Angus Morrison]] (Cons) <br /> 300
+|
+|[[William Alexander Thomson]] <br /> 250
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Angus Morrison (politician)|Angus Morrison]] (Reformer) <br /><span style="font-size: 75%;">''[[Niagara (town)]]''</span>
+|-
+| style="background:whitesmoke;"|[[Norfolk North]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Aquila Walsh]] (Cons) <br /> 1,026
+|
+|Duncombe <br /> 990
+|
+|
+|rowspan="2" {{Canadian party colour|CA|PC|background}}|
+|rowspan="2"| [[Aquila Walsh]] (Cons)<br><span style="font-size: 75%;">''[[Norfolk (electoral district)|Norfolk]]''</span>
+|-
+| style="background:whitesmoke;"|[[Norfolk South (federal electoral district)|Norfolk South]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Peter Lawson (politician)|Peter Lawson]] (Lib) <br /> 1,050
+|
+|N. O. Walker <br /> 969
+|
+|
+|-
+| style="background:whitesmoke;"|[[Welland (electoral district)|Welland]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[Thomas Clark Street]] (Cons) <br /> ''Acclaimed''
+|
+| 
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[Thomas Clark Street]] (Cons) 
+|-
+| style="background:whitesmoke;"|[[Wentworth North (federal electoral district)|Wentworth North]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[James McMonies]] (Lib) <br /> 1,154
+|
+|Alexander Brown <br /> 1,093 
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[James McMonies]] (Reform) 
+|-
+| style="background:whitesmoke;"|[[Wentworth South (federal electoral district)|Wentworth South]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Joseph Rymal]] (Lib) <br /> 1,015
+|
+|[[Thomas Robertson (Ontario politician)|Thomas Robertson]] <br /> 988 
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Joseph Rymal]] (Reform) 
+|}
+
+=====Midwestern Ontario=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Huron North]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Joseph Whitehead (Canadian politician)|Joseph Whitehead]] (Lib) <br /> 1,940 
+|
+|J. Holmes <br /> 1,318 
+|
+|Sloan <br /> 675
+|rowspan="2" {{Canadian party colour|CA|Liberal|background}}|
+|rowspan="2"| James Dickson (Reform)<br><span style="font-size: 75%;">''[[Huron & Bruce]]''</span>
+|-
+| style="background:whitesmoke;"|[[Huron South]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Malcolm Colin Cameron]] (Lib) <br /> 1,624 
+|
+|G. H. Ritchie <br /> 1,453
+|
+|D. L. Sills <br /> 1 
+|-
+| style="background:whitesmoke;"|[[Oxford North]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Thomas Oliver (Canadian politician)|Thomas Oliver]] (Lib)<br> ''Acclaimed'' 
+| 
+| 
+|
+| 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Thomas Oliver (Canadian politician)|Thomas Oliver]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Oxford South (federal electoral district)|Oxford South]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Ebenezer Vining Bodwell]] (Lib)<br> ''Acclaimed'' 
+| 
+| 
+|
+| 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[George Brown (Canadian politician)|George Brown]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Perth North]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[James Redford (politician)|James Redford]] (Lib)<br> 1,515 
+| 
+|[[Thomas Mayne Daly Sr.]] (Lib-Cons) <br> 1,307 
+|
+| 
+|rowspan="2" {{Canadian party colour|CA|Liberal|background}}|
+|rowspan="2"| [[Robert MacFarlane (Canadian politician)|Robert MacFarlane]] (Reform)<br><span style="font-size: 75%;">''[[Perth (federal electoral district)|Perth]]''</span>
+|-
+| style="background:whitesmoke;"|[[Perth South (federal electoral district)|Perth South]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Robert MacFarlane (Canadian politician)|Robert MacFarlane]] (Lib)<br> 1,490
+| 
+|[[Thomas B. Guest|T. B. Guest]] <br /> 1,393
+|
+| 
+|-
+| style="background:whitesmoke;"|[[Waterloo North]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Isaac Erb Bowman]] (Lib)<br> ''Acclaimed'' 
+| 
+| 
+|
+| 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Isaac Erb Bowman]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Waterloo South (federal electoral district)|Waterloo South]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[James Young (Canadian politician)|James Young]] (Lib)<br> 1,324 
+| 
+|[[James Cowan (Ontario politician)|James Cowan]] <br /> 958  
+|
+| 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[James Cowan (Ontario politician)|James Cowan]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Wellington Centre]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Thomas Sutherland Parker]] (Lib)<br> ''Acclaimed'' 
+| 
+| 
+|
+| 
+|rowspan="2" {{Canadian party colour|CA|Liberal|background}}|
+|rowspan="2"| [[Thomas Sutherland Parker]] (Reform)<br><span style="font-size: 75%;">''North Wellington''</span>
+|-
+| style="background:whitesmoke;"|[[Wellington North (Canadian electoral district)|Wellington North]]
+|{{Canadian party colour|CA|PC|background}}|
+|[[George Alexander Drew (Liberal-Conservative MP)|George Alexander Drew]] (Lib-Cons)<br> 1,493 
+| 
+|[[Michael Hamilton Foley]] <br /> 1,271  
+|
+| 
+|-
+| style="background:whitesmoke;"|[[Wellington South]]
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[David Stirton]] (Lib)<br> 963 
+| 
+|F. W. Stone <br /> 652  
+|
+| 
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[David Stirton]] (Reformer)
+|}
+
+=====Southwestern Ontario=====
+{| class="wikitable"
+!width=16% rowspan=2|Electoral District
+!colspan=6|Candidates
+!width=1% rowspan=2|&nbsp;
+!width=15% rowspan=2|Incumbent
+|-
+!width=1% |&nbsp;
+!width=16.5% | Winner
+!width=1% |&nbsp;
+!width=16.5% | Runner up 
+!width=1% |&nbsp;
+!width=16.5% |Other
+|-
+| style="background:whitesmoke;"|[[Bothwell (electoral district)|Bothwell]]
+|{{Canadian party colour|CA|Liberal|background}}| 
+|[[David Mills (Canadian politician)|David Mills]] (Lib) <br /> 1,333
+|
+|[[David Glass (Canadian politician)|David Glass]] (Cons) <br /> 1,224 
+|
+|
+|colspan="2" | ''New district''
+|-
+| style="background:whitesmoke;"|[[Elgin East (federal electoral district)|Elgin East]]
+|{{Canadian party colour|CA|PC|background}}| 
+|[[Thomas William Dobbie]] (Cons) <br /> 1,492
+|
+|[[Leonidas Burwell]] <br /> 1,382 
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Leonidas Burwell]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Elgin West]]
+|{{Canadian party colour|CA|PC|background}}| 
+|[[John H. Munroe]] (Cons) <br /> 970
+|
+|C. McDougall <br /> 766
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[John Scoble]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Essex (federal electoral district)|Essex]]
+|{{Canadian party colour|CA|PC|background}}| 
+|[[John O'Connor (Canadian politician)|John O'Connor]] (Cons) <br /> 1,439
+|
+|[[Arthur Rankin (surveyor)|Arthur Rankin]] <br /> 1,432
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Arthur Rankin (surveyor)|Arthur Rankin]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Kent (Ontario federal electoral district)|Kent]]
+|{{Canadian party colour|CA|PC|background}}| 
+|[[Rufus Stephenson]] (Cons) <br /> 1,524
+|
+|[[Archibald McKellar]] <br /> 1,427
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Archibald McKellar]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Lambton (federal electoral district)|Lambton]]
+|{{Canadian party colour|CA|Liberal|background}}| 
+|[[Alexander Mackenzie (politician)|Alexander Mackenzie]] (Lib) <br /> 1,999
+|
+|[[Alexander Vidal]] (Cons) <br /> 1,311
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Alexander Mackenzie (politician)|Alexander Mackenzie]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[London (federal electoral district)|London]]
+|{{Canadian party colour|CA|PC|background}}| 
+|[[John Carling]] (Lib-Cons) <br /> 1,114
+|
+|James Peacock <br /> 266 
+|
+|
+|{{Canadian party colour|CA|PC|background}}|
+|[[John Carling]] (Lib-Cons)
+|-
+| style="background:whitesmoke;"|[[Middlesex East (federal electoral district)|Middlesex East]]
+|{{Canadian party colour|CA|PC|background}}| 
+|[[Crowell Willson]] (Lib-Cons) <br /> 1,896
+|
+|D. McFie <br /> 1,756 
+|
+|
+|{{Canadian party colour|CA|Liberal|background}}|
+|[[Crowell Willson]] (Reformer)
+|-
+| style="background:whitesmoke;"|[[Middlesex North (federal electoral district)|Middlesex North]]
+|{{Canadian party colour|CA|Liberal|background}}| 
+|[[Thomas Scatcherd]] (Lib) <br /> 1,605
+|
+|Watson <br /> 874 
+|
+|
+|rowspan="2" {{Canadian party colour|CA|Liberal|background}}|
+|rowspan="2"| [[Thomas Scatcherd]] (Reformer)<br><span style="font-size: 75%;">''West Middlesex''</span>
+|-
+| style="background:whitesmoke;"|[[Middlesex West (federal electoral district)|Middlesex West]]
+|{{Canadian party colour|CA|PC|background}}| 
+|[[Angus Peter McDonald]] (Cons) <br /> 1,063
+|
+|G. Billington <br /> 1,044 
+|
+|
+|}
+
+== See also ==
+{{Portal|Canada|Politics}}
+{{for|a list of the MPs elected in the 1867 election, and in by-elections prior to 1872|1st Canadian Parliament}}
+*[[List of elections in the Province of Canada]]
+*[[1st Canadian Parliament]]
+
+== References==
+=== Notes ===
+{{notelist}}
+
+=== Citations ===
+{{reflist}}
+
+== Further reading ==
+* {{cite book |last1=Dutil |first1=Patrice A. |title=Ballots and Brawls: The 1867 Canadian General Election |date=2025 |publisher=UBC Press |location=Vancouver |isbn=978-0-774-87139-6 }}
+* {{cite book |author1=Elections Canada |title=A History of the Vote in Canada. |date=2021 |publisher=Elections Canada |location=Gatineau, Quebec |isbn=978-0-660-37056-9 |edition=Third |url=https://www.elections.ca/res/his/WEB_EC%2091135%20History%20of%20the%20Vote_Third%20edition_EN.pdf }}
+* {{cite book |last1=Garner |first1=John |title=The Franchise and Politics in British North America, 1755-1867 |date=1969 |publisher=University of Toronto Press |location=Ottawa |isbn=978-0-8020-3219-5 |url=https://archive.org/details/franchisepolitic0000garn |url-access=registration}}
+* {{cite book |last1=Gwyn |first1=Richard J. |title=John A.: The Man who made us: the life and times of John A. Macdonald |date=2007 |publisher=Random House Canada |location=Toronto |isbn=978-0-679-31475-2 |url=https://archive.org/details/johnamanwhomadeu0000gwyn_c1q4 |url-access=registration}}
+* {{cite book |last1=LeDuc |first1=Lawrence |last2=Pammett |first2=Jon H. |last3=McKenzie |first3=Judith L. |last4=Turcotte |first4=André |title=Dynasties and Interludes: Past and Present in Canadian Electoral Politics |date=2010 |publisher=Dundurn Press |location=Toronto |isbn=978-1-55488-886-3 |url=https://archive.org/details/dynastiesinterlu0000unse |url-access=registration}}
+* {{cite book |last1=Langevin |first1=Edouard J. |title=Return on the Elections to the House of Commons of Canada |date=1868 |publisher=Queen's Printer |location=Ottawa |url=https://www.google.ca/books/edition/Return_on_the_General_Election_for_the_H/jycWAAAAYAAJ}}
+
+== External links ==
+*{{Deprecated archive|url=https://archive.today/20131112221940/http://ftp2.cits.rncan.gc.ca/pub/geott/atlas/archives/english/5thedition/peopleandsociety/politicalgeography/mcr4093.jpg|title=Map of electoral districts coloured for each party|sec=el}}
+* [https://lop.parl.ca/About/Parliament/FederalRidingsHistory/hfer.asp?Language=E&Search=Gres&genElection=1&ridProvince=0&submit1=Search Ridings and candidates]
+
+{{Canada elections}}
+{{John A. Macdonald}}
+
+[[Category:1867 Canadian federal election| ]]
+[[Category:1867 elections in Canada|Federal]]
+[[Category:Canadian federal elections by year|1867]]
+[[Category:August 1867 in Canada]]
+[[Category:September 1867 in Canada]]

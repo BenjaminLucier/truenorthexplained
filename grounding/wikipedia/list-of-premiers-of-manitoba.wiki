@@ -1,0 +1,857 @@
+{{Short description|None}}
+{{Use Canadian English|date=January 2023}}
+{{Use mdy dates|date=January 2026}}
+The [[Provinces and territories of Canada|Canadian province]] of [[Manitoba]] was created in 1870.<ref>{{cite web|access-date=November 8, 2008 |url=http://www.collectionscanada.gc.ca/2/2/h2-1375-e.html |title=Entered Confederation: 1870 |date=May 10, 2001 |publisher=Library and Archives Canada |archive-url=https://web.archive.org/web/20081205122246/http://www.collectionscanada.gc.ca/2/2/h2-1375-e.html |archive-date=December 5, 2008 |url-status=dead }}</ref> Manitoba has a unicameral [[Westminster System|Westminster-style]] [[parliamentary government]], in which the premier is the leader of the party that controls the most seats in the [[Legislative Assembly of Manitoba|Legislative Assembly]].  The premier is Manitoba's [[head of government]], and the [[King of Canada]] is its [[head of state]] and is represented by the [[Lieutenant Governor of Manitoba]]. The premier picks a cabinet from the elected members to form the [[Executive Council of Manitoba]], and then presides over that body.<ref>{{cite web|access-date=November 8, 2008 |url=http://www.lg.gov.mb.ca/role/rr.html |title=Roles and Responsibilities |publisher=Lieutenant Governor of Manitoba |archive-url=https://web.archive.org/web/20080927140707/http://lg.gov.mb.ca/role/rr.html |archive-date=September 27, 2008 |url-status=dead }}</ref>
+
+Members are first elected to the legislature during [[List of Manitoba general elections|general elections]]. General elections must be conducted every four years from the date of the last election, but the premier may ask for early dissolution of the Legislative Assembly. An election may also happen if the governing party loses the confidence of the legislature by the defeat of a [[supply bill]] or [[Table (parliamentary)|tabling]] of a [[confidence motion]].<ref>{{cite web |access-date=December 11, 2013 |url=https://www.gov.mb.ca/hansard/education/faq/fact3.pdf |title=Legislative Terminology |work=Legislative Assembly of Manitoba |publisher=Government of Manitoba |url-status=dead |archive-url=https://web.archive.org/web/20140407063321/http://www.gov.mb.ca/hansard/education/faq/fact3.pdf |archive-date=April 7, 2014 }}</ref>
+
+Before 1888, Manitoba had no formal party system; premiers were officially non-partisan and were chosen by elected members of the Legislative Assembly from among themselves.<ref>{{cite web|title=Friendly Rivalries: Manitoba Elections Since 1966|url=http://www.cbc.ca/archives/categories/politics/provincial-territorial-politics/friendly-rivalries-manitoba-elections-since-1966/topic---friendly-rivalries-manitoba-elections-since-1966.html|access-date=December 11, 2013|publisher=CBC}}</ref>
+
+Manitoba has had 24 individuals serve as premier since the province was formed, of which six were [[Non-partisan democracy|non-partisan]], nine were [[Progressive Conservative Party of Manitoba|Progressive Conservatives]], four were [[Manitoba Liberal Party|Liberals]], five were [[New Democratic Party of Manitoba|New Democrats]] and one was [[Progressive Party of Manitoba|Progressive]]. However, during the early years of the province, the leading minister in the legislature was designated [[Provincial Secretary (Manitoba)|provincial secretary]] and the government was ''de facto'' led by the [[Lieutenant Governor of Manitoba]]; it was not until 1874 that [[responsible government]] was introduced and the title of "premier" used.<ref>Davd Burley, "The Emergence of the Premiership, 1870-1874," Manitoba Premiers of the 19th and 20th centuries, Barry Ferguson and Robert Wardhaugh, eds., Great Plains, 2010</ref> The early provincial secretaries, as the most prominent elected officials in the province, are retroactively counted as premiers in modern sources.
+
+This article only covers the time since the province was created in 1870. Before that, the territory was part of the District of Assiniboia in [[Rupert's Land]], and was loosely controlled by the [[Hudson's Bay Company]].<ref>{{cite web|access-date=November 8, 2008 |url=http://atlas.nrcan.gc.ca/site/english/maps/historical/territorialevolution/1870/1 |archive-url=https://archive.today/20120628163238/http://atlas.nrcan.gc.ca/site/english/maps/historical/territorialevolution/1870/1 |archive-date=June 28, 2012 |url-status=dead |title=Territorial Evolution, 1870 |publisher=Natural Resources Canada |date=April 6, 2004 }}</ref>
+
+[[Wab Kinew]] is the incumbent premier, since October 2023.
+
+On December 7, 2023, [[Louis Riel]] was granted the honorary title of "First Premier of Manitoba" after the ''Louis Riel Act'' received [[royal assent]].<ref>{{Cite canlaw|short title  =The Louis Riel Act|abbr =S.M.|year =2023|chapter =48|link =https://web2.gov.mb.ca/laws/statutes/2023/c04823.php?lang=en}}</ref><ref>{{cite news | last=Buffie | first=Nicole | date=19 February 2024 | title=Riel Formally Recognized as First Premier | url=https://www.winnipegfreepress.com/breakingnews/2024/02/19/riel-formally-recognized-as-first-premier | work=Winnipeg Free Press}}</ref> As it is an honorary title, however, [[Alfred Boyd]] remains the official first premier of the province.
+
+==Premiers of Manitoba==
+{{Canadian first minister list/top|references=yes}}
+|-
+|colspan="10"|'''Chief Ministers of Manitoba'''
+{{Canadian first minister list
+|name            = [[Alfred Boyd]]
+|jurisdiction    = MB
+|number          = 1
+|image           = Alfred Boyd.jpg
+|birth_year      = 1835
+|death_year      = 1908
+|party           = Non-partisan
+|riding          = [[St. Andrews North]]
+|term_start      = 1870-09-16
+|term_end        = 1871-12-14 
+|event1          = establishment
+|event1_year     = 1870
+|event1_assembly = none
+|event2          = election
+|event2_year     = 1870
+|event2_assembly = 1st
+|references      =<ref name=deceased>{{cite web|title=Biographies of Deceased Members|url=https://www.gov.mb.ca/legislature/members/mla_bio_deceased.html|publisher=Legislative Assembly of Manitoba|access-date=April 3, 2013|date=August 4, 2009}}</ref>
+|accomplishments = Officially titled as the [[Provincial Secretary]] of Manitoba until January 1871 and Minister of Public Works and Agriculture until December. In practice, Lieutenant Governor [[Adams George Archibald|Adams Archibald]] acted as head of the executive branch of government.
+}}
+{{Canadian first minister list
+|name            = [[Marc-Amable Girard]]
+|jurisdiction    = MB
+|number          = 2
+|number_sub      = 1 of 2
+|image           = Marc-Amable Girard.jpg
+|birth_year      = 1822
+|death_year      = 1892
+|party           = Non-partisan
+|riding          = [[St. Boniface East]]
+|term_start      = 1871-12-14
+|term_end        = 1872-03-14
+|event1          = appointment
+|event1_year     = 1871
+|event1_assembly = 1st
+|references      = <ref name=deceased/>
+|accomplishments = Officially titled as the Provincial Treasurer during the time he is credited as being chief minister. In practice, Lieutenant Governor [[Adams George Archibald|Adams Archibald]] acted as head of the executive branch of government.
+}}
+{{Canadian first minister list
+|name            = [[Henry Joseph Clarke]]
+|jurisdiction    = MB
+|number          = 3
+|image           = Henry Joseph Clarke.jpg
+|birth_year      = 1833
+|death_year      = 1889
+|party           = Non-partisan
+|riding          = [[St. Charles (electoral district)|St. Charles]]
+|term_start      = 1872-03-14
+|term_end        = 1874-07-08
+|event1          = appointment
+|event1_year     = 1872
+|event1_assembly = 1st
+|references      = <ref name=deceased/>
+|accomplishments = Officially titled as Attorney-General during the time he is credited as being chief minister. In practice, Lieutenant Governor [[Adams George Archibald|Adams Archibald]] acted as head of the executive branch of government.
+}}
+|-
+|colspan="10"|'''Premiers of Manitoba'''
+{{Canadian first minister list
+|name            = [[Marc-Amable Girard]]
+|jurisdiction    = MB
+|number          = &mdash;
+|number_sub      = 2 of 2
+|image           = Marc-Amable Girard.jpg
+|birth_year      = 1822
+|death_year      = 1892
+|party           = Non-partisan
+|riding          = [[St. Boniface East]]
+|term_start      = 1874-07-08
+|term_end        = 1874-12-02
+|event1          = appointment
+|event1_year     = 
+|event1_assembly = 1st
+|references      = <ref name=deceased/>
+}}
+
+{{Canadian first minister list
+|name            = [[Robert Atkinson Davis]]
+|jurisdiction    = MB
+|number          = 4
+|image           = Robert Atkinson Davies.jpg
+|birth_year      = 1841
+|death_year      = 1903
+|party           = Non-partisan
+|riding          = [[Winnipeg and St. John]]
+|riding_term     = 1874
+|riding2         = [[Winnipeg (provincial electoral district)|Winnipeg]]
+|riding2_term    = 1874-1878
+|term_start      = 1874-12-03
+|term_end        = 1878-10-16
+|event1          = appointment
+|event1_year     = 1874
+|event1_assembly = 1st
+|event2          = election
+|event2_year     = 1874
+|event2_assembly = 2nd
+|references      = <ref name=deceased/>
+}}
+
+{{Canadian first minister list
+|name            = [[John Norquay]]
+|jurisdiction    = MB
+|number          = 5
+|image           = JohnNorquay.jpg
+|birth_year      = 1841
+|death_year      = 1889
+|party           = Non-partisan
+|riding          = [[St. Andrews South]]
+|riding_term     = 1878-1879
+|riding2         = [[St. Andrews (electoral district)|St. Andrews]]
+|riding2_term    = 1879-1887
+|term_start      = 1878-10-16
+|term_end        = 1887-12-24
+|event1          = appointment
+|event1_year     = 1878
+|event1_assembly = 2nd
+|event2          = election
+|event2_year     = 1878
+|event2_assembly = 3rd
+|event3          = election
+|event3_year     = 1879
+|event3_assembly = 4th
+|event4          = election
+|event4_year     = 1883
+|event4_assembly = 5th
+|event5          = election
+|event5_year     = 1886
+|event5_assembly = 6th
+|references      = <ref name=deceased/>
+}}
+
+{{Canadian first minister list
+|name            = [[David Howard Harrison]]
+|jurisdiction    = MB
+|number          = 6
+|image           = David Howard Harrison.png
+|birth_year      = 1843
+|death_year      = 1905
+|party           = Non-partisan
+|riding          = [[Minnedosa West]]
+|term_start      = 1887-12-26
+|term_end        = 1888-01-19
+|event1          = appointment
+|event1_year     = 1887
+|event1_assembly = 6th
+|references      = <ref name=deceased/>
+}}
+
+{{Canadian first minister list
+|name            = [[Thomas Greenway]]
+|jurisdiction    = MB
+|number          = 7
+|image           = Thomas Greenway.png
+|birth_year      = 1838
+|death_year      = 1908
+|party           = Liberal
+|riding          = [[Mountain (electoral district)|Mountain]]
+|term_start      = 1888-01-19
+|term_end        = 1900-01-06
+|event1          = appointment
+|event1_year     = 1888
+|event1_assembly = 6th
+|event2          = election
+|event2_year     = 1888
+|event2_assembly = 7th
+|event3          = election
+|event3_year     = 1892
+|event3_assembly = 8th
+|event4          = election
+|event4_year     = 1896
+|event4_assembly = 9th
+|references      = <ref name=deceased/>
+}}
+
+{{Canadian first minister list
+|name            = [[Hugh John Macdonald]]
+|title           = Sir
+|jurisdiction    = MB
+|number          = 8
+|image           = Hugh John Macdonald.jpg
+|birth_year      = 1850
+|death_year      = 1929
+|party           = Conservative
+|riding          = [[Winnipeg South (provincial electoral district)|Winnipeg South]]
+|term_start      = 1900-01-10
+|term_end        = 1900-10-29
+|event1          = election
+|event1_year     = 1899
+|event1_assembly = 10th
+|references      = <ref name=deceased/>
+}}
+
+{{Canadian first minister list
+|name            = [[Rodmond Roblin]]
+|title           = Sir
+|jurisdiction    = MB
+|number          = 9
+|image           = Rodmond Palen Roblin.jpg
+|birth_year      = 1853
+|death_year      = 1937
+|party           = Conservative
+|riding          = [[Woodlands (electoral district)|Woodlands]]
+|riding_term     = 1900-1903
+|riding2         = [[Dufferin (Manitoba provincial electoral district)|Dufferin]]
+|riding2_term    = 1903-1915
+|term_start      = 1900-10-29
+|term_end        = 1915-05-12
+|event1          = appointment
+|event1_year     = 1900
+|event1_assembly = 10th
+|event2          = election
+|event2_year     = 1903
+|event2_assembly = 11th
+|event3          = election
+|event3_year     = 1907
+|event3_assembly = 12th
+|event4          = election
+|event4_year     = 1910
+|event4_assembly = 13th
+|event5          = election
+|event5_year     = 1914
+|event5_assembly = 14th
+|references      = <ref name=deceased/>
+}}
+
+{{Canadian first minister list
+|name            = [[Tobias Norris]]
+|jurisdiction    = MB
+|number          = 10
+|image           = Tobias Crawford Norris.jpg
+|birth_year      = 1861
+|death_year      = 1936
+|party           = Liberal
+|riding          = [[Lansdowne (electoral district)|Lansdowne]]
+|term_start      = 1915-05-12
+|term_end        = 1922-08-08
+|event1          = appointment
+|event1_year     = 1915
+|event1_assembly = 14th
+|event2          = election
+|event2_year     = 1915
+|event2_assembly = 15th
+|event3          = election
+|event3_year     = 1920
+|event3_assembly = 16th
+|references      = <ref name=deceased/>
+}}
+
+{{Canadian first minister list
+|name            = [[John Bracken]]
+|jurisdiction    = MB
+|number          = 11
+|image           = John Bracken circa 1941.jpg
+|birth_year      = 1883
+|death_year      = 1969
+|party           = Progressive
+|riding          = [[The Pas (electoral district)|The Pas]]
+|term_start      = 1922-08-08
+|term_end        = 1943-01-14
+|event1          = election
+|event1_year     = 1922
+|event1_assembly = 17th
+|event2          = election
+|event2_year     = 1927
+|event2_assembly = 18th
+|event3          = election
+|event3_year     = 1932
+|event3_assembly = 19th
+|event4          = election
+|event4_year     = 1936
+|event4_assembly = 20th
+|event5          = election
+|event5_year     = 1941
+|event5_assembly = 21st
+|references      = <ref name=deceased/>
+}}
+
+{{Canadian first minister list
+|name            = [[Stuart Garson]]
+|jurisdiction    = MB
+|number          = 12
+|image           = Stuart Garson.jpg
+|birth_year      = 1898
+|death_year      = 1977
+|party           = Liberal-Progressive
+|riding          = [[Fairford (electoral district)|Fairford]]
+|term_start      = 1943-01-14
+|term_end        = 1948-11-13
+|event1          = appointment
+|event1_year     = 1943
+|event1_assembly = 21st
+|event2          = election
+|event2_year     = 1945
+|event2_assembly = 22nd
+|references      = <ref name=deceased/>
+}}
+
+{{Canadian first minister list
+|name            = [[Douglas Lloyd Campbell]]
+|jurisdiction    = MB
+|number          = 13
+|image           = 
+|birth_year      = 1895
+|death_year      = 1995
+|party           = Liberal-Progressive
+|riding          = [[Lakeside (electoral district)|Lakeside]]
+|term_start      = 1948-11-13
+|term_end        = 1958-06-30
+|event1          = appointment
+|event1_year     = 1948
+|event1_assembly = 22nd
+|event2          = election
+|event2_year     = 1949
+|event2_assembly = 23rd
+|event3          = election
+|event3_year     = 1953
+|event3_assembly = 24th
+|references      = <ref name=deceased/>
+}}
+
+{{Canadian first minister list
+|name            = [[Dufferin Roblin]]
+|jurisdiction    = MB
+|number          = 14
+|leadership      = [[Progressive Conservative Party of Manitoba leadership elections#1954 Progressive Conservative leadership convention|1954]]
+|image           = Dufferin Roblin portrait 1957.jpg
+|birth_year      = 1917
+|death_year      = 2010
+|party           = PC
+|riding          = [[Wolseley (Manitoba electoral district)|Wolseley]]
+|term_start      = 1958-06-30
+|term_end        = 1967-11-27
+|event1          = election
+|event1_year     = 1958
+|event1_assembly = 25th
+|event2          = election
+|event2_year     = 1959
+|event2_assembly = 26th
+|event3          = election
+|event3_year     = 1962
+|event3_assembly = 27th
+|event4          = election
+|event4_year     = 1966
+|event4_assembly = 28th
+|references      = <ref name=deceased/>
+}}
+
+{{Canadian first minister list
+|name            = [[Walter Weir]]
+|jurisdiction    = MB
+|number          = 15
+|leadership      = [[Progressive Conservative Party of Manitoba leadership elections#1967 Progressive Conservative leadership convention|1967]]
+|image           = Walter Cox-Smith Weir portrait 1969.jpg
+|birth_year      = 1929
+|death_year      = 1985
+|party           = PC
+|riding          = [[Minnedosa (electoral district)|Minnedosa]]
+|term_start      = 1967-11-27
+|term_end        = 1969-07-15
+|event1          = appointment
+|event1_year     = 1967
+|event1_assembly = 28th
+|references      = <ref name=deceased/>
+}}
+
+{{Canadian first minister list
+|name            = [[Edward Schreyer]]
+|jurisdiction    = MB
+|number          = 16
+|leadership      = [[1969 New Democratic Party of Manitoba leadership election|1969]]
+|image           = Edward Richard Schreyer.jpg
+|birth_year      = 1935
+|party           = NDP
+|riding          = [[Rossmere]]
+|term_start      = 1969-07-15
+|term_end        = 1977-10-24
+|event1          = election
+|event1_year     = 1969
+|event1_assembly = 29th
+|event2          = election
+|event2_year     = 1973
+|event2_assembly = 30th
+|references      = <ref name=living/>
+}}
+
+{{Canadian first minister list
+|name            = [[Sterling Lyon]]
+|jurisdiction    = MB
+|number          = 17
+|leadership      = [[Progressive Conservative Party of Manitoba leadership elections#1975 Progressive Conservative leadership convention|1975]]
+|image           = Sterling Lyon (cropped).jpg
+|birth_year      = 1927
+|death_year      = 2010
+|party           = PC
+|riding          = [[Charleswood (electoral district)|Charleswood]]
+|term_start      = 1977-10-24
+|term_end        = 1981-11-30
+|event1          = election
+|event1_year     = 1977
+|event1_assembly = 31st
+|references      = <ref name=deceased/>
+}}
+
+{{Canadian first minister list
+|name            = [[Howard Pawley]]
+|jurisdiction    = MB
+|number          = 18
+|leadership      = [[New Democratic Party of Manitoba leadership elections#1979 leadership convention|1979]]
+|image           = 
+|birth_year      = 1934
+|death_year      = 2015
+|party           = NDP
+|riding          = [[Selkirk (provincial electoral district)|Selkirk]]
+|term_start      = 1981-11-30
+|term_end        = 1988-05-09
+|event1          = election
+|event1_year     = 1981
+|event1_assembly = 32nd
+|event2          = election
+|event2_year     = 1986
+|event2_assembly = 33rd
+|references      = <ref name=living>{{cite web|title=Biographies of Living Members|url=https://www.gov.mb.ca/legislature/members/mla_bio_living.html|publisher=Legislative Assembly of Manitoba|access-date=April 3, 2013|date=November 4, 2009}}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[Gary Filmon]]
+|jurisdiction    = MB
+|number          = 19
+|leadership      = [[Progressive Conservative Party of Manitoba leadership elections#1983 Progressive Conservative leadership convention|1983]]
+|image           = 
+|birth_year      = 1942
+|party           = PC
+|riding          = [[Tuxedo (electoral district)|Tuxedo]]
+|term_start      = 1988-05-09
+|term_end        = 1999-10-05
+|event1          = election
+|event1_year     = 1988
+|event1_assembly = 34th
+|event2          = election
+|event2_year     = 1990
+|event2_assembly = 35th
+|event3          = election
+|event3_year     = 1995
+|event3_assembly = 36th
+|references      = <ref name=living/>
+}}
+
+{{Canadian first minister list
+|name            = [[Gary Doer]]
+|jurisdiction    = MB
+|number          = 20
+|leadership      = [[New Democratic Party of Manitoba leadership elections#1988 leadership convention|1988]]
+|image           = Gary Doer 2014.jpg
+|birth_year      = 1948
+|party           = NDP
+|riding          = [[Concordia (electoral district)|Concordia]]
+|term_start      = 1999-10-05
+|term_end        = 2009-10-19
+|event1          = election
+|event1_year     = 1999
+|event1_assembly = 37th
+|event2          = election
+|event2_year     = 2003
+|event2_assembly = 38th
+|event3          = election
+|event3_year     = 2007
+|event3_assembly = 39th
+|references      = <ref name=living/>
+}}
+
+{{Canadian first minister list
+|name            = [[Greg Selinger]]
+|jurisdiction    = MB
+|number          = 21
+|leadership      = [[2009 New Democratic Party of Manitoba leadership election|2009]], [[2015 New Democratic Party of Manitoba leadership election|2015]]
+|image           = Greg Selinger 2010.jpg
+|birth_year      = 1951
+|party           = NDP
+|riding          = [[St. Boniface (provincial electoral district)|St. Boniface]]
+|term_start      = 2009-10-19
+|term_end        = 2016-05-03
+|event1          = appointment
+|event1_year     = 2009
+|event1_assembly = 39th
+|event2          = election
+|event2_year     = 2011
+|event2_assembly = 40th
+|references      = <ref name=living/>
+}}
+
+{{Canadian first minister list
+|name            = [[Brian Pallister]]
+|jurisdiction    = MB
+|number          = 22
+|leadership      = 2012 acclamation
+|image           = Brian-Pallister-2017-Portrait-Crop.jpg
+|birth_year      = 1954
+|party           = PC
+|riding          = [[Fort Whyte]]
+|term_start      = 2016-05-03
+|term_end        = 2021-09-01
+|event1          = election
+|event1_year     = 2016
+|event1_assembly = 41st
+|event2          = election
+|event2_year     = 2019
+|event2_assembly = 42nd
+|references      = <ref name=living/>
+}}
+
+{{Canadian first minister list
+|name            = [[Kelvin Goertzen]]
+|jurisdiction    = MB
+|number          = 23
+|leadership      = 2021 interim appointment
+|image           = Kelvin Goertzen.jpg
+|birth_year      = 1969
+|party           = PC
+|riding          = [[Steinbach (electoral district)|Steinbach]]
+|term_start      = 2021-09-01
+|term_end        = 2021-11-02
+|event1          = appointment
+|event1_year     = 2021
+|event1_assembly = 42nd
+|event2          = 
+|event2_year     = 
+|event2_assembly = 
+|references      = <ref name=living/>
+}}
+
+{{Canadian first minister list
+|name            = [[Heather Stefanson]]
+|jurisdiction    = MB
+|number          = 24
+|leadership      = [[2021 Progressive Conservative Party of Manitoba leadership election|2021]]
+|image           = Heather_Stefanson_(cropped).jpg
+|birth_year      = 1970
+|party           = PC
+|riding          = [[Tuxedo (electoral district)|Tuxedo]]
+|term_start      = 2021-11-02
+|term_end        = 2023-10-18
+|event1          = appointment
+|event1_year     = 2021
+|event1_assembly = 42nd
+|event2          = 
+|event2_year     = 
+|event2_assembly = 
+|references      = <ref name=living/>
+}}
+
+{{Canadian first minister list
+|name            = [[Wab Kinew]]
+|jurisdiction    = MB
+|number          = 25
+|leadership      = [[2017 Manitoba New Democratic Party leadership election|2017]]
+|image           = Wab Kinew October 2023 (cropped).jpg
+|birth_year      = 1981
+|party           = NDP
+|riding          = [[Fort Rouge (electoral district)|Fort Rouge]]
+|term_start      = 2023-10-18
+|term_end        = 
+|event1          = election
+|event1_year     = 2023
+|event1_assembly = 43rd
+|event2          = 
+|event2_year     = 
+|event2_assembly = 
+|references      = <ref name=living/>
+}}
+{{Canadian first minister list/bottom|colspan=10|notes=
+}}
+
+== List of premiers by time in office ==
+{| class="wikitable sortable"
+! Rank
+! Premier 
+! Incumbency 
+! colspan="2" | Terms of office 
+! Mandates
+!Party
+!Ref.
+|-
+| style="text-align: center;"| 1 
+| {{sortname|John|Bracken}}
+| {{ayd|1922|08|08|1943|01|14}} 
+| August 8, 1922 
+|January 14, 1943
+| 5{{efn|Includes the [[1922 Manitoba general election|1922 election]] won by the leaderless Progressives who asked Bracken to lead their government after the election.}}
+| {{Canadian party colour|MB|Progressive|colour&name}}
+|<ref name=deceased>{{cite web|title=Biographies of Deceased Members|url=https://www.gov.mb.ca/legislature/members/mla_bio_deceased.html|publisher=Legislative Assembly of Manitoba|access-date=April 3, 2013|date=August 4, 2009}}</ref>
+|-
+| style="text-align: center;"| 2 
+| {{sortname|Rodmond|Roblin}} 
+| {{ayd|1900|10|29|1915|05|12}} 
+| October 29, 1900 
+|May 12, 1915
+| 4
+| {{Canadian party colour|MB|Conservative|colour&name}}
+|<ref name="deceased" />
+|-
+| style="text-align: center;"| 3 
+| {{sortname|Thomas|Greenway}} 
+| {{ayd|1888|01|19|1900|01|06}} 
+| January 19, 1888 
+|January 6, 1900
+| 3
+| {{Canadian party colour|MB|Liberal|colour&name}}
+|<ref name="deceased" />
+|-
+| style="text-align: center;"| 4 
+| {{sortname|Gary|Filmon}} 
+| {{ayd|1988|05|09|1999|10|05}} 
+| May 9, 1988 
+|October 5, 1999
+| 3
+| {{Canadian party colour|MB|PC|colour&name}}
+| <ref name=living>{{cite web|title=Biographies of Living Members|url=https://www.gov.mb.ca/legislature/members/mla_bio_living.html|publisher=Legislative Assembly of Manitoba|access-date=April 3, 2013|date=November 4, 2009}}</ref>
+|-
+| style="text-align: center;"| 5 
+| {{sortname|Gary|Doer}} 
+| {{ayd|1999|10|05|2009|10|19}} 
+| October 5, 1999 
+|October 19, 2009
+| 3
+| {{Canadian party colour|MB|NDP|colour&name}}
+|<ref name="living" />
+|-
+| style="text-align: center;"| 6 
+| {{sortname|Douglas Lloyd|Campbell}}
+| {{ayd|1948|11|13|1958|06|30}} 
+| November 13, 1948 
+|June 30, 1958
+| 2
+| {{Canadian party colour|MB|Liberal-Progressive|colour&name}}
+|<ref name="deceased" />
+|-
+| style="text-align: center;"| 7 
+| {{sortname|Dufferin|Roblin}} 
+| {{ayd|1958|06|30|1967|11|27}} 
+| June 30, 1958 
+|November 27, 1967
+| 4
+| {{Canadian party colour|MB|PC|colour&name}}
+|<ref name="deceased" />
+|-
+| style="text-align: center;"| 8 
+| {{sortname|John|Norquay}} 
+| {{ayd|1878|10|16|1887|12|24}} 
+| October 16, 1878 
+|December 24, 1887
+| 4
+| {{Canadian party colour|MB|Independent|colour&name}}
+|<ref name="deceased" />
+|-
+| style="text-align: center;"| 9 
+| {{sortname|Edward|Schreyer}} 
+| {{ayd|1969|07|15|1977|10|24}} 
+| July 15, 1969 
+|October 24, 1977
+| 2
+| {{Canadian party colour|MB|NDP|colour&name}}
+|<ref name="living" />
+|-
+| style="text-align: center;"| 10 
+| {{sortname|Tobias|Norris}}
+| {{ayd|1915|05|12|1922|08|08}} 
+| May 12, 1915 
+|August 8, 1922
+| 2
+| {{Canadian party colour|MB|Liberal|colour&name}}
+|<ref name="deceased" />
+|-
+| style="text-align: center;"| 11 
+| {{sortname|Greg|Selinger}} 
+| {{ayd|2009|10|19|2016|5|3}} 
+| October 19, 2009 
+|May 3, 2016
+| 1
+| {{Canadian party colour|MB|NDP|colour&name}}
+|<ref name="living" />
+|-
+| style="text-align: center;"| 12 
+| {{sortname|Howard|Pawley}} 
+| {{ayd|1981|11|30|1988|05|09}} 
+| November 30, 1981 
+|May 9, 1988
+| 2
+| {{Canadian party colour|MB|NDP|colour&name}}
+|<ref name="living" />
+|-
+| style="text-align: center;"| 13
+| {{sortname|Stuart|Garson}}
+| {{ayd|1943|01|14|1948|11|13}} 
+| January 14, 1943 
+|November 13, 1948
+| 1
+| {{Canadian party colour|MB|Liberal-Progressive|colour&name}}
+|<ref name="deceased" />
+|-
+| style="text-align: center;"| 14 
+| {{sortname|Brian|Pallister}} 
+| {{ayd|2016|5|3|2021|9|1}} 
+| May 3, 2016 
+|September 1, 2021
+| 2
+| {{Canadian party colour|MB|Conservative|colour&name}}
+|
+|-
+| style="text-align: center;"| 15 
+| {{sortname|Sterling|Lyon}} 
+| {{ayd|1977|10|24|1981|11|17}} 
+| October 24, 1977 
+|November 17, 1981
+| 1
+| {{Canadian party colour|MB|Conservative|colour&name}}
+|<ref name="deceased" />
+|-
+| style="text-align: center;"| 16 
+| {{sortname|Robert Atkinson|Davis}} 
+| {{ayd|1874|12|03|1878|10|16}} 
+| December 3, 1874 
+|October 16, 1878
+| 1
+| {{Canadian party colour|MB|Independent|colour&name}}
+|<ref name="deceased" />
+|-
+| style="text-align: center;"| 17
+|'''{{sortname|Wab|Kinew}}''' ''(incumbent)''
+|{{ayd|2023|10|18|||}}
+|October 18, 2023
+|''Incumbent''
+|1
+|{{Canadian party colour|MB|NDP|colour&name}}
+|-
+| style="text-align: center;"| 18 
+| {{sortname|Henry Joseph|Clarke}} 
+| {{ayd|1872|03|14|1874|07|08}} 
+| March 14, 1872 
+|July 8, 1874
+| 0
+| {{Canadian party colour|MB|Independent|colour&name}}
+|<ref name="deceased" />
+|-
+| style="text-align: center;"| 19
+| {{sortname|Heather|Stefanson}}
+| {{ayd|2021|11|2|2023|10|18}}
+| November 2, 2021 
+|October 18, 2023
+| 0
+| {{Canadian party colour|MB|Conservative|colour&name}}
+|-
+| style="text-align: center;"| 20
+| {{sortname|Walter|Weir}} 
+| {{ayd|1967|11|27|1969|07|15}} 
+| November 27, 1967 
+|July 15, 1969
+| 0
+| {{Canadian party colour|MB|Conservative|colour&name}}
+|<ref name="deceased" />
+|-
+| style="text-align: center;"| 21
+| {{sortname|Alfred|Boyd}} 
+| {{ayd|1870|09|16|1871|12|14}} 
+| September 16, 1870 
+|December 14, 1871
+| 1
+| {{Canadian party colour|MB|Independent|colour&name}}
+|<ref name="deceased" />
+|-
+| style="text-align: center;"| 22
+| {{sortname|Hugh John|Macdonald}} 
+| {{ayd|1900|01|10|1900|10|29}} 
+| January 10, 1900 
+|October 29, 1900
+| 1
+| {{Canadian party colour|MB|Conservative|colour&name}}
+|<ref name="deceased" />
+|-
+| style="text-align: center;"| 23 
+| {{sortname|Marc-Amable|Girard}} 
+| {{ayd|1871|12|14|1872|03|14}} 
+| December 14, 1871 
+|March 14, 1872
+| 0
+| {{Canadian party colour|MB|Independent|colour&name}}
+|<ref name="deceased" />
+|-
+| style="text-align: center;"| 24
+| {{sortname|Kelvin|Goertzen}} 
+| {{ayd|2021|9|1|2021|11|2}} 
+| September 1, 2021 
+|November 2, 2021
+| 0
+| {{Canadian party colour|MB|PC|colour&name}}
+|
+|-
+| style="text-align: center;"| 25
+| {{sortname|David Howard|Harrison}} 
+| {{ayd|1887|12|26|1888|01|19}} 
+| December 26, 1887 
+|January 19, 1888
+| 0
+| {{Canadian party colour|MB|Independent|colour&name}}
+|<ref name="deceased" />
+|-
+|}
+
+==See also==
+* [[Premier of Manitoba]]
+* [[List of premiers of Manitoba by time in office]]
+* [[Leader of the Opposition (Manitoba)]]
+
+==Notes==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+* {{cite web|access-date=September 6, 2013|url=http://www.electionsmanitoba.ca/en/Resources/General_Elections|title=Dates of Manitoba General Elections |publisher=Elections Manitoba }}
+* {{cite web|access-date=September 6, 2013|url=http://www.electionsmanitoba.ca/en/Resources/Provincial_Premiers|title=Provincial Premiers |publisher=Elections Manitoba }}
+{{refend}}
+
+;Specific
+{{Reflist}}
+==External links==
+* [https://www.gov.mb.ca/minister/premier/index.html Office of the Premier] at the [[Province of Manitoba]]
+
+{{Canadian First Ministers}}
+{{Manitoba politics}}
+
+{{featured list}}
+
+{{DEFAULTSORT:List Of Premiers Of Manitoba}}
+[[Category:Lists of premiers of Canada by province or territory|Manitoba]]
+[[Category:Premiers of Manitoba|*]]
+[[Category:Lists of people from Manitoba|Premiers]]
+[[Category:Manitoba politics-related lists|Premiers]]

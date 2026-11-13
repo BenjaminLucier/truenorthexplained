@@ -1,0 +1,81 @@
+---
+/**
+ * The frame for a chart over time (1867 to today, see `xOf` in
+ * src/lib/election-history.ts): a y-axis gutter, gridlines and year labels,
+ * with three layers for the marks.
+ *
+ *   <TimePlot height={200} yMin={0} yMax={100} yTicks={[0, 50, 100]} yFormat={(v) => `${v}%`}>
+ *     <path d="…" />                         <!-- default slot: in viewBox 0 0 1000 height, stretched -->
+ *     <Fragment slot="dots">…</Fragment>     <!-- unstretched SVG: use xPct(x) for cx, pixels for cy -->
+ *     <Fragment slot="hits">…</Fragment>     <!-- stretched, on top: the tooltip stops -->
+ *   </TimePlot>
+ *
+ * Marks in the stretched layers should use `vector-effect: non-scaling-stroke`.
+ */
+import { X_TICKS, xOf, xPct } from "../../lib/election-history";
+
+interface Props {
+  height: number;
+  yMin: number;
+  yMax: number;
+  yTicks: number[];
+  yFormat?: (v: number) => string;
+  /** Name for the group of stops, read by screen readers. */
+  label: string;
+  /** Show only these year labels (narrow small multiples). */
+  xTicks?: number[];
+}
+const { height: H, yMin, yMax, yTicks, yFormat = (v: number) => String(v), label, xTicks = X_TICKS } = Astro.props;
+const y = (v: number) => H - ((v - yMin) / (yMax - yMin)) * H;
+---
+
+<div class="grid grid-cols-[2.25rem_minmax(0,1fr)]">
+  <div class="relative text-[11px] text-muted" aria-hidden="true">
+    {
+      yTicks.map((v) => (
+        <span class="absolute right-1.5 -translate-y-1/2 leading-none" style={`top: ${((y(v) / H) * 100).toFixed(2)}%`}>
+          {yFormat(v)}
+        </span>
+      ))
+    }
+  </div>
+  <div class="relative" style={`height: ${H}px`}>
+    <svg class="absolute inset-0 block size-full overflow-visible" viewBox={`0 0 1000 ${H}`} preserveAspectRatio="none" aria-hidden="true">
+      {yTicks.map((v) => <line x1="0" x2="1000" y1={y(v)} y2={y(v)} class:list={["tp-grid", { "tp-base": v === yMin }]} />)}
+      <slot />
+    </svg>
+    <svg class="absolute inset-0 block size-full overflow-visible" aria-hidden="true">
+      <slot name="dots" />
+    </svg>
+    <svg class="absolute inset-0 block size-full" viewBox={`0 0 1000 ${H}`} preserveAspectRatio="none" role="group" aria-label={label}>
+      <slot name="hits" />
+    </svg>
+  </div>
+  <span></span>
+  <div class="relative mt-1.5 h-4 text-[11px] text-muted" aria-hidden="true">
+    {
+      xTicks.map((t, k) => (
+        <span
+          class:list={["absolute leading-none", k === 0 ? "" : k === xTicks.length - 1 && xOf(t) > 960 ? "-translate-x-full" : "-translate-x-1/2"]}
+          style={`left: ${k === 0 ? "0%" : xPct(Math.min(xOf(t), 1000))}`}
+        >
+          {t}
+        </span>
+      ))
+    }
+  </div>
+</div>
+
+<style>
+  .tp-grid {
+    stroke: var(--tn-border);
+    stroke-width: 1;
+    vector-effect: non-scaling-stroke;
+  }
+  .tp-base {
+    stroke: var(--tn-border-strong);
+  }
+  :global(.tp-hit) {
+    fill: transparent;
+  }
+</style>

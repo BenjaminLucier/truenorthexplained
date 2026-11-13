@@ -1,0 +1,782 @@
+{{Short description|none}}
+{{more citations needed|date=June 2019}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 1925 Canadian federal election
+| country = Canada
+| flag_year = 1921
+| type = parliamentary
+| ongoing = no
+| party_colour = no
+| party_name = no
+| previous_election = 1921 Canadian federal election
+| previous_year = 1921
+| next_election = 1926 Canadian federal election
+| next_year = 1926
+| seats_for_election = 245 seats in the [[House of Commons of Canada|House of Commons]]
+| majority_seats = 123
+| turnout = 66.4%<ref>{{cite web|title=Voter Turnout at Federal Elections and Referendums
+|url=http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|access-date=10 March 2019}}</ref> ({{decrease}} 1.3 [[Percentage Point|pp]])
+| election_date = October 29, 1925
+| elected_members = 15th Canadian Parliament
+| outgoing_members = 14th Canadian Parliament
+| image_size =  
+| image1 =  {{CSS image crop|Image =Former PM Arthur Meighen (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour1 = {{Canadian party colour|CA|Conservative (historical)|nohash}}
+| leader1 = [[Arthur Meighen]]
+| leader_since1 = July 10, 1920
+| party1 = {{Canadian party colour|CA|Conservative (historical)|name}}
+| leaders_seat1 = [[Grenville (electoral district)|Grenville]]<br />{{small|''candidate in''<br> [[Portage la Prairie (federal electoral district)|Portage la Prairie]]}}
+| last_election1 = 49 seats, 29.95%
+| seats1 = 115
+| seat_change1 = {{increase}} 66
+| popular_vote1 = 1,454,253
+| percentage1 = 46.13%
+| swing1 = {{increase}} 16.18 [[Percentage Point|pp]]
+| image2 =  {{CSS image crop|Image =King1919HeadShot (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour2 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader2 = [[William Lyon Mackenzie King|W. L. Mackenzie King]]
+| leader_since2 = [[1919 Liberal Party of Canada leadership election|August 7, 1919]]
+| party2 = {{Canadian party colour|CA|Liberal|name}}
+| leaders_seat2 = [[York North]] <br>''(lost re-election)''
+| last_election2 = 118 seats, 41.15%
+| seats2 = 100{{efn|The Liberals did not win the most seats, but formed government with the support of Farmer/Progressive [[Member of Parliament (Canada)|MP]]s.}}
+| seat_change2 = {{decrease}} 18
+| popular_vote2 = 1,252,684
+| percentage2 = 39.74%
+| swing2 = {{decrease}} 1.41 [[Percentage Point|pp]]
+| image3 =  {{CSS image crop|Image =Robert Forke.jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour3 = {{Canadian party colour|CA|Progressive|nohash}}
+| leader3 = [[Robert Forke]]
+| leader_since3 = November 11, 1922
+| party3 = {{Canadian party colour|CA|Progressive|name}}
+| leaders_seat3 = [[Brandon (electoral district)|Brandon]]
+| last_election3 = 58 seats, 21.09%
+| seats3 = 22
+| seat_change3 = {{decrease}} 36
+| popular_vote3 = 266,319
+| percentage3 = 8.45%
+| swing3 = {{decrease}} 12.65 [[Percentage Point|pp]]
+| image4 =  {{CSS image crop|Image =Ac.woodsworth.jpg|bSize = 125|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour4 = {{Canadian party colour|CA|Independent Labour|nohash}}
+| leader4 = [[J. S. Woodsworth]]
+| leader_since4 = December 6, 1921
+| party4 = [[Independent Labour Party (Manitoba, 1920)|Independent Labour]]
+| leaders_seat4 = [[Winnipeg North Centre]]
+| last_election4 = 3 seats, 2.73%
+| seats4 = 2
+| seat_change4 = {{decrease}} 1
+| popular_vote4 = 56,987
+| percentage4 = 1.81%
+| swing4 = {{decrease}} 0.93 [[Percentage Point|pp]]
+| image5 =  {{CSS image crop|Image =Herbert Greenfield - circa 1921-25 (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour5 = {{Canadian party colour|CA|United Farmers of Alberta|nohash}}
+| leader5 = [[Herbert Greenfield]]
+| leader_since5 = August 13, 1921
+| party5 = {{Canadian party colour|CA|United Farmers of Alberta|name}}
+| leaders_seat5 = ''Did not run''{{efn|The United Farmers of Alberta, which at the time formed the government in that province, did not have a separate party leader at the federal level. At the time of this election, party leader Herbert Greenfield was the [[Premier of Alberta]] and the MLA for [[Peace River (federal electoral district)|Peace River]] in the [[Legislative Assembly of Alberta]].}}
+| last_election5 = 2 seats, 0.71%
+| seats5 = 2
+| seat_change5 = {{steady}}
+| popular_vote5 = 8,053
+| percentage5 = 0.26%
+| swing5 = {{decrease}} 0.46 [[Percentage Point|pp]]
+| map_image = Canada 1925 Federal Election.svg
+| map_size = 350px
+| map_caption = 
+| title = Prime Minister
+| posttitle = Prime Minister after election
+| before_election = [[William Lyon Mackenzie King]]
+| before_party = {{Canadian party colour|CA|Liberal|name}}
+| after_election = [[William Lyon Mackenzie King]]
+| after_party = {{Canadian party colour|CA|Liberal|name}}
+| map2_image = Chambre des Communes 1925.png
+| map2_size = 350px
+| map2_caption = The Canadian parliament after the 1925 election
+}}
+The '''1925 Canadian federal election''' was held on October 29, 1925, to elect members  of the [[House of Commons of Canada]] of the [[15th Canadian Parliament|15th Parliament]] of [[Canada]].<ref>{{Cite journal|last=Sharp|first=Walter R.|date=1926|title=The Canadian Election of 1925|url=https://www.cambridge.org/core/product/identifier/S0003055400110056/type/journal_article|journal=American Political Science Review|language=en|volume=20|issue=1|pages=107–117|doi=10.2307/1945102|issn=0003-0554|url-access=subscription}}</ref> The Conservative party took the most seats in the House of Commons, although not a majority. [[Prime Minister of Canada|Prime Minister]] [[William Lyon Mackenzie King]]'s [[Liberal Party of Canada|Liberal Party]] was invited to form a [[minority government]]. Unlike the Conservative party, King's Liberals had the conditional support of the many Farmer/Progressive MPs. As a result, this is the only election in which the party that won the most seats did not get to form a government afterward. 
+
+The government fell the following year. Governor General [[Julian Byng, 1st Viscount Byng of Vimy|Baron Byng of Vimy]] offered the Conservatives under Meighen a chance to form government. This too fell in short order. Byng's action in refusing King's request became the main issue of the [[1926 Canadian federal election|1926 election]] under the name "[[King&ndash;Byng Affair]]".
+
+==Background==
+The previous federal election in 1921 had seen Mackenzie King's Liberals fall narrowly short of winning a parliamentary majority, with [[Arthur Meighen]]'s [[Conservative Party of Canada (historical)|Conservatives]] falling to being the third-largest party, and the new [[Progressive Party of Canada|Progressive Party]], which had nominated candidates for the first time that year, held the balance of power. King was able to rule with the tacit support of the Progressives, and was not facing a statutory federal election until December 1926; however, a budget proposed in September 1925 by finance minister [[William Stevens Fielding]] was unexpectedly voted down in parliament, obligating Mackenzie King to resign as Prime Minister and recommend to the [[Governor General of Canada|Governor General]], [[Julian Byng, 1st Viscount Byng of Vimy|Baron Byng of Vimy]] to hold a new election (theoretically King could have recommended that Byng allow either Meighen or Progressive leader [[Robert Forke]] to form a government, but the Conservatives were far short of the number of MPs required to form a stable government, and Forke had no interest in being Prime Minister).
+
+==Aftermath and the King–Byng Affair==
+The Liberals won fewer seats than the Conservatives, who were left eight seats short of a majority. The Progressives lost almost two thirds of their seats from the previous election, but they still held enough seats to control the balance of power. King decided to hold on to power with the help of the Progressives. The Progressives were closely aligned with the Liberals and enabled King to form a minority government.
+
+That plan was complicated by the fact that his party won fewer seats than the Conservatives and that King himself had lost his seat in the House of Commons. Meighen was outraged by King's move and demanded for King to resign from the [[Prime Minister of Canada|Prime Minister]]'s office. Byng privately agreed that the Conservatives should be allowed to form the next government and felt that the Liberal-Progressive pact was a [[corrupt bargain]], but he found that there were no valid legal grounds for refusing to allow King to continue in office. King asked a Liberal Member of Parliament from [[Prince Albert, Saskatchewan]], to resign so that he could run in the resulting [[by-election]]. Prince Albert was one of the safest seats in Canada for the Liberals, and King won easily.
+
+With King back in Parliament, a huge scandal rocked the King cabinet when one of his appointees was discovered to be accepting bribes from a male lover.{{Citation needed|date=December 2019}} Anticipating a vote of censure by the Commons, King asked Byng to call an election. The Governor General refused, and King resigned on June 28, 1926. Meighen was then invited to form a government.
+
+King claimed that was interference in Canadian politics by an official appointed by a foreign power. King showed rare fire and rallied the Progressives back into his camp. He defeated Meighen on a vote of confidence after only three days, which made the Meighen government of 1926 the shortest-lasting government in Canadian history. This time, Byng called an election.
+
+==National results ==
+[[File:1925 Canadian parliament English version.svg|center|300px]]
+
+{| class="wikitable"
+!colspan=2 rowspan=2|Party
+!rowspan=2|Party leader
+!rowspan=2|# of <br /> candidates
+!colspan=3|Seats
+!colspan=3|Popular vote
+|- bgcolor="CCCCCC"
+|align=center|[[1921 Canadian federal election|1921]]
+|align=center|'''Elected'''
+|align=center|% Change
+|align=center|#
+|align=center|%
+|align=center|[[Percentage Point|pp]] Change
+{{Canadian party colour|CA|PC|row}}
+| [[Conservative Party of Canada (1867-1942)|Conservative]]
+|  [[Arthur Meighen]]
+|align="right"| 232
+|align="right"|49
+|align="right"| 115
+|align="right"|+132.7%
+|align="right"| 1,454,253
+|align="right"| 46.13%
+|align="right"|+16.18
+{{Canadian party colour|CA|Liberal|row}}
+| [[Liberal Party of Canada|Liberal]]
+| [[William Lyon Mackenzie King|W. L. Mackenzie King]]
+|align="right"| 217
+|align="right"|118
+|align="right"| 100
+|align="right"|-15.3%
+|align="right"| 1,259,279
+|align="right"| 39.94%
+|align="right"|-1.21
+{{Canadian party colour|CA|Progressive|row-name}}
+| [[Robert Forke]]
+|align="right"| 68
+|align="right"|58
+|align="right"| 22
+|align="right"|-62.1%
+|align="right"| 266,319
+|align="right"| 8.45%
+|align="right"|-12.65
+{{Canadian party colour|CA|Labour|row-name}}
+|  [[J.S. Woodsworth]]
+|align="right"| 20
+|align="right"|3
+|align="right"| 2
+|align="right"|-33.3%
+|align="right"| 56,987
+|align="right"|  1.81%
+|align="right"|-0.93
+{{Canadian party colour|CA|Independent|row}}
+|colspan=2|Independent
+|align="right"| 8
+|align="right"|2
+|align="right"| 2
+|align="right"|-
+|align="right"| 16,212
+|align="right"|  0.51%
+|align="right"|-2.52
+{{Canadian party colour|CA|AB United Farmers|row-name}}
+|&nbsp;
+|align="right"| 2 
+|align="right"|2
+|align="right"| 2
+|align="right"|-
+|align="right"| 8,053
+|align="right"| 0.26%
+|align="right"|-0.46
+{{Canadian party colour|CA|Independent Liberal|row}}
+|colspan=2|Independent Liberal
+|align="right"| 10
+|align="right"|-
+|align="right"| 1
+|align="right"|&nbsp;
+|align="right"| 31,140 
+|align="right"| 0.99%
+|align="right"|+0.90
+{{Canadian party colour|CA|Independent Conservative|row}}
+|colspan=2|Independent Conservative
+|align="right"| 6
+|align="right"|1
+|align="right"| 1
+|align="right"|-
+|align="right"| 16,759 
+|align="right"| 0.53%
+|align="right"|+0.14
+{{Canadian party colour|CA|unknown|row}}
+|colspan=2| Unknown
+|align="right"| 4
+|align="right"|-
+|align="right"| -
+|align="right"|-
+|align="right"| 13, 998
+|align="right"| 0.65%
+|align="right"|+0.16
+{{Canadian party colour|CA|Liberal-Protectionist|row-name}}
+| &nbsp;
+|align="right"| 2
+|align="right"|*
+|align="right"| -  
+|align="right"|*
+|align="right"| 6,915
+|align="right"| 0.22%
+|align="right"|*
+{{Canadian party colour|CA|Independent Liberal-Progressive|row}}
+|colspan=2| Independent [[Liberal-Progressive]]
+|align="right"| 1
+|align="right"|*
+|align="right"| -
+|align="right"|*
+|align="right"| 4,958
+|align="right"|  0.16%
+|align="right"|*
+{{Canadian party colour|CA|Labour-Farmer|row-name}}
+|&nbsp;
+|align="right"| 2
+|align="right"|*
+|align="right"| -  
+|align="right"|*
+|align="right"| 4,774
+|align="right"| 0.15%
+|align="right"|*
+{{Canadian party colour|CA|Liberal-Progressive|row-name}}
+|&nbsp;
+|align="right"| 1
+|align="right"|*
+|align="right"| -
+|align="right"|*
+|align="right"| 3,319
+|align="right"|  0.11%
+|align="right"|*
+{{Canadian party colour|CA|Independent Labour|row-name}}
+|align="right"|
+|align="right"| 1
+|align="right"|*
+|align="right"| -
+|align="right"|*
+|align="right"| 2,901
+|align="right"|  0.09%
+|align="right"|*
+{{Canadian party colour|CA|Socialist|row-name}}
+|&nbsp;
+|align="right"| 1
+|align="right"|-
+|align="right"| -
+|align="right"|-
+|align="right"| 1,888
+|align="right"| 0.06%
+|align="right"|-0.04
+{{Canadian party colour|CA|Independent Progressive|row}}
+|colspan=2|Independent Progressive
+|align="right"| 1
+|align="right"| 1
+|align="right"| -
+|align="right"|-100%
+|align="right"| 1,768
+|align="right"| 0.06%
+|align="right"|-0.05
+{{Canadian party colour|CA|Farmer|row-name}}
+|&nbsp;
+|align="right"| 1
+|align="right"|*
+|align="right"| -
+|align="right"|*
+|align="right"| 1,130
+|align="right"| 0.04%
+|align="right"|*
+{{Canadian party colour|CA|Progressive-Conservative|row}}
+| [[Progressive-Conservative (candidate)|Progressive-Conservative]]
+|&nbsp;
+|align="right"| 1
+|align="right"|*
+|align="right"| -
+|align="right"|*
+|align="right"| 1,120
+|align="right"| 0.04%
+|align="right"|*
+{{Canadian party colour|CA|Farmer-Labour|row-name}}
+|&nbsp;
+|align="right"| 1
+|align="right"|*
+|align="right"| - 
+|align="right"|*
+|align="right"| 762
+|align="right"| 0.02%
+|align="right"|*
+|-
+! colspan=3 align=left|Total
+! align="right"|579
+! align="right"|235
+! align="right"|245
+! align="right"|+3.8%
+! align="right"|3,152,525
+! align="right"| 100% 
+!&nbsp;
+|-
+| align="center" colspan=10|'''Sources:''' http://www.elections.ca -- [https://web.archive.org/web/20090609211221/http://www2.parl.gc.ca/Sites/LOP/HFER/hfer.asp?Language=E History of Federal Ridings since 1867]
+|-
+|}
+
+'''Notes:'''
+
+<nowiki>*</nowiki> not applicable - the party was not recognized in the previous election
+
+==Vote and seat summaries==
+{{Gallery
+|title=[[Ternary plot]]s - shift of electoral support (1921-1925)
+|width=350 | height=200 |noborder=yes
+|align=center
+|footer=Electoral districts identified by colours of winning parties
+|File:Ternary CA1921.svg
+ |1921
+ |alt1=Ternary plot of 1921 results
+|File:Ternary CA1925.svg
+ |1925
+ |alt2=Ternary plot of 1925 results
+}}
+
+
+
+{{Bar box
+| title    = Popular vote
+| titlebar = #ddd
+| width    = 600px
+| barwidth = 410px
+| bars     = 
+{{Bar percent|Conservative|#6495ED|46.13}}
+{{Bar percent|Liberal|#F08080|39.74}}
+{{Bar percent|Progressive|{{Canadian party colour|CA|Progressive}}|8.45}}
+{{Bar percent|Others|#DCDCDC|5.68}}
+}}
+
+{{Bar box
+| title    = Seat totals
+| titlebar = #ddd
+| width    = 600px
+| barwidth = 410px
+| bars     = 
+{{Bar percent|Conservative|#6495ED|46.94}}
+{{Bar percent|Liberal|#F08080|40.82}}
+{{Bar percent|Progressive|{{Canadian party colour|CA|Progressive}}|8.98}}
+{{Bar percent|Others|#DCDCDC|3.27}}
+}}
+
+==Results by province==
+
+{| class="wikitable"
+! align="center" colspan=3|Party name
+! align="center"|[[British Columbia|BC]]
+! align="center"|[[Alberta|AB]]
+! align="center"|[[Saskatchewan|SK]]
+! align="center"|[[Manitoba|MB]]
+! align="center"|[[Ontario|ON]]
+! align="center"|[[Quebec|QC]]
+! align="center"|[[New Brunswick|NB]]
+! align="center"|[[Nova Scotia|NS]]
+! align="center"|[[Prince Edward Island|PE]]
+! align="center"|[[Yukon|YK]]
+! align="center"|Total
+{{Canadian party colour|CA|PC|row}}
+| rowspan=2|[[Conservative Party of Canada (1867-1942)|Conservative]]
+| Seats:
+| align="right"| 10 <!--BC-->
+| align="right"| 3<!--Alb-->
+| align="right"| -  <!--Sask-->
+| align="right"|  7 <!--Man-->
+| align="right"| 67<!--Ont-->
+| align="right"| 4<!--Que-->
+| align="right"| 10<!--NB-->
+| align="right"|  11 <!--NS-->
+| align="right"| 2<!--PEI-->
+| align="right"| 1<!--YK-->
+| align="right"|115<!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| Popular Vote (%):
+| align="right"| 49.3<!--BC-->
+| align="right"| 31.8<!--Alb-->
+| align="right"| 25.4<!--Sask-->
+| align="right"| 41.3<!--Man-->
+| align="right"| 56.3<!--Ont-->
+| align="right"| 34.2<!--Que-->
+| align="right"| 59.7<!--NB-->
+| align="right"| 56.4<!--NS-->
+| align="right"| 33.1<!--PEI-->
+| align="right"|  59.4<!--YK-->
+| align="right"| 46.1<!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| rowspan=2|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| align="right"|  3<!--BC-->
+| align="right"|  4<!--Alb-->
+| align="right"| 15 <!--Sask-->
+| align="right"|  1<!--Man-->
+| align="right"|  12<!--Ont-->
+| align="right"|  59<!--Que-->
+| align="right"| 1 <!--NB-->
+| align="right"| 3<!--NS-->
+| align="right"|  2<!--PEI-->
+| align="right"| - <!--YK-->
+| align="right"| 100 <!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| Vote (%):
+| align="right"| 34.7 <!--BC-->
+| align="right"| 27.6 <!--Alb-->
+| align="right"| 41.9 <!--Sask-->
+| align="right"| 20.3<!--Man-->
+| align="right"| 30.9<!--Ont-->
+| align="right"| 59.6<!--Que-->
+| align="right"| 37.0<!--NB-->
+| align="right"| 41.9<!--NS-->
+| align="right"| 52.0<!--PEI-->
+| align="right"| 40.6<!--YK-->
+| align="right"| 39.7<!--Canada/Total-->
+{{Canadian party colour|CA|Progressive|row}}
+| rowspan=2|[[Progressive Party of Canada|Progressive]]
+| Seats:
+| align="right"| - <!--BC-->
+| align="right"| 7 <!--Alb-->
+| align="right"| 6 <!--Sask-->
+| align="right"| 7 <!--Man-->
+| align="right"| 2 <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"| &nbsp;<!--YK-->
+| align="right"|22<!--Canada/Total-->
+{{Canadian party colour|CA|Progressive|row}}
+| Vote (%):
+| align="right"| 6.1<!--BC-->
+| align="right"|  26.5 <!--Alb-->
+| align="right"| 31.8<!--Sask-->
+| align="right"| 25.1<!--Man-->
+| align="right"| 8.8 <!--Ont-->
+| align="right"| &nbsp;<!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"|  &nbsp;<!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"|  8.5<!--Canada/Total-->
+{{Canadian party colour|CA|Labour|row}}
+| rowspan=2|[[Labour Party of Canada|Labour]]
+| Seats:
+| align="right"| - <!--BC-->
+| align="right"| -  <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|2 <!--Man-->
+| align="right"| - <!--Ont-->
+| align="right"| - <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"| - <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"| 2<!--Canada/Total-->
+{{Canadian party colour|CA|Labour|row}}
+| Vote:
+| align="right"|6.3<!--BC-->
+| align="right"| 6.1<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| 9.6<!--Man-->
+| align="right"| 1.2<!--Ont-->
+| align="right"| 0.2 <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"|  1.6<!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"| 1.8 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2|Independent
+| Seats:
+| align="right"|1 <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"| - <!--Ont-->
+| align="right"|1 <!--Que-->
+| align="right"| - <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"| &nbsp;<!--PEI-->
+| align="right"| &nbsp;<!--YK-->
+| align="right"| 2<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote (%):
+| align="right"| 2.6<!--BC-->
+| align="right"|  &nbsp;<!--Alb-->
+| align="right"|  &nbsp; <!--Sask-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"| 0.6<!--Ont-->
+| align="right"| 1.4<!--Que-->
+| align="right"| 0.8 <!--NB-->
+| align="right"| &nbsp;   <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"| 0.5 <!--Canada/Total-->
+{{Canadian party colour|CA|AB United Farmers|row}}
+| rowspan=2|[[United Farmers of Alberta]]
+| Seats:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|2<!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"| &nbsp;<!--PEI-->
+| align="right"| &nbsp;<!--YK-->
+| align="right"|2<!--Canada/Total-->
+{{Canadian party colour|CA|AB United Farmers|row}}
+| Vote (%):
+| align="right"| &nbsp;<!--BC-->
+| align="right"| 5.0<!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"| &nbsp;<!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"| 0.3<!--Canada/Total-->
+{{Canadian party colour|CA|Independent Liberal|row}}
+| rowspan=2|Independent Liberal
+| Seats:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"| &nbsp;<!--Ont-->
+| align="right"|1  <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"| &nbsp;<!--PEI-->
+| align="right"| &nbsp;<!--YK-->
+| align="right"| 1 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent Liberal|row}}
+| Vote (%):
+| align="right"| &nbsp; <!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"| 3.8<!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"| &nbsp;  <!--NS-->
+| align="right"| &nbsp; <!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"| 1.0 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent Conservative|row}}
+| rowspan=2|Independent Conservative
+| Seats:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"| 1<!--Ont-->
+| align="right"| &nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"| &nbsp;<!--PEI-->
+| align="right"| &nbsp;<!--YK-->
+| align="right"| 1 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent Conservative|row}}
+| Vote (%):
+| align="right"| &nbsp; <!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"| 1.4<!--Ont-->
+| align="right"| &nbsp; <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"| &nbsp;  <!--NS-->
+| align="right"| &nbsp; <!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"| 0.5 <!--Canada/Total-->
+|-
+| colspan=3|'''Total seats'''
+| align="right"|'''14''' <!--BC-->
+| align="right"|'''16''' <!--Alb-->
+| align="right"|'''21''' <!--Sask-->
+| align="right"|'''17''' <!--Man-->
+| align="right"| '''82'''<!--Ont-->
+| align="right"|'''65''' <!--Que-->
+| align="right"|'''11''' <!--NB-->
+| align="right"|'''14''' <!--NS-->
+| align="right"| '''4'''<!--PEI-->
+| align="right"| '''1'''<!--YK-->
+| align="right"| '''245'''<!--Canada/Total-->
+|-
+|colspan=14|'''Parties that won no seats:'''
+{{Canadian party colour|CA|unknown|row}}
+| Unknown
+| Vote (%):
+| align="right"| &nbsp; <!--BC-->
+| align="right"| &nbsp; <!--Alb-->
+| align="right"| 0.1<!--Sask-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"| 0.9 <!--Ont-->
+| align="right"|0.2 <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"| &nbsp;  <!--NS-->
+| align="right"| 15.0 <!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"|0.7 <!--Canada/Total-->
+{{Canadian party colour|CA|Liberal-Protectionist|row-name}}
+| Vote (%):
+| align="right"| &nbsp;<!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp; <!--Sask-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"|  &nbsp; <!--Ont-->
+| align="right"| 0.9 <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"|  &nbsp;<!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"|  0.2<!--Canada/Total-->
+{{Canadian party colour|CA|Independent Liberal-Progressive|row}}
+| Independent [[Liberal-Progressive]]
+| Vote (%):
+| align="right"| &nbsp;<!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp; <!--Sask-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"|  &nbsp; <!--Ont-->
+| align="right"| &nbsp;<!--Que-->
+| align="right"| 3.3<!--NB-->
+| align="right"|  &nbsp;<!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"|  0.2<!--Canada/Total-->
+{{Canadian party colour|CA|Labour-Farmer|row-name}}
+| Vote (%):
+| align="right"|&nbsp; <!--BC-->
+| align="right"| 3.0<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"| &nbsp; <!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"|  &nbsp;<!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"| 0.2 <!--Canada/Total-->
+{{Canadian party colour|CA|Liberal-Progressive|row-name}}
+| Vote (%):
+| align="right"| &nbsp;<!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp; <!--Sask-->
+| align="right"| 1.9<!--Man-->
+| align="right"|  &nbsp; <!--Ont-->
+| align="right"| &nbsp;<!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"|  &nbsp;<!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"|  0.1<!--Canada/Total-->
+{{Canadian party colour|CA|Independent Labour|row-name}}
+| Vote (%):
+| align="right"| &nbsp;<!--BC-->
+| align="right"| &nbsp; <!--Alb-->
+| align="right"|&nbsp;<!--Sask-->
+| align="right"| 1.7<!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"| &nbsp;<!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"| 0.1<!--Canada/Total-->
+{{Canadian party colour|CA|Socialist|row}}
+| |[[Socialist Party of Canada|Socialist]]
+| Vote (%):
+| align="right"| 1.0 <!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"| &nbsp; <!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"|  &nbsp;<!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"| 0.1 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent Progressive|row}}
+| Independent Progressive
+| Vote (%):
+| align="right"| &nbsp;<!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| 0.9 <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"| &nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"| &nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"| 0.1 <!--Canada/Total-->
+{{Canadian party colour|CA|Farmer|row-name}}
+| Vote (%):
+| align="right"|&nbsp; <!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"| 0.1<!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"|  &nbsp;<!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"| xx <!--Canada/Total-->
+{{Canadian party colour|CA|Progressive-Conservative|row}}
+| [[Progressive-Conservative (candidate)|Progressive-Conservative]]
+| Vote (%):
+| align="right"|&nbsp;  <!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"|0.1<!--Que-->
+| align="right"|&nbsp;  <!--NB-->
+| align="right"| &nbsp;  <!--NS-->
+| align="right"| &nbsp; <!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"| xx <!--Canada/Total-->
+{{Canadian party colour|CA|Farmer-Labour|row-name}}
+| Vote (%):
+| align="right"|&nbsp; <!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"| 0.1<!--Ont-->
+| align="right"| &nbsp; <!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"|  &nbsp;<!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"| xx <!--Canada/Total-->
+|-
+|}
+
+==See also==
+{{Portal|Canada|Politics}} 
+*[[List of Canadian federal general elections]]
+*[[List of political parties in Canada]]
+*[[15th Canadian Parliament]]
+
+==References==
+{{reflist}}
+
+==Notes==
+{{notelist}}
+
+== Further reading ==
+* {{cite report |author1=Canada, Chief Electoral Officer |title=Fifteenth General Election, 1925: Report of the Chief Electoral Officer |date=1925|publisher=Queen's Printer |location=Ottawa |hdl=2027/mdp.39015024873310 |hdl-access=free}}
+
+==External links==
+*[https://web.archive.org/web/20060928033124/http://www.histori.ca/prodev/article.do?id=15374 Principles vs Puffiness, by J.L. Granatstein]
+
+{{Canada elections}}
+{{William Lyon Mackenzie King}}
+
+[[Category:1925 Canadian federal election| ]]
+[[Category:1925 elections in Canada| Federal]]
+[[Category:Canadian federal elections by year|1925]]
+[[Category:October 1925 in Canada]]

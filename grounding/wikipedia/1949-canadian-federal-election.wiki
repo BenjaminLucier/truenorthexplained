@@ -1,0 +1,1064 @@
+{{Short description|none}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 1949 Canadian federal election
+| country = Canada
+| flag_year = 1921
+| type = parliamentary
+| ongoing = no
+| party_colour = no
+| party_name = no
+| opinion_polls = Opinion polling for the 1949 Canadian federal election
+| previous_election = 1945 Canadian federal election
+| previous_year = 1945
+| next_election = 1953 Canadian federal election
+| next_year = 1953
+| seats_for_election = 262 seats in the [[House of Commons of Canada|House of Commons]]
+| majority_seats = 132
+| turnout = 73.8%<ref>{{cite web|title=Voter Turnout at Federal Elections and Referendums
+|url=http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|website=Elections Canada|access-date=10 March 2019}}</ref> ({{decrease}} 1.5 [[Percentage Point|pp]])
+| election_date = June 27, 1949
+| elected_members = 21st Canadian Parliament
+| outgoing_members = 20th Canadian Parliament
+| image_size =
+| image1 = {{CSS image crop|Image =Louis St. Laurent portrait.jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour1 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader1 = [[Louis St. Laurent]]
+| leader_since1 = [[1948 Liberal Party of Canada leadership election|August 7, 1948]]
+| party1 = {{Canadian party colour|CA|Liberal|name}}
+| leaders_seat1 = [[Quebec East]]
+| last_election1 = 118 seats, 39.78%
+| seats1 = '''191'''
+| seat_change1 = {{increase}} 73
+| popular_vote1 = '''2,874,813'''
+| percentage1 = '''49.15%'''
+| swing1 = {{increase}} 9.37 [[Percentage Point|pp]]
+| image2 = {{CSS image crop|Image =GeorgeDrew (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour2 = {{Canadian party colour|CA|PC|nohash}}
+| leader2 = [[George A. Drew]]
+| leader_since2 = [[1948 Progressive Conservative leadership convention|October 2, 1948]]
+| party2 = {{Canadian party colour|CA|PC|name}}
+| leaders_seat2 = [[Carleton (Ontario federal electoral district)|Carleton]]
+| last_election2 = 66 seats, 27.62%
+| seats2 = 41
+| seat_change2 = {{decrease}} 25
+| popular_vote2 = 1,734,261
+| percentage2 = 29.65%
+| swing2 = {{increase}} 2.03 [[Percentage Point|pp]]
+| image4 = {{CSS image crop|Image =Major James Coldwell (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour4 = {{Canadian party colour|CA|CCF|nohash}}
+| leader4 = [[Major James Coldwell]]
+| leader_since4 = [[Co-operative Commonwealth Federation#Party leaders|March 22, 1942]]
+| party4 = {{Canadian party colour|CA|CCF|name}}
+| leaders_seat4 = [[Rosetown—Biggar (federal electoral district)|Rosetown—Biggar]]
+| last_election4 = 28 seats, 15.55%
+| seats4 = 13
+| seat_change4 = {{decrease}} 15
+| popular_vote4 = 784,770
+| percentage4 = 13.42%
+| swing4 = {{decrease}} 2.13 [[Percentage Point|pp]]
+| image5 = {{CSS image crop|Image =Solon Earl Low (cropped2).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour5 = {{Canadian party colour|CA|Social Credit|nohash}}
+| leader5 = [[Solon Earl Low]]
+| leader_since5 = [[Social Credit Party of Canada leadership elections#1944 founding convention|April 6, 1944]]
+| party5 = {{Canadian party colour|CA|Social Credit|name}}
+| leaders_seat5 = [[Peace River (federal electoral district)|Peace River]]
+| last_election5 = 13 seats, 4.05%
+| seats5 = 10
+| seat_change5 = {{decrease}} 3
+| popular_vote5 = 135,217
+| percentage5 = 2.31%
+| swing5 = {{decrease}} 1.74 [[Percentage Point|pp]]
+| map_image = Canada 1949 Federal Election.svg
+| map_size = 
+| map_caption = 
+| title = Prime Minister
+| posttitle = Prime Minister after election
+| before_election = [[Louis St. Laurent]]
+| before_party = {{Canadian party colour|CA|Liberal|name}}
+| after_election = [[Louis St. Laurent]]
+| after_party = {{Canadian party colour|CA|Liberal|name}}
+| map2_image = Chambre des Communes 1949.png
+| map2_size = 
+| map2_caption = The Canadian parliament after the 1949 election
+}}
+The '''1949 Canadian federal election''' was held June 27, 1949, to elect members of the [[House of Commons of Canada]] of the [[21st Canadian Parliament|21st Parliament]] of [[Canada]].
+
+The [[Liberal Party of Canada]] was re-elected with its fourth consecutive government, winning 191 seats (73 per cent of the seats in the House of Commons), with just under 50 per cent of the popular vote.
+
+It was the Liberals' first election in almost thirty years not under the leadership of [[William Lyon Mackenzie King]]. King had retired in 1948, and was replaced as Liberal leader and [[Prime Minister of Canada|Prime Minister]] by [[Louis St. Laurent]].
+
+It was the first federal election with [[Newfoundland and Labrador|Newfoundland]] voting, having joined Canada in March of that year. It was also the first election since [[1904 Canadian federal election|1904]] in which part of the remaining parts of the [[Northwest Territories]] were granted representation, following the partitioning off of the provinces of Alberta and Saskatchewan.
+
+The Liberal Party victory won the largest majority in Canadian history to that point. {{As of|2025}}, it remains the third largest majority government in Canadian history, and the largest in the party's history (the [[Progressive Conservative Party of Canada|Progressive Conservative Party]] won larger seat majorities in [[1958 Canadian federal election|1958]] and [[1984 Canadian federal election|1984]]).
+
+Smaller parties, such as the [[social democracy|social democratic]] [[Co-operative Commonwealth Federation]], and [[Social Credit Party of Canada|Social Credit]], a party that advocated [[monetary reform]], lost support to the Liberals and, to a lesser extent, the Conservatives.
+
+==Overview==
+===Liberal Party===
+Despite the humiliation of losing his own seat at the previous election, Mackenzie King remained a popular Prime Minister, working to bring about Canadian citizenship as a legal right (Canadians having been previously British subjects), and laying the groundwork for the eventual entry of Newfoundland into the confederation in March 1949. Failing health ultimately forced his resignation in 1948, and his Quebec lieutenant and Secretary for External Affairs, Louis St. Laurent handily won the race to succeed him, beating out fellow cabinet minister [[James Garfield Gardiner]].
+
+The Liberals' polling numbers wavered slightly following St. Laurent's installation as Prime Minister, but they consistently remained well ahead of the Progressive Conservatives, and with the party's polling lead starting to increase again in early 1949, St. Laurent decided to capitalise and called a snap election. While the party had been governing without a stable majority since the previous election, they had generally been able to count on the support of the CCF to pass important legislation; St. Laurent's goal was to win a solid majority and remove his party's need to make concessions to the CCF on matters of confidence.
+
+St. Laurent became the first leader of a major Canadian party to extensively campaign in person since former Conservative leader [[R. B. Bennett]] in [[1930 Canadian federal election|1930]], projecting an image of himself as a congenial family man. While the campaign was relatively light on actual policy and based mostly around St. Laurent's personality, the approach paid off and saw the Liberals win the biggest parliamentary majority in the country's history until that point (and what remains the Liberals' biggest majority), with the only province where they failed to win at least a plurality of the popular vote being Alberta, where support for Social Credit remained strong; even then, the five seats won in the province by the Liberals has not been matched at any federal election since this one.
+
+===Progressive Conservatives===
+The Progressive Conservative Party, led by former [[Premier of Ontario]] [[George A. Drew|George Drew]], lost over a third of their seats. Despite the party's mild recovery at the previous election, they proved a largely ineffective opposition and remained far behind the Liberals in polls throughout the 1945-1949 parliament, largely due to in-fighting between the western faction of previous leader [[John Bracken]], and the party's eastern establishment who favoured the installation of Drew as leader. Drew's own reluctance to step away from his role as [[Premier of Ontario]] hampered efforts to remove Bracken, and it wasn't until Drew unexpectedly lost his seat in the Ontario legislature in the 1948 provincial election and announced his intention to move into federal politics that Bracken finally resigned. 
+
+While Drew won the leadership of the Progressive Conservatives by a landslide over [[John Diefenbaker]] in October 1948, his ascension to the party leadership was overshadowed by St. Laurent's own rise to the Prime Minister's office (additionally, Drew was not an MP when he became party leader, causing him to lose a further two months on a by-election to the [[Carleton (Ontario federal electoral district)|Carleton]] riding after both the CCF and Social Credit fielded candidates and actively campaigned against him, going against the then-usual convention of allowing Canadian party leaders to win by-elections without opposition), meaning that he struggled to make an impression in the media. Support for the party declined across the country in the election, but was felt most keenly in Drew's native Ontario, and to a lesser degree in British Columbia. The party thus failed to win even a plurality of the seat count or popular vote in even a single province or territory (although they did come a very close second in the popular vote in Prince Edward Island). Their national popular vote share actually increased by two percentage points, but most of the extra votes were in earned in Quebec, where they accomplished little due to the large majorities held by Liberal MPs.
+
+===Co-Operative Commonwealth Federation===
+After something of a breakthrough in the previous federal election, the CCF struggled to keep up its momentum. Their polling numbers peaked in late 1948 when they came close to moving into second place ahead of the Progressive Conservatives, thanks to party leader [[Major James Coldwell]] being able to portray an image of experience compared to the new Liberal and Progressive Conservative leaders, but this increase ebbed away after the turn of the year, once St. Laurent and Drew had been able to establish themselves as leaders of their respective parties.
+
+Despite hopes to exploit renewed [[western alienation]] that might be generated by the leaders of the two main parties respectively being from Quebec and Ontario, the CCF were largely unable to capitalise and ended up losing over half their parliamentary caucus. In particular, they were decimated in their political base of Saskatchewan, losing all but five of their seats to the Liberals despite coming a close second in the popular vote, and the relative popularity of [[Tommy Douglas]]' provincial CCF government. The only saving grace was that the CCF at least remained the main challengers to the Liberals in the west, coming away with 11 seats west of Ontario compared to 10 and 7 respectively for the Socreds and Progressive Conservatives.
+
+===Social Credit Party===
+For the fourth successive election, Social Credit would only succeed in electing MPs in Alberta, where they continued to control the legislative assembly under [[Premier of Alberta|Premier]] [[Ernest Manning]]. While their vote and seat count also declined, they held up better than the CCF's did, in part because the resignation of Bracken as Conservative leader and the ensuing abandonment of his western populist policies caused some Progressive Conservative supporters to switch their support to the Socreds, stemming losses to the Liberals. The party thus lost three seats to the Liberals, but remained a comfortable first in the province, making them the only party other than the Liberals to win the most seats and/or votes in a province during this election.
+
+==Opinion polling==
+{| class="wikitable sortable" style="text-align:center;font-size:85%;line-height:14px;" align="center"
+|+ Evolution of voting intentions at national level
+|-
+! rowspan="2" | Polling firm
+! rowspan="2" |Last day <br/>of survey
+! rowspan="2" | Source
+! class="unsortable" style="width:40px;"| [[Liberal Party of Canada|LPC]]
+! class="unsortable" style="width:40px;"| [[Progressive Conservative Party of Canada|PC]]
+! class="unsortable" style="width:40px;"| [[Co-operative Commonwealth Federation|CCF]]
+! class="unsortable" style="width:40px;"| [[Social Credit Party of Canada|SC]]
+! class="unsortable" style="width:40px;"| [[Bloc populaire|BP]] 
+! class="unsortable" style="width:40px;"| Other
+! rowspan="2" | Undecided
+! rowspan="2" | {{Abbr|ME|Margin of Error}}
+! rowspan="2" | Sample
+|- style="line-height:5px;"
+! style="background:{{Canadian party colour|CA|Liberal}};" data-sort-type="number"|
+! style="background:{{Canadian party colour|CA|PC}};" data-sort-type="number"|
+! style="background:{{Canadian party colour|CA|CCF}};" data-sort-type="number"|
+! style="background:{{Canadian party colour|CA|Social Credit}};" data-sort-type="number"|
+! style="background:{{Canadian party colour|CA|Bloc populaire}};" data-sort-type="number"|
+! style="background:{{Canadian party colour|CA|Indépendant}};" data-sort-type="number"|
+|-
+| style="background:#ffd;" |''Election 1949''
+| style="background:#ffd;" |June 27, 1949
+| style="background:#ffd;" |
+| style="background:#ffd;" |'''49.15'''
+| style="background:#ffd;" |29.65
+| style="background:#ffd;" |13.42
+| style="background:#ffd;" |2.31
+| style="background:#ffd;" |—
+| style="background:#ffd;" |5.47
+| style="background:#ffd;" |
+| style="background:#ffd;" |
+| style="background:#ffd;" |
+|-
+|Gallup
+|June 1949
+|<ref name="Calgary49">{{cite news |title=Survey gives Liberals margin over others |date=June 18, 1949 |work=The Calgary Gazette |page=22}}</ref>
+|style='background:#F8C1BE'|'''49'''
+|29
+|15
+|{{N/A}}
+|{{N/A}}
+|6
+|22
+|{{N/A}}
+|{{N/A}}
+|-
+|Gallup
+|May 1949
+|<ref>{{cite news |title=Drew versus the pollsters |date=June 20, 1949 |work=The Leader-Post |page=6}}</ref>
+|style='background:#F8C1BE'|'''49'''
+|29
+|16
+|{{N/A}}
+|{{N/A}}
+|6
+|18
+|{{N/A}}
+|{{N/A}}
+|-
+|Gallup
+|April 1949
+|<ref>{{cite news |title=Canada's election watched for socialistic trends |date=June 4, 1949 |work=The Schenectady Gazette |page=8}}</ref>
+|style='background:#F8C1BE'|'''42'''
+|32
+|17
+|5
+|{{N/A}}
+|4
+|22
+|{{N/A}}
+|{{N/A}}
+|-
+|Gallup
+|January 1949
+|<ref name="Calgary49"/>
+|style='background:#F8C1BE'|'''40'''
+|33
+|18
+|{{N/A}}
+|{{N/A}}
+|9
+|23
+|{{N/A}}
+|{{N/A}}
+|-
+|Gallup
+|October 1948
+|<ref name="Calgary48"/>
+|style='background:#F8C1BE'|'''39'''
+|27
+|21
+|7
+|{{N/A}}
+|6
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|-
+|Gallup
+|August 1948
+|<ref name="Calgary48">{{cite news |title=Liberal support falls below '45 vote level|date=October 16, 1948 |work=The Calgary Gazette |page=2}}</ref>
+|style='background:#F8C1BE'|'''41'''
+|28
+|20
+|6
+|{{N/A}}
+|5
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|-
+|Gallup
+|June 1948
+|<ref name="June48">{{cite news |title=CCF gaining support at liberals' expense |date=June 30, 1948 |work=The Ottawa Citizen |page=1}}</ref>
+|style='background:#F8C1BE'|'''41'''
+|28
+|19
+|6
+|{{N/A}}
+|6
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|-
+|Gallup
+|February 1948
+|<ref name="June48"/>
+|style='background:#F8C1BE'|'''43'''
+|28
+|15
+|7
+|{{N/A}}
+|7
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|-
+|Gallup
+|January 1948
+|<ref name="June48"/>
+|style='background:#F8C1BE'|'''42'''
+|28
+|16
+|6
+|{{N/A}}
+|8
+|26<ref name="Calgary49"/>
+|{{N/A}}
+|{{N/A}}
+|-
+|Gallup
+|October 1947
+|<ref name="June48"/>
+|style='background:#F8C1BE'|'''43'''
+|28
+|16
+|6
+|{{N/A}}
+|7
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|-
+|Gallup
+|July 1947
+|<ref name="Windsor47">{{cite news |title=Party strength in Canada stays virtually unchanged |date=October 4, 1947 |work=The Windsor Star|page=16}}</ref>
+|style='background:#F8C1BE'|'''42'''
+|27
+|16
+|6
+|{{N/A}}
+|9
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|-
+|colspan="12"|'''Bloc populaire dissolved (July 6, 1947)'''
+|-
+|Gallup
+|May 1947
+|<ref name="Windsor47"/>
+|style='background:#F8C1BE'|'''43'''
+|26
+|16
+|6
+|{{N/A}}
+|9
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|-
+|Gallup
+|February 1947
+|<ref name="CalgaryHerald47">{{cite news |title=Few changes noted in political set-up |date=March 1, 1947 |work=The Calgary Herald |page=16}}</ref>
+|style='background:#F8C1BE'|'''41'''
+|27
+|18
+|7
+|4
+|3
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|-
+|Gallup
+|December 1946
+|<ref name="CalgaryHerald47"/>
+|style='background:#F8C1BE'|'''41'''
+|26
+|18
+|6
+|5
+|4
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|-
+|Gallup
+|September 1946
+|<ref name="Feb47">{{cite news |title=No Notable Shift in Party Support |date=March 1, 1947 |work=The Evening Citizen |page=1}}</ref>
+|style='background:#F8C1BE'|'''41'''
+|27
+|17
+|5
+|{{N/A}}
+|10
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|-
+|Gallup
+|May 1946
+|<ref name="Feb47"/>
+|style='background:#F8C1BE'|'''44'''
+|26
+|16
+|4
+|{{N/A}}
+|10
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|-
+|Gallup
+|January 1946
+|<ref name="Feb47"/>
+|style='background:#F8C1BE'|'''45'''
+|24
+|16
+|4
+|{{N/A}}
+|10
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|-
+|Gallup
+|November 1945
+|<ref name="Feb47"/>
+|style='background:#F8C1BE'|'''44'''
+|26
+|17
+|4
+|{{N/A}}
+|9
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|-
+| style="background:#ffd;" |''[[1945 Canadian federal election|Election 1945]]''
+| style="background:#ffd;" |June 11, 1945	
+| style="background:#ffd;" |
+| style="background:#ffd;" |'''39.78'''
+| style="background:#ffd;" |27.62
+| style="background:#ffd;" |15.55
+| style="background:#ffd;" |4.05
+| style="background:#ffd;" |3.29
+| style="background:#ffd;" |9.71
+| style="background:#ffd;" |
+| style="background:#ffd;" |
+|}
+
+==National results==
+[[File:1949 Canadian parliament.svg|center|300px]]
+
+{| class="wikitable"
+!colspan=2 rowspan=2|Party
+!rowspan=2|Party leader
+!rowspan=2|# of <br /> candidates
+!colspan=3|Seats
+!colspan=3|Popular vote
+|- bgcolor="CCCCCC"
+|align=center|[[1945 Canadian federal election|1945]]
+|align=center|'''Elected'''
+|align=center|% Change
+|align=center|#
+|align=center|%
+|align=center|Change
+{{Canadian party colour|CA|Liberal|row}}
+| [[Liberal Party of Canada|Liberal]] 
+| [[Louis St. Laurent]]
+|align="right"|  258 
+|align="right"|  117
+!align="right"|   191
+|align="right"|  +63.2%
+|align="right"|    2,874,813  
+|align="right"|   49.15% 
+|align="right"|  +9.37pp
+{{Canadian party colour|CA|PC|row}}
+| [[Progressive Conservative Party of Canada|Progressive Conservative]] 
+| [[George A. Drew|George Drew]]
+|align="right"|   249 
+|align="right"|  65
+!align="right"|   41 
+|align="right"|  -21.5%
+|align="right"|   1,734,261  
+|align="right"|   29.65% 
+|align="right"|  +2.03pp
+{{Canadian party colour|CA|CCF|row}}
+| [[Co-operative Commonwealth Federation|Co-operative Commonwealth]] 
+|[[M.J. Coldwell]]
+|align="right"|  180
+|align="right"|  28
+!align="right"|  13 
+|align="right"|  -53.6%
+|align="right"|   784,770  
+|align="right"|   13.42% 
+|align="right"|  -2.13pp
+{{Canadian party colour|CA|Social Credit|row-name}} 
+|[[Solon Earl Low|Solon Low]]
+|align="right"|  28 
+|align="right"|  13
+!align="right"|  10 
+|align="right"|  -23.1%
+|align="right"|    135,217  
+|align="right"|  2.31% 
+|align="right"|  -1.74pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2| Independent 
+|align="right"|   28
+|align="right"|  6
+|align="right"|   4 
+|align="right"|  -33.3%
+|align="right"|   119,827  
+|align="right"|  2.05% 
+|align="right"|  -2.84pp
+{{Canadian party colour|CA|Ralliement créditiste|row}}
+| [[Union of Electors]]
+|[[Réal Caouette]]
+|align="right"|   56 
+|align="right"|  -
+|align="right"|   - 
+|align="right"|  -
+|align="right"|    86,087  
+|align="right"|  1.47% 
+|align="right"|  +1.46pp
+{{Canadian party colour|CA|Labor-Progressive|row-name}}
+|[[Tim Buck]] 
+|align="right"|   17 
+|align="right"|  1
+|align="right"|   - 
+|align="right"|  -100%
+|align="right"|   32,623  
+|align="right"|   0.56% 
+|align="right"|  -1.58pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2| Independent Liberal 
+|align="right"|   15 
+|align="right"|  8
+|align="right"|  1 
+|align="right"|  -87.5%
+|align="right"|   30,407  
+|align="right"|  0.52% 
+|align="right"|  -1.27pp
+{{Canadian party colour|CA|Independent|row}}
+| [[Liberal-Labour (Canada)|Liberal-Labour]]
+|&nbsp;
+|align="right"|  2 
+|align="right"|  -
+|align="right"|   1 
+|align="right"|  &nbsp;
+|align="right"|   11,730  
+|align="right"|   0.20% 
+|align="right"|  +0.19pp
+{{Canadian party colour|CA|Liberal-Progressive|row-name}}
+|&nbsp;
+|align="right"|  1 
+|align="right"|  1
+|align="right"|   1 
+|align="right"|  -
+|align="right"|    9,192  
+|align="right"|  0.16% 
+|align="right"|  +0.04pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Independent PC 
+|align="right"|   6 
+|align="right"|  1
+|align="right"|  -
+|align="right"|  -100%
+|align="right"|    8,195  
+|align="right"|  0.14% 
+|align="right"|  -0.14pp
+{{Canadian party colour|CA|Independent|row}}
+| [[Labour Party (Canada)|Farmer-Labour]]
+| &nbsp;
+|align="right"|   1 
+|align="right"|  -
+|align="right"|   - 
+|align="right"|  -
+|align="right"|   6,161  
+|align="right"|  0.11% 
+|align="right"|  -0.07pp
+{{Canadian party colour|CA|Independent|row}}
+| [[Parti national social chrétien|National Unity]] 
+|  [[Adrien Arcand]]
+|align="right"|  1 
+|align="right"|*
+|align="right"|  -
+|align="right"|*
+|align="right"|    5,590  
+|align="right"|  0.10% 
+|align="right"|*
+{{Canadian party colour|CA|Independent|row}}
+| Nationalist 
+| &nbsp;
+|align="right"|   1 
+|align="right"|*
+|align="right"|   -
+|align="right"|*
+|align="right"|    4,994  
+|align="right"|   0.09%
+|align="right"|*
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Independent Social Credit 
+|align="right"|  2 
+|align="right"|*
+|align="right"|  -
+|align="right"|* 
+|align="right"|   4,598  
+|align="right"|  0.08% 
+|align="right"|*
+{{Canadian party colour|CA|Labour|row-name}}
+| &nbsp;
+|align="right"|  2 
+|align="right"|  -
+|align="right"|   -
+|align="right"|  -
+|align="right"|   415  
+|align="right"|  0.01%
+|align="right"|  x
+{{Canadian party colour|CA|Independent|row}}
+| [[Socialist Labour Party (Canada)|Socialist Labour]]
+| &nbsp;
+|align="right"| 1
+|align="right"|*  
+|align="right"|  -
+|align="right"|*
+|align="right"| 271  
+|align="right"|  x 
+|align="right"|*
+|-
+! colspan=3 align=left|Total
+! align="right"| 848 
+! align="right"|245
+! align="right"| 262
+! align="right"|+7.8%
+! align="right"| 5,849,151
+! align="right"| 100% 
+!&nbsp;
+|-
+| align="center" colspan=10|'''Sources:''' http://www.elections.ca -- [http://www.parl.gc.ca/information/about/process/house/hfer/hfer.asp?Language=E History of Federal Ridings since 1867] {{Webarchive|url=https://web.archive.org/web/20081204121507/http://www.parl.gc.ca/information/about/process/house/hfer/hfer.asp?Language=E |date=2008-12-04 }}
+|-
+|}
+
+'''Notes:'''
+
+<nowiki>*</nowiki> The party did not nominate candidates in the previous election.
+
+x - less than 0.005% of the popular vote
+
+==Vote and seat summaries==
+{{Gallery
+|title=[[Ternary plot]]s - shift of electoral support (1945-1949)
+|width=350 | height=200 |noborder=yes
+|align=center
+|footer=Electoral districts identified by colours of winning parties
+|File:Ternary CA1945.svg
+ |1945
+ |alt1=Ternary plot of 1945 results
+|File:Ternary CA1949.svg
+ |1949
+ |alt2=Ternary plot of 1949 results
+}}
+
+
+{{Bar box
+| title    = Popular vote
+| titlebar = #ddd
+| width    = 600px
+| barwidth = 410px
+| bars     = 
+{{Bar percent|Liberal|#F08080|49.15}}
+{{Bar percent|PC|{{Canadian party colour|CA|PC}}|29.65}}
+{{Bar percent|CCF|{{Canadian party colour|CA|CCF}}|13.42}}
+{{Bar percent|Social Credit|{{Canadian party colour|CA|Social Credit}}|2.31}}
+{{Bar percent|Labor-Progressive|{{Canadian party colour|CA|Labor-Progressive}}|0.56}}
+{{Bar percent|Others|#DCDCDC|4.91}}
+}}
+
+{{Bar box
+| title    = Seat totals
+| titlebar = #ddd
+| width    = 600px
+| barwidth = 410px
+| bars     = 
+{{Bar percent|Liberal|#F08080|72.90}}
+{{Bar percent|PC|{{Canadian party colour|CA|PC}}|15.64}}
+{{Bar percent|CCF|{{Canadian party colour|CA|CCF}}|4.96}}
+{{Bar percent|Social Credit|{{Canadian party colour|CA|Social Credit}}|3.81}}
+{{Bar percent|Others|#DCDCDC|2.67}}
+}}
+
+==Results by province==
+{| class="wikitable"
+! align="center" colspan=3|Party name
+! align="center"|[[British Columbia|BC]]
+! align="center"|[[Alberta|AB]]
+! align="center"|[[Saskatchewan|SK]]
+! align="center"|[[Manitoba|MB]]
+! align="center"|[[Ontario|ON]]
+! align="center"|[[Quebec|QC]]
+! align="center"|[[New Brunswick|NB]]
+! align="center"|[[Nova Scotia|NS]]
+! align="center"|[[Prince Edward Island|PE]]
+! align="center"|[[Newfoundland and Labrador|NL]]
+! align="center"|[[Territories of Canada|Terr]]
+! align="center"|Total
+{{Canadian party colour|CA|Liberal|row}}
+| rowspan=2|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| align="right"| 11 <!--BC-->
+| align="right"|  5<!--Alb-->
+| align="right"| 14 <!--Sask-->
+| align="right"| 11<!--Man-->
+| align="right"|  55 <!--Ont-->
+| align="right"|  68<!--Que-->
+| align="right"|  8<!--NB-->
+| align="right"|  10<!--NS-->
+| align="right"| 3 <!--PEI-->
+| align="right"| 5 <!--NL-->
+| align="right"|1 <!--Terr-->
+| align="right"|  191<!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| Popular Vote:
+| align="right"|  36.7<!--BC-->
+| align="right"|  33.8<!--Alb-->
+| align="right"|  43.4<!--Sask-->
+| align="right"| 45.1<!--Man-->
+| align="right"| 45.1<!--Ont-->
+| align="right"| 60.4<!--Que-->
+| align="right"| 53.8<!--NB-->
+| align="right"| 52.7<!--NS-->
+| align="right"| 49.2<!--PEI-->
+| align="right"| 71.9 <!--NL-->
+| align="right"|49.0 <!--Terr-->
+| align="right"| 49.1<!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| rowspan=2|[[Progressive Conservative Party of Canada|Progressive Conservative]]
+| Seats:
+| align="right"| 3 <!--BC-->
+| align="right"| 2<!--Alb-->
+| align="right"| 1<!--Sask-->
+| align="right"| 1<!--Man-->
+| align="right"| 25<!--Ont-->
+| align="right"| 2<!--Que-->
+| align="right"| 2<!--NB-->
+| align="right"| 2<!--NS-->
+| align="right"| 1<!--PEI-->
+| align="right"| 2 <!--NL-->
+| align="right"| - <!--Terr-->
+| align="right"| 41<!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| Vote:
+| align="right"| 27.9<!--BC-->
+| align="right"| 16.8<!--Alb-->
+| align="right"| 14.4<!--Sask-->
+| align="right"| 22.0<!--Man-->
+| align="right"| 37.4<!--Ont-->
+| align="right"| 24.5<!--Que-->
+| align="right"| 39.4<!--NB-->
+| align="right"| 37.5<!--NS-->
+| align="right"| 48.4<!--PEI-->
+| align="right"| 27.9<!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"| 29.7<!--Canada/Total-->
+{{Canadian party colour|CA|CCF|row}}
+| rowspan=2|[[Co-operative Commonwealth Federation|Co-operative Commonwealth]]
+| Seats:
+| align="right"|3 <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"|5 <!--Sask-->
+| align="right"| 3<!--Man-->
+| align="right"| 1<!--Ont-->
+| align="right"| -<!--Que-->
+| align="right"|- <!--NB-->
+| align="right"|1 <!--NS-->
+| align="right"|- <!--PEI-->
+| align="right"| - <!--NL-->
+| align="right"|- <!--Terr-->
+| align="right"| 13<!--Canada/Total-->
+{{Canadian party colour|CA|CCF|row}}
+| Vote:
+| align="right"| 31.5<!--BC-->
+| align="right"| 10.0<!--Alb-->
+| align="right"| 40.9<!--Sask-->
+| align="right"| 25.9<!--Man-->
+| align="right"| 15.2<!--Ont-->
+| align="right"| 1.1<!--Que-->
+| align="right"| 4.2<!--NB-->
+| align="right"| 9.9<!--NS-->
+| align="right"| 2.4<!--PEI-->
+| align="right"| 0.2<!--NL-->
+| align="right"| 17.0 <!--Terr-->
+| align="right"|13.4 <!--Canada/Total-->
+{{Canadian party colour|CA|Social Credit|row}}
+| rowspan=2|[[Social Credit Party of Canada|Social Credit]]
+| Seats:
+| align="right"|- <!--BC-->
+| align="right"|10 <!--Alb-->
+| align="right"|- <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|- <!--Ont-->
+| align="right"|&nbsp;<!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"| 10<!--Canada/Total-->
+{{Canadian party colour|CA|Social Credit|row}}
+| Vote:
+| align="right"| 0.5 <!--BC-->
+| align="right"|37.4 <!--Alb-->
+| align="right"| 0.9 <!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"|0.2 <!--Ont-->
+| align="right"| &nbsp;<!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"| 2.3<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2|Independent
+| Seats:
+| align="right"|1 <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|- <!--Man-->
+| align="right"| -<!--Ont-->
+| align="right"|3 <!--Que-->
+| align="right"|- <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"| &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"| 4<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote:
+| align="right"| 2.6<!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| 2.1<!--Man-->
+| align="right"| 0.1<!--Ont-->
+| align="right"| 6.1<!--Que-->
+| align="right"| 0.2<!--NB-->
+| align="right"|  &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|34.0 <!--Terr-->
+| align="right"|  2.1<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2|Independent Liberal
+| Seats:
+| align="right"| &nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"| 1<!--Ont-->
+| align="right"|- <!--Que-->
+| align="right"|- <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"| &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"| 1<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote:
+| align="right"|  &nbsp;<!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"| 0.3<!--Ont-->
+| align="right"| 1.3<!--Que-->
+| align="right"| 1.4<!--NB-->
+| align="right"|  &nbsp;<!--NS-->
+| align="right"| &nbsp; <!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"|  0.5<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2|[[Liberal-Labour (Canada)|Liberal-Labour]]
+| Seats:
+| align="right"| &nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"| 1<!--Ont-->
+| align="right"|- <!--Que-->
+| align="right"|&nbsp;  <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"| &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"| 1<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote:
+| align="right"| &nbsp;<!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"|&nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"|0.6<!--Ont-->
+| align="right"| xx<!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"| 0.2 <!--Canada/Total-->
+{{Canadian party colour|CA|Liberal-Progressive|row}}
+| rowspan=2|[[Liberal-Progressive]]
+| Seats:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|1 <!--Man-->
+| align="right"| &nbsp;<!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"| 1<!--Canada/Total-->
+{{Canadian party colour|CA|Liberal-Progressive|row}}
+| Vote:
+| align="right"| &nbsp;<!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| 2.9<!--Man-->
+| align="right"| &nbsp;<!--Ont-->
+| align="right"| &nbsp;<!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"|  &nbsp;<!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"|  0.2<!--Canada/Total-->
+|-
+| colspan=3| '''Total Seats'''
+| align="right"|'''18''' <!--BC-->
+| align="right"|'''17''' <!--Alb-->
+| align="right"|'''20''' <!--Sask-->
+| align="right"|'''16''' <!--Man-->
+| align="right"| '''83'''<!--Ont-->
+| align="right"|'''73''' <!--Que-->
+| align="right"|'''10''' <!--NB-->
+| align="right"|'''13''' <!--NS-->
+| align="right"| '''4'''<!--PEI-->
+| align="right"|'''7''' <!--NL-->
+| align="right"|'''1''' <!--Terr-->
+| align="right"| '''262'''<!--Canada/Total-->
+|-
+| colspan=15|'''Parties that won no seats:'''
+|-
+{{Canadian party colour|CA|Ralliement créditiste|row}}
+| [[Union of Electors]]
+| Vote:
+| align="right"| &nbsp;<!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"| 0.1<!--Ont-->
+| align="right"| 5.1<!--Que-->
+| align="right"|1.0 <!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"| 1.5 <!--Canada/Total-->
+{{Canadian party colour|CA|Labor-Progressive|row-name}}
+| Vote:
+| align="right"| 0.8<!--BC-->
+| align="right"| 0.7<!--Alb-->
+| align="right"| 0.4<!--Sask-->
+| align="right"| 2.0<!--Man-->
+| align="right"| 0.7<!--Ont-->
+| align="right"| 0.3<!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"|  0.6<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Independent PC
+| Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"| xx<!--Ont-->
+| align="right"| 0.5<!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"|  0.1<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Farmer-[[Labour Party of Canada|Labour]]
+| Vote:
+| align="right"| &nbsp;<!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"| 0.3<!--Ont-->
+| align="right"| &nbsp;<!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"|  &nbsp;<!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"| 0.1 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| [[Parti national social chrétien|National Unity]]
+| Vote:
+| align="right"| &nbsp;<!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"| &nbsp;<!--Ont-->
+| align="right"| 0.4<!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"|  &nbsp;<!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"|  0.1<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Nationalist
+| Vote:
+| align="right"| &nbsp; <!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"| &nbsp;<!--Ont-->
+| align="right"| 0.3<!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"|  0.1<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+|Independent Social Credit
+| Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"| 1.4<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"| &nbsp;<!--Ont-->
+| align="right"| &nbsp;<!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"|  0.1<!--Canada/Total-->
+{{Canadian party colour|CA|Labour|row-name}}
+| Vote:
+| align="right"| &nbsp;<!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"|&nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"|xx<!--Ont-->
+| align="right"| xx<!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"| xx <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| [[Socialist Labour Party (Canada)|Socialist Labour]]
+| Vote:
+| align="right"| &nbsp;<!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"| xx<!--Ont-->
+| align="right"| &nbsp;<!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|  &nbsp;<!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--Terr-->
+| align="right"| xx <!--Canada/Total-->
+|}
+*xx - less than 0.05% of the popular vote
+
+==See also==
+{{Portal|Canada|Politics}} 
+*[[List of Canadian federal general elections]]
+*[[List of political parties in Canada]]
+*[[21st Canadian Parliament]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite book |last1=LeDuc |first1=Lawrence |last2=Pammett |first2=Jon H. |last3=McKenzie |first3=Judith L. |last4=Turcotte |first4=André |title=Dynasties and Interludes: Past and Present in Canadian Electoral Politics |date=2010 |publisher=Dundurn Press |location=Toronto |isbn=978-1-55488-886-3 |url=https://archive.org/details/dynastiesinterlu0000unse |url-access=registration}}
+* {{cite book |last1=Beck |first1=James Murray |author-link=James Murray Beck |title=Pendulum of Power; Canada's Federal Elections |date=1968 |publisher=Prentice-Hall of Canada |location=Scarborough |isbn=978-0-13-655670-1 |url=https://archive.org/details/pendulumofpower0000unse |url-access=registration}}
+* {{cite report |author1=Canada, Chief Electoral Officer |title=Twenty-First General Election, 1949: Report of the Chief Electoral Officer |date=1949 |publisher=Queen's Printer |location=Ottawa |hdl=2027/mdp.39015024873526 |hdl-access=free}}
+
+{{election canada}}
+
+{{DEFAULTSORT:Canadian federal election, 1949}}
+[[Category:1949 Canadian federal election| ]]
+[[Category:Canadian federal elections by year|1949]]
+[[Category:1949 elections in Canada|Federal]]
+[[Category:June 1949 in Canada]]

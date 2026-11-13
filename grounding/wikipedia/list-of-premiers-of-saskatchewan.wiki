@@ -1,0 +1,623 @@
+{{Short description|None}}
+{{Use Canadian English|date=January 2023}}
+[[File:Scott Moe at US EPA (cropped).jpg|thumb|Scott Moe is the current premier of Saskatchewan, since 2018.]]
+
+The premier of the Canadian province of Saskatchewan is the province's [[head of government]] since 1905. Saskatchewan uses a unicameral [[Westminster System|Westminster-style]] [[parliamentary government]], in which the premier is the leader of the party that has the support of a majority in the [[Legislative Assembly of Saskatchewan|Legislative Assembly]]. The premier chooses a [[Cabinet (government)|cabinet]] from the elected members to form the [[Executive Council of Saskatchewan]], and presides over that body.
+
+Members are first elected to the legislature during [[List of Saskatchewan general elections|general elections]]. The ''[[Section 5 of the Canadian Charter of Rights and Freedoms|Canadian Charter of Rights and Freedoms]]'' provides that general elections must be conducted every five years from the date of the last election. By provincial law, Saskatchewan has had fixed election dates calling for elections every four years since 2007, implementing the standard practice since the 1938 election.<ref>{{Cite web | title=Legislation Introduced to Set Fixed Election Dates - Government of Saskatchewan | url=http://www.gov.sk.ca/news?newsId=f3e99177-fd1b-4544-9d63-ac9833f16f1b | archive-url=https://web.archive.org/web/20080130052646/http://www.gov.sk.ca:80/news?newsId=f3e99177-fd1b-4544-9d63-ac9833f16f1b | access-date=2026-09-06 | archive-date=2008-01-30}}</ref> The premier may also ask the lieutenant governor for early dissolution of the legislative assembly or an early election may be called if the governing party loses the confidence of the legislature, by the defeat of a supply bill or passage of a non-confidence motion. 
+
+Prior to 1905, Saskatchewan was part of the [[Northwest Territories|North-West Territories]] and was governed by the [[Lieutenant governor of the North-West Territories|lieutenant-governor of the North-West Territories]] from 1870 until 1897, and the premier of the North-West Territories from 1897 to 1905.
+
+==List of premiers==
+{{Canadian first minister list/top|references=
+| riding_ref = <ref>{{cite web|url=http://www.saskarchives.com/web/seld/2-10.pdf |title=Saskatchewan Membership to the Legislatures |access-date=2007-01-25 |author=Saskatchewan Archives Board |work=Saskatchewan Executive and Legislative Directory |archive-url=https://web.archive.org/web/20061028103532/http://www.saskarchives.com/web/seld/2-10.pdf |archive-date=2006-10-28 |url-status=dead }}</ref>
+| term_ref   = <ref>{{cite web |url = http://www.assembly.ab.ca/lao/library/PREMIERS/periods.htm |title = The Office of Premier |access-date = 2011-03-20 |author = Legislative Assembly of Alberta |work = Exact Periods of Service |url-status = dead |archive-url = https://web.archive.org/web/20110514012354/http://www.assembly.ab.ca/lao/library/premiers/periods.htm |archive-date = 2011-05-14 }}</ref><ref>{{cite web |url = http://www.saskarchives.com/sites/default/files/documents/Ministries.pdf |title = Ministries |access-date = 2011-08-20 |author = Saskatchewan Archives Board }}</ref>}}
+|-
+|colspan="9" |'''Premiers of the North-West Territories'''
+{{Canadian first minister list
+|name            = [[Frederick W. A. G. Haultain]]
+|title           = Sir
+|jurisdiction    = N-W
+|north-west      = yes
+|number          = 1
+|image           = FrederickWAGHaultain.png
+|birth_year      = 1857
+|death_year      = 1942
+|party           = Liberal-Conservative
+|riding          = [[Macleod (N.W.T. electoral district)|Macleod]]
+|term_start      = 1897-10-07
+|term_end        = 1905-09-01
+|event1          = establishment
+|event1_year     = 1897
+|event1_assembly = 3rd
+|event2          = election
+|event2_year     = 1898
+|event2_assembly = 4th
+|event3          = election
+|event3_year     = 1902
+|event3_assembly = 5th
+|accomplishments = Led negotiations for provincial status for Alberta and Saskatchewan. Later led the [[Progressive Conservative Party of Saskatchewan|Provincial Rights Party]].<ref>{{Cite book |last=Waiser |first=Bill |url=https://archive.org/details/saskatchewannewh0000wais/ |title=Saskatchewan: A New History |publisher=Fifth House |year=2005 |isbn=9781894856492 |location=Calgary |pages=4–9 |language=en-CA |url-access=registration}}</ref>
+}}
+|-
+|colspan="9"|'''Premiers of Saskatchewan'''
+{{Canadian first minister list
+| name            = [[Thomas Walter Scott]]
+| jurisdiction    = SK
+| number          = 1
+| image           = Premier Scott.jpg
+| birth_year      = 1867
+| death_year      = 1938
+| party           = Liberal
+| leadership      = [[Saskatchewan Liberal Party leadership elections|1905]]
+| riding          = [[Lumsden (provincial electoral district)|Lumsden]]
+|riding_term      = 1905–1908
+| riding2         = [[Swift Current (provincial electoral district)|Swift Current]]
+|riding2_term     = 1908–1916
+| term_start      = 1905-09-12
+| term_end        = 1916-10-20
+| event1          = establishment
+| event1_year     = 1905
+| event1_assembly = none
+| event2          = election
+| event2_year     = 1905
+| event2_assembly = 1st
+| event3          = election
+| event3_year     = 1908
+| event3_assembly = 2nd
+| event4          = election
+| event4_year     = 1912
+| event4_assembly = 3rd
+}}
+{{Canadian first minister list
+| name            = [[William Melville Martin]]
+| jurisdiction    = SK
+| number          = 2
+| image           = William Melville Martin.jpg
+| birth_year      = 1876
+| death_year      = 1970
+| party           = Liberal
+| leadership      = [[Saskatchewan Liberal Party leadership elections|1916]]
+| riding          = [[Regina City (provincial electoral district)|Regina City]]
+| riding_term     = 1916–1921
+| riding2         = Regina City #1
+| riding2_term    = 1921–1922
+| term_start      = 1916-10-20
+| term_end        = 1922-04-05
+| event1          = appointment
+| event1_year     = 1916
+| event1_assembly = 3rd
+| event2          = election
+| event2_year     = 1917
+| event2_assembly = 4th
+| event3          = election
+| event3_year     = 1921
+| event3_assembly = 5th
+| accomplishments = For a period of one year, the only premier to not be President of the Executive Council—Martin served as Minister of Education, while J. A. Calder was President of the Executive Council, until 20 October 1917.<ref>[http://www.saskarchives.com/sites/default/files/documents/Premiers.pdf Saskatchewan Premiers]</ref>
+}}
+{{Canadian first minister list
+| name            = [[Charles Avery Dunning]]
+| jurisdiction    = SK
+| number          = 3
+| image           = People-Dunning.jpg
+| birth_year      = 1885
+| death_year      = 1958
+| party           = Liberal
+| leadership      = [[Saskatchewan Liberal Party leadership elections|1922]]
+| riding          = [[Moose Jaw County]]
+| term_start      = 1922-04-05
+| term_end        = 1926-02-26
+| event1          = appointment
+| event1_year     = 1922
+| event1_assembly = 5th
+| event2          = election
+| event2_year     = 1925
+| event2_assembly = 6th
+}}
+{{Canadian first minister list
+| name            = [[James Garfield Gardiner|James G. Gardiner]]
+| jurisdiction    = SK
+| number          = 4
+| number_sub      = 1 of 2
+| image           = James Garfield Gardiner.jpg
+| birth_year      = 1883
+| death_year      = 1962
+| party           = Liberal
+| leadership      = [[Saskatchewan Liberal Party leadership elections|1926]]
+| riding          = [[North Qu'Appelle]]
+| term_start      = 1926-02-26
+| term_end        = 1929-09-09
+| event1          = appointment
+| event1_year     = 1926
+| event1_assembly = 6th
+| event2          = election
+| event2_year     = 1929
+| event2_assembly = 7th
+}}
+{{Canadian first minister list
+| name            = [[James Thomas Milton Anderson]]
+| jurisdiction    = SK
+| number          = 5
+| image           = James Thomas Milton Anderson.jpg
+| birth_year      = 1878
+| death_year      = 1946
+| party           = Conservative
+| leadership      = [[Progressive Conservative Party of Saskatchewan leadership elections|1924]]
+| riding          = [[Saskatoon City (provincial electoral district)|Saskatoon City #1]]
+| term_start      = 1929-09-09
+| term_end        = 1934-07-19
+| event1          = appointment
+| event1_year     = 1929
+| event1_assembly = 7th
+| accomplishments = First premier to lead a minority coalition government.
+}}
+{{Canadian first minister list
+| name            = James Garfield Gardiner
+| jurisdiction    = SK
+| number          = —
+| number_sub      = 2 of 2
+| image           = Jimmy Gardiner.jpg
+| birth_year      = 1883
+| death_year      = 1962
+| party           = Liberal
+| leadership      = [[Saskatchewan Liberal Party leadership elections|1926]]
+| riding          = [[Melville (provincial electoral district)|Melville]]
+| term_start      = 1934-07-19
+| term_end        = 1935-11-01
+| event1          = election
+| event1_year     = 1934
+| event1_assembly = 8th
+}}
+{{Canadian first minister list
+| name            = [[William John Patterson]]
+| jurisdiction    = SK
+| number          = 6
+| image           = William John Patterson.jpg
+| birth_year      = 1886
+| death_year      = 1976
+| party           = Liberal
+| leadership      = [[Saskatchewan Liberal Party leadership elections|1935]]
+| riding          = [[Cannington (former electoral district)|Cannington]]
+| term_start      = 1935-11-01
+| term_end        = 1944-07-10
+| event1          = appointment
+| event1_year     = 1935
+| event1_assembly = 8th
+| event2          = election
+| event2_year     = 1938
+| event2_assembly = 9th
+| accomplishments = First premier born in Saskatchewan.<ref>See article on [http://esask.uregina.ca/entry/patterson_william_john_1886-1976.html William John Patterson] at the Encyclopedia of Saskatchewan.</ref>
+}}
+{{Canadian first minister list
+| name            = [[Tommy Douglas]]
+| jurisdiction    = SK
+| number          = 7
+| image           = Premier Tommy Douglas (F1257 s1057 it2743).jpg
+| birth_year      = 1904
+| death_year      = 1986
+| party           = CCF
+| leadership      = [[Saskatchewan New Democratic Party/Co-operative Commonwealth Federation leadership elections|1942]]
+| riding          = [[Weyburn-Big Muddy|Weyburn]]
+| term_start      = 1944-07-10
+| term_end        = 1961-11-07
+| event1          = election
+| event1_year     = 1944
+| event1_assembly = 10th
+| event2          = election
+| event2_year     = 1948
+| event2_assembly = 11th
+| event3          = election
+| event3_year     = 1952
+| event3_assembly = 12th
+| event4          = election
+| event4_year     = 1956
+| event4_assembly = 13th
+| event5          = election
+| event5_year     = 1960
+| event5_assembly = 14th
+}}
+{{Canadian first minister list
+| name            = [[Woodrow Lloyd]]
+| jurisdiction    = SK
+| number          = 8
+| image           = Woodrow Stanley Lloyd-M. West, Regina.jpg
+| birth_year      = 1913
+| death_year      = 1972
+| party           = CCF
+| leadership      = [[Saskatchewan New Democratic Party/Co-operative Commonwealth Federation leadership elections|1961]]
+| riding          = [[Biggar (former provincial electoral district)|Biggar]]
+| term_start      = 1961-11-07
+| term_end        = 1964-05-22
+| event1          = appointment
+| event1_year     = 1961
+| event1_assembly = 14th
+| accomplishments = First premier born after the establishment of the province in 1905.
+}}
+{{Canadian first minister list
+| name            = [[Ross Thatcher]]
+| jurisdiction    = SK
+| number          = 9
+| image           = Wilbert Ross Thatcher, 1953.jpg
+| birth_year      = 1917
+| death_year      = 1971
+| party           = Liberal
+| leadership      = [[Saskatchewan Liberal Party leadership elections|1959]]
+| riding          = [[Morse (provincial electoral district)|Morse]]
+| term_start      = 1964-05-22
+| term_end        = 1971-06-30
+| event1          = election
+| event1_year     = 1964
+| event1_assembly = 15th
+| event2          = election
+| event2_year     = 1967
+| event2_assembly = 16th
+}}
+{{Canadian first minister list
+| name            = [[Allan Blakeney]]
+| jurisdiction    = SK
+| number          = 10
+| image           = Allan Blakeney 1980 (cropped).jpg
+| birth_year      = 1925
+| death_year      = 2011
+| party           = NDP
+| leadership      = [[Saskatchewan New Democratic Party/Co-operative Commonwealth Federation leadership elections|1970]]
+| riding          = [[Regina Centre]]
+| riding_term     = 1971–1975
+| riding2         = [[Regina Elphinstone]]
+| riding2_term    = 1975–1982
+| term_start      = 1971-06-30
+| term_end        = 1982-05-08
+| event1          = election
+| event1_year     = 1971
+| event1_assembly = 17th
+| event2          = election
+| event2_year     = 1975
+| event2_assembly = 18th
+| event3          = election
+| event3_year     = 1978
+| event3_assembly = 19th
+}}
+{{Canadian first minister list
+| name            = [[Grant Devine]]
+| jurisdiction    = SK
+| number          = 11
+| image           = Grant Devine.jpg
+| birth_year      = 1944
+| party           = PC
+| leadership      = [[Progressive Conservative Party of Saskatchewan leadership elections|1979]]
+| riding          = [[Estevan (electoral district)|Estevan]]
+| term_start      = 1982-05-08
+| term_end        = 1991-11-01
+| event1          = election
+| event1_year     = 1982
+| event1_assembly = 20th
+| event2          = election
+| event2_year     = 1986
+| event2_assembly = 21st
+}}
+{{Canadian first minister list
+| name            = [[Roy Romanow]]
+| jurisdiction    = SK
+| number          = 12
+| image           = Roy Romanow University of Ottawa1 (cropped).jpg
+| birth_year      = 1939
+| party           = NDP
+| leadership      = [[Saskatchewan New Democratic Party/Co-operative Commonwealth Federation leadership elections|1987]]
+| riding          = [[Saskatoon Riversdale]]
+| term_start      = 1991-11-01
+| term_end        = 2001-02-08
+| event1          = election
+| event1_year     = 1991
+| event1_assembly = 22nd
+| event2          = election
+| event2_year     = 1995
+| event2_assembly = 23rd
+| event3          = election
+| event3_year     = 1999
+| event3_assembly = 24th
+}}
+{{Canadian first minister list
+| name            = [[Lorne Calvert]]
+| jurisdiction    = SK
+| number          = 13
+| image           = Calvert.jpg
+| birth_year      = 1952
+| party           = NDP
+| leadership      = [[Saskatchewan New Democratic Party/Co-operative Commonwealth Federation leadership elections|2001]]
+| riding          = [[Saskatoon Riversdale]]
+| term_start      = 2001-02-08
+| term_end        = 2007-11-21
+| event1          = appointment
+| event1_year     = 2001
+| event1_assembly = 24th
+| event2          = election
+| event2_year     = 2003
+| event2_assembly = 25th
+}}
+{{Canadian first minister list
+| name            = [[Brad Wall]]
+| jurisdiction    = SK
+| number          = 14
+| image           = BradWall.jpg
+| birth_year      = 1965
+| party           = Saskatchewan
+| leadership      = [[Saskatchewan Party leadership elections|2004]]
+| riding          = [[Swift Current (provincial electoral district)|Swift Current]]
+| term_start      = 2007-11-21
+| term_end        = 2018-02-02
+| event1          = election
+| event1_year     = 2007
+| event1_assembly = 26th
+| event2          = election
+| event2_year     = 2011
+| event2_assembly = 27th
+| event3          = election
+| event3_year     = 2016
+| event3_assembly = 28th
+}}
+{{Canadian first minister list
+| name            = [[Scott Moe]]
+| jurisdiction    = SK
+| number          = 15
+| image           = Scott Moe at US EPA (cropped).jpg
+| birth_year      = 1973
+| party           = Saskatchewan
+| leadership      = [[Saskatchewan Party leadership elections|2018]]
+| riding          = [[Rosthern-Shellbrook]]
+| term_start      = 2018-02-02
+| term_end        = 
+| event1          = appointment
+| event1_year     = 2018
+| event1_assembly = 28th
+| event2          = election
+| event2_year     = 2020
+| event2_assembly = 29th
+| event3          = election
+| event3_year     = 2024
+| event3_assembly = 30th
+}}
+{{Canadian first minister list/bottom|colspan=9|notes=
+}}
+
+=== Premiers by party ===
+
+{{legend|{{Canadian party colour|SK|Liberal}}|[[Saskatchewan Liberal Party|Liberal Party]] (6)|border=1px solid #AAAAAA}}
+
+{{legend|{{Canadian party colour|SK|NDP}}|[[Saskatchewan New Democratic Party|New Democratic Party]] (3)|border=1px solid #AAAAAA}}
+
+{{legend|{{Canadian party colour|SK|CCF}}|[[Saskatchewan New Democratic Party|Co-operative Commonwealth Federation]] (2)|border=1px solid #AAAAAA}}
+
+{{legend|{{Canadian party colour|SK|PC}}|[[Progressive Conservative Party of Saskatchewan|Progressive Conservative Party]] (2)|border=1px solid #AAAAAA}}
+
+{{legend|{{Canadian party colour|SK|Saskatchewan}}|[[Saskatchewan Party]] (2)|border=1px solid #AAAAAA}}
+
+'''Note''': The Co-operative Commonwealth Federation (CCF) was succeeded by the New Democratic Party (NDP) in the 1960s. The party contested the 1964 election as the CCF-NDP.
+
+== Timeline ==
+{{#tag:timeline|
+ImageSize = width:1000 height:auto barincrement:18
+PlotArea  = top:10 bottom:80 right:50 left:20
+AlignBars = late
+
+Define $today = {{#time:d/m/Y}}
+Define $later = 31/12/{{#time:Y}}
+
+DateFormat = dd/mm/yyyy
+Period     = from:01/01/1904 till:31/12/2028
+TimeAxis   = orientation:horizontal
+ScaleMinor = unit:year increment:1 start:01/01/1904
+ScaleMajor = unit:year increment:5 start:01/01/1904
+
+Colors = 
+  id:lib     value:rgb(0.92, 0.43, 0.42) legend:Liberal
+  id:cons       value:rgb(0.6, 0.6, 1) legend:Conservative/Progressive_Conservative
+  id:com       value:rgb(0.93, 0.87, 0.67) legend:Co-operative_Commonwealth
+  id:ndp       value:rgb(0.96, 0.64, 0.38) legend:New_Democratic
+  id:sas       value:rgb(0.24, 0.7, 0.44) legend:Saskatchewan
+  id:linemark  value:gray(0.8)
+  id:linemark2 value:gray(0.9)
+
+Legend     = columns:1
+
+BarData =
+  bar:WScott
+  bar:MMartin
+  bar:Dunning
+  bar:Gardiner
+  bar:Anderson
+  bar:Patterson
+  bar:Douglas
+  bar:WLloyd
+  bar:Thatcher
+  bar:Blakeney
+  bar:Devine
+  bar:Romanow
+  bar:Calvert
+  bar:Wall
+  bar:Moe
+
+PlotData=
+  width:5 align:left fontsize:S shift:(5,-4) anchor:till
+ bar:WScott
+  from: 12/09/1905 till: 20/10/1916 color:lib text:"[[Thomas Walter Scott]]"
+ bar:MMartin
+  from: 20/10/1916 till: 05/04/1922 color:lib text:"[[William Melville Martin]]"
+ bar:Dunning
+  from: 05/04/1922 till: 26/02/1926 color:lib text:"[[Charles Avery Dunning]]"
+ bar:Gardiner
+  from: 26/02/1926 till: 09/09/1929 color:lib #Gardiner
+  from: 19/07/1934 till: 01/11/1935 color:lib text:"[[James G. Gardiner]]"
+ bar:Anderson
+  from: 09/09/1929 till: 19/07/1934 color:cons text:"[[James Thomas Milton Anderson]]"
+ bar:Patterson
+  from: 01/11/1935 till: 10/07/1944 color:lib text:"[[William John Patterson]]"
+ bar:Douglas
+  from: 10/07/1944 till: 07/11/1961 color:com text:"[[Tommy Douglas]]"
+ bar:WLloyd
+  from: 07/11/1961 till: 22/05/1964 color:com text:"[[Woodrow Lloyd]]"
+ bar:Thatcher
+  from: 22/05/1964 till: 30/06/1971 color:lib text:"[[Ross Thatcher]]"
+ bar:Blakeney
+  from: 30/06/1971 till: 08/05/1982 color:ndp text:"[[Allan Blakeney]]" 
+ bar:Devine
+  from: 08/05/1982 till: 01/11/1991 color:cons text:"[[Grant Devine]]"
+ bar:Romanow
+  from: 01/11/1991 till: 08/02/2001 color:ndp text:"[[Roy Romanow]]"
+ bar:Calvert
+  from: 08/02/2001 till: 21/11/2007 color:ndp text:"[[Lorne Calvert]]"
+ bar:Wall
+  from: 21/11/2007 till: 02/02/2018 color:sas text:"[[Brad Wall]]"
+ bar:Moe
+  from: 02/02/2018 till: $today color:sas text:"[[Scott Moe]]"
+}}
+
+== List of premiers by time in office ==
+[[File:Tommycropped.jpg|thumb|[[Tommy Douglas]] is Saskatchewan's longest serving premier, holding the office for more than 17 years and winning five consecutive elections between 1944 and 1960.]]
+{| class="wikitable sortable"
+!Rank
+!Premier
+!Incumbency
+! colspan="2" |Terms of office
+!Elections won
+!Party
+|-
+|1
+|{{sortname|Tommy|Douglas}}
+|{{ayd|1944|07|10|1961|11|7}}
+|July 10, 1944
+|November 7, 1961
+|5
+|{{Canadian party colour|SK|CCF|colour&name}}
+|-
+|2
+|{{sortname|Thomas Walter|Scott}}
+|{{ayd|1905|9|12|1916|10|20}}
+|September 12, 1905
+|October 20, 1916
+|3
+|{{Canadian party colour|SK|Liberal|colour&name}}
+|-
+|3
+|{{sortname|Allan|Blakeney}}
+|{{ayd|1971|6|30|1982|5|8}}
+|June 30, 1971
+|May 8, 1982
+|3
+|{{Canadian party colour|SK|NDP|colour&name}}
+|-
+|4
+|{{sortname|Brad|Wall}}
+|{{ayd|2007|11|21|2018|2|2}}
+|November 21, 2007
+|February 2, 2018
+|3
+|{{Canadian party colour|SK|Saskatchewan|colour&name}}
+|-
+|5
+|{{sortname|Grant|Devine}}
+|{{ayd|1982|5|8|1991|11|1}}
+|May 8, 1982
+|November 1, 1991
+|2
+|{{Canadian party colour|SK|PC|colour&name}}
+|-
+|6
+|{{sortname|Roy|Romanow}}
+|{{ayd|1991|11|1|2001|2|8}}
+|November 1, 1991
+|February 8, 2001
+|3
+|{{Canadian party colour|SK|NDP|colour&name}}
+|-
+|7
+|'''{{sortname|Scott|Moe}}''' ''(incumbent)''
+|{{ayd|2018|02|02|||}}
+|February 2, 2018
+|''Incumbent''
+|2
+|{{Canadian party colour|SK|Saskatchewan|colour&name}}
+|-
+|8
+|{{sortname|William John|Patterson}}
+|{{ayd|1935|11|1|1944|7|10}}
+|November 1, 1935
+|July 10, 1944
+|1
+|{{Canadian party colour|SK|Liberal|colour&name}}
+|-
+|9
+|{{sortname|W. Ross|Thatcher}}
+|{{ayd|1964|05|22|1971|6|30}}
+|May 22, 1964
+|June 30, 1971
+|2
+|{{Canadian party colour|SK|Liberal|colour&name}}
+|-
+|10
+|{{sortname|Lorne|Calvert}}
+|{{ayd|2001|2|8|2007|11|21}}
+|February 8, 2001
+|November 21, 2007
+|1
+|{{Canadian party colour|SK|NDP|colour&name}}
+|-
+|11
+|{{sortname|William Melville|Martin}}
+|{{ayd|1916|10|20|1922|04|5}}
+|October 20, 1916
+|April 5, 1922
+|2
+|{{Canadian party colour|SK|Liberal|colour&name}}
+|-
+|12
+|{{sortname|James Thomas Milton|Anderson}}
+|{{ayd|1929|9|9|1934|7|19}}
+|September 9, 1929
+|July 19, 1934
+|1
+|{{Canadian party colour|SK|PC|colour&name}}
+|-
+| rowspan="2" |13
+| rowspan="2" |{{sortname|James Garfield|Gardiner}}{{Efn|Gardiner served two non-consecutive terms|name=footnote1}}
+| rowspan="2" |{{ayd|1931|01|05|1935|11|1}}
+|February 26, 1926
+|September 9, 1929
+| rowspan="2" |1
+| rowspan="2" |{{Canadian party colour|SK|Liberal|colour&name}}
+|-
+|July 19, 1934
+|November 1, 1935
+|-
+|14
+|{{sortname|Charles Avery|Dunning}}
+|{{ayd|1922|4|5|1926|2|26}}
+|April 5, 1922
+|February 26, 1926
+|1
+|{{Canadian party colour|SK|Liberal|colour&name}}
+|-
+|15
+|{{sortname|Woodrow|Lloyd}}
+|{{ayd|1961|11|7|1964|5|22}}
+|November 7, 1961
+|May 22, 1964
+|0
+|{{Canadian party colour|SK|CCF|colour&name}}
+|}
+
+=== Notes ===
+{{notelist}}
+
+==See also==
+*[[List of leaders of the opposition in Saskatchewan]]
+*For more lists of this type, see [[Lists of incumbents]].
+
+==References==
+{{Reflist}}
+
+{{Canadian First Ministers}}
+
+{{DEFAULTSORT:List Of Premiers Of Saskatchewan}}
+[[Category:Lists of premiers of Canada by province or territory|Saskatchewan]]
+[[Category:Premiers of Saskatchewan|*]]
+[[Category:Lists of political office-holders in Saskatchewan|Premiers]]
+[[Category:Lists of people by time in office]]

@@ -1,0 +1,444 @@
+{{Short description|none}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 1908 Canadian federal election
+| country = Canada
+| flag_year = 1868
+| type = parliamentary
+| ongoing = no
+| party_colour = no
+| party_name = no
+| previous_election = 1904 Canadian federal election
+| previous_year = 1904
+| next_election = 1911 Canadian federal election
+| next_year = 1911
+| seats_for_election = 221 seats in the [[House of Commons of Canada|House of Commons]]
+| majority_seats = 111
+| turnout = 70.3%<ref>{{cite web|title=Voter Turnout at Federal Elections and Referendums
+|url=http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|access-date=10 March 2019}}</ref> ({{decrease}} 1.3 [[Percentage Point|pp]])
+| election_date = October 26, 1908
+| elected_members = 11th Canadian Parliament
+| outgoing_members = 10th Canadian Parliament
+| image1 = The Honourable Sir Wilfrid Laurier Photo A (3x4 cropped) 2.png
+| colour1 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader1 = [[Wilfrid Laurier]]
+| leader_since1 = June 2, 1887
+| party1 = {{Canadian party colour|CA|Liberal|name}}
+| leaders_seat1 = [[Quebec East]]{{efn|Laurier was also elected in [[Ottawa (City of) (electoral district)|Ottawa (City of)]]; he chose to sit for Quebec East instead, and resigned as the Member of Parliament for Ottawa (City of).}}
+| last_election1 = 137 seats, 50.9%
+| seats1 = '''133'''
+| seat_change1 = {{decrease}} 4
+| popular_vote1 = '''570,311'''
+| percentage1 = '''48.9%'''
+| swing1 = {{decrease}} 2.0 [[Percentage Point|pp]]
+| image2 = [[File:Robert Laird Borden cph.3b31281 (cropped).jpg|200x200px]]
+| colour2 = {{Canadian party colour|CA|Conservative (historical)|nohash}}
+| leader2 = [[Robert Borden]]
+| leader_since2 = February 6, 1901
+| party2 = {{Canadian party colour|CA|Conservative (historical)|name}}
+| leaders_seat2 = [[Halifax (federal electoral district)|Halifax]]{{efn|Borden was also elected in [[Carleton (Ontario federal electoral district)|Carleton]], which he represented during the previous Parliament; he chose to sit for Halifax instead, and resigned as the Member of Parliament for Carleton.}}
+| last_election2 = 75 seats, 45.9%
+| seats2 = 85
+| seat_change2 = {{increase}} 10
+| popular_vote2 = 539,374
+| percentage2 = 46.2%
+| swing2 = {{increase}} 0.3 [[Percentage Point|pp]]
+| map_image = Canada 1908 Federal Election.svg
+| map_size = 
+| map_caption = 
+| title = Prime Minister
+| posttitle = Prime Minister after election
+| before_election = [[Wilfrid Laurier]]
+| before_party = {{Canadian party colour|CA|Liberal|name}}
+| after_election = [[Wilfrid Laurier]]
+| after_party = {{Canadian party colour|CA|Liberal|name}}
+| map2_image = Cdn1908.PNG
+| map2_size = 380px
+| map2_caption = The Canadian parliament after the 1908 election
+| image1_size = x200px
+}}
+The '''1908 Canadian federal election''' was held on Monday October 26, 1908 to elect members  of the [[House of Commons of Canada]] of the [[11th Canadian Parliament|11th Parliament]] of [[Canada]]. [[Prime Minister of Canada|Prime Minister]] Sir [[Wilfrid Laurier]]'s [[Liberal Party of Canada]] was re-elected for a fourth consecutive term in government with a [[majority government]]. The Liberals lost four seats and a small share of the popular vote.
+
+Sir [[Robert Borden]]'s [[Conservative Party of Canada (historical)|Conservatives]] and [[Liberal-Conservative Party|Liberal-Conservative]]s won ten additional seats.
+
+This was the first election following the creation of the provinces of [[Alberta]] and [[Saskatchewan]]. Following their creation in 1905, the two new provinces continued to be represented by MPs initially elected under the old Northwest Territories riding boundaries, some of which straddled the new provincial border. The remainder of the Northwest Territories that previously had Parliamentary representation lost it, although parts of the NWT would gain or regain representation after being added to Manitoba, Ontario and Quebec in 1912. A seat would not be created for the NWT itself again (which then contained the modern NWT and Nunavut) until [[1949 Canadian federal election|1949]].
+
+This election was the last time a prime minister managed to retain power into a fourth consecutive term.
+
+==Electoral system ==
+Most of the ridings elected one member through first post the post voting. But Halifax and Queen's (PEI) each elected two MPs through [[plurality block voting]].
+
+==National results ==
+[[File:1908 Canadian parliament.svg|center|300px]]
+
+{| class="wikitable"
+!rowspan=2 colspan=2|Party
+!rowspan=2|Party leader
+!rowspan=2|# of <br />candidates
+!colspan=3|Seats
+!colspan=3|Popular vote
+|- bgcolor="CCCCCC"
+|align="center"|[[1904 Canadian federal election|1904]]
+|align="center"|'''Elected'''
+|align="center"|Change
+|align="center"|#
+|align="center"|%
+|align="center"|Change
+{{Canadian party colour|CA|Liberal|row}}
+| [[Liberal Party of Canada|Liberal]]
+| [[Wilfrid Laurier]] 
+|align="right"| 213
+|align="right"|137
+|align="right"| '''133 '''
+|align="right"|-2.9%
+|align="right"| 570,311
+|align="right"| 48.87%
+|align="right"|-2.01pp
+{{Canadian party colour|CA|PC|row}}
+| [[Conservative Party of Canada (historical)|Conservative]]
+| rowspan=2|  [[Robert Borden]]
+|align="right"| 207
+|align="right"|70
+|align="right"| '''82 '''
+|align="right"|+17.1%
+|align="right"| 524,641
+|align="right"| 44.95%
+|align="right"|+0.55pp
+{{Canadian party colour|CA|PC|row}}
+| [[Liberal-Conservative Party|Liberal-Conservative]]
+|align="right"| 4
+|align="right"|5
+|align="right"| '''3'''
+|align="right"|-40.0%
+|align="right"| 14,733
+|align="right"| 1.26%
+|align="right"|-0.27pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2| Independent
+|align="right"| 15
+|align="right"|1
+|align="right"| '''1'''
+|align="right"|-
+|align="right"| 16,903
+|align="right"|  1.45%
+|align="right"|+0.45pp
+{{Canadian party colour|CA|Labour|row-name}}
+| &nbsp;
+|align="right"| 3
+|align="right"|-
+|align="right"| '''1'''
+|align="right"|&nbsp;
+|align="right"| 10,400
+|align="right"|  0.89%
+|align="right"|+0.68pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2| Unknown
+|align="right"| 7
+|align="right"|-
+|align="right"| -
+|align="right"|-
+|align="right"| 13,478
+|align="right"| 1.15%
+|align="right"|+0.02pp
+{{Canadian party colour|CA|Socialist|row-name}}
+| &nbsp;
+|align="right"| 5
+|align="right"|-
+|align="right"| -
+|align="right"|-
+|align="right"| 6,071 
+|align="right"| 0.52%
+|align="right"|+0.35pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2| Independent Conservative
+|align="right"| 2
+|align="right"|1
+|align="right"| '''1'''
+|align="right"|-100%
+|align="right"| 5,314
+|align="right"| 0.46%
+|align="right"|-0.04pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Independent Liberal
+|align="right"| 5
+|align="right"|-
+|align="right"| -
+|align="right"|-
+|align="right"| 5,191 
+|align="right"| 0.44%
+|align="right"|+0.41pp
+|- 
+|colspan=3 |'''Total'''
+!align="right"| 461
+!align="right"|214
+!align="right"| 221
+!align="right"|+2.8%
+!align="right"| 1,167,042
+!align="right"| 100%  
+!align="right"|&nbsp;
+|-
+| align="center" colspan=10|'''Sources:''' http://www.elections.ca -- [http://www.parl.gc.ca/information/about/process/house/hfer/hfer.asp?Language=E History of Federal Ridings since 1867] {{Webarchive|url=https://web.archive.org/web/20081204121507/http://www.parl.gc.ca/information/about/process/house/hfer/hfer.asp?Language=E |date=2008-12-04 }}
+|-
+|}
+
+==Results by province==
+
+{| class="wikitable"
+! align="center" colspan=3|Party
+! align="center"|[[British Columbia|BC]]
+! align="center"|[[Alberta|AB]]
+! align="center"|[[Saskatchewan|SK]]
+! align="center"|[[Manitoba|MB]]
+! align="center"|[[Ontario|ON]]
+! align="center"|[[Quebec|QC]]
+! align="center"|[[New Brunswick|NB]]
+! align="center"|[[Nova Scotia|NS]]
+! align="center"|[[Prince Edward Island|PE]]
+! align="center"|[[Yukon|YK]]
+! align="center"|Total
+{{Canadian party colour|CA|Liberal|row}}
+| rowspan=2|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| align="right"|  2 <!--BC-->
+| align="right"|  4<!--Alb-->
+| align="right"| 9  <!--Sask-->
+| align="right"|  2<!--Man-->
+| align="right"|  37<!--Ont-->
+| align="right"|  52<!--Que-->
+| align="right"| 11<!--NB-->
+| align="right"| 12<!--NS-->
+| align="right"|  3<!--PEI-->
+| align="right"| 1 <!--YK-->
+| align="right"| 133 <!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| Popular vote (%):
+| align="right"| 35.9 <!--BC-->
+| align="right"| 50.2 <!--Alb-->
+| align="right"| 56.6 <!--Sask-->
+| align="right"| 45.4<!--Man-->
+| align="right"| 45.0<!--Ont-->
+| align="right"| 53.0<!--Que-->
+| align="right"| 56.2<!--NB-->
+| align="right"| 51.0<!--NS-->
+| align="right"| 50.4<!--PEI-->
+| align="right"| 40.2<!--YK-->
+| align="right"| 48.9<!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| rowspan=2|[[Conservative Party of Canada (historical)|Conservative]]
+| Seats:
+| align="right"| 5 <!--BC-->
+| align="right"| 2<!--Alb-->
+| align="right"| 1  <!--Sask-->
+| align="right"|  8   <!--Man-->
+| align="right"| 46<!--Ont-->
+| align="right"|12 <!--Que-->
+| align="right"| 2<!--NB-->
+| align="right"|  5   <!--NS-->
+| align="right"| 1  <!--PEI-->
+| align="right"| - <!--YK-->
+| align="right"|82<!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| Vote (%):
+| align="right"| 46.8<!--BC-->
+| align="right"| 38.1<!--Alb-->
+| align="right"| 36.8<!--Sask-->
+| align="right"| 51.5<!--Man-->
+| align="right"| 49.2<!--Ont-->
+| align="right"| 39.5<!--Que-->
+| align="right"| 43.8<!--NB-->
+| align="right"| 44.5<!--NS-->
+| align="right"| 49.6<!--PEI-->
+| align="right"|  10.8<!--YK-->
+| align="right"| 45.0<!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| rowspan=2 |[[Liberal-Conservative Party|Liberal-Conservative]]
+| Seats:
+| align="right"| &nbsp;  <!--BC-->
+| align="right"| 1<!--Alb-->
+| align="right"| &nbsp;   <!--Sask-->
+| align="right"|  &nbsp;    <!--Man-->
+| align="right"| 1<!--Ont-->
+| align="right"|&nbsp;   <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"|  1   <!--NS-->
+| align="right"| &nbsp;   <!--PEI-->
+| align="right"| &nbsp; <!--YK-->
+| align="right"|3<!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| Vote (%):
+| align="right"| &nbsp; <!--BC-->
+| align="right"| 6.4<!--Alb-->
+| align="right"| &nbsp; <!--Sask-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"| 1.5<!--Ont-->
+| align="right"| &nbsp; <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"| 4.5<!--NS-->
+| align="right"| &nbsp; <!--PEI-->
+| align="right"|  &nbsp; <!--YK-->
+| align="right"| 1.3<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2 |Independent
+| Seats:
+| align="right"| -  <!--BC-->
+| align="right"| - <!--Alb-->
+| align="right"| -   <!--Sask-->
+| align="right"|  -    <!--Man-->
+| align="right"| 1<!--Ont-->
+| align="right"| -   <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"|  &nbsp;    <!--NS-->
+| align="right"| &nbsp;  <!--PEI-->
+| align="right"| &nbsp; <!--YK-->
+| align="right"|1<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote (%):
+| align="right"| 8.9 <!--BC-->
+| align="right"|  3.7<!--Alb-->
+| align="right"|  0.6 <!--Sask-->
+| align="right"| 0.1 <!--Man-->
+| align="right"| 1.8<!--Ont-->
+| align="right"| 1.1<!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"| &nbsp;   <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--YK-->
+| align="right"| 1.5  <!--Canada/Total-->
+{{Canadian party colour|CA|Labour|row}}
+| rowspan=2 | [[Labour Party of Canada|Labour]]
+| Seats:
+| align="right"| &nbsp;  <!--BC-->
+| align="right"| &nbsp; <!--Alb-->
+| align="right"| &nbsp;   <!--Sask-->
+| align="right"|  &nbsp;    <!--Man-->
+| align="right"| - <!--Ont-->
+| align="right"|1  <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"|  &nbsp;    <!--NS-->
+| align="right"| &nbsp;   <!--PEI-->
+| align="right"| &nbsp; <!--YK-->
+| align="right"|1<!--Canada/Total-->
+{{Canadian party colour|CA|Labour|row}}
+| Vote (%):
+| align="right"|&nbsp; <!--BC-->
+| align="right"| &nbsp; <!--Alb-->
+| align="right"| &nbsp; <!--Sask-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"| 0.7 <!--Ont-->
+| align="right"| 2.6 <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"|  &nbsp; <!--NS-->
+| align="right"|  &nbsp; <!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"| 0.9 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2 | Independent Conservative
+| Seats:
+| align="right"| &nbsp;  <!--BC-->
+| align="right"| &nbsp; <!--Alb-->
+| align="right"| - <!--Sask-->
+| align="right"|  &nbsp;    <!--Man-->
+| align="right"| 1 <!--Ont-->
+| align="right"|  <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"|  &nbsp;    <!--NS-->
+| align="right"| &nbsp;   <!--PEI-->
+| align="right"| &nbsp; <!--YK-->
+| align="right"|1<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote (%):
+| align="right"| &nbsp; <!--BC-->
+| align="right"| &nbsp;  <!--Alb-->
+| align="right"| 5.9 <!--Sask-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"| 0.4 <!--Ont-->
+| align="right"| &nbsp; <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"| &nbsp;   <!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"|0.5 <!--Canada/Total-->
+|- 
+| colspan=3|'''Total seats'''
+| align="right"|'''7''' <!--BC-->
+| align="right"|'''7''' <!--Alb-->
+| align="right"|'''10''' <!--Sask-->
+| align="right"|'''10''' <!--Man-->
+| align="right"| '''86'''<!--Ont-->
+| align="right"|'''65''' <!--Que-->
+| align="right"|'''13''' <!--NB-->
+| align="right"|'''18''' <!--NS-->
+| align="right"| '''4'''<!--PEI-->
+| align="right"| '''1'''<!--YK-->
+| align="right"| '''221'''<!--Canada/Total-->
+|-
+|colspan=14|'''Parties that won no seats:'''
+{{Canadian party colour|CA|Independent|row}}
+| Unknown
+| Vote (%):
+| align="right"| 1.3 <!--BC-->
+| align="right"| &nbsp; <!--Alb-->
+| align="right"| &nbsp; <!--Sask-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"| 1.4   <!--Ont-->
+| align="right"| 1.9 <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"| &nbsp;   <!--PEI-->
+| align="right"| 49.0<!--YK-->
+| align="right"|1.2 <!--Canada/Total-->
+{{Canadian party colour|CA|Socialist|row-name}}
+| Vote (%):
+| align="right"|7.1<!--BC-->
+| align="right"| 1.6<!--Alb-->
+| align="right"| &nbsp;  <!--Sask-->
+| align="right"| 2.9 <!--Man-->
+| align="right"| 0.2 <!--Ont-->
+| align="right"| &nbsp;<!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"| 0.5<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+|Independent Liberal
+| Vote (%):
+| align="right"| &nbsp; <!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| 0.1<!--Sask-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"| 1.8  <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"| &nbsp;  <!--NS-->
+| align="right"| &nbsp; <!--PEI-->
+| align="right"|&nbsp;<!--YK-->
+| align="right"| 0.4 <!--Canada/Total-->
+|-
+|}
+
+==See also==
+{{Portal|Canada|Politics}} 
+*[[List of Canadian federal general elections]]
+*[[List of political parties in Canada]]
+*[[11th Canadian Parliament]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite thesis |last=Copp |first=John Terry |date=1968 |title=The Canadian General Election of 1908 |url=https://doi.org/10.82308/33185  |degree=Master's |location=Montreal |publisher=[[McGill University]]}}
+* {{cite book |last=Hopkins |first=J. Castell |title=The Canadian Annual Review of Public Affairs, 1908 |date=1909 |publisher=The Annual Review Publishing Company |location=Toronto |url=https://archive.org/details/canadianannualre0000unse_k9g5}}
+* {{cite book |last1=Foley |first1=James G. |title=Return of the Eleventh General Election for the House of Commons of Canada, held on the 26th day of October, 1908 |date=1909 |publisher=King's Printer |location=Ottawa |url=https://archive.org/details/1909v43i8p18_0572}}
+
+{{election canada}}
+{{Wilfrid Laurier}}
+{{Robert Borden}}
+
+[[Category:1908 Canadian federal election| ]]
+[[Category:1908 elections in Canada]]
+[[Category:Canadian federal elections by year|1908]]
+[[Category:October 1908 in Canada]]

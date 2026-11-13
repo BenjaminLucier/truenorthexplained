@@ -83,6 +83,56 @@ export const VISUALS: Visual[] = [
     icon: "Landmark",
     kind: "chart",
   },
+  {
+    title: "Who won the House, 1867–2025",
+    text: "Every federal election's seats by party, and the government it produced.",
+    href: "/elections-history#election-seats",
+    icon: "ChartColumnStacked",
+    kind: "chart",
+    featured: true,
+  },
+  {
+    title: "Votes vs seats since 1867",
+    text: "How first-past-the-post has turned Liberal and Conservative votes into seats.",
+    href: "/elections-history#election-votes-seats",
+    icon: "ChartSpline",
+    kind: "chart",
+  },
+  {
+    title: "Voter turnout since 1867",
+    text: "Turnout at every election, and the changes in who could vote.",
+    href: "/elections-history#election-turnout",
+    icon: "ChartNoAxesCombined",
+    kind: "chart",
+  },
+  {
+    title: "Majority and minority Parliaments",
+    text: "Every Parliament since 1867, and how long it lasted.",
+    href: "/elections-history#election-governments",
+    icon: "ChartGantt",
+    kind: "chart",
+  },
+  {
+    title: "Seats in the House over time",
+    text: "How the House grew from 181 seats to 343.",
+    href: "/elections-history#election-house-size",
+    icon: "ChartArea",
+    kind: "chart",
+  },
+  {
+    title: "Women elected to the House",
+    text: "The share of MPs elected who were women, from 1921 to today.",
+    href: "/elections-history#election-women",
+    icon: "ChartColumnIncreasing",
+    kind: "chart",
+  },
+  {
+    title: "Who has governed the provinces",
+    text: "Every premier since each province and territory joined, by party family.",
+    href: "/provinces#premiers-ribbon",
+    icon: "Rows3",
+    kind: "chart",
+  },
 
   // Interactives
   {

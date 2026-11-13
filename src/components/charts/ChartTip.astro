@@ -1,0 +1,234 @@
+---
+/**
+ * Hover, tap and keyboard tooltips for a build-time SVG chart.
+ *
+ *   <tn-chart>
+ *     <svg>… <rect data-tip="t-1" data-group="1" aria-label="1867: …" role="img" /> …</svg>
+ *     <template id="t-1">…tooltip HTML…</template>
+ *     <ChartTip />
+ *   </tn-chart>
+ *
+ * Every element with `data-tip` is a stop: hovering it with a mouse shows the
+ * template it names beside the pointer, tapping it shows the tooltip above
+ * it, and it's reachable with the keyboard as one tab stop (the arrow keys,
+ * Home and End move between stops; Escape hides the tooltip). Stops with a
+ * `data-row` form a grid: Up and Down move to the nearest stop in the next
+ * row. Every element sharing the stop's `data-group` gets `.is-active`, so a
+ * chart can highlight a whole column or point; the chart gets `data-active`
+ * while a tooltip shows. The tooltip is decorative (`aria-hidden`): each stop
+ * carries the same facts in its `aria-label`, and the chart's table has them all.
+ */
+---
+
+<div class="ct-tip" aria-hidden="true" hidden></div>
+
+<style is:global>
+  tn-chart {
+    display: block;
+    position: relative;
+  }
+  tn-chart [data-tip] {
+    cursor: default;
+  }
+  tn-chart [data-tip]:focus {
+    outline: none;
+  }
+  .ct-tip {
+    position: absolute;
+    z-index: 20;
+    top: 0;
+    left: 0;
+    width: max-content;
+    max-width: min(17rem, 100%);
+    padding: 0.625rem 0.75rem;
+    border: 1px solid var(--tn-border);
+    border-radius: 0.625rem;
+    background: var(--tn-surface);
+    box-shadow: 0 6px 24px rgb(0 0 0 / 0.14);
+    color: var(--tn-text-secondary);
+    font-size: 0.8125rem;
+    line-height: 1.35;
+    font-variant-numeric: tabular-nums;
+    pointer-events: none;
+  }
+  .ct-tip[hidden] {
+    display: none;
+  }
+  .ct-tip .ct-h {
+    font-weight: 700;
+    color: var(--tn-text-primary);
+  }
+  .ct-tip .ct-sub {
+    margin-top: 0.125rem;
+    font-size: 0.75rem;
+    color: var(--tn-text-muted);
+  }
+  .ct-tip .ct-p {
+    margin-top: 0.375rem;
+  }
+  .ct-tip .ct-rows {
+    margin-top: 0.5rem;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .ct-tip .ct-rows td {
+    padding: 0.125rem 0;
+    vertical-align: baseline;
+  }
+  .ct-tip .ct-rows td + td {
+    padding-left: 0.75rem;
+    text-align: end;
+    white-space: nowrap;
+  }
+  .ct-tip .ct-rows .ct-strong td {
+    color: var(--tn-text-primary);
+    font-weight: 600;
+  }
+  .ct-tip .ct-sw {
+    display: inline-block;
+    width: 0.625rem;
+    height: 0.625rem;
+    margin-right: 0.375rem;
+    border-radius: 0.1875rem;
+    vertical-align: -0.0625rem;
+    background: var(--sw);
+  }
+</style>
+
+<script>
+  type Stop = HTMLElement | SVGElement;
+  const GAP = 14;
+
+  class TnChart extends HTMLElement {
+    #active: Stop | null = null;
+
+    connectedCallback() {
+      const tip = this.querySelector<HTMLElement>(".ct-tip");
+      const stops = [...this.querySelectorAll<Stop>("[data-tip]")];
+      if (!tip || !stops.length) return;
+      stops.forEach((s, i) => s.setAttribute("tabindex", i === 0 ? "0" : "-1"));
+
+      const clear = () => {
+        for (const el of this.querySelectorAll(".is-active")) el.classList.remove("is-active");
+        delete this.dataset.active;
+      };
+
+      const show = (stop: Stop, point?: { x: number; y: number }) => {
+        if (this.#active !== stop) {
+          clear();
+          this.#active = stop;
+          const tpl = document.getElementById(stop.dataset.tip ?? "") as HTMLTemplateElement | null;
+          tip.replaceChildren(tpl ? tpl.content.cloneNode(true) : document.createTextNode(stop.getAttribute("aria-label") ?? ""));
+          const group = stop.dataset.group;
+          if (group) for (const el of this.querySelectorAll(`[data-group="${CSS.escape(group)}"]`)) el.classList.add("is-active");
+          stop.classList.add("is-active");
+          this.dataset.active = group ?? "";
+        }
+        tip.hidden = false;
+        place(stop, point);
+      };
+
+      const hide = () => {
+        clear();
+        this.#active = null;
+        tip.hidden = true;
+      };
+
+      const place = (stop: Stop, point?: { x: number; y: number }) => {
+        const box = this.getBoundingClientRect();
+        const w = tip.offsetWidth;
+        const h = tip.offsetHeight;
+        let x: number;
+        let y: number;
+        if (point) {
+          x = point.x - box.left + GAP;
+          y = point.y - box.top + GAP;
+          if (x + w > box.width) x = point.x - box.left - GAP - w;
+          if (y + h > box.height) y = point.y - box.top - GAP - h;
+        } else {
+          // Centred above the stop, or below it if there's no room above.
+          const r = stop.getBoundingClientRect();
+          x = r.left - box.left + r.width / 2 - w / 2;
+          y = r.top - box.top - h - 8;
+          if (y < 0 && r.bottom - box.top + 8 + h <= box.height) y = r.bottom - box.top + 8;
+        }
+        x = Math.max(0, Math.min(x, box.width - w));
+        tip.style.transform = `translate(${Math.round(x)}px, ${Math.round(y)}px)`;
+      };
+
+      const stopFrom = (e: Event) => (e.target as Element).closest?.<Stop>("[data-tip]") ?? null;
+
+      this.addEventListener("pointermove", (e) => {
+        if (e.pointerType !== "mouse") return;
+        const stop = stopFrom(e);
+        if (stop) show(stop, { x: e.clientX, y: e.clientY });
+        else if (this.#active && !this.contains(document.activeElement)) hide();
+      });
+      this.addEventListener("pointerleave", (e) => {
+        if (e.pointerType === "mouse" && !this.contains(document.activeElement)) hide();
+      });
+      this.addEventListener("pointerdown", (e) => {
+        if (e.pointerType === "mouse") return;
+        const stop = stopFrom(e);
+        if (stop) show(stop);
+      });
+      document.addEventListener("pointerdown", (e) => {
+        if (e.pointerType !== "mouse" && this.#active && !this.contains(e.target as Node)) hide();
+      });
+
+      const focus = (stop: Stop | undefined) => {
+        if (!stop) return;
+        for (const s of stops) s.setAttribute("tabindex", s === stop ? "0" : "-1");
+        stop.focus({ preventScroll: true });
+      };
+      this.addEventListener("focusin", (e) => {
+        const stop = stopFrom(e);
+        if (!stop) return;
+        for (const s of stops) s.setAttribute("tabindex", s === stop ? "0" : "-1");
+        show(stop);
+      });
+      this.addEventListener("focusout", (e) => {
+        if (!this.contains(e.relatedTarget as Node | null)) hide();
+      });
+
+      const centre = (s: Stop) => {
+        const r = s.getBoundingClientRect();
+        return r.left + r.width / 2;
+      };
+      this.addEventListener("keydown", (e) => {
+        const current = stopFrom(e);
+        if (!current) return;
+        const i = stops.indexOf(current);
+        let next: Stop | undefined;
+        const row = current.dataset.row;
+        if ((e.key === "ArrowUp" || e.key === "ArrowDown") && row !== undefined) {
+          const target = Number(row) + (e.key === "ArrowDown" ? 1 : -1);
+          const x = centre(current);
+          next = stops
+            .filter((s) => Number(s.dataset.row) === target)
+            .sort((a, b) => Math.abs(centre(a) - x) - Math.abs(centre(b) - x))[0];
+          if (!next) return;
+        } else if (e.key === "ArrowRight" || e.key === "ArrowDown") next = stops[Math.min(i + 1, stops.length - 1)];
+        else if (e.key === "ArrowLeft" || e.key === "ArrowUp") next = stops[Math.max(i - 1, 0)];
+        else if (e.key === "Home") next = stops[0];
+        else if (e.key === "End") next = stops.at(-1);
+        else if (e.key === "Escape") {
+          if (this.#active) {
+            hide();
+            e.preventDefault();
+          }
+          return;
+        } else return;
+        e.preventDefault();
+        focus(next);
+      });
+
+      // A tooltip placed for one width is wrong at another.
+      new ResizeObserver(() => {
+        if (this.#active) place(this.#active);
+      }).observe(this);
+    }
+  }
+
+  if (!customElements.get("tn-chart")) customElements.define("tn-chart", TnChart);
+</script>

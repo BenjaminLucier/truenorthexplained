@@ -1,0 +1,35 @@
+---
+/**
+ * A chart legend: one row of keys that wraps. Each key is a swatch (a filled
+ * square), a line, a dashed line, a dot or an outlined swatch, in a colour
+ * token, with its label in text ink.
+ */
+export interface LegendItem {
+  label: string;
+  color: string;
+  kind?: "swatch" | "line" | "dash" | "dot" | "outline" | "light";
+}
+interface Props {
+  items: LegendItem[];
+  class?: string;
+}
+const { items, class: className } = Astro.props;
+---
+
+<ul class:list={["flex flex-wrap gap-x-4 gap-y-1.5 text-xs text-secondary", className]}>
+  {
+    items.map(({ label, color, kind = "swatch" }) => (
+      <li class="inline-flex items-center gap-1.5">
+        <svg viewBox="0 0 16 10" class="h-2.5 w-4 shrink-0 overflow-visible" aria-hidden="true">
+          {kind === "swatch" && <rect width="10" height="10" x="3" rx="2" fill={color} />}
+          {kind === "light" && <rect width="9" height="9" x="3.5" y="0.5" rx="2" fill={color} fill-opacity="0.3" stroke={color} />}
+          {kind === "outline" && <rect width="9" height="9" x="3.5" y="0.5" rx="2" fill="none" stroke={color} stroke-width="1.5" />}
+          {kind === "line" && <line x1="0" x2="16" y1="5" y2="5" stroke={color} stroke-width="2" stroke-linecap="round" />}
+          {kind === "dash" && <line x1="0" x2="16" y1="5" y2="5" stroke={color} stroke-width="2" stroke-dasharray="3 2.5" />}
+          {kind === "dot" && <circle cx="8" cy="5" r="4" fill={color} />}
+        </svg>
+        {label}
+      </li>
+    ))
+  }
+</ul>

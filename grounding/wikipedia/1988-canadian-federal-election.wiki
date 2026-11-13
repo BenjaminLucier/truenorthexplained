@@ -1,0 +1,1206 @@
+{{Short description|none}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 1988 Canadian federal election
+| country = Canada
+| type = parliamentary
+| ongoing = no
+| party_colour = no
+| party_name = no
+| turnout = 75.3%<ref>{{cite web|title=Voter Turnout at Federal Elections and Referendums|url=http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|archive-date=4 September 2024|archive-url=https://web.archive.org/web/20240904113356/https://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|at=21 November 1988|url-status=live|work=[[Elections Canada]]|access-date=11 January 2014}}</ref>
+({{steady}})
+| opinion_polls = Opinion polling for the 1988 Canadian federal election
+| previous_election = 1984 Canadian federal election
+| previous_year = 1984
+| previous_mps = 33rd Canadian Parliament
+| next_election = 1993 Canadian federal election
+| next_year = 1993
+| elected_mps = 34th Canadian Parliament
+| seats_for_election = 295 seats in the [[House of Commons of Canada|House of Commons]] | majority_seats = 148 
+| election_date = November 21, 1988
+| image_size = x160px
+| image1 = {{CSS image crop|Image = Brian Mulroney 1987 crop (brightened).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}} <!--This photo is better quality, and actually from the 1980s (which is the same rationale for why Turner's photo was changed). It makes far more sense to use this -->
+| colour1 = {{Canadian party colour|CA|PC|nohash}}
+| leader1 = [[Brian Mulroney]]
+| leader_since1 = [[1983 Progressive Conservative leadership election|June 11, 1983]]
+| party1 = {{Canadian party colour|CA|PC|name}}
+| leaders_seat1 = [[Charlevoix (federal electoral district)|Charlevoix]]
+| last_election1 = 211 seats, 50.03%
+| seats_before1 = 203
+| seats1 = '''169'''{{efn|Includes [[Beaver River (federal electoral district)|Beaver River]] MP [[John Dahmer]], who died five days after the election, before being sworn in, with the seat being lost in the subsequent by-election.}}
+| seat_change1 = {{decrease}} 34
+| popular_vote1 = '''5,667,543'''
+| percentage1 = '''43.02%'''
+| swing1 = {{decrease}} 7.01 [[Percentage Point|pp]]
+| image2 = {{CSS image crop|Image =John Turner, 1987 (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour2 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader2 = [[John Turner]]
+| leader_since2 = [[1984 Liberal Party of Canada leadership election|June 16, 1984]]
+| party2 = {{Canadian party colour|CA|Liberal|name}}
+| leaders_seat2 = [[Vancouver Quadra]]
+| last_election2 = 40 seats, 28.02%
+| seats_before2 = 38
+| seats2 = 83
+| seat_change2 = {{increase}} 45
+| popular_vote2 = 4,205,072
+| percentage2 = 31.92%
+| swing2 = {{increase}} 3.89 [[Percentage Point|pp]]
+| image3 = {{CSS image crop|Image = Ed Broadbent 1980 (cropped).jpg |bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour3 = {{Canadian party colour|CA|NDP|nohash}}
+| leader3 = [[Ed Broadbent]]
+| leader_since3 = [[1975 New Democratic Party leadership election|July 7, 1975]]
+| party3 = {{Canadian party colour|CA|NDP|name}}
+| leaders_seat3 = [[Oshawa (federal electoral district)|Oshawa]]
+| last_election3 = 30 seats, 18.81%
+| seats_before3 = 32
+| seats3 = 43
+| seat_change3 = {{increase}} 11
+| popular_vote3 = 2,685,263
+| percentage3 = 20.38%
+| swing3 = {{increase}} 1.57 [[Percentage Point|pp]]
+| map = {{Switcher
+| [[File:1988 Canadian Federal Election.svg|350px]]
+| Results by electoral district
+| [[File:Canada 1988 Federal Election.svg|350px]]
+| Results by province and territory}}
+| title = Prime Minister
+| posttitle = Prime Minister after election
+| before_election = [[Brian Mulroney]]
+| before_party = {{Canadian party colour|CA|PC|name}}
+| after_election = [[Brian Mulroney]]
+| after_party = {{Canadian party colour|CA|PC|name}}
+|map2_image = Cdn1988.PNG
+|map2_size =
+|map2_caption =The Canadian parliament after the 1988 election
+}}
+The '''1988 Canadian federal election''' was held on November 21, 1988, to elect members to the [[House of Commons of Canada]] of the [[34th Canadian Parliament|34th Parliament]] of [[Canada]] following the dissolution of the House on October 1.<ref>{{cite web |title=Journals : Senate Journals, 33rd Parliament, 2n... - Canadian Parliamentary Historical Resources |url=https://parl.canadiana.ca/view/oop.SOC_3302_129_01/5 |website=parl.canadiana.ca |publisher=Canadian Parliamentary Historical Resources |access-date=30 April 2025}}</ref> It was an election largely fought on a [[single issue]], the [[Canada–United States Free Trade Agreement]] (CUSFTA); the [[Progressive Conservative Party of Canada|Progressive Conservative Party]] campaigned in favour of it, whereas the [[Liberal Party of Canada|Liberal Party]] and the [[New Democratic Party]] (NDP) campaigned against it.
+
+The incumbent [[Progressive Conservative Party of Canada|Progressive Conservative Party]], led by [[Brian Mulroney]], was reelected with a second majority government, although based on less than half the votes cast. Mulroney was the party's first leader since [[John A. Macdonald]] to win a second consecutive majority government.{{efn|[[Conservative Party of Canada (1867–1942)|Conservative]] Prime Minister [[Robert Borden]] won two majority governments, but the second majority he won in [[1917 Canadian federal election|1917]] was when he was leader of the [[Unionist Party (Canada)|Unionist Party]], a party composed of pro-conscription Conservatives and Liberals.}} Additionally, this election was the last election in which the Progressive Conservatives would poll over 40 per cent of the vote, as this would not recur until [[2025 Canadian federal election|2025]], under the banner of the [[Conservative Party of Canada]].
+
+The Liberal Party experienced a recovery after its [[1984 Canadian federal election|1984 wipeout]], more than doubling its seat count. The New Democratic Party won its largest number of seats up to the time (they would beat the 1988 record in [[2011 Canadian federal election|2011]]). The election was the last won by the Progressive Conservatives, the last until 2011 in which a [[centre-right politics|right-of-centre]] party formed a majority government, and the most recent where a right-of-centre party won the most seats in [[Quebec]] during a federal election. It is also the most recent election in which only three parties were elected to Parliament. With Mulroney winning a majority, the agreement was passed into law, even though a majority of the voters had voted for parties opposing free trade.<ref>{{Cite journal |title="The New Life of Brian Mulroney". The Walrus, Ira Wells, Apr. 19, 2018 |journal=}}</ref>
+
+== Background ==
+
+[[Brian Mulroney]] led the [[Progressive Conservative Party of Canada|Progressive Conservative Party]] to a [[landslide victory|landslide]] [[majority government]] victory in the [[1984 Canadian federal election|1984 federal election]]. In subsequent years, scandals and [[patronage]] damaged his polling numbers. However, in his fourth year in office in 1988, his popularity began to recover; a poll a few days before the election call showed the Progressive Conservatives ahead of the [[Liberal Party of Canada|Liberal Party]] and [[New Democratic Party]].<ref name="1988CanadianElection">{{cite web |last1=Azzi |first1=Stephen |title=Election of 1988 |url=https://www.thecanadianencyclopedia.ca/en/article/election-1988-feature |website=[[The Canadian Encyclopedia|Canadian Encyclopedia]] |archive-date=4 September 2024 |url-status=live |archive-url=https://archive.today/20240904114235/https://www.thecanadianencyclopedia.ca/en/article/election-1988-feature |access-date=27 February 2022 |date=28 September 2008}}</ref>
+
+The Liberal Party led by [[John Turner]] suffered a heavy defeat in the 1984 election. Despite this, Turner stayed on as leader and was preparing to campaign for the second election. However, the Liberal Party was in financial and political disarray; by 1986 the party was heavily in debt. Turner's office experienced significant staff turnover, and some former aides were willing to recount stories of the office's disfunction to the press, resulting in one journalist referring to Turner's leadership as a "reign of error".{{sfn|Clarkson|1989|p=31}} Some pundits believed the Liberals would permanently drop to third place.<ref name="1988CanadianElection" />
+
+In 1987, Mulroney reached an agreement on [[free trade]] with the [[United States]]. [[John Turner|Turner]]'s Liberal Party and [[Ed Broadbent]]'s New Democratic Party opposed the agreement; Turner believed that the agreement would Americanize Canada. Mulroney used his large majority to pass the bill through the [[House of Commons of Canada|House of Commons]]; however, the Liberal-dominated [[Senate of Canada|Senate]] demanded an election before they would pass it. The election was called on October 1.<ref name="1988CanadianElection" /><ref>{{cite news |last1=Farnsworth |first1=Clyde H. |page=1 |title=Canadian Pact Voted By Senate |url=https://www.nytimes.com/1988/09/20/business/canadian-pact-voted-by-senate.html |archive-date=10 April 2023 |archive-url=https://archive.today/20230410175413/https://www.nytimes.com/1988/09/20/business/canadian-pact-voted-by-senate.html |url-status=live |website=[[The New York Times]] |url-access=subscription |access-date=27 February 2022 |date=20 September 1988}}</ref>
+
+== Campaign ==
+
+The Liberals had some early struggles, notably during one day in Montreal where three different costs were given for the proposed Liberal daycare program.{{sfn|Clarkson|1989|p=30}} When asked by reporters about the incident, Turner's chief of staff responded using vulgar language.<ref name="1988CanadianElection" /> The campaign was also hampered by a [[Canadian Broadcasting Corporation]] (CBC) report that stated there was a movement in the backroom to replace Turner with [[Jean Chrétien]], even though Turner had passed a [[leadership review]] in 1986 with 76.3 per cent of delegates rejecting a leadership convention.{{sfn|Clarkson|1989|p=30}}
+
+Turner strongly campaigned against free trade, arguing that it would cost many Canadian jobs. His October 24 and 25 debate performances led to growing Liberal support, with polls suggesting a Liberal government; a week after the debate, the Liberals were six points ahead of the PCs. The Liberal surge prompted the PCs to stop the relatively calm campaign they had been running and instead run a more negative campaign, capitalizing on the perceived lack of public confidence in Turner and his perceived inability to lead the Liberal Party, arguing that he only opposed free trade because of political opportunism. The PCs' poll numbers started to rebound.<ref name="1988CanadianElection" />
+
+== Opinion polling ==
+{{main|Opinion polling for the 1988 Canadian federal election}}
+
+[[File:Opinion polling for the 1988 Canadian federal election.svg|thumb|750px|left|Graph of opinion polls conducted]]
+
+== National results ==
+The Progressive Conservatives won a reduced but strong majority government with 169 seats, and the free trade agreement would go into effect on January 1, 1989. [[Brian Mulroney|Mulroney]] was the first Conservative [[Prime Minister of Canada|prime minister]] since [[John A. Macdonald]] to win more than one majority. In an ironic reversal of most prior federal elections, the PCs owed their majority to their success in [[Quebec]], where they achieved the best result in party history by winning 63 of 75 seats.
+
+Despite the Liberals more than doubling their seat count from 38 to 83, the results were considered a disappointment for Turner, after polls in mid-campaign predicted a Liberal victory. This second election loss sealed Turner's fate; he would [[1990 Liberal Party of Canada leadership election|resign in 1990]] and was succeeded by [[Jean Chrétien]], who proved to be a more effective leader and when in government, accepted free trade with the United States and did not overturn CUSFTA.<ref name="1988CanadianElection" />
+
+Despite the [[New Democratic Party]] enjoying their best result at the time (winning 43 seats), Ed Broadbent [[1989 New Democratic Party leadership election|resigned as leader in 1989]]. Some NDP members were disappointed by the fact that they did not become the [[Official Opposition (Canada)|Official Opposition]].<ref name="1988CanadianElection" />
+ 
+{| class="wikitable"
+|colspan=11|[[File:1988 Canadian parliament.svg|center|300px]]
+|- style="background:#CCC"
+!rowspan=2 colspan=2|Party
+!rowspan=2|Party leader
+!rowspan=2|# of<br />candidates
+!colspan=4|Seats
+!colspan=3|Popular vote
+|- style="background:#CCC"
+|align="center"|[[1984 Canadian federal election|1984]]
+|align="center"|[[Dissolution of parliament|<span style="font-size: 75%;">Dissol.</span>]]
+|align="center"|'''Elected'''
+|align="center"|% change
+|align="center"|#
+|align="center"|%
+|align="center"|Change
+{{Canadian party colour|CA|PC|row}}
+| [[Progressive Conservative Party of Canada|Progressive Conservative]]
+| [[Brian Mulroney]]
+| align="right"|295
+| align="right"|211
+| align="right"|203
+| align="right"|'''169'''
+| align="right"|-19.9%
+| align="right"| 5,667,543
+| align="right"| 43.02%
+| align="right"|-7.02pp
+{{Canadian party colour|CA|Liberal|row}}
+| [[Liberal Party of Canada|Liberal]]
+| [[John Turner]]
+| align="right"|294
+| align="right"|40
+| align="right"|38
+| align="right"|'''83'''
+| align="center"|+107.5%
+| align="right"| 4,205,072
+| align="right"| 31.92%
+| align="right"|+3.89pp
+{{Canadian party colour|CA|NDP|row}}
+| [[New Democratic Party (Canada)|New Democratic Party]]
+| [[Ed Broadbent]]
+| align="right"|295
+| align="right"|30
+| align="right"|32
+| align="right"|'''43'''
+| align="right"|+34.4%
+| align="right"| 2,685,263
+| align="right"|20.38%
+| align="right"|+1.57pp
+{{Canadian party colour|CA|Reform|row-name}}
+| [[Preston Manning]]
+| align="right"|72
+| align="right"|*
+| align="right"|-
+| align="right"|-
+| align="right"|*
+| align="right"|275,767
+| align="right"|2.09%
+| align="right"|*
+{{Canadian party colour|CA|Christian Heritage|row-name}}
+| [[Ed Vanwoudenberg]]
+| align="right"|63
+| align="right"|*
+| align="right"|-
+| align="right"|-
+| align="right"|*
+| align="right"| 102,533
+| align="right"| 0.78%
+| align="right"|*
+{{Canadian party colour|CA|Rhinoceros (historical)|row-name}}
+| [[Cornelius the First]]
+| align="right"|74
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"| 52,173
+| align="right"|0.40%
+| align="right"|-0.39pp
+{{Canadian party colour|CA|Green|row-name}}
+| [[Seymour Trieger]]
+| align="right"|68
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"| 47,228
+| align="right"| 0.36%
+| align="right"| +0.14pp
+{{Canadian party colour|CA|CoR|row-name}}
+| [[Elmer Knutson]]
+| align="right"|51
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"| 41,342
+| align="right"| 0.31%
+| align="right"|-0.68pp
+{{Canadian party colour|CA|Libertarian|row-name}}
+| Dennis Corrigan
+| align="right"|88
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"| 33,135
+| align="right"| 0.25%
+| align="right"| +0.06pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|No affiliation
+| align="right"|100
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|&nbsp;
+| align="right"|24,516
+| align="right"|0.19%
+| align="right"|-0.12pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Independent
+| align="right"|55
+| align="right"|1
+| align="right"|4
+| align="right"|-
+| align="right"|-
+| align="right"|22,982
+| align="right"|0.17%
+| align="right"|-0.01pp
+{{Canadian party colour|CA|PCC|row-name}}
+| [[Gilles Gervais]]
+| align="right"|58
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"| 7,467
+| align="right"| 0.06%
+| align="right"|-0.21pp
+{{Canadian party colour|CA|Communist|row-name}}
+| [[George Hewison]]
+| align="right"|51
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"| -
+| align="right"| 7,066
+| align="right"| 0.05%
+| align="right"|-0.01pp
+{{Canadian party colour|CA|Social Credit|row-name}}
+| [[Harvey Lainson]]
+| align="right"|9
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|3,407
+| align="right"|0.03%
+| align="right"|-0.10pp
+|-
+|rowspan=2|&nbsp;&nbsp;&nbsp;&nbsp;
+|colspan=4|Vacant
+|align="right"|5
+|align="center" colspan=5|&nbsp;
+|-
+| colspan=2|'''Total'''
+| align="right"|'''1,573'''
+| align="right"|'''282'''
+| align="right"|'''282'''
+| align="right"|'''295'''
+| align="right"|'''+4.6%'''
+| align="right"|'''13,175,494'''
+| align="right"|'''100%'''
+| align="right"|&nbsp;
+|-
+|}
+ 
+'''Note:'''
+ 
+"% change" refers to change from previous election
+
+==Vote and seat summaries==
+{{Gallery
+|title=[[Ternary plot]]s - shift of electoral support (1984-1988)
+|width=350 | height=200 |noborder=yes
+|align=center
+|footer=Electoral districts identified by colours of winning parties
+|File:Ternary CA1984.svg
+ |1984
+ |alt1=Ternary plot of 1984 results
+|File:Ternary CA1988.svg
+ |1988
+ |alt2=Ternary plot of 1988 results
+}}
+
+{{Bar box
+|title=Popular vote
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{Bar percent|PC|#9999ff|43.02}}
+{{Bar percent|Liberal|#F08080|31.92}}
+{{Bar percent|NDP|#F4A460|20.38}}
+{{Bar percent|Reform|{{Canadian party colour|CA|Reform}}|2.09}}
+{{Bar percent|Others|#DCDCDC|2.59}}
+}}
+ 
+{{Bar box
+|title=Seat totals
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{Bar percent|PC|#9999ff|57.29}}
+{{Bar percent|Liberal|#F08080|28.14}}
+{{Bar percent|NDP|#F4A460|14.58}}
+}}
+ 
+A number of unregistered parties also contested the election. The [[Western Canada Concept]] party, led by [[Doug Christie (lawyer)|Doug Christie]], fielded three candidates in British Columbia. The [[Western Independence Party]] ran one candidate in [[British Columbia]], seven in [[Alberta]], and three in [[Manitoba]] (although one of the Manitoba candidates appears to have withdrawn before election day).
+ 
+The Liberal candidate in Etobicoke-Lakeshore, Emmanuel Feuerwerker, withdrew from the race, resulting in the Liberals not running a candidate in all 295 ridings during this election.
+ 
+The [[Marxist–Leninist Party of Canada|Marxist–Leninist Party]] fielded candidates in several ridings.
+ 
+The moribund [[Social Credit Party of Canada|Social Credit Party]] fielded nine candidates, far short of the 50 required for official recognition. However, the Chief Electoral Officer allowed the party's name to appear on the ballot by virtue of its half-century history as a recognized party. It would be the last time that the party, which had been the third-largest in Canada at its height, would fight an election under its own name. The party was deregistered before the 1993 election after it failed to nominate enough candidates to keep its registration.
+
+== Seats which changed hands ==
+
+=== Defeated MPs ===
+{{Collapse top}}
+{| class="wikitable"
+!Party
+!Riding
+!MP
+!First elected
+!Defeated by
+!Party
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Burin—St. George's]]
+|[[Joe Price (politician)|Joe Price]]
+|[[1984 Canadian federal election|1984]]
+|[[Roger Simmons]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Cardigan (electoral district)|Cardigan]]
+|[[Pat Binns]]
+|[[1984 Canadian federal election|1984]]
+|[[Lawrence MacAulay]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Charlottetown (electoral district)|Charlottetown]]
+|[[Thomas McMillan (Canadian politician)|Thomas McMillan]]
+|[[1979 Canadian federal election|1979]]
+|[[George Proud]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Cape Breton Highlands—Canso]]
+|[[Lawrence O'Neil]]
+|[[1984 Canadian federal election|1984]]
+|[[Francis LeBlanc]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Dartmouth (electoral district)|Dartmouth]]
+|[[Michael Forrestall]]
+|[[1965 Canadian federal election|1965]]
+|[[Ron MacDonald (politician)|Ron MacDonald]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Halifax (federal electoral district)|Halifax]]
+|[[Stewart McInnes]]
+|[[1984 Canadian federal election|1984]]
+|[[Mary Clancy]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[West Nova|South West Nova]]
+|[[Gerald Comeau]]
+|[[1984 Canadian federal election|1984]]
+|[[Coline Campbell]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Miramichi (electoral district)|Miramichi]]
+|[[Bud Jardine]]
+|[[1984 Canadian federal election|1984]]
+|[[Maurice Dionne]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Moncton (electoral district)|Moncton]]
+|[[Dennis Cochrane]]
+|[[1984 Canadian federal election|1984]]
+|[[George Rideout]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Restigouche (federal electoral district)|Restigouche—Chaleur]]
+|[[Albert Girard (politician)|Al Girard]]
+|[[1984 Canadian federal election|1984]]
+|[[Guy Arseneault]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Gatineau—La Lièvre]]
+|[[Claudy Mailly]]
+|[[1984 Canadian federal election|1984]]
+|[[Mark Assad]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Lasalle (electoral district)|Lasalle]] (contested [[LaSalle—Émard]])
+|[[Claude Lanthier]]
+|[[1984 Canadian federal election|1984]]
+|[[Paul Martin]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Charlevoix (federal electoral district)|Charlevoix]] (contested [[Laurier—Sainte-Marie]])
+|[[Charles-André Hamelin|Charles Hamelin]]
+|[[1984 Canadian federal election|1984]]
+|[[Jean-Claude Malepart]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Essex-Kent]]
+|[[James Eber Caldwell]]
+|[[1984 Canadian federal election|1984]]
+|[[Jerry Pickard]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Etobicoke North (federal electoral district)|Etobicoke North]]
+|[[Robert Pennock (politician)|Bob Pennock]]
+|[[1984 Canadian federal election|1984]]
+|[[Roy MacLaren (politician)|Roy MacLaren]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Haldimand—Norfolk]]
+|[[Bud Bradley]]
+|[[1979 Canadian federal election|1979]]
+|[[Bob Speller]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Hamilton West (federal electoral district)|Hamilton West]]
+|[[Peter Peterson (Canadian politician)|Peter Peterson]]
+|[[1984 Canadian federal election|1984]]
+|[[Stan Keyes]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Kent (Ontario federal electoral district)|Kent]]
+|[[Elliott Hardey]]
+|[[1984 Canadian federal election|1984]]
+|[[Rex Crawford]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Kingston and the Islands (federal electoral district)|Kingston and the Islands]]
+|[[Flora MacDonald (politician)|Flora MacDonald]]
+|[[1972 Canadian federal election|1972]]
+|[[Peter Milliken]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Lambton—Middlesex]]
+|[[Sidney Fraleigh]]
+|[[1984 Canadian federal election|1984]]
+|[[Ralph Ferguson]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Leeds—Grenville]]
+|[[Jennifer Cossitt]]
+|1982 by-election
+|[[Jim Jordan (Canadian politician)|Jim Jordan]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[London East (federal electoral district)|London East]]
+| rowspan="1" |[[Jim Jepson]]
+|[[1984 Canadian federal election|1984]]
+|[[Joe Fontana]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Nepean—Carleton (federal electoral district)|Nepean—Carleton]] (contested [[Nepean (federal electoral district)|Nepean]])
+|[[William Tupper]]
+|[[1984 Canadian federal election|1984]]
+|[[Beryl Gaffney]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Nipissing (electoral district)|Nipissing]]
+|[[Moe Mantha Sr.]]
+|[[1984 Canadian federal election|1984]]
+|[[Bob Wood (MP)|Bob Wood]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Ottawa—Carleton (federal electoral district)|Ottawa—Carleton]] (contested [[Ottawa South]])
+|[[Barry Turner (politician)|Barry Turner]]
+|[[1984 Canadian federal election|1984]]
+|[[John Manley (politician)|John Manley]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Ottawa West (federal electoral district)|Ottawa West]]
+|[[David Daubney]]
+|[[1984 Canadian federal election|1984]]
+|[[Marlene Catterall]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Parkdale—High Park (federal electoral district)|Parkdale—High Park]]
+|[[Andrew Witer]]
+|[[1984 Canadian federal election|1984]]
+|[[Jesse Flis]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Sault Ste. Marie (federal electoral district)|Sault Ste. Marie]]
+|[[James Kelleher|Jim Kelleher]]
+|[[1984 Canadian federal election|1984]]
+|[[Steve Butland]]
+|{{Canadian party colour|CA|NDP|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Scarborough West]]
+|[[Reg Stackhouse]]
+|[[1984 Canadian federal election|1984]]
+|[[Tom Wappel]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[York—Scarborough (federal electoral district)|York—Scarborough]] (contested [[Scarborough—Agincourt (federal electoral district)|Scarborough—Agincourt]])
+|[[Paul McCrossan]]
+|[[1984 Canadian federal election|1984]]
+|[[Jim Karygiannis]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Timmins—Chapleau]]
+|[[Aurèle Gervais]]
+|[[1984 Canadian federal election|1984]]
+|[[Cid Samson]]
+|{{Canadian party colour|CA|NDP|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Welland (electoral district)|Welland]] (contested [[Welland—St. Catharines—Thorold]])
+|[[Allan Pietz]]
+|[[1984 Canadian federal election|1984]]
+|[[Gilbert Parent]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Willowdale (federal electoral district)|Willowdale]]
+|[[John Oostrom]]
+|[[1984 Canadian federal election|1984]]
+|[[Jim Peterson]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Saint Boniface (electoral district)|Saint Boniface]]
+|[[Léo Duguay]]
+|[[1984 Canadian federal election|1984]]
+|[[Ron Duhamel]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Mackenzie (federal electoral district)|Mackenzie]]
+|[[Jack Scowen]]
+|[[1984 Canadian federal election|1984]]
+|[[Vic Althouse]]
+|{{Canadian party colour|CA|NDP|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Saskatoon West]] (contested [[Saskatoon—Clark's Crossing]])
+|[[Ray Hnatyshyn]]
+|[[1974 Canadian federal election|1974]]
+|[[Chris Axworthy]]
+|{{Canadian party colour|CA|NDP|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[The Battlefords—Meadow Lake]]
+|[[John Kenneth Gormley]]
+|[[1984 Canadian federal election|1984]]
+|[[Len Taylor]]
+|{{Canadian party colour|CA|NDP|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Edmonton East]]
+|[[William Lesick]]
+|[[1984 Canadian federal election|1984]]
+|[[Ross Harvey]]
+|{{Canadian party colour|CA|NDP|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Kootenay East]]
+|[[Stan Graham]]
+|[[1984 Canadian federal election|1984]]
+|[[Sid Parker]]
+|{{Canadian party colour|CA|NDP|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Kootenay West]] (contested [[Kootenay West—Revelstoke]])
+|[[Robert Brisco]]
+|[[1984 Canadian federal election|1984]] ([[1974 Canadian federal election|1974]])
+|[[Lyle Kristiansen]]
+|{{Canadian party colour|CA|NDP|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Mission—Port Moody]] (contested [[Mission—Coquitlam]])
+|[[Gerry St. Germain]]
+|1983 by-election
+|[[Joy Langan]]
+|{{Canadian party colour|CA|NDP|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Nanaimo—Alberni]] (contested [[Nanaimo—Cowichan]])
+|[[Ted Schellenberg]]
+|[[1984 Canadian federal election|1984]]
+|[[David Stupich]]
+|{{Canadian party colour|CA|NDP|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Okanagan—Similkameen]] (contested [[Okanagan—Similkameen—Merritt]])
+|[[Frederick King (politician)|Fred King]]
+|[[1979 Canadian federal election|1979]]
+| rowspan="1" |[[Jack Whittaker (politician)|Jack Whittaker]]
+|{{Canadian party colour|CA|NDP|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Esquimalt—Saanich]] (contested [[Saanich—Gulf Islands]])
+|[[Patrick Crofton]]
+|[[1984 Canadian federal election|1984]]
+|[[Lynn Hunter]]
+|{{Canadian party colour|CA|NDP|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|[[Western Arctic]]
+|[[Dave Nickerson]]
+|[[1984 Canadian federal election|1984]]
+|[[Ethel Blondin]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|NDP|colour&name}}
+|[[St. John's East (federal electoral district)|St. John's East]]
+|[[Jack Harris (Newfoundland and Labrador politician)|Jack Harris]]
+|1987 by-election
+|[[Ross Reid (politician)|Ross Reid]]
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|-
+|{{Canadian party colour|CA|NDP|colour&name}}
+|[[Broadview—Greenwood]]
+|[[Lynn McDonald]]
+|1982 by-election
+|[[Dennis Mills]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|NDP|colour&name}}
+|[[Hamilton Mountain (federal electoral district)|Hamilton Mountain]]
+|[[Marion Dewar]]
+|1987 by-election
+|[[Beth Phinney]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|NDP|colour&name}}
+|[[Kenora—Rainy River (federal electoral district)|Kenora—Rainy River]]
+|[[John Edmund Parry]]
+|[[1984 Canadian federal election|1984]]
+|[[Bob Nault]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|NDP|colour&name}}
+|[[Ottawa Centre (federal electoral district)|Ottawa Centre]]
+|[[Michael Cassidy (Canadian politician)|Mike Cassidy]]
+|[[1984 Canadian federal election|1984]]
+|[[Mac Harb]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|NDP|colour&name}}
+|[[Thunder Bay—Nipigon]]
+|[[Ernie Epp]]
+|[[1984 Canadian federal election|1984]]
+|[[Joe Comuzzi]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|NDP|colour&name}}
+|[[Winnipeg North Centre]]
+|[[Cyril Keeper]]
+|[[1984 Canadian federal election|1984]]
+|[[David Walker (Canadian politician)|David Walker]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|NDP|colour&name}}
+|[[Winnipeg North]]
+|[[David Orlikow]]
+|[[1962 Canadian federal election|1962]]
+|[[Rey Pagtakhan]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|[[Outremont (electoral district)|Outremont]]
+|[[Lucie Pépin]]
+|[[1984 Canadian federal election|1984]]
+|[[Jean-Pierre Hogue]]
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|}
+{{Collapse bottom}}
+
+=== Open seats that changed hands ===
+{{Collapse top}}
+{| class="wikitable"
+!Party
+!Candidate
+!Incumbent retiring from the House
+!Riding
+!Won by
+!Party
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|Morrissey Johnson
+|[[Morrissey Johnson]]
+|[[Bonavista—Trinity—Conception]]
+|[[Fred Mifflin]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|Gordon Lank
+|[[Melbourne Gass]]
+|[[Malpeque (electoral district)|Malpeque]]
+|[[Catherine Callbeck]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|Jean Gauvin
+|[[Roger Clinch]]
+|[[Gloucester (federal electoral district)|Gloucester]]
+|[[Doug Young (politician)|Doug Young]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|Reg Jewell
+|[[George Hees]]
+|[[Northumberland (Ontario electoral district)|Northumberland]]
+|[[Christine Stewart]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|Jack Arthur
+|[[Jack Ellis (politician)|Jack Ellis]]
+|[[Prince Edward—Hastings (federal electoral district)|Prince Edward—Hastings]]
+|[[Lyle Vanclief]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|Eric J. Cameron
+|[[Norman Warner]]
+|[[Stormont—Dundas]]
+|[[Bob Kilger]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|Sedluk Bryan Pearson
+|[[Thomas Suluk]]
+|[[Nunatsiaq (electoral district)|Nunatsiaq]]
+|[[Jack Anawak|Jack Iyerak Anawak]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|Valerie Kordyban
+|[[Robert McCuish|Lorne McCuish]]
+|[[Prince George—Bulkley Valley]]
+|[[Brian L. Gardiner|Brian Gardiner]]
+|{{Canadian party colour|CA|NDP|colour&name}}
+|-
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|Geoff Young
+|[[Allan McKinnon]]
+|[[Victoria (British Columbia federal electoral district)|Victoria]]
+|[[John Brewin|John F. Brewin]]
+|{{Canadian party colour|CA|NDP|colour&name}}
+|-
+|{{Canadian party colour|CA|Independent|colour&name}}
+|N/A
+|[[Tony Roman]]
+|[[York North]]
+|[[Maurizio Bevilacqua]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|}
+{{Collapse bottom}}
+
+=== New seats ===
+{| class="wikitable"
+!Old riding
+!New riding
+!New seat won by
+!Party
+|-
+|[[Mississauga North]]
+|[[Mississauga East]]
+|[[Albina Guarnieri]]
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|-
+|[[Mississauga North]]
+|[[Mississauga West]]
+|[[Robert Horner (politician)|Robert Horner]]
+|{{Canadian party colour|CA|Progressive Conservative|colour&name}}
+|}
+
+==Results by province==
+{| class="wikitable" style="font-size:90%; width:690px;"
+! style="text-align:center;" colspan=3|Party name
+! align="center"|[[British Columbia|BC]]
+! align="center"|[[Alberta|AB]]
+! align="center"|[[Saskatchewan|SK]]
+! align="center"|[[Manitoba|MB]]
+! align="center"|[[Ontario|ON]]
+! align="center"|[[Quebec|QC]]
+! align="center"|[[New Brunswick|NB]]
+! align="center"|[[Nova Scotia|NS]]
+! align="center"|[[Prince Edward Island|PE]]
+! align="center"|[[Newfoundland and Labrador|NL]]
+! align="center"|[[Northwest Territories|NT]]
+! align="center"|[[Yukon|YK]]
+! align="center"|Total
+|-
+| rowspan=2 {{Canadian party colour|CA|PC|background}}|&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan=2|[[Progressive Conservative Party of Canada|Progressive Conservative]]
+| Seats:
+| align="right"|12 <!--BC-->
+| align="right"|25 <!--Alb-->
+| align="right"|4 <!--Sask-->
+| align="right"|7 <!--Man-->
+| align="right"|46 <!--Ont-->
+| align="right"|63 <!--Que-->
+| align="right"|5 <!--NB-->
+| align="right"|5<!--NS-->
+| align="right"| -<!--PEI-->
+| align="right"|2 <!--NL-->
+| align="right"| -<!--NT-->
+| align="right"| - <!--YK-->
+| align="right"|169 <!--Canada/Total-->
+|-
+| Popular vote:
+| align="right"|35.3 <!--BC-->
+| align="right"|51.8 <!--Alb-->
+| align="right"|36.4 <!--Sask-->
+| align="right"|36.9 <!--Man-->
+| align="right"|38.2 <!--Ont-->
+| align="right"|52.7 <!--Que-->
+| align="right"|40.4 <!--NB-->
+| align="right"|40.9 <!--NS-->
+| align="right"|41.5 <!--PEI-->
+| align="right"|42.2 <!--NL-->
+| align="right"|26.4 <!--NT-->
+| align="right"|35.3 <!--YK-->
+| align="right"|43.0 <!--Canada/Total-->
+|-
+| rowspan=2 {{Canadian party colour|CA|Liberal|background}}|&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan=2|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| align="right"|1 <!--BC-->
+| align="right"| -<!--Alb-->
+| align="right"|- <!--Sask-->
+| align="right"|5 <!--Man-->
+| align="right"|43 <!--Ont-->
+| align="right"|12 <!--Que-->
+| align="right"|5 <!--NB-->
+| align="right"|6 <!--NS-->
+| align="right"|4 <!--PEI-->
+| align="right"|5 <!--NL-->
+| align="right"|2 <!--NT-->
+| align="right"| -<!--YK-->
+| align="right"|83 <!--Canada/Total-->
+|-
+| Vote:
+| align="right"|20.4 <!--BC-->
+| align="right"|13.7 <!--Alb-->
+| align="right"|18.2 <!--Sask-->
+| align="right"|36.5 <!--Man-->
+| align="right"|38.9 <!--Ont-->
+| align="right"|30.3 <!--Que-->
+| align="right"|45.4 <!--NB-->
+| align="right"|46.5 <!--NS-->
+| align="right"|49.9 <!--PEI-->
+| align="right"|45.0 <!--NL-->
+| align="right"|41.4 <!--NT-->
+| align="right"|11.3 <!--YK-->
+| align="right"|31.9 <!--Canada/Total-->
+|-
+| rowspan=2 {{Canadian party colour|CA|NDP|background}}|&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan=2|[[New Democratic Party (Canada)|New Democratic Party]]
+| Seats:
+| align="right"|19 <!--BC-->
+| align="right"|1 <!--Alb-->
+| align="right"|10 <!--Sask-->
+| align="right"|2 <!--Man-->
+| align="right"|10 <!--Ont-->
+| align="right"| - <!--Que-->
+| align="right"| - <!--NB-->
+| align="right"| - <!--NS-->
+| align="right"| - <!--PEI-->
+| align="right"| - <!--NL-->
+| align="right"| - <!--NT-->
+| align="right"|1 <!--YK-->
+| align="right"|43 <!--Canada/Total-->
+|-
+| Vote:
+| align="right"|37.0 <!--BC-->
+| align="right"|17.4 <!--Alb-->
+| align="right"|44.2 <!--Sask-->
+| align="right"|21.3 <!--Man-->
+| align="right"|20.1 <!--Ont-->
+| align="right"|14.4 <!--Que-->
+| align="right"|9.3 <!--NB-->
+| align="right"|11.4 <!--NS-->
+| align="right"|7.5 <!--PEI-->
+| align="right"|12.4 <!--NL-->
+| align="right"|28.3 <!--NT-->
+| align="right"|51.4 <!--YK-->
+| align="right"|20.38 <!--Canada/Total-->
+|-
+|colspan=3 |'''Total seats'''
+! align="right"|32 <!--BC-->
+! align="right"|26 <!--Alb-->
+! align="right"|14 <!--Sask-->
+! align="right"|14 <!--Man-->
+! align="right"|99 <!--Ont-->
+! align="right"|75 <!--Que-->
+! align="right"|10 <!--NB-->
+! align="right"|11 <!--NS-->
+! align="right"|4 <!--PEI-->
+! align="right"|7 <!--NL-->
+! align="right"|2 <!--NT-->
+! align="right"|1 <!--YK-->
+! align="right"|295 <!--Canada/Total-->
+|-
+| colspan=16|'''Parties that won no seats:'''
+{{Canadian party colour|CA|Reform|row-name}}
+| Vote:
+| align="right"|4.8 <!--BC-->
+| align="right"|15.4 <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|3.3 <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|2.1 <!--Canada/Total-->
+{{Canadian party colour|CA|Christian Heritage|row-name}}
+| Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|1.1 <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|1.4 <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|2.0 <!--YK-->
+| align="right"|0.8 <!--Canada/Total-->
+{{Canadian party colour|CA|Rhinoceros (historical)|row-name}}
+| Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|1.2 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.4 <!--Canada/Total-->
+{{Canadian party colour|CA|Green|row-name}}
+| Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.4 <!--Canada/Total-->
+{{Canadian party colour|CA|CoR|row-name}}
+| Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|4.3 <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.3 <!--Canada/Total-->
+{{Canadian party colour|CA|Libertarian|row-name}}
+| Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.3 <!--Canada/Total-->
+{{Canadian party colour|CA|PCC|row-name}}
+| Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|0.2 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.1 <!--Canada/Total-->
+{{Canadian party colour|CA|Communist|row-name}}
+| Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.1 <!--Canada/Total-->
+{{Canadian party colour|CA|Social Credit|row-name}}
+| Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|xx <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Other
+| Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.4 <!--Canada/Total-->
+|}
+ 
+xx - less than 0.05% of the popular vote.
+ 
+Note: Parties that captured less than 1% of the vote in a province are not recorded.
+
+==Election milestones==
+Until the [[2011 Canadian federal election|2011 federal election]], the 1988 election was the most successful in the New Democratic Party's history. The party dominated in [[British Columbia]] and [[Saskatchewan]], won significant support in [[Ontario]] and elected its first (and, until the [[2008 Canadian federal election|2008 election]], only) member from [[Alberta]]. This is the most recent election in which the New Democrats won the most seats in British Columbia and Saskatchewan.
+
+This was the second election contested by the [[Green Party of Canada|Green Party]], and it saw a more than 50 per cent increase in its vote, but it remained a minor party.
+
+The election was the last for Canada's [[Social Credit Party of Canada|Social Credit Party]]. The party won no seats, and won an insignificant portion of the popular vote. The party attempted to fight the 1993 election, but lost its registration after being unable to field enough candidates.
+
+This was the first election for the newly founded [[Reform Party of Canada|Reform Party]] which for this vote only contested seats in [[Western Canada]]. It was led by [[Preston Manning]], who was himself a one time Socred candidate and the son of longtime Alberta Social Credit premier [[Ernest Manning]].
+
+Reform won no seats and a negligible percentage of the vote. However, [[Deborah Grey]] would win the first seat for Reform, [[Beaver River (federal electoral district)|Beaver River]] in Alberta, in a [[1989 Beaver River federal by-election|by-election]] held four months later. Grey, who had finished a distant fourth running in the same riding in the general election, succeeded rookie [[Progressive Conservative Party of Canada|Progressive Conservative]] MP [[John Dahmer]], who died of [[pancreatic cancer]] before taking office.
+
+For the [[Progressive Conservative Party of Canada|Progressive Conservatives]], this was the last federal election they would ever win. A centre-right party would not win government until 2006, and a conservative party would not win over 40 per cent of the vote until [[2025 Canadian federal election|2025]].
+
+==Notes==
+* '''Number of parties''': 11
+** '''First appearance''': [[Christian Heritage Party of Canada|Christian Heritage Party]], [[Reform Party of Canada|Reform Party]]
+** '''Final appearance''': [[Confederation of Regions Party of Canada|Confederation of Regions Party]], [[Social Credit Party of Canada|Social Credit Party]]
+** '''Final appearance before hiatus''': [[Communist Party of Canada|Communist Party]] (returned in 2000), [[Rhinoceros Party of Canada (1963–1993)|Rhinoceros Party]] (returned in 2006)
+ 
+===10 closest ridings===
+# [[London-Middlesex]], ON: [[Terry Clifford]] (PC) def. [[Garnet Bloomfield]] (Lib) by 8 votes
+# [[Northumberland (Ontario electoral district)|Northumberland]], ON: [[Christine Stewart]] (Lib) def. Reg Jewell (PC) by 28 votes
+# [[Hamilton Mountain (federal electoral district)|Hamilton Mountain]], ON: [[Beth Phinney]] (Lib) def. [[Marion Dewar]] (NDP) by 73 votes
+# [[York North]], ON: [[Maurizio Bevilacqua]] (Lib) def. [[Micheal O'Brien (Canadian politician)|Micheal O'Brien]] (PC) by 77 votes
+# [[Rosedale (electoral district)|Rosedale]], ON: [[David MacDonald (Canadian politician)|David MacDonald]] (PC) def. [[Bill Graham (Canadian politician)|Bill Graham]] (Lib) by 80 votes
+# [[London East (federal electoral district)|London East]], ON: [[Joe Fontana]] (Lib) def. [[Jim Jepson]] (PC) by 102 votes
+# [[Haldimand—Norfolk]], ON: [[Bob Speller]] (Lib) def. [[Bud Bradley]] (PC) by 209 votes
+# [[Hillsborough (electoral district)|Hillsborough]], PE: [[George Proud]] (Lib) def. [[Thomas McMillan (Canadian politician)|Thomas McMillan]] (PC) by 259 votes
+# [[Cariboo—Chilcotin]], BC: [[Dave Worthy]] (PC) def. [[Jack Langford]] (NDP) by 269 votes
+# [[Vancouver Centre]], BC: future Prime Minister [[Kim Campbell]] (PC) def. Johanna Den Hertog (NDP) by 269 votes
+
+==See also==
+{{Portal|Canada|Politics}}
+*[[1911 Canadian federal election]], an election similarly contested over free trade with the United States.
+*[[2025 Canadian federal election]], another election in which trade relations with the United States were a major campaign issue
+*[[List of Canadian federal general elections]]
+*[[List of political parties in Canada]]
+ 
+''Articles on parties' candidates in this election:''
+{{div col|colwidth=15em}}
+* [[Independent candidates, 1988 Canadian federal election|Independents]]
+* [[Confederation of Regions Party of Canada candidates, 1988 Canadian federal election|Confederation of Regions]]
+* [[Party for the Commonwealth of Canada candidates, 1988 Canadian federal election|Commonwealth]]
+* [[Communist Party of Canada candidates, 1988 Canadian federal election|Communist]]
+* [[Green Party of Canada candidates, 1988 Canadian federal election|Green]]
+* [[Libertarian Party of Canada candidates, 1988 Canadian federal election|Libertarian]]
+* [[Liberal Party of Canada candidates, 1988 Canadian federal election|Liberal]]
+* [[New Democratic Party candidates, 1988 Canadian federal election|New Democrats]]
+* [[Progressive Conservative Party of Canada candidates, 1988 Canadian federal election|Progressive Conservative]]
+* [[Rhinoceros Party of Canada candidates, 1988 Canadian federal election|Rhinoceros]]
+{{div col end}}
+
+==References==
+{{reflist}}
+
+=== Notes ===
+{{Notelist}}
+
+=== Party platforms ===
+{{refbegin}}
+* {{cite book |author1=New Democratic Party of Canada |title=Meeting the Challenge: Ed Broadbent and the New Democrats speak up for average Canadians |date=1988 |publisher=New Democratic Party of Canada |oclc=66068520 |url=https://www.poltext.org/sites/poltext.org/files/plateformesV2/Canada/CAN_PL_1988_NDP_en.pdf}}
+* {{cite book |author1=Liberal Party of Canada |title=This is more than an Election, it's your Future |date=1988 |publisher=Liberal Party of Canada |url=https://www.poltext.org/sites/poltext.org/files/plateformesV2/Canada/CAN_PL_1988_LIB_en.pdf |oclc=51242562}}
+{{refend}}
+
+==Further reading==
+{{refbegin}}
+* {{cite book |last1=Argyle |first1=Ray |title=Turning Points: The Campaigns that Changed Canada 2004 and Before |date=2004 |publisher=White Knight Publications |location=Toronto |isbn=978-0-9734186-6-8 |url=https://archive.org/details/turningpointscam0000argy |url-access=registration}} pp.&nbsp;401–428.
+* {{cite book |editor1-last=Leyton-Brown |editor1-first=David |title=Canadian Annual Review of Politics and Public Affairs, 1988 |date=1995 |publisher=University of Toronto Press |location=Toronto |isbn=978-0-8020-5849-2}}
+* {{cite book |last1=LeDuc |first1=Lawrence |last2=Pammett |first2=Jon H. |last3=McKenzie |first3=Judith L. |last4=Turcotte |first4=André |title=Dynasties and Interludes: Past and Present in Canadian Electoral Politics |date=2010 |publisher=Dundurn Press |location=Toronto |isbn=978-1-55488-886-3 |url=https://archive.org/details/dynastiesinterlu0000unse |url-access=registration}}
+* {{cite book |last1=Johnston |first1=Richard |last2=Blais |first2=André |last3=Brady |first3=Henry E. |last4=Crête |first4=Jean |author2-link=André Blais |author3-link=Henry E. Brady |title=Letting the People Decide: Dynamics of a Canadian Election |date=1992 |publisher=Stanford University Press |location=Stanford, Calif. |isbn=978-0-8047-2078-6 |url=https://archive.org/details/lettingpeopledec0000unse |url-access=registration}}
+* {{cite book |last1=Fraser |first1=Graham |author1-link=Graham Fraser |title=Playing for Keeps: the Making of the Prime Minister, 1988 |date=1989 |publisher=McClelland & Stewart |location=Toronto |isbn=978-0-7710-3208-0 |url=https://archive.org/details/playingforkeepsm0000fras}}
+* {{cite book |editor1-last=Frizzell |editor1-first=Alan |editor2-last=Pammett |editor2-first=Jon H. |editor3-last=Westell |editor3-first=Anthony |title=The Canadian General Election of 1988 |date=1989 |publisher=Dundurn Press |location=Toronto |isbn=978-0-88629-089-4 |url=https://archive.org/details/canadiangenerale0000friz |url-access=registration}}
+** {{cite book |editor1-last=Frizzell |editor1-first=Alan |editor2-last=Pammett |editor2-first=Jon H. |editor3-last=Westell |editor3-first=Anthony |title=The Canadian General Election of 1988 |date=1989 |publisher=Dundurn Press |location=Toronto |isbn=978-0-88629-089-4 |url=https://archive.org/details/canadiangenerale0000friz |url-access=registration |chapter=The Liberals: Disoriented in Defeat |last1=Clarkson |first1=Stephen}}
+{{refend}}
+
+=== Government reports ===
+{{refbegin}}
+* {{cite report |author1=Canada, Chief Electoral Officer |title=Thirty-Fourth General Election, 1988: Report of the Chief Electoral Officer |date=1988 |publisher=Queen's Printer |location=Ottawa |url=https://archive.org/details/micro_IA40243223_1098 }}
+* {{cite report |author1=Canada, Chief Electoral Officer |title=Thirty-Fourth General Election, 1988: Report of the Chief Electoral Officer - Respecting Election Expenses |date=1988 |publisher=Queen's Printer |location=Ottawa |url=https://archive.org/details/31761115530156 }}
+{{refend}}
+
+==External links==
+*{{Deprecated archive|url=https://archive.today/20130115170810/http://atlas.gc.ca/site/english/maps/archives/5thedition/peopleandsociety/politicalgeography/mcr4167?w=4&h=4&l=2&r=0&c=0|title=Riding map|sec=el}}
+*[http://www.thecanadianencyclopedia.ca/en/article/election-1988-feature/ Election 1988, by Stephen Azzi]
+*[https://www.youtube.com/watch?v=gyYjRmM7RDY CBC Archives: Betting On Free Trade 1988 (excerpt from the English leaders debate]
+ 
+{{Canadian federal election, 1988A}}
+{{Canada elections}}
+{{Brian Mulroney}}
+
+[[Category:1988 Canadian federal election| ]]
+[[Category:Canadian federal elections by year|1988]]
+[[Category:1988 elections in Canada|Federal]]
+[[Category:November 1998 in Canada]]

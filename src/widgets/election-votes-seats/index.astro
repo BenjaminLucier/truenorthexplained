@@ -1,0 +1,264 @@
+---
+/**
+ * First-past-the-post over 150 years: the Liberal and Conservative families'
+ * share of the vote against their share of the seats at every general
+ * election, as two small multiples. From src/data/elections/history.json.
+ *
+ *   <tn-widget name="election-votes-seats"></tn-widget>
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import ChartTip from "../../components/charts/ChartTip.astro";
+import Legend from "../../components/charts/Legend.astro";
+import TimePlot from "../../components/charts/TimePlot.astro";
+import { linePath } from "../../lib/charts";
+import { uniqueId } from "../../lib/ids";
+import {
+  FEDERAL,
+  electionBands,
+  elections,
+  formatDate,
+  historyMeta,
+  largest,
+  pct,
+  seatShare,
+  wikiListUrl,
+  xOf,
+  xPct,
+  type Election,
+} from "../../lib/election-history";
+
+const id = uniqueId(Astro, "vs", "history");
+const H = 170;
+const Y_MAX = 80;
+const y = (v: number) => H - (Math.min(v, Y_MAX) / Y_MAX) * H;
+const BIG = ["lpc", "cpc"] as const;
+type Big = (typeof BIG)[number];
+const name: Record<Big, string> = { lpc: "Liberal", cpc: "Conservative family" };
+const signed = (n: number) => `${n > 0 ? "+" : n < 0 ? "−" : "±"}${Math.abs(n).toFixed(1)}`;
+
+const panels = BIG.map((f) => {
+  const pts = elections.map((e, i) => ({ e, i, x: electionBands[i]!.xc, vote: e.vote[f], seats: seatShare(e, f) }));
+  const seatLine = linePath(pts.map((p) => [p.x, y(p.seats)]));
+  const voteLine = linePath(pts.map((p) => [p.x, y(p.vote)]));
+  const between = `${seatLine}${linePath(pts.toReversed().map((p) => [p.x, y(p.vote)])).replace(/^M/, "L")}Z`;
+  return { f, pts, seatLine, voteLine, between };
+});
+
+// Takeaways, from the data.
+const winnerBonus = elections.filter((e) => seatShare(e, e.government.family) > e.vote[e.government.family]);
+const majorities = elections.filter((e) => e.government.type === "majority");
+const minorityVoteMajorities = majorities.filter((e) => e.vote[e.government.family] < 50);
+/** Elections where the family with the most seats won fewer votes than the other big family. */
+const inverted = elections.filter((e) => {
+  const top = largest(e);
+  if (top !== "lpc" && top !== "cpc") return false;
+  const other = top === "lpc" ? "cpc" : "lpc";
+  return e.vote[top] < e.vote[other];
+});
+const list = (xs: number[]) => (xs.length > 1 ? `${xs.slice(0, -1).join(", ")} and ${xs.at(-1)}` : String(xs[0] ?? ""));
+const lede = `${winnerBonus.length === elections.length ? `At every one of the ${elections.length} elections, the party that formed government` : `At ${winnerBonus.length} of ${elections.length} elections, the party that formed government`} won a bigger share of the seats than of the votes. ${minorityVoteMajorities.length} of ${majorities.length} majority governments won less than half the vote.`;
+
+const aria = (e: Election, f: Big) =>
+  `${e.year}, ${name[f]}: ${pct(e.vote[f])} of the vote, ${pct(seatShare(e, f))} of the seats (${e.seats[f]} of ${e.houseSize}).`;
+---
+
+<ChartCard
+  title="Votes vs seats, 1867–2025"
+  lede={lede}
+  sources={[
+    { label: "Wikipedia, List of Canadian federal elections and each election's article (CC BY-SA 4.0)", url: wikiListUrl },
+  ]}
+  tableLabel="Show the data"
+>
+  <Legend
+    items={[
+      { label: "Share of seats", color: "var(--tn-text-secondary)", kind: "line" },
+      { label: "Share of the vote", color: "var(--tn-text-secondary)", kind: "dash" },
+      { label: "Seat bonus or shortfall", color: "var(--tn-text-secondary)", kind: "light" },
+    ]}
+  />
+
+  <tn-chart class="vs mt-4 block">
+    <div class="grid gap-x-6 gap-y-6 md:grid-cols-2">
+      {
+        panels.map((p) => (
+          <div>
+            <p class="mb-2 flex items-center gap-2 text-sm font-semibold text-primary">
+              <span class="size-3 rounded-full" style={`background: ${FEDERAL[p.f].color}`} aria-hidden="true" />
+              {name[p.f]}
+            </p>
+            <TimePlot
+              height={H}
+              yMin={0}
+              yMax={Y_MAX}
+              yTicks={[0, 20, 40, 60, 80]}
+              yFormat={(v) => `${v}%`}
+              xTicks={[1867, 1900, 1950, 2000]}
+              label={`${name[p.f]}: votes and seats by election; use the arrow keys to move between elections`}
+            >
+              <rect x="0" y="0" width={xOf(1900)} height={H} class="vs-early" />
+              <path d={p.between} fill={FEDERAL[p.f].color} fill-opacity="0.16" />
+              <line x1="0" x2="1000" y1={y(50)} y2={y(50)} class="vs-half" />
+              <path d={p.voteLine} class="vs-line" stroke={FEDERAL[p.f].color} stroke-dasharray="4 3" />
+              <path d={p.seatLine} class="vs-line" stroke={FEDERAL[p.f].color} />
+              <Fragment slot="dots">
+                {p.pts.map((pt) => (
+                  <g class="vs-pt" data-group={`${p.f}-${pt.i}`}>
+                    <line x1={xPct(pt.x)} x2={xPct(pt.x)} y1={y(Math.max(pt.vote, pt.seats))} y2={y(Math.min(pt.vote, pt.seats))} stroke={FEDERAL[p.f].color} />
+                    <circle cx={xPct(pt.x)} cy={y(pt.vote)} r="3.5" class="vs-vote" stroke={FEDERAL[p.f].color} />
+                    <circle cx={xPct(pt.x)} cy={y(pt.seats)} r="3.5" fill={FEDERAL[p.f].color} class="vs-seat" />
+                  </g>
+                ))}
+              </Fragment>
+              <Fragment slot="hits">
+                {p.pts.map((pt) => (
+                  <rect
+                    x={electionBands[pt.i]!.x0}
+                    width={electionBands[pt.i]!.x1 - electionBands[pt.i]!.x0}
+                    y="0"
+                    height={H}
+                    class="tp-hit"
+                    data-tip={`${id}-${p.f}-${pt.i}`}
+                    data-group={`${p.f}-${pt.i}`}
+                    data-row={p.f === "lpc" ? 0 : 1}
+                    role="img"
+                    aria-label={aria(pt.e, p.f)}
+                  />
+                ))}
+              </Fragment>
+            </TimePlot>
+          </div>
+        ))
+      }
+    </div>
+
+    <p class="mt-4 text-xs text-muted">
+      Shaded before 1900: many seats were won by acclamation, with no vote held, so vote shares from those years are a rough guide.
+      The dashed grey line is half.
+    </p>
+
+    {
+      panels.map((p) =>
+        p.pts.map(({ e, i, vote, seats }) => (
+          <template id={`${id}-${p.f}-${i}`}>
+            <p class="ct-h">
+              {e.year} · {name[p.f]}
+            </p>
+            <p class="ct-sub">{formatDate(e.date)}</p>
+            <table class="ct-rows">
+              <tbody>
+                <tr>
+                  <td>Share of the vote</td>
+                  <td>{pct(vote)}</td>
+                </tr>
+                <tr class="ct-strong">
+                  <td>Share of the seats</td>
+                  <td>{pct(seats)}</td>
+                </tr>
+                <tr>
+                  <td>Seats</td>
+                  <td>
+                    {e.seats[p.f]} of {e.houseSize}
+                  </td>
+                </tr>
+                <tr>
+                  <td>Seat bonus</td>
+                  <td>{signed(seats - vote)} pts</td>
+                </tr>
+              </tbody>
+            </table>
+            <p class="ct-p">
+              {e.government.family === p.f ? `Formed a ${e.government.type} government.` : "In opposition."}
+            </p>
+          </template>
+        )),
+      )
+    }
+    <ChartTip />
+  </tn-chart>
+
+  {
+    inverted.length > 0 && (
+      <p class="mt-4 rounded-lg bg-surface-muted p-4 text-sm text-secondary">
+        In {list(inverted.map((e) => e.year))} the party that won the most seats got fewer votes than its main rival. Winning seats depends on where the votes
+        are, not only how many there are.
+      </p>
+    )
+  }
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Election</th>
+          <th scope="col">Liberal votes</th>
+          <th scope="col">Liberal seats</th>
+          <th scope="col">Conservative votes</th>
+          <th scope="col">Conservative seats</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          elections.map((e) => (
+            <tr>
+              <th scope="row" class="font-normal">
+                {e.year}
+              </th>
+              <td>{pct(e.vote.lpc)}</td>
+              <td>
+                {pct(seatShare(e, "lpc"))} ({e.seats.lpc})
+              </td>
+              <td>{pct(e.vote.cpc)}</td>
+              <td>
+                {pct(seatShare(e, "cpc"))} ({e.seats.cpc})
+              </td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <caption>
+        Shares of the votes cast and of the seats filled. The Conservative family includes {FEDERAL.cpc.covers}; in 1993, 1997 and 2000 it adds
+        Progressive Conservative and Reform or Alliance votes and seats together. Data fetched {historyMeta.fetched}.
+      </caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+<style>
+  .vs-early {
+    fill: var(--tn-surface-muted);
+  }
+  .vs-half {
+    stroke: var(--tn-text-muted);
+    stroke-width: 1;
+    stroke-dasharray: 3 3;
+    vector-effect: non-scaling-stroke;
+  }
+  .vs-line {
+    fill: none;
+    stroke-width: 2;
+    stroke-linejoin: round;
+    vector-effect: non-scaling-stroke;
+  }
+  .vs-pt {
+    opacity: 0;
+  }
+  .vs-pt line {
+    stroke-width: 2;
+  }
+  .vs-vote {
+    fill: var(--tn-surface);
+    stroke-width: 2;
+  }
+  .vs-seat {
+    stroke: var(--tn-surface);
+    stroke-width: 2;
+  }
+  .vs-pt.is-active {
+    opacity: 1;
+  }
+  .vs :global(.tp-hit.is-active) {
+    fill: var(--tn-text-primary);
+    fill-opacity: 0.06;
+  }
+</style>

@@ -21,6 +21,15 @@ represent the King.
 
 <tn-widget name="province-map"></tn-widget>
 
+### Who has governed them
+
+Each province and territory elects its own legislature, and the party that holds its
+confidence forms the government. Provincial parties are separate from the federal ones,
+even when they share a name. This chart groups them into families by colour so you can
+compare them across the country.
+
+<tn-widget name="premiers-ribbon"></tn-widget>
+
 ### Provinces vs territories
 
 | | Provinces | Territories |
@@ -88,6 +97,7 @@ A few things the table shows:
 - [Constitution Act, 1867: Admission of Other Colonies, s. 146](https://laws-lois.justice.gc.ca/eng/const/page-4.html)
 - [Provinces and territories](https://www.canada.ca/en/intergovernmental-affairs/services/provinces-territories.html) (Intergovernmental Affairs, Government of Canada)
 - [The Crown in Canada](https://www.canada.ca/en/canadian-heritage/services/crown-canada.html) (Canadian Heritage)
+- Premiers: [Wikidata](https://www.wikidata.org/) (CC0) and Wikipedia's lists of premiers of each province and territory (CC BY-SA 4.0), combined by a script. See [Credits](/credits).
 - [Discover Canada](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada.html), the official citizenship study guide
 - Provincial legislatures: [Alberta](https://www.assembly.ab.ca/), [British Columbia](https://www.leg.bc.ca/), [Manitoba](https://www.gov.mb.ca/legislature/), [New Brunswick](https://www.legnb.ca/en), [Newfoundland and Labrador](https://www.assembly.nl.ca/), [Nova Scotia](https://nslegislature.ca/), [Ontario](https://www.ola.org/en), [Prince Edward Island](https://www.assembly.pe.ca/), [Quebec](https://www.assnat.qc.ca/en/), [Saskatchewan](https://www.legassembly.sk.ca/)
 - Territorial legislatures: [Northwest Territories](https://www.ntlegislativeassembly.ca/), [Nunavut](https://www.assembly.nu.ca/), [Yukon](https://yukonassembly.ca/) <!-- unverified link: returned 403 to automated check -->

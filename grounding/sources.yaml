@@ -177,3 +177,71 @@ provinces:
   - Alberta Act
   - Manitoba Act, 1870
   - Red River Resistance
+
+# Every federal general election, for `pnpm data:election-history`, which parses
+# the summary tables of the two list pages and the infobox of each election page.
+# (The 2025 election is listed under `elections` above.)
+election-history:
+  - List of Canadian federal elections
+  - List of women elected to Canadian Parliament
+  - 1867 Canadian federal election
+  - 1872 Canadian federal election
+  - 1874 Canadian federal election
+  - 1878 Canadian federal election
+  - 1882 Canadian federal election
+  - 1887 Canadian federal election
+  - 1891 Canadian federal election
+  - 1896 Canadian federal election
+  - 1900 Canadian federal election
+  - 1904 Canadian federal election
+  - 1908 Canadian federal election
+  - 1911 Canadian federal election
+  - 1917 Canadian federal election
+  - 1921 Canadian federal election
+  - 1925 Canadian federal election
+  - 1926 Canadian federal election
+  - 1930 Canadian federal election
+  - 1935 Canadian federal election
+  - 1940 Canadian federal election
+  - 1945 Canadian federal election
+  - 1949 Canadian federal election
+  - 1953 Canadian federal election
+  - 1957 Canadian federal election
+  - 1958 Canadian federal election
+  - 1962 Canadian federal election
+  - 1963 Canadian federal election
+  - 1965 Canadian federal election
+  - 1968 Canadian federal election
+  - 1972 Canadian federal election
+  - 1974 Canadian federal election
+  - 1979 Canadian federal election
+  - 1980 Canadian federal election
+  - 1984 Canadian federal election
+  - 1988 Canadian federal election
+  - 1993 Canadian federal election
+  - 1997 Canadian federal election
+  - 2000 Canadian federal election
+  - 2004 Canadian federal election
+  - 2006 Canadian federal election
+  - 2008 Canadian federal election
+  - 2011 Canadian federal election
+  - 2015 Canadian federal election
+  - 2019 Canadian federal election
+  - 2021 Canadian federal election
+
+# Lists of premiers, for `pnpm data:premiers`, which reads the party of each
+# premier's government from their {{Canadian first minister list}} rows.
+premiers:
+  - List of premiers of Alberta
+  - List of premiers of British Columbia
+  - List of premiers of Manitoba
+  - List of premiers of New Brunswick
+  - List of premiers of Newfoundland and Labrador
+  - List of premiers of the Northwest Territories
+  - List of premiers of Nova Scotia
+  - List of premiers of Nunavut
+  - List of premiers of Ontario
+  - List of premiers of Prince Edward Island
+  - List of premiers of Quebec
+  - List of premiers of Saskatchewan
+  - List of premiers of Yukon

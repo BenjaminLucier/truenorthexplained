@@ -43,6 +43,8 @@ pnpm dev                                 # http://localhost:4321
 | `pnpm review` | Regenerate [REVIEW.md](REVIEW.md), the list of facts and links awaiting review |
 | `pnpm data:geo` | Re-download province and riding boundaries and population estimates into `src/data/geo/` |
 | `pnpm data:elections` | Re-download 2025 election results, current MPs and senators, and seat allocation into `src/data/elections/`, `src/data/parliament/` and `src/data/population/` |
+| `pnpm data:election-history` | Rebuild every federal general election since 1867 (seats and votes by party family, turnout, government, women elected) into `src/data/elections/history.json` from Elections Canada and Wikipedia. Refreshes the Wikipedia pages first; add `--offline` to use the copies in `grounding/wikipedia/` |
+| `pnpm data:premiers` | Rebuild every premier of each province and territory, with party family, into `src/data/wikidata/premiers.json` from Wikidata and Wikipedia |
 | `pnpm data:population` | Re-download 2021 Census population by province (used by the amending-formula widget) |
 | `pnpm grounding` | Re-download the Wikipedia/Wikidata grounding corpus, flags and Statistics Canada demographics. See [grounding/README.md](grounding/README.md) |
 

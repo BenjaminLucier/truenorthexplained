@@ -29,6 +29,32 @@ generated from the datasets' `_meta` blocks and `src/data/flags.json`.
 - Current premiers, and the check of current federal officeholders, also use the
   `incumbent` field of the English Wikipedia article for each office (CC BY-SA 4.0).
 
+## Elections Canada
+
+`src/data/elections/history.json` (`pnpm data:election-history`) uses two Elections
+Canada publications:
+
+- [Voter Turnout at Federal Elections and Referendums](https://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e):
+  dates, registered electors, ballots cast and turnout for every general election.
+- [A History of the Vote in Canada](https://www.elections.ca/content.aspx?section=res&dir=his&document=index&lang=e):
+  the milestones in who could vote shown on the turnout chart. The script checks each
+  against a sentence in the book; the short descriptions are our own.
+
+**Licence:** [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada).
+This site is not endorsed by Elections Canada. The figures are unchanged.
+
+The same file's seats, vote shares and women elected come from Wikipedia (CC BY-SA 4.0):
+"List of Canadian federal elections", each election's article and "List of women elected
+to Canadian Parliament", read from `grounding/wikipedia/`.
+
+## Premiers
+
+`src/data/wikidata/premiers.json` (`pnpm data:premiers`) combines Wikidata (CC0) with
+the infoboxes of each premier's English Wikipedia article and the "List of premiers of …"
+page for each province and territory (CC BY-SA 4.0). Wikipedia fills dates and parties
+that Wikidata lacks; the current premier comes from `src/data/wikidata/provinces.json`
+when Wikidata is behind.
+
 ## Statistics Canada
 
 `src/data/statcan/*.json` comes from these Statistics Canada tables:

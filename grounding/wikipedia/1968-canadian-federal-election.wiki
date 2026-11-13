@@ -1,0 +1,1847 @@
+{{Short description|none}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 1968 Canadian federal election
+| country = Canada
+| type = parliamentary
+| ongoing = no
+| party_colour = no
+| party_name = no
+| opinion_polls = Opinion polling for the 1968 Canadian federal election
+| previous_election = 1965 Canadian federal election
+| previous_year = 1965
+| election_date = June 25, 1968
+| next_election = 1972 Canadian federal election
+| next_year = 1972
+| seats_for_election = 264 seats in the [[House of Commons of Canada|House of Commons]]
+| majority_seats = 133
+| turnout = 75.7%<ref>{{cite web|last=Pomfret|first=R.|title=Voter Turnout at Federal Elections and Referendums|url=http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|work=Elections Canada|publisher=Elections Canada|access-date=11 January 2014}}</ref> ({{increase}} 0.9 [[Percentage Point|pp]])
+| image_size = x160px
+| image1 = {{CSS image crop|Image=Pierre Elliott Trudeau portrait 1968 (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour1 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader1 = [[Pierre Trudeau]]
+| party1 = {{Canadian party colour|CA|Liberal|name}}
+| leader_since1 = [[1968 Liberal Party of Canada leadership election|April 6, 1968]]
+| leaders_seat1 = [[Mount Royal (electoral district)|Mount Royal]]
+| last_election1 = 131 seats, 40.18%
+| seats_before1 = 128
+| seats1 = '''154'''
+| seat_change1 = {{increase}} 26
+| popular_vote1 = '''3,686,801'''
+| percentage1 = '''45.37%'''
+| swing1 = {{increase}} 5.18 [[Percentage Point|pp]]
+| map_image = Canada 1968 Federal Election.svg
+| map_size = 375px
+| map_caption = Popular vote by province, with graphs indicating the number of seats won. As this is an [[FPTP]] election, seat totals are not determined by popular vote by province but instead via results by each riding.
+| title = Prime Minister
+| before_election = [[Pierre Trudeau]]
+| before_party = {{Canadian party colour|CA|Liberal|name}}
+| posttitle = Prime Minister after election
+| after_election = [[Pierre Trudeau]]
+| after_party = {{Canadian party colour|CA|Liberal|name}}
+| elected_mps = 28th Canadian Parliament
+| previous_mps = 27th Canadian Parliament
+| image2 = {{CSS image crop|Image=Robert Stanfield 1968 press photo (3x4).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour2 = {{Canadian party colour|CA|PC|nohash}}
+| leader2 = [[Robert Stanfield]]
+| leader_since2 = [[1967 Progressive Conservative leadership election|September 9, 1967]]
+| party2 = {{Canadian party colour|CA|PC|name}}
+| leaders_seat2 = [[Halifax (federal electoral district)|Halifax]]
+| last_election2 = 97 seats, 32.41%
+| seats_before2 = 94
+| seats2 = 72
+| seat_change2 = {{decrease}} 22
+| popular_vote2 = 2,554,397
+| percentage2 = 31.43%
+| swing2 = {{decrease}} 0.98 [[Percentage Point|pp]]
+| image3 = {{CSS image crop|Image=Premier Tommy Douglas (F1257 s1057 it2743) (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour3 = {{Canadian party colour|CA|NDP|nohash}}
+| leader3 = [[Tommy Douglas]]
+| leader_since3 = [[1961 New Democratic Party leadership election|August 3, 1961]]
+| party3 = {{Canadian party colour|CA|NDP|name}}
+| leaders_seat3 = [[Burnaby—Coquitlam]]<br />{{small|''Ran in [[Burnaby—Seymour]] (lost)''}}
+| last_election3 = 21 seats, 17.91%
+| seats_before3 = 22
+| seats3 = 22
+| seat_change3 = {{steady}} 0
+| popular_vote3 = 1,378,263
+| percentage3 = 16.96%
+| swing3 = {{decrease}} 0.95 [[Percentage Point|pp]]
+| image4 = {{CSS image crop|Image=Real Caouette (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour4 = {{Canadian party colour|CA|Ralliement créditiste|nohash}}
+| leader4 = [[Réal Caouette]]
+| leader_since4 = [[Social Credit Party of Canada split, 1963|September 1, 1963]]
+| party4 = {{Canadian party colour|CA|Ralliement créditiste|name}}
+| leaders_seat4 = [[Témiscamingue (electoral district)|Témiscamingue]]
+| last_election4 = 9 seats, 4.66%
+| seats_before4 = 8
+| seats4 = 14
+| seat_change4 = {{increase}} 6
+| popular_vote4 = 360,404
+| percentage4 = 4.43%{{efn-lr|group=results0|Only contested seats in [[Quebec]] and [[Restigouche—Madawaska]] in [[New Brunswick]].}}
+| swing4 = {{decrease}} 0.22 [[Percentage Point|pp]]
+| image5 = {{CSS image crop|Image=Alexander Bell Patterson (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour5 = {{Canadian party colour|CA|Social Credit|nohash}}
+| leader5 = [[Alexander Bell Patterson|A.B. Patterson]]
+| leader_since5 = March 9, 1967
+| party5 = {{Canadian party colour|CA|Social Credit|name}}
+| leaders_seat5 = [[Fraser Valley (electoral district)|Fraser Valley]]<br />{{small|''Ran in [[Fraser Valley East]] (lost)''}}
+| last_election5 = 5 seats, 3.66%
+| seats_before5 = 3
+| seats5 = 0
+| seat_change5 = {{decrease}} 3
+| popular_vote5 = 68,742
+| percentage5 = 0.85%
+| swing5 = {{decrease}} 2.82 [[Percentage Point|pp]]
+| map2_image = Chambre des Communes 1968.png
+| map2_size = 350px
+| map2_caption = The Canadian parliament after the 1968 election
+}}
+The '''1968 Canadian federal election''' was held on June 25, 1968, to elect members of the [[House of Commons of Canada]] of the [[28th Canadian Parliament|28th Parliament]] of [[Canada]].
+
+In April 1968, [[Prime Minister of Canada|Prime Minister]] [[Lester Pearson]] of the [[Liberal Party of Canada|Liberal Party]] resigned as party leader as a result of declining health and failing to win a [[majority government]] in two attempts. He [[1968 Liberal Party of Canada leadership election|was succeeded]] by his [[Minister of Justice and Attorney General of Canada|Minister of Justice and Attorney General]] [[Pierre Trudeau]], who called an election immediately after becoming prime minister. Trudeau's charisma appealed to Canadian voters; his popularity became known as "[[Trudeaumania]]" and helped him win a comfortable majority. [[Robert Stanfield]]'s [[Progressive Conservative Party of Canada|Progressive Conservatives]] lost seats whereas the [[New Democratic Party]]'s support stayed the same.
+
+==Background==
+
+[[Prime Minister of Canada|Prime Minister]] [[Lester B. Pearson]] had announced in December 1967 that he would retire early in the following year, calling a new [[1968 Liberal Party of Canada leadership election|leadership election]] for the following April to decide on a successor. In February 1968, however, Pearson's government nearly fell before the leadership election could even take place, when it was unexpectedly defeated on a tax bill. Convention dictated that Pearson would have been forced to resign and call an election had the government been defeated on a full budget bill, but after taking legal advice, [[Governor General of Canada|Governor General]] [[Roland Michener]] decreed that he would only ask for Pearson's resignation if an explicit motion of no confidence were called in his government. Ultimately, the [[New Democratic Party]] and ''[[Ralliement créditiste]]'' were not willing to topple the government over the issue, and even had they done so, Pearson would have been entitled to advise Michener not to hold an election until after the new Liberal leader had been chosen, but the incident made it clear that Pearson's successor could not feasibly hope to hold out until the next statutory general election date of November 1970, and would in all likelihood be forced to call an election much sooner.<ref>Robertson, Gordon; ''Memoirs of a Very Civil Servant''; pp299-301</ref>
+
+[[Pierre Trudeau]], who was a relative unknown until he was appointed to the cabinet by Pearson, won a surprise victory over [[Paul Martin Sr.]], [[Paul Hellyer]] and [[Robert Winters]] in the party's leadership election on April 6. He was sworn in as prime minister on April 20.
+
+==Parties and campaigns==
+
+===Liberals===
+{{See also|Trudeaumania}}
+{{Unreferenced section|date=November 2025}}
+As had been widely expected{{whom|date=November 2025}}, Trudeau called an immediate election after he was sworn in as prime minister. Bilingual Trudeau soon captured the hearts and minds of the nation, the period leading up to the election being dubbed "[[Trudeaumania]]." The Liberal campaign was dominated by Trudeau's personality{{citation needed|date=November 2025}}. Liberal campaign ads featured pictures of Trudeau inviting Canadians to "Come work with me", and encouraged them to "Vote for New Leadership for All of Canada". The substance of the campaign was based upon a proposed expansion of social programs.
+
+===Progressive Conservatives===
+
+The principal opposition to the Liberals was the [[Progressive Conservative Party of Canada|Progressive Conservative Party]] (PC Party) led by [[Robert Stanfield]], who had previously served as [[premier of Nova Scotia]]. The PCs started the election campaign with an internal poll showing them trailing the Liberals by 22 points.{{sfnp|Stevens|1973|p=213}}
+
+Stanfield proposed introducing guaranteed annual income, though failed to explain the number of citizens that would be covered, the minimum income level, and the cost to implement it. Due to concerns that the term "guaranteed annual income" sounded [[socialist]], he eventually switched to using the term "[[negative income tax]]". These mistakes made the policy hard for voters to understand and harmed the PCs. What also damaged the PCs was the idea of ''deux nations'' (meaning that Canada was one country housing two nations - [[French Canadians]] and [[Anglophone Canadians|English-speaking Canadians]]). [[Marcel Faribault]], the PCs' [[Quebec lieutenant]] and [[Member of Parliament (Canada)|MP]] candidate, was unclear on whether he supported or opposed ''deux nations'' and Stanfield did not drop him as a candidate. This led to the Liberals positioning themselves as the party that supported one Canada. In mid-June, they ran a full-page newspaper advertisement that implied that Stanfield supported ''deux nations''; Stanfield called the ad "a deliberate lie" and insisted he supported one Canada.{{sfnp|Stevens|1973|p=216–221}}
+
+===New Democratic Party===
+{{Unreferenced section|date=November 2025}}
+On the left, former long-time [[Premier of Saskatchewan]] [[Tommy Douglas]] led the New Democratic Party. The ouster of Diefenbaker had damaged the PC brand in Saskatchewan and played a major role in allowing the NDP to overcome a decade of electoral failure at the federal level in Saskatchewan to win a plurality of seats there{{citation needed|date=November 2025}}. Nevertheless, these gains were balanced out by losses elsewhere in the country. Under the slogan, "''You'' win with the NDP", Douglas campaigned for affordable housing, higher old age pensions, lower prescription drug prices, and a reduced cost of living. However, the NDP had difficulty running against the left-leaning Trudeau, who was himself a former supporter of the NDP. Douglas would step down as leader in 1971, but remained a powerful icon for New Democrats.
+
+===Leaders' debate===
+
+This was the first Canadian federal election to hold a [[leaders debate]], on June 9, 1968. The debate included Trudeau, Stanfield, Douglas, and in the latter part [[Réal Caouette]], with Caouette speaking French and Trudeau alternating between the languages. [[Alexander Bell Patterson|A.B. Patterson]], leader of the Social Credit Party was not invited to this debate. The assassination of [[Robert F. Kennedy]] three days before cast a pall over the proceedings, and the stilted format was generally seen as boring and inconclusive.<ref>[http://archives.cbc.ca/politics/parties_leaders/clips/15755/ CBC Archives]</ref>
+
+==Electoral system==
+In this election, for the first time since Confederation, all the MPs were elected as the single member for their district, through First past the post. Previously some had always been elected in multi-member ridings, such as in [[Halifax (federal electoral district)|Halifax]] and the riding of [[Queen's (Prince Edward Island federal electoral district)|Queen's]] (PEI), through [[plurality block voting]]. From here on, single-winner [[First past the post]] would be the only electoral system used to elect MPs.<ref>Parliamentary Guide 1969, p. 333–334; Parliamentary Guide 2011, p. 432-433</ref>
+
+===Contests===
+No party fielded a full slate of candidates, and several anomalies arose:
+
+:* [[Lucien Lamoureux]], [[Speaker of the House of Commons of Canada|Speaker of the House of Commons]], opted to follow British tradition and stand for election as an Independent. The Liberals and PCs chose to respect that choice and not field candidates against him in [[Stormont—Dundas]], but the NDP decided not to follow suit.
+:* [[John Mercer Reid]], previously elected as a Liberal in [[Kenora—Rainy River (federal electoral district)|Kenora—Rainy River]], campaigned under the [[Liberal–Labour (Canada)|Liberal-Labour]] banner.
+:* Three ridings saw multiple candidates running under the same ticket:
+::* In [[Rocky Mountain (federal electoral district)|Rocky Mountain]], [[Douglas Caston]] and Hugh Gourley ran as PCs, and John McLeod and Collier Maberley stood as Independent Liberals.
+::* In [[Québec (electoral district)|Langelier]], Guy Jean and Michel Roy ran as Créditistes.
+::* In [[Okanagan—Kootenay]], [[Howard Earl Johnston]] and David Wilson McKechnie ran as Socreds
+
+
+{| class="wikitable" style="text-align:right;"
+|+ Candidate contests in the ridings<ref name="1968Elec">{{cite web |author=<!-- not stated --> |date= |title= General Election (1968-06-25)|url= https://lop.parl.ca/sites/ParlInfo/default/en_CA/ElectionsRidings/Elections/Profile?election=1968-06-25|website= lop.parl.ca|publisher= [[Library of Parliament]]|access-date=May 4, 2025}}</ref>
+!rowspan="2"|Candidates<br />nominated !!rowspan="2"|Ridings !!colspan="11"|Party
+|-
+|{{Canadian party colour|CA|Liberal|background}} align="center" |'''Lib'''<ref group=a>Including Liberal-Labour</ref>
+|{{Canadian party colour|CA|PC|background}} align="center" |'''PC'''
+|{{Canadian party colour|CA|NDP|background}} align="center" |'''NDP'''
+|{{Canadian party colour|CA|Ralliement créditiste|background}} align="center" |'''{{abbr|RC|Ralliement créditiste}}'''
+|{{Canadian party colour|CA|Social Credit|background}} align="center" |'''{{abbr|SC|Social Credit}}'''
+|{{Canadian party colour|CA|Communist|background}} align="center" |'''{{abbr|Comm|Communist}}'''
+|{{Canadian party colour|CA|Liberal|background}} align="center" |'''{{abbr|Ind-Lib|Independent-Liberal}}'''
+|{{Canadian party colour|CA|PC|background}} align="center" |'''{{abbr|Ind-PC|Independent-PC}}'''
+|{{Canadian party colour|CA|Independent|background}} align="center" |'''{{abbr|Ind|Independent}}'''
+|{{Canadian party colour|CA|Other|background}} align="center" |'''{{abbr|Oth|Other minor parties, fielding fewer than 10 candidates}}'''
+!Totals
+|-
+| 2 || 1 ||  ||  || 1 ||  ||  ||  ||  ||  || 1 ||  || 2
+|-
+| 3 || 131 || 131 || 131 || 130 || 1 ||  ||  ||  ||  ||  ||  || 393
+|-
+| 4 || 97 || 97 || 96 || 97 || 46 || 26 || 5 || 2 || 4 || 9 || 6 || 388
+|-
+| 5 || 27 || 27 || 27 || 27 || 18 || 6 || 8 || 5 ||  || 10 || 7 || 135
+|-
+| 6 || 7 || 7 || 8 || 7 || 6 ||  ||  || 3 || 1 || 7 || 3 || 42
+|-
+| 7 || 1 || 1 || 1 || 1 || 1 ||  ||  || 1 ||  || 2 ||  || 7
+|-
+| Totals || 264 || 263 || 263 || 263 || 72 || 32 || 13 || 11 || 5 || 29 || 16 || 967
+|}
+{{reflist|group=a}}
+
+==National results==
+The results of the election were sealed when on the night before the election a riot broke out at the [[St. Jean Baptiste Day]] parade in Montreal.{{Citation needed|date=August 2011}}  Protesting the prime minister's attendance at the parade, supporters of Quebec independence yelled ''Trudeau au poteau'' [Trudeau to the gallows], and threw bottles and rocks.  Trudeau, whose lack of military service during [[World War II]] had led some to question his courage, firmly stood his ground, and did not flee from the violence despite the wishes of his security escort.  Images of Trudeau standing fast to the thrown bottles of the rioters were broadcast across the country, and swung the election even further in the Liberals' favour as many English-speaking Canadians believed that he would be the right leader to fight the threat of Quebec separatism.
+
+The [[Social Credit Party of Canada|Social Credit Party]], having lost two of the five seats it picked up at the previous election via defections (including former leader [[Robert N. Thompson]], who defected to the Tories in March 1967), lost its three remaining seats.  On the other hand, the ''[[Ralliement créditiste|Ralliement des créditistes]]'' (Social Credit Rally), the [[Québec]] wing of the party that had split from the English Canadian party, met with great success.  The ''créditistes'' were a [[populism|populist]] option appealing to [[social conservatism|social conservatives]] and Québec [[nationalism|nationalists]].  They were especially strong in rural ridings and amongst poor voters. Party leader Réal Caouette campaigned against poverty, government indifference, and [[International Jewish conspiracy|''"la grosse finance"'' (big finance)]].  The [[Canadian social credit movement]] would never win seats in English Canada again.
+
+[[Atlantic Canada]] bucked the national trend, with the Tories making large gains in that region and winning pluralities in all four Atlantic provinces. In that region, the Tory brand was strengthened by the leadership of former Nova Scotian premier Stanfield. Voters in Newfoundland, who were growing increasingly weary of their Liberal administration under founding Premier [[Joey Smallwood]], voted PC for the first time since entering Confederation.
+
+This was the last election until [[1993 Canadian federal election|1993]] in which the Liberals won at least 150 seats. 
+
+[[File:1968 Canadian parliament.svg|center|300px]]
+
+{| class="wikitable" style="border-collapse: collapse border-color: #444444"
+|- bgcolor="CCCCCC"
+!rowspan=2 colspan=2|Party
+!rowspan=2|Party leader
+!rowspan=2|# of<br />candidates
+!colspan=4|Seats
+!colspan=3|Popular vote
+|- bgcolor="CCCCCC"
+|align="center"|[[1965 Canadian federal election|1965]]
+|align="center"|[[Dissolution of parliament|<span style="font-size: 75%;">Dissolution</span>]]
+|align="center"|'''Elected'''
+|align="center"|% Change
+|align="center"|#
+|align="center"|%
+|align="center"|Change
+{{Canadian party colour|CA|Liberal|row}}
+| [[Liberal Party of Canada|Liberal]]
+|align="center"| [[Pierre Trudeau]]
+|align="right"|  262
+|align="right"|131
+|align="right"|128
+|align="right"| '''154'''
+|align="right"|+18.3%
+|align="right"|  3,686,801 
+|align="right"| 45.37% 
+|align="right"|+5.18pp
+{{Canadian party colour|CA|PC|row}}
+| [[Progressive Conservative Party of Canada|Progressive Conservative]]
+|align="center"| [[Robert Stanfield]]
+|align="right"| 263
+|align="right"|97
+|align="right"|94
+|align="right"|'''72'''
+|align="right"|-25.8%
+|align="right"| 2,554,397 
+|align="right"|31.43% 
+|align="right"|-0.98pp
+{{Canadian party colour|CA|NDP|row}}
+| [[New Democratic Party (Canada)|New Democratic Party]]
+|align="center"| [[Tommy Douglas]]
+|align="right"| 263
+|align="right"|21
+|align="right"|22
+|align="right"|'''22'''
+|align="right"| +4.8%
+|align="right"| 1,378,263 
+|align="right"| 16.96% 
+|align="right"|-0.95pp
+{{Canadian party colour|CA|Ralliement créditiste|row}}
+| ''[[Ralliement créditiste]]''
+|align="center"| [[Réal Caouette]]
+|align="right"| 72
+|align="right"|9
+|align="right"|8
+|align="right"|  '''14'''
+|align="right"|+55.6%
+|align="right"|  360,404 
+|align="right"|  4.43% 
+|align="right"|-0.22pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Independent 
+|align="right"| 29
+|align="right"|1
+|align="right"|2
+|align="right"|'''1'''
+|align="right"|-
+|align="right"|   36,543 
+|align="right"| 0.45% 
+|align="right"|-0.23pp
+{{Canadian party colour|CA|Liberal|row}}
+| [[Liberal-Labour (Canada)|Liberal-Labour]]
+|align="center"| [[Pierre Trudeau]]<ref group=NB>[[John Mercer Reid]] won as a [[Liberal-Labour (Canada)|Liberal-Labour]] candidate but remained a member of the [[Liberal Party of Canada|Liberal Party]] caucus, led by [[Pierre Trudeau]].</ref>
+|align="right"| 1
+|align="right"|&nbsp;
+|align="right"|  &nbsp;  
+|align="right"|'''1'''
+|align="right"|&nbsp;
+|align="right"|  10,144 
+|align="right"| 0.12%
+|align="right"|&nbsp;
+{{Canadian party colour|CA|Social Credit|row-name}}
+|align="center"| [[Alexander Bell Patterson|A.B. Patterson]]
+|align="right"| 32
+|align="right"|5
+|align="right"|4
+|align="right"| -
+|align="right"|-100%
+|align="right"| 68,742 
+|align="right"|0.85% 
+|align="right"|-2.82pp
+{{Canadian party colour|CA|Independent|row}}
+| Independent Liberal
+|align="center"| &nbsp;
+|align="right"| 11
+|align="right"|-
+|align="right"|-
+|align="right"|  -
+|align="right"|-
+|align="right"| 16,785 
+|align="right"| 0.21% 
+|align="right"|-0.01pp
+{{Canadian party colour|CA|Communist|row-name}}
+| [[William Kashtan]]
+|align="right"| 14
+|align="right"|-
+|align="right"|-
+|align="right"|-
+|align="right"|-
+|align="right"|   4,465
+|align="right"| 0.05% 
+|align="right"|x
+{{Canadian party colour|CA|Independent|row}}
+| Independent PC
+|align="center"| &nbsp;
+|align="right"|5
+|align="right"|1
+|align="right"|-
+|align="right"| -
+|align="right"|-100%
+|align="right"| 2,762 
+|align="right"| 0.03% 
+|align="right"|-0.14pp
+{{Canadian party colour|CA|Independent|row}}
+| ''[[Parti de la Démocratisation Économique|Démocratisation Économique]]''
+|&nbsp;
+|align="right"| 5
+|align="right"|&nbsp;
+|align="right"|&nbsp;
+|align="right"| -
+|align="right"|&nbsp;
+|align="right"|   2,651
+|align="right"|0.03% 
+|align="right"|&nbsp;
+{{Canadian party colour|CA|Independent|row}}
+| ''[[Franc Lib]]''
+| &nbsp;
+|align="right"| 1
+|align="right"|&nbsp;
+|align="right"|&nbsp;
+|align="right"|-
+|align="right"|&nbsp;
+|align="right"|  2,141 
+|align="right"|0.03% 
+|align="right"|&nbsp;
+{{Canadian party colour|CA|Independent|row}}
+| Independent Conservative
+|&nbsp;
+|align="right"| 1
+|align="right"|-
+|align="right"|-
+|align="right"|  -
+|align="right"|-
+|align="right"| 632 
+|align="right"| 0.01% 
+|align="right"|x
+{{Canadian party colour|CA|Independent|row}}
+| Reform
+|  &nbsp;
+|align="right"| 1
+|align="right"|&nbsp;
+|align="right"|&nbsp;
+|align="right"|-
+|align="right"|&nbsp;
+|align="right"|420
+|align="right"| 0.01% 
+|align="right"|&nbsp;
+{{Canadian party colour|CA|Rhinoceros (historical)|row-name}}
+|align="center"| [[Cornelius the First|Cornelius I]]
+|align="right"| 1
+|align="right"|&nbsp;
+|align="right"|&nbsp;
+|align="right"| -
+|align="right"|&nbsp;
+|align="right"| 354 
+|align="right"|x 
+|align="right"|x
+{{Canadian party colour|CA|Independent|row}}
+| Conservative
+|&nbsp;
+|align="right"| 1
+|align="right"|-
+|align="right"|-
+|align="right"|  -
+|align="right"|-
+|align="right"|339 
+|align="right"| x 
+|align="right"|x
+{{Canadian party colour|CA|Independent|row}}
+| ''Esprit social''
+| H-G Grenier
+|align="right"| 1
+|align="right"|-
+|align="right"|-
+|align="right"|-
+|align="right"|-
+|align="right"| 311 
+|align="right"|x
+|align="right"|x
+{{Canadian party colour|CA|Independent|row}}
+| [[Socialist Labour Party (Canada)|Socialist Labour]]
+|&nbsp;
+|align="right"| 1
+|align="right"|-
+|align="right"|-
+|align="right"| -
+|align="right"|-
+|align="right"| 202 
+|align="right"| x 
+|align="right"|x
+{{Canadian party colour|CA|Independent|row}}
+| [[Parti republicain/Republican Party (Canada)|Republican]]<ref group=NB>The Republican Party also took credit for a second candidate, who received 420 votes. (''Vancouver Sun'', June 26, 1968, "Republicans Claim Win", p. 15)</ref>
+|&nbsp;
+|align="right"| 1
+|align="right"|&nbsp;
+|align="right"|&nbsp;
+|align="right"| -
+|align="right"|&nbsp;
+|align="right"| 175 
+|align="right"|x 
+|align="right"|&nbsp;
+{{Canadian party colour|CA|Independent|row}}
+| [[New Canada Party|New Canada]]
+|[[Fred Reiner]]
+|align="right"|1
+|align="right"|&nbsp;
+|align="right"|&nbsp;
+|align="right"|  -
+|align="right"|&nbsp;
+|align="right"| 148 
+|align="right"|x 
+|align="right"|&nbsp;
+{{Canadian party colour|CA|Independent|row}}
+| [[National Socialist candidate (Canada)|National Socialist]]
+|&nbsp;
+|align="right"|1
+|align="right"|&nbsp;
+|align="right"|&nbsp;
+|align="right"|-
+|align="right"|&nbsp;
+|align="right"| 89
+|align="right"|x 
+|align="right"|&nbsp;
+|-
+|rowspan=2|&nbsp;&nbsp;&nbsp;&nbsp;
+|colspan=4|Vacant
+|align="right"|6
+|align="right" colspan=5|&nbsp;
+|- 
+| colspan=2|'''Total'''
+|align="right"|''' 967'''
+|align="right"|''' 265'''
+|align="right"|''' 265'''
+|align="right"|'''264'''
+|align="right"|'''-0.4%'''
+|align="right"|''' 8,126,768 '''
+|align="right"|'''  100%''' 
+|&nbsp;
+|-
+| align="center" colspan=11|'''Sources:''' http://www.elections.ca [https://web.archive.org/web/20090609211221/http://www2.parl.gc.ca/Sites/LOP/HFER/hfer.asp?Language=E History of Federal Ridings since 1867], ''[[Toronto Star]]'', June 24, 1968.
+|}
+
+'''Notes:'''
+
+"% change" refers to change from previous election
+
+x - less than 0.005% of the popular vote
+
+"Dissolution" refers to party standings in the House of Commons immediately prior to the election call, not the results of the previous election.
+
+{{reflist|group=NB}}
+
+===Synopsis of results===
+{| class="wikitable sortable mw-collapsible" style="text-align:right; font-size:80%"
+|+ 1968 Canadian federal election – synopsis of riding results<ref name="1968Elec"/>
+|- 
+! colspan="2" | Electoral district
+! colspan="10" | Winning party
+! colspan="10" |Votes
+|-
+! rowspan="2" scope="col" |Province
+! rowspan="2" scope="col" |Name
+! colspan="2" rowspan="2" scope="col" | 1st<br />place
+! rowspan="2" scope="col" | Votes
+! rowspan="2" scope="col" | Share
+! rowspan="2" scope="col" | Margin<br />#
+! rowspan="2" scope="col" | Margin<br />%
+! colspan="2" rowspan="2" scope="col" | 2nd<br />place
+! colspan="2" rowspan="2" scope="col" | 3rd<br />place
+! [[Liberal Party of Canada|Lib]]<ref group=a>Including Liberal-Labour candidate</ref>
+! [[Progressive Conservative Party of Canada|PC]]
+! [[New Democratic Party|NDP]]
+! [[Ralliement créditiste|RC]]
+! [[Social Credit Party of Canada|SC]]
+! {{abbr|Ind-Lib|Independent Liberal}}
+! {{abbr|Ind-PC|Independent PC}}
+! {{abbr|Ind|Independent}}
+! {{abbr|Oth|Other minor political affiliations}}
+! rowspan="2" scope="col" | Total
+|-
+! scope="col" style="background-color:{{Canadian party colour|CA|Liberal}};"|
+! scope="col" style="background-color:{{Canadian party colour|CA|PC}};"|
+! scope="col" style="background-color:{{Canadian party colour|CA|NDP}};"|
+! scope="col" style="background-color:{{Canadian party colour|CA|Ralliement créditiste}};"|
+! scope="col" style="background-color:{{Canadian party colour|CA|Social Credit}};"|
+! scope="col" style="background-color:{{Canadian party colour|CA|Liberal}};"|
+! scope="col" style="background-color:{{Canadian party colour|CA|PC}};"|
+! scope="col" style="background-color:{{Canadian party colour|CA|Independent}};"|
+! scope="col" style="background-color:{{Canadian party colour|CA|Other}};"|
+|-
+!&nbsp; !! !!colspan="2"| !! !! !! !! !!colspan="2"| !!colspan="2"| !! !! !! !! !! !! !! !! !! !!
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|AB || style="text-align:left;"|[[Athabasca (electoral district)|Athabasca]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 8,852 || 47.10% || 1,226 || 6.52% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DDA0DD;"|7,626 || 8,852 || 2,315 || – || – || – || – || – || – || 18,793
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|AB || style="text-align:left;"|[[Battle River (electoral district)|Battle River]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 15,725 || 64.36% || 11,601 || 47.48% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|Social Credit|background}}|  || style="text-align:left;"|SC || 4,124 || 15,725 || 1,827 || – || 2,756 || – || – || – || – || 24,432
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|AB || style="text-align:left;"|[[Calgary Centre]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 16,977 || 47.07% || 301 || 0.83% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 16,676 || style="background-color:#FFFF00;"|16,977 || 2,413 || – || – || – || – || – || – || 36,066
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|AB || style="text-align:left;"|[[Calgary North]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 21,708 || 49.86% || 3,523 || 8.09% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 18,185 || 21,708 || 3,648 || – || – || – || – || – || – || 43,541
+|-
+| style="text-align:left;"|AB || style="text-align:left;"|[[Calgary South]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 20,472 || 47.62% || 756 || 1.76% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 20,472 || style="background-color:#DCD0FF;"|19,716 || 2,798 || – || – || – || – || – || – || 42,986
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|AB || style="text-align:left;"|[[Crowfoot (electoral district)|Crowfoot]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 16,508 || 73.45% || 11,725 || 52.17% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 4,783 || style="background-color:#FFFF00;"|16,508 || 1,185 || – || – || – || – || – || – || 22,476
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|AB || style="text-align:left;"|[[Edmonton Centre]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 12,062 || 34.62% || 251 || 0.72% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Ind-Lib || 11,811 || 12,062 || 3,054 || – || – || 7,912<ref group=a>[[William Hawrelak]] was previously [[Mayor of Edmonton]].</ref> || – || – || – || 34,839
+|-
+| style="text-align:left;"|AB || style="text-align:left;"|[[Edmonton East]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 15,764 || 46.09% || 3,025 || 8.84% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 12,739 || style="background-color:#DCDCDC;"|15,764 || 5,292 || – || – || – || – || – || 410 || 34,205
+|-
+| style="text-align:left;"|AB || style="text-align:left;"|[[Edmonton West]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 19,612 || 49.39% || 2,306 || 5.81% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 17,306 || style="background-color:#DCDCDC;"|19,612 || 2,793 || – || – || – || – || – || – || 39,711
+|-
+| style="text-align:left;"|AB || style="text-align:left;"|[[Edmonton Strathcona (federal electoral district)|Edmonton—Strathcona]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 21,074 || 52.35% || 5,846 || 14.52% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 21,074 || style="background-color:#DCD0FF;"|15,228 || 2,745 || – || – || – || – || 1,206 || – || 40,253
+|-
+| style="text-align:left;"|AB || style="text-align:left;"|[[Lethbridge (federal electoral district)|Lethbridge]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 11,901 || 44.95% || 3,708 || 14.00% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|Social Credit|background}}|  || style="text-align:left;"|SC || 8,193 || style="background-color:#DCDCDC;"|11,901 || 2,442 || – || 3,941 || – || – || – || – || 26,477
+|-
+| style="text-align:left;"|AB || style="text-align:left;"|[[Medicine Hat (federal electoral district)|Medicine Hat]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 9,015 || 36.85% || 206 || 0.84% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Social Credit|background}}|  || style="text-align:left;"|SC || style="background-color:#EABB94;" |9,015<ref group=a>[[Bud Olson]] was previously elected as Social Credit in 1965.</ref> || 8,809 || 2,401 || – || 4,237 || – || – || – || – || 24,462
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|AB || style="text-align:left;"|[[Palliser (Alberta electoral district)|Palliser]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 16,967 || 60.32% || 7,820 || 27.80% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 9,147 || 16,967 || 2,014 || – || – || – || – || – || – || 28,128
+|-
+| style="text-align:left;"|AB || style="text-align:left;"|[[Peace River (federal electoral district)|Peace River]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 11,825 || 55.58% || 6,995 || 32.88% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 4,620 || style="background-color:#DCDCDC;"|11,825 || 4,830 || – || – || – || – || – || – || 21,275
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|AB || style="text-align:left;"|[[Pembina (Alberta electoral district)|Pembina]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 17,578 || 58.82% || 8,236 || 27.56% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 9,342 || style="background-color:#FFFF00;"|17,578 || 2,963 || – || – || – || – || – || – || 29,883
+|-
+| style="text-align:left;"|AB || style="text-align:left;"|[[Red Deer (federal electoral district)|Red Deer]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 17,930 || 62.21% || 9,389 || 32.58% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 8,541 || style="background-color:#EABB94;" |17,930<ref group=a>[[Robert N. Thompson]] was previously elected as Social Credit in 1965.</ref> || 2,349 || – || – || – || – || – || – || 28,820
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|AB || style="text-align:left;"|[[Rocky Mountain (federal electoral district)|Rocky Mountain]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 7,355 || 37.69% || 1,563 || 8.01% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 7,355 || style="background-color:#F0E68C;" |9,377<ref group=a>[[Douglas Caston]] was previously elected in a 1967 byelection for the abolished riding of [[Jasper—Edson]]. He received 3,585 votes in 1968.</ref> || 2,093 || – || – || style="background-color:#F0E68C;" |687 || – || – || – || 19,512
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|AB || style="text-align:left;"|[[Vegreville (federal electoral district)|Vegreville]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 15,855 || 64.59% || 10,789 || 43.95% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 5,066 || 15,855 || 2,277 || – || – || – || 1,349 || – || – || 24,547
+|-
+| style="text-align:left;"|AB || style="text-align:left;"|[[Wetaskiwin (federal electoral district)|Wetaskiwin]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 15,178 || 64.78% || 10,208 || 43.57% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 4,970 || style="background-color:#DCDCDC;"|15,178 || 3,281 || – || – || – || – || – || – || 23,429
+|-
+| style="text-align:left;"|BC || style="text-align:left;"|[[Burnaby—Richmond]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 16,182 || 42.44% || 1,712 || 4.49% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 16,182 || 5,035 || style="background-color:#DCD0FF;"|14,470 || – || 2,445 || – || – || – || – || 38,132
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|BC || style="text-align:left;"|[[Burnaby—Seymour]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 17,891 || 45.23% || 138 || 0.35% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DDA0DD;"|17,891 || 3,206 || style="background-color:#FFFF00;"|17,753 || – || 702 || – || – || – || – || 39,552
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|BC || style="text-align:left;"|[[Capilano (electoral district)|Capilano]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 28,292 || 66.37% || 20,982 || 49.22% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;"|28,292 || 7,310 || 6,279 || – || 745 || – || – || – || – || 42,626
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|BC || style="text-align:left;"|[[Coast Chilcotin]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 10,292 || 47.31% || 2,815 || 12.94% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 10,292 || 2,355 || 7,477 || – || 1,629 || – || – || – || – || 21,753
+|-
+| style="text-align:left;"|BC || style="text-align:left;"|[[Comox—Alberni]]<ref group=a>Election invalidated because of ballots cast by ineligible voters. A byelection was held in 1969.</ref>
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 11,939 || 39.36% || 9 || 0.03% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 11,939 || 5,154 || style="background-color:#DCD0FF;"|11,930 || – || 997 || – || – || – || 311 || 30,331
+|-
+| style="text-align:left;"|BC || style="text-align:left;"|[[Esquimalt—Saanich]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 16,501 || 39.48% || 2,914 || 6.97% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 16,501 || style="background-color:#DCD0FF;"|13,587 || 10,952 || – || 751 || – || – || – || – || 41,791
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|BC || style="text-align:left;"|[[Fraser Valley East]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 9,689 || 34.74% || 1,654 || 5.93% || {{Canadian party colour|CA|Social Credit|background}}|  || style="text-align:left;"|SC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 9,689 || 3,514 || 6,654 || – || style="background-color:#FFFF00;"|8,035 || – || – || – || – || 27,892
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|BC || style="text-align:left;"|[[Fraser Valley West]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 14,410 || 39.61% || 665 || 1.83% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 13,745 || 4,997 || 14,410 || – || style="background-color:#DDA0DD;"|3,224 || – || – || – || – || 36,376
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|BC || style="text-align:left;"|[[Kamloops—Cariboo]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 13,000 || 40.48% || 3,296 || 10.26% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 13,000 || style="background-color:#FFFF00;"|9,704 || 7,566 || – || 1,842 || – || – || – || – || 32,112
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|BC || style="text-align:left;"|[[Kootenay West]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 12,181 || 44.95% || 4,413 || 16.28% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 7,768 || 4,457 || 12,181 || – || 2,693 || – || – || – || – || 27,099
+|-
+| style="text-align:left;"|BC || style="text-align:left;"|[[Nanaimo—Cowichan—The Islands]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 15,273 || 41.71% || 3,895 || 10.64% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 11,378 || 8,773 || style="background-color:#DCDCDC;"|15,273 || – || 1,193 || – || – || – || – || 36,617
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|BC || style="text-align:left;"|[[New Westminster (federal electoral district)|New Westminster]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 18,083 || 44.52% || 1,939 || 4.77% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 18,083 || 4,761 || 16,144 || – || 1,382 || – || – || – || 251 || 40,621
+|-
+| style="text-align:left;"|BC || style="text-align:left;"|[[Okanagan Boundary]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 12,321 || 32.67% || 1,630 || 4.32% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 12,321 || style="background-color:#DCD0FF;"|10,691 || 10,481 || – || 4,217 || – || – || – || – || 37,710
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|BC || style="text-align:left;"|[[Okanagan—Kootenay]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 11,370 || 35.99% || 1,818 || 5.75% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|Social Credit|background}}|  || style="text-align:left;"|SC || 11,370 || – || 9,552 || – || style="background-color:#F0E68C;" |10,674<ref group=a>[[Howard Earl Johnston]] was previously elected in [[Okanagan—Revelstoke]] in 1965. He received 5,837 votes in 1968.</ref> || – || – || – || – || 31,596
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|BC || style="text-align:left;"|[[Prince George—Peace River]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 10,926 || 34.92% || 1,633 || 5.22% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 10,926 || 9,293 || style="background-color:#EEBBBB;"|6,894 || – || style="background-color:#FFFF00;"|3,776 || – || – || 402 || – || 31,291
+|-
+| style="text-align:left;"|BC || style="text-align:left;"|[[Skeena (federal electoral district)|Skeena]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 12,471 || 52.19% || 4,597 || 19.24% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 7,874 || 3,552 || style="background-color:#DCDCDC;"|12,471 || – || – || – || – || – || – || 23,897
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|BC || style="text-align:left;"|[[Surrey—White Rock—South Langley|Surrey]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 16,186 || 44.56% || 4,445 || 12.24% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 11,741 || 5,953 || style="background-color:#FFFF00;"|16,186 || – || 2,445 || – || – || – || – || 36,325
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|BC || style="text-align:left;"|[[Vancouver Centre]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 25,426 || 56.10% || 14,275 || 31.50% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#FFFF00;"|25,426 || 8,326 || 11,151 || – || – || – || – || – || 420 || 45,323
+|-
+| style="text-align:left;"|BC || style="text-align:left;"|[[Vancouver East]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 13,339 || 50.02% || 3,589 || 13.46% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 9,750 || 2,377 || style="background-color:#DCDCDC;"|13,339 || – || 726 || – || – || – || 477 || 26,669
+|-
+| style="text-align:left;"|BC || style="text-align:left;"|[[Vancouver Kingsway]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 15,599 || 49.55% || 4,764 || 15.13% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 10,835 || 3,285 || style="background-color:#DCDCDC;"|15,599 || – || 1,760 || – || – || – || – || 31,479
+|-
+| style="text-align:left;"|BC || style="text-align:left;"|[[Vancouver Quadra]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 20,788 || 54.29% || 9,184 || 23.98% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;"|20,788 || 11,604 || 5,727 || – || – || – || – || – || 175 || 38,294
+|-
+| style="text-align:left;"|BC || style="text-align:left;"|[[Vancouver South]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 19,757 || 49.26% || 10,236 || 25.52% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;"|19,757 || 9,521 || 9,086 || – || 1,585 || – || – || – || 157 || 40,106
+|-
+| style="text-align:left;"|BC || style="text-align:left;"|[[Victoria (British Columbia federal electoral district)|Victoria]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 18,401 || 43.90% || 4,823 || 11.51% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;"|18,401 || 13,578 || 9,414 || – || – || – || – || 526 || – || 41,919
+|-
+| style="text-align:left;"|MB || style="text-align:left;"|[[Brandon—Souris]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 15,060 || 51.83% || 5,097 || 17.54% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 9,963 || style="background-color:#DCDCDC;"|15,060 || 4,031 || – || – || – || – || – || – || 29,054
+|-
+| style="text-align:left;"|MB || style="text-align:left;"|[[Churchill (electoral district)|Churchill]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 9,009 || 41.77% || 1,336 || 6.19% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 7,673 || style="background-color:#DCDCDC;"|9,009 || 4,888 || – || – || – || – || – || – || 21,570
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|MB || style="text-align:left;"|[[Dauphin (Manitoba electoral district)|Dauphin]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 8,701 || 37.18% || 1,931 || 8.25% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 6,770 || 8,701 || 6,737 || – || 1,194 || – || – || – || – || 23,402
+|-
+| style="text-align:left;"|MB || style="text-align:left;"|[[Lisgar (electoral district)|Lisgar]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 11,785 || 51.68% || 4,037 || 17.70% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|Social Credit|background}}|  || style="text-align:left;"|SC || 7,748 || style="background-color:#DCDCDC;"|11,785 || 1,305 || – || 1,350 || – || – || 614 || – || 22,802
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|MB || style="text-align:left;"|[[Marquette (federal electoral district)|Marquette]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 12,706 || 48.62% || 3,523 || 13.48% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 9,183 || 12,706 || 3,651 || – || – || – || – || 593 || – || 26,133
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|MB || style="text-align:left;"|[[Portage (electoral district)|Portage]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 8,415 || 42.88% || 390 || 1.99% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 8,415 || 8,025 || 3,184 || – || – || – || – || – || – || 19,624
+|-
+| style="text-align:left;"|MB || style="text-align:left;"|[[Provencher (electoral district)|Provencher]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 9,021 || 41.64% || 1,230 || 5.68% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DDA0DD;"|9,021 || style="background-color:#DCD0FF;"|7,791 || 3,078 || – || 1,773 || – || – || – || – || 21,663
+|-
+| style="text-align:left;"|MB || style="text-align:left;"|[[Selkirk (federal electoral district)|Selkirk]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 17,310 || 44.59% || 5,290 || 13.63% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 12,020 || style="background-color:#DCD0FF;"|8,781 || style="background-color:#FFFF00;"|17,310 || – || 707 || – || – || – || – || 38,818
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|MB || style="text-align:left;"|[[Saint Boniface—Saint Vital|St. Boniface]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 22,032 || 51.72% || 10,466 || 24.57% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 22,032 || 8,048 || 11,566 || – || 949 || – || – || – || – || 42,595
+|-
+| style="text-align:left;"|MB || style="text-align:left;"|[[Winnipeg North]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 15,608 || 45.47% || 963 || 2.81% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 14,645 || 3,206 || style="background-color:#DCDCDC;"|15,608 || – || – || – || – || – || 869 || 34,328
+|-
+| style="text-align:left;"|MB || style="text-align:left;"|[[Winnipeg North Centre]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 14,880 || 49.07% || 3,557 || 11.73% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 11,323 || 4,124 || style="background-color:#DCDCDC;"|14,880 || – || – || – || – || – || – || 30,327
+|-
+| style="text-align:left;"|MB || style="text-align:left;"|[[Winnipeg South]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 23,457 || 53.11% || 8,248 || 18.68% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 23,457 || style="background-color:#DCD0FF;"|15,209 || 5,499 || – || – || – || – || – || – || 44,165
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|MB || style="text-align:left;"|[[Winnipeg South Centre]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 23,775 || 51.78% || 10,507 || 22.88% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 23,775 || style="background-color:#DDA0DD;"|13,268<ref group=a>[[Duff Roblin]] was previously [[Premier of Manitoba]]</ref> || 8,240 || – || – || – || – || – || 632 || 45,915
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|NB || style="text-align:left;"|[[Carleton—Charlotte]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 15,469 || 62.76% || 7,139 || 28.96% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 8,330 || style="background-color:#FFFF00;"|15,469 || 848 || – || – || – || – || – || – || 24,647
+|-
+| style="text-align:left;"|NB || style="text-align:left;"|[[Fundy—Royal]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 17,013 || 61.28% || 7,578 || 27.29% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 9,435 || style="background-color:#DCDCDC;"|17,013 || 1,316 || – || – || – || – || – || – || 27,764
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|NB || style="text-align:left;"|[[Gloucester (electoral district)|Gloucester]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 12,196 || 55.03% || 3,236 || 14.60% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 12,196 || 8,960 || 1,007 || – || – || – || – || – || – || 22,163
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|NB || style="text-align:left;"|[[Madawaska—Victoria]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 9,924 || 50.01% || 383 || 1.93% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 9,924 || 9,541 || 379 || – || – || – || – || – || – || 19,844
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|NB || style="text-align:left;"|[[Moncton (electoral district)|Moncton]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 17,969 || 50.10% || 2,956 || 8.24% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;"|15,013 || 17,969 || 2,332 || – || – || – || – || 553 || – || 35,867
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|NB || style="text-align:left;"|[[Northumberland—Miramichi]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 10,292 || 52.96% || 2,439 || 12.55% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 10,292 || 7,853 || 1,290 || – || – || – || – || – || – || 19,435
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|NB || style="text-align:left;"|[[Restigouche (electoral district)|Restigouche]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 9,991 || 51.09% || 2,942 || 15.04% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || style="background-color:#FFFF00;"|9,991 || 7,049 || 748 || 1,769 || – || – || – || – || – || 19,557
+|-
+| style="text-align:left;"|NB || style="text-align:left;"|[[Saint John—Rothesay|Saint John—Lancaster]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 15,756 || 53.06% || 3,596 || 12.11% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 12,160 || style="background-color:#DCDCDC;"|15,756 || 1,508 || – || – || – || 268 || – || – || 29,692
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|NB || style="text-align:left;"|[[Westmorland—Kent]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 11,519 || 53.32% || 3,254 || 15.06% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;"|11,519 || 8,265 || 1,821 || – || – || – || – || – || – || 21,605
+|-
+| style="text-align:left;"|NB || style="text-align:left;"|[[York—Sunbury]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 17,394 || 55.39% || 4,411 || 14.05% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 12,983 || style="background-color:#DCDCDC;"|17,394 || 1,028 || – || – || – || – || – || – || 31,405
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|NF || style="text-align:left;"|[[Bonavista—Trinity—Conception]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 14,823 || 58.27% || 4,741 || 18.64% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 10,082 || 14,823 || 532 || – || – || – || – || – || – || 25,437
+|-
+| style="text-align:left;"|NF || style="text-align:left;"|[[Burin—Burgeo]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 8,674 || 58.32% || 3,234 || 21.75% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;"|8,674 || 5,440 || 758 || – || – || – || – || – || – || 14,872
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|NF || style="text-align:left;"|[[Gander—Twillingate]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 10,601 || 53.09% || 1,585 || 7.94% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 9,016 || 10,601 || 352 || – || – || – || – || – || – || 19,969
+|-
+| style="text-align:left;"|NF || style="text-align:left;"|[[Grand Falls—White Bay—Labrador]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 10,322 || 50.40% || 735 || 3.59% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCD0FF;"|9,587 || style="background-color:#DDA0DD;"|10,322 || 571 || – || – || – || – || – || – || 20,480
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|NF || style="text-align:left;"|[[Humber—St. George's—St. Barbe]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 9,765 || 43.36% || 283 || 1.26% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 9,482 || 9,765 || 3,276 || – || – || – || – || – || – || 22,523
+|-
+| style="text-align:left;"|NF || style="text-align:left;"|[[St. John's East]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 18,153 || 60.93% || 7,595 || 25.49% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCD0FF;"|10,558 || style="background-color:#EEBBBB;"|18,153 || 956 || – || 126 || – || – || – || – || 29,793
+|-
+| style="text-align:left;"|NF || style="text-align:left;"|[[St. John's West (federal electoral district)|St. John's West]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 15,379 || 56.69% || 4,229 || 15.59% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCD0FF;"|11,150 || 15,379 || 597 || – || – || – || – || – || – || 27,126
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|NS || style="text-align:left;"|[[Annapolis Valley (electoral district)|Annapolis Valley]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 17,435 || 56.64% || 5,093 || 16.54% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 12,342 || style="background-color:#FFFF00;"|17,435 || 1,007 || – || – || – || – || – || – || 30,784
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|NS || style="text-align:left;"|[[Cape Breton Highlands—Canso]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 13,725 || 50.16% || 530 || 1.94% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;"|13,725 || 13,195 || 445 || – || – || – || – || – || – || 27,365
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|NS || style="text-align:left;"|[[Cape Breton—East Richmond]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 11,583 || 41.94% || 3,299 || 11.95% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 8,284 || style="background-color:#FFFF00;"|11,583 || 7,749 || – || – || – || – || – || – || 27,616
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|NS || style="text-align:left;"|[[Cape Breton—The Sydneys]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 14,971 || 51.73% || 4,428 || 15.30% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 10,543 || style="background-color:#FFFF00;"|14,971 || 3,426 || – || – || – || – || – || – || 28,940
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|NS || style="text-align:left;"|[[Central Nova]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 16,720 || 58.57% || 7,221 || 25.29% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 9,499 || style="background-color:#FFFF00;"|16,720 || 2,330 || – || – || – || – || – || – || 28,549
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|NS || style="text-align:left;"|[[Cumberland—Colchester North]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 18,446 || 60.92% || 8,307 || 27.43% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 10,139 || style="background-color:#FFFF00;"|18,446 || 1,696 || – || – || – || – || – || – || 30,281
+|- style="background-color:#ADD8E6;"
+| style="text-align:left;"|NS || style="text-align:left;"|[[Dartmouth—Halifax East]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 19,694 || 55.17% || 5,265 || 14.75% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 14,429 || style="background-color:#FFFF00;"|19,694 || 1,572 || – || – || – || – || – || – || 35,695
+|- style="background-color:#ADD8E6;"
+| style="text-align:left;"|NS || style="text-align:left;"|[[Halifax (electoral district)|Halifax]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 19,569 || 60.33% || 8,014 || 24.71% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 11,555 || style="background-color:#FFFF00;"|19,569 || 1,314 || – || – || – || – || – || – || 32,438
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|NS || style="text-align:left;"|[[Halifax—East Hants]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 22,323 || 59.48% || 8,835 || 23.54% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 13,488 || style="background-color:#FFFF00;"|22,323 || 1,718 || – || – || – || – || – || – || 37,529
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|NS || style="text-align:left;"|[[South Shore (electoral district)|South Shore]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 17,547 || 58.53% || 5,879 || 19.61% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 11,668 || style="background-color:#FFFF00;"|17,547 || 764 || – || – || – || – || – || – || 29,979
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|NS || style="text-align:left;"|[[South Western Nova]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 14,543 || 52.35% || 2,253 || 8.11% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 12,290 || 14,543 || 655 || – || – || – || 293 || – || – || 27,781
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Algoma (electoral district)|Algoma]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 9,542 || 50.57% || 4,272 || 22.64% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 9,542 || 5,270 || 4,057 || – || – || – || – || – || – || 18,869
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Brant (electoral district)|Brant]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 16,029 || 39.81% || 3,696 || 9.18% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#FFFF00;"|16,029 || 11,901 || 12,333 || – || – || – || – || – || – || 40,263
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Broadview (federal electoral district)|Broadview]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 10,406 || 41.15% || 477 || 1.89% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 9,929 || 4,752 || style="background-color:#DCDCDC;"|10,406 || – || – || – || – || – || 202 || 25,289
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Bruce (electoral district)|Bruce]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 12,775 || 46.69% || 1,101 || 4.02% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DDA0DD;"|12,775 || style="background-color:#DCD0FF;"|11,674 || 2,911 || – || – || – || – || – || – || 27,360
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Cochrane (federal electoral district)|Cochrane]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 9,803 || 48.66% || 2,769 || 13.75% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 9,803 || 2,875 || 7,034 || – || 433 || – || – || – || – || 20,145
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Davenport (federal electoral district)|Davenport]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 10,736 || 50.43% || 4,871 || 22.88% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 10,736 || 4,688 || 5,865 || – || – || – || – || – || – || 21,289
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Don Valley (Canadian electoral district)|Don Valley]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 27,335 || 51.04% || 4,976 || 9.29% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 27,335 || 22,359<ref group=a>[[Dalton Camp]] was previously president of the party. This was his second attempt to seek elective office.</ref> || 3,863 || – || – || – || – || – || – || 53,557
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Eglinton (federal electoral district)|Eglinton]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 23,215 || 59.24% || 12,060 || 30.77% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;"|23,215 || 11,155 || 4,654 || – || – || – || – || 164 || – || 39,188
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Elgin (federal electoral district)|Elgin]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 12,856 || 44.51% || 1,057 || 3.66% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;"|12,856 || 11,799 || 4,227 || – || – || – || – || – || – || 28,882
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Essex (federal electoral district)|Essex]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 14,707 || 49.70% || 5,308 || 17.94% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#FFFF00;"|14,707 || 5,485 || 9,399 || – || – || – || – || – || – || 29,591
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Etobicoke (federal electoral district)|Etobicoke]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 32,066 || 55.96% || 14,267 || 24.90% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 32,066 || 17,799 || 7,432 || – || – || – || – || – || – || 57,297
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Fort William (federal electoral district)|Fort William]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 10,635 || 42.01% || 3,241 || 12.80% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCDCDC;"|10,635 || 7,284 || 7,394 || – || – || – || – || – || – || 25,313
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Frontenac—Lennox and Addington]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 11,801 || 47.10% || 1,848 || 7.38% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 9,953 || style="background-color:#FFFF00;"|11,801 || 2,730 || – || – || – || 571 || – || – || 25,055
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Glengarry—Prescott]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 14,970 || 62.01% || 7,406 || 30.68% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;"|14,970 || 7,564 || 1,606 || – || – || – || – || – || – || 24,140
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Greenwood (electoral district)|Greenwood]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 12,117 || 37.70% || 362 || 1.13% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 11,755 || 8,268 || style="background-color:#DCDCDC;"|12,117 || – || – || – || – || – || – || 32,140
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Grenville—Carleton]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 21,250 || 48.32% || 2,407 || 5.47% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 21,250 || style="background-color:#FFFF00;"|18,843 || 3,887 || – || – || – || – || – || – || 43,980
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Grey—Simcoe]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 13,146 || 47.00% || 1,942 || 6.94% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 11,204 || style="background-color:#FFFF00;"|13,146 || 3,623 || – || – || – || – || – || – || 27,973
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Halton (electoral district)|Halton]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 17,837 || 48.13% || 5,223 || 14.09% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 17,837 || 12,614 || 6,606 || – || – || – || – || – || – || 37,057
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Halton—Wentworth]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 19,563 || 41.34% || 1,520 || 3.21% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;"|19,563 || 18,043 || 9,312 || – || – || 399 || – || – || – || 47,317
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Hamilton East (electoral district)|Hamilton East]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 15,273 || 50.22% || 6,063 || 19.94% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCDCDC;"|15,273 || 5,633 || 9,210 || – || – || – || – || – || 297 || 30,413
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Hamilton Mountain (federal electoral district)|Hamilton Mountain]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 17,794 || 41.18% || 2,956 || 6.84% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 17,794 || 10,583 || 14,838 || – || – || – || – || – || – || 43,215
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Hamilton West (electoral district)|Hamilton West]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 13,580 || 40.38% || 342 || 1.02% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 13,238 || 13,580 || 6,809 || – || – || – || – || – || – || 33,627
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Ancaster—Dundas—Flamborough—Westdale (federal electoral district)|Hamilton—Wentworth]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 14,979 || 39.53% || 2,127 || 5.61% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 14,979 || 10,059 || 12,852 || – || – || – || – || – || – || 37,890
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Hastings (electoral district)|Hastings]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 13,555 || 49.07% || 2,680 || 9.70% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 10,875 || style="background-color:#FFFF00;"|13,555 || 3,195 || – || – || – || – || – || – || 27,625
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[High Park (electoral district)|High Park]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 16,260 || 42.52% || 5,517 || 14.43% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 16,260 || 10,743 || 8,131 || – || – || style="background-color:#FFFF00;"|2,895<ref group=a>[[Ralph Cowan (politician)|Ralph Cowan]] was previously Liberal MP for [[York—Humber (federal electoral district)|York—Humber]].</ref> || – || 215 || – || 38,244
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Huron (electoral district)|Huron]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 14,652 || 54.62% || 3,692 || 13.76% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 10,960 || style="background-color:#DCDCDC;"|14,652 || 1,212 || – || – || – || – || – || – || 26,824
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Kenora—Rainy River (federal electoral district)|Kenora—Rainy River]]
+| {{Canadian party colour|CA|Liberal-Labour|background}}|  || style="text-align:left;"|Lib-Lab || 10,144 || 49.46% || 4,433 || 21.61% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCDCDC;"|10,144 || 4,655 || 5,711 || – || – || – || – || – || – || 20,510
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Kent—Essex]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 15,195 || 49.33% || 2,118 || 6.88% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 13,077 || style="background-color:#FFFF00;"|15,195 || 2,528 || – || – || – || – || – || – || 30,800
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Kingston and the Islands (federal electoral district)|Kingston and the Islands]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 16,234 || 49.69% || 4,435 || 13.58% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;"|16,234 || 11,799 || 4,636 || – || – || – || – || – || – || 32,669
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Kitchener (electoral district)|Kitchener]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 16,471 || 40.68% || 3,672 || 9.07% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#FFFF00;"|16,471 || 11,217 || 12,799 || – || – || – || – || – || – || 40,487
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Lakeshore (electoral district)|Lakeshore]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 14,464 || 43.02% || 2,097 || 6.24% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 14,464 || 6,794 || 12,367 || – || – || – || – || – || – || 33,625
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Lambton—Kent]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 14,460 || 51.84% || 3,366 || 12.07% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 11,094 || style="background-color:#DCDCDC;"|14,460 || 2,342 || – || – || – || – || – || – || 27,896
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Lanark and Renfrew]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 13,156 || 47.40% || 419 || 1.51% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 13,156 || 12,737 || 1,861 || – || – || – || – || – || – || 27,754
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Leeds (electoral district)|Leeds]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 13,536 || 46.56% || 4 || 0.01% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCD0FF;"|13,532 || style="background-color:#FFFF00;"|13,536 || 2,005 || – || – || – || – || – || – || 29,073
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Lincoln (electoral district)|Lincoln]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 13,328 || 40.66% || 636 || 1.94% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 13,328 || 12,692 || 6,763 || – || – || – || – || – || – || 32,783
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[London East (federal electoral district)|London East]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 11,823 || 37.30% || 1,744 || 5.50% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 11,823 || 10,079 || 9,703 || – || – || – || – || – || 89 || 31,694
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[London West (federal electoral district)|London West]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 21,764 || 49.33% || 3,302 || 7.48% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 21,764 || style="background-color:#FFFF00;"|18,462 || 3,891 || – || – || – || – || – || – || 44,117
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Middlesex (electoral district)|Middlesex]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 15,986 || 45.66% || 702 || 2.00% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;"|15,986 || 15,284 || 3,743 || – || – || – || – || – || – || 35,013
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Niagara Falls (federal electoral district)|Niagara Falls]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 17,183 || 50.73% || 6,358 || 18.77% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;"|17,183 || 10,825 || 5,861 || – || – || – || – || – || – || 33,869
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Nickel Belt (electoral district)|Nickel Belt]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 11,551 || 45.10% || 1,930 || 7.54% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 11,551 || 4,439 || style="background-color:#DCD0FF;"|9,621 || – || – || – || – || – || – || 25,611
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Nipissing (electoral district)|Nipissing]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 13,524 || 53.66% || 5,112 || 20.28% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;"|13,524 || 8,412 || 3,267 || – || – || – || – || – || – || 25,203
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Norfolk—Haldimand]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 14,908 || 47.36% || 1,776 || 5.64% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;"|13,132 || 14,908 || 3,441 || – || – || – || – || – || – || 31,481
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Northumberland—Durham]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 13,707 || 44.58% || 2,566 || 8.35% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;"|13,707 || style="background-color:#EEBBBB;"|11,141 || 5,897 || – || – || – || – || – || – || 30,745
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Ontario (electoral district)|Ontario]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 13,483 || 42.57% || 2,904 || 9.17% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 13,483 || 10,579 || 7,607 || – || – || – || – || – || – || 31,669
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Oshawa—Whitby]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 15,224 || 33.58% || 15 || 0.03% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 14,899 || style="background-color:#FFFF00;"|15,209 || 15,224 || – || – || – || – || – || – || 45,332
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Ottawa Centre (federal electoral district)|Ottawa Centre]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 19,578 || 57.74% || 7,976 || 23.52% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;"|19,578 || 11,602 || 2,729 || – || – || – || – || – || – || 33,909
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Ottawa East (electoral district)|Ottawa East]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 26,170 || 78.64% || 21,984 || 66.06% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;"|26,170 || 4,186 || 2,921 || – || – || – || – || – || – || 33,277
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Ottawa West (federal electoral district)|Ottawa West]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 23,750 || 52.61% || 7,358 || 16.30% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#EEBBBB;"|23,750 || style="background-color:#FFFF00;"|16,392 || 5,003 || – || – || – || – || – || – || 45,145
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Ottawa—Carleton (federal electoral district)|Ottawa—Carleton]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 28,987 || 66.23% || 17,322 || 39.58% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;"|28,987 || 11,665 || 3,115 || – || – || – || – || – || – || 43,767
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Oxford (federal electoral district)|Oxford]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 18,504 || 53.58% || 5,807 || 16.81% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 12,697 || style="background-color:#DCDCDC;"|18,504 || 3,335 || – || – || – || – || – || – || 34,536
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Parkdale (federal electoral district)|Parkdale]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 14,717 || 51.18% || 5,734 || 19.94% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCDCDC;"|14,717 || 5,057 || 8,983 || – || – || – || – || – || – || 28,757
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Parry Sound—Muskoka]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 12,045 || 47.73% || 2,423 || 9.60% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 9,622 || style="background-color:#DCDCDC;"|12,045 || 3,568 || – || – || – || – || – || – || 25,235
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Peel South]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 24,255 || 46.81% || 5,190 || 10.02% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 24,255 || 19,065 || 8,498 || – || – || – || – || – || – || 51,818
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Peel—Dufferin—Simcoe]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 18,950 || 47.30% || 4,812 || 12.01% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;"|18,950 || style="background-color:#FFFF00;"|14,138 || 6,972 || – || – || – || – || – || – || 40,060
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Perth (federal electoral district)|Perth]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 14,959 || 48.52% || 2,095 || 6.79% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 12,864 || style="background-color:#DCDCDC;"|14,959 || 3,009 || – || – || – || – || – || – || 30,832
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Peterborough (electoral district)|Peterborough]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 15,675 || 42.09% || 2,703 || 7.26% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;"|15,675 || 12,972 || 8,593 || – || – || – || – || – || – || 37,240
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Port Arthur (federal electoral district)|Port Arthur]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 11,079 || 48.60% || 3,773 || 16.55% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCDCDC;"|11,079 || 4,179 || 7,306 || – || – || – || – || – || 233 || 22,797
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Prince Edward—Hastings]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 15,682 || 50.81% || 3,068 || 9.94% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 12,614 || style="background-color:#FFFF00;"|15,682 || 2,569 || – || – || – || – || – || – || 30,865
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Renfrew North]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 13,195 || 57.41% || 5,219 || 22.71% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;"|13,195 || 7,976 || 1,813 || – || – || – || – || – || – || 22,984
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Rosedale (electoral district)|Rosedale]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 19,011 || 57.42% || 9,328 || 28.17% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;"|19,011 || 9,683 || 4,083 || – || – || – || – || – || style="background-color:#F0E68C;" |331 || 33,108
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Sarnia—Lambton (federal electoral district)|Sarnia]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 14,573 || 45.27% || 1,690 || 5.25% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 14,573 || 12,883 || 4,733 || – || – || – || – || – || – || 32,189
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Sault Ste. Marie (federal electoral district)|Sault Ste. Marie]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 12,527 || 39.83% || 998 || 3.17% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 12,527 || 11,529 || 7,297 || – || – || – || – || 102 || – || 31,455
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Scarborough East]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 23,701 || 47.94% || 10,436 || 21.11% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 23,701 || 12,477 || 13,265 || – || – || – || – || – || – || 49,443
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Scarborough West]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 14,889 || 42.91% || 2,416 || 6.96% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 14,889 || 7,340 || 12,473 || – || – || – || – || – || – || 34,702
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Simcoe North]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 16,619 || 45.80% || 1,683 || 4.64% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 14,936 || style="background-color:#FFFF00;"|16,619 || 4,730 || – || – || – || – || – || – || 36,285
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Spadina (electoral district)|Spadina]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 9,379 || 56.25% || 5,436 || 32.60% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCDCDC;"|9,379 || 3,353 || 3,943 || – || – || – || – || – || – || 16,675
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[St. Catharines (federal electoral district)|St. Catharines]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 18,100 || 45.44% || 3,556 || 8.93% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;"|18,100 || 14,544 || 7,185 || – || – || – || – || – || – || 39,829
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[St. Paul's (electoral district)|St. Paul's]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 20,981 || 59.41% || 10,099 || 28.59% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;"|20,981 || 10,882 || 2,743 || – || – || 420 || – || – || 292 || 35,318
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Stormont—Dundas]]
+| {{Canadian party colour|CA|Independent|background}}|  || style="text-align:left;"|Ind || 17,014 || 75.88% || 11,605 || 51.75% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || colspan="2" style="background-color:#FFFFFF; text-align:center;" | ''N/A''|| – || – || 5,409 || – || – || – || – || style="background-color:#8FBC8F;" |17,014 || – || 22,423
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Sudbury (federal electoral district)|Sudbury]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 19,672 || 52.28% || 7,412 || 19.70% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 19,672 || 5,696 || style="background-color:#87CEFA;" |12,260 || – || – || – || – || – || – || 37,628
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Thunder Bay (electoral district)|Thunder Bay]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 9,540 || 46.48% || 3,459 || 16.85% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 9,540 || style="background-color:#DDA0DD;"|4,904 || 6,081 || – || – || – || – || – || – || 20,525
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Timiskaming (electoral district)|Timiskaming]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 8,482 || 40.50% || 754 || 3.60% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 7,728 || 4,443 || style="background-color:#DCDCDC;"|8,482 || – || 288 || – || – || – || – || 20,941
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Timmins (federal electoral district)|Timmins]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 11,141 || 50.49% || 2,334 || 10.58% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 11,141 || 2,118 || style="background-color:#DCD0FF;"|8,807 || – || – || – || – || – || – || 22,066
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Trinity (electoral district)|Trinity]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 13,126 || 57.92% || 7,766 || 34.27% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;"|13,126 || 5,360 || 4,177 || – || – || – || – || – || – || 22,663
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Victoria—Haliburton]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 12,621 || 47.60% || 2,358 || 8.89% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 10,263 || style="background-color:#FFFF00;"|12,621 || 3,374 || – || – || – || – || 258 || – || 26,516
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Waterloo (federal electoral district)|Waterloo]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 15,231 || 34.00% || 396 || 0.88% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 14,835 || 14,568 || style="background-color:#FFFF00;"|15,231 || – || 167 || – || – || – || – || 44,801
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[Welland (electoral district)|Welland]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 17,335 || 49.77% || 5,972 || 17.15% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCDCDC;"|17,335 || 6,129 || 11,363 || – || – || – || – || – || – || 34,827
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Wellington (electoral district)|Wellington]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 13,496 || 44.47% || 1,654 || 5.45% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 11,842 || style="background-color:#FFFF00;"|13,496 || 5,012 || – || – || – || – || – || – || 30,350
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Wellington—Grey]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 12,118 || 44.44% || 91 || 0.33% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 12,027 || style="background-color:#FFFF00;"|12,118 || 2,902 || – || – || – || – || 224 || – || 27,271
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Windsor West (federal electoral district)|Windsor West]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 16,442 || 54.06% || 7,470 || 24.56% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#FFFF00;"|16,442 || 5,002 || 8,972 || – || – || – || – || – || – || 30,416
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[Windsor—Walkerville]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 17,090 || 49.14% || 5,000 || 14.38% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 17,090 || 5,191 || 12,090 || – || – || – || – || – || 408 || 34,779
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[York Centre (federal electoral district)|York Centre]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 26,758 || 56.60% || 12,044 || 25.48% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCDCDC;"|26,758 || 5,804 || style="background-color:#EEBBBB;"|14,714 || – || – || – || – || – || – || 47,276
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[York East]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 19,320 || 44.52% || 7,165 || 16.51% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;"|19,320 || 12,155 || style="background-color:#DDA0DD;"|11,921 || – || – || – || – || – || – || 43,396
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[York North]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 24,054 || 51.46% || 8,361 || 17.89% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 24,054 || 15,693 || 7,000 || – || – || – || – || – || – || 46,747
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[York South]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 12,357 || 43.28% || 664 || 2.33% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 11,693 || 4,499 || style="background-color:#DCDCDC;"|12,357 || – || – || – || – || – || – || 28,549
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[York West]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 20,416 || 44.81% || 4,212 || 9.24% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 20,416<ref group=a>[[Philip Givens]] was previously [[Mayor of Toronto]].</ref>|| 8,344 || 16,204 || – || – || – || – || 442 || 155 || 45,561
+|-
+| style="text-align:left;"|ON || style="text-align:left;"|[[York—Scarborough (federal electoral district)|York—Scarborough]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 37,374 || 58.80% || 21,916 || 34.48% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;"|37,374 || 15,458 || 10,724 || – || – || – || – || – || – || 63,556
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|ON || style="text-align:left;"|[[York—Simcoe]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 15,906 || 45.31% || 2,806 || 7.99% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 15,906 || 13,100<ref group=a>[[Wallace McCutcheon (politician)|Wallace McCutcheon]] was previously a Senator and Cabinet minister in the Diefenbaker government.</ref> || 6,095 || – || – || – || – || – || – || 35,101
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|PE || style="text-align:left;"|[[Cardigan (electoral district)|Cardigan]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 5,717 || 49.53% || 94 || 0.81% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 5,623 || style="background-color:#FFFF00;" |5,717 || 203 || – || – || – || – || – || – || 11,543
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|PE || style="text-align:left;"|[[Egmont (electoral district)|Egmont]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 7,182 || 53.52% || 1,237 || 9.22% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 5,945 || style="background-color:#FFFF00;" |7,182 || 292 || – || – || – || – || – || – || 13,419
+|- style="background-color:#ADD8E6;"
+| style="text-align:left;"|PE || style="text-align:left;"|[[Hillsborough (electoral district)|Hillsborough]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 8,328 || 53.03% || 1,881 || 11.98% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 6,447 || style="background-color:#FFFF00;" |8,328 || 930 || – || – || – || – || – || – || 15,705
+|- style="background-color:#ADD8E6;"
+| style="text-align:left;"|PE || style="text-align:left;"|[[Malpeque (electoral district)|Malpeque]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 5,049 || 50.00% || 210 || 2.08% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 4,839 || style="background-color:#FFFF00;" |5,049 || 211 || – || – || – || – || – || – || 10,099
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Abitibi (electoral district)|Abitibi]]
+| {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 10,884 || 54.97% || 4,278 || 21.60% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 6,606 || 1,796 || 515 || style="background-color:#FFFF00;" |10,884 || – || – || – || – || – || 19,801
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Ahuntsic (federal electoral district)|Ahuntsic]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 23,149 || 64.92% || 18,172 || 50.96% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#FFFF00;" |23,149 || 4,807 || 4,977 || 1,243 || – || 1,483 || – || – || – || 35,659
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Argenteuil (electoral district)|Argenteuil]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 15,726 || 48.92% || 2,160 || 6.72% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 15,726 || style="background-color:#DCD0FF;" |13,566 || 1,696 || 1,158 || – || – || – || – || – || 32,146
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Beauce (electoral district)|Beauce]]
+| {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 13,428 || 47.47% || 5,676 || 20.07% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCD0FF;" |7,752 || 6,207 || 639 || 13,428 || – || – || – || 260 || – || 28,286
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Beauharnois—Salaberry|Beauharnois]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 17,203 || 59.82% || 8,500 || 29.56% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;" |17,203 || 8,703 || 1,764 || 1,087 || – || – || – || – || – || 28,757
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Bellechasse (federal electoral district)|Bellechasse]]
+| {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 11,137 || 46.95% || 1,344 || 5.67% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 9,793 || 2,262 || 528 || 11,137 || – || – || – || – || – || 23,720
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Berthier (electoral district)|Berthier]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 10,818 || 46.99% || 2,636 || 11.45% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || style="background-color:#FFFF00;" |10,818 || 8,182 || 1,029 || 2,994 || – || – || – || – || – || 23,023
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Bonaventure (federal electoral district)|Bonaventure]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 10,144 || 53.33% || 5,904 || 31.04% || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCDCDC;" |10,144 || 3,674 || 282 || 4,240 || – || – || – || 680 || – || 19,020
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Bourassa (electoral district)|Bourassa]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 19,778 || 55.09% || 8,839 || 24.62% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 19,778 || 10,939 || 3,443 || 1,401 || – || – || – || – || 339 || 35,900
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Chambly (electoral district)|Chambly]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 22,767 || 66.32% || 16,028 || 46.69% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;" |22,767 || 6,739 || 3,394 || 1,430 || – || – || – || – || – || 34,330
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Champlain (federal electoral district)|Champlain]]
+| {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 9,866 || 37.19% || 201 || 0.76% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCD0FF;" |9,665 || 6,449 || 550 || 9,866 || – || – || – || – || – || 26,530
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Charlevoix (federal electoral district)|Charlevoix]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 9,487 || 41.85% || 1,205 || 5.32% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 8,282 || style="background-color:#DCDCDC;" |9,487 || 1,070 || 3,831 || – || – || – || – || – || 22,670
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Chicoutimi—Le Fjord|Chicoutimi]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 14,054 || 50.38% || 4,243 || 15.21% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || style="background-color:#DCDCDC;" |14,054 || 9,811 || 879 || 3,151 || – || – || – || – || – || 27,895
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Compton (electoral district)|Compton]]
+| {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 11,961 || 47.06% || 3,346 || 13.17% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 8,615 || 3,987 || 851 || style="background-color:#FFFF00;" |11,961 || – || – || – || – || – || 25,414
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Dollard (electoral district)|Dollard]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 34,146 || 72.18% || 23,661 || 50.01% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCDCDC;" |34,146 || 2,391 || 10,485 || 287 || – || – || – || – || – || 47,309
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Drummond (federal electoral district)|Drummond]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 11,667 || 38.53% || 2,122 || 7.01% || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#FFFF00;" |11,667 || 8,342 || 723 || 9,545 || – || – || – || – || – || 30,277
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Duvernay (electoral district)|Duvernay]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 18,701 || 50.54% || 2,476 || 6.69% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#FFFF00;" |18,701 || 1,068 || 16,225 || 1,006 || – || – || – || – || – || 37,000
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Frontenac (Quebec electoral district)|Frontenac]]
+| {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 12,298 || 45.71% || 2,435 || 9.05% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 9,863 || 3,510 || 1,231 || 12,298 || – || – || – || – || – || 26,902
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Gamelin (electoral district)|Gamelin]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 19,051 || 54.87% || 10,185 || 29.33% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 19,051 || style="background-color:#DDA0DD;" |8,866 || 5,210 || 873 || – || – || – || 358 || 365 || 34,723
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Gaspé (electoral district)|Gaspé]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 9,208 || 45.33% || 2,239 || 11.02% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || style="background-color:#EEBBBB;" |9,208 || style="background-color:#DCD0FF;" |6,969 || 564 || 3,571 || – || – || – || – || – || 20,312
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Gatineau (electoral district)|Gatineau]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 14,348 || 53.53% || 6,767 || 25.25% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || style="background-color:#FFFF00;" |14,348 || 7,581 || 1,163 || 3,711 || – || – || – || – || – || 26,803
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Hochelaga (electoral district)|Hochelaga]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 12,080 || 55.14% || 6,360 || 29.03% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;" |12,080 || 5,720 || 2,793 || 1,122 || – || – || – || – || 192 || 21,907
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Hull (electoral district)|Hull]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 22,982 || 68.72% || 17,671 || 52.84% || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#FFFF00;" |22,982 || 3,661 || 1,151 || 5,311 || – || 337 || – || – || – || 33,442
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Joliette (electoral district)|Joliette]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 12,464 || 43.33% || 172 || 0.60% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 12,292 || 12,464 || 1,620 || 2,391 || – || – || – || – || – || 28,767
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Kamouraska (federal electoral district)|Kamouraska]]
+| {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 8,762 || 40.29% || 1,131 || 5.20% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#FFFF00;" |7,631 || 4,996 || 359 || style="background-color:#DCDCDC;" |8,762 || – || – || – || – || – || 21,748
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Labelle (electoral district)|Labelle]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 15,801 || 52.90% || 5,649 || 18.91% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || style="background-color:#FFFF00;" |15,801 || 10,152 || 1,699 || 2,215 || – || – || – || – || – || 29,867
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Lac-Saint-Jean]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 9,325 || 46.35% || 895 || 4.45% || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#EEBBBB;" |9,325 || 1,034 || 1,330 || style="background-color:#DCD0FF;" |8,430 || – || – || – || – || – || 20,119
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Lachine (electoral district)|Lachine]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 25,989 || 64.44% || 18,091 || 44.86% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#FFFF00;" |25,989 || 6,225 || 7,898 || 220 || – || – || – || – || – || 40,332
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Lafontaine (electoral district)|Lafontaine]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 14,786 || 58.15% || 8,374 || 32.93% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;" |14,786 || 6,412 || 3,142 || 879 || – || 210 || – || – || – || 25,429
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Québec (electoral district)|Langelier]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 11,439 || 39.01% || 2,669 || 9.10% || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#FFFF00;" |11,439 || 8,150 || 658 || style="background-color:#F0E68C;" |9,078 || – || – || – || – || – || 29,325
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Lapointe (electoral district)|Lapointe]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 11,821 || 47.02% || 3,744 || 14.89% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 11,821 || 8,077 || 919 || 4,324 || – || – || – || – || – || 25,141
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Laprairie (electoral district)|Laprairie]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 31,968 || 75.89% || 26,652 || 63.27% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;" |31,968 || 5,316 || 3,551 || 1,288 || – || – || – || – || – || 42,123
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Lasalle (electoral district)|Lasalle]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 26,546 || 68.70% || 19,528 || 50.53% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;" |26,546 || 7,018 || 4,097 || 982 || – || – || – || – || – || 38,643
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Laurier (federal electoral district)|Laurier]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 10,040 || 52.06% || 5,638 || 29.23% || {{Canadian party colour|CA|Independent|background}}|  || style="text-align:left;"|Ind || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCDCDC;" |10,040 || 2,827 || 843 || 695 || – || – || – || style="background-color:#F0E68C;" |4,882 || – || 19,287
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Laval (federal electoral district)|Laval]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 24,740 || 64.38% || 18,933 || 49.27% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 24,740 || 4,801 || 5,807 || 940 || – || – || – || – || 2,141 || 38,429
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Lévis (federal electoral district)|Lévis]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 12,227 || 37.25% || 2,340 || 7.13% || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCDCDC;" |12,227 || 9,523 || 1,189 || 9,887 || – || – || – || – || – || 32,826
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Longueuil (electoral district)|Longueuil]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 19,080 || 60.69% || 13,632 || 43.36% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;" |19,080 || 5,448 || 4,254 || 2,023 || – || – || 281 || – || 354<ref group=a>[[Robert Charlebois]] stood as a [[Rhinoceros Party|Rhinoceros]] candidate.</ref> || 31,440
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Lotbiniere (electoral district)|Lotbiniere]]
+| {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 11,302 || 37.68% || 1,559 || 5.20% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 9,743 || 8,215 || 732 || 11,302 || – || – || – || – || – || 29,992
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Louis-Hébert (electoral district)|Louis-Hébert]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 28,220 || 64.31% || 20,046 || 45.68% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || style="background-color:#FFFF00;" |28,220 || 8,174 || 2,054 || 5,433 || – || – || – || – || – || 43,881
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Maisonneuve—Rosemont|Maisonneuve]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 15,784 || 58.19% || 10,262 || 37.83% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;" |15,784 || 5,522 || 4,588 || 1,233 || – || – || – || – || – || 27,127
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Manicouagan (electoral district)|Manicouagan]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 13,504 || 60.02% || 8,965 || 39.85% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;" |13,504 || 4,539 || 2,463 || 1,992 || – || – || – || – || – || 22,498
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Matane (electoral district)|Matane]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 9,207 || 53.97% || 3,152 || 18.48% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 9,207 || 6,055 || 639 || 1,159 || – || – || – || – || – || 17,060
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Mercier (electoral district)|Mercier]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 19,077 || 52.14% || 8,506 || 23.25% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;" |19,077 || 10,571 || 3,041 || 3,011 || – || – || – || 888 || – || 36,588
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Brome—Missisquoi (federal electoral district)|Missisquoi]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 12,905 || 42.15% || 1,200 || 3.92% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || style="background-color:#FFFF00;" |12,905 || style="background-color:#DCD0FF;" |11,705 || 803 || 5,205 || – || – || – || – || – || 30,618
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Montmorency (federal electoral district)|Montmorency]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 17,327 || 41.83% || 1,213 || 2.93% || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#FFFF00;" |17,327 || 6,555 || 775 || 16,114 || – || – || – || 649 || – || 41,420
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Mount Royal (electoral district)|Mount Royal]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 37,402 || 90.76% || 35,437 || 85.99% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;" |37,402 || 1,965 || 1,583 || 80 || – || – || – || 182 || – || 41,212
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Notre-Dame-de-Grâce (electoral district)|Notre-Dame-de-Grâce]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 25,959 || 73.03% || 18,836 || 52.99% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCDCDC;" |25,959 || 2,466 || 7,123 || – || – || – || – || – || – || 35,548
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Outremont (electoral district)|Outremont]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 24,219 || 78.66% || 20,708 || 67.26% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCDCDC;" |24,219 || 3,059 || 3,511 || – || – || – || – || – || – || 30,789
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Papineau (electoral district)|Papineau]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 14,379 || 63.20% || 10,211 || 44.88% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;" |14,379 || 4,168 || 2,572 || 1,094 || – || – || – || – || 537 || 22,750
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Pontiac (federal electoral district)|Pontiac]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 10,250 || 49.07% || 2,858 || 13.68% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || style="background-color:#FFFF00;" |10,250 || 7,392 || 827 || 2,420 || – || – || – || – || – || 20,889
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Portneuf (electoral district)|Portneuf]]
+| {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 18,328 || 48.31% || 4,363 || 11.50% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 13,965 || 4,519 || 1,126 || style="background-color:#DCDCDC;" |18,328 || – || – || – || – || – || 37,938
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Quebec East|Québec-Est]] || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 14,945 || 43.56% || 1,138 || 3.32% || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCDCDC;" |14,945 || 4,607 || 953 || 13,807 || – || – || – || – || – || 34,312
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Bas-Richelieu—Nicolet—Bécancour|Richelieu]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 15,350 || 48.76% || 2,880 || 9.15% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || style="background-color:#FFFF00;" |15,350 || 12,470 || 1,300 || 1,966 || – || – || – || 395 || – || 31,481
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Richmond—Wolfe|Richmond]]
+| {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 11,853 || 47.68% || 2,983 || 12.00% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCD0FF;" |8,870 || 3,527 || 608 || 11,853 || – || – || – || – || – || 24,858
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Rimouski (electoral district)|Rimouski]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 12,073 || 49.37% || 2,628 || 10.75% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || style="background-color:#DCDCDC;" |12,073 || 9,445 || – || 2,937 || – || – || – || – || – || 24,455
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Roberval (electoral district)|Roberval]]
+| {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 8,811 || 47.04% || 1,084 || 5.79% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 7,727 || 1,951 || 241 || style="background-color:#DCDCDC;" |8,811 || – || – || – || – || – || 18,730
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Saint-Denis (electoral district)|Saint-Denis]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 17,022 || 71.68% || 13,369 || 56.30% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;" |17,022 || 3,653 || 1,908 || 1,165 || – || – || – || – || – || 23,748
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[St. Henri (electoral district)|Saint-Henri]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 12,792 || 63.45% || 9,293 || 46.09% || {{Canadian party colour|CA|Independent|background}}|  || style="text-align:left;"|Ind || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;" |12,792 || 972 || 1,491 || 608 || – || 465 || – || style="background-color:#F0E68C;" |3,834<ref group=a>[[Pierre Sévigny (politician)|Pierre Sévigny]] was previously a PC MP and Cabinet minister under [[John Diefenbaker]]. He received 3,499 votes.</ref> || – || 20,162
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Saint-Hyacinthe (electoral district)|Saint-Hyacinthe]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 16,389 || 47.44% || 788 || 2.28% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 15,601 || style="background-color:#DCDCDC;" |16,389 || 878 || 1,682 || – || – || – || – || – || 34,550
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Saint-Jacques (electoral district)|Saint-Jacques]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 9,701 || 59.74% || 5,463 || 33.64% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 9,701 || 4,238 || 971 || 705 || – || – || – || 314 || 311 || 16,240
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Saint-Jean (electoral district)|Saint-Jean]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 15,878 || 52.04% || 6,163 || 20.20% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 15,878 || 9,715 || 3,332 || 1,373 || – || – || – || – || 214 || 30,512
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Saint-Maurice (federal electoral district)|Saint-Maurice]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 13,895 || 44.52% || 1,697 || 5.44% || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#FFFF00;" |13,895 || 4,570 || 550 || 12,198 || – || – || – || – || – || 31,213
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Saint-Michel (electoral district)|Saint-Michel]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 22,307 || 66.80% || 17,622 || 52.77% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 22,307 || 4,685 || 3,176 || 2,515 || – || – || – || – || 711 || 33,394
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Sainte-Marie (federal electoral district)|Sainte-Marie]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 9,528 || 45.04% || 2,079 || 9.83% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Ind-Lib || 7,449 || style="background-color:#DCDCDC;" |9,528 || 1,149 || 884 || – || 1,977<ref group=a>Albert Caplette was the Liberal nominee in 1965.</ref> || – || 169 || – || 21,156
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Shefford (electoral district)|Shefford]]
+| {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 12,633 || 40.64% || 475 || 1.53% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || style="background-color:#DCD0FF;" |12,158 || 5,718 || 574 || style="background-color:#EEBBBB;" |12,633 || – || – || – || – || – || 31,083
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Sherbrooke (federal electoral district)|Sherbrooke]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 15,270 || 40.24% || 98 || 0.26% || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 15,270 || 5,946 || 1,563 || 15,172 || – || – || – || – || – || 37,951
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Témiscamingue (electoral district)|Témiscamingue]]
+| {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 12,532 || 58.38% || 5,929 || 27.62% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 6,603 || 1,774 || 556 || style="background-color:#FFFF00;" |12,532 || – || – || – || – || – || 21,465
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Témiscouata (federal electoral district)|Témiscouata]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 10,605 || 46.88% || 1,975 || 8.73% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || style="background-color:#DCDCDC;" |10,605 || 8,630 || 360 || 3,029 || – || – || – || – || – || 22,624
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Terrebonne (electoral district)|Terrebonne]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 21,191 || 62.01% || 14,257 || 41.72% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;" |21,191 || 6,934 || 3,860 || 1,363 || – || – || – || – || 824 || 34,172
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Trois-Rivières (electoral district)|Trois-Rivières]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 17,592 || 46.23% || 7,091 || 18.64% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || style="background-color:#EABB94;" |17,592<ref group=a>[[Joseph-Alfred Mongrain]] was elected as an Independent MP in 1965.</ref> || 10,501 || 1,724 || 7,305 || – || – || – || style="background-color:#F0E68C;" |930 || – || 38,052
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Vaudreuil (electoral district)|Vaudreuil]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 29,830 || 73.86% || 22,176 || 54.91% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;" |29,830 || 7,654 || 2,905 || – || – || – || – || – || – || 40,389
+|-
+| style="text-align:left;"|QC || style="text-align:left;"|[[Verdun (electoral district)|Verdun]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 22,436 || 75.64% || 19,026 || 64.14% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;" |22,436 || 3,410 || 2,813 || 1,004 || – || – || – || – || – || 29,663
+|- style="background-color:#B9E5B9;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Villeneuve (electoral district)|Villeneuve]]
+| {{Canadian party colour|CA|Ralliement créditiste|background}}|  || style="text-align:left;"|RC || 10,073 || 47.66% || 2,079 || 9.84% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 7,994 || 2,182 || 886 || 10,073 || – || – || – || – || – || 21,135
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|QC || style="text-align:left;"|[[Westmount (electoral district)|Westmount]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 31,104 || 79.07% || 25,176 || 64.00% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#FFFF00;" |31,104 || 5,928 || 2,303 || – || – || – || – || – || – || 39,335
+|-
+| style="text-align:left;"|SK || style="text-align:left;"|[[Assiniboia (federal electoral district)|Assiniboia]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 9,636 || 33.84% || 95 || 0.33% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 9,636 || style="background-color:#DCD0FF;"|9,541 || 9,295 || – || – || – || – || – || – || 28,472
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|SK || style="text-align:left;"|[[Battleford—Kindersley]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 10,583 || 37.27% || 642 || 2.26% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 7,872 || style="background-color:#FFFF00;"|9,941 || 10,583 || – || – || – || – || – || – || 28,396
+|-
+| style="text-align:left;"|SK || style="text-align:left;"|[[Mackenzie (electoral district)|Mackenzie]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 8,578 || 42.28% || 1,066 || 5.25% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 4,199 || style="background-color:#DCDCDC;"|8,578 || 7,512 || – || – || – || – || – || – || 20,289
+|-
+| style="text-align:left;"|SK || style="text-align:left;"|[[Meadow Lake (electoral district)|Meadow Lake]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 7,688 || 39.65% || 1,608 || 8.29% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 4,932 || style="background-color:#DCDCDC;"|7,688 || 6,080 || – || – || – || – || 689 || – || 19,389
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|SK || style="text-align:left;"|[[Moose Jaw (electoral district)|Moose Jaw]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 11,982 || 40.65% || 1,486 || 5.04% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 7,000 || style="background-color:#FFFF00;"|10,496 || 11,982 || – || – || – || – || – || – || 29,478
+|-
+| style="text-align:left;"|SK || style="text-align:left;"|[[Prince Albert (federal electoral district)|Prince Albert]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 17,850 || 56.04% || 8,871 || 27.85% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 5,025 || style="background-color:#DCDCDC;"|17,850 || 8,979 || – || – || – || – || – || – || 31,854
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|SK || style="text-align:left;"|[[Qu'Appelle—Moose Mountain]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 12,429 || 42.14% || 3,664 || 12.42% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 8,299 || style="background-color:#FFFF00;"|12,429 || 8,765 || – || – || – || – || – || – || 29,493
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|SK || style="text-align:left;"|[[Regina East]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 13,641 || 34.70% || 192 || 0.49% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 11,986 || style="background-color:#FFFF00;"|13,449 || 13,641 || – || – || – || – || – || 230 || 39,306
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|SK || style="text-align:left;"|[[Regina—Lake Centre]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 17,102 || 39.07% || 3,530 || 8.06% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 13,104 || style="background-color:#FFFF00;"|13,572 || 17,102 || – || – || – || – || – || – || 43,778
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|SK || style="text-align:left;"|[[Saskatoon—Biggar]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 15,928 || 42.69% || 2,619 || 7.02% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 8,071 || 13,309 || 15,928 || – || – || – || – || – || – || 37,308
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|SK || style="text-align:left;"|[[Saskatoon—Humboldt]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 15,210 || 34.33% || 555 || 1.25% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 15,210 || style="background-color:#FFFF00;"|14,444 || 14,655 || – || – || – || – || – || – || 44,309
+|-
+| style="text-align:left;"|SK || style="text-align:left;"|[[Swift Current—Maple Creek]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 11,237 || 39.60% || 1,030 || 3.63% || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 6,930 || style="background-color:#DCDCDC;"|11,237 || 10,207 || – || – || – || – || – || – || 28,374
+|- style="background-color:#FFFACD;"
+| style="text-align:left;"|SK || style="text-align:left;"|[[Yorkton—Melville]]
+| {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 13,212 || 38.88% || 2,513 || 7.40% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 10,068 || 10,699 || 13,212 || – || – || – || – || – || – || 33,979
+|-
+| style="text-align:left;"|Terr || style="text-align:left;"|[[Northwest Territories (electoral district)|Northwest Territories]]
+| {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || 6,018 || 63.80% || 3,807 || 40.36% || {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || style="background-color:#DCDCDC;" |6,018 || 2,211 || 1,203 || – || – || – || – || – || – || 9,432
+|-
+| style="text-align:left;"|Terr || style="text-align:left;"|[[Yukon (electoral district)|Yukon]]
+| {{Canadian party colour|CA|PC|background}}|  || style="text-align:left;"|PC || 3,110 || 47.97% || 62 || 0.96% || {{Canadian party colour|CA|Liberal|background}}|  || style="text-align:left;"|Lib || {{Canadian party colour|CA|NDP|background}}|  || style="text-align:left;"|NDP || 3,048 || style="background-color:#DCDCDC;" |3,110 || 325 || – || – || – || – || – || – || 6,483
+|}
+{{reflist|group=a}}
+
+:{{Color box|#B9E5B9|border=silver}} = open seat
+:{{Color box|#FFFACD|border=silver}} = new riding created in the 1966 redistribution
+:{{Color box|#DCDCDC|border=silver}} = winning candidate was in previous House
+:{{Color box|#EEBBBB|border=silver}} = not incumbent; was previously elected as an MP
+:{{Color box|#EABB94|border=silver}} = incumbent had switched allegiance
+:{{Color box|#87CEFA|border=silver}} = incumbency arose from byelection gain
+:{{Color box|#FFFF00|border=silver}} = previously incumbent in another riding
+:{{Color box|#DCD0FF|border=silver}} = other incumbents renominated
+:{{Color box|#8FBC8F|border=silver}} = Speaker of the House of Commons
+:{{Color box|#DDA0DD|border=silver}} = Previously a member of one of the provincial/territorial legislatures
+:{{Color box|#F0E68C|border=silver}} = multiple candidates
+:{{Color box|#ADD8E6|border=silver}} = previously part of a two-member district
+
+==Vote and seat summaries==
+{{Gallery
+|title=[[Ternary plot]]s - shift of electoral support (1965-1968)
+|width=350 | height=200 |noborder=yes
+|align=center
+|footer=Electoral districts identified by colours of winning parties
+|File:Ternary CA1965.svg
+ |1965
+ |alt1=Ternary plot of 1965 results
+|File:Ternary CA1968.svg
+ |1968
+ |alt2=Ternary plot of 1968 results
+}}
+
+{{Bar box
+| title    = Popular vote
+| titlebar = #ddd
+| width    = 600px
+| barwidth = 410px
+| bars     = 
+{{Bar percent|Liberal|#F08080|45.37}}
+{{Bar percent|PC|#9999FF|31.43}}
+{{Bar percent|NDP|#F4A460|16.96}}
+{{Bar percent|RC|{{Canadian party colour|CA|Social Credit}}|4.43}}
+{{Bar percent|Social Credit|{{Canadian party colour|CA|Social Credit}}|0.85}}
+{{Bar percent|Others|#DCDCDC|0.96}}
+}}
+
+{{Bar box
+| title    = Seat totals
+| titlebar = #ddd
+| width    = 600px
+| barwidth = 410px
+| bars     = 
+{{Bar percent|Liberal|#F08080|58.71}}
+{{Bar percent|PC|#9999FF|27.27}}
+{{Bar percent|NDP|#F4A460|8.33}}
+{{Bar percent|RC|{{Canadian party colour|CA|Social Credit}}|5.30}}
+{{Bar percent|Independent|#DCDCDC|0.38}}
+}}
+
+==Results by province==
+{{for|a full list of those elected in the 1968 election|28th Canadian parliament}}
+
+{| class="wikitable" style="font-size:90%; width:690px"
+! align="center" colspan=3|Party name
+! align="center"|[[British Columbia|BC]]
+! align="center"|[[Alberta|AB]]
+! align="center"|[[Saskatchewan|SK]]
+! align="center"|[[Manitoba|MB]]
+! align="center"|[[Ontario|ON]]
+! align="center"|[[Quebec|QC]]
+! align="center"|[[New Brunswick|NB]]
+! align="center"|[[Nova Scotia|NS]]
+! align="center"|[[Prince Edward Island|PE]]
+! align="center"|[[Newfoundland and Labrador|NL]]
+! align="center"|[[Northwest Territories|NT]]
+! align="center"|[[Yukon|YK]]
+! align="center"|Total
+{{Canadian party colour|CA|Liberal|row}}
+| rowspan=2|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| align="right"|16 <!--BC-->
+| align="right"|4 <!--Alb-->
+| align="right"|2 <!--Sask-->
+| align="right"|5 <!--Man-->
+| align="right"|63 <!--Ont-->
+| align="right"|56 <!--Que-->
+| align="right"|5 <!--NB-->
+| align="right"|1 <!--NS-->
+| align="right"| - <!--PEI-->
+| align="right"|1 <!--NL-->
+| align="right"|1 <!--NT-->
+| align="right"|- <!--YK-->
+| align="right"|154 <!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| Popular vote:
+| align="right"|41.8 <!--BC-->
+| align="right"|35.7 <!--Alb-->
+| align="right"|27.1 <!--Sask-->
+| align="right"|41.5 <!--Man-->
+| align="right"|46.2 <!--Ont-->
+| align="right"|53.6 <!--Que-->
+| align="right"|44.4 <!--NB-->
+| align="right"|38.0 <!--NS-->
+| align="right"|45.0 <!--PEI-->
+| align="right"|42.8 <!--NL-->
+| align="right"|63.8 <!--NT-->
+| align="right"|47.0 <!--YK-->
+| align="right"|45.4 <!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| rowspan=2|[[Progressive Conservative Party of Canada|Progressive Conservative]]
+| Seats:
+| align="right"|- <!--BC-->
+| align="right"|15 <!--Alb-->
+| align="right"|5 <!--Sask-->
+| align="right"|5 <!--Man-->
+| align="right"|17 <!--Ont-->
+| align="right"|4 <!--Que-->
+| align="right"|5 <!--NB-->
+| align="right"|10 <!--NS-->
+| align="right"|4 <!--PEI-->
+| align="right"|6 <!--NL-->
+| align="right"|- <!--NT-->
+| align="right"|1 <!--YK-->
+| align="right"|72 <!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| Vote:
+| align="right"|18.9 <!--BC-->
+| align="right"|51.0 <!--Alb-->
+| align="right"|37.0 <!--Sask-->
+| align="right"|31.4 <!--Man-->
+| align="right"|32.0 <!--Ont-->
+| align="right"|21.4 <!--Que-->
+| align="right"|49.7 <!--NB-->
+| align="right"|55.2 <!--NS-->
+| align="right"|51.8 <!--PEI-->
+| align="right"|52.7 <!--NL-->
+| align="right"|23.4 <!--NT-->
+| align="right"|48.0 <!--YK-->
+| align="right"|31.4 <!--Canada/Total-->
+{{Canadian party colour|CA|NDP|row}}
+| rowspan=2|[[New Democratic Party (Canada)|New Democratic]]
+| Seats:
+| align="right"|7 <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"|6 <!--Sask-->
+| align="right"|3 <!--Man-->
+| align="right"|6 <!--Ont-->
+| align="right"|- <!--Que-->
+| align="right"|- <!--NB-->
+| align="right"|- <!--NS-->
+| align="right"|- <!--PEI-->
+| align="right"|- <!--NL-->
+| align="right"|- <!--NT-->
+| align="right"|- <!--YK-->
+| align="right"|22 <!--Canada/Total-->
+{{Canadian party colour|CA|NDP|row}}
+| Vote:
+| align="right"|32.6 <!--BC-->
+| align="right"|9.4 <!--Alb-->
+| align="right"|35.7 <!--Sask-->
+| align="right"|25.0 <!--Man-->
+| align="right"|20.6 <!--Ont-->
+| align="right"|7.5 <!--Que-->
+| align="right"|4.9 <!--NB-->
+| align="right"|6.7 <!--NS-->
+| align="right"|3.2 <!--PEI-->
+| align="right"|4.4 <!--NL-->
+| align="right"|12.8 <!--NT-->
+| align="right"|5.0 <!--YK-->
+| align="right"|17.0 <!--Canada/Total-->
+{{Canadian party colour|CA|Ralliement créditiste|row}}
+| rowspan=2|''[[Ralliement créditiste]] ''
+| Seats:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|14 <!--Que-->
+| align="right"|- <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|14 <!--Canada/Total-->
+{{Canadian party colour|CA|Social Credit|row}}
+| Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|16.4 <!--Que-->
+| align="right"|0.7 <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|4.4 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2|Independent
+| Seats:
+| align="right"|- <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"|- <!--Sask-->
+| align="right"|- <!--Man-->
+| align="right"|1 <!--Ont-->
+| align="right"|- <!--Que-->
+| align="right"|- <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|1 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote:
+| align="right"|0.1 <!--BC-->
+| align="right"|0.2 <!--Alb-->
+| align="right"|0.2 <!--Sask-->
+| align="right"|0.3 <!--Man-->
+| align="right"|0.6 <!--Ont-->
+| align="right"|0.6 <!--Que-->
+| align="right"|0.2 <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.4 <!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| rowspan=2|[[Liberal-Labour (Canada)|Liberal-Labour]]
+| Seats:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|1 <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|1 <!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|0.3 <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.1 <!--Canada/Total-->
+|- 
+| colspan=3|'''Total seats:'''
+| align="right"|'''23''' <!--BC-->
+| align="right"|'''19''' <!--Alb-->
+| align="right"|'''13''' <!--Sask-->
+| align="right"|'''13''' <!--Man-->
+| align="right"|'''88''' <!--Ont-->
+| align="right"|'''74''' <!--Que-->
+| align="right"|'''10''' <!--NB-->
+| align="right"|'''11''' <!--NS-->
+| align="right"|'''4''' <!--PEI-->
+| align="right"|'''7''' <!--NL-->
+| align="right"|'''1''' <!--NT-->
+| align="right"|'''1''' <!--YK-->
+| align="right"|'''264''' <!--Canada/Total-->
+|-
+|colspan=16|'''Parties that won no seats:'''
+{{Canadian party colour|CA|Social Credit|row-name}} 
+|  Vote:
+| align="right"|6.4 <!--BC-->
+| align="right"|1.9 <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|1.5 <!--Man-->
+| align="right"|xx <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|0.1 <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.8 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Independent Liberal 
+|  Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|1.5 <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|0.1 <!--Ont-->
+| align="right"|0.2 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.2 <!--Canada/Total-->
+{{Canadian party colour|CA|Communist|row-name}}
+|  Vote:
+| align="right"|0.1 <!--BC-->
+| align="right"|0.1 <!--Alb-->
+| align="right"|0.1 <!--Sask-->
+| align="right"|0.2 <!--Man-->
+| align="right"|0.1 <!--Ont-->
+| align="right"|xx<!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.1 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Independent PC
+|  Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|0.2 <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|xx <!--Ont-->
+| align="right"|xx<!--Que-->
+| align="right"|0.1 <!--NB-->
+| align="right"|0.1 <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|xx <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| [[Parti de la Démocratisation Économique|Démocratisation Écon.]]
+|  Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|0.1<!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|xx <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| [[Franc Lib]]
+|  Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|0.1<!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|xx <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Independent Cons.
+|  Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|0.2 <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|xx <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Reform
+|  Vote:
+| align="right"|0.1 <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|xx <!--Canada/Total-->
+{{Canadian party colour|CA|Rhinoceros (historical)|row-name}}
+|  Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|xx<!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|xx <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Conservative
+|  Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|xx<!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|xx <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Espirit social
+|  Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|xx<!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|xx <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| [[Socialist Labour Party (Canada)|Socialist Labour]]
+|  Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|xx <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|xx <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| [[Parti republicain/Republican Party (Canada)|Republican]] 
+|  Vote:
+| align="right"|xx <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|xx <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| [[New Canada Party|New Canada]]
+|  Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|xx <!--Ont-->
+| align="right"|&nbsp;<!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|xx <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| [[National Socialist candidate (Canada)|National Socialist]]
+|  Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|xx<!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|xx <!--Canada/Total-->
+|}
+
+===Notes===
+xx - less than 0.05% of the popular vote.
+
+* [[Voter turnout]]: 75.7% of the eligible population voted.
+
+==See also==
+{{Portal|Canada|Politics}} 
+*[[List of Canadian federal general elections]]
+*[[List of political parties in Canada]]
+*[[28th Canadian Parliament]]
+
+==References==
+{{reflist}}
+{{reflist|group=lower-roman}}
+
+==Further reading==
+* {{cite book |last1=Argyle |first1=Ray |title=Turning Points: The Campaigns that Changed Canada 2004 and Before |date=2004 |publisher=White Knight Publications |location=Toronto |isbn=978-0-9734186-6-8 |url=https://archive.org/details/turningpointscam0000argy |url-access=registration}}
+* {{cite book |last1=Beck |first1=James Murray |author-link=James Murray Beck |title=Pendulum of Power; Canada's Federal Elections |date=1968 |publisher=Prentice-Hall of Canada |location=Scarborough |isbn=978-0-13-655670-1 |url=https://archive.org/details/pendulumofpower0000unse |url-access=registration}}
+* {{cite book |last1=Peacock |first1=Donald |title=Journey to Power: The Story of a Canadian Election |date=1968 |publisher=The Ryerson Press |location=Toronto |isbn=978-0-7700-0253-4 |url=https://archive.org/details/journeytopowerst0000peac |url-access=registration}}
+* {{cite book |editor1-last=Saywell |editor1-first=John |editor1-link=John Saywell |title=Canadian Annual Review for 1968 |date=1969 |isbn=978-0-8020-1649-2 |publisher=University of Toronto Press |location=Toronto |url=https://archive.org/details/canadianannualre0000unse_s4j2 |url-access=registration}}
+*{{Cite book
+   | last      = Stevens
+   | first     = Geoffrey
+   | title     = Stanfield
+   | year      = 1973
+   | publisher = McClelland & Stewart
+   | location  = Toronto
+   | isbn = 9780771083587
+ | url       = https://archive.org/details/stanfield00stev
+   | url-access = registration
+}}
+* {{cite book |last1=Sullivan |first1=Martin |title=Mandate '68: The Year of Pierre Elliott Trudeau |date=1968 |publisher=Doubleday |location=Toronto |url=https://archive.org/details/mandate6800sull |url-access=registration}}
+* {{cite report |author1=Canada, Chief Electoral Officer |title=Twenty-Eighth General Election, 1968: Report of the Chief Electoral Officer |date=1968 |publisher=Queen's Printer |location=Ottawa |hdl=2027/umn.31951d013775853 |hdl-access=free}}
+
+{{Canada elections}}
+{{Pierre Trudeau}}
+{{Tommy Douglas}}
+
+[[Category:1968 Canadian federal election| ]]
+[[Category:1968 elections in Canada|Federal election]]
+[[Category:Canadian federal elections by year|1968]]
+[[Category:June 1968 in Canada|Federal election]]

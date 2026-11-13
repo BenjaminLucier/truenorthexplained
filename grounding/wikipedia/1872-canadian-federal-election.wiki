@@ -1,0 +1,393 @@
+{{Short description|none}}
+{{Use mdy dates|date=September 2023}}
+{{more citations needed|date=April 2014}}
+{{Infobox election
+| election_name = 1872 Canadian federal election
+| country = Canada
+| flag_year = 1868
+| type = parliamentary
+| ongoing = no
+| party_colour = no
+| party_name = no
+| previous_election = 1867 Canadian federal election
+| previous_year = 1867
+| next_election = 1874 Canadian federal election
+| next_year = 1874
+| seats_for_election = 200 seats in the [[House of Commons of Canada|House of Commons]]
+| majority_seats = 101
+| turnout = 70.3%<ref>{{cite web|title=Voter Turnout at Federal Elections and Referendums
+|url=http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|website=Elections Canada|access-date=10 March 2019}}</ref> ({{decrease}} 2.8 [[Percentage Point|pp]])
+| election_date = July 20–October 12, 1872
+| elected_members = 2nd Canadian Parliament
+| outgoing_members = 1st Canadian Parliament
+
+<!-- Conservative Party -->| image1 = Prime Minister Sir John Alexander MacDonald TPL355211 (cropped).jpg
+| colour1 = {{Canadian party colour|CA|Conservative (historical)|nohash}}
+| leader1 = [[John A. Macdonald]]
+| leader_since1 = July 1, 1867
+| party1 = {{Canadian party colour|CA|Conservative (historical)|name}}
+| leaders_seat1 = [[Kingston (federal electoral district)|Kingston]]
+| last_election1 = 100 seats, 35.0%
+| seats1 = '''100'''
+| seat_change1 = {{steady}} 0
+| popular_vote1 = '''123,100'''
+| percentage1 = '''38.7%'''
+| swing1 = {{increase}} 3.7 [[Percentage point|pp]]
+
+<!-- Liberal Party-->| image2 = Premier of Ontario, Edward Blake (cropped).jpg
+| colour2 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader2 = [[Edward Blake]] ''(unofficial)''
+| leader_since2 = 
+| party2 = {{Canadian party colour|CA|Liberal|name}}
+| leaders_seat2 = [[Bruce South (federal electoral district)|Bruce South]]{{efn|Blake was also elected in [[Durham West]]; he chose to sit for Bruce South instead, and resigned as the Member of Parliament for Durham West.}}
+| last_election2 = 62 seats, 22.7%
+| seats2 = 94
+| seat_change2 = {{increase}} 32
+| popular_vote2 = 110,556
+| percentage2 = 34.7%
+| swing2 = {{increase}} 12.0 [[Percentage point|pp]]
+
+<!-- map -->| map_image = Canada 1872 Federal Election.svg
+| map_size = 380px
+| map_caption = 1872 Canadian electoral map
+| map2_image = Chambre des Communes 1872.png
+| map2_size = 380px
+| map2_caption = The Canadian parliament after the 1872 election
+
+<!-- bottom -->| title = Prime Minister
+| posttitle = Prime Minister after election
+| before_election = [[John A. Macdonald]]
+| before_party = {{Canadian party colour|CA|Conservative (historical)|name}}
+| after_election = [[John A. Macdonald]]
+| after_party = {{Canadian party colour|CA|Conservative (historical)|name}}
+| image2_size = 170px
+| image1_size = 155px
+}}
+The '''1872 Canadian federal election''' was held from July 20 to October 12, 1872, to elect members  of the [[House of Commons of Canada]] of the [[2nd Canadian Parliament|2nd Parliament]] of [[Canada]].  [[Prime Minister of Canada|Prime Minister]] Sir [[John A. Macdonald]]'s [[Conservative Party of Canada (1867–1942)|Conservative Party]] remained in power, as it took more seats than any other party including the [[Liberal Party of Canada|Liberals]]. The Liberals increased their vote share and their parliamentary representation considerably, while the Conservative vote share and seat count remained mostly static. Macdonald's Conservatives received only six more seats than the Liberals. The election produced the country's first [[minority government]]. The support of two independent Conservative MPs functionally gave Macdonald an extremely slim majority that allowed it to survive for two years, until it fell due to the [[Pacific scandal]].
+
+[[Edward Blake]], who had a seat in both the [[House of Commons of Canada]] and the [[Ontario legislature]], resigned as [[Premier of Ontario]] in order to run in the 1872 federal election as dual mandates had been abolished. Had the Liberals won the election, he likely would have been offered the position of [[Prime Minister of Canada]]. The party had no formal leader as such until 1873 when [[Alexander Mackenzie (politician)|Alexander Mackenzie]] was given the title after Blake declined due to ill health. Blake was ill during much of the 1872 campaign, and it was Mackenzie who essentially led the Liberal campaign in Ontario, though not outside the province.
+
+The 1872 general election was the first to include the new provinces of [[Manitoba]] and [[British Columbia]], which had both joined Canada after the [[Canadian Confederation|Confederation]] of 1867.  By-elections had been held in both provinces to elect [[Members of Parliament]] in the newly created ridings, with Manitoba receiving four seats and British Columbia six. (In 1870 Canada had also expanded to include the North-West Territories, encompassing the current provinces of Alberta and Saskatchewan and the Territories, but no MPs were elected there until 1887.) In 1873, PEI joined Confederation and six more seats were added to the House of Commons, filled by acclamations in by-elections.
+
+==Electoral system==
+Most of the ridings in this election elected just one member through [[First past the post]]. The ridings of Ottawa, Victoria, the City and County of St. John, Cape Breton, Pictou, Hamilton, and Halifax elected two members, with each voter casting up to two votes ([[Plurality block voting]]).<ref>Parliamentary Guide 1977, p. 380-381, 418</ref>
+
+==Results==
+===National===
+[[File:1872 Canadian parliament.svg|center|300px]]
+
+{| class="wikitable"
+! colspan=10|2nd Parliament
+|- bgcolor="CCCCCC"
+!rowspan=2 colspan=2|Party
+!rowspan=2|Party leader
+!rowspan=2|# of candidates
+!colspan=3|Seats
+!colspan=3|Popular vote
+|- bgcolor="CCCCCC"
+|align="center"|[[1867 Canadian federal election|1867]]
+|align="center"|'''Elected'''
+|align="center"|Change
+|align="center"|#
+|align="center"|%
+|align="center"|Change
+{{Canadian party colour|CA|PC|row}}
+| |[[Conservative Party of Canada (historical)|Conservative]]
+| width="200" rowspan=2|Sir [[John A. Macdonald]]
+| align="right"|92
+| align="right"|71
+| align="right" width="51"|'''62'''
+| align="right"|-11.3%
+| align="right" width="56"|82,024
+| align="right" width="41"|25.76%
+| align="right"|+2.31pp
+{{Canadian party colour|CA|PC|row}}
+| width="200"|[[Liberal-Conservative Party|Liberal-Conservative]]<sup>1</sup>
+| align="right"|48
+| align="right"|29
+| align="right" width="51"|'''37'''
+| align="right"|+24.1%
+| align="right" width="56"|41,076
+| align="right" width="41"|12.90%
+| align="right"|+1.82pp
+{{Canadian party colour|CA|Liberal|row}}
+| width="200"|[[Liberal Party of Canada|Liberal]]
+| width="200"|none (unofficially, [[Edward Blake]])
+| align="right"|111
+| align="right"|62
+| align="right" width="51"|'''94'''
+| align="right"|+53.2%
+| align="right" width="56"|110,556
+| align="right" width="41"|34.72%
+| align="right"|+12.05pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Independents
+| align="right"|4
+| align="right"|-
+| align="right" width="51"|'''2'''
+| align="right"|&nbsp;
+| align="right" width="56"|5,213
+| align="right" width="41"|1.64%
+| align="right"|+1.25pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Independent Conservative
+| align="right"|3
+| align="right"|-
+| align="right" width="51"|'''2'''
+| align="right"|&nbsp;
+| align="right" width="56"|2,220
+| align="right" width="41"|0.70%
+| align="right"|+0.70pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Independent Liberal
+| align="right"|4
+| align="right"|-
+| align="right" width="51"|'''2'''
+| align="right"|&nbsp;
+| align="right" width="56"|5,232
+| align="right" width="41"|1.64%
+| align="right"|+0.98pp
+{{Canadian party colour|CA|PC|row}}
+| width="200"|[[Conservative Labour]]
+| width="200"|&nbsp;
+| align="right"|1
+| align="right"|-
+| align="right" width="51"|'''1'''
+| align="right"|&nbsp;
+| align="right" width="56"|1,422
+| align="right" width="41"|0.45%
+| align="right"|+0.45pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Unknown
+| align="right"|104
+| align="right"|-
+| align="right" width="51"|-
+| align="right"|-
+| align="right" width="56"|70,704
+| align="right" width="41"|22.20%
+| align="right"|-11.64pp
+|-
+| colspan=3|Total
+| align="right"|'''367'''
+| align="right"|'''180'''
+| align="right" width="51"|'''200'''
+| align="right"|+11.1
+| align=right"|'''320,037'''
+| align="right"| '''100%'''
+| align="right"|&nbsp;
+|-
+| align="center" colspan=10|''Source: [https://lop.parl.ca/sites/ParlInfo/default/en_CA/ElectionsRidings/Elections/Profile?election=1872-07-20 Parliament of Canada]''
+|}
+
+'''Note:'''
+<sup>1</sup> Though identifying themselves as Liberal-Conservatives, these MPs and those identifying as Conservatives were both led by Sir John A. Macdonald (himself a Liberal-Conservative) and sat together in the House of Commons.
+
+'''Acclamations'''
+
+The following MPs were acclaimed:
+* British Columbia: 3 Liberal-Conservatives
+* Manitoba: 1 Liberal-Conservative
+* Ontario: 3 Conservatives, 3 Liberal-Conservatives, 10 Liberals
+* Quebec: 9 Conservatives, 5 Liberal-Conservatives, 5 Liberals
+* New Brunswick: 6 Liberals, 1 Independent
+* Nova Scotia: 1 Conservative, 4 Liberal-Conservatives, 2 Liberals
+
+===Results by province===
+
+{| class="wikitable"
+! align="center" colspan=3|Party name
+! [[British Columbia|&nbsp;BC&nbsp;]]
+! [[Manitoba]]
+! [[Ontario]]
+! [[Quebec]]
+! [[New Brunswick|&nbsp;NB&nbsp;]]
+! [[Nova Scotia|&nbsp;NS&nbsp;]]
+! Total
+{{Canadian party colour|CA|PC|row}}
+| rowspan=2|[[Conservative Party of Canada (historical)|Conservative]]
+|Seats
+| align="right"|1
+| align="right"|1
+| align="right"|26
+| align="right"|25
+| align="right"|2
+| align="right"|7
+| align="right"|62
+{{Canadian party colour|CA|PC|row}}
+| Popular vote
+| align="right"|4.5
+| align="right"|29.7
+| align="right"|25.9
+| align="right"|31.5
+| align="right"|8.4
+| align="right"|23.5
+| align="right"|25.8
+{{Canadian party colour|CA|PC|row}}
+| rowspan=2|[[Liberal-Conservative Party|Liberal-Conservative]]
+|Seats
+| align="right"|3
+| align="right"|1
+| align="right"|12
+| align="right"|12
+| align="right"|3
+| align="right"|6
+| align="right"|37
+{{Canadian party colour|CA|PC|row}}
+| Vote
+| &nbsp;
+| &nbsp;
+| align="right"|11.9
+| align="right"|10.5
+| align="right"|17.8
+| align="right"|19.8
+| align="right"|12.9
+{{Canadian party colour|CA|Liberal|row}}
+| rowspan=2|[[Liberal Party of Canada|Liberal]]
+|Seats
+| align="right"|2
+| align="right"|1
+| align="right"|48
+| align="right"|26
+| align="right"|9
+| align="right"|8
+| align="right"|94
+{{Canadian party colour|CA|Liberal|row}}
+| Vote
+| align="right"|83.7
+| align="right"|35.6
+| align="right"|35.3
+| align="right"|32.6
+| align="right"|46.8
+| align="right"|28.1
+| align="right"|34.7
+{{Canadian party colour|CA|PC|row}}
+| rowspan=2|[[Conservative Labour]]
+|Seats
+| &nbsp;
+| &nbsp;
+| align="right"|1
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| align="right"|1
+{{Canadian party colour|CA|PC|row}}
+| Vote
+| &nbsp;
+| &nbsp;
+| align="right"|0.9
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| align="right"|0.4
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2|Unknown
+|Seats
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|-
+| align="right"|-
+{{Canadian party colour|CA|Independent|row}}
+| Vote
+| align="right"|11.8
+| align="right"|14.9
+| align="right"|23.4
+| align="right"|21.5
+| align="right"| 26.9
+| align="right"|16.4
+| align="right"|22.2
+{{Canadian party colour|CA|Independent|row}}
+|rowspan=2| Independent
+|Seats
+| &nbsp;
+| &nbsp;
+| align="right"|-
+| align="right"|1
+| align="right"|1
+| align="right"|-
+| align="right"|2
+{{Canadian party colour|CA|Independent|row}}
+| Vote
+| &nbsp;
+| &nbsp;
+| align="right"|0.8
+| align="right"|1.7
+| &nbsp;
+| align="right"|6.1
+| align="right"|1.6
+{{Canadian party colour|CA|Independent|row}}
+|rowspan=2| Independent Liberal
+|Seats
+| &nbsp;
+| &nbsp;
+| align="right"|1
+| &nbsp;
+| align="right"|1
+| &nbsp;
+| align="right"|2
+{{Canadian party colour|CA|Independent|row}}
+| Vote
+| &nbsp;
+| &nbsp;
+| align="right"|1.7
+| &nbsp;
+| &nbsp;
+| align="right"|6.1
+| align="right"|1.6
+{{Canadian party colour|CA|Independent|row}}
+|rowspan=2| Independent Conservative
+|Seats
+| &nbsp;
+| align="right"|1
+| &nbsp;
+| align="right"|1
+| &nbsp;
+| &nbsp;
+| align="right"|2
+{{Canadian party colour|CA|Independent|row}}
+| Vote
+| &nbsp;
+| align="right"|19.8
+| &nbsp;
+| align="right"|2.2
+| &nbsp;
+| &nbsp;
+| align="right"|0.7
+|- align="center"
+| colspan=3|'''Total seats'''
+! align="right"|6
+! align="right"| 4
+! align="right"| 88
+! align="right"| 65
+! align="right"| 16
+! align="right"| 21
+! align="right"| 200
+|}
+
+{{for|a list of candidates elected in the 1872 election, including by-elections held before 1874|2nd Canadian parliament}}
+
+==See also==
+{{Portal|Canada|Politics}}
+* [[List of Canadian federal general elections]]
+
+==Notes==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+* {{cite report |last1=Langevin |first1=Edouard J. |title=Return on the Second General Election for the House of Commons of Canada |date=1873 |publisher=Queen's Printer |location=Ottawa |url=https://parl.canadiana.ca/view/oocihm.9_08052_6_6/536 |series=Sessional Papers, 2nd Parliament, 1st Session |volume=VI}}
+
+
+{{Canada elections}}
+{{John A. Macdonald}}
+
+[[Category:1872 Canadian federal election| ]]
+[[Category:Canadian federal elections by year|1872]]
+[[Category:July 1872 in Canada]]
+[[Category:August 1872 in Canada]]
+[[Category:September 1872 in Canada]]
+[[Category:October 1872 in Canada]]

@@ -1,0 +1,607 @@
+{{Short description|none}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 1972 Canadian federal election
+| country = Canada
+| type = parliamentary
+| ongoing = no
+| party_colour = no
+| party_name = no
+| previous_election = 1968 Canadian federal election
+| previous_year = 1968
+| election_date = October 30, 1972
+| next_election = 1974 Canadian federal election
+| opinion_polls = Opinion polling for the 1972 Canadian federal election
+| next_year = 1974
+| seats_for_election = 264 seats in the [[House of Commons of Canada|House of Commons]]
+| majority_seats = 133
+| turnout = 76.7%<ref>{{cite web|last=Pomfret|first=R.|title=Voter Turnout at Federal Elections and Referendums|url=http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|work=Elections Canada|publisher=Elections Canada|access-date=11 January 2014}}</ref> ({{increase}} 1.0 [[Percentage Point|pp]])
+| image_size = 
+| image1 =  {{CSS image crop|Image = Prime Minister Pierre Trudeau December 1971 (LOC 50514) (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour1 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader1 = [[Pierre Trudeau]]
+| party1 = {{Canadian party colour|CA|Liberal|name}}
+| leader_since1 = [[1968 Liberal Party of Canada leadership election|April 6, 1968]]
+| leaders_seat1 = [[Mount Royal (electoral district)|Mount Royal]]
+| last_election1 = 155 seats, 45.49%
+| seats_before1 = 147
+| seats1 = '''109'''
+| seat_change1 = {{decrease}} 38
+| popular_vote1 = '''3,717,804'''
+| percentage1 = '''38.42%'''
+| swing1 = {{decrease}} 7.07 [[Percentage Point|pp]]
+| map = {{Switcher
+| [[File:Canada 1972.png|300px]]
+| Results by electoral district, shaded by winners' vote share
+| [[File:Canada 1972 Federal Election.svg|300px]]
+| Results by province and territory}}
+| title = Prime Minister
+| before_election = [[Pierre Trudeau]]
+| before_party = {{Canadian party colour|CA|Liberal|name}}
+| posttitle = Prime Minister after election
+| after_election = [[Pierre Trudeau]]
+| after_party = {{Canadian party colour|CA|Liberal|name}}
+| elected_mps = 29th Canadian Parliament
+| previous_mps = 28th Canadian Parliament
+| image2 =  {{CSS image crop|Image = Robert Stanfield 1968 press photo (3x4).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour2 = {{Canadian party colour|CA|PC|nohash}}
+| leader2 = [[Robert Stanfield]]
+| leader_since2 = [[1967 Progressive Conservative leadership election|September 9, 1967]]
+| party2 = {{Canadian party colour|CA|PC|name}}
+| leaders_seat2 = [[Halifax (federal electoral district)|Halifax]]
+| last_election2 = 72 seats, 31.36%
+| seats_before2 = 73
+| seats2 = 107
+| seat_change2 = {{increase}} 34
+| popular_vote2 = 3,388,980
+| percentage2 = 35.02%
+| swing2 = {{increase}} 3.59 [[Percentage Point|pp]]
+| image4 =  {{CSS image crop|Image = David Lewis 1968 Edit Alt.jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour4 = {{Canadian party colour|CA|NDP|nohash}}
+| leader4 = [[David Lewis (Canadian politician)|David Lewis]]
+| leader_since4 = [[1971 New Democratic Party leadership election|April 24, 1971]]
+| party4 = {{Canadian party colour|CA|NDP|name}}
+| leaders_seat4 = [[York South (federal electoral district)|York South]]
+| last_election4 = 22 seats, 16.96%
+| seats_before4 = 25
+| seats4 = 31
+| seat_change4 = {{increase}} 6
+| popular_vote4 = 1,725,719
+| percentage4 = 17.83%
+| swing4 = {{increase}} 0.87 [[Percentage Point|pp]]
+| image5 =  {{CSS image crop|Image = Real Caouette (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour5 = {{Canadian party colour|CA|Social Credit|nohash}}
+| leader5 = [[Réal Caouette]]
+| leader_since5 = [[Social Credit Party of Canada leadership elections#1971 leadership convention|October 9, 1971]]
+| party5 = {{Canadian party colour|CA|Social Credit|name}}
+| leaders_seat5 = [[Témiscamingue (electoral district)|Témiscamingue]]
+| last_election5 = 14 seats, 5.28%<sup>1</sup>
+| seats_before5 = 15
+| seats5 = 15
+| seat_change5 = {{steady}} 0
+| popular_vote5 = 730,759
+| percentage5 = 7.55%
+| swing5 = {{increase}} 2.27 [[Percentage Point|pp]]
+| map2_image = Chambre des Communes 1972.png
+| map2_size = 
+| map2_caption = The Canadian parliament after the 1972 election
+}}
+The '''1972 Canadian federal election''' was held on October 30, 1972, to elect members  of the [[House of Commons of Canada]] of the [[29th Canadian Parliament|29th Parliament]] of [[Canada]]. It resulted in a slim victory for the governing [[Liberal Party of Canada|Liberal Party]] led by [[Prime Minister of Canada|Prime Minister]] [[Pierre Trudeau]], which won 109 seats, compared to 107 seats for the opposition [[Progressive Conservative Party of Canada|Progressive Conservatives]] led by [[Robert Stanfield]], making this the closest election in Canadian history in terms of seat count. Trudeau's Liberals experienced a decline in support as a result of rising unemployment.
+
+A further 48 seats were won by other parties and independents. On election night, the results appeared to give 109 seats to the Tories, but once the counting had finished the next day, the final results gave the Liberals a minority government and left the [[New Democratic Party (Canada)|New Democratic Party]] led by [[David Lewis (Canadian politician)|David Lewis]] holding the [[Balance of power (parliament)|balance of power]].
+
+This was the first national election held in Canada after the voting age was lowered from 21 to 18 in 1970.<ref>{{Cite web |title=A Brief History of Federal Voting Rights in Canada {{!}} Elections Canada's Civic Education |url=https://electionsanddemocracy.ca/voting-rights-through-time-0/brief-history-federal-voting-rights-canada |access-date=2024-11-08 |website=electionsanddemocracy.ca}}</ref> This was also the last election until [[1997 Canadian federal election|1997]] in which more than three parties won enough seats to earn [[official party status]] in the House of Commons. 
+
+==Overview==
+The election was the second fought between Liberal leader, [[Prime Minister of Canada|Prime Minister]] [[Pierre Trudeau]], and Progressive Conservative leader [[Robert Stanfield]].  The Liberals entered the election campaign with a 10-point lead over the Progressive Conservatives, but the spirit of [[Trudeaumania]] had worn off, and a slumping economy and rising unemployment hurt his party. Stanfield's Tories tried to capitalize on the public's perception that the Liberals were mismanaging the economy with the slogan, "A Progressive Conservative government ''will'' do better."<ref>{{cite web |last1=Bradburn |first1=Jamie |title=How the NDP saved Pierre Trudeau's government |url=https://www.tvo.org/article/how-the-ndp-saved-pierre-trudeaus-government |website=TVO |access-date=23 April 2022 |date=15 October 2019}}</ref>
+
+The Liberals campaigned on the slogan, "The Land is Strong", and television ads illustrating Canada's scenery.  The slogan quickly became much derided, and the party had developed few real issues to campaign on. As a result, their entire campaign was viewed as being one of the worst managed in recent decades.
+
+The New Democratic Party, led by [[David Lewis (Canadian politician)|David Lewis]], had been struggling in the polls for much of the previous year, following an acrimonious [[1971 New Democratic Party leadership election|leadership contest]] in which Lewis had been elected as leader over hard-left candidate [[James Laxer]], and subsequent internecine conflicts between the party establishment and the left-wing group [[The Waffle]]. In the lead-up to the election, however, the federal party received a morale boost when the [[British Columbia New Democratic Party]], under the leadership of [[Dave Barrett]], unseated the long-standing provincial [[Social Credit Party of British Columbia|Social Credit]] government of [[W. A. C. Bennett]] in a major political upset. Additionally, Lewis' reputation as a moderate helped win over Liberal voters who were dissatisfied with Trudeau's government.
+
+===Party platforms===
+
+'''Liberal Party:'''
+* increase [[Bilingualism in Canada|bilingualism]] in the [[Canadian civil service]];
+* re-introduce a bill controlling foreign take-overs of Canadian businesses;
+* specialized programs to reduce unemployment;
+* a program to expand and create new parks across Canada, including [[Toronto]]'s "[[Harbourfront, Toronto|Harbourfront]]" and [[Mont-Sainte-Anne]] near [[Quebec City]];
+* [[make work job|make-work programs]] to create jobs;
+* reduce abuse of [[Unemployment Insurance#Canada|Unemployment Insurance]]; and
+* incentives to reduce pollution.
+
+'''Progressive Conservative Party:'''
+* increase the discipline in government spending, and increase the power of the [[Auditor General of Canada]] to fight waste and inefficiency in government;
+* ban strikes in essential services;
+* introduce price and wage controls if necessary to control inflation;
+* require foreign-owned companies operating in Canada to have a majority of Canadians on their boards of directors;
+* introduce an incentive to encourage Canadians to invest in small businesses;
+* develop a national economic strategy in co-operation with the provincial governments;
+* expand re-training opportunities for unemployed workers;
+* adjust tariffs to encourage secondary processing in Canada of Canada's natural resources;
+* eliminate the 11% sales tax on building materials;
+* eliminate 3% increase in personal income tax rates scheduled for January 1, 1973, and reduce rates by 4% on July 1, 1973;
+* adjust [[old age security]] payments regularly to reflect changes in the cost of living;
+* index tax brackets to inflation so that taxes do not rise as the cost of living rises;
+* provide assistance to set up residential [[land banking|land banks]] to reduce the cost of housing.
+
+'''New Democratic Party:'''
+* eliminate 3% increase in personal income tax rates scheduled for January 1, 1973, and reduce rates by 8% for ordinary Canadians;
+* introduce controls on prices and rents, but not on wages;
+* create a $430 million program to fund public works during winter months to reduce unemployment;
+* increase old age security payments, but eliminate them for wealthy senior citizens;
+* legislate greater autonomy for Canadian trade unions that are branches of international unions;
+* tough tax laws for corporations;
+* eliminate "[[corporate welfare]]", i.e., grants and subsidies for corporations, and use this money to build housing and transportation infrastructure, and fund municipal services to create jobs.
+
+'''Social Credit Party:'''
+* reform the monetary system in line with [[social credit]] theories;
+* increase old age security payments to $200 per month beginning at age 60, and to $150 per month for spouses of seniors regardless of age.
+
+==National results==
+The voter turn-out was 76.7%.
+
+One independent candidate was elected: [[Roch La Salle]] was re-elected in the [[Quebec]] riding of [[Joliette (federal electoral district)|Joliette]]. La Salle had left the PC caucus to protest the party's failure to recognize what he considered Quebec's right to [[self-determination]], and was the only candidate to win the support of the [[Quebec sovereignty movement|separatist]] ''[[Parti Québécois]]''. He returned to the PC caucus in 1974.
+
+One candidate with no affiliation was elected: [[Lucien Lamoureux]], in the [[Ontario]] riding of [[Stormont—Dundas]]. Lamoureux, originally elected as a Liberal, had been serving as [[Speaker (politics)|Speaker]] of the [[House of Commons of Canada|House of Commons]]. He ran without affiliation in order to preserve his impartiality as Speaker. He retired after this Parliament, and did not run again in [[1974 Canadian federal election|1974]].
+
+The Liberals won a minority government, with the New Democratic Party holding the balance of power. Requiring NDP support to continue, the Trudeau government would move left politically, including the creation of [[Petro-Canada]].
+
+This was the first of two elections in which [[Réal Caouette]] led the national [[Social Credit Party of Canada]]. Caouette, who had contested the previous two elections as leader of the breakaway Quebec-based [[Ralliement créditiste]], had successfully taken over the leadership of the original western-based party and overseen the reintegration of the two factions. He successfully held on to the seats he had previously won under the RC banner, but these were the only ridings Social Credit managed to win as it continued to lose support outside Quebec.
+
+[[File:1972 Canadian parliament.svg|center|300px]]
+
+{| class="wikitable" style="border-collapse: collapse border-color: #444444"
+|- bgcolor="CCCCCC"
+!rowspan=2 colspan=2|Party
+!rowspan=2|Party leader
+!rowspan=2|# of<br />candidates
+!colspan=4|Seats
+!colspan=3|Popular vote
+|- bgcolor="CCCCCC"
+|align="center"|[[1968 Canadian federal election|1968]]
+|align="center"|[[Dissolution of parliament|<span style="font-size: 75%;">Dissol.</span>]]
+|align="center"|'''Elected'''
+|align="center"|% Change
+|align="center"|#
+|align="center"|%
+|align="center"|Change
+{{Canadian party colour|CA|Liberal|row}}
+| [[Liberal Party of Canada|Liberal]]
+|align="center"| [[Pierre Trudeau]]
+|align="right"| 263
+|align="right"|155
+|align="right"|147
+|align="right"| '''109'''
+|align="right"|-29.7%
+|align="right"| 3,717,804 
+|align="right"| 38.42% 
+|align="right"|-7.07pp
+{{Canadian party colour|CA|PC|row}}
+| [[Progressive Conservative Party of Canada|Progressive Conservative]]
+|align="center"| [[Robert Stanfield]]
+|align="right"| 264
+|align="right"|72
+|align="right"|73
+|align="right"| '''107'''
+|align="right"|+48.6%
+|align="right"| 3,388,980 
+|align="right"| 35.02%
+|align="right"|+3.59pp
+{{Canadian party colour|CA|NDP|row}}
+| [[New Democratic Party (Canada)|New Democratic Party]]
+|align="center"| [[David Lewis (Canadian politician)|David Lewis]]
+|align="right"| 252
+|align="right"|22
+|align="right"|25
+|align="right"| '''31'''
+|align="right"|+40.9%
+|align="right"|1,725,719 
+|align="right"| 17.83% 
+|align="right"|+0.87pp
+{{Canadian party colour|CA|Social Credit|row-name}}<sup>1</sup>
+|align="center"| [[Real Caouette]]
+|align="right"|164
+|align="right"|14
+|align="right"|15
+|align="right"| '''15'''
+|align="right"|+7.1%
+|align="right"|730,759 
+|align="right"|7.55% 
+|align="right"|+2.27pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Independent<sup>2</sup>
+|align="right"| 53
+|align="right"|1
+|align="right"|2
+|align="right"| '''1'''
+|align="right"|-
+|align="right"| 56,685 
+|align="right"|0.59%
+|align="right"|+0.14pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|No affiliation<sup>3</sup>
+|align="right"| 26
+|align="right"|&nbsp;
+|align="right"|&nbsp;
+|align="right"| 1
+|align="right"|&nbsp;
+|align="right"|23,938 
+|align="right"|0.25%
+|align="right"|&nbsp;
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Unknown
+|align="right"| 93
+|align="right"|&nbsp;
+|align="right"|&nbsp;
+|align="right"|-
+|align="right"|&nbsp;
+|align="right"|32,013 
+|align="right"|0.33%
+|align="right"|&nbsp;
+{{Canadian party colour|CA|Rhinoceros (historical)|row}}
+| [[Rhinoceros Party of Canada (1963–1993)|Rhinoceros]]<sup>4</sup>
+|align="center"| [[Cornelius the First|Cornelius I]]
+|align="right"|1
+|align="right"|-
+|align="right"|-
+|align="right"| -
+|align="right"|-
+|align="right"| 1,565 
+|align="right"|0.02% 
+|align="right"|+0.02pp
+|-
+|rowspan=2|&nbsp;&nbsp;&nbsp;&nbsp;
+|colspan=4|Vacant
+|align="right"|4
+|align="center" colspan=5|&nbsp;
+|-
+| colspan=2|'''Total'''
+|align="right"|'''1,117'''
+|align="right"|'''264'''
+|align="right"|'''264'''
+|align="right"|''' 264'''
+|align="right"|''' -0.4%'''
+|align="right"|''' 9,677,463 '''
+|align="right"|''' 100% '''
+|align="right"|  &nbsp;
+|-
+| align="center" colspan=11|'''Sources:''' [http://www.elections.ca Elections Canada];[https://web.archive.org/web/20090609211221/http://www2.parl.gc.ca/Sites/LOP/HFER/hfer.asp?Language=E History of Federal Ridings since 1867]; [[Toronto Star]], October 30, 1972
+|-
+|}
+
+'''Notes:'''
+
+"% change" refers to change from previous election
+
+<sup>1</sup> Indicates increase from total Social Credit + ''Ralliement creditiste'' seats/vote in 1968.
+
+<sup>2</sup> [[Roch LaSalle]], who was elected in 1968 as a Progressive Conservative, won re-election as an independent.
+
+<sup>3</sup> [[Lucien Lamoureux]] who was elected as a Liberal but served as Speaker of the House, won re-election with no party affiliation.
+
+<sup>4</sup> The Rhinoceros Party ran a total of 12 candidates, but because it was not recognized by Elections Canada as a registered party, its candidates were listed as independents.
+
+==Vote and seat summaries==
+{{Gallery
+|title=[[Ternary plot]]s - shift of electoral support (1968-1972)
+|width=350 | height=200 |noborder=yes
+|align=center
+|footer=Electoral districts identified by colours of winning parties
+|File:Ternary CA1968.svg
+ |1968
+ |alt1=Ternary plot of 1968 results
+|File:Ternary CA1972.svg
+ |1972
+ |alt2=Ternary plot of 1972 results
+}}
+
+{{Bar box
+| title    = Popular vote
+| titlebar = #ddd
+| width    = 600px
+| barwidth = 410px
+| bars     = 
+{{Bar percent|Liberal|#F08080|38.42}}
+{{Bar percent|PC|#9999FF|35.02}}
+{{Bar percent|NDP|#F4A460|17.83}}
+{{Bar percent|Social Credit|{{Canadian party colour|CA|Social Credit}}|7.55}}
+{{Bar percent|Others|#DCDCDC|1.18}}
+}}
+
+{{Bar box
+| title    = Seat totals
+| titlebar = #ddd
+| width    = 600px
+| barwidth = 410px
+| bars     = 
+{{Bar percent|Liberal|#F08080|41.28}}
+{{Bar percent|PC|#9999FF|40.53}}
+{{Bar percent|NDP|#F4A460|11.74}}
+{{Bar percent|Social Credit|{{Canadian party colour|CA|Social Credit}}|5.68}}
+{{Bar percent|Independent|#DCDCDC|0.75}}
+}}
+
+==Results by province==
+{| class="wikitable" style="font-size:90%; width:690px"
+! align="center" colspan=3|Party name
+! align="center"|[[British Columbia|BC]]
+! align="center"|[[Alberta|AB]]
+! align="center"|[[Saskatchewan|SK]]
+! align="center"|[[Manitoba|MB]]
+! align="center"|[[Ontario|ON]]
+! align="center"|[[Quebec|QC]]
+! align="center"|[[New Brunswick|NB]]
+! align="center"|[[Nova Scotia|NS]]
+! align="center"|[[Prince Edward Island|PE]]
+! align="center"|[[Newfoundland and Labrador|NL]]
+! align="center"|[[Northwest Territories|NT]]
+! align="center"|[[Yukon|YK]]
+! align="center"|Total
+{{Canadian party colour|CA|Liberal|row}}
+| rowspan=2|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| align="right"|4 <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"|1 <!--Sask-->
+| align="right"|2 <!--Man-->
+| align="right"|36 <!--Ont-->
+| align="right"|56 <!--Que-->
+| align="right"|5 <!--NB-->
+| align="right"|1 <!--NS-->
+| align="right"|1 <!--PEI-->
+| align="right"|3 <!--NL-->
+| align="right"|- <!--NT-->
+| align="right"|- <!--YK-->
+| align="right"|109 <!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| Popular Vote:
+| align="right"|28.9 <!--BC-->
+| align="right"|25.0 <!--Alb-->
+| align="right"|25.3 <!--Sask-->
+| align="right"|30.9 <!--Man-->
+| align="right"|38.2 <!--Ont-->
+| align="right"|48.9 <!--Que-->
+| align="right"|43.1 <!--NB-->
+| align="right"|33.9 <!--NS-->
+| align="right"|40.5 <!--PEI-->
+| align="right"|44.8 <!--NL-->
+| align="right"|29.3 <!--NT-->
+| align="right"|32.2 <!--YK-->
+| align="right"|38.4 <!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| rowspan=2|[[Progressive Conservative Party of Canada|Progressive Conservative]]
+| Seats:
+| align="right"|8 <!--BC-->
+| align="right"|19 <!--Alb-->
+| align="right"|7 <!--Sask-->
+| align="right"|8 <!--Man-->
+| align="right"|40 <!--Ont-->
+| align="right"|2 <!--Que-->
+| align="right"|5 <!--NB-->
+| align="right"|10 <!--NS-->
+| align="right"|3 <!--PEI-->
+| align="right"|4 <!--NL-->
+| align="right"|- <!--NT-->
+| align="right"|1 <!--YK-->
+| align="right"|107 <!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| Vote:
+| align="right"|33.0 <!--BC-->
+| align="right"|57.6 <!--Alb-->
+| align="right"|36.9 <!--Sask-->
+| align="right"|41.6 <!--Man-->
+| align="right"|39.1 <!--Ont-->
+| align="right"|17.4 <!--Que-->
+| align="right"|46.8 <!--NB-->
+| align="right"|53.4 <!--NS-->
+| align="right"|51.9 <!--PEI-->
+| align="right"|49.0 <!--NL-->
+| align="right"|30.9 <!--NT-->
+| align="right"|53.0 <!--YK-->
+| align="right"|35.0 <!--Canada/Total-->
+{{Canadian party colour|CA|NDP|row}}
+| rowspan=2|[[New Democratic Party (Canada)|New Democratic Party]]
+| Seats:
+| align="right"|11 <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"|5 <!--Sask-->
+| align="right"|3 <!--Man-->
+| align="right"|11 <!--Ont-->
+| align="right"|- <!--Que-->
+| align="right"|- <!--NB-->
+| align="right"|- <!--NS-->
+| align="right"|- <!--PEI-->
+| align="right"|- <!--NL-->
+| align="right"|1 <!--NT-->
+| align="right"|- <!--YK-->
+| align="right"|31 <!--Canada/Total-->
+{{Canadian party colour|CA|NDP|row}}
+| Vote:
+| align="right"|35.0 <!--BC-->
+| align="right"|12.6 <!--Alb-->
+| align="right"|35.9 <!--Sask-->
+| align="right"|26.3 <!--Man-->
+| align="right"|21.5 <!--Ont-->
+| align="right"|6.8 <!--Que-->
+| align="right"|6.3 <!--NB-->
+| align="right"|12.3 <!--NS-->
+| align="right"|7.5 <!--PEI-->
+| align="right"|4.7 <!--NL-->
+| align="right"|39.8 <!--NT-->
+| align="right"|11.6 <!--YK-->
+| align="right"|17.8 <!--Canada/Total-->
+{{Canadian party colour|CA|Social Credit|row}}
+| rowspan=2|[[Social Credit Party of Canada|Social Credit]]
+| Seats:
+| align="right"|- <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"|- <!--Sask-->
+| align="right"|- <!--Man-->
+| align="right"|- <!--Ont-->
+| align="right"|15 <!--Que-->
+| align="right"|- <!--NB-->
+| align="right"|- <!--NS-->
+| align="right"|- <!--PEI-->
+| align="right"|-<!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|15 <!--Canada/Total-->
+{{Canadian party colour|CA|Social Credit|row}}
+| Vote:
+| align="right"|2.6 <!--BC-->
+| align="right"|4.5 <!--Alb-->
+| align="right"|1.8 <!--Sask-->
+| align="right"|0.7 <!--Man-->
+| align="right"|0.4 <!--Ont-->
+| align="right"|24.3 <!--Que-->
+| align="right"|3.2 <!--NB-->
+| align="right"|0.3 <!--NS-->
+| align="right"|0.1 <!--PEI-->
+| align="right"|0.2 <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|7.6 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2|Independent
+| Seats:
+| align="right"|- <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"|- <!--Sask-->
+| align="right"|- <!--Man-->
+| align="right"|- <!--Ont-->
+| align="right"|1 <!--Que-->
+| align="right"|- <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|- <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|- <!--YK-->
+| align="right"|1 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote:
+| align="right"|0.2 <!--BC-->
+| align="right"|xx <!--Alb-->
+| align="right"|xx <!--Sask-->
+| align="right"|0.1 <!--Man-->
+| align="right"|0.2 <!--Ont-->
+| align="right"|1.7 <!--Que-->
+| align="right"|0.3 <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|0.4 <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|3.1 <!--YK-->
+| align="right"|0.6 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2|No affiliation
+| Seats:
+| align="right"|- <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"|- <!--Sask-->
+| align="right"|- <!--Man-->
+| align="right"|1 <!--Ont-->
+| align="right"|- <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|- <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|1 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote:
+| align="right"|xx <!--BC-->
+| align="right"|0.1 <!--Alb-->
+| align="right"|xx <!--Sask-->
+| align="right"|xx <!--Man-->
+| align="right"|0.5 <!--Ont-->
+| align="right"|0.2 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|xx <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.2 <!--Canada/Total-->
+|- 
+| colspan=3|'''Total seats:'''
+| align="right"|'''23''' <!--BC-->
+| align="right"|'''19''' <!--Alb-->
+| align="right"|'''13''' <!--Sask-->
+| align="right"|'''13''' <!--Man-->
+| align="right"|'''88''' <!--Ont-->
+| align="right"|'''74''' <!--Que-->
+| align="right"|'''10''' <!--NB-->
+| align="right"|'''11''' <!--NS-->
+| align="right"|'''4''' <!--PEI-->
+| align="right"|'''7''' <!--NL-->
+| align="right"|'''1''' <!--NT-->
+| align="right"|'''1''' <!--YK-->
+| align="right"|'''264''' <!--Canada/Total-->
+|-
+|colspan=16|'''Parties that won no seats:'''
+{{Canadian party colour|CA|Independent|row}}
+| Unknown 
+|  Vote:
+| align="right"|0.1 <!--BC-->
+| align="right"|0.2 <!--Alb-->
+| align="right"|0.1 <!--Sask-->
+| align="right"|0.3 <!--Man-->
+| align="right"|0.1 <!--Ont-->
+| align="right"|0.7 <!--Que-->
+| align="right"|0.4 <!--NB-->
+| align="right"|0.1 <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|0.9 <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.3 <!--Canada/Total-->
+{{Canadian party colour|CA|Rhinoceros (historical)|row-name}}
+|  Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|0.1<!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|xx <!--Canada/Total-->
+|}
+
+xx - less than 0.05% of the popular vote
+
+==See also==
+{{Portal|Canada|Politics}} 
+*[[29th Canadian Parliament]]
+*[[List of Canadian federal general elections]]
+*[[List of political parties in Canada]]
+*[[Progressive Conservative Party of Canada candidates in the 1972 Canadian federal election]]
+*[[Social Credit Party of Canada candidates, 1972 Canadian federal election]]
+
+==References==
+{{reflist}}
+
+;Party platforms
+{{refbegin}}
+* {{cite book |author1=Liberal Party of Canada |title=Together...The Land is Strong |date=1972 |publisher=Liberal Party of Canada |url=https://www.poltext.org/sites/poltext.org/files/plateformesV2/Canada/CAN_PL_1972_LIB_en.pdf |oclc=1000921684}}
+* {{cite book |author1=Social Credit Party of Canada |title=Platform of the Social Credit Party of Canada |date=1972 |publisher=Social Credit Party of Canada |url=https://www.poltext.org/sites/poltext.org/files/plateformesV2/Canada/CAN_PL_1972_SC_en.pdf |oclc=243480055}}
+* {{cite book |author1=Progressive Conservative Party of Canada |title=P.C. |date=1972 |publisher=Progressive Conservative Party of Canada |url=https://www.poltext.org/sites/poltext.org/files/plateformesV2/Canada/CAN_PL_1972_PC_en.pdf}}
+{{refend}}
+
+== Further reading ==
+* {{cite book |last1=LeDuc |first1=Lawrence |last2=Pammett |first2=Jon H. |last3=McKenzie |first3=Judith L. |last4=Turcotte |first4=André |title=Dynasties and Interludes: Past and Present in Canadian Electoral Politics |date=2010 |publisher=Dundurn Press |location=Toronto |isbn=978-1-55488-886-3 |url=https://archive.org/details/dynastiesinterlu0000unse |url-access=registration}}
+* {{cite report |author1=Canada, Chief Electoral Officer |title=Twenty-Ninth General Election, 1972: Report of the Chief Electoral Officer |date=1972 |publisher=Queen's Printer |location=Ottawa |url=https://archive.org/details/31761115529711}}
+
+{{Canada elections}}
+{{Pierre Trudeau}}
+
+[[Category:1972 Canadian federal election| ]]
+[[Category:1972 elections in Canada|Federal]]
+[[Category:Canadian federal elections by year|1972]]
+[[Category:October 1972 in Canada|Federal election]]

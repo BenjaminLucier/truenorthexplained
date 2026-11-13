@@ -1,0 +1,496 @@
+{{Short description|none}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 1891 Canadian federal election
+| country = Canada
+| flag_year = 1868
+| type = parliamentary
+| ongoing = no
+| party_colour = no
+| party_name = no
+| previous_election = 1887 Canadian federal election
+| previous_year = 1887
+| next_election = 1896 Canadian federal election
+| next_year = 1896
+| seats_for_election = 215 seats in the [[House of Commons of Canada|House of Commons]]
+| majority_seats = 108
+| turnout = 64.4%<ref>{{cite web|title=Voter Turnout at Federal Elections and Referendums
+|url=http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|website=Elections Canada|access-date=10 March 2019}}</ref> ({{decrease}} 5.7 [[Percentage Point|pp]])
+| election_date = March 5, 1891
+| elected_members = 7th Canadian Parliament
+| outgoing_members = 6th Canadian Parliament
+| image1 = Prime Minister Sir John Alexander Macdonald Nov 1833 Topley portrait (cropped)3.jpg
+| colour1 = {{Canadian party colour|CA|Conservative (historical)|nohash}}
+| leader1 = [[John A. Macdonald]]
+| leader_since1 = July 1, 1867
+| party1 = {{Canadian party colour|CA|Conservative (historical)|name}}
+| leaders_seat1 = [[Kingston (federal electoral district)|Kingston]]
+| last_election1 = 122 seats, 47.4%
+| seats1 = '''117'''
+| seat_change1 = {{decrease}} 5
+| popular_vote1 = '''376,518'''
+| percentage1 = '''48.6%'''{{efn|Popular vote is combination of Conservative and Liberal-Conservative tallies.}}
+| swing1 = {{increase}} 1.2 [[Percentage Point|pp]]
+| image2 = Wilfrid Laurier 1890 - cropped (cropped).jpg
+| colour2 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader2 = [[Wilfrid Laurier]]
+| leader_since2 = June 2, 1887
+| party2 = {{Canadian party colour|CA|Liberal|name}}
+| leaders_seat2 = [[Quebec East]]{{efn|Laurier also ran in [[Richmond—Wolfe]], where he was defeated.}}
+| last_election2 = 80 seats, 43.1%
+| seats2 = 90
+| seat_change2 = {{increase}} 10
+| popular_vote2 = 350,512
+| percentage2 = 45.2%
+| swing2 = {{increase}} 2.1 [[Percentage Point|pp]]
+| title = Prime Minister
+| posttitle = Prime Minister after election
+| before_election = [[John A. Macdonald]]
+| before_party = {{Canadian party colour|CA|Conservative (historical)|name}}
+| after_election = [[John A. Macdonald]]
+| after_party = {{Canadian party colour|CA|Conservative (historical)|name}}
+| map_image = Canada 1891 Federal Election.svg
+| map_size = 380x100
+| map_caption = 1891 Canadian electoral map
+| map2_image = Chambre des Communes 1891.png
+| map2_size = 380px
+| map2_caption = The Canadian parliament after the 1891 election
+| image2_size = x200px
+| image2_upright = 
+| image1_size = x200px
+}}
+The '''1891 Canadian federal election''' was held on March 5, 1891, to elect members of the [[House of Commons of Canada]] of the [[7th Canadian Parliament|7th Parliament]] of [[Canada]]. It was won by the [[Conservative Party of Canada (historical)|Conservative Party]] of [[Prime Minister of Canada|Prime Minister]] Sir [[John A. Macdonald]]. 
+[[File:John A Macdonald election poster 1891.jpg|upright|thumb|An election poster in support of the [[Conservative Party of Canada (historical)|Conservative]] party from 1891.]]
+The main issue of the 1891 campaign was Macdonald's [[National Policy]], a policy of protective tariffs. The Liberals supported [[reciprocity (Canadian politics)|reciprocity]] (free trade) with the [[United States]]. Canadian voters would return to the issue of free trade 20 years later in the [[1911 Canadian federal election|1911 federal election]].
+
+Macdonald led a Conservative campaign emphasizing stability, and retained the Conservatives' majority in the [[House of Commons of Canada|House of Commons]]. It was a close election and he campaigned hard. Macdonald died a few months after the election, which led to his succession by four different Conservative Prime Ministers until the [[1896 Canadian federal election|1896 election]].
+
+It was [[Wilfrid Laurier]]'s first election as leader of the [[Liberal Party of Canada|Liberals]]. Although he lost the election, he increased the Liberals' support. He returned in 1896 to win a solid majority, despite losing the popular vote.
+
+The [[Quebec nationalism|Nationalist Party]] won a seat in Quebec. Dorchester riding elected [[Cyrille-Émile Vaillancourt]].<ref>{{cite web | url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=6267 | title=Profile }}</ref>
+
+==National results ==
+[[File:1891 Canadian parliament.svg|center|300px]]
+
+{| class="wikitable"
+!rowspan=2 colspan=2|Party
+!rowspan=2|Party leader
+!rowspan=2|# of <br />candidates
+!colspan=3|Seats
+!colspan=3|Popular vote
+|- bgcolor="CCCCCC"
+|align="center"|[[1887 Canadian federal election|1887]]
+|align="center"|'''Elected'''
+|align="center"|Change
+|align="center"|#
+|align="center"|%
+|align="center"|Change
+{{Canadian party colour|CA|PC|row}}
+| [[Conservative Party of Canada (historical)|Conservative]]
+| rowspan=2| [[John A. Macdonald]]
+|align="right"| 187
+|align="right"|  87
+|align="right"|  '''97'''
+|align="right"|   +11.5%
+|align="right"|  332,961
+|align="right"|   42.96%
+|align="right"|  +2.80pp
+{{Canadian party colour|CA|PC|row}}
+| [[Liberal-Conservative Party|Liberal-Conservative]]
+|align="right"|  25
+|align="right"| 24
+|align="right"|  '''20'''
+|align="right"|   -16.7%
+|align="right"|   43,557
+|align="right"|    5.62%
+|align="right"|   -1.64pp
+{{Canadian party colour|CA|Liberal|row}}
+| [[Liberal Party of Canada|Liberal]]
+|align="center"| [[Wilfrid Laurier]] 
+|align="right"| 194
+|align="right"|79
+|align="right"| '''90'''
+|align="right"| +13.9%
+|align="right"| 350,512
+|align="right"|  45.22%
+|align="right"|  +2.09pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Independent Conservative
+|align="right"|    4
+|align="right"| 3
+|align="right"|  '''3'''
+|align="right"|   -
+|align="right"|  15,045
+|align="right"|    1.94%
+|align="right"|    +0.38pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Independent 
+|align="right"|   4
+|align="right"|    3
+|align="right"|   ''' 2'''
+|align="right"|   -66.7%
+|align="right"|   6,357
+|align="right"|     0.82%
+|align="right"|    -0.42pp
+{{Canadian party colour|CA|Independent|row}}
+| Nationalist
+|align="center"| 
+|align="right"|  1
+|align="right"|   1
+|align="right"|  '''1'''
+|align="right"|    -
+|align="right"|  -<sup>1</sup>
+|align="right"|     0.00%
+|align="right"|     -0.66pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Independent Liberal
+|align="right"|    2
+|align="right"|     5
+|align="right"|  '''1'''
+|align="right"|    -80%
+|align="right"|    5,573 
+|align="right"|     0.72%
+|align="right"|      -1.45pp
+{{Canadian party colour|CA|PC|row}}
+| [[Nationalist Conservative]]
+|align="center"| 
+|align="right"|  1
+|align="right"|   2
+|align="right"| ''' 1'''
+|align="right"|   -50%
+|align="right"|  1,271
+|align="right"|   0.16%
+|align="right"|    -0.32pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Unknown
+|align="right"|      14
+|align="right"|     1
+|align="right"|     -
+|align="right"|   -100%
+|align="right"|     16,890
+|align="right"|    2.18%
+|align="right"|   -1.15pp
+{{Canadian party colour|CA|Independent|row}}
+| [[Equal Rights Party (Canada)|Equal Rights]]
+|align="center"| 
+|align="right"|    2
+|align="right"|  *
+|align="right"|    -
+|align="right"|  *
+|align="right"|    2,455
+|align="right"|    0.32%
+|align="right"|  *
+{{Canadian party colour|CA|Independent|row}}
+| Progressive
+|align="center"| 
+|align="right"|    2
+|align="right"|  *
+|align="right"|  -
+|align="right"|  *
+|align="right"|  468
+|align="right"|  0.06%
+|align="right"|  *
+|- 
+! colspan=3 |Total
+!align="right"| 436
+!align="right"|  205
+!align="right"|  215
+!align="right"|  +4.9%
+!align="right"|   775,089 
+!align="right"|  100%  
+!align="right"| &nbsp;
+|-
+| align="center" colspan=10|'''Sources:''' http://www.elections.ca -- [https://web.archive.org/web/20090609211221/http://www2.parl.gc.ca/Sites/LOP/HFER/hfer.asp?Language=E History of Federal Ridings since 1867]
+|-
+|}
+
+'''Notes:'''
+
+<nowiki>*</nowiki> Party did not nominate candidates in the previous election.
+
+<sup>1</sup> One Nationalist candidate was elected by acclamation.
+
+
+'''Acclamations:'''
+
+The following Members of Parliament were elected by acclamation;
+* British Columbia: 1 Conservative, 1 Liberal-Conservative
+* Manitoba: 1 Conservative
+* Ontario: 1 Conservative
+* Quebec: 1 Conservative, 2 Liberal, 1 Nationalist
+
+==Results by province==
+{{Main|Results of the 1891 Canadian federal election}}
+{| class="wikitable"
+! align="center" colspan=3|Party name
+! align="center"|[[British Columbia|BC]]
+! align="center"|[[Northwest Territories|NWT]]
+! align="center"|[[Manitoba|MB]]
+! align="center"|[[Ontario|ON]]
+! align="center"|[[Quebec|QC]]
+! align="center"|[[New Brunswick|NB]]
+! align="center"|[[Nova Scotia|NS]]
+! align="center"|[[Prince Edward Island|PE]]
+! align="center"|Total
+{{Canadian party colour|CA|PC|row}}
+ | rowspan=2|[[Conservative Party of Canada (historical)|Conservative]]
+| Seats:
+| align="right"| 5 <!--BC-->
+| align="right"| 4      <!--NWT-->
+| align="right"|   1  <!--Man-->
+| align="right"| 39<!--Ont-->
+| align="right"| 24 <!--Que-->
+| align="right"| 10<!--NB-->
+| align="right"|  12  <!--NS-->
+| align="right"|   2<!--PEI-->
+| align="right"|  97<!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| Popular vote (%):
+| align="right"| 71.6<!--BC-->
+| align="right"| 81.0<!--NWT-->
+| align="right"| 12.6<!--Man-->
+| align="right"| 42.2<!--Ont-->
+| align="right"| 45.4<!--Que-->
+| align="right"| 48.9<!--NB-->
+| align="right"| 41.9<!--NS-->
+| align="right"| 48.5<!--PEI-->
+| align="right"| 43.0<!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| rowspan=2 |[[Liberal-Conservative Party|Liberal-Conservative]]
+| Seats:
+| align="right"| 1  <!--BC-->
+| align="right"| &nbsp;      <!--NWT-->
+| align="right"|  3    <!--Man-->
+| align="right"|  7<!--Ont-->
+| align="right"|  3   <!--Que-->
+| align="right"| 2 <!--NB-->
+| align="right"|  4    <!--NS-->
+| align="right"|   &nbsp;  <!--PEI-->
+| align="right"|  20<!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| Vote (%):
+| align="right"| &nbsp; <!--BC-->
+| align="right"| &nbsp;      <!--NWT-->
+| align="right"| 40.5 <!--Man-->
+| align="right"| 5.3<!--Ont-->
+| align="right"| 3.0 <!--Que-->
+| align="right"|  3.7 <!--NB-->
+| align="right"|  10.8<!--NS-->
+| align="right"|  &nbsp; <!--PEI-->
+| align="right"|  5.6<!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| rowspan=2|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| align="right"|  -   <!--BC-->
+| align="right"|   -    <!--NWT-->
+| align="right"|  1  <!--Man-->
+| align="right"|    44<!--Ont-->
+| align="right"|   33 <!--Que-->
+| align="right"|  4 <!--NB-->
+| align="right"|   5 <!--NS-->
+| align="right"|   3 <!--PEI-->
+| align="right"|    90<!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| Vote (%):
+| align="right"| 28.4  <!--BC-->
+| align="right"|  19.0 <!--NWT-->
+| align="right"| 46.9  <!--Man-->
+| align="right"| 49.1  <!--Ont-->
+| align="right"|  45.9 <!--Que-->
+| align="right"|  41.3 <!--NB-->
+| align="right"| 43.6  <!--NS-->
+| align="right"| 41.0  <!--PEI-->
+| align="right"|   45.2<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2 |Independent Conservative
+| Seats:
+| align="right"| &nbsp;  <!--BC-->
+| align="right"| &nbsp;   <!--NWT-->
+| align="right"|  &nbsp;    <!--Man-->
+| align="right"| 1<!--Ont-->
+| align="right"|  2     <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"|  &nbsp;    <!--NS-->
+| align="right"| &nbsp;  <!--PEI-->
+| align="right"| 3 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote (%):
+| align="right"| &nbsp;  <!--BC-->
+| align="right"| &nbsp;   <!--NWT-->
+| align="right"| &nbsp;  <!--Man-->
+| align="right"| 1.3<!--Ont-->
+| align="right"|  5.9    <!--Que-->
+| align="right"| &nbsp;   <!--NB-->
+| align="right"| &nbsp;   <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| 1.9  <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2 | Independent
+| Seats:
+| align="right"| &nbsp;     <!--BC-->
+| align="right"| &nbsp;    <!--NWT-->
+| align="right"| &nbsp;  <!--Man-->
+| align="right"| 1 <!--Ont-->
+| align="right"| 1     <!--Que-->
+| align="right"| - <!--NB-->
+| align="right"|  &nbsp;    <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|   2<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote (%):
+| align="right"|  &nbsp;    <!--BC-->
+| align="right"| &nbsp; <!--NWT-->
+| align="right"| &nbsp;  <!--Man-->
+| align="right"| 0.7  <!--Ont-->
+| align="right"| 1.2    <!--Que-->
+| align="right"| 3.2 <!--NB-->
+| align="right"| &nbsp;  <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| 0.8 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2 |Nationalist
+| Seats:
+| align="right"| &nbsp;  <!--BC-->
+| align="right"| &nbsp;   <!--NWT-->
+| align="right"|  &nbsp;    <!--Man-->
+| align="right"|  &nbsp; <!--Ont-->
+| align="right"| 1<!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"|  &nbsp;    <!--NS-->
+| align="right"| &nbsp;  <!--PEI-->
+| align="right"|  1<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote (%):
+| align="right"| &nbsp; <!--BC-->
+| align="right"| &nbsp;      <!--NWT-->
+| align="right"| &nbsp;   <!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"| - <!--Que-->
+| align="right"| &nbsp;    <!--NB-->
+| align="right"| &nbsp;       <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|   -<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| rowspan=2 | Independent Liberal
+| Seats:
+| align="right"| &nbsp;     <!--BC-->
+| align="right"| &nbsp;        <!--NWT-->
+| align="right"| &nbsp;  <!--Man-->
+| align="right"|  &nbsp;  <!--Ont-->
+| align="right"| &nbsp;    <!--Que-->
+| align="right"|-      <!--NB-->
+| align="right"|  &nbsp;        <!--NS-->
+| align="right"|  1  <!--PEI-->
+| align="right"|   1<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Vote (%):
+| align="right"|  &nbsp;    <!--BC-->
+| align="right"| &nbsp;     <!--NWT-->
+| align="right"| &nbsp;  <!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"| &nbsp;    <!--Que-->
+| align="right"| 2.9     <!--NB-->
+| align="right"| &nbsp;     <!--NS-->
+| align="right"|  10.5 <!--PEI-->
+| align="right"| 0.7 <!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| rowspan=2 |Nationalist Conservative
+| Seats:
+| align="right"| &nbsp;  <!--BC-->
+| align="right"| &nbsp;   <!--NWT-->
+| align="right"|  &nbsp;    <!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"|   1   <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"|  &nbsp;    <!--NS-->
+| align="right"| &nbsp;  <!--PEI-->
+| align="right"|  1  <!--Canada/Total-->
+{{Canadian party colour|CA|PC|row}}
+| Vote (%):
+| align="right"| &nbsp;  <!--BC-->
+| align="right"| &nbsp;   <!--NWT-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"|  &nbsp; <!--Ont-->
+| align="right"| 0.7    <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"| &nbsp;   <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|   0.2 <!--Canada/Total-->
+|- 
+| colspan=3|'''Total seats''' 
+| align="right"|''' 6 ''' <!--BC-->
+| align="right"| ''' 4 '''  <!--NWT-->
+| align="right"|''' 5 ''' <!--Man-->
+| align="right"| ''' 92 '''<!--Ont-->
+| align="right"|''' 65 ''' <!--Que-->
+| align="right"|'''  16''' <!--NB-->
+| align="right"|''' 21''' <!--NS-->
+| align="right"| ''' 6 '''<!--PEI-->
+| align="right"| ''' 215  '''<!--Canada/Total-->
+|-
+|colspan=12|'''Parties that won no seats:'''
+{{Canadian party colour|CA|Independent|row}}
+| Unknown
+| Vote (%):
+| align="right"| &nbsp;    <!--BC-->
+| align="right"| &nbsp;   <!--NWT-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"| 2.0    <!--Ont-->
+| align="right"| 3.8    <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"| 3.1 <!--NS-->
+| align="right"| &nbsp;   <!--PEI-->
+| align="right"| 2.2<!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+|Equal Rights
+| Vote (%):
+| align="right"| &nbsp;  <!--BC-->
+| align="right"| &nbsp;   <!--NWT-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"| 0.7 <!--Ont-->
+| align="right"| &nbsp;    <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"| &nbsp;   <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"|  0.3 <!--Canada/Total-->
+{{Canadian party colour|CA|Independent|row}}
+| Progressive
+| Vote (%):
+| align="right"|  &nbsp;    <!--BC-->
+| align="right"| &nbsp;   <!--NWT-->
+| align="right"| &nbsp;  <!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"| &nbsp;    <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"| 0.5   <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| 0.1  <!--Canada/Total-->
+|-
+|}
+
+==See also==
+{{Portal|Canada|Politics}} 
+*[[List of Canadian federal general elections]]
+*[[List of political parties in Canada]]
+*[[7th Canadian Parliament]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+== Further reading ==
+* {{cite book |last1=Pennington |first1=Christopher John |title=The Destiny of Canada: Macdonald, Laurier, and the Election of 1891 |date=2011 |publisher=Allen Lane Canada |location=Toronto |isbn=978-0-670-06621-6 |url=https://archive.org/details/destinyofcanadam0000penn_u0g2 |url-access=registration}}
+* {{cite book |last1=Chapleau |first1=Samuel E. St. O. |title=Return on the Seventh General Election for the House of Commons of Canada |date=1891 |publisher=Hunter, Rose & Company |url=https://books.google.ca/books?id=SSAWAAAAYAAJ}}
+
+==External links==
+*[https://web.archive.org/web/20061206011225/http://www.histori.ca/prodev/article.do?id=15356 The Election of 1891: A Question of Loyalty, by James Marsh]
+
+{{election canada}}
+{{John A. Macdonald}}
+{{Wilfrid Laurier}}
+
+[[Category:1891 Canadian federal election| ]]
+[[Category:Canadian federal elections by year|1891]]
+[[Category:March 1891 in Canada]]

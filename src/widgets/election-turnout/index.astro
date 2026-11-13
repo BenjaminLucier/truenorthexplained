@@ -1,0 +1,219 @@
+---
+/**
+ * Voter turnout at every federal general election since 1867, with the
+ * milestones in who could vote. From src/data/elections/history.json:
+ * turnout is Elections Canada's; each milestone is checked against
+ * Elections Canada's "A History of the Vote in Canada".
+ *
+ *   <tn-widget name="election-turnout"></tn-widget>
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import ChartTip from "../../components/charts/ChartTip.astro";
+import Legend from "../../components/charts/Legend.astro";
+import TimePlot from "../../components/charts/TimePlot.astro";
+import { linePath } from "../../lib/charts";
+import { uniqueId } from "../../lib/ids";
+import { formatNumber } from "../../lib/reference";
+import {
+  ecTurnoutUrl,
+  electionBands,
+  elections,
+  formatDate,
+  historyMeta,
+  milestones,
+  pct,
+  voteHistoryUrl,
+  xOf,
+  xPct,
+} from "../../lib/election-history";
+
+const id = uniqueId(Astro, "turnout", "history");
+const H = 220;
+const Y0 = 50;
+const Y1 = 85;
+const y = (v: number) => H - ((v - Y0) / (Y1 - Y0)) * H;
+
+const pts = elections.map((e, i) => ({ e, i, x: electionBands[i]!.xc, yv: y(e.turnout) }));
+const line = linePath(pts.map((p) => [p.x, p.yv]));
+
+const peak = elections.reduce((a, b) => (b.turnout > a.turnout ? b : a));
+const low = elections.reduce((a, b) => (b.turnout < a.turnout ? b : a));
+const last = elections.at(-1)!;
+const lede = `Turnout peaked at ${pct(peak.turnout)} in ${peak.year} and fell to its lowest, ${pct(low.turnout)}, in ${low.year}. In ${last.year}, ${pct(last.turnout)} of registered electors voted.`;
+
+// A milestone in an election year sits on that election; otherwise mid-year.
+const marks = milestones.map((m, k) => {
+  const i = elections.findIndex((e) => e.year === m.year);
+  return { ...m, n: k + 1, x: i >= 0 ? electionBands[i]!.xc : xOf(m.year + 0.5) };
+});
+---
+
+<ChartCard
+  title="Voter turnout, 1867–2025"
+  lede={lede}
+  sources={[
+    { label: "Elections Canada, Voter Turnout at Federal Elections and Referendums", url: ecTurnoutUrl },
+    { label: "Elections Canada, A History of the Vote in Canada", url: voteHistoryUrl },
+  ]}
+  tableLabel="Show the data"
+>
+  <Legend
+    items={[
+      { label: "Ballots cast as a share of registered electors", color: "var(--tn-data-seq-5)", kind: "line" },
+      { label: "Change in who could vote", color: "var(--tn-text-muted)", kind: "dash" },
+    ]}
+  />
+
+  <tn-chart class="to mt-4 block">
+    <div class="ml-[2.25rem] relative h-5" aria-hidden="true">
+      {
+        marks.map((m) => (
+          <span
+            class="absolute top-0 grid size-4 -translate-x-1/2 place-items-center rounded-full bg-surface-sunken text-[10px] font-semibold leading-none text-primary"
+            style={`left: ${xPct(m.x)}`}
+          >
+            {m.n}
+          </span>
+        ))
+      }
+    </div>
+    <TimePlot
+      height={H}
+      yMin={Y0}
+      yMax={Y1}
+      yTicks={[50, 60, 70, 80]}
+      yFormat={(v) => `${v}%`}
+      label="Turnout by election; use the arrow keys to move between elections"
+    >
+      {marks.map((m) => <line x1={m.x} x2={m.x} y1="0" y2={H} class="to-mile" />)}
+      <path d={line} class="to-line" />
+      <Fragment slot="dots">
+        {
+          pts.map((p) => (
+            <circle cx={xPct(p.x)} cy={p.yv} r="3" class="to-dot" data-group={p.i} />
+          ))
+        }
+      </Fragment>
+      <Fragment slot="hits">
+        {
+          pts.map((p) => (
+            <rect
+              x={electionBands[p.i]!.x0}
+              width={electionBands[p.i]!.x1 - electionBands[p.i]!.x0}
+              y="0"
+              height={H}
+              class="tp-hit"
+              data-tip={`${id}-${p.i}`}
+              data-group={p.i}
+              role="img"
+              aria-label={`${p.e.year}: turnout ${pct(p.e.turnout)}.`}
+            />
+          ))
+        }
+      </Fragment>
+    </TimePlot>
+
+    <ol class="mt-4 grid gap-x-6 gap-y-2 text-xs text-secondary sm:grid-cols-2">
+      {
+        marks.map((m) => (
+          <li class="flex gap-2">
+            <span class="grid size-4 shrink-0 place-items-center rounded-full bg-surface-sunken text-[10px] font-semibold leading-none text-primary" aria-hidden="true">
+              {m.n}
+            </span>
+            <span>
+              <strong class="font-semibold text-primary">
+                {m.year}: {m.label}.
+              </strong>{" "}
+              {m.detail}
+            </span>
+          </li>
+        ))
+      }
+    </ol>
+
+    {
+      pts.map(({ e, i }) => (
+        <template id={`${id}-${i}`}>
+          <p class="ct-h">
+            {e.year}: {pct(e.turnout)} turnout
+          </p>
+          <p class="ct-sub">{formatDate(e.date)}</p>
+          <table class="ct-rows">
+            <tbody>
+              <tr>
+                <td>Ballots cast</td>
+                <td>{formatNumber(e.ballots)}</td>
+              </tr>
+              <tr>
+                <td>Registered electors</td>
+                <td>{formatNumber(e.electors)}</td>
+              </tr>
+            </tbody>
+          </table>
+          {e.turnoutNote && <p class="ct-sub">{e.turnoutNote}</p>}
+        </template>
+      ))
+    }
+    <ChartTip />
+  </tn-chart>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Election</th>
+          <th scope="col">Registered electors</th>
+          <th scope="col">Ballots cast</th>
+          <th scope="col">Turnout</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          elections.map((e) => (
+            <tr>
+              <th scope="row" class="font-normal">
+                {e.dateLabel}
+              </th>
+              <td>{formatNumber(e.electors)}</td>
+              <td>{formatNumber(e.ballots)}</td>
+              <td>{pct(e.turnout)}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <caption>
+        Elections Canada's figures. In early elections, polling took place over several weeks or even months, and many seats were won by acclamation, with no vote.
+        Data fetched {historyMeta.fetched}.
+      </caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+<style>
+  .to-line {
+    fill: none;
+    stroke: var(--tn-data-seq-5);
+    stroke-width: 2;
+    stroke-linejoin: round;
+    vector-effect: non-scaling-stroke;
+  }
+  .to-mile {
+    stroke: var(--tn-text-muted);
+    stroke-width: 1;
+    stroke-dasharray: 3 3;
+    vector-effect: non-scaling-stroke;
+  }
+  .to-dot {
+    fill: var(--tn-data-seq-5);
+    stroke: var(--tn-surface);
+    stroke-width: 1.5;
+  }
+  .to-dot.is-active {
+    r: 5;
+    stroke-width: 2;
+  }
+  .to :global(.tp-hit.is-active) {
+    fill: var(--tn-text-primary);
+    fill-opacity: 0.06;
+  }
+</style>

@@ -1,0 +1,3291 @@
+{
+  "_meta": {
+    "source": "Wikidata: holders of each \"Premier of …\" position (P39) with dates and party (P102); English Wikipedia premiers' infoboxes for missing dates and terms",
+    "url": "https://query.wikidata.org/",
+    "urls": [
+      "https://query.wikidata.org/",
+      "https://en.wikipedia.org/wiki/List_of_current_Canadian_first_ministers"
+    ],
+    "licence": "CC0 1.0 (Wikidata); CC BY-SA 4.0 (Wikipedia)",
+    "query": "P39 in {Q3401750, Q7240349, Q3401758, Q12270252, Q7240356, Q7240368, Q7240360, Q4377222, Q2560704, Q7240361, Q2911019, Q6578215, Q12270260} with P580/P582 (day precision); P102 for party",
+    "script": "scripts/data/premiers.ts",
+    "notes": [
+      "Each term's family follows src/lib/party-families.ts. Gaps are periods with no premier on record: before responsible government in the territories, or brief changeovers.",
+      "Party override: Ujjal Dosanjh was premier as leader of the BC NDP; Wikidata lists only his later federal party.",
+      "Party override: Stuart Garson led Manitoba's Liberal-Progressive coalition government; Wikidata lists only the federal Liberals.",
+      "British Columbia: Thomas Dufferin Pattullo's term started 1933-06-15 on record, before Simon Fraser Tolmie's ended (1933-11-15); using 1933-11-15.",
+      "New Brunswick, John Hamilton Gray: no dates on Wikidata or Wikipedia; left out.",
+      "New Brunswick, Peter Mitchell: no dates on Wikidata or Wikipedia; left out.",
+      "Newfoundland and Labrador, Frederick C. Alderdice: no dates on Wikidata or Wikipedia; left out.",
+      "Newfoundland and Labrador, Richard Squires: no dates on Wikidata or Wikipedia; left out.",
+      "Newfoundland and Labrador: Wikidata is behind; Tony Wakeham added as premier from 2025-10-29 (src/data/wikidata/provinces.json).",
+      "Northwest Territories, Frederick W. A. G. Haultain: two overlapping records of one term, merged.",
+      "Nova Scotia, James William Johnston: no dates on Wikidata or Wikipedia; left out.",
+      "Nova Scotia, James Boyle Uniacke: no dates on Wikidata or Wikipedia; left out.",
+      "Nova Scotia, William Young: no dates on Wikidata or Wikipedia; left out.",
+      "Nova Scotia, Joseph Howe: no dates on Wikidata or Wikipedia; left out.",
+      "Nunavut: Peter Taptuna's term started 2013-11-15 on record, before Eva Aariak's ended (2013-11-19); using 2013-11-19.",
+      "Nunavut: Wikidata is behind; John Main added as premier from 2025-11-20 (src/data/wikidata/provinces.json).",
+      "Prince Edward Island, Rob Lantz: Wikidata says the term began 2025-02-21, Wikipedia 2026-02-09. Using Wikidata.",
+      "Prince Edward Island, Joseph Hensley: no dates on Wikidata or Wikipedia; left out.",
+      "Prince Edward Island, George Coles: no dates on Wikidata or Wikipedia; left out.",
+      "Prince Edward Island, James Colledge Pope: no dates on Wikidata or Wikipedia; left out.",
+      "Prince Edward Island, Robert Haythorne: no dates on Wikidata or Wikipedia; left out.",
+      "Prince Edward Island, John Holl: no dates on Wikidata or Wikipedia; left out.",
+      "Prince Edward Island, Edward Palmer: no dates on Wikidata or Wikipedia; left out.",
+      "Prince Edward Island: Alexander Warburton's term started 1897-10-01 on record, before Frederick Peters's ended (1897-10-27); using 1897-10-27.",
+      "Prince Edward Island: Wikidata is behind; Rob Lantz added as premier from 2026-02-09 (src/data/wikidata/provinces.json).",
+      "Yukon, Chris Pearson: two overlapping records of one term, merged.",
+      "Yukon: Wikidata is behind; Currie Dixon added as premier from 2025-11-22 (src/data/wikidata/provinces.json)."
+    ],
+    "fetched": "2026-11-13"
+  },
+  "provinces": [
+    {
+      "slug": "alberta",
+      "name": "Alberta",
+      "type": "province",
+      "joined": "1905-09-01",
+      "terms": [
+        {
+          "name": "Alexander Cameron Rutherford",
+          "qid": "Q1381136",
+          "start": "1905-09-02",
+          "end": "1910-05-26",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Arthur Sifton",
+          "qid": "Q363738",
+          "start": "1910-05-26",
+          "end": "1917-10-30",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Charles Stewart",
+          "qid": "Q1066165",
+          "start": "1917-10-30",
+          "end": "1921-08-13",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Herbert Greenfield",
+          "qid": "Q1000799",
+          "start": "1921-08-13",
+          "end": "1925-11-23",
+          "party": "United Farmers",
+          "family": "progressive",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Edward Brownlee",
+          "qid": "Q630504",
+          "start": "1925-11-23",
+          "end": "1934-07-10",
+          "party": "United Farmers",
+          "family": "progressive",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Richard Gavin Reid",
+          "qid": "Q1382650",
+          "start": "1934-07-10",
+          "end": "1935-09-03",
+          "party": "United Farmers",
+          "family": "progressive",
+          "source": "Wikidata"
+        },
+        {
+          "name": "William Aberhart",
+          "qid": "Q1311454",
+          "start": "1935-09-03",
+          "end": "1943-05-23",
+          "party": "Social Credit",
+          "family": "socred",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Ernest Manning",
+          "qid": "Q1356461",
+          "start": "1943-05-31",
+          "end": "1968-12-12",
+          "party": "Social Credit",
+          "family": "socred",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Harry Strom",
+          "qid": "Q180079",
+          "start": "1968-12-12",
+          "end": "1971-09-10",
+          "party": "Social Credit",
+          "family": "socred",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Peter Lougheed",
+          "qid": "Q1378274",
+          "start": "1971-09-10",
+          "end": "1985-11-01",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Don Getty",
+          "qid": "Q364646",
+          "start": "1985-11-01",
+          "end": "1992-12-14",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Ralph Klein",
+          "qid": "Q1395297",
+          "start": "1992-12-14",
+          "end": "2006-12-14",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Ed Stelmach",
+          "qid": "Q1282534",
+          "start": "2006-12-14",
+          "end": "2011-10-07",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Alison Redford",
+          "qid": "Q459603",
+          "start": "2011-10-07",
+          "end": "2014-03-23",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Dave Hancock",
+          "qid": "Q5228907",
+          "start": "2014-03-23",
+          "end": "2014-09-15",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Jim Prentice",
+          "qid": "Q364303",
+          "start": "2014-09-15",
+          "end": "2015-05-24",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Rachel Notley",
+          "qid": "Q7279347",
+          "start": "2015-05-24",
+          "end": "2019-04-30",
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Jason Kenney",
+          "qid": "Q3162959",
+          "start": "2019-04-30",
+          "end": "2022-10-11",
+          "party": "United Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Danielle Smith",
+          "qid": "Q5219439",
+          "start": "2022-10-11",
+          "end": null,
+          "party": "United Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        }
+      ],
+      "gaps": [
+        {
+          "start": "1905-09-01",
+          "end": "1905-09-02"
+        },
+        {
+          "start": "1943-05-23",
+          "end": "1943-05-31"
+        }
+      ]
+    },
+    {
+      "slug": "british-columbia",
+      "name": "British Columbia",
+      "type": "province",
+      "joined": "1871-07-20",
+      "terms": [
+        {
+          "name": "John Foster McCreight",
+          "qid": "Q1002179",
+          "start": "1871-11-14",
+          "end": "1872-12-23",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Amor De Cosmos",
+          "qid": "Q361295",
+          "start": "1872-12-23",
+          "end": "1874-02-09",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "George Anthony Walkem",
+          "qid": "Q182697",
+          "start": "1874-02-11",
+          "end": "1876-01-27",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Andrew Charles Elliott",
+          "qid": "Q504071",
+          "start": "1876-02-01",
+          "end": "1878-02-11",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "George Anthony Walkem",
+          "qid": "Q182697",
+          "start": "1878-06-25",
+          "end": "1882-06-13",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Robert Beaven",
+          "qid": "Q1765680",
+          "start": "1882-06-13",
+          "end": "1883-01-29",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "William Smithe",
+          "qid": "Q2580601",
+          "start": "1883-01-29",
+          "end": "1887-03-28",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Alexander Edmund Batson Davie",
+          "qid": "Q2642030",
+          "start": "1887-04-01",
+          "end": "1889-08-01",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Robson",
+          "qid": "Q361267",
+          "start": "1889-08-02",
+          "end": "1892-06-29",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Theodore Davie",
+          "qid": "Q2418636",
+          "start": "1892-07-02",
+          "end": "1895-03-02",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Herbert Turner",
+          "qid": "Q596189",
+          "start": "1895-03-04",
+          "end": "1898-08-08",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Charles Augustus Semlin",
+          "qid": "Q361816",
+          "start": "1898-08-15",
+          "end": "1900-02-27",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Joseph Martin",
+          "qid": "Q333913",
+          "start": "1900-02-28",
+          "end": "1900-06-14",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "James Dunsmuir",
+          "qid": "Q1597705",
+          "start": "1900-06-15",
+          "end": "1902-11-21",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Edward Gawler Prior",
+          "qid": "Q1292320",
+          "start": "1902-11-21",
+          "end": "1903-06-01",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Richard McBride",
+          "qid": "Q1731455",
+          "start": "1903-06-01",
+          "end": "1915-12-15",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "William John Bowser",
+          "qid": "Q589533",
+          "start": "1915-12-15",
+          "end": "1916-11-23",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Harlan Carey Brewster",
+          "qid": "Q1473329",
+          "start": "1916-11-23",
+          "end": "1918-03-01",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Oliver",
+          "qid": "Q1701251",
+          "start": "1918-03-06",
+          "end": "1927-08-17",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Duncan MacLean",
+          "qid": "Q1699855",
+          "start": "1927-08-20",
+          "end": "1928-08-20",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Simon Fraser Tolmie",
+          "qid": "Q2287486",
+          "start": "1928-08-21",
+          "end": "1933-11-15",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Thomas Dufferin Pattullo",
+          "qid": "Q2423515",
+          "start": "1933-11-15",
+          "end": "1941-12-09",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Hart",
+          "qid": "Q1700384",
+          "start": "1941-12-09",
+          "end": "1947-12-29",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Byron Ingemar Johnson",
+          "qid": "Q1018609",
+          "start": "1947-12-29",
+          "end": "1952-08-01",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "W. A. C. Bennett",
+          "qid": "Q2536629",
+          "start": "1952-08-01",
+          "end": "1972-09-15",
+          "party": "Social Credit",
+          "family": "socred",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Dave Barrett",
+          "qid": "Q732693",
+          "start": "1972-09-15",
+          "end": "1975-12-22",
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Bill Bennett",
+          "qid": "Q360860",
+          "start": "1975-12-22",
+          "end": "1986-08-06",
+          "party": "Social Credit",
+          "family": "socred",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Bill Vander Zalm",
+          "qid": "Q730975",
+          "start": "1986-08-06",
+          "end": "1991-04-02",
+          "party": "Social Credit",
+          "family": "socred",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Rita Johnston",
+          "qid": "Q529221",
+          "start": "1991-04-02",
+          "end": "1991-11-05",
+          "party": "Social Credit",
+          "family": "socred",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Mike Harcourt",
+          "qid": "Q1927699",
+          "start": "1991-11-05",
+          "end": "1996-02-22",
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Glen Clark",
+          "qid": "Q1530725",
+          "start": "1996-02-22",
+          "end": "1999-08-25",
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Dan Miller",
+          "qid": "Q1159124",
+          "start": "1999-08-25",
+          "end": "2000-02-24",
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Ujjal Dosanjh",
+          "qid": "Q2474314",
+          "start": "2000-02-24",
+          "end": "2001-06-05",
+          "party": "BC NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Gordon Campbell",
+          "qid": "Q627888",
+          "start": "2001-06-05",
+          "end": "2011-03-14",
+          "party": "BC Liberal",
+          "family": "coalition",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Christy Clark",
+          "qid": "Q460064",
+          "start": "2011-03-14",
+          "end": "2017-07-18",
+          "party": "BC Liberal",
+          "family": "coalition",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Horgan",
+          "qid": "Q6239861",
+          "start": "2017-07-18",
+          "end": "2022-11-18",
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "David Eby",
+          "qid": "Q5233252",
+          "start": "2022-11-18",
+          "end": null,
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        }
+      ],
+      "gaps": [
+        {
+          "start": "1871-07-20",
+          "end": "1871-11-14"
+        },
+        {
+          "start": "1874-02-09",
+          "end": "1874-02-11"
+        },
+        {
+          "start": "1876-01-27",
+          "end": "1876-02-01"
+        },
+        {
+          "start": "1878-02-11",
+          "end": "1878-06-25"
+        },
+        {
+          "start": "1887-03-28",
+          "end": "1887-04-01"
+        },
+        {
+          "start": "1889-08-01",
+          "end": "1889-08-02"
+        },
+        {
+          "start": "1892-06-29",
+          "end": "1892-07-02"
+        },
+        {
+          "start": "1895-03-02",
+          "end": "1895-03-04"
+        },
+        {
+          "start": "1898-08-08",
+          "end": "1898-08-15"
+        },
+        {
+          "start": "1900-02-27",
+          "end": "1900-02-28"
+        },
+        {
+          "start": "1900-06-14",
+          "end": "1900-06-15"
+        },
+        {
+          "start": "1918-03-01",
+          "end": "1918-03-06"
+        },
+        {
+          "start": "1927-08-17",
+          "end": "1927-08-20"
+        },
+        {
+          "start": "1928-08-20",
+          "end": "1928-08-21"
+        }
+      ]
+    },
+    {
+      "slug": "manitoba",
+      "name": "Manitoba",
+      "type": "province",
+      "joined": "1870-07-15",
+      "terms": [
+        {
+          "name": "Alfred Boyd",
+          "qid": "Q2644744",
+          "start": "1870-09-16",
+          "end": "1871-12-14",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Marc-Amable Girard",
+          "qid": "Q506134",
+          "start": "1871-12-14",
+          "end": "1872-03-14",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Henry Joseph Clarke",
+          "qid": "Q1606929",
+          "start": "1872-03-14",
+          "end": "1874-07-08",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Marc-Amable Girard",
+          "qid": "Q506134",
+          "start": "1874-07-08",
+          "end": "1874-12-02",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikipedia list of premiers"
+        },
+        {
+          "name": "Robert Atkinson Davis",
+          "qid": "Q1272966",
+          "start": "1874-12-03",
+          "end": "1878-10-16",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Norquay",
+          "qid": "Q1261300",
+          "start": "1878-10-16",
+          "end": "1887-12-24",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "David Howard Harrison",
+          "qid": "Q1174772",
+          "start": "1887-12-26",
+          "end": "1888-01-19",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Thomas Greenway",
+          "qid": "Q2424330",
+          "start": "1888-01-19",
+          "end": "1900-01-10",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Hugh John Macdonald",
+          "qid": "Q541433",
+          "start": "1900-01-10",
+          "end": "1900-10-29",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Rodmond Roblin",
+          "qid": "Q1434828",
+          "start": "1900-10-29",
+          "end": "1915-05-12",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Tobias Norris",
+          "qid": "Q2437944",
+          "start": "1915-05-12",
+          "end": "1922-08-08",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata + Wikipedia"
+        },
+        {
+          "name": "John Bracken",
+          "qid": "Q464450",
+          "start": "1922-08-08",
+          "end": "1943-01-14",
+          "party": "Progressive",
+          "family": "progressive",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Stuart Garson",
+          "qid": "Q2357880",
+          "start": "1943-01-14",
+          "end": "1948-11-13",
+          "party": "Manitoba Liberal-Progressive",
+          "family": "progressive",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Douglas Lloyd Campbell",
+          "qid": "Q1252386",
+          "start": "1948-11-13",
+          "end": "1958-06-30",
+          "party": "Liberal-Progressive",
+          "family": "progressive",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Dufferin Roblin",
+          "qid": "Q447011",
+          "start": "1958-06-30",
+          "end": "1967-11-27",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Walter Weir",
+          "qid": "Q2516612",
+          "start": "1967-11-27",
+          "end": "1969-07-15",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Edward Schreyer",
+          "qid": "Q1207881",
+          "start": "1969-07-15",
+          "end": "1977-11-24",
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Sterling Lyon",
+          "qid": "Q703963",
+          "start": "1977-11-24",
+          "end": "1981-11-17",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Howard Pawley",
+          "qid": "Q262682",
+          "start": "1981-11-30",
+          "end": "1988-05-09",
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Gary Filmon",
+          "qid": "Q1494847",
+          "start": "1988-05-09",
+          "end": "1999-10-05",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Gary Doer",
+          "qid": "Q365213",
+          "start": "1999-10-05",
+          "end": "2009-10-19",
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Greg Selinger",
+          "qid": "Q178944",
+          "start": "2009-10-19",
+          "end": "2016-05-03",
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Brian Pallister",
+          "qid": "Q2924976",
+          "start": "2016-05-03",
+          "end": "2021-09-01",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Kelvin Goertzen",
+          "qid": "Q6386656",
+          "start": "2021-09-01",
+          "end": "2021-11-02",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Heather Stefanson",
+          "qid": "Q5694126",
+          "start": "2021-11-02",
+          "end": "2023-10-18",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Wab Kinew",
+          "qid": "Q7958591",
+          "start": "2023-10-18",
+          "end": null,
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        }
+      ],
+      "gaps": [
+        {
+          "start": "1870-07-15",
+          "end": "1870-09-16"
+        },
+        {
+          "start": "1874-12-02",
+          "end": "1874-12-03"
+        },
+        {
+          "start": "1887-12-24",
+          "end": "1887-12-26"
+        },
+        {
+          "start": "1981-11-17",
+          "end": "1981-11-30"
+        }
+      ]
+    },
+    {
+      "slug": "new-brunswick",
+      "name": "New Brunswick",
+      "type": "province",
+      "joined": "1867-07-01",
+      "terms": [
+        {
+          "name": "Andrew Rainsford Wetmore",
+          "qid": "Q2846708",
+          "start": "1867-08-16",
+          "end": "1870-05-25",
+          "party": "Confederation (pro-Confederation coalition)",
+          "family": "other",
+          "source": "Wikidata"
+        },
+        {
+          "name": "George Edwin King",
+          "qid": "Q3101552",
+          "start": "1870-06-09",
+          "end": "1871-02-21",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikipedia list of premiers"
+        },
+        {
+          "name": "George Luther Hathaway",
+          "qid": "Q3101730",
+          "start": "1871-02-21",
+          "end": "1872-07-05",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "George Edwin King",
+          "qid": "Q3101552",
+          "start": "1872-07-05",
+          "end": "1878-05-03",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John James Fraser",
+          "qid": "Q3181822",
+          "start": "1878-05-03",
+          "end": "1882-05-25",
+          "party": "New Brunswick PC",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Daniel Lionel Hanington",
+          "qid": "Q3014356",
+          "start": "1882-05-25",
+          "end": "1883-03-03",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Andrew George Blair",
+          "qid": "Q2846607",
+          "start": "1883-03-03",
+          "end": "1896-07-17",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "James Mitchell",
+          "qid": "Q3161283",
+          "start": "1896-07-17",
+          "end": "1897-10-29",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Henry Emmerson",
+          "qid": "Q3133041",
+          "start": "1897-10-29",
+          "end": "1900-08-31",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Lemuel John Tweedie",
+          "qid": "Q3229400",
+          "start": "1900-08-31",
+          "end": "1907-03-06",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "William Pugsley",
+          "qid": "Q3568895",
+          "start": "1907-03-06",
+          "end": "1907-05-31",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Clifford William Robinson",
+          "qid": "Q732160",
+          "start": "1907-05-31",
+          "end": "1908-03-24",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Douglas Hazen",
+          "qid": "Q3181374",
+          "start": "1908-03-24",
+          "end": "1911-10-10",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "James Kidd Flemming",
+          "qid": "Q3161204",
+          "start": "1911-10-16",
+          "end": "1914-12-17",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "George Johnson Clarke",
+          "qid": "Q3101672",
+          "start": "1914-12-17",
+          "end": "1917-02-01",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "James Alexander Murray",
+          "qid": "Q3160896",
+          "start": "1917-02-01",
+          "end": "1917-04-04",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Walter Edward Foster",
+          "qid": "Q3565743",
+          "start": "1917-04-04",
+          "end": "1923-02-01",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Peter Veniot",
+          "qid": "Q3376939",
+          "start": "1923-02-28",
+          "end": "1925-09-14",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Babington Macaulay Baxter",
+          "qid": "Q3180972",
+          "start": "1925-09-14",
+          "end": "1931-05-19",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Charles Dow Richards",
+          "qid": "Q2958936",
+          "start": "1931-05-19",
+          "end": "1933-06-01",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Leonard Percy de Wolfe Tilley",
+          "qid": "Q3229684",
+          "start": "1933-06-01",
+          "end": "1935-07-16",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Allison Dysart",
+          "qid": "Q2838331",
+          "start": "1935-07-16",
+          "end": "1940-03-13",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John B. McNair",
+          "qid": "Q3180971",
+          "start": "1940-03-13",
+          "end": "1952-10-07",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Hugh John Flemming",
+          "qid": "Q3142270",
+          "start": "1952-10-08",
+          "end": "1960-07-11",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Louis Robichaud",
+          "qid": "Q461358",
+          "start": "1960-07-12",
+          "end": "1970-11-11",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Richard Hatfield",
+          "qid": "Q1531264",
+          "start": "1970-11-11",
+          "end": "1987-10-26",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Frank McKenna",
+          "qid": "Q3082718",
+          "start": "1987-10-27",
+          "end": "1997-10-13",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Ray Frenette",
+          "qid": "Q3185548",
+          "start": "1997-10-14",
+          "end": "1998-05-14",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Camille Thériault",
+          "qid": "Q2935085",
+          "start": "1998-05-14",
+          "end": "1999-06-21",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikipedia list of premiers"
+        },
+        {
+          "name": "Bernard Lord",
+          "qid": "Q2898254",
+          "start": "1999-06-21",
+          "end": "2006-10-03",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Shawn Graham",
+          "qid": "Q368427",
+          "start": "2006-10-03",
+          "end": "2010-10-12",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "David Alward",
+          "qid": "Q49631",
+          "start": "2010-10-12",
+          "end": "2014-10-07",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Brian Gallant",
+          "qid": "Q2924893",
+          "start": "2014-10-07",
+          "end": "2018-11-09",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Blaine Higgs",
+          "qid": "Q2905723",
+          "start": "2018-11-09",
+          "end": "2024-11-02",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Susan Holt",
+          "qid": "Q113509940",
+          "start": "2024-11-02",
+          "end": null,
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        }
+      ],
+      "gaps": [
+        {
+          "start": "1867-07-01",
+          "end": "1867-08-16"
+        },
+        {
+          "start": "1870-05-25",
+          "end": "1870-06-09"
+        },
+        {
+          "start": "1911-10-10",
+          "end": "1911-10-16"
+        },
+        {
+          "start": "1923-02-01",
+          "end": "1923-02-28"
+        },
+        {
+          "start": "1952-10-07",
+          "end": "1952-10-08"
+        },
+        {
+          "start": "1960-07-11",
+          "end": "1960-07-12"
+        },
+        {
+          "start": "1987-10-26",
+          "end": "1987-10-27"
+        },
+        {
+          "start": "1997-10-13",
+          "end": "1997-10-14"
+        }
+      ]
+    },
+    {
+      "slug": "newfoundland-and-labrador",
+      "name": "Newfoundland and Labrador",
+      "type": "province",
+      "joined": "1949-03-31",
+      "terms": [
+        {
+          "name": "Joey Smallwood",
+          "qid": "Q365496",
+          "start": "1949-04-01",
+          "end": "1972-01-18",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Frank Moores",
+          "qid": "Q510174",
+          "start": "1972-01-18",
+          "end": "1979-03-26",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Brian Peckford",
+          "qid": "Q124524",
+          "start": "1979-03-26",
+          "end": "1989-03-22",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Tom Rideout",
+          "qid": "Q2426822",
+          "start": "1989-03-22",
+          "end": "1989-05-05",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Clyde Wells",
+          "qid": "Q2980434",
+          "start": "1989-05-05",
+          "end": "1996-01-26",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata + Wikipedia"
+        },
+        {
+          "name": "Brian Tobin",
+          "qid": "Q668542",
+          "start": "1996-01-26",
+          "end": "2000-10-16",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Beaton Tulk",
+          "qid": "Q2892989",
+          "start": "2000-10-16",
+          "end": "2001-02-13",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Roger Grimes",
+          "qid": "Q3439049",
+          "start": "2001-02-13",
+          "end": "2003-11-06",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Danny Williams",
+          "qid": "Q365772",
+          "start": "2003-11-06",
+          "end": "2010-12-03",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Kathy Dunderdale",
+          "qid": "Q1396012",
+          "start": "2010-12-03",
+          "end": "2014-01-24",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Tom Marshall",
+          "qid": "Q7816723",
+          "start": "2014-01-24",
+          "end": "2014-09-26",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Paul Davis",
+          "qid": "Q17004109",
+          "start": "2014-09-26",
+          "end": "2015-12-14",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Dwight Ball",
+          "qid": "Q5318112",
+          "start": "2015-12-14",
+          "end": "2020-08-19",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Andrew Furey",
+          "qid": "Q98098468",
+          "start": "2020-08-19",
+          "end": "2025-05-09",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Hogan",
+          "qid": "Q106462743",
+          "start": "2025-05-09",
+          "end": "2025-10-29",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata + Wikipedia"
+        },
+        {
+          "name": "Tony Wakeham",
+          "qid": "Q64010272",
+          "start": "2025-10-29",
+          "end": null,
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "provinces.json (Wikipedia infobox)"
+        }
+      ],
+      "gaps": [
+        {
+          "start": "1949-03-31",
+          "end": "1949-04-01"
+        }
+      ]
+    },
+    {
+      "slug": "northwest-territories",
+      "name": "Northwest Territories",
+      "type": "territory",
+      "joined": "1870-07-15",
+      "terms": [
+        {
+          "name": "Robert Brett",
+          "qid": "",
+          "start": "1888-06-30",
+          "end": "1891-11-07",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikipedia list of premiers"
+        },
+        {
+          "name": "Frederick W. A. G. Haultain",
+          "qid": "Q363856",
+          "start": "1891-11-07",
+          "end": "1905-09-01",
+          "party": "Non-partisan",
+          "family": "nonpartisan",
+          "source": "Wikipedia list of premiers"
+        },
+        {
+          "name": "George Braden",
+          "qid": "Q5537189",
+          "start": "1980-06-16",
+          "end": "1984-01-12",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikidata + Wikipedia"
+        },
+        {
+          "name": "Richard Nerysoo",
+          "qid": "Q7328029",
+          "start": "1984-01-12",
+          "end": "1985-11-05",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikipedia list of premiers"
+        },
+        {
+          "name": "Nick Sibbeston",
+          "qid": "Q7027927",
+          "start": "1985-11-05",
+          "end": "1987-11-12",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikipedia list of premiers"
+        },
+        {
+          "name": "Dennis Patterson",
+          "qid": "Q5258849",
+          "start": "1987-11-12",
+          "end": "1991-11-14",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikidata + Wikipedia"
+        },
+        {
+          "name": "Nellie Cournoyea",
+          "qid": "Q3337913",
+          "start": "1991-11-14",
+          "end": "1995-11-22",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikidata + Wikipedia"
+        },
+        {
+          "name": "Don Morin",
+          "qid": "Q5293175",
+          "start": "1995-11-22",
+          "end": "1998-11-26",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikipedia list of premiers"
+        },
+        {
+          "name": "Goo Arlooktoo",
+          "qid": "Q5582341",
+          "start": "1998-11-26",
+          "end": "1998-12-10",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikipedia list of premiers"
+        },
+        {
+          "name": "Jim Antoine",
+          "qid": "Q13522653",
+          "start": "1998-12-10",
+          "end": "2000-01-17",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikidata + Wikipedia"
+        },
+        {
+          "name": "Stephen Kakfwi",
+          "qid": "Q13522654",
+          "start": "2000-01-17",
+          "end": "2003-12-10",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Joe Handley",
+          "qid": "Q328974",
+          "start": "2003-12-10",
+          "end": "2007-10-16",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Floyd Roland",
+          "qid": "Q364948",
+          "start": "2007-10-17",
+          "end": "2011-10-26",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikidata + Wikipedia"
+        },
+        {
+          "name": "Bob McLeod",
+          "qid": "Q2907758",
+          "start": "2011-10-26",
+          "end": "2019-10-24",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Caroline Cochrane",
+          "qid": "Q22277389",
+          "start": "2019-10-24",
+          "end": "2023-12-08",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "R. J. Simpson",
+          "qid": "Q23761322",
+          "start": "2023-12-08",
+          "end": null,
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        }
+      ],
+      "gaps": [
+        {
+          "start": "1870-07-15",
+          "end": "1888-06-30"
+        },
+        {
+          "start": "1905-09-01",
+          "end": "1980-06-16"
+        },
+        {
+          "start": "2007-10-16",
+          "end": "2007-10-17"
+        }
+      ]
+    },
+    {
+      "slug": "nova-scotia",
+      "name": "Nova Scotia",
+      "type": "province",
+      "joined": "1867-07-01",
+      "terms": [
+        {
+          "name": "Charles Tupper",
+          "qid": "Q128672",
+          "start": "1867-07-01",
+          "end": "1867-07-03",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Hiram Blanchard",
+          "qid": "Q3136197",
+          "start": "1867-07-04",
+          "end": "1867-09-30",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "William Annand",
+          "qid": "Q3568392",
+          "start": "1867-11-07",
+          "end": "1875-05-08",
+          "party": "Anti-Confederation",
+          "family": "other",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Philip Carteret Hill",
+          "qid": "Q3378986",
+          "start": "1875-05-11",
+          "end": "1878-10-15",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Simon Hugh Holmes",
+          "qid": "Q3484303",
+          "start": "1878-10-22",
+          "end": "1882-05-23",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Sparrow David Thompson",
+          "qid": "Q128686",
+          "start": "1882-05-25",
+          "end": "1882-07-18",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "William Thomas Pipes",
+          "qid": "Q3568997",
+          "start": "1882-08-03",
+          "end": "1884-07-15",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "William Stevens Fielding",
+          "qid": "Q3568973",
+          "start": "1884-07-28",
+          "end": "1896-07-18",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "George Henry Murray",
+          "qid": "Q3101643",
+          "start": "1896-07-20",
+          "end": "1923-01-24",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Ernest Howard Armstrong",
+          "qid": "Q3057006",
+          "start": "1923-01-24",
+          "end": "1925-07-16",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Edgar Nelson Rhodes",
+          "qid": "Q3047475",
+          "start": "1925-07-16",
+          "end": "1930-08-11",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Gordon Sidney Harrington",
+          "qid": "Q507927",
+          "start": "1930-08-11",
+          "end": "1933-09-05",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Angus Lewis Macdonald",
+          "qid": "Q2849816",
+          "start": "1933-09-05",
+          "end": "1940-07-10",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Alexander Stirling MacMillan",
+          "qid": "Q949159",
+          "start": "1940-07-10",
+          "end": "1945-09-08",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Angus Lewis Macdonald",
+          "qid": "Q2849816",
+          "start": "1945-09-08",
+          "end": "1954-04-13",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Harold Connolly",
+          "qid": "Q1585862",
+          "start": "1954-04-14",
+          "end": "1954-09-29",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Henry Hicks",
+          "qid": "Q3132829",
+          "start": "1954-09-30",
+          "end": "1956-11-20",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Robert Stanfield",
+          "qid": "Q461101",
+          "start": "1956-11-20",
+          "end": "1967-09-13",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "George Isaac Smith",
+          "qid": "Q3101662",
+          "start": "1967-09-13",
+          "end": "1970-10-28",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Gerald Regan",
+          "qid": "Q247524",
+          "start": "1970-10-28",
+          "end": "1978-10-05",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Buchanan",
+          "qid": "Q3181141",
+          "start": "1978-10-05",
+          "end": "1990-09-12",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Roger Stuart Bacon",
+          "qid": "Q3439473",
+          "start": "1990-09-12",
+          "end": "1991-02-26",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Donald William Cameron",
+          "qid": "Q3036107",
+          "start": "1991-02-26",
+          "end": "1993-06-11",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Savage",
+          "qid": "Q3182436",
+          "start": "1993-06-11",
+          "end": "1997-07-18",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Russell MacLellan",
+          "qid": "Q3453480",
+          "start": "1997-07-18",
+          "end": "1999-08-16",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Hamm",
+          "qid": "Q3181686",
+          "start": "1999-08-16",
+          "end": "2006-02-24",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Rodney MacDonald",
+          "qid": "Q378058",
+          "start": "2006-02-24",
+          "end": "2009-06-19",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Darrell Dexter",
+          "qid": "Q766147",
+          "start": "2009-06-19",
+          "end": "2013-10-22",
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Stephen McNeil",
+          "qid": "Q3498613",
+          "start": "2013-10-22",
+          "end": "2021-02-23",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Iain Rankin",
+          "qid": "Q15285291",
+          "start": "2021-02-23",
+          "end": "2021-08-31",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Tim Houston",
+          "qid": "Q15280719",
+          "start": "2021-08-31",
+          "end": null,
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        }
+      ],
+      "gaps": [
+        {
+          "start": "1867-07-03",
+          "end": "1867-07-04"
+        },
+        {
+          "start": "1867-09-30",
+          "end": "1867-11-07"
+        },
+        {
+          "start": "1875-05-08",
+          "end": "1875-05-11"
+        },
+        {
+          "start": "1878-10-15",
+          "end": "1878-10-22"
+        },
+        {
+          "start": "1882-05-23",
+          "end": "1882-05-25"
+        },
+        {
+          "start": "1882-07-18",
+          "end": "1882-08-03"
+        },
+        {
+          "start": "1884-07-15",
+          "end": "1884-07-28"
+        },
+        {
+          "start": "1896-07-18",
+          "end": "1896-07-20"
+        },
+        {
+          "start": "1954-04-13",
+          "end": "1954-04-14"
+        },
+        {
+          "start": "1954-09-29",
+          "end": "1954-09-30"
+        }
+      ]
+    },
+    {
+      "slug": "nunavut",
+      "name": "Nunavut",
+      "type": "territory",
+      "joined": "1999-04-01",
+      "terms": [
+        {
+          "name": "Paul Okalik",
+          "qid": "Q1396220",
+          "start": "1999-04-01",
+          "end": "2008-11-19",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Eva Aariak",
+          "qid": "Q466891",
+          "start": "2008-11-19",
+          "end": "2013-11-19",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Peter Taptuna",
+          "qid": "Q7177253",
+          "start": "2013-11-19",
+          "end": "2017-11-21",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Paul Quassa",
+          "qid": "Q16151930",
+          "start": "2017-11-21",
+          "end": "2018-06-14",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Joe Savikataaq",
+          "qid": "Q16211583",
+          "start": "2018-06-14",
+          "end": "2021-11-19",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikidata"
+        },
+        {
+          "name": "P.J. Akeeagok",
+          "qid": "Q109265500",
+          "start": "2021-11-19",
+          "end": "2025-11-20",
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "Wikidata + Wikipedia"
+        },
+        {
+          "name": "John Main",
+          "qid": "Q43380305",
+          "start": "2025-11-20",
+          "end": null,
+          "party": "Consensus government",
+          "family": "nonpartisan",
+          "source": "provinces.json (Wikipedia infobox)"
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "slug": "ontario",
+      "name": "Ontario",
+      "type": "province",
+      "joined": "1867-07-01",
+      "terms": [
+        {
+          "name": "John Sandfield Macdonald",
+          "qid": "Q938623",
+          "start": "1867-07-16",
+          "end": "1871-12-20",
+          "party": "Liberal-Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Edward Blake",
+          "qid": "Q333003",
+          "start": "1871-12-20",
+          "end": "1872-10-25",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Oliver Mowat",
+          "qid": "Q1387837",
+          "start": "1872-10-25",
+          "end": "1896-07-21",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Arthur Sturgis Hardy",
+          "qid": "Q439049",
+          "start": "1896-07-21",
+          "end": "1899-10-21",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "George William Ross",
+          "qid": "Q553340",
+          "start": "1899-10-21",
+          "end": "1905-02-08",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "James Whitney",
+          "qid": "Q3161488",
+          "start": "1905-02-08",
+          "end": "1914-09-25",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "William Howard Hearst",
+          "qid": "Q387764",
+          "start": "1914-10-02",
+          "end": "1919-11-14",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Ernest Charles Drury",
+          "qid": "Q3056893",
+          "start": "1919-11-14",
+          "end": "1923-07-16",
+          "party": "United Farmers",
+          "family": "progressive",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Howard Ferguson",
+          "qid": "Q3141552",
+          "start": "1923-07-16",
+          "end": "1930-12-15",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "George Stewart Henry",
+          "qid": "Q3101940",
+          "start": "1930-12-15",
+          "end": "1934-07-10",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Mitchell Hepburn",
+          "qid": "Q3317082",
+          "start": "1934-07-10",
+          "end": "1942-10-21",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Gordon Daniel Conant",
+          "qid": "Q3110889",
+          "start": "1942-10-21",
+          "end": "1943-05-18",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Harry Nixon",
+          "qid": "Q3127880",
+          "start": "1943-05-18",
+          "end": "1943-08-17",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "George A. Drew",
+          "qid": "Q1234217",
+          "start": "1943-08-17",
+          "end": "1948-10-19",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Thomas Laird Kennedy",
+          "qid": "Q462381",
+          "start": "1948-10-19",
+          "end": "1949-05-04",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Leslie Frost",
+          "qid": "Q1820783",
+          "start": "1949-05-04",
+          "end": "1961-11-08",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Robarts",
+          "qid": "Q787456",
+          "start": "1961-11-08",
+          "end": "1971-03-01",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Bill Davis",
+          "qid": "Q862052",
+          "start": "1971-03-01",
+          "end": "1985-02-08",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Frank Miller",
+          "qid": "Q463038",
+          "start": "1985-02-08",
+          "end": "1985-06-26",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "David Peterson",
+          "qid": "Q1176105",
+          "start": "1985-06-26",
+          "end": "1990-10-01",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Bob Rae",
+          "qid": "Q888208",
+          "start": "1990-10-01",
+          "end": "1995-06-26",
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Mike Harris",
+          "qid": "Q598964",
+          "start": "1995-06-26",
+          "end": "2002-04-14",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Ernie Eves",
+          "qid": "Q599306",
+          "start": "2002-04-15",
+          "end": "2003-10-22",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Dalton McGuinty",
+          "qid": "Q568204",
+          "start": "2003-10-23",
+          "end": "2013-02-11",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Kathleen Wynne",
+          "qid": "Q3786221",
+          "start": "2013-02-11",
+          "end": "2018-06-06",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Doug Ford",
+          "qid": "Q5300478",
+          "start": "2018-06-29",
+          "end": null,
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        }
+      ],
+      "gaps": [
+        {
+          "start": "1867-07-01",
+          "end": "1867-07-16"
+        },
+        {
+          "start": "1914-09-25",
+          "end": "1914-10-02"
+        },
+        {
+          "start": "2002-04-14",
+          "end": "2002-04-15"
+        },
+        {
+          "start": "2003-10-22",
+          "end": "2003-10-23"
+        },
+        {
+          "start": "2018-06-06",
+          "end": "2018-06-29"
+        }
+      ]
+    },
+    {
+      "slug": "prince-edward-island",
+      "name": "Prince Edward Island",
+      "type": "province",
+      "joined": "1873-07-01",
+      "terms": [
+        {
+          "name": "Lemuel Owen",
+          "qid": "Q3229397",
+          "start": "1873-09-01",
+          "end": "1876-08-15",
+          "party": "PEI PC",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Louis Henry Davies",
+          "qid": "Q1029113",
+          "start": "1876-08-15",
+          "end": "1879-04-25",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "William Wilfred Sullivan",
+          "qid": "Q981328",
+          "start": "1879-04-25",
+          "end": "1889-11-13",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Neil McLeod",
+          "qid": "Q3337831",
+          "start": "1889-11-13",
+          "end": "1891-04-27",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Frederick Peters",
+          "qid": "Q3087150",
+          "start": "1891-04-27",
+          "end": "1897-10-27",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Alexander Warburton",
+          "qid": "Q581190",
+          "start": "1897-10-27",
+          "end": "1898-08-01",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Donald Farquharson",
+          "qid": "Q3036020",
+          "start": "1898-08-01",
+          "end": "1901-12-29",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Arthur Peters",
+          "qid": "Q2865289",
+          "start": "1901-12-29",
+          "end": "1908-01-29",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Francis Haszard",
+          "qid": "Q3081561",
+          "start": "1908-02-01",
+          "end": "1911-05-16",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Herbert James Palmer",
+          "qid": "Q3133466",
+          "start": "1911-05-16",
+          "end": "1911-12-02",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Alexander Mathieson",
+          "qid": "Q3180887",
+          "start": "1911-12-02",
+          "end": "1917-06-21",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Aubin-Edmond Arsenault",
+          "qid": "Q2870613",
+          "start": "1917-06-21",
+          "end": "1919-09-09",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Howatt Bell",
+          "qid": "Q605065",
+          "start": "1919-09-09",
+          "end": "1923-09-05",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "James David Stewart",
+          "qid": "Q3161011",
+          "start": "1923-09-05",
+          "end": "1927-08-12",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikipedia list of premiers"
+        },
+        {
+          "name": "Albert Charles Saunders",
+          "qid": "Q2831038",
+          "start": "1927-08-21",
+          "end": "1930-05-20",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Walter Lea",
+          "qid": "Q3565825",
+          "start": "1930-05-20",
+          "end": "1931-08-29",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikipedia list of premiers"
+        },
+        {
+          "name": "James David Stewart",
+          "qid": "Q3161011",
+          "start": "1931-08-29",
+          "end": "1933-10-10",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikipedia list of premiers"
+        },
+        {
+          "name": "William J. P. MacMillan",
+          "qid": "Q3568726",
+          "start": "1933-10-14",
+          "end": "1935-08-15",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Walter Lea",
+          "qid": "Q3565825",
+          "start": "1935-08-15",
+          "end": "1936-01-10",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikipedia list of premiers"
+        },
+        {
+          "name": "Thane Campbell",
+          "qid": "Q3519558",
+          "start": "1936-01-14",
+          "end": "1943-05-11",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Walter Jones",
+          "qid": "Q3182681",
+          "start": "1943-05-11",
+          "end": "1953-05-25",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Alexander Wallace Matheson",
+          "qid": "Q2833228",
+          "start": "1953-05-25",
+          "end": "1959-09-16",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Walter Russell Shaw",
+          "qid": "Q3565882",
+          "start": "1959-09-16",
+          "end": "1966-07-28",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Alex Campbell",
+          "qid": "Q2832907",
+          "start": "1966-07-28",
+          "end": "1978-09-18",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Bennett Campbell",
+          "qid": "Q817845",
+          "start": "1978-09-18",
+          "end": "1979-05-03",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Angus MacLean",
+          "qid": "Q2849817",
+          "start": "1979-05-03",
+          "end": "1981-11-17",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "James Lee",
+          "qid": "Q3161260",
+          "start": "1981-11-17",
+          "end": "1986-05-02",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Joe Ghiz",
+          "qid": "Q3180073",
+          "start": "1986-05-02",
+          "end": "1993-01-25",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikipedia list of premiers"
+        },
+        {
+          "name": "Catherine Callbeck",
+          "qid": "Q2941844",
+          "start": "1993-01-25",
+          "end": "1996-10-09",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Keith Milligan",
+          "qid": "Q3194750",
+          "start": "1996-10-09",
+          "end": "1996-11-27",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Pat Binns",
+          "qid": "Q348742",
+          "start": "1996-11-27",
+          "end": "2007-06-12",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Robert Ghiz",
+          "qid": "Q2157288",
+          "start": "2007-06-12",
+          "end": "2015-02-23",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Wade MacLauchlan",
+          "qid": "Q19825046",
+          "start": "2015-02-23",
+          "end": "2019-05-09",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Dennis King",
+          "qid": "Q61819600",
+          "start": "2019-05-09",
+          "end": "2025-02-21",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Rob Lantz",
+          "qid": "Q19561148",
+          "start": "2025-02-21",
+          "end": "2025-12-11",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Bloyce Thompson",
+          "qid": "Q63286118",
+          "start": "2025-12-12",
+          "end": "2026-02-09",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata + Wikipedia"
+        },
+        {
+          "name": "Rob Lantz",
+          "qid": "Q19561148",
+          "start": "2026-02-09",
+          "end": null,
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "provinces.json (Wikipedia infobox)"
+        }
+      ],
+      "gaps": [
+        {
+          "start": "1873-07-01",
+          "end": "1873-09-01"
+        },
+        {
+          "start": "1908-01-29",
+          "end": "1908-02-01"
+        },
+        {
+          "start": "1927-08-12",
+          "end": "1927-08-21"
+        },
+        {
+          "start": "1933-10-10",
+          "end": "1933-10-14"
+        },
+        {
+          "start": "1936-01-10",
+          "end": "1936-01-14"
+        },
+        {
+          "start": "2025-12-11",
+          "end": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "slug": "quebec",
+      "name": "Quebec",
+      "type": "province",
+      "joined": "1867-07-01",
+      "terms": [
+        {
+          "name": "Pierre-Joseph-Olivier Chauveau",
+          "qid": "Q660646",
+          "start": "1867-07-15",
+          "end": "1873-02-25",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Gédéon Ouimet",
+          "qid": "Q718520",
+          "start": "1873-02-27",
+          "end": "1874-09-22",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Charles Boucher de Boucherville",
+          "qid": "Q718349",
+          "start": "1874-09-22",
+          "end": "1878-03-08",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Henri-Gustave Joly de Lotbinière",
+          "qid": "Q179925",
+          "start": "1878-03-08",
+          "end": "1879-10-31",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Joseph-Adolphe Chapleau",
+          "qid": "Q718571",
+          "start": "1879-10-31",
+          "end": "1882-07-29",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Joseph-Alfred Mousseau",
+          "qid": "Q718557",
+          "start": "1882-07-29",
+          "end": "1884-01-22",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Jones Ross",
+          "qid": "Q532280",
+          "start": "1884-01-23",
+          "end": "1887-01-25",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Louis-Olivier Taillon",
+          "qid": "Q608672",
+          "start": "1887-01-25",
+          "end": "1887-01-27",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Honoré Mercier",
+          "qid": "Q513514",
+          "start": "1887-01-27",
+          "end": "1891-12-21",
+          "party": "Parti national (Liberal)",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Charles Boucher de Boucherville",
+          "qid": "Q718349",
+          "start": "1891-12-21",
+          "end": "1892-12-13",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Louis-Olivier Taillon",
+          "qid": "Q608672",
+          "start": "1892-12-16",
+          "end": "1896-05-11",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Edmund James Flynn",
+          "qid": "Q648593",
+          "start": "1896-05-11",
+          "end": "1897-05-24",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Félix-Gabriel Marchand",
+          "qid": "Q1479431",
+          "start": "1897-05-24",
+          "end": "1900-09-25",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Simon-Napoléon Parent",
+          "qid": "Q750977",
+          "start": "1900-10-03",
+          "end": "1905-03-21",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Lomer Gouin",
+          "qid": "Q764557",
+          "start": "1905-03-23",
+          "end": "1920-07-08",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Louis-Alexandre Taschereau",
+          "qid": "Q642503",
+          "start": "1920-07-08",
+          "end": "1936-06-11",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Adélard Godbout",
+          "qid": "Q380370",
+          "start": "1936-06-11",
+          "end": "1936-08-26",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Maurice Duplessis",
+          "qid": "Q113941",
+          "start": "1936-08-26",
+          "end": "1939-11-08",
+          "party": "Union Nationale",
+          "family": "autonomist",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Adélard Godbout",
+          "qid": "Q380370",
+          "start": "1939-11-08",
+          "end": "1944-08-30",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Maurice Duplessis",
+          "qid": "Q113941",
+          "start": "1944-08-30",
+          "end": "1959-09-07",
+          "party": "Union Nationale",
+          "family": "autonomist",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Paul Sauvé",
+          "qid": "Q2594246",
+          "start": "1959-09-07",
+          "end": "1960-01-02",
+          "party": "Union Nationale",
+          "family": "autonomist",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Antonio Barrette",
+          "qid": "Q2857198",
+          "start": "1960-01-08",
+          "end": "1960-07-05",
+          "party": "Union Nationale",
+          "family": "autonomist",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Jean Lesage",
+          "qid": "Q1685649",
+          "start": "1960-07-05",
+          "end": "1966-06-16",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Daniel Johnson",
+          "qid": "Q3014239",
+          "start": "1966-06-16",
+          "end": "1968-09-26",
+          "party": "Union Nationale",
+          "family": "autonomist",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Jean-Jacques Bertrand",
+          "qid": "Q3166184",
+          "start": "1968-10-02",
+          "end": "1970-05-12",
+          "party": "Union Nationale",
+          "family": "autonomist",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Robert Bourassa",
+          "qid": "Q650980",
+          "start": "1970-05-12",
+          "end": "1976-11-25",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "René Lévesque",
+          "qid": "Q381007",
+          "start": "1976-11-25",
+          "end": "1985-10-03",
+          "party": "Parti Québécois",
+          "family": "sovereigntist",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Pierre-Marc Johnson",
+          "qid": "Q964801",
+          "start": "1985-10-03",
+          "end": "1985-12-12",
+          "party": "Parti Québécois",
+          "family": "sovereigntist",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Robert Bourassa",
+          "qid": "Q650980",
+          "start": "1985-12-12",
+          "end": "1994-01-11",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Daniel Johnson",
+          "qid": "Q3014237",
+          "start": "1994-01-11",
+          "end": "1994-09-26",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Jacques Parizeau",
+          "qid": "Q1393455",
+          "start": "1994-09-26",
+          "end": "1996-01-29",
+          "party": "Parti Québécois",
+          "family": "sovereigntist",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Lucien Bouchard",
+          "qid": "Q1873388",
+          "start": "1996-01-29",
+          "end": "2001-03-08",
+          "party": "Parti Québécois",
+          "family": "sovereigntist",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Bernard Landry",
+          "qid": "Q574359",
+          "start": "2001-03-08",
+          "end": "2003-04-29",
+          "party": "Parti Québécois",
+          "family": "sovereigntist",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Jean Charest",
+          "qid": "Q48966",
+          "start": "2003-04-29",
+          "end": "2012-09-19",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Pauline Marois",
+          "qid": "Q256249",
+          "start": "2012-09-19",
+          "end": "2014-04-23",
+          "party": "Parti Québécois",
+          "family": "sovereigntist",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Philippe Couillard",
+          "qid": "Q3379654",
+          "start": "2014-04-23",
+          "end": "2018-10-18",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "François Legault",
+          "qid": "Q3085147",
+          "start": "2018-10-18",
+          "end": "2026-04-15",
+          "party": "Coalition Avenir Québec",
+          "family": "autonomist",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Christine Fréchette",
+          "qid": "Q114410527",
+          "start": "2026-04-15",
+          "end": "2026-10-21",
+          "party": "Coalition Avenir Québec",
+          "family": "autonomist",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Paul St-Pierre Plamondon",
+          "qid": "Q3372147",
+          "start": "2026-10-21",
+          "end": null,
+          "party": "Parti Québécois",
+          "family": "sovereigntist",
+          "source": "Wikidata"
+        }
+      ],
+      "gaps": [
+        {
+          "start": "1867-07-01",
+          "end": "1867-07-15"
+        },
+        {
+          "start": "1873-02-25",
+          "end": "1873-02-27"
+        },
+        {
+          "start": "1884-01-22",
+          "end": "1884-01-23"
+        },
+        {
+          "start": "1892-12-13",
+          "end": "1892-12-16"
+        },
+        {
+          "start": "1900-09-25",
+          "end": "1900-10-03"
+        },
+        {
+          "start": "1905-03-21",
+          "end": "1905-03-23"
+        },
+        {
+          "start": "1960-01-02",
+          "end": "1960-01-08"
+        },
+        {
+          "start": "1968-09-26",
+          "end": "1968-10-02"
+        }
+      ]
+    },
+    {
+      "slug": "saskatchewan",
+      "name": "Saskatchewan",
+      "type": "province",
+      "joined": "1905-09-01",
+      "terms": [
+        {
+          "name": "Thomas Walter Scott",
+          "qid": "Q1386411",
+          "start": "1905-09-05",
+          "end": "1916-10-20",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "William Melville Martin",
+          "qid": "Q931104",
+          "start": "1916-10-20",
+          "end": "1922-04-05",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Charles Avery Dunning",
+          "qid": "Q931076",
+          "start": "1922-04-05",
+          "end": "1926-02-26",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "James Garfield Gardiner",
+          "qid": "Q382767",
+          "start": "1926-02-26",
+          "end": "1929-09-09",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "James Thomas Milton Anderson",
+          "qid": "Q376634",
+          "start": "1929-09-09",
+          "end": "1934-07-19",
+          "party": "Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "James Garfield Gardiner",
+          "qid": "",
+          "start": "1934-07-19",
+          "end": "1935-11-01",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikipedia list of premiers"
+        },
+        {
+          "name": "William John Patterson",
+          "qid": "Q376983",
+          "start": "1935-11-01",
+          "end": "1944-07-10",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Tommy Douglas",
+          "qid": "Q359653",
+          "start": "1944-07-10",
+          "end": "1961-11-07",
+          "party": "Saskatchewan CCF",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Woodrow Lloyd",
+          "qid": "Q434670",
+          "start": "1961-11-07",
+          "end": "1964-05-22",
+          "party": "Saskatchewan CCF",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "W. Ross Thatcher",
+          "qid": "Q434496",
+          "start": "1964-05-22",
+          "end": "1971-06-30",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Allan Blakeney",
+          "qid": "Q796202",
+          "start": "1971-06-30",
+          "end": "1982-05-08",
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Grant Devine",
+          "qid": "Q436942",
+          "start": "1982-05-08",
+          "end": "1991-11-01",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Roy Romanow",
+          "qid": "Q938987",
+          "start": "1991-11-01",
+          "end": "2001-02-08",
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Lorne Calvert",
+          "qid": "Q646963",
+          "start": "2001-02-08",
+          "end": "2007-11-21",
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Brad Wall",
+          "qid": "Q437816",
+          "start": "2007-11-21",
+          "end": "2018-02-02",
+          "party": "Saskatchewan Party",
+          "family": "coalition",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Scott Moe",
+          "qid": "Q7436891",
+          "start": "2018-02-02",
+          "end": null,
+          "party": "Saskatchewan Party",
+          "family": "coalition",
+          "source": "Wikidata"
+        }
+      ],
+      "gaps": [
+        {
+          "start": "1905-09-01",
+          "end": "1905-09-05"
+        }
+      ]
+    },
+    {
+      "slug": "yukon",
+      "name": "Yukon",
+      "type": "territory",
+      "joined": "1898-06-13",
+      "terms": [
+        {
+          "name": "Chris Pearson",
+          "qid": "Q2964833",
+          "start": "1978-11-20",
+          "end": "1985-03-23",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Willard Phelps",
+          "qid": "Q935239",
+          "start": "1985-03-23",
+          "end": "1985-05-28",
+          "party": "Progressive Conservative",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Tony Penikett",
+          "qid": "Q3531858",
+          "start": "1985-05-29",
+          "end": "1992-11-06",
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "John Ostashek",
+          "qid": "Q3182225",
+          "start": "1992-11-07",
+          "end": "1996-10-19",
+          "party": "Yukon Party",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Piers McDonald",
+          "qid": "Q3387961",
+          "start": "1996-10-19",
+          "end": "2000-05-06",
+          "party": "NDP",
+          "family": "ndp",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Pat Duncan",
+          "qid": "Q3368534",
+          "start": "2000-05-06",
+          "end": "2002-11-30",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Dennis Fentie",
+          "qid": "Q345859",
+          "start": "2002-11-30",
+          "end": "2011-06-10",
+          "party": "Yukon Party",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Darrell Pasloski",
+          "qid": "Q3016474",
+          "start": "2011-06-11",
+          "end": "2016-12-03",
+          "party": "Yukon Party",
+          "family": "cpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Sandy Silver",
+          "qid": "Q1841565",
+          "start": "2016-12-03",
+          "end": "2023-01-14",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata"
+        },
+        {
+          "name": "Ranj Pillai",
+          "qid": "Q27805365",
+          "start": "2023-01-14",
+          "end": "2025-06-27",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata + Wikipedia"
+        },
+        {
+          "name": "Mike Pemberton",
+          "qid": "Q18607336",
+          "start": "2025-06-27",
+          "end": "2025-11-22",
+          "party": "Liberal",
+          "family": "lpc",
+          "source": "Wikidata + Wikipedia"
+        },
+        {
+          "name": "Currie Dixon",
+          "qid": "Q3007723",
+          "start": "2025-11-22",
+          "end": null,
+          "party": "Yukon Party",
+          "family": "cpc",
+          "source": "provinces.json (Wikipedia infobox)"
+        }
+      ],
+      "gaps": [
+        {
+          "start": "1898-06-13",
+          "end": "1978-11-20"
+        },
+        {
+          "start": "1985-05-28",
+          "end": "1985-05-29"
+        },
+        {
+          "start": "1992-11-06",
+          "end": "1992-11-07"
+        },
+        {
+          "start": "2011-06-10",
+          "end": "2011-06-11"
+        }
+      ]
+    }
+  ]
+}

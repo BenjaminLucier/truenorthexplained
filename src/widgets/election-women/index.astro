@@ -1,0 +1,178 @@
+---
+/**
+ * Women elected to the House of Commons at each general election since
+ * 1921, the first after women could stand, as a share of the seats.
+ * From src/data/elections/history.json.
+ *
+ *   <tn-widget name="election-women"></tn-widget>
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import ChartTip from "../../components/charts/ChartTip.astro";
+import Legend from "../../components/charts/Legend.astro";
+import { uniqueId } from "../../lib/ids";
+import { elections, formatDate, historyMeta, pct } from "../../lib/election-history";
+
+const id = uniqueId(Astro, "women", "history");
+const url = "https://en.wikipedia.org/wiki/List_of_women_elected_to_Canadian_Parliament";
+const H = 200;
+const Y_MAX = 50;
+const rows = elections.filter((e) => e.year >= 1921).map((e) => ({ e, share: (100 * e.women) / e.houseSize }));
+const slot = 1000 / rows.length;
+const y = (v: number) => H - (v / Y_MAX) * H;
+
+const firstOver = (t: number) => rows.find((r) => r.share >= t)?.e.year;
+const last = rows.at(-1)!;
+const lede = `It took until ${firstOver(10)} for women to win one seat in ten, and until ${firstOver(25)} to win one in four. In ${last.e.year}, ${last.e.women} of the ${last.e.houseSize} MPs elected were women: ${pct(last.share)}.`;
+// The election nearest each of these years.
+const xLabels = [1921, 1950, 1980, 2000, 2025].map((yr) =>
+  rows.reduce((best, r, i) => (Math.abs(r.e.year - yr) < Math.abs(rows[best]!.e.year - yr) ? i : best), 0),
+);
+---
+
+<ChartCard
+  title="Women elected to the House, 1921–2025"
+  lede={lede}
+  sources={[{ label: "Wikipedia, List of women elected to Canadian Parliament (CC BY-SA 4.0)", url }]}
+  tableLabel="Show the data"
+>
+  <Legend
+    items={[
+      { label: "Share of MPs elected who were women", color: "var(--tn-data-seq-5)" },
+      { label: "Half the seats", color: "var(--tn-text-muted)", kind: "dash" },
+    ]}
+  />
+  <tn-chart class="wm mt-4 block">
+    <div class="grid grid-cols-[2.25rem_minmax(0,1fr)]">
+      <div class="relative text-[11px] text-muted" aria-hidden="true">
+        {
+          [0, 10, 20, 30, 40, 50].map((v) => (
+            <span class="absolute right-1.5 -translate-y-1/2 leading-none" style={`top: ${((y(v) / H) * 100).toFixed(2)}%`}>
+              {v}%
+            </span>
+          ))
+        }
+      </div>
+      <div class="relative" style={`height: ${H}px`}>
+        <svg class="absolute inset-0 block size-full" viewBox={`0 0 1000 ${H}`} preserveAspectRatio="none" role="group" aria-label="Women elected by election; use the arrow keys to move between elections">
+          {[0, 10, 20, 30, 40].map((v) => <line x1="0" x2="1000" y1={y(v)} y2={y(v)} class:list={["wm-grid", { "wm-base": v === 0 }]} />)}
+          <line x1="0" x2="1000" y1={y(50)} y2={y(50)} class="wm-half" />
+          {
+            rows.map((r, i) => (
+              <g data-group={i} class="wm-col">
+                <rect x={i * slot} y={y(r.share)} width={slot} height={H - y(r.share)} class="wm-bar" />
+                <rect
+                  x={i * slot}
+                  y="0"
+                  width={slot}
+                  height={H}
+                  class="wm-hit"
+                  data-tip={`${id}-${i}`}
+                  data-group={i}
+                  role="img"
+                  aria-label={`${r.e.year}: ${r.e.women} women elected of ${r.e.houseSize} MPs, ${pct(r.share)}.`}
+                />
+              </g>
+            ))
+          }
+        </svg>
+      </div>
+      <span />
+      <div class="relative mt-1.5 h-4 text-[11px] text-muted" aria-hidden="true">
+        {
+          xLabels.map((i, k) => (
+            <span
+              class:list={["absolute leading-none", k === 0 ? "" : k === xLabels.length - 1 ? "-translate-x-full" : "-translate-x-1/2"]}
+              style={`left: ${k === 0 ? 0 : k === xLabels.length - 1 ? 100 : (((i + 0.5) * slot) / 10).toFixed(2)}%`}
+            >
+              {rows[i]!.e.year}
+            </span>
+          ))
+        }
+      </div>
+    </div>
+    <p class="mt-3 text-xs text-muted">Each column is one general election. Women elected in by-elections between general elections aren't counted.</p>
+
+    {
+      rows.map((r, i) => (
+        <template id={`${id}-${i}`}>
+          <p class="ct-h">
+            {r.e.year}: {r.e.women} {r.e.women === 1 ? "woman" : "women"} elected
+          </p>
+          <p class="ct-sub">{formatDate(r.e.date)}</p>
+          <p class="ct-p">
+            {pct(r.share)} of the {r.e.houseSize} MPs elected.
+          </p>
+        </template>
+      ))
+    }
+    <ChartTip />
+  </tn-chart>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Election</th>
+          <th scope="col">Women elected</th>
+          <th scope="col">MPs elected</th>
+          <th scope="col">Share</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          rows.map((r) => (
+            <tr>
+              <th scope="row" class="font-normal">
+                {r.e.year}
+              </th>
+              <td>{r.e.women}</td>
+              <td>{r.e.houseSize}</td>
+              <td>{pct(r.share)}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <caption>
+        Women could vote in the federal election of 1917 only if they were serving in the armed forces or related to a soldier, and couldn't stand
+        for Parliament until 1919. Where Wikipedia's own counts disagree, the figure two of them share is used. Data fetched {historyMeta.fetched}.
+      </caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+<style>
+  .wm-grid {
+    stroke: var(--tn-border);
+    vector-effect: non-scaling-stroke;
+  }
+  .wm-base {
+    stroke: var(--tn-border-strong);
+  }
+  .wm-half {
+    stroke: var(--tn-text-muted);
+    stroke-dasharray: 3 3;
+    vector-effect: non-scaling-stroke;
+  }
+  .wm-bar {
+    fill: var(--tn-data-seq-5);
+    stroke: var(--tn-surface);
+    stroke-width: 2;
+    vector-effect: non-scaling-stroke;
+    transition: opacity 120ms ease-out;
+  }
+  .wm-hit {
+    fill: transparent;
+  }
+  .wm[data-active] .wm-col:not(.is-active) .wm-bar {
+    opacity: 0.4;
+  }
+  .wm-hit.is-active {
+    fill: var(--tn-text-primary);
+    fill-opacity: 0.06;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .wm-bar {
+      transition: none;
+    }
+  }
+</style>

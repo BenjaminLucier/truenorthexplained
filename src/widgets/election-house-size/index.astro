@@ -1,0 +1,137 @@
+---
+/**
+ * The number of seats in the House of Commons at every general election
+ * since 1867, as a step chart. From src/data/elections/history.json.
+ *
+ *   <tn-widget name="election-house-size"></tn-widget>
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import ChartTip from "../../components/charts/ChartTip.astro";
+import TimePlot from "../../components/charts/TimePlot.astro";
+import { uniqueId } from "../../lib/ids";
+import { electionBands, elections, formatDate, historyMeta, wikiListUrl, xPct } from "../../lib/election-history";
+
+const id = uniqueId(Astro, "house", "history");
+const H = 180;
+const Y_MAX = 400;
+const y = (v: number) => H - (v / Y_MAX) * H;
+
+const pts = elections.map((e, i) => {
+  const prev = elections[i - 1];
+  return { e, i, x: electionBands[i]!.xc, seats: e.seatsInHouse, change: prev ? e.seatsInHouse - prev.seatsInHouse : null };
+});
+// A step: flat from one election to the next, rising at the election that changed it.
+const step = pts.map((p, k) => `${k ? "H" : "M"}${p.x.toFixed(1)}${k ? "" : ` ${y(p.seats).toFixed(1)}`}V${y(p.seats).toFixed(1)}`).join("") + "H1000";
+const area = `${step}V${H}H${pts[0]!.x.toFixed(1)}Z`;
+
+const first = pts[0]!;
+const last = pts.at(-1)!;
+const grew = pts.filter((p) => (p.change ?? 0) > 0).length;
+const shrank = pts.filter((p) => (p.change ?? 0) < 0);
+const lede = `The House has grown from ${first.seats} seats to ${last.seats}. It got bigger at ${grew} of the ${pts.length - 1} elections since the first, and smaller ${["never", "once", "twice"][shrank.length] ?? `${shrank.length} times`} (${shrank.map((p) => p.e.year).join(" and ")}).`;
+const signed = (n: number) => (n > 0 ? `${n} more` : `${-n} fewer`);
+---
+
+<ChartCard title="Seats in the House of Commons, 1867–2025" lede={lede} sources={[{ label: "Wikipedia, List of Canadian federal elections (CC BY-SA 4.0)", url: wikiListUrl }]} tableLabel="Show the data">
+  <tn-chart class="hs block">
+    <TimePlot height={H} yMin={0} yMax={Y_MAX} yTicks={[0, 100, 200, 300, 400]} label="Seats by election; use the arrow keys to move between elections">
+      <path d={area} class="hs-area" />
+      <path d={step} class="hs-line" />
+      <Fragment slot="dots">
+        {pts.filter((p) => p.change !== 0).map((p) => <circle cx={xPct(p.x)} cy={y(p.seats)} r="3" class="hs-dot" data-group={p.i} />)}
+        <text x={xPct(first.x)} y={y(first.seats) - 8} class="hs-label">{first.seats}</text>
+        <text x="100%" y={y(last.seats) - 8} text-anchor="end" class="hs-label">{last.seats}</text>
+      </Fragment>
+      <Fragment slot="hits">
+        {
+          pts.map((p) => (
+            <rect
+              x={electionBands[p.i]!.x0}
+              width={electionBands[p.i]!.x1 - electionBands[p.i]!.x0}
+              y="0"
+              height={H}
+              class="tp-hit"
+              data-tip={`${id}-${p.i}`}
+              data-group={p.i}
+              role="img"
+              aria-label={`${p.e.year}: ${p.seats} seats${p.change ? `, ${signed(p.change)} than at the previous election` : ""}.`}
+            />
+          ))
+        }
+      </Fragment>
+    </TimePlot>
+
+    {
+      pts.map((p) => (
+        <template id={`${id}-${p.i}`}>
+          <p class="ct-h">
+            {p.e.year}: {p.seats} seats
+          </p>
+          <p class="ct-sub">{formatDate(p.e.date)}</p>
+          <p class="ct-p">
+            {p.change === null ? "The first House of Commons." : p.change === 0 ? "No change from the previous election." : `${signed(p.change)} than at the previous election.`}
+          </p>
+          {p.e.seatsInHouse !== p.e.houseSize && <p class="ct-sub">{p.e.houseSize} were filled at the election.</p>}
+        </template>
+      ))
+    }
+    <ChartTip />
+  </tn-chart>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Election</th>
+          <th scope="col">Seats</th>
+          <th scope="col">Change</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          pts.map((p) => (
+            <tr>
+              <th scope="row" class="font-normal">
+                {p.e.year}
+              </th>
+              <td>{p.seats}</td>
+              <td>{p.change === null ? "" : p.change === 0 ? "–" : p.change > 0 ? `+${p.change}` : `−${-p.change}`}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <caption>{first.e.note} Data fetched {historyMeta.fetched}.</caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+<style>
+  .hs-area {
+    fill: var(--tn-data-seq-2);
+    fill-opacity: 0.5;
+  }
+  .hs-line {
+    fill: none;
+    stroke: var(--tn-data-seq-5);
+    stroke-width: 2;
+    stroke-linejoin: round;
+    vector-effect: non-scaling-stroke;
+  }
+  .hs-dot {
+    fill: var(--tn-data-seq-5);
+    stroke: var(--tn-surface);
+    stroke-width: 1.5;
+  }
+  .hs-dot.is-active {
+    r: 5;
+  }
+  .hs-label {
+    fill: var(--tn-text-primary);
+    font-size: 12px;
+    font-weight: 600;
+  }
+  .hs :global(.tp-hit.is-active) {
+    fill: var(--tn-text-primary);
+    fill-opacity: 0.06;
+  }
+</style>

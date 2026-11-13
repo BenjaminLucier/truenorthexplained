@@ -1,0 +1,209 @@
+---
+/**
+ * Majority and minority governments since 1867: every Parliament drawn as
+ * long as it lasted (from one general election to the next), in four
+ * 40-year rows. From src/data/elections/history.json.
+ *
+ *   <tn-widget name="election-governments"></tn-widget>
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import ChartTip from "../../components/charts/ChartTip.astro";
+import Legend from "../../components/charts/Legend.astro";
+import { uniqueId } from "../../lib/ids";
+import {
+  FEDERAL,
+  buildDate,
+  elections,
+  formatDate,
+  governmentLabel,
+  historyMeta,
+  ordinal,
+  parliamentDays,
+  wikiListUrl,
+  years,
+  when,
+  type Election,
+} from "../../lib/election-history";
+
+const id = uniqueId(Astro, "govts", "history");
+const SPAN = 40;
+const rowStarts = [1867, 1907, 1947, 1987];
+const xIn = (yf: number, start: number) => ((yf - start) / SPAN) * 1000;
+
+const pieces = elections.flatMap((e, i) => {
+  const a = when(e.date);
+  const b = when(e.nextElection ?? buildDate);
+  return rowStarts.flatMap((start, row) => {
+    const s = Math.max(a, start);
+    const t = Math.min(b, start + SPAN);
+    return t > s ? [{ e, i, row, x: xIn(s, start), w: xIn(t, start) - xIn(s, start), first: s === a }] : [];
+  });
+});
+
+const done = elections.filter((e) => e.daysToNext !== null);
+const avg = (xs: Election[]) => xs.reduce((n, e) => n + e.daysToNext!, 0) / xs.length;
+const maj = done.filter((e) => e.government.type === "majority");
+const min = done.filter((e) => e.government.type === "minority");
+const shortest = done.reduce((a, b) => (b.daysToNext! < a.daysToNext! ? b : a));
+const longest = done.reduce((a, b) => (b.daysToNext! > a.daysToNext! ? b : a));
+const current = elections.at(-1)!;
+const lede = `From one election to the next, majority Parliaments have lasted ${years(avg(maj))} on average and minority Parliaments ${years(avg(min))}. The shortest, elected in ${shortest.year}, lasted ${years(shortest.daysToNext!)}.`;
+
+const aria = (e: Election) =>
+  `${ordinal(e.number)} Parliament, elected ${formatDate(e.date)}: ${governmentLabel(e)}, ${e.government.primeMinister}. ` +
+  (e.daysToNext === null ? `Sitting since then.` : `Lasted ${years(e.daysToNext)}.`);
+---
+
+<ChartCard title="Majority and minority Parliaments, 1867–2025" lede={lede} sources={[{ label: "Wikipedia, List of Canadian federal elections (CC BY-SA 4.0)", url: wikiListUrl }]} tableLabel="Show the data">
+  <dl class="grid grid-cols-2 gap-3 text-sm">
+    <div class="rounded-lg bg-surface-muted p-3">
+      <dt class="text-secondary">Majority Parliaments</dt>
+      <dd class="mt-1 text-xl font-bold tabular-nums text-primary">{maj.length + (current.government.type === "majority" ? 1 : 0)}</dd>
+      <dd class="text-xs text-muted">average {years(avg(maj))}</dd>
+    </div>
+    <div class="rounded-lg bg-surface-muted p-3">
+      <dt class="text-secondary">Minority Parliaments</dt>
+      <dd class="mt-1 text-xl font-bold tabular-nums text-primary">{min.length + (current.government.type === "minority" ? 1 : 0)}</dd>
+      <dd class="text-xs text-muted">average {years(avg(min))}</dd>
+    </div>
+  </dl>
+
+  <Legend
+    class="mt-4"
+    items={[
+      { label: "Liberal majority", color: FEDERAL.lpc.color },
+      { label: "Liberal minority", color: FEDERAL.lpc.color, kind: "light" },
+      { label: "Conservative majority", color: FEDERAL.cpc.color },
+      { label: "Conservative minority", color: FEDERAL.cpc.color, kind: "light" },
+    ]}
+  />
+
+  <tn-chart class="gv mt-4 block">
+    <div role="group" aria-label="Parliaments in order; use the arrow keys to move between them">
+      {
+        rowStarts.map((start, row) => (
+          <div class="mt-2 first:mt-0">
+            <svg class="block h-8 w-full" viewBox="0 0 1000 32" preserveAspectRatio="none">
+              <rect width="1000" height="32" class="gv-track" />
+              {pieces
+                .filter((p) => p.row === row)
+                .map((p) => (
+                  <rect
+                    x={p.x}
+                    width={p.w}
+                    height="32"
+                    class:list={["gv-seg", p.e.government.type]}
+                    fill={FEDERAL[p.e.government.family].color}
+                    style={`--c: ${FEDERAL[p.e.government.family].color}`}
+                    data-tip={`${id}-${p.i}`}
+                    data-group={p.i}
+                    data-row={row}
+                    role="img"
+                    aria-label={aria(p.e)}
+                  />
+                ))}
+            </svg>
+            <div class="relative mt-1 h-4 text-[11px] text-muted" aria-hidden="true">
+              {[0, 10, 20, 30].map((d) => (
+                <span class:list={["absolute leading-none", d && "-translate-x-1/2"]} style={`left: ${(d / SPAN) * 100}%`}>
+                  {start + d}
+                </span>
+              ))}
+            </div>
+          </div>
+        ))
+      }
+    </div>
+
+    <p class="mt-3 text-xs text-muted">
+      Each block runs from one general election to the next; the longest, elected in {longest.year}, lasted {years(longest.daysToNext!)}. The last block
+      is the Parliament elected in {current.year}, still sitting.
+    </p>
+
+    {
+      elections.map((e, i) => (
+        <template id={`${id}-${i}`}>
+          <p class="ct-h">{ordinal(e.number)} Parliament</p>
+          <p class="ct-sub">Elected {formatDate(e.date)}</p>
+          <p class="ct-p">
+            <span class="ct-sw" style={`--sw: ${FEDERAL[e.government.family].color}`} />
+            <strong>{governmentLabel(e)}</strong> under {e.government.primeMinister}, {e.government.seats} of {e.houseSize} seats
+          </p>
+          <p class="ct-p">
+            {e.nextElection
+              ? `Lasted ${years(parliamentDays(e))}, until the election of ${formatDate(e.nextElection)}.`
+              : `Sitting for ${years(parliamentDays(e))} so far.`}
+          </p>
+        </template>
+      ))
+    }
+    <ChartTip />
+  </tn-chart>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Parliament</th>
+          <th scope="col">Elected</th>
+          <th scope="col">Government</th>
+          <th scope="col">Seats</th>
+          <th scope="col">Lasted</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          elections.map((e) => (
+            <tr>
+              <th scope="row" class="font-normal">
+                {ordinal(e.number)}
+              </th>
+              <td>{formatDate(e.date, "short")}</td>
+              <td>
+                {governmentLabel(e)} ({e.government.primeMinister})
+              </td>
+              <td>
+                {e.government.seats} of {e.houseSize}
+              </td>
+              <td>{e.daysToNext === null ? "Sitting" : years(e.daysToNext)}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <caption>
+        Majority: the governing party alone held more than half the seats. A Parliament's length here is the time from its election to the next general
+        election. Data fetched {historyMeta.fetched}.
+      </caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+<style>
+  .gv-track {
+    fill: var(--tn-surface-muted);
+  }
+  .gv-seg {
+    stroke: var(--tn-surface);
+    stroke-width: 2;
+    vector-effect: non-scaling-stroke;
+    transition: opacity 120ms ease-out;
+  }
+  .gv-seg.minority {
+    fill-opacity: 0.3;
+  }
+  .gv[data-active] .gv-seg:not(.is-active) {
+    opacity: 0.4;
+  }
+  .gv-seg.is-active {
+    stroke: var(--tn-text-primary);
+  }
+  .gv-seg:focus-visible {
+    stroke: var(--tn-focus);
+    stroke-width: 3;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .gv-seg {
+      transition: none;
+    }
+  }
+</style>

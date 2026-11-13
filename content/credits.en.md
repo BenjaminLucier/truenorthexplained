@@ -12,8 +12,9 @@ fetched. This page lists all of it.
 ## Datasets
 
 The charts, timelines and tables on the reference pages ([Prime ministers](/prime-ministers),
-[Monarchs and governors general](/governors-general) and [Demographics](/demographics))
-are built from these datasets when the site is built.
+[Monarchs and governors general](/governors-general), [Demographics](/demographics) and
+[150 years of federal elections](/elections-history)) are built from these datasets when
+the site is built.
 
 <tn-widget name="credits" data-part="datasets"></tn-widget>
 
@@ -21,6 +22,15 @@ are built from these datasets when the site is built.
   the public domain under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
   The script checks who currently holds each office against the matching Wikipedia
   article, because Wikidata can lag behind an election, and records any difference.
+- **Elections Canada** material (turnout, electors and ballots at every general election,
+  and the milestones from *A History of the Vote in Canada*) is used under the
+  [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada).
+  This site is not endorsed by Elections Canada.
+- **Wikipedia** tables (seats and votes at each federal election, women elected, and the
+  lists of premiers) are used under
+  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The scripts cross-check
+  them against each other and against Elections Canada, and record any disagreement with
+  the data.
 - **Statistics Canada** data is used under the
   [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada).
   This site is not endorsed by Statistics Canada.

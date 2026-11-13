@@ -1,0 +1,272 @@
+{{Short description|none}}
+{{Use Canadian English|date=January 2023}}
+{{Use mdy dates|date=October 2012}}
+{{More citations needed|date=March 2011}}
+
+The [[Canadian territory]] of [[Yukon]] has had a [[responsible government]] since 1978. In the 19th century, Yukon was a segment of the [[Hudson's Bay Company]]-administered [[North-Western Territory]] and then the Canadian-administered Northwest Territories. The territory only obtained a recognizable local government in 1895 when it became a separate [[district of the Northwest Territories]].<ref>{{harvnb|Coates|1988|p=74}}</ref> In 1898, Yukon was made a separate territory with its own [[Commissioner of Yukon|commissioner]] and appointed [[Yukon Territorial Council|Territorial Council]].<ref>{{harvnb|Coates|1988|p=103}}</ref> Prior to the creation of the [[Yukon Legislative Assembly]] in 1978, the Territorial Council had a largely advisory role with no political parties or government leader. Instead, powers were invested in the governing Commissioner appointed by the federal government.<ref>{{cite web|accessdate=November 10, 2008|url=http://archives.cbc.ca/politics/provincial_territorial_politics/topics/2365/|title=Territorial Battles: Yukon Elections, 1978-2006 |publisher=CBC|date=November 22, 1978 }}</ref>
+
+Yukon has had twelve [[Premier of Yukon|premier]]s since 1978, of which six were from the [[Yukon Party]] and its predecessor the [[Yukon Progressive Conservative Party]], four were from the [[Yukon Liberal Party]], and two were from the [[Yukon New Democratic Party]]. The Government of Yukon does not publish an official list of premiers. Listed here are the terms of serve as provided by the [[Parliament of Canada]].<ref name="Parliament">{{cite web|title=Territory File - Premiers - Yukon|url=http://www.parl.gc.ca/Parlinfo/Files/Province.aspx?Item=541ea9a1-9be8-4c14-bb9e-91af86ef1df1&Language=E&MenuID=Compilations.ProvinceTerritory.aspx.Menu%3DProvinceTerritory&MenuQuery=http%3A%2F%2Fwww.parl.gc.ca%2FParlinfo%2Fcompilations%2FProvinceTerritory.aspx%3FMenu%3DProvinceTerritory&Section=Premiers|publisher=Parliament of Canada|accessdate=October 30, 2012}}</ref>
+
+==Premiers of Yukon==
+{{legend2|{{Canadian party colour|YT|Liberal}}|[[Yukon Liberal Party]]|border=1px solid #AAAAAA}}
+{{legend2|{{Canadian party colour|YT|NDP}}|[[Yukon New Democratic Party]]|border=1px solid #AAAAAA}}
+{{legend2|{{Canadian party colour|YT|PC}}|[[Yukon Progressive Conservative Party]]|border=1px solid #AAAAAA}}
+{{legend2|{{Canadian party colour|YT|Yukon}}|[[Yukon Party]]|border=1px solid #AAAAAA}}
+
+{{Canadian first minister list/top|references=yes}}
+|-
+|colspan=10|
+'''Government Leaders of Yukon'''
+{{Canadian first minister list
+|name            = [[Chris Pearson (politician)|Chris Pearson]]
+|jurisdiction    = YT
+|number          = 1
+|leadership      = 1978
+|image           = 
+|party           = PC
+|birth_year      = 1931
+|death_year      = 2014
+|riding          = [[Riverdale North]]
+|term_start      = 1978-12-14
+|term_end        = 1985-03-22
+|event1          = election
+|event1_year     = 1978
+|event1_assembly = 24th
+|event2          = election
+|event2_year     = 1982
+|event2_assembly = 25th
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Willard Phelps]]
+|jurisdiction    = YT
+|number          = 2
+|leadership      = 1985
+|image           = 
+|party           = PC
+|birth_year      = 1941
+|member_title    = none
+|term_start      = 1985-03-23
+|term_end        = 1985-05-28
+|event1          = appointment
+|event1_year     = 1985
+|event1_assembly = 25th
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Tony Penikett]]
+|jurisdiction    = YT
+|number          = 3
+|leadership      = 1981
+|image           = Tony Penikett Head Shot.jpg
+|party           = NDP
+|birth_year      = 1945
+|riding          = [[Whitehorse West]]
+|term_start      = 1985-05-29
+|term_end        = 1992-11-06
+|event1          = election
+|event1_year     = 1985
+|event1_assembly = 26th
+|event2          = election
+|event2_year     = 1989
+|event2_assembly = 27th
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[John Ostashek]]
+|jurisdiction    = YT
+|number          = 4
+|leadership      = 1991
+|image           = 
+|party           = Yukon
+|birth_year      = 1936
+|death_year      = 2007
+|riding          = [[Porter Creek North]]
+|term_start      = 1992-11-07
+|term_end        = 1996-10-18
+|event1          = election
+|event1_year     = 1992
+|event1_assembly = 28th
+|references      = 
+}}
+|-
+|colspan=10|
+'''Premiers of Yukon'''
+{{Canadian first minister list
+|name            = [[Piers McDonald]]
+|jurisdiction    = YT
+|number          = 5
+|leadership      = 1995
+|image           = 
+|party           = NDP
+|birth_year      = 1955
+|riding          = [[McIntyre-Takhini]]
+|term_start      = 1996-10-19
+|term_end        = 2000-05-05
+|event1          = election
+|event1_year     = 1996
+|event1_assembly = 29th
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Pat Duncan]]
+|jurisdiction    = YT
+|number          = 6
+|leadership      = 1998
+|image           = Pat Duncan Yukon Senator.jpg
+|party           = Liberal
+|birth_year      = 1960
+|riding          = [[Porter Creek South]]
+|term_start      = 2000-05-06
+|term_end        = 2002-11-30
+|event1          = election
+|event1_year     = 2000
+|event1_assembly = 30th
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Dennis Fentie]]
+|jurisdiction    = YT
+|number          = 7
+|leadership      = 2002
+|image           = Dennis Fentie.jpg
+|party           = Yukon
+|birth_year      = 1950
+|death_year      = 2019
+|riding          = [[Watson Lake (electoral district)|Watson Lake]]
+|term_start      = 2002-11-30
+|term_end        = 2011-06-10
+|event1          = election
+|event1_year     = 2002
+|event1_assembly = 31st
+|event2          = election
+|event2_year     = 2006
+|event2_assembly = 32nd
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Darrell Pasloski]]
+|jurisdiction    = YT
+|number          = 8
+|leadership      = [[2011 Yukon Party leadership election|2011]]
+|image           = Darrell Pasloski.jpg
+|party           = Yukon
+|birth_year      = 1960
+|riding          = [[Mountainview (electoral district)|Mountainview]]
+|term_start      = 2011-06-11
+|term_end        = 2016-12-03
+|event1          = appointment
+|event1_year     = 2011
+|event1_assembly = 32nd
+|event2          = election
+|event2_year     = 2011
+|event2_assembly = 33rd
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Sandy Silver]]
+|jurisdiction    = YT
+|number          = 9
+|leadership      = 2012
+|image           = Sandy Silver.jpg
+|party           = Liberal
+|birth_year      = 1969
+|riding          = [[Klondike (electoral district)|Klondike]]
+|term_start      = 2016-12-03
+|term_end        = 2023-01-14
+|event1          = election
+|event1_year     = 2016
+|event1_assembly = 34th
+|event2          = election
+|event2_year     = 2021
+|event2_assembly = 35th
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Ranj Pillai]]
+|jurisdiction    = YT
+|number          = 10
+|leadership      = [[2023 Yukon Liberal Party leadership election|2023]]
+|image           = Ranj Pillai (cropped).png
+|party           = Liberal
+|birth_year      = 1974
+|riding          = [[Porter Creek South]]
+|term_start      = 2023-01-14
+|term_end        =2025-06-27 
+|event1          = appointment
+|event1_year     = 2023
+|event1_assembly = 35th
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Mike Pemberton]]
+|jurisdiction    = YT
+|number          = 11
+|leadership      = [[2025 Yukon Liberal Party leadership election|2025]]
+|image           = 
+|party           = Liberal
+|birth_year      = 1963
+|member_title    = none
+|term_start      = 2025-06-27
+|term_end        = 2025-11-22
+|event1          = appointment
+|event1_year     = 2025
+|event1_assembly = 35th
+|references      = 
+}}
+
+{{Canadian first minister list
+|name            = [[Currie Dixon]]
+|jurisdiction    = YT
+|number          = 12
+|leadership      = [[2020 Yukon Party leadership election|2020]]
+|image           = Currie Dixon interview.jpg
+|party           = Yukon
+|birth_year      = 1985
+|death_year      = 
+|riding          = [[Copperbelt North]]
+|term_start      = 2025-11-22
+|term_end        = 
+|accomplishments = First Yukon-born premier.
+|event1          = election
+|event1_year     = 2025
+|event1_assembly = 36th
+|references      = 
+}}
+
+{{Canadian first minister list/bottom|colspan=12}}
+
+==See also==
+* [[List of Yukon commissioners]]
+* [[List of Yukon Leaders of Opposition]]
+
+==Footnotes==
+{{reflist|group=N}}
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite web|accessdate=November 10, 2008|url=http://www.electionsyukon.gov.yk.ca/gen-elections.html|title=General Elections |publisher=Elections Yukon }}
+* {{cite book|title=Land of the Midnight Sun|author1=Coates, Kenneth |author2=Morrison, William Robert |year=1988 |publisher=Hurtig Publishers |isbn=978-0-88830-331-8 |url=https://books.google.com/books?id=dBBiAAAACAAJ|ref=CITEREFCoates1988 }}
+
+==External links==
+* [http://www.yukonpremier.ca/ Premier of Yukon]
+
+{{Canadian First Ministers}}
+{{Yukon politics}}
+
+{{DEFAULTSORT:Premiers of Yukon, List of}}
+[[Category:Lists of premiers of Canada by province or territory|Yukon]]
+[[Category:Premiers of Yukon|*]]
+[[Category:Lists of people from Yukon]]
+[[Category:Yukon politics-related lists]]

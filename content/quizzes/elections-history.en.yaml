@@ -1,0 +1,93 @@
+# Question bank: 150 years of federal elections (reference page)
+# Format: see SITEMAP.md, section "Quizzes".
+
+- id: elections-history-governing-parties
+  pages: [elections-history]
+  tags: [elections, parties]
+  type: single
+  question: Which parties have formed the federal government since 1867?
+  options:
+    - Only the Liberals and the Conservatives (under their various names)
+    - The Liberals, the Conservatives and the NDP
+    - The Liberals, the Conservatives and the Progressives
+    - Every party that has won more than 50 seats
+  answer: 0
+  explanation: >
+    Every federal government since Confederation has been Liberal or Conservative.
+    The Conservative side has had several names, including Liberal-Conservative,
+    Unionist and Progressive Conservative.
+  source: https://en.wikipedia.org/wiki/List_of_Canadian_federal_elections
+
+- id: elections-history-most-votes
+  pages: [elections-history, learn/elections/first-past-the-post]
+  tags: [elections, electoral-reform]
+  type: true-false
+  question: The party that wins the most votes nationally always wins the most seats.
+  answer: false
+  explanation: >
+    Seats depend on where the votes are. In 2019 and 2021, for example, the
+    Conservatives won more votes than the Liberals, but the Liberals won more seats
+    and formed the government.
+  source: https://en.wikipedia.org/wiki/List_of_Canadian_federal_elections
+
+- id: elections-history-majority-under-half
+  pages: [elections-history]
+  tags: [elections, electoral-reform]
+  type: true-false
+  question: Most majority governments since 1867 were elected with less than half of the votes cast.
+  answer: true
+  explanation: >
+    Under first-past-the-post, the winning party usually gets a bigger share of the
+    seats than of the votes. Most majority governments have won their majority of
+    seats with well under 50% of the vote.
+  source: https://en.wikipedia.org/wiki/List_of_Canadian_federal_elections
+
+- id: elections-history-turnout-peak
+  pages: [elections-history]
+  tags: [elections]
+  type: single
+  question: In which election was turnout highest, at almost 80% of registered electors?
+  options:
+    - "1867"
+    - "1958"
+    - "1993"
+    - "2015"
+  answer: 1
+  explanation: >
+    Turnout reached 79.4% in 1958, when John Diefenbaker's Progressive Conservatives
+    won what is still the biggest share of seats any party has won. Its lowest was
+    58.8%, in 2008.
+  source: https://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e
+
+- id: elections-history-first-nations-vote
+  pages: [elections-history]
+  tags: [elections, indigenous]
+  type: single
+  question: Since when have First Nations people been able to vote in federal elections without giving up their status?
+  options:
+    - "1867"
+    - "1921"
+    - "1960"
+    - "1982"
+  answer: 2
+  explanation: >
+    In 1960, First Nations people gained the right to vote federally without
+    conditions. Before that, most could vote only if they gave up their status under
+    the Indian Act.
+  source: https://www.elections.ca/content.aspx?section=res&dir=his/chap3&document=index&lang=e
+
+- id: elections-history-voting-age
+  pages: [elections-history]
+  tags: [elections]
+  type: single
+  question: When was the federal voting age lowered from 21 to 18?
+  options:
+    - "1918"
+    - "1948"
+    - "1970"
+    - "1993"
+  answer: 2
+  explanation: >
+    Parliament lowered the voting age to 18 in 1970. Young people voted under the new
+    rule for the first time in the 1972 election.
+  source: https://www.elections.ca/content.aspx?section=res&dir=his/chap3&document=index&lang=e

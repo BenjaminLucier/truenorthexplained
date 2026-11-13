@@ -1,0 +1,1015 @@
+{{Short description|None}}
+{{Use Canadian English|date=January 2023}}
+{{Use mdy dates|date=October 2012}}
+{{Infobox official post
+|post = Premier
+|body = Prince Edward Island
+|flag = 
+|flag_size = 
+|flag_caption = 
+|insignia = Arms of Prince Edward Island.svg
+|insignia_size = 110px
+|insignia_caption =  [[Coat of arms of Prince Edward Island]]
+|image = RobLantz2015.jpg
+|incumbent = [[Rob Lantz]]
+|incumbent_since = February 9, 2026
+|department = [[Government of Prince Edward Island]]<br />Office of the Premier
+|style = [[The Honourable]]
+|member_of = {{hlist |[[Executive Council of Prince Edward Island|Executive Council]]}}
+|reports_to = [[Legislative Assembly of Prince Edward Island|Legislative Assembly]]
+|residence = 
+|seat = [[Charlottetown]]
+|appointer = [[Lieutenant Governor of Prince Edward Island]]
+|appointer_qualified = 
+|term_length = [[At {{ucfirst:{{Canadian monarch, current|genderp=~}}}} Majesty's pleasure]]
+|term_length_qualified = 
+|formation = 1873
+|inaugural = 
+|salary = $68,721 plus $74,634 (indemnity and allowances)<ref>{{Cite web |url=http://www.assembly.pe.ca/photos/original/leg_f15indem15.pdf |title=Archived copy |access-date=December 16, 2016 |archive-date=August 29, 2016 |archive-url=https://web.archive.org/web/20160829211727/http://www.assembly.pe.ca/photos/original/leg_f15indem15.pdf |url-status=dead }}</ref>
+|website =
+}}
+
+The [[premier of Prince Edward Island]] is the [[first minister]] for the [[Provinces and territories of Canada|Canadian province]] of [[Prince Edward Island]]. They are the province's [[head of government]] and ''de facto'' chief executive.
+
+[[Prince Edward Island]] was a British [[crown colony]] before it joined [[Canadian Confederation]] in 1873. It has had a system of [[responsible government]] since 1851, and the province kept its own legislature to deal with provincial matters after joining Confederation.<ref>{{cite web|access-date=November 9, 2008|url=http://www.elections.ca/content.asp?section=gen&document=chap1&dir=his&lang=e&textonly=false|title=A History of the Vote in Canada |publisher=Elections Canada }}</ref> Prince Edward Island has a unicameral [[Westminster System|Westminster-style]] [[parliamentary government]], in which the premier is the leader of the party that controls the most seats in the [[Legislative Assembly of Prince Edward Island|Legislative Assembly]].<ref>{{cite encyclopedia |access-date=November 9, 2008 |url=https://www.thecanadianencyclopedia.ca/en/article/provincial-government |archive-url=https://web.archive.org/web/20091121011558/http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1SEC826774|url-status=live |archive-date=November 21, 2009|title=Provincial Government in Canada |encyclopedia=[[The Canadian Encyclopedia]] |publisher=[[Historica Canada]] |first=Norman J. |last=Ruff |others=updated by Andrew McIntosh |date=30 October 2020}}</ref>  The premier is Prince Edward Island's [[head of government]], and the [[king of Canada]] is its [[head of state]] and is represented by the [[lieutenant governor of Prince Edward Island]].<ref>{{cite web|access-date=November 9, 2008|url=http://www.gov.pe.ca/lg/about.php3|title=The Office of Lieutenant Governor |publisher=Government of Prince Edward Island }}</ref> The premier picks a cabinet from the elected members to form the [[Executive Council of Prince Edward Island]], and presides over that body.<ref>{{cite web|access-date=November 9, 2008|url=http://www.gov.pe.ca/ec/index.php3|title=Executive Council |publisher=Government of Prince Edward Island }}</ref>
+
+Members are first elected to the legislature during [[List of Prince Edward Island general elections|general elections]]. General elections must be conducted every five years from the date of the last election, but the premier may ask for early [[Dissolution of parliament#Canada|dissolution]] of the Legislative Assembly. An election may also take place if the governing party loses the confidence of the legislature by the defeat of a supply bill or tabling of a confidence motion.<ref>{{cite web|access-date=November 9, 2008|url=http://www.electionspei.ca/provincial/guide/|title=Guide to Provincial General Elections|publisher=Elections Prince Edward Island|archive-url=https://web.archive.org/web/20081017211727/http://www.electionspei.ca/provincial/guide/|archive-date=October 17, 2008|url-status=dead|df=mdy-all}}</ref>
+
+Prince Edward Island has had 46&nbsp;government leaders since it became a colony in 1851. The province had 7&nbsp;premiers while a colony and 34&nbsp;premiers after joining Confederation, of which 18<!--Pope was Premier both before and after Confederation--> were from the [[Prince Edward Island Progressive Conservative Party]] and 23 were from the [[Prince Edward Island Liberal Party]]. 
+
+The current premier is [[Rob Lantz]], since February 9, 2026.
+
+==List of premiers of Prince Edward Island==
+
+{{Canadian first minister list/top|references=yes}}
+|-
+|colspan=11|
+'''Premiers of the Colony of Prince Edward Island'''
+{{Canadian first minister list
+|name            = [[George Coles (politician)|George Coles]]
+|jurisdiction    = PE
+|number          = 1
+|number_sub      = 1 of 3
+|image           = George Coles.jpg
+|party           = Liberal
+|leadership      = 1851
+|birth_year      = 1810
+|death_year      = 1875
+|member_title    = MHA
+|riding          = [[1st Queens]]
+|term_start      = 1851-04-24
+|term_end_custom = 1854
+|event1          = establishment
+|event1_year     = 1851
+|event1_assembly = 18th
+|event2          = election
+|event2_year     = 1853
+|event2_assembly = 19th
+}}
+{{Canadian first minister list
+|name              = [[John Holl]]
+|jurisdiction      = PE
+|number            = 2
+|image             = John Holl.jpg
+|party             = Conservative
+|leadership        = 1854
+|birth_year        = 1802
+|death_year        = 1869
+|member_title      = Councillor
+|riding            = colony-at-large
+|term_start_custom = 1854
+|term_end_custom   = 1855
+|event1            = appointment
+|event1_year       = 1854
+|event1_assembly   = 19th
+}}
+{{Canadian first minister list
+|name              = [[George Coles (politician)|George Coles]]
+|jurisdiction      = PE
+|number            = &mdash;
+|number_sub        = 2 of 3
+|image             = George Coles.jpg
+|party             = Liberal
+|leadership        = 1851
+|birth_year        = 1810
+|death_year        = 1875
+|member_title      = MHA
+|riding            = [[1st Queens]]
+|term_start_custom = 1855
+|term_end_custom   = 1859
+|event1            = election
+|event1_year       = 1854
+|event1_assembly   = 20th
+}}
+{{Canadian first minister list
+|name              = [[Edward Palmer (Canadian politician)|Edward Palmer]]
+|jurisdiction      = PE
+|number            = 3
+|image             = Edward Palmer.jpg
+|party             = Conservative
+|leadership        = 1855
+|birth_year        = 1809
+|death_year        = 1889
+|member_title      = MHA
+|riding            = [[5th Queens]]<br/><small>(Councillor after 1860)</small>
+|term_start_custom = 1859
+|term_end          = 1863-03-02
+|event1            = election
+|event1_year       = 1859
+|event1_assembly   = 21st
+}}
+{{Canadian first minister list
+|name            = [[John Hamilton Gray (Prince Edward Island politician)|John Hamilton Gray]]
+|jurisdiction    = PE
+|number          = 4
+|image           = John Hamilton Gray (1811-1887).jpg
+|party           = Conservative
+|leadership      = 1863
+|birth_year      = 1811
+|death_year      = 1887
+|member_title    = MHA
+|riding          = [[4th Queens]]
+|term_start      = 1863-03-02
+|term_end        = 1865-01-07
+|event1          = election
+|event1_year     = 1863
+|event1_assembly = 22nd
+}}
+{{Canadian first minister list
+|name            = [[James Colledge Pope|J. C. Pope]]
+|jurisdiction    = PE
+|number          = 5
+|number_sub      = 1 of 3
+|image           = JamesColledgePope.jpg
+|party           = Conservative
+|leadership      = 1865
+|birth_year      = 1826
+|death_year      = 1885
+|member_title    = MHA
+|riding          = [[3rd Prince]]
+|term_start      = 1865-01-07
+|term_end        = 1867-03-14
+|event1          = appointment
+|event1_year     = 1865
+|event1_assembly = 22nd
+}}
+{{Canadian first minister list
+|name            = [[George Coles (politician)|George Coles]]
+|jurisdiction    = PE
+|number          = &mdash;
+|number_sub      = 3 of 3
+|image           = George Coles.jpg
+|party           = Liberal
+|leadership      = 1851
+|birth_year      = 1810
+|death_year      = 1875
+|member_title    = MHA
+|riding          = [[1st Queens]]
+|term_start      = 1867-03-14
+|term_end_custom = c. late 1868
+|event1          = election
+|event1_year     = 1867
+|event1_assembly = 23rd
+}}
+{{Canadian first minister list
+|name              = [[Joseph Hensley]]
+|jurisdiction      = PE
+|number            = 6
+|image             = Joseph Hensliey.jpg
+|party             = Liberal
+|leadership        = 1869
+|birth_year        = 1824
+|death_year        = 1894
+|member_title      = MHA
+|riding            = [[1st Kings]]
+|term_start_custom = c. late 1868
+|term_end_custom   = <small>July</small><br/>1869
+|event1            = appointment
+|event1_year       = 1869
+|event1_assembly   = 23rd
+}}
+{{Canadian first minister list
+|name              = [[Robert Haythorne|R. P. Haythorne]]
+|jurisdiction      = PE
+|number            = 7
+|number_sub        = 1 of 2
+|image             = Robert Poore Haythorne.jpg
+|party             = Liberal
+|leadership        = 1869
+|birth_year        = 1815
+|death_year        = 1891
+|member_title      = Councillor
+|riding            = [[2nd Queens]]
+|term_start_custom = 1869
+|term_end          = 1870-09-10
+|event1            = appointment
+|event1_year       = 1869
+|event1_assembly   = 23rd
+|event2            = election
+|event2_year       = 1870
+|event2_assembly   = 24th
+}}
+{{Canadian first minister list
+|name            = [[James Colledge Pope|J. C. Pope]]
+|jurisdiction    = PE
+|number          = &mdash;
+|number_sub      = 2 of 3
+|image           = JamesColledgePope.jpg
+|party           = Conservative
+|leadership      = 1865
+|birth_year      = 1826
+|death_year      = 1885
+|member_title    = MHA
+|riding          = [[4th Prince]]
+|term_start      = 1870-09-10
+|term_end_custom = 1872
+|event1          = appointment
+|event1_year     = 1870
+|event1_assembly = 24th
+}}
+{{Canadian first minister list
+|name              = [[Robert Haythorne|R. P. Haythorne]]
+|jurisdiction      = PE
+|number            = &mdash;
+|number_sub        = 2 of 2
+|image             = Robert Poore Haythorne.jpg
+|party             = Liberal
+|leadership        = 1869
+|birth_year        = 1815
+|death_year        = 1891
+|member_title      = Councillor
+|riding            = [[2nd Queens]]
+|term_start_custom = 1872
+|term_end_custom   = <small>April</small><br/>1873
+|event1            = election
+|event1_year       = 1872
+|event1_assembly   = 25th
+}}
+{{Canadian first minister list
+|name              = [[James Colledge Pope|J. C. Pope]]
+|jurisdiction      = PE
+|number            = &mdash;
+|number_sub        = 3 of 3
+|image             = JamesColledgePope.jpg
+|party             = Conservative
+|leadership        = 1865
+|birth_year        = 1826
+|death_year        = 1885
+|member_title      = MHA
+|riding            = [[5th Queens]]
+|term_start_custom = <small>April</small><br/>1873
+|term_end          = 1873-07-01
+|event1            = election
+|event1_year       = 1873
+|event1_assembly   = 26th
+}}
+|-
+|colspan=11|
+'''Premiers of the province of Prince Edward Island'''
+{{Canadian first minister list
+|name            = [[James Colledge Pope|J. C. Pope]]
+|jurisdiction    = PE
+|number          = 1
+|image           = JamesColledgePope.jpg
+|party           = Conservative
+|leadership      = 1865
+|birth_year      = 1826
+|death_year      = 1885
+|member_title    = MHA
+|riding          = [[5th Queens]]
+|term_start      = 1873-07-01
+|term_end_custom = <small>September</small><br/>1873
+|event1          = establishment
+|event1_year     = 1873
+|event1_assembly = 26th
+}}
+{{Canadian first minister list
+|name              = [[Lemuel Owen|L. C. Owen]]
+|jurisdiction      = PE
+|number            = 2
+|image             = Lemuel Owen.jpg
+|party             = Conservative
+|leadership        = 1873
+|birth_year        = 1822
+|death_year        = 1912
+|member_title      = MHA
+|riding            = [[3rd Kings]]
+|term_start_custom = <small>September</small><br/>1873
+|term_end_custom   = <small>August</small><br/>1876
+|event1            = appointment
+|event1_year       = 1873
+|event1_assembly   = 26th
+}}
+{{Canadian first minister list
+|name              = [[Louis Henry Davies]]
+|jurisdiction      = PE
+|number            = 3
+|image             = LouisHenryDavies.jpg
+|party             = Liberal
+|leadership        = 1876
+|birth_year        = 1845
+|death_year        = 1924
+|member_title      = MHA
+|riding            = [[5th Queens]]
+|term_start_custom = <small>August</small><br/>1876
+|term_end          = 1879-04-25
+|event1            = election
+|event1_year       = 1876
+|event1_assembly   = 27th
+}}
+{{Canadian first minister list
+|name            = [[William Wilfred Sullivan]]
+|jurisdiction    = PE
+|number          = 4
+|image           = William Sullivan.jpg
+|party           = Conservative
+|leadership      = 1877
+|birth_year      = 1839
+|death_year      = 1920
+|member_title    = MHA
+|riding          = [[2nd Kings]]
+|term_start      = 1879-04-25
+|term_end        = 1889-11-01
+|event1          = election
+|event1_year     = 1879
+|event1_assembly = 28th
+|event2          = election
+|event2_year     = 1882
+|event2_assembly = 29th
+|event3          = election
+|event3_year     = 1886
+|event3_assembly = 30th
+}}
+{{Canadian first minister list
+|name            = [[Neil McLeod (politician)|Neil McLeod]]
+|jurisdiction    = PE
+|number          = 5
+|image           = Neil Macleod.jpg
+|party           = Conservative
+|leadership      = 1889
+|birth_year      = 1842
+|death_year      = 1915
+|member_title    = MHA
+|riding          = [[5th Queens]]
+|term_start      = 1889-11-01
+|term_end        = 1891-04-27
+|event1          = appointment
+|event1_year     = 1889
+|event1_assembly = 30th
+|event2          = election
+|event2_year     = 1890
+|event2_assembly = 31st
+}}
+{{Canadian first minister list
+|name            = [[Frederick Peters]]
+|jurisdiction    = PE
+|number          = 6
+|image           = Frederick Peters.jpg
+|party           = Liberal
+|leadership      = 1891
+|birth_year      = 1851
+|death_year      = 1919
+|member_title    = MHA
+|riding          = [[3rd Queens]] <small>(Assemblyman after 1893)</small>
+|term_start      = 1891-04-27
+|term_end        = 1897-10-01
+|event1          = appointment
+|event1_year     = 1891
+|event1_assembly = 31st
+|event2          = election
+|event2_year     = 1893
+|event2_assembly = 32nd
+}}
+{{Canadian first minister list
+|name            = [[Alexander Warburton|Alexander B. Warburton]]
+|jurisdiction    = PE
+|number          = 7
+|image           = Alexander Warburton.jpg
+|party           = Liberal
+|leadership      = 1897
+|birth_year      = 1852
+|death_year      = 1929
+|member_title    = Councillor
+|riding          = [[1st Queens]]
+|term_start      = 1897-10-01
+|term_end        = 1898-08-01
+|event1          = election
+|event1_year     = 1897
+|event1_assembly = 33rd
+}}
+{{Canadian first minister list
+|name            = [[Donald Farquharson (politician)|Donald Farquharson]]
+|jurisdiction    = PE
+|number          = 8
+|image           = Donald Farquharson.jpg
+|party           = Liberal
+|leadership      = 1898
+|birth_year      = 1834
+|death_year      = 1903
+|member_title    = Councillor
+|riding          = [[2nd Queens]]
+|term_start      = 1898-08-01
+|term_end        = 1901-12-29
+|event1          = appointment
+|event1_year     = 1898
+|event1_assembly = 33rd
+|event2          = election
+|event2_year     = 1900
+|event2_assembly = 34th
+}}
+{{Canadian first minister list
+|name            = [[Arthur Peters (Canadian politician)|Arthur Peters]]
+|jurisdiction    = PE
+|number          = 9
+|image           = Arthur Peters.jpg
+|party           = Liberal
+|leadership      = 1901
+|birth_year      = 1854
+|death_year      = 1908
+|member_title    = Assemblyman
+|riding          = [[2nd Kings]]
+|term_start      = 1901-12-29
+|term_end        = 1908-01-29
+|event1          = appointment
+|event1_year     = 1901
+|event1_assembly = 34th
+|event2          = election
+|event2_year     = 1904
+|event2_assembly = 35th
+}}
+{{Canadian first minister list
+|name            = [[Francis Haszard]]
+|jurisdiction    = PE
+|number          = 10
+|image           = Francis Haszard.jpg
+|party           = Liberal
+|leadership      = 1908
+|birth_year      = 1849
+|death_year      = 1938
+|member_title    = Councillor
+|riding          = [[4th Queens]]
+|term_start      = 1908-02-01
+|term_end        = 1911-05-16
+|event1          = appointment
+|event1_year     = 1908
+|event1_assembly = 35th
+|event2          = election
+|event2_year     = 1908
+|event2_assembly = 36th
+}}
+{{Canadian first minister list
+|name            = [[Herbert James Palmer|H. James Palmer]]
+|jurisdiction    = PE
+|number          = 11
+|image           = Herbert James Palmer.jpg
+|party           = Liberal
+|leadership      = 1911
+|birth_year      = 1851
+|death_year      = 1939
+|member_title    = Assemblyman
+|riding          = [[3rd Queens]]
+|term_start      = 1911-05-16
+|term_end        = 1911-12-02
+|event1          = appointment
+|event1_year     = 1911
+|event1_assembly = 36th
+}}
+{{Canadian first minister list
+|name            = [[John Alexander Mathieson|John A. Mathieson]]
+|jurisdiction    = PE
+|number          = 12
+|image           = John Mathieson.jpg
+|party           = Conservative
+|leadership      = 1903
+|birth_year      = 1863
+|death_year      = 1947
+|member_title    = Councillor
+|riding          = [[5th Kings]]
+|term_start      = 1911-12-02
+|term_end        = 1917-06-21
+|event1          = appointment
+|event1_year     = 1911
+|event1_assembly = 36th
+|event2          = election
+|event2_year     = 1912
+|event2_assembly = 37th
+|event3          = election
+|event3_year     = 1915
+|event3_assembly = 38th
+}}
+{{Canadian first minister list
+|name            = [[Aubin-Edmond Arsenault]]
+|jurisdiction    = PE
+|number          = 13
+|image           = Aubin-Edmond Arsenault.jpg
+|party           = Conservative
+|leadership      = 1917
+|birth_year      = 1870
+|death_year      = 1968
+|member_title    = Assemblyman
+|riding          = [[3rd Prince]]
+|term_start      = 1917-06-21
+|term_end        = 1919-09-09
+|event1          = appointment
+|event1_year     = 1917
+|event1_assembly = 38th
+}}
+{{Canadian first minister list
+|name            = [[John Howatt Bell]]
+|jurisdiction    = PE
+|number          = 14
+|image           = John Howard Bell.jpg
+|party           = Liberal
+|leadership      = 1915
+|birth_year      = 1846
+|death_year      = 1929
+|member_title    = Assemblyman
+|riding          = [[4th Prince]]
+|term_start      = 1919-09-09
+|term_end        = 1923-09-05
+|event1          = election
+|event1_year     = 1919
+|event1_assembly = 39th
+}}
+{{Canadian first minister list
+|name            = [[James David Stewart|James D. Stewart]]
+|jurisdiction    = PE
+|number          = 15
+|number_sub      = 1 of 2
+|image           = James David Stewart.jpg
+|party           = Conservative
+|leadership      = 1921
+|birth_year      = 1874
+|death_year      = 1933
+|member_title    = Councillor
+|riding          = [[5th Kings]]
+|term_start      = 1923-09-05
+|term_end        = 1927-08-12
+|event1          = election
+|event1_year     = 1923
+|event1_assembly = 40th
+}}
+{{Canadian first minister list
+|name            = [[Albert Charles Saunders|Albert C. Saunders]]
+|jurisdiction    = PE
+|number          = 16
+|image           = Albert Saunders.jpg
+|party           = Liberal
+|leadership      = 1923
+|birth_year      = 1874
+|death_year      = 1943
+|member_title    = Assemblyman
+|riding          = [[1st Prince]]
+|term_start      = 1927-08-12
+|term_end        = 1930-05-20
+|event1          = election
+|event1_year     = 1927
+|event1_assembly = 41st
+}}
+{{Canadian first minister list
+|name            = [[Walter Lea|Walter M. Lea]]
+|jurisdiction    = PE
+|number          = 17
+|number_sub      = 1 of 2
+|image           = Walter Maxfield Lea.jpg
+|party           = Liberal
+|leadership      = 1930
+|birth_year      = 1874
+|death_year      = 1936
+|member_title    = Councillor
+|riding          = [[4th Prince]]
+|term_start      = 1930-05-20
+|term_end        = 1931-08-29
+|event1          = appointment
+|event1_year     = 1930
+|event1_assembly = 41st
+}}
+{{Canadian first minister list
+|name            = [[James David Stewart|James D. Stewart]]
+|jurisdiction    = PE
+|number          = &mdash;
+|number_sub      = 2 of 2
+|image           = James David Stewart.jpg
+|party           = Conservative
+|leadership      = 1921
+|birth_year      = 1874
+|death_year      = 1933
+|member_title    = Councillor
+|riding          = [[5th Kings]]
+|term_start      = 1931-08-29
+|term_end        = 1933-10-10
+|event1          = election
+|event1_year     = 1931
+|event1_assembly = 42nd
+}}
+{{Canadian first minister list
+|name            = [[William J. P. MacMillan]]
+|jurisdiction    = PE
+|number          = 18
+|image           = William Macmillan.jpg
+|party           = Conservative
+|leadership      = 1933
+|birth_year      = 1881
+|death_year      = 1957
+|member_title    = Councillor
+|riding          = [[5th Queens]]
+|term_start      = 1933-10-14
+|term_end        = 1935-08-15
+|event1          = appointment
+|event1_year     = 1933
+|event1_assembly = 42nd
+}}
+{{Canadian first minister list
+|name            = [[Walter Lea|Walter M. Lea]]
+|jurisdiction    = PE
+|number          = &mdash;
+|number_sub      = 2 of 2
+|image           = Walter Maxfield Lea.jpg
+|party           = Liberal
+|leadership      = 1930
+|birth_year      = 1874
+|death_year      = 1936
+|member_title    = Councillor
+|riding          = [[4th Prince]]
+|term_start      = 1935-08-15
+|term_end        = 1936-01-10
+|event1          = election
+|event1_year     = 1935
+|event1_assembly = 43rd
+}}
+{{Canadian first minister list
+|name            = [[Thane Campbell|Thane A. Campbell]]
+|jurisdiction    = PE
+|number          = 19
+|image           = Thane Campbell.jpg
+|party           = Liberal
+|leadership      = 1936
+|birth_year      = 1895
+|death_year      = 1978
+|member_title    = Councillor
+|riding          = [[1st Prince]]
+|term_start      = 1936-01-14
+|term_end        = 1943-05-11
+|event1          = appointment
+|event1_year     = 1936
+|event1_assembly = 43rd
+|event2          = election
+|event2_year     = 1939
+|event2_assembly = 44th
+}}
+{{Canadian first minister list
+|name            = [[John Walter Jones|J. Walter Jones]]
+|jurisdiction    = PE
+|number          = 20
+|image           = John Walter Jones.jpg
+|party           = Liberal
+|leadership      = 1943
+|birth_year      = 1878
+|death_year      = 1954
+|member_title    = Councillor
+|riding          = [[4th Queens]]
+|term_start      = 1943-05-11
+|term_end        = 1953-05-25
+|event1          = appointment
+|event1_year     = 1943
+|event1_assembly = 44th
+|event2          = election
+|event2_year     = 1943
+|event2_assembly = 45th
+|event3          = election
+|event3_year     = 1947
+|event3_assembly = 46th
+|event4          = election
+|event4_year     = 1951
+|event4_assembly = 47th
+}}
+{{Canadian first minister list
+|name            = [[Alexander Wallace Matheson|Alexander W. Matheson]]
+|jurisdiction    = PE
+|number          = 21
+|image           = AlexMatheson.jpg
+|party           = Liberal
+|leadership      = 1953
+|birth_year      = 1903
+|death_year      = 1976
+|member_title    = Councillor
+|riding          = [[4th Kings]]
+|term_start      = 1953-05-25
+|term_end        = 1959-09-16
+|event1          = appointment
+|event1_year     = 1953
+|event1_assembly = 47th
+|event2          = election
+|event2_year     = 1955
+|event2_assembly = 48th
+}}
+{{Canadian first minister list
+|name            = [[Walter Russell Shaw|Walter R. Shaw]]
+|jurisdiction    = PE
+|number          = 22
+|image           = Walter_R._Shaw_Sept._1964_(cropped).jpg
+|party           = PC
+|leadership      = 1957
+|birth_year      = 1887
+|death_year      = 1981
+|member_title    = Councillor
+|riding          = [[1st Queens]]
+|term_start      = 1959-09-16
+|term_end        = 1966-07-28
+|event1          = election
+|event1_year     = 1959
+|event1_assembly = 49th
+|event2          = election
+|event2_year     = 1962
+|event2_assembly = 50th
+}}
+{{Canadian first minister list
+|name            = [[Alex Campbell (politician)|Alexander B. Campbell]]
+|jurisdiction    = PE
+|number          = 23
+|image           = 
+|party           = Liberal
+|leadership      = 1965
+|birth_year      = 1933
+|member_title    = Councillor
+|riding          = [[5th Prince]]
+|term_start      = 1966-07-28
+|term_end        = 1978-09-18
+|event1          = election
+|event1_year     = 1966
+|event1_assembly = 51st
+|event2          = election
+|event2_year     = 1970
+|event2_assembly = 52nd
+|event3          = election
+|event3_year     = 1974
+|event3_assembly = 53rd
+|event4          = election
+|event4_year     = 1978
+|event4_assembly = 54th
+}}
+{{Canadian first minister list
+|name            = [[Bennett Campbell|W. Bennett Campbell]]
+|jurisdiction    = PE
+|number          = 24
+|image           = 
+|party           = Liberal
+|leadership      = 1978
+|birth_year      = 1943
+|death_year      = 2008
+|member_title    = Assemblyman
+|riding          = [[3rd Kings]]
+|term_start      = 1978-09-18
+|term_end        = 1979-05-03
+|event1          = appointment
+|event1_year     = 1978
+|event1_assembly = 54th
+
+}}
+{{Canadian first minister list
+|name            = [[Angus MacLean|J. Angus MacLean]]
+|jurisdiction    = PE
+|number          = 25
+|image           = Angus MacLean 1980 (cropped).jpg
+|party           = PC
+|leadership      = 1976
+|birth_year      = 1914
+|death_year      = 2000
+|member_title    = Assemblyman
+|riding          = [[4th Queens]]
+|term_start      = 1979-05-03
+|term_end        = 1981-11-17
+|event1          = election
+|event1_year     = 1979
+|event1_assembly = 55th
+}}
+{{Canadian first minister list
+|name            = [[James Lee (Canadian politician)|Jim Lee]]
+|jurisdiction    = PE
+|number          = 26
+|image           = 
+|party           = PC
+|leadership      = 1981
+|birth_year      = 1937
+|death_year      = 2023
+|member_title    = Assemblyman
+|riding          = [[5th Queens]]
+|term_start      = 1981-11-17
+|term_end        = 1986-05-02
+|event1          = appointment
+|event1_year     = 1981
+|event1_assembly = 55th
+|event2          = election
+|event2_year     = 1982
+|event2_assembly = 56th
+}}
+{{Canadian first minister list
+|name            = [[Joe Ghiz]]
+|jurisdiction    = PE
+|number          = 27
+|image           = 
+|party           = Liberal
+|leadership      = 1981
+|birth_year      = 1945
+|death_year      = 1996
+|member_title    = Assemblyman
+|riding          = [[6th Queens]]
+|term_start      = 1986-05-02
+|term_end        = 1993-01-25
+|event1          = election
+|event1_year     = 1986
+|event1_assembly = 57th
+|event2          = election
+|event2_year     = 1989
+|event2_assembly = 58th
+}}
+{{Canadian first minister list
+|name            = [[Catherine Callbeck]]
+|jurisdiction    = PE
+|number          = 28
+|image           = 
+|party           = Liberal
+|leadership      = 1993
+|birth_year      = 1939
+|member_title    = Councillor
+|riding          = [[1st Queens]]
+|term_start      = 1993-01-25
+|term_end        = 1996-10-10
+|event1          = appointment
+|event1_year     = 1993
+|event1_assembly = 58th
+|event2          = election
+|event2_year     = 1993
+|event2_assembly = 59th
+}}
+{{Canadian first minister list
+|name            = [[Keith Milligan]]
+|jurisdiction    = PE
+|number          = 29
+|image           = 
+|party           = Liberal
+|leadership      = 1996
+|birth_year      = 1950
+|member_title    = Assemblyman
+|riding          = [[2nd Prince]]
+|term_start      = 1996-10-10
+|term_end        = 1996-11-27
+|event1          = appointment
+|event1_year     = 1996
+|event1_assembly = 59th
+}}
+{{Canadian first minister list
+|name            = [[Pat Binns]]
+|jurisdiction    = PE
+|number          = 30
+|image           = 
+|party           = PC
+|leadership      = [[1996 Progressive Conservative Party of Prince Edward Island leadership election|1996]]
+|birth_year      = 1948
+|riding          = [[Belfast-Murray River|Murray River-Gaspereaux]]
+|term_start      = 1996-11-27
+|term_end        = 2007-06-13
+|event1          = election
+|event1_year     = 1996
+|event1_assembly = 60th
+|event2          = election
+|event2_year     = 2000
+|event2_assembly = 61st
+|event3          = election
+|event3_year     = 2003
+|event3_assembly = 62nd
+}}
+{{Canadian first minister list
+|name            = [[Robert Ghiz]]
+|jurisdiction    = PE
+|number          = 31
+|image           = Robert Ghiz.jpg
+|party           = Liberal
+|leadership      = 2003
+|birth_year      = 1974
+|riding          = [[Charlottetown-Brighton]]
+|term_start      = 2007-06-13
+|term_end        = 2015-02-23
+|event1          = election
+|event1_year     = 2007
+|event1_assembly = 63rd
+|event2          = election
+|event2_year     = 2011
+|event2_assembly = 64th
+}}
+{{Canadian first minister list
+|name            = [[Wade MacLauchlan|Wade H. MacLauchlan]]
+|jurisdiction    = PE
+|number          = 32
+|image           = Wade MacLauchlan in DC (cropped).jpg
+|party           = Liberal
+|leadership      = 2015
+|birth_year      = 1954
+|riding          = [[York-Oyster Bed]]
+|term_start      = 2015-02-23
+|term_end        = 2019-05-09
+|event1          = appointment
+|event1_year     = 2015
+|event1_assembly = 64th
+|event2          = election
+|event2_year     = 2015
+|event2_assembly = 65th
+|references      = <ref name=MacLauchlan>{{cite web|title=Experienced faces make up Wade MacLauchlan cabinet|url=http://www.cbc.ca/news/canada/prince-edward-island/experienced-faces-make-up-wade-maclauchlan-cabinet-1.2967079|publisher=CBC News|access-date=February 25, 2015|date=February 23, 2015}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Dennis King (politician)|Dennis King]]
+|jurisdiction    = PE
+|number          = 33
+|image           = Dennis King meets with Erin O'Toole (cropped2).jpg
+|party           = PC
+|leadership      = [[2019 Progressive Conservative Party of Prince Edward Island leadership election|2019]]
+|birth_year      = 1971
+|riding          = [[Brackley-Hunter River]]
+|term_start      = 2019-05-09
+|term_end        = 2025-02-21
+|event1          = election
+|event1_year     = 2019
+|event1_assembly = 66th
+|event2          = election
+|event2_year     = 2023
+|event2_assembly = 67th
+|references      = <ref name="King">{{cite news |title=Compton takes Finance, Aylward Health in new P.E.I. cabinet |first=Kevin |last=Yarr |newspaper=CBC News |date=May 9, 2019 |url=https://www.cbc.ca/news/canada/prince-edward-island/pei-cabinet-swearing-in-1.5127904 |access-date=May 9, 2019}}</ref>
+}}
+{{Canadian first minister list
+|name = [[Rob Lantz]]
+|jurisdiction = PE
+|number = 34
+|number_sub = 1 of 2
+|image = RobLantz2015.jpg
+|party = PC
+|leadership = 2025; interim
+|birth_year = 1970
+|riding = [[Charlottetown-Brighton]]
+|term_start = 2025-02-21
+|term_end = 2025-12-12
+|event1 = appointment
+|event1_year = 2025
+|event1_assembly = 67th
+|references = <ref>{{cite web |date=21 February 2025 |title=Rob Lantz sworn in as Prince Edward Island's next premier, replacing Dennis King |url=https://www.thestar.com/politics/rob-lantz-sworn-in-as-prince-edward-islands-next-premier-replacing-dennis-king/article_58a75063-3c1f-588c-bac6-35702bd47ee9.html |website=Toronto Star |location=Charlottetown |publisher=The Canadian Press |access-date=21 February 2025}}</ref>
+}}
+{{Canadian first minister list
+|name = [[Bloyce Thompson]]
+|jurisdiction = PE
+|number = 35
+|image =
+|party = PC
+|leadership = 2025; interim
+|birthyear = 
+|riding = [[Stanhope-Marshfield]]
+|term_start = 2025-12-12
+|term_end = 2026-02-09
+|event1 = appointment
+|event1_year = 2025
+|event1_assembly = 67th
+|references = <ref>{{cite web |date=12 December 2025 |title=Bloyce Thompson sworn in as new P.E.I. premier, 1 day after Rob Lantz's resignation|url=https://www.cbc.ca/news/canada/prince-edward-island/pei-new-premier-sworn-in-dec-2025-9.7013127|website=CBC news |location=Charlottetown |publisher=|access-date=12 December 2025}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Rob Lantz]]
+|jurisdiction    = PE
+|number          = &mdash;
+|number_sub      = 2 of 2
+|image           = RobLantz2015.jpg
+|party           = PC
+|leadership      = [[2026 Progressive Conservative Party of Prince Edward Island leadership election|2026]]
+|birth_year      = 1970
+|riding          = [[Charlottetown-Brighton]]
+|term_start      = 2026-02-09
+|term_end        = 
+|event1          = appointment
+|event1_year     = 2026
+|event1_assembly = 67th
+|references      = 
+}}
+{{Canadian first minister list/bottom}}
+
+==See also==
+* [[Leader of the Opposition (Prince Edward Island)]]
+
+==References==
+;General
+{{refbegin}}
+* {{cite web|access-date=November 9, 2008|url=http://www.electionspei.ca/provincial/historical/results/electiondates.php|title=Historical Election Dates|publisher=Elections Prince Edward Island|archive-url=https://web.archive.org/web/20120205104432/http://www.electionspei.ca/provincial/historical/results/electiondates.php|archive-date=February 5, 2012|url-status=dead|df=mdy-all}}
+* {{cite web|access-date=November 7, 2008|url=http://www.gov.pe.ca/premiersgallery/index.php3|title= Premiers Gallery |publisher=Government of Prince Edward Island }}
+{{refend}}
+
+;Specific
+{{Reflist|30em}}
+
+==External links==
+* [http://www.gov.pe.ca/premier/index.php3 Prince Edward Island: Premier's Office]
+
+{{Canadian first ministers}}
+{{Politics of Prince Edward Island}}
+
+{{featured list}}
+
+{{DEFAULTSORT:List Of Premiers Of Prince Edward Island}}
+[[Category:Lists of premiers of Canada by province or territory|Prince Edward Island]]
+[[Category:Premiers of Prince Edward Island|*]]
+[[Category:Lists of people from Prince Edward Island|Premiers]]
+[[Category:Prince Edward Island politics-related lists|Premiers]]

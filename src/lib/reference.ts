@@ -14,6 +14,8 @@ import flagData from "../data/flags.json";
 import populationData from "../data/statcan/population.json";
 import immigrationData from "../data/statcan/immigration.json";
 import ageData from "../data/statcan/age.json";
+import electionHistoryData from "../data/elections/history.json";
+import premierData from "../data/wikidata/premiers.json";
 
 // ---------------------------------------------------------------------------
 // Shared shapes
@@ -152,6 +154,8 @@ export const datasets: { id: string; title: string; file: string; meta: DatasetM
   { id: "population", title: "Population by province", file: "src/data/statcan/population.json", meta: meta(populationData) },
   { id: "immigration", title: "Immigration", file: "src/data/statcan/immigration.json", meta: meta(immigrationData) },
   { id: "age", title: "Age of the population", file: "src/data/statcan/age.json", meta: meta(ageData) },
+  { id: "election-history", title: "Federal elections since 1867", file: "src/data/elections/history.json", meta: meta(electionHistoryData) },
+  { id: "premiers", title: "Premiers", file: "src/data/wikidata/premiers.json", meta: meta(premierData) },
   { id: "flags", title: "Flags", file: "src/data/flags.json", meta: meta(flagData) },
 ];
 

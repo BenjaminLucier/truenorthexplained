@@ -1,0 +1,783 @@
+{{Short description|None}}
+{{Use Canadian English|date=January 2023}}
+{{Use mdy dates|date=May 2021}}
+{{Infobox official post
+|post = Premier
+|body = Nova Scotia
+|insignia = Arms of Nova Scotia.svg
+|insignia_size = 110px
+|insignia_caption =  [[Coat of arms of Nova Scotia]]
+|image =
+|incumbent = [[Tim Houston]]
+|incumbent_since = August 31, 2021
+|seat = [[Halifax, Nova Scotia|Halifax]]
+|formation = 1867
+}}
+The [[Canadian province]] of [[Nova Scotia]] was a [[British colony]] with a system of [[responsible government]] since 1848, before it joined [[Canadian Confederation]] in 1867. Since Confederation, the province has been a part of the Canadian [[federation]] and has kept its own legislature to deal with provincial matters.<ref name=history />
+
+Nova Scotia has a unicameral [[Westminster-style]] [[parliamentary government]], in which the premier is the leader of the party that controls the most seats in the [[Nova Scotia House of Assembly|House of Assembly]].  The premier is Nova Scotia's [[head of government]], and the [[Monarchy in Nova Scotia|king in right of Nova Scotia]] is its [[head of state]] and is represented by the [[lieutenant governor of Nova Scotia]]. The premier picks a cabinet from the elected members to form the [[Executive Council of Nova Scotia]], and presides over that body.<ref name=history>{{cite web|access-date=November 11, 2008 |url=http://www.collectionscanada.gc.ca/confederation/023001-2125-e.html |date=May 2, 2005 |title=Nova Scotia |publisher=Library and Archives Canada |archive-url=https://web.archive.org/web/20080801075902/http://www.collectionscanada.gc.ca/confederation/023001-2125-e.html |archive-date=August 1, 2008 |url-status=dead }}</ref>
+
+Members are first elected to the House during [[List of Nova Scotia general elections (post-Confederation)|general elections]]. General elections must be conducted every five years from the date of the last election, but the premier may ask for early [[Dissolution of parliament#Canada|dissolution]] of the Legislative Assembly. An election may also occur if the governing party loses the confidence of the legislature by the defeat of a supply bill or tabling of a confidence motion.<ref>{{cite web|access-date=November 11, 2008|url=http://www.parl.gc.ca/common/bills_ls.asp?lang=E&ls=c16&source=library_prb&Parl=39&Ses=1|title=Bill C-16: An Act to amend the Canada Elections Act|publisher=Parliament of Canada|archive-url=https://web.archive.org/web/20081019045510/http://www.parl.gc.ca/common/bills_ls.asp?lang=E&ls=c16&source=library_prb&Parl=39&Ses=1|archive-date=October 19, 2008|url-status=dead}}</ref> Nova Scotia has had 27 individuals serve as premier since Confederation, of which 12 were [[Progressive Conservative Association of Nova Scotia|Conservatives]], 14 were [[Nova Scotia Liberal Party|Liberals]], and one [[Nova Scotia New Democratic Party|New Democrat]].
+
+Two premiers of Nova Scotia later became [[Prime Minister of Canada|prime minister of Canada]], [[John Sparrow David Thompson]] and [[Charles Tupper]].
+
+==Premiers of Nova Scotia==
+
+{{Canadian first minister list/top}}
+|-
+|colspan=11|
+'''Premiers of the pre-Confederation period'''
+{{Canadian first minister list
+|name            = [[James Boyle Uniacke]]
+|jurisdiction    = NS
+|number          = 1
+|leadership      = 
+|image           = James Boyle Uniacke.jpg
+|party           = Liberal
+|birth_year      = 1799
+|death_year      = 1858
+|riding          = [[Cape Breton (provincial electoral district)|Cape Breton County]]
+|term_start      = 1848-02-02
+|term_end        = 1854-04-04
+|event1          = election
+|event1_year     = 1847
+|event1_assembly = 18th
+|event2          = election
+|event2_year     = 1851
+|event2_assembly = 19th
+}}
+
+{{Canadian first minister list
+|name            = [[William Young (Nova Scotia politician)|William Young]]
+|jurisdiction    = NS
+|number          = 2
+|number_sub      = 1 of 2
+|leadership      = 
+|image           = Hall-WilliamYoung.jpg
+|party           = Liberal
+|birth_year      = 1799
+|death_year      = 1887
+|riding          = [[Inverness (provincial electoral district)|Inverness County]]
+|term_start      = 1854-04-04
+|term_end        = 1857-02-24
+|event1          = appointment
+|event1_year     = 1854
+|event1_assembly = 19th
+|event2          = election
+|event2_year     = 1855
+|event2_assembly = 20th
+}}
+
+{{Canadian first minister list
+|name            = [[James William Johnston]]
+|jurisdiction    = NS
+|number          = 3
+|number_sub      = 1 of 2
+|leadership      = 
+|image           = James William Johnston.jpg
+|party           = Conservative
+|birth_year      = 1792
+|death_year      = 1873
+|riding          = [[Annapolis (provincial electoral district)|Annapolis County]]
+|term_start      = 1857-02-24
+|term_end        = 1860-02-10
+|event1          = election
+|event1_year     = 1859
+|event1_assembly = 22nd
+}}
+
+{{Canadian first minister list
+|name            = [[William Young (Nova Scotia politician)|William Young]]
+|jurisdiction    = NS
+|number          = 4
+|number_sub      = 2 of 2
+|leadership      = 
+|image           = Hall-WilliamYoung.jpg
+|party           = Liberal
+|birth_year      = 1799
+|death_year      = 1887
+|riding          = [[Inverness (provincial electoral district)|Inverness County]]
+|term_start      = 1860-02-10
+|term_end        = 1860-08-03
+|event1          = appointment
+|event1_year     = 1860
+|event1_assembly = 22nd
+}}
+
+{{Canadian first minister list
+|name            = [[Joseph Howe]]
+|jurisdiction    = NS
+|number          = 5
+|leadership      = 
+|image           = Joehowe.JPG
+|party           = Liberal
+|birth_year      = 1804
+|death_year      = 1873
+|riding          = [[Hants (provincial electoral district)|Hants County, South Division]]
+|term_start      = 1860-08-03
+|term_end        = 1863-06-11
+|event1          = appointment
+|event1_year     = 1860
+|event1_assembly = 22nd
+}}
+
+{{Canadian first minister list
+|name            = [[James William Johnston]]
+|jurisdiction    = NS
+|number          = 6
+|number_sub      = 2 of 2
+|leadership      = 
+|image           = James William Johnston.jpg
+|party           = Conservative
+|birth_year      = 1792
+|death_year      = 1873
+|riding          = [[Annapolis (provincial electoral district)|Annapolis County]]
+|term_start      = 1863-06-11
+|term_end        = 1864-05-11
+|event1          = election
+|event1_year     = 1863
+|event1_assembly = 23rd
+}}
+
+{{Canadian first minister list
+|name            = [[Charles Tupper]]
+|jurisdiction    = NS
+|number          = 7
+|leadership      = 
+|image           = Sir charles tupper (cropped).jpg
+|party           = Confederation
+|birth_year      = 1821
+|death_year      = 1915
+|riding          = [[Cumberland (Nova Scotia electoral district)|Cumberland County]]
+|term_start      = 1864-05-11
+|term_end        = 1867-07-04
+|event1          = appointment
+|event1_year     = 1864
+|event1_assembly = 23rd
+}}
+|-
+|colspan=11|
+'''Premiers of the post-Confederation period'''
+{{Canadian first minister list
+|name            = [[Hiram Blanchard]]
+|jurisdiction    = NS
+|number          = 1
+|leadership      = 1867
+|image           = 1st Premier of Nova Scotia, Hiram Blanchard.jpg
+|party           = Conservative
+|birth_year      = 1820
+|death_year      = 1874
+|riding          = [[Inverness (provincial electoral district)|Inverness County]]
+|term_start      = 1867-07-04
+|term_end        = 1867-11-07
+|event1          = appointment
+|event1_year     = 1867
+|event1_assembly = none
+}}
+
+{{Canadian first minister list
+|name            = [[William Annand]]
+|jurisdiction    = NS
+|number          = 2
+|leadership      = 1867
+|image           = William Annand by William Notman.jpg
+|party           = Anti-Confederation
+|birth_year      = 1808
+|death_year      = 1887
+|member_title    = [[Legislative Council of Nova Scotia|Councillor]]
+|riding          = province-at-large
+|term_start      = 1867-11-07
+|term_end        = 1875-05-11
+|event1          = election
+|event1_year     = 1867
+|event1_assembly = 24th
+|event2          = election
+|event2_year     = 1871
+|event2_assembly = 25th
+|event3          = election
+|event3_year     = 1874
+|event3_assembly = 26th
+}}
+
+{{Canadian first minister list
+|name            = [[Philip Carteret Hill]]
+|jurisdiction    = NS
+|number          = 3
+|leadership      = 1875
+|image           = 
+|party           = Liberal
+|birth_year      = 1821
+|death_year      = 1894
+|riding          = [[Halifax (provincial electoral district)|Halifax County]]
+|term_start      = 1875-05-11
+|term_end        = 1878-10-22
+|event1          = appointment
+|event1_year     = 1875
+|event1_assembly = 26th
+}}
+
+{{Canadian first minister list
+|name            = [[Simon Hugh Holmes]]
+|jurisdiction    = NS
+|number          = 4
+|leadership      = 1874
+|image           = Simon Hugh Holmes.jpg
+|party           = Conservative
+|birth_year      = 1831
+|death_year      = 1919
+|riding          = [[Pictou (provincial electoral district)|Pictou County]]
+|term_start      = 1878-10-22
+|term_end        = 1882-05-25
+|event1          = election
+|event1_year     = 1878
+|event1_assembly = 27th
+}}
+
+{{Canadian first minister list
+|name            = [[John Sparrow David Thompson]]
+|jurisdiction    = NS
+|number          = 5
+|leadership      = 1882
+|image           = John Thompson.jpg
+|party           = Conservative
+|birth_year      = 1845
+|death_year      = 1894
+|riding          = [[Antigonish (provincial electoral district)|Antigonish County]]
+|term_start      = 1882-05-25
+|term_end        = 1882-08-03
+|event1          = appointment
+|event1_year     = 1882
+|event1_assembly = none
+}}
+
+{{Canadian first minister list
+|name            = [[William Thomas Pipes]]
+|jurisdiction    = NS
+|number          = 6
+|leadership      = 1882
+|image           = William Thomas Pipes.jpg
+|party           = Liberal
+|birth_year      = 1850
+|death_year      = 1909
+|riding          = [[Cumberland (Nova Scotia electoral district)|Cumberland County]]
+|term_start      = 1882-08-03
+|term_end        = 1884-07-28
+|event1          = election
+|event1_year     = 1882
+|event1_assembly = 28th
+}}
+
+{{Canadian first minister list
+|name            = [[William Stevens Fielding]]
+|jurisdiction    = NS
+|number          = 7
+|leadership      = 1883
+|image           = William Stevens Fielding, premier of Nova Scotia.jpg
+|party           = Liberal
+|birth_year      = 1848
+|death_year      = 1929
+|riding          = [[Halifax (provincial electoral district)|Halifax County]]
+|term_start      = 1884-07-28
+|term_end        = 1896-07-20
+|event1          = appointment
+|event1_year     = 1884
+|event1_assembly = 28th
+|event2          = election
+|event2_year     = 1886
+|event2_assembly = 29th
+|event3          = election
+|event3_year     = 1890
+|event3_assembly = 30th
+|event4          = election
+|event4_year     = 1894
+|event4_assembly = 31st
+}}
+
+{{Canadian first minister list
+|name            = [[George Henry Murray]]
+|jurisdiction    = NS
+|number          = 8
+|leadership      = 1896
+|image           = George Henry Murray.jpg
+|party           = Liberal
+|birth_year      = 1861
+|death_year      = 1929
+|riding          = [[Victoria-The Lakes|Victoria County]]
+|term_start      = 1896-07-20
+|term_end        = 1923-01-24
+|event1          = appointment
+|event1_year     = 1896
+|event1_assembly = 31st
+|event2          = election
+|event2_year     = 1897
+|event2_assembly = 32nd
+|event3          = election
+|event3_year     = 1901
+|event3_assembly = 33rd
+|event4          = election
+|event4_year     = 1906
+|event4_assembly = 34th
+|event5          = election
+|event5_year     = 1911
+|event5_assembly = 35th
+|event6          = election
+|event6_year     = 1916
+|event6_assembly = 36th
+|event7          = election
+|event7_year     = 1920
+|event7_assembly = 37th
+}}
+
+{{Canadian first minister list
+|name            = [[Ernest Howard Armstrong]]
+|jurisdiction    = NS
+|number          = 9
+|leadership      = 1923
+|image           = Hon EH Armstrong (HS85-10-41072).jpg
+|party           = Liberal
+|birth_year      = 1864
+|death_year      = 1946
+|riding          = [[Shelburne (provincial electoral district)|Shelburne County]]
+|term_start      = 1923-01-24
+|term_end        = 1925-07-16
+|event1          = appointment
+|event1_year     = 1923
+|event1_assembly = 37th
+}}
+
+{{Canadian first minister list
+|name            = [[Edgar Nelson Rhodes]]
+|jurisdiction    = NS
+|number          = 10
+|leadership      = 1925
+|image           = Edgar Nelson Rhodes.jpg
+|party           = Conservative
+|birth_year      = 1877
+|death_year      = 1942
+|riding          = [[Hants (provincial electoral district)|Hants County]]
+|term_start      = 1925-07-16
+|term_end        = 1930-08-11
+|event1          = election
+|event1_year     = 1925
+|event1_assembly = 38th
+|event2          = election
+|event2_year     = 1928
+|event2_assembly = 39th
+}}
+
+{{Canadian first minister list
+|name            = [[Gordon Sidney Harrington]]
+|jurisdiction    = NS
+|number          = 11
+|leadership      = 1930
+|image           = Gordon Sidney Harrington.jpg
+|party           = Conservative
+|birth_year      = 1883
+|death_year      = 1943
+|riding          = [[Cape Breton Centre]]
+|term_start      = 1930-08-11
+|term_end        = 1933-09-05
+|event1          = appointment
+|event1_year     = 1930
+|event1_assembly = 39th
+}}
+
+{{Canadian first minister list
+|name            = [[Angus Lewis Macdonald|Angus L. Macdonald]]
+|jurisdiction    = NS
+|number          = 12
+|number_sub      = 1 of 2
+|leadership      = 1930
+|image           = Angus L Macdonald portrait.jpg
+|party           = Liberal
+|birth_year      = 1890
+|death_year      = 1954
+|riding          = [[Halifax South]]
+|term_start      = 1933-09-05
+|term_end        = 1940-07-10
+|event1          = election
+|event1_year     = 1933
+|event1_assembly = 40th
+|event2          = election
+|event2_year     = 1937
+|event2_assembly = 41st
+}}
+
+{{Canadian first minister list
+|name            = [[Alexander Stirling MacMillan]]
+|jurisdiction    = NS
+|number          = 13
+|leadership      = 1940
+|image           = 
+|party           = Liberal
+|birth_year      = 1871
+|death_year      = 1955
+|riding          = [[Hants (provincial electoral district)|Hants]]
+|term_start      = 1940-07-10
+|term_end        = 1945-09-08
+|event1          = appointment
+|event1_year     = 1940
+|event1_assembly = 41st
+|event2          = election
+|event2_year     = 1941
+|event2_assembly = 42nd
+}}
+
+{{Canadian first minister list
+|name            = [[Angus Lewis Macdonald|Angus L. Macdonald]]
+|jurisdiction    = NS
+|number          = 14
+|number_sub      = 2 of 2
+|leadership      = 1945
+|image           = Angus L Macdonald portrait.jpg
+|party           = Liberal
+|birth_year      = 1890
+|death_year      = 1954
+|riding          = [[Halifax South]]
+|term_start      = 1945-09-08
+|term_end        = 1954-04-13
+|event1          = appointment
+|event1_year     = 1945
+|event1_assembly = 42nd
+|event2          = election
+|event2_year     = 1945
+|event2_assembly = 43rd
+|event3          = election
+|event3_year     = 1949
+|event3_assembly = 44th
+|event4          = election
+|event4_year     = 1953
+|event4_assembly = 45th
+}}
+
+{{Canadian first minister list
+|name            = [[Harold Connolly]]
+|jurisdiction    = NS
+|number          = 15
+|leadership      = 1954
+|image           = Harold Connolly with two men (cropped).jpg
+|party           = Liberal
+|birth_year      = 1901
+|death_year      = 1980
+|riding          = [[Halifax North]]
+|term_start      = 1954-04-13
+|term_end        = 1954-09-30
+|event1          = appointment
+|event1_year     = 1954
+|event1_assembly = 45th
+}}
+
+{{Canadian first minister list
+|name            = [[Henry Hicks (Nova Scotia politician)|Henry Hicks]]
+|jurisdiction    = NS
+|number          = 16
+|leadership      = 1954
+|image           = 
+|party           = Liberal
+|birth_year      = 1915
+|death_year      = 1990
+|riding          = [[Annapolis (provincial electoral district)|Annapolis]]
+|term_start      = 1954-09-30
+|term_end        = 1956-11-20
+|event1          = appointment
+|event1_year     = 1954
+|event1_assembly = 45th
+}}
+
+{{Canadian first minister list
+|name            = [[Robert Stanfield]]
+|jurisdiction    = NS
+|number          = 17
+|leadership      = 1948
+|image           = Premier Bob Stanfield.jpg
+|party           = PC
+|birth_year      = 1914
+|death_year      = 2003
+|riding          = [[Colchester (provincial electoral district)|Colchester]]
+|term_start      = 1956-11-20
+|term_end        = 1967-09-13
+|event1          = election
+|event1_year     = 1956
+|event1_assembly = 46th
+|event2          = election
+|event2_year     = 1960
+|event2_assembly = 47th
+|event3          = election
+|event3_year     = 1963
+|event3_assembly = 48th
+|event4          = election
+|event4_year     = 1967
+|event4_assembly = 49th
+}}
+
+{{Canadian first minister list
+|name            = [[George Isaac Smith]]
+|jurisdiction    = NS
+|number          = 18
+|leadership      = 1967
+|image           = George Isaac Smith portrait.jpg
+|party           = PC
+|birth_year      = 1909
+|death_year      = 1982
+|riding          = [[Colchester (provincial electoral district)|Colchester]]
+|term_start      = 1967-09-13
+|term_end        = 1970-10-28
+|event1          = appointment
+|event1_year     = 1967
+|event1_assembly = 49th
+}}
+
+{{Canadian first minister list
+|name            = [[Gerald Regan]]
+|jurisdiction    = NS
+|number          = 19
+|leadership      = 1965
+|image           = Gerald Regan portrait.jpg
+|party           = Liberal
+|birth_year      = 1928
+|death_year      = 2019
+|riding          = [[Halifax Needham]]
+|term_start      = 1970-10-28
+|term_end        = 1978-10-05
+|event1          = election
+|event1_year     = 1970
+|event1_assembly = 50th
+|event2          = election
+|event2_year     = 1974
+|event2_assembly = 51st
+}}
+
+{{Canadian first minister list
+|name            = [[John Buchanan (Canadian politician)|John Buchanan]]
+|jurisdiction    = NS
+|number          = 20
+|leadership      = 1971
+|image           = John Buchanan portrait 1973.jpg
+|party           = PC
+|birth_year      = 1931
+|death_year      = 2019
+|riding          = [[Halifax Atlantic]]
+|term_start      = 1978-10-05
+|term_end        = 1990-09-12
+|event1          = election
+|event1_year     = 1978
+|event1_assembly = 52nd
+|event2          = election
+|event2_year     = 1981
+|event2_assembly = 53rd
+|event3          = election
+|event3_year     = 1984
+|event3_assembly = 54th
+|event4          = election
+|event4_year     = 1988
+|event4_assembly = 55th
+}}
+
+{{Canadian first minister list
+|name            = [[Roger Stuart Bacon]]
+|jurisdiction    = NS
+|number          = 21
+|leadership      = 1990
+|image           = Roger Stuart Bacon portrait 1973.jpg
+|party           = PC
+|birth_year      = 1926
+|death_year      = 2021
+|riding          = [[Cumberland East]]
+|term_start      = 1990-09-12
+|term_end        = 1991-02-26
+|event1          = appointment
+|event1_year     = 1990
+|event1_assembly = 55th
+}}
+
+{{Canadian first minister list
+|name            = [[Donald William Cameron]]
+|jurisdiction    = NS
+|number          = 22
+|leadership      = 1991
+|image           = 
+|party           = PC
+|birth_year      = 1946
+|death_year      = 2021
+|riding          = [[Pictou East]]
+|term_start      = 1991-02-26
+|term_end        = 1993-06-11
+|event1          = appointment
+|event1_year     = 1991
+|event1_assembly = 55th
+}}
+
+{{Canadian first minister list
+|name            = [[John Savage (Nova Scotia politician)|John Savage]]
+|jurisdiction    = NS
+|number          = 23
+|leadership      = 1992
+|image           = 
+|party           = Liberal
+|birth_year      = 1932
+|death_year      = 2003
+|riding          = [[Dartmouth South]]
+|term_start      = 1993-06-11
+|term_end        = 1997-07-18
+|event1          = election
+|event1_year     = 1993
+|event1_assembly = 56th
+}}
+
+{{Canadian first minister list
+|name            = [[Russell MacLellan]]
+|jurisdiction    = NS
+|number          = 24
+|leadership      = 1997
+|image           = Russell MacLellan.jpg
+|party           = Liberal
+|birth_year      = 1940
+|riding          = [[Cape Breton North]]
+|term_start      = 1997-07-18
+|term_end        = 1999-08-16
+|event1          = appointment
+|event1_year     = 1997
+|event1_assembly = 56th
+|event2          = election
+|event2_year     = 1998
+|event2_assembly = 57th
+}}
+
+{{Canadian first minister list
+|name            = [[John Hamm|John F. Hamm]]
+|jurisdiction    = NS
+|number          = 25
+|leadership      = 1995
+|image           = Jhamm03election.JPG
+|party           = PC
+|birth_year      = 1938
+|death_year      = 2026
+|riding          = [[Pictou Centre]]
+|term_start      = 1999-08-16
+|term_end        = 2006-02-24
+|event1          = election
+|event1_year     = 1999
+|event1_assembly = 58th
+|event2          = election
+|event2_year     = 2003
+|event2_assembly = 59th
+}}
+
+{{Canadian first minister list
+|name            = [[Rodney MacDonald]]
+|jurisdiction    = NS
+|number          = 26
+|leadership      = [[2006 Progressive Conservative Association of Nova Scotia leadership election|2006]]
+|image           = Rodney MacDonald cropped.png
+|party           = PC
+|birth_year      = 1972
+|riding          = [[Inverness (provincial electoral district)|Inverness]]
+|term_start      = 2006-02-24
+|term_end        = 2009-06-19
+|event1          = appointment
+|event1_year     = 2006
+|event1_assembly = 59th
+|event2          = election
+|event2_year     = 2006
+|event2_assembly = 60th
+}}
+
+{{Canadian first minister list
+|name            = [[Darrell Dexter]]
+|jurisdiction    = NS
+|number          = 27
+|leadership      = 2001
+|image           = Darrell Dexter 2.jpg
+|party           = NDP
+|birth_year      = 1957
+|riding          = [[Cole Harbour (electoral district)|Cole Harbour]]
+|term_start      = 2009-06-19
+|term_end        = 2013-10-22
+|event1          = election
+|event1_year     = 2009
+|event1_assembly = 61st
+|references      = <ref name=Dexter27>{{cite web|title=Honourable Darrell Dexter NDP|url=http://nslegislature.ca/index.php/people/members/Darrell_Dexter|publisher=The Nova Scotia Legislature|access-date=December 30, 2012}}</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[Stephen McNeil]]
+|jurisdiction    = NS
+|number          = 28
+|leadership      = [[2007 Nova Scotia Liberal Party leadership election|2007]]
+|image           = Stephen McNeil color-balanced.jpg
+|party           = Liberal
+|birth_year      = 1964
+|riding          = [[Annapolis (provincial electoral district)|Annapolis]]
+|term_start      = 2013-10-22
+|term_end        = 2021-02-23
+|event1          = election
+|event1_year     = 2013
+|event1_assembly = 62nd
+|event2          = election
+|event2_year     = 2017
+|event2_assembly = 63rd
+|references      = <ref>[http://www.cbc.ca/news/canada/nsvotes2013/stephen-mcneil-leads-liberals-to-majority-in-nova-scotia-1.1929962 Stephen McNeil leads Liberals to majority in Nova Scotia]. CBC News, October 8, 2013.</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[Iain Rankin]]
+|jurisdiction    = NS
+|number          = 29
+|leadership      = [[2021 Nova Scotia Liberal Party leadership election|2021]]
+|image           = Iain Rankin leadership.jpg
+|party           = Liberal
+|birth_year      = 1983
+|riding          = [[Timberlea-Prospect]]
+|term_start      = 2021-02-23
+|term_end        = 2021-08-31
+|event1          = appointment
+|event1_year     = 2021
+|event1_assembly = 63rd
+|references      = <ref>[https://www.ctvnews.ca/atlantic/article/premier-iain-rankin-new-nova-scotia-cabinet-sworn-in-by-lieutenant-governor/]. CTV News, February 23, 2021.</ref>
+}}
+
+{{Canadian first minister list
+|name            = [[Tim Houston]]
+|jurisdiction    = NS
+|number          = 30
+|leadership      = [[2018 Progressive Conservative Association of Nova Scotia leadership election|2018]]
+|image           = TimHouston.png
+|party           = PC
+|birth_year      = 1970
+|riding          = [[Pictou East]]
+|term_start      = 2021-08-31
+|term_end        = 
+|event1          = election
+|event1_year     = 2021
+|event1_assembly = 64th
+|event2          = election
+|event2_year     = 2024
+|event2_assembly = 65th
+}}
+
+{{Canadian first minister list/bottom}}
+
+== References ==
+
+=== General ===
+{{refbegin}}
+* {{cite web|access-date=March 19, 2011|url=http://nslegislature.ca/index.php/about/past-premiers/|title=Nova Scotia Premiers |publisher=The Nova Scotia Legislature }}
+* {{cite web|access-date=November 6, 2008|url=http://www.gov.ns.ca/legislature/FACTS/GeneralElections.html|title=Nova Scotia General Elections |publisher=Government of Nova Scotia }}
+{{refend}}
+
+=== Specific ===
+{{reflist}}
+
+==External links==
+* [http://www.gov.ns.ca/premier/ Premier of Nova Scotia]
+
+{{Canadian First Ministers}}
+{{Nova Scotia politics}}
+{{Portal bar|Canada|Nova Scotia}}
+{{featured list}}
+
+{{DEFAULTSORT:List Of Premiers Of Nova Scotia}}
+[[Category:Lists of premiers of Canada by province or territory|Nova Scotia]]
+[[Category:Premiers of Nova Scotia|*]]
+[[Category:Lists of people from Nova Scotia|Premiers]]
+[[Category:Nova Scotia politics-related lists|Premiers]]

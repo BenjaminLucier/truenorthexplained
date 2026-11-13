@@ -1,0 +1,817 @@
+{{Short description|None}}
+{{Use Canadian English|date=January 2023}}
+Below is a list of the [[Premier of Ontario|premiers]] of the province of [[Ontario]], Canada, since [[Canadian Confederation|Confederation]] in 1867. Ontario uses a unicameral [[Westminster System|Westminster-style]] [[parliamentary government]], in which the premier is the leader of the party that controls the most seats in the [[Legislative Assembly of Ontario|Legislative Assembly]]. The premier is Ontario's [[head of government]]. The premier picks a cabinet from the elected members to form the [[Executive Council of Ontario]], and presides over that body.
+
+Members are first elected to the legislature during [[List of Ontario general elections|general elections]]. General elections must be conducted every four years from the date of the last election. An election may also happen if the Governing party loses the confidence of the legislature, by the defeat of a supply bill or tabling of a confidence motion.
+
+This article only covers the time since the [[Canadian Confederation]] was created in 1867. For the premiers of [[Canada West]] from 1840 to 1867, see [[List of joint premiers of the Province of Canada]].
+
+The 26th and current premier of Ontario is [[Doug Ford]] of the [[Progressive Conservative Party of Ontario]] since June 29, 2018.
+
+==Premiers of Ontario since 1867==
+
+<!-- DO NO USE UNFREE IMAGES IN A LIST -->
+{{Canadian first minister list/top|cabinet=yes|references=yes}}
+{{Canadian first minister list
+|name            = [[John Sandfield Macdonald]]
+|jurisdiction    = ON
+|number          = 1
+|image           = John Sandfield Macdonald.jpg
+|birth_year      = 1812
+|death_year      = 1872
+|party           = Liberal-Conservative
+|member_title    = MLA
+|riding          = [[Cornwall (provincial electoral district)|Cornwall]]
+|cabinet         = [[John Sandfield Macdonald ministry|Macdonald ministry]]
+|term_start      = 1867-07-16
+|term_end        = 1871-12-20
+|event1          = establishment
+|event1_year     = 1867
+|event1_assembly = none
+|event2          = election
+|event2_year     = 1867
+|event2_assembly = 1st
+|accomplishments = Prior to Confederation in 1867, Sandfield Macdonald was a genuine Liberal/Reform Party Member of the Legislative Assembly of the Province of Canada and a rival of Sir John A Macdonald. He led a Liberal ministry between 1862 and 1864, the only significant interruption of [[John A. Macdonald|John A Macdonald]]'s rule in the final decade of the united province. Despite being an opponent confederation, Sanfield Macdonald accepted Sir John A's offer of the permiership upon the founding of Canada, and led a notional [[coalition government|Coalition]] (the "[[Patent Combination]]") supported by the [[Conservative Party of Ontario|Conservative Party]] and only a handful of [[Ontario Liberal Party|Liberal]] members. He was simultaneously an MP in the House of Commons until 1872.
+|tenure          = {{Age in years and days|1867|07|15|1871|12|20}}
+|references      = <ref name=Macdonald>{{cite web|title=John Sandfield Macdonald, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=769|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Edward Blake]]
+|jurisdiction    = ON
+|number          = 2
+|image           = 
+Portrait of Edward Blake.jpg
+|birth_year      = 1833
+|death_year      = 1912
+|party           = Liberal
+|member_title    = MLA
+|riding          = [[Bruce South (provincial electoral district)|Bruce South]]
+|cabinet         = [[Blake ministry]]
+|term_start      = 1871-12-20
+|term_end        = 1872-10-25
+|assembly_type   = Legislative Assembly of Ontario
+|event1          = election
+|event1_year     = 1871
+|event1_assembly = 2nd
+|accomplishments = Led the first, brief Liberal ministry of Ontario that commenced the party's thirty-four years of continuious rule. Was simultaneously a federal MP 1867 to 1872; resigned as Premier in the lead up to the [[1872 Canadian federal election|1872 dominion election]] (at which point [[dual mandate]] was outlawed), and led the national Liberal Party in the 1872, 1882 and 1887 dominion elections.
+|tenure          = 
+|references      = <ref name=Blake>{{cite web|title=Edward Blake, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=465|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = Sir [[Oliver Mowat]]
+|jurisdiction    = ON
+|number          = 3
+|image           = 
+Lieutenant Governor the Honourable Sir Oliver Mowat Photo B (HS85-10-13453) (cropped)3.jpg
+|birth_year      = 1820
+|death_year      = 1903
+|party           = Liberal
+|member_title    = MLA
+|riding          = [[Oxford North (provincial electoral district)|Oxford North]]
+|cabinet         = [[Mowat ministry]]
+|term_start      = 1872-10-25
+|term_end        = 1896-07-21
+|event1          = appointment
+|event1_assembly = 2nd
+|event2          = election
+|event2_year     = 1875
+|event2_assembly = 3rd
+|event3          = election
+|event3_year     = 1879
+|event3_assembly = 4th
+|event4          = election
+|event4_year     = 1883
+|event4_assembly = 5th
+|event5          = election
+|event5_year     = 1886
+|event5_assembly = 6th
+|event6          = election
+|event6_year     = 1890
+|event6_assembly = 7th
+|event7          = election
+|event7_year     = 1894
+|event7_assembly = 8th
+|accomplishments = Secured clear definitions of provincial jurisdiction through a serious of litigations against the national government that went to the [[Judicial Committee of the Privy Council]]; doubled the province's physical size with expansion into resource rich area in the north; facilitated sectarian tolerance through explicit policies and government programs; established the education department and the agriculture department; introduced regulations of working hours and workplace safety for women and young workers; introduced measures empowering women to become their children’s legal guardian and compelling payments from delinquent men to support their families; instituted system of children aid societies and of foster-homes; introduced the secret ballot in elections and extended suffrage beyond property owners; established the Ontario School of Agriculture, Ontario School of Art and the School of Practical Science; created the municipal level of government; [[1894 Ontario prohibition plebiscite]]. Retired to enter federal politics. Was appointed [[lieutenant governor of Ontario]] in 1897.
+|references      = <ref name=Mowat>{{cite web|title=Oliver Mowat, MPP|url=http://www.ontla.on.ca/web/members/members_detail.do?locale=en&ID=813|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Arthur Sturgis Hardy]]
+|jurisdiction    = ON
+|number          = 4
+|image           = Arthur Sturgis Hardy (cropped).jpg
+|birth_year      = 1837
+|death_year      = 1901
+|party           = Liberal
+|member_title    = MLA
+|riding          = [[Brant South (provincial electoral district)|Brant South]]
+|cabinet         = [[Hardy ministry]]
+|term_start      = 1896-07-21
+|term_end        = 1899-10-21
+|event1          = appointment
+|event1_assembly = 8th
+|event2          = election
+|event2_year     = 1898
+|event2_assembly = 9th
+|accomplishments = 
+|references      = <ref name=Hardy>{{cite web|title=Arthur Sturgis Hardy, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=463|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = Sir [[George William Ross]]
+|jurisdiction    = ON
+|number          = 5
+|image           = Honourable GW Ross, Prime Minister for Ontario (HS85-10-12129) (cropped).jpg
+|birth_year      = 1841
+|death_year      = 1914
+|party           = Liberal
+|member_title    = MLA
+|riding          = [[Middlesex West (provincial electoral district)|Middlesex West]]
+|cabinet         = [[Ross ministry]]
+|term_start      = 1899-10-21
+|term_end        = 1905-02-08
+|event1          = appointment
+|event1_assembly = 9th
+|event2          = election
+|event2_year     = 1902
+|event2_assembly = 10th
+|accomplishments = Expanded libraries, kindergarten, and university grants; [[1902 Ontario prohibition referendum]]
+|references      = <ref name=Ross>{{cite web|title=George William Ross, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=462|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = Sir [[James Whitney (politician)|James Whitney]]
+|jurisdiction    = ON
+|number          = 6
+|image           = James Whitney.jpg
+|birth_year      = 1843
+|death_year      = 1914
+|party           = Conservative
+|member_title    = MLA
+|riding          = [[Dundas (provincial electoral district)|Dundas]]
+|cabinet         = [[Whitney ministry]]
+|term_start      = 1905-02-08
+|term_end        = 1914-09-25
+|event1          = election
+|event1_year     = 1905
+|event1_assembly = 11th
+|event2          = election
+|event2_year     = 1908
+|event2_assembly = 12th
+|event3          = election
+|event3_year     = 1911
+|event3_assembly = 13th
+|event4          = election
+|event4_year     = 1914
+|event4_assembly = 14th
+|accomplishments = [[Hydro-Electric Power Commission of Ontario]]; ''Workmen's Compensation Act''; [[Temperance movement|temperance]] legislation; [[Regulation 17]]; Only Premier to die in office (1914).
+|references      = <ref name=Whitney>{{cite web|title=James Pliny Whitney, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=461|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = Sir [[William Hearst (politician)|William Hearst]]
+|jurisdiction    = ON
+|number          = 7
+|image           = William Hearst.jpg
+|birth_year      = 1864
+|death_year      = 1941
+|party           = Conservative
+|member_title    = MLA
+|riding          = [[Sault Ste. Marie (provincial electoral district)|Sault Ste. Marie]]
+|cabinet         = [[Hearst ministry]]
+|term_start      = 1914-10-02
+|term_end        = 1919-11-14
+|event1          = appointment
+|event1_assembly = 14th
+|accomplishments = ''[[Ontario Temperance Act]]''; expanded workers injury compensation; allowed woman suffrage; [[1919 Ontario prohibition referendum]]
+|references      = <ref name=Hearst>{{cite web|title=William Howard Hearst, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=460|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Ernest Drury]]
+|number          = 8
+|jurisdiction    = ON
+|image           = 
+The leader of the Provincial Government Front face (HS85-10-36601).jpg
+|birth_year      = 1878
+|death_year      = 1968
+|party           = United Farmers
+|member_title    = MLA
+|riding          = [[Halton (provincial electoral district)|Halton]]
+|cabinet         = [[Drury ministry]]
+|term_start      = 1919-11-14
+|term_end        = 1923-07-16
+|event1          = election
+|event1_year     = 1919
+|event1_assembly = 15th
+|accomplishments = Led a Coalition between the United Farmers party and the [[Labour candidates and parties in Canada|Labour]] MLAs; did not win a seat in the legislature until a 1920 by-election; created the first Department of Welfare; set a minimum wage for women; expanded [[Ontario Hydro]]; created the [[Province of Ontario Savings Office]]; began the first major reforestation program in North America; [[1921 Ontario prohibition referendum]]
+|references      = <ref name=Drury>{{cite web|title=Ernest Charles Drury, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=459|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Howard Ferguson]]
+|jurisdiction    = ON
+|number          = 9
+|image           = Howard Ferguson.jpg
+|birth_year      = 1870
+|death_year      = 1946
+|party           = Conservative
+|leadership      = [[1920 Conservative Party of Ontario leadership election|1920]]
+|member_title    = MLA
+|riding          = [[Grenville (provincial electoral district)|Grenville]]
+|cabinet         = [[Ferguson ministry]]
+|term_start      = 1923-07-16
+|term_end        = 1930-12-15
+|event1          = election
+|event1_year     = 1923
+|event1_assembly = 16th
+|event2          = election
+|event2_year     = 1926
+|event2_assembly = 17th
+|event3          = election
+|event3_year     = 1929
+|event3_assembly = 18th
+|accomplishments = Relaxed [[Regulation 17]]; created the [[Liquor Control Board of Ontario]]; [[1924 Ontario prohibition referendum]]
+|references      = <ref name=Ferguson>{{cite web|title=George Howard Ferguson, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=458|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[George Stewart Henry]]
+|jurisdiction    = ON
+|number          = 10
+|image           = George S. Henry 1941 (cropped).jpg
+|birth_year      = 1871
+|death_year      = 1958
+|party           = Conservative
+|member_title    = MLA
+|riding          = [[York East (provincial electoral district)|York East]]
+|cabinet         = [[Henry ministry]]
+|term_start      = 1930-12-15
+|term_end        = 1934-07-10
+|event1          = appointment
+|event1_assembly = 18th
+|accomplishments = Expansion of highway system, including construction of what became the [[Queen Elizabeth Way]]
+|references      = <ref name=Henry>{{cite web|title=George Stewart Henry, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=457|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Mitchell Hepburn]]
+|jurisdiction    = ON
+|number          = 11
+|image           = Mitchell Hepburn1 crop.jpg
+|birth_year      = 1896
+|death_year      = 1953
+|party           = Liberal
+|leadership      = 1930
+|member_title    = MLA
+|riding          = [[Elgin (provincial electoral district)|Elgin]] <small>(MPP after 1938)</small>
+|cabinet         = [[Hepburn ministry]]
+|term_start      = 1934-07-10
+|term_end        = 1942-10-21
+|event1          = election
+|event1_year     = 1934
+|event1_assembly = 19th
+|event2          = election
+|event2_year     = 1937
+|event2_assembly = 20th
+|accomplishments = Greatly cutting government spending; succession tax; compulsory milk pasteurization; relaxed temperance laws; made the [[Dionne Quintuplets]] wards of the state; unsuccessfully tried to break the first [[United Auto Workers]] strike against [[General Motors of Canada|GM]]; closed [[Chorley Park]]; conflict with PM [[William Lyon Mackenzie King|Mackenzie King]] over conduct of [[WWII]] and [[Conscription Crisis of 1944|conscription]].
+|references      = <ref name=Hepburn>{{cite web|title=Mitchell Frederick Hepburn, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=456|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Gordon Daniel Conant]]
+|jurisdiction    = ON
+|number          = 12
+|image           = Hon. Gordon Conant, M.L.A. 1937 (cropped).jpg
+|birth_year      = 1885
+|death_year      = 1953
+|party           = Liberal
+|riding          = [[Ontario (provincial electoral district)|Ontario]]
+|cabinet         = [[Conant ministry]]
+|term_start      = 1942-10-21
+|term_end        = 1943-05-18
+|event1          = appointment
+|event1_assembly = 20th
+|accomplishments = "Appointed" premier by Liberal leader Mitchell Hepburn but forced to call and contest leadership convention due to caucus revolt, which he lost to Nixon.
+|references      = <ref name=Conant>{{cite web|title=Gordon Daniel Conant, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=455|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref> 
+}}
+{{Canadian first minister list
+|name            = [[Harry Nixon]]
+|jurisdiction    = ON
+|number          = 13
+|image           = Harry Nixon MLA.jpg
+|birth_year      = 1891
+|death_year      = 1961
+|party           = Liberal
+|leadership      = [[1943 Ontario Liberal Party leadership election|1943]]
+|riding          = [[Brant (provincial electoral district)|Brant]]
+|cabinet         = [[Nixon ministry]]
+|term_start      = 1943-05-18
+|term_end        = 1943-08-17
+|event1          = appointment
+|event1_assembly = 20th
+|accomplishments = Long-time minister in UFO and Liberal governments. Called an election immediately after becoming premier and led his government to defeat. Shortest-serving Ontario premier but went on to be Ontario's longest-serving MPP.
+|references      = <ref name=Nixon>{{cite web|title=Harry Corwin Nixon, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=454|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[George A. Drew]]
+|jurisdiction    = ON
+|number          = 14
+|image           = GeorgeDrew.jpg
+|birth_year      = 1894
+|death_year      = 1973
+|party           = PC
+|leadership      = [[1938 Conservative Party of Ontario leadership election|1938]]
+|riding          = [[High Park (provincial electoral district)|High Park]]
+|cabinet         = [[Drew ministry (Ontario)|Drew ministry]]
+|term_start      = 1943-08-17
+|term_end        = 1948-10-19
+|event1          = election
+|event1_year     = 1943
+|event1_assembly = 21st
+|event2          = election
+|event2_year     = 1945
+|event2_assembly = 22nd
+|event3          = election
+|event3_year     = 1948
+|event3_assembly = 23rd
+|accomplishments =  Began a 42-year Conservative dynasty; Drew Regulation; [[LeBel Royal Commission]]; joined Ontario to North American power grid, increased provincial share of Education spending; opened immigration offices in UK and arranged for cheap charter flights to bring 20,000 British immigrants to Ontario.
+|references      = {{note|Drew|α}}<ref name=Drew>{{cite web|title=George Alexander Drew, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=453|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Thomas Laird Kennedy]]
+|jurisdiction    = ON
+|number          = 15
+|image           = T.L. Kennedy.JPG
+|birth_year      = 1878
+|death_year      = 1959
+|party           = PC
+|riding          = [[Peel (provincial electoral district)|Peel]]
+|cabinet         = [[Kennedy ministry]]
+|term_start      = 1948-10-19
+|term_end        = 1949-05-04
+|event1          = appointment
+|event1_assembly = 23rd
+|accomplishments = Interim leader between resignation of Drew and leadership convention to choose his successor.
+|references      = <ref name=Kennedy>{{cite web|title=Thomas Laird Kennedy, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=452|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Leslie Frost]]
+|jurisdiction    = ON
+|number          = 16
+|image           = Leslie Frost Premier of Ontario.jpg
+|birth_year      = 1895
+|death_year      = 1973
+|party           = PC
+|leadership      = [[1949 Progressive Conservative Party of Ontario leadership election|1949]]
+|riding          = [[Victoria (Ontario electoral district)|Victoria]]
+|cabinet         = [[Frost ministry]]
+|term_start      = 1949-05-04
+|term_end        = 1961-11-08
+|event1          = appointment
+|event1_assembly = 23rd
+|event2          = election
+|event2_year     = 1951
+|event2_assembly = 24th
+|event3          = election
+|event3_year     = 1955
+|event3_assembly = 25th
+|event4          = election
+|event4_year     = 1959
+|event4_assembly = 26th
+|accomplishments = [[400-series highways]]; [[Provincial Sales Tax]]; public hospital insurance which would become [[OHIP]]; Expansion of universities;  ''Fair Employment Practices Act'' and ''Fair Accommodation Practices Act'' and [[Ontario Human Rights Commission]] created; Voting rights for First Nations; Creation of [[Metropolitan Toronto]] and Toronto's first subway.
+|references      = <ref name=Frost>{{cite web|title=Leslie Miscampbell Frost, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=451|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[John Robarts]]
+|jurisdiction    = ON
+|number          = 17
+|image           = John Robarts, Premier of Ontario.jpg
+|birth_year      = 1917
+|death_year      = 1982
+|party           = PC
+|leadership      = [[1961 Progressive Conservative Party of Ontario leadership election|1961]]
+|riding          = [[London North (provincial electoral district)|London North]]
+|cabinet         = [[Robarts ministry]]
+|term_start      = 1961-11-08
+|term_end        = 1971-03-01
+|event1          = appointment
+|event1_assembly = 26th
+|event2          = election
+|event2_year     = 1963
+|event2_assembly = 27th
+|event3          = election
+|event3_year     = 1967
+|event3_assembly = 28th
+|accomplishments = [[Ontario Human Rights Code]]; 1967 "Confederation of Tomorrow" conference; [[Ontario Housing Corporation]] created; French education in Ontario schools; Creation of [[Ontario Health Insurance Plan]]; Creation of [[community college]] system; Creation of [[TVOntario]]; Creation of [[GO Transit]]; Creation of the [[Ontario Science Centre]].
+|references      = <ref name=Robart>{{cite web|title=John Parmenter Robarts, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=450|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Bill Davis]]
+|jurisdiction    = ON
+|number          = 18
+|image           = William Grenville Davis (1979).jpg
+|birth_year      = 1929
+|death_year      = 2021
+|party           = PC
+|leadership      = [[1971 Progressive Conservative Party of Ontario leadership election|1971]]
+|riding          = [[Peel North]]
+|riding_term     = 1971-1975
+|riding2         = [[Brampton (provincial electoral district)|Brampton]]
+|riding2_term    = 1975-1985
+|cabinet         = [[Davis ministry]]
+|term_start      = 1971-03-01
+|term_end        = 1985-02-08
+|event1          = appointment
+|event1_assembly = 28th
+|event2          = election
+|event2_year     = 1971
+|event2_assembly = 29th
+|event3          = election
+|event3_year     = 1975
+|event3_assembly = 30th
+|event4          = election
+|event4_year     = 1977
+|event4_assembly = 31st
+|event5          = election
+|event5_year     = 1981
+|event5_assembly = 32nd
+|accomplishments = [[Spadina Expressway]]; rejected (1971) then later partly extended (1984); full funding to Ontario's Catholic high schools; expansion of health care and education; extension of [[Ontario Human Rights Code]] provisions; expansion of French-language services; new regional governments; [[Rent control]]s; social housing expansion; Played a key role in patriation of the [[Canadian Constitution]].
+|references      = <ref name=Davis>{{cite web|title=William Grenville Davis, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=449|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Frank Miller (Canadian politician)|Frank Miller]]
+|jurisdiction    = ON
+|number          = 19
+|image           = 
+|birth_year      = 1927
+|death_year      = 2000
+|party           = PC
+|leadership      = [[1985 Progressive Conservative Party of Ontario leadership elections|1985]]
+|riding          = [[Muskoka (federal electoral district)|Muskoka]]
+|cabinet         = [[Miller ministry (Ontario)|Miller ministry]]
+|term_start      = 1985-02-08
+|term_end        = 1985-06-26
+|event1          = appointment
+|event1_assembly = 32nd
+|event2          = election
+|event2_year     = 1985
+|event2_assembly = 33rd
+|accomplishments = Lost a [[motion of no confidence]] immediately after the election and resigned power to the opposition party.
+|references      = <ref name=Miller>{{cite web|title=Frank Stuart Miller, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=448|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[David Peterson]]
+|jurisdiction    = ON
+|number          = 20
+|image           = David Peterson QP June 1987 (cropped).png
+|birth_year      = 1943
+|party           = Liberal
+|leadership      = 1982
+|riding          = [[London Centre (provincial electoral district)|London Centre]]
+|cabinet         = [[Peterson ministry]]
+|term_start      = 1985-06-26
+|term_end        = 1990-10-01
+|event1          = appointment
+|event1_assembly = 33rd
+|event2          = election
+|event2_year     = 1987
+|event2_assembly = 34th
+|accomplishments = Had the second-most seats in the 33rd assembly, but formed an accord with the New Democratic Party that would let the Liberal Party take power without forming an official coalition. Banned extra-billing by doctors and ended health insurance premiums. Reforms to rent laws, labour negotiation laws, pensions, environment; implemented extension of Catholic school funding to grade 13 announced by previous government; supported the [[Meech Lake Accord]]; Introduced no-fault auto insurance; [[Patti Starr|Patti Starr scandal]]
+|references      = <ref name=Peterson>{{cite web|title=David Robert Peterson, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=447|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Bob Rae]]
+|jurisdiction    = ON
+|number          = 21
+|image           = Bob Rae in 1980 (cropped).jpg
+|birth_year      = 1948
+|party           = NDP
+|leadership      = [[1982 Ontario New Democratic Party leadership election|1982]]
+|riding          = [[York South (federal electoral district)|York South]]
+|cabinet         = [[Rae ministry]]
+|term_start      = 1990-10-01
+|term_end        = 1995-06-26
+|event1          = election
+|event1_year     = 1990
+|event1_assembly = 35th
+|accomplishments = [[Social Contract (Ontario)|Social Contract]] and clash with unions; [[Rae days]]; Pay equity; Affirmative action; Strengthening of rent control; anti-[[Scab labour|scab]] legislation; Reserve status for [[North Ontario Aboriginals]]; [[Moratorium (law)|Moratorium]] on new nuclear plants; Attempted to maintain ban on [[Sunday shopping]] before allowing it; Introduction of casinos; [[Equality Rights Statute Amendment Act|Attempted to bring in extension of spousal benefits for same-sex partners]].
+|references      = <ref name=Rae>{{cite web|title=Bob Keith Rae, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=351|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Mike Harris]]
+|jurisdiction    = ON
+|number          = 22
+|image           = Mike Harris July 2003 (cropped).jpg
+|birth_year      = 1945
+|party           = PC
+|leadership      = [[1990 Progressive Conservative Party of Ontario leadership election|1990]]
+|riding          = [[Nipissing (provincial electoral district)|Nipissing]]
+|cabinet         = [[Harris ministry]]
+|term_start      = 1995-06-26
+|term_end        = 2002-04-14
+|event1          = election
+|event1_year     = 1995
+|event1_assembly = 36th
+|event2          = election
+|event2_year     = 1999
+|event2_assembly = 37th
+|accomplishments = [[Common Sense Revolution]]; 30% tax cut; 21% cut to social assistance rates; attempted to introduce [[Workfare]]; cancelled urban infrastructure projects including [[Eglinton West line|Eglinton subway]]; cut government spending; downloading of [[Ontario Housing Corporation|Ontario Housing]] to municipalities; provincial funding for municipal transit reduced; Telehealth Ontario created; division of [[Ontario Hydro]]; municipal amalgamations, including [[Amalgamation of Toronto]]; Elimination of [[Ontario Academic Credit|OAC year]] (Grade 13) and re-introduction of standardized testing; privatization of [[Highway 407]]; [[Ipperwash Crisis]]; teacher strikes; $1B cut from Education; [[Walkerton Tragedy]]; [[Ontario's Drive Clean]]; hospital closures and health restructuring.
+|references      = <ref name=Harris>{{cite web|title=Michael Harris, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=44|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Ernie Eves]]
+|jurisdiction    = ON
+|number          = 23
+|image           = Ernie Eves, September 11 memorial service (S2311 fl3398 it0093) (cropped).jpg
+|birth_year      = 1946
+|party           = PC
+|leadership      = [[2002 Progressive Conservative Party of Ontario leadership election|2002]]
+|riding          = [[Dufferin—Peel—Wellington—Grey (provincial electoral district)|Dufferin—Peel—Wellington—Grey]]
+|cabinet         = [[Eves ministry]]
+|term_start      = 2002-04-15
+|term_end        = 2003-10-22
+|event1          = appointment
+|event1_assembly = 37th
+|accomplishments = [[Kimberly Rogers]] and welfare reform; Possible sale of [[Hydro One]] and problem with hydro costs due to hot summers and [[2003 North America blackout]].
+|references      = <ref name=Eves>{{cite web|title=Ernie Eves, MPP|url=http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=313|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Dalton McGuinty]]
+|jurisdiction    = ON
+|number          = 24
+|image           = Dalton McGuinty, Mayors' Summit (cropped).jpg
+|birth_year      = 1955
+|party           = Liberal
+|leadership      = [[1996 Ontario Liberal Party leadership election|1996]]
+|riding          = [[Ottawa South (provincial electoral district)|Ottawa South]]
+|cabinet         = [[McGuinty ministry]]
+|term_start      = 2003-10-23
+|term_end        = 2013-02-11
+|event1          = election
+|event1_year     = 2003
+|event1_assembly = 38th
+|event2          = election
+|event2_year     = 2007
+|event2_assembly = 39th
+|event3          = election
+|event3_year     = 2011
+|event3_assembly = 40th
+|accomplishments = ''Green Energy and Economy Act''; Auto insurance reforms; Cancelled tax cuts; Increase in health spending and Health Premium tax; Transfer of gas tax to municipalities; Breed-specific legislation aka ban on/government-sanctioned euthanization of 'pit bulls' and dogs considered to resemble 'pit bulls'; Established the [[Greenbelt (Golden Horseshoe)|Greenbelt]]; Renegotiation of federal [[Equalization payments in Canada|equalization]]; Expansion of [[Ontario's Drive Clean]]; full-day kindergarten; [[MoveOntario]]; [[eHealth Ontario scandal]]; [[Harmonized Sales Tax]]; [[Ontario power plant scandal]]. On October 15, 2012, resigned unexpectedly and [[Prorogation in Canada|proroged]] the legislature.
+|references      = <ref name=McGuinty>{{cite web|title=Dalton McGuinty, MPP|url=http://www.ontla.on.ca/web/members/members_detail.do?locale=en&ID=66&detailPage=members_detail_career|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref><ref>{{cite web|title=McGuinty Government Takes Office; Ready To Get To Work For All Ontarians|url=http://www.premier.gov.on.ca/news/event.php?ItemID=3780&Lang=EN|publisher=Office of the Premier of Ontario|access-date=January 27, 2013|date=October 23, 2003}}</ref><ref>{{cite web|title=Meeting with the Premier and Ms. Wynne|url=http://www.lgontario.ca/en/events/pages/eventdetails.aspx?eventid=15|publisher=Office of the Lieutenant Governor of Ontario|access-date=February 12, 2013|url-status=dead|archive-url=https://web.archive.org/web/20150607122402/http://www.lgontario.ca/en/events/pages/eventdetails.aspx?eventid=15|archive-date=June 7, 2015}}</ref>
+}}
+{{Canadian first minister list
+|name            = [[Kathleen Wynne]]
+|jurisdiction    = ON
+|number          = 25
+|image           = Kathleen Wynne March 2015.jpg
+|birth_year      = 1953
+|party           = Liberal
+|leadership      = [[2013 Ontario Liberal Party leadership election|2013]]
+|riding          = [[Don Valley West (provincial electoral district)|Don Valley West]]
+|cabinet         = [[Wynne ministry]] 
+|term_start      = 2013-02-11
+|term_end        = 2018-06-29
+|event1          = appointment
+|event1_assembly = 40th
+|event2          = election
+|event2_year     = 2014
+|event2_assembly = 41st
+|accomplishments = First female Premier of Ontario, first openly gay premier in Canada; Ontario-Québec Relations (500 megawatts (MW) of peak electricity sharing); ''[[Public Sector and MPP Accountability and Transparency Act]]''; The ''Great Lakes Protection Act''; $30-billion investment into transportation across the province; privatization of [[Hydro One]]; allowed [[Beer in Canada|beer]] and [[wine]] to be sold in certain grocery stores;implementation of controversial [[Ontario sex education curriculum controversy|updated sex education]] in public schools; raised the [[minimum wage]] in Ontario to $14; created the [[OHIP+ program]] to provide prescription drugs free for youth under 25; conflicted with the [[Auditor General of Ontario|Auditor General]] and Financial Accountability Office over budgeting. On June 7, 2018, led party to worst defeat of a governing party in Ontario history.
+|references      = <ref>{{cite web|title=Kathleen Wynne, MPP|url=http://www.ontla.on.ca/web/members/members_detail.do?locale=en&ID=2111&detailPage=members_detail_career|work=Legislative Assembly website|publisher=Legislative Assembly on Ontario|access-date=April 1, 2013}}</ref><ref>{{cite web|title=Jobs, Economy, a Fair Society: Priorities for New Ontario Government|url=http://www.premier.gov.on.ca/news/event.php?ItemID=23266&Lang=EN|publisher=Office of the Premier of Ontario|access-date=February 12, 2013|date=February 11, 2013}}</ref><ref name="GovtConfirm" /><ref name="GlobeandMail" />
+}}
+{{Canadian first minister list
+|name            = [[Doug Ford]]
+|jurisdiction    = ON
+|number          = [[Premiership of Doug Ford|26]]
+|image           = Doug_Ford_in_Toronto_June_2025_(edited).jpg
+|birth_year      = 1964
+|party           = PC
+|leadership      = [[2018 Progressive Conservative Party of Ontario leadership election|2018]]
+|riding          = [[Etobicoke North (provincial electoral district)|Etobicoke North]]
+|cabinet         = [[Ford ministry]]
+|term_start      = 2018-06-29
+|term_end        = 
+|event1          = election
+|event1_year     = 2018
+|event1_assembly = 42nd
+|event2          = election
+|event2_year     = 2022
+|event2_assembly = 43rd
+|event3          = election
+|event3_year     = 2025
+|event3_assembly = 44th
+|accomplishments = Cancelled the provincial [[Emissions trading|cap and trade system]]. Cut [[Toronto City Council]] from 47 to 25 wards. [[Buck-a-beer]].<ref>{{cite news|title=Doug Ford delivers 'buck-a-beer', but corner stores will have to wait {{!}} The Star|language=en|work=thestar.com|publisher=The Star|url=https://www.thestar.com/news/queenspark/2018/08/27/doug-ford-delivers-buck-a-beer-but-corner-stores-will-have-to-wait.html|access-date=September 5, 2018|archive-date=September 5, 2018|archive-url=https://web.archive.org/web/20180905065317/https://www.thestar.com/news/queenspark/2018/08/27/doug-ford-delivers-buck-a-beer-but-corner-stores-will-have-to-wait.html|url-status=live}}</ref> Reduced the small business tax rate by 8.7%. Introduced free dental care for low-income seniors. Oversaw Ontario's response to the [[COVID-19 pandemic in Ontario|COVID-19 pandemic]]. Removed passenger vehicle [[Vehicle registration plates of Ontario|licence plate]] renewal fees. Raised the provincial [[Minimum wage in Canada|minimum wage]] to $15 per hour in January 2022, $16.55 in October 2023, $17.20 in October 2024, $17.60 in October 2025, and $17.95 in October 2026. Ontario Corps established. Closed the [[Ontario Science Centre]]. Involved with [[Greenbelt scandal]]. Leased [[Ontario Place]] to Therme Canada for redevelopment.<ref>{{Cite web | url=https://www.infrastructureontario.ca/4a7d2d/contentassets/84df22e71b7c40b2aaeef94da88c78b5/ontario-place---therme-lease.pdf | title=Lease - Her Majesty the Queen in right of Ontario, as represented by the minister of government and consumer services | website=www.infrastructureontario.ca}}</ref>
+|references      = <ref name="GovtConfirm">{{cite web |title=Doug Ford to Become Ontario's 26th Premier |url=https://news.ontario.ca/opd/en/2018/06/doug-ford-to-become-ontarios-26th-premier.html |website=Government of Ontario |access-date=8 June 2018}}</ref><ref name="GlobeandMail">{{cite news |last1=Denette |first1=Nathan |title=Doug Ford has won Ontario's election. What happens now? A guide |url=https://www.theglobeandmail.com/canada/article-doug-ford-wins-ontario-election-explainer/ |access-date=8 June 2018 |newspaper=The Globe and Mail |date=8 June 2018}}</ref>
+}}
+{{Canadian first minister list/bottom|notes=
+:{{note label|Drew|α}} Party won the election, but premier lost own seat.
+}}
+
+== List of premiers by time in office ==
+{{Table alignment}}{{Sticky header}}
+{| class="wikitable sortable defaultcenter col2left col-1left sticky-header" 
+! Rank !! Premier !! Length of tenure !! Dates in office !! Mandates !! Colspan=2| Party
+|-
+| style="text-align: center;" |1
+|{{sortname|Oliver|Mowat}}
+|{{ayd|1872|10|25|1896|7|21}}
+|1872–1896
+| style="text-align: center;" |6
+|{{Canadian party colour|ON|Liberal|background}}| || Liberal
+|-
+| style="text-align: center;" |2
+|{{sortname|Bill|Davis}}
+|{{ayd|1971|3|1|1985|2|8}}
+|1971–1985
+| style="text-align: center;" |4
+|{{Canadian party colour|ON|PC|background}}| || Progressive Conservative
+|-
+| style="text-align: center;" |3
+|{{sortname|Leslie|Frost}}
+|{{ayd|1949|5|4|1961|11|8}}
+|1949–1961
+| style="text-align: center;" |3
+|{{Canadian party colour|ON|PC|background}}| || Progressive Conservative
+|-
+| style="text-align: center;" |4
+|{{sortname|James|Whitney|dab=politician}}
+|{{ayd|1905|2|8|1914|9|25}}
+|1905–1914<ref>died in office</ref>
+| style="text-align: center;" |4
+|{{Canadian party colour|ON|Conservative|background}}| || Conservative
+|-
+| style="text-align: center;" |5
+|{{sortname|John|Robarts}}
+|{{ayd|1961|11|8|1971|3|1}}
+|1961–1971
+| style="text-align: center;" |2
+|{{Canadian party colour|ON|PC|background}}| || Progressive Conservative
+|-
+| style="text-align: center;" |6
+|{{sortname|Dalton|McGuinty}}
+|{{ayd|2003|10|23|2013|02|11}}
+|2003–2013
+| style="text-align: center;" |3
+|{{Canadian party colour|ON|Liberal|background}}| || Liberal
+|- bgcolor="99FF99"
+|style="text-align: center;" |7
+|'''{{sortname|Doug|Ford}}''' ''(incumbent)''
+|{{ayd|2018|6|29}}
+|2018–present
+| style="text-align: center;" |3
+|{{Canadian party colour|ON|PC|background}}| || Progressive Conservative
+|-
+| style="text-align: center;" |8
+|{{sortname|Mitchell|Hepburn}}
+|{{ayd|1934|7|10|1942|10|21}}
+|1934–1942
+| style="text-align: center;" |2
+|{{Canadian party colour|ON|Liberal|background}}| || Liberal
+|-
+|style="text-align: center;" |9
+|{{sortname|Howard|Ferguson}}
+|{{ayd|1923|7|16|1930|12|15}}
+|1923–1930
+| style="text-align: center;" |3
+|{{Canadian party colour|ON|Conservative|background}}| || Conservative
+|-
+| style="text-align: center;" |10
+|{{sortname|Mike|Harris}}
+|{{ayd|1995|6|26|2002|4|14}}
+|1995–2002
+| style="text-align: center;" |2
+|{{Canadian party colour|ON|PC|background}}| || Progressive Conservative
+|-
+| style="text-align: center;" |11
+|{{sortname|Kathleen|Wynne}}
+|{{ayd|2013|2|11|2018|06|29}}
+|2013–2018
+| style="text-align: center;" |1
+|{{Canadian party colour|ON|Liberal|background}}| || Liberal
+|-
+| style="text-align: center;" |12
+|{{sortname|George William|Ross}}
+|{{ayd|1899|10|21|1905|2|8}}
+|1899–1905
+| style="text-align: center;" |1
+|{{Canadian party colour|ON|Liberal|background}}| || Liberal
+|-
+| style="text-align: center;" |13
+|{{sortname|David|Peterson}}
+|{{ayd|1985|6|26|1990|10|1}}
+|1985–1990
+| style="text-align: center;" |1{{Efn|name=accord}}
+|{{Canadian party colour|ON|Liberal|background}}| || Liberal
+|-
+| style="text-align: center;" |14
+|{{sortname|George A.|Drew}}
+|{{ayd|1943|8|17|1948|10|19}}
+|1943–1948
+| style="text-align: center;" |3
+|{{Canadian party colour|ON|PC|background}}| || Progressive Conservative
+|-
+| style="text-align: center;" |15
+|{{sortname|William Howard|Hearst}}
+|{{ayd|1914|10|2|1919|11|14}}
+|1914–1919
+| style="text-align: center;" |0
+|{{Canadian party colour|ON|Conservative|background}}| || Conservative
+|-
+| style="text-align: center;" |16
+|{{sortname|Bob|Rae}}
+|{{ayd|1990|10|1|1995|6|26}}
+|1990–1995
+| style="text-align: center;" |1
+|{{Canadian party colour|ON|NDP|background}}| || New Democratic
+|-
+| style="text-align: center;" |17
+|{{sortname|John Sandfield|Macdonald}}
+|{{ayd|1867|7|16|1871|12|20}}
+|1867–1871
+| style="text-align: center;" |1
+|{{Canadian party colour|ON|Conservative|background}}| || Conservative
+|-
+| style="text-align: center;" |18
+|{{sortname|Ernest Charles|Drury}}
+|{{ayd|1919|11|14|1923|7|16}}
+|1919–1923
+| style="text-align: center;" |1
+|{{Canadian party colour|ON|United Farmers|background}}| || United Farmers
+|-
+| style="text-align: center;" |19
+|{{sortname|George Stewart|Henry}}
+|{{ayd|1930|12|15|1934|7|10}}
+|1930–1934
+| style="text-align: center;" |0
+|{{Canadian party colour|ON|Conservative|background}}| || Conservative
+|-
+| style="text-align: center;" |20
+|{{sortname|Arthur Sturgis|Hardy}}
+|{{ayd|1896|7|21|1899|10|21}}
+|1896–1899
+| style="text-align: center;" |1
+|{{Canadian party colour|ON|Liberal|background}}| || Liberal
+|-
+| style="text-align: center;" |21
+|{{sortname|Ernie|Eves}}
+|{{ayd|2002|4|15|2003|10|22}}
+|2002–2003
+| style="text-align: center;" |0
+|{{Canadian party colour|ON|PC|background}}| || Progressive Conservative
+|-
+| style="text-align: center;" |22
+|{{sortname|Edward|Blake}}
+|{{ayd|1871|12|20|1872|10|25}}
+|1871–1872
+| style="text-align: center;" |1
+|{{Canadian party colour|ON|Liberal|background}}| || Liberal
+|-
+| style="text-align: center;" |23
+|{{sortname|Gordon Daniel|Conant}}
+|{{ayd|1942|10|21|1943|5|18}}
+|1942–1943
+| style="text-align: center;" |0
+|{{Canadian party colour|ON|Liberal|background}}| || Liberal
+|-
+| style="text-align: center;" |24
+|{{sortname|Thomas Laird|Kennedy}}
+|{{ayd|1948|10|19|1949|5|4}}
+|1948–1949
+| style="text-align: center;" |0
+|{{Canadian party colour|ON|PC|background}}| || Progressive Conservative
+|-
+| style="text-align: center;" |25
+|{{sortname|Frank|Miller|Frank Miller (Canadian politician)}}
+|{{ayd|1985|2|8|1985|6|26}}
+|1985
+| style="text-align: center;" |1{{Efn|name=accord}}
+|{{Canadian party colour|ON|PC|background}}| || Progressive Conservative
+|-
+| style="text-align: center;" |26
+|{{sortname|Harry|Nixon}}
+|{{ayd|1943|5|18|1943|8|17}}
+|1943
+| style="text-align: center;" |0
+|{{Canadian party colour|ON|Liberal|background}}| || Liberal
+|}
+
+==See also==
+* [[Politics of Ontario]]
+* [[List of leaders of the opposition in Ontario]]
+For more lists of this type, see [[Lists of incumbents]].
+
+==Notes==
+{{notelist|refs=
+{{efn|name=accord|Frank Miller's Progressive Conservative Party won a plurality of seats in the [[1985 Ontario general election]], but the resulting [[33rd Parliament of Ontario]] passed a [[motion of no confidence]] against him less than two months into his mandate, replacing his government with David Peterson's Liberal Party. This table counts the [[1985 Ontario general election|1985 election]] as a mandate for Miller.}}
+}}
+
+==References==
+{{Reflist}}
+
+==Sources==
+*{{cite encyclopedia|url=https://www.thecanadianencyclopedia.ca/en/article/ontario|title=Ontario|encyclopedia=[[The Canadian Encyclopedia]]|access-date=October 8, 2019}}
+*{{cite web|url=http://www.ontla.on.ca/web/members/members_all.do?locale=en|title=Historical Records|access-date=2007-03-11|author=Government of Ontario|work=Past & Present MPPs|publisher=Legislative Assembly of Ontario|archive-url=https://web.archive.org/web/20070316080710/http://www.ontla.on.ca/web/members/members_all.do?locale=en|archive-date=2007-03-16|url-status=dead}}
+
+{{Canadian First Ministers}}
+
+{{Ontario politics}}
+
+{{Featured list}}
+
+[[Category:Lists of premiers of Canada by province or territory|Ontario]]
+[[Category:Premiers of Ontario|*]]
+[[Category:Lists of political office-holders in Ontario|Premiers]]
+
+[[fr:Liste des Premiers ministres de l'Ontario]]

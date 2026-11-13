@@ -82,6 +82,7 @@ export const en = {
     myths: "Myths vs. facts",
     sources: "Sources",
     primeMinisters: "Prime ministers",
+    electionsHistory: "150 years of elections",
     governorsGeneral: "Monarchs and governors general",
     demographics: "Demographics",
     credits: "Credits",

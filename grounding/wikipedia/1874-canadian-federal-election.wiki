@@ -1,0 +1,398 @@
+{{Short description|none}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 1874 Canadian federal election
+| country = Canada
+| flag_year = 1868
+| type = parliamentary
+| ongoing = no
+| party_colour = no
+| party_name = no
+| previous_election = 1872 Canadian federal election
+| previous_year = 1872
+| next_election = 1878 Canadian federal election
+| next_year = 1878
+| seats_for_election = 206 seats in the [[House of Commons of Canada|House of Commons]]
+| majority_seats = 104
+| turnout = 69.6%<ref>{{cite web|title=Voter Turnout at Federal Elections and Referendums
+|url=http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|website=Elections Canada|access-date=10 March 2019}}</ref> ({{decrease}} 0.7 [[Percentage Point|pp]])
+| election_date = January 22, 1874
+| elected_members = 3rd Canadian Parliament
+| outgoing_members = 2nd Canadian Parliament
+| image1 = Alexander MacKenzie - portrait (cropped).jpg
+| colour1 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader1 = [[Alexander Mackenzie (politician)|Alexander Mackenzie]]
+| leader_since1 = March 6, 1873
+| party1 = {{Canadian party colour|CA|Liberal|name}}
+| leaders_seat1 = [[Lambton (federal electoral district)|Lambton]]
+| last_election1 = 95 seats, 34.7%
+| seats1 = '''129'''
+| seat_change1 = {{increase}} 35
+| popular_vote1 = '''128,455'''
+| percentage1 = '''39.5%'''
+| swing1 = {{increase}} 4.8 [[Percentage Point|pp]]
+| image2 = John A Macdonald (ca. 1875) (cropped).jpg
+| colour2 = {{Canadian party colour|CA|Conservative (historical)|nohash}}
+| leader2 = [[John A. Macdonald]]
+| leader_since2 = July 1, 1867
+| party2 = {{Canadian party colour|CA|Conservative (historical)|name}}
+| leaders_seat2 = [[Kingston (federal electoral district)|Kingston]]
+| last_election2 = 100 seats, 38.7%
+| seats2 = 65
+| seat_change2 = {{decrease}} 35
+| popular_vote2 = 97,925
+| percentage2 = 30.1%
+| swing2 = {{decrease}} 8.6 [[Percentage Point|pp]]
+| map_image = Canada 1874 Federal Election.svg
+| map_size = 380px
+| map_caption = 1874 Canadian electoral map
+| map2_image = Chambre des Communes 1874.png
+| map2_size = 380px
+| map2_caption = The Canadian parliament after the 1874 election
+| title = Prime Minister
+| posttitle = Prime Minister after election
+| before_election = [[Alexander Mackenzie (politician)|Alexander Mackenzie]]
+| before_party = {{Canadian party colour|CA|Liberal|name}}
+| after_election = [[Alexander Mackenzie (politician)|Alexander Mackenzie]]
+| after_party = {{Canadian party colour|CA|Liberal|name}}
+| image2_size = x200px
+| image1_size = x200px
+}}
+The '''1874 Canadian federal election''' was held on January 22, 1874, to elect members of the [[House of Commons of Canada]] of the [[3rd Canadian Parliament|3rd Parliament]] of [[Canada]]. Sir [[John A. Macdonald]], who had recently been forced out of office as prime minister, and his [[Conservative Party of Canada|Conservatives]] were defeated by the [[Liberal Party of Canada|Liberal Party]] under their new leader [[Prime Minister of Canada|Prime Minister]] [[Alexander Mackenzie (politician)|Alexander Mackenzie]]. Macdonald's government had been forced to resign on November 5, 1873, because of allegations of corruption relating to the construction of the [[Canadian Pacific Railway]] (see the [[Pacific Scandal]]). The Tories were unable to recover from the scandal and lost the next election.
+
+The Liberals under Mackenzie had formed a government on November 7 and then called an election for January. 
+
+The election was the first general election after [[Prince Edward Island]]'s entry into Confederation. 
+
+Mackenzie was a reformer, and the 1874 election was the first Canadian election to use [[secret ballot]]s. He promised to reform election laws in other ways too, including the introduction of simultaneous voting (all seats filled at once instead of successively in a long-drawn-out election period), judicial consideration of contested elections, and extension of the franchise. He also made most important pledges concerning railway projects.<ref>James W. Daschuk, Fear and Loathing at the Geologic Survey (1991 M.A. thesis), p. 54. accessed online Jan. 3, 2025</ref>
+
+[[Louis Riel]], former leader of the [[Red River Rebellion|Red River rebellion]], was elected as an Independent in Manitoba in 1874 but never took his seat.
+
+==National results==
+[[File:1874 Canadian parliament.svg|center|300px]]
+
+{| class="wikitable"
+! colspan=10|3rd Parliament
+|- bgcolor="CCCCCC"
+!rowspan=2 colspan=2|Party
+!rowspan=2|Party leader
+!rowspan=2|# of candidates
+!colspan=3|Seats
+!colspan=3|Popular vote
+|- bgcolor="CCCCCC"
+|align="center"|[[1872 Canadian federal election|1872]]
+|align="center"|'''Elected'''
+|align="center"|Change
+|align="center"|#
+|align="center"|%
+|align="center"|Change
+{{Canadian party colour|CA|Liberal|row}}
+| [[Liberal Party of Canada|Liberal]]
+| [[Alexander Mackenzie (politician)|Alexander Mackenzie]]
+|align="right"|140
+|align="right"|95
+| align="right" width="51"|'''129'''
+|align="right"|+35.8%
+| align="right" width="56"|128,455
+| align="right" width="41"|39.49%
+|align="right"|+4.77pp
+{{Canadian party colour|CA|PC|row}}
+| [[Conservative Party of Canada (historical)|Conservative]]
+| rowspan=2|[[John A. Macdonald]]
+|align="right"|65
+|align="right"|63
+| align="right" width="51"|'''39'''
+|align="right"|-38.1%
+| align="right" width="56"|57,691
+| align="right" width="41"|17.74%
+|align="right"|-8.02pp
+{{Canadian party colour|CA|PC|row}}
+| [[Liberal-Conservative Party|Liberal-Conservative]]<sup>1</sup>
+|align="right"|38
+|align="right"|36
+| align="right" width="51"|'''26'''
+|align="right"|-27.8%
+| align="right" width="56"|40,234
+| align="right" width="41"|12.37%
+|align="right"|-0.53pp
+{{Canadian party colour|CA|PC|row}}
+| [[Conservative Labour]]
+| &nbsp;
+|align="right"|1
+|align="right"|1
+| align="right" width="51"|-
+|align="right"|-100%
+| align="right" width="56"|1,515
+| align="right" width="41"|0.47%
+|align="right"|+0.02pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Independents
+|align="right"|7
+|align="right"|1
+| align="right" width="51"|'''4'''
+|align="right"|+300%
+| align="right" width="56"|10,453
+| align="right" width="41"|3.21%
+|align="right"|+1.58pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Independent Liberal
+|align="right"|5
+|align="right"|2
+| align="right" width="51"|'''5'''
+|align="right"|+300%
+| align="right" width="56"|6,541
+| align="right" width="41"|2.01%
+|align="right"|+0.37pp
+{{Canadian party colour|CA|Independent|row}}
+| colspan=2|Independent Conservative
+|align="right"|3
+|align="right"|2
+| align="right" width="51"|'''3'''
+|align="right"|+50%
+| align="right" width="56"|2,360
+| align="right" width="41"|0.73%
+|align="right"|+0.03pp
+{{Canadian party colour|CA|Independent|row}}
+|colspan=2| Unknown
+|align="right"|104
+|align="right"|-
+| align="right" width="51"|&nbsp;&nbsp; -
+|align="right"|-
+| align="right" width="56"|78,008
+| align="right" width="41"|23.98%
+|align="right"|+1.78pp
+|- 
+! colspan=3 width="432"|Total
+|align="right"|'''355'''
+|align="right"|'''200'''
+| align="right" width="52"|'''206'''
+!align="right"|+3.0%
+!align="right"|325,247
+!align="right"|100%
+|align="right"|&nbsp;
+|-
+| align="center" colspan=10|''Source: [http://www.parl.gc.ca/parlinfo/Compilations/ElectionsAndRidings/ResultsParty.aspx?Season=0&Parliament=c2687069-bac6-4649-a7b6-f10d87e627f9 Parliamentary website] {{Webarchive|url=https://web.archive.org/web/20150924142011/http://www.parl.gc.ca/parlinfo/Compilations/ElectionsAndRidings/ResultsParty.aspx?Season=0&Parliament=c2687069-bac6-4649-a7b6-f10d87e627f9 |date=2015-09-24 }}, [http://www.parl.gc.ca/About/Parliament/FederalRidingsHistory/hfer.asp?Language=E&Search=Gres&genElection=3&ridProvince=0&submit1=Search Detailed riding results] {{Webarchive|url=https://web.archive.org/web/20150924081833/http://www.parl.gc.ca/About/Parliament/FederalRidingsHistory/hfer.asp?Language=E&Search=Gres&genElection=3&ridProvince=0&submit1=Search |date=2015-09-24 }}''
+|}
+
+'''Notes:'''
+
+<sup>1</sup> Liberal-Conservatives sat with the Conservative caucus in the House of Commons.
+
+'''Acclamations'''
+
+The following Members of Parliament were elected by acclamation;
+* Ontario: 1 Liberal-Conservative, 13 Liberals
+* Quebec: 10 Conservatives, 4 Liberal-Conservatives, 15 Liberals
+* New Brunswick: 1 Conservative, 3 Liberals, 1 Independent Liberal
+* Nova Scotia: 5 Liberals
+* Prince Edward Island: 2 Liberals
+
+==Results by province==
+
+{| class="wikitable"
+! align="center" colspan=3|Party name
+! [[British Columbia|&nbsp;BC&nbsp;]]
+! [[Manitoba|&nbsp;MB&nbsp;]] 
+! [[Ontario|&nbsp;ON&nbsp;]]
+! [[Quebec|&nbsp;QC]]
+! [[New Brunswick|&nbsp;NB&nbsp;]]
+! [[Nova Scotia|&nbsp;NS&nbsp;]]
+! [[Prince Edward Island|&nbsp;PEI&nbsp;]]
+! Total  
+{{Canadian party colour|CA|Liberal|row}}
+|rowspan=2| [[Liberal Party of Canada|Liberal]] 
+|Seats
+| align="right"|3
+| align="right"|1
+| align="right"|61
+| align="right"|34
+| align="right"|10
+| align="right"|15
+| align="right"|5
+| align="right"|129  
+{{Canadian party colour|CA|Liberal|row}}
+| Popular vote
+| align="right"|34.1
+| align="right"|47.0
+| align="right"|39.6
+| align="right"|34.8
+| align="right"|47.1
+| align="right"|38.1
+| align="right"|56.8
+| align="right"|39.5   
+{{Canadian party colour|CA|PC|row}}
+|rowspan=2| [[Conservative Party of Canada (historical)|Conservative]] 
+|Seats
+| align="right"|1
+| align="right"|1
+| align="right"|15
+| align="right"|17
+| align="right"|2
+| align="right"|2
+| align="right"|1
+| align="right"|39  
+{{Canadian party colour|CA|PC|row}}
+| Vote
+| align="right"|4.5
+| align="right"|13.8
+| align="right"|19.5
+| align="right"|17.6
+| align="right"|6.8
+| align="right"|17.8
+| align="right"|17.5
+| align="right"|17.7  
+{{Canadian party colour|CA|PC|row}}
+|rowspan=2| [[Liberal-Conservative Party|Liberal-Conservative]] 
+|Seats
+| align="right"|1
+| &nbsp;
+| align="right"|10
+| align="right"|12
+| align="right"|1
+| align="right"|2
+| align="right"|-
+| align="right"|26  
+{{Canadian party colour|CA|PC|row}}
+| Vote
+| align="right"|16.9
+| &nbsp;
+| align="right"|10.4
+| align="right"|14.9
+| align="right"|8.6
+| align="right"|19.2
+| align="right"|15.4
+| align="right"|12.4  
+{{Canadian party colour|CA|PC|row}}
+|rowspan=2| [[Conservative Labour]]
+|Seats
+| &nbsp;
+| &nbsp;
+| align="right"|-
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| align="right"|-  
+{{Canadian party colour|CA|PC|row}}
+| Vote
+| &nbsp;
+| &nbsp;
+| align="right"|0.9
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| align="right"|0.5  
+{{Canadian party colour|CA|Independent|row}}
+|rowspan=2| Unknown 
+|Seats
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;  
+{{Canadian party colour|CA|Independent|row}}
+| Vote
+| align="right"|29.2
+| align="right"|13.8
+| align="right"|27.2
+| align="right"|27.5
+| align="right"|19.9
+| align="right"|9.0
+| align="right"|10.3
+| align="right"|24.0  
+{{Canadian party colour|CA|Independent|row}}
+|rowspan=2| Independent 
+|Seats
+| &nbsp;
+| align="right"|1
+| align="right"|-
+| align="right"|-
+| align="right"|2
+| align="right"|1
+| &nbsp;
+| align="right"|4  
+{{Canadian party colour|CA|Independent|row}}
+| Vote
+| &nbsp;
+| align="right"|9.5
+| align="right"|0.8
+| align="right"|2.3
+| align="right"|17.6
+| align="right"|7.7
+| &nbsp;
+| align="right"|3.2  
+{{Canadian party colour|CA|Independent|row}}
+|rowspan=2| Independent Liberal 
+|Seats
+| align="right"|1
+| &nbsp;
+| align="right"|2
+| &nbsp;
+| align="right"|1
+| align="right"|1
+| &nbsp;
+| align="right"|5  
+{{Canadian party colour|CA|Independent|row}}
+| Vote
+| align="right"|15.4
+| &nbsp;
+| align="right"|1.7
+| &nbsp;
+| &nbsp;
+| align="right"|8.2
+| &nbsp;
+| align="right"|2.0  
+{{Canadian party colour|CA|Independent|row}}
+|rowspan=2| Independent Conservative 
+|Seats
+| &nbsp;
+| align="right"|1
+| &nbsp;
+| align="right"|2
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| align="right"|3  
+{{Canadian party colour|CA|Independent|row}}
+| Vote
+| &nbsp;
+| align="right"|15.9
+| &nbsp;
+| align="right"|2.9
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| align="right"|0.7
+|-
+| colspan=3|'''Total seats'''
+|align="right"| '''6'''
+|align="right"|'''4'''
+|align="right"| '''88'''
+|align="right"| '''65'''
+|align="right"| '''16'''
+|align="right"| '''21'''
+|align="right"| '''6'''
+|align="right"| '''206'''
+|}
+
+==See also==
+{{Portal|Canada|Politics}} 
+{{for|a list of candidates elected in the 1874 election|3rd Canadian Parliament}}
+*[[List of Canadian federal general elections]]
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+* {{cite book |last1=Pope |first1=Richard |title=Return on the Third General Election for the House of Commons of Canada |date=1874 |publisher=Queen's Printer |location=Ottawa |url=https://www.google.ca/books/edition/_/DIwtAAAAYAAJ?hl}}
+
+{{Canada elections}}
+{{John A. Macdonald}}
+
+[[Category:1874 Canadian federal election| ]]
+[[Category:Canadian federal elections by year|1874]]
+[[Category:January 1874 in North America]]

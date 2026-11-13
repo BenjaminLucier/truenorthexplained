@@ -4,10 +4,406 @@
     "flags": "2026-11-13T04:11:21Z",
     "statcan": "2026-11-13T04:00:51Z",
     "wikidata": "2026-11-13T03:56:27Z",
-    "wikipedia": "2026-11-13T03:56:07Z"
+    "wikipedia": "2026-11-13T05:19:52Z"
   },
   "wikipedia": {
     "pages": {
+      "1867-canadian-federal-election": {
+        "title": "1867 Canadian federal election",
+        "requested": "1867 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 445732,
+        "revid": 1374278670,
+        "url": "https://en.wikipedia.org/wiki/1867_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1872-canadian-federal-election": {
+        "title": "1872 Canadian federal election",
+        "requested": "1872 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 488354,
+        "revid": 1382300063,
+        "url": "https://en.wikipedia.org/wiki/1872_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1874-canadian-federal-election": {
+        "title": "1874 Canadian federal election",
+        "requested": "1874 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 711285,
+        "revid": 1382300406,
+        "url": "https://en.wikipedia.org/wiki/1874_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1878-canadian-federal-election": {
+        "title": "1878 Canadian federal election",
+        "requested": "1878 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 1044962,
+        "revid": 1382300601,
+        "url": "https://en.wikipedia.org/wiki/1878_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1882-canadian-federal-election": {
+        "title": "1882 Canadian federal election",
+        "requested": "1882 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 1053595,
+        "revid": 1382301511,
+        "url": "https://en.wikipedia.org/wiki/1882_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1887-canadian-federal-election": {
+        "title": "1887 Canadian federal election",
+        "requested": "1887 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 1053609,
+        "revid": 1382301547,
+        "url": "https://en.wikipedia.org/wiki/1887_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1891-canadian-federal-election": {
+        "title": "1891 Canadian federal election",
+        "requested": "1891 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 524238,
+        "revid": 1382301706,
+        "url": "https://en.wikipedia.org/wiki/1891_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1896-canadian-federal-election": {
+        "title": "1896 Canadian federal election",
+        "requested": "1896 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 481060,
+        "revid": 1374428484,
+        "url": "https://en.wikipedia.org/wiki/1896_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1900-canadian-federal-election": {
+        "title": "1900 Canadian federal election",
+        "requested": "1900 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 1041862,
+        "revid": 1384210523,
+        "url": "https://en.wikipedia.org/wiki/1900_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1904-canadian-federal-election": {
+        "title": "1904 Canadian federal election",
+        "requested": "1904 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 1040222,
+        "revid": 1382302876,
+        "url": "https://en.wikipedia.org/wiki/1904_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1908-canadian-federal-election": {
+        "title": "1908 Canadian federal election",
+        "requested": "1908 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 1039385,
+        "revid": 1382302993,
+        "url": "https://en.wikipedia.org/wiki/1908_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1911-canadian-federal-election": {
+        "title": "1911 Canadian federal election",
+        "requested": "1911 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 596380,
+        "revid": 1382303708,
+        "url": "https://en.wikipedia.org/wiki/1911_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1917-canadian-federal-election": {
+        "title": "1917 Canadian federal election",
+        "requested": "1917 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 943511,
+        "revid": 1344157129,
+        "url": "https://en.wikipedia.org/wiki/1917_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1921-canadian-federal-election": {
+        "title": "1921 Canadian federal election",
+        "requested": "1921 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 343249,
+        "revid": 1369074519,
+        "url": "https://en.wikipedia.org/wiki/1921_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1925-canadian-federal-election": {
+        "title": "1925 Canadian federal election",
+        "requested": "1925 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 524278,
+        "revid": 1355486028,
+        "url": "https://en.wikipedia.org/wiki/1925_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1926-canadian-federal-election": {
+        "title": "1926 Canadian federal election",
+        "requested": "1926 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 991719,
+        "revid": 1370343743,
+        "url": "https://en.wikipedia.org/wiki/1926_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1930-canadian-federal-election": {
+        "title": "1930 Canadian federal election",
+        "requested": "1930 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 988533,
+        "revid": 1370554166,
+        "url": "https://en.wikipedia.org/wiki/1930_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1935-canadian-federal-election": {
+        "title": "1935 Canadian federal election",
+        "requested": "1935 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 798360,
+        "revid": 1382143827,
+        "url": "https://en.wikipedia.org/wiki/1935_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1940-canadian-federal-election": {
+        "title": "1940 Canadian federal election",
+        "requested": "1940 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 804516,
+        "revid": 1366509572,
+        "url": "https://en.wikipedia.org/wiki/1940_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1945-canadian-federal-election": {
+        "title": "1945 Canadian federal election",
+        "requested": "1945 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 621251,
+        "revid": 1371316075,
+        "url": "https://en.wikipedia.org/wiki/1945_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1949-canadian-federal-election": {
+        "title": "1949 Canadian federal election",
+        "requested": "1949 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 793999,
+        "revid": 1366509410,
+        "url": "https://en.wikipedia.org/wiki/1949_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1953-canadian-federal-election": {
+        "title": "1953 Canadian federal election",
+        "requested": "1953 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 794020,
+        "revid": 1383860152,
+        "url": "https://en.wikipedia.org/wiki/1953_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1957-canadian-federal-election": {
+        "title": "1957 Canadian federal election",
+        "requested": "1957 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 465004,
+        "revid": 1370749021,
+        "url": "https://en.wikipedia.org/wiki/1957_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1958-canadian-federal-election": {
+        "title": "1958 Canadian federal election",
+        "requested": "1958 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 794065,
+        "revid": 1366509068,
+        "url": "https://en.wikipedia.org/wiki/1958_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1962-canadian-federal-election": {
+        "title": "1962 Canadian federal election",
+        "requested": "1962 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 794115,
+        "revid": 1369630394,
+        "url": "https://en.wikipedia.org/wiki/1962_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1963-canadian-federal-election": {
+        "title": "1963 Canadian federal election",
+        "requested": "1963 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 794128,
+        "revid": 1375672112,
+        "url": "https://en.wikipedia.org/wiki/1963_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1965-canadian-federal-election": {
+        "title": "1965 Canadian federal election",
+        "requested": "1965 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 794151,
+        "revid": 1350750106,
+        "url": "https://en.wikipedia.org/wiki/1965_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1968-canadian-federal-election": {
+        "title": "1968 Canadian federal election",
+        "requested": "1968 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 465360,
+        "revid": 1368760885,
+        "url": "https://en.wikipedia.org/wiki/1968_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1972-canadian-federal-election": {
+        "title": "1972 Canadian federal election",
+        "requested": "1972 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 399279,
+        "revid": 1342578892,
+        "url": "https://en.wikipedia.org/wiki/1972_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1974-canadian-federal-election": {
+        "title": "1974 Canadian federal election",
+        "requested": "1974 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 626478,
+        "revid": 1342578986,
+        "url": "https://en.wikipedia.org/wiki/1974_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1979-canadian-federal-election": {
+        "title": "1979 Canadian federal election",
+        "requested": "1979 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 626306,
+        "revid": 1354347576,
+        "url": "https://en.wikipedia.org/wiki/1979_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1980-canadian-federal-election": {
+        "title": "1980 Canadian federal election",
+        "requested": "1980 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 581699,
+        "revid": 1359121884,
+        "url": "https://en.wikipedia.org/wiki/1980_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1984-canadian-federal-election": {
+        "title": "1984 Canadian federal election",
+        "requested": "1984 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 428505,
+        "revid": 1365895400,
+        "url": "https://en.wikipedia.org/wiki/1984_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1988-canadian-federal-election": {
+        "title": "1988 Canadian federal election",
+        "requested": "1988 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 370615,
+        "revid": 1380698622,
+        "url": "https://en.wikipedia.org/wiki/1988_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1993-canadian-federal-election": {
+        "title": "1993 Canadian federal election",
+        "requested": "1993 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 293340,
+        "revid": 1368760822,
+        "url": "https://en.wikipedia.org/wiki/1993_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "1997-canadian-federal-election": {
+        "title": "1997 Canadian federal election",
+        "requested": "1997 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 274508,
+        "revid": 1380442194,
+        "url": "https://en.wikipedia.org/wiki/1997_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "2000-canadian-federal-election": {
+        "title": "2000 Canadian federal election",
+        "requested": "2000 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 250982,
+        "revid": 1380301619,
+        "url": "https://en.wikipedia.org/wiki/2000_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "2004-canadian-federal-election": {
+        "title": "2004 Canadian federal election",
+        "requested": "2004 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 312153,
+        "revid": 1380301474,
+        "url": "https://en.wikipedia.org/wiki/2004_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "2006-canadian-federal-election": {
+        "title": "2006 Canadian federal election",
+        "requested": "2006 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 1145326,
+        "revid": 1384324708,
+        "url": "https://en.wikipedia.org/wiki/2006_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "2008-canadian-federal-election": {
+        "title": "2008 Canadian federal election",
+        "requested": "2008 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 3827068,
+        "revid": 1380365895,
+        "url": "https://en.wikipedia.org/wiki/2008_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "2011-canadian-federal-election": {
+        "title": "2011 Canadian federal election",
+        "requested": "2011 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 19769307,
+        "revid": 1385316832,
+        "url": "https://en.wikipedia.org/wiki/2011_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "2015-canadian-federal-election": {
+        "title": "2015 Canadian federal election",
+        "requested": "2015 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 31662519,
+        "revid": 1383804391,
+        "url": "https://en.wikipedia.org/wiki/2015_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "2019-canadian-federal-election": {
+        "title": "2019 Canadian federal election",
+        "requested": "2019 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 48456232,
+        "revid": 1380094580,
+        "url": "https://en.wikipedia.org/wiki/2019_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
+      "2021-canadian-federal-election": {
+        "title": "2021 Canadian federal election",
+        "requested": "2021 Canadian federal election",
+        "topic": "election-history",
+        "pageid": 62152827,
+        "revid": 1384414720,
+        "url": "https://en.wikipedia.org/wiki/2021_Canadian_federal_election",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
       "2025-canadian-federal-election": {
         "title": "2025 Canadian federal election",
         "requested": "2025 Canadian federal election",
@@ -602,6 +998,15 @@
         "url": "https://en.wikipedia.org/wiki/Lieutenant_governor_(Canada)",
         "fetched": "2026-11-13T03:54:21Z"
       },
+      "list-of-canadian-federal-elections": {
+        "title": "List of Canadian federal elections",
+        "requested": "List of Canadian federal elections",
+        "topic": "election-history",
+        "pageid": 467913,
+        "revid": 1374692646,
+        "url": "https://en.wikipedia.org/wiki/List_of_Canadian_federal_elections",
+        "fetched": "2026-11-13T05:07:15Z"
+      },
       "list-of-canadian-monarchs": {
         "title": "List of Canadian monarchs",
         "requested": "List of Canadian monarchs",
@@ -629,6 +1034,123 @@
         "url": "https://en.wikipedia.org/wiki/List_of_governors_general_of_Canada",
         "fetched": "2026-11-13T03:54:21Z"
       },
+      "list-of-premiers-of-alberta": {
+        "title": "List of premiers of Alberta",
+        "requested": "List of premiers of Alberta",
+        "topic": "premiers",
+        "pageid": 70615,
+        "revid": 1380851388,
+        "url": "https://en.wikipedia.org/wiki/List_of_premiers_of_Alberta",
+        "fetched": "2026-11-13T05:19:52Z"
+      },
+      "list-of-premiers-of-british-columbia": {
+        "title": "List of premiers of British Columbia",
+        "requested": "List of premiers of British Columbia",
+        "topic": "premiers",
+        "pageid": 70453,
+        "revid": 1383202674,
+        "url": "https://en.wikipedia.org/wiki/List_of_premiers_of_British_Columbia",
+        "fetched": "2026-11-13T05:19:52Z"
+      },
+      "list-of-premiers-of-manitoba": {
+        "title": "List of premiers of Manitoba",
+        "requested": "List of premiers of Manitoba",
+        "topic": "premiers",
+        "pageid": 170944,
+        "revid": 1380915374,
+        "url": "https://en.wikipedia.org/wiki/List_of_premiers_of_Manitoba",
+        "fetched": "2026-11-13T05:19:52Z"
+      },
+      "list-of-premiers-of-new-brunswick": {
+        "title": "List of premiers of New Brunswick",
+        "requested": "List of premiers of New Brunswick",
+        "topic": "premiers",
+        "pageid": 77404,
+        "revid": 1353259893,
+        "url": "https://en.wikipedia.org/wiki/List_of_premiers_of_New_Brunswick",
+        "fetched": "2026-11-13T05:19:52Z"
+      },
+      "list-of-premiers-of-newfoundland-and-labrador": {
+        "title": "List of premiers of Newfoundland and Labrador",
+        "requested": "List of premiers of Newfoundland and Labrador",
+        "topic": "premiers",
+        "pageid": 170949,
+        "revid": 1381883922,
+        "url": "https://en.wikipedia.org/wiki/List_of_premiers_of_Newfoundland_and_Labrador",
+        "fetched": "2026-11-13T05:19:52Z"
+      },
+      "list-of-premiers-of-nova-scotia": {
+        "title": "List of premiers of Nova Scotia",
+        "requested": "List of premiers of Nova Scotia",
+        "topic": "premiers",
+        "pageid": 170831,
+        "revid": 1380128841,
+        "url": "https://en.wikipedia.org/wiki/List_of_premiers_of_Nova_Scotia",
+        "fetched": "2026-11-13T05:19:52Z"
+      },
+      "list-of-premiers-of-nunavut": {
+        "title": "List of premiers of Nunavut",
+        "requested": "List of premiers of Nunavut",
+        "topic": "premiers",
+        "pageid": 20251276,
+        "revid": 1366625625,
+        "url": "https://en.wikipedia.org/wiki/List_of_premiers_of_Nunavut",
+        "fetched": "2026-11-13T05:19:52Z"
+      },
+      "list-of-premiers-of-ontario": {
+        "title": "List of premiers of Ontario",
+        "requested": "List of premiers of Ontario",
+        "topic": "premiers",
+        "pageid": 149545,
+        "revid": 1381559849,
+        "url": "https://en.wikipedia.org/wiki/List_of_premiers_of_Ontario",
+        "fetched": "2026-11-13T05:19:52Z"
+      },
+      "list-of-premiers-of-prince-edward-island": {
+        "title": "List of premiers of Prince Edward Island",
+        "requested": "List of premiers of Prince Edward Island",
+        "topic": "premiers",
+        "pageid": 77408,
+        "revid": 1381584343,
+        "url": "https://en.wikipedia.org/wiki/List_of_premiers_of_Prince_Edward_Island",
+        "fetched": "2026-11-13T05:19:52Z"
+      },
+      "list-of-premiers-of-quebec": {
+        "title": "List of premiers of Quebec",
+        "requested": "List of premiers of Quebec",
+        "topic": "premiers",
+        "pageid": 72096,
+        "revid": 1381403434,
+        "url": "https://en.wikipedia.org/wiki/List_of_premiers_of_Quebec",
+        "fetched": "2026-11-13T05:19:52Z"
+      },
+      "list-of-premiers-of-saskatchewan": {
+        "title": "List of premiers of Saskatchewan",
+        "requested": "List of premiers of Saskatchewan",
+        "topic": "premiers",
+        "pageid": 170952,
+        "revid": 1380141270,
+        "url": "https://en.wikipedia.org/wiki/List_of_premiers_of_Saskatchewan",
+        "fetched": "2026-11-13T05:19:52Z"
+      },
+      "list-of-premiers-of-the-northwest-territories": {
+        "title": "List of premiers of the Northwest Territories",
+        "requested": "List of premiers of the Northwest Territories",
+        "topic": "premiers",
+        "pageid": 72539,
+        "revid": 1342932881,
+        "url": "https://en.wikipedia.org/wiki/List_of_premiers_of_the_Northwest_Territories",
+        "fetched": "2026-11-13T05:19:52Z"
+      },
+      "list-of-premiers-of-yukon": {
+        "title": "List of premiers of Yukon",
+        "requested": "List of premiers of Yukon",
+        "topic": "premiers",
+        "pageid": 174789,
+        "revid": 1331374455,
+        "url": "https://en.wikipedia.org/wiki/List_of_premiers_of_Yukon",
+        "fetched": "2026-11-13T05:19:52Z"
+      },
       "list-of-prime-ministers-of-canada": {
         "title": "List of prime ministers of Canada",
         "requested": "List of prime ministers of Canada",
@@ -637,6 +1159,15 @@
         "revid": 1381462436,
         "url": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_Canada",
         "fetched": "2026-11-13T03:54:21Z"
+      },
+      "list-of-women-elected-to-canadian-parliament": {
+        "title": "List of women elected to Canadian Parliament",
+        "requested": "List of women elected to Canadian Parliament",
+        "topic": "election-history",
+        "pageid": 62062829,
+        "revid": 1383773807,
+        "url": "https://en.wikipedia.org/wiki/List_of_women_elected_to_Canadian_Parliament",
+        "fetched": "2026-11-13T05:07:15Z"
       },
       "local-government-in-canada": {
         "title": "Local government in Canada",
