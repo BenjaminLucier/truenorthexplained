@@ -8,7 +8,7 @@
  * pass over the rendered pages). The ranking itself is the pure rankRelated()
  * in src/lib/related.ts.
  */
-import { allEntities, getEntity, type Entity } from "./entities";
+import { allEntities, getEntity, hasEntity, type Entity } from "./entities";
 import { rankRelated, type RelatedResult } from "./related";
 import { allPages, moduleFor, sequenceFor, type Page } from "./site";
 
@@ -21,11 +21,19 @@ interface SemanticIndex {
   about: Map<string, string[]>;
   /** Page id → `about` plus the entities whose home is on that page (used for ranking). */
   aboutOrHome: Map<string, string[]>;
-  /** Page id → entity ids it links to, in first-seen order. */
+  /** Page id → entity ids it links to (`data-entity`, plus plain `/glossary#slug` links as terms). */
   links: Map<string, string[]>;
 }
 
 const ENTITY_ATTR = /\bdata-entity="([^"]+)"/g;
+/** A plain glossary link (`[riding](/glossary#riding)`) counts as a link to `term:riding`. */
+const GLOSSARY_HREF = /\bhref="\/glossary\/?#([^"]+)"/g;
+
+/** Entity ids an HTML fragment links to, in first-seen order: `data-entity` links, then plain `/glossary#slug` links. */
+export function linkedEntityIds(html: string): string[] {
+  const terms = [...html.matchAll(GLOSSARY_HREF)].map((m) => `term:${decodeURIComponent(m[1]!)}`).filter((id) => hasEntity(id));
+  return [...new Set([...[...html.matchAll(ENTITY_ATTR)].map((m) => m[1]!), ...terms])];
+}
 
 /** The page id an entity's home is on ("/learn/crown#oaths" → "learn/crown"), if it's a content page. */
 export function homePageId(entity: Entity): string {
@@ -43,7 +51,7 @@ async function buildIndex(): Promise<SemanticIndex> {
     about.set(page.id, page.data.about ?? []);
     aboutOrHome.set(page.id, [...(page.data.about ?? [])]);
     const html = page.rendered?.html ?? "";
-    links.set(page.id, [...new Set([...html.matchAll(ENTITY_ATTR)].map((m) => m[1]!))]);
+    links.set(page.id, linkedEntityIds(html));
     // A placeholder the facts plugin couldn't see (split across nodes, say) would
     // otherwise reach readers as "{{…}}". Code is allowed to show the syntax.
     const leftover = html.replace(/<code\b[\s\S]*?<\/code>/g, "").match(/\{\{[^{}\n]*\}\}/);
@@ -72,7 +80,8 @@ export async function pagesAbout(id: string): Promise<Page[]> {
 }
 
 /**
- * What refers to an entity: pages that link to it (`data-entity`), and other
+ * What refers to an entity: pages that link to it (`data-entity`, or a plain
+ * `/glossary#slug` link for a term), and other
  * entities that list it in `people`, `entities` or `sections`.
  */
 export async function mentions(id: string): Promise<{ pages: Page[]; entities: Entity[] }> {

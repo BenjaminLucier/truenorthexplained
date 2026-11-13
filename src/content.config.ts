@@ -1,16 +1,19 @@
 import { defineCollection } from "astro:content";
 import { glob, type Loader } from "astro/loaders";
 import { z } from "astro/zod";
+import { readdirSync } from "node:fs";
 import { readdir, readFile } from "node:fs/promises";
 import { parse } from "yaml";
 import * as lucide from "lucide-static";
 import { sitePathFromEntry } from "./lib/paths";
-import { getEntity } from "./lib/entities";
+import { getEntity, hasEntity } from "./lib/entities";
+import { slugFromFile } from "./lib/glossary-terms";
 
 const pages = defineCollection({
   loader: glob({
     base: "./content",
-    pattern: ["**/*.en.md"],
+    // Glossary terms are their own collection (below), not pages.
+    pattern: ["**/*.en.md", "!glossary/**"],
     generateId: ({ entry }) => sitePathFromEntry(entry),
   }),
   schema: z.object({
@@ -113,4 +116,45 @@ const quizzes = defineCollection({
   }),
 });
 
-export const collections = { pages, quizzes };
+/** Site paths of the content pages and generated routes ("learn/crown"), for checking glossary `see` lists. */
+let sitePaths: Set<string> | undefined;
+function sitePathSet(): Set<string> {
+  if (sitePaths) return sitePaths;
+  const dir = new URL("../content/", import.meta.url);
+  const files = (readdirSync(dir, { recursive: true }) as string[]).filter((f) => f.endsWith(".en.md") && !f.startsWith("glossary/"));
+  // The routes src/pages generates without a content file (as in scripts/validate.ts).
+  sitePaths = new Set(["", "learn", "tour", "quizzes", "design", ...files.map(sitePathFromEntry).filter((p) => p !== "home")]);
+  return sitePaths;
+}
+
+const sitePath = z
+  .string()
+  .regex(/^\/\S*$/, 'a site path like "/learn/crown"')
+  .refine((page) => sitePathSet().has(page.replace(/#.*$/, "").replace(/^\/|\/$/g, "")), { message: "No page at this path" })
+  .refine((page) => !page.startsWith("/glossary#") || hasEntity(`term:${page.slice("/glossary#".length)}`), { message: "No glossary term with this anchor" });
+
+// One file per glossary term: content/glossary/<slug>.en.md (ARCHITECTURE.md, "Glossary").
+// src/lib/glossary-terms.ts parses the same files for the entity registry and `pnpm validate`.
+const glossary = defineCollection({
+  loader: glob({
+    base: "./content/glossary",
+    pattern: ["*.en.md"],
+    generateId: ({ entry }) => slugFromFile(entry),
+  }),
+  schema: z
+    .object({
+      term: z.string().min(1),
+      aliases: z.array(z.string().min(1)).optional(),
+      // A pure cross-reference: the slug of the term it points to.
+      alias_of: z
+        .string()
+        .refine((slug) => hasEntity(`term:${slug}`), { message: "No glossary term with this slug" })
+        .optional(),
+      // The pages that explain the term, in order: a site path, or { page, label } when the
+      // link text isn't the page's title.
+      see: z.array(z.union([sitePath, z.object({ page: sitePath, label: z.string().min(1) }).strict()])).optional(),
+    })
+    .strict(),
+});
+
+export const collections = { pages, quizzes, glossary };

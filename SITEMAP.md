@@ -129,7 +129,8 @@ content/
 │   ├── alberta.en.md
 │   └── …
 ├── timeline.en.md
-├── glossary.en.md
+├── glossary.en.md                  Intro; the A–Z list comes from glossary/
+├── glossary/                       One file per term: <slug>.en.md (not pages)
 ├── myths.en.md
 ├── sources.en.md
 ├── about.en.md

@@ -83,6 +83,31 @@ section headings.
 - **Glossary links** (`[riding](term:riding)`, or the older `[riding](/glossary#riding)`)
   show the term's definition in a popover on hover or focus, taken from the glossary
   entry. Link a term's first use on a page when a reader might not know it.
+- **Glossary terms** are one file each: `content/glossary/<slug>.en.md`. The slug
+  (the file name) is the term's anchor (`/glossary#<slug>`) and its id (`term:<slug>`),
+  so never rename a file. Write one plain paragraph that defines the term without
+  needing the page; the first sentence doubles as its short summary. List the pages
+  that explain it under `see`, best first:
+
+  ```markdown
+  ---
+  term: Riding
+  see:
+    - /learn/elections
+    - /learn/elections/election-day
+  ---
+
+  An electoral district that elects one member. Provinces also use names such as
+  electoral division or **constituency**.
+  ```
+
+  A `see` item is a site path (anchors allowed), or `{ page, label }` when the link
+  text shouldn't be the page's title. Entity links and `{{facts}}` work in the
+  definition. For another name of an existing term, add a file with only `term` and
+  `alias_of: <slug>` (no body): it's listed as "See …" and its popover shows the
+  target's definition. The glossary page adds "Explained in" (`see`, then pages with
+  the term in `about:`) and "Mentioned in" (pages that link to it) by itself.
+  `pnpm validate` checks the fields, the pages and the alias.
 - **Entity links** point at a thing rather than a page: a term, person, institution,
   document or section, case or event. Write the entity id as the link target, and
   leave the text empty to use the entity's name:

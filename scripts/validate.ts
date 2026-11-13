@@ -2,7 +2,8 @@
  * Content checks that the Astro build doesn't cover on its own:
  * internal links, quiz page references, pages without questions, the
  * semantic layer (entity links `[…](type:slug)`, `about:` ids, the entity YAML
- * and its page targets, `{{fact}}` keys) and the review markers
+ * and its page targets, `{{fact}}` keys), the glossary term files
+ * (content/glossary/*.en.md: fields, `see` pages, `alias_of`) and the review markers
  * (`<!-- check -->`, `<!-- unverified link -->`, and `# check:` in YAML).
  *
  *   pnpm validate          check everything
@@ -18,6 +19,7 @@ import { parse } from "yaml";
 import { sitePathFromEntry } from "../src/lib/paths.ts";
 import { ENTITY_LINK_RE, allEntities, checkEntityPages, entityNotes, getEntity } from "../src/lib/entities.ts";
 import { FACT_LIKE_RE, FACT_RE, allFacts, getFact } from "../src/lib/facts.ts";
+import { checkTerms, readTermFiles } from "../src/lib/glossary-terms.ts";
 
 const ROOT = resolve(import.meta.dirname, "..");
 const CONTENT = resolve(ROOT, "content");
@@ -31,7 +33,8 @@ const warnings: string[] = [];
 const rel = (p: string) => relative(ROOT, p);
 
 const pageFiles: string[] = [];
-for await (const f of glob("**/*.en.md", { cwd: CONTENT })) pageFiles.push(f);
+// Glossary terms (content/glossary/) are not pages; they're checked below.
+for await (const f of glob("**/*.en.md", { cwd: CONTENT, exclude: ["glossary/**"] })) pageFiles.push(f);
 pageFiles.sort();
 const pages = new Map(pageFiles.map((f) => [sitePathFromEntry(f), resolve(CONTENT, f)]));
 const validPaths = new Set([...pages.keys(), ...GENERATED]);
@@ -68,6 +71,11 @@ const checkEntity = (where: string, id: string) => {
 const blank = (s: string) => s.replace(/[^\n]/g, " ");
 const withoutCode = (text: string) =>
   text.replace(/^(```|~~~)(?!mermaid)[^\n]*\n[\s\S]*?^\1[^\n]*$/gm, blank).replace(/`[^`\n]*`/g, blank);
+// Glossary term files: fields, duplicate slugs, `alias_of` targets and `see` pages.
+// (The registry reports the same problems, without the page check, when it loads.)
+const glossary = readTermFiles();
+if (entitiesOk) errors.push(...glossary.problems, ...checkTerms(glossary.terms, validPaths));
+const glossaryFiles = glossary.terms.map((t) => resolve(ROOT, t.source));
 let entityLinks = 0;
 let aboutIds = 0;
 const factsUsed = new Map<string, number>();
@@ -75,10 +83,13 @@ const factsUsed = new Map<string, number>();
 // Internal links, entity links, `about:` and facts
 const linkRe = /\]\((\/[^)\s#]*)(?:#[^)]*)?\)/g;
 const statuses: Record<string, number> = {};
-for (const [, file] of pages) {
+// Pages, then glossary term files (their definitions can hold links, entity links and facts).
+for (const file of [...pages.values(), ...glossaryFiles]) {
   const text = await readFile(file, "utf8");
-  const status = text.match(/^status:\s*(\w+)/m)?.[1] ?? "missing";
-  statuses[status] = (statuses[status] ?? 0) + 1;
+  if (!glossaryFiles.includes(file)) {
+    const status = text.match(/^status:\s*(\w+)/m)?.[1] ?? "missing";
+    statuses[status] = (statuses[status] ?? 0) + 1;
+  }
   for (const m of text.matchAll(linkRe)) {
     const target = m[1]!.replace(/^\/|\/$/g, "");
     if (!validPaths.has(target)) errors.push(`${rel(file)}: broken internal link /${target}`);
@@ -191,6 +202,7 @@ if (process.argv.includes("--review")) {
 }
 
 console.log(`Pages: ${pages.size}  status: ${JSON.stringify(statuses)}`);
+console.log(`Glossary terms: ${glossary.terms.length} (${glossary.terms.filter((t) => t.aliasOf).length} aliases)`);
 console.log(`Quiz questions: ${seen.size}`);
 console.log(`Review markers: ${checks} check comments, ${unverified} unverified links`);
 const typeCounts = Object.entries(entityCount).map(([t, n]) => `${t} ${n}`).join(", ");

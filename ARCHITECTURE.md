@@ -25,6 +25,7 @@ For setup and scripts, see [README.md](README.md). For how content is written, s
 ```
 content/                 Markdown pages and the quiz bank (source of truth for prose)
   entities/              Entity registry YAML (institutions, documents, cases, events, people overrides)
+  glossary/              One file per glossary term (<slug>.en.md); not pages, see "Glossary"
   facts.yaml             Facts that can't be derived from src/data
 grounding/               Raw reference material fetched from Wikipedia/Wikidata (not published)
 scripts/                 Node/TypeScript scripts, run with tsx
@@ -176,7 +177,7 @@ and every old URL keeps working.
 | Document, section | `doc:charter`, `doc:charter/s33` | `content/entities/documents.yaml`; sections nest under their document | `page` (required); a section defaults to its document's page and `url` |
 | Case | `case:r-v-oakes` | `content/entities/cases.yaml` | `/learn/charter/landmark-cases#<slug>` |
 | Event | `event:king-byng-affair` | `content/entities/events.yaml`, which also lists the timeline's `eras` | `/timeline#<slug>` |
-| Term or concept | `term:reserve-powers` | The glossary (today: the `### Term {#slug}` headings of `content/glossary.en.md`, read by `glossaryTermSources()`; later one file per term, see below) | `/glossary#<slug>` |
+| Term or concept | `term:reserve-powers` | `content/glossary/<slug>.en.md`, one file per term, read by `glossaryTermSources()` (see "Glossary" below) | `/glossary#<slug>` |
 
 An explicit `page` always replaces the default home. Each YAML file starts with a
 comment listing its fields; `src/lib/entities.ts` has the matching types. Fields every
@@ -262,21 +263,63 @@ from every page's `about` and the `data-entity` links in its rendered HTML:
   hub pages (home, glossary, timeline, sources, myths, credits, about), the module's
   main page and the neighbours in the reading order; hub pages get no suggestions.
 
+A plain link to `/glossary#slug` counts as a link to `term:slug` (`linkedEntityIds()`),
+so it shows up in `mentions()` and related pages just like `[…](term:slug)`.
+
 ContentLayout shows "Related pages" under the quiz, above previous/next, and nothing
-when there are none. Planned: each glossary term shows "Explained in" (its `see`
-list plus pages about it) and "Mentioned in"; timeline events link to their `pages`
-and to the list pages of their `people`.
+when there are none. Each glossary term shows "Explained in" and "Mentioned in" (see
+below). Planned: timeline events link to their `pages` and to the list pages of their
+`people`.
 
 ### Glossary
 
-Planned. One markdown file per term: `content/glossary/<slug>.en.md`, front matter
-`{ term, aliases?, alias_of?, see?: [page ids or entity ids] }`, body = the definition
-(normal markdown, so entity links and facts work inside definitions). They load as
-the `glossary` collection and are excluded from the `pages` collection and from page
-counts. `content/glossary.en.md` keeps the page's front matter and intro; the
-`glossary` widget renders the A–Z list from the collection with the same `#slug`
-anchors, so `/glossary#slug` links and popovers are unchanged. Switching `term:`
-entities over means changing `glossaryTermSources()` in `src/lib/entities.ts`.
+One markdown file per term: `content/glossary/<slug>.en.md`. The file name is the
+slug, the anchor (`/glossary#<slug>`) and the entity id (`term:<slug>`).
+
+```md
+---
+term: Royal assent          # as displayed (required); quotes are made typographic on display
+aliases: [assent]           # optional, other names (the filter box matches them)
+see:                        # optional, the pages that explain it, best first
+  - /learn/parliament/how-a-bill-becomes-law
+  - page: /glossary#consensus-government    # { page, label } when the link text
+    label: Consensus government             # isn't the page's title
+---
+
+The definition: one paragraph of normal markdown (entity links and {{facts}} work).
+```
+
+A pure cross-reference has `term` and `alias_of: <slug>` and nothing else (no body, no
+`see`): it's listed as "See <target>" and its popover shows the target's definition.
+An alias can't point at another alias.
+
+- **Parsing and checks:** `src/lib/glossary-terms.ts` (plain Node) reads and checks the
+  files: `readTermFiles()`, `parseTermFile()`, `checkTerms()` (duplicate slugs,
+  `alias_of` targets, and with the site's paths, `see` pages and `/glossary#` anchors),
+  plus `firstSentence()`, `letterOf()`, `compareTerms()` and `displayTerm()`. The
+  entity registry's `glossaryTermSources()` uses it: each file is a `term:` entity
+  whose `summary` is the definition's first sentence (an alias takes its target's).
+  `pnpm validate` runs `checkTerms()` with the page list and scans the definitions for
+  internal links, entity links, facts and review markers like any page.
+- **Collection:** the files load as the `glossary` collection (`src/content.config.ts`,
+  id = slug, strict schema; `alias_of` and `see` targets are checked there too). The
+  `pages` collection, `pnpm validate`'s page count and the page routes leave
+  `glossary/**` out.
+- **The page:** `content/glossary.en.md` holds the front matter, a short intro and
+  `<tn-widget name="glossary">`. The widget (`src/widgets/glossary/`) renders the
+  A–Z list from the collection, sorted by `compareTerms()` (case-insensitive, numbers by
+  value) under `<h2 id="a">` letter headings, each term an `<h3 id="<slug>">` followed by
+  its rendered definition. Under each definition, in small muted text: **Explained in**
+  (its `see` pages, then pages whose `about:` lists it, deduplicated) and **Mentioned
+  in** (`mentions()` minus those and the glossary). It sits inside the page's prose
+  (unlike other widgets, so headings and definitions keep the article styles); its own
+  parts are `not-prose` and `data-pagefind-ignore`, so search indexes the terms and
+  definitions only. An A–Z jump list and a filter box (term and aliases; hidden when
+  scripting is off) sit on top. Its styles are global but scoped under `.gl`, because
+  Astro's scoped styles would add an attribute to some 3,000 elements.
+- **Popovers:** `glossaryTerms()` in `src/lib/glossary.ts` builds each term's popover
+  from the entry's rendered HTML with links flattened, so a definition renders the same
+  on /glossary and in popovers.
 
 ### Facts registry
 
@@ -334,7 +377,8 @@ pnpm test:e2e   # build, then browser tests (Playwright)
 - **Unit tests** (`tests/unit/*.test.ts`, Vitest) cover the pure logic: widget
   placeholders, ids and paths, chart scales and formatting, money and reference
   helpers, election calculations and data consistency, the hemicycle layout, timeline
-  parsing, and the theme tokens (every light token has a dark value, repeated in the
+  parsing, glossary term files (parsing, checks, sort order; every real file parses),
+  and the theme tokens (every light token has a dark value, repeated in the
   no-JavaScript fallback). Import from `src/` directly; JSON imports work. A new
   `tests/unit/<name>.test.ts` is picked up automatically. Expected values come from
   what a function is documented to do, not from what it happens to return.
@@ -349,6 +393,10 @@ pnpm test:e2e   # build, then browser tests (Playwright)
   - `interactions.spec.ts` drives the interactive parts: the theme and width toggles,
     the module menu and rail, search, the ridings explorer, the power sorter, a chart
     tooltip by keyboard and a quiz answer.
+  - `glossary.spec.ts` covers the glossary: a popover by hover (entity link) and by
+    keyboard focus (plain `/glossary#` link), an `h3` anchor on /glossary for every
+    term file, "Explained in"/"Mentioned in", the filter box, and search finding a word
+    only the glossary uses.
   - `pnpm test:e2e` builds first. Against an existing build, run
     `pnpm exec playwright test` (add a file or `-g "<title>"` to narrow it, or
     `--shard=1/4` to split it across machines). With `CI` set, an existing server on
