@@ -46,6 +46,12 @@ pnpm dev                                 # http://localhost:4321
 | `pnpm data:population` | Re-download 2021 Census population by province (used by the amending-formula widget) |
 | `pnpm grounding` | Re-download the Wikipedia/Wikidata grounding corpus, flags and Statistics Canada demographics. See [grounding/README.md](grounding/README.md) |
 
+`pnpm data:geo` uses Statistics Canada's official province boundary shapefile when it's
+in `data/lpr_000b21a_e/` (download `lpr_000b21a_e.zip` from the
+[2021 boundary files page](https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21)
+and unzip it there; the site blocks scripts, so it has to be fetched by hand). Without
+it, the script falls back to Statistics Canada's map service. `data/` is not committed.
+
 All downloaded data is committed. Re-running a data script and reading the `git diff` is
 how the site stays current: the diff shows exactly what changed upstream.
 

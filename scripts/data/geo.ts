@@ -8,8 +8,10 @@
  * Sources (all Open Government Licence – Canada):
  *
  * - Provinces: Statistics Canada's 2021 Census cartographic boundary file
- *   (lpr_000b21a, shoreline-clipped), read from Statistics Canada's own ArcGIS
- *   REST service for that file. The zip downloads on www12.statcan.gc.ca sit
+ *   (lpr_000b21a, shoreline-clipped). If the shapefile has been downloaded by
+ *   hand into data/lpr_000b21a_e/ (or GEO_PROVINCES points at a .shp), that
+ *   official file is used. Otherwise it's read from Statistics Canada's own
+ *   ArcGIS REST service for the same file. The zip downloads on www12.statcan.gc.ca sit
  *   behind a Cloudflare browser challenge that blocks scripts, while the REST
  *   service (listed on open.canada.ca as a distribution of the same dataset)
  *   doesn't. Each province is requested on its own with a 50 m server-side
@@ -54,6 +56,8 @@ const PROVINCES: Record<string, string> = {
   "62": "nunavut",
 };
 
+const PR_ZIP = "https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/files-fichiers/lpr_000b21a_e.zip";
+const PR_LOCAL = resolve(ROOT, process.env.GEO_PROVINCES ?? "data/lpr_000b21a_e/lpr_000b21a_e.shp");
 const PR_SERVICE = "https://geo.statcan.gc.ca/geo_wa/rest/services/2021/Cartographic_boundary_files/MapServer/0";
 const PR_DATASET = "https://open.canada.ca/data/en/dataset/ef70dc3b-1069-4037-9bce-61f47e628a1d";
 const FED_ZIP = "https://www.elections.ca/res/cir/mapsCorner/edb/FederalElectoralDistricts_SHP.zip";
@@ -89,7 +93,12 @@ try {
   console.log("Provinces: Statistics Canada 2021 cartographic boundary file");
   const prRaw = join(tmp, "provinces-3347.json");
   const features: unknown[] = [];
-  if (!(await cached(prRaw))) for (const pruid of Object.keys(PROVINCES)) {
+  const local = (await stat(PR_LOCAL).catch(() => null)) !== null;
+  if (local) {
+    // The official shapefile, generalized to 50 m like the REST service's output.
+    console.log(`  from ${PR_LOCAL}`);
+    await ms(`-i "${PR_LOCAL}" -simplify interval=50 keep-shapes -o "${prRaw}" format=geojson`);
+  } else if (!(await cached(prRaw))) for (const pruid of Object.keys(PROVINCES)) {
     const q = new URLSearchParams({
       where: `PRUID='${pruid}'`,
       outFields: "PRUID,DGUID,PRENAME,PRFNAME",
@@ -131,13 +140,16 @@ try {
   if (prEmpty.length) throw new Error(`Lost the geometry of ${prEmpty.map((g) => g.id).join(", ")}`);
   await writeJson(join(OUT, "provinces.topo.meta.json"), {
     source: "Statistics Canada, 2021 Census Provinces/territories Cartographic Boundary File (lpr_000b21a)",
-    url: PR_SERVICE,
+    url: local ? PR_ZIP : PR_SERVICE,
     dataset: PR_DATASET,
     licence: LICENCE,
     licenceUrl: LICENCE_URL,
     fetched: today,
     notes:
-      "Shoreline-clipped cartographic file. Read per province from Statistics Canada's ArcGIS REST service with a 50 m generalization, reprojected from Statistics Canada Lambert (EPSG:3347) to WGS84, islands and lakes under 150 km² dropped, simplified with mapshaper (weighted Visvalingam, 3.9 km interval, keep-shapes), quantized to 1e4.",
+      (local
+        ? "Shoreline-clipped cartographic file, from the official shapefile download (lpr_000b21a_e.zip), generalized to 50 m,"
+        : "Shoreline-clipped cartographic file. Read per province from Statistics Canada's ArcGIS REST service with a 50 m generalization,") +
+      " reprojected from Statistics Canada Lambert (EPSG:3347) to WGS84, islands and lakes under 150 km² dropped, simplified with mapshaper (weighted Visvalingam, 3.9 km interval, keep-shapes), quantized to 1e4.",
     object: "provinces",
     properties: { id: "PRUID", uid: "DGUID", name_en: "English name", name_fr: "French name", slug: "page slug" },
   });

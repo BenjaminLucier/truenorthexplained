@@ -8,3 +8,6 @@ dist/
 
 # Agent worktrees
 .claude/worktrees/
+
+# Large source downloads (e.g. Statistics Canada shapefiles), read by pnpm data:* scripts
+/data/
