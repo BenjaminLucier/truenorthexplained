@@ -29,6 +29,7 @@ export const en = {
   page: {
     tryIt: "Try it",
     inThisModule: "In this module",
+    fullWidth: "Full width",
     moduleOverview: "Overview",
     previous: "Previous",
     next: "Next",

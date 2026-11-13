@@ -1,0 +1,87 @@
+---
+/**
+ * Swaps a content page between reading width (the default) and full width.
+ *
+ * Everything in a `.tn-col` (breadcrumbs, header, the article with its charts,
+ * the quiz, next/previous) follows `data-width` on <html>. The choice is saved
+ * in localStorage so it holds from page to page. The inline script sits before
+ * the article, so a saved "full" applies before the content is drawn.
+ * Hidden on narrow screens, where both widths are the same.
+ */
+import Icon from "./Icon.astro";
+import { t } from "../i18n/en";
+---
+
+<script is:inline>
+  (() => {
+    try {
+      if (localStorage.getItem("tne-width") === "full") document.documentElement.dataset.width = "full";
+    } catch {
+      /* storage unavailable: reading width */
+    }
+  })();
+</script>
+
+<button
+  type="button"
+  data-width-toggle
+  aria-pressed="false"
+  aria-label={t.page.fullWidth}
+  title={t.page.fullWidth}
+  class="hidden size-8 items-center justify-center rounded-full border border-subtle bg-surface text-secondary transition-colors hover:border-accent hover:text-accent lg:inline-flex"
+>
+  <Icon name="MoveHorizontal" class="width-icon-wide size-4" />
+  <Icon name="FoldHorizontal" class="width-icon-narrow size-4" />
+</button>
+
+<script>
+  const root = document.documentElement;
+  const sync = () => {
+    const full = root.dataset.width === "full";
+    for (const b of document.querySelectorAll<HTMLButtonElement>("[data-width-toggle]")) b.setAttribute("aria-pressed", String(full));
+  };
+  for (const b of document.querySelectorAll<HTMLButtonElement>("[data-width-toggle]")) {
+    b.addEventListener("click", () => {
+      const full = root.dataset.width !== "full";
+      if (full) root.dataset.width = "full";
+      else delete root.dataset.width;
+      try {
+        if (full) localStorage.setItem("tne-width", "full");
+        else localStorage.removeItem("tne-width");
+      } catch {
+        /* storage unavailable: the choice lasts for this page only */
+      }
+      sync();
+    });
+  }
+  addEventListener("storage", (e) => {
+    if (e.key !== "tne-width") return;
+    if (e.newValue === "full") root.dataset.width = "full";
+    else delete root.dataset.width;
+    sync();
+  });
+  sync();
+</script>
+
+<style is:global>
+  .tn-col {
+    max-width: 48rem;
+    margin-inline: auto;
+    transition: max-width 0.25s ease;
+  }
+  html[data-width="full"] .tn-col {
+    max-width: 72rem;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .tn-col {
+      transition: none;
+    }
+  }
+  .width-icon-narrow,
+  html[data-width="full"] .width-icon-wide {
+    display: none;
+  }
+  html[data-width="full"] .width-icon-narrow {
+    display: block;
+  }
+</style>
