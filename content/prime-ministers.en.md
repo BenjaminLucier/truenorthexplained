@@ -24,6 +24,8 @@ Prime Ministers.
 
 <tn-widget name="prime-ministers" data-part="timeline"></tn-widget>
 
+<tn-widget name="prime-ministers" data-part="gallery"></tn-widget>
+
 ### How parties are coloured
 
 Canada's party system has always had a Liberal side and a Conservative side, but the

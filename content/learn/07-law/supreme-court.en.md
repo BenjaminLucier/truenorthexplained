@@ -45,6 +45,8 @@ The *Supreme Court Act* sets the Court's makeup:
   trained in Quebec's civil law. See [Common law and civil law](/learn/law/common-law-and-civil-law).
 - **Retirement:** judges must retire at 75 (s. 9(2)).
 
+<tn-widget name="supreme-court-bench"></tn-widget>
+
 By custom, not law, the other six seats are usually shared out regionally: three from
 Ontario, two from the western provinces or the North, and one from Atlantic Canada.
 <!-- check: confirm this is described as a convention/custom by an official source -->

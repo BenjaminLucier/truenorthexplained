@@ -1,0 +1,47 @@
+/*
+ * Portrait frames, shared by src/components/Portrait.astro and the ridings
+ * explorer (which builds its portraits on the client). Size the frame with
+ * `--portrait-size` (defaults to 3rem).
+ *
+ *   <span class="tn-portrait" style="--portrait-size:48px"><img …></span>
+ *   <span class="tn-portrait tn-portrait--soft" role="img" aria-label="Name">{SILHOUETTE_SVG}</span>
+ *
+ * Frames are round by default; `tn-portrait--soft` gives a soft square.
+ */
+@reference "./global.css";
+
+.tn-portrait {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  inline-size: var(--portrait-size, 3rem);
+  block-size: var(--portrait-size, 3rem);
+  overflow: hidden;
+  border-radius: 9999px;
+  background: var(--tn-surface-sunken);
+  vertical-align: middle;
+}
+/* A hairline inside the frame keeps pale photos and the empty portrait from melting into the page. */
+.tn-portrait::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--tn-text-primary) 12%, transparent);
+  pointer-events: none;
+}
+.tn-portrait--soft {
+  border-radius: 22%;
+}
+.tn-portrait > img {
+  display: block;
+  inline-size: 100%;
+  block-size: 100%;
+  object-fit: cover;
+}
+.tn-portrait > .portrait-silhouette {
+  display: block;
+  inline-size: 100%;
+  block-size: 100%;
+  fill: var(--tn-border-strong);
+}

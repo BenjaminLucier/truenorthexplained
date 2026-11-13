@@ -6,12 +6,21 @@
  *   <tn-widget name="credits" data-part="datasets"></tn-widget>
  *   <tn-widget name="credits" data-part="flags"></tn-widget>
  */
+import Portrait from "../../components/Portrait.astro";
 import { datasets, flags, formatDate } from "../../lib/reference";
+import { portraits, portraitsMeta } from "../../lib/portraits";
 
 interface Props {
-  part: "datasets" | "flags";
+  part: "datasets" | "flags" | "portraits";
 }
 const { part } = Astro.props;
+
+const portraitRows = Object.entries(portraits)
+  .map(([qid, p]) => ({ qid, ...p }))
+  .sort((a, b) => a.name.localeCompare(b.name, "en-CA"));
+const licenceCounts = [...portraitRows.reduce((m, p) => m.set(p.licence, (m.get(p.licence) ?? 0) + 1), new Map<string, number>())].sort(
+  (a, b) => b[1] - a[1],
+);
 
 const link = "underline decoration-accent/40 underline-offset-3 hover:text-accent hover:decoration-accent";
 const licenceLinks: Record<string, string> = {
@@ -112,5 +121,68 @@ const rows = datasets.filter((d) => d.id !== "flags");
         </li>
       ))}
     </ul>
+  )
+}
+
+{
+  part === "portraits" && (
+    <div class="not-prose my-8 min-w-0">
+      <p class="text-sm text-secondary">
+        {portraitRows.length} photographs, fetched {formatDate(portraitsMeta.fetched, "short")}:{" "}
+        {licenceCounts.map(([l, n], i) => (
+          <>
+            {i > 0 && ", "}
+            {l} ({n})
+          </>
+        ))}
+        .
+      </p>
+      <details class="group mt-3 rounded-card border border-subtle bg-surface">
+        <summary class="flex cursor-pointer list-none items-center justify-between gap-3 rounded-card px-4 py-3 text-sm font-medium text-primary hover:bg-surface-muted [&::-webkit-details-marker]:hidden">
+          Show every photo credit
+          <span class="text-muted transition-transform group-open:rotate-180" aria-hidden="true">▾</span>
+        </summary>
+        <div class="relative overflow-x-auto border-t border-subtle">
+          <table class="w-full min-w-[34rem] text-sm">
+            <caption class="sr-only">Portrait photographs, with the author, licence and Wikimedia Commons file for each</caption>
+            <thead class="bg-surface-muted text-primary">
+              <tr>
+                <th scope="col" class="px-3 py-2 ps-4 text-start font-semibold">Person</th>
+                <th scope="col" class="px-3 py-2 text-start font-semibold">Author</th>
+                <th scope="col" class="px-3 py-2 text-start font-semibold">Licence</th>
+                <th scope="col" class="px-3 py-2 pe-4 text-start font-semibold">Source</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-subtle text-secondary">
+              {portraitRows.map((p) => (
+                <tr class="align-top">
+                  <th scope="row" class="px-3 py-2 ps-4 text-start font-medium text-primary">
+                    <span class="flex items-center gap-2">
+                      <Portrait qid={p.qid} name={p.name} size={24} />
+                      {p.name}
+                    </span>
+                  </th>
+                  <td class="px-3 py-2 break-words">{p.author ?? "Not recorded on Commons"}</td>
+                  <td class="px-3 py-2 whitespace-nowrap">
+                    {p.licenceUrl ? (
+                      <a href={p.licenceUrl} class={link}>
+                        {p.licence}
+                      </a>
+                    ) : (
+                      p.licence
+                    )}
+                  </td>
+                  <td class="px-3 py-2 pe-4 whitespace-nowrap">
+                    <a href={p.page} class={link} title={p.file}>
+                      Commons<span class="sr-only"> file page: {p.file}</span>
+                    </a>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </details>
+    </div>
   )
 }

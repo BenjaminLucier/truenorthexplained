@@ -44,6 +44,7 @@ pnpm dev                                 # http://localhost:4321
 | `pnpm data:geo` | Re-download province and riding boundaries and population estimates into `src/data/geo/` |
 | `pnpm data:elections` | Re-download 2025 election results, current MPs and senators, and seat allocation into `src/data/elections/`, `src/data/parliament/` and `src/data/population/` |
 | `pnpm data:population` | Re-download 2021 Census population by province (used by the amending-formula widget) |
+| `pnpm data:portraits` | Re-download portraits of prime ministers, monarchs, governors general, Supreme Court judges, premiers and MPs from Wikimedia Commons into `public/portraits/`, with licence and author for each in `src/data/portraits.json`. Run after `pnpm grounding` and `pnpm data:elections` |
 | `pnpm grounding` | Re-download the Wikipedia/Wikidata grounding corpus, flags and Statistics Canada demographics. See [grounding/README.md](grounding/README.md) |
 
 All downloaded data is committed. Re-running a data script and reading the `git diff` is
