@@ -5,6 +5,7 @@ title: "1982: Bringing the Constitution home"
 order: 2
 summary: "How Canada took full control of its Constitution in 1982, why Quebec refused to sign, and the two failed attempts to bring it in."
 status: draft
+about: [event:patriation, term:patriation, event:meech-lake-accord, event:charlottetown-accord-1992, term:night-of-the-long-knives]
 ---
 
 ## In short
@@ -20,7 +21,7 @@ Two later attempts to win Quebec's agreement, the **Meech Lake Accord** (1987) a
 
 ### The problem: an Act Canada couldn't amend
 
-The Constitution Act, 1867 was a British statute with no general amending procedure.
+The [Constitution Act, 1867](doc:constitution-act-1867) was a British statute with no general amending procedure.
 By the 20th century Canada governed itself, and the **Statute of Westminster, 1931**
 ended Britain's power to legislate for Canada without its consent. But at Canada's own
 request, that statute left the BNA Acts out (s. 7). Ottawa and the provinces had not
@@ -33,8 +34,8 @@ Charter (1971). Both collapsed when Quebec withdrew its support.
 
 ### 1980–81: the push and the court case
 
-After the 1980 Quebec referendum on sovereignty-association, which the "No" side won,
-Prime Minister Pierre Trudeau moved to patriate the Constitution with a Charter of
+After the [1980 Quebec referendum](event:quebec-referendum-1980) on sovereignty-association, which the "No" side won,
+Prime Minister [Pierre Trudeau](person:pierre-trudeau) moved to patriate the Constitution with a Charter of
 Rights, with or without the provinces. Eight provinces objected and went to court.
 
 In the **Patriation Reference** (September 1981), the Supreme Court gave a split
@@ -53,13 +54,13 @@ conventional sense. That pushed everyone back to the table.
 At a first ministers' conference in Ottawa in November 1981, the federal government and
 nine provinces reached an agreement. Key compromises included:
 
-- The provinces' preferred amending formula, close to today's 7/50 rule with a right
+- The provinces' preferred amending formula, close to today's [7/50 rule](term:general-amending-procedure) with a right
   for provinces to opt out of some amendments.
 - The **notwithstanding clause** (s. 33), letting Parliament or a legislature override
   certain Charter rights for renewable five-year periods. See
-  [Section 33](/learn/charter/notwithstanding-clause).
+  [Section 33](doc:charter/s33).
 
-Quebec's government, led by René Lévesque, was not part of the final deal. In Quebec
+Quebec's government, led by [René Lévesque](person:rene-levesque), was not part of the final deal. In Quebec
 it's often called the "Night of the Long Knives", because the key talks happened
 overnight without Quebec's delegation. Quebec's National Assembly passed a resolution
 opposing the package. <!-- check: date and wording of the National Assembly's December 1981 resolution -->
@@ -67,9 +68,9 @@ opposing the package. <!-- check: date and wording of the National Assembly's De
 ### 1982: the Canada Act
 
 Parliament passed a resolution asking Britain to enact the package. The British
-Parliament passed the **Canada Act 1982**, with the **Constitution Act, 1982** as a
+Parliament passed the **[Canada Act 1982](term:canada-act-1982)**, with the **Constitution Act, 1982** as a
 schedule. Section 2 of the Canada Act says no later British law will extend to Canada.
-The Queen proclaimed the Constitution Act, 1982 in force in Ottawa on **April 17,
+The [Queen](person:elizabeth-ii) proclaimed the Constitution Act, 1982 in force in Ottawa on **April 17,
 1982**.
 
 Quebec then asked the courts whether it had a veto by convention. In the **Quebec Veto
@@ -78,10 +79,10 @@ Reference** (December 1982), the Supreme Court said no. Legally, the Constitutio
 
 ### Meech Lake (1987–1990)
 
-Under Prime Minister Brian Mulroney, the federal government and all ten premiers agreed
+Under Prime Minister [Brian Mulroney](person:brian-mulroney), the federal government and all ten premiers agreed
 in 1987 to the **Meech Lake Accord**, built around five conditions set by Quebec:
 
-1. Recognition of Quebec as a **distinct society**
+1. Recognition of Quebec as a **[distinct society](term:distinct-society)**
 2. A greater provincial role in **immigration**
 3. Provincial input into **Supreme Court appointments**, with three judges from Quebec
    guaranteed
@@ -102,7 +103,7 @@ and the legislature adjourned without voting. The deadline passed and the Accord
 A broader package followed: the **Charlottetown Accord**, agreed on August 28, 1992.
 It included a "Canada clause" with distinct-society recognition for Quebec, an elected
 Senate with equal provincial representation, a guaranteed share of House seats for
-Quebec, and recognition of an Indigenous right to self-government.
+Quebec, and recognition of an Indigenous [right to self-government](term:inherent-right-of-self-government).
 
 Unusually, it was put to voters. In a referendum on **October 26, 1992** (run by Quebec
 in Quebec and federally elsewhere), it was rejected by a majority nationally, including
@@ -110,12 +111,12 @@ about 57% "No" in Quebec, and in several other provinces.
 
 ### The aftermath
 
-- In 1995 Quebec held a second sovereignty referendum. "No" won by about one percentage
+- In 1995 Quebec held a [second sovereignty referendum](event:quebec-referendum-1995). "No" won by about one percentage
   point.
 - In 1996 Parliament passed a law (not a constitutional amendment) promising that
   federal ministers won't propose most amendments unless Ontario, Quebec, British
   Columbia, and enough Atlantic and Prairie provinces agree first. This is often called
-  the **regional veto**. See [the amending formula](/learn/constitution/amending-formula).
+  the **[regional veto](event:regional-veto-1996)**. See [the amending formula](/learn/constitution/amending-formula).
 - As of 2026, no Quebec government has formally endorsed the Constitution Act, 1982.
   People disagree about whether reopening the question is worth the risk of another
   failure.

@@ -6,6 +6,7 @@ icon: Crown
 summary: "Canada's King is head of state and the legal source of government power, but he 'reigns but does not rule'."
 deep_dives: [governor-general, reserve-powers, republic-question]
 status: draft
+about: [org:crown, term:crown, term:constitutional-monarchy, term:king-of-canada, term:divisible-crown, term:head-of-state]
 ---
 
 ## TL;DR
@@ -27,9 +28,9 @@ monarchy would take the unanimous agreement of Parliament and all ten provinces.
 the monarch. When you see "the Crown" in Canadian law, it usually means "the
 government" in its legal capacity. That's why:
 
-- Criminal cases are named *R. v. Smith*. "R" stands for *Rex* or *Regina*, Latin for
+- Criminal cases are named *R. v. Smith*. "[R](term:r-crown)" stands for *Rex* or *Regina*, Latin for
   King or Queen. The Crown prosecutes crimes.
-- Public land is called **Crown land**, and government-owned companies are **Crown
+- Public land is called **[Crown land](term:crown-land)**, and government-owned companies are **Crown
   corporations** (see [Crown corporations](/learn/government/crown-corporations)).
 - Government lawyers are **Crown counsel** or **Crown prosecutors**.
 
@@ -47,7 +48,7 @@ Canada".
 The written Constitution puts the Crown at the centre:
 
 - Executive government is "vested in the Queen" (now King) (Constitution Act, 1867,
-  s. 9).
+  [s. 9](doc:constitution-act-1867/s9)).
 - The monarch is commander-in-chief of the armed forces (s. 15).
 - Parliament is made up of the King, the Senate and the House of Commons (s. 17).
 
@@ -60,8 +61,8 @@ each has its own representative.
 
 | Jurisdiction | King's representative | Appointed by | On whose advice |
 |---|---|---|---|
-| Canada | Governor General | The King | The Prime Minister |
-| Each province | Lieutenant Governor | The Governor General (on federal cabinet advice) | The Prime Minister |
+| Canada | [Governor General](org:governor-general) | The King | The Prime Minister |
+| Each province | [Lieutenant Governor](org:lieutenant-governor) | The Governor General (on federal cabinet advice) | The Prime Minister |
 | Each territory | Commissioner (a federal official, not a representative of the King) <!-- check: Commissioners' formal status --> | The federal government | Federal cabinet |
 
 Both Governors General and Lieutenant Governors usually serve about five years. More in
@@ -76,9 +77,9 @@ The Governor General (and, provincially, the Lieutenant Governor):
    House.
 2. **Summons, prorogues and dissolves Parliament.** Summoning starts Parliament.
    Proroguing ends a session. Dissolving ends a Parliament and triggers an election.
-3. **Reads the Speech from the Throne**, written by the government, to open each
+3. **Reads the [Speech from the Throne](term:speech-from-the-throne)**, written by the government, to open each
    session.
-4. **Gives royal assent** to bills, the final step before they become law (s. 55).
+4. **Gives [royal assent](term:royal-assent)** to bills, the final step before they become law ([s. 55](doc:constitution-act-1867/s55)).
 5. **Signs orders-in-council** and other official documents into effect.
 6. **Swears in** the Prime Minister, ministers and the Chief Justice, and appoints
    judges, senators and Lieutenant Governors on the Prime Minister's advice.
@@ -94,9 +95,9 @@ not written law. The Governor General still has, in a classic British phrase, "t
 to be consulted, to encourage and to warn" (the Governor General's own website puts it
 as "to advise, encourage and warn").
 
-The exception is the **reserve powers**: a small set of decisions the Governor General
+The exception is the **[reserve powers](term:reserve-powers)**: a small set of decisions the Governor General
 can make on their own judgment, in rare situations where following advice would
-undermine responsible government. Examples are refusing a request to dissolve
+undermine [responsible government](term:responsible-government). Examples are refusing a request to dissolve
 Parliament when another party could govern, or appointing a Prime Minister when an
 election is unclear. Only a handful of real cases exist in Canada. See
 [Reserve powers](/learn/crown/reserve-powers).
@@ -113,7 +114,7 @@ flowchart LR
 ### The Crown and Indigenous peoples
 
 Treaties between First Nations and the Crown were made with the monarch, not with any
-particular government. Courts describe a duty called the **honour of the Crown**:
+particular government. Courts describe a duty called the **[honour of the Crown](term:honour-of-the-crown)**:
 governments must deal honourably with Indigenous peoples, including in treaty-making
 and consultation. This is one reason the Crown is more than a symbol. See
 [Indigenous peoples and the Crown](/learn/indigenous).
@@ -155,7 +156,7 @@ General.
 
 **"The King has no real role, so the monarchy could be dropped by a simple vote."**
 The Crown is woven through the Constitution. Changing "the office of the Queen" needs
-Parliament plus all ten provincial legislatures (Constitution Act, 1982, s. 41(a)).
+Parliament plus all ten provincial legislatures (Constitution Act, 1982, [s. 41(a)](doc:constitution-act-1982/s41)).
 
 ## Sources
 

@@ -6,6 +6,7 @@ icon: Vote
 summary: "You vote for one MP in your riding, never for the Prime Minister. Here's how that vote turns into a government."
 deep_dives: [election-day, first-past-the-post, party-leaders, cabinet-and-pmo]
 status: draft
+about: [term:riding, term:member-of-parliament, term:head-of-government, term:independent]
 ---
 
 ## TL;DR
@@ -34,7 +35,7 @@ To see every riding and who won it in 2025, or to find your own, use the
 Most candidates run for a **political party**, and their party appears on the ballot next to
 their name. Many voters choose based on the party or its leader more than the local
 candidate. Legally, though, you're electing one person to represent your area.
-**Independent** candidates, who belong to no party, can run too.
+**[Independent](term:independent)** candidates, who belong to no party, can run too.
 
 ### Who can vote
 
@@ -43,13 +44,13 @@ To vote in a federal election you must be:
 - a **Canadian citizen**, and
 - at least **18** on election day.
 
-The Charter guarantees every citizen the right to vote (s. 3). You also need to be registered
+The Charter guarantees every citizen the right to vote ([s. 3](doc:charter/s3)). You also need to be registered
 and prove who you are and where you live. See [how a federal election runs](/learn/elections/election-day).
 
 ### Who runs elections
 
-**Elections Canada** is an independent, non-partisan agency led by the **Chief Electoral
-Officer**. It reports to Parliament, not to the government of the day. It runs elections,
+**[](org:elections-canada)** is an independent, non-partisan agency led by the **[Chief Electoral
+Officer](term:chief-electoral-officer)**. It reports to Parliament, not to the government of the day. It runs elections,
 registers voters, enforces election finance rules and educates the public.
 
 ### From votes to seats
@@ -88,8 +89,8 @@ flowchart TD
 3. If no party has a majority, the result is a **minority Parliament**. The party with the
    most seats usually governs, with support from other parties on key votes. See
    [majority, minority and confidence](/learn/parliament/confidence).
-4. The **Governor General** appoints as Prime Minister the person most likely to have the
-   House's confidence. By convention, this isn't a personal choice. It follows the election
+4. The **[Governor General](org:governor-general)** appoints as Prime Minister the person most likely to have the
+   House's confidence. By [convention](term:convention), this isn't a personal choice. It follows the election
    result.
 
 <tn-widget name="election-to-government"></tn-widget>
@@ -122,16 +123,16 @@ say. See [how parties choose leaders](/learn/elections/party-leaders).
 The Prime Minister chooses **ministers**, who each run a department or area of policy.
 Together they form the **cabinet**, the main decision-making body of the government.
 Ministers are almost always MPs from the governing party. Two key offices support the PM:
-the political **Prime Minister's Office (PMO)** and the non-partisan **Privy Council Office
-(PCO)**. See [cabinet, the PMO and the PCO](/learn/elections/cabinet-and-pmo).
+the political **[Prime Minister's Office (PMO)](org:pmo)** and the non-partisan **[Privy Council Office
+(PCO)](org:pco)**. See [cabinet, the PMO and the PCO](/learn/elections/cabinet-and-pmo).
 
 ### When elections happen
 
-Since 2007, federal law has set a **fixed election date**: the third Monday in October of the
+Since 2007, federal law has set a **[fixed election date](term:fixed-election-date)**: the third Monday in October of the
 fourth calendar year after the last election. But the law also keeps the Governor General's power to
 dissolve Parliament earlier, and several elections have been called before the fixed date.
 See [how a federal election runs](/learn/elections/election-day). The Charter sets an outside
-limit of five years (s. 4).
+limit of five years ([s. 4](doc:charter/s4)).
 
 ### Elections everywhere
 

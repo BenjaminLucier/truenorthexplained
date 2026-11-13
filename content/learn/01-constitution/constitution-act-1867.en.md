@@ -5,6 +5,7 @@ title: "The Constitution Act, 1867"
 order: 1
 summary: "The 1867 Act created Canada, its Parliament and provinces, and split law-making powers between them. It's still the backbone."
 status: draft
+about: [doc:constitution-act-1867, term:british-north-america-act, case:persons-case, term:living-tree, term:disallowance]
 ---
 
 ## In short
@@ -21,11 +22,11 @@ Ottawa and the provinces. Most of it is still in force today.
 In the 1860s, the British colonies of the Province of Canada (which was split into
 Ontario and Quebec), Nova Scotia and New Brunswick negotiated a union. Because they were
 colonies, the union had to be enacted by the British Parliament. The result, the BNA
-Act, took effect on **July 1, 1867**. That date is now Canada Day.
+Act, took effect on **[July 1, 1867](event:confederation)**. That date is now Canada Day.
 
 Its preamble says the provinces wanted to be united "with a Constitution similar in
 Principle to that of the United Kingdom". That phrase matters. It's why Canada inherited
-the British parliamentary system, with its conventions, rather than writing everything
+the British parliamentary system, with its [conventions](term:convention), rather than writing everything
 down.
 
 ### What's in it
@@ -45,16 +46,16 @@ The Act is organized into numbered Parts. The ones that still shape daily govern
 
 ### The division of powers, briefly
 
-Section 91 gives Parliament power to make laws for the "Peace, Order, and good
-Government of Canada" and lists examples, including:
+[Section 91](doc:constitution-act-1867/s91) gives Parliament power to make laws for the "[Peace, Order, and good
+Government](term:peace-order-and-good-government) of Canada" and lists examples, including:
 
 - s. 91(2) trade and commerce
 - s. 91(7) defence
 - s. 91(14) currency and coinage
-- s. 91(24) "Indians, and Lands reserved for the Indians"
-- s. 91(27) criminal law
+- [s. 91(24)](doc:constitution-act-1867/s91-24) "Indians, and Lands reserved for the Indians"
+- [s. 91(27)](doc:constitution-act-1867/s91-27) criminal law
 
-Section 92 lists exclusive provincial powers, including:
+[Section 92](doc:constitution-act-1867/s92) lists exclusive provincial powers, including:
 
 - s. 92(7) hospitals
 - s. 92(8) municipal institutions
@@ -72,8 +73,8 @@ The 1867 Act is famous for what it leaves out:
   [convention](/learn/constitution/conventions).
 - **No rule that the government needs the House's confidence.** Also convention.
 - **No bill of rights.** Rights were protected mainly by Parliament and the common law
-  until the Charter arrived in 1982 (with a federal statute, the Canadian Bill of
-  Rights, in between in 1960).
+  until the Charter arrived in 1982 (with a federal statute, the [Canadian Bill of
+  Rights](term:canadian-bill-of-rights), in between in 1960).
 - **No general amending formula.** This gap is why the British Parliament stayed
   involved until 1982. See [1982: Bringing the Constitution home](/learn/constitution/patriation-1982).
 
@@ -82,20 +83,20 @@ The 1867 Act is famous for what it leaves out:
 Read literally, the Act gives the Crown and the federal government sweeping powers that
 are now unused or tightly limited:
 
-- **Disallowance and reservation.** The federal government can cancel ("disallow") a
+- **Disallowance and [reservation](term:reservation).** The federal government can cancel ("disallow") a
   provincial law within a year, and a Lieutenant Governor can "reserve" a provincial
   bill for Ottawa's decision (ss. 55–57, applied to provinces by s. 90). These were used
   often in the early decades. Disallowance was last used in the 1940s and reservation
   in 1961. <!-- check: last federal disallowance (1943, Alberta) and last reservation (1961, Saskatchewan) --> Most experts consider them obsolete, though they
   have never been formally repealed.
-- **Royal assent can be withheld** (s. 55). In practice it never is federally. See
+- **[Royal assent](term:royal-assent) can be withheld** (s. 55). In practice it never is federally. See
   [Reserve powers](/learn/crown/reserve-powers).
 
 ### How it has changed
 
 The 1867 Act has been amended many times. A few examples:
 
-- **1965:** senators must retire at 75. Before that they sat for life (s. 29).
+- **1965:** [senators must retire at 75](event:senate-retirement-age-1965). Before that they sat for life (s. 29).
 - **1982:** renamed the Constitution Act, 1867, and s. 92A added on natural resources.
 - **2022 and 2023:** Quebec and Saskatchewan each added sections about themselves
   (ss. 90Q.1–90Q.2 and s. 90S.1) by passing provincial laws, relying on the power of a
@@ -106,7 +107,7 @@ The 1867 Act has been amended many times. A few examples:
 ### "A living tree"
 
 Courts don't read the Act as frozen in 1867. In the 1929 **Persons Case** (*Edwards v.
-Canada (Attorney General)*), the Judicial Committee of the Privy Council in London, then
+Canada (Attorney General)*), the [Judicial Committee of the Privy Council](org:judicial-committee-of-the-privy-council) in London, then
 Canada's highest court, held that women were "persons" who could be appointed to the
 Senate. It described the Act as "a living tree capable of growth and expansion within
 its natural limits". That idea, called **living tree** interpretation, is still the

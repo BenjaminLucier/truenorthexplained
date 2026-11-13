@@ -5,12 +5,13 @@ title: "Question Period and committees"
 order: 4
 summary: "How MPs hold the government to account every day: the 45-minute Question Period, and the committees that do the detailed work."
 status: draft
+about: [term:question-period, term:committees, term:standing-committee, term:committee-of-the-whole, term:adjournment-proceedings]
 ---
 
 ## In short
 
 **Question Period** is the 45 minutes each sitting day when MPs, mostly from the opposition,
-question the Prime Minister and ministers in the House of Commons. It's loud, televised and
+question the [Prime Minister](org:prime-minister) and ministers in the [House of Commons](org:house-of-commons). It's loud, televised and
 often the only part of Parliament people see. **Committees** are the quieter side: small
 groups of MPs or senators who study bills line by line, hear from witnesses and investigate
 issues. Together they're the main ways Parliament holds the government to account between
@@ -26,14 +27,14 @@ elections.
 **How it works:**
 
 - Opposition parties decide which of their MPs ask questions and in what order. Speaking
-  slots are shared roughly by party size. By practice, the **Leader of the Opposition** asks
+  slots are shared roughly by party size. By practice, the **[Leader of the Opposition](term:leader-of-the-opposition)** asks
   the first questions.
 - Government backbenchers (MPs in the governing party who aren't ministers) also get some
   questions.
 - Questions go to the government as a whole. The government decides which minister answers,
   and the Speaker can't force a particular minister to respond, or force a satisfying
   answer.
-- The **Speaker** keeps order, enforces time limits and calls on members, but doesn't ask or
+- The **[Speaker](term:speaker)** keeps order, enforces time limits and calls on members, but doesn't ask or
   answer questions.
 
 **Why it matters:** Ministers must face questions in public, on the record, every sitting day.
@@ -73,7 +74,7 @@ outvote the government side in committee.
 
 **Who chairs them:** committee members elect their own chair. Most chairs are government MPs,
 but a few committees, including the one that reviews government spending audits, are
-chaired by the Official Opposition.
+chaired by the [Official Opposition](term:official-opposition).
 <!-- check: confirm which committees are opposition-chaired (Public Accounts is the usual example) -->
 
 **What they do:**
@@ -81,7 +82,7 @@ chaired by the Official Opposition.
 1. **Study bills.** After second reading, a bill goes to committee. Members hear witnesses,
    then vote on the bill clause by clause and on any amendments. See
    [how a bill becomes law](/learn/parliament/how-a-bill-becomes-law).
-2. **Review spending.** Committees examine government spending plans (called **estimates**)
+2. **Review spending.** Committees examine government spending plans (called **[estimates](term:estimates)**)
    for the departments they cover. See [the budget](/learn/government/the-budget).
 3. **Investigate.** Committees can choose their own studies, call witnesses, including
    ministers and officials, and ask for documents. They report their findings and
@@ -89,7 +90,7 @@ chaired by the Official Opposition.
    reports.
    <!-- check: confirm wording on committees' power to send for persons, papers and records (Standing Order 108) -->
 4. **Review appointments and officers of Parliament.** Committees study reports from
-   watchdogs like the Auditor General. See [watchdogs](/learn/government/watchdogs).
+   watchdogs like the [Auditor General](org:auditor-general). See [watchdogs](/learn/government/watchdogs).
 
 Committee work is often less partisan than Question Period. Members from different parties
 sometimes agree on unanimous reports. Committee meetings are usually public and many are
@@ -97,8 +98,8 @@ broadcast or webcast.
 
 ### Party discipline in practice
 
-Both Question Period and committee work happen inside a system of strong **party
-discipline**. Each party has a **whip** who organizes its members, assigns them to
+Both Question Period and committee work happen inside a system of strong **[party
+discipline](term:party-discipline)**. Each party has a **[whip](term:whip)** who organizes its members, assigns them to
 committees and makes sure they're present for votes. MPs who break ranks on important votes
 can lose committee spots or be removed from their party's caucus. A **free vote**, where
 members vote as they personally choose, is the exception.

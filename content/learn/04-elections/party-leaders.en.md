@@ -5,6 +5,7 @@ title: "How parties choose leaders"
 order: 3
 summary: "Party members, not voters at large, choose party leaders, and that choice can decide who is Prime Minister."
 status: draft
+about: [term:leadership-review, term:reform-act, term:delegate-convention]
 ---
 
 ## In short
@@ -20,14 +21,14 @@ trigger a review of their leader.
 
 ### Why leaders matter so much
 
-The [Prime Minister](/learn/elections) is whoever can keep the House's confidence, which in
+The [Prime Minister](/learn/elections) is whoever can keep the House's [confidence](term:confidence), which in
 practice means the leader of the governing party. Party leaders also:
 
 - lead their party's election campaign and appear in televised debates;
-- decide, in the governing party, who sits in cabinet;
+- decide, in the governing party, who sits in [cabinet](org:cabinet);
 - in opposition parties, choose their party's critics (spokespeople) and set its strategy;
-- often control who can run under the party's name. Under the Canada Elections Act, each
-  party tells Elections Canada who is authorized to endorse its candidates (s. 406(2)), and
+- often control who can run under the party's name. Under the [Canada Elections Act](doc:canada-elections-act), each
+  party tells [](org:elections-canada) who is authorized to endorse its candidates (s. 406(2)), and
   in many parties that includes the leader.
   <!-- check: confirm "in many parties that includes the leader" against current party filings -->
 
@@ -44,7 +45,7 @@ In most major federal parties today, the process looks something like this:
 3. **People join the party** to vote. Membership is usually cheap or free and open to most
    residents, sometimes including people who aren't citizens or are under 18, depending on
    party rules. <!-- check: membership eligibility varies by party; confirm before giving specifics -->
-4. **Members vote**, often by **ranked ballot**, so a winner emerges with majority support
+4. **Members vote**, often by **[ranked ballot](term:ranked-ballot)**, so a winner emerges with majority support
    after lower-ranked candidates are eliminated.
 5. Some parties **weight votes by riding**, so each riding counts equally no matter how many
    members it has. Others count every member's vote equally.
@@ -62,8 +63,8 @@ leader to resign even if they technically survive.
 
 ### The caucus rules in the Parliament of Canada Act
 
-A 2015 amendment to the **Parliament of Canada Act** (often called the **Reform Act**) gave
-MPs some formal powers within their party's **caucus** (a party's group of MPs). After every
+A 2015 amendment to the **[Parliament of Canada Act](term:parliament-of-canada-act)** (often called the **Reform Act**) gave
+MPs some formal powers within their party's **[caucus](term:caucus)** (a party's group of MPs). After every
 general election, at its first meeting, each party caucus with **12 or more MPs** must hold
 four separate recorded votes on whether to adopt these rules:
 
@@ -80,18 +81,18 @@ the next dissolution of Parliament. Caucuses have voted different ways on these 
 ### Changing the Prime Minister between elections
 
 When the governing party picks a new leader, that person becomes Prime Minister without a
-general election. The outgoing Prime Minister resigns, and the Governor General appoints the
+general election. The outgoing Prime Minister resigns, and the [Governor General](org:governor-general) appoints the
 new leader. This has happened several times in Canada's history, including in 1993, 2003 and
 2025.
 
 A new leader doesn't need a seat in the House to become Prime Minister. By convention, a
-Prime Minister without a seat is expected to win one in a by-election or the next general
+Prime Minister without a seat is expected to win one in a [by-election](term:by-election) or the next general
 election.
 
 ### Provinces work the same way
 
 Provincial parties choose their leaders the same way, and the leader of the governing party
-becomes **premier**. A change of premier between elections is common.
+becomes **[premier](term:premier)**. A change of premier between elections is common.
 
 ## Sources
 

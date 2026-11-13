@@ -6,6 +6,7 @@ icon: ScrollText
 summary: "Canada's rulebook isn't one document: it's the 1867 and 1982 Acts, other written pieces, and unwritten conventions."
 deep_dives: [constitution-act-1867, patriation-1982, amending-formula, conventions]
 status: draft
+about: [term:constitution, doc:constitution-act-1982/s52, term:section-52, term:unwritten-principles, term:of-no-force-or-effect]
 ---
 
 ## TL;DR
@@ -25,7 +26,7 @@ and usually needs agreement from both Parliament and many provinces.
 ### What a constitution does
 
 A **constitution** is the set of rules that creates a country's institutions, says
-what each one can do, and limits them. Ordinary laws, such as the Criminal Code or a
+what each one can do, and limits them. Ordinary laws, such as the [Criminal Code](term:criminal-code) or a
 provincial highway act, have to fit inside it.
 
 Canada's Constitution says this about itself directly. Section 52 of the Constitution
@@ -40,8 +41,8 @@ bundle.
 
 | Piece | What it is | What it does |
 |---|---|---|
-| [Constitution Act, 1867](/learn/constitution/constitution-act-1867) | A British statute, originally called the *British North America Act* | Created Canada, set up Parliament and the provinces, divided powers between them |
-| [Constitution Act, 1982](/learn/constitution/patriation-1982) | Passed at Canada's request in 1982 | Added the Charter, recognized Aboriginal and treaty rights, set out how to amend the Constitution |
+| [Constitution Act, 1867](doc:constitution-act-1867) | A British statute, originally called the *British North America Act* | Created Canada, set up Parliament and the provinces, divided powers between them |
+| [Constitution Act, 1982](doc:constitution-act-1982) | Passed at Canada's request in 1982 | Added the Charter, recognized Aboriginal and treaty rights, set out how to amend the Constitution |
 | Other written texts | A schedule to the 1982 Act lists about thirty Acts and orders <!-- check: count of items in the Schedule to the Constitution Act, 1982 --> | Things like the Acts that created Manitoba, Alberta and Saskatchewan, and the terms on which British Columbia, PEI and Newfoundland joined |
 | [Conventions](/learn/constitution/conventions) | Unwritten rules | Most of how the Prime Minister, cabinet and Governor General actually behave |
 
@@ -56,18 +57,18 @@ interpret the written text.
 into one country on July 1, 1867. It is still the backbone of the system. It:
 
 - vests executive power in the Crown (s. 9),
-- creates Parliament: the King, the Senate and the House of Commons (s. 17),
+- creates Parliament: the King, the Senate and the House of Commons ([s. 17](doc:constitution-act-1867/s17)),
 - sets up provincial governments (Part V), and
-- divides law-making powers between Parliament (s. 91) and the provinces (s. 92).
+- divides law-making powers between Parliament ([s. 91](doc:constitution-act-1867/s91)) and the provinces ([s. 92](doc:constitution-act-1867/s92)).
 
 **The Constitution Act, 1982** didn't replace the 1867 Act. It added to it. Its main
 parts are:
 
 - **Part I: the Canadian Charter of Rights and Freedoms** (ss. 1–34). See
   [Rights: the Charter](/learn/charter).
-- **Part II: section 35**, which recognizes and affirms existing Aboriginal and treaty
+- **Part II: [section 35](doc:constitution-act-1982/s35)**, which recognizes and affirms existing Aboriginal and treaty
   rights. See [Indigenous peoples and the Crown](/learn/indigenous).
-- **Part V: the amending formula** (ss. 38–49), the rules for changing the
+- **Part V: the [amending formula](term:amending-formula)** (ss. 38–49), the rules for changing the
   Constitution.
 - **Section 52**, the supremacy clause.
 
@@ -78,21 +79,21 @@ amend the main parts of Canada's Constitution. This wasn't because Britain still
 governed Canada. Canada had full control over its own affairs long before 1982. It was
 because Canadian governments could never agree on a made-in-Canada amending formula.
 
-In 1982 the Constitution was **patriated**, meaning brought home. Britain passed the
+In 1982 the Constitution was **[patriated](term:patriation)**, meaning brought home. Britain passed the
 *Canada Act 1982* at Canada's request, giving up any further power to legislate for
 Canada. Nine provinces agreed to the package. **Quebec did not**, and it still hasn't
 formally endorsed it, although it is legally bound by it. The story of how that
-happened, and the two failed attempts to fix it (the Meech Lake and Charlottetown
+happened, and the two failed attempts to fix it (the [Meech Lake](event:meech-lake-accord) and [Charlottetown](event:charlottetown-accord-1992)
 accords), is in [1982: Bringing the Constitution home](/learn/constitution/patriation-1982).
 
 ### The unwritten rules
 
 A great deal of how Canada is governed isn't in any written text. The written
-Constitution gives sweeping powers to the King and the Governor General. It barely
+Constitution gives sweeping powers to the King and the [Governor General](org:governor-general). It barely
 mentions the Prime Minister and never mentions political parties. **Conventions** fill
 the gap. For example:
 
-- The Governor General acts on the advice of ministers who have the confidence of the
+- The Governor General acts on the advice of ministers who have the [confidence](term:confidence) of the
   House of Commons.
 - The Prime Minister is the person who can command that confidence.
 - If the government loses a confidence vote, it resigns or asks for an election.
@@ -109,8 +110,8 @@ procedures, depending on what's being changed:
 
 | Procedure | Who must agree | Used for |
 |---|---|---|
-| General ("7/50") | Parliament plus at least 7 provinces with at least 50% of the population | Most changes, e.g. the Senate's powers |
-| Unanimity | Parliament plus all 10 provinces | The monarchy, the Supreme Court's composition, the amending formula itself |
+| [General](term:general-amending-procedure) ("7/50") | Parliament plus at least 7 provinces with at least 50% of the population | Most changes, e.g. the Senate's powers |
+| [Unanimity](term:unanimity-procedure) | Parliament plus all 10 provinces | The monarchy, the Supreme Court's composition, the amending formula itself |
 | Some provinces | Parliament plus the province(s) affected | Things that apply to only some provinces |
 | Parliament alone | Parliament | Federal institutions, within limits |
 | A province alone | That province's legislature | The province's own constitution |
@@ -135,12 +136,12 @@ The Charter is one part of the Constitution Act, 1982. The Constitution also inc
 the 1867 Act, other written texts, and the conventions that shape how government works.
 
 **"Canada became independent in 1982."**
-Not exactly. Canada's independence grew gradually, through Confederation in 1867, the
-Statute of Westminster in 1931 and other steps. 1982 ended the last formal role of the
+Not exactly. Canada's independence grew gradually, through [Confederation](event:confederation) in 1867, the
+[Statute of Westminster](event:statute-of-westminster) in 1931 and other steps. 1982 ended the last formal role of the
 British Parliament: amending Canada's Constitution.
 
 **"Quebec isn't bound by the Constitution because it never signed."**
-It is bound. The Supreme Court confirmed in 1982 that Quebec had no veto over
+It is bound. The Supreme Court confirmed in 1982 that [Quebec had no veto](case:quebec-veto-reference) over
 patriation. Quebec's refusal is a political fact with real consequences, not a legal
 exemption.
 

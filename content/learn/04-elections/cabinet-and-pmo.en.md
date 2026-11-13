@@ -5,6 +5,7 @@ title: "Cabinet, the PMO and the Privy Council Office"
 order: 4
 summary: "Who actually runs the government day to day: the Prime Minister, cabinet ministers, and the two offices that support them."
 status: draft
+about: [org:cabinet, org:prime-minister, org:pmo, org:pco, org:privy-council, doc:constitution-act-1867/s11]
 ---
 
 ## In short
@@ -14,7 +15,7 @@ government's main decisions. Each minister is responsible to Parliament for a de
 area of policy. The Prime Minister is supported by two very different offices: the
 **Prime Minister's Office (PMO)**, made up of political staff, and the **Privy Council Office
 (PCO)**, made up of non-partisan public servants. Like the Prime Minister's job itself, most of
-this rests on convention rather than written law.
+this rests on [convention](term:convention) rather than written law.
 
 ## The details
 
@@ -25,7 +26,7 @@ governing party. Occasionally a minister is appointed who isn't yet an MP; by co
 are expected to win a seat soon. A senator can also be a minister, though this has been rare
 in recent decades. <!-- check: confirm how rare senator-ministers have been recently -->
 
-**How they're appointed:** the Governor General formally appoints ministers on the Prime
+**How they're appointed:** the [Governor General](org:governor-general) formally appoints ministers on the Prime
 Minister's advice. Each new minister is first sworn in to the **King's Privy Council for
 Canada**, an advisory body created by the Constitution (Constitution Act, 1867, s. 11).
 Membership is for life, which is why former ministers keep the title "The Honourable." Cabinet
@@ -36,21 +37,21 @@ Crown.
 
 - sets government policy and priorities;
 - decides which bills the government will introduce;
-- approves **regulations** and many appointments through **orders in council** (formally
+- approves **regulations** and many appointments through **[orders in council](term:orders-in-council)** (formally
   decisions of the "Governor in Council," meaning the Governor General acting on cabinet's
   advice);
 - prepares the budget and spending plans (see [the budget](/learn/government/the-budget)).
 
-Much of cabinet's work is done in **cabinet committees**, smaller groups of ministers focused
-on particular areas. One, the **Treasury Board**, is set up by law and oversees government
+Much of cabinet's work is done in **[cabinet committees](term:cabinet-committees)**, smaller groups of ministers focused
+on particular areas. One, the **[Treasury Board](org:treasury-board)**, is set up by law and oversees government
 spending and management. <!-- check: confirm Treasury Board is established under the Financial Administration Act -->
 
 ### Two key principles
 
 | Principle | What it means |
 |---|---|
-| **Collective responsibility** (cabinet solidarity) | Cabinet discussions are confidential. Once cabinet decides, every minister must publicly support the decision or resign. |
-| **Individual ministerial responsibility** | Each minister answers to Parliament for their own department, including in Question Period. |
+| **[Collective responsibility](term:collective-responsibility)** (cabinet solidarity) | Cabinet discussions are confidential. Once cabinet decides, every minister must publicly support the decision or resign. |
+| **Individual [ministerial responsibility](term:ministerial-responsibility)** | Each minister answers to Parliament for their own department, including in Question Period. |
 
 These are conventions, not statutes, but they're central to how Canadian government works.
 See [conventions](/learn/constitution/conventions).
@@ -59,9 +60,9 @@ See [conventions](/learn/constitution/conventions).
 
 - **Secretaries of state / ministers of state:** junior ministers who help with a specific
   area. Whether they're full cabinet members has varied by government.
-- **Parliamentary secretaries:** MPs who assist a minister, especially in the House, but who
+- **[Parliamentary secretaries](term:parliamentary-secretary):** MPs who assist a minister, especially in the House, but who
   aren't ministers.
-- **Deputy ministers:** the senior public servant in each department. They're not
+- **[Deputy ministers](term:deputy-minister):** the senior public servant in each department. They're not
   politicians. See [departments](/learn/government/departments).
 
 ### The Prime Minister's Office (PMO)
@@ -79,7 +80,7 @@ relations with the party and caucus.
 The **PCO** is the Prime Minister's **public service** department. It supports both the
 Prime Minister and cabinet as a whole.
 
-- It's led by the **Clerk of the Privy Council**, who is also the **head of the public service**
+- It's led by the **[Clerk of the Privy Council](term:clerk-of-the-privy-council)**, who is also the **head of the public service**
   and the secretary to the cabinet.
 - PCO staff are **non-partisan**: they serve whichever government is in office.
 - The PCO organizes cabinet's business, gives policy advice, coordinates departments, and
