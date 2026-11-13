@@ -1,0 +1,16 @@
+{
+  "source": "Elections Canada, Federal Electoral District boundaries (2023 Representation Order)",
+  "url": "https://www.elections.ca/res/cir/mapsCorner/edb/FederalElectoralDistricts_SHP.zip",
+  "dataset": "https://open.canada.ca/data/en/dataset/18bf3ea7-1940-46ec-af52-9ba3f77ed708",
+  "licence": "Open Government Licence – Canada",
+  "licenceUrl": "https://open.canada.ca/en/open-government-licence-canada",
+  "fetched": "2026-11-13",
+  "notes": "343 districts. Clipped to the Statistics Canada 2021 cartographic province outline (see provinces.topo.meta.json) so coastlines match the province map, islands under 2 km² (or 0.2% of their district) dropped, simplified with mapshaper (weighted Visvalingam with keep-shapes, at an interval scaled to each district's size: 80 m for the smallest urban districts up to 6 km in the North), reprojected to WGS84, quantized to 1e5.",
+  "object": "ridings",
+  "properties": {
+    "fed": "federal electoral district number (ED_CF_NUM); the first two digits are the PRUID",
+    "name_en": "English name",
+    "name_fr": "French name",
+    "province": "province or territory page slug"
+  }
+}

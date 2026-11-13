@@ -1,0 +1,83 @@
+---
+/**
+ * Flag and locator map for a province or territory page header.
+ *
+ * The flag comes from public/flags/<slug>.svg. When the file is missing,
+ * nothing is drawn for it, and the locator map stands alone.
+ */
+import { existsSync, readFileSync } from "node:fs";
+import { join } from "node:path";
+import CanadaMap from "./map/CanadaMap.astro";
+import { provinceFeatures } from "./map/geo";
+import type { Page } from "../lib/site";
+
+interface Props {
+  page: Page;
+}
+
+const { page } = Astro.props;
+const slug = page.id.replace(/^provinces\//, "");
+const name = page.data.title;
+// "the Northwest Territories", but plain "Ontario".
+const withArticle = /^Northwest Territories$/.test(name) ? `the ${name}` : name;
+
+const features = provinceFeatures();
+if (!features.some((f) => f.properties.slug === slug)) throw new Error(`ProvinceHeader: no map feature for "${slug}"`);
+
+/** Reads the flag's proportions from its viewBox (or width/height) so the <img> reserves the right space. */
+function flag(): { src: string; width: number; height: number } | undefined {
+  const file = join(process.cwd(), "public", "flags", `${slug}.svg`);
+  if (!existsSync(file)) return undefined;
+  const head = readFileSync(file, "utf8").slice(0, 4000);
+  const svgTag = head.match(/<svg\b[^>]*>/)?.[0] ?? "";
+  const viewBox = svgTag.match(/viewBox\s*=\s*["']([^"']+)["']/)?.[1]?.trim().split(/[\s,]+/).map(Number);
+  const attr = (n: string) => Number.parseFloat(svgTag.match(new RegExp(`\\b${n}\\s*=\\s*["']([\\d.]+)`))?.[1] ?? "");
+  let ratio = 2;
+  if (viewBox && viewBox.length === 4 && viewBox[2]! > 0 && viewBox[3]! > 0) ratio = viewBox[2]! / viewBox[3]!;
+  else if (attr("width") > 0 && attr("height") > 0) ratio = attr("width") / attr("height");
+  const width = 144;
+  return { src: `/flags/${slug}.svg`, width, height: Math.round(width / ratio) };
+}
+
+const flagImg = flag();
+---
+
+<div class="province-header float-end ms-4 mb-3 flex w-28 flex-col items-stretch gap-3 sm:ms-8 sm:w-40">
+  {
+    flagImg && (
+      <img
+        src={flagImg.src}
+        width={flagImg.width}
+        height={flagImg.height}
+        alt={`Flag of ${withArticle}`}
+        class="h-auto w-full rounded-sm border border-subtle bg-surface"
+        decoding="async"
+      />
+    )
+  }
+  <CanadaMap
+    id="locator"
+    features={features}
+    width={240}
+    padding={3}
+    precision={0}
+    minArea={6}
+    tolerance={1.5}
+    role="img"
+    title={`Map of Canada with ${withArticle} highlighted`}
+    item={(f) => ({ highlight: f.properties.slug === slug, marker: f.properties.slug === slug && "auto" })}
+    class="locator"
+  />
+</div>
+
+<style>
+  .locator :global(.map-feature) {
+    fill: var(--tn-border);
+    stroke: var(--tn-bg);
+    stroke-width: 0.75;
+  }
+  .locator :global(.map-feature.is-highlighted) {
+    fill: var(--tn-accent);
+    stroke: var(--tn-bg);
+  }
+</style>

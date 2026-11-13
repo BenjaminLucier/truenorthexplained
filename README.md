@@ -41,6 +41,7 @@ pnpm dev                                 # http://localhost:4321
 | `pnpm check` | Type-check `.ts` and `.astro` files |
 | `pnpm validate` | Check internal links and quiz page references |
 | `pnpm review` | Regenerate [REVIEW.md](REVIEW.md), the list of facts and links awaiting review |
+| `pnpm data:geo` | Re-download province and riding boundaries and population estimates into `src/data/geo/` |
 
 ## Project layout
 
