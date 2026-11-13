@@ -15,7 +15,9 @@ Live at **[truenorthexplained.ca](https://truenorthexplained.ca)**.
   and `accent`. Every colour has a light and a dark value.
 - **Vanilla TypeScript** custom elements handle the few interactive parts: the theme
   toggle, the mobile menu and the quizzes. There is no UI framework.
-- **Mermaid** diagrams are rendered to SVG at build time.
+- **Sätteri**, Astro 7's Rust-based markdown processor, does the markdown processing.
+  Small hast plugins in `src/plugins/markdown.ts` strip authoring comments, wrap tables
+  and render **Mermaid** diagrams to SVG at build time.
 - **TypeScript 7.1**, which also type-checks `.astro` files through
   `@astrojs/ts-content-mapper`.
 
@@ -54,7 +56,7 @@ src/
   layouts/          Page shells
   components/       Header, footer, icons, quiz pieces
   scripts/          Client-side TypeScript (quiz logic, progress storage)
-  plugins/          Markdown plugins (strip review comments, heading ids, tables)
+  plugins/          Sätteri markdown plugins (comments, tables, Mermaid)
   styles/global.css Design tokens and base styles
   i18n/en.ts        Interface text, ready for a French dictionary
 scripts/validate.ts Content checks and review-list generator
