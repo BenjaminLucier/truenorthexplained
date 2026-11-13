@@ -153,11 +153,112 @@ chart over time, use `SeriesChart` with `hover`.
 - A `<!-- visual: … -->` note marks where a planned widget belongs. Replace it with a
   `<tn-widget>` once the widget exists.
 
+## The semantic layer: entities, facts and backlinks
+
+Pages used to connect only through hand-written links, and the same thing (the
+King–Byng affair, a prime minister, the size of the House) was described separately in
+several places. A small semantic layer gives those things one identity each.
+
+### Entities
+
+An entity is a thing the site talks about. Every entity has an **id** of the form
+`type:slug` (lowercase ASCII, hyphens; document sections add `/sNN`), a `name`, an
+optional one-line `summary`, and a canonical **home**: the existing page or anchor
+that explains it best. Entities do not get pages of their own, so no new URLs exist
+and every old URL keeps working.
+
+| Type | Id example | Lives in | Home |
+|---|---|---|---|
+| Person | `person:mackenzie-king` | Derived from `src/data/wikidata/{prime-ministers,governors-general,monarchs,chief-justices,premiers}.json` (id = slug of the name; the JSON is never copied). Others, and overrides such as `aliases`, in `content/entities/people.yaml` | The list page for their office (`/prime-ministers`, `/governors-general`, a province page), or an explicit `page` |
+| Institution | `org:senate` | `content/entities/institutions.yaml` | `page` (with optional `#anchor`) |
+| Document, section | `doc:charter`, `doc:charter/s33` | `content/entities/documents.yaml`; sections nest under their document | `page`; `url` holds the official text |
+| Case | `case:r-v-oakes` | `content/entities/cases.yaml` (year, citation, sections, one-line holding) | `/learn/charter/landmark-cases#<slug>` or `page` |
+| Event | `event:king-byng-affair` | `content/entities/events.yaml` (date, era, text, `pages`, `people`, `entities`) | `/timeline#<slug>`, or `page` when one page tells the story |
+| Term or concept | `term:reserve-powers` | The glossary: one file per term, `content/glossary/<slug>.en.md` | `/glossary#<slug>` |
+
+YAML entity fields: `id` (slug only; the file gives the type), `name`, `short?`,
+`aliases?`, `summary?`, `page?` (site path, may carry `#anchor`), `url?`, plus the
+type's own fields. Entities may point at each other (`people`, `entities`, `sections`).
+
+`src/lib/entities.ts` is the registry. It is **plain Node** (reads files with
+`node:fs` from the project root; no `astro:` imports), because three callers need it:
+the markdown plugin (runs in the Astro config), `scripts/validate.ts` (runs under
+tsx) and pages. It exposes `allEntities()`, `getEntity(id)` (throws on unknown ids),
+`hrefFor(id)` and `labelFor(id)`.
+
+### Referring to an entity in markdown
+
+An ordinary link whose destination is an entity id:
+
+```md
+the [reserve powers](term:reserve-powers) were last used in the [](event:king-byng-affair)
+under [section 33](doc:charter/s33)
+```
+
+Empty link text means "use the entity's name". The `entityLinks` hast plugin
+(`src/plugins/entities.ts`) rewrites the link to the entity's home and adds
+`data-entity="type:slug"`. Because a term's home is `/glossary#slug`, glossary
+popovers keep working unchanged. An unknown id is a build error, and
+`pnpm validate` reports it too (it scans the markdown source, so it fails without a
+build). Plain links to pages remain fine; use an entity link when the thing has an
+identity beyond one page.
+
+### `about:` front matter
+
+`about: [org:senate, doc:constitution-act-1867/s24]` lists the entities a page is the
+main explanation of (checked by `validate` and the schema). It drives backlinks and
+related pages, and gives events and glossary terms somewhere to send the reader.
+
+### Backlinks and related pages
+
+`src/lib/semantic.ts` (Astro side) builds one index per build from every page's
+`about` and its `data-entity` links:
+
+- `pagesAbout(id)`: pages that list the entity in `about`.
+- `mentions(id)`: pages (and glossary terms, events) that link to it.
+- `relatedPages(page)`: pages about the entities this page mentions, then pages that
+  mention the entities this page is about, ranked by overlap, excluding itself, its
+  parent module and its neighbours in the reading order.
+
+ContentLayout shows "Related pages" under the article. Each glossary term shows
+"Explained in" (its `see` list plus pages about it) and "Mentioned in" (computed).
+Timeline events link to their `pages` and to the list pages of their `people`.
+
+### Glossary
+
+One markdown file per term: `content/glossary/<slug>.en.md`, front matter
+`{ term, aliases?, alias_of?, see?: [page ids or entity ids] }`, body = the definition
+(normal markdown, so entity links and facts work inside definitions). They load as
+the `glossary` collection and are excluded from the `pages` collection and from page
+counts. `content/glossary.en.md` keeps the page's front matter and intro; the
+`glossary` widget renders the A–Z list from the collection with the same `#slug`
+anchors, so `/glossary#slug` links and popovers are unchanged.
+
+### Facts registry
+
+Values that change (seat counts, the majority threshold, who holds an office, the
+latest population) come from `src/lib/facts.ts`, also plain Node. A fact is
+`{ value, asOf?, source }`. Most are **derived** from committed data
+(`commons.seats`, `commons.majority`, `senate.seats`, `pm.name`, `gg.name`,
+`monarch.name`, `premier.<province-slug>.name`, `population.canada`, …); the few
+that can't be derived sit in `content/facts.yaml` with an `asOf` date, a `source`
+and a `# check:` comment.
+
+In markdown, write `{{commons.seats}}`. The `facts` hast plugin
+(`src/plugins/facts.ts`) replaces placeholders in text (including Mermaid sources)
+before the other plugins run. `resolveFacts()` does the same for front-matter
+strings (`title`, `summary`) in layouts, the search index and widgets. An unknown
+key is a build error and a `validate` error. Numbers render with `en-CA` grouping;
+`{{key|raw}}` gives the bare value.
+
+Rule of thumb: if a re-run of a `pnpm data:*` script or an election could make a
+sentence false, the changing part should be a fact.
+
 ## Checks
 
 ```bash
 pnpm check      # types, including .astro files
-pnpm validate   # internal links, quiz references
+pnpm validate   # internal links, quiz references, entity ids, fact keys
 pnpm build      # full static build (also validates all front matter and data)
 ```
 
