@@ -51,10 +51,10 @@ const Name = withArticle(name).replace(/^the/, "The");
     ]}
   />
   <tn-chart class="pp-parties mt-3" data-tip-place="side" role="group" aria-label={`Seats and votes by party in ${withArticle(name)}, 2025. Use the arrow keys to move between parties.`}>
-    <ul class="space-y-2.5">
+    <div class="space-y-2.5">
       {
         e.parties.map((x) => (
-          <li
+          <div
             class="grid grid-cols-[6.5rem_minmax(0,1fr)] items-center gap-x-3 sm:grid-cols-[9rem_minmax(0,1fr)]"
             data-tip=""
             data-tip-title={x.party === "other" ? PARTIES.other.nameEn : PARTIES[x.party].nameEn}
@@ -77,10 +77,10 @@ const Name = withArticle(name).replace(/^the/, "The");
                 <span class="shrink-0 text-xs text-secondary tabular-nums">{pct(x.share)}</span>
               </span>
             </span>
-          </li>
+          </div>
         ))
       }
-    </ul>
+    </div>
     <ChartTip />
   </tn-chart>
   <p class="mt-4 text-xs text-muted">

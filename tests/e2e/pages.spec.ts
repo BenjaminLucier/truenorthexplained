@@ -21,14 +21,6 @@ const THEMES: Theme[] = ["light", "dark"];
  * it is not checked against, with the reason. Keep this list short.
  */
 const AXE_EXCLUDE: { rule: string; selector: string; why: string }[] = [
-  {
-    // TODO: remove once src/plugins/markdown.ts (mermaidDiagrams) gives each
-    // diagram an accessible name or drops role="img". That file is owned by
-    // concurrent work, so the fix is described in the test report instead.
-    rule: "svg-img-alt",
-    selector: "#mermaid-",
-    why: 'Mermaid diagrams are rendered as <svg role="img"> with no accessible name (build-time plugin).',
-  },
 ];
 
 for (const path of builtPages()) {

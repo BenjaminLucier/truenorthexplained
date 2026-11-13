@@ -159,7 +159,7 @@ const idOf = (key: string) => `in-numbers-${key}`;
     background: color-mix(in srgb, var(--c) 30%, transparent);
     box-shadow: inset 0 0 0 1px var(--c);
   }
-  .pp-parties li {
+  .pp-parties [data-tip] {
     border-radius: 0.375rem;
     transition: opacity 120ms ease-out;
   }
@@ -167,7 +167,7 @@ const idOf = (key: string) => `in-numbers-${key}`;
     opacity: 0.5;
   }
   @media (prefers-reduced-motion: reduce) {
-    .pp-parties li {
+    .pp-parties [data-tip] {
       transition: none;
     }
   }

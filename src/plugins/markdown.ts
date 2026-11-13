@@ -134,10 +134,13 @@ export const mermaidDiagrams = defineHastPlugin({
         },
       });
       if (result?.status !== "fulfilled") {
-        ctx.report({ message: `Mermaid diagram failed to render: ${String(result?.reason)}`, node, severity: "error" });
-        return;
+        const message = `Mermaid diagram failed to render: ${String(result?.reason)}`;
+        ctx.report({ message, node, severity: "error" });
+        // Sätteri collects reports without failing the compile, so throw as well.
+        throw new Error(message);
       }
-      const svg = result.value.svg.replace("<svg", `<svg role="img"`);
+      // A group, not an image: the labels are real text, so screen readers can read them.
+      const svg = result.value.svg.replace("<svg", `<svg role="group" aria-label="Diagram"`);
       ctx.replaceNode(node, {
         type: "element",
         tagName: "figure",
