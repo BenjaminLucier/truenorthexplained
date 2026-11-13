@@ -11,7 +11,8 @@
     "notes": [
       "census: population counted by each census, 1851–1971, in that census's boundaries. Newfoundland joined in 1949.",
       "estimates: July 1 population estimates, 1946 (1951 for the territories) to the latest year. Estimates adjust for people the census missed, so they run a little higher than census counts.",
-      "Before 1999, figures for the Northwest Territories include what is now Nunavut."
+      "Census figures are in each census's own boundaries: the Northwest Territories of 1871–1901 covered much of today's Prairies and North.",
+      "Estimates for the Northwest Territories and Nunavut use today's boundaries from 1991. Before that, northwest-territories-including-nunavut covers the old, larger territory."
     ],
     "script": "scripts/grounding/statcan.ts",
     "fetched": "2026-11-13"
@@ -4367,170 +4368,6 @@
     ],
     "northwest-territories": [
       {
-        "year": 1951,
-        "value": 16000
-      },
-      {
-        "year": 1952,
-        "value": 16000
-      },
-      {
-        "year": 1953,
-        "value": 16000
-      },
-      {
-        "year": 1954,
-        "value": 17000
-      },
-      {
-        "year": 1955,
-        "value": 18000
-      },
-      {
-        "year": 1956,
-        "value": 19000
-      },
-      {
-        "year": 1957,
-        "value": 19000
-      },
-      {
-        "year": 1958,
-        "value": 20000
-      },
-      {
-        "year": 1959,
-        "value": 21000
-      },
-      {
-        "year": 1960,
-        "value": 22000
-      },
-      {
-        "year": 1961,
-        "value": 23000
-      },
-      {
-        "year": 1962,
-        "value": 25000
-      },
-      {
-        "year": 1963,
-        "value": 26000
-      },
-      {
-        "year": 1964,
-        "value": 27000
-      },
-      {
-        "year": 1965,
-        "value": 28000
-      },
-      {
-        "year": 1966,
-        "value": 29000
-      },
-      {
-        "year": 1967,
-        "value": 29000
-      },
-      {
-        "year": 1968,
-        "value": 30000
-      },
-      {
-        "year": 1969,
-        "value": 31000
-      },
-      {
-        "year": 1970,
-        "value": 33000
-      },
-      {
-        "year": 1971,
-        "value": 36398
-      },
-      {
-        "year": 1972,
-        "value": 38771
-      },
-      {
-        "year": 1973,
-        "value": 40753
-      },
-      {
-        "year": 1974,
-        "value": 41131
-      },
-      {
-        "year": 1975,
-        "value": 42849
-      },
-      {
-        "year": 1976,
-        "value": 44324
-      },
-      {
-        "year": 1977,
-        "value": 44479
-      },
-      {
-        "year": 1978,
-        "value": 45264
-      },
-      {
-        "year": 1979,
-        "value": 45763
-      },
-      {
-        "year": 1980,
-        "value": 46393
-      },
-      {
-        "year": 1981,
-        "value": 47414
-      },
-      {
-        "year": 1982,
-        "value": 49331
-      },
-      {
-        "year": 1983,
-        "value": 50760
-      },
-      {
-        "year": 1984,
-        "value": 52328
-      },
-      {
-        "year": 1985,
-        "value": 54209
-      },
-      {
-        "year": 1986,
-        "value": 54651
-      },
-      {
-        "year": 1987,
-        "value": 55009
-      },
-      {
-        "year": 1988,
-        "value": 55809
-      },
-      {
-        "year": 1989,
-        "value": 57226
-      },
-      {
-        "year": 1990,
-        "value": 58937
-      },
-      {
-        "year": 1991,
-        "value": 60878
-      },
-      {
         "year": 1991,
         "value": 38724
       },
@@ -4819,6 +4656,172 @@
       {
         "year": 2026,
         "value": 43091
+      }
+    ],
+    "northwest-territories-including-nunavut": [
+      {
+        "year": 1951,
+        "value": 16000
+      },
+      {
+        "year": 1952,
+        "value": 16000
+      },
+      {
+        "year": 1953,
+        "value": 16000
+      },
+      {
+        "year": 1954,
+        "value": 17000
+      },
+      {
+        "year": 1955,
+        "value": 18000
+      },
+      {
+        "year": 1956,
+        "value": 19000
+      },
+      {
+        "year": 1957,
+        "value": 19000
+      },
+      {
+        "year": 1958,
+        "value": 20000
+      },
+      {
+        "year": 1959,
+        "value": 21000
+      },
+      {
+        "year": 1960,
+        "value": 22000
+      },
+      {
+        "year": 1961,
+        "value": 23000
+      },
+      {
+        "year": 1962,
+        "value": 25000
+      },
+      {
+        "year": 1963,
+        "value": 26000
+      },
+      {
+        "year": 1964,
+        "value": 27000
+      },
+      {
+        "year": 1965,
+        "value": 28000
+      },
+      {
+        "year": 1966,
+        "value": 29000
+      },
+      {
+        "year": 1967,
+        "value": 29000
+      },
+      {
+        "year": 1968,
+        "value": 30000
+      },
+      {
+        "year": 1969,
+        "value": 31000
+      },
+      {
+        "year": 1970,
+        "value": 33000
+      },
+      {
+        "year": 1971,
+        "value": 36398
+      },
+      {
+        "year": 1972,
+        "value": 38771
+      },
+      {
+        "year": 1973,
+        "value": 40753
+      },
+      {
+        "year": 1974,
+        "value": 41131
+      },
+      {
+        "year": 1975,
+        "value": 42849
+      },
+      {
+        "year": 1976,
+        "value": 44324
+      },
+      {
+        "year": 1977,
+        "value": 44479
+      },
+      {
+        "year": 1978,
+        "value": 45264
+      },
+      {
+        "year": 1979,
+        "value": 45763
+      },
+      {
+        "year": 1980,
+        "value": 46393
+      },
+      {
+        "year": 1981,
+        "value": 47414
+      },
+      {
+        "year": 1982,
+        "value": 49331
+      },
+      {
+        "year": 1983,
+        "value": 50760
+      },
+      {
+        "year": 1984,
+        "value": 52328
+      },
+      {
+        "year": 1985,
+        "value": 54209
+      },
+      {
+        "year": 1986,
+        "value": 54651
+      },
+      {
+        "year": 1987,
+        "value": 55009
+      },
+      {
+        "year": 1988,
+        "value": 55809
+      },
+      {
+        "year": 1989,
+        "value": 57226
+      },
+      {
+        "year": 1990,
+        "value": 58937
+      },
+      {
+        "year": 1991,
+        "value": 60878
       }
     ]
   }

@@ -1,0 +1,135 @@
+---
+/**
+ * A build-time SVG timeline of terms in office, split into rows ("eras") so
+ * short terms stay visible on a phone. Positions are percentages, so the
+ * chart stretches to any width while its text keeps its real size. Each
+ * segment is a link (usually to its row in a table below), so the chart works
+ * by keyboard and screen reader, with or without JavaScript.
+ */
+import { buildDate, yearFraction } from "../../lib/reference";
+
+export interface Segment {
+  start: string;
+  /** null = still in office (drawn to the build date). */
+  end: string | null;
+  /** Short text drawn inside the bar when it's wide enough, e.g. "24". */
+  label: string;
+  /** Full description for the link and tooltip. */
+  title: string;
+  href: string;
+  /** Tailwind fill class, e.g. "fill-party-lpc". */
+  fill: string;
+}
+
+interface Props {
+  segments: Segment[];
+  /** Rows as [startYear, endYear). All rows share one scale. */
+  eras: [number, number][];
+  /** Minimum length in years for a segment to get an inline label. */
+  labelMinYears?: number;
+  label: string;
+}
+
+const { segments, eras, labelMinYears = 3, label } = Astro.props;
+const now = yearFraction(buildDate);
+const BAR_Y = 6;
+const BAR_H = 30;
+const HEIGHT = 58;
+
+const rows = eras.map(([from, to]) => {
+  const span = to - from;
+  const x = (year: number) => ((year - from) / span) * 100;
+  const items = segments
+    .map((s) => {
+      const a = Math.max(yearFraction(s.start), from);
+      const b = Math.min(s.end ? yearFraction(s.end) : now, to);
+      return { ...s, a, b };
+    })
+    .filter((s) => s.b > s.a)
+    .map((s) => ({
+      ...s,
+      x: x(s.a),
+      // At least a hairline, so the shortest terms (69 days) still show.
+      w: Math.max(x(s.b) - x(s.a), 0.35),
+      showLabel: s.b - s.a >= labelMinYears,
+      // Labels for segments split across two rows go on the larger piece only.
+    }));
+  const ticks: number[] = [];
+  for (let y = Math.ceil(from / 10) * 10; y < to; y += 10) ticks.push(y);
+  return { from, to, items, ticks, x, nowX: now >= from && now < to ? x(now) : null };
+});
+---
+
+<div class="tn-term-timeline space-y-1" role="group" aria-label={label}>
+  {
+    rows.map((row) => (
+      <svg class="block w-full overflow-visible" height={HEIGHT} aria-label={`${row.from} to ${row.to}`} role="group">
+        <rect x="0" y={BAR_Y} width="100%" height={BAR_H} rx="4" class="fill-surface-sunken" />
+        {row.items.map((s) => (
+          <a href={s.href} aria-label={s.title}>
+            <title>{s.title}</title>
+            <rect
+              x={`${s.x.toFixed(3)}%`}
+              y={BAR_Y}
+              width={`${s.w.toFixed(3)}%`}
+              height={BAR_H}
+              class:list={["segment stroke-surface", s.fill]}
+              stroke-width="1.5"
+            />
+            {s.showLabel && (
+              <text
+                x={`${(s.x + s.w / 2).toFixed(3)}%`}
+                y={BAR_Y + BAR_H / 2}
+                dy="0.35em"
+                text-anchor="middle"
+                class="pointer-events-none fill-accent-contrast text-xs font-semibold tabular-nums"
+              >
+                {s.label}
+              </text>
+            )}
+          </a>
+        ))}
+        {row.ticks.map((t) => (
+          <g aria-hidden="true">
+            <line x1={`${row.x(t)}%`} x2={`${row.x(t)}%`} y1={BAR_Y + BAR_H} y2={BAR_Y + BAR_H + 5} class="stroke-strong" />
+            <text
+              x={`${row.x(t)}%`}
+              y={HEIGHT - 4}
+              text-anchor={t === row.from ? "start" : "middle"}
+              class="fill-muted text-[11px] tabular-nums"
+            >
+              {t}
+            </text>
+          </g>
+        ))}
+        {row.nowX !== null && (
+          <g aria-hidden="true">
+            <line
+              x1={`${row.nowX}%`}
+              x2={`${row.nowX}%`}
+              y1={BAR_Y - 4}
+              y2={BAR_Y + BAR_H + 4}
+              class="stroke-primary"
+              stroke-width="1.5"
+              stroke-dasharray="3 2"
+            />
+            <text x={`${row.nowX}%`} y={HEIGHT - 4} text-anchor={row.nowX > 92 ? "end" : "middle"} class="fill-primary text-[11px] font-semibold">
+              Today
+            </text>
+          </g>
+        )}
+      </svg>
+    ))
+  }
+</div>
+
+<style>
+  .tn-term-timeline a {
+    text-decoration: none;
+  }
+  .tn-term-timeline a:focus-visible .segment,
+  .tn-term-timeline a:hover .segment {
+    stroke: var(--tn-text-primary);
+    stroke-width: 2.5px;
+  }
+</style>

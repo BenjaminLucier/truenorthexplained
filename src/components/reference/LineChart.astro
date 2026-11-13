@@ -1,0 +1,182 @@
+---
+/**
+ * Build-time SVG line (or area) chart over years. See src/lib/charts.ts for
+ * how it stretches to any width while text keeps its real size.
+ */
+import { PLOT_W, areaPath, linePath, niceMax, niceTicks, pct, scale } from "../../lib/charts";
+
+export interface Series {
+  label: string;
+  points: { year: number; value: number }[];
+  /** Tailwind stroke class, e.g. "stroke-accent". */
+  stroke: string;
+  /** Tailwind fill class for the end label and marker, e.g. "fill-accent". */
+  fill: string;
+  /** Fill the area under the line (first series only looks good). */
+  area?: boolean;
+  dashed?: boolean;
+}
+
+interface Props {
+  series: Series[];
+  /** Accessible name and longer description for the chart. */
+  title: string;
+  desc: string;
+  height?: number;
+  xMin?: number;
+  xMax?: number;
+  yMin?: number;
+  yMax?: number;
+  yTicks?: number;
+  /** Formats y-axis labels. */
+  yFormat?: (v: number) => string;
+  /** Years to label on the x-axis. Defaults to a sensible set. */
+  xTicks?: number[];
+  /** Vertical marker lines, e.g. a change of source. */
+  markers?: { year: number; label: string }[];
+  /** Label the last value of each series at the right edge. */
+  endLabels?: boolean;
+  /** Formats end labels. */
+  endFormat?: (v: number) => string;
+}
+
+const {
+  series,
+  title,
+  desc,
+  height = 240,
+  yTicks = 4,
+  yFormat = (v: number) => String(v),
+  markers = [],
+  endLabels = false,
+  endFormat = yFormat,
+} = Astro.props;
+
+const all = series.flatMap((s) => s.points);
+const xMin = Astro.props.xMin ?? Math.min(...all.map((p) => p.year));
+const xMax = Astro.props.xMax ?? Math.max(...all.map((p) => p.year));
+const yMin = Astro.props.yMin ?? 0;
+const yMax = Astro.props.yMax ?? niceMax(Math.max(...all.map((p) => p.value)), yTicks);
+
+const TOP = 18; // room for the top gridline label
+const BOTTOM = 22; // x-axis labels
+const plotH = height - TOP - BOTTOM;
+const x = scale(xMin, xMax, 0, PLOT_W);
+const y = scale(yMin, yMax, plotH, 0);
+const gridValues = niceTicks(yMin, yMax, yTicks).filter((v) => v >= yMin && v <= yMax);
+
+const span = xMax - xMin;
+const step = span > 120 ? 25 : span > 60 ? 20 : span > 30 ? 10 : 5;
+const xTicks =
+  Astro.props.xTicks ??
+  (() => {
+    const t: number[] = [];
+    for (let v = Math.ceil(xMin / step) * step; v <= xMax; v += step) t.push(v);
+    return t;
+  })();
+
+// A stable id from the title, so builds are reproducible.
+const id = `chart-${[...title + desc].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7).toString(36)}`;
+const paths = series.map((s) => {
+  const pts = s.points
+    .filter((p) => p.year >= xMin && p.year <= xMax)
+    .map((p) => [x(p.year), y(p.value)] as [number, number]);
+  const last = s.points.filter((p) => p.year <= xMax).at(-1);
+  return { ...s, d: linePath(pts), area: s.area ? areaPath(pts, plotH) : null, last };
+});
+---
+
+<svg
+  class="block w-full overflow-visible"
+  height={height}
+  role="img"
+  aria-labelledby={`${id}-t ${id}-d`}
+  style="font-variant-numeric: tabular-nums"
+>
+  <title id={`${id}-t`}>{title}</title>
+  <desc id={`${id}-d`}>{desc}</desc>
+  {
+    gridValues.map((v) => (
+      <g>
+        <line x1="0" x2="100%" y1={TOP + y(v)} y2={TOP + y(v)} class:list={[v === yMin ? "stroke-strong" : "stroke-subtle"]} />
+        {v !== yMin && (
+          <text x="0" y={TOP + y(v) - 5} class="fill-muted text-[11px]">
+            {yFormat(v)}
+          </text>
+        )}
+      </g>
+    ))
+  }
+  {
+    markers.map((m) => (
+      <g>
+        <line
+          x1={pct(x(m.year))}
+          x2={pct(x(m.year))}
+          y1={TOP}
+          y2={TOP + plotH}
+          class="stroke-strong"
+          stroke-dasharray="3 3"
+        />
+        <text
+          x={pct(x(m.year))}
+          dx={x(m.year) > PLOT_W * 0.6 ? -4 : 4}
+          y={TOP + 12}
+          text-anchor={x(m.year) > PLOT_W * 0.6 ? "end" : "start"}
+          class="fill-muted text-[11px]"
+        >
+          {m.label}
+        </text>
+      </g>
+    ))
+  }
+  <svg x="0" y={TOP} width="100%" height={plotH} viewBox={`0 0 ${PLOT_W} ${plotH}`} preserveAspectRatio="none" overflow="visible">
+    {paths.map((p) => p.area && <path d={p.area} class={p.fill} fill-opacity="0.12" stroke="none" />)}
+    {
+      paths.map((p) => (
+        <path
+          d={p.d}
+          class={p.stroke}
+          fill="none"
+          stroke-width="2"
+          stroke-linejoin="round"
+          stroke-linecap="round"
+          vector-effect="non-scaling-stroke"
+          stroke-dasharray={p.dashed ? "5 4" : undefined}
+        />
+      ))
+    }
+  </svg>
+  {
+    endLabels &&
+      paths.map(
+        (p) =>
+          p.last && (
+            <g>
+              <circle cx={pct(x(p.last.year))} cy={TOP + y(p.last.value)} r="3.5" class={p.fill} />
+              <text
+                x={pct(x(p.last.year))}
+                dx="-8"
+                y={TOP + y(p.last.value) - 8}
+                text-anchor="end"
+                class:list={["text-xs font-semibold", p.fill]}
+              >
+                {endFormat(p.last.value)}
+              </text>
+            </g>
+          ),
+      )
+  }
+  {
+    xTicks.map((t, i) => (
+      <text
+        x={pct(x(t))}
+        y={height - 4}
+        text-anchor={i === 0 && x(t) < 30 ? "start" : i === xTicks.length - 1 && x(t) > PLOT_W - 30 ? "end" : "middle"}
+        class="fill-muted text-[11px]"
+      >
+        {t}
+      </text>
+    ))
+  }
+</svg>

@@ -6,7 +6,7 @@
     "licenceUrl": "https://www.statcan.gc.ca/en/reference/licence",
     "notes": [
       "Shares are percentages of the total population on July 1.",
-      "Before 1999, figures for the Northwest Territories include what is now Nunavut."
+      "Figures for the Northwest Territories and Nunavut use today's boundaries from 1991. Before that, northwest-territories-including-nunavut covers the old, larger territory."
     ],
     "script": "scripts/grounding/statcan.ts",
     "fetched": "2026-11-13"
@@ -2784,86 +2784,6 @@
     ],
     "northwest-territories": [
       {
-        "year": 1971,
-        "value": 19.8
-      },
-      {
-        "year": 1972,
-        "value": 19.9
-      },
-      {
-        "year": 1973,
-        "value": 20.2
-      },
-      {
-        "year": 1974,
-        "value": 20.4
-      },
-      {
-        "year": 1975,
-        "value": 20.7
-      },
-      {
-        "year": 1976,
-        "value": 21.1
-      },
-      {
-        "year": 1977,
-        "value": 21.2
-      },
-      {
-        "year": 1978,
-        "value": 21.4
-      },
-      {
-        "year": 1979,
-        "value": 21.7
-      },
-      {
-        "year": 1980,
-        "value": 21.9
-      },
-      {
-        "year": 1981,
-        "value": 22.3
-      },
-      {
-        "year": 1982,
-        "value": 22.6
-      },
-      {
-        "year": 1983,
-        "value": 22.8
-      },
-      {
-        "year": 1984,
-        "value": 23.3
-      },
-      {
-        "year": 1985,
-        "value": 23.6
-      },
-      {
-        "year": 1986,
-        "value": 24
-      },
-      {
-        "year": 1987,
-        "value": 24.2
-      },
-      {
-        "year": 1988,
-        "value": 24.3
-      },
-      {
-        "year": 1989,
-        "value": 24.5
-      },
-      {
-        "year": 1990,
-        "value": 24.7
-      },
-      {
         "year": 1991,
         "value": 26.9
       },
@@ -3152,6 +3072,88 @@
       {
         "year": 2026,
         "value": 27.6
+      }
+    ],
+    "northwest-territories-including-nunavut": [
+      {
+        "year": 1971,
+        "value": 19.8
+      },
+      {
+        "year": 1972,
+        "value": 19.9
+      },
+      {
+        "year": 1973,
+        "value": 20.2
+      },
+      {
+        "year": 1974,
+        "value": 20.4
+      },
+      {
+        "year": 1975,
+        "value": 20.7
+      },
+      {
+        "year": 1976,
+        "value": 21.1
+      },
+      {
+        "year": 1977,
+        "value": 21.2
+      },
+      {
+        "year": 1978,
+        "value": 21.4
+      },
+      {
+        "year": 1979,
+        "value": 21.7
+      },
+      {
+        "year": 1980,
+        "value": 21.9
+      },
+      {
+        "year": 1981,
+        "value": 22.3
+      },
+      {
+        "year": 1982,
+        "value": 22.6
+      },
+      {
+        "year": 1983,
+        "value": 22.8
+      },
+      {
+        "year": 1984,
+        "value": 23.3
+      },
+      {
+        "year": 1985,
+        "value": 23.6
+      },
+      {
+        "year": 1986,
+        "value": 24
+      },
+      {
+        "year": 1987,
+        "value": 24.2
+      },
+      {
+        "year": 1988,
+        "value": 24.3
+      },
+      {
+        "year": 1989,
+        "value": 24.5
+      },
+      {
+        "year": 1990,
+        "value": 24.7
       }
     ]
   },
@@ -5870,86 +5872,6 @@
     ],
     "northwest-territories": [
       {
-        "year": 1971,
-        "value": 41.8
-      },
-      {
-        "year": 1972,
-        "value": 41.4
-      },
-      {
-        "year": 1973,
-        "value": 40.5
-      },
-      {
-        "year": 1974,
-        "value": 39.9
-      },
-      {
-        "year": 1975,
-        "value": 38.8
-      },
-      {
-        "year": 1976,
-        "value": 37.7
-      },
-      {
-        "year": 1977,
-        "value": 37.1
-      },
-      {
-        "year": 1978,
-        "value": 36.4
-      },
-      {
-        "year": 1979,
-        "value": 35.7
-      },
-      {
-        "year": 1980,
-        "value": 35
-      },
-      {
-        "year": 1981,
-        "value": 34.1
-      },
-      {
-        "year": 1982,
-        "value": 33.4
-      },
-      {
-        "year": 1983,
-        "value": 33.2
-      },
-      {
-        "year": 1984,
-        "value": 32.7
-      },
-      {
-        "year": 1985,
-        "value": 32.5
-      },
-      {
-        "year": 1986,
-        "value": 32
-      },
-      {
-        "year": 1987,
-        "value": 31.6
-      },
-      {
-        "year": 1988,
-        "value": 31.6
-      },
-      {
-        "year": 1989,
-        "value": 31.8
-      },
-      {
-        "year": 1990,
-        "value": 32
-      },
-      {
         "year": 1991,
         "value": 28.6
       },
@@ -6238,6 +6160,88 @@
       {
         "year": 2026,
         "value": 29.5
+      }
+    ],
+    "northwest-territories-including-nunavut": [
+      {
+        "year": 1971,
+        "value": 41.8
+      },
+      {
+        "year": 1972,
+        "value": 41.4
+      },
+      {
+        "year": 1973,
+        "value": 40.5
+      },
+      {
+        "year": 1974,
+        "value": 39.9
+      },
+      {
+        "year": 1975,
+        "value": 38.8
+      },
+      {
+        "year": 1976,
+        "value": 37.7
+      },
+      {
+        "year": 1977,
+        "value": 37.1
+      },
+      {
+        "year": 1978,
+        "value": 36.4
+      },
+      {
+        "year": 1979,
+        "value": 35.7
+      },
+      {
+        "year": 1980,
+        "value": 35
+      },
+      {
+        "year": 1981,
+        "value": 34.1
+      },
+      {
+        "year": 1982,
+        "value": 33.4
+      },
+      {
+        "year": 1983,
+        "value": 33.2
+      },
+      {
+        "year": 1984,
+        "value": 32.7
+      },
+      {
+        "year": 1985,
+        "value": 32.5
+      },
+      {
+        "year": 1986,
+        "value": 32
+      },
+      {
+        "year": 1987,
+        "value": 31.6
+      },
+      {
+        "year": 1988,
+        "value": 31.6
+      },
+      {
+        "year": 1989,
+        "value": 31.8
+      },
+      {
+        "year": 1990,
+        "value": 32
       }
     ]
   },
@@ -8956,86 +8960,6 @@
     ],
     "northwest-territories": [
       {
-        "year": 1971,
-        "value": 2.3
-      },
-      {
-        "year": 1972,
-        "value": 2.3
-      },
-      {
-        "year": 1973,
-        "value": 2.3
-      },
-      {
-        "year": 1974,
-        "value": 2.4
-      },
-      {
-        "year": 1975,
-        "value": 2.6
-      },
-      {
-        "year": 1976,
-        "value": 2.7
-      },
-      {
-        "year": 1977,
-        "value": 2.8
-      },
-      {
-        "year": 1978,
-        "value": 2.8
-      },
-      {
-        "year": 1979,
-        "value": 2.8
-      },
-      {
-        "year": 1980,
-        "value": 2.9
-      },
-      {
-        "year": 1981,
-        "value": 3
-      },
-      {
-        "year": 1982,
-        "value": 2.9
-      },
-      {
-        "year": 1983,
-        "value": 2.9
-      },
-      {
-        "year": 1984,
-        "value": 2.9
-      },
-      {
-        "year": 1985,
-        "value": 2.8
-      },
-      {
-        "year": 1986,
-        "value": 2.9
-      },
-      {
-        "year": 1987,
-        "value": 3
-      },
-      {
-        "year": 1988,
-        "value": 3
-      },
-      {
-        "year": 1989,
-        "value": 2.9
-      },
-      {
-        "year": 1990,
-        "value": 2.8
-      },
-      {
         "year": 1991,
         "value": 3.1
       },
@@ -9324,6 +9248,88 @@
       {
         "year": 2026,
         "value": 5.5
+      }
+    ],
+    "northwest-territories-including-nunavut": [
+      {
+        "year": 1971,
+        "value": 2.3
+      },
+      {
+        "year": 1972,
+        "value": 2.3
+      },
+      {
+        "year": 1973,
+        "value": 2.3
+      },
+      {
+        "year": 1974,
+        "value": 2.4
+      },
+      {
+        "year": 1975,
+        "value": 2.6
+      },
+      {
+        "year": 1976,
+        "value": 2.7
+      },
+      {
+        "year": 1977,
+        "value": 2.8
+      },
+      {
+        "year": 1978,
+        "value": 2.8
+      },
+      {
+        "year": 1979,
+        "value": 2.8
+      },
+      {
+        "year": 1980,
+        "value": 2.9
+      },
+      {
+        "year": 1981,
+        "value": 3
+      },
+      {
+        "year": 1982,
+        "value": 2.9
+      },
+      {
+        "year": 1983,
+        "value": 2.9
+      },
+      {
+        "year": 1984,
+        "value": 2.9
+      },
+      {
+        "year": 1985,
+        "value": 2.8
+      },
+      {
+        "year": 1986,
+        "value": 2.9
+      },
+      {
+        "year": 1987,
+        "value": 3
+      },
+      {
+        "year": 1988,
+        "value": 3
+      },
+      {
+        "year": 1989,
+        "value": 2.9
+      },
+      {
+        "year": 1990,
+        "value": 2.8
       }
     ]
   }

@@ -1,0 +1,189 @@
+---
+/**
+ * Prime ministers of Canada, from src/data/wikidata/prime-ministers.json.
+ *
+ *   <tn-widget name="prime-ministers" data-part="timeline"></tn-widget>
+ *   <tn-widget name="prime-ministers" data-part="table"></tn-widget>
+ *   <tn-widget name="prime-ministers" data-part="stats"></tn-widget>
+ *
+ * Colours: each term takes the colour family of its party (see `parties` in
+ * the dataset): Liberal → party-lpc; Liberal-Conservative, Conservative
+ * (1867–1942), Unionist, Progressive Conservative and Conservative (2003–)
+ * → party-cpc.
+ */
+import TermTimeline, { type Segment } from "../../components/reference/TermTimeline.astro";
+import {
+  buildDate,
+  formatDate,
+  formatDuration,
+  inOffice,
+  partyFamily,
+  primeMinisters,
+  termDays,
+  totalDays,
+  type PartyFamily,
+} from "../../lib/reference";
+
+interface Props {
+  part?: "timeline" | "table" | "stats";
+}
+const { part = "timeline" } = Astro.props;
+
+const fill: Record<PartyFamily, string> = { lpc: "fill-party-lpc", cpc: "fill-party-cpc" };
+const swatch: Record<PartyFamily, string> = { lpc: "bg-party-lpc", cpc: "bg-party-cpc" };
+const familyLabel: Record<PartyFamily, string> = {
+  lpc: "Liberal",
+  cpc: "Conservative and its predecessors",
+};
+
+const range = (t: { start: string; end: string | null }) =>
+  `${formatDate(t.start, "short")} – ${t.end ? formatDate(t.end, "short") : "present"}`;
+
+const segments: Segment[] = primeMinisters.flatMap((pm) =>
+  pm.terms.map((t) => ({
+    start: t.start,
+    end: t.end,
+    label: String(pm.ordinal),
+    title: `${pm.ordinal}. ${pm.name}, ${t.parties.join(" / ")}, ${range(t)}`,
+    href: `#pm-${pm.ordinal}`,
+    fill: fill[partyFamily(t)],
+  })),
+);
+
+// Key numbers
+const byLength = [...primeMinisters].sort((a, b) => totalDays(b.terms) - totalDays(a.terms));
+const longest = byLength[0]!;
+const shortest = byLength.at(-1)!;
+const yearsBy = (fam: PartyFamily) =>
+  primeMinisters.flatMap((pm) => pm.terms).filter((t) => partyFamily(t) === fam).reduce((n, t) => n + termDays(t), 0) / 365.25;
+const totalYears = yearsBy("lpc") + yearsBy("cpc");
+const termCount = primeMinisters.reduce((n, pm) => n + pm.terms.length, 0);
+const returned = primeMinisters.filter((pm) => pm.terms.length > 1);
+const current = primeMinisters.find(inOffice);
+---
+
+{
+  part === "timeline" && (
+    <figure class="not-prose my-8">
+      <div class="mb-4 flex flex-wrap gap-x-5 gap-y-2 text-sm text-secondary" aria-hidden="true">
+        {(["lpc", "cpc"] as const).map((f) => (
+          <span class="inline-flex items-center gap-2">
+            <span class:list={["size-3 rounded-sm", swatch[f]]} />
+            {familyLabel[f]}
+          </span>
+        ))}
+      </div>
+      <TermTimeline
+        segments={segments}
+        eras={[
+          [1867, 1907],
+          [1907, 1947],
+          [1947, 1987],
+          [1987, 2027],
+        ]}
+        label="Timeline of prime ministers, 1867 to today. Each bar links to that prime minister's row in the table."
+      />
+      <figcaption class="mt-3 text-sm text-muted">
+        Each bar is one term in office, numbered by prime minister and coloured by party family. Select a bar to jump to
+        the details. Source: Wikidata, as of {formatDate(buildDate)}.
+      </figcaption>
+    </figure>
+  )
+}
+
+{
+  part === "stats" && (
+    <dl class="not-prose my-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+      <div class="rounded-card border border-subtle bg-surface p-4">
+        <dt class="text-sm text-muted">Prime ministers</dt>
+        <dd class="mt-1 text-2xl font-bold text-primary tabular-nums">{primeMinisters.length}</dd>
+        <dd class="mt-1 text-sm text-secondary">
+          in {termCount} separate terms; {returned.length} came back for a second or third
+        </dd>
+      </div>
+      <div class="rounded-card border border-subtle bg-surface p-4">
+        <dt class="text-sm text-muted">Longest in office</dt>
+        <dd class="mt-1 text-lg font-bold text-primary">{longest.name}</dd>
+        <dd class="mt-1 text-sm text-secondary">{formatDuration(totalDays(longest.terms))}, over {longest.terms.length} terms</dd>
+      </div>
+      <div class="rounded-card border border-subtle bg-surface p-4">
+        <dt class="text-sm text-muted">Shortest in office</dt>
+        <dd class="mt-1 text-lg font-bold text-primary">{shortest.name}</dd>
+        <dd class="mt-1 text-sm text-secondary">{formatDuration(totalDays(shortest.terms))}</dd>
+      </div>
+      <div class="rounded-card border border-subtle bg-surface p-4">
+        <dt class="text-sm text-muted">Years in power since 1867</dt>
+        <dd class="mt-1 text-lg font-bold text-primary tabular-nums">
+          {Math.round((100 * yearsBy("lpc")) / totalYears)}% Liberal
+        </dd>
+        <dd class="mt-1 text-sm text-secondary">
+          {Math.round((100 * yearsBy("cpc")) / totalYears)}% Conservative and predecessors
+        </dd>
+      </div>
+    </dl>
+  )
+}
+
+{
+  part === "table" && (
+    <div class="not-prose my-8 overflow-x-auto rounded-lg border border-subtle">
+      <table class="w-full min-w-[40rem] text-sm">
+        <caption class="sr-only">
+          Every prime minister of Canada, with party, dates in office and total time in office
+          {current && `. ${current.name} is the current prime minister`}.
+        </caption>
+        <thead class="bg-surface-muted text-start text-primary">
+          <tr>
+            <th scope="col" class="px-3 py-2 ps-4 text-end font-semibold">No.</th>
+            <th scope="col" class="px-3 py-2 text-start font-semibold">Prime minister</th>
+            <th scope="col" class="px-3 py-2 text-start font-semibold">Party</th>
+            <th scope="col" class="px-3 py-2 text-start font-semibold">In office</th>
+            <th scope="col" class="px-3 py-2 pe-4 text-start font-semibold">Time in office</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-subtle text-secondary">
+          {primeMinisters.map((pm) => {
+            const fams = [...new Set(pm.terms.map(partyFamily))];
+            return (
+              <tr id={`pm-${pm.ordinal}`} class="scroll-mt-24 align-top target:bg-accent-soft">
+                <td class="px-3 py-2.5 ps-4 text-end font-semibold text-primary tabular-nums">{pm.ordinal}</td>
+                <th scope="row" class="px-3 py-2.5 text-start font-medium text-primary">
+                  {pm.wikipedia ? (
+                    <a
+                      href={pm.wikipedia}
+                      class="underline decoration-accent/40 underline-offset-3 hover:text-accent hover:decoration-accent"
+                    >
+                      {pm.name}
+                      <span class="sr-only"> (Wikipedia)</span>
+                    </a>
+                  ) : (
+                    pm.name
+                  )}
+                  {inOffice(pm) && (
+                    <span class="ms-2 rounded-full bg-accent-soft px-2 py-0.5 text-xs font-medium text-accent">Current</span>
+                  )}
+                </th>
+                <td class="px-3 py-2.5">
+                  <span class="inline-flex items-start gap-2">
+                    <span class="mt-1 flex gap-0.5" aria-hidden="true">
+                      {fams.map((f) => (
+                        <span class:list={["size-2.5 rounded-full", swatch[f]]} />
+                      ))}
+                    </span>
+                    <span>{pm.parties.join(", ")}</span>
+                  </span>
+                </td>
+                <td class="px-3 py-2.5 whitespace-nowrap tabular-nums">
+                  {pm.terms.map((t) => (
+                    <span class="block">{range(t)}</span>
+                  ))}
+                </td>
+                <td class="px-3 py-2.5 pe-4 whitespace-nowrap">{formatDuration(totalDays(pm.terms))}</td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+  )
+}

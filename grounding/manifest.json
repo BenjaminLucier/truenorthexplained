@@ -1,10 +1,10 @@
 {
   "description": "Fetch log for `pnpm grounding`. Run times live here and nowhere else, so per-page files stay diff-friendly.",
   "runs": {
-    "flags": "2026-11-13T03:54:06Z",
-    "statcan": "2026-11-13T03:55:59Z",
-    "wikidata": "2026-11-13T03:53:06Z",
-    "wikipedia": "2026-11-13T03:54:58Z"
+    "flags": "2026-11-13T04:11:21Z",
+    "statcan": "2026-11-13T04:00:51Z",
+    "wikidata": "2026-11-13T03:56:27Z",
+    "wikipedia": "2026-11-13T03:56:07Z"
   },
   "wikipedia": {
     "pages": {
@@ -1460,8 +1460,8 @@
   "statcan": {
     "age": {
       "file": "src/data/statcan/age.json",
-      "sha1": "9a563cad7d11f11e2a9ea888c796180f8a5908fe",
-      "fetched": "2026-11-13T03:55:40Z"
+      "sha1": "d032cc0f2f5ef5a9556d3daebd681e56d6b7dca2",
+      "fetched": "2026-11-13T04:00:51Z"
     },
     "immigration": {
       "file": "src/data/statcan/immigration.json",
@@ -1470,8 +1470,8 @@
     },
     "population": {
       "file": "src/data/statcan/population.json",
-      "sha1": "9cd977b91633e6829c9f7074330b1c120a06f3d4",
-      "fetched": "2026-11-13T03:55:40Z"
+      "sha1": "aa2e3aa9217093a4dc37dd42bf1c0f975396d978",
+      "fetched": "2026-11-13T04:00:51Z"
     }
   }
 }

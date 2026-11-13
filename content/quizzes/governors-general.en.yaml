@@ -1,0 +1,104 @@
+# Question bank: Monarchs and governors general (reference page)
+# Format: see SITEMAP.md, section "Quizzes".
+
+- id: governors-general-appointed
+  pages: [governors-general]
+  tags: [governor-general]
+  type: single
+  question: How is the Governor General chosen?
+  options:
+    - Elected by Parliament
+    - Appointed by the King on the Prime Minister's advice
+    - Chosen by the provincial premiers
+    - Appointed by the Prime Minister alone, without the King
+  answer: 1
+  explanation: >
+    The King appoints the Governor General, acting on the advice of the Prime Minister
+    of Canada.
+  source: https://www.gg.ca/en/governor-general/role-and-responsibilities
+
+- id: governors-general-term
+  pages: [governors-general]
+  tags: [governor-general]
+  type: true-false
+  question: The Governor General serves a fixed five-year term set by law.
+  answer: false
+  explanation: >
+    There is no fixed term. By custom most governors general serve about five years,
+    but some have served longer or shorter.
+  source: https://www.canada.ca/en/canadian-heritage/services/crown-canada.html
+
+- id: governors-general-administrator
+  pages: [governors-general]
+  tags: [governor-general, courts]
+  type: single
+  question: When the office of Governor General is vacant, who can exercise its powers?
+  options:
+    - The Prime Minister
+    - The Speaker of the Senate
+    - The Chief Justice of Canada, as Administrator of the Government of Canada
+    - The Lieutenant Governor of Ontario
+  answer: 2
+  explanation: >
+    The Chief Justice serves as Administrator. That happened most recently in 2021,
+    between Julie Payette's resignation in January and Mary Simon's installation in July.
+  source: https://en.wikipedia.org/wiki/Administrator_of_the_Government_of_Canada
+
+- id: governors-general-first-canadian
+  pages: [governors-general]
+  tags: [governor-general, history]
+  type: single
+  question: Who was the first Canadian-born Governor General?
+  options:
+    - Georges Vanier
+    - Vincent Massey
+    - Roland Michener
+    - Jeanne Sauvé
+  answer: 1
+  explanation: >
+    Vincent Massey, appointed in 1952, was the first Governor General born in Canada.
+    Every earlier holder came from Britain.
+  source: https://en.wikipedia.org/wiki/Vincent_Massey
+
+- id: governors-general-first-woman
+  pages: [governors-general]
+  tags: [governor-general, history]
+  type: single
+  question: Who was the first woman to serve as Governor General?
+  options:
+    - Adrienne Clarkson
+    - Michaëlle Jean
+    - Jeanne Sauvé
+    - Julie Payette
+  answer: 2
+  explanation: >
+    Jeanne Sauvé became Governor General in 1984. She had earlier been the first woman
+    to serve as Speaker of the House of Commons.
+  source: https://en.wikipedia.org/wiki/Jeanne_Sauv%C3%A9
+
+- id: governors-general-abdication
+  pages: [governors-general]
+  tags: [monarchy, history]
+  type: single
+  question: Which monarch of Canada gave up the throne?
+  options:
+    - Queen Victoria
+    - George V
+    - Edward VIII
+    - George VI
+  answer: 2
+  explanation: >
+    Edward VIII abdicated in December 1936, less than a year into his reign. His
+    brother became George VI.
+  source: https://en.wikipedia.org/wiki/Edward_VIII
+
+- id: governors-general-succession
+  pages: [governors-general]
+  tags: [monarchy]
+  type: true-false
+  question: When a monarch dies, the new King or Queen of Canada takes over at once, without a vote in Parliament.
+  answer: true
+  explanation: >
+    Succession is automatic: the heir becomes monarch the moment the previous monarch
+    dies or abdicates. Ceremonies such as a proclamation and a coronation come later.
+  source: https://www.canada.ca/en/canadian-heritage/services/crown-canada.html

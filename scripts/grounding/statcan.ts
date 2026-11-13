@@ -42,11 +42,12 @@ export const GEOS: { slug: string; name: string }[] = [
 ];
 const slugOf = new Map(GEOS.map((g) => [g.name, g.slug]));
 /**
- * Before Nunavut was created in 1999, StatCan reports the old, larger
- * territory as "Northwest Territories including Nunavut". We file those
- * figures under northwest-territories and say so in the dataset notes.
+ * StatCan's estimates give the Northwest Territories and Nunavut in today's
+ * boundaries from 1991, and the old, larger territory as "Northwest
+ * Territories including Nunavut" before that. The older series is kept under
+ * its own key so the two never mix.
  */
-slugOf.set("Northwest Territories including Nunavut", "northwest-territories");
+slugOf.set("Northwest Territories including Nunavut", "northwest-territories-including-nunavut");
 
 const tableUrl = (pid: string) => `https://www150.statcan.gc.ca/n1/tbl/csv/${pid}-eng.zip`;
 const tablePage = (pid: string) => `https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=${pid}01`;
@@ -79,7 +80,7 @@ function bySlug(rows: Rec[], year: (r: Rec) => number): Record<string, Point[]> 
     const slug = slugOf.get(r.GEO!);
     const v = value(r);
     if (!slug || v === null) continue;
-    out[slug]!.push({ year: year(r), value: v });
+    (out[slug] ??= []).push({ year: year(r), value: v });
   }
   for (const k of Object.keys(out)) sortPoints(out[k]!);
   return out;
@@ -152,7 +153,8 @@ export async function runStatcan(manifest: Manifest): Promise<void> {
         notes: [
           "census: population counted by each census, 1851–1971, in that census's boundaries. Newfoundland joined in 1949.",
           "estimates: July 1 population estimates, 1946 (1951 for the territories) to the latest year. Estimates adjust for people the census missed, so they run a little higher than census counts.",
-          "Before 1999, figures for the Northwest Territories include what is now Nunavut.",
+          "Census figures are in each census's own boundaries: the Northwest Territories of 1871–1901 covered much of today's Prairies and North.",
+          "Estimates for the Northwest Territories and Nunavut use today's boundaries from 1991. Before that, northwest-territories-including-nunavut covers the old, larger territory.",
         ],
         script: "scripts/grounding/statcan.ts",
       },
@@ -184,7 +186,7 @@ export async function runStatcan(manifest: Manifest): Promise<void> {
         licenceUrl: LICENCE_URL,
         notes: [
           "Shares are percentages of the total population on July 1.",
-          "Before 1999, figures for the Northwest Territories include what is now Nunavut.",
+          "Figures for the Northwest Territories and Nunavut use today's boundaries from 1991. Before that, northwest-territories-including-nunavut covers the old, larger territory.",
         ],
         script: "scripts/grounding/statcan.ts",
       },

@@ -42,6 +42,7 @@ export function plain(html: string | undefined): string | null {
     .replace(/&lt;/g, "<")
     .replace(/&gt;/g, ">")
     .replace(/\s+/g, " ")
+    .replace(/\s+([.,;:)])/g, "$1")
     .trim();
   return text || null;
 }
