@@ -408,6 +408,11 @@
    Mermaid diagrams: rendered at build time, recoloured here from tokens
    so they follow the light/dark toggle.
    ------------------------------------------------------------------------ */
+/* Key/value tables written with a blank header row (`| | |`): hide the empty header. */
+.prose-tn thead:not(:has(th:not(:empty))) {
+  display: none;
+}
+
 .prose-tn svg[id^="mermaid"] {
   @apply mx-auto my-8 block h-auto max-w-full;
   font-family: var(--font-sans) !important;
