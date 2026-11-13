@@ -1,23 +1,27 @@
 ---
 /**
- * Horizontal timeline. Wrap the source markdown in the placeholder:
+ * Horizontal timeline, from one of three sources:
  *
- *   Eras and entries, grouped by module (content/timeline.en.md):
- *     <tn-widget name="timeline" data-group-by="module">
- *     ## Era …
- *     - **1867** — What happened. [Read more](/learn/…)
+ *   Event entities, in their eras, grouped by module (content/timeline.en.md):
+ *     <tn-widget name="timeline" data-source="events" data-group-by="module"></tn-widget>
+ *
+ *   Case entities whose home is on this page, grouped by Charter part (landmark cases):
+ *     <tn-widget name="timeline" data-source="cases" data-group-by="charter"></tn-widget>
+ *
+ *   A markdown table wrapped in the placeholder, grouped by Charter part or by any column:
+ *     <tn-widget name="timeline" data-title="Case" data-text="In one line"
+ *       data-group="Main section" data-group-by="charter">
+ *     | Year | Case | … |
  *     </tn-widget>
  *
- *   A table, grouped by Charter part or by any column:
- *     <tn-widget name="timeline" data-title="Case" data-text="In one line"
- *       data-group="Main section" data-group-by="charter"></tn-widget>
- *
- * The markdown stays the single source of truth: this widget parses it at build time
- * (see parse.ts). Without JavaScript the events are a plain, horizontally scrolling
- * list. The script lays them out on a proportional time axis: one continuous line with
- * year ticks, cards alternating above and below it, eras as coloured bands with sticky
- * labels, axis breaks across long empty stretches, a minimap, filters, drag/keyboard
- * navigation and #event-id deep links (ids come from parse.ts).
+ * Events come from content/entities/events.yaml and cases from cases.yaml (see
+ * entities.ts); a table is parsed at build time (parse.ts). Without JavaScript the
+ * events are a plain, horizontally scrolling list. The script lays them out on a
+ * proportional time axis: one continuous line with year ticks, cards alternating above
+ * and below it, eras as coloured bands with sticky labels, axis breaks across long
+ * empty stretches, a minimap, filters, drag/keyboard navigation and #id deep links. An
+ * event card's id is the event's slug (its entity home, /timeline#<slug>); the anchors
+ * the cards had before (`event-1926-king-byng-affair-governor`) are kept as aliases.
  *
  * Colours: modules use their own module colour. Other groupings borrow the module hues
  * as a categorical palette (via data-module), in an order that keeps neighbouring
@@ -25,21 +29,18 @@
  */
 import { createHash } from "node:crypto";
 import Icon from "../../components/Icon.astro";
+import Portrait from "../../components/Portrait.astro";
+import { allEntities, eras as allEras, getEntity, type Case, type Event } from "../../lib/entities";
+import { inlineMarkdown } from "../../lib/inline-markdown";
 import { allPages, href, modules } from "../../lib/site";
-import {
-  charterGroups,
-  charterParts,
-  parseEraList,
-  parseTable,
-  slugify,
-  textOf,
-  type TimelineEra,
-  type TimelineEvent,
-} from "./parse";
+import { caseEras, casesOnPage, eventEras, type Lookup } from "./entities";
+import { charterGroups, charterParts, parseTable, slugify, textOf, type TimelineEra, type TimelineEvent } from "./parse";
 
 interface Props {
   content?: string;
-  /** "module" (default for era lists), "charter", or "column" (the group column's own values). */
+  /** "events" or "cases" to build from the entity registry; otherwise the wrapped table. */
+  source?: string;
+  /** "module" (default for events), "charter", or "column" (the group column's own values). */
   groupBy?: string;
   title?: string;
   text?: string;
@@ -50,15 +51,27 @@ interface Props {
   filterLabel?: string;
 }
 
-const { content = "", groupBy, title, text, group, label = "Timeline", filterLabel } = Astro.props;
-if (!content.trim()) throw new Error('Timeline widget needs markdown inside <tn-widget name="timeline">…</tn-widget>');
+const { content = "", source, groupBy, title, text, group, label = "Timeline", filterLabel } = Astro.props;
+if (source !== undefined && source !== "events" && source !== "cases") throw new Error(`Timeline widget: unknown data-source "${source}" (use "events" or "cases")`);
+if (!source && !/<table\b/.test(content)) {
+  throw new Error('Timeline widget needs data-source="events" or "cases", or a markdown table inside <tn-widget name="timeline">…</tn-widget>');
+}
 
-const isTable = /<table\b/.test(content);
-const mode = groupBy ?? (isTable ? "column" : "module");
+const titles = new Map((await allPages()).map((p) => [href(p.id), p.data.title]));
+const look: Lookup = { entity: getEntity, pageTitle: (path) => titles.get(path), render: inlineMarkdown };
+const mode = groupBy ?? (source === "events" ? "module" : "column");
 
-const eras: TimelineEra[] = isTable
-  ? parseTable(content, { title, text, group }, mode === "charter" ? charterGroups : (cell) => [slugify(cell)])
-  : parseEraList(content);
+let eras: TimelineEra[];
+if (source === "events") {
+  eras = eventEras(allEntities().filter((e): e is Event => e.type === "event"), allEras(), look);
+} else if (source === "cases") {
+  const cases = casesOnPage(allEntities().filter((e): e is Case => e.type === "case"), Astro.url.pathname);
+  if (!cases.length) throw new Error(`Timeline widget: no case in cases.yaml has its home on ${Astro.url.pathname}`);
+  eras = caseEras(cases, look, Astro.url.pathname);
+} else {
+  eras = parseTable(content, { title, text, group }, mode === "charter" ? charterGroups : (cell) => [slugify(cell)]);
+}
+const isTable = source !== "events";
 const events = eras.flatMap((e) => e.events);
 const hasEras = eras.some((e) => e.title);
 
@@ -108,14 +121,9 @@ const hueOf = (e: TimelineEvent) => groupOf.get(e.groups[0] ?? "")?.hue;
 /** Module mode names the category on the card, so colour is never the only cue. */
 const kindOf = (e: TimelineEvent) => (mode === "module" ? groupOf.get(e.groups[0] ?? "")?.label : undefined);
 
-// ---- Links: name "Read more" links after the page they point to -----------------------
-const titles = new Map((await allPages()).map((p) => [href(p.id), p.data.title]));
-const linkLabel = (l: { href: string; label: string }) =>
-  /^read more$/i.test(l.label) ? (titles.get(l.href.replace(/[#?].*$/, "").replace(/\/$/, "")) ?? l.label) : l.label;
-
 const minYear = Math.min(...events.map((e) => e.year));
 const maxYear = Math.max(...events.map((e) => e.endYear ?? e.year));
-const uid = `tl-${createHash("sha1").update(content).digest("hex").slice(0, 6)}`;
+const uid = `tl-${createHash("sha1").update(source ?? content).digest("hex").slice(0, 6)}`;
 const noun = isTable && mode === "charter" ? "cases" : "events";
 ---
 
@@ -191,6 +199,7 @@ const noun = isTable && mode === "charter" ? "cases" : "events";
               {era.title && (
                 <div class="tl-era-head">
                   <h2 id={era.id} class="tl-era-title">
+                    {era.anchors?.map((a) => <span id={a} data-alias />)}
                     {era.title}
                   </h2>
                   <span class="tl-era-count" data-era-count>
@@ -210,15 +219,22 @@ const noun = isTable && mode === "charter" ? "cases" : "events";
                     data-neutral={hueOf(e) ? undefined : ""}
                     aria-labelledby={[`${e.id}-when`, e.title ? `${e.id}-title` : e.text ? `${e.id}-text` : ""].join(" ").trim()}
                   >
+                    {e.anchors?.map((a) => <span id={a} data-alias />)}
                     <span class="tl-marker" aria-hidden="true" />
                     <span class="tl-stem" aria-hidden="true" />
                     <div class="tl-card">
                       <p class="tl-when" id={`${e.id}-when`}>
-                        <span class="tl-year">{e.yearLabel}</span>
+                        {e.date ? (
+                          <time class="tl-year" datetime={e.date}>
+                            {e.yearLabel}
+                          </time>
+                        ) : (
+                          <span class="tl-year">{e.yearLabel}</span>
+                        )}
                         {kindOf(e) && <span class="tl-kind">{kindOf(e)}</span>}
                       </p>
                       {e.title && (
-                        <p class="tl-title" id={`${e.id}-title`} data-title={textOf(e.title)}>
+                        <p class="tl-title" id={`${e.id}-title`} data-title={source === "events" ? undefined : textOf(e.title)}>
                           <Fragment set:html={e.title} />
                         </p>
                       )}
@@ -234,11 +250,33 @@ const noun = isTable && mode === "charter" ? "cases" : "events";
                           {e.tag && <span class="tl-tag">{e.tag}</span>}
                           {e.links.map((l) => (
                             <a href={l.href} class="tl-link">
-                              {linkLabel(l)}
+                              {l.label}
                             </a>
                           ))}
                         </p>
                       )}
+                      {(e.people?.length || e.related?.length) ? (
+                        <ul class="tl-rel" aria-label="People and related">
+                          {e.people?.map((p) => (
+                            <li>
+                              <a href={p.href} class="tl-who" data-person>
+                                <span aria-hidden="true" class="tl-face">
+                                  <Portrait qid={p.qid} name={p.name} size={20} />
+                                </span>
+                                {p.label}
+                              </a>
+                            </li>
+                          ))}
+                          {e.related?.map((r) => (
+                            <li>
+                              <a href={r.href} class="tl-who" data-kind={r.kind}>
+                                <Icon name={r.kind === "case" ? "Gavel" : "History"} class="size-3.5" />
+                                {r.kind === "case" ? <em>{r.label}</em> : r.label}
+                              </a>
+                            </li>
+                          ))}
+                        </ul>
+                      ) : null}
                     </div>
                   </li>
                 ))}
@@ -668,7 +706,7 @@ const noun = isTable && mode === "charter" ? "cases" : "events";
   .tl-card :global(em) {
     font-style: italic;
   }
-  .tl-card :global(a:not(.tl-link)) {
+  .tl-card :global(a:not(.tl-link, .tl-who)) {
     color: var(--tn-accent);
     text-decoration: underline;
   }
@@ -730,6 +768,44 @@ const noun = isTable && mode === "charter" ? "cases" : "events";
   .tl-link:hover {
     color: var(--tn-accent-hover);
     text-decoration-color: var(--tn-accent);
+  }
+  /* People and related cases or events: small chips under the links. */
+  .tl-rel {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 0.375rem;
+    margin: 0.5rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+  .tl-who {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    min-height: 1.5rem;
+    padding: 0.0625rem 0.5rem 0.0625rem 0.125rem;
+    border: 1px solid var(--tn-border);
+    border-radius: 999px;
+    background: var(--tn-surface-muted);
+    color: var(--tn-text-secondary);
+    font-size: 0.75rem;
+    font-weight: 500;
+    line-height: 1.3;
+  }
+  .tl-who:not([data-person]) {
+    padding-inline-start: 0.4rem;
+  }
+  .tl-who :global(svg) {
+    flex: none;
+    color: var(--tn-text-muted);
+  }
+  .tl-who:hover {
+    border-color: var(--tn-accent);
+    color: var(--tn-accent);
+  }
+  .tl-face {
+    display: inline-flex;
+    flex: none;
   }
 
   /* ---- Laid out by the script: a proportional axis ---------------------------------- */
@@ -1563,7 +1639,8 @@ const noun = isTable && mode === "charter" ? "cases" : "events";
       if (!id) return;
       const target = document.getElementById(id);
       if (!target || !this.contains(target)) return;
-      const it = this.#items.find((i) => i.el === target);
+      // The card itself, or one of its older anchors (an empty span inside it).
+      const it = this.#items.find((i) => i.el === target || (target.hasAttribute("data-alias") && target.parentElement === i.el));
       if (it) {
         if (it.el.hidden) this.#showAll();
         for (const other of this.#items) delete other.el.dataset.target;

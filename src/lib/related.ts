@@ -67,3 +67,28 @@ export function rankRelated({ pageId, about, links, exclude = [], limit = 4 }: R
     .sort((a, b) => b.score - a.score || b.via.length - a.via.length || a.id.localeCompare(b.id))
     .slice(0, limit);
 }
+
+/** The fields of a timeline event that eventsMentioning() reads. */
+export interface MentioningEvent {
+  year: number;
+  pages: readonly { page: string }[];
+  people: readonly string[];
+  entities: readonly string[];
+}
+
+/**
+ * Events that mention an entity or a page, sorted by year (input order within a
+ * year). An entity id (`type:slug`) matches `people` and `entities`; anything else
+ * is a page id ("learn/crown/reserve-powers", "home") matched against `pages`,
+ * ignoring any `#anchor`.
+ */
+export function eventsMentioning<E extends MentioningEvent>(events: readonly E[], entityOrPageId: string): E[] {
+  const isEntity = /^[a-z]+:/.test(entityOrPageId);
+  const path = entityOrPageId === "home" ? "" : entityOrPageId.replace(/^\/|\/$/g, "");
+  const hits = events.filter((e) =>
+    isEntity
+      ? e.people.includes(entityOrPageId) || e.entities.includes(entityOrPageId)
+      : e.pages.some((p) => p.page.replace(/[#?].*$/, "").replace(/^\/|\/$/g, "") === path),
+  );
+  return hits.sort((a, b) => a.year - b.year);
+}

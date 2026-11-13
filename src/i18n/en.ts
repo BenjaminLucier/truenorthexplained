@@ -41,6 +41,7 @@ export const en = {
     deepDives: "Go deeper",
     module: "Module",
     related: "Related pages",
+    onTimeline: "On the timeline",
   },
   quiz: {
     heading: "Test yourself",

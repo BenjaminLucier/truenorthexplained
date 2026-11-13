@@ -1,18 +1,12 @@
 /**
- * Turns the rendered markdown wrapped by <tn-widget name="timeline"> into
- * timeline data. The page's own markdown stays the single source of truth.
+ * Timeline data: the shapes the timeline widget renders, the table parser
+ * (a markdown table wrapped by <tn-widget name="timeline">, as on the
+ * notwithstanding-clause page) and the anchor ids.
  *
- * Two shapes are understood:
+ * The other sources (event and case entities) are mapped in ./entities.ts.
  *
- * 1. Eras and entries (content/timeline.en.md): each `## Era` heading starts
- *    an era, followed by a list of entries written as
- *        - **1867** — What happened. [Read more](/learn/…) · [Other](/provinces/…)
- *    The text before the first link is the event; the links after it say which
- *    pages (and so which modules) it belongs to.
- *
- * 2. A table (landmark cases, uses of s. 33): the first column is the year
- *    (a single year or a range like 1982–1987); other columns are picked by
- *    their header text.
+ * A table: the first column is the year (a single year or a range like
+ * 1982–1987); other columns are picked by their header text.
  */
 
 export interface TimelineLink {
@@ -20,13 +14,32 @@ export interface TimelineLink {
   label: string;
 }
 
+/** A person on an event card: links to their entity home, with a small portrait. */
+export interface TimelinePerson {
+  href: string;
+  /** Shown on the card (the entity's `short`, else its name). */
+  label: string;
+  /** Full name, for the portrait's text alternative. */
+  name: string;
+  qid?: string;
+}
+
+/** A related entity on an event card (a court case, another event). */
+export interface TimelineRelated extends TimelineLink {
+  kind: "case" | "event";
+}
+
 export interface TimelineEvent {
-  /** Unique, stable anchor for deep links (`#event-1986-r-v-oakes`). */
+  /** Unique, stable anchor for deep links (`#king-byng-affair`, `#event-1986-r-v-oakes`). */
   id: string;
+  /** Older ids of the same event, still emitted as anchors so old deep links work. */
+  anchors?: string[];
   year: number;
   /** As written: "1867" or "1982–1987". */
   yearLabel: string;
   endYear?: number;
+  /** ISO date with the precision known ("1926", "1867-07", "1867-07-01"), for `<time>`. */
+  date?: string;
   /** Optional title (inline HTML), e.g. a case name. */
   title?: string;
   /** Inline HTML. */
@@ -36,10 +49,14 @@ export interface TimelineEvent {
   /** Group keys this event belongs to; the first one sets its colour. */
   groups: string[];
   links: TimelineLink[];
+  people?: TimelinePerson[];
+  related?: TimelineRelated[];
 }
 
 export interface TimelineEra {
   id?: string;
+  /** Older ids of the era heading, kept as anchors. */
+  anchors?: string[];
   title?: string;
   events: TimelineEvent[];
 }
@@ -67,34 +84,6 @@ export function groupForHref(href: string): string | undefined {
   if (learn) return learn[1];
   if (/^\/provinces(\/|$|#)/.test(href)) return "provinces";
   return undefined;
-}
-
-const LINK = /<a\b[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/g;
-
-export function parseEraList(html: string): TimelineEra[] {
-  const eras: TimelineEra[] = [];
-  // Split on h2s, keeping each heading with the content after it.
-  const parts = html.split(/(?=<h2\b)/);
-  for (const part of parts) {
-    const heading = part.match(/^<h2\b([^>]*)>([\s\S]*?)<\/h2>/);
-    const id = heading?.[1]?.match(/\bid="([^"]*)"/)?.[1];
-    const era: TimelineEra = heading ? { id, title: textOf(heading[2] ?? ""), events: [] } : { events: [] };
-    for (const [, li] of part.matchAll(/<li>([\s\S]*?)<\/li>/g)) {
-      const m = (li ?? "").match(/^\s*<strong>([^<]+)<\/strong>\s*[—–-]\s*([\s\S]*)$/);
-      if (!m) throw new Error(`Timeline entry not in "**year** — text" form: ${textOf(li ?? "").slice(0, 80)}`);
-      const when = parseYear(m[1]!);
-      if (!when) throw new Error(`Timeline entry has no year: ${m[1]}`);
-      const rest = m[2]!;
-      const firstLink = rest.search(/<a\b/);
-      const text = (firstLink >= 0 ? rest.slice(0, firstLink) : rest).trim();
-      const linkHtml = firstLink >= 0 ? rest.slice(firstLink) : "";
-      const links = [...linkHtml.matchAll(LINK)].map(([, href, label]) => ({ href: href ?? "", label: textOf(label ?? "") }));
-      const groups = [...new Set(links.map((l) => groupForHref(l.href)).filter((g): g is string => !!g))];
-      era.events.push({ id: "", ...when, yearLabel: textOf(m[1]!), text, groups, links });
-    }
-    if (era.events.length || era.title) eras.push(era);
-  }
-  return finish(eras.filter((e) => e.events.length > 0));
 }
 
 export interface TableColumns {
@@ -158,27 +147,42 @@ const FILLER = new Set([
   ..."january february march april may june july august september october november december".split(" "),
 ]);
 
+/** Sorts each era's events by year, keeping the authored order within a year. */
+export function sortEras(eras: TimelineEra[]): TimelineEra[] {
+  for (const era of eras) era.events.sort((a, b) => a.year - b.year);
+  return eras;
+}
+
 /**
- * Sorts each era's events by year (keeping the authored order within a year) and gives
- * every event a readable, unique id: "event-", its year and a few words from its title, its
- * group cell or its text, e.g. "event-1986-r-v-oakes" or "event-2022-ontario".
+ * The readable anchor this widget has always derived for an event: "event-", its year
+ * and a few words from its title, its tag or its text ("event-1986-r-v-oakes",
+ * "event-2022-ontario"), before de-duplication (see uniqueIds). Table rows and cases
+ * still use it as their id; for event entities it is kept as an extra anchor, because
+ * the timeline used these ids before events had ids of their own.
  */
-function finish(eras: TimelineEra[]): TimelineEra[] {
+export function anchorBase(e: { year: number; title?: string; tag?: string; text: string }): string {
+  const basis = e.title ? textOf(e.title) : (e.tag ?? textOf(e.text));
+  const words = slugify(basis)
+    .split("-")
+    .filter((w) => !FILLER.has(w) && !/^\d+$/.test(w))
+    .slice(0, e.title || e.tag ? 6 : 4);
+  return ["event", String(e.year), ...words].join("-");
+}
+
+/** Makes ids unique in order: a second "event-1990-oka" becomes "event-1990-oka-2". */
+export function uniqueIds(bases: string[]): string[] {
   const seen = new Map<string, number>();
-  for (const era of eras) {
-    era.events.sort((a, b) => a.year - b.year);
-    for (const e of era.events) {
-      const basis = e.title ? textOf(e.title) : (e.tag ?? textOf(e.text));
-      const words = slugify(basis)
-        .split("-")
-        .filter((w) => !FILLER.has(w) && !/^\d+$/.test(w))
-        .slice(0, e.title || e.tag ? 6 : 4);
-      const base = ["event", String(e.year), ...words].join("-");
-      const n = (seen.get(base) ?? 0) + 1;
-      seen.set(base, n);
-      e.id = n === 1 ? base : `${base}-${n}`;
-    }
-  }
+  return bases.map((base) => {
+    const n = (seen.get(base) ?? 0) + 1;
+    seen.set(base, n);
+    return n === 1 ? base : `${base}-${n}`;
+  });
+}
+
+/** Sorts the eras and gives every event its derived anchor as its id. */
+export function finish(eras: TimelineEra[]): TimelineEra[] {
+  const events = sortEras(eras).flatMap((e) => e.events);
+  uniqueIds(events.map(anchorBase)).forEach((id, i) => (events[i]!.id = id));
   return eras;
 }
 

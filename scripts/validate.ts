@@ -2,7 +2,8 @@
  * Content checks that the Astro build doesn't cover on its own:
  * internal links, quiz page references, pages without questions, the
  * semantic layer (entity links `[…](type:slug)`, `about:` ids, the entity YAML
- * and its page targets, `{{fact}}` keys), the glossary term files
+ * and its page targets, links and facts in the YAML's inline markdown such as
+ * event `text`, `{{fact}}` keys), the glossary term files
  * (content/glossary/*.en.md: fields, `see` pages, `alias_of`) and the review markers
  * (`<!-- check -->`, `<!-- unverified link -->`, and `# check:` in YAML).
  *
@@ -118,6 +119,32 @@ for (const file of [...pages.values(), ...glossaryFiles]) {
       getFact(valid[1]!);
     } catch (e) {
       errors.push(`${where}: ${(e as Error).message}`);
+    }
+  }
+}
+
+// Inline markdown in the entity YAML (an event's `text`, a case's `holding`, any
+// `summary`) is rendered on the timelines: check its links and facts like a page's.
+for (const e of entitiesOk ? allEntities() : []) {
+  const fields = { summary: e.summary, ...(e.type === "event" ? { text: e.text } : e.type === "case" ? { holding: e.holding } : {}) };
+  for (const [field, md] of Object.entries(fields)) {
+    if (!md) continue;
+    const where = `${e.source}: ${e.id}: ${field}`;
+    for (const m of md.matchAll(linkRe)) {
+      const target = m[1]!.replace(/^\/|\/$/g, "");
+      if (!validPaths.has(target)) errors.push(`${where}: broken internal link /${target}`);
+    }
+    for (const m of md.matchAll(ENTITY_LINK_RE)) (entityLinks++, checkEntity(where, m[1]!));
+    for (const m of md.matchAll(FACT_LIKE_RE)) {
+      const valid = [...m[0].matchAll(FACT_RE)][0];
+      if (!valid || valid[0] !== m[0]) errors.push(`${where}: malformed fact placeholder ${m[0]}`);
+      else if (factsOk) {
+        try {
+          getFact(valid[1]!);
+        } catch (err) {
+          errors.push(`${where}: ${(err as Error).message}`);
+        }
+      }
     }
   }
 }
