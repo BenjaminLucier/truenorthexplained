@@ -13,7 +13,7 @@ const home = await getPage("home");
 const hero = home.data.hero!;
 const ideas = home.data.ideas ?? [];
 const mods = await modules();
-const featured = VISUALS.filter((v) => v.featured);
+const featured = VISUALS.filter((v) => v.featured).slice(0, 9); // a 3 × 3 grid
 const quizIds = new Map(await Promise.all(mods.map(async (m) => [m.page.id, await moduleQuestionIds(m.page.id)] as const)));
 const modById = new Map(mods.map((m) => [m.page.id, m.page]));
 
