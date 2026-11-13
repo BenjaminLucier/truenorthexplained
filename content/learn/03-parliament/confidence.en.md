@@ -28,6 +28,8 @@ See [conventions](/learn/constitution/conventions).
 
 > **As of 2026:** The House has 343 seats, so a majority means at least 172.
 
+<tn-widget name="commons-seating"></tn-widget>
+
 | | Majority government | Minority government |
 |---|---|---|
 | Seats held by the governing party | More than half | Less than half |

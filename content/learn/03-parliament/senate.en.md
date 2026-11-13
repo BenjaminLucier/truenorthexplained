@@ -40,6 +40,8 @@ seats for later provinces and the territories.
 | Yukon, Northwest Territories, Nunavut | 1 each |
 | **Total** | **105** |
 
+<tn-widget name="senate-composition"></tn-widget>
+
 To be appointed, a person must, under the Constitution Act, 1867:
 
 - be at least **30** years old;

@@ -1,0 +1,193 @@
+---
+/**
+ * Each province and territory's share of House of Commons seats compared
+ * with its share of Canada's population: who has more seats than strict
+ * representation by population would give, and why.
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import { PROVINCES, PROVINCE_CODES, formatDate, formatNumber, formatPct, population, seatAllocation, type ProvinceCode } from "../../lib/elections";
+
+const totalSeats = seatAllocation.total;
+const rows = PROVINCE_CODES.map((code) => {
+  const alloc = seatAllocation.provinces.find((a) => a.province === code)!;
+  const pop = population.provinces.find((p) => p.province === code)!;
+  const seatShare = (100 * alloc.total) / totalSeats;
+  const fair = (pop.population / population.canada) * totalSeats;
+  return {
+    code,
+    info: PROVINCES[code],
+    seats: alloc.total,
+    alloc,
+    population: pop.population,
+    popShare: (100 * pop.population) / population.canada,
+    seatShare,
+    fair,
+    diff: alloc.total - fair,
+    perMp: Math.round(pop.population / alloc.total),
+  };
+});
+const average = Math.round(population.canada / totalSeats);
+const extent = Math.ceil(Math.max(...rows.map((r) => Math.abs(r.diff))) / 2) * 2;
+/** Position on a 0–100 scale with zero in the middle. */
+const x = (v: number) => 50 + (50 * v) / extent;
+const ticks = [-extent, -extent / 2, 0, extent / 2, extent];
+const signed = (n: number, d = 1) => `${n > 0 ? "+" : n < 0 ? "−" : ""}${Math.abs(n).toFixed(d)}`;
+
+const senatorial = rows.filter((r) => r.alloc.senatorialClause > 0);
+const grandfather = rows.filter((r) => r.alloc.grandfatherClause > 0);
+const under = rows.filter((r) => r.diff < 0).sort((a, b) => a.diff - b.diff);
+const pei = rows.find((r) => r.code === "PE")!;
+const list = (items: string[]) => (items.length < 2 ? items.join("") : `${items.slice(0, -1).join(", ")} and ${items.at(-1)}`);
+const tag = (code: ProvinceCode) => {
+  const r = rows.find((row) => row.code === code)!;
+  return [
+    r.alloc.senatorialClause > 0 && "Senatorial clause",
+    r.alloc.grandfatherClause > 0 && "Grandfather clause",
+    r.info.territory && "One seat per territory",
+  ].filter(Boolean) as string[];
+};
+---
+
+<ChartCard
+  title="Seats compared with population"
+  lede={`How many seats each province and territory has, compared with the number it would get if all ${totalSeats} seats were shared strictly by population.`}
+  sources={[
+    { label: "Elections Canada, 2022 allocation of seats", url: seatAllocation._meta.url },
+    { label: `Statistics Canada, Table 17-10-0009-01 (${formatDate(population.refDate)})`, url: population._meta.url },
+  ]}
+>
+  <div class="flex flex-wrap gap-x-5 gap-y-2 text-xs text-secondary" aria-hidden="true">
+    <span class="inline-flex items-center gap-2"><span class="h-2.5 w-5 rounded-sm bg-accent"></span>More seats than its population share</span>
+    <span class="inline-flex items-center gap-2"><span class="h-2.5 w-5 rounded-sm bg-muted"></span>Fewer seats</span>
+  </div>
+
+  <div class="mt-4 grid grid-cols-[1fr_3rem] items-center gap-x-3 text-xs text-muted sm:grid-cols-[minmax(0,12rem)_1fr_3.5rem]" aria-hidden="true">
+    <span class="hidden sm:block"></span>
+    <div class="relative h-4">
+      {
+        ticks.map((t) => (
+          <span class="absolute -translate-x-1/2 tabular-nums" style={`left: ${x(t)}%`}>
+            {signed(t, 0) || "0"}
+          </span>
+        ))
+      }
+    </div>
+    <span class="text-end">Seats</span>
+  </div>
+
+  <ul class="mt-1 divide-y divide-subtle">
+    {
+      rows.map((r) => (
+        <li class="py-2.5 sm:grid sm:grid-cols-[minmax(0,12rem)_1fr_3.5rem] sm:items-center sm:gap-x-3 sm:py-2">
+          <div class="min-w-0">
+            <p class="text-sm font-medium text-primary">{r.info.en}</p>
+            <p class="text-xs text-muted tabular-nums">
+              {formatPct(r.popShare)} of people · {formatPct(r.seatShare)} of seats
+            </p>
+            {tag(r.code).length > 0 && (
+              <p class="mt-0.5 flex flex-wrap gap-1">
+                {tag(r.code).map((t) => (
+                  <span class="rounded-full bg-surface-muted px-1.5 whitespace-nowrap py-px text-[0.6875rem] leading-4 text-secondary">{t}</span>
+                ))}
+              </p>
+            )}
+          </div>
+          <div class="mt-1.5 grid grid-cols-[1fr_3rem] items-center gap-x-3 sm:contents">
+          <svg viewBox="0 0 100 10" preserveAspectRatio="none" class="h-4 w-full overflow-visible" aria-hidden="true">
+            {ticks.map((t) => (
+              <line x1={x(t)} x2={x(t)} y1="-4" y2="14" stroke="var(--tn-border)" stroke-width="1" vector-effect="non-scaling-stroke" />
+            ))}
+            <rect
+              x={Math.min(x(0), x(r.diff))}
+              width={Math.abs(x(r.diff) - x(0))}
+              y="1"
+              height="8"
+              rx="0"
+              fill={r.diff >= 0 ? "var(--tn-accent)" : "var(--tn-text-muted)"}
+            />
+            <line x1={x(0)} x2={x(0)} y1="-4" y2="14" stroke="var(--tn-text-primary)" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+          </svg>
+          <p class="text-end text-sm font-semibold text-primary tabular-nums">{signed(r.diff)}</p>
+          </div>
+          <p class="sr-only">
+            {r.info.en}: {r.seats} seats, {formatPct(r.seatShare)} of seats and {formatPct(r.popShare)} of the population. That is{" "}
+            {Math.abs(r.diff).toFixed(1)} seats {r.diff >= 0 ? "more" : "fewer"} than a strict population share.
+          </p>
+        </li>
+      ))
+    }
+  </ul>
+
+  <div class="mt-5 space-y-3 rounded-lg bg-surface-muted p-4 text-sm text-secondary">
+    <p>
+      Seats start from population: each province's 2021 population divided by {formatNumber(seatAllocation.quotient)}, rounded
+      up. Then guarantees in the Constitution add seats:
+    </p>
+    <ul class="list-disc space-y-2 ps-5">
+      <li>
+        <strong class="text-primary">Senatorial clause</strong> (Constitution Act, 1867, s. 51A): no province can have fewer MPs
+        than senators. It added seats for {list(senatorial.map((r) => `${r.info.en} (+${r.alloc.senatorialClause})`))}. Prince
+        Edward Island's population earns it {pei.alloc.initial} seats on its own; it has {pei.seats} because it has {pei.seats} senators.
+      </li>
+      <li>
+        <strong class="text-primary">Grandfather clause</strong>: no province can have fewer seats than it had in the 43rd
+        Parliament, elected in 2019 (updated in 2022). It added seats for {list(grandfather.map((r) => `${r.info.en} (+${r.alloc.grandfatherClause})`))}.
+      </li>
+      <li><strong class="text-primary">Territories</strong> get one seat each, whatever their population.</li>
+    </ul>
+    <p>
+      Because those seats are added on top, the provinces that rely on population alone end up below their share:{" "}
+      {list(under.map((r) => r.info.en))}. On average there is one MP for every {formatNumber(average)} people.
+    </p>
+  </div>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Province or territory</th>
+          <th scope="col">Population</th>
+          <th scope="col">Share of population</th>
+          <th scope="col">Seats</th>
+          <th scope="col">Share of seats</th>
+          <th scope="col">Seats by population alone</th>
+          <th scope="col">Difference</th>
+          <th scope="col">People per MP</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          rows.map((r) => (
+            <tr>
+              <th scope="row" class="font-normal">{r.info.en}</th>
+              <td>{formatNumber(r.population)}</td>
+              <td>{formatPct(r.popShare, 2)}</td>
+              <td>{r.seats}</td>
+              <td>{formatPct(r.seatShare, 2)}</td>
+              <td>{r.fair.toFixed(1)}</td>
+              <td>{signed(r.diff)}</td>
+              <td>{formatNumber(r.perMp)}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <tfoot>
+        <tr>
+          <td>Canada</td>
+          <td>{formatNumber(population.canada)}</td>
+          <td>100%</td>
+          <td>{totalSeats}</td>
+          <td>100%</td>
+          <td>{totalSeats}</td>
+          <td />
+          <td>{formatNumber(average)}</td>
+        </tr>
+      </tfoot>
+      <caption>
+        Population estimates for {formatDate(population.refDate)}. Seats were allocated in 2022 using estimates for July 1, 2021,
+        so today's shares have drifted a little. "Seats by population alone" shares all {totalSeats} seats in proportion to
+        population, with no rounding or guarantees.
+      </caption>
+    </table>
+  </Fragment>
+</ChartCard>

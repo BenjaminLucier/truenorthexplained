@@ -1,0 +1,138 @@
+---
+/**
+ * The Senate's 105 seats by regional division (fixed by the Constitution),
+ * and how the current senators are grouped. Senate groups aren't federal
+ * parties, so they're drawn in neutral tones rather than party colours.
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import { PROVINCES, formatDate, senate, type ProvinceCode } from "../../lib/elections";
+
+const DIVISIONS = ["Ontario", "Quebec", "Maritimes", "Western", "Newfoundland and Labrador", "Territories"];
+const divisionLabel: Record<string, string> = { Western: "Western provinces" };
+const divisions = DIVISIONS.map((name) => {
+  const provinces = senate.byProvince.filter((p) => p.division === name);
+  return {
+    name: divisionLabel[name] ?? name,
+    provinces,
+    seats: provinces.reduce((s, p) => s + p.seats, 0),
+    senators: provinces.reduce((s, p) => s + p.senators, 0),
+  };
+});
+const showProvinces = (d: (typeof divisions)[number]) => d.provinces.length > 1;
+const affiliations = [...senate.affiliations].sort((a, b) => b.senators - a.senators);
+const maxGroup = Math.max(...affiliations.map((a) => a.senators), senate.vacant);
+const fetched = formatDate(senate._meta.fetched);
+
+/** A row of seat squares, wrapping at `perRow`. */
+const SIZE = 10;
+const GAP = 3;
+function grid(sitting: number, vacant: number, perRow = 12) {
+  const n = sitting + vacant;
+  const cols = Math.min(n, perRow);
+  const rowsN = Math.ceil(n / perRow);
+  return {
+    width: cols * (SIZE + GAP) - GAP + 2,
+    height: rowsN * (SIZE + GAP) - GAP + 2,
+    cells: Array.from({ length: n }, (_, i) => ({ x: 1 + (i % perRow) * (SIZE + GAP), y: 1 + Math.floor(i / perRow) * (SIZE + GAP), vacant: i >= sitting })),
+  };
+}
+const name = (code: ProvinceCode) => PROVINCES[code].en;
+---
+
+<ChartCard
+  title="Seats in the Senate"
+  lede={`The Constitution fixes the Senate at ${senate.seats} seats, shared by region rather than by population. Each square is one seat.`}
+  sources={[{ label: `Senate of Canada, Senators (retrieved ${fetched})`, url: senate._meta.url }]}
+>
+  <div class="flex flex-wrap gap-x-5 gap-y-2 text-xs text-secondary" aria-hidden="true">
+    <span class="inline-flex items-center gap-2"><span class="size-2.5 rounded-[2px] bg-secondary"></span>Senator</span>
+    <span class="inline-flex items-center gap-2"><span class="size-2.5 rounded-[2px] border border-muted"></span>Vacant</span>
+  </div>
+
+  <ul class="mt-4 grid gap-4 sm:grid-cols-2">
+    {
+      divisions.map((d) => (
+        <li class="rounded-lg border border-subtle p-3">
+          <p class="flex items-baseline justify-between gap-3">
+            <span class="font-semibold text-primary">{d.name}</span>
+            <span class="text-sm font-semibold text-primary tabular-nums">{d.seats}</span>
+          </p>
+          <ul class="mt-2 space-y-2">
+            {d.provinces.map((p) => {
+              const g = grid(p.senators, p.vacant);
+              return (
+                <li class="flex flex-wrap items-center gap-x-3 gap-y-1">
+                  {showProvinces(d) && <span class="w-36 text-xs text-secondary">{name(p.province)} · {p.seats}</span>}
+                  <svg viewBox={`0 0 ${g.width} ${g.height}`} width={g.width} height={g.height} class="max-w-full" role="img" aria-label={`${name(p.province)}: ${p.seats} seats, ${p.senators} filled, ${p.vacant} vacant`}>
+                    {g.cells.map((c) => (
+                      <rect
+                        x={c.x}
+                        y={c.y}
+                        width={SIZE}
+                        height={SIZE}
+                        rx="2"
+                        fill={c.vacant ? "none" : "var(--tn-text-secondary)"}
+                        stroke={c.vacant ? "var(--tn-text-muted)" : "none"}
+                        stroke-width="1"
+                      />
+                    ))}
+                  </svg>
+                </li>
+              );
+            })}
+          </ul>
+        </li>
+      ))
+    }
+  </ul>
+
+  <p class="mt-6 text-sm font-semibold text-primary">Senators by group</p>
+  <p class="mt-1 text-xs text-muted">
+    Since 2016 most senators sit in parliamentary groups rather than party caucuses. Only one group is part of a federal party.
+  </p>
+  <ul class="mt-3 space-y-2">
+    {
+      [...affiliations.map((a) => ({ label: a.en, n: a.senators, vacant: false })), { label: "Vacant", n: senate.vacant, vacant: true }].map((a) => (
+        <li class="grid grid-cols-[minmax(0,10rem)_1fr_2rem] items-center gap-x-3 text-sm sm:grid-cols-[minmax(0,16rem)_1fr_2rem]">
+          <span class="text-secondary">{a.label}</span>
+          <svg viewBox="0 0 100 10" preserveAspectRatio="none" class="h-3 w-full" aria-hidden="true">
+            <rect
+              width={(100 * a.n) / maxGroup}
+              height="10"
+              fill={a.vacant ? "none" : "var(--tn-text-secondary)"}
+              stroke={a.vacant ? "var(--tn-text-muted)" : "none"}
+              stroke-width="1"
+              vector-effect="non-scaling-stroke"
+            />
+          </svg>
+          <span class="text-end font-semibold text-primary tabular-nums">{a.n}</span>
+        </li>
+      ))
+    }
+  </ul>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr><th scope="col">Province or territory</th><th scope="col">Division</th><th scope="col">Seats</th><th scope="col">Senators</th><th scope="col">Vacant</th></tr>
+      </thead>
+      <tbody>
+        {
+          senate.byProvince.map((p) => (
+            <tr>
+              <th scope="row" class="font-normal">{name(p.province)}</th>
+              <td>{divisionLabel[p.division] ?? p.division}</td>
+              <td>{p.seats}</td>
+              <td>{p.senators}</td>
+              <td>{p.vacant}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <tfoot>
+        <tr><td>Total</td><td /><td>{senate.seats}</td><td>{senate.seats - senate.vacant}</td><td>{senate.vacant}</td></tr>
+      </tfoot>
+      <caption>Seats are set by the Constitution Act, 1867, ss. 21–22. Senators and vacancies as of {fetched}.</caption>
+    </table>
+  </Fragment>
+</ChartCard>

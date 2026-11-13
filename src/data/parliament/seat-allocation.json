@@ -1,0 +1,130 @@
+{
+ "_meta": {
+  "source": "Elections Canada, Federal electoral districts redistribution 2022: allocation of seats in the House of Commons",
+  "url": "https://www.redecoupage-redistribution-2022.ca/red/allo/index_e.aspx",
+  "licence": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada)",
+  "fetched": "2026-11-13",
+  "notes": "Seats per province used from the 2025 general election. Population is Statistics Canada's July 1, 2021 estimate, as used by the Chief Electoral Officer. initial = population ÷ electoral quotient, rounded up. Then the senatorial clause (no province has fewer MPs than senators, Constitution Act, 1867, s. 51A), the grandfather clause (no province has fewer seats than in the 43rd Parliament, as amended in 2022) and the representation rule. Each territory has one seat."
+ },
+ "quotient": 121891,
+ "total": 343,
+ "provinces": [
+  {
+   "province": "BC",
+   "population2021": 5214805,
+   "initial": 43,
+   "senatorialClause": 0,
+   "grandfatherClause": 0,
+   "representationRule": 0,
+   "total": 43
+  },
+  {
+   "province": "AB",
+   "population2021": 4442879,
+   "initial": 37,
+   "senatorialClause": 0,
+   "grandfatherClause": 0,
+   "representationRule": 0,
+   "total": 37
+  },
+  {
+   "province": "SK",
+   "population2021": 1179844,
+   "initial": 10,
+   "senatorialClause": 0,
+   "grandfatherClause": 4,
+   "representationRule": 0,
+   "total": 14
+  },
+  {
+   "province": "MB",
+   "population2021": 1383765,
+   "initial": 12,
+   "senatorialClause": 0,
+   "grandfatherClause": 2,
+   "representationRule": 0,
+   "total": 14
+  },
+  {
+   "province": "ON",
+   "population2021": 14826276,
+   "initial": 122,
+   "senatorialClause": 0,
+   "grandfatherClause": 0,
+   "representationRule": 0,
+   "total": 122
+  },
+  {
+   "province": "QC",
+   "population2021": 8604495,
+   "initial": 71,
+   "senatorialClause": 0,
+   "grandfatherClause": 7,
+   "representationRule": 0,
+   "total": 78
+  },
+  {
+   "province": "NB",
+   "population2021": 789225,
+   "initial": 7,
+   "senatorialClause": 3,
+   "grandfatherClause": 0,
+   "representationRule": 0,
+   "total": 10
+  },
+  {
+   "province": "NS",
+   "population2021": 992055,
+   "initial": 9,
+   "senatorialClause": 1,
+   "grandfatherClause": 1,
+   "representationRule": 0,
+   "total": 11
+  },
+  {
+   "province": "PE",
+   "population2021": 164318,
+   "initial": 2,
+   "senatorialClause": 2,
+   "grandfatherClause": 0,
+   "representationRule": 0,
+   "total": 4
+  },
+  {
+   "province": "NL",
+   "population2021": 520553,
+   "initial": 5,
+   "senatorialClause": 1,
+   "grandfatherClause": 1,
+   "representationRule": 0,
+   "total": 7
+  },
+  {
+   "province": "YT",
+   "population2021": 42986,
+   "initial": 0,
+   "senatorialClause": 0,
+   "grandfatherClause": 0,
+   "representationRule": 0,
+   "total": 1
+  },
+  {
+   "province": "NT",
+   "population2021": 45504,
+   "initial": 0,
+   "senatorialClause": 0,
+   "grandfatherClause": 0,
+   "representationRule": 0,
+   "total": 1
+  },
+  {
+   "province": "NU",
+   "population2021": 39403,
+   "initial": 0,
+   "senatorialClause": 0,
+   "grandfatherClause": 0,
+   "representationRule": 0,
+   "total": 1
+  }
+ ]
+}

@@ -55,6 +55,10 @@ lot from national vote shares:
 - **Strategic voting.** Some voters choose a candidate they think can win rather than their
   first choice, to avoid "splitting the vote."
 
+The 2025 general election shows the effect:
+
+<tn-widget name="votes-vs-seats"></tn-widget>
+
 ### The main alternatives
 
 | System | How it works | Main argument for | Main argument against |
