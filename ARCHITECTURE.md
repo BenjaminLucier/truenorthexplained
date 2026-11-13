@@ -325,7 +325,34 @@ sentence false, the changing part should be a fact.
 pnpm check      # types, including .astro files
 pnpm validate   # internal links, quiz references, entity ids, fact keys
 pnpm build      # full static build (also validates all front matter and data)
+pnpm test       # unit tests (Vitest)
+pnpm test:e2e   # build, then browser tests (Playwright)
 ```
+
+### Tests
+
+- **Unit tests** (`tests/unit/*.test.ts`, Vitest) cover the pure logic: widget
+  placeholders, ids and paths, chart scales and formatting, money and reference
+  helpers, election calculations and data consistency, the hemicycle layout, timeline
+  parsing, and the theme tokens (every light token has a dark value, repeated in the
+  no-JavaScript fallback). Import from `src/` directly; JSON imports work. A new
+  `tests/unit/<name>.test.ts` is picked up automatically. Expected values come from
+  what a function is documented to do, not from what it happens to return.
+- **Browser tests** (`tests/e2e/`, Playwright with Chromium) run against `astro
+  preview` of `dist/` on port 4630, started and stopped by Playwright.
+  - `pages.spec.ts` visits every page found in `dist/` (so new pages are covered) at
+    375px and 1280px, in the light and dark themes. It fails on console errors,
+    uncaught exceptions, failed or 4xx/5xx requests, requests to other hosts,
+    horizontal overflow, and axe violations of impact serious or critical. Each failure
+    names the page, width, theme, rule and selector. Deliberate axe exclusions sit in
+    `AXE_EXCLUDE` at the top of the file, each with its reason.
+  - `interactions.spec.ts` drives the interactive parts: the theme and width toggles,
+    the module menu and rail, search, the ridings explorer, the power sorter, a chart
+    tooltip by keyboard and a quiz answer.
+  - `pnpm test:e2e` builds first. Against an existing build, run
+    `pnpm exec playwright test` (add a file or `-g "<title>"` to narrow it, or
+    `--shard=1/4` to split it across machines). With `CI` set, an existing server on
+    the port is never reused and an HTML report goes to `playwright-report/`.
 
 **Dev cache gotcha:** if you change a schema in `content.config.ts` without editing the
 content files, delete `node_modules/.astro/data-store.json` and `.astro/data-store.json`

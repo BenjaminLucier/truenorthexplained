@@ -11,3 +11,8 @@ dist/
 
 # Large source downloads (e.g. Statistics Canada shapefiles), read by pnpm data:* scripts
 /data/
+
+# Test output (Playwright)
+/playwright-report/
+/test-results/
+/blob-report/

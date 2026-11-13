@@ -116,7 +116,7 @@ const example: Record<Path, number> = { majority: 184, minority: 158 };
         {
           steps.map((s, i) => (
             <li class="track-stop">
-              <button type="button" class="dot" data-dot={i} aria-label={`Step ${i + 1}: ${s.title}`}>
+              <button type="button" class="dot" data-dot={i} aria-label={`${s.short}. Step ${i + 1}: ${s.title}`}>
                 <span class:list={["dot-mark", s.branch && "dot-branch"]} aria-hidden="true" />
                 <span class="dot-text" aria-hidden="true">
                   {s.short}

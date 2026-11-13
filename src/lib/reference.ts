@@ -240,6 +240,7 @@ export const formatNumber = (n: number) => n.toLocaleString("en-CA");
 
 /** 41798407 → "41.8 million", 774000 → "774,000". */
 export function formatPeople(n: number): string {
-  if (n >= 1_000_000) return `${(n / 1_000_000).toFixed(n >= 10_000_000 ? 1 : 2).replace(/\.?0+$/, "")} million`;
+  // 999,500 and up rounds to a million, so it reads "1 million", not "1,000,000".
+  if (n >= 999_500) return `${(n / 1_000_000).toFixed(n >= 10_000_000 ? 1 : 2).replace(/\.?0+$/, "")} million`;
   return formatNumber(Math.round(n / 1000) * 1000);
 }

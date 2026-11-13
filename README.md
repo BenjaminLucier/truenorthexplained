@@ -30,7 +30,7 @@ Requires [fnm](https://github.com/Schniz/fnm) (or any Node version manager) and
 ```bash
 fnm use                                  # Node version from .nvmrc
 pnpm install
-pnpm exec playwright install chromium    # used to render Mermaid diagrams
+pnpm exec playwright install chromium    # renders Mermaid diagrams, and runs pnpm test:e2e
 pnpm dev                                 # http://localhost:4321
 ```
 
@@ -41,6 +41,8 @@ pnpm dev                                 # http://localhost:4321
 | `pnpm preview` | Serve the built site, with working search |
 | `pnpm check` | Type-check `.ts` and `.astro` files |
 | `pnpm validate` | Check internal links, quiz page references, entity ids (links, `about:`, entity YAML) and fact keys |
+| `pnpm test` | Unit tests (Vitest) for the pure logic in `src/lib` and the widgets: `tests/unit/` |
+| `pnpm test:e2e` | Build, then run the browser tests (Playwright, Chromium) against `astro preview` on port 4630: every page at phone and desktop width in both themes (console errors, failed requests, overflow, axe), plus smoke tests of the interactive parts. `tests/e2e/`. To re-run against an existing build: `pnpm exec playwright test` |
 | `pnpm review` | Regenerate [REVIEW.md](REVIEW.md), the list of facts and links awaiting review |
 | `pnpm data:geo` | Re-download province and riding boundaries and population estimates into `src/data/geo/` |
 | `pnpm data:elections` | Re-download 2025 election results, current MPs and senators, and seat allocation into `src/data/elections/`, `src/data/parliament/` and `src/data/population/` |
