@@ -2,6 +2,7 @@
 id: federalism
 title: "Federalism: who does what"
 order: 5
+icon: Layers
 summary: "Ottawa and the provinces each get their own list of powers from the Constitution. Territories and cities get theirs from someone else."
 deep_dives: [division-of-powers, money-and-equalization, territories, municipalities]
 status: draft

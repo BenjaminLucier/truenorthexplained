@@ -2,6 +2,7 @@
 id: big-picture
 title: "The big picture"
 order: 0
+icon: Compass
 summary: "Canada in one sentence: a federal parliamentary democracy and a constitutional monarchy."
 deep_dives: []
 status: draft

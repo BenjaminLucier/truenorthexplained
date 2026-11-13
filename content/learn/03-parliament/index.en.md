@@ -2,6 +2,7 @@
 id: parliament
 title: "Parliament"
 order: 3
+icon: Landmark
 summary: "Parliament is three parts (the King, the appointed Senate and the elected House of Commons) and it makes federal law and keeps the government in check."
 deep_dives: [how-a-bill-becomes-law, senate, confidence, question-period-and-committees]
 status: draft

@@ -2,6 +2,7 @@
 id: crown
 title: "The Crown"
 order: 2
+icon: Crown
 summary: "Canada's King is head of state and the legal source of government power, but he 'reigns but does not rule'."
 deep_dives: [governor-general, reserve-powers, republic-question]
 status: draft

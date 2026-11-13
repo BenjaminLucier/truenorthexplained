@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Icon from "../../components/Icon.astro";
+import ModuleIcon from "../../components/ModuleIcon.astro";
 import QuizSummary from "../../components/quiz/QuizSummary.astro";
 import { getCollection } from "astro:content";
 import { href, modules } from "../../lib/site";
@@ -27,30 +28,35 @@ const idsFor = (moduleId: string) =>
         mods.map(({ page, deepDives }) => (
           <li class="rounded-card border border-subtle bg-surface p-6 shadow-card sm:p-8">
             <div class="grid gap-6 md:grid-cols-[minmax(0,1fr)_14rem]">
-              <div>
-                <p class="text-sm font-semibold text-accent tabular-nums">
-                  {t.page.module} {page.data.order}
-                </p>
-                <h2 class="mt-1 text-2xl font-bold tracking-tight">
-                  <a href={href(page.id)} class="text-primary hover:text-accent">
-                    {page.data.title}
-                  </a>
-                </h2>
-                <p class="mt-2 text-secondary">{page.data.summary}</p>
-                {deepDives.length > 0 && (
-                  <ul class="mt-4 flex flex-wrap gap-2">
-                    {deepDives.map((d) => (
-                      <li>
-                        <a
-                          href={href(d.id)}
-                          class="inline-block rounded-full bg-surface-muted px-3 py-1 text-sm text-secondary hover:bg-accent-soft hover:text-accent"
-                        >
-                          {d.data.title}
-                        </a>
-                      </li>
-                    ))}
-                  </ul>
-                )}
+              <div class="flex gap-5">
+                <span class="hidden sm:block">
+                  <ModuleIcon name={page.data.icon} size="lg" />
+                </span>
+                <div>
+                  <p class="text-sm font-semibold text-accent tabular-nums">
+                    {t.page.module} {page.data.order}
+                  </p>
+                  <h2 class="mt-1 text-2xl font-bold tracking-tight">
+                    <a href={href(page.id)} class="text-primary hover:text-accent">
+                      {page.data.title}
+                    </a>
+                  </h2>
+                  <p class="mt-2 text-secondary">{page.data.summary}</p>
+                  {deepDives.length > 0 && (
+                    <ul class="mt-4 flex flex-wrap gap-2">
+                      {deepDives.map((d) => (
+                        <li>
+                          <a
+                            href={href(d.id)}
+                            class="inline-block rounded-full bg-surface-muted px-3 py-1 text-sm text-secondary hover:bg-accent-soft hover:text-accent"
+                          >
+                            {d.data.title}
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
+                  )}
+                </div>
               </div>
               <div class="flex flex-col justify-between gap-4">
                 <QuizSummary ids={idsFor(page.id)} />

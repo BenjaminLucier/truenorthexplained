@@ -2,6 +2,7 @@
 id: government
 title: "Government in action"
 order: 6
+icon: Building2
 summary: "Who actually runs things day to day: ministers, a non-partisan public service, Crown corporations, the Bank of Canada, and the watchdogs who check them."
 deep_dives: [departments, bank-of-canada-vs-mint, crown-corporations, watchdogs, the-budget]
 status: draft

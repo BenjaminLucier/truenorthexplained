@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
 import Icon from "../components/Icon.astro";
+import ModuleIcon from "../components/ModuleIcon.astro";
 import QuizBlock from "../components/quiz/QuizBlock.astro";
 import { t } from "../i18n/en";
 import {
@@ -56,7 +57,12 @@ const showAside = (toc && tocItems.length > 1) || mod;
     </nav>
 
     <header class="max-w-3xl pt-6 pb-8">
-      {eyebrow && <p class="text-sm font-semibold tracking-wide text-accent uppercase">{eyebrow}</p>}
+      {eyebrow && (
+        <p class="flex items-center gap-3 text-sm font-semibold tracking-wide text-accent uppercase">
+          {mod && <ModuleIcon name={mod.page.data.icon} size="sm" />}
+          {eyebrow}
+        </p>
+      )}
       <h1 class="mt-2 text-4xl font-bold tracking-tight text-primary text-balance sm:text-5xl">{page.data.title}</h1>
       {page.data.summary && <p class="mt-4 text-lg text-secondary text-pretty">{page.data.summary}</p>}
     </header>

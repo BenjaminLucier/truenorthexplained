@@ -2,6 +2,7 @@
 id: charter
 title: "Rights: the Charter"
 order: 8
+icon: ShieldCheck
 summary: "What the Charter of Rights and Freedoms protects, who it binds, and the two clauses that limit it."
 deep_dives: [your-rights, reasonable-limits, notwithstanding-clause, landmark-cases]
 status: draft

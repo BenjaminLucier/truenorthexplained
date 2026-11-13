@@ -3,36 +3,64 @@ import Icon from "./Icon.astro";
 import { t } from "../i18n/en";
 ---
 
+{/* One button that cycles System → Light → Dark. The icon shows the current preference. */}
 <theme-toggle>
   <button
     type="button"
-    class="inline-flex size-10 items-center justify-center rounded-full text-secondary transition-colors hover:bg-surface-muted hover:text-primary"
-    aria-label={t.theme.toggle}
-    aria-pressed="false"
+    class="group inline-flex size-10 items-center justify-center rounded-full text-secondary transition-colors hover:bg-surface-muted hover:text-primary"
+    aria-label={t.theme.label(t.theme.system, t.theme.light)}
+    title={t.theme.label(t.theme.system, t.theme.light)}
   >
-    <span class="dark:hidden"><Icon name="Moon" class="size-5" /></span>
-    <span class="hidden dark:inline"><Icon name="Sun" class="size-5" /></span>
+    <span class="theme-icon" data-for="system"><Icon name="Monitor" class="size-5" /></span>
+    <span class="theme-icon" data-for="light"><Icon name="Sun" class="size-5" /></span>
+    <span class="theme-icon" data-for="dark"><Icon name="Moon" class="size-5" /></span>
   </button>
 </theme-toggle>
 
+<style>
+  .theme-icon {
+    display: none;
+  }
+  /* Before the script runs (or without JS), show the system icon. */
+  :global(html:not([data-theme-pref])) .theme-icon[data-for="system"],
+  :global(html[data-theme-pref="system"]) .theme-icon[data-for="system"],
+  :global(html[data-theme-pref="light"]) .theme-icon[data-for="light"],
+  :global(html[data-theme-pref="dark"]) .theme-icon[data-for="dark"] {
+    display: inline;
+  }
+</style>
+
 <script>
+  import { t } from "../i18n/en";
+
+  type Pref = "system" | "light" | "dark";
+  const order: Pref[] = ["system", "light", "dark"];
+  const names: Record<Pref, string> = { system: t.theme.system, light: t.theme.light, dark: t.theme.dark };
+
+  declare global {
+    interface Window {
+      tneSetTheme?: (pref: Pref) => void;
+    }
+  }
+
   class ThemeToggle extends HTMLElement {
     connectedCallback() {
       const button = this.querySelector("button")!;
       const root = document.documentElement;
-      const sync = () => button.setAttribute("aria-pressed", String(root.dataset.theme === "dark"));
+      const current = (): Pref => (root.dataset.themePref as Pref | undefined) ?? "system";
+      const next = (p: Pref): Pref => order[(order.indexOf(p) + 1) % order.length]!;
+      const sync = () => {
+        const p = current();
+        const label = t.theme.label(names[p], names[next(p)]);
+        button.setAttribute("aria-label", label);
+        button.title = label;
+      };
       sync();
       button.addEventListener("click", () => {
-        const next = root.dataset.theme === "dark" ? "light" : "dark";
-        root.dataset.theme = next;
-        try {
-          localStorage.setItem("tne-theme", next);
-        } catch {
-          /* storage unavailable: the choice lasts for this page only */
-        }
+        window.tneSetTheme?.(next(current()));
         sync();
       });
-      new MutationObserver(sync).observe(root, { attributes: true, attributeFilter: ["data-theme"] });
+      new MutationObserver(sync).observe(root, { attributes: true, attributeFilter: ["data-theme-pref"] });
     }
   }
   customElements.define("theme-toggle", ThemeToggle);

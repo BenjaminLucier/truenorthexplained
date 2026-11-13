@@ -3,6 +3,7 @@ import { glob, type Loader } from "astro/loaders";
 import { z } from "astro/zod";
 import { readdir, readFile } from "node:fs/promises";
 import { parse } from "yaml";
+import * as lucide from "lucide-static";
 import { sitePathFromEntry } from "./lib/paths";
 
 const pages = defineCollection({
@@ -17,6 +18,13 @@ const pages = defineCollection({
     summary: z.string().optional(),
     status: z.enum(["stub", "draft", "reviewed"]),
     order: z.number().optional(),
+    // A Lucide icon name (PascalCase), e.g. "Landmark". Used for modules.
+    icon: z
+      .string()
+      .refine((name) => typeof (lucide as Record<string, unknown>)[name] === "string", {
+        message: "Not a Lucide icon name",
+      })
+      .optional(),
     parent: z.string().optional(),
     deep_dives: z.array(z.string()).optional(),
     quiz: z.array(z.string()).optional(),

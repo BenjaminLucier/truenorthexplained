@@ -2,6 +2,7 @@
 id: elections
 title: "Elections and the Prime Minister"
 order: 4
+icon: Vote
 summary: "You vote for one MP in your riding, never for the Prime Minister. Here's how that vote turns into a government."
 deep_dives: [election-day, first-past-the-post, party-leaders, cabinet-and-pmo]
 status: draft

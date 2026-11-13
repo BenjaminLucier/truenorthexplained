@@ -2,6 +2,7 @@
 id: constitution
 title: "The Constitution"
 order: 1
+icon: ScrollText
 summary: "Canada's rulebook isn't one document: it's the 1867 and 1982 Acts, other written pieces, and unwritten conventions."
 deep_dives: [constitution-act-1867, patriation-1982, amending-formula, conventions]
 status: draft

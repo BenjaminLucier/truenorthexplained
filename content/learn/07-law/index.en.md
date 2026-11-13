@@ -2,6 +2,7 @@
 id: law
 title: "The legal system"
 order: 7
+icon: Scale
 summary: "Where Canadian law comes from, how the courts fit together, and why judges can strike down laws."
 deep_dives: [courts, common-law-and-civil-law, criminal-law, supreme-court, judges]
 status: draft

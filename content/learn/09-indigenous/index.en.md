@@ -2,6 +2,7 @@
 id: indigenous
 title: "Indigenous peoples and the Crown"
 order: 9
+icon: Handshake
 summary: "Indigenous nations were here first, and their treaties and rights are part of Canada's Constitution today."
 deep_dives: [treaties, section-35, indian-act, self-government]
 status: draft

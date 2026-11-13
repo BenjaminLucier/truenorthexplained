@@ -5,10 +5,9 @@ export type Question = CollectionEntry<"quizzes">;
 
 export const href = (id: string) => (id === "home" ? "/" : `/${id}`);
 
-let cache: Page[] | undefined;
+/** Every page. Not memoised here: Astro already caches collections, and a module-level cache would hide edits in dev. */
 export async function allPages(): Promise<Page[]> {
-  cache ??= await getCollection("pages");
-  return cache;
+  return getCollection("pages");
 }
 
 export async function getPage(id: string): Promise<Page> {

@@ -1,0 +1,23 @@
+---
+/** A module's icon on a soft red tile. The name comes from the module's `icon` front matter. */
+import Icon from "./Icon.astro";
+import type * as icons from "lucide-static";
+
+interface Props {
+  name?: string;
+  size?: "sm" | "md" | "lg";
+  class?: string;
+}
+
+const { name, size = "md", class: className = "" } = Astro.props;
+const box = { sm: "size-8 rounded-lg", md: "size-11 rounded-xl", lg: "size-14 rounded-2xl" }[size];
+const glyph = { sm: "size-4", md: "size-5.5", lg: "size-7" }[size];
+---
+
+{
+  name && (
+    <span class:list={["inline-flex shrink-0 items-center justify-center bg-accent-soft text-accent", box, className]}>
+      <Icon name={name as keyof typeof icons} class={glyph} />
+    </span>
+  )
+}

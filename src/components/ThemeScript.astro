@@ -1,29 +1,48 @@
 ---
 /**
  * Runs before first paint so there's no flash of the wrong theme.
- * Uses the saved choice if there is one, otherwise the system setting,
- * and keeps following the system setting until the visitor picks one.
+ *
+ * The visitor's preference is "system" (the default), "light" or "dark".
+ * It's stored in localStorage only when it isn't "system". The preference is
+ * exposed as data-theme-pref on <html> (for the toggle's icon) and the
+ * resolved theme as data-theme (for styling). While on "system", the page
+ * follows OS changes live.
  */
 ---
 
 <script is:inline>
   (() => {
     const key = "tne-theme";
+    const root = document.documentElement;
     const media = matchMedia("(prefers-color-scheme: dark)");
-    const saved = () => {
+    const read = () => {
       try {
         const v = localStorage.getItem(key);
-        return v === "light" || v === "dark" ? v : null;
+        return v === "light" || v === "dark" ? v : "system";
       } catch {
-        return null;
+        return "system";
       }
     };
-    const apply = () => {
-      document.documentElement.dataset.theme = saved() ?? (media.matches ? "dark" : "light");
+    const apply = (pref) => {
+      root.dataset.themePref = pref;
+      root.dataset.theme = pref === "system" ? (media.matches ? "dark" : "light") : pref;
     };
-    apply();
+    window.tneSetTheme = (pref) => {
+      try {
+        if (pref === "system") localStorage.removeItem(key);
+        else localStorage.setItem(key, pref);
+      } catch {
+        /* storage unavailable: the choice lasts for this page only */
+      }
+      apply(pref);
+    };
+    apply(read());
     media.addEventListener("change", () => {
-      if (!saved()) apply();
+      if (root.dataset.themePref === "system") apply("system");
+    });
+    // Keep other open tabs in step.
+    addEventListener("storage", (e) => {
+      if (e.key === key) apply(read());
     });
   })();
 </script>

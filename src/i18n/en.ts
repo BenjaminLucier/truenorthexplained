@@ -17,9 +17,10 @@ export const en = {
     primary: "Main",
   },
   theme: {
-    toggle: "Toggle dark mode",
+    system: "System",
     light: "Light",
     dark: "Dark",
+    label: (current: string, next: string) => `Theme: ${current}. Switch to ${next}.`,
   },
   page: {
     onThisPage: "On this page",
