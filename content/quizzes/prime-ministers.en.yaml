@@ -1,0 +1,109 @@
+# Question bank: Prime ministers (reference page)
+# Format: see SITEMAP.md, section "Quizzes".
+
+- id: prime-ministers-appointed
+  pages: [prime-ministers]
+  tags: [prime-minister, conventions]
+  type: single
+  question: Who formally appoints the Prime Minister?
+  options:
+    - The House of Commons, by a vote
+    - The Governor General
+    - The Chief Justice of Canada
+    - Voters, in a separate national ballot
+  answer: 1
+  explanation: >
+    The Governor General appoints the Prime Minister. By convention, they choose
+    whoever can hold the confidence of the House of Commons, normally the leader of
+    the party with the most support there.
+  source: https://www.gg.ca/en/governor-general/role-and-responsibilities
+
+- id: prime-ministers-numbering
+  pages: [prime-ministers]
+  tags: [prime-minister]
+  type: single
+  question: When a former Prime Minister returns to office, how are they numbered?
+  options:
+    - They get a new number, as if they were a new Prime Minister
+    - They keep their original number
+    - Only their first term is counted, so the return gets no number
+    - They're numbered by the Parliament they serve in
+  answer: 1
+  explanation: >
+    Prime Ministers are numbered by person, not by term. Pierre Trudeau, for example,
+    is the 15th Prime Minister for both his terms, which is why there have been more
+    terms than Prime Ministers.
+  source: https://en.wikipedia.org/wiki/List_of_prime_ministers_of_Canada
+
+- id: prime-ministers-king-byng
+  pages: [prime-ministers]
+  tags: [prime-minister, reserve-powers]
+  type: single
+  question: In the King–Byng affair of 1926, what did Governor General Lord Byng refuse to do?
+  options:
+    - Give royal assent to the budget
+    - Dissolve Parliament for an election when Prime Minister King asked
+    - Swear in Arthur Meighen as Prime Minister
+    - Appoint new senators
+  answer: 1
+  explanation: >
+    Byng refused King's request to dissolve Parliament. King resigned, Arthur Meighen
+    formed a government that lost a confidence vote within days, and King won the
+    election that followed. It's the best-known use of the Governor General's reserve
+    powers.
+  source: https://en.wikipedia.org/wiki/King%E2%80%93Byng_affair
+
+- id: prime-ministers-unionist
+  pages: [prime-ministers]
+  tags: [prime-minister, parties]
+  type: true-false
+  question: Robert Borden's Unionist government, formed in 1917, included Liberals as well as Conservatives.
+  answer: true
+  explanation: >
+    The Unionist government was a wartime coalition of Conservatives and Liberals who
+    supported conscription. It was led by Conservatives, which is why the site groups it
+    with the Conservative family.
+  source: https://en.wikipedia.org/wiki/Unionist_Party_(Canada)
+
+- id: prime-ministers-merger
+  pages: [prime-ministers]
+  tags: [parties]
+  type: single
+  question: Today's Conservative Party was formed in 2003 by merging which two parties?
+  options:
+    - The Progressive Conservative Party and the Canadian Alliance
+    - The Progressive Conservative Party and the Bloc Québécois
+    - The Reform Party and the Unionist Party
+    - The Liberal-Conservative Party and the Progressive Conservative Party
+  answer: 0
+  explanation: >
+    The Progressive Conservatives and the Canadian Alliance (the successor to the Reform
+    Party) merged in December 2003 to form the Conservative Party of Canada.
+  source: https://en.wikipedia.org/wiki/Conservative_Party_of_Canada
+
+- id: prime-ministers-clark-defeat
+  pages: [prime-ministers]
+  tags: [prime-minister, confidence]
+  type: true-false
+  question: Joe Clark's minority government fell in December 1979 after losing a confidence vote on its budget.
+  answer: true
+  explanation: >
+    The House voted down the government's budget, an election followed in February
+    1980, and Pierre Trudeau's Liberals returned to power.
+  source: https://en.wikipedia.org/wiki/1979_Canadian_federal_budget
+
+- id: prime-ministers-longest
+  pages: [prime-ministers]
+  tags: [prime-minister]
+  type: single
+  question: Which Prime Minister spent the longest time in office in total?
+  options:
+    - John A. Macdonald
+    - Wilfrid Laurier
+    - William Lyon Mackenzie King
+    - Pierre Trudeau
+  answer: 2
+  explanation: >
+    Mackenzie King governed for more than 21 years over three separate terms between
+    1921 and 1948. Macdonald is second, with almost 19 years over two terms.
+  source: https://en.wikipedia.org/wiki/List_of_prime_ministers_of_Canada

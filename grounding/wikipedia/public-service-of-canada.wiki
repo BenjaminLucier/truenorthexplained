@@ -1,0 +1,624 @@
+{{Short description|Canadian government's civilian workforce}}
+{{Use Canadian English|date=April 2026}}
+{{Use mdy dates|date=April 2026}}
+{{Infobox government agency
+| name            = Public Service of Canada
+| type            = Organization
+| seal            = Government of Canada signature.svg
+| logo            = Canada wordmark.svg
+| logo_size       = 100
+| logo_caption    = The Government of Canada [[Federal Identity Program#Corporate signatures|signature]] (above) and [[Canada wordmark|wordmark]] (below), used to identify Public Service organizations under the [[Federal Identity Program]]
+| formed          = 1867
+| jurisdiction    = [[Government of Canada]]
+| headquarters    = [[Ottawa]], Ontario
+| employees       = 357,965 (2025)
+| chief1_name     = [[Michael Sabia]]
+| chief1_position = [[Clerk of the Privy Council (Canada)|Clerk of the Privy Council]]
+| chief2_name     = Bill Matthews
+| chief2_position = Secretary of the Treasury Board
+| chief3_name     = 
+| chief3_position = 
+}}
+{{Politics of Canada}}
+The '''Public Service of Canada''' (known as the '''Civil Service of Canada''' prior to 1967) is the civilian workforce of the [[Government of Canada]]'s departments, agencies, and other public bodies.
+
+While the Government of Canada has employed civil servants to support its functions since Confederation in 1867, positions were initially filled through patronage until 1908, when the Laurier government enacted the ''Public Service Amendment Act'', which established the merit-based appointment system which governs hiring within the federal public service today. As of 2025, the Public Service employs 357,965 people,<ref>{{Cite web|last=Treasury Board Secretariat|date=23 December 2020|title=Population of the Federal Public Service|url=https://www.canada.ca/en/treasury-board-secretariat/services/innovation/human-resources-statistics/population-federal-public-service.html|access-date=9 October 2021|website=Government of Canada}}</ref> and is Canada's largest single employer.
+
+There are 137 distinct organizations within the Public Service, including 23 ministerial (line) departments, 3 service agencies, 17 departmental corporations, 50 departmental agencies, 12 special operating agencies, and 6 agents of Parliament.<ref name=":5">{{Cite web|last=Treasury Board Secretariat of Canada|date=7 October 2021|title=Inventory of Federal Organizations and Interests|url=https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#igoc/inst_form|access-date=9 October 2021|website=GC InfoBase}}</ref> While Crown corporations are owned by the federal government, employees are generally not considered to be public servants and are instead employed by the corporation itself. Over 40 per cent of the Public Service of Canada is located in the [[National Capital Region (Canada)|National Capital Region]], many public servants are situated at approximately 1,600 locations throughout Canada.
+
+Public service organizations are divided into the Core Public Administration (CPA), defined as organizations listed under schedules I and IV in the [[Financial Administration Act|''Financial Administration Act'' (''FAA'')]]'',''<ref>{{Cite web|last=Office of the Prime Minister|date=6 October 2021|title=Prime Minister announces mandatory vaccination for the federal workforce and federally regulated transportation sectors|url=https://pm.gc.ca/en/news/news-releases/2021/10/06/prime-minister-announces-mandatory-vaccination-federal-workforce-and|access-date=9 October 2021|website=Government of Canada}}</ref> primarily consisting of ministerial departments and departmental agencies such as [[Global Affairs Canada]] and the [[Correctional Service of Canada]], and Separate Agencies, which are listed under schedule V of the ''FAA'', which includes organizations such as the [[Canada Revenue Agency]] and [[Parks Canada]].
+
+The [[Clerk of the Privy Council (Canada)|clerk of the Privy Council]] is the head of the Public Service, and is the most senior public servant within the Canadian federal government. [[Michael Sabia]] has served as the clerk since July 7, 2025.
+
+== History ==
+
+=== Pre-Confederation (1841-1867) ===
+Prior to introduction of [[responsible government]] in 1848, the [[Province of Canada]], then a British colonial possession lacked an organized civil service.<ref name=":1">{{cite web|title=Civil Service in Canada|url=http://faculty.marianopolis.edu/c.belanger/quebechistory/encyclopedia/Civilservice-CanadianHistory.htm|access-date=2007-07-20|publisher=Marionopolis College}}</ref> Positions in the colonial administration were then largely filled through [[patronage]], with appointments almost exclusively controlled by the sitting governor, often under the advisement of members of the ruling [[Family Compact]], who would recommend the selection of candidates who were supportive of the ruling elite.<ref>{{Cite book|last=Robert MacGregor|first=Dawson|title=Civil Service of Canada|publisher=Oxford University Press|year=1929|location=London, UK}}</ref> As such, government officials would be appointed for life, often leading to instances where members of the same family would occupy a position for several generations.
+
+While the introduction of responsible government, which conferred more authority toward the popularly-elected Assembly to oversee appointments to the civil services, successive governments continued the practice of drawing appointees to non-political (civil) positions. Unlike the [[Spoils system|American spoils system]], political appointees did not typically resign when a new government was sworn in, which created friction between Cabinet and civil servants as governments changed.<ref name=":1" />
+
+To address the persistence of patronage appointments, Parliament enacted legislation in 1857 to establish a Board of Examiners for the Civil Service. The role of the board would be to examine "candidates for employment in the Civil Service" and "to grant certificates of qualification to those found to possess the moral character and fitness required for service".<ref name=":0">{{cite book|year=2008|title=The 100 years of the Public Service Commission of Canada 1908-2008|url=https://www.canada.ca/en/public-service-commission/services/publications/publications/100-years-public-service-commission-canada-1908-2008.html|publisher=Public Service Commission of Canada|isbn=978-1-100-10199-6}}</ref>
+
+=== Post-Confederation civil service reforms (1867-1908) ===
+[[File:Civil Service List of Canada, 1900. (IA 1901v35i12p30 0036).pdf|thumb|Front page of the 1900 edition of the Civil Service List, a periodical produced by the Government of Canada listing all civil servants]]
+Following [[Canadian Confederation]], Prime Minister [[John A. Macdonald]]'s government sought to improve the quality and rigor of appointments with the passage of the ''Canada Civil Service Act'' in 1868. The legislation established a Civil Service Board with limited jurisdictions over [[Civil service entrance examination|civil service examinations]], certification, and promotional investigations for civil servants located in Ottawa.<ref name=":2">{{cite web|title=A Timeline of the Public Service Commission of Canada|url=http://www.psc-cfp.gc.ca/research/timeline/psc_timeline_e.htm|archive-url=https://web.archive.org/web/20070703131234/http://www.psc-cfp.gc.ca/research/timeline/psc_timeline_e.htm <!-- Bot retrieved archive -->|archive-date=2007-07-03|access-date=2007-07-23|publisher=Public Service Commission of Canada}}</ref> Despite its intentions, the legislation failed to completely abolish political patronage in appointments.<ref>{{Cite journal|last=Kernaghan|first=Kenneth|date=2004|title=A Special Calling: Values, Ethics and Professional Public Service|url=https://www.tbs-sct.gc.ca/psm-fpfm/ve/code/scv-eng.pdf|journal=Public Service - Studies and Discoveries Series|via=Treasury Board Secretariat of Canada}}</ref>
+
+In 1869, the Royal Commission to Enquire into the Present State and Probable Requirements of the Civil Service was established, publishing three reports which called on the government to organize the civil service into departments, introduce a single job classification system, and require candidates to pass an entrance examination.<ref name=":0" /> An additional commission, convened in 1880, resulted in the ''Civil Service Act'', which formalized an examination process overseen by a three-member Board of Civil Service Examiners. This newly-created board tested candidates on their academic knowledge, with successful candidates proceeding to a selection examination.
+
+=== Eliminating patronage in the civil service (1908-1918) ===
+In 1908, the intensity of scandals and inefficiencies associated with the civil service prompted Prime Minister [[Wilfrid Laurier]]'s government to enact the ''Civil Service Amendment Act,'' which embodied a significant step toward an independent, politically neutral, and professional civil service. The CSAA created the [[Public Service Commission of Canada|Civil Service Commission]] (CSC), a body consisting of two commissioners appointed for an indefinite period, and tasked with enforcing a merit-based appointment process for civil service positions in and around Ottawa.
+
+The onset of World War I brought about a significant growth in the population of the civil service to support Canada's war effort. At the same time, this period brought about a resurgence of patronage appointments.<ref name=":0" /> Prime Minister [[Robert Borden]]'s government made eliminating patronage and reforming the civil service as key priorities for his government, culminating in the ''Civil Service Act'', 1918, which in addition to granting the CSC with greater authority to set the organization of departments, position classifications, and recommend pay scales to Cabinet, the legislation set clear restrictions on outside political activity by public servants, including prohibitions on participating on campaigning or handling party funds. Importantly, the legislation applied to both the Inside Service and Outside Service, whereas previous reforms only extended to positions in Ottawa.<ref>[[Alasdair Roberts (academic)|Roberts, Alasdair]]. ''So-Called Experts: How American Consultants Remade the Canadian Civil Service, 1918-1921''.  Institute of Public Administration of Canada, 1996</ref> A further amendment to the legislation enacted in 1919 curtailed Cabinet's ability to directly appoint employees to the civil service.
+
+=== Cementing a professional civil service (1919-1951) ===
+As the CSC solidified its role as a body responsible for curtailing patronage, and protecting the integrity of the merit-based appointment process, it sought to improve the rigour of its entrance examinations. However, the CSC also began to impose restrictions on employing married women beginning in 1921, with any women holding permanent positions being forced to resign upon marrying. These restrictions would remain in place until 1955.<ref name="auto">{{Cite web|url=https://www.canada.ca/en/public-service-commission/services/publications/publications/100-years-public-service-commission-canada-1908-2008.html|title=The 100 years of the Public Service Commission of Canada 1908-2008|first=Public Service Commission of|last=Canada|date=July 28, 2008|website=www.canada.ca}}</ref>
+
+Nevertheless, Prime Minister [[William Lyon Mackenzie King]]'s government passed the ''Civil Service Superannuation Act'' in 1924, helping to establish a pension system for civil servants and to promote a career civil service.
+
+The [[Great Depression in Canada|Great Depression]] brought about a significant economic downturn in Canada, culminating in high unemployment and business failures across the country. As a result, government revenue dropped significantly, prompting the federal government, through the [[Treasury Board of Canada|Treasury Board]] to move forward with cutbacks to the operating costs of the civil service. While this did not result in layoffs within the civil service, as the government wanted to avoid deepening the unemployment issue, the Treasury Board temporarily imposed salary cuts and a suspension of promotions and salary raises.
+
+During this period, Prime Minister [[R. B. Bennett]]'s government, through [[Order in Council|Orders-in-Council]], permanently transferred staffing authority from the CSC to the Treasury Board for civil service positions. Given the Treasury Board's ability to enforce fiscal discipline, and its composition by members of Cabinet, it could more easily resist efforts to increase the size of the civil service, particularly during periods of economic hardship.
+
+With the outbreak of [[World War II]], Canada, as a [[Commonwealth of Nations|Commonwealth]] nation and former British possession, was immediately thrust into the war effort. For the civil service, the War saw provisions of the ''Civil Service Act'' replaced by the ''[[War Measures Act]]'', which facilitated the appointment of upwards of 54,000 employees, largely on a temporary basis. [[File:Canadian tax form sorter, 1945.tif|thumb|Department of National Revenue employee in Toronto opens and sorts [[tax return]]s, 1945.]]
+Following the end of World War II, personnel numbers within the civil service ballooned with the return of veterans from the homefront, many of whom were able to secure positions through preferential status granted to former service members. By 1949, about 55,000 veterans were appointed through this method.
+
+The civil service also began to introduce developmental classifications, notably the junior administrative assistant position beginning in 1946 to encourage the recruitment and training of university graduates into fully-fledged administrative professionals. Similarly, in 1947, the CSC established a Staff Training Division, responsible for organizing courses to train civil servants on different skills.
+
+=== ''Financial Administration Act'' and push for collective bargaining (1951-1964) ===
+[[File:Examining new arrivals in Immigration Examination Hall, Pier 21.jpg|left|thumb|Immigration official examines newly-arrived migrants in Immigration Hall at [[Pier 21]] in [[Halifax, Nova Scotia|Halifax]], 1952.]]
+In 1951, Prime Minister [[Louis St. Laurent]]'s government enacted the ''Financial Administration Act'', established the Treasury Board as a formal entity, consisting of the president of the Treasury Board and four other Cabinet members, and the creation of the position of Secretary of the Treasury Board, a senior civil servant who advises the members of the Treasury Board on their decisions. The FAA designated the Treasury Board as the final authority over all matters relating to the management and organization of the public service.
+
+The CSC had imposed restrictions on employing married women beginning in 1921, with any women holding permanent positions being forced to resign upon marrying; these restrictions were lifted in 1955.<ref name="auto"/>
+
+This period also saw a substantial push among civil servants and emerging staff associations, such as the Civil Service Association of Ottawa, to secure a right to [[collective bargaining]] for civil servants.<ref name=":0" /> The government was initially resistant to these efforts, asserting that the merit-based appointment system of the civil service eliminated the need for collective bargaining, and that the CSC was already well positioned to look out for the welfare of federal employees.
+
+Coinciding with this movement, the CSC established the Pay Research Bureau, which was tasked with researching pay and conditions of employment across Canada, and recommending appropriate pay rates for civil servants. The St. Laurent government initially established a committee of senior officials to determine the viability of introducing collective bargaining rights, which was resistant to the idea.
+
+The government eventually tasked Arnold Heeney, a former clerk of the Privy Council, and then-president of the CSC, to review the aging ''Civil Service Act'', with the ensuing report recommending granting CSC exclusive authority over recruitment, appointments, and promotions within the civil service. It further recommended that the CSC serve as the intermediary between the government and employees with respect to addressing issues. These proposals did not satisfy the staff associations, who felt that the CSC and the government should not have the final word over pay rates.
+
+In 1963, Prime Minister [[Lester B. Pearson|Lester Pearson]]'s government appointed a Preparatory Committee for Collective Bargaining (PCCB), to facilitate negotiations between labour unions and the Treasury Board over employment contracts. The Committee recommended streamlining the hundreds of position classifications into five categories to facilitate more effective negotiations between government and unions. This would eventually lead to the creation of what would become the Public Service Staff Relations Board, a dedicated body to handle labour negotiations.
+
+=== A new ''Civil Service Act'' and the Glassco Commission (1961-1967) ===
+In 1961, Prime Minister [[John Diefenbaker]]'s government enacted a new ''Civil Service Act'', representing the first major update to the legislation since 1918. The new legislation enshrined into law the requirement for government to negotiate with labour unions regarding terms and conditions of employment. Furthermore, it expanded coverage of appeal mechanisms from civil servants from decisions relating to promotions, to other issues, such as transfers, demotions, suspensions, and dismissals.
+
+Earlier in 1960, the government convened the [[Royal Commission on Government Organization]], colloquially referred to as the Glassco Commission, to investigate the current state of management practices within the federal government's workforce. The report found that the promotion and transfer processes imposed by the CSC were inefficient and time consuming enough that many qualified candidates were poached by other employers before the appointment process was complete. In 1962, the government adopted several of the commission's recommendations, among them, the transferring responsibility over promotions and appointment policy over to the Treasury Board, and allowing individual departments to handle day-to-day personnel management. The CSC's role was scaled back such that it was only responsible for conducting common recruitment programs, and ensuring the integrity of selection processes.
+
+In 1963, a desire to improve French language capabilities among civil servants prompted the creation of the Language Training Centre under the authority of the CSC. By 1966, French language skills were considered to be an element of merit for civil service recruitment for positions in Ottawa.
+
+=== Transition to the Public Service (1967-1979) ===
+Cabinet's acceptance of recommendations from the PCCB to introduce collective bargaining rights for civil servants prompted a complete overhaul of the enabling legislation for the civil service. The ''Public Service Employment Act'' (PSEA) and ''Public Service Staff Relations Act'' (PSSRA) were introduced to grant more authority to the renamed Public Service Commission to enforce the merit principle, and established a framework for collective bargaining in the public service.<ref name=":0" /> The passage of PSEA and PSSRA also saw the repeal of the ''Civil Service Act'', 1961 and amendments to the ''FAA.''
+
+With the emergence of new social programs, and Canada's growing populations, the public service grew from around 198,000 in 1970 to 274,000 by 1975. However, austerity-driven cutbacks beginning in 1978 would see around 7,000 public servants let go by 1979.
+
+In 1979, the bilingualism bonus was introduced for employees with proven capabilities to communicate in both English and French.
+
+==== Employment equity initiatives ====
+In 1971, the Public Service Commission created the Office of Equal Opportunity for Women to boost women's participation in the public service, a result of the report Sex and the Public Service, and the Report of the Royal Commission on the Status of Women, both issued in 1970. This built on anti-discrimination provisions woven into the PSEA, which listed sex as a prohibited ground of discrimination for public service hiring. This would be complemented by the inclusion of 'marital status' as such a ground later in 1974.
+
+In 1973, the Office of Native Employment was created to advance job opportunities for [[Indigenous peoples in Canada|Indigenous peoples]] within the public service. This would later be complemented by a Northern Careers Program to promote Indigenous employment with the public service in Canada's North.
+
+=== Expansion of employment equity and downsizing (1980-2003) ===
+Throughout the 1980s, the federal government rapidly expanded a number of employment equity initiatives. In 1983, a dedicated Women's Career Counselling and Referral Service was created to help with career development for women, and prepare them for senior management roles. That same year, a National Indigenous Development Program was formed, and sought to build on previous efforts to recruit more Indigenous people to the public service. A year later, the ''Equality Now!'' report from the Special Committee on Visible Minorities established a dedicated recruitment program to encourage members of [[visible minority]] communities secure positions within the federal workforce.<ref name=":2" />
+
+The 1980s and 1990s would see a transformation and renewal of various aspects of the public service, including new executive recruitment mechanisms, and updates to the operational systems across government. The ''Public Service Reform Act'' passed in 1992 under Prime Minister [[Brian Mulroney]]'s government At the same time, this saw a downsizing of federal public service positions, particularly in 1986, which saw a loss of 20,000 positions, and 1995, which saw the elimination of 45,000 permanent positions over the next three years.<ref name=":0" /> The latter, which was a result of an austerity-focused budget under Prime Minister [[Jean Chrétien]]'s government, represented one of the most drastic reductions to the public service.
+
+=== Modernization of staffing processes (2003-2015) ===
+[[File:BorderCrossingB3.jpg|thumb|[[Canada Border Services Agency|CBSA]] officer inspects a [[solar vehicle]] at a border crossing, 2005.]]
+In 2003, the ''Public Service Modernization Act'' was passed by the Chrétien government, becoming the first of several pieces of legislation to update the staffing and personnel management practices of the public service. This Act would fundamentally change how public servants were hired and managed. Complementary legislation, in the form of an updated ''Public Service Employment Act'' came in 2005. The new PSEA notably introduced a new definition of 'merit', pivoting away from a rules-based determination of 'best qualified', and enabling managers to hire employees on the basis of 'best fit' within their organization.<ref name=":2" /> Furthermore, the legislation transferred authority over recruitment from the Public Service Commission over the deputy heads of individual departments and agencies.
+
+Beginning in 2009, Prime Minister [[Stephen Harper]]'s government began plans to modernize and consolidate the federal government's aging pay system. In 2011, it eventually awarded a contract to [[IBM]] to develop the [[Phoenix pay system|Phoenix Pay System]], which would become the locus of controversy in later years due to errors in disbursing paychecks to federal employees.<ref name=":3">{{Cite web|last=Bagnall|first=James|date=23 February 2018|title=A timeline of the Phoenix Pay debacle: 29 years and counting|url=https://ottawacitizen.com/news/local-news/a-timeline-of-the-phoenix-pay-debacle-29-years-and-counting|access-date=12 October 2021|website=Ottawa Citizen}}</ref>
+
+In 2012, the federal budget by the Harper government sought to reduce the number of public service positions by around 19,000 over the next three fiscal years until 2015-16.<ref>{{Cite web|last=Laura|first=Payton|date=5 April 2012|title=5 things to know about public service job cuts|url=https://www.cbc.ca/news/politics/5-things-to-know-about-public-service-job-cuts-1.1266312|access-date=12 October 2021|website=CBC News}}</ref>
+
+Beginning in 2014, the Privy Council Office, Treasury Board, and other departments launched a new renewal initiative, Destination 2020, which focused on a five-pronged plan to improve efficiency and effectiveness of the public service by 2020, focusing on the adoption of innovative practices, process renewal, the deployment of new technology, and promoting the values of the public service.<ref>{{Cite web|last=Privy Council Office|date=2014|title=Destination 2020|url=https://publications.gc.ca/collections/collection_2014/bcp-pco/CP22-100-2014-eng.pdf|website=Library and Archives Canada}}</ref>
+
+=== Contemporary developments (2015-present) ===
+In January 2016, the Phoenix pay system began to be rolled out across the federal government, and ran into significant performance issues, leading to thousands of public servants being overpaid, underpaid, or not paid at all over the course of several months. This would prompt Public Services and Procurement Canada to rapidly launch dedicated telephone lines beginning in the summer of 2016 to assist public servants who were affected by issues brought on by the pay system.<ref name=":3" /> Even by early 2020, many public servants continued to encounter pay issues, with an estimated 98,000 public servants estimated to owe the federal government for overpayments.<ref>{{Cite web|last=The Canadian Press|date=28 January 2020|title=Overpaid by Phoenix, more than 98,000 public servants still owe money|url=https://www.cbc.ca/news/canada/ottawa/tens-of-thousands-still-owe-money-phoenix-overpay-1.5443640|access-date=12 October 2021|website=CBC News}}</ref>
+
+In June 2021, Prime Minister [[Justin Trudeau]]'s government amended the ''Public Service Employment Act'' to enshrine employment equity objectives, and notably introduced provide equal preference to Canadian citizens and permanent residents in job competitions.<ref>{{Cite news|last=Wilson|first=Jim|date=6 July 2021|title=Feds revise Public Service Employment Act|work=HR Reporter|url=https://www.hrreporter.com/focus-areas/diversity/feds-revise-public-service-employment-act/357938|access-date=12 October 2021}}</ref>
+
+==== COVID-19 pandemic (2020-22) ====
+The onset of the [[COVID-19 pandemic in Canada|COVID-19 pandemic]] prompted the Treasury Board of Canada Secretariat to ask departments to close offices to curtail community spread of COVID-19, and switch to [[remote work]] where possible.<ref>{{Cite news |last=Cotnam |first=Hallie |title=Federal public servants should work from home if possible: TBS |work=[[CBC News]] |url=https://www.cbc.ca/news/canada/ottawa/covid-19-coronovirus-working-from-home-advice-pitfalls-benefits-1.5496366 |date=16 March 2020}}</ref> However, restrictions on network capacity and delays in the deploying IT equipment to public servants working remotely resulted in nearly 110,000 public servants receiving special paid leave, costing approximately $1.1 billion by the end of 2020.<ref>{{Cite news|last=Passifume|first=Brian|date=2 December 2020|title=Paid leave for federal civil servants cost $1.1B during pandemic: report|newspaper=Toronto Sun|url=https://torontosun.com/news/national/paid-leave-for-federal-civil-servants-cost-1-1b-during-pandmic-report|access-date=12 October 2021}}</ref> The relative success of [[remote work]] arrangements prompted at least one department, [[Transport Canada]] to designate themselves as fully remote by default in May 2020, joining private companies such as Twitter and [[Shopify]].<ref>{{Cite news |last=Nardi |first=Christopher |title=After Twitter and Shopify, Transport Canada? Federal department becoming work-from-home office by default |work=[[National Post]] |url=https://nationalpost.com/news/politics/after-twitter-and-shopify-transport-canada-federal-department-becoming-work-from-home-office-by-default |date=30 May 2020}}</ref>
+
+In October 2021, Prime Minister Trudeau announced that all public servants, regardless of whether they are working remotely or on-site, needed to be [[COVID-19 vaccination in Canada|fully vaccinated against COVID-19]] by a [[Health Canada]]-approved vaccine.<ref name=":4">{{Cite news|last=Tasker|first=John Paul|date=6 October 2021|title=Federal public servants, RCMP and air and rail travellers must be vaccinated by month's end, Trudeau says|work=CBC News|url=https://www.cbc.ca/news/politics/federal-vaccine-mandate-1.6201528|access-date=12 October 2021}}</ref> Public servants were required to attest their vaccination status to their employers by October 29 of that year, with managers able to ask their employees to submit proof where necessary.<ref name=":4" /> Any public servants refusing to get vaccinated would be subject to disciplinary actions after October 29, with non-compliant employees subject to being placed on administrative leave without pay. Those placed on administrative leave without pay as a result of non-compliance with the COVID-19 vaccine mandate are ineligible to collect [[Unemployment benefits|Employment Insurance]] (EI). Several public sector unions expressed concern over not being consulted sufficiently by the federal government prior to the announcement of the measure.  In June 2022, the federal government suspended the COVID-19 vaccination requirement for federal public servants.<ref>{{Cite web |last=Treasury Board Secretariat of Canada |date=23 June 2022 |title=COVID-19 vaccination requirement for federal public servants |url=https://www.canada.ca/en/government/publicservice/covid-19/vaccination-public-service.html |access-date=4 August 2022 |website=Government of Canada}}</ref>
+
+==== Post COVID-19 pandemic (2022 to present) ====
+In December 2022, the Treasury Board of Canada Secretariat directed departments and agencies to have employees attend work onsite at least 2 to 3 days per week, with a phased introduction beginning in January 2023 and with full implementation by the end of March 2023.<ref>{{Cite news |last=May |first=Kathryn |date=December 15, 2022 |title=Government orders public service back to the office |url=https://policyoptions.irpp.org/magazines/december-2022/public-service-ordered-back-to-office/ |access-date=November 6, 2024 |work=Policy Options }}</ref>  Return-to-office, alongside wage increases to keep pace with rising inflation, became significant issues in labour negotiations between [[Public Service Alliance of Canada]] and TBS. PSAC members [[2023 Canadian federal worker strike|voted to strike]] on April 12,<ref>{{Cite news |last=CBC News |date=April 13, 2023 |title=More federal public service union members vote for strike mandate |url=https://www.cbc.ca/news/canada/ottawa/psac-federal-public-servant-strike-vote-2023-1.6807733 |access-date=November 6, 2023 |work=[[CBC News]] }}</ref>  followed by the [[Union of Taxation Employees]] three days later on April 15. This strike, which began on April 19, saw an estimated 100,000 workers walk off the job for 12 days, with the UTE striking for 15 days. Tentative agreements were reached for Treasury Board units on May 1<ref>{{Cite web |last=Public Service Alliance of Canada |date=May 1, 2023 |title=PSAC has reached a tentative agreement for the PA, SV, TC and EB bargaining units at Treasury Board |url=https://psacunion.ca/psac-has-reached-tentative-agreement-pa-sv-tc-and |access-date=November 6, 2024 |website=Public Service Alliance of Canada }}</ref> and CRA units on May 3 respectively.<ref>{{Cite web |author=Canada Revenue Agency |date=May 4, 2023 |title=The Canada Revenue Agency reaches a tentative agreement with the Public Service Alliance of Canada – Union of Taxation Employees |url=https://www.canada.ca/en/revenue-agency/news/2023/05/the-canada-revenue-agency-reaches-a-tentative-agreement-with-the-public-service-alliance-of-canada--union-of-taxation-employees.html |access-date=November 6, 2023 |website=Government of Canada }}</ref>
+
+TBS went on to revise the direction on hybrid work to increase the minimum number of expected onsite days for employees from 2 to 3 days in May 2024, with full implementation by September 9.<ref>{{Cite web |last=Treasury Board of Canada Secretariat |date=September 10, 2024 |title=Hybrid work in the public service timeline |url=https://www.canada.ca/en/government/publicservice/modernizing/hybrid-work/hybrid-work-timeline.html |access-date=November 6, 2024 |website=Government of Canada }}</ref> This decision was criticized by several public service unions and labour leaders, such as PSAC, which promised to file legal challenges and grievances against the decision<ref>{{Cite news |last=Karadeglija |first=Anja |date=May 8, 2024 |title=Public service unions promise ‘summer of discontent’ over in-office policy |url=https://ottawa.citynews.ca/2024/05/08/public-service-unions-promise-summer-of-discontent-over-in-office-policy/ |access-date=November 6, 2024 |work=City News}}</ref> [[Canadian Association of Professional Employees]], who called for a parliamentary inquiry into the three-day-a-week return to office mandate.<ref>{{Cite news |last=MacDiarmid |first=Campbell |date=October 14, 2024 |title=Public service union calls for investigation into return-to-office mandate |url=https://www.cbc.ca/news/canada/ottawa/public-service-union-calls-for-investigation-into-return-to-office-mandate-1.7351577 |access-date=November 6, 2024 |work=[[CBC News]] }}</ref>
+
+==Purpose==
+The Public Service of Canada supports the Government of Canada in the development, implementation, and evaluation of [[Public policy|policy]], and in carrying out key bureaucratic functions at the federal level.<ref>{{Cite web|last=Doerr|first=Audrey|date=16 December 2013|title=Public Service|url=https://www.thecanadianencyclopedia.ca/en/article/public-service|access-date=12 October 2021|website=The Canadian Encyclopedia}}</ref> The duties of individual public servants vary widely, ranging from issuing policy recommendations to ministers, processing applications or forms, to interacting directly with members of the public.
+
+While public servants aim to convert the political priorities of the elected government and Cabinet from concept into action, public servants are loyal to the Crown, rather than the sitting government. As such, public servants remain employed even as governments and political priorities change, requiring them to exercise a degree of political neutrality, which restricts their ability to participate in overtly partisan activities. Unlike political staff, who are often hired through [[patronage]], public servants are appointed on the basis of the merit, often through a competitive examination.
+
+The duties of public servants and their relationship to the political executive is often captured by scholars and public servants in the [[epigram]] "fearless advice and loyal implementation",<ref>{{Cite web|last=Malli|first=Nisa|date=1 June 2017|title=Putting the 'Public' in Public Servant|url=https://policyoptions.irpp.org/magazines/june-2017/putting-the-public-in-public-servant/|access-date=12 October 2021|website=Policy Options}}</ref> which denotes the ability for public servants to provide honest, evidence-based advice to the Ministers without fear of losing their employment, while also dutifully carrying out the will of the sitting government, even if it runs counter to their own advice or personal values.
+
+==Structure==
+The Public Service of Canada is organized into 137 distinct organizations, including 23 ministerial departments, 3 service agencies, 17 departmental corporations, 50 departmental agencies, 12 special operating agencies, and 6 agents of Parliament.<ref name=":5" /> Although Crown corporations and other federal interests such as the [[Canadian Armed Forces]] are often mistaken as being part of the public service, they are generally considered to be separate entities owing to their greater freedom from direct political control.<ref>{{Cite web|last=Tupper|first=Allan|date=21 March 2021|title=Crown corporations|url=https://www.thecanadianencyclopedia.ca/en/article/crown-corporation|website=The Canadian Encyclopedia}}</ref>
+
+Public service organizations are categorized under the following designations, pursuant to the ''Financial Administration Act''
+
+* '''Core public administration (CPA):''' Consists of organizations, primarily ministerial departments, listed under schedules I and IV of the ''FAA'', where Treasury Board serves as the direct employer for public servants in these organizations, and sets pay rates and other workplace policies
+* '''Separate agencies:''' Consists of organizations, primarily service agencies and departmental corporations listed under schedule V of the ''FAA'', where Treasury Board is only responsible for approving employer mandates and overseeing the internal finances of each department.<ref>{{Cite web|last=Scott-Douglas|first=Roger|date=16 June 2009|title=Workforce planning in the public service : Calculating numbers and compensation costs in the Government of Canada|url=https://www.oecd.org/mena/governance/43381311.pdf|access-date=12 October 2021|website=Organisation for Economic Co-operation and Development}}</ref>
+
+=== Management structure ===
+In most ministerial departments and certain agencies, such as the Canada Revenue Agency, a [[Cabinet of Canada|Cabinet minister]] has overarching responsibility for the management and direction of the organization, and is ultimately [[Individual ministerial responsibility|responsible]] to [[Parliament of Canada|Parliament]] for their decisions, policies, and operations.
+
+Directly beneath the minister is the [[Deputy minister (Canada)|deputy minister]], a career public servant who manages the day-to-day operations of their organization, and is responsible for the decisions and actions of their organization's employees.<ref>{{Cite web|last=Bourgault|first=Jacques|title=The Deputy Minister's Role in the Government of Canada: His Responsibility and His Accountability|url=https://www.cbc.ca/news2/background/groupaction/v2fullreport/CISPAA_Report_Chapter5.pdf|access-date=12 October 2021|website=Canadian Broadcasting Corporation}}</ref> The deputy minister, under the ''Financial Administration Act'', has superlative authority over financial and personnel management within their organizations, and must ensure the department adheres to standards, regulations, and other policy instruments from the [[Treasury Board of Canada Secretariat|Treasury Board Secretariat]] and [[Privy Council Office (Canada)|Privy Council Office]].
+
+Under the deputy minister are assistant deputy ministers (ADMs) who oversee a particular branch or other section of the organization. Branches are further divided into directorates, which focus on a specific functional area under the branch, and are led by directors-general. Beneath directors-general are directors, who oversee divisions within each directorate. These form the smallest organizational sub-units within a federal organization, under which mid-level managers and functional staff are organized.
+
+It is common for different organizations within the federal government to adopt alternative terminology for senior management. For instance, the deputy minister-equivalent in the [[Canada Border Services Agency]] is the president, under which are vice presidents, whose function is akin to that of an ADM.
+
+=== Oversight bodies ===
+
+==== [[Treasury Board of Canada]] ====
+The Treasury Board of Canada (TB) is considered the 'employer' of the core public administration, and through its administrative branch, the [[Treasury Board of Canada Secretariat]] (TBS), it oversees the management of human, financial, and information resources within the federal government.<ref name=":9">{{Cite web|last1=Marshall|first1=Claire E.|last2=Cashaback|first2=David|date=January 2001|title=Players, Processes, Institutions: Central Agencies in Decision-Making|url=http://archives.enap.ca/bibliotheques/2008/05/000318487.pdf|access-date=19 October 2021|website=Institut national de l'administration publique}}</ref> It issues directives, guidance, and other policy instruments to federal organizations to set consistent managerial procedures and practices throughout the federal public service.  It also monitors internal spending within federal departments and agencies, ensuring resources are used appropriately and align with government priorities.<ref>{{Cite web|last=Smith|first=Alex|date=22 April 2015|title=The Roles and Responsibilities of Central Agencies|url=https://publications.gc.ca/collections/collection_2015/bdp-lop/bp/2009-01-eng.pdf|access-date=18 October 2021|website=Library of Parliament}}</ref>
+
+==== [[Privy Council Office (Canada)|Privy Council Office]] ====
+The Privy Council Office (PCO) assists the Prime Minister and Cabinet in setting priorities, developing policies, establishing ministerial mandates, and recommending candidates for appointment to Governor-in-Council positions or senior positions within the federal public service.<ref name=":9" /> While the PCO does not exercise any managerial authority over departments, their proximity to Cabinet decision-making means that federal organizations must consider their advice and guidance carefully when making decisions.<ref name=":9" />
+
+==== [[Public Service Commission of Canada]] ====
+The Public Service Commission (PSC) ensures that recruitment into the federal public service is merit-based and free from political influence. While the PSC historically had a more significant role in the overall management of the public service, this role has gradually shifted toward the Treasury Board Secretariat instead.<ref>{{Cite web|last=Public Service Commission of Canada|date=2020|title=Public Service Commission of Canada 2019–20 Departmental Results Report|url=https://publications.gc.ca/collections/collection_2020/cfp-psc/SC1-10-2020-eng.pdf|access-date=20 October 2021|website=Government of Canada}}</ref>  The PSC runs several general and specialized competitions for candidates seeking employment with the federal government, and spearheads employment equity initiatives across the federal government.   The PSC also ensures that federal public servants are non-partisan, overseeing investigations into political activities of public servants, and issuing punitive measures where necessary.
+
+==== [[Federal Public Sector Labour Relations and Employment Board|Federal Public Service Labour and Employment Board]] ====
+The Federal Public Service Labour and Employment Board (FPSLREB), formed in 2014 from the merger of the Public Service Labour Relations Board and the Public Service Staffing Tribunal oversees the collective bargaining system between the federal government and represented employees, as well as the grievance adjudication system.<ref>{{Cite web|last=Federal Public Sector Labour Relations and Employment Board|date=2020|title=2019-20 Annual Report|url=https://www.fpslreb-crtespf.gc.ca/en/about-us/annual-reports/2019-2020/documents/fpslreb_annual-report-2019-2020.pdf|website=Government of Canada}}</ref> The FPSLEB hears and issues decisions on cases relating to appeals around personnel management decisions, such as termination, discrimination, or unacceptable behaviour.
+
+==== [[Public Sector Integrity Commissioner|Office of the Public Sector Integrity Commissioner]] ====
+The Office of the Public Sector Integrity Commissioner (PSIC), which is responsible directly to Parliament through the namesake Public Sector Integrity Commissioner, is responsible for the intake and investigation of disclosures of wrongdoing by public servants by other federal employees or members of the public in relation to the former's job duties.  The OPSIC additionally works to prevent and address reprisal against [[whistleblower]]s from their supervisors or senior management for reporting wrongdoing.<ref>{{Cite web|last=Office of the Public Sector Integrity Commissioner|date=7 April 2020|title=Our Vision, Mandate and Values|url=https://www.psic-ispc.gc.ca/en/our-vision-mandate-and-values|access-date=20 October 2021|website=Office of the Public Sector Integrity Commissioner}}</ref>
+
+==Personnel==
+
+=== Recruitment principles ===
+
+{{Historical populations
+|title = Population of the Public Service of Canada
+|source = 1913-1960,<ref name="Glassco 1962 305">{{cite book
+ |last= Glassco
+ |first= John Grant
+ |author-link=
+ |date= 1962
+ |title= Report of the Royal Commission on Government Organization. Volume 1: Management of the Public Service.  
+ |url=
+ |location=Ottawa, ON
+ |publisher= Government of Canada
+ |page= 305
+ |isbn=}}</ref> 1964-1968,<ref>{{cite book
+ |last= Public Service Commission of Canada
+ |author-link=
+ |date= 1969
+ |title= Annual Report 1968 - Public Service Commission of Canada
+ |url=
+ |location=Ottawa, ON
+ |publisher= Government of Canada
+ |page= 39
+ |isbn=}}</ref> 1969-1971,<ref>{{cite book
+ |last= Public Service Commission of Canada
+ |author-link=
+ |date= 1971
+ |title= Annual Report 1970 - Public Service Commission of Canada
+ |url=
+ |location=Ottawa, ON
+ |publisher= Government of Canada
+ |page= 61
+ |isbn=}}</ref> 1972-1974,<ref>{{cite book
+ |last= Public Service Commission of Canada
+ |author-link=
+ |date= 1975
+ |title= Annual Report 1974 - Public Service Commission of Canada
+ |url=
+ |location=Ottawa, ON
+ |publisher= Government of Canada
+ |page= 
+ |isbn=}}</ref> 1975-1979,<ref>{{cite book
+ |last= Public Service Commission of Canada
+ |author-link=
+ |date= 1979
+ |title= Annual Report 1978 - Public Service Commission of Canada
+ |url=
+ |location=Ottawa, ON
+ |publisher= Government of Canada
+ |page= 61
+ |isbn=}}</ref> 1978-1983,<ref>{{cite book
+ |last= Public Service Commission of Canada
+ |author-link=
+ |date= 1983
+ |title= Annual Report 1982 - Public Service Commission of Canada
+ |url=
+ |location=Ottawa, ON
+ |publisher= Government of Canada
+ |page= 
+ |isbn=}}</ref> 1984-1988,<ref>{{cite book
+ |last= Public Service Commission of Canada
+ |author-link=
+ |date= 1989
+ |title= Annual Report 1988 - Public Service Commission of Canada
+ |url=
+ |location=Ottawa, ON
+ |publisher= Government of Canada
+ |page= 
+ |isbn=}},{{cite web
+ |url= https://www.tbs-sct.gc.ca/report/fryer/iti-ide01-eng.asp
+ |title= Identifying the Issues
+ |last= Treasury Board Secretariat of Canada
+ |date= 1999
+ |website= 
+ |publisher= Government of Canada
+ |access-date= 17 October 2021
+ |quote=}}</ref> 1989-1999,<ref>{{cite web
+ |url= https://www.tbs-sct.gc.ca/report/fryer/iti-ide01-eng.asp
+ |title= Identifying the Issues
+ |last= Treasury Board Secretariat of Canada
+ |date= 1999
+ |website= 
+ |publisher= Government of Canada
+ |access-date= 17 October 2021
+ |quote=}}</ref> 2000-2016,<ref>{{cite web
+ |url= https://www.canada.ca/en/treasury-board-secretariat/services/innovation/human-resources-statistics/population-federal-public-service.html
+ |title= Population of the Federal Public Service
+ |last= Treasury Board Secretariat of Canada
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20170203180057/https://www.canada.ca/en/treasury-board-secretariat/services/innovation/human-resources-statistics/population-federal-public-service.html
+ |archive-date= 3 February 2017
+ |date= 2017
+ |website= 
+ |publisher= Government of Canada
+ |access-date= 17 October 2021
+ |quote=}}</ref> 2017-2020<ref>{{cite web
+ |url= https://www.canada.ca/en/treasury-board-secretariat/services/innovation/human-resources-statistics/population-federal-public-service.html
+ |title= Population of the Federal Public Service
+ |last= Treasury Board Secretariat of Canada
+ |url-status=live
+ |archive-url=https://web.archive.org/web/20211023041058/https://www.canada.ca/en/treasury-board-secretariat/services/innovation/human-resources-statistics/population-federal-public-service.html
+ |archive-date= 23 October 2021
+ |date= 2021
+ |website= 
+ |publisher= Government of Canada
+ |access-date= 23 October 2021
+ |quote=}}</ref>
+
+| percentages = pagr
+| align = right
+| cols = 2
+| graph-pos = top
+| 1913 | 22621
+| 1914 | 25107
+| 1916 | 29219
+| 1918 | 38369
+| 1920 | 47133
+| 1922 | 41094
+| 1924 | 40068
+| 1926 | 39154
+| 1928 | 41243
+| 1930 | 44175
+| 1932 | 44008
+| 1934 | 40469
+| 1936 | 41132
+| 1938 | 44143
+| 1939 | 46106
+| 1946 | 120557
+| 1948 | 117500
+| 1950 | 127196
+| 1955 | 136542
+| 1960 | 151665
+| 1964 | 138666
+| 1965 | 140206
+| 1966 | 145783
+| 1967 | 200329
+| 1968 | 200321
+| 1969 | 199720
+| 1970 | 198701
+| 1971 | 216488
+| 1972 | 230756
+| 1973 | 245302
+| 1974 | 258590
+| 1975 | 273167
+| 1976 | 279314
+| 1977 | 282788
+| 1978 | 279207
+| 1979 | 266865
+| 1980 | 208299
+| 1981 | 215643
+| 1982 | 222582
+| 1983 | 222044
+| 1984 | 224026
+| 1985 | 223173
+| 1986 | 212292
+| 1987 | 214930
+| 1988 | 211993
+| 1989 | 214494
+| 1990 | 218328
+| 1991 | 217818
+| 1992 | 223598
+| 1993 | 240462
+| 1994 | 231400
+| 1995 | 210517
+| 1996 | 207977
+| 1997 | 194396
+| 1998 | 187187
+| 1999 | 186314
+| 2000 | 211925
+| 2001 | 223933
+| 2002 | 237251
+| 2003 | 242737
+| 2004 | 244158
+| 2005 | 243971
+| 2006 | 249932
+| 2007 | 254622
+| 2008 | 263114
+| 2009 | 274370
+| 2010 | 282980
+| 2011 | 282352
+| 2012 | 278092
+| 2013 | 262817
+| 2014 | 257138
+| 2015 | 257034
+| 2016 | 258979
+| 2017 | 262696
+| 2018 | 273571
+| 2019 | 287983
+| 2020 | 300450
+| 2021 | 319601
+| 2022 | 335957
+| 2023 | 357247
+| 2024 | 367772
+| footnote = 
+<br>
+1. For data between 1913 and 1960, annual data is not available for all years. Report of the Royal Commission on Governmental Organization notes in the presentation of this data that "...the lack of historical data based upon uniform and constant statistical concepts makes it impracticable to measure precisely the growth of the public service."<ref name="Glassco 1962 305"/>
+<br />
+<br>
+2.  Passage of ''Public Service Employment Act'' in 1967 resulted in inclusion of employees previously not covered by the ''Civil Service Act'' into the calculation of the total number of employees in the public service, which could explain anomalous year-over-year increase between 1966 and 1967.
+<br />
+<br>
+3. Data on the number of public servants between 1961 and 1963 could not be found from previous Civil Service Commission reports.
+<br />
+<br>
+4. Anomalous reduction in the public service between 1979 and 1980 results from the conversion of [[Canada Post]] from a ministerial department into a Crown corporation, and subsequent exclusion of its employees from annual population survey of the federal public service
+
+}}
+
+Public servants are recruited through a variety of methods, depending on the needs of an organization. In general, recruitment processes are organized around core values of merit and non-partisanship.<ref>{{Cite web|date=29 June 2021|title=Public Service Employment Act, 2003|url=https://laws-lois.justice.gc.ca/eng/acts/p-33.01/page-3.html#docCont|access-date=12 October 2021|website=Department of Justice Canada}}</ref> However, the Public Service Commission under the terms of the ''Public Service Employment Act,'' can establish priority groups for appointment, such as veterans, Canadian citizens, and permanent residents, or can create programs to promote the opportunities for equity-seeking groups (e.g. women, Indigenous peoples, persons with disabilities) in the federal public service.
+
+Changes to the ''Public Service Employment Act'' in 2003 redefined 'merit' within recruitment processes to focus less on a rules-based concept of ''best-qualified'', and more on a values-based approach. This enables managers to hire qualified and competent individuals whose experience, skills and knowledge are the best fit for a position's current and future needs.<ref>Government of Canada [http://www.psagency-agencefp.gc.ca/arc/hrmm-mgrh/psma-lmfp/centre/topics-sujets/psma-lmfp_e.asp Public Service Modernization Act (2003)]</ref>
+
+Recruitment in organizations in the Core Public Administration is governed directly by the ''Public Service Employment Act'', while separate agencies hire according to authority granted to them by their enabling legislation.<ref>{{cite web|title=Other governmental organizations|url=http://jobs-emplois.gc.ca/centres/org-eng.htm#nonpsea|access-date=2010-03-16|publisher=[[Public Service Commission of Canada]]}}</ref>
+
+Federal public servants Canada are considered to be employed by [[the Crown]], as the [[corporation sole]] of the Canadian state.<ref>Smith, David E.; The Invisible Crown; University of Toronto Press; 1995; p. 79</ref> The ''Public Service Modernization Act'' in 2003, eliminated the requirement for public servants to swear or affirm [[Oath of Allegiance (Canada)|Oath of Allegiance]] to the monarch before they could assume their position.
+
+=== Tenure ===
+Public servants can be appointed to one of four types of tenure, as defined under the ''Public Service Employment Act'', which come with different levels of [[job security]], compensation, benefits, and responsibilities.<ref>{{Cite web|last=Public Services and Procurement Canada|date=24 September 2021|title=Employment types in the federal public service|url=https://www.tpsgc-pwgsc.gc.ca/remuneration-compensation/collectivite-community/employeur-employer/emplfpf-emplfps-eng.html|access-date=12 October 2021|website=Government of Canada}}</ref><ref>{{Cite web|last=Treasury Board Secretariat of Canada|date=23 December 2021|title=Population of the Federal Public Service by Tenure|url=https://www.canada.ca/en/treasury-board-secretariat/services/innovation/human-resources-statistics/population-federal-public-service-tenure.html|access-date=12 October 2021|website=Government of Canada}}</ref>
+
+* '''Indeterminate''': Employees who are appointed on a continuous basis, and have no prescribed end date to their employment. Indeterminate employees are considered permanent, though may be laid off during workforce adjustment exercises within their organization. They are also entitled to all benefits, and must contribute to the public service pension plan as required by the ''Public Service Superannuation Act''.
+* '''Term''': Employees who are appointed for a definite period of time, usually between 3 and 24 months in length. Depending on the length of their contract, they may receive benefits and contribute to the pension. Term employees may be granted a 'rollover' to indeterminate status if they are employed as a term for the same department for three continuous years.
+* '''Casual:''' Employees who are appointed for appointed for short contracts not exceeding 90 working days with a single organization over the course of a calendar year. Casual employees may obtain multiple contracts over the course of a year, but are ineligible to claim benefits or contribute to the pension, and are not represented by a union.
+* '''Student:''' Employees who are participating in a Government of Canada student employment program, such as the Federal Student Work Experience Program (FSWEP) or a co-op program with a post-secondary institution. Under certain conditions, students may claim benefits and contribute to the pension if they are continuously employed for more than 6 months. However, students are not eligible for paid leave, and are not represented by a union.
+{{Pie chart|radius=100|thumb=|caption=Composition of the federal public service by tenure, 2019-20|label1=Indeterminate (permanent)|value1=83.2|color1=red|label2=Term|value2=11.0|color2=blue|label3=Casual|value3=2.9|color3=gold|label4=Student|value4=2.9|color4=green|footnote=}}
+
+=== Selection methods ===
+Selection processes within the Public Service of Canada for substantive positions can be divided into external appointments, which candidates not currently employed in the federal public service can apply to, and internal appointments, which are limited to individuals currently employed as a federal public servant.<ref>{{Cite web|last=Sadler|first=Paul|date=2021|title=Succeeding in Federal Government Competitions - The Process|url=https://polywogg.ca/hr-guide/the-process/|access-date=12 October 2021|website=Polywogg Guide to Government}}</ref> These appointments are generally published through jobs.gc.ca, the portal maintained by the Public Service Commission to advertise job vacancies in the federal government.
+
+After candidates submit their initial application, they are screened by human resource personnel to ascertain their qualifications and determine if they qualify for inclusion within a pool, from which managers can draw from. Pools themselves are divided into 'fully assessed' pools, meaning that the candidates are verified to have met the merit criteria for a position, and 'partially-assessed' pools, where candidates may require additional testing before they can be hired.<ref>{{Cite web|last=Public Service Commission|date=20 March 2008|title=General Pools and Inventories|url=https://www.canada.ca/en/public-service-commission/services/orphans/site-map-staffing-assessment-services/general-pools-inventories.html|access-date=12 October 2021|website=Government of Canada}}</ref>
+
+Appointments that occur from these selection processes can either be considered advertised, meaning that the appointment made from a pool aligns with the original job advertisement, or non-advertised, in which no clear connection between the position being filled and the information in the job advertisement exists.<ref>{{Cite web|last=Public Service Commission|date=29 June 2020|title=Hiring from pools – Advertised or non-advertised appointment|url=https://www.canada.ca/en/public-service-commission/services/appointment-framework/guides-tools-appointment-framework/hiring-pools-advertised-non-advertised-appointment.html|access-date=12 October 2021|website=Government of Canada}}</ref>
+
+While external applicants can apply through general pools, the Public Service Commission runs a number of specialized competitions to recruit recent university graduates, such as the Post-Secondary Recruitment (PSR) program to staff entry-level. Other competitions seek to attract academics or individuals with extensive experience in policy work, such as the Recruitment of Policy Leaders (RPL) and Emerging Talent Pool (ETP) programs to the federal workforce, placing successful candidates in more senior, mid-career positions.<ref>{{Cite web|last=Public Service Commission|date=11 February 2020|title=Graduate and Targeted Recruitment|url=https://www.canada.ca/en/public-service-commission/services/staffing-assessment-tools-resources/human-resources-specialists-hiring-managers/recruitment-options-managers/graduate-general-recruitment.html|access-date=12 October 2021|website=Government of Canada}}</ref>
+
+In addition, managers can select candidates through a non-advertised appointment of former participants in Government of Canada student employment programs to an entry-level position. This process known as 'student bridging', and is responsible for about 16.6 per cent of all indeterminate hires, according to the Public Service Commission.<ref>{{Cite web|last=Public Service Commission|date=7 July 2020|title=Student Bridging|url=https://www.canada.ca/en/public-service-commission/services/appointment-framework/student-bridging.html|access-date=12 October 2021|website=Government of Canada}}</ref>
+
+=== Student employment ===
+The Public Service of Canada recruits high school, undergraduate, and graduate students for full- and part-time [[Internship|paid internships]], through various sources, including the Federal Student Work Experience Program (FSWEP), the Research Affiliate Program (RAP), and [[Cooperative education|co-op programs]] at post-secondary institutions in Canada.<ref>{{Cite web|last=Public Service Commission|date=21 September 2021|title=Federal Student Work Experience Program|url=https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/federal-student-work-program.html|access-date=12 October 2021|website=Government of Canada}}</ref> As of March 2020, the Public Service of Canada employs around 8,852 students.<ref>{{Cite web|last=Treasury Board Secretariat of Canada|date=7 October 2021|title=Infographic for Government of Canada|url=https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#orgs/gov/gov/infograph/people|access-date=12 October 2021|website=Government of Canada}}</ref> Unlike most public servants, students do not occupy a 'substantive position' and therefore are unable to participate in internal recruitment processes. They are additionally are ineligible for vacation leave and are not represented by a union.<ref name=":6">{{Cite web|last=Treasury Board Secretariat of Canada|date=1 April 2021|title=Directive on Terms and Conditions of Employment for Students|url=https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12583|access-date=12 October 2021|website=Government of Canada}}</ref>
+
+Students are only eligible for these internships if they are registered as full-time students at a Canadian secondary or post-secondary institution. For summer or other work term positions, they must demonstrate they are registered for classes in the next semester to meet the requirements for employment.<ref name=":6" />
+
+=== Job classifications ===
+Positions within the public servants are organized into occupational groups, which are divided further into job classifications and sub-groups. As of 2020, the Core Public Administration has about 31 occupational groups, covering 56 job classifications.<ref>{{Cite web|last=Government of Canada|date=16 October 2017|title=Occupational groups for the public service|url=https://www.canada.ca/en/treasury-board-secretariat/services/collective-agreements/occupational-groups.html|access-date=13 October 2021|website=Government of Canada}}</ref> Occupational groups and job classifications are typically referred to by a two-letter code, such as FS, used for foreign service positions. The specific duties and expectations of each job classification is determined through different policy instruments.
+
+Before the reorganization of the public service during the latter half of the 20th century, public servants were organized into hundreds of different occupational groups, with one survey of civil service positions by American consultants identifying nearly 1,700 unique classifications within the federal government in 1921.<ref name=":7">{{Cite book|last1=Juillet|first1=Luc|title=Defending a Contested Ideal: Merit and the Public Service Commission, 1908–2008|last2=Rasmussen|first2=Ken|publisher=University of Ottawa Press|year=2008|isbn=9780776606842|location=Ottawa, ON|pages=58}}</ref> The arrival of the ''Public Service Employment Act'', in preparation for establishing collective bargaining for public servants, saw a concerted effort to consolidate and reorganize position classifications to better facilitate negotiation.<ref name=":7" />
+
+While some separate agencies incorporate occupational groups and job classifications used in the Core Public Administration, many retain their own classification systems to align with the particular workforce needs of their organization.
+
+=== Geographic distribution ===
+As of 2020, the largest share of public servants is located in the [[National Capital Region (Canada)|National Capital Region]], representing about 42.3 per cent of the federal workforce. As the headquarters of most departments, agencies, and other organizations are typically located in either Ottawa or Gatineau, most executives are located in the NCR.
+{| class="wikitable sortable"
+|+Public service population by province, territory, or region, 2020<ref>{{Cite web|last=Treasury Board of Canada Secretariat|date=23 December 2021|title=Population of the Federal Public Service by Province|url=https://www.canada.ca/en/treasury-board-secretariat/services/innovation/human-resources-statistics/population-federal-public-service-geographic-region.html|access-date=13 October 2021|website=Government of Canada}}</ref>
+!Region 
+!Number of public servants
+!Per cent of federal public service
+|-
+|{{flag|Alberta}}
+|16,088
+|5.4%
+|-
+|{{flag|British Columbia}}
+|24,750
+|8.2%
+|-
+|{{flag|Manitoba}}
+|11,625
+|3.9%
+|-
+|{{flag|New Brunswick}}
+|10,129
+|3.4%
+|-
+|{{flag|Newfoundland and Labrador}}
+|5,730
+|1.9%
+|-
+|{{flag|Nova Scotia}}
+|11,148
+|3.7%
+|-
+|{{flag|Nunavut}}
+|317
+|0.1%
+|-
+|{{flag|Northwest Territories}}
+|515
+|0.2%
+|-
+|{{flag|Ontario}} (excluding NCR)
+|41,092
+|13.7%
+|-
+|{{flag|Prince Edward Island}}
+|10,400
+|3.5%
+|-
+|{{flag|Quebec}} (excluding NCR)
+|24,626
+|8.2%
+|-
+|{{flag|Saskatchewan}}
+|8,425
+|2.8%
+|-
+|[[National Capital Region (Canada)|National Capital Region]] (NCR)
+|127,092
+|42.3%
+|-
+|Outside of Canada
+|3,001
+|1.0%
+|-
+|Unknown
+|5,171
+|1.7%
+|}
+
+=== Labour unions ===
+Approximately 80 per cent of federal public service employees are represented by a bargaining agent, who negotiate contracts directly with the Treasury Board. The largest federal public service union by number of members is the [[Public Service Alliance of Canada]].
+
+==== List of federal public service unions ====
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|+
+!Union<ref>{{Cite web|last=Treasury Board of Canada Secretariat|date=30 April 2018|title=Browse collective agreements alphabetically|url=https://www.tbs-sct.gc.ca/agreements-conventions/list-eng.aspx|access-date=12 October 2021|website=Government of Canada}}</ref>
+!Group(s) represented
+|-
+|Association of Canadian Financial Officers
+|Financial Management (FI)
+|-
+|Association of Justice Counsel
+|Law Practitioner (LP)
+|-
+|Canadian Association of Professional Employees
+|Economics and Social Science Services (EC)
+|-
+|Canadian Association of Professional Employees
+|Translation (TR)
+|-
+|Canadian Federal Pilots Association
+|Aircraft Operations (AO)
+|-
+|Canadian Merchant Service Guild
+|Ships' Officers (SO)
+|-
+|Canadian Military Colleges Faculty Association
+|University Teaching (UT)
+|-
+|Federal Government Dockyard Trades and Labour Council (Esquimalt)
+|Ship Repair (West) (SR (W))
+|-
+|Local 2228 of the International Brotherhood of Electrical Workers
+|Electronics (EL)
+|-
+|[[Professional Institute of the Public Service of Canada]]
+|Applied Science & Patent Examination (SP [AC, AG, BI, CH, FO, MT, PC, SG-PAT, SG-SRE]), Architecture, Engineering & Land Survey (NR [AR, EN]), Audit, Commerce and Purchasing (AV [AU, CO, PG]), Computer Systems (CS), Health Services (SH [DE, MD, ND, NU, OP, PH, PS, SW, VM])
+|-
+|[[Public Service Alliance of Canada]]
+|Border Services (FB), Education and Library Science (EB [ED, EU, LS]), Operational Services (SV [FR, GL, GS, HP, HS, LI, PR(S), SC]), Program and Administrative Services (PA [AS, CM, CR, DA, IS, OE, PM, ST, WP]), Technical Services (TC [DD, EG, GT, PI, PY, TI])
+|-
+|[[Unifor]] Local 2182
+|Radio Operations (RO)
+|-
+|Unifor Local 87-M
+|Non-Supervisory Printing Services (PR(NS))
+|-
+|Union of Canadian Correctional Officers - Syndicat des agents correctionnels du Canada (CSN)
+|Correctional Services (CX)
+|-
+|Canadian Air Traffic Control Association (CATCA) Unifor Local 5454
+|Air Traffic Control (AI)
+|-
+|Federal Government Dockyard Chargehands Association
+|Ship Repair (All Chargehand and Production Supervisor Employees Located on the East Coast) (SR (C))
+|-
+|Federal Government Dockyard Trades and Labour Council (East)
+|Ship Repair (East) (SR (E))
+|-
+|Professional Association of Foreign Service Officers
+|Foreign Service (FS)
+|}
+
+== Employment equity ==
+Employment equity represents a number of positive actions taken within the federal public service to provide opportunities to disadvantaged groups within Canadian society.<ref name="PPForumPG08">{{cite web|date=April 2007|title=Canada's Public Service in the 21st Century (discussion paper)|url=http://www.ppforum.ca/common/assets/publications/en/public_service_21st_century_en.pdf|archive-url=https://web.archive.org/web/20070731110230/http://www.ppforum.ca/common/assets/publications/en/public_service_21st_century_en.pdf <!-- Bot retrieved archive -->|archive-date=2007-07-31|access-date=2007-07-20|publisher=Public Policy Forum|pages=8}}</ref> The legal and regulatory framework of employment equity within the federal public service relies on representation targets, set jointly by PSC, TBS, and other relevant bodies on a periodic basis, as opposed to specified quotas for these groups.<ref name=":8">{{Cite web|last=Public Service Commission of Canada|date=October 2011|title=History of Employment Equity in the Public Service and the Public Service Commission of Canada|url=https://publications.gc.ca/collections/collection_2012/cfp-psc/SC3-159-2011-eng.pdf|access-date=13 October 2021|website=Government of Canada}}</ref> The rejection of quotas was intended to preserve the merit-based nature of the selection process in the public service, while providing underrepresented groups with equal footing in applying for positions. Performance on employment equity obligations is benchmarked by comparing the representation of equity-seeking groups in the public service, with the group’s estimated availability within the Canadian workforce at large.
+
+Early efforts to promote employment equity in the public service began after the publication of the report ''Sex and the Public Service,'' which brought forward concerns around the lack of opportunities available for women in the public service, and recommendations from the Royal Commission on the Status of Women published in 1970. This resulted in the creation of the Office of Equal Opportunity for Women within the PSC, with the stated objective of enhancing representation of women within the ranks of the public service.<ref name=":8" /> Similar efforts were made with the establishment of the Office of Native Employment in 1973, which sought to encourage more participation of Indigenous peoples in the public service.
+
+The Office of Native Employment became a model for the rollout of a parallel program, the Black Employment Program, also in 1973, which looked to secure more positions for Afro-Canadians in the public service, primarily in Nova Scotia. Beginning in 1976, pilot hiring projects were initiated across ten federal departments to facilitate hiring for persons with disabilities, the success of which led to a TBS (1978) and later PSC (1980) policy for hiring persons with disabilities.<ref name=":8" />
+
+These programs eventually evolved into a dedicated Affirmative Action Program, which saw the creation of new programs and resources for professional development and advancement for equity-seeking groups.
+
+In 1986, the ''Employment Equity Act'' was passed, and acts as the legislative bedrock for employment equity within the federal public service today. In particular, the EEA calls for the implementation of ‘positive measures’ to actively promote a more representative public service. Together with the ''Public Service Employment Ac''t, and other equity-focused legislation such as the ''[[Canadian Human Rights Act]]'', employment equity is a key consideration for deputy heads in federal organizations in all aspects of personnel management, including recruitment, professional development, and promotion.<ref>{{Cite web|last1=Andreychuk|first1=A. Raynell|last2=Carstairs|first2=Sharon|date=February 2007|title=Employment Equity in the Federal Public Service – Not There Yet|url=https://sencanada.ca/content/sen/Committee/391/huma/rep/rep07feb07-e.pdf|access-date=13 October 2021|website=Senate of Canada}}</ref>
+
+Recent efforts to advance employment equity have foregrounded increasing the representation of equity-seeking groups among executives within the public service, where significant gaps continue to persist. As of 2020, the EEA identifies four equity-seeking groups:
+
+* '''Women'''
+* '''Indigenous peoples'''
+* '''Persons with disabilities'''
+*  '''Members of a visible minority'''
+
+{| class="wikitable"
+! Designated group
+! Representation in the Core Public Administration, 2018-19<ref>{{Cite web|last=Treasury Board of Canada Secretariat|date=2020|title=Employment Equity in the Public Service of Canada for Fiscal Year 2018 to 2019|url=https://www.canada.ca/en/government/publicservice/wellness-inclusion-diversity-public-service/diversity-inclusion-public-service/employment-equity-annual-reports/employment-equity-public-service-canada-2018-2019.html|access-date=12 October 2021|website=Government of Canada}}</ref>
+! Labour market availability
+|-
+| Women
+| 54.8 per cent
+| 48.2 per cent
+|-
+| Indigenous peoples
+| 5.1 per cent
+| 4.0 per cent
+|-
+| Persons with disabilities
+| 5.2 per cent
+| 9.1 per cent
+|-
+| Members of visible minorities
+| 16.7 per cent	
+| 21.3 per cent
+|}
+
+==See also==
+*[[Official bilingualism in the public service of Canada]]
+*[[Royal Commission on Bilingualism and Biculturalism]]
+*[[Structure of the Canadian federal government]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Bourgault, Jacques, and Stéphane Dion. "Governments come and go, but what of senior civil servants? Canadian Deputy Ministers and transitions in power (1867–1987)". ''Governance'' 2.2 (1989): 124-151.
+* Bourgault, Jacques, and Stéphane Dion. "Canadian senior civil servants and transitions of government: the Whitehall model seen from Ottawa". ''International Review of Administrative Sciences'' 56.1 (1990): 149-169.
+* Banoub, David. "The Patronage Effect: Civil Service Reforms, Job-Seeking, and State Formation in Victorian Canada". PhD, Carleton University (2013). [https://curve.carleton.ca/system/files/etd/75172dd3-f4c1-493b-9e1b-2681ab589296/etd_pdf/47cd508417875694fe7e4730d546e133/banoub-thepatronageeffectcivilservicereformsjobseeking.pdf online]
+* Dawson, R. MacGregor. ''The Civil Service of Canada'' (1929).
+* Granatstein, Jack. ''The Ottawa Men: The Civil Service Mandarins, 1935-1957'' (Oxford UP, 1982).
+* Hodgetts, J.E. ''Pioneer Public Service: An Administrative History of United Canada, 1841-1867.'' (U of Toronto Press, 1955).
+* Hodgetts, J.E. ''The Canadian Public Service: A Physiology of Government, 1867-1870'' (U of Toronto Press, 1973).
+* McDonald, Robert A.J. "The Quest for 'Modern Administration': British Columbia's Civil Service, 1870s to 1940s". ''BC Studies'' 161 (Spring 2009): 9-34.
+* Pasolli, Lisa. "Bureaucratizing the Atlantic Revolution: The 'Saskatchewan Mafia' in the New Brunswick Civil Service, 1960-1970". ''Acadiensis'' (2009): 126-150.
+* Piva, Michael J. "Getting Hired: The Civil Service Act of 1857". ''Journal of the Canadian Historical Association'' 3:1 (1992): 95-127.
+* Rasmussen, Ken. "Administrative Reform and the Quest for Bureaucratic Autonomy: 1867-1918". ''Journal of Canadian Studies'' 29:3 (1994): 45-62.
+
+== External links ==
+* [https://www.canada.ca/en/government/publicservice.html Public Service employment] – Government of Canada website
+* [https://archive.org/details/CCcivilservice1923repapp500uoft The civil service of Canada (1923)] (PDF format)
+* [https://etatscanadiens-canadiangovernments.enap.ca/en/nav.aspx?sortcode=2.0.2.0 Canadian Governments Compared] – École nationale d'administration publique
+
+{{Civil service}}{{Government Departments of Canada}}
+
+[[Category:Civil service by country|Canada]]
+[[Category:Public administration]]
+[[Category:Government of Canada|Civil service]]

@@ -1,0 +1,120 @@
+{{Short description|Constitutional provision protecting equality}}
+{{italic title|string=Canadian Charter of Rights and Freedoms}}
+{{Use Canadian English|date=April 2026}}
+{{Canadian Charter}}
+Section 15 of the ''[[Canadian Charter of Rights and Freedoms]]'' contains guaranteed [[Social equality|equality right]]s. As part of the [[Constitution of Canada]], the section prohibits certain forms of [[discrimination]] perpetrated by the governments of [[Canada]] with the exception of ameliorative programs (e.g. [[Employment equity (Canada)|employment equity]]).
+
+Rights under section 15 include [[racial equality]], [[sexual equality]], mental [[disability]], and physical disability. In its jurisprudence, it has also been a source of [[LGBT rights in Canada]]. These rights are guaranteed to "every individual", that is, every [[natural person]]. This wording excludes "[[legal person]]s" such as corporations, contrasting other sections that use the word "everyone", where "legal persons" were meant to be included. Section 15 has been in force since 1985.
+
+==Text==
+Under the heading of "Equality Rights" this section states: 
+{{blockquote|15. (1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.}}
+{{blockquote|(2) Subsection (1) does not preclude any law, program or activity that has as its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.}}
+
+==Background==
+The ''[[Canadian Bill of Rights]]'' of 1960 had guaranteed the "right of the individual to equality before the law and the protection of the law."  Equal protection of the law is a right that has been guaranteed by the [[Equal Protection Clause]] in the [[Fourteenth Amendment to the United States Constitution]] since 1868.<ref>Hogg, Peter W. ''Constitutional Law of Canada''. 2003 Student Ed. (Scarborough, Ontario: Thomson Canada Limited, 2003), 1067.</ref> Section 15 itself dates back to the earliest draft of the ''Charter'', published in October 1980, but it was worded differently. It read,
+
+{{blockquote|(1) Everyone has the right to equality before the law and to equal protection of the law without discrimination because of race, national or ethnic origin, colour, religion, age or sex.}}
+{{blockquote|(2) This section does not preclude any law, program or activity that has as its object the amelioration of conditions of disadvantaged persons or groups.<ref>Hogg, pages 1062–1063.</ref>}}
+
+During the drafting, the guarantee to "everyone" was dropped in favour of "every individual," with the intent that corporations could not invoke equality rights.<ref>Hogg, page 744.</ref> In addition, while the original version spoke of equality before the law and equal protection of the law, the section ultimately enacted included guarantees of equality under the law and equal benefit of the law. The reason for these additions was to encourage a generous reading of section 15. In the Bill of Rights cases ''[[Attorney General of Canada v. Lavell]]'' (1974) and ''[[Bliss v. Canada (Attorney General)|Bliss v. Canada]]'' (1979), Supreme Court Justice [[Roland Ritchie]] had said only the application, and not the outcome, of the law must be equal, thereby necessitating an explicit guarantee of equality under the law; and that legal benefits need not be equal, thereby necessitating an explicit guarantee of equal benefit of the law.<ref>Hogg, pages 1066–1067.</ref>
+
+Though the ''Charter'' itself came into effect on April 17, 1982, section 15 was not [[coming into force|brought into force]] until April 17, 1985, in accordance with [[Section Thirty-two of the Canadian Charter of Rights and Freedoms|section 32(2)]] of the ''Charter''. The reason for this was so that provincial and federal governments would have enough time to review their legislation and make the appropriate changes to any discriminatory laws.
+
+==Meaning and purpose of equality==
+According to the Supreme Court of Canada's Section 15 jurisprudence, the equality guarantees of section 15 are aimed at preventing the "violation of essential human dignity and freedom through the imposition of disadvantage, stereotyping, or political and social prejudices, and to promote a society in which all persons enjoy equal recognition at law as human beings or as members of Canadian society, equally capable and equally deserving of concern, respect and consideration." (Iacobucci J. in ''[[Law v. Canada]]'', [1999])
+
+To that end, the ''Charter'' recognizes four dimensions of equality, including [[substantive equality]]:
+
+* ''Equality before the law'' is equality in the administration of justice, where all individuals are subject to the same criminal laws in the same manner by law enforcement and the courts.
+* ''Equality under the law'' is equality in the substance of the law, where the content of the law is equal and fair to everyone so that everyone experiences the same result.
+* ''Equal benefit of the law'' ensures that benefits imposed by law will be proportionate.
+* ''Equal protection of the law'' ensure that the protections imposed by law will be proportionate so that the human dignity of every person is equally safeguarded by the law.
+
+Unlike formal equality, which overlooks personal differences, substantive equality is concerned with the impact of the law on different groups of individuals. Substantive equality requires that there be an [[equality of outcome|equal impact]] on the person affected by the law.
+
+==Application of section fifteen==
+In any challenge based on section 15(1), the [[Legal burden of proof|burden of proof]] is always on the claimant. The Supreme Court of Canada has endorsed a [[purposive interpretation]] of Section 15. As with any other section, the equality rights section cannot invalidate another Constitutional provision (although they can assist in interpreting them), for example, rights or privileges guaranteed by or under the Constitution of Canada in respect of denominational, separate or dissentient schools ([[Section Twenty-nine of the Canadian Charter of Rights and Freedoms|religious education]]).<ref>{{cite book|title=Charte canadienne des droits et libertés / Canadian Charter of Rights and Freedoms|date=2013|publisher=LexisNexis Canada|isbn=9780433471400|editor1-last=Mendes|editor1-first=Errol|edition=5th|location=Markham, ON|editor2-last=Beaulac|editor2-first=Stéfane}}</ref>
+
+===Current interpretation===
+After ''[[Law v. Canada]]'' (1999) the question of whether dignity was affected was key to a section 15 analysis. In ''[[R. v. Kapp]]'' (2008), the problems with the dignity analysis were recognized and the dignity analysis was jettisoned. The Court established a two-part test based on the one found in ''[[Andrews v. Law Society of British Columbia]]'' (1989): (1) Does the law create a distinction based on an enumerated or analogous ground? (2) Does the distinction create a disadvantage by perpetuating prejudice or stereotyping?
+
+In ''[[Quebec (Attorney General) v. A]]'' (2013) a majority of the Court found that perpetuating prejudice or stereotyping did not form an additional requirement in the second part of the test. The majority itself split on the correct way to apply the second part of the test, leaving the present state of the law on Section 15 unclear until 2015. The current framework for analyzing an alleged violation of s 15(1) of the ''Charter'' is that set out in ''[[Kahkewistahaw First Nation v. Taypotat]]'' (2015) at paras 19–20.<ref>{{cite news |title=The Supreme Court of Canada's Approach to the Charter's Equality Guarantee in its Pay Equity Decisions |url=https://ablawg.ca/2018/07/12/the-supreme-court-of-canadas-approach-to-the-charters-equality-guarantee-in-its-pay-equity-decisions/ |work=ABlawg.ca |first1=Jonnette Watson |last1=Hamilton |first2=Jennifer |last2=Koshan |date=July 12, 2018 |access-date=April 24, 2019 |archive-date=April 24, 2019 |archive-url=https://web.archive.org/web/20190424192222/https://ablawg.ca/2018/07/12/the-supreme-court-of-canadas-approach-to-the-charters-equality-guarantee-in-its-pay-equity-decisions/ |url-status=live }}</ref>
+
+====Enumerated or analogous grounds====
+[[Image:Hendricks-leboeuf2.jpg|thumb|150px|right|Discrimination based upon [[sexual orientation]] is an analogous ground for discrimination, leading all but two provincial courts to legalize [[same-sex marriage in Canada]].]]
+
+The concept of ''enumerated or analogous grounds'' originated in the essential 1989 ''Andrews'' case to refer to personal characteristics that, when being the basis of discrimination, show the discrimination is unconstitutional under section 15. There are nine enumerated grounds explicitly mentioned in section 15, although they are not actually numbered. In practice, the enumerated grounds have been given liberal and broad interpretations. For example, discrimination on the basis of [[pregnancy]] has been ruled to be sex discrimination (''[[Brooks v. Canada Safeway Ltd.]]'').
+
+As section 15's words "in particular" hint that the explicitly named grounds do not exhaust the scope of section 15, additional grounds can be considered if it can be shown that the group or individual's equality rights were denied in [[Comparator groups analysis in Canadian equality law|comparison with another group]] that shares all of the same characteristics except for the personal characteristic at issue. A personal characteristic is considered ''analogous'' to the ones enumerated in section 15 if it is "immutable" or cannot be changed or can only be changed at excessive cost (constructively immutable). Thus far, several analogous grounds have been identified:
+
+* [[sexual orientation]] (''[[Egan v. Canada]]'' [1995], ''[[Vriend v. Alberta]]'' [1998], ''[[M. v. H.]]'' [1999]  ''[[Little Sisters Book and Art Emporium v. Canada]]'' [2000])  This finding has led provincial courts (the Supreme Court declined in ''[[Reference re Same-Sex Marriage]]'' to rule on the issue as the government had voiced its intent to legalize them anyway) to find that laws against [[same-sex marriage in Canada]] would be unconstitutional. In ''[[Halpern v. Canada (Attorney General)]]'' (2003), the [[Court of Appeal for Ontario]] used section 15 to legalize [[same-sex marriage in Ontario]].
+* [[marriage|marital status]] (''[[Miron v. Trudel]]'', [1995], ''[[Nova Scotia (Attorney General) v. Walsh|Nova Scotia v. Walsh]]'' [2002]),
+* off-reserve aboriginal status/"Aboriginality-residence" (''[[Corbiere v. Canada]]'').
+* citizenship (''[[Andrews v. Law Society of British Columbia]]'' [1989], ''[[Lavoie v. Canada]]'' [2000])
+* income (''Dartmouth/Halifax County Regional Housing Authority v. Sparks'' [1993])
+
+As well, the courts have rejected several analogous grounds including:
+* having a "taste for marijuana". (''[[R. v. Malmo-Levine]]'')
+* employment status (''Reference Re Workers' Compensation Act'' [1989], ''Delisle v. Canada'' [1999])
+* litigants against the Crown (''Rudolph Wolff v. Canada'' [1990])
+* province of prosecution/residence (''[[R. v. Turpin]]'' [1989], R. v. S. (S.) [1990])
+* membership in military (''[[R. v. Genereux]]'')
+* new resident of province (''[[Haig v. Canada]]'')
+* persons committing crimes outside Canada (''[[R. v. Finta]]'')
+* begging and extreme poverty (''[[R. v. Banks]]'')
+
+===Past interpretations: the Law test===
+As first outlined in ''[[Law v. Canada]]'', discrimination can be identified through a three-step test.
+
+# Did the ''law, program, or activity'' impose ''differential treatment'' between the claimant and a [[Comparator groups analysis in Canadian equality law|comparator group]]? That is, was a distinction created between the groups in purpose or effect?
+# If so, was the differential treatment based on ''enumerated or analogous'' grounds?
+# If so, did the law in question have a purpose or effect that is ''discriminatory'' within the meaning of the equality guarantee?
+
+====Discrimination====
+For discrimination to be found it must be determined if the burden or denial of benefit harms an individual's ''human dignity'' (''Law v. Canada''). That is, the discrimination will marginalize, ignore, or devalue an individual's sense of ''self-respect'' and ''self-worth''.
+
+''Law'' suggests four "contextual factors" which can help guide a contextual analysis of whether the imputed distinction violates the human dignity of the claimant. None of these are determinative of discrimination, and the Court must not consider all of them in every case. This list is also not exhaustive, although the standard ''Law'' analysis has yet to develop any additional factors:
+
+# ''pre-existing disadvantage''
+# ''correlation between the grounds of the claim and the actual needs, capacities, and circumstances''
+# ''ameliorative purpose or effect of the law on more disadvantaged groups''
+# ''nature and scope of interest''
+
+Jurisprudence has shown that each of these factors are weighed differently depending on the context.
+
+Pre-existing disadvantage asks whether there was a pre-existing disadvantage or vulnerability experienced by the claimant. In ''[[Corbiere v. Canada]]'' [1999] McLachlin described this factor to be the most compelling and suggestive of discrimination if proven. However, the absence of a pre-existing disadvantage does not necessarily preclude a claimant from succeeding as seen in ''[[Trociuk v. British Columbia]]'' [2003].
+
+With correlation between grounds and reality, the claimant must show that there is a link between the grounds raise and the claimant's actual needs, circumstances, and capacities. Discrimination will be more difficult to establish if the law takes the qualities of the claimant into account. In ''[[Gosselin v. Quebec (Attorney General)]]'' [2002] the court was sharply divided on this point. The majority said that the law that provided less social assistance to youth was connected to the ability of youth to find employment easily. However, the dissenters insisted that the evidence did not show this to be actual qualities, but were rather stereotypes.
+
+The ameliorative purpose factor asks whether there is a distinction made for the purpose of aiding an even less advantaged group. If this can be shown then it is unlikely that the claimant would be able to show a violation of their dignity. However, ''[[Lovelace v. Ontario]]'' [2000] warned that the analysis should not be reduced to a balancing of relative disadvantages.
+
+The final factor of nature and scope considers the nature and scope of the interest affected by the law. The more severe and localized the results of the law for those affected the more likely to show that the distinctions in treatment responsible are discriminatory.
+
+==Enforcement==
+Section 15, like the rest of the ''Charter'', is mainly enforced by the courts through litigation under [[Section Twenty-four of the Canadian Charter of Rights and Freedoms|sections 24]] and 52 of the ''[[Constitution Act, 1982]]''. Such litigation can be very costly.
+
+To overcome this barrier, the federal government expanded the Court Challenges Program of Canada<ref>[http://www.ccppcj.ca/e/about/about.shtml Court Challenges Program of Canada] {{webarchive|url=https://web.archive.org/web/20060411165618/http://www.ccppcj.ca/e/about/about.shtml |date=2006-04-11 }}</ref> in 1985 to fund test cases challenging federal legislation in relation to the equality rights guaranteed by the ''Charter''. Some funding has been provided to challenge provincial laws under a variety of programs in the past, but its availability has varied considerably from province to province.<ref>Arne Peltz & Betsy Gibbons, [http://www.ccppcj.ca/documents/justice-e.html "Deep Discount Justice: The Challenge of Going to Court with a Charter Claim and No Money"] {{webarchive|url=https://web.archive.org/web/20060509063345/http://www.ccppcj.ca/documents/justice-e.html |date=2006-05-09 }}, 1999. URL accessed on March 10, 2006.</ref>
+
+In September 2006, the Conservative federal government announced that it would be "trimming the fat and refocusing spending on the priorities of Canadians." This included cutting all funding to the Court Challenges Program.<ref>Canada Department of Finance [http://www.fin.gc.ca/news06/06-047e.html "Press Release"] {{webarchive|url=https://web.archive.org/web/20061128092005/http://www.fin.gc.ca/news06/06-047e.html |date=2006-11-28 }}, URL accessed on December 9, 2006.</ref> In 2016, the newly elected Liberal government announced they would be providing $5{{nbsp}}million annually to restore the Court Challenges Program.<ref>Canada Department of Finance [http://www.budget.gc.ca/2016/docs/plan/ch5-en.html "Budget 2016: Chapter 5 - An Inclusive and Fair Canada"] {{Webarchive|url=https://web.archive.org/web/20210308182739/https://www.budget.gc.ca/2016/docs/plan/ch5-en.html |date=2021-03-08 }}, URL accessed on April 15, 2016.</ref>
+
+==Notes==
+{{reflist}}
+<!--<nowiki>Please do not type footnotes here. Instead insert the footnote in its proper spot in the body of this article using the <ref name=> </ref> tags. See [[Wikipedia:Footnotes]] for an explanation of how to generate footnotes using the tags.</nowiki>-->
+
+==External links==
+* [http://www.canlii.org/en/ca/charter_digest/s-15-1.html CanLII Section 15(1) - Equality before and under law and equal protection and benefit of law]
+* [http://www.canlii.org/en/ca/charter_digest/s-15-2.html CanLII Section 15(2) - Affirmative action programs]
+* [http://www2.parl.gc.ca/Content/LOP/ResearchPublications/bp402-e.htm ''Charter'' Equality Rights - Interpretation of Section 15 in Supreme Court of Canada Decisions] {{Webarchive|url=https://web.archive.org/web/20150906220922/http://www.parl.gc.ca/content/lop/researchpublications/bp402-e.htm |date=2015-09-06 }}, 2007
+* [https://web.archive.org/web/20051212062311/http://www.justice.gc.ca/en/s15/home.html 20th Anniversary of Section 15 (Dept. of Justice)]
+* [http://www.charterofrights.ca/language.php Fundamental Freedoms: ''The Charter of Rights and Freedoms''] {{Webarchive|url=https://web.archive.org/web/20120809211304/http://www.charterofrights.ca/language.php |date=2012-08-09 }} - ''Charter of Rights'' website with video, audio and the ''Charter'' in over 20 languages
+
+{{Constitution of Canada|patriation}}
+{{Portal bar|Canada|Law}}
+
+[[Category:Canadian Charter of Rights and Freedoms|Section 15]]
+[[Category:Anti-discrimination law in Canada|Charter of Rights and Freedoms]]
+[[Category:Equality rights]]
+[[Category:LGBTQ law in Canada|Charter of Rights and Freedoms]]
+[[Category:Canadian disability legislation|Charter of Rights and Freedoms]]
+[[Category:Canadian LGBTQ-related legislation]]

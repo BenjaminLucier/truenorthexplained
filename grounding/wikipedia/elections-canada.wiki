@@ -1,0 +1,75 @@
+{{Short description|Canadian federal agency in charge of elections and referendums}}
+{{for|information on elections in Canada|Elections in Canada}}
+{{Infobox government agency
+|name            = Elections Canada
+|native_name     = Élections Canada
+|logo            = Elections Canada Logo.svg
+|logo_size       = 150px
+|formed          = {{start date|1920|07|01}}<ref name="HowECBegan">{{Cite web |publisher=Elections Canada |date=2022-09-13 |title=How we began |url=https://elections.ca/content.aspx?section=abo&dir=100/com&document=index&lang=e |access-date=2023-01-06 |website=elections.ca}}</ref>
+|jurisdiction    = Canada (federal)
+|headquarters    = 30, rue Victoria<br /> [[Gatineau]], [[Quebec]] K1A 0M6
+|employees       = 500 (Permanent) up to 235,000 (election period)<ref name="RoleofElectionsCanada"/>
+|budget          = $628,864,260 (2021–22)<ref name="OCEOCReport">{{Cite book |last1=Perrault |first1=Stéphane |title=2021–22 Departmental Results Report |last2=LeBlanc |first2=Dominic |publisher=Office of the Chief Electoral Officer of Canada |year=2022 |pages=19 |issn=2371-8218 |url=https://www.elections.ca/res/rep/dpr/drr2022/drr2022_e.pdf}}</ref>
+|chief1_name     = Stéphane Perrault
+|chief1_position = [[Chief Electoral Officer of Canada]]
+|website         = [http://www.elections.ca/ www.elections.ca]
+|footnotes       = 
+}}
+'''Elections Canada''' ({{langx|fr|Élections Canada}}) is the non-partisan agency responsible for administering [[elections in Canada|Canadian federal elections]] and [[Referendums in Canada|referendums]].{{efn|Legally, ''Elections Canada'' is a [[Trade name|name]] under which the ''Office of the Chief Electoral Officer of Canada'' ({{langx|fr|Bureau du directeur
+général des élections du Canada|italic=y}}) conducts electoral administration and oversight of political funding.<ref name="ElectionsCanadalegal1">{{Cite web |publisher=Elections Canada |date=October 2021 |title=The Chief Electoral Officer and His Office - Overview of Elections Canada and the Federal Electoral System Briefing Book (October 2021) |url=https://www.elections.ca/content.aspx?section=abo&dir=oec&document=p1&lang=e |access-date=2023-01-06 |website=www.elections.ca}}</ref><ref name="HowECBegan"/><ref name="OCEOCReport"/> Elections Canada itself is not a legal entity – the chief electoral officer exercises most powers or delegates them to staff of the office, and the commissioner of Canada elections exercises others.<ref name="CanadaElectionsAct"/><ref name="ElectionsCanadalegal1"/>}}
+
+==History==
+Elections Canada is an agency of the [[Parliament of Canada]], and reports directly to Parliament rather than to the [[Government of Canada]].<ref name=eca1>{{Cite web |date=2015 |title=The Electoral System of Canada |url=https://www.elections.ca/res/ces/esoc_e.pdf |website=Elections Canada}}</ref><ref name="CanadaElectionsAct">{{Cite web |date=December 12, 2022 |orig-date=May 31, 2000 |title=Canada Elections Act |url=https://laws-lois.justice.gc.ca/eng/acts/E-2.01/page-2.html#h-203635 |access-date=January 5, 2023 |publisher=[[Parliament of Canada]] |pages=Part 2 |via=Justice Laws |no-pp=y |postscript=. Last amended June 29, 2021.}}</ref> The agency was created under the government of [[Jean Chrétien]] by the ''[[Canada Elections Act]]'' on 31 May 2000.<ref name="law1">{{cite news |url=https://laws-lois.justice.gc.ca/eng/acts/e-2.01/FullText.html |title=Consolidated federal laws of Canada, Canada Elections Act |date=26 March 2025 }}</ref>
+
+==Responsibilities==
+Elections Canada is responsible for:<ref>{{Cite web |publisher=Elections Canada |date=2022-12-23 |title=Our mission, mandate, values |url=https://elections.ca/content.aspx?section=abo&dir=mis&document=index&lang=e |access-date=2023-01-05 |website=elections.ca}}</ref><ref name="RoleofElectionsCanada">{{Cite web |publisher=Elections Canada |date=2022-12-23 |title=The Role and Structure of Elections Canada |url=https://elections.ca/content.aspx?section=abo&dir=role&document=index&lang=e |access-date=2023-01-05 |website=elections.ca}}</ref><ref name="Statistics Canada">{{cite web|url=https://www150.statcan.gc.ca/n1/pub/91f0015m/91f0015m2022001-eng.htm|title= The Canadian diaspora: Estimating the number of Canadian citizens who live abroad|last1=Bérard-Chagnon |first1=Julien|last2=Canon|first2=Lorena|publisher=[[Statistics Canada]]|date=13 April 2022|access-date=21 April 2024}}</ref>
+* Making sure that all voters have access to the electoral system
+* Informing citizens about the electoral system
+* Maintaining the [[National Register of Electors]] and [[International Register of Electors]]
+* Enforcing electoral legislation
+* Training election officers
+* Producing maps of electoral districts
+* Registering political parties, electoral district associations, and third parties that engage in election advertising
+* Administering the allowances paid to registered political parties
+* Monitoring election spending by candidates, political parties and third parties
+* Publishing financial information on political parties, electoral district associations, candidates, nomination contestants, leadership contestants and third parties
+* Supporting the independent commissions responsible for adjusting the boundaries of federal [[electoral district (Canada)|electoral districts]] every ten years
+* Reporting to Parliament on the administration of elections and referendums
+
+==Appointments and staff==
+The [[House of Commons of Canada]] appoints the [[Chief Electoral Officer of Canada|chief electoral officer]] to head the agency. The chief electoral officer also appoints the [[Commissioner of Canada Elections|commissioner of Canada elections]] ({{Langx|fr|Commissaire aux élections fédérales|italic=yes}}), who ensures that the ''[[Canada Elections Act]]'' is enforced.<ref name="CommissionerCanElec">{{Cite web |publisher=[[Commissioner of Canada Elections]] |date=2022-09-14 |title=About Us |url=https://www.cef-cce.ca/content.asp?section=abo&document=index&lang=e |access-date=2023-01-05 |website=www.cef-cce.ca}}</ref> The broadcasting arbitrator ({{langx|fr|Arbitre en matière de radiodiffusion|italic=y}}), who allocates paid and free broadcasting time during electoral events, is appointed by a unanimous decision of registered political parties in the House of Commons, or by the chief electoral officer if the parties fail to agree a candidate.<ref>{{Cite web |publisher=Elections Canada |date=2023-01-02 |title=Arbitre en matière de radiodiffusion |trans-title=Broadcasting Arbitrator |lang=fr |url=https://elections.ca/content.aspx?section=abo&dir=bra&document=index&lang=f |access-date=2023-01-05 |website=elections.ca}}</ref><ref>{{Cite web |publisher=Elections Canada |date=2023-01-02 |title=Broadcasting Arbitrator |url=https://elections.ca/content.aspx?section=abo&dir=bra&document=index&lang=e |access-date=2023-01-05 |website=elections.ca}}</ref><ref>{{Cite web |publisher=Elections Canada |date=October 2019 |title=The Broadcasting Arbitrator: Appointment, Term of Office and Duties - THE BROADCASTING ARBITRATOR According to the provisions of the ''Canada Elections Act''|url=https://elections.ca/content.aspx?section=abo&dir=bra/atood&document=index&lang=e |access-date=2023-01-05 |website=elections.ca}}</ref> The chief electoral officer is seconded by the deputy chief electoral officers<ref>{{Cite web |title=Organizational Chart |url=https://elections.ca/content.aspx?section=abo&dir=org&document=index&lang=e |url-status=live |archive-url=https://web.archive.org/web/20260807223043/https://elections.ca/content.aspx?section=abo&dir=org&document=index&lang=e |archive-date=2026-08-07 |access-date=2026-10-22 |website=Elections Canada}}</ref>, chief legal counsel and around 500 to 600 staff, mainly situated in the [[National Capital Region (Canada)|National Capital Region]].<ref name="RoleofElectionsCanada"/><ref name="ElectionsCanadalegal1"/> During a general election or referendum, this rises to 235,000 workers.<ref name="RoleofElectionsCanada"/>
+
+==Compliance, enforcement and regulation==
+{{Main|Commissioner of Canada Elections}}
+The Commissioner of Canada Elections is responsible for regulating federal electoral events and enforcing compliance with the ''Canada Elections Act''.<ref name="CommissionerCanElec"/><ref>{{Cite web |publisher=Commissioner of Canada Elections |date=2022-09-14 |title=Enforcing the Canada Elections Act |url=https://www.cef-cce.ca/content.asp?section=abo&dir=bck&document=index&lang=e |access-date=2023-01-05 |website=www.cef-cce.ca}}</ref>
+
+Before 2018, the commissioner was appointed in consultation with the [[Public Prosecution Service of Canada|director of public prosecutions]] and was overseen by the director, but has since become part of the Office of the Chief Electoral Officer.<ref>{{Cite web |publisher=Elections Canada |date=2022-12-23 |title=Relationship between the Chief Electoral Officer and the Commissioner of Canada Elections: Key Guiding Principles |url=https://www.elections.ca/content.aspx?section=abo&dir=cce&document=princip&lang=e |access-date=2023-01-05 |website=www.elections.ca}}</ref>
+
+In November 2026, Elections Canada Chief Electoral Officer [[Stéphane Perrault]] testified before the federal Procedure and House Affairs Committee, warning that AI is making it harder for voters to get accurate information.<ref>{{Cite web |last=ICI.Radio-Canada.ca |first=Zone Politique- |date=2026-11-04 |title=AI is making it harder for voters to get accurate information: Elections Canada chief |url=https://ici.radio-canada.cahttps//ici.radio-canada.ca/rci/en/news/2298256/ai-is-making-it-harder-for-voters-to-get-accurate-information-elections-canada-chief |access-date=2026-11-05 |website=Radio-Canada.ca |publisher=Radio-Canada.ca |language=fr-ca}}</ref>
+
+==See also==
+{{Portal|Canada|Politics}}
+*[[Federal political financing in Canada]]
+*[[List of federal political parties in Canada]]
+*[[In and Out scandal]]
+*[[Robocall scandal]]
+
+==References==
+{{Reflist}}
+
+=== Notes ===
+{{notelist}}
+
+==External links==
+*{{official website|http://www.elections.ca/home.aspx}}
+
+{{Elecbodies}}
+{{National election commissions}}
+
+{{authority control}}
+
+[[Category:Election agencies in Canada|Canada]]
+[[Category:Federal departments and agencies of Canada]]
+[[Category:Government agencies established in 1920]]
+[[Category:Canadian organizations established in 1920]]
+[[Category:Organizations based in Gatineau]]

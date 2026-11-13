@@ -1,0 +1,508 @@
+{{Short description|Territory of Canada}}
+{{About|the contemporary Canadian territory|its predecessor|North-Western Territory|the former U.S. territory|Northwest Territory|similar names|Northwest (disambiguation)|the electoral district|Northwest Territories (electoral district)}}
+{{Use Canadian English|date=March 2026}}
+{{Use mdy dates|date=March 2026}}
+{{Infobox province or territory of Canada
+| name = Northwest Territories
+| type = [[Provinces and territories of Canada|Territory]]
+| other_name = {{native name|fr|Territoires du Nord-Ouest}}<ref>{{cite web |last=Government of Canada |first=Natural Resources Canada |title=Place names - Territoires du Nord-Ouest |url=http://www4.rncan.gc.ca/search-place-names/unique/LBCFC |access-date=November 15, 2021 |website=www4.rncan.gc.ca |archive-date=December 17, 2019 |archive-url=https://web.archive.org/web/20191217103732/http://www4.rncan.gc.ca/search-place-names/unique/LBCFC |url-status=live}}</ref>
+| image_flag = Flag of the Northwest Territories.svg
+| image_shield = Coat_of_arms_of_Northwest_Territories.svg
+| image_map = Northwest Territories in Canada 2.svg
+| Label_map = yes
+| coordinates = {{Coord|67|N|121|W|type:adm1st_scale:30000000_region:CA-NT|notes=<ref name=CGNDB>{{cite cgndb |id=LBCFB |name=Northwest Territories}}</ref>|display=inline,title}}
+| official_lang = {{plainlist|
+* [[Chipewyan language|Chipewyan]]
+* [[Cree language|Cree]]
+* English
+* French
+* [[Gwich'in language|Gwich'in]]
+* [[Inuinnaqtun]]
+* [[Inuktitut]]
+* [[Inuvialuktun]]
+* [[Slavey language|North Slavey]]
+* South Slavey
+* [[Dogrib language|Tłı̨chǫ]]
+}}<ref name="lang1"/><ref name="lang2"/>
+| capital = [[Yellowknife]]
+| largest_city = [[Yellowknife]]
+| largest_metro = Yellowknife
+| Premier = [[R.J. Simpson]]
+| government_type = [[Parliamentary system]] with [[Consensus government in Canada|consensus government]]
+| Viceroy = [[Gerald Kisoun]]
+| ViceroyType = Commissioner
+| Legislature = Legislative Assembly of the Northwest Territories
+| area_footnotes = <ref name="area">{{cite web |url=http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/phys01-eng.htm |title=Land and freshwater area, by province and territory |date=February 1, 2005 |access-date=May 6, 2012 |archive-date=October 19, 2012 |archive-url=https://web.archive.org/web/20121019171348/http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/phys01-eng.htm}}</ref>
+| area_rank = 3rd
+| area_total_km2 = 1346106
+| area_land_km2 = 1183085
+| area_water_km2 = 163021
+| population_demonym = Northwest Territorian<ref>The terms ''Northwest Territorian''(''s'') [http://www.assembly.gov.nt.ca/_live/documents/documentManagerUpload/HN040325.pdf Hansard, Thursday, March 25, 2004] {{webarchive|url=https://web.archive.org/web/20090324220726/http://www.assembly.gov.nt.ca/_live/documents/documentManagerUpload/HN040325.pdf |date=March 24, 2009}}, and (informally) ''NWTer''(''s'') [http://www.assembly.gov.nt.ca/_live/documents/documentManagerUpload/hn061023.pdf Hansard, Monday, October 23, 2006] {{webarchive|url=https://web.archive.org/web/20090324220716/http://www.assembly.gov.nt.ca/_live/documents/documentManagerUpload/hn061023.pdf |date=March 24, 2009}}, occur in the [http://www.assembly.gov.nt.ca/documents-proceedings/hansard official record of the territorial legislature] {{Webarchive|url=https://web.archive.org/web/20160604192750/http://www.assembly.gov.nt.ca/documents-proceedings/hansard |date=June 4, 2016}}. According to the ''Oxford Guide to Canadian English Usage'' ({{ISBN|978-0-1954-1619-0}}; p. 335), there is no common term for a resident of Northwest Territories.</ref><br>[[Canadian French|FR]]: {{lang|fr|Ténois(e)}}<ref>{{cite web |title=Ténois |website=TERMIUM Plus |date=October 8, 2009 |access-date=September 25, 2025 |url=https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&i=&index=alt&srchtxt=T%C3%A9nois}}</ref>
+| population_rank = [[Population of Canada by province and territory|11th]]
+| population_total = 41070<!--2021 StatCan federal census population only per [[WP:CANPOP]]. Do not update until 2026 census population released. Use "Population_est" below for latest StatCan quarterly estimate.-->
+| population_ref = <ref name=StatCan2021>{{cite web |url=https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000101 |title=Population and dwelling counts: Canada, provinces and territories |publisher=[[Statistics Canada]] |date=February 9, 2022 |access-date=February 9, 2022 |url-status=live |archive-date=February 9, 2022 |archive-url=https://web.archive.org/web/20220209134802/https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000101}}</ref>
+| population_as_of = [[2021 Canadian census|2021]]
+| population_est = 45904<!-- Latest StatCan quarterly estimate only. -->
+| pop_est_as_of = Q3 2026
+| pop_est_ref = <ref name=quarter>{{Cite web |date=September 24, 2026 |title=Population estimates, quarterly |url=https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901 |access-date=September 26, 2026 |publisher=[[Statistics Canada]] |archive-url=https://web.archive.org/web/20260926001804/https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901 |archive-date=September 26, 2026 |url-status=live}}</ref>
+| GDP_year = 2024
+| GDP_total = C$5.123&nbsp;billion<ref>{{Cite web|url=https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3610022101|title=Gross domestic product, expenditure-based, provincial and territorial, annual|last=Government of Canada|first=Statistics Canada|website=www150.statcan.gc.ca|date=November 6, 2025 |access-date=November 6, 2025}}</ref>
+| GDP_rank = 12th
+| GDP_per_capita = C$113,198
+| GDP_per_capita_rank = 2nd
+| HDI_year = 2023
+| HDI = 0.899<ref>{{cite report | last=Shariati | first=Alisaleh | date=October 2025 | title=The Human Development Index in Canada: Ranking the Provinces and Territories Internationally | url=https://www.csls.ca/reports/csls2025-03.pdf#page=36 | page=35 | publisher=Centre for the Study of Living Standards | work=Centre for the Study of Living Standards Research Report 2025-03 | access-date=24 May 2026}}</ref>—<span style="color:#090">Very high</span>
+| HDI_rank = [[List of Canadian provinces and territories by Human Development Index|12th]]
+| Former = [[British Arctic Territories]], [[North-Western Territory]], [[Rupert's Land]]
+| AdmittanceOrder = 5th, with [[Manitoba]]
+| AdmittanceDate = July 15, 1870{{efn|Ceded to Canada by the [[Hudson's Bay Company]].}}
+| HouseSeats = 1
+| SenateSeats = 1
+| time_zone1 = [[Central Standard Time|CST]], officially [[Northwest Territories Time]]
+| utc_offset1 = −06:00
+| PostalAbbreviation = NT
+| PostalCodePrefix = [[List of X postal codes of Canada|X0, X1 (Yellowknife)]]
+| iso_code = CA-NT
+| flower = [[Dryas octopetala|Mountain avens]]
+| tree = [[Larix laricina|Tamarack larch]]
+| bird = [[Gyrfalcon]]
+| website = {{URL|https://www.gov.nt.ca/|gov.nt.ca}}
+}}
+
+The '''Northwest Territories'''{{efn|Abbreviated '''NT''' or '''NWT'''; {{langx|fr|Territoires du Nord-Ouest}}; formerly '''North-West Territories'''}} is a [[Provinces and territories of Canada|territory of Canada]]. At a land area of approximately {{convert|1127711.92|km2}} and a 2026 estimated population of 45,904, it is the second-largest and second-most populous of [[Provinces and territories of Canada#Territories|the three territories]] in [[Northern Canada]].<ref name=quarter/> Under its modern borders, the Northwest Territories consists of a large part of Denendeh&mdash;traditional land of the [[Dene]]&mdash;and most of the [[Inuvialuit Settlement Region]] (known as Inuvialuit Nunangit Sannaiqtuaq in [[Inuinnaqtun]])&mdash;traditional land of the Western Canadian Inuit. The territory also contains some land traditionally used by [[Cree]] and [[Métis]] peoples. Its capital and most populous community is [[Yellowknife]], the only city in the territory; its population was 20,340 as of the 2021 census. It became the territorial capital in 1967, following recommendations by the [[Carrothers Commission]].
+
+The territory entered [[Canadian Confederation]] on July 15, 1870, replacing most of [[British North America]]'s regions of [[North-Western Territory]], [[Rupert's Land]] and, after 1880, the [[British Arctic Territories]]. At that time, it consisted of a vast but sparsely populated area covering a majority of modern Canada's land area, including most of Nunavut, the [[Canadian Prairies]], [[Northern Ontario]], [[Northern Quebec]] and [[Labrador]]. Since 1870, the territory has been divided four times to create new provinces and territories or enlarge existing ones. Its current borders date from April 1, 1999, when the territory's size was decreased again by the creation of a new territory of [[Nunavut]] to the east.<ref name=act>{{cite web |url=http://laws-lois.justice.gc.ca/eng/acts/N-28.6/index.html |title=Nunavut Act |author=Justice Canada |author-link=Department of Justice (Canada) |year=1993 |access-date=April 26, 2007 |archive-date=July 24, 2013 |archive-url=https://web.archive.org/web/20130724003900/http://laws-lois.justice.gc.ca/eng/acts/N-28.6/index.html |url-status=live}}</ref><ref name=claims>{{cite web |url=http://laws.justice.gc.ca/en/showdoc/cs/N-28.7//20070517/en?command=searchadvanced&caller=AD&search_type=bool&shorttitle=%20Nunavut%20Land%20Claims%20Agreement%20Act&day=17&month=5&year=2007&search_domain=cs&showall=L&statuteyear=all&lengthannual=50&length=50 |title=Nunavut Land Claims Agreement Act |author=Justice Canada |year=1993 |access-date=April 26, 2007 |archive-date=June 5, 2011 |archive-url=https://web.archive.org/web/20110605063004/http://laws.justice.gc.ca/en/showdoc/cs/N-28.7//20070517/en?command=searchadvanced&caller=AD&search_type=bool&shorttitle=%20Nunavut%20Land%20Claims%20Agreement%20Act&day=17&month=5&year=2007&search_domain=cs&showall=L&statuteyear=all&lengthannual=50&length=50}}</ref>
+
+While Nunavut is mostly [[Arctic]] [[tundra]], the Northwest Territories has a slightly warmer climate and is both [[Taiga|boreal forest (taiga)]] and tundra, and its most northern regions form part of the [[Arctic Archipelago]].
+
+The Northwest Territories has the most interprovincial and inter-territorial land borders among all provinces and territories of Canada. It is bordered by the territories of [[Nunavut]] to the east and [[Yukon]] to the west, and by the provinces of [[British Columbia]], [[Alberta]], and [[Saskatchewan]] to the south; it also touches [[Manitoba]] to the southeast at a [[Four corners (Canada)|quadripoint]] that includes Nunavut and Saskatchewan. The land area of the Northwest Territories is roughly equal to that of France, Portugal and Spain combined, although its overall area is even larger because of its vast lakes.
+
+==Name==
+{{See also|#History}}
+At first, it was named the North-West Territories. The name was changed to the present Northwest Territories in 1906.<ref>{{Cite book |title="History of the Name of the Northwest Territories". Prince of Wales Northern Heritage Centre. Retrieved 2021-11-01}}</ref> The name was originally descriptive, adopted by the [[Government of the United Kingdom|British government]] during the [[Early modern period|colonial era]] to indicate where it lay in relation to the rest of [[Rupert's Land]]. It has been shortened from ''North-Western Territory'' and then ''North-West Territories''.
+
+In [[Inuktitut]], the Northwest Territories are referred to as {{transliteration|iu|Nunatsiaq}} ([[Inuktitut syllabics]]: {{lang|iu|ᓄᓇᑦᓯᐊᖅ}}) {{gloss|beautiful land}}.<ref>{{Cite journal |last=Izenberg |first=Dafna |title=The Conscience of Nunavut |journal=[[Ryerson Review of Journalism]] (Online) |publisher=[[Ryerson School of Journalism]] |location=Toronto |date=Summer 2005 |url=http://www.rrj.ca/m3517/ |issn=0838-0651 |access-date=September 19, 2013 |archive-url=https://web.archive.org/web/20130921054941/http://www.rrj.ca/m3517/ |archive-date=September 21, 2013}}</ref> The northernmost region of the territory is home to the [[Inuvialuit]], who primarily live in the [[Inuvialuit Settlement Region]] ({{langx|ikt|Inuvialuit Nunangit Sannaiqtuaq}}), while the southern portion is called {{lang|ath|Denendeh}} (an [[Athabaskan languages|Athabaskan]] word meaning "our land"). {{lang|ath|Denendeh}} is the vast Dene country, stretching from central Alaska to [[Hudson Bay]], within which lie the homelands of the numerous Dene nations.
+
+Since the Yukon Territory was split from it in 1898, it is no longer the westernmost territory, and until [[Nunavut]] was split from it in 1999 it included territory extending as far east as [[Atlantic Canada|Canada's Atlantic provinces]].<ref>{{Cite web |last=Hopper |first=Tristin |date=February 28, 2018 |title=Why the Northwest Territories desperately need a name change |url=https://nationalpost.com/news/canada/why-the-northwest-territories-desperately-need-a-name-change |website=[[National Post]] |access-date=November 29, 2023 |archive-date=May 23, 2024 |archive-url=https://web.archive.org/web/20240523075415/https://nationalpost.com/news/canada/why-the-northwest-territories-desperately-need-a-name-change |url-status=live}}</ref><ref>{{Cite web |date=July 15, 2021 |title=Northwest Territories |url=https://www.wordorigins.org/big-list-entries/northwest-territories |access-date=November 29, 2023 |website=Wordorigins.org -US |archive-date=May 23, 2024 |archive-url=https://web.archive.org/web/20240523075416/https://www.wordorigins.org/big-list-entries/northwest-territories |url-status=live}}</ref><ref>{{Cite web |title=Canada's Northwest Territories Travel Guide |url=https://artoftravel.tips/destinations/canadas-northwest-territories-travel-guide/ |access-date=November 29, 2023 |website=The Art of Travel: Wander, Explore, Discover |archive-date=May 23, 2024 |archive-url=https://web.archive.org/web/20240523075421/https://artoftravel.tips/destinations/canadas-northwest-territories-travel-guide/ |url-status=live}}</ref> There has been some discussion of changing the name, possibly to a term from an Indigenous language. One proposal was "Denendeh", as advocated by the former premier [[Stephen Kakfwi]], among others.<ref>{{cite web |url=http://caldercup.com/CNEWSNunavut/feature11.html |title=Tundra for two: dividing Canada's far-north is no small task |access-date=February 22, 2011 |archive-url=https://web.archive.org/web/20050405201955/http://caldercup.com/CNEWSNunavut/feature11.html |archive-date=April 5, 2005 |website=Canada Welcomes Nunavut |publisher=[[Canoe Inc.]] - [[Quebecor Media]]}}</ref> One of the most popular proposals for a new name—to name the territory "Bob"—began as a [[prank]], but for a while it was at or near the top in the [[opinion poll|public-opinion polls]].<ref>{{cite news |url=http://www.cbc.ca/news/canada/northwest-territories-looking-for-new-name-bob-need-not-apply-1.319749 |title=Northwest Territories looking for new name – "Bob" need not apply |publisher=[[CBC News]] |date=January 11, 2002 |access-date=February 22, 2011 |archive-date=September 1, 2021 |archive-url=https://web.archive.org/web/20210901222859/https://www.cbc.ca/news/canada/northwest-territories-looking-for-new-name-bob-need-not-apply-1.319749 |url-status=live}}</ref><ref>{{cite news |url=http://www.cbc.ca/news/canada/north/western-arctic-to-northwest-territories-mp-calls-for-riding-name-change-1.764460 |title=Western Arctic to Northwest Territories: MP calls for riding name change |publisher=[[CBC News]] |date=June 25, 2008 |access-date=April 30, 2015 |archive-date=April 8, 2016 |archive-url=https://web.archive.org/web/20160408203807/http://www.cbc.ca/news/canada/north/western-arctic-to-northwest-territories-mp-calls-for-riding-name-change-1.764460 |url-status=live}}</ref><ref>{{cite web |author=Jon Willing |url=http://imprint.uwaterloo.ca/issues/112699/4Features/Features2.shtml |title=What about Bob, Water-Lou? |access-date=February 22, 2011 |archive-url=https://web.archive.org/web/20030118152558/http://imprint.uwaterloo.ca/issues/112699/4Features/Features2.shtml |archive-date=January 18, 2003 |date=November 26, 1999 |website=[[Imprint (newspaper)|Imprint]] |publisher=[[University of Waterloo]]}}</ref>
+
+==Geography==
+{{main|Geography of the Northwest Territories}}
+
+[[File:Northwest Territories topographic location map.png|thumb|Northwest Territories topographic location map]]
+Located in northern Canada, the territory borders Canada's two other territories, [[Yukon]] to the west and Nunavut to the east, as well as four provinces: [[British Columbia]] to the southwest, [[Alberta]] and [[Saskatchewan]] to the south, and Manitoba (through a [[Four corners (Canada)|quadripoint]]) to the extreme southeast. It has a land area of {{cvt|1183085|km2}}.<ref name="area"/>
+
+Geographical features include [[Great Bear Lake]], the largest lake entirely within Canada,<ref>{{cite web |url=http://www.arctic.uoguelph.ca/cpe/environments/inland_water/lakes/greatbear.htm |title=Top 10 Lakes – Great Bear Lake |access-date=January 11, 2009 |archive-date=May 30, 2016 |archive-url=https://web.archive.org/web/20160530065308/http://www.arctic.uoguelph.ca/cpe/environments/inland_water/lakes/greatbear.htm}}</ref> and [[Great Slave Lake]], the deepest body of water in North America at {{convert|614|m}}, as well as the [[Mackenzie River]] and the canyons of the [[Nahanni National Park Reserve]], a [[National parks of Canada|national park]] and UNESCO [[World Heritage Site]]. Territorial islands in the [[Canadian Arctic Archipelago]] include [[Banks Island]], [[Borden Island]], [[Prince Patrick Island]], and parts of [[Victoria Island (Canada)|Victoria Island]] and [[Melville Island (Northwest Territories and Nunavut)|Melville Island]]. Its highest point is [[Mount Nirvana]] near the border with Yukon at an elevation of {{cvt|2773|m}}.
+
+===Climate===
+{{See also|Climate change in the Arctic}}
+[[File:Northwest Territories Köppen.svg|thumb|Köppen climate types in the Northwest Territories]]
+The Northwest Territories extends for more than {{cvt|1300000|km2}} and has a large climate variance from south to north. The southern part of the territory (most of the mainland portion) has a [[subarctic climate]], while the islands and northern coast have a [[polar climate]].<ref>{{Citation | vauthors=((Northwest Territories Nominee Program)) | year=2025 | title=Climate {{!}} Northwest Territories Nominee Program | url=https://www.immigratenwt.ca/climate | access-date=August 12, 2025}}</ref>
+
+Summers in the north are short and cool, featuring daytime highs of {{cvt|14|–|17|C}} and lows of {{cvt|1|–|5|C}}. Winters are long and harsh, with daytime highs of {{cvt|−20|to|−25|C}} and lows of {{cvt|−30|to|−35|C}}. The coldest nights can reach up to {{cvt|−40|to|−45|C}} each year.<ref>{{Cite web |last=Program |first=Northwest Territories Nominee |title=Climate |url=https://www.immigratenwt.ca/climate |access-date=2026-06-17 |website=www.immigratenwt.ca |language=en}}</ref>
+
+Extremes are common, with summer highs in the south reaching {{cvt|36|C}} and lows reaching below {{cvt|0|C}}. In winter in the south, it is not uncommon for the temperatures to reach {{cvt|−40|C}}, but they can also reach the low teens during the day. In the north, temperatures can reach highs of {{cvt|30|C}}, and lows into the low negatives. In winter in the north, it is not uncommon for the temperatures to reach {{cvt|−50|C}} but they can also reach single digits during the day.{{citation needed|date=May 2024}}
+
+[[Thunderstorm]]s are not rare in the south. In the north, they are very rare but do occur.<ref>{{cite encyclopedia |last=Maybank |first=J. |title=Thunderstorm |encyclopedia=The Canadian Encyclopedia |publisher=The Historica-Dominion Institute |year=2012 |url=http://www.thecanadianencyclopedia.com/articles/thunderstorm |access-date=September 19, 2013 |archive-date=September 21, 2013 |archive-url=https://web.archive.org/web/20130921061243/http://www.thecanadianencyclopedia.com/articles/thunderstorm}}</ref> [[Tornado]]es are extremely rare, however, an EF-1 tornado occurred in Fort Smith on June 2, 2019.<ref>{{Cite web |last=Corp |first=Pelmorex |date=2019-06-04 |title=Rare tornado judged 'probable' in Northwest Territories |url=https://www.theweathernetwork.com/en/news/weather/severe/probable-tornado-in-northwest-territories-potential-landspout-preliminary-rating-survey-north-of-60 |access-date=2026-06-17 |website=The Weather Network |language=en}}</ref> The Territory has a fairly dry climate due to the mountains in the west.<ref>{{Cite web |date=2021-08-26 |title=Frequently Asked Questions |url=https://traveltrade.spectacularnwt.com/about-nwt/faq |access-date=2026-06-17 |website=Travel Trade |language=ca-EN}}</ref>
+
+About half of the territory is above the [[tree line]]. There are not many trees in most of the eastern areas of the territory, or in the north islands.<ref>{{cite web |url=http://www.globalforestwatch.org/english/us/maps.htm |title=Publications & Maps |publisher=Globalforestwatch.org |access-date=February 22, 2011 |archive-url=https://web.archive.org/web/20110612073126/http://www.globalforestwatch.org/english/us/maps.htm |archive-date=June 12, 2011}}</ref>
+
+{| class="wikitable sortable"
+|+Average daily maximum and minimum temperatures for selected cities in Northwest Territories
+|-
+!City
+!July (°C)
+!July (°F)
+!January (°C)
+!January (°F)
+|-
+| [[Fort Simpson]]<ref>{{cite web |publisher=[[Environment Canada]] |url=https://climate.weather.gc.ca/climate_normals/results_1981_2010_e.html?searchType=stnName&txtStationName=Fort+Simpson&searchMethod=contains&txtCentralLatMin=0&txtCentralLatSec=0&txtCentralLongMin=0&txtCentralLongSec=0&stnID=1656&dispBack=1 |id=Climate ID: 2202101 |title=Fort Simpson A |work=Canadian Climate Normals 1981–2010 |date=September 25, 2013 |access-date=October 19, 2020 |archive-date=November 30, 2020 |archive-url=https://web.archive.org/web/20201130083731/https://climate.weather.gc.ca/climate_normals/results_1981_2010_e.html?searchType=stnName&txtStationName=Fort+Simpson&searchMethod=contains&txtCentralLatMin=0&txtCentralLatSec=0&txtCentralLongMin=0&txtCentralLongSec=0&stnID=1656&dispBack=1 |url-status=live}}</ref> || 24/11 || 75/52 || −20/−29 || −4/−19
+|-
+| [[Yellowknife]]<ref>{{cite web |publisher=[[Environment Canada]] |url=https://climate.weather.gc.ca/climate_normals/results_1981_2010_e.html?searchType=stnName&txtStationName=Yellowknife&searchMethod=contains&txtCentralLatMin=0&txtCentralLatSec=0&txtCentralLongMin=0&txtCentralLongSec=0&stnID=1706&dispBack=1 |id=Climate ID: 2204100 |title=Yellowknife A |work=Canadian Climate Normals 1981–2010 |date=September 25, 2013 |access-date=October 19, 2020 |archive-date=April 17, 2023 |archive-url=https://web.archive.org/web/20230417070908/https://climate.weather.gc.ca/climate_normals/results_1981_2010_e.html?searchType=stnName&txtStationName=Yellowknife&searchMethod=contains&txtCentralLatMin=0&txtCentralLatSec=0&txtCentralLongMin=0&txtCentralLongSec=0&stnID=1706&dispBack=1 |url-status=live}}</ref> || 21/13 || 70/55 || −22/−30 || −7/−21
+|-
+| [[Inuvik]]<ref>{{cite web |publisher=[[Environment Canada]] |url=http://climate.weather.gc.ca/climate_normals/results_1981_2010_e.html?stnID=1669&lang=e&StationName=Inuvik&SearchType=Contains&stnNameSubmit=go&dCode=5&dispBack=1 |id=Climate ID: 2202570 |title=Inuvik A |work=Canadian Climate Normals 1981–2010 |date=September 25, 2013 |access-date=October 19, 2020 |archive-date=November 3, 2022 |archive-url=https://web.archive.org/web/20221103001636/https://climate.weather.gc.ca/climate_normals/results_1981_2010_e.html?stnID=1669&lang=e&StationName=Inuvik&SearchType=Contains&stnNameSubmit=go&dCode=5&dispBack=1 |url-status=live}}</ref> || 20/9 || 67/48 || −23/−31 || −9/−24
+|-
+| [[Sachs Harbour]]<ref>{{cite web |publisher=[[Environment Canada]] |url=https://climate.weather.gc.ca/climate_normals/results_1981_2010_e.html?searchType=stnName&txtStationName=Sachs+Harbour&searchMethod=contains&txtCentralLatMin=0&txtCentralLatSec=0&txtCentralLongMin=0&txtCentralLongSec=0&stnID=1794&dispBack=1 |id=Climate ID: 2503650 |title=Sachs Harbour A |work=Canadian Climate Normals 1981–2010 |date=September 25, 2013 |access-date=October 19, 2020 |archive-date=November 30, 2020 |archive-url=https://web.archive.org/web/20201130085848/https://climate.weather.gc.ca/climate_normals/results_1981_2010_e.html?searchType=stnName&txtStationName=Sachs+Harbour&searchMethod=contains&txtCentralLatMin=0&txtCentralLatSec=0&txtCentralLongMin=0&txtCentralLongSec=0&stnID=1794&dispBack=1 |url-status=live}}</ref> || 10/3 || 50/38 || −24/−32 || −12/−25
+|}
+
+==History==
+{{Main|History of the Northwest Territories|History of Northwest Territories capital cities}}
+{{See also|Inuvialuit Settlement Region|Inuit Nunangat|Métis}}
+{{more citations needed|section|date=July 2017}}<!--4 paragraphs with no citations-->
+[[File:Northern athabaskan.svg|thumb|The various [[Dene]] subdivisions including the [[Sahtu|Got'iné]] (labelled here as "North Slavey"), [[Tłı̨chǫ]] ("Dogrib"), [[Gwichʼin]], and others]]
+
+There are multiple Indigenous territories overlapping the current borders of the Northwest Territories. These include '''Denendeh''',<ref name="DeneNation">{{cite web |title=Home |url=https://denenation.com/ |website=Dene Nation |access-date=November 7, 2023 |archive-date=May 23, 2024 |archive-url=https://web.archive.org/web/20240523075417/https://denenation.com/ |url-status=live}}</ref> [[Inuvialuit Settlement Region]] (''Inuvialuit Nunangit Sannaiqtuaq''), and both [[Métis]] and [[Plains Cree people|Nêhiyawak]] countries (Michif Piyii<ref>{{cite web |title=Michif Piyii |url=https://native-land.ca/maps/territories/metis/ |website=native-land.ca |access-date=November 7, 2023 |archive-date=October 18, 2023 |archive-url=https://web.archive.org/web/20231018051341/https://native-land.ca/maps/territories/metis/ |url-status=live}}</ref> and ᓀᐦᐃᔮᓈᕁ ''nêhiýânâhk'',<ref>{{cite web |title=country |url=https://dictionary.plainscree.atlas-ling.ca/#/results |website=Plains Cree Dictionary |publisher=Algonquin Dictionaries Project |access-date=November 7, 2023 |archive-date=May 23, 2024 |archive-url=https://web.archive.org/web/20240523075419/https://dictionary.plainscree.atlas-ling.ca/#/help#/results |url-status=live}}</ref> respectively). Of these, Denendeh and [[Dene|the Dene nations]] are the most prominent with the rest of the Dene country ("Dene-ndeh" or Deneland) covering much of what is now [[Alaska]], [[British Columbia]], and the northern regions of the [[prairie provinces]].<ref name="NativeLand">{{cite web |title=Dënéndeh |url=https://native-land.ca/maps/territories/denendeh/ |website=native-land.ca |access-date=November 7, 2023 |archive-date=May 23, 2024 |archive-url=https://web.archive.org/web/20240523075418/https://native-land.ca/maps/territories/denendeh/ |url-status=live}}</ref> Some of its constituent territories include [[Tłı̨chǫ Government|Tłı̨chǫ Country]], [[Sahtu Region|Got'iné Néné]], [[Dehcho Region|Dehchondéh]], and [[Gwichʼin]] Nành, amongst others including those of the [[Chipewyan|Dënë Sųłinë́]] (Nëné, <small>"land"</small>), [[Dane-zaa|Dane-z̲aa]] (Nanéʔ), and the [[Yellowknives|T'satsąot'ınę]] (Ndé). Historically, Dene have lived across Denendeh and what is now the NWT since the era of [[Canadian Indigenous law#Dene|Yamoria and Yamozha]].<ref name="Yamozha">{{cite web |title=Yamǫǫ̀zha - Dene Laws |url=https://tlichohistory.ca/en/stories/yamoozha |website=Tlicho History |publisher=[[Tłı̨chǫ Government]] |access-date=November 7, 2023 |archive-date=October 5, 2023 |archive-url=https://web.archive.org/web/20231005013726/https://tlichohistory.ca/en/stories/yamoozha |url-status=live}}</ref><ref name="Yamoria">{{cite news |last1=Campbell |first1=Daniel |title=The Hero of the Dene |url=https://www.uphere.ca/articles/hero-dene |access-date=November 7, 2023 |publisher=Up Here Publishing |archive-date=November 7, 2023 |archive-url=https://web.archive.org/web/20231107154014/https://www.uphere.ca/articles/hero-dene |url-status=live}}</ref>
+
+[[File:NWT-YT Inuvialuit Settlement Locator.svg|thumb|left|Map of the [[Inuvialuit Settlement Region]]: Inuvialuit Nunangit]]
+
+Along the northern coast live one of the subdivisions of [[Inuit]]: the [[Inuvialuit]], a conglomerate of several Inuvialuit peoples, including the [[Uummarmiut]], [[Kangiryuarmiut]], and [[Siglit]]. Their country, variously called ''Inuvialuit Nunangit'', ''Inuvialuit Nunungat'', or ''Inuvialuit Nunangat'' corresponds to the [[Inuvialuit Settlement Region]] and forms part of the greater [[Inuit Nunangat]].<ref>{{cite web |title=Inuit Nunangat Map |url=https://www.itk.ca/inuit-nunangat-map/ |website=www.itk.ca |publisher=Inuit Tapiriit Kanatami |date=April 4, 2019 |access-date=November 7, 2023 |archive-date=December 2, 2023 |archive-url=https://web.archive.org/web/20231202121233/https://www.itk.ca/inuit-nunangat-map/ |url-status=live}}</ref> Amongst the other Inuit, there are also the [[Copper Inuit]] who inhabit their traditional territory, ''Inuinnait Nunangat'', between the [[Kitikmeot Region|Kitikmeot]] and [[Inuvik Region]]s.<ref>{{cite encyclopedia |last=McGhee |first=Robert |title=Inuinnait (Copper Inuit) |encyclopedia=[[The Canadian Encyclopedia]] |date=March 4, 2015 |publisher=[[Historica Canada]] |url=https://www.thecanadianencyclopedia.ca/en/article/copper-inuit |access-date=November 7, 2023 |archive-date=March 15, 2022 |archive-url=https://web.archive.org/web/20220315102754/https://www.thecanadianencyclopedia.ca/en/article/copper-inuit |url-status=live}}</ref> To the south are the [[Cree]] [[First Nations in Canada|First Nations]] and [[Métis]].
+
+In 1670, the [[Hudson's Bay Company]] (HBC) was formed from a royal charter, and was granted a commercial monopoly over [[Rupert's Land]]. Present day Northwest Territories laid northwest of Rupert's Land, and was known as the [[North-Western Territory]]. Although not formally part of Rupert's Land, the HBC made regular use of the region as a part of its trading area. The [[Treaty of Utrecht (1713)|Treaty of Utrecht]] saw the British become the only European power with practical access to the North-Western Territory, with the French surrendering their claim to the Hudson Bay coast.
+
+Europeans have visited the region for the purposes of [[North American fur trade|fur trading]], and exploration for new trade routes, including the [[Northwest Passage]]. Arctic expeditions launched in the 19th century include the [[Coppermine expedition]].
+
+In 1867, the first [[Canadian Indian residential school system|Canadian residential school]] opened in the region in Fort Resolution. The opening of the school was followed by several others in regions across the territory, thus contributing to it reaching the highest percentage of students in residential schools compared to other area in Canada.<ref>{{cite web |title=Residential Schools Education |url=https://www.ece.gov.nt.ca/sites/ece/files/resources/residential_schools_education_fact_sheet.pdf |website=www.ece.gov.nt.ca |access-date=March 20, 2019 |archive-date=March 7, 2021 |archive-url=https://web.archive.org/web/20210307204616/https://www.ece.gov.nt.ca/sites/ece/files/resources/residential_schools_education_fact_sheet.pdf |url-status=live}}</ref>
+
+[[File:Franklin's canoes in gale.jpg|thumb|Members of the [[Coppermine expedition]] caught by a storm in [[Coronation Gulf]], August 1821]]
+[[File:North-western-territory.png|thumb|Map of the [[North-Western Territory]] and [[Rupert's Land]], 1859]]
+
+The present-day territory came under the authority of the [[Government of Canada]] in July 1870, after the [[Hudson's Bay Company]] transferred [[Rupert's Land]] and the [[North-Western Territory]] to the British Crown, which subsequently transferred them to Canada, giving it the name the North-West Territories. This immense region comprised all of today's Canada except British Columbia, an early form of [[Manitoba]] (a small square area around [[Winnipeg]]), early forms of present-day Ontario and Quebec (the coast of the [[Great Lakes]], the [[Saint Lawrence River]] valley and the southern third of modern [[Quebec]]), the [[Maritimes]] (Nova Scotia, Prince Edward Island and New Brunswick), [[Newfoundland (island)|Newfoundland]], the [[Labrador]] coast, and the [[British Arctic Territories|Arctic Islands]] (except the southern half of [[Baffin Island]]).<ref>{{cite web |url=http://www.pch.gc.ca/pgm/ceem-cced/symbl/101/119-eng.cfm |title=Canadian Heritage – Northwest Territories |publisher=Pch.gc.ca |date=July 13, 2010 |access-date=February 22, 2011 |archive-date=February 27, 2021 |archive-url=https://web.archive.org/web/20210227020948/https://www.canada.ca/home.html |url-status=live}}</ref>
+
+{{Canada provinces map|border=none|align=left|prefix =History of|the=the|map=Canada provinces evolution 2.gif|caption=Timeline of the divisions of Canada; size of the Northwest Territories changes throughout 1870 to 1999}}
+After the 1870 transfer, some of the North-West Territories was whittled away. The province of [[Manitoba]] was enlarged in 1881 to a rectangular region composing the modern province's south. By the time British Columbia joined Confederation on July 20, 1871, it had already (1866) been granted the portion of North-Western Territory south of [[60th parallel north|60 degrees north]] and west of [[120th meridian west|120 degrees west]], an area that comprised most of the [[Stickeen Territories]] (and a portion of the Peace River country).{{Citation needed|date = April 2016}}
+[[File:Northwest Territories Proclamation.jpg|thumb|upright|A proclamation concerning the formation of the North-West Territories, from recently transferred territories to the Canadian government.]]
+The North-West Territories Council was created in 1875 for more local government in the North-West Territories.<ref>{{Cite canlaw |short title=The North-West Territories Act, 1875 |abbr=SC |year=1875 |chapter=49 |section=3, 7. |link=https://www.canadiana.ca/view/oocihm.9_08051_4_1/466}}</ref> At first wholly made up of appointed members, it got its first elected members in 1882 and became wholly elected in 1888 when the council was reorganized as the Legislative Assembly of the North-West Territories. [[Frederick Haultain]], an Ontario lawyer who practised at Fort Macleod from 1884, became its chairman in 1891 and Premier when the Assembly was reorganized in 1897. The modern provinces of Saskatchewan and Alberta were created in 1905. Contemporary records show Haultain recommended that part of the NWT split off to become the present provinces of Alberta and Saskatchewan become a single province, named Buffalo. The long-serving NWT member for Yorkton, Dr. [[Thomas Alfred Patrick]], supported the creation of two provinces in that area.<ref>Patrick, Pioneer of Vision, The Reminiscences of T.A. Patrick, M.D., p. 117-119</ref> The Canadian government of Sir Wilfrid Laurier chose to draw up the provinces roughly according to Patrick's guidance.<ref>[https://wayback.archive-it.org/2217/20101208163028/http://www.abheritage.ca/abpolitics/people/prem_haultain.html Alberta Online Encyclopedia biography of Frederick Haultain]</ref><ref>Mardon and Mardon, Alberta Election Results, 1882-1992, p. 195</ref>
+
+In the meantime, the [[British Arctic Territories]] were transferred to Canada and added to the North-West Territories in 1880. The province of [[Ontario]] was enlarged north-westward in 1882. Quebec was also extended northwards in 1898. Yukon was also made a separate territory that year and eventually gained additional territorial powers with the 2003 ''[[Yukon Act]]''.<ref>{{cite web |last1=Tattrie |first1=Jon |author-link=Jon Tattrie |title=Yukon and Confederation |url=https://www.thecanadianencyclopedia.ca/en/article/yukon-and-confederation |website=[[The Canadian Encyclopedia]] |publisher=Historica Canada |access-date=June 4, 2024 |archive-date=May 6, 2022 |archive-url=https://web.archive.org/web/20220506002249/https://www.thecanadianencyclopedia.ca/en/article/yukon-and-confederation |url-status=live}}</ref> One year after the provinces of Alberta and Saskatchewan were created in 1905, the [[Parliament of Canada]] renamed the "North-West Territories" as the ''Northwest Territories'', dropping all [[hyphen]]ated forms of it.<ref name="PWNHC">{{cite web |title=History of the Name of the Northwest Territories |work=Prince of Wales Northern Heritage Centre |url=http://www.pwnhc.ca/territorial-evolution-of-the-northwest-territories/ |access-date=October 17, 2015 |archive-date=October 20, 2021 |archive-url=https://web.archive.org/web/20211020031607/https://www.pwnhc.ca/territorial-evolution-of-the-northwest-territories/}}</ref><ref>{{cite web |url=https://archive.org/stream/revisedstatuteso02cana#page/1150/mode/2up |title=c.62, RSC 1906 |year=1906}}</ref>
+
+Manitoba, Ontario and Quebec acquired the last addition to their modern landmass from the Northwest Territories in 1912. This left only the districts of [[District of Mackenzie|Mackenzie]], [[District of Franklin|Franklin]] (which absorbed the remnants of [[District of Ungava|Ungava]] in 1920) and [[Keewatin Region|Keewatin]]<ref name=":0">{{Cite web |title=Evolution of the Northwest Territories {{!}} Prince of Wales Northern Heritage Centre |url=https://www.pwnhc.ca/en/evolution-northwest-territories |access-date=March 26, 2026 |website=www.pwnhc.ca}}</ref><ref>{{Cite web |last=Heritage |first=Canadian |date=August 15, 2017 |title=Historical boundaries of Canada |url=https://www.canada.ca/en/canadian-heritage/services/historical-boundaries-canada.html |access-date=March 26, 2026 |website=www.canada.ca}}</ref> within what was then given the name Northwest Territories. In 1925, the boundaries of the Northwest Territories were extended all the way to the [[North Pole]] on the [[sector principle]], vastly expanding its territory onto the northern [[ice cap]].<ref name=":0" /> Between 1925 and 1999, the Northwest Territories covered a land area of {{cvt|3439296|km2}}—about one-third of Canada in terms of area.<ref>{{Cite web |title=Northwest Territories {{!}} Geography and Cartography {{!}} Research Starters {{!}} EBSCO Research |url=https://www.ebsco.com/ |access-date=2026-06-17 |website=EBSCO |language=en}}</ref>
+
+On April 1, 1999, a separate [[Nunavut]] territory was formed from the eastern Northwest Territories to represent the Inuit.<ref>{{cite web |url=http://www.assembly.gov.nt.ca/visitors/creation-new-nwt |title=Creation of a new Northwest Territories |date=November 6, 2012 |publisher=[[Legislative Assembly of the Northwest Territories]] |access-date=January 27, 2017 |archive-date=July 22, 2019 |archive-url=https://web.archive.org/web/20190722200332/https://www.assembly.gov.nt.ca/visitors/creation-new-nwt |url-status=live}}</ref>
+
+==Demography==
+{{Main|Demographics of the Northwest Territories}}
+{{Pie chart
+| caption = Visible minority and indigenous identity (2016):<ref>{{cite web |title=Aboriginal Peoples Highlight Tables |work=2016 Census |publisher=Statistics Canada |year=2019 |url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/abo-aut/Table.cfm?Lang=Eng&S=99&O=A&RPP=25 |access-date=July 16, 2019 |archive-date=October 21, 2021 |archive-url=https://web.archive.org/web/20211021041920/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/abo-aut/Table.cfm?Lang=Eng&S=99&O=A&RPP=25 |url-status=live}}</ref><ref>{{cite web |title=Immigration and Ethnocultural Diversity Highlight Tables |work=2016 Census |publisher=Statistics Canada |year=2019 |url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/imm/Table.cfm?Lang=E&T=41&Geo=00&SP=1&vismin=2&age=1&sex=1 |access-date=July 16, 2019 |archive-date=November 12, 2020 |archive-url=https://web.archive.org/web/20201112015204/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/imm/Table.cfm?Lang=E |url-status=live}}</ref>
+| other =
+| label1 = [[European Canadians|European Canadian]]
+| value1 = 39.7
+| color1 = #d8d8d8
+| label2 = [[First Nations in Canada|First Nations]]
+| value2 = 32.1
+| color2 = #ba1d1d
+| label3 = [[Inuit]]
+| value3 = 9.9
+| color3 = #eddb38
+| label4 = [[Visible minority]]
+| value4 = 9.6
+| color4 = #a0a0a0
+| label5 = [[Métis]]
+| value5 = 8.2
+| color5 = #3183d6
+| label6 = Other Indigenous responses
+| value6 = 0.5
+| color6 = #000000
+}}
+
+The NWT is one of two jurisdictions in Canada – Nunavut being the other – where [[Aboriginal peoples in Canada|Indigenous peoples]] are in the majority, constituting 50.4% of the population.<ref name="census2016">{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=61&Geo2=PR&Code2=01&Data=Count&SearchText=Northwest%20Territories&SearchType=Begins&SearchPR=01&B1=Aboriginal%20peoples&TABID=1 |title=Canada 2016 Census |publisher=Statistics Canada |access-date=June 25, 2018 |archive-date=February 24, 2021 |archive-url=https://web.archive.org/web/20210224155851/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=61&Geo2=PR&Code2=01&Data=Count&SearchText=Northwest%20Territories&SearchType=Begins&SearchPR=01&B1=Aboriginal%20peoples&TABID=1 |url-status=live}}</ref> According to interprovincial migration data for the 2024/2025 fiscal year, the Northwest Territories experienced continued net population loss. There were 680 inbound migrants moving to the territory and 1,874 outbound migrants leaving, resulting in a net migration of −1,194 people.<ref name="NTmigration2025">{{cite web |title=Northwest Territories Migration 2024–2025 |url=https://zenmove.ca/migration/northwest-territories/ |website=Zenmove |access-date=January 27, 2026}}</ref>
+
+[[File:NWT Indigenous identity 2021.svg|thumb|The [[Census in Canada|census]] classifies Indigenous Canadians as [[First Nations in Canada|First Nations]], [[Métis]], or [[Inuit]].]]
+
+According to the 2016 Canadian census, the 10 major [[ethnic group]]s were:<ref>{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=61&Geo2=PR&Code2=01&Data=Count&SearchText=Northwest%20Territories&SearchType=Begins&SearchPR=01&B1=Ethnic%20origin&TABID=1 |title=Ethnic origin population |author=Statistics Canada |author-link=Statistics Canada |access-date=June 25, 2018 |archive-date=June 28, 2021 |archive-url=https://web.archive.org/web/20210628033512/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E |url-status=live}}</ref>
+{{Div col|colwidth=30em}}
+* [[First Nations in Canada|First Nations]]&nbsp;– 36.8%
+* [[Canadian ethnicity|Canadian]]&nbsp;– 18.6%
+* [[English Canadian|English]]&nbsp;– 15.9%
+* [[Scottish Canadian|Scottish]]&nbsp;– 14.8%
+* [[Irish Canadian|Irish]]&nbsp;– 12.3%
+* [[Inuit]] ([[Inuvialuit]])&nbsp;– 10.9%
+* [[French Canadian|French]]&nbsp;– 10.3%
+* [[Canadians of German ethnicity|German]]&nbsp;– 8.3%
+* [[Métis people (Canada)|Métis]]&nbsp;– 7.1%
+* [[Ukrainian Canadian|Ukrainian]]&nbsp;– 3.1%
+{{div col end}}
+<!--{{Graph:Chart
+ | width = 300
+ | height= 200
+ | type = line
+ | interpolate =
+ | xType = integer
+ | xAxisAngle = -40
+ | yAxisTitle = Population
+ | yGrid = yes
+ | linewidth = 2
+ | x = 1871, 1881, 1891, 1901, 1911, 1921, 1931, 1941, 1951, 1956, 1961, 1966, 1971, 1975, 1981, 1986, 1991, 1996, 2001, 2006, 2011, 2016
+ | y = 48000, 56446, 98967, 20129, 6507, 8143, 9316, 12028, 16004, 19313, 22998, 28738, 34805, 42610, 45740, 52235, 57649, 64402, 37360, 41464, 41462, 41786
+ | colors = #333333
+}}<ref>[http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/demo62m-eng.htm] {{Webarchive|url=https://web.archive.org/web/20120921025238/http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/demo62m-eng.htm|date=September 21, 2012}}. [[Statistics Canada]], 2005.</ref>
+
+:1.{{note|1}}Yukon was ceded from the Northwest Territories in 1898.
+:2.{{note|2}}Alberta and Saskatchewan were created mostly from parts of the Northwest Territories in 1905.
+:3.{{note|3}}Nunavut was separated from the Northwest Territories in 1999.-->
+
+===Language===
+[[File:Multilingual sign for eye clinic in Yellowknife, NT.jpg|upright|thumb|Sign for an eye clinic in [[Yellowknife]] with all 11 official territorial languages|alt=A metallic white sign on a grey background with a red and blue depiction of a building at the top. Below it is text in blue saying "Eye Clinic" in English, French and the other nine official territorial languages]]
+French was made an official language in 1877 by the territorial government. After a lengthy and bitter debate resulting from a [[speech from the throne]] in 1888 by [[List of lieutenant governors of the Northwest Territories|Lieutenant Governor]] [[Joseph Royal]], the members of the time voted on more than one occasion to nullify this and make English the only language used in the assembly. After some conflict with the Confederation Government in [[Ottawa]], and a decisive vote on January 19, 1892, the assembly members voted for an English-only territory.
+
+Currently, the Northwest Territories' ''Official Languages Act'' recognizes the following eleven [[official language]]s:<ref name="lang1">{{cite web |url=https://www.justice.gov.nt.ca/en/files/legislation/official-languages/official-languages.a.pdf |title=Official Languages Act (Northwest Territories |date=1998 |access-date=August 5, 2021 |publisher=Government of the Northwest Territories |archive-date=August 14, 2021 |archive-url=https://web.archive.org/web/20210814140425/https://www.justice.gov.nt.ca/en/files/legislation/official-languages/official-languages.a.pdf |url-status=live}}</ref><ref name="lang2">{{cite web |url=https://www.pwnhc.ca/official-languages-of-the-northwest-territories/ |title=Official Languages of the Northwest Territories |access-date=August 5, 2021 |publisher=[[Prince of Wales Northern Heritage Centre]] |archive-date=October 19, 2021 |archive-url=https://web.archive.org/web/20211019184622/https://www.pwnhc.ca/official-languages-of-the-northwest-territories/}}</ref>
+
+{{Div col|colwidth=30em}}
+* [[Chipewyan language|Chipewyan/Dené]]
+* [[Cree language|Cree]]
+* [[Canadian English|English]]
+* [[Canadian French|French]]
+* [[Gwich'in language|Gwich'in]]
+* [[Inuinnaqtun]]
+* [[Inuktitut]]
+* [[Inuvialuktun]]
+* [[Slavey language|North Slavey]]
+* [[Slavey language|South Slavey]]
+* [[Dogrib language|Tłı̨chǫ]] (Dogrib)
+{{div col end}}
+
+NWT residents have a right to use any of the above languages in a territorial court, and in the debates and proceedings of the legislature. However, the laws are legally binding only in their French and English versions, and the [[Politics of the Northwest Territories|NWT government]] only publishes laws and other documents in the territory's other official languages when the legislature asks it to. Furthermore, access to services in any language is limited to institutions and circumstances where there is a significant demand for that language or where it is reasonable to expect it given the nature of the services requested. In practical terms, English language services are universally available, and there is no guarantee that other languages, including French, will be used by any particular government service, except for the courts.
+
+The 2016 census returns showed a population of 41,786. Of the 40,565 singular responses to the census question regarding each inhabitant's "mother tongue", the most reported languages were the following (italics indicate an official language of the NWT):
+{| class="wikitable"
+|-
+| 1
+| ''English''
+| 31,765
+| 78.3%
+|-
+| 2
+| Dogrib (''Tłı̨chǫ'')
+| 1,600
+| 3.9%
+|-
+| 3
+| ''French''
+| 1,175
+| 2.9%
+|-
+| 4
+| ''South Slavey''
+| 775
+| 1.9%
+|-
+| 5
+| ''North Slavey''
+| 745
+| 1.8%
+|-
+| 6
+| [[Tagalog language|Tagalog]]
+| 745
+| 1.8%
+|-
+| 7
+|''Inuinnaqtun''
+| 470
+| 1.1%
+|-
+| 8
+| Dené
+| 440
+| 1.1%
+|-
+| 9
+| Slavey (not otherwise specified)
+| 175
+| 0.4%
+|-
+| 10
+| ''Gwich'in''
+| 140
+| 0.3%
+|-
+| 11
+| ''Cree''
+| 130
+| 0.3%
+|}
+
+There were also 630 responses of both English and a "non-official language"; 35 of both French and a "non-official language"; 145 of both English and French, and about 400 people who either did not respond to the question, or reported multiple non-official languages, or else gave some other unenumerable response. (Figures shown are for the number of single language responses and the percentage of total single-language responses.)<ref>{{Cite web |url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=61&Geo2=PR&Code2=01&Data=Count&SearchText=Northwest+Territories&SearchType=Begins&SearchPR=01&B1=Language&TABID=1 |title=Census Profile, 2016 Census – Northwest Territories [Territory] and Canada [Country] |first=Statistics Canada |last=Government of Canada |date=February 8, 2017 |website=www12.statcan.gc.ca |access-date=July 15, 2022 |archive-date=July 15, 2022 |archive-url=https://web.archive.org/web/20220715171948/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=61&Geo2=PR&Code2=01&Data=Count&SearchText=Northwest+Territories&SearchType=Begins&SearchPR=01&B1=Language&TABID=1 |url-status=live}}</ref>
+
+===Religion===
+In the 2021 Census, 55.2% of the population followed Christianity (primarily [[Roman Catholicism]]); this is down from 67.6% in the 2001 Census. At the same time, the population reported having no religious affiliation has more than doubled, from 17.4% in 2001 to 39.8% in 2021 census. About 5.0% reported other religious affiliations.<ref>{{cite web |url=http://www12.statcan.ca/english/census01/products/highlight/Religion/Page.cfm?Lang=E&Geo=PR&View=1a&Code=61&Table=1&StartRec=1&Sort=2&B1=61&B2=All |title=Selected Religions, for Canada, Provinces and Territories&nbsp;– 20% Sample Data |publisher=2.statcan.ca |access-date=February 22, 2011 |archive-date=December 3, 2016 |archive-url=https://web.archive.org/web/20161203202550/http://www12.statcan.ca/english/census01/products/highlight/Religion/Page.cfm?Lang=E&Geo=PR&View=1a&Code=61&Table=1&StartRec=1&Sort=2&B1=61&B2=All}}</ref><ref>{{Cite web |url=https://www150.statcan.gc.ca/n1/daily-quotidien/221026/mc-b001-eng.htm |title=In 2021, more than half of the population of British Columbia and Yukon reported having no religion, while the Christian religion was predominant in the other provinces and territories |date=October 26, 2022 |access-date=November 26, 2022 |archive-date=November 26, 2022 |archive-url=https://web.archive.org/web/20221126100641/https://www150.statcan.gc.ca/n1/daily-quotidien/221026/mc-b001-eng.htm |url-status=live}}</ref>
+
+===Communities===
+{{Main|List of communities in the Northwest Territories|List of municipalities in the Northwest Territories}}
+{| class="wikitable"
+|+Five largest municipalities by population
+!Municipality
+!2016
+|-
+|[[Yellowknife]]<ref name="CYZF"/>
+|19,569
+|-
+|[[Hay River, Northwest Territories|Hay River]]<ref>{{cite web |url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=6105016&Geo2=PR&Code2=61&SearchText=Hay%20River&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=6105016&TABID=1&type=0 |title=2011 Community Profiles – Hay River |publisher=www12.statcan.ca |date=November 29, 2017 |access-date=October 6, 2020 |archive-date=June 28, 2021 |archive-url=https://web.archive.org/web/20210628033512/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E |url-status=live}}</ref>
+|3,528
+|-
+|[[Inuvik]]<ref>{{cite web |url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=6101017&Geo2=PR&Code2=61&SearchText=Inuvik&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=6101017&TABID=1&type=0 |title=2016 Community Profiles – Hay River |publisher=www12.statcan.ca |date=November 29, 2017 |access-date=October 6, 2020 |archive-date=June 28, 2019 |archive-url=https://web.archive.org/web/20190628152548/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=6101017&Geo2=PR&Code2=61&SearchText=Inuvik&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=6101017&TABID=1&type=0 |url-status=live}}</ref>
+|3,243
+|-
+|[[Fort Smith, Northwest Territories|Fort Smith]]<ref>{{cite web |url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=6103031&Geo2=PR&Code2=61&SearchText=Behchok%C3%B2&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=6103031&TABID=1&type=0 |title=2011 Community Profiles – Fort Smith |publisher=www12.statcan.ca |date=November 29, 2017 |access-date=October 6, 2020 |archive-date=June 28, 2021 |archive-url=https://web.archive.org/web/20210628033512/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E |url-status=live}}</ref>
+|2,542
+|-
+|[[Behchokǫ̀]]<ref name="bech2011">{{cite web |url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=6103031&Geo2=PR&Code2=61&SearchText=Behchok%C3%B2&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=6103031&TABID=1&type=0 |title=Census Profile |date=October 6, 2020 |access-date=October 6, 2020 |archive-date=June 28, 2021 |archive-url=https://web.archive.org/web/20210628033512/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E |url-status=live}}</ref>
+|1,874
+|}
+As of 2014, there are 33 official communities in the NWT.<ref name="maca">{{cite web |url=http://www.maca.gov.nt.ca/en/communitylist |title=Communities |access-date=October 30, 2017 |archive-date=November 20, 2021 |archive-url=https://web.archive.org/web/20211120143540/https://www.maca.gov.nt.ca/en/communitylist |url-status=live}}</ref> These range in size from Yellowknife with a population of 19,569<ref name="CYZF">{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=6106023&Geo2=PR&Code2=61&Data=Count&SearchText=Yellowknife&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=6106023&TABID=1 |title=Census Profile, 2016 Census |date=February 8, 2017 |publisher=[[Statistics Canada]] |access-date=June 25, 2018 |archive-date=June 28, 2021 |archive-url=https://web.archive.org/web/20210628033512/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E |url-status=live}}</ref> to [[Kakisa]] with 36 people.<ref name="kakisa">{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=6104005&Geo2=PR&Code2=61&Data=Count&SearchText=Kakisa&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=6104005&TABID=1 |title=Census Profile, 2016 Census |date=February 8, 2017 |publisher=[[Statistics Canada]] |access-date=June 25, 2018 |archive-date=June 28, 2021 |archive-url=https://web.archive.org/web/20210628033512/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E |url-status=live}}</ref> Governance of each community differs, some are run under various types of First Nations control, while others are designated as a city, town, village or hamlet, but most communities are [[Municipal government in Canada|municipal corporations]].<ref name="maca"/><ref>{{cite web |url=http://www.maca.gov.nt.ca/resources/Differences_in_Comm_Govt_Structure.pdf |title=Differences in Community Government Structures |access-date=February 22, 2011 |archive-date=June 26, 2018 |archive-url=https://web.archive.org/web/20180626030148/http://www.maca.gov.nt.ca/resources/Differences_in_Comm_Govt_Structure.pdf |url-status=live}}</ref> Yellowknife is the largest community and has the largest number of Aboriginal peoples, 4,520 (23.4%) people.<ref>{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CMACA&Code1=995&Geo2=PR&Code2=61&Data=Count&SearchText=Yellowknife&SearchType=Begins&SearchPR=01&B1=Ethnic%20origin&TABID=1 |title=Yellowknife [Census agglomeration] |access-date=June 25, 2018 |archive-date=June 28, 2021 |archive-url=https://web.archive.org/web/20210628033512/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E |url-status=live}}</ref> However, [[Behchokǫ̀]], with a population of 1,874,<ref name="bech2016">{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=6103031&Geo2=PR&Code2=61&Data=Count&SearchText=Behchok%20&SearchType=Begins&SearchPR=01&B1=All&TABID=1 |title=Census Profile |website=www12.statcan.gc.ca |access-date=June 25, 2018 |archive-date=March 1, 2021 |archive-url=https://web.archive.org/web/20210301131609/http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=6103031&Geo2=PR&Code2=61&Data=Count&SearchText=Behchok%20&SearchType=Begins&SearchPR=01&B1=All&TABID=1 |url-status=live}}</ref> is the largest First Nations community, 1,696 (90.9%),<ref name="behc">{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=6103031&Geo2=PR&Code2=61&Data=Count&SearchText=Behchok%20&SearchType=Begins&SearchPR=01&B1=Aboriginal%20peoples&TABID=1 |title=Behchokò – Aboriginal population |website=www12.statcan.gc.ca |access-date=June 25, 2018 |archive-date=June 28, 2021 |archive-url=https://web.archive.org/web/20210628033512/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E |url-status=live}}</ref> and [[Inuvik]] with 3,243 people<ref name="YEV2011">{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=6101017&Geo2=PR&Code2=61&Data=Count&SearchText=Inuvik&SearchType=Begins&SearchPR=01&B1=All&TABID=1 |title=Census Profile |website=www12.statcan.gc.ca |date=February 8, 2017 |access-date=June 25, 2018 |archive-date=February 25, 2021 |archive-url=https://web.archive.org/web/20210225070154/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=6101017&Geo2=PR&Code2=61&Data=Count&SearchText=Inuvik&SearchType=Begins&SearchPR=01&B1=All&TABID=1 |url-status=live}}</ref> is the largest Inuvialuit community, 1,315 (40.5%).<ref name="CYEV">{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=6101017&Geo2=PR&Code2=61&Data=Count&SearchText=Inuvik&SearchType=Begins&SearchPR=01&B1=All&TABID=1 |title=search: Inuvik |website=www12.statcan.gc.ca |date=February 8, 2017 |access-date=June 25, 2018 |archive-date=February 25, 2021 |archive-url=https://web.archive.org/web/20210225070154/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=6101017&Geo2=PR&Code2=61&Data=Count&SearchText=Inuvik&SearchType=Begins&SearchPR=01&B1=All&TABID=1 |url-status=live}}</ref> There is one [[Indian reserve]] in the NWT, [[Hay River Reserve]], located on the south shore of the [[Hay River (Canada)|Hay River]].
+
+==Economy==
+The [[gross domestic product]] of the Northwest Territories was [[Canadian dollar|C$]]4.856 billion in 2017.<ref>{{cite web |access-date=September 19, 2019 |publisher=Statistics Canada |title=Statistics Canada. Table 36-10-0222-01 Gross domestic product, expenditure-based, provincial and territorial, annual (x 1,000,000) |year=2018 |doi=10.25318/3610022201-eng |url=https://doi.org/10.25318/3610022201-eng |author1=Statistics Canada |archive-date=December 3, 2021 |archive-url=https://web.archive.org/web/20211203000959/https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610022201 |url-status=live}}</ref> It has the second highest per capita GDP of all provinces and territories in Canada, behind Nunavut, totalling C$113,198 in 2024.<ref>{{Cite web |last=Government of Canada |first=Statistics Canada |date=2012-11-19 |title=Add/Remove data - Gross domestic product, income-based, provincial and territorial, annual |url=https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3610022101 |access-date=2026-04-27 |website=www150.statcan.gc.ca}}</ref>
+
+===Mining===
+The Territories' geological resources include gold, diamonds, [[Beaufort Sea#Oil and gas exploration|natural gas and petroleum]]. [[BP]] is the only oil company currently producing oil there. Its diamonds are promoted as an alternative to purchasing [[blood diamond]]s.<ref>{{cite web |url=http://bhpbilliton.com/bb/productEnquiries/diamondsSpecialtyProducts.jsp |title=BHP Billiton diamond marketing |publisher=Bhpbilliton.com |access-date=February 22, 2011 |archive-url=https://web.archive.org/web/20110218112438/http://www.bhpbilliton.com/bb/productEnquiries/diamondsSpecialtyProducts.jsp |archive-date=February 18, 2011}}</ref> Two of the biggest mineral resource companies in the world, [[BHP]] and [[Rio Tinto (corporation)|Rio Tinto]] mine many of their diamonds there. In 2010, Territories' accounted for 28.5% of Rio Tinto's total diamond production (3.9 million carats, 17% more than in 2009, from the [[Diavik Diamond Mine]]) and 100% of BHP's (3.05 million carats from the [[Ekati Diamond Mine|EKATI mine]]).<ref>{{cite web |url=http://www.riotinto.com/documents/110118_Fourth_quarter_2010_operations_review.pdf |title=Rio Tinto 4th quarter 2010 Operations |year=2011 |archive-url=https://web.archive.org/web/20110124051458/http://www.riotinto.com/documents/110118_Fourth_quarter_2010_operations_review.pdf |archive-date=January 24, 2011 |access-date=February 12, 2011}}</ref><ref>{{cite web |url=http://www.bhpbilliton.com/bbContentRepository/docs/2010Form20f.pdf |title=BHP Billiton 2010 Annual Report page 124 |year=2010 |access-date=February 12, 2011 |archive-date=March 3, 2016 |archive-url=https://web.archive.org/web/20160303234617/http://www.bhpbilliton.com/bbContentRepository/docs/2010Form20f.pdf |url-status=live}}</ref>
+
+The [[Eldorado Mine (Northwest Territories)|Eldorado Mine]] produced [[uranium]] for the [[Manhattan Project]], as well as [[radium]], silver, and copper (for other uses).
+
+[[File:Diavik Diamond Mine, Canada by Planet Labs.jpg|thumb|Aerial view of the [[Diavik Diamond Mine]] in the [[North Slave Region]]]]
+{{col div}}
+{{Main|List of mines in the Northwest Territories}}
+* [[Eldorado Mine (Northwest Territories)|Eldorado Mine]]&nbsp;– 1933–1940, 1942–1960, 1976–1982 ([[radium]], [[uranium]], silver, copper)
+* [[Con Mine]]&nbsp;– 1938–2003 (gold)
+* [[Negus Mine]]&nbsp;– 1939–1952 (gold)
+* [[Ptarmigan and Tom Mine]]&nbsp;– 1941–1942, 1986–1997 (gold)
+* [[Thompson-Lundmark Mine]]&nbsp;– 1941–1943, 1947–1949 (gold)
+* [[Giant Mine]]&nbsp;– 1948–2004 (gold)
+* [[Discovery Mine]]&nbsp;– 1950–1969 (gold)
+* [[Rayrock Mine]]&nbsp;– 1957–1959 (uranium)
+* [[Camlaren Mine]]&nbsp;– 1962–1963, 1980–1981 (gold)
+* [[Cantung Mine]]&nbsp;– 1962–1986, 2002–2003, 2005–2015 ([[tungsten]])
+* [[Echo Bay Mines]]&nbsp;– 1964–1975 (silver and copper)
+* [[Pine Point Mine]]&nbsp;– 1964–1988 (lead and [[zinc]])
+* [[Tundra Mine]]&nbsp;– 1964–1968 (gold)
+* Terra Mine&nbsp;– 1969–1985 (silver and copper)
+* [[Salmita Mine]]&nbsp;– 1983–1987 (gold)
+* [[Colomac Mine]]&nbsp;– 1990–1992, 1994–1997 (gold)
+* [[Ekati Diamond Mine]]&nbsp;– 1998–current (diamonds)
+* [[Diavik Diamond Mine]]&nbsp;– 2003–current (diamonds)
+* [[Snap Lake Diamond Mine]]&nbsp;– 2007–2015 (diamonds)
+{{col div end}}
+
+===Tourism===
+[[File:Nahanni River - Third Canyon.jpg|thumb|[[Nahanni National Park Reserve]], one of several [[List of national parks of Canada|national parks and reserves]] in the Northwest Territories]]
+During the winter, many international visitors go to [[Yellowknife]] to watch the [[aurora]]s. Five areas managed by [[Parks Canada]] are situated within the territory: [[Aulavik National Park|Aulavik]] and [[Tuktut Nogait National Park]]s are in the northern part. Portions of [[Wood Buffalo National Park]] are located within it, although most of it is located in neighbouring [[Alberta]]. Parks Canada also manages three park reserves: [[Nááts'ihch'oh National Park Reserve|Nááts'ihch'oh]], [[Nahanni National Park Reserve]], and [[Thaidene Nëné National Park Reserve]].
+
+==Government==
+{{main|Government of the Northwest Territories|Politics of the Northwest Territories}}
+
+[[File:Legislative Assembly of Northwest Territories.jpg|thumb|The chamber of the [[Northwest Territories Legislative Building]]]]
+As a territory, the NWT has fewer rights than the provinces. During his term, Premier Kakfwi pushed to have the federal government accord more rights to the territory, including having a greater share of the returns from the territory's natural resources go to the territory.<ref>{{cite news |url=https://www.theglobeandmail.com/news/national/nwt-premier-asks-provincial-leaders-for-backing/article20449978/ |title=NWT Premier asks provincial leaders for backing |publisher=The Globe and Mail |date=3 July 2003 |access-date=16 September 2026}}</ref> Devolution of powers to the territory was an issue in the [[Northwest Territories general election, 2003|20th general election]] in 2003, and has been ever since the territory began electing members in 1881.
+
+The [[Commissioner#Canadian territories|Commissioner]] of the NWT is the chief executive and is appointed by the [[Governor General of Canada#Constitutional role|Governor-in-Council of Canada]] on the recommendation of the federal [[Minister of Aboriginal Affairs and Northern Development (Canada)|Minister of Aboriginal Affairs and Northern Development]]. The position used to be more administrative and governmental, but with the devolution of more powers to the elected assembly since 1967, the position has become symbolic. The commissioner had full governmental powers until 1980 when the territories were given greater self-government. The legislative assembly then began electing a cabinet and ''government leader'', later known as the [[Premier (Canada)|premier]]. Since 1985 the commissioner no longer chairs meetings of the [[Executive Council of the Northwest Territories|executive council]] (or cabinet), and the federal government has instructed commissioners to behave like a provincial [[Lieutenant governor (Canada)|lieutenant governor]]. Unlike lieutenant governors, the [[Commissioners of the Northwest Territories|Commissioner of the Northwest Territories]] is not a formal representative of the [[Monarchy of Canada|King of Canada]].{{citation needed|date=January 2017}}
+
+Unlike provincial governments and the government of Yukon, the government of the Northwest Territories does not have political parties. It never has had political parties except for the period between 1898 and 1905. Its [[Legislative Assembly of the Northwest Territories|legislative assembly]] operates through the [[Consensus government in Canada|consensus government]] model.
+
+The website of the NWT government describes consensus government thusly: "The Northwest Territories is one of only two jurisdictions in Canada with a consensus system of government instead of one based on party politics. In our system, all Members of the Legislative Assembly (MLAs) are elected as independents. Shortly after the election, all Members meet as a Caucus to set priorities for that Assembly. The Caucus remains active throughout their term as the forum where all Members meet as equals.[...] Compared to the party system, there is much more communication between Regular Members and Cabinet. All legislation, major policies, and proposed budgets pass through the Regular Members' standing committees before coming to the House."<ref>{{cite web |url=https://www.ntassembly.ca/visitors/what-consensus |title=What is Consensus Government? &#124; Legislative Assembly of the Northwest Territories |date=November 6, 2012 |access-date=January 5, 2022 |archive-date=January 5, 2022 |archive-url=https://web.archive.org/web/20220105171607/https://www.ntassembly.ca/visitors/what-consensus |url-status=live}}</ref>
+
+The NWT Legislative Assembly is composed of one member elected from each of the nineteen constituencies. After [[List of Northwest Territories general elections|each general election]], the new assembly elects the [[Premier of the Northwest Territories|premier]] and the [[Speaker of the Legislative Assembly of the Northwest Territories|speaker]] by secret ballot. Seven MLAs are also chosen as cabinet ministers, with the remainder forming the opposition.
+
+The membership of the [[20th Northwest Territories Legislative Assembly|current legislative assembly]] was set by the [[2023 Northwest Territories general election]] on November 14, 2023. [[R.J. Simpson]] was selected as the new premier by his fellow MLAs on December 7, 2023.<ref>{{Cite web |url=https://www.cbc.ca/news/canada/north/nwt-premier-speaker-cabinet-selection-1.7051317 |title=Hay River's R.J. Simpson is the new premier of the N.W.T. |access-date=December 7, 2023 |archive-date=December 7, 2023 |archive-url=https://web.archive.org/web/20231207220346/https://www.cbc.ca/news/canada/north/nwt-premier-speaker-cabinet-selection-1.7051317 |url-status=live}}</ref>
+
+The member of Parliament for the [[Northwest Territories (electoral district)|Northwest Territories]] is [[Rebecca Alty]] ([[Liberal Party (Canada)|Liberal Party]]). The Senator for the Northwest Territories is [[Margaret Dawn Anderson]].The Commissioner of the Northwest Territories is [[Gerald Kisoun]].
+
+In the [[Parliament of Canada]], the NWT comprises a single [[Canadian Senate divisions|Senate division]] and a single [[Electoral district (Canada)|House of Commons electoral district]], titled [[Northwest Territories (electoral district)|Northwest Territories]] (''Western Arctic'' until 2014). Thus a single MP represents an area that is almost 14 percent of the land area of all of Canada.
+
+===Departments===
+The government of Northwest Territories comprises the following departments:<ref>[https://www.gov.nt.ca/en/departments Government of the NWT] {{Webarchive |url=https://web.archive.org/web/20230712173534/https://www.gov.nt.ca/en/departments |date=July 12, 2023}}, retrieved August 7, 2023</ref>
+{{col div}}
+* Education, Culture and Employment
+* Environment and Climate Change
+* Executive and Indigenous Affairs
+* Finance
+* Health and Social Services
+* Industry, Tourism and Investment
+* Infrastructure
+* Justice
+* Legislative Assembly
+* Municipal and Community Affairs
+{{col div end}}
+
+===Administrative regions===
+[[File:NWT All Region Locator.svg|thumb|upright|Administrative regions of the Northwest Territories]]
+The Northwest Territories is divided into five [[List of regions of the Northwest Territories|administrative regions]] (regional offices in parentheses):
+{{col div}}
+* [[Dehcho Region]] ([[Fort Simpson]])<ref name=macadecho>{{cite web |url=https://www.maca.gov.nt.ca/en/dehcho-region |title=Dehcho Region |access-date=April 8, 2021 |archive-date=November 20, 2021 |archive-url=https://web.archive.org/web/20211120143244/https://www.maca.gov.nt.ca/en/dehcho-region |url-status=live}}</ref>
+* [[Inuvik Region]] ([[Inuvik]])<ref>{{cite web |url=https://www.maca.gov.nt.ca/en/inuvik-region |title=Inuvik Region |access-date=April 8, 2021 |archive-date=November 20, 2021 |archive-url=https://web.archive.org/web/20211120143024/https://www.maca.gov.nt.ca/en/inuvik-region |url-status=live}}</ref>
+* [[North Slave Region]] ([[Yellowknife]] and [[Behchoko]] [sub-office])<ref>{{cite web |url=https://www.maca.gov.nt.ca/en/north-slave-region |title=North Slave Region |access-date=April 8, 2021 |archive-date=November 20, 2021 |archive-url=https://web.archive.org/web/20211120143335/https://www.maca.gov.nt.ca/en/north-slave-region |url-status=live}}</ref>
+* [[Sahtu Region]] ([[Norman Wells]])<ref>{{cite web |url=https://www.maca.gov.nt.ca/en/sahtu-region |title=Sahtu Region |access-date=April 8, 2021 |archive-date=November 20, 2021 |archive-url=https://web.archive.org/web/20211120143314/https://www.maca.gov.nt.ca/en/sahtu-region |url-status=live}}</ref>
+* [[South Slave Region]] ([[Fort Smith, Northwest Territories|Fort Smith]] and [[Hay River, Northwest Territories|Hay River]] [sub-office])<ref>{{cite web |url=https://www.maca.gov.nt.ca/en/south-slave-region |title=South Slave Region |access-date=April 8, 2021 |archive-date=November 20, 2021 |archive-url=https://web.archive.org/web/20211120143722/https://www.maca.gov.nt.ca/en/south-slave-region |url-status=live}}</ref>
+{{col div end}}
+
+==Culture==
+{{see also|Music of the Northwest Territories}}
+[[File:Snowcastle under construction in Yellowknife 02.JPG|thumb|A [[snow fort]] at the annual [[Snowking Winter Festival]] in Yellowknife]]
+Aboriginal issues in the Northwest Territories include the fate of the [[Dene]] who, in the 1940s, were employed to carry radioactive uranium ore from the mines on Great Bear Lake. Of the thirty plus miners who worked at the [[Port Radium, Northwest Territories|Port Radium]] site, at least fourteen have died due to various forms of cancer. A study was done in the community of [[Deline]], called ''A Village of Widows'' by [[Cindy Kenny-Gilday]], which indicated that the number of people involved were too small to be able to confirm or deny a link.<ref>{{cite web |url=http://arcticcircle.uconn.edu/SEEJ/Mining/gilday.html |title=A Village of Widows |publisher=Arcticcircle.uconn.edu |access-date=February 22, 2011 |archive-url=https://web.archive.org/web/20110711233545/http://arcticcircle.uconn.edu/SEEJ/Mining/gilday.html |archive-date=July 11, 2011}}</ref><ref>{{cite web |url=http://www.ccnr.org/deline_deaths.html |title=Echoes of the Atomic Age |publisher=Ccnr.org |access-date=February 22, 2011 |archive-date=September 1, 2021 |archive-url=https://web.archive.org/web/20210901052649/http://ccnr.org/deline_deaths.html |url-status=live}}</ref>
+
+There has been racial tension based on a history of [[Bloody Falls Massacre|violent conflict between the Dene and the Inuit]],<ref>{{cite web |url=http://www.canadianarchaeology.com/cmcc/pinuva.htm |title=Relations with their Southern Neighbours |archive-url=https://web.archive.org/web/20000229125642/http://www.canadianarchaeology.com/cmcc/pinuva.htm |archive-date=February 29, 2000 |access-date=January 11, 2009}}</ref> who have now taken recent steps towards reconciliation.
+
+Land claims in the NWT began with the Inuvialuit Final Agreement, signed on June 5, 1984. It was the first Land Claim signed in the Territory, and the second in Canada.<ref name="Inuvialuit Regional Corporation Website">{{cite web |title=IRC: Inuvialuit Final Agreement |url=http://www.irc.inuvialuit.com/about/finalagreement.html |access-date=March 28, 2012 |archive-date=February 10, 2012 |archive-url=https://web.archive.org/web/20120210184606/http://www.irc.inuvialuit.com/about/finalagreement.html}}</ref> It culminated with the creation of the Inuit homeland of Nunavut, the result of the [[Nunavut Land Claims Agreement]], the largest land claim in Canadian history.<ref name="NLCA">{{cite web |url=http://www.nucj.ca/library/bar_ads_mat/Nunavut_Land_Claims_Agreement.pdf |title=Agreement between the Inuit of the Nunavut Settlement Area and Her Majesty The Queen in Right of Canada |access-date=January 10, 2009 |archive-url=https://web.archive.org/web/20090324220716/http://www.nucj.ca/library/bar_ads_mat/Nunavut_Land_Claims_Agreement.pdf |archive-date=March 24, 2009}}</ref>
+
+Another land claims agreement with the [[Tłı̨chǫ people]] created a region within the NWT called [[Tlicho Government|Tli Cho]], between Great Bear and Great Slave Lakes, which gives the Tłı̨chǫ their own legislative bodies, taxes, resource royalties, and other affairs, though the NWT still maintains control over such areas as health and education. This area includes two of Canada's three diamond mines, at Ekati and Diavik.<ref>{{Cite web |url=http://www.gov.nt.ca/MAA/newsreleases/tlicho_land_claim.htm |archive-url=https://web.archive.org/web/20090212163741/http://www.gov.nt.ca/MAA/newsreleases/tlicho_land_claim.htm |title=Government of the NWT news release on land claims signing |archive-date=February 12, 2009 |access-date=January 11, 2009}}</ref>
+
+===Festivals===
+{{See also|Category:Festivals in the Northwest Territories}}
+Among the festivals in the region are the [[Great Northern Arts Festival]], the [[Snowking Winter Festival]], [[Folk on the Rocks]] music festival in [[Yellowknife]], and [[Rockin the Rocks]].
+
+==Transportation==
+{{More citations needed section|date=July 2020}}
+
+===Road===
+{{see also|List of Northwest Territories highways}}
+[[File:Dempster 2769.jpg|thumb|[[Dempster Highway]], south of [[Inuvik]]]]
+[[File:NWT-DSC00481.jpg|thumb|Entering the Northwest Territories from Alberta on the MacKenzie Highway]]
+Northwest Territories has nine numbered highways. The longest is the [[Mackenzie Highway]], which stretches from the [[Alberta Highway 35]]'s northern terminus in the south at the Alberta – Northwest Territories border at the 60th parallel to [[Wrigley, Northwest Territories]] in the north. [[Ice road]]s and [[winter road]]s are also prominent and provide road access in winter to towns and mines which would otherwise be [[Remote and isolated community|fly-in locations]]. [[Yellowknife Highway]] branches out from Mackenzie Highway and connects it to Yellowknife. [[Dempster Highway]] is the continuation of [[Klondike Highway]]. It starts just west of [[Dawson City]], Yukon, and continues east for over {{convert|700|km}} to Inuvik. As of 2017, the all-season [[Inuvik-Tuktoyaktuk Highway]] connects Inuvik to communities along the Arctic Ocean as an extension of the Dempster Highway.
+
+Yellowknife did not have an all-season road access to the rest of Canada's highway network until the completion of [[Deh Cho Bridge]] in 2012. Prior to that, traffic relied on ferry service in summer and ice road in winter to cross the [[Mackenzie River]]. This became a problem during spring and fall time when the ice was not thick enough to handle vehicle load but the ferry could not pass through the ice, which would require all goods from fuel to groceries to be airlifted during the transition period.
+
+[[File:NWT license plate 38542.jpg|thumb|A [[Vehicle registration plates of the Northwest Territories|Northwest Territories licence plate]]]]
+The Northwest Territories is the only jurisdiction in North America to issue a non rectangular standard licence plate. Instead, the territory issues a licence plate shaped like a polar bear.
+
+===Public transit===
+[[Yellowknife Transit]] is the [[public transportation]] agency in the city, and is the only transit system within the Northwest Territories.<ref>{{cite web |url=http://www.yellowknife.ca/Assets/City+Clerks/Forms+And+Publications/TransitRouteAnalysisStudyFinalReportOctober2008.pdf |title=Transit Route Analysis Study Final Report |publisher=City of Yellowknife |access-date=March 26, 2009 |archive-url=https://web.archive.org/web/20110706213754/http://www.yellowknife.ca/Assets/City%2BClerks/Forms%2BAnd%2BPublications/TransitRouteAnalysisStudyFinalReportOctober2008.pdf |archive-date=July 6, 2011}}</ref>
+
+===Air===
+{{see also|List of airports in the Northwest Territories}}
+[[File:2015-09-06 Terminal at Yellowknife Airport (YZF).jpg|thumb|Entrance to [[Yellowknife Airport]], the largest [[airport]] in the territory]]
+[[Yellowknife Airport]] is the largest airport in the territory in terms of aircraft movements and passengers. It is the gateway airport to other destinations within the Northwest Territories. As the airport of the territory capital, it is part of the [[National Airports System]]. It is the hub of multiple regional airlines. Major airlines serving destinations within Northwest Territories include [[Buffalo Airways]], [[Canadian North]], [[North-Wright Airways]].
+
+==See also==
+{{portal|border=no|Canada}}
+* [[List of National Parks of Canada]]
+* [[List of Northwest Territories Legislative Assemblies]]
+* [[List of Northwest Territories plebiscites]]
+* [[List of ghost towns in the Northwest Territories]]
+* [[Scouting and Guiding in the Northwest Territories]]
+* [[Symbols of the Northwest Territories]]
+* [[Education in the Northwest Territories]]
+* [[List of people from the Northwest Territories]]
+{{clear}}
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==Further reading==
+{{Main|Bibliography of the Arctic|Bibliography of the history of Canadian Arctic}}
+{{refbegin}}
+* {{Cite book |last=Coates |first=Kenneth |year=1985 |title=Canada's colonies: a history of the Yukon and Northwest Territories |url=https://books.google.com/books?id=sPXVRynQH5wC&q=Yukon&pg=PP1 |publisher=Lorimer |isbn=978-0-8886-2931-9 |access-date=November 2, 2020 |archive-date=May 23, 2024 |archive-url=https://web.archive.org/web/20240523075417/https://books.google.com/books?id=sPXVRynQH5wC&q=Yukon&pg=PP1#v=snippet&q=Yukon&f=false |url-status=live}}
+* {{Cite book |last=Choquette |first=Robert |author-link=Robert Choquette |year=1995 |title=The Oblate assault on Canada's northwest |url=https://archive.org/details/oblateassaultonc0000choq |url-access=registration |quote=Northwest Territories. |publisher=[[University of Ottawa Press]] |isbn=978-0-7766-0402-2}}
+* Ecosystem Classification Group, and Northwest Territories. ''[http://forestmanagement.enr.gov.nt.ca/forest_resources/publications/ecoland/3_3_1_Northern_Great_Bear_Plains_HS_Level_III.pdf Ecological Regions of the Northwest Territories Taiga Plains] {{Webarchive|url=https://web.archive.org/web/20080503003040/http://forestmanagement.enr.gov.nt.ca/forest_resources/publications/ecoland/3_3_1_Northern_Great_Bear_Plains_HS_Level_III.pdf |date=May 3, 2008}}''. Yellowknife, NWT: Dept. of Environment and Natural Resources, Govt. of the Northwest Territories, 2007. {{ISBN|978-0-7708-0161-8}}
+{{refend}}
+
+==External links==
+{{Commons category|Northwest Territories}}
+{{Wikivoyage}}
+
+{{Div col|colwidth=30em}}
+* {{Official website|name= Government of the Northwest Territories}}
+* [https://spectacularnwt.com/ Northwest Territories Tourism] {{Webarchive|url=https://web.archive.org/web/20210203193850/https://spectacularnwt.com/ |date=February 3, 2021}}
+* [http://www.pwnhc.ca/ Prince of Wales Northern Heritage Centre] {{Webarchive|url=https://web.archive.org/web/20160510224623/http://www.pwnhc.ca/ |date=May 10, 2016}}
+* [http://www.auroracollege.nt.ca/ Aurora College] {{Webarchive |url=https://web.archive.org/web/20070527220611/http://www.auroracollege.nt.ca/ |date=May 27, 2007}}
+* [http://nwtarchives.ca/ NWT Archives] {{Webarchive|url=https://web.archive.org/web/20160531093709/http://www.nwtarchives.ca/ |date=May 31, 2016}}
+* [https://web.archive.org/web/20050813082451/http://www.nwt.literacy.ca/ NWT Literacy Council]
+* [https://web.archive.org/web/20031001203830/http://www.gov.nt.ca/langcom/ Language Commissioner of the Northwest Territories]
+* [https://web.archive.org/web/20021011160739/http://www.lessonsfromtheland.ca/ Lessons From the Land: interactive journeys of NWT traditional Aboriginal trails]
+* [http://archives.cbc.ca/IDD-1-73-1021/politics_economy/elections_nwt/ CBC Digital Archives – Northwest Territories: Voting in Canada's North] {{Webarchive|url=https://web.archive.org/web/20060614073945/http://archives.cbc.ca/IDD-1-73-1021/politics_economy/elections_nwt/ |date=June 14, 2006}}
+* [https://web.archive.org/web/20140509001538/http://laws-lois.justice.gc.ca/eng/acts/N-27/page-4.html#h-7 Northwest Territories Act]
+{{div col end}}
+
+{{Provinces and territories of Canada}}
+{{Northern Canada}}
+{{Subdivisions of Northwest Territories}}
+{{Communities of Northwest Territories}}
+{{NWT History box}}
+{{Polar regions}}
+{{Authority control}}
+
+[[Category:Northwest Territories| ]]
+[[Category:1870 establishments in Canada]]
+[[Category:Arctic Ocean]]
+[[Category:Beaufort Sea]]
+[[Category:States and territories established in 1870]]
+[[Category:Provinces and territories of Canada]]
+[[Category:Countries and territories where French is an official language]]
+[[Category:Countries and territories where English is an official language]]

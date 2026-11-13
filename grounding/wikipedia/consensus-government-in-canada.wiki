@@ -1,0 +1,53 @@
+{{short description|none}}
+{{Use Canadian English|date=December 2025}}
+'''Consensus government''' is a [[form of government]] by [[consensus decision-making]] in [[Canada]] used in two of Canada's three [[Provinces and territories of Canada|federal territories]] ([[Northwest Territories]] and [[Nunavut]]) as well as in [[Nunatsiavut]], an [[autonomous area]] in the province of [[Newfoundland and Labrador]].
+
+The population of these jurisdictions are majority [[Indigenous peoples in Canada|Indigenous peoples]]. The system developed in the Northwest Territories beginning during the 1970s, and was adopted by Nunavut when it came into existence in 1999.
+
+==Origins and development==
+{{More citations needed section|date=March 2021}}
+In 1905, the provinces of [[Alberta]] and [[Saskatchewan]] were separated from the then much larger Northwest Territories. The [[Yukon|Yukon Territory]] had been created in 1898 to facilitate governance of the [[Klondike Gold Rush|Yukon goldfields]], and both [[Ontario]] and [[Quebec]] were granted large areas of northern lands. The remaining lands were considered to be unsettled by Europeans, largely inhabited by [[Dene]], [[Métis]] and [[Inuit]], and not requiring much governance. The [[Commissioner of the Northwest Territories]], a functionary reporting to the [[Minister of Indian and Northern Affairs]] in Ottawa, was given plenary governing authority.
+
+A legislative council was convened from time to time of worthy notables, learned in matters involving the natives and northern development. The [[2nd Council of the Northwest Territories]] met sporadically, typically in Ottawa, and passed ordinances for the benefit of the territory.
+
+Beginning during the 1950s and 1960s, some residents of the territory were appointed or elected to the council. These elected members were initially non-native, but in growing number, were Dene, Métis and Inuit. Members began to secure positions on the executive council, replacing appointed Ottawa administrators, and began to insist on a devolution of authority. In a series of letters, the Minister of Indian and Northern Affairs gradually curtailed the authority of the commissioner and affirmed the authority of the assembly.
+
+The first fully elected [[Executive Council of the Northwest Territories|executive council]] elected in 1980 was led by [[George Braden]], and the system of [[consensus government]] developed from that date.
+
+==Choosing leadership==
+Members of the legislature are elected as independents from single member districts by [[plurality voting system|simple plurality]] voting. The legislature selects first the speaker, then the [[premier (Canada)|premier]],  and finally the [[Cabinet (government)#Westminster cabinets|cabinet]] members from amongst themselves. In each instance the candidate must obtain a majority of the votes cast. This means that multiple rounds of voting, a variant of the [[two-round system]], may occur before the successful candidate is elected.
+
+The premier has three main authorities. The premier:
+# names the portfolios of each minister and can remove or adjust these,
+# controls the agenda of the cabinet/executive council, and
+# hires, rewards, and dismisses the deputy department heads.
+
+The passage of legislation and the government is dependent on retaining the [[confidence (politics)|confidence]] of the legislature. However, due to the absence of political parties there is no formal [[opposition (parliamentary)|opposition]] and instead of party [[caucuses]] members regularly participate in a caucus of all members of the legislature.<ref>{{cite news
+|title=Some Thoughts on Consensus Government in Nunavut
+|author=Kevin O'Brien
+|url=http://www.revparl.ca/26/4/26n4_03e_OBrien.pdf
+|year=2003
+|accessdate=2011-07-06
+|work=Canadian Parliamentary Review
+}}</ref>
+
+==List of consensus governments in Canada==
+* [[Legislative Assembly of the Northwest Territories]]
+* [[Legislative Assembly of Nunavut]]
+*[[Nunatsiavut Assembly]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20070202194416/http://www.assembly.gov.nt.ca/visitorinfo/factsheets/index.html ''Consensus government'' (Legislative Assembly of the NWT)]<!-- Broken 2011-12-21 -->
+*[http://www.gov.nu.ca/consensus-government ''Consensus Government'' (Gov't of Nunavut)]
+
+[[Category:Politics of Nunavut]]
+[[Category:Politics of the Northwest Territories]]
+[[Category:Types of democracy]]
+[[Category:Legislative Assembly of the Northwest Territories]]
+[[Category:Legislative Assembly of Nunavut]]
+[[Category:Indigenous self-government in Canada]]
+[[Category:Government in Canada]]
+[[Category:Power sharing]]

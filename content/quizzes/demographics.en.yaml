@@ -1,0 +1,122 @@
+# Question bank: Demographics (reference page)
+# Format: see SITEMAP.md, section "Quizzes".
+
+- id: demographics-estimates
+  pages: [demographics]
+  tags: [census]
+  type: single
+  question: Why do Statistics Canada's population estimates run a little higher than census counts?
+  options:
+    - They include tourists who are visiting on census day
+    - They correct for people the census missed
+    - They count people with two homes twice
+    - They're rounded up to the nearest thousand
+  answer: 1
+  explanation: >
+    Every census misses some people. Population estimates start from the census, adjust
+    for that undercount, then add births and arrivals and subtract deaths and departures.
+  source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901
+
+- id: demographics-seats
+  pages: [demographics]
+  tags: [parliament, census]
+  type: single
+  question: Why does a province's share of Canada's population matter politically?
+  options:
+    - Senate seats are reassigned after every census
+    - Seats in the House of Commons are shared out mainly by population
+    - Larger provinces get more Supreme Court judges by law
+    - Premiers' votes count more at first ministers' meetings
+  answer: 1
+  explanation: >
+    Commons seats are redistributed after each ten-year census, mainly by population,
+    with some protections for slower-growing provinces. Senate seats are fixed by region.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-2.html
+
+- id: demographics-senatorial-clause
+  pages: [demographics]
+  tags: [parliament]
+  type: single
+  question: What does the "senatorial clause" guarantee?
+  options:
+    - Every province has the same number of senators
+    - No province has fewer MPs than it has senators
+    - Every province has at least ten MPs
+    - Senators are chosen in proportion to population
+  answer: 1
+  explanation: >
+    Section 51A of the Constitution Act, 1867 says a province can't have fewer members
+    of the House of Commons than senators. It's why Prince Edward Island has four MPs.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-2.html
+
+- id: demographics-1913
+  pages: [demographics]
+  tags: [immigration]
+  type: true-false
+  question: Relative to the size of the population, immigration was higher in 1913 than in any recent year.
+  answer: true
+  explanation: >
+    About 400,000 immigrants arrived in 1913, more than 50 for every 1,000 people living
+    in Canada. Recent years have had more arrivals in total, but only about 9 to 12 per
+    1,000 people.
+  source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710006301
+
+- id: demographics-seniors-children
+  pages: [demographics]
+  tags: [age]
+  type: true-false
+  question: Canada now has more people aged 65 and older than children under 15.
+  answer: true
+  explanation: >
+    The share of seniors has risen steadily since the 1970s while the share of children
+    has fallen. Seniors now outnumber children.
+  source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501
+
+- id: demographics-median-age
+  pages: [demographics]
+  tags: [age]
+  type: single
+  question: What does "median age" mean?
+  options:
+    - The average age of everyone in the population
+    - The age that splits the population in half, with half younger and half older
+    - The most common age
+    - The age at which people can vote
+  answer: 1
+  explanation: >
+    The median is the middle value. Half the population is younger than the median age
+    and half is older.
+  source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501
+
+- id: demographics-youngest
+  pages: [demographics]
+  tags: [age, provinces]
+  type: single
+  question: Which province or territory has the youngest population?
+  options:
+    - Alberta
+    - Nunavut
+    - Saskatchewan
+    - Yukon
+  answer: 1
+  explanation: >
+    Nunavut's median age is far below every other province and territory, reflecting a
+    young and fast-growing Inuit population.
+  source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501
+
+- id: demographics-quebec-share
+  pages: [demographics]
+  tags: [provinces]
+  type: single
+  question: Since 1951, which province's share of Canada's population has fallen the most?
+  options:
+    - Quebec
+    - Ontario
+    - British Columbia
+    - Alberta
+  answer: 0
+  explanation: >
+    Quebec's population has kept growing, but more slowly than the country as a whole,
+    so its share has dropped from more than a quarter of Canadians in 1951 to about a fifth
+    today. Ontario, Alberta and British Columbia have gained ground.
+  source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901

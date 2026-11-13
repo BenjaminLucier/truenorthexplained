@@ -1,0 +1,145 @@
+{{short description|1929 Canadian court case about women's eligibility as senators}}
+{{Use mdy dates|date=October 2017}}
+{{Italic title|all=yes}}
+{{infobox court case
+| name = ''Edwards v Canada (AG)''
+| court = [[Judicial Committee of the Privy Council]]
+| image = Royal Arms of the United Kingdom (Privy Council).svg
+| imagesize = 120
+| imagelink =
+| imagealt =
+| caption = Arms of the Judicial Committee of the Privy Council
+| date decided = October 18, 1929
+| full name = In the matter of a Reference as to the meaning of the word " persons " in Section 24 of The British North America Act, 1867
+| citations = [1930] AC 124, [1929] All ER Rep 571, [http://www.bailii.org/uk/cases/UKPC/1929/1929_86.html 1929 UKPC 86 (BAILII)].
+| judges = Lord [[John Sankey, 1st Viscount Sankey|Sankey]], L.C.<br/>Lord [[Charles Darling, 1st Baron Darling|Darling]]<br/>Lord [[Henry Duke, 1st Baron Merrivale|Merrivale]]<br/>Lord [[Thomas Tomlin, Baron Tomlin|Tomlin]]<br/>Sir [[Lancelot Sanderson]]
+| number of judges = 5
+| decision by = Lord Sankey
+| prior actions = ''Reference re Meaning of the Word "Persons" in s. 24 of the BNA Act'', {{cite CanLII|court=scc|year=1928|num=55|format=canlii |parallelcite=[1928] SCR 276}}
+| appealed from = [[Supreme Court of Canada]]
+| italic title = no
+}}
+'''''Edwards v Canada (AG)''''', also known as the '''''Persons Case''''' ({{langx|fr|l'Affaire « personne »}}), is a Canadian constitutional case that decided in 1929 that women were eligible to sit in the [[Senate of Canada]]. The legal case was put forward by the Government of Canada on the lobbying of a group of women known as [[The Famous Five (Canada)|The Famous Five]]—[[Henrietta Edwards]], [[Nellie Mooney McClung|Nellie McClung]], [[Louise McKinney]], [[Emily Murphy]] and [[Irene Parlby]].  The case began as a [[reference question|reference case]] by the [[Cabinet of Canada|federal Cabinet]] directly to the [[Supreme Court of Canada]], which ruled that women were not "qualified persons" and thus ineligible to sit in the Senate. The five women then appealed to the [[Judicial Committee of the Privy Council|Judicial Committee of the Imperial Privy Council]] in London, at that time the [[court of last resort]] for Canada within the British Empire and Commonwealth. The Judicial Committee overturned the Supreme Court's decision.  (The case name lists Edwards as the lead appellant, as her name came first alphabetically.)
+
+The ''Persons Case'' was a landmark case in two respects. The case established that Canadian women were eligible to be appointed senators and also established that the Canadian constitution should be interpreted in a way that was more consistent with the needs of society.
+
+Some saw the eligibility of women for the senate as "radical change"; others saw it as a restoration of the original framing of the English constitutional documents, including the [[Bill of Rights 1689]], which uses only the term "person", not the term "man" (or "woman" for that matter).
+
+Some others have interpreted the Privy Council rule as causing a change in the Canadian judicial approach to the Canadian constitution, an approach that has come to be known as the ''[[living tree doctrine]]''. This is a doctrine of constitutional interpretation that says that a constitution is organic and must be read in a broad and liberal manner so as to adapt it to changing times.
+
+[[File:WLMK unveiling plaque to Valiant Five.jpg|thumb|250px| [[William Lyon Mackenzie King]] in 1938, unveiling a plaque to the [[The Famous Five (Canada)|Famous Five]] of the ''Persons Case'']]
+
+== Background ==
+In 1916, [[Emily Murphy]], a well-known activist for women's rights, and a group of other women attempted to attend a trial of Alberta women accused of prostitution. She and the rest of the group of women were ejected from the trial on the grounds that the testimony was "not fit for mixed company". Emily Murphy was outraged and appealed to [[Charles Wilson Cross]], the Attorney General of Alberta, arguing, "If the evidence is not fit to be heard in mixed company, then&nbsp;... the government&nbsp;... [must] set up a special court presided over by women, to try other women." Much to her surprise, the minister not only agreed, but appointed her as the magistrate. On her first day on the job, however, her authority to preside as a judge was challenged by a lawyer on the basis that women were not considered to be "persons" under the ''[[British North America Acts|British North America Act]]''. In 1917, the [[Supreme Court of Alberta]] ruled that women were persons.<ref>{{cite CanLII|litigants=Rex v Cyr |link=|year=1917|court=CanLII |num=429|format=canlii |pinpoint= |parallelcite=(1917) 38 DLR 601 |date=|juris=ABCA}}</ref>
+
+Some time later, Emily Murphy tested the issue in the rest of Canada by allowing her name to be put forward to Prime Minister [[Robert Borden]] as a candidate for Canadian Senator. He rejected her on the grounds that women were not "persons". In response to a petition signed by nearly 500,000 Canadians that asked that she be appointed to the Senate, Borden stated that he was willing to do so, but could not on the basis of an 1876 British common law ruling{{which|date=July 2021}} that stated that "women were eligible for pains and penalties, but not rights and privileges".<ref>{{cite web|url=http://www.famou5.ca/emily-murphy/|title=Emily Murphy|website=Famous5|archive-url=https://web.archive.org/web/20191218174427/http://www.famou5.ca/emily-murphy/ |archive-date=December 18, 2019 }}</ref>
+
+== Petition to the federal government ==
+Some years later, Emily Murphy asked four other prominent Albertan women to join her in a petition to the federal government on the issue of women's status. On August 27, 1927, the four other women ([[Irene Parlby|Irene Marryat Parlby]], [[Nellie Mooney McClung]], [[Louise McKinney|Louise Crummy McKinney]], and [[Henrietta Muir Edwards]]) joined her for tea at her house. The five women, later to be known as the [[The Famous Five (Canada)|Famous Five]] (or the Valiant Five) all signed the petition, asking the federal government to refer two questions relating to women's status to the [[Supreme Court of Canada]]. The two questions were:
+
+{{Blockquote|text=I. Is power vested in the Governor-General in Council of Canada, or the Parliament of Canada, or either of them, to appoint a female to the Senate of Canada?<br><br>
+II. Is it constitutionally possible for the Parliament of Canada under the provisions of the British North America Act, or otherwise, to make provision for the appointment of a female to the Senate of Canada?<ref>{{cite web|url=http://epe.lac-bac.gc.ca/100/206/301/lac-bac/famous_five-ef/www.lac-bac.gc.ca/famous5/05300301_e.html|title=Petition of August 27, 1927—The Famous Five|website=Library and Archives Canada / Bibliothèque et Archives Canada}}</ref>}}
+
+== Reference to the Supreme Court ==
+In Canada, the federal government has the power to [[Reference question|refer questions]] to the Supreme Court of Canada to clarify legal and constitutional issues.<ref>''[http://laws-lois.justice.gc.ca/eng/acts/S-26/page-10.html#h-16 Supreme Court Act] {{Webarchive|url=https://web.archive.org/web/20111122025348/http://laws-lois.justice.gc.ca/eng/acts/S-26/page-10.html#h-16 |date=November 22, 2011 }}'', RSC 1985, c. S-19, s. 53</ref> [[Ernest Lapointe]], who was Minister of Justice in the government of [[William Lyon Mackenzie King]], reviewed the petition and recommended to the [[Federal cabinet of Canada|federal Cabinet]] that the questions be narrowed down from two to one, relating to the appointment of women to the federal Senate of Canada under section 24 of the ''British North America Act, 1867'' (now known as the ''[[Constitution Act, 1867]]'').
+
+On October 19, 1927, the Cabinet submitted this question for clarification to the Supreme Court of Canada:
+
+{{Blockquote|text=Does the word "Persons" in section 24 of the ''British North America Act, 1867'', include female persons?}}
+
+Emily Murphy, speaking for the five petitioners, originally objected to this change in the wording of the question, which she described in a letter to the Deputy Minister of Justice as "a matter of amazement and perturbation to us".<ref name="Murphy">{{cite web|url=http://epe.lac-bac.gc.ca/100/206/301/lac-bac/famous_five-ef/www.lac-bac.gc.ca/famous5/05300302_e.html|title=Letter from Emily Murphy (November 9, 1927)—The Famous Five|website=Library and Archives Canada / Bibliothèque et Archives Canada}}</ref> On behalf of the petitioners, she asked that the Government withdraw the single question and refer the original two questions to the Supreme Court, along with a new, third question:
+
+{{Blockquote|text=3. If any statute be necessary to qualify a female to sit in the Senate of Canada, must this statute be enacted by the Imperial Parliament, or does power lie with the Parliament of Canada, or the Senate of Canada?<ref name = Murphy/>}}
+
+After further correspondence with the Deputy Minister and consultation with their lawyer, however, Emily Murphy advised the Deputy Minister that they accept the single question posed by the Cabinet.<ref>{{cite web|url=http://epe.lac-bac.gc.ca/100/206/301/lac-bac/famous_five-ef/www.lac-bac.gc.ca/famous5/05300305_e.html|title=Letter from Emily Murphy (December 28, 1927)—The Famous Five|website=Library and Archives Canada / Bibliothèque et Archives Canada}}</ref>
+
+== Decision  of the Supreme Court of Canada ==
+The Supreme Court of Canada heard the case on March 14, 1928, and issued its decision on April 24, 1928. [[Francis Alexander Anglin]], [[Chief Justice of Canada]], wrote the majority judgment, with [[John Henderson Lamont|Lamont]] J. and [[Robert Smith (Canadian judge)|Smith]] J. concurring. [[Pierre-Basile Mignault|Mignault]] J. and [[Lyman Duff|Duff]] J. wrote separate concurring reasons.<ref name = Persons>[https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/9029/index.do ''Reference re meaning of the word "Persons" in s. 24 of British North America Act'', [1928<nowiki>]</nowiki> SCR 276.]</ref> Justice [[Edmund Leslie Newcombe]] recused himself on the basis he had written an opinion on the matter as Deputy Minister of Justice in 1921 advising the government at the time that women were not qualified under for appointment to the Senate.<ref>{{Cite DCB|title=Newcombe, Edmund Leslie|last=Girard|first=Philip|volume=16|url=http://www.biographi.ca/en/bio/newcombe_edmund_leslie_16E.html}}</ref>
+
+Anglin C.J.C. began by reviewing the provisions relating to the appointment of Senators under the ''Constitution Act, 1867''. Section 23 of the Act sets out the qualifications for a Senator. Senators must be at least thirty years old, must be a British subject, must own real and personal property with a net value of at least $4,000, and must live in the Province for which they are appointed. Section 23 uses the pronoun "He" to describe these qualifications, which contributed to the argument that only men could be appointed to the Senate.<ref>''[https://laws-lois.justice.gc.ca/eng/const/section-23.html Constitution Act, 1867]'', s. 23.</ref>
+
+Section 24 then provides:
+
+{{Blockquote|text='''Summons of Senator'''<br>'''24.''' The Governor General shall from Time to Time, in the Queen's Name, by Instrument under the Great Seal of Canada, summon qualified Persons to the Senate; and, subject to the Provisions of this Act, every Person so summoned shall become and be a Member of the Senate and a Senator.<ref>''[https://laws-lois.justice.gc.ca/eng/const/section-24.html Constitution Act, 1867]'', s. 24.</ref>}}
+
+The question for the Court was whether women could be "qualified persons" under s. 24 and thus eligible to be appointed to the Senate. Ultimately, all five Justices held that the meaning of "qualified persons" did not include women. The Court interpreted the phrase "qualified person" based on their understanding of the intention of the drafters of the ''[[Constitution Act, 1867]]'', despite acknowledging that the role of women in society had changed since that date. In 1867, women could not sit in Parliament. Thus, if there were to be an exception to the practice from that period, it would have to be explicitly legislated. The majority decision held that the common law incapacity of women to exercise public functions excluded women from the class of "qualified persons" under section 24 of the ''Constitution Act, 1867''.<ref>[https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/9029/index.do ''Reference re meaning of the word "Persons" in s. 24 of the British North America Act''], pp. 283–285 (per Anglin C.J.C.).</ref>
+
+=== Misconceptions ===
+{{Synthesis|section|date=June 2025}}
+A common misinterpretation of the case is that the Supreme Court held that women are not persons. For example, the website of Status of Women Canada, a federal government organization, states, "After five weeks of debate and argument the Supreme Court of Canada decided that the word 'person' did not include women."<ref>{{cite web|url=http://www.swc-cfc.gc.ca/commemoration/pd-jp/five-cinq-en.html|title=Who were the Famous Five? – Persons Day – Status of Women Canada|first=Government of Canada, Status of Women Canada, Communications and Public Affairs|last=Directorate|website=www.swc-cfc.gc.ca|date=March 31, 2021}}</ref>
+
+The majority judgment of the Supreme Court of Canada noted:
+
+{{Blockquote|text=There can be no doubt that the word "persons" when standing alone ''prima facie'' includes women. (Per Loreburn L.C., ''Nairn v. University of St. Andrews''). It connotes human beings—the criminal and the insane equally with the good and the wise citizen, the minor as well as the adult. Hence the propriety of the restriction placed upon it by the immediately preceding word "qualified" in ss. 24 and 26 and the words "fit and qualified" in s. 32, which exclude the criminal and the lunatic or imbecile as well as the minor, who is explicitly disqualified by s. 23(1). Does this requirement of qualification also exclude women?<ref>[https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/9029/index.do ''Reference re meaning of the word "Persons" in s. 24 of the British North America Act''], pp. 285–286.</ref>|author=Anglin C.J.C.
+}}
+
+The Court did not respond directly to the question as posed by the federal Cabinet. Instead, the Court gave its own interpretation of the question in a discussion of precedents regarding public office:
+
+{{Blockquote|text=It should be observed that, while the question now submitted by His Excellency to the court deals with the word "Persons," section 24 of the B.N.A. Act speaks only of "qualified Persons"; and the other sections empowering the Governor General to make appointments to the Senate (26 and 32) speak, respectively, of "qualified Persons" and of "fit and qualified Persons." The question which we have to consider, therefore, is whether "female persons" are qualified to be summoned to the Senate by the Governor General; or, in other words—Are women eligible for appointment to the Senate of Canada?<ref>[https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/9029/index.do ''Reference re meaning of the word "Persons" in s. 24 of the British North America Act''], p. 281.</ref>|author=Anglin C.J.C.}}
+
+The Court's unanimous answer to that question was:
+
+{{Blockquote|text=The formal judgment of the court was as follows:—<br/>"Understood to mean 'Are women eligible for appointment to the Senate of Canada', the question is answered in the negative."<ref>[https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/9029/index.do ''Reference re meaning of the word "Persons" in s. 24 of the British North America Act''], p. 304.</ref>}}
+
+At that time, however, the Supreme Court was not the final arbiter of constitutional questions in Canada.
+
+== Appeal to the Judicial Committee of the Privy Council ==
+=== Name of the case ===
+The five women then took the case on appeal to the Judicial Committee of the Privy Council, at that time the court of last resort for the British Empire. Since their names were listed on the appeal documents in alphabetical order, [[Henrietta Muir Edwards]] was listed as the first appellant, leading to the case being entered as ''Edwards v Canada (Attorney General)''.<ref name=Edwards2>[https://www.bailii.org/uk/cases/UKPC/1929/1929_86(image1).pdf ''Reference to Meaning of Word "Persons" in Section 24 of British North America Act, 1867: Edwards v. A.G. of Canada'', [1930<nowiki>]</nowiki> AC 124, [1929<nowiki>]</nowiki> UKPC 86.]</ref> However, it is more generally known as the ''Persons Case'', from the subject matter.
+
+=== Ruling ===
+The landmark ruling was handed down on October 18, 1929.<ref>{{cite web|url=http://www.swc-cfc.gc.ca/commemoration/pd-jp/history-histoire-en.html|title=The History of the Persons Case|date=September 23, 2016|access-date=August 27, 2017|author=Status of Women Canada}}</ref> The [[Lord Chancellor]], [[John Sankey, 1st Viscount Sankey|Lord Sankey]], writing for the committee, found that the meaning of "qualified persons" could be read broadly to include women, reversing the decision of the Supreme Court. He wrote that "[t]he exclusion of women from all public offices is a relic of days more barbarous than ours", and that "to those who ask why the word ["person"] should include females, the obvious answer is why should it not".<ref name = Edwards2/> Finally, he wrote:
+
+{{Blockquote|text=[T]heir Lordships have come to the conclusion that the word "persons" in sec. 24 includes members both of the male and female sex and that, therefore,&nbsp;... women are eligible to be summoned to and become members of the Senate of Canada, and they will humbly advise His Majesty accordingly.<ref name = Edwards2/>}}
+
+=== Living tree doctrine ===
+To arrive at his conclusion, Sankey proposed an entirely new approach to constitutional interpretation that has since become one of the core principles of constitutional law in Canada.
+
+{{Blockquote|text=The British North America Act planted in Canada a living tree capable of growth and expansion within its natural limits. The object of the Act was to grant a Constitution to Canada. Like all written constitutions it has been subject to development through usage and convention&nbsp;...<br><br>
+Their Lordships do not conceive it to be the duty of this Board—it is certainly not their desire—to cut down the provisions of the Act by a narrow and technical construction, but rather to give it a large and liberal interpretation so that the Dominion to a great extent, but within certain fixed limits, may be mistress in her own house, as the provinces to a great extent, but within certain fixed limits, are mistresses in theirs.<ref name = Edwards2/>}}
+
+From this the approach became known as the ''[[living tree doctrine]]'' which requires "large and liberal" interpretation.<ref>{{Cite journal |last=Hutchinson |first=Allan C. |date=1992 |title=Living Tree? |url=https://digitalcommons.osgoode.yorku.ca/cgi/viewcontent.cgi?article=1721&context=scholarly_works |journal=Constitutional Forum |volume=3 |issue=4 |pages=97}}</ref>
+
+== Aftermath ==
+Although the ruling was of crucial importance for Canadian women in the long term, it did not result in [[Emily Murphy]] being appointed to the Senate. It was only a year later, on February 15, 1930, however, that the first woman, [[Cairine Wilson|Cairine Reay Wilson]], was appointed to the Senate.<ref>{{cite web |last1=Gwiazda |first1=Emily |title=Cairine Wilson {{!}} The Canadian Encyclopedia |url=https://www.thecanadianencyclopedia.ca/en/article/cairine-reay-wilson |website=[[The Canadian Encyclopedia]] |access-date=May 4, 2022}}</ref>
+
+Nearly 80 years later, in October 2009, the Senate voted to name the Five, posthumously, Canada's first "honorary senators".<ref>[https://www.cbc.ca/news/canada/calgary/famous-5-named-honorary-senators-1.811638 {{"'}}Famous 5' named honorary senators"], CBC News, October 10, 2009</ref>
+
+==Legacy==
+An annual award, the [[Governor General's Awards in Commemoration of the Persons Case]], was created in 1979 and continues to be presented to five individuals each year to honour distinguished achievements that advance the equality of girls and women in Canada.<ref name=AwardRecipients>{{cite web|url=http://www.swc-cfc.gc.ca/dates/gg/recip-laure-eng.html |author=Status of Women Canada |author-link=Status of Women Canada |title=The Governor General's Awards in Commemoration of the Persons Case > Past Recipients |publisher=Queen's Printer for Canada |date=31 December 2008 |access-date=23 April 2009 |url-status=dead |archive-url=https://web.archive.org/web/20100903031858/http://www.swc-cfc.gc.ca/dates/gg/recip-laure-eng.html |archive-date=3 September 2010 }}</ref>
+
+Emily Murphy's house where the tea party occurred is now on the campus of the [[University of Alberta]].<ref>[http://www.uofaweb.ualberta.ca/campusmap/index.cfm?campus=1&sector=6&feature=240 University of Alberta Campus Map:  Emily Murphy House.] {{webarchive|url=https://web.archive.org/web/20101113232727/http://www.uofaweb.ualberta.ca/campusmap/index.cfm?campus=1&sector=6&feature=240 |date=November 13, 2010 }}</ref>
+
+A statue of the Famous Five was unveiled in Calgary in 1999, and a replica placed on [[Parliament Hill]] in 2000. According to a publication of [[Library and Archives Canada]], "The work depicts them as they might have appeared on hearing the news of the Privy Council's ruling. Standing behind an empty chair, Emily Murphy, with a triumphant gesture beckons to visitors, men and women equally, to have a place at this celebration of a new day for women in Canada."<ref>{{cite web |url=http://www.collectionscanada.gc.ca/015/002/015002-2110-e.html |title=The Famous Five on Parliament Hill: A Second Unveiling |author=Bob Ferris |work=The Archivist |date=April 10, 2000 |access-date=December 10, 2013}}</ref><ref>{{cite web |url=http://www2.canada.com/montrealgazette/columnists/story.html?id=f2097aea-71ec-4b1d-915e-aa856bd8d9b5&p=2 |work=[[Montreal Gazette]] |author=Janet Bagnall |date=October 16, 2009 |access-date=December 10, 2013 |title=The Famous 5 finally make the Senate |quote='I can see the statue of the Famous Five when I look out my window in the Centre Block', said Tardif. |archive-url=https://web.archive.org/web/20131213090502/http://www2.canada.com/montrealgazette/columnists/story.html?id=f2097aea-71ec-4b1d-915e-aa856bd8d9b5&p=2 |archive-date=December 13, 2013 |url-status=dead |df=mdy-all }}</ref>
+
+The fifty-dollar note in the [[Canadian Journey Series]] (first issued in 2004) featured the statue of the Famous Five celebrating the result of the ''Persons Case''.<ref>{{cite web |url=http://www.cdnpapermoney.com/English/BoC/2004_050.htm |title=Journey $50 note |work=CdnPaperMoney.com |access-date=December 10, 2013 |archive-url=https://web.archive.org/web/20120505122153/http://www.cdnpapermoney.com/English/BoC/2004_050.htm |archive-date=May 5, 2012 |url-status=dead }}</ref><ref>{{cite web|url=http://www.bankofcanada.ca/en/banknotes/general/character/background_50_statue.html |title=$50 Note, Background Information |publisher=Bank of Canada |access-date=December 10, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20050120093417/http://www.bankofcanada.ca/en/banknotes/general/character/background_50_statue.html |archive-date=January 20, 2005 }}</ref>
+
+==See also==
+* [[List of Judicial Committee of the Privy Council cases]]
+* [[List of Judicial Committee of the Privy Council cases originating in Canada]]
+* [[List of Judicial Committee of the Privy Council cases originating in Canada, 1920–29]]
+* [[List of Supreme Court of Canada cases (Richards Court through Fauteux Court)]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Robert J. Sharpe & Patricia I. McMahon. ''The Persons Case: The Origins and Legacy of the Fight for Legal Personhood''. Toronto: Osgoode Society for Canadian Legal History, 2007.
+
+== External links ==
+*[http://epe.lac-bac.gc.ca/100/206/301/lac-bac/famous_five-ef/www.lac-bac.gc.ca/famous5/index-e.html Library and Archives Canada / Bibliothèque et Archives Canada: Famous Five]
+*[https://web.archive.org/web/20120126152409/http://www.thecanadianencyclopedia.com/articles/famous-5 The Canadian Encyclopedia, The Famous Five]
+*[https://news.google.com/newspapers?nid=SCE0ypLQHGcC&dat=19291018&printsec=frontpage Front Page of ''Saskatoon Star-Phoenix'', October 18, 1929] (from Google News)
+
+{{DEFAULTSORT:Edwards V. Canada (Attorney General)}}
+[[Category:Supreme Court of Canada cases]]
+[[Category:Canadian civil rights case law]]
+[[Category:Judicial Committee of the Privy Council cases on appeal from Canada]]
+[[Category:Canadian constitutional case law]]
+[[Category:1929 in Canadian case law]]
+[[Category:Women's rights in Canada]]
+[[Category:History of feminism]]
+[[Category:History of women in Canada]]
+[[Category:Senate reform (Canada)]]
+[[Category:Supreme Court of Canada reference question cases]]
+[[Category:Canadian federal government litigation]]

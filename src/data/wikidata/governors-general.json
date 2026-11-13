@@ -1,0 +1,384 @@
+{
+  "_meta": {
+    "source": "Wikidata: governors general of Canada since 1867",
+    "url": "https://query.wikidata.org/",
+    "licence": "CC0 1.0 (Wikidata)",
+    "query": "P39 = Q390776 (Governor General of Canada)",
+    "script": "scripts/grounding/wikidata.ts",
+    "fetched": "2026-11-13"
+  },
+  "governorsGeneral": [
+    {
+      "ordinal": 1,
+      "name": "Charles Monck, 4th Viscount Monck",
+      "qid": "Q333233",
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_Monck,_4th_Viscount_Monck",
+      "terms": [
+        {
+          "start": "1867-07-01",
+          "end": "1868-11-14"
+        }
+      ]
+    },
+    {
+      "ordinal": 2,
+      "name": "John Young, 1st Baron Lisgar",
+      "qid": "Q334392",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Young,_1st_Baron_Lisgar",
+      "terms": [
+        {
+          "start": "1868-11-14",
+          "end": "1872-06-25"
+        }
+      ]
+    },
+    {
+      "ordinal": 3,
+      "name": "Frederick Hamilton-Temple-Blackwood, 1st Marquess of Dufferin and Ava",
+      "qid": "Q336374",
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Hamilton-Temple-Blackwood,_1st_Marquess_of_Dufferin_and_Ava",
+      "terms": [
+        {
+          "start": "1872-06-25",
+          "end": "1878-11-25"
+        }
+      ]
+    },
+    {
+      "ordinal": 4,
+      "name": "John Campbell, 9th Duke of Argyll",
+      "qid": "Q334971",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Campbell,_9th_Duke_of_Argyll",
+      "terms": [
+        {
+          "start": "1878-11-25",
+          "end": "1883-10-23"
+        }
+      ]
+    },
+    {
+      "ordinal": 5,
+      "name": "Henry Petty-Fitzmaurice, 5th Marquess of Lansdowne",
+      "qid": "Q337386",
+      "wikipedia": "https://en.wikipedia.org/wiki/Henry_Petty-Fitzmaurice,_5th_Marquess_of_Lansdowne",
+      "terms": [
+        {
+          "start": "1883-10-23",
+          "end": "1888-06-11"
+        }
+      ]
+    },
+    {
+      "ordinal": 6,
+      "name": "Frederick Stanley, 16th Earl of Derby",
+      "qid": "Q222458",
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Stanley,_16th_Earl_of_Derby",
+      "terms": [
+        {
+          "start": "1888-06-11",
+          "end": "1893-09-18"
+        }
+      ]
+    },
+    {
+      "ordinal": 7,
+      "name": "John Hamilton-Gordon, 1st Marquess of Aberdeen and Temair",
+      "qid": "Q335981",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Hamilton-Gordon,_1st_Marquess_of_Aberdeen_and_Temair",
+      "terms": [
+        {
+          "start": "1893-09-18",
+          "end": "1898-11-12"
+        }
+      ]
+    },
+    {
+      "ordinal": 8,
+      "name": "Gilbert Elliot-Murray-Kynynmound, 4th Earl of Minto",
+      "qid": "Q336280",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gilbert_Elliot-Murray-Kynynmound,_4th_Earl_of_Minto",
+      "terms": [
+        {
+          "start": "1898-11-12",
+          "end": "1904-12-10"
+        }
+      ]
+    },
+    {
+      "ordinal": 9,
+      "name": "Albert Grey, 4th Earl Grey",
+      "qid": "Q333336",
+      "wikipedia": "https://en.wikipedia.org/wiki/Albert_Grey,_4th_Earl_Grey",
+      "terms": [
+        {
+          "start": "1904-12-10",
+          "end": "1911-10-13"
+        }
+      ]
+    },
+    {
+      "ordinal": 10,
+      "name": "Prince Arthur, Duke of Connaught and Strathearn",
+      "qid": "Q160558",
+      "wikipedia": "https://en.wikipedia.org/wiki/Prince_Arthur,_Duke_of_Connaught_and_Strathearn",
+      "terms": [
+        {
+          "start": "1911-10-13",
+          "end": "1916-11-11"
+        }
+      ]
+    },
+    {
+      "ordinal": 11,
+      "name": "Victor Cavendish, 9th Duke of Devonshire",
+      "qid": "Q2411883",
+      "wikipedia": "https://en.wikipedia.org/wiki/Victor_Cavendish,_9th_Duke_of_Devonshire",
+      "terms": [
+        {
+          "start": "1916-11-11",
+          "end": "1921-08-02"
+        }
+      ]
+    },
+    {
+      "ordinal": 12,
+      "name": "Julian Byng, 1st Viscount Byng of Vimy",
+      "qid": "Q334974",
+      "wikipedia": "https://en.wikipedia.org/wiki/Julian_Byng,_1st_Viscount_Byng_of_Vimy",
+      "terms": [
+        {
+          "start": "1921-08-02",
+          "end": "1926-08-05"
+        }
+      ]
+    },
+    {
+      "ordinal": 13,
+      "name": "Freeman Freeman-Thomas, 1st Marquess of Willingdon",
+      "qid": "Q603107",
+      "wikipedia": "https://en.wikipedia.org/wiki/Freeman_Freeman-Thomas,_1st_Marquess_of_Willingdon",
+      "terms": [
+        {
+          "start": "1926-08-05",
+          "end": "1931-04-04"
+        }
+      ]
+    },
+    {
+      "ordinal": 14,
+      "name": "Vere Ponsonby, 9th Earl of Bessborough",
+      "qid": "Q333245",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vere_Ponsonby,_9th_Earl_of_Bessborough",
+      "terms": [
+        {
+          "start": "1931-04-04",
+          "end": "1935-11-02"
+        }
+      ]
+    },
+    {
+      "ordinal": 15,
+      "name": "John Buchan",
+      "qid": "Q333004",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Buchan",
+      "terms": [
+        {
+          "start": "1935-11-02",
+          "end": "1940-02-11"
+        }
+      ]
+    },
+    {
+      "ordinal": 16,
+      "name": "Alexander Cambridge, 1st Earl of Athlone",
+      "qid": "Q335091",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Cambridge,_1st_Earl_of_Athlone",
+      "terms": [
+        {
+          "start": "1940-06-21",
+          "end": "1946-04-12"
+        }
+      ]
+    },
+    {
+      "ordinal": 17,
+      "name": "Harold Alexander, 1st Earl Alexander of Tunis",
+      "qid": "Q39168",
+      "wikipedia": "https://en.wikipedia.org/wiki/Harold_Alexander,_1st_Earl_Alexander_of_Tunis",
+      "terms": [
+        {
+          "start": "1946-04-12",
+          "end": "1952-02-28"
+        }
+      ]
+    },
+    {
+      "ordinal": 18,
+      "name": "Vincent Massey",
+      "qid": "Q966669",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_Massey",
+      "terms": [
+        {
+          "start": "1952-02-28",
+          "end": "1959-09-15"
+        }
+      ]
+    },
+    {
+      "ordinal": 19,
+      "name": "Georges Vanier",
+      "qid": "Q974089",
+      "wikipedia": "https://en.wikipedia.org/wiki/Georges_Vanier",
+      "terms": [
+        {
+          "start": "1959-09-15",
+          "end": "1967-03-05"
+        }
+      ]
+    },
+    {
+      "ordinal": 20,
+      "name": "Roland Michener",
+      "qid": "Q525733",
+      "wikipedia": "https://en.wikipedia.org/wiki/Roland_Michener",
+      "terms": [
+        {
+          "start": "1967-04-17",
+          "end": "1974-01-14"
+        }
+      ]
+    },
+    {
+      "ordinal": 21,
+      "name": "Jules Léger",
+      "qid": "Q1208406",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jules_L%C3%A9ger",
+      "terms": [
+        {
+          "start": "1974-01-14",
+          "end": "1979-01-22"
+        }
+      ]
+    },
+    {
+      "ordinal": 22,
+      "name": "Edward Schreyer",
+      "qid": "Q1207881",
+      "wikipedia": "https://en.wikipedia.org/wiki/Edward_Schreyer",
+      "terms": [
+        {
+          "start": "1979-01-22",
+          "end": "1984-05-14"
+        }
+      ]
+    },
+    {
+      "ordinal": 23,
+      "name": "Jeanne Sauvé",
+      "qid": "Q433191",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jeanne_Sauv%C3%A9",
+      "terms": [
+        {
+          "start": "1984-05-14",
+          "end": "1990-01-28"
+        }
+      ]
+    },
+    {
+      "ordinal": 24,
+      "name": "Ray Hnatyshyn",
+      "qid": "Q509426",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ray_Hnatyshyn",
+      "terms": [
+        {
+          "start": "1990-01-29",
+          "end": "1995-02-08"
+        }
+      ]
+    },
+    {
+      "ordinal": 25,
+      "name": "Roméo LeBlanc",
+      "qid": "Q927934",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rom%C3%A9o_LeBlanc",
+      "terms": [
+        {
+          "start": "1995-02-08",
+          "end": "1999-10-07"
+        }
+      ]
+    },
+    {
+      "ordinal": 26,
+      "name": "Adrienne Clarkson",
+      "qid": "Q236482",
+      "wikipedia": "https://en.wikipedia.org/wiki/Adrienne_Clarkson",
+      "terms": [
+        {
+          "start": "1999-10-07",
+          "end": "2005-09-27"
+        }
+      ]
+    },
+    {
+      "ordinal": 27,
+      "name": "Michaëlle Jean",
+      "qid": "Q128933",
+      "wikipedia": "https://en.wikipedia.org/wiki/Micha%C3%ABlle_Jean",
+      "terms": [
+        {
+          "start": "2005-09-27",
+          "end": "2010-10-01"
+        }
+      ]
+    },
+    {
+      "ordinal": 28,
+      "name": "David Johnston",
+      "qid": "Q41564",
+      "wikipedia": "https://en.wikipedia.org/wiki/David_Johnston_(governor_general)",
+      "terms": [
+        {
+          "start": "2010-10-01",
+          "end": "2017-10-02"
+        }
+      ]
+    },
+    {
+      "ordinal": 29,
+      "name": "Julie Payette",
+      "qid": "Q240769",
+      "wikipedia": "https://en.wikipedia.org/wiki/Julie_Payette",
+      "terms": [
+        {
+          "start": "2017-10-02",
+          "end": "2021-01-21"
+        }
+      ]
+    },
+    {
+      "ordinal": 30,
+      "name": "Mary Simon",
+      "qid": "Q6780723",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary_Simon",
+      "terms": [
+        {
+          "start": "2021-07-26",
+          "end": "2026-06-07"
+        }
+      ]
+    },
+    {
+      "ordinal": 31,
+      "name": "Louise Arbour",
+      "qid": "Q239235",
+      "wikipedia": "https://en.wikipedia.org/wiki/Louise_Arbour",
+      "terms": [
+        {
+          "start": "2026-06-08",
+          "end": null
+        }
+      ]
+    }
+  ]
+}

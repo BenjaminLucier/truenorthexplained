@@ -1,0 +1,177 @@
+{{Short description|Primary constitutional document of Canada}}
+{{Italic title}}
+{{more citations needed|date=April 2018}}
+{{Use Canadian English|date=December 2020}}
+{{Use mdy dates|date=April 2021}}
+
+{{Infobox legislation
+|short_title        = ''Constitution Act, 1982''<br>''Loi constitutionnelle de 1982''
+|legislature        = Part of the [[Constitution of Canada]]
+|imagesize          = 
+|image_upright      = 
+|imagealt           = 
+|long_title         = 
+|citation           = {{bulleted list | 1982, c. 11 (U.K.), Schedule B (original citation) | RSC 1985, App. II, No. 44 (alternative citation)}}
+|territorial_extent = [[Canada]]
+|considered_by      = {{bulleted list | [[Senate of Canada]] | [[House of Commons of Canada]] }}
+|enacted_by         = [[Parliament of the United Kingdom]]
+|date_enacted       = March 29, 1982
+|assented_by        = [[Elizabeth II]]
+|royal_assent       = March 29, 1982
+|date_commenced     = April 17, 1982
+|original_text      = https://www.legislation.gov.uk/ukpga/1982/11
+|revised_text       = https://laws-lois.justice.gc.ca/eng/Const/page-12.html#h-41
+|status             = current
+}}
+
+{{Constitutional history of Canada}}
+
+The '''''Constitution Act, 1982''''' ({{langx|fr|'''Loi constitutionnelle de 1982'''}}), is a part of the [[Constitution of Canada]].<ref group="lower-alpha">Formally enacted as Schedule B of the ''[[Canada Act 1982]]'', enacted by the [[Parliament of the United Kingdom]]. Section 60 of the ''Constitution Act, 1982'' states that the Act may be called the "''Constitution Act, 1982''", and that the ''Constitution Acts'' can be collectively called the "''Constitution Acts, 1867 to 1982''".</ref> The Act was introduced as part of Canada's process of [[Patriation|patriating]] the constitution, introducing several amendments to the ''British North America Act, 1867'', including renaming it the ''[[Constitution Act, 1867]]''.<ref group="lower-alpha">Section 1 of the ''British North America Act, 1867'' was amended to be re-named as the ''[[Constitution Act, 1867]].'' Section 20 of the ''Constitution Act, 1867'' was repealed and replaced by [[section 5 of the Canadian Charter of Rights and Freedoms]]; and sections 91(1) and 92(1) were repealed: ''Constitution Act, 1982'', s. 53 and Schedule, Item 1. A new section, s. 92A, was also added: ''Constitution Act, 1982'', ss. 50 and 51.</ref> In addition to patriating the Constitution, the ''Constitution Act, 1982'', enacted the ''[[Canadian Charter of Rights and Freedoms]]''; guaranteed rights of the Aboriginal peoples of Canada; entrenched provincial jurisdiction over natural resources; provided for future constitutional conferences; and set out the procedures for amending the Constitution in the future.
+
+This process was necessary because, after the [[Statute of Westminster 1931|''Statute of Westminster, 1931'']], Canada allowed the British Parliament to retain the power to amend Canada's constitution, until Canadian governments could agree on an all-in-Canada amending formula. In 1981, following substantial agreement on a new amending formula, the two houses of the [[Parliament of Canada]] requested that the [[Parliament of the United Kingdom]] give up its power to amend the Constitution of Canada. The enactment of the ''[[Canada Act 1982]]'' by the British Parliament in March 1982 confirmed the [[Patriation]] of the Constitution and transferred to Canada the power of amending its own Constitution.<ref name="LAC-proclamation-constitution-act-1982">{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/politics-government/proclamation-constitution-act-1982/Pages/proclamation-constitution-act-1982.aspx|title=Proclamation of the Constitution Act, 1982|author=Library and Archives Canada|date=2017|website=Library and Archives Canada|publisher=Government of Canada|access-date=February 13, 2017}}</ref>
+
+On April 17, 1982, Queen [[Elizabeth II]] and Prime Minister [[Pierre Trudeau]], as well as the [[Minister of Justice (Canada)|Minister of Justice]], [[Jean Chrétien]], and [[André Ouellet]], the [[Registrar General of Canada|Registrar General]], signed the Proclamation which brought the ''Constitution Act, 1982'' into force.<ref>{{cite news |author=<!--Staff writer(s); no by-line.-->  |date=March 17, 2009 |title=A statute worth 75 cheers |url=https://www.theglobeandmail.com/opinion/a-statute-worth-75-cheers/article1329730/ |newspaper=Globe and Mail |location=Toronto |access-date=February 10, 2017}}</ref><ref name="CBC-Christa-Couture-1.3883315">{{cite web|url=http://www.cbc.ca/2017/canada-is-celebrating-150-years-of-what-exactly-1.3883315|title=Canada is celebrating 150 years of… what, exactly?|last=Couture|first=Christa|author-link=Christa Couture|date=January 1, 2017|website=CBC News|publisher=CBC/Radio-Canada|access-date=February 10, 2017}}</ref> The proclamation confirmed that Canada had formally assumed authority over its constitution, the final step to full sovereignty.<ref group="lower-alpha">"The signing of the proclamation on April 17, 1982, marked the end of efforts by many successive governments. The new Constitution was accompanied by The ''Canadian Charter of Rights and Freedoms'', and an amending formula that would no longer require an appeal to the British Parliament." (Library and Archives Canada 2017).</ref><ref group="lower-alpha">"The Constitution Act itself cleaned up a bit of unfinished business from the Statute of Westminster in 1931, in which Britain granted each of the Dominions full legal autonomy if they chose to accept it. All but one Dominion — that would be us, Canada — chose to accept every resolution. Our leaders couldn't decide on how to amend the Constitution, so that power stayed with Britain until 1982." (Couture 2017).</ref><ref name="LAC-proclamation-constitution-act-1982"/><ref name="CBC-Christa-Couture-1.3883315" /><ref>{{cite news |author=<!--Staff writer(s); no by-line.-->  |date=March 17, 2009 |title=A statute worth 75 cheers |url=https://www.theglobeandmail.com/opinion/a-statute-worth-75-cheers/article1329730/ |newspaper=Globe and Mail |location=Toronto |access-date=February 10, 2017}}</ref>
+
+{{as of|2024}}, the [[Government of Quebec]] has never formally approved of the enactment of the act,{{Citation needed|date=March 2024}} though the Supreme Court concluded that Quebec's formal consent was never necessary<ref>''[[Quebec Veto Reference|Reference re Amendment to the Canadian Constitution]]'', [1982] 2 SCR 793. (aka Quebec Veto Reference).
+
+See also ''[[Reference re Resolution to Amend the Constitution]]'', [1981] 1 SCR 753 (aka Patriation Reference).</ref> and 15 years after ratification the government of Quebec "passed a resolution authorizing an amendment."<ref>{{cite web|url=https://openparliament.ca/debates/1997/11/17/stephane-dion-1/only/|title=Stéphane Dion on Amendment To The Constitution Of Canada (Quebec)|last=Dion|first=Stéphane|date=1997|website=Open Parliament}}</ref> Nonetheless, the lack of formal approval has remained a persistent political issue in Quebec.{{Citation needed|date=March 2024}} The [[Meech Lake Accord|Meech Lake]] and [[Charlottetown Accord]]s were designed to secure approval from Quebec, but both efforts failed to do so.
+
+== Part I:  ''Canadian Charter of Rights and Freedoms'' ==
+{{main|Canadian Charter of Rights and Freedoms}}
+
+The ''Canadian Charter of Rights and Freedoms'' is the part I of the ''Constitution Act, 1982''. The Charter is a [[bill of rights]] to protect certain political rights, legal rights and human rights of people in Canada from the policies and actions of all levels of government. An additional goal of the Charter is to unify Canadians around a set of principles that embody those rights.<ref name="saunders">{{cite web|url=http://www.cbc.ca/news/features/constitution/|title=The Charter at 20|last=Saunders|first=Philip|date=April 2002|website=CBC News|publisher=CBC/Radio-Canada|url-status=live|archive-url=https://web.archive.org/web/20060307194214/http://www.cbc.ca/news/features/constitution/|archive-date=March 7, 2006|access-date=March 17, 2006}}</ref><ref>Trudeau, Pierre Elliott. 1993. ''Memoirs'', Toronto: [[McClelland & Stewart]]. pp. 322–23.</ref> The Charter was preceded by the ''[[Canadian Bill of Rights]]'', which was created by the government of [[John Diefenbaker]] in 1960. However, the ''Bill of Rights'' was only a federal [[statute]] and was limited in its effectiveness because it is not directly applicable to provincial laws. This motivated some within government to establish unambiguously constitutional-level bill of rights for all Canadians.  The movement for [[human right]]s and freedoms that emerged after [[World War II]] also wanted to entrench the principles enunciated in the [[Universal Declaration of Human Rights]].<ref>Hogg, Peter W. 2003. ''Constitutional Law of Canada'' (student ed.). Scarborough, ON: Thomson Canada Ltd. p. 689.</ref> The Charter was drafted by the federal government with consultations with the provincial governments in the years leading up to the passage of the ''Constitution Act, 1982''.
+
+One of the most notable effects of the adoption of the Charter was to greatly expand the range of [[judicial review]], because the Charter is more explicit with respect to the guarantee of rights and the role of judges in enforcing them than was the ''Canadian Bill of Rights''.  The [[Court system of Canada|courts]], when confronted with violations of Charter rights, have struck down unconstitutional statutes or parts of statutes, as they did when Canadian case law was primarily concerned with resolving issues of [[Canadian federalism|federalism]].  However, section 24 of the Charter granted new powers to the courts to enforce more creative remedies and to exclude improperly obtained evidence in criminal trials. These powers are greater than what was typical under the [[common law]] and under the principle of [[Parliamentary supremacy]], which Canada had inherited from the United Kingdom.<ref>Weinrib, Lorraine Eisenstat. 1998. "Trudeau and the Canadian Charter of Rights and Freedoms: A Question of Constitutional Maturation." In ''Trudeau's Shadow: The Life and Legacy of Pierre Elliott Trudeau'', edited by [[Andrew Cohen (journalist)|A. Cohen]] and [[Jack Granatstein|J. L. Granatstein]]. Toronto: [[Vintage Canada]]. Pp. 271–2.</ref>
+
+Section 59 limits the application of [[Section Twenty-three of the Canadian Charter of Rights and Freedoms|section 23]] of the Charter in Quebec. Paragraph 23(1)(a) of the Charter, which guarantees the minority language education rights of Canadian citizens "whose first language learned and still understood is that of the English or French minority linguistic minority population of the province in which they reside" will not be in force in Quebec until the Quebec government or legislature chooses to ratify it.<ref group="lower-alpha">"The Government [of Quebec] shall not authorize a proclamation under [subsection 59(1)] of the Constitution Act, 1982 without obtaining the prior consent of the National Assembly [of Quebec]." (''An Act Respecting the Constitution Act, 1982'')</ref><ref>{{Cite canlaw|type=|abbr=CQLR|year=1982|short title=An Act Respecting the Constitution Act, 1982|chapter=L-4.2|section=4|link=http://legisquebec.gouv.qc.ca/en/ShowDoc/cs/L-4.2}}.</ref>
+
+== Part II: Rights of the aboriginal peoples of Canada ==
+
+{{main|Section 35 of the Constitution Act, 1982}}
+Section 35 of the ''Constitution Act, 1982''   "recognizes and affirms" the "existing" [[Indigenous peoples in Canada|aboriginal]] and treaty rights in Canada. These aboriginal rights protect the activities, practice, or traditions that are integral to the distinct cultures of the aboriginal peoples. The treaty rights protect and enforce agreements between the Crown and aboriginal peoples. Section 35 also provides protection of aboriginal title which protects the use of land for traditional practices.
+
+Subsection 35(2) provides that aboriginal and treaty rights extend to [[First Nations in Canada|Indian]], [[Inuit]], and [[Métis]] peoples and subsection 35(4), which was added in 1983, ensures that they "are guaranteed equally to any male and female persons".
+
+Subsection 35(3), which was also added in 1983, clarifies that "treaty rights" include "rights that now exist by way of land claims agreements or may be so acquired". As a result, by entering into land claims agreements, the government of Canada and members of an aboriginal people can establish new treaty rights, which are constitutionally recognized and affirmed.
+
+There are other sections of the ''Constitution Act, 1982'' that address aboriginal rights. [[Section Twenty-five of the Canadian Charter of Rights and Freedoms|Section 25 of the Charter]] provides that the guarantee of rights and freedoms in the Charter should not be understood to "abrogate or derogate from any aboriginal, treaty or other rights or freedoms that pertain to the aboriginal peoples of Canada, including (a) any rights or freedoms that have been recognized by the [[Royal Proclamation of 1763|Royal Proclamation of October 7, 1763]]; and (b) any rights or freedoms that now exist by way of land claims agreements or may be so acquired."
+
+== Part III: Equalization and regional disparities==
+
+Section 36 enshrines in the Constitution a value of [[equal opportunity]] for the Canadian people, [[economic development]] to support that equality, and government services available for public consumption.  Subsection 2 goes further in recognizing a "principle" that the federal government should ensure [[equalization payments]].
+
+Writing in 1982, Professor [[Peter Hogg]] expressed scepticism as to whether the courts could interpret and enforce this provision, noting its "political and moral, rather than legal" character.<ref>Hogg, Peter W. 1982. ''Canada Act 1982 Annotated.'' Toronto:  The Carswell Company Ltd.</ref>{{Page needed|date=March 2024}} Other scholars{{who|date=April 2018}} have noted section 36 is too vague.
+
+Since the courts would not be of much use in interpreting the section, the section was nearly amended in 1992 with the [[Charlottetown Accord]] to make it enforceable.  The Accord never came into effect.<ref>{{cite web|url=http://www.mapleleafweb.com/old/features/economy/equalization/payments-in-detail.html|title=Equalization Payments in Detail|last=Parkinson|first=Rhonda Lauret|date=2007|website=Maple Leaf Web|publisher=University of Lethbridge|url-status=dead|archive-url=https://web.archive.org/web/20071004221528/http://www.mapleleafweb.com/old/features/economy/equalization/payments-in-detail.html|archive-date=October 4, 2007|access-date=December 11, 2007}}</ref>
+
+== Parts IV and IV.1:  Constitutional conferences ==
+
+These two parts provided for constitutional conferences within certain time limits.  Once the conferences were held, the two parts were repealed.
+
+== Part V: Procedure for Amending Constitution of Canada ==
+{{See also|Amendments to the Constitution of Canada}}
+
+Subsection 52(3) of the ''Constitution Act, 1982'' requires constitutional amendments to be made in accordance with the rules set out in the Constitution itself. Subsection 52(3) entrenches constitutional supremacy and prevents Parliament and the provincial legislatures from making most constitutional amendments using simple legislation.
+
+The rules for amending Canada's constitution are mostly laid out in Part V of the ''Constitution Act, 1982''.
+
+There are five different amendment procedures, each applicable to different types of amendments. These five formulas are:
+# The general procedure (the "7/50" procedure) – section 38.  The amendment must be passed by the House of Commons, the Senate, and at least two-thirds of the provincial legislative assemblies representing at least 50% of the total population of the provinces. This is the default procedure and it covers any amendment procedure not covered more specifically in sections 41, 43, 44 or 45. The general formula '''must''' be used for any of the six situations identified in section 42.
+# The unanimity Procedure – section 41. The amendment must be passed by the House of Commons, Senate, and ''all'' provincial legislative assemblies.
+# The special arrangements procedure (the "bilateral" or "some-but-not-all-provinces" procedure) – section 43. The amendment must be passed by the House of Commons, the Senate, and the legislative assemblies of those provinces that are affected by the amendment.
+# Federal Parliament Alone ("federal unilateral" procedure) – section 44. The amendment must only be passed by Parliament under its ordinary legislative procedure.
+# Provincial Legislature Alone ("provincial unilateral" procedure) – section 45. The amendment must only be passed by the provincial legislature under its ordinary legislative procedure.
+
+Neither aboriginal peoples' or the territories' agreement is required to make a constitutional amendment, even if it affects their interests. Section 35.1 commits the governments of Canada and the provinces "to the principle that, before any amendment is made [to subsection 91(24) of the ''Constitution Act, 1867'', section 25 of the Charter or sections 35 or 35.1 of the Constitution Act, 1982]" that the Prime Minister will convene a conference of first ministers (i.e. provincial premiers) to discuss the amendment and invite "representatives of the aboriginal peoples of Canada" to discuss the amendment. Section 35.1 was added to Part II of the ''Constitution Act, 1982'' in 1983. Section 35.1 was invoked in the negotiations that led to the [[Charlottetown Accord]], which would have greatly expanded aboriginal rights and recognized a right to self-government.
+
+Various other sections of Part V lay out such things as compensation for opting out, when and how a province may opt out of a constitutional amendment, and time limits for achieving a constitutional amendment.
+
+== Part VI: Amendment to the ''Constitution Act, 1867'' ==
+{{main|Section 92A of the Constitution Act, 1867}}
+
+The act also amended the division of powers by adding the natural resources amendment to the ''Constitution Act, 1867''. The new provisions, [[Section 92A of the Constitution Act, 1867|section 92A and the Sixth Schedule]], gave the provinces exclusive jurisdiction to regulate the development of non-renewable natural resources and electrical generation. These amendments were set out in sections 50 and 51 of the 1982 act.
+
+== Part VII: General ==
+=== Primacy of Constitution of Canada ===
+
+Subsection 52(1) of the ''Constitution Act, 1982'' provides that the Constitution of Canada is the "supreme law of Canada", and that "any law inconsistent with the provisions of the Constitution of Canada is, to the extent of the inconsistency, of no force or effect."<ref>''Constitution Act, 1982'', s. 52.</ref> A law that is inconsistent with the Constitution is theoretically of no force or effect from the moment it is made.<ref>{{Cite Canadian Court|litigants=Nova Scotia (Workers' Compensation Board) v Martin; Nova Scotia (Workers' Compensation Board) v Laseur|decisionyear=2003|reporter=SCC|page=54|url=https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/2088/index.do|reporteryear=2003|vol=2|court=SCC}}. para 28.</ref> In practical terms, however, such a law is not seen to be invalid until a court declares it to be inconsistent with the provisions of the Constitution. The executive cannot enforce a law that a court has declared to be without force or effect.{{citation needed|date=April 2018}} But only Parliament or a provincial legislature can repeal such a law.
+
+Before the 1982 Act came into effect, the ''British North America Act, 1867'' (now known as the ''Constitution Act, 1867'') had been the supreme law of Canada.  The supremacy of the 1867 Act had originally been established by virtue of s. 2 of the ''[[Colonial Laws Validity Act 1865|Colonial Laws Validity Act]]'',<ref>''[[Colonial Laws Validity Act 1865]]'', (U.K.) 28 & 29 Vict., c. 63.</ref> a British Imperial statute declaring the invalidity of any colonial law that violated an Imperial statute extending to a colony. Since the ''British North America Act'' was an Imperial statute extending to Canada, any Canadian law violating the ''BNA Act'' was inoperative. Although there was no express provision giving the courts the power to decide that a Canadian law violated the ''BNA Act'' and was therefore inoperative, this power was implicit in s. 2 of the ''Colonial Laws Validity Act'', which established the priority of statutes to be applied by the courts.{{citation needed|date=April 2018}}
+
+In 1931, the [[Parliament of the United Kingdom|British Parliament]] enacted the [[Statute of Westminster 1931|''Statute of Westminster, 1931'']].  This Act provided that the ''Colonial Laws Validity Act'' no longer applied to the [[Dominion|British Dominions]], including Canada.<ref>[[Statute of Westminster 1931|''Statute of Westminster, 1931'']], (U.K.) 22 & 23 Geo. V, c. 4, s. 2.</ref> However, it provided that Canada could not amend the ''British North America Act'',<ref>''Statute of Westminster, 1931'', s. 7.</ref> which remained subject to amendment only by the British Parliament.  This provision maintained the supremacy of the ''British North America Act'' in Canadian law until the enactment of the ''Constitution Act, 1982''.
+
+=== Definition of the Constitution ===
+Section 52(2) of the ''Constitution Act, 1982'' defines the "Constitution of Canada." The Constitution of Canada is said to include:
+::(a) the ''Canada Act 1982'' (which includes the ''Constitution Act, 1982'' in Schedule B),
+::(b) 30 Acts and Orders contained in the Schedule to the ''Constitution Act, 1982'' (including, most significantly, the ''Constitution Act, 1867''), and
+::(c) any amendments which may have been made to any of the instruments in the first two categories.
+
+Section 52(2), in addition to containing many Imperial Statutes, contains eight Canadian statutes, three of which created the provinces of Alberta, Manitoba and Saskatchewan, and five of which were amendments to the ''Constitution Act, 1867''.
+
+The Canadian courts have reserved the right to add and entrench principles and conventions into the Constitution unilaterally.  Although a court's ability to recognize human rights not explicitly stated in a constitution is not particularly unusual, the Canadian situation is unique in that this ability extends to procedural issues not related to human rights.{{citation needed|date=April 2018}}
+
+In particular, in ''[[New Brunswick Broadcasting Co v Nova Scotia (Speaker of the House of Assembly)]]'', the [[Supreme Court of Canada]] said that s.&nbsp;52(2) was not an exhaustive listing of all that comprised the Constitution. The Court reserved the right to add unwritten principles to the Constitution, thereby entrenching them and granting them constitutional supremacy (in this case, they added parliamentary privilege to the Constitution). The Court did note, however, that the list of written documents was static and could not be modified except for through the amending formulas.<ref>{{cite CanLII|litigants=New Brunswick Broadcasting Co. v. Nova Scotia (Speaker of the House of Assembly)|link=|year=1993|court=scc|num=153|format=canlii|pinpoint=|parallelcite=[1993] 1 SCR 319|date=January 21, 1993|juris=}}.</ref>
+
+=== English and French versions ===
+Section 56 of the Act provides that the parts of the Constitution that were enacted in English and French are [[Equal authenticity rule|equally authoritative]], and section 57 adds that the English and French versions of the ''Constitution Act, 1982'' itself are equal.  Section 57 is akin [[Section Eighteen of the Canadian Charter of Rights and Freedoms|section 18]] of the Charter, which provides that English and French versions of federal and New Brunswick statutes are equal.<ref name="Bastarache">Bastarache, Michel, Andre Braen, Emmanuel Didier, and Pierre Foucher. 1987. ''Language Rights in Canada'', edited by [[Michel Bastarache|M. Bastarache]], translated by Translation Devinat et Associés. Montréal:  [[Éditions Yvon Blais|Editions Yvon Blais]]. p. 103.</ref> The Supreme Court has interpreted [[Constitution Act, 1867#Language rights|section 133 of the ''Constitution Act, 1867'']] and section 23 of the ''[[Manitoba Act]], 1870'' to mean that the English and French versions of federal, Quebec and Manitoba statutes are equal.<ref>''[[Quebec (AG) v Blaikie (No 1)|Quebec (Attorney General) v Blaikie]]'', [1979] 2 SCR 1016.</ref><ref>''[[Reference Re Manitoba Language Rights]]'', [1985] 1 SCR 721.</ref>
+
+Despite sections 56 and 57, significant portions of the Constitution of Canada were only enacted in English and even if there exist unofficial French translations, their English versions alone have force of law. To address this problem, section 55 requires that the federal Minister of Justice prepare "a French version of the…Constitution of Canada as expeditiously as possible." The Minister of Justice established a French Constitution Drafting Committee in 1984, which prepared French versions of the Constitution, and presented them to the Minister in 1990.{{citation needed|date=April 2018}}
+
+Section 55 also requires that "when any portion thereof sufficient to warrant action being taken has been so prepared, it shall but put forward for enactment by proclamation issued by the Governor General under the Great Seal of Canada pursuant to the procedure then applicable to an amendment of the same provisions of the Constitution of Canada." No action has been taken to put forward the French version for enactment. The reference to a proclamation by the Governor-General implies that some combination of the general, unanimity and special arrangements procedures would be required to enact the French version.{{citation needed|date=April 2018}} Although the intention was presumably that the government of Canada would do so by introducing an amendment resolution in the House of Commons,{{citation needed|date=April 2018}} a Senator or a provincial government could presumably do so since, under section 46, such amendments "may be initiated either by the Senate or the House of Commons or by the legislative assembly of a province".
+
+== Australia and New Zealand ==
+
+The patriation of the Canadian constitution set an example for similar actions by Australia and New Zealand. In 1985 and 1986, the Australian and British parliaments passed the [[Australia Act 1986]]. The Australian High Court subsequently recognized that the Act established Australia as an independent country, making Britain a foreign power. New Zealand experienced a [[1984 New Zealand constitutional crisis|constitutional crisis in 1984]], which led to a desire for constitutional reform. The New Zealand Parliament patriated its own constitution in the [[Constitution Act 1986]]. Unlike Canada, New Zealand already had the right to amend its own constitution, so there was no corresponding British legislation.
+
+==See also==
+{{Portal|History|Canada|Politics}}
+* [[Canadian sovereignty]]
+
+==References==
+
+===Notes===
+{{Reflist|group=lower-alpha}}
+
+===Citations===
+{{reflist}}
+
+== Further reading ==
+*[[Adam Dodek|Dodek, Adam M]]. 2018. ''The Charter Debates: The Special Joint Committee on the Constitution 1980–81 and the Making of Canadian Charter of Rights and Freedoms.'' Toronto: [[University of Toronto Press]].
+* Harder, Lois, and Steve Patten, eds. 2016. ''Patriation and its Consequences.'' Vancouver: [[University of British Columbia Press]].
+*[[Andrew Petter|Petter, Andrew]]. 2010. ''The Politics of the Charter: The Illusive Promise of Constitutional Rights.'' Toronto: University of Toronto Press.
+* Heard, Andrew. 2014. ''Canadian Constitutional Conventions: The Marriage of Law and Politics'' (2nd ed). Oxford: [[Oxford University Press]].
+* Hiebert, Janet. 2002. ''Charter Conflicts: What is Parliament's Role?'' Kingston: [[McGill-Queen's University Press]].
+*[[Peter Hogg|Hogg, Peter W]]. 2007. ''Constitutional Law of Canada'' (5th ed.). Toronto: Carswell.
+* Hurley, James Ross. 1996. ''Amending Canada's Constitution: History, Processes, Problems and Prospects.'' Ottawa: [[Minister of Supply and Services]].
+* Emmett Macfarlane, ed. 2016. ''Constitutional Amendment in Canada.'' Toronto: University of Toronto Press.
+* Macklem, Patrick. 2001. ''Indigenous Difference and the Constitution of Canada.'' Toronto: University of Toronto Press.
+*[[Christopher Manfredi|Manfredi, Christopher P]]. 2000. ''Judicial Power and the Charter: Canada and the Paradox of Liberal Constitutionalism'' (2nd ed.). Oxford: Oxford University Press.
+*[[Peter McCormick|McCormick, Peter J.]] 2014. ''The End of the Charter Revolution: Looking Back from the New Normal.'' Toronto: University of Toronto Press.
+*[[Patrick J. Monahan|Monahan, Patrick]], Byron Shaw, and Padraic Ryan. 2017. ''Constitutional Law'' (5th ed.) Toronto: Irwin Law.
+*[[Benoît Pelletier|Pelletier, Benoît]]. 1996. ''La modification constitutionnelle au Canada.'' Toronto: Carswell.
+* Régimbald, Guy, and Dwight Newman. 2017. ''The Law of the Canadian Constitution.'' (2nd ed.). Toronto: [[LexisNexis]].
+*[[Peter H. Russell|Russell, Peter H.]] 2004. [https://web.archive.org/web/20170531055159/http://www.utppublishing.com/Constitutional-Odyssey-Can-Canadians-Become-a-Sovereign-People.html ''Canada's Constitutional Odyssey''] (3rd ed.) Toronto: University of Toronto Press.
+*[[Kent Roach|Roach, Kent]]. 2016. ''The Supreme Court on Trial: Judicial Activism or Democratic Dialogue'' (2nd ed.) Toronto: Irwin Law.
+*[[Robert Sharpe (judge)|Sharpe, Robert J.]], and Kent Roach. 2017. ''The Charter of Rights and Freedoms'' (6th ed.). Toronto: Irwin Law.
+*[[Barry Strayer|Strayer, Barry L.]] 2013. ''Canada's Constitutional Revolution.'' Edmonton: [[The University of Alberta Press|University of Alberta Press]].
+* Webber, Jeremy. 2015. ''The Constitution of Canada: A Contextual Analysis.'' London: [[Hart Publishing]].
+
+==External links==
+{{Wikisource|Constitution Act, 1982}}
+*[http://laws.justice.gc.ca/eng/Const/Const_index.html Full text of ''The Constitution Act, 1982''] at Department of Justice Canada
+*[https://web.archive.org/web/20070504011812/http://www.collectionscanada.ca/rights-and-freedoms/ Building a Just Society: A Retrospective of Canadian Rights and Freedoms] at Library and Archives Canada
+*[http://www.thecanadianencyclopedia.ca/en/article/constitution-act-1982/ "Constitution Act, 1982" from the Canadian Encyclopedia]
+
+{{Constitution of Canada|patriation|state=collapsed}}
+{{Pierre Trudeau}}
+{{Jean Chrétien}}
+
+[[Category:1982 in Canadian law]]
+[[Category:1982 in British law]]
+[[Category:April 1982 in Canada]]
+[[Category:1982 in Canadian politics]]
+[[Category:Elizabeth II]]
+[[Category:Second premiership of Pierre Trudeau]]
+[[Category:Jean Chrétien]]
+[[Category:Constitution Act, 1982| ]]
+[[Category:Canadian Constitutional Enactments]]

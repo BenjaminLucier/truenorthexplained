@@ -1,0 +1,238 @@
+{{Short description|Central bank of Canada}}
+{{about|the central bank of Canada|banks in Canada|List of banks and credit unions in Canada}}
+{{distinguish|Royal Bank of Canada|National Bank of Canada}}
+{{Use Canadian English|date=March 2026}}
+{{Use dmy dates|date=August 2019}}
+{{Infobox central bank
+| bank_name_in_local = {{lang|fr|Banque du Canada}}
+| image_1 = [[File:BankOfCanada.svg|180px]]<br /><br />[[File:Bank_of_Canada_Facade.jpg|250px]]<br />[[Bank of Canada Building]]
+| headquarters = [[Bank of Canada Building]]<br />[[Ottawa]], [[Ontario]]
+| coordinates = {{coord|45.42088|N|75.702968|W|region:CA_type:landmark|display=inline,title}}
+| established = 3 July 1934 {{small|(legal)}}<br/>{{Start date and age|df=yes|1935|3|11}} {{small|(began operations)}}
+| executive = [[Tiff Macklem]]
+| executive_title = [[Governor of the Bank of Canada|Governor]]
+| executive2_title = [[Governor of the Bank of Canada#Senior deputy governors of the Bank of Canada|Senior Deputy Governor]]
+| executive2 = [[Carolyn A. Wilkins]]
+| bank_of = Canada
+| currency = [[Canadian dollar]]
+| currency_iso = CAD
+| reserves = [[USD]] 123 084 million {{small|(2024)}}<ref>{{Cite web |last=Canada |first=Service |date=2015-10-13 |title=Monthly Official International Reserves |url=https://www.canada.ca/errors/404.html |access-date=2025-04-01 |website=www.canada.ca |archive-date=2 September 2024 |archive-url=https://web.archive.org/web/20240902234055/https://www.canada.ca/errors/404.html |url-status=dead }}</ref>
+| borrowing_rate = 2.75%<ref>{{Cite web|url=https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/|title=Policy interest rate }}</ref>
+| overnight_rate = 1.50%
+| deposit_rate = 2.25%
+| website = {{URL|https://www.bankofcanada.ca/}}
+| succeeded = 
+| footnotes = 
+| ownership = [[Minister of Finance (Canada)|Minister of Finance]]<br />on behalf of the [[Government of Canada|Crown]]<ref>{{Cite web|url=https://www.bankofcanada.ca/wp-content/uploads/2010/07/act_loi_boc_bdc.pdf|title=Band of Canada Act|url-status=live|archive-url=https://web.archive.org/web/20200223061254/https://www.bankofcanada.ca/wp-content/uploads/2010/07/act_loi_boc_bdc.pdf|archive-date=23 February 2020}}</ref>
+}}
+{{Economy of Canada}}
+The '''Bank of Canada''' ('''BoC'''; {{langx|fr|Banque du Canada}}) is a [[Crown corporations of Canada|Crown corporation]] and [[Canada]]'s [[central bank]].<ref name="lender">{{cite web| title=Lender of Last Resort| url=https://www.bankofcanada.ca/financial-system/lender-of-last-resort/| publisher=Bank of Canada| access-date=2013-03-20}}</ref> Chartered in 1934 under the ''[[Bank of Canada Act]]'', it is responsible for formulating Canada's monetary policy,<ref name="OECD2000">OECD. ''[https://books.google.com/books?id=sBKmHDggb70C&pg=PA45 OECD Economic Surveys: Canada 2000]''. OECD Publishing; 30 August 2000. {{ISBN|978-92-64-17701-7}}. p. 45–.</ref> and for the promotion of a safe and sound financial system within Canada.<ref name="BrearleyHealey2002">''[https://books.google.com/books?id=DtKAAgAAQBAJ&pg=PA41 Financial Stability and Central Banks: A Global Perspective]''. Routledge; November 2002. {{ISBN|978-1-134-51636-0}}. p. 41–.</ref> The Bank of Canada is the sole issuing authority of [[Canadian banknotes]],<ref name="Swimmer1996">Gene Swimmer. ''[https://books.google.com/books?id=J_n0AwAAQBAJ&pg=PA379 How Ottawa Spends, 1996-97: Life Under the Knife]''. MQUP; 15 May 1996. {{ISBN|978-0-7735-9589-7}}. p. 379–.</ref><ref name="G&D">{{cite web| url=http://www.gi-de.com/can/en/about_g_d/company/gd_in_canada/gd_canada.jsp| title=Banknote Printing and Currency Processing| publisher=Giesecke & Devrient (G&D)| access-date=2013-03-20| archive-url=https://web.archive.org/web/20160330172818/http://www.gi-de.com//can/en/about_g_d/company/gd_in_canada/gd_canada.jsp| archive-date=30 March 2016| url-status=dead}}</ref> provides banking services and money management for the government, and loans money to Canadian financial institutions.<ref name="funds">{{cite web| title=Funds Management| url=https://www.bankofcanada.ca/about/what-we-do/funds-management/| publisher=Bank of Canada| access-date=2013-03-20}}</ref><ref name="do">{{cite web|title=Frequently Asked Questions—What does the Bank do?|url=http://www.bankofcanada.ca/about/faq/|publisher=Bank of Canada|access-date=2013-03-20|archive-date=2013-03-11|archive-url=https://web.archive.org/web/20130311112518/http://www.bankofcanada.ca/about/faq/|url-status=dead}}</ref> The contract to produce the banknotes has been held by the [[Canadian Bank Note Company]] since 1935.
+
+==History==
+{{See also|Early Canadian banking system}}
+Prior to the creation of the Bank of Canada, the [[Bank of Montreal]], then the nation's largest bank, acted as the government's banker, and the federal [[Department of Finance (Canada)|Department of Finance]] was responsible for printing Canada's [[government note]]s.
+
+In 1933, [[Prime Minister of Canada|Prime Minister]] [[R.B. Bennett]] instituted the [[Royal Commission on Banking and Currency]]<ref name="report">{{cite web| title=Proceedings of the Royal Commission on Banking and Currency, Canada, Ottawa,1933| url=https://www.scribd.com/doc/12838684/The-Report-of-the-Royal-Commission-on-Banking-and-Currency-in-Canada-1933| publisher=[[Scribd]]| date=30 December 2008| access-date=2013-03-20| archive-date=3 May 2016| archive-url=https://web.archive.org/web/20160503103450/https://www.scribd.com/doc/12838684/the-report-of-the-royal-commission-on-banking-and-currency-in-canada-1933| url-status=dead}}</ref> and it reported its policy recommendations in favour of the establishment of a central bank for Canada. The Royal Commission's members consisted of Scottish jurist [[Hugh Macmillan, Baron Macmillan|Lord Macmillan]], Bank of England director Sir Charles Addis, Canadian former Finance Minister [[William Thomas White]], Banque Canadienne de Montréal general manager [[Beaudry Leman]], and Premier of Alberta [[John Edward Brownlee]].<ref name="dollar">{{cite book| title=A History of the Canadian Dollar| url=https://www.bankofcanada.ca/wp-content/uploads/2010/07/dollar_book.pdf| last=Powell| pages=47–49| publisher=Bank of Canada| date=December 2005| isbn=978-0-660-19571-1| access-date=2013-03-20}}</ref> One of Bennett's motivations was to lessen Canada's dependence on American banks based in New York, which he felt had dominant influence on the value of the Canadian dollar.<ref name=Helleiner>{{cite book |author=Eric Helleiner |title=The Making of National Money: Territorial Currencies in Historical Perspective |location=Ithaca and London |publisher=Cornell University Press |year=2003}}</ref>{{rp|153}}
+
+The bank was chartered by and under the ''[[Bank of Canada Act]]''<ref name="act">{{cite web| title=Bank of Canada Act (R.S.C., 1985, c. B-2)| publisher=[[Department of Justice (Canada)|Canada Department of Justice]]|url=http://laws-lois.justice.gc.ca/PDF/B-2.pdf| date=4 March 2013| access-date=2013-03-20}}</ref> on 3 July 1934, as a [[Privately held company|privately owned corporation]], a move taken in order to ensure the bank would be free from partisan political influence. The bank's purpose was set out in the preamble to the act: "to regulate credit and currency in the best interests of the economic life of the nation, to control and protect the external value of the national monetary unit and to mitigate by its influence fluctuations in the general level of production, trade, prices and employment, so far as may be possible within the scope of monetary action, and generally to promote the economic and financial welfare of the Dominion".<ref>Bank of Canada Act, R.S.C., 1985, c. B-2 current to 11 October 2016</ref>  With the exception of the word "Canada" replacing "the Dominion", the wording today is identical to the 1934 legislation.<ref>Bank of Canada Act S.C. 1934 Chap. 43</ref>  On 11 March 1935, the Bank of Canada began operations, following the granting of [[royal assent]] to the ''Bank of Canada Act''.
+
+Upon its initial creation, the bank was primarily tasked with anchoring Canada's economy globally and managing foreign exchange.<ref name=":1">{{Cite journal |last=Rohde |first=Dan |date=2025 |title=Who is a central bank for? The founding and legal design of the Bank of Canada |url=https://academic.oup.com/ajlh/advance-article/doi/10.1093/ajlh/njaf004/8239598 |journal=American Journal of Legal History |language=en |doi=10.1093/ajlh/njaf004 |issn=0002-9319|doi-access=free }}</ref> The bank was not tasked with managing inflation.<ref name=":1" />
+
+In 1938, while [[William Lyon Mackenzie King]] was serving as prime minister, the bank was legally designated a federal [[Crown corporations of Canada|Crown corporation]]. The [[Minister of Finance (Canada)|minister of finance]] holds the entire share capital issued by the bank.<ref name="auto">{{Cite web|title = Consolidated federal laws of Canada, Bank of Canada Act|url = http://laws-lois.justice.gc.ca/eng/acts/b-2/page-6.html#h-9|website = laws-lois.justice.gc.ca|access-date = 18 October 2015|first = Legislative Services|last = Branch}}</ref> No changes were made in the purpose of the bank.<ref>''Bank of Canada Amendment Act'' S.C. 1938 Chap 42</ref>
+
+The government appointed a board of directors to manage the bank, under the leadership of a governor.<ref name="Grant1999">John Grant. ''[https://books.google.com/books?id=sLiU464VIEAC&pg=PA57 A Handbook of Economic Indicators]''. University of Toronto Press; 1999. {{ISBN|978-0-8020-7863-6}}. p. 57–.</ref> Each director swore an oath of "fidelity and secrecy" before taking office.<ref name="auto"/>
+
+In 1944, the Bank of Canada then became the sole issuer of legal tender banknotes in and under Canada.<ref name="notes">{{cite web| title=Bank Note Series| url=https://www.bankofcanada.ca/banknotes/bank-note-series/| publisher=Bank of Canada| access-date=2013-03-20}}</ref><ref name="dollar"/>
+
+During World War II, the Bank of Canada operated the Foreign Exchange Control Board and the War Finance Committee, which raised funds through Victory Bonds.<ref name="Bryce2005">Robert Bryce. ''[https://books.google.com/books?id=SI3AAwAAQBAJ&pg=PA323 Canada and the Cost of World War II: The International Operations of Canada's Department of Finance, 1939-1947]''. McGill-Queen's Press - MQUP; 20 May 2005. {{ISBN|978-0-7735-7305-5}}. p. 323–.</ref><ref name="Hixson1997">William F. Hixson. ''[https://books.google.com/books?id=b9nzfosncYMC&pg=PA124 It's Your Money]''. COMER Publications; 1997. {{ISBN|978-0-9680681-1-3}}. p. 124–.</ref> After the war, the bank's role was expanded as it was mandated to encourage economic growth in Canada.<ref name="Schaefer1995">Howard G. Schaefer. ''[https://books.google.com/books?id=TACQEtotTgkC&pg=PA164 International Economic Trend Analysis]''. Greenwood Publishing Group; 1995. {{ISBN|978-0-89930-956-9}}. p. 164–.</ref> An [[Act of Parliament]] in September 1944 established the subsidiary [[Business Development Bank of Canada]] (BDC) to stimulate investment in Canadian businesses. Prime Minister [[John Diefenbaker]]'s central-bank monetary policy was directed towards increasing the money supply to generate low [[interest rates]], and incentivize [[full employment]].  When inflation began to rise in the early 1960s, then-Governor [[James Elliott Coyne|James Coyne]] ordered a reduction in the Canadian money supply.
+
+Since the 1980s, the main priority of the Bank of Canada has been keeping inflation low.<ref name="Kohsaka2004">Akira Kohsaka. ''[https://books.google.com/books?id=yvJ-AgAAQBAJ&pg=SA3-PA3 Fiscal Deficits in the Pacific Region]''. Routledge; 31 July 2004. {{ISBN|1-134-34436-8}}. p. 3–.</ref> As part of that strategy, interest rates were kept at a low level for almost seven years in the 1990s.<ref name="OECD1998">OECD. ''[https://books.google.com/books?id=nGNE0VpAF7QC&pg=PA137 OECD Economic Surveys: Canada 1998]''. OECD Publishing; 18 December 1998. {{ISBN|978-92-64-15131-4}}. p. 137–.</ref>
+
+Following the 2008 recession, the central Bank of Canada lowered interest rates to stimulate the economy, but did not practice [[quantitative easing]], as it feared that dramatically increasing the money supply would lead to hyperinflation.<ref>{{Cite web|url=https://www.theglobeandmail.com/report-on-business/economy/an-uneasy-relationship-behind-response-to-financial-crash/article18293472/|title=An uneasy relationship behind response to financial crash|first=Barrie|last=McKenna|date=27 April 2014|access-date=15 February 2022|website=The Globe and Mail}}</ref>
+
+Between 2013 and early 2017, the Bank of Canada temporarily moved its offices to 234 Laurier Avenue West in Ottawa to allow major renovations to its headquarters building.<ref>{{cite web|url=http://www.macleans.ca/society/life/the-secret-treasure/|title=The Bank of Canada's move, and what it means for a fabled underground vault |first1=Nicholas |last1=Köhler |date=11 June 2013|website=Macleans.ca|access-date=2017-08-19}}</ref>
+
+In mid 2017, inflation remained below the bank's 2% target, (at 1.6%),<ref>{{cite web|url=https://www.bloomberg.com/news/articles/2017-07-12/the-bank-of-canada-shows-it-s-the-federal-reserve-of-the-north |url-access=subscription |first1=Luke |last1=Kawa |title=The Bank of Canada Shows It's the Federal Reserve of the North|date=12 July 2017|website=Bloomberg.com}}</ref> mostly because of reductions in the cost of energy, food and automobiles; as well, the economy was in a continuing spurt with a predicted GDP growth of 2.8 percent by year end.<ref>{{cite web|url=https://www.bloomberg.com/news/articles/2017-07-12/bank-of-canada-raises-benchmark-rate-to-0-75-key-takeaways |first1=Theophilos |last1=Argitis |url-access=subscription |title=Bank of Canada Raises Rates for First Time in 7 Years|date=12 July 2017|website=Bloomberg.com}}</ref><ref>{{cite news|url=https://www.theglobeandmail.com/report-on-business/economy/bank-of-canada-interest-rate-decision/article35662991/|title=Bank of Canada raises interest rates for first time in seven years|newspaper=[[The Globe and Mail]] |first1=Barrie |last1=McKenna |date=July 12, 2017 }}</ref>  On 12 July 2017, the bank issued a statement that the benchmark rate would be increased to 0.75%. "The economy can handle very well this move we have today and of course you need to preface that with an acknowledgment that of course interest rates are still very low," Governor [[Stephen Poloz]] subsequently said. In its press release, the bank had confirmed that the rate would continue to be evaluated at least partly on the basis of inflation. "Future adjustments to the target for the overnight rate will be guided by incoming data as they inform the bank's inflation outlook, keeping in mind continued uncertainty and financial system vulnerabilities."<ref>{{cite news|url=http://ca.reuters.com/article/businessNews/idCAKBN19X1V5-OCABS|title=Confident Bank of Canada hikes rates for first time since 2010|first1=Andrea |last1=Hopkins |first2=Leah|last2=Schnurr |website=Reuters |date=13 July 2017|access-date=2017-08-19 |url-status=dead |archive-url=https://web.archive.org/web/20170819022146/http://ca.reuters.com/article/businessNews/idCAKBN19X1V5-OCABS |archive-date=2017-08-19 }}</ref><ref>{{cite web|url=https://www.reuters.com/article/us-usa-fed-yellen-idUSKBN19X1MX|title=Fed's Yellen says rate and portfolio plans on track, cautions on inflation|date=12 July 2017|website=Reuters |first1=Howard |last1=Schneider }}</ref> Poloz refused to speculate on the future of the economy but said, "I don't doubt that interest rates will move higher, but there's no predetermined path in mind at this stage".<ref>{{cite web|url=https://www.ctvnews.ca/business/article/boc-hikes-interest-rate-for-first-time-in-seven-years/|title=BoC hikes interest rate for first time in seven years|first=Craig|last=Wong|date=12 July 2017|website=CTV News|access-date=2017-08-19}}</ref>
+
+By the end of 2018, the Bank of Canada had raised rates up to 1.75% from a low of 0.5% in May 2017 in response to robust economic growth.<ref>{{Cite web|title=Bank of Canada increases overnight rate target to 1 ¾ per cent|url=https://www.bankofcanada.ca/2018/10/fad-press-release-2018-10-24/ |date=October 24, 2018 |access-date=2020-06-27|website=Bank of Canada|language=en-US}}</ref> Rates remained at 1.75% for the duration of 2019.
+
+In March 2020, interest rates were quickly lowered to 0.25% in response to the economic conditions caused by the [[COVID-19 pandemic]].<ref>{{Cite web|title=Bank of Canada lowers overnight rate target to ¼ percent|url=https://www.bankofcanada.ca/2020/03/press-release-2020-03-27/|access-date=2020-06-27|website=Bank of Canada|language=en-US}}</ref> Additionally, the Bank of Canada undertook the controversial practice of quantitative easing, whereby the Central Bank increases the money supply to create funds for government spending. The sudden increase in the money supply contributed to Canada's inflation rate reaching 4.8%, the highest in over 30 years.
+By October 2021, the Central Bank stopped its practice of quantitative easing, and accelerated the timeline of increasing interest rates to pre-pandemic levels.<ref>{{Cite web|url=https://www.theglobeandmail.com/business/article-bank-of-canada-ends-quantitative-easing-program-moves-forward-timeline/|title=Bank of Canada ends quantitative easing program, moves forward timeline for rate hikes|first=Mark|last=Rendell|date=27 October 2021|access-date=15 February 2022|website=The Globe and Mail}}</ref>
+
+In March 2022, The Bank of Canada raised its benchmark interest rate for the first time in over three years, claiming that future rate increases are needed to fight inflationary pressures expected to worsen due to the [[Russian invasion of Ukraine]]. Canada's central bank raised its overnight rate goal by a quarter-percentage point to 0.50 percent. After the Bank of England, the Bank of Canada is the second Group of Seven central banks to raise rates since the outbreak began.<ref>{{Cite news |last=Vieira |first=Paul |date=March 2, 2022 |title=Bank of Canada Raises Interest Rates to Curb Inflation |pages=1 |work=The Wall Street Journal |url=https://www.wsj.com/articles/bank-of-canada-raises-interest-rates-to-curb-inflation-11646234710?mod=world_major_5_pos4 |access-date=March 3, 2022}}</ref>
+
+On 29 November 2022, the Bank of Canada reported its quarterly earnings for the third financial quarter of that year.<ref>{{cite web | url=https://ca.finance.yahoo.com/news/fp-answers-why-bank-canada-125917574.html | title=FP Answers: The Bank of Canada lost $522 million in three months — here's why | work=Yahoo Finance | date=29 November 2022 }}</ref> It reported a loss of C$522 million. This was the first time in its history that it reported a loss.<ref>{{cite web | url=https://torontosun.com/business/money-news/bank-of-canada-lost-522-million-in-third-quarter-marking-first-loss-in-its-history | title=Bank of Canada lost $522 million in third quarter, marking first loss in its history | work=torontosun }}</ref> This loss was first reported on in a 12 September 2022 op-ed in the [[Toronto Star]].<ref>{{cite web | url=https://www.thestar.com/politics/political-opinion/2022/09/12/the-bank-of-canada-for-the-first-time-in-history-is-losing-money-is-that-a-problem.html | title=Opinion &#124; the Bank of Canada, for the first time in history, is losing money. Is that a problem? | website=[[Toronto Star]] | date=12 September 2022 }}</ref> The op-ed blamed the bank's emergency [[quantitative easing]] policy it took following the COVID-19 pandemic. The bank responded to the op-ed saying that they do expect to return a loss as "the bank's interest expense is growing because of increases in the interest rate that we pay on deposits."<ref>{{cite web | url=https://financialpost.com/news/economy/bank-of-canada-losing-money-first-time-rising-rates | title=The Bank of Canada is losing money for the first time ever on rising rates | work=Financial Post }}</ref>
+
+==Roles and responsibilities==
+The mandate of the Bank of Canada is defined in the ''Bank of Canada Act'' preamble, which states,
+<blockquote>''WHEREAS it is desirable to establish a central bank in Canada to regulate credit and currency in the best interests of the economic life of the nation, to control and protect the external value of the national monetary unit and to mitigate by its influence fluctuations in the general level of production, trade, prices and employment, so far as may be possible within the scope of monetary action, and generally to promote the economic and financial welfare of Canada.''<ref name="act"/></blockquote>
+
+The Bank of Canada's responsibilities focus on the goals of low, stable and predictable inflation; a safe and secure currency; a stable and efficient financial system in Canada and internationally; and effective and efficient funds-management services for the Government of Canada, as well as on its own behalf and for other clients.<ref name="do"/>
+
+In practice, however, it has a more narrow and specific internal definition of that mandate: to keep the rate of [[inflation]] (as measured by the [[Consumer Price Index]]) between 1% and 3%.<ref name="Handa2000">Jagdish Handa. ''[https://books.google.com/books?id=VMpHn9xQNzUC&pg=RA4-PT116 Monetary Economics]''. Psychology Press; 2000. {{ISBN|978-0-415-19926-1}}. p. 4–.</ref><ref name="FilcKöhler2015">''[https://books.google.com/books?id=PYO7Zz5tSJsC&pg=PA271 Macroeconomic Causes of Unemployment: Diagnosis and Policy Recommendations /: Makroökonomische Ursachen der Arbeitslosigkeit: Diagnose und Therapievorschläge]''. Duncker & Humblot; 3 March 2015. {{ISBN|978-3-428-49758-4}}. p. 271–.</ref> Since adoption of the 1% to 3% inflation target in 1991<ref>{{cite web|url=https://www.bankofcanada.ca/rates/indicators/key-variables/inflation-control-target/|title=Inflation-Control Target|website=Bank of Canada|access-date=19 August 2017}}</ref> and 2019, the average inflation rate was 1.79%.<ref name="inflation">{{cite web| title=Inflation Calculator| url=http://www.bankofcanada.ca/en/rates/inflation_calc.html| publisher=Bank of Canada| access-date=2019-09-09| archive-date=2007-05-10| archive-url=https://web.archive.org/web/20070510124111/http://www.bankofcanada.ca/en/rates/inflation_calc.html| url-status=dead}}</ref> The most potent tool the Bank of Canada has to achieve this goal is its ability to set the interest rate for borrowed money.<ref name="MankiwKneebone2013">''[https://books.google.com/books?id=4rY8BAAAQBAJ&pg=PA236 Principles of Macroeconomics, 6Ce]''. 2 October 2013. {{ISBN|978-0-17-668990-2}}. p. 236–.</ref> Because of the large amount of trade between Canada and the United States, specific adjustments to interest rates are often affected by those in the US at the time.<ref name="Schaefer1995"/>
+
+The Bank of Canada is the sole entity authorized to issue currency in the form of [[Banknotes of the Canadian dollar|bank notes]] in Canada. The bank does not issue [[Coins of the Canadian dollar|coins]]; they are issued by the [[Royal Canadian Mint]]. [[File:Bank of Canada one dollar note, 1935.jpg|right|thumb|$1 Bank of Canada note issued in 1935]]
+
+Canada no longer requires banks to maintain fractional reserves with the Bank of Canada. Instead, banks are required to hold highly liquid assets such as treasury bills equal to 30 days of normal withdrawals (liquidity coverage), while leverage is primarily tied to adequate loss-absorbing capital, notably tier one (equity) capital.<ref name="auto1">{{cite web|url=https://www.osfi-bsif.gc.ca/Eng/fi-if/rg-ro/gdn-ort/gl-ld/Pages/TLAC.aspx|title=Total Loss Absorbing Capacity (TLAC)|first=Office of the Superintendent of Financial|last=Institutions|website=Osfi-bsif.gc.ca|date=22 December 2016}}</ref>
+
+==Type of government institution==
+The Bank of Canada is structured as a Crown corporation rather than as a government department, with shares held in the name of the minister of finance on behalf of the [[Monarchy of Canada|Canadian monarch]]. While the ''Bank of Canada Act'' provides the minister of finance with the final authority on matters of monetary policy through the power to issue a directive<ref>{{cite web|url=http://laws-lois.justice.gc.ca/eng/acts/b-2/page-6.html#h-6|title=Consolidated federal laws of Canada, Bank of Canada Act|first=Legislative Services|last=Branch|website=Laws-lois.justice.gc.ca|date=31 January 2020}}</ref> no such directive has ever been issued. The bank's earnings go into the federal treasury. The governor and senior deputy governor are appointed by the bank's board of directors. The deputy minister of finance sits on the board of directors but does not have a vote. The bank submits its spending to the board of directors, while departmental spending is overseen by the Treasury Board with their spending estimates submitted to Parliament.  Its employees are regulated by the bank and not the federal public service agencies.<ref name="act"/>
+
+==Bank of Canada's balance sheet==
+The bank has a zero book value policy on its balance sheet—matching total assets to total liabilities—and transfers any equity above this amount as a dividend to the Government of Canada. As of 30 December 2015, the Bank of Canada owned [[Canadian Dollar|C$]]95 billion in Government of Canada debt.  It had a net income in 2014 of $1.039 billion. The Bank of Canada matches its liabilities of $76 billion in currency outstanding, $23 billion in deposits from the government and $3.5 billion in other liabilities—to its assets owning $95 billion in Government of Canada debt and $7.5 billion in other assets.<ref>{{cite web|url=https://www.bankofcanada.ca/wp-content/uploads/2016/01/wfs080116.pdf|title=WEEKLY FINANCIAL STATISTICS|website=Bank of Canada|access-date=2017-08-19}}</ref>  Banknotes in circulation have increased from $70 billion at the end of 2014 to $76 billion at the end of 2015. The Bank of Canada lists cash on its 2014 balance sheet at $8.4 million in currency and foreign deposits.<ref>{{cite web| title=2014 Annual Report| url=https://www.bankofcanada.ca/wp-content/uploads/2015/03/annualreport2014.pdf| publisher=Bank of Canada| date=28 February 2015| access-date=2016-02-22}}</ref>  The Bank of Canada's books are audited by external auditors who are appointed by the Governor in Council on the recommendation of the minister of finance.<ref>{{cite web|url=https://www.bankofcanada.ca/wp-content/uploads/2022/12/selection-appointment-external-auditors.pdf|title=Selection and Appointment of External Auditors|publisher=Bank of Canada|date=August 2022|access-date=11 June 2024}}</ref><ref>{{cite web|url=https://laws-lois.justice.gc.ca/eng/acts/b-2/page-3.html|title=Bank of Canada Act – Business and Powers of the Bank (continued) |at=Section 28(1–2)|website=Justice Laws Website|publisher=Government of Canada|date=30 June 2023|access-date=11 June 2024}}</ref>
+
+==Response to the 2008 financial crisis==
+[[File:Canada bonds.webp|thumb|300px|Canada bonds
+{{legend-line|#00A2FF solid 3px|30 year}}
+{{legend-line|#61D836 solid 3px|10 year}}
+{{legend-line|#929292 solid 3px|2 year}}
+{{legend-line|#F8BA00 solid 3px|1 year}}
+{{legend-line|#FF2600 solid 3px|3 month}}
+{{legend-line|#D41876 solid 3px|1 month}}
+{{see also|Inverted yield curve}}
+]]
+The Bank of Canada 2008 balance sheet expanded to $78.3 billion from $53.7 billion from the previous year (an increase of roughly 50%), as the bank created new money to fund emergency loans to Canada's major banks by purchasing their assets on a temporary basis. After the [[2008 financial crisis]], these emergency asset purchases were unwound and the value of the assets deducted from the central bank's balance sheet. This central bank transaction was referenced under "securities purchased for resale" from Canada's major banks. It was termed advances to members of the [[Canadian Payments Association]] and were liquidity loans made under the bank's standing liquidity facility as well as term advances made under the bank's commitment to provide term liquidity to the Canadian financial system.<ref name="2008annual">{{cite journal| title=Annual Report 2008| journal=Annual Report| url=https://www.bankofcanada.ca/wp-content/uploads/2010/04/annuel_report08.pdf| publisher=Bank of Canada| issn=1487-0452| date=27 February 2009| access-date=2013-03-20}}</ref>
+
+== Framework for unconventional monetary policy measures ==
+In December 2015, the Bank of Canada forecasted increasing annual growth throughout 2016 and 2017, with the Canadian economy reaching full capacity mid-2017. With this annual growth, the bank estimated the effective lower bound for its policy interest rate to hit approximately 0.5 per cent. This is differing from the bank's 2009 assessment of 0.25 per cent.<ref name=":0">{{Cite press release|url=https://www.bankofcanada.ca/2015/12/bank-canada-updates-framework-unconventional-monetary-policy-measures/|title=Bank of Canada updates framework for unconventional monetary policy measures|website=Bank of Canada|access-date=9 November 2016|date=8 December 2015}}</ref>
+
+To ensure Canada's monetary system remains intact should another [[financial crisis]] take place (for example, the 2007–2008 global financial crises) the Bank of Canada has put forward a framework for the use of [[unconventional monetary policy]] (UMP) measures.<ref name=":0"/> While the Bank of Canada avoided using UMP in 2008–09 and during the [[European debt crisis]], [[quantitative easing]] policies were introduced in early 2020 due to the COVID-19 pandemic. By February 2022 about 15% of the bank's assets were UMP-related.<ref>{{cite report|title=Central BAnk Forays Into Unconventional Monetary Policies: Explanation, Assessment, and Implications|first=Pierre L.|last=Siklos|publisher=[[Fraser Institute]]|pages=15, 19|url=https://www.fraserinstitute.org/sites/default/files/central-bank-forays-into-unconventional-monetary-policies.pdf|date=April 2023}}</ref>
+
+The Bank of Canada has established these unconventional monetary policy measures after reflecting on its previous annex in its April 2009 MPR, as well as how other central banks responded to the [[2008 financial crisis]]. These measures are in place so, in the improbable circumstance the economy is hit with another significant negative financial shock, the Bank of Canada has principles it can reference. These measures are strictly hypothetical and are in no means being embarked upon at any foreseeable date. The unconventional monetary policy measures is also a living document; because the post-crisis adjustment process continues to develop and best practices are still being garnered, these measures will continue to be worked on and altered as needed.<ref>{{Cite web|url=https://www.bankofcanada.ca/2015/12/prudent-preparation-evolution-unconventional-monetary-policies/|title=Prudent Preparation: The Evolution of Unconventional Monetary Policies|website=Bank of Canada|access-date=2016-11-09}}</ref>
+
+The framework for the use of unconventional monetary policy measures includes the following four tools: 
+* Forward guidance on the future path of its policy rate;
+* Stimulating the economy through large-scale asset purchases, otherwise known as quantitative easing;
+* Funding to ensure credit is available to key economic sectors, and;
+* Moving its policy rate below zero to encourage spending.
+'''Forward guidance'''
+
+The first option within the Bank of Canada's toolkit for its framework for the use of unconventional monetary policy measures is forward guidance as it relates to substantial impacts for the future. An example of forward guidance would be the bank's 2009 statements regarding the conditional commitment to keeping the key policy rate untouched for a year, so long as the inflation rate remained unaffected during this time. Forward guidance, when partnered with conditional commitments, is both an effective and credible approach, allowing the bank to deliver on its commitment as long as the condition in question is upheld.
+
+'''Large-scale asset purchases'''
+
+Although the Bank of Canada engages in asset purchases regularly as for its balance sheets to grow with the economy and enable the distribution of a growing stock of bank notes, in this circumstance, it would go beyond even that to participate in large-scale asset purchases.
+
+Often referred to as quantitative easing, large-scale asset purchases involve establishing new reserves for the purpose of purchasing large quantities of securities, for example government bonds<ref name="Officer1968">Lawrence H. Officer. ''[https://archive.org/details/econometricmodel0000offi/page/275 An Econometric Model of Canada Under the Fluctuating Exchange Rate]''. Harvard University Press; 1968. {{ISBN|978-0-674-22500-8}}. p. 275, 89.</ref> or private assets, such as mortgage-backed securities, from the private sector. The benefits to these purchases are three-fold:
+* The creation of new liquidity in the central banking system, which results in an increase of available credit should the system be tightened, resulting in supported economic growth; 
+* The lowered interest rate on purchased assets, flattening the yield curve and bringing longer-term interest rates down towards short-term interest rate levels;
+* The downward pressure on the exchange rate, boosting aggregate demand through increased export sales, resulting in more revenue measured in domestic currency.<ref name="Cutler2011">A. Claire Cutler. ''[https://books.google.com/books?id=Oci5rp1Ng0sC&pg=PA180 Canadian Foreign Policy and International Economic Regimes]''. UBC Press; 1 November 2011. {{ISBN|978-0-7748-4291-4}}. p. 180–.</ref>
+'''Funding for credit'''
+
+The third unconventional monetary policy tool is funding for credit, which ensures economically important sectors continue to have access to funding, even if the supply of credit is impaired. In order for this to be effective, the Bank of Canada would provide collateralized funding to others at a subsidized rate as long as they met specified lending objectives. This tool is designed to encourage lending to households and businesses when banks may otherwise face increasing funding costs.
+
+'''Negative interest rates'''
+
+Pushing for short-term interest rates below zero has become common amongst many banks, including ECB and Swiss National Bank. Due to the negative interest rates, these financial markets have adapted when faced with a [[financial crisis]] and continue to function. The Bank of Canada believes the Canadian financial market is capable of functioning in a negative interest rate environment and, as such, added it to its toolkit for unconventional monetary policy measures.
+
+In previous years, the Bank of Canada had a predetermined sequence of measures in place should a crisis take place. These newly created unconventional measures will work towards finding a solution to a problem in whichever combination of policies is judged appropriate at the given time under their unique circumstances. These unconventional measures, and the sequence in which they would be adapted, are designed to minimize market distortions, as well as risk to the Bank of Canada's balance sheet.<ref name=":0" />
+
+==Governor==
+{{Main|Governor of the Bank of Canada}}
+The head of the Bank of Canada is the [[Governor of the Bank of Canada|governor]]. While the law provides the board of directors with the power to appoint the governor, in practice they approve the choice of the government.<ref>{{cite web|url=https://nationalpost.com/opinion/john-ivison-new-bank-of-canada-governors-most-important-attribute-is-understanding-the-harper-agenda|title=John Ivison: New Bank of Canada Governor's most important attribute is understanding the Harper agenda|date=2 May 2013|website=News.nationalpost.com|access-date=19 August 2017}}</ref> The governor serves a fixed seven-year term which may be renewed, but recent governors have only chosen to serve a single term.  With the exception of matters of personal conduct ("good behaviour") the ''Bank of Canada Act'' does not provide the government with the direct ability to remove a governor during their term in office. In the case of profound disagreement between the government and the bank, the [[Finance Minister (Canada)|minister of finance]] can issue written instructions for the bank to change its policies.<ref name="act"/>  This has never actually happened in the history of the bank to date. In practice, the governor sets [[monetary policy]] independently of the government.
+
+[[Banknotes of the Canadian dollar|Canadian banknotes]] bear the signature of the governor and deputy governor of the Bank of Canada.
+{| class="wikitable"
+|+List of governors<ref>{{Cite web|url=https://www.bankofcanada.ca/about/governing-council/historical-leadership-bank-canada/|title=Historical Leadership at the Bank of Canada|website=Bank of Canada|language=en-US|access-date=2020-03-28}}</ref>
+!No.
+!Name
+!Term
+|-
+|1
+|[[Graham Towers]]
+|1934{{spaced ndash}}1954
+|-
+|2
+|[[James Elliott Coyne|James Coyne]]
+|1955{{spaced ndash}}1961
+|-
+|3
+|[[Louis Rasminsky]]
+|1961{{spaced ndash}}1973
+|-
+|4
+|[[Gerald Bouey]]
+|1973{{spaced ndash}}1987
+|-
+|5
+|[[John Crow]]
+|1987{{spaced ndash}}1994
+|-
+|6
+|[[Gordon Thiessen]]
+|1994{{spaced ndash}}2001
+|-
+|7
+|[[David A. Dodge]]
+|2001{{spaced ndash}}2008
+|-
+|8
+|[[Mark Carney]]
+|2008{{spaced ndash}}2013
+|-
+|9
+|[[Stephen S. Poloz]]
+|2013{{spaced ndash}}2020
+|-
+|10
+|[[Tiff Macklem]]
+|2020{{spaced ndash}}Incumbent
+|}
+
+==Economic research==
+The Bank of Canada has a large economic research staff which prepare reports independently from the bank's Governing Council. This research may support the prevailing policy views of the Governing Council, but may also differ from official Bank views with the opinions expressed being those solely of the authors.
+
+The analytical notes, discussion papers and working papers prepared by the bank's economic staff are published on the bank's website and in its online monthly Research Newsletter, several are published in the quarterly Bank of Canada Review.<ref>{{cite web|url=https://www.bankofcanada.ca/research/|title=Research|website=Bank of Canada|access-date=2017-08-19}}</ref>
+
+==Banknote research and development==
+The Bank of Canada has a team of chemists, physicists, and engineers it had assembled for the development of the [[Canadian Journey Series]], who determine potential counterfeiting threats and assess substrate materials and potential security features for use in banknote designs.<ref name="brown">{{cite journal|journal=Bank of Canada Review|url=https://www.bankofcanada.ca/wp-content/uploads/2011/06/spencer.pdf|title=Paying with Polymer: Developing Canada's New Bank Notes|editor-last=Brown|editor-first=Maura|issue=Supplement|date=20 June 2011|access-date=7 March 2014}}</ref><!-- {{sfn|Brown|2011|loc=The Next Generation Bank Notes Project|p=3}} --> It is part of the "Four Nations Group" of central banks, which includes the [[Reserve Bank of Australia]], the [[Bank of England]], and the [[Bank of Mexico]], that collaborate on banknote security research, testing, and development.<ref name="brown" />
+
+== Criticism of monetary policy ==
+Following the [[COVID-19 pandemic in Canada]], critics have pointed out that the Bank of Canada's inflation-targeting has had unintended consequences, such as fuelling an increase in home prices and contributing to wealth inequalities by supporting higher equity values.<ref>{{Cite web |title=GESSAROLI: Artificially low interest rates -- we're paying the price |url=https://torontosun.com/opinion/columnists/gessaroli-artificially-low-interest-rates-were-paying-the-price |access-date=2022-04-01 |website=torontosun |language=en-CA}}</ref>
+
+The [[Conservative Party of Canada]] [[Party leader|leader]], [[Pierre Poilievre]], had criticized [[Tiff Macklem]] and the Bank of Canada during his [[2022 Conservative Party of Canada leadership election|candidacy]], accusing the institution of being "financially illiterate" for forecasting that there would be [[deflation]] as opposed to [[inflation]] during the pandemic,<ref>{{cite web |last1=Turnbull |first1=Sarah |title=Former Bank of Canada governor slams Poilievre's assertion central bank is 'financially illiterate' |url=https://www.ctvnews.ca/politics/article/former-bank-of-canada-governor-slams-poilievres-assertion-central-bank-is-financially-illiterate/ |website=CTV News |access-date=May 12, 2022 |date=May 8, 2022 |quote=Bank of Canada says #Bitcoin-ers lack financial literacy. This from the same people who promised we’d have “deflation” right before inflation hit a 30 year high. It is our central bank that is financially illiterate. Restore sound money.}}</ref> to which the bank's deputy governor [[Paul Beaudry]] responded by stating "The aspect that we should be held accountable is exactly right".<ref>{{cite web |last1=Cullen |first1=Cathline |title=Following Poilievre's attacks, Bank of Canada official says it's 'accountable' for failure to check inflation |url=https://www.cbc.ca/news/politics/bank-of-canada-inflation-poilievre-1.6475515 |website=CBC |access-date=June 2, 2022 |date=June 2, 2022}}</ref>
+
+==See also==
+{{Div col}}
+* [[Canada Deposit Insurance Corporation]]
+* [[Canadian dollar]]
+* [[Canadian federal budget]]
+* [[Canadian public debt]]
+* [[Central Bank Digital Currency]]
+* [[Commonwealth banknote-issuing institutions]]
+* [[Economic history of Canada]]
+* [[Economy of Canada]]
+* [[List of banks in Canada]]
+* [[List of countries by leading trade partners]]
+* [[List of financial supervisory authorities by country]]
+* [[List of the largest trading partners of Canada]]
+* [[Money creation]]
+* [[Taxation in Canada]]
+* [[List of central banks]]
+* [https://www.bis.org/ Bank of International Settlement]
+{{Div col end}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite book| first=George S.| last=Watts| title=Bank of Canada: Origins and Early History/La Banque du Canada:Origines et premieres annees| publisher=[[McGill-Queen's University Press]]| location=Kingston| date=15 April 1993| isbn=978-0886291839}}
+* {{cite book| first=James| last=Powell| title=The Bank of Canada of James Elliot Coyne: Challenges, Confrontation, and Change| publisher=McGill-Queen's University Press| location=Kingston| date=1 September 2009| isbn=978-0773535992}}
+
+==External links==
+{{commons category}}
+* {{in lang|en|fr}} {{official website|www.bankofcanada.ca}}
+* [http://laws.justice.gc.ca/eng/B-2/index.html ''Bank of Canada Act'' [B-2&#93;]
+
+{{Canadian_currency_and_coinage}}
+{{Canadian banks}}
+{{Crown corporations of Canada}}
+{{authority control}}
+
+[[Category:Bank of Canada| ]]
+[[Category:Banks of Canada|central bank]]
+[[Category:Central banks|Canada]]
+[[Category:Canadian federal Crown corporations]]
+[[Category:Canadian companies established in 1935]]
+[[Category:Banks established in 1935]]
+[[Category:Companies based in Ottawa]]

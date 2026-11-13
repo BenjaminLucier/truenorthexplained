@@ -1,0 +1,96 @@
+{{Short description|Central agency of the Canadian government}}
+{{More citations needed|date=November 2021}}
+{{Use Canadian English|date=January 2023}}
+{{Infobox government agency
+| name            = Office of the Prime Minister
+| native_name     = {{lang|fr|Cabinet du Premier minister}}
+| seal            = 
+| logo            = Office of the Prime Minister.svg
+| logo_caption    = Logo of the Office of the Prime Minister
+| image           = Langevin Block (2013)(cropped).jpg
+| image_caption   = [[Office of the Prime Minister and Privy Council]] building in 2013, when it was known as the ''Langevin Block''
+| formed          = {{Start date|1867|07|01}}
+| chief1_name     = [[Marc-André Blanchard]]
+| chief1_position = [[Chief of Staff to the Prime Minister (Canada)|Chief of Staff]]
+| chief2_name     = [[Scott Gilmore]]
+| chief2_position = [[Principal Secretary (Canada)|Principal Secretary]]
+| chief3_name     = Tim Krupa, Jennifer McIntyre, and Andrée-Lyne Hallé
+| chief3_position = Deputy Chief(s) of Staff
+| chief4_name     = Maia Johnson
+| chief4_position = Chief Operating Officer
+| chief5_name     = 
+| chief5_position = 
+| chief6_name     = 
+| chief6_position = 
+| chief7_name     = 
+| chief7_position = 
+| chief8_name     = 
+| chief8_position = 
+| chief9_name     = 
+| chief9_position = 
+| parent_department = 
+| headquarters    = [[Office of the Prime Minister and Privy Council]] building, [[Ottawa]], [[Ontario]]
+| employees       = 
+| budget          = $10,050,503 (2020–2021)<ref>{{Cite web|last=Secretariat|first=Treasury Board of Canada|last2=Open Government|first2=Treasury Board Secretariat of Canada|title=Expenditures of Ministers' Offices|url=http://open.canada.ca/en/expenditures-ministers-offices|access-date=2021-11-09|website=open.canada.ca}}</ref>
+| minister1_name  = [[Mark Carney]]
+| minister1_pfo   = [[Prime Minister of Canada|Prime Minister]]
+| jurisdiction    = 
+| website         = {{URL|https://pm.gc.ca}}
+}}
+{{Politics of Canada}}
+
+The '''Office of the Prime Minister''' (commonly called the '''prime minister's office''' or '''PMO'''; {{langx|fr|Cabinet du Premier ministre}}, {{lang|fr|CPM}}) comprises the political staff which support the [[prime minister of Canada]]. Located in the [[Office of the Prime Minister and Privy Council]] Building in [[Ottawa]], Ontario. The PMO provides policy advice, information gathering, communications, planning, and strategizing. It should not be confused with the [[Privy Council Office (Canada)|Privy Council Office]] (PCO) – a department of the [[Government of Canada]] and part of the [[Public Service of Canada|Public Service]], which is expressly [[Nonpartisanism|non-partisan]]. The PMO is concerned with making policy, whereas the PCO is concerned with executing the policy decisions.
+
+The [[Chief of Staff to the Prime Minister (Canada)|chief of staff to the prime minister]] manages the office's day-to-day operations. [[Marc-André Blanchard]] has been [[Prime Minister of Canada|Prime Minister]] [[Mark Carney]]'s chief of staff since July 7, 2025. The [[Principal Secretary (Canada)|principal secretary]] is another senior official in the office whose duties vary depending on the prime minister at the time.<ref>{{Cite web|url=https://www.hilltimes.com/story/2025/09/01/pitfield-still-in-principal-secretary-post-seven-weeks-after-lametti-took-on-job/471673/|title=Pitfield still in principal secretary post seven weeks after Lametti took on job - The Hill Times - The Hill Times}}</ref>
+
+==Nomenclature==
+Officially titled the ''Office of the Prime Minister'', the organization is widely referred to as the ''prime minister's office'' and, although the latter rendering of the name is completely unofficial, the office's [[English language|English]] abbreviation is always given as ''PMO'', as opposed to ''OPM''. (In [[French language|French]], the PMO is known as the ''{{langx|fr|Cabinet du Premier ministre|label=none}}'' and abbreviated as ''{{langx|fr|CPM|label=none}}'', or often literally translated as ''{{langx|fr|Bureau du Premier Ministre|label=none}}'', abbreviated as ''{{langx|fr|BPM|label=none}}''.)
+
+Unlike similar executive offices, such as [[10 Downing Street]], the [[White House]], and [[Rideau Hall]], the Canadian prime minister's official residence of [[24 Sussex Drive]] is not widely used as a [[metonym]] for the prime minister's office. This is because, unlike those examples, the Canadian prime minister's official residence is not the site of any bureaucratic functions. Langevin Block—the former name of the Office of the Prime Minister and Privy Council Building—was occasionally used this way in media, as it is the seat of the PMO. But, since the building has been renamed, media usually simply speak of staff "in the prime minister's office".<ref>{{Cite video |url=https://www.cbc.ca/player/play/2156628547759/ |title=Canadian politics in 2022 {{!}} At Issue answers your questions |date=December 29, 2022 |type=Television production |publisher=[[CBC News]] |time-caption=14:33 |quote="New staff in the Prime Minister's Office!" |people=[[Althia Raj]]}}</ref>
+
+==Functions==
+PMO consists of approximately 100 partisan appointees, or ''exempted staff'' in federal government jargon, who support the Prime Minister in carrying out the functions demanded of a head of a democratic national government, a political party leader, and a Member of Parliament, with focus on supporting the prime minister in performing duties where public administration objectives overlap, intersect or compete with the prime minister's political interests by nature or by circumstances, or duties which successful execution the governing party's electoral fortune is highly sensitive to. PMO staff performs functions mainly of the following nature:
+
+* substantive (such as policy development, legislative strategy, cabinet agenda coordination)
+* marketing and communication (speechwriting, press relations)
+* intelligence (public opinion research, public appointment vetting)
+* relationship (stakeholder engagement, community outreach, caucus management)
+* clerical (scheduling, correspondence)
+* operational (tour logistics, security coordination, protocol)
+
+One of PMO's most consequential roles is public appointments. While PMO is most visibly and directly involved in appointments by order-in-council, which are the appointment formally made in the name of the [[Monarchy of Canada|monarch]] or  the [[Governor General of Canada|governor general]] on the [[Advice (constitutional law)|advice]] of the prime minister or the cabinet, its public appointments unit is involved in the recruitment, vetting and appointment process of many other governmental or pseudo governmental positions, in most case with support from the Privy Council Office. The degree of its involvement, control, and the influence or authority it wields varies depending on various factors.
+
+PMO's staff remuneration and operational costs are incurred as part of the [[estimates]] of the [[Privy Council Office (Canada)|Privy Council Office]] (PCO), the federal department made up of career civil servants responsible for cross-government coordination and providing support and non-partisan advice to the federal cabinet,<ref>{{Cite journal |date=2009-10-01 |title=Evolving Preservation Roles and Responsibilities of Research Libraries |url=https://doi.org/10.29242/rli.266.2 |journal=Research Library Issues |issue=266 |pages=7–12 |doi=10.29242/rli.266.2 |issn=1947-4911 |url-access=subscription}}</ref> and the two offices are co-located in the [[Office of the Prime Minister and Privy Council]] building (formerly known as the ''Langevin Block'') directly facing [[Parliament Hill]].
+
+While PMO staff collaborates extensively with PCO officials and the two offices are functionally interdependent of each other, PMO is an autonomous unit not subject to the management authority of PCO's departmental executive leader, the [[Clerk of the Privy Council (Canada)|Clerk of the Privy Council]], who is also the head of the entire [[Public Service of Canada|federal civil service]] workforce.  The following 1971 quote by [[Robert Gordon Robertson|Gordon Robertson]], then Clerk of the Privy Council has been often cited by academic discourse to highlight the distinction of the two offices, and the importance of the proper maintenance of their relationship.<blockquote>"The Prime Minister's Office is partisan, politically oriented, yet operationally sensitive. The Privy Council Office is non-partisan, operationally oriented yet politically sensitive.... What is known in each office is provided freely and openly to the other if it is relevant or needed for its work, but each acts from a perspective and in a role quite different from the other."<ref>{{Cite journal |last=Robertson |first=Gordon |date=1971 |title=The changing role of the Privy Council Office |url=https://doi.org/10.1111/j.1754-7121.1971.tb00295.x |journal=Canadian Public Administration |volume=14 |issue=4 |pages=506 |doi=10.1111/j.1754-7121.1971.tb00295.x |issn=0008-4840 |url-access=subscription}}</ref></blockquote>
+
+==History==
+After [[Jean Chrétien]] became prime minister, the PMO continued to be the central organ of the government. Chrétien greatly depended upon the PMO, especially his chief of staff, [[Jean Pelletier]], who ran the office from 1993 to 2001; [[Percy Downe]], who served as his director of appointments from 1998 to 2001 and chief of staff from 2001 to 2003; and his senior advisor, [[Eddie Goldenberg]], who had spent his entire career working with Chrétien in various ministries. Chrétien's successor, [[Paul Martin]], changed the structure of the PMO to more match that of the [[Executive Office of the President of the United States]]. For example, he introduced deputy chiefs of staff, who were responsible for areas such as communications and policy; re-established the position of director in the offices of the other [[Minister of the Crown|ministers of the Crown]], positions that were previously known as special assistants; and re-established the position of principal secretary, which had originally been created by Pierre Trudeau. Martin further, and significantly, increased the salary of the PMO's staff.
+
+This model was largely retained by Martin's successor, [[Stephen Harper]], despite the recommendations of [[John Gomery]] following his investigation into the [[sponsorship scandal]], in which he concluded the power of the PMO should be reduced,<ref name=gomerygm>{{cite web|title=globeandmail.com: Slash power of PMO, Gomery urges|url=http://v1.theglobeandmail.com/servlet/story/RTGAM.20060202.wxgomery02/BNStory/specialGomery05/|access-date=19 April 2018|website=v1.theglobeandmail.com}}</ref> stating, "the most troubling facts were that this aberration originated in the prime minister's office in the first place and was allowed to continue for so long, despite internal audit reports, investigations, warnings, and complaints by public servants involved in the actual contracts in question."<ref name=gomerygm/>
+
+==References==
+{{Reflist}}
+* J.E. Hodgetts "[https://www.thecanadianencyclopedia.ca/en/article/prime-ministers-office Prime Minister's Office] ''The Canadian Encyclopedia.''
+* McMenemy, John. "Prime Minister's Office." ''The Language of Canadian Politics''.
+* Eddie Goldenberg, ''The Way It Works'' pages 40 to 45.
+
+== External links ==
+* [http://pm.gc.ca/ Office of the Prime Minister]
+* [https://www.youtube.com/user/pmocpm Office of the Prime Minister YouTube channel]
+
+{{Navboxes|list={{CanPM|state=collapsed}}
+{{Lists of Prime Ministers of Canada}}
+{{Cabinet of Canada}}
+{{Canada topics}}
+{{Heads of state and government of North America}}
+{{Prime Minister}}
+}}
+
+{{Authority control}}
+
+[[Category:Office of the Prime Minister (Canada)| ]]
+[[Category:Government of Canada]]
+[[Category:Prime ministers of Canada|*]]
+[[Category:Cabinet departments|Canada]]
+[[Category:Offices of prime ministers|Canada]]

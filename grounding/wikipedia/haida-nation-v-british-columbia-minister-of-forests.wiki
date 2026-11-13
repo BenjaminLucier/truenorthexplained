@@ -1,0 +1,63 @@
+{{Italic title|all=yes}}
+{{SCCInfoBox
+|case-name=Haida Nation v British Columbia (Minister of Forests)
+|full-case-name=
+|heard-date=March 24, 2004
+|decided-date=November 18, 2004
+|citations=[2004] 3 S.C.R. 511, 2004 SCC 73
+|docket=29419
+|history=Judgment for the plaintiffs in the [[British Columbia Court of Appeal]]
+|ruling=The Crown's appeal was dismissed. Weyerhauser Co.'s appeal was allowed.
+|ratio=The Crown has a duty to consult with and accommodate Aboriginal groups with claims to land and Aboriginal rights prior to taking action that may adversely affect those interests. This duty varies according to the strength of the claim and degree of the harm, and cannot be delegated to third parties.
+|SCC=2004-2005
+|Unanimous=McLachlin C.J.C.
+|LawsApplied=[[Delgamuukw v. British Columbia]]
+|italic title=no
+}}
+{{Indigenous Peoples of Canada}}
+'''''Haida Nation v British Columbia (Minister of Forests)''''', [2004] 3 S.C.R. 511 is the leading decision of the [[Supreme Court of Canada]] on the Crown duty to consult Aboriginal groups prior to exploiting lands to which they may have claims.
+
+==Background==
+In 1961, the provincial government of [[British Columbia]] issued a "Tree Farm Licence" (TFL 39) over an area of land to which the [[Haida Nation]] claimed title. This title had not yet been recognized at law. The Haida Nation also claimed an [[Aboriginal land title in Canada|Aboriginal right]] to harvest red cedar in that area. In 1981, 1995, and 2000 the Minister replaced TFL 39; in 1999 the Minister authorized a transfer to [[Weyerhauser]] Co. These actions were performed unilaterally, without consent from or consultation with the Haida Nation. The Haida Nation brought a suit, requesting that the replacement and transfer be set aside.{{Citation needed|date=March 2023}}
+
+The chambers judge found that the Crown was under a moral – but not legal – duty to negotiate with the Haida Nation. The [[British Columbia Court of Appeal]] reversed this decision, deciding that both the Crown and Weyerhauser Co. are under legal obligations to consult with Aboriginal groups whose interests may be affected.
+
+==Judgment of the Court==
+
+Chief Justice [[Beverly McLachlin|McLachlin]], writing for a unanimous court, found that the Crown has a "duty to consult with Aboriginal peoples and accommodate their interests".<ref>''Haida Nation'' at para. 16.</ref> This duty is grounded in the honour of the Crown, and applies even where title has not been proven. The scope of this duty will vary with the circumstances; the duty will escalate proportionately to the strength of the claim for a right or title and the seriousness of the potential effect upon the claimed right or title. However, regardless of what the scope of the duty is determined to be, consultation must always be meaningful.
+
+Where there is a strong ''[[prima facie]]'' case for the claim and the adverse effects of the government's proposed actions impact it in a significant (and adverse) way, the government may be required to accommodate. This may require taking steps to avoid irreparable harm or minimize the effects of the infringement.
+
+Both sides are required to act in good faith throughout the process. The Crown must intend to substantially address the concerns of the Aboriginal group through meaningful consultation, and the Aboriginal group must not attempt to frustrate that effort or take unreasonable positions to thwart it.
+
+On the facts of the case, the Court found that the Haida Nation's claims of title and an Aboriginal right were strong, and that the government's actions could have a serious impact on the claimed right and title. Accordingly, the Crown had a duty to consult the Haida Nation, and likely had a duty to accommodate their interests.
+
+The Crown's duty of good-faith consultation does not extend to third parties, and cannot be delegated to them by the Crown. This is not to say that third parties cannot be liable to Aboriginal groups in negligence, or for dealing with them dishonestly. However, it does mean that the legal obligation of consultation and accommodation is shouldered exclusively by the Crown.
+
+Accordingly, the Crown's appeal was dismissed and Weyerhauser Co.'s appeal was allowed.
+
+== Environmental and Indigenous Justice Perspectives ==
+Through the Haida case, the Supreme Court confirmed that even in the absence of substantive evidence of Aboriginal property rights, the Crown must engage in meaningful consultation.<ref>{{Cite web |title=Haida Nation v. British Columbia (Minister of Forests) - SCC Cases |url=https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/2189/index.do |access-date=2025-10-15 |website=decisions.scc-csc.ca}}</ref>" The Crown's duty to consult with Aboriginal peoples is a procedural duty grounded upon [https://www.constitutionalstudies.ca/2021/08/honour-of-the-crown/ the honour of the Crown], being both legal and constitutional in nature".<ref name=":0">{{Cite web |title=Twenty Years Since Haida: The State of Crown Consultation Today |url=https://cassels.com/insights/twenty-years-since-haida-the-state-of-crown-consultation-today/ |access-date=2025-10-15 |website=Cassels |language=en-US}}</ref> In other words, when the Crown intends to take action that may "adversely affect potential or established Aboriginal or treaty rights", it has a duty to consult with Aboriginal peoples<ref>{{Cite web |title=The Duty to Consult Indigenous Peoples |url=https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/201917E |access-date=2025-10-15 |website=lop.parl.ca}}</ref>.
+
+The duty to consult aims to ensure fair treatment and the pursuit of reconciliation between the Crown and indigenous peoples through a process of good-faith engagement. Post-Haida consultation practices demonstrate that the quality and integrity of consultation are as important as the process itself<ref name=":0" />. lf consultation is framed in advance, conducted without transparency and good faith, or fails to honor commitments, the outcome may constitute flawed consultation<ref name=":0" />. The duty to consult does not grant Aboriginal communities a duty to consent, but the honour of the Crown may bind the Crown to act in good faith and with concern for Aboriginal peoples during consultations<ref>{{Cite web |title=The Duty to Consult {{!}} CanLII Connects |url=https://canliiconnects.org/en/summaries/31413 |access-date=2025-10-15 |website=canliiconnects.org}}</ref>. The tension between procedural obligation and substantive environmental protection remains a critical point of debate in evaluating whether consultation truly advances environmental and indigenous justice.
+
+==References==
+
+<references/>
+
+== Further reading ==
+
+* [[Aboriginal land title in Canada]]
+
+==External links==
+*[http://www.canlii.org/en/ca/scc/doc/2004/2004scc73/2004scc73.html Full text of Supreme Court decision from canlii.org]
+
+{{DEFAULTSORT:Haida Nation V. British Columbia (Minister Of Forests)}}
+[[Category:Supreme Court of Canada cases]]
+[[Category:2004 in Canadian case law]]
+[[Category:2004 in the environment]]
+[[Category:Weyerhaeuser]]
+[[Category:Haida]]
+[[Category:Canadian Aboriginal case law]]
+[[Category:Indigenous peoples of North America and the environment]]
+[[Category:Environmental racism in Canada]]

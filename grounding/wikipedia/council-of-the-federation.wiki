@@ -1,0 +1,233 @@
+{{Short description|Organization of Canada's premiers}}
+{{For|the upper chamber of the Russian parliament|Federation Council of Russia}}
+{{Primary sources|date=December 2024}}
+{{Infobox organization
+| name          = Council of the Federation
+| formation     = {{start date and age|2003}}
+| image         = 2026 Summer Meeting of Canada's Premiers - Canada's Premiers at the News Conference.jpg
+| caption       = 2026 Council Members
+| native_name   = {{langx|fr|Conseil de la fédération|label=none}}
+| headquarters  = 360 Albert Street<br />[[Ottawa]], Ontario, K1R 7X7
+| leader_title  = Chair
+| leader_name   = [[Rob Lantz]]
+| leader_title2 = Vice-Chair
+| leader_name2  = [[R.J. Simpson]]
+| website       = {{URL|canadaspremiers.ca}}
+}}
+{{Politics of Canada}}
+
+The '''Council of the Federation''' ('''COF'''; {{langx|fr|Conseil de la fédération}}) is a multilateral congress composed of the [[Premier (Canada)|premiers]] of each of Canada's [[Provinces and territories of Canada|13 provinces and territories]], which meets at least twice annually.
+
+Its main function is to promote interprovincial-territorial cooperation, collaborate on shared governmental priorities, and ultimately provide a united front amongst the provincial and territorial governments when interacting with [[Government of Canada|Canada's federal government]]. It also promotes "constructive [[Canadian Confederation|Confederation]]", working for Canadian unity, and recognizing differences amongst the various provinces and territories within [[Canadian federalism|Canada's federal system]] of government.
+
+The council meets at least twice a year, with an annual summer conference held in the jurisdiction of the Chair, which rotates annually between premiers; and at least one other meeting at a location determined by the Council. The Council also meets via [[teleconference]] periodically throughout the year.<ref>{{Cite web |title=Province of Manitoba {{!}} Intergovernmental Affairs and International Relations |url=https://www.gov.mb.ca/fpir/fedprov/council.html |access-date=2023-07-15 |website=Province of Manitoba |language=en}}</ref>
+
+==History==
+The idea for a body akin to the Council of the Federation had long been present, but suggestions did not come to fruition until after Quebec premier [[Jean Charest]] raised the concept again during preparation for negotiations with the federal government. The idea was for the first time embraced by all the premiers and the council was formed, its foundation being announced on December 5, 2003, in [[Charlottetown]], Prince Edward Island. This location was significant because Charlottetown was, in 1864, the venue for the [[Charlottetown Conference]] (the first step towards [[Canadian Confederation]]).
+
+The first test of the council's united front occurred between September 13 and 16, 2004, when the premiers met with Prime Minister [[Paul Martin]] to discuss reforms to [[medicare (Canada)|Canada's universal healthcare]] program. The premiers remained united and in the end won $41&nbsp;billion of federal funding for healthcare over the next ten years.
+
+The 2008 meetings of the council took place in [[Quebec City]], which was celebrating its 400th anniversary as a settlement. At the meeting all premiers agreed to amendments to the [[Canadian Agreement on Internal Trade|Agreement on Internal Trade]] to create greater [[labour mobility]] between the provinces and territories, which came into force on January 1, 2009.
+
+The 2009 meetings of the council took place in [[Regina, Saskatchewan]]. The agenda was dominated by economic matters including trade issues with the [[United States]] and formulating a post-recession interprovincial economic strategy.
+
+On February 20, 2010, the council met with their American counterpart, the [[National Governors Association]], in [[Washington, D.C.]], for an hour-long session entitled "Common Border, Common Ground" to talk about issues such as [[environmental policy|environment]] and [[trade]]. Also attending this meeting were [[Lisa P. Jackson]], of the [[United States Environmental Protection Agency]] (EPA), and [[Larry Summers]], U.S. president [[Barack Obama]]'s economic advisor. The Canadian premiers commented on how much more open the [[Obama administration]] was to confronting and solving problems, compared to his predecessor, [[George W. Bush]].<ref>[https://web.archive.org/web/20121021022556/http://www.ctvnews.ca/premiers-meet-u-s-governors-in-washington-1.485416 Premiers meet U.S. governors in Washington], [[The Canadian Press]], February 20, 2010</ref>
+
+===Chairs of the Council of the Federation===
+{{Expand section|with=|date=July 2025}}
+
+{| class="wikitable sortable" style="text-align:left; "
+! colspan="2" | Chair
+! Province/territory
+! Term start
+! Term end
+! Party
+|-
+| {{Canadian party colour|PE|PC|background}} | &nbsp;
+| {{sortname|Rob|Lantz}}
+| {{flagdeco|Prince Edward Island}} [[Premier of Prince Edward Island|Prince Edward Island]]
+| {{dts|February 9, 2026}}
+| 
+| {{Canadian party colour|PE|PC|name}}
+|-
+| {{Canadian party colour|PE|PC|background}} | &nbsp;
+| {{sortname|Bloyce|Thompson}}
+| {{flagdeco|Prince Edward Island}} [[Premier of Prince Edward Island|Prince Edward Island]]
+| December 12, 2025
+| February 9, 2026
+| {{Canadian party colour|PE|PC|name}}
+|-
+| {{Canadian party colour|PE|PC|background}} | &nbsp;
+| {{sortname|Rob|Lantz}}
+| {{flagdeco|Prince Edward Island}} [[Premier of Prince Edward Island|Prince Edward Island]]
+| {{dts|July 23, 2025}}<ref>{{cite web|url=https://news.novascotia.ca/en/2025/07/23/council-federation-meeting-concludes|title=Council of the Federation Meeting Concludes|website=Canada's Premiers|date=July 23, 2025|access-date=September 17, 2025}}</ref>
+| December 12, 2025
+| {{Canadian party colour|PE|PC|name}}
+|-
+| {{Canadian party colour|ON|PC|background}} | &nbsp;
+| {{sortname|Doug|Ford}}
+| {{flagdeco|Ontario}} [[Premier of Ontario|Ontario]]
+| {{dts|August 1, 2024}}<ref>{{cite tweet|url=https://x.com/fordnation/status/1818980089255678395?lang=en|number=1818980089255678395|user=fordnation|date=August 1, 2024|title=I'm honoured to be taking over as chair of the Council of the Federation}}</ref>
+| {{dts|July 23, 2025}}
+| {{Canadian party colour|ON|PC|name}}
+|-
+| {{Canadian party colour|NS|PC|background}} | &nbsp;
+| {{sortname|Tim|Houston}}
+| {{flagdeco|Nova Scotia}} [[Premier of Nova Scotia|Nova Scotia]]
+| {{dts|July 12, 2023}}<ref>{{cite web|url=https://news.novascotia.ca/en/2023/07/12/council-federation-meeting-concludes-premier-houston-becomes-chair|title=Council of the Federation Meeting Concludes, Premier Houston Becomes Chair|author=[[Premier of Nova Scotia|Premier's Office]]|website=[[Government of Nova Scotia|Nova Scotia]]|date=July 12, 2023|access-date=July 23, 2025}}</ref>
+| {{dts|August 1, 2024}}
+| {{Canadian party colour|NS|PC|name}}
+|-
+| {{Canadian party colour|MB|PC|background}} | &nbsp;
+| {{sortname|Heather|Stefanson}}
+| {{flagdeco|Manitoba}} [[Premier of Manitoba|Manitoba]]
+| {{dts|September 27, 2022}}<ref>{{cite web|url=https://canadaspremiers.ca/manitoba-premier-heather-stefanson-to-chair-the-council-of-the-federation/|title=Manitoba Premier Heather Stefanson to Chair the Council of the Federation|website=Canada's Premiers|date=September 27, 2022|access-date=July 23, 2025}}</ref>
+| {{dts|July 12, 2023}}
+| {{Canadian party colour|MB|PC|name}}
+|-
+| {{Canadian party colour|BC|NDP|background}} | &nbsp;
+| {{sortname|John|Horgan}}
+| {{flagdeco|British Columbia}} [[Premier of British Columbia|British Columbia]]
+| {{dts|September 16, 2021}}<ref>{{cite web|url=https://canadaspremiers.ca/premier-john-horgan-to-chair-the-council-of-the-federation/|title=Premier John Horgan to Chair the Council of the Federation|website=Canada's Premiers|date=September 16, 2021|access-date=July 23, 2025}}</ref>
+| {{dts|September 27, 2022}}
+| {{Canadian party colour|BC|NDP|name}}
+|}
+
+==Issues==
+* Healthcare funding and innovation
+* Economic development (especially in the wake of the [[Bovine spongiform encephalopathy]] crisis)
+* Strengthening Confederation (working for provincial input into the selection of [[Senate of Canada|senator]]s and [[Supreme Court of Canada|Supreme Court justice]]s)
+* Reaching out to young Canadians, getting them involved in the political process
+* Helping those affected by emergencies
+* Inter-provincial/territorial trade
+* Water
+
+== Members ==
+{| class="wikitable sortable"
+!colspan="2"| First minister
+! Jurisdiction
+! colspan=2|Party
+! Notes
+|- class="sortbottom"
+! colspan="6" | Provinces – [[Premier (Canada)|Provincial premiers]]
+|-
+| {{Hs|Ford}}[[File:Doug Ford at Building Faster Fund announcement 2024-03-22 02 (cropped).jpg|100px]]
+| {{sortname|Doug|Ford}}
+| [[Ontario]]
+| style="background:{{Canadian party colour|ON|Conservative}}; width: 16px"|
+| {{Hs|Progressive Conservative Ontario}}[[Progressive Conservative Party of Ontario|Progressive Conservative]]
+|
+|-
+| {{Hs|Legault}}[[File:Paul.St-Pierre.Plamondon.cropped.jpg|100px]]
+| {{sortname|Paul|St-Pierre Plamondon}}
+| [[Quebec]]
+| style="background:{{Canadian party colour|QC|PQ}}; width: 16px"|
+| {{Hs|Parti Québécois}}[[Parti Québécois]]
+| 
+|-
+| {{Hs|Houston}} [[File:TimHouston.png|100px]]
+| {{sortname|Tim|Houston}}
+| [[Nova Scotia]]
+| style="background:{{Canadian party colour|NS|PC}}; width: 16px"|
+| {{Hs|Progressive Conservative Nova Scotia}}[[Progressive Conservative Association of Nova Scotia|Progressive Conservative]]
+|
+|-
+| {{Hs|Holt}}[[File:Susan Holt Quispamsis 2024.jpg|100px]]
+| {{sortname|Susan|Holt}}
+| [[New Brunswick]]
+| style="background:{{Canadian party colour|NB|Liberal}}; width: 16px"|
+| {{Hs|Liberal}}[[New Brunswick Liberal Association|Liberal]]
+|
+|-
+| {{Hs|Kinew}}[[File:Wab Kinew in Sept 2024 (cropped).jpg|128x128px]]
+| {{sortname|Wab|Kinew}}
+| [[Manitoba]]
+| style="background:{{Canadian party colour|MB|NDP}}; width: 16px"|
+| {{Hs|New Democratic}}[[New Democratic Party of Manitoba|New Democratic]]
+| 
+|-
+| {{Hs|Eby}}[[File:David Eby - 2022 (52507022370) (cropped).png|100px]]
+| {{sortname|David|Eby}}
+| [[British Columbia]]
+| style="background:{{Canadian party colour|BC|NDP}}; width: 16px"|
+| {{Hs|New Democratic}}[[British Columbia New Democratic Party|New Democratic]]
+| 
+|-
+| {{Hs|Lantz}}[[File:RobLantz2015.jpg|100px]]
+| {{sortname|Rob|Lantz}}
+| [[Prince Edward Island]]
+| style="background:{{Canadian party colour|PE|PC}}; width: 16px"|
+| {{Hs|Progressive Conservative Prince Edward Island}}[[Progressive Conservative Party of Prince Edward Island|Progressive Conservative]]
+| Current chair
+|-
+| {{Hs|Moe}}[[File:Scott Moe at US EPA (cropped).jpg|100px]]
+| {{sortname|Scott|Moe}}
+| [[Saskatchewan]]
+| style="background:{{Canadian party colour|SK|Saskatchewan}}; width: 16px"|
+| {{Hs|Saskatchewan}}[[Saskatchewan Party|Saskatchewan]]
+|
+|-
+| {{Hs|Smith}}[[File:Pete Hoekstra with Danielle Smith June 2025 (cropped(a)).jpg|100px]]
+| {{sortname|Danielle|Smith}}
+| [[Alberta]]
+| style="background:{{Canadian party colour|AB|UCP}}; width: 16px"|
+| {{Hs|United Conservative}}[[United Conservative Party|United Conservative]]
+|
+|-
+| {{Hs|Wakeham}}[[File:Tony Wakeham 2022 (cropped).jpg|100px]]
+| {{sortname|Tony|Wakeham}}
+| [[Newfoundland and Labrador]]
+| style="background:{{Canadian party colour|NL|PC}}; width: 16px"|
+| {{Hs|Progressive Conservative Newfoundland and Labrador}}[[Progressive Conservative Party of Newfoundland and Labrador|Progressive Conservative]]
+|
+|- class="sortbottom"
+! colspan="6" | Territories – Territorial premiers
+|-
+| {{Hs|Simpson}}[[File:R.J. Simpson.jpg|100px]]
+| {{sortname|R.J.|Simpson}}
+| [[Northwest Territories]]
+| style="background:{{Canadian party colour|NT|Coalition}}; width: 16px"|
+| {{Hs|Na}}N/A ([[consensus government]])
+| Current vice-chair
+|-
+| {{Hs|Dixon}}[[File:Currie Dixon.png|100px]]
+| {{sortname|Currie|Dixon}}
+| [[Yukon]]
+| style="background:{{Canadian party colour|YT|Yukon}}; width: 16px"|
+| {{Hs|Yukon}}[[Yukon Party]]
+|
+|-
+| {{Hs|Main}}[[File:Premier John Main at the 2026 Summer Meeting of Canada's Premiers.jpg|100px]]
+| | {{sortname|John|Main|dab=politician}}
+| [[Nunavut]]
+| style="background:{{Canadian party colour|NU|Coalition}}; width: 16px"|
+| {{Hs|Na}}N/A ([[consensus government]])
+|
+|}
+Source:<ref>{{Cite web|title=About|url=https://www.canadaspremiers.ca/about/|access-date=2021-12-14|website=Canada's Premiers|language=en-US}}</ref>
+
+==See also==
+* [[First Ministers' conference]]
+* [[Politics of Canada]]
+* [[Political culture of Canada]]
+* [[National Cabinet (Australia)|National Cabinet]], a similar body in Australia
+* [[National Governors Association]]
+
+==Notes and references==
+{{Notelist}}
+{{Reflist}}
+
+==External links==
+{{Commons}}
+*[https://web.archive.org/web/20041010072421/http://www.councilofthefederation.ca/index.html The Council of the Federation]
+*[https://www.cbc.ca/news/canada/provinces-plan-historic-change-to-federation-1.412287 CBC News: Provinces plan 'historic' change to federation]
+*[http://www.mapleleafweb.com/features/council-federation Maple Leaf Web: Council of the Federation]
+
+{{Politics of Canadian provinces}}
+{{Authority control}}
+
+{{DEFAULTSORT:Council Of The Federation}}
+[[Category:Federalism in Canada]]
+[[Category:Political terminology in Canada]]
+[[Category:Political organizations based in Canada]]
+[[Category:Executive federalism]]

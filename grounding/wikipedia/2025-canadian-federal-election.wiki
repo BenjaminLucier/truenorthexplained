@@ -1,0 +1,1538 @@
+{{Short description|none}}
+{{Use Canadian English|date=April 2025}}
+{{Use mdy dates|date=July 2026}}
+{{Infobox election
+| election_name = 2025 Canadian federal election
+| country = Canada
+| type = parliamentary
+| ongoing = no
+| election_date = {{Start date|2025|4|28}}
+| majority_seats = 172
+| seats_for_election = 343 seats in the [[House of Commons of Canada|House of Commons]]
+| opinion_polls = Opinion polling for the 2025 Canadian federal election
+| previous_year = [[2021 Canadian federal election|2021]]
+| previous_election = [[2021 Canadian federal election]]
+| next_election = 46th Canadian federal election
+| next_year = ''46th''
+| previous_mps = List of House members of the 44th Parliament of Canada
+| elected_mps = List of House members of the 45th Parliament of Canada
+| registered = 28,525,638<ref name="ElectionsCanada2025">{{cite web |title=Election Night Results – National |url=https://enr.elections.ca/National.aspx?lang=e |website=Elections Canada |access-date=June 10, 2025 |archive-date=May 1, 2025 |archive-url=https://web.archive.org/web/20250501002525/https://enr.elections.ca/National.aspx?lang=e |url-status=live}}</ref>
+| turnout = 69.5% ({{increase}} 7.2 [[Percentage point|pp]])<br>19,597,674<ref name="ec_turnout">{{cite web |title=UPDATED: The 45th Federal Election by the Numbers |url=https://www.elections.ca/content.aspx?section=med&dir=pre&document=apr2925&lang=e |date=May 7, 2025 | access-date = May 12, 2025 |website=[[Elections Canada]]}}</ref>
+| image1 = {{CSS image crop|Image = Prime Minister Mark Carney June 2025.jpg|bSize = 140|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 10}}
+| colour1 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader1 = [[Mark Carney]]
+| party1 = {{Canadian party colour|CA|Liberal|name}}
+| leader_since1 = [[2025 Liberal Party of Canada leadership election|March 9, 2025]]
+| leaders_seat1 = [[Nepean (federal electoral district)|Nepean]]{{efn|Not the incumbent but stood for this seat and won}}
+| last_election1 = 160 seats, 32.62%
+| seats_before1 = 152
+| seats1 = '''169'''{{efn|The [[Supreme Court of Canada]] overturned the results in [[Terrebonne in the 2025 Canadian federal election|Terrebonne]] in February 2026, with the [[2026 Terrebonne federal by-election]] being called.<ref name="supreme-court" />}}
+| seat_change1 = {{increase}} 17
+| popular_vote1 = '''8,595,488'''
+| percentage1 = '''43.76%'''
+| swing1 = {{increase}}&nbsp;11.14&nbsp;[[percentage point|pp]]
+
+<!-- Conservative -->| image2 = {{CSS image crop|Image= Pierre Poilievre in 2023 (edited).jpg |bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour2 = {{Canadian party colour|CA|Conservative|nohash}}
+| leader2 = [[Pierre Poilievre]]
+| party2 = {{Canadian party colour|CA|Conservative|name}}
+| leader_since2 = [[2022 Conservative Party of Canada leadership election|September 10, 2022]]
+| leaders_seat2 = [[Carleton (Ontario federal electoral district)|Carleton]]<br >''(lost re-election)''
+| last_election2 = 119 seats, 33.74%
+| seats_before2 = 120
+| seats2 = 144
+| seat_change2 = {{increase}} 24
+| popular_vote2 = 8,113,484
+| percentage2 = 41.31%
+| swing2 = {{increase}}&nbsp;7.57&nbsp;[[percentage point|pp]]
+
+<!-- Bloc Québécois -->| image3 = {{CSS image crop|Image = Yves-François Blanchet Entrevue no smile 2023 (cropped-2).png|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour3 = {{Canadian party colour|CA|BQ|nohash}}
+| leader3 = [[Yves-François Blanchet]]
+| party3 = {{Canadian party colour|CA|BQ|name}}
+| leader_since3 = [[2019 Bloc Québécois leadership election|January 17, 2019]]
+| leaders_seat3 = [[Beloeil—Chambly|Belœil—Chambly]] <!-- The official spelling now uses a ligature -->
+| last_election3 = 32 seats, 7.64%
+| seats_before3 = 33
+| seats3 = 22
+| seat_change3 = {{decrease}} 11
+| popular_vote3 = 1,236,349
+| percentage3 = 6.29%
+| swing3 = {{decrease}}&nbsp;1.35&nbsp;[[percentage point|pp]]
+
+<!-- New Democratic -->| image4 = {{CSS image crop|Image = Jagmeet Singh in Brantford 2022 (cropped).jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| colour4 = {{Canadian party colour|CA|NDP|nohash}}
+| leader4 = [[Jagmeet Singh]]
+| party4 = {{Canadian party colour|CA|NDP|name}}
+| leader_since4 = [[2017 New Democratic Party leadership election|October 1, 2017]]
+| leaders_seat4 = [[Burnaby Central]]{{efn|[[Burnaby South]], which Singh represented before the election, was abolished during the [[2022 Canadian federal electoral redistribution]]; Singh ran for re-election in the new riding of [[Burnaby Central]], which encompasses much of the same territory.}}<br />''(lost re-election)''
+| last_election4 = 25 seats, 17.82%
+| seats_before4 = 24
+| seats4 = 7
+| seat_change4 = {{decrease}} 17
+| popular_vote4 = 1,234,673
+| percentage4 = 6.29%
+| swing4 = {{decrease}}&nbsp;11.53&nbsp;[[percentage point|pp]]
+
+<!-- Green -->| image5 = {{Multiple candidates images|{{CSS image crop|Image = Gord4Guelph Rally Guelph 2015 029 (22333571922).jpg|bSize = 160|cWidth = 60|cHeight = 160|oTop = 0|oLeft = 50}}|{{CSS image crop|Image = Jonathan Pedneault Interview.jpg|bSize = 133|cWidth = 60|cHeight = 160|oTop = 0|oLeft = 30}}}}
+| colour5 = {{Canadian party colour|CA|Green|nohash}}
+| leader5 = [[Elizabeth May]] & [[Jonathan Pedneault]]
+| party5 = {{Canadian party colour|CA|Green|name}}
+| leader_since5 = [[2022 Green Party of Canada leadership election|November 19, 2022]] /<br />[[2025 Green Party of Canada co-leadership election|February 4, 2025]]
+| leaders_seat5 = [[Saanich—Gulf Islands]] /<br />''Ran in [[Outremont (electoral district)|Outremont]]<br />(lost)''
+| last_election5 = 2 seats, 2.33%
+| seats_before5 = 2
+| seats5 = 1
+| seat_change5 = {{decrease}} 1
+| popular_vote5 = 238,892
+| percentage5 = 1.22%
+| swing5 = {{decrease}}&nbsp;1.11&nbsp;[[percentage point|pp]]
+| map = {{Switcher
+| [[File:Canada Election 2025 Results Map.svg|400px]]
+| Results by electoral district, shaded by winners' vote share
+| [[File:2025_Canadian_Federal_Election_Results_Map_Gains.svg|400px]]
+| Results by electoral district, holds and gains
+| [[File:Canada_2025_Federal_Election.svg|400px]]
+| Results by province and territory}}
+| title = Prime Minister
+| posttitle = Prime Minister after election
+| before_election = [[Mark Carney]]
+| before_party = {{Canadian party colour|CA|Liberal|name}}
+| after_election = [[Mark Carney]]
+| after_party = {{Canadian party colour|CA|Liberal|name}}
+}}
+
+The '''2025 Canadian federal election''' was held on April 28, 2025, to elect members to the [[House of Commons of Canada|House of Commons]] of the [[45th Canadian Parliament]]. [[Governor General of Canada|Governor General]] [[Mary Simon]] dropped the [[writs of election]] on March 23, 2025,<ref name="gaz1">{{cite news |url=https://gazette.gc.ca/rp-pr/p2/2025/2025-03-24-x3/html/si-tr58-eng.html |title=Canada Gazette, Part 2, Volume 159, Number 3: Proclamation Issuing Election Writs |date=March 24, 2025}}</ref> after Prime Minister [[Mark Carney]] advised her to [[Dissolution of Parliament in Canada|dissolve Parliament]]. This was the first election to use a new [[2022 Canadian federal electoral redistribution|343-seat electoral map]] based on the [[2021 Canadian census|2021 census]]. Key issues of the election campaign included the [[cost of living]], housing, crime, [[Tariffs in the second Trump administration|U.S. tariffs against Canadian exports]], and [[American expansionism under Donald Trump|threats of annexation]] made by U.S. president [[Donald Trump]].<ref>{{cite news |last=Stevis-Gridneff |first=Matina |date=April 28, 2025 |title=What's at Stake in Canada's Elections? The Key Issues for Voters |url=https://www.nytimes.com/2025/04/28/world/canada/canada-election-issues-voters.html |access-date=April 29, 2025 |work=The New York Times |issn=0362-4331}}</ref>
+
+The [[Liberal Party of Canada|Liberal Party]] won a fourth term, emerging with a [[minority government]] for a third consecutive election.<ref>{{cite web |last=Cecco |first=Leyland |date=April 29, 2025 |title=Canada's liberal party, led by Mark Carney, secures election victory after dramatic reversal of fortune |url=https://www.theguardian.com/world/2025/apr/29/canada-election-result-liberal-win-mark-carney-anti-trump |access-date=May 1, 2025 |website=The Guardian}}</ref><ref>{{cite web |last=Schmunk |first=Rhianna |date=April 29, 2025 |title=Canada election: Liberals will form next government, CBC News projects |url=https://www.cbc.ca/news/politics/livestory/canada-election-liberals-will-form-next-government-cbc-news-projects-9.6738893 |access-date=May 1, 2025 |website=CBC News }}</ref><ref>{{cite web |date=April 29, 2025 |title=Carney's Liberals beat Conservatives, CTV News declares, will form minority government |url=https://www.ctvnews.ca/politics/article/canadians-give-liberals-4th-mandate-as-carney-leads-party-to-minority-win/ |access-date=April 29, 2025 |website=CTV News}}</ref> The election marked the first time they won the popular vote [[2015 Canadian federal election|since 2015]], doing so with the highest vote share for any party in a federal election [[1984 Canadian federal election|since 1984]], and their own highest vote share [[1980 Canadian federal election|since 1980]].<ref name=":1" /> The party's victory came after a substantial rebound in the polls, noted as being "one of the widest on record in any democracy".<ref name="The Economist 2025" /> The election also saw the highest turnout [[1993 Canadian federal election|since 1993]], with 69.5% of Canada's 28{{nbsp}}million eligible voters casting a ballot.<ref name=":6" />
+
+Both the Liberal Party and the [[Conservative Party of Canada|Conservative Party]] improved upon their vote share and seat count [[2021 Canadian federal election|from 2021]], while the other parties all lost ground; this was the most concentrated the popular vote had been in support of the top two parties [[1958 Canadian federal election|since 1958]], with over 85% voting Liberal or Conservative.<ref name=":0">{{Cite web |title=Résultats Canada - 3795 Election Politique Citoyen |url=https://www.election-politique.com/resultats.php?num=3795&k=CA&kr=&pol=p2 |access-date=May 28, 2025 |website=www.election-politique.com}}</ref> Consequently, the election delivered the [[New Democratic Party]] (NDP) their worst result in its history, as it received just over six percent of the popular vote and only won seven seats. As a result, the NDP lost [[official party status]] for the first time since 1993.<ref>{{cite web |last1=Trinh |first1=Judy |title=Orange crushed: What's next for the NDP |date=April 30, 2025 |url=https://www.ctvnews.ca/federal-election-2025/article/orange-crushed-whats-next-for-the-ndp/ |work=CTV |access-date=April 30, 2025}}</ref> The concentration of support for the two major parties was identified by commentators as marking a polarization in Canadian politics and a shift towards a [[two-party system]].<ref name="Blanchfield & Djuric 2025" /><ref name="Rudderhma 2025" />
+
+The result was a reversal of polling trends lasting from mid-2023 to January 2025, which had led to projections of the Conservatives winning in a landslide.<ref>{{Cite news |last=Coletta |first=Amanda |date=April 29, 2025 |title=In stunning comeback, Carney's Liberals win Canada's federal election |url=https://www.washingtonpost.com/world/2025/04/28/canada-election-results-carney-win-liberals-trump/ |access-date=April 30, 2025 |newspaper=The Washington Post|issn=0190-8286}}</ref> Carney's [[2024–2025 Canadian political crisis|replacement]] of [[Justin Trudeau]] as [[Leader of the Liberal Party of Canada|leader of the Liberal Party]] played a key role in the turnaround. With his extensive experience as a central banker and his perceived competence, Carney was seen as better equipped to handle the [[2025–2026 Canada–United States trade war|trade war launched by the U.S.]] and other major economic issues.<ref>{{cite web |title=A stunning reversal of fortunes in Canada's historic election |url=https://www.bbc.co.uk/news/articles/c78jv246n91o |website=BBC News |date=April 27, 2025 |access-date=May 1, 2025}}</ref><ref>{{cite web |last1=Micek |first1=John L. |title='Trump wanted to break us,' Canadian leader says after stunning turnaround victory |url=https://www.masslive.com/politics/2025/04/trump-wanted-to-break-us-canadian-leader-says-after-romping-to-victory.html |website=Masslive|date=April 29, 2025 |access-date=May 1, 2025}}</ref> Two sitting party leaders failed to win re-election to their parliamentary seats: [[Pierre Poilievre]] of the Conservative Party and [[Jagmeet Singh]] of the NDP.<ref name="cbc_2025results">{{Cite web |title=Get live results from the Canadian federal election |url=https://newsinteractives.cbc.ca/elections/federal/2025/results/ |access-date=April 29, 2025 |website=CBC News}}</ref><ref>{{cite news |last1=Hauen |first1=Jack |last2=Cross |first2=Jessica |title=Jagmeet Singh loses seat, resigns on disastrous night for NDP |url=https://www.elliotlaketoday.com/2025-federal-election-news/jagmeet-singh-loses-seat-resigns-on-disastrous-night-for-ndp-10585278 |access-date=April 29, 2025 |agency=Elliot Lake Today |date=April 29, 2025}}</ref> Poilievre had held his riding of Carleton since 2004, and his defeat was regarded as a significant setback for the Conservatives; he was the first Conservative leader to lose their seat since [[Kim Campbell]] in 1993.
+
+==Background==
+The [[2021 Canadian federal election]], held on September 20, 2021, saw only minor changes from the preceding [[2019 Canadian federal election|2019 election]].<ref name="NYT 2021">{{cite news |date=September 24, 2021 |orig-date=September 21, 2021 |title=Justin Trudeau to Remain Prime Minister of Canada |url=https://www.nytimes.com/live/2021/09/20/world/canada-election-2021 |url-status=live |archive-url=https://web.archive.org/web/20220111083150/https://www.nytimes.com/live/2021/09/20/world/canada-election-2021 |archive-date=January 11, 2022 |access-date=September 21, 2021 |work=[[The New York Times]]}}</ref> The incumbent [[Liberal Party of Canada|Liberal Party]], led by Prime Minister [[Justin Trudeau]], did not win the popular vote and failed to win enough seats to gain a parliamentary majority, winning only a plurality of seats and retaining its status as a minority government. The [[Conservative Party of Canada|Conservative Party]] won the popular vote and continued as the [[Official Opposition (Canada)|Official Opposition]].<ref>{{Cite news |date=September 21, 2021 |title=Canada: Trudeau's Liberals win minority government, CBC projects |work=[[Al Jazeera Media Network|Al Jazeera]] |url=https://www.aljazeera.com/news/2021/9/21/canada-trudeau-liberals-to-form-government-cbc-projects |access-date=September 21, 2021 |archive-date=September 21, 2021 |archive-url=https://web.archive.org/web/20210921024819/https://www.aljazeera.com/news/2021/9/21/canada-trudeau-liberals-to-form-government-cbc-projects |url-status=live}}</ref>{{efn|name=LPC seat count|While formal results showed the Liberals winning 160 seats, those totals include [[Kevin Vuong]], who was disavowed during the campaign by his party, and sat as an independent in the House of Commons from 2021 to 2025.}} In March 2022, the Liberals struck a deal with the fourth-place [[New Democratic Party]] (NDP), where the latter would [[Liberal–NDP confidence and supply agreement|provide confidence and supply]] for the duration of the Parliament in exchange for certain policy concessions.<ref>{{Cite news |last=Zimonjic |first=Peter |date=March 22, 2022 |title=How the Liberal-NDP agreement will work and what it might mean for Canadians |url=https://www.cbc.ca/news/politics/trudeau-singh-how-it-will-work-1.6393710 |access-date=March 28, 2025 |work=[[CBC News]]}}</ref> The agreement lasted until September 2024, when the NDP terminated the deal.<ref>{{Cite web |last1=Boynton |first1=Sean |last2=Piper |first2=Jillian |date=September 4, 2024 |title=NDP pulls out of supply-and-confidence deal with Liberal government |url=https://globalnews.ca/news/10732510/ndp-pulls-out-of-liberal-deal/ |access-date=March 28, 2025 |website=[[Global News]]}}</ref>
+
+One week after the 2021 election, on September 27, [[Annamie Paul]] resigned as the [[Green Party of Canada|Green Party]] leader, citing lack of party support.<ref>{{Cite news |last=Tasker |first=John Paul |date=September 27, 2021 |title=Annamie Paul is stepping down as Green Party leader |work=[[CBC News]] |url=https://www.cbc.ca/news/politics/annamie-paul-stepping-down-green-leader-1.6190793 |access-date=September 27, 2021}}</ref> The [[2022 Green Party of Canada leadership election|subsequent leadership election]] was won by former leader [[Elizabeth May]], who ran on a "joint ticket" with [[Jonathan Pedneault]], proposing a co-leadership model; Pedneault was officially named the deputy leader, pending a change to the party's constitution to allow co-leadership.<ref name=":2" /> May and Pedneault formally became co-leaders on February 4, 2025.<ref name=":3" />
+
+On February 2, 2022, Conservative leader [[Erin O'Toole]] was removed as leader by a caucus vote.<ref name=":4" /> Following [[2022 Conservative Party of Canada leadership election|a leadership election]], [[Pierre Poilievre]] was elected the new leader of the Conservative Party.<ref name=":5" />
+
+Because of the decennial redrawing of riding boundaries, many MPs were running in districts that had changed.<ref>{{cite web |date=March 23, 2025 |title=Redistribution of Federal Electoral Districts 2022 |url=https://www.elections.ca/content.aspx?section=res&dir=cir/red&document=index&lang=e |access-date=May 1, 2025 |website=Elections Canada}}</ref><ref>{{cite news |date=March 23, 2025 |title=Redrawn ridings could give Conservatives an advantage, say pollsters |url=https://www.ctvnews.ca/politics/article/redrawn-ridings-could-give-conservatives-an-advantage-say-pollsters/ |access-date=May 1, 2025 |agency=The Canadian Press |via=CTV News}}</ref>
+
+=== Government transition ===
+{{main|2024–2025 Canadian political crisis|2025 Liberal Party of Canada leadership election}}
+Despite low government approval ratings and a large polling lead for the opposition Conservatives{{snd}}linked to an ongoing cost of living crisis{{snd}}Trudeau had insisted he would lead the Liberals into the next general election, and attempt to win a fourth consecutive term. Despite his commitment to seek re-election, pressure on Trudeau to step aside had been mounting from the Liberal caucus after [[by-election]] losses in [[Safe seat|safe]] Liberal seats.<ref>{{Cite news |agency=Associated Press |date=October 24, 2024 |title=Justin Trudeau insists he will lead Liberals into next election amid dissent |url=https://www.theguardian.com/world/2024/oct/24/justin-trudeau-election-liberal-party |access-date=April 24, 2025 |work=The Guardian|issn=0261-3077}}</ref>
+
+On December 16, 2024, the government was plunged into a [[political crisis]] when finance minister [[Chrystia Freeland]] abruptly resigned, only hours before she was set to present the government's fall economic statement.<ref name="cbc_17411380">{{Cite web |last=Tasker |first=John Paul |date=December 16, 2024 |title=Chrystia Freeland resigns from Trudeau's cabinet and sources say Dominic LeBlanc will replace her |url=https://www.cbc.ca/news/politics/chrystia-freeland-resigns-from-trudeau-s-cabinet-and-sources-say-dominic-leblanc-will-replace-her-1.7411380 |website=CBC News}}</ref> The resignation was seen as a clear rebuke of the prime minister from one of his most loyal allies, and sent shockwaves throughout Canadian politics.<ref>{{Cite news |last=Bowden |first=Olivia |date=December 16, 2024 |title=Canada's deputy PM resigns from cabinet as tensions with Trudeau rise over Trump tariffs |url=https://www.theguardian.com/world/2024/dec/16/chrystia-freeland-resigns-canada-trump |access-date=April 24, 2025 |work=The Guardian|issn=0261-3077}}</ref> Trudeau, who had already faced down a caucus revolt in October, was faced with renewed questions about his leadership.<ref>{{Cite news |last=Tasker |first=John Paul |date=December 16, 2024 |title=Trudeau faces frustrated MPs after Chrystia Freeland's shock resignation |url=https://www.cbc.ca/news/politics/trudeau-faces-frustrated-mps-after-chrystia-freeland-s-shock-resignation-1.7411380 |access-date=March 28, 2025 |work=[[CBC News]]}}</ref> By December 22, 21 Liberal MPs had publicly called for Trudeau to step down.<ref>{{Cite news |last=Maharaj |first=Mayson |date=December 22, 2024 |title=Most Liberals in caucus want Trudeau to go, says longtime loyalist |url=https://www.cbc.ca/news/politics/liberal-mp-majority-trudeau-resign-1.7417503 |access-date=March 28, 2025 |work=[[CBC News]]}}</ref> On January 6, 2025, Trudeau announced his intention to resign as prime minister after the party elected his successor.<ref>{{cite news |date=January 6, 2025 |title=Justin Trudeau promises to resign as prime minister and Liberal leader after leadership race |url=https://www.thestar.com/politics/federal/justin-trudeau-promises-to-resign-as-prime-minister-and-liberal-leader-after-leadership-race/article_5c5ba5ec-cc34-11ef-88f1-577060db4a8c.html |access-date=January 6, 2025 |work=Toronto Star}}</ref> The ensuing leadership election was won by [[Mark Carney]], former [[governor of the Bank of Canada]] and [[governor of the Bank of England]].<ref>{{Cite web |last1=Aiello |first1=Rachel |last2=Nersessian |first2=Mary |last3=Hahn |first3=Phil |date=March 9, 2025 |title=Results are in, Mark Carney wins Liberal leadership race. Follow for live updates. |url=https://www.ctvnews.ca/politics/article/new-threats-demand-new-ideas-mark-carney-addresses-liberals-after-landslide-win-recap-full-event/ |access-date=March 9, 2025 |website=CTVNews}}</ref> Carney was sworn in as prime minister on March 14, becoming the first prime minister to have never held elected public office prior to their appointment.<ref>{{cite web |last=Tunney |first=Catharine |date=March 9, 2025 |title=In landslide win, Liberal Party chooses Mark Carney as new leader and next PM |url=https://www.cbc.ca/news/politics/liberal-pary-leadership-winner-1.7476359 |url-status=live |archive-date=March 14, 2025 |archive-url=https://web.archive.org/web/20250314202958/https://www.cbc.ca/news/politics/liberal-pary-leadership-winner-1.7476359 |access-date=April 29, 2025 |website=[[CBC News]]}}</ref><ref>{{cite news |url=https://www.reuters.com/world/americas/mark-carney-be-sworn-canadian-prime-minister-now-must-face-trump-2025-03-14/ |title=Mark Carney sworn in as Canada's prime minister, says he can work with Trump |last1=Mukherjee |first1=Promit |last2=Ljunggren |first2=David |date=March 14, 2025 |work=Reuters |access-date=April 29, 2025}}</ref>
+
+The crisis occurred against the backdrop of [[Donald Trump]]'s victory in the [[2024 United States presidential election]] and his threats to impose sweeping tariffs on Canada. Disagreements over how to handle this threat were seen as being a contributor to the Trudeau ministry's collapse.<ref>{{Cite web |date=December 17, 2024 |title=Trudeau in peril after spat over Trump threat sparks crisis |url=https://www.bbc.com/news/articles/c5y49ym6em3o |access-date=April 24, 2025 |website=BBC}}</ref><ref>{{Cite web |date=January 7, 2025 |title=Trump's trolling and tariffs sped up Trudeau's demise. How will Canada handle him now? |url=https://www.nbcnews.com/news/world/trumps-trolling-tariffs-sped-trudeaus-demise-will-canada-handle-now-rcna186516 |access-date=April 24, 2025 |website=NBC News}}</ref> However, the [[Second presidency of Donald Trump|Trump administration]]'s conduct soon sparked a political revival for the Liberals, with [[2025 United States trade war with Canada and Mexico|the ensuing trade war]], along with [[Movements for the annexation of Canada to the United States#Proposals to annex Canada by President Donald Trump|Trump's threats to annex Canada]], greatly reducing the Liberals' polling gap with the Conservatives.<ref>{{Cite web |date=March 9, 2025 |title=How Trump's threats revived Justin Trudeau's Liberal Party in Canada |url=https://www.bbc.com/news/articles/cd7eyz3yn5do |access-date=April 24, 2025 |website=BBC}}</ref> By the time Carney was sworn in as prime minister, the polling gap had been eliminated altogether and the Liberals were in the lead, putting them in striking distance of a majority government. The scale of their political turnaround was described by analysts as having "little precedent" in Canadian history.<ref>{{Cite news |last=Cecco |first=Leyland |date=March 18, 2025 |title=Canada's Liberals on course for political resurrection amid trade war, polls show |url=https://www.theguardian.com/world/2025/mar/18/canada-liberals-polls-mark-carney |access-date=April 24, 2025 |work=The Guardian|issn=0261-3077}}</ref>
+
+=== Date of the election ===
+{{See also|Electoral Participation Act#Movement of fixed election date}}
+
+Under the [[Fixed election dates in Canada|fixed-date provisions]] of the ''[[Canada Elections Act]]'', which requires federal elections to be held on the third Monday in October in the fourth calendar year after the polling day of the previous election, the election was scheduled to take place on October 20, 2025.<ref name="C1622">{{cite web |date=May 3, 2007 |title=An Act to amend the Canada Elections Act |url=https://www.parl.ca/documentviewer/en/39-1/bill/C-16/third-reading/page-27?col=2 |archive-url=https://web.archive.org/web/20240626012317/https://www.parl.ca/documentviewer/en/39-1/bill/C-16/third-reading/page-27?col=2 |archive-date=June 26, 2024 |archive-format=PDF |access-date=June 25, 2024 |publisher=LegisINFO }}</ref> However, elections can occur before the scheduled date if the [[Governor general of Canada|governor general]] dissolves Parliament on the recommendation of the prime minister, either for a [[List of snap elections in Canada|snap election]] or after the government loses a vote on a [[Loss of supply|supply bill]] or a specific [[motion of no confidence]].<ref name="MajandMin">{{Cite web |title=Majority and Minority Governments |url=https://learn.parl.ca/understanding-comprendre/en/how-parliament-works/majority-and-minority-governments/ |access-date=March 30, 2025 |website=Parliament of Canada}}</ref>
+
+On March 20, 2024, the government introduced the ''[[Electoral Participation Act]]'', which included an amendment to the ''Canada Elections Act'' that would have changed the fixed election date to October 27, 2025, to avoid conflicting with [[Diwali]], as well as [[2025 Alberta municipal elections|municipal elections in Alberta]].<ref>{{cite Hansard |jurisdiction=Canada |title=Canada Elections Act |url=https://www.ourcommons.ca/Content/House/441/Debates/292/HAN292-E.PDF |house=[[House of Commons of Canada]] |date=March 20, 2024 |page=21765}}</ref><ref name="Leblanc">{{cite web |url=https://www.newswire.ca/news-releases/minister-leblanc-introduces-legislation-to-further-strengthen-canada-s-electoral-process-863933578.html |title=Minister LeBlanc introduces legislation to further strengthen Canada's electoral process |publisher=CNW | access-date=March 22, 2024 |date=March 20, 2024}}</ref> The bill died on the [[Order Paper|order paper]] when the Parliament of Canada was [[Prorogation in Canada|prorogued]] by Prime Minister Justin Trudeau after he announced his resignation.<ref>{{Cite news |last=Smith |first=Dale |date=January 14, 2025 |title=Death on the order paper |url=https://nationalmagazine.ca/en-ca/articles/law/hot-topics-in-law/2025/death-on-the-order-paper |access-date=March 30, 2025 |work=National Magazine}}</ref>
+
+On March 23, 2025, after a request from Prime Minister Mark Carney, the governor general dissolved parliament and called an election for April 28, 2025.<ref>{{Cite web |title=Canada election live: Canadian PM Mark Carney calls snap election |url=https://www.bbc.co.uk/news/live/cwyd2x7xxwet |access-date=March 23, 2025 |website=BBC News}}</ref> The date fixed for the return of the writs by the Chief Electoral Officer was May 19, 2025.<ref name="gaz1" />
+
+===Political parties and standings===
+{{See also|List of federal political parties in Canada}}
+
+The table below lists parties represented in the [[House of Commons of Canada|House of Commons]] after the [[2021 Canadian federal election|2021 federal election]] and their current standings. [[Kevin Vuong]], despite being elected as a Liberal, was disavowed by the party too late to alter his affiliation on the ballot and served out his term as an [[Independent politician|independent]].<ref>{{Cite news |date=September 23, 2021 |title=Expelled by Liberals, Kevin Vuong wins Toronto riding and says he will keep the seat|work=National Post |url=https://nationalpost.com/news/politics/election-2021/kevin-vuong-spadina-fort-york |access-date=September 24, 2021}}</ref>
+{| class="wikitable"
+! colspan="2" rowspan="2" |Name
+! rowspan="2" |Ideology
+! rowspan="2" |Position
+! rowspan="2" |Leader(s)
+! colspan="2" |2021 result
+! rowspan="2" |Standing before election
+|-
+!Votes (%)
+!Seats
+|-
+|style="background:{{Canadian party colour|CA|Liberal}};" |
+|[[Liberal Party of Canada|Liberal]]
+|[[Liberalism in Canada|Liberalism]]<br>[[Social liberalism]]
+|[[Centrism|Centre]] to<br/>[[Centre-left politics|centre-left]]
+|[[Mark Carney]]
+|{{percentage bar|32.62|c={{Canadian party colour|CA|Liberal}}}}
+|{{Composition bar|160|338|{{Canadian party colour|CA|Liberal}}}}
+|{{Composition bar|152|338|{{Canadian party colour|CA|Liberal}}}}
+|-
+| style="background:{{Canadian party colour|CA|Conservative}};" |
+|[[Conservative Party of Canada|Conservative]]
+|[[Conservatism in Canada|Conservatism]]<br>[[Economic liberalism]]
+|{{Nowrap|[[Centre-right politics|Centre-right]]<br/>to [[Right-wing politics|right-wing]]}}
+|[[Pierre Poilievre]]
+|{{percentage bar|33.74|c={{Canadian party colour|CA|Conservative}}}}
+|{{Composition bar|119|338|{{Canadian party colour|CA|Conservative}}}}
+|{{Composition bar|120|338|{{Canadian party colour|CA|Conservative}}}}
+|-
+| style="background:{{Canadian party colour|CA|BQ}};" |
+|[[Bloc Québécois]]
+|{{Nowrap|[[Quebec nationalism]]<br>[[Quebec sovereignty movement|Quebec sovereigntism]]<br>[[Social democracy]]}}
+|[[Centre-left politics|Centre-left]]
+|{{Nowrap|[[Yves-François Blanchet]]}}
+|{{percentage bar|7.64|c=#87CEFA}}
+|{{Composition bar|32|338|#87CEFA}}
+|{{Composition bar|33|338|#87CEFA}}
+|-
+| style="background:{{Canadian party colour|CA|NDP}};" |
+|{{Nowrap|[[New Democratic Party|New Democratic]]}}
+|[[Social democracy]]
+|[[Centre-left politics|Centre-left]]<br/>to [[Left-wing politics|left-wing]]
+|[[Jagmeet Singh]]
+|{{percentage bar|17.82|c={{Canadian party colour|CA|NDP}}}}
+|{{Composition bar|25|338|{{Canadian party colour|CA|NDP}}}}
+|{{Composition bar|24|338|{{Canadian party colour|CA|NDP}}}}
+|-
+| style="background:{{Canadian party colour|CA|Green}};" |
+|[[Green Party of Canada|Green]]
+|[[Green politics]]
+|<!--Please do NOT add any political position claims here until there is a consensus on the party's talk page with supporting citations from reliable sources.-->
+| [[Elizabeth May]] &<br/>[[Jonathan Pedneault]]
+|{{percentage bar|2.33|c={{Canadian party colour|CA|Green}}}}
+|{{Composition bar|2|338|{{Canadian party colour|CA|Green}}}}
+|{{Composition bar|2|338|{{Canadian party colour|CA|Green}}}}
+|-
+| style="background:{{Canadian party colour|CA|Independent}};" |
+|[[Independent politician#Canada|Independents]]
+| colspan="3" style="text-align:center;" |N/A
+|{{percentage bar|0.19|c={{Canadian party colour|CA|Green}}}}
+|{{Composition bar|0|338|{{Canadian party colour|CA|Independent}}}}
+|{{Composition bar|3|338|{{Canadian party colour|CA|Independent}}}}
+|-
+| style="background:{{Canadian party colour|CA|Other}};" |
+|Vacant
+| colspan="5" style="text-align:center;" |N/A
+|{{Composition bar|4|338|{{Canadian party colour|CA|Vacant}}}}
+|}
+
+===Electoral system===
+Canada's [[electoral system]], a "[[first-past-the-post]]" system, is formally referred to as a single-member plurality system. Voters select a representative nominated for their [[Electoral district (Canada)|electoral district]] (sometimes referred to as a ''riding''), and the candidate with more votes than any other candidate is elected to a seat in the 343-member House of Commons and represents that riding as its [[member of parliament]] (MP). The party that wins the most seats in the House of Commons usually forms government, with that party's leader becoming [[Prime Minister of Canada|prime minister]]. The largest party by seat count that is not the government or part of a governing coalition becomes the Official Opposition. That party receives more finances and privileges than the other opposition parties.<ref>{{cite web |title=The Official Opposition in the Canadian House of Commons |first=Jay |last=Makarenko |date=January 30, 2008 |website=re:politics |url=https://repolitics.com/features/the-official-opposition-in-the-canadian-house-of-commons/ |access-date=March 27, 2025 |archive-url=https://web.archive.org/web/20250515184521/https://repolitics.com/features/the-official-opposition-in-the-canadian-house-of-commons/ |archive-date=May 15, 2025 |url-status=dead}}</ref><ref>{{cite web |title=Selection and Role of Canada's Official Opposition |first=Susan |last=Munroe |date=February 27, 2019 |website=ThoughtCo |url=https://www.thoughtco.com/official-opposition-508467 |access-date=March 27, 2025}}</ref>
+
+An absolute [[majority]] of the votes cast is not needed to form government and is rarely achieved by any single party. Additionally, the government party does not need to obtain a majority of the seats in the House of Commons; under the current multi-party system, it is common for the government party to lack a majority. However, to pass bills, the governing party must have support of a majority of MPs. Without majority support, the government [[motion of no confidence|can be defeated]], then a new party is named government or an election has to be held.<ref name="MajandMin" />
+
+====Redistribution====
+{{main|2022 Canadian federal electoral redistribution}}
+
+[[File:Canada Election 2021 Results Map (New Boundaries).svg|thumb|250x250px|The transposed results of the 2021 election, if they had taken place under the 2023 Representation Order<br>({{Canadian federal electoral districts (2023) interactive map with 2021 election notional results}})]]
+This was the first election contested under the new electoral districts established in the 2022 redistribution. Consequently, media outlets tend to report seat gains and losses as compared to [[Notional election results|notional results]]. These are the results if all votes cast in 2021 were unchanged but regrouped by new electoral district boundaries, as published by [[Elections Canada]].<ref>{{cite web |url=https://www.elections.ca/res/rep/tra/2023rep/tra_2023_a_e.pdf |title=Transposition of Votes from the 44th General Election to the 2023 Representation Orders |date=April 2024 |website=elections.ca |publisher=[[Elections Canada]] |access-date=April 10, 2024}}</ref>
+
+{| class="wikitable" style="text-align:right;"
+|+ 2021 results transposed onto 2023 boundaries
+|-
+! colspan="2" rowspan="2" class=unsortable style="text-align: center; vertical-align: middle; width: 150px;"| Party
+! colspan="3" style="vertical-align: top;" | MPs
+|-
+! data-sort-type=number style="width: 100px;" | 2021 actual result
+! data-sort-type=number style="width: 100px;" | 2021 notional result
+! data-sort-type=number style="width: 50px;" | Change
+|-
+| style="background:{{Canadian party colour|CA|Liberal}};"| || style="text-align:left" | {{Canadian party colour|CA|Liberal|name}} || 160|| 157|| {{decrease}} 3
+|-
+| style="background:{{Canadian party colour|CA|Conservative}};"| || style="text-align:left" | {{Canadian party colour|CA|Conservative|name}} || 119|| 126|| {{increase}} 7
+|-
+| style="background:{{Canadian party colour|CA|BQ}};"| || style="text-align:left" | {{Canadian party colour|CA|BQ|name}} || 32|| 34|| {{increase}} 2
+|-
+| style="background:{{Canadian party colour|CA|NDP}};"| || style="text-align:left" | {{Canadian party colour|CA|NDP|name}} || 25|| 24|| {{decrease}} 1
+|-
+| style="background:{{Canadian party colour|CA|Green}};"| || style="text-align:left" | {{Canadian party colour|CA|Green|name}} || 2|| 2|| {{steady}}
+|-
+| style="text-align: left;" colspan="2"|'''Total seats''' 
+| '''338'''
+| '''343'''
+| '''5''' {{increase}}
+|}
+
+=== Incumbents not standing for re-election===
+{{main|List of MPs who stood down at the 2025 Canadian federal election}}
+
+{| align=right class=wikitable style="text-align:right"
+! colspan="2" rowspan="2"| Party 
+! colspan="2"| MPs retiring
+|-
+! 2021 election{{efn|name=RetiringAsElected|Party affiliation of retiring MPs at the time of the 2021 federal election}}
+! At dissolution 
+|-
+| style="background:{{Canadian party colour|CA|Liberal}};"| || style="text-align:left" | {{Canadian party colour|CA|Liberal|name}} || 40 || 38
+|-
+| style="background:{{Canadian party colour|CA|Conservative}};"| || style="text-align:left" | {{Canadian party colour|CA|Conservative|name}} || 13 || 12
+|-
+| style="background:{{Canadian party colour|CA|NDP}};"| || style="text-align:left" | {{Canadian party colour|CA|NDP|name}} || 4 || 4
+|-
+| style="background:{{Canadian party colour|CA|BQ}};"| || style="text-align:left" | {{Canadian party colour|CA|BQ|name}} || 4 || 4
+|-
+| {{Party name with colour|Independent politician}} || 0 || 3
+|-
+| colspan="2" style="text-align:left"| '''Total''' 
+| 60
+| 60
+|}
+
+Sixty [[Member of Parliament (Canada)|MPs]] announced that they would not run in the 2025 federal election. One MP lost their party nomination race to run again. One MP had their candidacy revoked by their party and was barred from running under its banner. Four MPs announced their intention not to stand again but later resigned from Parliament before the election.<ref>{{Cite web |date=July 24, 2023 |title=Liberal minister Carolyn Bennett announces she will not stand for re-election |url=https://www.ctvnews.ca/politics/article/liberal-minister-carolyn-bennett-announces-she-will-not-stand-for-re-election/ |access-date=July 24, 2023 |website=CTVNews}}</ref><ref>{{cite web |first=Adam |last=Zivo|url=https://nationalpost.com/opinion/carolyn-bennetts-exit-is-good-news-in-the-fight-against-opioid-diversion |title=Adam Zivo: Carolyn Bennett's exit is good news in the fight against opioid diversion |work=National Post |date=July 28, 2023 |access-date=January 26, 2024}}</ref><ref>{{Cite web |date=September 6, 2022 |title=Interim Conservative Leader Candice Bergen not running in next election: sources |url=https://www.cbc.ca/news/politics/candice-bergen-not-running-1.6573349 |website=[[CBC News]]}}</ref><ref>{{cite news |title='Putting my health first': NDP MP Randall Garrison makes emotional resignation announcement |first=Ethan |last=Morneau |work=CHEK News |date=December 4, 2024 |url=https://cheknews.ca/putting-my-health-first-ndp-mp-randall-garrison-makes-emotional-resignation-announcement-1227519/ |access-date=March 25, 2025}}</ref><ref>{{Cite web |title=The Hon. Marco Mendicino, P.C., M.P. |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=18493 |work=Parlinfo}}</ref> Five further MPs initially announced their intention to stand down before later changing their minds.<ref>{{cite web |last=Rana |first=Abbas |date=January 4, 2025 |title=If Trudeau announces he's stepping down, expect another cabinet shuffle, say Liberal sources |url=https://www.hilltimes.com/story/2025/01/04/after-trudeaus-anticipated-resignation-another-cabinet-shuffle-is-expected-say-liberal-sources/446640/ |access-date=January 5, 2025 |website=[[The Hill Times]]}}</ref><ref>{{Cite news |last=Steven |first=Benjamin Lopez |date=January 11, 2025 |title=Transport Minister Anita Anand won't run for Liberal leadership, won't seek re-election |url=https://www.cbc.ca/news/politics/anita-anand-liberal-leadership-1.7429105 |access-date=January 11, 2025 |work=[[CBC News]]}}</ref><ref>{{Cite tweet |number=1878150609339392419 |user=AnitaAnandMP |title=Please see my statement. |first=Anita |last=Anand |date=January 11, 2025 |access-date=January 11, 2025}}</ref><ref>{{cite news |title=3 more Trudeau cabinet ministers endorse Mark Carney for Liberal leader first-Benjamin Lopez |last=Stephen |date=January 25, 2025 |url=https://www.cbc.ca/news/politics/anand-endorses-carney-liberal-leader-1.7441756 |access-date=March 25, 2025}}</ref><ref>{{cite news |last1=Huras |first1=Adam |title=Wayne Long to seek re-election if Carney wins Liberal leadership |url=https://tj.news/new-brunswick/wayne-long-to-seek-re-election-if-carney-wins-liberal-leadership |access-date=January 25, 2025 |work=[[Telegraph-Journal]] |date=January 24, 2025}}</ref><ref>{{Cite web |last=Ling |first=Justin |date=December 21, 2024 |title=Justin Ling: This new Liberal minister has a tiny window of time to ease the housing crisis. He just might do it |url=https://www.thestar.com/opinion/contributors/this-new-liberal-minister-has-a-tiny-window-of-time-to-ease-the-housing-crisis/article_34eafe3c-bf09-11ef-a25a-4f8251b22faa.html |access-date=December 29, 2024 |website=Toronto Star}}</ref>{{clear}}
+
+==Timeline==
+{{See also|44th Canadian Parliament|By-elections to the 44th Canadian Parliament}}
+{|class="wikitable plainrowheaders" style="border: none;"
+|+ Changes in seats held (2021–2025)
+|-
+! rowspan="2" | Seat
+! colspan="3" | Before
+! colspan="4" | Change
+|-
+! Date
+! Member
+! Party
+! Reason
+! Date
+! Member
+! Party
+|-
+|[[Spadina—Fort York (federal electoral district)|Spadina—Fort York]]
+|November 22, 2021
+|[[Kevin Vuong]]
+|{{Canadian party colour|CA|Liberal|colour&name|short}}
+|Excluded from caucus<ref name="cbc.ca">{{cite news |last=Burke |first=Ashley |date=September 22, 2021 |url=https://www.cbc.ca/news/politics/undecided-races-2021-federal-election-1.6185685 |title=Expelled Liberal candidate says he'll sit as an independent as angry voters call for byelection |work=[[CBC News]]}}</ref>
+|
+|
+|{{Canadian party colour|CA|Independent|colour&name|short}}
+|-
+|[[Mississauga—Lakeshore (federal electoral district)|Mississauga—Lakeshore]]
+|May 27, 2022
+|[[Sven Spengemann]]
+|{{Canadian party colour|CA|Liberal|colour&name|short}}
+|Resigned to accept a position with the [[United Nations]]<ref>{{Cite web |title=Mississauga Liberal MP resigns to work for United Nations less than a year after re-election |url=https://www.mississauga.com/news-story/10628796-mississauga-liberal-mp-resigns-to-work-for-united-nations-less-than-a-year-after-re-election/ |access-date=May 29, 2022 |website=Mississauga.com |date=May 19, 2022}}</ref><ref>{{Cite web |title=Sven Spengemann – Member of Parliament – Members of Parliament |url=https://www.ourcommons.ca/members/en/sven-spengemann(88852)#roles |access-date=May 29, 2022 |website=House of Commons of Canada}}</ref>
+|[[2022 Mississauga—Lakeshore federal by-election|December 12, 2022]]<ref>{{Cite news |title=Liberal Charles Sousa wins federal byelection in Mississauga-Lakeshore, CBC News projects |url=https://www.cbc.ca/news/canada/toronto/byelection-mississauga-lakeshore-sousa-chhinzer-1.6682803 |work=[[CBC News]] |date=December 12, 2022 |access-date=December 12, 2022}}</ref>
+|[[Charles Sousa]]
+|{{Canadian party colour|CA|Liberal|colour&name|short}}
+|-
+|[[Richmond—Arthabaska]]
+|September 13, 2022
+|[[Alain Rayes]]
+|{{Canadian party colour|CA|Conservative|colour&name|short}}
+|Left caucus<ref>{{Cite news |last1=Connolly |first1=Amanda |last2=Boutilier |first2=Alex |title=Quebec MP Alain Rayes leaves Conservative caucus after Poilievre victory |url=https://globalnews.ca/news/9125865/alain-rayes-leaves-conservative-caucus-pierre-poilievre/ |access-date=September 13, 2022 |work=Global News}}</ref>
+|
+|
+|{{Canadian party colour|CA|Independent|colour&name|short}}
+|-
+|[[Winnipeg South Centre]]
+|December 12, 2022
+|[[Jim Carr]]
+|{{Canadian party colour|CA|Liberal|colour&name|short}}
+|Died in office<ref name="WSCvacant">{{cite web |url=https://elections.ca/content.aspx?section=med&dir=pre&document=dec1522&lang=e |title=A Federal Seat is Vacant in Winnipeg South Centre |website=[[Elections Canada]] |date=December 16, 2022 |access-date=March 12, 2023}}</ref>
+|[[2023 Winnipeg South Centre federal by-election|June 19, 2023]]
+|[[Ben Carr (politician)|Ben Carr]]
+|{{Canadian party colour|CA|Liberal|colour&name|short}}
+|-
+|[[Calgary Heritage]]
+|December 31, 2022
+|[[Bob Benzen]]
+|{{Canadian party colour|CA|Conservative|colour&name|short}}
+|Resigned to return to the private sector<ref name="CalHervacant">{{cite web |url=https://elections.ca/content.aspx?section=med&dir=pre&document=jan0523&lang=e |title=A Federal Seat is Vacant in Calgary Heritage |website=[[Elections Canada]] |date=January 5, 2023 |access-date=March 12, 2023}}</ref>
+|[[2023 Calgary Heritage federal by-election|July 24, 2023]]
+|[[Shuvaloy Majumdar]]
+|{{Canadian party colour|CA|Conservative|colour&name|short}}
+|-
+|[[Oxford (federal electoral district)|Oxford]]
+|January 28, 2023
+|[[Dave MacKenzie (politician)|Dave MacKenzie]]
+|{{Canadian party colour|CA|Conservative|colour&name|short}}
+|Retired<ref name="Oxfordvacant">{{cite web |url=https://elections.ca/content.aspx?section=med&dir=pre&document=feb0123&lang=e |title=A Federal Seat is Vacant in Oxford |website=[[Elections Canada]] |date=February 2, 2023 |access-date=March 12, 2023}}</ref>
+|[[2023 Oxford federal by-election|June 19, 2023]]
+|[[Arpan Khanna]]
+|{{Canadian party colour|CA|Conservative|colour&name|short}}
+|-
+|[[Portage—Lisgar]]
+|February 28, 2023
+|[[Candice Bergen (politician)|Candice Bergen]]
+|{{Canadian party colour|CA|Conservative|colour&name|short}}
+|Resigned<ref name="PLvacant">{{cite web |url=https://elections.ca/content.aspx?section=med&dir=pre&document=mar0223&lang=e |title=A By-Election Will Take Place in Portage–Lisgar |website=[[Elections Canada]] |date=March 2, 2023 |access-date=March 12, 2023}}</ref>
+|[[2023 Portage—Lisgar federal by-election|June 19, 2023]]
+|[[Branden Leslie]]
+|{{Canadian party colour|CA|Conservative|colour&name|short}}
+|-
+|[[Notre-Dame-de-Grâce—Westmount]]
+|March 8, 2023
+|[[Marc Garneau]]
+|{{Canadian party colour|CA|Liberal|colour&name|short}}
+|Retired<ref name="NDGvacant">{{cite web |url=https://elections.ca/content.aspx?section=med&dir=pre&document=mar1023&lang=e |title=A By-Election Will Take Place in Notre-Dame-de-Grâce–Westmount |website=[[Elections Canada]] |date=March 10, 2023 |access-date=March 12, 2023}}</ref>
+|[[2023 Notre-Dame-de-Grâce—Westmount federal by-election|June 19, 2023]]
+|[[Anna Gainey]]
+|{{Canadian party colour|CA|Liberal|colour&name|short}}
+|-
+|[[Don Valley North (federal electoral district)|Don Valley North]]
+|March 22, 2023
+|[[Han Dong (politician)|Han Dong]]
+|{{Canadian party colour|CA|Liberal|colour&name|short}}
+|Left caucus<ref>{{cite news |first1=Catharine |last1=Tunney |title=MP Han Dong leaving Liberal caucus, denies allegations of working against release of 2 Michaels |url=https://www.cbc.ca/news/politics/han-dong-independent-1.6787960 |access-date=April 3, 2023 |work=CBC News |date=March 22, 2023}}</ref>
+|
+|
+|{{Canadian party colour|CA|Independent|colour&name|short}}
+|-
+|[[Durham (federal electoral district)|Durham]]
+|August 1, 2023
+|[[Erin O'Toole]]
+|{{Canadian party colour|CA|Conservative|colour&name|short}}
+|Resigned
+|[[2024 Durham federal by-election|March 4, 2024]]
+|[[Jamil Jivani]]
+|{{Canadian party colour|CA|Conservative|colour&name|short}}
+|-
+|[[Toronto—St. Paul's (federal electoral district)|Toronto—St. Paul's]]
+|January 16, 2024
+|[[Carolyn Bennett]]
+|{{Canadian party colour|CA|Liberal|colour&name|short}}
+|Resigned to become ambassador of Canada to Denmark<ref>{{cite web |url=https://globalnews.ca/news/10165969/carolyn-bennett-steps-down-toronto-st-pauls-mp/ |title=Carolyn Bennett, longtime Liberal MP and cabinet minister, stepping down &#124; Globalnews.ca}}</ref>
+|[[2024 Toronto—St. Paul's federal by-election|June 24, 2024]]
+|[[Don Stewart (Ontario politician)|Don Stewart]]
+|{{Canadian party colour|CA|Conservative|colour&name|short}}
+|-
+|[[LaSalle—Émard—Verdun]]
+|February 1, 2024
+|[[David Lametti]]
+|{{Canadian party colour|CA|Liberal|colour&name|short}}
+|Resigned to join law firm<ref>{{Cite web |last=Merkowsky |first=Clare Marie |date=January 26, 2024 |title=Trudeau's former Justice Minister resigns from Parliament days after Emergencies Act ruling |url=https://www.todayville.com/trudeaus-former-justice-minister-resigns-from-parliament-days-after-emergencies-act-ruling/}}</ref>
+|[[2024 LaSalle—Émard—Verdun federal by-election|September 16, 2024]]
+|[[Louis-Philippe Sauvé]]
+|{{Canadian party colour|CA|BQ|colour&name|short}}
+|-
+|[[Elmwood—Transcona]]
+|March 31, 2024
+|[[Daniel Blaikie]]
+|{{Canadian party colour|CA|NDP|colour&name|short}}
+|Resigned to work with [[Premier of Manitoba]] [[Wab Kinew]]<ref>{{Cite web |last=Kives |first=Bartley |author-link=Bartley Kives |date=February 28, 2024 |title=Winnipeg MP Daniel Blaikie resigning from Elmwood-Transcona seat to work for Manitoba premier |url=https://www.cbc.ca/news/canada/manitoba/blaikie-resignation-manitoba-1.7128694 |website=CBC News}}</ref>
+|[[2024 Elmwood—Transcona federal by-election|September 16, 2024]]
+|[[Leila Dance]]
+|{{Canadian party colour|CA|NDP|colour&name|short}}
+|-
+|[[Cloverdale—Langley City]]
+|May 27, 2024
+|[[John Aldag]]
+|{{Canadian party colour|CA|Liberal|colour&name|short}}
+|Resigned to run as the [[BC NDP]] candidate for [[Langley-Abbotsford (provincial electoral district)|Langley-Abbotsford]] in the [[2024 British Columbia general election|2024 BC general election]]<ref>{{Cite web |last=Paas-Lang |first=Christian |date=May 19, 2024 |title=Liberal MP John Aldag announces resignation, looks to run for provincial NDP in B.C. |url=https://www.cbc.ca/news/politics/john-aldag-resigns-ndp-nomination-1.7209057#:~:text=John%20Aldag%20has%20confirmed%20that,election%20under%20the%20NDP%20banner.}}</ref>
+|[[2024 Cloverdale—Langley City federal by-election|December 16, 2024]]
+|[[Tamara Jansen]]
+|{{Canadian party colour|CA|Conservative|colour&name|short}}
+|-
+|[[Halifax (federal electoral district)|Halifax]] 
+|August 31, 2024 
+|[[Andy Fillmore]]
+|{{Canadian party colour|CA|Liberal|colour&name|short}}
+|Resigned to [[2024 Halifax municipal election|run for the mayoralty of Halifax, Nova Scotia]]
+|April 14, 2025 ''(cancelled)''
+|
+|{{Canadian party colour|CA|Vacant|colour&name|short}}
+|-
+|[[Honoré-Mercier (electoral district)|Honoré-Mercier]]
+|September 19, 2024
+|[[Pablo Rodriguez (Canadian politician)|Pablo Rodriguez]]
+|{{Canadian party colour|CA|Liberal|colour&name|short}}
+|Left caucus
+|
+|
+|{{Canadian party colour|CA|Independent|colour&name|short}} 
+|-
+|[[Honoré-Mercier (electoral district)|Honoré-Mercier]]
+|January 20, 2025
+|[[Pablo Rodriguez (Canadian politician)|Pablo Rodriguez]]
+|{{Canadian party colour|CA|Independent|colour&name|short}}
+|Resigned to [[2025 Quebec Liberal Party leadership election|run for the leadership of the Quebec Liberal Party]]
+|Vacant until the 2025 election<!--no by elections are held within 9 months before the next federal election-->
+|
+|{{Canadian party colour|CA|Vacant|colour&name|short}}
+|-
+|[[Esquimalt—Saanich—Sooke]]
+|January 30, 2025
+|[[Randall Garrison]]
+|{{Canadian party colour|CA|NDP|colour&name|short}}
+|Resigned
+|Vacant until the 2025 election<!--no by elections are held within 9 months before the next federal election-->
+|
+|{{Canadian party colour|CA|Vacant|colour&name|short}}
+|-
+|[[Eglinton—Lawrence (federal electoral district)|Eglinton—Lawrence]]
+|March 14, 2025
+|[[Marco Mendicino]]
+|{{Canadian party colour|CA|Liberal|colour&name|short}}
+|Resigned to become [[Chief of Staff to the Prime Minister (Canada)|Chief of Staff to the Prime Minister]]
+|Vacant until the 2025 election<!--no by elections are held within 9 months before the next federal election-->
+|
+|{{Canadian party colour|CA|Vacant|colour&name|short}}
+|}
+
+===2021===
+*September 27{{snd}}[[Annamie Paul]] announced her intent to resign as leader of the Green Party.<ref name="Aiello1">{{cite news |last=Aiello |first=Rachel |date=September 27, 2021 |title=Annamie Paul resigns as Green Party leader |url=https://www.ctvnews.ca/politics/article/annamie-paul-resigns-as-green-party-leader/ |access-date=November 10, 2021 |work=[[CTV News]]}}</ref>
+*November 10{{snd}}Paul formally submitted her resignation and ended her membership in the party.<ref name="CBC11/10">{{Cite news |date=November 10, 2021 |title=Annamie Paul officially quits as Green leader, will end membership in party |url=https://www.cbc.ca/news/politics/annamie-paul-quits-green-leader-1.6244217 |work=[[CBC News]]}}</ref> The Green Party accepted her resignation a few days later.<ref>{{cite news |last1=Thurton |first1=David |date=November 16, 2021 |title=Green Party accepts Annamie Paul's resignation as leader |work=[[CBC News]] |url=https://www.cbc.ca/news/politics/green-party-annamie-paul-1.6251482 |access-date=November 17, 2021}}</ref><ref name="Official">{{cite news |last1=Ballingall |first1=Alex |date=November 15, 2021 |title=Green Party formally accepts Annamie Paul's resignation as leader |work=Toronto Star |url=https://www.thestar.com/politics/federal/2021/11/15/green-party-formally-accepts-annamie-pauls-resignation-as-leader.html |access-date=November 15, 2021}}</ref>
+*November 15{{snd}}Senator [[Denise Batters]] launched a petition to review the leadership of Erin O'Toole.<ref name="Tasker1">{{cite news |last1=Tasker |first1=John Paul |last2=Thibedeau |first2=Hannah |date=November 15, 2021 |title=Conservative senator launches petition to oust Erin O'Toole as leader |work=[[CBC News]] |url=https://www.cbc.ca/news/politics/conservative-senator-oust-erin-otoole-1.6249440 |access-date=November 17, 2021}}</ref> Party president [[Robert Batherson]] decided the petition was not in order.<ref name="Tasker1" /> The following day, Batters was removed from the Conservative caucus.<ref>{{cite news |last1=Tasker |first1=John Paul |last2=Thibedeau |first2=Hannah |last3=Dhanraj |first3=Travis |date=November 16, 2021 |title=O'Toole kicks senator out of Conservative caucus after she questioned his leadership |work=[[CBC News]] |url=https://www.cbc.ca/news/politics/conservatives-mps-anti-otoole-petition-1.6251532 |access-date=November 17, 2021}}</ref>
+*November 24{{snd}}[[Amita Kuttner]] was appointed as Green Party interim leader.<ref>{{Cite web |date=November 24, 2021 |title=Green Party appoints Amita Kuttner as Interim Leader |url=https://www.greenparty.ca/en/media-release/2021-11-24/green-party-appoints-amita-kuttner-interim-leader |work=Green Party of Canada |access-date=November 25, 2021 |archive-date=November 25, 2021 |archive-url=https://web.archive.org/web/20211125032223/https://www.greenparty.ca/en/media-release/2021-11-24/green-party-appoints-amita-kuttner-interim-leader}}</ref><ref>{{Cite news |last=Woolf |first=Marie |date=November 25, 2021 |title=Greens pick astrophysicist Amita Kuttner as interim leader, 1st leader who is trans |url=https://www.cbc.ca/news/politics/amita-kuttner-green-leader-1.6262005 |work=[[CBC News]] |access-date=November 25, 2021}}</ref>
+*December 5{{snd}}The People's Party concluded its leadership review of [[Maxime Bernier]]. He was confirmed and continued as leader.<ref>{{Cite web |date=December 5, 2021 |title=Maxime Bernier Overwhelmingly Confirmed as PPC Leader by Membership |url=https://www.ppcleadership.ca |archive-url=https://web.archive.org/web/20211205183715/https://www.ppcleadership.ca/ |archive-date=December 5, 2021 |work=People's Party of Canada}}</ref><ref>{{Cite news |last=Paas-Lang |first=Christian |date=December 5, 2021 |title=Maxime Bernier retains leadership of People's Party of Canada after review vote |url=https://www.cbc.ca/news/politics/maxime-bernier-leadership-party-review-1.6274329 |work=[[CBC News]] |access-date=December 5, 2021}}</ref>
+
+=== 2022 ===
+*February 2{{snd}}[[Erin O'Toole]] was removed as the leader of the [[Conservative Party of Canada|Conservative Party]] by a caucus vote.<ref name=":4">{{Cite news |last=Tasker |first=John Paul |date=February 2, 2022 |title=Conservative MPs vote to remove Erin O'Toole as leader |url=https://www.cbc.ca/news/politics/otoole-leadership-vote-1.6336336 |work=[[CBC News]] |access-date=February 2, 2022}}</ref> [[Candice Bergen (politician)|Candice Bergen]] was selected by the party caucus to serve as interim leader.<ref>{{Cite web |url=https://globalnews.ca/news/8590833/conservative-party-interim-leader/ |title=Conservatives elect Candice Bergen as interim party leader |last=Aziz |first=Saba |date=February 2, 2022 |work=Global News}}</ref><ref>{{Cite web |date=February 3, 2022 |title=Bergen advised against telling truckers to leave Ottawa, said protests should be made 'PM's problem' |url=https://www.ctvnews.ca/politics/article/bergen-advised-against-telling-truckers-to-leave-ottawa-said-protests-should-be-made-pms-problem/ |access-date=February 5, 2022 |website=CTVNews |archive-date=June 25, 2023 |archive-url=https://web.archive.org/web/20230625071245/https://www.ctvnews.ca/politics/bergen-advised-against-telling-truckers-to-leave-ottawa-said-protests-should-be-made-pm-s-problem-1.5767213 |url-status=live}}</ref>
+*March 22{{snd}}The [[Liberal Party of Canada|Liberal]] and [[New Democratic Party|New Democratic]] parties reached [[Liberal–NDP confidence and supply agreement|a confidence and supply agreement]], with the NDP agreeing to support the Liberal government until June 2025 in exchange for specific policy commitments.<ref>{{cite web |date=March 22, 2022 |title=Canada's Trudeau strikes surprise deal to keep power until 2025 |url=https://www.reuters.com/world/americas/canadas-trudeau-strikes-deal-keep-liberals-power-till-2025-source-2022-03-22/ |access-date=March 23, 2022 |website=Reuters}}</ref>
+*September 10{{snd}}The [[2022 Conservative Party of Canada leadership election]] concluded with [[Pierre Poilievre]] being announced as the new leader of the Conservatives.<ref name=":5">{{Cite news |last=Paas-Lang |first=Christian |date=March 13, 2022 |title=How the rules could help shape who becomes the next Conservative leader |url=https://www.cbc.ca/news/politics/cpc-leadership-rules-influence-1.6382820 |work=[[CBC News]] |access-date=March 14, 2022}}</ref>
+* November 19{{snd}}The [[2022 Green Party of Canada leadership election]] concluded with [[Elizabeth May]] and [[Jonathan Pedneault]] announced as winners on a "joint ticket". May became leader and Pedneault deputy leader of the party, pending a change to the party's constitution to allow co-leadership.<ref name=":2">{{cite web |url=https://globalnews.ca/news/9292639/elizabeth-may-green-party-of-canada-leader-2022/ |title=Elizabeth May to return as federal Green Party leader, sharing role on joint-ticket |first=David |last=Fraser |date=November 19, 2022 |website=globalnews.ca |url-status=live |archive-url=https://web.archive.org/web/20221126074212/https://globalnews.ca/news/9292639/elizabeth-may-green-party-of-canada-leader-2022/ |archive-date=November 26, 2022}}</ref>
+
+=== 2023 ===
+* July 26{{snd}}Prime Minister [[Justin Trudeau]] conducted a major [[29th Canadian Ministry#2023 shuffle|cabinet reshuffle]].<ref>{{cite web |title=Trudeau overhauls his cabinet, drops 7 ministers and shuffles most portfolios |website=CBC |date=July 26, 2023 |url=https://www.cbc.ca/news/politics/cabinet-shuffle-trudeau-1.6916367 | access-date=August 6, 2023}}</ref>
+* September 26{{snd}}[[Anthony Rota]] announced his intention to resign as [[Speaker of the House of Commons (Canada)|Speaker of the House of Commons]]. [[Louis Plamondon]] was nominated to replace Rota on an interim basis.<ref>{{Cite web |url=https://ici.radio-canada.ca/nouvelle/2013294/louis-plamondon-president-interim-communes |title=Louis Plamondon sera président intérimaire de la Chambre des communes |trans-title=Louis Plamondon will be interim Speaker of the House of Commons |first=Sébastien |last=St-Onge |date=September 27, 2023 |website=Radio-Canada |language=fr}}</ref>
+* October 3{{snd}}Liberal MP [[Greg Fergus]] was [[2023 Speaker of the Canadian House of Commons election|elected]] speaker of the House of Commons. He was the first person of colour to be elected speaker.<ref>{{cite web |title=Liberal MP Greg Fergus elected Speaker of the House of Commons |website=CBC |date=October 3, 2023 |url=https://www.cbc.ca/news/politics/mps-vote-new-speaker-1.6984673 | access-date=February 11, 2024 |first=John Paul |last=Tasker}}</ref>
+
+===2024===
+* September 4{{snd}}The NDP officially ended [[Liberal–NDP confidence and supply agreement|their confidence and supply agreement]] with the [[Liberal Party of Canada|Liberals]].<ref>{{cite web |url=https://www.ctvnews.ca/politics/jagmeet-singh-pulls-ndp-out-of-supply-and-confidence-deal-with-trudeau-liberals-1.7024851 |title=Jagmeet Singh pulls NDP out of supply and confidence deal with Trudeau Liberals |date=September 4, 2024 | access-date=September 4, 2024 | archive-date=September 14, 2024 | archive-url=https://web.archive.org/web/20240914125702/https://www.ctvnews.ca/politics/jagmeet-singh-pulls-ndp-out-of-supply-and-confidence-deal-with-trudeau-liberals-1.7024851}}</ref>
+* November 20{{snd}}Liberal MP [[Randy Boissonnault]] resigned from Cabinet following allegations that he ran a business seeking federal contracts and [[Pretendian|falsely claimed]] to be [[Indigenous peoples in Canada|Indigenous]].<ref>{{Cite news |last=Tasker |first=John Paul |date=November 20, 2024 |title=Boissonnault out of cabinet after shifting claims about Indigenous heritage |url=https://www.cbc.ca/news/politics/boissonnault-leaves-cabinet-1.7388674 |access-date=December 17, 2024 |work=CBC News}}</ref>
+* December 9{{snd}}Trudeau's Liberal government survived a third [[motion of no confidence]], with the Conservatives and Bloc Québécois voting for the motion, and the Liberals, NDP, and Greens opposed.<ref>{{cite web |url=https://www.thestar.com/politics/federal/liberal-government-survives-third-conservative-non-confidence-vote/article_87257b26-ad93-5d10-aa6e-5e2a56188302.html |title=Liberal government survives third Conservative non-confidence vote |website=[[Toronto Star]] |date=December 9, 2024}}</ref>
+* December 16{{snd}}[[Chrystia Freeland]], the incumbent [[Deputy Prime Minister of Canada|deputy prime minister]] and [[Minister of Finance (Canada)|minister of finance]], [[Resignation of Chrystia Freeland|resigned from her position]] in [[29th Canadian Ministry|Justin Trudeau's government]] prior to the release later that day of the government's fall economic statement due to her opposition to Trudeau's fiscal policy;<ref name="cbc_17411380" /> later that day, she was replaced as minister of finance by [[Dominic LeBlanc]], while the position of deputy prime minister remained vacant.<ref>{{Cite web |last1=Ljunggren |first1=David |last2=Shakil |first2=Ismail |date=December 16, 2024 |title=Canada finance minister quits after clash with Trudeau over Trump tariffs, spending |url=https://www.reuters.com/world/americas/canadas-finance-minister-resigns-2024-12-16/ |website=Reuters}}</ref> Housing minister [[Sean Fraser (politician)|Sean Fraser]] also resigned from cabinet the same morning, citing personal reasons.<ref>{{cite news |last1=Al Mallees |first1=Nojoud |title=Liberal Housing Minister Sean Fraser resigns from Trudeau's cabinet, won't seek re-election |url=https://nationalpost.com/news/canada/liberal-housing-minister-sean-fraser-wont-seek-re-election |access-date=December 16, 2024 |work=[[National Post]] |date=December 16, 2024}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}</ref>
+* December 20{{snd}}Trudeau conducted a major [[29th Canadian Ministry#2024 shuffle and crisis|cabinet reshuffle]]. The NDP officially committed to introducing a non-confidence motion against the government. Over 20 Liberal MPs publicly called for Trudeau to resign and over 50 signed a private letter asking him to resign.<ref>{{Cite web |title=Canada's Trudeau reshuffles cabinet amid persistent pressure to resign |url=https://www.aljazeera.com/news/2024/12/20/canadas-trudeau-reshuffles-cabinet-amid-persistent-pressure-to-resign |access-date=December 21, 2024 |website=Al Jazeera|date=December 20, 2024}}</ref>
+
+===2025===
+[[File:Federal Election Canada - 20250428-02 (cropped).jpg|thumb|right|Election day voting location at a [[Royal Canadian Legion]] branch in [[Brampton]], Ontario]]
+
+* January 6{{snd}}Trudeau announced the [[Prorogation in Canada|prorogation]] of parliament until March 24 in addition to his resignation as prime minister and as leader of the Liberal Party, effective upon the election of his successor as party leader in a leadership election.<ref name="Resign&Prorogue">{{cite web |last1=Aziz |first1=Saba |last2=Boynton |first2=Sean |last3=Rana |first3=Uday |date=January 6, 2025 |title=Trudeau says he will resign after Liberals choose successor, prorogues Parliament |url=https://globalnews.ca/news/10944316/justin-trudeau-resignation/ |access-date=January 6, 2025 |work=[[Global News]]}}</ref>
+* January 15{{snd}}Trudeau announced that he will not run in [[Papineau (electoral district)|Papineau]] again.<ref>{{cite web |last1=Duggan |first1=Kyle |title=Tory organizer says Liberal leadership contest rules ensure a Freeland-Carney race |url=https://www.thestar.com/politics/federal/trudeau-will-not-seek-re-election-in-his-montreal-riding/article_e19ddf60-0147-5c37-8769-0ba12f400d75.html |website=[[Toronto Star]] |access-date=January 15, 2025 |date=January 15, 2025}}</ref>
+* February 4{{snd}}The Green Party of Canada concluded its [[2025 Green Party of Canada co-leadership election|co-leadership vote]], with Elizabeth May and [[Jonathan Pedneault]] re-elected as co-leaders.<ref name=":3">{{cite press release |title=Historic Vote: Greens Choose Co-Leadership |date=February 4, 2025 |publisher=Green Party of Canada |url=https://www.greenparty.ca/en/news/historic-vote-greens-choose-co-leadership |access-date=March 25, 2025 |archive-url=https://web.archive.org/web/20250403080436/https://www.greenparty.ca/en/news/historic-vote-greens-choose-co-leadership |archive-date=April 3, 2025 |url-status=dead}}</ref>
+* February 13{{snd}}People's Party of Canada leader Maxime Bernier announced he will run in [[Beauce (electoral district)|Beauce]] again.<ref name="BernierFeb13">{{cite news |last=Morrissette-Beaulieu |first=Félix |date=February 13, 2025 |title=Maxime Bernier se présentera de nouveau en Beauce |trans-title=Maxime Bernier to run again in Beauce |url=https://ici.radio-canada.ca/nouvelle/2140232/maxime-bernier-ppc-beauce |access-date=February 14, 2025 |work=[[Ici Radio-Canada Première|Radio-Canada]] |language=fr}}</ref>
+* March 3{{snd}}Green Party of Canada co-leader Jonathan Pedneault announced he will run in [[Outremont (electoral district)|Outremont]].<ref>{{Cite web |last=Lachance Nové |first=Fabrice |date=March 3, 2025 |title=Green Party of Canada Announces That Co-leader Jonathan Pedneault Will Be the Green Spokesperson in Leaders' Debates and Run in Outremont |url=https://www.greenparty.ca/en/news/green-party-of-canada-announces-that-co-leader-jonathan-pedneault-will-be-the-green-spokesperson-in-leaders-debates-and-run-in-outremont |access-date=March 12, 2025 |website=[[Green Party of Canada]] |archive-url=https://web.archive.org/web/20250510193426/https://www.greenparty.ca/en/news/green-party-of-canada-announces-that-co-leader-jonathan-pedneault-will-be-the-green-spokesperson-in-leaders-debates-and-run-in-outremont |archive-date=May 10, 2025 |url-status=dead}}</ref>
+* March 9{{snd}}The [[2025 Liberal Party of Canada leadership election]] concluded with [[Mark Carney]] being announced as the new leader of the [[Liberal Party of Canada]].
+* March 14{{snd}}Carney was sworn in as the 24th prime minister of Canada, and appointed a new Cabinet, beginning the [[30th Canadian Ministry]].<ref>{{Cite web |title=Prime Minister Mark Carney vows to get 'straight to work,' presents pared-down cabinet |url=https://www.cp24.com/news/canada/2025/03/14/prime-minister-mark-carney-vows-to-get-straight-to-work-presents-pared-down-cabinet/ |first=Rachel |last=Aiello |website=CP24 |date=March 14, 2025 |access-date=March 14, 2025}}</ref>
+* March 20{{snd}}Liberal MP [[Chandra Arya]]'s nomination in [[Nepean (federal electoral district)|Nepean]] was revoked, allegedly due to [[foreign electoral intervention|foreign interference]] concerns.<ref>{{cite news |last1=Fife |first1=Robert |title=Ousted Liberal MP Chandra Arya barred from running under party's banner over alleged ties to India |url=https://www.theglobeandmail.com/politics/article-liberal-mp-chandra-arya-ousted-alleged-foreign-interference-india/ |access-date=March 26, 2025 |work=Globe and Mail |date=March 26, 2025}}</ref> He had previously been disqualified as a Liberal leadership candidate.<ref>{{Cite news |date=March 21, 2025 |title=Liberals revoke Chandra Arya's nomination, after removing him from leadership race |url=https://www.cbc.ca/news/politics/liberal-chandra-arya-dropped-nepean-1.7489486 |access-date=March 23, 2025 |work=[[CBC News]]}}</ref>
+* March 22{{snd}}Carney announced that he will run in [[Nepean (federal electoral district)|Nepean]].<ref name="CarneyNepean">{{cite news |title=Mark Carney to run for seat in Ottawa's Nepean riding |url=https://www.cbc.ca/news/canada/ottawa/mark-carney-to-run-for-seat-in-ottawa-s-nepean-riding-1.7490982 |access-date=March 22, 2025 |work=[[CBC News]] |date=March 22, 2025}}</ref>
+* March 23{{snd}}Carney advised the governor general to [[dissolution of parliament|dissolve parliament]] and call a general election for April 28, 2025.<ref>{{Cite news |last=Cecco |first=Leyland |date=March 23, 2025 |title=Canada to head to polls as Mark Carney calls snap election for 28 April |url=https://www.theguardian.com/world/2025/mar/23/canada-to-head-to-polls-as-mark-carney-calls-snap-election-for-28-april |access-date=March 23, 2025 |work=The Guardian|issn=0261-3077}}</ref>
+* April 7 and 9{{snd}}Deadline for candidate nominations; final list of candidates published.<ref>{{Cite web |title=List of confirmed candidates for the 2021 federal election |url=https://elections.ca/content2.aspx?section=can&dir=cand/lst&document=intro&lang=e |archive-url=https://web.archive.org/web/20220109061745/https://www.elections.ca/content2.aspx?section=can&dir=cand/lst&document=intro&lang=e |archive-date=January 9, 2022 |access-date=April 13, 2025 |website=Elections Canada |url-status=live}}</ref>
+* April 16 and 17{{snd}}French and English language [[Canadian leaders' debates#2025 debates|leaders' debates]] hosted by the [[Leaders' Debates Commission]] took place in Montreal.<ref name="DebateDateAnnounce" />
+* April 18 to 21{{snd}}Advance polling took place. According to an Elections Canada estimate released on April 22, 7.3{{nbsp}}million electors participated in advance polls.<ref>{{cite web |url=https://www.cbc.ca/news/politics/elections-canada-record-advanced-polls-1.7515477 |title=Record 7.3 million Canadians voted during advance polls: Elections Canada |first1=Catharine |last1=Tunney |first2=Darren |last2=Major |work=[[CBC News]] |date=April 22, 2025 |access-date=April 22, 2025}}</ref>
+* April 22{{snd}}Last day to vote at an Elections Canada office or to apply to vote by mail.
+* April 28{{snd}}Election day.
+
+==Campaign==
+===Contests===
+[[File:Carleton - 2025 Federal election - 20250428-152255.jpg|thumb|right|Ballot for the 2025 Canadian federal election (Carleton)]]
+When nominations were closed on April 7, Elections Canada announced that 1,959 candidates would be running for election.<ref>{{cite press release |date=April 9, 2025 |title=Candidate Nominations for the 2025 Federal Election Are Closed |url=https://www.elections.ca/content.aspx?section=med&dir=pre&document=apr1025&lang=e |publisher=[[Elections Canada]] }}</ref> No party fielded full slates of candidates in all 343 ridings, though the Bloc Québécois, which only runs candidates in Quebec, covered all 78 Quebec constituencies. The Liberals, Conservatives and NDP were all one short,<ref name="GMcandidates" /> respectively in [[Ponoka—Didsbury]],<ref>{{cite news |date=April 9, 2025 |title=Ponoka-Didsbury, Yellowhead riding federal election candidates confirmed |url=https://www.stalbertgazette.com/2025-federal-election-canada/ponoka-didsbury-yellowhead-riding-federal-election-candidates-confirmed-10499865 |work=St. Albert Gazette}}</ref> [[Québec Centre]]<ref>{{cite news |last=Fragasso-Marquis |first=Vicky |date=April 9, 2025 |title=Québec-Centre : Le Parti conservateur du Canada n'aura pas de candidat |url=https://www.lapresse.ca/elections-federales/2025-04-09/quebec-centre/le-parti-conservateur-du-canada-n-aura-pas-de-candidat.php |trans-title=Québec Centre: The Conservative Party of Canada will not have a candidate |work=[[La Presse]] |language=French}}</ref> and [[South Shore—St. Margarets]].<ref name="Mosher" /> In Ponoka—Didsbury, Zarnab Zafar was not identified as a Liberal allegedly because of "a clerical error with Elections Canada" and is under no affiliation, but the Liberals endorsed her. In Québec Centre, there was said to be "an issue with paperwork" causing the Conservative candidate's nomination to be rejected after the deadline for candidate registrations.<ref>{{cite news |last=Trépanier |first=Antoine |date=April 11, 2025 |title=In Quebec City, a Conservative candidate cannot run and the Bloc is benefitting |url=https://nationalpost.com/news/in-quebec-city-a-conservative-candidate-cannot-run-and-the-bloc-is-benefitting |work=[[National Post]]}}</ref> The Quebec lieutenant for the Conservative Party of Canada ([[Pierre Paul-Hus]]) and the party defended her, contesting the decision and blaming Elections Canada for bureaucratic errors.<ref>{{cite web |url=https://ici.radio-canada.ca/nouvelle/2155502/elections-canada-candidature-chanie-theriault |title=Conservatives demand reinstatement of their rejected candidate |publisher=Radio-Canada |date=April 10, 2025 |language=fr}}</ref> Chanie Thériault described the invalidation as a "democratic injustice" and accused the agency of "failing democracy".<ref>{{cite web |url=https://ici.radio-canada.ca/nouvelle/2158080/elections-canada-pcc-conservateur-candidature |title=Rejected Conservative candidate in Québec-Centre sees it as a democratic injustice |publisher=Radio-Canada |date=April 19, 2025 |language=fr}}</ref> The NDP candidate in South Shore—St. Margarets withdrew for personal reasons,<ref name="GMcandidates" /> and an independent candidate in the riding was endorsed by the NDP afterward.<ref name="Mosher" />
+
+The [[Longest Ballot Committee]] targeted Poilievre's [[Carleton (Ontario federal electoral district)|Carleton]] riding, which had 83 independents nominated, therefore there were a total of 91 candidates running in the riding.<ref>{{cite news |last=O'Neill |first=Natasha |date=April 8, 2025 |title=Here's why there are 91 candidates in the same riding as Pierre Poilievre |url=https://ottawa.citynews.ca/2025/04/08/heres-why-there-are-91-candidates-in-same-riding-as-pierre-poilievre/ |work=CityNews Ottawa |access-date=April 30, 2025}}</ref> When asked why they did not do similar efforts in the constituencies of other party leaders, the organizers said it was a matter of limited resources.<ref>{{cite news |last=Haws |first=Emily |date=April 7, 2025 |title=More than 70 independent candidates running in Poilievre's riding as part of co-ordinated protest |url=https://www.theglobeandmail.com/politics/article-federal-election-2025-pierre-poilievre-ottawa-riding-protest-longest/ |work=[[The Globe and Mail]] |access-date=April 30, 2025}}</ref>
+
+{| class="wikitable" style="text-align:right;"
+|+ Candidate contests in the ridings<ref name="ECcandidates" />
+!rowspan="2"|{{tooltip|Candidates|Number of candidates nominated in a riding}} !!rowspan="2"|{{tooltip|Ridings|Number of ridings with [n] candidates nominated}} !!colspan="13"|Party
+|-
+|{{Canadian party colour|CA|Liberal|background}} align="center" |'''Lib'''
+|{{Canadian party colour|CA|Conservative|background}} align="center" |'''Con'''
+|{{Canadian party colour|CA|NDP|background}} align="center" |'''NDP'''
+|style="background-color:#6f5d9a; color: white" align="center" |'''{{abbr|PPC|People's Party of Canada}}'''
+|{{Canadian party colour|CA|Green|background}} align="center" |'''Green'''
+|{{Canadian party colour|CA|Independent|background}} align="center" |'''{{abbr|Ind|Independent or no affiliation}}'''
+|{{Canadian party colour|CA|BQ|background}} align="center" |'''BQ'''
+|{{Canadian party colour|CA|Marxist-Leninist|background}} align="center" |'''{{abbr|MLP|Marxist-Leninist}}'''
+|{{Canadian party colour|CA|Christian Heritage|background}} align="center" |'''{{abbr|CHP|Christian Heritage Party}}'''
+|{{Canadian party colour|CA|Rhinoceros|background}} align="center" |'''{{abbr|Rhino|Rhinoceros Party}}'''
+|{{Canadian party colour|CA|Communist|background}} align="center" |'''{{abbr|Comm|Communist}}'''
+|{{Canadian party colour|CA|Other|background}} align="center" |'''{{abbr|Oth|Other minor parties, fielding less than 20 candidates}}'''
+!Totals
+|-
+| 3 || 15 || 15 || 15 || 15 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 45
+|-
+| 4 || 60 || 60 || 60 || 60 || 27 || 21 || 2 || 7 ||  ||  || 1 || 1 || 1 || 240
+|-
+| 5 || 113 || 112 || 112 || 112 || 85 || 78 || 9 || 20 || 7 || 7 || 2 || 4 || 17 || 565
+|-
+| 6 || 95 || 95 || 95 || 95 || 84 || 81 || 34 || 35 || 5 || 10 || 8 || 4 || 24 || 570
+|-
+| 7 || 37 || 37 || 37 || 37 || 32 || 33 || 19 || 10 || 12 || 10 || 7 || 7 || 18 || 259
+|-
+| 8 || 13 || 13 || 13 || 13 || 12 || 11 || 14 || 2 || 6 || 2 || 4 || 3 || 11 || 104
+|-
+| 9 || 6 || 6 || 6 || 6 || 4 || 5 || 11 || 2 || 2 || 2 || 4 || 2 || 4 || 54
+|-
+| 10 || 2 || 2 || 2 || 2 || 2 || 1 || 3 || 1 || 2 || 1 || 1 || 2 || 1 || 20
+|-
+| 11 || 1 || 1 || 1 || 1 || 1 || 1 || 2 || 1 || 1 ||  || 1 || 1 ||  || 11
+|-
+| 91 || 1 || 1 || 1 || 1 ||  || 1 || 83 ||  ||  ||  || 1 ||  || 3 || 91
+|-
+| style="text-align:left;"| '''Total''' || 343 || 342 || 342 || 342 || 247 || 232 || 177 || 78 || 35 || 32 || 29 || 24 || 79 || 1,959
+|}
+
+=== Party slogans ===
+{| class="wikitable" 
+!Party
+!English
+!French
+!Translation of French (unofficial)
+!Ref.
+|-
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|{{center|"Canada Strong"}}
+|{{center|"Un Canada fort"}}
+|{{center|"A strong Canada"}}
+|{{center|<ref>{{Cite web |last1=Tumilty |first1=Ryan |last2=MacCharles |first2=Tonda |date=March 18, 2025 |title=Mark Carney vows to keep 'Canada strong' against Donald Trump after Liberal leadership victory |url=https://www.thestar.com/politics/federal/mark-carney-vows-to-keep-canada-strong-against-donald-trump-after-liberal-leadership-victory/article_f82f974e-fce5-11ef-b64a-bbcaa3ddc8e1.html |access-date=March 23, 2025 |website=[[Toronto Star]]}}</ref>}}
+|-
+|{{Canadian party colour|CA|Conservative|colour&name}}
+|{{center|"Canada First{{snd}}for a Change"}}
+|{{center|"Le Canada d'abord{{snd}}pour faire changement"}}
+|{{center|"Canada First{{snd}}to make a Change"}}
+|{{center|<ref>{{Cite news |last=Lopez Steven |first=Benjamin |date=February 15, 2025 |title=Poilievre repudiates Trump's 51st state threats, pitches new policies at 'Canada First' rally |url=https://www.cbc.ca/news/politics/poilievre-canada-first-rally-1.7459415 |access-date=March 23, 2025 |work=[[CBC News]]}}</ref>}}
+|-
+|{{Canadian party colour|CA|BQ|colour&name}}
+|{{n/a}}
+|{{center|"Je choisis le Québec"}}
+|{{center|"I choose Québec"}}
+|{{center|<ref>{{Cite AV media |url=https://www.journaldequebec.com/2025/03/20/je-choisis-le-quebec-le-bloc-quebecois-lance-son-slogan-de-campagne-electorale |title="Je choisis le Québec": le Bloc Québécois lance son slogan de campagne électorale |date=March 20, 2025 |last=Pirro |first=Raphaël |access-date=March 23, 2025 |website=[[Le Journal de Québec]]}}</ref>}}
+|-
+|{{Canadian party colour|CA|NDP|colour&name}}
+|{{center|"In it for you"}}
+|{{center|"Du cœur au ventre"}}
+|{{center|"From the heart to the stomach" (literal); "To be brave"}}
+|{{center|<ref>{{cite web |title=Canada's NDP |website=ndp.ca |publisher=New Democratic Party of Canada |url=https://www.ndp.ca |access-date=March 25, 2025 |archive-url=https://web.archive.org/web/20250325004111/https://www.ndp.ca/ |archive-date=March 25, 2025}}</ref>}}
+|-
+|{{Canadian party colour|CA|Green|colour&name}}
+|{{center|"Change. Vote for it."}}
+|{{center|"Votez pour du changement"}}
+|{{center|"Vote for change"}}
+|{{center|<ref>{{cite web |title=CHANGE Vote for it |website=greenparty.ca |publisher=Green Party of Canada |url=https://www.greenparty.ca |access-date=March 25, 2025 |archive-url=https://web.archive.org/web/20250324155801/https://www.greenparty.ca/ |archive-date=March 24, 2025 |url-status=live}}</ref>}}
+|-
+|}
+
+=== Policy platforms ===
+{| class="wikitable" style="border: none;"
+!Party
+!Full platform
+|-
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|Canada Strong<ref>{{Cite web |url=https://liberal.ca/cstrong |title=Canada Strong |website=Liberal Party of Canada |access-date=April 22, 2025}}</ref>
+|-
+|{{Canadian party colour|CA|Conservative|colour&name}}
+|Canada First. For a Change<ref>{{Cite web |title=Canada First. For a Change |url=https://www.conservative.ca/change/ |access-date=April 22, 2025 |website=Conservative Party of Canada}}</ref>
+|-
+|{{Canadian party colour|CA|BQ|colour&name}}
+|Choisir le Québec<ref>{{Cite web |url=https://www.blocquebecois.org/wp-content/uploads/2025/03/blocqcplateforme-2025web.pdf |title=Choisir le Québec |access-date=April 22, 2025 |website=Bloc Québécois}}</ref>
+
+|-
+|{{Canadian party colour|CA|NDP|colour&name}}
+|Made for People. Built for Canada.<ref>{{Cite web |url=https://www.ndp.ca/campaign-commitments |title=Made for People. Built for Canada. |website=New Democratic Party of Canada |access-date=April 22, 2025}}</ref>
+|-
+|{{Canadian party colour|CA|Green|colour&name}}
+|Change. Vote For It.<ref>{{Cite web |title=Change. Vote For It. – 2025 Election Platform |url=https://cdn.greenparty.ca/wp-content/uploads/2025/04/GP_Platform_English_FINAL.pdf |website=Green Party of Canada |access-date=April 22, 2025}}</ref>
+|-
+|}
+
+=== Endorsements ===
+{|class="wikitable"
+|+Endorsements received by each party
+|-
+! style="width:6em;" | Type
+! style="background-color:{{Canadian party colour|CA|Liberal}}; width:12em;" | Liberal
+! style="background-color:{{Canadian party colour|CA|Conservative}}; width:15em;"| Conservative
+! style="background-color:{{Canadian party colour|CA|BQ}}; width:10em;"| Bloc Québécois
+! style="background-color:{{Canadian party colour|CA|NDP}}; width:12em;"| New Democratic
+|- valign="top"
+|Media
+|
+*''[[The Economist]]''<ref>{{cite news |title=How Canada went from preachy to pragmatic |newspaper=The Economist |date=April 24, 2025 |url=https://www.economist.com/leaders/2025/04/24/how-canada-went-from-preachy-to-pragmatic |access-date=April 24, 2025}}</ref>
+*''[[Toronto Star]]''<ref>{{Cite web |date=April 26, 2025 |title=Star Editorial Board: In a time of crisis, Mark Carney is the steady hand Canada needs |url=https://www.thestar.com/opinion/editorials/in-a-time-of-crisis-mark-carney-is-the-steady-hand-canada-needs/article_aefe9436-1dfc-491a-93dd-bb285a23abb8.html |access-date=April 26, 2025 |website=Toronto Star}}</ref>
+|
+*''[[National Post]]''<ref>{{Cite web |date=April 23, 2025 |title=NP View: Pierre Poilievre's platform is a clear path back to prosperity |url=https://nationalpost.com/opinion/np-view-pierre-poilievres-platform-is-a-clear-path-back-to-prosperity |access-date=April 23, 2025 |website=National Post}}</ref>
+*''[[Toronto Sun]]''<ref>{{Cite news |title=EDITORIAL: Poilievre the right choice after a lost Liberal decade |url=https://torontosun.com/opinion/editorials/editorial-poilievre-the-right-choice-after-a-lost-liberal-decade |archive-url=https://web.archive.org/web/20250426202258/https://torontosun.com/opinion/editorials/editorial-poilievre-the-right-choice-after-a-lost-liberal-decade |archive-date=April 26, 2025 |access-date=April 28, 2025 |newspaper=[[Toronto Sun]] |url-status=live}}</ref>
+|
+|
+|- valign="top"
+|Public figures
+|
+* [[Christy Clark]]<ref name="Clark_Campbell">{{Cite news |first=Klaudia |last=Van Emmerik |title=Former BC Liberal premiers endorse opposing election candidates in Kelowna – Okanagan |work=Global News |date=April 23, 2025 |url=https://globalnews.ca/news/11146262/former-liberal-bc-premiers-endorse-opposing-candidates-kelowna/ |access-date=April 24, 2025}}</ref>
+* [[Andrew Furey]]<ref>{{cite web |last1=Kennedy |first1=Alex |title=N.L. party leaders split opinions on newest head of federal Liberals |url=https://www.cbc.ca/news/canada/newfoundland-labrador/carney-nl-reax-1.7479937 |website=CBC News |archive-url=https://web.archive.org/web/20250725203120/https://www.cbc.ca/news/canada/newfoundland-labrador/carney-nl-reax-1.7479937 |archive-date=July 25, 2025 |date=March 11, 2025 |url-status=live}}</ref>
+* [[Mike Harcourt]]{{Efn|Also endorsed incumbent NDP MPs.}}<ref>{{Cite news |last=Harcourt |first=Mike |author-link=Mike Harcourt |date=April 21, 2025 |title=Mike Harcourt: Mark Carney understands how to expand Canada's economy and rekindle prosperity |url=https://vancouversun.com/opinion/op-ed/mike-harcourt-mark-carney-understands-how-to-expand-canadas-economy-and-rekindle-prosperity |access-date=April 27, 2025 |work=[[Vancouver Sun]]}}</ref>
+* [[Susan Holt]]<ref>{{Cite AV media |url=https://www.cpac.ca/leaders-tour/episode/mark-carney-holds-rally-in-fredericton--april-21-2025?id=6a446d75-e415-4748-a134-f8a26d6e9351 |title=Mark Carney Holds Rally in Fredericton |date=April 21, 2025 |access-date=August 25, 2025 |via=[[CPAC (TV channel)|CPAC]]}}</ref>
+* [[Mike Myers]]<ref>{{Cite news |title=Carney releases another Mike Myers video, this time without a citizenship quiz |first=Kenn |last=Oliver |newspaper=[[National Post]] |date=March 24, 2025 |url=https://nationalpost.com/news/canada/carney-myers-canada-skit |url-status=live |archive-url=https://archive.today/20250324200805/https://nationalpost.com/news/canada/carney-myers-canada-skit |archive-date=March 24, 2025 |access-date=March 25, 2025}}</ref>
+* [[Benjamin Perrin|Ben Perrin]]<ref>{{Cite web |title=Pundit panel: do endorsements matter? |url=https://www.hilltimes.com/story/2025/04/18/pundit-panel-do-endorsements-matter/457676/ |access-date=April 20, 2025 |website=The Hill Times}}</ref>
+* [[Neil Young]]<ref>{{Cite news |last=Tiberio |first=Vanessa |date=April 15, 2025 |title='You've got the chops to get it done': Neil Young endorses Mark Carney ahead of federal election |url=https://www.thestar.com/news/canada/youve-got-the-chops-to-get-it-done-neil-young-endorses-mark-carney-ahead-of/article_045beba5-de64-4e8e-9956-825979ecddd4.html |work=[[Toronto Star]]}}</ref>
+
+|
+* [[Conrad Black]]<ref>{{Cite web |last=Black |first=Conrad |date=April 26, 2025 |title=Conrad Black: Pierre Poilievre is the obvious choice for Canada |url=https://nationalpost.com/opinion/conrad-black-15}}</ref>
+* [[Gordon Campbell (Canadian politician)|Gordon Campbell]]<ref name="Clark_Campbell" />
+* [[Drew Dilkens]]<ref>{{Cite news |last=Hindi |first=Rob |date=April 11, 2025 |title=Dilkens robocall supports Conservative leader Pierre Poilievre |url=https://www.am800cklw.com/news/dilkens-robocall-supports-conservative-leader-pierre-poilievre.html |work=AM800 CKLW}}</ref>
+* [[Stephen Harper]]<ref>{{Cite news |last1=Al Mallees |first1=Nojoud |last2=Stone |first2=Laura |date=April 8, 2025 |title=Harper says Canada's problems not created by Trump as he endorses Poilievre |url=https://www.theglobeandmail.com/politics/federal-election/article-harper-says-canadas-problems-not-created-by-trump-as-he-endorses/ |access-date=April 8, 2025 |work=[[The Globe and Mail]]}}</ref>
+* [[Brett Kissel]]<ref>{{cite news |title='Richer, stronger, safer': Poilievre rallies Tory troops at industrial hub south of Edmonton Monday night |first=Steven |last=Sandor |newspaper=[[Edmonton Journal]] |date=April 8, 2025 |url=https://edmontonjournal.com/news/local-news/poilievre-rallies-tory-troops-edmonton |access-date=April 24, 2025}}</ref>
+* [[Peter MacKay]]<ref>{{cite news |title=Poilievre blasts Sean Fraser's record as housing, immigration minister at N.S. rally |work=[[CBC News]] |date=April 24, 2025 |url=https://www.cbc.ca/news/canada/nova-scotia/pierre-poilievre-criticizes-sean-fraser-central-nova-rally-1.7517080 |access-date=April 25, 2025}}</ref>
+* [[Scott Moe]]<ref>{{Cite web |date=April 23, 2025 |title=Premier Scott Moe endorses Pierre Poilievre's Conservative Party |url=https://www.ckom.com/2025/04/23/premier-scott-moe-endorses-pierre-poilievres-conservative-party/ |access-date=April 23, 2025 |website=[[CKOM|650 CKOM]]}}</ref>
+* [[Caroline Mulroney]]<ref>{{Cite news |last1=Callan |first1=Isaac |last2=D'Mello |first2=Colin |date=April 3, 2025 |title='Good for her': Ford says he allowed cabinet minister to endorse Poilievre |url=https://globalnews.ca/news/11114405/ford-poilievre-endorsement/ |access-date=April 4, 2025 |work=[[Global News]]}}</ref>
+* [[Moses Znaimer]]<ref>{{cite news |url=https://www.thestar.com/politics/political-opinion/pierre-poilievre-event-reveals-how-easy-it-is-to-ignore-elections-canada-rules/article_887d48e7-20a0-4425-9c56-d9947a880687.html |title=Pierre Poilievre event reveals how easy it is to ignore Elections Canada rules |first=Althia |last=Raj |author-link=Althia Raj |newspaper=[[Toronto Star]] |date=April 22, 2025 |access-date=April 23, 2025}}</ref>
+
+|
+* [[Mario Pelchat]]<ref>{{Cite news |title=Mario Pelchat appuie son ami Yves-François Blanchet |website=Noovo |date=April 20, 2025 |url=https://www.noovo.info/nouvelle/blanchet-a-la-cabane-a-sucre-pour-le-lait.html |access-date=April 21, 2025}}</ref>
+|
+* [[David Eby]]<ref>{{Cite news |title=B.C. premier urges support for federal NDP after former leader Tom Mulcair calls party 'an afterthought' |website=CBC News |date=April 4, 2025 |url=https://www.cbc.ca/news/canada/british-columbia/david-eby-jagmeet-singh-1.7502359 |access-date=April 4, 2025}}</ref>
+* [[Rachel Notley]]<ref>{{Cite news |title=Former Alberta Premier Notley rallies for NDP support in campaign final stretch |website=CTV News |date=April 23, 2025 |url=https://edmonton.citynews.ca/2025/04/23/former-alberta-premier-notley-rallies-for-ndp-support-in-campaign-final-stretch/ |access-date=April 23, 2025}}</ref>
+* [[Stewart Phillip]]<ref>{{cite news |last=Powrie |first=Chelsea |date=April 9, 2025 |title=Grand Chief Stewart Philip of Union of BC Indian Chiefs endorses federal NDP |url=https://www.castanet.net/news/Penticton/543538/Grand-Chief-Stewart-Philip-of-Union-of-BC-Indian-Chiefs-endorses-federal-NDP |work=Castanet |access-date=April 17, 2025}}</ref>
+* [[Glen Clark]]<ref>{{cite news |first=Glen |last=Clark |title=Don't choose between two conservatives |work=Vancouver Sun |date=April 24, 2025 |url=https://vancouversun.com/opinion/op-ed/glen-clark-dont-choose-between-two-conservatives |access-date=April 28, 2025}}</ref>
+|- valign="top"
+|Unions and business associations
+|
+* [[International Union of Operating Engineers#Local 793|International Union of Operating Engineers Local 793]]<ref>{{Cite web |title=Local 793 Endorses Liberal Leader Mark Carney During Visit To Training Centre – IUOE Local 793 |url=https://iuoelocal793.org/local-793-endorses-liberal-leader-mark-carney-during-visit-to-training-centre/ |access-date=April 5, 2025 |website=iuoelocal793.org}}</ref>
+* Carpenters' Regional Council<ref name="tradewar">{{Cite web |title=How a trade war upended Poilievre's push to attract union workers |url=https://www.theglobeandmail.com/business/article-the-conservatives-are-working-hard-for-blue-collar-votes-will-that/ |access-date=April 23, 2025 |work=The Globe & Mail |date=April 22, 2025}}</ref>
+|
+* Durham Regional Police Association<ref>{{Cite news |last=Passifiume |first=Bryan |date=April 9, 2025 |title=Tories racking up trade union endorsements |url=https://torontosun.com/news/national/federal_elections/tories-racking-up-trade-union-endorsements |newspaper=[[Toronto Sun]]}}</ref>
+* Friends of Free Enterprise in Canada<ref>{{Cite web |last=Riehl |first=Alex |date=April 14, 2025 |title=Several tech figures endorse Pierre Poilievre's Conservatives in open letter connected to Fairfax Financial |work=BetaKit |url=https://betakit.com/several-tech-figures-endorse-pierre-poilievres-conservatives-in-open-letter-connected-to-fairfax-financial/ |access-date=April 23, 2025}}</ref>
+* [[International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers and Helpers|International Brotherhood of Boilermakers]]<ref>{{Cite web |title=Poilievre's Bid to Woo the Union Vote Is Hitting Snags |url=https://thetyee.ca/News/2025/04/04/Poilievre-Bid-Woo-Union-Vote-Snags/ |access-date=April 23, 2025 |website=The Tyee}}</ref>
+* Independent Contractors and Businesses Association<ref>{{Cite news |title=Poilievre's business plans gain Conservatives another endorsement |url=https://www.cbc.ca/player/play/video/9.6701327 |archive-date=March 28, 2025 |access-date=March 28, 2025 |date=March 28, 2025 |url-status=live |archive-url=https://web.archive.org/web/20250328080928/https://www.cbc.ca/player/play/video/9.6701327 |website=[[CBC News]]}}</ref>
+* Merit Canada<ref>{{cite news |title=Anti-Union Lobby Groups are Endorsing Pierre Poilievre's Conservatives |first=Emma |last=Arkell |work=[[PressProgress]] |date=March 26, 2025 |url=https://pressprogress.ca/anti-union-lobby-groups-are-endorsing-pierre-poilievres-conservatives/ |access-date=March 31, 2025}}</ref>
+* Ottawa Police Association<ref>{{Cite web |last=Mazloum |first=Toula |date=April 27, 2025 |title=Ottawa Police Association endorses Conservative Party of Canada ahead of federal election |url=https://www.ctvnews.ca/ottawa/article/ottawa-police-association-endorses-conservative-party-of-canada-ahead-of-federal-election/ |access-date=April 27, 2025 |website=CTVNews}}</ref>
+* Peel Regional Police Association<ref name="UnionsCPC" />
+* Sault Ste. Marie Police Association<ref>{{Cite web |title=Sault Police Association endorses Hugh Stevenson |first=Brandon |last=Stevenson |date=April 8, 2025 |url=https://www.sootoday.com/2025-federal-election-news/sault-police-association-endorses-hugh-stevenson-10492578 |access-date=April 8, 2025 |website=SooToday.com}}</ref>
+* [[Toronto Police Association]]<ref>{{Cite news |first1=Maura |last1=Forrest |first2=Nick |last2=Murray |date=April 23, 2025 |title=Poilievre says he would give police more power to dismantle tent cities |url=https://www.bnnbloomberg.ca/federal-election-2025/2025/04/23/poilievre-says-he-would-give-police-more-power-to-dismantle-tent-cities/ |access-date=April 23, 2025 |work=[[BNN Bloomberg]]}}</ref>
+* [[United Association]] Local 67<ref name="UnionsCPC">{{Cite news |last=Hopper |first=Tristin |date=April 2, 2025 |title=Trade unions issue surprise early endorsements for Conservatives |url=https://nationalpost.com/opinion/trade-unions-surprise-early-endorsements-for-conservatives |access-date=April 4, 2025 |work=[[National Post]]}}</ref>
+* [[United Steelworkers]] Local Union 2251<ref>{{Cite web |date=April 17, 2025 |title=Steelworkers union throws support behind Hugh Stevenson |url=https://www.sootoday.com/2025-federal-election-news/missing-candidate-gets-thumbs-up-from-steelworkers-union-10539211 |access-date=April 17, 2025 |website=SooToday.com}}</ref>
+|
+|
+* [[Amalgamated Transit Union]]<ref name="ATUEndorsement">{{cite news |title=Singh acknowledges NDP faces 'massive challenges,' says he won't back down |first=David |last=Baxter |via=[[Toronto Star]] |work=[[The Canadian Press]] |date=March 25, 2025 |url=https://www.thestar.com/politics/federal-elections/singh-acknowledges-ndp-faces-massive-challenges-says-he-wont-back-down/article_1edab607-e9e6-5f47-8f08-5842032fc1f1.html |archive-url=https://archive.today/20250325175510/https://www.thestar.com/politics/federal-elections/singh-acknowledges-ndp-faces-massive-challenges-says-he-wont-back-down/article_1edab607-e9e6-5f47-8f08-5842032fc1f1.html |url-status=live |archive-date=March 25, 2025 |access-date=March 26, 2025}}</ref>
+* [[Canadian Union of Public Employees]]<ref>{{cite web |date=March 24, 2025 |title=CUPE Votes: Help us build a Canada that puts workers first |url=https://cupe.ca/cupe-votes-help-us-build-canada-puts-workers-first |access-date=March 25, 2025 |url-status=live |archive-url=https://web.archive.org/web/20250328104540/https://cupe.ca/cupe-votes-help-us-build-canada-puts-workers-first |archive-date=March 28, 2025 |website=[[Canadian Union of Public Employees]]}}</ref>
+* [[United Steelworkers]]<ref name="USWNDP">{{cite press release |date=March 20, 2025 |title=Jagmeet Singh and the NDP put workers first in this election – United Steelworkers |url=https://usw.ca/usw-endorses-ndp-federal-election/ |archive-url=https://web.archive.org/web/20250322193318/https://usw.ca/usw-endorses-ndp-federal-election/ |archive-date=March 22, 2025 |url-status=live |access-date=March 22, 2025 |work=[[United Steelworkers]]}}</ref>
+|}
+
+=== Leaders' debates ===
+{{main|Canadian leaders' debates#2025 debates}}
+
+In its May 2022 report, the [[Leaders' Debates Commission]] recommended various improvements for future debates, and that it remain a permanent publicly funded entity to organize leaders' debates.<ref name="Report2022">{{Cite news |work=[[Government of Canada]] |date=May 10, 2022 |url=https://www.debates-debats.ca/en/news/2022/final-report-2021-federal-election-experience |title=Leaders' Debates Commission releases its final report on the 2021 federal election experience |access-date=March 24, 2023}}</ref><ref>{{cite news |agency=[[The Canadian Press]] |date=May 10, 2022 |title=Report finds 2021 federal election debates were clumsy and didn't help voters understand policy |url=https://www.cbc.ca/news/politics/leaders-debates-report-1.6448673 |work=[[CBC News]] |access-date=March 24, 2023}}</ref> In October 2024, the Leaders' Debate Commission announced that the English-language debate would be hosted by [[TVO]]'s [[Steve Paikin]], while the French-language debate would be hosted by [[Ici RDI]]'s [[Patrice Roy]].<ref name="2025DebatesProduction">{{cite news |last1=Tasker |first1=John Paul |date=October 28, 2024 |title=TVO's Steve Paikin will host federal leaders' English-language election debate |url=https://www.cbc.ca/news/politics/federal-leaders-debate-next-election-1.7365529 |access-date=March 23, 2025 |work=[[CBC News]]}}</ref> [[TVA Nouvelles]] had announced plans to host its own French-language debate with the Bloc, Conservative, Liberal, and NDP leaders, but cancelled the event after the Liberal Party withdrew.<ref>{{cite news |last=Tunney |first=Catharine |date=March 24, 2025 |title=Federal leaders' debates scheduled for April 16–17 in Montreal |url=https://www.cbc.ca/news/politics/federal-leaders-debate-1.7491495 |access-date=March 24, 2025 |work=CBC News}}</ref><ref>{{cite web |last=Thériault |first=Jean-François |date=March 24, 2025 |title=Le débat de TVA est annulé après le retrait de Mark Carney |trans-title=TVA debate cancelled after withdrawal of Mark Carney |url=https://ici.radio-canada.ca/nouvelle/2150113/mark-carney-face-a-face-tva |access-date=March 24, 2025 |website=ici.radio-canada.ca |publisher=[[Canadian Broadcasting Corporation]] |language=fr}}</ref>
+
+On April 1, 2025, the commission announced that it had invited the leaders of the Bloc Québécois, Conservative Party, Green Party, Liberal Party, and New Democratic Party to the debates. Invitations were issued on the basis of meeting at least two of three conditions: having at least one sitting MP, recording at least 4% support in national opinion polling, and endorsing candidates in at least 90 percent of ridings.<ref name="DebateInvites">{{cite web |title=Leaders' Debates Commission invites leaders to the next leaders' debates |url=https://www.debates-debats.ca/en/news/2025/commission-invites-leaders-debates/index.htm |website=[[Leaders' Debates Commission]] |access-date=April 1, 2025 |date=April 1, 2025}}</ref> The Green Party's invitation was rescinded on April 16 as it ultimately ran candidates in 232 ridings (less than 70 percent) despite earlier submitting to the Commission that it would run candidates in every riding.<ref>{{Cite news |url=https://www.cbc.ca/news/politics/green-party-debate-commission-rules-candidate-numbers-1.7509867 |title=Debates commission defends inviting Greens despite party's candidate shortage |first=Darren |last=Major |work=CBC News |date=April 14, 2025 |access-date=April 14, 2025}}</ref><ref name="cbc-gpc-dropped">{{Cite web |date=April 16, 2025 |title=Green Party dropped from leaders' debates for not running enough candidates |url=https://www.cbc.ca/news/politics/leaders-debate-commission-green-party-removed-1.7511447 |website=[[CBC News]]}}</ref> The People's Party was not invited, as it did not meet the criteria of either holding a seat in Parliament or polling at least 4%.<ref name="DebateInvites" /><ref name="DebateDateAnnounce">{{cite web |date=March 24, 2025 |title=Leaders' Debates Commission announces dates, location for upcoming debates, and leader participation decision date |url=https://www.debates-debats.ca/en/news/2025/debate-dates-announced/index.htm |access-date=March 24, 2025 |website=[[Leaders' Debate Commission]]}}</ref>{{efn|name=ppc-excluded|Under the 2021 debate rules, the party would have qualified by having received over 4% (4.94%) of the vote in the 2021 election.<ref name="2021DebateRules">{{cite web |date=June 22, 2021 |title=Leaders' Debates Commission announces dates, location for upcoming debates, and leader participation decision date |url=https://www.debates-debats.ca/en/participation-criteria/criteria-for-next-election/ |access-date=April 29, 2025 |website=[[Leaders' Debate Commission]]}}</ref> This criterion was removed in the 2025 eligibility rules.}}
+
+On April 15, the leaders of the Bloc Québécois and the NDP suggested rescheduling the French language debate because of the debate coinciding with the final [[ice hockey|hockey]] game of the [[Montreal Canadiens]]' regular season, after it became clear the game would decide whether the Canadiens would make the [[2025 Stanley Cup playoffs|playoffs]]. The Commission declined to reschedule the debate to a different day, but agreed to move the start time two hours earlier to 6:00 pm [[Eastern Daylight Time|EDT]].<ref>{{cite news |url=https://globalnews.ca/news/11132946/canada-election-leaders-debate-french-postponement-montreal-canadiens-game/ |title=French election debate time moved to avoid Montreal Canadiens game conflict |first=Sean |last=Previl |work=[[Global News]] |date=April 15, 2025 |access-date=April 16, 2025}}</ref>
+
+A post-debate news scrum after the French language debate was dominated by the far-right ''[[Rebel News]]'' and other right-wing media outlets, leading to complaints from other journalists at the event.<ref name="NOW_debate">{{cite web |title='Canadians deserve better,' Voters are disappointed after Leaders' Debates Commission cancelled post-debate scrums due to security concerns |first=Beatriz |last=Ferreira |date=April 18, 2025 |website=[[NOW Toronto]] |url=https://nowtoronto.com/news/voters-are-disappointed-after-leaders-debates-commission-cancelled-post-debate-scrums-due-to-security-concerns/ |access-date=April 19, 2025}}</ref> Michel Cormier, the commission's executive director, responded that he was "unaware" that ''Rebel News'' and another organization associated with ''Rebel'' founder [[Ezra Levant]] were registered as third-party advertisers with Elections Canada.<ref>{{cite news |title=Debates commission unaware Rebel News registered as advocacy group, official says |first=Darren |last=Major |work=CBC News |date=April 17, 2025 |url=https://www.cbc.ca/news/politics/rebel-news-rightwing-media-press-conferences-debates-1.7512714 |access-date=April 19, 2025}}</ref><ref name="NP_debate">{{cite news |title=Party leaders didn't take media questions after the English debate. Here's why |first=Catherine |last=Lévesque |newspaper=National Post |date=April 17, 2025 |url=https://nationalpost.com/news/party-leaders-reporters-questions-english-debate |access-date=April 19, 2025}}</ref> In an interview, [[David Cochrane (journalist)|David Cochrane]] of [[CBC News]] asked Cormier about the fairness of the distribution of questions among outlets and the type of questions asked. Cormier responded, "There's only so much we can do to control free speech."<ref>{{cite news |date=April 18, 2025 |title=Federal debates chief says he was unaware Rebel News had registered as advocacy group |url=https://www.ctvnews.ca/politics/article/federal-debates-chief-says-he-was-unaware-rebel-news-had-registered-as-advocacy-group/ |access-date=April 29, 2025 |agency=The Canadian Press |via=CTV News}}</ref> During the English language debate the next day, [[CTV News]] and ''[[The Globe and Mail]]'' reported a disturbance between Levant and journalists from other outlets, and a [[Global News]] reporter suggested that ''Rebel'' staff tried to interfere with the live broadcast of the debate.<ref name="NOW_debate" /> Cormier abruptly cancelled the planned news scrum, citing security concerns, as [[Montreal Police]] secured the venue.<ref name="NP_debate" /><ref>{{cite news |title=Post-leaders' debate scrums cancelled due to security concerns |first=Spencer |last=Van Dyk |date=April 17, 2025 |work=CTV News |url=https://www.ctvnews.ca/federal-election-2025/article/post-leaders-debate-scrums-cancelled-due-to-security-concerns/ |access-date=April 19, 2025}}</ref>
+
+{|class="wikitable" style="text-justify: none"
+|+ 2025 Canadian general election debates
+|- style="font-size:small;"
+! rowspan="3" | Date
+! rowspan="3" | Organizers
+! rowspan="3" | Location
+! rowspan="3" | Language
+! rowspan="3" | Moderator
+! colspan="5" |<small>{{Colors|black|#99ff99| &nbsp;P&nbsp; }} Participant {{Colors|black|#FFBF7F| &nbsp;R&nbsp; }} Rescinded invitation </small>
+! rowspan="3" | Source
+|-
+! style="width:6em;" | [[Mark Carney|Carney]]
+! style="width:6em;" | [[Pierre Poilievre|Poilievre]]
+! style="width:6em;" | [[Yves-François Blanchet|Blanchet]]
+! style="width:6em;" | [[Jagmeet Singh|Singh]]
+! style="width:6em;" | [[Jonathan Pedneault|Pedneault]]{{efn|name="GPC debate"|Despite having two co-leaders, the Greens chose Pedneault to represent them in all debates and interviews.<ref>{{cite news |title=Green co-leader Jonathan Pedneault to be face of party's national campaign |first=Darren |last=Major |work=CBC News |date=March 22, 2024 |url=https://www.cbc.ca/news/politics/jonathan-pedneault-co-leader-green-party-election-campaign-1.7489822 |access-date=March 24, 2025}}</ref>}}
+|-
+! style="background:{{Canadian party colour|CA|Liberal}}" |
+! style="background:{{Canadian party colour|CA|Conservative}}" |
+! style="background:{{Canadian party colour|CA|BQ}}" |
+! style="background:{{Canadian party colour|CA|NDP}}" |
+! style="background:{{Canadian party colour|CA|Green}}" |
+|-
+| April 16, 2025 ||rowspan=2|[[Leaders' Debates Commission]] ||rowspan=2| [[Maison de Radio-Canada]], [[Montreal]] || French || [[Patrice Roy]]
+| style="background-color:#99ff99; color:black; text-align:center;"|'''P'''
+| style="background-color:#99ff99; color:black; text-align:center;"|'''P'''
+| style="background-color:#99ff99; color:black; text-align:center;"|'''P'''
+| style="background-color:#99ff99; color:black; text-align:center;"|'''P'''
+| style="background-color:#FFBF7F; color:black; text-align:center;"|'''R'''{{efn|name="gpc-rescinded"|Invited on April 1. Invitation rescinded on April 16 due to the party running candidates in fewer than 90% of ridings.<ref name="cbc-gpc-dropped" />}}
+|<ref name="2025DebatesProduction" /><ref name="DebateDateAnnounce" /><ref name="DebateInvites" />
+|-
+| April 17, 2025 || English || [[Steve Paikin]]
+| style="background-color:#99ff99; color:black; text-align:center;"|'''P'''
+| style="background-color:#99ff99; color:black; text-align:center;"|'''P'''
+| style="background-color:#99ff99; color:black; text-align:center;"|'''P'''
+| style="background-color:#99ff99; color:black; text-align:center;"|'''P'''
+| style="background-color:#FFBF7F; color:black; text-align:center;"|'''R'''{{efn|name="gpc-rescinded"}}
+|<ref name="DebateDateAnnounce" /><ref name="DebateInvites" />
+|}
+
+==Opinion polling==
+{{Main|Opinion polling for the 2025 Canadian federal election|Opinion polling for the 2025 Canadian federal election by constituency}}
+
+{{Canadian federal election opinion polling|2011|2015|2019|2021|2025|byCon1=yes|byCon2=yes|byCon3=yes|byCon4=yes|byCon5=yes}}
+
+[[File:Opinion polling during the 2025 Canadian federal election campaign.svg|thumb|left|600px|Evolution of voting intentions according to polls conducted during the 2025 Canadian federal election campaign period, graphed from the data in the tables below. Trendlines are 30-poll [[local regression]]s, with polls weighted by proximity in time and a [[Logarithmic growth|logarithmic function]] of sample size. 95% confidence ribbons represent uncertainty about the trendlines, not the likelihood that actual election results would fall within the intervals.]]
+[[File:Opinion polling during the pre-campaign period of the 45th Canadian federal election.svg|600px|thumb|left|Evolution of voting intentions according to polls conducted during the pre-campaign period of the 45th Canadian federal election, graphed from the data in the table below. Trendlines are 30-poll [[local regression]]s, with polls weighted by proximity in time and a [[Logarithmic growth|logarithmic function]] of sample size. 95% confidence ribbons represent uncertainty about the trendlines, not the likelihood that actual election results would fall within the intervals.]]
+{{clear}}
+
+==Results==
+{{see also|Results of the 2025 Canadian federal election by riding|Results breakdown of the 2025 Canadian federal election}}
+
+The Liberals maintained their status as being the largest party in the House of Commons and won the popular vote for the first time since the 2015 election, after having lost the popular vote in the 2019 and 2021 federal elections.
+
+{{2025 Canadian federal election results}}
+{| class="wikitable" style="margin:auto; font-size:85%; text-align:center;"
+|+
+! colspan="3" | 
+|- bgcolor=#f8f9fa
+|[[File:Canada 2025 Lib Con Swing.svg|center|306px]]
+|[[File:Canada 2025 Lib Con Swing Seats.svg|center|306px]]
+|[[File:Canada 2025 Lib Con Percentage Bivariate.svg|center|306px]]
+|-
+|Two-party vote swing
+|Two-party seat swing
+|Two-party vote share 
+|- bgcolor=#f8f9fa
+|[[File:Canada-2025-election-liberals-by-riding.svg|306px]]
+|-
+|Liberals' performance by riding
+|}
+
+===Judicial recounts===
+On May 5, [[Irek Kusmierczyk]], the Liberal candidate running in [[Windsor—Tecumseh—Lakeshore]], applied for a [[election recount|judicial recount]].<ref>{{cite news |last=Loop |first=Emma |date=May 5, 2005 |title=Liberals' Kusmierczyk pushes for recount in 'razor-thin' loss to Conservatives |url=https://www.cbc.ca/news/canada/windsor/election-recount-liberals-conservatives-windsor-tecumseh-1.7527204 |work=[[CBC News]] |access-date=May 7, 2005}}</ref> In addition, for differences in votes slimmer than 0.1%, judicial recounts were automatically triggered in 3 ridings.<ref>{{cite news |date=April 29, 2025 |title=Two ridings were won by less than 40 votes in Canada's federal election |work=[[CP24]] |agency=[[CTV News]] |url=https://www.cp24.com/news/canada/2025/04/29/these-are-the-tightest-races-in-canadas-2025-federal-election/ |access-date=April 30, 2025}}</ref>
+
+{| class="wikitable" style="border-collapse:collapse;"
+! colspan="2" rowspan="2" | Riding
+! colspan="4" | Initial validated results, first and second place
+! colspan="3" | Recount
+! colspan="4" | Judicially certified results, first and second place
+|-
+! colspan="2" style="width:20%;" | Candidate
+! Votes
+! %
+! Type
+! Start
+! End
+! colspan="2" style="width:20%;" | Candidate
+! Votes
+! %
+|-
+| rowspan="2" | ON
+| rowspan="2" | [[Milton East—Halton Hills South]]
+| {{Canadian party colour|CA|Liberal|background}}| &nbsp;
+| [[Kristina Tesser Derksen]]
+| 32,130
+| 48.26%
+| rowspan="2" | Automatic
+| rowspan="2" | May 13<ref>{{cite press release |date=May 9, 2025 |title=Judicial Recount to Be Held in the Electoral District of Milton East–Halton Hills South |url=https://elections.ca/content.aspx?section=med&dir=pre&document=may0925a&lang=e |publisher=Elections Canada |access-date=May 9, 2025}}</ref>
+| rowspan="2" | May 16
+| {{Canadian party colour|CA|Liberal|background}}| &nbsp;
+| Kristina Tesser Derksen
+| 32,178
+| 48.25%
+|-
+| {{Canadian party colour|CA|Conservative|background}}| &nbsp;
+| [[Parm Gill]]
+| 32,101
+| 48.21%
+| {{Canadian party colour|CA|Conservative|background}}| &nbsp;
+| Parm Gill
+| 32,157
+| 48.22%
+|-
+| rowspan="2" | NL
+| rowspan="2" | [[Terra Nova—The Peninsulas]]
+| {{Canadian party colour|CA|Liberal|background}}| &nbsp;
+| [[Anthony Germain]]
+| 19,704
+| 47.97%
+| rowspan="2" | Automatic
+| rowspan="2" | May 12<ref>{{cite press release |date=May 9, 2025 |title=Judicial Recount to Be Held in the Electoral District of Terra Nova—The Peninsulas |url=https://elections.ca/content.aspx?section=med&dir=pre&document=may0925&lang=e |publisher=Elections Canada |access-date=May 9, 2025}}</ref>
+| rowspan="2" | May 23<ref name="RyanKennedy0525">{{cite news |last1=Ryan |first1=Maddie |last2=Kennedy |first2=Alex |title=Conservative Jonathan Rowe wins Terra Nova-The Peninsulas following recount |url=https://www.cbc.ca/news/canada/newfoundland-labrador/terra-nova-peninsulas-recount-decision-1.7538809 |work=[[CBC News]]}}</ref>
+| {{Canadian party colour|CA|Conservative|background}}| &nbsp;
+| Jonathan Rowe
+| 19,605
+| 47.96%
+|-
+| {{Canadian party colour|CA|Conservative|background}}| &nbsp;
+| [[Jonathan Rowe (politician)|Jonathan Rowe]]
+| 19,692
+| 47.94%
+| {{Canadian party colour|CA|Liberal|background}}| &nbsp;
+| Anthony Germain
+| 19,593
+| 47.93%
+|-
+| rowspan="2" | QC
+| rowspan="2" | [[Terrebonne (federal electoral district)|Terrebonne]]
+| {{Canadian party colour|CA|BQ|background}}| &nbsp;
+| [[Nathalie Sinclair-Desgagné]]
+| 23,340
+| 38.77%
+| rowspan="2" | Automatic
+| rowspan="2" | May 8<ref>{{cite press release |title=Judicial Recount to Be Held in the Electoral District of Terrebonne |url=https://www.elections.ca/content.aspx?section=med&dir=pre&document=may0725&lang=e |website=[[Elections Canada]] |access-date=May 8, 2025 |date=May 7, 2025}}</ref>
+| rowspan="2" | May 10
+| {{Canadian party colour|CA|Liberal|background}}| &nbsp;
+| Tatiana Auguste
+| 23,352
+| 38.741%
+|-
+| {{Canadian party colour|CA|Liberal|background}}| &nbsp;
+| [[Tatiana Auguste]]
+| 23,296
+| 38.70%
+| {{Canadian party colour|CA|BQ|background}}| &nbsp;
+| Nathalie Sinclair-Desgagné
+| 23,351
+| 38.739%
+|-
+| rowspan="2" | ON
+| rowspan="2" | [[Windsor—Tecumseh—Lakeshore]]
+| {{Canadian party colour|CA|Conservative|background}}| &nbsp;
+| [[Kathy Borrelli]]
+| 32,062
+| 45.80%
+| rowspan="2" | Requested<br>(granted by judge)
+| rowspan="2" | May 20<ref>{{cite press release |date=May 9, 2025 |title=Judicial Recount to Be Held in the Electoral District of Windsor–Tecumseh–Lakeshore |url=https://elections.ca/content.aspx?section=med&dir=pre&document=may0925b&lang=e |publisher=Elections Canada |access-date=May 9, 2025}}</ref>
+| rowspan="2" | May 22
+| {{Canadian party colour|CA|Conservative|background}}| &nbsp;
+| Kathy Borrelli
+| 32,090
+| 45.753%
+|-
+| {{Canadian party colour|CA|Liberal|background}}| &nbsp;
+| [[Irek Kusmierczyk]]
+| 31,985
+| 45.69%
+| {{Canadian party colour|CA|Liberal|background}}| &nbsp;
+| Irek Kusmierczyk
+| 32,086
+| 45.747%
+|-
+|}
+
+====Terrebonne====
+{{main|Terrebonne in the 2025 Canadian federal election}}
+
+After the Terrebonne recount result was announced, it emerged that a mail-in ballot had been returned by Canada Post because of a faulty address, even though the envelope had been preprinted by the office of the local returning officer. As the ballot was marked for the Bloc candidate, a tie vote would have forced a by-election.<ref>{{cite news |last=Olson |first=Isaac |date=May 12, 2025 |title=Liberals won Terrebonne, Que., riding by 1 vote — but this woman's Bloc ballot wasn't counted |url=https://www.cbc.ca/news/canada/montreal/elections-canada-investigating-terrebonne-1.7533228 |work=[[CBC News]]}}</ref> On May 14, Elections Canada announced that they had conducted an analysis revealing that only that ballot had come to their attention, but they were expanding their review of the special ballot voting system in general, which had been announced after a separate incident occurred in [[Coquitlam—Port Coquitlam]].<ref>{{cite press release |date=May 14, 2025 |title=Review of Special Ballot System |url=https://www.elections.ca/content.aspx?section=med&dir=pre&document=may1425&lang=e |publisher=[[Elections Canada]]}}</ref><ref>{{cite press release |date=May 7, 2025 |title=Issue with some special ballots in Coquitlam–Port Coquitlam |url=https://elections.ca/content.aspx?section=med&dir=pre&document=may0725b&lang=e |publisher=[[Elections Canada]]}}</ref> However, the agency declared that it regards the result of the judicial recount as final.<ref>{{cite news |last=Morrison |first=Catherine |date=May 14, 2025 |title=Elections Canada says Terrebonne, Que., result is final despite mailing error |url=https://www.cbc.ca/news/canada/montreal/terrebonne-elections-canada-1.7535347 |work=[[CBC News]]}}</ref> According to reports by [[Ici Radio-Canada Télé|Radio-Canada]] and ''[[Le Devoir]]'', the Bloc was not ruling out contesting the result in court but had to wait until the result of the recount was published in the ''[[Canada Gazette]]'',<ref>{{cite news |last=Bordeleau |first=Stéphane |date=May 14, 2025 |title=Le Bloc québécois n'exclut pas une contestation judiciaire dans Terrebonne |trans-title=The Bloc Québécois is not ruling out contesting the Terrebonne result in court |language=French |url=https://ici.radio-canada.ca/nouvelle/2165002/bloc-quebecois-options-vote-terrebonne-resultats |publisher=[[Ici Radio-Canada Télé|Radio-Canada]]}}</ref><ref>{{cite news |agency=Canadian Press |date=May 14, 2025 |title=Le Bloc québécois étudie toutes ses options concernant le vote dans Terrebonne |trans-title=The Bloc Québécois is studying all its options concerning the Terrebonne vote |language=French |url=https://www.ledevoir.com/politique/canada/879406/bloc-quebecois-etudie-toutes-options-concernant-vote-terrebonne |work=[[Le Devoir]]}}</ref> which occurred on May 15.<ref>{{cite journal |date=May 15, 2025 |title=Return of members elected at the 45th general election |url=https://gazette.gc.ca/rp-pr/p1/2025/2025-05-15-x10/pdf/g1-159x10.pdf |journal=Canada Gazette, Part I Extra |volume=159 |issue=10}}</ref> Auguste was consequentially able to be sworn in as MP for the riding.<ref>{{cite news |last=Proulx |first=Boris |date=May 16, 2025 |title=Malgré la contestation, Tatiana Auguste est confirmée députée dans Terrebonne |url=https://www.ledevoir.com/politique/canada/880744/malgre-contestation-tatiana-auguste-confirmee-deputee-terrebonne |trans-title=In spite of the result being contested, Tatiana Auguste is confirmed as MP in Terrebonne |work=[[Le Devoir]] |language=French}}</ref>
+
+On May 15, [[Yves-François Blanchet]] announced in Ottawa that that the Bloc would be applying to the [[Superior Court of Quebec]] to order a by-election on the basis of irregularities that occurred, not just on the ballot returned to the voter, but also on five other ballots that had been received by Elections Canada too late to be counted.<ref>{{cite news |last=Proulx |first=Proulx |date=May 15, 2025 |title=Le Bloc saisit les tribunaux pour Terrebonne |url=https://www.ledevoir.com/politique/quebec/880123/bloc-saisit-tribunaux-terrebonne |trans-title=The Bloc is going to the court for Terrebonne |language=French |work=[[Le Devoir]]}}</ref> He said, "Since Elections Canada cannot by themselves ask for the election to be repeated, we have to bring this situation in front of a judge, in a court, in order to do the election all over again." The application was filed in court on May 23,<ref>{{cite news |agency=Canadian Press |date=May 23, 2025 |title=Bloc Québécois files legal challenge of Terrebonne riding results after 1-vote loss |url=https://www.cbc.ca/news/canada/montreal/bloc-quebecois-files-legal-challenge-terrebonne-1.7542470 |work=[[CBC News]]}}</ref> and the hearing took place in October 2025 where the request was rejected.<ref name="TerrebonneCBC">{{cite news |last=Banerjee |first=Sidhartha |date=October 27, 2025 |title=Bloc Québécois candidate who lost by 1 vote loses bid to have result cancelled |url=https://www.cbc.ca/news/canada/montreal/quebec-terrebonne-riding-single-vote-9.6955068 |url-status=live |publisher=[[CBC News]]}} discussing ''Sinclair-Desgagné c. Procureur général du Canada'' [https://canlii.ca/t/kg5gv 2025 QCCS 3859] at par. 4 (in French)</ref><ref>{{cite news |last=Tilmant |first=Julien |date=June 18, 2025 |title=Contestation électorale à Terrebonne : L'audience fixée en octobre |url=https://www.larevue.qc.ca/article/actualites/contestations-electorales-a-terrebonne-laudience-fixee-aux-20-21-et-22-octobre/ |trans-title= Electoral challenge in Terrebonne: Hearing set for October |language=French |work=[[:fr:La Revue de Terrebonne|La Revue de Terrebonne]]}}</ref>
+
+If it had been successful, this would have been the first time at the federal level that an election result had been overturned on such grounds.<ref name="Cabrera0525">{{cite news |last=Cabrera |first=Holly |date=May 15, 2025 |title=Bloc Québécois pushes for byelection in Terrebonne, after 5 more ballot issues declared in riding |url=https://www.cbc.ca/news/canada/montreal/bloc-quebecois-blanchet-recount-challenge-terrebonne-1.7535613 |work=[[CBC News]]}}</ref> The last attempt to do so arose in [[Etobicoke Centre (federal electoral district)|Etobicoke Centre]] [[2011 Canadian federal election|in 2011]], where [[Ted Opitz]] defeated [[Borys Wrzesnewskyj]] by 26 votes. The application was allowed at first instance, but the ruling was reversed 4–3 on appeal to the [[Supreme Court of Canada]], a process that took a year and a half to complete.<ref>{{cite news |last=Crête |first=Mylène |date=May 15, 2025 |title=Le Bloc québécois conteste le résultat dans Terrebonne |url=https://www.lapresse.ca/actualites/politique/2025-05-15/elections-federales/le-bloc-quebecois-conteste-le-resultat-dans-terrebonne.php |trans-title=The Bloc Québécois is contesting the result in Terrebonne |work=[[La Presse]] |language=French}}</ref><ref>{{cite CanLII |litigants=Opitz v Wrzesnewskyj |year=2012 |court=scc |num=55 |parallelcite=[2012] 3 SCR 76 |date=October 25, 2012}}, allowing an appeal and dismissing a cross-appeal from {{cite CanLII |litigants=Wrzesnewskyj v Attorney General |year=2012 |court=onsc |num=2873 }}</ref>
+
+At the beginning of October, ''[[La Presse]]'' reported that the worker at the constituency office responsible for issuing the faulty address labels was aware of the error three weeks before Election Day but failed to advise the returning officer or the voters concerned. He swore an [[affidavit]] to that effect for use at the forthcoming court hearing on October 20.<ref>{{cite news |last=Crête |first=Mylène |date=October 2, 2025 |title=L'erreur de code postal a été découverte trois semaines avant le scrutin |url=https://www.lapresse.ca/actualites/politique/2025-10-02/election-dans-terrebonne/l-erreur-de-code-postal-a-ete-decouverte-trois-semaines-avant-le-scrutin.php |trans-title=The postal code error was discovered three weeks before the vote |work=[[La Presse]] |language=French}}</ref> [[Stéphane Perrault]], the [[Chief Electoral Officer of Canada|chief electoral officer]], noted that [[Elections Canada]] could have issued appropriate instructions to compensate for the error if it had been promptly informed at the time.<ref>{{cite news |last=Crête |first=Mylène |date=October 2, 2025 |title=L'erreur de code postal aurait dû être rapportée rapidement |url=https://www.lapresse.ca/actualites/politique/2025-10-02/election-dans-terrebonne/l-erreur-de-code-postal-aurait-du-etre-rapportee-rapidement.php |trans-title=The postal code error should have been reported promptly |work=[[La Presse]] |language=French}}</ref>
+
+On October 27, the court ruled that a by-election would not be held. Quebec Superior Court justice Éric Dufour held that what happened did not constitute an irregularity as defined in Canadian election law, saying, "It is a simple human error, which sometimes occurs in general elections, committed inadvertently and without any dishonest or malicious intent."<ref name="TerrebonneCBC" />
+
+On November 3, Sinclair-Desgagné announced that she would be appealing the ruling to the [[Supreme Court of Canada]], saying, "The judgment of the Superior Court of Quebec contains several errors of fact as well as an interpretation of the law and jurisprudence that invites an appeal", and that she was also planning to set up a [[crowdfunding]] campaign to raise money for the litigation costs.<ref>{{cite news |last=MacDiarmid |first=Campbell |date=November 3, 2025 |title=Bloc Québécois candidate who lost by 1 vote plans appeal to Supreme Court |url=https://www.cbc.ca/news/politics/bloc-quebecois-candidate-who-lost-by-1-vote-plans-appeal-to-supreme-court-9.6964835 |publisher=[[CBC News]]}}</ref><ref>{{cite news |last=Proulx |first=Boris |date=November 3, 2025 |title=La candidate bloquiste défaite par une voix dans Terrebonne part en Cour suprême |url=https://www.ledevoir.com/politique/canada/930522/candidate-bloquiste-defaite-voix-terrebonne-part-cour-supreme |trans-title=The Bloc candidate defeated by one vote is going to the Supreme Court |work=[[Le Devoir]] |language=French}}</ref><ref>{{cite news |last=Crëte |first=Mylène |date=November 3, 2025 |title=La candidate bloquiste dans Terrebonne porte sa cause devant la Cour suprême |url=https://www.lapresse.ca/actualites/politique/2025-11-03/elections-federales/la-candidate-bloquiste-dans-terrebonne-porte-sa-cause-devant-la-cour-supreme.php |trans-title=The Bloc Candidate in Terrebonne is taking her case to the Supreme Court |work=[[La Presse]] |language=French}}</ref>
+
+The hearing was held on February 13, 2026, and the Supreme Court gave oral judgment immediately afterwards, where it annulled the result of the election in the riding, making way for [[2026 Terrebonne federal by-election|a by-election to be called]].<ref name="supreme-court">{{Cite web |date=February 13, 2026 |title=Supreme Court cancels result from federal election in Terrebonne riding |url=https://www.ctvnews.ca/montreal/article/human-error-or-irregularity-supreme-court-hears-case-on-byelection-won-by-one-vote/ |access-date=February 13, 2026 |website=CTVNews}}</ref> Auguste ceased to be an MP upon the release of the decision. The rationale for the decision will be released at a later date.<ref>{{cite news |last=Proulx |first=Boris |date=February 13, 2026 |title=L'élection fédérale dans Terrebonne est annulée |url=https://www.ledevoir.com/politique/canada/956079/cour-supreme-entend-cause-bloquiste-battue-voix-terrebonne? |trans-title=The federal election in Terrebonne is voided |work=[[Le Devoir]] |language=French}}</ref>
+
+In the subsequent [[2026 Terrebonne federal by-election|Terrebonne federal by-election]] on April 13, 2026, Auguste won the riding by a margin of 648 votes against 47 other candidates.<ref>{{cite news |last1=Pagano |first1=Pamela |title=Terrebonne byelection: Liberal Tatiana Auguste wins rematch in a close contest, as Liberals win majority |url=https://montreal.citynews.ca/2026/04/13/terrebonne-byelection-voters-polls/ |access-date=7 July 2026 |work=[[CityNews]] |date=April 13, 2026 |location=[[Montreal]]}}</ref>
+
+====Terra Nova—The Peninsulas====
+The recount process proved to last longer than anticipated. The 279 ballot boxes had to be gathered together at a central secure location in [[Marystown]] before the process could start.<ref name="KennedyCBC0525">{{cite news |last=Kennedy |first=Alex |date=May 21, 2025 |title=Terra Nova-The Peninsulas decision now expected Friday following water issues in Marystown |url=https://www.cbc.ca/news/canada/newfoundland-labrador/terra-nova-the-peninsulas-recount-friday-1.7540305 |work=[[CBC News]]}}</ref> All 41,670 ballots (including 579 that had initially been rejected) were re-examined, and about 1,000 ballots were determined to be in dispute.<ref>{{cite news |last=Oliver |first=Kenn |date=May 20, 2025 |title=Federal election judicial recount in Newfoundland hits day 8. What's taking so long? |url=https://nationalpost.com/news/canada/judicial-recount-newfoundland-day-eight |work=[[National Post]]}}</ref> After working through the [[Victoria Day]] weekend,<ref>{{cite news |agency=Canadian Press |date=May 15, 2025 |title=Newfoundland riding recount work could go into weekend. What to know |url=https://globalnews.ca/news/11181205/newfoundland-terra-nova-peninsulas-recount-ongoing/ |work=[[Global News]]}}</ref> the work had to stop for two days because of a scheduled shutdown of the local water supply, which forced the closure of all public buildings.<ref name="KennedyCBC0525" /> Work was completed on May 23, resulting in a flipping of the riding to the Conservatives.<ref name="RyanKennedy0525" />
+
+==Summary analysis==
+{| class="wikitable" style="text-align:right;"
+|+ Party candidates in 1st and 2nd place
+|-
+! rowspan="2" colspan="2" style="text-align:left;" | Party in 1st place !! colspan="5"|Party in 2nd place !!rowspan="2"|Total
+|-
+!Lib !!Con !!BQ !! NDP !!Grn
+|-
+{{Canadian party colour|CA|Liberal|row-name}}
+| ||141 ||22 ||6 || ||169
+|-
+{{Canadian party colour|CA|Conservative|row-name}}
+|135 || ||2 ||6 ||1 ||144
+|-
+{{Canadian party colour|CA|BQ|row-name}}
+|21 ||1 || || || ||22
+|-
+{{Canadian party colour|CA|NDP|row-name}}
+|5 ||2 || || || ||7
+|-
+{{Canadian party colour|CA|Green|row-name}}
+|1 || || || || ||1
+|-
+| colspan="2" style="text-align:left;" | Total
+|162 ||144 ||24 ||12 ||1 ||343
+|}
+
+{| class="wikitable" style="text-align:left;"
+|+ Principal races, according to 1st and 2nd-place results
+|-
+! colspan="2" style="text-align:left;" | Parties !!Seats
+|-
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|{{Canadian party colour|CA|Conservative|colour&name}}
+|style="text-align:right;"| 276
+|-
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|{{Canadian party colour|CA|BQ|colour&name}}
+|style="text-align:right;"|43
+|-
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|{{Canadian party colour|CA|NDP|colour&name}}
+|style="text-align:right;"|11
+|-
+|{{Canadian party colour|CA|Conservative|colour&name}}
+|{{Canadian party colour|CA|NDP|colour&name}}
+|style="text-align:right;"|8
+|-
+|{{Canadian party colour|CA|Conservative|colour&name}}
+|{{Canadian party colour|CA|BQ|colour&name}}
+|style="text-align:right;"|3
+|-
+|{{Canadian party colour|CA|Conservative|colour&name}}
+|{{Canadian party colour|CA|Green|colour&name}}
+|style="text-align:right;"|1
+|-
+|{{Canadian party colour|CA|Liberal|colour&name}}
+|{{Canadian party colour|CA|Green|colour&name}}
+|style="text-align:right;"|1
+|-
+| colspan="2" style="text-align:left;" | Total
+|style="text-align:right;"|343
+|}
+
+{| class="wikitable" style="text-align:right;"
+|+ Party rankings (1st to 5th place)
+|-
+! colspan="2" style="text-align:left;" | Party !!1st !!2nd !!3rd !! 4th !!5th
+|-
+{{Canadian party colour|CA|Liberal|row-name}}
+|169 ||162 ||11 || ||
+|-
+{{Canadian party colour|CA|Conservative|row-name}}
+|144 ||144 ||49 ||5 ||
+|-
+{{Canadian party colour|CA|BQ|row-name}}
+|22 ||24 ||30 ||2 ||
+|-
+{{Canadian party colour|CA|NDP|row-name}}
+|7 ||12 ||243 ||79 ||1
+|-
+{{Canadian party colour|CA|Green|row-name}}
+|1 ||1 ||6 ||131 ||90
+|-
+{{Canadian party colour|CA|Independent|row-name}}
+| || ||2 ||7 ||20
+|-
+{{Canadian party colour|CA|PPC|row-name}}
+| || ||1 ||90 ||110
+|-
+{{Canadian party colour|CA|[[Reforge Party|United]]|row-name}}
+| || ||1 ||1 ||5
+|-
+{{Canadian party colour|CA|Christian Heritage|row-name}}
+| || || ||5 ||6
+|-
+{{Canadian party colour|CA|Libertarian|row-name}}
+| || || ||2 ||6
+|-
+{{Canadian party colour|CA|Future|row-name}}
+| || || ||2 ||4
+|-
+{{Canadian party colour|CA|Communist|row-name}}
+| || || ||1 ||7
+|-
+{{Canadian party colour|CA|Rhinoceros|row-name}}
+| || || ||1 ||7
+|-
+{{Canadian party colour|CA|Centrist|row-name}}
+| || || ||1 ||5
+|-
+{{Canadian party colour|CA|Animal Protection|row-name}}
+| || || ||1 ||2
+|-
+{{Canadian party colour|CA|Marxist-Leninist|row-name}}
+| || || || ||7
+|}
+
+{| class="wikitable" style="text-align:right;"
+|+ Change in size of average electorate (major parties, 2025 vs 2021 transposed results)
+! colspan="2" rowspan="2"|Party !! colspan="2"|2021 (transposed)!! colspan="2"|2025 results !! rowspan="2"|Change !! rowspan="2"|Change %
+|-
+! Constituencies !! Average electorate !! Constituencies !! Average electorate
+|-
+{{Canadian party colour|CA|Liberal|row-name}} || 343 || 16,200 || 342 || 25,133 || 8,933 || 55.14%
+|-
+{{Canadian party colour|CA|Conservative|row-name}} || 343 || 16,756 || 342 || 23,724 || 6,968 || 41.59%
+|-
+{{Canadian party colour|CA|BQ|row-name}} || 78 || 16,687 || 78 || 15,851 || -836 || -5.01%
+|-
+{{Canadian party colour|CA|NDP|row-name}} || 343 || 8,852 || 342 || 3,610 || -5,242 || -59.22%
+|-
+{{Canadian party colour|CA|Green|row-name}} || 283 || 1,403 || 232 || 1,030 || -373 || -26.59%
+|-
+{{Canadian party colour|CA|PPC|row-name}} || 323 || 2,604 || 247 || 555 || -2,049 || -78.69%
+|}
+
+===Results by province===
+{| class="wikitable" style="text-align:right;"
+|+Distribution of seats and popular vote %, by party by province/territory (2025){{efn|The provinces' and territories' abbreviations are linked to articles providing the full provincial statistics.}}<ref name="cbc_2025results" /><ref>{{cite web |title=Election Results |url=https://enr.elections.ca/Provinces.aspx?lang=e |website=Elections Canada |access-date=May 6, 2025}}</ref>
+|-
+! colspan="3"|Party name
+! {{abbr|[[2025 Canadian federal election in British Columbia|BC]]|British Columbia}}
+! {{abbr|[[2025 Canadian federal election in Alberta|AB]]|Alberta}}
+! {{abbr|[[2025 Canadian federal election in Saskatchewan|SK]]|Saskatchewan}}
+! {{abbr|[[2025 Canadian federal election in Manitoba|MB]]|Manitoba}}
+! {{abbr|[[2025 Canadian federal election in Ontario|ON]]|Ontario}}
+! {{abbr|[[2025 Canadian federal election in Quebec|QC]]|Quebec}}
+! {{abbr|[[2025 Canadian federal election in New Brunswick|NB]]|New Brunswick}}
+! {{abbr|[[2025 Canadian federal election in Nova Scotia|NS]]|Nova Scotia}}
+! {{abbr|[[2025 Canadian federal election in Prince Edward Island|PE]]|Prince Edward Island}}
+! {{abbr|[[2025 Canadian federal election in Newfoundland and Labrador|NL]]|Newfoundland and Labrador}}
+! {{abbr|[[2025 Canadian federal election in the territories|YT]]|Yukon}}
+! {{abbr|[[2025 Canadian federal election in the territories|NT]]|Northwest Territories}}
+! {{abbr|[[2025 Canadian federal election in Nunavut|NU]]|Nunavut}}
+! Total
+|-
+|{{Canadian party colour|CA|Liberal|background}} rowspan="2"|&nbsp;
+|rowspan="2" style="text-align:left;"|[[Liberal Party of Canada|Liberal]]
+|style="text-align:left;"| Seats:
+|20 ||2 ||1 ||6 ||70 ||44 ||6 ||10 ||4 ||4 ||1 ||1 ||– ||169
+|- style="background-color:#fffacd"
+|style="text-align:left;"| Vote:
+|41.8 ||27.9 ||26.6 ||40.8 ||49.0 ||42.6 ||53.4 ||57.2 ||57.5 ||54.0 ||53.1 ||53.5 ||36.7 ||43.8
+|-
+|{{Canadian party colour|CA|Conservative|background}} rowspan="2"|&nbsp;
+|rowspan="2" style="text-align:left;"|[[Conservative Party of Canada|Conservative]]
+|style="text-align:left;"| Seats:
+|19 ||34 ||13 ||7 ||52 ||11 ||4 ||1 ||– ||3 ||– ||– ||– ||144
+|- style="background-color:#fffacd"
+|style="text-align:left;"| Vote:
+|41.0 ||63.5 ||64.6 ||46.3 ||43.8 ||23.3 ||40.8 ||35.2 ||36.9 ||39.7 ||38.5 ||33.3 ||26.0 ||41.3
+|-
+|{{Canadian party colour|CA|BQ|background}} rowspan="2"|&nbsp;
+|rowspan="2" style="text-align:left;"|[[Bloc Québécois]]
+|style="text-align:left;"| Seats:
+|rowspan="2" colspan="5"| ||22 ||rowspan="2" colspan="7"| ||22
+|- style="background-color:#fffacd"
+|style="text-align:left;"| Vote:
+|27.7 ||6.3
+|-
+|{{Canadian party colour|CA|NDP|background}} rowspan="2"|&nbsp;
+|rowspan="2" style="text-align:left;"|[[New Democratic Party of Canada|NDP]]
+|style="text-align:left;"| Seats:
+|3 ||1 ||– ||1 ||– ||1 ||– ||– ||– ||– ||– ||– ||1 ||7
+|- style="background-color:#fffacd"
+|style="text-align:left;"| Vote:
+|13.0 ||6.3 ||7.6 ||11.0 ||4.9 ||4.5 ||2.9 ||5.2 ||2.5 ||5.5 ||6.3 ||12.2 ||37.3 ||6.3
+|-
+|{{Canadian party colour|CA|Green|background}} rowspan="2"|&nbsp;
+|rowspan="2" style="text-align:left;"|[[Green Party of Canada|Green]]
+|style="text-align:left;"| Seats:
+|1 ||– ||– ||– ||– ||– ||– ||– ||– ||– ||– ||– ||– ||1
+|- style="background-color:#fffacd"
+|style="text-align:left;"| Vote:
+|3.0 ||0.4 ||0.6 ||0.7 ||1.2 ||0.9 ||1.7 ||0.9 ||2.2 ||0.1 ||2.1 ||1.0 ||– ||1.2
+|-
+|{{Canadian party colour|CA|Independent|background}} rowspan="2"|&nbsp;
+|rowspan="2" style="text-align:left;"|[[Independent politician|Independents]] and [[Minor party|minor parties]]
+|style="text-align:left;"| Seats:
+|– ||– ||– ||– ||– ||– ||– ||– ||– ||– ||– ||– ||– ||–
+|- style="background-color:#fffacd"
+|style="text-align:left;"| Vote:
+|1.1 ||1.9 ||0.8 ||1.1 ||1.1 ||1.1 ||1.1 ||1.4 ||0.9 ||0.6 ||– ||– ||– ||1.1
+|-
+| colspan="3" style="text-align:left;"| Seats:
+|43 ||37 ||14 ||14 ||122 ||78 ||10 ||11 ||4 ||7 ||1 ||1 ||1 ||343
+|}
+
+===Close races===
+Incumbents are denoted in bold and followed by ''(I)''.
+
+{| class="wikitable sortable"
+|-
+! Riding
+! colspan="2" | Winner
+! colspan="2" | Runner-up
+! Vote difference
+! Percentage difference
+|-
+|[[Terrebonne (federal electoral district)|Terrebonne]] ([[Terrebonne in the 2025 Canadian federal election|details]])
+| {{Canadian party colour|CA|Liberal|background}} | &nbsp;
+| [[Tatiana Auguste]] 
+| {{Canadian party colour|CA|BQ|background}} | &nbsp;
+|'''[[Nathalie Sinclair-Desgagné]] (I)'''
+|style="text-align: right;" |1
+|style="text-align: right;" |0.002%
+|-
+|[[Windsor—Tecumseh—Lakeshore]]
+| {{Canadian party colour|CA|Conservative|background}} | &nbsp;
+|[[Kathy Borrelli]]
+| {{Canadian party colour|CA|Liberal|background}} | &nbsp;
+|'''[[Irek Kusmierczyk]] (I)'''
+|style="text-align:right"|4
+|style="text-align:right"|0.006%
+|-
+|[[Terra Nova—The Peninsulas]]
+| {{Canadian party colour|CA|Conservative|background}} | &nbsp;
+|[[Jonathan Rowe (politician)|Jonathan Rowe]]
+| {{Canadian party colour|CA|Liberal|background}} | &nbsp;
+| [[Anthony Germain]]
+|style="text-align:right"|12
+|style="text-align:right"|0.03%
+|-
+|[[Milton East—Halton Hills South]]
+| {{Canadian party colour|CA|Liberal|background}} | &nbsp;
+| [[Kristina Tesser Derksen]]
+| {{Canadian party colour|CA|Conservative|background}} | &nbsp;
+|[[Parm Gill]]
+|style="text-align:right"|21
+|style="text-align:right"|0.03%
+|-
+|[[Nunavut (electoral district)|Nunavut]]
+| {{Canadian party colour|CA|NDP|background}} | &nbsp;
+|'''[[Lori Idlout]] (I)'''
+| {{Canadian party colour|CA|Liberal|background}} | &nbsp;
+|Kilikvak Kabloona
+|style="text-align:right"|41
+|style="text-align:right"|0.54%
+|-
+|[[Vancouver Kingsway]]
+| {{Canadian party colour|CA|NDP|background}} | &nbsp;
+|'''[[Don Davies]] (I)'''
+| {{Canadian party colour|CA|Liberal|background}} | &nbsp;
+|Amy Gill
+|style="text-align:right"|303
+|style="text-align:right"|0.60%
+|-
+|[[Kitchener Centre (federal electoral district)|Kitchener Centre]]
+| {{Canadian party colour|CA|Conservative|background}} | &nbsp;
+|[[Kelly DeRidder]]
+| {{Canadian party colour|CA|Green|background}} | &nbsp;
+|'''[[Mike Morrice]] (I)'''
+|style="text-align:right"|375
+|style="text-align:right"|0.63%
+|-
+|[[Miramichi—Grand Lake]]
+| {{Canadian party colour|CA|Conservative|background}} | &nbsp;
+|[[Mike Dawson (politician)|Mike Dawson]]
+| {{Canadian party colour|CA|Liberal|background}} | &nbsp;
+|[[Lisa Harris (politician)|Lisa Harris]]
+|style="text-align:right"|384
+|style="text-align:right"|1.00%
+|-
+|[[Kitchener—Conestoga (federal electoral district)|Kitchener—Conestoga]]
+| {{Canadian party colour|CA|Liberal|background}} | &nbsp;
+|'''[[Tim Louis]] (I)'''
+| {{Canadian party colour|CA|Conservative|background}} | &nbsp;
+|Doug Treleaven
+|style="text-align:right"|522
+|style="text-align:right"|0.84%
+|-
+|[[Montmorency—Charlevoix]]
+| {{Canadian party colour|CA|Conservative|background}} | &nbsp;
+|[[Gabriel Hardy]]
+| {{Canadian party colour|CA|BQ|background}} | &nbsp;
+|'''[[Caroline Desbiens]] (I)'''
+|style="text-align:right"|524
+|style="text-align:right"|0.88%
+|}
+
+===Seats that changed hands===
+{| class="wikitable" style="text-align:right"
+|+ Elections to the 44th Parliament of Canada{{snd}}seats won/lost by party, 2021–2025
+|-
+!rowspan="2" colspan="2"|Party
+!rowspan="2" style="width:1em;"|2021
+!colspan="10"|Gain from (loss to)
+!rowspan="2" style="width:1em;"|2025
+|-
+! colspan="2"|Lib
+! colspan="2"|Con
+! colspan="2"|NDP
+! colspan="2"|BQ
+! colspan="2"|Grn
+|-
+{{Canadian party colour|CA|Liberal|row-name}}
+|157 ||style="width:1.5em;"| ||style="width:1.5em;"| ||style="width:1.5em;"|12 ||style="width:1.5em;"|(18) ||style="width:1.5em;"|7 ||style="width:1.5em;"| ||style="width:1.5em;"|12 ||style="width:1.5em;"|(1) ||style="width:1.5em;"| ||style="width:1.5em;"| ||169
+|-
+{{Canadian party colour|CA|Conservative|row-name}}
+|126 ||18 ||(12) || || ||10 || ||1 || ||1 || ||144
+|-
+{{Canadian party colour|CA|NDP|row-name}}
+|24 || ||(7) || ||(10) || || || || || || ||7
+|-
+{{Canadian party colour|CA|BQ|row-name}}
+|34 ||1 ||(12) || ||(1) || || || || || || ||22
+|-
+{{Canadian party colour|CA|Green|row-name}}
+|2 || || || ||(1) || || || || || || ||1
+|-
+| colspan="2" style="text-align:left;"|'''Total''' ||343 ||19 ||(31) ||12 ||(30) ||17 ||&ndash; ||12 ||(1) ||1 ||&ndash; ||343
+|}
+
+The following seats changed allegiance from the [[2022 Canadian federal electoral redistribution#Detailed transposed 2021 results|2021 redistributed results]].
+
+{{col-begin}}{{col-break}}
+
+;Conservative to Liberal
+*[[Bay of Quinte (federal electoral district)|Bay of Quinte]]
+*[[Calgary Confederation]]
+*[[Carleton (Ontario federal electoral district)|Carleton]]
+*[[Cumberland—Colchester]]
+*[[Kelowna (electoral district)|Kelowna]]
+*[[Peterborough (federal electoral district)|Peterborough]]
+*[[Sault Ste. Marie—Algoma]]
+*[[South Shore—St. Margarets]]
+*[[South Surrey—White Rock]]
+*[[Toronto—St. Paul's (federal electoral district)|Toronto—St. Paul's]]
+*[[Winnipeg West (federal electoral district)|Winnipeg West]]
+
+;Liberal to Conservative
+*[[Aurora—Oak Ridges—Richmond Hill (federal electoral district)|Aurora—Oak Ridges—Richmond Hill]]
+*[[Brampton West]]
+*[[Calgary McKnight]]
+*[[Cambridge (federal electoral district)|Cambridge]]
+*[[Hamilton East—Stoney Creek (federal electoral district)|Hamilton East—Stoney Creek]]
+*[[Kitchener South—Hespeler (federal electoral district)|Kitchener South—Hespeler]]
+*[[Long Range Mountains (electoral district)|Long Range Mountains]]
+*[[Markham—Unionville (federal electoral district)|Markham—Unionville]]
+*[[Newmarket—Aurora (federal electoral district)|Newmarket—Aurora]]
+*[[Richmond Centre—Marpole]]
+*[[Richmond Hill South]]
+*[[Sudbury East—Manitoulin—Nickel Belt]]
+*[[Terra Nova—The Peninsulas]]
+*[[Vaughan—Woodbridge (federal electoral district)|Vaughan—Woodbridge]]
+*[[Windsor—Tecumseh—Lakeshore]]
+*[[York Centre (federal electoral district)|York Centre]]
+
+{{col-break}}
+
+;NDP to Liberal
+*[[Burnaby Central]]
+*[[Churchill—Keewatinook Aski]]
+*[[Esquimalt—Saanich—Sooke]]
+*[[Hamilton Centre (federal electoral district)|Hamilton Centre]]
+*[[New Westminster—Burnaby—Maillardville]]
+*[[Port Moody—Coquitlam (federal electoral district)|Port Moody—Coquitlam]]
+*[[Victoria (British Columbia federal electoral district)|Victoria]]
+
+;NDP to Conservative
+*[[Cowichan—Malahat—Langford]]
+*[[Edmonton Griesbach]]
+*[[Elmwood—Transcona]]
+*[[Kapuskasing—Timmins—Mushkegowuk]]
+*[[London—Fanshawe (federal electoral district)|London—Fanshawe]]
+*[[Nanaimo—Ladysmith]]
+*[[North Island—Powell River]]
+*[[Similkameen—South Okanagan—West Kootenay]]
+*[[Skeena—Bulkley Valley]]
+*[[Windsor West (federal electoral district)|Windsor West]]
+
+;Bloc Québécois to Liberal
+*[[Abitibi—Baie-James—Nunavik—Eeyou]]
+*[[Beauport—Limoilou]]
+*[[Châteauguay—Les Jardins-de-Napierville]]
+*[[La Prairie—Atateken]]
+*[[LaSalle—Émard—Verdun]]
+*[[Les Pays-d'en-Haut (electoral district)|Les Pays-d'en-Haut]]
+*[[Longueuil—Saint-Hubert]]
+*[[Mont-Saint-Bruno—L'Acadie]]
+*[[Rivière-des-Mille-Îles (electoral district)|Rivière-des-Mille-Îles]]
+*[[Terrebonne (federal electoral district)|Terrebonne]]
+*[[Thérèse-De Blainville]]
+*[[Trois-Rivières (federal electoral district)|Trois-Rivières]]
+
+;Bloc Québécois to Conservative
+*[[Montmorency—Charlevoix]]
+
+;Green to Conservative
+*[[Kitchener Centre (federal electoral district)|Kitchener Centre]]
+
+{{col-end}}
+
+===MPs who lost re-election===
+{{See also|List of MPs who lost their seat in the 2025 Canadian federal election}}
+
+==Analysis and aftermath==
+{{Wikinews|Liberal government re-elected in Canada following election}}
+{{clear}}
+{{Gallery
+ |title=[[Ternary plot]]s of benchmark election results
+ |width=350 | height=200 |noborder=yes
+ |align=center
+ |footer=Electoral districts identified by colours of winning parties
+ |File:Ternary CA1930.svg
+ |1930
+ |alt1=Ternary plot of 1930 transposed results
+ |File:Ternary CA1958.svg
+ |1958
+ |alt2=Ternary plot of 1958 results
+ |File:Ternary CA1980.svg
+ |1980
+ |alt3=Ternary plot of 1980 transposed results
+ |File:Ternary CA1984.svg
+ |1984
+ |alt4=Ternary plot of 1984 results
+ |File:Ternary CA1988.svg
+ |1988
+ |alt5=Ternary plot of 1988 results
+ |File:Ternary CA2015.svg
+ |2015
+ |alt6=Ternary plot of 2015 results
+}}
+
+{{Gallery
+|title=[[Ternary plot]]s of current election results
+|width=350 | height=200 |noborder=yes
+|align=center
+|footer=Electoral districts won identified by Conservative (blue), Liberal (red), NDP (orange), BQ (cyan) and Green (Green)
+|File:Ternary CA2021 transposition.svg
+|2021 (transposed results)
+|alt1=Ternary plot of 2021 transposed results
+|File:Ternary CA2025.svg
+|2025
+|alt2=Ternary plot of 2025 results
+}}
+
+
+Significant milestones included the following:
+
+* the Liberals won the popular vote for the first time [[2015 Canadian federal election|since 2015]]
+* they earned their highest vote share [[1980 Canadian federal election|since 1980]], as well as the highest vote share for any party in a federal election [[1984 Canadian federal election|since 1984]].<ref name=":1">{{Cite web |last=Heard |first=Andrew |date=2005 |title=Canadian Election Results: 1867–2021 |url=https://www.sfu.ca/~aheard/elections/1867-present.html |access-date=April 30, 2025 |publisher=Simon Fraser University}}</ref>
+* the election saw the highest [[Voter turnout in Canada|turnout]] [[1993 Canadian federal election|since 1993]], with 69.5% of eligible voters casting a ballot.<ref name=":6">{{Cite web |agency=The Canadian Press |date=April 30, 2025 |title=Elections Canada says more than 19.5M voters cast a ballot in federal election |url=https://www.ctvnews.ca/federal-election-2025/article/elections-canada-says-more-than-192m-voters-cast-a-ballot-in-federal-election/ |access-date=May 5, 2025 |website=CTVNews}}</ref><ref name="ec_turnout" />
+* both the Liberal Party and the [[Conservative Party of Canada|Conservative Party]] improved upon their vote share and seat count [[2021 Canadian federal election|from 2021]], while the other parties all lost ground
+* this was the first election [[2000 Canadian federal election|since 2000]] in which the Liberals, or any party, polled over 40 percent; the first [[1988 Canadian federal election|since 1988]] in which the Conservatives did so;{{efn|name=ConservativePredecessor|At that time, their predecessor party, the [[Progressive Conservative Party of Canada]] (then led by [[Brian Mulroney]]) was active. Moreover, this remains true even when combining the Progressive Conservative and [[Reform Party of Canada|Reform]]/[[Canadian Alliance]] vote shares from 1993 through 2000.}} and the first time [[1930 Canadian federal election|since 1930]] in which both passed that threshold<ref>{{cite news |last1=Friesen |first1=Joe |last2=Mercer |first2=Greg |title=Six charts that reveal the story of the 2025 election |url=https://www.theglobeandmail.com/canada/article-six-charts-that-reveal-the-story-of-the-2025-election/ |work=[[The Globe and Mail]]}}</ref>
+* this was the most concentrated the popular vote had been in support of the top two parties [[1958 Canadian federal election|since 1958]], with over 85% voting Liberal or Conservative<ref name=":0" />
+
+The election results represented a significant contrast to the polling estimates prior to the election. In December 2024, the Conservatives had a 20 percentage point lead over the Liberals; however, Trudeau's resignation and U.S. president [[Donald Trump]]'s hostile foreign policy towards Canada were reasons that led to a significant change in public opinion that favored the Liberals. Comparisons have been made to the [[2025 Australian federal election|Australian federal election held on May 3, 2025]], where the incumbent [[centre-left]] government, led by the [[Australian Labor Party|Labor Party]], overturned a significant deficit in polling, made gains, and remained in government. Commentators spoke of a negative "Trump effect" as the Australian opposition conservative leader [[Peter Dutton]] also lost his seat.<ref>{{cite web |last=Smith |first=David |date=May 4, 2025 |title=Blaming Donald Trump for conservative losses in both Canada and Australia is being too kind to Peter Dutton |url-status=live |archive-date= May 6, 2025 |archive-url=https://web.archive.org/web/20250506013518/https://theconversation.com/blaming-donald-trump-for-conservative-losses-in-both-canada-and-australia-is-being-too-kind-to-peter-dutton-255599 |url=https://theconversation.com/blaming-donald-trump-for-conservative-losses-in-both-canada-and-australia-is-being-too-kind-to-peter-dutton-255599 |access-date= May 5, 2025 |website=The Conversation}}</ref><ref>{{cite web |last=Duncan |first=Grant |date=May 5, 2025 |title=A 'Trump slump' has lifted the left in Canada and now Australia – what are the lessons for NZ? |url=https://theconversation.com/a-trump-slump-has-lifted-the-left-in-canada-and-now-australia-what-are-the-lessons-for-nz-255715 |url-status=live |archive-date= May 5, 2025 |archive-url=https://web.archive.org/web/20250505042751/https://theconversation.com/a-trump-slump-has-lifted-the-left-in-canada-and-now-australia-what-are-the-lessons-for-nz-255715 |access-date=May 5, 2025 |website=The Conversation}}</ref><ref>{{cite news |date=May 5, 2025 |title=The Trump effect has placed both Canada and Australia under left-wing rule |url=https://www.telegraph.co.uk/opinion/2025/05/05/trump-effect-canada-australia-elections-left-wing/ |archive-url=https://web.archive.org/web/20250505141838/https://www.telegraph.co.uk/opinion/2025/05/05/trump-effect-canada-australia-elections-left-wing/ |archive-date=May 5, 2025 |access-date=May 6, 2025 |work=The Telegraph |issn=0307-1235}}</ref>
+
+[[Strategic voting]] played a role in the election, which benefitted the Liberals, moving it closer to a two-party system.<ref name="Blanchfield & Djuric 2025">{{cite web |last1=Blanchfield |first1=Mike |last2=Djuric |first2=Mickey |date=April 28, 2025 |title=Mark Carney elected Canada's prime minister |url=https://www.politico.com/news/2025/04/28/mark-carney-wins-canada-prime-minister-election-00314480 |access-date=April 30, 2025 |website=Politico}}</ref><ref name="Rudderhma 2025">{{cite web |last=Rudderham |first=Hannah |date=April 29, 2025 |title=Close races, Trump and 2-party support: Political scientists react to federal election results |url=https://www.cbc.ca/news/canada/new-brunswick/federal-election-political-science-two-party-1.7521498 |access-date=April 30, 2025 |work=CBC News}}</ref> The declining performance of the [[New Democratic Party]] (NDP) in the election was also attributed to strategic voting.<ref name="Rudderhma 2025" /><ref>{{cite web |last=Givens |first=Terri |date=April 29, 2025 |title=The impact of strategic voting in Canada |url=https://theconversation.com/the-impact-of-strategic-voting-in-canada-255489 |website=[[The Conversation (website)|The Conversation]] |access-date=May 1, 2025}}</ref> Alex Marland, the Jarislowsky chair in trust and political leadership at [[Acadia University]] in Nova Scotia, said that Trump's interference and threats significantly affected the results, stating, "It really galvanized progressives, people on the political left. You can see the collapse of the NDP vote. A big reason for people who would have voted NDP ending up voting Liberal was really because of fear over Donald Trump."<ref name="Rudderhma 2025" /> Gabriel Arsenault, a political science professor at the [[Université de Moncton]], emphasised the results being closer to a two-party system. In December 2024, the Liberals and Conservatives were polling together around 65 percent of the intention votes versus the around 85 percent they got in the election. In reference to the NDP, Arsenault added, "[Pierre] Poilievre sought votes among workers, and usually that would be the main group where the NDP got its votes, so I think it has to transform itself."<ref name="Rudderhma 2025" /> As for the [[Green Party of Canada|Green Party]], which won only one seat, Arsenault said, "We'll have to see if this is just temporary because of Trump, or [if] this is illustrative of a bigger trend here."<ref name="Rudderhma 2025" />
+
+[[Abacus Data]] determined the following migration patterns of voters from 2021:
+
+{| class="wikitable" style="text-align:right;"
+|+ Migration of voters - 2021 to 2025<ref>{{cite web |last=Coletto |first=David |date=May 8, 2025 |title=What Happened? The 2025 Canadian Election Post-Mortem |url=https://abacusdata.ca/what-happened-the-2025-canadian-election-post-mortem/ |publisher=[[Abacus Data]] |access-date=May 10, 2025}}</ref>
+!rowspan="2" colspan="2"|Of those who voted in 2021!!colspan="4"|Proportion (%) going to
+|-
+|{{Canadian party colour|CA|Liberal|background}} align="center" |'''Lib'''
+|{{Canadian party colour|CA|Conservative|background}} align="center" |'''Con'''
+|{{Canadian party colour|CA|NDP|background}} align="center" |'''NDP'''
+|{{Canadian party colour|CA|BQ|background}} align="center" |'''BQ'''
+|-
+{{Canadian party colour|CA|Liberal|row-name}}
+|78 ||16 ||3 ||3
+|-
+{{Canadian party colour|CA|Conservative|row-name}}
+|7 ||89 ||2 ||2
+|-
+{{Canadian party colour|CA|NDP|row-name}}
+|42 ||21 ||32 ||4
+|-
+{{Canadian party colour|CA|BQ|row-name}}
+|15 ||13 ||2 ||71
+|-
+|colspan="2" style="text-align:left;"|Did not vote in that election
+|44 ||43 ||6 ||4
+|}
+
+Analysis by ''[[The Economist]]'', which called the 29-point swing comeback in polls by the Liberals as "one of the widest on record in any democracy",<ref name="The Economist 2025">{{cite news |date=April 26, 2025 |title=How a tetchy central banker became 'Captain Canada' |url=https://www.economist.com/the-americas/2025/04/24/how-a-tetchy-central-banker-became-captain-canada |newspaper=[[The Economist]] |access-date=May 6, 2025}}</ref> noted that the two best predictors of the margin shift from Conservatives to Liberals were education and immigration: the Liberals gained in ridings with more university graduates and native-born voters, while the Conservatives benefited in ridings with more voters who were either foreign-born or did not hold degrees.<ref name="Econ0525">{{cite news |date=May 3, 2025 |title=Canada's new Conservative movement resembles Donald Trump's |url=https://www.economist.com/the-americas/2025/04/30/canadas-new-conservative-movement-resembles-donald-trumps |newspaper=[[The Economist]] |access-date=May 7, 2025}}</ref> Religion was also a factor in certain results, where secular and Muslim voters tended to favour the Liberals while more heavily Jewish ridings swung to the Conservatives.<ref name="Econ0525" />
+
+According to a [[Postmortem documentation|postmortem]] inquiry by the ''[[Toronto Star]]'', the Liberals and Conservatives both experienced fortunate incidents as well as missteps. Members of the Liberal election team were estimating a final seat total of 181 to 190 seats, while the party's computer modelling was suggesting a lesser number.<ref name="StarRajA">{{cite news |last=Raj |first=Althia |author-link1=Althia Raj |date=May 31, 2025 |title=How the race was lost |work=[[Toronto Star]] |pages=A1, A15{{en dash}}A17}}</ref> While a [[Léger (company)|Léger]] poll in February suggested a dead heat between the two parties if Carney became the Liberal leader, the Liberals were relieved when the Tories initially chose to focus their attacks on Carney's actions during his time in the private sector, as opposed to the more effective gambit in the last two weeks of the campaign of emphasizing the point that the Liberals "might be trying to pull a fast one on the country" by switching leaders.<ref name="StarRajB">{{cite news |last=Raj |first=Althia |author-link1=Althia Raj |date=June 1, 2025 |title=The change question |work=[[Toronto Star]] |pages=IN1, IN3{{en dash}}IN7}}</ref> The Liberals were slow to catch on to underlying shifts in voter sentiments until candidates were reporting from key races in the [[Greater Toronto Area]], Alberta and BC that second-generation Sikhs, Hindus, Muslims and Italians (especially among younger men) were moving over to the Conservatives because of issues relating to public safety and immigration. Liberal attempts to address the issue chose to focus on [[gun control]], an area voters did not consider relevant.<ref name="StarRajB" /> On the other side, many Conservatives believed that the tone set by Poilievre turned off many traditional supporters, and there was evidence that the significant lead the party enjoyed during the previous year was the result of "[mistaking] the poll numbers for our own popularity, as opposed to disgust with Justin Trudeau".<ref name="StarRajA" /> Morale among the party's backbenchers and grassroots was also affected by Poilievre's management of the campaign, and it was estimated that 110 riding nomination races were cancelled in favour of [[Parachute candidate|parachuting candidate]]s directly in.<ref name="StarRajA" /> After election day, when it became apparent that both parties had come up short of their expected majority, the question posed by one Liberal insider was, "How do you end up winning [[Bay of Quinte (federal electoral district)|Bay of Quinte]] but losing [[Brampton West (federal electoral district)|Brampton West]]?" Many observed that the resultant grouping of Liberal supporters was significantly influenced by the influx of NDP voters, Quebec nationalists and "white men over 50",<ref name="StarRajB" /> while Conservative efforts to attract younger voters, union members and immigrants proved to be successful.<ref name="StarRajA" />
+
+===Liberal Party===
+
+The Liberal Party regained a leading position in this election, reversing previous polling in which it trailed behind the Conservative Party. With a vote share of 43.8%, it achieved its highest level of support [[1980 Canadian federal election|since 1980]] and marked its strongest performance since taking office [[2015 Canadian federal election|in 2015]]. They won seats in every province (the only party to do so) and exceeded 40% of the popular vote in every province except Alberta and Saskatchewan. Although the party secured 169 seats—falling three seats short of the 172 needed for a majority—it successfully formed a minority government. The Liberals led in [[2025 Canadian federal election in Ontario|Ontario]], [[Quebec]], [[2025 Canadian federal election in British Columbia|British Columbia]], and the [[Atlantic provinces]]. Quebec saw the most notable gains, with the party winning 10 more seats than [[2021 Canadian federal election|in 2021]]. The Liberals also performed well in the city of [[Toronto]] and the southern [[Greater Toronto Area]] (primarily in the more urban and affluent areas south of [[Ontario Highway 401|Highway 401]]), reclaiming a seat lost in last year's by-election, and produced dominant margins in the [[Ottawa]] region. However, their seat count in Ontario dropped by five compared to the previous election, in part due to losses in the [[Regional Municipality of York|York Region]] north of Toronto.<ref>{{cite news |last=Quigley |first=Joseph |date=April 29, 2025 |title=Blue wave sweeps York Region, with only 2 Liberal wins |url=https://www.newmarkettoday.ca/2025-federal-election-news/blue-wave-sweeps-york-region-with-only-2-liberal-wins-10588580 |work=Newmarket Today |access-date=May 7, 2025}}</ref> In [[Manitoba]], the party won six seats, just one fewer than the Conservatives.<ref>{{cite news |last=Rowe |first=Daniel J. |date=April 28, 2025 |title=Here's how Quebec's 78 seats went on 2025 election day |url=https://www.ctvnews.ca/montreal/article/heres-how-quebecs-78-seats-went-on-2025-election-day/ |work=CTV News |access-date=May 3, 2025}}</ref><ref>{{cite news |last1=Leake |first1=Phil |last2=Benjamin |first2=Alison |last3=Wainwright |first3=Daniel |last4=Carr |first4=Jess |date=May 2, 2025 |title=How Canada voted – in charts |url=https://www.bbc.com/news/articles/cn4jd39g8y1o |work=BBC |access-date=May 3, 2025}}</ref>
+
+Carney made a victory speech on election night after winning his seat of [[Nepean (federal electoral district)|Nepean]]; he emphasized that regardless of which party Canadians supported, he would strive to be a prime minister for all. He said he would "always do my best to serve everyone who calls Canada home".<ref name="Dangerfield 2025">{{cite news |last=Dangerfiel |first=Katie |date=April 29, 2025 |title=Read the transcript of Prime Minister Mark Carney's victory speech |url=https://globalnews.ca/news/11154593/canada-election-mark-carney-victory-speech/ |work=Global News |access-date=May 3, 2025}}</ref> On international matters, Carney expressed serious concern regarding Trump. He criticized Trump for imposing tariffs and using trade pressure in attempts to weaken Canada's economy, while also publicly questioning the country's sovereignty.<ref name="Dangerfield 2025" /> He said, "There is someone trying to undermine our economy: Donald Trump."<ref>{{cite web |last=Charter |first=David |date=May 6, 2025 |title=Mark Carney tells Trump 'Canada is not for sale' in first meeting |url=https://www.thetimes.com/us/american-politics/article/mark-carney-trump-meeting-changes-economy-bkgq9v6fx |url-status=live |archive-url=https://web.archive.org/web/20250506190159/https://www.thetimes.com/us/american-politics/article/mark-carney-trump-meeting-changes-economy-bkgq9v6fx |archive-date=May 6, 2025 |access-date=May 6, 2025 |website=The Times}}</ref> In response to Trump's past remarks suggesting that Canada could become the 51st state of the U.S., Carney firmly declared, "The United States is not Canada. Canada will never, under any circumstance, become part of the United States."<ref name="Dangerfield 2025" /> Carney received congratulations from domestic leaders, including Premier [[Danielle Smith]] of Alberta, Premier [[Doug Ford]] of Ontario, Premier [[Scott Moe]] of Saskatchewan, and Mayor [[Olivia Chow]] of Toronto.<ref>{{cite web |date=April 29, 2025 |title=Canadians, world leaders congratulate Mark Carney and Liberals on election win |url=https://www.stalbertgazette.com/saskatchewan-news/canadians-world-leaders-congratulate-mark-carney-and-liberals-on-election-win-10588491 |access-date=April 30, 2025 |website=St. Albert Gazette |archive-url=https://web.archive.org/web/20250515054507/https://www.stalbertgazette.com/saskatchewan-news/canadians-world-leaders-congratulate-mark-carney-and-liberals-on-election-win-10588491 |archive-date=May 15, 2025 |url-status=dead}}</ref>
+
+===Conservative Party===
+[[File:פייר פוליאב, אסיפת בחירות.jpg|thumb|right|Pierre Pollievre's campaign opening in [[Surrey, British Columbia]]]]
+The Conservative Party achieved its highest vote share in decades in this election, garnering 41.3% of the vote—the highest for a conservative party [[1988 Canadian federal election|since 1988]] and the best result since the modern party's founding in 2003. They exceeded 35% of the popular vote in every province except for Quebec. The party secured 144 seats, second only to its majority government victory [[2011 Canadian federal election|in 2011]]. Nevertheless, it still fell short of the Liberal Party in both vote share and seat count. Despite the overall electoral defeat, the Conservatives maintained a strong advantage in the three Prairie provinces. The party also made notable gains in areas traditionally less favourable to it, including the [[Greater Toronto Area]] in [[Ontario]] (particularly in [[York Region]] and [[Brampton]]), [[Vancouver Island]] and surrounding coastal regions in [[British Columbia]], as well as several working-class regions such as [[Windsor, Ontario|Windsor]] and [[northern Ontario]] which political analyst Douglas Todd stated "helped shatter the myth that people who normally vote NDP would never vote for the Conservatives".<ref>{{Cite web |url=https://vancouversun.com/opinion/columnists/how-the-federal-conservatives-gained-seven-seats-in-bc |title=The federal Conservatives gained seven seats in B.C. How they did it |work=Vancouver Sun |first=Douglas |last=Todd |date=April 29, 2025 |access-date=April 30, 2025}}</ref><ref>{{Cite web |url=https://www.theglobeandmail.com/politics/article-liberals-reap-benefits-of-quebec-surge-despite-conservative-gains-in/ |title=Liberals face disappointment in Ontario as Conservatives surge in GTA ridings |work=The Globe and Mail |date=April 29, 2025}}</ref> Polling conducted for CBC News by Kolosowski Strategies found that Conservative gains in the northern Greater Toronto Area were driven by concerns about affordability, crime and immigration policies.<ref>{{cite news |last1=Manucdoc |first1=Dale |title=Why the Conservatives' message resonated with voters in many GTA ridings |url=https://www.youtube.com/watch?v=ySFavsln6Ds&t=90s |access-date=May 7, 2025 |work=CBC News |date=April 29, 2025}}</ref>
+
+In total, the Conservatives gained 24 seats—seven more than the Liberals' gain of 16 seats. The largest increase was in Ontario, where they picked up 15 new seats, a third of which were in York Region; in British Columbia, they gained 5 seats, just one fewer than the Liberals. They also gained two seats in [[Newfoundland and Labrador]] and one seat in [[Quebec]], while in [[Nova Scotia]] the party lost 2 seats and was left with only one. After the election results were announced, Conservative Party leader [[Pierre Poilievre]] delivered a concession speech in which he congratulated Prime Minister Mark Carney and stated he would work with all parties to end Donald Trump's tariffs. Poilievre also emphasized that he would continue to serve as Conservative Party leader, and that the party would remain an effective opposition in Parliament, focusing on issues such as the economy, cost of living, housing, and defending the interests of Canadians.<ref>{{Cite news |title=Read Conservative Leader Pierre Poilievre's election concession speech |url=https://globalnews.ca/news/11153832/canada-election-pierre-poilievre-concession-speech/ |work=Globalnews}}</ref> Shortly after the speech, it was confirmed that he had been defeated by Liberal Party candidate [[Bruce Fanjoy]] in the riding of Carleton.<ref>{{Cite web |title=Conservative Party leader Pierre Poilievre loses Ottawa-area seat |url=https://www.ctvnews.ca/ottawa/article/conservative-party-leader-pierre-poilievre-loses-ottawa-area-seat/ |access-date=April 29, 2025 |website=CTV |date=April 29, 2025}}</ref> Voters in the area told the CBC that Poilievre's support for the [[2022 Freedom Convoy]] protest which occupied part of the city core and his pledge to reduce the public service contributed to his loss in the riding.<ref>{{Cite news |title=Poilievre faces uncertain future after losing his own seat and failing to depose the Liberals |url=https://www.cbc.ca/news/politics/poilievre-uncertain-future-1.7521681 |work=CBC}}</ref> Calls from provincial conservative premiers for Poilievre to resign as Conservative leader grew following the election result.<ref>{{Cite web |url=https://www.politico.com/news/magazine/2025/04/28/doug-ford-ontario-canada-election-00311985 |title=He's Canada's Most Successful Conservative Right Now — And He Is Disappointed in Pierre Poilievre |first=Jonathan |last=Martin |date=April 28, 2025 |website=POLITICO}}</ref><ref>{{Cite web |url=https://www.cbc.ca/news/canada/nova-scotia/houston-federal-conservative-leadership-rumours-1.7523069 |title=Houston says he's 'focused on Nova Scotia' amid rumours he's seeking Poilievre's job |last=Grant |first=Taryn |website=CBC}}</ref>
+
+While Poilievre held no seat in the House of Commons, he was ineligible to continue as [[Leader of the Official Opposition (Canada)|leader of the Opposition]]. This resulted in former Conservative leader [[Andrew Scheer]] being appointed [[Leader of the Official Opposition (Canada)|leader of the Opposition]] on an interim basis.<ref>{{Cite news |last1=Fife |first1=Robert |author-link1=Robert Fife |last2=Levitz |first2=Stephanie |date=May 1, 2025 |title=Conservative caucus will meet to discuss interim Opposition Leader amid concerns Liberals are trying to poach disgruntled MPs |url=https://www.theglobeandmail.com/politics/article-conservative-caucus-will-meet-to-select-interim-opposition-leader-amid/ |access-date=May 2, 2025 |work=[[The Globe and Mail]]}}</ref><ref>{{cite news |url=https://www.cbc.ca/news/politics/poilievre-conservative-caucus-meeting-1.7527562 |access-date=May 7, 2025 |date=May 7, 2025 |orig-date=May 6, 2025 |title=Conservatives choose Andrew Scheer as interim Opposition leader |first1=Sarah |last1=Ritchie |agency=[[The Canadian Press]] |work=[[CBC News]] |first2=Kate |last2=McKenna |url-status=live |archive-date=May 7, 2025 |archive-url=https://archive.today/20250507055215/https://www.cbc.ca/news/politics/poilievre-conservative-caucus-meeting-1.7527562}}</ref><ref>{{Cite web |last=Aiello |first=Rachel |date=May 6, 2025 |title=Poilievre pledges to listen after election loss, Scheer tapped to represent caucus in interim |url=https://www.ctvnews.ca/politics/article/poilievre-pledges-to-listen-after-election-loss-as-conservative-mps-opt-for-power-to-remove-leader/ |access-date=May 7, 2025 |website=[[CTV News]]}}</ref>
+
+A few days after election day, Conservative MP [[Damien Kurek]], who was re-elected with over 80% of the vote in the Alberta riding of [[Battle River—Crowfoot]], one of the party's safest ridings, announced his intention to resign in order to allow Poilievre to run in the [[2025 Battle River—Crowfoot federal by-election|succeeding by-election]].<ref>{{Cite news |last1=Levitz |first1=Stephanie |last2=Haws |first2=Emily |date=May 2, 2025 |title=Pierre Poilievre to run for Alberta seat after losing riding |url=https://www.theglobeandmail.com/politics/article-pierre-poilievre-seat-damien-kurek/ |access-date=May 2, 2025 |work=The Globe and Mail}}</ref> Poilievre was elected in the by-election on August 18, and returned to the House of Commons.
+
+===Bloc Québécois===
+In this election, the Bloc Québécois garnered only 6.3% of the national vote, with support in Quebec dropping to 27.7%. The party won 22 seats, ten fewer than in the previous election, marking its third-worst performance in history. The Bloc failed to consolidate its advantage in Quebec, with the Liberal Party capturing key constituencies. Several prominent members, including the party's House Leader [[Alain Therrien]], were defeated.
+
+After learning the results of the election, party leader [[Yves-François Blanchet]] admitted his party had suffered a setback and accepted the voters' decision. He acknowledged the party's losses but pointed to external factors, such as Trump's [[Tariffs in the second Trump administration|tariff policies]] and [[American expansionism under Donald Trump|controversial remarks about Canada]], as well as the Liberal Party's perceived use of fear-based campaigning, as contributing to the defeat. Blanchet stressed that the Bloc would remain committed to standing up for Quebec's interests and called for cooperation among all parties in Parliament to meet the country's shared responsibilities. He added that the Bloc would continue to play a constructive role in Parliament to ensure Québécois voices are not sidelined at the federal level. He also noted that the seats won by the Bloc place it in a position of influence in a minority government. He said, "We will speak up for Quebec clearly and confidently, but we will do so in a way that fosters unity rather than division."<ref>{{Cite news |title=Blanchet Acknowledges Losses, Calls for Collaboration with Parliament |url=https://www.cpac.ca/vote-2025/episode/blanchet-acknowledges-losses-calls-for-collaboration-with-parliament?id=1d52c8f5-de57-4945-ad03-80c1e42a4f36 |access-date=April 29, 2025 |website=cpac}}</ref><ref>{{Cite web |title=Bloc Québécois still hopes to hold the balance of power in Ottawa |url=https://nationalpost.com/news/politics/federal_election/federal-election-quebec-bloc-vying-balance-of-power |access-date=April 29, 2025 |website=nationalpost}}</ref>
+
+===New Democratic Party===
+
+In this election, the New Democratic Party secured only 6.3% of the national vote and won just 7 seats, marking the worst result in its history. They received slightly fewer votes than even the Bloc Quebecois, despite running nationally as opposed to only in Quebec. Compared to the previous election, the party lost 18 seats — 7 to the Liberals and 10 to the Conservatives (with one seat dissolved) — and its vote share dropped significantly. In no province did they finish higher than third in the popular vote or receive more than 13% of such vote. Party leader Jagmeet Singh also failed to win re-election (finishing third place in his riding of Burnaby Central).<ref>{{Cite news |title=Federal Election Day: Will Jagmeet Singh and the NDP hold their Burnaby, New Westminster seats? |url=https://vancouversun.com/news/federal_election/canada-election-results-2025-burnaby-new-westminster |archive-url=https://web.archive.org/web/20250429003602/https://vancouversun.com/news/federal_election/canada-election-results-2025-burnaby-new-westminster |archive-date=April 29, 2025 |access-date=October 25, 2025 |work=vancouversun}}</ref> Falling short of the 12-seat threshold, the NDP lost its [[official party status]] for the first time [[1993 Canadian federal election|since 1993]]. After the election, certain observers and party insiders questioned the allocation of resources to crucial ridings in the final days of the campaign, noting that eight others had closer races than Burnaby Central and thus better chances for victory.<ref>{{cite news |last=Thurton |first=David |date=May 24, 2025 |title=Inside the NDP's last-ditch efforts to save Jagmeet Singh and his riding |url=https://www.cbc.ca/news/politics/jagmeet-singh-riding-burnaby-central-election-1.7542379 |work=[[CBC News]]}}</ref>
+
+On election night, having been defeated in [[Burnaby Central]] and with the NDP at risk of losing [[official party status]], [[Jagmeet Singh]] announced that he would resign as party leader once an interim leader was chosen in advance of the [[2026 New Democratic Party leadership election|2026 leadership election]].<ref>{{Cite news |date=April 29, 2025 |title=CP NewsAlert: Jagmeet Singh to step down as NDP Leader after losing seat |url=https://www.thestar.com/politics/federal-elections/cp-newsalert-jagmeet-singh-to-step-down-as-ndp-leader-after-losing-seat/article_fa3b8c61-dfee-52d8-936a-0e18cf6cd122.html |access-date=April 29, 2025 |work=[[Toronto Star]] |agency=[[The Canadian Press]]}}</ref> Singh confirmed that he had informed the party's senior leadership of his incoming resignation and said he would assist with the transition until an interim leader is chosen.<ref>{{Cite web |title=Jagmeet Singh to resign as NDP leader after losing B.C. seat |url=https://globalnews.ca/news/11153665/jagmeet-singh-to-resign-as-ndp-leader-after-losing-b-c-seat/ |first=Simon |last=Little |date=April 29, 2025 |website=Globalnews |access-date=April 30, 2025}}</ref> In a candid statement, Singh acknowledged the outcome as disappointing but emphasized that it was part of the democratic process. As party leader, he stated he must take political responsibility for the result. Singh said, "Leading the New Democratic Party has been one of the greatest honours of my life, although today's result is difficult to accept, my belief in this party remains unshaken. I believe it is time for new voices and new energy to take us into the next chapter."<ref>{{Cite news |last=Zimonjic |first=Peter |date=April 29, 2025 |title=An emotional Singh steps down with NDP set to lose party status |url=https://www.cbc.ca/news/politics/jagmeet-singh-ndp-election-results-1.7520955 |archive-url=https://web.archive.org/web/20250429234956/https://www.cbc.ca/news/politics/jagmeet-singh-ndp-election-results-1.7520955 |archive-date=April 29, 2025 |access-date=April 30, 2025 |work=[[Canadian Broadcasting Corporation]] |url-status=live}}</ref> [[Don Davies]] was selected as interim leader on May 5, 2025.<ref>{{Cite web |title=NDP choose Vancouver MP Don Davies as interim leader {{!}} Globalnews.ca |url=https://globalnews.ca/news/11165745/ndp-don-davies-interim-leader/ |access-date=May 7, 2025 |website=Global News}}</ref>
+
+In December 2025, an internal [[Postmortem documentation|postmortem]] review concluded that voters had settled on a "Trump/Carney/Poilievre" focus as early as March, and the party was unable to counter it. The party had "forgotten how to communicate with working-class voters" and "the party's language often [felt] exclusionary, academic, or moralizing ... [People were] saying the party [communicated] in ways that obscure material issues and [alienated] the very people equity is meant to include."<ref>{{cite news |last=Bailey |first=Ian |date=December 19, 2025 |title=NDP failed to sell itself as viable option in April election, report says |url=https://www.theglobeandmail.com/politics/article-ndp-april-federal-election-report/ |work=[[The Globe and Mail]]}}</ref>
+
+===Green Party===
+
+The Green Party won only one seat, one less than the previous election, receiving the party's worst popular vote [[2000 Canadian federal election|since 2000]]. Its national vote share was 1.2%, a drop of 1.13 percentage points from 2.33% in 2021. The only seat secured was in the [[British Columbia]] riding of [[Saanich—Gulf Islands]], where party leader [[Elizabeth May]] was re-elected. Meanwhile, co-leader [[Jonathan Pedneault]] failed to win in the riding of [[Outremont (electoral district)|Outremont]], coming in at 5th place.
+
+After the election results were announced, Green Party co-leader May expressed her gratitude for once again earning the trust and support of voters in her riding, and voiced her hopefulness about the party retaining a seat in the context of a minority government. She acknowledged that although the Green Party's overall national performance was disappointing, with a historically low share of the vote, she remains committed to the importance of environmental and social justice issues and will continue to advocate for them in Parliament. May emphasized that an individual victory is not an endpoint, but part of a broader effort to advance national environmental policy and democratic reform. She also expressed openness to taking on a more active role in Parliament in the future.<ref>{{Cite web |url=https://www.cbc.ca/news/canada/british-columbia/green-party-leader-elizabeth-may-wins-saanich-gulf-islands-1.7521274 |title=Green co-Leader Elizabeth May holds B.C. seat for 5th term |first=Chad |last=Pawson |date=April 29, 2025 |website=CBA}}</ref> On August 19, May announced her intention to resign as party leader.<ref>{{cite news |last=Major |first=Darren |date=August 19, 2025 |title=Elizabeth May says she won't lead Green Party in next election |url=https://www.cbc.ca/news/politics/elizabeth-may-not-leading-greens-next-election-1.7612908 |work=[[CBC News]] |access-date=April 4, 2026}}</ref>
+
+On the other hand, Green Party co-leader Pedneault expressed regret that the party had won only one seat and failed to gain broad support from voters. He acknowledged that the Greens had not achieved the breakthrough they had hoped for in this election. Pedneault stated that, as co-leader, he bore political responsibility for the outcome and thus chose to resign from his leadership position. He emphasized that this decision was not driven by personal disappointment, but by a commitment to responsible party leadership.<ref>{{Cite web |url=https://www.cp24.com/federal-election-2025/2025/04/30/green-party-co-leader-jonathan-pedneault-resigns/ |title=Green Party co-leader Jonathan Pedneault resigns |first=Luca |last=Caruso-Moro |date=April 30, 2025 |website=CP24}}</ref>
+
+==Student vote results==
+Student votes are [[mock election]]s that run parallel to actual elections, in which students not of [[voting age]] participate. They are administered by Student Vote Canada. These are for educational purposes and do not count towards the results.<ref>{{Cite web |title=Student Vote |url=https://studentvote.ca/ |access-date=April 29, 2025 |website=Student Vote Canada}}</ref> The Conservatives won a minority government in the poll.<ref>{{Cite web |last=Otis |first=Daniel |date=April 29, 2025 |title=Students in Canada elected the Conservatives in a mock federal election |url=https://www.ctvnews.ca/politics/article/canadian-students-elect-conservatives-in-mock-federal-election/ |access-date=May 5, 2025 |website=CTVNews}}</ref>
+
+[[File:2025 Canadian Election - Student Vote Results.png|thumb|Map of the Student Vote results]]
+{{election table|title=Summary of the 2025 Canadian Student Vote}}
+! colspan="2" rowspan="2" | Party
+! rowspan="2" | Leader
+! colspan="3" | Seats
+! colspan="3" | Popular vote
+|-
+! Elected
+! %
+! Δ
+! Votes
+! %
+! Δ ({{abbr|pp|percentage point}})
+|-
+{{Canadian party colour|CA|Conservative|row-name}}
+| style="text-align: left;"| [[Pierre Poilievre]] 
+| 162 || 47.23 || {{increase}} 74|| 326,201 || 36.36|| {{increase}} 11.28
+|-
+{{Canadian party colour|CA|Liberal|row-name}}
+| style="text-align: left;"| [[Mark Carney]]
+| 149 || 43.44 || {{increase}} 32|| 285,294 || 31.80|| {{increase}} 7.76
+|-
+{{Canadian party colour|CA|BQ|row-name}} 
+| style="text-align: left;"| [[Yves-François Blanchet]]
+| 17 || 4.96 || {{decrease}} 4|| 19,638 || 2.19|| {{increase}} 0.13
+|-
+{{Canadian party colour|CA|NDP|row-name}}
+| style="text-align: left;"| [[Jagmeet Singh]]
+| 13 || 3.79 || {{decrease}} 94|| 130,015 || 14.49|| {{decrease}} 13.98
+|-
+{{Canadian party colour|CA|Green|row-name}}
+| style="text-align: left;"| [[Elizabeth May]] & [[Jonathan Pedneault]]
+| 2 || 0.58 || {{decrease}} 1|| 66,628 || 7.43|| {{decrease}} 2.35
+|-
+| style="background-color:gainsboro"|
+| colspan="2" style="text-align: left;" | Other
+| 0 || 0 || {{steady}} || 37,735 || 4.21|| {{increase}} 0.27
+|-
+{{Canadian party colour|CA|PPC|row-name}}
+| style="text-align: left;"| [[Maxime Bernier]]
+| 0 || 0 || {{steady}} || 31,625 || 3.53|| {{decrease}} 3.27
+|-
+| colspan="3" style="text-align: left;" | '''Total'''
+| '''343''' || '''100.00''' || {{increase}} 5 || '''897,136''' || '''100.00'''|| &ndash; 
+|-
+| colspan="7" style="text-align: left;" | '''Source''': Student Vote Canada<ref>{{Cite web |title=Student Vote Canada 2025 — Results |url=https://studentvote.ca/results/canada2025/ |access-date=April 29, 2025}}</ref>
+|}
+
+== See also ==
+{{Portal|Canada|Politics}}
+* [[1911 Canadian federal election]] (Canada–US relations elections)
+* [[1988 Canadian federal election]] (Canada–US relations elections)
+* [[2025 Australian federal election]] (held within the same week and saw a similar increase in support for the incumbent government in opposition to Trump and also led to the Opposition Leader losing their seat)
+* [[2025 Canadian federal election in Alberta]]
+* [[2025 Canadian federal election in British Columbia]]
+* [[2025 Canadian federal election in Manitoba]]
+* [[2025 Canadian federal election in New Brunswick]]
+* [[2025 Canadian federal election in Newfoundland and Labrador]]
+* [[2025 Canadian federal election in Nova Scotia]]
+* [[2025 Canadian federal election in Ontario]]
+* [[2025 Canadian federal election in Prince Edward Island]]
+* [[2025 Canadian federal election in Quebec]]
+* [[2025 Canadian federal election in Saskatchewan]]
+* [[2025 Canadian federal election in the territories]]
+* [[List of Canadian federal elections]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+
+{{Reflist}}
+
+{{Canadian federal election, 2025A}}
+{{2025 elections in Canada}}
+{{Canada elections}}
+{{navboxes|list1=
+{{Mark Carney}}
+{{Pierre Poilievre}}
+{{Yves-François Blanchet}}
+{{Jagmeet Singh}}
+}}
+
+[[Category:2025 Canadian federal election| ]]
+[[Category:April 2025 in Canada|Federal election]]
+[[Category:Canadian federal elections by year]]

@@ -1,0 +1,90 @@
+{{short description|Supreme Court of Canada case}}
+{{SCCInfoBox
+  |case-name=Vriend v Alberta
+  |full-case-name=Delwin Vriend, Gala-Gay and Lesbian Awareness Society of Edmonton, Gay and Lesbian Community Centre of Edmonton Society and Dignity Canada Dignité for Gay Catholics and Supporters v Her Majesty The Queen in Right of Alberta and Her Majesty's Attorney General in and for the Province of Alberta
+  |heard-date=November 4, 1997
+  |decided-date=April 2, 1998
+  |citations=[1998] 1 S.C.R. 493; 1998 CanLII 816 (S.C.C.); 1998), 156 D.L.R. (4th) 385; (1998), [1999] 5 W.W.R. 451; [1998] 31 C.H.R.R. 1; (1998), 50 C.R.R. (2d) 1; (1998), 67 Alta. L.R. (3d) 1
+  |docket=25285
+  |history=Partial judgment for the Crown in the [[Alberta Court of Appeal]]
+  |ruling= Appeal allowed and cross-appeal dismissed.
+  |ratio=A legislative omission regarding sexual orientation in the Alberta Individual Rights Protection Act violates section 15 of the ''Canadian Charter of Rights and Freedoms'' and cannot be saved under section 1 of the Charter.
+  |SCC=1997-1998 
+  |Majority=Cory and Iacobucci (paras. 1–181); Lamer Gonthier, McLachlin, and Bastarache concurring
+  |Concurrence=L'Heureux-Dubé (paras. 182–187)
+ |Concurrence/Dissent=Major  (paras. 188–202)
+  |NotParticipating=Sopinka
+  |LawsApplied=
+}}'''''Vriend v Alberta''''' [1998] 1 S.C.R. 493 is a [[Supreme Court of Canada]] case that determined that a legislative omission can be the subject of a [[Canadian Charter of Rights and Freedoms|Charter]] violation. The case involved a dismissal of a teacher because of his [[sexual orientation]] and was an issue of great controversy during that period.
+
+== History ==
+[[Delwin Vriend]] was dismissed from his position as a lab coordinator at [[King's University (Canada)|the King's College]], a private religious college in [[Edmonton]], [[Alberta]], because of his [[sexual orientation]]. He attempted to file a complaint with the [[Alberta Human Rights Commission]] claiming that his employer had discriminated against him on the grounds of his sexual orientation. However, he was prevented from making a complaint under the ''[[Alberta Individual Rights Protection Act]]'' because the legislation did not explicitly include sexual orientation as a prohibited ground of discrimination. Vriend sought a declaration from the [[Alberta Court of Queen's Bench]] that the omission breached [[Section Fifteen of the Canadian Charter of Rights and Freedoms|section 15]] of the ''[[Canadian Charter of Rights and Freedoms]]''.
+
+The Court of Queen's Bench (Justice [[Anne Russell (judge)|Anne Russell]]) found, in favour of Vriend, that the exclusion of sexual orientation as a protected ground of discrimination from ss. 2(1), 3, 4, 7(1) and 8(1) of the ''Individual's Rights Protection Act'' (IRPA) violates s. 15(1) of the Charter and could not be saved under [[Section One of the Canadian Charter of Rights and Freedoms|section 1]]. The trial judge ordered that the phrase "sexual orientation" be read into those sections and permitted the appellants to appeal and the respondents to cross-appeal to the Supreme Court.<ref>{{cite web |url=http://scc-csc.lexum.com/scc-csc/scc-csc/en/item/1607/index.do |title = Vriend v. Alberta – SCC Cases| date=January 2001 }}</ref>
+
+== Ruling ==
+
+There were two issues put before the Supreme Court:
+
+# Do (a) decisions not to include sexual orientation or (b) the non‑inclusion of sexual orientation, as a prohibited ground of discrimination in the preamble and ss. 2(1), 3, 4, 7(1), 8(1), 10 and 16(1) of the Individual's Rights Protection Act, R.S.A. 1980, c. I‑2, as am., now called the Human Rights, Citizenship and Multiculturalism Act, R.S.A. 1980, c. H‑11.7, infringe or deny the rights guaranteed by s. 15(1)  of the Canadian Charter of Rights and Freedoms?
+# If the answer to Question 1 is "yes", is the infringement or denial demonstrably justified as a reasonable limit pursuant to s. 1  of the Canadian Charter of Rights and Freedoms?<ref>{{cite web |url=https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/1607/index.do |title = Vriend v. Alberta – SCC Cases| date=January 2001 }}</ref>
+
+The court decided ''yes'' to the first question and ''no'' to the second. They found that there is no legal basis for drawing a distinction of the Charter scrutinizing a positive act and an omission.
+
+=== Section 15 ===
+
+The court looked at the language of [[Section Thirty-two of the Canadian Charter of Rights and Freedoms|section 32]] and found that it does not limit to only positive acts. It is not only to protect against encroachment on rights or the excessive exercise of authority, as McClung suggested, rather it is a tool for citizens to challenge the law in all its forms. The legislature's silence on an issue does not constitute neutrality with first assessing the application of section 15.
+
+:''Neutrality cannot be assumed. To do so would remove the omission from the scope of judicial scrutiny under the Charter. The appellants have challenged the law on the ground that it violates the Constitution of Canada, and the courts must hear and consider the challenge.''
+
+The court then looked at the application of the Charter to private activities.
+
+:''Although the [Act] targets private activities and as a result has an 'effect' on those activities it does not follow that this indirect effect should remove the [Act] from the purview of the Charter. It would lead to an unacceptable result if any legislation that regulated private activity would for that reason alone be immune from Charter scrutiny.''
+
+:''The respondents' submission has failed to distinguish between "private activity" and "laws that regulate private activity". The former is not subject to the Charter, while the latter obviously is.''
+
+=== Section 1 ===
+
+The court followed this with a section 1 analysis to which they decided was not applicable. In concluding, the court ruled that to remedy the situation "sexual orientation" must be read into the impugned provision of the Act.
+
+Firstly, the respondents failed to show a "pressing and substantial objective". The Court dismissed the respondents' submission, that the predicament would be rare, as only an "explanation" and not an objective, as it lacked any description of goal or purpose.
+
+Secondly, the respondents failed to show a "rational connection". The Court was especially harsh on this point, stating:
+:''Far from being rationally connected to the objective of the impugned provisions, the exclusion of sexual orientation from the Act is antithetical to that goal. Indeed, it would be nonsensical to say that the goal of protecting persons from discrimination is rationally connected to, or advanced by, denying such protection to a group which this Court has recognized as historically disadvantaged.'' (para. 119)
+The respondents attempted to justify the rational connection as part of an incrementalist approach similar to one used in ''[[Egan v Canada]]'', which the Court rejected as inappropriate and a poor basis for justifying a Charter violation.
+
+Thirdly, the respondents failed to show that there was "minimal impairment". Though the legislature must balance between the competing rights of religious freedoms and protections of gays and lesbians, the legislature made no compromise between rights at all.
+
+=== Dissenting view ===
+
+The sole dissenting opinion was written by Justice [[John C. Major]]. He argued that "reading in" a sexual orientation provision in the Individual Rights Protection Act was not necessarily more "desirable" than simply dismissing the entire IRPA as unconstitutional, since the Alberta legislature had repeatedly indicated they specifically did not wish to include such rights in the document. Major wrote that the IRPA should in fact be overturned. He then suggested that the legislature may in turn wish to use the [[Section Thirty-three of the Canadian Charter of Rights and Freedoms|notwithstanding clause]] to pass a new IRPA that would be capable of excluding protection for homosexuals.
+
+==Response==
+Following the decision, some Alberta MLAs called for the government to invoke Canada's [[Section Thirty-three of the Canadian Charter of Rights and Freedoms|notwithstanding clause]] to overrule the decision.<ref>"A weak argument against redneck rap," ''[[Edmonton Journal]]'', February 6, 2005, pg. A.12</ref> However, [[Premier of Alberta|Alberta premier]] [[Ralph Klein]] opted not to do this. Moreover, Klein said any public protest was hateful, which angered the right-wing.<ref>Colby Cosh, "Klein's eye for the queer guy," ''[[National Post]]'', December 16, 2004, pg. A.21.</ref>  Six years later, one ''[[National Post]]'' writer suggested that Klein's decision represented a gap from his words against bold judicial decisions.<ref>John Carpay, "Klein governs like Chretien and Martin," ''[[National Post]]'', November 26, 2004, pg. A.21.</ref>
+
+==See also==
+* [[List of Supreme Court of Canada cases (Lamer Court)]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{lexum-scc2|1998|1|493|816}}
+* [http://www.charterofrights.ca/language.php Fundamental Freedoms: The Charter of Rights and Freedoms] {{Webarchive|url=https://web.archive.org/web/20120809211304/http://www.charterofrights.ca/language.php |date=2012-08-09 }} – Charter of Rights website with video, audio and the Charter in over 20 languages
+* [http://canlii.ca/eliisa/noteUpSearch.do?origin=%2Fen%2Fca%2Fscc%2Fdoc%2F1998%2F1998canlii816%2F1998canlii816.html&translatedOrigin=%2Ffr%2Fca%2Fcsc%2Fdoc%2F1998%2F1998canlii816%2F1998canlii816.html&legislation=none&caselaw=none&boardTribunal=none&language=en&searchTitle=%5B1998%5D+1+SCR+493&searchPage=eliisa%2FadvancedSearch.vm&sortOrder=date&requestedPage=1&origin=%2Fen%2Fca%2Fscc%2Fdoc%2F1998%2F1998canlii816%2F1998canlii816.html&translatedOrigin=%2Ffr%2Fca%2Fcsc%2Fdoc%2F1998%2F1998canlii816%2F1998canlii816.html subsequent cases citing] Supreme Court decision in Vriend via [[CanLII]]
+
+{{LGBT in Canada}}
+
+[[Category:Supreme Court of Canada cases]]
+[[Category:Section Fifteen Charter case law]]
+[[Category:Canadian LGBTQ rights case law]]
+[[Category:LGBTQ history in Alberta]]
+[[Category:1998 in LGBTQ history]]
+[[Category:1998 in Canadian case law]]
+[[Category:Alberta litigation]]
+[[Category:Persecution of LGBTQ people in Canada]]
+[[Category:LGBTQ-related education controversies]]
+[[Category:King's University (Canada)]]
+[[Category:History of education in Alberta]]
+[[Category:LGBTQ culture in Edmonton]]
+[[Category:Homophobia in Canada]]

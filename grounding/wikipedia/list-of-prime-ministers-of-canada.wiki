@@ -1,0 +1,767 @@
+{{Short description|None}}
+{{featured list}}
+{{Use Canadian English|date=September 2023}}
+{{Use dmy dates|date=September 2023}}
+[[File:Prime Ministers of Canada to 1963.jpg|right|thumb|upright=1.35|Canada's prime ministers during its first century]]
+The [[prime minister of Canada]] is the official who serves as the primary [[minister of the Crown]], chair of the [[Cabinet of Canada|Cabinet]], and thus [[head of government]] of [[Canada]]. Twenty-four people (twenty-three men and one woman) have served as prime minister. Officially, the prime minister is appointed by the [[governor general of Canada]], but by [[Convention (political norm)|constitutional convention]], the prime minister must have the [[Confidence and supply#Confidence|confidence]] of the elected [[House of Commons of Canada|House of Commons]]. Normally, this is the leader of the party caucus with the greatest number of seats in the house. However, in a minority parliament the leader of an opposition party may be asked to form a government if the incumbent government resigns and the governor general is persuaded that they have the confidence of the House. 
+
+By constitutional convention, a prime minister holds a seat in parliament and, since the early 20th century, this has more specifically meant the House of Commons.<ref>{{Citation| last=Forsey| first=Eugene| author-link=Eugene Forsey| title=How Canadians Govern Themselves| place=Ottawa| publisher=Queen's Printer for Canada| year=2005| edition=6| url=http://www2.parl.gc.ca/Sites/LOP/AboutParliament/Forsey/PDFs/How_Canadians_Govern_Themselves-6ed.pdf| page=38| isbn=0-662-39689-8| access-date=24 March 2011| ref=CITEREF_Forsey_2005| url-status=dead| archive-url=https://web.archive.org/web/20091229155255/http://www2.parl.gc.ca/Sites/LOP/AboutParliament/Forsey/PDFs/How_Canadians_Govern_Themselves-6ed.pdf| archive-date=29 December 2009}}</ref>
+
+The 24th and current prime minister is [[Mark Carney]], who assumed office on 14 March 2025.
+
+==Model==
+The office is not outlined in any of the documents that constitute the written portion of the [[Constitution of Canada]]; [[Executive (government)|executive authority]] is formally vested in [[Monarchy of Canada|the sovereign]] and exercised on the sovereign's behalf by the governor general. The prime ministership is part of Canada's constitutional convention tradition. The office was modelled after that which existed in the [[United Kingdom]] at the time of Confederation. [[John A. Macdonald]] was commissioned by the [[Charles Monck, 4th Viscount Monck|Viscount Monck]] on 24 May 1867 to form the first [[Government of Canada|government]] of the [[Canadian Confederation]]. On 1 July 1867, the [[1st Canadian Ministry|first ministry]] assumed office.<ref name="1July" />
+
+==Term==
+When a prime minister takes office, their term is determined by the date when they are sworn in as prime minister; or, if they do not take an oath as prime minister, the date they were sworn into another [[Ministry (government department)|portfolio]], as an [[oath of office]] as prime minister is not required.<ref name=Guide>{{cite web|title=Guide to Canadian Ministries since Confederation: Life of a Ministry|url=http://www.pco-bcp.gc.ca/mgm/#LIFE|publisher=Government of Canada [[Privy Council Office (Canada)|Privy Council Office]]|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20120315135020/http://www.pco-bcp.gc.ca/mgm/#LIFE|archive-date=15 March 2012|url-status=dead}}</ref> However, since 1957, all incoming prime ministers have sworn an oath as prime minister.<ref name=Guide/>
+
+Before 1920, prime ministers' resignations were accepted immediately by the governor general, and the last day of their ministry was their date of resignation (or death).<ref name=Guide/> Since 1920, the outgoing prime minister has only formally resigned when the new government is ready to be formed.<ref name=Guide/> The ''Interpretation Act'' of 1967 states that "where an appointment is made effective or terminates on a specified day, that appointment is considered to be effective or to terminate after the end of the previous day".<ref name=Guide/> Thus, although the outgoing prime minister formally resigns only hours before the incoming ministry swears their oaths, on the same day, the ministries are effectively changed at midnight the night before. Some sources, including the [[Parliament of Canada]], apply this convention as far back as 1917.<ref name=Gallery>{{cite web |title=Prime Ministers of Canada: Gallery |url=http://www2.parl.gc.ca/Parlinfo/Compilations/FederalGovernment/PrimeMinisters/Gallery.aspx |date=2007-01-15 |archive-url=https://web.archive.org/web/20120504120829/http://www.parl.gc.ca/ParlInfo/Compilations/FederalGovernment/PrimeMinisters/Gallery.aspx |archive-date=2012-05-04 |url-status=dead |publisher=[[Parliament of Canada]] |access-date=24 March 2011}}</ref> Two prime ministers have died in office: John A. Macdonald (1867–1873, 1878–1891) and [[John Sparrow David Thompson|John Thompson]] (1892–1894), both of natural causes. All others have resigned, either after losing an election or upon retirement.
+
+==Prime ministers==
+{{further|Historical rankings of prime ministers of Canada|List of prime ministers of Canada by time in office}}
+Canadian custom is to count by the individuals who were prime minister, not by terms.<ref name="Library of the Canadian Parliament">{{cite web | title=Prime Ministers of Canada | website=Library of the Canadian Parliament | url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/primeMinisters | access-date=2023-02-26 | archive-date=31 July 2018 | archive-url=https://web.archive.org/web/20180731161936/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/primeMinisters | url-status=live }}</ref> Since Confederation, 24 prime ministers have been called upon by the governor general to form 30 [[Canadian ministries]].<ref name="Library of the Canadian Parliament"/>
+{{sticky header}}
+{|class="wikitable sortable sticky-header" style=text-align:left" style="margin:1em auto;"
+|-
+|'''Abbreviation key:'''||No.: Incumbent number, Min.: Ministry, Refs: References
+|-
+|'''Colour key:'''||{{legend|{{Canadian party colour/Temporary|CA|Liberal}}|[[Liberal Party of Canada]]|border=1px solid #AAAAAA}} {{legend|{{Canadian party colour/Temporary|CA|Conservative (historical)}}|Historical Conservative parties (including [[Liberal-Conservative Party|Liberal-Conservative]], [[Conservative Party of Canada (1867–1942)|Conservative (Historical)]], [[Unionist Party (Canada)|Unionist]], [[National Liberal and Conservative Party|National Liberal and Conservative]], [[Progressive Conservative Party of Canada|Progressive Conservative]])|border=1px solid #AAAAAA}} {{legend|{{Canadian party colour/Temporary|CA|Conservative}}|[[Conservative Party of Canada]]|border=1px solid #AAAAAA}}
+|-
+|'''Provinces key:'''||AB: [[Alberta]], BC: [[British Columbia]], MB: [[Manitoba]], NS: [[Nova Scotia]], ON: [[Ontario]], QC: [[Quebec]], SK: [[Saskatchewan]]
+|}
+{{Canadian first minister list/top |assembly=Parliaments |cabinet=yes |references=yes}}
+
+{{Canadian first minister list
+|name            = [[John A. Macdonald]]
+|title           = Sir 
+|jurisdiction    = CA
+|number          = 1<br/><sup>(1&nbsp;of&nbsp;2)</sup>
+|number_sub      = 
+|image           = John A. Macdonald CU1114535 (cropped).jpg
+|birth_year      = 1815
+|death_year      = 1891
+|party           = Liberal-Conservative
+|leadership      =
+|riding          = [[Kingston (federal electoral district)|Kingston, ON]]
+|cabinet         = [[1st Canadian Ministry|1st]]
+|term_start      = 1867-07-01
+|term_end        = 1873-11-05
+|event1          = establishment
+|event1_year     = 1867
+|event1_assembly = none
+|event2          = election
+|event2_year     = 1867
+|event2_assembly = 1st
+|event3          = election
+|event3_year     = 1872
+|event3_assembly = 2nd
+|references      = <ref name=1July >{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=1&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20151117022059/http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=1&mbtpid=1#FTNote1|archive-date=17 November 2015|url-status=dead}}</ref><ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=2&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170121153052/http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=2&mbtpid=1#FTNote1|archive-date=21 January 2017|url-status=dead}}</ref>
+|accomplishments = [[Minister of Justice (Canada)|Minister of Justice]]; Integration of [[Rupert's Land]] and the [[North-Western Territory]] into Canada; ''[[Manitoba Act]]''; [[Red River Rebellion]]; [[British Columbia]] and [[Prince Edward Island]] join Confederation; Creation of the [[North-West Mounted Police]]; Resigned over [[Pacific Scandal]].
+}}
+{{Canadian first minister list
+|name            = [[Alexander Mackenzie (politician)|Alexander Mackenzie]]
+|jurisdiction    = CA
+|number          = 2
+|image           = Alexander MacKenzie - portrait (cropped).jpg
+|birth_year      = 1822
+|death_year      = 1892
+|party           = Liberal
+|leadership      = 1873
+|riding          = [[Lambton (federal electoral district)|Lambton, ON]]
+|cabinet         = [[2nd Canadian Ministry|2nd]]
+|term_start      = 1873-11-07
+|term_end        = 1878-10-08
+|event1          = appointment
+|event1_assembly = 2nd
+|event2          = election
+|event2_year     = 1874
+|event2_assembly = 3rd
+|references      = <ref>{{cite web |title=Profile – Mackenzie, Alexander |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=16254 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=25 July 2020 |archive-url=https://web.archive.org/web/20200725023941/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=16254 |url-status=live }}</ref><ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=3&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170501192806/http://pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=3&mbtpid=1#FTNote1|archive-date=1 May 2017|url-status=dead}}</ref>
+|accomplishments = Appointed as a result of the [[Pacific Scandal]]; Creation of the [[Supreme Court of Canada|Supreme Court]]; Passage of the ''[[Indian Act]]''; Establishment of the [[Royal Military College of Canada|Royal Military College]]; Creation of the office of the [[Auditor General of Canada|Auditor General]].
+}}
+{{Canadian first minister list
+|name            = [[John A. Macdonald]]
+|title           = Sir
+|jurisdiction    = CA
+|number          = 1<br/><sup>(2&nbsp;of&nbsp;2)</sup>
+|number_sub      = 
+|image           = Prime Minister John A. Macdonald November 1883 (cropped).jpg
+|birth_year      = 1815
+|death_year      = 1891
+|party           = Liberal-Conservative
+|leadership      =
+|riding          = [[Victoria (British Columbia federal electoral district)|Victoria, BC]]
+|riding_term     = 1878–1882
+|riding2         = [[Carleton (Ontario federal electoral district)|Carleton, ON]]
+|riding2_term    = 1882–1887
+|riding3         = [[Kingston (federal electoral district)|Kingston, ON]]
+|riding3_term    = 1887–1891
+|cabinet         = [[3rd Canadian Ministry|3rd]]
+|term_start      = 1878-10-17
+|term_end        = 1891-06-06
+|event1          = election
+|event1_year     = 1878
+|event1_assembly = 4th
+|event2          = election
+|event2_year     = 1882
+|event2_assembly = 5th
+|event3          = election
+|event3_year     = 1887
+|event3_assembly = 6th
+|event4          = election
+|event4_year     = 1891
+|event4_assembly = 7th
+|references      = <ref>{{cite web |title=Profile – Macdonald, John Alexander |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=4997 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=22 August 2019 |archive-url=https://web.archive.org/web/20190822045733/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=4997 |url-status=live }}</ref><ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=4&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170130083005/http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=4&mbtpid=1#FTNote1|archive-date=30 January 2017|url-status=dead}}</ref>
+<ref>{{cite web |last1=Chan |first1=Arlene |title=Chinese Head Tax in Canada |url=https://thecanadianencyclopedia.ca/en/article/chinese-head-tax-in-canada |website=The Canadian Encyclopedia |publisher=Historica Canada |access-date=23 January 2026}}</ref>
+<ref>{{cite web |title=Sir John A. Macdonald |url=https://thecanadianencyclopedia.ca/en/article/sir-john-alexander-macdonald |website=Canadian Encyclopedia |publisher=Historica Canada |access-date=23 January 2026}}</ref>
+|accomplishments = [[National Policy]]; [[Canadian Pacific Railway|Railway to the Pacific]]; [[North-West Rebellion]]; Introduction of [[Chinese Head Tax]]; Hanging of [[Louis Riel]]; Establishment of [[Canadian Indian residential school system|Residential School System]]; Imposed [[Peasant Farm Policy]]. Died in office (stroke).
+}}
+{{Canadian first minister list
+|name            = [[John Abbott]]
+|title           = Sir
+|jurisdiction    = CA
+|number          = 3
+|image           = Prime Minister John Abbott 1892 (cropped).jpg
+|birth_year      = 1821
+|death_year      = 1893
+|party           = Liberal-Conservative
+|leadership      =
+|member_title    = Senator
+|riding          = Inkerman, Quebec
+|cabinet         = [[4th Canadian Ministry|4th]]
+|term_start      = 1891-06-16
+|term_end        = 1892-11-24
+|event1          = appointment
+|event1_year     = 1891
+|event1_assembly = 7th
+|references      = <ref>{{cite web |title=Profile – Abbott, John Joseph Caldwell |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=8200 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025}}</ref><ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=5&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170501192809/http://pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=5&mbtpid=1#FTNote1|archive-date=1 May 2017|url-status=dead}}</ref>
+|accomplishments = First prime minister born in what would become Canada; first of only two prime ministers to serve while in the Senate; Minister without Portfolio; succeeded on Macdonald's death due to objections to the Catholic [[John Sparrow David Thompson|John Thompson]]; in ill health; retired. 
+}}
+{{Canadian first minister list
+|name            = [[John Sparrow David Thompson]] 
+|title           = Sir
+|jurisdiction    = CA
+|number          = 4
+|image           = Sir John SD Thompson (cropped).jpg
+|birth_year      = 1845
+|death_year      = 1894
+|party           = Liberal-Conservative
+|leadership      =
+|riding          = [[Antigonish (federal electoral district)|Antigonish, NS]]
+|cabinet         = [[5th Canadian Ministry|5th]]
+|term_start      = 1892-12-05
+|term_end        = 1894-12-12
+|event1          = appointment
+|event1_year     = 1892
+|event1_assembly = 7th
+|references      = <ref>{{cite web |title=Profile – Thompson, John Sparrow David |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=1860 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=23 December 2024 |archive-url=https://web.archive.org/web/20241223000313/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=1860 |url-status=live }}</ref><ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=6&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170501192811/http://pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=6&mbtpid=1#FTNote1|archive-date=1 May 2017|url-status=dead}}</ref>
+|accomplishments = [[Minister of Justice (Canada)|Minister of Justice]]; first Catholic prime minister; [[Manitoba Schools Question]]; died in office (heart attack).
+}}
+{{Canadian first minister list
+|name            = [[Mackenzie Bowell]]
+|title           = Sir
+|jurisdiction    = CA
+|number          = 5
+|image           = Mackenzie Bowell w medals (cropped 2 ).jpg
+|birth_year      = 1823
+|death_year      = 1917
+|party           = Conservative (historical)
+|leadership      =
+|member_title    = Senator
+|riding          = Ontario
+|cabinet         = [[6th Canadian Ministry|6th]]
+|term_start      = 1894-12-21
+|term_end        = 1896-04-27
+|event1          = appointment
+|event1_year     = 1894
+|event1_assembly = 7th
+|references      = <ref>{{cite web |title=Profile – Bowell, Mackenzie |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=15613 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=25 January 2025 |archive-url=https://web.archive.org/web/20250125175654/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=15613 |url-status=live }}</ref><ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=7&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170118114447/http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=7&mbtpid=1#FTNote1|archive-date=18 January 2017|url-status=dead}}</ref>
+|accomplishments = [[Minister of Customs]]; [[Minister of Militia and Defence (Canada)|Minister of Militia and Defence]]; [[Manitoba Schools Question]]; last prime minister to serve while in the Senate and last prime minister not to be born in Canada or pre-Canada until Turner.
+}}
+{{Canadian first minister list
+|name            = [[Charles Tupper]]
+|title           = Sir
+|jurisdiction    = CA
+|number          = 6
+|image           = Charles Tupper photographic portrait (cropped 2 ).jpg
+|birth_year      = 1821
+|death_year      = 1915
+|party           = Conservative (historical)
+|leadership      =
+|member_title    = none<!--Tupper was not an MP during his premiership. This is explained in the "accomplishments" section.-->
+|cabinet         = [[7th Canadian Ministry|7th]]
+|term_start      = 1896-05-01
+|term_end        = 1896-07-08
+|event1          = appointment
+|event1_year     = 1896
+|event1_assembly = None<!--Parliament was not in session for the entire duration of Tupper's premiership.-->
+|references      = <ref>{{cite web |title=Profile – Tupper, Charles |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=6179 |date=1915-10-30 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=8 June 2023 |archive-url=https://web.archive.org/web/20230608103730/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=6179 |url-status=live }}</ref><ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=8&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170501192813/http://pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=8&mbtpid=1#FTNote1|archive-date=1 May 2017|url-status=dead}}</ref>
+|accomplishments = [[Minister of Customs]], [[Minister of Railways and Canals (Canada)|Minister of Railways and Canals]]; Oldest Canadian PM to take office. Longest life of any Canadian prime minister (as of 2026), at 94 years, four months. Appointed prime minister while Parliament was dissolved for the 1896 election; did not hold a seat in parliament while prime minister, but he was MP for [[Cape Breton (federal electoral district)|Cape Breton, NS]] immediately before and after the 1896 election. Despite his party's defeat in the election, attempted to remain in office until dismissed by Governor General [[John Hamilton-Gordon, 1st Marquess of Aberdeen and Temair|Lord Aberdeen]].
+}}
+{{Canadian first minister list
+|name            = [[Wilfrid Laurier]]
+|title           = Sir
+|jurisdiction    = CA
+|number          = 7
+|image           = The Honourable Sir Wilfrid Laurier Photo A (3x4 cropped) 2.png
+|birth_year      = 1841
+|death_year      = 1919
+|party           = Liberal
+|leadership      = 1887
+|riding          = [[Quebec East|Quebec East, QC]]
+|cabinet         = [[8th Canadian Ministry|8th]]
+|term_start      = 1896-07-11
+|term_end        = 1911-10-06
+|event1          = election
+|event1_year     = 1896
+|event1_assembly = 8th
+|event2          = election
+|event2_year     = 1900
+|event2_assembly = 9th
+|event3          = election
+|event3_year     = 1904
+|event3_assembly = 10th
+|event4          = election
+|event4_year     = 1908
+|event4_assembly = 11th
+|references      = <ref>{{cite web |title=Profile – Laurier, Wilfrid |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=5780 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=30 November 2024 |archive-url=https://web.archive.org/web/20241130164334/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=5780 |url-status=live }}</ref><ref name="Privy Council Office">{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=9&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170501192815/http://pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=9&mbtpid=1#FTNote1|archive-date=1 May 2017|url-status=dead}}</ref>
+|accomplishments = [[Manitoba Schools Question]]; [[Second Boer War|Boer War]]; [[Alberta]] and [[Saskatchewan]] created; [[Naval Service Act|Creation of the Royal Canadian Navy]]; [[Reciprocity (Canadian politics)|Reciprocity with the US]]; [[Department of External Affairs (Canada)|Department of External Affairs]] established; first French Canadian prime minister; longest single term for a prime minister.
+}}
+{{Canadian first minister list
+|name            = [[Robert Borden]]
+|title           = Sir
+|jurisdiction    = CA
+|number          = 8
+|image           = Borden-sm (cropped)2.jpg
+|birth_year      = 1854
+|death_year      = 1937
+|party           = Conservative (historical)
+|leadership      = 1901
+|riding          = [[Halifax (federal electoral district)|Halifax, NS]]
+|riding_term     = 1911–1917
+|riding2         = [[Kings (Nova Scotia federal electoral district)|Kings, NS]]
+|riding2_term    = 1917–1920
+|cabinet         = [[9th Canadian Ministry|9th]]<br/>{{small|{{nowrap|(1911–17)}}}}
+----
+[[10th Canadian Ministry|10th]]<br/>{{small|{{nowrap|(1917–20)}}}}
+|term_start      = 1911-10-10
+|term_end        = 1920-07-10
+|event1          = election
+|event1_year     = 1911
+|event1_assembly = 12th
+|event2          = election
+|event2_year     = 1917
+|event2_assembly = 13th
+|references      = <ref name="Privy Council Office"/><ref name="parliamentarian1">{{cite web |title=Profile – Borden, Robert Laird |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=15531 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=30 November 2024 |archive-url=https://web.archive.org/web/20241130044404/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=15531 |url-status=live }}</ref><ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=11&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170501192818/http://pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=11&mbtpid=1#FTNote1|archive-date=1 May 2017|url-status=dead}}</ref>
+|accomplishments = [[Canada in World War I|First World War]]; [[Military Service Act (Canada)|''Military Service Act'']]; [[Conscription Crisis of 1917]]; [[Unionist Party (Canada)|Union government]]; [[National Research Council of Canada|National Research Council]]; Introduction of [[income taxes in Canada|income tax]]; [[Nickle Resolution]]; [[Women's suffrage in Canada|Women's suffrage]]; Suppression of [[Winnipeg General Strike]]; Canada sits at the [[Paris Peace Conference, 1919|Paris Peace Conference]], signs the [[Treaty of Versailles]] and joins the [[League of Nations]]; last Canadian Prime Minister to be knighted.
+}}
+{{Canadian first minister list
+|name            = [[Arthur Meighen]]
+|jurisdiction    = CA
+|number          = 9<br/><sup>(1&nbsp;of&nbsp;2)</sup>
+|number_sub      = 
+|image           = Former PM Arthur Meighen (cropped).jpg
+|birth_year      = 1874
+|death_year      = 1960
+|party           = Conservative (historical)
+|leadership      = 1920
+|riding          = [[Portage la Prairie (federal electoral district)|Portage la Prairie, MB]]
+|cabinet         = [[11th Canadian Ministry|11th]]
+|term_start      = 1920-07-10
+|term_end        = 1921-12-29
+|event1          = appointment
+|event1_assembly = 13th
+|references      = <ref name="parliamentarian2">{{cite web |title=Profile – Meighen, Arthur |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=11779 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=25 January 2025 |archive-url=https://web.archive.org/web/20250125131154/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=11779 |url-status=live }}</ref><ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=12&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170501192820/http://pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=12&mbtpid=1#FTNote1|archive-date=1 May 2017|url-status=dead}}</ref>
+|accomplishments = [[Solicitor General of Canada]], [[Minister of Mines (Canada)|Minister of Mines]], [[Secretary of State for Canada]], [[Minister of the Interior]], [[Minister of Indigenous and Northern Affairs|Superintendent Indian Affairs]]; [[Grand Trunk Railway]] placed under control of [[Canadian National Railways]].
+}}
+{{Canadian first minister list
+|name            = [[William Lyon Mackenzie King]]
+|jurisdiction    = CA
+|number          = 10<br/><sup>(1&nbsp;of&nbsp;3)</sup>
+|number_sub      = 
+|image           = Rt. Hon. W.L. MacKenzie-King, 7-13-22 cropped.jpg
+|birth_year      = 1874
+|death_year      = 1950
+|party           = Liberal
+|leadership      = [[1919 Liberal Party of Canada leadership election|1919]]
+|riding          = [[York North|York North, ON]]
+|riding_term     = 1921–1925
+|riding2         = [[Prince Albert (federal electoral district)|Prince Albert, SK]]
+|riding2_term    = 1925–1926
+|cabinet         = [[12th Canadian Ministry|12th]]
+|term_start      = 1921-12-29
+|term_end        = 1926-06-28
+|event1          = election
+|event1_year     = 1921
+|event1_assembly = 14th
+|event2          = election
+|event2_year     = 1925
+|event2_assembly = 15th
+|references      = {{ref_label|lost_seat|LS}} <ref name="parliamentarian3">{{cite web |title=Profile – King, William Lyon Mackenzie |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=10888 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=22 December 2024 |archive-url=https://web.archive.org/web/20241222142033/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=10888 |url-status=live }}</ref><ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=13&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170501192821/http://pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=13&mbtpid=1#FTNote1|archive-date=1 May 2017|url-status=dead}}</ref>
+|accomplishments = [[Minister of Labour (Canada)|Minister of Labour]]; [[Chanak Crisis]]; lower tariffs; reinstated [[Crowsnest Pass Agreement]]; [[1923 Imperial Conference]]; [[Halibut Treaty]]; Continued after 1925 with third party Progressive support until resigning after his request for an election was refused by [[Governor General of Canada|Governor General]] [[Lord Byng]].
+}}
+{{Canadian first minister list
+|name            = [[Arthur Meighen]]
+|jurisdiction    = CA
+|number          = 9<br/><sup>(2&nbsp;of&nbsp;2)</sup>
+|number_sub      = 
+|image           = Arthur Meighen at the CNE (cropped).jpg
+|birth_year      = 1874
+|death_year      = 1960
+|party           = Conservative (historical)
+|leadership      = 1920
+|riding          = [[Portage la Prairie (federal electoral district)|Portage la Prairie, MB]]
+|cabinet         = [[13th Canadian Ministry|13th]]
+|term_start      = 1926-06-29
+|term_end        = 1926-09-25
+|event1          = appointment
+|event1_year     = 1926
+|event1_assembly = 15th
+|references      = <ref name="parliamentarian2"/><ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=14&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170501192823/http://pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=14&mbtpid=1#FTNote1|archive-date=1 May 2017|url-status=dead}}</ref>
+|accomplishments = Appointed as a result of the [[King–Byng Affair]]. Circumvented required [[ministerial by-elections]] by appointing "acting ministers". Defeated days later on a [[motion of no confidence]], so almost all of his 2nd term was during the 1926 election.
+}}
+{{Canadian first minister list
+|name            = [[William Lyon Mackenzie King]] 
+|jurisdiction    = CA
+|number          = 10<br/><sup>(2&nbsp;of&nbsp;3)</sup>
+|number_sub      = 
+|image           = William Lyon Mackenzie King at Laurier House in 1932 cropped.jpg
+|birth_year      = 1874
+|death_year      = 1950
+|party           = Liberal
+|leadership      = [[1919 Liberal Party of Canada leadership election|1919]]
+|riding          = [[Prince Albert (federal electoral district)|Prince Albert, SK]]
+|cabinet         = [[14th Canadian Ministry|14th]]
+|term_start      = 1926-09-25
+|term_end        = 1930-08-07
+|event1          = election
+|event1_year     = 1926
+|event1_assembly = 16th
+|references      = <ref name="parliamentarian3"/><ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=15&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170501192825/http://pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=15&mbtpid=1#FTNote1|archive-date=1 May 2017|url-status=dead}}</ref>
+|accomplishments = [[Balfour Declaration of 1926|Balfour Declaration]]; Introduction of [[Old Age Security|old age pensions]]; first Canadian envoys with full diplomatic status sent to foreign countries (USA, France, Japan); [[Great Depression in Canada|Great Depression]].
+}}
+{{Canadian first minister list
+|name            = [[R. B. Bennett]]
+|jurisdiction    = CA
+|number          = 11
+|image           = R.B. Bennett 1930s (cropped).jpg
+|birth_year      = 1870
+|death_year      = 1947
+|party           = Conservative (historical)
+|leadership      = [[1927 Conservative leadership convention|1927]]
+|riding          = [[Calgary West]], AB
+|cabinet         = [[15th Canadian Ministry|15th]]
+|term_start      = 1930-08-07
+|term_end        = 1935-10-23
+|event1          = election
+|event1_year     = 1930
+|event1_assembly = 17th
+|references      = <ref name="parliamentarian4">{{cite web |title=Profile – Bennett, Richard Bedford |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=6638 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=8 June 2023 |archive-url=https://web.archive.org/web/20230608100057/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=6638 |url-status=live }}</ref><ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=16&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170501192826/http://pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=16&mbtpid=1#FTNote1|archive-date=1 May 2017|url-status=dead}}</ref>
+|accomplishments = [[Minister of Justice (Canada)|Minister of Justice]], [[Minister of Finance (Canada)|Minister of Finance]]; [[Great Depression in Canada|Great Depression]]; [[Imperial Preference]]; [[Statute of Westminster 1931|Statute of Westminster]]; [[Canadian Radio Broadcasting Commission]]; [[Canadian Wheat Board]]; Creation of the [[Bank of Canada]].
+}}
+{{Canadian first minister list
+|name            = [[William Lyon Mackenzie King]]
+|jurisdiction    = CA
+|number          = 10<br/><sup>(3&nbsp;of&nbsp;3)</sup>
+|number_sub      = 
+|image           = Wm Lyon Mackenzie King (cropped)2.jpg
+|birth_year      = 1874
+|death_year      = 1950
+|party           = Liberal
+|leadership      = [[1919 Liberal Party of Canada leadership election|1919]]
+|riding          = [[Prince Albert (federal electoral district)|Prince Albert, SK]]
+|riding_term     = 1935–1945
+|riding2         = [[Glengarry (federal electoral district)|Glengarry, ON]]
+|riding2_term    = 1945–1948
+|cabinet         = [[16th Canadian Ministry|16th]]
+|term_start      = 1935-10-23
+|term_end        = 1948-11-15
+|event1          = election
+|event1_year     = 1935
+|event1_assembly = 18th
+|event2          = election
+|event2_year     = 1940
+|event2_assembly = 19th
+|event3          = election
+|event3_year     = 1945
+|event3_assembly = 20th
+|references      = {{ref_label|lost_seat|LS}}<ref name="parliamentarian3"/><ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=17&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170501192828/http://pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=17&mbtpid=1#FTNote1|archive-date=1 May 2017|url-status=dead}}</ref>
+|accomplishments = Creation of the [[Canadian Broadcasting Corporation]]; [[National Film Board of Canada]]; ''Unemployment Insurance Act'' of 1940; Nationalization of the [[Bank of Canada]]; [[Canada in World War II|Second World War]]; [[Japanese Canadian internment]]; [[Conscription Crisis of 1944]]; Canada's entry into the [[United Nations]]; [[Air Canada|Trans-Canada Airlines]]; [[Igor Gouzenko|Gouzenko Affair]]. Longest cumulative time serving as prime minister; only prime minister to serve three non-consecutive terms.
+}}
+{{Canadian first minister list
+|name            = [[Louis St. Laurent]]
+|jurisdiction    = CA
+|number          = 12
+|image           = Louis St. Laurent portrait cropped.jpg
+|birth_year      = 1882
+|death_year      = 1973
+|party           = Liberal
+|leadership      = [[1948 Liberal Party of Canada leadership election|1948]]
+|riding          = [[Quebec East|Quebec East, QC]]
+|cabinet         = [[17th Canadian Ministry|17th]]
+|term_start      = 1948-11-15
+|term_end        = 1957-06-21
+|event1          = appointment
+|event1_year     = 1948
+|event1_assembly = 20th
+|event2          = election
+|event2_year     = 1949
+|event2_assembly = 21st
+|event3          = election
+|event3_year     = 1953
+|event3_assembly = 22nd
+|references      = <ref name="parliamentarian5">{{cite web |title=Profile – St-Laurent, Louis Stephen |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=8198 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025}}</ref><ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=18&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170501192829/http://pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=18&mbtpid=1#FTNote1|archive-date=1 May 2017|url-status=dead}}</ref>
+<ref>{{cite web |title=Timeline Korean War |url=https://thecanadianencyclopedia.ca/en/timeline/korean-war |website=The Canadian Encyclopedia |publisher=Historica Canada |access-date=23 January 2026}}</ref>
+|accomplishments = [[Minister of Justice (Canada)|Minister of Justice]], [[Minister of Foreign Affairs (Canada)|Secretary of State for External Affairs]]; [[Dominion of Newfoundland]] joins Confederation; right of appeal to [[Judicial Committee of the Privy Council]] ended; Canada's entrance into [[NATO]]; [[Canada in the Korean War|Korean War]]; [[Suez Crisis]]; Creation of the [[United Nations Emergency Force]]; [[London Declaration]]; ''[[Newfoundland Act]]''; [[Equalization payments|Equalization]]; [[Trans-Canada Highway]]; [[St. Lawrence Seaway]]; [[Trans-Canada Pipeline]]; [[Pipeline Debate]].
+}}
+{{Canadian first minister list
+|name            = [[John Diefenbaker]]
+|jurisdiction    = CA
+|number          = 13
+|image           = John G. Diefenbaker (cropped).jpg
+|birth_year      = 1895
+|death_year      = 1979
+|party           = PC
+|leadership      = [[1956 Progressive Conservative leadership convention|1956]]
+|riding          = [[Prince Albert (federal electoral district)|Prince Albert, SK]]
+|cabinet         = [[18th Canadian Ministry|18th]]
+|term_start      = 1957-06-21
+|term_end        = 1963-04-22
+|event1          = election
+|event1_year     = 1957
+|event1_assembly = 23rd
+|event2          = election
+|event2_year     = 1958
+|event2_assembly = 24th
+|event3          = election
+|event3_year     = 1962
+|event3_assembly = 25th
+|references      = <ref name="parliamentarian6">{{cite web |title=Profile – Diefenbaker, John George |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=2369 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=22 August 2019 |archive-url=https://web.archive.org/web/20190822022254/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=2369 |url-status=live }}</ref><ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=19&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170501192832/http://pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=19&mbtpid=1#FTNote1|archive-date=1 May 2017|url-status=dead}}</ref>
+|accomplishments = [[Avro Arrow]] cancellation; [[James Elliott Coyne|Coyne Affair]]; [[Cuban Missile Crisis]]; [[NORAD]]; Establishment of [[Board of Broadcast Governors]]; ''[[Canadian Bill of Rights]]''; Allowed status aboriginals to vote in federal elections 1960; [[Alouette 1]] satellite programme. [[John Diefenbaker#Downfall|Divisions within the government]] over the [[Bomarc]] missile program and whether to arm them with American nuclear weapons resulted in a successful motion of no-confidence.
+}}
+{{Canadian first minister list
+|name            = [[Lester B. Pearson]]
+|jurisdiction    = CA
+|number          = 14
+|image           = Lester B. Pearson (1963 ABC press photo).jpg
+|birth_year      = 1897
+|death_year      = 1972
+|party           = Liberal
+|leadership      = [[1958 Liberal Party of Canada leadership election|1958]]
+|riding          = [[Algoma East]], ON
+|cabinet         = [[19th Canadian Ministry|19th]]
+|term_start      = 1963-04-22
+|term_end        = 1968-04-20
+|event1          = election
+|event1_year     = 1963
+|event1_assembly = 26th
+|event2          = election
+|event2_year     = 1965
+|event2_assembly = 27th
+|references      = <ref name="parliamentarian7">{{cite web |title=Profile – Pearson, Lester Bowles |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=531 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=8 October 2024 |archive-url=https://web.archive.org/web/20241008074033/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=531 |url-status=live }}</ref><ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=20&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20170501192834/http://pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=20&mbtpid=1#FTNote1|archive-date=1 May 2017|url-status=dead}}</ref>
+|accomplishments = [[Minister of Foreign Affairs (Canada)|Secretary of State for External Affairs]]; [[Bomarc]] missile program; Creation of a national system of [[Medicare (Canada)|universal healthcare]]; [[Canada Pension Plan]]; [[Canada Student Loans]]; Creation of a new [[Flag of Canada|Canadian flag]]; [[Auto Pact]]; [[Canada and the Vietnam War|Rejection of troop deployment to Vietnam]]; [[Royal Commission on Bilingualism and Biculturalism]]; [[Unification of the Canadian Armed Forces|Unification of the Armed Forces]]; [[Canadian Centennial|Canadian Centennial Celebrations]].
+}}
+{{Canadian first minister list
+|name            = [[Pierre Trudeau]]
+|jurisdiction    = CA
+|number          = [[Premierships of Pierre Trudeau|15]]<br/><sup>(1&nbsp;of&nbsp;2)</sup>
+|number_sub      = 
+|image           = Prime Minister Pierre Trudeau 1975 (UPI press photo) (cropped).jpg
+|birth_year      = 1919
+|death_year      = [[Death and state funeral of Pierre Trudeau|2000]]
+|party           = Liberal
+|leadership      = [[1968 Liberal Party of Canada leadership election|1968]]
+|riding          = [[Mount Royal (electoral district)|Mount Royal, QC]]
+|cabinet         = [[20th Canadian Ministry|20th]]
+|term_start      = 1968-04-20
+|term_end        = 1979-06-04
+|event1          = appointment
+|event1_year     = 1968
+|event1_assembly = 27th
+|event2          = election
+|event2_year     = 1968
+|event2_assembly = 28th
+|event3          = election
+|event3_year     = 1972
+|event3_assembly = 29th
+|event4          = election
+|event4_year     = 1974
+|event4_assembly = 30th
+|references      = {{ref_label|interpretation_act|IA}}<ref name="parliamentarian8">{{cite web |title=Profile – Trudeau, Pierre Elliott |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=6230 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=6 August 2020 |archive-url=https://web.archive.org/web/20200806064045/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=6230 |url-status=live }}</ref>
+|accomplishments = [[Minister of Justice (Canada)|Minister of Justice]]; "[[Trudeaumania]]"; "[[Just Society]]"; [[Criminal Law Amendment Act, 1968–69|decriminalizing homosexuality and legalizing abortion]]; [[October Crisis]] and use of the ''[[War Measures Act]]''; ''[[Official Languages Act (Canada)|Official Languages Act]]''; Establishment of [[Canada–China relations|relations with Communist China]]; [[Victoria Charter]]; Creation of [[Petro-Canada]]; Membership in the [[G7]]; [[Metric Commission|Metrication of Canada]]; ''[[National Housing Act (Canada)|National Housing Act]]'' amendments; inflation and [[Anti-Inflation Act|eventual state intervention]]; Creation of [[Via Rail]].
+}}
+{{Canadian first minister list
+|name            = [[Joe Clark]]
+|jurisdiction    = CA
+|number          = 16
+|image           = Joe Clark being interviewed 1979 crop (cropped).jpg
+|birth_year      = 1939
+|party           = PC
+|leadership      = [[1976 Progressive Conservative leadership election|1976]]
+|riding          = [[Yellowhead (electoral district)|Yellowhead, AB]]
+|cabinet         = [[21st Canadian Ministry|21st]]
+|term_start      = 1979-06-04
+|term_end        = 1980-03-03
+|event1          = election
+|event1_year     = 1979
+|event1_assembly = 31st
+|references      = {{ref_label|interpretation_act|IA}}<ref name="parliamentarian9">{{cite web |title=Profile – Clark, Charles Joseph |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=6804 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=2 August 2020 |archive-url=https://web.archive.org/web/20200802161218/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=6804 |url-status=live }}</ref>
+|accomplishments = Youngest Canadian PM; ''[[Freedom of information in Canada|Freedom of Information Act]]''; [[Canadian Caper]]; defeated in a [[motion of no confidence]] on [[1979 Canadian federal budget|first budget]]. First prime minister born in [[Western Canada]].
+}}
+{{Canadian first minister list
+|name            = [[Pierre Trudeau]]
+|jurisdiction    = CA
+|number          = [[Premierships of Pierre Trudeau|15]]<br/><sup>(2&nbsp;of&nbsp;2)</sup>
+|number_sub      = 
+|image           = Pierre Trudeau 1983 headshot (cropped).jpg
+|birth_year      = 1919
+|death_year      = 2000
+|party           = Liberal
+|leadership      = [[1968 Liberal Party of Canada leadership election|1968]]
+|riding          = [[Mount Royal (electoral district)|Mount Royal, QC]]
+|cabinet         = [[22nd Canadian Ministry|22nd]]
+|term_start      = 1980-03-03
+|term_end        = 1984-06-30
+|event1          = election
+|event1_year     = 1980
+|event1_assembly = 32nd
+|references      = {{ref_label|interpretation_act|IA}}<ref name="parliamentarian8"/>
+|accomplishments = [[1980 Quebec referendum]]; ''[[Access to Information Act]]''; [[Constitution Act, 1982|Patriation of the Canadian Constitution]]; [[Montreal Protocol]]; ''[[Canadian Charter of Rights and Freedoms]]''; [[National Energy Program]]; ''[[Canada Health Act]]''; [[Western alienation]].
+}}
+{{Canadian first minister list
+|name            = [[John Turner]]
+|jurisdiction    = CA
+|number          = 17
+|image           = Finance Minister John Turner speaks to reporters 1975 (cropped).jpg
+|birth_year      = 1929
+|death_year      = 2020
+|party           = Liberal
+|leadership      = [[1984 Liberal Party of Canada leadership election|1984]]
+|member_title    = none
+|cabinet         = [[23rd Canadian Ministry|23rd]]
+|term_start      = 1984-06-30
+|term_end        = 1984-09-17
+|event1          = appointment
+|event1_year     = 1984
+|event1_assembly = 32nd
+|references      = {{ref_label|interpretation_act|IA}}<ref name="parliamentarian10">{{cite web |title=Profile – Turner, John Napier |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=2909 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=31 October 2020 |archive-url=https://web.archive.org/web/20201031032926/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=2909 |url-status=live }}</ref>
+|accomplishments = [[Minister of Justice (Canada)|Minister of Justice]], [[Minister of Finance (Canada)|Minister of Finance]]; [[John Turner#Prime minister (June–September 1984)|Trudeau Patronage Appointments]]. Never sat in parliament as prime minister. First prime minister since Bowell not to have been born in Canada.
+}}
+{{Canadian first minister list
+|name            = [[Brian Mulroney]]
+|jurisdiction    = CA
+|number          = 18
+|image           = Brian Mulroney 1987 003 (cropped).jpg
+|birth_year      = 1939
+|death_year      = 2024
+|party           = PC
+|leadership      = [[1983 Progressive Conservative leadership election|1983]]
+|riding          = [[Manicouagan (electoral district)|Manicouagan, QC]]
+|riding_term     = 1984–1988
+|riding2         = [[Charlevoix (federal electoral district)|Charlevoix, QC]]
+|riding2_term    = 1988–1993
+|cabinet         = [[24th Canadian Ministry|24th]]
+|term_start      = 1984-09-17
+|term_end        = 1993-06-25
+|event1          = election
+|event1_year     = 1984
+|event1_assembly = 33rd
+|event2          = election
+|event2_year     = 1988
+|event2_assembly = 34th
+|references      = {{ref_label|interpretation_act|IA}}<ref name="parliamentarian11">{{cite web |title=Profile – Mulroney, Martin Brian |url=http://www.parl.gc.ca/Parlinfo/Files/Parliamentarian.aspx?Item=1335c5d9-2c4e-4ed4-b8d2-c85f1099e8d8&Language=E&MenuID=Compilations.FederalGovernment.PrimeMinisters.Gallery.aspx&MenuQuery=http%3A%2F%2Fwww.parl.gc.ca%2FParlinfo%2FCompilations%2FFederalGovernment%2FPrimeMinisters%2FGallery.aspx |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=16 December 2015 |archive-url=https://web.archive.org/web/20151216103535/http://www.parl.gc.ca/ParlInfo/Files/Parliamentarian.aspx?Item=1335c5d9-2c4e-4ed4-b8d2-c85f1099e8d8 |url-status=live }}</ref>
+|accomplishments = Cancellation of the [[National Energy Program]]; [[Meech Lake Accord]]; [[Petro-Canada|Petro-Canada privatization]]; [[Canada-US Free Trade Agreement]]; Introduction of the [[Goods and services tax (Canada)|Goods and Services Tax]]; [[Charlottetown Accord]]; [[International sanctions during apartheid|Sanctions against South Africa]]; [[U.S.–Canada Air Quality Agreement|Acid Rain treaty]]; [[Military history of Canada#Gulf War|Gulf War]]; [[Oka Crisis]]; ''[[Emergencies Act]]''; ''[[Canadian Environmental Protection Act, 1999|Environmental Protection Act]]''; Privatization of [[Air Canada]], [[North American Free Trade Agreement]]; [[Nunavut Land Claims Agreement]]; [[Airbus affair]]. Resigned amidst [[Opinion polling for the 1993 Canadian federal election|poor opinion polling]].
+}}
+{{Canadian first minister list
+|name            = [[Kim Campbell]]
+|jurisdiction    = CA
+|number          = 19
+|image           = Prime Minister Kim Campbell of Canada (42-WHPO-P05407-13-1) (cropped).jpg
+|birth_year      = 1947
+|party           = PC
+|leadership      = [[1993 Progressive Conservative leadership election|1993]]
+|riding          = [[Vancouver Centre|Vancouver Centre, BC]]
+|cabinet         = [[25th Canadian Ministry|25th]]
+|term_start      = 1993-06-25
+|term_end        = 1993-11-04
+|event1          = appointment
+|event1_year     = 1993
+|event1_assembly = 34th
+|references      = {{ref_label|interpretation_act|IA}}<ref name="parliamentarian12">{{cite web |title=Profile – Campbell, A. Kim |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=15582 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=14 December 2019 |archive-url=https://web.archive.org/web/20191214040657/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=15582 |url-status=live }}</ref>
+|accomplishments = [[Minister of Justice (Canada)|Minister of Justice]], [[Minister of Veterans Affairs (Canada)|Minister of Veterans Affairs]], [[Minister of National Defence (Canada)|Minister of National Defence]], [[Minister of Intergovernmental Affairs and Youth (Canada)|Minister of Intergovernmental Affairs]]; only female prime minister of Canada. Defeated and lost her seat in [[1993 Canadian federal election|1993 election]].
+}}
+{{Canadian first minister list
+|name            = [[Jean Chrétien]]
+|jurisdiction    = CA
+|number          = [[Premiership of Jean Chrétien|20]]
+|image           = APEC Summit 1993 - Jean Chrétien (3x4).jpg
+|birth_year      = 1934
+|party           = Liberal
+|leadership      = [[1990 Liberal Party of Canada leadership election|1990]]
+|riding          = [[Saint-Maurice (federal electoral district)|Saint-Maurice, QC]]
+|cabinet         = [[26th Canadian Ministry|26th]]
+|term_start      = 1993-11-04
+|term_end        = 2003-12-12
+|event1          = election
+|event1_year     = 1993
+|event1_assembly = 35th
+|event2          = election
+|event2_year     = 1997
+|event2_assembly = 36th
+|event3          = election
+|event3_year     = 2000
+|event3_assembly = 37th
+|references      = {{ref_label|interpretation_act|IA}}<ref name="parliamentarian13">{{cite web |title=Profile – Chrétien, Joseph Jacques Jean |url=http://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=306 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=7 February 2025 |archive-url=https://web.archive.org/web/20250207235148/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=306 |url-status=live }}</ref>
+|accomplishments = [[Minister of Finance (Canada)|Minister of Finance]], Minister of Indian Affairs, Minister of Energy, Mines and Resources, Minister of Justice and Energy Minister, [[President of the Treasury Board]], [[Minister of National Revenue (Canada)|Minister of National Revenue]], [[Deputy Prime Minister of Canada]]; Privatization of [[Canadian National Railway]], [[Red Book (Liberal Party of Canada)|Red Book]]; [[Harmonized Sales Tax]]; [[1995 Quebec referendum]]; ''[[Clarity Act]]''; [[André Dallaire|Assassination attempt]]; [[Kosovo War]]; [[1997 Red River flood]]; [[Social Union Framework Agreement]]; Creation of [[Nunavut]] Territory; ''[[Youth Criminal Justice Act]]''; [[Operation Yellow Ribbon]]; [[Canada's role in the invasion of Afghanistan|Invasion of Afghanistan]]; [[Canada and the Iraq War|Opposition to the Invasion of Iraq]]; [[Sponsorship scandal]]; [[Kyoto Protocol]]; [[Gomery Inquiry]].
+}}
+{{Canadian first minister list
+|name            = [[Paul Martin]]
+|jurisdiction    = CA
+|number          = [[Premiership of Paul Martin|21]]
+|image           = Paul Martin in 2006 (3x4).jpg
+|birth_year      = 1938
+|party           = Liberal
+|leadership      = [[2003 Liberal Party of Canada leadership election|2003]]
+|riding          = [[LaSalle—Émard|LaSalle—Émard, QC]]
+|cabinet         = [[27th Canadian Ministry|27th]]
+|term_start      = 2003-12-12
+|term_end        = 2006-02-06
+|event1          = appointment
+|event1_year     = 2003
+|event1_assembly = 37th
+|event2          = election
+|event2_year     = 2004
+|event2_assembly = 38th
+|references      = {{ref_label|interpretation_act|IA}}<ref>{{cite web |title=Profile – Martin, Paul Edgar Philippe |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=16713 |publisher=[[Parliament of Canada]] |access-date=15 March 2025 |archive-date=17 April 2019 |archive-url=https://web.archive.org/web/20190417165534/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=16713 |url-status=live }}</ref>
+|accomplishments = Only son of [[Paul Martin Sr.]], a prominent politician; served as Minister of Finance; [[38th Canadian Parliament|Minority government]]. ''[[Civil Marriage Act]]''; [[Kelowna Accord]]; [[Sponsorship scandal]]; [[Gomery inquiry]]; [[G20]]; [[Canada-Newfoundland and Labrador Atlantic Accord|Atlantic Accord]]
+}}
+{{Canadian first minister list
+|name            = [[Stephen Harper]]
+|jurisdiction    = CA
+|number          = [[Premiership of Stephen Harper|22]]
+|image           = Stephen Harper by Remy Steinegger Infobox.jpg
+|birth_year      = 1959
+|party           = Conservative
+|leadership      = [[2004 Conservative Party of Canada leadership election|2004]]
+|riding          = [[Calgary Southwest|Calgary Southwest, AB]]
+|cabinet         = [[28th Canadian Ministry|28th]]
+|term_start      = 2006-02-06
+|term_end        = 2015-11-04
+|event1          = election
+|event1_year     = 2006
+|event1_assembly = 39th
+|event2          = election
+|event2_year     = 2008
+|event2_assembly = 40th
+|event3          = election
+|event3_year     = 2011
+|event3_assembly = 41st
+|references      = {{ref_label|interpretation_act|IA}}<ref>{{cite web |title=Profile – Harper, Stephen Joseph |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=139 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=4 March 2025 |archive-url=https://web.archive.org/web/20250304013315/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=139 |url-status=live }}</ref>
+<ref>{{cite web |title=Operation MOBILE |url=https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/past-operations/africa/mobile.html |publisher=Government of Canada |access-date=23 January 2026}}</ref>
+|accomplishments = ''[[Federal Accountability Act|Accountability Act]]''; [[Canada–United States softwood lumber dispute|Softwood Lumber Agreement]]; [[Canada's role in the invasion of Afghanistan|Afghanistan Mission]]; [[2006 Ontario terrorism plot]]; [[Québécois nation motion]]; [[2008 financial crisis]]; [[2008–2009 Canadian parliamentary dispute|Coalition crisis]]; [[2009 Canadian federal budget|Economic Action Plan]]; Refusal to bailout [[Nortel]]; [[Canadian Afghan detainee issue|Afghan detainee issue]]; [[Contempt of Parliament#Canada|Parliamentary contempt]]; [[Canada and the Kyoto Protocol|Withdrawal from the Kyoto Protocol]]; [[Canadian Firearms Registry|Repeal of the Long-Gun Registry]]; [[Operation Mobile]]; [[Canadian Senate expenses scandal|Senate expenses scandal]]; [[2014 shootings at Parliament Hill, Ottawa|2014 Parliament Hill shootings]]; ''[[Anti-terrorism Act, 2015]]''.
+}}
+{{Canadian first minister list
+|name            = [[Justin Trudeau]]
+|jurisdiction    = CA
+|number          = [[Premiership of Justin Trudeau|23]]
+|image           = Prime Minister Trudeau's message on Christmas 2023 (3x4 close cropped).jpg
+|birth_year      = 1971
+|party           = Liberal
+|leadership      = [[2013 Liberal Party of Canada leadership election|2013]]
+|riding          = [[Papineau (electoral district)|Papineau, QC]]
+|cabinet         = [[29th Canadian Ministry|29th]]
+|term_start      = 2015-11-04
+|term_end        = 2025-03-14
+|event1          = election
+|event1_year     = 2015
+|event1_assembly = 42nd
+|event2          = election
+|event2_year     = 2019
+|event2_assembly = 43rd
+|event3          = election
+|event3_year     = 2021
+|event3_assembly = 44th
+|references      = <ref>{{cite web |title=Profile – Trudeau, Justin |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=17300 |publisher=[[Parliament of Canada]] |access-date=March 15, 2025 |archive-date=27 March 2019 |archive-url=https://web.archive.org/web/20190327025832/https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=17300 |url-status=live }}</ref>
+|accomplishments = Eldest son of [[Pierre Trudeau]], the 15th prime minister; served as [[Minister of Intergovernmental Affairs (Canada)|Minister of Intergovernmental Affairs and Youth]]; [[Refugees of the Syrian Civil War#Canada|resettling of Syrian refugees]]; [[Paris Agreement]]; [[Comprehensive Economic and Trade Agreement|Canada–Europe Trade Agreement]]; [[Comprehensive and Progressive Agreement for Trans-Pacific Partnership|Trans-Pacific Partnership Agreement]]; [[United States–Mexico–Canada Agreement|Canada–United States–Mexico Agreement]]; [[Canada Child Benefit]]; [[Cannabis Act (Canada)|legalization of cannabis]]; [[Carbon pricing in Canada]]; [[Aga Khan affair]]; [[extradition case of Meng Wanzhou]]; [[Detention of Michael Spavor and Michael Kovrig|negotiated release of Michael Spavor and Michael Kovrig]]; [[SNC-Lavalin affair]]; [[COVID-19 pandemic in Canada|COVID-19 pandemic]]; [[WE Charity scandal]]; [[Canada convoy protest]]s and use of the ''[[Emergencies Act]]''; [[2021 Canadian federal budget#Measures|$10-a-day childcare]]; [[confidence and supply]] agreement with the [[New Democratic Party|NDP]]; [[Canadian Dental Care Plan]]; [[Pharmacare]]; [[List of humanitarian aid to Ukraine during the Russo-Ukrainian War|humanitarian]] and [[List of military aid to Ukraine during the Russo-Ukrainian War|military aid to Ukraine]]; [[Yaroslav Hunka scandal]]; [[2023–25 Canada–India diplomatic row]]; [[2024–2025  Canadian political crisis]]; [[2025–2026 Canada–United States trade war|trade war with the United States]].
+}}  
+{{Canadian first minister list
+|name            = [[Mark Carney]]
+|jurisdiction    = CA
+|number          = [[Premiership of Mark Carney|24]]
+|image           = Mark Carney Argentina v Spain 19 July 2026-303 (3x4 close up cropped).jpg
+|birth_year      = 1965
+|party           = Liberal
+|leadership      = [[2025 Liberal Party of Canada leadership election|2025]]
+|riding          = [[Nepean (federal electoral district)|Nepean, ON]]
+|cabinet         = [[30th Canadian Ministry|30th]]
+|term_start      = 2025-03-14
+|term_end        = 
+|event1          = appointment 
+|event1_year     = 2025
+|event1_assembly = 44th
+|event2          = election
+|event2_year     = 2025
+|event2_assembly = 45th
+|references      = <ref>{{cite web |title=Profile – Carney, Mark |url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=20371 |publisher=[[Parliament of Canada]] |access-date=15 March 2025}}</ref>
+|accomplishments = First prime minister born in any of the territories; first prime minister to have never served in prior elected office; First prime minister who got a formal majority of the Commons without calling another general election; first [[Governor of the Bank of Canada]] to serve as prime minister and first to hold a high position in another country ([[Governor of the Bank of England]]); [[2025–2026 Canada–United States trade war|trade war with the United States]]<ref>{{cite news |url=https://www.bbc.com/news/articles/c36wkg47z1po |title=Canada's next PM Mark Carney vows to win trade war with Trump |work=BBC News |last=Murphy |first=Jessica |date=9 March 2025 |access-date=20 March 2025}}</ref>; repeal of the [[Greenhouse Gas Pollution Pricing Act|consumer carbon tax]]; ''[[One Canadian Economy Act]]''; establishment of the [[Major Projects Office]]; [[International recognition of Palestine|formal recognition of the State of Palestine]]; improvement of relations with [[Canada–China relations|China]] and [[Canada–India relations|India]]; [[2026 Mark Carney speech at the World Economic Forum|2026 World Economic Forum speech]].
+|riding_term=28 April 2025–present}}  
+{{Canadian first minister list/bottom|colspan=11|notes=
+:{{note_label|lost_seat|LS||Party won the election, but prime minister lost own seat}}
+:{{note_label|interpretation_act|IA||The ''Interpretation Act'' of 1967 states that "where an appointment is made effective or terminates on a specified day, that appointment is considered to be effective or to terminate after the end of the previous day." Under the Act, prime ministers' tenures are therefore credited as having concluded at the end of their last full day in office, although their resignation was received by the governor general on the following day. This provision applies to P. Trudeau in 1979<ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=21&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20120305011848/http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=21&mbtpid=1#FTNote1|archive-date=5 March 2012|url-status=dead}}</ref> and 1984,<ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=23&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20120305010411/http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=23&mbtpid=1#FTNote1|archive-date=5 March 2012|url-status=dead}}</ref> Clark,<ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=22&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20120305010606/http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=22&mbtpid=1#FTNote1|archive-date=5 March 2012|url-status=dead}}</ref> Turner,<ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=24&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20120305011550/http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=24&mbtpid=1#FTNote1|archive-date=5 March 2012|url-status=dead}}</ref> Mulroney,<ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=25&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20120305010614/http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=25&mbtpid=1#FTNote1|archive-date=5 March 2012|url-status=dead}}</ref> Campbell,<ref>{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=26&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20120305011838/http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=26&mbtpid=1#FTNote1|archive-date=5 March 2012|url-status=dead}}</ref> Chrétien,<ref name="pco-bcp.gc.ca">{{cite web|title=Guide to Canadian Ministries since Confederation|url=http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=32&mbtpid=1#FTNote1|publisher=Privy Council Office|date=14 October 2009|access-date=24 March 2011|archive-url=https://web.archive.org/web/20110606040859/http://www.pco-bcp.gc.ca/mgm/dtail.asp?lang=eng&mstyid=32&mbtpid=1#FTNote1|archive-date=6 June 2011|url-status=dead}}</ref> Martin,<ref name="pco-bcp.gc.ca"/> Harper,<ref name="pco-bcp.gc.ca"/> and J. Trudeau.}}}}
+
+=== Timeline ===
+{{Timeline of prime ministers of Canada}}
+
+==See also==
+{{portal|border=no|Canada|Politics}}
+* [[Fathers of Confederation]]
+* [[Historical rankings of prime ministers of Canada]]
+* [[Leader of the Official Opposition (Canada)]]
+* [[List of Canadian federal parliaments]]
+* [[List of Canadian monarchs]]
+* [[List of prime ministers of Canada by time in office]]
+*[[List of prime ministers of Canada by religious affiliation]]
+* [[List of prime ministers of Queen Victoria]]
+* [[List of prime ministers of Edward VII]]
+* [[List of prime ministers of George V]]
+* [[List of prime ministers of Edward VIII]]
+* [[List of prime ministers of George VI]]
+* [[List of prime ministers of Elizabeth II]]
+* [[List of prime ministers of Charles III]]
+* [[List of joint premiers of the Province of Canada]]
+*[[Spouse of the prime minister of Canada]]{{Clear}}
+
+==References==
+{{reflist}}
+
+== Further reading ==
+{{main|List of books about prime ministers of Canada}}
+
+{{refbegin}}
+*{{cite book | last=Brodie | first=I. | title=At the Centre of Government: The Prime Minister and the Limits on Political Power | publisher=McGill-Queen's University Press | year=2018 | isbn=978-0-7735-5378-1 | url=https://books.google.com/books?id=_NNZDwAAQBAJ}}
+*{{cite book | last=Coucill | first=I. | title=Canada's Prime Ministers, Governors General and Fathers of Confederation | publisher=Pembroke Publishers | year=2005 | isbn=978-1-55138-185-5 | url=https://books.google.com/books?id=wlFJPQHUY5UC}}
+*{{cite book | last=Dutil | first=P. | title=Prime Ministerial Power in Canada: Its Origins under Macdonald, Laurier, and Borden | publisher=UBC Press | series=The C.D. Howe Series in Canadian Political History | year=2017 | isbn=978-0-7748-3476-6 | url=https://books.google.com/books?id=Z3AlDwAAQBAJ&pg=PP1 }}
+*{{cite book | last=Donaldson | first=G. | title=The Prime Ministers of Canada | publisher=Doubleday Canada | year=1994 | isbn=978-0-385-25454-0}}
+*{{cite book | last1=English | first1=J.R. | last2=Dutil | first2=P. | title=Statesmen, Strategists and Diplomats: Canada's Prime Ministers and the Making of Foreign Policy | publisher=University of British Columbia Press | series=The C. D. Howe Series in Canadian Political History Series | year=2023 | isbn=978-0-7748-6855-6 }}
+*{{cite book | last=Schlee | first=Gary | title=Unknown and unforgettable : a guide to Canada's Prime Ministers | publication-place=Toronto, Ontario, Canada | date=2018 | isbn=978-1-7753780-0-6 | oclc=1108336247 }}
+*{{cite book | last=Stewart | first=J.D.M. | title=Being Prime Minister | publisher=Dundurn | year=2018 | isbn=978-1-4597-3849-2 | url=https://books.google.com/books?id=r5MwDwAAQBAJ&pg=PP1}}
+{{refend}}
+
+==External links==
+{{Commons category|Prime ministers of Canada}}
+*[http://www.pm.gc.ca/ Prime Minister's Official Site] – Government of Canada
+*{{usurped|1=[https://web.archive.org/web/20110228054455/http://www.prime-ministers.ca/ The Prime Ministers of Canada]}} – The Historica Dominion Institute
+*[http://www2.parl.gc.ca/parlinfo/compilations/federalgovernment/primeministers/biographical.aspx Prime Ministers of Canada] – Library of Parliament
+*[https://web.archive.org/web/20110708113846/http://www.canadahistory.com/sections/Politics/primeministers.htm Prime Ministers] – Canada History
+
+{{Lists of prime ministers of Canada}}
+{{CanPM}}
+{{Canadian First Ministers}}
+{{Canada topics}}
+
+{{DEFAULTSORT:Prime ministers of Canada, List of}}
+[[Category:Lists of prime ministers of Canada| ]]
+[[Category:Prime ministers of Canada|*]]
+[[Category:Lists of prime ministers by country|Canada]]
+[[Category:Lists of heads of government|Canada]]
+[[Category:Canadian ministries]]

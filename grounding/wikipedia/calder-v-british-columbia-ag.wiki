@@ -1,0 +1,64 @@
+{{Short description|1973 Supreme Court of Canada case}}
+{{Italic title|all=yes}}
+{{SCCInfoBox
+  |case-name=Calder v British Columbia (AG)
+  |full-case-name=Frank Calder et al., suing on their own behalf and on behalf of All Other Members of the Nishga Tribal Council, and James Gosnell et al., suing on their own behalf and on behalf of All Other Members of the Gitlakdamix Indian Band, and Maurice Nyce et al., suing on their own behalf and on behalf of All Other Members of the Canyon City Indian Band, and W.D. McKay et al., suing on their own behalf and on behalf of All Other Members of the Greenville Indian Band, and Anthony Robinson et al., suing on their own behalf and on behalf of All Other Members of the Kincolith Indian Band v. Attorney-General of British Columbia
+  |heard-date=November 29 - December 3, 1971
+  |decided-date=January 31, 1973
+  |citations=[1973] SCR 313
+  |docket=
+  |history=Judgment for the [[Attorney General of British Columbia]] in the [[British Columbia Court of Appeal]].
+  |ruling=Appeal dismissed.
+  |ratio=While [[aboriginal title]] can exist, more was required to demonstrate that the aboriginal bands in question had such title.  
+  |SCC=1970-1973
+  |Unanimous=
+  |Majority=Judson J
+  |JoinMajority=Martland and Ritchie JJ
+  |Concurrence=Pigeon J
+  |JoinConcurrence=
+  |Concurrence/Dissent=
+  |JoinConcurrence/Dissent=
+  |Dissent=Hall J
+  |JoinDissent=Spence and Laskin JJ
+  |NotParticipating=Fauteux CJ and Abbott J
+  |LawsApplied=
+  |italic title=no
+}}
+{{Indigenous Peoples of Canada}} 
+'''''Calder v British Columbia (AG)''''' [1973] SCR 313, [1973] 4 WWR 1 was a decision by the [[Supreme Court of Canada]]. It was the first time that Canadian law acknowledged that [[Aboriginal land title in Canada|aboriginal title]] to land existed prior to the colonization of the continent and was not merely derived from statutory law.
+
+In 1969, [[Frank Arthur Calder]] and the [[Nisga'a|Nisga'a Nation]] Tribal Council brought an action against the British Columbia government for a declaration that aboriginal title to certain lands in the province had never been lawfully extinguished.
+
+At trial and on appeal, the courts found that if there ever was aboriginal title in the land it was surely extinguished.
+
+The Supreme Court recognized that the Nisga'a had [[aboriginal title]] to the lands at the time when European settlers arrived. This was because the Nisga'a had been "organized in societies and occup[ied] the land as their forefathers had done for centuries" ([[Wilfred Judson|Justice Judson]], writing for a three-justice plurality) and because they had "possession from time immemorial" ([[Emmett Matthew Hall|Justice Hall]], writing for a separate three-justice plurality). Hall also found parallel support for aboriginal title in the [[Royal Proclamation of 1763]].
+
+However, the Court was split three to three on whether the title was still valid or had been [[extinguishment|extinguished]]. The two three-justice pluralities developed competing tests for extinguishment of aboriginal title and came to differing conclusions.
+
+Judson asked whether the government exercised "complete dominion over the lands in question, adverse to any right of occupancy"—whether the government exercised a sovereignty that was inconsistent with aboriginal title. They found that the government extinguished the Nisga'a's aboriginal title through a series of alienations by Governor Douglas and the Government of British Columbia.
+
+Hall asked instead whether a "competent legislative authority" had enacted specific legislation revealing "clear and plain" intention to extinguish aboriginal title. This had not happened, so this three-justice plurality concluded that the Nisga'a still had aboriginal title in 1973. This test was eventually accepted as the proper test for extinguishment in ''[[R v Sparrow]]'', [1990] 1 SCR 1075.
+
+[[Louis-Philippe Pigeon|Justice Pigeon]] concurred with the decision of Judson, but only on the bottom-line disposition to dismiss the appeal. Pigeon did not reach the merits of the case because of jurisdictional reasons.
+
+==Aftermath==
+With this decision the government of Canada overhauled much of the [[Indigenous land claims in Canada|land claim]] negotiation process with aboriginal peoples. The basis for aboriginal title was later expanded on in ''[[R v Guerin|Guerin v The Queen]]'', [1984] 2 SCR 335, ''[[Delgamuukw v British Columbia]]'', [1997] 3 SCR 1010, and most recently in ''[[Tsilhqot'in Nation v British Columbia]]'', [2014] 2 SCR 257, 2014 SCC 44 (CanLII).
+
+The case for the Nisga'a was argued by [[Thomas R. Berger|Thomas Berger]], subsequently Mr. Justice Thomas Berger, in his first major advocacy role in Canadian Aboriginal law.
+
+==See also==
+
+* [[R v Sparrow]]
+
+==External links==
+*{{lexum-scc2|1973|0|313|4}}
+* [https://web.archive.org/web/20051109214011/http://www.atns.net.au/biogs/A001933b.htm case summary]
+
+{{Canadian Aboriginal case law}}
+
+[[Category:Supreme Court of Canada cases]]
+[[Category:Canadian Aboriginal case law]]
+[[Category:First Nations history in British Columbia]]
+[[Category:Nisga'a]]
+[[Category:1973 in Canadian case law]]
+[[Category:Aboriginal title in Canada]]

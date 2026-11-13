@@ -1,0 +1,648 @@
+{{Short description|Type of parliamentary system government}}
+{{About|cabinets appointed without majority support in the legislature|states ruled by an influential minority|dominant minorities}}
+{{Use dmy dates|date=January 2020}}
+{{party politics}}
+A '''minority government''', '''minority cabinet''', '''minority administration,''' or a '''minority parliament''' is a [[government]] and [[Cabinet (government)|cabinet]] formed in a [[parliamentary system]] when a political party or [[Coalition government|coalition]] of parties does not have a majority of overall seats in the [[legislature]].<ref>{{cite web |title=Minority Government |url=https://www.parliament.uk/site-information/glossary/minority-government/ |website=parliament.uk |publisher=UK parliament |access-date=25 September 2019}}</ref> It is sworn into office, with or without the formal support of other parties, enabling a government to be formed. Under such a government, legislation can only be passed with the support or consent of enough other members of the legislature to provide a majority, encouraging multi-partisanship. In [[Bicameralism|bicameral legislature]]s, the term relates to the situation in the chamber whose confidence by its majority is considered most crucial to the continuance in office of that government (generally, the [[lower house]]).
+
+A minority government tends to be less stable than a [[majority government]] because, if they can unite, opposing parliamentary members have sufficient numbers to vote against legislation, or even bring down the government with a [[Motion of no confidence|vote of no confidence]]. If, however, a minority government can negotiate a [[confidence and supply]] agreement with parties sufficient to maintain a majority, it can be as stable as a majority government.<ref>{{Cite journal |last1=Krauss |first1=Svenja |last2=Thürk |first2=Maria |date=2022-06-07 |title=Stability of minority governments and the role of support agreements |url=https://www.tandfonline.com/doi/full/10.1080/01402382.2021.1890455 |journal=West European Politics |language=en |volume=45 |issue=4 |pages=767–792 |doi=10.1080/01402382.2021.1890455 |s2cid=233664045 |issn=0140-2382}}</ref>
+
+== Coalitions and alliances ==
+{{unreferenced section|date=July 2022}}
+
+To deal with situations in parliamentary systems where no clear majority to form a government exists, two or more parties may establish a formal coalition government, commanding a clear majority of the parliamentary members. A party might also enter into less formal alliances or agreements with other parties or individual members to allow the minority government to stay in office.
+
+A common situation is a governance with "jumping majorities", where the cabinet stays as long as it can negotiate support from a majority in the parliament, even though that majority may be differently formed from issue to issue or bill to bill. On occasion, the legislature may permit a minority cabinet to continue in office despite having been defeated on a given vote, and a minority government might even bring on a [[confidence vote]] and threaten to resign should the legislature vote against it.
+
+An alternative arrangement is a looser alliance of parties, exemplified by Sweden. There the long-governing Social Democrats have ruled with more or less formal support from other parties – in the mid-20th century from Agrarians, after 1968 from Communists, and more recently from Greens and ex-Communists – and have thus been able to retain executive power and (in practice) legislative initiative. This is also common in Canada, where nine [[elections in Canada|elections]] from 1921 to 2005 effectively produced [[minority governments in Canada|minority federal governments]]. The parties can rarely cooperate enough to establish a formal coalition but operate under a loose agreement instead.
+
+Occasionally, a [[confidence and supply]] agreement may be formed. This is a more formal pact that still falls short of creating a coalition government. In the Canadian province of [[Ontario]], the [[Ontario Liberal Party|Liberal Party]] formed a minority government from [[1985 Ontario general election|1985]] to 1987 on the basis of a formal accord with the [[Ontario New Democratic Party|New Democratic Party]] (NDP): the NDP agreed to support the Liberals for two years on all [[motion of no confidence|confidence motion]]s and budgetary legislation, in exchange for the passage of certain legislative measures proposed by the NDP. This was not a formal coalition, because the NDP remained an opposition party and was not given seats in the [[Cabinet (government)|cabinet]]. In this case, the Liberals did not even have a plurality of seats: the [[Ontario Progressive Conservative Party|Progressive Conservatives]] were the largest single party with 52 seats, whereas the Liberals had 48 and the NDP had 25.
+
+New Zealand's [[48th New Zealand Parliament|48th Parliament]] operated with both a coalition and a looser agreement: the government was a coalition between the [[New Zealand Labour Party|Labour Party]] and the [[New Zealand Progressive Party|Progressives]], while [[United Future New Zealand|United Future]] and [[New Zealand First]] had an agreement to support the government on confidence matters, while the [[New Zealand Green Party|Green Party]] was able to negotiate a cooperation agreement.
+
+=== Simple plurality system ===
+In most [[Westminster system]] nations, each constituency elects one member of parliament by simple plurality voting. This system heavily biases the vote towards increasing the number of seats of the top two parties and reducing the seats of smaller parties, a principle known in political science as [[Duverger's law]], and thus minority governments are relatively uncommon. Advocates of this system see this as one of its advantages. A party with less than 40% of the popular vote can often win an outright majority of the seats. (For instance, in the [[2005 United Kingdom general election|2005 UK General Election]], the governing Labour party won by a majority of 66 seats in the House of Commons with only 35.2% of the popular vote.) If support for some parties is regionally concentrated, however, then Duverger's law applies separately to each region, and so no party can be sufficiently dominant in each region to receive a majority of the seats. This was the situation in Canada in the [[2004 Canadian federal election|2004]],<ref>{{Cite book |last=Clarkson |first=Stephen |url=http://archive.org/details/canadiangenerale0000unse |title=The Canadian general election of 2004 |publisher=Dundurn Group |year=2004 |isbn=978-1-55002-516-3 |editor-last=Dornan |editor-first=Chris |publication-place=Toronto, Ontario |chapter=Disaster and Recovery: Paul Martin as Political Lazarus |editor-last2=Pammett |editor-first2=Jon}}</ref> [[2006 Canadian federal election|2006]], [[2008 Canadian federal election|2008]], [[2019 Canadian federal election|2019]], [[2021 Canadian federal election|2021]], and [[2025 Canadian federal election|2025]] federal elections, with no party obtaining a majority due in part to the dominance of the [[Bloc Québécois]] in the province of [[Quebec]].
+
+In Westminster systems, in minority situations, the incumbent government usually has the first opportunity to attempt to win the confidence of the House. This is so even if the incumbents have fewer seats – the incumbent prime minister still holds their commission for the duration of the writ period and immediately following an election. If they cannot form a government that commands the confidence of the House then it is expected that they will resign that commission voluntarily – it is not considered acceptable for the Sovereign (or his representative) to revoke said commission unless the prime minister was acting in serious breach of constitutional protocol. Nevertheless, usually, an incumbent government that loses its plurality in the House simply resigns, especially if the main opposition party is only a few seats short of having a majority or if it feels it has no chance of winning the support of enough members of smaller parties to win an initial confidence vote.
+
+Nevertheless, the now-common practice of the party with the most seats forming the government has led to a widespread misconception among voters that a convention exists whereby the party with the most seats always gets to form the government. In fact, the most compelling reason for this practice is that the party with the most seats can survive confidence votes so long as smaller party (or parties) simply [[abstention|abstain]] from confidence votes, whereas a governing party without a plurality in the House needs at least one other party to vote with it at all times (assuming the largest party will always vote no confidence, but that is almost certain to occur when they are denied the opportunity to govern). This means that in most situations, the party with the most seats has the best chance and the least complicated route to winning a confidence vote, regardless of its place on the political spectrum.
+
+At the Canadian federal level, in the four most recent of the five occasions a governing party lost the plurality without another winning a majority (1957, 1963, 1979, and 2006), the incumbent governments resigned rather than attempt to stay in power.
+
+Whatever party forms the government must either form a coalition with one or more other parties, or they must win support from at least one other party (either a [[confidence and supply]] deal or case-by-case agreements on individual confidence questions) if the government is to survive. Because of the ever-present risk of a no-confidence motion, minority governments are frequently short-lived or fall before their term is expired. The leader of a minority government may also call an election in hopes of winning a stronger mandate from the electorate. In Canada, for instance, federal minority governments last an average of 18 months.
+
+=== Australia ===
+The unprecedentedly close [[2010 Australian federal election]] produced a federal minority government in Australia for the first time since [[1940 Australian federal election|1940]]. The [[Australian Labor Party|Labor Party]] and [[Coalition (Australia)|Coalition]] both won 72 seats, 4 short of a majority. Labor won the [[Two-party-preferred|two-party preferred]] vote by 0.24%. Six crossbenchers, consisting of four independents, one [[Australian Greens|Greens]] MP, and one [[National Party of Australia (WA)|WA Nationals]] MP, held the balance of power. Ultimately, four crossbenchers gave [[confidence and supply]] to Labor, allowing them to form an extremely narrow minority government. This government stood until the [[2013 Australian federal election|2013 election]].<ref>{{Cite web|url=https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/BN/1011/HungParliaments|title = Hung parliaments and minority governments}}</ref>
+
+After the [[2016 Australian federal election|2016 federal election]], the [[Coalition (Australia)|Coalition]] formed a majority government of just one seat. They lost their majority after the [[2018 Liberal Party of Australia leadership spills|2018 leadership spill]] which deposed Prime Minister [[Malcolm Turnbull]], as [[National Party of Australia|National Party]] MP [[Kevin Hogan (politician)|Kevin Hogan]] moved to the crossbench. The government lost another seat after the [[2018 Wentworth by-election]], which was won by independent [[Kerryn Phelps]]. They lost another seat after MP [[Julia Banks]] resigned from the [[Liberal Party of Australia|Liberal Party]], reducing the government to 73 seats. However, they retained confidence from all three MPs, enabling them to remain in government.
+
+Due to the much greater power of the [[Australian Senate]], where no party usually holds a majority, than is typical in Westminster systems, Australian governments must typically negotiate with opposition parties to pass legislation, even when they enjoy sizeable majorities in the lower house. The Australian Senate may in principle withhold supply, bringing down the government; however, doing so would likely [[1975 Australian constitutional crisis|produce a constitutional crisis]]. Nonetheless, the necessity of getting Senate support imposes many of the difficulties of minority government on most Australian governments.
+
+=== Belgium ===
+[[Belgium]] is not unfamiliar with minority governments. Moreover, this type of government is not explicitly provided for in the Constitution, even though the Constitution does not prevent its existence. More often than not, minority governments emerge following elections when the government that was in power loses its majority and has to become a [[caretaker government]] pending the formation of a new government.<ref>{{Cite journal|last=Rigaux|first=Lucien|date=2019|title=Les gouvernements minoritaires en Belgique. Leur formation et l'étendue de leur pouvoir au regard de leur légitimité démocratique|journal=Revue belge de droit constitutionnel|volume=4|pages=353–355}}</ref>
+
+==== Legal grounds ====
+In Belgium, it is the King who appoints the government.<ref>Art. 96 of the Constitution</ref> However, as Belgium is a democratic state, [[constitutional custom]] requires that this appointment must be approved by the [[Chamber of Representatives (Belgium)|Chamber of Representatives]], the democratically elected body.<ref>J. Velaers, « Honderd jaar vertrouwensstemmingen in de regering (1919–2018): een gewoonte die de crisis over het Marrakesh-pact overleeft », ''T.B.P.,'' 2020/1, pp. 4–29.</ref> This consent is given by a vote of confidence. There is, however, a small constitutional trick, since the majority required to obtain confidence is not calculated on the basis of all the members of parliament, but on the basis of the votes cast. As the specialist on minority governments in Belgium, Lucien Rigaux, points out, this means that the majority is calculated on the basis of the members present and does not require more than 76 votes (the majority of the 150 seats in the Chamber). Moreover, confidence is obtained if there are more votes in favour than against. For example, out of 100 votes cast, a minority government can be invested with 40 affirmative votes, 20 negative votes and 40 abstentions. The abstention of parties that, for various reasons, do not wish to enter the government thus makes it possible to form an emergency government with full powers and democratic legitimacy.<ref name="belgiumhistory">{{Cite web|last=Rigaux|first=Lucien|date=8 April 2020|title=« Historique des gouvernements minoritaires en Belgique de 1830 à aujourd'hui : une solution de crise|url=https://droit-public.ulb.ac.be/carnet-de-crise-9-historique-des-gouvernements-minoritaires-en-belgique-de-1830-a-aujourdhui-une-solution-de-crise1/|access-date=31 July 2020}}</ref>
+
+==== History ====
+Never in the federated entities has a minority government been formed spontaneously. On the other hand, at the central and then federal state level, there have been five attempts to form a minority government. Three of these attempts were transformed.<ref name="belgiumhistory"/> As Lucien Rigaux points out in an issue devoted to the history of minority governments in Belgium: "The first two attempts were failures. In 1925, the [[Liberal Party (Belgium)|Liberals]] experienced an electoral debacle. They preferred to stay away from a government majority. The [[Catholic Party (Belgium)|Catholic Party]] and the [[Belgian Labour Party|Belgian Workers' Party]] each won approximately 40 percent of the seats so they could not govern alone. However, within the Catholic Party, there remains serious reluctance to collaborate with the Socialists. It must be said that strong tensions between the two camps, particularly over the Flemishisation of the [[Ghent University]] and the management of external affairs, had led to the fall of the homogeneous Catholic government. After 38 days of [[caretaker government]] – which was relatively long for the time – the King appointed a Catholic cabinet. The latter was finally nipped in the bud by Parliament since the latter decided not to grant its confidence because the proposed Catholic coalition did not respect "Flemish national law", that it "was not qualified to resolve the difficulties of the parliamentary situation" and that it did not make it possible to fight the bourgeoisie".<ref>E. Gerard, Nouvelle histoire de la Belgique. La démocratie rêvée, bridée, bafouée, Bruxelles, Le Cri, 2010, <abbr>p.</abbr> 93</ref>
+
+In 1946, the government of national unity, which followed [[World War II]], had already served its purpose. The Liberals felt that their new electoral defeat invited them to undergo an opposition cure. Socialists and Catholics clashed during the election campaign over the royal question of the return of King [[Leopold III of Belgium|Leopold III]] to Belgium, which made the political climate particularly tense. The Socialists reject the invitation of the Catholic informer to form a government because the former want to associate the Communists, who have obtained a better result than the [[Liberal Party (Belgium)|Liberal Party]], with the government, while the [[Catholic Party (Belgium)|Catholic Party]] categorically refuses to do so. After a month of political crisis, a cabinet composed solely of socialists is appointed by the King. In the parliamentary gallery, the then Prime Minister, [[Paul-Henri Spaak]], declared: "if you think you can quickly give the country a government other than the one before you, stronger, based on a stable majority, do not hesitate, overthrow us. But if you don't have that assurance, if you foresee, after a negative vote, a long period of hesitation, conciliations, abortive attempts, then think carefully about what you are going to do".<ref>Déclaration de gouvernement, ''Ann. parl.'', Ch. repr., séance du 19 mars 1946, p. 23.</ref> He nevertheless succumbs a few days later, since with as many votes in his favour as against him, he does not enjoy the confidence of Parliament. The defeat must have been all the more difficult to swallow as two Socialist MEPs had left before the vote in order not to miss their train to [[Liège]].<ref name="belgiumhistory"/>
+
+On the other hand, the last three attempts were successful.
+
+Firstly in 1958 a minority government received, for the first time, the support of Parliament. The [[Christian Social Party (Belgium, defunct)|Social Christian Party]] obtained a remarkable score that had nothing to envy to its results of the 19th century with 104 seats out of 212. However, the government's formation patinated notably on the school question which pitted Catholics and lay people against each other and which related to the financing of Catholic and public schools. Both the socialists and the liberals have the impression that they are playing a fool's game where the lowest bidder will have the chance to claim a few positions in a government that will carry out the entire Christian program. The Christian Social Party then tries to capitalize on its 104 seats to gain confidence. Contrary to all expectations, the abstention of one [[People's Union (Belgium)|Volksunie]] member and two Liberals was enough to gain the confidence of Parliament. The [[Gaston Eyskens|Eyskens]] II minority government thus received the support of a relative majority of the members present, 106 in favour and 104 against. A few months later, the minority government became a majority government when the Liberal Party joined the government team after an agreement was reached on the school issue.<ref name="belgiumhistory"/>
+
+Then, in 1974, the political context was that of the state reforms initiated in 1970. Community autonomy was achieved, but the implementation of regionalisation was at a standstill, in particular because the Brussels dossier was repeatedly put on ice. Fifteen days after the elections of 10 March 1974, [[Leo Tindemans|Léo Tindemans]] (CVP) was appointed formator. He is entering into negotiations with the Liberals and the [[Parti Socialiste (Belgium)|Socialists]] to form a government that can benefit from a broad parliamentary base. While the liberals seem to be acquiescing, the negotiations with the socialists reveal divergences, mainly on the implementation of regionalisation, on the question of state interference in economic affairs and on the method of "community to community" negotiation involving so-called community parties rather than political families.<ref>X. Mabille, « Le gouvernement Tindemans (1974–1977) : évolution de sa composition et de son assise parlementaire », ''CH du CRISP'', 1977, n° 754, p. 11</ref> The socialists, who had campaigned strongly on the left, decided in the Namur Congress to withdraw from the negotiations and denounced the formation of a "coalition of the rights". Not giving up on forming a large majority, the social-Christian and liberal political families negotiated with the community parties. A partial agreement is reached in Steenokkerzeel. For the [[Walloon Rally]] as long as there is no agreement on everything, there is no agreement on anything. Nevertheless, it decides to grant its benevolent abstentions to the Christian Liberal coalition so that a government can be formed quickly. With 100 votes in favour, 63 against and, above all, 47 abstentions, the minority Tindemans I government won the confidence of the House and the Senate five days later. The [[Walloon Rally]] also joined the coalition, which became a majority a few months later.<ref name="belgiumhistory"/>
+
+Finally, the last successful attempt was made in 2020 to fight the [[Coronavirus disease 2019|COVID-19]] crisis. While the negotiations have been stalled since the last elections on 26 May 2019, the coronavirus crisis has brought down the cards. A sort of national union to which the [[New Flemish Alliance|N-VA]] does not, however, adhere, the [[Vlaams Belang]] and the PTB decided to give its confidence to the [[Wilmès II Government|Wilmès II government]] in order to give it full powers and, above all, democratic legitimacy to deal with the health crisis.<ref>{{Cite web|last=Rigaux|first=Lucien|date=7 April 2020|title=Le gouvernement minoritaire Wilmès II. Les étapes de la formation d'un gouvernement minoritaire d'un nouveau genre|url=https://droit-public.ulb.ac.be/carnet-de-crise-8-le-gouvernement-minoritaire-wilmes-ii-les-etapes-de-la-formation-dun-gouvernement-minoritaire-dun-nouveau-genre1/|website=Centre de droit public de l'ULB}}</ref>
+
+==== Advantages and disadvantages ====
+As with day-to-day business, the minority government provides a flexible institutional response in times of crisis that allows the state to continue to function and to be able to carry out its essential tasks. However, unlike a majority government, the action of a minority government is not locked to current affairs, day-to-day business or urgent decisions. It benefits from the fullness of its competences since it is constituted on the basis of a democratic decision which grants it de facto a certain democratic legitimacy.<ref>{{Cite journal|last=Rigaux|first=Lucien|date=2019|title=Les gouvernements minoritaires en Belgique. Leur formation et l'étendue de leur pouvoir au regard de leur légitimité démocratique|journal=Revue belge de droit constitutionnel|volume=4|pages=341}}</ref>
+
+The main disadvantage of minority government by the elected assembly is that it can be instituted without a majority of the members of Parliament having voted in favour of it, but that, on the other hand, a majority of the members of the assembly is required to dismiss it (76 minimum).<ref>{{cite web|last=Rigaux|first=Lucien|date=9 April 2020|title=L'enjeu démocratique des gouvernements minoritaires|url=https://droit-public.ulb.ac.be/carnet-de-crise-10-lenjeu-democratique-des-gouvernements-minoritaires/|publisher=Centre de droit public de l'ULB}}</ref>
+
+===Canada===
+{{Main|Minority governments in Canada}}
+
+{{Further|Federal minority governments in Canada}}
+Minority governments can occur in the federal [[Parliament of Canada]], and the legislatures of most [[Provinces and territories of Canada|provinces and territories]] except the [[Northwest Territories]] and [[Nunavut]], which have non-partisan legislatures and operate as a [[Consensus government in Canada|consensus government]].<ref name=canenmg>{{cite web|url=https://www.thecanadianencyclopedia.ca/en/article/minority-government|title=Minority Governments in Canada|website=thecanadianencyclopedia.ca|date=22 October 2019|access-date=10 January 2022|last1=Azzi|first1=Stephen|first2=D.|last2=Kwavnick|publisher=Historica Canada}}</ref>
+
+During the history of federal Canadian politics, there have been fifteen minority governments, in fourteen separate minority parliaments.{{notetag|There were two minority governments during the life of 15th Canadian Parliament}} Federal minority governments typically last less than two years.<ref>{{cite web|url=https://www.cbc.ca/news/politics/canada-votes-2019-minority-government-coalition-1.5323836|title=What happens when no one wins a majority?|work=CBC News|publisher=Canadian Broadcasting Corporation|date=17 October 2019|access-date=22 October 2019}}</ref> Exceptions to this include the [[26th Canadian Parliament|26th]], [[27th Canadian Parliament|27th]], [[39th Canadian Parliament|39th]] and [[40th Canadian Parliament|40th]] Canadian parliaments, which all lasted for longer than two years. The [[14th Canadian Parliament]] functioned as a minority government for half of its duration, owing to [[crossing the floor|floor-crossings]] and by-elections. The [[15th Canadian Parliament]] was the only federal minority parliament that saw two different minority governments form. The most recent minority parliament elected at the federal level is the [[45th Canadian Parliament]], whose composition was determined in May 2025. However, it became a majority parliament in April 2026.
+
+Minority governments also occur in all provincial legislatures, as well as the Yukon Legislative Assembly. However, minority governments do not occur as frequently in these legislatures as they do at the federal level. [[Ontario]] has seen six minority legislatures in its political history, the most among the 10 provinces and the territory of Yukon. [[Alberta]] is the only province that has never had a minority government in its provincial legislature.<ref>{{cite web|url=https://globalnews.ca/news/5076539/joe-mcfarland-albertans-minority-government/|title=Can Albertans say 'minority government'?|work=Global News|last=McFarland|first=Joe|date=20 March 2019|access-date=22 October 2019|publisher=Corus Entertainment Inc.}}</ref>
+
+While minority governments may occur in Canadian politics, the formation of a formal coalitions is rare, with past minority governments relying on cooperation and [[confidence and supply]] arrangements to govern instead.<ref name=canenmg/><ref>{{cite web|url=https://globalnews.ca/news/8206088/federal-election-minority-government-what-happens-now/|title=A minority government? A coalition? Here's a look at some federal election outcomes|first=Andrew|last=Russell|date=20 September 2021|access-date=10 January 2022|website=globalnews.ca|publisher=Corus Entertainment}}</ref> Historically, several coalition governments have formed in the 1840s and 1850s, in the [[Parliament of the Province of Canada]]. The formation of the [[Great Coalition]] in 1864 eventually led to [[Canadian Confederation]] in 1867. Since [[Canadian Confederation]], only one wartime [[Unionist Party (Canada)|coalition between the Conservatives and Liberals]] has formed in federal Canadian politics in 1917. Coalition governments have occurred more frequently in provincial legislatures, with several provincial coalition governments having been formed in the 20th and 21st century.<ref>{{cite web|url=https://www.thecanadianencyclopedia.ca/en/article/coalition-government|title=Coalition Government|website=thecanadianencyclopedia.ca|date=22 October 2019|access-date=10 January 2022|publisher=Historica Canada|last=English|first=John R.}}</ref>
+
+===Czech Republic===
+There were several cases of minority governments in the history of the Czech Republic.
+
+First case was [[Second Cabinet of Václav Klaus]] (1996–1998) which consisted of [[Civic Democratic Party (Czech Republic)|ODS]], [[KDU-ČSL]] and [[Civic Democratic Alliance|ODA]]. Deputies of [[Social Democracy (Czech Republic)|ČSSD]] agreed to not appear in parliament during the vote of confidence and the government was thus voted in with confidence. Towards the end of 1997, cabinet resigned in connection with accusations of funding irregularities in the ODS.<ref>{{cite web |title=25 let od pádu Klausovy vlády. Příběh o "zradě" zcela zastínil podstatu celé krize, soudí politolog Just |url=https://eurozpravy.cz/rozhovor/rozhovor-25-let-od-padu-klausovy-vlady-pribeh-o-zrade-zcela-zastinil-podstatu-cele-krize-soudi-politolog-just.drcfpvh9 |website=EuroZprávy.cz |access-date=15 April 2025 |language=cs}}</ref>
+
+Second case is the [[Cabinet of Miloš Zeman]] (1998–2002) that governed from 1998 to 2002. It was established by the so-called [[Opposition agreement|Opposition Agreement]]. It was a minority government of the [[Social Democracy (Czech Republic)|Czech Social Democratic Party]] (ČSSD) supported by the [[Civic Democratic Party (Czech Republic)|Civic Democratic Party]] (ODS).
+
+[[First Cabinet of Mirek Topolánek]] (2006–2007) was minority government of the Civic Democratic Party (ODS) and non-partisans. On 3 October 2006 the cabinet did not pass through Confidence and supply in Chamber of Deputies of the Parliament of the Czech Republic by 96 to 99.<ref>{{cite web |title=Topolánkova menšinová vláda nezískala důvěru Poslanecké sněmovny |url=https://www.irozhlas.cz/zpravy-domov/topolankova-mensinova-vlada-neziskala-duveru-poslanecke-snemovny_200610040743_mmatusu |website=iROZHLAS |access-date=15 April 2025 |language=cs |date=4 October 2006}}</ref>
+
+[[First Cabinet of Andrej Babiš]] (2017–2018) consisted of [[ANO (political party)|ANO 2011]]. On 16 January 2018 the cabinet failed a confidence vote in the Chamber of Deputies of the Czech Republic, by 78 to 117.<ref>{{cite web |title=Opozice po neúspěchu vlády ve Sněmovně kritizuje Babiše |url=http://www.ceskenoviny.cz/zpravy/opozice-po-neuspechu-vlady-ve-snemovne-kritizuje-babise-videoprenos/1572968 |website=ČeskéNoviny.cz |access-date=15 April 2025 |language=cs}}</ref> It was replaced by [[Second Cabinet of Andrej Babiš]] (2018-2021) which was minority coalition government consisting of ANO 2011 and [[Social Democracy (Czech Republic)|Czech Social Democratic Party]] (ČSSD) which was supported by [[Communist Party of Bohemia and Moravia]] (KSČM).<ref>{{cite web |last1=Kolář |first1=Petr |title=ČSSD v referendu schválila vládu s ANO. Babiš však ještě nemá vyhráno |url=https://zpravy.idnes.cz/referendum-cssd-vlada-ano-andrej-babis-vysledek-frq-/domaci.aspx?c=A180614_205409_domaci_evam |newspaper=[[Mladá fronta Dnes]] |access-date=15 April 2025 |date=15 June 2018|publisher=[[Mafra (company)|Mafra]]}}</ref>
+
+===Denmark===
+[[Denmark]] has a rich tradition of minority governments. Despite the country's [[electoral system]] of [[proportional representation]], which almost always results in the winning party coming nowhere near a majority, single-party minority governments are still a regular occurrence in Danish politics.
+
+Since 1982 even most of multi-party coalition governments in Denmark are minority ones; thus, the government of the day is still required to make deals with non-governing parties. More often small far-left or far-right parties provide confidence support of centre-left or centre-right coalition governments led by Social Democrats or Venstre. For many years, Danish politics has been divided into "Red" and "Blue" blocs, whose parliamentarians are typically expected to support [[Social Democrats (Denmark)|Social Democratic]] and [[Venstre (Denmark)|Venstre]] cabinets, respectively.
+
+The [[Frederiksen I Cabinet|Frederiksen Cabinet]] elected in the [[2019 Danish general election]] was a single-party minority government of the [[Social Democrats (Denmark)|Social Democrats]] (who received about 25% of the vote in the previous election) supported by three other parties;<ref>{{cite web |last1=Frederiksen |first1=Mette |last2=Østergaard |first2=Morten |last3=Dyhr |first3=Pia Olsen |last4=Skipper |first4=Pernille |title=Retfærdig retning for Danmark |url=https://ufm.dk/ministeriet/regeringsgrundlag-vision-og-strategier/regeringen-mette-frederiksens-forstaelsespapir/retfaerdig-retning-for-danmark_2019-06-25_endelig.pdf |access-date=14 November 2019 |language=da |date=25 June 2019}}</ref> the previous cabinet, [[Lars Løkke Rasmussen III Cabinet|Lars Løkke Rasmussen III]], was a three-party minority coalition led by [[Venstre (Denmark)|Venstre]] and supported by the [[Danish People's Party]]. An earlier cabinet of Rasmussen's, [[Lars Løkke Rasmussen II Cabinet|Lars Løkke Rasmussen II]], was a single-party [[Venstre (Denmark)|Venstre]] minority government, a particularly notable feat, as [[Venstre (Denmark)|Venstre]] only received about 20% of the vote in the [[2015 Danish general election|election]], finishing third.
+
+===Estonia===
+[[Estonia]] has had several minority governments. A minority cabinet can occur:
+
+# when the governing coalition loses support due to a coalition member leaving the governing coalition (Vähi II and Ansip II cabinets);
+# when the Prime Minister asks the ministers of a coalition party to be relieved of their duties (Kaja Kallas cabinet);
+# when MPs leave party factions (Ratas cabinet);
+# when a minority government is appointed with additional parliamentary support (Tõnisson IV, Vähi Interim, Siimann and Siim Kallas cabinets); or
+# when the government is voted into office with a plurality and some MPs abstain from voting (Birk, Tõnisson II, Piip and Akel cabinets).
+
+Additional support is possible also because MPs leaving a party faction are not allowed to officially join another faction until the next elections. A government can be a minority government either throughout its term or just a part of its term, usually the latter. A list of minority cabinets:
+{{col div}}
+* [[Ado Birk|A. Birk cabinet]] ([[Estonian Constituent Assembly|1920]])
+* [[Jaan Tõnisson|J. Tõnisson II cabinet]] ([[Estonian Constituent Assembly|1920]])
+* [[Ants Piip|A. Piip cabinet]] ([[Estonian Constituent Assembly|1920–1921]])
+* [[Friedrich Karl Akel|F. K. Akel cabinet]] ([[1923 Estonian parliamentary election|1924]])
+* [[Jaan Tõnisson|J. Tõnisson IV cabinet]] ([[1932 Estonian parliamentary election|1933]])
+* [[Tiit Vähi|T. Vähi Interim cabinet]] ([[1990 Estonian Supreme Soviet election|1992]])
+* [[Tiit Vähi|T. Vähi II cabinet]] ([[1995 Estonian parliamentary election|1996–1997]])
+* [[Mart Siimann|M. Siimann cabinet]] ([[1995 Estonian parliamentary election|1997–1999]])
+* [[Siim Kallas|S. Kallas cabinet]] ([[1999 Estonian parliamentary election|2002–2003]])
+* [[Andrus Ansip's second cabinet|A. Ansip II cabinet]] ([[2007 Estonian parliamentary election|2009–2011]])
+* [[Jüri Ratas' cabinet|J. Ratas cabinet]] ([[2015 Estonian parliamentary election|2018–2019]])
+* [[Kaja Kallas' first cabinet|K. Kallas I cabinet]] ([[2019 Estonian parliamentary election|2022]])
+{{col div end}}
+
+=== France ===
+Since the joint establishment of the [[French Fifth Republic|Fifth Republic]] and of the [[two-round system]] for parliamentary elections in 1958, France has known only a few minority governments: indeed, the majoritarian electoral system usually produces seizable parliamentary majorities on which governments can rely, but there are some exceptions. Since 1958, only 3 out of 16 legislative elections resulted in a [[hung parliament]]: the [[1988 French legislative elections|1988]], [[2022 French legislative elections|2022]] and [[2024 French legislative elections|2024]] elections. In both instances, minority governments were formed following the elections, with no formal coalition or confidence-and-supply agreement being put in place to guarantee stability.
+
+In fact, the [[Constitution of France|French Constitution]] provides a large number of institutional tools to ensure political stability at the detriment of parliamentary sovereignty, constitutional tools that become critical when the [[executive power]] has to govern in minority:
+
+* Article 44: allows the government to reject proposed amendments that have not been discussed in committee prior to the general discussion (44 paragraph 2); allows the government to ask for a parliamentary chamber to vote on the entirety or a part of a bill while overturning all amendments that have not been proposed or sponsored by the ministers (44 paragraph 3);
+* Articles 47 and 47-1: if Parliament has not voted on the Government Budget (47) or the Social Security Budget (47-1) within the constitutional time limit (70 days for the Government Budget, 50 days for the Social Security Budget), then the government can implement its budget by decrees;
+* [[article 49 of the French Constitution|Article 49]]: allows the government the possibility to avoid a vote of confidence on its program or general policy declaration in the [[French National Assembly|lower house]] (49 paragraph 1); requires the absolute majority of the [[lower house]]'s entire membership to pass a motion of no confidence (49 paragraph 2); allows the government to "commit its responsibility" on a bill per parliamentary session (apart from Government and Social Security budgets on which this special power can be used without numerical limit), the bill is considered passed without a vote unless a no-confidence motion is adopted by the lower house, thus effectively treating the bill as an issue of a vote of confidence (49 paragraph 3/49.3)
+
+{| class="wikitable sortable"
+|+The minority governments in the history of [[France]]'s Fifth Republic
+! rowspan="2" |Period
+! rowspan="2" |Government head
+! rowspan="2" |Parties
+! colspan="5" |Seats
+|-
+! colspan="2" |Government
+!Support
+! colspan="2" |Total
+|-
+|1988-1991
+|[[Michel Rocard]]
+|[[Socialist Party (France)|PS]]
+|'''275'''
+|47.7%
+|41
+|316/577
+|'''54.8%'''
+|-
+|1991-1992
+|[[Édith Cresson]]
+|[[Socialist Party (France)|PS]]
+|'''275'''
+|47.7%
+|0
+|275/577
+|47.7%
+|-
+|1992-1993
+|[[Pierre Bérégovoy]]
+|[[Socialist Party (France)|PS]]
+|'''275'''
+|47.7%
+|0
+|275/577
+|47.7%
+|-
+|2022–2024
+|[[Élisabeth Borne]]
+|[[Renaissance (French political party)|RE]] – [[Democratic Movement (France)|MoDem]] – [[Horizons (political party)|HOR]] ([[Ensemble Citoyens|Ensemble !]])
+|'''251'''
+|43.5%
+|0{{notetag|Despite surviving several [[motions of no confidence]] mainly thanks to centre-right to right-wing [[The Republicans (France)|Republicans]]' abstention, no confidence-and-supply agreement is in place and the Republicans have formally declared themselves an opposition group in the [[National Assembly (France)|National Assembly]].}}
+|251/577
+|43.5%
+|-
+|2024
+|[[Gabriel Attal]]
+|[[Renaissance (French political party)|RE]] – [[Democratic Movement (France)|MoDem]] – [[Horizons (political party)|HOR]] ([[Ensemble Citoyens|Ensemble !]])
+|'''250'''
+|43.3%
+|0
+|250/577
+|43.3%
+|-
+|2024
+|[[Michel Barnier]]
+|[[Renaissance (French political party)|RE]] – [[Democratic Movement (France)|MoDem]] – [[Horizons (political party)|HOR]] ([[Ensemble Citoyens|Ensemble !]]) – [[The Republicans (France)|LR]] – [[Union of Democrats and Independents|UDI]] – [[Radical Party (France)|PR]]
+|'''212'''
+|36.9%
+|0
+|212/577
+|36.9%
+|-
+|2024–2025
+|[[François Bayrou]]
+|[[Renaissance (French political party)|RE]] – [[Democratic Movement (France)|MoDem]] – [[Horizons (political party)|HOR]] ([[Ensemble Citoyens|Ensemble !]]) – [[The Republicans (France)|LR]] – [[Union of Democrats and Independents|UDI]] – [[Radical Party (France)|PR]]
+|'''212'''
+|36.9%
+|0
+|166/577
+|36.9%
+|-
+|2025–present
+|[[Sébastien Lecornu]]
+|[[Renaissance (French political party)|RE]] – [[Democratic Movement (France)|MoDem]] – [[Horizons (political party)|HOR]] ([[Ensemble Citoyens|Ensemble !]])
+|'''166'''
+|28.8%
+|49{{notetag|Despite several [[motions of no confidence]] mainly thanks to centre-right to centre-left [[Socialist Party (France)|Socialist Party]]' abstention, no confidence-and-supply agreement is in place and the Socialists have formally declared themselves an opposition group in the [[National Assembly (France)|National Assembly]].}}
+|215/577
+|37.2%
+|}
+The previous [[Borne government]] was a three-party minority coalition government as result of the [[2022 French legislative election|June 2022 parliamentary elections]] that saw President [[Emmanuel Macron|Macron]]'s coalition lose its parliamentary majority in the National Assembly, going from a 115-seat majority to a hung parliament in which the centrist presidential coalition was the largest bloc but 38 short of an overall majority. The Borne cabinet survived to 31ss motions of no confidence and Prime Minister Borne triggered constitutional article 49.3 23 times, mostly to pass the 2023 Government and Social Security Budgets but also to pass its pension system reform in March 2023. Nonetheless, the government lost several parliamentary votes, an oddity under the Fifth Republic.<ref>{{Cite web |title=Après une vingtaine de 49.3 et le rejet d'une 31e motion de censure, le budget 2024 est adopté |url=https://www.bfmtv.com/politique/parlement/apres-une-vingtaine-de-49-3-et-le-rejet-d-une-31e-motion-de-censure-le-budget-2024-est-adopte_AN-202312210655.html |access-date=2024-01-09 |website=BFMTV |date=21 December 2023 |language=fr}}</ref>
+
+===Germany===
+Minority government is unusual in Germany, though it was more common historically during the [[German Empire]] and the [[Weimar Republic]]. In the Federal Republic (since 1949), the [[constructive vote of no confidence]] theoretically grants minority governments a high degree of longevity, but they are rare in practice. No minority government has ever been invested on the federal level, though brief periods of minority government have existed when a government has lost its majority mid-term. Minority governments have also existed at the state level, sometimes for substantial periods. The viability of minority government varies between states, as some require an [[absolute majority]] vote by parliament for a government to be invested, while others require only a simple majority or plurality.<ref name="Minder">{{cite web|url=https://www.bundestag.de/resource/blob/543588/2b10c2f8f1f3385a974ec4d7cb3bbc38/wd-1-026-17-pdf-data.pdf|title=State of Play: Minority Governments in the Federal Republic of Germany since 1949|date=12 December 2017|publisher=[[Bundestag]]|language=de}}</ref>
+
+Between 1949 and December 2017, there were 31 periods of minority government in Germany, including four at the federal and 27 at the state level. All four federal instances were the result of an incumbent government losing its majority: the [[fourth Adenauer cabinet]] after the withdrawal of the [[Free Democratic Party (Germany)|FDP]]; the [[second Erhard cabinet]], also after the withdrawal of the FDP; the [[first Brandt cabinet]] after parliamentary defections; and the [[third Schmidt cabinet]] after the dismissal of the FDP. Of these, only the second Erhard and third Schmidt cabinets are considered "true" minority governments, as the fourth Adenauer cabinet was quickly dissolved and replaced by the [[fifth Adenauer cabinet]], and the first Brandt cabinet retained a technical majority due to the Bundestag delegation from Berlin. Erhard and Schmidt's minority governments were short-lived, lasting less than a month, and both ended with the Chancellor leaving office.<ref name="Minder"/>
+
+Between 1949 and December 2017, nine different states had at least one period of minority government, with some having as many as four. Compared to the federal level, state-level minority governments usually survived much longer, lasting an average of 333 days. The longest was the two [[Social Democratic Party of Germany|SPD]]-led minority governments of Reinhold Höppner in [[Saxony-Anhalt]], which served two complete terms (1,452 and 1,406 days, respectively) between 1994 and 2002. These governments, enabled by the abstention of the [[Party of Democratic Socialism (Germany)|PDS]] during confidence votes, were dubbed the "[[Magdeburg]]er model". However, most minority governments still resulted from the loss of a majority – on 13 occasions due to the withdrawal of a coalition partner, on 12 occasions due to defeat in an election, and on four occasions due to parliamentary defections. Only seven minority governments were formed on a "tolerance" basis similar to the Magdeburger model. Furthermore, only two minority governments lasted more than a single term: the aforementioned Höppner governments in Saxony-Anhalt, and from 1982 to 1983 and 1983–85 in [[Hesse]], when the [[Alliance 90/The Greens|Greens]] tolerated two consecutive SPD minority governments (this arrangement ended in 1985 when the SPD and Greens entered into coalition.)<ref name="Minder"/>
+
+Other examples of a minority government on a state level include the first government of [[Klaus Wowereit]] in [[Berlin]], comprising a minority coalition of the SPD and Greens supported by the PDS, which was invested after a corruption scandal led to the collapse of the previous CDU government; it served on an interim basis from June 2001 until the [[2001 Berlin state election|October state election]].<ref>{{cite web|url=https://www.merkur.de/politik/minderheitsregierung-so-ganz-ohne-erfahrung-ist-deutschland-nicht-zr-9378701.html|title=Minority government: Germany is not completely without experience|date=20 November 2017|publisher=[[Münchner Merkur]]|language=de}}</ref> The first government of [[Hannelore Kraft]] in [[North Rhine-Westphalia]], comprising a coalition of the SPD and Greens tolerated by [[The Left (Germany)|The Left]], was formed after the [[2010 North Rhine-Westphalia state election|2010 state election]] and served until the [[2012 North Rhine-Westphalia state election|2012 election]].<ref>{{cite news|url=https://www.zeit.de/politik/deutschland/2010-07/wahl-kraft-ministerpraesidentin|title=North Rhine-Westphalia: Kraft is the new Minister-President in NRW|date=14 July 2010|newspaper=[[Die Zeit]]|language=de}}</ref> The second government of [[Bodo Ramelow]] in [[Thuringia]], a coalition of The Left, SPD, and Greens, was invested with the tolerance of the [[Christian Democratic Union of Germany|CDU]] to resolve the [[2020 Thuringian government crisis]].<ref>{{cite web|url=https://www.politico.eu/article/germanys-thuringia-gets-left-wing-state-premier-in-re-run-vote/|title=Germany's Thuringia gets left-wing state premier in rerun vote|date=4 March 2020|publisher=[[Politico]]}}</ref>
+
+===Ireland===
+The [[Politics in the Republic of Ireland|Irish parliamentary system]] broadly works on a simple majority system, where the [[Taoiseach]] is elected by the [[Dáil]] when they achieve 50% + 1 of the votes in favour of their nomination. The Taoiseach then appoints the [[government of Ireland|members of the government]] with the approval of the Dáil. Since the 1980s, the popularity of other parties has increased such that coalition governments are now typical and expected, with one of the two major parties being the senior partner, and with one or more junior partners ensuring that the coalition retains a majority in the Dáil.
+
+A minority government is formed when a party (or a coalition) secures agreement from one or more other parties or [[Independent politician (Ireland)|independent TDs]] who are not members of the government to support their nomination for Taoiseach and achieve majority support. Support for bills and other items requiring a Dáil majority vote is then negotiated on a bill-by-bill basis.
+
+If no agreement can be reached to nominate an individual to lead a government, the outgoing Taoiseach (continuing to act in a [[Caretaker government|caretaker]] capacity) can seek dissolution of the Dáil and call a new general election. However, this circumstance has not occurred to date.
+
+The last Dáil with a single-party simple majority government was the [[21st Dáil]] elected at the [[1977 Irish general election|1977 general election]]. Fifteen of the 32 governments in Irish history were minority governments, most of which were formed by [[Fianna Fáil]].
+{{col div}}
+* [[1922 Irish general election|1922]]
+* [[1923 Irish general election|1923]]
+* [[June 1927 Irish general election|June 1927]]
+* [[September 1927 Irish general election|September 1927]]
+* [[1932 Irish general election|1932]] (Fianna Fáil)
+* [[1933 Irish general election|1933]] (Fianna Fáil)
+* [[1937 Irish general election|1937]] (Fianna Fáil)
+* [[1943 Irish general election|1943]] (Fianna Fáil)
+* [[1951 Irish general election|1951]] (Fianna Fáil)
+* [[1961 Irish general election|1961]] (Fianna Fáil)
+* [[1981 Irish general election|1981]] ([[Fine Gael]]–[[Labour Party (Ireland)|Labour Party]])
+* [[February 1982 Irish general election|February 1982]] (Fianna Fáil)
+* [[1987 Irish general election|1987]] (Fianna Fáil)
+* [[1997 Irish general election|1997]] (Fianna Fáil–[[Progressive Democrats]])
+* [[2016 Irish general election|2016]] (Fine Gael)
+{{col div end}}
+
+===Netherlands===
+Coalitions in the Netherlands are formed with the support from parliamentary parties, elected by proportional representation. Although very rare, minority governments can be formed during the [[Cabinet of the Netherlands#Formation|formation]] period of a [[Cabinet of the Netherlands|Dutch cabinet]], if an election result makes a majority coalition impossible. More often, a minority government is formed when one of the cabinet's coalition partners withdraws its support, or when all ministers of a given parliamentary party resign. In these cases, the [[Prime Minister of the Netherlands|Prime Minister]] offers the full cabinet's resignation to the [[Monarchy of the Netherlands|Dutch Monarch]].
+
+At this point, the Monarch may choose to dissolve Parliament and hold a general election. The cabinet continues to serve as [[Demissionary cabinet|demissionary]]. A demissionary cabinet is not a minority government but a form of [[caretaker government]], enjoying only limited powers until the new Parliament assembles.
+
+If the Monarch does not dissolve Parliament, the remaining cabinet continues as a minority cabinet, in full possession of its powers. It can finish any legislation already before underpreparation, if Parliament passes it by majority vote; this necessitates the support of parties outside the government. Theoretically, early general elections need not be held, but they are often necessary in practice, since the [[coalition agreement]] no longer has parliamentary support.
+
+A third option is available to the Monarch: the [[Dutch cabinet formation|formation of a new cabinet]] of different Parliamentary parties (which may include the defecting coalition partner). Elections are then held as scheduled at the end of the parliamentary term, since the Monarch does not dissolve parliament if an ''[[informateur]]'' has been able to negotiate a new coalition agreement.
+
+The Netherlands had a minority government in 2010–2012: the [[First Rutte cabinet]]. This government was supported in parliament by the [[Party for Freedom|Party For Freedom]], which all together provided the government a majority.<ref>{{Cite web |date=2010-09-29 |title=Dutch parties agree to form coalition government |url=https://www.politico.eu/article/dutch-parties-agree-to-form-coalition-government/ |access-date=2023-10-17 |website=POLITICO |language=en}}</ref>
+
+===Norway===
+As of January 20, 2020 Norway has a minority government. In the beginning of 2019, the Christian Democratic party [[KrF]] joined [[Erna Solberg]]'s cabinet, that had been ruling with a minority since 2013, to form a majority. On January 20, 2020, the Progress party, [[Progress Party (Norway)|FrP]], announced that they would withdraw from their role in government, and become an opposition party, despite continuing their support of Erna Solberg as Prime Minister.<ref>{{Cite news|url=https://www.wsj.com/articles/norwegian-government-loses-key-coalition-partner-after-is-linked-womans-repatriation-11579532626|title = Norwegian Government Loses Key Coalition Partner After Islamic State-Linked Repatriation|newspaper = Wall Street Journal|date = 20 January 2020}}</ref>
+
+Norway has had multiple minority governments throughout history, including cabinets led by [[John Lyng]], [[Kjell Magne Bondevik]], and [[Jens Stoltenberg]].
+
+===Singapore===
+In the [[Legislative Assembly of Singapore|Legislative Assembly]] elections held on [[1955 Singaporean general election|2nd April 1955]], the [[Labour Front|LF]] emerged as the single largest party with 10 seats of the 25 seats. [[David Marshall (Singaporean politician)|David Marshall]] formed [[Chief ministership of David Marshall|a minority government]] with the support of [[UMNO]] and [[Malaysian Chinese Association|MCA]]. Marshall's successor [[Lim Yew Hock]] led this minority government till its electoral defeat in 1959.
+
+In the elections held on [[1959 Singaporean general election|30th May 1959]], the [[People's Action Party|PAP]] led by [[Lee Kuan Yew]] won in a landslide. They secured 43 of the 51 available seats and trounced the incumbent [[Singapore People's Alliance|SPA]] government of Lim Yew Hock. However, this majority was short-lived. In July 1960, then [[Ministry of National Development (Singapore)|Minister for National Development]] [[Ong Eng Guan]] resigned as Minister and from the ruling PAP, along with two other members. This brought PAP's strength to 40. In July 1961, 14 left-wing members of the PAP were expelled for failing to vote for the PAP in a motion of confidence brought by Prime Minister [[Lee Kuan Yew]]. This led to PAP's tally in the Assembly to fall to 26 - a one-seat majority. This one-seat majority was lost in July 1962 with one defection to the newly formed [[Barisan Sosialis]]. On 16 August 1962, the PAP regained this one-seat majority with a defection from [[Ong Eng Guan]]'s new created [[United People's Party (Singapore)|UPP]]. This did not last long and five days later, PAP lost its majority when then [[Ministry of Manpower (Singapore)|Minister for Labour]] [[Ahmad Ibrahim (Singaporean politician)|Ahmad Ibrahim]] died suddenly. From then until the [[1963 Singaporean general election|1963 election]], the PAP governed in the minority with 25 of the 51 seats.
+
+With the PAP winning the 1963 elections with more than a two-thirds majority, and subsequently dominating parliament with the resultant by-elections and general elections, 1963 would mark the last time Singapore witnessed a minority government.
+
+===Slovakia===
+[[Dzurinda's Second Cabinet]] (2002-2006) was a majority government of 	[[Slovak Democratic and Christian Union – Democratic Party|SDKÚ]], [[Christian Democratic Movement|KDH]], [[Alliance of the New Citizen|ANO]] and [[Hungarian Alliance (Slovak political party)|SMK]]. ANO left the cabinet in 2005 while KDH left in 2006. As a result the cabinet continued as a minority cabinet for several months.<ref>{{cite web |title=Dzurinda mesiace fungoval v menšinovej vláde. Hegerovi ponúka návod na prežitie |url=https://spravy.pravda.sk/domace/clanok/639508-dzurindov-navod-ako-fungovat-v-mensinovej-vlade/ |website=Pravda.sk |access-date=15 April 2025 |language=sk-SK |date=6 September 2022}}</ref>
+
+[[Cabinet of Eduard Heger]] (2021-2023) composed of [[Slovakia (political party)|Ordinary People and Independent Personalities]] (OĽaNO), [[We Are Family (Slovakia)|We Are Family]], [[Freedom and Solidarity]] (SaS), and [[For the People (Slovakia)|For the People]] lost its majority in September 2022 when SaS left the government. The cabinet lost a no-confidence vote on 15 December 2022 and ruled until it was succeeded by a caretaker government composed of non-party experts led by Ľudovít Ódor on 15 May 2023.
+
+===Sweden===
+Sweden has had several minority governments, most of the time led by the [[Swedish Social Democratic Party]], with the support of the [[Left Party (Sweden)|Socialist Left Party]] until 2006. The [[Centre-right politics|centre-right]] [[Alliance (Sweden)|Alliance]], then led by the [[Moderate Party]], formed a minority coalition government from 2010 to 2014. The recent minority coalition government is led by the [[Moderate Party (Sweden)|Moderate Party]], which is supported by [[Sweden Democrats]].
+
+===Turkey===
+A list of minority governments in Turkey:
+* [[28th government of Turkey]] (25 December 1963 – 20 February 1965)
+* [[38th government of Turkey]] (17 November 1974 – 31 March 1975)
+* [[40th government of Turkey]] (21 June 1977 – 21 July 1977)
+* [[43rd government of Turkey]] (12 November 1979 – 11 September 1980)
+* [[51st government of Turkey]] (5 October 1995 – 30 October 1995)
+* [[53rd government of Turkey]] (6 March 1996 – 28 June 1996)
+* [[56th government of Turkey]] (11 January 1999 – 28 May 1999)
+
+=== United Kingdom ===
+There have been many occasions since 1900 when a single party has not commanded a parliamentary majority, although the 2010–2015 [[Conservative Party (UK)|Conservative]]/[[Liberal Democrats (UK)|Liberal Democrat]] [[coalition government]] was the first formal coalition of its type in Britain since the [[National Government (United Kingdom)|National Government]] between 1931 and 1945. [[Parliament of the United Kingdom|Westminster]] and the British media tend to perceive minority governments as unstable and ineffective, as they causes problems such as governments lacking the strength to pass legislation, vulnerability to a [[motion of no confidence]] and the necessity for a [[coalition government]] which would result in policy compromises and a diluted political agenda. Coalition governments could also be viewed as unstable possibly due to examples of minority governments (Callaghan and Major) occurring as the result of governments in decline.<ref>{{cite web |last1=Hazell |first1=Robert |last2=Paun |first2=Akash |last3=Chalmers |first3=Mark |last4=Yong |first4=Ben |last5=Haddon |first5=Catherine |date=7 December 2009 |title=Making Minority Government Work : Hung Parliaments and the challenges for Westminster and Whitehall |url=http://www.instituteforgovernment.org.uk/pdfs/making-minority-gov-work.pdf}}</ref> Examples of minority governments include:
+
+==== Harold Wilson (1974–1979) ====
+The [[Labour Party (UK)|Labour Party]], led by [[Harold Wilson]], formed a minority government for seven months after the [[February 1974 United Kingdom general election|General Election of February 1974]]. That situation lasted until the prime minister called another election in [[October 1974 United Kingdom general election|October that year]], following which the Labour Government obtained a small majority of three.<ref>{{cite news| url=https://www.bbc.co.uk/news/special/politics97/background/pastelec/ge74oct.shtml | title =BBC Politics 97 | work=BBC News}}</ref> The following administration also became a minority government after the collapse of the [[Lib-Lab pact]] in 1978, and the then [[British Prime Minister]] [[James Callaghan]]'s Government fell in March 1979 as the result of a [[1979 vote of no confidence in the government of James Callaghan|vote of no confidence]] which was carried by a single vote.
+
+==== John Major (1996–1997) ====
+A minority Government held power in the UK between December 1996 and [[1997 United Kingdom general election|the general election in May 1997]]. The [[Conservative Party (UK)|Conservative Party]], led by [[John Major]], had won the [[1992 United Kingdom general election|1992 General Election]] with an absolute majority of 21 seats over all other parties. That majority was progressively whittled away through defections and by-elections defeat, the most notable of the latter including those in [[1993 Newbury by-election|Newbury]], [[1996 South East Staffordshire by-election|South East Staffordshire]] and [[1997 Wirral South by-election|Wirral South]], resulting in the eventual loss of the Major government's majority in Parliament. However, the Conservatives maintained support from [[Northern Ireland]]'s [[Ulster Unionist Party]] and [[Democratic Unionist Party]].
+
+==== David Cameron (2010–2015) ====
+In the [[2010 United Kingdom general election|2010 General Election]], the Conservatives won the most seats and votes, but only a minority of seats in parliament. There was some discussion after the election of the possibility of creating a Conservative minority government and, because the then Prime Minister [[Gordon Brown]] had the first opportunity to form a government, there were also talks about creating some sort of alliance between the [[Labour Party (UK)|Labour Party]], the [[Liberal Democrats (UK)|Liberal Democrats]] and the other smaller parties. However Brown waived his right, acknowledging that because the Conservative Party had won the largest number of seats in the [[House of Commons of the United Kingdom|House of Commons]], it should have the first opportunity to form a government. Further discussions then led to the [[Cameron-Clegg coalition|establishment of a formal coalition]] between the Conservatives and the Liberal Democrats, which enabled the formation of a [[majority government]], because it was thought that would ensure more stability.
+
+==== Theresa May (2017–2019) ====
+In 2016, Theresa May took over from [[David Cameron]] as Prime Minister, after he resigned as a result of the [[Brexit]] referendum, when the UK voted to leave the EU. May decided to call a [[snap election]] in 2017 to strengthen her hand in the Brexit negotiations. In the [[2017 United Kingdom general election|2017 General Election]], the Conservatives won the most seats and votes but lost their majority in the House of Commons, which instead weakened their hand in the Brexit negotiations. The [[Conservative Party (UK)|Conservative Party]], led by [[Theresa May]], formed a minority government, with 317 seats, on 9 June 2017. On 10 June, the [[10 Downing Street|Prime Minister's Office]] announced a deal with the [[Democratic Unionist Party]] which would see the DUP support the Conservative government on a [[confidence and supply]] arrangement.<ref>{{cite web|last1=Malnick|first1=Edward|title=DUP to support minority government after 'confidence and supply' deal reached|url=https://www.telegraph.co.uk/news/2017/06/10/dup-support-minority-government-confidence-supply-deal-reached/ |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/news/2017/06/10/dup-support-minority-government-confidence-supply-deal-reached/ |archive-date=12 January 2022 |url-access=subscription |url-status=live|website=The Telegraph|access-date=21 June 2017|date=10 June 2017}}{{cbignore}}</ref> However, the DUP later announced that no such deal had been reached.<ref>{{cite web|last1=Savage|first1=Michael|last2=McDonald|first2=Henry|title=Theresa May's plan to govern with DUP support thrown into confusion|url=https://www.theguardian.com/politics/2017/jun/10/theresa-may-dup-deal-snag-tory-rebellion|website=The Guardian|access-date=21 June 2017|date=11 June 2017}}</ref> This remained the case until 26 June 2017, when [[Conservative–DUP agreement|a deal]] was agreed and announced between the two parties.<ref>{{cite web|url=https://www.theguardian.com/politics/2017/jun/26/tories-and-the-dup-reach-deal-to-prop-up-minority-government|title=Theresa May faces backlash from Scotland and Wales over £1bn Tory-DUP deal|first1=Anushka|last1=Asthana|first2=Henry|last2=McDonald|first3=Severin|last3=Carrell|date=26 June 2017|website=The Guardian}}</ref>
+
+==== Boris Johnson (2019) ====
+After Theresa May resigned in May 2019, Boris Johnson became the new party leader and Prime Minister. For much of the [[First Johnson ministry|Johnson Ministry]] up until the [[2019 United Kingdom general election|2019 general election]]; the government was a minority government. The suspension of the whip of 21 Conservative MPs on 24 July 2019 resulted in the government being 43 seats short of a working majority (a majority of voting MPs).<ref>{{cite web|url=https://www.mirror.co.uk/news/politics/what-boris-johnsons-majority-how-19430922|title= What is Boris Johnson's majority? How purge of Tory MPs has changed Parliament|first1=Dan|last1=Bloom|date=4 September 2019|website=Daily Mirror}}</ref> The government lost several Parliamentary votes in the autumn of 2019 before a general election was called. Johnson gained the Conservatives' biggest majority since [[Margaret Thatcher]] was Prime Minister in 1987 after the [[2019 United Kingdom general election]], ending this run of minority governments.
+
+====Scotland====
+=====2007=====
+{{further|First Salmond government}}
+After the [[2007 Scottish Parliament election|2007 general election]], the [[Scottish National Party]] led by [[Alex Salmond]] formed a minority government in the [[Scottish Parliament]].
+
+The SNP had won 47 seats out of 129 in the election, some way short of an [[absolute majority]] of seats in the [[Scottish Parliament]], but more than any other single party gained. The SNP were unable to negotiate a majority [[coalition government]] with any other party, but as no other combination of parties were able to agree on a deal, the SNP chose to form a one-party minority government. They often negotiated with [[confidence and supply]] support from the [[Scottish Green Party]] and the [[Scottish Conservative Party]] to pass certain legislation.
+
+=====2016=====
+{{further|Second Sturgeon government}}
+After the [[2016 Scottish Parliament election|2016 general election]], The SNP won 63 out of 129 seats in the [[Scottish Parliament]], losing their governing majority they won in [[2011 Scottish Parliament election|2011]], but they went on to form a [[Second Sturgeon government|one-party minority government]], led by [[Nicola Sturgeon]]. Throughout the parliamentary term, they informally co-operated with the [[Scottish Green Party]].
+
+=====2021-2024=====
+{{further|Third Sturgeon government}}
+Following the [[2021 Scottish Parliament election|2021 general election]], the [[Scottish National Party]] fell one seat short of an [[absolute majority|overall majority]]. They went on to form [[Third Sturgeon government|another minority government]], led by [[Nicola Sturgeon]]. The SNP then formed a [[coalition government]] with the [[Scottish Greens]] in August 2021, lifting Sturgeon's third government out of minority status.
+
+{{further|Second Yousaf government}}
+
+On 25 April 2024, First Minister [[Humza Yousaf]] suspended the [[Bute House Agreement|power sharing agreement]] with the Scottish Greens [[2024 Scottish government crisis|resulting in an SNP minority government]].
+
+{{further|First Swinney government}}
+
+[[John Swinney]] won the [[2024 Scottish National Party leadership election|Scottish National Party leadership election]] and formed a minority government.
+
+====Wales====
+After the [[2007 Welsh Assembly election|2007 Assembly election]], the [[Welsh Labour Party]] led by [[Rhodri Morgan]] initially formed a minority government in the [[Senedd|National Assembly of Wales]].  This was because they gained 26 seats in the election, which was short of an [[absolute majority]] of seats in the Assembly. Whilst Labour were initially unable to form a coalition with the [[Liberal Democrats (UK)|Liberal Democrats]], a 'Rainbow Coalition' of the [[Conservative Party (UK)]], Liberal Democrats and [[Plaid Cymru]] failed to come to fruition. However, on 6 July 2007, Welsh Labour Party members voted for a coalition with Plaid, which was followed by a similar result from Plaid Cymru members the next day. As a result, the Welsh Assembly was controlled by the Labour-Plaid alliance with Rhodri Morgan as First Minister (up until his retirement in 2009 and subsequent replacement by [[Carwyn Jones]] as First Minister) and Plaid Leader [[Ieuan Wyn Jones]] as his deputy. After the 2011 Welsh General Election, Welsh Labour won 30 seats and entered into a new government, one seat short of an overall majority. In 2016 Welsh Labour returned with 29 seats out of 30 and formed a government with the one remaining Liberal Democrat AM, again one seat short of an overall majority. A [[Second Drakeford government|minority government]] was also formed following the [[2021 Senedd election]], when Welsh Labour returned 30 seats, half of the legislature's available 60, but one short of a working majority (31), yet no coalition government was formed, with Labour relying on [[bipartisanship]] (minimally 1 extra vote from a non-Labour seat) for the passing of any legislation.
+
+== List of current minority governments ==
+{| class="wikitable sortable"
+|+Countries with a minority government as of {{TODAY}}
+! rowspan="2" |Country
+! rowspan="2" |Head of government
+! rowspan="2" |Legislature/lower chamber
+! rowspan="2" |Parties
+! colspan="5" |Seats
+|-
+! colspan="2" |Government
+!Support<br>{{notetag|Support by another party short of a coalition, for example in a [[confidence and supply]] arrangement.}}
+! colspan="2" |Total
+|-
+|{{flagicon|Austria}} [[Austria]]
+|[[Christian Stocker]]
+|[[National Council (Austria)|National Council]]
+|[[Austrian People's Party|ÖVP]] – [[NEOS (Austria)|NEOS]]
+|'''68'''
+|37.2%
+|0
+|68/183
+|37.2%
+|-
+|{{flagicon|Croatia}} [[Croatia]]
+|[[Andrej Plenković]]
+|[[Croatian Parliament]]
+|[[Croatian Democratic Union|HDZ]] – [[Homeland Movement (Croatia)|DP]] 
+|'''66'''
+|44.0%
+|12
+|78/150
+|'''52.0%'''
+|-
+|{{flagicon|Denmark}} [[Denmark]]
+|[[Mette Frederiksen]]
+|[[Folketing]]
+|[[Social Democrats (Denmark)|SD]] – [[Green Left (Denmark)|SF]] – [[Moderates (Denmark)|M]] – [[Danish Social Liberal Party|RV]]
+|'''82'''
+|45.8%
+|20
+|102/179
+|'''57.0%'''
+|-
+|{{flagicon|France}} [[France]]
+|[[Sébastien Lecornu]]
+|[[National Assembly (France)|National Assembly]]
+|[[Renaissance (French political party)|RE]] – [[Democratic Movement (France)|MoDem]] – [[Horizons (political party)|HOR]] ([[Ensemble (political coalition)|Ensemble !]])
+|'''166'''
+|28.8%
+|118
+|279/577
+|48.4%
+|-
+|{{flagicon|Iran}} [[Iran]]
+|[[Masoud Pezeshkian]]
+|[[Islamic Consultative Assembly]]
+|[[Iranian reformists|Reformists]]
+|'''43'''
+|14.8%
+|119
+|162/290
+|'''55.8%'''
+|-
+|{{flagicon|Netherlands}} [[Netherlands]]
+|[[Rob Jetten]]
+|[[House of Representatives (Netherlands)|House of Representatives]]
+|[[Democrats 66|D66]] – [[People's Party for Freedom and Democracy|VVD]] – [[Christian Democratic Appeal|CDA]]
+|'''66'''
+|44.0%
+|0
+|66/150
+|44.0%
+|-
+|{{flagicon|Norway}} [[Norway]]
+|[[Jonas Gahr Støre]]
+|[[Storting]]
+|[[Labour Party (Norway)|A/Ap]]
+|'''53'''
+|31.4%
+|35
+|88/169
+|'''52.1%'''
+|-
+|{{flagicon|Poland}} [[Poland]]
+|[[Donald Tusk]]
+|[[Sejm]]
+|[[Civic Coalition (party)|KO]] – [[The Left (Poland)|The Left]] – [[Centre Union (Poland)|Centre]]
+|'''192'''
+|41,7%
+|4
+|196/460
+|42,6%
+|-
+|{{flagicon|Portugal}} [[Portugal]]
+|[[Luís Montenegro]]
+|[[Assembly of the Republic (Portugal)|Assembly of the Republic]]
+|[[Social Democratic Party (Portugal)|PPD/PSD]] – [[CDS – People's Party|CDS-PP]] ([[Democratic Alliance (Portugal, 2024)|AD]])
+|'''91'''
+|39.6%
+|0
+|91/230
+|39.6%
+|-
+|{{flagicon|Romania}} [[Romania]]
+|[[Luca Niculescu]]
+|[[Parliament of Romania|Parliament]]
+|[[Social Democratic Party (Romania)|PSD]]
+|'''127'''
+|27.4%
+|154
+|281/464
+|'''60.6%'''
+|-
+|{{flagicon|Slovakia}} [[Slovakia]]
+|[[Robert Fico]]
+|[[National Council of Slovakia|National Council]]
+|[[Direction – Social Democracy|SMER-SD]] – [[Voice – Social Democracy|HLAS-SD]] – [[Slovak National Party|SNS]]
+|'''75'''
+|50.0%
+|4
+|79/150
+|'''52.7%'''
+|-
+|{{flagicon|Slovenia}} [[Slovenia]]
+|[[Janez Janša]]
+|[[National Assembly (Slovenia)|National Assembly]]
+|[[Slovenian Democratic Party|SDS]] – [[New Slovenia|NSi]] – [[Slovenian People's Party|SLS]] – [[Focus of Marko Lotrič|FOKUS]]<br>([[NSi, SLS, FOKUS]]) – [[Democrats (Slovenia)|Demokrati.]]
+|'''43'''
+|47.8%
+|7
+|50/90
+|'''55.6%'''
+|-
+|{{flagicon|Spain}} [[Spain]]
+|[[Pedro Sánchez]]
+|[[Congress of Deputies]]
+|[[Spanish Socialist Workers' Party|PSOE]] – [[Sumar (electoral alliance)|Sumar]]
+|'''147'''
+|42.0%
+|32
+|179/350
+|'''51.1%'''
+|-
+|{{flagicon|ROC}} [[Taiwan]]
+|[[Cho Jung-tai]]
+|[[Legislative Yuan]]
+|[[Democratic Progressive Party|DPP]]
+|'''51'''
+|45.1%
+|0
+|51/113
+|45.1%
+|}
+{| class="wikitable sortable"
+|+Sub-national entities with a minority government as of {{TODAY}}
+! rowspan="2" |Country
+! rowspan="2" |Head of government
+! rowspan="2" |Legislature
+! rowspan="2" |Parties
+! colspan="5" |Seats
+|-
+! colspan="2" |Government
+!Support<br>{{notetag|Support by another party short of a coalition, for example in a [[confidence and supply]] arrangement.}}
+! colspan="2" |Total
+|-
+|{{flagicon|ESP}} {{flag|Asturias}}
+|[[Adrián Barbón]]
+|[[General Junta of the Principality of Asturias|General Junta]]
+|[[Asturian Socialist Federation|FSA-PSOE]]
+|'''19'''
+|42.2%
+|4
+|23/45
+|'''51.1%'''
+|-
+|{{flagicon|POR}} {{flag|Azores}}
+|[[José Manuel Bolieiro]]
+|[[Legislative Assembly of the Azores]]
+|[[Social Democratic Party (Portugal)|PPD/PSD]] – [[CDS – People's Party|CDS–PP]] – [[People's Monarchist Party (Portugal)|PPM]]
+|'''26'''
+|45.6%
+|3
+|29/57
+|'''50.9%'''
+|-
+|{{flagicon|ESP}} {{flag|Balearic Islands}}
+|[[Marga Prohens]]
+|[[Parliament of the Balearic Islands]]
+|[[People's Party of the Balearic Islands|PP]]
+|'''25'''
+|42.3%
+|9
+|34/59
+|'''57.6%'''
+|-
+|{{flagicon|ESP}} {{flag|Catalonia}}
+|[[Salvador Illa]]
+|[[Parliament of Catalonia]]
+|[[Socialists' Party of Catalonia|PSC]]
+|'''42'''
+|31.1%
+|26
+|68/135
+|'''50.4%'''
+|-
+|{{flagicon|ESP}} {{flag|Murcia}}
+|[[Fernando López Miras]]
+|[[Regional Assembly of Murcia|Assembly of Murcia]]
+|[[People's Party of the Region of Murcia|PP]]
+|'''21'''
+|46.6%
+|9
+|30/45
+|'''66.6%'''
+|-
+|{{flagicon|ESP}} {{flag|Navarre}}
+|[[María Chivite]]
+|[[Parliament of Navarre]]
+|[[Socialist Party of Navarre|PSN]] – [[Geroa Bai|GBai]] – [[Podemos (Spanish political party)|Podemos]]
+|'''21'''
+|42.0%
+|9
+|30/50
+|'''60.0%'''
+|-
+|{{flagicon|GER}} {{flag|Saxony}}
+|[[Michael Kretschmer]]
+|[[Landtag of Saxony]]
+|[[Christian Democratic Union of Germany|CDU]] – [[Social Democratic Party of Germany|SPD]]
+|'''51'''
+|42.5%
+|6{{efn|name=Linke}}
+|57/120
+|47.5%
+|-
+|{{Flag icon|Malaysia}} {{Flag|Negeri Sembilan}}
+|[[Aminuddin Harun]]
+|[[Negeri Sembilan State Legislative Assembly|State Legislative Assembly]]
+|[[Pakatan Harapan|PH]]
+|'''17'''
+|47.2%
+|0
+|17/36
+|47.2%
+|-
+|{{flagicon|AUS}} {{flag|New South Wales}}
+|[[Chris Minns]]
+|[[New South Wales Legislative Assembly|Legislative Assembly]]
+|[[Australian Labor Party (New South Wales Branch)|Labor]]
+|'''45'''
+|48.4%
+|3
+|48/93
+|'''51.6%'''
+|-
+|{{flagicon|United Kingdom}} {{flag|Scotland}}
+|[[John Swinney]]
+|[[Scottish Parliament]]
+|[[Scottish National Party|SNP]]
+|'''57'''
+|44.2%
+|0
+|57/129
+|44.2%
+|-
+|{{flagicon|Australia}} {{flag|Tasmania}}
+|[[Jeremy Rockliff]]
+|[[Tasmanian House of Assembly]]
+|[[Tasmanian Liberal Party|Liberal]]
+|'''14'''
+|40.0%
+|4
+|15/35{{Contradictory inline|date=September 2026}}
+|'''41.8%'''
+|-
+|{{flagicon|GER}} {{flag|Thuringia}}
+|[[Mario Voigt]]
+|[[Landtag of Thuringia]]
+|[[Christian Democratic Union of Germany|CDU]] – [[Thuringia.Just|TH.G]] – [[Social Democratic Party of Germany|SPD]]
+|'''38'''
+|43.2%
+|16{{efn|name=Linke|[[Die Linke]] is effectively supporting the government while being under a nominal [[Cordon sanitaire (politics)|cordon sanitaire]] by the CDU.<ref>{{cite news|url=https://www.zeit.de/politik/deutschland/2026-09/friedrich-merz-cdu-afd-linke-regierungsprogramm-sachsen-anhalt-gxe|title=Merz schließt Kooperation mit der Linken in Sachsen-Anhalt aus|lang=de|work=[[Die Zeit]]|date=1 Sep 2026}}</ref>}}
+|54/88
+|'''61.4%'''
+|-
+|{{flagicon|United Kingdom}} {{flag|Wales}}
+|[[Rhun ap Iorwerth|Rhun ap Iorwerth]]
+|[[Senedd]]
+|[[Plaid Cymru|Plaid Cymru]]
+|'''43'''
+|44.8%
+|0
+|43/96
+|44.8%
+|}
+
+==See also==
+*[[Coalition government]]
+*[[Hung parliament]]
+*[[Majority government]]
+
+==Notes==
+{{notefoot}}
+{{notelist}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[http://archives.cbc.ca/politics/federal_politics/topics/3668/ CBC Digital Archives – Minority Report: Governing by Minority in Canada]
+
+{{Coalition Spectrum navbox}}
+
+{{DEFAULTSORT:Minority Government}}
+[[Category:Minority governments| ]]
+[[Category:Political terminology]]

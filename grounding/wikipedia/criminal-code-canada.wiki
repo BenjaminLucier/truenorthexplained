@@ -1,0 +1,173 @@
+{{Short description|Comprehensive criminal law of Canada}}
+{{more citations needed|date=September 2015}}
+{{Italic title}}
+{{Use Canadian English|date=October 2026}}
+{{Infobox legislation
+| short_title      = ''Criminal Code''
+| image            = Centre Block - Parliament Hill.jpg
+| imagesize        =
+| imagelink        =
+| imagealt         =
+| caption          =
+| status           = in force amended
+| long_title       = An Act respecting the Criminal Law
+| citation         = R.S.C 1985, c. C-46
+| enacted_by       = [[Parliament of Canada]]
+| date_enacted     = First enacted: [[Statutes of Canada|SC]] 1892, c. 29; carried forward in statute revisions, [[Revised Statutes of Canada|RSC]] 1906, c. 146 and RSC 1927, c. 36; substantially revised and re-enacted, SC 1953-54, c. 51; carried forward in statute revisions, RSC 1970, c. C-34 and RSC 1985, c. C-46
+| date_assented    = July 9, 1892
+| date_signed      =
+| date_commenced   = July 1, 1893
+| bill             =
+| bill_citation    =
+| bill_date        =
+| introduced_by    =
+| 1st_reading      =
+| 2nd_reading      =
+| 3rd_reading      =
+| white_paper      =
+| committee_report =
+| amendments       =
+| repeals          =
+| related          =
+| summary          =
+| keywords         =
+| revised_text     = https://laws-lois.justice.gc.ca/eng/acts/c-46/
+}}
+
+The '''''Criminal Code''''' ({{langx|fr|Code criminel}}) is a law of the [[Parliament of Canada]] that [[Codification (law)|codifies]] most, but not all, [[criminal]] offences{{efn|Sections 1 through 467.14 of the Code.}} and principles of criminal procedure{{efn|Sections 468 to 849 of the Code.}} in [[Canada]]. Its long title is '''''An Act respecting the Criminal Law''''' (French: {{Lang|fr|Loi concernant le droit criminel}}). It is indexed in the [[Statutes of Canada|Revised Statutes of Canada, 1985]] as chapter number C-46<ref>R.S.C. 1985, c. C-46, as amended.</ref>. In legal reports, it is sometimes abbreviated as ''Cr.C.'' (French: {{Lang|fr|C.cr.}})<ref>{{Cite web|url=https://courdappelduquebec.ca/fileadmin/Fichiers_client/Informations_generales/Precis_de_reference_juridique/Precis_reference_Cour_appel_mai_2017.pdf|title=Précis de la Référence Juridiquede Lacour D'Appel du Québec|trans-title=The Court of Appeal of Quebec Guide to Legal Citation|access-date=2021-04-08|archive-date=2022-02-19|archive-url=https://web.archive.org/web/20220219053347/https://courdappelduquebec.ca/fileadmin/Fichiers_client/Informations_generales/Precis_de_reference_juridique/Precis_reference_Cour_appel_mai_2017.pdf|page=18|url-status=dead|language=fr}}</ref> or ''CC''<ref>{{Cite web |last=Horrington |first=Joseph |title=Understanding Canadian Criminal Law Acronyms |website=Joseph Horrington Law |date=2020-02-14 |url=https://www.josephhorriganlaw.com/post/understanding-canadian-criminal-law-acronyms |archive-url=https://web.archive.org/web/20240221023912/https://www.josephhorriganlaw.com/post/understanding-canadian-criminal-law-acronyms |archive-date=2024-02-21 |url-status=live}}</ref>.
+
+[[Section 91(27) of the Constitution Act, 1867|Section 91(27)]] of the ''[[Constitution Act, 1867]]'' establishes that the [[Parliament of Canada]] has sole jurisdiction over [[Criminal law of Canada|criminal law]]. Accordingly, the ''Criminal Code'' applies to the entirety of the country, meaning that in Canada, all crimes which are defined under the ''Criminal Code'' are federal crimes and can be prosecuted anywhere they occur in or out of the country. Additionally, with one major exception for treason<ref>[https://laws-lois.justice.gc.ca/eng/acts/C-46/section-48.html CC s. 48]</ref> which has a statute of limitations of three years, there is no [[statute of limitations]] for the prosecution of [[indictable offence]]s and such prosecutions may be commenced at any time. [[Summary offence]]s, on the other hand, have a statute of limitations of 12 months.<ref>[https://laws-lois.justice.gc.ca/eng/acts/C-46/section-786.html CC s. 786]</ref>
+
+The ''Criminal Code'' divides the crimes it codifies into major categories, including crimes against public order, crimes involving firearms and weapons, crimes against the administration of law and justice, sexual offences, crimes against public morals, disorderly conduct, crimes against the privacy of communications, crimes involving disorderly houses, gaming, and betting, crimes against the person and reputation, crimes against property rights, crimes involving fraud, criminal mischief and criminal damage, crimes against currencies, and attempts, conspiracies, and accessories. A category concerning terrorism was added in 2001 with the ''[[Anti-Terrorism Act (Canada)|Anti-terrorism Act]]'' and a category dealing with motor vehicle and "conveyance" crimes was added in 2018.
+
+The ''Criminal Code'' contains some [[Criminal defenses|defences]], but most are part of the [[common law]] rather than [[statute]]. Important Canadian criminal laws not forming part of the Code include the ''[[Gun politics in Canada|Firearms Act]]'',<ref>{{cite canlaw |short title=Firearms Act |abbr=S.C. |year=1995 |chapter=39 |link=https://laws-lois.justice.gc.ca/eng/acts/f-11.6/ |wikilink=Firearms Act (Canada) |linkloc=Government of Canada}}</ref> the ''[[Controlled Drugs and Substances Act]]'',<ref>{{cite canlaw |short title=Controlled Drugs and Substances Act |abbr=S.C. |year=1996 |chapter=19 |link=https://laws-lois.justice.gc.ca/eng/acts/c-38.8/ |wikilink=Controlled Drugs and Substances Act |linkloc=Government of Canada}}</ref> the ''[[Canada Evidence Act]]'', the ''[[Food and Drugs Act]]'', the ''[[Youth Criminal Justice Act]]'', the ''Customs Act'', and the ''[[Contraventions Act]]''. The Code underwent a major revision in 1954, which came into force in April 1955, but nonetheless remains the fundamental criminal law of Canada, despite several initiatives at major reform or the enactment of a new criminal code entirely.<ref>{{cite web |last=Gourlay |first=Matthew |title=The Criminal Mind: Repealing law suits for modern times |date=19 December 2016 |url=https://www.lawtimesnews.com/archive/the-criminal-mind-repealing-law-suits-for-modern-times/262362 |website=Law Times |language=en}}</ref><ref>{{cite web |last1=Sankoff |first1=Peter |title=The problem with the Travis Vader verdict |url=https://www.ualberta.ca/en/folio/2016/09/the-problem-with-the-travis-vader-verdict.html |website=University of Alberta, Faculty of Law |date=18 September 2016 |language=en}}</ref><ref>{{cite web |last=Haynes |first=Landon |title=The Art of Law |url=https://www.ualberta.ca/en/law/about/news/2020/4/art-of-law.html |website=University of Alberta, Faculty of Law |date=23 April 2020 |access-date=5 December 2024 |language=en}}</ref><ref>{{cite web |last1=Baker |first1=Dennis |last2=Janzen |first2=Benjamin|title=Is It Time to Overhaul the Criminal Code of Canada? |website=MLI Commentary |date=May 2013 |url=https://www.macdonaldlaurier.ca/files/pdf/2013.05.25-Commentary-Criminal_Code_Overhaul-vFinal-web.pdf |publisher=Macdonald-Laurier Institute |access-date=5 December 2024}}</ref> In 2018, and later in 2019, the [[29th Canadian Ministry|Trudeau government]] made [[An Act to amend the Criminal Code, the Youth Criminal Justice Act and other Acts and to make consequential amendments to other Acts|a large revision to the Code]].<ref name=2018_29>{{Cite canlaw|short title=An Act to amend the Criminal Code, the Youth Criminal Justice Act and other Acts and to make consequential amendments to other Acts|abbr=S.C.|year=2018|chapter=29|link=http://laws-lois.justice.gc.ca/eng/AnnualStatutes/2018_29/|linkloc=Government of Canada}}</ref>
+
+The ''Criminal Code'' constitutes the principle that no person could be convicted of a crime unless otherwise specifically outlined and stated in a statute. This legal document has played a major part in Canada's history and has also helped form other legal acts and laws, for example, the ''[[Controlled Drugs and Substances Act]]''.<ref>{{Cite web |last=Bentham |first=Jeremy |url=http://www.duhaime.org/LegalResources/CriminalLaw/LawArticle-94/1892-Canadas-Criminal-Code.aspx|title=1892, Canada's Criminal Code|website=Canadian Legal History|language=en-US|access-date=2016-09-19|archive-date=2020-12-16|archive-url=https://web.archive.org/web/20201216005449/http://www.duhaime.org/LegalResources/CriminalLaw/LawArticle-94/1892-Canadas-Criminal-Code.aspx|url-status=dead}}</ref>
+
+==Structure==
+{{Easy CSS image crop|image=Crimcode1892.jpg|crop_left_perc=10.0|crop_right_perc=7.7|crop_top_perc=6.2|crop_bottom_perc=1.4|caption=The first page of the ''Criminal Code, 1892''|alt=Typeset text under the heading 55–56 Victoria and the lesser royal arms}}
+
+*Part I&nbsp;— General
+*Part II&nbsp;— Offences Against Public Order
+*Part II.1&nbsp;— Terrorism
+*Part III&nbsp;— Firearms and Other Weapons
+*Part IV&nbsp;— Offences Against the Administration of Law and Justice
+*Part V&nbsp;— Sexual Offences, Public Morals and Disorderly Conduct
+*Part VI&nbsp;— Invasion of Privacy
+*Part VII&nbsp;— Disorderly Houses, Gaming and Betting
+*Part VIII&nbsp;— Offences Against the Person and Reputation
+*Part VIII.1&nbsp;— Offences Relating to Conveyances
+*Part IX&nbsp;— Offences Against Rights of Property
+*Part X&nbsp;— Fraudulent Transactions Relating to Contracts and Trade
+*Part XI&nbsp;— Wilful and Forbidden Acts in Respect of Certain Property
+*Part XII&nbsp;— Offences Relating to Currency
+*Part XII.1&nbsp;— <s>Instruments and Literature for Illicit Drug Use</s> (repealed)
+*Part XII.2&nbsp;— Proceeds of Crime
+*Part XIII&nbsp;— Attempts — Conspiracies — Accessories
+*Part XIV&nbsp;— Jurisdiction
+*Part XV&nbsp;— Special Procedure and Powers
+*Part XVI&nbsp;— Compelling Appearance of an Accused Before a Justice and Interim Release
+*Part XVII&nbsp;— Language of Accused
+*Part XVIII&nbsp;— Procedure on Preliminary Inquiry
+*Part XVIII.1&nbsp;— Case Management Judge
+*Part XIX&nbsp;— Indictable Offences — Trial Without Jury
+*Part XIX.1&nbsp;— Nunavut Court of Justice
+*Part XX&nbsp;— Procedure in Jury Trials and General Provisions
+*Part XX.1&nbsp;— Mental Disorder
+*Part XXI&nbsp;— Appeals — Indictable Offences
+*Part XXI.1&nbsp;— Applications for Ministerial Review — Miscarriages of Justice
+*Part XXII&nbsp;— Procuring Attendance
+*Part XXII.01&nbsp;— Remote Attendance by Certain Persons
+*Part XXII.1&nbsp;— Remediation Agreements
+*Part XXIII&nbsp;— Sentencing
+*Part XXIV&nbsp;— Dangerous Offenders and Long-term Offenders
+*Part XXV&nbsp;— Effect and Enforcement of Undertakings, Release Orders and Recognizances
+*Part XXVI&nbsp;— Extraordinary Remedies
+*Part XXVII&nbsp;— Summary Convictions
+*Part XXVIII&nbsp;— Miscellaneous
+
+==History and evolution==
+The ''Criminal Code'' stems from a long history of legal documents. The following documents play a part in the construction and changes brought on the ''Criminal Code'':
+{| class="wikitable"
+|+ Evolution of the ''Criminal Code'' (Canada), 1892&ndash;present
+|-
+! width="30%"|Act !! width="10%"| In force !! width="60%"|Highlights
+|- valign="top"
+|''The Criminal Code, 1892''. [[Statutes of Canada|S.C.]] 1892, c.29<ref>{{Cite canlaw|short title =The Criminal Code, 1892|abbr =S.C.|year =1892|chapter =29|link= https://hdl.handle.net/2027/mdp.39015074700942?urlappend=%3Bseq=161}}</ref>
+|July 1, 1893
+|Sponsored by [[Minister of Justice (Canada)|Minister of Justice]] [[Sir John Sparrow David Thompson]], it was based on the "Stephen Code", written by Sir [[James Fitzjames Stephen]] for a Royal Commission in [[England]] in 1879, and subsequently modified by Canadian jurist [[George Burbidge]] to address the Canadian context. Its significant provisions included:
+
+:* Ousting from Canadian criminal law any offence under an Act of the [[British Parliament]], "unless such Act is, by the express terms thereof, or of some other Act of such Parliament, made applicable to Canada or some portion thereof as part of Her Majesty's dominions or possessions."<ref>1892 Code, s. 5</ref>
+:* Standardization of the age of criminal culpability, so that no juvenile under the age of seven could be convicted, and those between the ages of seven and thirteen could be convicted only where they were "competent to know the nature and consequences of the conduct, and to appreciate that it was wrong."<ref>1892 Code, ss. 9{{en dash}}10</ref>
+|- valign="top"
+|''An Act respecting Arrest, Trial and Imprisonment of Youthful Offenders'', S.C. 1894, c. 58<ref>{{Cite canlaw|short title  =An Act respecting Arrest, Trial and Imprisonment of Youthful Offenders|abbr =S.C.|year =1894|chapter =58|link= https://hdl.handle.net/2027/mdp.39015074700975?urlappend=%3Bseq=553}}</ref>
+|July 23, 1894
+|Provided for the separation of juvenile offenders from older persons and habitual criminals during arrest, confinement, trial and subsequent imprisonment, as well as integrating efforts with those of [[Children's Aid Society (Ontario)|children's aid]] organizations being organized by the provinces.
+|- valign="top"
+|''The Juvenile Delinquents Act, 1908,'' S.C. 1908, c. 40<ref>{{Cite canlaw|short title  =The Juvenile Delinquents Act, 1908|abbr =S.C.|year =1908|chapter =40|link= https://archive.org/details/actsofparl1908v01cana/page/393}}</ref>
+|Implemented over time by specific proclamations, with respect to a specified province or a portion thereof.<ref>1908 Act, s. 36</ref>
+|The ''[[Juvenile Delinquents Act]]'' was designed to operate in a similar manner to the [[Probation of Offenders Act 1907]] passed by the [[British Parliament]] in the previous year, as well as the juvenile delinquent provisions contained in the later [[Children Act 1908]].
+
+While the minimum age for those subject to the Act remained at seven years, the maximum age varied by province. By 1982, it was set at 16 in six provinces, 17 for British Columbia and Newfoundland, and 18 for Quebec and Manitoba.<ref>{{cite news|last= Robin|first= Laura|date= 26 May 1982|title= Laws affecting young to change|url= https://news.google.com/newspapers?nid=2194&dat=19820526&id=hdEyAAAAIBAJ&pg=2210,2368484&hl=en|newspaper= [[Ottawa Citizen]]|page= 47|access-date= 3 April 2020|archive-date= 1 April 2022|archive-url= https://web.archive.org/web/20220401041822/https://news.google.com/newspapers?nid=2194&dat=19820526&id=hdEyAAAAIBAJ&pg=2210,2368484&hl=en|url-status= live}}</ref>
+|- valign="top"
+|''Criminal Code'', S.C. 1953–54, c. 51<ref>{{Cite canlaw|short title=Criminal Code|abbr=S.C.|year=1953–54|chapter=51|link=https://archive.org/details/actsofparl195354v01cana/page/365}}</ref>
+|April 1, 1955<ref>{{Cite canlaw|short title  =An Act to amend the Criminal Code|abbr =S.C.|year =1955|chapter =2|link=https://archive.org/details/actsofparl1955v01cana/page/5}}</ref>
+|Reenactment of the Code, with modernization of provisions. It abolished all [[common law offence]]s (other than for [[contempt of court]]), as well as any offences created by the British Parliament or in effect under an Act or ordinance in any place before becoming part of Canada.<ref>1953-54 Act, ss. 7{{en dash}}8</ref>
+|- valign="top"
+|''Criminal Law Amendment Act, 1968–69'', S.C. 1968–69, c. 38<ref>{{Cite canlaw|short title=Criminal Law Amendment Act, 1968–69|abbr=S.C.|year=1968–69|chapter=38|link=https://archive.org/details/actsofparl196869v0102cana/page/847}}</ref>
+|Various, from July 1, 1969, to January 1, 1970
+|An omnibus bill promoted by [[Pierre Elliott Trudeau]], the ''[[Criminal Law Amendment Act, 1968–69]]'' provided for decriminalizing [[homosexual]] acts between consenting adults, legalizing [[abortion]], [[contraception]] and [[lotteries]], restricting [[gun ownership]], and authorizing [[breathalyzer]] tests on suspected drunk drivers. 
+|- valign="top"
+|''Young Offenders Act'', S.C. 1980-81-82-83, c. 110<ref>{{Cite canlaw|short title=Young Offenders Act|abbr=S.C.|year=1980-81-82-83|chapter=110|link=https://archive.org/details/actsofparl198083v03cana_0/page/3203}}</ref>
+|April 2, 1984.<ref>{{Cite canlaw|link=http://www.collectionscanada.gc.ca/databases/canada-gazette/093/001060-119.01-e.php?image_id_nbr=527859&document_id_nbr=10805&f=g&PHPSESSID=h9vqkiu6rbhurk7tm9udp81d92|type=reg|regtitle=Young Offenders Act: Proclaimed in force April 2, 1984|regnumber=SI/84-56}}</ref>
+|The ''[[Young Offenders Act]]'' raised the minimum age of criminal responsibility to 12 years, and standardized the maximum age to 16{{en dash}}18 years (depending on the province), as well as setting limits on the length of sentence that could be imposed.
+|- valign="top"
+|''Anti-terrorism Act'', S.C. 2001, c. 41<ref>{{Cite canlaw|short title=Anti-terrorism Act|abbr=S.C.|year=2001|chapter=41|link=http://laws-lois.justice.gc.ca/eng/AnnualStatutes/2001_41/}}</ref>
+|December 24, 2001 (principally)<ref>{{Cite canlaw
+| link      = http://www.canadagazette.gc.ca/rp-pr/p2/2002/2002-01-02/pdf/g2-13601.pdf
+| type      = reg
+| regtitle  = <nowiki>Order Fixing December 24, 2001 as the Date of the
+Coming into Force of Certain Sections of the Act</nowiki>
+| regnumber = SI/2002-16
+}}</ref>
+|Enacted in response to the terrorist attack against the [[World Trade Center (1973–2001)|World Trade Center]] in the [[September 11 attacks]], the [[Anti-Terrorism Act (Canada)|Anti-Terrorism Act]], included provisions regarding the financing of terrorism, the establishment of a list of terrorist entities, the freezing of property, the forfeiture of property, and participating, facilitating, instructing and harbouring of terrorism.
+|- valign="top"
+|''Youth Criminal Justice Act'', S.C. 2002, c. 1<ref>{{Cite canlaw|short title=Youth Criminal Justice Act|abbr=S.C.|year=2002|chapter=1|link=http://laws-lois.justice.gc.ca/eng/AnnualStatutes/2002_1/}}</ref>
+|April 1, 2003<ref>{{Cite canlaw
+| link      = http://www.canadagazette.gc.ca/rp-pr/p2/2002/2002-06-19/pdf/g2-13613.pdf
+| type      = reg
+| regtitle  = <nowiki>Order Fixing April 1, 2003 as the Date of the
+Coming into Force of the Act</nowiki>
+| regnumber = SI/2002-91
+}}</ref>
+|The ''[[Youth Criminal Justice Act]]'' was passed to address concerns raised by the effects of the ''Young Offenders Act''.
+|- valign="top"
+|''Safe Streets and Communities Act'', S.C. 2012, c. 1<ref>{{Cite canlaw|short title=Safe Streets and Communities Act|abbr=S.C.|year=2012|chapter=1|link=http://laws-lois.justice.gc.ca/eng/AnnualStatutes/2012_1/|linkloc=Government of Canada|wikilink=Safe Streets and Communities Act}}</ref>
+|March 13, 2012
+|Generally heightened sentences for crimes. Replaced pardons with "record suspensions" for subsequent convictions, increased waiting periods for applying. Enacted mandatory minimums for certain sexual and drug offences. 
+|- valign="top"
+|''An Act to amend the Criminal Code and the Department of Justice Act and to make consequential amendments to another Act'', S.C. 2018, c. 29<ref name=2018_29></ref>
+|December 13, 2018
+|Removed sections which were inoperative due to being ruled unconstitutional by the [[Supreme Court of Canada]]. Also removed numerous outdated and archaic offences such as blasphemy, fraudulent witchcraft, and challenging someone to a duel. Amended sections related to evidence in sexual assault cases. 
+|}
+
+==See also==
+* [[Criminal law in Canada]]
+* [[Section 98]]
+
+==References==
+{{Reflist}}
+
+==Notes==
+{{notelist}}
+
+==External links==
+*[http://laws-lois.justice.gc.ca/eng/acts/C-46/ Criminal Code (Department of Justice, Canada)]
+*[https://thecanadianencyclopedia.ca/en/article/criminal-code Criminal Code] at [[The Canadian Encyclopedia]]
+*[[Canadian Legal Information Institute]] contains the [http://www.canlii.ca/en/ca/laws/stat/rsc-1985-c-c-46/latest/rsc-1985-c-c-46.html ''Code'' in a searchable database].
+
+[[Category:Criminal codes]]
+[[Category:Canadian federal legislation]]
+[[Category:1892 in Canadian law]]
+[[Category:Legal history of Canada]]
+[[Category:Canadian criminal law]]

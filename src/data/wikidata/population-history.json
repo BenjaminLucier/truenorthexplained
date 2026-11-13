@@ -1,0 +1,948 @@
+{
+  "_meta": {
+    "source": "Wikidata: census populations of Canada and its provinces and territories",
+    "url": "https://query.wikidata.org/",
+    "licence": "CC0 1.0 (Wikidata)",
+    "query": "P1082 with P585 point in time and P459 = Q39825 (census). Gaps are gaps in Wikidata.",
+    "script": "scripts/grounding/wikidata.ts",
+    "fetched": "2026-11-13"
+  },
+  "census": {
+    "canada": [
+      {
+        "year": 1881,
+        "population": 4324810
+      },
+      {
+        "year": 1891,
+        "population": 4833239
+      },
+      {
+        "year": 1901,
+        "population": 5371315
+      },
+      {
+        "year": 1911,
+        "population": 7206643
+      },
+      {
+        "year": 1921,
+        "population": 8787949
+      },
+      {
+        "year": 1931,
+        "population": 10376786
+      },
+      {
+        "year": 1941,
+        "population": 11506655
+      },
+      {
+        "year": 1951,
+        "population": 14009429
+      },
+      {
+        "year": 1956,
+        "population": 16080791
+      },
+      {
+        "year": 2011,
+        "population": 33476688
+      },
+      {
+        "year": 2016,
+        "population": 35151728
+      },
+      {
+        "year": 2021,
+        "population": 36991981
+      }
+    ],
+    "alberta": [
+      {
+        "year": 1901,
+        "population": 73022
+      },
+      {
+        "year": 1911,
+        "population": 374295
+      },
+      {
+        "year": 1921,
+        "population": 588454
+      },
+      {
+        "year": 1931,
+        "population": 731605
+      },
+      {
+        "year": 1941,
+        "population": 796169
+      },
+      {
+        "year": 1951,
+        "population": 939501
+      },
+      {
+        "year": 1956,
+        "population": 1123116
+      },
+      {
+        "year": 1961,
+        "population": 1331944
+      },
+      {
+        "year": 1966,
+        "population": 1463203
+      },
+      {
+        "year": 1971,
+        "population": 1627874
+      },
+      {
+        "year": 1976,
+        "population": 1838037
+      },
+      {
+        "year": 2011,
+        "population": 3645257
+      },
+      {
+        "year": 2016,
+        "population": 4067175
+      },
+      {
+        "year": 2021,
+        "population": 4262635
+      }
+    ],
+    "british-columbia": [
+      {
+        "year": 1851,
+        "population": 55000
+      },
+      {
+        "year": 1861,
+        "population": 51524
+      },
+      {
+        "year": 1871,
+        "population": 36247
+      },
+      {
+        "year": 1881,
+        "population": 49459
+      },
+      {
+        "year": 1891,
+        "population": 98173
+      },
+      {
+        "year": 1901,
+        "population": 178657
+      },
+      {
+        "year": 1911,
+        "population": 392480
+      },
+      {
+        "year": 1921,
+        "population": 524582
+      },
+      {
+        "year": 1931,
+        "population": 694263
+      },
+      {
+        "year": 1941,
+        "population": 817861
+      },
+      {
+        "year": 1951,
+        "population": 1165210
+      },
+      {
+        "year": 1956,
+        "population": 1398464
+      },
+      {
+        "year": 1961,
+        "population": 1629082
+      },
+      {
+        "year": 1966,
+        "population": 1873674
+      },
+      {
+        "year": 1971,
+        "population": 2184621
+      },
+      {
+        "year": 1976,
+        "population": 2466608
+      },
+      {
+        "year": 2011,
+        "population": 4400057
+      },
+      {
+        "year": 2016,
+        "population": 4648055
+      },
+      {
+        "year": 2021,
+        "population": 5000879
+      }
+    ],
+    "manitoba": [
+      {
+        "year": 1871,
+        "population": 25228
+      },
+      {
+        "year": 1881,
+        "population": 62260
+      },
+      {
+        "year": 1891,
+        "population": 152506
+      },
+      {
+        "year": 1901,
+        "population": 255211
+      },
+      {
+        "year": 1911,
+        "population": 461394
+      },
+      {
+        "year": 1921,
+        "population": 610118
+      },
+      {
+        "year": 1931,
+        "population": 700139
+      },
+      {
+        "year": 1941,
+        "population": 729744
+      },
+      {
+        "year": 1951,
+        "population": 776541
+      },
+      {
+        "year": 1956,
+        "population": 850040
+      },
+      {
+        "year": 1961,
+        "population": 921686
+      },
+      {
+        "year": 1966,
+        "population": 963066
+      },
+      {
+        "year": 1971,
+        "population": 988247
+      },
+      {
+        "year": 1976,
+        "population": 1021506
+      },
+      {
+        "year": 2011,
+        "population": 1208268
+      },
+      {
+        "year": 2016,
+        "population": 1278365
+      },
+      {
+        "year": 2021,
+        "population": 1342153
+      }
+    ],
+    "new-brunswick": [
+      {
+        "year": 1851,
+        "population": 193800
+      },
+      {
+        "year": 1861,
+        "population": 252047
+      },
+      {
+        "year": 1871,
+        "population": 285594
+      },
+      {
+        "year": 1881,
+        "population": 321233
+      },
+      {
+        "year": 1891,
+        "population": 321263
+      },
+      {
+        "year": 1901,
+        "population": 331120
+      },
+      {
+        "year": 1911,
+        "population": 351889
+      },
+      {
+        "year": 1921,
+        "population": 387876
+      },
+      {
+        "year": 1931,
+        "population": 408219
+      },
+      {
+        "year": 1941,
+        "population": 457401
+      },
+      {
+        "year": 1951,
+        "population": 515697
+      },
+      {
+        "year": 1956,
+        "population": 554616
+      },
+      {
+        "year": 1961,
+        "population": 597936
+      },
+      {
+        "year": 1966,
+        "population": 616788
+      },
+      {
+        "year": 1971,
+        "population": 634557
+      },
+      {
+        "year": 1976,
+        "population": 677250
+      },
+      {
+        "year": 2011,
+        "population": 751171
+      },
+      {
+        "year": 2016,
+        "population": 747101
+      },
+      {
+        "year": 2021,
+        "population": 775610
+      }
+    ],
+    "newfoundland-and-labrador": [
+      {
+        "year": 1951,
+        "population": 361416
+      },
+      {
+        "year": 1956,
+        "population": 415074
+      },
+      {
+        "year": 1961,
+        "population": 457853
+      },
+      {
+        "year": 1966,
+        "population": 493396
+      },
+      {
+        "year": 1971,
+        "population": 522104
+      },
+      {
+        "year": 1976,
+        "population": 557725
+      },
+      {
+        "year": 1981,
+        "population": 567681
+      },
+      {
+        "year": 1986,
+        "population": 568350
+      },
+      {
+        "year": 1991,
+        "population": 568475
+      },
+      {
+        "year": 1996,
+        "population": 551790
+      },
+      {
+        "year": 2001,
+        "population": 512930
+      },
+      {
+        "year": 2006,
+        "population": 505469
+      },
+      {
+        "year": 2011,
+        "population": 514536
+      },
+      {
+        "year": 2016,
+        "population": 519716
+      },
+      {
+        "year": 2021,
+        "population": 510550
+      }
+    ],
+    "northwest-territories": [
+      {
+        "year": 1851,
+        "population": 5700
+      },
+      {
+        "year": 1861,
+        "population": 6691
+      },
+      {
+        "year": 1871,
+        "population": 48000
+      },
+      {
+        "year": 1881,
+        "population": 56446
+      },
+      {
+        "year": 1891,
+        "population": 98967
+      },
+      {
+        "year": 1901,
+        "population": 20129
+      },
+      {
+        "year": 1911,
+        "population": 6507
+      },
+      {
+        "year": 1921,
+        "population": 8143
+      },
+      {
+        "year": 1931,
+        "population": 9316
+      },
+      {
+        "year": 1941,
+        "population": 12028
+      },
+      {
+        "year": 1951,
+        "population": 16004
+      },
+      {
+        "year": 1956,
+        "population": 19313
+      },
+      {
+        "year": 1961,
+        "population": 22998
+      },
+      {
+        "year": 1966,
+        "population": 28738
+      },
+      {
+        "year": 1971,
+        "population": 34807
+      },
+      {
+        "year": 1976,
+        "population": 42609
+      },
+      {
+        "year": 2011,
+        "population": 41462
+      },
+      {
+        "year": 2016,
+        "population": 41786
+      },
+      {
+        "year": 2021,
+        "population": 41070
+      }
+    ],
+    "nova-scotia": [
+      {
+        "year": 1851,
+        "population": 276854
+      },
+      {
+        "year": 1861,
+        "population": 330857
+      },
+      {
+        "year": 1871,
+        "population": 387800
+      },
+      {
+        "year": 1881,
+        "population": 440572
+      },
+      {
+        "year": 1891,
+        "population": 450396
+      },
+      {
+        "year": 1901,
+        "population": 459574
+      },
+      {
+        "year": 1911,
+        "population": 492338
+      },
+      {
+        "year": 1921,
+        "population": 523837
+      },
+      {
+        "year": 1931,
+        "population": 512846
+      },
+      {
+        "year": 1941,
+        "population": 577962
+      },
+      {
+        "year": 1951,
+        "population": 642584
+      },
+      {
+        "year": 1956,
+        "population": 694717
+      },
+      {
+        "year": 1961,
+        "population": 737007
+      },
+      {
+        "year": 1966,
+        "population": 756039
+      },
+      {
+        "year": 1971,
+        "population": 788960
+      },
+      {
+        "year": 1976,
+        "population": 828571
+      },
+      {
+        "year": 2011,
+        "population": 921727
+      },
+      {
+        "year": 2016,
+        "population": 923598
+      },
+      {
+        "year": 2021,
+        "population": 969383
+      }
+    ],
+    "nunavut": [
+      {
+        "year": 2011,
+        "population": 31906
+      },
+      {
+        "year": 2016,
+        "population": 35944
+      },
+      {
+        "year": 2021,
+        "population": 36858
+      }
+    ],
+    "ontario": [
+      {
+        "year": 1851,
+        "population": 952004
+      },
+      {
+        "year": 1861,
+        "population": 1396091
+      },
+      {
+        "year": 1871,
+        "population": 1620851
+      },
+      {
+        "year": 1881,
+        "population": 1926922
+      },
+      {
+        "year": 1891,
+        "population": 2114321
+      },
+      {
+        "year": 1901,
+        "population": 2182947
+      },
+      {
+        "year": 1911,
+        "population": 2527292
+      },
+      {
+        "year": 1921,
+        "population": 2933662
+      },
+      {
+        "year": 1931,
+        "population": 3431683
+      },
+      {
+        "year": 1941,
+        "population": 3787655
+      },
+      {
+        "year": 1951,
+        "population": 4597542
+      },
+      {
+        "year": 1956,
+        "population": 5404933
+      },
+      {
+        "year": 1961,
+        "population": 6236092
+      },
+      {
+        "year": 1966,
+        "population": 6960870
+      },
+      {
+        "year": 1971,
+        "population": 7703106
+      },
+      {
+        "year": 1976,
+        "population": 8264465
+      },
+      {
+        "year": 2011,
+        "population": 12851821
+      },
+      {
+        "year": 2016,
+        "population": 13448494
+      },
+      {
+        "year": 2021,
+        "population": 14223942
+      }
+    ],
+    "prince-edward-island": [
+      {
+        "year": 1851,
+        "population": 62678
+      },
+      {
+        "year": 1861,
+        "population": 80857
+      },
+      {
+        "year": 1871,
+        "population": 94021
+      },
+      {
+        "year": 1881,
+        "population": 108891
+      },
+      {
+        "year": 1891,
+        "population": 109078
+      },
+      {
+        "year": 1901,
+        "population": 103259
+      },
+      {
+        "year": 1911,
+        "population": 93728
+      },
+      {
+        "year": 1921,
+        "population": 88615
+      },
+      {
+        "year": 1931,
+        "population": 88038
+      },
+      {
+        "year": 1941,
+        "population": 95047
+      },
+      {
+        "year": 1951,
+        "population": 98429
+      },
+      {
+        "year": 1956,
+        "population": 99285
+      },
+      {
+        "year": 1961,
+        "population": 104629
+      },
+      {
+        "year": 1966,
+        "population": 108535
+      },
+      {
+        "year": 1971,
+        "population": 111641
+      },
+      {
+        "year": 1976,
+        "population": 118229
+      },
+      {
+        "year": 1981,
+        "population": 122506
+      },
+      {
+        "year": 1986,
+        "population": 126640
+      },
+      {
+        "year": 1991,
+        "population": 129765
+      },
+      {
+        "year": 1996,
+        "population": 134557
+      },
+      {
+        "year": 2001,
+        "population": 135294
+      },
+      {
+        "year": 2011,
+        "population": 140204
+      },
+      {
+        "year": 2016,
+        "population": 142907
+      },
+      {
+        "year": 2021,
+        "population": 154331
+      }
+    ],
+    "quebec": [
+      {
+        "year": 1851,
+        "population": 890261
+      },
+      {
+        "year": 1861,
+        "population": 1111566
+      },
+      {
+        "year": 1871,
+        "population": 1191516
+      },
+      {
+        "year": 1881,
+        "population": 1359027
+      },
+      {
+        "year": 1891,
+        "population": 1488535
+      },
+      {
+        "year": 1901,
+        "population": 1648898
+      },
+      {
+        "year": 1911,
+        "population": 2005776
+      },
+      {
+        "year": 1921,
+        "population": 2360510
+      },
+      {
+        "year": 1931,
+        "population": 2874662
+      },
+      {
+        "year": 1941,
+        "population": 3331882
+      },
+      {
+        "year": 1951,
+        "population": 4055681
+      },
+      {
+        "year": 1956,
+        "population": 4628378
+      },
+      {
+        "year": 1961,
+        "population": 5259211
+      },
+      {
+        "year": 1966,
+        "population": 5780845
+      },
+      {
+        "year": 1971,
+        "population": 6027764
+      },
+      {
+        "year": 1976,
+        "population": 6234445
+      },
+      {
+        "year": 2011,
+        "population": 7903001
+      },
+      {
+        "year": 2016,
+        "population": 8164361
+      },
+      {
+        "year": 2021,
+        "population": 8501833
+      }
+    ],
+    "saskatchewan": [
+      {
+        "year": 1901,
+        "population": 91279
+      },
+      {
+        "year": 1911,
+        "population": 492432
+      },
+      {
+        "year": 1921,
+        "population": 757510
+      },
+      {
+        "year": 1931,
+        "population": 921785
+      },
+      {
+        "year": 1941,
+        "population": 895992
+      },
+      {
+        "year": 1951,
+        "population": 831728
+      },
+      {
+        "year": 1956,
+        "population": 880665
+      },
+      {
+        "year": 1961,
+        "population": 925181
+      },
+      {
+        "year": 1966,
+        "population": 955344
+      },
+      {
+        "year": 1971,
+        "population": 926242
+      },
+      {
+        "year": 1976,
+        "population": 921323
+      },
+      {
+        "year": 2011,
+        "population": 1033381
+      },
+      {
+        "year": 2016,
+        "population": 1098352
+      },
+      {
+        "year": 2021,
+        "population": 1132505
+      }
+    ],
+    "yukon": [
+      {
+        "year": 1901,
+        "population": 27219
+      },
+      {
+        "year": 1911,
+        "population": 8512
+      },
+      {
+        "year": 1921,
+        "population": 4157
+      },
+      {
+        "year": 1931,
+        "population": 4230
+      },
+      {
+        "year": 1941,
+        "population": 4914
+      },
+      {
+        "year": 1951,
+        "population": 9096
+      },
+      {
+        "year": 1956,
+        "population": 12190
+      },
+      {
+        "year": 1961,
+        "population": 14628
+      },
+      {
+        "year": 1966,
+        "population": 14382
+      },
+      {
+        "year": 1971,
+        "population": 18388
+      },
+      {
+        "year": 1976,
+        "population": 21836
+      },
+      {
+        "year": 2011,
+        "population": 33897
+      },
+      {
+        "year": 2016,
+        "population": 35874
+      },
+      {
+        "year": 2021,
+        "population": 40232
+      }
+    ]
+  }
+}

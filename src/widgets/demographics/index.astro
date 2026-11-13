@@ -1,0 +1,557 @@
+---
+/**
+ * Demographic charts from Statistics Canada data (src/data/statcan/*.json).
+ * Every chart is SVG rendered at build time, with a plain-language takeaway
+ * computed from the data and the figures in a table under "Show the data".
+ *
+ *   <tn-widget name="demographics" data-chart="canada"></tn-widget>
+ *
+ * data-chart: canada | provinces | share | immigration | age | median-age
+ */
+import LineChart from "../../components/reference/LineChart.astro";
+import { PLOT_W, compact, niceMax, pct, scale } from "../../lib/charts";
+import { age, formatNumber, formatPeople, immigration, population, type Point } from "../../lib/reference";
+
+interface Props {
+  chart: "canada" | "provinces" | "share" | "immigration" | "age" | "median-age";
+}
+const { chart } = Astro.props;
+
+const latest = population.latestYear;
+const names = new Map(population.geos.map((g) => [g.slug, g.name]));
+const est = population.estimates;
+const value = (pts: Point[] | undefined, year: number) => pts?.find((p) => p.year === year)?.value;
+
+/**
+ * One long series per place: census counts up to 1971, then July 1 estimates
+ * every five years (census years) plus the latest year. The Northwest
+ * Territories and Nunavut start in 1991, the first year in today's boundaries.
+ */
+function longSeries(slug: string): Point[] {
+  const modern = slug === "northwest-territories" || slug === "nunavut";
+  const census = modern ? [] : (population.census[slug] ?? []).filter((p) => p.year >= 1871 && p.year <= 1971);
+  const from = modern ? 1991 : 1976;
+  const later = (est[slug] ?? []).filter((p) => p.year >= from && (p.year % 5 === 1 || p.year === latest));
+  return [...census, ...later];
+}
+
+const growthWord = (ratio: number) =>
+  ratio >= 2 ? `about ${Math.round(ratio)} times` : `up ${Math.round((ratio - 1) * 100)}%`;
+
+const statcan = (pid: string, label: string) => ({ href: `https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=${pid}01`, label });
+const sources = {
+  population: [statcan("1710006701", "table 17-10-0067-01"), statcan("1710000901", "17-10-0009-01")],
+  immigration: [statcan("1710006301", "table 17-10-0063-01"), statcan("1710000801", "17-10-0008-01")],
+  age: [statcan("1710000501", "table 17-10-0005-01")],
+};
+const pctFmt = (v: number) => `${Number(v.toFixed(1))}%`;
+
+// --- Canada ---------------------------------------------------------------
+const canada = longSeries("canada");
+const c0 = canada[0]!;
+const cN = canada.at(-1)!;
+
+// --- Provinces --------------------------------------------------------------
+const provinceSlugs = population.geos.map((g) => g.slug).filter((s) => s !== "canada");
+const panels = provinceSlugs
+  .map((slug) => {
+    const pts = longSeries(slug);
+    return { slug, name: names.get(slug)!, pts, first: pts[0]!, last: pts.at(-1)! };
+  })
+  .sort((a, b) => b.last.value - a.last.value);
+const tableYears = [1901, 1951, 2001, latest];
+
+// --- Share ----------------------------------------------------------------
+const shareYears = [1901, 1951, latest] as const;
+const territories = ["yukon", "northwest-territories", "nunavut"];
+/** Population in a year, from census for 1901 and estimates otherwise. Territories are combined. */
+function pop(slug: string, year: number): number | undefined {
+  if (slug === "territories") {
+    if (year === 1901) return (value(population.census.yukon, 1901) ?? 0) + (value(population.census["northwest-territories"], 1901) ?? 0);
+    if (year < 1991) return (value(est.yukon, year) ?? 0) + (value(est["northwest-territories-including-nunavut"], year) ?? 0);
+    return territories.reduce((n, t) => n + (value(est[t], year) ?? 0), 0);
+  }
+  return year === 1901 ? value(population.census[slug], 1901) : value(est[slug], year);
+}
+const shareRows = [...provinceSlugs.filter((s) => !territories.includes(s)), "territories"]
+  .map((slug) => {
+    const shares = shareYears.map((year) => {
+      const p = pop(slug, year);
+      const total = pop("canada", year)!;
+      // Newfoundland and Labrador joined in 1949.
+      return p && !(slug === "newfoundland-and-labrador" && year < 1949) ? (100 * p) / total : null;
+    });
+    return { slug, name: slug === "territories" ? "The three territories" : names.get(slug)!, shares };
+  })
+  .sort((a, b) => (b.shares[2] ?? 0) - (a.shares[2] ?? 0));
+const shareMax = niceMax(Math.max(...shareRows.flatMap((r) => r.shares.filter((s): s is number => s !== null))), 4);
+const sx = scale(0, shareMax, 0, PLOT_W);
+const shareTicks = [0, shareMax / 4, shareMax / 2, (3 * shareMax) / 4, shareMax];
+const biggestGain = [...shareRows].filter((r) => r.shares[1] !== null).sort((a, b) => b.shares[2]! - b.shares[1]! - (a.shares[2]! - a.shares[1]!))[0]!;
+const biggestLoss = [...shareRows].filter((r) => r.shares[1] !== null).sort((a, b) => a.shares[2]! - a.shares[1]! - (b.shares[2]! - b.shares[1]!))[0]!;
+
+// --- Immigration --------------------------------------------------------------
+const imm = immigration;
+const immMax = imm.reduce((m, p) => (p.immigrants > m.immigrants ? p : m));
+const rateMax = imm.filter((p) => p.per1000 !== null).reduce((m, p) => (p.per1000! > m.per1000! ? p : m));
+const immLast = imm.at(-1)!;
+const immYMax = niceMax(immMax.immigrants, 4);
+const ix = scale(imm[0]!.year, immLast.year + 1, 0, PLOT_W);
+const IMM_H = 220;
+const IMM_TOP = 18;
+const IMM_PLOT = IMM_H - IMM_TOP - 22;
+const iy = scale(0, immYMax, IMM_PLOT, 0);
+const immGrid = [0, immYMax / 4, immYMax / 2, (3 * immYMax) / 4, immYMax];
+const rateSeries = imm.filter((p) => p.per1000 !== null).map((p) => ({ year: p.year, value: p.per1000! }));
+const y1913 = imm.find((p) => p.period === "1913");
+const rateSince1960 = Math.max(...imm.filter((p) => p.year >= 1960 && p.per1000 !== null).map((p) => p.per1000!));
+const decades = imm.filter((p) => p.year % 10 === 0 || p === immLast);
+
+// --- Age ----------------------------------------------------------------------
+const old = age.share65plus.canada ?? [];
+const young = age.share0to14.canada ?? [];
+const crossing = old.find((p) => p.value > (value(young, p.year) ?? Infinity));
+const median = age.medianAge.canada ?? [];
+const m0 = median[0]!;
+const mN = median.at(-1)!;
+const medianLatest = population.geos
+  .filter((g) => g.slug !== "canada")
+  .map((g) => ({ ...g, value: value(age.medianAge[g.slug], mN.year) ?? 0, first: value(age.medianAge[g.slug], m0.year) ?? null }))
+  .sort((a, b) => b.value - a.value);
+const ageMax = niceMax(Math.max(...medianLatest.map((g) => g.value)), 4);
+const ax = scale(0, ageMax, 0, PLOT_W);
+---
+
+<figure class="not-prose my-8 rounded-card border border-subtle bg-surface p-4 shadow-card sm:p-6">
+  {
+    chart === "canada" && (
+      <>
+        <h3 class="font-semibold text-primary">Canada's population, {c0.year} to {cN.year}</h3>
+        <p class="mt-1 text-sm text-secondary">
+          From {formatPeople(c0.value)} people in {c0.year} to {formatPeople(cN.value)} in {cN.year}:{" "}
+          {growthWord(cN.value / c0.value)} as many. Growth sped up after 1945 and again in the last decade.
+        </p>
+        <div class="mt-5">
+          <LineChart
+            title={`Canada's population, ${c0.year} to ${cN.year}`}
+            desc={`Line chart rising from ${formatPeople(c0.value)} in ${c0.year} to ${formatPeople(cN.value)} in ${cN.year}.`}
+            series={[{ label: "Canada", points: canada, stroke: "stroke-accent", fill: "fill-accent", area: true }]}
+            yFormat={compact}
+            endLabels
+            endFormat={(v) => formatPeople(v)}
+            markers={[{ year: 1949, label: "Newfoundland joins" }]}
+            height={260}
+          />
+        </div>
+      </>
+    )
+  }
+
+  {
+    chart === "provinces" && (
+      <>
+        <h3 class="font-semibold text-primary">Population of each province and territory</h3>
+        <p class="mt-1 text-sm text-secondary">
+          Every province has grown, but at very different speeds. Each small chart has its own scale, so compare the
+          shapes, not the heights. The Prairie provinces boomed in the early 1900s, and Alberta and British Columbia have
+          grown fastest among the provinces since the 1950s.
+        </p>
+        <ul class="mt-5 grid gap-x-6 gap-y-5 sm:grid-cols-2">
+          {panels.map((p) => (
+            <li>
+              <p class="flex items-baseline justify-between gap-2 text-sm">
+                <span class="font-semibold text-primary">{p.name}</span>
+                <span class="text-muted tabular-nums">{formatPeople(p.last.value)}</span>
+              </p>
+              <LineChart
+                title={`${p.name}: population, ${p.first.year} to ${p.last.year}`}
+                desc={`From ${formatNumber(p.first.value)} in ${p.first.year} to ${formatNumber(p.last.value)} in ${p.last.year}.`}
+                series={[{ label: p.name, points: p.pts, stroke: "stroke-accent", fill: "fill-accent", area: true }]}
+                yFormat={compact}
+                yTicks={2}
+                xMin={1871}
+                xMax={latest}
+                xTicks={[1871, 1921, 1971, latest]}
+                height={120}
+              />
+            </li>
+          ))}
+        </ul>
+        <details class="mt-6 text-sm">
+          <summary class="cursor-pointer font-medium text-accent hover:text-accent-hover">Show the data</summary>
+          <div class="mt-3 overflow-x-auto rounded-lg border border-subtle">
+            <table class="w-full min-w-[30rem] text-sm">
+              <caption class="sr-only">Population by province and territory in selected years</caption>
+              <thead class="bg-surface-muted text-primary">
+                <tr>
+                  <th scope="col" class="px-3 py-2 ps-4 text-start font-semibold">Place</th>
+                  {tableYears.map((y) => (
+                    <th scope="col" class="px-3 py-2 text-end font-semibold tabular-nums last:pe-4">{y}</th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-subtle text-secondary">
+                {["canada", ...provinceSlugs].map((slug) => (
+                  <tr>
+                    <th scope="row" class="px-3 py-2 ps-4 text-start font-medium text-primary">{names.get(slug)}</th>
+                    {tableYears.map((y) => {
+                      const pts = longSeries(slug);
+                      const v = y <= 1971 ? value(pts, y) : value(est[slug], y);
+                      return <td class="px-3 py-2 text-end tabular-nums last:pe-4">{v ? formatNumber(v) : "—"}</td>;
+                    })}
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+          <p class="mt-2 text-xs text-muted">
+            1901 and 1951 for Canada and the provinces are census counts; later years are July 1 estimates. The Northwest
+            Territories and Nunavut are shown only from 1991, the first year in today's boundaries. A dash means the
+            place wasn't yet part of Canada or didn't exist in its current form.
+          </p>
+        </details>
+      </>
+    )
+  }
+
+  {
+    chart === "share" && (
+      <>
+        <h3 class="font-semibold text-primary">Share of Canada's population: 1901, 1951 and {latest}</h3>
+        <p class="mt-1 text-sm text-secondary">
+          The country's centre of gravity has moved west. Since 1951, {biggestGain.name} has gained the most ground (
+          {pctFmt(biggestGain.shares[1]!)} to {pctFmt(biggestGain.shares[2]!)}), while {biggestLoss.name} has lost the most
+          ({pctFmt(biggestLoss.shares[1]!)} to {pctFmt(biggestLoss.shares[2]!)}).
+        </p>
+        <div class="mt-4 flex flex-wrap gap-x-5 gap-y-1 text-xs text-secondary" aria-hidden="true">
+          <span class="inline-flex items-center gap-1.5">
+            <svg class="size-3" viewBox="0 0 12 12">
+              <circle cx="6" cy="6" r="4.5" class="fill-surface stroke-muted" stroke-width="1.5" />
+            </svg>
+            1901
+          </span>
+          <span class="inline-flex items-center gap-1.5">
+            <svg class="size-3" viewBox="0 0 12 12">
+              <circle cx="6" cy="6" r="5" class="fill-muted" />
+            </svg>
+            1951
+          </span>
+          <span class="inline-flex items-center gap-1.5">
+            <svg class="size-3" viewBox="0 0 12 12">
+              <circle cx="6" cy="6" r="5" class="fill-accent" />
+            </svg>
+            {latest}
+          </span>
+        </div>
+        <div class="mt-3" role="img" aria-label={`Dot chart of each province's share of Canada's population in 1901, 1951 and ${latest}. The figures are in the table under Show the data.`}>
+          {shareRows.map((r) => {
+            const pts = r.shares.map((s) => (s === null ? null : sx(s)));
+            const present = pts.filter((v): v is number => v !== null);
+            return (
+              <div class="grid grid-cols-[7.5rem_1fr] items-center gap-3 border-b border-subtle py-1.5 sm:grid-cols-[11rem_1fr]">
+                <span class="truncate text-xs text-secondary sm:text-sm">{r.name}</span>
+                <svg class="block h-5 w-full overflow-visible" aria-hidden="true">
+                  {shareTicks.map((t) => (
+                    <line x1={pct(sx(t))} x2={pct(sx(t))} y1="0" y2="20" class="stroke-subtle" />
+                  ))}
+                  {present.length > 1 && (
+                    <line
+                      x1={pct(Math.min(...present))}
+                      x2={pct(Math.max(...present))}
+                      y1="10"
+                      y2="10"
+                      class="stroke-strong"
+                      stroke-width="2"
+                    />
+                  )}
+                  {pts[0] !== null && <circle cx={pct(pts[0]!)} cy="10" r="4.5" class="fill-surface stroke-muted" stroke-width="1.5" />}
+                  {pts[1] !== null && <circle cx={pct(pts[1]!)} cy="10" r="5" class="fill-muted" />}
+                  {pts[2] !== null && <circle cx={pct(pts[2]!)} cy="10" r="5" class="fill-accent" />}
+                </svg>
+              </div>
+            );
+          })}
+          <div class="grid grid-cols-[7.5rem_1fr] gap-3 sm:grid-cols-[11rem_1fr]" aria-hidden="true">
+            <span />
+            <svg class="block h-5 w-full overflow-visible">
+              {shareTicks.map((t, i) => (
+                <text
+                  x={pct(sx(t))}
+                  y="15"
+                  text-anchor={i === 0 ? "start" : i === shareTicks.length - 1 ? "end" : "middle"}
+                  class="fill-muted text-[11px] tabular-nums"
+                >
+                  {t}%
+                </text>
+              ))}
+            </svg>
+          </div>
+        </div>
+        <details class="mt-6 text-sm">
+          <summary class="cursor-pointer font-medium text-accent hover:text-accent-hover">Show the data</summary>
+          <div class="mt-3 overflow-x-auto rounded-lg border border-subtle">
+            <table class="w-full min-w-[24rem] text-sm">
+              <caption class="sr-only">Share of Canada's population by province, in percent</caption>
+              <thead class="bg-surface-muted text-primary">
+                <tr>
+                  <th scope="col" class="px-3 py-2 ps-4 text-start font-semibold">Place</th>
+                  {shareYears.map((y) => (
+                    <th scope="col" class="px-3 py-2 text-end font-semibold tabular-nums last:pe-4">{y}</th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-subtle text-secondary">
+                {shareRows.map((r) => (
+                  <tr>
+                    <th scope="row" class="px-3 py-2 ps-4 text-start font-medium text-primary">{r.name}</th>
+                    {r.shares.map((s) => (
+                      <td class="px-3 py-2 text-end tabular-nums last:pe-4">{s === null ? "—" : pctFmt(s)}</td>
+                    ))}
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+          <p class="mt-2 text-xs text-muted">
+            1901 shares use census counts; 1951 and {latest} use July 1 estimates. Newfoundland and Labrador joined in
+            1949. The territories are combined because their boundaries changed in 1999.
+          </p>
+        </details>
+      </>
+    )
+  }
+
+  {
+    chart === "immigration" && (
+      <>
+        <h3 class="font-semibold text-primary">Immigrants admitted each year, {imm[0]!.year} to {immLast.period}</h3>
+        <p class="mt-1 text-sm text-secondary">
+          The most immigrants in one year was {formatNumber(immMax.immigrants)}, in {immMax.period}. But relative to the
+          population, {rateMax.period} still holds the record: {rateMax.per1000} new arrivals for every 1,000 people living
+          here, against {immLast.per1000} in {immLast.period}.
+        </p>
+        <svg class="mt-5 block w-full overflow-visible" height={IMM_H} role="img" aria-labelledby="imm-t imm-d" style="font-variant-numeric: tabular-nums">
+          <title id="imm-t">Immigrants admitted to Canada each year</title>
+          <desc id="imm-d">
+            Bar chart. Arrivals peak before the First World War, collapse in the 1930s and 1940s, and climb from the
+            1990s to a high of {formatNumber(immMax.immigrants)} in {immMax.period}.
+          </desc>
+          {immGrid.map((v) => (
+            <g>
+              <line x1="0" x2="100%" y1={IMM_TOP + iy(v)} y2={IMM_TOP + iy(v)} class:list={[v === 0 ? "stroke-strong" : "stroke-subtle"]} />
+              {v > 0 && (
+                <text x="0" y={IMM_TOP + iy(v) - 5} class="fill-muted text-[11px]">
+                  {compact(v)}
+                </text>
+              )}
+            </g>
+          ))}
+          <svg x="0" y={IMM_TOP} width="100%" height={IMM_PLOT} viewBox={`0 0 ${PLOT_W} ${IMM_PLOT}`} preserveAspectRatio="none">
+            {imm.map((p) => (
+              <rect
+                x={ix(p.year)}
+                width={Math.max(ix(p.year + 1) - ix(p.year) - 1, 1)}
+                y={iy(p.immigrants)}
+                height={IMM_PLOT - iy(p.immigrants)}
+                class:list={[p === immMax || p.period === "1913" ? "fill-accent" : "fill-muted"]}
+              />
+            ))}
+          </svg>
+          {decades
+            .filter((p) => p.year % 20 === 0 && p.year < immLast.year - 8)
+            .map((p) => (
+              <text x={pct(ix(p.year + 0.5))} y={IMM_H - 4} text-anchor="middle" class="fill-muted text-[11px]">
+                {p.year}
+              </text>
+            ))}
+          <text x="100%" y={IMM_H - 4} text-anchor="end" class="fill-muted text-[11px]">
+            {immLast.year}
+          </text>
+          {y1913 && (
+            <text x={pct(ix(1913.5))} dx="6" y={IMM_TOP + iy(y1913.immigrants) + 4} class="fill-primary text-xs font-semibold">
+              1913
+            </text>
+          )}
+        </svg>
+        <div class="mt-6">
+          <p class="text-sm font-medium text-primary">Immigrants per 1,000 people</p>
+          <LineChart
+            title="Immigrants per 1,000 people in Canada, by year"
+            desc={`Line chart. The rate peaks at ${rateMax.per1000} per 1,000 in ${rateMax.period} and has not passed ${Math.ceil(rateSince1960)} per 1,000 since 1960.`}
+            series={[{ label: "Per 1,000 people", points: rateSeries, stroke: "stroke-accent", fill: "fill-accent" }]}
+            yFormat={(v) => String(v)}
+            xMin={imm[0]!.year}
+            xMax={immLast.year}
+            height={160}
+          />
+        </div>
+        <details class="mt-6 text-sm">
+          <summary class="cursor-pointer font-medium text-accent hover:text-accent-hover">Show the data</summary>
+          <div class="mt-3 max-h-80 overflow-auto rounded-lg border border-subtle">
+            <table class="w-full text-sm">
+              <caption class="sr-only">Immigrants admitted to Canada by year, with the rate per 1,000 people</caption>
+              <thead class="sticky top-0 bg-surface-muted text-primary">
+                <tr>
+                  <th scope="col" class="px-3 py-2 ps-4 text-start font-semibold">Year</th>
+                  <th scope="col" class="px-3 py-2 text-end font-semibold">Immigrants</th>
+                  <th scope="col" class="px-3 py-2 pe-4 text-end font-semibold">Per 1,000 people</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-subtle text-secondary">
+                {[...imm].reverse().map((p) => (
+                  <tr>
+                    <th scope="row" class="px-3 py-1.5 ps-4 text-start font-normal tabular-nums">{p.period}</th>
+                    <td class="px-3 py-1.5 text-end tabular-nums">{formatNumber(p.immigrants)}</td>
+                    <td class="px-3 py-1.5 pe-4 text-end tabular-nums">{p.per1000 ?? "—"}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+          <p class="mt-2 text-xs text-muted">
+            Up to 1970, calendar years. From 1971/1972, years run from July 1 to June 30. Counts are new permanent
+            residents; temporary residents such as international students are not included.
+          </p>
+        </details>
+      </>
+    )
+  }
+
+  {
+    chart === "age" && (
+      <>
+        <h3 class="font-semibold text-primary">Children and seniors as a share of the population</h3>
+        <p class="mt-1 text-sm text-secondary">
+          In {old[0]!.year}, {pctFmt(young[0]!.value)} of Canadians were under 15 and {pctFmt(old[0]!.value)} were 65 or
+          older.{" "}
+          {crossing
+            ? `The lines crossed in ${crossing.year}: there are now more seniors than children (${pctFmt(old.at(-1)!.value)} against ${pctFmt(young.at(-1)!.value)} in ${old.at(-1)!.year}).`
+            : ""}
+        </p>
+        <div class="mt-4 flex flex-wrap gap-x-5 gap-y-1 text-xs text-secondary" aria-hidden="true">
+          <span class="inline-flex items-center gap-1.5">
+            <span class="h-0.5 w-4 bg-accent" />
+            Aged 65 and older
+          </span>
+          <span class="inline-flex items-center gap-1.5">
+            <span class="h-0.5 w-4 border-t-2 border-dashed border-secondary" />
+            Aged 0 to 14
+          </span>
+        </div>
+        <div class="mt-3">
+          <LineChart
+            title="Share of Canadians aged 0 to 14 and 65 or older"
+            desc={`Two lines. The share aged 0 to 14 falls from ${pctFmt(young[0]!.value)} to ${pctFmt(young.at(-1)!.value)}; the share 65 or older rises from ${pctFmt(old[0]!.value)} to ${pctFmt(old.at(-1)!.value)}.`}
+            series={[
+              { label: "65 and older", points: old, stroke: "stroke-accent", fill: "fill-accent" },
+              { label: "0 to 14", points: young, stroke: "stroke-secondary", fill: "fill-secondary", dashed: true },
+            ]}
+            yFormat={(v) => `${v}%`}
+            endLabels
+            endFormat={pctFmt}
+            markers={crossing ? [{ year: crossing.year, label: "More seniors than children" }] : []}
+            height={240}
+          />
+        </div>
+        <details class="mt-6 text-sm">
+          <summary class="cursor-pointer font-medium text-accent hover:text-accent-hover">Show the data</summary>
+          <div class="mt-3 max-h-80 overflow-auto rounded-lg border border-subtle">
+            <table class="w-full text-sm">
+              <caption class="sr-only">Share of Canadians aged 0 to 14 and 65 or older, and median age, by year</caption>
+              <thead class="sticky top-0 bg-surface-muted text-primary">
+                <tr>
+                  <th scope="col" class="px-3 py-2 ps-4 text-start font-semibold">Year</th>
+                  <th scope="col" class="px-3 py-2 text-end font-semibold">0 to 14</th>
+                  <th scope="col" class="px-3 py-2 text-end font-semibold">65 and older</th>
+                  <th scope="col" class="px-3 py-2 pe-4 text-end font-semibold">Median age</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-subtle text-secondary">
+                {[...old].reverse().map((p) => (
+                  <tr>
+                    <th scope="row" class="px-3 py-1.5 ps-4 text-start font-normal tabular-nums">{p.year}</th>
+                    <td class="px-3 py-1.5 text-end tabular-nums">{pctFmt(value(young, p.year) ?? 0)}</td>
+                    <td class="px-3 py-1.5 text-end tabular-nums">{pctFmt(p.value)}</td>
+                    <td class="px-3 py-1.5 pe-4 text-end tabular-nums">{value(median, p.year)}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </details>
+      </>
+    )
+  }
+
+  {
+    chart === "median-age" && (
+      <>
+        <h3 class="font-semibold text-primary">Median age by province and territory, {mN.year}</h3>
+        <p class="mt-1 text-sm text-secondary">
+          Half of Canadians are older than {mN.value}, up from {m0.value} in {m0.year}. The oldest populations are in{" "}
+          {medianLatest[0]!.name}, {medianLatest[1]!.name} and {medianLatest[2]!.name}. The youngest, by far, is{" "}
+          {medianLatest.at(-1)!.name}, where half the population is under {medianLatest.at(-1)!.value}.
+        </p>
+        <div class="mt-5" role="img" aria-label={`Bar chart of median age in ${mN.year}. The figures are in the table under Show the data.`}>
+          {medianLatest.map((g) => (
+            <div class="grid grid-cols-[7.5rem_1fr_2.5rem] items-center gap-3 py-1 sm:grid-cols-[11rem_1fr_2.5rem]" aria-hidden="true">
+              <span class="truncate text-xs text-secondary sm:text-sm">{g.name}</span>
+              <svg class="block h-4 w-full">
+                <rect x="0" y="2" width="100%" height="12" rx="2" class="fill-surface-sunken" />
+                <rect x="0" y="2" width={pct(ax(g.value))} height="12" rx="2" class="fill-accent" />
+                <line x1={pct(ax(mN.value))} x2={pct(ax(mN.value))} y1="0" y2="16" class="stroke-primary" stroke-width="1.5" />
+              </svg>
+              <span class="text-end text-xs font-medium text-primary tabular-nums">{g.value.toFixed(1)}</span>
+            </div>
+          ))}
+        </div>
+        <p class="mt-2 text-xs text-muted">The vertical line marks the median age for Canada as a whole ({mN.value}).</p>
+        <details class="mt-4 text-sm">
+          <summary class="cursor-pointer font-medium text-accent hover:text-accent-hover">Show the data</summary>
+          <div class="mt-3 overflow-x-auto rounded-lg border border-subtle">
+            <table class="w-full text-sm">
+              <caption class="sr-only">Median age by province and territory in {m0.year} and {mN.year}</caption>
+              <thead class="bg-surface-muted text-primary">
+                <tr>
+                  <th scope="col" class="px-3 py-2 ps-4 text-start font-semibold">Place</th>
+                  <th scope="col" class="px-3 py-2 text-end font-semibold">{m0.year}</th>
+                  <th scope="col" class="px-3 py-2 pe-4 text-end font-semibold">{mN.year}</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-subtle text-secondary">
+                {[{ slug: "canada", name: "Canada", value: mN.value, first: m0.value }, ...medianLatest].map((g) => (
+                  <tr>
+                    <th scope="row" class="px-3 py-1.5 ps-4 text-start font-medium text-primary">{g.name}</th>
+                    <td class="px-3 py-1.5 text-end tabular-nums">{g.first ?? "—"}</td>
+                    <td class="px-3 py-1.5 pe-4 text-end tabular-nums">{g.value}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+          <p class="mt-2 text-xs text-muted">
+            Figures for the Northwest Territories and Nunavut start in 1991, the first year Statistics Canada reports
+            them in today's boundaries (Nunavut became a separate territory in 1999).
+          </p>
+        </details>
+      </>
+    )
+  }
+
+  <figcaption class="mt-4 border-t border-subtle pt-3 text-xs text-muted">
+    Source: Statistics Canada,{" "}
+    {
+      (chart === "immigration" ? sources.immigration : chart === "age" || chart === "median-age" ? sources.age : sources.population).map(
+        (s, i) => (
+          <>
+            {i > 0 && " and "}
+            <a href={s.href} class="underline decoration-subtle underline-offset-2 hover:text-accent">
+              {s.label}
+            </a>
+          </>
+        ),
+      )
+    }
+    . Open Government Licence – Canada.
+  </figcaption>
+</figure>

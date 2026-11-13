@@ -1,0 +1,889 @@
+{{Short description|None}}
+{{Use Canadian English|date=March 2026}}
+{{Monarchy of Canada sidebar}}
+
+The following is a list of the governors and governors general of Canada. Though the present-day office of the [[Governor General of Canada]] is legislatively covered under the ''[[Constitution Act, 1867]]'' and legally constituted by the ''[[Letters Patent, 1947]]'', the institution is, along with the institution of the Crown it represents, the oldest continuous and uniquely Canadian institution in Canada, having existed in an unbroken line since the appointment of [[Samuel de Champlain]] in 1627.<ref>{{Cite book |url=https://www.canada.ca/content/dam/pch/documents/services/royal-symbols-titles/crnMpls-eng.pdf |title=A Crown of Maples: Constitutional Monarchy in Canada |last=Department of Canadian Heritage |publisher=Queen's Printer for Canada |year=2015 |isbn=978-1-100-20079-8 |location=Ottawa |page=34 }}</ref>
+
+==Lieutenant General/Viceroy of New France, 1541–1627==
+{{further|Lieutenant General of New France}}
+{{sticky header}}
+{| class="wikitable sortable sticky-header-multi" style="text-align:center; border:1px #aaf solid;"
+! rowspan="2" | No.
+! rowspan="2" width="65" class="unsortable" | Portrait
+! rowspan="2" width="250" | Name<br/>{{small|(Birth–Death)}}
+! colspan="3" | Term of office
+! rowspan="2" width="100" | [[List of French monarchs|Monarch]]<br />{{small|Reign}}
+! rowspan="2" class="unsortable" | Ref.
+|-
+! width="85" | {{small|Took office}}
+! width="85" | {{small|Left office}}
+! width="85" | {{small|Duration}}
+|-
+| 1
+| width="65" | [[File:Jean-François de la Roque de Roberval.jpg|100px]]
+| [[Jean-François Roberval]]<br/>{{small|({{circa|1495}}–1560)}}
+| class="nowrap" | 1541
+| class="nowrap" | 1543
+| style="font-size:95%;" | {{age in years|1541|1543}} years
+| [[Francis I of France|Francis I]]<br/>{{small|(1515–1547)}}
+| <ref name="Senate">{{cite web |last=Senate of Canada |title=Canada: A Constitutional Monarchy |url=http://www.parl.gc.ca/About/Senate/Monarchy/SenMonarchy_00-e.htm |url-status=dead |archive-url=https://web.archive.org/web/20110509072741/http://www.parl.gc.ca/About/Senate/Monarchy/SenMonarchy_00-e.htm |archive-date=9 May 2011 |access-date=18 September 2015 |publisher=Queen's Printer for Canada}}</ref><ref name=":0">{{cite DCB|title=La Rocque de Roberval, Jean-François de|first=R.|last=La Roque de Roquebrune|volume=1|url=http://www.biographi.ca/en/bio/la_rocque_de_roberval_jean_francois_de_1E.html}}</ref>
+|- style="height:70px;"
+| rowspan="2" |2
+| rowspan="2" |[[File:Grand Royal Coat of Arms of France.svg|100px]]
+| rowspan="2" |[[Troilus de Mesqouez]]<br/>{{small|(1536–1606)}}
+| rowspan="2" |1578
+| rowspan="2" |unknown
+| rowspan="2" |unknown
+| [[Henry III of France|Henry III]]<br/>{{small|(1574–1589)}}
+| rowspan="2" |<ref name=Senate/><ref name=Gov>{{cite web |last=Government of Canada |title=The Kings and Queens of Canada: The Crown in Canadian History > Henri III (1551–1589) |url=http://canadiancrown.gc.ca/eng/1396027502283 |url-status=dead |archive-url=https://web.archive.org/web/20160128115620/http://canadiancrown.gc.ca/eng/1396027502283 |archive-date=28 January 2016 |access-date=9 October 2014 |publisher=Queen's Printer for Canada}}</ref>
+|- style="height:70px;"
+| rowspan="2" |[[Henry IV of France|Henry IV]]<br/>{{small|(1589–1610)}}
+|-
+| 3
+| [[File:Grand Royal Coat of Arms of France.svg|100px]]
+| [[Aymar de Chaste]]<br/>{{small|(1514–1603)}}
+| 1602
+| 1603
+| {{age in years|1602|1603}} years
+| {{citation needed|reason=no inline citation and the related Wikipedia article doesn't source this claim either|date=October 2017}}
+|-
+| 4
+| [[File:Henri, Prince of Condé.jpg|100px]]
+| [[Henri II, Prince of Condé]]<br/>{{small|(1588–1646)}}
+| 1614
+| 1619
+| {{age in years|1614|1619}} years
+| rowspan="3" |[[Louis XIII]]<br/>{{small|(1610–1643)}}
+| <ref>{{citation |last=Wrong |first=George M. |title=The Chronicles of Canada |url=https://books.google.com/books?id=N1sa7BGgDHQC |volume=II: The Rise of New France |pages=33–35 |year=2009 |editor-last=Langton |editor-first=H. H. |publisher=Fireship Press |isbn=978-1-934757-45-1 |access-date=18 September 2015}}</ref>
+|-
+| 5
+| [[File:Daniel Dumonstier - Portrait d'Henri II de Montmorency (1595-1632) - P1456 - Musée Carnavalet (cropped).jpg|100px]]
+| [[Henri de Montmorency, 4th Duke of Montmorency|Henri II, Duke of Montmorency]]<br/>{{small|(1595–1632)}}
+| 1619
+| 1625
+| {{age in years|1619|1625}} years
+| <ref>{{harvnb|Wrong|2009|p=35}}</ref>
+|-
+| 6
+| [[File:Grand Royal Coat of Arms of France.svg|100px]]
+| Henri de Lévis de Ventadour, [[Duke of Ventadour]]<br/>{{small|(1596–1651)}}
+| 1625
+| 1627
+| {{age in years|1625|1627}} years
+| <ref>{{harvnb|Wrong|2009|p=51}}</ref>
+|}
+
+==Governors of New France, 1627–1663==
+{{main|Governor of New France}}
+{{sticky header}}
+{| class="wikitable sortable sticky-header-multi" style="text-align:center; border:1px #aaf solid;"
+! rowspan="2" | No.
+! rowspan="2" width="65" class="unsortable" | Portrait
+! rowspan="2" width="250" | Name<br/>{{small|(Birth–Death)}}
+! colspan="3" | Term of office
+! rowspan="2" width="100" | [[List of French monarchs|Monarch]]<br />{{small|Reign}}
+|-
+! width="85" | {{small|Took office}}
+! width="85" | {{small|Left office}}
+! width="85" | {{small|Duration}}
+|-
+| 1
+| width="65" | [[File:GG-Champlain.jpg|100px]]
+| [[Samuel de Champlain]]<br/>{{small|(1574–1635)}}
+| class="nowrap" | 1627
+| class="nowrap" | 1635
+| style="font-size:95%;" | {{age in years|1627|1635}} years
+| rowspan="2" | [[Louis XIII]]<br/>{{small|(1610–1643)}}
+|- style="height:64px;"
+| rowspan="2" |2
+| rowspan="2" |[[File:CharlesHuaultMontmagny.jpg|100px]]
+| rowspan="2" |[[Charles de Montmagny]]<br/>{{small|({{circa|1599}}–1654)}}
+| rowspan="2" |1635
+| rowspan="2" |1648
+| rowspan="2" |{{age in years|1635|1648}} years
+|- style="height:64px;"
+| rowspan="5" |[[Louis XIV]]<br/>{{small|(1643–1715)}}
+|-
+| 3
+| [[File:Louis d'Ailleboust de Coulonge.jpg|100px]]
+| [[Louis d'Ailleboust de Coulonge]]<br/>{{small|({{circa|1612}}–1660)}}
+| 1648
+| 1651
+| {{age in years|1648|1651}} years
+|-
+| 4
+| [[File:Lausonjean.JPG|100px]]
+| [[Jean de Lauson]]<br/>{{small|(1584–1666)}}
+| 1651
+| 1657
+| {{age in years|1651|1657}} years
+|-
+| 5
+| [[File:Pierre de Voyer d'Argenson.png|100px]]
+| [[Pierre de Voyer d'Argenson, Vicomte de Mouzay]]<br/>{{small|({{circa|1599}}–1654)}}
+| 1658
+| 1661
+| {{age in years|1658|1661}} years
+|-
+| 6
+| [[File:Pierre du Bois d'Avaugour.jpg|100px]]
+| [[Pierre Dubois Davaugour]]<br/>{{small|(1625–1709)}}
+| 1661
+| 1663
+| {{age in years|1661|1663}} years
+|}
+
+==Governors general of New France, 1663–1760==
+{{main|Governor General of New France}}
+{{sticky header}}
+{| class="wikitable sortable sticky-header-multi" style="text-align:center; border:1px #aaf solid;"
+|-
+! rowspan="2" | No.
+! rowspan="2" width="65" class="unsortable" | Portrait
+! rowspan="2" width="250" | Name<br />{{small|(Birth–Death)}}
+! colspan="3" | Term of office
+! rowspan="2" width="100" | [[List of French monarchs|Monarch]]<br />{{small|Reign}}
+|-
+! width="85" | {{small|Took office}}
+! width="85" | {{small|Left office}}
+! width="85" | {{small|Duration}}
+|-
+| 1
+| [[File:Augustin de Saffray de Mezy.jpg|100px]]
+| [[Augustin de Saffray de Mésy]]<br/>{{small|(1598–1665)}}
+| 1663
+| 1665
+| {{age in years|1663|1665}} years
+| rowspan="8" |[[Louis XIV]]<br/>{{small|(1643–1715)}}
+|-
+| 2
+| [[File:Portrait of Daniel de Rémy de Courcelle.jpg|100px]]
+| [[Daniel de Rémy de Courcelle]]<br/>{{small|(1626–1698)}}
+| 1665
+| 1672
+| {{age in years|1665|1672}} years
+|-
+| 3
+| [[File:Portrait of Louis de Buade, Count of Frontenac (cropped).jpg|100px]]
+| [[Louis de Buade de Frontenac|Louis de Buade, Count of Frontenac]]<br/>{{small|(1622–1698)}}
+| 1672
+| 1682
+| {{age in years|1672|1682}} years
+|-
+| 4
+| [[File:Joseph-Antoine Le Febvre de La Barre.jpg|100px]]
+| [[Antoine Lefèbvre de La Barre|Joseph-Antoine le Fèbvre, Sieur of La Barre]]<br/>{{small|(1622–1688)}}
+| 1682
+| 1685
+| {{age in years|1682|1685}} years
+|-
+| 5
+| [[File:Jacques-Rene de Brisay, Marquis de Denonville.jpg|100px]]
+| [[Jacques-René de Brisay, Marquis de Denonville]]<br/>{{small|(1637–1710)}}
+| 1685
+| 1689
+| {{age in years|1685|1689}} years
+|-
+| (3)
+| [[File:Portrait of Louis de Buade, Count of Frontenac (cropped).jpg|100px]]
+| [[Louis de Buade de Frontenac|Louis de Buade, Count of Frontenac]]<br/>{{small|(1622–1698)}}
+| 1689
+| 1698
+| {{age in years|1689|1698}} years
+|-
+| 6
+| [[File:Hector-Calliere.jpg|100px]]
+| [[Louis-Hector de Callière]]<br />{{small|(1648–1703)}}
+| 1698
+| 1703
+| {{age in years|1698|1703}} years
+|- style="height:60px;"
+| rowspan="2" |7
+| rowspan="2" |[[File:GG-Vaudreuil.jpg|100px]]
+| rowspan="2" |[[Philippe de Rigaud, Marquis de Vaudreuil]]<br/>{{small|(1643–1725)}}
+| rowspan="2" |1703
+| rowspan="2" |1725
+| rowspan="2" |{{age in years|1703|1725}} years
+|-
+| rowspan="6" |[[Louis XV]]<br/>{{small|(1715–1774)}}
+|-
+| 8
+| [[File:Marquis de Beauharnois.jpg|100px]]
+| [[Charles de la Boische, Marquis de Beauharnois]]<br/>{{small|(1671–1749)}}
+| 1725
+| 1747
+| {{age in years|1725|1747}} years
+|-
+| 9
+| [[File:GG-La Galissoniere.jpg|100px]]
+| [[Roland-Michel Barrin de La Galissonière]]<br/>{{small|(1693–1756)}}
+| 1747
+| 1749
+| {{age in years|1747|1749}} years
+|-
+| 10
+| [[File:GG-Jonquiere.jpg|100px]]
+| [[Jacques-Pierre de Taffanel de la Jonquière, Marquis de la Jonquière]]<br/>{{small|(1685–1752)}}
+| 1749
+| 1752
+| {{age in years|1749|1752}} years
+|-
+| 11
+| [[File:GG-Quesne.jpg|100px]]
+| [[Michel-Ange Duquesne de Menneville]], Marquess Duquesne<br/>{{small|(c. 1700–1778)}}
+| 1752
+| 1755
+| {{age in years|1752|1755}} years
+|-
+| 12
+| [[File:GG-Vaudreuil2.jpg|100px]]
+| [[Pierre de Rigaud, marquis de Vaudreuil-Cavagnial]]<br/>{{small|(1698–1778)}}
+| 1755
+| 1760
+| {{age in years|1755|1760}} years
+|}
+
+==Governors of the Province of Quebec, 1760–1786==
+Following the [[Seven Years' War]], control passed from France to Great Britain in the terms of the [[Treaty of Paris (1763)|Treaty of Paris]], creating the British [[Province of Quebec (1763–1791)|Province of Quebec]]. Governors subsequently served under the [[Monarchy of the United Kingdom|British monarchy]].
+{{sticky header}}
+{| class="wikitable sortable sticky-header-multi" style="text-align:center; border:1px #aaf solid;"
+! rowspan="2" | No.
+! rowspan="2" width="65" class="unsortable" | Portrait
+! rowspan="2" width="250" | Name<br/>{{small|(Birth–Death)}}
+! colspan="3" | Term of office
+! rowspan="2" width="100" | [[List of British monarchs|Monarch]]<br />{{small|Reign}}
+|-
+! width="85" | {{small|Took office}}
+! width="85" | {{small|Left office}}
+! width="85" | {{small|Duration}}
+|-
+| 1
+| [[File:Jeffrey Amherst, 1st Baron Amherst.jpg|100px]]
+| [[Jeffery Amherst, 1st Baron Amherst|Jeffery Amherst]]<br/>{{small|(1717–1797)}}
+| 1760
+| 1763
+| {{age in years|1760|1763}} years
+| rowspan="4" |[[George III]]<br/>{{small|(1760–1820)}}
+|-
+| 2
+| [[File:James Murray from NPG.jpg|100px]]
+| [[James Murray (British Army officer, born 1721)|James Murray]]<br/>{{small|(1721–1794)}}
+| 1764
+| 1768
+| {{age in years|1763|1768}} years
+|-
+| 3
+| [[File:Guy Carleton.webp|100px]]
+| [[Guy Carleton, 1st Baron Dorchester|Guy Carleton]]<br/>{{post-nominals|country=UK|KB|sep=,|size=75%}}<br />{{small|(1724–1808)}}
+| 1768
+| 1778
+| {{age in years|1768|1778}} years
+|-
+| 4
+| [[File:Sir Frederick Haldimand by Sir Joshua Reynolds.jpg|100px]]
+| Sir [[Frederick Haldimand]]<br/>{{post-nominals|country=UK|KB|sep=,|size=75%}}<br />{{small|(1724–1808)}}
+| 1778
+| 1786
+| {{age in years|1778|1786}} years
+|}
+
+==Governors general of the Canadas/British North America, 1786–1841==
+{{sticky header}}
+{| class="wikitable sortable sticky-header-multi" style="text-align:center; border:1px #aaf solid;"
+! rowspan="2" | No.
+! rowspan="2" width="65" class="unsortable" | Portrait
+! rowspan="2" width="250" | Name<br/>{{small|(Birth–Death)}}
+! colspan="3" | Term of office
+! rowspan="2" width="100" | [[List of British monarchs|Monarch]]<br />{{small|Reign}}
+|-
+! width="85" | {{small|Took office}}
+! width="85" | {{small|Left office}}
+! width="85" | {{small|Duration}}
+|-
+| 1
+| [[File:Guy Carleton.webp|100px]]
+| [[Guy Carleton, 1st Baron Dorchester]]<br/>{{post-nominals|country=UK|KB|sep=,|size=75%}}<br />{{small|(1724–1808)}}
+| 1786
+| 1796
+| {{age in years|1786|1796}} years
+| rowspan="9" |[[George III]]<br/>{{small|(1760–1820)}}
+|-
+| 2
+| [[File:GG-Robert Prescott.jpg|100px]]
+| [[Robert Prescott]]<br/>{{small|({{circa|1726}}–1815)}}
+| 1796
+| 1799
+| {{age in years|1796|1799}} years
+|-
+| 3
+| [[File:George Romney - Sir Robert Shore Milnes.jpg|100px]]
+| [[Sir Robert Milnes, 1st Baronet]]<br/>{{small|(1754–1837)}}
+| 1799
+| 1805
+| {{age in years|1799|1805}} years
+|-
+| 4
+| [[File:Can GG NoPic.svg|100px]]
+| [[Thomas Dunn (lieutenant-governor)|Thomas Dunn]]<br/>{{small|(1729–1818)}}
+| 1805
+| 1807
+| {{age in years|1805|1807}} years
+|-
+| 5
+| [[File:James Henry Craig 1806.jpg|100px]]
+| Sir [[James Henry Craig]]<br/>{{post-nominals|country=UK|KB|sep=,|size=75%}}<br />{{small|(1748–1812)}}
+| 1807
+| 1811
+| {{age in years|1807|1811}} years
+|-
+| 6
+| [[File:Georgeprevost.JPG|100px]]
+| Sir [[George Prevost]], 1st Baronet<br/>{{small|(1767–1816)}}
+| 1811
+| 1815
+| {{age in years|1811|1815}} years
+|-
+| 7
+| [[File:General Gordon Drummond.jpg|100px]]
+| Sir [[Gordon Drummond]]<br/>{{small|(1772–1854)}}
+| 1815
+| 1816
+| {{age in years|1815|1816}} years
+|-
+| 8
+| [[File:Lt. Genl. Sir John Coape Sherbrooke. G.C.B (cropped).jpg|100px]]
+| Sir [[John Coape Sherbrooke]]<br/>{{small|(1764–1830)}}
+| 1816
+| 1818
+| {{age in years|1816|1818}} years
+|-
+| 9
+| [[File:Henry Hoppner Meyer10.jpg|100px]]
+| [[Charles Lennox, 4th Duke of Richmond]]<br/>{{post-nominals|country=UK|KG|PC|sep=,|size=75%}}<br />{{small|(1764–1819)}}
+| 1818
+| 1819
+| {{age in years|1818|1819}} years
+|-
+| 10
+| [[File:George Ramsay, 9th Earl of Dalhousie, from the National Gallery of Canada (cropped).jpg|100px]]
+| [[George Ramsay, 9th Earl of Dalhousie]]<br/>{{post-nominals|country=UK|GCB|sep=,|size=75%}}<br />{{small|(1770–1838)}}
+| 1820
+| 1828
+| {{age in years|1820|1828}} years
+| rowspan="2" |[[George IV]]<br/>{{small|(1820–1830)}}
+|-
+| 11
+| [[File:Sir James Kempt by William Salter cropped 5 6 ratio.jpg|100px]]
+| Sir [[James Kempt]]<br/>{{post-nominals|country=UK|GCB|sep=,|size=75%}}<br />{{small|(c. 1765–1854)}}
+| 1828
+| 1830
+| {{age in years|1828|1830}} years
+|-
+| 12
+| [[File:Matthew Whitworth-Aylmer.jpg|100px]]
+| [[Matthew Whitworth-Aylmer, 5th Baron Aylmer]]<br/>{{small|(1775–1850)}}
+| 1830
+| 1835
+| {{age in years|1830|1835}} years
+| rowspan="2" |[[William IV]]<br/>{{small|(1830–1837)}}
+|-
+| 13
+| [[File:Archibald Earl of Gosford. (BM 1853,0112.2138) (cropped1).jpg|100px]]
+| [[Archibald Acheson, 2nd Earl of Gosford]]<br/>{{post-nominals|country=UK|GCB|sep=,|size=75%}}<br />{{small|(1776–1849)}}
+| 1835
+| 1837
+| {{age in years|1835|1837}} years
+|-
+| 14
+| [[File:Field Marshal Sir John Colborne (1778–1863), 1st Baron Seaton, GCB, GCH.jpg|100px]]
+| Sir [[John Colborne, 1st Baron Seaton|John Colborne]]<br/>{{small|(1778–1863)}}
+| 1837
+| 1838
+| {{age in years|1837|1838}} years
+| rowspan="3" |[[Queen Victoria|Victoria]]<br/>{{small|(1837–1901)}}
+|-
+| 15
+| [[File:John George Lambton, 1st Earl of Durham by Thomas Phillips.jpg|100px]]
+| [[John Lambton, 1st Earl of Durham]]<br/>{{small|(1792–1840)}}
+| 1838
+| 1839
+| {{age in years|1838|1839}} years
+|-
+| 16
+| [[File:GG-Charles Poulett Thomson.jpg|100px]]
+| [[Charles Poulett Thomson, 1st Baron Sydenham]]<br/>{{post-nominals|country=UK|PC|sep=,|size=75%}}<br />{{small|(1799–1841)}}
+| 1839
+| 1841
+| {{age in years|1839|1841}} years
+|}
+
+==Governors general of the Province of Canada, 1841–1867==
+{{main|Governor General of the Province of Canada}}
+{{sticky header}}
+{| class="wikitable sortable sticky-header-multi" style="text-align:center; border:1px #aaf solid;"
+! rowspan="2" | No.
+! rowspan="2" width="65" class="unsortable" | Portrait
+! rowspan="2" width="250" | Name<br/>{{small|(Birth–Death)}}
+! colspan="3" | Term of office
+! rowspan="2" width="100" | [[List of British monarchs|Monarch]]<br />{{small|Reign}}
+|-
+! width="85" | {{small|Took office}}
+! width="85" | {{small|Left office}}
+! width="85" | {{small|Duration}}
+|-
+| 1
+| [[File:GG-Charles Poulett Thomson.jpg|100px]]
+| [[Charles Poulett Thomson, 1st Baron Sydenham]]<br/>{{post-nominals|country=UK|PC|sep=,|size=75%}}<br/>{{small|(1799–1841)}}
+| {{Small|5 February}}<br/>1841
+| {{Small|19 September}}<br/>1841
+| {{ayd|1841|02|05|1841|09|19}}
+| rowspan="7" |[[Queen Victoria|Victoria]]<br/>{{small|(1837–1901)}}
+|-
+| 2
+| [[File:SirCharlesBagot.JPG|100px]]
+| Sir [[Charles Bagot]]<br/>{{small|(1781–1843)}}
+| {{Small|12 January}}<br/>1842
+| {{Small|19 May}}<br/>1843
+| {{ayd|1842|01|12|1843|05|19}}
+|-
+| 3
+| [[File:Charles Theophilus Metcalfe, 1st Baron Metcalfe by George Chinnery.jpg|100px]]
+| [[Charles Metcalfe, 1st Baron Metcalfe]]<br/>{{post-nominals|country=UK|Bt|PC|sep=,|size=75%}}<br/>{{small|(1785–1846)}}
+| {{Small|30 May}}<br/>1843
+| {{Small|26 November}}<br/>1845
+| {{ayd|1843|05|30|1845|11|26}}
+|-
+| 4
+| [[File:GG-Charles Murray Cathcart.jpg|100px]]
+| [[Charles Cathcart, 2nd Earl Cathcart]]<br/>{{post-nominals|country=UK|GCB|sep=,|size=75%}}<br/>{{small|(1783–1859)}}
+| {{Small|26 November}}<br/>1845
+| {{Small|30 January}}<br/>1847
+| {{ayd|1845|11|26|1847|01|30}}
+|-
+| 5
+| [[File:GG-James Bruce Elgin.jpg|100px]]
+| [[James Bruce, 8th Earl of Elgin]]<br/>{{post-nominals|country=UK|PC|GCB|sep=,|size=75%}}<br/>{{small|(1811–1863)}}
+| {{Small|30 January}}<br/>1847
+| {{Small|19 December}}<br/>1854
+| {{ayd|1847|01|30|1854|12|19}}
+|-
+| 6
+| [[File:GG-Edmund Walker Head.jpg|100px]]
+| Sir [[Edmund Walker Head]], Baronet<br/>{{post-nominals|country=UK|KCB|sep=,|size=75%}}<br />{{small|(1805–1868)}}
+| {{Small|19 December}}<br/>1854
+| {{Small|25 October}}<br/>1861
+| {{ayd|1854|12|19|1861|10|25}}
+|-
+| 7
+| [[File:GG-Charles Monck.jpg|100px]]
+| [[Charles Monck, 4th Viscount Monck]]<br/>{{post-nominals|country=UK|PC|GCMG|sep=,|size=75%}}<br/>{{small|(1819–1894)}}
+| {{Small|25 October}}<br/>1861
+| {{Small|1 July}}<br/>1867
+| {{ayd|1861|10|25|1867|07|01}}
+|}
+
+==Governors general of Canada, 1867–present==
+{{main|Governor General of Canada}}
+{{sticky header}}
+{| class="wikitable sortable sticky-header-multi" style="text-align:center; border:1px #aaf solid;"
+! rowspan="2" | No.
+! rowspan="2" width="65" class="unsortable" | Portrait
+! rowspan="2" width="250" | Name<br/>{{small|(Birth–Death)}}
+! rowspan="2" | Profession
+! colspan="3" | Term of office
+! rowspan="2" width="100" | [[List of British monarchs|Monarch]]<br />{{small|Reign}}
+! rowspan="2" width="100" | [[List of prime ministers of Canada|Prime Minister]]<br />{{small|Term of office}}
+! rowspan="2" class="unsortable" | Ref.
+|-
+! width="85" | {{small|Took office}}
+! width="85" | {{small|Left office}}
+! width="85" | {{small|Duration}}
+|-
+| 1
+| [[File:GG-Charles Monck.jpg|100px]]
+| [[Charles Monck, 4th Viscount Monck]]<br/>{{small|(1819–1894)}}
+| Politician
+| {{Small|1 July}}<br/>1867
+| {{Small|14 November}}<br/>1868
+| {{ayd|1867|07|01|1868|11|14}}
+| rowspan="15" |[[Queen Victoria|Victoria]]<br/>{{small|(1837–1901)}}
+| rowspan="3" |Sir [[John A. Macdonald]]<br/>{{small|(1867–1873)}}
+| <ref>{{cite web |title=The Viscount Monck |url=https://www.gg.ca/en/governor-general/former-governors-general/viscount-monck |website=The Governor General of Canada |date=3 March 2017 |publisher=Office of the Secretary to the Governor General}}</ref>
+|-
+| 2
+| [[File:GG-John Young.jpg|100px]]
+| [[John Young, 1st Baron Lisgar]]<br/>{{small|(1807–1876)}}
+| Politician
+| {{Small|14 November}}<br/>1868
+| {{Small|25 June}}<br/>1872
+| {{ayd|1869|02|02|1872|06|25}}
+| <ref>{{cite web |title=Sir John Young, Baron Lisgar |url=https://www.thecanadianencyclopedia.ca/en/article/sir-john-young-baron-lisgar |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|- style="height:40px;"
+| rowspan="3" |3
+| rowspan="3" |[[File:GG-Frederick Hamilton-Temple-Blackwood.jpg|100px]]
+| rowspan="3" |[[Frederick Hamilton-Temple-Blackwood, 1st Marquess of Dufferin and Ava|Frederick Hamilton-Temple-Blackwood, 1st Earl of Dufferin]]<br/>{{small|(1826–1902)}}
+| rowspan="3" |Diplomat
+| rowspan="3" |{{Small|25 June}}<br/>1872
+| rowspan="3" |{{Small|25 November}}<br/>1878
+| rowspan="3" |{{ayd|1872|06|25|1878|11|25}}
+| rowspan="3" |<ref>{{cite web |last1=Harris |first1=Carolyn |title=Lord Dufferin |url=https://www.thecanadianencyclopedia.ca/en/article/frederick-temple-blackwood-1st-marquess-of-dufferin-and-ava |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|-
+| [[Alexander Mackenzie (politician)|Alexander Mackenzie]]<br/>{{small|(1873–1878)}}
+|- style="height:40px;"
+| rowspan="4" |Sir John A. Macdonald<br/>{{small|(1878–1891)}}
+|-
+| 4
+| [[File:DENT(1881) 1.011 John Campbell, Marquess of Lorne (Governor General of Canada).jpg|100px]]
+| [[John Campbell, 9th Duke of Argyll|John Campbell, Marquess of Lorne]]<br/>{{small|(1845–1914)}}
+| Author,<br />politician
+| {{Small|25 November}}<br/>1878
+| {{Small|23 October}}<br/>1883
+| {{ayd|1878|11|25|1883|10|23}}
+| <ref>{{cite web |last1=Harris |first1=Carolyn |title=John Douglas Sutherland Campbell, Marquess of Lorne |url=https://www.thecanadianencyclopedia.ca/en/article/john-douglas-sutherland-campbell-marquess-of-lorne |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|-
+| 5
+| [[File:GG-Henry Petty-FitzMaurice.jpg|100px]]
+| [[Henry Petty-Fitzmaurice, 5th Marquess of Lansdowne]]<br/>{{small|(1845–1927)}}
+| Politician
+| {{Small|23 October}}<br/>1883
+| {{Small|11 June}}<br/>1888
+| {{ayd|1883|10|23|1888|06|11}}
+| <ref>{{cite web |last1=Harris |first1=Carolyn |title=The Marquess of Landsdowne, Governor General of Canada |url=https://www.thecanadianencyclopedia.ca/en/article/henry-charles-keith-petty-fitzmaurice-5th-marquess-of-lansdowne |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|- style="height:40px;"
+| rowspan="3" |6
+| rowspan="3" |[[File:GG-Frederick Stanley.jpg|100px]]
+| rowspan="3" |[[Frederick Stanley, 16th Earl of Derby|Frederick Stanley, Lord Stanley of Preston]]<br/>{{small|(1841–1908)}}
+| rowspan="3" |Politician
+| rowspan="3" |{{Small|11 June}}<br/>1888
+| rowspan="3" |{{Small|18 September}}<br/>1893
+| rowspan="3" |{{ayd|1888|06|11|1893|09|18}}
+| rowspan="3" |<ref>{{cite web |last1=Harris |first1=Carolyn |title=Lord Stanley |url=https://www.thecanadianencyclopedia.ca/en/article/frederick-arthur-stanley-baron-stanley-of-preston-16th-earl-of-derby |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|-
+| Sir [[John Abbott]]<br/>{{small|(1891–1892)}}
+|- style="height:40px;"
+| rowspan="2" |Sir [[John Sparrow David Thompson]]<br/>{{small|(1892–1894)}}
+|-
+| rowspan="4" |7
+| rowspan="4" |[[File:John Hamilton Gordon Earl of Aberdeen 1884.jpg|100px]]
+| rowspan="4" |[[John Hamilton-Gordon, 1st Marquess of Aberdeen and Temair|John Hamilton-Gordon, 7th Earl of Aberdeen]]<br/>{{small|(1847–1934)}}
+| rowspan="4" |Politician
+| rowspan="4" |{{Small|18 September}}<br/>1893
+| rowspan="4" |{{Small|12 November}}<br/>1898
+| rowspan="4" |{{ayd|1893|09|18|1898|11|12}}
+| rowspan="4" |<ref>{{cite web |last1=Harris |first1=Carolyn |title=John Campbell Hamilton-Gordon, Earl of Aberdeen |url=https://www.thecanadianencyclopedia.ca/en/article/john-campbell-gordon-1st-marquess-of-aberdeen |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|-
+| Sir [[Mackenzie Bowell]]<br/>{{small|(1894–1896)}}
+|-
+| Sir [[Charles Tupper]]<br/>{{small|(1896)}}
+|- style="height:40px;"
+| rowspan="5" |Sir [[Wilfrid Laurier]]<br/>{{small|(1896–1911)}}
+|- style="height:60px;"
+| rowspan="2" |8
+| rowspan="2" |[[File:GG-Gilbert Elliot-Murray-Kynynmound.jpg|100px]]
+| rowspan="2" |[[Gilbert Elliot-Murray-Kynynmound, 4th Earl of Minto]]<br/>{{small|(1845–1914)}}
+| rowspan="2" |Military officer
+| rowspan="2" |{{Small|12 November}}<br/>1898
+| rowspan="2" |{{Small|10 December}}<br/>1904
+| rowspan="2" |{{ayd|1898|11|12|1904|12|10}}
+| rowspan="2" |<ref>{{cite web |last1=Harris |first1=Carolyn |title=Gibert John Murray Kynynmound Elliot, 4th Earl of Minto |url=https://www.thecanadianencyclopedia.ca/en/article/gilbert-john-murray-kynynmond-elliot-4th-earl-of-minto |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|-
+| rowspan="2" |[[Edward VII]]<br/>{{small|(1901–1910)}}
+|- style="height:60px;"
+| rowspan="3" |9
+| rowspan="3" |[[File:GG-Albert Grey.jpg|100px]]
+| rowspan="3" |[[Albert Grey, 4th Earl Grey]]<br/>{{small|(1851–1917)}}
+| rowspan="3" |Politician
+| rowspan="3" |{{Small|10 December}}<br/>1904
+| rowspan="3" |{{Small|13 October}}<br/>1911
+| rowspan="3" |{{ayd|1904|12|10|1911|10|13}}
+| rowspan="3" |<ref>{{cite web |title=Albert Grey, 4th Earl Grey |url=https://www.thecanadianencyclopedia.ca/en/article/albert-grey-4th-earl-grey |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|- style="height:60px;"
+| rowspan="14" |[[George V]]<br/>{{small|(1910–1936)}}
+|- style="height:50px;"
+| rowspan="3" |Sir [[Robert Borden]]<br/>{{small|(1911–1920)}}
+|-
+| 10
+| [[File:GG-Prince Arthur.jpg|100px]]
+| [[Prince Arthur, Duke of Connaught and Strathearn]]<br/>{{small|(1850–1942)}}
+| Military officer
+| {{Small|13 October}}<br/>1911
+| {{Small|11 November}}<br/>1916
+| {{ayd|1911|10|13|1916|11|11}}
+| <ref>{{cite web |last1=Harris |first1=Carolyn |title=Prince Arthur, 1st Duke of Connaught and Strathearn |url=https://www.thecanadianencyclopedia.ca/en/article/prince-arthur-1st-duke-of-connaught-and-strathearn |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|- style="height:60px;"
+| rowspan="2" |11
+| rowspan="2" |[[File:GG-Victor Cavendish.jpg|100px]]
+| rowspan="2" |[[Victor Cavendish, 9th Duke of Devonshire]]<br/>{{small|(1868–1938)}}
+| rowspan="2" |Politician
+| rowspan="2" |{{Small|11 November}}<br/>1916
+| rowspan="2" |{{Small|11 August}}<br/>1921
+| rowspan="2" |{{ayd|1916|11|11|1921|08|11}}
+| rowspan="2" |<ref>{{cite web |last1=Harris |first1=Carolyn |title=Victor Cavendish, 9th Duke of Devonshire |url=https://www.thecanadianencyclopedia.ca/en/article/victor-cavendish-9th-duke-of-devonshire |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|-
+| rowspan="2" |[[Arthur Meighen]]<br/>{{small|(1920–1921)}}
+|- style="height:50px;"
+| rowspan="4" |12
+| rowspan="4" |[[File:GG-Julian Byng.jpg|100px]]
+| rowspan="4" |[[Julian Byng, 1st Viscount Byng of Vimy]]<br/>{{small|(1862–1935)}}
+| rowspan="4" |Military officer
+| rowspan="4" |{{Small|11 August}}<br/>1921
+| rowspan="4" |{{Small|2 October}}<br/>1926
+| rowspan="4" |{{ayd|1921|08|11|1926|10|02}}
+| rowspan="4" |<ref>{{cite web |last1=Harris |first1=Carolyn |title=Viscount Byng of Vimy |url=https://www.thecanadianencyclopedia.ca/en/article/julian-byng-1st-viscount-byng-of-vimy |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|-
+| [[William Lyon Mackenzie King]]<br/>{{small|(1921–1926)}}
+|-
+| Arthur Meighen<br/>{{small|(1926)}}
+|- style="height:50px;"
+| rowspan="2" |William Lyon Mackenzie King<br/>{{small|(1926–1930)}}
+|-
+| rowspan="2" |13
+| rowspan="2" |[[File:GG-Freeman Freeman-Thomas.jpg|100px]]
+| rowspan="2" |[[Freeman Freeman-Thomas, 1st Marquess of Willingdon]]<br/>{{small|(1866–1941)}}
+| rowspan="2" |Politician
+| rowspan="2" |{{Small|2 October}}<br/>1926
+| rowspan="2" |{{Small|4 April}}<br/>1931
+| rowspan="2" |{{ayd|1926|10|02|1931|04|04}}
+| rowspan="2" |<ref>{{cite web |title=The Marquess of Willingdon |url=https://archive.gg.ca/gg/fgg/bios/01/willingdon_e.asp |access-date=September 16, 2020 |website=Governor General of Canada |publisher=Office of the Governor General}}</ref>
+|- style="height:60px;"
+| rowspan="2" |[[R.B. Bennett]]<br/>{{small|(1930–1935)}}
+|- style="height:60px;"
+| rowspan="2" |14
+| rowspan="2" |[[File:GG-Vere Ponsonby.jpg|100px]]
+| rowspan="2" |[[Vere Ponsonby, 9th Earl of Bessborough]]<br/>{{small|(1880–1956)}}
+| rowspan="2" |Businessman
+| rowspan="2" |{{Small|4 April}}<br/>1931
+| rowspan="2" |{{Small|2 November}}<br/>1935
+| rowspan="2" |{{ayd|1931|04|04|1935|11|02}}
+| rowspan="2" |<ref>{{cite web |last1=Hillmer |first1=Norman |title=Vere Barbazon Ponsonby, 9th Earl of Bessborough |url=https://www.thecanadianencyclopedia.ca/en/article/vere-brabazon-ponsonby-9th-earl-of-bessborough |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|- style="height:60px;"
+| rowspan="6" |William Lyon Mackenzie King<br/>{{small|(1935–1948)}}
+|- style="height:60px;"
+| rowspan="3" |15
+| rowspan="3" |[[File:GG-John Buchan.jpg|100px]]
+| rowspan="3" |[[John Buchan]], 1st Baron Tweedsmuir<br/>{{small|(1875–1940)}}
+| rowspan="3" |Author, Politician
+| rowspan="3" |{{Small|2 November}}<br/>1935
+| rowspan="3" |{{Small|11 February}}<br/>1940
+| rowspan="3" |{{ayd|1935|11|02|1940|2|11}}
+| rowspan="3" |<ref>{{cite web |last1=Hillmer |first1=Norman |title=John Buchan, 1st Baron Tweedsmuir |url=https://www.thecanadianencyclopedia.ca/en/article/john-buchan-1st-baron-tweedsmuir-1 |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|-
+| [[Edward VIII]]<br/>{{small|(1936)}}
+|- style="height:60px;"
+| rowspan="4" |[[George VI]]<br/>{{small|(1936–1952)}}
+|-
+| 16
+| [[File:GG-Alexander Cambridge.jpg|100px]]
+| [[Alexander Cambridge, 1st Earl of Athlone]]<br/>{{small|(1874–1957)}}
+| Military officer
+| {{Small|21 June}}<br/>1940
+| {{Small|12 April}}<br/>1946
+| {{ayd|1940|06|21|1946|04|12}}
+| <ref>{{cite web |last1=Harris |first1=Carolyn |title=Alexander Cambridge, Earl of Athlone |url=https://www.thecanadianencyclopedia.ca/en/article/alexander-cambridge-earl-of-athlone |website=The Canadian Encyclopedia}}</ref>
+|- style="height:60px;"
+| rowspan="2" |17
+| rowspan="2" |[[File:GG-Harold Alexander.jpg|100px]]
+| rowspan="2" |[[Harold Alexander, 1st Earl Alexander of Tunis]]<br/>{{small|(1891–1969)}}
+| rowspan="2" |Military officer
+| rowspan="2" |{{Small|12 April}}<br/>1946
+| rowspan="2" |{{Small|28 January}}<br/>1952
+| rowspan="2" |{{ayd|1946|04|12|1952|02|06}}
+| rowspan="2" |<ref>{{cite web |last1=Hillmer |first1=Norman |title=Harold Alexander, 1st Earl Alexander of Tunis |url=https://www.thecanadianencyclopedia.ca/en/article/harold-alexander-1st-earl-alexander-of-tunis |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|-
+| rowspan="2" |[[Louis St. Laurent]]<br/>{{small|(1948–1957)}}
+|- style="height:40px;"
+| rowspan="2" |18
+| rowspan="2" |[[File:Governor General Vincent Massey (cropped).jpg|100px]]
+| rowspan="2" |[[Vincent Massey]]<br/>{{small|(1887–1967)}}
+| rowspan="2" |Diplomat
+| rowspan="2" |{{Small|28 February}}<br/>1952
+| rowspan="2" |{{Small|15 September}}<br/>1959
+| rowspan="2" |{{ayd|1952|02|28|1959|09|15}}
+| rowspan="25" |[[Elizabeth II]]<br/>{{small|(1952–2022)}}
+| rowspan="2" |<ref>{{cite web |last1=Granatstein |first1=J.L. |title=Vincent Massey |url=https://www.thecanadianencyclopedia.ca/en/article/massey-charles-vincent |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|- style="height:40px;"
+| rowspan="2" |[[John Diefenbaker]]<br/>{{small|(1957–1963)}}
+|- style="height:60px;"
+| rowspan="2" |19
+| rowspan="2" |[[File:Portrait of Governor General Georges Vanier (1965 UPI press photo).jpg|100px]]
+| rowspan="2" |[[Georges Vanier]]<br/>{{small|(1888–1967)}}
+| rowspan="2" |Military officer,<br/>diplomat
+| rowspan="2" |{{Small|15 September}}<br/>1959
+| rowspan="2" |{{Small|5 March}}<br/>1967
+| rowspan="2" |{{ayd|1959|09|15|1967|03|05}}
+| rowspan="2" |<ref>{{cite web |last1=Monet |first1=Jacques |title=Georges Vanier |url=https://www.thecanadianencyclopedia.ca/en/article/georges-phileas-vanier |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|- style="height:60px;"
+| rowspan="2" |[[Lester B. Pearson]]<br/>{{small|(1963–1968)}}
+|- style="height:60px;"
+| rowspan="2" |20
+| rowspan="2" |[[File:Governor General Roland Michener at Alma College graduation ceremonies 1972 (crop).jpg|100px]]
+| rowspan="2" |[[Roland Michener]]<br/>{{small|(1900–1991)}}
+| rowspan="2" |Politician
+| rowspan="2" |{{Small|17 April}}<br/>1967
+| rowspan="2" |{{Small|14 January}}<br/>1974
+| rowspan="2" |{{ayd|1967|04|17|1974|01|14}}
+| rowspan="2" |<ref>{{cite web |last1=Hillmer |first1=Norman |title=Roland Michener |url=https://www.thecanadianencyclopedia.ca/en/article/daniel-roland-michener |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|- style="height:60px;"
+| rowspan="3" |[[Pierre Trudeau]]<br/>{{small|(1968–1979)}}
+|-
+| 21
+| [[File:Close-up of Mr. Jules Leger Jan 1974 (cropped).jpg|100px]]
+| [[Jules Léger]]<br/>{{small|(1913–1980)}}
+| Diplomat
+| {{Small|14 January}}<br/>1974
+| {{Small|22 January}}<br/>1979
+| {{ayd|1974|01|14|1979|01|22}}
+| <ref>{{cite web |last1=Monet |first1=Jacques |title=Jules Leger |url=https://www.thecanadianencyclopedia.ca/en/article/jules-leger |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|- style="height:60px;"
+| rowspan="3" |22
+| rowspan="3" |[[File:Edward Schreyer delivering Speech from the Throne 1980 (cropped).jpg|100px]]
+| rowspan="3" |[[Edward Schreyer]]<br/>{{small|(born 1935)}}
+| rowspan="3" |Politician
+| rowspan="3" |{{Small|22 January}}<br/>1979
+| rowspan="3" |{{Small|14 May}}<br/>1984
+| rowspan="3" |{{ayd|1979|01|22|1984|05|14}}
+| rowspan="3" |<ref>{{cite web |last1=Hillmer |first1=Norman |title=Ed Schreyer |url=https://www.thecanadianencyclopedia.ca/en/article/edward-richard-schreyer |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|-
+| [[Joe Clark]]<br/>{{small|(1979–1980)}}
+|- style="height:60px;"
+| rowspan="2" |Pierre Trudeau<br/>{{small|(1980–1984)}}
+|- style="height:45px;"
+| rowspan="3" |23
+| rowspan="3" |[[File:Jeanne Sauvé at Rideau Hall during visit of Ronald Reagan April 1987 (cropped).jpg|100px]]
+| rowspan="3" |[[Jeanne Sauvé]]<br/>{{small|(1922–1993)}}
+| rowspan="3" |Journalist,<br/>politician
+| rowspan="3" |{{Small|14 May}}<br/>1984
+| rowspan="3" |{{Small|29 January}}<br/>1990
+| rowspan="3" |{{ayd|1984|05|14|1990|01|29}}
+| rowspan="3" |<ref>{{cite web |last1=Tremblay |first1=Jean-Noel |title=Jeanne Sauvé |url=https://www.thecanadianencyclopedia.ca/en/article/jeanne-mathilde-sauve |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|-
+| [[John Turner]]<br/>{{small|(1984)}}
+|- style="height:45px;"
+| rowspan="2" |[[Brian Mulroney]]<br/>{{small|(1984–1993)}}
+|- style="height:35px;"
+| rowspan="3" |24
+| rowspan="3" |[[File:Canadian Governor General Ray Hnatyshyn greeted by NORAD deputy commander-in-chief LGEN Robert W. Morton (cropped).jpg|100px]]
+| rowspan="3" |[[Ray Hnatyshyn]]<br/>{{small|(1934–2002)}}
+| rowspan="3" |Politician
+| rowspan="3" |{{Small|29 January}}<br/>1990
+| rowspan="3" |{{Small|8 February}}<br/>1995
+| rowspan="3" |{{ayd|1990|01|29|1995|02|08}}
+| rowspan="3" |<ref>{{cite web |last1=Hillmer |first1=Norman |title=Ray Hnatyshyn |url=https://www.thecanadianencyclopedia.ca/en/article/ramon-john-hnatyshyn |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|-
+| [[Kim Campbell]]<br/>{{small|(1993)}}
+|- style="height:35px;"
+| rowspan="3" |[[Jean Chrétien]]<br/>{{small|(1993–2003)}}
+|-
+| 25
+| [[File:Roméo LeBlanc 1979 (cropped).jpg|100px]]
+| [[Roméo LeBlanc]]<br/>{{small|(1927–2009)}}
+| Journalist,<br />politician
+| {{Small|8 February}}<br/>1995
+| {{Small|7 October}}<br/>1999
+| {{ayd|1995|02|07|1999|10|07}}
+| <ref>{{cite web |title=Roméo LeBlanc |url=https://www.thecanadianencyclopedia.ca/en/article/romeo-a-leblanc |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|- style="height:60px;"
+| rowspan="2" |26
+| rowspan="2" |[[File:GG-Adrienne Clarkson2.jpg|100px]]
+| rowspan="2" |[[Adrienne Clarkson]]<br/>{{small|(born 1939)}}
+| rowspan="2" |Journalist
+| rowspan="2" |{{Small|7 October}}<br/>1999
+| rowspan="2" |{{Small|27 September}}<br/>2005
+| rowspan="2" |{{ayd|1999|10|07|2005|09|27}}
+| rowspan="2" |<ref>{{cite web |title=Adrienne Clarkson |url=https://www.thecanadianencyclopedia.ca/en/article/adrienne-louise-clarkson |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|-
+| rowspan="2" |[[Paul Martin]]<br/>{{small|(2003–2006)}}
+|- style="height:60px;"
+| rowspan="2" |27
+| rowspan="2" |[[File:Michaëlle Jean 1 11072007.jpg|100px]]
+| rowspan="2" |[[Michaëlle Jean]]<br/>{{small|(born 1957)}}
+| rowspan="2" |Journalist
+| rowspan="2" |{{Small|27 September}}<br/>2005
+| rowspan="2" |{{Small|1 October}}<br/>2010
+| rowspan="2" |{{ayd|2005|09|27|2010|10|01}}
+| rowspan="2" |<ref>{{cite web |title=Michaëlle Jean |url=https://www.thecanadianencyclopedia.ca/en/article/michaelle-jean |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref>
+|- style="height:60px;"
+| rowspan="2" |[[Stephen Harper]]<br/>{{small|(2006–2015)}}
+|- style="height:60px;"
+| rowspan="2" |28
+| rowspan="2" |[[File:David Johnston 2011-12-01.jpg|100px]]
+| rowspan="2" |[[David Johnston (governor general)|David Johnston]]<br/>{{small|(born 1941)}}
+| rowspan="2" |Law professor,<br/>university administrator
+| rowspan="2" |{{Small|1 October}}<br/>2010
+| rowspan="2" |{{Small|2 October}}<br/>2017
+| rowspan="2" |{{ayd|2010|10|01|2017|10|02}}
+| rowspan="2" |<ref>{{cite web |last1=Azzi |first1=Stephen |title=David Lloyd Johnston |url=https://www.thecanadianencyclopedia.ca/en/article/david-lloyd-johnston |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref><br/><ref name=ctvnews.ca2>{{cite web |date=21 August 2017 |title=Incoming Governor General Julie Payette drops attempt to seal U.S. court records |url=https://www.ctvnews.ca/politics/article/incoming-governor-general-julie-payette-drops-attempt-to-seal-us-court-records/ |website=ctvnews.ca}}</ref>
+|- style="height:60px;"
+| rowspan="4" |[[Justin Trudeau]]<br/>{{small|(2015–2025)}}
+|-
+| 29
+| [[File:Julie Payette 2017 (cropped).jpg|100px]]
+| [[Julie Payette]]<br/>{{small|(born 1963)}}
+| Astronaut,<br />engineer
+| {{Small|2 October}}<br/>2017
+| {{Small|22 January}}<br/>2021
+| {{ayd|2017|10|02|2021|01|22}}
+| <ref>{{cite web |last1=Raymond |first1=Katrine |title=Julie Payette |url=https://thecanadianencyclopedia.ca/en/article/julie-payette |access-date=September 16, 2020 |website=The Canadian Encyclopedia |publisher=Historica Canada}}</ref><br /><ref name=ctvnews.ca>{{cite web |date=21 August 2017 |title=Incoming Governor General Julie Payette drops attempt to seal U.S. court records |url=https://www.ctvnews.ca/politics/article/incoming-governor-general-julie-payette-drops-attempt-to-seal-us-court-records/ |website=ctvnews.ca}}</ref><br /><ref>{{Cite web |last=General |first=Office of the Secretary to the Governor |date=September 22, 2017 |title=Former Governors General |url=https://www.gg.ca/en/governor-general/former-governors-general |access-date=January 30, 2021 |website=The Governor General of Canada}}</ref>
+|- style="height:60px;"
+| rowspan="3" |30
+| rowspan="3" |[[File:Mary Simon, Governor General of Canada.jpg|100px]]
+| rowspan="3" |[[Mary Simon]]<br/>{{small|(born 1947)}}
+| rowspan="3" |Broadcaster,<br />diplomat
+| rowspan="3" |{{Small|26 July}}<br />2021
+| rowspan="3" |{{Small|8 June}}<br />2026
+| rowspan="3" |{{ayd|2021|07|26|2026|06|08}}
+| rowspan="3" |
+|-
+| rowspan="3" | [[Charles III]]<br/>{{small|(since 2022)}}
+|-
+| rowspan="2" | [[Mark Carney]]<br/>{{small|(since 2025)}}
+|-
+| 31
+| [[File:Louise Arbour during her first official visit to the Citadelle de Québec (3-4 cropped).jpg|100px]]
+| [[Louise Arbour]]<br/>{{small|(born 1947)}}
+| Jurist
+| {{small|8 June}}<br/>2026 
+| ''Incumbent''
+| {{ayd|2026|06|8}}
+| <ref>{{cite news |last=Zimonjic |first=Peter |date=May 7, 2026 |title=Louise Arbour to be installed Canada's next governor general June 8 |url=https://www.cbc.ca/news/politics/louise-arbour-june-eighth-9.7191083 |work=[[CBC News]] |location= |publisher= |access-date=May 7, 2026}}</ref> 
+|}
+
+== Administrators ==
+{{Main|Administrator of the Government of Canada}}
+[[File:Lyman Poore Duff.jpg|thumb|[[Chief Justice of Canada|Chief Justice]] [[Lyman Duff]] was administrator of Canada in 1940.]]
+The following is a list of [[Administrator of the Government of Canada|Administrators of the Government]], Justices of the [[Supreme Court of Canada]] who were acting governors appointed as the result of the death, resignation, prolonged absence of the sitting viceroy, or for any other reason:
+
+# [[Chief Justice of Canada|Chief Justice]] Sir [[Lyman Duff]], between the death of Lord Tweedsmuir and the arrival of Lord Athlone (February 11 to June 21, 1940);<ref>{{cite journal|last=Gosse |first=Richard |title=The Four Courts of Sir Lyman Duff |journal=The Canadian Bar Review |volume=53 |number=3 |date=1 September 1975 |pages=511–512}}</ref>
+# Senior Puisne Justice [[Patrick Kerwin]], during the absence of Governor General Lord Alexander and Chief Justice [[Thibaudeau Rinfret]] (June 11 to August 2, 1951).<ref>{{cite book |first=Stephen |last=McKenna |title=Grace and Wisdom: Patrick G. Kerwin, Chief Justice of Canada |publisher=Petra Books |date=2020 | page=101 |isbn=978-1-927032-68-8}}</ref>
+# Chief Justice Thibaudeau Rinfret, from the departure of the Lord Alexander to the installation of Vincent Massey (January 28 to February 28, 1952);
+# Chief Justice [[Robert Taschereau]], from the death of Georges Vanier to the installation of Roland Michener (March 5 to April 17, 1967);<ref>{{cite web|url=https://www.thestar.com/politics/federal/2021/01/21/gov-gen-julie-payette-has-resigned-what-happens-now.html |title=Gov. Gen. Julie Payette has resigned. What happens now? |work=[[The Toronto Star]] |first=Jacques |last=Gallant |date=21 January 2021 |access-date=18 February 2021}}</ref>
+# Chief Justice [[Bora Laskin]], while Governor General Jules Léger was recovering from a stroke (July 2 to December 9, 1974);<ref>{{cite book |first=Philip |last=Girard |title=Bora Laskin: Bringing Law to Life |publisher=University of Toronto Press |date=2015 | page=423 |isbn=978-1-4426-1688-2}}</ref>
+# Chief Justice [[Beverley McLachlin]], while Governor General Adrienne Clarkson was hospitalized (July 8 to July 11, 2005);.<ref name="Silver">{{Cite web |last=Silver |first=Janet E. |date=2021-01-22 |title=Orders-in-council and royal assents not affected by GG's resignation |url=https://ipolitics.ca/2021/01/22/orders-in-council-and-royal-assents-not-affected-by-ggs-resignation/ |url-status=live |access-date=2021-02-17|website=iPolitics|language=en-US|archive-url=https://web.archive.org/web/20210122231836/https://ipolitics.ca/2021/01/22/orders-in-council-and-royal-assents-not-affected-by-ggs-resignation/ |archive-date=2021-01-22 }}</ref>
+# Chief Justice [[Richard Wagner (judge)|Richard Wagner]], from the resignation of Julie Payette to the installation of Mary Simon (January 22 to July 26, 2021).<ref>{{cite web|url=https://www.ctvnews.ca/politics/article/canadas-top-judge-is-now-acting-governor-general-but-expert-urges-speedy-replacement/ |title=Canada's top judge is now acting Governor General, but expert urges speedy replacement |publisher=[[CTV News]] |first=Graham |last=Slaughter |date=22 January 2021 |access-date=18 February 2021}}</ref>
+
+== See also ==
+{{Portal|Canada|Politics}}
+* [[List of Canadian monarchs]]
+* [[List of female viceroys in Canada]]
+* [[Viceregal consort of Canada]]
+* [[Viceregal eponyms in Canada]]
+{{Clear}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Lemieux, L. M. ''The  Governors-general Of Canada  1608 - 1931'' (1931) full biographies of the first 52. [https://archive.org/details/in.ernet.dli.2015.211473/page/n5/mode/1up  online]
+
+==External links==
+* [https://www.gg.ca/en/governor-general/former-governors-general Governor General of Canada > Former Governors General]
+* [https://www.canada.ca/content/dam/pch/documents/services/royal-symbols-titles/crnMpls-eng.pdf Department of Canadian Heritage > A Crown of Maples – Appendices > Governors/Governors General of Canada]
+
+{{Governor General of Canada}}
+{{Canadian viceroys}}
+{{Canadian monarchy}}
+{{British dependencies governors}}
+
+[[Category:Governors general of Canada|*]]
+[[Category:Lists of Canadian viceroys and governors|Canada]]
+[[Category:Lists of governors-general|Canada, List of governors general of]]

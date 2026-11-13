@@ -1,0 +1,576 @@
+{{Short description|National mint that produces Canadian coins}}
+{{Use Canadian English|date=September 2024}}
+{{Use mdy dates|date=March 2025}}
+{{Infobox company
+| name             = {{ubl|Royal Canadian Mint|{{nobold|{{lang|fr|Monnaie royale canadienne}}}}}}
+| logo             = Royal Canadian Mint Logo (2013-).svg
+| logo_size        = <!-- 250px -->
+| type             = [[Crown corporation]]
+| industry         = [[Mint (coin)|Coin mintage]]
+| founded          = {{Start date|1908|01|02}}
+| hq_location      = [[Ottawa]], Ontario, Canada
+| num_locations    = 2<ref name="locations">{{cite web |url=http://www.mint.ca/store/mint/visit-the-mint/visit-the-mint-1200026 |title=Visit the Royal Canadian Mint |website=Mint.ca |access-date=December 23, 2017}}</ref>
+| area_served      = Worldwide
+| key_people       = Marie Lemay ([[master of the mint]] & [[Chief executive officer|CEO]])
+| products         = [[Coins]]
+| services         = Precious metal storage, [[assay]], refinery and [[Mint (coin)|coin production]]
+| revenue          = {{decrease}} {{CAD}}3.3{{nbsp}}billion (2022)<ref name="2022 Report">{{cite report |publisher=Royal Canadian Mint |title=Annual Report 2022 - Minting for Tomorrow |year=2022 |url=https://www.mint.ca/globalassets/about/company/reports/2023/q4-2022/rcm-ar-2022-eng-final.pdf}}</ref>
+| operating_income = {{decrease}} $45.6{{nbsp}}million (2022)<ref name="2022 Report" />
+| net_income       = {{increase}} $1.2{{nbsp}}million (2022)<ref name="2022 Report" />
+| assets           = {{decrease}} $380.2{{nbsp}}million (2022)<ref name="2022 Report" />
+| equity           = {{decrease}} $138.4{{nbsp}}million (2022)<ref name="2022 Report" />
+| num_employees    = 1,189 (2022)<ref name="2022 Report" />
+| website          = {{Official URL}}
+}}
+
+The '''Royal Canadian Mint''' ({{langx|fr|Monnaie royale canadienne}}) is the [[Mint (facility)|mint]] of Canada and a [[Crown corporation]], operating under an [[Act of Parliament|act of parliament]] referred to as the ''Royal Canadian Mint Act''.<ref>{{cite canlaw |short title=Royal Canadian Mint Act |abbr=R.S.C. |year=1985 |chapter=R-9 |section=1 |link=https://laws-lois.justice.gc.ca/eng/acts/r-9/ |linkloc=Government of Canada Department of Justice Laws website}}</ref> The shares of the mint are held in trust for [[Monarchy of Canada|the Crown in right of Canada]].
+
+The mint produces all of [[Coins of the Canadian dollar|Canada's circulation coins]],<ref>{{cite web |title=Canadian coins |url=https://www.mint.ca |access-date=November 22, 2011 |work=Royal Canadian Mint's Official web site |publisher=Royal Canadian Mint}}</ref> and manufactures circulation coins on behalf of other nations. The mint also designs and manufactures precious and base metal collector coins; [[gold]], [[silver]], [[palladium]], and [[platinum]] [[bullion]] coins; [[medal]]s, as well as [[medallion]]s and [[Token coin|tokens]]. It further offers gold and silver [[Refining (metallurgy)|refinery]] and [[assay]] services.
+
+The mint serves the public's interest but is also mandated to operate "in anticipation of profit" (i.e., to function in a commercial manner without relying on taxpayer support to fund its operations).<ref name="haxby">{{Cite book |title=Striking Impressions |first=James A. |last=Haxby |year=1983 |publisher=La Monnaie |isbn=0-660-91234-1}}</ref> Like private-sector companies, the mint has a [[board of directors]] consisting of a chair, the president and CEO of the mint, and eight other directors.
+
+== History ==
+{{More citations needed|section|date=August 2021}}
+For the first fifty years of Canadian coinage (cents meant to circulate in the Province of Canada were first struck in 1858), the coins were struck at the [[Royal Mint]] in London, though some were struck at the private [[Heaton Mint]] in [[Birmingham]], England. As Canada emerged as a nation in its own right, its need for coinage increased. In 1890, building a branch of the Royal Mint in Ottawa was proposed<ref>{{cite news |date=February 14, 1890 |title=Untitled (after article on "The Verdict of the World") |newspaper=Hardware |url=https://archive.org/stream/hardwaremerch1890toro#page/n152/mode/1up |access-date=April 19, 2013}}</ref><ref>{{cite book |url=https://books.google.com/books?id=g1NOAAAAMAAJ&q=debates+of+the+senate+1890 |title=Debates of the Senate of the Dominion of Canada |publisher=Queen's Printer |year=1890 |page=170}}</ref> and was eventually authorized in 1901.<ref name="haxby" />
+
+The Ottawa branch of the Royal Mint was officially opened on January 2, 1908. During a short ceremony, [[Albert Grey, 4th Earl Grey|Lord Grey]] and his wife, Lady Grey, activated the presses. The first coin struck was a [[Canadian fifty-cent coin|50-cent coin]].<ref>{{cite web |title=Currency Timeline |url=https://www.mint.ca/store/dyn/PDFs/RollTimeline_e.pdf |access-date=January 26, 2022 |work=Royal Canadian Mint's Official web site |publisher=Royal Canadian Mint |archive-date=October 17, 2013 |archive-url=https://web.archive.org/web/20131017053410/http://www.mint.ca/store/dyn/PDFs/RollTimeline_e.pdf}}</ref> When the facility first opened, it had 61 employees.<ref name="autogenerated2" /> Three years later, the mint began refining gold by [[electrolysis]] in its assay department. This method proved to be too time-consuming, and, in 1915, the mint introduced a new chlorination process developed in Australia to reduce processing times and increase the mint's gold refining capacity.<ref name="haxby" />[[File:Royal Canadian Mint logo (till 2013).svg|thumb|right|Logo of the Royal Canadian Mint until June 2013]]
+In 1931, Canada became an independent [[dominion]] of the [[British Empire]] and the assets of the mint were transferred to the Canadian government. In December 1931, the mint was established as the Royal Canadian Mint and as a branch of the Department of Finance via an act of Parliament.<ref name="bullionstar.us">{{Cite web |title=Royal Canadian Mint - Gold University - BullionStar |url=https://www.bullionstar.us/gold-university/royal-canadian-mint |access-date=February 25, 2023 |website=BullionStar Singapore}}</ref>
+
+In 1960, Master of the Mint Norval Alexander Parker proposed a new facility to expand minting capacity. At this time, the Ottawa mint had reached capacity, while a large number of [[Dime (Canadian coin)|Canadian 10¢ coins]] were produced in the [[Philadelphia Mint]] in the United States and all [[Royal Canadian Mint numismatic coins (20th century)|numismatic coins]] were produced in [[Hull, Quebec]]. A 1968 study also showed that the Ottawa Mint facility was antiquated. Funds were allocated for a new facility, but no space within Ottawa was found.<ref name="haxby" />
+
+In April 1969, the Royal Canadian Mint was reorganized as a Crown corporation via the ''Royal Canadian Mint Act'' for the purpose of minting coins and associated activities.<ref name="haxby" /><ref>{{Cite web |last=Branch |first=Legislative Services |date=December 15, 2016 |title=Consolidated federal laws of canada, Royal Canadian Mint Act |url=https://laws-lois.justice.gc.ca/eng/acts/R-9/ |access-date=February 25, 2023 |website=laws-lois.justice.gc.ca}}</ref> As a Crown corporation, the mint was no longer a branch of the Department of Finance but operated autonomously with its own board of directors and increased decision-making powers.<ref name="haxby" />
+
+Then, in February 1970, [[Minister of Supply and Services|Supply and Services Minister]] [[James Armstrong Richardson|James Richardson]] proposed building the mint's new facility in [[Winnipeg]]. This was controversial because the minister was himself from Winnipeg, and the facility would be more than {{cvt|1,000|mi|order=flip}} from the Ottawa facility. A study showed that the proposal had merit because raw materials could be purchased from a supplier in Alberta, rather than a competitor outside of Canada. Eventually, it was agreed in December 1971 that the mint would build a facility in Winnipeg. In 1972, the land was purchased and construction began, and by 1976 the facility was officially opened.<ref name="haxby" />
+
+In March 2012, the Canadian government decided to cease the production of [[Penny (Canadian coin)|pennies]].<ref name="penniless">{{Cite news |date=March 29, 2012 |title=The penny's days are numbered |work=CBC News |url=https://www.cbc.ca/news/business/the-penny-s-days-are-numbered-1.1174546 |access-date=March 29, 2012}}</ref> The final penny was minted at the RCM's Winnipeg plant on the morning of May 4, 2012.<ref>{{Cite news |date=May 4, 2012 |title=Canada's Last Penny: Final Cent Struck In Winnipeg Friday As Currency Killed |work=Huffington Post Canada |url=http://www.huffingtonpost.ca/2012/05/04/canadas-last-penny_n_1476664.html?ref=canada |access-date=May 4, 2012}}</ref>
+
+In April 2012, the mint announced it was developing [[MintChip]], a [[Electronic money|digital currency]]<ref name="Mintchip">{{cite news |last=Jackson |first=Emily |date=April 11, 2012 |title=Royal Canadian Mint to create digital currency |work=[[Toronto Star]] |url=https://www.thestar.com/business/article/1159513--royal-canadian-mint-to-create-digital-currency |access-date=April 11, 2012}}</ref> to allow anonymous transactions backed by the [[Government of Canada]] and denominated in a variety of currencies.<ref name="Mintchip" /><ref name="mintchipcurrency">{{cite web |title=CurrencyCode Enumeration |url=http://developer.mintchipchallenge.com/api/dotnet/html/T_Mint_MintChip_Contract_CurrencyCode.htm|archive-url=https://web.archive.org/web/20121226065358/http://developer.mintchipchallenge.com/api/dotnet/html/T_Mint_MintChip_Contract_CurrencyCode.htm |archive-date=December 26, 2012 |access-date=April 17, 2012 |publisher=Royal Canadian Mint}}</ref> On January 12, 2016, MintChip was sold to Toronto-based nanoPay.<ref>{{cite web |title=Royal Canadian Mint sells Mintchip digital payments platform to Toronto's nanoPay |url=https://www.cbc.ca/news/technology/mintchip-nanopay-1.3402059 |accessdate=January 13, 2016 |work=CBC News}}</ref>
+
+In 2021, reports of racism and sexual harassment at the mint surfaced.<ref>{{Cite news |last=Stefanovich |first=Olivia |date=July 22, 2021 |title=Former staffers say racism, sexual harassment rampant at Royal Canadian Mint |work=CBC |url=https://www.cbc.ca/news/politics/royal-canadian-mint-security-harassment-breaks-silence-1.6109518}}</ref> A subsequent external report described the workplace culture as "toxic".<ref>{{Cite news |last=Stefanovich |first=Olivia |date=October 7, 2021 |title=External review finds 'toxic' workplace environment persists at Royal Canadian Mint |work=CBC |url=https://www.cbc.ca/news/politics/toxic-environment-concludes-report-royal-canadian-mint-1.6199371}}</ref>
+
+== Operations and institution ==
+[[Image:Placamint.jpg|right|thumb|270px|Historical panel to the mint in Ottawa, erected by the [[National Capital Commission]]]]
+Traditionally, the president of the Royal Canadian Mint is known as the [[Master of the Mint|master of the mint]]. Since 2018, Marie Lemay has held that position. The board of directors, through the chair, is accountable to the [[Minister of Finance (Canada)|minister of finance]]. The minister serves as the link between the mint, Cabinet and Parliament.
+
+The mint was named one of "[[Canada's Top 100 Employers]]" by Mediacorp Canada Inc. from 2007 to 2010.<ref>{{Cite news |title=Canada's Top 100 Employers |url=https://www.canadastop100.com/national/ |publisher=Mediacorp Canada Inc.}}</ref>
+
+=== Organizational structure ===
+{{More citations needed|section|date=August 2021}}
+The Royal Canadian Mint is a Crown corporation and operates under the ''Royal Canadian Mint Act''. In serving the public's interest, a Crown corporation has greater managerial independence than other government entities, meaning it may operate in a commercial manner. Like private sector companies, the mint has a board of directors composed of a chairman, the president and CEO of the mint and eight other directors.<ref>{{Cite web |url=https://federal-organizations.canada.ca/profilOrg.php?lang=en&OrgID=MINT |title=Board Profile - Royal Canadian Mint |author1=Staff writer |date=January 1, 2023 |website=federal-organizations.canada.ca |publisher=Government of Canada |doi-broken-date= |access-date=December 29, 2024}}</ref>
+
+Traditionally, the president and CEO of the Royal Canadian Mint is known as the master of the mint.<ref>{{cite canlaw |short title=Royal Canadian Mint Act |abbr=R.S.C. |year=1985 |chapter=R-8 |section=2 & 8 (3) |link=https://lois.justice.gc.ca/eng/acts/R-9/20161215/P1TT3xt3.html?wbdisable=true#h-429025 |linkloc=Government of Canada Department of Justice Laws website}}</ref> The president is [[Marie Lemay]] (appointed in 2019), and the chairman of the board is Phyllis Clark. In reverse chronological order, the people who have been the mint's master engraver are: Cosme Saffioti, Sheldon Beveridge, Ago Aarand, Walter Ott, Patrick Brindley, Myron Cook, and [[Thomas Shingles]].
+
+The government department responsible for the Royal Canadian Mint is the Department of Finance. There are 10 members of the mint's board of directors, and 12 members on its executive team.<ref>Royal Canadian Mint 2009 Annual Report, page 27</ref> The Royal Canadian Mint has four lines of business: Bullion and Refinery Service, Canadian Circulation, Foreign Business, and Numismatics.<ref>Royal Canadian Mint 2005 Annual Report, page 10</ref>
+
+{|
+|valign=top|
+{|class="wikitable"
+|+Masters of the mint<ref name="haxby" />
+!Name
+!Term
+|-
+|[[James Bonar (civil servant)|James Bonar]]
+|1908–1919
+|-
+|Arthur H.W. Cleave
+|1919–1925
+|-
+|John Honeyford Campbell
+|1925–1937
+|-
+|Henry Edward Ewart
+|1938–1944
+|-
+|Alfred Percy Williams
+|1946–1947 ''(acting)''
+|-
+|Walter Clifton Ronson
+|1947–1953
+|-
+|Alfred Percy Williams
+|1954–1959
+|-
+|Norval Alexander Parker
+|1959–1968
+|-
+|E.F. Brown
+|1968–1970 ''(acting)''
+|-
+|Gordon Ward Hunter
+|1970–1975
+|-
+|[[Yvon Gariepy]]
+|1975–1981
+|-
+|D.M. Cudahy
+|1981–1982 ''(acting)''
+|-
+|James C. Corkery
+|1982–1986
+|-
+|M.A.J. Lafontaine
+|1986–1993
+|-
+|M.R. Hubbard
+|1993–1994
+|-
+|[[Danielle Wetherup]]
+|1994–2002
+|-
+|Emmanuel Triassi
+|2002–2003 ''(acting)''
+|-
+|[[David Dingwall|David C. Dingwall]]
+|2003–2005
+|-
+|[[Marguerite Nadeau]]
+|2005–2006 ''(acting)''
+|-
+|[[Ian Bennett (Royal Canadian Mint President)|Ian Bennett]]
+|2006–2014
+|-
+|Marc Brûlé
+|2014–2015 ''(acting)''
+|-
+|[[Sandra Hanington]]
+|2015–2018
+|-
+|[[Jennifer Camelon]]<ref>{{cite web |url=https://toronto.citynews.ca/2018/05/23/ceo-of-royal-canadian-mint-to-resign-citing-desire-to-find-more-balance/ |title=CEO of Royal Canadian Mint to resign in July after just three years on the job |work=City News | access-date= July 8, 2018}}</ref>
+|2018–2019 ''(acting)''
+|-
+|[[Marie Lemay]]
+|2019–present
+
+|}
+|valign=top|
+{|class="wikitable"
+|+Board of directors<ref>{{cite web |title=Board Members |url=https://www.mint.ca/en/people/board-members?srsltid=AfmBOoo4Bqzx3qe9T4S9BjnRg7gYO88Z8gHEQVnkP4qG7htp4GWDtKlS |access-date=July 19, 2025 |website=Mint.ca |publisher=Royal Canadian Mint}}</ref>
+!Name
+!Year appointed
+|-
+|Phyllis Clark (chairman)
+|2018
+|-
+|Serge Falardeau
+|2017
+|-
+|Pina Melchionna
+|2019
+|-
+|Cybele Negris
+|2017
+|-
+|[[Gilles G. Patry]]
+|2018
+|-
+|Barry M. Rivelis
+|2019
+|-
+|Evan Price
+|2023
+|-
+|Cindy Chao
+|2023
+|-
+|Kevin Darling
+|2023
+|}
+|}
+
+=== Facilities ===
+==== Ottawa facility ====
+[[File:Historic Royal Canadian Mint building located at 320 Sussex Drive in Ottawa, Ontario.jpg|thumb|The Royal Canadian Mint building at 320 [[Sussex Drive]] in [[Ottawa]]]]
+
+The Ottawa branch of the Royal Mint was officially opened on January 2, 1908, by [[Albert Grey, 4th Earl Grey|Lord Grey]] and his wife, Lady Grey.<ref name="haxby" />
+
+When the facility first opened, it had 61 employees.<ref name="autogenerated2">The CN Journal, The Official Publication of the Canadian Numismatic Association, Markham, Ontario, Vol. 53, No. 1, January–February 2008, p.29</ref> The last surviving member of the mint's original staff was Owen Toller. He started in the mint as a junior clerk and retired as an administrative officer after 45 years of service on January 6, 1953.<ref name="autogenerated2" /> Toller died in November 1987 at the age of 102.<ref>{{Cite web |url=https://beaumont-project.com/BeaumontFT/2370.html |access-date=June 5, 2024 |website=beaumont-project.com |title=The Beaumont Project – Beaumont and Toller Family Tree}}</ref>
+
+In 1979, the Royal Canadian Mint building in Ottawa was designated a [[National Historic Sites of Canada|National Historic Site]], on the grounds the building is representative of the federal government's approach to using the [[Gothic Revival architecture in Canada|Tudor-Gothic]] architectural style to create a distinctive identity in Canada's capital, and of the [[patriation]] of control over Canada's currency from Britain.<ref>{{CRHP|9212|Royal Canadian Mint National Historic Site of Canada|November 11, 2013}}</ref>
+
+==== Winnipeg facility ====
+{{Infobox building
+| name                = Winnipeg Royal Canadian Mint
+| image               = Winnipeg Mint.JPG
+| location            = 520 [[Lagimodiere Boulevard|Lagimodière Boulevard]], [[Winnipeg, Manitoba]] R2J 3E7
+| coordinates         = {{coord|49.855915|-97.05348|type:landmark_region:CA-MB|display=inline}}
+| construction_start_date = 1972
+| opened_date         = 1976
+| architect           = [[Étienne Gaboury]]
+| owner               = Royal Canadian Mint
+| cost                = {{CAD|16{{nbsp}}million|link=yes}}
+| floor_count         = 3 + basement
+| building_type       = [[Low-rise building|Low-rise]]
+| architectural_style = [[Modernism (architecture)|Modernist]]
+| structural_system   = [[Rigid frame]]
+| height              = {{convert|10.11|m|ft}}
+| architecture_firm   = Gaboury Lussier Sigurdson with Number Ten Architectural Group
+| material            = steel
+| public_transit      = {{rint|bus|1}} [[List of Winnipeg Transit bus routes|Winnipeg Transit]] <br> {{rbox|558||#FFFFFF|#052465}} {{rbox|102||#FFF0D8|#052465}}
+}}
+
+The mint facility in Winnipeg was officially opened in 1976. The new facility was completely different in appearance from the facility in Ottawa. Architect [[Étienne Gaboury]] designed a striking triangular building that rises up dramatically from the surrounding prairie. Gaboury was design architect, in collaboration with the Number Ten Architectural Group led by partner-in-charge Allan Hanna.<ref>See: [[Isadore (Issie) Coop]]</ref> 
+
+The Winnipeg facility produces circulation coins for Canada and other countries, while the Ottawa facility concentrates solely on [[collector coins]].
+
+=== Financial revenues ===
+{{needs update|date=August 2026}}
+{{table alignment}}
+{| class="wikitable col1left" style="text-align: right;" 
+|+Revenue by business line (in millions of $)
+!Business line
+!2004<ref>{{cite web |url=http://www.mint.ca/store/dyn/PDFs/RCM_AR04.pdf |title=Royal Canadian Mint Annual Report "Appreciating Value" 2004, page 4 |website=Mint.ca |access-date=December 23, 2017}}</ref>
+!2005<ref>{{cite web |url=http://www.mint.ca/store/dyn/PDFs/RCM_AR05.pdf |title=Royal Canadian Mint Annual Report "Thriving" 2005, page 4 |website=Mint.ca |access-date=December 23, 2017 |archive-date=March 4, 2016 |archive-url=https://web.archive.org/web/20160304055807/http://www.mint.ca/store/dyn/PDFs/RCM_AR05.pdf}}</ref>
+!2006<ref>{{cite web |url=http://www.mint.ca/store/dyn/PDFs/RCM_AR06.pdf |title=Royal Canadian Mint Annual Report "External Forces, Internal Strength" 2006, page 4 |website=Mint.ca |access-date=December 23, 2017 |archive-date=August 4, 2019 |archive-url=https://web.archive.org/web/20190804101705/https://www.mint.ca/store/dyn/PDFs/RCM_AR06.pdf}}</ref>
+!2007<ref>{{cite web |url=http://www.mint.ca/store/dyn/PDFs/RCM_AR07.pdf |title=Royal Canadian Mint Annual Report "In Anticipation of Profit" 2007, page 4 |website=Mint.ca |access-date=December 23, 2017 |archive-date=August 4, 2019 |archive-url=https://web.archive.org/web/20190804225906/https://www.mint.ca/store/dyn/PDFs/RCM_AR07.pdf}}</ref>
+!2008<ref>{{cite web |url=http://www.mint.ca/store/dyn/PDFs/RCM_AR_2008.pdf |title=Royal Canadian Mint Annual Report "Making History" 2008, page 4 |website=Mint.ca |access-date=December 23, 2017}}</ref>
+!2009<ref>{{cite web |url=http://www.mint.ca/store/dyn/PDFs/RCM_09AR_ENG_FA.pdf |title=Royal Canadian Mint Annual Report "World Class Performance" 2009, page 4 |website=Mint.ca |access-date=December 23, 2017}}</ref>
+!2010<ref>{{cite web |url=http://www.mint.ca/store/dyn/PDFs/Mint_AR_10_Eng_FINAL.pdf |title=Royal Canadian Mint Annual Report "We Are Here" 2010, page 2 |website=Mint.ca |access-date=December 23, 2017 |archive-date=May 12, 2015 |archive-url=https://web.archive.org/web/20150512181921/http://www.mint.ca/store/dyn/PDFs/Mint_AR_10_Eng_FINAL.pdf}}</ref>
+!2011<ref>{{cite web |url=http://www.mint.ca/store/dyn/PDFs/RCM2011AR.pdf |title=Royal Canadian Mint Annual Report "From Main Street To Bay Street and Beyond" 2011, page 2 |website=Mint.ca |access-date=December 23, 2017 |archive-date=May 12, 2015 |archive-url=https://web.archive.org/web/20150512181902/http://www.mint.ca/store/dyn/PDFs/RCM2011AR.pdf}}</ref>
+!2012<ref>{{cite web |url=http://www.mint.ca/store/dyn/PDFs/RCM-12-AR_ENG_FINAL.pdf |title=Royal Canadian Mint Annual Report "Breaking Traditions" 2012, page 30 |website=Mint.ca |access-date=December 23, 2017 |archive-date=May 12, 2015 |archive-url=https://web.archive.org/web/20150512181847/http://www.mint.ca/store/dyn/PDFs/RCM-12-AR_ENG_FINAL.pdf}}</ref>
+!2013<ref>{{cite web |title=Annual Report 2013 |url=http://www.mint.ca/store/dyn/PDFs/RCMint_Eng_New_Logo_May_2014.pdf |publisher=Royal Canadian Mint |access-date=December 16, 2018 |archive-url=https://web.archive.org/web/20140626004732/http://www.mint.ca/store/dyn/PDFs/RCMint_Eng_New_Logo_May_2014.pdf |archive-date=June 26, 2014 |pages=26}}</ref>
+!2014<ref>{{cite web |url=http://www.mint.ca/store/dyn/PDFs/RCMint_AR_2014-15_E.pdf |title=Royal Canadian Mint Annual Report "Tomorrow's Mint" 2014, page 6 |website=Mint.ca |access-date=December 23, 2017 |archive-date=April 6, 2018 |archive-url=https://web.archive.org/web/20180406053324/http://www.mint.ca/store/dyn/PDFs/RCMint_AR_2014-15_E.pdf}}</ref>
+|-
+|Canadian circulation
+|63.4
+|111.2
+|131.2
+|174.3
+|186.5
+|185.3
+|133.1
+|136.7
+|152.5
+|133.4
+|123.9
+|-
+|Foreign coin
+|25.1
+|43.8
+|25.3
+|115.0
+|98.7
+|65.0
+|39.8
+|34.0
+|30.3
+|78.2
+|72.8
+|-
+|Canadian numismatic
+|52.6
+|56.5
+|56.7
+|56.3
+|67.5
+|72.3
+|71.3
+|93.0
+|145.1
+|167.0
+|177.3
+|-
+|Bullion and refinery
+|183.9
+|224.4
+|280.7
+|286.3
+|1,039.6
+|1,700.0
+|1,965.4
+|2,895.7
+|2,255.4
+|2,996.5
+|2,069.2
+|}
+
+=== Security ===
+[[File:Canada mint museum, Ottawa, Canada.jpg|thumb|upright|Security officer overseeing a boy with real golden bar in Royal Canadian Mint museum, Ottawa]]
+Royal Canadian Mint Protective Services employs full-time and casual security officers who are responsible for the security and inspection of RCM facilities. They wear a distinctive black uniform with [[body armour]] and carry a [[9×19mm Parabellum|9&nbsp;mm]] [[Glock 17|Glock Model 17]] while on duty. Their duties include:<ref>{{cite web |url=http://www.docstoc.com/docs/52231442/Assessment-of-Royal-Canadian-Mint-Security |title=Assessment of Royal Canadian Mint Security |date=October 13, 2009 |page=4 |archive-date=July 18, 2011 |archive-url=https://web.archive.org/web/20110718131052/http://www.docstoc.com/docs/52231442/Assessment-of-Royal-Canadian-Mint-Security}}</ref>
+
+* Operating [[x-ray]] machines
+* Inspection of garbage in high-security production area
+* [[CCTV]] monitoring
+* [[Access control]]
+* Monitor shipments received and dispatched from RCM facilities
+* Security escorts
+* Parking management
+* [[Emergency evacuation|Evacuation]]s
+
+Recent issues concerning Royal Canadian Mint assets include:
+* In 2000, the Royal Canadian Mint lent a series of the new plated 10¢, 25¢ and 50¢ issues to the vending industry for testing purposes. These coins were issued with the letter P below the Queen's effigy. Some of these coins were not returned to the RCM by the vendors and it is possible some were sold to collectors at a considerable premium.<ref>{{Cite web |title=Canadian Mule Coins |url=https://www.saskatooncoinclub.ca/articles/16_canadian_mule_coins.html#:~:text=2000%20Millennium%20Set%20Token,-The%202000%20Millennium&text=This%20resulted%20in%20a%20non,Elizabeth,%20it%20is%20a%20mule. |access-date=June 5, 2024 |website=www.saskatooncoinclub.ca}}</ref>
+* On June 2, 2009, the Auditor General of Canada reported a discrepancy between the mint's 2008 financial accounting of its precious metals holdings and the physical stockpile at the plant on Sussex Drive in Ottawa.<ref name="canada.com">{{cite news |url=http://www.canada.com/Business/Mint+account+missing+gold/1656084/story.html |title=Mint can't account for missing gold |date=June 2, 2009 |first=Ian |last=MacLeod |work=Ottawa Citizen |archive-url=https://web.archive.org/web/20090606204206/http://www.canada.com/Business/Mint+account+missing+gold/1656084/story.html |archive-date=June 6, 2009}}</ref> A review released on December 21 said that all of the misplaced gold was fully accounted for. A previously unaccounted {{convert|9,350|ozt|kg}} was attributed to estimation errors, and a further {{convert|1,500|ozt|kg}} was recovered through an extensive refining of [[slag]] within the mint.<ref>{{cite web |url=https://www.mint.ca/store/news/gold-fully-accounted-for-at-royal-canadian-mint-7500002?cat=News+releases&nId=700002&parentnId=600004&nodeGroup=About+the+Mint |title=Gold Fully Accounted For At Royal Canadian Mint |date=December 21, 2009 |website=Royal Canadian Mint |access-date=December 23, 2017}}</ref>
+
+=== Coin markings, including mint marks and privy marks ===
+{{More citations needed|section|date=August 2021}} 
+* A – Used on 2005 palladium test coin to signify the coins were struck from Lot A.
+* B – Used on 2005 palladium test coin to signify the coins were struck from Lot B.
+* C – Placed on [[gold sovereign|sovereigns]] produced at the Ottawa branch of the [[Royal Mint]], between 1908 and 1919.
+* Dot – In December 1936, King Edward VIII abdicated the throne in favour of his brother, who became King George VI. The problem was that the Royal Mint had been designing the effigy of King Edward VIII, and now a new effigy had to be created. The 1¢, 10¢ and 25¢ pieces in 1937 were struck from dies with a 1936 date on the reverse. To distinguish that these coins were issued in 1937, a dot mint mark was placed on the 1936 dies, beneath the year. These coins fulfilled demand for coins until new coinage tools with the effigy of King George VI were ready. While the 10¢ and 25¢ coins are more common, the 1¢ coins are rare, with about a half-dozen known to exist. The dot after the date on the 1937 5¢ coin is a minting error caused by a chip in the master dies.
+* H – Used to identify coins that were struck for Canada by the [[Birmingham Mint]], also known as the Heaton Mint, until 1907.
+* Innukshuk – All circulation coins for the [[2010 Vancouver Olympics]] have the Innukshuk mint mark on the obverse of the coin.
+* International Polar Year – The obverse of the 2007 International Polar Year $20 numismatic coin has the logo for the International Polar Year on the obverse of the coin.
+* Man Becomes Mountain (Symbol of Paralympics) – All circulation coins for the [[2010 Vancouver Paralympics]] have the Paralympic Games logo on the obverse of the coin.
+* Maple leaf – All coins with a maple leaf mint mark were struck in 1948 due to an emergency with coin toolage. The granting of India's independence resulted in the removal of IND:IMP (meaning Emperor of India) from King George VI's effigy. Due to the demand for circulation coins in 1948, coins for 1948 could not be struck until the new tools were received. The new tools would have the IND:IMP removed from them. In the meanwhile, coins were produced in 1948 with a year of 1947 on them. Referred to as the "1947 Maple Leaf", a small maple leaf mint mark was struck beside 1947 on the reverse of all coins to signify the year of production.
+* P – From 2001 to 2006, most 1¢, 5¢, 10¢, 25¢, and 50¢ coins issued for circulation were struck with a P mint mark to represent the Royal Canadian Mint's plating process.
+* RCM Logo – At the [[Royal Canadian Numismatic Association|CNA]] Convention in July 2006, the RCM unveiled its new privy mark to be used on all circulation and numismatic coinage. The agenda behind the implementation of this new privy mark was to help increase the RCM's image as a brand. The aim of the logo is to educate coin users and coin collectors, respectively, that the RCM is minting Canada's coins. The first circulation coin to have this new mint mark is the 10th anniversary $2 coin. The first numismatic coin to have this new marking is the [[Snowbirds (aerobatic team)|Snowbirds]] coin and stamp set.<ref>''Coin World'', Vol. 47, Issue 2417, Page 74, August 7, 2006</ref>
+* T/É – In an effort to push the standard of quality higher, the RCM started to experiment with a gold bullion coin that would have a purity of 99.999%. The result was a gold maple leaf test bullion coin with the mint mark of T/É (to signify test/''épreuve''). The date on the obverse of the coin was 2007 and it had a mintage of 500.
+* Teddy bear – When the RCM released its Baby Lullabies and CD Set, a sterling silver $1 coin was included in the set. The $1 coin included a privy mark of a teddy bear.
+* W – Used occasionally on specimen sets produced in Winnipeg, starting in 1998.
+* WP – Used on the special edition uncirculated set of 2003. The W mint mark indicates that the coin was produced in Winnipeg and the P indicates that the coins are plated.
+
+== Products ==
+=== Notable firsts ===
+* 1st colour 1999 20th anniversary GML: 5-coin set<ref>Charlton Standard of Canadian Coins, p.440</ref>
+* 1st hologram 1999: GML hologram set – 5-coin set<ref>Charlton Standard of Canadian Coins, p.441</ref>
+* 1st irregular shaped coin 2006: square sterling silver beaver
+* 1st {{convert|5|ozt|g|order=flip|adj=on}} 0.9999 silver coin 2006: Four Seasons $50 commemorative coin
+* 1st coloured coin using plasma technology: commemorative $20 plasma coin for the International Polar Year
+* 1st million-dollar face-value coin: {{convert|100|kg}} 99.999% pure gold
+* 1st glass added coin 2017: Under the Sea Series: Seahorse
+* 1st glow-in-the-dark coin 2017: Canada 150 Anniversary Set: Aurora Borealis $2 coin
+* 1st of its kind gold maple leaf (GML) bullion coin from a confirmed single source: the Meliadine Gold Mine in the Kivalliq District of Nunavut (2022)<ref>{{Cite web| title=Minting for Tomorrow | url=https://www.mint.ca/globalassets/about/company/reports/2023/q4-2022/rcm-ar-2022-eng-final.pdf | archive-url=https://web.archive.org/web/20230511033930/https://www.mint.ca/globalassets/about/company/reports/2023/q4-2022/rcm-ar-2022-eng-final.pdf | archive-date=May 11, 2023}}</ref>
+
+=== Other notable innovations ===
+{{More citations needed|section|date=August 2021}}
+
+==== Multi-ply plating ====
+In 2000, the mint patented an improved, money-saving production method called multi-ply plating technology.<ref>{{cite web |url=http://www.coinscan.com/technical/mintreports/MRC115003M_Brochure_Multiply_En_Clientplating.pdf |title=Multi-Ply Technology | access-date=March 28, 2020 | archive-date=May 7, 2021 | archive-url=https://web.archive.org/web/20210507013736/http://www.coinscan.com/technical/mintreports/MRC115003M_Brochure_Multiply_En_Clientplating.pdf}}</ref> Since that year, the mint has used this technique to produce 5¢, 10¢, 25¢, and 50¢ pieces of Canadian circulation coinage, all of which were previously minted from nearly pure nickel alloys. Similarly, a copper-plated steel blank was used to produce the 1¢ coin until production ceased in 2012. Also in 2012, multi-ply plating was introduced for the $1 and $2 coins.
+
+This particular plating process uses a steel core that is electro-magnetically plated with a thin layer of nickel, then a layer of copper and finally another layer of nickel.<ref>Charlton Standard Catalogue of Canadian Coins, 60th Edition, 2006</ref> As a smaller quantity of copper and nickel is required, this process has reduced circulation coin production costs. The composition of plated coins is more durable, thereby reducing the number of damaged coins in circulation and increasing their overall efficiency. By varying the thicknesses of the alternating layers of nickel and copper, the mint can create coins with unique electromagnetic signatures, preventing fraud and producing the most secure circulation coins on the market.
+
+==== Coloured coins ====
+In 2004, the Royal Canadian Mint issued the world's first coloured circulation coin. The 25¢ coins were produced at the mint's facility in Winnipeg and feature a red-coloured poppy embedded in the centre of a maple leaf over a banner that reads: "Remember / {{lang|fr|Souvenir}}". The obverse features the effigy of Queen Elizabeth II by Susanna Blunt. The process of adhering colour to the coins surfaces involved the utilization of a high-speed, computer-controlled and precision inkjet process. Approximately 30,000,000 coins went into circulation in October 2004 and were available exclusively at Tim Hortons locations across the country. U.S. Army contractors travelling in Canada filed confidential espionage reports describing the coins as "anomalous" and "filled with something man-made that looked like nano-technology".<ref>{{cite news |url=https://www.thestar.com/news/2007/05/07/us_feared_poppy_quarter.html |title=U.S. feared poppy quarter |first=TED |last=BRIDIS |date=May 7, 2007 |access-date=December 23, 2017 |newspaper=[[Toronto Star]]}}</ref>
+
+In 2006, the mint produced a second colourized circulation coin in support of a future without breast cancer. The 25¢ coin features the pink ribbon symbolizing breast cancer awareness.
+
+More recently, the mint produced two other 25¢ poppy circulation coins in 2008 and 2010, both of which feature colourized designs.
+
+In 2008, the mint also produced 50-[[toea]] colourized coins for Papua New Guinea. These coins were manufactured using a robotic mechanism that oriented the coins in a way that ensured all the colourized designs faced the same direction.<ref>Royal Canadian Mint Annual Report 2008</ref>
+
+This new technology was also used to produce the "Top Three Moments" coins. These 25¢ coins are part of the mint's Vancouver 2010 circulation coin program and feature designs celebrating the top three favourite moments in Canadian Winter Games history. The men's hockey gold medal at Salt Lake City in 2002 was voted by fans as the No.&nbsp;1 Canadian Olympic Winter Games Moment of all time&nbsp;– out of 10 moments&nbsp;— in an online contest hosted in 2009 by the mint and Canada's Olympic Broadcast Media Consortium. Coming in at No.&nbsp;2 was the Canadian women's hockey gold medal at Salt Lake City 2002, followed by Cindy Klassen at No.&nbsp;3 and her five long-track speed skating medals at Turin 2006. The coins marking these top three favourite moments were launched into circulation on September 29, 2009, November 17, 2009 and January 5, 2010, respectively.
+
+==== Physical vapour deposition ====
+The mint succeeded in extending the life of the die beyond that of past chrome-coated dies, with the adaptation of the [[physical vapour deposition]] (PVD) technology to coat its dies.<ref>{{cite web |url=https://www.mint.ca/store/dyn/PDFs/SM_RT_Leaflet_Die%20Coating.pdf |title=Technical precision and detailed artistry for long term performance |access-date=March 28, 2020 |archive-date=March 29, 2020 |archive-url=https://web.archive.org/web/20200329034406/https://www.mint.ca/store/dyn/PDFs/SM_RT_Leaflet_Die%2520Coating.pdf}}</ref>
+
+==== Glow-in-the-dark coins ====
+In 2017, the mint released a set of circulation coins for the 150th anniversary of Confederation. In these circulation coins, the $2 coin has a coloured version which features some [[Aurora|northern lights]]. When left under a normal source of light and then turning off the lights or when illuminated by a UV lamp, the northern lights glow turquoise. This coin was the first circulation coin in the world to glow in the dark. Around ten million coins were minted, but it was expected that around only one in ten Canadians would have one.<ref>{{cite web |url=https://www.smithsonianmag.com/smart-news/canada-putting-glow-dark-toonies-circulation-180963711/ |title=Canada's New Two-Dollar Coins Glow in the Dark |work=Smithsonian Magazine |first=Jason |last=Daley |date=June 15, 2017 |access-date=January 13, 2022}}</ref> However, this was not the first time that the mint worked with glow-in-the-dark technology. In 2012, a three-coin set of glow-in-the-dark dinosaur skeletons were released, but these coins were never for circulation; they were made for collection.
+
+===== UFO-themed glow-in-the-dark coin =====
+The [[Shag Harbour UFO incident]] on October 4, 1967, was commemorated in a glow-in-the dark coin launched October 1, 2019.<ref name=cbcglow>{{cite web |url=https://www.cbc.ca/kidsnews/post/glow-in-the-dark-coin-features-canadas-most-famous-ufo-sighting |title=Glow-in-the-dark coin features Canada's most famous UFO sighting |last=CBC Kids News |date=October 4, 2019 |website=cbc.ca | access-date = October 5, 2019}}</ref>
+
+This coin is the second in the Royal Canadian Mint's "unexplained phenomena" series. The first coin in the series was released in 2018 and depicts the [[UFO sightings in Canada#1967, Falcon Lake, Manitoba|UFO encounter near Falcon Lake (Manitoba)]] in 1967.<ref name=cbcglow />
+
+The coin is not the first glow-in-the-dark coin released by the Royal Canadian Mint. The first coin depicts boaters gazing at the [[Aurora|Northern Lights]], and was released in 2017.<ref>{{cite web |url=https://www.bbc.com/news/world-us-canada-49901449 |title=Canadian mint releases UFO-themed glow-in-the-dark coin |date=October 2, 2019 |website=bbc.com | access-date = October 5, 2019}}</ref>
+
+===== Barbados flying fish coin =====
+As announced on November 26, 2020<ref>[http://www.loopnewsbarbados.com/content/barbados-central-bank-1st-caribbean-drop-commemorative-coin Barbados Central Bank 1st in the Caribbean to drop commemorative coin] {{Webarchive|url=https://web.archive.org/web/20201126202911/http://www.loopnewsbarbados.com/content/barbados-central-bank-1st-caribbean-drop-commemorative-coin |date=November 26, 2020}}, Kerri Gooding, November 26, 2020, loopnewsbarbados.com</ref> the RCM produced a $1 glow-in-the-dark coin featuring a [[flying fish]], in collaboration with the [[Central Bank of Barbados]].<ref>[http://www.loopnewsbarbados.com/content/video-glow-dark-dollar-coin-goes-rotation-barbados VIDEO: Glow-in-the-dark dollar coin goes into rotation in Barbados] {{Webarchive|url=https://web.archive.org/web/20201127015853/https://www.loopnewsbarbados.com/content/video-glow-dark-dollar-coin-goes-rotation-barbados |date=November 27, 2020}}, Kerri Gooding, November 26, 2020, loopnewsbarbados.com</ref> It went into circulation on December 1, 2020. In 2022 this coin was announced at the 2022 [[Excellence in Currency Awards]] for Coins that the coin won the 'Best New Commemorative or Test Circulating Coin' award for 2022 by the International Association of Currency Affairs (IACA) held in Amsterdam.<ref>{{cite web |url=https://www.gisbarbados.gov.bb/blog/barbados-glow-in-the-dark-coin-wins-international-award/ |title=Barbados' Glow-In-The-Dark Coin Wins International Award |date=October 21, 2022 |editor-last=Gibson |editor-first=Octavia |department=Central Bank |website=www.gisbarbados.gov.bb |publisher=Government of Barbados |agency=Government Information Service |location=Barbados |type=Press release |access-date=October 17, 2024}}</ref>
+
+==== Mintshield ====
+In 2018, the mint introduced Mintshield, a production technology for its silver maple leaf coins aimed at reducing "milk spots", discolourations that can appear as white spots on the surface of silver bullion products.<ref>{{cite web |url=https://www.mint.ca/store/campaign/Mintshield-7700022 |title=INTRODUCING MINTSHIELD |website=Royal Canadian Mint |access-date=March 29, 2020 |archive-date=March 29, 2020 |archive-url=https://web.archive.org/web/20200329165706/https://www.mint.ca/store/campaign/Mintshield-7700022}}</ref> It is the only mint to offer technology specifically aimed at milk spots.<ref>{{cite web |url=https://www.coinworld.com/news/precious-metals/royal-canadian-mint-develops-milk-spot-fix.html |title=Royal Canadian Mint develops 'milk spot' fix |date=February 9, 2018 |website=Coin World | access-date=March 29, 2020}}</ref>
+
+=== Activities ===
+{{More citations needed section|date=September 2023}}
+
+==== Bullion products and refinery ====
+The mint produces and markets a family of high-purity gold, silver, palladium, and platinum maple leaf bullion coins, wafers, and bars for the investment market as well as gold and silver granules for the jewellery industry and industrial applications. The mint also provides Canadian and foreign customers with gold and silver processing, including refining, assaying, and secure storage.<ref name="Mint Services">{{cite web |title=Our Services |url=http://www.mint.ca/store/mint/about-the-mint/our-services-1200030 |publisher=Royal Canadian Mint |access-date=December 16, 2018}}</ref>
+
+Additionally, the Royal Canadian Mint operates a technically advanced refinery in which it refines precious metals from a variety of sources, including primary producers, industry, recyclers, and financial institutions. The mint refines raw gold to 995 fine through the [[Miller process|Miller chlorination process]].<ref name="haxby" /> The gold is then cast into anodes for electrolytic purification to 9999 fine using the [[Wohlwill process]].
+
+The Royal Canadian Mint's bullion coin program consists of gold, silver, platinum and palladium maple leaf coins, as well as other products, such as MapleGrams. The Royal Canadian Mint's {{convert|1|ozt|g|order=flip|adj=on}} [[gold maple leaf]] coin was launched in 1979, and the {{convert|1|ozt|g|order=flip|adj=on}} [[silver maple leaf]] and {{convert|1|ozt|g|order=flip|adj=on}} platinum maple leaf coins were launched in 1988.<ref name="bullionstar.us" />
+
+In May 2007, the mint produced the world's first and only 99.999% pure gold maple leaf bullion (GML) coins. Offered in limited-edition {{convert|1|ozt|g|lk=in|adj=on}} gold bullion coins, three series of these special GML coins were produced (2007, 2008, 2009) in addition to the 99.99% pure GML coin, which is produced on demand. A {{convert|100|kg|adj=on}} version of the 99.999% pure GML coin was produced as a promotional tool and was later sold as a product when interested buyers came forward.<ref>{{cite web |url=http://www.newswire.ca/en/releases/archive/May2007/03/c4485.html |title=Royal Canadian Mint promotes new line of 99.999% pure gold bullion coins by unveiling world's purest, largest and highest denomination gold coin |website=Newswire.ca |access-date=December 23, 2017}}</ref>
+
+===== Bullion coins =====
+In 1979, the mint began producing its own branded bullion coins, which feature a maple leaf on the reverse. Since 1979, the fineness of the gold used to strike the gold maple leaf (GML) coins has increased from .999 to .9999, and finally, to .99999 (for a special series from 2007 to 2009). In addition, GMLs are produced in sizes that are fractions of a [[troy ounce]]: 1&nbsp;oz, {{frac|1|2}}&nbsp;oz, {{frac|1|4}}&nbsp;oz, {{frac|1|10}}&nbsp;oz, {{frac|1|15}}&nbsp;oz, {{frac|1|20}}&nbsp;oz, {{frac|1|25}}&nbsp;oz, and in sets that combine some or all of these weights. Special-edition designs have commemorated the tenth anniversary of the GML (1989), the 125th anniversary of the RCMP (1997), and the 25th anniversary of the GML (1994). A three-coin set was released to commemorate the Vancouver 2010 Olympic Games (2008–2010), and a fractional GML set was issued in 2011 to commemorate the centennial of the mint's gold refinery. Renowned for its unrivalled purity, the mint's gold maple leaf remains one of the world's most popular bullion coins.<ref>Charlton Start Catalogue of Canadian Coins, Volume Two, Collector Issues First Edition 2010, p. 259-275</ref>
+
+====== Silver maple leaf ======
+{{main|Canadian Silver Maple Leaf}}
+The Royal Canadian Mint's silver maple leaf (SML) was first issued in 1988 and featured the same design as the gold maple leaf bullion coin. These coins are available to investors in 1&nbsp;oz, {{frac|1|2}}&nbsp;oz, {{frac|1|4}}&nbsp;oz, {{frac|1|10}}&nbsp;oz, and {{frac|1|20}}&nbsp;oz sizes.<ref name="Canadian Coins 2010, p. 281-296">Charlton Start Catalogue of Canadian Coins, Volume Two, Collector Issues First Edition 2010, p. 281-296</ref>
+
+In 2004–05, the coins were sold in sets of four coins that featured two wildlife species: the Arctic fox (2004) and the Canada lynx (2005). Each coin was of a different value and depicted the animals in a separate pose. Colour and selective gold plating have also been applied to special issues of SML. Holograms have proved popular applications, having been featured on SML coins in 2001, 2002, 2003, and 2005.<ref name="Canadian Coins 2010, p. 281-296" />
+
+In 2010, the mint introduced a new series of silver 9999 fine {{convert|1|ozt|g|adj=on}} bullion coins featuring Canadian wildlife. The first coin, launched in late 2010, depicts a wolf, while the second features a grizzly bear. The third design, depicting a cougar, was released on September 24, 2011, for public sales. The fourth in the series was a moose, the fifth coin was the pronghorn antelope, and the sixth and final coin was the wood bison.
+
+====== Platinum and palladium maple leaves ======
+{{main|Canadian Platinum Maple Leaf|Canadian Palladium Maple Leaf}}
+
+While the silver and gold maple leaves have proved enduringly popular among investors and bullion collectors, the mint has also produced limited numbers of platinum and palladium maple leaf coins. From 2005 to 2009, palladium maple leaf coins were offered in {{convert|1|ozt|g|adj=on}} coins of .9995 fineness.<ref name="Canadian Coins 2010, p. 276-280">Charlton Start Catalogue of Canadian Coins, Volume Two, Collector Issues First Edition 2010, p. 276-280</ref>
+
+Platinum maple leaves were struck in 1&nbsp;oz, {{frac|1|2}}&nbsp;oz, {{frac|1|4}}&nbsp;oz, {{frac|1|10}}&nbsp;oz, {{frac|1|15}}&nbsp;oz, and {{frac|1|20}}&nbsp;oz weights, between 1988 and 1999 and again in 2009. In addition, the platinum maple leaves were sold in special issue sets in 1989 to commemorate the 10th anniversary of the GML and in 2002 as a five-coin set featuring holograms. In 1999, the coins featured the polar bear design appearing on the inner ring of the $2 circulation coin.<ref name="Canadian Coins 2010, p. 276-280" />
+
+==== Canadian circulation coins ====
+Though the mint's core mandate is to produce and manage the distribution of Canada's circulation coinage and provide advice to the Minister of Finance on all matters related to coinage, the mint often introduces new commemorative designs which celebrate Canada's history, culture and values. Recently, up to two billion Canadian circulation coins are struck each year at the mint's facility in Winnipeg. While the effigy of the reigning monarch has appeared on every Canadian coin produced by the mint since 1908, reverse designs have changed considerably over the years. 
+
+Since 2000, all of Canada's circulation coins have been produced using the mint's patented multi-ply plated steel technology except for the [[loonie|$1]] and [[toonie|$2]] circulation coins, which started using this technology as of April 10, 2012.<ref>{{cite web |url=http://www.gazette.gc.ca/rp-pr/p2/2012/2012-01-04/html/sor-dors324-eng.html |title=Order Amending Part 2 of the Schedule to the Royal Canadian Mint Act |work=Canada Gazette |publisher=Government of Canada |access-date=January 14, 2012}}</ref>
+
+===== V nickel =====
+World War II saw low mintages of most coins, as the metals (especially [[copper]] and [[nickel]]) were needed for the war effort. The composition of the 5¢ coin was changed to [[tombac]] in 1942; and the design was changed to a V for Victory in 1943. The composition was changed again to nickel-[[chromium]]-plated [[steel]] in 1944.
+
+The concept for the V design came from Winston Churchill's famous V sign, and the V denomination mark on the US 5¢ pieces of 1883–1912.<ref name=autogenerated1>Charlton Standard Catalogue of Canadian Coins 2006, p.89</ref> A novel feature was an inscription of [[Morse code]] on the coin. This International Code message meant "We Win When We Work Willingly" and was placed along the rim on the reverse instead of denticles.<ref name=autogenerated1 /> The regular reverse and composition were resumed in 1946. Chromium-plated steel was again used for the 5¢ coin from 1951 to 1953 during the [[Korean War]], but the reverse was unchanged.
+
+===== Centennial of Confederation =====
+In 1967, the mint introduced a series of commemorative coins in honour of the [[Canadian Centennial]]. Designed by [[Alex Colville]], every coin produced that year featured a creature native to Canada: a [[rock dove]] on the 1¢ coin, a [[rabbit]] on the 5¢ coin, a [[mackerel]] on the 10¢ coin, a [[lynx]] on the 25¢ coin, a howling [[wolf]] on the 50¢ coin, and a [[Canada goose]] on the dollar. A commemorative gold $20 coin was also struck for collectors' sets, with a coat of arms on the reverse. It is worth noting the then Ottawa branch of the British Royal Mint wanted to commemorate Canada's 60th anniversary in 1927 with variant coin designs.<ref name="haxby" />
+
+===== Royal Canadian Mounted Police =====
+{{Further|List of Royal Canadian Mint RCMP coins}}
+For 1973, the usual 25¢ coin reverse depicting a caribou was replaced with a [[Royal Canadian Mounted Police]] officer astride a horse, to celebrate the centennial of the founding of the [[North-West Mounted Police]] (now the RCMP).
+
+In 2007, the mint also released a $75 coloured gold coin featuring RCMP officers astride their horses, as part of an extensive program of collector coins celebrating the Vancouver 2010 Winter Games. This coin, designed by Cecily Mok, is composed of 58.33% gold and 41.67% silver.
+
+The mint also issued two bullion coins in celebration of the RCMP. The first is a 1997 {{convert|1|ozt|g|adj=on}} gold coin, which was produced for the 125th anniversary of the RCMP. The second is a 2010 {{convert|1/25|ozt|g|adj=on}} gold coin and was designed by Janet Griffin-Scott.
+
+===== "Loonie" and "toonie" =====
+The major change to Canadian coinage in the 1980s was the introduction of a circulating $1 coin, widely known as the [[Canadian 1 dollar coin|loonie]] because of the [[common loon]] gracing its reverse. A [[Voyageurs|voyageur]] canoe had been planned initially, but the master reverse die was lost in shipment between Ottawa and Winnipeg, so a new design was necessary. Introduced in 1987, the coin began to replace the [[Withdrawn Canadian banknotes|$1 banknote]] in February 1989. In 1996, the mint introduced a $2 circulating coin (known widely as the [[Canadian 2 dollar coin|toonie]]) that featured a polar bear on the reverse and replaced the $2 banknote. The $2 coin was also a first for the mint in that it used a bi-metallic structure&nbsp;– the coin's centre is [[bronze]]-coloured and the circumference is nickel-coloured.
+
+===== Saskatchewan Roughriders =====
+In September 2010, the mint released 3{{nbsp}}million $1 circulation coins in celebration of the [[Saskatchewan Roughriders]]' centennial. This coin's reverse is engraved with the Saskatchewan Roughriders' logo and a stylized "100" framed by the dates 1910 and 2010.
+
+==== Foreign circulation coins ====
+{{See also|List of foreign countries with coinage struck at the Royal Canadian Mint}}
+Many [[List of foreign countries with coinage struck at the Royal Canadian Mint|foreign countries have had coinage struck at the Royal Canadian Mint]], including circulation coins, numismatic coins, and ready-to-strike blanks. In 1970, Master of the Mint Gordon Ward Hunter relaunched the Foreign Circulation division. A contract for [[Singapore]] was won in January 1970 to produce six million rimmed blanks in a copper–nickel alloy.<ref name="Royal Canadian Mint p.148">Royal Canadian Mint: 100 Years of History, p.148, Published by Les Éditions Stromboli in 2008, St. Lambert, Québec, Canada, Project Co-ordinator: Francesco Bellomo, Project Manager for Royal Canadian Mint: Susan Aubry, Legal Deposit: Library and Archives Canada, {{ISBN|2-921800-26-8}}</ref> This was the mint's first export contract since a contract for the Dominican Republic 32 years earlier. The second contract came in April 1970 from the Central Bank of Brazil. The RCM produced 84{{nbsp}}million blanks for the 50-centavo piece.<ref name="Royal Canadian Mint p.148" /> In August 1971, the People's Democratic Republic of [[Yemen]] placed an order for 2{{nbsp}}million five-fil pieces. This was followed by an order from [[Iceland]] for 2.5{{nbsp}}million one-crown pieces.
+
+In October 1971, the Bank of [[Jamaica]] asked the RCM to produce a commemorative ten-dollar coin in silver and a twenty-dollar gold coin of proof quality. Also in 1971, the RCM made coins for the Bahamas, Bermuda, Cayman Islands, Iran, and the Isle of Man.<ref name="Royal Canadian Mint p.149">Royal Canadian Mint: 100 Years of History, p.149, Published by Les Éditions Stromboli in 2008, St. Lambert, Québec, Canada, Project Co-ordinator: Francesco Bellomo, Project Manager for Royal Canadian Mint: Susan Aubry, Legal Deposit: Library and Archives Canada, {{ISBN|2-921800-26-8}}</ref> An order for 100{{nbsp}}million general-circulation five-centime and ten-centimo coins for [[Venezuela]] was received as well. By 1973, orders totalled 65{{nbsp}}million coins, and 70{{nbsp}}million blanks. By 1974, the Ottawa facility produced a facility record 1.2{{nbsp}}billion coins (foreign and domestic).<ref name="Royal Canadian Mint p.149" />
+
+Two years later, the Monetary and Foreign Exchange Authority of [[Macau]] commissioned the Royal Canadian Mint to create a commemorative coin to recognize the transfer of the Macau region to the [[People's Republic of China]]. The coin is silver and features a gold cameo. The face value is 100 [[Macanese pataca|patacas]], and the coin has a diameter of {{convert|37.97|mm}} and a guaranteed weight of at least {{convert|1|ozt|g|order=flip}}, while most 1&nbsp;oz silver RCM coins weigh 31.3 grams. The Royal Canadian Mint item number is 644309 and the issue price is $102. The coin features a Portuguese ship and a Chinese barque sharing coastal waters. The historic [[Ma Gao Temple]] (Pagoda de Barra) appears in the cameo.
+
+50{{nbsp}}million units of the 20¢ Australian coin featuring a platypus were minted in 1981.<ref>{{cite web |url=http://www.canadacool.com/COOLFACTS/MANITOBA/WinnipegMint.html |title=Canada Cool I The Royal Canadian Mint coin producer for 74 countries |website=Canadacool.com |access-date=December 23, 2017 |archive-date=December 11, 2013 |archive-url=https://web.archive.org/web/20131211232548/http://www.canadacool.com/COOLFACTS/MANITOBA/WinnipegMint.html |url-status=live}}</ref> Other coins have included centavos for [[Cuba]], kroner for Norway, fils for [[Yemen]], pesos for [[Colombia]], kroner for [[Iceland]], rupiah for [[Indonesia]], baht for [[Thailand]], and a thousand-dollar coin for [[Hong Kong]].<ref>{{cite news |title=Issuance of the 1997 Commemorative Gold Coin |url=http://www.hkma.gov.hk/eng/key-information/press-releases/1997/970507.shtml |access-date=May 16, 2018 |agency=Hong Kong Monetary Authority |date=May 7, 1997 |archive-date=May 16, 2018 |archive-url=https://web.archive.org/web/20180516103857/http://www.hkma.gov.hk/eng/key-information/press-releases/1997/970507.shtml}}</ref> Other client nations include [[Barbados]] and [[Uganda]].<ref>{{Cite web |title=Royal Canadian Mint |url=https://winnipegarchitecture.ca/ |access-date=June 15, 2023 |website=Winnipeg Architecture Foundation}}</ref>
+
+In 2005, the mint was awarded a contract valued at US$1.2{{nbsp}}million to produce 50{{nbsp}}million toea coins for Papua New Guinea. The circulation coins were produced in denominations of 5 toea, 10 toea and 20 toea, and were manufactured at the mint's facility in Winnipeg.<ref>{{cite web |url=http://www.mint.ca/store/news/royal-canadian-mint-secures-contract-to-produce-currency-coins-for-papua-new-guinea-5800044?cat=News+releases&nId=700002&parentnId=600004&nodeGroup=About+the+Mint |title=Royal Canadian Mint Secures Contract to Produce Currency Coins for Papua New Guinea |website=Mint.ca |access-date=December 23, 2017}}</ref> In 2005 alone, the RCM manufactured 1.062{{nbsp}}billion coins and blanks for 14 countries.<ref>Royal Canadian Mint 2006 Annual Report, page 25</ref> From 1980 to 2005, the RCM has manufactured approximately 52{{nbsp}}billion coins for 62 countries.<ref>Royal Canadian Mint 2006 Annual Report, page 27</ref> These coins were manufactured at the Royal Canadian Mint's facility in Winnipeg.
+
+In 2007, the mint produced coins for a variety of other countries, such as New Zealand and Papua New Guinea.<ref>{{cite web |url=http://www.coinlink.com/News/press-releases/royal-canadian-mint-credits-patented-multi-ply-plating-for-record-year-in-minting-international-circulation-coins/ |title=Royal Canadian Mint credits patented multi-ply plating for record year in minting international circulation coins : Coin Collecting News |website=Coinlink.com |access-date=December 23, 2017 |archive-url=https://web.archive.org/web/20171224101408/http://www.coinlink.com/News/press-releases/royal-canadian-mint-credits-patented-multi-ply-plating-for-record-year-in-minting-international-circulation-coins/ |archive-date=December 24, 2017}}</ref>
+
+In 2008, the mint produced over 3{{nbsp}}million coloured 50-toea coins for Papua New Guinea. These were the world's first coloured coins to circulate outside of Canada. In addition to adding a painted design to more than three million coins, the mint was required to identically orient the design on every coin. To accomplish this, the mint, in collaboration with Canadian robotic equipment manufacturer PharmaCos Machinery, developed its own robotic arm to "pick and place" each coin on the painting line, creating a new technical capability unique to the Royal Canadian Mint.<ref>{{cite web |url=http://www.mint.ca/store/news/royal-canadian-mints-centennial-year-closes-on-high-notes-4400004?cat=News+releases&nId=700002&parentnId=600004&nodeGroup=About+the+Mint |title=Royal Canadian Mint's Centennial Year Closes On High Notes |website=Mint.ca |access-date=December 23, 2017 |archive-date=December 24, 2017 |archive-url=https://web.archive.org/web/20171224101204/http://www.mint.ca/store/news/royal-canadian-mints-centennial-year-closes-on-high-notes-4400004?cat=News%20releases&nId=700002&parentnId=600004&nodeGroup=About%20the%20Mint}}</ref>
+
+In 2009, the mint produced coins and blanks for 18 countries, including the {{lang|es|decimo de balboa}} (10-cent coin) for Panama.<ref>Royal Canadian Mint 2009 Annual Report, page 10</ref>
+
+=== Numismatic coins ===
+{{Further|Royal Canadian Mint numismatic coins (1900–1999)|Royal Canadian Mint numismatic coins (2000–2019)}}
+In 2006, the Royal Canadian Mint issued the $50 Four Seasons {{convert|5|ozt|g|adj=on}} 0.9999 silver coin. This was the first 5&nbsp;oz pure silver coin issued by the mint, and had a limited mintage of only 2,000 coins worldwide. High-grade examples of this coin fetch $1500 to $5000 at auction. Demand for the coin was unprecedented, and it was the lowest mintage 0.9999 silver coin ever produced by the Royal Canadian Mint until the 2009 release of "Surviving the Flood", a {{convert|1|kg|adj=on}} 0.9999 silver coin which has a worldwide mintage of only 1500.<ref>Charlton Standard Catalogue of Canadian Coins, Volume Two Collector Issue First Edition 2010, p. 183</ref>
+
+On October 19, 2007, the Royal Canadian Mint issued ten new collector coins, including a 25¢ coin minted to commemorate the 60th wedding anniversary of [[Elizabeth II]], [[Queen of Canada]], and [[Prince Philip, Duke of Edinburgh]]; and a $15 sterling silver coin bearing the effigy of [[Victoria of the United Kingdom|Victoria]], the first from the series of five coins illustrating the effigies of the [[List of Canadian monarchs|previous Canadian monarchs]].<ref>[http://dig4coins.com/News/1-latest_news/98-the-royal-canadian-mint-issues-a-2007-line-of-collector-coins.html The Royal Canadian Mint Issues a 2007 Line of Collector Coins] {{webarchive|url=https://web.archive.org/web/20071109223105/http://dig4coins.com/News/1-latest_news/98-the-royal-canadian-mint-issues-a-2007-line-of-collector-coins.html |date=November 9, 2007}}</ref>
+
+==== Toronto Transit Commission tokens ====
+From 1954 to 2006, the mint supplied the [[Toronto Transit Commission]] with 24{{nbsp}}million tokens. These tokens were taken out of service in 2007 for official use. The lightweight token was replaced due to the ease in duplicating counterfeit versions. Subsequent tokens for the TTC were manufactured in the United States by [[Osborne Coinage]].
+
+==== Canadian Tire ====
+In October 2009, the mint produced [[Canadian Tire money|trade dollars for Canadian Tire]] which temporarily replaced their regular $1 [[coupon]]s. The initiative called for the production of 2.5{{nbsp}}million nickel-plated steel tokens, as well as 9,000 [[brass]]-plated steel tokens. As part of the limited-time offer, the trade dollars were distributed in 475 stores nationwide.<ref>Royal Canadian Mint Annual Report 2009, p. 14</ref>
+
+=== Notable medallions ===
+Made of base and precious metals, several of the mint's numismatic coins are enhanced by special technologies including holograms, enamelling, lasering and embedded crystals. The mint also produces medals, medallions and tokens as part of this business line.
+
+The mint produces a great number of military decorations for the [[Department of National Defence (Canada)|Department of National Defence]] including: the [[Sacrifice Medal]], the [[Canadian Forces' Decoration]] and Clasp, the [[General Campaign Star]], the International Security Assistance Force (ISAF) and Bars, the [[General Service Medal (Canada)|General Service Medal]], the [[Special Service Medal (Canada)|Special Service Medal]], the [[Operational Service Medal (Canada)|Operational Service Medal]], the [[Memorial Cross]] and the [[Canadian Victoria Cross]]. It also produces military decorations for [[Veterans Affairs Canada]], as well as long-service medals for the RCMP and artistic achievement awards for the Governor General of Canada.<ref>{{cite web |url=http://www.cmp-cpm.forces.gc.ca/dhr-ddhr/pub/cfd-dfc-eng.asp |title=Publications – The Canadian Forces' Decoration |publisher=National Defence – Government of Canada |website=Cmp-cpm.forces.gc.ca |access-date=December 23, 2017 |archive-date=March 22, 2012 |archive-url=https://web.archive.org/web/20120322051708/http://www.cmp-cpm.forces.gc.ca/dhr-ddhr/pub/cfd-dfc-eng.asp}}</ref>
+
+The mint also produced the athletes' medals of the [[Montreal 1976 Olympic Games]] and the [[Vancouver 2010 Olympic]] and Paralympic Winter Games. The mint produced 615 Olympic and 399 Paralympic medals at their headquarters in Ottawa for the 2010 Winter Games.<ref>{{cite news |title=2010 Olympic medal design unveiled |url=https://www.cbc.ca/news/canada/british-columbia/2010-olympic-medal-design-unveiled-1.816624 |access-date=December 16, 2018 |work=[[CBC News]] |date=October 15, 2009}}</ref>
+
+The mint also designed and produced the 4,283 medals for the [[Toronto 2015 Pan Am]] and Parapan Am games.<ref>{{cite web |url=http://www.mint.ca/store/news/to2015-unveils-oneofakind-medals-a-unique-product-of-the-americas-24200044?cat=News+releases&nId=700002&nodeGroup=About+the+Mint |title=TO2015 Unveils One-of-a-Kind Medals – A Unique Product of the Americas |website=Mint.ca |access-date=December 23, 2017}}</ref>
+
+* In 1983, the RCM issued a medallion to commemorate the wedding of [[Prince Charles]] and [[Lady Diana Spencer]]. The composition of the medal is 50% pure silver and has a diameter of {{convert|36|mm}}. The coin had a production limit of 100,000 and its issue price was $24.50.
+* The RCM created a medallion to honour [[Elvis Presley]]. The medal features the word [[Graceland]] (above an image of the mansion and its gates) and an actual denomination of $10. The reverse of the medal features an engraving of Elvis, along with the words "The Man/The Music/The Legend". The medallion itself is undated, but as the medal is {{convert|10|ozt|g}}, one would assume it was made for the 10th anniversary of the singer's death. Additional information can be found in the certificate of authenticity which states this Elvis Presley medal was authorized by Legendary Coins and struck by the Royal Canadian Mint. The packaging bears a copyright date of 1987, and states the "medal is for commemorative purposes only" and is "not legal tender".<ref>{{cite web |title=Coin Collection |url=http://www.legendarycoins.ca/list.php?display=list&p=3 |website=Legendary Coins |access-date=December 16, 2018}}</ref>
+* Medallions honouring hockey legends have also been created. To commemorate [[Mario Lemieux]]'s induction into the Hockey Hall of Fame, a special set honouring all the inductees was issued in 1997. In 1999, a nickel medallion was issued to honour [[Wayne Gretzky]]'s retirement. The issue price was $9.99 with a mintage of 50,000.
+
+The mint makes collector coins and related products for collectors and enthusiasts in Canada and all over the world. Several of these coins have earned international industry awards and in 2010, the mint sold out the entire mintage of a record 25 collector coins.<ref>{{cite web |url=http://www.coinnews.net/2008/02/04/the-royal-canadian-mint-wins-coveted-awards-at-the-2008-world-money-fair-in-berlin-germany-3901/ |title=The Royal Canadian Mint Wins Coveted Awards at the 2008 World Money Fair in Berlin, Germany |date=February 4, 2008 |website=Coinnews.net |access-date=December 23, 2017}}</ref>
+
+==== Vancouver Olympics ====
+{{Further|Royal Canadian Mint Olympic coins}}
+{{More citations needed|section|date=August 2021}}
+
+In 2006, the mint entered a partnership with the [[Vancouver Organizing Committee for the 2010 Olympic and Paralympic Winter Games|Vancouver Olympic Committee]] and became an official supporter of the Vancouver 2010 Winter Games. As such, the mint ran a three-year program of circulation and collector coins in honour of both the Olympic and Paralympic Winter Games.
+
+Their Vancouver 2010 coin program included the largest circulation coin series in relation to the Olympic and Paralympic Games ever conceived by any mint worldwide. It included the production of 17 circulation coins, 15 of which were of the 25¢ denomination and two of which were $1 "lucky loonies". The mint was the first in the world to commemorate the Paralympic Games on a circulation coin. These commemorative 25¢ coins were distributed across the country through participating Petro-Canada and Royal Bank of Canada locations.
+
+Regarding the circulation coins, one of the novelties was that {{lang|la|D.G. regina}} (''{{lang|la|[[Dei gratia regina]]}}'' 'by the grace of God queen') was removed from the Queen's effigy, making the 25¢ coins the first "godless" circulating coins since the 2001 International Year of the Volunteer 10¢ piece. On the 1911 issue of King George V, the inscription was accidentally left off.<ref name=autogenerated4>"14 circulating coins included in 2010 Olympic program", Bret Evans, Canadian Coin News, January 23 to February 5, 2007, issue of Canadian Coin News</ref> The first circulating $1 coin was dated 2008 but the obverse is the standard effigy of Queen Elizabeth II by Susanna Blunt with the wording "Elizabeth II" and {{lang|la|D.G. regina}} with the Circle M privy mark.<ref name=autogenerated4 />
+
+In addition to its circulation coin program, the mint introduced a series of 36 collector coins ranging from multi-coloured sterling silver Lucky Loonies to premium gold coins. Most notably, two $2500 Kilo Gold Coins were produced as part of this program, marking the first time the mint issued a pure gold coin with a guaranteed weight of {{convert|1|kg|spell=in}}.<ref>"Olympic commems to sport $25 face", Canadian Coin News, p.1, Bret Evans, January 9 to 22, 2007</ref>
+
+The program also included the production of two sterling silver Lucky Loonies in 2008 and 2010, with mintages of 30,000 and 40,000 respectively.
+
+==== Vancouver 2010 Winter Games medals ====
+The mint also produced the athlete medals for the 2010 Olympic and Paralympic Winter Games. The Vancouver 2010 gold medals are each made of sterling silver plated with six grams of 24-karat gold. The silver medals are sterling silver while the bronze medals are composed mostly of copper. Their composition is governed by International Olympic Committee regulations.<ref>{{Cite news |last=Petri |first=Alexandra E. |date=February 11, 2022 |title=How much is a gold medal actually worth? |url=https://www.nytimes.com/2022/02/10/sports/olympics/gold-medal-price-value.html |access-date=June 5, 2024 |work=The New York Times |issn=0362-4331}}</ref>
+
+Each medal features a piece of one of two contemporary Aboriginal artworks and weighs 500 to 576 grams each. The design on each medal is based on two large master artworks of an orca whale (Olympic) and raven (Paralympic) by [[Corrine Hunt]], a Canadian artist of Komoyue and [[Tlingit]] heritage based in Vancouver. Each medal features a unique, hand-cropped section of her artwork. The medals are also undulating rather than flat. They had to be struck nine times each to achieve this unusual shape.<ref>{{Cite web |last=International Olympic Committee |date=2010 |title=Vancouver 2010 Olympic Medals |url=https://olympics.com/en/olympic-games/vancouver-2010/medal-design}}</ref>
+
+The medals were on display throughout the 2010 Winter Games at the Royal Canadian Mint Pavilion in Vancouver. There, visitors waited in line, sometimes for over seven hours, to see and hold the medals.<ref>{{Cite web |date=February 15, 2010 |title=Canadian Pride, Craftsmanship Go into Making Olympics Medals |url=https://www.voanews.com/a/canadian-pride-craftsmanship-go-into-making-olympics-medals-84473142/112567.html |access-date=June 5, 2024 |website=Voice of America}}</ref> 
+With so much interest generated by their Vancouver 2010 program, the mint opened an additional retail outlet in Vancouver. This store is at 752 Granville Street, between Georgia and Robson streets, and was closed in 2017.<ref>{{Cite web |last=Jesse |date=October 10, 2017 |title=Vancouver Mint store to close before Christmas |url=https://canadiancoinnews.com/vancouver-mint-store-close-christmas/ |access-date=June 5, 2024 |website=Canadian Coin News}}</ref>
+
+== Award-winning coins ==
+{{More citations needed|section|date=August 2021}} 
+* 1985 – Coin of the Year, Presented by ''World Coin News'', Coin: 1988 Olympic $20 coin, Downhill Skier (Note: Olympic coins in Canada are usually produced three years prior to the event)
+* 1986 – Coin of the Year, Presented by ''World Coin News'', Best Gold Coin, Theme: 450th Anniversary, Jacques Cartier Voyage of Discovery
+* 1988 – Coin of the Year, Presented by ''World Coin News'', Best Silver Coin, Theme: 400th Anniversary, Davis Passage
+* 1989 – Coin of the Year, Presented by ''World Coin News'', Best Silver Coin, Theme: Bicentennial Voyage of Mackenzie River
+* 1993 – Coin of the Year, Presented by ''World Coin News'', Best Gold Coin, Theme: Antique Autos
+* 1994 – Coin of the Year, Presented by ''Munchen Magazin'', Best Coin, Theme: [[Anne of Green Gables]]
+* 1996 – Coin of the Year, Presented by ''Munchen Magazin'', Best Coin, Theme: 100th Anniversary of Gold found in Klondike
+* 1997 – Coin of the Singapore International Coin Show, Best Coin, Theme: [[Haida people|Haida]] Contemporative Art
+* 1998 – Coin of the Year, Presented by ''World Coin News'', Best Gold Coin, Theme: [[Alexander Graham Bell]]
+* 1998 – Most Popular Coin, Presented by ''World Coin News'', Most Popular, Theme: $2 coin with polar bear design
+* 1999 – International Hologram Manufacturers Association and Holography, Category: Excellence in Holographic Production, Theme: 20th Anniversary Gold Bullion Maple Leaf coin
+* 2000 – Most Popular Coin, Presented by ''World Coin News'', Most Popular, Theme: 125th Anniversary of RCMP
+* 2000 – Most Technologically Advanced Coin, World Mint Directors Conference 2000, Theme: $20 coin featuring Hologram cameo on the Transportation Series
+* 2000 – Coin of the Year, Presented by ''World Coin News'', Best Gold, Theme: Mother and Child
+* 2002 – Coin of the Year, Asia Money Fair, Theme: Asian Symbols Five Blessings Commemorative Set<ref name=autogenerated3>http://www.mint.ca, Path on site: The Passion, The Museum, Award Winning Coins</ref>
+* 2006 – Most Innovative Coin of the Year, World Mint Directors Conference 2006, Theme: Coloured 25¢ [[Papaver rhoeas|Poppy]] Coin<ref>{{cite web |title=Royal Canadian Mint |url=https://www.ebecs.com/customers/royal-canadian-mint |publisher=eBECS Limited |access-date=December 16, 2018 |quote="Most Innovative Coin of the Year" at the World Mint Directors Conference in 2006, for their 2004 themed, coloured 25-cent Poppy coin.}}</ref>
+* 2007 – Best New Coin Award, Awards for Excellence in Currency: Presented by the International Association of Currency Affairs
+** Category: Best Coin 25¢ coloured circulation coin
+** Theme: Creating a Future Without Breast Cancer<ref name=autogenerated3 />
+* 2007 – 2007 Coin of the Year Award and 2007 Most Innovative Coin Award, Presented at the 2008 World Money Fair, presented by Krause Publications
+** Category:Coin of the Year and Most Innovative Coin Coin: Big and Little Bear Constellations coins
+** Theme: Constellation<ref name=autogenerated3 />
+* 2007 – 2007 Most Inspirational Coin Award, Presented at the 2008 World Money Fair, presented by Krause Publications
+** Category: Most Inspirational Coin
+** Coin: Pink Ribbon coin Theme: Ribbon of Hope<ref name=autogenerated3 />
+* 2010 – 2010 Excellence in Currency Awards, Presented by IACA
+** Category: Best new series
+** Coin: Vancouver 2010 Circulation Programme
+* 2010 – 2010 Most Inspirational Coin Award, Presented at the 2010 World Money Fair, presented by Krause Publications
+** Category: Most Inspirational Coin
+** Coin: Fine Gold Kilo – Towards Confederation
+* 2011 – 2011 Best Silver Coin, Krause Publications 2011 Coin of the Year Awards
+** Category: Best Silver Coin
+** Coin: 2009 Fine Silver Crystal Snowflake
+* 2011 – 2011 Most Artistic, Krause Publications 2011 Coin of the Year Awards
+** Category: Most Artistic
+** Coin: 2009 $300 Gold Coin – Summer Moon Mask
+
+== See also ==
+{{Portal|Canada|Money|Numismatics}}
+* [[List of mints]]
+* [[List of bullion dealers]]
+* [[Canadian Bank Note Company]] – one of two companies responsible for the printing of [[Banknotes of the Canadian dollar|Canadian banknotes]]
+* [[Giesecke & Devrient]] – the German parent company of BA International, the other company responsible for printing Canadian banknotes
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* {{Cite web |url=https://www.historicalsocietyottawa.ca/publications/ottawa-stories/important-public-and-private-buildings-in-the-city/the-royal-mint |title=The Royal Mint |last1=Powell |first1=James |year=2024 |department=Publications |website=www.historicalsocietyottawa.ca |publisher=Historical Society of Ottawa |doi-broken-date= |access-date=December 29, 2024}}
+* {{Cite web |url=https://www.gold.org/goldhub/data/gold-reserves-by-country |title=Gold Reserves by Country |author1=Staff writer |date=December 4, 2024 |website=www.gold.org |publisher=World Gold Council |doi-broken-date= |access-date=December 29, 2024}}
+
+== External links ==
+{{Commons category}}
+* {{Official website|https://www.mint.ca/}}
+
+{{Coord|45.43135|N|75.699282|W|region:CA_scale:20000|display=title}}
+
+{{Crown corporations of Canada}}
+{{Canadian currency and coinage}}
+{{Ottawa landmarks}}
+{{Economy of Canada footer}}
+{{authority control}}
+
+[[Category:Royal Canadian Mint| ]]
+[[Category:1908 establishments in Ontario]]
+[[Category:Canadian organizations established in 1908]]
+[[Category:Canadian federal Crown corporations]]
+[[Category:Organizations based in Canada with royal patronage]]
+[[Category:Manufacturing plants in Canada]]
+[[Category:Currencies of Canada]]
+[[Category:Coins of Canada]]
+[[Category:Banking in Canada]]
+[[Category:Federal government buildings in Ottawa]]
+[[Category:Buildings and structures in Winnipeg]]
+[[Category:Tourist attractions in Winnipeg]]
+[[Category:Bullion dealers]]
+[[Category:Sussex Drive]]
+[[Category:St. Boniface, Winnipeg]]
+[[Category:Companies based in Ottawa]]

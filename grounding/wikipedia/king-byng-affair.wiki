@@ -1,0 +1,158 @@
+{{Short description|1926 Canadian constitutional crisis}}
+{{Use Canadian English|date=April 2024}}
+{{multiple image
+| width = 160
+| image1 = William Lyon Mackenzie King 1926 MIKAN 3217497 restored.png
+| image2 = Lord Byng (HS85-10-39396) (cropped).jpg
+| caption1 = [[William Lyon Mackenzie King]], Prime Minister of Canada
+| caption2 = [[Lord Byng of Vimy]], Governor General of Canada
+}}
+
+The '''King–Byng affair''', also known as the '''King–Byng Wing Ding''',<ref>{{Cite web|last=Torontoist|date=2025-04-08|title=The King-Byng Affair 1926|url=https://www.canadahistoryproject.ca/1920s/1920s-07-king-byng.html|access-date=2025-04-08|website=Torontoist}}</ref> was a Canadian [[constitutional crisis]] that occurred in 1926, when the [[Governor General of Canada]], [[Julian Byng, 1st Viscount Byng of Vimy|Lord Byng of Vimy]], refused a request by the [[Prime Minister of Canada|Prime Minister]], [[William Lyon Mackenzie King]], to [[dissolution of parliament|dissolve parliament]] and call a [[general election]].
+
+The [[1925 Canadian federal election]] saw King's [[Liberal Party of Canada|Liberals]] winning fewer seats than the [[Conservative Party of Canada (1867-1942)|Conservatives]] of [[Arthur Meighen]], who were left eight seats short of a majority. The [[Progressive Party of Canada|Progressives]] lost almost two-thirds of their seats from the previous election, but they still held enough seats to control the balance of power. As the incumbent party is given the first opportunity to form government, King decided to attempt to hold onto power with the help of the Progressives. The Progressives' alliance with the Liberals enabled King to form a minority government.
+
+In June 1926, facing a Commons vote that could force his government to resign following a scandal, King asked Byng to dissolve parliament and call an election. Byng refused King's request, exercising his [[reserve power]]s. King duly resigned, and Byng invited the Conservative Party to form a government. The Meighen government lost a [[motion of no confidence]] on 2 July 1926, and the governor general then agreed to dissolve parliament. Following the [[1926 Canadian federal election|election on 14 September]], King again assumed the office as prime minister, once again leading a minority government, but this time as the clear largest party in parliament and only narrowly short of a majority.
+
+The crisis came to redefine the role of [[governor general]] throughout the [[Dominion]]s of the [[British Empire]], becoming a major impetus in negotiations at [[Imperial Conference]]s held in the late 1920s that led to the adoption of the [[Statute of Westminster 1931]]. According to [[constitutional convention (political custom)|constitutional convention]] until then, the governor general represented the sovereign both in his [[Privy Council of the United Kingdom|imperial council]] and in his [[King's Privy Council for Canada|Canadian council]], but the convention evolved afterwards into a tradition of non-interference in Canadian political affairs on the part of the British government. After 1931, the governor general remained an important figure in Canadian governance as a constitutional watchdog,<ref>{{Cite book| last=McWhinney| first=Edward| author-link=Edward McWhinney| title=The Governor General and the Prime Ministers: the Making and Unmaking of Governments| publisher=Ronsdale Press| year=2005| location=Vancouver| page=118| isbn=1-55380-031-1}}</ref> but the role was shorn of its previous imperial duties.<ref>{{Cite book| last=Messamore| first=Barbara J.| title=Canada's Governors General, 1847:1878: Biography and Constitutional Evolution| publisher=University of Toronto Press| year=2006| location=Toronto| isbn=978-0-8020-9061-4}}</ref>
+
+==Background==
+[[Image:Chambre des Communes 1925.png|thumb|right|The election results of 1925: Liberal (101), Conservative (116), Progressive (22), other (6)]]
+In September 1925, Prime Minister King [[advice (constitutional law)|advised]] Governor General Lord Byng to [[Dissolution of parliament#Canada|dissolve parliament]] and [[drop the writ]] for a [[Elections in Canada|general election]], to which Byng agreed. In the [[1925 Canadian federal election|subsequent election]], held on 29 October, [[Arthur Meighen]]'s [[Conservative Party of Canada (1867-1942)|Conservative Party]] won 116 seats in the [[House of Commons of Canada|House of Commons]] to 101 for King's [[Liberal Party of Canada|Liberals]]. The [[Progressive Party of Canada|Progressive Party]], an agrarian centre-left party, won 22 seats.
+
+Meighen declared victory, but King did not resign. The [[14th Canadian Parliament|previous parliament]], formed after the [[1921 Canadian federal election|1921 election]], had seen King frequently cooperate with members of the Progressive Party to maintain a majority. Although the Progressives' numbers had also been substantially reduced (from 58), they continued to hold the [[balance of power (parliament)|balance of power]] in the chamber, and King was confident this informal arrangement could continue even though the Liberals were no longer the largest party.{{Citation needed|date=January 2021}}
+
+On 30 October, King visited Byng after consulting with the rest of Cabinet and informed the Governor General that his government would continue until parliament decided otherwise.<ref name = williams305>{{Cite book |last1=Williams |first1=Jeffery |title=Byng of Vimy: General and Governor General |publisher=University of Toronto Press |year=1992 |page=305 |location=Toronto |isbn= 978-0-436-57110-7 |url=https://archive.org/details/byngofvimygenera0000will/page/305}}</ref> Byng, who had suggested to King that he ought to resign with such a tenuous mandate, later stated he told the Prime Minister: "Well, in any event you must not at any time ask for a dissolution unless Mr Meighen is first given a chance to show whether or not he is able to govern", to which Byng believed King acquiesced, but King denied took place.<ref name = williams305/>
+
+While Meighen and other Conservatives expressed public outrage at what they viewed as a desperate attempt on the part of King to cling to power, some Conservatives were privately relieved by King's decision; they seriously doubted whether the Tories could convince the Progressives to support a Conservative minority government, were confident that King's attempt to remain in power would eventually fail, and thought the expected debacle would be so damaging to the Liberals' reputation that the Conservatives would then be swept into office with a majority.{{Citation needed|date=January 2021}}
+
+===Customs scandal===
+A few months later, one of King's appointees in the Department of Customs and Excise was revealed to have taken bribes, after which the Conservatives alleged that the corruption extended to the highest levels of government, including the prime minister. King had already replaced the Minister of Customs and Excise, [[Jacques Bureau]], with [[Georges Henri Boivin]], but recommended that Byng appoint Bureau to the [[Senate of Canada|Senate]]. This alienated Progressive members who were already distancing themselves from the government because of its failure to transfer control of [[Alberta]]'s natural resources from the federal government to the province.<ref>{{Harvnb| Williams| 1992| p=314}}</ref>
+
+The Progressive Party's support was temporarily retained by the formation of a special committee to investigate the corruption in the customs department. Its report, which was presented to the House of Commons, acknowledged that there was widespread fraud in the department but did not specifically criticize the government. A Conservative [[Member of Parliament (Canada)|Member of Parliament]], [[H. H. Stevens]], proposed an amendment to the report which would effectively censure the government and compel it to resign. However, Labour MP [[J. S. Woodsworth]] proposed amending Stevens' amendment to remove the censure of the government and set up a [[Royal Commission]] to investigate the customs department further. The motion was defeated, despite the full support of the government. A Progressive MP, [[William Russell Fansher]], then proposed that a Royal Commission be combined with the original motion of censure. The [[Speaker of the House of Commons of Canada|Speaker of the House]] ruled the motion out of order, but, [[on division]], the members over-ruled the speaker and the Cabinet was defeated again. After a motion that the House adjourn, put forward by a Progressive member at King's behest, was subsequently also voted down, King announced that he would accept Fansher's amendment and secured an adjournment.<ref>{{Harvnb| Williams| 1992| pp=314–315}}</ref>
+
+===Request for dissolution===
+To avoid the inevitable vote on the Fansher amendment, which would either force his government's resignation or bring his administration into disrepute, King went to Byng on 26 June 1926 seeking a dissolution of parliament.<ref name=Forsey>{{Cite journal| last=Forsey| first=Helen| title=As David Johnson Enters Rideau Hall...| journal=The Monitor| publisher=Canadian Centre for Policy Alternatives| location=Ottawa| date=1 October 2010| url=http://www.policyalternatives.ca/publications/monitor/david-johnson-enters-rideau-hall | access-date=23 January 2011}}</ref> Byng, citing his [[reserve power]]s, stated he was inclined to refuse the request, reminding King of their agreement made the previous October and arguing that the Conservatives, as the largest party in parliament, should have a chance to form a government before an election was called. For the next two days, the Prime Minister and the Governor General discussed the matter, with Byng asking King not to request a dissolution which he could not give and King twice requesting that Byng consult the British government prior to making any decision. Byng again refused, saying the matter should be settled in Canada, without resort to London.<ref>{{Harvnb| Williams| 1992| pp=315–317}}</ref> With Byng remaining steadfast, King formally presented the Governor General with an [[Order in Council]] for the dissolution of parliament on June 28, which Byng declined to sign, on the grounds that the House of Commons should first be given the opportunity to decide if it could support a different government.<ref name=Forsey />
+
+Having been refused his formal request, King resigned. Byng then invited Conservative leader Arthur Meighen to form a government. Although many Conservatives privately preferred an election, Meighen believed he was bound by honour and convention to accept Byng's invitation and formed a Cabinet.<ref>{{cite book |last1=Graham |first1=Roger |title=Arthur Meighen: A Biography - Volume 2: And Fortune Fled |date=1963 |publisher=Clarke, Irwin, & Company Limited |location=Toronto |pages=420–421}}</ref>
+
+At that time, convention dictated that the ministers of the Crown drawn from the House of Commons were obliged upon appointment to resign their seats in parliament and [[Ministerial by-election|run for re-election]] in by-elections. This posed a problem for Meighen: his and the other ministers' temporary absence from the House would make the government extremely vulnerable in the event of a vote of non-confidence. Meighen circumvented this by advising the appointment to Cabinet of [[ministers without portfolio]], who were not required to run for re-election.  Progressives and Liberals saw the use of "acting ministers" as against the spirit of the convention, and moved for no-confidence in Meighen's government,<ref name=Levine>{{cite book| last=Levine| first=Allan| title=King: William Lyon Mackenzie King: A Life Guided by the Hand of Destiny| year=2011| publisher=Douglas & McIntyre| location=Vancouver| isbn=978-1-55365-560-2|pages=159–160}}</ref> which lost confidence by only one vote at 2 am on 2 July 1926.<ref>{{Cite web|last=Torontoist|date=2015-09-27|title=Historicist: King vs Meighen for the Fate of Canada|url=https://torontoist.com/2015/09/historicist-king-vs-meighen-for-the-fate-of-canada/|access-date=2021-09-05|website=Torontoist}}</ref>
+
+{| class="wikitable"
+|+ Voting results on Question of Privilege of the Honourable [[James Robb (politician)|James Alexander Robb]]<ref>{{Cite web |title=Journals : House of Commons Journals, 15th Parl... - Canadian Parliamentary Historical Resources |url=https://parl.canadiana.ca/view/oop.HOC_1501_63_01/460 |access-date=2024-06-17 |website=parl.canadiana.ca}}</ref>
+|-
+! style="width:20%;" colspan="2" rowspan="2" | Party
+! colspan="3" | Question of Privilege
+! rowspan="2"| Total
+|-
+! style="width:10%;"| Yeas
+! style="width:10%;"| Nays
+! style="width:10%;"| Not voting
+|-
+|style="background: #d71920" | 
+| [[Liberal Party of Canada]]
+| style="background:#cfc;"| '''77'''
+| 0
+| 24
+| 101
+|-
+| style="background: #9999ff" | 
+| [[Conservative Party of Canada (1867–1942)|Conservative Party of Canada]]
+| 0
+| style="background:#ffaeb9;"| '''91'''
+| 24
+| 115
+|-
+|- {{Canadian party colour|CA|Progressive|row-name}} Party of Canada
+|style="background:#cfc;"|'''14'''
+|{{collapsible list |title=2
+| 1=[[Arthur Moren Boutillier]] 
+| 2=[[William Russell Fansher]]}}
+|5
+|21
+|- {{Canadian party colour|CA|Labour|row-name}} Party
+|style="background:#cfc;"|'''2'''
+|0
+|0
+|2
+|- {{Canadian party colour|CA|AB United Farmers|row-name}}
+|0
+|style="background:#ffaeb9;"|'''1'''
+|1
+|2
+|- {{Canadian party colour|XX|Independent{{efn|Two independent MPs voted Yea, an effective vote of no-confidence, one Independent Liberal did not vote, one Independent Conservative voted Nay, an effective vote of confidence}}|row-name}}
+|{{collapsible list |title=2
+| 1=[[Henri Bourassa]] 
+| 2=[[Alan Webster Neill]]}}
+|1
+|1
+|4
+|-
+! colspan="2" | Total 
+! 95
+! 94
+! 56
+! 245
+|-
+! colspan="2" | Result
+! colspan="4" | Agreed to on [[Division of the assembly|Division]]{{efn|The effect of this vote was to signal [[non-confidence]] of the House of Commons in the [[13th Canadian Ministry|government]], causing Prime Minister [[Arthur Meighen]] to request [[Dissolution of parliament|dissolution of Parliament]] from the Governor General}}
+|}
+
+Meighen subsequently requested a dissolution of parliament, which was granted by Byng on 2 July, and [[1926 Canadian federal election|an election]] was called for 14 September. King's Liberals won a plurality of seats in the House of Commons, while Meighen lost his seat.<ref>{{cite web |url=http://www.parl.gc.ca/ParlInfo/Compilations/ElectionsandRidings/ResultsParty.aspx?Season=0&Parliament=208ab68e-34ac-423b-abb9-1723ff5a6a2c |title=Electoral Results by Party |website=www.parl.gc.ca |url-status=dead |archive-url=https://web.archive.org/web/20140714114230/http://www.parl.gc.ca/parlinfo/compilations/electionsandridings/ResultsParty.aspx?Season=0&Parliament=208ab68e-34ac-423b-abb9-1723ff5a6a2c |archive-date=2014-07-14}}</ref><ref>{{Cite journal|last=Sharp|first=Walter R.|date=1927|title=The Canadian Election of 1926|url=https://www.cambridge.org/core/product/identifier/S0003055400023686/type/journal_article|journal=American Political Science Review|language=en|volume=21|issue=1|pages=101–113|doi=10.2307/1945541|jstor=1945541 |s2cid=150908036 |issn=0003-0554|url-access=subscription}}</ref> The vote was decided by one vote, with the vote of [[Thomas William Bird]], who, advertently or inadvertently, violated a vote pairing agreement to vote for the question of privilege.<ref>{{Cite web |last=Bradburn |first=Jamie |date=2025-04-27 |title=King vs Meighen for the Fate of Canada (The 1925-1926 Federal Elections) |url=https://jamiebradburnwriting.wordpress.com/2025/04/26/king-vs-meighen-for-the-fate-of-canada-the-1925-1926-federal-elections/ |access-date=2026-01-15 |website=Jamie Bradburn's Tales of Toronto |language=en}}</ref>
+
+==Legacy==
+Upon returning to power,  King's government sought at an imperial conference to redefine the role of the governor general as a personal representative of the sovereign in his Canadian council and not of the British government (the king in his British council). The change was agreed to at the [[Imperial Conference of 1926]] and came to be official as a result of the [[Balfour Declaration of 1926]] and [[Statute of Westminster 1931]].{{Citation needed|date=January 2021}}
+
+In a letter to King [[George V]], whom he represented in Canada as governor general, Byng expressed surprise that Mackenzie King, a staunch [[nationalist]], had requested that Byng consult the [[Secretary of State for the Colonies|Colonial Office]] in London over the matter.<ref>{{cite book| last=Hubbard| first=R. H.| title=Rideau Hall| publisher=McGill-Queen's University Press| year=1977| location=Montreal and London| page=[https://archive.org/details/rideauhallillust00hubb/page/158 158]| isbn=978-0-7735-0310-6| url=https://archive.org/details/rideauhallillust00hubb/page/158}}</ref> Byng said: "I have to await the verdict of history to prove my having adopted a wrong course, and this I do with an easy conscience that, right or wrong, I have acted in the interests of Canada and implicated no one else in my decision."<ref>{{Cite book| last=Nicolson| first=Harold| author-link=Harold Nicolson| title=King George the Fifth, His Life and Reign| publisher=Constable & Co. Ltd| year=1952| location=London| pages=[https://archive.org/details/kinggeorgefifthh00nico/page/475 475–477]| isbn=978-0-09-453181-9| url=https://archive.org/details/kinggeorgefifthh00nico/page/475}}</ref> The Colonial Secretary, [[Leo Amery]], privately informed Byng that had he appealed to the British government for an answer, "I could only have replied&nbsp;... that in my view it would not be proper for the Secretary of State to issue instructions to the Governor with regard to the exercise of his constitutional duties."<ref>{{Harvnb| Williams| 1992| p=319}}</ref>
+
+Byng returned to the United Kingdom, leaving Canada on 30 September 1926 a much respected man in both countries, despite the political crisis. Some authorities have held that Byng was constitutionally obligated to refuse King's request; for example, [[Eugene Forsey]] argued that King's advice to Byng was "utterly unprecedented" and said further: "It was tantamount to allowing a prisoner to discharge the jury by which he was being tried ... If the Governor-General had granted the request, he would have become an accomplice in a flagrant act of contempt for Parliament."<ref>{{Citation| last=Forsey| first=Eugene| author-link=Eugene Forsey| date=1 October 2010| editor-last=Forsey| editor-first=Helen| title=As David Johnson Enters Rideau Hall...| periodical=The Monitor| location=Ottawa| publisher=Canadian Centre for Policy Alternatives| url=http://www.policyalternatives.ca/publications/monitor/david-johnson-enters-rideau-hall| access-date=23 January 2011}}</ref> The relatively brief time that King had served in office prior to seeking a dissolution has also been cited as a reason for denying his request. In the United Kingdom in 1950, the [[Lascelles Principles]] expressed the relevant constitutional conventions in the matter, citing the King–Byng controversy as one of the underlying precedents.
+
+Other authorities agreed with King, since, by custom, the Lord Byng of Vimy was obligated to heed the Prime Minister's request to call the election.{{Citation needed| date=February 2011}} In 1997, the [[governor-general of New Zealand]], [[Sir Michael Hardie Boys]], expressed the opinion that Byng had been in error in not re-appointing King as prime minister and then granting the dissolution of parliament to King instead of Meighen.<ref>{{Citation| last=Boys| first=Michael Hardie| author-link=Michael Hardie Boys| date=10 September 1997| title=Public Law Class at College House Christchurch| editor-last=Office of the Governor-General of New Zealand| editor-link=Governor-General of New Zealand| place=Christchurch| publication-place=Wellington| publisher=Queen's Printer for New Zealand| url=https://www.gg.govt.nz/node/562| access-date=6 December 2010}}</ref>
+
+The King–Byng Affair was the most controversial use of a governor general's reserve powers until the [[Australian constitutional crisis of 1975]], in which the [[Governor-General of Australia]], [[Sir John Kerr]], dismissed [[Prime Minister of Australia|Prime Minister]] [[Gough Whitlam]].{{Citation needed|date=January 2021}}
+
+The role of [[Ministerial by-election|ministerial by-elections]] in weakening Meighen's position contributed to the decision of [[R. B. Bennett]]'s Tories to abolish them in 1931. 
+
+==See also==
+{{wikisource|Letter requesting resolution to the King–Byng Affair}}
+* [[1975 Australian constitutional crisis]]
+* [[Lascelles Principles]]
+* [[Easter Crisis of 1920]]
+* [[2008–09 Canadian parliamentary dispute]]
+
+== Notes ==
+{{Notelist}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+* Esberey, J. E. "Personality and Politics: A New Look at the King-Byng Dispute," ''Canadian Journal of Political Science'' 1973 6(1): 37–55 [https://www.jstor.org/stable/3231890 in JSTOR]
+* {{cite book |title=Evatt and Forsey on the Reserve Powers |last=Evatt |first=Herbert Vere |author-link=H. V. Evatt |author2=Forsey, Eugene Alfred |author-link2=Eugene Forsey |year=1990 |publisher=Legal Books |location=[[Sydney]] |isbn=978-1-86316-000-1 |oclc=221145675 }} Also under {{OCLC|23026010}} and {{OCLC|234412580}}.
+*  [[Neatby, H. Blair]]. [https://www.questia.com/PM.qst?a=o&d=64401314 ''William Lyon Mackenzie King, 1924–1932: The Lonely Heights'' (1963)] {{Webarchive|url=https://web.archive.org/web/20120224210630/http://www.questia.com/PM.qst?a=o&d=64401314 |date=2012-02-24 }}
+* Thompson John H., and Allan Seager. ''Canada, 1922–1939: Decades of Discord''. Toronto: McClelland and Stewart, 1985.
+
+==External links==
+* [http://www.mysteriesofcanada.com/canadian-political-system/king_byng_affair The King-Byng Affair – Canada's Government in Minority]; not a scholarly source but includes some documents
+* [http://faculty.marianopolis.edu/c.belanger/quebechistory/federal/kingbyng.htm The King-Byng Affair] {{Webarchive|url=https://web.archive.org/web/20130209233449/http://faculty.marianopolis.edu/c.belanger/quebechistory/federal/kingbyng.htm |date=2013-02-09 }} at Marianopolis College
+* [https://www.thecanadianencyclopedia.ca/en/article/king-byng-affair King-Byng Affair] at [[The Canadian Encyclopedia]]
+* [http://www.cbc.ca/news2/background/cdngovernment/scandals.html CBC's Up the skirt or in the till: Top ten scandals in Canadian political history]
+
+{{William Lyon Mackenzie King}}
+
+{{DEFAULTSORT:King-Byng Affair}}
+[[Category:Political history of Canada]]
+[[Category:Political controversies in Canada]]
+[[Category:Constitution of Canada]]
+[[Category:Monarchy of Canada]]
+[[Category:First premiership of William Lyon Mackenzie King]]
+[[Category:Arthur Meighen]]
+[[Category:15th Canadian Parliament]]
+[[Category:Canada in the world wars and interwar period]]
+[[Category:History of the Liberal Party of Canada]]
+[[Category:Conservative Party of Canada (1867–1942)]]
+[[Category:Progressive Party of Canada]]
+[[Category:1926 in Canadian politics]]
+[[Category:1926 in international relations]]
+[[Category:Canada–United Kingdom relations]]
+[[Category:Constitutional crises]]

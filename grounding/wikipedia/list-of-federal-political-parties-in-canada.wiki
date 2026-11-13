@@ -1,0 +1,982 @@
+{{Short description|None}}
+{{pp-protected|small=yes}}
+{{Multiple issues|
+{{original research|date=January 2019}}
+{{more citations needed|date=November 2018}}
+}}
+{{Use Canadian English|date=April 2020}}
+{{Use mdy dates|date=June 2020}}
+Unlike other [[Federation|federal political systems]], Canadian political parties at the federal level are often loosely or not at all connected to parties at the provincial level, despite having similar names and policy positions.<ref>{{cite web|last1=Christian|first1=William|last2=Jansen|first2=Harold|title=Party System|url=https://www.thecanadianencyclopedia.ca/en/article/party-system|website=The Canadian Encyclopedia |publisher=Historica Canada|access-date=November 7, 2018|date=December 11, 2015|quote=Although there are often provincial parties with similar names or aims as national political parties, Canadian parties are not generally well-integrated{{nbsp}}... Despite the general lack of formal ties, however, there is often significant overlap between supporters of provincial and national parties of the same name.}}</ref> One exception is the [[New Democratic Party]], which is organizationally integrated with most of its provincial counterparts.
+
+==Current parties==
+===Represented parties===
+These parties have seats in the [[House of Commons of Canada|House of Commons]], which is Canada's elected assembly at the federal level. Members were elected in the [[2025 Canadian federal election]] and subsequent [[By-elections to the 45th Canadian Parliament|by-elections]].
+ 
+{| class="wikitable sortable"
+|-
+! colspan="3" | Name
+! Founded
+! class="unsortable"| Leader
+! class="unsortable"| Ideology
+! Political<br/>position
+! Membership
+! [[House of Commons of Canada|MPs]] {{as of|2026|09|21|alt=in<br/>Sept. 2026}}
+! Largest<br/>MP caucus
+! Most ridings<br/>contested
+|-
+{{Canadian party colour|CA|Liberal|row}}
+| [[File:Liberal Party of Canada red symbol.svg|50px]]
+| [[Liberal Party of Canada]]<br />{{lang|fr|size=85%|Parti libéral du Canada}}
+| style="text-align:center;"| 1867
+| [[Mark Carney]]
+| {{csv|[[Liberalism in Canada|Liberalism]]|[[social liberalism]]}}
+| [[Centrism|Centre]] to<br/>[[Centre-left politics|centre-left]]
+| ~400,000 (2025)<ref>{{Cite web |title=Liberal Party of Canada announces nearly 400,000 Registered Liberals ahead of leadership vote {{!}} Liberal Party of Canada |url=https://liberal.ca/liberal-party-of-canada-announces-nearly-400000-registered-liberals-ahead-of-leadership-vote/ |access-date=January 31, 2025 |website=liberal.ca |language=en-CA |archive-date=March 10, 2025 |archive-url=https://web.archive.org/web/20250310011251/https://liberal.ca/liberal-party-of-canada-announces-nearly-400000-registered-liberals-ahead-of-leadership-vote/ |url-status=live }}</ref>{{efn|The Liberal Party of Canada does not have a paid membership, but instead offers the ability to "register" as a Liberal for free of cost.}}
+| {{Composition bar|173|343|{{Canadian party colour|CA|Liberal}}}} &nbsp;
+| {{Composition bar|179|245|{{Canadian party colour|CA|Liberal}}}} ([[1940 Canadian federal election|1940]]){{efn|In 2015, the Liberal Party held 184 seats; the most in its history. However, at that time there were 338 seats total, so the proportion of seats held by the party was smaller than it was in 1940.}}
+| {{Composition bar|338|338|{{Canadian party colour|CA|Liberal}}}} ([[2015 Canadian federal election|2015]]–[[2021 Canadian federal election|2021]]){{efn|name=election45|In 2025, the Liberals, Conservatives, and NDP each ran 342 candidates; the most in their histories. However, there were 343 seats at that time, so none were a full slate.}}
+|-
+{{Canadian party colour|CA|Conservative|row}}
+|[[File:Conservative Party of Canada symbol.svg|50px]]
+| [[Conservative Party of Canada]]<br />{{lang|fr|size=85%|Parti conservateur du Canada}}
+| style="text-align:center;"| 2003
+| [[Pierre Poilievre]]
+| {{csv|[[Conservatism in Canada|Conservatism]]|[[social conservatism]]|[[economic liberalism]]}}
+| [[Centre-right politics|Centre-right]]<br/>to {{nowrap|[[Right-wing politics|right-wing]]}}
+| 678,708 (2022)<ref>{{cite web |last1=Van Dyk |first1=Spencer |title=Conservative party says nearly 679,000 members eligible to vote for new leader |url=https://www.ctvnews.ca/politics/article/conservative-party-says-nearly-679000-members-eligible-to-vote-for-new-leader/ |website=CTV News |access-date=July 29, 2022 |date=July 29, 2022 |archive-date=July 29, 2022 |archive-url=https://web.archive.org/web/20220729194102/https://www.ctvnews.ca/politics/conservative-party-says-nearly-679-000-members-eligible-to-vote-for-new-leader-1.6007791 |url-status=live }}</ref>
+| {{Composition bar|137|343|{{Canadian party colour|CA|Conservative}}}} &nbsp;
+| {{Composition bar|166|308|{{Canadian party colour|CA|Conservative}}}} ([[2011 Canadian federal election|2011]])
+| {{Composition bar|338|338|{{Canadian party colour|CA|Conservative}}}} (2015, [[2019 Canadian federal election|2019]]){{efn|name=election45}}
+|-
+{{Canadian party colour|CA|BQ|row}}
+| [[File:BlocQuebecois Logo2015 (1) (cropped).png|50px]]
+| [[Bloc Québécois]]
+| style="text-align:center;"| 1991
+| [[Yves-François Blanchet]]
+| {{csv|[[Quebec sovereignty movement|Quebec sovereignty]]|[[social democracy]]|[[Regionalism (politics)|regionalism]]|[[republicanism]]}}
+| [[Centre-left politics|Centre-left]]
+| 23,000 (2014)<ref>{{cite web |title=Don Macpherson: Bloc Québécois's woes bode ill for sovereignty movement |url=https://montrealgazette.com/news/Macpherson+Bloc+Qu%C3%A9b%C3%A9cois+woes+bode+sovereignty+movement/10153845/story.html |url-status=dead |access-date=28 August 2014 |archive-url=https://web.archive.org/web/20140902095703/http://www.montrealgazette.com/news/Macpherson%2BBloc%2BQu%C3%A9b%C3%A9cois%2Bwoes%2Bbode%2Bsovereignty%2Bmovement/10153845/story.html |archive-date=2 September 2014}}</ref>
+| {{Composition bar|21|343|{{Canadian party colour|CA|BQ}}}} &nbsp;
+| {{Composition bar|54|295|{{Canadian party colour|CA|BQ}}}} (1993){{efn|The Bloc Québécois also won 54 seats in the 2004 election, but at the time there were 308 seats total, so the proportion of seats held by the party was smaller than it was in 1993.}}
+| {{Composition bar|75|295|{{Canadian party colour|CA|BQ}}}} ([[1993 Canadian federal election|1993]]){{efn|In the 2015–2025 elections the Bloc Québécois ran 78 candidates, but the House had 338 seats total, so the proportion of seats was smaller than it was in 1993.}}
+|-
+{{Canadian party colour|CA|NDP|row}}
+|[[File:Orange NDP logo English.svg|50px]]
+| [[New Democratic Party]]<br />{{lang|fr|size=85%|Nouveau Parti démocratique}}
+| style="text-align:center;"| 1961
+| [[Avi Lewis]] 
+| {{csv|[[Socialism in Canada#Democratic socialism|Democratic socialism]]|[[social democracy]]}}
+| [[Centre-left politics|Centre-left]]<br/>to {{nowrap|[[Left-wing politics|left-wing]]}}
+| 100,542 (2026)<ref>{{Cite web |title=Avi Lewis elected Leader of NDP |url=https://www.ndp.ca/news/avi-lewis-elected-leader-ndp |access-date=March 29, 2026 |website=ndp.ca |language=en-CA }}</ref>
+| {{Composition bar|5|343|{{Canadian party colour|CA|NDP}}}} &nbsp;
+| {{Composition bar|103|308|{{Canadian party colour|CA|NDP}}}} (2011)
+| {{Composition bar|338|338|{{Canadian party colour|CA|NDP}}}} (2015–2021){{efn|name=election45}}
+|-
+{{Canadian party colour|CA|Green|row}}
+| [[File:Logo 2025 Green Party of Canada (cropped).svg|50px]]
+| [[Green Party of Canada]]<br />{{lang|fr|size=85%|Le Parti Vert du Canada}}
+| style="text-align:center;"| 1983
+| [[Elizabeth May]]
+| [[Green politics]]
+| 
+| 9,877 (2025)<ref>{{cite web |title=Leadership Review: Elizabeth May Wins Mandate To Resign |url=https://globalgreen.news/en/leadership-review-elizabeth-mays-wins-mandate-to-resign/ |website=Global Green News |access-date=17 May 2026 |date=1 October 2025}}</ref>
+| {{Composition bar|1|343|{{Canadian party colour|CA|Green}}}} &nbsp;
+| {{Composition bar|3|338|{{Canadian party colour|CA|Green}}}} (2019)
+| {{Composition bar|338|338|{{Canadian party colour|CA|Green}}}} (2019)
+|}
+
+=== Registered parties ===
+The following political parties are registered with [[Elections Canada]] and eligible to run candidates in future federal elections, but are not currently represented in the House of Commons.<ref name="ECparties">{{Cite web|last=Elections Canada|date=January 11, 2021|title=Registered Political Parties and Parties Eligible for Registration|url=https://www.elections.ca/content.aspx?dir=par&document=index&lang=e&section=pol|access-date=May 21, 2022|work=[[Elections Canada]]}}</ref>
+
+{| class="wikitable sortable"
+|-
+! colspan="2" | Name
+! Founded
+! class="unsortable"| Leader
+! class="unsortable"| Ideology
+! Political position
+! Membership
+! Largest MP caucus
+! Most ridings contested
+|-
+{{Canadian party colour|CA|AAEVPC|row}}
+| [[Animal Protection Party of Canada|Animal Protection Party]]<br /><small>{{lang|fr|Le Parti pour la Protection des Animaux}}</small>
+| style="text-align:center;"| 2005
+| [[Liz White (animal rights)|Liz White]]
+| [[Animal rights]], [[environmentalism]]
+| {{N/A}}
+|
+|&mdash;
+| {{Composition bar|17|338|{{Canadian party colour|CA|AAEVPC}}}} (2019)
+|-
+{{Canadian party colour|CA|Future|row}}
+| [[Canadian Future Party]]<br /><small>{{lang|fr|Parti avenir canadien}}</small>
+| style="text-align:center;"| 2024
+| [[Dominic Cardy]]
+| [[Centrism]]
+|[[Centrism|Centre]]
+|1,401 (2024)<ref>{{cite web | last=Huras | first=Adam | title=Dominic Cardy now permanent leader of own upstart federal party | website=Telegraph-Journal | date=November 9, 2024 | url=https://tj.news/new-brunswick/dominic-cardy-now-permanent-leader-of-his-upstart-federal-party | access-date=November 10, 2024}}</ref>
+|&mdash;
+| {{Composition bar|19|343|{{Canadian party colour|CA|Future}}}} (2025)
+|-
+{{Canadian party colour|CA|Centrist|row}}
+|Centrist Party of Canada<br /><small>{{lang|fr|Parti centriste du Canada}}</small>
+| style="text-align:center;"| 2020
+| A.Q. Rana
+| [[Centrism]]
+| [[Centrism|Centre]]
+|
+|&mdash;
+| {{Composition bar|19|343|{{Canadian party colour|CA|Centrist}}}} (2025)
+|-
+{{Canadian party colour|CA|Christian Heritage|row}}
+| [[Christian Heritage Party of Canada|Christian Heritage Party]]<br /><small>{{lang|fr|Parti de l'Héritage Chrétien}}</small>
+| style="text-align:center;"| 1986
+| Rodney L. Taylor
+| [[Social conservatism]], [[Christian right]]
+| [[Right-wing politics|Right-wing]]
+|6,000 (2015)<ref name="McKeen, 2015">{{cite thesis|last1=McKeen|first1=Leah A. D.|title=Canadian Christian nationalism?: The religiosity and politics of the Christian Heritage Party of Canada |type=PhD dissertation |id=Paper 1740|url=http://scholars.wlu.ca/cgi/viewcontent.cgi?article=2842&context=etd|access-date=2 September 2015|date=2015|publisher=Wilfrid Laurier University}}</ref>
+|&mdash;
+| {{Composition bar|63|295|{{Canadian party colour|CA|Christian Heritage}}}} (1988)
+|-
+{{Canadian party colour|CA|Communist|row}}
+| [[Communist Party of Canada]]<br /><small>{{lang|fr|Parti communiste du Canada}}</small>
+| style="text-align:center;"| 1921
+|  [[Drew Garvie]]
+| [[Communism]], [[Marxism–Leninism]]
+| [[Far-left politics|Far-left]]
+|
+| {{Composition bar|2|245|{{Canadian party colour|CA|Communist}}}} (1943){{efn|Known at the time as the [[Labor-Progressive Party]].}}
+| {{Composition bar|100|265|{{Canadian party colour|CA|Communist}}}} (1953){{efn|Known at the time as the [[Labor-Progressive Party]].}}
+|-
+{{Canadian party colour|CA|Marxist-Leninist|row}}
+| [[Communist Party of Canada (Marxist–Leninist)|Marxist–Leninist Party of Canada]]<br /><small>{{lang|fr|Parti Marxiste–Léniniste du Canada}}</small>
+| style="text-align:center;"| 1970
+| Anna Di Carlo
+| [[Communism]], [[Marxism–Leninism]], [[Anti-revisionism]]
+| [[Far-left politics|Far-left]]
+|
+|&mdash;
+| {{Composition bar|177|282|{{Canadian party colour|CA|Marxist-Leninist}}}} (1980)
+|-
+{{Canadian party colour|CA|PPC|row}}
+| [[People's Party of Canada]]<br /><small>{{lang|fr|Parti populaire du Canada}}</small>
+| style="text-align:center;"| 2018
+| [[Maxime Bernier]]
+| [[Conservatism in Canada|Conservatism]], [[right-libertarianism]], [[right-wing populism]]
+| [[Right-wing politics|Right-wing]] to [[Far-right politics|far-right]]
+|17,720 (2025)<ref>{{cite web |title=Results – 2025 Leadership Review |url=https://ppc.simplyvoting.com/voting/guest/elections/261866/results?language=en |website=Simply Voting |publisher=People's Party of Canada |access-date=23 June 2025}}</ref>
+| {{Composition bar|1|338|{{Canadian party colour|CA|PPC}}}} (2018)
+| {{Composition bar|315|338|{{Canadian party colour|CA|PPC}}}} (2019)
+|-
+{{Canadian party colour|CA|Rhinoceros|row}}
+| [[Rhinoceros Party]]<br /><small>{{lang|fr|Parti Rhinocéros}}</small>
+| style="text-align:center;"| 2006
+| Chinook B. Blais-Leduc
+| [[List of frivolous political parties|Satirical politics]]
+|
+|260 (2022)<ref>{{cite web |last1=Elliott |first1=Blair |title=Horning In |url=https://maisonneuve.org/article/horning-in |website=[[Maisonneuve (magazine)|Maisonneuve]] |access-date=1 July 2026 |date=19 April 2023}}</ref>
+|&mdash;
+| {{Composition bar|39|338|{{Canadian party colour|CA|Rhinoceros}}}} (2019)
+|-
+{{Canadian party colour|CA|United|row}}
+| [[Reforge Party]]{{efn|Known as the United Party of Canada from 2024 to 2026.}}<br /><!-- same name in both official languages -->
+| style="text-align:center;"| 2024
+| Grant Abraham
+| [[Social conservatism]], [[fiscal conservatism]], [[right-wing populism]]
+| [[Right-wing politics|Right-wing]] to [[Far-right politics|far-right]]
+|400–500 (2025)<ref>{{cite web |last1=Grenier |first1=Éric |title=Weekly Writ 7/9: Martel's Senate appointment means high-stakes byelection to come |url=https://www.thewrit.ca/p/weekly-writ-79-martels-senate-appointment |website=[[Substack]] |publisher=The Writ |access-date=10 July 2026 |date=9 July 2026}}</ref>
+|&mdash;
+| {{Composition bar|16|343|{{Canadian party colour|CA|United}}}} (2025)
+|}
+
+===Eligible parties===
+Eligible parties have applied to Elections Canada and met all of the legal requirements to be registered, other than running a candidate in a general election or by-election.<ref name="Eligible" /> Such parties are eligible to run candidates in federal elections but are not be considered "registered" by Elections Canada until they have registered a candidate in an election or by-election.<ref name="Eligible">{{Cite web |last=Elections Canada |url=https://www.elections.ca/content.aspx?section=pol&dir=pol/bck&document=index&lang=e |title=Registration of Federal Political Parties |work=[[Elections Canada]] |date=September 21, 2023 |access-date=September 21, 2023}}</ref> There are currently no eligible parties at the federal level.
+
+===Non-party parliamentary groups===
+At various points both the House of Commons and Senate have included non-party [[parliamentary group]]s, also called caucuses. These groups are unaffiliated with registered political parties, are not registered with Elections Canada, and do not run candidates in Canadian federal elections. Essentially, these parliamentary groups are equivalent to political parties in the legislative context, but do not exist in an electoral capacity.
+
+Parliamentary groups in the [[House of Commons of Canada]] are typically made up of MPs that separate from a party over leadership conflicts. Notable past parliamentary groups in the House of Commons include the [[Ginger Group]] (1924–1932; split from [[Progressive Party of Canada|Progressive Party]]), [[Democratic Representative Caucus]] (2001–2002; split from [[Canadian Alliance]]), and [[Québec debout]] (2018; split from [[Bloc Québécois]]).
+
+===Senate caucuses===
+The [[Senate of Canada]] is Canada's unelected upper chamber. It currently has three non-party [[parliamentary group]]s: the [[Independent Senators Group]] (ISG), the [[Canadian Senators Group]] (CSG), and the [[Progressive Senate Group]] (PSG). These three groups do not share a formal ideology, platform, or membership in any one political party; the caucuses primarily serve to provide organizational support and better leverage parliamentary resources. Conservative senators remain formally affiliated with the [[Conservative Party of Canada]].<ref name="nat-post-new-senate-bloc">{{cite news |author1=Jesse Snyder |author2=Brian Platt |title=New Senate bloc looking to protect 'regional interests' could hamper Trudeau's efforts to pass legislation |url=https://nationalpost.com/news/canada/new-senators-group-of-11-could-complicate-liberal-efforts-to-get-legislation-passed |access-date=November 5, 2019 |work=National Post |date=November 4, 2019}}</ref><ref name="new-senate-can-faction-14nov2019">{{cite news |last1=Tasker |first1=John Paul |title=There's another new faction in the Senate: the Progressive Senate Group |url=https://www.cbc.ca/news/politics/new-faction-progressive-senate-group-1.5358269 |access-date=November 14, 2019 |work=CBC News |date=November 14, 2019}}</ref>
+
+{| class="wikitable sortable"
+|-
+! colspan="2" | Name
+! Founded
+! class="unsortable"| Facilitator / Leader
+! class="unsortable"| Ideology
+! [[Senate of Canada|Senators]] {{as of|2026|10|23|alt=in<br/>Oct. 2026}}
+! Most senators
+|-
+{{Canadian party colour|CA|Independent Senators Group|row}}
+| [[Independent Senators Group]]<br /><small>{{lang|fr|Groupe des sénateurs indépendants}}</small>
+| 2016
+| [[Raymonde Saint-Germain]]
+| [[Independent politician|Non-partisan]] [[technical group]]
+| {{Composition bar|37|105|{{Canadian party colour|CA|Independent Senators Group}}}} &nbsp;
+| {{Composition bar|59|105|{{Canadian party colour|CA|Independent Senators Group}}}} (2019)
+|-
+{{Canadian party colour|CA|Progressive Senate Group|row}}
+| [[Progressive Senate Group]]<br /><small>{{lang|fr|Groupe progressiste du sénat}}</small>
+| 2019
+| [[Pierre Dalphond]]
+| [[Progressivism]], [[Independent politician|Non-partisan]] [[technical group]] 
+| {{Composition bar|17|105|{{Canadian party colour|CA|Progressive Senate Group}}}} &nbsp;
+| {{Composition bar|18|105|{{Canadian party colour|CA|Progressive Senate Group}}}} (2025)
+|-
+{{Canadian party colour|CA|Canadian Senators Group|row}}
+| [[Canadian Senators Group]]<br /><small>{{lang|fr|Groupe des sénateurs Canadiens}}</small>
+| 2019
+| [[Scott Tannas]]
+| [[Independent politician|Non-partisan]] [[technical group]]
+| {{Composition bar|15|105|{{Canadian party colour|CA|Canadian Senators Group}}}} &nbsp;
+| {{Composition bar|21|105|{{Canadian party colour|CA|Canadian Senators Group}}}} (2025)
+|-
+{{Canadian party colour|CA|Conservative|row}}
+| [[Conservative Party of Canada]]&nbsp;<br /><small>{{lang|fr|Parti conservateur du Canada}}</small>
+| 2003
+| [[Leo Housakos]]
+| [[Conservatism in Canada|Conservatism]], [[economic liberalism]]
+| {{Composition bar|13|105|{{Canadian party colour|CA|Conservative}}}} &nbsp;
+| {{Composition bar|65|105|{{Canadian party colour|CA|Conservative}}}} (2013)
+|-
+{{Canadian party colour|CA|Senate GRO|row}}
+| Government Representative's Office&nbsp;<br /><small>{{lang|fr|Bureau du représentant du gouvernement}}</small>
+| 2025
+| [[Pierre Moreau]]
+| 
+| {{Composition bar|5|105|{{Canadian party colour|CA|Senate GRO}}}} &nbsp;
+| {{Composition bar|5|105|{{Canadian party colour|CA|Senate GRO}}}} (2025)
+|}
+
+== Historical parties ==
+=== Registered parties ===
+These are political parties which held seats in the House of Commons and either ceased to exist before [[Elections Canada]] was formed, or were once registered with Elections Canada but have become de-registered or ceased to exist due to dissolution.<ref name="ECparties" />
+
+{| class="wikitable sortable"
+|-
+! colspan="2" | Name
+! Founded
+! Dissolved
+! class="unsortable"|Ideology
+! Largest MP caucus
+! Most ridings contested
+|-
+{{Canadian party colour|CA|Abolitionist|row}}
+|[[Abolitionist Party of Canada|Abolitionist Party]]
+|1993||{{dts|1996}}
+|[[Social credit]], [[monetary reform]], social liberalism
+|&mdash;
+|{{Composition bar|80|295|{{Canadian party colour|CA|Abolitionist}}}} ([[1993 Canadian federal election|1993]])
+{{Canadian party colour|CA|Anti-Confederation|row}}
+| [[Anti-Confederation Party]]
+|1867||{{dts|1867}}
+|Opposition to Confederation (membership in Canada), Nova Scotia [[separatism]]
+|{{Composition bar|18|181|{{Canadian party colour|CA|Anti-Confederation}}}} (1867)
+|{{Composition bar|20|181|{{Canadian party colour|CA|Anti-Confederation}}}} ([[1867 Canadian federal election|1867]])
+{{Canadian party colour|CA|Bloc populaire|row}}
+| {{lang|fr|[[Bloc populaire]]}}
+|1943||{{dts|1949}}
+| [[Conscription in Canada|Anti-conscription]], [[Canadian nationalism]], [[isolationism]], French Canadian rights
+|{{Composition bar|4|245|{{Canadian party colour|CA|Bloc populaire}}}} (1943)
+|{{Composition bar|35|245|{{Canadian party colour|CA|Bloc populaire}}}} ([[1945 Canadian federal election|1945]])
+{{Canadian party colour|CA|Canada Party|row}}
+|[[Canada Party|Canada Party (1993)]]
+|1993||{{dts|1996}}
+|
+|&mdash;
+|{{Composition bar|56|295|{{Canadian party colour|CA|Canada Party}}}} ([[1993 Canadian federal election|1993]])
+|-
+{{Canadian party colour|CA|Canadian Action|row}}
+| [[Canadian Action Party]]<br /><small>{{lang|fr|Parti action canadienne}}</small>
+| 1997||{{dts|2017}}<ref name="auto">{{Cite web|url=https://www.elections.ca/content.aspx?section=pol&dir=par&document=index&lang=e|title=Registered Political Parties and Parties Eligible for Registration|first=Elections|last=Canada|website=www.elections.ca|date=January 13, 2023}}</ref>
+| [[Canadian nationalism]], [[Anti-globalization movement|anti-globalization]]
+|&mdash;
+|{{Composition bar|70|301|{{Canadian party colour|CA|Canadian Action}}}} ([[2000 Canadian federal election|2000]])
+|-
+{{Canadian party colour|CA|Nationalist|row}}
+| [[Canadian Nationalist Party (2017)|Canadian Nationalist Party]]<br /><small>{{lang|fr|Parti nationaliste canadien}}</small>
+| 2017 || {{dts|2022}}
+| [[White nationalism]]
+|&mdash;
+| {{Composition bar|3|338|{{Canadian party colour|CA|Nationalist}}}} ([[2019 Canadian federal election|2019]])
+|-
+{{Canadian party colour|CA|Canadian Alliance|row}}
+| [[Canadian Reform Conservative Alliance]]<br/><small>{{lang|fr|Alliance réformiste-conservatrice canadienne}}</small>
+| 2000|| {{dts|2003}}
+| [[Conservatism in Canada|Conservatism]], [[right-wing populism]], [[social conservatism]]<ref name="Leeson2001">{{cite book|author=Howard A. Leeson|title=Saskatchewan Politics: Into the Twenty-first Century|url=https://books.google.com/books?id=qb4hnmKhTEoC&pg=PA161|year=2001|publisher=University of Regina Press|isbn=978-0-88977-131-4|page=161}}</ref><ref name="Miron2009">{{cite book|author=Janet Miron|title=A History of Human Rights in Canada: Essential Issues|url=https://books.google.com/books?id=tNS092dZzzMC&pg=PA208|year=2009|publisher=Canadian Scholars' Press|isbn=978-1-55130-356-7|page=208}}</ref><ref name="GouldPaquino2001">{{cite book|author1=Carol Gould|author2=Pasquale Paquino|title=Cultural Identity and the Nation-state|url=https://books.google.com/books?id=UojTSUnDmC4C&pg=PA39|date=January 1, 2001|publisher=Rowman & Littlefield|isbn=978-0-8476-9677-2|page=39}}</ref>
+|{{Composition bar|66|301|{{Canadian party colour|CA|Canadian Alliance}}}} (2001)
+|{{Composition bar|298|301|{{Canadian party colour|CA|Canadian Alliance}}}} ([[2000 Canadian federal election|2000]])
+{{Canadian party colour|CA|CCF|row}}
+|[[Co-operative Commonwealth Federation]]<br/><small>{{lang|fr|Parti social démocratique}}</small>
+|1932||{{dts|1961}}
+| [[Social democracy]], [[democratic socialism]], [[agrarianism]]<ref name="Lipset1971">{{cite book|author=Seymour Martin Lipset|author-link=Seymour Martin Lipset|title=Agrarian Socialism: The Cooperative Commonwealth Federation in Saskatchewan : a Study in Political Sociology|url=https://books.google.com/books?id=_oosxdaj7JQC|access-date=August 20, 2012|year=1971|publisher=University of California Press|isbn=978-0-520-02056-6}}</ref>
+|{{Composition bar|31|245|{{Canadian party colour|CA|CCF}}}} (1948)
+|{{Composition bar|205|245|{{Canadian party colour|CA|CCF}}}} ([[1945 Canadian federal election|1945]])
+{{Canadian party colour|CA|CoR|row}}
+| [[Confederation of Regions Party of Canada|Confederation of Regions Party]]
+|1984||{{dts|1988}}
+| Regionalism, conservatism
+|&mdash;
+|{{Composition bar|55|282|{{Canadian party colour|CA|CoR}}}} ([[1984 Canadian federal election|1984]])
+{{Canadian party colour|CA|Conservative (historical)|row}}
+|[[Conservative Party of Canada (1867–1942)|Conservative Party (1867)]]
+----
+[[Progressive Conservative Party of Canada|Progressive Conservative Party]]
+|1854||{{dts|2003}}
+| [[Conservatism in Canada|Canadian conservatism]], [[Loyalism|British loyalism]], [[Canadian nationalism]] (particularly under [[John Diefenbaker]]), [[Red Toryism]], [[economic liberalism]] (under [[Brian Mulroney]]), moderation, occasional [[populism]]
+|{{Composition bar|209|265|{{Canadian party colour|CA|Conservative (historical)}}}} (1958){{efn|In 1984 the Progressive Conservative Party held 211 seats; the most in its history. However, at that time there were 282 seats total, so the proportion of seats held by the party was smaller than it was in 1958.
+}}<!-- 1958 numbers are after the September by-election but before the December by-election. -->
+|{{Composition bar|301|301|{{Canadian party colour|CA|Conservative (historical)}}}} ([[1997 Canadian federal election|1997]])
+{{Canadian party colour|CA|Democratic|row}}
+| [[Democratic Party of Canada|Democratic Party]]
+|1945||{{dts|1945}}
+|
+|&mdash;
+|{{Composition bar|5|245|{{Canadian party colour|CA|Democratic}}}} ([[1945 Canadian federal election|1945]])
+{{Canadian party colour|CA|Independent|row}}
+| Direct Democracy Party
+| 2019||{{dts|2023}}
+| [[Direct democracy]]
+| &mdash;
+| {{Composition bar|7|338|{{Canadian party colour|CA|Independent}}}} ([[2019 Canadian federal election|2019]])
+{{Canadian party colour|CA|Independent|row}}
+| [[Equal Rights Party (Canada)|Equal Rights]]
+|1890||{{dts|1891}}
+|
+|&mdash;
+|{{Composition bar|2|215|{{Canadian party colour|CA|Independent}}}} ([[1891 Canadian federal election|1891]])
+{{Canadian party colour|CA|FPNP|row}}
+| [[First Peoples National Party of Canada|First Peoples National Party]]
+| 2005||{{dts|2013}}<ref name="auto"/>
+|[[Aboriginal peoples in Canada|Aboriginal]] rights advocacy
+|&mdash;
+|{{Composition bar|6|308|{{Canadian party colour|CA|FPNP}}}} ([[2008 Canadian federal election|2008]])
+{{Canadian party colour|CA|FPC|row}}
+| [[Free Party Canada]]<br /><small>{{lang|fr|Parti Libre Canada}}</small>
+| 2019
+| 2024
+| [[Direct democracy]]<br>[[Vaccine hesitancy]]
+|&mdash;
+| {{Composition bar|59|338|{{Canadian party colour|CA|FPC}}}} (2021)
+{{Canadian party colour|CA|Labour|row}}
+|[[Labour Party of Canada|Labour Party]]
+|1926||{{dts|1968}}
+|[[Trade union]]ism, [[socialism]]
+|{{Composition bar|4|245|{{Canadian party colour|CA|Labour}}}} (1926)
+|{{Composition bar|28|235|{{Canadian party colour|CA|Labour}}}} ([[1921 Canadian federal election|1921]])
+{{Canadian party colour|CA|Libertarian|row}}
+| [[Libertarian Party of Canada]]<br /><small>{{lang|fr|Parti Libertarien du Canada}}</small>
+| style="text-align:left;"| 1973
+| style="text-align:left;"| 2026
+| [[Libertarianism]], [[laissez-faire]]
+|&mdash;
+| {{Composition bar|88|295|{{Canadian party colour|CA|Libertarian}}}} (1988)
+|-
+|-
+{{Canadian party colour|CA|Marijuana|row}}
+| [[Marijuana Party (Canada)|Marijuana Party]]<br /><small>{{lang|fr|Parti Marijuana}}</small>
+|2000||{{dts|2025}}
+| [[Marijuana Party (Canada)#Criticisms of Canada's legalisation (2018–present)|Cannabis law reforms]]
+|&mdash; 
+| {{Composition bar|73|301|{{Canadian party colour|CA|Marijuana}}}} (2000)
+{{Canadian party colour|CA|Maverick|row}}
+| [[Maverick Party]]
+|2020
+|2025
+| [[Western alienation|Western separatism]], [[conservatism]], [[right-wing populism]]
+| &mdash;
+| {{Composition bar|29|338|{{Canadian party colour|CA|Maverick}}}} (2021)
+{{Canadian party colour|CA|Independent|row}}
+|[[McCarthyite candidates 1896|McCarthyite]]
+|1896||{{dts|1898}}
+|Anti-Catholic, anti-French, British imperialism
+|{{Composition bar|1|213|{{Canadian party colour|CA|Independent}}}} (1896){{efn|[[Dalton McCarthy]] won in two ridings, but could only accept one.}}
+|{{Composition bar|11|213|{{Canadian party colour|CA|Independent}}}} ([[1896 Canadian federal election|1896]])
+|-
+{{Canadian party colour|CA|National Citizens Alliance|row}}
+| [[National Citizens Alliance]]<br /><small>{{lang|fr|Alliance Nationale des Citoyens}}</small>
+| 2014 || {{dts|2023}}
+| [[White nationalism]]
+|&mdash;
+| {{Composition bar|4|338|{{Canadian party colour|CA|National Citizens Alliance}}}} (2015, 2019, 2021)
+{{Canadian party colour|CA|National|row}}
+| [[National Party of Canada|National Party (1991)]]
+|1991||{{dts|1994}}
+| [[Canadian nationalism]], [[protectionism]], [[progressivism]]
+|&mdash;
+|{{Composition bar|170|295|{{Canadian party colour|CA|National}}}} ([[1993 Canadian federal election|1993]])
+{{Canadian party colour|CA|Independent|row}}
+|Nationalist (1873)
+|1873||{{dts|1910}}
+| Socialism, nationalization of industries
+|{{Composition bar|2|215|{{Canadian party colour|CA|Independent}}}} (1889)
+|{{Composition bar|6|215|{{Canadian party colour|CA|Independent}}}} (1887)
+{{Canadian party colour|CA|Natural Law|row}}
+| [[Natural Law Party of Canada|Natural Law Party]]<br /><small>{{lang|fr|Parti de la loi naturelle}}</small>
+| 1992||{{dts|2004}}<ref name="auto"/>
+| [[New age]]
+|&mdash;
+|{{Composition bar|231|295|{{Canadian party colour|CA|Natural Law}}}} ([[1993 Canadian federal election|1993]])
+{{Canadian party colour|CA|Independent|row}}
+| [[New Capitalist Party]]
+|1965||1965
+| 
+|&mdash;
+|{{Composition bar|3|265|{{Canadian party colour|CA|Independent}}}} (1965)
+{{Canadian party colour|CA|NLFirst|row}}
+| [[Newfoundland and Labrador First Party]]
+| 2007||{{dts|2011}}<ref name="auto"/>
+| [[Newfoundland and Labrador]] advocacy
+|&mdash;
+|{{Composition bar|3|308|{{Canadian party colour|CA|NLFirst}}}} ([[2008 Canadian federal election|2008]])
+{{Canadian party colour|CA|Non-Partisan League|row}}
+|[[Non-Partisan League]]
+|1917||{{dts|1917}}
+|[[Agrarianism]]
+|&mdash;
+|{{Composition bar|3|235|{{Canadian party colour|CA|Non-Partisan League}}}} ([[1917 Canadian federal election|1917]])
+{{Canadian party colour|CA|Independent|row}}
+|''[[Parti de la Démocratisation Économique]]''
+|1968||{{dts|1968}}
+|
+|&mdash;
+|{{Composition bar|5|264|{{Canadian party colour|CA|Independent}}}} ([[1968 Canadian federal election|1968]])
+{{Canadian party colour|CA|Parti nationaliste|row}}
+|{{lang|fr|[[Parti Nationaliste du Quebec]]}}
+|1983||{{dts|1987}}
+|Quebec independence
+|&mdash;
+|{{Composition bar|74|282|{{Canadian party colour|CA|Parti nationaliste}}}} ([[1984 Canadian federal election|1984]])
+{{Canadian party colour|CA|PCC|row}}
+|[[Party for the Commonwealth of Canada]]
+|1984||{{dts|1993}}
+|[[Lyndon LaRouche|LaRouchite]]
+|&mdash;
+|{{Composition bar|66|282|{{Canadian party colour|CA|PCC}}}} ([[1984 Canadian federal election|1984]])
+
+{{Canadian party colour|CA|Patriote|row}}
+| ''Parti Patriote''
+| 2019||{{dts|2022}}
+| [[Quebec nationalism]], [[Quebec sovereignty]], [[right-wing populism]]
+|&mdash;
+|{{Composition bar|2|338|{{Canadian party colour|CA|Patriote}}}} ([[2021 Canadian federal election|2021]])
+
+{{Canadian party colour|CA|Patrons of Industry|row}}
+| [[Patrons of Industry]]
+| 1890||{{dts|1900}}
+| Pro-labour
+|{{Composition bar|2|213|{{Canadian party colour|CA|Patrons of Industry}}}} (1896)
+|{{Composition bar|31|213|{{Canadian party colour|CA|Patrons of Industry}}}} ([[1896 Canadian federal election|1896]])
+{{Canadian party colour|CA|People's Political Power|row}}
+| [[People's Political Power Party of Canada|People's Political Power Party]]<br /><small>{{lang|fr|Pouvoir Politique du Peuple}}</small>
+| 2006||{{dts|2011}}<ref name="auto"/>
+| Feminist, centrist, populist
+|&mdash;
+|{{Composition bar|2|308|{{Canadian party colour|CA|People's Political Power}}}} ([[2008 Canadian federal election|2008]])
+{{Canadian party colour|CA|Pirate|row}}
+| [[Pirate Party of Canada|Pirate Party]]<br /><small>{{lang|fr|Parti Pirate}}</small>
+| 2010||{{dts|2017}}
+| [[Pirate Party|Pirate politics]]
+|&mdash;
+|{{Composition bar|10|308|{{Canadian party colour|CA|Pirate}}}} ([[2011 Canadian federal election|2011]])
+{{Canadian party colour|CA|Pour l'Indépendence du Québec|row}}
+| ''Parti pour l'Indépendance du Québec''
+| 2019||{{dts|2022}}
+| [[Quebec sovereignty movement|Québec independence]]
+|&mdash;
+|{{Composition bar|13|338|{{Canadian party colour|CA|Pour l'Indépendence du Québec}}}} ([[2019 Canadian federal election|2019]])
+{{Canadian party colour|CA|Progressive Canadian|row}}
+| [[Progressive Canadian Party]]<br /><small>{{lang|fr|Parti Progressiste Canadien}}</small>
+|2004||{{dts|2019}}
+| [[Red Tory]]ism
+|&mdash;
+|{{Composition bar|25|308|{{Canadian party colour|CA|Progressive Canadian}}}} ([[2006 Canadian federal election|2006]])
+{{Canadian party colour|CA|Progressive|row}}
+| [[Progressive Party of Canada|Progressive Party]]<br/><small>{{lang|fr|Parti progressiste}}</small>
+----
+[[United Farmers of Canada|United Farmers]]
+|1921||{{dts|1948}}
+| [[agrarianism|Agrarian]], [[free trade]], [[progressivism]]
+|{{Composition bar|58|235|{{Canadian party colour|CA|Progressive}}}} (1921)
+|{{Composition bar|137|235|{{Canadian party colour|CA|Progressive}}}} ([[1921 Canadian federal election|1921]])
+{{Canadian party colour|CA|Independent|row}}
+|[[Protestant Protective Association]]
+|1892||1898
+|Anti-Catholic, Anti-French
+|&mdash;
+|{{Composition bar|5|213|{{Canadian party colour|CA|Independent}}}} ([[1896 Canadian federal election|1896]])
+{{Canadian party colour|CA|Independent|row}}
+|''Radical chrétien''
+|1958||{{dts|1967}}
+|
+|&mdash;
+||{{Composition bar|3|265|{{Canadian party colour|CA|Independent}}}} ([[By-elections to the 27th Canadian Parliament|1967 by-elections]])
+{{Canadian party colour|CA|Ralliement créditiste|row}}
+|{{lang|fr|[[Ralliement créditiste]]}}
+----
+{{lang|fr|Union des électeurs}}
+|1963||{{dts|1971}}
+| Split from the Social Credit Party; see [[Social Credit Party of Canada split, 1963]].
+|{{Composition bar|14|264|{{Canadian party colour|CA|Ralliement créditiste}}}} (1968)
+|{{Composition bar|77|265|{{Canadian party colour|CA|Ralliement créditiste}}}} (1965)
+{{Canadian party colour|CA|Reconstruction|row}}
+| [[Reconstruction Party of Canada|Reconstruction Party]]
+| 1935||{{dts|1938}}
+| [[Keynesianism]], [[national conservatism]], [[isolationism]]
+|{{Composition bar|1|245|{{Canadian party colour|CA|Reconstruction}}}} (1935)
+|{{Composition bar|172|245|{{Canadian party colour|CA|Reconstruction}}}} (1935)
+{{Canadian party colour|CA|Reform|row}}
+|[[Reform Party of Canada|Reform Party]]<br /><small>{{lang|fr|Parti réformiste}}</small>
+| 1987||{{dts|2000}}
+| [[Fiscal conservatism]], regionalism, [[social conservatism]], democratic reform
+|{{Composition bar|60|301|{{Canadian party colour|CA|Reform}}}} (1997)
+|{{Composition bar|277|301|{{Canadian party colour|CA|Reform}}}} (1997)
+{{Canadian party colour|CA|Republican (1967)|row}}
+|[[Republican Party of Canada|Republican Party (1967)]]<br/><small>{{lang|fr|Parti republicain}}</small>
+|1967||{{dts|1968}}
+|
+|&mdash;
+|{{Composition bar|2|264|{{Canadian party colour|CA|Republican (1967)}}}} ([[1968 Canadian federal election|1968]])
+{{Canadian party colour|CA|Republican (1964)|row}}
+|[[Republican Party (Canada)|Republican Party (1971)]]<br/><small>{{lang|fr|Parti republicain}}</small>
+|1971||{{dts|1971}}
+|
+|&mdash;
+|{{Composition bar|2|264|{{Canadian party colour|CA|Republican (1964)}}}} ([[By-elections to the 28th Canadian Parliament|1971 by-elections]])
+{{Canadian party colour|CA|Rhinoceros (historical)|row}}
+|[[Rhinoceros Party of Canada (1963–1993)|Rhinoceros Party (1963)]]<br/><small>{{lang|fr|Parti Rhinocéros}}</small>
+|1968||{{dts|1993}}
+|Satirical
+|&mdash;
+|{{Composition bar|121|282|{{Canadian party colour|CA|Rhinoceros (historical)}}}} (1980)
+|-
+{{Canadian party colour|CA|Social Credit|row}}
+| [[Social Credit Party of Canada|Social Credit Party]]<br /><small>{{lang|fr|Parti Crédit social}}</small>
+| 1935||{{dts|1993}}
+| [[Canadian social credit movement|Canadian social credit]], [[Conservatism in Canada|Canadian conservatism]], [[right-wing populism]], [[social conservatism]]
+|{{Composition bar|30|265|{{Canadian party colour|CA|Social Credit}}}} (1962)
+|{{Composition bar|230|265|{{Canadian party colour|CA|Social Credit}}}} (1962)
+{{Canadian party colour|CA|Socialist Labour|row}}
+|[[Socialist Labour Party (Canada)|Socialist Labour Party]]
+|1945||{{dts|1968}}
+|[[Socialism]]
+|&mdash;
+|{{Composition bar|2|245|{{Canadian party colour|CA|Socialist Labour}}}} ([[1945 Canadian federal election|1945]])
+{{Canadian party colour|CA|Socialist|row}}
+|[[Socialist Party of Canada|Socialist Party (1904)]]
+|1904||{{dts|1925}}
+|Socialism, Classical Marxism, Anti-Leninism
+|&mdash;
+|{{Composition bar|6|221|{{Canadian party colour|CA|Socialist}}}} ([[1911 Canadian federal election|1911]])
+{{Canadian party colour|CA|Independent|row}}
+|[[Socialist Party of Canada (WSM)|Socialist Party (1931)]]
+|1931||{{dts|1961}}
+|Socialism, Classical Marxism, Anti-Leninism
+|&mdash;
+|{{Composition bar|2|265|{{Canadian party colour|CA|Independent}}}} ([[1958 Canadian federal election|1958]])
+{{Canadian party colour|CA|Independent|row}}
+| Stop Climate Change
+| 2019 || {{dts|2021}}
+| [[Environmentalism]]
+|&mdash;
+|{{Composition bar|2|338|{{Canadian party colour|Independent|FD}}}} (2019)
+{{Canadian party colour|CA|FD|row}}
+| [[Strength in Democracy]]<br /><small>{{lang|fr|Forces et Démocratie}}</small>
+| 2014 || {{dts|2016}}<ref name="auto"/>
+| [[Social democracy]], [[Regionalism (politics)|regionalism]]
+|{{Composition bar|2|338|{{Canadian party colour|CA|FD}}}} (2015)
+|{{Composition bar|17|338|{{Canadian party colour|CA|FD}}}} (2015)
+{{Canadian party colour|CA|Union populaire|row}}
+|{{lang|fr|[[Union Populaire]]}}
+|1979||{{dts|1981}}
+| [[Quebec sovereignty movement|Quebecois independence]] (precursor of [[Bloc Québécois]])
+|&mdash;
+|{{Composition bar|69|282|{{Canadian party colour|CA|Union populaire}}}} ([[1979 Canadian federal election|1979]])
+{{Canadian party colour|CA|United (2009)|row}}
+| United Party (2009)<br /><small>{{lang|fr|Parti Uni}}</small>
+| 2009||{{dts|2016}}<ref name="auto"/>
+| [[Centrism]]
+|&mdash;
+|{{Composition bar|3|308|{{Canadian party colour|CA|United (2009)}}}} (2011)
+
+{{Canadian party colour|CA|United (2018)|row}}
+| United Party (2018)<br /><small>{{lang|fr|Parti Uni}}</small>
+| {{dts|2018}}||{{dts|2020}}
+| 
+|&mdash;
+|{{Composition bar|4|338|{{Canadian party colour|CA|United (2018)}}}} (2019)
+
+{{Canadian party colour|CA|Communist|row}}
+|[[United Reform]]
+|1939||{{dts|1940}}
+| [[Left-wing populism]], [[reformism]]
+|{{Composition bar|2|245|{{Canadian party colour|CA|Communist}}}} (1939)
+|{{Composition bar|5|245|{{Canadian party colour|CA|Communist}}}} ([[1940 Canadian federal election|1940]])
+{{Canadian party colour|CA|Veterans Coalition|row}}
+| Veterans Coalition Party<br /><small>{{lang|fr|Parti de la coalition des anciens combattants}}</small>
+| {{dts|2019}}||{{dts|2023}}
+| [[Single-issue politics|Single issue]]
+|&mdash;
+| {{Composition bar|25|338|{{Canadian party colour|CA|Veterans Coalition}}}} (2019)
+{{Canadian party colour|CA|Western Block|row}}
+| [[Western Block Party]]
+| 2005||{{dts|2014}}<ref name="Western Block Party Deregistered">{{cite web|title=Deregistration of Western Block Party|url=http://www.elections.ca/content.aspx?section=med&document=jan2814&dir=pre&lang=e|publisher=Elections Canada|access-date=July 17, 2014|date=January 28, 2014}}</ref>
+| [[Western Canada|Western]] separatism, [[paleoconservatism]], [[libertarian conservativism]]
+|&mdash;
+|{{Composition bar|4|308|{{Canadian party colour|CA|Western Block}}}} ([[2006 Canadian federal election|2006]])
+|}
+
+===Non-party parliamentary groups===
+These caucuses were formed by sitting members of the House of Commons, but never ran in an election as a unified party.
+
+{| class="wikitable sortable"
+|-
+! colspan="2" | Name
+! Founded
+! Dissolved
+! class="unsortable"|Description
+! Largest caucus
+! Most ridings contested
+|-
+{{Canadian party colour|CA|Independent|row}}
+| [[Democratic Representative Caucus]]
+|2001||{{dts|2002}}
+|Formed in the [[37th Canadian Parliament]] by MPs who left the [[Canadian Alliance]] due to the leadership of [[Stockwell Day]]. The group was dissolved after Day lost the party leadership to [[Stephen Harper]].
+| {{Composition bar|13|301|{{Canadian party colour|CA|Independent}}}} (2002)
+|&mdash;
+{{Canadian party colour|CA|Labour|row}}
+|[[Ginger Group]]
+|1924||{{dts|1932}}
+|Split from the Progressive Party. Supported [[Progressivism]] and [[socialism]]. In 1932 formed the Cooperative Commonwealth Federation.
+| {{Composition bar|15|245|{{Canadian party colour|CA|Labour}}}} (1926)
+| Likely some number of [[Labour candidates and parties in Canada|Labour candidates]]
+{{Canadian party colour|CA|Liberal-Progressive|row}}
+| [[Liberal-Progressive|Liberal–Progressive]]
+|1925||{{dts|1955}}
+| Nominated jointly by or aligned with both the [[Liberal Party of Canada|Liberal Party]] and [[Progressive Party of Canada|Progressive Party]].
+|{{Composition bar|8|245|{{Canadian party colour|CA|Liberal-Progressive}}}} (1926)
+|{{Composition bar|12|245|{{Canadian party colour|CA|Liberal-Progressive}}}} (1926)
+{{Canadian party colour|CA|Liberal-Unionist|row}}
+|[[Liberal–Unionist]]
+|1917||1921
+|Members of the Liberal Party who supported [[Robert Borden]]'s coalition government.
+| {{Composition bar|11|235|{{Canadian party colour|CA|Liberal-Unionist}}}} (1917)
+|Likely some number of Unionist candidates
+{{Canadian party colour|CA|Conservative (historical)|row}}
+|[[Nationalist Conservative]]
+|1878||{{dts|1911}}
+|Used by Quebec Members in order to distinguish themselves from what has been referred by the party as the "British imperialist" reputation of the Conservative Party.
+|{{Composition bar|2|215|{{Canadian party colour|CA|Conservative (historical)}}}} (1887)
+|{{Composition bar|2|215|{{Canadian party colour|CA|Conservative (historical)}}}} (1887)
+{{Canadian party colour|CA|Liberal|row}}
+|Nationalist Liberal
+|1867||{{dts|1921}}
+|
+|{{Composition bar|1|215|{{Canadian party colour|CA|Liberal}}}} (1891)
+|&mdash;
+{{Canadian party colour|CA|Independent|row}}
+|[[Parti canadien (1942)|Parti canadien]]
+|1942||1944
+|Anti-conscription. In addition to the MP who adopted this label, two candidates ran in by-elections using this label.
+| {{Composition bar|1|245|{{Canadian party colour|CA|Independent}}}} (1942)
+|&mdash;
+{{Canadian party colour|CA|Progressive-Conservative|row}}
+|[[Progressive-Conservative (candidate)|Progressive–Conservative]]
+|1925||{{dts|1935}}
+| Probably indicates that these candidates were supporters of both the Progressive Party of Canada and the historical Conservative Party.
+|{{Composition bar|1|245|{{Canadian party colour|CA|Progressive-Conservative}}}} (1930)
+|{{Composition bar|2|245|{{Canadian party colour|CA|Progressive-Conservative}}}} (1926)
+{{Canadian party colour|CA|GPQ|row}}
+|'' [[Québec debout]]''
+|2018||{{dts|2018}}
+|Formed when several MPs left the [[Bloc Québécois]] due to the leadership of [[Martine Ouellet]]. The group was dissolved after Ouellet lost a leadership review vote and resigned.
+| {{Composition bar|7|338|{{Canadian party colour|CA|GPQ}}}} (2018)
+|&mdash;
+|}
+
+=== Designations used by single candidates ===
+These titles appear in official records, and may have appeared on ballots, but were only ever used as a personal brand by lone candidates.
+
+{{div col|colwidth=30em}}
+* [[Action Canada]] (Paul Hellyer), 1971&ndash;1972
+* All Canadian Party (John Darby Naismith), 1962–1962
+* [[Alliance of the North]] (François Bélanger), 2013–2019
+* Anti-Communist (Jean Tissot), 1935
+* Anti-Communist (Patrick Walsh), 1953
+* Anti-Conscriptionist (Louis-Gérard Gosselin), 1940
+* Autonomist candidate (Paul Massé), 1947
+* [[The Bridge Party of Canada]] ([[David Berlin]]), 2015–2017<ref name="auto"/>
+* [[Canada Party (2015)|Canada Party]] (II) ([[Jim Pankiw]]) 2015–2016<ref name="auto"/>
+* Canadian Democrat (Gerry Goeujon), 1957
+* ''Capital familial'' (Henri-Georges Grenier), 1957–1962
+* [[Christian Democrat Party of Canada]] (Sydney Thompson), 1981
+* Christian Liberal (Howard A. Prentice), 1953
+* Co-operative Builders of Canada (Edgar-Bernard Charron), 1962
+* ''Droit vital personnel'' (Henri-Georges Grenier), 1965
+* ''Esprit Social'' (Henri-Georges Grenier), 1967–1971
+* Franc Lib (Alfred Edward Watts), 1930
+* Franc Lib (Jean-Roger Marcotte), 1968
+* [[League for Socialist Action]], 1961–1977
+* Liberal Conservative Coalition (George Rolland), 1957
+* [[National Credit Control]] (John Bernard Ball), 1957
+* Nationalist ([[Adrien Arcand]]), 1949, 1953
+* Nationalist Liberal ([[Fleming Blanchard McCurdy]]), 1920
+* [[Nationalist Party of Canada]] (Bob Smith), founded 1977
+* National Socialist ([[Martin K. Weiche]]), 1968
+* National-Unity (Robert Rae Manville), 1940
+* [[National Unity Party (Canada)|National Unity Party]] ({{lang|fr|Parti national social chrétien}}) ([[Adrien Arcand]]), 1938–1949
+* New Canada Party (Fred Reiner), 1968
+* New Constitution Party of Canada ([[James Sears]]), c. 2014&ndash;2018
+* [[Option Canada (political party)|Option Canada]] (Greg Gogan), 1991&ndash;1993
+* ''Parti humain familial'' (Henri-Georges Grenier), 1964
+* ''Parti ouvrier canadien'' (Jean-Jacques Rouleau), 1958
+* [[Party for Accountability, Competency and Transparency]] (formerly Online Party) (Michael Nicula), 2012–2016<ref name="Party for Accountability, Competency and Transparency Deregistered">{{cite web|title=Deregistration of Western Block Party| date=January 13, 2023 |url=http://www.elections.ca/content.aspx?section=pol&dir=par&document=index&lang=e#pact|publisher=Elections Canada}}</ref>
+* [[People's Co-operative Commonwealth Federation]] ([[Herbert Wilfred Herridge]]), 1945
+* Progressive Workers Movement (Jerry Le Bourdais), 1965
+* Prohibition Party (Edwin Clarke Appleby), 1930
+* Protectionist (Joseph-Édouard Moranville), 1926
+* Seniors Party of Canada (Margaret Leigh Fairbairn), 2014–2016<ref name="auto"/>
+* Social Credit-National Unity (Harry Watson Arnold), 1940
+* Technocrat (Joseph McCrae Newman), 1935
+* Trades Union (Nigel Morgan), 1945
+* Verdun (Hervé Ferland), 1935
+* Veterans Party (Alloys Reginald Sprenger), 1935
+* [[Work Less Party]] ([[Betty Krawczyk]]), 2007–2010
+{{div col end}}
+
+===Senate technical groups===
+These groups of Senators each sat together as a caucus, but were not affiliated with an active political party.
+
+{| class="wikitable sortable"
+|-
+! colspan="2" | Name
+! Founded
+! Dissolved
+! class="unsortable"|Ideology
+! Largest caucus
+|-
+{{Canadian party colour|CA|Liberal-Unionist|row}}
+|[[Liberal–Unionist]]
+|1917||1921
+|Members of the Liberal Party who supported [[Robert Borden]]'s coalition government.
+| {{Composition bar|4|96|{{Canadian party colour|CA|Liberal-Unionist}}}} (1919)
+{{Canadian party colour|CA|Liberal|row}}
+|Nationalist Liberal
+|1867||{{dts|1921}}
+|
+|{{Composition bar|2|72|{{Canadian party colour|CA|Liberal}}}} (1867)
+{{Canadian party colour|CA|Liberal|row}}
+| [[Senate Liberal Caucus]] <br /><small>{{lang|fr|Caucus libéral du Sénat}}</small>
+| 2014
+| 2019
+| Members of the [[Liberal Party of Canada|Liberal Party]] who formed their own caucus after [[Justin Trudeau]] removed all senators from the Liberal Party's parliamentary caucus.
+| {{Composition bar|32|105|{{Canadian party colour|CA|Liberal}}}} (2014)
+{{Canadian party colour|CA|Senate PC|row}}
+| Senate Progressive Conservative Caucus<br /><small>{{lang|fr|Caucus progressiste-conservateur du Sénat}}</small>
+| 2003
+| 2016
+| Members of the former [[Progressive Conservative Party of Canada|Progressive Conservative Party]] who retained the caucus name after the party itself dissolved in 2003.
+| {{Composition bar|5|105|{{Canadian party colour|CA|Senate PC}}}} (2005)
+|}
+
+===Pre-Confederation political parties===
+
+* Parties in the [[Dominion of Newfoundland]]
+** [[Confederate Association]]
+** [[Conservative parties in Newfoundland (pre-Confederation)|Conservative Party]] (including Reform Party, Tory Party, and Liberal-Conservative-Progressive Party)
+** [[Economic Union Party]]
+** [[Fishermen's Protective Union]] (including Union Party)
+** [[Liberal parties in pre-Confederation Newfoundland|Liberal Party]] (including Liberal Reform Movement and Liberal-Progressive Party)
+** [[Newfoundland People's Party]] (including Liberal-Labour-Progressive Party)
+** [[Responsible Government League]]
+** [[United Newfoundland Party]]
+* Parties in [[Lower Canada]] and [[Canada East]] (now Quebec)
+** [[Château Clique]]
+** [[Parti bleu]]
+** [[Parti canadien]]
+** [[Parti rouge]]
+** [[Patriote movement]]
+* Parties in [[The Maritimes|Nova Scotia, New Brunswick, and Prince Edward Island]]
+** [[Anti-Confederation Party]]
+** [[Confederation Party]]
+* Parties in [[Upper Canada]] and [[Canada West]] (now Ontario)
+** [[Clear Grits]]
+** [[Family Compact]]
+** [[Reform Party (pre-Confederation)|Reform Party]]
+** [[Upper Canada Tories]]
+
+== Unofficial designations and parties who never ran candidates ==
+The following parties do not appear on the federal election archive.<ref>{{Cite web|url=https://lop.parl.ca/sites/ParlInfo/default/en_CA/ElectionsRidings/Elections|title=Elections and Candidates|website=lop.parl.ca}}</ref> They either did not run candidates in any election or ran candidates as independents.
+
+{| class="wikitable sortable"
+|-
+! colspan="2" | Name
+! Founded
+! Dissolved
+! class="unsortable"| Description
+! Largest MP caucus
+! Most ridings contested
+|-
+{{Canadian party colour|CA|Independent|row}}
+| [[Aboriginal Peoples Party of Canada]]
+|2005||2005
+| Attempt to found a party that fizzled when the [[First Peoples National Party of Canada]] became a registered party.
+|&mdash;
+|&mdash;
+{{Canadian party colour|CA|Labour|row}}
+| [[Canadian Labour Party]]
+|1917||1929
+|Attempt to unite the disparate [[Labour candidates and parties in Canada]].
+|&mdash;
+|some non-affiliated candidates in 1917&ndash;1926
+{{Canadian party colour|CA|Marxist-Leninist|row}}
+| [[Canadian Renewal Party]]
+|1993||1993
+|Advocate for [[direct democracy]]; affiliated with the [[Communist Party of Canada (Marxist–Leninist)|Marxist–Leninist Party]]
+|&mdash;
+|some non-affiliated candidates in 1993
+{{Canadian party colour|CA|Independent|row}}
+| [[Canadian Union of Fascists]]
+|1934||1940
+|Breakaway wing of the [[Canadian Nationalist Party (1933)]]
+|&mdash;
+|&mdash;
+{{Canadian party colour|CA|Independent|row}}
+| Christian Credit Party
+|1982||1983
+|
+|&mdash;
+|&mdash;
+{{Canadian party colour|CA|Independent|row}}
+| [[Christian Freedom Party of Canada]]
+|c. 1988||c. 1996
+| Rebrand of the moribund Social Credit Party
+|&mdash;
+|some non-affiliated candidates in 1993
+{{Canadian party colour|CA|Independent|row}}
+| [[Revolutionary Workers League (Canada)|Revolutionary Workers League]]
+----
+[[Pathfinder tendency|Communist League]]
+|1977||c. 2019
+|Merger of the [[League for Socialist Action (Canada)|League for Socialist Action]], the [[Revolutionary Marxist Group (Canada)|Revolutionary Marxist Group]], and the ''Groupe Marxiste Revolutionaire''. Ran candidates as independents.
+|&mdash;
+|{{Composition bar|3|308|{{Canadian party colour|CA|Independent}}}} (2006)
+{{Canadian party colour|CA|Liberal|row}}
+| [[Liberal Protectionist]]
+|1925||1930.
+|Supporters of the Liberal Party who opposed the party's free trade policy.
+|&mdash;
+|{{Composition bar|2|245|{{Canadian party colour|CA|Independent}}}} (1925)
+{{Canadian party colour|CA|Independent|row}}
+| [[The Waffle]]
+----
+Movement for an Independent Socialist Canada
+|1969||1974
+|Breakaway wing of New Democratic Party. 
+|&mdash;
+|some non-affiliated candidates in 1974
+{{Canadian party colour|CA|Independent|row}}
+| [[National Party of Canada (1979)]]
+|1979||late 1980s
+| Left-wing nationalist party.
+|&mdash;
+|{{Composition bar|2|282|{{Canadian party colour|CA|Independent}}}} (1980)
+{{Canadian party colour|CA|Independent|row}}
+| [[North American Labour Party]]
+|c. 1975||c. 1980
+| Canadian affiliate of the Lyndon LaRouche movement; later became the [[Party for the Commonwealth of Canada]]
+|&mdash;
+|some non-affiliated candidates in 1970s
+{{Canadian party colour|CA|Independent|row}}
+| [[Technocratic Party of Canada]]
+|2012||2014
+|Attempt to form a party but lost key members. Wanted experts in STEM as ministers, advocated [[technocracy]].
+|&mdash;
+|&mdash;
+{{Canadian party colour|CA|Independent|row}}
+| [[Workers' Communist Party of Canada]]
+|1975||{{dts|1983}}
+| One of several early attempts to create a [[Marxism–Leninism|Marxist–Leninist]] party in Canada.
+|&mdash;
+|{{Composition bar|30|282|{{Canadian party colour|CA|Independent}}}} (1980)
+|}
+
+==Name changes==
+
+;Communist Party
+The Communist Party of Canada changed its name multiple times in its history. It was founded as the Communist Party of Canada in 1921. It was underground until 1924, and founded a public face, "Workers' Party of Canada", from 1922 until 1924 when the Communist Party was legalised. From 1938 until 1943 its candidates ran under the banner "Unity" or "United Progressive", and won two seats, both in Saskatchewan. The Communist Party was again banned in 1940, but from 1943 operated under the name "[[Labor-Progressive Party]]" ({{lang|fr|Parti ouvrier-progressiste}}). It won one seat under this name in a 1943 by-election, which it retained in 1945. In 1959 it reverted to the name Communist Party of Canada and has kept that name to the present.
+
+The Marxist–Leninist Party of Canada unofficially uses the name "Communist Party of Canada (Marxist–Leninist)", but Elections Canada does not allow it to be registered by that name because of potential confusion with the Communist Party of Canada.
+
+;Labour Party
+Labour Party candidates ran under numerous different designations:
+* Conservative-Labour (1872–1875)
+* Farmer Labour
+* Farmer-United Labour
+* Labour-Farmer
+* [[Liberal-Labour (Canada)|Liberal-Labour]] (1926–1968)
+* National Labour (1940)
+* United Farmers-Labour (1920)
+* United Farmers of Ontario-Labour (1919–1940)
+
+;Liberal Party
+During Robert Borden's coalition government of 1917–1920, the Liberal Party of Canada split into two groups: the [[Liberal–Unionist]] who supported the coalition and the [[Laurier Liberals]] who opposed it.
+
+;Liberal-Progressive
+Some Liberal-Progressive candidates used the designations:
+*Liberal-Labour-Progressive or
+*National Liberal Progressive.
+
+;New Democratic Party
+The Co-operative Commonwealth Federation used the name [[New Party (Canada)|New Party]] from 1958 to 1961 while it was transitioning to become the New Democratic Party. In French, the party used a literal translation of its name, ''Fédération du Commonwealth Coopératif'', from until 1955.
+
+;Conservative Party
+The first Conservative Party used several different names during its existence:
+*[[Liberal-Conservative Party]] (some MPs until 1911),
+*[[Unionist Party (Canada)|Unionist Party]] (1917–1921),
+*[[National Liberal and Conservative Party]] (1920–1921),
+*[[National Government (Canada)|National Government]] (1940),
+*[[Progressive Conservative Party of Canada|Progressive Conservative Party]] (1942–2003)
+
+The second (and current) Conservative Party of Canada was a merger of the Canadian Alliance and the Progressive Conservative Party.
+
+;Progressive Party and United Farmers
+Some candidates for the Progressive Party of Canada used United Farmer designations:
+*[[Farmer (Party)|Farmer]] (1925 & 1930),
+*National Progressive Party
+*[[United Farmers of Canada]],
+*[[United Farmers of Alberta]],
+*[[United Farmers of Ontario]].
+
+;Rhinoceros Party
+The first Rhinoceros Party disbanded in 1993. When it was revived in 2006 it used the name "neorhino.ca". The party changed its name to Rhinoceros Party in 2010.
+
+;Social Credit Party and ''Ralliement créditiste''
+Some ''Ralliement créditiste'' used the name ''Ralliement des créditistes'' from 1963 to 1967. One candidate used the designation ''Candidats des électeurs'' in 1957 and 1958. Others used the name Union des électeurs, although this was never formally registered.
+
+In the 1940 election, 17 candidates ran jointly with the Social Credit Party under the name [[New Democracy (Canada)|New Democracy]].
+
+== See also ==
+{{Portal|Canada|Politics}}
+* [[Federal political financing in Canada]]
+* [[List of political parties in Canada]]
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://www.elections.ca/content.aspx?section=pol&dir=par&document=index&lang=e Registered Political Parties and Parties Eligible for Registration]
+
+{{Elections in Canada}}
+{{Canadian federal political parties}}
+{{Lists of political parties in Canada}}
+
+{{DEFAULTSORT:List Of Federal Political Parties In Canada}}
+[[Category:Canada politics-related lists|Political parties]]
+[[Category:Lists of political parties in Canada|*]]

@@ -1,0 +1,9336 @@
+{
+  "_meta": {
+    "source": "Statistics Canada, table 17-10-0005-01: population estimates on July 1, by age and gender",
+    "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501",
+    "licence": "Open Government Licence – Canada",
+    "licenceUrl": "https://www.statcan.gc.ca/en/reference/licence",
+    "notes": [
+      "Shares are percentages of the total population on July 1.",
+      "Figures for the Northwest Territories and Nunavut use today's boundaries from 1991. Before that, northwest-territories-including-nunavut covers the old, larger territory."
+    ],
+    "script": "scripts/grounding/statcan.ts",
+    "fetched": "2026-11-13"
+  },
+  "geos": [
+    {
+      "slug": "canada",
+      "name": "Canada"
+    },
+    {
+      "slug": "newfoundland-and-labrador",
+      "name": "Newfoundland and Labrador"
+    },
+    {
+      "slug": "prince-edward-island",
+      "name": "Prince Edward Island"
+    },
+    {
+      "slug": "nova-scotia",
+      "name": "Nova Scotia"
+    },
+    {
+      "slug": "new-brunswick",
+      "name": "New Brunswick"
+    },
+    {
+      "slug": "quebec",
+      "name": "Quebec"
+    },
+    {
+      "slug": "ontario",
+      "name": "Ontario"
+    },
+    {
+      "slug": "manitoba",
+      "name": "Manitoba"
+    },
+    {
+      "slug": "saskatchewan",
+      "name": "Saskatchewan"
+    },
+    {
+      "slug": "alberta",
+      "name": "Alberta"
+    },
+    {
+      "slug": "british-columbia",
+      "name": "British Columbia"
+    },
+    {
+      "slug": "yukon",
+      "name": "Yukon"
+    },
+    {
+      "slug": "northwest-territories",
+      "name": "Northwest Territories"
+    },
+    {
+      "slug": "nunavut",
+      "name": "Nunavut"
+    }
+  ],
+  "medianAge": {
+    "canada": [
+      {
+        "year": 1971,
+        "value": 26.2
+      },
+      {
+        "year": 1972,
+        "value": 26.4
+      },
+      {
+        "year": 1973,
+        "value": 26.7
+      },
+      {
+        "year": 1974,
+        "value": 27.1
+      },
+      {
+        "year": 1975,
+        "value": 27.4
+      },
+      {
+        "year": 1976,
+        "value": 27.7
+      },
+      {
+        "year": 1977,
+        "value": 28.1
+      },
+      {
+        "year": 1978,
+        "value": 28.4
+      },
+      {
+        "year": 1979,
+        "value": 28.8
+      },
+      {
+        "year": 1980,
+        "value": 29.1
+      },
+      {
+        "year": 1981,
+        "value": 29.5
+      },
+      {
+        "year": 1982,
+        "value": 29.8
+      },
+      {
+        "year": 1983,
+        "value": 30.2
+      },
+      {
+        "year": 1984,
+        "value": 30.6
+      },
+      {
+        "year": 1985,
+        "value": 31
+      },
+      {
+        "year": 1986,
+        "value": 31.4
+      },
+      {
+        "year": 1987,
+        "value": 31.8
+      },
+      {
+        "year": 1988,
+        "value": 32.2
+      },
+      {
+        "year": 1989,
+        "value": 32.5
+      },
+      {
+        "year": 1990,
+        "value": 32.9
+      },
+      {
+        "year": 1991,
+        "value": 33.3
+      },
+      {
+        "year": 1992,
+        "value": 33.6
+      },
+      {
+        "year": 1993,
+        "value": 34
+      },
+      {
+        "year": 1994,
+        "value": 34.4
+      },
+      {
+        "year": 1995,
+        "value": 34.8
+      },
+      {
+        "year": 1996,
+        "value": 35.2
+      },
+      {
+        "year": 1997,
+        "value": 35.6
+      },
+      {
+        "year": 1998,
+        "value": 36
+      },
+      {
+        "year": 1999,
+        "value": 36.4
+      },
+      {
+        "year": 2000,
+        "value": 36.8
+      },
+      {
+        "year": 2001,
+        "value": 37.2
+      },
+      {
+        "year": 2002,
+        "value": 37.6
+      },
+      {
+        "year": 2003,
+        "value": 38
+      },
+      {
+        "year": 2004,
+        "value": 38.3
+      },
+      {
+        "year": 2005,
+        "value": 38.6
+      },
+      {
+        "year": 2006,
+        "value": 38.9
+      },
+      {
+        "year": 2007,
+        "value": 39.2
+      },
+      {
+        "year": 2008,
+        "value": 39.4
+      },
+      {
+        "year": 2009,
+        "value": 39.6
+      },
+      {
+        "year": 2010,
+        "value": 39.8
+      },
+      {
+        "year": 2011,
+        "value": 40
+      },
+      {
+        "year": 2012,
+        "value": 40.1
+      },
+      {
+        "year": 2013,
+        "value": 40.3
+      },
+      {
+        "year": 2014,
+        "value": 40.5
+      },
+      {
+        "year": 2015,
+        "value": 40.6
+      },
+      {
+        "year": 2016,
+        "value": 40.7
+      },
+      {
+        "year": 2017,
+        "value": 40.8
+      },
+      {
+        "year": 2018,
+        "value": 40.7
+      },
+      {
+        "year": 2019,
+        "value": 40.7
+      },
+      {
+        "year": 2020,
+        "value": 40.8
+      },
+      {
+        "year": 2021,
+        "value": 41
+      },
+      {
+        "year": 2022,
+        "value": 40.9
+      },
+      {
+        "year": 2023,
+        "value": 40.6
+      },
+      {
+        "year": 2024,
+        "value": 40.4
+      },
+      {
+        "year": 2025,
+        "value": 40.6
+      },
+      {
+        "year": 2026,
+        "value": 40.9
+      }
+    ],
+    "newfoundland-and-labrador": [
+      {
+        "year": 1971,
+        "value": 20.9
+      },
+      {
+        "year": 1972,
+        "value": 21.2
+      },
+      {
+        "year": 1973,
+        "value": 21.6
+      },
+      {
+        "year": 1974,
+        "value": 21.9
+      },
+      {
+        "year": 1975,
+        "value": 22.3
+      },
+      {
+        "year": 1976,
+        "value": 22.7
+      },
+      {
+        "year": 1977,
+        "value": 23.2
+      },
+      {
+        "year": 1978,
+        "value": 23.7
+      },
+      {
+        "year": 1979,
+        "value": 24.2
+      },
+      {
+        "year": 1980,
+        "value": 24.7
+      },
+      {
+        "year": 1981,
+        "value": 25.3
+      },
+      {
+        "year": 1982,
+        "value": 25.8
+      },
+      {
+        "year": 1983,
+        "value": 26.2
+      },
+      {
+        "year": 1984,
+        "value": 26.7
+      },
+      {
+        "year": 1985,
+        "value": 27.3
+      },
+      {
+        "year": 1986,
+        "value": 27.9
+      },
+      {
+        "year": 1987,
+        "value": 28.4
+      },
+      {
+        "year": 1988,
+        "value": 29
+      },
+      {
+        "year": 1989,
+        "value": 29.6
+      },
+      {
+        "year": 1990,
+        "value": 30.2
+      },
+      {
+        "year": 1991,
+        "value": 30.7
+      },
+      {
+        "year": 1992,
+        "value": 31.2
+      },
+      {
+        "year": 1993,
+        "value": 31.8
+      },
+      {
+        "year": 1994,
+        "value": 32.5
+      },
+      {
+        "year": 1995,
+        "value": 33.3
+      },
+      {
+        "year": 1996,
+        "value": 34.1
+      },
+      {
+        "year": 1997,
+        "value": 35
+      },
+      {
+        "year": 1998,
+        "value": 35.9
+      },
+      {
+        "year": 1999,
+        "value": 36.7
+      },
+      {
+        "year": 2000,
+        "value": 37.4
+      },
+      {
+        "year": 2001,
+        "value": 38.1
+      },
+      {
+        "year": 2002,
+        "value": 38.8
+      },
+      {
+        "year": 2003,
+        "value": 39.4
+      },
+      {
+        "year": 2004,
+        "value": 40
+      },
+      {
+        "year": 2005,
+        "value": 40.7
+      },
+      {
+        "year": 2006,
+        "value": 41.3
+      },
+      {
+        "year": 2007,
+        "value": 41.9
+      },
+      {
+        "year": 2008,
+        "value": 42.3
+      },
+      {
+        "year": 2009,
+        "value": 42.6
+      },
+      {
+        "year": 2010,
+        "value": 43
+      },
+      {
+        "year": 2011,
+        "value": 43.4
+      },
+      {
+        "year": 2012,
+        "value": 43.8
+      },
+      {
+        "year": 2013,
+        "value": 44.3
+      },
+      {
+        "year": 2014,
+        "value": 44.7
+      },
+      {
+        "year": 2015,
+        "value": 45.1
+      },
+      {
+        "year": 2016,
+        "value": 45.6
+      },
+      {
+        "year": 2017,
+        "value": 46
+      },
+      {
+        "year": 2018,
+        "value": 46.6
+      },
+      {
+        "year": 2019,
+        "value": 47.1
+      },
+      {
+        "year": 2020,
+        "value": 47.6
+      },
+      {
+        "year": 2021,
+        "value": 48
+      },
+      {
+        "year": 2022,
+        "value": 48.1
+      },
+      {
+        "year": 2023,
+        "value": 48
+      },
+      {
+        "year": 2024,
+        "value": 47.9
+      },
+      {
+        "year": 2025,
+        "value": 47.8
+      },
+      {
+        "year": 2026,
+        "value": 47.8
+      }
+    ],
+    "prince-edward-island": [
+      {
+        "year": 1971,
+        "value": 24.8
+      },
+      {
+        "year": 1972,
+        "value": 25.1
+      },
+      {
+        "year": 1973,
+        "value": 25.5
+      },
+      {
+        "year": 1974,
+        "value": 25.9
+      },
+      {
+        "year": 1975,
+        "value": 26.3
+      },
+      {
+        "year": 1976,
+        "value": 26.7
+      },
+      {
+        "year": 1977,
+        "value": 27.1
+      },
+      {
+        "year": 1978,
+        "value": 27.5
+      },
+      {
+        "year": 1979,
+        "value": 27.8
+      },
+      {
+        "year": 1980,
+        "value": 28.2
+      },
+      {
+        "year": 1981,
+        "value": 28.8
+      },
+      {
+        "year": 1982,
+        "value": 29.3
+      },
+      {
+        "year": 1983,
+        "value": 29.5
+      },
+      {
+        "year": 1984,
+        "value": 29.8
+      },
+      {
+        "year": 1985,
+        "value": 30.1
+      },
+      {
+        "year": 1986,
+        "value": 30.6
+      },
+      {
+        "year": 1987,
+        "value": 31
+      },
+      {
+        "year": 1988,
+        "value": 31.5
+      },
+      {
+        "year": 1989,
+        "value": 31.9
+      },
+      {
+        "year": 1990,
+        "value": 32.4
+      },
+      {
+        "year": 1991,
+        "value": 32.8
+      },
+      {
+        "year": 1992,
+        "value": 33.2
+      },
+      {
+        "year": 1993,
+        "value": 33.6
+      },
+      {
+        "year": 1994,
+        "value": 33.9
+      },
+      {
+        "year": 1995,
+        "value": 34.4
+      },
+      {
+        "year": 1996,
+        "value": 34.7
+      },
+      {
+        "year": 1997,
+        "value": 35.2
+      },
+      {
+        "year": 1998,
+        "value": 35.9
+      },
+      {
+        "year": 1999,
+        "value": 36.5
+      },
+      {
+        "year": 2000,
+        "value": 37.1
+      },
+      {
+        "year": 2001,
+        "value": 37.6
+      },
+      {
+        "year": 2002,
+        "value": 38.2
+      },
+      {
+        "year": 2003,
+        "value": 38.7
+      },
+      {
+        "year": 2004,
+        "value": 39.2
+      },
+      {
+        "year": 2005,
+        "value": 39.7
+      },
+      {
+        "year": 2006,
+        "value": 40.3
+      },
+      {
+        "year": 2007,
+        "value": 40.9
+      },
+      {
+        "year": 2008,
+        "value": 41.4
+      },
+      {
+        "year": 2009,
+        "value": 41.7
+      },
+      {
+        "year": 2010,
+        "value": 42
+      },
+      {
+        "year": 2011,
+        "value": 42.3
+      },
+      {
+        "year": 2012,
+        "value": 42.8
+      },
+      {
+        "year": 2013,
+        "value": 43.3
+      },
+      {
+        "year": 2014,
+        "value": 43.6
+      },
+      {
+        "year": 2015,
+        "value": 43.9
+      },
+      {
+        "year": 2016,
+        "value": 44
+      },
+      {
+        "year": 2017,
+        "value": 43.8
+      },
+      {
+        "year": 2018,
+        "value": 43.8
+      },
+      {
+        "year": 2019,
+        "value": 43.5
+      },
+      {
+        "year": 2020,
+        "value": 43.1
+      },
+      {
+        "year": 2021,
+        "value": 43
+      },
+      {
+        "year": 2022,
+        "value": 42.6
+      },
+      {
+        "year": 2023,
+        "value": 41.9
+      },
+      {
+        "year": 2024,
+        "value": 41.2
+      },
+      {
+        "year": 2025,
+        "value": 41.2
+      },
+      {
+        "year": 2026,
+        "value": 41.3
+      }
+    ],
+    "nova-scotia": [
+      {
+        "year": 1971,
+        "value": 25.4
+      },
+      {
+        "year": 1972,
+        "value": 25.7
+      },
+      {
+        "year": 1973,
+        "value": 26
+      },
+      {
+        "year": 1974,
+        "value": 26.4
+      },
+      {
+        "year": 1975,
+        "value": 26.7
+      },
+      {
+        "year": 1976,
+        "value": 27
+      },
+      {
+        "year": 1977,
+        "value": 27.5
+      },
+      {
+        "year": 1978,
+        "value": 27.9
+      },
+      {
+        "year": 1979,
+        "value": 28.3
+      },
+      {
+        "year": 1980,
+        "value": 28.7
+      },
+      {
+        "year": 1981,
+        "value": 29.2
+      },
+      {
+        "year": 1982,
+        "value": 29.6
+      },
+      {
+        "year": 1983,
+        "value": 29.9
+      },
+      {
+        "year": 1984,
+        "value": 30.2
+      },
+      {
+        "year": 1985,
+        "value": 30.6
+      },
+      {
+        "year": 1986,
+        "value": 31
+      },
+      {
+        "year": 1987,
+        "value": 31.5
+      },
+      {
+        "year": 1988,
+        "value": 31.9
+      },
+      {
+        "year": 1989,
+        "value": 32.4
+      },
+      {
+        "year": 1990,
+        "value": 32.8
+      },
+      {
+        "year": 1991,
+        "value": 33.3
+      },
+      {
+        "year": 1992,
+        "value": 33.7
+      },
+      {
+        "year": 1993,
+        "value": 34.2
+      },
+      {
+        "year": 1994,
+        "value": 34.7
+      },
+      {
+        "year": 1995,
+        "value": 35.2
+      },
+      {
+        "year": 1996,
+        "value": 35.7
+      },
+      {
+        "year": 1997,
+        "value": 36.2
+      },
+      {
+        "year": 1998,
+        "value": 36.8
+      },
+      {
+        "year": 1999,
+        "value": 37.3
+      },
+      {
+        "year": 2000,
+        "value": 37.9
+      },
+      {
+        "year": 2001,
+        "value": 38.5
+      },
+      {
+        "year": 2002,
+        "value": 39
+      },
+      {
+        "year": 2003,
+        "value": 39.5
+      },
+      {
+        "year": 2004,
+        "value": 40.1
+      },
+      {
+        "year": 2005,
+        "value": 40.7
+      },
+      {
+        "year": 2006,
+        "value": 41.2
+      },
+      {
+        "year": 2007,
+        "value": 41.7
+      },
+      {
+        "year": 2008,
+        "value": 42.1
+      },
+      {
+        "year": 2009,
+        "value": 42.4
+      },
+      {
+        "year": 2010,
+        "value": 42.7
+      },
+      {
+        "year": 2011,
+        "value": 43
+      },
+      {
+        "year": 2012,
+        "value": 43.4
+      },
+      {
+        "year": 2013,
+        "value": 44
+      },
+      {
+        "year": 2014,
+        "value": 44.4
+      },
+      {
+        "year": 2015,
+        "value": 44.8
+      },
+      {
+        "year": 2016,
+        "value": 45
+      },
+      {
+        "year": 2017,
+        "value": 45.1
+      },
+      {
+        "year": 2018,
+        "value": 45.2
+      },
+      {
+        "year": 2019,
+        "value": 45.1
+      },
+      {
+        "year": 2020,
+        "value": 45
+      },
+      {
+        "year": 2021,
+        "value": 45
+      },
+      {
+        "year": 2022,
+        "value": 44.6
+      },
+      {
+        "year": 2023,
+        "value": 44
+      },
+      {
+        "year": 2024,
+        "value": 43.4
+      },
+      {
+        "year": 2025,
+        "value": 43.2
+      },
+      {
+        "year": 2026,
+        "value": 43.3
+      }
+    ],
+    "new-brunswick": [
+      {
+        "year": 1971,
+        "value": 23.9
+      },
+      {
+        "year": 1972,
+        "value": 24.3
+      },
+      {
+        "year": 1973,
+        "value": 24.6
+      },
+      {
+        "year": 1974,
+        "value": 25
+      },
+      {
+        "year": 1975,
+        "value": 25.3
+      },
+      {
+        "year": 1976,
+        "value": 25.7
+      },
+      {
+        "year": 1977,
+        "value": 26.1
+      },
+      {
+        "year": 1978,
+        "value": 26.5
+      },
+      {
+        "year": 1979,
+        "value": 27
+      },
+      {
+        "year": 1980,
+        "value": 27.5
+      },
+      {
+        "year": 1981,
+        "value": 28
+      },
+      {
+        "year": 1982,
+        "value": 28.5
+      },
+      {
+        "year": 1983,
+        "value": 28.9
+      },
+      {
+        "year": 1984,
+        "value": 29.4
+      },
+      {
+        "year": 1985,
+        "value": 29.9
+      },
+      {
+        "year": 1986,
+        "value": 30.4
+      },
+      {
+        "year": 1987,
+        "value": 31
+      },
+      {
+        "year": 1988,
+        "value": 31.5
+      },
+      {
+        "year": 1989,
+        "value": 32
+      },
+      {
+        "year": 1990,
+        "value": 32.5
+      },
+      {
+        "year": 1991,
+        "value": 32.9
+      },
+      {
+        "year": 1992,
+        "value": 33.4
+      },
+      {
+        "year": 1993,
+        "value": 33.9
+      },
+      {
+        "year": 1994,
+        "value": 34.3
+      },
+      {
+        "year": 1995,
+        "value": 34.8
+      },
+      {
+        "year": 1996,
+        "value": 35.4
+      },
+      {
+        "year": 1997,
+        "value": 35.9
+      },
+      {
+        "year": 1998,
+        "value": 36.5
+      },
+      {
+        "year": 1999,
+        "value": 37.1
+      },
+      {
+        "year": 2000,
+        "value": 37.6
+      },
+      {
+        "year": 2001,
+        "value": 38.2
+      },
+      {
+        "year": 2002,
+        "value": 38.8
+      },
+      {
+        "year": 2003,
+        "value": 39.3
+      },
+      {
+        "year": 2004,
+        "value": 39.9
+      },
+      {
+        "year": 2005,
+        "value": 40.5
+      },
+      {
+        "year": 2006,
+        "value": 41.1
+      },
+      {
+        "year": 2007,
+        "value": 41.6
+      },
+      {
+        "year": 2008,
+        "value": 42
+      },
+      {
+        "year": 2009,
+        "value": 42.4
+      },
+      {
+        "year": 2010,
+        "value": 42.7
+      },
+      {
+        "year": 2011,
+        "value": 43.1
+      },
+      {
+        "year": 2012,
+        "value": 43.5
+      },
+      {
+        "year": 2013,
+        "value": 44.1
+      },
+      {
+        "year": 2014,
+        "value": 44.6
+      },
+      {
+        "year": 2015,
+        "value": 45
+      },
+      {
+        "year": 2016,
+        "value": 45.4
+      },
+      {
+        "year": 2017,
+        "value": 45.7
+      },
+      {
+        "year": 2018,
+        "value": 45.9
+      },
+      {
+        "year": 2019,
+        "value": 46.1
+      },
+      {
+        "year": 2020,
+        "value": 46.2
+      },
+      {
+        "year": 2021,
+        "value": 46.3
+      },
+      {
+        "year": 2022,
+        "value": 46
+      },
+      {
+        "year": 2023,
+        "value": 45.5
+      },
+      {
+        "year": 2024,
+        "value": 44.8
+      },
+      {
+        "year": 2025,
+        "value": 44.5
+      },
+      {
+        "year": 2026,
+        "value": 44.4
+      }
+    ],
+    "quebec": [
+      {
+        "year": 1971,
+        "value": 25.6
+      },
+      {
+        "year": 1972,
+        "value": 26
+      },
+      {
+        "year": 1973,
+        "value": 26.4
+      },
+      {
+        "year": 1974,
+        "value": 26.8
+      },
+      {
+        "year": 1975,
+        "value": 27.2
+      },
+      {
+        "year": 1976,
+        "value": 27.6
+      },
+      {
+        "year": 1977,
+        "value": 28
+      },
+      {
+        "year": 1978,
+        "value": 28.4
+      },
+      {
+        "year": 1979,
+        "value": 28.8
+      },
+      {
+        "year": 1980,
+        "value": 29.2
+      },
+      {
+        "year": 1981,
+        "value": 29.6
+      },
+      {
+        "year": 1982,
+        "value": 30
+      },
+      {
+        "year": 1983,
+        "value": 30.5
+      },
+      {
+        "year": 1984,
+        "value": 30.9
+      },
+      {
+        "year": 1985,
+        "value": 31.4
+      },
+      {
+        "year": 1986,
+        "value": 31.8
+      },
+      {
+        "year": 1987,
+        "value": 32.3
+      },
+      {
+        "year": 1988,
+        "value": 32.8
+      },
+      {
+        "year": 1989,
+        "value": 33.2
+      },
+      {
+        "year": 1990,
+        "value": 33.6
+      },
+      {
+        "year": 1991,
+        "value": 34
+      },
+      {
+        "year": 1992,
+        "value": 34.4
+      },
+      {
+        "year": 1993,
+        "value": 34.9
+      },
+      {
+        "year": 1994,
+        "value": 35.3
+      },
+      {
+        "year": 1995,
+        "value": 35.7
+      },
+      {
+        "year": 1996,
+        "value": 36.1
+      },
+      {
+        "year": 1997,
+        "value": 36.6
+      },
+      {
+        "year": 1998,
+        "value": 37.1
+      },
+      {
+        "year": 1999,
+        "value": 37.6
+      },
+      {
+        "year": 2000,
+        "value": 38.1
+      },
+      {
+        "year": 2001,
+        "value": 38.5
+      },
+      {
+        "year": 2002,
+        "value": 38.9
+      },
+      {
+        "year": 2003,
+        "value": 39.3
+      },
+      {
+        "year": 2004,
+        "value": 39.7
+      },
+      {
+        "year": 2005,
+        "value": 40.1
+      },
+      {
+        "year": 2006,
+        "value": 40.5
+      },
+      {
+        "year": 2007,
+        "value": 40.7
+      },
+      {
+        "year": 2008,
+        "value": 41
+      },
+      {
+        "year": 2009,
+        "value": 41.1
+      },
+      {
+        "year": 2010,
+        "value": 41.2
+      },
+      {
+        "year": 2011,
+        "value": 41.4
+      },
+      {
+        "year": 2012,
+        "value": 41.6
+      },
+      {
+        "year": 2013,
+        "value": 41.8
+      },
+      {
+        "year": 2014,
+        "value": 42
+      },
+      {
+        "year": 2015,
+        "value": 42.2
+      },
+      {
+        "year": 2016,
+        "value": 42.3
+      },
+      {
+        "year": 2017,
+        "value": 42.4
+      },
+      {
+        "year": 2018,
+        "value": 42.4
+      },
+      {
+        "year": 2019,
+        "value": 42.4
+      },
+      {
+        "year": 2020,
+        "value": 42.4
+      },
+      {
+        "year": 2021,
+        "value": 42.7
+      },
+      {
+        "year": 2022,
+        "value": 42.8
+      },
+      {
+        "year": 2023,
+        "value": 42.7
+      },
+      {
+        "year": 2024,
+        "value": 42.7
+      },
+      {
+        "year": 2025,
+        "value": 42.8
+      },
+      {
+        "year": 2026,
+        "value": 43.1
+      }
+    ],
+    "ontario": [
+      {
+        "year": 1971,
+        "value": 27.1
+      },
+      {
+        "year": 1972,
+        "value": 27.3
+      },
+      {
+        "year": 1973,
+        "value": 27.5
+      },
+      {
+        "year": 1974,
+        "value": 27.8
+      },
+      {
+        "year": 1975,
+        "value": 28.1
+      },
+      {
+        "year": 1976,
+        "value": 28.5
+      },
+      {
+        "year": 1977,
+        "value": 28.9
+      },
+      {
+        "year": 1978,
+        "value": 29.2
+      },
+      {
+        "year": 1979,
+        "value": 29.6
+      },
+      {
+        "year": 1980,
+        "value": 30
+      },
+      {
+        "year": 1981,
+        "value": 30.4
+      },
+      {
+        "year": 1982,
+        "value": 30.7
+      },
+      {
+        "year": 1983,
+        "value": 31
+      },
+      {
+        "year": 1984,
+        "value": 31.3
+      },
+      {
+        "year": 1985,
+        "value": 31.6
+      },
+      {
+        "year": 1986,
+        "value": 31.9
+      },
+      {
+        "year": 1987,
+        "value": 32.2
+      },
+      {
+        "year": 1988,
+        "value": 32.4
+      },
+      {
+        "year": 1989,
+        "value": 32.6
+      },
+      {
+        "year": 1990,
+        "value": 32.9
+      },
+      {
+        "year": 1991,
+        "value": 33.3
+      },
+      {
+        "year": 1992,
+        "value": 33.6
+      },
+      {
+        "year": 1993,
+        "value": 33.9
+      },
+      {
+        "year": 1994,
+        "value": 34.3
+      },
+      {
+        "year": 1995,
+        "value": 34.7
+      },
+      {
+        "year": 1996,
+        "value": 35
+      },
+      {
+        "year": 1997,
+        "value": 35.4
+      },
+      {
+        "year": 1998,
+        "value": 35.8
+      },
+      {
+        "year": 1999,
+        "value": 36.2
+      },
+      {
+        "year": 2000,
+        "value": 36.5
+      },
+      {
+        "year": 2001,
+        "value": 36.8
+      },
+      {
+        "year": 2002,
+        "value": 37.1
+      },
+      {
+        "year": 2003,
+        "value": 37.5
+      },
+      {
+        "year": 2004,
+        "value": 37.8
+      },
+      {
+        "year": 2005,
+        "value": 38.1
+      },
+      {
+        "year": 2006,
+        "value": 38.4
+      },
+      {
+        "year": 2007,
+        "value": 38.7
+      },
+      {
+        "year": 2008,
+        "value": 39
+      },
+      {
+        "year": 2009,
+        "value": 39.3
+      },
+      {
+        "year": 2010,
+        "value": 39.6
+      },
+      {
+        "year": 2011,
+        "value": 39.8
+      },
+      {
+        "year": 2012,
+        "value": 40
+      },
+      {
+        "year": 2013,
+        "value": 40.2
+      },
+      {
+        "year": 2014,
+        "value": 40.5
+      },
+      {
+        "year": 2015,
+        "value": 40.7
+      },
+      {
+        "year": 2016,
+        "value": 40.7
+      },
+      {
+        "year": 2017,
+        "value": 40.7
+      },
+      {
+        "year": 2018,
+        "value": 40.6
+      },
+      {
+        "year": 2019,
+        "value": 40.5
+      },
+      {
+        "year": 2020,
+        "value": 40.5
+      },
+      {
+        "year": 2021,
+        "value": 40.7
+      },
+      {
+        "year": 2022,
+        "value": 40.4
+      },
+      {
+        "year": 2023,
+        "value": 39.9
+      },
+      {
+        "year": 2024,
+        "value": 39.7
+      },
+      {
+        "year": 2025,
+        "value": 40
+      },
+      {
+        "year": 2026,
+        "value": 40.4
+      }
+    ],
+    "manitoba": [
+      {
+        "year": 1971,
+        "value": 26.8
+      },
+      {
+        "year": 1972,
+        "value": 27
+      },
+      {
+        "year": 1973,
+        "value": 27.1
+      },
+      {
+        "year": 1974,
+        "value": 27.4
+      },
+      {
+        "year": 1975,
+        "value": 27.7
+      },
+      {
+        "year": 1976,
+        "value": 28
+      },
+      {
+        "year": 1977,
+        "value": 28.3
+      },
+      {
+        "year": 1978,
+        "value": 28.7
+      },
+      {
+        "year": 1979,
+        "value": 29.1
+      },
+      {
+        "year": 1980,
+        "value": 29.4
+      },
+      {
+        "year": 1981,
+        "value": 29.8
+      },
+      {
+        "year": 1982,
+        "value": 30
+      },
+      {
+        "year": 1983,
+        "value": 30.2
+      },
+      {
+        "year": 1984,
+        "value": 30.5
+      },
+      {
+        "year": 1985,
+        "value": 30.8
+      },
+      {
+        "year": 1986,
+        "value": 31.1
+      },
+      {
+        "year": 1987,
+        "value": 31.4
+      },
+      {
+        "year": 1988,
+        "value": 31.7
+      },
+      {
+        "year": 1989,
+        "value": 32.1
+      },
+      {
+        "year": 1990,
+        "value": 32.5
+      },
+      {
+        "year": 1991,
+        "value": 32.8
+      },
+      {
+        "year": 1992,
+        "value": 33.2
+      },
+      {
+        "year": 1993,
+        "value": 33.5
+      },
+      {
+        "year": 1994,
+        "value": 33.9
+      },
+      {
+        "year": 1995,
+        "value": 34.2
+      },
+      {
+        "year": 1996,
+        "value": 34.5
+      },
+      {
+        "year": 1997,
+        "value": 34.9
+      },
+      {
+        "year": 1998,
+        "value": 35.4
+      },
+      {
+        "year": 1999,
+        "value": 35.7
+      },
+      {
+        "year": 2000,
+        "value": 36
+      },
+      {
+        "year": 2001,
+        "value": 36.4
+      },
+      {
+        "year": 2002,
+        "value": 36.7
+      },
+      {
+        "year": 2003,
+        "value": 37
+      },
+      {
+        "year": 2004,
+        "value": 37.2
+      },
+      {
+        "year": 2005,
+        "value": 37.4
+      },
+      {
+        "year": 2006,
+        "value": 37.6
+      },
+      {
+        "year": 2007,
+        "value": 37.7
+      },
+      {
+        "year": 2008,
+        "value": 37.8
+      },
+      {
+        "year": 2009,
+        "value": 37.8
+      },
+      {
+        "year": 2010,
+        "value": 37.8
+      },
+      {
+        "year": 2011,
+        "value": 37.8
+      },
+      {
+        "year": 2012,
+        "value": 37.8
+      },
+      {
+        "year": 2013,
+        "value": 37.8
+      },
+      {
+        "year": 2014,
+        "value": 37.8
+      },
+      {
+        "year": 2015,
+        "value": 37.6
+      },
+      {
+        "year": 2016,
+        "value": 37.5
+      },
+      {
+        "year": 2017,
+        "value": 37.4
+      },
+      {
+        "year": 2018,
+        "value": 37.4
+      },
+      {
+        "year": 2019,
+        "value": 37.5
+      },
+      {
+        "year": 2020,
+        "value": 37.7
+      },
+      {
+        "year": 2021,
+        "value": 37.8
+      },
+      {
+        "year": 2022,
+        "value": 37.7
+      },
+      {
+        "year": 2023,
+        "value": 37.5
+      },
+      {
+        "year": 2024,
+        "value": 37.5
+      },
+      {
+        "year": 2025,
+        "value": 37.6
+      },
+      {
+        "year": 2026,
+        "value": 37.8
+      }
+    ],
+    "saskatchewan": [
+      {
+        "year": 1971,
+        "value": 26.6
+      },
+      {
+        "year": 1972,
+        "value": 26.8
+      },
+      {
+        "year": 1973,
+        "value": 27
+      },
+      {
+        "year": 1974,
+        "value": 27.2
+      },
+      {
+        "year": 1975,
+        "value": 27.4
+      },
+      {
+        "year": 1976,
+        "value": 27.5
+      },
+      {
+        "year": 1977,
+        "value": 27.6
+      },
+      {
+        "year": 1978,
+        "value": 27.8
+      },
+      {
+        "year": 1979,
+        "value": 28.1
+      },
+      {
+        "year": 1980,
+        "value": 28.3
+      },
+      {
+        "year": 1981,
+        "value": 28.6
+      },
+      {
+        "year": 1982,
+        "value": 28.9
+      },
+      {
+        "year": 1983,
+        "value": 29.1
+      },
+      {
+        "year": 1984,
+        "value": 29.3
+      },
+      {
+        "year": 1985,
+        "value": 29.6
+      },
+      {
+        "year": 1986,
+        "value": 30
+      },
+      {
+        "year": 1987,
+        "value": 30.4
+      },
+      {
+        "year": 1988,
+        "value": 30.9
+      },
+      {
+        "year": 1989,
+        "value": 31.4
+      },
+      {
+        "year": 1990,
+        "value": 32
+      },
+      {
+        "year": 1991,
+        "value": 32.5
+      },
+      {
+        "year": 1992,
+        "value": 32.9
+      },
+      {
+        "year": 1993,
+        "value": 33.3
+      },
+      {
+        "year": 1994,
+        "value": 33.6
+      },
+      {
+        "year": 1995,
+        "value": 33.9
+      },
+      {
+        "year": 1996,
+        "value": 34.2
+      },
+      {
+        "year": 1997,
+        "value": 34.6
+      },
+      {
+        "year": 1998,
+        "value": 35
+      },
+      {
+        "year": 1999,
+        "value": 35.4
+      },
+      {
+        "year": 2000,
+        "value": 35.9
+      },
+      {
+        "year": 2001,
+        "value": 36.4
+      },
+      {
+        "year": 2002,
+        "value": 36.7
+      },
+      {
+        "year": 2003,
+        "value": 37.1
+      },
+      {
+        "year": 2004,
+        "value": 37.3
+      },
+      {
+        "year": 2005,
+        "value": 37.6
+      },
+      {
+        "year": 2006,
+        "value": 37.9
+      },
+      {
+        "year": 2007,
+        "value": 38
+      },
+      {
+        "year": 2008,
+        "value": 37.9
+      },
+      {
+        "year": 2009,
+        "value": 37.8
+      },
+      {
+        "year": 2010,
+        "value": 37.6
+      },
+      {
+        "year": 2011,
+        "value": 37.5
+      },
+      {
+        "year": 2012,
+        "value": 37.4
+      },
+      {
+        "year": 2013,
+        "value": 37.2
+      },
+      {
+        "year": 2014,
+        "value": 37.2
+      },
+      {
+        "year": 2015,
+        "value": 37.2
+      },
+      {
+        "year": 2016,
+        "value": 37.2
+      },
+      {
+        "year": 2017,
+        "value": 37.3
+      },
+      {
+        "year": 2018,
+        "value": 37.5
+      },
+      {
+        "year": 2019,
+        "value": 37.7
+      },
+      {
+        "year": 2020,
+        "value": 38
+      },
+      {
+        "year": 2021,
+        "value": 38.4
+      },
+      {
+        "year": 2022,
+        "value": 38.5
+      },
+      {
+        "year": 2023,
+        "value": 38.4
+      },
+      {
+        "year": 2024,
+        "value": 38.2
+      },
+      {
+        "year": 2025,
+        "value": 38.3
+      },
+      {
+        "year": 2026,
+        "value": 38.5
+      }
+    ],
+    "alberta": [
+      {
+        "year": 1971,
+        "value": 24.9
+      },
+      {
+        "year": 1972,
+        "value": 25.2
+      },
+      {
+        "year": 1973,
+        "value": 25.4
+      },
+      {
+        "year": 1974,
+        "value": 25.7
+      },
+      {
+        "year": 1975,
+        "value": 25.8
+      },
+      {
+        "year": 1976,
+        "value": 26.1
+      },
+      {
+        "year": 1977,
+        "value": 26.2
+      },
+      {
+        "year": 1978,
+        "value": 26.4
+      },
+      {
+        "year": 1979,
+        "value": 26.5
+      },
+      {
+        "year": 1980,
+        "value": 26.7
+      },
+      {
+        "year": 1981,
+        "value": 26.8
+      },
+      {
+        "year": 1982,
+        "value": 27.2
+      },
+      {
+        "year": 1983,
+        "value": 27.6
+      },
+      {
+        "year": 1984,
+        "value": 28.1
+      },
+      {
+        "year": 1985,
+        "value": 28.6
+      },
+      {
+        "year": 1986,
+        "value": 29
+      },
+      {
+        "year": 1987,
+        "value": 29.5
+      },
+      {
+        "year": 1988,
+        "value": 29.9
+      },
+      {
+        "year": 1989,
+        "value": 30.3
+      },
+      {
+        "year": 1990,
+        "value": 30.7
+      },
+      {
+        "year": 1991,
+        "value": 31.2
+      },
+      {
+        "year": 1992,
+        "value": 31.5
+      },
+      {
+        "year": 1993,
+        "value": 32
+      },
+      {
+        "year": 1994,
+        "value": 32.4
+      },
+      {
+        "year": 1995,
+        "value": 32.9
+      },
+      {
+        "year": 1996,
+        "value": 33.3
+      },
+      {
+        "year": 1997,
+        "value": 33.6
+      },
+      {
+        "year": 1998,
+        "value": 33.9
+      },
+      {
+        "year": 1999,
+        "value": 34.2
+      },
+      {
+        "year": 2000,
+        "value": 34.5
+      },
+      {
+        "year": 2001,
+        "value": 34.7
+      },
+      {
+        "year": 2002,
+        "value": 34.9
+      },
+      {
+        "year": 2003,
+        "value": 35.1
+      },
+      {
+        "year": 2004,
+        "value": 35.3
+      },
+      {
+        "year": 2005,
+        "value": 35.4
+      },
+      {
+        "year": 2006,
+        "value": 35.5
+      },
+      {
+        "year": 2007,
+        "value": 35.6
+      },
+      {
+        "year": 2008,
+        "value": 35.6
+      },
+      {
+        "year": 2009,
+        "value": 35.7
+      },
+      {
+        "year": 2010,
+        "value": 35.8
+      },
+      {
+        "year": 2011,
+        "value": 35.9
+      },
+      {
+        "year": 2012,
+        "value": 36
+      },
+      {
+        "year": 2013,
+        "value": 36
+      },
+      {
+        "year": 2014,
+        "value": 36
+      },
+      {
+        "year": 2015,
+        "value": 36.1
+      },
+      {
+        "year": 2016,
+        "value": 36.3
+      },
+      {
+        "year": 2017,
+        "value": 36.6
+      },
+      {
+        "year": 2018,
+        "value": 36.9
+      },
+      {
+        "year": 2019,
+        "value": 37.2
+      },
+      {
+        "year": 2020,
+        "value": 37.5
+      },
+      {
+        "year": 2021,
+        "value": 37.9
+      },
+      {
+        "year": 2022,
+        "value": 38.1
+      },
+      {
+        "year": 2023,
+        "value": 38.1
+      },
+      {
+        "year": 2024,
+        "value": 37.9
+      },
+      {
+        "year": 2025,
+        "value": 38.1
+      },
+      {
+        "year": 2026,
+        "value": 38.3
+      }
+    ],
+    "british-columbia": [
+      {
+        "year": 1971,
+        "value": 27.8
+      },
+      {
+        "year": 1972,
+        "value": 27.9
+      },
+      {
+        "year": 1973,
+        "value": 28.1
+      },
+      {
+        "year": 1974,
+        "value": 28.2
+      },
+      {
+        "year": 1975,
+        "value": 28.5
+      },
+      {
+        "year": 1976,
+        "value": 28.9
+      },
+      {
+        "year": 1977,
+        "value": 29.3
+      },
+      {
+        "year": 1978,
+        "value": 29.7
+      },
+      {
+        "year": 1979,
+        "value": 30.1
+      },
+      {
+        "year": 1980,
+        "value": 30.4
+      },
+      {
+        "year": 1981,
+        "value": 30.6
+      },
+      {
+        "year": 1982,
+        "value": 31
+      },
+      {
+        "year": 1983,
+        "value": 31.4
+      },
+      {
+        "year": 1984,
+        "value": 31.8
+      },
+      {
+        "year": 1985,
+        "value": 32.3
+      },
+      {
+        "year": 1986,
+        "value": 32.8
+      },
+      {
+        "year": 1987,
+        "value": 33.2
+      },
+      {
+        "year": 1988,
+        "value": 33.5
+      },
+      {
+        "year": 1989,
+        "value": 33.8
+      },
+      {
+        "year": 1990,
+        "value": 34.1
+      },
+      {
+        "year": 1991,
+        "value": 34.4
+      },
+      {
+        "year": 1992,
+        "value": 34.6
+      },
+      {
+        "year": 1993,
+        "value": 34.9
+      },
+      {
+        "year": 1994,
+        "value": 35.1
+      },
+      {
+        "year": 1995,
+        "value": 35.4
+      },
+      {
+        "year": 1996,
+        "value": 35.7
+      },
+      {
+        "year": 1997,
+        "value": 36
+      },
+      {
+        "year": 1998,
+        "value": 36.5
+      },
+      {
+        "year": 1999,
+        "value": 37
+      },
+      {
+        "year": 2000,
+        "value": 37.5
+      },
+      {
+        "year": 2001,
+        "value": 37.9
+      },
+      {
+        "year": 2002,
+        "value": 38.4
+      },
+      {
+        "year": 2003,
+        "value": 38.9
+      },
+      {
+        "year": 2004,
+        "value": 39.4
+      },
+      {
+        "year": 2005,
+        "value": 39.8
+      },
+      {
+        "year": 2006,
+        "value": 40.1
+      },
+      {
+        "year": 2007,
+        "value": 40.3
+      },
+      {
+        "year": 2008,
+        "value": 40.5
+      },
+      {
+        "year": 2009,
+        "value": 40.6
+      },
+      {
+        "year": 2010,
+        "value": 40.8
+      },
+      {
+        "year": 2011,
+        "value": 41.1
+      },
+      {
+        "year": 2012,
+        "value": 41.4
+      },
+      {
+        "year": 2013,
+        "value": 41.7
+      },
+      {
+        "year": 2014,
+        "value": 41.9
+      },
+      {
+        "year": 2015,
+        "value": 42.2
+      },
+      {
+        "year": 2016,
+        "value": 42.2
+      },
+      {
+        "year": 2017,
+        "value": 42.1
+      },
+      {
+        "year": 2018,
+        "value": 41.9
+      },
+      {
+        "year": 2019,
+        "value": 41.7
+      },
+      {
+        "year": 2020,
+        "value": 41.7
+      },
+      {
+        "year": 2021,
+        "value": 41.8
+      },
+      {
+        "year": 2022,
+        "value": 41.5
+      },
+      {
+        "year": 2023,
+        "value": 41.2
+      },
+      {
+        "year": 2024,
+        "value": 41.1
+      },
+      {
+        "year": 2025,
+        "value": 41.4
+      },
+      {
+        "year": 2026,
+        "value": 41.8
+      }
+    ],
+    "yukon": [
+      {
+        "year": 1971,
+        "value": 24.2
+      },
+      {
+        "year": 1972,
+        "value": 24.3
+      },
+      {
+        "year": 1973,
+        "value": 24.4
+      },
+      {
+        "year": 1974,
+        "value": 24.5
+      },
+      {
+        "year": 1975,
+        "value": 24.7
+      },
+      {
+        "year": 1976,
+        "value": 25.1
+      },
+      {
+        "year": 1977,
+        "value": 25.4
+      },
+      {
+        "year": 1978,
+        "value": 25.8
+      },
+      {
+        "year": 1979,
+        "value": 26.1
+      },
+      {
+        "year": 1980,
+        "value": 26.4
+      },
+      {
+        "year": 1981,
+        "value": 26.7
+      },
+      {
+        "year": 1982,
+        "value": 26.8
+      },
+      {
+        "year": 1983,
+        "value": 27.4
+      },
+      {
+        "year": 1984,
+        "value": 27.9
+      },
+      {
+        "year": 1985,
+        "value": 28.2
+      },
+      {
+        "year": 1986,
+        "value": 28.8
+      },
+      {
+        "year": 1987,
+        "value": 29.3
+      },
+      {
+        "year": 1988,
+        "value": 29.8
+      },
+      {
+        "year": 1989,
+        "value": 30.3
+      },
+      {
+        "year": 1990,
+        "value": 30.6
+      },
+      {
+        "year": 1991,
+        "value": 30.8
+      },
+      {
+        "year": 1992,
+        "value": 30.9
+      },
+      {
+        "year": 1993,
+        "value": 31.4
+      },
+      {
+        "year": 1994,
+        "value": 32.1
+      },
+      {
+        "year": 1995,
+        "value": 32.4
+      },
+      {
+        "year": 1996,
+        "value": 32.6
+      },
+      {
+        "year": 1997,
+        "value": 33.1
+      },
+      {
+        "year": 1998,
+        "value": 33.8
+      },
+      {
+        "year": 1999,
+        "value": 34.5
+      },
+      {
+        "year": 2000,
+        "value": 35.1
+      },
+      {
+        "year": 2001,
+        "value": 35.8
+      },
+      {
+        "year": 2002,
+        "value": 36.3
+      },
+      {
+        "year": 2003,
+        "value": 36.6
+      },
+      {
+        "year": 2004,
+        "value": 37
+      },
+      {
+        "year": 2005,
+        "value": 37.4
+      },
+      {
+        "year": 2006,
+        "value": 37.9
+      },
+      {
+        "year": 2007,
+        "value": 38.1
+      },
+      {
+        "year": 2008,
+        "value": 38.4
+      },
+      {
+        "year": 2009,
+        "value": 38.6
+      },
+      {
+        "year": 2010,
+        "value": 38.6
+      },
+      {
+        "year": 2011,
+        "value": 38.6
+      },
+      {
+        "year": 2012,
+        "value": 38.7
+      },
+      {
+        "year": 2013,
+        "value": 39
+      },
+      {
+        "year": 2014,
+        "value": 39.1
+      },
+      {
+        "year": 2015,
+        "value": 39.2
+      },
+      {
+        "year": 2016,
+        "value": 39.1
+      },
+      {
+        "year": 2017,
+        "value": 38.9
+      },
+      {
+        "year": 2018,
+        "value": 38.8
+      },
+      {
+        "year": 2019,
+        "value": 38.8
+      },
+      {
+        "year": 2020,
+        "value": 38.8
+      },
+      {
+        "year": 2021,
+        "value": 38.7
+      },
+      {
+        "year": 2022,
+        "value": 38.6
+      },
+      {
+        "year": 2023,
+        "value": 38.4
+      },
+      {
+        "year": 2024,
+        "value": 38
+      },
+      {
+        "year": 2025,
+        "value": 38
+      },
+      {
+        "year": 2026,
+        "value": 38
+      }
+    ],
+    "northwest-territories": [
+      {
+        "year": 1991,
+        "value": 26.9
+      },
+      {
+        "year": 1992,
+        "value": 27.2
+      },
+      {
+        "year": 1993,
+        "value": 27.5
+      },
+      {
+        "year": 1994,
+        "value": 27.9
+      },
+      {
+        "year": 1995,
+        "value": 28.1
+      },
+      {
+        "year": 1996,
+        "value": 28.3
+      },
+      {
+        "year": 1997,
+        "value": 28.6
+      },
+      {
+        "year": 1998,
+        "value": 29
+      },
+      {
+        "year": 1999,
+        "value": 29.3
+      },
+      {
+        "year": 2000,
+        "value": 29.7
+      },
+      {
+        "year": 2001,
+        "value": 29.9
+      },
+      {
+        "year": 2002,
+        "value": 30.3
+      },
+      {
+        "year": 2003,
+        "value": 30.6
+      },
+      {
+        "year": 2004,
+        "value": 30.8
+      },
+      {
+        "year": 2005,
+        "value": 31
+      },
+      {
+        "year": 2006,
+        "value": 31.2
+      },
+      {
+        "year": 2007,
+        "value": 31.3
+      },
+      {
+        "year": 2008,
+        "value": 31.5
+      },
+      {
+        "year": 2009,
+        "value": 31.7
+      },
+      {
+        "year": 2010,
+        "value": 31.9
+      },
+      {
+        "year": 2011,
+        "value": 32.1
+      },
+      {
+        "year": 2012,
+        "value": 32.5
+      },
+      {
+        "year": 2013,
+        "value": 33.1
+      },
+      {
+        "year": 2014,
+        "value": 33.6
+      },
+      {
+        "year": 2015,
+        "value": 34
+      },
+      {
+        "year": 2016,
+        "value": 34.3
+      },
+      {
+        "year": 2017,
+        "value": 34.5
+      },
+      {
+        "year": 2018,
+        "value": 34.8
+      },
+      {
+        "year": 2019,
+        "value": 35.1
+      },
+      {
+        "year": 2020,
+        "value": 35.3
+      },
+      {
+        "year": 2021,
+        "value": 35.5
+      },
+      {
+        "year": 2022,
+        "value": 35.6
+      },
+      {
+        "year": 2023,
+        "value": 35.8
+      },
+      {
+        "year": 2024,
+        "value": 35.7
+      },
+      {
+        "year": 2025,
+        "value": 35.7
+      },
+      {
+        "year": 2026,
+        "value": 35.9
+      }
+    ],
+    "nunavut": [
+      {
+        "year": 1991,
+        "value": 21.2
+      },
+      {
+        "year": 1992,
+        "value": 21.6
+      },
+      {
+        "year": 1993,
+        "value": 21.8
+      },
+      {
+        "year": 1994,
+        "value": 21.9
+      },
+      {
+        "year": 1995,
+        "value": 21.7
+      },
+      {
+        "year": 1996,
+        "value": 21.8
+      },
+      {
+        "year": 1997,
+        "value": 21.8
+      },
+      {
+        "year": 1998,
+        "value": 22
+      },
+      {
+        "year": 1999,
+        "value": 22.2
+      },
+      {
+        "year": 2000,
+        "value": 22.3
+      },
+      {
+        "year": 2001,
+        "value": 22.4
+      },
+      {
+        "year": 2002,
+        "value": 22.7
+      },
+      {
+        "year": 2003,
+        "value": 22.9
+      },
+      {
+        "year": 2004,
+        "value": 23.2
+      },
+      {
+        "year": 2005,
+        "value": 23.4
+      },
+      {
+        "year": 2006,
+        "value": 23.6
+      },
+      {
+        "year": 2007,
+        "value": 23.8
+      },
+      {
+        "year": 2008,
+        "value": 23.9
+      },
+      {
+        "year": 2009,
+        "value": 24.1
+      },
+      {
+        "year": 2010,
+        "value": 24.3
+      },
+      {
+        "year": 2011,
+        "value": 24.6
+      },
+      {
+        "year": 2012,
+        "value": 24.8
+      },
+      {
+        "year": 2013,
+        "value": 24.9
+      },
+      {
+        "year": 2014,
+        "value": 25.1
+      },
+      {
+        "year": 2015,
+        "value": 25.2
+      },
+      {
+        "year": 2016,
+        "value": 25.5
+      },
+      {
+        "year": 2017,
+        "value": 25.8
+      },
+      {
+        "year": 2018,
+        "value": 25.8
+      },
+      {
+        "year": 2019,
+        "value": 25.8
+      },
+      {
+        "year": 2020,
+        "value": 25.9
+      },
+      {
+        "year": 2021,
+        "value": 26.1
+      },
+      {
+        "year": 2022,
+        "value": 26.3
+      },
+      {
+        "year": 2023,
+        "value": 26.4
+      },
+      {
+        "year": 2024,
+        "value": 26.7
+      },
+      {
+        "year": 2025,
+        "value": 27.2
+      },
+      {
+        "year": 2026,
+        "value": 27.6
+      }
+    ],
+    "northwest-territories-including-nunavut": [
+      {
+        "year": 1971,
+        "value": 19.8
+      },
+      {
+        "year": 1972,
+        "value": 19.9
+      },
+      {
+        "year": 1973,
+        "value": 20.2
+      },
+      {
+        "year": 1974,
+        "value": 20.4
+      },
+      {
+        "year": 1975,
+        "value": 20.7
+      },
+      {
+        "year": 1976,
+        "value": 21.1
+      },
+      {
+        "year": 1977,
+        "value": 21.2
+      },
+      {
+        "year": 1978,
+        "value": 21.4
+      },
+      {
+        "year": 1979,
+        "value": 21.7
+      },
+      {
+        "year": 1980,
+        "value": 21.9
+      },
+      {
+        "year": 1981,
+        "value": 22.3
+      },
+      {
+        "year": 1982,
+        "value": 22.6
+      },
+      {
+        "year": 1983,
+        "value": 22.8
+      },
+      {
+        "year": 1984,
+        "value": 23.3
+      },
+      {
+        "year": 1985,
+        "value": 23.6
+      },
+      {
+        "year": 1986,
+        "value": 24
+      },
+      {
+        "year": 1987,
+        "value": 24.2
+      },
+      {
+        "year": 1988,
+        "value": 24.3
+      },
+      {
+        "year": 1989,
+        "value": 24.5
+      },
+      {
+        "year": 1990,
+        "value": 24.7
+      }
+    ]
+  },
+  "share0to14": {
+    "canada": [
+      {
+        "year": 1971,
+        "value": 29.3
+      },
+      {
+        "year": 1972,
+        "value": 28.5
+      },
+      {
+        "year": 1973,
+        "value": 27.7
+      },
+      {
+        "year": 1974,
+        "value": 26.9
+      },
+      {
+        "year": 1975,
+        "value": 26.2
+      },
+      {
+        "year": 1976,
+        "value": 25.4
+      },
+      {
+        "year": 1977,
+        "value": 24.7
+      },
+      {
+        "year": 1978,
+        "value": 24
+      },
+      {
+        "year": 1979,
+        "value": 23.3
+      },
+      {
+        "year": 1980,
+        "value": 22.7
+      },
+      {
+        "year": 1981,
+        "value": 22.3
+      },
+      {
+        "year": 1982,
+        "value": 22
+      },
+      {
+        "year": 1983,
+        "value": 21.8
+      },
+      {
+        "year": 1984,
+        "value": 21.6
+      },
+      {
+        "year": 1985,
+        "value": 21.3
+      },
+      {
+        "year": 1986,
+        "value": 21
+      },
+      {
+        "year": 1987,
+        "value": 20.9
+      },
+      {
+        "year": 1988,
+        "value": 20.8
+      },
+      {
+        "year": 1989,
+        "value": 20.7
+      },
+      {
+        "year": 1990,
+        "value": 20.7
+      },
+      {
+        "year": 1991,
+        "value": 20.7
+      },
+      {
+        "year": 1992,
+        "value": 20.7
+      },
+      {
+        "year": 1993,
+        "value": 20.7
+      },
+      {
+        "year": 1994,
+        "value": 20.6
+      },
+      {
+        "year": 1995,
+        "value": 20.4
+      },
+      {
+        "year": 1996,
+        "value": 20.2
+      },
+      {
+        "year": 1997,
+        "value": 20
+      },
+      {
+        "year": 1998,
+        "value": 19.8
+      },
+      {
+        "year": 1999,
+        "value": 19.5
+      },
+      {
+        "year": 2000,
+        "value": 19.2
+      },
+      {
+        "year": 2001,
+        "value": 18.9
+      },
+      {
+        "year": 2002,
+        "value": 18.6
+      },
+      {
+        "year": 2003,
+        "value": 18.3
+      },
+      {
+        "year": 2004,
+        "value": 18
+      },
+      {
+        "year": 2005,
+        "value": 17.7
+      },
+      {
+        "year": 2006,
+        "value": 17.3
+      },
+      {
+        "year": 2007,
+        "value": 17.1
+      },
+      {
+        "year": 2008,
+        "value": 16.9
+      },
+      {
+        "year": 2009,
+        "value": 16.7
+      },
+      {
+        "year": 2010,
+        "value": 16.5
+      },
+      {
+        "year": 2011,
+        "value": 16.4
+      },
+      {
+        "year": 2012,
+        "value": 16.3
+      },
+      {
+        "year": 2013,
+        "value": 16.3
+      },
+      {
+        "year": 2014,
+        "value": 16.2
+      },
+      {
+        "year": 2015,
+        "value": 16.2
+      },
+      {
+        "year": 2016,
+        "value": 16.3
+      },
+      {
+        "year": 2017,
+        "value": 16.2
+      },
+      {
+        "year": 2018,
+        "value": 16.2
+      },
+      {
+        "year": 2019,
+        "value": 16.1
+      },
+      {
+        "year": 2020,
+        "value": 16
+      },
+      {
+        "year": 2021,
+        "value": 15.9
+      },
+      {
+        "year": 2022,
+        "value": 15.7
+      },
+      {
+        "year": 2023,
+        "value": 15.4
+      },
+      {
+        "year": 2024,
+        "value": 15.2
+      },
+      {
+        "year": 2025,
+        "value": 15
+      },
+      {
+        "year": 2026,
+        "value": 15
+      }
+    ],
+    "newfoundland-and-labrador": [
+      {
+        "year": 1971,
+        "value": 36.9
+      },
+      {
+        "year": 1972,
+        "value": 36.3
+      },
+      {
+        "year": 1973,
+        "value": 35.8
+      },
+      {
+        "year": 1974,
+        "value": 35.2
+      },
+      {
+        "year": 1975,
+        "value": 34.4
+      },
+      {
+        "year": 1976,
+        "value": 33.5
+      },
+      {
+        "year": 1977,
+        "value": 32.8
+      },
+      {
+        "year": 1978,
+        "value": 32
+      },
+      {
+        "year": 1979,
+        "value": 31.1
+      },
+      {
+        "year": 1980,
+        "value": 30.2
+      },
+      {
+        "year": 1981,
+        "value": 29.2
+      },
+      {
+        "year": 1982,
+        "value": 28.5
+      },
+      {
+        "year": 1983,
+        "value": 27.8
+      },
+      {
+        "year": 1984,
+        "value": 27
+      },
+      {
+        "year": 1985,
+        "value": 26.3
+      },
+      {
+        "year": 1986,
+        "value": 25.6
+      },
+      {
+        "year": 1987,
+        "value": 24.9
+      },
+      {
+        "year": 1988,
+        "value": 24.2
+      },
+      {
+        "year": 1989,
+        "value": 23.5
+      },
+      {
+        "year": 1990,
+        "value": 22.9
+      },
+      {
+        "year": 1991,
+        "value": 22.2
+      },
+      {
+        "year": 1992,
+        "value": 21.7
+      },
+      {
+        "year": 1993,
+        "value": 21.2
+      },
+      {
+        "year": 1994,
+        "value": 20.7
+      },
+      {
+        "year": 1995,
+        "value": 20.2
+      },
+      {
+        "year": 1996,
+        "value": 19.6
+      },
+      {
+        "year": 1997,
+        "value": 19.1
+      },
+      {
+        "year": 1998,
+        "value": 18.6
+      },
+      {
+        "year": 1999,
+        "value": 18.1
+      },
+      {
+        "year": 2000,
+        "value": 17.6
+      },
+      {
+        "year": 2001,
+        "value": 17.1
+      },
+      {
+        "year": 2002,
+        "value": 16.8
+      },
+      {
+        "year": 2003,
+        "value": 16.4
+      },
+      {
+        "year": 2004,
+        "value": 16.1
+      },
+      {
+        "year": 2005,
+        "value": 15.6
+      },
+      {
+        "year": 2006,
+        "value": 15.3
+      },
+      {
+        "year": 2007,
+        "value": 15.1
+      },
+      {
+        "year": 2008,
+        "value": 15
+      },
+      {
+        "year": 2009,
+        "value": 15
+      },
+      {
+        "year": 2010,
+        "value": 14.8
+      },
+      {
+        "year": 2011,
+        "value": 14.7
+      },
+      {
+        "year": 2012,
+        "value": 14.6
+      },
+      {
+        "year": 2013,
+        "value": 14.4
+      },
+      {
+        "year": 2014,
+        "value": 14.4
+      },
+      {
+        "year": 2015,
+        "value": 14.2
+      },
+      {
+        "year": 2016,
+        "value": 14.1
+      },
+      {
+        "year": 2017,
+        "value": 14
+      },
+      {
+        "year": 2018,
+        "value": 13.7
+      },
+      {
+        "year": 2019,
+        "value": 13.5
+      },
+      {
+        "year": 2020,
+        "value": 13.3
+      },
+      {
+        "year": 2021,
+        "value": 13.1
+      },
+      {
+        "year": 2022,
+        "value": 12.9
+      },
+      {
+        "year": 2023,
+        "value": 12.7
+      },
+      {
+        "year": 2024,
+        "value": 12.5
+      },
+      {
+        "year": 2025,
+        "value": 12.3
+      },
+      {
+        "year": 2026,
+        "value": 12.1
+      }
+    ],
+    "prince-edward-island": [
+      {
+        "year": 1971,
+        "value": 31.6
+      },
+      {
+        "year": 1972,
+        "value": 31
+      },
+      {
+        "year": 1973,
+        "value": 30.3
+      },
+      {
+        "year": 1974,
+        "value": 29.6
+      },
+      {
+        "year": 1975,
+        "value": 28.9
+      },
+      {
+        "year": 1976,
+        "value": 28
+      },
+      {
+        "year": 1977,
+        "value": 27.5
+      },
+      {
+        "year": 1978,
+        "value": 26.7
+      },
+      {
+        "year": 1979,
+        "value": 25.9
+      },
+      {
+        "year": 1980,
+        "value": 25.2
+      },
+      {
+        "year": 1981,
+        "value": 24.7
+      },
+      {
+        "year": 1982,
+        "value": 24.5
+      },
+      {
+        "year": 1983,
+        "value": 24
+      },
+      {
+        "year": 1984,
+        "value": 23.5
+      },
+      {
+        "year": 1985,
+        "value": 23.3
+      },
+      {
+        "year": 1986,
+        "value": 23
+      },
+      {
+        "year": 1987,
+        "value": 22.8
+      },
+      {
+        "year": 1988,
+        "value": 22.8
+      },
+      {
+        "year": 1989,
+        "value": 22.8
+      },
+      {
+        "year": 1990,
+        "value": 22.7
+      },
+      {
+        "year": 1991,
+        "value": 22.5
+      },
+      {
+        "year": 1992,
+        "value": 22.3
+      },
+      {
+        "year": 1993,
+        "value": 22.2
+      },
+      {
+        "year": 1994,
+        "value": 22
+      },
+      {
+        "year": 1995,
+        "value": 21.8
+      },
+      {
+        "year": 1996,
+        "value": 21.5
+      },
+      {
+        "year": 1997,
+        "value": 21.2
+      },
+      {
+        "year": 1998,
+        "value": 20.8
+      },
+      {
+        "year": 1999,
+        "value": 20.4
+      },
+      {
+        "year": 2000,
+        "value": 20
+      },
+      {
+        "year": 2001,
+        "value": 19.5
+      },
+      {
+        "year": 2002,
+        "value": 19
+      },
+      {
+        "year": 2003,
+        "value": 18.6
+      },
+      {
+        "year": 2004,
+        "value": 18.2
+      },
+      {
+        "year": 2005,
+        "value": 17.8
+      },
+      {
+        "year": 2006,
+        "value": 17.3
+      },
+      {
+        "year": 2007,
+        "value": 17
+      },
+      {
+        "year": 2008,
+        "value": 16.8
+      },
+      {
+        "year": 2009,
+        "value": 16.6
+      },
+      {
+        "year": 2010,
+        "value": 16.4
+      },
+      {
+        "year": 2011,
+        "value": 16.1
+      },
+      {
+        "year": 2012,
+        "value": 15.9
+      },
+      {
+        "year": 2013,
+        "value": 15.8
+      },
+      {
+        "year": 2014,
+        "value": 15.8
+      },
+      {
+        "year": 2015,
+        "value": 15.7
+      },
+      {
+        "year": 2016,
+        "value": 15.7
+      },
+      {
+        "year": 2017,
+        "value": 15.8
+      },
+      {
+        "year": 2018,
+        "value": 15.7
+      },
+      {
+        "year": 2019,
+        "value": 15.5
+      },
+      {
+        "year": 2020,
+        "value": 15.2
+      },
+      {
+        "year": 2021,
+        "value": 15
+      },
+      {
+        "year": 2022,
+        "value": 14.8
+      },
+      {
+        "year": 2023,
+        "value": 14.3
+      },
+      {
+        "year": 2024,
+        "value": 14.1
+      },
+      {
+        "year": 2025,
+        "value": 13.9
+      },
+      {
+        "year": 2026,
+        "value": 13.8
+      }
+    ],
+    "nova-scotia": [
+      {
+        "year": 1971,
+        "value": 30.3
+      },
+      {
+        "year": 1972,
+        "value": 29.7
+      },
+      {
+        "year": 1973,
+        "value": 29.1
+      },
+      {
+        "year": 1974,
+        "value": 28.3
+      },
+      {
+        "year": 1975,
+        "value": 27.6
+      },
+      {
+        "year": 1976,
+        "value": 26.9
+      },
+      {
+        "year": 1977,
+        "value": 26.1
+      },
+      {
+        "year": 1978,
+        "value": 25.3
+      },
+      {
+        "year": 1979,
+        "value": 24.6
+      },
+      {
+        "year": 1980,
+        "value": 23.8
+      },
+      {
+        "year": 1981,
+        "value": 23.3
+      },
+      {
+        "year": 1982,
+        "value": 22.9
+      },
+      {
+        "year": 1983,
+        "value": 22.5
+      },
+      {
+        "year": 1984,
+        "value": 22.1
+      },
+      {
+        "year": 1985,
+        "value": 21.7
+      },
+      {
+        "year": 1986,
+        "value": 21.3
+      },
+      {
+        "year": 1987,
+        "value": 21
+      },
+      {
+        "year": 1988,
+        "value": 20.8
+      },
+      {
+        "year": 1989,
+        "value": 20.6
+      },
+      {
+        "year": 1990,
+        "value": 20.4
+      },
+      {
+        "year": 1991,
+        "value": 20.3
+      },
+      {
+        "year": 1992,
+        "value": 20.2
+      },
+      {
+        "year": 1993,
+        "value": 20.1
+      },
+      {
+        "year": 1994,
+        "value": 19.9
+      },
+      {
+        "year": 1995,
+        "value": 19.7
+      },
+      {
+        "year": 1996,
+        "value": 19.5
+      },
+      {
+        "year": 1997,
+        "value": 19.3
+      },
+      {
+        "year": 1998,
+        "value": 19
+      },
+      {
+        "year": 1999,
+        "value": 18.6
+      },
+      {
+        "year": 2000,
+        "value": 18.3
+      },
+      {
+        "year": 2001,
+        "value": 17.9
+      },
+      {
+        "year": 2002,
+        "value": 17.5
+      },
+      {
+        "year": 2003,
+        "value": 17.1
+      },
+      {
+        "year": 2004,
+        "value": 16.7
+      },
+      {
+        "year": 2005,
+        "value": 16.2
+      },
+      {
+        "year": 2006,
+        "value": 15.8
+      },
+      {
+        "year": 2007,
+        "value": 15.5
+      },
+      {
+        "year": 2008,
+        "value": 15.3
+      },
+      {
+        "year": 2009,
+        "value": 15.1
+      },
+      {
+        "year": 2010,
+        "value": 14.9
+      },
+      {
+        "year": 2011,
+        "value": 14.6
+      },
+      {
+        "year": 2012,
+        "value": 14.5
+      },
+      {
+        "year": 2013,
+        "value": 14.4
+      },
+      {
+        "year": 2014,
+        "value": 14.3
+      },
+      {
+        "year": 2015,
+        "value": 14.2
+      },
+      {
+        "year": 2016,
+        "value": 14.3
+      },
+      {
+        "year": 2017,
+        "value": 14.2
+      },
+      {
+        "year": 2018,
+        "value": 14.1
+      },
+      {
+        "year": 2019,
+        "value": 14
+      },
+      {
+        "year": 2020,
+        "value": 14
+      },
+      {
+        "year": 2021,
+        "value": 13.9
+      },
+      {
+        "year": 2022,
+        "value": 13.9
+      },
+      {
+        "year": 2023,
+        "value": 13.7
+      },
+      {
+        "year": 2024,
+        "value": 13.6
+      },
+      {
+        "year": 2025,
+        "value": 13.4
+      },
+      {
+        "year": 2026,
+        "value": 13.3
+      }
+    ],
+    "new-brunswick": [
+      {
+        "year": 1971,
+        "value": 31.8
+      },
+      {
+        "year": 1972,
+        "value": 31.1
+      },
+      {
+        "year": 1973,
+        "value": 30.3
+      },
+      {
+        "year": 1974,
+        "value": 29.7
+      },
+      {
+        "year": 1975,
+        "value": 29
+      },
+      {
+        "year": 1976,
+        "value": 28.3
+      },
+      {
+        "year": 1977,
+        "value": 27.6
+      },
+      {
+        "year": 1978,
+        "value": 26.9
+      },
+      {
+        "year": 1979,
+        "value": 26
+      },
+      {
+        "year": 1980,
+        "value": 25.3
+      },
+      {
+        "year": 1981,
+        "value": 24.7
+      },
+      {
+        "year": 1982,
+        "value": 24.2
+      },
+      {
+        "year": 1983,
+        "value": 23.8
+      },
+      {
+        "year": 1984,
+        "value": 23.4
+      },
+      {
+        "year": 1985,
+        "value": 22.9
+      },
+      {
+        "year": 1986,
+        "value": 22.4
+      },
+      {
+        "year": 1987,
+        "value": 22
+      },
+      {
+        "year": 1988,
+        "value": 21.6
+      },
+      {
+        "year": 1989,
+        "value": 21.3
+      },
+      {
+        "year": 1990,
+        "value": 21
+      },
+      {
+        "year": 1991,
+        "value": 20.7
+      },
+      {
+        "year": 1992,
+        "value": 20.4
+      },
+      {
+        "year": 1993,
+        "value": 20.1
+      },
+      {
+        "year": 1994,
+        "value": 19.9
+      },
+      {
+        "year": 1995,
+        "value": 19.6
+      },
+      {
+        "year": 1996,
+        "value": 19.3
+      },
+      {
+        "year": 1997,
+        "value": 19
+      },
+      {
+        "year": 1998,
+        "value": 18.6
+      },
+      {
+        "year": 1999,
+        "value": 18.3
+      },
+      {
+        "year": 2000,
+        "value": 17.9
+      },
+      {
+        "year": 2001,
+        "value": 17.6
+      },
+      {
+        "year": 2002,
+        "value": 17.2
+      },
+      {
+        "year": 2003,
+        "value": 16.9
+      },
+      {
+        "year": 2004,
+        "value": 16.7
+      },
+      {
+        "year": 2005,
+        "value": 16.3
+      },
+      {
+        "year": 2006,
+        "value": 15.9
+      },
+      {
+        "year": 2007,
+        "value": 15.7
+      },
+      {
+        "year": 2008,
+        "value": 15.5
+      },
+      {
+        "year": 2009,
+        "value": 15.3
+      },
+      {
+        "year": 2010,
+        "value": 15.1
+      },
+      {
+        "year": 2011,
+        "value": 14.9
+      },
+      {
+        "year": 2012,
+        "value": 14.8
+      },
+      {
+        "year": 2013,
+        "value": 14.7
+      },
+      {
+        "year": 2014,
+        "value": 14.6
+      },
+      {
+        "year": 2015,
+        "value": 14.5
+      },
+      {
+        "year": 2016,
+        "value": 14.5
+      },
+      {
+        "year": 2017,
+        "value": 14.5
+      },
+      {
+        "year": 2018,
+        "value": 14.4
+      },
+      {
+        "year": 2019,
+        "value": 14.4
+      },
+      {
+        "year": 2020,
+        "value": 14.3
+      },
+      {
+        "year": 2021,
+        "value": 14.2
+      },
+      {
+        "year": 2022,
+        "value": 14.2
+      },
+      {
+        "year": 2023,
+        "value": 14.2
+      },
+      {
+        "year": 2024,
+        "value": 14.1
+      },
+      {
+        "year": 2025,
+        "value": 14
+      },
+      {
+        "year": 2026,
+        "value": 13.9
+      }
+    ],
+    "quebec": [
+      {
+        "year": 1971,
+        "value": 29.3
+      },
+      {
+        "year": 1972,
+        "value": 28.3
+      },
+      {
+        "year": 1973,
+        "value": 27.3
+      },
+      {
+        "year": 1974,
+        "value": 26.3
+      },
+      {
+        "year": 1975,
+        "value": 25.4
+      },
+      {
+        "year": 1976,
+        "value": 24.6
+      },
+      {
+        "year": 1977,
+        "value": 23.9
+      },
+      {
+        "year": 1978,
+        "value": 23.2
+      },
+      {
+        "year": 1979,
+        "value": 22.5
+      },
+      {
+        "year": 1980,
+        "value": 21.9
+      },
+      {
+        "year": 1981,
+        "value": 21.5
+      },
+      {
+        "year": 1982,
+        "value": 21.2
+      },
+      {
+        "year": 1983,
+        "value": 21
+      },
+      {
+        "year": 1984,
+        "value": 20.7
+      },
+      {
+        "year": 1985,
+        "value": 20.5
+      },
+      {
+        "year": 1986,
+        "value": 20.2
+      },
+      {
+        "year": 1987,
+        "value": 20.1
+      },
+      {
+        "year": 1988,
+        "value": 20
+      },
+      {
+        "year": 1989,
+        "value": 19.9
+      },
+      {
+        "year": 1990,
+        "value": 19.8
+      },
+      {
+        "year": 1991,
+        "value": 19.8
+      },
+      {
+        "year": 1992,
+        "value": 19.8
+      },
+      {
+        "year": 1993,
+        "value": 19.7
+      },
+      {
+        "year": 1994,
+        "value": 19.5
+      },
+      {
+        "year": 1995,
+        "value": 19.3
+      },
+      {
+        "year": 1996,
+        "value": 19.1
+      },
+      {
+        "year": 1997,
+        "value": 18.8
+      },
+      {
+        "year": 1998,
+        "value": 18.5
+      },
+      {
+        "year": 1999,
+        "value": 18.2
+      },
+      {
+        "year": 2000,
+        "value": 17.9
+      },
+      {
+        "year": 2001,
+        "value": 17.7
+      },
+      {
+        "year": 2002,
+        "value": 17.5
+      },
+      {
+        "year": 2003,
+        "value": 17.3
+      },
+      {
+        "year": 2004,
+        "value": 17
+      },
+      {
+        "year": 2005,
+        "value": 16.7
+      },
+      {
+        "year": 2006,
+        "value": 16.4
+      },
+      {
+        "year": 2007,
+        "value": 16.1
+      },
+      {
+        "year": 2008,
+        "value": 15.9
+      },
+      {
+        "year": 2009,
+        "value": 15.7
+      },
+      {
+        "year": 2010,
+        "value": 15.5
+      },
+      {
+        "year": 2011,
+        "value": 15.4
+      },
+      {
+        "year": 2012,
+        "value": 15.4
+      },
+      {
+        "year": 2013,
+        "value": 15.5
+      },
+      {
+        "year": 2014,
+        "value": 15.6
+      },
+      {
+        "year": 2015,
+        "value": 15.6
+      },
+      {
+        "year": 2016,
+        "value": 15.7
+      },
+      {
+        "year": 2017,
+        "value": 15.8
+      },
+      {
+        "year": 2018,
+        "value": 15.9
+      },
+      {
+        "year": 2019,
+        "value": 15.9
+      },
+      {
+        "year": 2020,
+        "value": 16
+      },
+      {
+        "year": 2021,
+        "value": 15.9
+      },
+      {
+        "year": 2022,
+        "value": 15.8
+      },
+      {
+        "year": 2023,
+        "value": 15.6
+      },
+      {
+        "year": 2024,
+        "value": 15.4
+      },
+      {
+        "year": 2025,
+        "value": 15.2
+      },
+      {
+        "year": 2026,
+        "value": 15.1
+      }
+    ],
+    "ontario": [
+      {
+        "year": 1971,
+        "value": 28.4
+      },
+      {
+        "year": 1972,
+        "value": 27.7
+      },
+      {
+        "year": 1973,
+        "value": 27
+      },
+      {
+        "year": 1974,
+        "value": 26.3
+      },
+      {
+        "year": 1975,
+        "value": 25.6
+      },
+      {
+        "year": 1976,
+        "value": 24.9
+      },
+      {
+        "year": 1977,
+        "value": 24.2
+      },
+      {
+        "year": 1978,
+        "value": 23.5
+      },
+      {
+        "year": 1979,
+        "value": 22.8
+      },
+      {
+        "year": 1980,
+        "value": 22.1
+      },
+      {
+        "year": 1981,
+        "value": 21.6
+      },
+      {
+        "year": 1982,
+        "value": 21.3
+      },
+      {
+        "year": 1983,
+        "value": 21
+      },
+      {
+        "year": 1984,
+        "value": 20.8
+      },
+      {
+        "year": 1985,
+        "value": 20.5
+      },
+      {
+        "year": 1986,
+        "value": 20.3
+      },
+      {
+        "year": 1987,
+        "value": 20.2
+      },
+      {
+        "year": 1988,
+        "value": 20.1
+      },
+      {
+        "year": 1989,
+        "value": 20.1
+      },
+      {
+        "year": 1990,
+        "value": 20.1
+      },
+      {
+        "year": 1991,
+        "value": 20.2
+      },
+      {
+        "year": 1992,
+        "value": 20.3
+      },
+      {
+        "year": 1993,
+        "value": 20.4
+      },
+      {
+        "year": 1994,
+        "value": 20.4
+      },
+      {
+        "year": 1995,
+        "value": 20.4
+      },
+      {
+        "year": 1996,
+        "value": 20.3
+      },
+      {
+        "year": 1997,
+        "value": 20.2
+      },
+      {
+        "year": 1998,
+        "value": 20.1
+      },
+      {
+        "year": 1999,
+        "value": 19.9
+      },
+      {
+        "year": 2000,
+        "value": 19.6
+      },
+      {
+        "year": 2001,
+        "value": 19.4
+      },
+      {
+        "year": 2002,
+        "value": 19.1
+      },
+      {
+        "year": 2003,
+        "value": 18.8
+      },
+      {
+        "year": 2004,
+        "value": 18.5
+      },
+      {
+        "year": 2005,
+        "value": 18.1
+      },
+      {
+        "year": 2006,
+        "value": 17.8
+      },
+      {
+        "year": 2007,
+        "value": 17.5
+      },
+      {
+        "year": 2008,
+        "value": 17.3
+      },
+      {
+        "year": 2009,
+        "value": 17.1
+      },
+      {
+        "year": 2010,
+        "value": 16.9
+      },
+      {
+        "year": 2011,
+        "value": 16.6
+      },
+      {
+        "year": 2012,
+        "value": 16.5
+      },
+      {
+        "year": 2013,
+        "value": 16.4
+      },
+      {
+        "year": 2014,
+        "value": 16.3
+      },
+      {
+        "year": 2015,
+        "value": 16.2
+      },
+      {
+        "year": 2016,
+        "value": 16.1
+      },
+      {
+        "year": 2017,
+        "value": 16
+      },
+      {
+        "year": 2018,
+        "value": 15.9
+      },
+      {
+        "year": 2019,
+        "value": 15.8
+      },
+      {
+        "year": 2020,
+        "value": 15.7
+      },
+      {
+        "year": 2021,
+        "value": 15.5
+      },
+      {
+        "year": 2022,
+        "value": 15.3
+      },
+      {
+        "year": 2023,
+        "value": 14.9
+      },
+      {
+        "year": 2024,
+        "value": 14.7
+      },
+      {
+        "year": 2025,
+        "value": 14.6
+      },
+      {
+        "year": 2026,
+        "value": 14.6
+      }
+    ],
+    "manitoba": [
+      {
+        "year": 1971,
+        "value": 28.8
+      },
+      {
+        "year": 1972,
+        "value": 28.3
+      },
+      {
+        "year": 1973,
+        "value": 27.7
+      },
+      {
+        "year": 1974,
+        "value": 27.1
+      },
+      {
+        "year": 1975,
+        "value": 26.5
+      },
+      {
+        "year": 1976,
+        "value": 25.8
+      },
+      {
+        "year": 1977,
+        "value": 25.2
+      },
+      {
+        "year": 1978,
+        "value": 24.7
+      },
+      {
+        "year": 1979,
+        "value": 24
+      },
+      {
+        "year": 1980,
+        "value": 23.5
+      },
+      {
+        "year": 1981,
+        "value": 23.1
+      },
+      {
+        "year": 1982,
+        "value": 22.8
+      },
+      {
+        "year": 1983,
+        "value": 22.6
+      },
+      {
+        "year": 1984,
+        "value": 22.4
+      },
+      {
+        "year": 1985,
+        "value": 22.2
+      },
+      {
+        "year": 1986,
+        "value": 21.9
+      },
+      {
+        "year": 1987,
+        "value": 21.9
+      },
+      {
+        "year": 1988,
+        "value": 21.9
+      },
+      {
+        "year": 1989,
+        "value": 21.9
+      },
+      {
+        "year": 1990,
+        "value": 21.9
+      },
+      {
+        "year": 1991,
+        "value": 21.8
+      },
+      {
+        "year": 1992,
+        "value": 21.9
+      },
+      {
+        "year": 1993,
+        "value": 21.9
+      },
+      {
+        "year": 1994,
+        "value": 21.9
+      },
+      {
+        "year": 1995,
+        "value": 21.9
+      },
+      {
+        "year": 1996,
+        "value": 21.7
+      },
+      {
+        "year": 1997,
+        "value": 21.6
+      },
+      {
+        "year": 1998,
+        "value": 21.4
+      },
+      {
+        "year": 1999,
+        "value": 21.2
+      },
+      {
+        "year": 2000,
+        "value": 20.9
+      },
+      {
+        "year": 2001,
+        "value": 20.7
+      },
+      {
+        "year": 2002,
+        "value": 20.4
+      },
+      {
+        "year": 2003,
+        "value": 20.2
+      },
+      {
+        "year": 2004,
+        "value": 19.9
+      },
+      {
+        "year": 2005,
+        "value": 19.6
+      },
+      {
+        "year": 2006,
+        "value": 19.3
+      },
+      {
+        "year": 2007,
+        "value": 19.2
+      },
+      {
+        "year": 2008,
+        "value": 19.1
+      },
+      {
+        "year": 2009,
+        "value": 19
+      },
+      {
+        "year": 2010,
+        "value": 18.9
+      },
+      {
+        "year": 2011,
+        "value": 18.9
+      },
+      {
+        "year": 2012,
+        "value": 18.9
+      },
+      {
+        "year": 2013,
+        "value": 18.9
+      },
+      {
+        "year": 2014,
+        "value": 18.9
+      },
+      {
+        "year": 2015,
+        "value": 18.9
+      },
+      {
+        "year": 2016,
+        "value": 18.9
+      },
+      {
+        "year": 2017,
+        "value": 18.9
+      },
+      {
+        "year": 2018,
+        "value": 18.9
+      },
+      {
+        "year": 2019,
+        "value": 18.8
+      },
+      {
+        "year": 2020,
+        "value": 18.8
+      },
+      {
+        "year": 2021,
+        "value": 18.7
+      },
+      {
+        "year": 2022,
+        "value": 18.4
+      },
+      {
+        "year": 2023,
+        "value": 18.1
+      },
+      {
+        "year": 2024,
+        "value": 17.9
+      },
+      {
+        "year": 2025,
+        "value": 17.7
+      },
+      {
+        "year": 2026,
+        "value": 17.5
+      }
+    ],
+    "saskatchewan": [
+      {
+        "year": 1971,
+        "value": 30.1
+      },
+      {
+        "year": 1972,
+        "value": 29.4
+      },
+      {
+        "year": 1973,
+        "value": 28.8
+      },
+      {
+        "year": 1974,
+        "value": 28.1
+      },
+      {
+        "year": 1975,
+        "value": 27.4
+      },
+      {
+        "year": 1976,
+        "value": 26.8
+      },
+      {
+        "year": 1977,
+        "value": 26.3
+      },
+      {
+        "year": 1978,
+        "value": 25.7
+      },
+      {
+        "year": 1979,
+        "value": 25.2
+      },
+      {
+        "year": 1980,
+        "value": 24.8
+      },
+      {
+        "year": 1981,
+        "value": 24.5
+      },
+      {
+        "year": 1982,
+        "value": 24.5
+      },
+      {
+        "year": 1983,
+        "value": 24.4
+      },
+      {
+        "year": 1984,
+        "value": 24.3
+      },
+      {
+        "year": 1985,
+        "value": 24.2
+      },
+      {
+        "year": 1986,
+        "value": 24.1
+      },
+      {
+        "year": 1987,
+        "value": 24.2
+      },
+      {
+        "year": 1988,
+        "value": 24.1
+      },
+      {
+        "year": 1989,
+        "value": 24
+      },
+      {
+        "year": 1990,
+        "value": 24
+      },
+      {
+        "year": 1991,
+        "value": 23.8
+      },
+      {
+        "year": 1992,
+        "value": 23.7
+      },
+      {
+        "year": 1993,
+        "value": 23.6
+      },
+      {
+        "year": 1994,
+        "value": 23.4
+      },
+      {
+        "year": 1995,
+        "value": 23.1
+      },
+      {
+        "year": 1996,
+        "value": 22.8
+      },
+      {
+        "year": 1997,
+        "value": 22.5
+      },
+      {
+        "year": 1998,
+        "value": 22.2
+      },
+      {
+        "year": 1999,
+        "value": 21.8
+      },
+      {
+        "year": 2000,
+        "value": 21.4
+      },
+      {
+        "year": 2001,
+        "value": 21
+      },
+      {
+        "year": 2002,
+        "value": 20.7
+      },
+      {
+        "year": 2003,
+        "value": 20.3
+      },
+      {
+        "year": 2004,
+        "value": 19.9
+      },
+      {
+        "year": 2005,
+        "value": 19.5
+      },
+      {
+        "year": 2006,
+        "value": 19.2
+      },
+      {
+        "year": 2007,
+        "value": 19
+      },
+      {
+        "year": 2008,
+        "value": 19
+      },
+      {
+        "year": 2009,
+        "value": 18.9
+      },
+      {
+        "year": 2010,
+        "value": 18.8
+      },
+      {
+        "year": 2011,
+        "value": 18.8
+      },
+      {
+        "year": 2012,
+        "value": 18.9
+      },
+      {
+        "year": 2013,
+        "value": 18.9
+      },
+      {
+        "year": 2014,
+        "value": 19.1
+      },
+      {
+        "year": 2015,
+        "value": 19.2
+      },
+      {
+        "year": 2016,
+        "value": 19.4
+      },
+      {
+        "year": 2017,
+        "value": 19.4
+      },
+      {
+        "year": 2018,
+        "value": 19.5
+      },
+      {
+        "year": 2019,
+        "value": 19.5
+      },
+      {
+        "year": 2020,
+        "value": 19.5
+      },
+      {
+        "year": 2021,
+        "value": 19.4
+      },
+      {
+        "year": 2022,
+        "value": 19.3
+      },
+      {
+        "year": 2023,
+        "value": 19.1
+      },
+      {
+        "year": 2024,
+        "value": 18.8
+      },
+      {
+        "year": 2025,
+        "value": 18.4
+      },
+      {
+        "year": 2026,
+        "value": 18.1
+      }
+    ],
+    "alberta": [
+      {
+        "year": 1971,
+        "value": 31.2
+      },
+      {
+        "year": 1972,
+        "value": 30.5
+      },
+      {
+        "year": 1973,
+        "value": 29.7
+      },
+      {
+        "year": 1974,
+        "value": 28.8
+      },
+      {
+        "year": 1975,
+        "value": 28
+      },
+      {
+        "year": 1976,
+        "value": 27.2
+      },
+      {
+        "year": 1977,
+        "value": 26.2
+      },
+      {
+        "year": 1978,
+        "value": 25.4
+      },
+      {
+        "year": 1979,
+        "value": 24.8
+      },
+      {
+        "year": 1980,
+        "value": 24.3
+      },
+      {
+        "year": 1981,
+        "value": 23.9
+      },
+      {
+        "year": 1982,
+        "value": 23.7
+      },
+      {
+        "year": 1983,
+        "value": 23.8
+      },
+      {
+        "year": 1984,
+        "value": 23.8
+      },
+      {
+        "year": 1985,
+        "value": 23.7
+      },
+      {
+        "year": 1986,
+        "value": 23.5
+      },
+      {
+        "year": 1987,
+        "value": 23.4
+      },
+      {
+        "year": 1988,
+        "value": 23.4
+      },
+      {
+        "year": 1989,
+        "value": 23.5
+      },
+      {
+        "year": 1990,
+        "value": 23.5
+      },
+      {
+        "year": 1991,
+        "value": 23.5
+      },
+      {
+        "year": 1992,
+        "value": 23.5
+      },
+      {
+        "year": 1993,
+        "value": 23.4
+      },
+      {
+        "year": 1994,
+        "value": 23.2
+      },
+      {
+        "year": 1995,
+        "value": 22.9
+      },
+      {
+        "year": 1996,
+        "value": 22.5
+      },
+      {
+        "year": 1997,
+        "value": 22.2
+      },
+      {
+        "year": 1998,
+        "value": 21.8
+      },
+      {
+        "year": 1999,
+        "value": 21.4
+      },
+      {
+        "year": 2000,
+        "value": 20.9
+      },
+      {
+        "year": 2001,
+        "value": 20.5
+      },
+      {
+        "year": 2002,
+        "value": 20.1
+      },
+      {
+        "year": 2003,
+        "value": 19.8
+      },
+      {
+        "year": 2004,
+        "value": 19.5
+      },
+      {
+        "year": 2005,
+        "value": 19.2
+      },
+      {
+        "year": 2006,
+        "value": 18.9
+      },
+      {
+        "year": 2007,
+        "value": 18.6
+      },
+      {
+        "year": 2008,
+        "value": 18.5
+      },
+      {
+        "year": 2009,
+        "value": 18.3
+      },
+      {
+        "year": 2010,
+        "value": 18.3
+      },
+      {
+        "year": 2011,
+        "value": 18.4
+      },
+      {
+        "year": 2012,
+        "value": 18.4
+      },
+      {
+        "year": 2013,
+        "value": 18.5
+      },
+      {
+        "year": 2014,
+        "value": 18.5
+      },
+      {
+        "year": 2015,
+        "value": 18.7
+      },
+      {
+        "year": 2016,
+        "value": 18.9
+      },
+      {
+        "year": 2017,
+        "value": 18.9
+      },
+      {
+        "year": 2018,
+        "value": 18.9
+      },
+      {
+        "year": 2019,
+        "value": 18.8
+      },
+      {
+        "year": 2020,
+        "value": 18.7
+      },
+      {
+        "year": 2021,
+        "value": 18.6
+      },
+      {
+        "year": 2022,
+        "value": 18.4
+      },
+      {
+        "year": 2023,
+        "value": 18
+      },
+      {
+        "year": 2024,
+        "value": 17.7
+      },
+      {
+        "year": 2025,
+        "value": 17.4
+      },
+      {
+        "year": 2026,
+        "value": 17.3
+      }
+    ],
+    "british-columbia": [
+      {
+        "year": 1971,
+        "value": 27.6
+      },
+      {
+        "year": 1972,
+        "value": 26.9
+      },
+      {
+        "year": 1973,
+        "value": 26.2
+      },
+      {
+        "year": 1974,
+        "value": 25.4
+      },
+      {
+        "year": 1975,
+        "value": 24.7
+      },
+      {
+        "year": 1976,
+        "value": 23.9
+      },
+      {
+        "year": 1977,
+        "value": 23.2
+      },
+      {
+        "year": 1978,
+        "value": 22.6
+      },
+      {
+        "year": 1979,
+        "value": 21.9
+      },
+      {
+        "year": 1980,
+        "value": 21.5
+      },
+      {
+        "year": 1981,
+        "value": 21.2
+      },
+      {
+        "year": 1982,
+        "value": 21
+      },
+      {
+        "year": 1983,
+        "value": 20.8
+      },
+      {
+        "year": 1984,
+        "value": 20.7
+      },
+      {
+        "year": 1985,
+        "value": 20.4
+      },
+      {
+        "year": 1986,
+        "value": 20.1
+      },
+      {
+        "year": 1987,
+        "value": 20.1
+      },
+      {
+        "year": 1988,
+        "value": 20
+      },
+      {
+        "year": 1989,
+        "value": 20
+      },
+      {
+        "year": 1990,
+        "value": 20
+      },
+      {
+        "year": 1991,
+        "value": 20
+      },
+      {
+        "year": 1992,
+        "value": 20
+      },
+      {
+        "year": 1993,
+        "value": 20
+      },
+      {
+        "year": 1994,
+        "value": 19.9
+      },
+      {
+        "year": 1995,
+        "value": 19.7
+      },
+      {
+        "year": 1996,
+        "value": 19.4
+      },
+      {
+        "year": 1997,
+        "value": 19.2
+      },
+      {
+        "year": 1998,
+        "value": 18.9
+      },
+      {
+        "year": 1999,
+        "value": 18.5
+      },
+      {
+        "year": 2000,
+        "value": 18.1
+      },
+      {
+        "year": 2001,
+        "value": 17.8
+      },
+      {
+        "year": 2002,
+        "value": 17.4
+      },
+      {
+        "year": 2003,
+        "value": 17.1
+      },
+      {
+        "year": 2004,
+        "value": 16.8
+      },
+      {
+        "year": 2005,
+        "value": 16.5
+      },
+      {
+        "year": 2006,
+        "value": 16.2
+      },
+      {
+        "year": 2007,
+        "value": 16
+      },
+      {
+        "year": 2008,
+        "value": 15.8
+      },
+      {
+        "year": 2009,
+        "value": 15.6
+      },
+      {
+        "year": 2010,
+        "value": 15.4
+      },
+      {
+        "year": 2011,
+        "value": 15.2
+      },
+      {
+        "year": 2012,
+        "value": 14.9
+      },
+      {
+        "year": 2013,
+        "value": 14.7
+      },
+      {
+        "year": 2014,
+        "value": 14.6
+      },
+      {
+        "year": 2015,
+        "value": 14.5
+      },
+      {
+        "year": 2016,
+        "value": 14.5
+      },
+      {
+        "year": 2017,
+        "value": 14.4
+      },
+      {
+        "year": 2018,
+        "value": 14.3
+      },
+      {
+        "year": 2019,
+        "value": 14.2
+      },
+      {
+        "year": 2020,
+        "value": 14.1
+      },
+      {
+        "year": 2021,
+        "value": 14.1
+      },
+      {
+        "year": 2022,
+        "value": 13.8
+      },
+      {
+        "year": 2023,
+        "value": 13.5
+      },
+      {
+        "year": 2024,
+        "value": 13.2
+      },
+      {
+        "year": 2025,
+        "value": 13.1
+      },
+      {
+        "year": 2026,
+        "value": 13
+      }
+    ],
+    "yukon": [
+      {
+        "year": 1971,
+        "value": 34.1
+      },
+      {
+        "year": 1972,
+        "value": 33.6
+      },
+      {
+        "year": 1973,
+        "value": 32.8
+      },
+      {
+        "year": 1974,
+        "value": 31.8
+      },
+      {
+        "year": 1975,
+        "value": 30.5
+      },
+      {
+        "year": 1976,
+        "value": 28.9
+      },
+      {
+        "year": 1977,
+        "value": 28.2
+      },
+      {
+        "year": 1978,
+        "value": 27.4
+      },
+      {
+        "year": 1979,
+        "value": 27.1
+      },
+      {
+        "year": 1980,
+        "value": 26.5
+      },
+      {
+        "year": 1981,
+        "value": 26
+      },
+      {
+        "year": 1982,
+        "value": 25.8
+      },
+      {
+        "year": 1983,
+        "value": 25.8
+      },
+      {
+        "year": 1984,
+        "value": 25.6
+      },
+      {
+        "year": 1985,
+        "value": 25.5
+      },
+      {
+        "year": 1986,
+        "value": 24.7
+      },
+      {
+        "year": 1987,
+        "value": 24.7
+      },
+      {
+        "year": 1988,
+        "value": 24.4
+      },
+      {
+        "year": 1989,
+        "value": 24.6
+      },
+      {
+        "year": 1990,
+        "value": 24.6
+      },
+      {
+        "year": 1991,
+        "value": 24.3
+      },
+      {
+        "year": 1992,
+        "value": 24.7
+      },
+      {
+        "year": 1993,
+        "value": 24.5
+      },
+      {
+        "year": 1994,
+        "value": 24.6
+      },
+      {
+        "year": 1995,
+        "value": 24.5
+      },
+      {
+        "year": 1996,
+        "value": 23.7
+      },
+      {
+        "year": 1997,
+        "value": 23.4
+      },
+      {
+        "year": 1998,
+        "value": 22.6
+      },
+      {
+        "year": 1999,
+        "value": 22
+      },
+      {
+        "year": 2000,
+        "value": 21.3
+      },
+      {
+        "year": 2001,
+        "value": 20.6
+      },
+      {
+        "year": 2002,
+        "value": 20
+      },
+      {
+        "year": 2003,
+        "value": 19.5
+      },
+      {
+        "year": 2004,
+        "value": 19.1
+      },
+      {
+        "year": 2005,
+        "value": 18.7
+      },
+      {
+        "year": 2006,
+        "value": 18.1
+      },
+      {
+        "year": 2007,
+        "value": 17.7
+      },
+      {
+        "year": 2008,
+        "value": 17.3
+      },
+      {
+        "year": 2009,
+        "value": 17.2
+      },
+      {
+        "year": 2010,
+        "value": 16.9
+      },
+      {
+        "year": 2011,
+        "value": 16.8
+      },
+      {
+        "year": 2012,
+        "value": 16.8
+      },
+      {
+        "year": 2013,
+        "value": 16.7
+      },
+      {
+        "year": 2014,
+        "value": 16.8
+      },
+      {
+        "year": 2015,
+        "value": 16.8
+      },
+      {
+        "year": 2016,
+        "value": 16.8
+      },
+      {
+        "year": 2017,
+        "value": 16.7
+      },
+      {
+        "year": 2018,
+        "value": 16.6
+      },
+      {
+        "year": 2019,
+        "value": 16.6
+      },
+      {
+        "year": 2020,
+        "value": 16.6
+      },
+      {
+        "year": 2021,
+        "value": 16.4
+      },
+      {
+        "year": 2022,
+        "value": 16.2
+      },
+      {
+        "year": 2023,
+        "value": 16
+      },
+      {
+        "year": 2024,
+        "value": 15.5
+      },
+      {
+        "year": 2025,
+        "value": 15.2
+      },
+      {
+        "year": 2026,
+        "value": 14.9
+      }
+    ],
+    "northwest-territories": [
+      {
+        "year": 1991,
+        "value": 28.6
+      },
+      {
+        "year": 1992,
+        "value": 29
+      },
+      {
+        "year": 1993,
+        "value": 28.7
+      },
+      {
+        "year": 1994,
+        "value": 28.4
+      },
+      {
+        "year": 1995,
+        "value": 28.2
+      },
+      {
+        "year": 1996,
+        "value": 28.3
+      },
+      {
+        "year": 1997,
+        "value": 28
+      },
+      {
+        "year": 1998,
+        "value": 27.6
+      },
+      {
+        "year": 1999,
+        "value": 27.2
+      },
+      {
+        "year": 2000,
+        "value": 26.9
+      },
+      {
+        "year": 2001,
+        "value": 26.5
+      },
+      {
+        "year": 2002,
+        "value": 25.8
+      },
+      {
+        "year": 2003,
+        "value": 25
+      },
+      {
+        "year": 2004,
+        "value": 24.4
+      },
+      {
+        "year": 2005,
+        "value": 23.9
+      },
+      {
+        "year": 2006,
+        "value": 23.2
+      },
+      {
+        "year": 2007,
+        "value": 22.6
+      },
+      {
+        "year": 2008,
+        "value": 22.1
+      },
+      {
+        "year": 2009,
+        "value": 21.8
+      },
+      {
+        "year": 2010,
+        "value": 21.4
+      },
+      {
+        "year": 2011,
+        "value": 21
+      },
+      {
+        "year": 2012,
+        "value": 20.8
+      },
+      {
+        "year": 2013,
+        "value": 20.7
+      },
+      {
+        "year": 2014,
+        "value": 20.6
+      },
+      {
+        "year": 2015,
+        "value": 20.5
+      },
+      {
+        "year": 2016,
+        "value": 20.4
+      },
+      {
+        "year": 2017,
+        "value": 20.3
+      },
+      {
+        "year": 2018,
+        "value": 20.3
+      },
+      {
+        "year": 2019,
+        "value": 20.3
+      },
+      {
+        "year": 2020,
+        "value": 20.2
+      },
+      {
+        "year": 2021,
+        "value": 20
+      },
+      {
+        "year": 2022,
+        "value": 19.7
+      },
+      {
+        "year": 2023,
+        "value": 19.2
+      },
+      {
+        "year": 2024,
+        "value": 18.6
+      },
+      {
+        "year": 2025,
+        "value": 18
+      },
+      {
+        "year": 2026,
+        "value": 17.4
+      }
+    ],
+    "nunavut": [
+      {
+        "year": 1991,
+        "value": 38.6
+      },
+      {
+        "year": 1992,
+        "value": 38.1
+      },
+      {
+        "year": 1993,
+        "value": 38
+      },
+      {
+        "year": 1994,
+        "value": 38.1
+      },
+      {
+        "year": 1995,
+        "value": 38
+      },
+      {
+        "year": 1996,
+        "value": 37.7
+      },
+      {
+        "year": 1997,
+        "value": 37.7
+      },
+      {
+        "year": 1998,
+        "value": 37.5
+      },
+      {
+        "year": 1999,
+        "value": 37.2
+      },
+      {
+        "year": 2000,
+        "value": 37
+      },
+      {
+        "year": 2001,
+        "value": 36.6
+      },
+      {
+        "year": 2002,
+        "value": 35.9
+      },
+      {
+        "year": 2003,
+        "value": 35.4
+      },
+      {
+        "year": 2004,
+        "value": 34.5
+      },
+      {
+        "year": 2005,
+        "value": 33.8
+      },
+      {
+        "year": 2006,
+        "value": 33
+      },
+      {
+        "year": 2007,
+        "value": 32.7
+      },
+      {
+        "year": 2008,
+        "value": 32.5
+      },
+      {
+        "year": 2009,
+        "value": 32
+      },
+      {
+        "year": 2010,
+        "value": 31.8
+      },
+      {
+        "year": 2011,
+        "value": 31.6
+      },
+      {
+        "year": 2012,
+        "value": 31.6
+      },
+      {
+        "year": 2013,
+        "value": 31.8
+      },
+      {
+        "year": 2014,
+        "value": 32.1
+      },
+      {
+        "year": 2015,
+        "value": 32.2
+      },
+      {
+        "year": 2016,
+        "value": 32.1
+      },
+      {
+        "year": 2017,
+        "value": 31.9
+      },
+      {
+        "year": 2018,
+        "value": 31.9
+      },
+      {
+        "year": 2019,
+        "value": 31.9
+      },
+      {
+        "year": 2020,
+        "value": 31.7
+      },
+      {
+        "year": 2021,
+        "value": 31.8
+      },
+      {
+        "year": 2022,
+        "value": 31.7
+      },
+      {
+        "year": 2023,
+        "value": 31.3
+      },
+      {
+        "year": 2024,
+        "value": 30.9
+      },
+      {
+        "year": 2025,
+        "value": 30.2
+      },
+      {
+        "year": 2026,
+        "value": 29.5
+      }
+    ],
+    "northwest-territories-including-nunavut": [
+      {
+        "year": 1971,
+        "value": 41.8
+      },
+      {
+        "year": 1972,
+        "value": 41.4
+      },
+      {
+        "year": 1973,
+        "value": 40.5
+      },
+      {
+        "year": 1974,
+        "value": 39.9
+      },
+      {
+        "year": 1975,
+        "value": 38.8
+      },
+      {
+        "year": 1976,
+        "value": 37.7
+      },
+      {
+        "year": 1977,
+        "value": 37.1
+      },
+      {
+        "year": 1978,
+        "value": 36.4
+      },
+      {
+        "year": 1979,
+        "value": 35.7
+      },
+      {
+        "year": 1980,
+        "value": 35
+      },
+      {
+        "year": 1981,
+        "value": 34.1
+      },
+      {
+        "year": 1982,
+        "value": 33.4
+      },
+      {
+        "year": 1983,
+        "value": 33.2
+      },
+      {
+        "year": 1984,
+        "value": 32.7
+      },
+      {
+        "year": 1985,
+        "value": 32.5
+      },
+      {
+        "year": 1986,
+        "value": 32
+      },
+      {
+        "year": 1987,
+        "value": 31.6
+      },
+      {
+        "year": 1988,
+        "value": 31.6
+      },
+      {
+        "year": 1989,
+        "value": 31.8
+      },
+      {
+        "year": 1990,
+        "value": 32
+      }
+    ]
+  },
+  "share65plus": {
+    "canada": [
+      {
+        "year": 1971,
+        "value": 8
+      },
+      {
+        "year": 1972,
+        "value": 8.1
+      },
+      {
+        "year": 1973,
+        "value": 8.2
+      },
+      {
+        "year": 1974,
+        "value": 8.3
+      },
+      {
+        "year": 1975,
+        "value": 8.5
+      },
+      {
+        "year": 1976,
+        "value": 8.6
+      },
+      {
+        "year": 1977,
+        "value": 8.8
+      },
+      {
+        "year": 1978,
+        "value": 9
+      },
+      {
+        "year": 1979,
+        "value": 9.2
+      },
+      {
+        "year": 1980,
+        "value": 9.4
+      },
+      {
+        "year": 1981,
+        "value": 9.6
+      },
+      {
+        "year": 1982,
+        "value": 9.7
+      },
+      {
+        "year": 1983,
+        "value": 9.9
+      },
+      {
+        "year": 1984,
+        "value": 10
+      },
+      {
+        "year": 1985,
+        "value": 10.2
+      },
+      {
+        "year": 1986,
+        "value": 10.5
+      },
+      {
+        "year": 1987,
+        "value": 10.7
+      },
+      {
+        "year": 1988,
+        "value": 10.9
+      },
+      {
+        "year": 1989,
+        "value": 11.1
+      },
+      {
+        "year": 1990,
+        "value": 11.3
+      },
+      {
+        "year": 1991,
+        "value": 11.5
+      },
+      {
+        "year": 1992,
+        "value": 11.6
+      },
+      {
+        "year": 1993,
+        "value": 11.7
+      },
+      {
+        "year": 1994,
+        "value": 11.8
+      },
+      {
+        "year": 1995,
+        "value": 12
+      },
+      {
+        "year": 1996,
+        "value": 12.1
+      },
+      {
+        "year": 1997,
+        "value": 12.2
+      },
+      {
+        "year": 1998,
+        "value": 12.3
+      },
+      {
+        "year": 1999,
+        "value": 12.5
+      },
+      {
+        "year": 2000,
+        "value": 12.6
+      },
+      {
+        "year": 2001,
+        "value": 12.6
+      },
+      {
+        "year": 2002,
+        "value": 12.7
+      },
+      {
+        "year": 2003,
+        "value": 12.8
+      },
+      {
+        "year": 2004,
+        "value": 12.9
+      },
+      {
+        "year": 2005,
+        "value": 13.1
+      },
+      {
+        "year": 2006,
+        "value": 13.3
+      },
+      {
+        "year": 2007,
+        "value": 13.4
+      },
+      {
+        "year": 2008,
+        "value": 13.7
+      },
+      {
+        "year": 2009,
+        "value": 13.9
+      },
+      {
+        "year": 2010,
+        "value": 14.1
+      },
+      {
+        "year": 2011,
+        "value": 14.4
+      },
+      {
+        "year": 2012,
+        "value": 14.8
+      },
+      {
+        "year": 2013,
+        "value": 15.3
+      },
+      {
+        "year": 2014,
+        "value": 15.6
+      },
+      {
+        "year": 2015,
+        "value": 16
+      },
+      {
+        "year": 2016,
+        "value": 16.4
+      },
+      {
+        "year": 2017,
+        "value": 16.8
+      },
+      {
+        "year": 2018,
+        "value": 17.1
+      },
+      {
+        "year": 2019,
+        "value": 17.5
+      },
+      {
+        "year": 2020,
+        "value": 17.9
+      },
+      {
+        "year": 2021,
+        "value": 18.4
+      },
+      {
+        "year": 2022,
+        "value": 18.7
+      },
+      {
+        "year": 2023,
+        "value": 18.9
+      },
+      {
+        "year": 2024,
+        "value": 19
+      },
+      {
+        "year": 2025,
+        "value": 19.5
+      },
+      {
+        "year": 2026,
+        "value": 20
+      }
+    ],
+    "newfoundland-and-labrador": [
+      {
+        "year": 1971,
+        "value": 6.1
+      },
+      {
+        "year": 1972,
+        "value": 6.1
+      },
+      {
+        "year": 1973,
+        "value": 6.1
+      },
+      {
+        "year": 1974,
+        "value": 6.2
+      },
+      {
+        "year": 1975,
+        "value": 6.4
+      },
+      {
+        "year": 1976,
+        "value": 6.5
+      },
+      {
+        "year": 1977,
+        "value": 6.7
+      },
+      {
+        "year": 1978,
+        "value": 7
+      },
+      {
+        "year": 1979,
+        "value": 7.2
+      },
+      {
+        "year": 1980,
+        "value": 7.4
+      },
+      {
+        "year": 1981,
+        "value": 7.7
+      },
+      {
+        "year": 1982,
+        "value": 7.9
+      },
+      {
+        "year": 1983,
+        "value": 8
+      },
+      {
+        "year": 1984,
+        "value": 8.2
+      },
+      {
+        "year": 1985,
+        "value": 8.5
+      },
+      {
+        "year": 1986,
+        "value": 8.7
+      },
+      {
+        "year": 1987,
+        "value": 9
+      },
+      {
+        "year": 1988,
+        "value": 9.2
+      },
+      {
+        "year": 1989,
+        "value": 9.3
+      },
+      {
+        "year": 1990,
+        "value": 9.4
+      },
+      {
+        "year": 1991,
+        "value": 9.6
+      },
+      {
+        "year": 1992,
+        "value": 9.8
+      },
+      {
+        "year": 1993,
+        "value": 9.9
+      },
+      {
+        "year": 1994,
+        "value": 10.1
+      },
+      {
+        "year": 1995,
+        "value": 10.4
+      },
+      {
+        "year": 1996,
+        "value": 10.7
+      },
+      {
+        "year": 1997,
+        "value": 11
+      },
+      {
+        "year": 1998,
+        "value": 11.3
+      },
+      {
+        "year": 1999,
+        "value": 11.6
+      },
+      {
+        "year": 2000,
+        "value": 11.9
+      },
+      {
+        "year": 2001,
+        "value": 12.1
+      },
+      {
+        "year": 2002,
+        "value": 12.4
+      },
+      {
+        "year": 2003,
+        "value": 12.6
+      },
+      {
+        "year": 2004,
+        "value": 12.9
+      },
+      {
+        "year": 2005,
+        "value": 13.2
+      },
+      {
+        "year": 2006,
+        "value": 13.6
+      },
+      {
+        "year": 2007,
+        "value": 14
+      },
+      {
+        "year": 2008,
+        "value": 14.3
+      },
+      {
+        "year": 2009,
+        "value": 14.7
+      },
+      {
+        "year": 2010,
+        "value": 15
+      },
+      {
+        "year": 2011,
+        "value": 15.7
+      },
+      {
+        "year": 2012,
+        "value": 16.3
+      },
+      {
+        "year": 2013,
+        "value": 17
+      },
+      {
+        "year": 2014,
+        "value": 17.6
+      },
+      {
+        "year": 2015,
+        "value": 18.2
+      },
+      {
+        "year": 2016,
+        "value": 18.9
+      },
+      {
+        "year": 2017,
+        "value": 19.7
+      },
+      {
+        "year": 2018,
+        "value": 20.6
+      },
+      {
+        "year": 2019,
+        "value": 21.6
+      },
+      {
+        "year": 2020,
+        "value": 22.5
+      },
+      {
+        "year": 2021,
+        "value": 23.4
+      },
+      {
+        "year": 2022,
+        "value": 23.9
+      },
+      {
+        "year": 2023,
+        "value": 24.3
+      },
+      {
+        "year": 2024,
+        "value": 24.7
+      },
+      {
+        "year": 2025,
+        "value": 25.2
+      },
+      {
+        "year": 2026,
+        "value": 25.7
+      }
+    ],
+    "prince-edward-island": [
+      {
+        "year": 1971,
+        "value": 11
+      },
+      {
+        "year": 1972,
+        "value": 11
+      },
+      {
+        "year": 1973,
+        "value": 11.1
+      },
+      {
+        "year": 1974,
+        "value": 11.1
+      },
+      {
+        "year": 1975,
+        "value": 11.1
+      },
+      {
+        "year": 1976,
+        "value": 11.2
+      },
+      {
+        "year": 1977,
+        "value": 11.4
+      },
+      {
+        "year": 1978,
+        "value": 11.5
+      },
+      {
+        "year": 1979,
+        "value": 11.7
+      },
+      {
+        "year": 1980,
+        "value": 11.9
+      },
+      {
+        "year": 1981,
+        "value": 12.1
+      },
+      {
+        "year": 1982,
+        "value": 12.3
+      },
+      {
+        "year": 1983,
+        "value": 12.4
+      },
+      {
+        "year": 1984,
+        "value": 12.4
+      },
+      {
+        "year": 1985,
+        "value": 12.5
+      },
+      {
+        "year": 1986,
+        "value": 12.6
+      },
+      {
+        "year": 1987,
+        "value": 12.8
+      },
+      {
+        "year": 1988,
+        "value": 12.9
+      },
+      {
+        "year": 1989,
+        "value": 12.9
+      },
+      {
+        "year": 1990,
+        "value": 13
+      },
+      {
+        "year": 1991,
+        "value": 13.1
+      },
+      {
+        "year": 1992,
+        "value": 13.2
+      },
+      {
+        "year": 1993,
+        "value": 13.1
+      },
+      {
+        "year": 1994,
+        "value": 13.1
+      },
+      {
+        "year": 1995,
+        "value": 13
+      },
+      {
+        "year": 1996,
+        "value": 12.9
+      },
+      {
+        "year": 1997,
+        "value": 13
+      },
+      {
+        "year": 1998,
+        "value": 13.2
+      },
+      {
+        "year": 1999,
+        "value": 13.3
+      },
+      {
+        "year": 2000,
+        "value": 13.4
+      },
+      {
+        "year": 2001,
+        "value": 13.6
+      },
+      {
+        "year": 2002,
+        "value": 13.8
+      },
+      {
+        "year": 2003,
+        "value": 13.9
+      },
+      {
+        "year": 2004,
+        "value": 14
+      },
+      {
+        "year": 2005,
+        "value": 14.2
+      },
+      {
+        "year": 2006,
+        "value": 14.6
+      },
+      {
+        "year": 2007,
+        "value": 14.9
+      },
+      {
+        "year": 2008,
+        "value": 15.1
+      },
+      {
+        "year": 2009,
+        "value": 15.3
+      },
+      {
+        "year": 2010,
+        "value": 15.6
+      },
+      {
+        "year": 2011,
+        "value": 15.9
+      },
+      {
+        "year": 2012,
+        "value": 16.6
+      },
+      {
+        "year": 2013,
+        "value": 17.4
+      },
+      {
+        "year": 2014,
+        "value": 18
+      },
+      {
+        "year": 2015,
+        "value": 18.5
+      },
+      {
+        "year": 2016,
+        "value": 19
+      },
+      {
+        "year": 2017,
+        "value": 19.2
+      },
+      {
+        "year": 2018,
+        "value": 19.5
+      },
+      {
+        "year": 2019,
+        "value": 19.8
+      },
+      {
+        "year": 2020,
+        "value": 20.1
+      },
+      {
+        "year": 2021,
+        "value": 20.5
+      },
+      {
+        "year": 2022,
+        "value": 20.7
+      },
+      {
+        "year": 2023,
+        "value": 20.6
+      },
+      {
+        "year": 2024,
+        "value": 20.6
+      },
+      {
+        "year": 2025,
+        "value": 21
+      },
+      {
+        "year": 2026,
+        "value": 21.5
+      }
+    ],
+    "nova-scotia": [
+      {
+        "year": 1971,
+        "value": 9.1
+      },
+      {
+        "year": 1972,
+        "value": 9.2
+      },
+      {
+        "year": 1973,
+        "value": 9.3
+      },
+      {
+        "year": 1974,
+        "value": 9.4
+      },
+      {
+        "year": 1975,
+        "value": 9.5
+      },
+      {
+        "year": 1976,
+        "value": 9.7
+      },
+      {
+        "year": 1977,
+        "value": 9.9
+      },
+      {
+        "year": 1978,
+        "value": 10.1
+      },
+      {
+        "year": 1979,
+        "value": 10.4
+      },
+      {
+        "year": 1980,
+        "value": 10.6
+      },
+      {
+        "year": 1981,
+        "value": 10.9
+      },
+      {
+        "year": 1982,
+        "value": 11.1
+      },
+      {
+        "year": 1983,
+        "value": 11.2
+      },
+      {
+        "year": 1984,
+        "value": 11.3
+      },
+      {
+        "year": 1985,
+        "value": 11.5
+      },
+      {
+        "year": 1986,
+        "value": 11.8
+      },
+      {
+        "year": 1987,
+        "value": 12
+      },
+      {
+        "year": 1988,
+        "value": 12.1
+      },
+      {
+        "year": 1989,
+        "value": 12.3
+      },
+      {
+        "year": 1990,
+        "value": 12.4
+      },
+      {
+        "year": 1991,
+        "value": 12.5
+      },
+      {
+        "year": 1992,
+        "value": 12.6
+      },
+      {
+        "year": 1993,
+        "value": 12.7
+      },
+      {
+        "year": 1994,
+        "value": 12.7
+      },
+      {
+        "year": 1995,
+        "value": 12.8
+      },
+      {
+        "year": 1996,
+        "value": 12.9
+      },
+      {
+        "year": 1997,
+        "value": 13.1
+      },
+      {
+        "year": 1998,
+        "value": 13.2
+      },
+      {
+        "year": 1999,
+        "value": 13.3
+      },
+      {
+        "year": 2000,
+        "value": 13.5
+      },
+      {
+        "year": 2001,
+        "value": 13.7
+      },
+      {
+        "year": 2002,
+        "value": 13.8
+      },
+      {
+        "year": 2003,
+        "value": 14
+      },
+      {
+        "year": 2004,
+        "value": 14.1
+      },
+      {
+        "year": 2005,
+        "value": 14.4
+      },
+      {
+        "year": 2006,
+        "value": 14.7
+      },
+      {
+        "year": 2007,
+        "value": 15
+      },
+      {
+        "year": 2008,
+        "value": 15.3
+      },
+      {
+        "year": 2009,
+        "value": 15.6
+      },
+      {
+        "year": 2010,
+        "value": 15.9
+      },
+      {
+        "year": 2011,
+        "value": 16.3
+      },
+      {
+        "year": 2012,
+        "value": 17
+      },
+      {
+        "year": 2013,
+        "value": 17.7
+      },
+      {
+        "year": 2014,
+        "value": 18.4
+      },
+      {
+        "year": 2015,
+        "value": 18.9
+      },
+      {
+        "year": 2016,
+        "value": 19.4
+      },
+      {
+        "year": 2017,
+        "value": 19.9
+      },
+      {
+        "year": 2018,
+        "value": 20.3
+      },
+      {
+        "year": 2019,
+        "value": 20.8
+      },
+      {
+        "year": 2020,
+        "value": 21.2
+      },
+      {
+        "year": 2021,
+        "value": 21.8
+      },
+      {
+        "year": 2022,
+        "value": 22
+      },
+      {
+        "year": 2023,
+        "value": 22.1
+      },
+      {
+        "year": 2024,
+        "value": 22.2
+      },
+      {
+        "year": 2025,
+        "value": 22.5
+      },
+      {
+        "year": 2026,
+        "value": 23
+      }
+    ],
+    "new-brunswick": [
+      {
+        "year": 1971,
+        "value": 8.6
+      },
+      {
+        "year": 1972,
+        "value": 8.6
+      },
+      {
+        "year": 1973,
+        "value": 8.7
+      },
+      {
+        "year": 1974,
+        "value": 8.8
+      },
+      {
+        "year": 1975,
+        "value": 8.9
+      },
+      {
+        "year": 1976,
+        "value": 8.9
+      },
+      {
+        "year": 1977,
+        "value": 9.1
+      },
+      {
+        "year": 1978,
+        "value": 9.3
+      },
+      {
+        "year": 1979,
+        "value": 9.6
+      },
+      {
+        "year": 1980,
+        "value": 9.8
+      },
+      {
+        "year": 1981,
+        "value": 10
+      },
+      {
+        "year": 1982,
+        "value": 10.3
+      },
+      {
+        "year": 1983,
+        "value": 10.4
+      },
+      {
+        "year": 1984,
+        "value": 10.5
+      },
+      {
+        "year": 1985,
+        "value": 10.8
+      },
+      {
+        "year": 1986,
+        "value": 11
+      },
+      {
+        "year": 1987,
+        "value": 11.3
+      },
+      {
+        "year": 1988,
+        "value": 11.5
+      },
+      {
+        "year": 1989,
+        "value": 11.7
+      },
+      {
+        "year": 1990,
+        "value": 11.8
+      },
+      {
+        "year": 1991,
+        "value": 12
+      },
+      {
+        "year": 1992,
+        "value": 12.1
+      },
+      {
+        "year": 1993,
+        "value": 12.2
+      },
+      {
+        "year": 1994,
+        "value": 12.3
+      },
+      {
+        "year": 1995,
+        "value": 12.4
+      },
+      {
+        "year": 1996,
+        "value": 12.5
+      },
+      {
+        "year": 1997,
+        "value": 12.7
+      },
+      {
+        "year": 1998,
+        "value": 12.9
+      },
+      {
+        "year": 1999,
+        "value": 13
+      },
+      {
+        "year": 2000,
+        "value": 13.1
+      },
+      {
+        "year": 2001,
+        "value": 13.3
+      },
+      {
+        "year": 2002,
+        "value": 13.4
+      },
+      {
+        "year": 2003,
+        "value": 13.6
+      },
+      {
+        "year": 2004,
+        "value": 13.8
+      },
+      {
+        "year": 2005,
+        "value": 14.1
+      },
+      {
+        "year": 2006,
+        "value": 14.5
+      },
+      {
+        "year": 2007,
+        "value": 14.8
+      },
+      {
+        "year": 2008,
+        "value": 15.1
+      },
+      {
+        "year": 2009,
+        "value": 15.4
+      },
+      {
+        "year": 2010,
+        "value": 15.8
+      },
+      {
+        "year": 2011,
+        "value": 16.2
+      },
+      {
+        "year": 2012,
+        "value": 16.9
+      },
+      {
+        "year": 2013,
+        "value": 17.6
+      },
+      {
+        "year": 2014,
+        "value": 18.3
+      },
+      {
+        "year": 2015,
+        "value": 18.9
+      },
+      {
+        "year": 2016,
+        "value": 19.5
+      },
+      {
+        "year": 2017,
+        "value": 20.1
+      },
+      {
+        "year": 2018,
+        "value": 20.8
+      },
+      {
+        "year": 2019,
+        "value": 21.3
+      },
+      {
+        "year": 2020,
+        "value": 22
+      },
+      {
+        "year": 2021,
+        "value": 22.6
+      },
+      {
+        "year": 2022,
+        "value": 22.9
+      },
+      {
+        "year": 2023,
+        "value": 23.1
+      },
+      {
+        "year": 2024,
+        "value": 23
+      },
+      {
+        "year": 2025,
+        "value": 23.2
+      },
+      {
+        "year": 2026,
+        "value": 23.6
+      }
+    ],
+    "quebec": [
+      {
+        "year": 1971,
+        "value": 6.8
+      },
+      {
+        "year": 1972,
+        "value": 7
+      },
+      {
+        "year": 1973,
+        "value": 7.1
+      },
+      {
+        "year": 1974,
+        "value": 7.3
+      },
+      {
+        "year": 1975,
+        "value": 7.4
+      },
+      {
+        "year": 1976,
+        "value": 7.6
+      },
+      {
+        "year": 1977,
+        "value": 7.8
+      },
+      {
+        "year": 1978,
+        "value": 8.1
+      },
+      {
+        "year": 1979,
+        "value": 8.3
+      },
+      {
+        "year": 1980,
+        "value": 8.5
+      },
+      {
+        "year": 1981,
+        "value": 8.8
+      },
+      {
+        "year": 1982,
+        "value": 9
+      },
+      {
+        "year": 1983,
+        "value": 9.1
+      },
+      {
+        "year": 1984,
+        "value": 9.3
+      },
+      {
+        "year": 1985,
+        "value": 9.6
+      },
+      {
+        "year": 1986,
+        "value": 9.8
+      },
+      {
+        "year": 1987,
+        "value": 10.1
+      },
+      {
+        "year": 1988,
+        "value": 10.3
+      },
+      {
+        "year": 1989,
+        "value": 10.6
+      },
+      {
+        "year": 1990,
+        "value": 10.8
+      },
+      {
+        "year": 1991,
+        "value": 11.1
+      },
+      {
+        "year": 1992,
+        "value": 11.3
+      },
+      {
+        "year": 1993,
+        "value": 11.4
+      },
+      {
+        "year": 1994,
+        "value": 11.6
+      },
+      {
+        "year": 1995,
+        "value": 11.8
+      },
+      {
+        "year": 1996,
+        "value": 12
+      },
+      {
+        "year": 1997,
+        "value": 12.2
+      },
+      {
+        "year": 1998,
+        "value": 12.5
+      },
+      {
+        "year": 1999,
+        "value": 12.6
+      },
+      {
+        "year": 2000,
+        "value": 12.9
+      },
+      {
+        "year": 2001,
+        "value": 13
+      },
+      {
+        "year": 2002,
+        "value": 13.1
+      },
+      {
+        "year": 2003,
+        "value": 13.3
+      },
+      {
+        "year": 2004,
+        "value": 13.4
+      },
+      {
+        "year": 2005,
+        "value": 13.6
+      },
+      {
+        "year": 2006,
+        "value": 13.9
+      },
+      {
+        "year": 2007,
+        "value": 14.2
+      },
+      {
+        "year": 2008,
+        "value": 14.6
+      },
+      {
+        "year": 2009,
+        "value": 14.9
+      },
+      {
+        "year": 2010,
+        "value": 15.3
+      },
+      {
+        "year": 2011,
+        "value": 15.7
+      },
+      {
+        "year": 2012,
+        "value": 16.1
+      },
+      {
+        "year": 2013,
+        "value": 16.6
+      },
+      {
+        "year": 2014,
+        "value": 17
+      },
+      {
+        "year": 2015,
+        "value": 17.5
+      },
+      {
+        "year": 2016,
+        "value": 18
+      },
+      {
+        "year": 2017,
+        "value": 18.4
+      },
+      {
+        "year": 2018,
+        "value": 18.7
+      },
+      {
+        "year": 2019,
+        "value": 19.1
+      },
+      {
+        "year": 2020,
+        "value": 19.6
+      },
+      {
+        "year": 2021,
+        "value": 20.2
+      },
+      {
+        "year": 2022,
+        "value": 20.6
+      },
+      {
+        "year": 2023,
+        "value": 20.9
+      },
+      {
+        "year": 2024,
+        "value": 21.2
+      },
+      {
+        "year": 2025,
+        "value": 21.7
+      },
+      {
+        "year": 2026,
+        "value": 22.3
+      }
+    ],
+    "ontario": [
+      {
+        "year": 1971,
+        "value": 8.3
+      },
+      {
+        "year": 1972,
+        "value": 8.4
+      },
+      {
+        "year": 1973,
+        "value": 8.5
+      },
+      {
+        "year": 1974,
+        "value": 8.6
+      },
+      {
+        "year": 1975,
+        "value": 8.7
+      },
+      {
+        "year": 1976,
+        "value": 8.9
+      },
+      {
+        "year": 1977,
+        "value": 9.1
+      },
+      {
+        "year": 1978,
+        "value": 9.3
+      },
+      {
+        "year": 1979,
+        "value": 9.5
+      },
+      {
+        "year": 1980,
+        "value": 9.7
+      },
+      {
+        "year": 1981,
+        "value": 9.9
+      },
+      {
+        "year": 1982,
+        "value": 10.1
+      },
+      {
+        "year": 1983,
+        "value": 10.1
+      },
+      {
+        "year": 1984,
+        "value": 10.3
+      },
+      {
+        "year": 1985,
+        "value": 10.5
+      },
+      {
+        "year": 1986,
+        "value": 10.7
+      },
+      {
+        "year": 1987,
+        "value": 10.9
+      },
+      {
+        "year": 1988,
+        "value": 11
+      },
+      {
+        "year": 1989,
+        "value": 11.2
+      },
+      {
+        "year": 1990,
+        "value": 11.3
+      },
+      {
+        "year": 1991,
+        "value": 11.5
+      },
+      {
+        "year": 1992,
+        "value": 11.7
+      },
+      {
+        "year": 1993,
+        "value": 11.9
+      },
+      {
+        "year": 1994,
+        "value": 12
+      },
+      {
+        "year": 1995,
+        "value": 12.1
+      },
+      {
+        "year": 1996,
+        "value": 12.2
+      },
+      {
+        "year": 1997,
+        "value": 12.3
+      },
+      {
+        "year": 1998,
+        "value": 12.4
+      },
+      {
+        "year": 1999,
+        "value": 12.5
+      },
+      {
+        "year": 2000,
+        "value": 12.5
+      },
+      {
+        "year": 2001,
+        "value": 12.5
+      },
+      {
+        "year": 2002,
+        "value": 12.6
+      },
+      {
+        "year": 2003,
+        "value": 12.7
+      },
+      {
+        "year": 2004,
+        "value": 12.8
+      },
+      {
+        "year": 2005,
+        "value": 12.9
+      },
+      {
+        "year": 2006,
+        "value": 13
+      },
+      {
+        "year": 2007,
+        "value": 13.2
+      },
+      {
+        "year": 2008,
+        "value": 13.5
+      },
+      {
+        "year": 2009,
+        "value": 13.7
+      },
+      {
+        "year": 2010,
+        "value": 13.9
+      },
+      {
+        "year": 2011,
+        "value": 14.2
+      },
+      {
+        "year": 2012,
+        "value": 14.7
+      },
+      {
+        "year": 2013,
+        "value": 15.2
+      },
+      {
+        "year": 2014,
+        "value": 15.6
+      },
+      {
+        "year": 2015,
+        "value": 16
+      },
+      {
+        "year": 2016,
+        "value": 16.3
+      },
+      {
+        "year": 2017,
+        "value": 16.6
+      },
+      {
+        "year": 2018,
+        "value": 16.9
+      },
+      {
+        "year": 2019,
+        "value": 17.2
+      },
+      {
+        "year": 2020,
+        "value": 17.5
+      },
+      {
+        "year": 2021,
+        "value": 18
+      },
+      {
+        "year": 2022,
+        "value": 18.2
+      },
+      {
+        "year": 2023,
+        "value": 18.3
+      },
+      {
+        "year": 2024,
+        "value": 18.4
+      },
+      {
+        "year": 2025,
+        "value": 18.9
+      },
+      {
+        "year": 2026,
+        "value": 19.5
+      }
+    ],
+    "manitoba": [
+      {
+        "year": 1971,
+        "value": 9.6
+      },
+      {
+        "year": 1972,
+        "value": 9.8
+      },
+      {
+        "year": 1973,
+        "value": 9.9
+      },
+      {
+        "year": 1974,
+        "value": 10
+      },
+      {
+        "year": 1975,
+        "value": 10.2
+      },
+      {
+        "year": 1976,
+        "value": 10.4
+      },
+      {
+        "year": 1977,
+        "value": 10.6
+      },
+      {
+        "year": 1978,
+        "value": 10.9
+      },
+      {
+        "year": 1979,
+        "value": 11.2
+      },
+      {
+        "year": 1980,
+        "value": 11.5
+      },
+      {
+        "year": 1981,
+        "value": 11.8
+      },
+      {
+        "year": 1982,
+        "value": 11.9
+      },
+      {
+        "year": 1983,
+        "value": 12
+      },
+      {
+        "year": 1984,
+        "value": 12.1
+      },
+      {
+        "year": 1985,
+        "value": 12.3
+      },
+      {
+        "year": 1986,
+        "value": 12.4
+      },
+      {
+        "year": 1987,
+        "value": 12.6
+      },
+      {
+        "year": 1988,
+        "value": 12.8
+      },
+      {
+        "year": 1989,
+        "value": 13
+      },
+      {
+        "year": 1990,
+        "value": 13.2
+      },
+      {
+        "year": 1991,
+        "value": 13.3
+      },
+      {
+        "year": 1992,
+        "value": 13.4
+      },
+      {
+        "year": 1993,
+        "value": 13.5
+      },
+      {
+        "year": 1994,
+        "value": 13.5
+      },
+      {
+        "year": 1995,
+        "value": 13.5
+      },
+      {
+        "year": 1996,
+        "value": 13.5
+      },
+      {
+        "year": 1997,
+        "value": 13.6
+      },
+      {
+        "year": 1998,
+        "value": 13.7
+      },
+      {
+        "year": 1999,
+        "value": 13.6
+      },
+      {
+        "year": 2000,
+        "value": 13.6
+      },
+      {
+        "year": 2001,
+        "value": 13.6
+      },
+      {
+        "year": 2002,
+        "value": 13.6
+      },
+      {
+        "year": 2003,
+        "value": 13.6
+      },
+      {
+        "year": 2004,
+        "value": 13.6
+      },
+      {
+        "year": 2005,
+        "value": 13.6
+      },
+      {
+        "year": 2006,
+        "value": 13.7
+      },
+      {
+        "year": 2007,
+        "value": 13.7
+      },
+      {
+        "year": 2008,
+        "value": 13.8
+      },
+      {
+        "year": 2009,
+        "value": 13.8
+      },
+      {
+        "year": 2010,
+        "value": 13.9
+      },
+      {
+        "year": 2011,
+        "value": 14
+      },
+      {
+        "year": 2012,
+        "value": 14.2
+      },
+      {
+        "year": 2013,
+        "value": 14.5
+      },
+      {
+        "year": 2014,
+        "value": 14.7
+      },
+      {
+        "year": 2015,
+        "value": 14.8
+      },
+      {
+        "year": 2016,
+        "value": 15
+      },
+      {
+        "year": 2017,
+        "value": 15.1
+      },
+      {
+        "year": 2018,
+        "value": 15.4
+      },
+      {
+        "year": 2019,
+        "value": 15.7
+      },
+      {
+        "year": 2020,
+        "value": 16.1
+      },
+      {
+        "year": 2021,
+        "value": 16.5
+      },
+      {
+        "year": 2022,
+        "value": 16.7
+      },
+      {
+        "year": 2023,
+        "value": 16.8
+      },
+      {
+        "year": 2024,
+        "value": 16.9
+      },
+      {
+        "year": 2025,
+        "value": 17.3
+      },
+      {
+        "year": 2026,
+        "value": 17.7
+      }
+    ],
+    "saskatchewan": [
+      {
+        "year": 1971,
+        "value": 10.2
+      },
+      {
+        "year": 1972,
+        "value": 10.5
+      },
+      {
+        "year": 1973,
+        "value": 10.7
+      },
+      {
+        "year": 1974,
+        "value": 10.9
+      },
+      {
+        "year": 1975,
+        "value": 10.9
+      },
+      {
+        "year": 1976,
+        "value": 11
+      },
+      {
+        "year": 1977,
+        "value": 11.1
+      },
+      {
+        "year": 1978,
+        "value": 11.3
+      },
+      {
+        "year": 1979,
+        "value": 11.5
+      },
+      {
+        "year": 1980,
+        "value": 11.7
+      },
+      {
+        "year": 1981,
+        "value": 11.9
+      },
+      {
+        "year": 1982,
+        "value": 12.1
+      },
+      {
+        "year": 1983,
+        "value": 12.2
+      },
+      {
+        "year": 1984,
+        "value": 12.2
+      },
+      {
+        "year": 1985,
+        "value": 12.4
+      },
+      {
+        "year": 1986,
+        "value": 12.6
+      },
+      {
+        "year": 1987,
+        "value": 12.8
+      },
+      {
+        "year": 1988,
+        "value": 13.1
+      },
+      {
+        "year": 1989,
+        "value": 13.4
+      },
+      {
+        "year": 1990,
+        "value": 13.8
+      },
+      {
+        "year": 1991,
+        "value": 14.1
+      },
+      {
+        "year": 1992,
+        "value": 14.2
+      },
+      {
+        "year": 1993,
+        "value": 14.3
+      },
+      {
+        "year": 1994,
+        "value": 14.4
+      },
+      {
+        "year": 1995,
+        "value": 14.5
+      },
+      {
+        "year": 1996,
+        "value": 14.5
+      },
+      {
+        "year": 1997,
+        "value": 14.6
+      },
+      {
+        "year": 1998,
+        "value": 14.6
+      },
+      {
+        "year": 1999,
+        "value": 14.6
+      },
+      {
+        "year": 2000,
+        "value": 14.7
+      },
+      {
+        "year": 2001,
+        "value": 14.8
+      },
+      {
+        "year": 2002,
+        "value": 14.8
+      },
+      {
+        "year": 2003,
+        "value": 14.9
+      },
+      {
+        "year": 2004,
+        "value": 14.8
+      },
+      {
+        "year": 2005,
+        "value": 14.9
+      },
+      {
+        "year": 2006,
+        "value": 15
+      },
+      {
+        "year": 2007,
+        "value": 14.9
+      },
+      {
+        "year": 2008,
+        "value": 14.8
+      },
+      {
+        "year": 2009,
+        "value": 14.6
+      },
+      {
+        "year": 2010,
+        "value": 14.5
+      },
+      {
+        "year": 2011,
+        "value": 14.4
+      },
+      {
+        "year": 2012,
+        "value": 14.5
+      },
+      {
+        "year": 2013,
+        "value": 14.6
+      },
+      {
+        "year": 2014,
+        "value": 14.6
+      },
+      {
+        "year": 2015,
+        "value": 14.8
+      },
+      {
+        "year": 2016,
+        "value": 14.9
+      },
+      {
+        "year": 2017,
+        "value": 15.2
+      },
+      {
+        "year": 2018,
+        "value": 15.5
+      },
+      {
+        "year": 2019,
+        "value": 15.9
+      },
+      {
+        "year": 2020,
+        "value": 16.5
+      },
+      {
+        "year": 2021,
+        "value": 17
+      },
+      {
+        "year": 2022,
+        "value": 17.4
+      },
+      {
+        "year": 2023,
+        "value": 17.5
+      },
+      {
+        "year": 2024,
+        "value": 17.5
+      },
+      {
+        "year": 2025,
+        "value": 17.8
+      },
+      {
+        "year": 2026,
+        "value": 18.2
+      }
+    ],
+    "alberta": [
+      {
+        "year": 1971,
+        "value": 7.2
+      },
+      {
+        "year": 1972,
+        "value": 7.3
+      },
+      {
+        "year": 1973,
+        "value": 7.4
+      },
+      {
+        "year": 1974,
+        "value": 7.4
+      },
+      {
+        "year": 1975,
+        "value": 7.4
+      },
+      {
+        "year": 1976,
+        "value": 7.4
+      },
+      {
+        "year": 1977,
+        "value": 7.4
+      },
+      {
+        "year": 1978,
+        "value": 7.4
+      },
+      {
+        "year": 1979,
+        "value": 7.4
+      },
+      {
+        "year": 1980,
+        "value": 7.3
+      },
+      {
+        "year": 1981,
+        "value": 7.2
+      },
+      {
+        "year": 1982,
+        "value": 7.2
+      },
+      {
+        "year": 1983,
+        "value": 7.3
+      },
+      {
+        "year": 1984,
+        "value": 7.5
+      },
+      {
+        "year": 1985,
+        "value": 7.8
+      },
+      {
+        "year": 1986,
+        "value": 8
+      },
+      {
+        "year": 1987,
+        "value": 8.3
+      },
+      {
+        "year": 1988,
+        "value": 8.5
+      },
+      {
+        "year": 1989,
+        "value": 8.7
+      },
+      {
+        "year": 1990,
+        "value": 8.8
+      },
+      {
+        "year": 1991,
+        "value": 9
+      },
+      {
+        "year": 1992,
+        "value": 9.1
+      },
+      {
+        "year": 1993,
+        "value": 9.3
+      },
+      {
+        "year": 1994,
+        "value": 9.5
+      },
+      {
+        "year": 1995,
+        "value": 9.6
+      },
+      {
+        "year": 1996,
+        "value": 9.8
+      },
+      {
+        "year": 1997,
+        "value": 9.9
+      },
+      {
+        "year": 1998,
+        "value": 9.9
+      },
+      {
+        "year": 1999,
+        "value": 10
+      },
+      {
+        "year": 2000,
+        "value": 10.1
+      },
+      {
+        "year": 2001,
+        "value": 10.1
+      },
+      {
+        "year": 2002,
+        "value": 10.2
+      },
+      {
+        "year": 2003,
+        "value": 10.3
+      },
+      {
+        "year": 2004,
+        "value": 10.3
+      },
+      {
+        "year": 2005,
+        "value": 10.3
+      },
+      {
+        "year": 2006,
+        "value": 10.4
+      },
+      {
+        "year": 2007,
+        "value": 10.3
+      },
+      {
+        "year": 2008,
+        "value": 10.4
+      },
+      {
+        "year": 2009,
+        "value": 10.4
+      },
+      {
+        "year": 2010,
+        "value": 10.5
+      },
+      {
+        "year": 2011,
+        "value": 10.7
+      },
+      {
+        "year": 2012,
+        "value": 11
+      },
+      {
+        "year": 2013,
+        "value": 11.2
+      },
+      {
+        "year": 2014,
+        "value": 11.4
+      },
+      {
+        "year": 2015,
+        "value": 11.6
+      },
+      {
+        "year": 2016,
+        "value": 12
+      },
+      {
+        "year": 2017,
+        "value": 12.4
+      },
+      {
+        "year": 2018,
+        "value": 12.8
+      },
+      {
+        "year": 2019,
+        "value": 13.3
+      },
+      {
+        "year": 2020,
+        "value": 13.8
+      },
+      {
+        "year": 2021,
+        "value": 14.4
+      },
+      {
+        "year": 2022,
+        "value": 14.8
+      },
+      {
+        "year": 2023,
+        "value": 15
+      },
+      {
+        "year": 2024,
+        "value": 15.1
+      },
+      {
+        "year": 2025,
+        "value": 15.5
+      },
+      {
+        "year": 2026,
+        "value": 16
+      }
+    ],
+    "british-columbia": [
+      {
+        "year": 1971,
+        "value": 9.3
+      },
+      {
+        "year": 1972,
+        "value": 9.3
+      },
+      {
+        "year": 1973,
+        "value": 9.3
+      },
+      {
+        "year": 1974,
+        "value": 9.4
+      },
+      {
+        "year": 1975,
+        "value": 9.5
+      },
+      {
+        "year": 1976,
+        "value": 9.7
+      },
+      {
+        "year": 1977,
+        "value": 9.9
+      },
+      {
+        "year": 1978,
+        "value": 10.1
+      },
+      {
+        "year": 1979,
+        "value": 10.3
+      },
+      {
+        "year": 1980,
+        "value": 10.5
+      },
+      {
+        "year": 1981,
+        "value": 10.7
+      },
+      {
+        "year": 1982,
+        "value": 10.8
+      },
+      {
+        "year": 1983,
+        "value": 11
+      },
+      {
+        "year": 1984,
+        "value": 11.2
+      },
+      {
+        "year": 1985,
+        "value": 11.6
+      },
+      {
+        "year": 1986,
+        "value": 11.9
+      },
+      {
+        "year": 1987,
+        "value": 12.2
+      },
+      {
+        "year": 1988,
+        "value": 12.4
+      },
+      {
+        "year": 1989,
+        "value": 12.6
+      },
+      {
+        "year": 1990,
+        "value": 12.6
+      },
+      {
+        "year": 1991,
+        "value": 12.7
+      },
+      {
+        "year": 1992,
+        "value": 12.7
+      },
+      {
+        "year": 1993,
+        "value": 12.6
+      },
+      {
+        "year": 1994,
+        "value": 12.6
+      },
+      {
+        "year": 1995,
+        "value": 12.6
+      },
+      {
+        "year": 1996,
+        "value": 12.6
+      },
+      {
+        "year": 1997,
+        "value": 12.6
+      },
+      {
+        "year": 1998,
+        "value": 12.8
+      },
+      {
+        "year": 1999,
+        "value": 12.9
+      },
+      {
+        "year": 2000,
+        "value": 13.1
+      },
+      {
+        "year": 2001,
+        "value": 13.2
+      },
+      {
+        "year": 2002,
+        "value": 13.4
+      },
+      {
+        "year": 2003,
+        "value": 13.6
+      },
+      {
+        "year": 2004,
+        "value": 13.8
+      },
+      {
+        "year": 2005,
+        "value": 13.9
+      },
+      {
+        "year": 2006,
+        "value": 14.1
+      },
+      {
+        "year": 2007,
+        "value": 14.3
+      },
+      {
+        "year": 2008,
+        "value": 14.5
+      },
+      {
+        "year": 2009,
+        "value": 14.7
+      },
+      {
+        "year": 2010,
+        "value": 14.9
+      },
+      {
+        "year": 2011,
+        "value": 15.3
+      },
+      {
+        "year": 2012,
+        "value": 15.7
+      },
+      {
+        "year": 2013,
+        "value": 16.2
+      },
+      {
+        "year": 2014,
+        "value": 16.6
+      },
+      {
+        "year": 2015,
+        "value": 17.1
+      },
+      {
+        "year": 2016,
+        "value": 17.4
+      },
+      {
+        "year": 2017,
+        "value": 17.8
+      },
+      {
+        "year": 2018,
+        "value": 18.1
+      },
+      {
+        "year": 2019,
+        "value": 18.5
+      },
+      {
+        "year": 2020,
+        "value": 19
+      },
+      {
+        "year": 2021,
+        "value": 19.5
+      },
+      {
+        "year": 2022,
+        "value": 19.7
+      },
+      {
+        "year": 2023,
+        "value": 19.8
+      },
+      {
+        "year": 2024,
+        "value": 19.9
+      },
+      {
+        "year": 2025,
+        "value": 20.5
+      },
+      {
+        "year": 2026,
+        "value": 21.1
+      }
+    ],
+    "yukon": [
+      {
+        "year": 1971,
+        "value": 2.9
+      },
+      {
+        "year": 1972,
+        "value": 2.8
+      },
+      {
+        "year": 1973,
+        "value": 2.8
+      },
+      {
+        "year": 1974,
+        "value": 2.8
+      },
+      {
+        "year": 1975,
+        "value": 2.9
+      },
+      {
+        "year": 1976,
+        "value": 3
+      },
+      {
+        "year": 1977,
+        "value": 3
+      },
+      {
+        "year": 1978,
+        "value": 3.2
+      },
+      {
+        "year": 1979,
+        "value": 3.3
+      },
+      {
+        "year": 1980,
+        "value": 3.2
+      },
+      {
+        "year": 1981,
+        "value": 3.2
+      },
+      {
+        "year": 1982,
+        "value": 3.2
+      },
+      {
+        "year": 1983,
+        "value": 3.4
+      },
+      {
+        "year": 1984,
+        "value": 3.4
+      },
+      {
+        "year": 1985,
+        "value": 3.6
+      },
+      {
+        "year": 1986,
+        "value": 3.7
+      },
+      {
+        "year": 1987,
+        "value": 3.8
+      },
+      {
+        "year": 1988,
+        "value": 3.7
+      },
+      {
+        "year": 1989,
+        "value": 3.9
+      },
+      {
+        "year": 1990,
+        "value": 3.9
+      },
+      {
+        "year": 1991,
+        "value": 3.9
+      },
+      {
+        "year": 1992,
+        "value": 3.8
+      },
+      {
+        "year": 1993,
+        "value": 3.9
+      },
+      {
+        "year": 1994,
+        "value": 4.1
+      },
+      {
+        "year": 1995,
+        "value": 4.3
+      },
+      {
+        "year": 1996,
+        "value": 4.4
+      },
+      {
+        "year": 1997,
+        "value": 4.6
+      },
+      {
+        "year": 1998,
+        "value": 4.9
+      },
+      {
+        "year": 1999,
+        "value": 5.3
+      },
+      {
+        "year": 2000,
+        "value": 5.6
+      },
+      {
+        "year": 2001,
+        "value": 5.9
+      },
+      {
+        "year": 2002,
+        "value": 6.1
+      },
+      {
+        "year": 2003,
+        "value": 6.3
+      },
+      {
+        "year": 2004,
+        "value": 6.5
+      },
+      {
+        "year": 2005,
+        "value": 6.8
+      },
+      {
+        "year": 2006,
+        "value": 7.1
+      },
+      {
+        "year": 2007,
+        "value": 7.3
+      },
+      {
+        "year": 2008,
+        "value": 7.6
+      },
+      {
+        "year": 2009,
+        "value": 8.2
+      },
+      {
+        "year": 2010,
+        "value": 8.5
+      },
+      {
+        "year": 2011,
+        "value": 8.8
+      },
+      {
+        "year": 2012,
+        "value": 9.2
+      },
+      {
+        "year": 2013,
+        "value": 9.8
+      },
+      {
+        "year": 2014,
+        "value": 10.2
+      },
+      {
+        "year": 2015,
+        "value": 10.5
+      },
+      {
+        "year": 2016,
+        "value": 11
+      },
+      {
+        "year": 2017,
+        "value": 11.6
+      },
+      {
+        "year": 2018,
+        "value": 12.2
+      },
+      {
+        "year": 2019,
+        "value": 13
+      },
+      {
+        "year": 2020,
+        "value": 13.7
+      },
+      {
+        "year": 2021,
+        "value": 14.4
+      },
+      {
+        "year": 2022,
+        "value": 14.6
+      },
+      {
+        "year": 2023,
+        "value": 14.9
+      },
+      {
+        "year": 2024,
+        "value": 14.8
+      },
+      {
+        "year": 2025,
+        "value": 15
+      },
+      {
+        "year": 2026,
+        "value": 15.4
+      }
+    ],
+    "northwest-territories": [
+      {
+        "year": 1991,
+        "value": 3.1
+      },
+      {
+        "year": 1992,
+        "value": 3.2
+      },
+      {
+        "year": 1993,
+        "value": 3.2
+      },
+      {
+        "year": 1994,
+        "value": 3.3
+      },
+      {
+        "year": 1995,
+        "value": 3.4
+      },
+      {
+        "year": 1996,
+        "value": 3.5
+      },
+      {
+        "year": 1997,
+        "value": 3.7
+      },
+      {
+        "year": 1998,
+        "value": 3.9
+      },
+      {
+        "year": 1999,
+        "value": 4
+      },
+      {
+        "year": 2000,
+        "value": 4.1
+      },
+      {
+        "year": 2001,
+        "value": 4.1
+      },
+      {
+        "year": 2002,
+        "value": 4.2
+      },
+      {
+        "year": 2003,
+        "value": 4.2
+      },
+      {
+        "year": 2004,
+        "value": 4.3
+      },
+      {
+        "year": 2005,
+        "value": 4.5
+      },
+      {
+        "year": 2006,
+        "value": 4.6
+      },
+      {
+        "year": 2007,
+        "value": 4.7
+      },
+      {
+        "year": 2008,
+        "value": 5
+      },
+      {
+        "year": 2009,
+        "value": 5.2
+      },
+      {
+        "year": 2010,
+        "value": 5.3
+      },
+      {
+        "year": 2011,
+        "value": 5.6
+      },
+      {
+        "year": 2012,
+        "value": 5.8
+      },
+      {
+        "year": 2013,
+        "value": 6.1
+      },
+      {
+        "year": 2014,
+        "value": 6.5
+      },
+      {
+        "year": 2015,
+        "value": 6.8
+      },
+      {
+        "year": 2016,
+        "value": 7.1
+      },
+      {
+        "year": 2017,
+        "value": 7.6
+      },
+      {
+        "year": 2018,
+        "value": 8.1
+      },
+      {
+        "year": 2019,
+        "value": 8.8
+      },
+      {
+        "year": 2020,
+        "value": 9.4
+      },
+      {
+        "year": 2021,
+        "value": 9.9
+      },
+      {
+        "year": 2022,
+        "value": 10.2
+      },
+      {
+        "year": 2023,
+        "value": 10.7
+      },
+      {
+        "year": 2024,
+        "value": 11.1
+      },
+      {
+        "year": 2025,
+        "value": 11.4
+      },
+      {
+        "year": 2026,
+        "value": 11.9
+      }
+    ],
+    "nunavut": [
+      {
+        "year": 1991,
+        "value": 1.9
+      },
+      {
+        "year": 1992,
+        "value": 1.9
+      },
+      {
+        "year": 1993,
+        "value": 2
+      },
+      {
+        "year": 1994,
+        "value": 2
+      },
+      {
+        "year": 1995,
+        "value": 2.1
+      },
+      {
+        "year": 1996,
+        "value": 2.2
+      },
+      {
+        "year": 1997,
+        "value": 2.2
+      },
+      {
+        "year": 1998,
+        "value": 2.3
+      },
+      {
+        "year": 1999,
+        "value": 2.2
+      },
+      {
+        "year": 2000,
+        "value": 2.2
+      },
+      {
+        "year": 2001,
+        "value": 2.1
+      },
+      {
+        "year": 2002,
+        "value": 2.2
+      },
+      {
+        "year": 2003,
+        "value": 2.4
+      },
+      {
+        "year": 2004,
+        "value": 2.5
+      },
+      {
+        "year": 2005,
+        "value": 2.6
+      },
+      {
+        "year": 2006,
+        "value": 2.6
+      },
+      {
+        "year": 2007,
+        "value": 2.7
+      },
+      {
+        "year": 2008,
+        "value": 2.9
+      },
+      {
+        "year": 2009,
+        "value": 3
+      },
+      {
+        "year": 2010,
+        "value": 3.1
+      },
+      {
+        "year": 2011,
+        "value": 3.2
+      },
+      {
+        "year": 2012,
+        "value": 3.3
+      },
+      {
+        "year": 2013,
+        "value": 3.4
+      },
+      {
+        "year": 2014,
+        "value": 3.5
+      },
+      {
+        "year": 2015,
+        "value": 3.6
+      },
+      {
+        "year": 2016,
+        "value": 3.7
+      },
+      {
+        "year": 2017,
+        "value": 3.8
+      },
+      {
+        "year": 2018,
+        "value": 3.9
+      },
+      {
+        "year": 2019,
+        "value": 4
+      },
+      {
+        "year": 2020,
+        "value": 4.2
+      },
+      {
+        "year": 2021,
+        "value": 4.4
+      },
+      {
+        "year": 2022,
+        "value": 4.5
+      },
+      {
+        "year": 2023,
+        "value": 4.6
+      },
+      {
+        "year": 2024,
+        "value": 4.8
+      },
+      {
+        "year": 2025,
+        "value": 5.2
+      },
+      {
+        "year": 2026,
+        "value": 5.5
+      }
+    ],
+    "northwest-territories-including-nunavut": [
+      {
+        "year": 1971,
+        "value": 2.3
+      },
+      {
+        "year": 1972,
+        "value": 2.3
+      },
+      {
+        "year": 1973,
+        "value": 2.3
+      },
+      {
+        "year": 1974,
+        "value": 2.4
+      },
+      {
+        "year": 1975,
+        "value": 2.6
+      },
+      {
+        "year": 1976,
+        "value": 2.7
+      },
+      {
+        "year": 1977,
+        "value": 2.8
+      },
+      {
+        "year": 1978,
+        "value": 2.8
+      },
+      {
+        "year": 1979,
+        "value": 2.8
+      },
+      {
+        "year": 1980,
+        "value": 2.9
+      },
+      {
+        "year": 1981,
+        "value": 3
+      },
+      {
+        "year": 1982,
+        "value": 2.9
+      },
+      {
+        "year": 1983,
+        "value": 2.9
+      },
+      {
+        "year": 1984,
+        "value": 2.9
+      },
+      {
+        "year": 1985,
+        "value": 2.8
+      },
+      {
+        "year": 1986,
+        "value": 2.9
+      },
+      {
+        "year": 1987,
+        "value": 3
+      },
+      {
+        "year": 1988,
+        "value": 3
+      },
+      {
+        "year": 1989,
+        "value": 2.9
+      },
+      {
+        "year": 1990,
+        "value": 2.8
+      }
+    ]
+  }
+}

@@ -1,0 +1,731 @@
+{{Short description|Government enterprises in Canada}}
+{{Use Canadian English|date=October 2024}}
+{{Use mdy dates|date=October 2024}}
+{{Monarchy of Canada sidebar|legal}}
+In [[Canada]], a '''Crown corporation''' is a type of organization that is structured like a private corporation, but is directly and wholly owned by the Canadian federal government or a provincial or territorial government.<ref name=":0">{{Cite web|last=|first=|date=2012-09-28|title=Overview of federal organizations and interests|url=https://www.canada.ca/en/treasury-board-secretariat/services/reporting-government-spending/inventory-government-organizations/overview-institutional-forms-definitions.html|url-status=live|access-date=2021-05-19|website=Treasury Board of Canada Secretariat|archive-url=https://web.archive.org/web/20170203124912/https://www.canada.ca/en/treasury-board-secretariat/services/reporting-government-spending/inventory-government-organizations/overview-institutional-forms-definitions.html |archive-date=2017-02-03 }}</ref><ref name="CE">{{cite web | last=Tupper | first=Allan | date=22 January 2025 | url=https://www.thecanadianencyclopedia.ca/en/article/crown-corporation | publisher=The Canadian Encyclopedia | title=Crown Corporation }}</ref>  Crown corporations have a long-standing presence in the country, and have a significant economic impact, with commercial operations equivalent to 7% of Canadian GDP.<ref name=HodgsonMR/>
+
+Crown corporations are created to advance government policy objectives. Often they provide services to the public that are not economically viable for a [[private enterprise]], or that do not fit exactly within the scope of any ministry.<ref name="CBC" /> They represent a form of [[state-owned enterprise]].<ref name="AANDC">{{cite web|last=Aboriginal Affairs and Northern Development Canada|title=Aboriginal Peoples and Communities > Governance > Tools for Governance > Governance Tools for Institutions > Establishing and Operating as a Federal Crown Corporation – The DIAND Experience|url=http://www.aadnc-aandc.gc.ca/eng/1100100013934/1100100013935|url-status=dead|archive-url=https://web.archive.org/web/20121015161946/http://www.aadnc-aandc.gc.ca/eng/1100100013934/1100100013935|archive-date=15 October 2012|access-date=5 December 2012|publisher=Queen's Printer for Canada}}</ref><ref name=":1">{{Citation|last=Canada Development Investment Corporation|title=Annual Report 2008|url=http://www.cdiccei.ca/english/pdf/CDIC_Annual_Report_2008%20_Eng.pdf|page=13|year=2008|archive-url=https://web.archive.org/web/20100806203245/http://www.cdiccei.ca/english/pdf/CDIC_Annual_Report_2008%20_Eng.pdf|place=Ottawa|publisher=Queen's Printer for Canada|quote=Canada Development Investment Corporation... is {{sic|hide=y|wholly|-}}owned by Her Majesty in Right of Canada|access-date=21 April 2010|archive-date=6 August 2010|url-status=dead}}</ref><ref name="CBC">{{cite web|last=Stastna|first=Kazi|title=What are Crown corporations and why do they exist?|url=https://www.cbc.ca/news/canada/what-are-crown-corporations-and-why-do-they-exist-1.1135699|url-status=live|access-date=19 May 2021|publisher=CBC|archive-url=https://web.archive.org/web/20120402183048/http://www.cbc.ca/news/canada/story/2012/03/25/f-crown-corporations.html |archive-date=2012-04-02 }}</ref>
+
+Crown corporations are established by or under an [[Act of Parliament|act of parliament]] or an act of a provincial legislature. Federal government Crowns report to the relevant [[Minister of the Crown|minister]] in [[Cabinet of Canada|Cabinet]], though they are "shielded from constant government intervention and legislative oversight" and thus "generally enjoy greater freedom from direct political control than government departments."<ref name=":2">{{Cite web|last=|first=|date=2002-12-20|title=Directors of Crown corporations: an introductory guide to their roles and responsibilities – What is a Crown Corporation|url=https://www.canada.ca/en/treasury-board-secretariat/services/guidance-crown-corporations/directors-crown-corporations-introductory-guide-roles-responsibilities.html#cro|url-status=live|access-date=2020-06-07|website=Treasury Board of Canada Secretariat|archive-url=https://web.archive.org/web/20190419013843/https://www.canada.ca/en/treasury-board-secretariat/services/guidance-crown-corporations/directors-crown-corporations-introductory-guide-roles-responsibilities.html |archive-date=2019-04-19 }}</ref><ref name="CE" />
+
+{{As of|2022}}, there were 47 federal Crown corporations in Canada.<ref name=TB>{{Cite web |last=Secretariat |first=Treasury Board of Canada |date=2007-05-15 |title=List of Crown corporations |url=https://www.canada.ca/en/treasury-board-secretariat/services/guidance-crown-corporations/list-crown-corporations.html |access-date=2022-03-22 |website=canada.ca}}</ref> Provinces operate their own Crown corporations independently of the federal government.<ref name="CBC"/>
+
+==Definition==
+There is no common definition of a Crown corporation among Canadian governments.<ref name=Hodgson>{{cite web | url= https://cdhowe.org/wp-content/uploads/2024/12/Commentary_602-2.pdf | title=Finding Jewels Among the Crowns: Optimal Governance Principles for Canada's State-Owned Enterprises | first=Glen | last=Hodgson | publisher=C.D. Howe Institute | date=May 2021 }}</ref>
+In its review of state-owned enterprise (SOE) governance in 54 countries, the [[OECD]] notes that in Canada, federal government SOEs are referred to as "Crown corporations".<ref name=OECD>{{cite web | title=Ownership and Governance of State-Owned Enterprises: A Compendium of National Practices 2021 | url=https://www.oecd.org/corporate/ownership-and-governance-of-state-owned-enterprises-a-compendium-of-national-practices.htm | author=OECD | date=2021 }}</ref>
+
+The Canadian federal government defines its Crown corporations as corporations that (1) are wholly owned by the government; (2) have enabling legislation which sets out the corporation's mandate, powers, and objectives; and (3) operate at arm's length from the government, but are ultimately accountable to the government.<ref name=Hodgson/>{{rp|6}}<ref>{{cite web | title=Overview of Institutional Forms and Definitions | url=https://www.canada.ca/en/treasury-board-secretariat/services/reporting-government-spending/inventory-government-organizations/overview-institutional-forms-definitions.html }}</ref>
+
+While the term "Crown corporation" is widely used in Canada, the province of Ontario refers to its government-owned entities as "agencies".<ref name=Ontario>{{cite web | url=https://www.ontario.ca/page/agencies-boards-and-commissions | title=Agencies, boards and commissions | publisher=Ontario }}</ref><ref name=Hodgson/>{{rp|7}}
+
+==Economic impact==
+Crown corporations have a considerable economic footprint, with annual commercial operations equivalent to 7% of Canadian GDP.<ref name=HodgsonMR>{{cite web | first=Glen | last=Hodgson | url=https://cdhowe.org/publication/blueprint-crown-corp-governance-could-improve-performance/ | title=Blueprint for Crown Corp Governance Could Improve Performance | publisher=C.D. Howe Institute | date=27 May 2021}}</ref>  
+In 2023, government business enterprises had revenues of $199 billion, of which $120 billion was generated at the provincial and territorial level, $43 billion at the federal level, and $36 billion at the local level.<ref>{{cite report | publisher=Statistics Canada | title=Table 10-10-0023-01 Canadian government finance statistics for government business enterprises, by industry |doi=10.25318/1010002301-eng }}</ref>
+
+There were 47 federal Crown corporations in 2022.<ref name=TB/>
+In 2025, Ontario had over 170 agencies, and British Columbia had 29 Crown corporations.<ref name=Ontario/><ref>{{cite web | title=Crown Corporations | date=23 June 2023 | url=https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/crown-corporations }}</ref>
+There are hundreds of local government-owned enterprises that are sometimes referred to as Crown corporations.  They provide local services such as electricity, potable and wastewater services, and public transit (ie, Metro Vancouver's public transit authority [[Translink (British Columbia)|Translink]]).<ref name=Hodgson/>{{rp|6–7}}
+
+==Purpose==
+As long as Crown corporations have existed, there has been debate about their role and whether they should exist at all.<ref name="CE"/><ref name="CBC"/>
+Crown corporations are generally formed to fill a need that the government deems in the public or [[national interest]], and that may not be profitable for private industry to provide.<ref name="CBC" /> 
+For example, [[Air Canada]] was created to be an active competitor in a market where competition and service was viewed as inadequate.<ref name=Hodgson/>{{rp|8}}
+Some Crown corporations are expected to be profitable organizations, while others are non-commercial and rely entirely on public funds to operate.<ref name="AANDC" />
+
+== Structure ==
+===Ownership and accountability===
+In Canada, Crown corporations are directly owned by the government as the enterprise's sole legal [[shareholder]].<ref name="AANDC" /><ref name=":1" /><ref name="CBC" />
+(Governments in Canada are sometimes referred to as "[[the Crown]]".<ref name=":0"/>)
+Established by an [[act of parliament]] or by [[Articles of association|articles of incorporation]] under the [[Canada Business Corporations Act]], each Crown corporation is ultimately accountable for the conduct of its affairs to the federal [[Parliament of Canada|parliament]] or a [[Legislative assemblies of Canadian provinces and territories|provincial legislature]] through the relevant [[Minister of the Crown|minister]].<ref name=":2" />
+
+Although Crown corporations are owned by the government, they are operated with much greater managerial [[autonomy]] than government departments. 
+They generally enjoy greater freedom from direct political control than government departments since they are "shielded from constant government intervention and legislative oversight".<ref name="CE" />
+The government can, however, have the minister responsible issue a directive to the board of directors ordering them to take a specific action; and the government carries out periodic mandate reviews to assess crown corporations' performance and cost-effectiveness.<ref name="CBC"/>
+
+Crown corporations differ from "departmental corporations" (such as the [[Canada Revenue Agency]] and the [[Canadian Food Inspection Agency]]), which have no commercial purpose and perform only administrative, research, advisory, or regulatory functions.<ref name=CBC/><ref name="CE"/>
+In the federal sphere, certain Crown corporations can be an agent or non-agent of the government. One with agent status is entitled to the same constitutional prerogatives, privileges, and immunities held by the government and can bind the government by its acts. The government is not liable for Crown corporations with non-agent status, except for actions of that corporation carried out on instruction from the government, though there may be "moral obligations" on the part of the government in other circumstances.<ref>{{cite web|last=Treasury Board of Canada Secretariat|title=Government Operations Sector > Governance > Agent Status and Crown Corporations| date=31 May 2007 | url=http://www.tbs-sct.gc.ca/gov-gouv/agent-mandataire/agent-mandataire-eng.asp|url-status=dead|archive-url=https://web.archive.org/web/20130530121822/http://www.tbs-sct.gc.ca/gov-gouv/agent-mandataire/agent-mandataire-eng.asp|archive-date=30 May 2013|access-date=5 December 2012|publisher=Queen's Printer for Canada}}</ref>
+
+===Provincial Crown corporations===
+Provincial Crown corporations function similarly to their federal counterparts in that they are accountable to the provincial government, and their directors are appointed by the provincial cabinet.<ref name="CBC"/>
+Areas in which provincial Crown corporations have  traditionally been involved include utilities (e.g., [[Hydro-Québec]]), liquor stores and gaming (e.g., [[Alcohol and Gaming Commission of Ontario]]), telecommunications (e.g., [[SaskTel]]), and auto insurance (e.g., [[Insurance Corporation of British Columbia]]).
+
+== History ==
+Crown corporations have been created to provide important services in Canada - a large, sparsely populated country - usually because the private sector was unable or unwilling to provide such services.<ref name="CE"/>
+The first Canadian Crown corporation was the Board of Works, established in 1841 by the [[Province of Canada]] to construct shipping canals.<ref name="CE" />
+Many of the most significant crown corporations created in the 20th century were designed to meet transportation needs.<ref name="CE"/>
+These include the [[Canadian National Railway Company]] (CN), created in 1922 from more than 200 companies, [[Air Canada]], and the [[St. Lawrence Seaway Authority]].<ref name="CBC" /><ref>{{cite web | title=Report to Parliament: Meeting the Expectations of Canadians; Review of the Governance Framework for Canada's Crown Corporations | url= https://www.tbs-sct.canada.ca/report/rev-exa/gfcc-cgse-eng.pdf | date=2005 | author=President of the Treasury Board | isbn=0-662-68755-8 }}</ref>
+
+The [[Bank of Canada]], originally privately owned, became a Crown corporation in 1938.<ref name="CBC" /><ref>{{cite report |title=Meeting the Expectations of Canadians: Review of the Governance Framework for Canada's Crown Corporations |publisher=Treasury Board of Canada Secretariat |isbn=0-662-68755-8 |year=2005 |page=9 |url=https://www.tbs-sct.gc.ca/report/rev-exa/gfcc-cgse-eng.pdf |access-date=8 October 2023}}</ref>
+After the Second World War, federal crown corporations, such as farmers ([[Farm Credit Corporation]]), small businesses ([[Business Development Bank of Canada]]), and exporters ([[Export Development Canada]]),<ref name="CE" /> were created to provide loans and financial services to groups whose needs were not always met by private institutions. 
+
+Crown corporations have been most common in transport, telecommunications, utilities, and power generation, but they have also been involved in alcohol sales, gaming, finance, insurance, agriculture, culture and other industries.<ref name="CBC"/>
+Significant crown corporations include [[Petro-Canada]], which was founded in 1975 to create a national oil Crown corporation; and [[Canada Post Corporation]], which in 1981 replaced the federal [[Post Office Department (Canada)|Post Office Department]].
+
+In the 1970s, a debate emerged about the role and effectiveness of crown corporations, and whether they had become too prominent in the economy.<ref name="CE"/>
+Inspired by [[Margaret Thatcher]]'s sell-off of state assets in Britain in the 1980s, Canadian Prime Minister [[Brian Mulroney]] privatized many of Canada's Crown corporations, including [[Air Canada]], [[Petro-Canada]], and [[Canadair]].<ref name="CE"/>
+Sectors that were once dominated by Crown corporations, such as telecommunications, were almost fully privatized.  
+For example, most provinces sold off their phone companies in the 1990s.<ref name="CBC"/> 
+British Columbia sold off parts of [[BC Hydro]], Saskatchewan privatized [[PotashCorp]], the world's largest producer of fertilizer, and Nova Scotia privatized its electricity company [[Nova Scotia Power]].<ref name="CBC"/>
+Alberta privatized its liquor stores in 1996, although in this case, most other provinces did not follow suit.<ref name="CBC"/>
+Nevertheless, some new crown corporations have since been created, such as the [[Canadian Air Transport Security Authority]] (CATSA) which was formed in response to the 11 September 2001 attacks to provide passenger and baggage screening at airports (rather than leave it to airlines).<ref name="CE"/>
+
+== <span class="anchor" id="List of Canada's Crown corporations"></span>List of federal Crown corporations ==
+{| class="wikitable"
+|+Current federal Crown corporations, {{As of|2021|May|lc=y}}<ref>{{Cite web|last=|first=|date=2021-03-29|title=List of Crown corporations|url=https://www.canada.ca/en/treasury-board-secretariat/services/guidance-crown-corporations/list-crown-corporations.html|url-status=live|access-date=2021-05-19|website=Treasury Board of Canada Secretariat|archive-url=https://web.archive.org/web/20200401203241/https://www.canada.ca/en/treasury-board-secretariat/services/guidance-crown-corporations/list-crown-corporations.html |archive-date=2020-04-01 }}</ref><ref name="CE" />
+!Name
+!Ministry responsible
+|-
+|[[Atlantic Pilotage Authority]]
+|[[Transport Canada|Transport]]
+|-
+|[[Atomic Energy of Canada Limited|Atomic Energy of Canada Ltd.]]
+|[[Natural Resources Canada|Natural Resources]]
+|-
+|[[Bank of Canada]]
+|[[Department of Finance (Canada)|Finance]]
+|-
+|[[Business Development Bank of Canada]]
+|[[Industry Canada|Industry]]
+|-
+|[[Canada Council|Canada Council for the Arts]]
+|[[Department of Canadian Heritage|Canadian Heritage]]
+|-
+|[[Canada Deposit Insurance Corporation]]
+|Finance
+|-
+|[[Canada Development Investment Corporation]]
+* [[Trans Mountain Corporation]]
+|Finance
+|-
+|[[Canada Lands Company]]
+|[[Public Services and Procurement Canada|Public Works and Government Services]]
+|-
+|[[Canada Mortgage and Housing Corporation]]
+|[[Department of Human Resources and Skills Development|Human Resources]]
+|-
+|[[CPP Investment Board|Canada Pension Plan Investment Board]]
+|Finance
+|-
+|[[Canada Post Corporation]]
+|Public Services and Procurement
+|-
+|[[Canadian Air Transport Security Authority]] (CATSA)
+|Transport
+|-
+|[[Canadian Broadcasting Corporation]] (CBC)
+|Canadian Heritage
+|-
+|[[Canadian Commercial Corporation]]
+|[[Global Affairs Canada|Global Affairs]]
+|-
+|[[Canadian Dairy Commission]]
+|[[Agriculture and Agri-Food Canada|Agriculture and Agri-Food]]
+|-
+|[[Canadian Museum of History]]<ref>{{Cite web|title=About {{!}} Canadian Museum of History|url=https://www.historymuseum.ca/about/|access-date=2021-05-19|language=en-CA}}</ref>
+
+* [[Canadian War Museum]]
+* [[Virtual Museum of New France]]
+|Canadian Heritage
+|-
+|[[Canadian Museum for Human Rights]]
+|Canadian Heritage
+|-
+|[[Canadian Museum of Immigration at Pier 21]]
+|Canadian Heritage
+|-
+|[[Canadian Museum of Nature]]
+|Canadian Heritage
+|-
+|[[Canadian Race Relations Foundation]]
+|[[Citizenship and immigration canada|Canadian Heritage]]
+|-
+|[[Canadian Tourism Commission]]
+|Industry
+|-
+|[[Corporation for the Mitigation of Mackenzie Gas Project Impacts]]
+|[[Crown–Indigenous Relations and Northern Affairs Canada]]
+|-
+|[[Defence Construction Canada|Defence Construction Ltd.]]
+|Public Works and Government Services
+|-
+|[[Enterprise Cape Breton Corporation]]
+|[[Atlantic Canada Opportunities Agency]]
+|-
+|[[Export Development Canada]]
+|Global Affairs
+|-
+|[[Farm Credit Canada]]
+|Agriculture and Agri-Food
+|-
+|[[Federal Bridge Corporation Limited|Federal Bridge Corporation Ltd]]
+|Transport
+|-
+|[[Freshwater Fish Marketing Corporation]]
+|[[Fisheries and Oceans Canada|Fisheries and Oceans]]
+|-
+|[[Great Lakes Pilotage Authority]]
+|Transport
+|-
+|[[Ingenium]]
+
+* [[Canada Science and Technology Museum]]
+|Canadian Heritage
+|-
+|[[International Development Research Centre]]
+|Global Affairs
+|-
+|[[Laurentian Pilotage Authority]]
+|Transport
+|-
+|[[Marine Atlantic]]
+|Transport
+|-
+|[[National Arts Centre|National Arts Centre Corporation]]
+|Canadian Heritage
+|-
+|[[National Capital Commission]]
+|Global Affairs
+|-
+|[[National Gallery of Canada]]
+|Canadian Heritage
+|-
+|[[Old Port of Montreal Corporation]]
+|Public Works and Government Services
+|-
+|[[Pacific Pilotage Authority]]
+|Transport
+|-
+|[[Downsview Park|Parc Downsview Park Inc.]]
+|Public Works and Government Services
+|-
+|[[Public Sector Pension Investment Board]]
+|[[Treasury Board of Canada|Treasury Board]]
+|-
+|[[Royal Canadian Mint]]
+|Finance
+|-
+|[[Standards Council of Canada]]
+|Industry
+|-
+|[[Telefilm Canada]]
+|Canadian Heritage
+|-
+|[[VIA Rail Canada Inc.]]
+*[[Alto (high-speed rail)]]
+|Transport
+|-
+|[[Windsor–Detroit Bridge Authority]]
+|Infrastructure
+|-
+|}
+
+== List of provincial Crown corporations ==
+{{Incomplete list|date=August 2008}}
+
+=== Alberta===
+In Alberta, the term ''[[public agency]]'' is used to describe "boards, commissions, tribunals or other organizations established by government, but not part of a government department."<ref>{{cite web |title=How the Alberta government works |url=https://www.alberta.ca/how-government-works.aspx |website=Government of Alberta |access-date=6 March 2020 |language=en-CA}}</ref>
+
+* [[Agriculture Financial Services Corporation]]
+* [[Alberta Capital Finance Authority]] (ACFA)
+* Alberta Enterprise Corporation (AEC)
+* [[Alberta Foundation for the Arts]] (AFA)
+* [[Alberta Gaming, Liquor and Cannabis Commission]] (AGLC)
+* Alberta Indigenous Opportunities Corporation 
+* [[Alberta Research Council|Alberta Innovates]] (AI)
+* [[Alberta Investment Management Corporation]] (AIMCo)
+* [[Alberta Pensions Services Corporation]]
+* [[Alberta Petroleum Marketing Commission]] (APMC)
+* [[Alberta Securities Commission]]
+* Alberta Social Housing Corporation 
+* [[ATB Financial|Alberta Treasury Branches]] (ATB Financial)
+* [[Canadian Energy Centre]]
+* [[Credit Union Deposit Guarantee Corporation (Alberta)]] (CUDGC)
+* Heritage Fund Opportunities Corporation
+* Invest Alberta Corporation (IAC)
+* [[Royal Alberta Museum]] (RAM)
+* [[Travel Alberta]]
+
+=== British Columbia ===
+{{Main|List of British Columbia Government Agencies and Crown Corporations|l1 = List of crown corporations in British Columbia}}
+* [[BC Assessment Authority]]
+* [[B.C. Council for International Education]]
+* [[BC Games Society]]
+* [[British Columbia Housing Management Commission]] (BC Housing)
+* [[BC Hydro]] (formed in 1961) — took over the assets of the [[British Columbia Electric Railway]].
+* [[BC Immigrant Investment Fund]]
+* [[BC Infrastructure Benefits]] (BCIB)
+* [[BC Innovation Council]] (BCIC)
+* [[BC Lottery Corporation]]
+* [[BC Liquor Distribution Branch]]
+** [[BC Liquor Stores]]
+** [[BC Cannabis Stores]]
+* [[BC Pavilion Corporation]] — originally created to manage the BC Pavilion during [[Expo 86]], PavCo operates [[BC Place Stadium]] and the [[Vancouver Convention Centre]].<ref>[http://www.bcpavco.com/ BC Pavilion Corporation Official website]</ref>
+* [[BC Pension Corporation]]
+* [[BC Transit]]
+* [[BC Transportation Financing Authority]]
+* [[British Columbia Investment Management Corporation]] ({{proper name|bcIMC}})
+* [[British Columbia Public School Employers' Association]]
+* [[BC Rail|British Columbia Railway Company]]
+* [[British Columbia Securities Commission]]
+* [[Columbia Basin Trust]]
+* [[Columbia Power Corporation]]
+* [[Community Living BC]]
+* [[Community Social Services Employers' Association]]
+* [[Creston Valley Wildlife Management Area]]
+* [[Crown Corporations Employers' Association]]
+* [[Destination BC]]
+* [[First Peoples' Cultural Council]]
+* [[Forestry Innovation Investment]]
+* [[Health Employers Association of British Columbia]]
+* [[Industry Training Authority]]
+* [[Insurance Corporation of British Columbia]] (ICBC; formed in 1973)
+* [[Knowledge Network]]
+* [[Legal Services Society]]
+* [[Nechako-Kitamaat Development Fund Society]]
+* [[Oil and Gas Commission]] (formed in 1998)
+* [[Organized Crime Agency of British Columbia]]
+* [[Pacific Carbon Trust]]
+* [[Partnerships British Columbia Inc.]]
+* [[Post-secondary Employers' Association of British Columbia]]
+* [[Private Career Training Institutions Agency]]
+* [[Royal British Columbia Museum]] (RBCM)
+* [[Transportation Investment Corporation]] (formed in 2008)
+
+=== Manitoba ===
+Crown corporations in [[Manitoba]] are supported by [[Manitoba Crown Services]].<ref>{{Cite web|title=Crown Services {{!}} Province of Manitoba|url=https://www.gov.mb.ca/cs/|access-date=2021-05-19|website=Province of Manitoba – Crown Services|language=en}}</ref>
+* [[Efficiency Manitoba]]
+* [[Manitoba Agricultural Services Corporation]]<ref>{{Cite web|title=Manitoba Agricultural Services Corporation (MASC)|url=https://www.masc.mb.ca/masc.nsf/index.html?OpenPage|access-date=2021-05-19|website=www.masc.mb.ca}}</ref>
+* [[Manitoba Arts Council]]
+* [[Manitoba Sport, Culture and Heritage#Agencies, Boards, and Commissions|Combative Sports Commission]] (formerly Manitoba Boxing Commission) 
+* [[Manitoba Film and Sound|Manitoba Film and Music]]
+* Manitoba Housing and Renewal Corporation
+* [[Manitoba Hydro]]
+** [[Centra Gas Manitoba]]
+* [[Manitoba Liquor & Lotteries Corporation]] 
+* [[Manitoba Public Insurance|Manitoba Public Insurance Corporation]]
+
+=== New Brunswick ===
+* [[Atlantic Lottery Corporation]]
+* Financial and Consumer Services Commission<ref>[https://fcnb.ca/ Financial and Consumer Services Commission]</ref>
+* [[NB Power]]
+* [[New Brunswick Liquor Corporation]]
+* [[Service New Brunswick]]
+* [[New Brunswick Community College]]
+* [[New Brunswick Investment Management Corporation]]
+* [[WorkSafeNB]]
+
+=== Newfoundland and Labrador ===
+* [[Churchill Falls (Labrador) Corporation Limited]]
+* [[Heritage Foundation of Newfoundland and Labrador]]
+* [[Nalcor Energy]]
+* [[Newfoundland and Labrador Film Development Corporation]]
+* [[Newfoundland and Labrador Hydro]]
+* [[Newfoundland and Labrador Housing Corporation]]
+* [[Newfoundland and Labrador Liquor Corporation]]
+* [[Defence Construction Canada]]
+
+=== Nova Scotia ===
+* [[Art Gallery of Nova Scotia]]
+* [[Build Nova Scotia]] (formerly Waterfront Development Corporation Limited)
+* [[Film and Creative Industries Nova Scotia]]
+* [[Halifax Convention Centre Corporation]] (operating as Events East Group)
+* [[Halifax-Dartmouth Bridge Commission]]
+* [[Harbourside Commercial Park Inc.]] (HCPI)
+* [[Highway 104 Western Alignment Corporation]] — created by statute but independent of government
+* [[Innovacorp]]
+* [[Nova Scotia Arts Council]]
+* [[Nova Scotia Beef Commission]]
+* [[Nova Scotia Business Incorporated]]
+* [[Nova Scotia Crop and Livestock Insurance Commission]]
+* [[Nova Scotia Farm Loan Board]]
+* [[Nova Scotia Fisheries & Aquaculture Loan Board]]
+* [[Nova Scotia Film Development Corporation]]
+* [[Nova Scotia Gaming Corporation]]
+* [[Nova Scotia Harness Racing Incorporated]]
+* [[Nova Scotia Housing Development Corporation]]
+* [[Nova Scotia Lands Incorporated]] (NSLI)
+* [[Nova Scotia Liquor Corporation]] (NSLC)
+* [[Nova Scotia Municipal Finance Corporation]] (NSMFC)
+* [[Nova Scotia Power Finance Corporation]]
+* [[Nova Scotia Provincial Housing Agency]]
+* [[Nova Scotia Resources Limited]]
+* [[Perennia Food and Agriculture Inc.]]
+* [[Renova Scotia Bioenergy Inc.]] (former [[Bowater Mersey]] assets)
+* [[Rockingham Terminal Inc.]]
+* [[Sydney Environmental Resources Limited]]
+* [[Tidal Power Corporation]]
+* [[Tourism in Nova Scotia|Tourism Nova Scotia]]
+
+=== Ontario ===
+<!-- Moved from [[Crown agency (Ontario)]] -->Crown corporations in [[Ontario]] are referred to as ''Crown agencies''. A '''Crown agency''' includes any board, commission, railway, public utility, university, factory, company or agency that is established or operated by the [[Monarchy in Ontario|King in Right of Ontario]] or the [[Government of Ontario]], or under the authority of the [[Legislative Assembly of Ontario|Legislature]] or the [[Lieutenant Governor of Ontario|Lieutenant Governor]]-in-Council.<ref name="CrownAgencyAct">''[http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_90c48_e.htm Crown Agency Act]'', R.S.O. 1990, c. 48.</ref>
+* [[Agricultural Research Institute of Ontario]]
+* [[Education Quality and Accountability Office]]
+* [[Financial Services Regulatory Authority of Ontario]]
+* [[TFO|GroupeMédia TFO]]
+* [[Independent Electricity System Operator]]
+* [[Infrastructure Ontario]]<ref>{{Cite web|url=https://infrastructureontario.ca/About-Infrastructure-Ontario/|title = About Infrastructure Ontario}}</ref>
+* [[Liquor Control Board of Ontario]]
+* [[McMichael Canadian Art Collection]]
+* [[Metrolinx]]
+* [[Municipal Property Assessment Corporation]]
+* [[Niagara Escarpment Commission]]
+* [[Niagara Parks Commission]]
+* [[Northern Ontario Heritage Fund]]
+* [[Ontario Agricorp]]
+* [[Public Health Ontario|Ontario Agency for Health Protection and Promotion]]
+* [[Ontario Cannabis Retail Corporation]]
+* [[Ontario Clean Water Agency]]
+* [[TVOntario|Ontario Educational Communications Authority]]
+* [[Ontario Lottery and Gaming Corporation]]
+* [[Ontario Northland Transportation Commission]]
+* [[Ontario Health]]
+* [[Ontario Power Generation]]
+* [[Ontario Science Centre]]
+* [[Ontario Securities Commission]]
+* [[Owen Sound Transportation Company]]<ref>{{Cite web |title=Owen Sound Transportation Company Limited 2018/19 Annual Report |url=https://www.ontarioferries.com/agyhekre/2020/09/OSTC-Annual-Report-2018_19_FINAL_0819-1.pdf |access-date=2024-06-23 |website=ontarioferries.com}}</ref>
+* [[Royal Ontario Museum]]
+* [[Science North]]
+* [[St. Lawrence Parks Commission]]
+* [[Trilcor Correctional Industries]]
+* [[Workplace Safety and Insurance Board]]
+
+=== Prince Edward Island ===
+{{Main|List of Prince Edward Island Government Agencies and Crown Corporations}}
+
+* [[Charlottetown Area Development Corporation]]
+* [[Innovation PEI]]
+* [[Island Investment Development Inc.]]
+* [[P.E.I. Student Financial Assistance Corporation]]
+* [[Island Waste Management Corporation]]
+* [[P.E.I. Aquaculture and Fisheries Research Initiative Inc.]]
+* [[Prince Edward Island Agricultural Insurance Corporation]]
+* [[Prince Edward Island Energy Corporation]]
+* [[Prince Edward Island Grain Elevators Corporation]]
+* [[Prince Edward Island Liquor Control Commission]]
+* [[Prince Edward Island Self-Insurance and Risk Management Fund]]
+* [[Summerside Regional Development Corporation]]
+
+===Quebec===
+* [[Autorité des marchés financiers (Quebec)|Autorité des marchés financiers]]
+* [[Bibliothèque et Archives nationales du Québec]]
+* [[Caisse de dépôt et placement du Québec]]
+* [[Héma-Québec]]
+* [[Hydro-Québec]]
+* [[Investissement Québec]]
+* [[Loto-Québec]]
+* [[Mobilité Infra Québec]]
+* [[RECYC-QUÉBEC]]
+* [[Revenu Québec]]
+* [[Retraite Québec]]
+* [[Société de développement de la Baie-James]]
+* [[Place des Arts|Société de la Place des Arts de Montréal]]
+* [[Télé-Québec|Société de télédiffusion du Québec]]
+* [[Société de l'assurance automobile du Québec]]
+* [[Société des alcools du Québec]]
+* [[Société des établissements de plein air du Québec]]
+* [[Société des traversiers du Québec]]
+* [[Société québécoise des infrastructures]]
+* [[Société québécoise du cannabis]]
+* [[Centre des congrès de Québec|Société du Centre des congrès de Québec]]
+* [[Grand Théâtre de Québec|Société du Grand Théâtre de Québec]]
+* [[Palais des congrès de Montréal|Société du Palais des congrès de Montréal]]
+
+
+=== Saskatchewan ===
+* [[Crown Investments Corporation|Crown Investments Corporation of Saskatchewan]] (CIC)
+* [[eHealth Saskatchewan]]
+* [[Financial and Consumer Affairs Authority]]
+* [[Global Transportation Hub]] (GTH)
+* [[Municipal Financing Corporation of Saskatchewan]] (MFC)
+* [[Saskatchewan Association of Rehabilitation Centres]] (SARC)
+* [[SaskAbilities]]
+* [[Saskatchewan Distance Learning Corporation]] (DLC)
+* [[Saskatchewan Government Insurance]] (SGI)
+* [[Saskatchewan Housing Corporation]] (SHC)
+* [[Saskatchewan Liquor and Gaming Authority]] (SLGA)
+* [[Saskatchewan Opportunities Corporation]] (SOCO)
+* [[Saskatchewan Public Safety Agency]]
+* [[Saskatchewan Research Council]] (SRC)
+* [[SaskBuilds]]
+* [[SaskEnergy]]
+* [[SaskGaming]]
+* [[SaskPower]]
+* [[SaskTel]]
+* [[SaskWater]]
+* [[Tourism Saskatchewan]]
+* [[Saskatchewan Water Security Agency|Water Security Agency]]
+* [[SaskNuclear]]
+
+== List of territorial Crown corporations ==
+=== Northwest Territories ===
+* [[Northwest Territories Hydro Corporation]]
+* [[Northwest Territories Power Corporation]]
+* [[Northwest Territories Business Development and Investment Corporation|NWT Business Development and Investment Corporation]]
+* [[NWT Housing Corporation]]
+* [[Aurora College]]
+
+=== Nunavut ===
+* [[Qulliq Energy]]
+* [[Nunavut Arctic College]]
+
+=== Yukon ===
+* [[Yukon Arts Centre]]
+* [[Yukon Energy]]
+* [[Yukon Hospital Corporation]]
+* [[Yukon Liquor Corporation]]
+
+== Former Crown corporations ==
+{{See also|Category:Former Crown corporations of Canada|List of privatizations#Canada|l2=List of privatizations}}
+
+Several private Canadian companies were once Crown corporations, while others have gone defunct.<ref name="CBC" />
+{| class="wikitable"
+|+Former Crown corporations, privatized or defunct
+!Company<ref name="CBC" />
+!Privatized/defunct (year)
+!Former jurisdiction
+!Notes
+|-
+|[[Air Canada]]
+|privatized (1988)
+|federal
+|
+|-
+|[[Alberta Government Telephones]] / [[BCTel]]
+|privatized
+|AB; BC
+|now [[Telus Communications]]
+|-
+|[[BC Ferries]]
+|restructured (2003)<ref>{{Cite web |date=March 26, 2003 |title=Bill 18 – 2003: Coastal Ferry Act |url=https://www.leg.bc.ca/Pages/BCLASS-Legacy.aspx#%2Fcontent%2Flegacy%2Fweb%2F37th4th%2F3rd_read%2Fgov18-3.htm |access-date=March 17, 2023 |website=Legislative Assembly of British Columbia |language=en}}</ref>
+|BC
+|restructured in 2003 as an independently-''managed'' corporation, though the provincial government still indirectly owns BC Ferries through the [[B.C. Ferry Authority|BC Ferry Authority]].
+|-
+|[[BC Rail]]
+|most operations leased to [[Canadian National Railway]] between 2004 and 2064
+|BC
+|
+|-
+|[[BC Rail Communications]]
+|privatized (1993)
+|BC
+|formed in 1972 and sold in 1993 as Westel
+|-
+|[[Blue Water Bridge Authority]]
+|defunct (2015
+|federal
+|amalgamated with St. Mary's River Bridge Company to form the [[Federal Bridge Corporation|Federal Bridge Corporation Limited]],
+|-
+|[[British Columbia Electric Railway]]
+|privatized
+|BC
+|private company from 1891 to 1961, when it was nationalized and formed into [[BC Hydro]] before the rail portion was sold in 1989
+|-
+|[[British Columbia Resources Investment Corporation]]
+|defunct (1997)
+|BC
+|
+|-
+|[[Canada Employment Insurance Financing Board]] (CEIFB)
+|
+|
+|
+|-
+|[[Canadair]]
+|privatized (1946; 1986)
+|federal
+|formed as a Crown corporation in 1944; privatized in 1946 (sold to [[Electric Boat Company]]); re-acquired by government in 1976; privatized in 1986 (sold to [[Bombardier Inc.]] and merged into [[Bombardier Aerospace]] in 1989)
+|-
+|[[Canadian National Railway]]
+|privatized (1995)
+|federal
+|
+|-
+|[[Cape Breton Growth Fund Corporation]]
+|
+|
+|
+|-
+|[[Clairtone|Clairtone Sound Corporation Limited]]
+|defunct
+|NS
+|
+|-
+|[[CTV Two Alberta]]
+|privatized (1995)
+|AB
+|formed in 1973; formerly Access TV and Alberta Educational Communications Corporation
+|-
+|[[de Havilland Canada (1928–1986)|de Havilland Canada]]
+|privatized (1986)
+|federal
+|formed as a private company in 1928, nationalized during World War II, then privatized in 1986
+|-
+|[[Eldorado Mining and Refining Limited|Eldorado Nuclear Limited]] (previously [[Eldorado Resources]])
+|privatized
+|federal
+|merged with the [[Saskatchewan Mining Development Corporation]] and privatized into [[Cameco Corporation]]
+|-
+|[[Enterprise Cape Breton Corporation]]
+|
+|
+|
+|-
+|[[Hydro One]]
+|privatized (2016)
+|ON
+|
+|-
+|[[Industrial Estates Limited]]
+|
+|NS
+|
+|-
+|[[Intercolonial Railway]]
+|defunct (1918)
+|
+|merged into the [[Canadian National Railway]]
+|-
+|[[Manitoba Telephone System]]
+|privatized (1996)
+|MB
+|now Bell MTS; formerly MTS and MTS Allstream
+|-
+|[[Northern Transportation Company Limited]]
+|
+|federal
+|
+|-
+|[[Nova Scotia Agricultural College]]
+|
+|NS
+|now merged into [[Dalhousie University]]
+|-
+|[[Nova Scotia Power]]
+|1992
+|NS
+|formed in 1918
+|-
+|[[Ontario Highway 407]]
+|1999
+|ON
+|
+|-
+|[[Petro-Canada]]
+|privatized (1991)
+|federal
+|
+|-
+|[[Polymer Corporation]]
+|
+|
+|
+|-
+|[[Potash Corporation of Saskatchewan]] (PCS)
+|privatized (1989)
+|SK
+|
+|-
+|[[PPP Canada]]
+|2018
+|federal
+|
+|-
+|Ridley Terminals
+|privatized (2019)
+|BC
+|privatized in 2019. Company name change in 2022 to Trigon Pacific Terminals
+|-
+|[[Saskatchewan Communications Network]]
+|
+|SK
+|
+|-
+|[[Norcanair|Saskatchewan Government Airways]]
+|
+|SK
+|
+|-
+|[[Saskatchewan Minerals]]
+|
+|SK
+|
+|-
+|[[Saskatchewan Mining Development Corporation]]
+|privatized
+|SK
+|merged with the federally owned [[Eldorado Mining and Refining Limited|Eldorado Nuclear Limited]] (formerly Eldorado Mining and Refining) and privatized into [[Cameco Corporation]]
+|-
+|[[Saskatchewan Oil & Gas Corporation]]
+|
+|SK
+|
+|-
+|[[SPUDCO]]
+|
+|
+|
+|-
+|[[Sydney Steel Corporation]]
+|dormant
+|NS
+|dormant; remediation and redevelopment of former SYSCO estates now conducted by NSLI and HCPI.<ref>{{cite web|title=Sydney Steel Corporation Business Plan 2011–2012|url=https://novascotia.ca/finance/site-finance/media/finance/budget2011/Crown_Corp_Business_Plans.pdf|access-date=15 April 2014|publisher=Sydney Steel Corporation|quote=The plan for Sysco during the 2011–2012 fiscal year is to continue to wind up activities and have the corporation remain dormant.}}</ref>
+|-
+|[[Teleglobe]]
+|1987 
+|
+|formed in 1950; privatized in 1987 (to Memotec, later to [[BCE Inc.|BCE]] and finally [[VSNL International Canada|VSNL]]) and absorbed into [[Tata Communications|Tata]] operations in Canada
+|-
+|[[Telesat]]
+|
+|
+|
+|-
+|[[Tourism British Columbia]]
+|
+|BC
+|formed in 1997
+|-
+|[[Trade Centre Limited]]
+|2017-2019
+|NS
+|succeeded by [[Halifax Convention Centre Corporation]]
+|-
+|[[TrentonWorks]]
+|
+|NS
+|sold to [[Daewoo Shipbuilding & Marine Engineering|Daewoo]]
+|-
+|[[Wascana Energy]]
+|
+|
+|
+|}
+
+== See also ==
+* [[Canada Development Corporation]]
+* [[Structure of the Canadian federal government]]
+* [[Nationalization]]
+* [[Executive agency]]
+* [[Statutory corporation]], a term used in many [[Commonwealth of Nations|Commonwealth]] countries
+* [[Crown entity]], equivalent bodies in New Zealand
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* [https://web.archive.org/web/20070311060236/http://www.tbs-sct.gc.ca/report/CROWN/01/cc-se-01-4_e.asp Treasury Board of Canada Secretariat: 2001 Annual Report To Parliament – Crown Corporations and Other Corporate Interests of Canada] (archived 11 March 2007)
+* [https://web.archive.org/web/20080227200820/http://www.pch.gc.ca/pc-ch/mindep/perf/97-98/english.pdf Canadian Heritage Performance Report; March 31, 1998] (archived 27 February 2008)
+* [https://web.archive.org/web/20110611151926/http://www.tbs-sct.gc.ca/reports-rapports/cc-se/2007/cc-se-eng.pdf Treasury Board of Canada Secretariat: 2007 Annual Report to Parliament – Crown Corporations and other Corporate Interests of Canada] (archived 11 June 2011)
+
+== External links ==
+* [http://www.canada.gc.ca/depts/major/depind-eng.html List of Departments and Agencies of the Government of Canada]
+
+{{Canadian monarchy}}
+{{Crown corporations of Canada}}
+{{State-owned enterprises by country|North America}}
+{{Politics of Canadian provinces}}
+
+{{DEFAULTSORT:Crown Corporations Of Canada}}
+[[Category:Crown corporations of Canada| ]]
+[[Category:Monarchy of Canada]]
+[[Category:Lists of companies of Canada]]

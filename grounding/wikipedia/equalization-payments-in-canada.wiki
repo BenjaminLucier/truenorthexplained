@@ -1,0 +1,523 @@
+{{Short description|Payments from federal to provincial governments}}
+{{Use mdy dates|date=July 2021}}
+{{Canadian transfer payments}}
+
+In [[Canada]], the [[federal government]] makes [[equalization payments]] to [[Canadian provinces|provincial governments]] of lesser [[fiscal capacity]] so that "reasonably comparable" levels of public services can be provided at similar levels of taxation.<ref name="GC_FIN_20111219">{{Cite web|url=https://www.fin.gc.ca/fedprov/eqp-eng.asp|title=Equalization Program|work=Department of Finance, Government of Canada|access-date=May 25, 2019|date=December 19, 2011|archive-date=May 13, 2019|archive-url=https://web.archive.org/web/20190513123108/https://www.fin.gc.ca/fedprov/eqp-eng.asp|url-status=dead}}</ref>  Equalization payments are entrenched in the [[Canada Act 1982|Constitution Act of 1982]], subsection 36(2).<ref>{{cite web|author= Government of Canada|date=1982|title=Constitution Act 1982, Canadian Charter of Rights and Freedoms, 1982 |url=https://laws-lois.justice.gc.ca/eng/const/page-13.html#h-54 |publisher=Canada Justice Laws Website|access-date= March 16, 2023|quote=Parliament and the government of Canada are committed to the principle of making equalization payments to ensure that provincial governments have sufficient revenues to provide reasonably comparable levels of public services at reasonably comparable levels of taxation.}}</ref>
+
+The program is financed through the federal government's general revenues, which are largely sourced from federal taxes. In strict terms, provincial governments make no contributions.<ref>{{cite web|author=Government of Canada|title=Equalization Program|url=https://www.canada.ca/en/department-finance/programs/federal-transfers/equalization.html |access-date=March 16, 2023 |date=December 19, 2011}}</ref> However, the provinces have ceded their legal exclusive right under the Constitution to certain fields of direct taxation (e.g. income tax), in whole or in part, to the federal government which provides the funding for equalization.<ref>{{Cite web |last=Bélanger |first=Claude |title=Quebec History |url=http://faculty.marianopolis.edu/c.belanger/quebechistory/federal/taxrent.htm |access-date=2025-03-28 |website=faculty.marianopolis.edu}}</ref>
+
+Payment amounts are decided relative to a province's estimated [[fiscal capacity]], or ability to generate tax revenues. A province that does not receive equalization payments is often referred to as a "have province", while one that does is called a "have-not province".<ref>{{cite news |last1=Abedi |first1=Maham |title=Equalization payments — how they work |url=https://globalnews.ca/news/4290676/equalization-payments-canada-provinces/ |access-date=April 20, 2020 |agency=Global News |publisher=Global News |date=June 22, 2018}}</ref>
+
+The equalization program is one significant example of [[Canadian transfer payments|transfer payments]] from the federal to the provincial governments. The [[Canada Health Transfer]] (CHT) and the [[Canada Social Transfer]] (CST) are also notably large transfer programs.<ref>{{cite web|author=Government of Canada|title=Federal transfers to provinces and territories|url=https://www.canada.ca/en/department-finance/programs/federal-transfers.html |access-date=March 16, 2023 |date=August 29, 2019}}</ref> The federal government spends hundreds of billions of dollars across Canada to deliver programs and services; of the $480.5{{Citation needed|date=September 2025}} budgeted for federal expenditures (exclusive of public debt charges) in 2024–25, major federal transfers to all provinces and territories totalled $99.4&nbsp;billion, including $25.3&nbsp;billion in equalization payments to seven provinces.<ref>{{Cite web |author=<!--not stated or generic "Staff"--> |title=Major federal transfers |publisher=[[Department of Finance Canada]] |date=2025-09-24 |url=https://www.canada.ca/en/department-finance/programs/federal-transfers/major-federal-transfers.html |access-date=2025-09-24}}</ref>
+
+[[Territories of Canada|The territories]] are not included in the equalization program. Federal funding for them is instead provided through the [[Territorial Formula Financing]] (TFF) program.
+
+==History==
+===Predecessors===
+A mechanism for the Canadian federal government to provide funds through [[transfer payments]] to the provinces has existed since [[Canadian Confederation]], and was first enshrined in the ''[[Constitution Act, 1867]]'' Section 119 as a mechanism for the new federal government to provide further grants to the province of New Brunswick. The Constitution itself enshrines the federal government with significantly greater taxation authorities in Section 91, which is "''The raising of Money by any Mode or System of Taxation''", while the legislatures of the provinces are limited to "''Direct Taxation within the Province in order to the raising of a Revenue for Provincial Purposes''".
+
+===Current system (1957)===
+A formal system of equalization payments was first introduced in 1957.<ref name="LOP_Édison_20130904">{{cite report |first1=Édison |last1=Roy-César |first2=Michaël |last2=Lambert-Racine |title=Canada's Equalization Formula |location=Ottawa |publisher=[[Library of Parliament]] |date=2024-09-12 |series=HillStudies<!--no space, this is the actual series name--> |volume=2008-20-E |url=https://lop.parl.ca/staticfiles/PublicWebsite/Home/ResearchPublications/HillStudies/PDF/2008-20-E.pdf |access-date=2025-09-24 |quote=''[note: Roy-César wrote 2008 original and 2013 update/revision, Lambert-Racine updated and revised in 2024]''}}</ref><ref group="Notes">The idea was based on the proposals of American [[economist]] [[James M. Buchanan]] and they were introduced mainly to help the struggling [[Atlantic provinces]] who were seeing low rates of growth and high rate of emigration to central Canada.</ref>
+
+The original program had the goal of giving each province the same per-capita revenue as the two wealthiest provinces, Ontario and British Columbia, in three tax bases: personal income taxes, corporate income taxes and succession duties (inheritance taxes).
+
+====Extension of the tax base (1962–1967)====
+In 1962, 50% of natural resource revenues were included as a fourth tax base.  At the same time, however, the standard of the two wealthiest provinces was lowered to the national average.
+
+In 1967 the system was redesigned to work with every government revenue scheme with the exception of energy; this gave Canada the world's most generous system of equalization payments.
+
+====Growing imbalances caused by energy prices (1970s)====
+The rise in energy prices and the resulting increase in provincial natural resource royalties in the late 1970s created several problems for the equalization formula. The need for amendments to the formula became clear when the traditional "have" province of Ontario qualified for equalization payments in 1978. This result went against the spirit of the system and would have led to substantial costs for the federal government; it was agreed that Ontario should be excluded from receiving payments.<ref group="Notes">This was achieved by specifying that any province with income per capita above national average was to be disqualified to receive equalization payments.</ref> Multiple changes were made to the Equalization program in the late 1970s and early 1980s:<ref>{{cite book |author1=Department of Finance |author1-link=Department of Finance (Canada) |title=Federal-Provincial Fiscal Arrangements in the Eighties |date=23 April 1981 |publisher=Government of Canada |location=Ottawa |page=70 |url=https://publications.gc.ca/collections/collection_2016/fin/F2-52-1981-eng.pdf |access-date=13 September 2021 |language=en }}</ref>
+* In 1974, the revenues levied by local governments for school taxes were brought into the fiscal capacity calculation;
+* In 1975, {{frac|2|3}} of the ''windfall revenues''<ref group="Notes">This was defined as all revenues related to oil and gas in excess of 1973-74 levels.</ref> caused by the [[1973 oil crisis]] were excluded from the calculation;
+* In 1977 local taxes were fully included in the tax base calculation;{{sfn|Feehan|2014|p=2}}
+* The concept of ''windfall revenues'' was dropped in 1978 and replaced by a {{frac|1|2}} inclusion factor for all revenues of non-renewable resources;
+*  In 1982, the equalization standard was shifted from the national average to the average of five representative provinces (British Columbia, Saskatchewan, Manitoba, Ontario, and Quebec).
+
+====Inclusion of the program in the Constitution (1982)====
+The [[Canada Act 1982]], which amended the [[Constitution of Canada|constitution]], included the rights of the poorer provinces to equalization payments by including the following provision:
+{{Blockquote
+|text=Parliament and the government of Canada are committed to the principle of making equalization payments to ensure that provincial governments have sufficient revenues to provide reasonably comparable levels of public services at reasonably comparable levels of taxation.
+|source=[[Constitution Act, 1982]], s. 36(2)<ref name="GC_FIN_20111219"/>
+}}
+With this level of protection, equalization payments cannot "suddenly be axed".
+
+From 1983–84 to 2014, about 22 per cent of the federal government's spending went towards transfers to provincial and territorial governments.{{sfn|Nadeau|2014|p=16}}
+
+====Tentatives of reforms (2000s)====
+In 2004, the federal government and the provinces agreed to suspend the traditional formula that determined payment amounts and move to fixed funding levels, which were scheduled to grow at a fixed rate – regardless of the economic performance of the provinces.
+
+In March 2005, during the brief premiership of [[Paul Martin]], [[Minister of Finance (Canada)|Finance Minister]] [[Ralph Goodale]] established an expert panel, chaired by Al O'Brien—a former [[Government of Alberta]] deputy minister—to produce a report to review Canada's Equalization program and [[Territorial Formula Financing]] (TFF).<ref name="GC_EPE_OBrien_2006">{{Cite report| publisher = Expert Panel on Equalization and Territorial Formula Financing| isbn = 978-0-662-42569-4|oclc=70544257| last = O'Brien| first = Al| title = Achieving a national purpose: putting equalization back on track: executive summary| location = Ottawa| access-date = September 23, 2020| date = 2006| url = http://epe.lac-bac.gc.ca/100/200/301/finance/achieving_purpose-e/F2-176-2006-1E.pdf}}</ref><ref name="GC_MoF_200503">{{Cite web| last = Canada| first = Employment and Social Development| title = Minister of Finance Announces Members of Expert Panel on Equalization and Territorial Formula Financing| work = gcnws| format = news releases| access-date = September 23, 2020| date = March 21, 2005| url = https://www.canada.ca/en/news/archive/2005/03/minister-finance-announces-members-expert-panel-equalization-territorial-formula-financing.html}}</ref> The comprehensive report by the Expert Panel on Equalization and Territorial Formula Financing, was tabled in 2006.<ref name="GC_EPE_OBrien_2006"/><ref name="GC_DoF_Flaherty_2007"/>
+
+Following the [[2006 Canadian federal election]], the newly elected [[Conservative Party of Canada|Conservative Party]] led by [[Stephen Harper]] committed to a "renewed and strengthened Equalization program", as outlined in the [[2006 Canadian federal budget]] entitled, "Restoring Fiscal Balance in Canada".<ref name="GC_DoF_Flaherty_2007">{{Cite report| publisher = Department of Finance| isbn = 978-0-660-19711-1| last1 = Flaherty| first1 = James M.| last2 = Canada| last3 = Department of Finance| title = The budget plan 2007: aspire to a stronger, safer, better Canada : Canada's new government : tabled in the House of Commons| location = Ottawa, Ontario| date = 2007 |url=https://www.budget.gc.ca/2007/pdf/bp2007e.pdf |access-date=September 23, 2020}}</ref> Based on the Al O'Brien 2006 Expert Panel on Equalization and Territorial Formula Financing report, then Minister of Finance, [[Jim Flaherty]]<ref name="GC_DoF_Flaherty_2007"/> reinstated the formula-driven calculations in the Equalization program and moved it to a standard based on the national average. A fiscal capacity cap was added to ensure that equalization-receiving provinces couldn't be raised to a fiscal capacity above that of a non-receiving province (this could potentially arise due to the partial or non-inclusion of resource revenues).<ref name="GC_EPE_OBrien_2006"/><ref name="GC_DoF_Flaherty_2007"/>
+
+This faced criticism from [[List of premiers of Newfoundland and Labrador|Premier of Newfoundland and Labrador]], [[Danny Williams (Canadian politician)|Danny Williams]], who criticized the Conservative government of breaking their promise of not changing the current formula. This led to the [[Anything But Conservative]] movement.<ref>{{cite news|url=https://www.cbc.ca/news/canada/newfoundland-labrador/n-l-shafted-in-federal-budget-williams-1.660092|title=N.L. 'shafted' in federal budget: Williams|date=March 20, 2007|work=[[CBC News]]|access-date=June 2, 2024}}</ref><ref>{{Cite news|url=https://www.cbc.ca/news/canada/new-brunswick/university-professors-critical-of-n-b-s-2026-plan-1.649998|title=University professors critical of N.B.'s 2026 plan {{!}} CBC News|work=CBC|access-date=November 29, 2018|language=en-US}}</ref> In 2009, the fiscal capacity cap was modified and a ceiling and floor on aggregate payments were added.
+
+====Institution and cancellation of the TTP guarantee (2009–2014)====
+In 2009, under then-Prime Minister [[Stephen Harper]], Finance Canada created the [[Total Transfer Protection]] (TTP). The TTP was intended to be a temporary policy which would support provinces and territories "in transitioning through current economic challenges".<ref name="G&M_Curry_20131217">{{Cite news| title = Ottawa's shift leaves Ontario with $640-million less in federal transfers |newspaper=The Globe and Mail| access-date = May 25, 2019| url = https://www.theglobeandmail.com/news/politics/ontario-says-ottawa-broke-its-word-on-health-transfer-at-cost-of-300-million/article16004374/ |first1=Bill |last1=Curry |first2=Adrian |last2=Morrow |location=Ottawa/Toronto |date=December 17, 2013}}</ref> The TTP ensured that if a province experienced a total reduction in federal transfers from equalization payments, combined with [[Canada Health Transfer]] (CHT), the [[Canada Social Transfer]] (CST), the federal government would cover the loss. In 2010–11, the federal government, under then-Prime Minister [[Stephen Harper]], confirmed that every province would be guaranteed that their transfer would not be less than the previous fiscal year in combined CHT, CST, equalization and [[Territorial Formula Financing]] (TFF).{{sfn|Nadeau|2014|p=16}}{{rp|i}}<ref group="Notes">The June 19, 2014 [[Parliamentary Budget Officer]] (PBO) report was produced at" the request of a parliamentarian" with a mandate to analyze "provincial and territorial entitlements with respect to the Canada Health Transfer, the Canada Social Transfer, Equalization and Territorial Formula Financing and Total Transfer Protection for the fiscal year 2014–15, comparing them with 2013–14 levels" with a specific focus on the Equalization program.</ref> Under Harper's TTP plan, from 2010 through 2013, seven provinces, including the four Atlantic provinces, Manitoba, Saskatchewan, and Quebec received a combined total of over $2.2-billion through the TTP program.
+
+Ottawa cancelled the TTP program in 2014, a decision said to be directed at pressuring Ontario's then-incumbent Liberals by depriving them of $640 million.<ref name="G&M_Curry_20131217"/>
+
+In 2017–2018, the total amount of the Equalization program was roughly 18.3 billion [[Canadian dollar]]s.<ref name="fin.gc.ca">{{cite web|date=February 2, 2017|title=Equalization Program|url=http://www.fin.gc.ca/fedprov/mtp-eng.asp|access-date=April 13, 2018|publisher=fin.gc.ca|archive-date=November 5, 2011|archive-url=https://web.archive.org/web/20111105054451/http://www.fin.gc.ca/fedprov/mtp-eng.asp|url-status=dead}}</ref>
+
+====2019–2024 Arrangements====
+In the February 27, 2018, budget, the federal finance department proposed a five-year renewal of the previous equalization and Territorial Formula Financing (TFF)—with changes related to the territories—beginning April 1, 2019, until 2024.<ref name="GC_Budget_20180227">{{Citation |url=https://www.budget.gc.ca/2018/docs/plan/budget-2018-en.pdf |title=Equality Growth: a strong middle class |date=February 27, 2018 |first=William Francis |last=Morneau |issn=1719-7740 |work=Department of Finance, Government of Canada |pages=367 |access-date=May 25, 2019 |archive-date=May 19, 2019 |archive-url=https://web.archive.org/web/20190519140629/https://www.budget.gc.ca/2018/docs/plan/budget-2018-en.pdf |url-status=dead }}</ref> The Budget Implementation Act received royal assent on June 20, 2018.<ref name="G&M_Cryderman_20180621">{{Cite news |first=Kelly |last=Cryderman| title = Ottawa to keep provincial equalization formula as is till 2024 |work=The Globe and Mail| access-date = May 25, 2019| url = https://www.theglobeandmail.com/politics/article-ottawa-renews-equalization-formula-to-remain-in-current-form-to-2024/ |date=June 21, 2018}}</ref> The governments of [[Government of Alberta|Alberta]] and [[Government of Saskatchewan|Saskatchewan]] criticized the decision because they believed that there was no real consultation, discussion, or renegotiation on the formula.<ref name="CBC_Tombe_20180622">{{Cite news |author=Trevor Tombe |url=https://www.cbc.ca/news/canada/calgary/equalization-renewal-a-surprise-1.4717501|title=Opinion: What were they thinking?! How the equalization debate ended before it even began |work= CBC News|access-date=May 25, 2019 |date=June 22, 2018}}</ref>
+
+Under the renewed plan, the federal government will gradually increase the amount of equalization payments to the provinces from $18.3 billion in 2017–2018 to $22.1 billion by 2022–2023.<ref name="GC_Budget_20180227"/>
+
+According to the  [[Parliamentary Budget Officer]] (PBO) September 3, 2020, report, in 2018–2019 total federal transfers—which included $38.6 billion through the [[Canada Health Transfer]] (CHT), $14.2 billion through the [[Canada Social Transfer]] (CST),  and $19.0 billion through the Equalization transfer—had increased over the ten-year period from $47.1 billion in 2008–2009 to $71.7 billion, which represents an average annual increase of 4.3 per cent with an inflation adjustment of 2.7 per cent a year.<ref name="PBO_Carleigh_20200903">{{Cite report| publisher = [[Parliamentary Budget Officer]] (PBO)| pages = 29| last1 = Busby| first1 = Carleigh| last2 = Behrend| first2 = Robert| title = Federal Support Through Major Transfers To Provincial And Territorial Governments| date = September 3, 2020 |access-date=September 23, 2020| url = https://www.pbo-dpb.gc.ca/web/default/files/Documents/Reports/RP-2021-020-S/RP-2021-020-S_en.pdf}}</ref>{{rp|6}}
+
+== Equalization formula ==
+The fiscal capacity of provinces is measured using a representative tax system, a basic model of provincial and municipal tax systems, covering virtually all own-source revenues.  It is made up of estimates of provincial tax bases, actual provincial revenues and population.  By using the same tax base definition across all provinces the representative tax system can be used to compare the ability of individual provinces to raise revenues. ''Have'' provinces are those that generate more tax revenue per person than the national average, while ''have-not'' provinces have revenue per person below the national average.
+
+The individual revenue sources are grouped into five categories: personal income taxes, business income taxes, consumption taxes, up to 50 percent of natural resource revenue, and property taxes and miscellaneous.
+
+Each revenue category has a separate tax base.  Each province is allocated an "equalization entitlement" equal to the amount by which its fiscal capacity is below the average fiscal capacity of all provinces. This is known as the "10-province standard".<ref name="GC_FIN_20111219" /> Provinces who have a fiscal capacity above the 10-province standard are known as the ''have'' provinces while those below are the ''have-not'' provinces. Equalization payments are then determined based on the provinces' relation to this average. The payments are typically adjusted to ensure fairness between the provinces and are designed to provide a net fiscal benefit to receiving provinces from their resources equivalent to half of their per-capita resource revenues.<ref name="GC_FIN_20111219" /> Equalization payments are further adjusted to ensure the program aligns with the overall growth of the Canadian economy (based on a three-year moving average of GDP).<ref name="GC_FIN_20111219" />
+
+According to the Department of Finance, "provinces get the greater of the amount they would receive by fully excluding natural resource revenues, or by excluding 50% of natural resource revenues."<ref name="fin.gc.ca" />
+
+Below are equalization payments from 2010–11 to 2026–27:
+<ref name="fin.gc.ca" />
+<ref>{{cite web
+|title       = Major Federal Transfers
+|url         = https://www.canada.ca/en/department-finance/programs/federal-transfers/major-federal-transfers.html
+|website     = Department of Finance Canada
+|publisher   = Government of Canada
+|date        = 2024-12-23
+|access-date = 2025-05-28
+}}</ref>
+
+{| class="wikitable sortable" style="text-align:right;"
+|+Table A – Equalization payments to Canadian provinces
+!Province
+!2026-27
+$M
+!2025-26
+$M
+!2024-25
+$M
+!2023-24
+$M
+!2022-23
+$M
+!2021–22
+$M
+!2020–21
+$M
+!2019–20
+$M
+!2018–19
+$M
+!2017–18
+$M
+!2016–17
+$M
+!2015–16
+$M
+!2014–15
+$M
+!2013–14
+$M
+!2012–13
+$M
+!2011–12
+$M
+!2010–11
+$M
+|-
+!Quebec
+|13,907
+|13,567
+|13,316
+|14,037
+|13,666
+|13,119
+|13,253
+|13,124
+|11,732
+|11,081
+|10,030
+|9,521
+|9,286
+|7,833
+|7,391
+|7,815
+|8,552
+|-
+!Manitoba
+|5,044
+|4,689
+|4,352
+|3,510
+|2,933
+|2,719
+|2,510
+|2,255
+|2,037
+|1,820
+|1,736
+|1,738
+|1,750
+|1,792
+|1,671
+|1,666
+|1,826
+|-
+!Nova Scotia
+|3,538
+|3,465
+|3,284
+|2,803
+|2,458
+|2,315
+|2,146
+|2,015
+|1,933
+|1,779
+|1,722
+|1,690
+|1,619
+|1,458
+|1,268
+|1,167
+|1,110
+|-
+!New Brunswick
+|3,360
+|3,123
+|2,897
+|2,631
+|2,360
+|2,274
+|2,210
+|2,023
+|1,874
+|1,760
+|1,708
+|1,669
+|1,666
+|1,513
+|1,495
+|1,483
+|1,581
+|-
+!Prince Edward Island
+|723
+|666
+|610
+|561
+|503
+|484
+|454
+|419
+|419
+|390
+|380
+|361
+|360
+|340
+|337
+|329
+|330
+|-
+!Ontario
+|406
+|546
+|576
+|421
+|0
+|0
+|0
+|0
+|963
+|1,424
+|2,304
+|2,363
+|1,988
+|3,169
+|3,261
+|2,200
+|972
+|-
+!Alberta
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|-
+!British Columbia
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|-
+!Newfoundland and Labrador
+|182
+|113
+|218
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|-
+!Saskatchewan
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|-
+!Total
+|27,160
+|26,170
+|25,253
+|23,963
+|21,920
+|20,911
+|20,573
+|19,619
+|18,958
+|18,254
+|17,880
+|17,341
+|16,669
+|16,105
+|16,423
+|14,659
+|14,372
+|}
+
+In 2020 it was reported that, for the first time in 55 years, Alberta would be a net receiver (getting more federal spending than federal taxes). As a result of the [[COVID-19 pandemic in Alberta|COVID-19 pandemic]], the province took a major hit, specifically in its main resource export, oil and gas.<ref>{{cite web|title=Alberta becoming a 'have not' province doesn't change issues with federation, Kenney says|url=https://www.cbc.ca/news/canada/calgary/alberta-net-receiver-financial-transfers-1.5666387|last=Rieger|first=Sarah|publisher=CBC News|date=July 28, 2020|access-date=September 17, 2020}}</ref> However, the Department of Finance does not list Alberta as receiving payments. Prior to 1960, Alberta regularly received transfer payments.<ref>{{Cite web |url=https://business.ualberta.ca/Centres/~/media/business/Centres/WCER/Documents/Publications/155ElectronicApril2final.pdf |archiveurl=https://web.archive.org/web/20121212211321/https://business.ualberta.ca/Centres/~/media/business/Centres/WCER/Documents/Publications/155ElectronicApril2final.pdf |archive-date=2012-12-12 |url-status=dead |title=University of Alberta}}</ref>
+
+==Regional fiscal disparities in Canada==
+The gap between the "have" and "have not" provinces is an ongoing economic concern and cause of regional tensions.  Much of the gap stems from huge differences in geography, population, and economic activity among provinces, which make any attempt to "equalize" these differences challenging.  As shown in the table below, PEI's population is less than 1% of the Canadian total, while Ontario's population is close to 40%.  Alberta's GDP per capita is 41% higher than the national average while PEI's is roughly 24% lower—Alberta's GDP per capita is 185% that of PEI yet the average personal income in Alberta is 159% that of PEI.
+
+However, the stated goal of equalization in Canada is not to equalize economies or ensure that economic outcomes are equal.  As stated above, it is to "ensure that provincial governments have sufficient revenues to provide reasonably comparable levels of public services at reasonably comparable levels of taxation".   Per capita data is central to measuring if provincial outcomes are comparable.
+
+===Table D – Economic activity by province===
+{| class="wikitable sortable"
+|- style="background: #efefef;"
+! scope="col" | Province
+! scope="col" | Population (Q4/2025)
+!Share of 
+Canadian total
+
+%
+! scope="col" | GDP (CAD$ million, 2025)
+! scope="col" | GDP  per capita (CAD$, 2025)
+!GDP per capita<br />difference from<br />Canadian average
+
+%
+! scope="col" | Average  Total Income (CAD$, 2024)
+!Average total income,<br />difference from<br />Canadian average
+
+%
+!
+!
+|- align="right" bgcolor="#e6e6e6"
+| align="left" |[[File:Flag of Canada.svg|30px]] [[Canada]]||41,439,557
+|100.0%
+|2,317,441||55,923
+|0.0%||48,260
+|0.0%
+|
+|
+|- align="right"
+| align="left" |{{BC}}|| 5,683,201
+|13.7%|| 322,500 ||56,746
+| +1.5%||47,095
+| -2.4%
+|
+|
+|- align="right"
+| align="left" |{{AB}}|| 5,040,871
+|12.2%|| 361,471 ||78,100
+| +28.2%||74,237
+| +34.7%
+|
+|
+|- align="right"
+| align="left" |{{SK}}|| 1,266,234
+|3.1%|| 85,399 ||67,444
+| +20.6%||50,073
+| +3.8%
+|
+|
+|- align="right"
+| align="left" |{{MB}}|| 1,507,057
+|3.6%|| 73,418 ||48,716
+| -12.9%||43,162
+| -10.6%
+|
+|
+|- align="right"
+| align="left" |{{ON}}|| 16,191,372
+|39.1%|| 900,845 ||55,637
+| -0.5%||63,300
+| +1.7%
+|
+|
+|- align="right"
+| align="left" |{{QC}}|| 9,058,089
+|21.9%|| 450,300 ||49,713
+| -11.1%||42,081
+| -12.8%
+|
+|
+|- align="right"
+| align="left" |{{NB}}|| 868,630
+|2.1%|| 37,049 ||42,653
+| -23.7%||39,057
+| -19.1%
+|
+|
+|- align="right"
+| align="left" |{{PE}}|| 182,508
+|0.4%|| 7,937 ||43,487
+| -22.2%||39,602
+| -17.9%
+|
+|
+|- align="right"
+| align="left" |{{NS}}|| 1,091,857
+|2.6%|| 47,763 ||43,745
+| -21.8%||41,756
+| -13.5%
+|
+|
+|- align="right"
+| align="left" |{{NL}}|| 549,738
+|1.3%|| 30,759 ||55,952
+| +0.1%||45,343
+| -6.0%
+|
+|
+|}
+
+{{refbegin|}}
+Source: [[Statistics Canada]]: GDP (totals),<ref>{{Cite web|url=https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610040201&pickMembers%5B0%5D=2.2&pickMembers%5B1%5D=3.1|title=Table 36-10-0402-01 – Gross domestic product (GDP) at basic prices, by industry provinces and territories|last=Canada|first=Government of Canada, Statistics|website=www5.statcan.gc.ca|date=December 14, 2012|access-date=October 14, 2018}}</ref> Population,<ref>{{Cite web|url=https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901|title=Table 17-0009-01 – Population estimates, quarterly |last=Canada|first=Government of Canada, Statistics|website=www5.statcan.gc.ca|date=June 27, 2018 |access-date=October 14, 2018}}</ref> [[Canada Revenue Agency]]: Taxation Statistics 2015 taxation year<ref>{{Cite web| url=https://www.canada.ca/content/dam/cra-arc/prog-policy/stats/t1-final-stats/2015-tax-year/tbl1-eng.pdf | title= Final Table 1: General statement by province and territory of taxation  | author= Canada Revenue Agency | author-link= Canada Revenue Agency| date=2017 | access-date=October 14, 2018}}</ref>
+{{refend}}
+
+==Equalization debate by province==
+According to economist Trevor Tombe, "[If] a province cannot raise an 'average amount' with 'average tax rates,' then the federal government will – out of its own general revenue – top up that province to the 'average amount.' There are no transfers of funds between provinces."<ref name="theglobeandmail_Tombe_20171021">{{Cite news|url=https://www.theglobeandmail.com/opinion/dont-blame-equalization-for-albertas-fiscal-mess/article36680619/|title=Don't blame equalization for Alberta's fiscal mess|last=Tombe|first=Trevor|date=October 21, 2017|newspaper=The Globe and Mail|access-date=May 26, 2019|archive-url=https://web.archive.org/web/20190527010042/https://www.theglobeandmail.com/opinion/dont-blame-equalization-for-albertas-fiscal-mess/article36680619/|archive-date=May 27, 2019}}</ref>
+
+Still, equalization payments have mostly been criticized by leaders and residents of the wealthier provinces who consider the program unfair. "<ref>
+{{cite magazine|url=http://www.time.com/time/magazine/article/0,9171,819333,00.html|archive-url=https://web.archive.org/web/20080318093725/http://www.time.com/time/magazine/article/0,9171,819333,00.html|url-status=dead|archive-date=March 18, 2008|title=Canada: oil in Saskatchewan|date=January 11, 1954|magazine=[[Time (magazine)|Time]] |access-date=February 13, 2012}}</ref><ref>{{cite news|url=https://www.ctvnews.ca/saskatchewan-angry-over-equalization-reports-1.224573|archive-url=https://web.archive.org/web/20120628201821/http://www.ctvnews.ca/saskatchewan-angry-over-equalization-reports-1.224573|url-status=dead|archive-date=June 28, 2012|title=Saskatchewan angry over equalization reports – CTV News|access-date=April 25, 2011|publisher=Ctv.ca}}</ref> Recent negotiations surrounding the renewal of the program have created considerable tension among provinces. Due to the zero-sum nature of the formula, increases in entitlements for some provinces necessarily lead to decreases for others. Normally, under the equalization formula, equalization payments go down for every dollar increase in a province's ability to raise taxes. So, for example, if a province's economy booms and the provincial government's potential income tax revenues increase, equalization payments decrease. Economist Michael Smart has argued that this gives have-not provinces an incentive to raise taxes, because any harm higher taxes do to the economy is off-set by higher equalization payments.<ref>{{cite web|last=Smart|first=Michael|date=September 13, 2006|title=Raising taxes through Equalization|url=http://www.chass.utoronto.ca/~msmart/wp/raisingtaxes-cje-final.pdf|location=Toronto, ON|archive-url=https://web.archive.org/web/20120229233740/http://homes.chass.utoronto.ca/~msmart/wp/raisingtaxes-cje-final.pdf|archive-date=February 29, 2012}}</ref> At an October 25, 2001, talk presented at the "Equalization: Welfare Trap or Helping Hand?" conference, co-sponsored by [[Atlantic Institute for Market Studies|AIMS]]/[[Montreal Economic Institute|MEI]]/[[Frontier Centre for Public Policy|FCPP]], the American [[economist]] [[James M. Buchanan]], whose highly cited 1950 article in ''[[The American Economic Review]]'', had introduced original concepts related to federalism and fiscal equity,<ref name="Buchanan_1950">{{cite journal|last=Buchanan|first=James M.|date=1950|title=Federalism and Fiscal Equity|journal=[[The American Economic Review]]|volume=40|pages=583–599|number=4}}</ref><ref group="Notes">In his 1950 article, "Federalism and Fiscal Equity", which has been cited 1038 times, Buchanan was responding to public policy issues in the United States regarding challenges facing fiscal relationships between the federal government and individual states that had become a focus of attention between 1930 through 1950. In those two decades more attention was being focused on federal/states intergovernmental fiscal structures between two constitutionally independent fiscal systems which ultimately affect "fiscal resources of individual citizens".</ref> Buchanan admitted that this idea had flaws, and that it had been criticized for creating a culture of dependence in provinces with relatively low fiscal capacities.<ref>{{cite conference|date=April 2002|title=Fiscal Equalization Revisited|url=http://www.aims.ca/wp-content/uploads/2016/03/fiscal.pdf|location=Montreal|access-date=May 24, 2019|work=[[Atlantic Institute for Market Studies|AIMS]]/[[Montreal Economic Institute|MEI]]/[[Frontier Centre for Public Policy|FCPP]]}}</ref>
+
+===Alberta===
+Alberta Finance Minister [[Joe Ceci]] in a June 19, 2018, interview with ''[[The Globe and Mail]]'', said that the equalization formula had not worked "for Alberta, even during the depths of our recession—which started in late 2014 and continued '15, '16 and part of '17. I'd like to see changes to it so that we as Albertans can get a better deal from equalization."<ref name="G&M_Cryderman_20180621" />
+
+In 2018 Alberta, British Columbia, Saskatchewan and Newfoundland and Labrador received no equalization payments.<ref name="G&M_Cryderman_20180621" /> However, in 2020, Alberta nearly doubled what it received from federal spending in 2019, resulting in a net gain to Alberta of $10.9 billion, although this inflow reflected unprecedented deficit-financed federal spending rather than transfers funded by tax revenue, and Alberta remained the largest per-capita contributor to federal finances.<ref>{{cite web | url=https://nationalpost.com/news/politics/for-the-first-time-in-more-than-50-years-alberta-received-more-money-from-ottawa-than-it-sent | title=For the first time in more than 50 years, Alberta received more money from Ottawa than it sent }}</ref>
+
+Provinces such as Alberta and Saskatchewan whose economies are "strongly linked to resource extraction" expressed resentment that the equalization formula does not allow them to benefit fairly as it does not consider the weakened economies from 2014 onwards. This combined with the "opposition from municipal and provincial governments, or protests, in other parts of the country" that have succeeded in blocking or slowing down the implementation of "major energy infrastructure projects such as the [[Energy East|Energy East pipeline]] and the [[Trans Mountain Pipeline|Trans Mountain]] expansion", caused added frustrations.<ref name="G&M_Cryderman_20180621" />
+
+According to a December 21, 2018, ''[[Edmonton Journal]]'' article, [[Jason Kenney]] ([[United Conservative Party]] (UCP)) targeted the alleged inequity of the federal equalization program. He said that "[s]ince equalization was created (in 1957), Alberta has received 0.02% of all payments, the last of which was in 1964–1965."<ref name="edmontonjournal_Staples_20181221">{{cite news |first=David |last=Staples |title=Albertans increasingly calling to chop equalization payments to Quebec |url=https://edmontonjournal.com/business/local-business/david-staples-albertans-increasingly-calling-to-chop-equalization-payments-to-quebec |newspaper=Edmonton Journal |date=December 21, 2018 |access-date=May 25, 2019}}</ref> Kenney was previously a member of the Stephen Harper federal government which implemented the current as of 2020 equalization formula.
+
+According to an opinion column article by economist Trevor Tombe, Alberta "pay[s] more and receive[s] less" because of "unequal circumstances". Tombe said that Alberta has a younger population with more high-income earners. It is the province with the smallest number of people who are older than 65, which means that there are fewer CPP and OAS recipients. According to the census, "one in eight Albertans older than 15" earn over $100,000 annually.<ref name="theglobeandmail_Tombe_20171021" /> Only eleven per cent of Canadians live in Alberta. But 21 per cent of "Canada's $100,000-plus earners" live in Alberta. Alberta collects about 21 per cent of "Canada's corporate taxable income".<ref name="theglobeandmail_Tombe_20171021" /> The federal government collects more GST from Alberta because the families with higher incomes also spend more in Alberta. In 2015 Alberta had a net outflow of $27-billion.<ref name="theglobeandmail_Tombe_20171021" />
+
+In spite of the high incomes and large income from corporate taxes, Alberta has an income tax rate that is much lower than the Canadian average, but by 2017, it also had a $10.5-billion deficit. Tombe said that if Alberta had a tax rate similar to the Canadian average, the province would have a surplus not a deficit.<ref name="theglobeandmail_Tombe_20171021" /> Tombe said that Alberta has the strongest economy in Canada which meant the province can raise revenue. In order for Alberta's economy to weaken to the point of qualifying for equalization payments, its economy would have to shrink by over 33 per cent, which has not happened even during recessions when the price of oil dropped dramatically.<ref name="theglobeandmail_Tombe_20171021" />
+
+In a [[2021 Alberta referendum|referendum on equalization held on 18 October 2021]], 61.7% of Alberta voters chose "yes" to the question "Should section 36(2) of the [[Constitution Act, 1982]]{{snd}} Parliament and the government of Canada's commitment to the principle of making equalization payments{{snd}} be removed from the constitution?"<ref>{{Cite web|url=https://officialresults.elections.ab.ca/orResultsReferendum2021.cfm?EventId=68RQ1&QUESTIONNO=1|title=Election Results|website=Elections Alberta}}</ref><ref>{{Cite web|last=Bellefontaine|first=Michelle|date=26 October 2021|title=Albertans support bid to change equalization, narrowly turn down year-round daylight time|url=https://www.cbc.ca/news/canada/edmonton/referendum-alberta-equalization-daylight-time-senate-1.6225309|website=CBC News}}</ref>  While Alberta alone does not have the power to change [[Constitution of Canada|Canada's constitution]], [[Premier of Alberta|Alberta's premier]] at that time, Jason Kenney, said "These results have given Alberta's government a powerful mandate to secure changes to equalization and other federal transfers".<ref>{{cite web | title=Albertans decide on equalization, daylight saving time, Senate nominees | author=Alberta.ca | date=October 26, 2021 | url=https://www.alberta.ca/release.cfm?xID=802216D9A466E-E509-A767-604B3E2D7F6D12B4#jumplinks-0 }}</ref>  Arguments made in favour of a "yes" vote included that, while the program is supposed to employ a principle-based formula, ''ad hoc'' arrangements are often used, such as the exclusion of Quebec hydroelectrical revenues (which works to the advantage of Quebec).<ref>{{cite web | url=https://financialpost.com/opinion/jack-m-mintz-albertans-should-vote-yes | first=Jack M.| last=Mintz | title=Albertans should vote 'yes' | date=15 October 2021 |publisher=Financial Post }}</ref>  Advocates for the "no" side argued that Albertans moving into or out of the province benefit from equalization spending elsewhere, and that equalization is a federal (not provincial) program.<ref>{{cite web | first=Trevor | last=Tombe |title=Opinion: The case against Premier Kenney's equalization referendum | date=13 October 2021 | publisher=Calgary Herald | url=https://calgaryherald.com/opinion/columnists/opinion-the-case-against-premier-kenneys-equalization-referendum }}</ref>
+
+===Quebec===
+Quebec's high provincial taxes account for its budget surplus, although without equalization Quebec would have had a deficit.<ref name="theglobeandmail_Tombe_20171021" />  Quebec residents pay the highest provincial tax in the country but the lowest federal tax.<ref>{{Cite web|title=SimpleTax: 2020 Canadian Income Tax Calculator|url=https://simpletax.ca/calculator|access-date=September 26, 2020|website=SimpleTax|language=en}}</ref> Quebec residents pay 16.5% less federal income tax annually than other Canadian provinces due to the [[Income tax in Canada#Quebec|Quebec Abatement]].<ref name=":0">{{Cite web|last=Canada|first=Department of Finance|date=January 1, 2000|title=Quebec Abatement|url=https://www.canada.ca/en/department-finance/programs/federal-transfers/quebec-abatement.html|access-date=September 26, 2020|website=aem}}</ref> This lower direct income tax for Quebec residents is factored in when the federal government transfers (Canada Health Transfer, Canada Social Transfer and Equalization) funds back to the Quebec government.<ref name=":0" />
+
+Alberta Premier Kenney noted that, since the inception in 1957 of equalization payments, "Quebec has received equalization money every year of the program, totaling 221 billion dollars or 51 per cent of all payments."<ref name="edmontonjournal_Staples_20181221" /> According to the [[Library of Parliament]] report, Quebec receives a larger proportion mainly because of the large population in Quebec representing almost a quarter of the population of Canada. It is [[Population of Canada by province and territory|much larger]] than most other equalization-receiving provinces,<ref name="LOP_Édison_20130904" /><ref group="Notes">In the [[Population of Canada by province and territory]], based on [[Statistics Canada]] data, Quebec's population in 2016 was 8,164,361 which represents 23.2 percent of the population of Canada.</ref><ref name="2016census">{{Cite web|url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?Lang=Eng&T=101&S=50&O=A|title=Population and dwelling counts, for Canada, provinces and territories, 2016 and 2011 censuses – 100% data|date=February 8, 2017|publisher=[[Statistics Canada]]|access-date=February 8, 2017}}</ref><ref>{{cite web|url=http://www5.statcan.gc.ca/cansim/a26?lang=eng&retrLang=eng&id=0510005&paSer=&pattern=&stByVal=1&p1=1&p2=31&tabMode=dataTable&csid=|title=Table 051-0005: Estimates of population, Canada, provinces and territories|date=December 24, 2018|publisher=[[Statistics Canada]]|access-date=December 24, 2018}}</ref> In 2007 changes were made to the equalization formula based in large part on the way the formula used property tax revenues as one of the factors. As a result, Quebec's proportion of the total amount increased even more since 2007.<ref name="LOP_Édison_20130904" />
+
+The equalization formula has been criticized for not factoring in a below market sale of hydro power to domestic users into the calculation of equalization payments.  Between 2005 and 2010, Quebec was calculated to have received 51% more equalization ($42.4 B vs $28.1 B) than it would have if the formula was corrected the same for resource extraction and hydroelectricity.<ref>{{Cite news|title=Peter Holle: Artificially cheap hydro power, your equalization dollars at work|url=https://nationalpost.com/opinion/peter-holle-artificially-cheap-hydro-power-your-equalization-dollars-at-work|access-date=September 26, 2020|website=National Post|date=May 29, 2012|language=en-CA}}</ref>
+
+In 2018, Quebec received $11.7 billion of the total $19-billion federal program funds, which is the largest of all transfers to the provinces and territories.<ref name="G&M_Cryderman_20180621" /> Quebec will receive the most from equalization payments in the 2019–2020 year.<ref name="fin.gc.ca" />
+
+On February 28, 2001, [[Bernard Landry]], Parti Québécois leader who took office as [[Quebec premier]] on March 8, said that it was "degrading" that Quebec was receiving an extra $1.5 billion in equalization payments in 2001 and that the province had been receiving these payments for over 40 years. Quebec received the "lion's share" of the 2001 equalization payments. In 2000, Quebec economic growth was slower than that of the other six provinces that were also eligible for payments. Landry blamed the federal government for failing to redistribute "real wealth", saying Quebec had been "short-changed" for decades because the federal government did not "spend enough in Quebec on research and industry."<ref name="CBC_20010228">{{Cite news|url=http://www.cbc.ca/news/canada/quebec-s-landry-offended-by-1-5-billion-handout-1.290864|title=Quebec's Landry offended by $1.5 billion handout|date=February 28, 2001|work=CBC News|access-date=May 25, 2019|language=en-US}}</ref> [[Paul Martin]], federal finance minister, said Quebec's separatists "pursue political agendas as opposed to economic agendas" and this did not have the "beneficial results for their population".<ref name="CBC_20010228" />
+
+In 2017, the [[Coalition Avenir Québec]] said that since 2003, federal equalization payments to Quebec had tripled to more than $11 billion. The party's leader, [[François Legault]], found it "shameful".<ref name="Macleans_20171122">{{Cite news|url=http://www.macleans.ca/news/canada/quebec-without-equalization/|title=Quebec without equalization?|last=Wells|first=Paul|date=November 22, 2017|work=Macleans|access-date=December 7, 2017|language=en-US}}</ref> In 2019, CAQ Finance Minister [[Eric Girard (Groulx MNA)|Eric Girard]] wrote in a [[Financial Post]] op-ed, argued reiterate the party support to "raise Québec's potential GDP growth to two per cent in order to close the [[wealth gap]] with the rest of Canada and assume greater economic leadership within the federation". He ended the article by stating "Someday, Québec will no longer receive equalization payments, and this will be a great day for Québec and Canada."<ref>{{Cite news|url=https://business.financialpost.com/opinion/eric-girard-quebec-is-a-partner-of-western-canada-and-wants-it-to-prosper|title=Eric Girard: Québec is a partner of Western Canada and wants it to prosper {{!}} Financial Post|last=Comment|first=F. P.|newspaper=Financial Post|date=November 22, 2019|language=en-CA|access-date=November 23, 2019}}</ref>
+
+Former federal MP and [[People's Party of Canada]] leader [[Maxime Bernier]] said that the equalization program leads provinces into what he calls a "[[poverty trap]]", where they become dependent on government funds.<ref>{{Cite news|url=http://www.maximebernier.com/speech_canada_s_equalization_program_is_unfair_and_ineffective|title=Speech: Canada's Equalization Program Is Unfair and Ineffective|work=Maxime Bernier — English|access-date=May 6, 2018|language=en|archive-date=May 6, 2018|archive-url=https://web.archive.org/web/20180506025646/http://www.maximebernier.com/speech_canada_s_equalization_program_is_unfair_and_ineffective|url-status=dead}}</ref> In a speech in 2010, advocating for more  autonomy within Quebec, he argued that "It's true that other provinces, such as Manitoba and the three Maritime Provinces, get even more equalization money per capita than Quebec, and so are even more dependent on Ottawa. But that's not an excuse. As a Quebecer, I am not really proud of the fact that we are a poor province that gets equalization money."<ref>{{Cite web|url=https://www.maximebernier.com/speech_for_a_proud_responsible_and_autonomous_quebec|title=For a proud, responsible and autonomous Quebec|website=Maxime Bernier — English|language=en|access-date=November 24, 2019|archive-date=November 20, 2019|archive-url=https://web.archive.org/web/20191120200120/https://www.maximebernier.com/speech_for_a_proud_responsible_and_autonomous_quebec|url-status=dead}}</ref><ref name="FCPP_20100519">{{Cite news|url=https://fcpp.org/files/1/126%20Maxime%20Bernier.pdf|title=Conversations from the Frontier|date=May 19, 2010|work=[[Frontier Centre for Public Policy]]|access-date=May 5, 2018}}</ref> In May 2019, the People's Party of Canada called for a new equalization formula, that would respect the Constitution, that would give lower income provinces, like Quebec, incentives to develop pro-growth economic policies thereby avoiding the "welfare trap".<ref name="PPC_platform_2019">{{Cite web|url=https://www.peoplespartyofcanada.ca/equalization_fairness_for_all_provinces|title=PPC Platform|date=2019|work=PPC Website|access-date=May 6, 2019|archive-date=May 6, 2019|archive-url=https://web.archive.org/web/20190506140256/https://www.peoplespartyofcanada.ca/equalization_fairness_for_all_provinces|url-status=dead}}</ref>
+
+===Maritimes===
+Also in the same year, [[Shawn Graham]], [[Premier of New Brunswick]] pledged to make the province self-sufficient, that is to no longer depend on [[Canadian Transfer Payments|federal equalization payments]], by 2026.
+
+In 2007, because of amendments made to the equalization formula in terms of measuring property tax revenues, Prince Edward Island's proportion of the total amount increased considerably. In 2013–2014, Prince Edward Island had the highest per capita equalization payment at $2,326 per capita.<ref name="LOP_Édison_20130904" />
+
+===Ontario===
+Until the 2009–2010 fiscal year, [[Ontario]] was the only province to have never received equalization payments. In 2009–2010, due to the global [[Great Recession]], Ontario began to receive equalization payments<ref name="G&M_Curry_20131217" /> with its first payment amounting to $347 million.<ref>{{Cite web |title=www.cbc.ca |url=https://www.cbc.ca/news/canada/ontario-to-receive-347m-in-equalization-flaherty-1.766492}}</ref>
+
+The equalization formula is "based on a three-year average of economic growth". Since the 2008 recession, the Ontario economy got stronger which resulted in lower equalization payments.<ref name="G&M_Curry_20131217" />
+
+In 2012–2013 Ontario's equalization payments increased to a peak of $3.3 billion. It was projected to be $2 billion in 2014–2015. Late January 2012, based on access to the uncensored version of a 2006 censored federal report by Peter Gusen, then director of federal-provincial relations at the finance department, entitled 'An Operational Expenditure Need Equalization Formula for Canada', the ''[[Toronto Star]]'' alleged that Ontario and BC were shortchanged in the equalization system because wages and cost-of-living expenses were never taken into account by Ottawa.<ref>{{cite news|url=https://www.thestar.com/news/canada/politics/article/1121339--ontario-shortchanged-in-wealth-sharing-system-censored-federal-report-suggests|title=Ontario shortchanged in wealth-sharing system, censored federal report suggests|author=Robert Benzie|date=January 25, 2012|access-date=January 29, 2012|newspaper=Toronto Star}}</ref><ref>{{cite news|url=https://www.thestar.com/news/article/1121975|title=Dwight Duncan demands Ottawa release censored report showing Ontario is shortchanged by equalization|author=Robert Benzie|date=January 26, 2012|access-date=January 29, 2012|newspaper=Toronto Star}}</ref>
+
+In 2014, Ontario would have qualified for the TTP payment for the first time, worth $640 million. In 2013 [[Stephen Harper]] ended the TTP program. According to a December 12, 2013, ''Globe and Mail'' article, cancelling the program was a political decision by the federal Conservatives. It would raise their "bottom line, while forcing Ontario's minority Liberal government to find the difference ahead of a budget that [had] the potential of triggering a provincial election."<ref name="G&M_Curry_20131217" /> In 2013–2014, Ontario's per capita payments were the lowest at $230.20.<ref name="LOP_Édison_20130904" />
+
+As of 2019–2020 Ontario stopped receiving equalization payments.<ref name="G&M_Curry_20131217" />
+
+Ontario will start receiving Equalization payments again for 2023–24.
+
+==See also==
+*[[List of Canadian provinces and territories by gross domestic product]]
+
+==Further reading==
+* {{cite book |last1=Courchene |first1=Thomas J. |author1-link=Tom Courchene |title=Equalization Payments: Past, Present and Future |date=1984 |publisher=Ontario Economic Council |location=Toronto |url=https://archive.org/details/equalizationpaym00cour }}
+*{{Cite web |date=January 17, 2018 |first=Trevor |last=Tombe| title = Unpacking Canada's Equalization Payments For 2018–19| work = The School of Public Policy| access-date = May 26, 2019| url = https://www.policyschool.ca/unpacking-canadas-equalization-payments-2018-19/ |location=Calgary, Alberta}}
+*{{cite magazine |volume=7 |number=24 |date=September 2014 |title= Canada's equalization formula: peering inside the black box&nbsp;... and beyond |first=Jim |last=Feehan |url=https://www.policyschool.ca/wp-content/uploads/2016/03/feehan-equalization.pdf |magazine=The School of Public Policy |location=Calgary, Alberta | access-date = May 26, 2019}}
+*{{cite news| access-date = May 25, 2019| url = https://distribution-a617274656661637473.pbo-dpb.ca/12d2f093b88784f3c1ffe1ad22baef862426c06c99d129ed992aed897933abb2 |date=June 19, 2014 |work=[[Library of Parliament]] (LOP) |title=2014–2015 Federal Transfers to Provinces and Territories |location=Ottawa, Canada |first=Jean-Francois |last=Nadeau}}
+*{{Citation| title = Canada's Equalization Formula| access-date = May 25, 2019| url = https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/200820E |first=Édison |last=Roy-César|date=November 10, 2008 |work=[[Library of Parliament]] (LOP) |location=Ottawa, Canada}} Revised September 4, 2013
+
+==Notes==
+{{reflist|group="Notes"}}
+
+==References==
+{{reflist|30em}}
+
+{{Economy of Canada footer}}
+
+[[Category:Economy of Canada]]
+[[Category:Federalism in Canada]]
+[[Category:Fiscal federalism]]

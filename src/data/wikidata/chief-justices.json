@@ -1,0 +1,228 @@
+{
+  "_meta": {
+    "source": "Wikidata: chief justices of Canada",
+    "url": "https://query.wikidata.org/",
+    "licence": "CC0 1.0 (Wikidata)",
+    "query": "P39 = Q1339242 (Chief Justice of Canada)",
+    "script": "scripts/grounding/wikidata.ts",
+    "fetched": "2026-11-13"
+  },
+  "chiefJustices": [
+    {
+      "ordinal": 1,
+      "name": "William Buell Richards",
+      "qid": "Q387532",
+      "wikipedia": "https://en.wikipedia.org/wiki/William_Buell_Richards",
+      "terms": [
+        {
+          "start": "1875-09-30",
+          "end": "1879-01-10"
+        }
+      ]
+    },
+    {
+      "ordinal": 2,
+      "name": "William Johnstone Ritchie",
+      "qid": "Q1783010",
+      "wikipedia": "https://en.wikipedia.org/wiki/William_Johnstone_Ritchie",
+      "terms": [
+        {
+          "start": "1879-01-11",
+          "end": "1892-09-25"
+        }
+      ]
+    },
+    {
+      "ordinal": 3,
+      "name": "Samuel Henry Strong",
+      "qid": "Q788205",
+      "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Henry_Strong",
+      "terms": [
+        {
+          "start": "1892-12-13",
+          "end": "1902-11-17"
+        }
+      ]
+    },
+    {
+      "ordinal": 4,
+      "name": "Henri-Elzéar Taschereau",
+      "qid": "Q278691",
+      "wikipedia": "https://en.wikipedia.org/wiki/Henri-Elz%C3%A9ar_Taschereau",
+      "terms": [
+        {
+          "start": "1902-11-21",
+          "end": "1906-05-01"
+        }
+      ]
+    },
+    {
+      "ordinal": 5,
+      "name": "Charles Fitzpatrick",
+      "qid": "Q443059",
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_Fitzpatrick",
+      "terms": [
+        {
+          "start": "1906-06-04",
+          "end": "1918-10-20"
+        }
+      ]
+    },
+    {
+      "ordinal": 6,
+      "name": "Louis Henry Davies",
+      "qid": "Q1029113",
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_Henry_Davies",
+      "terms": [
+        {
+          "start": "1918-10-23",
+          "end": "1924-05-01"
+        }
+      ]
+    },
+    {
+      "ordinal": 7,
+      "name": "Francis Alexander Anglin",
+      "qid": "Q1441358",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_Alexander_Anglin",
+      "terms": [
+        {
+          "start": "1924-09-16",
+          "end": "1933-02-27"
+        }
+      ]
+    },
+    {
+      "ordinal": 8,
+      "name": "Lyman Duff",
+      "qid": "Q452488",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lyman_Duff",
+      "terms": [
+        {
+          "start": "1933-03-17",
+          "end": "1944-01-07"
+        }
+      ]
+    },
+    {
+      "ordinal": 9,
+      "name": "Thibaudeau Rinfret",
+      "qid": "Q2420578",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thibaudeau_Rinfret",
+      "terms": [
+        {
+          "start": "1944-01-08",
+          "end": "1954-06-21"
+        }
+      ]
+    },
+    {
+      "ordinal": 10,
+      "name": "Patrick Kerwin",
+      "qid": "Q452633",
+      "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Kerwin",
+      "terms": [
+        {
+          "start": "1954-07-01",
+          "end": "1963-02-02"
+        }
+      ]
+    },
+    {
+      "ordinal": 11,
+      "name": "Robert Taschereau",
+      "qid": "Q951045",
+      "wikipedia": "https://en.wikipedia.org/wiki/Robert_Taschereau",
+      "terms": [
+        {
+          "start": "1963-04-22",
+          "end": "1967-08-31"
+        }
+      ]
+    },
+    {
+      "ordinal": 12,
+      "name": "John Robert Cartwright",
+      "qid": "Q452496",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Robert_Cartwright",
+      "terms": [
+        {
+          "start": "1967-09-01",
+          "end": "1970-03-22"
+        }
+      ]
+    },
+    {
+      "ordinal": 13,
+      "name": "Gérald Fauteux",
+      "qid": "Q452863",
+      "wikipedia": "https://en.wikipedia.org/wiki/G%C3%A9rald_Fauteux",
+      "terms": [
+        {
+          "start": "1970-03-23",
+          "end": "1973-12-22"
+        }
+      ]
+    },
+    {
+      "ordinal": 14,
+      "name": "Bora Laskin",
+      "qid": "Q893288",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bora_Laskin",
+      "terms": [
+        {
+          "start": "1973-12-27",
+          "end": "1984-03-26"
+        }
+      ]
+    },
+    {
+      "ordinal": 15,
+      "name": "Brian Dickson",
+      "qid": "Q912079",
+      "wikipedia": "https://en.wikipedia.org/wiki/Brian_Dickson",
+      "terms": [
+        {
+          "start": "1984-04-18",
+          "end": "1990-06-30"
+        }
+      ]
+    },
+    {
+      "ordinal": 16,
+      "name": "Antonio Lamer",
+      "qid": "Q452445",
+      "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Lamer",
+      "terms": [
+        {
+          "start": "1990-07-01",
+          "end": "2000-01-06"
+        }
+      ]
+    },
+    {
+      "ordinal": 17,
+      "name": "Beverley McLachlin",
+      "qid": "Q460136",
+      "wikipedia": "https://en.wikipedia.org/wiki/Beverley_McLachlin",
+      "terms": [
+        {
+          "start": "2000-01-07",
+          "end": "2017-12-15"
+        }
+      ]
+    },
+    {
+      "ordinal": 18,
+      "name": "Richard Wagner",
+      "qid": "Q3431309",
+      "wikipedia": "https://en.wikipedia.org/wiki/Richard_Wagner_(judge)",
+      "terms": [
+        {
+          "start": "2017-12-18",
+          "end": null
+        }
+      ]
+    }
+  ]
+}

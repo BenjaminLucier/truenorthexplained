@@ -1,0 +1,179 @@
+{
+  "_meta": {
+    "source": "Wikimedia Commons (files linked from Wikidata P41 flag image)",
+    "url": "https://commons.wikimedia.org/",
+    "licence": "Per file; see each entry",
+    "script": "scripts/grounding/flags.ts",
+    "fetched": "2026-11-13"
+  },
+  "flags": [
+    {
+      "slug": "canada",
+      "name": "Canada",
+      "path": "/flags/canada.svg",
+      "commonsFile": "Flag of Canada (Pantone).svg",
+      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Canada_(Pantone).svg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Original: George F. G. Stanley Modified by: The original uploader was Illegitimate Barrister at Wikimedia Commons. The current SVG encoding is a rewrite performed by MapGrid.",
+      "credit": "This vector image is generated programmatically from geometry defined in File:Flag of Canada (construction sheet - leaf geometry).svg.",
+      "attributionRequired": false
+    },
+    {
+      "slug": "alberta",
+      "name": "Alberta",
+      "path": "/flags/alberta.svg",
+      "commonsFile": "Flag of Alberta.svg",
+      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Alberta.svg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Kooma (original)",
+      "credit": "Emblems of Alberta Act",
+      "attributionRequired": false
+    },
+    {
+      "slug": "british-columbia",
+      "name": "British Columbia",
+      "path": "/flags/british-columbia.svg",
+      "commonsFile": "Flag of British Columbia.svg",
+      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_British_Columbia.svg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Kooma (original) Sshu94 (current)",
+      "credit": "Government of British Columbia [1] 31 March 1906 (shield and motto) & 15 October 1987 (crest and supporters) [2] Original concepts of Arthur John Beanlands; Ambrose Lee, York Herald (1906); and Conrad Swan, York Herald (1987), College of Arms, London. [3]",
+      "attributionRequired": false
+    },
+    {
+      "slug": "manitoba",
+      "name": "Manitoba",
+      "path": "/flags/manitoba.svg",
+      "commonsFile": "Flag of the Province of Manitoba.svg",
+      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Province_of_Manitoba.svg",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Echando una mano",
+      "credit": "Flag of the Province of Manitoba in the Canadian Heraldic Authority site",
+      "attributionRequired": true
+    },
+    {
+      "slug": "new-brunswick",
+      "name": "New Brunswick",
+      "path": "/flags/new-brunswick.svg",
+      "commonsFile": "Flag of New Brunswick.svg",
+      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_New_Brunswick.svg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Dbenbenn (original) E Pluribus Anthony (current)",
+      "credit": "Government of New Brunswick, Communications New Brunswick: Logos/Symbols. Adapted by E Pluribus Anthony.",
+      "attributionRequired": false
+    },
+    {
+      "slug": "newfoundland-and-labrador",
+      "name": "Newfoundland and Labrador",
+      "path": "/flags/newfoundland-and-labrador.svg",
+      "commonsFile": "Flag of Newfoundland and Labrador.svg",
+      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Newfoundland_and_Labrador.svg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Original 2005 upload was created by Robert Crosbie and uploaded by Kooma. Entire flag redrawn/recoded from scratch by MapGrid in 2019. Colors changed by Great Brightstar in 2019.",
+      "credit": "File:Flag of Newfoundland and Labrador (construction sheet).svg",
+      "attributionRequired": false
+    },
+    {
+      "slug": "northwest-territories",
+      "name": "Northwest Territories",
+      "path": "/flags/northwest-territories.svg",
+      "commonsFile": "Flag of the Northwest Territories.svg",
+      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Northwest_Territories.svg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "The original uploader was Kooma at Wikimedia Commons. Updated image created and uploaded by MapGrid",
+      "credit": "modeled from diagrams and images in [1].",
+      "attributionRequired": false
+    },
+    {
+      "slug": "nova-scotia",
+      "name": "Nova Scotia",
+      "path": "/flags/nova-scotia.svg",
+      "commonsFile": "Flag of Nova Scotia.svg",
+      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Nova_Scotia.svg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Original: Unknown author Vector: Kooma, FJDEACKB, Zscout370 and Denelson83",
+      "credit": "[1] (dead link)",
+      "attributionRequired": false
+    },
+    {
+      "slug": "nunavut",
+      "name": "Nunavut",
+      "path": "/flags/nunavut.svg",
+      "commonsFile": "Flag of Nunavut.svg",
+      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Nunavut.svg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Kooma (original)",
+      "credit": null,
+      "attributionRequired": false
+    },
+    {
+      "slug": "ontario",
+      "name": "Ontario",
+      "path": "/flags/ontario.svg",
+      "commonsFile": "Flag of Ontario.svg",
+      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Ontario.svg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Kooma",
+      "credit": "Government of Ontario, About Ontario: Emblems and Symbols (bad link)",
+      "attributionRequired": false
+    },
+    {
+      "slug": "prince-edward-island",
+      "name": "Prince Edward Island",
+      "path": "/flags/prince-edward-island.svg",
+      "commonsFile": "Flag of Prince Edward Island.svg",
+      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Prince_Edward_Island.svg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "E Pluribus Anthony",
+      "credit": "Government of Prince Edward Island, InfoPEI: Provincial Symbols. Adapted by E Pluribus Anthony.",
+      "attributionRequired": false
+    },
+    {
+      "slug": "quebec",
+      "name": "Quebec",
+      "path": "/flags/quebec.svg",
+      "commonsFile": "Flag of Quebec.svg",
+      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Quebec.svg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Original: René Chaloult Vector: Krun",
+      "credit": "Government of Quebec",
+      "attributionRequired": false
+    },
+    {
+      "slug": "saskatchewan",
+      "name": "Saskatchewan",
+      "path": "/flags/saskatchewan.svg",
+      "commonsFile": "Flag of Saskatchewan.svg",
+      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saskatchewan.svg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Kooma",
+      "credit": "Open Clip Art Library",
+      "attributionRequired": false
+    },
+    {
+      "slug": "yukon",
+      "name": "Yukon",
+      "path": "/flags/yukon.svg",
+      "commonsFile": "Flag of Yukon.svg",
+      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Yukon.svg",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "author": "Kooma (original)",
+      "credit": "Open Clip Art Library",
+      "attributionRequired": false
+    }
+  ]
+}

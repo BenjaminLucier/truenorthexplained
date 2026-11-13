@@ -1,0 +1,753 @@
+{{Short description|Canadian provincial government}}
+{{more citations needed|date=September 2007}}
+{{Infobox political system
+| name                          = Politics of Prince Edward Island
+| image                         = Coat of arms of Prince Edward Island, Canada.svg
+| image_size                    = 100
+| caption                       = [[Coat of arms of Prince Edward Island]]
+| type                          = [[Provinces and territories of Canada|Province]] within a [[Federation|federal]] [[Parliamentary system|parliamentary]] [[constitutional monarchy]]
+| constitution                  = [[Constitution of Canada]]
+| legislature                   = [[General Assembly of Prince Edward Island|General Assembly]]
+{{Bulleted list
+|[[Legislative Assembly of Prince Edward Island|Legislative Assembly]]
+}}
+| legislature_type              = [[Unicameralism|Unicameral]]
+| legislature_place             = [[Province House (Prince Edward Island)|Province House]], [[Charlottetown]]
+| legislature_speaker           = [[Speaker of the Legislative Assembly of Prince Edward Island|Speaker of the Legislative Assembly]]
+| legislature_speaker_title     = 
+| upperhouse                    = 
+| upperhouse_speaker            = 
+| upperhouse_speaker_title      = 
+| upperhouse_appointer          = 
+| lowerhouse                    = 
+| lowerhouse_speaker            = 
+| lowerhouse_speaker_title      = 
+| current_hos                   = [[Monarchy in Prince Edward Island|King]] {{Current Canadian monarch |Charles III}}<br>represented by <br> [[Wassim Salamoun]], <br> [[Lieutenant Governor of Prince Edward Island|Lieutenant Governor]]
+| current_hog                   = [[Premier of Prince Edward Island|Premier]]<br>[[Bloyce Thompson]]
+| appointer_hog                 = Lieutenant Governor
+| title_hosag                   =
+| current_hosag                 =
+| appointer_hosag               =
+| cabinet                       = [[Executive Council of Prince Edward Island|Executive Council]]
+| current_cabinet               = 
+| cabinet_leader                = Premier (as President of the Executive Council)
+| cabinet_deputyleader          = 
+| cabinet_appointer             = Lieutenant Governor
+| cabinet_hq                    = Charlottetown
+| cabinet_ministries            = 
+| judiciary                     = 
+| judiciary_head                = 
+| courts                        =
+| court                         = [[Court of Appeal of Prince Edward Island|Court of Appeal]]
+| chief_judge                   = David H. Jenkins
+| court_seat                    = 
+| court1                        =
+| chief_judge1                  =
+| court_seat1                   = Charlottetown
+}}
+The '''politics of Prince Edward Island''' are centred on a provincial government resembling that of the other [[Canada|Canadian]] [[Provinces and territories of Canada|provinces]]. The [[capital city|capital]] of the province of [[Prince Edward Island]] is [[Charlottetown]], where the [[Lieutenant Governor of Prince Edward Island|lieutenant governor]] and the [[Premier of Prince Edward Island|premier]] reside, and where the provincial legislature and [[Executive Council of Prince Edward Island|cabinet]] are located.
+
+==Legislature==
+Prince Edward Island's government is based on the [[Westminster model]], with a [[unicameral legislature]] – the [[General Assembly of Prince Edward Island|General Assembly]] – consisting of the Lieutenant Governor and the [[Legislative Assembly of Prince Edward Island|Legislative Assembly]] with 27 [[Member of the Legislative Assembly|members of the Legislative Assembly]] (MLAs), elected from 27 roughly equal [[electoral district (Canada)|electoral districts]] using [[plurality voting]] ([[first-past-the-post voting]]). The legislature may sit for a maximum of five years, as is customary in the Westminster system, and may be dissolved at any time by the [[Lieutenant-Governor of Prince Edward Island|lieutenant-governor]], normally on the advice of the [[Premier of Prince Edward Island|premier]]. By custom, the provincial Cabinet (which currently has ten members) is drawn exclusively from the Legislative Assembly, and must secure the support of a majority of the Assembly's members.
+
+==Political history==
+{{Main|History of Prince Edward Island}}
+Prince Edward Island is a Canadian province consisting of an island of the same name. The island is part of Mi'kma'ki, the lands of the Mi'kmaq people. Explored by Europeans in the 16th century, the French claimed all of the lands of the Maritimes in 1604 and French colonists arrived in 1720. By conquest, the British claimed all of the lands including Prince Edward Island in 1763. It became the British colony of St. John Island in 1769 and joined [[Canada]] on July 1, 1873.
+
+===Electoral history===
+====The two-seat district era (1873–1996)====
+
+During this period, all of PEI's MLAs were elected in two-seat districts using [[first-past-the-post voting#FPP variants|first-past-the-post voting]]. In the early elections, different voters voted to fill the two separate seats, but in the later years, the exact same voters could vote to fill each of the two seats.
+
+{| class="wikitable" style="text-align:center"
+|-
+! rowspan=3 colspan=2 | Election date
+! rowspan=3 | Win.
+! rowspan=3 | Total<br/>seats
+! colspan=2 | [[Prince Edward Island Progressive Conservative Party|Conservative/Progressive Conservative]]{{efn-ua|name=PC|Includes results for [[Progressive Conservative Party of Prince Edward Island|Progressive Conservatives]] from 1942 onwards.}}
+! colspan=2 | [[Prince Edward Island Liberal Party|Liberal]]
+! colspan=2 | [[Prince Edward Island New Democratic Party|NDP]]{{efn-ua|name=NDP|Includes results for the [[Co-operative Commonwealth Federation]] from 1943 to 1951.}}
+! colspan=2 | [[Green Party of Prince Edward Island|Green]]
+! colspan=3 | Other
+|- bgcolor="#ccccff"
+! width=50 | Seats
+! width=50 | Vote<br/>(%)
+! width=50 | Seats
+! width=50 | Vote<br/>(%)
+! width=50 | Seats
+! width=50 | Vote<br/>(%)
+! width=50 | Seats
+! width=50 | Vote<br/>(%)
+! width=50 | Seats
+! width=50 | Vote<br/>(%)
+! width=120 | Seat-winning party
+|-
+| {{Canadian party colour|PE|PC|background}} colspan=2 height=6 |
+| {{Canadian party colour|PE|Liberal|background}} colspan=2 |
+| {{Canadian party colour|PE|NDP|background}} colspan=2 |
+| bgcolor=#3D9B35 colspan=2 |
+| {{Canadian party colour|PE|Independent|background}} colspan=3 |
+|-
+! [[1873 Prince Edward Island general election|1873]]
+| width="150px" | April 1, 1873
+| {{Canadian party colour|PE|PC|background}} | CON
+| 30
+| '''15'''
+| {{efn-ua|name=C|Vote share not known for the elections in the 19th century.}}
+| 10
+| {{efn-ua|name=C}}
+|
+|
+|
+|
+| 5
+| 
+| Non-partisan
+|- style="background:#EEEEEE"
+! [[1876 Prince Edward Island general election|1876]]
+| August 10, 1876
+| {{Canadian party colour|PE|PC|background}} | CON
+| 30
+| '''15'''
+| {{efn-ua|name=C}}
+| 7
+| {{efn-ua|name=C}}
+|
+|
+|
+|
+| 8
+| 
+| Non-partisan
+|-
+! [[1879 Prince Edward Island general election|1879]]
+| April 2, 1879
+| {{Canadian party colour|PE|PC|background}} | CON
+| 30
+| '''24'''
+| {{efn-ua|name=C}}
+| 6
+| {{efn-ua|name=C}}
+|
+|
+|
+|
+|
+|
+|
+|- style="background:#EEEEEE"
+! [[1882 Prince Edward Island general election|1882]]
+| May 8, 1882
+| {{Canadian party colour|PE|PC|background}} | CON
+| 30
+| '''21'''
+| {{efn-ua|name=C}}
+| 9
+| {{efn-ua|name=C}}
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[1886 Prince Edward Island general election|1886]]
+| June 30, 1886
+| {{Canadian party colour|PE|PC|background}} | CON
+| 30
+| '''18'''
+| {{efn-ua|name=C}}
+| 12
+| {{efn-ua|name=C}}
+|
+|
+|
+|
+|
+|
+|
+|- style="background:#EEEEEE"
+! [[1890 Prince Edward Island general election|1890]]
+| January 30, 1890
+| {{Canadian party colour|PE|PC|background}} | CON
+| 30
+| 15{{efn-ua|name=1890d|Tie between Conservatives and Liberals, resulting in the incumbent Conservatives remaining in power until losing a motion of confidence in 1891 after a series of by-election losses and the Liberals taking power for the remainder of the term.}}
+| {{efn-ua|name=C}}
+| 15{{efn-ua|name=1890d}}
+| {{efn-ua|name=C}}
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[1893 Prince Edward Island general election|1893]]
+| December 13, 1893
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 30
+| 7
+| {{efn-ua|name=C}}
+| '''23'''
+| {{efn-ua|name=C}}
+|
+| 
+|
+|
+|
+|
+|
+|- style="background:#EEEEEE"
+! [[1897 Prince Edward Island general election|1897]]
+| July 28, 1897
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 30
+| 11
+| {{efn-ua|name=C}}
+| '''19'''
+| {{efn-ua|name=C}}
+| 
+|
+|
+|
+| 
+|
+|
+|-
+! [[1900 Prince Edward Island general election|1900]]
+| December 12, 1900
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 30
+| 9
+| 46.5
+| '''21'''
+| '''53.5'''
+|
+|
+|
+|
+|
+|
+|
+|- style="background:#EEEEEE"
+! [[1904 Prince Edward Island general election|1904]]
+| December 7, 1904
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 30
+| 8
+| 45.9
+| '''22'''
+| '''54.1'''
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[1908 Prince Edward Island general election|1908]]
+| November 18, 1908
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 30
+| 13
+| 48.4
+| '''17'''
+| '''51.6'''
+|
+|
+|
+|
+|
+|
+|
+|- style="background:#EEEEEE"
+! [[1912 Prince Edward Island general election|1912]]
+| January 3, 1912
+| {{Canadian party colour|PE|PC|background}} | CON
+| 30
+| '''28'''
+| '''60.3'''
+| 2
+| 39.7
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[1915 Prince Edward Island general election|1915]]
+| September 16, 1915
+| {{Canadian party colour|PE|PC|background}} | CON
+| 30
+| '''17'''
+| '''50.1'''
+| 13
+| 49.9
+|
+|
+|
+|
+|
+|
+|
+|- style="background:#EEEEEE"
+! [[1919 Prince Edward Island general election|1919]]
+| July 24, 1919
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 30
+| 6
+| 46.1
+| '''24'''
+| '''53.9'''
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[1923 Prince Edward Island general election|1923]]
+| July 26, 1923
+| {{Canadian party colour|PE|PC|background}} | CON
+| 30
+| '''25'''
+| '''51.5'''
+| 5
+| 43.8
+|
+|
+|
+|
+|
+| 4.7{{efn-ua|name=E|Includes 3.4% for the [[Progressive Party of Canada|Progressive Party / United Farmers]].}}
+|
+|- style="background:#EEEEEE"
+! [[1927 Prince Edward Island general election|1927]]
+| June 25, 1927
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 30
+| 6
+| 46.9
+| '''24'''
+| '''53.1'''
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[1931 Prince Edward Island general election|1931]]
+| August 6, 1931
+| {{Canadian party colour|PE|PC|background}} | CON
+| 30
+| '''18'''
+| '''51.7'''
+| 12
+| 48.3
+|
+|
+|
+|
+|
+|
+|
+|- style="background:#EEEEEE"
+! [[1935 Prince Edward Island general election|1935]]
+| July 23, 1935
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 30
+| –
+| 42.0
+| '''30'''
+| '''58.0'''
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[1939 Prince Edward Island general election|1939]]
+| May 18, 1939
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 30
+| 4
+| 47.0
+| '''26'''
+| '''53.0'''
+|
+|
+|
+|
+|
+|
+|
+|- style="background:#EEEEEE"
+! [[1943 Prince Edward Island general election|1943]]
+| September 15, 1943
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 30
+| 10
+| 46.1
+| '''20'''
+| '''51.3'''
+|
+| 2.1
+|
+|
+|
+| 0.5
+|
+|-
+! [[1947 Prince Edward Island general election|1947]]
+|December 11, 1947
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 30
+| 6
+| 45.8
+| '''24'''
+| '''49.8'''
+|
+| 4.3
+|
+|
+|
+| 0.1
+|
+|- style="background:#EEEEEE"
+! [[1951 Prince Edward Island general election|1951]]
+| April 26, 1951
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 30
+| 6
+| 46.7
+| '''24'''
+| '''51.6'''
+|
+| 1.7
+|
+|
+|
+|
+|
+|-
+! [[1955 Prince Edward Island general election|1955]]
+| May 25, 1955
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 30
+| 3
+| 45.0
+| '''27'''
+| '''55.0'''
+|
+|
+|
+|
+|
+|
+|
+|- style="background:#EEEEEE"
+! [[1959 Prince Edward Island general election|1959]]
+| September 1, 1959
+| {{Canadian party colour|PE|PC|background}} | PC
+| 30
+| '''22'''
+| '''50.9'''
+| 8
+| 49.1
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[1962 Prince Edward Island general election|1962]]
+| December 10, 1962
+| {{Canadian party colour|PE|PC|background}} | PC
+| 30
+| '''19'''
+| '''50.6'''
+| 11
+| 49.4
+|
+|
+|
+|
+|
+|
+|
+|- style="background:#EEEEEE"
+! [[1966 Prince Edward Island general election|1966]]
+| May 30, 1966
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 32
+| 15
+| 49.5
+| '''17'''
+| '''50.5'''
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[1970 Prince Edward Island general election|1970]]
+| May 11, 1970
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 32
+| 5
+| 41.7
+| '''27'''
+| '''58.3'''
+|
+|
+|
+|
+|
+|
+|
+|- style="background:#EEEEEE"
+! [[1974 Prince Edward Island general election|1974]]
+| April 29, 1974
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 32
+| 6
+| 40.2
+| '''26'''
+| '''53.9'''
+|
+| 5.9
+|
+|
+|
+|
+|
+|-
+! [[1978 Prince Edward Island general election|1978]]
+| April 24, 1978
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 32
+| 15
+| 48.2
+| '''17'''
+| '''50.7'''
+|
+| 1.1
+|
+|
+|
+|
+|
+|- style="background:#EEEEEE"
+! [[1979 Prince Edward Island general election|1979]]
+| April 23, 1979
+| {{Canadian party colour|PE|PC|background}} | PC
+| 32
+| '''21'''
+| '''53.2'''
+| 11
+| 45.3
+|
+| 1.3
+|
+|
+|
+| 0.2
+|
+|-
+! [[1982 Prince Edward Island general election|1982]]
+| September 27, 1982
+| {{Canadian party colour|PE|PC|background}} | PC
+| 32
+| '''21'''
+| '''53.6'''
+| 11
+| 45.7
+|
+| 0.7
+|
+|
+|
+|
+|
+|- style="background:#EEEEEE"
+! [[1986 Prince Edward Island general election|1986]]
+| April 21, 1986
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 32
+| 11
+| 45.6
+| '''21'''
+| '''50.4'''
+|
+| 4.0
+|
+|
+|
+|
+|
+|-
+! [[1989 Prince Edward Island general election|1989]]
+| May 29, 1989
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 32
+| 2
+| 35.8
+| '''30'''
+| '''60.7'''
+|
+| 3.5
+|
+|
+|
+|
+|
+|- style="background:#EEEEEE"
+! [[1993 Prince Edward Island general election|1993]]
+| March 29, 1993
+| {{Canadian party colour|PE|Liberal|background}} | LIB
+| 32
+| 1
+| 39.5
+| '''31'''
+| '''55.1'''
+|
+| 5.4
+|
+|
+|
+|
+|
+|}
+
+====The Post-Two party era (1996–present)====
+{| class="wikitable"
+|+ Elections to the Legislative Assembly of Prince Edward Island (1996–2023) - seats won by party
+|-
+|'''Government'''
+| {{Canadian party colour|PE|PC|background}} align="center" colspan=3|'''PC'''
+| {{Canadian party colour|PE|Liberal|background}} align="center" colspan=3|'''Liberal'''
+| {{Canadian party colour|PE|PC|background}} align="center" colspan=2|'''PC'''
+|- 
+! Party !! [[1996 Prince Edward Island general election|1996]] !! [[2000 Prince Edward Island general election|2000]] !! [[2003 Prince Edward Island general election|2003]] !! [[2007 Prince Edward Island general election|2007]] !! [[2011 Prince Edward Island general election|2011]] !! [[2015 Prince Edward Island general election|2015]] !! [[2019 Prince Edward Island general election|2019]] !! [[2023 Prince Edward Island general election|2023]]
+|- align = "right"
+| {{Canadian party colour|PE|PC|background}} align="left"|'''[[Progressive Conservative Party of Prince Edward Island|Progressive Conservative]]''' || 18|| 26|| 23|| 4|| 5|| 8|| 13{{efn-ua|name=2019f|Extended election for vacant seat held July 15, 2019 due to the death of original Green Party candidate before the election on April 23, 2019.}} || 22
+|- align = "right"
+| {{Canadian party colour|PE|Liberal|background}} align="left"|'''[[Prince Edward Island Liberal Party|Liberal]]''' || 8|| 1|| 4|| 23|| 22|| 18|| 6 || 3
+|- align = "right"
+| {{Canadian party colour|PE|Green|background}} align="left"|'''[[Green Party of Prince Edward Island|Green]]''' || || || || || || 1 || 8 || 2
+|- align = "right"
+| {{Canadian party colour|PE|NDP|background}} align="left"|'''[[New Democratic Party of Prince Edward Island|New Democratic]]''' || 1|| || || || || || ||
+|- align = "right"
+| align="left"|'''Total''' || 27|| 27|| 27|| 27|| 27|| 27|| 27{{efn-ua|name=2019f}} || 27
+|}
+
+===Notes===
+{{notelist-ua}}
+
+==Political parties==
+{{main|List of political parties in Prince Edward Island}}
+Prince Edward Island used to have the purest two-party system of any level of government in Canada until both 1996 and 2015 elections. Since joining [[Confederation of Canada|the Canadian Confederation]] in 1873, the province has been governed at intervals by the [[Liberal Party of Prince Edward Island]] and the [[Progressive Conservative Party of Prince Edward Island]] (which has gone by other names in the past). Third Party candidates have been elected 12 times during that time. 
+
+In the [[1996 Prince Edward Island general election|Prince Edward Island 1996 election]], [[Herb Dickieson]] of the [[Island New Democrats]] was the elected member for [[West Point-Bloomfield]]. He served from 1996 to 2000. 
+
+The next [[Third party (politics)|third party]] candidate to earn a seat in the provincial legislature was in the [[2015 Prince Edward Island general election|2015 election]] when [[Peter Bevan-Baker]], leader of the [[Green Party of Prince Edward Island]], was elected in the riding of [[Kellys Cross-Cumberland]]. In a 2017 by-election PEI Green Party member [[Hannah Bell]] was elected from [[Charlottetown-Parkdale]], marking the first time in Prince Edward Island's politics that two third-party candidates had held seats in the legislature.
+
+In the [[2019 Prince Edward Island general election|2019 election]], the Green Party elected eight and became the new official opposition party, while the Liberals became the new third party. Thus PEI's two-party system finally ended to become a semi-two-party system.
+
+In the [[2023 Prince Edward Island general election|2023 election]], the Liberals regained official opposition status. 
+
+Political parties are registered in the province, under Section 24 of the Election Act.<ref>[http://www.electionspei.ca/provincial/parties/index.php Registered Political Parties at Elections PEI].  Accessed July 23, 2012.</ref><ref>[http://www.electionspei.ca/legislation/index.php PEI Election Law at Elections PEI].  Accessed July 23, 2012.</ref>
+
+===The Progressive Conservative Party===
+The [[Progressive Conservative Party of Prince Edward Island]], founded in 1873, was a fully incorporated wing of the [[Progressive Conservative Party of Canada]] (and its antecedents) until the federal party was disbanded in 2003. It is not formally a part of the new [[Conservative Party of Canada]], but the two organizations share members, and most senior provincial officials have openly stated support for the federal party. It has governed frequently, most recently from 1996 to 2007. The party is strongly of the [[Red Tory]] political tradition.  In October 2011, "The Progressive Conservatives boosted their seat count from two to five," out of 27.<ref name="2011 election" /> Due to a floor crossing on October 3, 2013, followed the next day by an expulsion of an MLA, the seat total fell to three. The party won 8 seats in the [[2015 Prince Edward Island general election|2015 election]] to expand its seats as the official opposition. The party won 12 seats in the [[2019 Prince Edward Island general election|2019 election]], to become the first ''minority government'' since 1893. It increased its seat count to 13 in an extension election in July 2019, then won a by-election in November 2020, to up their number to 14 seats, thus becoming a ''majority'' government. The party won an increased majority of 22 seats, in the 2023 election. 
+
+===Green Party===
+The [[Green Party of Prince Edward Island]] was founded in 2005, and ran in the 2007 election for the first time. The party received a larger proportion of the total vote than the NDP during the 2007 provincial election.
+
+In July 2012, the Green Party of PEI leader and co-founder [[Sharon Labchuk]] resigned.<ref name="TGC">{{cite web|url=http://www.theguardian.pe.ca/News/Local/2012-07-12/article-3029384/Labchuk-steps-down-as-Green-Party-leader/1|title=Labchuk steps down as Green Party leader|last=Wright|first=Teresa|date=12 July 2012|work=[[The Guardian (Charlottetown)|The Guardian]]|access-date=15 July 2012|location=[[Charlottetown]]|archive-date=2012-12-04|archive-url=https://web.archive.org/web/20121204022208/http://www.theguardian.pe.ca/News/Local/2012-07-12/article-3029384/Labchuk-steps-down-as-Green-Party-leader/1|url-status=dead}}</ref> Darcie Lanthier served as interim leader<ref>{{cite web|url=http://greenparty.pe.ca/?q=media/green-party-leader-sharon-labchuk-steps-down|title=Press Release:Green Party Leader Sharon Labchuk Steps Down|date=July 12, 2012|access-date=July 23, 2012}}</ref> until November 2012.<ref name="TGC2">{{cite web|url=http://www.theguardian.pe.ca/News/Local/2012-07-17/article-3032874/Green-Party-of-P.E.I.-appoints-interim-leader/1|title=Green Party of P.E.I. appoints interim leader|last=Wright|first=Teresa|date=17 July 2012|work=[[The Guardian (Charlottetown)|The Guardian]]|location=[[Charlottetown]]|archive-url=https://web.archive.org/web/20121202002625/http://www.theguardian.pe.ca/News/Local/2012-07-17/article-3032874/Green-Party-of-P.E.I.-appoints-interim-leader/1|archive-date=2012-12-02|access-date=2012-07-23|url-status=dead}}</ref> At the Leadership Convention in Charlottetown, 3 November 2012, the Green Party of Prince Edward Island elected [[Peter Bevan-Baker]] as leader. Bevan-Baker was elected to the Legislature in 2015, winning the party's first seat since the party was founded. He was joined in the Legislature by [[Hannah Bell]] in a 2017 by–election. In the [[2019 Prince Edward Island general election|2019 election]], they surpassed the Liberal Party by both seat size and popular vote to become the province's Official Opposition party, as they gained six more seats from the Liberal Party. The Greens were reduced to two seats in the [[2023 Prince Edward Island general election|2023 election]], losing their status as official opposition to the Liberals.
+
+===The Liberal Party===
+The [[Liberal Party of Prince Edward Island]], founded in 1873, is a fully incorporated wing of the [[Liberal Party of Canada]]. It has governed frequently, including several notable stretches from 1891 to 1911 and 1935 to 1959. It most recently held government from 2007 to 2019.<ref>{{cite news| url=http://www.cbc.ca/peivotes2007/ | work=CBC News | title=CBC.ca – Prince Edward Island Votes 2007}}</ref>  In October 2011, the Liberal Party lost two seats, but retained 22 out of 27 seats in the Legislature.<ref name="2011 election">{{cite news|url=https://www.theglobeandmail.com/news/politics/ghizs-liberals-secure-second-straight-majority-in-pei/article555737/|title=Election Day: Ghiz's Liberals secure second straight majority in PEI|last=Moore|first=Oliver|newspaper=[[The Globe and Mail]]|date=October 3, 2011|access-date=July 23, 2012|location=Toronto}}</ref> The seat total was 23 from October 3, 2013, following a [[Crossing the floor|floor crossing]], until February 23, 2015, due to three MLA resignations, thus reducing to 20. The party dropped to 18 seats in the [[2015 Prince Edward Island general election|2015 election]]. Then in 2017 due to a resignation (and loss in subsequent by-election), followed by a floor crossing in 2018, the party dropped to 16 seats. The party suffered further losses in the [[2019 Prince Edward Island general election|2019 election]] due to gains by the Green Party and Progressive Conservatives, reducing the Liberals to 6 seats. This resulted in the Liberals becoming the province's third party for the first time in their history. The party was further reduced to 5 seats in September 2020, with the resignation of an MLA and subsequent loss of the resultant by-election in November 2020. The Liberals regained their status as the official opposition, winning three seats to the Greens two in the 2023 election.
+
+===The New Democratic Party===
+The [[New Democratic Party of Prince Edward Island]], founded in 1962, are a fully incorporated wing of the [[New Democratic Party of Canada]]. While nominally included as one of the Island's major political parties, it has elected only one member in its history, usually performing poorly in general elections and finishing behind the other parties. The party's candidates often finish last out of party-affiliated candidates in each riding, though in 2000 [[Herb Dickieson]], the sitting MLA, finished second, and in 1947, a [[New Democratic Party of Prince Edward Island#CCF|Co-operative Commonwealth Federation]] (precursor to the NDP) candidate finished second in a riding with a Conservative candidate who had been thrown out of the party. The New Democrats are currently unrepresented in the legislature. Michelle Neill was elected party leader on April 23, 2022, succeeding [[Joe Byrne (Canadian politician)|Joe Byrne]] who had resigned on September 1, 2020. The New Democrats failed to win any seats in 2023.
+
+===The Island Party===
+The [[Island Party|Island Party of Prince Edward Island]] formed after the 2007 election. The party officially registered on March 5, 2010,<ref>{{cite web |title=History of Elections on PEI |website=Elections Prince Edward Island |url=https://www.electionspei.ca/resources/history-of-elections-on-pei |access-date=April 5, 2023}}</ref> and fielded 11 candidates in the 2011 election under leader Billy Cann.<ref>{{cite web |title=Leader Billy Cann on the Island Party |website=CBC News |date=September 26, 2011 |url=https://www.cbc.ca/news/canada/prince-edward-island/leader-billy-cann-on-the-island-party-1.1090016 |access-date=April 5, 2023}}</ref> The party was deregistered when it failed to nominate the required 10 candidates for the 2015 election and did not file an information return.<ref>{{cite report |first=Gary |last=McLeod |title=2015 Report from the Chief Electoral Officer of Prince Edward Island |date=October 7, 2015 |page=7 |publisher=Elections Prince Edward Island |url=https://www.electionspei.ca/sites/www.electionspei.ca/files/2015CEOProv.pdf |access-date=April 5, 2023}}</ref>
+
+The party re-registered on September 9, 2022.<ref name=IslandParty2022>{{cite news |title=P.E.I.'s Island Party to be on the ballot in next provincial election |first=Stu |last=Neatby |newspaper=Saltwire |date=September 9, 2022 |url=https://www.saltwire.com/atlantic-canada/news/peis-island-party-to-be-on-the-ballot-in-next-provincial-election-100771445/ |access-date=April 5, 2023}}</ref> Party president Paul Smitz cited Liberal and PC governments' failure to rescind the controversial ''Municipal Government Act'' as a significant reason for the party re-forming. [[University of Prince Edward Island]] political science professor Don Desserud described the party's platform as "right-leaning" with "some progressive social policy," and compared the party to the [[United Farmers of Canada|United Farmers]] movement. Members of the party participated in the [[Canada convoy protests|2022 Freedom Convoy]] protests against [[COVID-19 vaccination in Canada#Vaccine mandates, policies and measures|COVID-19 public health mandates]].<ref name=IslandParty2022/> The party nominated 11 candidates for the 2023 election under leader Ahava Kálnássy de Kálnás, electing none and receiving around 1% of the popular vote.<ref>{{cite news |title=P.E.I.'s Island Party claims sliver of popular vote in first showing since 2011 |first=Alison |last=Jenkins |newspaper=Saltwire |date=April 4, 2023 |url=https://www.saltwire.com/prince-edward-island/news/peis-island-party-claims-sliver-of-popular-vote-in-first-showing-since-2011-100840643/ |access-date=April 5, 2023}}</ref>
+
+==Political culture==
+PEI has been called the closest thing to a [[direct democracy]] in Canada.<ref name="driscoll1988">{{Cite journal |last=Driscoll |first=Fred |date=Summer 1988 |title=History and Politics of Prince Edward Island  |url=http://www.revparl.ca/english/issue.asp?param=125&art=765 |journal=Canadian Parliamentary Review |volume=11 |issue=2 |pages=2–14}}</ref> Because of its small population (135,851 residents, as of the 2006 [[Canadian census]]) and sizable legislature, each MLA represents, at most, approximately 5,000 people. [[Riding (division)|Ridings]], especially urban ones, tend to be quite small. The result of this is that almost everyone knows their MLA personally, or through a friend or colleague. Provincial elections on PEI make next to no use of television and radio advertising, and are instead fought house-to-house, since tiny districts make it realistically possible to visit almost every constituent while campaigning.
+
+[[Voter turnout]] on Prince Edward Island is the highest for any jurisdiction in North America above the municipal level.{{Citation needed|date=November 2010}} For example, the [[2003 Prince Edward Island general election|2003 election]] occurred on the day after [[Hurricane Juan]] struck, knocking out power to much of the Island and felling trees, but turnout was higher than 80%. Turnout for [[List of Canadian federal general elections|federal elections]] tends to be somewhat lower than turnout for provincial elections. Because of the small districts, even a handful of votes can swing a district. In 2003, three MLAs were elected with victory margins of less than 100 votes, and only two with margins of more than 1000 votes.
+
+[[Patronage]] is a strong element of traditional Island politics, and has been a widely accepted practice for generations. Recent{{when|date=January 2021}} [[political discrimination]] rulings based on the [[Charter of Rights and Freedoms]] have put this longstanding tradition into question, however.
+
+In 2010, some PEI politicians expressed concerns that eliminating the "long form" census would form a less detailed picture of PEI, and thus hurt the island's population by way of reduced Confederation programs. Politicians expressing worry about these developments included MP [[Shawn Murphy (politician)|Shawn Murphy]] (Liberal-Charlottetown) and PEI Finance Minister [[Wes Sheridan]] (also a Liberal).<ref>{{cite news|url=https://www.cbc.ca/news/canada/prince-edward-island/census-changes-worry-some-p-e-i-politicians-1.906269|title=Census changes worry some P.E.I. politicians|publisher=CBC News |date=July 15, 2010|access-date=July 23, 2012}}</ref>
+
+==Issues==
+Because of the highly centrist trend that characterizes both major parties, elections are rarely fought on wildly contrasting platforms, and instead on a collection of local issues. Recently, a prominent issue has been the continued operation of the Island's five rural hospitals, which is increasingly questioned by the growing urban population.
+
+Prince Edward Island is dependent on federal [[Equalization payments in Canada|equalization payments]] for much of its budget. The economy is heavily based on agriculture, the fishery, tourism, and bioscience,<ref>{{Cite web |last=Prince Edward Island Government |first=Economic Growth, Tourism and Culture |date=March 2, 2023 |title=Industries in PEI |url=https://www.princeedwardisland.ca/en/topic/industries-in-pei |access-date=2023-03-02 |website=www.princeedwardisland.ca}}</ref> with no natural resources or heavy industry (although light manufacturing of [[avionics]] parts is growing in importance). The provincial government often has a budgetary deficit, given the lack of local revenues and dependency on federal funds. The continued maintenance of traditional industries is often debated, as well as the need to diversify the province's economy.
+
+==Overview of federal politics==
+Under the [[Constitution Act, 1867|Canadian Constitution]], Prince Edward Island is entitled to four seats in the [[Senate of Canada]], and a corresponding minimum of four seats in the [[House of Commons of Canada]]. This results in PEI being considerably overrepresented in the current House, as six of Canada's ten provinces are to varying degrees.
+
+As of April 2019, PEI is regarded as a [[safe seat|stronghold]] for the [[Liberal Party of Canada]], having been represented exclusively by Liberal [[Members of Parliament]] from [[1988 Canadian federal election|1988]] until [[2008 Canadian federal election|2008]]. In [[2006 Canadian federal election|2006]], it was one of only two provinces (the other being [[Alberta]]) to give more than 50 percent of its votes to a single party. Much of this can be attributed to the total collapse and eventual demise of the [[Progressive Conservative Party of Canada]], which had previously been the stronger of PEI's two competing political parties for much of the 20th century. The [[Reform Party of Canada|Reform Party]]/[[Canadian Alliance]] rejected [[Red Tory]]ism, and the [[Conservative Party of Canada]] has yet to be accepted as a legitimate heir to the old Progressive Conservatives. The federal [[New Democratic Party of Canada|New Democratic Party]] has never attracted much support on PEI, although it is more successful than its provincial counterpart. In 2008, [[Gail Shea]] became the first conservative MP from PEI since 1988.
+
+In the most recent federal election of 2019, however, the Greens have seen a rise in support, as their Official Opposition status on the provincial level has benefitted it on the federal stage. However, all 4 seats remain in Liberal hands.
+
+==See also==
+{{Portal|Canada|Politics}}
+*
+* [[Lieutenant-Governor of Prince Edward Island]]
+* [[Premier of Prince Edward Island]] ([[List of Prince Edward Island premiers|list]])
+* [[Legislative Assembly of Prince Edward Island]]
+* [[List of Prince Edward Island general elections (post-Confederation)]]
+* [[List of Canadian political parties#Prince Edward Island|Political parties of Prince Edward Island]]
+* [[Government of Prince Edward Island]]
+* [[Executive Council of Prince Edward Island]]
+* [[Council of the Federation]]
+* [[Politics of Canada]]
+* [[Political culture of Canada]]
+
+==References==
+{{reflist}}
+
+==External links==
+
+===General information===
+* [http://www.gov.pe.ca/infopei/index.php3?number=52510&lang=E Political History] on the Government of Prince Edward Island website
+* [http://www.electionspei.ca/provincial/historical/women/index.php Women in Prince Edward Island Politics] on the Government of Prince Edward Island website
+* [http://www.infoplease.com/ce6/world/A0860517.html Prince Edward Island History and Politics] at InfoPlease.com
+* [http://www.upei.ca/registrar/3_political List of Political Science courses] at the University of Prince Edward Island website, including PoliSci 202: Politics and Government of Prince Edward Island
+* [http://www.canadahistoryproject.ca/1873/index.html Prince Edward Island Joins Confederation 1873] at ''A Country by Consent'', by the Canada History Project
+* [http://peiblogs.com/ PEIBlogs.com] -- "the definitive Prince Edward Island blogroll since 2004"
+
+===Political parties===
+* [http://greenparty.pe.ca/ Green Party of PEI]
+
+==Other sources==
+* Francis William Pius Bolger, ''[http://www.umanitoba.ca/colleges/st_pauls/ccha/Back%20Issues/CCHA1961/Bolger.pdf Prince Edward Island and Confederation: 1863-1873]'', CCHA, Report, 28 (1961), 25–30.
+
+{{Politics of Canadian provinces}}
+{{PEI-ED}}
+{{Canada topic|Politics of}}
+
+{{DEFAULTSORT:Politics Of Prince Edward Island}}
+[[Category:Politics of Prince Edward Island| ]]

@@ -1,0 +1,120 @@
+{{Short description|Advisory legal opinions from the Canadian courts}}
+{{ For|reference questions in the context of libraries|Reference interview}}
+In [[law of Canada|Canadian law]], a '''reference question''' or '''reference case''' (formally called '''abstract review''')<ref name="Constitutional Compliance">{{cite book|title=Canadian Constitutional Law|publisher=Emond Publishing|year=2017|isbn=978-1-77255-070-2|edition=5th|location=[[Toronto]]|page=48|ref=Abstract Review|editor1-last=Macklem|editor1-first=Patrick|editor2-last=Rogerson|editor2-first=Carol}}</ref> is a submission by the [[Canadian government|federal]] or a [[Provinces and territories of Canada|provincial]] government to the courts asking for an [[advisory opinion]] on a major legal issue. Typically the question concerns the [[constitutionality]] of legislation.
+
+==Constitutional and statutory authority==
+===Reference jurisdiction of the Supreme Court of Canada===
+<!-- Commented out: [[File:Supreme Court of Canada - Logo.png|thumb|right|Badge of the Supreme Court of Canada]] -->
+The ''[[Constitution Act, 1867]]'', gives the federal Parliament the power to create a "General Court of Appeal for Canada", but does not define the jurisdiction of the Court.<ref group="ps">''[[Constitution Act, 1867]]'', s. 101.</ref> When Parliament created the [[Supreme Court of Canada]] in 1875, it gave the [[Cabinet of Canada|federal Cabinet]] the power to refer questions to the Supreme Court for the Court's opinion.<ref group="ps">''The Supreme and Exchequer Court Act'', S.C. 1875, c. 11.</ref> That provision has been carried forward and is now found in the current ''[[Supreme Court Act]]''.<ref group="ps">''Supreme Court Act'', R.S.C. 1985, c. S-26, s.53.</ref>
+
+Under that provision, the federal Cabinet may submit a question to the [[Supreme Court of Canada]] by means of an [[order-in-council]]. Once the questions have been submitted to the Court, the Court has complete control over the process to be followed. The reference is treated in the same way as an appeal. The [[Attorney General of Canada]] is entitled to appear before the Court and to make submissions. The Attorneys General of the provinces and territories are entitled to notice of a reference and may appear on it. Interested parties are able to apply for [[intervention (law)|intervener]] status to make submissions during the hearing. When necessary, the Court may appoint an {{Lang|la|[[amicus curiae]]}} to submit a factum to support a particular view.
+
+Once the parties have been determined, the Court sets out a timetable for the filing of written submissions, and for the date of the hearing. Parties to the reference file detailed written submissions on the legal issues raised by the reference, supplemented by factual records if necessary. After all written submissions have been filed, the Court holds an oral hearing on the reference questions. At the conclusion of the hearing, the Court typically reserves its decision. At a later date, the Court releases its opinion on the reference, in the form of a detailed written judgment. Individual judges of the Court are entitled to dissent from the majority opinion, in the same way as with judgments in appeals.
+
+The opinion given by the Supreme Court is in the form of a judicial decision but is not legally binding; nevertheless, no government has ever ignored the opinion.
+
+Prior to 1949, there was an appeal from the Supreme Court to the [[Judicial Committee of the Privy Council]] of the United Kingdom, sitting in London. The Judicial Committee served as the highest court for the British Empire and Commonwealth. Many federal reference questions were appealed to the Judicial Committee, which had the final say and could overrule the decision of the Supreme Court.
+
+===Reference jurisdiction of the provincial courts===
+The provincial governments, under their respective ''Constitutional Questions Acts'', are able to submit questions to the provincial Superior Court or Court of Appeal. The process is very similar to the federal government reference questions.  Once the provincial Court of Appeal has given its decision on the reference question, the government or other parties to the reference have the right under the ''Supreme Court Act'' to appeal the decision to the Supreme Court of Canada.
+
+The jurisdiction of the Supreme Court of Canada to hear an appeal from a provincial reference question was provided in 1922 amendments to the ''Supreme Court Act''.{{sfn|Snell|Vaughan|1985|p=137}}<ref name="SupremeCourtActAmend1922" group="ps">{{Cite canlaw|short title =An Act to Amend the Supreme Court Act |abbr =S.C. |year =1922 |chapter = 48 |section = |link =https://archive.org/details/actsofparl1922v01cana/page/188 |wikilink = |linkloc =|type =}}</ref>
+
+Prior to 1949, appeals lay directly from the provincial courts of appeal to the Judicial Committee of the Privy Council.  This right of direct appeal allowed litigants to by-pass the Supreme Court, so many provincial reference cases were never heard by the Supreme Court.  The Supreme Court was then required to follow the decision of the Judicial Committee.
+
+==Constitutionality of the reference jurisdiction==
+There have been challenges to the power of the federal government to confer the reference jurisdiction on the Supreme Court, but these challenges have been rejected, most recently in the [[Reference re Secession of Quebec]] in 1998.<ref group="ps">{{cite CanLII|litigants=Reference re Secession of Quebec |link=Reference re Secession of Quebec |year=1998 |court=CanLII |num=793 |format=canlii |pinpoint= |parallelcite=[1998] 2 SCR 217 |date=|courtname=auto|juris=}}</ref>
+
+Pursuant to the ruling of the [[Judicial Committee of the Privy Council]] in ''Attorney-General of Ontario v. Attorney-General of Canada (References Reference)'' [1912] A.C. 571, the role of the courts in references is not judicial as such, but one of advising the [[executive branch]] of government.
+
+== Federal reference questions ==
+There have been over 75 federal references to the Supreme Court since 1892.  Prior to the abolition of appeals to the Judicial Committee, many of the earlier federal references went on appeal from the Supreme Court to the Judicial Committee. Since the abolition of appeals, the Supreme Court decision is the final say on a federal reference.
+
+The early Supreme Court reference decisions were not published, and the question posed to the Court was answered individually by each justice either affirmatively or in the negative. By 1885, the Supreme Court had considered eight reference questions. Three were from the [[Senate of Canada]] concerning private bills, two on the interpretation of the ''[[Canada Temperance Act]]'', one regarding prisoners in the New Brunswick penitentiary, one regarding courts in British Columbia, and one regarding the ''McCarthy Act'', relating to a national alcohol licensing system.{{sfn|Bushnell|1992|pp=130}} Snell and Vaughan note that the early justices reluctance to provide written reasons in reference decisions was a reason for the limited reference use in early Canadian history.{{sfn|Snell|Vaughan|1985|p=136}}
+
+Prime Minister [[William Lyon Mackenzie King]] pulled the Supreme Court into national politics through the strategic use of reference questions. As these references became more overtly political, they exposed the Court to sustained criticism from the Conservative opposition.{{sfn|Snell|Vaughan|1985|p=93}} King effectively used the reference procedure strategically to deflect the political consequences of divisive federalism disputes.{{sfn|Snell|Vaughan|1985|p=137}}
+
+===Decisions by the Supreme Court===
+* [[Reference re Senate Reform]], [http://canlii.ca/t/g6mfs 2014 SCC 32]
+* [[Reference re Supreme Court Act, ss. 5 and 6]], 2014
+* [[Reference re Securities Act]], 2011
+* [[Re: Same-Sex Marriage|Reference re Same-Sex Marriage]], 2004
+* [[Reference re Secession of Quebec]], [http://canlii.ca/en/ca/scc/doc/1998/1998canlii793/1998canlii793.html [1998<nowiki>]</nowiki> 2 S.C.R. 217]
+*[[David Milgaard#Life after release|Reference re David Milgaard Conviction]], [http://canlii.ca/en/ca/scc/doc/1992/1992canlii96/1992canlii96.html [1992<nowiki>]</nowiki> 1 S.C.R. 866]  (April 14, 1992)
+* [[Reference re Ng Extradition]], [1991<nowiki>]</nowiki> 2 SCR 858, [http://canlii.ca/t/1fskn 1991 CanLII 79]
+* [[Reference re Manitoba Language Rights]] (1984), [http://canlii.ca/en/ca/scc/doc/1985/1985canlii33/1985canlii33.html [1985<nowiki>]</nowiki> 1 S.C.R. 721]
+* [[Reference re Authority of Parliament in Relation to the Upper House]], [http://canlii.ca/en/ca/scc/doc/1979/1979canlii169/1979canlii169.html [1980<nowiki>]</nowiki> 1 S.C.R. 54] (The Senate Reference)
+* [[Anti-Inflation Reference]], 1976
+* [[Reference re Farm Products Marketing Act]], 1957
+* [[Coffin affair|Reference re Regina v. Coffin]], [http://canlii.ca/en/ca/scc/doc/1956/1956canlii94/1956canlii94.html [1956<nowiki>]</nowiki> S.C.R. 191]
+* [[Wartime Leasehold Regulations Reference]] [http://www.canlii.org/en/ca/scc/doc/1950/1950canlii27/1950canlii27.html [1950<nowiki>]</nowiki> SCR 124]
+* [[Chemicals Reference]] [http://www.canlii.org/en/ca/scc/doc/1943/1943canlii1/1943canlii1.html [1943<nowiki>]</nowiki> SCR 1] (War Measures Act)
+* [[Re Eskimos]], 1939
+
+===Decisions by the Judicial Committee on appeal===
+* [[Reference re Persons of Japanese Race]],  [1946] S.C.R. 248
+* [[Reference re Alberta Statutes|Attorney General of Alberta v Attorney General of Canada (Reference re Alberta Statutes)]], [1939] A.C. 117 (P.C.), affirming [1938] S.C.R. 100
+* [[Edwards v Canada (AG)|Edwards v. Canada (Attorney General)]], [1929] UKPC 86, [1930] A.C. 124, overturning ''Reference re Meaning of the Word "Persons" in s. 24 of the BNA Act'', [1928] S.C.R. 276 (more commonly known as the "Persons Case")
+* [[Reference re Marriage]], [http://www.bailii.org/uk/cases/UKPC/1912/1912_63.html [1912<nowiki>]</nowiki> AC 880], aff’g (1912), [http://canlii.ca/t/fslnp 46 S.C.R. 132]
+* [[Attorney-General of Ontario v. Attorney-General of Canada (References Reference)]], [http://www.bailii.org/uk/cases/UKPC/1912/1912_35.html [1912<nowiki>]</nowiki> A.C. 571]
+
+== Provincial reference questions ==
+The provincial governments have the power to refer legal issues to their courts as well.  Prior to the abolition of appeals to the Judicial Committee, those reference questions could be appealed directly to the Judicial Committee, by-passing the Supreme Court.  Since the abolition of appeals to the Judicial Committee, there is a right of appeal from the provincial courts to the Supreme Court on a provincial reference.
+
+===Initial decisions by the provincial courts===
+* ''Projet de loi fédéral relatif au Sénat (Re)'' ([[Quebec Senate Reference]]), [http://canlii.ca/t/g1pg8 2013 QCCA 1807]
+* [[Reference re: Section 293 of the Criminal Code of Canada]], [http://www.courts.gov.bc.ca/jdb-txt/SC/11/15/2011BCSC1588.htm 2011 BCSC 1588] (anti-polygamy law)
+* [[Reference re Order in Council 215/93 Respecting the Electoral Divisions Statutes Amendment Act]], [http://canlii.ca/t/2dbkg 1994 ABCA 342], 157 AR 241, 119 DLR (4th) 1, 25 CRR (2d) 347, 24 Alta LR (3d) 1
+
+===Decisions of the Supreme Court on appeal===
+* [[Reference re Assisted Human Reproduction Act]], [https://web.archive.org/web/20111104204506/http://scc.lexum.org/en/2010/2010scc61/2010scc61.html 2010 SCC 61, [2010<nowiki>]</nowiki> 3 S.C.R. 457]
+* [[Reference re Firearms Act]], [2000] 1 S.C.R. 783
+* [[Reference re Provincial Court Judges]], [1997] 3 S.C.R. 3 (followed by [[Re Remuneration of Judges (No. 2)]], 1998)
+* [[Reference re Amendments to the Residential Tenancies Act (N.S.)]], [1996] 1 S.C.R. 186
+* [[Reference re Quebec Sales Tax]], [http://canlii.ca/t/1frsk [1994<nowiki>]</nowiki> 2 SCR 715, 1994 CanLII 48]
+* [[Reference re Goods and Services Tax]], [http://scc.lexum.org/en/1992/1992scr2-445/1992scr2-445.html [1992<nowiki>]</nowiki> 2 S.C.R. 44]
+* [[Reference re Provincial Electoral Boundaries (Sask.)]], [http://canlii.ca/t/1fsll 1991 CanLII 61], [1991<nowiki>]</nowiki> 2 SCR 158
+* [[Reference re Upper Churchill Water Rights Reversion Act]], 1984
+* [[Quebec Veto Reference]], [1982] 2 S.C.R. 793
+* [[Reference re Resolution to Amend the Constitution]], [http://www.canlii.org/en/ca/scc/doc/1981/1981canlii25/1981canlii25.html [1981<nowiki>]</nowiki> 1 S.C.R. 753] (The Patriation Reference).
+
+===Decisions of the Judicial Committee on appeal===
+* [[Ontario (Attorney General) v. Canada Temperance Federation]]
+
+==Imperial reference questions relating to Canada==
+* [[Labrador#Boundary dispute|Labrador Boundary Reference]], [http://www.bailii.org/uk/cases/UKPC/1927/1927_25.html [1927<nowiki>]</nowiki> UKPC 25]
+
+==Reference jurisdiction in other countries==
+{{See also|Advisory opinion}}
+The government of the United Kingdom has the power to refer questions to the Judicial Committee of the Privy Council.  This power served as one of the inspirations for the reference power under the Supreme Court Act.  There has been one reference directly under this power to the Judicial Committee which related to Canada, concerning the Labrador boundary dispute between Canada and [[Dominion of Newfoundland|Newfoundland]], which at that time was an independent dominion, not part of Canada.  Other Commonwealth countries, such as India, South Africa, and  Papua New Guinea also have implemented a reference jurisdiction in their constitutions.  In the case of Papua New Guinea, their constitutional convention immediately prior to independence took counsel from Canadian legal academics on the use of the reference jurisdiction.
+
+Other jurisdictions, notably Australia and the United States, eschew reference jurisdiction for their courts. In the United States, the [[case or controversy]] clause of [[Article III of the United States Constitution]] limits federal courts to hear only actual cases; [[advisory opinion]]s are not permitted at the federal level (although some [[U.S. state|state constitutions]] do provide for such opinions). Likewise, the Australian Constitution has a similar requirement in [[Chapter III Court|Chapter III of the Constitution]].
+
+== References ==
+=== Citations ===
+{{reflist}}
+
+=== Primary sources ===
+{{Reflist|group="ps"}}
+
+== Further reading ==
+{{refbegin}}
+* {{Cite book|title = Captive Court: A Study of the Supreme Court of Canada|last = Bushnell|first = Ian|publisher = McGill-Queen's University Press|year = 1992|isbn = 978-0-7735-0851-4 |url=https://archive.org/details/captivecourtstud0000bush |url-access=registration}}
+* {{cite book |last1=Feldman |first1=Charles |title=Parliament and Supreme Court of Canada Reference Cases |date=2015 |publisher=Library of Parliament |url=https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/201544E}}
+* {{cite book |last1=Mathen |first1=Carissima |author1-link=Carissima Mathen |title=Courts Without Cases: The Law and Politics of Advisory Opinions |date=2019 |publisher=Bloomsbury Publishing |isbn=978-1-5099-2250-5 |language=en}}
+* {{citation |last = McCormick |first = Peter|year =2000 |title =Supreme at last: the evolution of the Supreme Court of Canada |publisher=J. Lorimer |isbn=978-1-55028-693-9 |url = https://archive.org/details/supremeatlastevo0000mcco |url-access=registration }}
+* {{cite journal |last1=McEvoy |first1=John P. |title=Refusing to Answer: The Supreme Court and the Reference Power Revisited |journal=University of New Brunswick Law Journal |date=2005 |volume=54 |pages=29–42 |url=https://heinonline.org/HOL/P?h=hein.journals/unblj54&i=35}}
+* {{cite book |last1=Puddister |first1=Kate |title=Seeking the Court’s Advice: The Politics of the Canadian Reference Power |date=2019 |publisher=UBC Press |isbn=978-0-7748-6113-7 |language=en}}
+* {{Cite book|title = The Supreme Court of Canada: History of the Institution|last1 = Snell|first1 = James G. |last2 = Vaughan|first2 = Frederick |publisher = The Osgoode Society|year = 1985|isbn = 978-0-8020-3417-5 |location = Toronto|url = https://archive.org/details/supremecourtofca0000snel|url-access = registration}}
+{{refend}}
+
+==External links==
+* [http://laws-lois.justice.gc.ca/eng/Const/page-5.html#h-25 ''Constitution Act, 1867'', s. 101]
+* [http://laws-lois.justice.gc.ca/eng/acts/s-26/ ''Supreme Court Act'', R.S.C. 1985, c. S-26]
+* [http://www.trudeaufoundation.ca/pdf/WebberCanadianBarReview.pdf L'Utilisation de la Procédure de l'Avis Consultatif devant la Cour Suprême du Canada: Essai de Typologie]
+
+{{Portal bar|Canada|Law}}
+
+[[Category:Law of Canada]]
+[[Category:Supreme Court of Canada]]
+[[Category:Supreme Court of Canada reference question cases| ]]

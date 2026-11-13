@@ -1,0 +1,127 @@
+---
+/**
+ * Monarchs, governors general and chief justices since 1867, from
+ * src/data/wikidata/*.json.
+ *
+ *   <tn-widget name="crown" data-set="monarchs" data-part="timeline"></tn-widget>
+ *   <tn-widget name="crown" data-set="governors-general" data-part="table"></tn-widget>
+ *
+ * data-set: monarchs | governors-general | chief-justices
+ * data-part: timeline | table
+ */
+import TermTimeline, { type Segment } from "../../components/reference/TermTimeline.astro";
+import {
+  buildDate,
+  chiefJustices,
+  formatDate,
+  formatDuration,
+  governorsGeneral,
+  inOffice,
+  monarchs,
+  totalDays,
+  type Officeholder,
+} from "../../lib/reference";
+
+interface Props {
+  set: "monarchs" | "governors-general" | "chief-justices";
+  part?: "timeline" | "table";
+}
+const { set, part = "table" } = Astro.props;
+
+const config = {
+  monarchs: { list: monarchs, noun: "monarch", heading: "Monarch", labelMin: 4 },
+  "governors-general": { list: governorsGeneral, noun: "governor general", heading: "Governor general", labelMin: 3 },
+  "chief-justices": { list: chiefJustices, noun: "chief justice", heading: "Chief justice", labelMin: 3 },
+}[set];
+if (!config) throw new Error(`crown widget: unknown set "${set}"`);
+const list: Officeholder[] = config.list;
+const prefix = set === "monarchs" ? "monarch" : set === "governors-general" ? "gg" : "cj";
+
+const range = (t: { start: string; end: string | null }) =>
+  `${formatDate(t.start, "short")} – ${t.end ? formatDate(t.end, "short") : "present"}`;
+
+// Neighbours alternate between two tones so each term stands apart.
+const tones = ["fill-accent", "fill-secondary"];
+const segments: Segment[] = list.flatMap((h, i) =>
+  h.terms.map((t) => ({
+    start: t.start,
+    end: t.end,
+    label: String(h.ordinal),
+    title: `${h.ordinal}. ${h.name}, ${range(t)}`,
+    href: `#${prefix}-${h.ordinal}`,
+    fill: tones[i % 2]!,
+  })),
+);
+const current = list.find(inOffice);
+---
+
+{
+  part === "timeline" && (
+    <figure class="not-prose my-8">
+      <TermTimeline
+        segments={segments}
+        labelMinYears={config.labelMin}
+        eras={[
+          [1867, 1907],
+          [1907, 1947],
+          [1947, 1987],
+          [1987, 2027],
+        ]}
+        label={`Timeline of every ${config.noun} since 1867. Each bar links to that ${config.noun}'s row in the table.`}
+      />
+      <figcaption class="mt-3 text-sm text-muted">
+        Each bar is one {config.noun}, numbered in order. Colours alternate only to separate neighbours. Source: Wikidata,
+        as of {formatDate(buildDate)}.
+      </figcaption>
+    </figure>
+  )
+}
+
+{
+  part === "table" && (
+    <div class="not-prose my-8 overflow-x-auto rounded-lg border border-subtle">
+      <table class="w-full min-w-[34rem] text-sm">
+        <caption class="sr-only">
+          Every {config.noun} since 1867, with dates and time in office{current && `. ${current.name} is the current ${config.noun}`}.
+        </caption>
+        <thead class="bg-surface-muted text-primary">
+          <tr>
+            <th scope="col" class="px-3 py-2 ps-4 text-end font-semibold">No.</th>
+            <th scope="col" class="px-3 py-2 text-start font-semibold">{config.heading}</th>
+            <th scope="col" class="px-3 py-2 text-start font-semibold">In office</th>
+            <th scope="col" class="px-3 py-2 pe-4 text-start font-semibold">Time in office</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-subtle text-secondary">
+          {list.map((h) => (
+            <tr id={`${prefix}-${h.ordinal}`} class="scroll-mt-24 align-top target:bg-accent-soft">
+              <td class="px-3 py-2.5 ps-4 text-end font-semibold text-primary tabular-nums">{h.ordinal}</td>
+              <th scope="row" class="px-3 py-2.5 text-start font-medium text-primary">
+                {h.wikipedia ? (
+                  <a
+                    href={h.wikipedia}
+                    class="underline decoration-accent/40 underline-offset-3 hover:text-accent hover:decoration-accent"
+                  >
+                    {h.name}
+                    <span class="sr-only"> (Wikipedia)</span>
+                  </a>
+                ) : (
+                  h.name
+                )}
+                {inOffice(h) && (
+                  <span class="ms-2 rounded-full bg-accent-soft px-2 py-0.5 text-xs font-medium text-accent">Current</span>
+                )}
+              </th>
+              <td class="px-3 py-2.5 whitespace-nowrap tabular-nums">
+                {h.terms.map((t) => (
+                  <span class="block">{range(t)}</span>
+                ))}
+              </td>
+              <td class="px-3 py-2.5 pe-4 whitespace-nowrap">{formatDuration(totalDays(h.terms))}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  )
+}

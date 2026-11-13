@@ -1,0 +1,289 @@
+{{Short description|none}}
+{{More citations needed|date=March 2018}}
+{{Infobox political system
+| name = Politics of British Columbia
+| image = Coat of arms of British Columbia.svg
+| image_size = 100
+| caption = [[Coat of arms of British Columbia]]
+| type = [[Provinces and territories of Canada|Province]] within a [[Federation|federal]] [[Parliamentary system|parliamentary]] [[constitutional monarchy]]
+| constitution = [[Constitution of Canada]]
+| legislature = [[Parliament of British Columbia|Parliament]]
+{{Bulleted list
+|[[Legislative Assembly of British Columbia|Legislative Assembly]]
+}}
+| legislature_type = [[Unicameralism|Unicameral]]
+| legislature_place = [[British Columbia Parliament Buildings]], [[Victoria, British Columbia|Victoria]]
+| legislature_speaker = [[Speaker of the Legislative Assembly of British Columbia|Speaker of the Legislative Assembly]]
+| legislature_speaker_title = 
+| upperhouse = 
+| upperhouse_speaker = 
+| upperhouse_speaker_title = 
+| upperhouse_appointer = 
+| lowerhouse = 
+| lowerhouse_speaker = 
+| lowerhouse_speaker_title = 
+| current_hos = {{Current Canadian monarch|title|name}}<br>represented by <br> Lieutenant Governor [[Wendy Lisogar-Cocchia]]
+| current_hog = [[Premier of British Columbia|Premier]]<br>[[David Eby]]
+| appointer_hog = Lieutenant governor
+| title_hosag = 
+| current_hosag = 
+| appointer_hosag = 
+| cabinet = [[Executive Council of British Columbia|Executive Council]]
+| current_cabinet = 
+| cabinet_leader = Premier (as president of the Executive Council)
+| cabinet_deputyleader = 
+| cabinet_appointer = Lieutenant governor
+| cabinet_hq = Victoria
+| cabinet_ministries = 
+| judiciary = 
+| judiciary_head = 
+| courts = 
+| court = [[British Columbia Court of Appeal|Court of Appeal]]
+| chief_judge = Leonard Marchand
+| court_seat = [[Vancouver, Canada|Vancouver]]
+| court1 = [[Supreme Court of British Columbia|Provincial Court]]
+| chief_judge1 = Ronald A. Skolrood
+| court_seat1 = 
+| court2 = [[Provincial Court of British Columbia|Provincial Court]]
+| chief_judge2 = Melissa Gillespie
+| court_seat2 = 
+}}
+The '''politics of British Columbia''' involve not only the governance of [[British Columbia]], Canada, and the various political factions that have held or vied for legislative power, but also a number of experiments or attempts at political and electoral reform.
+
+A [[constitutional monarchy]], [[the Crown]] is the [[Corporation sole#The Crown|corporation sole]], assuming distinct roles: the [[Executive branch|executive]], as the [[Queen in Council|''Crown-in-Council'']]; the [[legislature]], as the [[Queen-in-Parliament|''Crown-in-Parliament'']]; and the [[court]]s, as the ''Crown-on-the-Bench''. Three institutions—the [[Executive Council of British Columbia|Executive Council]] (Cabinet); the [[Legislative Assembly of British Columbia|Legislative Assembly]]; and the [[Judiciary of Canada|judiciary]], respectively—exercise the powers of the Crown.
+
+== Legislature ==
+[[File:British_Columbia_Parliament_Buildings_-_Pano_-_HDR.jpg|thumb|[[British Columbia Parliament Buildings]], the seat of the Legislature]]
+The [[Parliament of British Columbia]] consists of the [[Unicameralism|unicameral]] [[Legislative Assembly of British Columbia]] and the [[Queen-in-Parliament|Crown in Parliament]]. As government power is vested in the Crown, the role of the lieutenant governor is to grant [[royal assent]] on behalf of the monarch to legislation passed by the Legislature. The Crown does not participate in the legislative process save for signifying approval to a bill passed by the Assembly.
+
+=== Government ===
+The Legislature plays a role in the election of governments, as the premier and Cabinet hold office by virtue of commanding the body's confidence. Per the tenants of [[responsible government]], Cabinet ministers are almost always elected MLAs, and account to the Legislative Assembly.
+
+=== Opposition ===
+The second-largest party of [[Parliamentary group|parliamentary caucus]] is known as the [[Leader of the Opposition (British Columbia)|Official Opposition]], who typically appoint MLAs as [[Shadow Cabinet|shadow ministers]] who critique and scrutinize the work of the government.
+
+The Official Opposition is formally termed ''[[Loyal opposition|''{{ucfirst:{{Canadian monarch, current|genderp=1}}}} Majesty's Loyal Opposition'']]'' to signify that, though they may be opposed to the premier and Cabinet of the day's policies, they remain loyal to Canada, which is personified and represented by the {{Canadian monarch, current|title=1}}.<ref>{{Citation |last=Schmitz |first=Gerald |title=The Opposition in a Parliamentary System |date=December 1988 |url=http://www.parl.gc.ca/information/library/PRBpubs/bp47-e.htm |access-date=21 May 2009 |archive-url=https://web.archive.org/web/20090425171259/http://www.parl.gc.ca/information/library/PRBpubs/bp47-e.htm |archive-date=25 April 2009 |url-status=dead |place=Ottawa |publisher=Queen's Printer for Canada}}</ref>
+
+==History==
+[[Image:Legislative Assembly of British Columbia - 20190510.jpg|left|thumb|The chamber of the provincial legislature in [[Victoria, British Columbia|Victoria]]]]
+
+From British Columbia's start as a province, it used a mixture of the first-past-the-post (FPTP) electoral system in single-member districts and multi-member districts where voters cast multiple votes ([[plurality block voting]]). This was in use until 1990 (except for a small break in the 1950s when [[instant-runoff voting]] for each seat was used). In 1990, single-member districts were instituted across the province.  After that, three referendums on electoral reform and adoption of proportional representation have been held, with the most recent in [[2018 British Columbia electoral reform referendum|2018]]. Despite a majority having voting in favour of change in [[2005 British Columbia electoral reform referendum|2005]] (though failing to meet a self-assigned 60% threshold in each electoral district), the province continued to use FPTP. Subsequent referendums in [[2009 British Columbia electoral reform referendum|2009]] and [[2018 British Columbia electoral reform referendum|2018]] resulted in majorities opposed to changing the existing voting system.
+
+Prior to the [[1903 British Columbia general election]], provincial politics were non-partisan. One exception to this was the Nationalist Party, BC's first labour party founded in 1894. It elected an MLA in the 1894 and 1898 provincial election{{Spaced en dash}}[[Robert Macpherson (Canadian politician)|Robert Macpherson]].<ref>Encyclopedia of BC, p. 486</ref>
+
+The first partisan government of BC was that of [[Richard McBride]]'s [[Conservative Party of British Columbia|Conservative Party]]. The [[British Columbia Liberal Party|Liberal Party]] would serve as the Opposition until [[1916 British Columbia general election|1916]], when [[Harlan Carey Brewster]] became the first non-Conservative premier of the province.<ref>Encyclopedia of BC, p. 486</ref>
+
+During the 1940s, the Assembly was dominated by a [[Coalition government|coalition]] of Liberals and Conservatives. Neither party had enough seats to form a majority, so they formed a coalition to hold majority power and prevent the BC [[Co-operative Commonwealth Federation]] (CCF) (the forerunner of the [[NDP (British Columbia)|BC NDP]]) from taking power. During this time, BC politics were dominated by the three parties. This situation continued until [[1952 British Columbia general election|1952]], when the [[British Columbia Social Credit Party|Social Credit]] ("Socred") government of [[W.A.C. Bennett]] was elected. It stayed in power until [[1972 British Columbia general election|1972]], when the BC NDP were elected to their first government under [[Dave Barrett]]. During this period, Socreds and the BCNDP became the dominant forces in the Legislative Assembly, with Conservatives and Liberals entering the political wilderness. Socreds returned to government in 1975 under [[Bill Bennett]] before being routed by [[Mike Harcourt]]'s BC NDP in [[1991 British Columbia general election|1991]]. The second run of the BC NDP was chaotic, with the party suffering a landslide defeat by a rejuvenated BC Liberal Party under [[Gordon Campbell (Canadian politician)|Gordon Campbell]] in [[2001 British Columbia general election|2001]]. The BC Liberal Party is neutral federally and derives its membership from the centre to the centre right, and describes itself as a "free enterprise coalition". [[Gordon Wilson (British Columbia politician)|Gordon Wilson]] led the party from effective oblivion to Official Opposition status in the [[1991 British Columbia general election|1991 general election]]; some consider it to be effectively a rebirth of the defunct Socreds.
+
+In [[2017 British Columbia general election|2017]], Liberals under Premier [[Christy Clark]] took the most seats and formed a minority government, but they were soon replaced by the BC NDP who had signed a confidence-and-supply deal with the [[BC Greens|BC Green Party]]. In 2020, Premier [[John Horgan]] was the first leader in the history of the BC NDP to win a second consecutive term as premier. 
+
+After the Liberals' defeat in 2020, the party renamed itself to [[BC United]]. Between 2020 and [[2024 British Columbia general election|2024]], the popularity of the BC United dropped in the opinion polls, while a rejuvenated BC Conservative Party led by [[John Rustad]] placed second in popularity after the BC NDP. Before the 2024 election, BC United [[Withdrawal of BC United from the 2024 British Columbia general election|withdrew]] from the campaign, and in the election the Conservatives narrowly lost to the BC NDP under Premier [[David Eby]] but took enough seats to form the Opposition. Despite the [[snap election]] being called amid a leadership crisis and infighting within the Conservative Party, Eby was defeated in the [[2026 British Columbia general election|2026 election]], with [[Lorne Doerkson]] becoming Premier despite interim leader status.
+
+Throughout BC political history, several third parties have emerged. They include: the BC Greens, BC Socialists, Labour Party, the [[Provincial Party of British Columbia]], and the [[Progressive Democratic Alliance]]. Socred Premier [[Rita Johnston]] was the first female first minister in Canadian history, and [[Ujjal Dosanjh]] of the BC NDP was the first visible minority Premier in BC history. 
+
+BC also has municipal political parties. Almost all municipalities in British Columbia use "at-large" districting, rather than wards.
+
+===Conservative–Liberal era (1903–1952)===
+{| class="wikitable sortable"
+|+ Elections to the Legislative Assembly of British Columbia (1903–1949) – seats won by party
+(An ''italicized'' number indicates a minority government.)
+|-
+| colspan = "2"| '''Government'''
+| {{Canadian party colour|BC|Conservative|background}} style="color: white;" align="center" colspan=4|'''Conservative'''
+| {{Canadian party colour|BC|Liberal|background}} style="color: white;" align="center" colspan=3|'''Liberal'''
+| {{Canadian party colour|BC|Conservative|background}} style="color: white;" align="center" |'''Conservative'''
+| {{Canadian party colour|BC|Liberal|background}} style="color: white;" align="center" colspan=3|'''Liberal'''
+| {{Canadian party colour|BC|Coalition|background}} align="center" colspan=2|'''Coalition'''
+|- 
+! colspan = "2"|Party !! [[1903 British Columbia general election|1903]]!! [[1907 British Columbia general election|1907]]!! [[1909 British Columbia general election|1909]]!! [[1912 British Columbia general election|1912]]!! [[1916 British Columbia general election|1916]]!! [[1920 British Columbia general election|1920]]!! [[1924 British Columbia general election|1924]]!! [[1928 British Columbia general election|1928]]!! [[1933 British Columbia general election|1933]]!! [[1937 British Columbia general election|1937]]!! [[1941 British Columbia general election|1941]]!! [[1945 British Columbia general election|1945]]!! [[1949 British Columbia general election|1949]]
+|- align = "right"
+| bgcolor="#9999FF" | &nbsp; &nbsp; || align="left"|'''[[British Columbia Conservative Party|Conservative]]''' || '''<big>22</big>'''|| '''<big>26</big>'''|| '''<big>38</big>'''|| '''<big>39</big>'''|| 9|| 15|| 17|| '''<big>35</big>'''|| || 8|| 12|| || 
+|- align = "right"
+| bgcolor="#A51B12" | &nbsp; &nbsp; || align="left"|'''[[British Columbia Liberal Party|Liberal]]''' || 17|| 13|| 2|| || '''<big>36</big>'''|| '''<big>25</big>'''|| '''''<big>23</big>'''''|| 12|| '''<big>34</big>'''|| '''<big>31</big>'''|| '''''<big>21</big>'''''|| || 
+|- align = "right"
+| bgcolor="#808080" | &nbsp; &nbsp; || align="left"|'''Liberal-Conservative coalition''' || || || || || || || || || || || || 37|| 39
+|- align = "right"
+| bgcolor="#EEDDAA" | &nbsp; &nbsp; || align="left"|'''[[British Columbia New Democratic Party|Cooperative Commonwealth Federation]]''' || || || || || || || || || 7|| 7|| 14|| 10|| 7
+|- align = "right"
+| bgcolor="#FFD700" | &nbsp; &nbsp; || align="left"|'''[[Socialist Party of British Columbia|Socialist]]''' || 2|| 3|| 2|| 1|| || || || || || || || || 
+|- align = "right"
+| bgcolor="#EEBBBB" | &nbsp; &nbsp; || align="left"|'''[[Labour Parties of British Columbia|Labour]]''' || 1|| || || || || 3|| 3|| 1|| 1|| 1|| 1|| 1|| 1
+|- align = "right"
+| bgcolor="#98CED6" | &nbsp; &nbsp; || align="left"|'''[[Provincial Party of British Columbia|Provincial Party]]''' || || || || || || || 3|| || || || || || 
+|- align = "right"
+| bgcolor="#287BC8" | &nbsp; &nbsp; || align="left"|'''[[Non-Partisan Independent Group]]''' || || || || || || || || || 2|| || || || 
+|- align = "right"
+| bgcolor="#9999FF" | &nbsp; &nbsp; || align="left"|'''[[British Columbia Conservative Party|Unionist]]''' || || || || || || || || || 1|| || || || 
+|- align = "right"
+| bgcolor="#DA7C7C" | &nbsp; &nbsp;  || align="left"|'''[[Social Democratic Party of Canada|Social Democratic]]''' || || || || 1|| || || |||| || || || || 
+|- align = "right"
+| bgcolor="#EEBBBB" | &nbsp; &nbsp; || align="left"|'''People's Party''' || || || || || || 1|| || || || || || || 
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp;  || align="left"|'''Independent Conservative''' || || || || 1|| || || || || || || || || 
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp;  || align="left"|'''Independent Liberal''' || || || || || || || 2|| || || || || || 
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp;  || align="left"|'''Independent Socialist''' || || || || || 1|| || || || || || || || 
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp;  || align="left"|'''Independent''' || || || || || 1|| 3|| || || 2|| 1|| || || 1
+|- align = "right"
+! colspan="2" align="left" |'''<big>Total</big>''' !! '''<big>42</big>'''!! '''<big>42</big>'''!! '''<big>42</big>'''!! '''<big>42</big>'''!! '''<big>47</big>'''!! '''<big>47</big>'''!! '''<big>48</big>'''!! '''<big>48</big>'''!! '''<big>47</big>'''!! '''<big>48</big>'''!! '''<big>48</big>'''!! '''<big>48</big>'''!! '''<big>48</big>'''
+|}
+
+===Social Credit era (1952–1991)===
+
+{| class="wikitable"
+|+ Elections to the Legislative Assembly of British Columbia (1952–1986) – seats won by party
+(An ''italicized'' number indicates a minority government.)
+|-
+| colspan = "2"| '''Government'''
+| {{Canadian party colour|BC|Social Credit|background}} align="center" colspan=7|'''Social Credit'''
+| {{Canadian party colour|BC|NDP|background}} align="center" |'''NDP'''
+| {{Canadian party colour|BC|Social Credit|background}} align="center" colspan=4|'''Social Credit'''
+|- 
+! colspan = "2"|Party !! [[1952 British Columbia general election|1952]]!! [[1953 British Columbia general election|1953]]!! [[1956 British Columbia general election|1956]]!! [[1960 British Columbia general election|1960]]!! [[1963 British Columbia general election|1963]]!! [[1966 British Columbia general election|1966]]!! [[1969 British Columbia general election|1969]]!! [[1972 British Columbia general election|1972]]!! [[1975 British Columbia general election|1975]]!! [[1979 British Columbia general election|1979]]!! [[1983 British Columbia general election|1983]]!! [[1986 British Columbia general election|1986]]
+|- align = "right"
+| bgcolor="#ADD8E6" | &nbsp; &nbsp;  || align="left"|'''[[British Columbia Social Credit Party|Social Credit]]''' || '''''<big>19</big>'''''|| '''<big>28</big>'''|| '''<big>39</big>'''|| '''<big>32</big>'''|| '''<big>33</big>'''|| '''<big>33</big>'''|| '''<big>38</big>'''|| 10|| '''<big>35</big>'''|| '''<big>31</big>'''|| '''<big>35</big>'''|| '''<big>47</big>'''
+|- align = "right"
+| bgcolor="#EEDDAA" | &nbsp; &nbsp; || align="left"|'''[[British Columbia New Democratic Party|Cooperative Commonwealth Federation]]''' || 18|| 14|| 10|| 16|| || || || || || || 
+|- align = "right"
+| bgcolor="#F4A460" | &nbsp; &nbsp; || align="left"|'''[[British Columbia New Democratic Party|New Democratic]]''' || || || || || 14|| 16|| 12|| '''<big>38</big>'''|| 18|| 26|| 22|| 22
+|- align = "right"
+| bgcolor="#A51B12" | &nbsp; &nbsp; || align="left"|'''[[British Columbia Liberal Party|Liberal]]''' || 6|| 4|| 2|| 4|| 5|| 7|| 5|| 5|| 1|| || || 
+|- align = "right"
+| bgcolor="#9999FF" | &nbsp; &nbsp; || align="left"|'''[[British Columbia Conservative Party|Progressive Conservative]]''' || 4|| 1|| || || || || || 2|| 1|| || || 
+|- align = "right"
+| bgcolor="#EEBBBB" | &nbsp; &nbsp; || align="left"|'''[[Labour Parties of British Columbia|Labour]]''' || 1|| 1|| 1|| || || || || || || || ||
+
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp;  || align="left"|'''Independent''' || || || || || || || || || || || || 
+|- align = "right"
+! colspan="2" align="left" |'''<big>Total</big>''' !! <big>'''48'''</big>!! <big>'''48'''</big>!! <big>'''52'''</big>!! <big>'''52'''</big>!! <big>'''52'''</big>!! <big>'''55'''</big>!! <big>'''55'''</big>!! <big>'''55'''</big>!! <big>'''55'''</big>!! <big>'''57'''</big>!! <big>'''57'''</big>!! <big>'''69'''</big>
+|}
+
+===Liberal–NDP era (1991–2024)===
+
+{| class="wikitable"
+|+ Elections to the Legislative Assembly of British Columbia (1991–2020) – 
+seats won by party
+(An ''italicized'' number indicates a minority government.)
+|-
+| colspan = "2"| '''Government'''
+| {{Canadian party colour|BC|NDP|background}} align="center" colspan=2|'''NDP'''
+| {{Canadian party colour|BC|Liberal|background}} style="color: white;" align="center" colspan=4|'''Liberal'''
+| {{Canadian party colour|BC|NDP|background}} align="center" colspan=2|'''NDP'''
+|- 
+! colspan = "2"|Party !! [[1991 British Columbia general election|1991]]!! [[1996 British Columbia general election|1996]]!! [[2001 British Columbia general election|2001]]!! [[2005 British Columbia general election|2005]]!! [[2009 British Columbia general election|2009]]!! [[2013 British Columbia general election|2013]]!! [[2017 British Columbia general election|2017]]!! [[2020 British Columbia general election|2020]]
+|- align = "right"
+| bgcolor="#A51B12" | &nbsp; &nbsp; || align="left"|'''[[British Columbia Liberal Party|Liberal]]''' || 17|| 33|| '''<big>77</big>'''|| '''<big>46</big>'''|| '''<big>49</big>'''|| '''<big>49</big>'''|| <big>43</big>|| 28
+|- align = "right"
+| bgcolor="#F4A460" | &nbsp; &nbsp; || align="left"|'''[[British Columbia New Democratic Party|New Democratic]]''' || '''<big>51</big>'''|| '''<big>39</big>'''|| 2|| 33|| 35|| 34 || '''''41'''''|| '''<big>57</big>'''
+|- align = "right"
+| bgcolor="#99C955" | &nbsp;&nbsp; || align="left" |'''[[Green Party of British Columbia|Green]]''' || || || || || || 1 || 3 || 2
+|- align = "right"
+| bgcolor="#ADD8E6" | &nbsp; &nbsp;  || align="left"|'''[[British Columbia Social Credit Party|Social Credit]]''' || 7|| || || || || || ||
+|- align = "right"
+| bgcolor="#00BFFF" | &nbsp; &nbsp; || align="left"|'''[[Reform Party of British Columbia|Reform]]''' || || 2|| || || || || ||
+|- align = "right"
+| bgcolor="#AA99CC" | &nbsp; &nbsp; || align="left"|'''[[Progressive Democratic Alliance]]''' || || 1|| || || || || ||
+|- align = "right"
+| bgcolor="#DCDCDC" | &nbsp; &nbsp;  || align="left"|'''Independent''' || || || || || 1|| 1|| ||
+|- align = "right"
+! colspan="2" align="left" |'''<big>Total</big>''' !! <big>'''75'''</big>!! <big>'''75'''</big>!! <big>'''79'''</big>!! <big>'''79'''</big>!! <big>'''85'''</big>!! <big>'''85'''</big> !! <big>'''87'''</big> !! <big>'''87'''</big>
+|}
+
+===Conservative–NDP era (2024–present)===
+{| class="wikitable" style="text-align:right;"
+|+'''Elections to the Legislative Assembly of British Columbia (2024–present) – seats won by party'''
+|-
+! colspan="2" | Government
+| {{Canadian party colour|BC|NDP|background}} align="center" |'''NDP'''
+| {{Canadian party colour|BC|Conservative|background}} style="color: white;" align="center" colspan=1|'''Conservative'''
+|- 
+! colspan="2" |Party 
+![[43rd British Columbia general election|2024]]
+![[44th British Columbia general election|2026]]
+|-
+{{Canadian party colour|BC|NDP|row-name}}
+|'''<big>47</big>'''
+| 26
+|-
+{{Canadian party colour|BC|Conservative|row-name}}
+|44
+|'''<big>61</big>'''
+|-
+{{Canadian party colour|BC|Green|row-name}}
+|2
+|2
+|}
+
+==Electoral reform==
+{{Main|Electoral reform}}
+
+===Recall and initiative===
+
+British Columbia adopted [[recall election|recall-election]] and initiative legislation in the 1990s. These measures applied following the [[1991 British Columbia recall and initiative referendum|1991 referendum]].<ref name="Elections BC supplement">
+{{cite web|date= March 2002|title= Electoral History of British Columbia Supplement, 1987–2001|url= http://www.elections.bc.ca/elections/electoral_history/electhistvol2.pdf|page= 60|publisher= [[Elections BC]]|access-date= 2008-01-02 |archive-url = https://web.archive.org/web/20071009023853/http://www.elections.bc.ca/elections/electoral_history/electhistvol2.pdf <!-- Bot retrieved archive --> |archive-date = 2007-10-09
+}}
+</ref>
+
+Only one recall petition was ever successful: that compelling MLA [[Paul Reitsma]] to resign his seat in 1998{{snd}} hours before he would have been removed from office.
+
+===Fixed election dates===
+
+[[British Columbia]] was the first province in Canada to institute fixed election dates. In 2001 four year terms were institutionalized although exceptions are allowed. Previously, [[List of British Columbia general elections|British Columbia elections]] were like most parliamentary jurisdictions, which only require an election within a specified period of time (being five years in all jurisdictions of Canada). Later, elections were changed from a spring date to an autumn date.
+
+===Alternative voting systems===
+{{Main|Voting systems}}
+
+====1870 to 1990====
+
+From its start as a province, British Columbia used a mixture of single-member districts and multi-member districts. The SMDs used [[first-past-the post voting]] to decide the winner in each district; the multi-member districts used [[plurality block voting]] to decide the winners. This mixture of multiple-member districts using plurality block voting election system and [[single-member districts]] using the first-past-the-post election system was abolished before the [[1952 British Columbia general election|1952 election]].
+
+In 1951, the Liberal-Conservative coalition governing BC was falling apart. One of the last acts of the coalition government was to adopt the [[Instant run-off voting|instant-runoff election system]], which was implemented for the [[1952 British Columbia general election|1952 general election]].
+
+To make the instant-runoff voting system work, single-member contests were used for each seat (even in multi-seat districts). Preferential ballots were used -- rather than marking just one vote for one candidate by marking an X on their ballot, as was done under first past the post, under IRV an elector marked their choices of candidates by placing numbers next to the names of the candidates on the ballot. (However the vote used to help elect just one candidate, at most.) If a candidate received a majority of votes in the first count, that candidate was elected. If not, the candidate with the fewest votes was dropped and the second choice marked on each ballot held by that candidate was used to transfer the vote to one of the remaining candidates. This procedure was repeated until a candidate received a majority of votes, or the majority of votes still in play.
+
+The coalition suffered a defeat due to receiving relatively few votes. Enough members of the Social Credit party were elected to form a Socred [[minority government]], with the CCF forming the [[Opposition (parliamentary)|official opposition]]. The Liberals were reduced to four members in the [[Legislative Assembly of British Columbia|Legislature]]. The Conservatives (who had changed their name to “Progressive Conservative” in tandem with their [[Progressive Conservative Party of Canada|federal counterparts]]) elected only three.
+
+The Socred minority government lasted only nine months. The IRV election system was again employed for the ensuing general election. The result this time was a Socred majority. During this term of office, the Socreds abolished the alternative voting system and returned the province to the traditional election system that used both single-member districts where first-past-the-post was used, and multi-member districts where the [[plurality block voting]] election system was used.<ref>Government of BC. ELECTORAL HISTORY OF BRITISH COLUMBIA 1871-1986. Page 15 https://elections.bc.ca/docs/rpt/1871-1986_ElectoralHistoryofBC.pdf</ref>
+
+This mixture of multiple-member districts using plurality block voting election system and [[single-member districts]] using the first-past-the-post election system was abolished before the [[1991 British Columbia general election|1991 election]], bringing single-member districts and FPTP into use universally.
+
+====2000s====
+{{See also|Citizens' Assembly on Electoral Reform (British Columbia)}}
+In 2004, [[Citizens' Assembly on Electoral Reform (British Columbia)|a Citizens' Assembly]] recommended replacing the first-past-the-post system with the [[single transferable vote]] election system, to be implemented in 2009. [[2005 British Columbia electoral reform referendum|A referendum was held on May 17, 2005]], in conjunction with [[2005 British Columbia general election|that year's general election]] to determine if voters approved of this change. Change received majority support (57% of the popular votes cast), but the government said it required passage by 60% of votes cast to make the proposal binding. A second requirement was a [[majority]] of votes in 60% of the districts and 77 of the 79 districts achieved this, far more than the 48 minimum. The close result provoked further interest in [[electoral reform]], and the provincial government promised a second referendum on the issue. [[2009 British Columbia electoral reform referendum|The second referendum]] was held in conjunction with the [[2009 British Columbia general election|2009 general election]] but in that vote change garnered just over 39% of voter support, much less than the required majority.
+
+===== 2010s =====
+{{See also|2018 British Columbia electoral reform referendum}}
+In 2017 election, the BC NDP campaigned on the promise to hold a referendum on switching to an electoral system of [[proportional representation]]. In 2018, [[2018 British Columbia electoral reform referendum|a referendum]] was held with two questions on the ballot. The first question was a binary choice of maintaining the existing first-past-the-post electoral system or moving to a proportional representation electoral system. The second question asked citizens to rank three specific types of proportional representation: [[dual-member proportional representation]], [[mixed-member proportional representation]], and [[rural–urban proportional representation]]. If a majority of citizens preferred proportional representation over first-past-the-post, this second question would determine which specific type of proportional representation the province would adopt.<ref>{{Cite news|last=Dhillon|first=Sunny|date=2018-05-30|title=B.C. unveils its proposed question for voters in electoral-reform referendum|language=en-CA|work=The Globe and Mail|url=https://www.theglobeandmail.com/canada/british-columbia/article-bc-unveils-its-proposed-question-for-voters-in-electoral-reform/|access-date=2022-02-07}}</ref>
+
+When the votes in the first question were counted, most votes showed a preference for the first-past-the-post system (61.3%) over proportional representation (38.7%), making the second question moot.<ref>{{Cite web|title=2018 Referendum Voting Results|url=https://electionsbcca.blob.core.windows.net/electionsbcca/referendum/results.html|website=Elections BC}}</ref>  
+
+Critics suggested that a major reason that proportional representation was defeated was the complexity of the second ballot question.<ref>{{Cite web|title=How the No side surged from behind to defeat proportional representation|url=https://vancouversun.com/opinion/op-ed/how-the-no-side-surged-from-behind-to-defeat-proportional-representation|access-date=2022-02-07|website=vancouversun|language=en-CA}}</ref> Although much of the general public understood the difference between first-past-the-post and proportional representation, the subtle and numerous differences between dual-member proportional representation, mixed-member proportional representation, and rural–urban proportional representation (with its mixture of MMP and STV) were less easy to understand, possibly motivating many voters to vote to retain the existing electoral system.
+
+==See also==
+{{Portal|Canada|Politics|Pacific Northwest}}
+* [[Outline of British Columbia#Government and politics of British Columbia|Outline of government and politics of British Columbia]]
+* [[Executive Council of British Columbia]]
+* [[Legislative Assembly of British Columbia]]
+* [[List of political parties in British Columbia]]
+* [[List of British Columbia general elections]]
+* [[List of premiers of British Columbia]]
+* [[Council of the Federation]]
+* [[Politics of Canada]]
+* [[Political culture of Canada]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://archives.cbc.ca/IDD-1-73-1637/politics_economy/british_columbia_elections/ CBC Digital Archives – How the West is Won: A Half-century of B.C. Elections]<!-- Broken 2012-11-03 -->
+
+{{Canada topic|Politics of}}
+{{Politics of Canadian provinces}}
+{{British Columbia politics}}
+{{Authority control}}
+
+{{DEFAULTSORT:Politics Of British Columbia}}
+[[Category:Politics of British Columbia| ]]

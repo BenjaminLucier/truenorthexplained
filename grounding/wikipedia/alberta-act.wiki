@@ -1,0 +1,72 @@
+{{Short description|Foundation enactment of Province of Alberta}}
+{{italic title}}
+{{Use Canadian English|date=April 2021}}
+{{use mdy dates|date=April 2021}}
+{{Infobox legislation
+| short_title     = ''Alberta Act''
+| image           = Centre Block - Parliament Hill.jpg
+| long_title      = ''An Act to establish and provide for the Government of the Province of Alberta''
+| citation        = SC 1905, c. 3
+| legislature     = Part of the [[Constitution of Canada]]
+| enacted_by      = [[Parliament of Canada]]
+| date_enacted    = 
+| assented_by     = [[Edward VII]]
+| royal_assent    = July 20, 1905
+| date_signed     =
+| commencement    = September 1, 1905<ref>{{cite web |last1=Tattrie |first1=Jon |author-link=Jon Tattrie |title=Alberta and Confederation |url=https://www.thecanadianencyclopedia.ca/en/article/alberta-and-confederation |website=[[The Canadian Encyclopedia]] |publisher=[[Historica Canada]] |access-date=26 May 2020}}</ref>
+| bill             =
+| bill_citation    =
+| bill_date        =
+| introduced_by    =
+| 1st_reading      =
+| 2nd_reading      =
+| 3rd_reading      =
+| white_paper      =
+| committee_report =
+| amendments      = 
+| repeals         = 
+| related         = 
+| summary         =
+| keywords        = 
+| status          = Current
+}}
+The '''''Alberta Act''''' ({{langx|fr|Loi sur l'Alberta}}), effective September 1, 1905, is the [[Act of Parliament|act]] of the [[Parliament of Canada]] that created the [[Provinces and territories of Canada|province]] of [[Alberta]]. The act is similar in nature to the ''[[Saskatchewan Act]]'', which established the province of [[Saskatchewan]] at the same time. Like the ''Saskatchewan Act'', the ''Alberta Act'' was controversial because (sec. 21) it maintained the [[Government of Canada]]'s control of all of Alberta's [[natural resource]]s and [[public land]]s. Alberta did not win control of these resources until the passage of the ''[[Natural Resources Acts]]'' in 1930.
+
+The ''Alberta Act'' defined the boundaries for the [[electoral districts]] of the [[1905 Alberta general election|first Alberta general election in 1905]].
+
+The ''Alberta Act'' is part of the ''[[Constitution of Canada]]''.
+
+==See also==
+
+* ''[[Saskatchewan Act]]''
+
+==References==
+<references />
+
+==External links==
+{{Wikisource}}
+* [https://web.archive.org/web/20241116195027/http://www.solon.org/Constitutions/Canada/English/aa_1905.html English text of The Alberta Act]
+* [https://web.archive.org/web/20080104161931/http://www.collectionscanada.gc.ca/confederation/023001-2215.821.1-e.html Photo reproduction of The Alberta Act, English]
+* [https://web.archive.org/web/20080429223247/http://www.collectionscanada.gc.ca/confederation/023001-2215.821.1-f.html Photo reproduction of Acte de l’Alberta, French]
+
+{{Topics on Alberta}}
+{{Constitution of Canada|amendments}}
+{{Wilfrid Laurier}}
+{{Portal bar|Canada|Law}}
+
+[[Category:1905 in Canadian law]]
+[[Category:Alberta law]]
+[[Category:Canadian federal legislation]]
+[[Category:Constitution of Canada]]
+[[Category:Government of Alberta]]
+[[Category:Politics of Alberta]]
+[[Category:September 1905 in Canada]]
+[[Category:Premiership of Wilfrid Laurier]]
+[[Category:10th Canadian Parliament]]
+
+
+{{Alberta-stub}}
+{{Canada-law-stub}}
+{{statute-stub}}
+[[Category:History of Alberta]]
+[[Category:History of Canada]]
