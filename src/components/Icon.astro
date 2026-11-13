@@ -16,9 +16,11 @@ const raw = icons[name] as unknown as string;
 if (typeof raw !== "string") throw new Error(`Unknown icon "${String(name)}"`);
 
 const a11y = label ? `role="img" aria-label="${label}"` : `aria-hidden="true" focusable="false"`;
-const svg = raw
-  .replace(/\s(width|height|class)="[^"]*"/g, "")
-  .replace("<svg", `<svg class="${className} shrink-0" ${a11y}`);
+// Only rewrite the root <svg> tag: inner shapes such as <rect> need their own width/height.
+const svg = raw.replace(
+  /<svg\b[^>]*>/,
+  (tag) => tag.replace(/\s(width|height|class)="[^"]*"/g, "").replace("<svg", `<svg class="${className} shrink-0" ${a11y}`),
+);
 ---
 
 <Fragment set:html={svg} />
