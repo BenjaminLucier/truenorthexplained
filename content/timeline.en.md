@@ -2,6 +2,7 @@
 id: timeline
 title: "Timeline"
 status: draft
+wide: true
 summary: "The key moments behind how Canada works today, from the Royal Proclamation of 1763 to recent court cases, each linked to the page that explains it."
 ---
 

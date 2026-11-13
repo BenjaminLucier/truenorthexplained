@@ -1,6 +1,6 @@
 ---
 /**
- * Interactive timeline. Wrap the source markdown in the placeholder:
+ * Horizontal timeline. Wrap the source markdown in the placeholder:
  *
  *   Eras and entries, grouped by module (content/timeline.en.md):
  *     <tn-widget name="timeline" data-group-by="module">
@@ -12,21 +12,26 @@
  *     <tn-widget name="timeline" data-title="Case" data-text="In one line"
  *       data-group="Main section" data-group-by="charter"></tn-widget>
  *
- * The markdown stays the single source of truth: this widget parses it at
- * build time (see parse.ts) and renders a full, readable list that works
- * without JavaScript. The script adds filter chips.
+ * The markdown stays the single source of truth: this widget parses it at build time
+ * (see parse.ts). Without JavaScript the events are a plain, horizontally scrolling
+ * list. The script lays them out on a proportional time axis: one continuous line with
+ * year ticks, cards alternating above and below it, eras as coloured bands with sticky
+ * labels, axis breaks across long empty stretches, a minimap, filters, drag/keyboard
+ * navigation and #event-id deep links (ids come from parse.ts).
  *
- * Colours: modules use their own module colour. Other groupings borrow the
- * module hues as a categorical palette (via data-module), in an order that
- * keeps neighbouring groups distinct.
+ * Colours: modules use their own module colour. Other groupings borrow the module hues
+ * as a categorical palette (via data-module), in an order that keeps neighbouring
+ * groups distinct. Eras use the sequential data scale, lighter for older eras.
  */
 import { createHash } from "node:crypto";
+import Icon from "../../components/Icon.astro";
 import { allPages, href, modules } from "../../lib/site";
 import {
   charterGroups,
   charterParts,
   parseEraList,
   parseTable,
+  slugify,
   textOf,
   type TimelineEra,
   type TimelineEvent,
@@ -50,18 +55,12 @@ if (!content.trim()) throw new Error('Timeline widget needs markdown inside <tn-
 
 const isTable = /<table\b/.test(content);
 const mode = groupBy ?? (isTable ? "column" : "module");
-const slug = (s: string) =>
-  s
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "")
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-|-$/g, "");
 
 const eras: TimelineEra[] = isTable
-  ? parseTable(content, { title, text, group }, mode === "charter" ? charterGroups : (cell) => [slug(cell)])
+  ? parseTable(content, { title, text, group }, mode === "charter" ? charterGroups : (cell) => [slugify(cell)])
   : parseEraList(content);
 const events = eras.flatMap((e) => e.events);
+const hasEras = eras.some((e) => e.title);
 
 // ---- Groups: key → label and colour -------------------------------------------------
 interface Group {
@@ -98,7 +97,7 @@ if (mode === "module") {
   groups = [...charterParts.map((p, i) => ({ key: p.key, label: p.label, hue: palette[i] })), { key: "other", label: "Not a Charter case" }];
 } else {
   const seen = new Map<string, string>();
-  for (const e of events) if (e.tag && !seen.has(slug(e.tag))) seen.set(slug(e.tag), e.tag);
+  for (const e of events) if (e.tag && !seen.has(slugify(e.tag))) seen.set(slugify(e.tag), e.tag);
   groups = [...seen].map(([key, lbl], i) => ({ key, label: lbl, hue: palette[i % palette.length] }));
 }
 const used = new Set(events.flatMap((e) => e.groups));
@@ -106,35 +105,30 @@ groups = groups.filter((g) => used.has(g.key));
 const groupOf = new Map(groups.map((g) => [g.key, g]));
 const countFor = (key: string) => events.filter((e) => e.groups.includes(key)).length;
 const hueOf = (e: TimelineEvent) => groupOf.get(e.groups[0] ?? "")?.hue;
+/** Module mode names the category on the card, so colour is never the only cue. */
+const kindOf = (e: TimelineEvent) => (mode === "module" ? groupOf.get(e.groups[0] ?? "")?.label : undefined);
 
 // ---- Links: name "Read more" links after the page they point to -----------------------
 const titles = new Map((await allPages()).map((p) => [href(p.id), p.data.title]));
 const linkLabel = (l: { href: string; label: string }) =>
   /^read more$/i.test(l.label) ? (titles.get(l.href.replace(/[#?].*$/, "").replace(/\/$/, "")) ?? l.label) : l.label;
 
-// ---- Scale for the overview strip ------------------------------------------------------
 const minYear = Math.min(...events.map((e) => e.year));
 const maxYear = Math.max(...events.map((e) => e.endYear ?? e.year));
-const span = Math.max(1, maxYear - minYear);
-const pct = (y: number) => ((y - minYear) / span) * 100;
-const bands = eras
-  .filter((e) => e.title)
-  .map((era, i, list) => {
-    const start = Math.min(...era.events.map((e) => e.year));
-    const next = list[i + 1];
-    const end = next ? Math.min(...next.events.map((e) => e.year)) : maxYear;
-    return { era, start, left: pct(start), width: Math.max(pct(end) - pct(start), 0.5) };
-  });
-
 const uid = `tl-${createHash("sha1").update(content).digest("hex").slice(0, 6)}`;
 const noun = isTable && mode === "charter" ? "cases" : "events";
 ---
 
-<tn-timeline class="not-prose my-8 block" data-noun={noun} data-total={events.length}>
+<tn-timeline
+  class="tl not-prose my-8 block"
+  data-noun={noun}
+  data-total={events.length}
+  data-eras={hasEras ? "" : undefined}
+>
   <div role="group" aria-label={label}>
     {
       groups.length > 1 && (
-        <fieldset data-filters data-pagefind-ignore class="tl-filters">
+        <fieldset data-filters data-pagefind-ignore class="tl-filters tl-js">
           <legend class="text-xs font-semibold tracking-wide text-muted uppercase">
             {filterLabel ?? (mode === "module" ? "Filter by module" : mode === "charter" ? "Filter by Charter section" : "Filter")}
           </legend>
@@ -148,123 +142,162 @@ const noun = isTable && mode === "charter" ? "cases" : "events";
               <label class="tl-chip" data-module={g.hue} data-neutral={g.hue ? undefined : ""}>
                 <input type="radio" name={uid} value={g.key} class="sr-only" />
                 <span class="tl-swatch" aria-hidden="true" />
-                <span>{g.label}</span>
+                <span data-label>{g.label}</span>
                 <span class="tl-chip-count">{countFor(g.key)}</span>
               </label>
             ))}
           </div>
-          <p data-status aria-live="polite" class="mt-2 text-xs text-muted" />
+          <p data-status aria-live="polite" class="mt-2 min-h-4 text-xs text-muted" />
         </fieldset>
       )
     }
 
-    {/* Overview: the whole span at a glance, with eras as bands and one tick per event. */}
-    <div class="tl-overview" data-pagefind-ignore>
-      <div class="tl-track">
-        {
-          bands.map((b, i) => (
-            <a
-              href={b.era.id ? `#${b.era.id}` : undefined}
-              class:list={["tl-band", i % 2 ? "bg-surface-sunken" : "bg-surface-muted"]}
-              style={`inset-inline-start:${b.left}%;width:${b.width}%`}
-              title={b.era.title}
-            >
-              <span class="sr-only">{b.era.title}</span>
-            </a>
-          ))
-        }
-        {bands.length === 0 && <span class="tl-band bg-surface-muted" style="inset-inline-start:0;width:100%" />}
-        {
-          events.map((e) => (
-            <span
-              class="tl-tick"
-              data-groups={e.groups.join(" ")}
-              data-module={hueOf(e)}
-              data-neutral={hueOf(e) ? undefined : ""}
-              style={`inset-inline-start:${pct(e.year)}%${e.endYear ? `;width:max(3px, ${pct(e.endYear) - pct(e.year)}%)` : ""}`}
-              aria-hidden="true"
-            />
-          ))
-        }
-      </div>
-      <div class="tl-axis" aria-hidden="true">
-        <span style="inset-inline-start:0">{minYear}</span>
-        {
-          bands.slice(1).map((b) => (
-            <span class="tl-axis-mid" style={`inset-inline-start:${b.left}%`}>
-              {b.start}
-            </span>
-          ))
-        }
-        <span style="inset-inline-end:0">{maxYear}</span>
+    {/* Toolbar: years in view, a usage hint and previous/next. Needs the script. */}
+    <div class="tl-bar tl-js" data-pagefind-ignore>
+      <p class="tl-range" aria-hidden="true">
+        <span class="tl-range-label">In view</span>
+        <span class="tl-range-years"><span data-from>{minYear}</span><span class="tl-range-dash">–</span><span data-to>{maxYear}</span></span>
+      </p>
+      <p class="tl-hint">
+        <Icon name="MoveHorizontal" class="size-4" />
+        <span class="tl-hint-fine">Drag, scroll or use the arrow keys</span>
+        <span class="tl-hint-touch">Swipe to explore</span>
+      </p>
+      <div class="tl-nav">
+        <button type="button" class="tl-btn" data-prev aria-label={`Previous ${noun === "cases" ? "case" : "event"}`}>
+          <Icon name="ChevronLeft" class="size-5" />
+        </button>
+        <button type="button" class="tl-btn" data-next aria-label={`Next ${noun === "cases" ? "case" : "event"}`}>
+          <Icon name="ChevronRight" class="size-5" />
+        </button>
       </div>
     </div>
 
-    {
-      eras.map((era) => (
-        <section data-era aria-labelledby={era.id} class="mt-8 first-of-type:mt-6">
-          {era.title && (
-            <div class="tl-era-head">
-              <h2 id={era.id} class="text-xl font-bold tracking-tight text-primary scroll-mt-24">
-                {era.title}
-              </h2>
-              <span class="text-xs text-muted tabular-nums">{era.events.length} {noun}</span>
-            </div>
-          )}
-          <ol class="tl-list">
-            {era.events.map((e) => (
-              <li
-                class="tl-event"
-                data-groups={e.groups.join(" ")}
-                data-module={hueOf(e)}
-                data-neutral={hueOf(e) ? undefined : ""}
-              >
-                <span class="tl-year tabular-nums">{e.yearLabel}</span>
-                <span class="tl-dot" aria-hidden="true" />
-                <div class="tl-card">
-                  {e.title && (
-                    <p class="font-semibold text-primary" data-title={textOf(e.title)}>
-                      <Fragment set:html={e.title} />
-                    </p>
-                  )}
-                  {e.text && <p class="text-secondary" set:html={e.text} />}
-                  {(e.tag || e.links.length > 0) && (
-                    <p class="mt-2 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm">
-                      {e.tag && <span class="tl-tag">{e.tag}</span>}
-                      {e.links.map((l) => (
-                        <a href={l.href} class="tl-link">
-                          {linkLabel(l)}
-                        </a>
-                      ))}
-                    </p>
-                  )}
+    {/* Minimap: the whole span, one tick per event, and a draggable window for the part in view. Pointer only: the track itself is the keyboard route. */}
+    <div class="tl-map tl-js" data-pagefind-ignore aria-hidden="true">
+      <div class="tl-map-strip" data-map>
+        <div data-map-marks></div>
+        <div class="tl-map-window" data-map-window></div>
+      </div>
+      <div class="tl-map-axis" data-map-axis></div>
+    </div>
+
+    <div class="tl-track" data-track>
+      <div class="tl-inner" data-inner>
+        <div class="tl-axis" data-axis aria-hidden="true"></div>
+        {
+          eras.map((era, i) => (
+            <section class="tl-era" data-era aria-labelledby={era.title ? era.id : undefined} aria-label={era.title ? undefined : label} data-tone={era.title ? i % 5 : undefined}>
+              {era.title && (
+                <div class="tl-era-head">
+                  <h2 id={era.id} class="tl-era-title">
+                    {era.title}
+                  </h2>
+                  <span class="tl-era-count" data-era-count>
+                    {era.events.length} {noun}
+                  </span>
                 </div>
-              </li>
-            ))}
-          </ol>
-        </section>
-      ))
-    }
+              )}
+              <ol class="tl-events">
+                {era.events.map((e) => (
+                  <li
+                    id={e.id}
+                    class="tl-event"
+                    data-year={e.year}
+                    data-end={e.endYear}
+                    data-groups={e.groups.join(" ")}
+                    data-module={hueOf(e)}
+                    data-neutral={hueOf(e) ? undefined : ""}
+                    aria-labelledby={[`${e.id}-when`, e.title ? `${e.id}-title` : e.text ? `${e.id}-text` : ""].join(" ").trim()}
+                  >
+                    <span class="tl-marker" aria-hidden="true" />
+                    <span class="tl-stem" aria-hidden="true" />
+                    <div class="tl-card">
+                      <p class="tl-when" id={`${e.id}-when`}>
+                        <span class="tl-year">{e.yearLabel}</span>
+                        {kindOf(e) && <span class="tl-kind">{kindOf(e)}</span>}
+                      </p>
+                      {e.title && (
+                        <p class="tl-title" id={`${e.id}-title`} data-title={textOf(e.title)}>
+                          <Fragment set:html={e.title} />
+                        </p>
+                      )}
+                      {e.text && <p class="tl-text" id={`${e.id}-text`} set:html={e.text} />}
+                      {e.text && (
+                        <button type="button" class="tl-more" aria-expanded="false" aria-controls={`${e.id}-text`} hidden>
+                          <span data-more-label>More</span>
+                          <Icon name="ChevronDown" class="size-3.5" />
+                        </button>
+                      )}
+                      {(e.tag || e.links.length > 0) && (
+                        <p class="tl-meta">
+                          {e.tag && <span class="tl-tag">{e.tag}</span>}
+                          {e.links.map((l) => (
+                            <a href={l.href} class="tl-link">
+                              {linkLabel(l)}
+                            </a>
+                          ))}
+                        </p>
+                      )}
+                    </div>
+                  </li>
+                ))}
+              </ol>
+            </section>
+          ))
+        }
+      </div>
+    </div>
   </div>
 </tn-timeline>
 
 <style>
+  @reference "../../styles/global.css";
+
+  .tl {
+    /* Cards are ~80% of a phone screen, a comfortable reading width on desktop. */
+    --card-w: min(80vw, 18rem);
+    --stem: 1.75rem;
+    --head: 0.75rem;
+    --panel: var(--tn-surface-muted);
+  }
+  .tl[data-eras] {
+    --head: 2.75rem;
+  }
+
   /* Neutral colour for groups without a module hue (provinces, "other"). */
   [data-neutral] {
     --tn-mod: var(--tn-text-muted);
-    --tn-mod-soft: var(--tn-surface-muted);
+    --tn-mod-soft: var(--tn-surface-sunken);
   }
 
-  /* Filter chips: native radios, styled. Hidden until the script runs. */
-  tn-timeline:not(:defined) [data-filters] {
+  /* Controls that only work with the script stay hidden until it has laid things out. */
+  .tl:not([data-ready]) .tl-js {
     display: none;
   }
+
+  /* ---- Filter chips: native radios, styled ------------------------------------------ */
   .tl-filters {
-    margin: 0 0 1.25rem;
+    min-width: 0;
+    margin: 0 0 1rem;
     padding: 0;
     border: 0;
   }
+  /* Phones: one swipeable row of chips instead of a tall stack. */
+  @media (max-width: 39.99rem) {
+    .tl-filters > div {
+      flex-wrap: nowrap;
+      margin-inline: -1rem;
+      padding: 0.125rem 1rem 0.25rem;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .tl-chip {
+      flex: none;
+    }
+  }
   .tl-chip {
+    position: relative; /* keeps the visually hidden radio inside the scrolling row */
     display: inline-flex;
     align-items: center;
     gap: 0.4rem;
@@ -304,139 +337,333 @@ const noun = isTable && mode === "charter" ? "cases" : "events";
     font-variant-numeric: tabular-nums;
   }
 
-  /* Overview strip */
-  .tl-overview {
-    padding: 0.25rem 0 0;
+  /* ---- Toolbar ---------------------------------------------------------------------- */
+  .tl-bar {
+    display: flex;
+    align-items: flex-end;
+    gap: 1rem;
+    margin-bottom: 0.75rem;
   }
-  .tl-track {
+  .tl-range {
+    display: grid;
+    margin: 0;
+    line-height: 1.2;
+  }
+  .tl-range-label {
+    @apply text-xs font-semibold tracking-wide text-muted uppercase;
+  }
+  .tl-range-years {
+    @apply text-xl font-bold tracking-tight text-primary tabular-nums;
+  }
+  .tl-range-dash {
+    margin-inline: 0.3em;
+    color: var(--tn-text-muted);
+    font-weight: 400;
+  }
+  .tl-hint {
+    display: none;
+    align-items: center;
+    gap: 0.375rem;
+    margin: 0 0 0.375rem auto;
+    @apply text-xs text-muted;
+  }
+  .tl-hint-touch {
+    display: none;
+  }
+  @media (min-width: 40rem) {
+    .tl-hint {
+      display: flex;
+    }
+  }
+  @media (hover: none) {
+    .tl-hint-fine {
+      display: none;
+    }
+    .tl-hint-touch {
+      display: inline;
+    }
+  }
+  .tl-nav {
+    display: flex;
+    gap: 0.5rem;
+    margin-inline-start: auto;
+  }
+  .tl-hint + .tl-nav {
+    margin-inline-start: 0;
+  }
+  @media (max-width: 39.99rem) {
+    .tl-hint + .tl-nav {
+      margin-inline-start: auto;
+    }
+  }
+  .tl-btn {
+    @apply inline-flex size-11 items-center justify-center rounded-full border border-strong bg-surface text-primary shadow-card;
+    cursor: pointer;
+  }
+  .tl-btn:hover:not(:disabled) {
+    border-color: var(--tn-text-muted);
+    background: var(--tn-surface-muted);
+  }
+  .tl-btn:disabled {
+    cursor: default;
+    opacity: 0.4;
+    box-shadow: none;
+  }
+
+  /* ---- Minimap ---------------------------------------------------------------------- */
+  .tl-map {
+    margin-bottom: 0.875rem;
+    user-select: none;
+  }
+  .tl-map-strip {
     position: relative;
-    height: 2.25rem;
-    border-radius: 0.5rem;
+    height: 2.5rem;
     overflow: hidden;
     border: 1px solid var(--tn-border);
+    border-radius: 0.625rem;
+    background: var(--tn-surface);
+    cursor: pointer;
+    touch-action: pan-y;
   }
-  .tl-band {
+  .tl-map-strip :global(.tl-map-band) {
     position: absolute;
     top: 0;
     bottom: 0;
+    background: color-mix(in oklab, var(--era) 28%, transparent);
+    box-shadow: inset 1px 0 0 var(--tn-surface);
   }
-  a.tl-band:hover {
-    background: var(--tn-border);
-  }
-  a.tl-band:focus-visible {
-    outline-offset: -2px;
-  }
-  .tl-tick {
-    position: absolute;
-    top: 25%;
-    bottom: 25%;
-    width: 3px;
-    margin-inline-start: -1px;
-    border-radius: 2px;
-    background: var(--tn-mod);
-    pointer-events: none;
-    opacity: 0.85;
-  }
-  @media (prefers-reduced-motion: no-preference) {
-    .tl-tick {
-      transition: opacity 200ms;
-    }
-  }
-  .tl-tick[data-dim] {
-    opacity: 0.12;
-  }
-  .tl-axis {
-    position: relative;
-    height: 1.25rem;
-    margin-top: 0.25rem;
-    font-size: 0.75rem;
-    color: var(--tn-text-muted);
-    font-variant-numeric: tabular-nums;
-  }
-  .tl-axis span {
+  .tl-map-strip :global(.tl-map-break) {
     position: absolute;
     top: 0;
+    bottom: 0;
+    width: 0;
+    border-inline-start: 1px dashed var(--tn-border-strong);
   }
-  .tl-axis-mid {
+  .tl-map-strip :global(.tl-map-tick) {
+    position: absolute;
+    top: 28%;
+    bottom: 28%;
+    width: 2px;
+    margin-inline-start: -1px;
+    border-radius: 1px;
+    background: var(--tn-mod);
+  }
+  .tl-map-window {
+    position: absolute;
+    top: 2px;
+    bottom: 2px;
+    min-width: 0.75rem;
+    border: 2px solid var(--tn-text-secondary);
+    border-radius: 0.4375rem;
+    background: color-mix(in oklab, var(--tn-text-primary) 7%, transparent);
+    cursor: grab;
+  }
+  .tl[data-map-dragging] .tl-map-window {
+    cursor: grabbing;
+    border-color: var(--tn-text-primary);
+  }
+  .tl-map-axis {
+    position: relative;
+    height: 1.125rem;
+    margin-top: 0.25rem;
+    @apply text-xs text-muted tabular-nums;
+  }
+  .tl-map-axis :global(span) {
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  .tl-map-axis :global(.tl-map-mid) {
     display: none;
-    translate: -50% 0;
   }
   @media (min-width: 40rem) {
-    .tl-axis-mid {
+    .tl-map-axis :global(.tl-map-mid) {
       display: block;
     }
   }
 
-  /* Eras */
-  .tl-era-head {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
-    justify-content: space-between;
-    gap: 0.25rem 1rem;
-    padding: 0.75rem 1rem;
-    border-radius: 0.75rem;
-    background: var(--tn-surface-muted);
+  /* ---- The track: a horizontally scrolling panel ------------------------------------ */
+  .tl-track {
+    position: relative;
+    overflow-x: auto;
+    overflow-y: hidden;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+    scrollbar-width: thin;
+    scrollbar-color: var(--tn-border-strong) transparent;
     border: 1px solid var(--tn-border);
+    border-radius: var(--radius-card);
+    background: var(--panel);
+  }
+  /* Phones: full-bleed, and every swipe lands on an event. */
+  @media (max-width: 39.99rem) {
+    .tl-track {
+      margin-inline: -1rem;
+      border-inline: 0;
+      border-radius: 0;
+      scroll-snap-type: x mandatory;
+    }
+  }
+  .tl[data-dragging] .tl-track {
+    scroll-snap-type: none;
+    cursor: grabbing;
+    user-select: none;
+  }
+  @media (pointer: fine) {
+    .tl[data-ready] .tl-track {
+      cursor: grab;
+    }
+  }
+  /* Soft edges hint that there's more to either side. */
+  .tl[data-ready] .tl-track {
+    --fade-s: 1.5rem;
+    --fade-e: 2.5rem;
+    mask-image: linear-gradient(to right, transparent, #000 var(--fade-s), #000 calc(100% - var(--fade-e)), transparent);
+  }
+  .tl[data-at-start] .tl-track {
+    --fade-s: 0px;
+  }
+  .tl[data-at-end] .tl-track {
+    --fade-e: 0px;
   }
 
-  /* Events: a vertical spine with a dot per event */
-  .tl-list {
-    --dot: 0.75rem;
-    --dot-col: 1.25rem;
-    --year-col: 0px;
-    position: relative;
-    margin: 1rem 0 0;
-    padding: 0;
-    list-style: none;
+  /* Without JavaScript: a plain horizontal list on a simple line. */
+  .tl-inner {
+    display: flex;
+    width: max-content;
   }
-  .tl-list::before {
-    content: "";
-    position: absolute;
-    top: 0.25rem;
-    bottom: 0.25rem;
-    inset-inline-start: calc(var(--year-col) + var(--dot-col) / 2 - 1px);
-    width: 2px;
-    border-radius: 2px;
-    background: var(--tn-border);
+  .tl-era {
+    position: relative;
+    flex: none;
+  }
+  .tl-events {
+    display: flex;
+    gap: 1rem;
+    margin: 0;
+    padding: 0.75rem 1rem 1.25rem;
+    list-style: none;
   }
   .tl-event {
     position: relative;
-    display: grid;
-    grid-template-columns: var(--dot-col) minmax(0, 1fr);
-    grid-template-areas: "dot year" "dot card";
-    column-gap: 0.75rem;
-    padding-bottom: 0.875rem;
+    flex: none;
+    width: var(--card-w);
+    padding-top: 1.75rem;
+    scroll-snap-align: start;
+    scroll-margin-inline: 1rem;
   }
-  .tl-event[hidden] {
-    display: none;
+  .tl-event::before {
+    content: "";
+    position: absolute;
+    top: 0.4375rem;
+    inset-inline: -0.5rem;
+    height: 2px;
+    translate: 0 -50%;
+    background: var(--tn-border-strong);
   }
-  .tl-year {
-    grid-area: year;
-    font-weight: 700;
-    font-size: 0.875rem;
-    color: var(--tn-mod);
-    line-height: 1.5rem;
-  }
-  .tl-dot {
-    grid-area: dot;
-    justify-self: center;
-    width: var(--dot);
-    height: var(--dot);
-    margin-top: 0.375rem;
+  .tl-marker {
+    position: absolute;
+    top: 0;
+    inset-inline-start: 1rem;
+    width: 0.875rem;
+    height: 0.875rem;
     border-radius: 999px;
     background: var(--tn-mod);
-    box-shadow: 0 0 0 3px var(--tn-bg);
-    position: relative;
+    box-shadow:
+      0 0 0 3px var(--tn-surface),
+      0 0 0 4px color-mix(in oklab, var(--tn-mod) 40%, transparent);
   }
+  .tl-stem {
+    display: none;
+  }
+
+  /* ---- Eras: tinted bands with a coloured rule and a sticky label ------------------ */
+  .tl-era[data-tone="0"] {
+    --era: var(--tn-data-seq-2);
+  }
+  .tl-era[data-tone="1"] {
+    --era: var(--tn-data-seq-3);
+  }
+  .tl-era[data-tone="2"] {
+    --era: var(--tn-data-seq-4);
+  }
+  .tl-era[data-tone="3"] {
+    --era: var(--tn-data-seq-5);
+  }
+  .tl-era[data-tone="4"] {
+    --era: var(--tn-data-seq-6);
+  }
+  .tl-era[data-tone] {
+    background: color-mix(in oklab, var(--era) 13%, transparent);
+  }
+  .tl-era[data-tone]::before {
+    content: "";
+    position: absolute;
+    inset: 0 0 auto;
+    height: 3px;
+    background: var(--era);
+  }
+  .tl-era[data-tone] + .tl-era[data-tone] {
+    box-shadow: inset 1px 0 0 color-mix(in oklab, var(--era) 45%, var(--tn-border));
+  }
+  .tl-era-head {
+    position: sticky;
+    inset-inline-start: 1.5rem;
+    z-index: 3;
+    display: flex;
+    align-items: baseline;
+    gap: 0.625rem;
+    width: max-content;
+    max-width: calc(100% - 2rem);
+    margin-inline-start: 1rem;
+    padding-top: 0.875rem;
+    white-space: nowrap;
+  }
+  .tl-era-title {
+    margin: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    @apply text-xs font-bold tracking-wider text-primary uppercase;
+  }
+  .tl-era-count {
+    @apply text-xs text-muted tabular-nums;
+  }
+
+  /* ---- Cards ----------------------------------------------------------------------- */
   .tl-card {
-    grid-area: card;
-    padding: 0.625rem 0.875rem;
+    position: relative;
+    padding: 0.75rem 0.875rem 0.8125rem;
     border: 1px solid var(--tn-border);
-    border-inline-start: 3px solid var(--tn-mod);
-    border-radius: 0.625rem;
+    border-top: 3px solid var(--tn-mod);
+    border-radius: 0.75rem;
     background: var(--tn-surface);
-    line-height: 1.55;
+    line-height: 1.5;
+    @apply shadow-card;
+  }
+  .tl-when {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.125rem 0.5rem;
+    margin: 0 0 0.25rem;
+  }
+  .tl-year {
+    color: var(--tn-mod);
+    font-size: 0.9375rem;
+    font-weight: 750;
+    letter-spacing: -0.01em;
+    font-variant-numeric: tabular-nums;
+  }
+  .tl-kind {
+    @apply text-xs font-medium text-muted;
+  }
+  .tl-title {
+    margin: 0 0 0.25rem;
+    @apply text-[0.9375rem] leading-snug font-semibold text-primary;
+  }
+  .tl-text {
+    margin: 0;
+    @apply text-sm text-secondary;
+    text-wrap: pretty;
   }
   .tl-card :global(em) {
     font-style: italic;
@@ -455,9 +682,38 @@ const noun = isTable && mode === "charter" ? "cases" : "events";
     text-decoration: underline;
     text-underline-offset: 3px;
   }
+  .tl-more {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    margin: 0.25rem 0 0;
+    padding: 0.125rem 0;
+    border: 0;
+    background: none;
+    cursor: pointer;
+    @apply text-xs font-semibold text-muted;
+  }
+  .tl-more[hidden] {
+    display: none;
+  }
+  .tl-more:hover {
+    color: var(--tn-text-primary);
+  }
+  .tl-more[aria-expanded="true"] :global(svg) {
+    rotate: 180deg;
+  }
+  .tl-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.25rem 0.75rem;
+    margin: 0.5rem 0 0;
+    font-size: 0.8125rem;
+    line-height: 1.4;
+  }
   .tl-tag {
     display: inline-block;
-    padding: 0.05rem 0.5rem;
+    padding: 0.0625rem 0.5rem;
     border-radius: 999px;
     background: var(--tn-mod-soft);
     color: var(--tn-text-primary);
@@ -476,55 +732,865 @@ const noun = isTable && mode === "charter" ? "cases" : "events";
     text-decoration-color: var(--tn-accent);
   }
 
-  @media (min-width: 40rem) {
-    .tl-list {
-      --year-col: 5.5rem;
+  /* ---- Laid out by the script: a proportional axis ---------------------------------- */
+  @media (scripting: enabled) {
+    /* Reserve space and avoid a flash of the fallback list. Revealed anyway after a few
+       seconds, in case the script never runs. */
+    .tl:not([data-ready]) .tl-track {
+      min-height: 26rem;
     }
-    .tl-event {
-      grid-template-columns: var(--year-col) var(--dot-col) minmax(0, 1fr);
-      grid-template-areas: "year dot card";
+    .tl:not([data-ready]) .tl-inner {
+      visibility: hidden;
+      animation: tl-reveal 0s 3s forwards;
     }
-    .tl-year {
-      text-align: end;
-      padding-top: 0.5rem;
-      padding-inline-end: 0.25rem;
-      line-height: 1.25rem;
+  }
+  @keyframes tl-reveal {
+    to {
+      visibility: visible;
     }
-    .tl-dot {
-      margin-top: 0.875rem;
+  }
+
+  .tl[data-ready] .tl-inner {
+    --axis-y: calc(var(--head) + var(--above, 10rem) + var(--stem));
+    position: relative;
+    width: var(--total);
+    height: calc(var(--axis-y) + var(--stem) + var(--below, 10rem) + 1.25rem);
+  }
+  .tl[data-ready] .tl-era {
+    width: var(--w);
+    height: 100%;
+  }
+  .tl[data-ready] .tl-era[hidden],
+  .tl[data-ready] .tl-event[hidden] {
+    display: none;
+  }
+  .tl[data-ready] .tl-events {
+    display: block;
+    padding: 0;
+  }
+  .tl[data-ready] .tl-event {
+    position: absolute;
+    inset-block: 0;
+    inset-inline-start: var(--x);
+    z-index: 2;
+    width: 0;
+    padding: 0;
+    scroll-snap-align: none;
+    outline: none;
+  }
+  .tl[data-ready] .tl-event::before {
+    content: none;
+  }
+  .tl[data-ready] .tl-marker {
+    top: var(--axis-y);
+    inset-inline-start: 0;
+    translate: -50% -50%;
+    z-index: 1;
+  }
+  .tl[data-ready] .tl-stem {
+    display: block;
+    position: absolute;
+    inset-inline-start: -0.5px;
+    width: 1px;
+    height: var(--stem);
+    background: color-mix(in oklab, var(--tn-mod) 55%, var(--tn-border-strong));
+  }
+  .tl[data-ready] .tl-card {
+    position: absolute;
+    inset-inline-start: calc(var(--card-w) / -2);
+    width: var(--card-w);
+    scroll-snap-align: center;
+  }
+  .tl[data-ready] [data-side="above"] .tl-stem {
+    top: calc(var(--axis-y) - var(--stem));
+  }
+  .tl[data-ready] [data-side="above"] .tl-card {
+    bottom: calc(100% - var(--axis-y) + var(--stem));
+    border-top-width: 1px;
+    border-top-color: var(--tn-border);
+    border-bottom: 3px solid var(--tn-mod);
+  }
+  .tl[data-ready] [data-side="below"] .tl-stem {
+    top: var(--axis-y);
+  }
+  .tl[data-ready] [data-side="below"] .tl-card {
+    top: calc(var(--axis-y) + var(--stem));
+  }
+  .tl[data-ready] .tl-text:not([data-open]) {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+  }
+  .tl[data-ready] .tl-card {
+    cursor: default;
+  }
+  .tl[data-ready] .tl-card[data-expandable] {
+    cursor: pointer;
+  }
+
+  /* Hover, focus and the deep-link target */
+  .tl-event:hover .tl-card,
+  .tl-event:focus-within .tl-card {
+    z-index: 1;
+    border-inline-color: var(--tn-border-strong);
+    @apply shadow-lg;
+  }
+  .tl-event:hover .tl-marker,
+  .tl-event:focus-within .tl-marker,
+  .tl-event[data-target] .tl-marker {
+    scale: 1.3;
+  }
+  .tl-event:hover .tl-stem {
+    background: var(--tn-mod);
+  }
+  .tl-event:focus-visible .tl-card {
+    outline: 2px solid var(--tn-focus);
+    outline-offset: 3px;
+  }
+  .tl-event[data-target] .tl-card {
+    outline: 2px solid var(--tn-mod);
+    outline-offset: 3px;
+  }
+  .tl-event[data-target]:focus-visible .tl-card {
+    outline-color: var(--tn-focus);
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .tl-card {
+      transition:
+        box-shadow 180ms ease,
+        border-color 180ms ease;
     }
+    .tl-marker {
+      transition: scale 180ms ease;
+    }
+    .tl-more :global(svg) {
+      transition: rotate 180ms ease;
+    }
+    .tl-event[data-target] .tl-marker {
+      animation: tl-pulse 1.6s ease-out 2;
+    }
+  }
+  @keyframes tl-pulse {
+    0% {
+      box-shadow:
+        0 0 0 3px var(--tn-surface),
+        0 0 0 4px var(--tn-mod);
+    }
+    100% {
+      box-shadow:
+        0 0 0 3px var(--tn-surface),
+        0 0 0 16px transparent;
+    }
+  }
+
+  /* ---- Axis: line, ticks, labels, breaks, ranges (drawn by the script) -------------- */
+  .tl-axis {
+    display: none;
+  }
+  .tl[data-ready] .tl-axis {
+    display: block;
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    pointer-events: none;
+  }
+  .tl-axis :global(.tl-line) {
+    position: absolute;
+    top: var(--axis-y);
+    height: 2px;
+    translate: 0 -50%;
+    border-radius: 1px;
+    background: var(--tn-text-muted);
+  }
+  .tl-axis :global(.tl-gap) {
+    position: absolute;
+    top: var(--axis-y);
+    height: 2px;
+    translate: 0 -50%;
+    background: repeating-linear-gradient(90deg, var(--tn-border-strong) 0 4px, transparent 4px 9px);
+  }
+  .tl-axis :global(.tl-break) {
+    position: absolute;
+    top: var(--axis-y);
+    width: 0.875rem;
+    height: 1.25rem;
+    translate: -50% -50%;
+  }
+  .tl-axis :global(.tl-break::before),
+  .tl-axis :global(.tl-break::after) {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    border-radius: 1px;
+    background: var(--tn-text-muted);
+    rotate: 20deg;
+  }
+  .tl-axis :global(.tl-break::before) {
+    left: 2px;
+  }
+  .tl-axis :global(.tl-break::after) {
+    right: 2px;
+  }
+  .tl-axis :global(.tl-break-label) {
+    position: absolute;
+    top: calc(var(--axis-y) + 0.75rem);
+    translate: -50% 0;
+    white-space: nowrap;
+    font-size: 0.6875rem;
+    font-style: italic;
+    color: var(--tn-text-muted);
+  }
+  .tl-axis :global(.tl-tick) {
+    position: absolute;
+    top: var(--axis-y);
+    width: 1px;
+    height: 0.3125rem;
+    background: var(--tn-border-strong);
+  }
+  .tl-axis :global(.tl-tick[data-major]) {
+    height: 0.625rem;
+    translate: 0 -0.3125rem;
+    background: var(--tn-text-muted);
+  }
+  .tl-axis :global(.tl-tick-label) {
+    position: absolute;
+    top: calc(var(--axis-y) + 0.3125rem);
+    padding-inline-start: 0.25rem;
+    font-size: 0.6875rem;
+    font-weight: 600;
+    line-height: 1;
+    letter-spacing: 0.01em;
+    color: var(--tn-text-muted);
+    font-variant-numeric: tabular-nums;
+  }
+  .tl-axis :global(.tl-span) {
+    position: absolute;
+    top: var(--axis-y);
+    height: 0.375rem;
+    translate: 0 -50%;
+    border-radius: 999px;
+    background: color-mix(in oklab, var(--tn-mod) 55%, transparent);
   }
 </style>
 
 <script>
+  interface Item {
+    el: HTMLElement;
+    card: HTMLElement;
+    text: HTMLElement | null;
+    more: HTMLButtonElement | null;
+    era: number;
+    year: number;
+    end?: number;
+    groups: string[];
+    module?: string;
+    neutral: boolean;
+    /** Position on the axis in years (same-year events spread across the year). */
+    t: number;
+    /** Position in the track, in px. */
+    x: number;
+  }
+  interface Gap {
+    from: number;
+    to: number;
+    years: number;
+    a: number;
+    b: number;
+  }
+
+  const reduceMotion = matchMedia("(prefers-reduced-motion: reduce)");
+  const behavior = (): ScrollBehavior => (reduceMotion.matches ? "auto" : "smooth");
+  const px = (n: number) => `${Math.round(n * 10) / 10}px`;
+
   class TnTimeline extends HTMLElement {
+    #track!: HTMLElement;
+    #inner!: HTMLElement;
+    #axis!: HTMLElement;
+    #eras: HTMLElement[] = [];
+    #items: Item[] = [];
+    #visible: Item[] = [];
+    #anchors: { t: number; x: number }[] = [];
+    #slope = 40;
+    #total = 0;
+    #cardW = 0;
+    #current: Item | undefined;
+    #pending: number | undefined;
+    #idle = 0;
+    #frame = 0;
+    #suppressClick = false;
+    #abort = new AbortController();
+
     connectedCallback() {
-      const noun = this.dataset.noun ?? "events";
-      const total = Number(this.dataset.total ?? 0);
-      const status = this.querySelector<HTMLElement>("[data-status]");
-      const events = [...this.querySelectorAll<HTMLElement>(".tl-event")];
-      const ticks = [...this.querySelectorAll<HTMLElement>(".tl-tick")];
-      const eras = [...this.querySelectorAll<HTMLElement>("[data-era]")];
-      const matches = (el: HTMLElement, key: string) => !key || (el.dataset.groups ?? "").split(" ").includes(key);
+      this.#track = this.querySelector<HTMLElement>("[data-track]")!;
+      this.#inner = this.querySelector<HTMLElement>("[data-inner]")!;
+      this.#axis = this.querySelector<HTMLElement>("[data-axis]")!;
+      this.#eras = [...this.querySelectorAll<HTMLElement>("[data-era]")];
+      this.#items = this.#eras.flatMap((era, i) =>
+        [...era.querySelectorAll<HTMLElement>(".tl-event")].map((el) => ({
+          el,
+          card: el.querySelector<HTMLElement>(".tl-card")!,
+          text: el.querySelector<HTMLElement>(".tl-text"),
+          more: el.querySelector<HTMLButtonElement>(".tl-more"),
+          era: i,
+          year: Number(el.dataset.year),
+          end: el.dataset.end ? Number(el.dataset.end) : undefined,
+          groups: (el.dataset.groups ?? "").split(" ").filter(Boolean),
+          module: el.dataset.module,
+          neutral: el.hasAttribute("data-neutral"),
+          t: 0,
+          x: 0,
+        })),
+      );
+      for (const it of this.#items) it.el.tabIndex = -1;
 
-      const apply = (key: string, label: string) => {
-        let shown = 0;
-        for (const el of events) {
-          el.hidden = !matches(el, key);
-          if (!el.hidden) shown++;
+      this.#linkCaseTitles();
+      this.#bindFilters();
+      this.#bindTrack();
+      this.#bindMinimap();
+      this.#bindButtons();
+
+      this.dataset.ready = "";
+      this.#layout();
+      this.#setCurrent(this.#visible[0]);
+      this.#onScroll();
+
+      const signal = this.#abort.signal;
+      new ResizeObserver(() => {
+        if (this.#cardWidth() !== this.#cardW) this.#layout(true);
+        else this.#onScroll();
+      }).observe(this.#track);
+      document.fonts?.ready.then(() => this.#layout(true));
+      addEventListener("hashchange", () => this.#followHash(), { signal });
+      this.#followHash(true);
+    }
+
+    disconnectedCallback() {
+      this.#abort.abort();
+    }
+
+    // ---- Layout ----------------------------------------------------------------------
+
+    #cardWidth() {
+      const probe = this.#items.find((i) => !i.el.hidden) ?? this.#items[0];
+      return probe ? probe.card.getBoundingClientRect().width : 288;
+    }
+
+    /** Year → x on the current axis (piecewise linear through the events). */
+    #xOf(t: number) {
+      const a = this.#anchors;
+      if (!a.length) return 0;
+      const first = a[0]!;
+      const last = a[a.length - 1]!;
+      if (t <= first.t) return first.x - (first.t - t) * this.#slope;
+      if (t >= last.t) return last.x + (t - last.t) * this.#slope;
+      let lo = 0;
+      let hi = a.length - 1;
+      while (hi - lo > 1) {
+        const mid = (lo + hi) >> 1;
+        if (a[mid]!.t <= t) lo = mid;
+        else hi = mid;
+      }
+      const p = a[lo]!;
+      const q = a[hi]!;
+      return q.t === p.t ? p.x : p.x + ((t - p.t) / (q.t - p.t)) * (q.x - p.x);
+    }
+
+    /** x → year, the inverse of #xOf. */
+    #tOf(x: number) {
+      const a = this.#anchors;
+      if (!a.length) return 0;
+      const first = a[0]!;
+      const last = a[a.length - 1]!;
+      if (x <= first.x) return first.t - (first.x - x) / this.#slope;
+      if (x >= last.x) return last.t + (x - last.x) / this.#slope;
+      const i = a.findIndex((p) => p.x > x);
+      const p = a[i - 1]!;
+      const q = a[i]!;
+      return p.t + ((x - p.x) / (q.x - p.x)) * (q.t - p.t);
+    }
+
+    /**
+     * Places the visible events on a proportional axis. Each gap between neighbours is
+     * its length in years times a fixed scale, but never less than half a card plus a
+     * gutter, so cards alternating above and below never collide in dense decades.
+     * Gaps longer than BREAK_YEARS are shortened and drawn as an axis break.
+     */
+    #layout(keepPlace = false) {
+      const track = this.#track;
+      const centreYear = keepPlace && this.#anchors.length ? this.#tOf(track.scrollLeft + track.clientWidth / 2) : undefined;
+
+      const vis = this.#items.filter((i) => !i.el.hidden);
+      this.#visible = vis;
+      const W = (this.#cardW = this.#cardWidth());
+      const minGap = (W + 16) / 2;
+      const slope = (this.#slope = minGap / 3.2);
+      const BREAK_YEARS = 15;
+      const breakLen = minGap * 3;
+      const pad = W / 2 + 24;
+
+      // Spread same-year events across their year so the axis stays monotonic.
+      const perYear = new Map<number, number>();
+      for (const it of vis) perYear.set(it.year, (perYear.get(it.year) ?? 0) + 1);
+      const nth = new Map<number, number>();
+      const gaps: Gap[] = [];
+      vis.forEach((it, i) => {
+        const j = nth.get(it.year) ?? 0;
+        nth.set(it.year, j + 1);
+        it.t = it.year + j / perYear.get(it.year)!;
+        const prev = vis[i - 1];
+        if (!prev) it.x = pad;
+        else {
+          const years = it.year - prev.year;
+          if (years > BREAK_YEARS) {
+            it.x = prev.x + breakLen;
+            gaps.push({ from: prev.x, to: it.x, years, a: prev.year, b: it.year });
+          } else it.x = prev.x + Math.max(minGap, years * slope);
         }
-        for (const t of ticks) t.toggleAttribute("data-dim", !matches(t, key));
-        for (const era of eras) era.hidden = !era.querySelector(".tl-event:not([hidden])");
-        if (status) status.textContent = key ? `Showing ${shown} of ${total} ${noun}: ${label}` : `Showing all ${total} ${noun}`;
-      };
+        it.el.dataset.side = i % 2 ? "below" : "above";
+      });
+      this.#anchors = vis.map((it) => ({ t: it.t, x: it.x }));
+      const lastX = vis.at(-1)?.x ?? pad;
+      const maxEnd = Math.max(0, ...vis.map((i) => i.end ?? 0));
+      const total = (this.#total = Math.max(lastX + pad, maxEnd ? this.#xOf(maxEnd) + 32 : 0));
+      this.#inner.style.setProperty("--total", px(total));
 
-      this.querySelector("[data-filters]")?.addEventListener("change", (e) => {
-        const input = e.target as HTMLInputElement;
-        const label = input.closest("label")?.querySelector("span:not(.tl-swatch):not(.tl-chip-count)")?.textContent ?? "";
-        apply(input.value, label);
+      // Eras: each band runs from midway between its neighbours' events.
+      const shownEras = this.#eras
+        .map((el, i) => ({ el, items: vis.filter((it) => it.era === i) }))
+        .filter(({ el, items }) => {
+          el.hidden = items.length === 0;
+          return items.length > 0;
+        });
+      shownEras.forEach(({ el, items }, i) => {
+        const prev = shownEras[i - 1]?.items.at(-1);
+        const next = shownEras[i + 1]?.items[0];
+        const start = prev ? (prev.x + items[0]!.x) / 2 : 0;
+        const end = next ? (items.at(-1)!.x + next.x) / 2 : total;
+        el.dataset.start = String(start);
+        el.style.setProperty("--w", px(end - start));
+        for (const it of items) it.el.style.setProperty("--x", px(it.x - start));
+        const count = el.querySelector("[data-era-count]");
+        if (count) count.textContent = `${items.length} ${this.dataset.noun ?? "events"}`;
       });
 
-      // Link case titles to their detailed write-up further down the page, when there is one.
+      this.#drawAxis(gaps, vis, total);
+
+      // Show "More" only on cards whose text is actually clamped, then size the rows.
+      {
+        const clamped = vis.map((it) => !!it.text && (it.text.hasAttribute("data-open") || it.text.scrollHeight > it.text.clientHeight + 1));
+        vis.forEach((it, i) => {
+          if (it.more) it.more.hidden = !clamped[i];
+          it.card.toggleAttribute("data-expandable", clamped[i]);
+        });
+        this.#measure();
+      }
+
+      this.#drawMinimap(gaps, shownEras.map((e) => e.el), total);
+      if (centreYear !== undefined) track.scrollLeft = this.#xOf(centreYear) - track.clientWidth / 2;
+      this.#onScroll();
+    }
+
+    /** Sizes the space above and below the axis to the tallest card on each side. */
+    #measure() {
+      let above = 0;
+      let below = 0;
+      for (const it of this.#visible) {
+        const h = it.card.offsetHeight;
+        if (it.el.dataset.side === "above") above = Math.max(above, h);
+        else below = Math.max(below, h);
+      }
+      this.#inner.style.setProperty("--above", px(above));
+      this.#inner.style.setProperty("--below", px(below));
+    }
+
+    #drawAxis(gaps: Gap[], vis: Item[], total: number) {
+      const parts: string[] = [];
+      // The line: solid, except dashed across breaks.
+      let from = 0;
+      for (const g of gaps) {
+        const a = g.from + 28;
+        const b = g.to - 28;
+        parts.push(`<span class="tl-line" style="left:${px(from)};width:${px(a - from)}"></span>`);
+        parts.push(`<span class="tl-gap" style="left:${px(a)};width:${px(b - a)}"></span>`);
+        parts.push(`<span class="tl-break" style="left:${px((a + b) / 2)}"></span>`);
+        parts.push(`<span class="tl-break-label" style="left:${px((a + b) / 2)}">${g.years} years</span>`);
+        from = b;
+      }
+      parts.push(`<span class="tl-line" style="left:${px(from)};width:${px(total - from)}"></span>`);
+
+      // Ticks: one per year, labels at round years where there's room. None inside breaks.
+      if (vis.length) {
+        const inGap = (y: number) => gaps.some((g) => y > g.a && y < g.b);
+        const first = Math.ceil(this.#tOf(0));
+        const last = Math.floor(this.#tOf(total));
+        const labelled: number[] = [];
+        const LABEL_GAP = 84;
+        for (const step of [100, 50, 10, 5, 1]) {
+          for (let y = Math.ceil(first / step) * step; y <= last; y += step) {
+            if (inGap(y) || labelled.includes(y)) continue;
+            const x = this.#xOf(y);
+            if (x < 8 || x > total - 40) continue;
+            if (labelled.every((l) => Math.abs(this.#xOf(l) - x) >= LABEL_GAP)) labelled.push(y);
+          }
+        }
+        for (let y = first; y <= last; y++) {
+          if (inGap(y)) continue;
+          const x = this.#xOf(y);
+          if (x < 0 || x > total) continue;
+          const major = labelled.includes(y);
+          parts.push(`<span class="tl-tick"${major ? " data-major" : ""} style="left:${px(x)}"></span>`);
+          // Labels sit just right of their tick, nudged clear of a marker on the same spot.
+          const marker = vis.find((it) => Math.abs(it.x - x) < 12);
+          const at = marker ? marker.x + 9 : x;
+          if (major) parts.push(`<span class="tl-tick-label" style="left:${px(at)}">${y}</span>`);
+        }
+      }
+
+      // Events that span years get a bar along the axis.
+      for (const it of vis) {
+        if (!it.end) continue;
+        const attrs = it.module ? ` data-module="${it.module}"` : it.neutral ? " data-neutral" : "";
+        parts.push(`<span class="tl-span"${attrs} style="left:${px(it.x)};width:${px(this.#xOf(it.end) - it.x)}"></span>`);
+      }
+      this.#axis.innerHTML = parts.join("");
+    }
+
+    #drawMinimap(gaps: Gap[], eras: HTMLElement[], total: number) {
+      const marks = this.querySelector<HTMLElement>("[data-map-marks]");
+      const axis = this.querySelector<HTMLElement>("[data-map-axis]");
+      if (!marks || !axis || !total) return;
+      const pct = (x: number) => `${((x / total) * 100).toFixed(3)}%`;
+      const parts: string[] = [];
+      const labels: string[] = [];
+      for (const el of eras) {
+        if (!el.dataset.tone) continue;
+        const start = Number(el.dataset.start);
+        const w = parseFloat(el.style.getPropertyValue("--w"));
+        parts.push(`<span class="tl-map-band" style="left:${pct(start)};width:${pct(w)};--era:var(--tn-data-seq-${Number(el.dataset.tone) + 2})"></span>`);
+      }
+      for (const g of gaps) parts.push(`<span class="tl-map-break" style="left:${pct((g.from + g.to) / 2)}"></span>`);
+      for (const it of this.#visible) {
+        const attrs = it.module ? ` data-module="${it.module}"` : it.neutral ? " data-neutral" : "";
+        parts.push(`<span class="tl-map-tick"${attrs} style="left:${pct(it.x)}"></span>`);
+      }
+      marks.innerHTML = parts.join("");
+
+      const vis = this.#visible;
+      if (vis.length) {
+        labels.push(`<span style="left:0">${vis[0]!.year}</span>`);
+        // Era starts in between, where they don't crowd the ends.
+        for (const el of eras.slice(1)) {
+          const firstItem = vis.find((it) => this.#eras[it.era] === el);
+          const start = Number(el.dataset.start);
+          if (!firstItem || start / total < 0.08 || start / total > 0.9) continue;
+          labels.push(`<span class="tl-map-mid" style="left:${pct(start)};translate:-50% 0">${firstItem.year}</span>`);
+        }
+        const lastYear = Math.max(...vis.map((i) => i.end ?? i.year));
+        labels.push(`<span style="right:0">${lastYear}</span>`);
+      }
+      axis.innerHTML = labels.join("");
+    }
+
+    // ---- Scrolling -------------------------------------------------------------------
+
+    #onScroll = () => {
+      if (this.#frame) return;
+      this.#frame = requestAnimationFrame(() => {
+        this.#frame = 0;
+        const t = this.#track;
+        const max = t.scrollWidth - t.clientWidth;
+        this.toggleAttribute("data-at-start", t.scrollLeft <= 1);
+        this.toggleAttribute("data-at-end", t.scrollLeft >= max - 1);
+        const prev = this.querySelector<HTMLButtonElement>("[data-prev]");
+        const next = this.querySelector<HTMLButtonElement>("[data-next]");
+        if (prev) prev.disabled = t.scrollLeft <= 1;
+        if (next) next.disabled = t.scrollLeft >= max - 1;
+
+        const win = this.querySelector<HTMLElement>("[data-map-window]");
+        if (win && t.scrollWidth) {
+          win.style.left = `${(t.scrollLeft / t.scrollWidth) * 100}%`;
+          win.style.width = `${(t.clientWidth / t.scrollWidth) * 100}%`;
+        }
+
+        // Years in view: the events whose markers are on screen.
+        const lo = t.scrollLeft;
+        const hi = lo + t.clientWidth;
+        const inView = this.#visible.filter((it) => it.x >= lo && it.x <= hi);
+        const from = this.querySelector("[data-from]");
+        const to = this.querySelector("[data-to]");
+        if (from && to) {
+          const a = inView.length ? inView[0]!.year : Math.floor(this.#tOf(lo + t.clientWidth / 2));
+          const b = inView.length ? Math.max(...inView.map((i) => i.end ?? i.year)) : a;
+          from.textContent = String(a);
+          to.textContent = String(b);
+          to.parentElement!.querySelector(".tl-range-dash")!.toggleAttribute("hidden", a === b);
+          to.toggleAttribute("hidden", a === b);
+        }
+      });
+    };
+
+    /** After scrolling settles: forget any pending step, and keep Tab landing in view. */
+    #onIdle = () => {
+      this.#pending = undefined;
+      if (this.contains(document.activeElement) && document.activeElement !== document.body) return;
+      const centre = this.#track.scrollLeft + this.#track.clientWidth / 2;
+      let best: Item | undefined;
+      for (const it of this.#visible) if (!best || Math.abs(it.x - centre) < Math.abs(best.x - centre)) best = it;
+      this.#setCurrent(best);
+    };
+
+    #scrollToItem(it: Item, smooth = true) {
+      const left = it.x - this.#track.clientWidth / 2;
+      this.#track.scrollTo({ left, behavior: smooth ? behavior() : "auto" });
+    }
+
+    #setCurrent(it: Item | undefined) {
+      if (!it) return;
+      if (this.#current && this.#current !== it) this.#current.el.tabIndex = -1;
+      this.#current = it;
+      it.el.tabIndex = 0;
+    }
+
+    #focusItem(it: Item | undefined) {
+      if (!it) return;
+      this.#setCurrent(it);
+      it.el.focus({ preventScroll: true });
+      this.#scrollToItem(it);
+    }
+
+    /** Previous/next: the nearest event left or right of the centre of the view. */
+    #step(dir: 1 | -1) {
+      const ref = this.#pending ?? this.#track.scrollLeft + this.#track.clientWidth / 2;
+      const vis = this.#visible;
+      const target = dir > 0 ? vis.find((i) => i.x > ref + 2) : vis.findLast((i) => i.x < ref - 2);
+      if (!target) return;
+      this.#pending = target.x;
+      clearTimeout(this.#idle);
+      this.#idle = window.setTimeout(this.#onIdle, 700);
+      this.#setCurrent(target);
+      this.#scrollToItem(target);
+    }
+
+    #toggle(it: Item) {
+      if (!it.text || !it.more || it.more.hidden) return;
+      const open = !it.text.hasAttribute("data-open");
+      it.text.toggleAttribute("data-open", open);
+      it.more.setAttribute("aria-expanded", String(open));
+      it.more.querySelector("[data-more-label]")!.textContent = open ? "Less" : "More";
+      this.#measure();
+    }
+
+    #itemFor(node: EventTarget | null) {
+      const el = node instanceof Element ? node.closest<HTMLElement>(".tl-event") : null;
+      return el ? this.#items.find((i) => i.el === el) : undefined;
+    }
+
+    #bindTrack() {
+      const track = this.#track;
+      track.addEventListener("scroll", () => {
+        this.#onScroll();
+        clearTimeout(this.#idle);
+        this.#idle = window.setTimeout(this.#onIdle, 160);
+      });
+
+      // Drag to scroll with a mouse. Touch and pens keep native swiping.
+      let drag: { x: number; left: number; id: number; moved: boolean } | undefined;
+      track.addEventListener("pointerdown", (e) => {
+        if (e.pointerType !== "mouse" || e.button !== 0) return;
+        if ((e.target as Element).closest("a, button, input, label")) return;
+        drag = { x: e.clientX, left: track.scrollLeft, id: e.pointerId, moved: false };
+      });
+      track.addEventListener("pointermove", (e) => {
+        if (!drag || e.pointerId !== drag.id) return;
+        const dx = e.clientX - drag.x;
+        if (!drag.moved && Math.abs(dx) > 5) {
+          drag.moved = true;
+          this.dataset.dragging = "";
+          track.setPointerCapture(drag.id);
+          getSelection()?.removeAllRanges();
+        }
+        if (drag.moved) track.scrollLeft = drag.left - dx;
+      });
+      const end = (e: PointerEvent) => {
+        if (!drag || e.pointerId !== drag.id) return;
+        if (drag.moved) {
+          this.#suppressClick = true;
+          setTimeout(() => (this.#suppressClick = false), 0);
+        }
+        drag = undefined;
+        delete this.dataset.dragging;
+      };
+      track.addEventListener("pointerup", end);
+      track.addEventListener("pointercancel", end);
+      track.addEventListener(
+        "click",
+        (e) => {
+          if (!this.#suppressClick) return;
+          e.preventDefault();
+          e.stopPropagation();
+          this.#suppressClick = false;
+        },
+        { capture: true },
+      );
+
+      // Click a card to make it current; click it (or "More") to expand clamped text.
+      track.addEventListener("click", (e) => {
+        const target = e.target as Element;
+        const it = this.#itemFor(target);
+        if (!it) return;
+        if (target.closest("a")) return;
+        this.#setCurrent(it);
+        if (target.closest(".tl-more") || target.closest(".tl-card")) {
+          if (!target.closest(".tl-more")) it.el.focus({ preventScroll: true });
+          this.#toggle(it);
+        }
+      });
+
+      // Keyboard: arrows move event to event, Home/End jump, Enter/Space expand.
+      track.addEventListener("keydown", (e) => {
+        const it = this.#itemFor(e.target);
+        if (!it || e.target !== it.el || e.altKey || e.ctrlKey || e.metaKey) return;
+        const vis = this.#visible;
+        const i = vis.indexOf(it);
+        let next: Item | undefined;
+        if (e.key === "ArrowRight") next = vis[i + 1];
+        else if (e.key === "ArrowLeft") next = vis[i - 1];
+        else if (e.key === "Home") next = vis[0];
+        else if (e.key === "End") next = vis.at(-1);
+        else if (e.key === "Enter" || e.key === " ") {
+          e.preventDefault();
+          this.#toggle(it);
+          return;
+        } else return;
+        e.preventDefault();
+        this.#focusItem(next ?? it);
+      });
+
+      // Tabbing to a link inside a card makes that card current and brings it into view.
+      track.addEventListener("focusin", (e) => {
+        const it = this.#itemFor(e.target);
+        if (!it) return;
+        this.#setCurrent(it);
+        if (e.target !== it.el) {
+          const r = it.card.getBoundingClientRect();
+          const tr = track.getBoundingClientRect();
+          if (r.left < tr.left || r.right > tr.right) this.#scrollToItem(it);
+        }
+      });
+    }
+
+    #bindButtons() {
+      this.querySelector("[data-prev]")?.addEventListener("click", () => this.#step(-1));
+      this.querySelector("[data-next]")?.addEventListener("click", () => this.#step(1));
+    }
+
+    #bindMinimap() {
+      const strip = this.querySelector<HTMLElement>("[data-map]");
+      const win = this.querySelector<HTMLElement>("[data-map-window]");
+      if (!strip || !win) return;
+      const track = this.#track;
+      let drag: { x: number; left: number; id: number; moved: boolean; onWindow: boolean } | undefined;
+      const centreAt = (clientX: number) => {
+        const r = strip.getBoundingClientRect();
+        return ((clientX - r.left) / r.width) * track.scrollWidth - track.clientWidth / 2;
+      };
+      strip.addEventListener("pointerdown", (e) => {
+        if (e.button !== 0) return;
+        e.preventDefault();
+        drag = { x: e.clientX, left: track.scrollLeft, id: e.pointerId, moved: false, onWindow: win.contains(e.target as Node) };
+        strip.setPointerCapture(e.pointerId);
+      });
+      strip.addEventListener("pointermove", (e) => {
+        if (!drag || e.pointerId !== drag.id) return;
+        const dx = e.clientX - drag.x;
+        if (!drag.moved && Math.abs(dx) < 3) return;
+        if (!drag.moved) {
+          drag.moved = true;
+          this.dataset.dragging = "";
+          this.dataset.mapDragging = "";
+        }
+        const r = strip.getBoundingClientRect();
+        track.scrollLeft = drag.onWindow ? drag.left + (dx / r.width) * track.scrollWidth : centreAt(e.clientX);
+      });
+      const end = (e: PointerEvent) => {
+        if (!drag || e.pointerId !== drag.id) return;
+        if (!drag.moved && !drag.onWindow) track.scrollTo({ left: centreAt(e.clientX), behavior: behavior() });
+        drag = undefined;
+        delete this.dataset.dragging;
+        delete this.dataset.mapDragging;
+      };
+      strip.addEventListener("pointerup", end);
+      strip.addEventListener("pointercancel", end);
+    }
+
+    // ---- Filters ---------------------------------------------------------------------
+
+    #bindFilters() {
+      const status = this.querySelector<HTMLElement>("[data-status]");
+      const noun = this.dataset.noun ?? "events";
+      const total = Number(this.dataset.total ?? 0);
+      this.querySelector("[data-filters]")?.addEventListener("change", (e) => {
+        const input = e.target as HTMLInputElement;
+        const key = input.value;
+        const label = input.closest("label")?.querySelector("[data-label]")?.textContent ?? "";
+        let shown = 0;
+        for (const it of this.#items) {
+          it.el.hidden = !!key && !it.groups.includes(key);
+          if (!it.el.hidden) shown++;
+          else delete it.el.dataset.target;
+        }
+        this.#layout(true);
+        if (!this.#current || this.#current.el.hidden) this.#setCurrent(this.#visible[0]);
+        if (status) status.textContent = key ? `Showing ${shown} of ${total} ${noun}: ${label}` : `Showing all ${total} ${noun}`;
+      });
+    }
+
+    #showAll() {
+      const all = this.querySelector<HTMLInputElement>('[data-filters] input[value=""]');
+      if (all && !all.checked) {
+        all.checked = true;
+        all.dispatchEvent(new Event("change", { bubbles: true }));
+      }
+    }
+
+    // ---- Deep links ------------------------------------------------------------------
+
+    #followHash(initial = false) {
+      const id = decodeURIComponent(location.hash.slice(1));
+      if (!id) return;
+      const target = document.getElementById(id);
+      if (!target || !this.contains(target)) return;
+      const it = this.#items.find((i) => i.el === target);
+      if (it) {
+        if (it.el.hidden) this.#showAll();
+        for (const other of this.#items) delete other.el.dataset.target;
+        it.el.dataset.target = "";
+        this.#setCurrent(it);
+        // Bring the whole track on screen, then the event to its centre. On first load,
+        // wait until the browser has done its own jump to the fragment.
+        const go = () => {
+          this.#track.scrollIntoView({ block: "center", behavior: initial ? "auto" : behavior() });
+          this.#scrollToItem(it, !initial);
+        };
+        if (initial && document.readyState !== "complete") addEventListener("load", () => requestAnimationFrame(go), { once: true });
+        else go();
+        return;
+      }
+      // An era heading: bring the start of that era into view.
+      const era = target.closest<HTMLElement>("[data-era]");
+      if (era && !era.hidden) {
+        const firstItem = this.#visible.find((i) => this.#eras[i.era] === era);
+        if (firstItem) this.#track.scrollTo({ left: Number(era.dataset.start), behavior: initial ? "auto" : behavior() });
+      }
+    }
+
+    // ---- Case titles -----------------------------------------------------------------
+
+    /** Links case titles to their detailed write-up further down the page, when there is one. */
+    #linkCaseTitles() {
       const headings = [...document.querySelectorAll<HTMLElement>("article h3[id]")];
       for (const title of this.querySelectorAll<HTMLElement>("[data-title]")) {
         const name = (title.dataset.title ?? "").replace(/\.$/, "");
@@ -532,7 +1598,6 @@ const noun = isTable && mode === "charter" ? "cases" : "events";
         if (!target || title.querySelector("a")) continue;
         const a = document.createElement("a");
         a.href = `#${target.id}`;
-        a.className = "hover:underline";
         a.append(...title.childNodes);
         title.append(a);
       }
