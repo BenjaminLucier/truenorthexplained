@@ -5,6 +5,7 @@ order: 9
 icon: Handshake
 summary: "Indigenous nations were here first, and their treaties and rights are part of Canada's Constitution today."
 deep_dives: [treaties, section-35, indian-act, self-government]
+about: [term:indigenous-peoples, term:first-nations, term:inuit, term:metis, term:aboriginal]
 status: draft
 ---
 
@@ -74,13 +75,13 @@ flowchart TD
     S35 --> MT[Modern treaties and<br/>self-government agreements]
 ```
 
-1. **The Royal Proclamation of 1763.** After Britain took control of New France, King
+1. **The [Royal Proclamation of 1763](term:royal-proclamation-of-1763).** After Britain took control of New France, King
    George III declared that Indigenous lands could be acquired only by the Crown, through
    public agreement with the nation concerned. This set up the treaty process. The
    Charter still mentions it today (s. 25).
 2. **Treaties.** Between 1701 and 1923, the Crown signed dozens of historic treaties,
    from the Peace and Friendship Treaties in the Maritimes to the 11 Numbered Treaties
-   across the Prairies and North. Since 1975, it has signed **modern treaties** too.
+   across the Prairies and North. Since 1975, it has signed **[modern treaties](term:modern-treaty)** too.
    See [Treaties](/learn/indigenous/treaties).
 3. **Section 91(24) of the Constitution Act, 1867** gives the *federal* Parliament power
    over "Indians, and Lands reserved for the Indians." That's why Indigenous relations
@@ -88,10 +89,10 @@ flowchart TD
    have held that this covers Inuit (1939) and Métis and non-status Indians (2016).
 4. **The Indian Act (1876)** is the main law Parliament passed under that power. It
    created the legal category of "status," governs reserves and set up band councils.
-   See [The Indian Act](/learn/indigenous/indian-act).
+   See [The Indian Act](doc:indian-act).
 5. **Section 35 of the Constitution Act, 1982** recognizes and affirms "existing
    aboriginal and treaty rights." Because these rights are in the Constitution, ordinary
-   laws can't simply override them. See [Section 35](/learn/indigenous/section-35).
+   laws can't simply override them. See [Section 35](doc:constitution-act-1982/s35).
 
 ### What courts have said
 
@@ -100,12 +101,12 @@ that in, case by case:
 
 | Case | Year | What it established |
 |---|---|---|
-| *Calder* | 1973 | Aboriginal title (rights to land) exists in Canadian law. This pushed Ottawa to start negotiating modern treaties. |
-| *Sparrow* | 1990 | Section 35 rights can be limited only if the government can justify it, and with priority given to the right |
-| *Delgamuukw* | 1997 | What Aboriginal title is, and that oral histories count as evidence |
-| *Haida Nation* | 2004 | The Crown has a **duty to consult** (and sometimes accommodate) before acting in ways that could harm rights, even unproven ones |
-| *Tsilhqot'in* | 2014 | First time a court declared Aboriginal title to a specific area of land |
-| *Daniels* | 2016 | Métis and non-status Indians are "Indians" under s. 91(24) |
+| [*Calder*](case:calder) | 1973 | Aboriginal title (rights to land) exists in Canadian law. This pushed Ottawa to start negotiating modern treaties. |
+| [*Sparrow*](case:sparrow) | 1990 | Section 35 rights can be limited only if the government can justify it, and with priority given to the right |
+| [*Delgamuukw*](case:delgamuukw) | 1997 | What Aboriginal title is, and that oral histories count as evidence |
+| [*Haida Nation*](case:haida-nation) | 2004 | The Crown has a **duty to consult** (and sometimes accommodate) before acting in ways that could harm rights, even unproven ones |
+| [*Tsilhqot'in*](case:tsilhqotin) | 2014 | First time a court declared Aboriginal title to a specific area of land |
+| [*Daniels*](case:daniels) | 2016 | Métis and non-status Indians are "Indians" under s. 91(24) |
 
 ### Treaty land and unceded land
 
@@ -119,9 +120,9 @@ and why land claims and modern treaties are so active in BC.
 
 For much of the 19th and 20th centuries, federal policy aimed at **assimilation**:
 absorbing Indigenous peoples into settler society. The clearest example is the
-**residential school** system. More than 150,000 First Nations, Inuit and Métis children
+**[residential school](term:residential-schools)** system. More than 150,000 First Nations, Inuit and Métis children
 were sent to these church-run, government-funded schools, many by force, between the
-1800s and the 1990s. The **Truth and Reconciliation Commission (TRC)** documented this
+1800s and the 1990s. The **[Truth and Reconciliation Commission](org:truth-and-reconciliation-commission) (TRC)** documented this
 history and in 2015 issued **94 Calls to Action**. Its work is a large part of why
 "reconciliation" is now a central idea in Canadian public life.
 
@@ -132,8 +133,8 @@ Three trends shape the relationship today:
 - **Self-government.** Since 1995, Ottawa has recognized the inherent right of
   self-government as a s. 35 right. Some nations have negotiated agreements that replace
   the Indian Act with their own laws. See [Self-government](/learn/indigenous/self-government).
-- **UNDRIP.** In 2021, Parliament passed the *United Nations Declaration on the Rights of
-  Indigenous Peoples Act*, which commits the federal government to make its laws
+- **UNDRIP.** In 2021, Parliament passed the [*United Nations Declaration on the Rights of
+  Indigenous Peoples Act*](doc:undrip-act), which commits the federal government to make its laws
   consistent with the Declaration, working with Indigenous peoples.
 - **Courts and negotiation.** Many questions about land, resources and rights are still
   being settled, either in court or at the negotiating table.

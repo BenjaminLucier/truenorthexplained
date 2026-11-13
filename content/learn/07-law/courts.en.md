@@ -4,6 +4,7 @@ parent: law
 title: "How the courts are organized"
 order: 1
 summary: "A map of Canada's courts, from provincial courts to the Supreme Court, and which cases go where."
+about: [term:provincial-court, term:superior-court, term:court-of-appeal, term:section-96-courts, term:administrative-tribunal]
 status: draft
 ---
 
@@ -74,7 +75,7 @@ courts** because section 96 of the Constitution Act, 1867 says their judges are
 appointed by the Governor General. In practice that means the federal government
 appoints and pays them, while the province creates and runs the court itself.
 
-Superior courts have **inherent jurisdiction**: they can hear any case unless a law
+Superior courts have **[inherent jurisdiction](term:inherent-jurisdiction)**: they can hear any case unless a law
 specifically gives it to another court. They hear:
 
 - the most serious criminal cases, such as murder, often with a jury
@@ -83,7 +84,7 @@ specifically gives it to another court. They hear:
 - some appeals from provincial courts
 - judicial review of provincial government decisions
 
-Some provinces have **unified family courts**, where superior court judges handle all
+Some provinces have **[unified family courts](term:unified-family-court)**, where superior court judges handle all
 family matters in one place.
 
 ### Courts of appeal
@@ -103,14 +104,14 @@ The levels are the same everywhere, but the names aren't. Two examples:
 | Superior court | Superior Court of Justice | Superior Court |
 | Court of appeal | Court of Appeal for Ontario | Court of Appeal of Quebec |
 
-Some provinces call their superior court the **Court of King's Bench** (Alberta, for
-example). **Nunavut** is unusual: the Nunavut Court of Justice is a single-level trial
+Some provinces call their superior court the **[Court of King's Bench](term:court-of-kings-bench)** (Alberta, for
+example). **Nunavut** is unusual: the [Nunavut Court of Justice](term:nunavut-court-of-justice) is a single-level trial
 court that combines the superior and territorial courts, so one judge can hear any case.
 See each [province page](/provinces) for local names.
 
 ### The federal courts
 
-Section 101 of the Constitution Act, 1867 lets Parliament create a general court of
+[Section 101](doc:constitution-act-1867/s101) of the Constitution Act, 1867 lets Parliament create a general court of
 appeal for Canada (the Supreme Court) and other courts to better administer federal
 laws. Using that power, Parliament created:
 
@@ -118,23 +119,23 @@ laws. Using that power, Parliament created:
 |---|---|
 | **Federal Court** | Areas Parliament assigns to it, such as immigration and refugee decisions, patents and trademarks, maritime law, and reviews of decisions by federal boards and tribunals |
 | **Federal Court of Appeal** | Appeals from the Federal Court and the Tax Court, and reviews of some federal tribunals |
-| **Tax Court of Canada** | Disputes between taxpayers and the federal government about federal taxes, such as income tax and GST |
+| **[Tax Court of Canada](term:tax-court-of-canada)** | Disputes between taxpayers and the federal government about federal taxes, such as income tax and GST |
 
 These courts deal only with matters under federal law. Most federal law, including the
-Criminal Code, is still applied every day by the provincial courts.
+[Criminal Code](term:criminal-code), is still applied every day by the provincial courts.
 
 ### Military courts
 
 Members of the Canadian Armed Forces are subject to a separate military justice system
-under the *National Defence Act*. Trials happen at **courts martial**. Appeals go to the
+under the *National Defence Act*. Trials happen at **[courts martial](term:court-martial)**. Appeals go to the
 **Court Martial Appeal Court of Canada**, and from there to the Supreme Court.
 
 ### The Supreme Court of Canada
 
 The top of the system. It hears appeals from the provincial and territorial courts of
 appeal, the Federal Court of Appeal and the Court Martial Appeal Court. In most cases a
-party first needs the Court's permission (**leave to appeal**). Its decisions bind every
-other court in Canada. [More on the Supreme Court](/learn/law/supreme-court).
+party first needs the Court's permission (**[leave to appeal](term:leave-to-appeal)**). Its decisions bind every
+other court in Canada. [More on the Supreme Court](org:supreme-court).
 
 ### Tribunals: not courts, but close
 

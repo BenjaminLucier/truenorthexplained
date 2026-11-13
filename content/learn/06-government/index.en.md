@@ -5,6 +5,7 @@ order: 6
 icon: Building2
 summary: "Who actually runs things day to day: ministers, a non-partisan public service, Crown corporations, the Bank of Canada, and the watchdogs who check them."
 deep_dives: [departments, bank-of-canada-vs-mint, crown-corporations, watchdogs, the-budget]
+about: [term:executive, term:government, term:public-service]
 status: draft
 ---
 
@@ -23,18 +24,18 @@ government's work. And no money can be spent without Parliament's approval.
 
 ### The executive: who's in charge
 
-Legally, executive power belongs to the King (s. 9 of the Constitution Act, 1867). In
-practice it's used by the **cabinet**: the Prime Minister and the ministers they choose,
-almost all of them MPs. Formal decisions are made by the **Governor in Council**,
+Legally, executive power belongs to the King ([s. 9](doc:constitution-act-1867/s9) of the Constitution Act, 1867). In
+practice it's used by the **[cabinet](org:cabinet)**: the Prime Minister and the ministers they choose,
+almost all of them MPs. Formal decisions are made by the **[Governor in Council](term:governor-in-council)**,
 meaning the Governor General acting on cabinet's advice. Many regulations and
 appointments are made this way. See [cabinet and the PMO](/learn/elections/cabinet-and-pmo).
 
 Two principles hold this together:
 
-- **Ministerial responsibility.** Each minister answers to Parliament for everything
+- **[Ministerial responsibility](term:ministerial-responsibility).** Each minister answers to Parliament for everything
   their department does, even decisions they didn't personally make. That's what
   Question Period is for.
-- **Cabinet solidarity.** Once cabinet decides something, every minister must publicly
+- **[Cabinet solidarity](term:cabinet-solidarity).** Once cabinet decides something, every minister must publicly
   support it or resign.
 
 ### Ministers and departments
@@ -49,14 +50,14 @@ the federal government. Each one has two leaders:
 | Job | Sets direction, makes key decisions, answers to Parliament | Runs the department, gives frank advice, implements decisions |
 | Changes after an election? | Yes, if the government changes | Not necessarily |
 
-The top public servant in the country is the **Clerk of the Privy Council**, who leads
+The top public servant in the country is the **[Clerk of the Privy Council](term:clerk-of-the-privy-council)**, who leads
 the public service and serves as the Prime Minister's deputy minister and as secretary
 to the cabinet. More in [departments and the public service](/learn/government/departments).
 
 ### A non-partisan public service
 
-Federal public servants are hired on **merit**, not party loyalty, and the **Public
-Service Commission** protects that system. They are expected to serve the government of
+Federal public servants are hired on **merit**, not party loyalty, and the **[Public
+Service Commission](term:public-service-commission)** protects that system. They are expected to serve the government of
 the day loyally and give honest advice, whichever party is in power. Their political
 activities are limited, especially for senior staff, so that the public service stays
 neutral.
@@ -71,7 +72,7 @@ Not everything is done by a department:
 
 - **Agencies** such as the Canada Revenue Agency and Statistics Canada are part of the
   government but have their own specialized structure.
-- **Crown corporations** are companies wholly owned by the government, used when a job
+- **[Crown corporations](term:crown-corporation)** are companies wholly owned by the government, used when a job
   needs to be run in a businesslike way and kept at arm's length from day-to-day
   politics. Examples: Canada Post, CBC/Radio-Canada, VIA Rail, the Royal Canadian Mint.
   See [Crown corporations](/learn/government/crown-corporations).
@@ -92,8 +93,8 @@ Mint is a coin factory. See [the Bank of Canada vs. the Mint](/learn/government/
 
 ### The watchdogs
 
-Parliament has created independent **officers of Parliament** who report to Parliament
-rather than to the government. The best known is the **Auditor General**, who audits
+Parliament has created independent **[officers of Parliament](term:officers-of-parliament)** who report to Parliament
+rather than to the government. The best known is the **[Auditor General](org:auditor-general)**, who audits
 government spending and programs. Others include the **Parliamentary Budget Officer**,
 the **Conflict of Interest and Ethics Commissioner**, the **Chief Electoral Officer**,
 and the commissioners for privacy, access to information, official languages and
@@ -115,7 +116,7 @@ flowchart LR
 ```
 
 The **budget** is the government's plan. The legal authority to spend comes from the
-**estimates** and the **supply (appropriation) bills** that follow, plus spending
+**[estimates](term:estimates)** and the **[supply (appropriation) bills](term:supply-bill)** that follow, plus spending
 already authorized by other laws. More in [how federal spending gets approved](/learn/government/the-budget).
 
 ## Misconceptions

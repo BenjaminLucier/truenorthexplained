@@ -4,12 +4,13 @@ parent: federalism
 title: "The division of powers"
 order: 1
 summary: "Sections 91 and 92 of the 1867 Act, plus the shared powers, the federal catch-all, and what happens when laws collide."
+about: [term:division-of-powers, term:heads-of-power, term:pith-and-substance, term:peace-order-and-good-government, term:paramountcy]
 status: draft
 ---
 
 ## In short
 
-The Constitution Act, 1867 gives Parliament a list of subjects in **section 91** and
+The [Constitution Act, 1867](doc:constitution-act-1867) gives Parliament a list of subjects in **section 91** and
 the provinces a list in **section 92**. A few other sections add natural resources,
 education, pensions, agriculture and immigration. Anything left over goes to Parliament
 under its **"peace, order and good government"** power. When valid federal and
@@ -29,7 +30,7 @@ substance"**. A law that's mainly about a valid subject can still affect other s
 along the way.
 
 The wording is from 1867, so some of it is old-fashioned (for example "Indians" in
-s. 91(24), or "Asylums" in s. 92(7)). Courts read the lists as a "living tree" that
+[s. 91(24)](doc:constitution-act-1867/s91-24), or "Asylums" in s. 92(7)). Courts read the lists as a "[living tree](term:living-tree)" that
 applies to new things such as broadcasting and aviation.
 
 ### Key federal powers: section 91
@@ -94,7 +95,7 @@ consumer protection and securities regulation are provincial.
 - **s. 94A: pensions.** Parliament may make laws about old age pensions and related
   benefits (including survivors' and disability benefits), but no federal law affects
   a provincial law on the same subject. This is the one case where **provincial** law
-  wins a conflict. It's why Quebec can run the Quebec Pension Plan alongside the Canada
+  wins a conflict. It's why Quebec can run the [Quebec Pension Plan](term:quebec-pension-plan) alongside the Canada
   Pension Plan. Added in 1951 and broadened in 1964.
 - **s. 95: agriculture and immigration.** Both Parliament and the provinces can make
   laws on these. A provincial law applies only as long as it isn't "repugnant to"
@@ -115,7 +116,7 @@ Courts have recognized three ways POGG applies:
 1. **Gaps:** subjects the drafters plainly left out, such as incorporating companies
    with federal (not provincial) objects.
 2. **National concern:** a distinct new matter that the provinces can't deal with on
-   their own. In 2021 the Supreme Court used this to uphold the federal law setting a
+   their own. In 2021 the [Supreme Court](org:supreme-court) used this to uphold the federal law setting a
    minimum national price on greenhouse gas emissions, while stressing that the branch
    applies only rarely.
 3. **Emergency:** temporary federal laws to deal with a genuine national crisis, such as
@@ -141,10 +142,10 @@ Several court-made doctrines handle overlap:
 | Federal | Provincial |
 |---|---|
 | Marriage and divorce (s. 91(26)): who can marry, and divorce | Solemnization of marriage (s. 92(12)): the ceremony, licences, who can officiate |
-| Criminal law and procedure (s. 91(27)), penitentiaries (s. 91(28)) | Running the courts (s. 92(14)), provincial prisons (s. 92(6)) |
+| Criminal law and procedure ([s. 91(27)](doc:constitution-act-1867/s91-27)), penitentiaries (s. 91(28)) | Running the courts ([s. 92(14)](doc:constitution-act-1867/s92-14)), provincial prisons (s. 92(6)) |
 
-The second pair is why the *Criminal Code* is one federal law, but most criminal cases
-are prosecuted by provincial Crown attorneys in provincially run courts. In practice,
+The second pair is why the *[Criminal Code](term:criminal-code)* is one federal law, but most criminal cases
+are prosecuted by provincial [Crown attorneys](term:crown-prosecutor) in provincially run courts. In practice,
 people sentenced to two years or more go to federal penitentiaries and shorter sentences
 are served in provincial jails. See [criminal law](/learn/law/criminal-law).
 

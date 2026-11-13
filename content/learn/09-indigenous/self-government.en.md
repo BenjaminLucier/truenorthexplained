@@ -4,16 +4,17 @@ parent: indigenous
 title: "Self-government"
 order: 4
 summary: "How Indigenous nations are taking back law-making power from the Indian Act, and what UNDRIP adds."
+about: [term:self-government, term:inherent-right-of-self-government, term:undrip, term:declaration-on-the-rights-of-indigenous-peoples-act]
 status: draft
 ---
 
 ## In short
 
 **Self-government** means Indigenous nations making their own laws and running their own
-affairs, instead of being governed under the Indian Act. Indigenous peoples see this as
+affairs, instead of being governed under the [Indian Act](doc:indian-act). Indigenous peoples see this as
 an **inherent right**: one they've always had, not one granted by Canada. Since 1995,
 the federal government has recognized the inherent right of self-government as an
-existing right under section 35. In practice, it's put into effect mostly through
+existing right under [section 35](doc:constitution-act-1982/s35). In practice, it's put into effect mostly through
 negotiated agreements, which vary widely from nation to nation.
 
 ## The details
@@ -25,7 +26,7 @@ their own laws, leaders and ways of making decisions. Some examples:
 
 - The **Haudenosaunee Confederacy** (Six Nations) is governed under the Great Law of
   Peace, with a council of chiefs chosen through clan mothers.
-- Many **West Coast nations** are led by **hereditary chiefs** within house and clan
+- Many **West Coast nations** are led by **[hereditary chiefs](term:hereditary-chiefs)** within house and clan
   systems.
 - **Inuit** decision-making traditionally relied on consensus and the authority of
   elders and experienced community members.
@@ -35,7 +36,7 @@ new power. The Royal Commission on Aboriginal Peoples (1996) reached a similar
 conclusion, describing Indigenous peoples as nations with a right to govern themselves.
 <!-- check: RCAP characterization of self-government -->
 
-The 1992 Charlottetown Accord would have written the inherent right of self-government
+The 1992 [Charlottetown Accord](event:charlottetown-accord-1992) would have written the inherent right of self-government
 directly into the Constitution. It was rejected in a national referendum. In **1995**,
 the federal government adopted a policy recognizing the inherent right as an existing
 right under s. 35, to be put into effect through negotiation.
@@ -47,7 +48,7 @@ cover differ:
 
 | Model | Example | How it works |
 |---|---|---|
-| **Comprehensive self-government in a modern treaty** | Nisga'a Lisims Government (BC, 2000); Yukon First Nations | The nation makes its own laws on many matters, such as land, language, culture and citizenship. The Indian Act largely stops applying. |
+| **Comprehensive self-government in a [modern treaty](term:modern-treaty)** | Nisga'a Lisims Government (BC, 2000); Yukon First Nations | The nation makes its own laws on many matters, such as land, language, culture and citizenship. The Indian Act largely stops applying. |
 | **Stand-alone self-government agreement** | Sechelt (BC, 1986), one of the earliest | Self-government without a full land claims treaty |
 | **Public government** | [Nunavut](/provinces/nunavut) (1999) | A territorial government for *all* residents. Because most residents are Inuit, it serves as a form of Inuit self-government. |
 | **Sector-specific agreements** | Education agreements with Mi'kmaw communities in Nova Scotia and with the Anishinabek Nation in Ontario | Law-making in one area, such as schools |
@@ -73,11 +74,11 @@ agreement at a time.
 
 ### Métis and Inuit self-government
 
-- **Inuit** self-government mostly runs through land claims agreements, such as the
+- **Inuit** self-government mostly runs through [land claims agreements](term:land-claims-agreement), such as the
   public government of Nunavut and the Nunatsiavut Government in Labrador.
   <!-- check: Nunatsiavut Government est. 2005 under the Labrador Inuit Land Claims Agreement -->
 - **Métis** governments are not under the Indian Act and have no reserves. Alberta has
-  Métis Settlements with their own land base under provincial law. Since 2019, the
+  [Métis Settlements](term:metis-settlements) with their own land base under provincial law. Since 2019, the
   federal government has signed recognition agreements with several Métis governments.
   <!-- check: Métis self-government recognition agreements (2019, 2023) -->
 
@@ -85,8 +86,8 @@ agreement at a time.
 
 The **United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP)** was
 adopted by the UN General Assembly in 2007. It sets out minimum standards for the
-rights of Indigenous peoples, including self-determination and the principle of **free,
-prior and informed consent** (often shortened to FPIC). Canada initially voted against
+rights of Indigenous peoples, including self-determination and the principle of **[free,
+prior and informed consent](term:free-prior-and-informed-consent)** (often shortened to FPIC). Canada initially voted against
 it, then endorsed it in 2010 and declared full support in 2016.
 <!-- check: 2010 endorsement and 2016 "without qualification" support -->
 
@@ -103,7 +104,7 @@ British Columbia passed its own similar law in 2019. <!-- check: BC Declaration 
 
 **People disagree** about what FPIC should mean in practice. Some read it as close to a
 right to say no to projects on Indigenous lands. Others see it as a strong duty to seek
-agreement through good-faith process, closer to the duty to consult. Courts and
+agreement through good-faith process, closer to the [duty to consult](term:duty-to-consult). Courts and
 governments are still working this out.
 
 ## Sources

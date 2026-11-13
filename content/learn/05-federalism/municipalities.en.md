@@ -4,6 +4,7 @@ parent: federalism
 title: "Municipalities"
 order: 4
 summary: "Cities and towns are created by provincial law, and a province can reshape them at will."
+about: [term:municipality, term:creature-of-the-province, term:single-tier-and-two-tier-municipalities, case:toronto-city-council-2021]
 status: draft
 ---
 
@@ -11,7 +12,7 @@ status: draft
 
 Cities, towns, villages and counties are **municipalities**: local governments that
 handle things like roads, water and zoning. They aren't a third order of government in
-the Constitution. Section 92(8) of the Constitution Act, 1867 puts "Municipal
+the Constitution. Section 92(8) of the [Constitution Act, 1867](doc:constitution-act-1867) puts "Municipal
 Institutions" under provincial power, so each municipality exists because a provincial
 law created it. That's why lawyers call municipalities **"creatures of the province"**.
 
@@ -35,14 +36,14 @@ outside those powers, a court can strike it down.
   municipalities into a single City of Toronto, despite strong local opposition.
 - **2018: council cut in half, mid-election.** Ontario passed a law reducing Toronto's
   city council from 47 wards to 25 after candidates had already registered for that
-  year's election. The city challenged it. In 2021 the Supreme Court of Canada upheld
-  the law, 5–4. The challenge was about freedom of expression and unwritten
-  constitutional principles; the province's power over municipalities under s. 92(8)
+  year's election. The city challenged it. In 2021 the [Supreme Court of Canada](org:supreme-court) upheld
+  the law, 5–4. The challenge was about freedom of expression and [unwritten
+  constitutional principles](term:unwritten-principles); the province's power over municipalities under s. 92(8)
   wasn't in dispute.
 
 Provinces also change how local governments work in less dramatic ways. In 2022, for
 example, Ontario passed legislation giving the mayors of some cities extra
-"strong mayor" powers. <!-- check: Ontario strong-mayor legislation year and scope -->
+"[strong mayor](term:strong-mayor-powers)" powers. <!-- check: Ontario strong-mayor legislation year and scope -->
 
 ### What municipalities usually do
 
@@ -63,18 +64,18 @@ Most provinces have more than one kind of municipality. Some areas have a single
 **single-tier** municipality, such as a big city that does everything. Others have
 **two tiers**: a regional or county government handling some services, with smaller
 municipalities inside it handling others. The names (city, town, village, township,
-rural municipality, regional district, county, MRC in Quebec) and the details vary by
+rural municipality, regional district, county, [MRC](term:regional-county-municipality) in Quebec) and the details vary by
 province. Some sparsely populated areas have no municipality at all and are
 administered directly by the province.
 
-Councils are usually led by a **mayor** (sometimes called a reeve or warden), elected
+Councils are usually led by a **[mayor](term:mayor)** (sometimes called a reeve or warden), elected
 directly by voters. In many places municipal candidates don't run under political party
 labels, though a few large cities have local parties.
 
 ### Where the money comes from
 
 Municipalities depend heavily on **property taxes**, plus **user fees** (water bills,
-transit fares, permits) and **transfers** from provincial and federal governments. They
+transit fares, permits) and **[transfers](term:transfers)** from provincial and federal governments. They
 can only levy the taxes their province allows, which is why municipal leaders often say
 they have big responsibilities and a narrow tax base.
 
@@ -89,8 +90,8 @@ Municipalities aren't the only local institutions created by provinces. **School
 boards**, health authorities, conservation authorities and police boards are also set
 up by provincial law, and provinces can reshape or abolish them too.
 
-**First Nations governments are not municipalities.** A band council operates under the
-federal *Indian Act* or under a self-government agreement, not under provincial
+**First Nations governments are not municipalities.** A [band council](term:band-council) operates under the
+federal *[Indian Act](doc:indian-act)* or under a self-government agreement, not under provincial
 municipal law. See [self-government](/learn/indigenous/self-government).
 
 > **People disagree about this.** Some mayors and scholars argue that large cities,

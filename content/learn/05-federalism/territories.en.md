@@ -4,6 +4,7 @@ parent: federalism
 title: "Why territories aren't provinces"
 order: 3
 summary: "Yukon, the Northwest Territories and Nunavut govern themselves, but their powers are lent by Parliament rather than guaranteed by the Constitution."
+about: [term:territory, term:devolution, term:consensus-government, event:yukon-devolution-2003, event:northwest-territories-devolution-2014, event:nunavut-devolution-agreement-2024]
 status: draft
 ---
 
@@ -32,20 +33,20 @@ process called **devolution**.
 
 ### Where the territories came from
 
-- **1870:** Canada acquired Rupert's Land and the North-Western Territory, a huge area
+- **1870:** Canada acquired [Rupert's Land](event:ruperts-land-1870) and the North-Western Territory, a huge area
   formerly under the Hudson's Bay Company. It became the North-West Territories. The
   provinces of Manitoba (1870), and later Alberta and Saskatchewan (1905), were carved
   out of it.
 - **1898:** Yukon became a separate territory during the Klondike Gold Rush.
 - **1999:** **Nunavut** was created on April 1 from the eastern part of the Northwest
-  Territories. It came out of the Nunavut land claims agreement with the Inuit, and
+  Territories. It came out of the [Nunavut land claims agreement](event:nunavut-agreement-1993) with the Inuit, and
   most of its population is Inuit. See [treaties](/learn/indigenous/treaties).
 
 ### The Commissioner
 
-In a province, the Lieutenant Governor represents the King. In a territory, the formal
-head is a **Commissioner**, appointed by the federal government (the Governor in
-Council). Today the Commissioner's role looks a lot like a Lieutenant Governor's: giving
+In a province, the [Lieutenant Governor](org:lieutenant-governor) represents the King. In a territory, the formal
+head is a **Commissioner**, appointed by the federal government (the [Governor in
+Council](term:governor-in-council)). Today the Commissioner's role looks a lot like a Lieutenant Governor's: giving
 assent to territorial laws and acting on the advice of the elected territorial
 government. But legally the Commissioner is a federal appointee, not the King's
 personal representative, and the federal Acts allow Ottawa to give the Commissioner
@@ -59,9 +60,9 @@ natural resources**, which provinces have always had under the Constitution.
 
 | Territory | Lands and resources devolved |
 |---|---|
-| Yukon | 2003 |
-| Northwest Territories | 2014 |
-| Nunavut | Agreement signed in January 2024; transfer scheduled for April 1, 2027 <!-- check: transfer date from secondary sources --> |
+| Yukon | [2003](event:yukon-devolution-2003) |
+| Northwest Territories | [2014](event:northwest-territories-devolution-2014) |
+| Nunavut | [Agreement signed in January 2024](event:nunavut-devolution-agreement-2024); transfer scheduled for April 1, 2027 <!-- check: transfer date from secondary sources --> |
 
 > **As of 2026:** Nunavut is in the transition period before its lands and resources
 > devolution takes effect.
@@ -80,7 +81,7 @@ parties, like the provinces. See the pages on [Nunavut](/provinces/nunavut), the
 ### Could a territory become a province?
 
 Yes, but not easily. Under the Constitution Act, 1982, **creating a new province**
-(s. 42(1)(f)) or **extending an existing province into a territory** (s. 42(1)(e)) needs
+([s. 42(1)(f)](doc:constitution-act-1982/s42)) or **extending an existing province into a territory** (s. 42(1)(e)) needs
 the general amending formula: Parliament plus at least seven provinces with at least
 half the population of all the provinces. The territories themselves get no formal vote.
 See [the amending formula](/learn/constitution/amending-formula).
@@ -89,13 +90,13 @@ See [the amending formula](/learn/constitution/amending-formula).
 
 Territories have small populations spread over huge areas, so services cost far more
 per person. They receive the Canada Health Transfer and Canada Social Transfer like the
-provinces, plus **Territorial Formula Financing**, an unconditional grant that is their
+provinces, plus **[Territorial Formula Financing](term:territorial-formula-financing)**, an unconditional grant that is their
 largest source of funding. See [transfers and equalization](/learn/federalism/money-and-equalization).
 
 ### Courts
 
 Each territory has its own superior court: the Supreme Court of Yukon, the Supreme
-Court of the Northwest Territories, and the Nunavut Court of Justice. Nunavut's is
+Court of the Northwest Territories, and the [Nunavut Court of Justice](term:nunavut-court-of-justice). Nunavut's is
 unusual because it combines the trial courts into a single level.
 See [courts](/learn/law/courts).
 

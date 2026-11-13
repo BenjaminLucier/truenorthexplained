@@ -4,6 +4,7 @@ parent: government
 title: "The Bank of Canada vs. the Mint"
 order: 2
 summary: "The Bank of Canada is the central bank that sets interest rates and issues banknotes. The Mint makes coins."
+about: [term:central-bank, term:monetary-policy, term:policy-interest-rate, term:inflation-target]
 status: draft
 ---
 
@@ -11,7 +12,7 @@ status: draft
 
 The **Bank of Canada** is Canada's **central bank**. It sets the key interest rate to
 keep inflation low and stable, issues all banknotes, and helps keep the financial system
-working. The **Royal Canadian Mint** is a Crown corporation that manufactures coins,
+working. The **Royal Canadian Mint** is a [Crown corporation](term:crown-corporation) that manufactures coins,
 along with collector coins and gold and silver products. If you're looking for
 Canada's version of the US Federal Reserve, it's the Bank of Canada, not the Mint.
 
@@ -23,7 +24,7 @@ Canada's version of the US Federal Reserve, it's the Bank of Canada, not the Min
 |---|---|---|
 | What it is | Central bank; a special federal Crown corporation | Crown corporation, wholly owned by the Government of Canada |
 | Main law | *Bank of Canada Act* | *Royal Canadian Mint Act* |
-| Began | 1935 (became publicly owned in 1938) | 1908 |
+| Began | [1935](event:bank-of-canada-1935) (became publicly owned in 1938) | 1908 |
 | Makes or issues | **Banknotes** (paper and polymer money) | **Coins** (from 5¢ to the $2 "toonie"), plus collector coins and bullion |
 | Sets interest rates? | Yes, the **policy interest rate** | No |
 | Controls inflation? | Yes, that's its main job | No |
@@ -34,7 +35,7 @@ Canada's version of the US Federal Reserve, it's the Bank of Canada, not the Min
 The Bank describes five areas of work:
 
 1. **Monetary policy.** Keeping inflation low, stable and predictable, mainly by setting
-   the **[policy interest rate](/glossary#policy-interest-rate)**. Commercial banks' lending and savings rates tend to
+   the **[policy interest rate](term:policy-interest-rate)**. Commercial banks' lending and savings rates tend to
    follow it, which affects borrowing, spending and, eventually, prices. The Bank
    announces rate decisions on scheduled dates through the year.
 2. **Financial system.** Promoting a stable and efficient financial system, including
@@ -46,8 +47,8 @@ The Bank describes five areas of work:
    systems.
 
 What it **doesn't** do: it doesn't supervise individual banks for safety (that's the
-**Office of the Superintendent of Financial Institutions**, OSFI), it doesn't decide
-taxes or government spending (that's **fiscal policy**, set by the government and
+**[Office of the Superintendent of Financial Institutions](term:office-of-the-superintendent-of-financial-institutions)**, OSFI), it doesn't decide
+taxes or government spending (that's **[fiscal policy](term:fiscal-policy)**, set by the government and
 Parliament), and it doesn't lend to the public.
 
 ### The inflation target
@@ -98,7 +99,7 @@ Mint and later became Canadian-run. <!-- check: 1931 transfer to Canada; 1969 Cr
 - makes coins for other countries.
 
 The *Royal Canadian Mint Act* expects the Mint to make coins on a commercial, for-profit basis. Coins are
-**[legal tender](/glossary#legal-tender)** under the federal *Currency Act*; the Mint makes them, but the
+**[legal tender](term:legal-tender)** under the federal *Currency Act*; the Mint makes them, but the
 decisions about what coins Canada uses are made by the government.
 
 > [!NOTE]
@@ -114,7 +115,7 @@ The Mint and the Bank only produce as much cash as people and businesses want to
 
 ### The constitutional link
 
-Under s. 91 of the Constitution Act, 1867, **currency and coinage** (s. 91(14)),
+Under [s. 91](doc:constitution-act-1867/s91) of the Constitution Act, 1867, **currency and coinage** (s. 91(14)),
 **banking and the issue of paper money** (s. 91(15)) and **legal tender** (s. 91(20))
 are all federal. That's why there's one national currency and provinces can't issue
 their own. See [the division of powers](/learn/federalism/division-of-powers).

@@ -12,7 +12,7 @@ status: draft
 
 Section 33 lets Parliament or a provincial legislature declare that a law will operate
 **notwithstanding** (that is, despite) certain Charter rights: the fundamental freedoms in
-section 2, the legal rights in sections 7 to 14, and the equality rights in section 15.
+[section 2](doc:charter/s2), the legal rights in sections 7 to 14, and the equality rights in [section 15](doc:charter/s15).
 The declaration expires after **five years** unless the legislature passes it again. It
 can't be used on democratic, mobility or language rights. The federal Parliament has
 never used it, but several provinces have, including in recent years.
@@ -35,7 +35,7 @@ In practice:
    it likes.
 
 The five-year limit matches the longest time a legislature can go without an election
-(s. 4). The idea is that voters get a chance to weigh in before an override is renewed.
+([s. 4](doc:charter/s4)). The idea is that voters get a chance to weigh in before an override is renewed.
 
 ### What it can and can't override
 
@@ -46,9 +46,9 @@ The five-year limit matches the longest time a legislature can go without an ele
 | Equality rights (s. 15) | Official language rights (ss. 16–22) |
 | | Minority language education rights (s. 23) |
 
-It also can't be used to override the Constitution's other parts, such as the division of
-powers between Ottawa and the provinces. A province still can't use section 33 to pass a
-law on a federal subject like criminal law.
+It also can't be used to override the Constitution's other parts, such as the [division of
+powers](term:division-of-powers) between Ottawa and the provinces. A province still can't use section 33 to pass a
+law on a federal subject like [criminal law](doc:constitution-act-1867/s91-27).
 
 ### What courts have said about how it's used
 
@@ -69,7 +69,7 @@ requirement of **form only**:
 
 During the 1981 negotiations over [patriation](/learn/constitution/patriation-1982), several
 provinces didn't want an entrenched Charter that would let courts overrule elected
-legislatures. The notwithstanding clause was part of the November 1981 compromise
+legislatures. The notwithstanding clause was part of the [November 1981 compromise](event:patriation-deal-1981)
 between the federal government and nine provinces that made the Charter possible. Quebec
 did not agree to the deal.
 

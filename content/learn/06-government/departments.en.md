@@ -4,6 +4,7 @@ parent: government
 title: "Departments and the public service"
 order: 1
 summary: "Ministers set direction, deputy ministers run the shop, and a merit-based public service carries it out, whoever wins the election."
+about: [term:department, term:deputy-minister, term:public-service, term:central-agencies, term:merit]
 status: draft
 ---
 
@@ -29,7 +30,7 @@ Alongside departments there are many other federal bodies, including:
 
 - **Agencies and departmental corporations**, like the Canada Revenue Agency and
   Statistics Canada, which do specialized work under their own legislation.
-- **Crown corporations**, which run more like businesses. See
+- **[Crown corporations](term:crown-corporation)**, which run more like businesses. See
   [Crown corporations](/learn/government/crown-corporations).
 - **Independent tribunals and regulators**, which make decisions at arm's length from
   ministers.
@@ -40,7 +41,7 @@ sometimes called the **machinery of government**.
 
 ### The minister
 
-A **minister** is a member of cabinet, almost always an MP, appointed on the Prime
+A **minister** is a member of [cabinet](org:cabinet), almost always an MP, appointed on the Prime
 Minister's advice. The minister:
 
 - sets the department's direction, within the government's overall agenda;
@@ -48,13 +49,13 @@ Minister's advice. The minister:
 - brings proposals to cabinet;
 - answers for the department in Parliament, in Question Period and before committees.
 
-The principle of **ministerial responsibility** means the minister is accountable to
+The principle of **[ministerial responsibility](term:ministerial-responsibility)** means the minister is accountable to
 Parliament for the department's actions, even ones they didn't know about.
 
 ### The deputy minister
 
 The **deputy minister** is the department's most senior public servant. Deputy
-ministers are appointed by the Governor in Council on the recommendation of the Prime
+ministers are appointed by the [Governor in Council](term:governor-in-council) on the recommendation of the Prime
 Minister, not chosen by their own minister. They:
 
 - manage the department's staff, budget and operations;
@@ -71,20 +72,20 @@ A few organizations coordinate everyone else and are often called **central agen
 
 | Organization | Role |
 |---|---|
-| **Privy Council Office (PCO)** | The Prime Minister's public service department. Supports cabinet and coordinates policy. Led by the **Clerk of the Privy Council**, who is also head of the public service. |
+| **[Privy Council Office (PCO)](org:pco)** | The Prime Minister's public service department. Supports cabinet and coordinates policy. Led by the **Clerk of the Privy Council**, who is also head of the public service. |
 | **Treasury Board** and its **Secretariat (TBS)** | A cabinet committee (and the department supporting it) that acts as the government's management board: spending controls, the estimates, and rules for the public service as an employer. |
-| **Department of Finance** | Tax and economic policy, and the budget. |
+| **[Department of Finance](term:department-of-finance)** | Tax and economic policy, and the budget. |
 
-The **Prime Minister's Office (PMO)** is different: it's made up of political staff, not
+The **[Prime Minister's Office (PMO)](org:pmo)** is different: it's made up of political staff, not
 public servants. See [cabinet and the PMO](/learn/elections/cabinet-and-pmo).
 
 ### A non-partisan public service
 
-Canada's public service follows the Westminster tradition of a **permanent,
+Canada's public service follows the [Westminster](term:westminster-system) tradition of a **permanent,
 non-partisan public service**:
 
 - **Merit.** Under the *Public Service Employment Act*, appointments are based on merit
-  and must be free from political influence. The **Public Service Commission**, which
+  and must be free from political influence. The **[Public Service Commission](term:public-service-commission)**, which
   reports to Parliament, oversees this.
 - **Political activity limits.** Public servants can vote and, at lower levels, take
   part in some political activity. But they can't do anything that would impair, or

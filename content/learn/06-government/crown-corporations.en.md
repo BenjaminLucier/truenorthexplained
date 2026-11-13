@@ -4,6 +4,7 @@ parent: government
 title: "Crown corporations"
 order: 3
 summary: "Companies owned by the government, like Canada Post, CBC/Radio-Canada and VIA Rail, run at arm's length from day-to-day politics."
+about: [term:crown-corporation, term:agent-of-the-crown, term:privatization]
 status: draft
 ---
 
@@ -40,19 +41,19 @@ policy goals** with **commercial efficiency**.
 | **Canada Mortgage and Housing Corporation (CMHC)** | Mortgage insurance and housing programs |
 | **Business Development Bank of Canada (BDC)** | Financing and advice for small and medium businesses |
 | **Export Development Canada (EDC)** | Financing and insurance for exporters |
-| **Royal Canadian Mint** | Coins (see [the Bank of Canada vs. the Mint](/learn/government/bank-of-canada-vs-mint)) |
-| **Bank of Canada** | The central bank; a special case with its own law |
+| **[Royal Canadian Mint](org:royal-canadian-mint)** | Coins (see [the Bank of Canada vs. the Mint](/learn/government/bank-of-canada-vs-mint)) |
+| **[Bank of Canada](org:bank-of-canada)** | The central bank; a special case with its own law |
 
 ### How they're governed
 
 Most federal Crown corporations follow the rules in **Part X of the *Financial
-Administration Act***, plus their own founding law (usually a special Act of
-Parliament):
+Administration Act***, plus their own founding law (usually a special [Act of
+Parliament](term:act-of-parliament)):
 
 - **Board of directors.** Oversees the corporation and leaves day-to-day decisions to
   its executives.
 - **Corporate plan.** Each year the board approves a plan, the responsible minister
-  recommends it, and the federal cabinet must approve it before it takes effect.
+  recommends it, and the federal [cabinet](org:cabinet) must approve it before it takes effect.
 - **A responsible minister.** The link between the corporation, cabinet and Parliament.
   The minister tables the corporation's annual report and answers questions about it in
   Parliament.
@@ -60,7 +61,7 @@ Parliament):
   corporation to do something in the public interest (s. 89 of the Act). The minister
   must consult the board first, and the directive must be tabled in Parliament, so it's
   public.
-- **Audits.** Crown corporations are audited, often by the Auditor General.
+- **Audits.** Crown corporations are audited, often by the [Auditor General](org:auditor-general).
 
 Some corporations get extra protection. The *Broadcasting Act*, for example, protects
 CBC/Radio-Canada's journalistic, creative and programming independence. The Bank of

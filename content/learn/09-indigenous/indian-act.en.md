@@ -4,15 +4,16 @@ parent: indigenous
 title: "The Indian Act"
 order: 3
 summary: "An 1876 federal law that still defines status, governs reserves and shapes First Nations governments, and why it's so hard to replace."
+about: [doc:indian-act, term:indian-act, term:status, term:reserve, term:band-council, term:residential-schools]
 status: draft
 ---
 
 ## In short
 
 The **Indian Act** is a federal law, first passed in 1876, that governs many parts of
-life for **First Nations** people who are registered under it. It defines who has
+life for **[First Nations](term:first-nations)** people who are registered under it. It defines who has
 **status**, how **reserves** work, and how **band councils** are set up. For much of its
-history it was a tool of assimilation, and it was the legal backbone of the residential
+history it was a tool of [assimilation](term:assimilation), and it was the legal backbone of the residential
 school system. It still applies today. Many people want it gone, but replacing it is
 hard because so much depends on it.
 
@@ -25,20 +26,20 @@ Lands reserved for the Indians." In 1876, Parliament used that power to pull ear
 colonial laws together into one statute, the *Indian Act*. It has been amended many
 times, most heavily in 1951 and 1985, but it has never been replaced.
 
-The Act applies to **First Nations** people and communities. It doesn't cover **Inuit**
-or **Métis**, even though courts have held that both fall under federal jurisdiction
-(see [Section 35](/learn/indigenous/section-35)).
+The Act applies to **First Nations** people and communities. It doesn't cover **[Inuit](term:inuit)**
+or **[Métis](term:metis)**, even though courts have held that both fall under federal jurisdiction
+(see [Section 35](doc:constitution-act-1982/s35)).
 
 ### Status
 
-**Status** (or being a **registered Indian**) is the legal standing of a person who is
+**Status** (or being a **[registered Indian](term:registered-indian)**) is the legal standing of a person who is
 registered under the Indian Act. The federal government keeps the list, called the
-**Indian Register**. Status carries certain rights and benefits, such as some health
+**[Indian Register](term:indian-register)**. Status carries certain rights and benefits, such as some health
 benefits and a tax exemption on certain property on reserve.
 
 Status isn't the same as identity:
 
-- A **non-status** First Nations person is someone who identifies as First Nations
+- A **[non-status](term:non-status)** First Nations person is someone who identifies as First Nations
   but isn't registered, often because of past rules in the Act.
 - **Band membership** (belonging to a particular First Nation) is separate from status.
   Many First Nations now control their own membership lists.
@@ -59,7 +60,7 @@ prompted by court cases, followed in 2011 and 2017.
 
 ### Reserves
 
-A **reserve** is land set apart for the use and benefit of a **band**. Legal title stays
+A **reserve** is land set apart for the use and benefit of a **[band](term:band)**. Legal title stays
 with the Crown, not the First Nation. That's why reserve land generally can't be
 mortgaged or sold the way other land can, which affects housing and business. Reserves
 are often small fractions of a nation's traditional territory.
@@ -120,12 +121,12 @@ Truth and Reconciliation** at the University of Manitoba.
 Because the Act is deeply woven into daily life. Reserve land, status, band governments
 and many programs all depend on it. Repealing it overnight would leave a legal vacuum.
 Many First Nations also worry that repeal could be used to reduce federal obligations.
-In 1969, a federal White Paper proposed abolishing the Act and status entirely.
+In 1969, a federal [White Paper](term:white-paper-1969) proposed abolishing the Act and status entirely.
 First Nations rejected it strongly, seeing it as assimilation by another name, and it
 was withdrawn. <!-- check: 1969 White Paper withdrawn 1971 -->
 
 The main route out today is **opting out piece by piece**: through
-[self-government agreements](/learn/indigenous/self-government), modern treaties, and
+[self-government agreements](/learn/indigenous/self-government), [modern treaties](term:modern-treaty), and
 laws that let First Nations take over areas such as land management.
 
 ## Sources

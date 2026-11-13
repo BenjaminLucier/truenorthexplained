@@ -4,6 +4,7 @@ parent: law
 title: "Common law and civil law"
 order: 2
 summary: "Why Quebec uses a civil code for private law while the rest of Canada uses the common law, and how the two fit together."
+about: [term:bijuralism, term:common-law, term:civil-law, term:civil-code-of-quebec]
 status: draft
 ---
 
@@ -35,28 +36,28 @@ cases. A civil-law lawyer usually starts with the code.
 
 ### Why Quebec is different
 
-After Britain took control of New France, the **Quebec Act, 1774** restored French civil
+After Britain took control of New France, the **[Quebec Act, 1774](event:quebec-act-1774)** restored French civil
 law for "property and civil rights" in the colony, while keeping English criminal law.
 That split has lasted ever since.
 
-- The **Civil Code of Lower Canada** came into force in 1866.
+- The **[Civil Code of Lower Canada](event:civil-code-of-lower-canada)** came into force in 1866.
 - It was replaced by the **Civil Code of Québec**, which came into force on
   January 1, 1994.
 
 The Constitution Act, 1867 protects this arrangement. It gives provinces power over
-"property and civil rights" (s. 92(13)), which is where most private law lives. That
+"property and civil rights" ([s. 92(13)](doc:constitution-act-1867/s92-13)), which is where most private law lives. That
 lets Quebec keep its own civil law. Section 94 imagined that the other original
 provinces might one day make their private law uniform, but deliberately left Quebec
 out of that idea.
 
 ### What's the same in Quebec
 
-Bijuralism only covers **private law**. **Public law** works the same way across Canada:
+Bijuralism only covers **[private law](term:private-law)**. **[Public law](term:public-law)** works the same way across Canada:
 
 - **Criminal law:** the federal Criminal Code applies in Quebec exactly as elsewhere.
   See [Criminal law](/learn/law/criminal-law).
-- **Constitutional law,** including the [Charter](/learn/charter).
-- **Administrative law:** how courts supervise government decisions. This follows
+- **Constitutional law,** including the [Charter](doc:charter).
+- **[Administrative law](term:administrative-law):** how courts supervise government decisions. This follows
   common-law principles in Quebec too.
 
 So a contract dispute in Montreal is decided under the Civil Code, but a criminal trial
@@ -68,8 +69,8 @@ A few examples of how the two traditions show up day to day:
 
 | Topic | Common-law provinces | Quebec |
 |---|---|---|
-| Harm caused by carelessness | The law of **torts**, mostly built from court decisions | **Civil liability**, set out in the Civil Code |
-| Legal professionals | Lawyers (barristers and solicitors) | **Advocates** (*avocats*) and **notaries** (*notaires*). A Quebec notary is a trained legal professional who handles real estate deals, wills and contracts, unlike a common-law notary public. |
+| Harm caused by carelessness | The law of **[torts](term:tort)**, mostly built from court decisions | **Civil liability**, set out in the Civil Code |
+| Legal professionals | Lawyers (barristers and solicitors) | **Advocates** (*avocats*) and **[notaries](term:notary-quebec)** (*notaires*). A Quebec notary is a trained legal professional who handles real estate deals, wills and contracts, unlike a common-law notary public. |
 | Where to find the rules on contracts | Court decisions, plus some statutes (for example, on the sale of goods) | The Civil Code's chapters on obligations and contracts |
 
 ### Federal law has to work in both
@@ -87,13 +88,13 @@ both systems.
 
 The Supreme Court reflects this too. By law, at least three of its nine judges must come
 from Quebec, partly so the Court always includes judges trained in the civil law. See
-[The Supreme Court of Canada](/learn/law/supreme-court).
+[The Supreme Court of Canada](org:supreme-court).
 
 ### What about Indigenous law?
 
 Many Indigenous nations have their own legal orders, which existed long before either
 the common law or the civil law arrived. Some scholars and courts now speak of Canada as
-**multijural**. How Indigenous law relates to Canadian law is covered in
+**[multijural](term:multijural)**. How Indigenous law relates to Canadian law is covered in
 [Indigenous peoples and the Crown](/learn/indigenous).
 
 ## Sources
