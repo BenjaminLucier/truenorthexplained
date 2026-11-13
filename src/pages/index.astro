@@ -7,11 +7,13 @@ import ProgressRing from "../components/quiz/ProgressRing.astro";
 import ProvinceMap from "../widgets/province-map/index.astro";
 import { getPage, href, moduleKey, moduleQuestionIds, modules, provinces } from "../lib/site";
 import { t } from "../i18n/en";
+import { VISUALS } from "../data/visuals";
 
 const home = await getPage("home");
 const hero = home.data.hero!;
 const ideas = home.data.ideas ?? [];
 const mods = await modules();
+const featured = VISUALS.filter((v) => v.featured);
 const quizIds = new Map(await Promise.all(mods.map(async (m) => [m.page.id, await moduleQuestionIds(m.page.id)] as const)));
 const modById = new Map(mods.map((m) => [m.page.id, m.page]));
 
@@ -188,7 +190,7 @@ const reference = [
     <div class="mx-auto max-w-6xl px-4 py-20 sm:px-6">
       <div class="flex flex-wrap items-end justify-between gap-4">
         <div>
-          <h2 class="text-3xl font-bold tracking-tight text-primary">Explore</h2>
+          <h2 class="text-3xl font-bold tracking-tight text-primary">The modules</h2>
           <p class="mt-2 text-secondary">Ten short modules. Each one stands on its own.</p>
         </div>
         <a href="/learn" class="inline-flex items-center gap-1 font-medium text-accent hover:text-accent-hover">
@@ -225,6 +227,39 @@ const reference = [
   </section>
 
   {/* Provinces + quizzes */}
+  {/* Maps and interactives */}
+  <section aria-labelledby="visuals-heading" class="mx-auto max-w-6xl px-4 pt-20 sm:px-6">
+    <div class="flex flex-wrap items-end justify-between gap-4">
+      <div>
+        <h2 id="visuals-heading" class="text-3xl font-bold tracking-tight text-primary">Maps, charts and interactives</h2>
+        <p class="mt-2 text-secondary">See it instead of reading it: click through, sort, zoom and explore.</p>
+      </div>
+      <a href="/explore" class="inline-flex items-center gap-1 font-medium text-accent hover:text-accent-hover">
+        See all {VISUALS.length} <Icon name="ArrowRight" class="size-4" />
+      </a>
+    </div>
+    <ul class="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {
+        featured.map((v) => (
+          <li>
+            <a
+              href={v.href}
+              class="group flex h-full gap-4 rounded-card border border-subtle bg-surface p-5 shadow-card transition-colors hover:border-accent"
+            >
+              <span class="flex size-11 shrink-0 items-center justify-center rounded-xl bg-accent-soft text-accent">
+                <Icon name={v.icon} class="size-5.5" />
+              </span>
+              <span>
+                <span class="block font-semibold text-primary group-hover:text-accent">{v.title}</span>
+                <span class="mt-1 block text-sm text-secondary">{v.text}</span>
+              </span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+
   <section class="mx-auto grid max-w-6xl gap-6 px-4 py-20 sm:px-6 lg:grid-cols-2">
     <div class="rounded-card border border-subtle bg-surface p-8 shadow-card">
       <Icon name="Map" class="size-8 text-accent" />

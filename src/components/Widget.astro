@@ -5,10 +5,12 @@ import type { AstroComponentFactory } from "astro/runtime/server/index.js";
 interface Props {
   name: string;
   props?: Record<string, string>;
+  /** In-page anchor for links from the Explore page, e.g. "bill-steps". */
+  anchor?: string;
 }
 
 const widgets = import.meta.glob<{ default: AstroComponentFactory }>("../widgets/*/index.astro", { eager: true });
-const { name, props = {} } = Astro.props;
+const { name, props = {}, anchor } = Astro.props;
 const Component = widgets[`../widgets/${name}/index.astro`]?.default;
 if (!Component) {
   const known = Object.keys(widgets).map((k) => k.split("/")[2]);
@@ -16,4 +18,6 @@ if (!Component) {
 }
 ---
 
+{/* The anchor is an empty marker so widgets keep full control of their own markup. */}
+{anchor && <span id={anchor} class="block scroll-mt-24" aria-hidden="true"></span>}
 <Component {...props} />

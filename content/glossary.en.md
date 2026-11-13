@@ -1061,7 +1061,7 @@ The up to 45 minutes each sitting day when MPs, mostly from the opposition, ques
 
 ## R
 
-### R. {#r}
+### R. {#r-crown}
 Short for *Rex* or *Regina* (Latin for King or Queen), used in criminal case names such as *R. v. Smith* because the Crown prosecutes crimes. See: [The Crown](/learn/crown), [Criminal law: who does what](/learn/law/criminal-law)
 
 ### Ranked ballot {#ranked-ballot}

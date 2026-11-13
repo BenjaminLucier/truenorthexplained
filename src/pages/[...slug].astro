@@ -1,5 +1,4 @@
 ---
-import { render } from "astro:content";
 import ContentLayout from "../layouts/ContentLayout.astro";
 import ProvinceCards from "../components/ProvinceCards.astro";
 import Widget from "../components/Widget.astro";
@@ -13,8 +12,14 @@ export async function getStaticPaths() {
 }
 
 const { page } = Astro.props as { page: Page };
-const { headings } = await render(page);
 const chunks = splitWidgets(page.rendered?.html ?? "");
+// Anchor each widget by name (#bill-steps); repeats get a suffix (#timeline-2).
+const seen = new Map<string, number>();
+const anchorFor = (name: string) => {
+  const n = (seen.get(name) ?? 0) + 1;
+  seen.set(name, n);
+  return n === 1 ? name : `${name}-${n}`;
+};
 
 let eyebrow: string | undefined;
 if (page.id.startsWith("learn/")) {
@@ -30,7 +35,7 @@ if (page.id.startsWith("learn/")) {
 }
 ---
 
-<ContentLayout page={page} headings={headings} eyebrow={eyebrow}>
+<ContentLayout page={page} eyebrow={eyebrow}>
   {page.id === "provinces" && <ProvinceCards />}
-  {chunks.map((c) => (c.kind === "html" ? <Fragment set:html={c.html} /> : <Widget name={c.name} props={c.props} />))}
+  {chunks.map((c) => (c.kind === "html" ? <Fragment set:html={c.html} /> : <Widget name={c.name} props={c.props} anchor={anchorFor(c.name)} />))}
 </ContentLayout>

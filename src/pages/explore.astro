@@ -1,0 +1,61 @@
+---
+/** Every map, chart and interactive on the site, grouped by kind. */
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import { KINDS, VISUALS, type VisualKind } from "../data/visuals";
+import { t } from "../i18n/en";
+
+const order: VisualKind[] = ["map", "chart", "interactive", "timeline", "reference"];
+const groups = order.map((kind) => ({ kind, ...KINDS[kind], items: VISUALS.filter((v) => v.kind === kind) }));
+---
+
+<BaseLayout title={t.nav.explore} description="Every map, chart and interactive explainer on True North Explained.">
+  <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6">
+    <h1 class="text-4xl font-bold tracking-tight text-primary sm:text-5xl">{t.nav.explore}</h1>
+    <p class="mt-4 max-w-2xl text-lg text-secondary">
+      Maps, charts and step-by-step explainers. Each one lives on the page it explains, so you can read around it.
+    </p>
+
+    <nav aria-label="Jump to" class="mt-8 flex flex-wrap gap-2">
+      {
+        groups.map((g) => (
+          <a
+            href={`#${g.kind}`}
+            class="rounded-full border border-subtle bg-surface px-3 py-1 text-sm text-secondary hover:border-accent hover:text-accent"
+          >
+            {g.title}
+          </a>
+        ))
+      }
+    </nav>
+
+    {
+      groups.map((g) => (
+        <section id={g.kind} aria-labelledby={`${g.kind}-heading`} class="mt-14 scroll-mt-24">
+          <h2 id={`${g.kind}-heading`} class="text-2xl font-bold tracking-tight text-primary">
+            {g.title}
+          </h2>
+          <p class="mt-1 text-secondary">{g.text}</p>
+          <ul class="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {g.items.map((v) => (
+              <li>
+                <a
+                  href={v.href}
+                  class="group flex h-full gap-4 rounded-card border border-subtle bg-surface p-5 shadow-card transition-colors hover:border-accent"
+                >
+                  <span class="flex size-11 shrink-0 items-center justify-center rounded-xl bg-accent-soft text-accent">
+                    <Icon name={v.icon} class="size-5.5" />
+                  </span>
+                  <span>
+                    <span class="block font-semibold text-primary group-hover:text-accent">{v.title}</span>
+                    <span class="mt-1 block text-sm text-secondary">{v.text}</span>
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))
+    }
+  </div>
+</BaseLayout>

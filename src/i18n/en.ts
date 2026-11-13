@@ -8,6 +8,7 @@ export const en = {
   skipToContent: "Skip to content",
   nav: {
     learn: "Learn",
+    explore: "Explore",
     tour: "10-minute tour",
     provinces: "Provinces",
     quizzes: "Quizzes",
@@ -26,7 +27,7 @@ export const en = {
     label: (current: string, next: string) => `Theme: ${current}. Switch to ${next}.`,
   },
   page: {
-    onThisPage: "On this page",
+    tryIt: "Try it",
     inThisModule: "In this module",
     moduleOverview: "Overview",
     previous: "Previous",
