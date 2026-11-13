@@ -17,22 +17,11 @@ treaty rights cases are covered in [Indigenous peoples and the Crown](/learn/ind
 
 ## The details
 
-<tn-widget name="timeline" data-group-by="charter" data-group="Main section" data-title="Case" data-text="In one line" data-label="Landmark cases timeline">
+<tn-widget name="timeline" data-source="cases" data-group-by="charter" data-label="Landmark cases timeline"></tn-widget>
 
-| Year | Case | Main section | In one line |
-|---|---|---|---|
-| 1985 | *R. v. Big M Drug Mart* | s. 2(a) religion | A law forcing Sunday closing for religious reasons was struck down |
-| 1986 | *R. v. Oakes* | s. 1, s. 11(d) | Created the test for justifying limits on rights |
-| 1988 | *R. v. Morgentaler* | s. 7 | The Criminal Code's abortion provisions were struck down |
-| 1988 | *Ford v. Quebec* | s. 2(b), s. 33 | Commercial signs are protected expression; set the rules for using s. 33 |
-| 1998 | *Vriend v. Alberta* | s. 15 | Sexual orientation was "read into" Alberta's human rights law |
-| 1998 | *Reference re Secession of Quebec* | (not a Charter case) | Quebec can't secede unilaterally, but a clear vote would require negotiation |
-| 2015 | *Carter v. Canada* | s. 7 | The total ban on assisted dying was struck down |
-| 2016 | *R. v. Jordan* | s. 11(b) | Set time limits for criminal trials |
+<span id="r-v-big-m-drug-mart-ltd-1985-freedom-of-religion"></span>
 
-</tn-widget>
-
-### R. v. Big M Drug Mart Ltd. (1985): freedom of religion
+### R. v. Big M Drug Mart Ltd. (1985): freedom of religion {#r-v-big-m-drug-mart}
 
 Big M Drug Mart, a store in Calgary, was charged with selling goods on a Sunday,
 contrary to the federal *Lord's Day Act*. The Supreme Court ruled that the Act's purpose
@@ -44,7 +33,9 @@ anyone charged under a law can challenge it as unconstitutional, even a corporat
 can't itself have a religion. (Provinces could still set common days of rest for
 non-religious reasons, as the Court later held in a separate case.)
 
-### R. v. Oakes (1986): the test for reasonable limits
+<span id="r-v-oakes-1986-the-test-for-reasonable-limits"></span>
+
+### R. v. Oakes (1986): the test for reasonable limits {#r-v-oakes}
 
 David Oakes was charged with possessing narcotics for the purpose of trafficking. A
 federal law said that once possession was proved, the accused was presumed to be a
@@ -56,7 +47,9 @@ objective, be rationally connected to it, impair the right as little as reasonab
 possible, and have benefits that outweigh its harms. Courts still use this framework.
 See [Reasonable limits](/learn/charter/reasonable-limits).
 
-### R. v. Morgentaler (1988): abortion and security of the person
+<span id="r-v-morgentaler-1988-abortion-and-security-of-the-person"></span>
+
+### R. v. Morgentaler (1988): abortion and security of the person {#r-v-morgentaler}
 
 Dr. Henry Morgentaler and two other doctors were charged for running a clinic that
 performed abortions outside the Criminal Code's rules, which required approval by a
@@ -69,7 +62,9 @@ Canada has had no criminal law on abortion. A replacement bill passed the House 
 Commons in 1990 but was defeated in the Senate in 1991. Abortion is regulated as a
 health care matter.
 
-### Ford v. Quebec (Attorney General) (1988): signs, expression and section 33
+<span id="ford-v-quebec-attorney-general-1988-signs-expression-and-section-33"></span>
+
+### Ford v. Quebec (Attorney General) (1988): signs, expression and section 33 {#ford-v-quebec}
 
 Quebec's *Charter of the French Language* required most commercial signs to be in French
 only. The Supreme Court held that **commercial expression**, such as advertising and
@@ -80,7 +75,9 @@ rules for the [notwithstanding clause](/learn/charter/notwithstanding-clause): u
 matter of form only, no justification is needed, and it can't be applied retroactively.
 Quebec responded by passing a new sign law using section 33.
 
-### Vriend v. Alberta (1998): equality and "reading in"
+<span id="vriend-v-alberta-1998-equality-and-reading-in"></span>
+
+### Vriend v. Alberta (1998): equality and "reading in" {#vriend-v-alberta}
 
 Delwin Vriend was fired from his job at a private Christian college in Edmonton because
 he was gay. He tried to complain to the Alberta Human Rights Commission, but Alberta's
@@ -93,7 +90,9 @@ The Charter didn't apply to the college, a private employer. It applied to Alber
 reaches government choices about what to leave out of a law, and of reading in as a
 remedy.
 
-### Reference re Secession of Quebec (1998): can a province leave?
+<span id="reference-re-secession-of-quebec-1998-can-a-province-leave"></span>
+
+### Reference re Secession of Quebec (1998): can a province leave? {#secession-reference}
 
 After Quebec's 1995 referendum on sovereignty narrowly failed, the federal government
 asked the Supreme Court whether Quebec could secede on its own. The Court said **no
@@ -105,7 +104,9 @@ good faith. The Court identified four unwritten principles underlying the Consti
 minorities**. This was a reference, not a Charter case. See
 [The Supreme Court](/learn/law/supreme-court) for how references work.
 
-### Carter v. Canada (Attorney General) (2015): assisted dying
+<span id="carter-v-canada-attorney-general-2015-assisted-dying"></span>
+
+### Carter v. Canada (Attorney General) (2015): assisted dying {#carter-v-canada}
 
 The challengers to the Criminal Code's ban on helping someone end their life included
 Gloria Taylor, who had ALS, and the family of Kay Carter, who had travelled to
@@ -119,7 +120,9 @@ care. This departed from the Court's 1993 *Rodriguez* decision, which had upheld
 The Court suspended its ruling for a year to give Parliament time to respond, and
 Parliament passed a law on **medical assistance in dying** in 2016.
 
-### R. v. Jordan (2016): trials within a reasonable time
+<span id="r-v-jordan-2016-trials-within-a-reasonable-time"></span>
+
+### R. v. Jordan (2016): trials within a reasonable time {#r-v-jordan}
 
 Barrett Jordan's drug case took more than four years to get through trial in British
 Columbia. Section 11(b) of the Charter guarantees the right to be **tried within a

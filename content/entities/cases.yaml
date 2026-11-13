@@ -2,16 +2,19 @@
 #
 # Fields (see src/lib/entities.ts):
 #   id, name (as usually written, e.g. "R. v. Oakes"), year (required),
-#   holding (required: one line, inline markdown, what the court decided),
+#   holding (required: one line, inline markdown, what the court decided;
+#     shown on the landmark-cases timeline),
 #   citation? ("[1986] 1 S.C.R. 103"), sections? (doc or section ids it turns on),
-#   tag? (free text label, as in the landmark-cases table: "s. 1, s. 11(d)"),
+#   tag? (free text label: "s. 1, s. 11(d)"; on the landmark-cases timeline it
+#     also sorts the case into its Charter part),
 #   topic? (short subject, as in the landmark-cases headings),
 #   short?, aliases?, summary?, url? (the decision), people?, entities?,
 #   page? (home; default /learn/charter/landmark-cases#<id>)
 #
-# The landmark-cases headings don't carry {#<id>} anchors yet, so each case
-# here names its current heading anchor in `page`. Once that page gives each
-# heading an explicit {#<id>}, `page` can go.
+# The landmark-cases page shows, in file order within a year, every case whose
+# home is on that page (`<tn-widget name="timeline" data-source="cases">`),
+# and gives each its own `### … {#<id>}` heading, so the default home works.
+# A case explained elsewhere sets `page` and doesn't appear there.
 # Only facts already stated on the site's pages belong here.
 
 - id: r-v-big-m-drug-mart
@@ -24,7 +27,7 @@
   tag: s. 2(a) religion
   topic: freedom of religion
   holding: A law forcing Sunday closing for religious reasons was struck down
-  page: /learn/charter/landmark-cases#r-v-big-m-drug-mart-ltd-1985-freedom-of-religion
+  entities: [term:big-m-drug-mart]
 
 - id: r-v-oakes
   name: R. v. Oakes
@@ -35,8 +38,18 @@
   tag: s. 1, s. 11(d)
   topic: the test for reasonable limits
   holding: Created the test for justifying limits on rights
-  page: /learn/charter/landmark-cases#r-v-oakes-1986-the-test-for-reasonable-limits
   entities: [term:oakes-test]
+
+- id: r-v-morgentaler
+  name: R. v. Morgentaler
+  year: 1988
+  citation: "[1988] 1 S.C.R. 30"
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/288/index.do
+  sections: [doc:charter/s7]
+  tag: s. 7
+  topic: abortion and security of the person
+  holding: The Criminal Code's abortion provisions were struck down
+  entities: [term:morgentaler]
 
 - id: ford-v-quebec
   name: Ford v. Quebec
@@ -48,7 +61,18 @@
   tag: s. 2(b), s. 33
   topic: signs, expression and section 33
   holding: Commercial signs are protected expression; set the rules for using s. 33
-  page: /learn/charter/landmark-cases#ford-v-quebec-attorney-general-1988-signs-expression-and-section-33
+  entities: [term:ford-v-quebec, term:charter-of-the-french-language]
+
+- id: vriend-v-alberta
+  name: Vriend v. Alberta
+  year: 1998
+  citation: "[1998] 1 S.C.R. 493"
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/1607/index.do
+  sections: [doc:charter/s15]
+  tag: s. 15
+  topic: equality and "reading in"
+  holding: Sexual orientation was "read into" Alberta's human rights law
+  entities: [term:vriend-v-alberta, term:reading-in]
 
 - id: secession-reference
   name: Reference re Secession of Quebec
@@ -59,4 +83,28 @@
   tag: (not a Charter case)
   topic: can a province leave?
   holding: Quebec can't secede unilaterally, but a clear vote would require negotiation
-  page: /learn/charter/landmark-cases#reference-re-secession-of-quebec-1998-can-a-province-leave
+  entities: [term:secession-reference, term:unwritten-principles]
+
+- id: carter-v-canada
+  name: Carter v. Canada
+  aliases: [Carter v. Canada (Attorney General)]
+  year: 2015
+  citation: 2015 SCC 5, [2015] 1 S.C.R. 331
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/14637/index.do
+  sections: [doc:charter/s7]
+  tag: s. 7
+  topic: assisted dying
+  holding: The total ban on assisted dying was struck down
+  entities: [term:carter-v-canada, term:medical-assistance-in-dying]
+
+- id: r-v-jordan
+  name: R. v. Jordan
+  year: 2016
+  citation: 2016 SCC 27, [2016] 1 S.C.R. 631
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/16057/index.do
+  # documents.yaml has no section 11 yet: use doc:charter/s11 here (and in r-v-oakes) once it does.
+  sections: [doc:charter]
+  tag: s. 11(b)
+  topic: trials within a reasonable time
+  holding: Set time limits for criminal trials
+  entities: [term:jordan]

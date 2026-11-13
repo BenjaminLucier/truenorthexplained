@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { charterGroups, groupForHref, parseEraList, parseTable, slugify, textOf } from "../../src/widgets/timeline/parse";
+import { anchorBase, charterGroups, groupForHref, parseTable, slugify, sortEras, textOf, uniqueIds } from "../../src/widgets/timeline/parse";
 
 describe("textOf and slugify", () => {
   it("textOf strips tags, decodes entities and collapses spaces", () => {
@@ -26,51 +26,28 @@ describe("groupForHref", () => {
   });
 });
 
-describe("parseEraList", () => {
-  const html = `<p>Intro without entries.</p>
-<h2 id="confederation">Confederation</h2>
-<ul>
-<li><strong>1867</strong> — The British North America Act takes effect. <a href="/learn/constitution">Read more</a> · <a href="/provinces/ontario">Ontario</a></li>
-<li><strong>1864</strong> — Charlottetown Conference. <a href="/learn/constitution/patriation-1982">More</a></li>
-</ul>
-<h2 id="modern">Modern era</h2>
-<ul><li><strong>1982–1987</strong> – Patriation &amp; Meech.</li></ul>`;
-
-  it("makes one era per heading, sorted by year, with text, links and groups", () => {
-    const eras = parseEraList(html);
-    expect(eras.map((e) => [e.id, e.title, e.events.map((x) => x.year)])).toEqual([
-      ["confederation", "Confederation", [1864, 1867]],
-      ["modern", "Modern era", [1982]],
+describe("anchor ids", () => {
+  it("anchorBase uses the year and up to four words of the text, skipping filler and numbers", () => {
+    expect(anchorBase({ year: 1926, text: "In the King–Byng affair, the Governor General refuses" })).toBe("event-1926-king-byng-affair-governor");
+    expect(anchorBase({ year: 1985, text: "Section 15, the Charter&#39;s equality rights" })).toBe("event-1985-section-charter-equality-rights");
+  });
+  it("anchorBase prefers a title, then a tag, and takes up to six words from them", () => {
+    expect(anchorBase({ year: 1986, title: "<em>R. v. Oakes</em>", tag: "s. 1", text: "Created the test" })).toBe("event-1986-r-v-oakes");
+    expect(anchorBase({ year: 2022, tag: "Ontario", text: "Used it" })).toBe("event-2022-ontario");
+    expect(anchorBase({ year: 1985, title: "R. v. Big M Drug Mart Ltd. and more", text: "" })).toBe("event-1985-r-v-big-m-drug-mart");
+  });
+  it("uniqueIds numbers repeats in order", () => {
+    expect(uniqueIds(["event-1990-oka", "event-1990-x", "event-1990-oka", "event-1990-oka"])).toEqual([
+      "event-1990-oka",
+      "event-1990-x",
+      "event-1990-oka-2",
+      "event-1990-oka-3",
     ]);
-    const bna = eras[0]!.events[1]!;
-    expect(bna).toEqual({
-      id: "event-1867-british-north-america-act",
-      year: 1867,
-      endYear: undefined,
-      yearLabel: "1867",
-      text: "The British North America Act takes effect.",
-      groups: ["constitution", "provinces"],
-      links: [
-        { href: "/learn/constitution", label: "Read more" },
-        { href: "/provinces/ontario", label: "Ontario" },
-      ],
-    });
   });
-
-  it("reads year ranges and keeps inline HTML in the text", () => {
-    const range = parseEraList(html)[1]!.events[0]!;
-    expect(range).toMatchObject({ year: 1982, endYear: 1987, yearLabel: "1982–1987", text: "Patriation &amp; Meech.", links: [], groups: [] });
-    expect(range.id).toBe("event-1982-patriation-meech");
-  });
-
-  it("numbers repeated anchors", () => {
-    const eras = parseEraList("<ul><li><strong>1990</strong> — Oka. </li><li><strong>1990</strong> — Oka.</li></ul>");
-    expect(eras[0]!.events.map((e) => e.id)).toEqual(["event-1990-oka", "event-1990-oka-2"]);
-  });
-
-  it("rejects entries not written as **year** — text", () => {
-    expect(() => parseEraList("<ul><li>No year here</li></ul>")).toThrow(/not in "\*\*year\*\* — text" form/);
-    expect(() => parseEraList("<ul><li><strong>Long ago</strong> — Something</li></ul>")).toThrow(/has no year/);
+  it("sortEras sorts by year and keeps the authored order within a year", () => {
+    const e = (year: number, text: string) => ({ id: "", year, yearLabel: String(year), text, groups: [], links: [] });
+    const [era] = sortEras([{ events: [e(1990, "b"), e(1867, "a"), e(1990, "c")] }]);
+    expect(era!.events.map((x) => x.text)).toEqual(["a", "b", "c"]);
   });
 });
 
@@ -107,6 +84,20 @@ describe("parseTable", () => {
         groups: ["limits", "legal"],
         links: [],
       },
+    ]);
+  });
+
+  it("reads year ranges, groups by the column's own values and numbers repeated anchors", () => {
+    const table = `<table><thead><tr><th>Year</th><th>Jurisdiction</th><th>How</th></tr></thead><tbody>
+<tr><td>1982–1987</td><td>Quebec</td><td>All its laws &amp; more</td></tr>
+<tr><td>1988</td><td>Quebec</td><td>Signs</td></tr>
+<tr><td>1988</td><td>Quebec</td><td>Again</td></tr>
+</tbody></table>`;
+    const [era] = parseTable(table, { text: "How", group: "Jurisdiction" }, (cell) => [slugify(cell)]);
+    expect(era!.events.map((e) => [e.id, e.year, e.endYear, e.yearLabel, e.text, e.groups])).toEqual([
+      ["event-1982-quebec", 1982, 1987, "1982–1987", "All its laws &amp; more", ["quebec"]],
+      ["event-1988-quebec", 1988, undefined, "1988", "Signs", ["quebec"]],
+      ["event-1988-quebec-2", 1988, undefined, "1988", "Again", ["quebec"]],
     ]);
   });
 

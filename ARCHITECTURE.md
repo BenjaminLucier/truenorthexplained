@@ -60,17 +60,47 @@ and `data-foo-bar` becomes `fooBar`). An unknown name fails the build. See
 
 A placeholder can also wrap markdown. The rendered HTML inside it reaches the widget as
 a `content` prop, so the page's own markdown stays the source of the widget's data (the
-`timeline` widget works this way). Leave a blank line after the opening tag and before
-the closing one so the markdown inside is parsed:
+`timeline` widget's table mode works this way). Leave a blank line after the opening tag
+and before the closing one so the markdown inside is parsed:
 
 ```html
-<tn-widget name="timeline" data-group-by="module">
+<tn-widget name="timeline" data-group="Jurisdiction" data-text="How it was used">
 
-## An era
-- **1867** — Confederation. [Read more](/learn/constitution)
+| Year | Jurisdiction | How it was used |
+|---|---|---|
+| 1982–1987 | Quebec | … |
 
 </tn-widget>
 ```
+
+**The `timeline` widget** (`src/widgets/timeline/`) draws a horizontal timeline: a
+proportional time axis with year ticks and axis breaks, cards alternating above and
+below it, eras as coloured bands, a minimap, filter chips, drag and keyboard navigation
+and `#id` deep links. Without JavaScript it is a horizontally scrolling list. It has
+three sources:
+
+- `data-source="events"` (`/timeline`): every event entity in
+  `content/entities/events.yaml`, in the eras listed there, grouped and coloured by
+  module (`data-group-by="module"`). A card shows the year (in `<time datetime>` with
+  the precision of `date`), the module, the title and text, the `pages` (link text: the
+  page title or `label`), and chips for its `people` (small portrait, linking to their
+  home) and for the cases and events in its `entities`. The card's id is the event's
+  slug, so `/timeline#king-byng-affair` is its home; the ids the cards had when the
+  timeline was a markdown list (`#event-1926-king-byng-affair-governor`, era headings
+  like `#building-the-country-18671923`) are kept as empty `data-alias` anchors, pinned by
+  `tests/unit/fixtures/timeline-legacy-anchors.json`.
+- `data-source="cases"` (`/learn/charter/landmark-cases`, with
+  `data-group-by="charter"`): the case entities whose home is on the current page, each
+  card showing the case name (linking to its `### … {#<id>}` write-up), its `holding`
+  and its `tag`, grouped by the Charter part the tag names.
+- A wrapped markdown table (`/learn/charter/notwithstanding-clause`): the first column
+  is the year; `data-title`, `data-text` and `data-group` pick the other columns by
+  header, and `data-group-by="charter"` or `"column"` sets the grouping.
+
+The mapping from entities is the pure `src/widgets/timeline/entities.ts`, the table
+parser and anchor ids are in `parse.ts`; event text and case holdings are inline
+markdown rendered by `src/lib/inline-markdown.ts` (smart punctuation, facts, entity
+links, as on pages).
 
 A widget is a normal Astro component:
 
@@ -174,8 +204,8 @@ and every old URL keeps working.
 | Person | `person:william-lyon-mackenzie-king` | Derived from `src/data/wikidata/{prime-ministers,governors-general,monarchs,chief-justices,premiers}.json` (the JSON is never copied). Others, and overrides, in `content/entities/people.yaml` | The row for their highest office: `/prime-ministers#pm-N`, `/governors-general#gg-N`, `/governors-general#monarch-N`, `/governors-general#cj-N` (monarchs and chief justices are listed there too), or `/provinces/<slug>` for premiers |
 | Institution | `org:senate` | `content/entities/institutions.yaml` | `page` (required) |
 | Document, section | `doc:charter`, `doc:charter/s33` | `content/entities/documents.yaml`; sections nest under their document | `page` (required); a section defaults to its document's page and `url` |
-| Case | `case:r-v-oakes` | `content/entities/cases.yaml` | `/learn/charter/landmark-cases#<slug>` |
-| Event | `event:king-byng-affair` | `content/entities/events.yaml`, which also lists the timeline's `eras` | `/timeline#<slug>` |
+| Case | `case:r-v-oakes` | `content/entities/cases.yaml`; the landmark-cases page shows those homed there as its timeline, each with a `{#<slug>}` heading | `/learn/charter/landmark-cases#<slug>` |
+| Event | `event:king-byng-affair` | `content/entities/events.yaml`, which also lists the timeline's `eras`; it is the whole of `/timeline` | `/timeline#<slug>` (the event's card) |
 | Term or concept | `term:reserve-powers` | The glossary (today: the `### Term {#slug}` headings of `content/glossary.en.md`, read by `glossaryTermSources()`; later one file per term, see below) | `/glossary#<slug>` |
 
 An explicit `page` always replaces the default home. Each YAML file starts with a
@@ -188,14 +218,17 @@ YAML entity can have: `id` (slug only; the file gives the type), `name`, `short`
   summary?, page?, url? }`. `n` is the number as written (`33`, `"92A"`, `"91(24)"`); the
   section id is `s` plus its slug: `doc:constitution-act-1867/s92a`, `…/s91-24`. A
   section's `name` defaults to "section 92A" and `short` to "s. 92A".
-- **case**: `year` and `holding` (required; one line, inline markdown), `citation`,
-  `sections` (doc or section ids), `tag` (the free-text label of the landmark-cases
-  table, "s. 1, s. 11(d)"), `topic` (the subject in its heading), `people`, `entities`.
+- **case**: `year` and `holding` (required; one line, inline markdown, shown on the
+  landmark-cases timeline), `citation`, `sections` (doc or section ids), `tag` (the
+  free-text label on its card, "s. 1, s. 11(d)", which also sorts it into a Charter
+  part), `topic` (the subject in its heading), `people`, `entities`.
 - **event**: `title`, `date`, `text` (inline markdown) and `era` (required); `end`,
-  `module` (a learn module key; otherwise the first `/learn/…` page decides), `pages`
-  (site paths, or `{ page, label }` to set the link text), `people`, `entities`;
-  `name` defaults to `title`. `date` and `end` are a year (`1926`) or an ISO date
-  (`1926-06`, `1926-06-28`). `eras` is a list of `{ id, title }`.
+  `module` (a learn module key; otherwise the first `/learn/…` page decides; it colours
+  and labels the card), `pages` (site paths, or `{ page, label }` to set the link text),
+  `people`, `entities`; `name` defaults to `title`. `date` and `end` are a year
+  (`1926`) or an ISO date (`1926-06`, `1926-06-28`), as precise as the text supports.
+  `eras` is a list of `{ id, title }`. Court decisions on the timeline name their case
+  in `entities` (`case:r-v-oakes`) rather than restating it, and the card links to it.
 - **person** (people.yaml): with `qid`, an override of a derived person (`id` may
   rename them; `page` replaces the derived home). Without `qid`, a new person:
   `name` and `page` are required.
@@ -253,7 +286,11 @@ from every page's `about` and the `data-entity` links in its rendered HTML:
 
 - `pagesAbout(id)`: pages that list the entity in `about`.
 - `mentions(id)`: `{ pages, entities }`: pages that link to it, and entities that
-  name it in `people`, `entities` or `sections`.
+  name it in `people`, `entities` or `sections` (timeline events and cases included).
+- `eventsFor(id)`: timeline events, by year, that name an entity in `people` or
+  `entities` (`eventsFor("person:pierre-trudeau")`), or that list a page in `pages`
+  (`eventsFor("learn/crown/reserve-powers")`). Synchronous; the matching is the pure
+  `eventsMentioning()` in `src/lib/related.ts`.
 - `relatedPages(page)`: `{ page, via, score }[]`, at most four. A page counts as
   being about the entities in its `about` and those whose home is on it. Scoring is
   the pure `rankRelated()` in `src/lib/related.ts`: 3 points for each entity this page
@@ -262,10 +299,12 @@ from every page's `about` and the `data-entity` links in its rendered HTML:
   hub pages (home, glossary, timeline, sources, myths, credits, about), the module's
   main page and the neighbours in the reading order; hub pages get no suggestions.
 
-ContentLayout shows "Related pages" under the quiz, above previous/next, and nothing
-when there are none. Planned: each glossary term shows "Explained in" (its `see`
-list plus pages about it) and "Mentioned in"; timeline events link to their `pages`
-and to the list pages of their `people`.
+ContentLayout shows, under the quiz and above previous/next, "On the timeline" (the
+events whose `pages` include the page, as chips linking to `/timeline#<id>`) and
+"Related pages", each only when it has something to show. Timeline event cards link to
+their `pages`, to the homes of their `people` and to the cases and events in their
+`entities`. Planned: each glossary term shows "Explained in" (its `see` list plus pages
+about it) and "Mentioned in".
 
 ### Glossary
 
@@ -323,7 +362,7 @@ sentence false, the changing part should be a fact.
 
 ```bash
 pnpm check      # types, including .astro files
-pnpm validate   # internal links, quiz references, entity ids, fact keys
+pnpm validate   # internal links, quiz references, entity ids, fact keys (pages and entity YAML)
 pnpm build      # full static build (also validates all front matter and data)
 pnpm test       # unit tests (Vitest)
 pnpm test:e2e   # build, then browser tests (Playwright)
@@ -334,7 +373,8 @@ pnpm test:e2e   # build, then browser tests (Playwright)
 - **Unit tests** (`tests/unit/*.test.ts`, Vitest) cover the pure logic: widget
   placeholders, ids and paths, chart scales and formatting, money and reference
   helpers, election calculations and data consistency, the hemicycle layout, timeline
-  parsing, and the theme tokens (every light token has a dark value, repeated in the
+  parsing and the event/case-to-timeline mapping (with the old anchors pinned), and the
+  theme tokens (every light token has a dark value, repeated in the
   no-JavaScript fallback). Import from `src/` directly; JSON imports work. A new
   `tests/unit/<name>.test.ts` is picked up automatically. Expected values come from
   what a function is documented to do, not from what it happens to return.
@@ -349,6 +389,9 @@ pnpm test:e2e   # build, then browser tests (Playwright)
   - `interactions.spec.ts` drives the interactive parts: the theme and width toggles,
     the module menu and rail, search, the ridings explorer, the power sorter, a chart
     tooltip by keyboard and a quiz answer.
+  - `timeline.spec.ts` covers the timelines built from entities: `#id` deep links
+    (new and old anchors) reveal the event, card links to people and cases, case
+    homes on the landmark-cases page, and a page's "On the timeline" list.
   - `pnpm test:e2e` builds first. Against an existing build, run
     `pnpm exec playwright test` (add a file or `-g "<title>"` to narrow it, or
     `--shard=1/4` to split it across machines). With `CI` set, an existing server on

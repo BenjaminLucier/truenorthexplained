@@ -1,23 +1,35 @@
 # Events, and the eras that group them on the timeline. Id: event:<id>.
+# This file is the timeline: /timeline renders every event here
+# (<tn-widget name="timeline" data-source="events">), one card each, with the
+# anchor #<id>. Pages list the events that link to them ("On the timeline").
 #
 # eras: list of
 #   id, title (the era heading as shown on /timeline)
 #
-# events: list of (see src/lib/entities.ts)
-#   id, title (required: short name, "The King–Byng affair"),
-#   date (required: a year, 1926, or an ISO date, "1926-06" / "1926-06-28"; quote
-#     full dates if you like, both work), end? (same forms, for ranges),
+# events: list of (see src/lib/entities.ts), in date order within each era;
+# events in the same year show in file order.
+#   id (a readable slug of the title, often with the year: "quebec-act-1774";
+#     don't rename: it's the event's anchor on /timeline),
+#   title (required: short name, "The King–Byng affair"; the card's heading),
+#   date (required: a year, 1926, or an ISO date, "1926-06" / "1926-06-28", only
+#     as precise as the text supports), end? (same forms, for ranges; a later
+#     year shows as "1982–1987" with a bar along the axis),
 #   text (required: inline markdown, one or two sentences: what happened),
 #   era (required: an era id below),
-#   module? (a learn module key such as "crown"; default: the module of the
-#     first /learn/… entry in `pages`),
+#   module? (a learn module key such as "crown"; colours the card and names it;
+#     default: the module of the first /learn/… entry in `pages`; events with
+#     only province pages have none and show as "Provinces and territories"),
 #   pages? (pages that explain it, most relevant first: a site path, or
-#     { page, label } to set the link text; default label is the page title),
-#   people? (person ids), entities? (any ids),
+#     { page, label } to set the link text; default label is the page title.
+#     The card's links, and each page's "On the timeline" list),
+#   people? (person ids: shown on the card, linking to their homes),
+#   entities? (any ids; cases and other events are linked from the card,
+#     everything counts as a mention for backlinks),
 #   name? (default: title), short?, aliases?, summary?, url?,
 #   page? (home; default /timeline#<id>; set it when one page tells the story)
 #
-# Only facts already stated on the site's pages belong here.
+# Only facts already stated on the site's pages belong here; anything
+# uncertain gets a check comment (hash, "check:", the doubt) on its event.
 
 eras:
   - id: before-confederation
@@ -32,13 +44,245 @@ eras:
     title: Recent (2000–today)
 
 events:
+  - id: historic-treaties-begin
+    title: The historic treaties begin
+    date: 1701
+    text: The Crown begins signing the historic treaties with Indigenous nations, a process that runs until 1923.
+    era: before-confederation
+    module: indigenous
+    pages: [/learn/indigenous/treaties]
+    entities: [org:crown, term:treaty]
+
+  - id: nova-scotia-assembly-1758
+    title: Nova Scotia's first assembly
+    date: 1758-10-02
+    text: Nova Scotia's House of Assembly first meets, on October 2, becoming the oldest elected legislature in what is now Canada.
+    era: before-confederation
+    pages: [/provinces/nova-scotia]
+    entities: [term:house-of-assembly]
+
+  - id: royal-proclamation-1763
+    title: The Royal Proclamation
+    date: 1763-10-07
+    text: The Royal Proclamation (October 7) says only the Crown can acquire Indigenous lands, with the nation's agreement, laying the root of the treaty process.
+    era: before-confederation
+    module: indigenous
+    pages: [/learn/indigenous/treaties]
+    entities: [term:royal-proclamation-of-1763, org:crown]
+
+  - id: treaty-of-niagara
+    title: The Treaty of Niagara
+    date: 1764
+    text: The Crown and many Indigenous nations meet at Niagara; many see this Treaty of Niagara as accepting the Proclamation's promises nation to nation.
+    era: before-confederation
+    module: indigenous
+    pages: [/learn/indigenous/treaties]
+    entities: [term:treaty-of-niagara]
+
+  - id: quebec-act-1774
+    title: The Quebec Act
+    date: 1774
+    text: The Quebec Act restores French civil law for property and civil rights, which is why Quebec uses civil law today.
+    era: before-confederation
+    module: law
+    pages: [/learn/law/common-law-and-civil-law, /provinces/quebec]
+    entities: [term:quebec-act-1774, term:civil-law, term:property-and-civil-rights]
+
+  - id: new-brunswick-colony-1784
+    title: New Brunswick becomes a colony
+    date: 1784
+    text: New Brunswick is split off from Nova Scotia as a separate colony, largely for Loyalist settlers.
+    era: before-confederation
+    pages: [/provinces/new-brunswick]
+    entities: [term:loyalists]
+
+  - id: upper-canada-1791
+    title: Upper Canada is created
+    date: 1791
+    text: The colony of Upper Canada, today's Ontario, is created.
+    era: before-confederation
+    pages: [/provinces/ontario]
+
+  - id: province-of-canada-1841
+    title: The Province of Canada
+    date: 1841
+    text: Upper and Lower Canada are joined into the Province of Canada.
+    era: before-confederation
+    pages: [/provinces/ontario]
+
+  - id: responsible-government-1848
+    title: Responsible government
+    date: 1848-02
+    text: In February, Nova Scotia becomes the first colony in the British Empire with responsible government; the Province of Canada follows weeks later.
+    era: before-confederation
+    pages: [/provinces/nova-scotia]
+    entities: [term:responsible-government]
+
+  - id: newfoundland-responsible-government-1855
+    title: Responsible government in Newfoundland
+    date: 1855
+    text: Newfoundland wins responsible government but stays outside the later Confederation.
+    era: before-confederation
+    pages: [/provinces/newfoundland-and-labrador]
+    entities: [term:responsible-government]
+
+  - id: charlottetown-conference
+    title: The Charlottetown Conference
+    date: 1864-09
+    text: In September, the Charlottetown Conference becomes the first of the meetings that lead to Confederation.
+    era: before-confederation
+    pages: [/provinces/prince-edward-island]
+    entities: [term:charlottetown-conference]
+
+  - id: civil-code-of-lower-canada
+    title: The Civil Code of Lower Canada
+    date: 1866
+    text: The Civil Code of Lower Canada comes into force.
+    era: before-confederation
+    module: law
+    pages: [/learn/law/common-law-and-civil-law]
+    entities: [term:civil-law]
+
   - id: confederation
     title: Confederation
     date: 1867-07-01
     text: On July 1, the Constitution Act, 1867 (then the BNA Act) unites Ontario, Quebec, Nova Scotia and New Brunswick and divides powers between Ottawa and the provinces.
     era: building-the-country
+    module: constitution
     pages: [/learn/constitution/constitution-act-1867]
-    entities: [doc:constitution-act-1867]
+    entities: [doc:constitution-act-1867, term:confederation]
+
+  - id: red-river-resistance
+    title: The Red River Resistance
+    date: 1869
+    text: Canada arranges to take over Rupert's Land; the Métis at Red River, led by Louis Riel, form a provisional government (the Red River Resistance).
+    era: building-the-country
+    pages: [/provinces/manitoba]
+    people: [person:louis-riel]
+    entities: [term:red-river-resistance, term:provisional-government, term:metis]
+
+  - id: ruperts-land-1870
+    title: Rupert's Land joins Canada
+    date: 1870
+    text: Canada acquires Rupert's Land and the North-Western Territory, which become the North-West Territories.
+    era: building-the-country
+    module: federalism
+    pages: [/learn/federalism/territories, /provinces/northwest-territories]
+    entities: [term:territory]
+
+  - id: manitoba-act-1870
+    title: The Manitoba Act
+    date: 1870-07-15
+    text: The Manitoba Act makes Manitoba a province on July 15, with English and French built into its founding law.
+    era: building-the-country
+    pages: [/provinces/manitoba]
+    entities: [term:manitoba-act-1870]
+
+  - id: british-columbia-joins-1871
+    title: British Columbia joins
+    date: 1871
+    text: British Columbia joins Canada, on the promise of a railway link to the rest of the country.
+    era: building-the-country
+    pages: [/provinces/british-columbia]
+    entities: [term:terms-of-union]
+
+  - id: treaty-1
+    title: Treaty 1
+    date: 1871
+    text: Treaty 1 is signed, the first of the Numbered Treaties that run to 1921 across the West and North.
+    era: building-the-country
+    module: indigenous
+    pages: [/learn/indigenous/treaties]
+    entities: [term:numbered-treaties]
+
+  - id: prince-edward-island-joins-1873
+    title: Prince Edward Island joins
+    date: 1873
+    text: Prince Edward Island joins Canada, six years after the first four provinces.
+    era: building-the-country
+    pages: [/provinces/prince-edward-island]
+    entities: [term:terms-of-union]
+
+  - id: supreme-court-created
+    title: The Supreme Court is created
+    date: 1875
+    text: Parliament creates the Supreme Court of Canada.
+    era: building-the-country
+    module: law
+    pages: [/learn/law/supreme-court]
+    entities: [org:supreme-court, org:parliament]
+
+  - id: indian-act-1876
+    title: The Indian Act
+    date: 1876
+    text: Parliament passes the Indian Act, which still defines status and governs reserves today.
+    era: building-the-country
+    module: indigenous
+    pages: [/learn/indigenous/indian-act]
+    entities: [doc:indian-act]
+
+  - id: potlatch-ban-1884
+    title: The potlatch ban
+    date: 1884
+    text: The Indian Act is changed to ban ceremonies such as the potlatch; the ban lasts until 1951.
+    era: building-the-country
+    module: indigenous
+    pages: [/learn/indigenous/indian-act]
+    entities: [doc:indian-act]
+
+  - id: riel-executed-1885
+    title: Louis Riel is executed
+    date: 1885
+    text: Louis Riel is executed for treason after the North-West Resistance.
+    era: building-the-country
+    pages: [/provinces/manitoba]
+    people: [person:louis-riel]
+
+  - id: criminal-code-1892
+    title: The first Criminal Code
+    date: 1892
+    text: Canada's first Criminal Code is passed.
+    era: building-the-country
+    module: law
+    pages: [/learn/law/criminal-law]
+    entities: [term:criminal-code]
+
+  - id: yukon-territory-1898
+    title: Yukon becomes a territory
+    date: 1898
+    text: Yukon becomes a separate territory during the Klondike Gold Rush.
+    era: building-the-country
+    module: federalism
+    pages:
+      - /provinces/yukon
+      - { page: /learn/federalism/territories, label: Territories }
+    entities: [term:territory]
+
+  - id: alberta-and-saskatchewan-1905
+    title: Alberta and Saskatchewan are created
+    date: 1905
+    text: Parliament creates Alberta and Saskatchewan out of the North-West Territories.
+    era: building-the-country
+    pages: [/provinces/alberta, /provinces/saskatchewan]
+    entities: [term:alberta-act]
+
+  - id: residential-schools-mandatory-1920
+    title: Residential school attendance made mandatory
+    date: 1920
+    text: Residential school attendance becomes mandatory for many First Nations children.
+    era: building-the-country
+    module: indigenous
+    pages: [/learn/indigenous/indian-act]
+    entities: [term:residential-schools, doc:indian-act]
+
+  - id: williams-treaties-1923
+    title: The Williams Treaties
+    date: 1923
+    text: The Williams Treaties, the last of the historic treaties, are signed in southern Ontario.
+    era: building-the-country
+    module: indigenous
+    pages: [/learn/indigenous/treaties]
+    entities: [term:treaty]
 
   - id: king-byng-affair
     title: The King–Byng affair
@@ -59,25 +303,825 @@ events:
     date: 1926
     text: The Imperial Conference establishes that a Governor General represents the monarch personally, not the British government.
     era: becoming-fully-independent
-    pages: [/learn/crown/reserve-powers, /learn/constitution/conventions]
+    module: crown
+    pages:
+      - /learn/crown/reserve-powers
+      - { page: /learn/constitution/conventions, label: Conventions }
     entities: [org:governor-general, event:king-byng-affair]
+
+  - id: persons-case
+    title: The Persons Case
+    date: 1929
+    text: In the Persons Case, the Privy Council rules women are "persons" who can sit in the Senate and calls the Constitution "a living tree".
+    era: becoming-fully-independent
+    module: constitution
+    pages: [/learn/constitution/constitution-act-1867]
+    entities: [term:persons-case, term:living-tree, org:senate, term:judicial-committee-of-the-privy-council]
+
+  - id: natural-resources-transfer-1930
+    title: The Natural Resources Transfer Agreements
+    date: 1930
+    text: The Natural Resources Transfer Agreements finally give Manitoba, Saskatchewan and Alberta control of their land and resources.
+    era: becoming-fully-independent
+    pages: [/provinces/alberta, /provinces/saskatchewan]
+    entities: [term:natural-resources-transfer-agreements]
+
+  - id: statute-of-westminster
+    title: The Statute of Westminster
+    date: 1931
+    text: The Statute of Westminster ends Britain's power to make laws for Canada without its consent, though it leaves the BNA Acts out.
+    era: becoming-fully-independent
+    module: constitution
+    pages: [/learn/constitution/patriation-1982, /learn/constitution]
+    entities: [doc:statute-of-westminster-1931]
+
+  - id: criminal-appeals-to-london-end-1933
+    title: Criminal appeals to London end
+    date: 1933
+    text: Criminal appeals from Canada to the Privy Council in London end.
+    era: becoming-fully-independent
+    module: law
+    pages: [/learn/law/supreme-court]
+    entities: [term:judicial-committee-of-the-privy-council]
+
+  - id: commission-of-government-1934
+    title: Newfoundland's Commission of Government
+    date: 1934
+    text: Newfoundland, near bankruptcy, has its legislature suspended and is run by an appointed Commission of Government.
+    era: becoming-fully-independent
+    pages: [/provinces/newfoundland-and-labrador]
+    entities: [term:commission-of-government]
+
+  - id: bank-of-canada-1935
+    title: The Bank of Canada opens
+    date: 1935
+    text: The Bank of Canada begins operating; it becomes publicly owned in 1938.
+    era: becoming-fully-independent
+    module: government
+    pages: [/learn/government/bank-of-canada-vs-mint]
+    entities: [org:bank-of-canada]
+
+  - id: inuit-reference-1939
+    title: The 1939 Inuit reference
+    date: 1939
+    text: A Supreme Court reference decides that Inuit are "Indians" under federal power in s. 91(24).
+    era: becoming-fully-independent
+    module: indigenous
+    pages: [/learn/indigenous/section-35]
+    entities: [doc:constitution-act-1867/s91-24, term:inuit, org:supreme-court]
+
+  - id: saskatchewan-hospital-insurance-1947
+    title: Hospital insurance and a bill of rights
+    date: 1947
+    text: Saskatchewan launches universal hospital insurance and passes one of Canada's first bills of rights.
+    era: becoming-fully-independent
+    pages: [/provinces/saskatchewan]
+
+  - id: newfoundland-referendums-1948
+    title: Newfoundland's referendums
+    date: 1948-06-03
+    end: 1948-07-22
+    text: In two referendums (June 3 and July 22), Newfoundlanders narrowly choose to join Canada.
+    era: becoming-fully-independent
+    pages: [/provinces/newfoundland-and-labrador]
+    entities: [term:referendum]
+
+  - id: newfoundland-joins-1949
+    title: Newfoundland joins
+    date: 1949-03-31
+    text: Newfoundland joins Canada on March 31, the most recent province to do so.
+    era: becoming-fully-independent
+    pages: [/provinces/newfoundland-and-labrador]
+    entities: [term:terms-of-union]
+
+  - id: privy-council-appeals-end-1949
+    title: Appeals to London end
+    date: 1949
+    text: All remaining appeals to the Privy Council end, making the Supreme Court Canada's final court.
+    era: becoming-fully-independent
+    module: law
+    pages: [/learn/law/supreme-court]
+    entities: [org:supreme-court, term:judicial-committee-of-the-privy-council]
+
+  - id: indian-act-changes-1951
+    title: The 1951 Indian Act changes
+    date: 1951
+    text: Major Indian Act changes remove the ban on ceremonies and the limit on hiring lawyers for land claims.
+    era: becoming-fully-independent
+    module: indigenous
+    pages: [/learn/indigenous/indian-act]
+    entities: [doc:indian-act]
+
+  - id: equalization-begins-1957
+    title: Equalization begins
+    date: 1957
+    text: The federal equalization program begins.
+    era: becoming-fully-independent
+    module: federalism
+    pages: [/learn/federalism/money-and-equalization]
+    entities: [term:equalization]
+
+  - id: canadian-bill-of-rights
+    title: The Canadian Bill of Rights
+    date: 1960
+    text: Parliament passes the Canadian Bill of Rights, an ordinary federal law that comes before the Charter.
+    era: becoming-fully-independent
+    module: charter
+    pages:
+      - /learn/charter
+      - { page: /learn/constitution/constitution-act-1867, label: 1867 Act }
+    entities: [term:canadian-bill-of-rights, org:parliament]
+
+  - id: first-nations-federal-vote-1960
+    title: First Nations vote federally
+    date: 1960
+    text: First Nations people gain the right to vote federally without losing status.
+    era: becoming-fully-independent
+    module: indigenous
+    pages: [/learn/indigenous/indian-act]
+    entities: [doc:indian-act, term:status]
+
+  - id: last-reservation-1961
+    title: The last reservation of a bill
+    date: 1961
+    text: Saskatchewan's Lieutenant Governor reserves a bill for Ottawa, the last use of the reservation power.
+    era: becoming-fully-independent
+    module: crown
+    pages: [/learn/crown/reserve-powers]
+    entities: [term:reservation, term:lieutenant-governor, term:reserve-powers]
+
+  - id: saskatchewan-medicare-1962
+    title: Medicare in Saskatchewan
+    date: 1962
+    text: Saskatchewan brings in universal medical care insurance despite a doctors' strike.
+    era: becoming-fully-independent
+    pages: [/provinces/saskatchewan]
+    entities: [term:medicare]
+
+  - id: senate-retirement-age-1965
+    title: Senators retire at 75
+    date: 1965
+    text: Senators must now retire at 75 instead of serving for life.
+    era: becoming-fully-independent
+    module: parliament
+    pages:
+      - /learn/parliament/senate
+      - { page: /learn/constitution/constitution-act-1867, label: 1867 Act }
+    entities: [org:senate]
+
+  - id: medical-care-act-1966
+    title: The Medical Care Act
+    date: 1966
+    text: Parliament passes the Medical Care Act, offering to share the cost of provincial medicare plans.
+    era: becoming-fully-independent
+    module: federalism
+    pages:
+      - /provinces/saskatchewan
+      - { page: /learn/federalism/money-and-equalization, label: Money }
+    entities: [term:medicare, org:parliament]
+
+  - id: national-assembly-1968
+    title: Quebec's National Assembly
+    date: 1968
+    text: Quebec renames its legislature the National Assembly and abolishes its Legislative Council, the last province to have one.
+    era: becoming-fully-independent
+    pages: [/provinces/quebec]
+    entities: [term:national-assembly, term:legislative-council]
+
+  - id: white-paper-1969
+    title: The 1969 White Paper
+    date: 1969
+    text: A federal White Paper proposes abolishing the Indian Act and status; First Nations reject it and it is withdrawn.
+    era: becoming-fully-independent
+    module: indigenous
+    pages: [/learn/indigenous/indian-act]
+    entities: [term:white-paper-1969, doc:indian-act]
+
+  - id: calder
+    title: The Calder decision
+    date: 1973
+    text: The *Calder* decision recognizes that Aboriginal title exists in Canadian law, prompting modern treaty talks.
+    era: becoming-fully-independent
+    module: indigenous
+    pages: [/learn/indigenous/section-35, /learn/indigenous/treaties]
+    entities: [term:calder, term:aboriginal-title]
+
+  - id: james-bay-agreement-1975
+    title: The James Bay and Northern Quebec Agreement
+    date: 1975
+    text: The James Bay and Northern Quebec Agreement becomes the first modern treaty.
+    era: becoming-fully-independent
+    module: indigenous
+    pages: [/learn/indigenous/treaties]
+    entities: [term:modern-treaty]
+
+  - id: quebec-charter-of-rights-1975
+    title: Quebec's own Charter of rights
+    date: 1975
+    text: Quebec adopts its own Charter of Human Rights and Freedoms.
+    era: becoming-fully-independent
+    pages: [/provinces/quebec]
+    entities: [term:quebec-charter-of-human-rights-and-freedoms]
+
+  - id: bill-101
+    title: Bill 101
+    date: 1977
+    text: Quebec passes the Charter of the French Language (Bill 101).
+    era: becoming-fully-independent
+    pages: [/provinces/quebec]
+    entities: [term:charter-of-the-french-language, term:bill-101]
+
+  - id: quebec-referendum-1980
+    title: Quebec's first referendum
+    date: 1980
+    text: Quebecers vote No, by about 60%, to a mandate to negotiate sovereignty-association.
+    era: becoming-fully-independent
+    module: constitution
+    pages:
+      - /provinces/quebec
+      - { page: /learn/constitution/patriation-1982, label: Patriation }
+    entities: [term:sovereignty-association, term:referendum]
+
+  - id: patriation-reference
+    title: The Patriation Reference
+    date: 1981-09
+    text: In the Patriation Reference (September), the Supreme Court says unilateral patriation would be legal but break a constitutional convention.
+    era: becoming-fully-independent
+    module: constitution
+    pages: [/learn/constitution/patriation-1982]
+    entities: [term:patriation-reference, term:constitutional-convention, org:supreme-court]
+
+  - id: patriation-deal-1981
+    title: The patriation deal
+    date: 1981-11
+    text: In November, Ottawa and nine provinces strike a patriation deal without Quebec, including the notwithstanding clause.
+    era: becoming-fully-independent
+    module: constitution
+    pages:
+      - /learn/constitution/patriation-1982
+      - { page: /learn/charter/notwithstanding-clause, label: Section 33 }
+    people: [person:pierre-trudeau, person:rene-levesque]
+    entities: [doc:charter/s33, term:notwithstanding-clause]
 
   - id: patriation
     title: Patriation
     date: 1982-04-17
     text: On April 17, the Constitution Act, 1982 comes into force, adding the Charter, an amending formula and section 35, and ending Britain's last formal role.
     era: charter-era
+    module: constitution
     pages: [/learn/constitution/patriation-1982]
+    people: [person:pierre-trudeau, person:elizabeth-ii]
     entities: [doc:constitution-act-1982, doc:charter, term:patriation]
+
+  - id: section-92a-1982
+    title: Section 92A
+    date: 1982
+    text: Section 92A is added to the Constitution, confirming provincial power over natural resources.
+    era: charter-era
+    module: federalism
+    pages:
+      - /provinces/alberta
+      - { page: /learn/federalism/division-of-powers, label: Division of powers }
+    entities: [doc:constitution-act-1867/s92a]
+
+  - id: quebec-veto-reference
+    title: The Quebec Veto Reference
+    date: 1982-12
+    text: In the Quebec Veto Reference (December), the Supreme Court rules Quebec had no veto over patriation.
+    era: charter-era
+    module: constitution
+    pages: [/learn/constitution/patriation-1982]
+    entities: [term:quebec-veto-reference, org:supreme-court]
+
+  - id: section-35-amendment-1983
+    title: Section 35 is amended
+    date: 1983
+    text: Section 35 is amended to protect land claims agreements and guarantee Aboriginal rights equally to men and women.
+    era: charter-era
+    module: indigenous
+    pages:
+      - /learn/indigenous/section-35
+      - { page: /learn/constitution/amending-formula, label: Amending formula }
+    entities: [doc:constitution-act-1982/s35, term:land-claims-agreement]
+
+  - id: equality-rights-1985
+    title: Equality rights take effect
+    date: 1985-04-17
+    text: Section 15, the Charter's equality rights, comes into force on April 17.
+    era: charter-era
+    module: charter
+    pages: [/learn/charter/your-rights]
+    entities: [doc:charter/s15]
+
+  - id: bill-c-31
+    title: Bill C-31
+    date: 1985
+    text: Bill C-31 ends the Indian Act rule that took status from women who married non-status men.
+    era: charter-era
+    module: indigenous
+    pages: [/learn/indigenous/indian-act]
+    entities: [term:bill-c-31, doc:indian-act]
+
+  - id: manitoba-language-rights-1985
+    title: The Manitoba Language Rights Reference
+    date: 1985
+    text: The Supreme Court rules Manitoba's English-only laws invalid and gives the province time to re-enact them in both languages.
+    era: charter-era
+    pages: [/provinces/manitoba]
+    entities: [org:supreme-court]
+
+  - id: r-v-oakes
+    title: R. v. Oakes
+    date: 1986
+    text: "*R. v. Oakes* creates the test for deciding whether a limit on a Charter right is reasonable."
+    era: charter-era
+    module: charter
+    pages:
+      - /learn/charter/reasonable-limits
+      - { page: /learn/charter/landmark-cases, label: Landmark cases }
+    entities: [case:r-v-oakes]
+
+  - id: meech-lake-accord
+    title: The Meech Lake Accord
+    date: 1987
+    text: The federal government and all ten premiers agree to the Meech Lake Accord.
+    era: charter-era
+    module: constitution
+    pages: [/learn/constitution/patriation-1982]
+    people: [person:brian-mulroney]
+    entities: [term:meech-lake-accord]
+
+  - id: r-v-morgentaler
+    title: R. v. Morgentaler
+    date: 1988
+    text: "*R. v. Morgentaler* strikes down the Criminal Code's abortion provisions."
+    era: charter-era
+    module: charter
+    pages: [/learn/charter/landmark-cases]
+    entities: [case:r-v-morgentaler]
+
+  - id: ford-v-quebec
+    title: Ford v. Quebec
+    date: 1988
+    text: "*Ford v. Quebec* protects commercial signs as expression and sets the rules for using section 33; Quebec then uses it."
+    era: charter-era
+    module: charter
+    pages:
+      - /learn/charter/notwithstanding-clause
+      - { page: /learn/charter/landmark-cases, label: Landmark cases }
+    entities: [case:ford-v-quebec]
+
+  - id: meech-lake-fails-1990
+    title: Meech Lake fails
+    date: 1990-06-23
+    text: The Meech Lake Accord dies when its June 23 ratification deadline passes.
+    era: charter-era
+    module: constitution
+    pages: [/learn/constitution/patriation-1982, /provinces/quebec]
+    entities: [term:meech-lake-accord]
+
+  - id: sparrow
+    title: Sparrow
+    date: 1990
+    text: "*Sparrow*, the first major section 35 case, says Aboriginal rights can be limited only with justification."
+    era: charter-era
+    module: indigenous
+    pages: [/learn/indigenous/section-35]
+    entities: [term:sparrow, doc:constitution-act-1982/s35]
+
+  - id: charlottetown-accord-1992
+    title: The Charlottetown Accord
+    date: 1992-10-26
+    text: Voters reject the Charlottetown Accord in a national referendum on October 26.
+    era: charter-era
+    module: constitution
+    pages: [/learn/constitution/patriation-1982, /learn/indigenous/self-government]
+    entities: [term:charlottetown-accord, term:referendum]
+
+  - id: nunavut-agreement-1993
+    title: The Nunavut Agreement
+    date: 1993
+    text: The Nunavut Land Claims Agreement is signed, and Parliament passes the Nunavut Act.
+    era: charter-era
+    module: indigenous
+    pages: [/provinces/nunavut, /learn/indigenous/treaties]
+    entities: [term:nunavut-agreement, term:land-claims-agreement]
+
+  - id: new-brunswick-amendment-1993
+    title: New Brunswick's equality amendment
+    date: 1993
+    text: A bilateral amendment adds the equality of New Brunswick's English and French communities to the Charter.
+    era: charter-era
+    module: constitution
+    pages:
+      - /provinces/new-brunswick
+      - { page: /learn/constitution/amending-formula, label: Amending formula }
+    entities: [doc:charter, term:official-languages]
+
+  - id: civil-code-of-quebec-1994
+    title: The Civil Code of Québec
+    date: 1994-01-01
+    text: The Civil Code of Québec comes into force on January 1.
+    era: charter-era
+    module: law
+    pages: [/learn/law/common-law-and-civil-law, /provinces/quebec]
+    entities: [term:civil-code-of-quebec]
+
+  - id: quebec-referendum-1995
+    title: Quebec's second referendum
+    date: 1995
+    text: In a second referendum, Quebecers vote No to sovereignty by about 50.6% to 49.4%.
+    era: charter-era
+    module: constitution
+    pages:
+      - /provinces/quebec
+      - { page: /learn/constitution/patriation-1982, label: Patriation }
+    entities: [term:referendum]
+
+  - id: inherent-right-policy-1995
+    title: The inherent right of self-government
+    date: 1995
+    text: The federal government recognizes the inherent right of self-government as a section 35 right.
+    era: charter-era
+    module: indigenous
+    pages: [/learn/indigenous/self-government]
+    entities: [term:inherent-right-of-self-government, doc:constitution-act-1982/s35]
+
+  - id: regional-veto-1996
+    title: The regional veto law
+    date: 1996
+    text: Parliament passes the "regional veto" law on constitutional amendments.
+    era: charter-era
+    module: constitution
+    pages: [/learn/constitution/amending-formula]
+    entities: [term:regional-veto]
+
+  - id: delgamuukw
+    title: Delgamuukw
+    date: 1997
+    text: "*Delgamuukw* explains what Aboriginal title is and accepts oral histories as evidence."
+    era: charter-era
+    module: indigenous
+    pages: [/learn/indigenous/section-35]
+    entities: [term:delgamuukw, term:aboriginal-title]
+
+  - id: secession-reference
+    title: The Secession Reference
+    date: 1998
+    text: In the Secession Reference, the Supreme Court says Quebec can't leave unilaterally, but a clear vote would require negotiation.
+    era: charter-era
+    module: law
+    pages: [/learn/law/supreme-court, /provinces/quebec]
+    entities: [case:secession-reference]
+
+  - id: vriend-v-alberta
+    title: Vriend v. Alberta
+    date: 1998
+    text: "*Vriend v. Alberta* reads sexual orientation into Alberta's human rights law."
+    era: charter-era
+    module: charter
+    pages: [/learn/charter/landmark-cases]
+    entities: [case:vriend-v-alberta]
+
+  - id: nunavut-created-1999
+    title: Nunavut is created
+    date: 1999-04-01
+    text: Nunavut is created on April 1 from the eastern part of the Northwest Territories.
+    era: charter-era
+    module: federalism
+    pages:
+      - /provinces/nunavut
+      - { page: /learn/federalism/territories, label: Territories }
+    entities: [term:territory]
+
+  - id: r-v-marshall
+    title: R. v. Marshall
+    date: 1999
+    text: "*R. v. Marshall* holds that 1760–61 treaties protect a Mi'kmaq right to fish and trade for a moderate livelihood."
+    era: charter-era
+    module: indigenous
+    pages: [/learn/indigenous/treaties, /provinces/nova-scotia]
+    entities: [term:treaty-rights, term:peace-and-friendship-treaties]
+
+  - id: clarity-act
+    title: The Clarity Act
+    date: 2000
+    text: Parliament passes the Clarity Act in response to the Secession Reference.
+    era: recent
+    pages: [/provinces/quebec]
+    entities: [term:clarity-act, case:secession-reference]
+
+  - id: nisgaa-final-agreement
+    title: The Nisga'a Final Agreement
+    date: 2000
+    text: The Nisga'a Final Agreement, BC's first modern treaty, takes effect.
+    era: recent
+    module: indigenous
+    pages: [/learn/indigenous/treaties, /provinces/british-columbia]
+    entities: [term:nisgaa-final-agreement, term:modern-treaty]
+
+  - id: newfoundland-and-labrador-2001
+    title: Newfoundland and Labrador
+    date: 2001
+    text: A constitutional amendment renames Newfoundland as Newfoundland and Labrador.
+    era: recent
+    pages: [/provinces/newfoundland-and-labrador]
+
+  - id: yukon-devolution-2003
+    title: Yukon devolution
+    date: 2003-04-01
+    text: On April 1, Yukon becomes the first territory to manage its own public lands and resources.
+    era: recent
+    module: federalism
+    pages:
+      - /provinces/yukon
+      - { page: /learn/federalism/territories, label: Territories }
+    entities: [term:devolution]
+
+  - id: council-of-the-federation
+    title: The Council of the Federation
+    date: 2003
+    text: The premiers create the Council of the Federation.
+    era: recent
+    module: federalism
+    pages: [/learn/federalism]
+    entities: [term:council-of-the-federation]
+
+  - id: haida-nation
+    title: Haida Nation
+    date: 2004
+    text: "*Haida Nation* establishes the Crown's duty to consult."
+    era: recent
+    module: indigenous
+    pages: [/learn/indigenous/section-35]
+    entities: [term:haida-nation, term:duty-to-consult]
+
+  - id: same-sex-marriage-reference
+    title: The Same-Sex Marriage Reference
+    date: 2004
+    text: In the Same-Sex Marriage Reference, the Supreme Court says Parliament can define marriage to include same-sex couples.
+    era: recent
+    module: law
+    pages: [/learn/law/supreme-court]
+    entities: [org:supreme-court, term:reference]
+
+  - id: labrador-inuit-agreement-2005
+    title: The Labrador Inuit agreement
+    date: 2005
+    text: The Labrador Inuit Land Claims Agreement takes effect, creating the Nunatsiavut Government.
+    era: recent
+    module: indigenous
+    pages: [/provinces/newfoundland-and-labrador, /learn/indigenous/self-government]
+    entities: [term:nunatsiavut-government, term:land-claims-agreement]
+
+  - id: quebecois-nation-2006
+    title: The Québécois nation motion
+    date: 2006
+    text: The House of Commons recognizes that the Québécois form a nation within a united Canada.
+    era: recent
+    pages: [/provinces/quebec]
+    entities: [org:house-of-commons]
+
+  - id: fixed-election-dates-2007
+    title: Fixed election dates
+    date: 2007
+    text: Parliament sets fixed federal election dates, which don't stop early elections.
+    era: recent
+    module: elections
+    pages:
+      - /learn/elections/election-day
+      - { page: /learn/elections, label: Elections }
+    entities: [term:fixed-election-date]
+
+  - id: residential-schools-apology-2008
+    title: The residential schools apology
+    date: 2008
+    text: The federal government apologizes for residential schools, and the Truth and Reconciliation Commission is created.
+    era: recent
+    module: indigenous
+    pages: [/learn/indigenous/indian-act]
+    entities: [term:residential-schools, term:truth-and-reconciliation-commission]
 
   - id: prorogation-2008
     title: The 2008 prorogation
     date: 2008-12-04
     text: On December 4, Parliament is prorogued before an expected non-confidence vote.
     era: recent
+    module: crown
     pages:
       - /learn/crown/reserve-powers
       - { page: /learn/parliament/confidence, label: Confidence }
     people: [person:stephen-harper, person:michaelle-jean]
     entities: [org:governor-general, term:reserve-powers]
     page: /learn/crown/reserve-powers#2008-the-prorogation
+
+  - id: succession-to-the-throne-act-2013
+    title: The Succession to the Throne Act
+    date: 2013
+    text: Parliament passes the Succession to the Throne Act.
+    era: recent
+    module: crown
+    pages: [/learn/crown/republic-question]
+    entities: [org:crown]
+
+  - id: senate-reform-reference
+    title: The Senate Reform Reference
+    date: 2014
+    text: The Senate Reform Reference rules Senate elections or term limits need provincial consent.
+    era: recent
+    module: parliament
+    pages:
+      - /learn/parliament/senate
+      - { page: /learn/constitution/amending-formula, label: Amending formula }
+    entities: [term:reference-re-senate-reform, org:senate, term:amending-formula]
+
+  - id: tsilhqotin
+    title: Tsilhqot'in
+    date: 2014
+    text: "*Tsilhqot'in* becomes the first court declaration of Aboriginal title to a specific area."
+    era: recent
+    module: indigenous
+    pages: [/learn/indigenous/section-35, /provinces/british-columbia]
+    entities: [term:tsilhqotin, term:aboriginal-title]
+
+  - id: northwest-territories-devolution-2014
+    title: Northwest Territories devolution
+    date: 2014-04-01
+    text: On April 1, the Northwest Territories takes over its public lands and resources.
+    era: recent
+    pages: [/provinces/northwest-territories]
+    entities: [term:devolution]
+
+  - id: trc-calls-to-action-2015
+    title: The TRC's Calls to Action
+    date: 2015
+    text: The Truth and Reconciliation Commission publishes its findings and 94 Calls to Action.
+    era: recent
+    module: indigenous
+    pages:
+      - /learn/indigenous/indian-act
+      - { page: /learn/indigenous, label: Indigenous peoples }
+    entities: [term:truth-and-reconciliation-commission]
+
+  - id: carter-v-canada
+    title: Carter v. Canada
+    date: 2015
+    text: "*Carter v. Canada* strikes down the total ban on assisted dying."
+    era: recent
+    module: charter
+    pages: [/learn/charter/landmark-cases]
+    entities: [case:carter-v-canada]
+
+  - id: daniels
+    title: Daniels
+    date: 2016
+    text: "*Daniels* rules that Métis and non-status Indians fall under federal power in s. 91(24)."
+    era: recent
+    module: indigenous
+    pages: [/learn/indigenous/section-35]
+    entities: [term:daniels, doc:constitution-act-1867/s91-24]
+
+  - id: r-v-jordan
+    title: R. v. Jordan
+    date: 2016
+    text: "*R. v. Jordan* sets time limits for criminal trials."
+    era: recent
+    module: charter
+    pages: [/learn/charter/landmark-cases]
+    entities: [case:r-v-jordan]
+
+  - id: assisted-dying-law-2016
+    title: The assisted dying law
+    date: 2016
+    text: Parliament passes a law on medical assistance in dying.
+    era: recent
+    module: charter
+    pages: [/learn/charter/landmark-cases]
+    entities: [term:medical-assistance-in-dying, case:carter-v-canada]
+
+  - id: senate-advisory-board-2016
+    title: The Senate advisory board
+    date: 2016
+    text: An Independent Advisory Board begins recommending Senate appointments.
+    era: recent
+    module: parliament
+    pages: [/learn/parliament/senate]
+    entities: [term:independent-advisory-board-for-senate-appointments, org:senate]
+
+  - id: electoral-reform-dropped-2017
+    title: Electoral reform dropped
+    date: 2017
+    text: The federal government drops its plan to replace first-past-the-post.
+    era: recent
+    module: elections
+    pages: [/learn/elections/first-past-the-post]
+    entities: [term:first-past-the-post]
+
+  - id: bc-dripa-2019
+    title: BC's DRIPA
+    date: 2019
+    text: British Columbia passes DRIPA, the first Canadian law committing a government to align its laws with UNDRIP.
+    era: recent
+    pages: [/provinces/british-columbia]
+    entities: [term:dripa, term:undrip]
+
+  - id: child-and-family-services-act-2019
+    title: Indigenous child and family services
+    date: 2019
+    text: Parliament affirms Indigenous jurisdiction over child and family services.
+    era: recent
+    module: indigenous
+    pages: [/learn/indigenous/self-government]
+    entities: [term:self-government]
+
+  - id: quebec-secularism-law-2019
+    title: Quebec's secularism law
+    date: 2019
+    text: Quebec uses the notwithstanding clause in its state secularism law.
+    era: recent
+    module: charter
+    pages: [/learn/charter/notwithstanding-clause]
+    entities: [term:bill-21, doc:charter/s33]
+
+  - id: undrip-act-2021
+    title: The UN Declaration Act
+    date: 2021
+    text: Parliament passes the United Nations Declaration on the Rights of Indigenous Peoples Act.
+    era: recent
+    module: indigenous
+    pages:
+      - /learn/indigenous/self-government
+      - { page: /learn/indigenous, label: Indigenous peoples }
+    entities: [term:declaration-on-the-rights-of-indigenous-peoples-act, term:undrip]
+
+  - id: carbon-pricing-reference-2021
+    title: Carbon pricing upheld
+    date: 2021
+    text: The Supreme Court upholds federal minimum carbon pricing under the "national concern" branch of POGG.
+    era: recent
+    module: federalism
+    pages: [/learn/federalism/division-of-powers]
+    entities: [term:national-concern, term:peace-order-and-good-government, org:supreme-court]
+
+  - id: toronto-city-council-2021
+    title: Toronto's city council cut upheld
+    date: 2021
+    text: The Supreme Court upholds Ontario's mid-election cut to Toronto's city council.
+    era: recent
+    module: federalism
+    pages: [/learn/federalism/municipalities, /provinces/ontario]
+    entities: [org:supreme-court]
+
+  - id: alberta-equalization-referendum-2021
+    title: Alberta's equalization referendum
+    date: 2021
+    text: Alberta holds a non-binding referendum in which most voters back removing equalization from the Constitution.
+    era: recent
+    module: federalism
+    pages: [/learn/federalism/money-and-equalization]
+    entities: [term:equalization, term:referendum]
+
+  - id: charles-iii-accession
+    title: Charles III becomes King
+    date: 2022-09
+    text: Charles III becomes King of Canada in September.
+    era: recent
+    module: crown
+    pages: [/learn/crown]
+    people: [person:charles-iii]
+    entities: [org:crown, term:king-of-canada]
+
+  - id: quebec-bill-96-2022
+    title: Bill 96
+    date: 2022
+    text: Quebec adds sections to the 1867 Act on its own and expands its French-language law (Bill 96).
+    era: recent
+    module: constitution
+    pages: [/learn/constitution/amending-formula, /provinces/quebec]
+    entities: [term:bill-96, doc:constitution-act-1867]
+
+  - id: nunavut-devolution-agreement-2024
+    title: Nunavut's devolution agreement
+    date: 2024-01-18
+    text: Nunavut signs its lands and resources devolution agreement on January 18.
+    era: recent
+    pages: [/provinces/nunavut]
+    entities: [term:devolution]
+
+  - id: child-and-family-services-reference-2024
+    title: Child and family services law upheld
+    date: 2024
+    text: The Supreme Court upholds the federal law on Indigenous child and family services.
+    era: recent
+    module: indigenous
+    pages: [/learn/indigenous/self-government]
+    entities: [org:supreme-court, term:self-government]
+
+  - id: alberta-notwithstanding-2025
+    title: Alberta uses section 33
+    date: 2025
+    text: Alberta uses the notwithstanding clause in a law ending a teachers' strike.
+    era: recent
+    module: charter
+    pages: [/learn/charter/notwithstanding-clause]
+    entities: [doc:charter/s33, term:notwithstanding-clause]

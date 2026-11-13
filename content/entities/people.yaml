@@ -11,6 +11,8 @@
 #      short?, aliases?, summary?, page? (replaces the derived home), url?
 # 2. People who are in none of those datasets (no `qid`):
 #      id, name and page (required), short?, aliases?, summary?, url?
+#    Add one only when a page (or a section of one) explains them: that is their
+#    home, linked from timeline cards and entity links.
 #
 # Only facts already stated on the site's pages belong here.
 
@@ -23,3 +25,8 @@
   id: william-lyon-mackenzie-king
   short: Mackenzie King
   aliases: [Mackenzie King]
+
+- id: louis-riel
+  name: Louis Riel
+  summary: Métis leader of the Red River Resistance (1869–70), executed for treason in 1885.
+  page: /provinces/manitoba#a-province-negotiated-by-the-métis

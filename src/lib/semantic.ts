@@ -8,8 +8,8 @@
  * pass over the rendered pages). The ranking itself is the pure rankRelated()
  * in src/lib/related.ts.
  */
-import { allEntities, getEntity, type Entity } from "./entities";
-import { rankRelated, type RelatedResult } from "./related";
+import { ENTITY_ID_RE, allEntities, getEntity, type Entity, type Event } from "./entities";
+import { eventsMentioning, rankRelated, type RelatedResult } from "./related";
 import { allPages, moduleFor, sequenceFor, type Page } from "./site";
 
 /** Pages that index other pages; never suggested as related. */
@@ -73,7 +73,8 @@ export async function pagesAbout(id: string): Promise<Page[]> {
 
 /**
  * What refers to an entity: pages that link to it (`data-entity`), and other
- * entities that list it in `people`, `entities` or `sections`.
+ * entities that list it in `people`, `entities` or `sections` (so timeline
+ * events naming a person or a case count; see also eventsFor()).
  */
 export async function mentions(id: string): Promise<{ pages: Page[]; entities: Entity[] }> {
   getEntity(id);
@@ -88,6 +89,20 @@ export async function mentions(id: string): Promise<{ pages: Page[]; entities: E
     return refs.includes(id);
   });
   return { pages: linking, entities };
+}
+
+/**
+ * Timeline events that mention an entity or a page, in date order. For an entity id
+ * (`person:…`, `case:…`): events that list it in `people` or `entities`. For a page id
+ * (`learn/crown/reserve-powers`): events that list the page in `pages`. Synchronous:
+ * events are read from the registry, not from rendered pages.
+ */
+export function eventsFor(entityOrPageId: string): Event[] {
+  if (ENTITY_ID_RE.test(entityOrPageId)) getEntity(entityOrPageId);
+  return eventsMentioning(
+    allEntities().filter((e): e is Event => e.type === "event"),
+    entityOrPageId,
+  );
 }
 
 export interface RelatedPage {
