@@ -1,0 +1,658 @@
+# Question bank: provinces and territories
+# Format: see SITEMAP.md, section "Quizzes".
+
+# --- provinces (index) ---
+
+- id: provinces-power-source
+  pages: [provinces, learn/federalism/territories]
+  tags: [federalism]
+  type: single
+  question: What is the main legal difference between a province and a territory?
+  options:
+    - Provinces are bigger than territories
+    - Provinces get their powers from the Constitution; territories get theirs from federal laws
+    - Territories have no elected legislature
+    - Only provinces have a premier
+  answer: 1
+  explanation: >
+    Provincial powers are set out in the Constitution, mainly s. 92 of the
+    Constitution Act, 1867. Territories exercise powers that Parliament gives them
+    by ordinary federal law. Both have elected legislatures and premiers.
+  source: https://www.canada.ca/en/intergovernmental-affairs/services/provinces-territories.html
+
+- id: provinces-crown-rep
+  pages: [provinces, learn/crown]
+  tags: [monarchy, federalism]
+  type: single
+  question: Who plays the role in a territory that a Lieutenant Governor plays in a province?
+  options:
+    - The Governor General
+    - The territorial premier
+    - A Commissioner
+    - The Speaker of the legislature
+  answer: 2
+  explanation: >
+    Each territory has a Commissioner, appointed by the federal government. Each
+    province has a Lieutenant Governor, who represents the King.
+  source: https://www.canada.ca/en/canadian-heritage/services/crown-canada.html
+
+- id: provinces-unicameral
+  pages: [provinces]
+  tags: [legislatures]
+  type: true-false
+  question: Every provincial and territorial legislature in Canada today has only one chamber.
+  answer: true
+  explanation: >
+    Several provinces once had an appointed upper house called a Legislative
+    Council, but all have been abolished. Every province and territory now has a
+    single elected chamber.
+  source: https://www.canada.ca/en/intergovernmental-affairs/services/provinces-territories.html
+
+# --- Alberta ---
+
+- id: alberta-resources-1930
+  pages: [provinces/alberta]
+  tags: [federalism, resources]
+  type: single
+  question: When Alberta was created in 1905, who controlled its public lands and natural resources?
+  options:
+    - The province, from day one
+    - The federal government, until 1930
+    - The Hudson's Bay Company
+    - The United Kingdom
+  answer: 1
+  explanation: >
+    Unlike the original provinces, Alberta, Saskatchewan and Manitoba didn't control
+    their Crown lands and resources until the Natural Resources Transfer Agreements
+    of 1930.
+  source: https://laws-lois.justice.gc.ca/eng/const/
+
+- id: alberta-section-92a
+  pages: [provinces/alberta, learn/federalism/division-of-powers]
+  tags: [federalism, resources, constitution]
+  type: single
+  question: What did section 92A, added to the Constitution in 1982, confirm?
+  options:
+    - Provincial power over non-renewable natural resources, forestry and electricity
+    - Federal ownership of all oil and gas in Canada
+    - A right for provinces to leave Canada
+    - A ban on taxing natural resources
+  answer: 0
+  explanation: >
+    Section 92A confirms that provinces have exclusive power to manage non-renewable
+    resources, forestry resources and electricity generation, and to tax them.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-3.html
+
+- id: alberta-recall
+  pages: [provinces/alberta]
+  tags: [elections, direct-democracy]
+  type: true-false
+  question: In Alberta, voters can petition to recall (remove) their MLA before the next election.
+  answer: true
+  explanation: >
+    Alberta's Recall Act lets voters in an electoral division petition for a vote on
+    removing their MLA. Elections Alberta runs the process.
+  source: https://www.elections.ab.ca/recall-initiative/recall/
+
+# --- British Columbia ---
+
+- id: british-columbia-unceded
+  pages: [provinces/british-columbia, learn/indigenous/treaties]
+  tags: [indigenous]
+  type: single
+  question: Why is much of British Columbia described as "unceded" territory?
+  options:
+    - It was never surveyed by the government
+    - For most of the province, First Nations never signed treaties giving up the land
+    - It belonged to Russia until 1871
+    - It is all federal Crown land
+  answer: 1
+  explanation: >
+    Only small parts of BC are covered by historic treaties, such as the Douglas
+    Treaties on Vancouver Island and Treaty 8 in the northeast. Most of the province
+    was never ceded by treaty.
+  source: https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044
+
+- id: british-columbia-dripa
+  pages: [provinces/british-columbia, learn/indigenous]
+  tags: [indigenous]
+  type: single
+  question: What does BC's Declaration on the Rights of Indigenous Peoples Act (2019) do?
+  options:
+    - Commits the province to align its laws with the UN Declaration on the Rights of Indigenous Peoples
+    - Creates a new territory for First Nations
+    - Replaces the Indian Act in British Columbia
+    - Gives First Nations a veto over all provincial laws
+  answer: 0
+  explanation: >
+    DRIPA requires the BC government to take steps to make its laws consistent with
+    UNDRIP, to publish an action plan and report on progress, and allows agreements
+    with Indigenous governing bodies.
+  source: https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044
+
+- id: british-columbia-supreme-court
+  pages: [provinces/british-columbia, learn/law/courts]
+  tags: [courts]
+  type: true-false
+  question: The Supreme Court of British Columbia is the highest court in the province.
+  answer: false
+  explanation: >
+    Despite its name, the Supreme Court of British Columbia is the superior trial
+    court. The highest court in the province is the Court of Appeal for British
+    Columbia.
+  source: https://www.bccourts.ca/
+
+# --- Manitoba ---
+
+- id: manitoba-red-river
+  pages: [provinces/manitoba, learn/indigenous]
+  tags: [indigenous, history]
+  type: single
+  question: How did Manitoba come to join Canada in 1870?
+  options:
+    - Through a referendum of all residents
+    - After negotiations led by a Métis provisional government at Red River
+    - It was purchased from the United States
+    - It split off from Ontario
+  answer: 1
+  explanation: >
+    During the Red River Resistance of 1869–70, a Métis-led provisional government
+    under Louis Riel negotiated with Ottawa. The result was the Manitoba Act, 1870.
+  source: https://web2.gov.mb.ca/laws/statutes/ccsm/l229.php?lang=en
+
+- id: manitoba-language-rights
+  pages: [provinces/manitoba, learn/law]
+  tags: [language, constitution]
+  type: single
+  question: Under section 23 of the Manitoba Act, 1870, Manitoba's laws must be published in which language(s)?
+  options:
+    - English only
+    - French only
+    - English and French
+    - English, French and Cree
+  answer: 2
+  explanation: >
+    Section 23 requires Manitoba's laws to be printed and published in both English
+    and French. In 1985 the Supreme Court ruled that laws passed only in English
+    were invalid and gave the province time to translate them.
+  source: https://laws-lois.justice.gc.ca/eng/const/
+
+- id: manitoba-kings-bench
+  pages: [provinces/manitoba, learn/law/courts]
+  tags: [courts]
+  type: single
+  question: What is the name of Manitoba's superior trial court?
+  options:
+    - Supreme Court of Manitoba
+    - Superior Court of Justice
+    - Court of King's Bench
+    - Provincial Court of Manitoba
+  answer: 2
+  explanation: >
+    Manitoba's superior trial court is the Court of King's Bench. The Provincial
+    Court handles most criminal cases, and the Court of Appeal is the highest court
+    in the province.
+  source: https://www.manitobacourts.mb.ca/
+
+# --- New Brunswick ---
+
+- id: new-brunswick-bilingual
+  pages: [provinces/new-brunswick, learn/charter]
+  tags: [language]
+  type: single
+  question: Which is Canada's only officially bilingual province?
+  options:
+    - Quebec
+    - Ontario
+    - New Brunswick
+    - Manitoba
+  answer: 2
+  explanation: >
+    The Charter makes English and French the official languages of New Brunswick,
+    with equal status in its legislature and government. Quebec's official language
+    is French, and Ontario provides French services in designated areas.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-12.html
+
+- id: new-brunswick-charter-protection
+  pages: [provinces/new-brunswick, learn/charter]
+  tags: [language, constitution]
+  type: true-false
+  question: New Brunswick could end its official bilingualism by passing an ordinary provincial law.
+  answer: false
+  explanation: >
+    New Brunswick's language guarantees are in the Charter (ss. 16(2) to 20(2) and
+    s. 16.1), so changing them would require a constitutional amendment.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-12.html
+
+- id: new-brunswick-communities
+  pages: [provinces/new-brunswick]
+  tags: [language]
+  type: single
+  question: What does section 16.1 of the Charter guarantee to New Brunswick's English and French linguistic communities?
+  options:
+    - Separate provincial legislatures
+    - Equal status, including the right to their own educational and cultural institutions
+    - A guaranteed number of seats in Parliament
+    - Exemption from federal law
+  answer: 1
+  explanation: >
+    Section 16.1, added in 1993, recognizes that the two linguistic communities have
+    equal status and rights, including distinct educational and cultural institutions.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-12.html
+
+# --- Newfoundland and Labrador ---
+
+- id: newfoundland-and-labrador-referendum
+  pages: [provinces/newfoundland-and-labrador]
+  tags: [history]
+  type: single
+  question: How did Newfoundland decide to join Canada?
+  options:
+    - Britain transferred it without a vote
+    - Through two referendums in 1948
+    - By a vote of its House of Assembly in 1867
+    - Canada annexed it after the Second World War
+  answer: 1
+  explanation: >
+    In 1948, voters chose in two referendums. Confederation narrowly won the second
+    one, and Newfoundland joined Canada on March 31, 1949.
+  source: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada.html
+
+- id: newfoundland-and-labrador-commission
+  pages: [provinces/newfoundland-and-labrador]
+  tags: [history]
+  type: true-false
+  question: From 1934 until it joined Canada, Newfoundland was run by an appointed Commission of Government rather than an elected one.
+  answer: true
+  explanation: >
+    Facing bankruptcy during the Great Depression, Newfoundland's legislature was
+    suspended in 1934 and replaced by a Commission of Government appointed by
+    Britain, which lasted until 1949.
+  source: https://www.gov.nl.ca/
+
+- id: newfoundland-and-labrador-mha
+  pages: [provinces/newfoundland-and-labrador]
+  tags: [legislatures]
+  type: single
+  question: What is Newfoundland and Labrador's legislature called?
+  options:
+    - The National Assembly
+    - The Legislative Council
+    - The House of Assembly
+    - The Provincial Parliament
+  answer: 2
+  explanation: >
+    It's the House of Assembly, and its members are called MHAs (Members of the
+    House of Assembly).
+  source: https://www.assembly.nl.ca/
+
+# --- Nova Scotia ---
+
+- id: nova-scotia-responsible-government
+  pages: [provinces/nova-scotia, learn/constitution/conventions]
+  tags: [conventions, history]
+  type: single
+  question: What did Nova Scotia achieve in 1848?
+  options:
+    - The first responsible government in the British Empire outside the United Kingdom
+    - Independence from Britain
+    - The first Canadian constitution
+    - Women's right to vote
+  answer: 0
+  explanation: >
+    In February 1848, Nova Scotia became the first British colony to have a
+    government that needed the support of the elected assembly to stay in office.
+  source: https://nslegislature.ca/about
+
+- id: nova-scotia-responsible-meaning
+  pages: [provinces/nova-scotia, learn/parliament/confidence]
+  tags: [conventions]
+  type: single
+  question: What does "responsible government" mean?
+  options:
+    - The government must balance its budget
+    - The government must keep the support of the elected assembly or resign
+    - The Lieutenant Governor must approve every decision
+    - Judges are responsible to the premier
+  answer: 1
+  explanation: >
+    Responsible government means the executive answers to the elected assembly and
+    needs its confidence to stay in office. It's still the basic rule of Canadian
+    government.
+  source: https://www.ourcommons.ca/procedure/our-procedure/
+
+- id: nova-scotia-supreme-court
+  pages: [provinces/nova-scotia, learn/law/courts]
+  tags: [courts]
+  type: single
+  question: In Nova Scotia, which is the highest court in the province?
+  options:
+    - The Supreme Court of Nova Scotia
+    - The Nova Scotia Court of Appeal
+    - The Provincial Court of Nova Scotia
+    - The Court of King's Bench
+  answer: 1
+  explanation: >
+    The Nova Scotia Court of Appeal is the highest court in the province. The
+    Supreme Court of Nova Scotia is the superior trial court.
+  source: https://www.courts.ns.ca/
+
+# --- Ontario ---
+
+- id: ontario-mpp
+  pages: [provinces/ontario]
+  tags: [legislatures]
+  type: single
+  question: What are members of Ontario's legislature called?
+  options:
+    - MLAs
+    - MPs
+    - MPPs
+    - MNAs
+  answer: 2
+  explanation: >
+    Ontario's elected members are Members of Provincial Parliament (MPPs). MPs sit
+    in the federal House of Commons, and MNAs sit in Quebec's National Assembly.
+  source: https://www.ola.org/en
+
+- id: ontario-french-services
+  pages: [provinces/ontario]
+  tags: [language]
+  type: true-false
+  question: Ontario is officially bilingual in English and French.
+  answer: false
+  explanation: >
+    Ontario isn't officially bilingual. Its French Language Services Act gives a
+    right to provincial services in French in designated areas. New Brunswick is the
+    only officially bilingual province.
+  source: https://www.ontario.ca/laws/statute/90f32
+
+- id: ontario-toronto-council
+  pages: [provinces/ontario, learn/federalism/municipalities]
+  tags: [federalism, municipalities]
+  type: single
+  question: In 2018 Ontario cut Toronto's city council from 47 to 25 seats. What did the Supreme Court of Canada decide in 2021?
+  options:
+    - The province had the power to do it
+    - Only the federal government can change city councils
+    - Toronto's council is protected by the Constitution
+    - The change needed a referendum
+  answer: 0
+  explanation: >
+    Municipalities are created by provinces and have no constitutional status of
+    their own. The Supreme Court held that Ontario was allowed to change Toronto's
+    council.
+  source: https://www.ontario.ca/laws/statute/06c11
+
+# --- Prince Edward Island, Quebec, Saskatchewan and the territories ---
+
+
+- id: prince-edward-island-joined-late
+  pages: [provinces/prince-edward-island]
+  tags: [history, confederation]
+  type: true-false
+  question: Prince Edward Island hosted the 1864 Charlottetown Conference, so it was one of the four provinces that founded Canada in 1867.
+  answer: false
+  explanation: >
+    The Charlottetown Conference was the first step toward Confederation, but
+    Prince Edward Island chose not to join at first. It became a province in 1873.
+  source: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html
+
+- id: prince-edward-island-bridge-amendment
+  pages: [provinces/prince-edward-island, learn/constitution/amending-formula]
+  tags: [constitution]
+  type: single
+  question: Why did building the Confederation Bridge require a constitutional amendment?
+  options:
+    - Bridges between provinces are a federal power that needed the Supreme Court's approval
+    - PEI's Terms of Union, part of the Constitution, promised a steamship service to the mainland
+    - Every province had to agree to any new interprovincial transportation link
+    - The Charter protects the right to travel by ferry
+  answer: 1
+  explanation: >
+    The 1873 Terms of Union obliged Ottawa to keep up a steamship service. A 1993
+    amendment, approved by Parliament and PEI alone, allowed a fixed crossing instead.
+  source: https://www.canada.ca/en/intergovernmental-affairs/services/federation/confederation-bridge.html
+
+- id: prince-edward-island-guaranteed-mps
+  pages: [provinces/prince-edward-island, learn/parliament]
+  tags: [elections, parliament]
+  type: single
+  question: Why does Prince Edward Island have at least four MPs despite its small population?
+  options:
+    - Every province gets the same number of MPs
+    - The Constitution says no province can have fewer MPs than it has senators
+    - PEI negotiated extra seats in exchange for joining Confederation late
+    - MPs are assigned by land area
+  answer: 1
+  explanation: >
+    The "senatorial clause" (s. 51A of the Constitution Act, 1867) guarantees each
+    province at least as many MPs as senators. PEI has four senators.
+  source: https://laws-lois.justice.gc.ca/eng/const/
+
+
+- id: quebec-civil-law
+  pages: [provinces/quebec, learn/law/common-law-and-civil-law]
+  tags: [courts, law]
+  type: single
+  question: In Quebec, which kind of law is governed by the Civil Code rather than the common law?
+  options:
+    - Criminal law
+    - Private law, such as contracts, property and family matters
+    - Immigration law
+    - All law, federal and provincial
+  answer: 1
+  explanation: >
+    Quebec uses civil law for private law, set out in the Civil Code of Québec.
+    Criminal law is federal and the same across Canada, Quebec included.
+  source: https://www.justice.gc.ca/eng/csj-sjc/just/07.html
+
+- id: quebec-1982-not-signed
+  pages: [provinces/quebec, learn/constitution/patriation-1982]
+  tags: [constitution]
+  type: true-false
+  question: Because Quebec's National Assembly never approved the 1982 constitutional changes, the Charter of Rights and Freedoms does not apply in Quebec.
+  answer: false
+  explanation: >
+    Quebec was the only province that did not agree to patriation in 1982, but the
+    Constitution, including the Charter, still applies there in full as a matter of law.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-12.html
+
+- id: quebec-secession-reference
+  pages: [provinces/quebec, learn/law/supreme-court]
+  tags: [constitution, courts]
+  type: single
+  question: What did the Supreme Court of Canada say in the 1998 Secession Reference?
+  options:
+    - Quebec can leave Canada at any time by a vote of the National Assembly
+    - Secession is impossible under any circumstances
+    - Quebec cannot secede on its own, but a clear majority on a clear question would create a duty to negotiate
+    - Only the King can decide whether a province may leave
+  answer: 2
+  explanation: >
+    The Court held there is no right to unilateral secession, but a clear
+    expression of a desire to secede would oblige the rest of Canada to negotiate.
+  source: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/1643/index.do
+
+
+- id: saskatchewan-medicare
+  pages: [provinces/saskatchewan]
+  tags: [health, history]
+  type: single
+  question: Which province first introduced universal public insurance for doctors' services, in 1962?
+  options:
+    - Ontario
+    - Quebec
+    - Saskatchewan
+    - British Columbia
+  answer: 2
+  explanation: >
+    Saskatchewan brought in universal medical care insurance in 1962, after
+    starting public hospital insurance in 1947. Federal cost-sharing in 1966 led
+    every province to follow.
+  source: https://www.parks.canada.ca/culture/designation/evenement-event/greve-medecins-doctors-strike
+
+- id: saskatchewan-created-by-parliament
+  pages: [provinces/saskatchewan, learn/federalism]
+  tags: [federalism, history]
+  type: single
+  question: How did Saskatchewan become a province?
+  options:
+    - It was a British colony that negotiated its entry into Canada
+    - Parliament created it in 1905 out of land in the Northwest Territories
+    - It separated from Manitoba after a referendum
+    - It was one of the four founding provinces in 1867
+  answer: 1
+  explanation: >
+    Parliament passed the Saskatchewan Act in 1905, creating the province from part
+    of the Northwest Territories. Alberta was created the same year.
+  source: https://laws-lois.justice.gc.ca/eng/const/
+
+- id: saskatchewan-kings-bench
+  pages: [provinces/saskatchewan, learn/law/courts]
+  tags: [courts]
+  type: single
+  question: Which is Saskatchewan's superior court, the main trial court for serious criminal and large civil cases?
+  options:
+    - The Provincial Court of Saskatchewan
+    - The Court of Appeal for Saskatchewan
+    - The Court of King's Bench for Saskatchewan
+    - The Supreme Court of Saskatchewan
+  answer: 2
+  explanation: >
+    The Court of King's Bench is the superior court. The Provincial Court hears most
+    criminal cases, and the Court of Appeal hears appeals.
+  source: https://sasklawcourts.ca/
+
+
+- id: northwest-territories-consensus
+  pages: [provinces/northwest-territories]
+  tags: [elections]
+  type: single
+  question: How is the Premier of the Northwest Territories chosen?
+  options:
+    - The leader of the party with the most seats becomes Premier
+    - Voters elect the Premier directly
+    - The MLAs, all elected as independents, choose the Premier by secret ballot
+    - The Commissioner picks the Premier from among the MLAs
+  answer: 2
+  explanation: >
+    The NWT uses consensus government with no political parties. After an
+    election, the 19 MLAs elect the Premier and cabinet by secret ballot.
+  source: https://www.ntlegislativeassembly.ca/node/2966
+
+- id: northwest-territories-powers-source
+  pages: [provinces/northwest-territories, learn/federalism/territories]
+  tags: [federalism]
+  type: true-false
+  question: Like a province, the Northwest Territories gets its law-making powers directly from the Constitution.
+  answer: false
+  explanation: >
+    Territories get their powers from federal laws. For the NWT, that is the
+    Northwest Territories Act, passed by Parliament.
+  source: https://laws-lois.justice.gc.ca/eng/acts/N-27.05/
+
+- id: northwest-territories-languages
+  pages: [provinces/northwest-territories]
+  tags: [language]
+  type: single
+  question: How many official languages does the Northwest Territories recognize?
+  options:
+    - 2
+    - 3
+    - 7
+    - 11
+  answer: 3
+  explanation: >
+    The NWT Official Languages Act recognizes 11 languages: English, French and
+    nine Indigenous languages.
+  source: https://www.ece.gov.nt.ca/en/services/official-languages
+
+
+- id: nunavut-land-claim
+  pages: [provinces/nunavut, learn/indigenous/treaties]
+  tags: [indigenous, history]
+  type: single
+  question: What led to the creation of Nunavut in 1999?
+  options:
+    - A referendum across all of Canada
+    - A modern treaty between Inuit and the Crown, the Nunavut Agreement
+    - A Supreme Court of Canada ruling
+    - A constitutional amendment creating a new province
+  answer: 1
+  explanation: >
+    The 1993 Nunavut Agreement included a commitment to create a new territory.
+    Parliament passed the Nunavut Act, and Nunavut came into being on April 1, 1999.
+  source: https://www.tunngavik.com/
+
+- id: nunavut-court-of-justice
+  pages: [provinces/nunavut, learn/law/courts]
+  tags: [courts]
+  type: true-false
+  question: Nunavut has a single-level trial court that acts as both its superior court and its territorial court.
+  answer: true
+  explanation: >
+    The Nunavut Court of Justice hears all trials, from minor offences to the most
+    serious cases. Everywhere else, trials are split between two levels of court.
+  source: https://www.justice.gc.ca/eng/csj-sjc/just/07.html
+
+- id: nunavut-devolution
+  pages: [provinces/nunavut, learn/federalism/territories]
+  tags: [federalism]
+  type: single
+  question: What does the Nunavut devolution agreement signed in 2024 do?
+  options:
+    - Turns Nunavut into a province
+    - Transfers control of public lands and resources from Ottawa to Nunavut
+    - Ends consensus government in Nunavut
+    - Replaces the Commissioner with a Lieutenant Governor
+  answer: 1
+  explanation: >
+    The agreement transfers administration and control of Crown lands and
+    resources to Nunavut, scheduled for April 1, 2027. Nunavut remains a territory.
+  source: https://www.rcaanc-cirnac.gc.ca/eng/1352471770723
+
+
+- id: yukon-party-politics
+  pages: [provinces/yukon]
+  tags: [elections]
+  type: single
+  question: Which territory elects its legislature through political parties?
+  options:
+    - Yukon
+    - The Northwest Territories
+    - Nunavut
+    - All three territories
+  answer: 0
+  explanation: >
+    Yukon uses party politics, much like a province. The Northwest Territories and
+    Nunavut use consensus government, where everyone runs as an independent.
+  source: https://www.ntlegislativeassembly.ca/node/2966
+
+- id: yukon-commissioner
+  pages: [provinces/yukon, learn/federalism/territories]
+  tags: [monarchy, federalism]
+  type: single
+  question: Who appoints the Commissioner of Yukon?
+  options:
+    - The voters of Yukon
+    - The Yukon Legislative Assembly
+    - The federal cabinet (the Governor in Council)
+    - The King, on the Premier of Yukon's advice
+  answer: 2
+  explanation: >
+    The Yukon Act says the Commissioner is appointed by the Governor in Council,
+    meaning the federal cabinet. Today the Commissioner acts on the advice of
+    Yukon's elected government.
+  source: https://laws-lois.justice.gc.ca/eng/acts/Y-2.01/page-1.html
+
+- id: yukon-devolution-first
+  pages: [provinces/yukon]
+  tags: [federalism]
+  type: true-false
+  question: Yukon was the first territory to take over management of its own public lands and resources from the federal government.
+  answer: true
+  explanation: >
+    Yukon's devolution took effect on April 1, 2003. The Northwest Territories
+    followed in 2014, and Nunavut's transfer is scheduled for 2027.
+  source: https://www.rcaanc-cirnac.gc.ca/eng/1352470994098

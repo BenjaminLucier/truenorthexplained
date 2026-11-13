@@ -1,0 +1,106 @@
+# Question bank: The big picture
+# Format: see SITEMAP.md, section "Quizzes".
+
+- id: big-picture-head-of-state
+  pages: [learn/big-picture, learn/crown]
+  tags: [monarchy]
+  type: single
+  question: Who is Canada's head of state?
+  options:
+    - The Prime Minister
+    - The Governor General
+    - The King
+    - The Chief Justice of Canada
+  answer: 2
+  explanation: >
+    The King is head of state. The Governor General represents him in Canada,
+    and the Prime Minister is head of government.
+  source: https://www.canada.ca/en/canadian-heritage/services/crown-canada.html
+
+- id: big-picture-vote-for-pm
+  pages: [learn/big-picture, learn/elections]
+  tags: [elections]
+  type: true-false
+  question: In a federal election, Canadians vote directly for the Prime Minister.
+  answer: false
+  explanation: >
+    You vote only for the MP in your riding. The Prime Minister is whoever can
+    hold the confidence of the House of Commons, which is normally the leader of
+    the party with the most seats.
+  source: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada.html
+
+- id: big-picture-who-becomes-pm
+  pages: [learn/big-picture, learn/elections]
+  tags: [elections, conventions]
+  type: single
+  question: What decides who becomes Prime Minister?
+  options:
+    - A national vote for party leaders
+    - Whoever can win the confidence of the House of Commons
+    - A vote of the Senate
+    - The King's personal choice
+  answer: 1
+  explanation: >
+    By convention, the Governor General appoints as Prime Minister whoever can
+    command the confidence of the House, usually the leader of the largest party.
+  source: https://www.gg.ca/en/governor-general/role-and-responsibilities
+
+- id: big-picture-federal-orders
+  pages: [learn/big-picture, learn/federalism]
+  tags: [federalism]
+  type: single
+  question: Which governments get their powers directly from the Constitution?
+  options:
+    - The federal government only
+    - The federal and provincial governments
+    - Federal, provincial and municipal governments
+    - The provincial governments only
+  answer: 1
+  explanation: >
+    The Constitution Act, 1867 divides powers between Parliament and the provinces.
+    The territories get their powers from federal laws, and municipalities are
+    created by their provinces.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-1.html
+
+- id: big-picture-central-bank
+  pages: [learn/big-picture]
+  tags: [money]
+  type: single
+  question: Which institution is Canada's central bank, setting interest rates and issuing banknotes?
+  options:
+    - The Royal Canadian Mint
+    - The Department of Finance
+    - The Bank of Canada
+    - The Canada Revenue Agency
+  answer: 2
+  explanation: >
+    The Bank of Canada is the central bank. The Royal Canadian Mint makes coins.
+  source: https://www.bankofcanada.ca/about/
+
+- id: big-picture-one-document
+  pages: [learn/big-picture, learn/constitution]
+  tags: [constitution]
+  type: true-false
+  question: Canada's Constitution is a single written document.
+  answer: false
+  explanation: >
+    It includes several written texts, chiefly the Constitution Acts of 1867 and
+    1982, plus unwritten conventions, such as most of the rules about the Prime
+    Minister and cabinet.
+  source: https://laws-lois.justice.gc.ca/eng/const/
+
+- id: big-picture-strike-down
+  pages: [learn/big-picture, learn/law]
+  tags: [courts, constitution]
+  type: single
+  question: Who can declare that a law has no force because it breaks the Constitution?
+  options:
+    - The courts
+    - The Governor General
+    - The Senate
+    - The Prime Minister
+  answer: 0
+  explanation: >
+    The Constitution is the supreme law, and independent courts decide whether
+    other laws are consistent with it.
+  source: https://www.justice.gc.ca/eng/csj-sjc/just/index.html

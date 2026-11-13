@@ -1,0 +1,195 @@
+# Question bank: Elections and the Prime Minister
+# Format: see SITEMAP.md, section "Quizzes".
+
+- id: elections-what-you-vote-for
+  pages: [learn/elections]
+  tags: [elections]
+  type: single
+  question: In a federal election, what does your ballot let you choose?
+  options:
+    - A party, with seats shared by national vote
+    - The Prime Minister
+    - One MP for your riding
+    - Your MP and a senator
+  answer: 2
+  explanation: >
+    Your ballot lists only the candidates in your riding. You choose one, and the
+    winner becomes the MP for that riding.
+  source: https://www.elections.ca/content.aspx?section=vot&dir=faq&document=faqvoting&lang=e
+
+- id: elections-who-can-vote
+  pages: [learn/elections, learn/elections/election-day]
+  tags: [elections]
+  type: single
+  question: Who is qualified to vote in a federal election?
+  options:
+    - Any adult resident of Canada
+    - Canadian citizens aged 18 or older on election day
+    - Canadian citizens and permanent residents aged 18 or older
+    - Canadian citizens aged 16 or older
+  answer: 1
+  explanation: >
+    Under s. 3 of the Canada Elections Act, every Canadian citizen who is 18 or
+    older on polling day is qualified to vote.
+  source: https://laws-lois.justice.gc.ca/eng/acts/E-2.01/
+
+- id: elections-new-leader-pm
+  pages: [learn/elections, learn/elections/party-leaders]
+  tags: [elections, conventions]
+  type: true-false
+  question: If the governing party chooses a new leader, a general election must be held before that person can become Prime Minister.
+  answer: false
+  explanation: >
+    The new leader can be appointed Prime Minister right away. What matters is
+    keeping the confidence of the House, not a new election.
+  source: https://www.ourcommons.ca/procedure/our-procedure/ParliamentaryFramework/c_g_parliamentaryframework-e.html
+
+- id: elections-most-votes-fewer-seats
+  pages: [learn/elections, learn/elections/first-past-the-post]
+  tags: [elections, electoral-reform]
+  type: true-false
+  question: Under first-past-the-post, a party can win the most votes nationally but fewer seats than another party.
+  answer: true
+  explanation: >
+    Each riding is won separately, so seat totals can differ from national vote
+    shares. This happened in the 2019 and 2021 federal elections.
+  source: https://laws-lois.justice.gc.ca/eng/acts/E-2.01/
+
+- id: elections-elections-canada
+  pages: [learn/elections, learn/elections/election-day]
+  tags: [elections]
+  type: single
+  question: Who is Elections Canada accountable to?
+  options:
+    - The Prime Minister
+    - Parliament
+    - The governing party
+    - The Supreme Court
+  answer: 1
+  explanation: >
+    Elections Canada is an independent, non-partisan agency headed by the Chief
+    Electoral Officer, who reports directly to Parliament rather than to the
+    government of the day.
+  source: https://www.elections.ca/content.aspx?section=abo&dir=mis&document=index&lang=e
+
+- id: elections-fixed-date
+  pages: [learn/elections/election-day]
+  tags: [elections, conventions]
+  type: single
+  question: Why can a federal election still be held before the "fixed" date?
+  options:
+    - The fixed-date law expired in 2015
+    - The law keeps the Governor General's power to dissolve Parliament
+    - Elections Canada can choose any date it likes
+    - The Senate can vote to call an early election
+  answer: 1
+  explanation: >
+    Section 56.1 of the Canada Elections Act says it doesn't affect the Governor
+    General's powers, including dissolving Parliament. By convention, the Governor
+    General acts on the Prime Minister's advice.
+  source: https://laws-lois.justice.gc.ca/eng/acts/E-2.01/page-6.html
+
+- id: elections-campaign-length
+  pages: [learn/elections/election-day]
+  tags: [elections]
+  type: single
+  question: How long can a federal election campaign last, from the issue of the writs to election day?
+  options:
+    - Exactly 30 days
+    - Between 36 and 50 days
+    - Between 60 and 90 days
+    - There is no limit
+  answer: 1
+  explanation: >
+    Under s. 57 of the Canada Elections Act, election day must be set between the
+    36th and 50th day after the writs are issued.
+  source: https://laws-lois.justice.gc.ca/eng/acts/E-2.01/page-6.html
+
+- id: elections-fptp-winner
+  pages: [learn/elections/first-past-the-post]
+  tags: [elections, electoral-reform]
+  type: single
+  question: Under first-past-the-post, who wins a riding?
+  options:
+    - The candidate with more than 50% of the votes, after a runoff if needed
+    - The candidate with the most votes, even without a majority
+    - The candidate whose party won the most votes nationally
+    - The candidate ranked first by the most voters after transfers
+  answer: 1
+  explanation: >
+    The candidate with the largest number of votes is declared elected. There's no
+    runoff or minimum share.
+  source: https://laws-lois.justice.gc.ca/eng/acts/E-2.01/
+
+- id: elections-erre-report
+  pages: [learn/elections/first-past-the-post]
+  tags: [electoral-reform]
+  type: single
+  question: What did the House of Commons Special Committee on Electoral Reform recommend in its December 2016 report?
+  options:
+    - Keeping first-past-the-post with no changes
+    - Adopting a ranked ballot without a referendum
+    - A referendum offering a proportional system, with the current system also on the ballot
+    - Mandatory and online voting
+  answer: 2
+  explanation: >
+    The committee recommended a referendum on a proportional system, with the
+    current system on the ballot. It recommended against mandatory and online voting
+    at that time. The government later decided not to change the system.
+  source: https://www.ourcommons.ca/DocumentViewer/en/42-1/ERRE/report-3
+
+- id: elections-leaders-chosen-by
+  pages: [learn/elections/party-leaders]
+  tags: [elections, parties]
+  type: single
+  question: Who chooses the leader of a federal political party?
+  options:
+    - All voters, in a national primary
+    - The party, under its own rules, usually by a vote of its members
+    - Elections Canada
+    - The Governor General
+  answer: 1
+  explanation: >
+    Parties set their own leadership rules. Most hold a vote of party members.
+    Elections Canada regulates leadership campaign finances, not the vote.
+  source: https://laws-lois.justice.gc.ca/eng/acts/E-2.01/
+
+- id: elections-reform-act
+  pages: [learn/elections/party-leaders]
+  tags: [parties]
+  type: true-false
+  question: Under the Parliament of Canada Act, every party caucus with 12 or more MPs must vote after each election on whether its MPs can trigger a review of their leader.
+  answer: true
+  explanation: >
+    Section 49.8 requires those caucuses to hold separate recorded votes on whether
+    the rules on expulsion, caucus chair, leadership review and interim leader apply
+    to them.
+  source: https://laws-lois.justice.gc.ca/eng/acts/P-1/
+
+- id: elections-pmo-vs-pco
+  pages: [learn/elections/cabinet-and-pmo]
+  tags: [executive]
+  type: single
+  question: What is the main difference between the Prime Minister's Office (PMO) and the Privy Council Office (PCO)?
+  options:
+    - The PMO advises the King; the PCO advises the Senate
+    - The PMO has political staff; the PCO has non-partisan public servants
+    - The PMO is in the Senate; the PCO is in the House of Commons
+    - There is no difference; they are two names for the same office
+  answer: 1
+  explanation: >
+    The PMO is the Prime Minister's partisan political staff. The PCO is a public
+    service department, led by the Clerk of the Privy Council, that supports the
+    PM and cabinet whichever party is in power.
+  source: https://www.canada.ca/en/privy-council.html
+
+- id: elections-cabinet-solidarity
+  pages: [learn/elections/cabinet-and-pmo]
+  tags: [executive, conventions]
+  type: true-false
+  question: Under cabinet solidarity, a minister who publicly opposes a cabinet decision is expected to resign.
+  answer: true
+  explanation: >
+    Ministers are collectively accountable for cabinet decisions. They can disagree
+    in private, but must support the decision in public or leave cabinet.
+  source: https://www.ourcommons.ca/procedure/our-procedure/ParliamentaryFramework/c_g_parliamentaryframework-e.html

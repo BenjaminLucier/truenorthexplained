@@ -1,0 +1,230 @@
+# Question bank: Federalism
+# Format: see SITEMAP.md, section "Quizzes".
+
+- id: federalism-orders-equal
+  pages: [learn/federalism]
+  tags: [federalism]
+  type: true-false
+  question: Within their own areas of power, provincial governments must follow instructions from the federal government.
+  answer: false
+  explanation: >
+    The Constitution gives each order of government its own powers. Within its own
+    areas, a province is supreme, and Ottawa can't overrule it by ordinary law.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-3.html
+
+- id: federalism-health-care
+  pages: [learn/federalism, learn/federalism/money-and-equalization]
+  tags: [federalism, money]
+  type: single
+  question: Who runs hospitals and public health insurance in Canada?
+  options:
+    - The federal government, through Health Canada
+    - The provinces and territories, with federal funding attached to conditions
+    - Municipalities
+    - Private insurers regulated by Ottawa
+  answer: 1
+  explanation: >
+    Provinces and territories deliver health care. Ottawa contributes through the
+    Canada Health Transfer, on condition that provincial plans follow the Canada
+    Health Act.
+  source: https://www.canada.ca/en/department-finance/programs/federal-transfers/canada-health-transfer.html
+
+- id: federalism-concurrent
+  pages: [learn/federalism, learn/federalism/division-of-powers]
+  tags: [federalism, constitution]
+  type: multi
+  question: Which subjects does section 95 of the Constitution Act, 1867 make concurrent, so both Parliament and the provinces can legislate on them?
+  options:
+    - Agriculture
+    - Criminal law
+    - Immigration
+    - Banking
+  answer: [0, 2]
+  explanation: >
+    Section 95 lets both orders legislate on agriculture and immigration. A
+    provincial law applies only as long as it isn't inconsistent with a federal law.
+    Criminal law and banking are exclusively federal.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-3.html
+
+- id: federalism-paramountcy
+  pages: [learn/federalism, learn/federalism/division-of-powers]
+  tags: [federalism, courts]
+  type: single
+  question: If a valid federal law and a valid provincial law truly conflict, what usually happens?
+  options:
+    - The provincial law wins, because it is more local
+    - Both laws are struck down
+    - The federal law prevails, and the provincial law doesn't apply to the extent of the conflict
+    - The law passed most recently wins
+  answer: 2
+  explanation: >
+    This is the doctrine of federal paramountcy. The provincial law isn't struck down;
+    it just stops applying where it conflicts. Pensions under s. 94A are the main
+    exception, where provincial law prevails.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-3.html
+
+- id: federalism-municipal-status
+  pages: [learn/federalism, learn/federalism/municipalities]
+  tags: [federalism, municipalities]
+  type: single
+  question: Where do Canadian cities and towns get their powers?
+  options:
+    - Directly from the Constitution, as a third order of government
+    - From the federal government
+    - From provincial laws, under the provinces' power over municipal institutions
+    - From their own city charters, which provinces can't change
+  answer: 2
+  explanation: >
+    Section 92(8) of the Constitution Act, 1867 gives provinces power over municipal
+    institutions. Municipalities exist under provincial law, and the province can
+    change their powers, boundaries and councils.
+  source: https://www.scc-csc.ca/judgments-jugements/cb/2021/38921/
+
+- id: federalism-residual-power
+  pages: [learn/federalism/division-of-powers]
+  tags: [federalism, constitution]
+  type: single
+  question: Under Canada's Constitution, who gets power over a subject that isn't listed for either order of government?
+  options:
+    - The provinces
+    - Parliament, under its "peace, order and good government" power
+    - The courts
+    - Whichever government acts first
+  answer: 1
+  explanation: >
+    The opening words of s. 91 give Parliament a residual power to make laws for the
+    peace, order and good government of Canada on matters not assigned exclusively to
+    the provinces.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-3.html
+
+- id: federalism-marriage-split
+  pages: [learn/federalism/division-of-powers]
+  tags: [federalism]
+  type: single
+  question: How is power over marriage divided?
+  options:
+    - All of it is federal
+    - All of it is provincial
+    - Who can marry and divorce are federal; the ceremony (solemnization) is provincial
+    - The ceremony is federal; who can marry is provincial
+  answer: 2
+  explanation: >
+    Section 91(26) gives Parliament marriage and divorce. Section 92(12) gives the
+    provinces the solemnization of marriage, such as licences and who can officiate.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-3.html
+
+- id: federalism-property-civil-rights
+  pages: [learn/federalism/division-of-powers]
+  tags: [federalism]
+  type: true-false
+  question: In section 92(13), "property and civil rights" mainly refers to civil liberties such as freedom of speech.
+  answer: false
+  explanation: >
+    Here "civil rights" means private legal relationships: contracts, property, most
+    employment and most business regulation. It's one of the broadest provincial
+    powers.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-3.html
+
+- id: federalism-equalization-funding
+  pages: [learn/federalism, learn/federalism/money-and-equalization]
+  tags: [money, federalism]
+  type: single
+  question: Where does the money for equalization payments come from?
+  options:
+    - Payments from the richer provinces' governments
+    - Federal general revenues, mostly federal taxes paid across Canada
+    - A special tax on natural resources
+    - Borrowing by the receiving provinces
+  answer: 1
+  explanation: >
+    Equalization is financed by the federal government from its general revenues.
+    Provinces make no contributions to it.
+  source: https://www.canada.ca/en/department-finance/programs/federal-transfers/equalization.html
+
+- id: federalism-fiscal-capacity
+  pages: [learn/federalism/money-and-equalization]
+  tags: [money]
+  type: single
+  question: Equalization payments are based on a province's "fiscal capacity". What does that measure?
+  options:
+    - How much the province actually spends on services
+    - How much revenue the province could raise at national average tax rates
+    - The size of the province's debt
+    - The province's population
+  answer: 1
+  explanation: >
+    Fiscal capacity measures a province's ability to raise revenue, not what it
+    actually collects or spends. Provinces below the standard receive payments.
+  source: https://www.canada.ca/en/department-finance/programs/federal-transfers/equalization.html
+
+- id: federalism-cht-cst-allocation
+  pages: [learn/federalism/money-and-equalization]
+  tags: [money]
+  type: single
+  question: How are the Canada Health Transfer and Canada Social Transfer divided among provinces and territories?
+  options:
+    - Only poorer provinces receive them
+    - On an equal per-person basis
+    - Based on each province's health spending
+    - Equally, with each province getting the same total amount
+  answer: 1
+  explanation: >
+    Both are allocated on an equal per capita basis, so residents are treated alike
+    wherever they live. Equalization is the transfer that targets provinces with less
+    revenue-raising ability.
+  source: https://www.canada.ca/en/department-finance/programs/federal-transfers/canada-social-transfer.html
+
+- id: federalism-territory-powers
+  pages: [learn/federalism, learn/federalism/territories]
+  tags: [federalism, territories]
+  type: single
+  question: What is the main legal difference between a province and a territory?
+  options:
+    - Territories have no elected legislature
+    - Territories' powers are delegated by federal law, while provinces' powers come from the Constitution
+    - Territories don't have to follow the Charter
+    - Territories elect no members of Parliament
+  answer: 1
+  explanation: >
+    Territories have elected legislatures and premiers, but their powers come from
+    federal Acts such as the Yukon Act and the Nunavut Act. Provinces' powers are
+    set out in the Constitution itself.
+  source: https://www.canada.ca/en/intergovernmental-affairs/services/provinces-territories.html
+
+- id: federalism-territory-equalization
+  pages: [learn/federalism/territories, learn/federalism/money-and-equalization]
+  tags: [money, territories]
+  type: true-false
+  question: The three territories receive equalization payments.
+  answer: false
+  explanation: >
+    Equalization is for provinces. The territories get Territorial Formula Financing,
+    an unconditional grant that reflects the high cost of services in the North.
+  source: https://www.canada.ca/en/department-finance/programs/federal-transfers/territorial-formula-financing.html
+
+- id: federalism-new-province
+  pages: [learn/federalism/territories]
+  tags: [territories, constitution]
+  type: single
+  question: What would it take to turn a territory into a province?
+  options:
+    - A vote of the territorial legislature
+    - An ordinary Act of Parliament
+    - A constitutional amendment approved by Parliament and at least seven provinces with half the population
+    - A decision of the Supreme Court
+  answer: 2
+  explanation: >
+    Section 42(1)(f) of the Constitution Act, 1982 puts the establishment of new
+    provinces under the general amending formula.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-13.html
+
+- id: federalism-toronto-council
+  pages: [learn/federalism/municipalities]
+  tags: [municipalities, courts]
+  type: true-false
+  question: In 2021 the Supreme Court of Canada upheld Ontario's law cutting the size of Toronto's city council during the 2018 election.
+  answer: true
+  explanation: >
+    The Court ruled 5–4 that the law was constitutional. The province's power over
+    municipalities under s. 92(8) wasn't in dispute.
+  source: https://www.scc-csc.ca/judgments-jugements/cb/2021/38921/

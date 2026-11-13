@@ -1,0 +1,247 @@
+# Question bank: Indigenous peoples and the Crown
+# Format: see SITEMAP.md, section "Quizzes".
+
+- id: indigenous-three-peoples
+  pages: [learn/indigenous, learn/indigenous/section-35]
+  tags: [constitution]
+  type: single
+  question: Which three groups does the Constitution recognize as the Aboriginal peoples of Canada?
+  options:
+    - First Nations, Inuit and Métis
+    - First Nations, Inuit and Acadians
+    - Status Indians, non-status Indians and Métis
+    - Cree, Inuit and Mi'kmaq
+  answer: 0
+  explanation: >
+    Section 35(2) of the Constitution Act, 1982 says the Aboriginal peoples of
+    Canada include the "Indian, Inuit and Métis peoples." Today "First Nations"
+    is the usual term for the peoples the legal text calls "Indian."
+  source: https://laws-lois.justice.gc.ca/eng/const/page-12.html
+
+- id: indigenous-rights-created-1982
+  pages: [learn/indigenous, learn/indigenous/section-35]
+  tags: [constitution]
+  type: true-false
+  question: Aboriginal rights were created by the Constitution Act, 1982.
+  answer: false
+  explanation: >
+    Section 35 "recognized and affirmed" rights that already existed. They come
+    from Indigenous peoples' prior presence on the land and from treaties.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-12.html
+
+- id: indigenous-federal-jurisdiction
+  pages: [learn/indigenous, learn/indigenous/indian-act, learn/federalism]
+  tags: [federalism, constitution]
+  type: single
+  question: Why is the relationship with First Nations mainly a federal responsibility rather than a provincial one?
+  options:
+    - Because the Indian Act says so, and it overrides the Constitution
+    - Because s. 91(24) of the Constitution Act, 1867 gives Parliament power over "Indians, and Lands reserved for the Indians"
+    - Because the Charter of Rights and Freedoms assigns it to Ottawa
+    - Because the provinces transferred it to Ottawa in 1982
+  answer: 1
+  explanation: >
+    Section 91(24) of the Constitution Act, 1867 puts this subject on the federal
+    list of powers. The Indian Act is a federal law passed under that power.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-1.html
+
+- id: indigenous-unceded-bc
+  pages: [learn/indigenous, learn/indigenous/treaties]
+  tags: [treaties]
+  type: single
+  question: Which province is mostly "unceded," meaning most of its land was never surrendered by treaty?
+  options:
+    - Saskatchewan
+    - Manitoba
+    - British Columbia
+    - Alberta
+  answer: 2
+  explanation: >
+    Apart from the Douglas Treaties, part of Treaty 8 and a few modern treaties,
+    most of British Columbia was never covered by treaty. The Prairie provinces are
+    largely covered by the Numbered Treaties.
+  source: https://www.rcaanc-cirnac.gc.ca/eng/1100100028574/1529354437231
+
+- id: indigenous-duty-to-consult
+  pages: [learn/indigenous, learn/indigenous/section-35]
+  tags: [courts]
+  type: single
+  question: According to the Supreme Court in Haida Nation (2004), when does the Crown's duty to consult arise?
+  options:
+    - Only after a court has formally proven the Aboriginal right
+    - Only when a private company asks for it
+    - When the Crown knows of a possible right or title and is considering action that could harm it
+    - Only for projects on reserve land
+  answer: 2
+  explanation: >
+    The duty arises even before a right is proven, once the Crown knows of a
+    potential right and is considering action that might adversely affect it.
+    It comes from the honour of the Crown and isn't a veto.
+  source: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/2189/index.do
+
+- id: indigenous-treaties-relevant-today
+  pages: [learn/indigenous, learn/indigenous/treaties]
+  tags: [treaties, constitution]
+  type: true-false
+  question: Historic treaties signed in the 1700s and 1800s are only of historical interest and have no legal force today.
+  answer: false
+  explanation: >
+    Treaty rights are protected by s. 35 of the Constitution Act, 1982, and courts
+    enforce them. For example, the Marshall decision (1999) upheld fishing rights
+    from treaties of 1760–61.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-12.html
+
+- id: indigenous-royal-proclamation
+  pages: [learn/indigenous/treaties]
+  tags: [treaties, history]
+  type: single
+  question: What did the Royal Proclamation of 1763 establish about Indigenous lands?
+  options:
+    - Settlers could buy land directly from Indigenous nations
+    - Only the Crown could acquire Indigenous lands, by agreement with the nation concerned
+    - All Indigenous lands became Crown property immediately
+    - Indigenous lands would be governed by the provinces
+  answer: 1
+  explanation: >
+    The Proclamation barred private purchases and set up a process for the Crown to
+    acquire land through public agreements. It's the foundation of the treaty process.
+  source: https://www.rcaanc-cirnac.gc.ca/eng/1100100028574/1529354437231
+
+- id: indigenous-modern-treaty-nunavut
+  pages: [learn/indigenous/treaties, provinces/nunavut]
+  tags: [treaties]
+  type: single
+  question: Which modern treaty led to the creation of the territory of Nunavut?
+  options:
+    - The Nisga'a Final Agreement
+    - Treaty 11
+    - The Nunavut Land Claims Agreement
+    - The James Bay and Northern Quebec Agreement
+  answer: 2
+  explanation: >
+    The Nunavut Land Claims Agreement (1993), the largest land claim settlement in
+    Canada's history, led to Nunavut becoming a territory in 1999.
+  source: https://laws-lois.justice.gc.ca/eng/acts/N-28.7/
+
+- id: indigenous-modern-treaties-protected
+  pages: [learn/indigenous/treaties, learn/indigenous/section-35]
+  tags: [treaties, constitution]
+  type: true-false
+  question: Rights in modern land claims agreements are protected by the Constitution in the same way as rights in historic treaties.
+  answer: true
+  explanation: >
+    Section 35(3) says that "treaty rights" include rights that exist by way of land
+    claims agreements, now or in the future.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-12.html
+
+- id: indigenous-tsilhqotin
+  pages: [learn/indigenous/section-35]
+  tags: [courts]
+  type: single
+  question: What made Tsilhqot'in Nation v. British Columbia (2014) a landmark?
+  options:
+    - It was the first time a court declared Aboriginal title to a specific area of land
+    - It created the duty to consult
+    - It held that Métis are "Indians" under s. 91(24)
+    - It abolished the Indian Act
+  answer: 0
+  explanation: >
+    Tsilhqot'in was the first declaration of Aboriginal title to specific land. The
+    duty to consult came from Haida Nation (2004), and the Métis question was
+    decided in Daniels (2016).
+  source: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/14246/index.do
+
+- id: indigenous-daniels
+  pages: [learn/indigenous/section-35]
+  tags: [courts, federalism]
+  type: single
+  question: What did the Supreme Court decide in Daniels (2016)?
+  options:
+    - That Métis people have a right to reserves
+    - That Métis and non-status Indians fall under federal jurisdiction as "Indians" in s. 91(24)
+    - That provinces are responsible for Métis people
+    - That the Indian Act applies to Inuit
+  answer: 1
+  explanation: >
+    Daniels was about which government is responsible. It held that Métis and
+    non-status Indians are "Indians" under s. 91(24), so they fall under federal
+    jurisdiction. It didn't create new rights.
+  source: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/15858/index.do
+
+- id: indigenous-status-meaning
+  pages: [learn/indigenous/indian-act]
+  tags: [indian-act]
+  type: single
+  question: Under the Indian Act, what is "status"?
+  options:
+    - Membership in any Indigenous community
+    - Legal standing as a person registered under the Indian Act
+    - A category that includes all First Nations, Inuit and Métis people
+    - A title given to elected chiefs
+  answer: 1
+  explanation: >
+    Status is the legal standing of a person registered under the Indian Act. It
+    isn't the same as identity or band membership, and there's no federal register
+    for Métis or Inuit.
+  source: https://www.sac-isc.gc.ca/eng/1100100032463/1572459644986
+
+- id: indigenous-bill-c31
+  pages: [learn/indigenous/indian-act]
+  tags: [indian-act, rights]
+  type: single
+  question: What did the 1985 amendment to the Indian Act known as Bill C-31 mainly address?
+  options:
+    - It abolished reserves
+    - It ended the rule that First Nations women lost status by marrying men without status
+    - It created the Truth and Reconciliation Commission
+    - It gave First Nations people the federal vote
+  answer: 1
+  explanation: >
+    Bill C-31 removed the rule that stripped status from First Nations women who
+    married men without status, and restored status to many people. First Nations
+    people got the federal vote without losing status in 1960.
+  source: https://laws-lois.justice.gc.ca/eng/acts/I-5/
+
+- id: indigenous-trc
+  pages: [learn/indigenous, learn/indigenous/indian-act]
+  tags: [history]
+  type: single
+  question: What did the Truth and Reconciliation Commission issue in 2015?
+  options:
+    - A new treaty with all First Nations
+    - A ruling striking down the Indian Act
+    - 94 Calls to Action
+    - The UN Declaration on the Rights of Indigenous Peoples
+  answer: 2
+  explanation: >
+    The TRC documented the history of residential schools and issued 94 Calls to
+    Action. It's a commission, not a court, so it couldn't strike down laws.
+  source: https://www.rcaanc-cirnac.gc.ca/eng/1450124405592/1529106060525
+
+- id: indigenous-inherent-right
+  pages: [learn/indigenous/self-government]
+  tags: [self-government]
+  type: true-false
+  question: Since 1995, the federal government has recognized the inherent right of self-government as an existing right under section 35.
+  answer: true
+  explanation: >
+    The 1995 federal policy treats self-government as an inherent right protected by
+    s. 35, put into effect mainly through negotiated agreements.
+  source: https://www.rcaanc-cirnac.gc.ca/eng/1100100031843/1539869205136
+
+- id: indigenous-undrip-act
+  pages: [learn/indigenous, learn/indigenous/self-government]
+  tags: [self-government, rights]
+  type: single
+  question: What does the federal UN Declaration on the Rights of Indigenous Peoples Act (2021) require?
+  options:
+    - That the Declaration replace the Indian Act immediately
+    - That every project on Indigenous land be approved by a court
+    - That the federal government, working with Indigenous peoples, make federal laws consistent with the Declaration and report on progress
+    - That provinces adopt the Declaration
+  answer: 2
+  explanation: >
+    The Act sets up a process: measures to align federal laws with the Declaration,
+    an action plan, and annual reports to Parliament, all in consultation and
+    cooperation with Indigenous peoples.
+  source: https://laws-lois.justice.gc.ca/eng/acts/U-2.2/

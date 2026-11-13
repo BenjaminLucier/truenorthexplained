@@ -1,0 +1,134 @@
+---
+id: british-columbia
+title: "British Columbia"
+type: province
+capital: "Victoria"
+joined: 1871
+summary: "Most of BC was never covered by treaties, and in 2019 it became the first province to put the UN Declaration on the Rights of Indigenous Peoples into law."
+status: draft
+---
+
+## At a glance
+
+| | |
+|---|---|
+| Capital | Victoria |
+| Joined Confederation | 1871 |
+| Legislature | Legislative Assembly of British Columbia |
+| Seats | 93 |
+| Crown representative | Lieutenant Governor of British Columbia |
+| Head of government | Premier |
+
+> **As of 2026:** The Legislative Assembly has 93 seats, a number first used in the 2024
+> general election.
+
+## How it's governed
+
+British Columbia has a single-chamber legislature, the **Legislative Assembly**, which
+sits in the Parliament Buildings in Victoria. Voters in each electoral district elect
+one **MLA** (Member of the Legislative Assembly).
+
+The party that can keep the **confidence** (the majority support) of the Assembly forms
+the government, and its leader becomes **premier**. The premier and cabinet must
+answer to the Assembly, just as the federal cabinet answers to the House of Commons.
+See [Confidence](/learn/parliament/confidence).
+
+The **Lieutenant Governor** represents the King. They give **royal assent** to bills
+and formally appoint the premier, acting on the advice of the elected government except
+in rare situations. See [The Crown](/learn/crown).
+
+## What makes it different
+
+### Joining Canada
+
+British Columbia was a separate British colony. It agreed to join Canada in 1871, and
+one of the main terms was a promise that Canada would build a railway to connect it to
+the rest of the country within ten years. <!-- check: "within ten years" wording against the BC Terms of Union, 1871 -->
+
+### Land that was mostly never ceded
+
+In most of Canada, the Crown signed treaties with First Nations in which, in the
+Crown's understanding, land was surrendered or shared. British Columbia is different.
+Only small parts of it are covered by historic treaties:
+
+- the **Douglas Treaties**, 14 agreements signed on Vancouver Island in the 1850s;
+- **Treaty 8**, which covers part of the northeast.
+
+For most of the province, no treaty was ever signed. That's why much of BC is
+described as **unceded** territory: land that First Nations never gave up by treaty.
+Since the 1990s, the province, Canada and First Nations have negotiated **modern
+treaties**, such as the Nisga'a Final Agreement, which took effect in 2000. In 2014, in
+*Tsilhqot'in Nation v. British Columbia*, the Supreme Court of Canada recognized
+**Aboriginal title** (a First Nation's legal right to its land) over a specific area
+for the first time.
+
+See [Treaties](/learn/indigenous/treaties) and [Section 35](/learn/indigenous/section-35).
+
+### DRIPA: the UN Declaration in provincial law
+
+In 2019, British Columbia passed the **Declaration on the Rights of Indigenous Peoples
+Act** (often called **DRIPA**). It was the first law in Canada to commit a government
+to bring its laws into line with the **United Nations Declaration on the Rights of
+Indigenous Peoples (UNDRIP)**. The Act:
+
+- requires the government to take steps to make BC laws consistent with UNDRIP;
+- requires an action plan and yearly progress reports to the legislature;
+- lets the government make agreements with Indigenous governing bodies, including
+  agreements on decision-making about land and resources.
+
+The federal Parliament passed a similar law in 2021. How far these laws should change
+decisions on land, resources and development is debated, and people disagree about it.
+
+### Recall and initiative
+
+British Columbia's **Recall and Initiative Act** (1995) lets voters:
+
+- petition to **recall** (remove) their MLA between elections;
+- propose a new law by **initiative** petition. A successful petition goes to the
+  legislature, and may go to a province-wide vote.
+
+The best-known use came in 2010, when an initiative petition against the harmonized
+sales tax (HST) succeeded. The province then held a referendum in 2011, and voters chose
+to get rid of the HST. Alberta is the only other province where voters can recall their
+member of the legislature. <!-- check: confirm no other province currently has a recall law -->
+Some other provinces let citizens petition for a public vote in narrower ways.
+
+## Courts
+
+BC's court names are a common source of confusion: its **Supreme Court** is *not* its
+highest court.
+
+| Court | What it does |
+|---|---|
+| **Court of Appeal for British Columbia** | The province's highest court. Hears appeals. |
+| **Supreme Court of British Columbia** | The **superior trial court**: serious criminal trials, larger civil cases, divorce. Its judges are appointed by the federal government. In most other provinces, this court is called the Court of King's Bench or Superior Court. |
+| **Provincial Court of British Columbia** | Handles most criminal cases, plus youth, family, traffic and small claims matters. Its judges are appointed by the province. |
+
+Above all of them sits the [Supreme Court of Canada](/learn/law/supreme-court). See
+[Courts](/learn/law/courts).
+
+## Local government
+
+British Columbia has two main laws for local government:
+
+- the **Local Government Act**, which covers regional districts and much of how
+  municipalities work;
+- the **Community Charter**, passed in 2003, which sets out municipalities' powers in
+  broad terms.
+
+Vancouver is the exception. It runs under its own law, the **Vancouver Charter**.
+
+BC also has **regional districts**: federations that cover the whole province,
+including the land outside any city or town. They provide shared services such as
+water, garbage and regional parks, and act as the local government for rural areas.
+See [Municipalities](/learn/federalism/municipalities).
+
+## Sources
+
+- [Legislative Assembly of British Columbia](https://www.leg.bc.ca/)
+- [Lieutenant Governor of British Columbia](https://www.ltgov.bc.ca/)
+- [Government of British Columbia](https://www2.gov.bc.ca/)
+- [Declaration on the Rights of Indigenous Peoples Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) (BC Laws)
+- [Recall and Initiative Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96398_00) (BC Laws) and [Elections BC: recall and initiative](https://elections.bc.ca/recall-initiative/)
+- [BC Courts](https://www.bccourts.ca/) <!-- unverified link: loads in a browser check but its certificate failed in one automated fetch -->
+- [Local governments](https://www2.gov.bc.ca/gov/content/governments/local-governments) (Government of BC), [Local Government Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/r15001_00), [Community Charter](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03026_00), [Vancouver Charter](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/vanch_00)

@@ -1,0 +1,228 @@
+# Question bank: Parliament
+# Format: see SITEMAP.md, section "Quizzes".
+
+- id: parliament-three-parts
+  pages: [learn/parliament]
+  tags: [parliament, monarchy]
+  type: single
+  question: Which of these together make up the Parliament of Canada?
+  options:
+    - The House of Commons and the Senate
+    - The Prime Minister, cabinet and the House of Commons
+    - The King, the Senate and the House of Commons
+    - The House of Commons and the provincial legislatures
+  answer: 2
+  explanation: >
+    The Constitution Act, 1867 (s. 17) says Parliament consists of the King, the
+    Senate and the House of Commons. All three must agree before a bill becomes law.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-1.html
+
+- id: parliament-minority-government
+  pages: [learn/parliament, learn/parliament/confidence]
+  tags: [parliament, confidence]
+  type: single
+  question: What makes a government a "minority government"?
+  options:
+    - It was elected with less than half the national vote
+    - Its party holds less than half the seats in the House of Commons
+    - It has fewer senators than the opposition
+    - It governs without a Speech from the Throne
+  answer: 1
+  explanation: >
+    Minority and majority are about seats in the House, not votes. A minority
+    government needs support from other parties to pass bills and survive
+    confidence votes.
+  source: https://www.ourcommons.ca/procedure/our-procedure/ParliamentaryFramework/c_g_parliamentaryframework-e.html
+
+- id: parliament-money-bills
+  pages: [learn/parliament, learn/parliament/how-a-bill-becomes-law]
+  tags: [parliament, money]
+  type: single
+  question: Where must a bill that raises a tax or spends public money be introduced?
+  options:
+    - In the House of Commons
+    - In the Senate
+    - In either chamber
+    - In a joint committee of both chambers
+  answer: 0
+  explanation: >
+    Under s. 53 of the Constitution Act, 1867, bills to tax or spend must start in
+    the House of Commons. New spending also needs a royal recommendation, which only
+    the government can provide.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-1.html
+
+- id: parliament-official-opposition
+  pages: [learn/parliament]
+  tags: [parliament, conventions]
+  type: single
+  question: By convention, which party becomes the Official Opposition?
+  options:
+    - The party with the most votes that isn't in government
+    - The party chosen by the Speaker
+    - The party with the second-most seats in the House
+    - The party with the most senators
+  answer: 2
+  explanation: >
+    By convention, the party with the second-most seats is the Official Opposition,
+    and its leader asks the first questions in Question Period.
+  source: https://www.ourcommons.ca/procedure/our-procedure/ParliamentaryFramework/c_g_parliamentaryframework-e.html
+
+- id: parliament-prorogation
+  pages: [learn/parliament]
+  tags: [parliament]
+  type: true-false
+  question: Proroguing Parliament ends the session and triggers a general election.
+  answer: false
+  explanation: >
+    Prorogation ends a session without an election, and most unfinished bills die.
+    Dissolution is what ends a Parliament and leads to an election.
+  source: https://www.ourcommons.ca/procedure/our-procedure/ParliamentaryCycle/c_g_parliamentarycycle-e.html
+
+- id: parliament-bill-order
+  pages: [learn/parliament/how-a-bill-becomes-law]
+  tags: [parliament]
+  type: single
+  question: In the usual order, what happens to a bill right after second reading in the House?
+  options:
+    - Royal assent
+    - Committee study
+    - Third reading
+    - First reading
+  answer: 1
+  explanation: >
+    After MPs approve a bill's principle at second reading, it goes to committee for
+    witnesses and clause-by-clause study, then report stage and third reading.
+  source: https://www.ourcommons.ca/procedure/our-procedure/LegislativeProcess/c_g_legislativeprocess-e.html
+
+- id: parliament-same-text
+  pages: [learn/parliament/how-a-bill-becomes-law]
+  tags: [parliament]
+  type: true-false
+  question: Before royal assent, the House and the Senate must pass a bill in exactly the same words.
+  answer: true
+  explanation: >
+    If one chamber amends a bill, it goes back to the other, which can accept, reject
+    or change the amendments. Both must agree on one text before royal assent.
+  source: https://www.ourcommons.ca/procedure/our-procedure/LegislativeProcess/c_g_legislativeprocess-e.html
+
+- id: parliament-private-members-bill
+  pages: [learn/parliament/how-a-bill-becomes-law]
+  tags: [parliament]
+  type: single
+  question: What is a private member's bill?
+  options:
+    - A bill that benefits one person or company
+    - A bill introduced by an MP who isn't a minister
+    - A bill debated in secret
+    - A bill introduced by the Prime Minister
+  answer: 1
+  explanation: >
+    A private member's bill is a public bill introduced by an MP who isn't a
+    minister. A "private bill" is different: it grants special powers or exemptions
+    to a specific person or organization.
+  source: https://www.ourcommons.ca/procedure/our-procedure/LegislativeProcess/c_g_legislativeprocess-e.html
+
+- id: parliament-senate-appointment
+  pages: [learn/parliament/senate]
+  tags: [parliament, senate]
+  type: single
+  question: How does someone become a senator?
+  options:
+    - Elected by voters in their province
+    - Chosen by their provincial government
+    - Appointed by the Governor General on the Prime Minister's recommendation
+    - Elected by members of the House of Commons
+  answer: 2
+  explanation: >
+    The Governor General summons senators (s. 24), on the Prime Minister's
+    recommendation. Since 2016, an independent advisory board gives the Prime
+    Minister a non-binding shortlist.
+  source: https://www.canada.ca/en/democratic-institutions/services/senate-appointment-process.html
+
+- id: parliament-senate-advisory-board
+  pages: [learn/parliament/senate]
+  tags: [senate]
+  type: true-false
+  question: The Prime Minister is legally required to recommend someone from the Independent Advisory Board's shortlist.
+  answer: false
+  explanation: >
+    The board's recommendations are non-binding. The process is government policy,
+    not a law or constitutional rule.
+  source: https://www.canada.ca/en/democratic-institutions/services/senate-appointment-process.html
+
+- id: parliament-senate-seats
+  pages: [learn/parliament/senate]
+  tags: [senate, federalism]
+  type: single
+  question: How are most Senate seats divided?
+  options:
+    - Strictly by population
+    - Equally among the ten provinces
+    - Equally among four regional divisions, with extra seats for Newfoundland and Labrador and the territories
+    - By each party's share of the vote
+  answer: 2
+  explanation: >
+    The Constitution gives 24 seats each to Ontario, Quebec, the Maritimes and the
+    West, plus 6 for Newfoundland and Labrador and 1 for each territory.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-1.html
+
+- id: parliament-confidence-loss
+  pages: [learn/parliament/confidence]
+  tags: [confidence, conventions]
+  type: single
+  question: By convention, what happens if a government loses a confidence vote in the House?
+  options:
+    - Nothing; it serves until the fixed election date
+    - The Senate chooses a new Prime Minister
+    - The Prime Minister resigns or asks the Governor General for an election
+    - The Speaker becomes interim Prime Minister
+  answer: 2
+  explanation: >
+    The government must keep the House's confidence. If it loses a confidence vote,
+    the Prime Minister is expected to resign or seek dissolution.
+  source: https://www.ourcommons.ca/procedure/our-procedure/ParliamentaryFramework/c_g_parliamentaryframework-e.html
+
+- id: parliament-confidence-budget
+  pages: [learn/parliament/confidence]
+  tags: [confidence, money]
+  type: true-false
+  question: A vote on the government's budget is normally treated as a confidence vote.
+  answer: true
+  explanation: >
+    Votes on budgetary policy and on granting supply (spending) are generally
+    confidence questions, along with explicit confidence motions and the Speech from
+    the Throne.
+  source: https://www.ourcommons.ca/procedure/our-procedure/ParliamentaryFramework/c_g_parliamentaryframework-e.html
+
+- id: parliament-question-period-answer
+  pages: [learn/parliament/question-period-and-committees]
+  tags: [parliament]
+  type: single
+  question: In Question Period, who decides which minister answers a question?
+  options:
+    - The MP who asked it
+    - The Speaker
+    - The government
+    - The Leader of the Opposition
+  answer: 2
+  explanation: >
+    Questions go to the government, which chooses who responds. The Speaker keeps
+    order but can't make a particular minister answer.
+  source: https://www.ourcommons.ca/procedure/our-procedure/Questions/c_g_questions-e.html
+
+- id: parliament-committee-membership
+  pages: [learn/parliament/question-period-and-committees]
+  tags: [parliament]
+  type: single
+  question: How is membership of House of Commons committees usually decided?
+  options:
+    - Each party gets an equal number of seats
+    - Seats generally reflect each party's share of the House
+    - The Prime Minister appoints all members
+    - Members are chosen by random draw
+  answer: 1
+  explanation: >
+    Committee membership is negotiated among the parties and generally reflects
+    their representation in the House, so opposition MPs can outnumber the
+    government in a minority Parliament.
+  source: https://www.ourcommons.ca/procedure/our-procedure/Committees/c_g_committees-e.html

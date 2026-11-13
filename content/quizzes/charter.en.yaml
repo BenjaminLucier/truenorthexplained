@@ -1,0 +1,217 @@
+# Question bank: Rights: the Charter
+# Format: see SITEMAP.md, section "Quizzes".
+
+- id: charter-applies-to
+  pages: [learn/charter, learn/charter/your-rights]
+  tags: [rights]
+  type: single
+  question: Your private employer fires you unfairly. Which law is most likely to protect you against discrimination?
+  options:
+    - The Charter of Rights and Freedoms
+    - A federal or provincial human rights law
+    - The Criminal Code
+    - The Supreme Court Act
+  answer: 1
+  explanation: >
+    The Charter applies only to governments (s. 32). Discrimination by private
+    employers, landlords and businesses is covered by human rights laws.
+  source: https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/check/art321.html
+
+- id: charter-part-of-constitution
+  pages: [learn/charter]
+  tags: [rights, constitution]
+  type: true-false
+  question: The Charter is part of the Constitution, so courts can strike down laws that break it.
+  answer: true
+  explanation: >
+    The Charter is Part I of the Constitution Act, 1982. As part of the supreme
+    law, it overrides inconsistent laws.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-12.html
+
+- id: charter-rights-absolute
+  pages: [learn/charter, learn/charter/reasonable-limits]
+  tags: [rights]
+  type: true-false
+  question: Charter rights are absolute and can never be limited.
+  answer: false
+  explanation: >
+    Section 1 allows reasonable limits that can be demonstrably justified in a
+    free and democratic society, and s. 33 lets legislatures override some
+    rights for five years at a time.
+  source: https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/check/art1.html
+
+- id: charter-citizens-only
+  pages: [learn/charter, learn/charter/your-rights]
+  tags: [rights, citizenship]
+  type: single
+  question: Which Charter right belongs only to Canadian citizens?
+  options:
+    - Freedom of expression
+    - The right to a lawyer on arrest
+    - The right to vote
+    - Equality before the law
+  answer: 2
+  explanation: >
+    Voting (s. 3), entering and leaving Canada (s. 6(1)) and minority language
+    education (s. 23) are for citizens. Most other rights belong to everyone in
+    Canada.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-12.html
+
+- id: charter-s33-scope
+  pages: [learn/charter, learn/charter/notwithstanding-clause]
+  tags: [rights]
+  type: single
+  question: Which right can a legislature NOT override with the notwithstanding clause?
+  options:
+    - Freedom of religion
+    - Equality rights
+    - The right to vote
+    - Protection against unreasonable search
+  answer: 2
+  explanation: >
+    Section 33 covers only s. 2 and ss. 7 to 15. Democratic rights (including
+    voting), mobility rights and language rights can't be overridden.
+  source: https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/check/art33.html
+
+- id: charter-legal-rights
+  pages: [learn/charter/your-rights]
+  tags: [rights, courts]
+  type: single
+  question: You're arrested. Which right does section 10 of the Charter give you?
+  options:
+    - To be released immediately without charges
+    - To get a lawyer without delay and be told you have that right
+    - To choose which judge hears your case
+    - To a jury trial for any offence
+  answer: 1
+  explanation: >
+    On arrest or detention, s. 10 gives you the right to be told why promptly,
+    and to retain and instruct a lawyer without delay and be informed of that
+    right.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-12.html
+
+- id: charter-official-languages
+  pages: [learn/charter/your-rights]
+  tags: [rights, language]
+  type: single
+  question: Under the Charter, English and French are the official languages of Canada and of which province?
+  options:
+    - Quebec
+    - Ontario
+    - New Brunswick
+    - Manitoba
+  answer: 2
+  explanation: >
+    Section 16 makes English and French the official languages of Canada and of
+    New Brunswick, the only officially bilingual province.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-12.html
+
+- id: charter-burden-s1
+  pages: [learn/charter/reasonable-limits]
+  tags: [rights]
+  type: single
+  question: Once a court finds that a law limits a Charter right, who must prove the limit is justified?
+  options:
+    - The person challenging the law
+    - The government defending the law
+    - The judge, on their own initiative
+    - Nobody; the law is automatically struck down
+  answer: 1
+  explanation: >
+    Under s. 1, the burden shifts to the government to show the limit is
+    reasonable and demonstrably justified, using the Oakes test.
+  source: https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/check/art1.html
+
+- id: charter-oakes-steps
+  pages: [learn/charter/reasonable-limits, learn/charter/landmark-cases]
+  tags: [rights]
+  type: multi
+  question: Which of these are part of the Oakes test? (Choose all that apply.)
+  options:
+    - A pressing and substantial objective
+    - Minimal impairment of the right
+    - Approval of the law in a referendum
+    - Benefits that outweigh the harmful effects
+  answer: [0, 1, 3]
+  explanation: >
+    The Oakes test asks whether the objective is pressing and substantial, and
+    whether the means are proportionate: rationally connected, minimally
+    impairing, and with benefits outweighing the harm. Referendums play no part.
+  source: https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/check/art1.html
+
+- id: charter-s33-five-years
+  pages: [learn/charter/notwithstanding-clause]
+  tags: [rights]
+  type: single
+  question: What happens to a notwithstanding declaration after five years?
+  options:
+    - It becomes permanent
+    - It expires unless the legislature passes it again
+    - The Supreme Court must review it
+    - It must be approved in a national referendum
+  answer: 1
+  explanation: >
+    A s. 33 declaration expires after five years (or sooner if it says so). The
+    legislature can re-enact it, for up to five more years each time.
+  source: https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/check/art33.html
+
+- id: charter-s33-federal-use
+  pages: [learn/charter/notwithstanding-clause]
+  tags: [rights, parliament]
+  type: true-false
+  question: The federal Parliament has used the notwithstanding clause several times.
+  answer: false
+  explanation: >
+    The federal Parliament has never used s. 33. Several provinces, and Yukon,
+    have.
+  source: https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/check/art33.html
+
+- id: charter-jordan
+  pages: [learn/charter/landmark-cases]
+  tags: [rights, courts]
+  type: single
+  question: What did R. v. Jordan (2016) decide?
+  options:
+    - That abortion law was unconstitutional
+    - Time limits after which delay in a criminal trial is presumed unreasonable
+    - That Quebec cannot secede unilaterally
+    - That commercial signs are protected expression
+  answer: 1
+  explanation: >
+    Jordan set presumptive ceilings for the s. 11(b) right to be tried within a
+    reasonable time: 18 months in provincial court and 30 months in superior
+    court.
+  source: https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/check/art11b.html
+
+- id: charter-vriend
+  pages: [learn/charter/landmark-cases]
+  tags: [rights, equality]
+  type: single
+  question: In Vriend v. Alberta (1998), what did the Supreme Court do about Alberta's human rights law?
+  options:
+    - Struck it down entirely
+    - Read sexual orientation into it as a protected ground
+    - Upheld it under the notwithstanding clause
+    - Sent it to a referendum
+  answer: 1
+  explanation: >
+    Leaving sexual orientation out of the law violated equality rights (s. 15).
+    The Court remedied this by reading sexual orientation into the law.
+  source: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/1607/index.do
+
+- id: charter-carter
+  pages: [learn/charter/landmark-cases, learn/charter/reasonable-limits]
+  tags: [rights]
+  type: single
+  question: Which Charter right was central to Carter v. Canada (2015), on assisted dying?
+  options:
+    - Freedom of religion (s. 2(a))
+    - Life, liberty and security of the person (s. 7)
+    - Mobility rights (s. 6)
+    - Minority language education rights (s. 23)
+  answer: 1
+  explanation: >
+    The Court held that the total ban on assisted dying violated s. 7 for
+    competent adults with grievous and irremediable medical conditions, and
+    wasn't justified under s. 1.
+  source: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/14637/index.do

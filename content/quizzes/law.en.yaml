@@ -1,0 +1,273 @@
+# Question bank: The legal system
+# Format: see SITEMAP.md, section "Quizzes".
+
+- id: law-sources-of-law
+  pages: [learn/law]
+  tags: [courts, constitution]
+  type: single
+  question: If a statute conflicts with the Constitution, what happens?
+  options:
+    - The statute wins, because it was passed more recently
+    - The statute has no force, to the extent of the conflict
+    - The Governor General decides which one applies
+    - Both apply until Parliament votes on it again
+  answer: 1
+  explanation: >
+    The Constitution is the supreme law of Canada. Under s. 52 of the
+    Constitution Act, 1982, any law inconsistent with it is of no force or
+    effect, to the extent of the inconsistency.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-12.html
+
+- id: law-bijuralism
+  pages: [learn/law, learn/law/common-law-and-civil-law]
+  tags: [quebec]
+  type: single
+  question: In Quebec, which kind of law is governed by the Civil Code rather than the common law?
+  options:
+    - Criminal law
+    - Constitutional law
+    - Private law, such as contracts and property
+    - All law in Quebec
+  answer: 2
+  explanation: >
+    Quebec uses the civil law tradition for private law. Criminal and
+    constitutional law work the same way in Quebec as in the rest of Canada.
+  source: https://www.justice.gc.ca/eng/csj-sjc/just/07.html
+
+- id: law-criminal-federal
+  pages: [learn/law, learn/law/criminal-law]
+  tags: [federalism]
+  type: single
+  question: Who has the power to make criminal law in Canada?
+  options:
+    - Each province, for its own territory
+    - Parliament, for the whole country
+    - Municipalities, through bylaws
+    - The Supreme Court of Canada
+  answer: 1
+  explanation: >
+    Section 91(27) of the Constitution Act, 1867 gives criminal law to
+    Parliament, so the Criminal Code applies everywhere. Provinces handle the
+    administration of justice, including most prosecutions.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-1.html
+
+- id: law-judges-elected
+  pages: [learn/law, learn/law/judges]
+  tags: [courts]
+  type: true-false
+  question: Some Canadian judges are chosen in public elections.
+  answer: false
+  explanation: >
+    All Canadian judges are appointed: by the federal government for superior
+    courts, courts of appeal, federal courts and the Supreme Court, and by the
+    provinces and territories for their own courts.
+  source: https://www.justice.gc.ca/eng/csj-sjc/ccs-ajc/05.html
+
+- id: law-judicial-review
+  pages: [learn/law]
+  tags: [courts, constitution]
+  type: single
+  question: Which is a reason a court could rule a provincial law invalid?
+  options:
+    - The province passed it with a slim majority
+    - It deals with a subject the Constitution gives to Parliament
+    - The federal government disagrees with it
+    - It was passed in an election year
+  answer: 1
+  explanation: >
+    Courts can strike down a law that goes outside its government's
+    constitutional powers, or that breaks a protected right without
+    justification. Political disagreement isn't a legal ground.
+  source: https://www.justice.gc.ca/eng/csj-sjc/just/index.html
+
+- id: law-s96-courts
+  pages: [learn/law/courts, learn/law/judges]
+  tags: [courts, federalism]
+  type: single
+  question: Who appoints the judges of a province's superior court?
+  options:
+    - The province's Lieutenant Governor, on the premier's advice
+    - The federal government
+    - The province's court of appeal
+    - The voters of the province
+  answer: 1
+  explanation: >
+    Section 96 of the Constitution Act, 1867 says superior court judges are
+    appointed by the Governor General, so the federal government appoints and
+    pays them, even though the province runs the court.
+  source: https://www.justice.gc.ca/eng/csj-sjc/ccs-ajc/02.html
+
+- id: law-federal-court-role
+  pages: [learn/law/courts]
+  tags: [courts]
+  type: single
+  question: Which kind of case would most likely start in the Federal Court?
+  options:
+    - A murder trial
+    - A divorce
+    - A challenge to a federal immigration decision
+    - A speeding ticket
+  answer: 2
+  explanation: >
+    The Federal Court handles areas Parliament assigns to it, such as
+    immigration and refugee matters and reviews of federal boards. Murder
+    trials and divorces go to provincial superior courts, and speeding tickets
+    to provincial courts.
+  source: https://www.justice.gc.ca/eng/csj-sjc/ccs-ajc/02.html
+
+- id: law-integrated-system
+  pages: [learn/law/courts]
+  tags: [courts]
+  type: true-false
+  question: Provincial courts regularly apply federal laws such as the Criminal Code.
+  answer: true
+  explanation: >
+    Canada's courts are largely integrated. Most criminal cases under the
+    federal Criminal Code are heard in provincial and superior courts.
+  source: https://www.justice.gc.ca/eng/csj-sjc/ccs-ajc/02.html
+
+- id: law-precedent
+  pages: [learn/law/common-law-and-civil-law]
+  tags: [courts]
+  type: single
+  question: In the common law tradition, what is "precedent"?
+  options:
+    - The rule that the oldest law always wins
+    - Following earlier court decisions on similar facts
+    - A code that sets out every rule in advance
+    - The Prime Minister's power to settle legal disputes
+  answer: 1
+  explanation: >
+    Common-law courts follow earlier decisions on similar issues, and lower
+    courts are bound by the decisions of higher courts.
+  source: https://www.justice.gc.ca/eng/csj-sjc/just/07.html
+
+- id: law-quebec-criminal
+  pages: [learn/law/common-law-and-civil-law, learn/law/criminal-law]
+  tags: [quebec]
+  type: true-false
+  question: Quebec has its own criminal code based on the French civil law tradition.
+  answer: false
+  explanation: >
+    Criminal law is federal, so the same Criminal Code applies in Quebec as
+    everywhere else. Quebec's Civil Code covers private law.
+  source: https://laws-lois.justice.gc.ca/eng/acts/C-46/
+
+- id: law-provincial-offences
+  pages: [learn/law/criminal-law]
+  tags: [federalism]
+  type: single
+  question: A province fines you for speeding under its highway traffic law. What kind of offence is that?
+  options:
+    - A Criminal Code offence
+    - A provincial offence
+    - A federal regulatory offence
+    - A Charter violation
+  answer: 1
+  explanation: >
+    Provinces can't create crimes, but s. 92(15) of the Constitution Act, 1867
+    lets them impose fines and penalties to enforce their own laws. These are
+    provincial offences, not Criminal Code crimes.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-1.html
+
+- id: law-who-prosecutes
+  pages: [learn/law/criminal-law]
+  tags: [federalism]
+  type: single
+  question: Who usually prosecutes Criminal Code offences such as assault in a province?
+  options:
+    - Provincial Crown prosecutors
+    - The RCMP
+    - The Supreme Court of Canada
+    - The victim's own lawyer
+  answer: 0
+  explanation: >
+    Provinces run the administration of justice, so Crown prosecutors working
+    for the provincial Attorney General handle most Criminal Code cases. The
+    federal Public Prosecution Service handles drug and other federal offences,
+    and all prosecutions in the territories.
+  source: https://www.ppsc-sppc.gc.ca/eng/bas/index.html
+
+- id: law-scc-leave
+  pages: [learn/law/supreme-court]
+  tags: [courts]
+  type: single
+  question: How do most cases get to the Supreme Court of Canada?
+  options:
+    - Every party who loses in a court of appeal has a right to go there
+    - The Court grants permission (leave to appeal) for issues of public importance
+    - The Minister of Justice sends cases there
+    - Cases are chosen by lottery
+  answer: 1
+  explanation: >
+    In most cases a party needs leave to appeal, which the Court grants for
+    issues of public importance. Only a few kinds of case have an automatic
+    right of appeal.
+  source: https://www.scc-csc.ca/about-apropos/work-travail/judicial-judiciaire/
+
+- id: law-scc-quebec-seats
+  pages: [learn/law/supreme-court, learn/law/common-law-and-civil-law]
+  tags: [courts, quebec]
+  type: single
+  question: Under the Supreme Court Act, how many of the Supreme Court's nine judges must come from Quebec?
+  options:
+    - None; there is no requirement
+    - At least one
+    - At least three
+    - Exactly four
+  answer: 2
+  explanation: >
+    Section 6 of the Supreme Court Act requires at least three judges from
+    Quebec's courts or bar, so the Court always includes civil law expertise.
+  source: https://laws-lois.justice.gc.ca/eng/acts/S-26/FullText.html
+
+- id: law-scc-reference
+  pages: [learn/law/supreme-court]
+  tags: [courts, constitution]
+  type: single
+  question: What is a "reference" to the Supreme Court?
+  options:
+    - A government asking the Court for its opinion on a legal question
+    - A letter of recommendation for a new judge
+    - An appeal brought by a private citizen
+    - A request to reopen a criminal trial
+  answer: 0
+  explanation: >
+    The federal cabinet can refer important legal questions directly to the
+    Supreme Court, as it did in the 1998 Secession Reference. Provinces refer
+    questions to their own courts of appeal.
+  source: https://laws-lois.justice.gc.ca/eng/acts/S-26/FullText.html
+
+- id: law-judicial-independence
+  pages: [learn/law/judges]
+  tags: [courts]
+  type: multi
+  question: Which of these are parts of judicial independence in Canada? (Choose all that apply.)
+  options:
+    - Security of tenure
+    - Financial security
+    - Administrative independence
+    - Approval of rulings by the Minister of Justice
+  answer: [0, 1, 2]
+  explanation: >
+    Judicial independence rests on security of tenure, financial security and
+    administrative independence. Ministers have no say over how judges decide
+    cases.
+  source: https://www.justice.gc.ca/eng/csj-sjc/ccs-ajc/05.html
+
+- id: law-judge-removal
+  pages: [learn/law/judges]
+  tags: [courts, parliament]
+  type: single
+  question: What is needed to remove a federally appointed superior court judge?
+  options:
+    - A decision by the Prime Minister alone
+    - An inquiry by the Canadian Judicial Council and a joint address of Parliament
+    - A public recall vote
+    - A majority vote of the judge's colleagues
+  answer: 1
+  explanation: >
+    Superior court judges hold office during good behaviour until 75. Removal
+    requires a joint address of the Senate and House of Commons, after an
+    investigation by the Canadian Judicial Council.
+  source: https://www.justice.gc.ca/eng/csj-sjc/ccs-ajc/05.html

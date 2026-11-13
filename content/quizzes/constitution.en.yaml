@@ -1,0 +1,225 @@
+# Question bank: The Constitution
+# Format: see SITEMAP.md, section "Quizzes".
+
+- id: constitution-supreme-law
+  pages: [learn/constitution]
+  tags: [constitution, courts]
+  type: single
+  question: What happens to an ordinary law that conflicts with the Constitution?
+  options:
+    - It stays in force until Parliament repeals it
+    - It has no force or effect, to the extent of the conflict
+    - The Governor General decides which one applies
+    - It applies only in the province that passed it
+  answer: 1
+  explanation: >
+    Section 52 of the Constitution Act, 1982 makes the Constitution the supreme
+    law of Canada. A conflicting law is of no force or effect to the extent of the
+    inconsistency, and the courts decide when that's the case.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-13.html
+
+- id: constitution-1982-added
+  pages: [learn/constitution, learn/constitution/patriation-1982]
+  tags: [constitution, charter]
+  type: multi
+  question: Which of these did the Constitution Act, 1982 add? (Choose all that apply.)
+  options:
+    - The Canadian Charter of Rights and Freedoms
+    - A Canadian procedure for amending the Constitution
+    - The division of powers between Parliament and the provinces
+    - Recognition of existing Aboriginal and treaty rights
+  answer: [0, 1, 3]
+  explanation: >
+    The 1982 Act added the Charter (Part I), section 35 on Aboriginal and treaty
+    rights (Part II) and the amending formula (Part V). The division of powers
+    comes from the Constitution Act, 1867.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-12.html
+
+- id: constitution-1982-replaced-1867
+  pages: [learn/constitution, learn/constitution/constitution-act-1867]
+  tags: [constitution]
+  type: true-false
+  question: The Constitution Act, 1982 replaced the Constitution Act, 1867.
+  answer: false
+  explanation: >
+    The 1982 Act added to the Constitution. Most of the 1867 Act, including the
+    division of powers in sections 91 and 92, is still in force.
+  source: https://laws-lois.justice.gc.ca/eng/const/
+
+- id: constitution-conventions-enforced
+  pages: [learn/constitution, learn/constitution/conventions]
+  tags: [conventions, courts]
+  type: single
+  question: How are constitutional conventions, such as the rule that the government needs the confidence of the House, enforced?
+  options:
+    - By the Supreme Court, like any other law
+    - Politically, through Parliament, voters and public opinion
+    - By the British Parliament
+    - They aren't followed in practice
+  answer: 1
+  explanation: >
+    In the 1981 Patriation Reference, the Supreme Court said courts can recognize
+    that a convention exists but won't enforce it. The consequences of breaking a
+    convention are political.
+  source: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/2519/index.do  # unverified link (Patriation Reference; site returns 403 to automated fetches)
+
+- id: constitution-quebec-bound
+  pages: [learn/constitution, learn/constitution/patriation-1982]
+  tags: [constitution, quebec]
+  type: single
+  question: Quebec's government never agreed to the 1982 constitutional package. What is Quebec's legal position today?
+  options:
+    - The Constitution Act, 1982 doesn't apply in Quebec
+    - Only the Charter doesn't apply in Quebec
+    - Quebec is legally bound by the Constitution Act, 1982 like every other province
+    - Quebec can opt out of it by holding a referendum
+  answer: 2
+  explanation: >
+    In the 1982 Quebec Veto Reference, the Supreme Court held that Quebec had no
+    veto over patriation. The Act applies in Quebec, even though no Quebec
+    government has formally endorsed it.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-13.html  # check: find a verifiable link to the Quebec Veto Reference, [1982] 2 S.C.R. 793
+
+- id: constitution-1867-no-pm
+  pages: [learn/constitution/constitution-act-1867, learn/constitution/conventions]
+  tags: [constitution, conventions]
+  type: true-false
+  question: The Constitution Act, 1867 creates the office of Prime Minister and sets out its powers.
+  answer: false
+  explanation: >
+    The 1867 Act vests executive power in the Crown and doesn't create the office
+    of Prime Minister. The Prime Minister's role comes almost entirely from
+    convention.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-1.html
+
+- id: constitution-1867-original-name
+  pages: [learn/constitution/constitution-act-1867]
+  tags: [constitution, history]
+  type: single
+  question: Before 1982, what was the Constitution Act, 1867 called?
+  options:
+    - The Act of Union
+    - The British North America Act
+    - The Statute of Westminster
+    - The Quebec Act
+  answer: 1
+  explanation: >
+    It was the British North America Act, 1867, and was renamed in 1982. The Act
+    of Union (1840), the Quebec Act (1774) and the Statute of Westminster (1931)
+    are different laws.
+  source: https://laws-lois.justice.gc.ca/eng/const/endNotes.html
+
+- id: constitution-living-tree
+  pages: [learn/constitution/constitution-act-1867]
+  tags: [constitution, courts]
+  type: single
+  question: What does "living tree" interpretation mean?
+  options:
+    - The Constitution can be read to grow with changing times, within its natural limits
+    - Only the original 1867 meaning of the Constitution counts
+    - Each province can interpret the Constitution its own way
+    - The Constitution must be rewritten every generation
+  answer: 0
+  explanation: >
+    The phrase comes from the 1929 Persons Case, which held that women were
+    "persons" eligible for the Senate. Courts read the Constitution as able to
+    grow and adapt, rather than frozen in 1867.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-1.html  # check: find a primary source for the Persons Case (Edwards v. Canada (AG), 1929)
+
+- id: constitution-why-uk-amended
+  pages: [learn/constitution/patriation-1982]
+  tags: [constitution, history]
+  type: single
+  question: Why did the British Parliament still formally amend Canada's Constitution until 1982?
+  options:
+    - Britain still governed Canada's domestic affairs
+    - Canadian governments couldn't agree on a Canadian amending formula
+    - The Supreme Court of Canada required it
+    - Quebec insisted on it
+  answer: 1
+  explanation: >
+    Canada governed itself well before 1982. The 1931 Statute of Westminster left
+    the BNA Acts out at Canada's request because Ottawa and the provinces had no
+    agreed amending formula to replace the British Parliament.
+  source: https://www.legislation.gov.uk/ukpga/Geo5/22-23/4
+
+- id: constitution-meech-charlottetown
+  pages: [learn/constitution/patriation-1982]
+  tags: [constitution, quebec]
+  type: single
+  question: What happened to the Meech Lake (1987) and Charlottetown (1992) accords?
+  options:
+    - Both became part of the Constitution
+    - Meech Lake passed, but Charlottetown failed
+    - Both failed
+    - Both are still waiting for ratification
+  answer: 2
+  explanation: >
+    Meech Lake lapsed in 1990 when Manitoba and Newfoundland didn't ratify it in
+    time. Charlottetown was rejected in a 1992 referendum, including by about 57%
+    of voters in Quebec.
+  source: https://www.electionsquebec.qc.ca/en/results-and-statistics/referendum-on-the-charlottetown-constitutional-accord/
+
+- id: constitution-general-formula
+  pages: [learn/constitution, learn/constitution/amending-formula]
+  tags: [constitution, amendment]
+  type: single
+  question: Under the general amending formula, who must approve most constitutional amendments?
+  options:
+    - Parliament alone, by a two-thirds vote
+    - Parliament plus at least 7 provinces with at least 50% of the population of all the provinces
+    - All ten provinces, with no role for Parliament
+    - Voters in a national referendum
+  answer: 1
+  explanation: >
+    Section 38 requires resolutions of the Senate, the House of Commons and the
+    legislatures of at least two-thirds of the provinces representing at least
+    half the population. No referendum is legally required.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-13.html
+
+- id: constitution-unanimity-matters
+  pages: [learn/constitution/amending-formula]
+  tags: [constitution, amendment, monarchy]
+  type: multi
+  question: Which of these changes need the consent of Parliament and all ten provinces? (Choose all that apply.)
+  options:
+    - Changing the office of the King or Governor General
+    - Changing the composition of the Supreme Court
+    - Changing the method of selecting senators
+    - Changing the amending formula itself
+  answer: [0, 1, 3]
+  explanation: >
+    Section 41 requires unanimity for the office of the Queen (now King), the
+    Governor General and Lieutenant Governors; the composition of the Supreme
+    Court; and changes to the amending formula, among others. Senate selection
+    falls under the 7/50 formula (s. 42).
+  source: https://laws-lois.justice.gc.ca/eng/const/page-13.html
+
+- id: constitution-regional-veto
+  pages: [learn/constitution/amending-formula]
+  tags: [constitution, amendment]
+  type: true-false
+  question: The 1996 "regional veto" law is part of the Constitution and can only be changed by constitutional amendment.
+  answer: false
+  explanation: >
+    An Act respecting constitutional amendments is an ordinary federal law. It
+    stops federal ministers from proposing most amendments without regional
+    consent, but Parliament could repeal it.
+  source: https://laws-lois.justice.gc.ca/eng/acts/C-36.7/FullText.html
+
+- id: constitution-convention-test
+  pages: [learn/constitution/conventions]
+  tags: [conventions]
+  type: single
+  question: Which of these is NOT part of the test the Supreme Court used in 1981 to identify a convention?
+  options:
+    - Are there precedents?
+    - Did the people involved believe they were bound by the rule?
+    - Is there a good reason for the rule?
+    - Has a court previously enforced the rule?
+  answer: 3
+  explanation: >
+    The Court used a three-part test: precedents, belief that the rule is binding,
+    and a reason for the rule. Courts don't enforce conventions, so prior
+    enforcement can't be part of the test.
+  source: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/2519/index.do  # unverified link (Patriation Reference; site returns 403 to automated fetches)

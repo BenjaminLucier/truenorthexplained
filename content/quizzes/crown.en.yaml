@@ -1,0 +1,194 @@
+# Question bank: The Crown
+# Format: see SITEMAP.md, section "Quizzes".
+# Note: "Who is Canada's head of state?" already lives in big-picture.en.yaml
+# (big-picture-head-of-state) and is tagged with learn/crown.
+
+- id: crown-reigns-not-rules
+  pages: [learn/crown]
+  tags: [monarchy, conventions]
+  type: single
+  question: When the Governor General gives royal assent or appoints ministers, whose decision is it in practice?
+  options:
+    - The Governor General's personal choice
+    - The King's personal choice, sent from London
+    - The elected government's, because by convention the Governor General acts on its advice
+    - The Senate's
+  answer: 2
+  explanation: >
+    By convention, the Crown's representative acts on the advice of ministers who
+    have the confidence of the House of Commons. The Crown "reigns but does not
+    rule", apart from rare reserve powers.
+  source: https://www.gg.ca/en/governor-general/role-and-responsibilities/constitutional-duties
+
+- id: crown-uk-government-role
+  pages: [learn/crown]
+  tags: [monarchy]
+  type: true-false
+  question: The British government can advise the King on Canadian matters.
+  answer: false
+  explanation: >
+    The King of Canada's role is legally separate from his British one. On
+    Canadian matters he acts only on Canadian advice; the British government has
+    no role.
+  source: https://www.canada.ca/en/canadian-heritage/services/crown-canada/monarch.html
+
+- id: crown-what-the-crown-means
+  pages: [learn/crown]
+  tags: [monarchy, courts]
+  type: single
+  question: In a criminal case called "R. v. Smith", what does the "R" stand for?
+  options:
+    - Rex or Regina, the King or Queen, representing the state
+    - The Royal Canadian Mounted Police
+    - "Respondent"
+    - The province where the case is heard
+  answer: 0
+  explanation: >
+    "R" is short for Rex (King) or Regina (Queen). Crimes are prosecuted in the
+    name of the Crown, meaning the state.
+  source: https://www.justice.gc.ca/eng/csj-sjc/just/index.html
+
+- id: crown-divisible
+  pages: [learn/crown, learn/crown/governor-general]
+  tags: [monarchy, federalism]
+  type: single
+  question: Who represents the King for a province's government, such as Ontario's?
+  options:
+    - The Governor General
+    - The Premier
+    - The province's Lieutenant Governor
+    - The provincial Chief Justice
+  answer: 2
+  explanation: >
+    Each province has a Lieutenant Governor who represents the King for that
+    province and acts on the advice of the provincial government.
+  source: https://www.canada.ca/en/canadian-heritage/services/crown-canada/lieutenant-governors.html
+
+- id: crown-gg-appointment
+  pages: [learn/crown, learn/crown/governor-general]
+  tags: [monarchy]
+  type: single
+  question: How is the Governor General chosen?
+  options:
+    - Elected by Canadians every five years
+    - Elected by the House of Commons
+    - Appointed by the King on the advice of the Prime Minister
+    - Chosen by the British government
+  answer: 2
+  explanation: >
+    The King appoints the Governor General on the Prime Minister's advice. The
+    usual term is about five years.
+  source: https://www.canada.ca/en/canadian-heritage/services/crown-canada/governor-general.html
+
+- id: crown-lg-appointment
+  pages: [learn/crown/governor-general]
+  tags: [monarchy, federalism]
+  type: single
+  question: Who appoints a province's Lieutenant Governor?
+  options:
+    - The Governor General, on the Prime Minister's advice
+    - The province's Premier
+    - The provincial legislature, by vote
+    - The King, on the Premier's advice
+  answer: 0
+  explanation: >
+    Section 58 of the Constitution Act, 1867 has the Governor General in Council
+    appoint Lieutenant Governors. In practice, the Prime Minister recommends them.
+  source: https://www.canada.ca/en/canadian-heritage/services/crown-canada/lieutenant-governors.html
+
+- id: crown-administrator
+  pages: [learn/crown/governor-general]
+  tags: [monarchy, courts]
+  type: single
+  question: If the Governor General is absent or the office is vacant, who acts as Administrator of the Government of Canada?
+  options:
+    - The Prime Minister
+    - The Speaker of the Senate
+    - The Chief Justice of Canada
+    - The longest-serving Lieutenant Governor
+  answer: 2
+  explanation: >
+    The Chief Justice of the Supreme Court of Canada serves as Administrator of
+    the Government until the Governor General returns or a new one is sworn in.
+  source: https://www.canada.ca/en/canadian-heritage/services/crown-canada/governor-general.html
+
+- id: crown-reserve-powers-purpose
+  pages: [learn/crown, learn/crown/reserve-powers]
+  tags: [monarchy, conventions]
+  type: single
+  question: What are the Governor General's reserve powers mainly for?
+  options:
+    - Vetoing laws the Governor General disagrees with
+    - Protecting responsible government in rare crises, such as when it's unclear who has the House's confidence
+    - Choosing cabinet ministers
+    - Setting the federal budget
+  answer: 1
+  explanation: >
+    Reserve powers let the Crown act without advice only in exceptional
+    situations, to make sure Canada has a government that has the confidence of
+    the House. They aren't a tool for policy decisions.
+  source: https://www.gg.ca/en/governor-general/role-and-responsibilities/constitutional-duties
+
+- id: crown-king-byng
+  pages: [learn/crown/reserve-powers]
+  tags: [monarchy, history]
+  type: single
+  question: In the 1926 King–Byng affair, what did Governor General Lord Byng do?
+  options:
+    - Dismissed the Prime Minister for corruption
+    - Refused the Prime Minister's request to dissolve Parliament and call an election
+    - Refused royal assent to a budget
+    - Prorogued Parliament to avoid a confidence vote
+  answer: 1
+  explanation: >
+    Byng refused Mackenzie King's request for an election. King resigned, Arthur
+    Meighen's government lost a confidence vote within days, and King won the
+    election that followed.
+  source: https://www.thecanadianencyclopedia.ca/en/article/king-byng-affair
+
+- id: crown-2008-prorogation
+  pages: [learn/crown/reserve-powers]
+  tags: [monarchy, parliament]
+  type: single
+  question: Why was the Governor General's decision to prorogue Parliament in December 2008 controversial?
+  options:
+    - Parliament had only just been elected that week
+    - It let a minority government avoid a confidence vote it expected to lose
+    - The Governor General acted without any request from the Prime Minister
+    - It cancelled the next election
+  answer: 1
+  explanation: >
+    The opposition parties planned to defeat the government and replace it with a
+    coalition. Proroguing ended the session before the vote. People still disagree
+    about whether the Governor General should have agreed.
+  source: https://www.ourcommons.ca/procedure/our-procedure/
+
+- id: crown-republic-unanimity
+  pages: [learn/crown, learn/crown/republic-question, learn/constitution/amending-formula]
+  tags: [monarchy, constitution, amendment]
+  type: single
+  question: What would it take to abolish the monarchy in Canada?
+  options:
+    - A majority vote in the House of Commons
+    - A national referendum with over 50% support
+    - Resolutions of the Senate, the House of Commons and all ten provincial legislatures
+    - Parliament plus seven provinces with half the population
+  answer: 2
+  explanation: >
+    Section 41(a) of the Constitution Act, 1982 requires unanimity for changes to
+    the office of the Queen (now King), the Governor General and the Lieutenant
+    Governors. A referendum isn't legally required, though many expect one.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-13.html
+
+- id: crown-succession-change
+  pages: [learn/crown/republic-question]
+  tags: [monarchy, courts]
+  type: true-false
+  question: Canada needed a unanimous constitutional amendment to change the rules of royal succession in 2013.
+  answer: false
+  explanation: >
+    Parliament assented to the changes with an ordinary law, the Succession to the
+    Throne Act, 2013. The Quebec Court of Appeal upheld it in 2019, finding the
+    rules of succession aren't part of Canada's Constitution, and the Supreme
+    Court declined to hear an appeal.
+  source: https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2013_6/FullText.html
