@@ -1,0 +1,263 @@
+---
+/**
+ * The A–Z glossary on /glossary, from the `glossary` collection
+ * (content/glossary/<slug>.en.md; see ARCHITECTURE.md, "Glossary").
+ *
+ * Same structure as the page had when it was one markdown file: an `<h2 id="a">`
+ * per letter and an `<h3 id="<slug>">` per term, so every `/glossary#slug` link
+ * still lands. Under each definition:
+ *
+ *   Explained in   the term's `see` pages, then pages whose `about:` lists it
+ *   Mentioned in   other pages linking to it (entity links or plain /glossary#slug
+ *                  links, from mentions() in src/lib/semantic.ts)
+ *
+ * Inside the page's prose, so headings and definitions keep the article styles;
+ * the extra parts are `not-prose` and left out of the search index.
+ *
+ * Progressive enhancement: with JavaScript, a filter box narrows the list by
+ * term (and aliases). Without it (`scripting: none`) the box isn't shown.
+ */
+import { definitionHtml, glossaryEntries } from "../../lib/glossary";
+import { mentions, pagesAbout } from "../../lib/semantic";
+import { allPages, href } from "../../lib/site";
+
+interface Link {
+  href: string;
+  label: string;
+}
+
+const entries = await glossaryEntries();
+const bySlug = new Map(entries.map((e) => [e.id, e]));
+const titles = new Map((await allPages()).map((p) => [href(p.id), p.data.title]));
+const pathOf = (page: string) => page.replace(/[#?].*$/, "").replace(/(.)\/$/, "$1");
+
+const terms = await Promise.all(
+  entries.map(async (entry) => {
+    const id = `term:${entry.id}`;
+    const target = entry.data.alias_of ? bySlug.get(entry.data.alias_of) : undefined;
+    const explained: Link[] = [];
+    const seen = new Set<string>(["/glossary"]);
+    for (const s of entry.data.see ?? []) {
+      const link: { page: string; label?: string } = typeof s === "string" ? { page: s } : s;
+      const path = pathOf(link.page);
+      const label = link.label ?? titles.get(path);
+      if (!label) throw new Error(`content/glossary/${entry.id}.en.md: see: no page at "${link.page}"`);
+      explained.push({ href: link.page, label });
+      seen.add(path);
+    }
+    for (const page of await pagesAbout(id)) {
+      if (seen.has(href(page.id))) continue;
+      seen.add(href(page.id));
+      explained.push({ href: href(page.id), label: page.data.title });
+    }
+    const mentioned: Link[] = (await mentions(id)).pages
+      .filter((p) => !seen.has(href(p.id)))
+      .map((p) => ({ href: href(p.id), label: p.data.title }))
+      .sort((a, b) => a.label.localeCompare(b.label, "en"));
+    const keywords = [entry.data.term, ...(entry.data.aliases ?? [])].join(" | ");
+    return { entry, target, explained, mentioned, keywords, html: definitionHtml(entry) };
+  }),
+);
+
+const letters = [...new Set(terms.map((t) => t.entry.letter))];
+const byLetter = letters.map((letter) => ({ letter, terms: terms.filter((t) => t.entry.letter === letter) }));
+---
+
+<tn-glossary class="gl block">
+  <div class="gl-tools not-prose" data-pagefind-ignore>
+    <nav aria-label="Glossary letters" class="gl-az">
+      <ul>
+        {letters.map((l) => (
+          <li>
+            <a href={`#${l.toLowerCase()}`}>{l}</a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+    <div class="gl-filter">
+      <label for="gl-filter-input">Filter terms</label>
+      <input id="gl-filter-input" type="search" autocomplete="off" spellcheck="false" placeholder="e.g. senate" aria-describedby="gl-filter-status" />
+      <p id="gl-filter-status" role="status" class="gl-status"></p>
+    </div>
+  </div>
+
+  {
+    byLetter.map(({ letter, terms }) => (
+      <section class="gl-letter" aria-labelledby={letter.toLowerCase()}>
+        <h2 id={letter.toLowerCase()}>{letter}</h2>
+        {terms.map(({ entry, target, explained, mentioned, keywords, html }) => (
+          <div class="gl-entry" data-keywords={keywords}>
+            <h3 id={entry.id}>{entry.display}</h3>
+            {target ? (
+              <div class="gl-def">
+                <p>
+                  See <a href={`/glossary#${target.id}`}>{target.display}</a>.
+                </p>
+              </div>
+            ) : (
+              <div class="gl-def" set:html={`<p>${html}</p>`} />
+            )}
+            {(explained.length > 0 || mentioned.length > 0) && (
+              <dl class="gl-meta not-prose" data-pagefind-ignore>
+                {explained.length > 0 && (
+                  <div>
+                    <dt>Explained in</dt>
+                    <dd>
+                      {explained.map((l, i) => (
+                        <Fragment>
+                          {i > 0 && ", "}
+                          <a href={l.href}>{l.label}</a>
+                        </Fragment>
+                      ))}
+                    </dd>
+                  </div>
+                )}
+                {mentioned.length > 0 && (
+                  <div>
+                    <dt>Mentioned in</dt>
+                    <dd>
+                      {mentioned.map((l, i) => (
+                        <Fragment>
+                          {i > 0 && ", "}
+                          <a href={l.href}>{l.label}</a>
+                        </Fragment>
+                      ))}
+                    </dd>
+                  </div>
+                )}
+              </dl>
+            )}
+          </div>
+        ))}
+      </section>
+    ))
+  }
+  <p class="gl-none not-prose" hidden>No terms match. Try a shorter word.</p>
+</tn-glossary>
+
+<style is:global>
+  @reference "../../styles/global.css";
+
+  /* Global, but every rule sits under .gl: scoped styles would stamp an attribute on ~3,000 elements. */
+  .gl .gl-tools {
+    @apply mb-8 flex flex-col gap-4;
+  }
+  .gl .gl-az ul {
+    @apply m-0 flex list-none flex-wrap gap-1 p-0;
+  }
+  .gl .gl-az a {
+    @apply flex size-8 items-center justify-center rounded-md border border-subtle text-sm font-semibold text-secondary no-underline transition-colors hover:border-accent hover:text-accent;
+  }
+  .gl .gl-filter {
+    @apply flex flex-wrap items-center gap-x-3 gap-y-1;
+  }
+  .gl .gl-filter label {
+    @apply text-sm font-medium text-primary;
+  }
+  .gl .gl-filter input {
+    @apply min-w-0 flex-1 basis-48 rounded-md border border-strong bg-surface px-3 py-1.5 text-base text-primary placeholder:text-muted sm:max-w-xs;
+  }
+  .gl .gl-status {
+    @apply m-0 w-full text-sm text-muted;
+  }
+  @media (scripting: none) {
+    .gl .gl-filter {
+      display: none;
+    }
+  }
+  /* Each letter sits in a <section>, so undo prose's "first h2 has no rule above it". */
+  .gl .gl-letter > h2:first-child {
+    @apply mt-10 border-t border-subtle pt-6;
+  }
+  .gl .gl-entry > h3 {
+    @apply mt-7 mb-1;
+  }
+  .gl .gl-def > p {
+    @apply my-0;
+  }
+  .gl .gl-meta {
+    @apply mt-1.5 mb-0 text-sm leading-snug text-muted;
+  }
+  .gl .gl-meta > div + div {
+    @apply mt-0.5;
+  }
+  .gl .gl-meta dt {
+    @apply inline font-medium text-secondary;
+  }
+  .gl .gl-meta dt::after {
+    content: ": ";
+  }
+  .gl .gl-meta dd {
+    @apply m-0 inline;
+  }
+  .gl .gl-meta a {
+    @apply text-muted underline decoration-strong underline-offset-2 transition-colors hover:text-accent hover:decoration-accent;
+  }
+  .gl .gl-none {
+    @apply mt-6 text-secondary;
+  }
+  .gl [hidden] {
+    display: none;
+  }
+</style>
+
+<script>
+  /** Narrows the A–Z list to the terms (and aliases) containing what's typed. */
+  const fold = (s: string) =>
+    s
+      .normalize("NFD")
+      .replace(/[̀-ͯ]/g, "")
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, " ")
+      .trim();
+
+  class TnGlossary extends HTMLElement {
+    connectedCallback() {
+      const input = this.querySelector<HTMLInputElement>("#gl-filter-input");
+      const status = this.querySelector<HTMLElement>("#gl-filter-status");
+      const none = this.querySelector<HTMLElement>(".gl-none");
+      if (!input || !status || !none) return;
+      const sections = [...this.querySelectorAll<HTMLElement>(".gl-letter")].map((section) => ({
+        section,
+        entries: [...section.querySelectorAll<HTMLElement>(".gl-entry")].map((el) => ({ el, text: fold(el.dataset.keywords ?? "") })),
+      }));
+      const letters = new Map([...this.querySelectorAll<HTMLAnchorElement>(".gl-az a")].map((a) => [a.hash.slice(1), a.parentElement!]));
+      const apply = () => {
+        const q = fold(input.value);
+        let shown = 0;
+        for (const { section, entries } of sections) {
+          let any = false;
+          for (const { el, text } of entries) {
+            const match = !q || text.includes(q);
+            el.hidden = !match;
+            if (match) (any = true), shown++;
+          }
+          section.hidden = !any;
+          const li = letters.get(section.querySelector("h2")?.id ?? "");
+          if (li) li.hidden = !any;
+        }
+        none.hidden = shown > 0;
+        status.textContent = q ? `${shown} ${shown === 1 ? "term matches" : "terms match"}` : "";
+      };
+      input.addEventListener("input", apply);
+      input.addEventListener("keydown", (e) => {
+        if (e.key === "Escape" && input.value) {
+          input.value = "";
+          apply();
+        }
+      });
+      // A link to a hidden term (from a popover, say) clears the filter first.
+      addEventListener("hashchange", () => {
+        const target = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+        if (target && this.contains(target) && target.closest("[hidden]")) {
+          input.value = "";
+          apply();
+          target.scrollIntoView();
+        }
+      });
+      if (input.value) apply();
+    }
+  }
+
+  customElements.define("tn-glossary", TnGlossary);
+</script>

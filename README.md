@@ -40,7 +40,7 @@ pnpm dev                                 # http://localhost:4321
 | `pnpm build` | Static build into `dist/` (validates all front matter and quiz data), then builds the Pagefind search index in `dist/pagefind/` |
 | `pnpm preview` | Serve the built site, with working search |
 | `pnpm check` | Type-check `.ts` and `.astro` files |
-| `pnpm validate` | Check internal links, quiz page references, entity ids (links, `about:`, entity YAML) and fact keys |
+| `pnpm validate` | Check internal links, quiz page references, entity ids (links, `about:`, entity YAML), glossary term files and fact keys |
 | `pnpm test` | Unit tests (Vitest) for the pure logic in `src/lib` and the widgets: `tests/unit/` |
 | `pnpm test:e2e` | Build, then run the browser tests (Playwright, Chromium) against `astro preview` on port 4630: every page at phone and desktop width in both themes (console errors, failed requests, overflow, axe), plus smoke tests of the interactive parts. `tests/e2e/`. To re-run against an existing build: `pnpm exec playwright test` |
 | `pnpm review` | Regenerate [REVIEW.md](REVIEW.md), the list of facts and links awaiting review |
@@ -72,10 +72,11 @@ content/            All site content (the source of truth)
   provinces/        13 provinces and territories
   quizzes/          The global question bank (YAML)
   entities/         The entity registry: institutions, documents, cases, events, people (YAML)
+  glossary/         One file per glossary term (<slug>.en.md), listed on /glossary
   facts.yaml        Changing values that can't be derived from src/data
   *.en.md           Home, glossary, timeline, myths, sources, about
 src/
-  content.config.ts Collections and schemas for pages and quiz questions
+  content.config.ts Collections and schemas for pages, glossary terms and quiz questions
   pages/            Routes
   layouts/          Page shells
   components/       Header, footer, icons, quiz pieces

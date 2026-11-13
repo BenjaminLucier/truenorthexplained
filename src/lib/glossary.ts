@@ -1,13 +1,17 @@
 /**
- * Glossary definitions, extracted at build time from the glossary page itself
- * (content/glossary.en.md), so the definitions have a single source.
+ * Glossary definitions (Astro side), from the `glossary` collection: one file
+ * per term in content/glossary/<slug>.en.md (see src/lib/glossary-terms.ts and
+ * ARCHITECTURE.md, "Glossary"). Used by the popovers on content pages and by
+ * the A–Z list on /glossary (src/widgets/glossary).
  *
- * Each entry there is a `### Term {#slug}` heading followed by one paragraph.
- * The paragraph's trailing "See: …" links are dropped, and an entry that only
- * points elsewhere ("See [Officers of Parliament](/glossary#…)") resolves to
- * that entry's definition.
+ * An alias entry (`alias_of`) has no definition of its own: the popover shows
+ * the target's, and the A–Z list shows "See <target>".
  */
-import { getPage, type Page } from "./site";
+import { getCollection, type CollectionEntry } from "astro:content";
+import { compareTerms, displayTerm, letterOf } from "./glossary-terms";
+import type { Page } from "./site";
+
+export type GlossaryEntry = CollectionEntry<"glossary">;
 
 export interface GlossaryTerm {
   slug: string;
@@ -16,23 +20,29 @@ export interface GlossaryTerm {
   html: string;
 }
 
-const ENTRY = /<h3[^>]*\bid="([^"]+)"[^>]*>([\s\S]*?)<\/h3>\s*<p>([\s\S]*?)<\/p>/g;
-const ALIAS = /^See <a href="\/glossary#([^"]+)">/;
-const stripTags = (html: string) => html.replace(/<[^>]+>/g, "");
 const flattenLinks = (html: string) => html.replace(/<a\b[^>]*>([\s\S]*?)<\/a>/g, "$1");
 
+/** The definition's rendered HTML without the paragraph round it: inline HTML. */
+export const definitionHtml = (entry: GlossaryEntry): string =>
+  (entry.rendered?.html ?? "")
+    .trim()
+    .replace(/^<p>([\s\S]*)<\/p>$/, "$1")
+    .trim();
+
+/** Every glossary entry, in A–Z order, with the letter it is listed under and the term as displayed. */
+export async function glossaryEntries(): Promise<(GlossaryEntry & { letter: string; display: string })[]> {
+  return (await getCollection("glossary"))
+    .sort((a, b) => compareTerms(a.data.term, b.data.term))
+    .map((e) => ({ ...e, letter: letterOf(e.data.term), display: displayTerm(e.data.term) }));
+}
+
 export async function glossaryTerms(): Promise<Map<string, GlossaryTerm>> {
-  const html = (await getPage("glossary")).rendered?.html ?? "";
-  const raw = new Map<string, { term: string; body: string }>();
-  for (const [, slug, term, body] of html.matchAll(ENTRY)) {
-    if (slug && term && body) raw.set(slug, { term: stripTags(term).trim(), body });
-  }
+  const entries = await getCollection("glossary");
+  const bySlug = new Map(entries.map((e) => [e.id, e]));
   const terms = new Map<string, GlossaryTerm>();
-  for (const [slug, { term, body }] of raw) {
-    const target = body.match(ALIAS)?.[1];
-    const source = target && raw.get(target) ? raw.get(target)!.body : body;
-    const definition = flattenLinks(source.replace(/\s*See:\s[\s\S]*$/, "")).trim();
-    terms.set(slug, { slug, term, html: definition });
+  for (const entry of entries) {
+    const target = entry.data.alias_of ? bySlug.get(entry.data.alias_of) : undefined;
+    terms.set(entry.id, { slug: entry.id, term: displayTerm(entry.data.term), html: flattenLinks(definitionHtml(target ?? entry)) });
   }
   return terms;
 }

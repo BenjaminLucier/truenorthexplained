@@ -8,7 +8,7 @@
  *   doc:<slug>/s<NN>     a section, nested under its document in documents.yaml
  *   case:<slug>          content/entities/cases.yaml
  *   event:<slug>         content/entities/events.yaml
- *   term:<slug>          the glossary (see glossaryTermSources below)
+ *   term:<slug>          content/glossary/<slug>.en.md (see glossaryTermSources below)
  *
  * Plain Node on purpose (node:fs and yaml only, no `astro:` imports): the
  * markdown plugins load it from the Astro config, scripts/validate.ts loads it
@@ -23,6 +23,7 @@
 import { createHash } from "node:crypto";
 import { existsSync, readFileSync } from "node:fs";
 import { parse } from "yaml";
+import { checkTerms, firstSentence, readTermFiles } from "./glossary-terms";
 import { slugify } from "./ids";
 import { fromRoot } from "./project-root";
 
@@ -322,23 +323,25 @@ export function resetEntities(): void {
 }
 
 /**
- * The glossary terms that become `term:` entities.
- *
- * For now these come from the `### Term {#slug}` headings in
- * content/glossary.en.md. A later change moves the glossary to one file per
- * term (content/glossary/<slug>.en.md, front matter `term`); only this
- * function needs to change then.
+ * The glossary terms that become `term:` entities: one per file in
+ * content/glossary/<slug>.en.md (src/lib/glossary-terms.ts reads and checks
+ * them). The summary is the definition's first sentence; an alias
+ * ("alias_of") takes its target's.
  */
-export function glossaryTermSources(): { slug: string; name: string; source: string }[] {
-  const rel = "content/glossary.en.md";
-  const path = fromRoot(rel);
-  if (!existsSync(path)) return [];
-  const out: { slug: string; name: string; source: string }[] = [];
-  for (const m of readFileSync(path, "utf8").matchAll(/^###\s+(.+?)\s*\{#([^}\s]+)\}\s*$/gm)) {
-    const name = m[1]!.replace(/[*_`]/g, "").trim();
-    out.push({ slug: m[2]!, name, source: rel });
-  }
-  return out;
+export function glossaryTermSources(): {
+  terms: { slug: string; name: string; aliases: string[]; summary?: string; source: string }[];
+  problems: string[];
+} {
+  const { terms, problems } = readTermFiles();
+  problems.push(...checkTerms(terms));
+  const bySlug = new Map(terms.map((t) => [t.slug, t]));
+  return {
+    terms: terms.map((t) => {
+      const body = t.aliasOf ? (bySlug.get(t.aliasOf)?.body ?? "") : t.body;
+      return { slug: t.slug, name: t.term, aliases: t.aliases, summary: body ? firstSentence(body) : undefined, source: t.source };
+    }),
+    problems,
+  };
 }
 
 interface DerivedPerson {
@@ -655,8 +658,10 @@ function load(): Registry {
   });
 
   // --- Glossary terms -----------------------------------------------------
-  for (const t of glossaryTermSources()) {
-    put({ id: `term:${t.slug}`, type: "term", slug: t.slug, name: t.name, aliases: [], href: `/glossary#${t.slug}`, source: t.source });
+  const glossary = glossaryTermSources();
+  for (const message of glossary.problems) problems.add(message.split(": ")[0]!, undefined, message.slice(message.indexOf(": ") + 2));
+  for (const t of glossary.terms) {
+    put({ id: `term:${t.slug}`, type: "term", slug: t.slug, name: t.name, aliases: t.aliases, summary: t.summary, href: `/glossary#${t.slug}`, source: t.source });
   }
 
   // --- Cross-references ---------------------------------------------------
