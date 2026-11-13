@@ -13,7 +13,8 @@
     "check": "astro sync && tsc --noEmit --runExternalCode",
     "validate": "tsx scripts/validate.ts",
     "review": "tsx scripts/validate.ts --review",
-    "data:elections": "tsx scripts/data/elections.ts"
+    "data:elections": "tsx scripts/data/elections.ts",
+    "data:population": "tsx scripts/data/province-population.ts"
   },
   "dependencies": {
     "astro": "7.4.11"

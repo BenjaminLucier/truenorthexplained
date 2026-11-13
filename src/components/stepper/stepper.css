@@ -1,0 +1,77 @@
+/*
+ * Shared styles for step-through widgets (see src/scripts/stepper.ts).
+ * Imported by StepperControls.astro, so any widget that uses the controls gets them.
+ * The widget's root element carries the .tn-stepper class.
+ */
+@reference "../../styles/global.css";
+
+/* Without JavaScript: a numbered list. */
+.tn-stepper .steps {
+  @apply list-none space-y-6 ps-0;
+  counter-reset: step;
+}
+.tn-stepper .step {
+  counter-increment: step;
+}
+.tn-stepper .step-kicker {
+  @apply text-xs font-semibold tracking-wide text-muted uppercase;
+}
+.tn-stepper .step-kicker::before {
+  content: counter(step) ". ";
+}
+
+/* With JavaScript: all steps share one grid cell, so the height never jumps. */
+.tn-stepper[data-js] .steps {
+  @apply grid space-y-0;
+}
+.tn-stepper[data-js] .step {
+  grid-area: 1 / 1;
+}
+.tn-stepper[data-js] .step:not([data-current]) {
+  visibility: hidden;
+}
+.tn-stepper[data-js] .step-kicker::before {
+  content: none;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .tn-stepper[data-js] .step[data-current] {
+    animation: tn-step-in 200ms ease-out;
+  }
+}
+@keyframes tn-step-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+}
+
+/* Progress dots */
+.tn-stepper .dot {
+  @apply flex min-w-11 cursor-pointer flex-col items-center gap-1 rounded-md px-1 pb-1 text-muted transition-colors hover:text-primary disabled:cursor-not-allowed disabled:opacity-50 disabled:hover:text-muted;
+}
+.tn-stepper .dot-mark {
+  @apply block size-6 rounded-full border-2 border-strong bg-surface transition-[background-color,border-color,transform];
+}
+.tn-stepper .dot-text {
+  @apply text-[0.6875rem] leading-none font-medium whitespace-nowrap;
+}
+.tn-stepper .dot[data-state="done"] .dot-mark {
+  @apply border-accent bg-accent-soft;
+}
+.tn-stepper .dot[data-state="current"] {
+  @apply text-accent opacity-100;
+}
+.tn-stepper .dot[data-state="current"] .dot-mark {
+  @apply scale-110 border-accent bg-accent;
+}
+.tn-stepper .dot[data-state="current"] .dot-text {
+  @apply font-bold;
+}
+
+/* Previous / next */
+.tn-stepper .step-btn {
+  @apply inline-flex items-center gap-1.5 rounded-full border border-strong px-3.5 py-2 text-sm font-semibold text-primary transition-colors hover:bg-surface-muted disabled:cursor-not-allowed disabled:opacity-40 disabled:hover:bg-transparent sm:px-4;
+}
+.tn-stepper .step-btn-primary {
+  @apply border-accent bg-accent text-accent-contrast hover:bg-accent-hover disabled:hover:bg-accent;
+}

@@ -51,7 +51,7 @@ flowchart TD
     CMAC --> SCC
 ```
 
-<!-- visual: clickable court map; tap a court to see example cases and the names it uses in each province -->
+<tn-widget name="court-map"></tn-widget>
 
 ### Provincial and territorial courts
 

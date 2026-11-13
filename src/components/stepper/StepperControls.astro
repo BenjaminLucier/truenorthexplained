@@ -1,0 +1,25 @@
+---
+/** Previous / position / next controls for a step-through widget (see src/scripts/stepper.ts). */
+import Icon from "../Icon.astro";
+import "./stepper.css";
+
+interface Props {
+  /** Shown under the controls on wider screens. */
+  hint?: string;
+}
+const { hint = "Tip: use the left and right arrow keys to move between steps." } = Astro.props;
+---
+
+<div data-enhanced hidden class="mt-5 flex items-center justify-between gap-3 border-t border-subtle pt-4">
+  <button type="button" data-prev class="step-btn">
+    <Icon name="ArrowLeft" class="size-4" />
+    Previous
+  </button>
+  <p data-position class="text-sm whitespace-nowrap text-muted tabular-nums"></p>
+  <button type="button" data-next class="step-btn step-btn-primary">
+    Next
+    <Icon name="ArrowRight" class="size-4" />
+  </button>
+</div>
+<p data-enhanced hidden class="mt-2 hidden text-center text-xs text-muted sm:block">{hint}</p>
+<p data-live class="sr-only" aria-live="polite"></p>

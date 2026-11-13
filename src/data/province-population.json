@@ -1,0 +1,71 @@
+{
+  "_meta": {
+    "source": "Statistics Canada, Table 98-10-0001-01 Population and dwelling counts (2021 Census)",
+    "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000101",
+    "licence": "Statistics Canada Open Licence",
+    "fetched": "2026-11-13",
+    "census": 2021
+  },
+  "provinces": [
+    {
+      "id": "british-columbia",
+      "geo": "British Columbia",
+      "abbr": "BC",
+      "population": 5000879
+    },
+    {
+      "id": "alberta",
+      "geo": "Alberta",
+      "abbr": "AB",
+      "population": 4262635
+    },
+    {
+      "id": "saskatchewan",
+      "geo": "Saskatchewan",
+      "abbr": "SK",
+      "population": 1132505
+    },
+    {
+      "id": "manitoba",
+      "geo": "Manitoba",
+      "abbr": "MB",
+      "population": 1342153
+    },
+    {
+      "id": "ontario",
+      "geo": "Ontario",
+      "abbr": "ON",
+      "population": 14223942
+    },
+    {
+      "id": "quebec",
+      "geo": "Quebec",
+      "abbr": "QC",
+      "population": 8501833
+    },
+    {
+      "id": "new-brunswick",
+      "geo": "New Brunswick",
+      "abbr": "NB",
+      "population": 775610
+    },
+    {
+      "id": "nova-scotia",
+      "geo": "Nova Scotia",
+      "abbr": "NS",
+      "population": 969383
+    },
+    {
+      "id": "prince-edward-island",
+      "geo": "Prince Edward Island",
+      "abbr": "PE",
+      "population": 154331
+    },
+    {
+      "id": "newfoundland-and-labrador",
+      "geo": "Newfoundland and Labrador",
+      "abbr": "NL",
+      "population": 510550
+    }
+  ]
+}

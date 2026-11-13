@@ -82,6 +82,8 @@ flowchart TD
    House's confidence. By convention, this isn't a personal choice. It follows the election
    result.
 
+<tn-widget name="election-to-government"></tn-widget>
+
 Strictly speaking, Canada never stops having a Prime Minister. The sitting PM stays in office
 through the election and either carries on or resigns so the winner can be sworn in.
 

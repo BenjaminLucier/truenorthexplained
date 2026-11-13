@@ -101,7 +101,8 @@ Because they're unwritten, conventions evolve:
 | How does it change? | Amendment or new legislation | Changing practice and agreement |
 | Example | Senators retire at 75 (s. 29) | The PM resigns or seeks an election after losing confidence |
 
-<!-- visual: toggle between "the Constitution as written" and "as practised" -->
+<tn-widget name="conventions-toggle"></tn-widget>
+<!-- check: conventions-toggle repeats the table above, including the Senate row ("generally doesn't block bills"), which carries the same convention-or-practice question -->
 
 ## Sources
 

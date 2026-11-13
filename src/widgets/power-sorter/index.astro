@@ -1,0 +1,648 @@
+---
+/**
+ * "Who does what?" Sort powers into Federal, Provincial or Shared.
+ *
+ * Three ways to move a card, all ending in the same move():
+ *   - drag it (pointer events, so mouse, pen and touch; on touch, drag by the grip)
+ *   - tap/click it to pick it up, then tap a column
+ *   - use its Federal / Provincial / Shared buttons (always keyboard accessible)
+ *
+ * Without JavaScript it renders the answers as a table.
+ * Props: set="federalism" (default, fuller) or set="1867" (s. 91/92 focus).
+ */
+import Icon from "../../components/Icon.astro";
+import { cardsFor, columns, type Answer } from "./cards";
+
+interface Props {
+  set?: string;
+}
+const { set = "federalism" } = Astro.props;
+const deck = cardsFor(set);
+const LAWS = "https://laws-lois.justice.gc.ca/eng/const/page-3.html";
+const uid = `sorter-${set}`;
+const answerLabel = Object.fromEntries(columns.map((c) => [c.id, c.label])) as Record<Answer, string>;
+const columnIcon = { federal: "Landmark", provincial: "MapPin", shared: "Handshake" } as const;
+---
+
+<tn-power-sorter
+  class="not-prose my-10 block rounded-card border border-subtle bg-surface p-5 shadow-card sm:p-6"
+  data-set={set}
+>
+  <section aria-labelledby={`${uid}-title`}>
+    <p class="text-xs font-semibold tracking-wide text-accent uppercase">Sorting game</p>
+    <p id={`${uid}-title`} class="mt-1 text-lg font-bold tracking-tight text-primary">Who does what?</p>
+    <p class="mt-1 text-sm text-secondary" id={`${uid}-help`}>
+      <span data-static>Each power, who holds it, and where the Constitution Act, 1867 says so.</span>
+      <span data-enhanced hidden>
+        Sort each power into Federal, Provincial or Shared. Drag a card, tap a card and then a column, or use the buttons
+        on each card. Then check your answers.
+      </span>
+    </p>
+
+    <!-- Without JavaScript: the answers as a table. -->
+    <div data-static class="mt-4 overflow-x-auto rounded-lg border border-subtle">
+      <table class="w-full text-left text-sm">
+        <thead class="bg-surface-muted text-primary">
+          <tr>
+            <th scope="col" class="px-3 py-2">Power</th>
+            <th scope="col" class="px-3 py-2">Who</th>
+            <th scope="col" class="px-3 py-2">Why</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-subtle align-top text-secondary">
+          {
+            deck.map((c) => (
+              <tr>
+                <td class="px-3 py-2 font-medium text-primary">{c.label}</td>
+                <td class="px-3 py-2">{answerLabel[c.answer]}</td>
+                <td class="px-3 py-2">
+                  <a href={`${LAWS}#${c.anchor}`} class="link">
+                    {c.section}
+                  </a>
+                  : {c.why}
+                </td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+
+    <div data-enhanced hidden class="mt-5">
+      <div class="zone pile" data-zone="pile" role="group" aria-labelledby={`${uid}-pile`}>
+        <p id={`${uid}-pile`} class="zone-title">
+          To sort <span class="zone-count" data-count></span>
+        </p>
+        <ul class="pile-list" role="list" data-list>
+          {
+            deck.map((c) => (
+              <li class="card" data-card={c.id} data-answer={c.answer}>
+                <button
+                  type="button"
+                  class="card-grab"
+                  aria-pressed="false"
+                  aria-describedby={`${uid}-help`}
+                  data-grab
+                >
+                  <span class="card-grip" data-grip>
+                    <Icon name="GripVertical" class="size-4" />
+                  </span>
+                  <span class="card-label">{c.label}</span>
+                </button>
+                <div class="card-moves" role="group" aria-label={`Move ${c.label} to`}>
+                  {columns.map((col) => (
+                    <button type="button" class="move" data-move={col.id} aria-pressed="false">
+                      {col.label}
+                    </button>
+                  ))}
+                </div>
+                <div class="card-result" data-result hidden>
+                  <p class="flex items-center gap-1.5 font-semibold" data-verdict>
+                    <span class="mark-right"><Icon name="CircleCheck" class="size-4" /></span>
+                    <span class="mark-wrong"><Icon name="CircleX" class="size-4" /></span>
+                    <span data-verdict-text />
+                  </p>
+                  <p class="mt-1 text-secondary">
+                    <a href={`${LAWS}#${c.anchor}`} class="link">
+                      {c.section}
+                    </a>
+                    : {c.why}
+                  </p>
+                </div>
+              </li>
+            ))
+          }
+        </ul>
+        <p class="pile-empty" data-empty hidden>All sorted. Check your answers below.</p>
+      </div>
+
+      <div class="columns mt-4">
+        {
+          columns.map((col) => (
+            <div class="zone column" data-zone={col.id} aria-labelledby={`${uid}-${col.id}`} role="group">
+              <div class="zone-head">
+                <p id={`${uid}-${col.id}`} class="zone-title">
+                  <Icon name={columnIcon[col.id]} class="size-4 text-muted" />
+                  {col.label}
+                  <span class="zone-count" data-count />
+                </p>
+                <p class="text-xs text-muted">{col.hint}</p>
+              </div>
+              <button type="button" class="place" data-place={col.id} hidden>
+                Place here
+              </button>
+              <ul class="column-list" role="list" data-list />
+            </div>
+          ))
+        }
+      </div>
+
+      <div class="mt-5 flex flex-wrap items-center gap-3 border-t border-subtle pt-4">
+        <button type="button" class="btn btn-primary" data-check aria-disabled="true">
+          <Icon name="ListChecks" class="size-4" />
+          Check answers
+        </button>
+        <button type="button" class="btn" data-retry hidden>
+          <Icon name="Shuffle" class="size-4" />
+          Try again
+        </button>
+        <p class="text-sm text-muted" data-note></p>
+      </div>
+      <div class="score mt-4 rounded-lg p-4" data-score hidden>
+        <p class="text-lg font-bold text-primary" data-score-text></p>
+        <div class="mt-2 h-2 overflow-hidden rounded-full bg-surface-sunken" aria-hidden="true">
+          <div class="h-full rounded-full bg-success" data-score-bar></div>
+        </div>
+        <p class="mt-2 text-sm text-secondary">Each card now shows the answer and the section of the Constitution behind it.</p>
+      </div>
+      <p class="sr-only" aria-live="polite" data-live></p>
+    </div>
+  </section>
+</tn-power-sorter>
+
+<style>
+  @reference "../../styles/global.css";
+
+  .link {
+    @apply font-medium text-accent underline decoration-accent/40 underline-offset-3 hover:text-accent-hover hover:decoration-accent;
+  }
+
+  /* Zones */
+  .zone {
+    @apply rounded-lg border-2 border-dashed border-subtle p-3 transition-colors;
+  }
+  .zone-title {
+    @apply flex items-center gap-1.5 text-sm font-semibold text-primary;
+  }
+  .zone-count {
+    @apply ms-auto rounded-full bg-surface-muted px-2 text-xs font-medium text-muted tabular-nums;
+  }
+  .pile {
+    @apply border-solid bg-surface-muted;
+  }
+  .pile .zone-count {
+    @apply bg-surface;
+  }
+  .pile-list {
+    @apply mt-2 grid list-none gap-2 ps-0 sm:grid-cols-2 md:grid-cols-3;
+  }
+  .pile-list:empty {
+    @apply hidden;
+  }
+  .pile-empty {
+    @apply mt-2 text-sm text-secondary;
+  }
+  .columns {
+    @apply grid gap-3 md:grid-cols-3;
+  }
+  .column {
+    @apply flex min-h-36 flex-col;
+  }
+  .zone-head {
+    @apply pb-2;
+  }
+  .column-list {
+    @apply grid flex-1 list-none content-start gap-2 ps-0;
+  }
+  tn-power-sorter[data-armed] .column {
+    @apply cursor-pointer border-accent/60 bg-accent-soft/40;
+  }
+  .zone[data-over] {
+    @apply border-solid border-accent bg-accent-soft;
+  }
+  .place {
+    @apply mb-2 rounded-full border border-accent bg-surface px-3 py-1 text-xs font-semibold text-accent hover:bg-accent hover:text-accent-contrast;
+  }
+
+  /* Cards */
+  .card {
+    @apply rounded-lg border border-strong bg-surface shadow-card;
+  }
+  .card-grab {
+    @apply flex w-full cursor-grab items-center gap-2 rounded-t-lg px-2.5 pt-2 pb-1 text-start font-semibold text-primary select-none;
+  }
+  .card-grab:active {
+    @apply cursor-grabbing;
+  }
+  .card-grip {
+    @apply -m-1 flex items-center rounded p-1 text-muted;
+    touch-action: none;
+  }
+  .card-grab[aria-pressed="true"] {
+    @apply bg-accent-soft;
+  }
+  .card:has(.card-grab[aria-pressed="true"]) {
+    @apply border-accent ring-2 ring-accent/40;
+  }
+  .card[data-dragging] {
+    @apply opacity-40;
+  }
+  .card-moves {
+    @apply flex gap-1 px-2.5 pb-2.5;
+  }
+  .move {
+    @apply flex-1 rounded-md border border-subtle px-1 py-1 text-xs font-medium text-secondary transition-colors hover:border-accent hover:text-primary;
+  }
+  .move[aria-pressed="true"] {
+    @apply border-accent bg-accent text-accent-contrast;
+  }
+  .card-result {
+    @apply border-t border-subtle px-2.5 py-2 text-sm;
+  }
+  .mark-right,
+  .mark-wrong {
+    @apply hidden;
+  }
+  .card[data-verdict="right"] {
+    @apply border-success;
+  }
+  .card[data-verdict="right"] [data-verdict] {
+    @apply text-success;
+  }
+  .card[data-verdict="right"] .mark-right,
+  .card[data-verdict="wrong"] .mark-wrong {
+    @apply block;
+  }
+  .card[data-verdict="wrong"] {
+    @apply border-danger;
+  }
+  .card[data-verdict="wrong"] [data-verdict] {
+    @apply text-danger;
+  }
+  tn-power-sorter[data-checked] .pile,
+  tn-power-sorter[data-checked] .card-moves {
+    @apply hidden;
+  }
+  tn-power-sorter[data-checked] .card-grab {
+    @apply cursor-default pb-0;
+  }
+  tn-power-sorter[data-checked] .card-grip {
+    @apply hidden;
+  }
+
+  /* The card that follows the pointer while dragging */
+  :global(.tn-drag-ghost) {
+    @apply pointer-events-none fixed top-0 left-0 z-50 rounded-lg border border-accent bg-surface px-3 py-2 font-semibold text-primary shadow-card;
+    box-shadow: 0 8px 24px rgb(0 0 0 / 0.18);
+  }
+
+  .btn {
+    @apply inline-flex items-center gap-1.5 rounded-full border border-strong px-4 py-2 text-sm font-semibold text-primary transition-colors hover:bg-surface-muted;
+  }
+  .btn-primary {
+    @apply border-accent bg-accent text-accent-contrast hover:bg-accent-hover;
+  }
+  .btn[aria-disabled="true"] {
+    @apply cursor-not-allowed opacity-50 hover:bg-accent;
+  }
+  .score {
+    @apply bg-surface-muted;
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .card {
+      animation: card-in 160ms ease-out;
+    }
+    [data-score-bar] {
+      @apply transition-[width] duration-500;
+    }
+  }
+  @keyframes card-in {
+    from {
+      opacity: 0.4;
+      transform: scale(0.98);
+    }
+  }
+</style>
+
+<script>
+  type Zone = "pile" | "federal" | "provincial" | "shared";
+  const LABELS: Record<Zone, string> = {
+    pile: "the unsorted pile",
+    federal: "Federal",
+    provincial: "Provincial",
+    shared: "Shared",
+  };
+  const DRAG_THRESHOLD = 6;
+
+  interface Drag {
+    card: HTMLElement;
+    pointerId: number;
+    startX: number;
+    startY: number;
+    active: boolean;
+    ghost?: HTMLElement;
+    over?: HTMLElement;
+    x: number;
+    y: number;
+    raf?: number;
+  }
+
+  class PowerSorter extends HTMLElement {
+    private selected?: HTMLElement;
+    private drag?: Drag;
+    private suppressClick = false;
+    private live!: HTMLElement;
+
+    connectedCallback() {
+      for (const el of this.querySelectorAll<HTMLElement>("[data-static]")) el.hidden = true;
+      for (const el of this.querySelectorAll<HTMLElement>("[data-enhanced]")) el.hidden = false;
+      this.live = this.querySelector<HTMLElement>("[data-live]")!;
+      this.shuffle();
+      this.update();
+
+      this.addEventListener("click", (e) => this.onClick(e));
+      this.addEventListener("keydown", (e) => {
+        if (e.key === "Escape" && this.selected) {
+          this.select(undefined);
+          this.say("Card put down.");
+        }
+      });
+      this.addEventListener("pointerdown", (e) => this.onPointerDown(e));
+      this.addEventListener("pointermove", (e) => this.onPointerMove(e));
+      this.addEventListener("pointerup", (e) => this.onPointerUp(e));
+      this.addEventListener("pointercancel", () => this.endDrag());
+    }
+
+    // ---- State helpers -------------------------------------------------
+
+    private zoneOf(card: HTMLElement): Zone {
+      return (card.closest<HTMLElement>("[data-zone]")?.dataset.zone ?? "pile") as Zone;
+    }
+
+    private list(zone: Zone): HTMLElement {
+      return this.querySelector<HTMLElement>(`[data-zone="${zone}"] [data-list]`)!;
+    }
+
+    private label(card: HTMLElement): string {
+      return card.querySelector(".card-label")?.textContent?.trim() ?? "";
+    }
+
+    private say(text: string) {
+      // Clear first so repeating the same message is still announced.
+      this.live.textContent = "";
+      requestAnimationFrame(() => (this.live.textContent = text));
+    }
+
+    private get checked() {
+      return this.hasAttribute("data-checked");
+    }
+
+    /** The one place a card changes column. */
+    private move(card: HTMLElement, zone: Zone, focusSelector?: string) {
+      if (this.checked) return;
+      const from = this.zoneOf(card);
+      this.select(undefined);
+      if (from !== zone) this.list(zone).append(card);
+      this.update();
+      if (focusSelector) card.querySelector<HTMLElement>(focusSelector)?.focus();
+      const left = this.list("pile").children.length;
+      this.say(
+        `${this.label(card)} moved to ${LABELS[zone]}.` +
+          (left === 0 ? " All cards sorted. You can check your answers." : ` ${left} left to sort.`),
+      );
+    }
+
+    private select(card: HTMLElement | undefined) {
+      if (this.selected) this.selected.querySelector(".card-grab")!.setAttribute("aria-pressed", "false");
+      this.selected = card;
+      card?.querySelector(".card-grab")!.setAttribute("aria-pressed", "true");
+      this.toggleAttribute("data-armed", !!card);
+      for (const place of this.querySelectorAll<HTMLButtonElement>("[data-place]")) {
+        place.hidden = !card || this.zoneOf(card) === place.dataset.place;
+        if (card) place.setAttribute("aria-label", `Place ${this.label(card)} in ${LABELS[place.dataset.place as Zone]}`);
+      }
+    }
+
+    private update() {
+      for (const zone of this.querySelectorAll<HTMLElement>("[data-zone]")) {
+        const n = zone.querySelector("[data-list]")!.children.length;
+        zone.querySelector("[data-count]")!.textContent = String(n);
+      }
+      for (const card of this.querySelectorAll<HTMLElement>("[data-card]")) {
+        const zone = this.zoneOf(card);
+        for (const btn of card.querySelectorAll<HTMLElement>("[data-move]")) {
+          btn.setAttribute("aria-pressed", String(btn.dataset.move === zone));
+        }
+      }
+      const left = this.list("pile").children.length;
+      this.querySelector<HTMLElement>("[data-empty]")!.hidden = left > 0;
+      const check = this.querySelector<HTMLElement>("[data-check]")!;
+      check.setAttribute("aria-disabled", String(left > 0));
+      const note = this.querySelector<HTMLElement>("[data-note]")!;
+      note.textContent = this.checked ? "" : left > 0 ? `${left} left to sort.` : "Ready when you are.";
+    }
+
+    private shuffle() {
+      const pile = this.list("pile");
+      const cards = [...pile.children];
+      for (let i = cards.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [cards[i], cards[j]] = [cards[j]!, cards[i]!];
+      }
+      pile.append(...cards);
+    }
+
+    // ---- Clicks: card buttons, tap-to-place, check, retry ---------------
+
+    private onClick(e: MouseEvent) {
+      const target = e.target as HTMLElement;
+
+      const moveBtn = target.closest<HTMLElement>("[data-move]");
+      if (moveBtn) {
+        const card = moveBtn.closest<HTMLElement>("[data-card]")!;
+        this.move(card, moveBtn.dataset.move as Zone, `[data-move="${moveBtn.dataset.move}"]`);
+        return;
+      }
+
+      const grab = target.closest<HTMLElement>("[data-grab]");
+      if (grab) {
+        if (this.suppressClick) {
+          this.suppressClick = false;
+          return;
+        }
+        if (this.checked) return;
+        const card = grab.closest<HTMLElement>("[data-card]")!;
+        if (this.selected === card) {
+          this.select(undefined);
+          this.say(`${this.label(card)} put down.`);
+        } else {
+          this.select(card);
+          this.say(`${this.label(card)} picked up. Choose a column to place it in, or press Escape.`);
+        }
+        return;
+      }
+
+      const place = target.closest<HTMLElement>("[data-place]");
+      if (place && this.selected) {
+        const card = this.selected;
+        this.move(card, place.dataset.place as Zone, "[data-grab]");
+        return;
+      }
+
+      if (target.closest("[data-check]")) return this.check();
+      if (target.closest("[data-retry]")) return this.retry();
+
+      // Tapping anywhere in a column (not on a card) places the picked-up card there.
+      const zone = target.closest<HTMLElement>("[data-zone]");
+      if (zone && this.selected && !target.closest("[data-card], a")) {
+        this.move(this.selected, zone.dataset.zone as Zone, "[data-grab]");
+      }
+    }
+
+    private check() {
+      const left = this.list("pile").children.length;
+      if (left > 0) {
+        this.say(`Sort the remaining ${left} card${left === 1 ? "" : "s"} first.`);
+        return;
+      }
+      this.select(undefined);
+      const cards = [...this.querySelectorAll<HTMLElement>("[data-card]")];
+      let right = 0;
+      for (const card of cards) {
+        const answer = card.dataset.answer as Zone;
+        const ok = this.zoneOf(card) === answer;
+        if (ok) right++;
+        card.dataset.verdict = ok ? "right" : "wrong";
+        card.querySelector("[data-verdict-text]")!.textContent = ok ? "Correct" : `Not quite: it's ${LABELS[answer]}`;
+        card.querySelector<HTMLElement>("[data-result]")!.hidden = false;
+        card.querySelector<HTMLElement>("[data-grab]")!.removeAttribute("aria-pressed");
+      }
+      this.setAttribute("data-checked", "");
+      const total = cards.length;
+      const score = this.querySelector<HTMLElement>("[data-score]")!;
+      score.hidden = false;
+      const message =
+        right === total ? `All ${total} right. Well done!` : `You got ${right} of ${total} right.`;
+      score.querySelector("[data-score-text]")!.textContent = message;
+      score.querySelector<HTMLElement>("[data-score-bar]")!.style.width = `${(right / total) * 100}%`;
+      this.querySelector<HTMLElement>("[data-check]")!.hidden = true;
+      const retry = this.querySelector<HTMLElement>("[data-retry]")!;
+      retry.hidden = false;
+      retry.focus();
+      this.update();
+      this.say(`${message} Each card now shows the answer and its section.`);
+    }
+
+    private retry() {
+      this.removeAttribute("data-checked");
+      for (const card of this.querySelectorAll<HTMLElement>("[data-card]")) {
+        delete card.dataset.verdict;
+        card.querySelector<HTMLElement>("[data-result]")!.hidden = true;
+        card.querySelector<HTMLElement>("[data-grab]")!.setAttribute("aria-pressed", "false");
+        this.list("pile").append(card);
+      }
+      this.shuffle();
+      this.querySelector<HTMLElement>("[data-score]")!.hidden = true;
+      this.querySelector<HTMLElement>("[data-retry]")!.hidden = true;
+      this.querySelector<HTMLElement>("[data-check]")!.hidden = false;
+      this.update();
+      this.list("pile").querySelector<HTMLElement>("[data-grab]")?.focus();
+      this.say("Cards shuffled. Start sorting again.");
+    }
+
+    // ---- Drag and drop with pointer events ------------------------------
+
+    private onPointerDown(e: PointerEvent) {
+      if (this.checked || e.button !== 0) return;
+      const grab = (e.target as HTMLElement).closest<HTMLElement>("[data-grab]");
+      if (!grab) return;
+      // On touch screens, only the grip starts a drag, so the page can still scroll.
+      if (e.pointerType === "touch" && !(e.target as HTMLElement).closest("[data-grip]")) return;
+      const card = grab.closest<HTMLElement>("[data-card]")!;
+      this.drag = { card, pointerId: e.pointerId, startX: e.clientX, startY: e.clientY, active: false, x: e.clientX, y: e.clientY };
+    }
+
+    private onPointerMove(e: PointerEvent) {
+      const d = this.drag;
+      if (!d || e.pointerId !== d.pointerId) return;
+      d.x = e.clientX;
+      d.y = e.clientY;
+      if (!d.active) {
+        if (Math.hypot(d.x - d.startX, d.y - d.startY) < DRAG_THRESHOLD) return;
+        this.startDrag(d, e);
+      }
+      e.preventDefault();
+      this.positionGhost(d);
+      this.hitTest(d);
+    }
+
+    private startDrag(d: Drag, e: PointerEvent) {
+      d.active = true;
+      const grab = d.card.querySelector<HTMLElement>("[data-grab]")!;
+      try {
+        grab.setPointerCapture(e.pointerId);
+      } catch {
+        // Synthetic or already-released pointers can't be captured; dragging still works.
+      }
+      this.select(undefined);
+      d.card.dataset.dragging = "";
+      const ghost = document.createElement("div");
+      ghost.className = "tn-drag-ghost";
+      ghost.textContent = this.label(d.card);
+      ghost.setAttribute("aria-hidden", "true");
+      document.body.append(ghost);
+      d.ghost = ghost;
+      const tick = () => {
+        this.autoScroll(d);
+        d.raf = requestAnimationFrame(tick);
+      };
+      d.raf = requestAnimationFrame(tick);
+    }
+
+    private positionGhost(d: Drag) {
+      if (d.ghost) d.ghost.style.transform = `translate(${d.x + 8}px, ${d.y + 8}px)`;
+    }
+
+    private hitTest(d: Drag) {
+      const el = document.elementFromPoint(d.x, d.y);
+      const zone = el?.closest<HTMLElement>("tn-power-sorter [data-zone]");
+      const over = zone && this.contains(zone) ? zone : undefined;
+      if (over === d.over) return;
+      if (d.over) delete d.over.dataset.over;
+      if (over) over.dataset.over = "";
+      d.over = over;
+    }
+
+    /** Scroll the page while dragging near the top or bottom edge, so stacked columns are reachable. */
+    private autoScroll(d: Drag) {
+      const edge = 60;
+      const h = window.innerHeight;
+      let dy = 0;
+      if (d.y < edge) dy = -Math.ceil((edge - d.y) / 4);
+      else if (d.y > h - edge) dy = Math.ceil((d.y - (h - edge)) / 4);
+      if (dy) {
+        window.scrollBy(0, dy);
+        this.hitTest(d);
+      }
+    }
+
+    private onPointerUp(e: PointerEvent) {
+      const d = this.drag;
+      if (!d || e.pointerId !== d.pointerId) return;
+      if (d.active) {
+        this.suppressClick = true;
+        // The click that follows a drag is swallowed in onClick; clear the flag if none comes.
+        setTimeout(() => (this.suppressClick = false), 0);
+        const zone = d.over?.dataset.zone as Zone | undefined;
+        const card = d.card;
+        this.endDrag();
+        if (zone) this.move(card, zone, "[data-grab]");
+      } else {
+        this.drag = undefined;
+      }
+    }
+
+    private endDrag() {
+      const d = this.drag;
+      if (!d) return;
+      if (d.raf) cancelAnimationFrame(d.raf);
+      d.ghost?.remove();
+      if (d.over) delete d.over.dataset.over;
+      delete d.card.dataset.dragging;
+      this.drag = undefined;
+    }
+  }
+
+  customElements.define("tn-power-sorter", PowerSorter);
+</script>

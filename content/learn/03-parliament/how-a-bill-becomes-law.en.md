@@ -55,6 +55,8 @@ flowchart TD
     H --> I[Act of Parliament]
 ```
 
+<tn-widget name="bill-steps"></tn-widget>
+
 1. **First reading.** The bill is introduced and printed. There's no debate and no real
    vote. It's now public.
 2. **Second reading.** MPs debate the bill's **principle**: is this a good idea at all? They

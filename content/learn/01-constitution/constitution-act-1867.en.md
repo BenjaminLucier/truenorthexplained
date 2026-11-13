@@ -41,7 +41,7 @@ The Act is organized into numbered Parts. The ones that still shape daily govern
 | VII. Judicature | ss. 96–101 | The Governor General appoints superior court judges (s. 96). Parliament may create a general court of appeal (s. 101): the legal basis for the Supreme Court of Canada. |
 | IX. Miscellaneous | ss. 127–144 | Includes s. 133: English and French in Parliament, in Quebec's legislature, and in their courts. |
 
-<!-- visual: interactive sorter of s.91 vs s.92 powers (shared with /learn/federalism/division-of-powers) -->
+<tn-widget name="power-sorter" data-set="1867"></tn-widget>
 
 ### The division of powers, briefly
 

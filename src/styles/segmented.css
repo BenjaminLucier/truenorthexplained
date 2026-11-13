@@ -1,0 +1,35 @@
+/*
+ * A native radio group styled as a segmented control. Import this file from a widget's
+ * front matter and use:
+ *
+ *   <fieldset>
+ *     <legend>…</legend>
+ *     <div class="tn-segmented">
+ *       <label><input type="radio" name="x" value="a" checked /><span>A</span></label>
+ *       <label><input type="radio" name="x" value="b" /><span>B</span></label>
+ *     </div>
+ *   </fieldset>
+ *
+ * The input stays real (keyboard, forms, screen readers); it's stretched invisibly over
+ * its label so the whole segment is the hit area and shows the focus ring.
+ */
+@reference "./global.css";
+
+.tn-segmented {
+  @apply grid auto-cols-fr grid-flow-col gap-1 rounded-full border border-strong bg-surface-muted p-1;
+}
+.tn-segmented label {
+  @apply relative flex cursor-pointer items-center justify-center rounded-full px-3 py-2 text-center text-sm font-medium text-secondary transition-colors hover:text-primary;
+}
+.tn-segmented input {
+  @apply absolute inset-0 m-0 cursor-pointer appearance-none rounded-full;
+}
+.tn-segmented input:focus-visible {
+  @apply outline-2 outline-offset-2 outline-focus;
+}
+.tn-segmented label:has(:checked) {
+  @apply bg-accent text-accent-contrast shadow-card hover:text-accent-contrast;
+}
+.tn-segmented label > span {
+  @apply pointer-events-none relative;
+}

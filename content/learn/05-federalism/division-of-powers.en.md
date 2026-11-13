@@ -17,12 +17,8 @@ provincial laws truly conflict, the federal law wins.
 
 ## The details
 
-<!-- visual: interactive sorter. Show a card for each power (e.g. "Banking", "Hospitals",
-"Marriage", "Solemnization of marriage", "Immigration"). The reader drags it to Federal,
-Provincial or Shared, then sees the section number and a one-line explanation. Include
-the trick pairs: marriage and divorce (federal) vs. solemnization of marriage
-(provincial); criminal law (federal) vs. administration of justice (provincial);
-penitentiaries (federal) vs. prisons (provincial). -->
+<tn-widget name="power-sorter" data-set="federalism"></tn-widget>
+<!-- check: power-sorter's "Driver's licences" card cites s. 92(13) and (16) for provincial highway and licensing laws (as in O'Grady v. Sparling, 1960); confirm the heads of power -->
 
 ### How to read the lists
 
