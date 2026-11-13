@@ -1,0 +1,185 @@
+---
+/**
+ * Share of Canadians living in urban areas, census by census, 1871–1971 and
+ * 2021. Data: src/data/demographics/urban-rural.json.
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import { PLOT_W, areaPath, linePath, pct, scale } from "../../lib/charts";
+import data from "../../data/demographics/urban-rural.json";
+import ChartTips from "./ChartTips.astro";
+
+const pts = data.points;
+const hist = pts.filter((p) => p.year <= 1971);
+const now = pts.at(-1)!;
+const first = pts[0]!;
+const half = pts.find((p) => p.urbanPct > 50)!;
+const num = new Intl.NumberFormat("en-CA");
+const fmt = (v: number) => `${v.toFixed(1)}%`;
+const inN = (v: number) => {
+  const n = Math.round(100 / v);
+  return n <= 1 ? "most" : `about one in ${n === 2 ? "two" : n === 3 ? "three" : n === 4 ? "four" : n === 5 ? "five" : n}`;
+};
+
+// The chart stretches to any width while its text stays at real size (see
+// src/lib/charts.ts): x positions are percentages, marks live in a nested SVG.
+const H = 260;
+const T = 18;
+const B = 24;
+const plotH = H - T - B;
+const x = scale(first.year, now.year, 0, PLOT_W);
+const y = scale(0, 100, plotH, 0);
+const label = (p: (typeof pts)[number]) => (p.definition === "population-centre" ? "population centres" : "urban areas");
+const tip = (p: (typeof pts)[number]) =>
+  `Urban: ${fmt(p.urbanPct)} (${num.format(p.urban)})|Rural: ${fmt(100 - p.urbanPct)} (${num.format(p.rural)})|Counted as urban: ${label(p)}`;
+const xTicks = [1871, 1901, 1931, 1961, 2021];
+const lastHist = hist.at(-1)!;
+/** Hit areas: from halfway to the previous census to halfway to the next. */
+const hit = pts.map((p, i) => {
+  const prev = i > 0 ? (x(pts[i - 1]!.year) + x(p.year)) / 2 : x(p.year) - 15;
+  const next = i < pts.length - 1 ? (x(pts[i + 1]!.year) + x(p.year)) / 2 : x(p.year) + 15;
+  return { from: prev, width: next - prev };
+});
+---
+
+<ChartCard
+  title={`Urban and rural Canada, ${first.year} to ${now.year}`}
+  lede={`In ${first.year}, ${inN(first.urbanPct)} Canadians lived in a town or city (${fmt(first.urbanPct)}). City dwellers became the majority between ${pts[pts.indexOf(half) - 1]!.year} and ${half.year}, and by ${now.year}, ${fmt(now.urbanPct)} of Canadians lived in urban areas. The rural population still grew, to ${(now.rural / 1e6).toFixed(1)} million, but only about ${Math.round(now.rural / first.rural)} times its ${first.year} size, against ${Math.round(now.urban / first.urban)} times for towns and cities.`}
+  sources={[
+    { label: "Statistics Canada, table 17-10-0068-01: historical urban and rural population", url: data._meta.urls[0]! },
+    { label: "table 98-10-0008-01: population centres and rural areas, 2021 Census", url: data._meta.urls[1]! },
+  ]}
+  tableLabel="Show the data"
+>
+  <ul class="flex flex-wrap gap-x-5 gap-y-1 text-sm text-secondary">
+    <li class="inline-flex items-center gap-2">
+      <span class="h-0.5 w-5 rounded bg-accent" aria-hidden="true"></span>
+      Share living in urban areas, at each census
+    </li>
+    <li class="inline-flex items-center gap-2">
+      <span class="w-5 border-t-2 border-dashed border-strong" aria-hidden="true"></span>
+      No comparable figures for 1976–2016
+    </li>
+  </ul>
+  <ChartTips label="Urban share by census year" class="mt-3">
+    <svg class="block w-full overflow-visible" height={H} style="font-variant-numeric: tabular-nums">
+      {
+        [0, 25, 50, 75, 100].map((v) => (
+          <g>
+            <line x1="0" x2="100%" y1={T + y(v)} y2={T + y(v)} class:list={[v === 0 ? "stroke-strong" : "stroke-subtle"]} />
+            {v > 0 && (
+              <text x="0" y={T + y(v) - 5} class="fill-muted text-[11px]">
+                {v}%
+              </text>
+            )}
+          </g>
+        ))
+      }
+      <line x1="0" x2="100%" y1={T + y(50)} y2={T + y(50)} class="stroke-muted" stroke-dasharray="4 3" />
+      <text x="100%" y={T + y(50) + 14} text-anchor="end" class="fill-muted text-[11px]">Half the population</text>
+      {
+        xTicks.map((t) => (
+          <text x={pct(x(t))} y={H - 6} text-anchor={t === now.year ? "end" : t === first.year ? "start" : "middle"} class="fill-muted text-[11px]">
+            {t}
+          </text>
+        ))
+      }
+      <svg x="0" y={T} width="100%" height={plotH} viewBox={`0 0 ${PLOT_W} ${plotH}`} preserveAspectRatio="none" overflow="visible">
+        <path d={areaPath(hist.map((p) => [x(p.year), y(p.urbanPct)]), plotH)} class="fill-accent" fill-opacity="0.1" />
+        <path
+          d={linePath(hist.map((p) => [x(p.year), y(p.urbanPct)]))}
+          class="stroke-accent"
+          fill="none"
+          stroke-width="2.5"
+          stroke-linejoin="round"
+          vector-effect="non-scaling-stroke"
+        />
+        <path
+          d={linePath([[x(lastHist.year), y(lastHist.urbanPct)], [x(now.year), y(now.urbanPct)]])}
+          class="stroke-strong"
+          fill="none"
+          stroke-width="2"
+          stroke-dasharray="5 4"
+          vector-effect="non-scaling-stroke"
+        />
+      </svg>
+      <text x={pct(x(half.year))} dx="-6" y={T + y(half.urbanPct) - 12} text-anchor="end" class="fill-secondary text-[11px] font-semibold">
+        {half.year}: {fmt(half.urbanPct)}
+      </text>
+      <text x="100%" dx="-10" y={T + y(now.urbanPct) - 10} text-anchor="end" class="fill-primary text-xs font-semibold">
+        {fmt(now.urbanPct)}
+      </text>
+      {
+        pts.map((p, i) => (
+          <g class="ur-pt" data-tip-title={`${p.year} census`} data-tip={tip(p)}>
+            <rect class="ur-hit" x={pct(hit[i]!.from)} y={T} width={pct(hit[i]!.width)} height={plotH} />
+            <line class="ur-guide" x1={pct(x(p.year))} x2={pct(x(p.year))} y1={T} y2={T + plotH} />
+            <circle
+              cx={pct(x(p.year))}
+              cy={T + y(p.urbanPct)}
+              r="4"
+              class:list={["ur-dot", p.year > lastHist.year ? "fill-surface stroke-accent" : "fill-accent stroke-surface"]}
+              stroke-width="2"
+            />
+          </g>
+        ))
+      }
+    </svg>
+  </ChartTips>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Census</th>
+          <th scope="col">Total population</th>
+          <th scope="col">Urban</th>
+          <th scope="col">Rural</th>
+          <th scope="col">Urban share</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          pts.map((p) => (
+            <tr>
+              <th scope="row" class="font-normal">{p.year}</th>
+              <td>{num.format(p.total)}</td>
+              <td>{num.format(p.urban)}</td>
+              <td>{num.format(p.rural)}</td>
+              <td>{fmt(p.urbanPct)}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <caption>
+        Census counts. Each census used its own definition of "urban": from 1951, roughly places of 1,000 or more people
+        living at least 400 per km². In 2021 the figure is people in population centres, Statistics Canada's term since
+        2011, defined in almost the same way. Statistics Canada's open tables don't give the 1976–2016 censuses on this basis.
+      </caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+<!--
+  Global, not scoped: scoping would stamp an attribute on every mark. The class
+  names are specific to this chart.
+-->
+<style is:global>
+  .ur-hit {
+    fill: transparent;
+  }
+  .ur-guide {
+    stroke: var(--tn-text-muted);
+    stroke-dasharray: 2 2;
+    opacity: 0;
+  }
+  .ur-pt.is-active .ur-guide {
+    opacity: 1;
+  }
+  .ur-pt.is-active .ur-dot {
+    r: 6;
+  }
+  .ur-pt:focus-visible .ur-hit {
+    stroke: var(--tn-focus);
+    stroke-width: 1.5;
+  }
+</style>

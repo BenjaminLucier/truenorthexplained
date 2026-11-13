@@ -1,0 +1,332 @@
+---
+/**
+ * Population pyramid: share of the population in each five-year age group, by
+ * gender, now and 50 years earlier. A segmented control (native radios, so it
+ * works without JavaScript) shows either year or both, with the earlier year
+ * as an outline over the later one. Data: src/data/demographics/age-pyramid.json.
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import { niceMax } from "../../lib/charts";
+import data from "../../data/demographics/age-pyramid.json";
+import ChartTips from "./ChartTips.astro";
+
+const [then, now] = data.years as [(typeof data.years)[number], (typeof data.years)[number]];
+const share = (n: number, total: number) => (100 * n) / total;
+const rows = now.groups
+  .map((g, i) => {
+    const t = then.groups[i]!;
+    if (t.age !== g.age) throw new Error("age-pyramid: age groups don't line up");
+    return {
+      age: g.age,
+      now: { men: share(g.men, now.total), women: share(g.women, now.total), menN: g.men, womenN: g.women },
+      then: { men: share(t.men, then.total), women: share(t.women, then.total), menN: t.men, womenN: t.women },
+    };
+  })
+  .reverse(); // Oldest at the top.
+const max = niceMax(Math.max(...rows.flatMap((r) => [r.now.men, r.now.women, r.then.men, r.then.women])), 4);
+const ticks = [0, max / 4, max / 2, (3 * max) / 4, max].filter((t) => Number.isInteger(t * 2));
+const w = (v: number) => `${((100 * v) / max).toFixed(2)}%`;
+
+const num = new Intl.NumberFormat("en-CA");
+const pc = (v: number) => `${v.toFixed(1)}%`;
+const biggest = (y: typeof then) => y.groups.reduce((a, b) => (b.men + b.women > a.men + a.women ? b : a)).age;
+const senior = (y: typeof then) => share(y.groups.filter((g) => /^(6[5-9]|[7-9]\d)/.test(g.age)).reduce((n, g) => n + g.men + g.women, 0), y.total);
+const children = (y: typeof then) => share(y.groups.filter((g) => ["0–4", "5–9", "10–14"].includes(g.age)).reduce((n, g) => n + g.men + g.women, 0), y.total);
+const millions = (n: number) => `${(n / 1e6).toFixed(1)} million`;
+const tip = (r: (typeof rows)[number]) =>
+  [
+    `${now.year}: men ${pc(r.now.men)} (${num.format(r.now.menN)})`,
+    `${now.year}: women ${pc(r.now.women)} (${num.format(r.now.womenN)})`,
+    `${then.year}: men ${pc(r.then.men)} (${num.format(r.then.menN)})`,
+    `${then.year}: women ${pc(r.then.women)} (${num.format(r.then.womenN)})`,
+  ].join("|");
+---
+
+<ChartCard
+  title={`Canada's population by age, ${then.year} and ${now.year}`}
+  lede={`In ${then.year}, the biggest age group was ${biggest(then)}-year-olds, the baby boom generation, and ${pc(senior(then))} of people were 65 or older. Fifty years later, the boomers are in their 60s and 70s, the biggest group is ${biggest(now)}, and ${pc(senior(now))} are 65 or older. The median age rose from ${then.medianAge} to ${now.medianAge}.`}
+  sources={[{ label: "Statistics Canada, table 17-10-0005-01: population estimates on July 1, by age and gender", url: data._meta.url }]}
+  tableLabel="Show the data"
+>
+  <div class="pp">
+    <div class="flex flex-wrap items-center justify-between gap-3">
+      <fieldset class="pp-seg">
+        <legend class="sr-only">Which year to show</legend>
+        <label><input type="radio" name="pp-year" value="both" class="pp-both" checked /><span>Compare</span></label>
+        <label><input type="radio" name="pp-year" value="now" class="pp-now" /><span>{now.year}</span></label>
+        <label><input type="radio" name="pp-year" value="then" class="pp-then" /><span>{then.year}</span></label>
+      </fieldset>
+      <ul class="flex flex-wrap gap-x-4 gap-y-1 text-xs text-secondary">
+        <li class="inline-flex items-center gap-1.5">
+          <span class="pp-key" style="--c:var(--tn-data-cat-1)" aria-hidden="true"></span>Men+
+        </li>
+        <li class="inline-flex items-center gap-1.5">
+          <span class="pp-key" style="--c:var(--tn-data-cat-2)" aria-hidden="true"></span>Women+
+        </li>
+        <li class="pp-key-then inline-flex items-center gap-1.5">
+          <span class="pp-key pp-key-outline" aria-hidden="true"></span>{then.year}
+        </li>
+      </ul>
+    </div>
+    <p class="pp-caption mt-2 text-xs text-muted">
+      <span class="pp-cap-both">Bars: {now.year}. Outlines: {then.year}.</span>
+      <span class="pp-cap-now">{now.year}: {millions(now.total)} people.</span>
+      <span class="pp-cap-then">{then.year}: {millions(then.total)} people.</span>{" "}
+      Each bar is that group's share of the whole population.
+    </p>
+
+    <div class="pp-head mt-3 text-xs font-semibold text-secondary" aria-hidden="true">
+      <span class="text-end">Men+</span><span></span><span>Women+</span>
+    </div>
+    <ChartTips label="Population by age group">
+      <div class="pp-chart">
+        {
+          rows.map((r) => (
+            <div
+              class="pp-row"
+              data-tip-title={`Age ${r.age}`}
+              data-tip={tip(r)}
+            >
+              <div class="pp-side pp-left">
+                <span class="pp-bar pp-bar-now" style={`--w:${w(r.now.men)};--c:var(--tn-data-cat-1)`} />
+                <span class="pp-bar pp-bar-then" style={`--w:${w(r.then.men)};--c:var(--tn-data-cat-1)`} />
+              </div>
+              <span class="pp-age">{r.age}</span>
+              <div class="pp-side pp-right">
+                <span class="pp-bar pp-bar-now" style={`--w:${w(r.now.women)};--c:var(--tn-data-cat-2)`} />
+                <span class="pp-bar pp-bar-then" style={`--w:${w(r.then.women)};--c:var(--tn-data-cat-2)`} />
+              </div>
+            </div>
+          ))
+        }
+        <div class="pp-axis" aria-hidden="true">
+          <div class="pp-ticks pp-left">
+            {ticks.map((t) => <span style={`--x:${w(t)}`}>{t}%</span>)}
+          </div>
+          <span></span>
+          <div class="pp-ticks pp-right">
+            {ticks.map((t) => <span style={`--x:${w(t)}`}>{t}%</span>)}
+          </div>
+        </div>
+      </div>
+    </ChartTips>
+    <p class="mt-3 text-xs text-muted">
+      Children under 15 were {pc(children(then))} of the population in {then.year} and {pc(children(now))} in {now.year}.
+      "Men+" and "Women+" are Statistics Canada's gender categories, which include non-binary people.
+    </p>
+  </div>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Age</th>
+          <th scope="col">Men+ {then.year}</th>
+          <th scope="col">Women+ {then.year}</th>
+          <th scope="col">Men+ {now.year}</th>
+          <th scope="col">Women+ {now.year}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          rows.map((r) => (
+            <tr>
+              <th scope="row" class="font-normal">{r.age}</th>
+              <td>{num.format(r.then.menN)}</td>
+              <td>{num.format(r.then.womenN)}</td>
+              <td>{num.format(r.now.menN)}</td>
+              <td>{num.format(r.now.womenN)}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <tfoot>
+        <tr>
+          <td>All ages</td>
+          <td colspan="2">{num.format(then.total)}</td>
+          <td colspan="2">{num.format(now.total)}</td>
+        </tr>
+      </tfoot>
+      <caption>
+        Population on July 1. The {now.year} figures are preliminary estimates. Median age: {then.medianAge} in {then.year},
+        {now.medianAge} in {now.year}.
+      </caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+<!--
+  Global, not scoped: scoping would stamp an attribute on every mark. The class
+  names are specific to this chart.
+-->
+<style is:global>
+  .pp-seg {
+    display: inline-flex;
+    gap: 0.25rem;
+    padding: 0.25rem;
+    border: 1px solid var(--tn-border);
+    border-radius: 9999px;
+    background: var(--tn-surface-muted);
+  }
+  .pp-seg label {
+    position: relative;
+    cursor: pointer;
+  }
+  .pp-seg input {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    cursor: pointer;
+  }
+  .pp-seg span {
+    display: block;
+    border-radius: 9999px;
+    padding: 0.3rem 0.8rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--tn-text-secondary);
+  }
+  .pp-seg input:checked + span {
+    background: var(--tn-surface);
+    color: var(--tn-text-primary);
+    box-shadow: var(--shadow-card);
+  }
+  .pp-seg input:focus-visible + span {
+    outline: 2px solid var(--tn-focus);
+    outline-offset: 2px;
+  }
+  .pp-key {
+    width: 0.75rem;
+    height: 0.75rem;
+    border-radius: 0.15rem;
+    background: var(--c);
+  }
+  .pp-key-outline {
+    background: none;
+    border: 1.5px solid var(--tn-text-primary);
+  }
+
+  .pp-head,
+  .pp-row,
+  .pp-axis {
+    display: grid;
+    grid-template-columns: 1fr 3rem 1fr;
+    align-items: center;
+  }
+  .pp-head {
+    margin-bottom: 0.25rem;
+  }
+  .pp-row {
+    height: 1.05rem;
+    cursor: default;
+    border-radius: 2px;
+  }
+  .pp-row.is-active {
+    background: color-mix(in srgb, var(--tn-text-primary) 7%, transparent);
+  }
+  .pp-row:focus-visible {
+    outline: 2px solid var(--tn-focus);
+    outline-offset: 1px;
+  }
+  .pp-age {
+    text-align: center;
+    font-size: 0.6875rem;
+    color: var(--tn-text-muted);
+    font-variant-numeric: tabular-nums;
+  }
+  .pp-side {
+    position: relative;
+    height: 100%;
+    /* Faint gridlines at each tick. */
+    background-image: repeating-linear-gradient(
+      to var(--dir),
+      var(--tn-border) 0 1px,
+      transparent 1px calc(100% / 4)
+    );
+  }
+  .pp-left {
+    --dir: left;
+  }
+  .pp-right {
+    --dir: right;
+  }
+  .pp-bar {
+    position: absolute;
+    top: 1.5px;
+    bottom: 1.5px;
+    width: var(--w);
+  }
+  .pp-left .pp-bar {
+    right: 0;
+  }
+  .pp-right .pp-bar {
+    left: 0;
+  }
+  .pp-bar-now {
+    background: var(--c);
+  }
+  .pp-left .pp-bar-now {
+    border-radius: 3px 0 0 3px;
+  }
+  .pp-right .pp-bar-now {
+    border-radius: 0 3px 3px 0;
+  }
+  /* Compare: the earlier year as an outline over this year's bars. */
+  .pp-bar-then {
+    border: 1.5px solid var(--tn-text-primary);
+    background: none;
+  }
+  .pp-left .pp-bar-then {
+    border-right: 0;
+  }
+  .pp-right .pp-bar-then {
+    border-left: 0;
+  }
+  .pp:has(.pp-now:checked) .pp-bar-then,
+  .pp:has(.pp-then:checked) .pp-bar-now {
+    display: none;
+  }
+  .pp:has(.pp-then:checked) .pp-bar-then {
+    background: var(--c);
+    border: 0;
+  }
+  .pp:not(:has(.pp-both:checked)) .pp-key-then,
+  .pp:not(:has(.pp-both:checked)) .pp-cap-both,
+  .pp:not(:has(.pp-now:checked)) .pp-cap-now,
+  .pp:not(:has(.pp-then:checked)) .pp-cap-then {
+    display: none;
+  }
+
+  .pp-axis {
+    margin-top: 0.25rem;
+    height: 1rem;
+  }
+  .pp-ticks {
+    position: relative;
+    height: 100%;
+    font-size: 0.6875rem;
+    color: var(--tn-text-muted);
+    font-variant-numeric: tabular-nums;
+  }
+  .pp-ticks span {
+    position: absolute;
+    top: 0;
+  }
+  .pp-ticks.pp-left span {
+    right: var(--x);
+    transform: translateX(50%);
+  }
+  .pp-ticks.pp-right span {
+    left: var(--x);
+    transform: translateX(-50%);
+  }
+  .pp-ticks span:first-child {
+    transform: none;
+  }
+  /* Narrow screens: label every other tick so the labels don't collide. */
+  @media (max-width: 30rem) {
+    .pp-ticks span:nth-child(even) {
+      display: none;
+    }
+  }
+</style>

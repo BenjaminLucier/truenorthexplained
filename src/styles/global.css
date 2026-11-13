@@ -47,6 +47,24 @@
   --tn-data-seq-4: #4f93b9;
   --tn-data-seq-5: #2c709d;
   --tn-data-seq-6: #154d76;
+
+  /* Data colours: categorical, for series that are different things (languages,
+     regions of birth). Use in this order, never cycled; the order is what keeps
+     neighbours apart for colour-blind readers (checked with a CVD validator).
+     Slots 3–5 are under 3:1 on white, so charts using them label directly or
+     have a table. Not for UI chrome. */
+  --tn-data-cat-1: #2a78d6;
+  --tn-data-cat-2: #eb6834;
+  --tn-data-cat-3: #1baf7a;
+  --tn-data-cat-4: #eda100;
+  --tn-data-cat-5: #e87ba4;
+
+  /* Data colours: treaty map areas. Historic (pre-1975) and modern treaties,
+     plus a paler historic tint for the Peace and Friendship Treaties, which
+     did not surrender land. */
+  --tn-data-treaty-historic: #f19d78;
+  --tn-data-treaty-pf: #f8d2bf;
+  --tn-data-treaty-modern: #5b9be6;
 }
 
 [data-theme="dark"] {
@@ -83,6 +101,16 @@
   --tn-data-seq-4: #3b86a6;
   --tn-data-seq-5: #62a9c8;
   --tn-data-seq-6: #9ccfe4;
+
+  --tn-data-cat-1: #3987e5;
+  --tn-data-cat-2: #d95926;
+  --tn-data-cat-3: #199e70;
+  --tn-data-cat-4: #c98500;
+  --tn-data-cat-5: #d55181;
+
+  --tn-data-treaty-historic: #a9532f;
+  --tn-data-treaty-pf: #5e3424;
+  --tn-data-treaty-modern: #2f6db8;
 }
 
 /* No-JavaScript fallback: follow the system setting. */
@@ -114,6 +142,16 @@
     --tn-data-seq-4: #3b86a6;
     --tn-data-seq-5: #62a9c8;
     --tn-data-seq-6: #9ccfe4;
+
+    --tn-data-cat-1: #3987e5;
+    --tn-data-cat-2: #d95926;
+    --tn-data-cat-3: #199e70;
+    --tn-data-cat-4: #c98500;
+    --tn-data-cat-5: #d55181;
+
+    --tn-data-treaty-historic: #a9532f;
+    --tn-data-treaty-pf: #5e3424;
+    --tn-data-treaty-modern: #2f6db8;
   }
 }
 
@@ -274,6 +312,14 @@
   --color-data-seq-4: var(--tn-data-seq-4);
   --color-data-seq-5: var(--tn-data-seq-5);
   --color-data-seq-6: var(--tn-data-seq-6);
+  --color-data-cat-1: var(--tn-data-cat-1);
+  --color-data-cat-2: var(--tn-data-cat-2);
+  --color-data-cat-3: var(--tn-data-cat-3);
+  --color-data-cat-4: var(--tn-data-cat-4);
+  --color-data-cat-5: var(--tn-data-cat-5);
+  --color-data-treaty-historic: var(--tn-data-treaty-historic);
+  --color-data-treaty-pf: var(--tn-data-treaty-pf);
+  --color-data-treaty-modern: var(--tn-data-treaty-modern);
 
   --font-sans: "Inter Variable", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
 

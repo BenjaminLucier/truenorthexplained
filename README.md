@@ -44,6 +44,8 @@ pnpm dev                                 # http://localhost:4321
 | `pnpm data:geo` | Re-download province and riding boundaries and population estimates into `src/data/geo/` |
 | `pnpm data:elections` | Re-download 2025 election results, current MPs and senators, and seat allocation into `src/data/elections/`, `src/data/parliament/` and `src/data/population/` |
 | `pnpm data:population` | Re-download 2021 Census population by province (used by the amending-formula widget) |
+| `pnpm data:treaties` | Re-download CIRNAC historic and modern treaty boundaries, simplify them with mapshaper and write `src/data/geo/treaties.topo.json` |
+| `pnpm data:demographics` | Re-download Statistics Canada language, immigrant origin, urban/rural, Indigenous and age-pyramid data into `src/data/demographics/` |
 | `pnpm grounding` | Re-download the Wikipedia/Wikidata grounding corpus, flags and Statistics Canada demographics. See [grounding/README.md](grounding/README.md) |
 
 All downloaded data is committed. Re-running a data script and reading the `git diff` is

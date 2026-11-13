@@ -12,8 +12,9 @@ fetched. This page lists all of it.
 ## Datasets
 
 The charts, timelines and tables on the reference pages ([Prime ministers](/prime-ministers),
-[Monarchs and governors general](/governors-general) and [Demographics](/demographics))
-are built from these datasets when the site is built.
+[Monarchs and governors general](/governors-general) and [Demographics](/demographics)),
+and the [treaty map](/learn/indigenous/treaties), are built from these datasets when the
+site is built.
 
 <tn-widget name="credits" data-part="datasets"></tn-widget>
 
@@ -24,6 +25,10 @@ are built from these datasets when the site is built.
 - **Statistics Canada** data is used under the
   [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada).
   This site is not endorsed by Statistics Canada.
+- **Treaty areas** come from the Historic Treaties and Modern Treaties datasets of
+  Crown–Indigenous Relations and Northern Affairs Canada, used under the
+  [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada).
+  The boundaries are simplified for the map and are not legal boundaries.
 
 ## Flags
 

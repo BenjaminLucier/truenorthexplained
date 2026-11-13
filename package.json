@@ -16,6 +16,8 @@
     "data:elections": "tsx scripts/data/elections.ts",
     "data:geo": "tsx scripts/data/geo.ts",
     "data:population": "tsx scripts/data/province-population.ts",
+    "data:treaties": "tsx scripts/data/treaties.ts",
+    "data:demographics": "tsx scripts/data/demographics.ts",
     "grounding": "tsx scripts/grounding/index.ts"
   },
   "dependencies": {

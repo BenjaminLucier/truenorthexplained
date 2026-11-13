@@ -7,15 +7,37 @@
  *   <tn-widget name="demographics" data-chart="canada"></tn-widget>
  *
  * data-chart: canada | provinces | share | immigration | age | median-age
+ *             | language | immigrant-origins | urban-rural | indigenous | age-pyramid
+ *
+ * The last five are separate components in this folder, with data from
+ * src/data/demographics/ (`pnpm data:demographics`) and hover details through
+ * ChartTips.astro.
  */
 import LineChart from "../../components/reference/LineChart.astro";
 import { PLOT_W, compact, niceMax, pct, scale } from "../../lib/charts";
 import { age, formatNumber, formatPeople, immigration, population, type Point } from "../../lib/reference";
+import AgePyramid from "./AgePyramid.astro";
+import ImmigrantOrigins from "./ImmigrantOrigins.astro";
+import Indigenous from "./Indigenous.astro";
+import Language from "./Language.astro";
+import UrbanRural from "./UrbanRural.astro";
 
 interface Props {
-  chart: "canada" | "provinces" | "share" | "immigration" | "age" | "median-age";
+  chart:
+    | "canada"
+    | "provinces"
+    | "share"
+    | "immigration"
+    | "age"
+    | "median-age"
+    | "language"
+    | "immigrant-origins"
+    | "urban-rural"
+    | "indigenous"
+    | "age-pyramid";
 }
 const { chart } = Astro.props;
+const separate = ["language", "immigrant-origins", "urban-rural", "indigenous", "age-pyramid"].includes(chart);
 
 const latest = population.latestYear;
 const names = new Map(population.geos.map((g) => [g.slug, g.name]));
@@ -122,6 +144,14 @@ const ageMax = niceMax(Math.max(...medianLatest.map((g) => g.value)), 4);
 const ax = scale(0, ageMax, 0, PLOT_W);
 ---
 
+{chart === "language" && <Language />}
+{chart === "immigrant-origins" && <ImmigrantOrigins />}
+{chart === "urban-rural" && <UrbanRural />}
+{chart === "indigenous" && <Indigenous />}
+{chart === "age-pyramid" && <AgePyramid />}
+
+{
+  !separate && (
 <figure class="not-prose my-8 rounded-card border border-subtle bg-surface p-4 shadow-card sm:p-6">
   {
     chart === "canada" && (
@@ -555,3 +585,5 @@ const ax = scale(0, ageMax, 0, PLOT_W);
     . Open Government Licence – Canada.
   </figcaption>
 </figure>
+  )
+}

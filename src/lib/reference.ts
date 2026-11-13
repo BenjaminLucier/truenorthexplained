@@ -14,6 +14,12 @@ import flagData from "../data/flags.json";
 import populationData from "../data/statcan/population.json";
 import immigrationData from "../data/statcan/immigration.json";
 import ageData from "../data/statcan/age.json";
+import languageData from "../data/demographics/language.json";
+import immigrantOriginsData from "../data/demographics/immigrant-origins.json";
+import urbanRuralData from "../data/demographics/urban-rural.json";
+import indigenousData from "../data/demographics/indigenous.json";
+import agePyramidData from "../data/demographics/age-pyramid.json";
+import treatiesMeta from "../data/geo/treaties.topo.meta.json";
 
 // ---------------------------------------------------------------------------
 // Shared shapes
@@ -152,6 +158,12 @@ export const datasets: { id: string; title: string; file: string; meta: DatasetM
   { id: "population", title: "Population by province", file: "src/data/statcan/population.json", meta: meta(populationData) },
   { id: "immigration", title: "Immigration", file: "src/data/statcan/immigration.json", meta: meta(immigrationData) },
   { id: "age", title: "Age of the population", file: "src/data/statcan/age.json", meta: meta(ageData) },
+  { id: "age-pyramid", title: "Population by age and gender", file: "src/data/demographics/age-pyramid.json", meta: meta(agePyramidData) },
+  { id: "urban-rural", title: "Urban and rural population", file: "src/data/demographics/urban-rural.json", meta: meta(urbanRuralData) },
+  { id: "immigrant-origins", title: "Immigrants by place of birth", file: "src/data/demographics/immigrant-origins.json", meta: meta(immigrantOriginsData) },
+  { id: "language", title: "Mother tongue", file: "src/data/demographics/language.json", meta: meta(languageData) },
+  { id: "indigenous", title: "Indigenous population", file: "src/data/demographics/indigenous.json", meta: meta(indigenousData) },
+  { id: "treaties", title: "Treaty areas", file: "src/data/geo/treaties.topo.json", meta: { ...(treatiesMeta as unknown as DatasetMeta) } },
   { id: "flags", title: "Flags", file: "src/data/flags.json", meta: meta(flagData) },
 ];
 

@@ -4,6 +4,8 @@
  *
  *   provinceFeatures()   13 provinces and territories (src/data/geo/provinces.topo.json)
  *   ridingFeatures()     343 federal electoral districts, 2023 Representation Order
+ *   treatyFeatures()     historic and modern treaty areas (src/data/geo/treaties.topo.json)
+ *   outsideHistoricTreaties()  land outside every historic treaty area (same file)
  *   INSETS               lon/lat boxes for the dense cities, for <CanadaMap bounds=…>
  *
  * See CanadaMap.astro for the component and examples.
@@ -13,6 +15,7 @@ import { feature } from "topojson-client";
 import type { Feature, FeatureCollection, GeoJsonProperties, MultiPolygon, Polygon } from "geojson";
 import provincesTopo from "../../data/geo/provinces.topo.json";
 import ridingsTopo from "../../data/geo/ridings.topo.json";
+import treatiesTopo from "../../data/geo/treaties.topo.json";
 import populationData from "../../data/population/provinces.json";
 import { PROVINCES, type ProvinceCode } from "../../lib/elections-constants";
 
@@ -36,6 +39,27 @@ export type RidingProps = {
   province: string;
 }
 
+export type TreatyProps = {
+  /** Stable id, e.g. "treaty-6" (also the feature id). */
+  id: string;
+  name: string;
+  /** Historic (pre-1975) or modern (a comprehensive land claim agreement). */
+  era: "historic" | "modern";
+  /** The dataset's subtype, e.g. "Numbered Treaty". */
+  kind: string;
+  /** Year used for ordering. */
+  year: number;
+  /** Years as displayed, e.g. "1764–1862". */
+  years: string;
+  /** Extra note on the year, or "". */
+  yearNote: string;
+  parties: string;
+  href: string;
+  linkLabel: string;
+  /** 1 for treaties that did not surrender land (Peace and Friendship). */
+  noSurrender: 0 | 1;
+}
+
 export type MapFeature<P extends GeoJsonProperties = GeoJsonProperties> = Feature<Polygon | MultiPolygon, P>;
 
 type Topo = Parameters<typeof feature>[0];
@@ -48,6 +72,8 @@ function toFeatures<P extends GeoJsonProperties>(topo: unknown, object: string):
 
 let provinceCache: MapFeature<ProvinceProps>[] | undefined;
 let ridingCache: MapFeature<RidingProps>[] | undefined;
+let treatyCache: MapFeature<TreatyProps>[] | undefined;
+let outsideCache: MapFeature[] | undefined;
 
 /** The 13 provinces and territories, sorted by PRUID (east to west, then the North). */
 export function provinceFeatures(): MapFeature<ProvinceProps>[] {
@@ -65,6 +91,16 @@ export const population: Record<string, number> = Object.fromEntries([
   ...populationData.provinces.map((p) => [PROVINCES[p.province as ProvinceCode].slug, p.population]),
 ]);
 export const populationPeriod: string = populationData.refDate;
+
+/** Historic treaties by year, then modern treaties by year (a treaty drawn as two areas is one feature). */
+export function treatyFeatures(): MapFeature<TreatyProps>[] {
+  return (treatyCache ??= toFeatures<TreatyProps>(treatiesTopo, "treaties"));
+}
+
+/** Land outside every historic treaty area. Not an official layer: see treaties.topo.meta.json. */
+export function outsideHistoricTreaties(): MapFeature[] {
+  return (outsideCache ??= toFeatures(treatiesTopo, "outside"));
+}
 
 /**
  * Statistics Canada Lambert conformal conic (EPSG:3347): standard parallels

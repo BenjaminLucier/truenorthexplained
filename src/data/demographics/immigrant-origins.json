@@ -1,0 +1,98 @@
+{
+  "_meta": {
+    "source": "Statistics Canada, table 98-10-0302-01: immigrant status and period of immigration by place of birth (2021 Census, 25% sample)",
+    "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810030201",
+    "urls": [
+      "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810030201"
+    ],
+    "licence": "Open Government Licence – Canada",
+    "licenceUrl": "https://www.statcan.gc.ca/en/reference/licence",
+    "fetched": "2026-11-13",
+    "notes": [
+      "Immigrants living in Canada on census day in 2021, by when they first became permanent residents and where they were born. People who arrived long ago and have since died or left are not counted, so earlier periods are smaller than the number who actually came.",
+      "Counts of people born outside Canada with immigrant status. Non-permanent residents are excluded.",
+      "'Oceania and other' combines Oceania, Antarctica and adjacent islands, and other places of birth.",
+      "Counts are rounded by Statistics Canada and come from the long-form (25% sample) questionnaire."
+    ],
+    "script": "scripts/data/demographics.ts"
+  },
+  "regions": [
+    {
+      "key": "europe",
+      "name": "Europe"
+    },
+    {
+      "key": "asia",
+      "name": "Asia"
+    },
+    {
+      "key": "americas",
+      "name": "The Americas"
+    },
+    {
+      "key": "africa",
+      "name": "Africa"
+    },
+    {
+      "key": "other",
+      "name": "Oceania and other"
+    }
+  ],
+  "periods": [
+    {
+      "label": "Before 1980",
+      "total": 1539565,
+      "europe": 925395,
+      "asia": 271090,
+      "americas": 262225,
+      "africa": 62555,
+      "other": 18300
+    },
+    {
+      "label": "1980 to 1990",
+      "total": 923950,
+      "europe": 237980,
+      "asia": 450410,
+      "americas": 175565,
+      "africa": 51785,
+      "other": 8210
+    },
+    {
+      "label": "1991 to 2000",
+      "total": 1511295,
+      "europe": 280455,
+      "asia": 903410,
+      "americas": 201710,
+      "africa": 115325,
+      "other": 10390
+    },
+    {
+      "label": "2001 to 2010",
+      "total": 1930330,
+      "europe": 272215,
+      "asia": 1159640,
+      "americas": 258715,
+      "africa": 229555,
+      "other": 10195
+    },
+    {
+      "label": "2011 to 2015",
+      "total": 1126220,
+      "europe": 117155,
+      "asia": 699240,
+      "americas": 148570,
+      "africa": 155550,
+      "other": 5705
+    },
+    {
+      "label": "2016 to 2021",
+      "total": 1327865,
+      "europe": 134425,
+      "asia": 823205,
+      "americas": 154115,
+      "africa": 206965,
+      "other": 9160
+    }
+  ],
+  "total": 8359220
+}

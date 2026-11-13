@@ -17,7 +17,9 @@ including most of British Columbia, were never covered by treaty at all.
 
 ## The details
 
-<!-- visual: interactive map of historic and modern treaty areas, with unceded areas shaded -->
+<tn-widget name="treaty-map"></tn-widget>
+<!-- check: treaty-map wording for the "not covered by a historic treaty" layer, and the parties listed for each treaty (ANNOTATIONS in scripts/data/treaties.ts) -->
+
 
 ### Where it starts: the Royal Proclamation of 1763
 

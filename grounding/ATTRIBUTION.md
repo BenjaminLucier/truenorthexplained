@@ -39,12 +39,35 @@ generated from the datasets' `_meta` blocks and `src/data/flags.json`.
 - 17-10-0063-01 Historical statistics, estimated population and immigrant arrivals
 - 17-10-0067-01 Historical statistics, population and population density
 
+`src/data/demographics/*.json` (written by `pnpm data:demographics`) comes from these
+tables:
+
+- 15-10-0031-01 Population by mother tongue and geography, 1951 to 2021
+- 17-10-0005-01 Population estimates on July 1, by age and gender (population pyramid)
+- 17-10-0068-01 Historical statistics, urban and rural population (1871 to 1971)
+- 98-10-0008-01 Population and dwelling counts, urban and rural (2021 Census)
+- 98-10-0292-01 Indigenous identity population by gender and age (2011, 2016 and 2021)
+- 98-10-0302-01 Immigrant status and period of immigration by place of birth (2021 Census)
+
 **Licence:** [Statistics Canada Open Licence](https://www.statcan.gc.ca/en/reference/licence),
 consistent with the [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada).
 The licence asks for an acknowledgement such as: *Source: Statistics Canada. Reproduced and distributed on an "as is"
 basis with the permission of Statistics Canada.* This site is not endorsed by Statistics
 Canada. The data has been filtered and reshaped (and shares and rates calculated from
 it); the figures themselves are unchanged.
+
+## Crown–Indigenous Relations and Northern Affairs Canada
+
+`src/data/geo/treaties.topo.json` (written by `pnpm data:treaties`) comes from the
+[Historic Treaties](https://open.canada.ca/data/en/dataset/f281b150-0645-48e4-9c30-01f55f93f78e)
+and [Modern Treaties](https://open.canada.ca/data/en/dataset/be54680b-ea62-46f3-aaa9-7644ed970aef)
+datasets, downloaded from CIRNAC's ArcGIS REST services at geo.sac-isc.gc.ca.
+
+**Licence:** [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada).
+*Contains information licensed under the Open Government Licence – Canada.* The
+boundaries have been simplified, clipped to the coastline and merged where one
+agreement has several parts; treaty names, years, parties and links were added by
+hand in the script.
 
 ## Flags
 

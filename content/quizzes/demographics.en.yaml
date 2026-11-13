@@ -120,3 +120,35 @@
     so its share has dropped from more than a quarter of Canadians in 1951 to about a fifth
     today. Ontario, Alberta and British Columbia have gained ground.
   source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901
+
+- id: demographics-urban-majority
+  pages: [demographics]
+  tags: [census]
+  type: single
+  question: By which census did more than half of Canadians live in urban areas?
+  options:
+    - 1871
+    - 1901
+    - 1931
+    - 1971
+  answer: 2
+  explanation: >
+    In 1871 about one Canadian in five lived in a town or city. The urban share passed
+    half between 1921 and 1931, reaching 53.7% in 1931, and was above 80% by 2021.
+  source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710006801
+
+- id: demographics-immigrant-origins
+  pages: [demographics]
+  tags: [immigration, census]
+  type: single
+  question: Among immigrants who arrived in Canada from 2016 to 2021, which region were most born in?
+  options:
+    - Europe
+    - Asia
+    - The Americas
+    - Africa
+  answer: 1
+  explanation: >
+    About 62% were born in Asia, 16% in Africa and 10% in Europe. Among those who came
+    before 1980 and still lived in Canada in 2021, about 60% were born in Europe.
+  source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810030201

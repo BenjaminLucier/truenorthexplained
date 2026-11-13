@@ -1,0 +1,117 @@
+{
+  "_meta": {
+    "source": "Statistics Canada, tables 17-10-0068-01 and 98-10-0008-01: urban and rural population, 1871–1971 and 2021",
+    "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710006801",
+    "urls": [
+      "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710006801",
+      "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000801"
+    ],
+    "licence": "Open Government Licence – Canada",
+    "licenceUrl": "https://www.statcan.gc.ca/en/reference/licence",
+    "fetched": "2026-11-13",
+    "notes": [
+      "1871–1971: Statistics Canada's historical series of the urban and rural population, each census using its own definition of urban (from 1951, places of 1,000 or more people and a density of at least 400 per km², plus incorporated towns and cities of earlier censuses).",
+      "2021: people living in population centres (at least 1,000 people and 400 per km²) against rural areas. Statistics Canada replaced 'urban area' with 'population centre' in 2011; the two are defined in nearly the same way.",
+      "No open table on www150 gives the 1976–2016 censuses on the same basis, so the series has a gap. The www12 census pages that hold them can't be read by scripts."
+    ],
+    "script": "scripts/data/demographics.ts"
+  },
+  "points": [
+    {
+      "year": 1871,
+      "total": 3689257,
+      "urban": 722343,
+      "rural": 2966914,
+      "urbanPct": 19.6,
+      "definition": "urban"
+    },
+    {
+      "year": 1881,
+      "total": 4324810,
+      "urban": 1109507,
+      "rural": 3215303,
+      "urbanPct": 25.7,
+      "definition": "urban"
+    },
+    {
+      "year": 1891,
+      "total": 4833239,
+      "urban": 1537098,
+      "rural": 3296141,
+      "urbanPct": 31.8,
+      "definition": "urban"
+    },
+    {
+      "year": 1901,
+      "total": 5371315,
+      "urban": 2014222,
+      "rural": 3357093,
+      "urbanPct": 37.5,
+      "definition": "urban"
+    },
+    {
+      "year": 1911,
+      "total": 7206643,
+      "urban": 3272947,
+      "rural": 3933696,
+      "urbanPct": 45.4,
+      "definition": "urban"
+    },
+    {
+      "year": 1921,
+      "total": 8787949,
+      "urban": 4352122,
+      "rural": 4435827,
+      "urbanPct": 49.5,
+      "definition": "urban"
+    },
+    {
+      "year": 1931,
+      "total": 10376786,
+      "urban": 5572058,
+      "rural": 4804728,
+      "urbanPct": 53.7,
+      "definition": "urban"
+    },
+    {
+      "year": 1941,
+      "total": 11506655,
+      "urban": 6252416,
+      "rural": 5254239,
+      "urbanPct": 54.3,
+      "definition": "urban"
+    },
+    {
+      "year": 1951,
+      "total": 14009429,
+      "urban": 7941222,
+      "rural": 6068207,
+      "urbanPct": 56.7,
+      "definition": "urban"
+    },
+    {
+      "year": 1961,
+      "total": 18238247,
+      "urban": 11068848,
+      "rural": 7169399,
+      "urbanPct": 60.7,
+      "definition": "urban"
+    },
+    {
+      "year": 1971,
+      "total": 21568310,
+      "urban": 14114970,
+      "rural": 7453340,
+      "urbanPct": 65.4,
+      "definition": "urban"
+    },
+    {
+      "year": 2021,
+      "total": 36991981,
+      "urban": 30389999,
+      "rural": 6601982,
+      "urbanPct": 82.2,
+      "definition": "population-centre"
+    }
+  ]
+}

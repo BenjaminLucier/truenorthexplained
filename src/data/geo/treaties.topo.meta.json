@@ -1,0 +1,39 @@
+{
+  "source": "Crown–Indigenous Relations and Northern Affairs Canada, Historic treaties and Modern treaties datasets",
+  "url": "https://geo.sac-isc.gc.ca/geomatics/rest/services/Donnees_Ouvertes-Open_Data/Historic_Treaty_E/MapServer/0",
+  "urls": [
+    "https://geo.sac-isc.gc.ca/geomatics/rest/services/Donnees_Ouvertes-Open_Data/Historic_Treaty_E/MapServer/0",
+    "https://geo.sac-isc.gc.ca/geomatics/rest/services/Donnees_Ouvertes-Open_Data/Modern_Treaty_E/MapServer/0"
+  ],
+  "datasets": [
+    "https://open.canada.ca/data/en/dataset/f281b150-0645-48e4-9c30-01f55f93f78e",
+    "https://open.canada.ca/data/en/dataset/be54680b-ea62-46f3-aaa9-7644ed970aef"
+  ],
+  "licence": "Open Government Licence – Canada",
+  "licenceUrl": "https://open.canada.ca/en/open-government-licence-canada",
+  "fetched": "2026-11-13",
+  "notes": [
+    "Read per feature from the ArcGIS REST distributions with a 250 m generalization in Statistics Canada Lambert (EPSG:3347), merged where one treaty is drawn as two areas, simplified with mapshaper (weighted Visvalingam, 3 km interval, keep-shapes), clipped to the province map's land outline, islands and slivers under 20 km² dropped, reprojected to WGS84, quantized to 1e4.",
+    "outside: land not inside any historic (pre-1975) treaty area, computed here. It is not an official CIRNAC layer, and parts of it are covered by modern treaties.",
+    "Names, parties and links come from the ANNOTATIONS table in scripts/data/treaties.ts, written from CIRNAC's treaty pages. Years are from the dataset's names unless the table overrides them; for several modern treaties that is the year the agreement took effect rather than the year it was signed.",
+    "Treaty areas with no land left after clipping: none."
+  ],
+  "script": "scripts/data/treaties.ts",
+  "objects": {
+    "treaties": "one feature per treaty",
+    "outside": "land outside every historic treaty area"
+  },
+  "properties": {
+    "id": "stable id",
+    "name": "display name",
+    "era": "historic (pre-1975) or modern (comprehensive land claim agreement)",
+    "kind": "the dataset's subtype",
+    "year": "year used for ordering",
+    "years": "years as displayed (e.g. 1764–1862)",
+    "yearNote": "extra note on the year, or empty",
+    "parties": "who made the treaty",
+    "href": "link to the treaty text or a CIRNAC page",
+    "linkLabel": "text for that link",
+    "noSurrender": "1 for treaties that did not surrender land (Peace and Friendship)"
+  }
+}

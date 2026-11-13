@@ -245,3 +245,37 @@
     an action plan, and annual reports to Parliament, all in consultation and
     cooperation with Indigenous peoples.
   source: https://laws-lois.justice.gc.ca/eng/acts/U-2.2/
+
+- id: indigenous-first-modern-treaty
+  pages: [learn/indigenous/treaties]
+  tags: [treaties]
+  type: single
+  question: Which agreement is usually counted as Canada's first modern treaty?
+  options:
+    - Treaty 11
+    - The James Bay and Northern Quebec Agreement
+    - The Nisga'a Final Agreement
+    - The Nunavut Land Claims Agreement
+  answer: 1
+  explanation: >
+    The James Bay and Northern Quebec Agreement, signed in 1975 by the Cree and Inuit of
+    northern Quebec with Quebec and Canada, was the first comprehensive land claim
+    agreement. Treaty 11 (1921) was the last of the Numbered Treaties.
+  source: https://www.rcaanc-cirnac.gc.ca/eng/1100100030604/1542740089024
+
+- id: indigenous-historic-modern-treaties
+  pages: [learn/indigenous/treaties]
+  tags: [treaties]
+  type: single
+  question: Where in Canada are most modern treaties found?
+  options:
+    - In southern Ontario and the Maritimes
+    - On the Prairies
+    - In the North, northern Quebec and British Columbia, where historic treaties didn't reach or weren't settled
+    - Only in Nunavut
+  answer: 2
+  explanation: >
+    Modern treaties have mostly been negotiated where no historic treaty dealt with
+    Indigenous rights to the land: the territories, northern Quebec, Labrador and
+    British Columbia. The Prairies and most of Ontario are covered by historic treaties.
+  source: https://www.rcaanc-cirnac.gc.ca/eng/1100100028574/1529354437231
