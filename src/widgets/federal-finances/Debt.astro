@@ -27,8 +27,8 @@ const yMax = Math.ceil(Math.max(...years.map((y) => y.debt)) / 40) * 40;
 >
   <Legend
     items={[
-      { label: `Accumulated deficit, ${modern[0]!.label} on (Finance Canada's "federal debt")`, color: DEBT },
-      { label: `Gross direct debt, ${old[0]!.label} to ${old.at(-1)!.label} (older measure)`, color: DEBT, kind: "dashed" },
+      { label: `Accumulated deficit, ${modern[0]!.label} on (Finance Canada's "federal debt")`, color: DEBT, kind: "line" },
+      { label: `Gross direct debt, ${old[0]!.label} to ${old.at(-1)!.label} (older measure)`, color: DEBT, kind: "dash" },
     ]}
   />
   <p class="mt-3 text-xs font-medium text-muted">Per cent of GDP</p>

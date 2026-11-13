@@ -5,9 +5,10 @@
  * charts on one 0–100% scale. Data: src/data/demographics/language.json.
  */
 import ChartCard from "../../components/charts/ChartCard.astro";
-import { linePath, scale } from "../../lib/charts";
+import { linePath, scale, tipRows } from "../../lib/charts";
 import data from "../../data/demographics/language.json";
-import ChartTips from "./ChartTips.astro";
+import ChartTip from "../../components/charts/ChartTip.astro";
+import Legend from "../../components/charts/Legend.astro";
 
 const SERIES = [
   { key: "englishPct", label: "English", color: "var(--tn-data-cat-1)" },
@@ -52,7 +53,7 @@ function endLabels(p: Pt) {
   for (let i = 1; i < items.length; i++) if (items[i]!.ly - items[i - 1]!.ly < 12) items[i]!.ly = items[i - 1]!.ly + 12;
   return items;
 }
-const tipFor = (p: Pt) => SERIES.map((s) => `${s.label}: ${fmt(val(p, s.key))}`).join("|");
+const tipFor = (p: Pt) => tipRows(SERIES.map((s) => [s.label, fmt(val(p, s.key)), s.color]));
 ---
 
 <ChartCard
@@ -61,16 +62,7 @@ const tipFor = (p: Pt) => SERIES.map((s) => `${s.label}: ${fmt(val(p, s.key))}`)
   sources={[{ label: "Statistics Canada, table 15-10-0031-01: population by mother tongue, 1951 to 2021", url: data._meta.url }]}
   tableLabel="Show the data"
 >
-  <ul class="flex flex-wrap gap-x-5 gap-y-1 text-sm text-secondary">
-    {
-      SERIES.map((s) => (
-        <li class="inline-flex items-center gap-2">
-          <span class="h-0.5 w-5 rounded" style={`background:${s.color}`} aria-hidden="true" />
-          {s.label}
-        </li>
-      ))
-    }
-  </ul>
+  <Legend size="sm" items={SERIES.map((s) => ({ label: s.label, color: s.color, kind: "line" as const }))} />
   <p class="mt-1 text-xs text-muted">Share of each population whose mother tongue is that language, at each census.</p>
 
   <div class="mt-4 grid gap-x-6 gap-y-5 sm:grid-cols-2">
@@ -81,8 +73,8 @@ const tipFor = (p: Pt) => SERIES.map((s) => `${s.label}: ${fmt(val(p, s.key))}`)
         return (
           <div>
             <p class="text-sm font-semibold text-primary">{panel.name}</p>
-            <ChartTips label={`${panel.name}: mother tongue by census year`}>
-              <svg viewBox={`0 0 ${W} ${H}`} data-tip-keys={SERIES.map((s) => s.color).join("|")} class="lg-svg block h-auto w-full overflow-visible" style="font-variant-numeric: tabular-nums">
+            <tn-chart role="group" aria-label={`${panel.name}: mother tongue by census year. Use the arrow keys to step through the values.`}>
+              <svg viewBox={`0 0 ${W} ${H}`} class="lg-svg block h-auto w-full overflow-visible" style="font-variant-numeric: tabular-nums">
                 {[0, 25, 50, 75, 100].map((v) => (
                   <g>
                     <line x1={L} x2={W - R} y1={y(v)} y2={y(v)} class:list={[v === 0 ? "stroke-strong" : "stroke-subtle"]} stroke-width="1" />
@@ -118,7 +110,8 @@ const tipFor = (p: Pt) => SERIES.map((s) => `${s.label}: ${fmt(val(p, s.key))}`)
                   <g
                     class="lg-yr"
                     data-tip-title={`${panel.name}, ${p.year}`}
-                    data-tip={tipFor(p)}
+                    data-tip=""
+                    data-tip-rows={tipFor(p)}
                   >
                     <rect class="lg-hit" x={x(p.year) - step / 2} y={T} width={step} height={H - B - T} />
                     <line class="lg-guide" x1={x(p.year)} x2={x(p.year)} y1={T} y2={H - B} />
@@ -128,7 +121,8 @@ const tipFor = (p: Pt) => SERIES.map((s) => `${s.label}: ${fmt(val(p, s.key))}`)
                   </g>
                 ))}
               </svg>
-            </ChartTips>
+              <ChartTip />
+            </tn-chart>
           </div>
         );
       })

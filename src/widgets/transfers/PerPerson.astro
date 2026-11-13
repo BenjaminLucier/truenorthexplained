@@ -3,7 +3,7 @@
 import ChartCard from "../../components/charts/ChartCard.astro";
 import ChartTip from "../../components/charts/ChartTip.astro";
 import Legend from "../../components/charts/Legend.astro";
-import { niceMax, niceTicks } from "../../lib/charts";
+import { niceMax, niceTicks, tipRows } from "../../lib/charts";
 import { PROVINCES } from "../../lib/elections-constants";
 import { formatDollars, formatMillions, transfers } from "../../lib/money";
 
@@ -43,8 +43,8 @@ const tffRange = territories.map((t) => t.tffPer).sort((a, b) => a - b);
   sources={[{ label: `Finance Canada, Historical Transfer Tables (${L.label} allocations and population)`, url: transfers._meta.url }]}
   tableLabel="Show the data"
 >
-  <Legend items={PARTS.map((p) => ({ label: p.label, color: p.color, kind: "box" as const }))} />
-  <tn-tips class="relative mt-4 block">
+  <Legend items={PARTS.map((p) => ({ label: p.label, color: p.color, kind: "swatch" as const }))} />
+  <tn-chart class="mt-4" data-tip-place="side" role="group" aria-label="Transfers per person by province; use the arrow keys to move between transfers">
     <div class="grid grid-cols-[6.5rem_minmax(0,1fr)_3.75rem] items-center gap-x-3 text-xs text-muted sm:grid-cols-[11rem_minmax(0,1fr)_4rem]" aria-hidden="true">
       <span></span>
       <div class="relative h-4">
@@ -60,7 +60,7 @@ const tffRange = territories.map((t) => t.tffPer).sort((a, b) => a - b);
     </div>
     <ul class="mt-1">
       {
-        provinces.map((p) => (
+        provinces.map((p, row) => (
           <li class="grid grid-cols-[6.5rem_minmax(0,1fr)_3.75rem] items-center gap-x-3 py-1 sm:grid-cols-[11rem_minmax(0,1fr)_4rem]">
             <span class="truncate text-xs text-secondary sm:text-sm">{p.info.en}</span>
             <div class="relative h-6">
@@ -70,12 +70,13 @@ const tffRange = territories.map((t) => t.tffPer).sort((a, b) => a - b);
               <div class="relative flex h-full overflow-hidden rounded-e-md" style={`width:${w(p.total)}`}>
                 {PARTS.filter((part) => p[part.key] > 0).map((part) => (
                   <span
-                    tabindex="0"
                     role="img"
                     class="h-full border-e-2 border-surface last:border-e-0 focus-visible:outline-offset-0"
                     style={`width:${((100 * p.per[part.key]) / p.total).toFixed(2)}%;background:${part.color}`}
-                    data-tip={`${p.info.en}: ${part.label}`}
-                    data-tip-rows={JSON.stringify([
+                    data-tip=""
+                    data-tip-title={`${p.info.en}: ${part.label}`}
+                    data-row={row}
+                    data-tip-rows={tipRows([
                       ["Per person", formatDollars(p.per[part.key]), part.color],
                       ["Total", formatMillions(p[part.key])],
                     ])}
@@ -90,7 +91,7 @@ const tffRange = territories.map((t) => t.tffPer).sort((a, b) => a - b);
       }
     </ul>
     <ChartTip />
-  </tn-tips>
+  </tn-chart>
   <p class="mt-3 text-xs text-muted">
     Dollars per resident in fiscal year {L.label}, using the population Finance Canada uses to share out the transfers.
     The territories aren't shown, to keep the scale readable: on top of the health and social transfers, Territorial
@@ -134,7 +135,3 @@ const tffRange = territories.map((t) => t.tffPer).sort((a, b) => a - b);
     </table>
   </Fragment>
 </ChartCard>
-
-<script>
-  import "../../scripts/chart-tips";
-</script>

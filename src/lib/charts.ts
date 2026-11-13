@@ -60,3 +60,38 @@ export function compact(n: number): string {
   if (a >= 1e3) return `${Number((n / 1e3).toFixed(1))}K`;
   return String(n);
 }
+
+/**
+ * One line of a `<tn-chart>` tooltip: a label, an optional value and an
+ * optional colour key. See ARCHITECTURE.md, "Charts".
+ */
+export type TipRow = [label: string, value?: string | null, color?: string | null];
+
+/** The `data-tip-rows` attribute for a `<tn-chart>` stop. */
+export const tipRows = (rows: TipRow[]) => JSON.stringify(rows);
+
+/** How a value reads in a tooltip: "−1.5%", "+2.0%", "$12 billion". */
+export interface ValueFormat {
+  /** Decimal places (default 1). */
+  dp?: number;
+  pre?: string;
+  suf?: string;
+  /** Show a plus sign on positive values. */
+  signed?: boolean;
+  /** Multiply before formatting, e.g. 0.001 for millions to billions. */
+  scale?: number;
+}
+
+export function formatValue(v: number, f: ValueFormat): string {
+  const n = v * (f.scale ?? 1);
+  const abs = Math.abs(n).toLocaleString("en-CA", { minimumFractionDigits: f.dp ?? 1, maximumFractionDigits: f.dp ?? 1 });
+  const sign = n < 0 ? "−" : f.signed && n > 0 ? "+" : "";
+  return `${sign}${f.pre ?? ""}${abs}${f.suf ?? ""}`;
+}
+
+const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+/** "1981-08" → "August 1981"; anything after the month is kept ("2025-10 (latest)" → "October 2025 (latest)"). */
+export function monthLabel(raw: string): string {
+  return /^\d{4}-\d{2}/.test(raw) ? `${MONTHS[Number(raw.slice(5, 7)) - 1]} ${raw.slice(0, 4)}${raw.slice(7)}` : raw;
+}

@@ -7,13 +7,26 @@
  *
  * Marks: lines (optionally stepped or filled), diverging bars, a shaded gap
  * between two lines, value bands (e.g. a target range), era bands with labels,
- * vertical markers and point notes. `hover` turns the chart into a focusable
- * <tn-series-hover> (src/scripts/chart-tips.ts).
+ * vertical markers and point notes.
+ *
+ * `hover` makes it a `<tn-chart>` (ChartTip.astro) with a crosshair: one stop
+ * per x value, each a column running from halfway to the previous value to
+ * halfway to the next (or, for `step` data, from this value to the next), so
+ * the pointer anywhere over the plot picks the nearest point. The active
+ * column shows a guide line and a dot on each series, and the tooltip lists
+ * every series' value there. Keyboard focus starts on the latest value.
  */
-import { PLOT_W, linePath, pct, scale } from "../../lib/charts";
+import { PLOT_W, formatValue, linePath, monthLabel, pct, scale, tipRows, type ValueFormat } from "../../lib/charts";
 import { uniqueId } from "../../lib/ids";
-import type { SeriesConfig } from "../../scripts/chart-tips";
 import ChartTip from "./ChartTip.astro";
+
+export interface HoverSeries extends ValueFormat {
+  label: string;
+  /** Colour of the key in the tooltip and of the dot on the chart. */
+  color: string;
+  /** `false` lists the series in the tooltip without a dot on the chart. */
+  dot?: boolean;
+}
 
 type Pt = [number, number | null];
 export interface Line {
@@ -28,12 +41,18 @@ export interface Line {
   area?: boolean;
 }
 export interface Hover {
+  /** x values, ascending, in the chart's x units. */
   xs: number[];
+  /** Tooltip title for each x. */
   labels: string[];
-  series: SeriesConfig["series"];
+  series: HoverSeries[];
+  /** values[series][i]; null where the series has no value. */
   values: (number | null)[][];
+  /** Step data: the value at a point holds until the next point. */
   step?: boolean;
+  /** Put before every label, e.g. "Fiscal year ". */
   labelPrefix?: string;
+  /** "month": labels are "YYYY-MM", shown as "August 1981". */
   labelFormat?: "month";
 }
 
@@ -133,31 +152,32 @@ const gapPaths = gap && {
   belowA: `${linePath(gap.a.map(([px, py]) => [x(px), yc(py)]))}L${x(gap.a.at(-1)![0]).toFixed(1)} ${plotH}L${x(gap.a[0]![0]).toFixed(1)} ${plotH}Z`,
 };
 
-const config: SeriesConfig | null = hover
-  ? {
-      x: hover.xs.map((v) => Number((x(v) / PLOT_W).toFixed(4))),
-      labels: hover.labels,
-      series: hover.series,
-      values: hover.values,
-      yMin,
-      yMax,
-      top: TOP,
-      plotH,
-      step: hover.step,
-      labelPrefix: hover.labelPrefix,
-      labelFormat: hover.labelFormat,
-    }
-  : null;
-const Host = hover ? "tn-series-hover" : "div";
+/** One crosshair stop per hover x: its column, its tooltip and its dots. */
+const stops = hover
+  ? hover.xs.map((xv, i) => {
+      const n = hover.xs.length;
+      const px = x(xv);
+      const prev = i > 0 ? x(hover.xs[i - 1]!) : 0;
+      const next = i < n - 1 ? x(hover.xs[i + 1]!) : PLOT_W;
+      const x0 = i === 0 ? 0 : hover.step ? px : (prev + px) / 2;
+      const x1 = i === n - 1 ? PLOT_W : hover.step ? next : (px + next) / 2;
+      const values = hover.series.map((s, k) => ({ s, v: hover.values[k]![i] ?? null }));
+      return {
+        i,
+        px,
+        x0,
+        x1,
+        title: `${hover.labelPrefix ?? ""}${hover.labelFormat === "month" ? monthLabel(hover.labels[i]!) : hover.labels[i]!}`,
+        rows: tipRows(values.filter(({ v }) => v !== null).map(({ s, v }) => [s.label, formatValue(v!, s), s.color])),
+        dots: values.filter(({ s, v }) => v !== null && s.dot !== false).map(({ s, v }) => ({ color: s.color, cy: Number((TOP + yc(v!)).toFixed(1)) })),
+      };
+    })
+  : [];
+const Host = hover ? "tn-chart" : "div";
 const topTick = yTicks.at(-1);
 ---
 
-<Host
-  class="relative block rounded-sm"
-  tabindex={hover ? "0" : undefined}
-  aria-label={hover ? (hoverLabel ?? `${title}: use the arrow keys to read each value`) : undefined}
-  aria-describedby={hover ? `${id}-d` : undefined}
->
+<Host class:list={["relative block rounded-sm", { "sc-hover": hover }]} data-tip-place={hover ? "side" : undefined}>
   <svg class="block w-full overflow-visible select-none" height={height} role="img" aria-labelledby={`${id}-t ${id}-d`} style="font-variant-numeric: tabular-nums">
     <title id={`${id}-t`}>{title}</title>
     <desc id={`${id}-d`}>{desc}</desc>
@@ -303,16 +323,71 @@ const topTick = yTicks.at(-1);
     }
   </svg>
   {
-    config && (
+    hover && (
       <>
-        <div data-guide hidden class="pointer-events-none absolute left-0 w-px bg-primary/40" style={`top:${TOP}px;height:${plotH}px`} />
+        <svg class="pointer-events-none absolute inset-0 block size-full overflow-visible" aria-hidden="true">
+          {stops.map((s) => (
+            <g class="sc-pt" data-group={s.i}>
+              <line x1={pct(s.px)} x2={pct(s.px)} y1={TOP} y2={TOP + plotH} class="sc-guide" data-group={s.i} data-tip-anchor />
+              {s.dots.map((d) => (
+                <circle cx={pct(s.px)} cy={d.cy} r="4" fill={d.color} class="sc-dot" />
+              ))}
+            </g>
+          ))}
+        </svg>
+        <svg
+          class="absolute inset-0 block size-full"
+          viewBox={`0 0 ${PLOT_W} ${height}`}
+          preserveAspectRatio="none"
+          role="group"
+          aria-label={hoverLabel ?? `${title}: use the arrow keys to read each value`}
+          aria-describedby={`${id}-d`}
+        >
+          {stops.map((s) => (
+            <rect
+              x={s.x0.toFixed(2)}
+              width={(s.x1 - s.x0).toFixed(2)}
+              y="0"
+              height={height}
+              class="sc-hit"
+              data-tip=""
+              data-tip-title={s.title}
+              data-tip-rows={s.rows}
+              data-group={s.i}
+              data-start={s.i === stops.length - 1 ? "" : undefined}
+            />
+          ))}
+        </svg>
         <ChartTip />
-        <script type="application/json" data-config set:html={JSON.stringify(config)} />
       </>
     )
   }
 </Host>
 
-<script>
-  import "../../scripts/chart-tips";
-</script>
+<style is:global>
+  /* Global, with sc- names, so the many crosshair marks carry no scoping attributes. */
+  .sc-pt {
+    visibility: hidden;
+  }
+  .sc-pt.is-active {
+    visibility: visible;
+  }
+  .sc-guide {
+    stroke: var(--tn-text-primary);
+    stroke-opacity: 0.4;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+  }
+  .sc-dot {
+    stroke: var(--tn-surface);
+    stroke-width: 2;
+  }
+  .sc-hit {
+    fill: transparent;
+  }
+  /* The crosshair is the focus indicator's content; the ring goes round the whole chart. */
+  .sc-hover:has(.sc-hit:focus-visible) {
+    outline: 2px solid var(--tn-focus);
+    outline-offset: 2px;
+  }
+</style>

@@ -50,8 +50,8 @@ const pctFmt = (v: number) => `${v.toFixed(2)}%`;
 >
   <Legend
     items={[
-      { label: `Bank Rate (the policy rate until ${SWITCH.slice(0, 4)})`, color: BANK },
-      { label: `Target for the overnight rate (from ${SWITCH.slice(0, 4)})`, color: TARGET },
+      { label: `Bank Rate (the policy rate until ${SWITCH.slice(0, 4)})`, color: BANK, kind: "line" },
+      { label: `Target for the overnight rate (from ${SWITCH.slice(0, 4)})`, color: TARGET, kind: "line" },
       { label: "Inflation-control target range", color: "var(--tn-data-band)", kind: "band" },
     ]}
   />
