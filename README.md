@@ -42,6 +42,12 @@ pnpm dev                                 # http://localhost:4321
 | `pnpm validate` | Check internal links and quiz page references |
 | `pnpm review` | Regenerate [REVIEW.md](REVIEW.md), the list of facts and links awaiting review |
 | `pnpm data:geo` | Re-download province and riding boundaries and population estimates into `src/data/geo/` |
+| `pnpm data:elections` | Re-download 2025 election results, current MPs and senators, and seat allocation into `src/data/elections/`, `src/data/parliament/` and `src/data/population/` |
+| `pnpm data:population` | Re-download 2021 Census population by province (used by the amending-formula widget) |
+| `pnpm grounding` | Re-download the Wikipedia/Wikidata grounding corpus, flags and Statistics Canada demographics. See [grounding/README.md](grounding/README.md) |
+
+All downloaded data is committed. Re-running a data script and reading the `git diff` is
+how the site stays current: the diff shows exactly what changed upstream.
 
 ## Project layout
 
