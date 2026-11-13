@@ -40,6 +40,11 @@ Imagine a riding with three candidates:
 
 Candidate A wins, even though 64% of voters chose someone else.
 
+This isn't only a textbook case. In real elections, many ridings are won with less than half
+the vote:
+
+<tn-widget name="riding-share-map"></tn-widget>
+
 ### What it does to results
 
 Because each riding is a separate winner-take-all contest, national seat totals can differ a

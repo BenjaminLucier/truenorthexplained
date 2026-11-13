@@ -69,6 +69,9 @@ and federal law.
 
 > **As of 2026:** There are 343 ridings, in effect since the 2025 general election.
 
+The [ridings map](/ridings) shows all 343, with each one's 2025 result, and can find the
+riding you live in.
+
 The formula starts from population, but the Constitution also guarantees smaller and slower-growing
 provinces a minimum number of seats, so seat shares don't match population shares exactly.
 

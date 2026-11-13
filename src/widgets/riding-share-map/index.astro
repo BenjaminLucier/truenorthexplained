@@ -1,0 +1,149 @@
+---
+/**
+ * Each riding shaded by the winner's share of the vote in 2025, to show where
+ * first-past-the-post elected MPs whom most local voters didn't choose.
+ *
+ *   <tn-widget name="riding-share-map"></tn-widget>
+ *
+ * Static: no script. The full interactive map is the ridings-explorer widget
+ * on /ridings.
+ */
+import ChartCard from "../../components/charts/ChartCard.astro";
+import CanadaMap from "../../components/map/CanadaMap.astro";
+import { ridingFeatures } from "../../components/map/geo";
+import { PROVINCE_CODES, PROVINCES, ridingsMeta } from "../../lib/elections";
+import { SHARE_BINS, binFor, resultByFed, results } from "../ridings-explorer/data";
+
+const total = results.length;
+const under = (limit: number) => results.filter((r) => r.winnerShare < limit).length;
+const under50 = under(50);
+const under40 = under(40);
+const pct = (n: number) => `${Math.round((100 * n) / total)}%`;
+const lowest = results.reduce((a, b) => (b.winnerShare < a.winnerShare ? b : a));
+const legend = SHARE_BINS.map((b) => ({ ...b, n: results.filter((r) => b.test(r.winnerShare)).length }));
+const rows = PROVINCE_CODES.map((code) => {
+  const list = results.filter((r) => r.province === code);
+  return {
+    name: PROVINCES[code].en,
+    n: list.length,
+    under50: list.filter((r) => r.winnerShare < 50).length,
+    under40: list.filter((r) => r.winnerShare < 40).length,
+  };
+});
+// The provinces where plurality wins were most and least common (with enough ridings to compare).
+const ranked = rows.filter((r) => r.n >= 10).sort((a, b) => b.under50 / b.n - a.under50 / a.n);
+const most = ranked.slice(0, 2);
+const least = ranked.at(-1)!;
+const share = (r: (typeof rows)[number]) => `${r.under50} of ${r.n}`;
+---
+
+<ChartCard
+  title="How many ridings were won without a majority?"
+  lede={`In 2025, ${under50} of the ${total} ridings (${pct(under50)}) elected an MP whom most of the riding's voters didn't vote for. In ${under40}, the winner had less than 40% of the vote.`}
+  sources={[{ label: "Elections Canada, official voting results (2025)", url: ridingsMeta.url }]}
+  tableLabel="Show the numbers by province"
+>
+  <div class="rsm">
+    <CanadaMap
+      id="rsm-map"
+      features={ridingFeatures()}
+      width={640}
+      padding={4}
+      precision={0}
+      minArea={3}
+      tolerance={1.5}
+      role="img"
+      title="Map of Canada's federal ridings, shaded by the winning candidate's share of the vote in 2025"
+      desc={`${under50} of ${total} ridings were won with under 50% of the vote, most of them in ${most.map((m) => m.name).join(" and ")}.`}
+      item={(f) => {
+        const r = resultByFed.get(f.properties.fed as number);
+        if (!r) throw new Error(`riding-share-map: no result for district ${f.properties.fed}`);
+        return { class: `rsm-s${binFor(SHARE_BINS, r.winnerShare).step}` };
+      }}
+    />
+
+    <p class="mt-4 text-xs font-semibold tracking-wide text-muted uppercase">Winner's share of the vote</p>
+    <ul class="mt-2 flex flex-wrap gap-x-5 gap-y-1.5 text-sm text-secondary">
+      {
+        legend.map((b) => (
+          <li class="inline-flex items-center gap-2">
+            <span class="rsm-swatch" style={`--swatch:var(--tn-data-seq-${b.step})`} aria-hidden="true" />
+            {b.label} <span class="text-muted tabular-nums">({b.n})</span>
+          </li>
+        ))
+      }
+    </ul>
+
+    <p class="mt-4 rounded-lg bg-surface-muted p-4 text-sm text-secondary">
+      Plurality wins were most common where more than two parties drew a large share of the vote: {share(most[0]!)} ridings in{" "}
+      {most[0]!.name} and {share(most[1]!)} in {most[1]!.name}, compared with {share(least)} in {least.name}. The lowest winning
+      share was {lowest.winnerShare.toFixed(1)}%, in {lowest.nameEn}. City ridings are too small to see here; the{" "}
+      <a href="/ridings" class="font-medium text-accent underline underline-offset-2 hover:text-accent-hover">ridings map</a>{" "}
+      zooms in on seven cities and shows every riding's full result.
+    </p>
+  </div>
+
+  <Fragment slot="table">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Province or territory</th>
+          <th scope="col">Ridings</th>
+          <th scope="col">Won with under 50%</th>
+          <th scope="col">Won with under 40%</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          rows.map((r) => (
+            <tr>
+              <th scope="row" class="font-normal">{r.name}</th>
+              <td>{r.n}</td>
+              <td>{r.under50}</td>
+              <td>{r.under40}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+      <tfoot>
+        <tr>
+          <td>Canada</td>
+          <td>{total}</td>
+          <td>{under50}</td>
+          <td>{under40}</td>
+        </tr>
+      </tfoot>
+      <caption>The winner's share is the percentage of valid votes in the riding.</caption>
+    </table>
+  </Fragment>
+</ChartCard>
+
+<style>
+  .rsm :global(.map-feature) {
+    stroke-width: 0.5;
+  }
+  .rsm :global(.rsm-s1) {
+    --map-fill: var(--tn-data-seq-1);
+  }
+  .rsm :global(.rsm-s2) {
+    --map-fill: var(--tn-data-seq-2);
+  }
+  .rsm :global(.rsm-s4) {
+    --map-fill: var(--tn-data-seq-4);
+  }
+  .rsm :global(.rsm-s6) {
+    --map-fill: var(--tn-data-seq-6);
+  }
+  /* A hairline around the whole country, so pale fills still have an edge. */
+  .rsm :global(.canada-map) {
+    filter: drop-shadow(0 0 0.5px var(--tn-text-muted));
+  }
+  .rsm-swatch {
+    flex: none;
+    width: 0.875rem;
+    height: 0.875rem;
+    border-radius: 0.25rem;
+    background: var(--swatch);
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--tn-text-primary) 15%, transparent);
+  }
+</style>

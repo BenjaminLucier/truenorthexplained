@@ -1,0 +1,83 @@
+# Question bank: Ridings map (/ridings)
+# Format: see SITEMAP.md, section "Quizzes".
+
+- id: ridings-what-is
+  pages: [ridings]
+  tags: [elections]
+  type: single
+  question: What is a federal riding?
+  options:
+    - An area that elects one member of the House of Commons
+    - An area that elects one senator
+    - A group of neighbourhoods served by one polling station
+    - A region that elects several MPs at once
+  answer: 0
+  explanation: >
+    A riding, officially a federal electoral district, elects exactly one MP.
+    Senators aren't elected, and the area served by one polling station is a much
+    smaller polling division.
+  source: https://www.elections.ca/content.aspx?section=vot&dir=faq&document=faqvoting&lang=e
+
+- id: ridings-why-sizes-differ
+  pages: [ridings]
+  tags: [elections]
+  type: single
+  question: Why are ridings tiny in big cities but enormous in the North?
+  options:
+    - Cities get extra seats because more MPs live there
+    - Ridings are drawn to hold roughly similar numbers of people, so they cover less land where people live close together
+    - Every riding must cover about the same land area, except in cities
+    - The North has fewer ridings because territories can't have more than one MP
+  answer: 1
+  explanation: >
+    Under the Electoral Boundaries Readjustment Act, each riding's population should be
+    as close as reasonably possible to the province's average (its quota), usually within
+    25% either way. Commissions can go further in sparse rural or northern areas, which
+    is why northern ridings are both huge and smaller in population.
+  source: https://laws-lois.justice.gc.ca/eng/acts/E-3/page-1.html
+
+- id: ridings-redrawn-after-census
+  pages: [ridings]
+  tags: [elections, constitution]
+  type: single
+  question: When are federal riding boundaries redrawn?
+  options:
+    - Before every general election
+    - Whenever the governing party asks for it
+    - After each 10-year census
+    - Only when a province joins or leaves Confederation
+  answer: 2
+  explanation: >
+    Section 51 of the Constitution Act, 1867 readjusts each province's seats after
+    every decennial (10-year) census. Independent commissions in each province then
+    redraw the boundaries.
+  source: https://laws-lois.justice.gc.ca/eng/const/page-2.html
+
+- id: ridings-mp-can-change
+  pages: [ridings]
+  tags: [elections, parliament]
+  type: true-false
+  question: The person a riding elects in a general election is always its MP, for the same party, until the next general election.
+  answer: false
+  explanation: >
+    If an MP resigns or dies, a by-election chooses a new one. An MP can also leave
+    their party or join another between elections. The election result itself
+    doesn't change, but who holds the seat, and for which party, can.
+  source: https://www.ourcommons.ca/members/en
+
+- id: ridings-2025-plurality
+  pages: [ridings, learn/elections/first-past-the-post]
+  tags: [elections]
+  type: single
+  question: In the 2025 federal election, roughly how many ridings were won by a candidate with less than half the votes?
+  options:
+    - None. A winner needs more than half
+    - About 1 in 20
+    - About 1 in 3
+    - About 2 in 3
+  answer: 2
+  explanation: >
+    Under first-past-the-post, the candidate with the most votes wins, majority or not.
+    In 2025, 119 of the 343 ridings (about 35%) were won with under 50% of the vote,
+    most of them in Quebec, Ontario and British Columbia.
+  source: https://www.elections.ca/res/rep/off/ovrGE45/home.html
