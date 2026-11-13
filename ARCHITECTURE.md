@@ -177,6 +177,17 @@ mark each hoverable thing (a bar, a column, a point's hit area) as a *stop* with
 `TermTimeline.astro` (terms as links) predate this and have no tooltips. For a new
 chart over time, use `SeriesChart` with `hover`.
 
+### Province profiles
+
+Each province and territory page has `<tn-widget name="province-profile"
+data-province="<slug>">` under `## In numbers`. `src/widgets/province-profile/` draws
+it from datasets already in `src/data` (population and seats, 2025 results and ridings,
+transfers and equalization, the premiers ribbon row shared with
+`src/widgets/premiers-ribbon/`, treaty areas, language where the data has it). Every
+chart's lede is a computed takeaway sentence. All the arithmetic and wording is pure
+code in `src/lib/province-profile.ts`, unit-tested with edge cases; `data.ts` only
+gathers one province's slice. Sections without data for a province are left out.
+
 ## Content pages
 
 - Pages are `content/**/*.en.md`, with ids derived by `src/lib/paths.ts`.
