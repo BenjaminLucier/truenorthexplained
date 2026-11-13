@@ -2,6 +2,7 @@
 import Icon from "./Icon.astro";
 import MapleLeaf from "./MapleLeaf.astro";
 import ThemeToggle from "./ThemeToggle.astro";
+import Search from "./Search.astro";
 import { t } from "../i18n/en";
 
 const links = [
@@ -44,6 +45,17 @@ const isCurrent = (href: string) => path === href || path.startsWith(`${href}/`)
     </nav>
 
     <div class="ms-auto flex items-center gap-1 lg:ms-2">
+      <button
+        type="button"
+        data-search-open
+        aria-haspopup="dialog"
+        aria-keyshortcuts="/ Control+K Meta+K"
+        class="inline-flex size-10 items-center justify-center rounded-full text-secondary transition-colors hover:bg-surface-muted hover:text-primary xl:w-auto xl:gap-2 xl:border xl:border-subtle xl:bg-surface xl:ps-3 xl:pe-2 xl:text-sm xl:text-muted xl:hover:border-strong"
+      >
+        <Icon name="Search" class="size-5 xl:size-4" />
+        <span class="sr-only xl:not-sr-only">{t.search.label}</span>
+        <kbd class="hidden rounded border border-subtle bg-surface-muted px-1.5 font-sans text-xs text-muted xl:inline" aria-hidden="true">/</kbd>
+      </button>
       <ThemeToggle />
       <mobile-menu class="lg:hidden">
         <button
@@ -71,6 +83,15 @@ const isCurrent = (href: string) => path === href || path.startsWith(`${href}/`)
             </button>
           </div>
           <nav aria-label={t.nav.primary} class="p-2">
+            <button
+              type="button"
+              data-search-open
+              aria-haspopup="dialog"
+              class="mb-2 flex w-full items-center gap-3 rounded-lg border border-subtle bg-bg px-3 py-3 text-start font-medium text-secondary hover:border-strong hover:text-primary"
+            >
+              <Icon name="Search" class="size-5 text-muted" />
+              {t.search.label}
+            </button>
             <ul class="flex flex-col">
               {
                 links.map((l) => (
@@ -92,6 +113,8 @@ const isCurrent = (href: string) => path === href || path.startsWith(`${href}/`)
     </div>
   </div>
 </header>
+
+<Search />
 
 <script>
   class MobileMenu extends HTMLElement {

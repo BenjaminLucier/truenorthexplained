@@ -8,14 +8,26 @@
  *
  * The page route splits the rendered HTML at each placeholder and renders
  * src/widgets/<name>/index.astro in its place, passing the other attributes
- * as string props (data-set="x" → set="x"). Widgets are ordinary Astro
+ * as string props (data-set="x" → set="x"). A placeholder can also wrap
+ * markdown, which reaches the widget as rendered HTML in a `content` prop:
+ *
+ *     <tn-widget name="timeline">
+ *
+ *     | Year | Event |
+ *     |---|---|
+ *     | 1867 | Confederation |
+ *
+ *     </tn-widget>
+ *
+ * (Leave a blank line after the opening tag and before the closing one, so
+ * the markdown inside is parsed.) Widgets are ordinary Astro
  * components, so they render real HTML at build time and add behaviour with
  * a <script> (usually a custom element).
  */
 
 export type Chunk = { kind: "html"; html: string } | { kind: "widget"; name: string; props: Record<string, string> };
 
-const PLACEHOLDER = /<tn-widget\b([^>]*)>\s*<\/tn-widget>/g;
+const PLACEHOLDER = /<tn-widget\b([^>]*)>([\s\S]*?)<\/tn-widget>/g;
 const ATTR = /([\w-]+)\s*=\s*"([^"]*)"/g;
 
 const unescape = (s: string) =>
@@ -36,6 +48,8 @@ export function splitWidgets(html: string): Chunk[] {
       else props[key.replace(/^data-/, "").replace(/-([a-z])/g, (_, c: string) => c.toUpperCase())] = unescape(value ?? "");
     }
     if (!name) throw new Error(`<tn-widget> without a name: ${match[0]}`);
+    const content = (match[2] ?? "").trim();
+    if (content) props.content = content;
     chunks.push({ kind: "widget", name, props });
     last = match.index + match[0].length;
     const after = html.slice(last);

@@ -11,9 +11,9 @@ status: draft
 
 The **Supreme Court of Canada** is the country's final court of appeal. It has **nine
 judges**, and by law at least **three must come from Quebec**. In most cases you need the
-Court's permission to appeal, called **leave to appeal**, and it grants that only for
+Court's permission to appeal, called **[leave to appeal](/glossary#leave-to-appeal)**, and it grants that only for
 issues of public importance. Governments can also ask it for an opinion on a legal
-question, called a **reference**. That's how it ruled on whether Quebec could leave
+question, called a **[reference](/glossary#reference)**. That's how it ruled on whether Quebec could leave
 Canada.
 
 ## The details
@@ -27,15 +27,16 @@ Canada.
   London ended in 1933, and all remaining appeals ended in 1949.
 - **Since 1949,** the Supreme Court has been Canada's final court of appeal.
 
-A well-known example of the old system: in the **Persons Case** (1929), the Privy Council
-overturned the Supreme Court and ruled that women were "persons" who could be appointed
-to the Senate.
+> [!NOTE]
+> A well-known example of the old system: in the **Persons Case** (1929), the Privy
+> Council overturned the Supreme Court and ruled that women were "persons" who could be
+> appointed to the Senate.
 
 ### Who sits on it
 
 The *Supreme Court Act* sets the Court's makeup:
 
-- **Nine judges:** the **Chief Justice of Canada** and eight others, called **puisne**
+- **Nine judges:** the **Chief Justice of Canada** and eight others, called **[puisne](/glossary#puisne-judges)**
   (pronounced "puny") judges (s. 4(1)).
 - **Who qualifies:** a current or former judge of a provincial superior court, or a
   lawyer with at least 10 years at the bar of a province (s. 5).

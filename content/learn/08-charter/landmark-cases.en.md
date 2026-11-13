@@ -17,7 +17,7 @@ treaty rights cases are covered in [Indigenous peoples and the Crown](/learn/ind
 
 ## The details
 
-<!-- visual: horizontal timeline of the cases, colour-coded by Charter section -->
+<tn-widget name="timeline" data-group-by="charter" data-group="Main section" data-title="Case" data-text="In one line" data-label="Landmark cases timeline">
 
 | Year | Case | Main section | In one line |
 |---|---|---|---|
@@ -29,6 +29,8 @@ treaty rights cases are covered in [Indigenous peoples and the Crown](/learn/ind
 | 1998 | *Reference re Secession of Quebec* | (not a Charter case) | Quebec can't secede unilaterally, but a clear vote would require negotiation |
 | 2015 | *Carter v. Canada* | s. 7 | The total ban on assisted dying was struck down |
 | 2016 | *R. v. Jordan* | s. 11(b) | Set time limits for criminal trials |
+
+</tn-widget>
 
 ### R. v. Big M Drug Mart Ltd. (1985): freedom of religion
 
@@ -85,7 +87,7 @@ he was gay. He tried to complain to the Alberta Human Rights Commission, but Alb
 human rights law didn't list sexual orientation as a protected ground, so his complaint
 couldn't proceed. The Supreme Court held that leaving sexual orientation out violated
 **equality rights** (s. 15) and wasn't justified. Rather than strike down the whole law,
-the Court **read in** sexual orientation, treating the law as if it included those words.
+the Court **[read in](/glossary#reading-in)** sexual orientation, treating the law as if it included those words.
 The Charter didn't apply to the college, a private employer. It applied to Alberta's
 *law*, which failed to protect him. The case is a leading example both of how the Charter
 reaches government choices about what to leave out of a law, and of reading in as a

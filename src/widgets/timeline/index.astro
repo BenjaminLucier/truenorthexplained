@@ -1,0 +1,542 @@
+---
+/**
+ * Interactive timeline. Wrap the source markdown in the placeholder:
+ *
+ *   Eras and entries, grouped by module (content/timeline.en.md):
+ *     <tn-widget name="timeline" data-group-by="module">
+ *     ## Era …
+ *     - **1867** — What happened. [Read more](/learn/…)
+ *     </tn-widget>
+ *
+ *   A table, grouped by Charter part or by any column:
+ *     <tn-widget name="timeline" data-title="Case" data-text="In one line"
+ *       data-group="Main section" data-group-by="charter"></tn-widget>
+ *
+ * The markdown stays the single source of truth: this widget parses it at
+ * build time (see parse.ts) and renders a full, readable list that works
+ * without JavaScript. The script adds filter chips.
+ *
+ * Colours: modules use their own module colour. Other groupings borrow the
+ * module hues as a categorical palette (via data-module), in an order that
+ * keeps neighbouring groups distinct.
+ */
+import { createHash } from "node:crypto";
+import { allPages, href, modules } from "../../lib/site";
+import {
+  charterGroups,
+  charterParts,
+  parseEraList,
+  parseTable,
+  textOf,
+  type TimelineEra,
+  type TimelineEvent,
+} from "./parse";
+
+interface Props {
+  content?: string;
+  /** "module" (default for era lists), "charter", or "column" (the group column's own values). */
+  groupBy?: string;
+  title?: string;
+  text?: string;
+  group?: string;
+  /** Accessible name for the whole timeline. */
+  label?: string;
+  /** Legend for the filter chips. */
+  filterLabel?: string;
+}
+
+const { content = "", groupBy, title, text, group, label = "Timeline", filterLabel } = Astro.props;
+if (!content.trim()) throw new Error('Timeline widget needs markdown inside <tn-widget name="timeline">…</tn-widget>');
+
+const isTable = /<table\b/.test(content);
+const mode = groupBy ?? (isTable ? "column" : "module");
+const slug = (s: string) =>
+  s
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+
+const eras: TimelineEra[] = isTable
+  ? parseTable(content, { title, text, group }, mode === "charter" ? charterGroups : (cell) => [slug(cell)])
+  : parseEraList(content);
+const events = eras.flatMap((e) => e.events);
+
+// ---- Groups: key → label and colour -------------------------------------------------
+interface Group {
+  key: string;
+  label: string;
+  /** Module key whose hue colours this group; undefined = neutral. */
+  hue?: string;
+}
+const palette = ["government", "federalism", "charter", "crown", "constitution", "elections", "law", "indigenous", "parliament", "big-picture"];
+const shortModule: Record<string, string> = {
+  "big-picture": "Big picture",
+  constitution: "Constitution",
+  crown: "The Crown",
+  parliament: "Parliament",
+  elections: "Elections",
+  federalism: "Federalism",
+  government: "Government",
+  law: "Law and courts",
+  charter: "Charter",
+  indigenous: "Indigenous peoples",
+};
+
+let groups: Group[];
+if (mode === "module") {
+  const mods = await modules();
+  groups = [
+    ...mods.map(({ page }) => {
+      const key = page.id.replace(/^learn\//, "");
+      return { key, label: shortModule[key] ?? page.data.title, hue: key };
+    }),
+    { key: "provinces", label: "Provinces and territories" },
+  ];
+} else if (mode === "charter") {
+  groups = [...charterParts.map((p, i) => ({ key: p.key, label: p.label, hue: palette[i] })), { key: "other", label: "Not a Charter case" }];
+} else {
+  const seen = new Map<string, string>();
+  for (const e of events) if (e.tag && !seen.has(slug(e.tag))) seen.set(slug(e.tag), e.tag);
+  groups = [...seen].map(([key, lbl], i) => ({ key, label: lbl, hue: palette[i % palette.length] }));
+}
+const used = new Set(events.flatMap((e) => e.groups));
+groups = groups.filter((g) => used.has(g.key));
+const groupOf = new Map(groups.map((g) => [g.key, g]));
+const countFor = (key: string) => events.filter((e) => e.groups.includes(key)).length;
+const hueOf = (e: TimelineEvent) => groupOf.get(e.groups[0] ?? "")?.hue;
+
+// ---- Links: name "Read more" links after the page they point to -----------------------
+const titles = new Map((await allPages()).map((p) => [href(p.id), p.data.title]));
+const linkLabel = (l: { href: string; label: string }) =>
+  /^read more$/i.test(l.label) ? (titles.get(l.href.replace(/[#?].*$/, "").replace(/\/$/, "")) ?? l.label) : l.label;
+
+// ---- Scale for the overview strip ------------------------------------------------------
+const minYear = Math.min(...events.map((e) => e.year));
+const maxYear = Math.max(...events.map((e) => e.endYear ?? e.year));
+const span = Math.max(1, maxYear - minYear);
+const pct = (y: number) => ((y - minYear) / span) * 100;
+const bands = eras
+  .filter((e) => e.title)
+  .map((era, i, list) => {
+    const start = Math.min(...era.events.map((e) => e.year));
+    const next = list[i + 1];
+    const end = next ? Math.min(...next.events.map((e) => e.year)) : maxYear;
+    return { era, start, left: pct(start), width: Math.max(pct(end) - pct(start), 0.5) };
+  });
+
+const uid = `tl-${createHash("sha1").update(content).digest("hex").slice(0, 6)}`;
+const noun = isTable && mode === "charter" ? "cases" : "events";
+---
+
+<tn-timeline class="not-prose my-8 block" data-noun={noun} data-total={events.length}>
+  <div role="group" aria-label={label}>
+    {
+      groups.length > 1 && (
+        <fieldset data-filters data-pagefind-ignore class="tl-filters">
+          <legend class="text-xs font-semibold tracking-wide text-muted uppercase">
+            {filterLabel ?? (mode === "module" ? "Filter by module" : mode === "charter" ? "Filter by Charter section" : "Filter")}
+          </legend>
+          <div class="mt-2 flex flex-wrap gap-2">
+            <label class="tl-chip">
+              <input type="radio" name={uid} value="" checked class="sr-only" />
+              <span>All</span>
+              <span class="tl-chip-count">{events.length}</span>
+            </label>
+            {groups.map((g) => (
+              <label class="tl-chip" data-module={g.hue} data-neutral={g.hue ? undefined : ""}>
+                <input type="radio" name={uid} value={g.key} class="sr-only" />
+                <span class="tl-swatch" aria-hidden="true" />
+                <span>{g.label}</span>
+                <span class="tl-chip-count">{countFor(g.key)}</span>
+              </label>
+            ))}
+          </div>
+          <p data-status aria-live="polite" class="mt-2 text-xs text-muted" />
+        </fieldset>
+      )
+    }
+
+    {/* Overview: the whole span at a glance, with eras as bands and one tick per event. */}
+    <div class="tl-overview" data-pagefind-ignore>
+      <div class="tl-track">
+        {
+          bands.map((b, i) => (
+            <a
+              href={b.era.id ? `#${b.era.id}` : undefined}
+              class:list={["tl-band", i % 2 ? "bg-surface-sunken" : "bg-surface-muted"]}
+              style={`inset-inline-start:${b.left}%;width:${b.width}%`}
+              title={b.era.title}
+            >
+              <span class="sr-only">{b.era.title}</span>
+            </a>
+          ))
+        }
+        {bands.length === 0 && <span class="tl-band bg-surface-muted" style="inset-inline-start:0;width:100%" />}
+        {
+          events.map((e) => (
+            <span
+              class="tl-tick"
+              data-groups={e.groups.join(" ")}
+              data-module={hueOf(e)}
+              data-neutral={hueOf(e) ? undefined : ""}
+              style={`inset-inline-start:${pct(e.year)}%${e.endYear ? `;width:max(3px, ${pct(e.endYear) - pct(e.year)}%)` : ""}`}
+              aria-hidden="true"
+            />
+          ))
+        }
+      </div>
+      <div class="tl-axis" aria-hidden="true">
+        <span style="inset-inline-start:0">{minYear}</span>
+        {
+          bands.slice(1).map((b) => (
+            <span class="tl-axis-mid" style={`inset-inline-start:${b.left}%`}>
+              {b.start}
+            </span>
+          ))
+        }
+        <span style="inset-inline-end:0">{maxYear}</span>
+      </div>
+    </div>
+
+    {
+      eras.map((era) => (
+        <section data-era aria-labelledby={era.id} class="mt-8 first-of-type:mt-6">
+          {era.title && (
+            <div class="tl-era-head">
+              <h2 id={era.id} class="text-xl font-bold tracking-tight text-primary scroll-mt-24">
+                {era.title}
+              </h2>
+              <span class="text-xs text-muted tabular-nums">{era.events.length} {noun}</span>
+            </div>
+          )}
+          <ol class="tl-list">
+            {era.events.map((e) => (
+              <li
+                class="tl-event"
+                data-groups={e.groups.join(" ")}
+                data-module={hueOf(e)}
+                data-neutral={hueOf(e) ? undefined : ""}
+              >
+                <span class="tl-year tabular-nums">{e.yearLabel}</span>
+                <span class="tl-dot" aria-hidden="true" />
+                <div class="tl-card">
+                  {e.title && (
+                    <p class="font-semibold text-primary" data-title={textOf(e.title)}>
+                      <Fragment set:html={e.title} />
+                    </p>
+                  )}
+                  {e.text && <p class="text-secondary" set:html={e.text} />}
+                  {(e.tag || e.links.length > 0) && (
+                    <p class="mt-2 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm">
+                      {e.tag && <span class="tl-tag">{e.tag}</span>}
+                      {e.links.map((l) => (
+                        <a href={l.href} class="tl-link">
+                          {linkLabel(l)}
+                        </a>
+                      ))}
+                    </p>
+                  )}
+                </div>
+              </li>
+            ))}
+          </ol>
+        </section>
+      ))
+    }
+  </div>
+</tn-timeline>
+
+<style>
+  /* Neutral colour for groups without a module hue (provinces, "other"). */
+  [data-neutral] {
+    --tn-mod: var(--tn-text-muted);
+    --tn-mod-soft: var(--tn-surface-muted);
+  }
+
+  /* Filter chips: native radios, styled. Hidden until the script runs. */
+  tn-timeline:not(:defined) [data-filters] {
+    display: none;
+  }
+  .tl-filters {
+    margin: 0 0 1.25rem;
+    padding: 0;
+    border: 0;
+  }
+  .tl-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    min-height: 2.25rem;
+    padding: 0.25rem 0.75rem;
+    border: 1px solid var(--tn-border);
+    border-radius: 999px;
+    background: var(--tn-surface);
+    color: var(--tn-text-secondary);
+    font-size: 0.875rem;
+    cursor: pointer;
+    user-select: none;
+  }
+  .tl-chip:hover {
+    border-color: var(--tn-border-strong);
+    color: var(--tn-text-primary);
+  }
+  .tl-chip:has(:checked) {
+    border-color: var(--tn-mod, var(--tn-text-primary));
+    background: var(--tn-mod-soft, var(--tn-surface-muted));
+    color: var(--tn-text-primary);
+    font-weight: 500;
+  }
+  .tl-chip:has(:focus-visible) {
+    outline: 2px solid var(--tn-focus);
+    outline-offset: 2px;
+  }
+  .tl-swatch {
+    width: 0.625rem;
+    height: 0.625rem;
+    border-radius: 999px;
+    background: var(--tn-mod);
+  }
+  .tl-chip-count {
+    color: var(--tn-text-muted);
+    font-size: 0.75rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* Overview strip */
+  .tl-overview {
+    padding: 0.25rem 0 0;
+  }
+  .tl-track {
+    position: relative;
+    height: 2.25rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    border: 1px solid var(--tn-border);
+  }
+  .tl-band {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+  }
+  a.tl-band:hover {
+    background: var(--tn-border);
+  }
+  a.tl-band:focus-visible {
+    outline-offset: -2px;
+  }
+  .tl-tick {
+    position: absolute;
+    top: 25%;
+    bottom: 25%;
+    width: 3px;
+    margin-inline-start: -1px;
+    border-radius: 2px;
+    background: var(--tn-mod);
+    pointer-events: none;
+    opacity: 0.85;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .tl-tick {
+      transition: opacity 200ms;
+    }
+  }
+  .tl-tick[data-dim] {
+    opacity: 0.12;
+  }
+  .tl-axis {
+    position: relative;
+    height: 1.25rem;
+    margin-top: 0.25rem;
+    font-size: 0.75rem;
+    color: var(--tn-text-muted);
+    font-variant-numeric: tabular-nums;
+  }
+  .tl-axis span {
+    position: absolute;
+    top: 0;
+  }
+  .tl-axis-mid {
+    display: none;
+    translate: -50% 0;
+  }
+  @media (min-width: 40rem) {
+    .tl-axis-mid {
+      display: block;
+    }
+  }
+
+  /* Eras */
+  .tl-era-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.25rem 1rem;
+    padding: 0.75rem 1rem;
+    border-radius: 0.75rem;
+    background: var(--tn-surface-muted);
+    border: 1px solid var(--tn-border);
+  }
+
+  /* Events: a vertical spine with a dot per event */
+  .tl-list {
+    --dot: 0.75rem;
+    --dot-col: 1.25rem;
+    --year-col: 0px;
+    position: relative;
+    margin: 1rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+  .tl-list::before {
+    content: "";
+    position: absolute;
+    top: 0.25rem;
+    bottom: 0.25rem;
+    inset-inline-start: calc(var(--year-col) + var(--dot-col) / 2 - 1px);
+    width: 2px;
+    border-radius: 2px;
+    background: var(--tn-border);
+  }
+  .tl-event {
+    position: relative;
+    display: grid;
+    grid-template-columns: var(--dot-col) minmax(0, 1fr);
+    grid-template-areas: "dot year" "dot card";
+    column-gap: 0.75rem;
+    padding-bottom: 0.875rem;
+  }
+  .tl-event[hidden] {
+    display: none;
+  }
+  .tl-year {
+    grid-area: year;
+    font-weight: 700;
+    font-size: 0.875rem;
+    color: var(--tn-mod);
+    line-height: 1.5rem;
+  }
+  .tl-dot {
+    grid-area: dot;
+    justify-self: center;
+    width: var(--dot);
+    height: var(--dot);
+    margin-top: 0.375rem;
+    border-radius: 999px;
+    background: var(--tn-mod);
+    box-shadow: 0 0 0 3px var(--tn-bg);
+    position: relative;
+  }
+  .tl-card {
+    grid-area: card;
+    padding: 0.625rem 0.875rem;
+    border: 1px solid var(--tn-border);
+    border-inline-start: 3px solid var(--tn-mod);
+    border-radius: 0.625rem;
+    background: var(--tn-surface);
+    line-height: 1.55;
+  }
+  .tl-card :global(em) {
+    font-style: italic;
+  }
+  .tl-card :global(a:not(.tl-link)) {
+    color: var(--tn-accent);
+    text-decoration: underline;
+  }
+  /* Case titles link to their write-up further down: keep them looking like titles. */
+  .tl-card [data-title] :global(a) {
+    color: inherit;
+    text-decoration: none;
+  }
+  .tl-card [data-title] :global(a:hover) {
+    color: var(--tn-accent);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .tl-tag {
+    display: inline-block;
+    padding: 0.05rem 0.5rem;
+    border-radius: 999px;
+    background: var(--tn-mod-soft);
+    color: var(--tn-text-primary);
+    font-size: 0.75rem;
+    font-weight: 500;
+  }
+  .tl-link {
+    color: var(--tn-accent);
+    font-weight: 500;
+    text-decoration: underline;
+    text-decoration-color: color-mix(in srgb, var(--tn-accent) 40%, transparent);
+    text-underline-offset: 3px;
+  }
+  .tl-link:hover {
+    color: var(--tn-accent-hover);
+    text-decoration-color: var(--tn-accent);
+  }
+
+  @media (min-width: 40rem) {
+    .tl-list {
+      --year-col: 5.5rem;
+    }
+    .tl-event {
+      grid-template-columns: var(--year-col) var(--dot-col) minmax(0, 1fr);
+      grid-template-areas: "year dot card";
+    }
+    .tl-year {
+      text-align: end;
+      padding-top: 0.5rem;
+      padding-inline-end: 0.25rem;
+      line-height: 1.25rem;
+    }
+    .tl-dot {
+      margin-top: 0.875rem;
+    }
+  }
+</style>
+
+<script>
+  class TnTimeline extends HTMLElement {
+    connectedCallback() {
+      const noun = this.dataset.noun ?? "events";
+      const total = Number(this.dataset.total ?? 0);
+      const status = this.querySelector<HTMLElement>("[data-status]");
+      const events = [...this.querySelectorAll<HTMLElement>(".tl-event")];
+      const ticks = [...this.querySelectorAll<HTMLElement>(".tl-tick")];
+      const eras = [...this.querySelectorAll<HTMLElement>("[data-era]")];
+      const matches = (el: HTMLElement, key: string) => !key || (el.dataset.groups ?? "").split(" ").includes(key);
+
+      const apply = (key: string, label: string) => {
+        let shown = 0;
+        for (const el of events) {
+          el.hidden = !matches(el, key);
+          if (!el.hidden) shown++;
+        }
+        for (const t of ticks) t.toggleAttribute("data-dim", !matches(t, key));
+        for (const era of eras) era.hidden = !era.querySelector(".tl-event:not([hidden])");
+        if (status) status.textContent = key ? `Showing ${shown} of ${total} ${noun}: ${label}` : `Showing all ${total} ${noun}`;
+      };
+
+      this.querySelector("[data-filters]")?.addEventListener("change", (e) => {
+        const input = e.target as HTMLInputElement;
+        const label = input.closest("label")?.querySelector("span:not(.tl-swatch):not(.tl-chip-count)")?.textContent ?? "";
+        apply(input.value, label);
+      });
+
+      // Link case titles to their detailed write-up further down the page, when there is one.
+      const headings = [...document.querySelectorAll<HTMLElement>("article h3[id]")];
+      for (const title of this.querySelectorAll<HTMLElement>("[data-title]")) {
+        const name = (title.dataset.title ?? "").replace(/\.$/, "");
+        const target = headings.find((h) => (h.textContent ?? "").trim().startsWith(name));
+        if (!target || title.querySelector("a")) continue;
+        const a = document.createElement("a");
+        a.href = `#${target.id}`;
+        a.className = "hover:underline";
+        a.append(...title.childNodes);
+        title.append(a);
+      }
+    }
+  }
+  customElements.define("tn-timeline", TnTimeline);
+</script>

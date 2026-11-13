@@ -52,6 +52,31 @@ section headings.
   `flowchart TD` or `flowchart LR`.
 - Describe richer future visuals with a comment for the app phase, for example
   `<!-- visual: interactive sorter of s.91 vs s.92 powers -->`.
+- **Callouts** set a short passage apart. Write a blockquote whose first line is a
+  marker (GitHub's alert syntax; Sätteri doesn't parse alerts itself, so a small
+  plugin in `src/plugins/markdown.ts` turns them into callouts):
+
+  ```markdown
+  > [!NOTE]
+  > Canada stopped distributing the penny in 2013.
+  ```
+
+  | Marker | Shown as | Use it for |
+  |---|---|---|
+  | `[!NOTE]` | Did you know? | A memorable fact or example that's interesting but not essential |
+  | `[!IMPORTANT]` | Key point | The one idea in a section a reader must take away |
+  | `[!MYTH]` | Common myth | A widespread misunderstanding, stated in bold, then corrected |
+
+  Use them sparingly: at most one or two per page, and never for "As of" notes, which
+  stay plain blockquotes. The facts in a callout follow the same sourcing rules as the
+  rest of the page.
+- **Glossary links** (`[riding](/glossary#riding)`) show the term's definition in a
+  popover on hover or focus, taken from the glossary entry. Link a term's first use on
+  a page when a reader might not know it, and check the slug exists in
+  `content/glossary.en.md`.
+- **Timelines.** Wrap a dated list or table in `<tn-widget name="timeline">` to show it as
+  an interactive timeline (see `src/widgets/timeline/index.astro` for the options). The
+  markdown inside stays the source of the facts.
 - **Internal links** use site paths: `/learn/<module>`, `/learn/<module>/<deep-dive>`,
   `/provinces/<id>`, `/glossary`. Never use file paths.
 - Link generously across modules where a reader would naturally want to jump.

@@ -1,0 +1,64 @@
+---
+/**
+ * A small ring showing quiz progress for a set of questions (correct out of
+ * total). Rendered at build time with 0 progress; src/scripts/ring.ts fills it
+ * in from saved progress and keeps it updated on `tne:progress`.
+ *
+ * The ring uses the module colour, so put it inside an element with
+ * data-module="…" (or pass `module`).
+ */
+import { t } from "../../i18n/en";
+
+interface Props {
+  ids: string[];
+  module?: string;
+  /** Text beside the ring: "short" is "2/5", "long" is "2 of 5 answered correctly". */
+  count?: "short" | "long" | "none";
+  size?: "sm" | "md";
+  class?: string;
+}
+
+const { ids, module, count = "short", size = "sm", class: className = "" } = Astro.props;
+const label = t.quiz.progress(0, ids.length);
+const box = size === "sm" ? "size-5" : "size-7";
+---
+
+{
+  ids.length > 0 && (
+    <quiz-ring
+      data-ids={ids.join(" ")}
+      data-module={module}
+      role="img"
+      aria-label={label}
+      title={label}
+      class:list={["inline-flex shrink-0 items-center gap-1.5", className]}
+    >
+      <svg viewBox="0 0 36 36" class:list={[box, "-rotate-90"]} aria-hidden="true">
+        <circle cx="18" cy="18" r="15.9155" fill="none" stroke-width="4" class="stroke-surface-sunken" />
+        <circle
+          data-arc
+          cx="18"
+          cy="18"
+          r="15.9155"
+          fill="none"
+          stroke-width="4"
+          stroke-dasharray="0 100"
+          class="stroke-module motion-safe:transition-[stroke-dasharray] motion-safe:duration-500"
+        />
+      </svg>
+      {count !== "none" && (
+        <span
+          data-count={count}
+          aria-hidden="true"
+          class:list={["text-muted tabular-nums", count === "short" ? "text-xs font-medium" : "text-sm"]}
+        >
+          {count === "short" ? `0/${ids.length}` : label}
+        </span>
+      )}
+    </quiz-ring>
+  )
+}
+
+<script>
+  import "../../scripts/ring";
+</script>

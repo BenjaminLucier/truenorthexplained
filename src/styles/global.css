@@ -94,6 +94,128 @@
   }
 }
 
+/* ------------------------------------------------------------------------
+   Module colours
+   One hue per learning module, for icon tiles, module headers, card accents
+   and progress rings. Same lightness and chroma for every hue so they read
+   as a family; the Canada red (accent) stays the brand colour and isn't used
+   here. Elements opt in with data-module="<module id>", which sets --tn-mod
+   and --tn-mod-soft; Tailwind exposes them as `module` and `module-soft`
+   (text-module, bg-module-soft, border-module…). Without data-module they
+   fall back to the accent.
+   ------------------------------------------------------------------------ */
+:root {
+  --tn-module-big-picture: oklch(0.47 0.12 232);
+  --tn-module-big-picture-soft: oklch(0.95 0.035 232);
+  --tn-module-constitution: oklch(0.47 0.12 75);
+  --tn-module-constitution-soft: oklch(0.95 0.035 75);
+  --tn-module-crown: oklch(0.47 0.12 295);
+  --tn-module-crown-soft: oklch(0.95 0.035 295);
+  --tn-module-parliament: oklch(0.47 0.12 140);
+  --tn-module-parliament-soft: oklch(0.95 0.035 140);
+  --tn-module-elections: oklch(0.47 0.12 200);
+  --tn-module-elections-soft: oklch(0.95 0.035 200);
+  --tn-module-federalism: oklch(0.47 0.12 45);
+  --tn-module-federalism-soft: oklch(0.95 0.035 45);
+  --tn-module-government: oklch(0.47 0.12 262);
+  --tn-module-government-soft: oklch(0.95 0.035 262);
+  --tn-module-law: oklch(0.47 0.12 330);
+  --tn-module-law-soft: oklch(0.95 0.035 330);
+  --tn-module-charter: oklch(0.47 0.12 170);
+  --tn-module-charter-soft: oklch(0.95 0.035 170);
+  --tn-module-indigenous: oklch(0.47 0.12 105);
+  --tn-module-indigenous-soft: oklch(0.95 0.035 105);
+}
+
+[data-theme="dark"] {
+  --tn-module-big-picture: oklch(0.8 0.1 232);
+  --tn-module-big-picture-soft: oklch(0.3 0.05 232);
+  --tn-module-constitution: oklch(0.8 0.1 75);
+  --tn-module-constitution-soft: oklch(0.3 0.05 75);
+  --tn-module-crown: oklch(0.8 0.1 295);
+  --tn-module-crown-soft: oklch(0.3 0.05 295);
+  --tn-module-parliament: oklch(0.8 0.1 140);
+  --tn-module-parliament-soft: oklch(0.3 0.05 140);
+  --tn-module-elections: oklch(0.8 0.1 200);
+  --tn-module-elections-soft: oklch(0.3 0.05 200);
+  --tn-module-federalism: oklch(0.8 0.1 45);
+  --tn-module-federalism-soft: oklch(0.3 0.05 45);
+  --tn-module-government: oklch(0.8 0.1 262);
+  --tn-module-government-soft: oklch(0.3 0.05 262);
+  --tn-module-law: oklch(0.8 0.1 330);
+  --tn-module-law-soft: oklch(0.3 0.05 330);
+  --tn-module-charter: oklch(0.8 0.1 170);
+  --tn-module-charter-soft: oklch(0.3 0.05 170);
+  --tn-module-indigenous: oklch(0.8 0.1 105);
+  --tn-module-indigenous-soft: oklch(0.3 0.05 105);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    --tn-module-big-picture: oklch(0.8 0.1 232);
+    --tn-module-big-picture-soft: oklch(0.3 0.05 232);
+    --tn-module-constitution: oklch(0.8 0.1 75);
+    --tn-module-constitution-soft: oklch(0.3 0.05 75);
+    --tn-module-crown: oklch(0.8 0.1 295);
+    --tn-module-crown-soft: oklch(0.3 0.05 295);
+    --tn-module-parliament: oklch(0.8 0.1 140);
+    --tn-module-parliament-soft: oklch(0.3 0.05 140);
+    --tn-module-elections: oklch(0.8 0.1 200);
+    --tn-module-elections-soft: oklch(0.3 0.05 200);
+    --tn-module-federalism: oklch(0.8 0.1 45);
+    --tn-module-federalism-soft: oklch(0.3 0.05 45);
+    --tn-module-government: oklch(0.8 0.1 262);
+    --tn-module-government-soft: oklch(0.3 0.05 262);
+    --tn-module-law: oklch(0.8 0.1 330);
+    --tn-module-law-soft: oklch(0.3 0.05 330);
+    --tn-module-charter: oklch(0.8 0.1 170);
+    --tn-module-charter-soft: oklch(0.3 0.05 170);
+    --tn-module-indigenous: oklch(0.8 0.1 105);
+    --tn-module-indigenous-soft: oklch(0.3 0.05 105);
+  }
+}
+
+[data-module="big-picture"] {
+  --tn-mod: var(--tn-module-big-picture);
+  --tn-mod-soft: var(--tn-module-big-picture-soft);
+}
+[data-module="constitution"] {
+  --tn-mod: var(--tn-module-constitution);
+  --tn-mod-soft: var(--tn-module-constitution-soft);
+}
+[data-module="crown"] {
+  --tn-mod: var(--tn-module-crown);
+  --tn-mod-soft: var(--tn-module-crown-soft);
+}
+[data-module="parliament"] {
+  --tn-mod: var(--tn-module-parliament);
+  --tn-mod-soft: var(--tn-module-parliament-soft);
+}
+[data-module="elections"] {
+  --tn-mod: var(--tn-module-elections);
+  --tn-mod-soft: var(--tn-module-elections-soft);
+}
+[data-module="federalism"] {
+  --tn-mod: var(--tn-module-federalism);
+  --tn-mod-soft: var(--tn-module-federalism-soft);
+}
+[data-module="government"] {
+  --tn-mod: var(--tn-module-government);
+  --tn-mod-soft: var(--tn-module-government-soft);
+}
+[data-module="law"] {
+  --tn-mod: var(--tn-module-law);
+  --tn-mod-soft: var(--tn-module-law-soft);
+}
+[data-module="charter"] {
+  --tn-mod: var(--tn-module-charter);
+  --tn-mod-soft: var(--tn-module-charter-soft);
+}
+[data-module="indigenous"] {
+  --tn-mod: var(--tn-module-indigenous);
+  --tn-mod-soft: var(--tn-module-indigenous-soft);
+}
+
 @theme {
   /* Only semantic colours exist: the default palette is switched off. */
   --color-*: initial;
@@ -128,6 +250,12 @@
 
   --radius-card: 0.875rem;
   --shadow-card: 0 1px 2px rgb(0 0 0 / 0.04), 0 4px 16px rgb(0 0 0 / 0.04);
+}
+
+/* Module colours (see above). `inline` so utilities read --tn-mod where they're used. */
+@theme inline {
+  --color-module: var(--tn-mod, var(--tn-accent));
+  --color-module-soft: var(--tn-mod-soft, var(--tn-accent-soft));
 }
 
 /* ------------------------------------------------------------------------
@@ -193,6 +321,41 @@
   & blockquote p::before,
   & blockquote p::after {
     content: none;
+  }
+  /* Callouts: `> [!NOTE]`, `> [!IMPORTANT]`, `> [!MYTH]` (see src/plugins/markdown.ts and STYLE.md). */
+  & .callout {
+    @apply my-7 rounded-lg border border-s-4 px-5 py-4;
+  }
+  & .callout > :last-child {
+    @apply mb-0;
+  }
+  & .callout > p:nth-child(2) {
+    @apply mt-0;
+  }
+  & .callout-title {
+    @apply mt-0 mb-1.5 flex items-center gap-2 text-xs font-semibold tracking-wide uppercase;
+  }
+  & .callout-title svg {
+    @apply size-4 shrink-0;
+  }
+  /* "Did you know?" follows the page's module colour (accent elsewhere). */
+  & .callout-note {
+    @apply border-subtle border-s-module bg-module-soft/60;
+  }
+  & .callout-note .callout-title {
+    @apply text-module;
+  }
+  & .callout-important {
+    @apply border-subtle border-s-accent bg-surface;
+  }
+  & .callout-important .callout-title {
+    @apply text-accent;
+  }
+  & .callout-myth {
+    @apply border-subtle border-s-danger bg-danger-soft/50;
+  }
+  & .callout-myth .callout-title {
+    @apply text-danger;
   }
   & .table-wrap {
     @apply my-6 overflow-x-auto rounded-lg border border-subtle;

@@ -7,6 +7,7 @@
 import { createHash } from "node:crypto";
 import { defineHastPlugin, type HastContent } from "satteri";
 import { createMermaidRenderer, type MermaidRenderer } from "mermaid-isomorphic";
+import * as lucide from "lucide-static";
 
 /**
  * Drops HTML comments so authoring notes such as `<!-- check: … -->`,
@@ -47,6 +48,57 @@ export const externalLinks = defineHastPlugin({
       if (!/^https?:\/\//.test(href)) return;
       ctx.setProperty(node, "rel", ["noopener"]);
       ctx.setProperty(node, "dataExternal", "");
+    },
+  },
+});
+
+const CALLOUTS = {
+  note: { title: "Did you know?", icon: lucide.Lightbulb },
+  important: { title: "Key point", icon: lucide.KeyRound },
+  myth: { title: "Common myth", icon: lucide.BadgeAlert },
+} as const;
+type CalloutKind = keyof typeof CALLOUTS;
+
+/**
+ * Turns GitHub-style alerts into callouts. Sätteri doesn't parse alerts itself,
+ * so this looks for a blockquote whose first line is a marker:
+ *
+ *     > [!NOTE]        → "Did you know?"
+ *     > [!IMPORTANT]   → "Key point"
+ *     > [!MYTH]        → "Common myth"
+ *
+ * The blockquote becomes <div class="callout callout-…" role="note"> with a
+ * title line; the rest of its content is kept. Styled in global.css.
+ */
+export const callouts = defineHastPlugin({
+  name: "tne-callouts",
+  element: {
+    filter: ["blockquote"],
+    visit(node, ctx) {
+      const para = node.children.find(
+        (c): c is Extract<HastContent, { type: "element" }> => c.type === "element" && c.tagName === "p",
+      );
+      const first = para?.children[0];
+      if (!para || first?.type !== "text") return;
+      const match = first.value.match(/^\s*\[!(NOTE|IMPORTANT|MYTH)\][ \t]*(?:\r?\n|$)/i);
+      if (!match) return;
+      const kind = match[1]!.toLowerCase() as CalloutKind;
+      const rest = first.value.slice(match[0].length);
+      if (rest.trim() === "" && para.children.length === 1) ctx.removeNode(para);
+      else ctx.setField(first, "value", rest.replace(/^\s+/, ""));
+      const { title, icon } = CALLOUTS[kind];
+      ctx.setField(node, "tagName", "div");
+      ctx.setProperty(node, "className", ["callout", `callout-${kind}`]);
+      ctx.setProperty(node, "role", "note");
+      ctx.prependChild(node, {
+        type: "element",
+        tagName: "p",
+        properties: { className: ["callout-title"] },
+        children: [
+          { type: "raw", value: icon.replace("<svg", '<svg aria-hidden="true" focusable="false"') },
+          { type: "text", value: title },
+        ],
+      });
     },
   },
 });

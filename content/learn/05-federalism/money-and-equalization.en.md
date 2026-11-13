@@ -75,11 +75,12 @@ How it works, simplified:
 
 Every province has received equalization at some point since 1957.
 
-**Where the money comes from:** Equalization is paid out of the federal government's
-**general revenues**, mostly federal taxes paid by people and businesses across the
-country, including in provinces that receive payments. Provinces don't pay into it.
-Saying a province "pays equalization" really means that its residents pay federal
-taxes, some of which fund the program.
+> [!MYTH]
+> **"Some provinces pay equalization to others."** Equalization is paid out of the
+> federal government's **general revenues**, mostly federal taxes paid by people and
+> businesses across the country, including in provinces that receive payments.
+> Provinces don't pay into it. Saying a province "pays equalization" really means that
+> its residents pay federal taxes, some of which fund the program.
 
 **Territories don't get equalization.** They have their own program, TFF.
 

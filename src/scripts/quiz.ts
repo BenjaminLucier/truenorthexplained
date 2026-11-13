@@ -1,4 +1,4 @@
-import { clearProgress, onProgress, readProgress, recordAttempt } from "./progress";
+import { clearProgress, onProgress, readProgress, recordAttempt, scoreFor } from "./progress";
 import { t } from "../i18n/en";
 
 const strings = {
@@ -82,13 +82,11 @@ export class QuizSummary extends HTMLElement {
   }
 
   render() {
-    const ids = (this.dataset.ids ?? "").split(" ").filter(Boolean);
-    const progress = readProgress();
-    const right = ids.filter((id) => progress[id]?.correct).length;
+    const { right, total } = scoreFor((this.dataset.ids ?? "").split(" ").filter(Boolean));
     const text = this.querySelector("[data-text]");
-    if (text) text.textContent = t.quiz.progress(right, ids.length);
+    if (text) text.textContent = t.quiz.progress(right, total);
     const bar = this.querySelector<HTMLElement>("[data-bar]");
-    if (bar) bar.style.width = `${ids.length ? (right / ids.length) * 100 : 0}%`;
+    if (bar) bar.style.width = `${total ? (right / total) * 100 : 0}%`;
   }
 }
 

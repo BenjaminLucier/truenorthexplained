@@ -21,6 +21,11 @@ export function readProgress(): Progress {
   }
 }
 
+/** How many of these questions were last answered correctly. */
+export function scoreFor(ids: string[], progress: Progress = readProgress()): { right: number; total: number } {
+  return { right: ids.filter((id) => progress[id]?.correct).length, total: ids.length };
+}
+
 export function recordAttempt(id: string, correct: boolean): void {
   const progress = readProgress();
   progress[id] = { correct, at: new Date().toISOString() };
