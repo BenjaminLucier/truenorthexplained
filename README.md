@@ -69,12 +69,16 @@ The planning docs explain the content itself:
 - [STYLE.md](STYLE.md): how pages are written and sourced
 - [REVIEW.md](REVIEW.md): what still needs fact-checking
 
-## Copyright
+## Licence
 
-© 2026 Benjamin Lucier. All rights reserved.
+© 2026 Benjamin Lucier. Text, code and data in this repository are licensed under
+[Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+(CC BY-SA 4.0). See [LICENSE](LICENSE).
 
-This repository is public so the site can be built and hosted openly, but no licence is
-granted to copy, modify or redistribute its code or content.
+Share-alike matches Wikipedia's licence, so material adapted from Wikipedia can be used
+here. Third-party material keeps its own terms, listed in [grounding/ATTRIBUTION.md](grounding/ATTRIBUTION.md)
+and on the site's credits page. That includes Statistics Canada and Elections Canada data
+(Open Government Licence – Canada) and flag images from Wikimedia Commons.
 
 An independent learning project, not affiliated with the Government of Canada. It's an
 educational overview, not legal advice.

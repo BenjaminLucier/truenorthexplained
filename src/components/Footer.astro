@@ -54,6 +54,11 @@ const year = new Date().getFullYear();
     }
   </div>
   <div class="border-t border-subtle">
-    <p class="mx-auto max-w-6xl px-4 py-5 text-xs text-muted sm:px-6">{t.footer.copyright(year)}</p>
+    <p class="mx-auto max-w-6xl px-4 py-5 text-xs text-muted sm:px-6">
+      {t.footer.copyright(year)}
+      <a href={t.footer.licenseUrl} rel="license noopener" class="underline decoration-subtle underline-offset-2 hover:text-primary"
+        >{t.footer.license}</a
+      >.
+    </p>
   </div>
 </footer>

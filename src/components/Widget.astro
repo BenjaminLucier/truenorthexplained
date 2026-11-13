@@ -1,0 +1,19 @@
+---
+/** Renders src/widgets/<name>/index.astro. See src/lib/widgets.ts. */
+import type { AstroComponentFactory } from "astro/runtime/server/index.js";
+
+interface Props {
+  name: string;
+  props?: Record<string, string>;
+}
+
+const widgets = import.meta.glob<{ default: AstroComponentFactory }>("../widgets/*/index.astro", { eager: true });
+const { name, props = {} } = Astro.props;
+const Component = widgets[`../widgets/${name}/index.astro`]?.default;
+if (!Component) {
+  const known = Object.keys(widgets).map((k) => k.split("/")[2]);
+  throw new Error(`Unknown widget "${name}". Known widgets: ${known.join(", ")}`);
+}
+---
+
+<Component {...props} />

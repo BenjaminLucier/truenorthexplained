@@ -2,6 +2,8 @@
 import { render } from "astro:content";
 import ContentLayout from "../layouts/ContentLayout.astro";
 import ProvinceCards from "../components/ProvinceCards.astro";
+import Widget from "../components/Widget.astro";
+import { splitWidgets } from "../lib/widgets";
 import { allPages, moduleFor, type Page } from "../lib/site";
 import { t } from "../i18n/en";
 
@@ -11,7 +13,8 @@ export async function getStaticPaths() {
 }
 
 const { page } = Astro.props as { page: Page };
-const { Content, headings } = await render(page);
+const { headings } = await render(page);
+const chunks = splitWidgets(page.rendered?.html ?? "");
 
 let eyebrow: string | undefined;
 if (page.id.startsWith("learn/")) {
@@ -29,5 +32,5 @@ if (page.id.startsWith("learn/")) {
 
 <ContentLayout page={page} headings={headings} eyebrow={eyebrow}>
   {page.id === "provinces" && <ProvinceCards />}
-  <Content />
+  {chunks.map((c) => (c.kind === "html" ? <Fragment set:html={c.html} /> : <Widget name={c.name} props={c.props} />))}
 </ContentLayout>

@@ -80,7 +80,9 @@ export const en = {
     about: "About",
     notAffiliated: "An independent learning project, not affiliated with the Government of Canada.",
     notAdvice: "Educational overview, not legal advice.",
-    copyright: (year: number) => `© ${year} Benjamin Lucier. All rights reserved.`,
+    copyright: (year: number) => `© ${year} Benjamin Lucier.`,
+    license: "Text and code licensed under CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
   },
   notFound: {
     title: "Page not found",
