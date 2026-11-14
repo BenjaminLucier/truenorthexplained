@@ -101,7 +101,6 @@ responsibilities passed to the NWT. A new Northwest Territories Act came into fo
 the same day. The NWT now collects a share of resource revenues and makes most
 decisions about lands and resources, much like a province. Legally, what passed to
 the territory was the *administration and control* of the land, not the title to it.
-<!-- check: wording on administration and control vs. ownership -->
 
 ### Land claims and Indigenous self-government
 
@@ -110,13 +109,12 @@ by [modern treaties](term:modern-treaty) (land claim agreements), including the 
 Agreement** (1984) and the **Tłı̨chǫ Agreement** (2003), which also set up the Tłı̨chǫ
 Government. Negotiations continue in other regions. See
 [Self-government](/learn/indigenous/self-government).
-<!-- check: "about half" Indigenous share of population -->
 
 ## Courts
 
 | Court | What it does |
 |---|---|
-| **Court of Appeal for the Northwest Territories** | Hears appeals. Its judges are drawn from the NWT and from other courts, including those of Alberta, Saskatchewan, Yukon and Nunavut. <!-- check: current composition of the NWT Court of Appeal --> |
+| **Court of Appeal for the Northwest Territories** | Hears appeals. Its judges are drawn from the NWT and from other courts, including those of Alberta, Saskatchewan, Yukon and Nunavut. |
 | **Supreme Court of the Northwest Territories** | The **superior court**: serious criminal trials, larger civil cases, divorce. Despite the name, it is not the highest court. |
 | **Territorial Court of the Northwest Territories** | Hears most criminal cases, youth cases and some civil claims. It also runs specialized courts such as a Wellness Court. |
 | **Justices of the peace** | Handle minor offences and bail hearings, especially in small communities. |
@@ -126,11 +124,9 @@ live. See [the court structure](/learn/law/courts).
 
 ## Local government
 
-The NWT has 33 communities, most of them small. Local governments include cities,
-towns and villages, as well as hamlets, charter communities and settlements, and in
-some places Indigenous governments deliver local services. Yellowknife is the only
-city.
-<!-- check: number of communities (33) and list of community government types -->
+The NWT has 33 communities, most of them small. Local governments include a city,
+towns and a village, as well as hamlets and a charter community, and in some places
+Indigenous governments deliver local services. Yellowknife is the only city.
 
 See [Municipalities](/learn/federalism/municipalities).
 
@@ -138,9 +134,11 @@ See [Municipalities](/learn/federalism/municipalities).
 
 - [What is Consensus Government?](https://www.ntlegislativeassembly.ca/node/2966) (Legislative Assembly of the Northwest Territories)
 - [Legislative Assembly of the Northwest Territories](https://www.ntlegislativeassembly.ca/)
-- [Northwest Territories Act (S.C. 2014, c. 2, s. 2)](https://laws-lois.justice.gc.ca/eng/acts/N-27.05/): s. 4 (Commissioner appointed by the Governor in Council), s. 17 (the Legislature)
+- [Northwest Territories Act (S.C. 2014, c. 2, s. 2)](https://laws-lois.justice.gc.ca/eng/acts/N-27.05/): s. 2 (public lands "belong to Her Majesty in right of Canada"), s. 4 (Commissioner appointed by the Governor in Council), s. 17 (the Legislature), s. 51 (Commissioner has "the administration and control of public lands")
 - [Northwest Territories devolution](https://www.rcaanc-cirnac.gc.ca/eng/1352398433161) (Crown-Indigenous Relations and Northern Affairs Canada)
 - [Official Languages](https://www.ece.gov.nt.ca/en/services/official-languages) (GNWT Education, Culture and Employment)
-- [Courts of the Northwest Territories](https://www.nwtcourts.ca/)
+- [Courts of the Northwest Territories](https://www.nwtcourts.ca/) and [Court of Appeal](https://www.nwtcourts.ca/en/courts/court-of-appeal/): judges drawn from Alberta, Saskatchewan, the NWT, Yukon and Nunavut
+- [Indigenous population continues to grow](https://www150.statcan.gc.ca/n1/daily-quotidien/220921/dq220921a-eng.htm) (Statistics Canada, The Daily, September 21, 2022): Indigenous people are 49.6% of the NWT population (2021 census)
+- [Communities](https://www.maca.gov.nt.ca/en/communitylist) (GNWT Municipal and Community Affairs): 33 communities; 1 city, 4 towns, 1 village, 12 hamlets, 1 charter community, 9 designated authorities, 5 self-government communities
 - [Government of the Northwest Territories](https://www.gov.nt.ca/)
 - [The judicial structure](https://www.justice.gc.ca/eng/csj-sjc/just/07.html) (Department of Justice)

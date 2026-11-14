@@ -22,6 +22,7 @@ about: [event:yukon-territory-1898, event:yukon-devolution-2003, term:umbrella-f
 
 > **As of 2026:** The Legislative Assembly has {{legislature.seats.yukon}} seats. It grew from 19 to 21 for
 > the November 2025 general election.
+> <!-- check: 19 to 21 seats and the November 2025 election date; unresolved 2026-11-13: Elections Yukon, yukon.ca and CBC blocked to automated fetch (403) -->
 
 ## In numbers
 
@@ -71,7 +72,7 @@ instruction from the federal minister told the Commissioner to follow the advice
 the elected executive, much as a Lieutenant Governor does. That set up **responsible
 government** in Yukon. The current Yukon Act, which came into force in 2003, wrote
 the arrangement into law.
-<!-- check: 1979 letter of instruction (the "Epp letter") and how it is described -->
+<!-- check: 1979 letter of instruction (the "Epp letter") and how it is described; unresolved 2026-11-13: Commissioner of Yukon and yukon.ca sites blocked to automated fetch (403); no other primary source found -->
 
 ### Devolution: the first territory to manage its own land
 
@@ -89,20 +90,19 @@ Since then, **11 of Yukon's 14 First Nations** have signed final and
 self-government agreements. These First Nations make their own laws on many matters
 for their citizens and lands, alongside the territorial and federal governments. See
 [Self-government](/learn/indigenous/self-government).
-<!-- check: 11 of 14 is still current -->
+<!-- check: 11 of 14 is still current; unresolved 2026-11-13: cyfn.ca and yukon.ca blocked to automated fetch (403); CIRNAC's self-government page says only "most First Nations in the Yukon" -->
 
 ### Languages
 
-English and French are Yukon's official languages for the Legislature, laws and
-courts, under Yukon's **Languages Act**. The Act also recognizes the importance of
-Yukon's Indigenous languages.
-<!-- check: wording of the Languages Act on Indigenous languages -->
+Under Yukon's **Languages Act**, English and French can be used in the Legislature
+and the courts, and laws are published in both. The Act also recognizes the importance
+of Yukon's Indigenous languages, which can be used in Legislative Assembly debates.
 
 ## Courts
 
 | Court | What it does |
 |---|---|
-| **Court of Appeal of Yukon** | Hears appeals from the Supreme Court and the Territorial Court. Its judges largely come from the British Columbia Court of Appeal. <!-- check: Court of Appeal of Yukon composition (BC Court of Appeal judges plus others) --> |
+| **Court of Appeal of Yukon** | Hears appeals from the Supreme Court and the Territorial Court. Its judges are drawn from the British Columbia Court of Appeal and from the courts of Yukon, the Northwest Territories and Nunavut. |
 | **Supreme Court of Yukon** | The **superior court**: serious criminal trials, larger civil cases, divorce. Despite the name, it is not the highest court. |
 | **Territorial Court of Yukon** | Hears most criminal cases, youth cases and family matters. |
 | **Small Claims Court** | Smaller civil disputes. |
@@ -115,7 +115,6 @@ See [the court structure](/learn/law/courts).
 Yukon has eight incorporated municipalities, including the City of Whitehorse
 and the City of Dawson. Most other communities are unincorporated, with local
 services provided by the territorial government or by First Nations governments.
-<!-- check: eight municipalities is current -->
 
 See [Municipalities](/learn/federalism/municipalities).
 
@@ -123,8 +122,10 @@ See [Municipalities](/learn/federalism/municipalities).
 
 - [Yukon Act (S.C. 2002, c. 7)](https://laws-lois.justice.gc.ca/eng/acts/Y-2.01/page-1.html): preamble (responsible government), s. 4 (Commissioner appointed by the Governor in Council), s. 8 (Executive Council), s. 17 (the Legislature)
 - [Yukon devolution](https://www.rcaanc-cirnac.gc.ca/eng/1352470994098) (Crown-Indigenous Relations and Northern Affairs Canada)
-- [Yukon Courts](https://www.yukoncourts.ca/)
-- [Yukon Legislative Assembly](https://yukonassembly.ca/) <!-- unverified link -->
-- [How the government works](https://yukon.ca/en/how-government-works) (Government of Yukon) <!-- unverified link -->
-- [2025 Electoral Districts: 21 Districts](https://electionsyukon.ca/en/electoral-districts-21) (Elections Yukon) <!-- unverified link -->
+- [Yukon Courts](https://www.yukoncourts.ca/) and [Court of Appeal](https://www.yukoncourts.ca/en/court-appeal): justices of the BC Court of Appeal and from Yukon, the Northwest Territories and Nunavut
+- [About AYC](https://ayc-yk.ca/about-ayc/) (Association of Yukon Communities): the eight incorporated municipalities
+- [Languages Act, 1988](https://axl.cefan.ulaval.ca/amnord/Yukon-loi1988.htm) (text reproduced by Université Laval's CEFAN, French) and [Yukon language framework](https://cmfc-mccf.ca/micro/portrait-juridique-2025/en/yukon/) (Ministers' Council on the Canadian Francophonie, 2025): use of English and French in the Legislature, laws and courts, and of Yukon Indigenous languages in the Legislature
+- [Yukon Legislative Assembly](https://yukonassembly.ca/) <!-- unverified link; blocked: 403 to automated fetch 2026-11-13 -->
+- [How the government works](https://yukon.ca/en/how-government-works) (Government of Yukon) <!-- unverified link; blocked: 403 to automated fetch 2026-11-13 -->
+- [2025 Electoral Districts: 21 Districts](https://electionsyukon.ca/en/electoral-districts-21) (Elections Yukon) <!-- unverified link; blocked: 403 to automated fetch 2026-11-13 -->
 - [The judicial structure](https://www.justice.gc.ca/eng/csj-sjc/just/07.html) (Department of Justice)

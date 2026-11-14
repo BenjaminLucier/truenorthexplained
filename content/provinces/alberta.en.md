@@ -23,7 +23,7 @@ about: [term:alberta-act, term:citizen-initiative, term:metis-settlements]
 > **As of 2026:** The Legislative Assembly has {{legislature.seats.alberta}} seats. Alberta has passed a law to add
 > seats for the next general election, scheduled for October 2027. An independent
 > commission recommended 89 seats, and a 2026 government bill proposed 91.
-> <!-- check: final seat count for the 2027 election (Bill 32, 2026) -->
+> <!-- check: final seat count for the 2027 election (Bill 32, 2026); unresolved 2026-11-13: Bill 32 (Electoral Boundaries Commission Amendment Act, 2026) proposes 91 and an advisory panel's 91-division report was tabled November 2, 2026, but no fetched source confirms royal assent or a final Electoral Divisions Act -->
 
 ## In numbers
 
@@ -85,7 +85,6 @@ See also, on the timeline, [Alberta's equalization referendum](event:alberta-equ
 
 Alberta and British Columbia are the only provinces where voters can recall their member
 of the legislature, and both also have full citizen-initiative laws.
-<!-- check: confirm no other province currently has a recall law -->
 Voters in Alberta can start two kinds of petition:
 
 - **[Recall](term:recall):** if enough voters in an electoral division sign a petition, a vote can be
@@ -105,7 +104,7 @@ Act**, and are run by Elections Alberta.
 
 Alberta is the only province with a legislated Métis land base. Under the **Metis
 Settlements Act** (1990), eight Métis Settlements hold land collectively and have
-their own elected councils. <!-- check: confirm "only province" wording and the 1990 date against Alberta's Metis Settlements Act -->
+their own elected councils.
 See [Indigenous peoples and the Crown](/learn/indigenous).
 
 ## Courts
@@ -137,6 +136,9 @@ flexibility.
 - [Government of Alberta](https://www.alberta.ca/)
 - [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-3.html): s. 92 (provincial powers), s. 92A (non-renewable natural resources, forestry and electrical energy)
 - [Elections Alberta: Recall](https://www.elections.ab.ca/recall-initiative/recall/) and [Citizen Initiative](https://www.elections.ab.ca/recall-initiative/initiative/)
+- [Recall Act (SA 2021, c R-5.7)](https://kings-printer.alberta.ca/documents/Acts/R05P7.pdf) (Alberta King's Printer); [Alberta MLA recall petitions: what to know](https://globalnews.ca/news/11540768/alberta-mla-recall-petitions-what-to-know/) (Global News, November 25, 2025): Alberta and BC are the only provinces with recall laws
+- [Metis Settlements Act (RSA 2000, c M-14; first enacted 1990)](https://kings-printer.alberta.ca/documents/Acts/M14.pdf) (Alberta King's Printer): eight settlements, elected settlement councils; [Métis Settlements and farms](https://indigenouspeoplesatlasofcanada.ca/article/metis-settlements-and-farms/) (Indigenous Peoples Atlas of Canada): the only government-recognized Métis land base in Canada
+- [Alberta's next election](https://www.elections.ab.ca/elections/albertas-next-election/) (Elections Alberta): October 18, 2027
 - [Alberta Courts](https://albertacourts.ca/)
 - [Municipal Government Act](https://kings-printer.alberta.ca/1266.cfm?page=m26.cfm&leg_type=Acts&isbncln=9780779848874) (Alberta King's Printer)
 - [City charters](https://www.alberta.ca/city-charters) (Government of Alberta)

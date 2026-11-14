@@ -63,13 +63,12 @@ represents Inuit in making sure it is carried out. See
 
 ### A public government in an Inuit homeland
 
-Most [Nunavummiut](term:nunavummiut) (people of Nunavut) are Inuit, roughly 85%. But the Government of
+Most [Nunavummiut](term:nunavummiut) (people of Nunavut) are Inuit, about 84% in the 2021 census. But the Government of
 Nunavut is a **public government**: it serves everyone who lives there, and anyone
 eligible can vote and run for office, whatever their background. This is different
 from Indigenous **[self-government](term:self-government)**, where a First Nation or Inuit government serves
 its own members. Inuit interests are protected through the land claim and NTI rather
 than through special rules for who can vote.
-<!-- check: Inuit share of population (about 85%, 2021 census) -->
 
 The government also tries to reflect **[Inuit Qaujimajatuqangit](term:inuit-qaujimajatuqangit)**, a term usually
 translated as Inuit traditional knowledge and values, in how it works.
@@ -93,12 +92,12 @@ Nunavummiut have called for party politics. See
 
 ### Languages: Inuktut first
 
-Under Nunavut's **Official Languages Act**, the official languages are the **Inuit
-language**, English and French. "Inuit language" (often called **[Inuktut](term:inuktut)**) covers
-**Inuktitut** and **Inuinnaqtun**. A separate **Inuit Language Protection Act**
-promotes its use in schools, workplaces and government services. Legislative
+Under Nunavut's **Official Languages Act**, the official languages are **[Inuktut](term:inuktut)**
+(the Inuit language), English and French. Inuktut covers **Inuktitut** and
+**Inuinnaqtun**. A separate law, the **Inuktut Protection Act** (called the Inuit Language
+Protection Act until 2025), promotes its use in schools, workplaces and government
+services. The Legislative Assembly passed both Acts in 2008. Legislative
 debates take place in Inuktut as well as English, with interpretation.
-<!-- check: both Acts passed 2008 -->
 
 ### Devolution: still in progress
 
@@ -125,14 +124,13 @@ Everywhere else, trials are split between a provincial or territorial court and 
 superior court. Nunavut merged them because it has 25 small communities spread over
 a fifth of Canada's land area, and one court that travels on **[circuit](term:circuit)** is simpler
 for people to reach. See [the court structure](/learn/law/courts).
-<!-- check: "25 communities" and "a fifth of Canada's land area" -->
 
 ## Local government
 
 Nunavut has 25 communities, none connected to each other or to the south by road.
 Iqaluit is the only city; most other communities are **hamlets**, governed by an
 elected mayor and council.
-<!-- check: count and community types (city, hamlets, any towns or settlements) -->
+<!-- check: count and community types (city, hamlets, any towns or settlements); 2026-11-13: count of 25 confirmed (Nunavut Planning Commission); "only city", "hamlets" and "no road" unresolved: gov.nu.ca blocked to automated fetch (403) -->
 
 See [Municipalities](/learn/federalism/municipalities).
 
@@ -145,5 +143,10 @@ See [Municipalities](/learn/federalism/municipalities).
 - [Nunavut devolution](https://www.rcaanc-cirnac.gc.ca/eng/1352471770723) (Crown-Indigenous Relations and Northern Affairs Canada)
 - [Nunavut Lands and Resources Devolution Agreement](https://www.rcaanc-cirnac.gc.ca/eng/1702495657169)
 - [Nunavut Tunngavik Incorporated](https://www.tunngavik.com/)
-- [Nunavut Courts](https://www.nunavutcourts.ca/)
+- [Nunavut Courts](https://www.nunavutcourts.ca/): Court of Appeal judges from the Nunavut Court of Justice and the courts of Alberta, the NWT and Yukon
+- [Indigenous population continues to grow](https://www150.statcan.gc.ca/n1/daily-quotidien/220921/dq220921a-eng.htm) (Statistics Canada, The Daily, September 21, 2022): 30,865 Inuit living in Nunavut, of a [2021 population of 36,858](https://www150.statcan.gc.ca/n1/daily-quotidien/220209/dq220209a-eng.htm)
+- [Office of the Languages Commissioner: history](https://www.langcom.nu.ca/about/olc-history): Official Languages Act adopted June 4, 2008; Inuit Language Protection Act adopted September 17, 2008
+- [Inuktut Protection Act, official consolidation](https://www.nunavutlegislation.ca/en/consolidated-law/inuktut-protection-act-official-consolidation) and [Official Languages Act, official consolidation](https://www.nunavutlegislation.ca/en/consolidated-law/official-languages-act-official-consolidation) (Nunavut Legislation)
+- [Nunavut communities](https://www.nunavut.ca/nunavut-communities) (Nunavut Planning Commission): 25 municipalities
+- [Land and freshwater area, by province and territory](https://www150.statcan.gc.ca/n1/pub/11-402-x/2012000/chap/geo/tbl/tbl06-eng.htm) (Statistics Canada): Nunavut is 21.0% of Canada's area
 - [The judicial structure](https://www.justice.gc.ca/eng/csj-sjc/just/07.html) (Department of Justice): the Nunavut Court of Justice as a single-level trial court

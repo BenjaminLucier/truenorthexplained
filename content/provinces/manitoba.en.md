@@ -95,7 +95,6 @@ See [Indigenous peoples and the Crown](/learn/indigenous) and
 | **Court of King's Bench of Manitoba** | The **superior court**: serious criminal trials, larger civil cases and family law (through its Family Division). Its judges are appointed by the federal government. |
 | **Provincial Court of Manitoba** | Handles most criminal cases, plus youth and some family matters. Its judges are appointed by the province. |
 
-<!-- check: confirm the court's official long name is "Court of King's Bench of Manitoba" (site lists "Court of King's Bench") -->
 
 Above them is the [Supreme Court of Canada](/learn/law/supreme-court). See
 [Courts](/learn/law/courts).
@@ -107,7 +106,7 @@ law, **The City of Winnipeg Charter**. In 1972, Winnipeg and its surrounding
 municipalities were merged into a single city, often called **[Unicity](term:unicity)**.
 
 Not every part of Manitoba is inside a municipality. Many small northern communities
-are set up under a separate law, The Northern Affairs Act. <!-- check: Northern Affairs Act still the governing law for these communities --> See
+are set up under a separate law, The Northern Affairs Act. See
 [Municipalities](/learn/federalism/municipalities).
 
 ## Sources
@@ -118,5 +117,7 @@ are set up under a separate law, The Northern Affairs Act. <!-- check: Northern 
 - [The Louis Riel Act](https://web2.gov.mb.ca/laws/statutes/ccsm/l229.php?lang=en) (Manitoba Laws)
 - [Manitoba Courts](https://www.manitobacourts.mb.ca/)
 - [The Municipal Act](https://web2.gov.mb.ca/laws/statutes/ccsm/m225.php?lang=en) (Manitoba Laws)
-- [The City of Winnipeg Charter](https://web2.gov.mb.ca/laws/statutes/ccsm/c010.php?lang=en) (Manitoba Laws) <!-- unverified link: page loads but its title could not be confirmed automatically -->
+- [The City of Winnipeg Charter](https://web2.gov.mb.ca/laws/statutes/2002/c03902e.php) (Manitoba Laws)
+- [The Court of King's Bench Act](https://web2.gov.mb.ca/laws/statutes/ccsm/c280.php?lang=en) (Manitoba Laws): ss. 2–4, "Court of King's Bench of Manitoba" and its Family Division
+- [The Northern Affairs Act](https://web2.gov.mb.ca/laws/statutes/ccsm/n100.php?lang=en) (Manitoba Laws): communities and community councils in northern Manitoba
 - [Constitution Acts, 1867 to 1982: table of contents](https://laws-lois.justice.gc.ca/eng/const/) (the Manitoba Act, 1870 is part of the Constitution of Canada under s. 52 and its schedule)

@@ -48,7 +48,7 @@ in rare situations. See [The Crown](/learn/crown).
 
 British Columbia was a separate British colony. It agreed to join Canada in 1871, and
 one of the main terms was a promise that Canada would build a railway to connect it to
-the rest of the country within ten years. <!-- check: "within ten years" wording against the BC Terms of Union, 1871 -->
+the rest of the country within ten years.
 
 ### Land that was mostly never ceded
 
@@ -96,7 +96,7 @@ British Columbia's **Recall and Initiative Act** (1995) lets voters:
 The best-known use came in 2010, when an initiative petition against the harmonized
 sales tax (HST) succeeded. The province then held a referendum in 2011, and voters chose
 to get rid of the HST. Alberta is the only other province where voters can recall their
-member of the legislature. <!-- check: confirm no other province currently has a recall law -->
+member of the legislature.
 Some other provinces let citizens petition for a public vote in narrower ways.
 
 ## Courts
@@ -134,7 +134,10 @@ See [Municipalities](/learn/federalism/municipalities).
 - [Legislative Assembly of British Columbia](https://www.leg.bc.ca/)
 - [Lieutenant Governor of British Columbia](https://www.ltgov.bc.ca/)
 - [Government of British Columbia](https://www2.gov.bc.ca/)
+- [British Columbia Terms of Union](https://canada.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t42.html) (Department of Justice): clause 11, railway to be completed "within ten years from the date of the Union"
+- [Douglas Treaties](https://www.rcaanc-cirnac.gc.ca/eng/1360945974712/1544619909155) (Crown-Indigenous Relations and Northern Affairs Canada): fourteen land purchases on Vancouver Island, 1850–1854
+- [Alberta MLA recall petitions: what to know](https://globalnews.ca/news/11540768/alberta-mla-recall-petitions-what-to-know/) (Global News, November 25, 2025): Alberta and BC are the only provinces with recall laws
 - [Declaration on the Rights of Indigenous Peoples Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) (BC Laws)
 - [Recall and Initiative Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96398_00) (BC Laws) and [Elections BC: recall and initiative](https://elections.bc.ca/recall-initiative/)
-- [BC Courts](https://www.bccourts.ca/) <!-- unverified link: loads in a browser check but its certificate failed in one automated fetch -->
+- [BC Courts](https://www.bccourts.ca/) <!-- unverified link: loads in a browser check but its certificate failed in one automated fetch; blocked: certificate failed again in automated fetch 2026-11-13 -->
 - [Local governments](https://www2.gov.bc.ca/gov/content/governments/local-governments) (Government of BC), [Local Government Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/r15001_00), [Community Charter](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03026_00), [Vancouver Charter](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/vanch_00)
