@@ -115,5 +115,5 @@ a different bill in a different Parliament.
 - [Our Procedure: Private Members' Business](https://www.ourcommons.ca/procedure/our-procedure/PrivateMembersBusiness/c_g_privatemembersbusiness-e.html) (draw, time limits, royal recommendation)
 - [House of Commons Procedure and Practice, ch. 16: The Legislative Process](https://www.ourcommons.ca/procedure/procedure-and-practice-3/ch_16_4-e.html) (bill numbering, written declarations)
 - [House of Commons Procedure and Practice, 4th ed., ch. 16](https://www.ourcommons.ca/procedure-and-practice-4/ch16-5-e.html) (Senate pre-study under the Rules of the Senate; royal assent)
-- [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): s. 53 (money bills start in the Commons), s. 54 (royal recommendation), s. 55 (royal assent)
+- [Constitution Act, 1867, ss. 53–90](https://laws-lois.justice.gc.ca/eng/const/page-2.html): s. 53 (money bills start in the Commons), s. 54 (royal recommendation), s. 55 (royal assent)
 - [LEGISinfo](https://www.parl.ca/legisinfo/en/index)

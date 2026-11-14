@@ -129,7 +129,7 @@ side.
 
 ## Sources
 
-- [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): ss. 21–22 (number and regional division of senators), s. 23 (qualifications), s. 24 (summoned by the Governor General), s. 26 (extra senators), s. 29 (retirement at 75), s. 53 (money bills start in the Commons)
+- [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): ss. 21–22 (number and regional division of senators), s. 23 (qualifications), s. 24 (summoned by the Governor General), s. 26 (extra senators), s. 29 (retirement at 75); [s. 53](https://laws-lois.justice.gc.ca/eng/const/page-2.html) (money bills start in the Commons)
 - [Endnotes to the Constitution Acts](https://laws-lois.justice.gc.ca/eng/const/endNotes.html): note 18, retirement at 75 added by the Constitution Act, 1965, in force June 2, 1965
 - [House of Commons Procedure and Practice, 4th ed., ch. 1](https://www.ourcommons.ca/procedure-and-practice-4/ch01-3-e.html): s. 26 used only once, in 1990; the 2014 removal of Liberal senators from caucus; most senators not tied to a party (November 2024)
 - [Constitution Act, 1982](https://laws-lois.justice.gc.ca/eng/const/page-12.html): s. 47 (Senate's 180-day limit on constitutional amendments)
