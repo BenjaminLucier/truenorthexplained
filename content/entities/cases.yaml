@@ -114,9 +114,11 @@
 
 - id: persons-case
   name: Persons Case
-  aliases: [Edwards v. Canada (Attorney General)]
+  aliases: [Edwards v. Canada (Attorney General), Edwards v. Attorney-General for Canada]
   year: 1929
-  # check: citation as given on the site (also flagged on /learn/constitution/constitution-act-1867)
+  # Citation as the Supreme Court cites it in Reference re Same-Sex Marriage, 2004 SCC 79
+  # (decisions.scc-csc.ca item 2196); decided October 18, 1929 (Women and Gender Equality
+  # Canada, "Persons Day"). The Privy Council's own text (BAILII) is blocked to automated fetch.
   citation: "[1930] A.C. 124 (P.C.)"
   topic: women as "persons"
   holding: Women are "persons" who can be appointed to the Senate; the Constitution is "a living tree"
@@ -124,9 +126,13 @@
   entities: [term:persons-case, term:living-tree, org:judicial-committee-of-the-privy-council, org:senate]
 
 - id: re-eskimo-1939
-  # check: the site doesn't give this reference's formal name or citation
   name: 1939 Inuit reference
+  aliases: [Re Eskimo]
   year: 1939
+  # Formal name: Reference as to whether "Indians" in s. 91(24) of the B.N.A. Act includes
+  # Eskimo inhabitants of the Province of Quebec. Citation as given in Daniels, 2016 SCC 12,
+  # para. 39 (decisions.scc-csc.ca item 15858); the 1939 decision itself isn't online there.
+  citation: "[1939] S.C.R. 104"
   sections: [doc:constitution-act-1867/s91-24]
   holding: Inuit are "Indians" under federal power in s. 91(24)
   page: /learn/indigenous/section-35#the-key-cases
@@ -148,6 +154,7 @@
   aliases: [Re Resolution to amend the Constitution]
   year: 1981
   citation: "[1981] 1 S.C.R. 753"
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/2519/index.do
   topic: patriation without the provinces
   holding: Unilateral patriation would be legal but break a constitutional convention requiring a "substantial degree" of provincial consent
   page: /learn/constitution/patriation-1982#198081-the-push-and-the-court-case
@@ -158,6 +165,7 @@
   aliases: [Re Objection by Quebec to a Resolution to amend the Constitution]
   year: 1982
   citation: "[1982] 2 S.C.R. 793"
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/5530/index.do
   topic: Quebec's veto
   holding: Quebec had no veto over patriation by convention, so the Constitution Act, 1982 applies in Quebec
   page: /learn/constitution/patriation-1982#1982-the-canada-act
@@ -165,8 +173,10 @@
 
 - id: manitoba-language-rights-reference
   name: Reference re Manitoba Language Rights
-  aliases: [Manitoba Language Rights Reference]
+  aliases: [Manitoba Language Rights Reference, Re Manitoba Language Rights]
   year: 1985
+  citation: "[1985] 1 S.C.R. 721"
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/60/index.do
   sections: [doc:manitoba-act-1870/s23]
   topic: laws in English and French
   holding: Manitoba's English-only laws were invalid; the province was given time to re-enact them in both languages
@@ -200,9 +210,10 @@
 - id: r-v-marshall
   name: R. v. Marshall
   year: 1999
+  citation: "[1999] 3 S.C.R. 456"
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/1739/index.do
   sections: [doc:constitution-act-1982/s35]
   topic: treaty fishing rights
-  # check: Marshall 1999 "moderate livelihood" wording (as flagged on /learn/indigenous/treaties)
   holding: Peace and Friendship Treaties from 1760–61 protect a Mi'kmaq right to fish and trade for a moderate livelihood
   page: /learn/indigenous/treaties#two-ways-of-reading-the-same-treaty
   entities: [term:treaty-rights, term:peace-and-friendship-treaties]
@@ -221,7 +232,10 @@
 
 - id: same-sex-marriage-reference
   name: Same-Sex Marriage Reference
+  aliases: [Reference re Same-Sex Marriage]
   year: 2004
+  citation: 2004 SCC 79, [2004] 3 S.C.R. 698
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/2196/index.do
   topic: defining marriage
   holding: Parliament can define marriage to include same-sex couples
   page: /learn/law/supreme-court#references-answering-governments-questions
@@ -232,6 +246,7 @@
   aliases: [Senate Reform Reference]
   year: 2014
   citation: 2014 SCC 32
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/13614/index.do
   sections: [doc:constitution-act-1982/s38, doc:constitution-act-1982/s41]
   topic: changing the Senate
   holding: Senate elections or term limits need the 7/50 procedure, and abolishing the Senate needs unanimity
@@ -267,6 +282,7 @@
   aliases: [carbon pricing references]
   year: 2021
   citation: 2021 SCC 11
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/18781/index.do
   sections: [doc:constitution-act-1867/s91]
   topic: carbon pricing and national concern
   holding: Federal minimum carbon pricing was upheld under the "national concern" branch of peace, order and good government
@@ -278,15 +294,18 @@
   aliases: [Toronto (City) v. Ontario]
   year: 2021
   citation: 2021 SCC 34
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/19011/index.do
   topic: provincial power over municipalities
   holding: Ontario was allowed to cut Toronto's city council from 47 seats to 25 in the middle of the 2018 election
   page: /learn/federalism/municipalities#two-toronto-examples
   entities: [term:creature-of-the-province, org:supreme-court]
 
 - id: child-and-family-services-reference-2024
-  # check: formal name and citation (flagged on /learn/indigenous/self-government: 2024 SCC 5, upheld in full)
   name: Reference on the federal Indigenous child and family services law
+  aliases: ["Reference re An Act respecting First Nations, Inuit and Métis children, youth and families"]
   year: 2024
+  citation: 2024 SCC 5
+  url: https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/20264/index.do
   topic: Indigenous child and family services
   holding: The 2019 federal law on First Nations, Inuit and Métis child and family services was upheld as constitutional
   page: /learn/indigenous/self-government#the-child-welfare-law-and-the-supreme-court

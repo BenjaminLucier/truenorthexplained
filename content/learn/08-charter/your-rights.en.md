@@ -129,9 +129,9 @@ apply in Quebec (s. 59 of the [Constitution Act, 1982](doc:constitution-act-1982
 | Everyone / every individual | Fundamental freedoms, legal rights, equality rights |
 
 Some rights, like freedom of expression, can be claimed by corporations too. Others,
-such as the section 7 right to life, liberty and security of the person and the
-section 15 equality rights, have been held to protect only human beings.
-<!-- check: corporations and s. 7 / s. 15 — Irwin Toy (1989) on s. 7; confirm the s. 15 statement against Charterpedia before keeping -->
+such as the section 7 right to life, liberty and security of the person, have been held
+to protect only human beings. The Supreme Court hasn't squarely decided whether
+corporations have section 15 equality rights, but its reasoning suggests they don't.
 
 ## Sources
 

@@ -50,7 +50,6 @@ The *Supreme Court Act* sets the Court's makeup:
 
 By custom, not law, the other six seats are usually shared out regionally: three from
 Ontario, two from the western provinces or the North, and one from Atlantic Canada.
-<!-- check: confirm this is described as a convention/custom by an official source -->
 
 In 2014, the Court ruled that its own makeup, including the Quebec seats, is protected by
 the Constitution. Parliament can't change it alone. Changes would need the agreement of
@@ -79,8 +78,8 @@ flowchart TD
   the appeal at all. It grants leave when a case raises an issue of **public importance**
   (s. 40(1)), for example a major constitutional question, or when courts of appeal in
   different provinces disagree. The Court usually doesn't give reasons for granting or
-  refusing leave. Only a small share of applications are granted.
-  <!-- check: add an "As of 2026" figure for applications and grant rate from the SCC's Year in Review statistics -->
+  refusing leave. Only a small share of applications are granted. In 2025, the judges
+  considered 474 applications and granted 35, about 7%.
 - **[Appeals as of right](term:appeal-as-of-right).** In a few situations, no permission is needed. One example is
   certain criminal cases where a judge of the court of appeal dissented on a point of
   law.
@@ -128,6 +127,8 @@ practice comes from its decisions.
 
 - [Supreme Court Act](https://laws-lois.justice.gc.ca/eng/acts/S-26/FullText.html): s. 4(1) (nine judges), s. 5 (qualifications), s. 6 (three from Quebec), s. 9(2) (retirement at 75), s. 40(1) (leave to appeal), s. 53 (references)
 - [Supreme Court of Canada: judicial work](https://www.scc-csc.ca/about-apropos/work-travail/judicial-judiciaire/): leave to appeal, appeals as of right, references, panel sizes, bilingualism
+- [Supreme Court of Canada: meet our judges](https://www.scc-csc.ca/about-apropos/judges-juges/meet-rencontrez/): the regional distribution of seats is a tradition, not law
+- [Supreme Court of Canada: statistical summary 2016 to 2025](https://www.scc-csc.ca/about-apropos/work-travail/review-retro/stat-2025/): leave applications submitted to the Court and granted in 2025
 - [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): s. 101 (power to create a general court of appeal)
 - [Reference re Secession of Quebec, [1998] 2 S.C.R. 217](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/1643/index.do)
 - [The judicial structure](https://www.justice.gc.ca/eng/csj-sjc/just/07.html) (Department of Justice)

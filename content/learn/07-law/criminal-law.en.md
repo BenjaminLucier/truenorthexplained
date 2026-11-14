@@ -56,8 +56,9 @@ outside provincial power. See [Federalism](/learn/federalism).
 1. **Police investigate.** Most policing is provincial or municipal. Ontario and Quebec
    have their own provincial police forces. Most other provinces, and all three
    territories, pay the **RCMP** (the federal police force) to act as their provincial
-   police. Many cities have their own police services.
-   <!-- check: confirm "most other provinces" wording, given Newfoundland and Labrador also has the Royal Newfoundland Constabulary -->
+   police. In Newfoundland and Labrador, the RCMP shares that role with the province's
+   own Royal Newfoundland Constabulary, which polices the St. John's area, Corner Brook
+   and western Labrador. Many cities have their own police services.
 2. **Prosecutors decide whether to lay or continue charges.** Prosecutors are called
    **Crown prosecutors** (or Crown counsel) because cases are brought in the name of the
    King, for example *R. v. Smith* ("R" stands for *Rex*, the King).
@@ -94,5 +95,7 @@ to a jury trial for offences punishable by five years or more in prison. See
 - [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): s. 91(27), s. 91(28), s. 92(6), s. 92(14), s. 92(15)
 - [Criminal Code](https://laws-lois.justice.gc.ca/eng/acts/C-46/)
 - [About the Public Prosecution Service of Canada](https://www.ppsc-sppc.gc.ca/eng/bas/index.html): its role in the provinces and territories
+- [Royal Newfoundland Constabulary](https://www.rnc.gov.nl.ca/): Newfoundland and Labrador's provincial police service and its regions
+- [About the RCMP in Newfoundland and Labrador](https://rcmp.ca/en/nl/corporate-information): the RCMP polices the province except the areas the Constabulary serves
 - [About Canada's System of Justice](https://www.justice.gc.ca/eng/csj-sjc/just/index.html) (Department of Justice)
 - [Constitution Act, 1982 (Charter)](https://laws-lois.justice.gc.ca/eng/const/page-12.html): ss. 7–14 (legal rights)
