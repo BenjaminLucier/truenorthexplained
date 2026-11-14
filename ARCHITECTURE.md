@@ -411,6 +411,29 @@ if no page changed. The dev server only rereads the config on restart.
 Rule of thumb: if a re-run of a `pnpm data:*` script or an election could make a
 sentence false, the changing part should be a fact.
 
+## Freshness
+
+The site explains how things work, and also stays roughly current. `src/lib/freshness.ts`
+reports what may have gone out of date; nothing in it fails a build.
+
+- **Datasets.** Every generated file under `src/data` records its fetch date. `DATASET_RULES`
+  maps each path to the script that refreshes it and a maximum age suited to how fast it
+  changes: office-holders and current MPs 30 days, money 90, census, demographics and
+  boundaries 365. A unit test fails if a dataset with a fetch date has no rule.
+- **Facts.** `content/facts.yaml` entries carry `asOf`; ones older than 180 days are listed.
+  Derived facts follow their datasets.
+- **Timeline.** The newest event's date; flagged after 180 days without one.
+- **Watchlist.** `content/watchlist.yaml` holds known upcoming changes, each with `checkBy`
+  and `then` (what to do). Items show from two weeks before their date. A malformed
+  watchlist is the one error (it fails `pnpm validate`).
+- **Dated phrases.** "As of 2025"-style phrases written by hand, from past years. Prefer a
+  `{{fact}}` placeholder, which updates with its data.
+
+`pnpm freshness` prints the report, `pnpm validate` a summary line, and `pnpm refresh`
+(`scripts/refresh.ts`) re-runs the data scripts in dependency order before printing it.
+A step whose inputs failed is skipped; logs go to `.refresh-logs/`. Set `TNE_TODAY` to
+fix the date for reproducible output.
+
 ## Checks
 
 ```bash

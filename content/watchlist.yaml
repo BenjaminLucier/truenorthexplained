@@ -1,0 +1,32 @@
+# Known upcoming changes that will make something on the site out of date.
+# `pnpm freshness` (and the summary in `pnpm validate`) lists items whose
+# checkBy date has passed or is within two weeks.
+#
+#   - id: short-slug
+#     what: what is expected to change (one line)
+#     checkBy: YYYY-MM-DD   # when it's expected, or when to look again
+#     then: what to do when it happens (commands, pages to read)
+#     source: optional link for where the expectation comes from
+#
+# Delete an item once it's done (git history keeps it). If it slips, move checkBy.
+
+items:
+  - id: bc-premier-2026
+    what: Lorne Doerkson (BC Conservatives) expected to be sworn in as BC premier after the October 24, 2026 election
+    checkBy: 2026-11-20
+    then: Run `pnpm data:premiers` and `pnpm data:portraits`; read the British Columbia page, the premiers ribbon and the provinces index.
+
+  - id: alberta-seats-2027
+    what: Alberta's Bill 32 would raise the Legislative Assembly from 87 to 91 seats for the 2027 election
+    checkBy: 2027-01-31
+    then: If it passes, update `legislature.seats.alberta` in content/facts.yaml and the Alberta page's note on the pending change.
+
+  - id: bill-21-scc
+    what: Supreme Court decision on Quebec's Bill 21 (appeal heard March 2026)
+    checkBy: 2026-12-31
+    then: When it's decided, update the notwithstanding-clause page and add the case to content/entities/cases.yaml and an event to events.yaml. If still pending, move checkBy.
+
+  - id: bill-s-2
+    what: Bill S-2 (Indian Act registration) at committee stage in the House of Commons
+    checkBy: 2026-12-31
+    then: Check LEGISinfo; update the Indian Act page if it passed or died. If still at committee, move checkBy.

@@ -44,6 +44,8 @@ pnpm dev                                 # http://localhost:4321
 | `pnpm test` | Unit tests (Vitest) for the pure logic in `src/lib` and the widgets, the entity and fact registries, the markdown plugins, the province profiles' takeaways, and a run of `pnpm validate`: `tests/unit/` |
 | `pnpm test:e2e` | Build, then run the browser tests (Playwright, Chromium) against `astro preview` on port 4630: every page at phone and desktop width in both themes (console errors, failed requests, overflow, axe), plus smoke tests of the interactive parts. `tests/e2e/`. To re-run against an existing build: `pnpm exec playwright test`. Takes about 2 minutes on 8 workers; on a laptop, keep it awake (`caffeinate -i pnpm test:e2e` on macOS) or a sleep shows up as a batch of timeouts |
 | `pnpm review` | Regenerate [REVIEW.md](REVIEW.md), the list of facts and links awaiting review |
+| `pnpm refresh` | Re-run every data script below in dependency order (`--only premiers,elections`, `--skip portraits`), then print what changed and the freshness report. Step logs go to `.refresh-logs/` |
+| `pnpm freshness` | What may be out of date: datasets past their maximum age, facts in `content/facts.yaml` not checked for 180 days, a timeline with no recent events, due items in [content/watchlist.yaml](content/watchlist.yaml), and "as of" phrases from past years. `pnpm validate` prints a one-line summary |
 | `pnpm data:geo` | Re-download province and riding boundaries and population estimates into `src/data/geo/` |
 | `pnpm data:elections` | Re-download 2025 election results, current MPs and senators, and seat allocation into `src/data/elections/`, `src/data/parliament/` and `src/data/population/` |
 | `pnpm data:money` | Re-download federal finances (Finance Canada, Statistics Canada), transfers to provinces and equalization (Finance Canada), the consumer price index (Statistics Canada) and interest rates (Bank of Canada) into `src/data/money/` |
@@ -63,6 +65,12 @@ it, the script falls back to Statistics Canada's map service. `data/` is not com
 
 All downloaded data is committed. Re-running a data script and reading the `git diff` is
 how the site stays current: the diff shows exactly what changed upstream.
+
+**Keeping current.** Run `pnpm refresh` every few weeks, or when something happens (an
+election, a new premier, a court decision), and read the diff. Then work through
+`pnpm freshness`: add recent events to `content/entities/events.yaml`, re-check old facts,
+and act on watchlist items. When you hear of a change that's coming (a swearing-in, a
+pending decision, a bill), add it to `content/watchlist.yaml` with a date to check by.
 
 **CI.** `.github/workflows/ci.yml` runs on pushes to `main` and on pull requests:
 `pnpm install --frozen-lockfile`, `pnpm check`, `pnpm validate`, `pnpm test`, install

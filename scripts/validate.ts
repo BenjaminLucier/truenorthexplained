@@ -21,6 +21,7 @@ import { sitePathFromEntry } from "../src/lib/paths.ts";
 import { ENTITY_LINK_RE, allEntities, checkEntityPages, entityNotes, getEntity } from "../src/lib/entities.ts";
 import { FACT_LIKE_RE, FACT_RE, allFacts, getFact } from "../src/lib/facts.ts";
 import { checkTerms, readTermFiles } from "../src/lib/glossary-terms.ts";
+import { freshnessReport, freshnessSummary } from "../src/lib/freshness.ts";
 
 const ROOT = resolve(import.meta.dirname, "..");
 const CONTENT = resolve(ROOT, "content");
@@ -237,6 +238,9 @@ const entityTotal = Object.values(entityCount).reduce((a, b) => a + b, 0);
 console.log(`Entities: ${entityTotal} (${typeCounts})  entity links: ${entityLinks}  about ids: ${aboutIds}`);
 const placeholders = [...factsUsed.values()].reduce((a, b) => a + b, 0);
 console.log(`Facts: ${factsOk ? allFacts().size : 0} defined, ${factsUsed.size} used in ${placeholders} placeholders`);
+const freshness = freshnessReport();
+console.log(freshnessSummary(freshness));
+errors.push(...freshness.errors);
 for (const n of entitiesOk ? entityNotes() : []) console.log(`NOTE  ${n}`);
 for (const w of warnings) console.log(`WARN  ${w}`);
 for (const e of errors) console.log(`ERROR ${e}`);

@@ -16,3 +16,6 @@ dist/
 /playwright-report/
 /test-results/
 /blob-report/
+
+# pnpm refresh step logs
+/.refresh-logs/
