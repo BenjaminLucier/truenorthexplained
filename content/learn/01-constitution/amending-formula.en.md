@@ -43,7 +43,7 @@ provinces.
 ### The fine print that makes 7/50 harder
 
 - **Population.** Because Ontario and Quebec together hold well over half the
-  population, the 7/50 rule can't be met without at least one of them. <!-- check: confirm against current census figures -->
+  population, the 7/50 rule can't be met without at least one of them.
 - **Time limits.** A 7/50 amendment can't be proclaimed within one year of the first
   resolution unless every province has already voted yes or no, and it can't be
   proclaimed after three years (s. 39).
@@ -60,7 +60,8 @@ provinces.
 ### The extra layer: the 1996 "regional veto" law
 
 After the [1995 Quebec referendum](event:quebec-referendum-1995), Parliament passed *An Act respecting constitutional
-amendments*. It says no federal minister may propose a 7/50 amendment unless it has
+amendments*. It says no federal minister may propose a 7/50 amendment (other than one a province
+can opt out of) unless it has
 first been approved by a majority of provinces that includes:
 
 1. Ontario
@@ -75,9 +76,9 @@ makes the general procedure much harder to use.
 
 ### Political add-ons
 
-Beyond the legal rules, some provinces (including British Columbia and Alberta) have
-laws requiring a referendum before their legislature votes on certain constitutional
-amendments. <!-- check: current BC Constitutional Amendment Approval Act and Alberta Constitutional Referendum Act requirements --> And since the [1992 Charlottetown referendum](event:charlottetown-accord-1992), many people
+Beyond the legal rules, British Columbia has a law requiring a referendum before the
+provincial government can ask its legislature to approve a constitutional amendment.
+Alberta had a similar rule until 2025, when it was repealed. And since the [1992 Charlottetown referendum](event:charlottetown-accord-1992), many people
 expect a national referendum for any major change, although none is legally required.
 
 ### What the courts have said
@@ -97,7 +98,7 @@ Yes, but mostly for narrow changes:
 
 | Procedure | Examples |
 |---|---|
-| General (7/50) | 1983: strengthening the protection of Aboriginal and treaty rights in [s. 35](doc:constitution-act-1982/s35) <!-- check: only use of s. 38 to date --> |
+| General (7/50) | 1983: strengthening the protection of Aboriginal and treaty rights in [s. 35](doc:constitution-act-1982/s35) |
 | Bilateral (s. 43) | 1993: equality of New Brunswick's English and French communities ([s. 16.1](doc:charter/s16-1) of the Charter). 1997: removing denominational school guarantees in Quebec (s. 93A). 2001: [renaming Newfoundland as Newfoundland and Labrador](event:newfoundland-and-labrador-2001). |
 | Parliament alone (s. 44) | Changes to the formula for distributing House of Commons seats |
 | A province alone (s. 45) | 2022: Quebec's additions to the 1867 Act (ss. 90Q.1–90Q.2). 2023: Saskatchewan's (s. 90S.1). |
@@ -121,5 +122,9 @@ achieve. People disagree about whether that trade-off is right.
 - [Constitution Act, 1867, Parts VI–VIII](https://laws-lois.justice.gc.ca/eng/const/page-3.html): s. 93A (Quebec)
 - [An Act respecting constitutional amendments](https://laws-lois.justice.gc.ca/eng/acts/C-36.7/FullText.html), S.C. 1996, c. 1, s. 1
 - [Endnotes to the Constitution Acts](https://laws-lois.justice.gc.ca/eng/const/endNotes.html): history of individual amendments
+- [Population and dwelling counts, 2021 Census](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000101) (Statistics Canada, table 98-10-0001-01): Ontario and Quebec together had about 62% of the provinces' population
+- [Amending Formula](https://www.constitutionalstudies.ca/2019/07/amending-formula/) (Centre for Constitutional Studies): the general procedure's one successful use, in 1983
+- [Constitutional Amendment Approval Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96067_01), R.S.B.C. 1996, c. 67, s. 1 (British Columbia)
+- [Referendum Act](https://kings-printer.alberta.ca/documents/Acts/R08P4.pdf), R.S.A. 2000, c. R-8.4 (Alberta), and [Elections Alberta's summary of the 2025 changes](https://www.elections.ab.ca/uploads/Referendum-Act-Fact-Sheet.pdf): the referendum requirement (former s. 2) was repealed in 2025
 - *Reference re Senate Reform*, 2014 SCC 32
 - *Reference re Supreme Court Act, ss. 5 and 6*, 2014 SCC 21

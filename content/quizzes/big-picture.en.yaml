@@ -27,7 +27,7 @@
     You vote only for the MP in your riding. The Prime Minister is whoever can
     hold the confidence of the House of Commons, which is normally the leader of
     the party with the most seats.
-  source: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada.html
+  source: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/federal-elections.html
 
 - id: big-picture-who-becomes-pm
   pages: [learn/big-picture, learn/elections]
@@ -43,7 +43,7 @@
   explanation: >
     By convention, the Governor General appoints as Prime Minister whoever can
     command the confidence of the House, usually the leader of the largest party.
-  source: https://www.gg.ca/en/governor-general/role-and-responsibilities
+  source: https://www.gg.ca/en/governor-general/role-and-responsibilities/constitutional-duties
 
 - id: big-picture-federal-orders
   pages: [learn/big-picture, learn/federalism]
@@ -60,7 +60,7 @@
     The Constitution Act, 1867 divides powers between Parliament and the provinces.
     The territories get their powers from federal laws, and municipalities are
     created by their provinces.
-  source: https://laws-lois.justice.gc.ca/eng/const/page-1.html
+  source: https://laws-lois.justice.gc.ca/eng/const/page-3.html
 
 - id: big-picture-central-bank
   pages: [learn/big-picture]
@@ -103,4 +103,4 @@
   explanation: >
     The Constitution is the supreme law, and independent courts decide whether
     other laws are consistent with it.
-  source: https://www.justice.gc.ca/eng/csj-sjc/just/index.html
+  source: https://www.justice.gc.ca/eng/csj-sjc/just/05.html
