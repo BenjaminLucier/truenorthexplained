@@ -300,6 +300,17 @@
       const focus = (stop: Stop | undefined) => {
         if (!stop) return;
         for (const s of all) s.setAttribute("tabindex", s === stop ? "0" : "-1");
+        // A chart that scrolls sideways (a long timeline strip) brings the stop into
+        // view first, so the tooltip that focusing shows lands next to it.
+        for (let el = stop.parentElement; el && el !== this; el = el.parentElement) {
+          if (el.scrollWidth <= el.clientWidth + 1) continue;
+          const box = el.getBoundingClientRect();
+          const sr = stop.getBoundingClientRect();
+          if (sr.left < box.left || sr.right > box.right) {
+            el.scrollLeft += sr.left + sr.width / 2 - (box.left + box.width / 2);
+          }
+          break;
+        }
         stop.focus({ preventScroll: true });
         const r = stop.getBoundingClientRect();
         if (r.top < 0 || r.bottom > innerHeight) stop.scrollIntoView({ block: "nearest" });

@@ -567,8 +567,11 @@ const noun = isTable && mode === "charter" ? "cases" : "events";
     user-select: none;
   }
   @media (pointer: fine) {
+    /* With a mouse or trackpad the track stays exactly where it's left: snapping
+       after a drag or a trackpad flick reads as the timeline moving on its own. */
     .tl[data-ready] .tl-track {
       cursor: grab;
+      scroll-snap-type: none;
     }
   }
   /* Soft edges hint that there's more to either side. */
@@ -1531,12 +1534,37 @@ const noun = isTable && mode === "charter" ? "cases" : "events";
         this.#idle = window.setTimeout(this.#onIdle, 160);
       });
 
-      // Drag to scroll with a mouse. Touch and pens keep native swiping.
-      let drag: { x: number; left: number; id: number; moved: boolean } | undefined;
+      // Drag to scroll with a mouse, with a short glide on release. Touch and
+      // pens keep native swiping.
+      let drag: { x: number; left: number; id: number; moved: boolean; samples: { t: number; x: number }[] } | undefined;
+      let glide = 0;
+      const stopGlide = () => {
+        cancelAnimationFrame(glide);
+        glide = 0;
+      };
+      const startGlide = (velocity: number) => {
+        // px per ms; friction is per 16 ms frame, scaled by the real frame time.
+        if (matchMedia("(prefers-reduced-motion: reduce)").matches || Math.abs(velocity) < 0.05) return;
+        let v = Math.max(-4, Math.min(4, velocity));
+        let last = performance.now();
+        const step = (now: number) => {
+          const dt = Math.min(now - last, 50);
+          last = now;
+          const before = track.scrollLeft;
+          track.scrollLeft = before - v * dt;
+          v *= Math.pow(0.94, dt / 16);
+          const stuck = track.scrollLeft === before;
+          glide = Math.abs(v) > 0.02 && !stuck ? requestAnimationFrame(step) : 0;
+        };
+        glide = requestAnimationFrame(step);
+      };
+      track.addEventListener("wheel", stopGlide, { passive: true });
+      track.addEventListener("keydown", stopGlide);
       track.addEventListener("pointerdown", (e) => {
+        stopGlide();
         if (e.pointerType !== "mouse" || e.button !== 0) return;
         if ((e.target as Element).closest("a, button, input, label")) return;
-        drag = { x: e.clientX, left: track.scrollLeft, id: e.pointerId, moved: false };
+        drag = { x: e.clientX, left: track.scrollLeft, id: e.pointerId, moved: false, samples: [{ t: e.timeStamp, x: e.clientX }] };
       });
       track.addEventListener("pointermove", (e) => {
         if (!drag || e.pointerId !== drag.id) return;
@@ -1548,12 +1576,21 @@ const noun = isTable && mode === "charter" ? "cases" : "events";
           getSelection()?.removeAllRanges();
         }
         if (drag.moved) track.scrollLeft = drag.left - dx;
+        drag.samples.push({ t: e.timeStamp, x: e.clientX });
+        if (drag.samples.length > 6) drag.samples.shift();
       });
       const end = (e: PointerEvent) => {
         if (!drag || e.pointerId !== drag.id) return;
         if (drag.moved) {
           this.#suppressClick = true;
           setTimeout(() => (this.#suppressClick = false), 0);
+          // Velocity over the last ~100 ms of movement; none if the pointer rested.
+          const recent = drag.samples.filter((p) => e.timeStamp - p.t < 100);
+          const first = recent[0];
+          const lastSample = recent[recent.length - 1];
+          if (e.type === "pointerup" && first && lastSample && lastSample.t > first.t) {
+            startGlide((lastSample.x - first.x) / (lastSample.t - first.t));
+          }
         }
         drag = undefined;
         delete this.dataset.dragging;
@@ -1711,8 +1748,14 @@ const noun = isTable && mode === "charter" ? "cases" : "events";
           this.#track.scrollIntoView({ block: "center", behavior: initial ? "auto" : behavior() });
           this.#scrollToItem(it, !initial);
         };
-        if (initial && document.readyState !== "complete") addEventListener("load", () => requestAnimationFrame(go), { once: true });
-        else go();
+        if (initial && document.readyState !== "complete") {
+          // If the reader starts scrolling the timeline before the page finishes
+          // loading, leave it where they put it rather than jumping afterwards.
+          let touched = false;
+          const mark = () => (touched = true);
+          for (const type of ["pointerdown", "wheel", "touchstart", "keydown"]) this.#track.addEventListener(type, mark, { once: true, passive: true });
+          addEventListener("load", () => requestAnimationFrame(() => touched || go()), { once: true });
+        } else go();
         return;
       }
       // An era heading: bring the start of that era into view.

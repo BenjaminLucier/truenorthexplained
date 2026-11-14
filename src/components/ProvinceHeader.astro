@@ -1,11 +1,11 @@
 ---
 /**
- * Flag and locator map for a province or territory page header.
+ * A row under a province or territory page's title: its flag, a locator map
+ * and the current premier (src/data/wikidata/provinces.json) with their
+ * portrait. The three cards share a height and wrap on narrow screens.
  *
  * The flag comes from public/flags/<slug>.svg. When the file is missing,
- * nothing is drawn for it, and the locator map stands alone. Below the map,
- * a small card shows the current premier (src/data/wikidata/provinces.json)
- * with their portrait.
+ * that card is left out.
  */
 import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
@@ -48,39 +48,44 @@ const province = provinceBySlug(slug);
 const premier = province?.premier;
 ---
 
-<div class="province-header float-end ms-4 mb-3 flex w-28 flex-col items-stretch gap-3 sm:ms-8 sm:w-40">
+<div class="province-header not-prose mt-6 flex flex-wrap items-stretch gap-3">
   {
     flagImg && (
-      <img
-        src={flagImg.src}
-        width={flagImg.width}
-        height={flagImg.height}
-        alt={`Flag of ${withArticle}`}
-        class="h-auto w-full rounded-sm border border-subtle bg-surface"
-        decoding="async"
-      />
+      <div class="ph-card flex items-center justify-center p-3">
+        <img
+          src={flagImg.src}
+          width={flagImg.width}
+          height={flagImg.height}
+          alt={`Flag of ${withArticle}`}
+          class="h-full w-auto rounded-sm border border-subtle"
+          decoding="async"
+        />
+      </div>
     )
   }
-  <CanadaMap
-    id="locator"
-    features={features}
-    width={240}
-    padding={3}
-    precision={0}
-    minArea={6}
-    tolerance={1.5}
-    role="img"
-    title={`Map of Canada with ${withArticle} highlighted`}
-    item={(f) => ({ highlight: f.properties.slug === slug, marker: f.properties.slug === slug && "auto" })}
-    class="locator"
-  />
+  <div class="ph-card flex items-center justify-center p-2">
+    <CanadaMap
+      id="locator"
+      features={features}
+      width={240}
+      padding={3}
+      precision={0}
+      minArea={6}
+      tolerance={1.5}
+      role="img"
+      title={`Map of Canada with ${withArticle} highlighted`}
+      tooltip={false}
+      item={(f) => ({ highlight: f.properties.slug === slug, marker: f.properties.slug === slug && "auto" })}
+      class="locator"
+    />
+  </div>
   {
     premier && (
-      <figure class="flex flex-col items-center gap-1.5 rounded-card border border-subtle bg-surface px-2 pt-3 pb-2.5 text-center">
+      <figure class="ph-card flex min-w-0 items-center gap-3 px-4">
         <Portrait qid={premier.qid} name={premier.name} size={56} />
         <figcaption class="text-xs leading-snug text-secondary">
           <span class="block font-semibold tracking-wide text-muted uppercase">Premier</span>
-          <span class="block font-semibold text-primary">{premier.name}</span>
+          <span class="block text-sm font-semibold text-primary">{premier.name}</span>
           {premier.party ? (
             <span class="block">{premier.party}</span>
           ) : (
@@ -93,6 +98,17 @@ const premier = province?.premier;
 </div>
 
 <style>
+  .ph-card {
+    height: 7rem;
+    border: 1px solid var(--tn-border);
+    border-radius: var(--radius-card);
+    background: var(--tn-surface);
+  }
+  /* Fit the card's height (CanadaMap's own rule makes maps full width). */
+  .ph-card :global(.canada-map.locator) {
+    width: auto;
+    height: 100%;
+  }
   .locator :global(.map-feature) {
     fill: var(--tn-border);
     stroke: var(--tn-bg);

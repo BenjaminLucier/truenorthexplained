@@ -73,7 +73,6 @@ const onTimeline = eventsFor(page.id);
     </div>
 
     <header class="tn-col flow-root pt-6 pb-8">
-      {page.data.type && <ProvinceHeader page={page} />}
       {eyebrow && (
         <p class="flex items-center gap-3 text-sm font-semibold tracking-wide text-module uppercase" data-pagefind-meta="section">
           {mod && <ModuleIcon name={mod.page.data.icon} size="sm" />}
@@ -82,6 +81,7 @@ const onTimeline = eventsFor(page.id);
       )}
       <h1 data-pagefind-meta="title" class="mt-2 text-4xl font-bold tracking-tight text-primary text-balance sm:text-5xl">{page.data.title}</h1>
       {page.data.summary && <p class="mt-4 text-lg text-secondary text-pretty">{page.data.summary}</p>}
+      {page.data.type && <ProvinceHeader page={page} />}
       {
         tryIt.length > 0 && (
           <nav aria-labelledby="try-it" class="mt-6 flex flex-wrap items-center gap-2">

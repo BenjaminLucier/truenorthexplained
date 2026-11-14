@@ -73,6 +73,11 @@ interface Props {
   item?: (feature: MapFeature<any>, index: number) => MapItem;
   /** Accessible title. Required: every map needs a name. */
   title: string;
+  /**
+   * Show the title as the browser's hover tooltip (an SVG <title>). Default true.
+   * Set false for small decorative maps: the name goes in aria-label instead.
+   */
+  tooltip?: boolean;
   /** Longer description for screen readers. */
   desc?: string;
   /** viewBox width. */
@@ -118,6 +123,7 @@ const {
   features,
   item = (): MapItem => ({}),
   title,
+  tooltip = true,
   desc,
   width = 800,
   height: givenHeight,
@@ -209,12 +215,13 @@ const descId = `${id}-desc`;
 <svg
   viewBox={`0 0 ${width} ${height}`}
   role={svgRole}
-  aria-labelledby={titleId}
+  aria-labelledby={tooltip ? titleId : undefined}
+  aria-label={tooltip ? undefined : title}
   aria-describedby={desc ? descId : undefined}
   class:list={["canada-map", className]}
   {...rest}
 >
-  <title id={titleId}>{title}</title>
+  {tooltip && <title id={titleId}>{title}</title>}
   {desc && <desc id={descId}>{desc}</desc>}
   {
     visibleContext.length > 0 && (
