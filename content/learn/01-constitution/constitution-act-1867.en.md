@@ -87,7 +87,7 @@ are now unused or tightly limited:
   provincial law within a year, and a Lieutenant Governor can "reserve" a provincial
   bill for Ottawa's decision (ss. 55–57, applied to provinces by s. 90). These were used
   often in the early decades. Disallowance was last used in the 1940s and reservation
-  in 1961. <!-- check: last federal disallowance (1943, Alberta) and last reservation (1961, Saskatchewan) --> Most experts consider them obsolete, though they
+  in 1961. Most experts consider them obsolete, though they
   have never been formally repealed.
 - **[Royal assent](term:royal-assent) can be withheld** (s. 55). In practice it never is federally. See
   [Reserve powers](/learn/crown/reserve-powers).
@@ -119,4 +119,7 @@ standard approach to the Constitution in Canada.
 - [Constitution Act, 1867, ss. 53–90Q](https://laws-lois.justice.gc.ca/eng/const/page-2.html): s. 55 (royal assent), ss. 56–57 (disallowance, reservation), s. 58 (Lieutenant Governors), s. 90 (applies these to provinces), ss. 90Q.1–90Q.2 and 90S.1
 - [Constitution Act, 1867, Parts VI–VIII](https://laws-lois.justice.gc.ca/eng/const/page-3.html): ss. 91–95 (division of powers), ss. 96–101 (judicature)
 - [Endnotes to the Constitution Acts](https://laws-lois.justice.gc.ca/eng/const/endNotes.html): the 1965 amendment to s. 29; the Quebec (S.Q. 2022, c. 14) and Saskatchewan (S.S. 2023, c. 9) amendments
-- *Edwards v. Canada (Attorney General)*, [1930] A.C. 124 (P.C.), the Persons Case <!-- check: citation -->
+- *Edwards v. Canada (Attorney General)*, [1930] A.C. 124 (P.C.), the Persons Case; citation and "living tree" passage as given in [Living Tree Doctrine](https://www.constitutionalstudies.ca/2019/07/living-tree-doctrine/) (Centre for Constitutional Studies)
+- [Reservation and Disallowance](https://www.constitutionalstudies.ca/2019/07/reservation-and-disallowance/) (Centre for Constitutional Studies): last disallowance 1943 (Alberta), reservation in Saskatchewan in 1961
+- [Disallowance](https://www.thecanadianencyclopedia.ca/en/article/disallowance) (The Canadian Encyclopedia): 112 provincial Acts disallowed, the last in 1943
+- [Bastedo, Frank Lindsay](https://www.esask.uregina.ca/entry/bastedo_frank_lindsay_1886-1973.html) (Encyclopedia of Saskatchewan): the 1961 reservation, "the last in the country"

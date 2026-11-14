@@ -43,7 +43,7 @@ bundle.
 |---|---|---|
 | [Constitution Act, 1867](doc:constitution-act-1867) | A British statute, originally called the *British North America Act* | Created Canada, set up Parliament and the provinces, divided powers between them |
 | [Constitution Act, 1982](doc:constitution-act-1982) | Passed at Canada's request in 1982 | Added the Charter, recognized Aboriginal and treaty rights, set out how to amend the Constitution |
-| Other written texts | A schedule to the 1982 Act lists about thirty Acts and orders <!-- check: count of items in the Schedule to the Constitution Act, 1982 --> | Things like the Acts that created Manitoba, Alberta and Saskatchewan, and the terms on which British Columbia, PEI and Newfoundland joined |
+| Other written texts | A schedule to the 1982 Act lists thirty Acts and orders | Things like the Acts that created Manitoba, Alberta and Saskatchewan, and the terms on which British Columbia, PEI and Newfoundland joined |
 | [Conventions](/learn/constitution/conventions) | Unwritten rules | Most of how the Prime Minister, cabinet and Governor General actually behave |
 
 Section 52(2) of the 1982 Act lists what counts as the written "Constitution of
@@ -160,6 +160,7 @@ usually seven with half the population, and for some matters all ten.
 - [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): s. 9 (executive power vested in the Crown), s. 17 (Parliament), Part V (provincial constitutions), ss. 91–92 (division of powers)
 - [Constitution Act, 1982, Parts I–II](https://laws-lois.justice.gc.ca/eng/const/page-12.html): the Charter (ss. 1–34) and s. 35
 - [Constitution Act, 1982, Parts III–VII](https://laws-lois.justice.gc.ca/eng/const/page-13.html): Part V amending procedures (ss. 38–49) and s. 52 (supremacy; what the Constitution includes)
+- [Schedule to the Constitution Act, 1982](https://laws-lois.justice.gc.ca/eng/const/page-14.html): the thirty Acts and orders listed under s. 52(2)(b)
 - [Canada Act 1982](https://www.legislation.gov.uk/ukpga/1982/11) (UK legislation), s. 2: no later UK Act extends to Canada
 - *Re: Resolution to amend the Constitution*, [1981] 1 S.C.R. 753 (the Patriation Reference), on conventions
 - *Re: Objection by Quebec to a Resolution to amend the Constitution*, [1982] 2 S.C.R. 793 (the Quebec Veto Reference)

@@ -44,7 +44,7 @@ answer:
 | Question | Court's answer |
 |---|---|
 | Was it *legal* for Ottawa to ask Britain to amend the Constitution without the provinces? | Yes. |
-| Did a *convention* require provincial consent? | Yes: a "substantial degree" of provincial consent, though not necessarily unanimity. |
+| Did a *convention* require provincial consent? | Yes: a "substantial measure" of provincial consent, though not necessarily unanimity. |
 
 So unilateral patriation would have been legal but unconstitutional in the
 conventional sense. That pushed everyone back to the table.
@@ -62,8 +62,9 @@ nine provinces reached an agreement. Key compromises included:
 
 Quebec's government, led by [René Lévesque](person:rene-levesque), was not part of the final deal. In Quebec
 it's often called the "Night of the Long Knives", because the key talks happened
-overnight without Quebec's delegation. Quebec's National Assembly passed a resolution
-opposing the package. <!-- check: date and wording of the National Assembly's December 1981 resolution -->
+overnight without Quebec's delegation. On December 1, 1981, Quebec's National Assembly
+passed a resolution saying it could not accept the plan unless it met certain
+conditions, including a veto for Quebec or guaranteed compensation when a province opts out.
 
 ### 1982: the Canada Act
 
@@ -124,6 +125,8 @@ about 57% "No" in Quebec, and in several other provinces.
 ## Sources
 
 - [Canada Act 1982](https://www.legislation.gov.uk/ukpga/1982/11) (UK legislation), including s. 2
+- [Letter from Premier Lévesque to Prime Minister Thatcher, December 19, 1981](https://primarydocuments.ca/letter-from-premier-levesque-to-prime-minister-thatcher-19-december-1981/) (primarydocuments.ca): text of the National Assembly resolution adopted December 1, 1981
+- W.R. Lederman, ["The Supreme Court of Canada and Basic Constitutional Amendment"](https://lawjournal.mcgill.ca/wp-content/uploads/pdf/2257741-lederman.pdf) (1982) 27 McGill L.J.: the Patriation Reference (September 28, 1981) and its "substantial measure of provincial consent" passage
 - [Statute of Westminster 1931](https://www.legislation.gov.uk/ukpga/Geo5/22-23/4) (UK legislation): s. 4 (no UK laws for a Dominion without consent), s. 7 (BNA Acts excluded)
 - [Constitution Act, 1982, Parts III–VII](https://laws-lois.justice.gc.ca/eng/const/page-13.html): Part V, the amending formula
 - [Endnotes to the Constitution Acts](https://laws-lois.justice.gc.ca/eng/const/endNotes.html): the Constitution Act, 1982 came into force April 17, 1982
@@ -132,4 +135,6 @@ about 57% "No" in Quebec, and in several other provinces.
 - [An Act respecting constitutional amendments](https://laws-lois.justice.gc.ca/eng/acts/C-36.7/FullText.html), S.C. 1996, c. 1 (the "regional veto" law)
 - [Referendum on the Charlottetown constitutional accord](https://www.electionsquebec.qc.ca/en/results-and-statistics/referendum-on-the-charlottetown-constitutional-accord/) (Élections Québec): Quebec results
 - [Meech Lake Accord](https://www.thecanadianencyclopedia.ca/en/article/meech-lake-accord) (The Canadian Encyclopedia)
-- [Charlottetown Accord](https://www.thecanadianencyclopedia.ca/en/article/the-charlottetown-accord) (The Canadian Encyclopedia) <!-- unverified link -->
+- [Meech Lake Accord](https://www.constitutionalstudies.ca/2019/07/meech-lake-accord/) and [Charlottetown Accord](https://www.constitutionalstudies.ca/2019/07/charlottetown-accord/) (Centre for Constitutional Studies): the June 23, 1990 deadline; the August 28, 1992 agreement and October 26, 1992 referendum
+- [Draft Legal Text, October 9, 1992](https://dn790006.ca.archive.org/0/items/31761115498693/31761115498693.pdf), based on the Charlottetown Accord: Quebec guaranteed at least 25% of House seats
+- [Charlottetown Accord](https://www.thecanadianencyclopedia.ca/en/article/the-charlottetown-accord) (The Canadian Encyclopedia)

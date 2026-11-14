@@ -35,7 +35,7 @@ with it.
 | The Governor General chooses the Privy Council (s. 11) | Only the current cabinet, led by the Prime Minister, actually gives advice |
 | The Governor General may refuse royal assent ([s. 55](doc:constitution-act-1867/s55)) | Assent is always given to bills passed by both Houses |
 | The Governor General appoints ministers | The Governor General appoints as Prime Minister whoever can command the confidence of the House, and appoints ministers the Prime Minister recommends |
-| The Senate has nearly the same law-making powers as the House | The appointed Senate generally doesn't block bills passed by the elected House <!-- check: whether this is best described as a convention or a practice --> |
+| The Senate has nearly the same law-making powers as the House | The appointed Senate generally doesn't block bills passed by the elected House <!-- check: whether this is best described as a convention or a practice; unresolved 2026-11-13: judgement call, not settled by a primary source --> |
 
 ### The core convention: responsible government
 
@@ -51,8 +51,8 @@ Related conventions include:
 - **[Ministerial responsibility](term:ministerial-responsibility).** Each minister answers to the House for their
   department.
 - **The Prime Minister sits in the House.** Usually true, but flexible. Two early Prime
-  Ministers sat in the Senate, and several have taken office without a seat and then
-  won one. <!-- check: examples (Abbott and Bowell in the Senate; Turner 1984 without a seat) -->
+  Ministers sat in the Senate. A few have held office without a Commons seat: John
+  Turner took office in 1984 without one and won one in that year's election.
 - **The caretaker convention.** During an election campaign, the government avoids
   major new decisions except where truly necessary.
 
@@ -67,7 +67,7 @@ drawn from the British scholar Sir Ivor Jennings:
 2. **Belief:** did the people involved believe they were bound by the rule?
 3. **Reason:** is there a good reason for the rule?
 
-Using that test, the Court found a convention that a "substantial degree" of provincial
+Using that test, the Court found a convention that a "substantial measure" of provincial
 consent was needed before asking Britain to amend the Constitution in ways that
 affected provincial powers.
 
@@ -77,7 +77,7 @@ The same case drew a clear line. **Laws** are enforced by courts. **Conventions*
 enforced by politics: public opinion, the House of Commons, elections, and the
 Governor General's judgment. A court can declare that a convention exists, as it did in
 1981, but it won't order anyone to follow it. That's why the federal plan in 1981 was
-legal but "unconstitutional in the conventional sense". <!-- check: exact wording in the Patriation Reference -->
+legal but "unconstitutional in the conventional sense". <!-- check: exact wording in the Patriation Reference; unresolved 2026-11-13: judgment text blocked to automated fetch (decisions.scc-csc.ca and CanLII return 403) -->
 
 ### Conventions can change
 
@@ -103,13 +103,17 @@ Because they're unwritten, conventions evolve:
 | Example | Senators retire at 75 (s. 29) | The PM resigns or seeks an election after losing confidence |
 
 <tn-widget name="conventions-toggle"></tn-widget>
-<!-- check: conventions-toggle repeats the table above, including the Senate row ("generally doesn't block bills"), which carries the same convention-or-practice question -->
+<!-- check: conventions-toggle repeats the table above, including the Senate row ("generally doesn't block bills"), which carries the same convention-or-practice question; unresolved 2026-11-13: judgement call, as for the table row -->
 
 ## Sources
 
 - [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): preamble; s. 9 (executive power); s. 11 (Privy Council); s. 38 (summoning the House)
 - [Constitution Act, 1867, ss. 53–90](https://laws-lois.justice.gc.ca/eng/const/page-2.html): s. 55 (royal assent)
 - *Re: Resolution to amend the Constitution*, [1981] 1 S.C.R. 753 (the Patriation Reference)
+- W.R. Lederman, ["The Supreme Court of Canada and Basic Constitutional Amendment"](https://lawjournal.mcgill.ca/wp-content/uploads/pdf/2257741-lederman.pdf) (1982) 27 McGill L.J.: quotes the Court's use of the Jennings test and its "substantial measure of provincial consent" passage
+- ["Senate Representation: The Political Dimension"](https://revparl.ca/english/issue_param_134_art_869.html), *Canadian Parliamentary Review* (1990): Abbott and Bowell, Prime Ministers from the Senate
+- [Explainer on whether a non-MP can be prime minister](https://globalnews.ca/news/10962362/can-mark-carney-be-prime-minister/amp) (Global News, January 16, 2025): Turner had no seat when he became Prime Minister in 1984
+- ["Some highlights from the life and career of former prime minister John Turner"](https://cfjctoday.com/2020/09/19/some-highlights-from-the-life-and-career-of-former-prime-minister-john-turner/) (The Canadian Press, 2020): Turner won Vancouver Quadra in the September 4, 1984 election
 - [Constitutional duties of the Governor General](https://www.gg.ca/en/governor-general/role-and-responsibilities/constitutional-duties): ensuring Canada always has a government with the confidence of Parliament
 - [House of Commons: "Our Procedure"](https://www.ourcommons.ca/procedure/our-procedure/)
 - [Discover Canada](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada.html), the official citizenship study guide
