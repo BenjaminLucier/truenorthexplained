@@ -31,7 +31,6 @@ Section 35 sits in Part II of the Constitution Act, 1982, outside the Charter.
 | **35(4)** | These rights are guaranteed equally to men and women. |
 
 Subsections (3) and (4) were added in 1983, the only time s. 35 has been amended.
-<!-- check: 1983 Constitution Amendment Proclamation added 35(3), 35(4) and s. 35.1 -->
 
 A few words carry a lot of weight:
 
@@ -96,7 +95,7 @@ particular rights.
 
 Other important cases include *Guerin* (1984) on the Crown's [fiduciary](term:fiduciary-duty) (trust-like)
 duties, *Van der Peet* (1996) on how to prove an Aboriginal right, and *Powley* (2003),
-which recognized Métis harvesting rights under s. 35. <!-- check: one-line summaries of Guerin, Van der Peet, Powley -->
+which recognized Métis harvesting rights under s. 35.
 
 ### How the pieces fit
 
@@ -118,7 +117,7 @@ explain why many nations prefer negotiating treaties and
 
 ## Sources
 
-- [Constitution Act, 1982](https://laws-lois.justice.gc.ca/eng/const/page-12.html): s. 25, s. 35
+- [Constitution Act, 1982](https://laws-lois.justice.gc.ca/eng/const/page-12.html): s. 25, s. 35; [endnotes 97 and 98](https://laws-lois.justice.gc.ca/eng/const/FullText.html) (ss. 35(3), 35(4) and 35.1 added by the Constitution Amendment Proclamation, 1983)
 - [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): s. 91(24)
 - [*Calder et al. v. Attorney-General of British Columbia*, [1973] S.C.R. 313](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/5113/index.do)
 - [*R. v. Sparrow*, [1990] 1 S.C.R. 1075](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/609/index.do)
@@ -126,3 +125,4 @@ explain why many nations prefer negotiating treaties and
 - [*Haida Nation v. British Columbia (Minister of Forests)*, 2004 SCC 73](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/2189/index.do)
 - [*Tsilhqot'in Nation v. British Columbia*, 2014 SCC 44](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/14246/index.do)
 - [*Daniels v. Canada (Indian Affairs and Northern Development)*, 2016 SCC 12](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/15858/index.do)
+- [Guerin Case](https://www.thecanadianencyclopedia.ca/en/article/guerin-case), [Van der Peet Case](https://www.thecanadianencyclopedia.ca/en/article/van-der-peet-case) and [Powley Case](https://www.thecanadianencyclopedia.ca/en/article/powley-case) (The Canadian Encyclopedia)

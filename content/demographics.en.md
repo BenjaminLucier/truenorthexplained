@@ -21,9 +21,11 @@ little higher.
 <tn-widget name="demographics" data-chart="canada"></tn-widget>
 
 Most of that growth came from two sources: births, and people moving here from other
-countries. In recent years, immigration and temporary residents such as international
-students and workers have driven most of it.
-<!-- check: share of recent growth from international migration (StatCan, The Daily) -->
+countries. In recent years, international migration has driven most of it: more than
+four-fifths of growth in each year from 2021/2022 to 2025/2026. That means new permanent
+residents plus, until mid-2025, a growing number of temporary residents such as
+international students and workers. Since then, the number of temporary residents has
+fallen, and growth has slowed.
 
 ## Growth by province and territory
 
@@ -43,10 +45,9 @@ living at least 400 to the square kilometre.
 Because seats in the House of Commons are based on population, a province's share of
 Canada's population roughly tracks its share of MPs. The Constitution softens the effect
 for slower-growing provinces: under the [senatorial clause](term:senatorial-clause),
-no province can have fewer MPs than senators, and a "grandfather clause" protects some
-provinces from losing seats. See [Prince Edward Island](/provinces/prince-edward-island)
-for the clearest example, and [Parliament](org:parliament) for how the House works.
-<!-- check: grandfather clause wording (Representation Act, 1985 and Fair Representation Act, 2011) -->
+no province can have fewer MPs than senators, and a "grandfather clause" guarantees each
+province at least as many MPs as it had in the 43rd Parliament. See
+[Prince Edward Island](/provinces/prince-edward-island) for the clearest example, and [Parliament](org:parliament) for how the House works.
 
 <tn-widget name="demographics" data-chart="share"></tn-widget>
 
@@ -63,7 +64,6 @@ Where immigrants come from has changed as much as how many arrive. Until the 196
 Canada's immigration rules favoured people from Britain, Europe and the United States.
 Rules adopted in 1967 introduced a points system that judged applicants on education,
 work skills and language instead of their country of origin.
-<!-- check: 1967 points system description (IRCC / Canadian Encyclopedia) -->
 The 2021 Census asked immigrants when they arrived and where they were born:
 
 <tn-widget name="demographics" data-chart="immigrant-origins"></tn-widget>
@@ -112,6 +112,7 @@ over federal health transfers. See [Money and equalization](/learn/federalism/mo
 - Statistics Canada, [table 17-10-0067-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710006701): historical statistics, population, 1851–1971
 - Statistics Canada, [table 17-10-0063-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710006301): historical statistics, estimated population and immigrant arrivals
 - Statistics Canada, [table 17-10-0008-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000801): estimates of the components of demographic growth, annual
+- Statistics Canada, [Canada's population estimates, second quarter 2026](https://www150.statcan.gc.ca/n1/daily-quotidien/260923/dq260923b-eng.htm) (*The Daily*, September 23, 2026)
 - Statistics Canada, [table 17-10-0005-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501): population estimates on July 1, by age and gender
 - Statistics Canada, [table 15-10-0031-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1510003101): population by mother tongue, 1951 to 2021
 - Statistics Canada, [table 98-10-0302-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810030201): immigrant status and period of immigration by place of birth (2021 Census)
@@ -119,7 +120,8 @@ over federal health transfers. See [Money and equalization](/learn/federalism/mo
 - Statistics Canada, [table 98-10-0008-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000801): population centres and rural areas (2021 Census)
 - Statistics Canada, [table 98-10-0292-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810029201): Indigenous identity population by gender and age (2011, 2016 and 2021)
 - [Constitution Act, 1982, s. 35](https://laws-lois.justice.gc.ca/eng/const/page-12.html): the Aboriginal peoples of Canada
-- [Constitution Act, 1867, ss. 51–51A](https://laws-lois.justice.gc.ca/eng/const/page-2.html): how Commons seats are shared among the provinces
+- [Constitution Act, 1867, ss. 51–51A](https://laws-lois.justice.gc.ca/eng/const/page-2.html): how Commons seats are shared among the provinces (s. 51(1), rule 2: the grandfather clause; s. 51A: the senatorial clause)
+- [Immigration Policy in Canada](https://www.thecanadianencyclopedia.ca/en/article/immigration-policy) (The Canadian Encyclopedia): the 1967 points system
 
 All Statistics Canada data is used under the
 [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada).
