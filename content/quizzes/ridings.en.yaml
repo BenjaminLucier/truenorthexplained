@@ -32,8 +32,9 @@
   explanation: >
     Under the Electoral Boundaries Readjustment Act, each riding's population should be
     as close as reasonably possible to the province's average (its quota), usually within
-    25% either way. Commissions can go further in sparse rural or northern areas, which
-    is why northern ridings are both huge and smaller in population.
+    25% either way. Commissions can depart from the average to keep ridings in sparse
+    rural or northern areas a manageable size, which is why those ridings are both huge
+    and smaller in population.
   source: https://laws-lois.justice.gc.ca/eng/acts/E-3/page-1.html
 
 - id: ridings-redrawn-after-census
@@ -78,6 +79,6 @@
   answer: 2
   explanation: >
     Under first-past-the-post, the candidate with the most votes wins, majority or not.
-    In 2025, 119 of the 343 ridings (about 35%) were won with under 50% of the vote,
+    In 2025, 120 of the 343 ridings (about 35%) were won with under 50% of the vote,
     most of them in Quebec, Ontario and British Columbia.
   source: https://www.elections.ca/res/rep/off/ovrGE45/home.html

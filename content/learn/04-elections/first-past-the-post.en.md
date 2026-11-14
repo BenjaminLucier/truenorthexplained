@@ -92,9 +92,8 @@ the last federal election held under first-past-the-post.
   the government hold a **[referendum](term:referendum)** offering a proportional system, with the current system
   also on the ballot. It recommended against mandatory voting and online voting "at this
   time." Some committee members filed dissenting or supplementary opinions.
-- In **early 2017**, the government announced it would not pursue a change to the electoral
+- In **February 2017**, the government announced it would not pursue a change to the electoral
   system, saying there was no clear consensus on an alternative.
-  <!-- check: confirm February 2017 date and the government's stated reason, with an official source -->
 
 **People disagree about this.** Supporters of reform say first-past-the-post wastes many votes
 and gives majorities to parties most voters didn't choose, and that the promise should have
@@ -106,14 +105,17 @@ consensus or a referendum. Others favour a ranked ballot as a middle option.
 
 Several provinces have held referendums on changing their own electoral systems, including
 British Columbia, Ontario and Prince Edward Island. None has led to a change so far.
-<!-- check: confirm list of provincial electoral-reform referendums and outcomes (BC 2005, 2009, 2018; ON 2007; PEI 2005, 2016 plebiscite, 2019) -->
 
 > **As of 2026:** All federal, provincial and territorial elections in Canada use
-> first-past-the-post. <!-- check: confirm no province or territory has adopted another system -->
+> first-past-the-post. <!-- check: confirm no province or territory has adopted another system; unresolved 2026-11-13: confirmed only that the BC (2005, 2009, 2018), Ontario (2007) and PEI (2005, 2016, 2019) votes brought no change; no single official source for all 13 jurisdictions found -->
 
 ## Sources
 
 - [Canada Elections Act](https://laws-lois.justice.gc.ca/eng/acts/E-2.01/) : s. 313 (the returning officer declares elected the candidate with the largest number of votes)
 - [Strengthening Democracy in Canada](https://www.ourcommons.ca/DocumentViewer/en/42-1/ERRE/report-3), report of the Special Committee on Electoral Reform, December 2016 (Recommendations 1–4 and 12)
 - [Special Committee on Electoral Reform (ERRE)](https://www.ourcommons.ca/Committees/en/ERRE): committee page
+- [Minister of Democratic Institutions mandate letter, February 1, 2017](https://www.pm.gc.ca/en/mandate-letters/2017/02/01/archived-minister-democratic-institutions-mandate-letter) (archived): changing the electoral system dropped, for lack of a clear preference or consensus
+- [Strengthening Democracy in Canada, Chapter 3](https://www.ourcommons.ca/documentviewer/en/42-1/ERRE/report-3/page-90): provincial reform votes in British Columbia (2005, 2009), Ontario (2007) and Prince Edward Island (2005, 2016)
+- [Elections BC: 2018 Referendum on Electoral Reform report](https://elections.bc.ca/docs/rpt/2018-CEO-2018-Referendum-Report.pdf) (61.3% to keep first-past-the-post)
+- [Elections PEI: history of elections](https://www.electionspei.ca/index.php/resources/history-of-elections-on-pei) (2016 plebiscite; 2019 referendum short of its threshold)
 - [Elections Canada: Our mission, mandate, values](https://www.elections.ca/content.aspx?section=abo&dir=mis&document=index&lang=e)

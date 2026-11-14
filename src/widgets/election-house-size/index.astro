@@ -100,7 +100,7 @@ const signed = (n: number) => (n > 0 ? `${n} more` : `${-n} fewer`);
           ))
         }
       </tbody>
-      <caption>{first.e.note} Data fetched {historyMeta.fetched}.</caption>
+      <caption>{first.e.note} Data fetched {formatDate(historyMeta.fetched)}.</caption>
     </table>
   </Fragment>
 </ChartCard>

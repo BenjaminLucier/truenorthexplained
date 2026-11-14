@@ -51,8 +51,8 @@ and those Parliaments usually end sooner.
 ## A bigger House
 
 Seats are redistributed among the provinces after each census, and the House grows as
-the population does. Provinces joining Confederation added seats too: Manitoba and
-British Columbia in the 1870s, and Newfoundland in 1949.
+the population does. Provinces joining Confederation added seats too: Manitoba,
+British Columbia and Prince Edward Island in the 1870s, and Newfoundland in 1949.
 
 <tn-widget name="election-house-size"></tn-widget>
 

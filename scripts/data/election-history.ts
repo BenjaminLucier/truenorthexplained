@@ -89,6 +89,22 @@ const decode = (s: string) =>
     .replace(/&nbsp;/g, " ")
     .replace(/&#(\d+);/g, (_, d: string) => String.fromCodePoint(Number(d)))
     .replace(/&amp;/g, "&");
+/**
+ * Elections Canada writes dates day first ("22 January 1874", "7 August - 20 September 1867");
+ * the site writes them month first: "January 22, 1874", "August 7 – September 20, 1867".
+ */
+function siteDateLabel(label: string): string {
+  const month = (w: string) => {
+    const i = MONTHS.indexOf(w.toLowerCase());
+    if (i < 0) fail(`Elections Canada: unknown month in "${label}"`);
+    return MONTHS[i]!.charAt(0).toUpperCase() + MONTHS[i]!.slice(1);
+  };
+  const range = /^(\d{1,2}) (\w+) [-–] (\d{1,2}) (\w+) (\d{4})$/.exec(label);
+  if (range) return `${month(range[2]!)} ${Number(range[1])} – ${month(range[4]!)} ${Number(range[3])}, ${range[5]}`;
+  const one = /^(\d{1,2}) (\w+) (\d{4})$/.exec(label);
+  if (one) return `${month(one[2]!)} ${Number(one[1])}, ${one[3]}`;
+  return fail(`Elections Canada: can't read date "${label}"`);
+}
 const text = (html: string) => decode(html.replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").trim();
 const int = (s: string) => {
   const n = Number(s.replace(/[,\s]/g, ""));
@@ -121,7 +137,7 @@ async function electionsCanada(): Promise<{ rows: EcRow[]; footnotes: Map<number
     rows.push({
       year,
       date: `${year}-${String(month + 1).padStart(2, "0")}-${m[1]!.padStart(2, "0")}`,
-      dateLabel: label.replace(/ - /g, " – "),
+      dateLabel: siteDateLabel(label),
       electors: int(text(tds[2]!)),
       ballots: int(text(tds[3]!)),
       turnout: Number(text(tds[4]!.replace(/<sup[\s\S]*?<\/sup>/g, ""))),

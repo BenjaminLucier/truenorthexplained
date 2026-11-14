@@ -30,7 +30,7 @@ practice means the leader of the governing party. Party leaders also:
 - often control who can run under the party's name. Under the [Canada Elections Act](doc:canada-elections-act), each
   party tells [](org:elections-canada) who is authorized to endorse its candidates (s. 406(2)), and
   in many parties that includes the leader.
-  <!-- check: confirm "in many parties that includes the leader" against current party filings -->
+  <!-- check: confirm "in many parties that includes the leader" against current party filings; unresolved 2026-11-13: s. 406(2) confirmed, but the parties' lists of authorized endorsers are not published and no party rules could be fetched -->
 
 ### How leaders are chosen today
 
@@ -44,12 +44,12 @@ In most major federal parties today, the process looks something like this:
 2. **Candidates enter**, usually paying a fee and collecting signatures from members.
 3. **People join the party** to vote. Membership is usually cheap or free and open to most
    residents, sometimes including people who aren't citizens or are under 18, depending on
-   party rules. <!-- check: membership eligibility varies by party; confirm before giving specifics -->
+   party rules. <!-- check: membership eligibility varies by party; confirm before giving specifics; unresolved 2026-11-13: party membership rules not reachable (pages 404 or unparsed) and web search unavailable -->
 4. **Members vote**, often by **[ranked ballot](term:ranked-ballot)**, so a winner emerges with majority support
    after lower-ranked candidates are eliminated.
 5. Some parties **weight votes by riding**, so each riding counts equally no matter how many
    members it has. Others count every member's vote equally.
-   <!-- check: confirm which major parties currently use riding-weighted points systems -->
+   <!-- check: confirm which major parties currently use riding-weighted points systems; unresolved 2026-11-13: party leadership rules not reachable in this run -->
 
 Historically, leaders were chosen at **delegate conventions**, where local party associations
 sent delegates to vote in person. Most parties have since moved to direct votes by all

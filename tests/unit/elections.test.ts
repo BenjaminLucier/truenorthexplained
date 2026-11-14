@@ -167,3 +167,16 @@ describe("election history data", () => {
     });
   });
 });
+
+describe("election date labels", () => {
+  it("are written month first, in site style", () => {
+    const M = "(January|February|March|April|May|June|July|August|September|October|November|December)";
+    const style = new RegExp(`^${M} \\d{1,2}(, \\d{4}| – ${M} \\d{1,2}, \\d{4})$`);
+    for (const e of elections) {
+      expect(e.dateLabel).toMatch(style);
+      expect(e.dateLabel.endsWith(String(e.year))).toBe(true);
+    }
+    expect(elections.find((e) => e.year === 1874)?.dateLabel).toBe("January 22, 1874");
+    expect(elections[0]?.dateLabel).toBe("August 7 – September 20, 1867");
+  });
+});

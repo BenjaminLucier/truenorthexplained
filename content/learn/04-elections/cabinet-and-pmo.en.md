@@ -23,8 +23,8 @@ this rests on [convention](term:convention) rather than written law.
 
 **Who's in it:** the Prime Minister picks the ministers. They are almost always MPs from the
 governing party. Occasionally a minister is appointed who isn't yet an MP; by convention they
-are expected to win a seat soon. A senator can also be a minister, though this has been rare
-in recent decades. <!-- check: confirm how rare senator-ministers have been recently -->
+are expected to win a seat soon. A senator can also be a minister. For decades the
+government's leader in the Senate sat in cabinet, but that stopped in 2013.
 
 **How they're appointed:** the [Governor General](org:governor-general) formally appoints ministers on the Prime
 Minister's advice. Each new minister is first sworn in to the **King's Privy Council for
@@ -44,7 +44,7 @@ Crown.
 
 Much of cabinet's work is done in **[cabinet committees](term:cabinet-committees)**, smaller groups of ministers focused
 on particular areas. One, the **[Treasury Board](org:treasury-board)**, is set up by law and oversees government
-spending and management. <!-- check: confirm Treasury Board is established under the Financial Administration Act -->
+spending and management.
 
 ### Two key principles
 
@@ -108,7 +108,10 @@ needed to coordinate a large government and deliver on election promises.
 ## Sources
 
 - [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): s. 11 (King's Privy Council for Canada), s. 13 (Governor General in Council)
-- [Privy Council Office](https://www.canada.ca/en/privy-council.html) (role of PCO and the Clerk)
+- [Privy Council Office](https://www.canada.ca/en/privy-council.html) (role of PCO and the Clerk) and [its mandate](https://www.canada.ca/en/privy-council/corporate/mandate.html) (non-partisan advice; the Clerk is Secretary to the Cabinet and Head of the Public Service)
+- [Open and Accountable Government](https://www.pm.gc.ca/en/news/backgrounders/2015/11/27/open-and-accountable-government) (2015): Cabinet solidarity and ministers' responsibilities
+- [Financial Administration Act](https://laws-lois.justice.gc.ca/eng/acts/F-11/): s. 5 (Treasury Board, a committee of the Privy Council)
+- [Debates of the Senate, October 17, 2013](https://sencanada.ca/en/content/sen/chamber/412/debates/002db_2013-10-17-e) (the government leader in the Senate no longer in cabinet, for the first time since the Diefenbaker government)
 - [Our Procedure: The Canadian Parliamentary System](https://www.ourcommons.ca/procedure/our-procedure/ParliamentaryFramework/c_g_parliamentaryframework-e.html) (cabinet, Privy Council, ministerial responsibility)
 - [The Crown in Canada](https://www.canada.ca/en/canadian-heritage/services/crown-canada.html) (Canadian Heritage)
 - [Role and responsibilities of the Governor General](https://www.gg.ca/en/governor-general/role-and-responsibilities)

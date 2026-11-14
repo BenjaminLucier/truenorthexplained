@@ -14,7 +14,7 @@ import { ridingFeatures } from "../../components/map/geo";
 import ridingsGeoMeta from "../../data/geo/ridings.topo.meta.json";
 import { tipRows } from "../../lib/charts";
 import { PARTIES, resultsMeta, winnersMeta, type PartyKey } from "../../lib/elections";
-import { num, numberWord, pct, possessive, withArticle } from "../../lib/province-profile";
+import { num, numberWord, pct, possessive, winnerPct, withArticle } from "../../lib/province-profile";
 import type { ProvinceProfile } from "./data";
 
 interface Props {
@@ -183,7 +183,7 @@ const Name = withArticle(name).replace(/^the/, "The");
                 tip: "",
                 "tip-title": x.name,
                 "tip-sub": `${x.winner}, ${label(x.party)}`,
-                "tip-note": `${pct(x.winnerShare)} of the vote; won by ${num(x.marginVotes)} ${x.marginVotes === 1 ? "vote" : "votes"}`,
+                "tip-note": `${winnerPct(x.winnerShare)} of the vote; won by ${num(x.marginVotes)} ${x.marginVotes === 1 ? "vote" : "votes"}`,
               },
             };
           }}
@@ -218,7 +218,7 @@ const Name = withArticle(name).replace(/^the/, "The");
                   </th>
                   <td>{x.winner}</td>
                   <td>{label(x.party)}</td>
-                  <td>{pct(x.winnerShare)}</td>
+                  <td>{winnerPct(x.winnerShare)}</td>
                   <td>{num(x.marginVotes)}</td>
                   <td>{x.margin.toFixed(1)}</td>
                 </tr>

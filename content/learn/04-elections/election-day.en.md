@@ -109,7 +109,6 @@ time elections for advantage. Others argue flexibility is essential in a parliam
 especially in a minority Parliament, where the House may stop working.
 
 Most provinces and territories have their own fixed-date laws, with similar exceptions.
-<!-- check: confirm which provinces/territories have fixed-date legislation before saying "most" -->
 
 ### Elections Canada
 
@@ -128,4 +127,5 @@ example when an MP resigns or dies.
 - [Elections Canada: Voting FAQ](https://www.elections.ca/content.aspx?section=vot&dir=faq&document=faqvoting&lang=e) (ways to vote, ID, time off work)
 - [Elections Canada: Our mission, mandate, values](https://www.elections.ca/content.aspx?section=abo&dir=mis&document=index&lang=e)
 - Conacher v. Canada (Prime Minister), 2010 FCA 131 (2008 election challenge)
-- Democracy Watch v. Canada (Prime Minister), 2023 FCA 41 (2021 election challenge) <!-- check: confirm style of cause and that this case concerned the 2021 election -->
+- Democracy Watch v. Canada (Prime Minister), 2023 FCA 41 (2021 election challenge) <!-- check: confirm style of cause and that this case concerned the 2021 election; unresolved 2026-11-13: CanLII and decisions.fca-caf.gc.ca blocked to automated fetch (403) -->
+- Provincial fixed-date laws, for example: [British Columbia, Constitution Act, s. 23](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96066_01); [Alberta, Election Act, s. 38.1](https://kings-printer.alberta.ca/documents/Acts/E01.pdf); [Manitoba, Elections Act, s. 49.1](https://web2.gov.mb.ca/laws/statutes/ccsm/e030.php); [New Brunswick, Legislative Assembly Act, s. 3](https://laws.gnb.ca/en/showfulldoc/cs/2014-c.116/); [Prince Edward Island, Election Act, s. 4.1](https://www.princeedwardisland.ca/sites/default/files/legislation/e-01-1-election_act.pdf); [Newfoundland and Labrador, House of Assembly Act, s. 3](https://www.assembly.nl.ca/legislation/sr/statutes/h10.htm); [Élections Québec: main steps of an election period](https://www.electionsquebec.qc.ca/en/understand/understanding-democracy-and-elections/main-steps-of-an-election-period/)

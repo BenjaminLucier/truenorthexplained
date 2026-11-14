@@ -35,6 +35,8 @@ import {
   transfersTakeaway,
   treatiesTakeaway,
   trendTakeaway,
+  voteShare,
+  winnerPct,
   withArticle,
   type PartyResult,
   type PremierTermLite,
@@ -209,11 +211,11 @@ describe("populationTrend and trendTakeaway", () => {
     const t = populationTrend([{ year: 2026, value: 50_000 }], [])!;
     expect(trendTakeaway("Yukon", t)).toBe("Yukon's population was 50,000 in 2026.");
   });
-  // Open question (editorial): with endpoints within 1% but a peak well above both,
-  // "held at about X … after peaking at Y" reads as if it never moved. Needs a wording decision.
-  it.fails("does not say 'held' when the population rose and fell in between", () => {
+  // With endpoints within 1% but a peak well above both, it rose and came back down: not "held".
+  it("does not say 'held' when the population rose and fell in between", () => {
     const t = populationTrend([{ year: 1951, value: 1_000_000 }, { year: 1990, value: 1_300_000 }, { year: 2026, value: 1_005_000 }], [])!;
     expect(trendTakeaway("X", t)).not.toContain("held at about");
+    expect(trendTakeaway("X", t)).toBe("X's population rose from 1 million in 1951 to 1.3 million in 1990, then fell back to about 1 million in 2026.");
   });
 });
 
@@ -315,9 +317,20 @@ describe("ridingsTakeaway", () => {
   it("handles no rows", () => {
     expect(ridingsTakeaway([])).toBe("There are no riding results in the data.");
   });
-  // Open question (edge): a winner with exactly 50.0% counts as "more than half".
-  it.fails("does not call exactly half 'more than half'", () => {
-    expect(ridingsTakeaway([riding("A", 10, 0.5, 50), riding("B", 20, 1, 60)])).not.toContain("every winner had more than half");
+  // A winner with exactly half is neither "more than" nor "less than" half.
+  it("does not call exactly half 'more than half'", () => {
+    const s = ridingsTakeaway([riding("A", 10, 0.5, 50), riding("B", 20, 1, 60)]);
+    expect(s).not.toContain("every winner had more than half");
+    expect(s).toBe("The closest race was A, decided by 10 votes (0.5 points); every winner had at least half the votes.");
+    // Just under half counts as less than half, even though it rounds to 50.0%.
+    expect(ridingsTakeaway([riding("A", 10, 0.5, voteShare(31_095, 62_240)), riding("B", 20, 1, 60)])).toContain("one of the two winners had less than half the votes");
+  });
+  it("prints a winner's share so it never reads 50.0% unless it is exactly half", () => {
+    expect(winnerPct(voteShare(31_095, 62_240))).toBe("49.96%");
+    expect(winnerPct(voteShare(33_437, 66_811))).toBe("50.05%");
+    expect(winnerPct(voteShare(21_988, 43_969))).toBe("50.01%");
+    expect(winnerPct(50)).toBe("50.0%");
+    expect(winnerPct(58.6)).toBe("58.6%");
   });
 });
 

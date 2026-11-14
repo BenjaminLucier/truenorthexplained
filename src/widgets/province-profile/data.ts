@@ -28,6 +28,7 @@ import {
   populationTrend,
   premiersTakeaway,
   ridingsTakeaway,
+  voteShare,
   seatSources,
   sortParties,
   transfersTakeaway,
@@ -77,7 +78,7 @@ export function provinceProfile(slug: string) {
         winner: w.winner,
         margin: w.margin,
         marginVotes: w.marginVotes,
-        winnerShare: r.candidates[0]?.share ?? 0,
+        winnerShare: voteShare(r.candidates[0]?.votes ?? 0, r.validVotes),
         second: r.candidates[1]?.party,
         validVotes: r.validVotes,
       };
