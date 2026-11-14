@@ -4207,15 +4207,6 @@
       "wikipedia": "https://en.wikipedia.org/wiki/Malcolm_Rowe"
     },
     {
-      "qid": "Q44080964",
-      "name": "Sheilah Martin",
-      "role": "puisne",
-      "since": "2017-12-18",
-      "joined": "2017-12-18",
-      "born": 1956,
-      "wikipedia": "https://en.wikipedia.org/wiki/Sheilah_Martin"
-    },
-    {
       "qid": "Q14949443",
       "name": "Nicholas Kasirer",
       "role": "puisne",
@@ -4250,6 +4241,15 @@
       "joined": "2023-11-06",
       "born": 1956,
       "wikipedia": "https://en.wikipedia.org/wiki/Mary_Moreau"
+    },
+    {
+      "qid": "Q5568908",
+      "name": "Glenn Joyal",
+      "role": "puisne",
+      "since": "2026-07-15",
+      "joined": "2026-07-15",
+      "born": null,
+      "wikipedia": "https://en.wikipedia.org/wiki/Glenn_Joyal"
     }
   ],
   "members": {

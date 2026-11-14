@@ -60,10 +60,10 @@ requirement of **form only**:
   only part of a section is being overridden, the law has to say which part in words.)
 - An override can't be **retroactive**. It can only apply going forward.
 
-> **As of 2026:** Whether a court can still examine a law that uses section 33, and
-> declare that it limits Charter rights even though the law stays in force, is an open
-> and actively litigated question.
-> <!-- check: status of the Supreme Court appeal on Quebec's Bill 21 (Act respecting the laicity of the State) and what, if anything, it decided about s. 33 -->
+> **As of November 2026:** Whether a court can still examine a law that uses section 33,
+> and declare that it limits Charter rights even though the law stays in force, is an
+> open and actively litigated question. The Supreme Court heard the appeal on Quebec's
+> Bill 21, which raises it, in March 2026 and had not yet ruled.
 
 ### Why it exists
 
@@ -93,13 +93,9 @@ have used it in recent years. Some examples, oldest first:
 | 2021 | Ontario | In a law on third-party election advertising |
 | 2022 | Quebec | In its French-language law (often called Bill 96) |
 | 2022 | Ontario | In a law ending a strike by education workers, which it repealed shortly afterward |
-| 2023 | Saskatchewan | In a law requiring parental consent before schools use a new name or pronoun for students under 16 |
+| 2023 | Saskatchewan | In a law requiring parental consent before schools use a new gender-related name or pronoun for students under 16 |
 | 2024 | Quebec | It renewed the Bill 21 override after five years |
 | 2025 | Alberta | In a law ending a teachers' strike, and later for laws on gender identity |
-
-<!-- check: Bill 21 override renewed in 2024 -->
-<!-- check: Saskatchewan Parents' Bill of Rights (2023) details -->
-<!-- check: Alberta 2025 uses — Back to School Act (royal assent Oct. 2025) and Bill 9 (Protecting Alberta's Children Statutes Amendment Act); confirm details and dates against official sources -->
 
 </tn-widget>
 
@@ -127,3 +123,7 @@ Changing or removing section 33 itself would require a constitutional amendment.
 - [Constitution Act, 1982 (Charter)](https://laws-lois.justice.gc.ca/eng/const/page-12.html): s. 33, s. 4
 - [Charterpedia: section 33](https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/check/art33.html) (Department of Justice): scope, the five-year limit, *Ford*, history of use, no federal use to date
 - [Ford v. Quebec (Attorney General), [1988] 2 S.C.R. 712](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/384/index.do)
+- [Supreme Court of Canada, case 41231](https://www.scc-csc.ca/cases-dossiers/search-recherche/41231/): the Bill 21 appeal, heard March 23 to 26, 2026, decision reserved
+- [Quebec Bill 52 (2024, c. 12)](https://www.assnat.qc.ca/en/travaux-parlementaires/projets-loi/projet-loi-52-43-1.html) (National Assembly): renewed the Bill 21 override; assented to May 7, 2024
+- [Saskatchewan Bill 137 (2023)](https://docs.legassembly.sk.ca/legdocs/Bills/29L3S/Bill29-137.pdf): parental consent for pupils under 16, with a section 33 declaration
+- Alberta [Bill 2, Back to School Act](https://www.assembly.ab.ca/assembly-business/bills/bill?billinfoid=12087&from=bills) (royal assent October 28, 2025) and [Bill 9, Protecting Alberta's Children Statutes Amendment Act, 2025](https://www.assembly.ab.ca/assembly-business/bills/bill?billinfoid=12098&from=bills) (royal assent December 11, 2025) (Legislative Assembly of Alberta)

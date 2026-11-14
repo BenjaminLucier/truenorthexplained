@@ -82,7 +82,6 @@ law of the province where it's being applied.
 Since 2001, the federal *Interpretation Act* says that when a federal law needs to borrow
 private-law rules from a province, it uses that province's rules, and that federal laws
 using terms from both traditions should be read to fit each.
-<!-- check: Interpretation Act ss. 8.1 and 8.2, added by the Federal Law–Civil Law Harmonization Act, No. 1 (2001) -->
 The Department of Justice drafts federal laws so their English and French versions fit
 both systems.
 
@@ -100,6 +99,9 @@ the common law or the civil law arrived. Some scholars and courts now speak of C
 ## Sources
 
 - [The judicial structure](https://www.justice.gc.ca/eng/csj-sjc/just/07.html) (Department of Justice): common law in nine provinces and the territories, the Civil Code in Quebec, three Quebec judges on the Supreme Court
+- [Where our legal system comes from](https://www.justice.gc.ca/eng/csj-sjc/just/03.html) (Department of Justice): the common law as a system of rules based on precedent
 - [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): s. 92(13) (property and civil rights), s. 94 (uniformity of laws outside Quebec)
 - [Supreme Court Act](https://laws-lois.justice.gc.ca/eng/acts/S-26/FullText.html): s. 6 (at least three judges from Quebec)
+- [Interpretation Act](https://laws-lois.justice.gc.ca/eng/acts/I-21/FullText.html): ss. 8.1 and 8.2 (both legal traditions; added by S.C. 2001, c. 4, s. 8)
+- [Federal Law–Civil Law Harmonization Act, No. 1](https://laws-lois.justice.gc.ca/eng/acts/F-7.5/) (S.C. 2001, c. 4, assented to May 10, 2001)
 - [Supreme Court of Canada: judicial work](https://www.scc-csc.ca/about-apropos/work-travail/judicial-judiciaire/): the Court is bilingual and bijural

@@ -152,6 +152,30 @@ async function knownPeople(people: Map<string, Person>) {
   return add;
 }
 
+/**
+ * Corrections for when Wikidata lags behind the Court. Checked against the
+ * Court's list of current and former judges
+ * (https://scc-csc.ca/about-apropos/judges-juges/list-liste/, 2026-11-13).
+ * Each entry stops applying once Wikidata catches up: `ended` only removes a
+ * judge Wikidata still shows as sitting, and `added` only adds one it lacks.
+ */
+const SCC_OVERRIDES: { ended: Record<string, string>; added: Judge[] } = {
+  // Sheilah Martin left the Court on May 30, 2026.
+  ended: { Q44080964: "2026-05-30" },
+  added: [
+    {
+      // Judge since July 15, 2026; birth date not published by the Court.
+      qid: "Q5568908",
+      name: "Glenn Joyal",
+      role: "puisne",
+      since: "2026-07-15",
+      joined: "2026-07-15",
+      born: null,
+      wikipedia: "https://en.wikipedia.org/wiki/Glenn_Joyal",
+    },
+  ],
+};
+
 /** The current Supreme Court: living holders of "justice of the Supreme Court of Canada" or "Chief Justice of Canada" with no end date. */
 async function supremeCourt(): Promise<Judge[]> {
   const rows = await sparql(`
@@ -167,7 +191,7 @@ async function supremeCourt(): Promise<Judge[]> {
     }`);
   const byPerson = new Map<string, typeof rows>();
   for (const r of rows) byPerson.set(r.p!, [...(byPerson.get(r.p!) ?? []), r]);
-  const judges: Judge[] = [];
+  let judges: Judge[] = [];
   for (const [qid, rs] of byPerson) {
     const open = rs.filter((r) => !r.end && r.start);
     if (!open.length) continue;
@@ -185,6 +209,8 @@ async function supremeCourt(): Promise<Judge[]> {
       wikipedia: article ?? null,
     });
   }
+  judges = judges.filter((j) => !(j.qid in SCC_OVERRIDES.ended));
+  for (const j of SCC_OVERRIDES.added) if (!judges.some((k) => k.qid === j.qid)) judges.push(j);
   judges.sort((a, b) => (a.role !== b.role ? (a.role === "chief" ? -1 : 1) : a.joined < b.joined ? -1 : a.joined > b.joined ? 1 : qidNum(a.qid) - qidNum(b.qid)));
   const chiefs = judges.filter((j) => j.role === "chief");
   if (judges.length !== 9 || chiefs.length !== 1)
