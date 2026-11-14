@@ -23,7 +23,7 @@ emergencies, and spend much of their time on ceremonial and community work.
 **How they're chosen.** The King appoints the Governor General on the advice of the
 Prime Minister. An advisory group may help find candidates. There is no fixed term,
 but the usual length is about five years. By custom, the office has often alternated
-between anglophone and francophone holders. <!-- check: alternation custom and how consistently it has been followed -->
+between anglophone and francophone holders. <!-- check: alternation custom and how consistently it has been followed; unresolved 2026-11-13: judgement call, not found in fetched official sources (gg.ca, Canadian Heritage, House of Commons Procedure and Practice) -->
 
 **Where the powers come from.** The office is mentioned in the Constitution Act, 1867
 (s. 10), but most of the detail is in the **Letters Patent** of 1947, issued by
@@ -42,15 +42,14 @@ five areas:
 | Bringing Canadians together | Community events across the country |
 
 **Royal assent in practice.** Since 2002, the **Royal Assent Act** lets assent be given
-either in a ceremony in the Senate chamber or by **[written declaration](term:written-declaration)**. Most bills now
-get assent by written declaration, but the traditional ceremony must still happen at
+either in a ceremony in the Senate chamber or by **[written declaration](term:written-declaration)**. Assent is now
+often given by written declaration, but the traditional ceremony must still happen at
 least twice a calendar year, and for the first supply bill of each session.
-<!-- check: "most bills" by written declaration -->
 
 **When the Governor General is away.** If the Governor General is absent or the office
 is vacant, the **[Chief Justice of Canada](term:chief-justice-of-canada)** becomes **[Administrator of the Government of
 Canada](term:administrator-of-the-government-of-canada)** and can exercise the powers. Deputies, such as Supreme Court judges, can also
-perform specific tasks like giving royal assent. <!-- check: who may serve as deputies of the Governor General -->
+perform specific tasks like giving royal assent.
 
 ### Lieutenant Governors
 
@@ -63,12 +62,12 @@ Two things surprise people:
 
 1. **They're chosen by Ottawa, but they represent the King in the province.** The
    provincial premier has no formal say in the appointment, although consultation is
-   common. <!-- check: practice of consulting premiers --> Once appointed, the Lieutenant
+   common. <!-- check: practice of consulting premiers; unresolved 2026-11-13: not found: Canadian Heritage's Lieutenant Governors page says only that they are appointed on the Prime Minister's recommendation --> Once appointed, the Lieutenant
    Governor acts on the advice of the **provincial** government, not the federal one.
 2. **They don't report to the Governor General.** Since an 1892 decision of the [Judicial
    Committee of the Privy Council](org:judicial-committee-of-the-privy-council) (the *Maritime Bank* case), it has been settled that
    the Lieutenant Governor represents the Crown directly for provincial purposes.
-   <!-- check: Liquidators of the Maritime Bank v. Receiver-General of New Brunswick, [1892] A.C. 437 -->
+   <!-- check: Liquidators of the Maritime Bank v. Receiver-General of New Brunswick, [1892] A.C. 437; unresolved 2026-11-13: blocked to automated fetch (BAILII bot challenge, CanLII 403) -->
 
 Their duties mirror the Governor General's at the provincial level: swearing in the
 premier and cabinet, opening each session of the legislature, giving royal assent to
@@ -92,7 +91,7 @@ role today closely resembles a Lieutenant Governor's. See
 | Represents | The King | The King | The federal government |
 | Appointed by | The King | The Governor General | The federal government |
 | On the advice of | The Prime Minister | The Prime Minister (federal cabinet) | Federal cabinet |
-| Usual term | About 5 years | About 5 years | Varies <!-- check: usual length of a Commissioner's term --> |
+| Usual term | About 5 years | About 5 years | No fixed term |
 | Acts on advice of | Federal cabinet | Provincial cabinet | Territorial government, in practice |
 
 > **As of 2026:** For who currently holds each office, see the
@@ -116,3 +115,6 @@ the Crown is the person who decides what happens next. See
 - [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): s. 10 (Governor General)
 - [Constitution Act, 1867, ss. 53–90](https://laws-lois.justice.gc.ca/eng/const/page-2.html): s. 55 (royal assent), s. 58 (Lieutenant Governors), s. 90 (applies assent rules to provinces)
 - [Royal Assent Act](https://laws-lois.justice.gc.ca/eng/acts/R-8.6/page-1.html), S.C. 2002, c. 15, ss. 2–5
+- [House of Commons Procedure and Practice, 4th ed., ch. 16: Royal Assent](https://www.ourcommons.ca/procedure-and-practice-4/ch16-5-e.html): ceremonies "frequently dispensed with"; written declarations
+- [House of Commons Procedure and Practice, 4th ed., ch. 1](https://www.ourcommons.ca/procedure-and-practice-4/ch01-3-e.html): deputies of the Governor General, usually Supreme Court justices or members of the Governor General's staff
+- [Yukon Act](https://laws-lois.justice.gc.ca/eng/acts/Y-2.01/page-1.html), s. 4, and [Nunavut Act](https://laws-lois.justice.gc.ca/eng/acts/N-28.6/page-1.html), s. 5: Commissioners appointed by the Governor in Council, with no fixed term

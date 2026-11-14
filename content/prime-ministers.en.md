@@ -74,6 +74,9 @@ returns:
 
 - Wikidata: everyone who has held the position of [Prime Minister of Canada](https://www.wikidata.org/wiki/Q839078), with start and end dates and party membership (CC0)
 - Wikipedia: [List of prime ministers of Canada](https://en.wikipedia.org/wiki/List_of_prime_ministers_of_Canada) (CC BY-SA 4.0)
+- [House of Commons Procedure and Practice, 4th ed., Appendix 6: Government Ministries and Prime Ministers of Canada Since 1867](https://www.ourcommons.ca/procedure-and-practice-4/app06-e.html): terms of office, the 1873 resignation, the Unionist government and the 1926 crisis
+- [History of Election Outcomes](https://www.elections.ca/content.aspx?section=vot&dir=bkg&document=heo&lang=e) (Elections Canada): the dissolution of December 14, 1979 and the election of February 18, 1980
+- [Prime Minister Mark Carney](https://www.pm.gc.ca/en/about) (Office of the Prime Minister): Canada's 24th Prime Minister
 - [Privy Council Office](https://www.canada.ca/en/privy-council.html): supports the Prime Minister and Cabinet
 - [Parliament of Canada Act](https://laws-lois.justice.gc.ca/eng/acts/P-1/)
 

@@ -74,8 +74,9 @@ outvote the government side in committee.
 
 **Who chairs them:** committee members elect their own chair. Most chairs are government MPs,
 but a few committees, including the one that reviews government spending audits, are
-chaired by the [Official Opposition](term:official-opposition).
-<!-- check: confirm which committees are opposition-chaired (Public Accounts is the usual example) -->
+chaired by the [Official Opposition](term:official-opposition). Under the Standing Orders, these are the committees
+on Public Accounts; Access to Information, Privacy and Ethics; Government Operations and
+Estimates; and the Status of Women.
 
 **What they do:**
 
@@ -88,7 +89,6 @@ chaired by the [Official Opposition](term:official-opposition).
    ministers and officials, and ask for documents. They report their findings and
    recommendations to the House. The government is expected to respond to many committee
    reports.
-   <!-- check: confirm wording on committees' power to send for persons, papers and records (Standing Order 108) -->
 4. **Review appointments and officers of Parliament.** Committees study reports from
    watchdogs like the [Auditor General](org:auditor-general). See [watchdogs](/learn/government/watchdogs).
 
@@ -109,5 +109,6 @@ members vote as they personally choose, is the exception.
 - [Our Procedure: Questions](https://www.ourcommons.ca/procedure/our-procedure/Questions/c_g_questions-e.html) (Question Period, written questions, adjournment proceedings)
 - [Our Procedure: Committees](https://www.ourcommons.ca/procedure/our-procedure/Committees/c_g_committees-e.html) (types, membership, chairs, number of committees)
 - [Our Procedure: The Canadian Parliamentary System](https://www.ourcommons.ca/procedure/our-procedure/ParliamentaryFramework/c_g_parliamentaryframework-e.html) (Leader of the Opposition's first question)
+- [Standing Orders of the House of Commons, ch. XIII: Committees](https://www.ourcommons.ca/procedure/standing-orders/chap13-e.html): SO 106(2) (opposition chairs), SO 108(1) (power to "send for persons, papers and records")
 - [Our Procedure: Typical Sitting Day](https://www.ourcommons.ca/procedure/our-procedure/TypicalSittingDay/c_g_typicalsittingday-e.html)
 - [Senate of Canada: About](https://sencanada.ca/en/about/)

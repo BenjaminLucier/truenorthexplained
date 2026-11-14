@@ -51,7 +51,7 @@ To be appointed, a person must, under the Constitution Act, 1867:
 - live in the province or territory they represent.
 
 Senators appointed today must retire at **75** (s. 29). Before 1965, senators served for
-life. <!-- check: confirm 1965 as the year mandatory retirement at 75 took effect -->
+life.
 
 A rarely used rule lets the King, on the Governor General's recommendation, add four or
 eight extra senators to break a deadlock (s. 26). This has been used once, in 1990.
@@ -102,7 +102,7 @@ Prime Minister could change or end it.
 
 > **As of 2026:** Most senators belong to one of several parliamentary groups that are not
 > tied to a political party, and a smaller number sit in a party caucus.
-> <!-- check: confirm current Senate group composition before publishing -->
+> <!-- check: confirm current Senate group composition before publishing; unresolved 2026-11-13: House of Commons Procedure and Practice (4th ed., ch. 1) confirms this as of November 2024; sencanada.ca standings need JavaScript and couldn't be read -->
 
 ### Why reform is so hard
 
@@ -130,9 +130,11 @@ side.
 ## Sources
 
 - [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): ss. 21–22 (number and regional division of senators), s. 23 (qualifications), s. 24 (summoned by the Governor General), s. 26 (extra senators), s. 29 (retirement at 75), s. 53 (money bills start in the Commons)
+- [Endnotes to the Constitution Acts](https://laws-lois.justice.gc.ca/eng/const/endNotes.html): note 18, retirement at 75 added by the Constitution Act, 1965, in force June 2, 1965
+- [House of Commons Procedure and Practice, 4th ed., ch. 1](https://www.ourcommons.ca/procedure-and-practice-4/ch01-3-e.html): s. 26 used only once, in 1990; the 2014 removal of Liberal senators from caucus; most senators not tied to a party (November 2024)
 - [Constitution Act, 1982](https://laws-lois.justice.gc.ca/eng/const/page-12.html): s. 47 (Senate's 180-day limit on constitutional amendments)
 - [Senate of Canada: About](https://sencanada.ca/en/about/)
 - [Senate appointments](https://www.canada.ca/en/democratic-institutions/services/senate-appointment-process.html) (Government of Canada)
 - [Independent Advisory Board for Senate Appointments](https://www.canada.ca/en/campaign/independent-advisory-board-for-senate-appointments.html)
 - [Minister of Democratic Institutions announces establishment of the Independent Advisory Board for Senate Appointments](https://www.canada.ca/en/democratic-institutions/news/2016/1/minister-of-democratic-institutions-announces-establishment-of-the-independent-advisory-board-for-senate-appointments.html) (January 2016)
-- Reference re Senate Reform, 2014 SCC 32: [Supreme Court of Canada decision](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/13614/index.do) <!-- unverified link -->
+- Reference re Senate Reform, 2014 SCC 32: [Supreme Court of Canada decision](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/13614/index.do)

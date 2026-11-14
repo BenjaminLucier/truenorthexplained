@@ -39,9 +39,10 @@ s. 41 (the three-year limit in s. 39 applies to the general procedure), but any
 legislature can withdraw its approval until the amendment is proclaimed (s. 46(2)).
 See [Why changing the Constitution is so hard](/learn/constitution/amending-formula).
 
-No referendum is legally required. Politically, many people assume one would be, and
-some provinces have their own laws requiring a referendum before their legislature
-votes on certain constitutional amendments. <!-- check: BC and Alberta referendum laws and whether they would apply -->
+No referendum is legally required. Politically, many people assume one would be. Some
+provinces also have their own laws on this. British Columbia's, for example, bars its
+government from asking the legislature to approve any amendment to the Constitution of
+Canada until a referendum has been held on it. <!-- check: Alberta's Constitutional Referendum Act; unresolved 2026-11-13: not found (Alberta King's Printer URL 404, CanLII 403). BC's Constitutional Amendment Approval Act s. 1 confirmed -->
 
 ### What doesn't need unanimity
 
@@ -107,8 +108,9 @@ People disagree, and opinion varies by region and generation.
 ## Sources
 
 - [Constitution Act, 1982, Parts III–VII](https://laws-lois.justice.gc.ca/eng/const/page-13.html): s. 39 (time limits), s. 41(a) (unanimity for the office of the Queen), s. 46(2) (revoking assent), s. 47 (Senate override)
+- [Constitutional Amendment Approval Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96067_01), R.S.B.C. 1996, c. 67, s. 1 (British Columbia): referendum before a resolution for an amendment
 - [Succession to the Throne Act, 2013](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2013_6/FullText.html), S.C. 2013, c. 6
-- *Motard c. Procureur général du Canada*, 2019 QCCA 1826 (Quebec Court of Appeal); leave to appeal to the Supreme Court refused, 2020 (file 38986)
+- *Motard c. Procureur général du Canada*, 2019 QCCA 1826 (Quebec Court of Appeal); leave to appeal to the Supreme Court refused, April 23, 2020 ([file 38986](https://www.scc-csc.ca/case-dossier/info/dock-regi-eng.aspx?cas=38986))
 - [House of Commons Vote No. 199](https://www.ourcommons.ca/members/en/votes/44/1/199), October 26, 2022: opposition motion on ties with the monarchy (negatived, 44–266)
 - [Endnotes to the Constitution Acts](https://laws-lois.justice.gc.ca/eng/const/endNotes.html): Quebec's 2022 oath law (S.Q. 2022, c. 30)
 - [The Monarch](https://www.canada.ca/en/canadian-heritage/services/crown-canada/monarch.html) (Canadian Heritage): royal style and titles
