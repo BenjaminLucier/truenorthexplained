@@ -5,4 +5,4 @@ see:
   - /learn/constitution
 ---
 
-The British law that ended Britain's power to legislate for Canada without its consent, but at Canada's request left the BNA Acts out, so the British Parliament remained the formal amender until 1982.
+The British law that ended Britain's power to legislate for Canada without its consent, but left the BNA Acts out because Ottawa and the provinces had not agreed on another way to amend them, so the British Parliament remained the formal amender until 1982.

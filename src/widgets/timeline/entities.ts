@@ -93,6 +93,7 @@ export function eventItem(e: Event, look: Lookup): TimelineEvent {
     text: look.render(e.text),
     groups: eventGroups(e),
     links: e.pages.map((p) => ({ href: p.page, label: p.label ?? look.pageTitle(pathOf(p.page)) ?? p.page })),
+    sources: e.sources.map((s) => ({ href: s.url, label: s.label })),
     people,
     related,
   };

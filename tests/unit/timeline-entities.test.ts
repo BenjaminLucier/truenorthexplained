@@ -29,6 +29,7 @@ const event = (over: Partial<Event>): Event => ({
   text: "Something happened.",
   era: "a",
   pages: [],
+  sources: [],
   people: [],
   entities: [],
   ...over,
@@ -90,13 +91,14 @@ describe("eventGroups", () => {
 });
 
 describe("eventItem", () => {
-  it("maps an event entity to a card: slug id, year, title, text, page links, people, related", () => {
+  it("maps an event entity to a card: slug id, year, title, text, page links, sources, people, related", () => {
     const item = eventItem(
       event({
         slug: "king-byng-affair",
         date: "1926-06",
         title: "The King–Byng <affair>",
         pages: [{ page: "/learn/crown/reserve-powers" }, { page: "/provinces/quebec#x", label: "Quebec today" }, { page: "/nowhere" }],
+        sources: [{ label: "Library of Parliament", url: "https://lop.parl.ca/x" }],
         people: ["person:p"],
         entities: ["case:c", "event:other", "term:t"],
       }),
@@ -116,6 +118,7 @@ describe("eventItem", () => {
         { href: "/provinces/quebec#x", label: "Quebec today" },
         { href: "/nowhere", label: "/nowhere" },
       ],
+      sources: [{ href: "https://lop.parl.ca/x", label: "Library of Parliament" }],
       people: [{ href: "/prime-ministers#pm-1", label: "Pat", name: "Pat Example", qid: "Q1" }],
       related: [
         { kind: "case", href: "/learn/charter/landmark-cases#c", label: "R. v. C" },

@@ -84,7 +84,7 @@ constitutionally protected.
 | [Nisga'a Final Agreement](term:nisgaa-final-agreement) | 2000 (in effect) | The first modern treaty in BC, and a direct result of the Nisga'a's decades-long effort that included *Calder* |
 
 > **As of 2026:** Canada describes itself as implementing roughly two dozen modern
-> treaties (CIRNAC lists 27), and more are being negotiated.
+> treaties (CIRNAC lists {{modern-treaties.count}}), and more are being negotiated.
 
 ### Unceded territory
 

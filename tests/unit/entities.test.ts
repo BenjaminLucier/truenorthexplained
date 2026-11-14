@@ -398,6 +398,35 @@ describe("cases, events and eras", () => {
     expect(loadError(events("    era: e\n"))).toContain('event:x: missing required field "date"');
     expect(loadError({ "content/entities/events.yaml": "events: []\ntimeline: []\n" })).toContain('unknown top-level key "timeline"');
   });
+
+  it("loads event sources, defaulting to none", () => {
+    useFixture({
+      "content/entities/events.yaml": BASE["content/entities/events.yaml"]!.replace(
+        "    people: [person:julian-byng]\n",
+        "    people: [person:julian-byng]\n    sources:\n      - label: Library of Parliament\n        url: https://lop.parl.ca/x\n      - { label: ' The Canadian Encyclopedia ', url: 'https://www.thecanadianencyclopedia.ca/en/article/king-byng-affair' }\n",
+      ),
+    });
+    expect((getEntity("event:king-byng-affair") as Event).sources).toEqual([
+      { label: "Library of Parliament", url: "https://lop.parl.ca/x" },
+      { label: "The Canadian Encyclopedia", url: "https://www.thecanadianencyclopedia.ca/en/article/king-byng-affair" },
+    ]);
+    expect((getEntity("event:confederation") as Event).sources).toEqual([]);
+  });
+
+  it("reports bad event sources", () => {
+    const events = (sources: string) => ({
+      "content/entities/events.yaml": `eras:\n  - id: e\n    title: E\nevents:\n  - id: x\n    title: X\n    text: T\n    date: 1926\n    era: e\n    sources: ${sources}\n`,
+    });
+    expect(loadError(events("https://example.com"))).toContain('event:x: "sources" must be a list of { label, url }');
+    expect(loadError(events("[https://example.com]"))).toContain('each of "sources" must be { label, url }');
+    expect(loadError(events("[{ url: 'https://example.com' }]"))).toContain('each of "sources" needs a non-empty "label"');
+    expect(loadError(events("[{ label: '  ', url: 'https://example.com' }]"))).toContain('needs a non-empty "label"');
+    expect(loadError(events("[{ label: A }]"))).toContain('each of "sources" needs an https "url" (got undefined)');
+    expect(loadError(events("[{ label: A, url: 'http://example.com' }]"))).toContain('needs an https "url" (got "http://example.com")');
+    expect(loadError(events("[{ label: A, url: 'https://example.com/a b' }]"))).toContain('needs an https "url"');
+    expect(loadError(events("[{ label: A, url: '/learn/crown' }]"))).toContain('needs an https "url"');
+    expect(loadError(events("[{ label: A, url: 'https://example.com', note: x }]"))).toContain('unknown field "note" in "sources" (allowed: label, url)');
+  });
 });
 
 describe("glossary terms", () => {

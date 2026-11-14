@@ -49,6 +49,8 @@ export interface TimelineEvent {
   /** Group keys this event belongs to; the first one sets its colour. */
   groups: string[];
   links: TimelineLink[];
+  /** External citations for the event, shown as a small "Source(s)" link. */
+  sources?: TimelineLink[];
   people?: TimelinePerson[];
   related?: TimelineRelated[];
 }

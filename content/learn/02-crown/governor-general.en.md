@@ -4,7 +4,7 @@ parent: crown
 title: "The Governor General and Lieutenant Governors"
 order: 1
 summary: "Who represents the King in Canada and the provinces, how they're chosen, and what they actually do."
-about: [org:governor-general, org:lieutenant-governor, term:letters-patent-1947]
+about: [org:governor-general, org:lieutenant-governor, term:letters-patent-1947, event:letters-patent-1947, event:maritime-bank-case-1892]
 status: draft
 ---
 

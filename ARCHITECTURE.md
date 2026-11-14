@@ -387,6 +387,7 @@ can't be derived sit in `content/facts.yaml` with an `asOf` date, a `source` and
 | `gg.*`, `monarch.*`, `chief-justice.*`: `.name`, `.since` ("September 8, 2022"), `.since-year` | `src/data/wikidata/{governors-general,monarchs,chief-justices}.json` |
 | `premier.<province>.name`, `.party`, `.since` | `src/data/wikidata/premiers.json` |
 | `population.canada`, `population.<province>`, each with `.rounded` ("41.8 million"); `population.as-of` | `src/data/population/provinces.json` (latest quarterly estimate) |
+| `indigenous.census-year`, `indigenous.share` ("5.0%"), `indigenous.rounded` ("1.8 million"), `indigenous.{first-nations,metis,inuit}.rounded` | `src/data/demographics/indigenous.json` (latest census) |
 | `elections.count`, `elections.latest.year` | `src/data/elections/history.json` |
 
 `<province>` is the site's slug (`british-columbia`). Numbers render with `en-CA`

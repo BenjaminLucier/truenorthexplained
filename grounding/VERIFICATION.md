@@ -1491,3 +1491,109 @@ uses it.
 
 Noticed, not changed: patriation-1982 still says the Statute of Westminster left the BNA Acts out at
 Canada's request (unmarked).
+
+## Event sources, new events and dated phrases (2026-11-13)
+
+### Sources on events
+
+Every event in `content/entities/events.yaml` now has a `sources` list (`label`, https `url`), shown on
+its timeline card as a "Source" or "Sources" link. Each source was read for this pass, or is the one the
+event's page already cites and this file already records as confirmed. Official sources and
+encyclopedias came first; Wikipedia only where nothing better could be read.
+
+| First source, by type | Original 118 events | 28 new events |
+|---|---|---|
+| Official (Justice Laws and the Constitution Acts consolidation, CIRNAC, Supreme Court dockets and cases in brief, House of Commons Journals and Procedure and Practice, Elections Canada, provincial legislatures and governments, gg.ca, royal.uk) | 100 | 20 |
+| Encyclopedia or secondary (The Canadian Encyclopedia, Centre for Constitutional Studies, Encyclopedia of Saskatchewan, UBC Indigenous Foundations, LawNow, historyofrights.ca, Courthouse Libraries BC, Lederman in the McGill Law Journal) | 17 | 1 |
+| Wikipedia | 1 (`newfoundland-referendums-1948`) | 3 |
+| News | 0 | 4 |
+
+Corrections: none. Every date and wording checked matched its source. Several events within the same
+year are not in date order (1960, 1985, 1995), but the order is pinned by the legacy-anchor fixture
+and was left alone.
+
+Weak or unread sources:
+- `bill-101`: LégisQuébec (C-11) blocks automated reads. The 1977 date rests on Wikipedia, Charter of the
+  French Language (royal assent August 26, 1977), now listed as a second source.
+- `newfoundland-referendums-1948`: Wikipedia only. heritage.nf.ca refused the connection and the TCE
+  article body could not be read.
+- `union-government-1917` ("only federal coalition") rests on the confidence page's Library of
+  Parliament source; lop.parl.ca blocks automated reads. The October 12 date is from Procedure and
+  Practice, Appendix 6.
+- Wikipedia-only facts in new events, each attributed in the text where it matters:
+  `maritime-bank-case-1892` (Wikipedia's lieutenant-governor article says 1882; the law report citation
+  is [1892] A.C. 437, and the text says so), `senators-leave-caucus-2014`, `prorogation-2025` (the
+  Federal Court dismissal is attributed to Wikipedia), and the September 2024 end of
+  `confidence-and-supply-2022` (start date from pm.gc.ca).
+- The PEI government release on Rob Lantz is behind a Radware bot check and was not tried again; CTV is
+  the source.
+
+### New events
+
+| Event | Date | Source |
+|---|---|---|
+| pacific-scandal-prorogation-1873 | 1873 | House of Commons PROC Report 18 (2021) |
+| maritime-bank-case-1892 | 1892 | Wikipedia (JCPC appeals list; Lieutenant governor) |
+| union-government-1917 | 1917-10-12 | Procedure and Practice, 4th ed., Appendix 6 |
+| letters-patent-1947 | 1947 | Canadian Heritage, The Governor General |
+| queen-of-canada-1953 | 1953 | Canadian Heritage, The Monarch |
+| clark-government-defeated-1979 | 1979-12 | TCE, Elections of 1979 and 1980; Elections Canada, History of Election Outcomes |
+| extra-senators-1990 | 1990 | Procedure and Practice, 4th ed., ch. 1 |
+| royal-assent-act-2002 | 2002-06-04 | Justice Laws, R-8.6 |
+| martin-government-defeated-2005 | 2005-11-28 | Commons Journals, 38-1, sitting 159 |
+| contempt-of-parliament-2011 | 2011-03-25 | Commons Journals, 40-3, sitting 149 |
+| senators-leave-caucus-2014 | 2014 | Wikipedia, Senate of Canada |
+| succession-challenge-2020 | 2020-04-23 | Supreme Court docket 38986 |
+| confidence-and-supply-2022 | 2022-03-22 to 2024-09 | pm.gc.ca release; Wikipedia, Confidence and supply |
+| quebec-oath-law-2022 | 2022 | Justice Laws, Endnotes to the Constitution Acts (S.Q. 2022, c. 30) |
+| coronation-2023 | 2023-05-06 | royal.uk, The Coronation |
+| prorogation-2025 | 2025-01-06 | Wikipedia, Prorogation in Canada |
+| carney-prime-minister-2025 | 2025-03-14 | Procedure and Practice, 4th ed., Appendix 6 |
+| federal-election-2025 | 2025-04-28 | Elections Canada, 45th general election results |
+| alberta-referendum-requirement-repealed-2025 | 2025 | Elections Alberta, Referendum Act changes (July 4, 2025) |
+| lantz-premier-2026 | 2026-02-09 | CTV News |
+| bill-21-appeal-heard-2026 | 2026-03 | Supreme Court docket 41231 (heard March 23 to 26, reserved) |
+| justice-martin-leaves-2026 | 2026-05-30 | Supreme Court, list of judges |
+| arbour-governor-general-2026 | 2026-06-08 | gg.ca |
+| nova-scotia-new-riding-2026 | 2026-06-23 | Two Government of Nova Scotia releases |
+| justice-joyal-joins-2026 | 2026-07-15 | Supreme Court, list of judges |
+| quebec-election-2026 | 2026-10-05 | CTV News |
+| st-pierre-plamondon-premier-2026 | 2026-10-21 | MTL Blog |
+| bc-election-2026 | 2026-10-24 | The Hub |
+
+Not added: the 2025 premier and election changes in Yukon, Nunavut and Newfoundland and Labrador. The
+timeline has no other provincial elections or premier changes; the 2026 ones were requested. No BC
+swearing-in yet; the watchlist item `bc-premier-2026` now says to add one, with a source.
+
+Test fixture: `tests/unit/fixtures/timeline-legacy-anchors.json` gained 28 anchors for the new events.
+No existing anchor changed.
+
+### Dated phrases
+
+Converted to facts (rendered text unchanged; the built article text was compared before and after):
+
+| Page | Was | Now |
+|---|---|---|
+| timeline, provinces/nunavut (twice), learn/federalism/territories | April 1, 2027 | `{{nunavut.devolution.date}}` (CIRNAC Question Period Note, re-read) |
+| learn/federalism/money-and-equalization | March 31, 2029 | `{{equalization.next-renewal}}` (Finance Canada, re-read) |
+| learn/indigenous/treaties | 27 | `{{modern-treaties.count}}` (CIRNAC Modern treaties, re-read) |
+| learn/indigenous/self-government | 24 | `{{self-government.agreements}}` (CIRNAC Self-government, re-read) |
+| learn/indigenous | 2021; 1.8 million; 5.0%; 1.05 million; 624,000; 71,000 | `indigenous.*` facts derived from `src/data/demographics/indigenous.json` |
+
+Left as written, because "as of" dates when something was true rather than a value that a fact could
+carry: the "As of 2026" labels themselves (STYLE.md asks for them); notes that already use facts (seat
+counts, ridings, committees, the monarch); "As of November 2024" in the Senate note (from Procedure and
+Practice at that date); the Bill 21 note on the notwithstanding page; patriation's note on Quebec's
+endorsement; earlier seat totals (Quebec 125, Nova Scotia 55, Saskatchewan 61 in 2024, Alberta 89 and
+91); framework, budget, CHT, strong-mayor, initiative, Indian Act and judges notes that describe a
+dated decision; New Brunswick's local-government counts (fixed by a 2022 regulation, not a dataset);
+and the "(Wikipedia, as of November 2026)" citations, which date the snapshot read.
+
+### Patriation: "at Canada's request"
+
+No source read for this pass says the Statute of Westminster left the BNA Acts out at Canada's request.
+Wikipedia, Statute of Westminster 1931 (citing the Privy Council Office), says they were excluded because
+Ottawa and the provinces disagreed on how else to amend them. patriation-1982 and the Statute of
+Westminster glossary entry now say that, and the page lists the Wikipedia article as a source. The
+Privy Council Office page is only in the web archive, which could not be read. The Canada Act 1982
+"at Canada's request" wording elsewhere is unchanged; that Act's preamble records Canada's request.

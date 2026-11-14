@@ -105,10 +105,10 @@ Unlike Yukon and the Northwest Territories, Nunavut does not yet manage its own
 public lands and resources. On **January 18, 2024**, Canada, the Government of
 Nunavut and NTI signed the **Nunavut Lands and Resources Devolution Agreement**.
 After a transition period, administration and control of Crown lands and resources
-is set to pass to Nunavut on **April 1, 2027**.
+is set to pass to Nunavut on **{{nunavut.devolution.date}}**.
 
 > **As of 2026:** [Devolution](term:devolution) has been agreed but not yet completed. The transfer is
-> scheduled for April 1, 2027.
+> scheduled for {{nunavut.devolution.date}}.
 
 ## Courts
 

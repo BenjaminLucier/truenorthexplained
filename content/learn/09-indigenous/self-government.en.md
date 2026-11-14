@@ -55,7 +55,7 @@ cover differ:
 
 > **As of 2026:** The federal government reports more than two dozen comprehensive
 > self-government agreements in effect, involving more than 40 Indigenous communities
-> (CIRNAC listed 24).
+> (CIRNAC listed {{self-government.agreements}}).
 
 Self-governing nations still sit within Canada. Their laws operate alongside federal and
 provincial law, and each agreement sets out which law wins if they conflict. Charter

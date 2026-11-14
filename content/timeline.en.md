@@ -13,5 +13,5 @@ entry links to the page that explains why it matters.
 
 <tn-widget name="timeline" data-source="events" data-group-by="module" data-label="Timeline of key moments"></tn-widget>
 
-> **As of 2026:** Nunavut's transfer of lands and resources is scheduled for April 1,
-> 2027. See [Nunavut](/provinces/nunavut).
+> **As of 2026:** Nunavut's transfer of lands and resources is scheduled for
+> {{nunavut.devolution.date}}. See [Nunavut](/provinces/nunavut).

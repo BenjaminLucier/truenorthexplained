@@ -5,7 +5,7 @@ title: "Could Canada drop the monarchy?"
 order: 3
 summary: "Becoming a republic is legally possible but needs Parliament and all ten provinces to agree, and nobody agrees on what would replace the Crown."
 status: draft
-about: [doc:constitution-act-1982/s41, event:succession-to-the-throne-act-2013]
+about: [doc:constitution-act-1982/s41, event:succession-to-the-throne-act-2013, event:succession-challenge-2020]
 ---
 
 ## In short

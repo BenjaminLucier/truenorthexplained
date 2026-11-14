@@ -97,7 +97,7 @@ each year, with amounts adjusted for inflation so the decades can be compared:
 **Territories don't get equalization.** They have their own program, TFF.
 
 > **As of 2026:** The equalization program is set by federal law in five-year periods.
-> The next renewal must happen before March 31, 2029.
+> The next renewal must happen before {{equalization.next-renewal}}.
 
 ### Territorial Formula Financing
 
