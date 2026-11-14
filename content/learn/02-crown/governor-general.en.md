@@ -22,8 +22,9 @@ emergencies, and spend much of their time on ceremonial and community work.
 
 **How they're chosen.** The King appoints the Governor General on the advice of the
 Prime Minister. An advisory group may help find candidates. There is no fixed term,
-but the usual length is about five years. By custom, the office has often alternated
-between anglophone and francophone holders. <!-- check: alternation custom and how consistently it has been followed; unresolved 2026-11-13: judgement call, not found in fetched official sources (gg.ca, Canadian Heritage, House of Commons Procedure and Practice) -->
+but the usual length is about five years. Wikipedia's article on the office describes a practice of
+alternating between anglophone and francophone holders, begun when Georges Vanier, a
+francophone, succeeded Vincent Massey.
 
 **Where the powers come from.** The office is mentioned in the Constitution Act, 1867
 (s. 10), but most of the detail is in the **Letters Patent** of 1947, issued by
@@ -61,13 +62,12 @@ about five years.
 Two things surprise people:
 
 1. **They're chosen by Ottawa, but they represent the King in the province.** The
-   provincial premier has no formal say in the appointment, although consultation is
-   common. <!-- check: practice of consulting premiers; unresolved 2026-11-13: not found: Canadian Heritage's Lieutenant Governors page says only that they are appointed on the Prime Minister's recommendation --> Once appointed, the Lieutenant
+   provincial premier has no formal say in the appointment. (Wikipedia's article on
+   lieutenant governors says there is no consistent practice of consulting the premier.) Once appointed, the Lieutenant
    Governor acts on the advice of the **provincial** government, not the federal one.
 2. **They don't report to the Governor General.** Since an 1892 decision of the [Judicial
    Committee of the Privy Council](org:judicial-committee-of-the-privy-council) (the *Maritime Bank* case), it has been settled that
    the Lieutenant Governor represents the Crown directly for provincial purposes.
-   <!-- check: Liquidators of the Maritime Bank v. Receiver-General of New Brunswick, [1892] A.C. 437; unresolved 2026-11-13: blocked to automated fetch (BAILII bot challenge, CanLII 403) -->
 
 Their duties mirror the Governor General's at the provincial level: swearing in the
 premier and cabinet, opening each session of the legislature, giving royal assent to
@@ -117,4 +117,6 @@ the Crown is the person who decides what happens next. See
 - [Royal Assent Act](https://laws-lois.justice.gc.ca/eng/acts/R-8.6/page-1.html), S.C. 2002, c. 15, ss. 2–5
 - [House of Commons Procedure and Practice, 4th ed., ch. 16: Royal Assent](https://www.ourcommons.ca/procedure-and-practice-4/ch16-5-e.html): ceremonies "frequently dispensed with"; written declarations
 - [House of Commons Procedure and Practice, 4th ed., ch. 1](https://www.ourcommons.ca/procedure-and-practice-4/ch01-3-e.html): deputies of the Governor General, usually Supreme Court justices or members of the Governor General's staff
+- *Liquidators of the Maritime Bank of Canada v. Receiver-General of New Brunswick*, [1892] A.C. 437 (J.C.P.C.), as described in Wikipedia's [Lieutenant governor (Canada)](https://en.wikipedia.org/wiki/Lieutenant_governor_(Canada)) article (as of November 2026): Lieutenant Governors represent the monarch directly. The article's text dates the ruling 1882; the law-report citation is 1892. It also says there is no consistent practice of consulting the premier on appointments.
+- [Governor General of Canada](https://en.wikipedia.org/wiki/Governor_General_of_Canada) (Wikipedia, as of November 2026): the practice of alternating between francophone and anglophone holders, begun with Vanier's appointment
 - [Yukon Act](https://laws-lois.justice.gc.ca/eng/acts/Y-2.01/page-1.html), s. 4, and [Nunavut Act](https://laws-lois.justice.gc.ca/eng/acts/N-28.6/page-1.html), s. 5: Commissioners appointed by the Governor in Council, with no fixed term

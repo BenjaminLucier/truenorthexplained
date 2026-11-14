@@ -44,7 +44,7 @@ answer:
 | Question | Court's answer |
 |---|---|
 | Was it *legal* for Ottawa to ask Britain to amend the Constitution without the provinces? | Yes. |
-| Did a *convention* require provincial consent? | Yes: a "substantial measure" of provincial consent, though not necessarily unanimity. |
+| Did a *convention* require provincial consent? | Yes: in the Court's words, "at least a substantial measure of provincial consent", though not necessarily unanimity. (Some summaries say "substantial degree".) |
 
 So unilateral patriation would have been legal but unconstitutional in the
 conventional sense. That pushed everyone back to the table.

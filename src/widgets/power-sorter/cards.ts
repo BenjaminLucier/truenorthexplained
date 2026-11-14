@@ -68,7 +68,7 @@ export const cards: Card[] = [
     id: "drivers-licences",
     label: "Driver's licences",
     answer: "provincial",
-    section: "s. 92(13) and (16)",
+    section: "s. 92",
     anchor: "s-92",
     why: "Highways and driving are local matters, so licensing drivers is provincial. Impaired driving is also a federal crime: a subject can have both a federal and a provincial side.",
     sets: ["federalism"],

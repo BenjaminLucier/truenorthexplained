@@ -111,8 +111,7 @@
     Only small parts of BC are covered by historic treaties, such as the Douglas
     Treaties on Vancouver Island and Treaty 8 in the northeast. Most of the province
     was never ceded by treaty.
-  # check: Treaty 8 in northeastern BC and "most of the province never ceded"; unresolved 2026-11-13: only the Douglas Treaties were confirmed by a fetched source
-  source: https://www.rcaanc-cirnac.gc.ca/eng/1360945974712/1544619909155
+  source: https://www.thecanadianencyclopedia.ca/en/article/comprehensive-land-claims-modern-treaties
 
 - id: british-columbia-dripa
   pages: [provinces/british-columbia, learn/indigenous]
@@ -141,8 +140,7 @@
     Despite its name, the Supreme Court of British Columbia is the superior trial
     court. The highest court in the province is the Court of Appeal for British
     Columbia.
-  # check: unresolved 2026-11-13: bccourts.ca failed its certificate check in automated fetch, so the court roles were not confirmed against it
-  source: https://www.bccourts.ca/
+  source: https://www.justice.gc.ca/eng/csj-sjc/just/07.html
 
 # --- Manitoba ---
 
@@ -367,8 +365,7 @@
     Ontario isn't officially bilingual. Its French Language Services Act gives a
     right to provincial services in French in designated areas. New Brunswick is the
     only officially bilingual province.
-  # check: unresolved 2026-11-13: the e-Laws page for the French Language Services Act renders no statute text to automated fetch, so "designated areas" was not confirmed
-  source: https://www.ontario.ca/laws/statute/90f32
+  source: https://en.wikipedia.org/wiki/Official_bilingualism_in_Canada
 
 - id: ontario-toronto-council
   pages: [provinces/ontario, learn/federalism/municipalities]

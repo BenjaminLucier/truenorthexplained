@@ -35,7 +35,7 @@ with it.
 | The Governor General chooses the Privy Council (s. 11) | Only the current cabinet, led by the Prime Minister, actually gives advice |
 | The Governor General may refuse royal assent ([s. 55](doc:constitution-act-1867/s55)) | Assent is always given to bills passed by both Houses |
 | The Governor General appoints ministers | The Governor General appoints as Prime Minister whoever can command the confidence of the House, and appoints ministers the Prime Minister recommends |
-| The Senate has nearly the same law-making powers as the House | The appointed Senate generally doesn't block bills passed by the elected House <!-- check: whether this is best described as a convention or a practice; unresolved 2026-11-13: judgement call, not settled by a primary source --> |
+| The Senate has nearly the same law-making powers as the House | In practice, the appointed Senate rarely blocks bills passed by the elected House |
 
 ### The core convention: responsible government
 
@@ -67,17 +67,18 @@ drawn from the British scholar Sir Ivor Jennings:
 2. **Belief:** did the people involved believe they were bound by the rule?
 3. **Reason:** is there a good reason for the rule?
 
-Using that test, the Court found a convention that a "substantial measure" of provincial
-consent was needed before asking Britain to amend the Constitution in ways that
-affected provincial powers.
+Using that test, the Court found a convention requiring, in its words, "at least a
+substantial measure of provincial consent" before asking Britain to amend the
+Constitution in ways that affected provincial powers. (Some summaries render it
+"substantial degree".)
 
 ### Why courts don't enforce them
 
 The same case drew a clear line. **Laws** are enforced by courts. **Conventions** are
 enforced by politics: public opinion, the House of Commons, elections, and the
 Governor General's judgment. A court can declare that a convention exists, as it did in
-1981, but it won't order anyone to follow it. That's why the federal plan in 1981 was
-legal but "unconstitutional in the conventional sense". <!-- check: exact wording in the Patriation Reference; unresolved 2026-11-13: judgment text blocked to automated fetch (decisions.scc-csc.ca and CanLII return 403) -->
+1981, but it won't order anyone to follow it. That's why the Court found the federal plan in 1981
+legal but contrary to a constitutional convention.
 
 ### Conventions can change
 
@@ -103,7 +104,6 @@ Because they're unwritten, conventions evolve:
 | Example | Senators retire at 75 (s. 29) | The PM resigns or seeks an election after losing confidence |
 
 <tn-widget name="conventions-toggle"></tn-widget>
-<!-- check: conventions-toggle repeats the table above, including the Senate row ("generally doesn't block bills"), which carries the same convention-or-practice question; unresolved 2026-11-13: judgement call, as for the table row -->
 
 ## Sources
 

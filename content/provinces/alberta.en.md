@@ -22,8 +22,9 @@ about: [term:alberta-act, term:citizen-initiative, term:metis-settlements]
 
 > **As of 2026:** The Legislative Assembly has {{legislature.seats.alberta}} seats. Alberta has passed a law to add
 > seats for the next general election, scheduled for October 2027. An independent
-> commission recommended 89 seats, and a 2026 government bill proposed 91.
-> <!-- check: final seat count for the 2027 election (Bill 32, 2026); unresolved 2026-11-13: Bill 32 (Electoral Boundaries Commission Amendment Act, 2026) proposes 91 and an advisory panel's 91-division report was tabled November 2, 2026, but no fetched source confirms royal assent or a final Electoral Divisions Act -->
+> commission recommended 89 seats. A bill introduced in April 2026 (Bill 32) would raise
+> the number to 91, and a panel's report in November 2026 recommended 91 divisions. As of
+> mid-November 2026, the final number for 2027 was not settled.
 
 ## In numbers
 
@@ -142,3 +143,5 @@ flexibility.
 - [Alberta Courts](https://albertacourts.ca/)
 - [Municipal Government Act](https://kings-printer.alberta.ca/1266.cfm?page=m26.cfm&leg_type=Acts&isbncln=9780779848874) (Alberta King's Printer)
 - [City charters](https://www.alberta.ca/city-charters) (Government of Alberta)
+- [Updating electoral boundaries](https://www.alberta.ca/system/files/news-updating-electoral-boundaries-20260423-langes.pdf) (Government of Alberta, April 23, 2026): Bill 32 and the 91-seat target; [Select Special Committee on Electoral Boundaries](https://www.assembly.ab.ca/assembly-business/committees/ceb) (Legislative Assembly of Alberta)
+- [Alberta electoral boundaries panel calls for 91 ridings](https://www.westernstandard.news/news/breaking-alberta-electoral-boundaries-panel-calls-for-91-ridings-sparking-constitutional-dispute/78409) (Western Standard, November 2, 2026)

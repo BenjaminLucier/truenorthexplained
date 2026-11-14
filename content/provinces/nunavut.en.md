@@ -127,10 +127,9 @@ for people to reach. See [the court structure](/learn/law/courts).
 
 ## Local government
 
-Nunavut has 25 communities, none connected to each other or to the south by road.
-Iqaluit is the only city; most other communities are **hamlets**, governed by an
-elected mayor and council.
-<!-- check: count and community types (city, hamlets, any towns or settlements); 2026-11-13: count of 25 confirmed (Nunavut Planning Commission); "only city", "hamlets" and "no road" unresolved: gov.nu.ca blocked to automated fetch (403) -->
+Nunavut has 25 communities, according to the Nunavut Planning Commission. Wikipedia's
+article on the territory notes that there are few or no roads or rail links to the
+region, so fuel and supplies come by plane or boat.
 
 See [Municipalities](/learn/federalism/municipalities).
 
@@ -150,3 +149,4 @@ See [Municipalities](/learn/federalism/municipalities).
 - [Nunavut communities](https://www.nunavut.ca/nunavut-communities) (Nunavut Planning Commission): 25 municipalities
 - [Land and freshwater area, by province and territory](https://www150.statcan.gc.ca/n1/pub/11-402-x/2012000/chap/geo/tbl/tbl06-eng.htm) (Statistics Canada): Nunavut is 21.0% of Canada's area
 - [The judicial structure](https://www.justice.gc.ca/eng/csj-sjc/just/07.html) (Department of Justice): the Nunavut Court of Justice as a single-level trial court
+- [Nunavut](https://en.wikipedia.org/wiki/Nunavut) (Wikipedia, as of November 2026): few or no roads or rail links to the region

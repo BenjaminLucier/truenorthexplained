@@ -38,15 +38,14 @@
   type: single
   question: In a criminal case called "R. v. Smith", what does the "R" stand for?
   options:
-    - Rex or Regina, the King or Queen, representing the state
+    - The Crown (the King or Queen), representing the state
     - The Royal Canadian Mounted Police
     - "Respondent"
     - The province where the case is heard
   answer: 0
   explanation: >
-    "R" is short for Rex (King) or Regina (Queen). Crimes are prosecuted in the
+    "R" stands for the Crown: the King or Queen. Crimes are prosecuted in the
     name of the Crown, meaning the state.
-  # check: "R" = Rex/Regina; unresolved 2026-11-13: not stated in a fetched official source (Justice Canada's page confirms only that the Crown prosecutes)
   source: https://www.justice.gc.ca/eng/csj-sjc/just/08.html
 
 - id: crown-divisible
