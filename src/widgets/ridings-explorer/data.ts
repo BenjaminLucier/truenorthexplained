@@ -49,7 +49,10 @@ export interface RidingResult {
   turnout: number;
   electors: number;
   validVotes: number;
-  /** The winner's share of valid votes. */
+  /**
+   * The winner's share of valid votes, unrounded (from the votes), so counts
+   * against 40% and 50% are exact: Elections Canada's "50.0" can be 49.96.
+   */
   winnerShare: number;
   candidates: CandidateRow[];
   /** Portrait of the 2025 winner. */
@@ -99,7 +102,7 @@ export const results: RidingResult[] = winners.map((w) => {
     turnout: w.turnout,
     electors: r.electors,
     validVotes: r.validVotes,
-    winnerShare: r.candidates[0]?.share ?? 0,
+    winnerShare: r.validVotes > 0 ? (100 * (r.candidates[0]?.votes ?? 0)) / r.validVotes : 0,
     candidates: r.candidates.map((c) => ({
       name: c.name,
       party: c.party,

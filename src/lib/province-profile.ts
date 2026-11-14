@@ -51,6 +51,21 @@ export function round3(n: number): number {
 export const about = (n: number) => num(round3(n));
 /** A percentage with one decimal, or two under 1%: 38.9%, 0.29%. */
 export const pct = (v: number) => `${v.toFixed(Math.abs(v) < 0.995 && v !== 0 ? 2 : 1)}%`;
+/**
+ * A share of the vote for a riding winner, from the raw votes: 31,095 of 62,240 → 49.96…
+ * Use this rather than Elections Canada's one-decimal share whenever the 50% line matters,
+ * since a published "50.0" can be just under or just over half.
+ */
+export const voteShare = (votes: number, validVotes: number) => (validVotes > 0 ? (100 * votes) / validVotes : 0);
+/**
+ * A winner's share with one decimal, or more when one decimal would print "50.0%" for a share
+ * that is not exactly half, so the figure never contradicts "less than" or "more than half": 49.96%, 50.05%, 50.0%.
+ */
+export function winnerPct(v: number): string {
+  let d = 1;
+  while (d < 6 && v !== 50 && Number(v.toFixed(d)) === 50) d++;
+  return `${v.toFixed(d)}%`;
+}
 /** "1 seat", "4 seats". */
 export const plural = (n: number, one: string, many = `${one}s`) => `${num(n)} ${n === 1 ? one : many}`;
 /** "$1,234". */
@@ -176,13 +191,18 @@ export function trendTakeaway(name: string, t: PopulationTrend): string {
   if (t.first.year === t.last.year) return `${who} population was ${people(t.last.value)} in ${t.last.year}.`;
   const change = t.last.value - t.first.value;
   const same = Math.abs(change) / t.first.value < 0.01 || people(t.first.value) === people(t.last.value);
-  const verb = same ? "held at about" : change > 0 ? "grew" : "fell";
-  let s =
-    verb === "held at about"
-      ? `${who} population held at about ${people(t.last.value)} from ${t.first.year} to ${t.last.year}`
-      : `${who} population ${verb} from ${people(t.first.value)} in ${t.first.year} to ${people(t.last.value)} in ${t.last.year}`;
   // A peak worth mentioning: between the first and latest years, and at least 2% above the latest.
-  if (t.peak.year > t.first.year && t.peak.year < t.last.year && t.peak.value >= t.last.value * 1.02) s += `, after peaking at ${people(t.peak.value)} in ${t.peak.year}`;
+  const peaked = t.peak.year > t.first.year && t.peak.year < t.last.year && t.peak.value >= t.last.value * 1.02;
+  let s: string;
+  if (same && peaked) {
+    // Back where it started, but not flat: say it rose and came back down.
+    s = `${who} population rose from ${people(t.first.value)} in ${t.first.year} to ${people(t.peak.value)} in ${t.peak.year}, then fell back to about ${people(t.last.value)} in ${t.last.year}`;
+  } else if (same) {
+    s = `${who} population held at about ${people(t.last.value)} from ${t.first.year} to ${t.last.year}`;
+  } else {
+    s = `${who} population ${change > 0 ? "grew" : "fell"} from ${people(t.first.value)} in ${t.first.year} to ${people(t.last.value)} in ${t.last.year}`;
+    if (peaked) s += `, after peaking at ${people(t.peak.value)} in ${t.peak.year}`;
+  }
   if (t.shareFirst !== null && t.shareLast !== null) {
     const a = pct(t.shareFirst);
     const b = pct(t.shareLast);
@@ -273,7 +293,7 @@ export interface RidingRow {
   /** Points of valid votes between first and second. */
   margin: number;
   marginVotes: number;
-  /** The winner's share of valid votes. */
+  /** The winner's share of valid votes, unrounded (see voteShare): 50% means exactly half. */
   winnerShare: number;
   /** The runner-up's party, if there was one. */
   second?: PartyKey;
@@ -292,10 +312,12 @@ export function ridingsTakeaway(rows: RidingRow[]): string {
     closest.length === 1
       ? `The closest race was ${closest[0]!.name}, ${by}`
       : `The closest races were ${joinList(closest.map((r) => r.name))}, each ${by}`;
+  // Decided on the unrounded share: exactly half is neither "more than" nor "less than" half.
   const minority = rows.filter((r) => r.winnerShare < 50).length;
+  const exactlyHalf = rows.some((r) => r.winnerShare === 50);
   const half =
     minority === 0
-      ? `every winner had more than half the votes`
+      ? `every winner had ${exactlyHalf ? "at least" : "more than"} half the votes`
       : minority === rows.length
         ? `no winner had more than half the votes`
         : `${numberWord(minority)} of the ${numberWord(rows.length)} winners had less than half the votes`;

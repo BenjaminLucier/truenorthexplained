@@ -48,6 +48,6 @@ const families = (Object.keys(PROVINCIAL) as ProvincialFamily[]).filter((f) => g
     ))
   }
   <caption>
-    Party families: {families.map((f) => `${PROVINCIAL[f].label}: ${PROVINCIAL[f].covers}`).join(". ")}. Data fetched {premiersMeta.fetched}.
+    Party families: {families.map((f) => `${PROVINCIAL[f].label}: ${PROVINCIAL[f].covers}`).join(". ")}. Data fetched {formatDate(premiersMeta.fetched)}.
   </caption>
 </table>
