@@ -111,7 +111,8 @@
     Only small parts of BC are covered by historic treaties, such as the Douglas
     Treaties on Vancouver Island and Treaty 8 in the northeast. Most of the province
     was never ceded by treaty.
-  source: https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044
+  # check: Treaty 8 in northeastern BC and "most of the province never ceded"; unresolved 2026-11-13: only the Douglas Treaties were confirmed by a fetched source
+  source: https://www.rcaanc-cirnac.gc.ca/eng/1360945974712/1544619909155
 
 - id: british-columbia-dripa
   pages: [provinces/british-columbia, learn/indigenous]
@@ -140,6 +141,7 @@
     Despite its name, the Supreme Court of British Columbia is the superior trial
     court. The highest court in the province is the Court of Appeal for British
     Columbia.
+  # check: unresolved 2026-11-13: bccourts.ca failed its certificate check in automated fetch, so the court roles were not confirmed against it
   source: https://www.bccourts.ca/
 
 # --- Manitoba ---
@@ -175,7 +177,7 @@
     Section 23 requires Manitoba's laws to be printed and published in both English
     and French. In 1985 the Supreme Court ruled that laws passed only in English
     were invalid and gave the province time to translate them.
-  source: https://laws-lois.justice.gc.ca/eng/const/
+  source: https://canada.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t22.html
 
 - id: manitoba-kings-bench
   pages: [provinces/manitoba, learn/law/courts]
@@ -256,7 +258,7 @@
   explanation: >
     In 1948, voters chose in two referendums. Confederation narrowly won the second
     one, and Newfoundland joined Canada on March 31, 1949.
-  source: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada.html
+  source: https://assembly.nl.ca/VisitLearn/History.aspx
 
 - id: newfoundland-and-labrador-commission
   pages: [provinces/newfoundland-and-labrador]
@@ -268,7 +270,7 @@
     Facing bankruptcy during the Great Depression, Newfoundland's legislature was
     suspended in 1934 and replaced by a Commission of Government appointed by
     Britain, which lasted until 1949.
-  source: https://www.gov.nl.ca/
+  source: https://assembly.nl.ca/VisitLearn/History.aspx
 
 - id: newfoundland-and-labrador-mha
   pages: [provinces/newfoundland-and-labrador]
@@ -302,7 +304,7 @@
   explanation: >
     In February 1848, Nova Scotia became the first British colony to have a
     government that needed the support of the elected assembly to stay in office.
-  source: https://nslegislature.ca/about
+  source: https://nslegislature.ca/about/history/responsible_government
 
 - id: nova-scotia-responsible-meaning
   pages: [provinces/nova-scotia, learn/parliament/confidence]
@@ -319,7 +321,7 @@
     Responsible government means the executive answers to the elected assembly and
     needs its confidence to stay in office. It's still the basic rule of Canadian
     government.
-  source: https://www.ourcommons.ca/procedure/our-procedure/
+  source: https://nslegislature.ca/about/history/responsible_government
 
 - id: nova-scotia-supreme-court
   pages: [provinces/nova-scotia, learn/law/courts]
@@ -335,7 +337,7 @@
   explanation: >
     The Nova Scotia Court of Appeal is the highest court in the province. The
     Supreme Court of Nova Scotia is the superior trial court.
-  source: https://www.courts.ns.ca/
+  source: https://www.courts.ns.ca/courts/court-appeal
 
 # --- Ontario ---
 
@@ -365,6 +367,7 @@
     Ontario isn't officially bilingual. Its French Language Services Act gives a
     right to provincial services in French in designated areas. New Brunswick is the
     only officially bilingual province.
+  # check: unresolved 2026-11-13: the e-Laws page for the French Language Services Act renders no statute text to automated fetch, so "designated areas" was not confirmed
   source: https://www.ontario.ca/laws/statute/90f32
 
 - id: ontario-toronto-council
@@ -382,7 +385,7 @@
     Municipalities are created by provinces and have no constitutional status of
     their own. The Supreme Court held that Ontario was allowed to change Toronto's
     council.
-  source: https://www.ontario.ca/laws/statute/06c11
+  source: https://www.scc-csc.ca/judgments-jugements/cb/2021/38921/
 
 # --- Prince Edward Island, Quebec, Saskatchewan and the territories ---
 
@@ -428,7 +431,7 @@
   explanation: >
     The "senatorial clause" (s. 51A of the Constitution Act, 1867) guarantees each
     province at least as many MPs as senators. PEI has four senators.
-  source: https://laws-lois.justice.gc.ca/eng/const/
+  source: https://laws-lois.justice.gc.ca/eng/const/page-2.html
 
 
 - id: quebec-civil-law
@@ -583,7 +586,7 @@
   explanation: >
     The 1993 Nunavut Agreement included a commitment to create a new territory.
     Parliament passed the Nunavut Act, and Nunavut came into being on April 1, 1999.
-  source: https://www.tunngavik.com/
+  source: https://www.tunngavik.com/about/history-mandate
 
 - id: nunavut-court-of-justice
   pages: [provinces/nunavut, learn/law/courts]

@@ -77,14 +77,12 @@ Saskatchewan is where Canada's public health insurance began.
 Health care is a **provincial** responsibility, but Ottawa shapes it through money.
 See [Federalism](/learn/federalism) and
 [Money and equalization](/learn/federalism/money-and-equalization).
-<!-- check: 1966 Medical Care Act and "by the early 1970s every province" (1972 for the last) -->
 
 ### An early bill of rights
 
 In 1947 Saskatchewan passed the **Saskatchewan Bill of Rights**, one of the first
 general human rights laws in Canada, decades before the federal Charter. Today its
-role is filled by the Saskatchewan Human Rights Code. See [Rights: the Charter](doc:charter).
-<!-- check: Saskatchewan Human Rights Code replaced the 1947 Bill of Rights (1979) -->
+role is filled by The Saskatchewan Human Rights Code, 2018, which still includes a Bill of Rights part. See [Rights: the Charter](doc:charter).
 
 ### Crown corporations
 
@@ -100,7 +98,6 @@ All of Saskatchewan is covered by the **[Numbered Treaties](term:numbered-treati
 and First Nations in the 1870s and later, mainly Treaties 4, 6, 8 and 10, with
 smaller parts under Treaties 2 and 5. These treaties are not history only: they are
 protected by [section 35](doc:constitution-act-1982/s35) of the Constitution. See [Treaties](/learn/indigenous/treaties).
-<!-- check: list of Numbered Treaties covering Saskatchewan -->
 
 ## Courts
 
@@ -135,3 +132,7 @@ See [Municipalities](/learn/federalism/municipalities).
 - [The Saskatchewan Doctors' Strike of 1962 National Historic Event](https://www.parks.canada.ca/culture/designation/evenement-event/greve-medecins-doctors-strike) (Parks Canada)
 - [The Constitution Acts, 1867 to 1982](https://laws-lois.justice.gc.ca/eng/const/): the Schedule to the Constitution Act, 1982 lists the Saskatchewan Act (1905) and the Constitution Act, 1930 (natural resources transfer) as part of the Constitution
 - [The judicial structure](https://www.justice.gc.ca/eng/csj-sjc/just/07.html) (Department of Justice)
+- [Canada Health Act Annual Report 2022–2023](https://www.canada.ca/en/health-canada/services/publications/health-system-services/canada-health-act-annual-report-2022-2023.html) (Health Canada): Saskatchewan hospital insurance (1947) and physician insurance (1962); Medical Care Act (1966); all plans covered physician services by 1972
+- [The Saskatchewan Human Rights Code, 2018](https://publications.saskatchewan.ca/api/v1/products/91969/formats/108911/download) (Publications Saskatchewan): Part 1, Bill of Rights; s. 59 repeals the 1979 Code
+- [The Treaties in Saskatchewan](https://otc.ca/treaties/) (Office of the Treaty Commissioner): Treaties 2, 4, 5, 6, 8 and 10
+- [New constituency maps for 2024 general election](https://elections.sk.ca/media/news-releases/new-constituency-maps-for-2024-general-election-now-online) (Elections Saskatchewan): 59 southern constituencies plus Athabasca and Cumberland
