@@ -48,7 +48,7 @@ and carry out other formal duties on the advice of the elected government. See
 
 ### The biggest province
 
-Ontario has more people than any other province, nearly 4 in 10 Canadians. <!-- check: share of population against latest Statistics Canada estimate -->
+Ontario has more people than any other province, nearly 4 in 10 Canadians.
 That gives it the most seats in the federal [House of Commons](org:house-of-commons), because seats are
 divided among the provinces mainly by population. It's also home to **Ottawa**, the
 national capital, as well as Toronto, Canada's largest city.
@@ -68,7 +68,6 @@ officially bilingual. Instead, the **French Language Services Act** (1986) gives
 people the right to receive provincial government services in French at head offices
 and in **designated areas**, which are places with significant francophone populations.
 Complaints about French-language services are handled by Ontario's Ombudsman.
-<!-- check: French Language Services Commissioner functions still within the Ombudsman's office -->
 
 Compare this with [New Brunswick](/provinces/new-brunswick), which is officially
 bilingual under the Constitution.
@@ -107,14 +106,17 @@ Ontario municipalities come in three types:
 
 > **As of 2026:** Since 2022, Ontario has given **["strong mayor" powers](term:strong-mayor-powers)** to the mayors
 > of a growing number of municipalities. These let a mayor, for example, propose the
-> budget and hire senior staff. <!-- check: current list of municipalities and scope of powers -->
+> budget and hire senior staff.
 
 ## Sources
 
 - [Legislative Assembly of Ontario](https://www.ola.org/en)
-- [Lieutenant Governor of Ontario](https://www.lgontario.ca/en/) <!-- unverified link: timed out in automated check -->
+- [Lieutenant Governor of Ontario](https://lgontario.ca/en/)
 - [Government of Ontario](https://www.ontario.ca/)
+- [Population estimates, quarterly, Table 17-10-0009-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901) (Statistics Canada): Ontario 16,262,121 of 41,798,407 on July 1, 2026 (38.9%)
 - [French Language Services Act](https://www.ontario.ca/laws/statute/90f32) (Ontario e-Laws)
+- [Ontario ombudsman warns French Language Services Act exemptions threaten French service rights](https://www.lawtimesnews.com/news/general/ontario-ombudsman-warns-french-language-services-act-exemptions-threaten-french-service-rights/393110) (Law Times, December 8, 2025): the French Language Services Commissioner works within the Ombudsman's office
+- [Strong mayor powers and duties are widely expanded in Ontario](https://www.blg.com/en/insights/2025/05/strong-mayor-powers-and-duties-are-widely-expanded-in-ontario) (Borden Ladner Gervais, May 2025) and [Ontario to build on 'strong mayor' system](https://nationalnewswatch.com/2026/04/02/ontario-to-build-on-strong-mayor-system-by-appointing-strong-regional-chairs) (The Canadian Press, April 2, 2026): 216 municipalities
 - [Ontario Courts](https://www.ontariocourts.ca/): [Court of Appeal](https://www.ontariocourts.ca/coa/), [Superior Court of Justice](https://www.ontariocourts.ca/scj/), [Ontario Court of Justice](https://www.ontariocourts.ca/ocj/)
 - [Municipal Act, 2001](https://www.ontario.ca/laws/statute/01m25) and [City of Toronto Act, 2006](https://www.ontario.ca/laws/statute/06c11) (Ontario e-Laws)
 - [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): s. 6 (Ontario and Quebec formed from the Province of Canada)

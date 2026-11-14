@@ -67,14 +67,12 @@ Scotia's legislature is also called the House of Assembly, but its members are M
 | [Manitoba](/provinces/manitoba) | Province | Winnipeg | 1870 | Legislative Assembly of Manitoba | {{legislature.seats.manitoba}} | Lieutenant Governor | Laws must be enacted in English and French (Manitoba Act, s. 23) |
 | [British Columbia](/provinces/british-columbia) | Province | Victoria | 1871 | Legislative Assembly of British Columbia | {{legislature.seats.british-columbia}} | Lieutenant Governor | English |
 | [Prince Edward Island](/provinces/prince-edward-island) | Province | Charlottetown | 1873 | Legislative Assembly of Prince Edward Island | {{legislature.seats.prince-edward-island}} | Lieutenant Governor | English |
-| [Alberta](/provinces/alberta) | Province | Edmonton | 1905 | Legislative Assembly of Alberta | {{legislature.seats.alberta}} <!-- check: rises to 89 or 91 at the 2027 election depending on Bill 32 (2026) --> | Lieutenant Governor | English |
+| [Alberta](/provinces/alberta) | Province | Edmonton | 1905 | Legislative Assembly of Alberta | {{legislature.seats.alberta}} <!-- check: rises to 89 or 91 at the 2027 election depending on Bill 32 (2026); 2026-11-13: 87 confirmed as the current count (assembly.ab.ca); Bill 32 (introduced April 23, 2026) changes the commission's target to 91 and a panel report (reported November 2, 2026) recommends 91, but the map for 2027 is not final; update this row when it is --> | Lieutenant Governor | English |
 | [Saskatchewan](/provinces/saskatchewan) | Province | Regina | 1905 | Legislative Assembly of Saskatchewan | {{legislature.seats.saskatchewan}} | Lieutenant Governor | English |
 | [Newfoundland and Labrador](/provinces/newfoundland-and-labrador) | Province | St. John's | 1949 | House of Assembly | {{legislature.seats.newfoundland-and-labrador}} | Lieutenant Governor | English |
 | [Northwest Territories](/provinces/northwest-territories) | Territory | Yellowknife | 1870 | Legislative Assembly of the Northwest Territories | {{legislature.seats.northwest-territories}} | Commissioner | 11 official languages, including nine Indigenous languages |
 | [Yukon](/provinces/yukon) | Territory | Whitehorse | 1898 (as a separate territory) | Yukon Legislative Assembly | {{legislature.seats.yukon}} | Commissioner | English and French |
 | [Nunavut](/provinces/nunavut) | Territory | Iqaluit | 1999 (split from the Northwest Territories) | Legislative Assembly of Nunavut | {{legislature.seats.nunavut}} | Commissioner | Inuit language (Inuktitut and Inuinnaqtun), English and French |
-
-<!-- check: NWT, Nunavut, PEI, Quebec and Saskatchewan seat counts were not re-verified against the legislatures' own sites in this pass; confirm against the territory/province pages written in parallel -->
 
 A few things the table shows:
 
@@ -100,4 +98,4 @@ A few things the table shows:
 - Premiers: [Wikidata](https://www.wikidata.org/) (CC0) and Wikipedia's lists of premiers of each province and territory (CC BY-SA 4.0), combined by a script. See [Credits](/credits).
 - [Discover Canada](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada.html), the official citizenship study guide
 - Provincial legislatures: [Alberta](https://www.assembly.ab.ca/), [British Columbia](https://www.leg.bc.ca/), [Manitoba](https://www.gov.mb.ca/legislature/), [New Brunswick](https://www.legnb.ca/en), [Newfoundland and Labrador](https://www.assembly.nl.ca/), [Nova Scotia](https://nslegislature.ca/), [Ontario](https://www.ola.org/en), [Prince Edward Island](https://www.assembly.pe.ca/), [Quebec](https://www.assnat.qc.ca/en/), [Saskatchewan](https://www.legassembly.sk.ca/)
-- Territorial legislatures: [Northwest Territories](https://www.ntlegislativeassembly.ca/), [Nunavut](https://www.assembly.nu.ca/), [Yukon](https://yukonassembly.ca/) <!-- unverified link: returned 403 to automated check -->
+- Territorial legislatures: [Northwest Territories](https://www.ntlegislativeassembly.ca/), [Nunavut](https://www.assembly.nu.ca/), [Yukon](https://yukonassembly.ca/) <!-- unverified link: returned 403 to automated check; 2026-11-13: Northwest Territories and Nunavut links load; yukonassembly.ca still blocked (403) -->

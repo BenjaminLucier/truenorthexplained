@@ -86,7 +86,7 @@ law-making powers over some matters on its lands. See
 
 The Terms of Union originally protected a school system run by churches (Term 17). In
 1997, voters in a provincial referendum supported replacing it with a single public
-system, and the Constitution was amended to make that change. <!-- check: 1997 referendum and the 1998 amendment to Term 17; an earlier 1995 referendum also modified it --> It's an example of a
+system, and the Constitution was amended to make that change. It's an example of a
 constitutional amendment that needed only Parliament and one province to agree. See
 [Why changing it is so hard](/learn/constitution/amending-formula).
 
@@ -106,7 +106,7 @@ Above them is the [Supreme Court of Canada](/learn/law/supreme-court). See
 Most towns in the province are governed by the **Towns and Local Service Districts
 Act**, which took effect on January 1, 2025, replacing the Municipalities Act, 1999.
 Three cities have their own laws: the **City of St. John's Act**, the **City of Mount
-Pearl Act** and the **City of Corner Brook Act**. <!-- check: names of the three city Acts -->
+Pearl Act** and the **City of Corner Brook Act**.
 
 Much of the province is **[unincorporated](term:unincorporated)**, meaning it isn't part of any municipality.
 Some of these communities have **[local service districts](term:local-service-district)**: elected committees that
@@ -120,5 +120,7 @@ provide basic services such as fire protection or water. See
 - [Government of Newfoundland and Labrador](https://www.gov.nl.ca/)
 - [Constitution Acts, 1867 to 1982: table of contents](https://laws-lois.justice.gc.ca/eng/const/) (the Newfoundland Act and Terms of Union are part of the Constitution of Canada)
 - [Courts of Newfoundland and Labrador](https://court.nl.ca/)
+- [Commons Committee on Term 17: brief](https://www.releases.gov.nl.ca/releases/1997/edu/Term17.htm) (Government of Newfoundland and Labrador, November 18, 1997): the September 2, 1997 referendum (72.7% Yes) and the House of Assembly's resolution to amend Term 17
+- [Statutes of Newfoundland and Labrador: title index](https://www.assembly.nl.ca/legislation/sr/titleindex.htm) (House of Assembly): the three City Acts and the Towns and Local Service Districts Act
 - [Proclamation of Towns and Local Service Districts Act](https://www.gov.nl.ca/releases/2025/mpa/0103n01/) (Government of NL news release, 2025)
 - [Discover Canada](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada.html), the official citizenship study guide
