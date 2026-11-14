@@ -48,6 +48,7 @@
     - n: 55
       title: Royal assent
       page: /learn/crown/reserve-powers
+      url: https://laws-lois.justice.gc.ca/eng/const/page-2.html
     - n: 58
       title: A Lieutenant Governor for each province
       page: /learn/crown/governor-general#lieutenant-governors
@@ -109,6 +110,7 @@
       url: https://laws-lois.justice.gc.ca/eng/const/page-3.html
     - n: 133
       title: English and French in Parliament, Quebec's legislature and their courts
+      url: https://laws-lois.justice.gc.ca/eng/const/page-4.html
 
 - id: constitution-act-1982
   name: Constitution Act, 1982
@@ -250,6 +252,7 @@
   year: 1876
   summary: A federal law first passed in 1876 under s. 91(24) that defines status and governs reserves.
   page: /learn/indigenous/indian-act
+  url: https://laws-lois.justice.gc.ca/eng/acts/I-5/
 
 - id: supreme-court-act
   name: Supreme Court Act
@@ -296,6 +299,7 @@
   year: 2021
   summary: The 2021 federal law requiring the government to make federal laws consistent with UNDRIP, prepare an action plan and report every year.
   page: /learn/indigenous/self-government#undrip-and-the-2021-act
+  url: https://laws-lois.justice.gc.ca/eng/acts/U-2.2/
   entities: [term:undrip]
 
 - id: manitoba-act-1870

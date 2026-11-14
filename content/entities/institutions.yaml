@@ -98,6 +98,7 @@
   url: https://www.canada.ca/en/auditor-general/
 
 - id: parliamentary-budget-officer
+  # check: "officer of Parliament"; unresolved 2026-11-13: pbo-dpb.ca says "agent of Parliament" and the Parliament of Canada Act (s. 79.01) says "independent and non-partisan"; label not found in a fetched source
   name: Parliamentary Budget Officer
   short: PBO
   summary: The officer of Parliament who gives MPs and senators independent analysis of the economy and the government's finances.
@@ -165,7 +166,8 @@
 - id: rcmp
   name: Royal Canadian Mounted Police
   short: RCMP
-  summary: The federal police force, which most provinces other than Ontario and Quebec, and all three territories, pay to act as their provincial police.
+  summary: The federal police force, which every province except Ontario and Quebec, and all three territories, pay to act as their provincial or territorial police.
+  url: https://rcmp.ca/en/contract-policing/about
   page: /learn/law/criminal-law#who-does-what-step-by-step
   entities: [term:rcmp]
 

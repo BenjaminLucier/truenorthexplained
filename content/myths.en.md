@@ -197,9 +197,8 @@ Governments are legally bound by them, and courts enforce them.
 
 ### "Indigenous people don't pay taxes."
 **Actually:** Most do. The Indian Act exempts only certain property of *status* First
-Nations people located *on a reserve*, such as income earned there. Métis and Inuit
+Nations people located *on a reserve*, such as income connected to a reserve. Métis and Inuit
 have no such exemption under the Indian Act.
-<!-- check: confirm framing of s. 87 exemption scope against CRA guidance -->
 [Read more](/learn/indigenous/indian-act)
 
 ### "The duty to consult gives Indigenous nations a veto over any project."

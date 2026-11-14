@@ -167,7 +167,11 @@ events:
     text: Canada acquires Rupert's Land and the North-Western Territory, which become the North-West Territories.
     era: building-the-country
     module: federalism
-    pages: [/learn/federalism/territories, /provinces/northwest-territories, /provinces/manitoba]
+    pages:
+      - /learn/federalism/territories
+      - /provinces/northwest-territories
+      - /provinces/manitoba
+      - /provinces/saskatchewan
     entities: [term:territory]
 
   - id: manitoba-act-1870
@@ -286,14 +290,16 @@ events:
 
   - id: king-byng-affair
     title: The King–Byng affair
-    date: 1926
-    # check: exact dates (King's request ~June 26–28; Meighen defeated and Parliament dissolved July 2, 1926), as flagged on /learn/crown/reserve-powers
-    text: In the King–Byng affair, the Governor General refuses the Prime Minister's request for an election, the last time this happened federally.
+    date: 1926-06-28
+    # check: "the last time this happened federally" (no federal refusal of dissolution since 1926); unresolved 2026-11-13: not found in a fetched source
+    text: In the King–Byng affair, the Governor General refuses the Prime Minister's request for an election on June 28, the last time this happened federally.
     era: becoming-fully-independent
     module: crown
     pages:
       - /learn/crown/reserve-powers
+      - { page: /learn/parliament/confidence, label: Confidence }
       - { page: /learn/constitution/conventions, label: Conventions }
+      - { page: /prime-ministers, label: Prime ministers }
     people: [person:william-lyon-mackenzie-king, person:julian-byng, person:arthur-meighen]
     entities: [org:governor-general, term:reserve-powers]
     page: /learn/crown/reserve-powers#1926-the-kingbyng-affair
@@ -315,7 +321,9 @@ events:
     text: In the Persons Case, the Privy Council rules women are "persons" who can sit in the Senate and calls the Constitution "a living tree".
     era: becoming-fully-independent
     module: constitution
-    pages: [/learn/constitution/constitution-act-1867]
+    pages:
+      - /learn/constitution/constitution-act-1867
+      - { page: /learn/law/supreme-court, label: Supreme Court }
     entities: [term:persons-case, term:living-tree, org:senate, term:judicial-committee-of-the-privy-council, case:persons-case]
 
   - id: natural-resources-transfer-1930
@@ -461,7 +469,7 @@ events:
   - id: senate-retirement-age-1965
     title: Senators retire at 75
     date: 1965
-    text: Senators must now retire at 75 instead of serving for life.
+    text: Senators must now retire at 75 instead of serving for life (senators already sitting are not affected).
     era: becoming-fully-independent
     module: parliament
     pages:
@@ -503,7 +511,11 @@ events:
     text: The *Calder* decision recognizes that Aboriginal title exists in Canadian law, prompting modern treaty talks.
     era: becoming-fully-independent
     module: indigenous
-    pages: [/learn/indigenous/section-35, /learn/indigenous/treaties]
+    pages:
+      - /learn/indigenous/section-35
+      - /learn/indigenous/treaties
+      - /provinces/british-columbia
+      - { page: /learn/indigenous, label: Indigenous peoples }
     entities: [term:calder, term:aboriginal-title, case:calder]
 
   - id: james-bay-agreement-1975
@@ -548,7 +560,10 @@ events:
     text: In the Patriation Reference (September), the Supreme Court says unilateral patriation would be legal but break a constitutional convention.
     era: becoming-fully-independent
     module: constitution
-    pages: [/learn/constitution/patriation-1982]
+    pages:
+      - /learn/constitution/patriation-1982
+      - { page: /learn/constitution/conventions, label: Conventions }
+      - { page: /learn/law/supreme-court, label: Supreme Court }
     entities: [term:patriation-reference, term:constitutional-convention, org:supreme-court, case:patriation-reference]
 
   - id: patriation-deal-1981
@@ -569,7 +584,10 @@ events:
     text: On April 17, the Constitution Act, 1982 comes into force, adding the Charter, an amending formula and section 35, and ending Britain's last formal role.
     era: charter-era
     module: constitution
-    pages: [/learn/constitution/patriation-1982, /learn/constitution]
+    pages:
+      - /learn/constitution/patriation-1982
+      - /learn/constitution
+      - /provinces/quebec
     people: [person:pierre-trudeau, person:elizabeth-ii]
     entities: [doc:constitution-act-1982, doc:charter, term:patriation]
 
@@ -596,7 +614,7 @@ events:
   - id: section-35-amendment-1983
     title: Section 35 is amended
     date: 1983
-    text: Section 35 is amended to protect land claims agreements and guarantee Aboriginal rights equally to men and women.
+    text: Section 35 is amended to protect land claims agreements and guarantee Aboriginal rights equally to men and women (agreed in 1983, proclaimed in 1984).
     era: charter-era
     module: indigenous
     pages:
@@ -639,6 +657,7 @@ events:
     pages:
       - /learn/charter/reasonable-limits
       - { page: /learn/charter/landmark-cases, label: Landmark cases }
+      - { page: /learn/charter, label: Charter }
     entities: [case:r-v-oakes]
 
   - id: meech-lake-accord
@@ -647,7 +666,9 @@ events:
     text: The federal government and all ten premiers agree to the Meech Lake Accord.
     era: charter-era
     module: constitution
-    pages: [/learn/constitution/patriation-1982]
+    pages:
+      - /learn/constitution/patriation-1982
+      - /provinces/quebec
     people: [person:brian-mulroney]
     entities: [term:meech-lake-accord]
 
@@ -686,7 +707,9 @@ events:
     text: "*Sparrow*, the first major section 35 case, says Aboriginal rights can be limited only with justification."
     era: charter-era
     module: indigenous
-    pages: [/learn/indigenous/section-35]
+    pages:
+      - /learn/indigenous/section-35
+      - { page: /learn/indigenous, label: Indigenous peoples }
     entities: [term:sparrow, doc:constitution-act-1982/s35, case:sparrow]
 
   - id: charlottetown-accord-1992
@@ -695,7 +718,10 @@ events:
     text: Voters reject the Charlottetown Accord in a national referendum on October 26.
     era: charter-era
     module: constitution
-    pages: [/learn/constitution/patriation-1982, /learn/indigenous/self-government]
+    pages:
+      - /learn/constitution/patriation-1982
+      - /learn/indigenous/self-government
+      - /provinces/quebec
     entities: [term:charlottetown-accord, term:referendum]
 
   - id: nunavut-agreement-1993
@@ -704,7 +730,10 @@ events:
     text: The Nunavut Land Claims Agreement is signed, and Parliament passes the Nunavut Act.
     era: charter-era
     module: indigenous
-    pages: [/provinces/nunavut, /learn/indigenous/treaties]
+    pages:
+      - /provinces/nunavut
+      - /learn/indigenous/treaties
+      - { page: /learn/federalism/territories, label: Territories }
     entities: [term:nunavut-agreement, term:land-claims-agreement]
 
   - id: new-brunswick-amendment-1993
@@ -753,7 +782,9 @@ events:
     text: Parliament passes the "regional veto" law on constitutional amendments.
     era: charter-era
     module: constitution
-    pages: [/learn/constitution/amending-formula]
+    pages:
+      - /learn/constitution/amending-formula
+      - { page: /learn/constitution/patriation-1982, label: Patriation }
     entities: [term:regional-veto]
 
   - id: delgamuukw
@@ -762,7 +793,10 @@ events:
     text: "*Delgamuukw* explains what Aboriginal title is and accepts oral histories as evidence."
     era: charter-era
     module: indigenous
-    pages: [/learn/indigenous/section-35]
+    pages:
+      - /learn/indigenous/section-35
+      - /provinces/british-columbia
+      - { page: /learn/indigenous, label: Indigenous peoples }
     entities: [term:delgamuukw, term:aboriginal-title, case:delgamuukw]
 
   - id: secession-reference
@@ -792,6 +826,7 @@ events:
     pages:
       - /provinces/nunavut
       - { page: /learn/federalism/territories, label: Territories }
+      - /provinces/northwest-territories
     entities: [term:territory]
 
   - id: r-v-marshall
@@ -853,7 +888,9 @@ events:
     text: "*Haida Nation* establishes the Crown's duty to consult."
     era: recent
     module: indigenous
-    pages: [/learn/indigenous/section-35]
+    pages:
+      - /learn/indigenous/section-35
+      - { page: /learn/indigenous, label: Indigenous peoples }
     entities: [term:haida-nation, term:duty-to-consult, case:haida-nation]
 
   - id: same-sex-marriage-reference
@@ -933,6 +970,7 @@ events:
     pages:
       - /learn/parliament/senate
       - { page: /learn/constitution/amending-formula, label: Amending formula }
+      - { page: /learn/law/supreme-court, label: Supreme Court }
     entities: [term:reference-re-senate-reform, org:senate, term:amending-formula, case:senate-reform-reference]
 
   - id: tsilhqotin
@@ -941,7 +979,10 @@ events:
     text: "*Tsilhqot'in* becomes the first court declaration of Aboriginal title to a specific area."
     era: recent
     module: indigenous
-    pages: [/learn/indigenous/section-35, /provinces/british-columbia]
+    pages:
+      - /learn/indigenous/section-35
+      - /provinces/british-columbia
+      - { page: /learn/indigenous, label: Indigenous peoples }
     entities: [term:tsilhqotin, term:aboriginal-title, case:tsilhqotin]
 
   - id: northwest-territories-devolution-2014
@@ -978,7 +1019,9 @@ events:
     text: "*Daniels* rules that Métis and non-status Indians fall under federal power in s. 91(24)."
     era: recent
     module: indigenous
-    pages: [/learn/indigenous/section-35]
+    pages:
+      - /learn/indigenous/section-35
+      - { page: /learn/indigenous, label: Indigenous peoples }
     entities: [term:daniels, doc:constitution-act-1867/s91-24, case:daniels]
 
   - id: r-v-jordan
@@ -1040,7 +1083,9 @@ events:
     text: Quebec uses the notwithstanding clause in its state secularism law.
     era: recent
     module: charter
-    pages: [/learn/charter/notwithstanding-clause]
+    pages:
+      - /learn/charter/notwithstanding-clause
+      - /provinces/quebec
     entities: [term:bill-21, doc:charter/s33]
 
   - id: undrip-act-2021
@@ -1078,7 +1123,9 @@ events:
     text: Alberta holds a non-binding referendum in which most voters back removing equalization from the Constitution.
     era: recent
     module: federalism
-    pages: [/learn/federalism/money-and-equalization]
+    pages:
+      - /learn/federalism/money-and-equalization
+      - /provinces/alberta
     entities: [term:equalization, term:referendum]
 
   - id: charles-iii-accession
@@ -1123,5 +1170,7 @@ events:
     text: Alberta uses the notwithstanding clause in a law ending a teachers' strike.
     era: recent
     module: charter
-    pages: [/learn/charter/notwithstanding-clause]
+    pages:
+      - /learn/charter/notwithstanding-clause
+      - /provinces/alberta
     entities: [doc:charter/s33, term:notwithstanding-clause]
