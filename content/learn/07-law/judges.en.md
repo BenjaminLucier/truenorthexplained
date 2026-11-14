@@ -82,7 +82,6 @@ that people can trust a decision was made fairly.
 
 In practice, removal is extremely rare. Judges facing a removal recommendation have
 generally resigned or retired before Parliament voted.
-<!-- check: "no federally appointed judge has ever been removed by joint address" is commonly stated; confirm with an official source before adding it; unresolved 2026-11-13: not found in an official source (Justice Canada judicial-discipline consultation page describes Landreville resigning but does not say no judge was ever removed) -->
 
 Provincial court judges are disciplined and removed under each province's own laws,
 usually through a provincial judicial council.

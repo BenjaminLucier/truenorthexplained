@@ -4,7 +4,7 @@ title: "Yukon"
 type: territory
 capital: "Whitehorse"
 joined: 1898
-summary: "A territory created by the Klondike Gold Rush, run with party politics, and home to 11 self-governing First Nations."
+summary: "A territory created by the Klondike Gold Rush, run with party politics, and home to self-governing First Nations."
 status: draft
 about: [event:yukon-territory-1898, event:yukon-devolution-2003, term:umbrella-final-agreement]
 ---
@@ -20,9 +20,8 @@ about: [event:yukon-territory-1898, event:yukon-devolution-2003, term:umbrella-f
 | The federal representative | Commissioner |
 | Head of government | Premier |
 
-> **As of 2026:** The Legislative Assembly has {{legislature.seats.yukon}} seats. It grew from 19 to 21 for
-> the November 2025 general election.
-> <!-- check: 19 to 21 seats and the November 2025 election date; unresolved 2026-11-13: Elections Yukon, yukon.ca and CBC blocked to automated fetch (403) -->
+> **As of 2026:** The Legislative Assembly has {{legislature.seats.yukon}} seats, one for each of the electoral
+> districts Elections Yukon set for the 2025 general election.
 
 ## In numbers
 
@@ -67,12 +66,11 @@ the capital moved to Whitehorse in 1953.
 ### From appointed officials to self-government
 
 For decades, the federally appointed Commissioner ran Yukon's government, with an
-elected council in an advisory role. Over the 1970s that changed. A 1979 letter of
-instruction from the federal minister told the Commissioner to follow the advice of
-the elected executive, much as a Lieutenant Governor does. That set up **responsible
-government** in Yukon. The current Yukon Act, which came into force in 2003, wrote
+elected council in an advisory role. Over the 1970s that changed. In 1979, according to
+Wikipedia's article on Yukon, a letter from the federal minister, Jake Epp, rather than
+a new law, moved power from the Commissioner to the elected legislature. That set up
+**responsible government** in Yukon. The current Yukon Act, which came into force in 2003, wrote
 the arrangement into law.
-<!-- check: 1979 letter of instruction (the "Epp letter") and how it is described; unresolved 2026-11-13: Commissioner of Yukon and yukon.ca sites blocked to automated fetch (403); no other primary source found -->
 
 ### Devolution: the first territory to manage its own land
 
@@ -86,11 +84,11 @@ Territories [followed in 2014](event:northwest-territories-devolution-2014), and
 Yukon is a national leader in [modern treaties](term:modern-treaty). In 1993, Canada, Yukon and the Council
 for Yukon Indian People (now the Council of Yukon First Nations) signed the
 **Umbrella Final Agreement**, a framework for individual land claim agreements.
-Since then, **11 of Yukon's 14 First Nations** have signed final and
-self-government agreements. These First Nations make their own laws on many matters
+Since then, **most of Yukon's First Nations** have signed final and
+self-government agreements, according to Crown-Indigenous Relations and Northern
+Affairs Canada. These First Nations make their own laws on many matters
 for their citizens and lands, alongside the territorial and federal governments. See
 [Self-government](/learn/indigenous/self-government).
-<!-- check: 11 of 14 is still current; unresolved 2026-11-13: cyfn.ca and yukon.ca blocked to automated fetch (403); CIRNAC's self-government page says only "most First Nations in the Yukon" -->
 
 ### Languages
 
@@ -129,3 +127,5 @@ See [Municipalities](/learn/federalism/municipalities).
 - [How the government works](https://yukon.ca/en/your-government/about-yukon/how-government-works) (Government of Yukon)
 - [2025 Electoral Districts: 21 Districts](https://electionsyukon.ca/en/electoral-districts-21) (Elections Yukon)
 - [The judicial structure](https://www.justice.gc.ca/eng/csj-sjc/just/07.html) (Department of Justice)
+- [Self-government](https://www.rcaanc-cirnac.gc.ca/eng/1100100032275/1529354547314) (Crown-Indigenous Relations and Northern Affairs Canada): "most First Nations in the Yukon" are self-governing
+- [Yukon](https://en.wikipedia.org/wiki/Yukon) (Wikipedia, as of November 2026): the 1979 letter from Jake Epp

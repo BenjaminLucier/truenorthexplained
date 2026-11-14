@@ -106,8 +106,8 @@ consensus or a referendum. Others favour a ranked ballot as a middle option.
 Several provinces have held referendums on changing their own electoral systems, including
 British Columbia, Ontario and Prince Edward Island. None has led to a change so far.
 
-> **As of 2026:** All federal, provincial and territorial elections in Canada use
-> first-past-the-post. <!-- check: confirm no province or territory has adopted another system; unresolved 2026-11-13: confirmed only that the BC (2005, 2009, 2018), Ontario (2007) and PEI (2005, 2016, 2019) votes brought no change; no single official source for all 13 jurisdictions found -->
+> **As of 2026:** Federal elections use first-past-the-post. Wikipedia's article on
+> elections in Canada says every province and territory uses it too.
 
 ## Sources
 
@@ -119,3 +119,4 @@ British Columbia, Ontario and Prince Edward Island. None has led to a change so 
 - [Elections BC: 2018 Referendum on Electoral Reform report](https://elections.bc.ca/docs/rpt/2018-CEO-2018-Referendum-Report.pdf) (61.3% to keep first-past-the-post)
 - [Elections PEI: history of elections](https://www.electionspei.ca/index.php/resources/history-of-elections-on-pei) (2016 plebiscite; 2019 referendum short of its threshold)
 - [Elections Canada: Our mission, mandate, values](https://www.elections.ca/content.aspx?section=abo&dir=mis&document=index&lang=e)
+- [Elections in Canada](https://en.wikipedia.org/wiki/Elections_in_Canada) (Wikipedia, as of November 2026): all provinces and territories use first-past-the-post

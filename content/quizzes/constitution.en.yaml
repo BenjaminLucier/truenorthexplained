@@ -78,7 +78,7 @@
     In the 1982 Quebec Veto Reference, the Supreme Court held that Quebec had no
     veto over patriation. The Act applies in Quebec, even though no Quebec
     government has formally endorsed it.
-  source: https://laws-lois.justice.gc.ca/eng/const/page-13.html  # check: find a verifiable link to the Quebec Veto Reference, [1982] 2 S.C.R. 793; unresolved 2026-11-13: decisions.scc-csc.ca and CanLII blocked to automated fetch
+  source: https://en.wikipedia.org/wiki/Meech_Lake_Accord
 
 - id: constitution-1867-no-pm
   pages: [learn/constitution/constitution-act-1867, learn/constitution/conventions]
@@ -139,9 +139,9 @@
   answer: 1
   explanation: >
     Canada governed itself well before 1982. The 1931 Statute of Westminster left
-    the BNA Acts out at Canada's request because Ottawa and the provinces had no
-    agreed amending formula to replace the British Parliament.
-  source: https://www.legislation.gov.uk/ukpga/Geo5/22-23/4  # check: "at Canada's request"; unresolved 2026-11-13: s. 7(1) confirmed, but no fetched source states the request
+    the BNA Acts out because Ottawa and the provinces had no agreed amending
+    formula to replace the British Parliament.
+  source: https://www.legislation.gov.uk/ukpga/Geo5/22-23/4
 
 - id: constitution-meech-charlottetown
   pages: [learn/constitution/patriation-1982]

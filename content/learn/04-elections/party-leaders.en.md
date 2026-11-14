@@ -27,10 +27,9 @@ practice means the leader of the governing party. Party leaders also:
 - lead their party's election campaign and appear in televised debates;
 - decide, in the governing party, who sits in [cabinet](org:cabinet);
 - in opposition parties, choose their party's critics (spokespeople) and set its strategy;
-- often control who can run under the party's name. Under the [Canada Elections Act](doc:canada-elections-act), each
-  party tells [](org:elections-canada) who is authorized to endorse its candidates (s. 406(2)), and
-  in many parties that includes the leader.
-  <!-- check: confirm "in many parties that includes the leader" against current party filings; unresolved 2026-11-13: s. 406(2) confirmed, but the parties' lists of authorized endorsers are not published and no party rules could be fetched -->
+- can have a say in who runs under the party's name. Under the [Canada Elections Act](doc:canada-elections-act), each
+  party tells [](org:elections-canada) who is authorized to endorse its candidates (s. 406(2)).
+  Each party decides who that is.
 
 ### How leaders are chosen today
 
@@ -42,14 +41,15 @@ In most major federal parties today, the process looks something like this:
 
 1. **The race is called** after a leader resigns, dies or loses a review.
 2. **Candidates enter**, usually paying a fee and collecting signatures from members.
-3. **People join the party** to vote. Membership is usually cheap or free and open to most
-   residents, sometimes including people who aren't citizens or are under 18, depending on
-   party rules. <!-- check: membership eligibility varies by party; confirm before giving specifics; unresolved 2026-11-13: party membership rules not reachable (pages 404 or unparsed) and web search unavailable -->
+3. **People join the party** to vote. Who can join depends on party rules. Some parties
+   accept members under 18: Wikipedia gives a minimum age of 14 for the Conservatives,
+   and 12 to 14 for the NDP, depending on the province.
 4. **Members vote**, often by **[ranked ballot](term:ranked-ballot)**, so a winner emerges with majority support
    after lower-ranked candidates are eliminated.
-5. Some parties **weight votes by riding**, so each riding counts equally no matter how many
-   members it has. Others count every member's vote equally.
-   <!-- check: confirm which major parties currently use riding-weighted points systems; unresolved 2026-11-13: party leadership rules not reachable in this run -->
+5. Some parties have **weighted votes by riding**, so each riding counts equally no matter
+   how many members it has. Wikipedia says the Progressive Conservatives used this in 1998,
+   giving each riding 100 points, and the Conservatives did the same in 2004. Others count
+   every member's vote equally.
 
 Historically, leaders were chosen at **delegate conventions**, where local party associations
 sent delegates to vote in person. Most parties have since moved to direct votes by all
@@ -100,3 +100,4 @@ becomes **[premier](term:premier)**. A change of premier between elections is co
 - [Canada Elections Act](https://laws-lois.justice.gc.ca/eng/acts/E-2.01/): Part 18, Division 6, from s. 478.1 (registration and financing of leadership contestants); s. 406(2) (who endorses candidates)
 - [Our Procedure: The Canadian Parliamentary System](https://www.ourcommons.ca/procedure/our-procedure/ParliamentaryFramework/c_g_parliamentaryframework-e.html) (parties and caucuses)
 - [Role and responsibilities of the Governor General](https://www.gg.ca/en/governor-general/role-and-responsibilities)
+- Wikipedia (as of November 2026): [Conservative Party of Canada](https://en.wikipedia.org/wiki/Conservative_Party_of_Canada) (minimum membership age 14), [New Democratic Party](https://en.wikipedia.org/wiki/New_Democratic_Party) (minimum ages of 12 to 14, set by province) and [Progressive Conservative Party of Canada](https://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Canada) (the 1998 points system, also used by the Conservatives in 2004)

@@ -52,6 +52,10 @@ lists each party by its own name.
 
 <tn-widget name="prime-ministers" data-part="table"></tn-widget>
 
+Party names follow Wikidata. It labels John A. Macdonald's 1878–1891 term
+Conservative; House of Commons Procedure and Practice lists both his ministries as
+Liberal-Conservative.
+
 ## Why some served more than once
 
 A Prime Minister can lose power and win it back. Three cases explain most of the

@@ -46,6 +46,10 @@ A few milestones stand out in the list:
 
 <tn-widget name="crown" data-set="governors-general" data-part="table"></tn-widget>
 
+Dates follow Wikidata, corrected against gg.ca. Two still differ from gg.ca by a day:
+Michaëlle Jean's term ends October 1, 2010 here and September 30 on gg.ca, and Julie
+Payette's ends January 21, 2021 (the day she resigned) here and January 22 on gg.ca.
+
 ## When the office is empty
 
 If the Governor General dies, resigns or is out of the country for a long time, the
@@ -55,6 +59,10 @@ Payette's resignation in January 2021 and Mary Simon's installation that July. S
 [glossary](term:administrator-of-the-government-of-canada).
 
 <tn-widget name="crown" data-set="chief-justices" data-part="table"></tn-widget>
+
+Dates follow Wikidata. The Supreme Court's list of judges gives end dates one day earlier
+for Lyman Duff (January 6, 1944), Brian Dickson (June 29, 1990) and Beverley McLachlin
+(December 14, 2017).
 
 For more on the Chief Justice and the court, see [The Supreme Court](/learn/law/supreme-court).
 
@@ -67,6 +75,7 @@ For more on the Chief Justice and the court, see [The Supreme Court](/learn/law/
 - [The Monarch](https://www.canada.ca/en/canadian-heritage/services/crown-canada/monarch.html) (Canadian Heritage): the 1953 Royal Style and Titles Act and the title "Queen of Canada"
 - [Edward VIII](https://www.royal.uk/edward-viii) and [Accession](https://www.royal.uk/accession) (The Royal Family): the 1936 abdication; a new sovereign succeeds as soon as the predecessor dies
 - [The Crown in Canada](https://www.canada.ca/en/canadian-heritage/services/crown-canada.html) (Canadian Heritage)
+- [Current and former judges](https://www.scc-csc.ca/about-apropos/judges-juges/list-liste/) (Supreme Court of Canada): chief justices' dates in office
 - Wikipedia: [List of governors general of Canada](https://en.wikipedia.org/wiki/List_of_governors_general_of_Canada) and [Monarchy of Canada](https://en.wikipedia.org/wiki/Monarchy_of_Canada) (CC BY-SA 4.0)
 
 The data behind this page is refreshed by a script. See [Credits](/credits) for details.

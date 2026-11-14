@@ -104,14 +104,14 @@ imbalance.
 
 Land ownership has been a political issue since colonial times, when most of the
 Island was owned by landlords living in Britain. Today PEI's **Lands Protection Act**
-limits how much land a single person or corporation can hold.
-<!-- check: Lands Protection Act year (1982) and current acreage limits before adding them; unresolved 2026-11-13: princeedwardisland.ca, irac.pe.ca and CanLII blocked to automated fetch -->
+limits how much land a single person or corporation can hold. Wikipedia's article on
+the province dates the Act to 1982.
 
 ## Courts
 
 | Court | What it does |
 |---|---|
-| **Court of Appeal of Prince Edward Island** | Hears appeals. It became a separate court in 2009; before that, appeals went to the Appeal Division of the Supreme Court. <!-- check: 2009 date (Judicature Act, 2008); unresolved 2026-11-13: Wikipedia (citing the Judicature Act and a January 17, 2009 Guardian report) agrees, but courts.pe.ca and princeedwardisland.ca are blocked to automated fetch --> |
+| **Court of Appeal of Prince Edward Island** | Hears appeals. It became a separate court in 2009, according to Wikipedia (citing the Judicature Act); before that, appeals went to the Appeal Division of the Supreme Court. |
 | **Supreme Court of Prince Edward Island** | The province's **superior court** (main trial court with general powers). Despite the name, it is *not* the highest court. |
 | **Provincial Court of Prince Edward Island** | Handles most criminal cases. |
 
@@ -124,8 +124,8 @@ see [the court structure](/learn/law/courts).
 Municipalities in PEI are created by the province under its **Municipal Government
 Act**, and include cities (such as Charlottetown and Summerside), towns and rural
 municipalities. For a long time, much of the Island had no municipal government at
-all, and the province provided local services directly.
-<!-- check: current share of PEI land/population outside incorporated municipalities; unresolved 2026-11-13: Wikipedia says municipalities cover 34.7% of the land and 73% of the population (2021), but the PEI government sources it cites are blocked to automated fetch -->
+all, and the province provided local services directly. According to Wikipedia, in 2021
+municipalities covered about 35% of the Island's land and 73% of its people.
 
 See [Municipalities](/learn/federalism/municipalities) for why cities depend on their
 province.
@@ -141,3 +141,4 @@ province.
 - [Electoral System Referendum](https://electionspei.ca/resources/electoral-system-referendum) (Elections PEI)
 - [The Constitution Acts, 1867 to 1982](https://laws-lois.justice.gc.ca/eng/const/): s. 51A (senatorial clause)
 - [The judicial structure](https://www.justice.gc.ca/eng/csj-sjc/just/07.html) (Department of Justice)
+- Wikipedia (as of November 2026): [Prince Edward Island](https://en.wikipedia.org/wiki/Prince_Edward_Island) (Lands Protection Act of 1982); [Court of Appeal of Prince Edward Island](https://en.wikipedia.org/wiki/Court_of_Appeal_of_Prince_Edward_Island) (separate court since 2009, citing the Judicature Act and a January 17, 2009 report in The Guardian); [List of municipalities in Prince Edward Island](https://en.wikipedia.org/wiki/List_of_municipalities_in_Prince_Edward_Island) (34.7% of the land and 73% of the population in 2021)

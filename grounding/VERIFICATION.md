@@ -1423,3 +1423,71 @@ browser on 2026-11-13, that frame shows a CAPTCHA asking automated readers to st
 relied on and was not used again. The case confirmations above that cite only decisions.scc-csc.ca should be
 treated as unconfirmed until a person checks them in a browser. The ones also confirmed elsewhere (SCC "case in
 brief" pages, DFO, Charterpedia) stand on those sources.
+
+## Uncertain items rewritten (2026-11-13)
+
+The owner's rule: say the uncertainty in the text instead of leaving a hidden marker. Where sources
+disagree, the sentence keeps the best-supported value and names the alternative. Where only a secondary
+or older source supports a claim, the claim is attributed to it and the source is cited. Where nothing
+supports a detail, the detail was softened or dropped. "Wikipedia" here means the November 2026 snapshot
+in `grounding/wikipedia/` unless noted. The only page fetched for this pass was the Department of
+Justice's "The judicial structure" (https://www.justice.gc.ca/eng/csj-sjc/just/07.html).
+
+| File | Before (short) | After (short) | Basis |
+|---|---|---|---|
+| content/entities/events.yaml (`king-byng-affair`) | "It was the last time this happened federally." | "House of Commons Procedure and Practice gives it as its only example of a refused dissolution." | Softened to what PP4-1 supports |
+| content/entities/events.yaml (`alberta-equalization-referendum-2021`) | "holds a non-binding referendum" | "holds a provincial referendum … A referendum on its own doesn't amend the Constitution." | Same wording as money-and-equalization; legacy anchor fixture updated (see below) |
+| content/learn/01-constitution/conventions.en.md (Senate row) | "The appointed Senate generally doesn't block bills" | "In practice, the appointed Senate rarely blocks bills" | Judgement call; no source settles "convention" or "practice", so it is stated as practice. The conventions-toggle widget already files it under "As practised" (marker removed, widget unchanged) |
+| conventions.en.md (Patriation quote) | a "substantial measure" of provincial consent | in its words, "at least a substantial measure of provincial consent" (some summaries render it "substantial degree") | Lederman (1982) quoting the judgment at p. 103; the "substantial degree" check went through the iframe route now treated as unconfirmed |
+| conventions.en.md | legal but "unconstitutional in the conventional sense" | the Court found it legal but contrary to a constitutional convention | Exact wording unconfirmed; quote replaced by paraphrase |
+| content/learn/01-constitution/patriation-1982.en.md | a "substantial measure" | "at least a substantial measure of provincial consent" (some summaries say "substantial degree") | As above |
+| content/entities/cases.yaml (`patriation-reference`) | "substantial degree" | in the judgment's words, "a substantial measure of provincial consent" | As above |
+| content/glossary/patriation-reference.en.md | "substantial degree" | "at least a substantial measure of provincial consent" (some summaries say "substantial degree") | As above |
+| content/learn/02-crown/governor-general.en.md | By custom, often alternated between anglophone and francophone holders | Wikipedia describes a practice of alternating, begun when Vanier succeeded Massey | Wikipedia, Governor General of Canada |
+| governor-general.en.md | premier has no formal say, "although consultation is common" | no formal say; Wikipedia says there is no consistent practice of consulting the premier | Wikipedia, Lieutenant governor (Canada); it contradicts "common", so "common" was dropped |
+| governor-general.en.md (Maritime Bank) | marker only | case cited in Sources, noting that Wikipedia's text dates the ruling 1882 while the law-report citation is 1892 | Wikipedia, Lieutenant governor (Canada); citation [1892] A.C. 437 |
+| content/learn/02-crown/reserve-powers.en.md | Since then, no Governor General has refused a dissolution | PP4 gives 1926 as its only example of a refused federal dissolution | PP4-1, added to Sources |
+| reserve-powers.en.md | challenge dismissed by the Federal Court | dismissed in March 2025, according to Wikipedia (*MacKinnon v. Canada*, 2025 FC 422) | Wikipedia, Prorogation in Canada |
+| reserve-powers.en.md (King–Byng) | request June 26; defeat July 1 | unchanged, plus "(The Dictionary of Canadian Biography dates King's formal request June 28.)" and "(… puts the vote at about 2 a.m. on July 2.)" | Sources disagree (House sources vs DCB); DCB added to Sources |
+| content/learn/03-parliament/senate.en.md | As of 2026: most senators belong to non-party groups | As of November 2024, according to House of Commons Procedure and Practice | PP4-1 (dated November 2024) |
+| content/learn/04-elections/first-past-the-post.en.md | All federal, provincial and territorial elections use FPTP | Federal elections use FPTP; Wikipedia says every province and territory does too | Wikipedia, Elections in Canada |
+| content/learn/04-elections/party-leaders.en.md | leaders "often control" who runs; "in many parties that includes the leader" | "can have a say"; each party tells Elections Canada who endorses (s. 406(2)) and decides who that is | Unsupported detail dropped; s. 406(2) confirmed |
+| party-leaders.en.md | membership cheap or free, open to non-citizens and under-18s | depends on party rules; Wikipedia gives minimum ages of 14 (Conservatives) and 12 to 14 (NDP) | Wikipedia, Conservative Party of Canada and New Democratic Party; "cheap or free" and non-citizens dropped |
+| party-leaders.en.md | Some parties weight votes by riding | Some parties have weighted votes by riding; Wikipedia: PCs in 1998 (100 points per riding), Conservatives in 2004 | Wikipedia, Progressive Conservative Party of Canada |
+| src/widgets/power-sorter/cards.ts (driver's licences) | section "s. 92(13) and (16)" | section "s. 92" | Heads of power unconfirmed; provincial jurisdiction is confirmed |
+| content/learn/06-government/crown-corporations.en.md | BC (ICBC), Saskatchewan (SGI) and Manitoba (MPI) | BC (ICBC) and Manitoba (MPI), among others | ICBC and MPI confirmed; SGI's insurance role not confirmed |
+| crown-corporations.en.md | CN (1995) | CN (1995, according to Wikipedia) | Wikipedia, Canadian National Railway (as reported in the accuracy pass) |
+| content/learn/06-government/departments.en.md | code lists five values | the Values and Ethics Code for the Public Sector sets out values; the Treasury Board has administered it since 2009, per Wikipedia | Wikipedia, Treasury Board of Canada; the five values were not confirmed |
+| content/learn/07-law/judges.en.md | marker about a claim not on the page | marker removed, text unchanged | The page never states the "never removed" claim |
+| content/provinces/alberta.en.md | a 2026 bill proposed 91 | Bill 32 (April 2026) would raise it to 91; a panel recommended 91 in November 2026; final number not settled as of mid-November 2026 | alberta.ca news release (April 23, 2026); Western Standard (November 2, 2026) |
+| content/provinces/index.en.md (Alberta row) | marker | "(a bill introduced in 2026 would raise this to 91 for the 2027 election)" | As above |
+| content/provinces/nunavut.en.md | no roads; Iqaluit the only city; hamlets | 25 communities per the Nunavut Planning Commission; Wikipedia: few or no road or rail links | Wikipedia, Nunavut; "only city" and "hamlets" dropped |
+| content/provinces/prince-edward-island.en.md | Lands Protection Act (marker on adding the year) | Wikipedia dates the Act to 1982 | Wikipedia, Prince Edward Island |
+| prince-edward-island.en.md | separate Court of Appeal in 2009 | 2009, according to Wikipedia (citing the Judicature Act) | Wikipedia, Court of Appeal of Prince Edward Island |
+| prince-edward-island.en.md | marker on today's municipal coverage | per Wikipedia, in 2021 municipalities covered about 35% of the land and 73% of the people | Wikipedia (figures as reported in the accuracy pass; cited as the list of municipalities in PEI) |
+| content/provinces/yukon.en.md | grew from 19 to 21 for the November 2025 election | one seat for each district Elections Yukon set for the 2025 election | Elections Yukon "2025 Electoral Districts - 21 Districts" (browser check); "19" and "November" dropped |
+| yukon.en.md | 1979 letter of instruction told the Commissioner to follow advice | per Wikipedia, a 1979 letter from Jake Epp moved power to the elected legislature | Wikipedia, Yukon |
+| yukon.en.md (body and `summary`) | 11 of Yukon's 14 First Nations | most of Yukon's First Nations, per CIRNAC | CIRNAC self-government page ("most First Nations in the Yukon") |
+| content/quizzes/constitution.en.yaml (`constitution-quebec-bound`) | source page-13 plus marker | source: Wikipedia, Meech Lake Accord | It says the Quebec Veto Reference found no veto and the 1982 Act operative in Quebec |
+| constitution.en.yaml (`constitution-why-uk-amended`) | left the BNA Acts out "at Canada's request" because… | left them out because… (no agreed formula) | Request not confirmed; Wikipedia, Statute of Westminster 1931, gives the disagreement as the reason |
+| content/quizzes/crown.en.yaml (`crown-what-the-crown-means`) | "R" is short for Rex or Regina | "R" stands for the Crown: the King or Queen | Latin expansion not confirmed; Justice Canada confirms Crown prosecutions |
+| content/quizzes/provinces.en.yaml (`british-columbia-unceded`) | CIRNAC Douglas Treaties source plus marker | source: The Canadian Encyclopedia, comprehensive land claims and modern treaties | The same source confirmed the same facts for `indigenous-unceded-bc` |
+| provinces.en.yaml (`british-columbia-supreme-court`) | bccourts.ca plus marker | source: Justice Canada, The judicial structure | Fetched 2026-11-13: superior trial courts "may be called the Supreme Court"; appeal courts are a level above |
+| provinces.en.yaml (`ontario-french-services`) | e-Laws source plus marker | source: Wikipedia, Official bilingualism in Canada | It describes services guaranteed in designated areas |
+| content/governors-general.en.md | — | note under the governors general table on Jean and Payette end dates | DISCREPANCIES data items; data not changed |
+| content/governors-general.en.md | — | note under the chief justices table on Duff, Dickson and McLachlin; Court's list added to Sources | As above |
+| content/prime-ministers.en.md | — | note under the table on Macdonald's 1878–1891 party label | As above |
+
+Still marked: `content/about.en.md` (contact link, for the owner) and *Democracy Watch v. Canada (Prime
+Minister)*, 2023 FCA 41, in `content/learn/04-elections/election-day.en.md` and `content/sources.en.md`.
+Nothing supports the style of cause or that it concerned the 2021 election, and dropping the line would
+leave the 2021 row of the page's table with no source at all. A web search found nothing.
+
+Test fixture: `tests/unit/fixtures/timeline-legacy-anchors.json` now has
+`event-2021-alberta-holds-provincial-referendum` in place of `event-2021-alberta-holds-non-binding`.
+"non-binding" was among the first four words that build the anchor, so the wording couldn't change
+without it. The old `#event-2021-alberta-holds-non-binding` link no longer resolves; no page on the site
+uses it.
+
+Noticed, not changed: patriation-1982 still says the Statute of Westminster left the BNA Acts out at
+Canada's request (unmarked).

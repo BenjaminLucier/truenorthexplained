@@ -100,9 +100,9 @@ territory with a vacancy.
 Because this process is set by government policy, not by law or the Constitution, a future
 Prime Minister could change or end it.
 
-> **As of 2026:** Most senators belong to one of several parliamentary groups that are not
-> tied to a political party, and a smaller number sit in a party caucus.
-> <!-- check: confirm current Senate group composition before publishing; unresolved 2026-11-13: House of Commons Procedure and Practice (4th ed., ch. 1) confirms this as of November 2024; sencanada.ca standings need JavaScript and couldn't be read -->
+> **As of November 2024:** Most senators belonged to one of several parliamentary groups
+> that are not tied to a political party, and a smaller number sat in a party caucus,
+> according to House of Commons Procedure and Practice.
 
 ### Why reform is so hard
 
