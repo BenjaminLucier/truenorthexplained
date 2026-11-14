@@ -1414,3 +1414,12 @@ These were blocked to automated fetches. Each was opened in a normal browser and
 | electionsyukon.ca electoral-districts-21 | confirmed: "2025 Electoral Districts - 21 Districts" |
 | decisions.scc-csc.ca item 2519 | confirmed: "Re: Resolution to amend the Constitution" |
 | www12.statcan.gc.ca boundary files | unresolved: the site shows a bot challenge; not attempted. The files used were downloaded from this page by hand. |
+
+## Note on the Supreme Court case confirmations (content/entities/cases.yaml)
+
+The decisions site (decisions.scc-csc.ca) returned 403 to automated fetches of its case pages. During the
+accuracy pass the case texts were read through each page's embedded `?iframe=true` frame instead. In a real
+browser on 2026-11-13, that frame shows a CAPTCHA asking automated readers to stop, so that route should not be
+relied on and was not used again. The case confirmations above that cite only decisions.scc-csc.ca should be
+treated as unconfirmed until a person checks them in a browser. The ones also confirmed elsewhere (SCC "case in
+brief" pages, DFO, Charterpedia) stand on those sources.
