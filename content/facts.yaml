@@ -12,91 +12,76 @@
 # has confirmed it against the source.
 
 commons.standing-committees:
-  # check: number of standing committees in the House of Commons Standing Orders
   value: 25
-  asOf: 2026
-  source: House of Commons, Standing Orders (as stated on /learn/parliament/question-period-and-committees)
+  asOf: 2026-11-13
+  source: "House of Commons, Standing Orders, S.O. 104(2) (consolidated version as of April 27, 2026): https://www.ourcommons.ca/procedure/standing-orders/chap13-e.html"
 
 commons.standing-joint-committees:
-  # check: number of standing joint committees in the House of Commons Standing Orders
   value: 2
-  asOf: 2026
-  source: House of Commons, Standing Orders (as stated on /learn/parliament/question-period-and-committees)
+  asOf: 2026-11-13
+  source: "House of Commons, Standing Orders, S.O. 104(3) (consolidated version as of April 27, 2026): https://www.ourcommons.ca/procedure/standing-orders/chap13-e.html"
 
 legislature.seats.alberta:
-  # check: number of seats in the Legislative Assembly of Alberta
   value: 87
-  asOf: 2026
-  source: Legislative Assembly of Alberta (as stated on /provinces/alberta)
+  asOf: 2026-11-13
+  source: "Legislative Assembly of Alberta, Members (Alberta's 87 constituencies): https://www.assembly.ab.ca/members/members-of-the-legislative-assembly"
 
 legislature.seats.british-columbia:
-  # check: number of seats in the Legislative Assembly of British Columbia
   value: 93
-  asOf: 2026
-  source: Legislative Assembly of British Columbia (as stated on /provinces/british-columbia)
+  asOf: 2026-11-13
+  source: "Elections BC, 2026 Provincial General Election, Writs of Election (the province's 93 electoral districts): https://elections.bc.ca/2026-provincial-election/writs-of-election/"
 
 legislature.seats.manitoba:
-  # check: number of seats in the Legislative Assembly of Manitoba
   value: 57
-  asOf: 2026
-  source: Legislative Assembly of Manitoba (as stated on /provinces/manitoba)
+  asOf: 2026-11-13
+  source: "Legislative Assembly of Manitoba, MLA list (57 ridings): https://www.gov.mb.ca/legislature/members/mla_list_alphabetical.html"
 
 legislature.seats.new-brunswick:
-  # check: number of seats in the Legislative Assembly of New Brunswick
   value: 49
-  asOf: 2026
-  source: Legislative Assembly of New Brunswick (as stated on /provinces/new-brunswick)
+  asOf: 2026-11-13
+  source: "Legislative Assembly of New Brunswick, current members (49): https://www.legnb.ca/en/members/current"
 
 legislature.seats.newfoundland-and-labrador:
-  # check: number of seats in the House of Assembly of Newfoundland and Labrador
   value: 40
-  asOf: 2026
-  source: House of Assembly of Newfoundland and Labrador (as stated on /provinces/newfoundland-and-labrador)
+  asOf: 2026-11-13
+  source: "House of Assembly of Newfoundland and Labrador, Members (40 seats): https://www.assembly.nl.ca/Members/members.aspx"
 
 legislature.seats.northwest-territories:
-  # check: number of seats in the Legislative Assembly of the Northwest Territories
   value: 19
-  asOf: 2026
-  source: Legislative Assembly of the Northwest Territories (as stated on /provinces/northwest-territories)
+  asOf: 2026-11-13
+  source: "Legislative Assembly of the Northwest Territories, Constituency map (19 electoral districts): https://www.ntlegislativeassembly.ca/visitors/maps/constituency-map"
 
 legislature.seats.nova-scotia:
-  # check: number of seats in the Nova Scotia House of Assembly
-  value: 55
-  asOf: 2026
-  source: Nova Scotia House of Assembly (as stated on /provinces/nova-scotia)
+  value: 56
+  asOf: 2026-11-13
+  source: "Nova Scotia Legislature, MLA profiles (56 members), https://nslegislature.ca/members/profiles; the 56th seat, Chéticamp-Margarees-Pleasant Bay, was added in 2026: https://news.novascotia.ca/en/2026/02/26/new-cheticamp-margarees-pleasant-bay-riding"
 
 legislature.seats.nunavut:
-  # check: number of seats in the Legislative Assembly of Nunavut
   value: 22
-  asOf: 2026
-  source: Legislative Assembly of Nunavut (as stated on /provinces/nunavut)
+  asOf: 2026-11-13
+  source: "Legislative Assembly of Nunavut, MLAs (22): https://www.assembly.nu.ca/members/mla"
 
 legislature.seats.ontario:
-  # check: number of seats in the Legislative Assembly of Ontario
   value: 124
-  asOf: 2026
-  source: Legislative Assembly of Ontario (as stated on /provinces/ontario)
+  asOf: 2026-11-13
+  source: "Legislative Assembly of Ontario, Current MPPs (total seats: 124): https://www.ola.org/en/members/current"
 
 legislature.seats.prince-edward-island:
-  # check: number of seats in the Legislative Assembly of Prince Edward Island
   value: 27
-  asOf: 2026
-  source: Legislative Assembly of Prince Edward Island (as stated on /provinces/prince-edward-island)
+  asOf: 2026-11-13
+  source: "Legislative Assembly of Prince Edward Island, Members (27 districts): https://www.assembly.pe.ca/members"
 
 legislature.seats.quebec:
-  # check: number of seats in the National Assembly of Québec
   value: 127
-  asOf: 2026
-  source: National Assembly of Québec (as stated on /provinces/quebec)
+  asOf: 2026-11-13
+  source: "National Assembly of Québec, Members (127 elected members): https://www.assnat.qc.ca/en/deputes/index.html"
 
 legislature.seats.saskatchewan:
-  # check: number of seats in the Legislative Assembly of Saskatchewan
   value: 61
-  asOf: 2026
-  source: Legislative Assembly of Saskatchewan (as stated on /provinces/saskatchewan)
+  asOf: 2026-11-13
+  source: "Legislative Assembly of Saskatchewan, MLAs (total seats: 61): https://www.legassembly.sk.ca/mlas/"
 
 legislature.seats.yukon:
-  # check: number of seats in the Yukon Legislative Assembly
   value: 21
-  asOf: 2026
-  source: Yukon Legislative Assembly (as stated on /provinces/yukon)
+  asOf: 2026-11-13
+  source: "Yukon Party won 14 of 21 seats in the November 3, 2025 general election (The Canadian Press, November 22, 2025): https://nationalnewswatch.com/2025/11/22/currie-dixon-sworn-in-as-yukons-12th-premier-appoints-eight-to-cabinet"

@@ -20,8 +20,9 @@ about: [event:nova-scotia-assembly-1758, event:responsible-government-1848, term
 | Crown representative | Lieutenant Governor of Nova Scotia |
 | Head of government | Premier |
 
-> **As of 2026:** The House of Assembly has {{legislature.seats.nova-scotia}} seats, a number first used in the 2021
-> general election.
+> **As of 2026:** The House of Assembly has {{legislature.seats.nova-scotia}} seats. It grew from 55 in 2026,
+> when Inverness was split to create a new district, Chéticamp-Margarees-Pleasant Bay.
+> Its first MLA was elected at a byelection on June 23, 2026.
 
 ## In numbers
 
@@ -114,7 +115,8 @@ and rural areas. See [Municipalities](/learn/federalism/municipalities).
 
 ## Sources
 
-- [Nova Scotia Legislature](https://nslegislature.ca/) and [About the Legislature](https://nslegislature.ca/about)
+- [Nova Scotia Legislature](https://nslegislature.ca/) and [About the Legislature](https://nslegislature.ca/about); [MLA profiles](https://nslegislature.ca/members/profiles) (56 members)
+- [New Chéticamp-Margarees-Pleasant Bay riding](https://news.novascotia.ca/en/2026/02/26/new-cheticamp-margarees-pleasant-bay-riding) (Government of Nova Scotia news release, February 26, 2026) and [Byelection called](https://news.novascotia.ca/en/2026/05/24/byelection-called-cheticamp-margarees-pleasant-bay) (May 24, 2026: byelection on June 23)
 - [Lieutenant Governor of Nova Scotia](https://lt.gov.ns.ca/)
 - [Government of Nova Scotia](https://novascotia.ca/)
 - [Courts of Nova Scotia](https://www.courts.ns.ca/)

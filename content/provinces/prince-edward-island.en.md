@@ -57,9 +57,8 @@ is why Charlottetown calls itself the "Birthplace of Confederation."
 
 PEI itself said no at first. Islanders worried a small island would have little say
 in a large country. It joined only in **1873**, six years after the first four
-provinces, when the federal government agreed to terms that included help with the
-colony's railway debts and buying out absentee landlords.
-<!-- check: the specific 1873 terms (railway debt, land purchase funds) against the PEI Terms of Union -->
+provinces, when the federal government agreed to terms that included taking over the
+colony's railway and lending it up to $800,000 to buy out absentee landlords.
 
 ### A ferry written into the Constitution
 
@@ -106,13 +105,13 @@ imbalance.
 Land ownership has been a political issue since colonial times, when most of the
 Island was owned by landlords living in Britain. Today PEI's **Lands Protection Act**
 limits how much land a single person or corporation can hold.
-<!-- check: Lands Protection Act year (1982) and current acreage limits before adding them -->
+<!-- check: Lands Protection Act year (1982) and current acreage limits before adding them; unresolved 2026-11-13: princeedwardisland.ca, irac.pe.ca and CanLII blocked to automated fetch -->
 
 ## Courts
 
 | Court | What it does |
 |---|---|
-| **Court of Appeal of Prince Edward Island** | Hears appeals. It became a separate court in 2009; before that, appeals went to the Appeal Division of the Supreme Court. <!-- check: 2009 date (Judicature Act, 2008) --> |
+| **Court of Appeal of Prince Edward Island** | Hears appeals. It became a separate court in 2009; before that, appeals went to the Appeal Division of the Supreme Court. <!-- check: 2009 date (Judicature Act, 2008); unresolved 2026-11-13: Wikipedia (citing the Judicature Act and a January 17, 2009 Guardian report) agrees, but courts.pe.ca and princeedwardisland.ca are blocked to automated fetch --> |
 | **Supreme Court of Prince Edward Island** | The province's **superior court** (main trial court with general powers). Despite the name, it is *not* the highest court. |
 | **Provincial Court of Prince Edward Island** | Handles most criminal cases. |
 
@@ -126,7 +125,7 @@ Municipalities in PEI are created by the province under its **Municipal Governme
 Act**, and include cities (such as Charlottetown and Summerside), towns and rural
 municipalities. For a long time, much of the Island had no municipal government at
 all, and the province provided local services directly.
-<!-- check: current share of PEI land/population outside incorporated municipalities -->
+<!-- check: current share of PEI land/population outside incorporated municipalities; unresolved 2026-11-13: Wikipedia says municipalities cover 34.7% of the land and 73% of the population (2021), but the PEI government sources it cites are blocked to automated fetch -->
 
 See [Municipalities](/learn/federalism/municipalities) for why cities depend on their
 province.
@@ -134,7 +133,8 @@ province.
 ## Sources
 
 - [Legislative Assembly of Prince Edward Island](https://www.assembly.pe.ca/)
-- [Courts of Prince Edward Island](https://www.courts.pe.ca/) <!-- unverified link -->
+- [Courts of Prince Edward Island](https://www.courts.pe.ca/) <!-- unverified link: blocked (bot challenge) to automated check 2026-11-13 -->
+- [Prince Edward Island Terms of Union](https://www.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t62.html) (Department of Justice, A Consolidation of the Constitution Acts: Order in Council and Addresses, 1873): railways, the $800,000 advance to buy land from large proprietors, and the steam service
 - [Government of Prince Edward Island](https://www.princeedwardisland.ca/en)
 - [Discover Canada: Canada's history](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html): PEI joined in 1873
 - [Construction of the Confederation Bridge was preceded by a constitutional amendment](https://www.canada.ca/en/intergovernmental-affairs/services/federation/confederation-bridge.html) (Intergovernmental Affairs, Government of Canada)

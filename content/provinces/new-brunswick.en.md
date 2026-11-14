@@ -46,9 +46,9 @@ and carry out other formal duties on the advice of the elected government. See
 ### Canada's only officially bilingual province
 
 New Brunswick is the only province where English and French have **equal status** in
-the Constitution itself. A large share of the population, roughly a third, speaks
+the Constitution itself. A large share of the population, about 3 in 10 people, speaks
 French as a first language, most of them **[Acadians](term:acadians)**: descendants of the French
-settlers of the Maritime region. <!-- check: "roughly a third" against the latest census figure for French mother tongue in NB -->
+settlers of the Maritime region.
 
 The **[Canadian Charter of Rights and Freedoms](doc:charter)** gives New Brunswick its own
 language guarantees, in sections that apply to no other province:
@@ -105,7 +105,7 @@ The reform also gave the province's 12 **regional service commissions** a bigger
 in regional planning, economic development and other shared services.
 
 > **As of 2026:** New Brunswick has 77 local governments and 12 rural districts, grouped
-> into 12 regional service commissions. <!-- check: counts after any changes since 2023 -->
+> into 12 regional service commissions.
 
 See [Municipalities](/learn/federalism/municipalities).
 
@@ -117,4 +117,6 @@ See [Municipalities](/learn/federalism/municipalities).
 - [Constitution Act, 1982, including the Charter](https://laws-lois.justice.gc.ca/eng/const/page-12.html): ss. 16(2), 16.1, 17(2), 18(2), 19(2), 20(2)
 - [Office of the Commissioner of Official Languages for New Brunswick](https://www.officiallanguages.nb.ca/)
 - [New Brunswick Courts](https://www.courtsnb-coursnb.ca/)
-- [Local Governance Act](https://laws.gnb.ca/en/showtdm/cs/2017-c.18) (New Brunswick laws)
+- [Local Governance Act](https://laws.gnb.ca/en/showtdm/cs/2017-c.18) (New Brunswick laws), with the [Local Governments Establishment Regulation](https://laws.gnb.ca/en/showfulldoc/cr/2022-50) (77 local governments) and the [Rural Districts Establishment Regulation](https://laws.gnb.ca/en/showfulldoc/cr/2022-45) (12 rural districts)
+- [Regions Regulation](https://laws.gnb.ca/en/showfulldoc/cr/2022-46) under the Regional Service Delivery Act (12 regional service commissions)
+- [2021 Census language release](https://www150.statcan.gc.ca/n1/daily-quotidien/220817/dq220817a-eng.htm) (Statistics Canada, The Daily, August 17, 2022): French was the first official language spoken by 30.0% of New Brunswickers in 2021
