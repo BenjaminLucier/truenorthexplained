@@ -135,6 +135,13 @@ export interface EventPage {
   label?: string;
 }
 
+/** Where an event's facts come from: shown on its card as a "Source" link. */
+export interface EventSource {
+  label: string;
+  /** An https URL. */
+  url: string;
+}
+
 export interface Event extends EntityBase {
   type: "event";
   /** As written: "1926", "1926-06" or "1926-06-28". */
@@ -150,6 +157,8 @@ export interface Event extends EntityBase {
   /** A module key ("crown"); defaults to the module of the first `/learn/…` page. */
   module?: string;
   pages: EventPage[];
+  /** Citations for the event's date and wording, best first (`sources` in the YAML). */
+  sources: EventSource[];
   people: string[];
   entities: string[];
 }
@@ -616,7 +625,7 @@ function load(): Registry {
     const slug = slugOf(raw, eventFile, problems, i);
     if (!slug) return;
     const id = `event:${slug}`;
-    const f = new Fields(raw, eventFile, id, problems, [...COMMON, "title", "date", "end", "text", "era", "module", "pages", "people", "entities"]);
+    const f = new Fields(raw, eventFile, id, problems, [...COMMON, "title", "date", "end", "text", "era", "module", "pages", "sources", "people", "entities"]);
     const when = f.date("date", true);
     const end = f.date("end");
     if (when && end && end.date < when.date) problems.add(eventFile, id, '"end" is before "date"');
@@ -628,6 +637,23 @@ function load(): Registry {
       else if (isObj(p) && typeof p.page === "string" && /^\/\S*$/.test(p.page) && Object.keys(p).every((k) => k === "page" || k === "label") && (p.label === undefined || typeof p.label === "string")) {
         pages.push({ page: p.page, label: p.label as string | undefined });
       } else problems.add(eventFile, id, `each of "pages" must be a site path or { page, label } (got ${JSON.stringify(p)})`);
+    }
+    const sources: EventSource[] = [];
+    const rawSources = raw.sources;
+    if (rawSources !== undefined && !Array.isArray(rawSources)) problems.add(eventFile, id, '"sources" must be a list of { label, url }');
+    for (const s of Array.isArray(rawSources) ? rawSources : []) {
+      if (!isObj(s)) {
+        problems.add(eventFile, id, `each of "sources" must be { label, url } (got ${JSON.stringify(s)})`);
+        continue;
+      }
+      for (const k of Object.keys(s)) {
+        if (k !== "label" && k !== "url") problems.add(eventFile, id, `unknown field "${k}" in "sources" (allowed: label, url)`);
+      }
+      const label = typeof s.label === "string" ? s.label.trim() : "";
+      const url = typeof s.url === "string" ? s.url.trim() : "";
+      if (!label) problems.add(eventFile, id, `each of "sources" needs a non-empty "label" (got ${JSON.stringify(s)})`);
+      if (!/^https:\/\/[^\s/]+\.[^\s/]+(\/\S*)?$/.test(url)) problems.add(eventFile, id, `each of "sources" needs an https "url" (got ${JSON.stringify(s.url)})`);
+      else if (label) sources.push({ label, url });
     }
     const page = f.page("page");
     const title = f.str("title", true) ?? slug;
@@ -650,6 +676,7 @@ function load(): Registry {
       era: f.str("era", true) ?? "",
       module: f.str("module"),
       pages,
+      sources,
       people: f.strs("people"),
       entities: f.strs("entities"),
       href: page ?? `/timeline#${slug}`,

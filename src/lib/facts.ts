@@ -176,6 +176,21 @@ function deriveFacts(): Map<string, Fact> {
     }
   }
 
+  // Indigenous identity population (latest census)
+  {
+    const file = "src/data/demographics/indigenous.json";
+    const d = readJson(file);
+    const canada = (d.places as { slug: string; censuses: Json[] }[]).find((p) => p.slug === "canada");
+    if (!canada) throw new Error(`Facts: ${file} has no "canada" place`);
+    const c = [...canada.censuses].sort((a, b) => b.year - a.year)[0]!;
+    set("indigenous.census-year", String(c.year), file, d._meta.fetched);
+    set("indigenous.share", `${((100 * c.indigenous) / c.total).toFixed(1)}%`, file, d._meta.fetched);
+    set("indigenous.rounded", c.indigenous >= 1_000_000 ? `${(c.indigenous / 1_000_000).toFixed(1)} million` : millions(c.indigenous), file, d._meta.fetched);
+    for (const [key, field] of [["first-nations", "firstNations"], ["metis", "metis"], ["inuit", "inuit"]] as const) {
+      set(`indigenous.${key}.rounded`, millions(c[field] as number), file, d._meta.fetched);
+    }
+  }
+
   // Federal general elections
   {
     const file = "src/data/elections/history.json";

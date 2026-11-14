@@ -21,6 +21,11 @@ commons.standing-joint-committees:
   asOf: 2026-11-13
   source: "House of Commons, Standing Orders, S.O. 104(3) (consolidated version as of April 27, 2026): https://www.ourcommons.ca/procedure/standing-orders/chap13-e.html"
 
+equalization.next-renewal:
+  value: "March 31, 2029"
+  asOf: 2026-11-13
+  source: "Department of Finance Canada, Equalization program (the next renewal must take place before March 31, 2029): https://www.canada.ca/en/department-finance/programs/federal-transfers/equalization.html"
+
 legislature.seats.alberta:
   value: 87
   asOf: 2026-11-13
@@ -85,3 +90,18 @@ legislature.seats.yukon:
   value: 21
   asOf: 2026-11-13
   source: "Yukon Party won 14 of 21 seats in the November 3, 2025 general election (The Canadian Press, November 22, 2025): https://nationalnewswatch.com/2025/11/22/currie-dixon-sworn-in-as-yukons-12th-premier-appoints-eight-to-cabinet"
+
+modern-treaties.count:
+  value: 27
+  asOf: 2026-11-13
+  source: "Crown-Indigenous Relations and Northern Affairs Canada, Modern treaties (Canada is currently implementing 27 modern treaties): https://www.rcaanc-cirnac.gc.ca/eng/1677073191939/1677073214344"
+
+nunavut.devolution.date:
+  value: "April 1, 2027"
+  asOf: 2026-11-13
+  source: "Crown-Indigenous Relations and Northern Affairs Canada, Question Period Note: Nunavut Devolution (transfer date set for April 1, 2027): https://search.open.canada.ca/qpnotes/record/aandc-aadnc%2CNA-2025-QP-2860"
+
+self-government.agreements:
+  value: 24
+  asOf: 2026-11-13
+  source: "Crown-Indigenous Relations and Northern Affairs Canada, Self-government (24 comprehensive self-government agreements, more than 40 Indigenous communities): https://www.rcaanc-cirnac.gc.ca/eng/1100100032275/1529354547314"

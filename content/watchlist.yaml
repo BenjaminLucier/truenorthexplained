@@ -14,7 +14,7 @@ items:
   - id: bc-premier-2026
     what: Lorne Doerkson (BC Conservatives) expected to be sworn in as BC premier after the October 24, 2026 election
     checkBy: 2026-11-20
-    then: Run `pnpm data:premiers` and `pnpm data:portraits`; read the British Columbia page, the premiers ribbon and the provinces index.
+    then: Run `pnpm data:premiers` and `pnpm data:portraits`; read the British Columbia page, the premiers ribbon and the provinces index. Add a swearing-in event (with a source) to content/entities/events.yaml.
 
   - id: alberta-seats-2027
     what: Alberta's Bill 32 would raise the Legislative Assembly from 87 to 91 seats for the 2027 election

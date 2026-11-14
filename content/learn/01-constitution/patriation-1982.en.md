@@ -23,10 +23,10 @@ Two later attempts to win Quebec's agreement, the **Meech Lake Accord** (1987) a
 
 The [Constitution Act, 1867](doc:constitution-act-1867) was a British statute with no general amending procedure.
 By the 20th century Canada governed itself, and the **Statute of Westminster, 1931**
-ended Britain's power to legislate for Canada without its consent. But at Canada's own
-request, that statute left the BNA Acts out (s. 7). Ottawa and the provinces had not
-agreed on a formula to replace the British Parliament, so it stayed as the formal
-amender.
+ended Britain's power to legislate for Canada without its consent. But that statute
+left the BNA Acts out (s. 7), because Ottawa and the provinces disagreed on how they
+could otherwise be amended. With no agreed formula to replace the British Parliament,
+it stayed as the formal amender.
 
 Federal and provincial governments tried to agree on a formula many times, starting in
 the 1920s. Two near-misses were the Fulton–Favreau formula (1964) and the Victoria
@@ -128,6 +128,7 @@ about 57% "No" in Quebec, and in several other provinces.
 - [Letter from Premier Lévesque to Prime Minister Thatcher, December 19, 1981](https://primarydocuments.ca/letter-from-premier-levesque-to-prime-minister-thatcher-19-december-1981/) (primarydocuments.ca): text of the National Assembly resolution adopted December 1, 1981
 - W.R. Lederman, ["The Supreme Court of Canada and Basic Constitutional Amendment"](https://lawjournal.mcgill.ca/wp-content/uploads/pdf/2257741-lederman.pdf) (1982) 27 McGill L.J.: the Patriation Reference (September 28, 1981) and its "substantial measure of provincial consent" passage
 - [Statute of Westminster 1931](https://www.legislation.gov.uk/ukpga/Geo5/22-23/4) (UK legislation): s. 4 (no UK laws for a Dominion without consent), s. 7 (BNA Acts excluded)
+- [Statute of Westminster 1931](https://en.wikipedia.org/wiki/Statute_of_Westminster_1931) (Wikipedia, as of November 2026, citing the Privy Council Office): the BNA Acts were excluded because of federal–provincial disagreement over how else to amend them
 - [Constitution Act, 1982, Parts III–VII](https://laws-lois.justice.gc.ca/eng/const/page-13.html): Part V, the amending formula
 - [Endnotes to the Constitution Acts](https://laws-lois.justice.gc.ca/eng/const/endNotes.html): the Constitution Act, 1982 came into force April 17, 1982
 - *Re: Resolution to amend the Constitution*, [1981] 1 S.C.R. 753 (the Patriation Reference)

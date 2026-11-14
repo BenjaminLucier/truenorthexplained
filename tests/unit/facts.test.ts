@@ -14,6 +14,7 @@ import governorsGeneral from "../../src/data/wikidata/governors-general.json";
 import monarchs from "../../src/data/wikidata/monarchs.json";
 import chiefJustices from "../../src/data/wikidata/chief-justices.json";
 import population from "../../src/data/population/provinces.json";
+import indigenous from "../../src/data/demographics/indigenous.json";
 import { FACT_RE, allFacts, factKeysIn, formatFact, getFact, hasFact, ordinal, resolveFacts } from "../../src/lib/facts";
 
 const SLUGS = [
@@ -152,6 +153,14 @@ describe("facts against their datasets", () => {
     expect(sum).toBe(population.canada);
     expect(value("population.canada.rounded")).toMatch(/^\d+(\.\d+)? million$/);
     expect(value("population.yukon.rounded")).toMatch(/^\d{1,3},000$/);
+  });
+
+  it("Indigenous identity facts come from the latest census in the dataset", () => {
+    const latest = [...indigenous.places.find((p) => p.slug === "canada")!.censuses].sort((a, b) => b.year - a.year)[0]!;
+    expect(value("indigenous.census-year")).toBe(String(latest.year));
+    expect(value("indigenous.share")).toBe(`${((100 * latest.indigenous) / latest.total).toFixed(1)}%`);
+    expect(value("indigenous.rounded")).toMatch(/^\d+(\.\d)? million$|^\d{1,3},000$/);
+    expect(value("indigenous.inuit.rounded")).toBe(`${Math.round(latest.inuit / 1000)},000`);
   });
 
   it("every fact has a source, and keys are well formed", () => {

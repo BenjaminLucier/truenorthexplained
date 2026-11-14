@@ -36,9 +36,9 @@ each with its own histories, languages and ways of governing:
 | **Inuit** (one person is an *Inuk*) | The Indigenous people of the Arctic | Inuit Nunangat: Nunavut, Nunavik (northern Quebec), Nunatsiavut (Labrador) and the Inuvialuit region (Northwest Territories) |
 | **Métis** | A distinct people who emerged from relationships between First Nations and European fur traders, with their own culture, language (Michif) and nationhood | Historically centred on the Prairies and the Red River area, and elsewhere |
 
-> **As of 2026:** The most recent census (2021) counted about 1.8 million Indigenous
-> people in Canada, 5.0% of the population: roughly 1.05 million First Nations people,
-> 624,000 Métis and 71,000 Inuit.
+> **As of 2026:** The most recent census ({{indigenous.census-year}}) counted about {{indigenous.rounded}} Indigenous
+> people in Canada, {{indigenous.share}} of the population: roughly {{indigenous.first-nations.rounded}} First Nations people,
+> {{indigenous.metis.rounded}} Métis and {{indigenous.inuit.rounded}} Inuit.
 
 **A note on words.** The Constitution Act, 1982 uses **"Aboriginal"** (written
 "aboriginal" in the legal text), because that was the usual term in 1982. Section 35(2)

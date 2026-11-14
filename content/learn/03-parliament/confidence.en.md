@@ -5,7 +5,7 @@ title: "Majority, minority and confidence"
 order: 3
 summary: "A government stays in power only while the House of Commons supports it. Here's how that works, and what happens when it doesn't."
 status: draft
-about: [term:confidence, term:confidence-vote, term:majority-government, term:minority-government, term:confidence-and-supply-agreement]
+about: [term:confidence, term:confidence-vote, term:majority-government, term:minority-government, term:confidence-and-supply-agreement, event:union-government-1917, event:confidence-and-supply-2022]
 ---
 
 ## In short

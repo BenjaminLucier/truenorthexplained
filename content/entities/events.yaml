@@ -22,6 +22,10 @@
 #   pages? (pages that explain it, most relevant first: a site path, or
 #     { page, label } to set the link text; default label is the page title.
 #     The card's links, and each page's "On the timeline" list),
+#   sources? (where the date and wording come from, best first: a list of
+#     { label, url }, url https. Prefer the source the linked page cites, then
+#     official sites, then encyclopedias; Wikipedia only when nothing better
+#     exists. Shown on the card as a small "Source" / "Sources" link),
 #   people? (person ids: shown on the card, linking to their homes),
 #   entities? (any ids; cases and other events are linked from the card,
 #     everything counts as a mention for backlinks),
@@ -51,6 +55,9 @@ events:
     era: before-confederation
     module: indigenous
     pages: [/learn/indigenous/treaties]
+    sources:
+      - label: "Crown-Indigenous Relations Canada: About treaties"
+        url: https://www.rcaanc-cirnac.gc.ca/eng/1100100028574/1529354437231
     entities: [org:crown, term:treaty]
 
   - id: nova-scotia-assembly-1758
@@ -59,6 +66,9 @@ events:
     text: Nova Scotia's House of Assembly first meets, on October 2, becoming the oldest elected legislature in what is now Canada.
     era: before-confederation
     pages: [/provinces/nova-scotia]
+    sources:
+      - label: "Nova Scotia Legislature: History"
+        url: https://nslegislature.ca/about/history
     entities: [term:house-of-assembly]
 
   - id: royal-proclamation-1763
@@ -68,6 +78,9 @@ events:
     era: before-confederation
     module: indigenous
     pages: [/learn/indigenous/treaties]
+    sources:
+      - label: "Crown-Indigenous Relations Canada: The Royal Proclamation of 1763"
+        url: https://www.rcaanc-cirnac.gc.ca/eng/1370355181092/1607905122267
     entities: [term:royal-proclamation-of-1763, org:crown]
 
   - id: treaty-of-niagara
@@ -77,6 +90,9 @@ events:
     era: before-confederation
     module: indigenous
     pages: [/learn/indigenous/treaties]
+    sources:
+      - label: "Crown-Indigenous Relations Canada: The Royal Proclamation of 1763"
+        url: https://www.rcaanc-cirnac.gc.ca/eng/1370355181092/1607905122267
     entities: [term:treaty-of-niagara]
 
   - id: quebec-act-1774
@@ -86,6 +102,9 @@ events:
     era: before-confederation
     module: law
     pages: [/learn/law/common-law-and-civil-law, /provinces/quebec]
+    sources:
+      - label: "Department of Justice: The Beginnings of Civil Law on Canadian Soil"
+        url: https://justice.gc.ca/eng/rp-pr/other-autre/civil/civil.html
     entities: [term:quebec-act-1774, term:civil-law, term:property-and-civil-rights]
 
   - id: new-brunswick-colony-1784
@@ -94,6 +113,9 @@ events:
     text: New Brunswick is split off from Nova Scotia as a separate colony, largely for Loyalist settlers.
     era: before-confederation
     pages: [/provinces/new-brunswick]
+    sources:
+      - label: "Canadian Heritage: New Brunswick symbols and history"
+        url: https://www.canada.ca/en/canadian-heritage/services/provincial-territorial-symbols-canada/new-brunswick.html
     entities: [term:loyalists]
 
   - id: upper-canada-1791
@@ -102,6 +124,9 @@ events:
     text: The colony of Upper Canada, today's Ontario, is created.
     era: before-confederation
     pages: [/provinces/ontario]
+    sources:
+      - label: "The Canadian Encyclopedia: Acts and Treaties timeline"
+        url: https://www.thecanadianencyclopedia.ca/en/timeline/acts-and-treaties
 
   - id: province-of-canada-1841
     title: The Province of Canada
@@ -109,6 +134,9 @@ events:
     text: Upper and Lower Canada are joined into the Province of Canada.
     era: before-confederation
     pages: [/provinces/ontario]
+    sources:
+      - label: "The Canadian Encyclopedia: Acts and Treaties timeline"
+        url: https://www.thecanadianencyclopedia.ca/en/timeline/acts-and-treaties
 
   - id: responsible-government-1848
     title: Responsible government
@@ -116,6 +144,9 @@ events:
     text: In February, Nova Scotia becomes the first colony in the British Empire with responsible government; the Province of Canada follows weeks later.
     era: before-confederation
     pages: [/provinces/nova-scotia, /learn/constitution/conventions]
+    sources:
+      - label: "Nova Scotia Legislature: Responsible government"
+        url: https://www.nslegislature.ca/about/history/responsible_government
     entities: [term:responsible-government]
 
   - id: newfoundland-responsible-government-1855
@@ -124,6 +155,9 @@ events:
     text: Newfoundland wins responsible government but stays outside the later Confederation.
     era: before-confederation
     pages: [/provinces/newfoundland-and-labrador]
+    sources:
+      - label: "House of Assembly of Newfoundland and Labrador: History of the House"
+        url: https://assembly.nl.ca/VisitLearn/History.aspx
     entities: [term:responsible-government]
 
   - id: charlottetown-conference
@@ -132,6 +166,9 @@ events:
     text: In September, the Charlottetown Conference becomes the first of the meetings that lead to Confederation.
     era: before-confederation
     pages: [/provinces/prince-edward-island]
+    sources:
+      - label: "Parks Canada: The Charlottetown and Quebec Conferences of 1864"
+        url: https://www.canada.ca/en/parks-canada/news/2016/02/charlottetown-and-quebec-conferences-of-1864.html
     entities: [term:charlottetown-conference]
 
   - id: civil-code-of-lower-canada
@@ -141,6 +178,9 @@ events:
     era: before-confederation
     module: law
     pages: [/learn/law/common-law-and-civil-law]
+    sources:
+      - label: "Department of Justice: The Beginnings of Civil Law on Canadian Soil"
+        url: https://justice.gc.ca/eng/rp-pr/other-autre/civil/civil.html
     entities: [term:civil-law]
 
   - id: confederation
@@ -150,6 +190,9 @@ events:
     era: building-the-country
     module: constitution
     pages: [/learn/constitution/constitution-act-1867]
+    sources:
+      - label: "Justice Laws: Constitution Act, 1867"
+        url: https://laws-lois.justice.gc.ca/eng/const/page-1.html
     entities: [doc:constitution-act-1867, term:confederation]
 
   - id: red-river-resistance
@@ -158,6 +201,9 @@ events:
     text: Canada arranges to take over Rupert's Land; the Métis at Red River, led by Louis Riel, form a provisional government (the Red River Resistance).
     era: building-the-country
     pages: [/provinces/manitoba]
+    sources:
+      - label: "The Canadian Encyclopedia: Louis Riel timeline"
+        url: https://www.thecanadianencyclopedia.ca/en/timeline/louis-riel
     people: [person:louis-riel]
     entities: [term:red-river-resistance, term:provisional-government, term:metis]
 
@@ -172,6 +218,9 @@ events:
       - /provinces/northwest-territories
       - /provinces/manitoba
       - /provinces/saskatchewan
+    sources:
+      - label: "Department of Justice: Rupert's Land and North-Western Territory Order (Constitution Acts consolidation)"
+        url: https://www.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t31.html
     entities: [term:territory]
 
   - id: manitoba-act-1870
@@ -180,6 +229,9 @@ events:
     text: The Manitoba Act makes Manitoba a province on July 15, with English and French built into its founding law.
     era: building-the-country
     pages: [/provinces/manitoba]
+    sources:
+      - label: "Department of Justice: Manitoba Act, 1870 (Constitution Acts consolidation)"
+        url: https://www.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t22.html
     entities: [term:manitoba-act-1870, doc:manitoba-act-1870]
 
   - id: british-columbia-joins-1871
@@ -188,6 +240,9 @@ events:
     text: British Columbia joins Canada, on the promise of a railway link to the rest of the country.
     era: building-the-country
     pages: [/provinces/british-columbia]
+    sources:
+      - label: "Department of Justice: British Columbia Terms of Union (Constitution Acts consolidation)"
+        url: https://www.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t41.html
     entities: [term:terms-of-union]
 
   - id: treaty-1
@@ -197,6 +252,9 @@ events:
     era: building-the-country
     module: indigenous
     pages: [/learn/indigenous/treaties]
+    sources:
+      - label: "Crown-Indigenous Relations Canada: About treaties"
+        url: https://www.rcaanc-cirnac.gc.ca/eng/1100100028574/1529354437231
     entities: [term:numbered-treaties]
 
   - id: prince-edward-island-joins-1873
@@ -205,7 +263,23 @@ events:
     text: Prince Edward Island joins Canada, six years after the first four provinces.
     era: building-the-country
     pages: [/provinces/prince-edward-island]
+    sources:
+      - label: "Department of Justice: Prince Edward Island Terms of Union (Constitution Acts consolidation)"
+        url: https://www.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t61.html
     entities: [term:terms-of-union]
+
+  - id: pacific-scandal-prorogation-1873
+    title: The Pacific Scandal prorogation
+    date: 1873
+    text: During the Pacific Scandal, John A. Macdonald, losing support in the House, is granted a prorogation; he resigns a few weeks after Parliament returns.
+    era: building-the-country
+    module: crown
+    pages: [/learn/crown/reserve-powers]
+    sources:
+      - label: "House of Commons Procedure and House Affairs Committee: Report 18 (2021), on prorogation"
+        url: https://www.ourcommons.ca/documentviewer/en/43-2/PROC/report-18/page-72
+    people: [person:john-a-macdonald]
+    entities: [term:prorogation, event:prorogation-2008]
 
   - id: supreme-court-created
     title: The Supreme Court is created
@@ -214,6 +288,9 @@ events:
     era: building-the-country
     module: law
     pages: [/learn/law/supreme-court]
+    sources:
+      - label: "Supreme Court of Canada: History"
+        url: https://www.scc-csc.ca/visit-visitez/history-histoire/
     entities: [org:supreme-court, org:parliament]
 
   - id: indian-act-1876
@@ -223,6 +300,9 @@ events:
     era: building-the-country
     module: indigenous
     pages: [/learn/indigenous/indian-act]
+    sources:
+      - label: "The Canadian Encyclopedia: Indian Act"
+        url: https://www.thecanadianencyclopedia.ca/en/article/indian-act
     entities: [doc:indian-act]
 
   - id: potlatch-ban-1884
@@ -232,6 +312,9 @@ events:
     era: building-the-country
     module: indigenous
     pages: [/learn/indigenous/indian-act]
+    sources:
+      - label: "UBC Indigenous Foundations: The Indian Act"
+        url: https://indigenousfoundations.arts.ubc.ca/the_indian_act/
     entities: [doc:indian-act]
 
   - id: riel-executed-1885
@@ -240,6 +323,11 @@ events:
     text: Louis Riel is executed for treason after the North-West Resistance.
     era: building-the-country
     pages: [/provinces/manitoba]
+    sources:
+      - label: "The Canadian Encyclopedia: Louis Riel timeline"
+        url: https://www.thecanadianencyclopedia.ca/en/timeline/louis-riel
+      - label: "Manitoba Historical Society: Louis Riel"
+        url: https://mhs.mb.ca/docs/people/riel_l.shtml
     people: [person:louis-riel]
 
   - id: criminal-code-1892
@@ -249,7 +337,24 @@ events:
     era: building-the-country
     module: law
     pages: [/learn/law/criminal-law]
+    sources:
+      - label: "Department of Justice: The Criminal Code of Canada"
+        url: https://justice.gc.ca/eng/csj-sjc/ccc/index.html
     entities: [term:criminal-code]
+
+  - id: maritime-bank-case-1892
+    title: The Maritime Bank case
+    date: 1892
+    text: In the *Maritime Bank* case, the Privy Council settles that a Lieutenant Governor represents the Crown directly for provincial purposes. (Wikipedia's article on lieutenant governors dates the ruling 1882; the law reports cite it as [1892] A.C. 437.)
+    era: building-the-country
+    module: crown
+    pages: [/learn/crown/governor-general]
+    sources:
+      - label: "Wikipedia: List of Canadian appeals to the Judicial Committee of the Privy Council, 1890–1899"
+        url: https://en.wikipedia.org/wiki/List_of_Canadian_appeals_to_the_Judicial_Committee_of_the_Privy_Council,_1890%E2%80%931899
+      - label: "Wikipedia: Lieutenant governor (Canada)"
+        url: https://en.wikipedia.org/wiki/Lieutenant_governor_(Canada)
+    entities: [org:lieutenant-governor, org:judicial-committee-of-the-privy-council]
 
   - id: yukon-territory-1898
     title: Yukon becomes a territory
@@ -260,6 +365,9 @@ events:
     pages:
       - /provinces/yukon
       - { page: /learn/federalism/territories, label: Territories }
+    sources:
+      - label: "Canadian Heritage: Yukon symbols and history"
+        url: https://www.canada.ca/en/canadian-heritage/services/provincial-territorial-symbols-canada/yukon.html
     entities: [term:territory]
 
   - id: alberta-and-saskatchewan-1905
@@ -268,7 +376,25 @@ events:
     text: Parliament creates Alberta and Saskatchewan out of the North-West Territories.
     era: building-the-country
     pages: [/provinces/alberta, /provinces/saskatchewan]
+    sources:
+      - label: "Department of Justice: The Alberta Act (Constitution Acts consolidation)"
+        url: https://www.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t121.html
+      - label: "Department of Justice: The Saskatchewan Act (Constitution Acts consolidation)"
+        url: https://www.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t131.html
     entities: [term:alberta-act]
+
+  - id: union-government-1917
+    title: The Union Government
+    date: 1917-10-12
+    text: On October 12, during the First World War, Robert Borden forms the Union Government, Canada's only federal coalition.
+    era: building-the-country
+    module: parliament
+    pages: [/learn/parliament/confidence]
+    sources:
+      - label: "House of Commons Procedure and Practice, 4th ed., Appendix 6"
+        url: https://www.ourcommons.ca/procedure-and-practice-4/app06-e.html
+    people: [person:robert-borden]
+    entities: [term:coalition]
 
   - id: residential-schools-mandatory-1920
     title: Residential school attendance made mandatory
@@ -277,6 +403,9 @@ events:
     era: building-the-country
     module: indigenous
     pages: [/learn/indigenous/indian-act]
+    sources:
+      - label: "National Centre for Truth and Reconciliation: Residential school timeline"
+        url: https://nctr.ca/exhibits/residential-school-timeline/
     entities: [term:residential-schools, doc:indian-act]
 
   - id: williams-treaties-1923
@@ -286,6 +415,9 @@ events:
     era: building-the-country
     module: indigenous
     pages: [/learn/indigenous/treaties]
+    sources:
+      - label: "Crown-Indigenous Relations Canada: Upper Canada Land Surrenders and the Williams Treaties"
+        url: https://www.rcaanc-cirnac.gc.ca/eng/1360941656761/1544619778887
     entities: [term:treaty]
 
   - id: king-byng-affair
@@ -299,6 +431,11 @@ events:
       - { page: /learn/parliament/confidence, label: Confidence }
       - { page: /learn/constitution/conventions, label: Conventions }
       - { page: /prime-ministers, label: Prime ministers }
+    sources:
+      - label: "House of Commons Procedure and Practice, 4th ed., Appendix 6"
+        url: https://www.ourcommons.ca/procedure-and-practice-4/app06-e.html
+      - label: "Dictionary of Canadian Biography: Julian Byng"
+        url: https://www.biographi.ca/en/bio/byng_julian_hedworth_george_16E.html
     people: [person:william-lyon-mackenzie-king, person:julian-byng, person:arthur-meighen]
     entities: [org:governor-general, term:reserve-powers]
     page: /learn/crown/reserve-powers#1926-the-kingbyng-affair
@@ -312,6 +449,9 @@ events:
     pages:
       - /learn/crown/reserve-powers
       - { page: /learn/constitution/conventions, label: Conventions }
+    sources:
+      - label: "Museum of Australian Democracy: Balfour Report, 1926"
+        url: https://www.foundingdocs.gov.au/resources/transcripts/cth11_doc_1926.pdf
     entities: [org:governor-general, event:king-byng-affair]
 
   - id: persons-case
@@ -323,6 +463,9 @@ events:
     pages:
       - /learn/constitution/constitution-act-1867
       - { page: /learn/law/supreme-court, label: Supreme Court }
+    sources:
+      - label: "Centre for Constitutional Studies: Living Tree Doctrine"
+        url: https://www.constitutionalstudies.ca/2019/07/living-tree-doctrine/
     entities: [term:persons-case, term:living-tree, org:senate, term:judicial-committee-of-the-privy-council, case:persons-case]
 
   - id: natural-resources-transfer-1930
@@ -331,6 +474,9 @@ events:
     text: The Natural Resources Transfer Agreements finally give Manitoba, Saskatchewan and Alberta control of their land and resources.
     era: becoming-fully-independent
     pages: [/provinces/alberta, /provinces/saskatchewan]
+    sources:
+      - label: "Department of Justice: British North America Act, 1930 (Constitution Acts consolidation)"
+        url: https://www.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t161.html
     entities: [term:natural-resources-transfer-agreements]
 
   - id: statute-of-westminster
@@ -340,6 +486,9 @@ events:
     era: becoming-fully-independent
     module: constitution
     pages: [/learn/constitution/patriation-1982, /learn/constitution]
+    sources:
+      - label: "Intergovernmental Affairs: Statute of Westminster"
+        url: https://www.canada.ca/en/intergovernmental-affairs/services/federation/statute-westminster.html
     entities: [doc:statute-of-westminster-1931]
 
   - id: criminal-appeals-to-london-end-1933
@@ -349,6 +498,9 @@ events:
     era: becoming-fully-independent
     module: law
     pages: [/learn/law/supreme-court]
+    sources:
+      - label: "Supreme Court of Canada: History"
+        url: https://www.scc-csc.ca/visit-visitez/history-histoire/
     entities: [term:judicial-committee-of-the-privy-council]
 
   - id: commission-of-government-1934
@@ -357,6 +509,9 @@ events:
     text: Newfoundland, near bankruptcy, has its legislature suspended and is run by an appointed Commission of Government.
     era: becoming-fully-independent
     pages: [/provinces/newfoundland-and-labrador]
+    sources:
+      - label: "House of Assembly of Newfoundland and Labrador: History of the House"
+        url: https://assembly.nl.ca/VisitLearn/History.aspx
     entities: [term:commission-of-government]
 
   - id: bank-of-canada-1935
@@ -366,6 +521,9 @@ events:
     era: becoming-fully-independent
     module: government
     pages: [/learn/government/bank-of-canada-vs-mint]
+    sources:
+      - label: "Bank of Canada: Our history"
+        url: https://www.bankofcanada.ca/about/our-history/
     entities: [org:bank-of-canada]
 
   - id: inuit-reference-1939
@@ -375,6 +533,9 @@ events:
     era: becoming-fully-independent
     module: indigenous
     pages: [/learn/indigenous/section-35]
+    sources:
+      - label: "LawNow: The Inuit Status Case"
+        url: https://www.lawnow.org/famous-cases-the-inuit-status-case/
     entities: [doc:constitution-act-1867/s91-24, term:inuit, org:supreme-court, case:re-eskimo-1939]
 
   - id: saskatchewan-hospital-insurance-1947
@@ -383,6 +544,22 @@ events:
     text: Saskatchewan launches universal hospital insurance and passes one of Canada's first bills of rights.
     era: becoming-fully-independent
     pages: [/provinces/saskatchewan]
+    sources:
+      - label: "Encyclopedia of Saskatchewan: Hospital Services Plan"
+        url: https://esask.uregina.ca/entry/hospital_services_plan.html
+
+  - id: letters-patent-1947
+    title: The Letters Patent, 1947
+    date: 1947
+    text: George VI issues Letters Patent authorizing the Governor General to exercise most of the Crown's powers in respect of Canada.
+    era: becoming-fully-independent
+    module: crown
+    pages: [/learn/crown/governor-general]
+    sources:
+      - label: "Canadian Heritage: The Governor General"
+        url: https://www.canada.ca/en/canadian-heritage/services/crown-canada/governor-general.html
+    people: [person:george-vi]
+    entities: [term:letters-patent-1947, org:governor-general]
 
   - id: newfoundland-referendums-1948
     title: Newfoundland's referendums
@@ -391,6 +568,9 @@ events:
     text: In two referendums (June 3 and July 22), Newfoundlanders narrowly choose to join Canada.
     era: becoming-fully-independent
     pages: [/provinces/newfoundland-and-labrador]
+    sources:
+      - label: "Wikipedia: 1948 Newfoundland referendums"
+        url: https://en.wikipedia.org/wiki/1948_Newfoundland_referendums
     entities: [term:referendum]
 
   - id: newfoundland-joins-1949
@@ -399,6 +579,9 @@ events:
     text: Newfoundland joins Canada on March 31, the most recent province to do so.
     era: becoming-fully-independent
     pages: [/provinces/newfoundland-and-labrador]
+    sources:
+      - label: "Canadian Heritage: Newfoundland and Labrador symbols and history"
+        url: https://www.canada.ca/en/canadian-heritage/services/provincial-territorial-symbols-canada/newfoundland-and-labrador.html
     entities: [term:terms-of-union]
 
   - id: privy-council-appeals-end-1949
@@ -408,6 +591,9 @@ events:
     era: becoming-fully-independent
     module: law
     pages: [/learn/law/supreme-court]
+    sources:
+      - label: "Supreme Court of Canada: History"
+        url: https://www.scc-csc.ca/visit-visitez/history-histoire/
     entities: [org:supreme-court, term:judicial-committee-of-the-privy-council]
 
   - id: indian-act-changes-1951
@@ -417,7 +603,25 @@ events:
     era: becoming-fully-independent
     module: indigenous
     pages: [/learn/indigenous/indian-act]
+    sources:
+      - label: "The Canadian Encyclopedia: Indian Act"
+        url: https://www.thecanadianencyclopedia.ca/en/article/indian-act
+      - label: "Union of BC Indian Chiefs: Indian Act prohibits raising money for land claims (to 1951)"
+        url: https://www.ubcic.bc.ca/indian_act_prohibits_raising_money_or_hiring_lawyers_to_pursue_land_claims_to_1951
     entities: [doc:indian-act]
+
+  - id: queen-of-canada-1953
+    title: Queen of Canada
+    date: 1953
+    text: Under a new Royal Style and Titles Act, Elizabeth II is proclaimed Queen of Canada, the first monarch with a separate Canadian title.
+    era: becoming-fully-independent
+    module: crown
+    pages: [/learn/crown]
+    sources:
+      - label: "Canadian Heritage: The Monarch"
+        url: https://www.canada.ca/en/canadian-heritage/services/crown-canada/monarch.html
+    people: [person:elizabeth-ii]
+    entities: [org:crown]
 
   - id: equalization-begins-1957
     title: Equalization begins
@@ -426,6 +630,9 @@ events:
     era: becoming-fully-independent
     module: federalism
     pages: [/learn/federalism/money-and-equalization]
+    sources:
+      - label: "Finance Canada: Equalization program"
+        url: https://www.canada.ca/en/department-finance/programs/federal-transfers/equalization.html
     entities: [term:equalization]
 
   - id: canadian-bill-of-rights
@@ -437,6 +644,9 @@ events:
     pages:
       - /learn/charter
       - { page: /learn/constitution/constitution-act-1867, label: 1867 Act }
+    sources:
+      - label: "Justice Laws: Canadian Bill of Rights"
+        url: https://laws-lois.justice.gc.ca/eng/acts/c-12.3/page-1.html
     entities: [term:canadian-bill-of-rights, org:parliament]
 
   - id: first-nations-federal-vote-1960
@@ -446,6 +656,9 @@ events:
     era: becoming-fully-independent
     module: indigenous
     pages: [/learn/indigenous/indian-act]
+    sources:
+      - label: "Elections Canada: A History of the Vote in Canada, chapter 3"
+        url: https://www.elections.ca/content.aspx?section=res&dir=his/chap3&document=index&lang=e
     entities: [doc:indian-act, term:status]
 
   - id: last-reservation-1961
@@ -455,6 +668,9 @@ events:
     era: becoming-fully-independent
     module: crown
     pages: [/learn/crown/reserve-powers]
+    sources:
+      - label: "Encyclopedia of Saskatchewan: Frank Lindsay Bastedo"
+        url: https://esask.uregina.ca/entry/bastedo_frank_lindsay_1886-1973.html
     entities: [term:reservation, term:lieutenant-governor, term:reserve-powers]
 
   - id: saskatchewan-medicare-1962
@@ -463,6 +679,9 @@ events:
     text: Saskatchewan brings in universal medical care insurance despite a doctors' strike.
     era: becoming-fully-independent
     pages: [/provinces/saskatchewan]
+    sources:
+      - label: "Parks Canada: The Saskatchewan Doctors' Strike of 1962"
+        url: https://parks.canada.ca/culture/designation/evenement-event/greve-medecins-doctors-strike
     entities: [term:medicare]
 
   - id: senate-retirement-age-1965
@@ -474,6 +693,9 @@ events:
     pages:
       - /learn/parliament/senate
       - { page: /learn/constitution/constitution-act-1867, label: 1867 Act }
+    sources:
+      - label: "Justice Laws: Endnotes to the Constitution Acts (note 18)"
+        url: https://laws-lois.justice.gc.ca/eng/const/endNotes.html
     entities: [org:senate]
 
   - id: medical-care-act-1966
@@ -485,6 +707,9 @@ events:
     pages:
       - /provinces/saskatchewan
       - { page: /learn/federalism/money-and-equalization, label: Money }
+    sources:
+      - label: "Library of Parliament: The Canada Health Act, Overview and Options (94-4E)"
+        url: https://publications.gc.ca/Collection-R/LoPBdP/CIR/944-e.htm
     entities: [term:medicare, org:parliament]
 
   - id: national-assembly-1968
@@ -493,6 +718,9 @@ events:
     text: Quebec renames its legislature the National Assembly and abolishes its Legislative Council, the last province to have one.
     era: becoming-fully-independent
     pages: [/provinces/quebec]
+    sources:
+      - label: "Canadian Parliamentary Review: Quebec's National Assembly"
+        url: https://www.revparl.ca/english/issue_param_210_art_1478.html
     entities: [term:national-assembly, term:legislative-council]
 
   - id: white-paper-1969
@@ -502,6 +730,9 @@ events:
     era: becoming-fully-independent
     module: indigenous
     pages: [/learn/indigenous/indian-act]
+    sources:
+      - label: "History of Rights in Canada: 1969 White Paper on Indian Policy"
+        url: https://historyofrights.ca/encyclopaedia/main-events/1969-white-paper-indian-policy/
     entities: [term:white-paper-1969, doc:indian-act]
 
   - id: calder
@@ -515,6 +746,9 @@ events:
       - /learn/indigenous/treaties
       - /provinces/british-columbia
       - { page: /learn/indigenous, label: Indigenous peoples }
+    sources:
+      - label: "Crown-Indigenous Relations Canada: Modern treaties"
+        url: https://www.rcaanc-cirnac.gc.ca/eng/1677073191939/1677073214344
     entities: [term:calder, term:aboriginal-title, case:calder]
 
   - id: james-bay-agreement-1975
@@ -524,6 +758,9 @@ events:
     era: becoming-fully-independent
     module: indigenous
     pages: [/learn/indigenous/treaties]
+    sources:
+      - label: "Crown-Indigenous Relations Canada: Modern treaties"
+        url: https://www.rcaanc-cirnac.gc.ca/eng/1677073191939/1677073214344
     entities: [term:modern-treaty]
 
   - id: quebec-charter-of-rights-1975
@@ -532,6 +769,9 @@ events:
     text: Quebec adopts its own Charter of Human Rights and Freedoms.
     era: becoming-fully-independent
     pages: [/provinces/quebec]
+    sources:
+      - label: "Quebec Human Rights Commission: Charter of Human Rights and Freedoms"
+        url: https://www.cdpdj.qc.ca/en/your-rights/the-laws-protecting-your-rights/charter
     entities: [term:quebec-charter-of-human-rights-and-freedoms]
 
   - id: bill-101
@@ -540,7 +780,27 @@ events:
     text: Quebec passes the Charter of the French Language (Bill 101).
     era: becoming-fully-independent
     pages: [/provinces/quebec]
+    sources:
+      - label: "LégisQuébec: Charter of the French language"
+        url: https://www.legisquebec.gouv.qc.ca/en/document/cs/C-11
+      - label: "Wikipedia: Charter of the French Language (royal assent August 26, 1977)"
+        url: https://en.wikipedia.org/wiki/Charter_of_the_French_Language
     entities: [term:charter-of-the-french-language, term:bill-101]
+
+  - id: clark-government-defeated-1979
+    title: The Clark government falls
+    date: 1979-12
+    text: In December, Joe Clark's minority government loses a vote on its budget, and an election follows.
+    era: becoming-fully-independent
+    module: parliament
+    pages: [/learn/parliament/confidence]
+    sources:
+      - label: "The Canadian Encyclopedia: Elections of 1979 and 1980"
+        url: https://www.thecanadianencyclopedia.ca/en/article/elections-of-1979-and-1980-feature
+      - label: "Elections Canada: History of Election Outcomes (31st Parliament dissolved December 14, 1979)"
+        url: https://www.elections.ca/content.aspx?section=vot&dir=bkg&document=heo&lang=e
+    people: [person:joe-clark]
+    entities: [term:confidence-vote, term:minority-government]
 
   - id: quebec-referendum-1980
     title: Quebec's first referendum
@@ -551,6 +811,9 @@ events:
     pages:
       - /provinces/quebec
       - { page: /learn/constitution/patriation-1982, label: Patriation }
+    sources:
+      - label: "Élections Québec: 1980 referendum results"
+        url: https://www.electionsquebec.qc.ca/en/results-and-statistics/referendum-on-the-1980-sovereignty-association-proposal-for-quebec/
     entities: [term:sovereignty-association, term:referendum]
 
   - id: patriation-reference
@@ -563,6 +826,9 @@ events:
       - /learn/constitution/patriation-1982
       - { page: /learn/constitution/conventions, label: Conventions }
       - { page: /learn/law/supreme-court, label: Supreme Court }
+    sources:
+      - label: "W.R. Lederman, \"The Supreme Court of Canada and Basic Constitutional Amendment\" (1982)"
+        url: https://lawjournal.mcgill.ca/wp-content/uploads/pdf/2257741-lederman.pdf
     entities: [term:patriation-reference, term:constitutional-convention, org:supreme-court, case:patriation-reference]
 
   - id: patriation-deal-1981
@@ -574,6 +840,9 @@ events:
     pages:
       - /learn/constitution/patriation-1982
       - { page: /learn/charter/notwithstanding-clause, label: Section 33 }
+    sources:
+      - label: "Library of Parliament: Quebec's Constitutional Veto (BP-295E)"
+        url: https://publications.gc.ca/Collection-R/LoPBdP/BP/bp295-e.htm
     people: [person:pierre-trudeau, person:rene-levesque]
     entities: [doc:charter/s33, term:notwithstanding-clause]
 
@@ -587,6 +856,9 @@ events:
       - /learn/constitution/patriation-1982
       - /learn/constitution
       - /provinces/quebec
+    sources:
+      - label: "Justice Laws: Endnotes to the Constitution Acts"
+        url: https://laws-lois.justice.gc.ca/eng/const/endNotes.html
     people: [person:pierre-trudeau, person:elizabeth-ii]
     entities: [doc:constitution-act-1982, doc:charter, term:patriation]
 
@@ -599,6 +871,9 @@ events:
     pages:
       - /provinces/alberta
       - { page: /learn/federalism/division-of-powers, label: Division of powers }
+    sources:
+      - label: "Justice Laws: Endnotes to the Constitution Acts"
+        url: https://laws-lois.justice.gc.ca/eng/const/endNotes.html
     entities: [doc:constitution-act-1867/s92a]
 
   - id: quebec-veto-reference
@@ -608,6 +883,9 @@ events:
     era: charter-era
     module: constitution
     pages: [/learn/constitution/patriation-1982]
+    sources:
+      - label: "Library of Parliament: Quebec's Constitutional Veto (BP-295E)"
+        url: https://publications.gc.ca/Collection-R/LoPBdP/BP/bp295-e.htm
     entities: [term:quebec-veto-reference, org:supreme-court, case:quebec-veto-reference]
 
   - id: section-35-amendment-1983
@@ -619,6 +897,9 @@ events:
     pages:
       - /learn/indigenous/section-35
       - { page: /learn/constitution/amending-formula, label: Amending formula }
+    sources:
+      - label: "Justice Laws: Endnotes to the Constitution Acts (notes 97–98)"
+        url: https://laws-lois.justice.gc.ca/eng/const/endNotes.html
     entities: [doc:constitution-act-1982/s35, term:land-claims-agreement]
 
   - id: equality-rights-1985
@@ -628,6 +909,9 @@ events:
     era: charter-era
     module: charter
     pages: [/learn/charter/your-rights]
+    sources:
+      - label: "Justice Laws: Constitution Act, 1982, s. 32(2)"
+        url: https://laws-lois.justice.gc.ca/eng/const/page-12.html
     entities: [doc:charter/s15]
 
   - id: bill-c-31
@@ -637,6 +921,9 @@ events:
     era: charter-era
     module: indigenous
     pages: [/learn/indigenous/indian-act]
+    sources:
+      - label: "The Canadian Encyclopedia: Indian Act"
+        url: https://www.thecanadianencyclopedia.ca/en/article/indian-act
     entities: [term:bill-c-31, doc:indian-act]
 
   - id: manitoba-language-rights-1985
@@ -645,6 +932,9 @@ events:
     text: The Supreme Court rules Manitoba's English-only laws invalid and gives the province time to re-enact them in both languages.
     era: charter-era
     pages: [/provinces/manitoba]
+    sources:
+      - label: "Supreme Court of Canada: case 18606"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/18606/
     entities: [org:supreme-court, case:manitoba-language-rights-reference]
 
   - id: r-v-oakes
@@ -657,6 +947,9 @@ events:
       - /learn/charter/reasonable-limits
       - { page: /learn/charter/landmark-cases, label: Landmark cases }
       - { page: /learn/charter, label: Charter }
+    sources:
+      - label: "Supreme Court of Canada: case 17550"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/17550/
     entities: [case:r-v-oakes]
 
   - id: meech-lake-accord
@@ -668,6 +961,9 @@ events:
     pages:
       - /learn/constitution/patriation-1982
       - /provinces/quebec
+    sources:
+      - label: "Centre for Constitutional Studies: Meech Lake Accord"
+        url: https://www.constitutionalstudies.ca/2019/07/meech-lake-accord/
     people: [person:brian-mulroney]
     entities: [term:meech-lake-accord]
 
@@ -678,6 +974,9 @@ events:
     era: charter-era
     module: charter
     pages: [/learn/charter/landmark-cases]
+    sources:
+      - label: "Supreme Court of Canada: case 19556"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/19556/
     entities: [case:r-v-morgentaler]
 
   - id: ford-v-quebec
@@ -689,6 +988,11 @@ events:
     pages:
       - /learn/charter/notwithstanding-clause
       - { page: /learn/charter/landmark-cases, label: Landmark cases }
+    sources:
+      - label: "Supreme Court of Canada: case 20306"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/20306/
+      - label: "Charterpedia: section 33"
+        url: https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/check/art33.html
     entities: [case:ford-v-quebec]
 
   - id: meech-lake-fails-1990
@@ -698,6 +1002,9 @@ events:
     era: charter-era
     module: constitution
     pages: [/learn/constitution/patriation-1982, /provinces/quebec]
+    sources:
+      - label: "Centre for Constitutional Studies: Meech Lake Accord"
+        url: https://www.constitutionalstudies.ca/2019/07/meech-lake-accord/
     entities: [term:meech-lake-accord]
 
   - id: sparrow
@@ -709,7 +1016,23 @@ events:
     pages:
       - /learn/indigenous/section-35
       - { page: /learn/indigenous, label: Indigenous peoples }
+    sources:
+      - label: "Supreme Court of Canada: case 20311"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/20311/
     entities: [term:sparrow, doc:constitution-act-1982/s35, case:sparrow]
+
+  - id: extra-senators-1990
+    title: Eight extra senators
+    date: 1990
+    text: For the only time, the Prime Minister uses section 26 to add eight senators, to pass the goods and services tax.
+    era: charter-era
+    module: parliament
+    pages: [/learn/parliament/senate]
+    sources:
+      - label: "House of Commons Procedure and Practice, 4th ed., ch. 1"
+        url: https://www.ourcommons.ca/procedure-and-practice-4/ch01-3-e.html
+    people: [person:brian-mulroney]
+    entities: [org:senate]
 
   - id: charlottetown-accord-1992
     title: The Charlottetown Accord
@@ -721,6 +1044,9 @@ events:
       - /learn/constitution/patriation-1982
       - /learn/indigenous/self-government
       - /provinces/quebec
+    sources:
+      - label: "Élections Québec: Referendum on the Charlottetown accord"
+        url: https://www.electionsquebec.qc.ca/en/results-and-statistics/referendum-on-the-charlottetown-constitutional-accord/
     entities: [term:charlottetown-accord, term:referendum]
 
   - id: nunavut-agreement-1993
@@ -733,6 +1059,9 @@ events:
       - /provinces/nunavut
       - /learn/indigenous/treaties
       - { page: /learn/federalism/territories, label: Territories }
+    sources:
+      - label: "Justice Laws: Nunavut Land Claims Agreement Act"
+        url: https://laws-lois.justice.gc.ca/eng/acts/N-28.7/page-1.html
     entities: [term:nunavut-agreement, term:land-claims-agreement]
 
   - id: new-brunswick-amendment-1993
@@ -744,6 +1073,9 @@ events:
     pages:
       - /provinces/new-brunswick
       - { page: /learn/constitution/amending-formula, label: Amending formula }
+    sources:
+      - label: "Justice Laws: Endnotes to the Constitution Acts (note 86)"
+        url: https://laws-lois.justice.gc.ca/eng/const/endNotes.html
     entities: [doc:charter, term:official-languages]
 
   - id: civil-code-of-quebec-1994
@@ -753,6 +1085,9 @@ events:
     era: charter-era
     module: law
     pages: [/learn/law/common-law-and-civil-law, /provinces/quebec]
+    sources:
+      - label: "Courthouse Libraries BC: Laws of Quebec"
+        url: https://www.courthouselibrary.ca/how-we-can-help/our-legal-knowledge-base/laws-quebec-locating-code-acts-regulations
     entities: [term:civil-code-of-quebec]
 
   - id: quebec-referendum-1995
@@ -764,6 +1099,9 @@ events:
     pages:
       - /provinces/quebec
       - { page: /learn/constitution/patriation-1982, label: Patriation }
+    sources:
+      - label: "Élections Québec: 1995 referendum results"
+        url: https://www.electionsquebec.qc.ca/en/results-and-statistics/1995-referendum-on-quebecs-accession-to-sovereignty/
     entities: [term:referendum]
 
   - id: inherent-right-policy-1995
@@ -773,6 +1111,9 @@ events:
     era: charter-era
     module: indigenous
     pages: [/learn/indigenous/self-government]
+    sources:
+      - label: "Crown-Indigenous Relations Canada: The Inherent Right policy"
+        url: https://www.rcaanc-cirnac.gc.ca/eng/1100100031843/1539869205136
     entities: [term:inherent-right-of-self-government, doc:constitution-act-1982/s35]
 
   - id: regional-veto-1996
@@ -784,6 +1125,9 @@ events:
     pages:
       - /learn/constitution/amending-formula
       - { page: /learn/constitution/patriation-1982, label: Patriation }
+    sources:
+      - label: "Justice Laws: An Act respecting constitutional amendments"
+        url: https://laws-lois.justice.gc.ca/eng/acts/C-36.7/page-1.html
     entities: [term:regional-veto]
 
   - id: delgamuukw
@@ -796,6 +1140,9 @@ events:
       - /learn/indigenous/section-35
       - /provinces/british-columbia
       - { page: /learn/indigenous, label: Indigenous peoples }
+    sources:
+      - label: "Supreme Court of Canada: case 23799"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/23799/
     entities: [term:delgamuukw, term:aboriginal-title, case:delgamuukw]
 
   - id: secession-reference
@@ -805,6 +1152,9 @@ events:
     era: charter-era
     module: law
     pages: [/learn/law/supreme-court, /provinces/quebec]
+    sources:
+      - label: "Supreme Court of Canada: case 25506"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/25506/
     entities: [case:secession-reference]
 
   - id: vriend-v-alberta
@@ -814,6 +1164,9 @@ events:
     era: charter-era
     module: charter
     pages: [/learn/charter/landmark-cases]
+    sources:
+      - label: "Supreme Court of Canada: case 25285"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/25285/
     entities: [case:vriend-v-alberta]
 
   - id: nunavut-created-1999
@@ -826,6 +1179,9 @@ events:
       - /provinces/nunavut
       - { page: /learn/federalism/territories, label: Territories }
       - /provinces/northwest-territories
+    sources:
+      - label: "Library of Parliament: Aboriginal Self-Government (PRB 99-19E)"
+        url: https://publications.gc.ca/Collection-R/LoPBdP/EB/prb9919-e.htm
     entities: [term:territory]
 
   - id: r-v-marshall
@@ -835,6 +1191,9 @@ events:
     era: charter-era
     module: indigenous
     pages: [/learn/indigenous/treaties, /provinces/nova-scotia]
+    sources:
+      - label: "Supreme Court of Canada: case 26014"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/26014/
     entities: [term:treaty-rights, term:peace-and-friendship-treaties, case:r-v-marshall]
 
   - id: clarity-act
@@ -843,6 +1202,9 @@ events:
     text: Parliament passes the Clarity Act in response to the Secession Reference.
     era: recent
     pages: [/provinces/quebec]
+    sources:
+      - label: "Justice Laws: Clarity Act"
+        url: https://laws-lois.justice.gc.ca/eng/acts/C-31.8/page-1.html
     entities: [term:clarity-act, case:secession-reference, doc:clarity-act]
 
   - id: nisgaa-final-agreement
@@ -852,6 +1214,9 @@ events:
     era: recent
     module: indigenous
     pages: [/learn/indigenous/treaties, /provinces/british-columbia]
+    sources:
+      - label: "Justice Laws: Nisga'a Final Agreement Act"
+        url: https://laws-lois.justice.gc.ca/eng/acts/N-23.3/page-1.html
     entities: [term:nisgaa-final-agreement, term:modern-treaty]
 
   - id: newfoundland-and-labrador-2001
@@ -860,6 +1225,21 @@ events:
     text: A constitutional amendment renames Newfoundland as Newfoundland and Labrador.
     era: recent
     pages: [/provinces/newfoundland-and-labrador, { page: /learn/constitution/amending-formula, label: Amending formula }]
+    sources:
+      - label: "House of Assembly of Newfoundland and Labrador: Newfoundland and Labrador Act"
+        url: https://www.assembly.nl.ca/legislation/sr/statutes/n03-1.htm
+
+  - id: royal-assent-act-2002
+    title: The Royal Assent Act
+    date: 2002-06-04
+    text: The Royal Assent Act, assented to on June 4, lets royal assent be given by written declaration as well as in a ceremony in the Senate.
+    era: recent
+    module: crown
+    pages: [/learn/crown/governor-general, /learn/parliament/how-a-bill-becomes-law]
+    sources:
+      - label: "Justice Laws: Royal Assent Act"
+        url: https://laws-lois.justice.gc.ca/eng/acts/R-8.6/page-1.html
+    entities: [term:royal-assent, term:written-declaration]
 
   - id: yukon-devolution-2003
     title: Yukon devolution
@@ -870,6 +1250,9 @@ events:
     pages:
       - /provinces/yukon
       - { page: /learn/federalism/territories, label: Territories }
+    sources:
+      - label: "Crown-Indigenous Relations Canada: Yukon devolution"
+        url: https://www.rcaanc-cirnac.gc.ca/eng/1352470994098/1535467403471
     entities: [term:devolution]
 
   - id: council-of-the-federation
@@ -879,6 +1262,9 @@ events:
     era: recent
     module: federalism
     pages: [/learn/federalism]
+    sources:
+      - label: "Canada's Premiers: About the Council of the Federation"
+        url: https://www.canadaspremiers.ca/about/
     entities: [term:council-of-the-federation]
 
   - id: haida-nation
@@ -890,6 +1276,9 @@ events:
     pages:
       - /learn/indigenous/section-35
       - { page: /learn/indigenous, label: Indigenous peoples }
+    sources:
+      - label: "Supreme Court of Canada: case 29419"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/29419/
     entities: [term:haida-nation, term:duty-to-consult, case:haida-nation]
 
   - id: same-sex-marriage-reference
@@ -899,6 +1288,9 @@ events:
     era: recent
     module: law
     pages: [/learn/law/supreme-court]
+    sources:
+      - label: "Supreme Court of Canada: case 29866"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/29866/
     entities: [org:supreme-court, term:reference, case:same-sex-marriage-reference]
 
   - id: labrador-inuit-agreement-2005
@@ -908,7 +1300,23 @@ events:
     era: recent
     module: indigenous
     pages: [/provinces/newfoundland-and-labrador, /learn/indigenous/self-government]
+    sources:
+      - label: "Crown-Indigenous Relations Canada: Labrador Inuit Land Claims Agreement annual report"
+        url: https://www.rcaanc-cirnac.gc.ca/eng/1328023902556/1542907157752
     entities: [term:nunatsiavut-government, term:land-claims-agreement]
+
+  - id: martin-government-defeated-2005
+    title: The Martin government falls
+    date: 2005-11-28
+    text: On November 28, the House passes an opposition motion that it has lost confidence in Paul Martin's minority government, and an election follows.
+    era: recent
+    module: parliament
+    pages: [/learn/parliament/confidence]
+    sources:
+      - label: "House of Commons Journals, November 28, 2005"
+        url: https://www.ourcommons.ca/DocumentViewer/en/38-1/house/sitting-159/journals
+    people: [person:paul-martin]
+    entities: [term:confidence-vote, term:minority-government]
 
   - id: quebecois-nation-2006
     title: The Québécois nation motion
@@ -916,6 +1324,9 @@ events:
     text: The House of Commons recognizes that the Québécois form a nation within a united Canada.
     era: recent
     pages: [/provinces/quebec]
+    sources:
+      - label: "House of Commons Journals, November 27, 2006"
+        url: https://www.ourcommons.ca/documentviewer/en/39-1/house/sitting-87/journals
     entities: [org:house-of-commons]
 
   - id: fixed-election-dates-2007
@@ -927,6 +1338,9 @@ events:
     pages:
       - /learn/elections/election-day
       - { page: /learn/elections, label: Elections }
+    sources:
+      - label: "LEGISinfo: Bill C-16 (39-1)"
+        url: https://www.parl.ca/legisinfo/en/bill/39-1/c-16
     entities: [term:fixed-election-date, doc:canada-elections-act/s56-1]
 
   - id: residential-schools-apology-2008
@@ -936,6 +1350,9 @@ events:
     era: recent
     module: indigenous
     pages: [/learn/indigenous/indian-act]
+    sources:
+      - label: "Crown-Indigenous Relations Canada: Statement of apology"
+        url: https://www.rcaanc-cirnac.gc.ca/eng/1100100015644/1571589171655
     entities: [term:residential-schools, term:truth-and-reconciliation-commission]
 
   - id: prorogation-2008
@@ -947,9 +1364,25 @@ events:
     pages:
       - /learn/crown/reserve-powers
       - { page: /learn/parliament/confidence, label: Confidence }
+    sources:
+      - label: "House of Commons Procedure and Practice, 3rd ed., ch. 8"
+        url: https://www.ourcommons.ca/procedure/procedure-and-practice-3/ch_08_2-e.html
     people: [person:stephen-harper, person:michaelle-jean]
     entities: [org:governor-general, term:reserve-powers]
     page: /learn/crown/reserve-powers#2008-the-prorogation
+
+  - id: contempt-of-parliament-2011
+    title: Found in contempt of Parliament
+    date: 2011-03-25
+    text: On March 25, the House agrees that Stephen Harper's minority government is in contempt of Parliament and has lost its confidence, and an election follows.
+    era: recent
+    module: parliament
+    pages: [/learn/parliament/confidence]
+    sources:
+      - label: "House of Commons Journals, March 25, 2011"
+        url: https://www.ourcommons.ca/DocumentViewer/en/40-3/house/sitting-149/journals
+    people: [person:stephen-harper]
+    entities: [term:confidence-vote, term:minority-government]
 
   - id: succession-to-the-throne-act-2013
     title: The Succession to the Throne Act
@@ -958,6 +1391,9 @@ events:
     era: recent
     module: crown
     pages: [/learn/crown/republic-question]
+    sources:
+      - label: "Justice Laws: Succession to the Throne Act, 2013"
+        url: https://laws-lois.justice.gc.ca/eng/acts/S-23.5/FullText.html
     entities: [org:crown]
 
   - id: senate-reform-reference
@@ -970,6 +1406,9 @@ events:
       - /learn/parliament/senate
       - { page: /learn/constitution/amending-formula, label: Amending formula }
       - { page: /learn/law/supreme-court, label: Supreme Court }
+    sources:
+      - label: "Supreme Court of Canada: case 35203"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/35203/
     entities: [term:reference-re-senate-reform, org:senate, term:amending-formula, case:senate-reform-reference]
 
   - id: tsilhqotin
@@ -982,6 +1421,9 @@ events:
       - /learn/indigenous/section-35
       - /provinces/british-columbia
       - { page: /learn/indigenous, label: Indigenous peoples }
+    sources:
+      - label: "Supreme Court of Canada: case 34986"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/34986/
     entities: [term:tsilhqotin, term:aboriginal-title, case:tsilhqotin]
 
   - id: northwest-territories-devolution-2014
@@ -990,7 +1432,23 @@ events:
     text: On April 1, the Northwest Territories takes over its public lands and resources.
     era: recent
     pages: [/provinces/northwest-territories, { page: /learn/federalism/territories, label: Territories }]
+    sources:
+      - label: "Crown-Indigenous Relations Canada: Northwest Territories devolution"
+        url: https://www.rcaanc-cirnac.gc.ca/eng/1352398433161/1539625360223
     entities: [term:devolution]
+
+  - id: senators-leave-caucus-2014
+    title: Liberal senators leave the caucus
+    date: 2014
+    text: The Liberal leader removes his party's senators from its parliamentary caucus, so they sit as independents.
+    era: recent
+    module: parliament
+    pages: [/learn/parliament/senate]
+    sources:
+      - label: "Wikipedia: Senate of Canada"
+        url: https://en.wikipedia.org/wiki/Senate_of_Canada
+    people: [person:justin-trudeau]
+    entities: [org:senate, term:caucus]
 
   - id: trc-calls-to-action-2015
     title: The TRC's Calls to Action
@@ -1001,6 +1459,9 @@ events:
     pages:
       - /learn/indigenous/indian-act
       - { page: /learn/indigenous, label: Indigenous peoples }
+    sources:
+      - label: "Crown-Indigenous Relations Canada: Delivering on the Calls to Action"
+        url: https://www.rcaanc-cirnac.gc.ca/eng/1524494530110/1557511412801
     entities: [term:truth-and-reconciliation-commission]
 
   - id: carter-v-canada
@@ -1010,6 +1471,9 @@ events:
     era: recent
     module: charter
     pages: [/learn/charter/landmark-cases]
+    sources:
+      - label: "Supreme Court of Canada: case 35591"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/35591/
     entities: [case:carter-v-canada]
 
   - id: daniels
@@ -1021,6 +1485,9 @@ events:
     pages:
       - /learn/indigenous/section-35
       - { page: /learn/indigenous, label: Indigenous peoples }
+    sources:
+      - label: "Supreme Court of Canada: case 35945"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/35945/
     entities: [term:daniels, doc:constitution-act-1867/s91-24, case:daniels]
 
   - id: r-v-jordan
@@ -1030,6 +1497,9 @@ events:
     era: recent
     module: charter
     pages: [/learn/charter/landmark-cases]
+    sources:
+      - label: "Supreme Court of Canada: case 36068"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/36068/
     entities: [case:r-v-jordan]
 
   - id: assisted-dying-law-2016
@@ -1039,6 +1509,9 @@ events:
     era: recent
     module: charter
     pages: [/learn/charter/landmark-cases]
+    sources:
+      - label: "Justice Laws: S.C. 2016, c. 3 (medical assistance in dying)"
+        url: https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2016_3/page-1.html
     entities: [term:medical-assistance-in-dying, case:carter-v-canada]
 
   - id: senate-advisory-board-2016
@@ -1048,6 +1521,9 @@ events:
     era: recent
     module: parliament
     pages: [/learn/parliament/senate]
+    sources:
+      - label: "Democratic Institutions: Independent Advisory Board for Senate Appointments announced"
+        url: https://www.canada.ca/en/democratic-institutions/news/2016/1/minister-of-democratic-institutions-announces-establishment-of-the-independent-advisory-board-for-senate-appointments.html
     entities: [term:independent-advisory-board-for-senate-appointments, org:senate]
 
   - id: electoral-reform-dropped-2017
@@ -1057,6 +1533,9 @@ events:
     era: recent
     module: elections
     pages: [/learn/elections/first-past-the-post]
+    sources:
+      - label: "Prime Minister of Canada: Minister of Democratic Institutions mandate letter (February 1, 2017)"
+        url: https://www.pm.gc.ca/en/mandate-letters/2017/02/01/archived-minister-democratic-institutions-mandate-letter
     entities: [term:first-past-the-post]
 
   - id: bc-dripa-2019
@@ -1065,6 +1544,9 @@ events:
     text: British Columbia passes DRIPA, the first Canadian law committing a government to align its laws with UNDRIP.
     era: recent
     pages: [/provinces/british-columbia]
+    sources:
+      - label: "BC Laws: Declaration on the Rights of Indigenous Peoples Act"
+        url: https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044
     entities: [term:dripa, term:undrip]
 
   - id: child-and-family-services-act-2019
@@ -1074,6 +1556,9 @@ events:
     era: recent
     module: indigenous
     pages: [/learn/indigenous/self-government]
+    sources:
+      - label: "Justice Laws: An Act respecting First Nations, Inuit and Métis children, youth and families"
+        url: https://laws-lois.justice.gc.ca/eng/acts/F-11.73/page-1.html
     entities: [term:self-government]
 
   - id: quebec-secularism-law-2019
@@ -1085,7 +1570,22 @@ events:
     pages:
       - /learn/charter/notwithstanding-clause
       - /provinces/quebec
+    sources:
+      - label: "National Assembly of Québec: Bill 21"
+        url: https://www.assnat.qc.ca/en/travaux-parlementaires/projets-loi/projet-loi-21-42-1.html
     entities: [term:bill-21, doc:charter/s33]
+
+  - id: succession-challenge-2020
+    title: The succession challenge ends
+    date: 2020-04-23
+    text: The Supreme Court declines to hear a challenge to the Succession to the Throne Act, 2013, leaving in place the Quebec Court of Appeal's 2019 ruling that the rules of succession aren't part of Canada's Constitution.
+    era: recent
+    module: crown
+    pages: [/learn/crown/republic-question]
+    sources:
+      - label: "Supreme Court of Canada: case 38986 (Motard v. Attorney General of Canada)"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/38986/
+    entities: [event:succession-to-the-throne-act-2013, org:supreme-court]
 
   - id: undrip-act-2021
     title: The UN Declaration Act
@@ -1096,6 +1596,9 @@ events:
     pages:
       - /learn/indigenous/self-government
       - { page: /learn/indigenous, label: Indigenous peoples }
+    sources:
+      - label: "Justice Laws: United Nations Declaration on the Rights of Indigenous Peoples Act"
+        url: https://laws-lois.justice.gc.ca/eng/acts/U-2.2/page-1.html
     entities: [term:declaration-on-the-rights-of-indigenous-peoples-act, term:undrip, doc:undrip-act]
 
   - id: carbon-pricing-reference-2021
@@ -1105,6 +1608,9 @@ events:
     era: recent
     module: federalism
     pages: [/learn/federalism/division-of-powers]
+    sources:
+      - label: "Supreme Court of Canada: case in brief, 2021 SCC 11"
+        url: https://www.scc-csc.ca/judgments-jugements/cb/2021/38663-38781-39116/
     entities: [term:national-concern, term:peace-order-and-good-government, org:supreme-court, case:carbon-pricing-references]
 
   - id: toronto-city-council-2021
@@ -1114,6 +1620,9 @@ events:
     era: recent
     module: federalism
     pages: [/learn/federalism/municipalities, /provinces/ontario]
+    sources:
+      - label: "Supreme Court of Canada: case in brief, 2021 SCC 34"
+        url: https://www.scc-csc.ca/judgments-jugements/cb/2021/38921/
     entities: [org:supreme-court, case:toronto-city-council-2021]
 
   - id: alberta-equalization-referendum-2021
@@ -1125,6 +1634,9 @@ events:
     pages:
       - /learn/federalism/money-and-equalization
       - /provinces/alberta
+    sources:
+      - label: "Elections Alberta: 2021 Senate and Referendum Report"
+        url: https://www.elections.ab.ca/uploads/2021-Senate-and-Referendum-Report.pdf
     entities: [term:equalization, term:referendum]
 
   - id: charles-iii-accession
@@ -1134,8 +1646,39 @@ events:
     era: recent
     module: crown
     pages: [/learn/crown]
+    sources:
+      - label: "The Royal Family: The King"
+        url: https://www.royal.uk/the-king
     people: [person:charles-iii]
     entities: [org:crown, term:king-of-canada]
+
+  - id: confidence-and-supply-2022
+    title: A confidence-and-supply agreement
+    date: 2022-03-22
+    end: 2024-09
+    text: On March 22, the Liberals and the NDP announce a supply and confidence agreement meant to last until June 2025; the NDP ends it early, in September 2024.
+    era: recent
+    module: parliament
+    pages: [/learn/parliament/confidence]
+    sources:
+      - label: "Prime Minister of Canada: Delivering for Canadians Now (March 22, 2022)"
+        url: https://www.pm.gc.ca/en/news/news-releases/2022/03/22/delivering-canadians-now
+      - label: "Wikipedia: Confidence and supply"
+        url: https://en.wikipedia.org/wiki/Confidence_and_supply
+    people: [person:justin-trudeau]
+    entities: [term:confidence-and-supply-agreement, term:minority-government]
+
+  - id: quebec-oath-law-2022
+    title: Quebec's oath law
+    date: 2022
+    text: Quebec passes a law so members of its National Assembly no longer have to swear an oath to the King.
+    era: recent
+    module: crown
+    pages: [/learn/crown, /learn/crown/republic-question, /provinces/quebec]
+    sources:
+      - label: "Justice Laws: Endnotes to the Constitution Acts (S.Q. 2022, c. 30)"
+        url: https://laws-lois.justice.gc.ca/eng/const/endNotes.html
+    entities: [org:national-assembly, org:crown]
 
   - id: quebec-bill-96-2022
     title: Bill 96
@@ -1144,7 +1687,25 @@ events:
     era: recent
     module: constitution
     pages: [/learn/constitution/amending-formula, /provinces/quebec]
+    sources:
+      - label: "National Assembly of Québec: Bill 96"
+        url: https://www.assnat.qc.ca/en/travaux-parlementaires/projets-loi/projet-loi-96-42-1.html
+      - label: "Justice Laws: Endnotes to the Constitution Acts (note 113)"
+        url: https://laws-lois.justice.gc.ca/eng/const/endNotes.html
     entities: [term:bill-96, doc:constitution-act-1867]
+
+  - id: coronation-2023
+    title: The coronation of Charles III
+    date: 2023-05-06
+    text: Charles III is crowned on May 6.
+    era: recent
+    module: crown
+    pages: [/learn/crown]
+    sources:
+      - label: "The Royal Family: The Coronation"
+        url: https://www.royal.uk/coronation
+    people: [person:charles-iii]
+    entities: [event:charles-iii-accession]
 
   - id: nunavut-devolution-agreement-2024
     title: Nunavut's devolution agreement
@@ -1152,6 +1713,9 @@ events:
     text: Nunavut signs its lands and resources devolution agreement on January 18.
     era: recent
     pages: [/provinces/nunavut, { page: /learn/federalism/territories, label: Territories }]
+    sources:
+      - label: "Crown-Indigenous Relations Canada: Nunavut Lands and Resources Devolution Agreement"
+        url: https://www.rcaanc-cirnac.gc.ca/eng/1702495657169/1702495761711
     entities: [term:devolution]
 
   - id: child-and-family-services-reference-2024
@@ -1161,7 +1725,60 @@ events:
     era: recent
     module: indigenous
     pages: [/learn/indigenous/self-government]
+    sources:
+      - label: "Supreme Court of Canada: case in brief, 2024 SCC 5"
+        url: https://www.scc-csc.ca/judgments-jugements/cb/2024/40061/
     entities: [org:supreme-court, term:self-government, case:child-and-family-services-reference-2024]
+
+  - id: prorogation-2025
+    title: The 2025 prorogation
+    date: 2025-01-06
+    text: On January 6, Parliament is prorogued until March 24 at Justin Trudeau's request, as he announces he will resign. According to Wikipedia, a court challenge to it was dismissed by the Federal Court in March 2025.
+    era: recent
+    module: crown
+    pages: [/learn/crown/reserve-powers]
+    sources:
+      - label: "Wikipedia: Prorogation in Canada"
+        url: https://en.wikipedia.org/wiki/Prorogation_in_Canada
+    people: [person:justin-trudeau]
+    entities: [term:prorogation, org:federal-court, event:prorogation-2008]
+
+  - id: carney-prime-minister-2025
+    title: Mark Carney becomes Prime Minister
+    date: 2025-03-14
+    text: Mark Carney, chosen Liberal leader on March 9, is sworn in as Prime Minister on March 14 after Justin Trudeau resigns.
+    era: recent
+    module: elections
+    pages: [/prime-ministers, /learn/elections/party-leaders]
+    sources:
+      - label: "House of Commons Procedure and Practice, 4th ed., Appendix 6"
+        url: https://www.ourcommons.ca/procedure-and-practice-4/app06-e.html
+    people: [person:mark-carney, person:justin-trudeau]
+
+  - id: federal-election-2025
+    title: The 2025 federal election
+    date: 2025-04-28
+    text: Canada holds its 45th general election on April 28.
+    era: recent
+    module: elections
+    pages: [/learn/elections, /elections-history]
+    sources:
+      - label: "Elections Canada: Official voting results, 45th general election"
+        url: https://www.elections.ca/res/rep/off/ovrGE45/62/table7E.html
+    people: [person:mark-carney]
+    entities: [org:house-of-commons]
+
+  - id: alberta-referendum-requirement-repealed-2025
+    title: Alberta drops its referendum requirement
+    date: 2025
+    text: Alberta's Bill 54 removes the rule that a referendum be held before the legislature votes on an amendment to the Constitution of Canada.
+    era: recent
+    module: constitution
+    pages: [/learn/constitution/amending-formula, /learn/crown/republic-question, /provinces/alberta]
+    sources:
+      - label: "Elections Alberta: Referendum Act, summary of changes (July 4, 2025)"
+        url: https://www.elections.ab.ca/uploads/Referendum-Act-Fact-Sheet.pdf
+    entities: [term:referendum, term:amending-formula]
 
   - id: alberta-notwithstanding-2025
     title: Alberta uses section 33
@@ -1172,4 +1789,115 @@ events:
     pages:
       - /learn/charter/notwithstanding-clause
       - /provinces/alberta
+    sources:
+      - label: "Legislative Assembly of Alberta: Bill 2, Back to School Act"
+        url: https://www.assembly.ab.ca/assembly-business/bills/bill?billinfoid=12087&from=bills
+      - label: "CBA Alberta: Statement on the use of the notwithstanding clause"
+        url: https://www.cba-alberta.org/news/cba-alberta-statement-on-the-use-of-the-notwithstanding-clause/
     entities: [doc:charter/s33, term:notwithstanding-clause]
+
+  - id: lantz-premier-2026
+    title: Rob Lantz returns as PEI premier
+    date: 2026-02-09
+    text: Rob Lantz is sworn in again as premier of Prince Edward Island on February 9.
+    era: recent
+    pages: [/provinces/prince-edward-island]
+    sources:
+      - label: "CTV News: Rob Lantz sworn in again as P.E.I. premier (February 9, 2026)"
+        url: https://www.ctvnews.ca/atlantic/prince-edward-island/article/rob-lantz-to-be-sworn-in-as-pei-premier-monday/
+    people: [person:rob-lantz]
+
+  - id: bill-21-appeal-heard-2026
+    title: The Supreme Court hears the Bill 21 appeal
+    date: 2026-03
+    text: From March 23 to 26, the Supreme Court hears the appeal over Quebec's state secularism law, which uses the notwithstanding clause, and reserves its decision.
+    era: recent
+    module: charter
+    pages: [/learn/charter/notwithstanding-clause, /provinces/quebec]
+    sources:
+      - label: "Supreme Court of Canada: case 41231"
+        url: https://www.scc-csc.ca/cases-dossiers/search-recherche/41231/
+    entities: [event:quebec-secularism-law-2019, org:supreme-court, term:notwithstanding-clause]
+
+  - id: justice-martin-leaves-2026
+    title: Justice Martin leaves the Supreme Court
+    date: 2026-05-30
+    text: Justice Sheilah Martin leaves the Supreme Court on May 30.
+    era: recent
+    module: law
+    pages: [/learn/law/supreme-court]
+    sources:
+      - label: "Supreme Court of Canada: List of all judges"
+        url: https://www.scc-csc.ca/about-apropos/judges-juges/list-liste/
+    entities: [org:supreme-court]
+
+  - id: arbour-governor-general-2026
+    title: Louise Arbour becomes Governor General
+    date: 2026-06-08
+    text: Louise Arbour is sworn in as the 31st Governor General on June 8.
+    era: recent
+    module: crown
+    pages: [/learn/crown/governor-general, /governors-general]
+    sources:
+      - label: "Governor General of Canada: Louise Arbour"
+        url: https://www.gg.ca/en/governor-general
+    people: [person:louise-arbour]
+    entities: [org:governor-general]
+
+  - id: nova-scotia-new-riding-2026
+    title: Nova Scotia's 56th seat
+    date: 2026-06-23
+    text: Nova Scotia splits the riding of Inverness to create Chéticamp-Margarees-Pleasant Bay, its 56th seat, and holds a by-election there on June 23.
+    era: recent
+    pages: [/provinces/nova-scotia]
+    sources:
+      - label: "Government of Nova Scotia: New Chéticamp-Margarees-Pleasant Bay riding (February 26, 2026)"
+        url: https://news.novascotia.ca/en/2026/02/26/new-cheticamp-margarees-pleasant-bay-riding
+      - label: "Government of Nova Scotia: Byelection called in Chéticamp-Margarees-Pleasant Bay (May 24, 2026)"
+        url: https://news.novascotia.ca/en/2026/05/24/byelection-called-cheticamp-margarees-pleasant-bay
+    entities: [term:riding, term:by-election]
+
+  - id: justice-joyal-joins-2026
+    title: Justice Joyal joins the Supreme Court
+    date: 2026-07-15
+    text: Glenn Joyal joins the Supreme Court on July 15.
+    era: recent
+    module: law
+    pages: [/learn/law/supreme-court]
+    sources:
+      - label: "Supreme Court of Canada: List of all judges"
+        url: https://www.scc-csc.ca/about-apropos/judges-juges/list-liste/
+    entities: [org:supreme-court]
+
+  - id: quebec-election-2026
+    title: Quebec elects a PQ minority
+    date: 2026-10-05
+    text: Quebec's general election on October 5 gives the Parti Québécois a minority government.
+    era: recent
+    pages: [/provinces/quebec]
+    sources:
+      - label: "CTV News: Quebec election, historic night as PQ wins minority (October 6, 2026)"
+        url: https://www.ctvnews.ca/montreal/photos/2026/10/06/quebec-election-historic-night-as-pq-wins-minority/
+    entities: [term:minority-government]
+
+  - id: st-pierre-plamondon-premier-2026
+    title: Paul St-Pierre Plamondon becomes premier
+    date: 2026-10-21
+    text: Paul St-Pierre Plamondon is sworn in as premier of Quebec on October 21.
+    era: recent
+    pages: [/provinces/quebec]
+    sources:
+      - label: "MTL Blog: Quebec's premier-designate to be sworn in"
+        url: https://www.mtlblog.com/quebec-premier-designate-to-be-sworn-in
+    people: [person:paul-st-pierre-plamondon]
+
+  - id: bc-election-2026
+    title: British Columbia's snap election
+    date: 2026-10-24
+    text: In a snap election on October 24, the BC Conservatives win a majority of the seats.
+    era: recent
+    pages: [/provinces/british-columbia]
+    sources:
+      - label: "The Hub: B.C. Conservatives win majority (October 26, 2026)"
+        url: https://thehub.ca/2026/10/26/b-c-conservatives-win-majority-as-ebys-snap-election-gamble-ends-ndp-rule/
+    people: [person:david-eby]

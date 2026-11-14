@@ -62,7 +62,7 @@ natural resources**, which provinces have always had under the Constitution.
 |---|---|
 | Yukon | [2003](event:yukon-devolution-2003) |
 | Northwest Territories | [2014](event:northwest-territories-devolution-2014) |
-| Nunavut | [Agreement signed in January 2024](event:nunavut-devolution-agreement-2024); transfer scheduled for April 1, 2027 |
+| Nunavut | [Agreement signed in January 2024](event:nunavut-devolution-agreement-2024); transfer scheduled for {{nunavut.devolution.date}} |
 
 > **As of 2026:** Nunavut is in the transition period before its lands and resources
 > devolution takes effect.
