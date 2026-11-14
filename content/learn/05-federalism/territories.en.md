@@ -62,7 +62,7 @@ natural resources**, which provinces have always had under the Constitution.
 |---|---|
 | Yukon | [2003](event:yukon-devolution-2003) |
 | Northwest Territories | [2014](event:northwest-territories-devolution-2014) |
-| Nunavut | [Agreement signed in January 2024](event:nunavut-devolution-agreement-2024); transfer scheduled for April 1, 2027 <!-- check: transfer date from secondary sources --> |
+| Nunavut | [Agreement signed in January 2024](event:nunavut-devolution-agreement-2024); transfer scheduled for April 1, 2027 |
 
 > **As of 2026:** Nunavut is in the transition period before its lands and resources
 > devolution takes effect.
@@ -105,6 +105,7 @@ See [courts](/learn/law/courts).
 - [Provinces and territories](https://www.canada.ca/en/intergovernmental-affairs/services/provinces-territories.html) (Intergovernmental Affairs): territories exercise powers delegated by Parliament; devolution
 - [Yukon Act](https://laws-lois.justice.gc.ca/eng/acts/Y-2.01/) (S.C. 2002, c. 7)
 - [Nunavut Act](https://laws-lois.justice.gc.ca/eng/acts/N-28.6/) (S.C. 1993, c. 28): s. 5 (Commissioner of Nunavut)
-- [Nunavut Lands and Resources Devolution Agreement](https://www.rcaanc-cirnac.gc.ca/eng/1702495657169) (Crown-Indigenous Relations and Northern Affairs Canada) <!-- unverified link -->
+- [Nunavut Lands and Resources Devolution Agreement](https://www.rcaanc-cirnac.gc.ca/eng/1702495657169) (Crown-Indigenous Relations and Northern Affairs Canada)
+- [Question Period Note: Nunavut Devolution](https://search.open.canada.ca/qpnotes/record/aandc-aadnc%2CNA-2025-QP-2860) (Crown-Indigenous Relations and Northern Affairs Canada): signed January 18, 2024; transfer date April 1, 2027
 - [Constitution Act, 1982, s. 42](https://laws-lois.justice.gc.ca/eng/const/page-13.html): amendments needing the general formula
 - [Territorial Formula Financing](https://www.canada.ca/en/department-finance/programs/federal-transfers/territorial-formula-financing.html) (Finance Canada)

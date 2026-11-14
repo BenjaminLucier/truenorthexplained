@@ -55,11 +55,11 @@ Parliament), and it doesn't lend to the public.
 
 Every five years, the Bank and the federal government jointly agree on the **monetary
 policy framework**. The core of that framework is an
-**inflation target**. Targets were introduced in 1991, and since the mid-1990s the target has been 2%, the midpoint of a 1% to 3% range. <!-- check: 1991 introduction; 2% since 1995 --> The Bank then decides,
+**inflation target**. Targets were introduced in 1991, and since the mid-1990s the target has been 2%, the midpoint of a 1% to 3% range. The Bank then decides,
 independently, how to hit it.
 
 > **As of 2026:** In November 2026 the government and the Bank renewed the framework for
-> 2027 to 2031, keeping the 2% target. <!-- check: confirm 1–3% range retained in 2026 renewal text -->
+> 2027 to 2031, keeping the 2% target.
 
 Here's how prices have actually behaved since 1914. Before targets, inflation came in
 bursts; since the early 1990s it has mostly stayed inside the target range:
@@ -85,12 +85,12 @@ the Board but can't vote.
 There is one formal override. Under section 14 of the *Bank of Canada Act*, after
 consulting the Governor, the Minister of Finance can issue a **written, public
 directive** on monetary policy, which the Bank must follow. This power has never been
-used. <!-- check: s. 14 directive never used -->
+used.
 
 ### What the Mint does
 
 The **Royal Canadian Mint** started in 1908 in Ottawa as a branch of Britain's Royal
-Mint and later became Canadian-run. <!-- check: 1931 transfer to Canada; 1969 Crown corporation status --> Today it:
+Mint and later became Canadian-run. Today it:
 
 - produces Canada's **circulation coins** and manages the coin system;
 - makes **collector coins** and medals;
@@ -124,6 +124,10 @@ their own. See [the division of powers](/learn/federalism/division-of-powers).
 
 - [About the Bank of Canada](https://www.bankofcanada.ca/about/): history, five areas of work, governance
 - [Inflation targeting](https://www.bankofcanada.ca/core-functions/monetary-policy/inflation-targeting/) (Bank of Canada): 2% target, five-year renewal, 2027–2031 framework
+- [Joint statement on the renewal of the monetary policy framework](https://www.bankofcanada.ca/2026/11/joint-statement-of-the-government-of-canada-and-the-bank-of-canada-on-the-renewal-of-the-monetary-policy-framework-2026/) (Bank of Canada and Government of Canada, November 5, 2026): 2% target, midpoint of the 1% to 3% range
+- [Inflation Targeting in Canada: Experience and Lessons](https://www.bankofcanada.ca/2002/01/inflation-targeting-canada-experience-lessons/) and [The Canadian Experience with Targets for Inflation Control](https://www.bankofcanada.ca/1998/10/canadian-experience-targets-inflation-control/) (Bank of Canada): targets announced February 1991, reaching 2% by the end of 1995
+- [Earning the trust of Canadians](https://www.bankofcanada.ca/2022/05/earning-the-trust-of-canadians/) (Bank of Canada, 2022): the directive power has never been used
 - [Bank of Canada Act](https://laws-lois.justice.gc.ca/eng/acts/B-2/): s. 14 (government directive)
 - [Royal Canadian Mint](https://www.mint.ca/) (home) and [Our company](https://www.mint.ca/en/company)
+- [Royal Canadian Mint](https://www.thecanadianencyclopedia.ca/en/article/royal-canadian-mint) (The Canadian Encyclopedia): opened 1908, Canadian control 1931, Crown corporation 1969
 - [Constitution Act, 1867, s. 91](https://laws-lois.justice.gc.ca/eng/const/page-3.html)

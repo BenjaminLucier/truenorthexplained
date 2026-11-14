@@ -79,13 +79,13 @@ Provinces use the same tool, often for big utilities and services:
 - **Alcohol and cannabis sales:** provincial liquor boards such as the LCBO in Ontario
   and the SAQ in Quebec.
 - **Public auto insurance:** in British Columbia (ICBC), Saskatchewan (SGI) and
-  Manitoba (MPI). <!-- check: public auto insurance list -->
+  Manitoba (MPI). <!-- check: public auto insurance list; unresolved 2026-11-13: ICBC (B.C. Crown corporations list) and MPI (mpi.mb.ca) confirmed; SGI confirmed as a Crown corporation (cicorp.sk.ca) but no fetched page confirms its auto insurance role (sgi.sk.ca is script-only to automated fetch); Quebec's public injury plan (SAAQ) is not mentioned -->
 
 ### Selling them off
 
 Governments can also **privatize** Crown corporations, selling them to private
 investors. Federal examples include Air Canada (late 1980s), Petro-Canada (starting in
-1991) and Canadian National Railway (1995). <!-- check: privatization dates -->
+1991) and Canadian National Railway (1995). <!-- check: privatization dates; Air Canada (Act 1988, privatized 1989) and Petro-Canada (from 1991) confirmed 2026-11-13; unresolved: no primary source fetched for CN's 1995 IPO (only Wikipedia; Justice Laws CN Commercialization Act page not located) -->
 
 > **People disagree about this.** Whether a service should be a Crown corporation is a
 > recurring political question. Supporters argue public ownership protects services that
@@ -100,4 +100,6 @@ investors. Federal examples include Air Canada (late 1980s), Petro-Canada (start
 - [Directors of Crown corporations: an introductory guide](https://www.canada.ca/en/treasury-board-secretariat/services/guidance-crown-corporations/directors-crown-corporations-introductory-guide-roles-responsibilities.html) (Treasury Board Secretariat): boards, corporate plans, directives, ministerial accountability
 - [Financial Administration Act](https://laws-lois.justice.gc.ca/eng/acts/F-11/): Part X (Crown corporations), s. 89 (directives)
 - [Royal Canadian Mint: our company](https://www.mint.ca/en/company)
+- [Air Canada Public Participation Act](https://laws-lois.justice.gc.ca/eng/acts/A-10.1/) (1988) and [Air Canada](https://www.thecanadianencyclopedia.ca/en/article/air-canada) (The Canadian Encyclopedia): privatized in 1989
+- [Petro-Canada](https://www.thecanadianencyclopedia.ca/en/article/petro-canada) (The Canadian Encyclopedia): privatization began in 1991
 - [About the Bank of Canada](https://www.bankofcanada.ca/about/)

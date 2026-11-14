@@ -43,7 +43,7 @@ outside those powers, a court can strike it down.
 
 Provinces also change how local governments work in less dramatic ways. In 2022, for
 example, Ontario passed legislation giving the mayors of some cities extra
-"[strong mayor](term:strong-mayor-powers)" powers. <!-- check: Ontario strong-mayor legislation year and scope -->
+"[strong mayor](term:strong-mayor-powers)" powers.
 
 ### What municipalities usually do
 
@@ -82,7 +82,6 @@ they have big responsibilities and a narrow tax base.
 The federal government can't create or direct municipalities, but it can fund them,
 for example through infrastructure programs and the Canada Community-Building Fund
 (formerly the federal Gas Tax Fund). These arrangements usually involve the province.
-<!-- check: Canada Community-Building Fund name and how it flows -->
 
 ### Other local bodies
 
@@ -106,3 +105,5 @@ municipal law. See [self-government](/learn/indigenous/self-government).
 - [Constitution Act, 1867, s. 92(8)](https://laws-lois.justice.gc.ca/eng/const/page-3.html): "Municipal Institutions in the Province"
 - [Toronto (City) v. Ontario (Attorney General), 2021 SCC 34: Case in Brief](https://www.scc-csc.ca/judgments-jugements/cb/2021/38921/) (Supreme Court of Canada)
 - [Provinces and territories](https://www.canada.ca/en/intergovernmental-affairs/services/provinces-territories.html) (Intergovernmental Affairs)
+- [Bill 3, Strong Mayors, Building Homes Act, 2022](https://www.ola.org/en/legislative-business/bills/parliament-43/session-1/bill-3) (Legislative Assembly of Ontario): royal assent September 8, 2022
+- [Question Period Note: Canada Community-Building Fund](https://search.open.canada.ca/qpnotes/record/infc,INFC-012023-INFC-0002) (Infrastructure Canada): formerly the Gas Tax Fund; paid to provinces and territories under agreements

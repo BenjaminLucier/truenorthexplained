@@ -19,7 +19,7 @@ provincial laws truly conflict, the federal law wins.
 ## The details
 
 <tn-widget name="power-sorter" data-set="federalism"></tn-widget>
-<!-- check: power-sorter's "Driver's licences" card cites s. 92(13) and (16) for provincial highway and licensing laws (as in O'Grady v. Sparling, 1960); confirm the heads of power -->
+<!-- check: power-sorter's "Driver's licences" card cites s. 92(13) and (16) for provincial highway and licensing laws (as in O'Grady v. Sparling, 1960); confirm the heads of power; unresolved 2026-11-13: blocked to automated fetch (decisions.scc-csc.ca and CanLII return 403); secondary sources confirm highway traffic and licensing are provincial (O'Grady v. Sparling, Egan) but none fetched names ss. 92(13) and (16) as the heads -->
 
 ### How to read the lists
 
