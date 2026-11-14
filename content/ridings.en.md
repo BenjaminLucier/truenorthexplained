@@ -46,8 +46,8 @@ the details note who holds the seat now.
 ## Sources
 
 - [Elections Canada: official voting results, 45th general election](https://www.elections.ca/res/rep/off/ovrGE45/home.html): votes for every candidate in every riding (Open Government Licence – Canada)
-- [Federal electoral district boundaries, 2023 Representation Order](https://open.canada.ca/data/en/dataset/18bf3ea7-1940-46ec-af52-9ba3f77ed708): Elections Canada, on the Open Government Portal <!-- unverified link -->
-- [Statistics Canada boundary files](https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm): the coastlines and province outlines the ridings are clipped to <!-- unverified link -->
+- [Federal electoral district boundaries, 2023 Representation Order](https://open.canada.ca/data/en/dataset/18bf3ea7-1940-46ec-af52-9ba3f77ed708): Elections Canada, on the Open Government Portal
+- [Statistics Canada boundary files](https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm): the coastlines and province outlines the ridings are clipped to <!-- unverified link; blocked 2026-11-13: 403 to automated fetch -->
 - [House of Commons: Members](https://www.ourcommons.ca/members/en): current MPs
 - [Electoral Boundaries Readjustment Act](https://laws-lois.justice.gc.ca/eng/acts/E-3/page-1.html): s. 15 (each riding's population kept close to the provincial average, with room for sparse northern and rural areas)
 - [Constitution Act, 1867, ss. 51–52](https://laws-lois.justice.gc.ca/eng/const/page-2.html): how Commons seats are shared among the provinces
