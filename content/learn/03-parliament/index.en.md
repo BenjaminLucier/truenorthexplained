@@ -156,7 +156,7 @@ support from other parties to pass bills and survive confidence votes.
 
 ## Sources
 
-- [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): s. 17 (Parliament is the King, Senate and House of Commons), s. 21 (105 senators), ss. 53–54 (money bills and royal recommendation), s. 55 (royal assent)
+- [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): s. 17 (Parliament is the King, Senate and House of Commons), s. 21 (105 senators); [ss. 53–90](https://laws-lois.justice.gc.ca/eng/const/page-2.html): ss. 53–54 (money bills and royal recommendation), s. 55 (royal assent)
 - [Constitution Act, 1982 / Charter](https://laws-lois.justice.gc.ca/eng/const/page-12.html): s. 4 (maximum five-year House)
 - [House of Commons: "Our Procedure"](https://www.ourcommons.ca/procedure/our-procedure/)
 - [Our Procedure: The Canadian Parliamentary System](https://www.ourcommons.ca/procedure/our-procedure/ParliamentaryFramework/c_g_parliamentaryframework-e.html) (confidence, Official Opposition, recognized parties)

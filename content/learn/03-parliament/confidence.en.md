@@ -46,7 +46,8 @@ In a minority Parliament, the governing party can get support in a few ways:
   called a **confidence-and-supply agreement**. One such agreement federally ran from 2022
   until 2024.
 - **A [coalition](term:coalition):** two or more parties share cabinet seats. Coalitions are common in many
-  countries but have been very rare at the federal level in Canada. <!-- check: confirm framing; the only federal coalition usually cited is the 1917 Union Government -->
+  countries, but Canada has had only one at the federal level: Robert Borden's Union
+  Government, formed in 1917 during the First World War.
 
 ### What counts as a confidence vote
 
@@ -103,5 +104,6 @@ won more seats, the outgoing Prime Minister usually resigns rather than wait. Se
 
 - [Our Procedure: The Canadian Parliamentary System](https://www.ourcommons.ca/procedure/our-procedure/ParliamentaryFramework/c_g_parliamentaryframework-e.html) (the confidence convention and what counts as a confidence vote)
 - [Our Procedure: Parliamentary Cycle](https://www.ourcommons.ca/procedure/our-procedure/ParliamentaryCycle/c_g_parliamentarycycle-e.html)
+- [Transition to the 45th Parliament: Key Roles, Government Formation and Other Issues](https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/202509E) (Library of Parliament, 2025): the 1917 Union Government as the only federal coalition; the 2022–2024 Liberal–NDP agreement
 - [Role and responsibilities of the Governor General](https://www.gg.ca/en/governor-general/role-and-responsibilities)
 - [The Crown in Canada](https://www.canada.ca/en/canadian-heritage/services/crown-canada.html) (Canadian Heritage)

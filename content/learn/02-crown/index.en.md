@@ -43,7 +43,7 @@ Canada".
 
 > **As of 2026:** {{monarch.name}} is King of Canada. He became King on the death of
 > Elizabeth II in September 2022 and was crowned in May 2023.
-<!-- check: the rest of this note (accession, coronation, "He") is about Charles III; rewrite it if monarch.name changes -->
+<!-- maintenance: the rest of this note (accession, coronation, "He") is about Charles III; rewrite it if monarch.name changes -->
 
 The written Constitution puts the Crown at the centre:
 
@@ -63,7 +63,7 @@ each has its own representative.
 |---|---|---|---|
 | Canada | [Governor General](org:governor-general) | The King | The Prime Minister |
 | Each province | [Lieutenant Governor](org:lieutenant-governor) | The Governor General (on federal cabinet advice) | The Prime Minister |
-| Each territory | Commissioner (a federal official, not a representative of the King) <!-- check: Commissioners' formal status --> | The federal government | Federal cabinet |
+| Each territory | Commissioner (a federal official, not a representative of the King) | The federal government | Federal cabinet |
 
 Both Governors General and Lieutenant Governors usually serve about five years. More in
 [The Governor General and Lieutenant Governors](/learn/crown/governor-general).
@@ -162,7 +162,8 @@ Parliament plus all ten provincial legislatures (Constitution Act, 1982, [s. 41(
 
 - [The Crown in Canada](https://www.canada.ca/en/canadian-heritage/services/crown-canada.html) (Canadian Heritage)
 - [The Monarch](https://www.canada.ca/en/canadian-heritage/services/crown-canada/monarch.html) (Canadian Heritage): separate Canadian title since 1953
-- [The Governor General](https://www.canada.ca/en/canadian-heritage/services/crown-canada/governor-general.html) and [The Lieutenant Governors](https://www.canada.ca/en/canadian-heritage/services/crown-canada/lieutenant-governors.html) (Canadian Heritage): appointment and term
+- [The Governor General](https://www.canada.ca/en/canadian-heritage/services/crown-canada/governor-general.html) and [The Lieutenant Governors](https://www.canada.ca/en/canadian-heritage/services/crown-canada/lieutenant-governors.html) (Canadian Heritage): appointment and term; territorial commissioners "are not official representatives of The King"
+- [The King](https://www.royal.uk/the-king) and [The Coronation](https://www.royal.uk/coronation) (The Royal Family): accession on September 8, 2022; coronation on May 6, 2023
 - [Role and responsibilities of the Governor General](https://www.gg.ca/en/governor-general/role-and-responsibilities) and [Constitutional duties](https://www.gg.ca/en/governor-general/role-and-responsibilities/constitutional-duties)
 - [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): s. 9 (executive power), s. 10 (Governor General), s. 15 (command of the armed forces), s. 17 (Parliament)
 - [Constitution Act, 1867, ss. 53–90](https://laws-lois.justice.gc.ca/eng/const/page-2.html): s. 55 (royal assent), s. 58 (Lieutenant Governors)

@@ -26,7 +26,7 @@
   explanation: >
     There is no fixed term. By custom most governors general serve about five years,
     but some have served longer or shorter.
-  source: https://www.canada.ca/en/canadian-heritage/services/crown-canada.html
+  source: https://www.ourcommons.ca/procedure-and-practice-4/ch01-3-e.html
 
 - id: governors-general-administrator
   pages: [governors-general]
@@ -42,7 +42,7 @@
   explanation: >
     The Chief Justice serves as Administrator. That happened most recently in 2021,
     between Julie Payette's resignation in January and Mary Simon's installation in July.
-  source: https://en.wikipedia.org/wiki/Administrator_of_the_Government_of_Canada
+  source: https://www.gg.ca/en/governor-general/former-governors-general
 
 - id: governors-general-first-canadian
   pages: [governors-general]
@@ -57,8 +57,8 @@
   answer: 1
   explanation: >
     Vincent Massey, appointed in 1952, was the first Governor General born in Canada.
-    Every earlier holder came from Britain.
-  source: https://en.wikipedia.org/wiki/Vincent_Massey
+    Every earlier holder was British.
+  source: https://www.gg.ca/en/governor-general/former-governors-general/vincent-massey
 
 - id: governors-general-first-woman
   pages: [governors-general]
@@ -74,7 +74,7 @@
   explanation: >
     Jeanne Sauvé became Governor General in 1984. She had earlier been the first woman
     to serve as Speaker of the House of Commons.
-  source: https://en.wikipedia.org/wiki/Jeanne_Sauv%C3%A9
+  source: https://www.gg.ca/en/governor-general/former-governors-general/jeanne-sauve
 
 - id: governors-general-abdication
   pages: [governors-general]
@@ -90,7 +90,7 @@
   explanation: >
     Edward VIII abdicated in December 1936, less than a year into his reign. His
     brother became George VI.
-  source: https://en.wikipedia.org/wiki/Edward_VIII
+  source: https://www.royal.uk/edward-viii
 
 - id: governors-general-succession
   pages: [governors-general]
@@ -101,4 +101,4 @@
   explanation: >
     Succession is automatic: the heir becomes monarch the moment the previous monarch
     dies or abdicates. Ceremonies such as a proclamation and a coronation come later.
-  source: https://www.canada.ca/en/canadian-heritage/services/crown-canada.html
+  source: https://www.royal.uk/accession

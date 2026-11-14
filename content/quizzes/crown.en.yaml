@@ -46,7 +46,8 @@
   explanation: >
     "R" is short for Rex (King) or Regina (Queen). Crimes are prosecuted in the
     name of the Crown, meaning the state.
-  source: https://www.justice.gc.ca/eng/csj-sjc/just/index.html
+  # check: "R" = Rex/Regina; unresolved 2026-11-13: not stated in a fetched official source (Justice Canada's page confirms only that the Crown prosecutes)
+  source: https://www.justice.gc.ca/eng/csj-sjc/just/08.html
 
 - id: crown-divisible
   pages: [learn/crown, learn/crown/governor-general]
@@ -144,7 +145,7 @@
     Byng refused Mackenzie King's request for an election. King resigned, Arthur
     Meighen's government lost a confidence vote within days, and King won the
     election that followed.
-  source: https://www.thecanadianencyclopedia.ca/en/article/king-byng-affair
+  source: https://www.ourcommons.ca/procedure-and-practice-4/app06-e.html
 
 - id: crown-2008-prorogation
   pages: [learn/crown/reserve-powers]
@@ -161,7 +162,7 @@
     The opposition parties planned to defeat the government and replace it with a
     coalition. Proroguing ended the session before the vote. People still disagree
     about whether the Governor General should have agreed.
-  source: https://www.ourcommons.ca/procedure/our-procedure/
+  source: https://www.ourcommons.ca/documentviewer/en/43-2/PROC/report-18/page-72
 
 - id: crown-republic-unanimity
   pages: [learn/crown, learn/crown/republic-question, learn/constitution/amending-formula]

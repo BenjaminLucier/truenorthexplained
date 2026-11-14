@@ -89,7 +89,6 @@ otherwise. Many Acts come into force on a later date, or on a date chosen by the
   yet approved the bill's principle.
 - **[Pre-study](term:pre-study).** The Senate sometimes studies a bill's subject while it's still in the
   House, to speed things up later.
-  <!-- check: confirm pre-study is still described this way in current Senate procedure sources -->
 - **[Time allocation and closure](term:time-allocation-and-closure).** The government can use these procedures to limit how
   long debate lasts at a given stage. Opposition parties often object, but they're part of
   the House's rules.
@@ -115,5 +114,6 @@ a different bill in a different Parliament.
 - [Our Procedure: The Legislative Process](https://www.ourcommons.ca/procedure/our-procedure/LegislativeProcess/c_g_legislativeprocess-e.html) (House of Commons)
 - [Our Procedure: Private Members' Business](https://www.ourcommons.ca/procedure/our-procedure/PrivateMembersBusiness/c_g_privatemembersbusiness-e.html) (draw, time limits, royal recommendation)
 - [House of Commons Procedure and Practice, ch. 16: The Legislative Process](https://www.ourcommons.ca/procedure/procedure-and-practice-3/ch_16_4-e.html) (bill numbering, written declarations)
-- [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): s. 53 (money bills start in the Commons), s. 54 (royal recommendation), s. 55 (royal assent)
+- [House of Commons Procedure and Practice, 4th ed., ch. 16](https://www.ourcommons.ca/procedure-and-practice-4/ch16-5-e.html) (Senate pre-study under the Rules of the Senate; royal assent)
+- [Constitution Act, 1867, ss. 53–90](https://laws-lois.justice.gc.ca/eng/const/page-2.html): s. 53 (money bills start in the Commons), s. 54 (royal recommendation), s. 55 (royal assent)
 - [LEGISinfo](https://www.parl.ca/legisinfo/en/index)
