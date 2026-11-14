@@ -133,7 +133,7 @@ province.
 ## Sources
 
 - [Legislative Assembly of Prince Edward Island](https://www.assembly.pe.ca/)
-- [Courts of Prince Edward Island](https://www.courts.pe.ca/) <!-- unverified link: blocked (bot challenge) to automated check 2026-11-13 -->
+- [Courts of Prince Edward Island](https://www.courts.pe.ca/)
 - [Prince Edward Island Terms of Union](https://www.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t62.html) (Department of Justice, A Consolidation of the Constitution Acts: Order in Council and Addresses, 1873): railways, the $800,000 advance to buy land from large proprietors, and the steam service
 - [Government of Prince Edward Island](https://www.princeedwardisland.ca/en)
 - [Discover Canada: Canada's history](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html): PEI joined in 1873

@@ -1396,3 +1396,21 @@ No `url` fields were added to events, because how an event's `url` renders is un
 ### Events, timeline tagging, myths and entity files: unverified links still marked
 
 None in my files.
+
+## Links checked in a real browser (2026-11-13)
+
+These were blocked to automated fetches. Each was opened in a normal browser and its title confirmed.
+
+| Link | Verdict |
+|---|---|
+| bccourts.ca | confirmed: "The Courts of British Columbia - Home" |
+| courts.pe.ca | confirmed: "Courts of PEI" |
+| legisquebec CCQ-1991, C-11, C-12 | confirmed: Civil Code of Québec; Charter of the French language; Charter of human rights and freedoms (the site redirects to its `/fr/document/lc/…?langCont=en` form) |
+| courdappelduquebec.ca/en | confirmed: Court of Appeal of Quebec |
+| coursuperieureduquebec.ca/en | confirmed: Superior Court of Québec |
+| courduquebec.ca/en | confirmed: Court of Québec site |
+| yukonassembly.ca | confirmed: Yukon Legislative Assembly |
+| yukon.ca how-government-works | corrected: moved to `/en/your-government/about-yukon/how-government-works` |
+| electionsyukon.ca electoral-districts-21 | confirmed: "2025 Electoral Districts - 21 Districts" |
+| decisions.scc-csc.ca item 2519 | confirmed: "Re: Resolution to amend the Constitution" |
+| www12.statcan.gc.ca boundary files | unresolved: the site shows a bot challenge; not attempted. The files used were downloaded from this page by hand. |

@@ -168,9 +168,9 @@ Nation Government** in Eeyou Istchee. See
 - [Assemblée nationale du Québec: ABC of the Assembly](https://www.assnat.qc.ca/en/abc-assemblee/index.html)
 - [Electoral map: final boundaries](https://www.electionsquebec.qc.ca/en/electoral-maps/review-of-quebecs-electoral-map/electoral-map-final-boundaries/) (Elections Québec): increase from 125 to 127 divisions
 - [Québec at a glance](https://www.quebec.ca/en/government/quebec-at-a-glance) (Gouvernement du Québec)
-- [Civil Code of Québec](https://www.legisquebec.gouv.qc.ca/en/document/cs/CCQ-1991) <!-- unverified link: blocked (403) to automated check 2026-11-13 -->
-- [Charter of the French Language](https://www.legisquebec.gouv.qc.ca/en/document/cs/C-11) <!-- unverified link: blocked (403) to automated check 2026-11-13 -->
-- [Charter of Human Rights and Freedoms (Quebec)](https://www.legisquebec.gouv.qc.ca/en/document/cs/C-12) <!-- unverified link: blocked (403) to automated check 2026-11-13 -->
+- [Civil Code of Québec](https://www.legisquebec.gouv.qc.ca/en/document/cs/CCQ-1991)
+- [Charter of the French Language](https://www.legisquebec.gouv.qc.ca/en/document/cs/C-11)
+- [Charter of Human Rights and Freedoms (Quebec)](https://www.legisquebec.gouv.qc.ca/en/document/cs/C-12)
 - [Canada–Québec Accord relating to Immigration and Temporary Admission of Aliens](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/agreements/federal-provincial-territorial/quebec/canada-quebec-accord-relating-immigration-temporary-admission-aliens.html) (signed February 5, 1991; in force April 1, 1991)
 - [The Notwithstanding Clause of the Charter](https://publications.gc.ca/collections/Collection-R/LoPBdP/BP/bp194-e.htm) (Library of Parliament, BP-194E, revised 1997): Quebec added the clause to every law from 1982 to 1985
 - [Cree Nation Government: main agreements](https://www.cngov.ca/governance-structure/legislation/agreements/) and the [Kativik Regional Government](https://www.krg.ca/en-CA/)
@@ -180,6 +180,6 @@ Nation Government** in Eeyou Istchee. See
 - [House of Commons Journals, November 27, 2006](https://www.ourcommons.ca/documentviewer/en/39-1/house/sitting-87/journals): the "nation within a united Canada" motion
 - [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): s. 133 (English and French in Quebec's legislature and courts)
 - [The judicial structure](https://www.justice.gc.ca/eng/csj-sjc/just/07.html) (Department of Justice)
-- [Court of Appeal of Quebec](https://courdappelduquebec.ca/en/) <!-- unverified link: blocked (403) to automated check 2026-11-13 -->
-- [Superior Court of Québec](https://coursuperieureduquebec.ca/en/) <!-- unverified link: blocked (403) to automated check 2026-11-13 -->
-- [Court of Québec](https://courduquebec.ca/en/) <!-- unverified link: blocked (403) to automated check 2026-11-13 -->
+- [Court of Appeal of Quebec](https://courdappelduquebec.ca/en/)
+- [Superior Court of Québec](https://coursuperieureduquebec.ca/en/)
+- [Court of Québec](https://courduquebec.ca/en/)

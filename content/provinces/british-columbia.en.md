@@ -139,5 +139,5 @@ See [Municipalities](/learn/federalism/municipalities).
 - [Alberta MLA recall petitions: what to know](https://globalnews.ca/news/11540768/alberta-mla-recall-petitions-what-to-know/) (Global News, November 25, 2025): Alberta and BC are the only provinces with recall laws
 - [Declaration on the Rights of Indigenous Peoples Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) (BC Laws)
 - [Recall and Initiative Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96398_00) (BC Laws) and [Elections BC: recall and initiative](https://elections.bc.ca/recall-initiative/)
-- [BC Courts](https://www.bccourts.ca/) <!-- unverified link: loads in a browser check but its certificate failed in one automated fetch; blocked: certificate failed again in automated fetch 2026-11-13 -->
+- [BC Courts](https://www.bccourts.ca/)
 - [Local governments](https://www2.gov.bc.ca/gov/content/governments/local-governments) (Government of BC), [Local Government Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/r15001_00), [Community Charter](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03026_00), [Vancouver Charter](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/vanch_00)

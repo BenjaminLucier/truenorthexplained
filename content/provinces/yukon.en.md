@@ -125,7 +125,7 @@ See [Municipalities](/learn/federalism/municipalities).
 - [Yukon Courts](https://www.yukoncourts.ca/) and [Court of Appeal](https://www.yukoncourts.ca/en/court-appeal): justices of the BC Court of Appeal and from Yukon, the Northwest Territories and Nunavut
 - [About AYC](https://ayc-yk.ca/about-ayc/) (Association of Yukon Communities): the eight incorporated municipalities
 - [Languages Act, 1988](https://axl.cefan.ulaval.ca/amnord/Yukon-loi1988.htm) (text reproduced by Université Laval's CEFAN, French) and [Yukon language framework](https://cmfc-mccf.ca/micro/portrait-juridique-2025/en/yukon/) (Ministers' Council on the Canadian Francophonie, 2025): use of English and French in the Legislature, laws and courts, and of Yukon Indigenous languages in the Legislature
-- [Yukon Legislative Assembly](https://yukonassembly.ca/) <!-- unverified link; blocked: 403 to automated fetch 2026-11-13 -->
-- [How the government works](https://yukon.ca/en/how-government-works) (Government of Yukon) <!-- unverified link; blocked: 403 to automated fetch 2026-11-13 -->
-- [2025 Electoral Districts: 21 Districts](https://electionsyukon.ca/en/electoral-districts-21) (Elections Yukon) <!-- unverified link; blocked: 403 to automated fetch 2026-11-13 -->
+- [Yukon Legislative Assembly](https://yukonassembly.ca/)
+- [How the government works](https://yukon.ca/en/your-government/about-yukon/how-government-works) (Government of Yukon)
+- [2025 Electoral Districts: 21 Districts](https://electionsyukon.ca/en/electoral-districts-21) (Elections Yukon)
 - [The judicial structure](https://www.justice.gc.ca/eng/csj-sjc/just/07.html) (Department of Justice)

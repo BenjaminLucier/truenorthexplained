@@ -342,7 +342,7 @@ Provincial and territorial courts are listed under [Provinces and territories](#
 - [Government of British Columbia](https://www2.gov.bc.ca/): the provincial government's main site
 - [Declaration on the Rights of Indigenous Peoples Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044): BC's law adopting the UN Declaration (BC Laws)
 - [Recall and Initiative Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96398_00) and [Elections BC: recall and initiative](https://elections.bc.ca/recall-initiative/): BC's recall and initiative rules
-- [BC Courts](https://www.bccourts.ca/): the province's courts <!-- unverified link: blocked: certificate failed again in automated fetch 2026-11-13 -->
+- [BC Courts](https://www.bccourts.ca/): the province's courts
 - [Local governments](https://www2.gov.bc.ca/gov/content/governments/local-governments): how local government works in BC (Government of BC)
 - [Local Government Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/r15001_00), [Community Charter](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03026_00) and [Vancouver Charter](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/vanch_00): BC's municipal laws (BC Laws)
 - [British Columbia Terms of Union](https://canada.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t42.html): clause 11, railway to be completed "within ten years from the date of the Union" (Department of Justice)
@@ -411,7 +411,7 @@ Provincial and territorial courts are listed under [Provinces and territories](#
 
 - [Legislative Assembly of Prince Edward Island](https://www.assembly.pe.ca/): the provincial legislature
 - [Government of Prince Edward Island](https://www.princeedwardisland.ca/en): the provincial government's main site
-- [Courts of Prince Edward Island](https://www.courts.pe.ca/): the province's courts <!-- unverified link: blocked (bot challenge) to automated check 2026-11-13 -->
+- [Courts of Prince Edward Island](https://www.courts.pe.ca/): the province's courts
 - [Construction of the Confederation Bridge was preceded by a constitutional amendment](https://www.canada.ca/en/intergovernmental-affairs/services/federation/confederation-bridge.html): the 1993 amendment to PEI's terms of union (Intergovernmental Affairs)
 - [Electoral System Referendum](https://electionspei.ca/resources/electoral-system-referendum): PEI's votes on changing its electoral system (Elections PEI)
 - [Prince Edward Island Terms of Union](https://www.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t62.html): railways, the $800,000 advance to buy land from large proprietors, and the steam service (Department of Justice, A Consolidation of the Constitution Acts: Order in Council and Addresses, 1873)
@@ -421,12 +421,12 @@ Provincial and territorial courts are listed under [Provinces and territories](#
 - [Assemblée nationale du Québec](https://www.assnat.qc.ca/en/) and its [ABC of the Assembly](https://www.assnat.qc.ca/en/abc-assemblee/index.html): the provincial legislature and its plain-language guide
 - [Québec at a glance](https://www.quebec.ca/en/government/quebec-at-a-glance): the provincial government's overview (Gouvernement du Québec)
 - [Electoral map: final boundaries](https://www.electionsquebec.qc.ca/en/electoral-maps/review-of-quebecs-electoral-map/electoral-map-final-boundaries/): the increase from 125 to 127 electoral divisions (Élections Québec)
-- [Civil Code of Québec](https://www.legisquebec.gouv.qc.ca/en/document/cs/CCQ-1991): Quebec's code of private law <!-- unverified link: blocked (403) to automated check 2026-11-13 -->
-- [Charter of the French Language](https://www.legisquebec.gouv.qc.ca/en/document/cs/C-11): Quebec's language law <!-- unverified link: blocked (403) to automated check 2026-11-13 -->
-- [Charter of Human Rights and Freedoms (Quebec)](https://www.legisquebec.gouv.qc.ca/en/document/cs/C-12): Quebec's own rights charter <!-- unverified link: blocked (403) to automated check 2026-11-13 -->
-- [Court of Appeal of Quebec](https://courdappelduquebec.ca/en/): the province's highest court <!-- unverified link: blocked (403) to automated check 2026-11-13 -->
-- [Superior Court of Québec](https://coursuperieureduquebec.ca/en/): the province's superior trial court <!-- unverified link: blocked (403) to automated check 2026-11-13 -->
-- [Court of Québec](https://courduquebec.ca/en/): the province's main provincially appointed court <!-- unverified link: blocked (403) to automated check 2026-11-13 -->
+- [Civil Code of Québec](https://www.legisquebec.gouv.qc.ca/en/document/cs/CCQ-1991): Quebec's code of private law
+- [Charter of the French Language](https://www.legisquebec.gouv.qc.ca/en/document/cs/C-11): Quebec's language law
+- [Charter of Human Rights and Freedoms (Quebec)](https://www.legisquebec.gouv.qc.ca/en/document/cs/C-12): Quebec's own rights charter
+- [Court of Appeal of Quebec](https://courdappelduquebec.ca/en/): the province's highest court
+- [Superior Court of Québec](https://coursuperieureduquebec.ca/en/): the province's superior trial court
+- [Court of Québec](https://courduquebec.ca/en/): the province's main provincially appointed court
 - [Canada–Québec Accord relating to Immigration and Temporary Admission of Aliens](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/agreements/federal-provincial-territorial/quebec/canada-quebec-accord-relating-immigration-temporary-admission-aliens.html) (signed February 5, 1991; in force April 1, 1991)
 - [The Notwithstanding Clause of the Charter](https://publications.gc.ca/collections/Collection-R/LoPBdP/BP/bp194-e.htm): Quebec added the clause to every law from 1982 to 1985 (Library of Parliament, BP-194E, revised 1997)
 - [Cree Nation Government: main agreements](https://www.cngov.ca/governance-structure/legislation/agreements/)
@@ -473,10 +473,10 @@ Provincial and territorial courts are listed under [Provinces and territories](#
 
 ### Yukon
 
-- [Yukon Legislative Assembly](https://yukonassembly.ca/): the territorial legislature <!-- unverified link: blocked: 403 to automated fetch 2026-11-13 -->
-- [How the government works](https://yukon.ca/en/how-government-works): the territorial government's overview (Government of Yukon) <!-- unverified link: blocked: 403 to automated fetch 2026-11-13 -->
+- [Yukon Legislative Assembly](https://yukonassembly.ca/): the territorial legislature
+- [How the government works](https://yukon.ca/en/your-government/about-yukon/how-government-works): the territorial government's overview (Government of Yukon)
 - [Yukon devolution](https://www.rcaanc-cirnac.gc.ca/eng/1352470994098): the transfer of land and resource powers from Ottawa (CIRNAC)
-- [2025 Electoral Districts: 21 Districts](https://electionsyukon.ca/en/electoral-districts-21): Yukon's current electoral map (Elections Yukon) <!-- unverified link: blocked: 403 to automated fetch 2026-11-13 -->
+- [2025 Electoral Districts: 21 Districts](https://electionsyukon.ca/en/electoral-districts-21): Yukon's current electoral map (Elections Yukon)
 - [Yukon Courts](https://www.yukoncourts.ca/): the territory's courts
 - [Court of Appeal of Yukon](https://www.yukoncourts.ca/en/court-appeal)
 - [About AYC](https://ayc-yk.ca/about-ayc/): the eight incorporated municipalities (Association of Yukon Communities)
