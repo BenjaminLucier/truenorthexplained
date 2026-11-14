@@ -30,7 +30,7 @@ Section 35 sits in Part II of the Constitution Act, 1982, outside the Charter.
 | **35(3)** | Rights in **land claims agreements** (modern treaties), now or in the future, count as treaty rights. |
 | **35(4)** | These rights are guaranteed equally to men and women. |
 
-Subsections (3) and (4) were added in 1983, the only time s. 35 has been amended.
+Subsections (3) and (4) were added by an amendment agreed in 1983 and proclaimed in 1984, the only time s. 35 has been amended.
 
 A few words carry a lot of weight:
 

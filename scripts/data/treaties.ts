@@ -187,7 +187,7 @@ const ANNOTATIONS: Record<string, Annotation> = {
     id: "tlicho",
     name: "Tłı̨chǫ Agreement",
     yearNote: "signed 2003",
-    parties:"The Tłı̨chǫ, the Northwest Territories and Canada",
+    parties: "The Tłı̨chǫ, the Northwest Territories and Canada",
     link: { href: FINAL_AGREEMENTS.nt!, label: "Final agreements in the Northwest Territories (CIRNAC)" },
   },
   CL1601a: {

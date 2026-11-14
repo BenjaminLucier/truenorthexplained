@@ -10,10 +10,26 @@ to "Resolved" with a note.
 
 ## Open
 
-| # | Where | Our claim | Source's claim | Source |
-|---|---|---|---|---|
-| 1 | [content/provinces/nova-scotia.en.md:22](../content/provinces/nova-scotia.en.md) | "The House of Assembly has 55 seats, a number first used in the 2021 general election." | 56 members representing 56 electoral districts. | [Politics of Nova Scotia](https://en.wikipedia.org/wiki/Politics_of_Nova_Scotia) (`grounding/wikipedia/politics-of-nova-scotia.txt:7`); infobox of [Nova Scotia House of Assembly](https://en.wikipedia.org/wiki/Nova_Scotia_House_of_Assembly) also says 56. Check the Nova Scotia Legislature and Elections Nova Scotia before changing: this may be a recent boundary change. |
-| 2 | [content/learn/02-crown/reserve-powers.en.md:59](../content/learn/02-crown/reserve-powers.en.md) (open `check` comment) | King's request "~June 26–28"; Meighen defeated and Parliament dissolved July 2, 1926. | Wikidata: King's term ended June 28, 1926; Meighen was Prime Minister from June 29 to September 25, 1926. That supports the June 28 resignation; the July 2 defeat and dissolution aren't in the corpus. | [Wikidata Q128645](https://www.wikidata.org/wiki/Q128645) via `src/data/wikidata/prime-ministers.json`; [King–Byng affair](https://en.wikipedia.org/wiki/King%E2%80%93Byng_affair) (not in the corpus) |
+None from the grounding corpus. Facts that the November 2026 accuracy pass could not
+settle are still marked in the content and listed in [REVIEW.md](../REVIEW.md); the
+reasons are in [VERIFICATION.md](VERIFICATION.md).
+
+Open questions about the data, found in that pass and not changed:
+
+| Where | Question | Source |
+|---|---|---|
+| `src/data/wikidata/premiers.json` (British Columbia) | A general election was held on October 24, 2026. David Eby was still premier on 2026-11-13; a new premier was expected to be sworn in about November 20. Re-run `pnpm data:premiers` afterwards. | [Legislative Assembly of BC](https://www.leg.bc.ca/), [Elections BC](https://elections.bc.ca/) |
+| `src/data/wikidata/chief-justices.json` | End dates for Duff (1944-01-07), Dickson (1990-06-30) and McLachlin (2017-12-15) are one day later than the Court's list. Probably last day in office versus retirement date. | [Supreme Court of Canada: current and former judges](https://www.scc-csc.ca/about-apropos/judges-juges/list-liste/) |
+| `src/data/wikidata/governors-general.json` | Julie Payette's end date is 2021-01-21 (the day she resigned); gg.ca gives her term to January 22. Michaëlle Jean's is 2010-10-01; gg.ca says September 30. | [Former governors general](https://www.gg.ca/en/governor-general/former-governors-general) |
+| `src/data/wikidata/prime-ministers.json` | Macdonald's 1878–1891 term is labelled "Conservative"; House of Commons Procedure and Practice lists "Liberal-Conservative" for both his ministries. | [Appendix 6](https://www.ourcommons.ca/procedure-and-practice-4/app06-e.html) |
+| `content/entities/cases.yaml`, `content/glossary/patriation-reference.en.md` vs the conventions and patriation-1982 pages | The Patriation Reference is quoted as requiring a "substantial degree" of provincial consent in the first two and a "substantial measure" in the pages. Each was checked against a different source; the judgment may use both. | See VERIFICATION.md, "Reconciliation" |
+
+## Resolved
+
+| # | Where | Was | Now | Source | Resolved |
+|---|---|---|---|---|---|
+| 1 | content/provinces/nova-scotia.en.md, `legislature.seats.nova-scotia` in content/facts.yaml | "55 seats, a number first used in the 2021 general election" | 56 seats. Inverness was split in 2026 to create Chéticamp-Margarees-Pleasant Bay; its first MLA was elected at a byelection on June 23, 2026. Wikipedia was right. | [Nova Scotia Legislature: MLA profiles](https://nslegislature.ca/members/profiles); [Government of Nova Scotia, February 26, 2026](https://news.novascotia.ca/en/2026/02/26/new-cheticamp-margarees-pleasant-bay-riding) | 2026-11-13 |
+| 2 | content/learn/02-crown/reserve-powers.en.md, `king-byng-affair` in content/entities/events.yaml | King's request "~June 26–28"; Meighen defeated and Parliament dissolved July 2, 1926 | King asked for a dissolution on June 26 and resigned on June 28; Meighen became Prime Minister on June 29; his government was defeated on July 1 (the vote came in the early hours of July 2, per the Dictionary of Canadian Biography); Parliament was dissolved on July 2; the election was on September 14, 1926. The event is dated June 28. Still marked: "no federal refusal of a dissolution since 1926", which no fetched source states. | [House of Commons Procedure and Practice, Appendix 6](https://www.ourcommons.ca/procedure-and-practice-4/app06-e.html); [Elections Canada: History of Election Outcomes](https://www.elections.ca/content.aspx?section=vot&dir=bkg&document=heo&lang=e); [DCB: Byng](http://www.biographi.ca/en/bio/byng_julian_hedworth_george_16E.html) | 2026-11-13 |
 
 ## Checked and consistent
 
@@ -43,10 +59,15 @@ around each one; see the comments in `scripts/grounding/wikidata.ts`.
 | Premier of Nunavut | P.J. Akeeagok, since 2021 | John Main, since November 20, 2025 | Wikipedia infobox |
 | Premier of Newfoundland and Labrador | Tony Wakeham since October 1, 2025 | Since October 29, 2025 | Wikipedia infobox date |
 | Fredericton (Q2138) | No English label | "Fredericton" | Label fallback to `en-ca` |
+| Supreme Court bench | Still lists Sheilah Martin as sitting; no entry for Glenn Joyal as a judge | Martin left May 30, 2026; Joyal has sat since July 15, 2026 (the Court's list of judges) | `SCC_OVERRIDES` in `scripts/data/portraits.ts` |
+| Governors general: term dates | Lisgar from 1868-11-14; Alexander to 1952-02-28; Simon to 2026-06-07 | 1869-02-02; 1952-01-28; 2026-06-08 (gg.ca, former governors general) | `GG_TERM_OVERRIDES` in `scripts/grounding/wikidata.ts` |
 | Province "inception" (P571) | PEI 1769, BC January 1, 1871, Saskatchewan January 1, 1905 | These are colony dates or year-only values | Join dates come from P150 qualifiers on Canada instead |
 | Census population (P1082 with P459 = census) | Canada has no census figures for 1961–2006; most provinces none for 1981–2006 | — | `population-history.json` keeps the gaps; the site's charts use Statistics Canada instead |
 | PM parties (P102) | Mulroney and Tupper also list today's Conservative Party; Bennett lists Alberta's provincial PCs; Borden lists the Liberals (to 1891) | — | Only federal parties in the `PARTIES` table that existed during the term are kept |
 
-Recent changes a human should still confirm, even where Wikidata and Wikipedia agree:
-Louise Arbour as the 31st Governor General from June
-8, 2026, and the Quebec, PEI, Yukon and Nunavut premiers above.
+Recent office-holders were confirmed against official or news sources on 2026-11-13
+(details in VERIFICATION.md): Louise Arbour as the 31st Governor General from June 8,
+2026 (gg.ca); the premiers of Quebec (Paul St-Pierre Plamondon, October 21, 2026), Prince
+Edward Island (Rob Lantz, February 9, 2026), Yukon (Currie Dixon, November 22, 2025),
+Nunavut (John Main, November 20, 2025) and Newfoundland and Labrador (Tony Wakeham,
+October 29, 2025); and the Supreme Court bench above.

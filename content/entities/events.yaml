@@ -292,7 +292,7 @@ events:
     title: The King–Byng affair
     date: 1926-06-28
     # check: "the last time this happened federally" (no federal refusal of dissolution since 1926); unresolved 2026-11-13: not found in a fetched source
-    text: In the King–Byng affair, the Governor General refuses the Prime Minister's request for an election on June 28, the last time this happened federally.
+    text: In the King–Byng affair, the Governor General refuses the Prime Minister's request for an election, and the Prime Minister resigns on June 28. It was the last time this happened federally.
     era: becoming-fully-independent
     module: crown
     pages:
@@ -414,7 +414,7 @@ events:
   - id: indian-act-changes-1951
     title: The 1951 Indian Act changes
     date: 1951
-    text: Major Indian Act changes remove the ban on ceremonies and the limit on hiring lawyers for land claims.
+    text: Major Indian Act changes remove the ban on ceremonies and the ban on raising money for land claims.
     era: becoming-fully-independent
     module: indigenous
     pages: [/learn/indigenous/indian-act]
@@ -1120,6 +1120,7 @@ events:
   - id: alberta-equalization-referendum-2021
     title: Alberta's equalization referendum
     date: 2021
+    # check: "non-binding"; unresolved 2026-11-13: judgement call. Alberta's Referendum Act, s. 4, bound the Alberta government to act on the result, but the vote could not bind Ottawa or change the Constitution. /learn/federalism/money-and-equalization now says just "provincial referendum"; the wording here is kept because the event's old timeline anchor is built from its first words
     text: Alberta holds a non-binding referendum in which most voters back removing equalization from the Constitution.
     era: recent
     module: federalism

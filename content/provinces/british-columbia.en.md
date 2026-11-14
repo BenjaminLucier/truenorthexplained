@@ -135,7 +135,7 @@ See [Municipalities](/learn/federalism/municipalities).
 - [Lieutenant Governor of British Columbia](https://www.ltgov.bc.ca/)
 - [Government of British Columbia](https://www2.gov.bc.ca/)
 - [British Columbia Terms of Union](https://canada.justice.gc.ca/eng/rp-pr/csj-sjc/constitution/lawreg-loireg/p1t42.html) (Department of Justice): clause 11, railway to be completed "within ten years from the date of the Union"
-- [Douglas Treaties](https://www.rcaanc-cirnac.gc.ca/eng/1360945974712/1544619909155) (Crown-Indigenous Relations and Northern Affairs Canada): fourteen land purchases on Vancouver Island, 1850–1854
+- [Douglas Treaties](https://www.rcaanc-cirnac.gc.ca/eng/1360945974712/1544619909155) (Crown-Indigenous Relations and Northern Affairs Canada): 14 land purchases on Vancouver Island, 1850–1854
 - [Alberta MLA recall petitions: what to know](https://globalnews.ca/news/11540768/alberta-mla-recall-petitions-what-to-know/) (Global News, November 25, 2025): Alberta and BC are the only provinces with recall laws
 - [Declaration on the Rights of Indigenous Peoples Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) (BC Laws)
 - [Recall and Initiative Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96398_00) (BC Laws) and [Elections BC: recall and initiative](https://elections.bc.ca/recall-initiative/)

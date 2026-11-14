@@ -467,6 +467,19 @@ export async function runWikidata(manifest: Manifest): Promise<void> {
   check(monarchs.length >= 7 && monarchs[0]?.qid === "Q9439", `expected 7+ monarchs from Victoria, got ${monarchs.length}`);
   const ggs = await holders("Q390776", "1867-07-01");
   check(ggs.length >= 30 && ggs[0]?.qid === "Q333233", `expected 30+ governors general from Monck, got ${ggs.length}`);
+  // Term dates where Wikidata differs from the Governor General's own list of former
+  // governors general (https://www.gg.ca/en/governor-general/former-governors-general,
+  // checked 2026-11-13). Each applies to the holder's only term.
+  const GG_TERM_OVERRIDES: Record<string, Partial<Term>> = {
+    Q334392: { start: "1869-02-02" }, // Lisgar: Wikidata has 1868-11-14, the day Monck left
+    Q39168: { end: "1952-01-28" }, // Alexander of Tunis: Wikidata has 1952-02-28
+    Q6780723: { end: "2026-06-08" }, // Mary Simon: Wikidata has 2026-06-07
+  };
+  for (const [qid, patch] of Object.entries(GG_TERM_OVERRIDES)) {
+    const h = ggs.find((g) => g.qid === qid);
+    check(h?.terms.length === 1, `governor general ${qid} should have exactly one term to override`);
+    Object.assign(h!.terms[0]!, patch);
+  }
   const cjs = await holders("Q1339242");
   check(cjs.length >= 18 && cjs[0]?.qid === "Q387532", `expected 18+ chief justices from Richards, got ${cjs.length}`);
   for (const [label, list] of [["monarch", monarchs], ["governor general", ggs], ["chief justice", cjs]] as const) {

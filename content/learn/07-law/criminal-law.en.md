@@ -54,7 +54,7 @@ outside provincial power. See [Federalism](/learn/federalism).
 ### Who does what, step by step
 
 1. **Police investigate.** Most policing is provincial or municipal. Ontario and Quebec
-   have their own provincial police forces. Most other provinces, and all three
+   have their own provincial police forces. All other provinces, and all three
    territories, pay the **RCMP** (the federal police force) to act as their provincial
    police. In Newfoundland and Labrador, the RCMP shares that role with the province's
    own Royal Newfoundland Constabulary, which polices the St. John's area, Corner Brook
@@ -96,6 +96,7 @@ to a jury trial for offences punishable by five years or more in prison. See
 - [Criminal Code](https://laws-lois.justice.gc.ca/eng/acts/C-46/)
 - [About the Public Prosecution Service of Canada](https://www.ppsc-sppc.gc.ca/eng/bas/index.html): its role in the provinces and territories
 - [Royal Newfoundland Constabulary](https://www.rnc.gov.nl.ca/): Newfoundland and Labrador's provincial police service and its regions
+- [RCMP contract policing](https://rcmp.ca/en/contract-policing/about): the RCMP serves as the provincial police in eight provinces and as the territorial police in all three territories
 - [About the RCMP in Newfoundland and Labrador](https://rcmp.ca/en/nl/corporate-information): the RCMP polices the province except the areas the Constabulary serves
 - [About Canada's System of Justice](https://www.justice.gc.ca/eng/csj-sjc/just/index.html) (Department of Justice)
 - [Constitution Act, 1982 (Charter)](https://laws-lois.justice.gc.ca/eng/const/page-12.html): ss. 7–14 (legal rights)
