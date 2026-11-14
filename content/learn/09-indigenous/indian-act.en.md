@@ -55,8 +55,9 @@ this to the UN Human Rights Committee, which found against Canada in 1981. In 19
 prompted by court cases, followed in 2011 and 2017.
 
 > **As of 2026:** Further reforms to registration (including the "second-generation
-> cut-off," which can stop status passing to grandchildren) are under discussion.
-> <!-- check: status of Indian Act registration reform legislation in 2025–2026 -->
+> cut-off," which can stop status passing to grandchildren) are under discussion. A bill
+> on remaining inequities in registration and band membership (Bill S-2) was at the
+> committee stage in the House of Commons in 2026.
 
 ### Reserves
 
@@ -76,7 +77,6 @@ needed the approval of the minister responsible for Indian affairs.
 
 Today, First Nations can choose among Indian Act elections, **custom** election codes
 designed by the community, or elections under the *First Nations Elections Act* (2014).
-<!-- check: First Nations Elections Act year and three election options -->
 
 Band councils sit alongside, and sometimes in tension with, **traditional governments**
 such as hereditary chiefs and clan systems. These existed long before the Act. The Act
@@ -89,10 +89,10 @@ hereditary chiefs have at times taken different positions on major issues.
 For much of its history, the Act aimed to absorb First Nations people into settler
 society. At various times it:
 
-- **banned ceremonies**, such as the potlatch and certain dances (a ban added in 1884
+- **banned ceremonies**, such as the potlatch and certain dances (bans added from 1884
   and removed in 1951)
-- stopped First Nations from hiring lawyers to pursue land claims without government
-  approval (1927 to 1951) <!-- check: wording of 1927 restriction -->
+- made it illegal for First Nations to raise money to pursue land claims (1927 to
+  1951)
 - used **enfranchisement**: a status person who became a lawyer or a university
   graduate, for example, could lose status. It was presented as a path to citizenship
   and the vote.
@@ -114,7 +114,6 @@ created in 2008. In 2015 it published its findings, describing the system as par
 policy of **cultural genocide**, and issued **94 Calls to Action**. The federal
 government formally apologized in 2008. Records are kept by the **National Centre for
 Truth and Reconciliation** at the University of Manitoba.
-<!-- check: confirm "last school closed 1996", TRC established 2008, NCTR location -->
 
 ### Why not just repeal it?
 
@@ -123,7 +122,7 @@ and many programs all depend on it. Repealing it overnight would leave a legal v
 Many First Nations also worry that repeal could be used to reduce federal obligations.
 In 1969, a federal [White Paper](term:white-paper-1969) proposed abolishing the Act and status entirely.
 First Nations rejected it strongly, seeing it as assimilation by another name, and it
-was withdrawn. <!-- check: 1969 White Paper withdrawn 1971 -->
+was withdrawn.
 
 The main route out today is **opting out piece by piece**: through
 [self-government agreements](/learn/indigenous/self-government), [modern treaties](term:modern-treaty), and
@@ -132,7 +131,10 @@ laws that let First Nations take over areas such as land management.
 ## Sources
 
 - [Indian Act, R.S.C. 1985, c. I-5](https://laws-lois.justice.gc.ca/eng/acts/I-5/) (Justice Laws)
-- [About Indian status](https://www.sac-isc.gc.ca/eng/1100100032463/1572459644986) (Indigenous Services Canada)
+- [About Indian status](https://www.sac-isc.gc.ca/eng/1100100032463/1572459644986) and [Indian Act reform](https://www.sac-isc.gc.ca/eng/1706280426591/1706280463468) (Indigenous Services Canada)
+- [Bill S-2 (45th Parliament), An Act to amend the Indian Act (new registration entitlements)](https://www.parl.ca/legisinfo/en/bill/45-1/s-2) (LEGISinfo)
+- [First Nations Elections Act, S.C. 2014, c. 5](https://laws-lois.justice.gc.ca/eng/acts/F-11.65/) (Justice Laws)
+- [Indian Act](https://www.thecanadianencyclopedia.ca/en/article/indian-act), [Residential Schools in Canada](https://www.thecanadianencyclopedia.ca/en/article/residential-schools), [Truth and Reconciliation Commission](https://www.thecanadianencyclopedia.ca/en/article/truth-and-reconciliation-commission) and [The White Paper, 1969](https://www.thecanadianencyclopedia.ca/en/article/the-white-paper-1969) (The Canadian Encyclopedia): amendment history, the ceremony and land-claim bans, the last school's closing in 1996, the TRC and NCTR
 - [Constitution Act, 1867](https://laws-lois.justice.gc.ca/eng/const/page-1.html): s. 91(24)
 - [Truth and Reconciliation Commission reports](https://nctr.ca/records/reports/) (NCTR)
 - [Delivering on Truth and Reconciliation Commission Calls to Action](https://www.rcaanc-cirnac.gc.ca/eng/1450124405592/1529106060525) (CIRNAC)

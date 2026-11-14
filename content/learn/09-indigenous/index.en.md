@@ -164,7 +164,7 @@ governments and courts still work through.
 **"Indigenous people don't pay taxes."**
 Most do. The Indian Act exempts only certain property of *status* First Nations people
 located *on a reserve*, such as income earned there. Métis and Inuit have no such
-exemption under the Indian Act. <!-- check: confirm framing of s. 87 exemption scope against CRA guidance -->
+exemption under the Indian Act.
 
 **"The duty to consult gives Indigenous nations a veto over any project."**
 Not as the courts have described it. The Crown must consult in good faith and, where
@@ -178,7 +178,8 @@ meet a strict justification test.
 - [Constitution Act, 1982](https://laws-lois.justice.gc.ca/eng/const/page-12.html): s. 25 (Charter doesn't reduce Aboriginal rights; mentions the Royal Proclamation of 1763), s. 35 (Aboriginal and treaty rights)
 - [Indigenous peoples and communities](https://www.rcaanc-cirnac.gc.ca/eng/1100100013785/1529102490303) (Crown-Indigenous Relations and Northern Affairs Canada)
 - [About treaties](https://www.rcaanc-cirnac.gc.ca/eng/1100100028574/1529354437231) (CIRNAC)
-- [Indian Act](https://laws-lois.justice.gc.ca/eng/acts/I-5/) (Justice Laws)
+- [Indian Act](https://laws-lois.justice.gc.ca/eng/acts/I-5/) (Justice Laws): s. 87 (tax exemption)
+- [Information on the tax exemption under section 87 of the Indian Act](https://www.canada.ca/en/revenue-agency/services/indigenous-peoples/information-indians.html) (Canada Revenue Agency)
 - [United Nations Declaration on the Rights of Indigenous Peoples Act](https://laws-lois.justice.gc.ca/eng/acts/U-2.2/) (Justice Laws)
 - [2021 Census: Indigenous population](https://www150.statcan.gc.ca/n1/daily-quotidien/220921/dq220921a-eng.htm) (Statistics Canada, *The Daily*)
 - [Truth and Reconciliation Commission reports](https://nctr.ca/records/reports/) (National Centre for Truth and Reconciliation)

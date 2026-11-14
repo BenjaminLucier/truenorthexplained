@@ -91,25 +91,25 @@ const ANNOTATIONS: Record<string, Annotation> = {
   HT03: {
     id: "upper-canada",
     name: "Upper Canada land surrenders",
-    parties: "Anishinaabe nations, including the Mississauga and Chippewa, and the British Crown (more than 30 separate agreements)",
+    parties: "Anishinaabe nations, including the Mississauga and Chippewa, and other First Nations, and the British Crown (many separate agreements)",
     link: { href: `${CIRNAC}/eng/1360941656761/1544619778887#uc`, label: "Upper Canada land surrenders (CIRNAC)" },
   },
   PT0002a: {
     id: "robinson-huron",
     name: "Robinson-Huron Treaty",
-    parties: "Anishinaabe (Ojibwe) First Nations of Lake Huron and Georgian Bay, and the Province of Canada for the British Crown",
+    parties: "Anishinaabe (Ojibwe) First Nations of Lake Huron and Georgian Bay, and William Benjamin Robinson for the British Crown",
     link: { href: `${CIRNAC}/eng/1360945974712/1544619909155#rt`, label: "Robinson Treaties (CIRNAC)" },
   },
   HT05: {
     id: "robinson-superior",
     name: "Robinson-Superior Treaty",
-    parties: "Anishinaabe (Ojibwe) First Nations of Lake Superior, and the Province of Canada for the British Crown",
+    parties: "Anishinaabe (Ojibwe) First Nations of Lake Superior, and William Benjamin Robinson for the British Crown",
     link: { href: `${CIRNAC}/eng/1360945974712/1544619909155#rt`, label: "Robinson Treaties (CIRNAC)" },
   },
   HT06: {
     id: "douglas",
     name: "Douglas Treaties",
-    parties: "First Nations of southern Vancouver Island (14 treaties), and James Douglas for the Hudson's Bay Company's colony of Vancouver Island",
+    parties: "First Nations of Vancouver Island (14 treaties), and James Douglas for the Hudson's Bay Company and the British Crown",
     link: { href: `${CIRNAC}/eng/1360945974712/1544619909155#dt`, label: "Douglas Treaties (CIRNAC)" },
   },
   HT07: numbered("1", "/eng/1100100028664/1581294165927", "Anishinaabe (Ojibwe) and Swampy Cree First Nations of southern Manitoba", 1871),
@@ -142,7 +142,7 @@ const ANNOTATIONS: Record<string, Annotation> = {
   GP0026a: {
     id: "nqa",
     name: "Northeastern Quebec Agreement",
-    parties: "The Naskapi of Kawawachikamach, Quebec and Canada",
+    parties: "The Naskapi of Kawawachikamach (then of Schefferville), Quebec, Canada, Quebec Crown corporations, and the Cree and Inuit parties to the James Bay agreement",
     link: { href: FINAL_AGREEMENTS.qc!, label: "Final agreements in Quebec (CIRNAC)" },
   },
   NT01: {
@@ -160,7 +160,7 @@ const ANNOTATIONS: Record<string, Annotation> = {
   GP0013a: {
     id: "gwichin",
     name: "Gwich'in Comprehensive Land Claim Agreement",
-    parties: "The Gwich'in of the Northwest Territories, the Northwest Territories and Canada",
+    parties: "The Gwich'in of the Northwest Territories and Canada",
     link: { href: FINAL_AGREEMENTS.nt!, label: "Final agreements in the Northwest Territories (CIRNAC)" },
   },
   GP0022a: {
@@ -172,26 +172,29 @@ const ANNOTATIONS: Record<string, Annotation> = {
   GP0014a: {
     id: "sahtu",
     name: "Sahtu Dene and Metis Comprehensive Land Claim Agreement",
-    parties: "The Sahtu Dene and Métis, the Northwest Territories and Canada",
+    yearNote: "signed 1993",
+    parties: "The Sahtu Dene and Métis and Canada",
     link: { href: FINAL_AGREEMENTS.nt!, label: "Final agreements in the Northwest Territories (CIRNAC)" },
   },
   GP0005a: {
     id: "nisgaa",
     name: "Nisga'a Final Agreement",
-    yearNote: "signed 1998, in effect 2000",
+    yearNote: "signed 1999, in effect 2000",
     parties: "The Nisga'a Nation, British Columbia and Canada",
     link: { href: "https://laws-lois.justice.gc.ca/eng/acts/N-23.3/", label: "Nisga'a Final Agreement Act (Justice Laws)" },
   },
   NT04: {
     id: "tlicho",
     name: "Tłı̨chǫ Agreement",
-    parties: "The Tłı̨chǫ, the Northwest Territories and Canada",
+    yearNote: "signed 2003",
+    parties:"The Tłı̨chǫ, the Northwest Territories and Canada",
     link: { href: FINAL_AGREEMENTS.nt!, label: "Final agreements in the Northwest Territories (CIRNAC)" },
   },
   CL1601a: {
     id: "tlicho",
     name: "Tłı̨chǫ Agreement",
     year: 2005,
+    yearNote: "signed 2003",
     parties: "The Tłı̨chǫ, the Northwest Territories and Canada",
     link: { href: FINAL_AGREEMENTS.nt!, label: "Final agreements in the Northwest Territories (CIRNAC)" },
   },
@@ -204,30 +207,35 @@ const ANNOTATIONS: Record<string, Annotation> = {
   GP0023a: {
     id: "nunavik-inuit",
     name: "Nunavik Inuit Land Claims Agreement",
+    yearNote: "signed 2006",
     parties: "The Inuit of Nunavik and Canada",
     link: { href: FINAL_AGREEMENTS.nu!, label: "Final agreements in Nunavut (CIRNAC)" },
   },
   NU05: {
     id: "eeyou-marine",
     name: "Eeyou Marine Region Land Claims Agreement",
+    yearNote: "signed 2010",
     parties: "The Cree of Eeyou Istchee and Canada",
     link: { href: FINAL_AGREEMENTS.nu!, label: "Final agreements in Nunavut (CIRNAC)" },
   },
   BC52: {
     id: "tsawwassen",
     name: "Tsawwassen First Nation Final Agreement",
+    yearNote: "signed 2007",
     parties: "Tsawwassen First Nation, British Columbia and Canada",
     link: { href: FINAL_AGREEMENTS.bc!, label: "Final agreements in British Columbia (CIRNAC)" },
   },
   BC30: {
     id: "maa-nulth",
     name: "Maa-nulth First Nations Final Agreement",
+    yearNote: "signed 2008",
     parties: "Five Maa-nulth First Nations of western Vancouver Island, British Columbia and Canada",
     link: { href: FINAL_AGREEMENTS.bc!, label: "Final agreements in British Columbia (CIRNAC)" },
   },
   SA0002c: {
     id: "tlaamin",
     name: "Tla'amin Nation Final Agreement",
+    yearNote: "signed 2014",
     parties: "Tla'amin Nation, British Columbia and Canada",
     link: { href: FINAL_AGREEMENTS.bc!, label: "Final agreements in British Columbia (CIRNAC)" },
   },
@@ -235,6 +243,7 @@ const ANNOTATIONS: Record<string, Annotation> = {
     id: "deline",
     name: "Délı̨nę Final Self-Government Agreement",
     year: 2016,
+    yearNote: "signed 2015",
     parties: "The Délı̨nę First Nation and Délı̨nę Land Corporation, the Northwest Territories and Canada",
     link: { href: FINAL_AGREEMENTS.nt!, label: "Final agreements in the Northwest Territories (CIRNAC)" },
   },
@@ -261,10 +270,13 @@ const YUKON: Record<string, string> = {
   YT14: "Vuntut Gwitchin First Nation",
   GP0029a: "First Nation of Na-Cho Nyäk Dun",
 };
+/** Signing years (CIRNAC's modern treaty list) where the dataset's year is a later one. */
+const YUKON_SIGNED: Record<string, string> = { YT01: "signed 2005", YT02: "signed 1993", YT10: "signed 1993", GP0029a: "signed 1993" };
 for (const [tag, nation] of Object.entries(YUKON)) {
   ANNOTATIONS[tag] = {
     id: `yukon-${tag.toLowerCase()}`,
     name: `${nation} Final Agreement`,
+    ...(YUKON_SIGNED[tag] ? { yearNote: YUKON_SIGNED[tag] } : {}),
     parties: `${nation}, Yukon and Canada`,
     link: { href: FINAL_AGREEMENTS.yt!, label: "Final agreements in Yukon (CIRNAC)" },
   };
