@@ -70,7 +70,7 @@ leaders, and the appointment must be approved by resolution of both houses. The 
 the Senate and House. That's designed so no single government controls the office.
 
 Audit reports are studied by the House of Commons **[Public Accounts Committee](term:public-accounts-committee)**, which
-is chaired by a member of the [Official Opposition](term:official-opposition). <!-- check: Standing Order 106(2) -->
+is chaired by a member of the [Official Opposition](term:official-opposition).
 
 ### The Parliamentary Budget Officer
 
@@ -80,7 +80,7 @@ PBO to estimate the cost of a proposal. Before a general election, political par
 and independent MPs can also ask the PBO to cost their campaign promises.
 
 The office was created in 2006 and was made an independent officer of Parliament in
-2017. <!-- check: 2006 creation (Federal Accountability Act) and 2017 status change -->
+2017.
 
 ### Ethics
 
@@ -100,13 +100,12 @@ overturn a government decision or fine a minister for a bad program. Their influ
 comes from publicity and from Parliament's response. There are exceptions with sharper
 teeth: for example, the Information Commissioner can order departments to release
 records, and the Commissioner of Canada Elections (part of the Chief Electoral
-Officer's organization) can enforce election law. <!-- check: Information Commissioner order-making power since 2019 -->
+Officer's organization) can enforce election law.
 
 ### Not to be confused with
 
 - **Ombudspersons** for particular groups, like the Veterans Ombud or the Taxpayers'
   Ombudsperson, usually report to a minister, not to Parliament.
-  <!-- check: reporting relationships of federal ombuds -->
 - **Provincial watchdogs.** Each province has its own auditor general, ethics or
   integrity commissioner, and in most provinces an ombudsperson who reports to the
   provincial legislature.
@@ -114,8 +113,13 @@ Officer's organization) can enforce election law. <!-- check: Information Commis
 ## Sources
 
 - [Auditor General Act](https://laws-lois.justice.gc.ca/eng/acts/A-17/): s. 3 (appointment, ten-year term, no reappointment)
-- [Office of the Auditor General of Canada](https://www.canada.ca/en/auditor-general/) <!-- unverified link: redirect target; final URL not confirmed -->
+- [Office of the Auditor General of Canada](https://www.canada.ca/en/auditor-general/)
 - [About the Parliamentary Budget Officer](https://www.pbo-dpb.ca/en/about--a-propos)
+- [History of the PBO](https://www.pbo-dpb.ca/en/history--historique): created December 2006; independent officer of Parliament since 2017
+- [Standing Orders of the House of Commons, chapter 13](https://www.ourcommons.ca/procedure/standing-orders/chap13-e.html): SO 106(2), Public Accounts chair from the Official Opposition
+- [How Bill C-58 changed the Access to Information Act](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/modernizing-access-information/how-bill-c-58-changed-access-information-act.html) (Treasury Board Secretariat): Information Commissioner's order-making power
+- [Canada Elections Act, s. 509.1](https://laws-lois.justice.gc.ca/eng/acts/E-2.01/section-509.1.html): Commissioner of Canada Elections within the Office of the Chief Electoral Officer
+- [Taxpayers' Ombudsperson: mandate](https://www.canada.ca/en/taxpayers-ombudsperson/corporate/about-us/mandate.html) and [Veterans Ombud annual report 2025–2026](https://www.ombudsman-veterans.gc.ca/en/publications/annual-reports/2025-2026): recommendations go to the minister
 - [Office of the Conflict of Interest and Ethics Commissioner](https://www.ethicscanada.ca/en/home)
 - [To Be or Not to Be an Officer of Parliament, That Is the Question](https://hillnotes.ca/2018/04/26/to-be-or-not-to-be-an-officer-of-parliament-that-is-the-question/) (HillNotes, Library of Parliament): criteria and list of nine officers
 - [Overview of federal organizations and interests](https://www.canada.ca/en/treasury-board-secretariat/services/reporting-government-spending/inventory-government-organizations/overview-institutional-forms-definitions.html) (Treasury Board Secretariat): agents of Parliament

@@ -34,12 +34,12 @@ different amounts. Equalization is aimed at that gap.
 | Transfer | Who gets it | What it's for | How it's shared | Strings attached? |
 |---|---|---|---|---|
 | **Canada Health Transfer (CHT)** | All provinces and territories | Health care | Equal amount per person | Yes: provinces must follow the *Canada Health Act* or risk deductions |
-| **Canada Social Transfer (CST)** | All provinces and territories | Post-secondary education, social assistance and social services, early childhood development and child care | Equal amount per person | Few. The main one is that provinces can't impose a minimum residency period for social assistance <!-- check: CST residency condition --> |
+| **Canada Social Transfer (CST)** | All provinces and territories | Post-secondary education, social assistance and social services, early childhood development and child care | Equal amount per person | Few. The main one is that provinces can't impose a minimum residency period for social assistance |
 | **Equalization** | Only provinces below the national standard | Anything; it's unconditional | Formula based on "fiscal capacity" | No |
 | **Territorial Formula Financing (TFF)** | The three territories | Anything; it's unconditional | A separate formula for each territory | No |
 
 The CHT and CST were created in 2004, when an earlier combined transfer (the Canada
-Health and Social Transfer) was split in two. <!-- check: 2004 split date -->
+Health and Social Transfer) was split in two.
 
 Here's what the three biggest transfers to provinces add up to for each resident. The
 health and social transfers are the same everywhere; equalization is what makes the
@@ -106,7 +106,7 @@ have small tax bases. TFF is an annual unconditional grant to each territorial
 government. Each territory has its own **gap-filling** formula: roughly, its estimated
 spending needs minus its capacity to raise revenue. Only part of a territory's own
 revenue capacity is counted, so territories still have a reason to grow their own
-economies. TFF has existed since 1985. <!-- check: TFF start year -->
+economies. TFF has existed since 1985.
 
 ### Other money flows
 
@@ -120,16 +120,20 @@ amount.
 > federalism. Some argue the formula is unfair to resource-rich provinces, or that it
 > discourages economic development; others argue it's essential to the idea that every
 > Canadian should get comparable services wherever they live. In 2021, Alberta held a
-> [non-binding provincial referendum](event:alberta-equalization-referendum-2021) in which a majority voted to remove the
+> [provincial referendum](event:alberta-equalization-referendum-2021) in which a majority voted to remove the
 > equalization commitment from the Constitution. A referendum on its own doesn't amend
-> the Constitution. <!-- check: Alberta 2021 referendum result details -->
+> the Constitution.
 
 ## Sources
 
 - [Federal transfers to provinces and territories](https://www.canada.ca/en/department-finance/programs/federal-transfers.html) (Finance Canada)
 - [Equalization program](https://www.canada.ca/en/department-finance/programs/federal-transfers/equalization.html) (Finance Canada): start date, financing from general revenues, formula, renewal date
 - [Canada Health Transfer](https://www.canada.ca/en/department-finance/programs/federal-transfers/canada-health-transfer.html) (Finance Canada): per-capita allocation, growth rules
-- [Canada Social Transfer](https://www.canada.ca/en/department-finance/programs/federal-transfers/canada-social-transfer.html) (Finance Canada)
+- [Canada Social Transfer](https://www.canada.ca/en/department-finance/programs/federal-transfers/canada-social-transfer.html) (Finance Canada): residency condition, 3% growth
+- [History of health and social transfers](https://www.canada.ca/en/department-finance/programs/federal-transfers/history-health-social-transfers.html) (Finance Canada): CHST split into the CHT and CST effective April 1, 2004
+- [Federal-Provincial Fiscal Arrangements Act, s. 25.1](https://laws-lois.justice.gc.ca/eng/acts/F-8/section-25.1.html): no minimum residency period for social assistance
 - [Territorial Formula Financing](https://www.canada.ca/en/department-finance/programs/federal-transfers/territorial-formula-financing.html) (Finance Canada)
+- [Departmental Plan 2026–27: supplementary information tables](https://www.canada.ca/en/department-finance/corporate/transparency/plans-performance/departmental-plans/2026-2027/supplementary-information-tables-page-1.html) (Finance Canada): start dates of the major transfers (TFF, 1985)
+- [2021 Senate and Referendum Report](https://www.elections.ab.ca/uploads/2021-Senate-and-Referendum-Report.pdf) (Elections Alberta): October 18, 2021 equalization question, 61.7% yes
 - [Canada Health Act](https://laws-lois.justice.gc.ca/eng/acts/C-6/): s. 7 (program criteria)
 - [Constitution Act, 1982, s. 36](https://laws-lois.justice.gc.ca/eng/const/page-13.html)

@@ -43,8 +43,7 @@
   explanation: >
     Deputy ministers are senior career public servants appointed by the Governor in
     Council on the Prime Minister's recommendation, not by their own minister.
-  # check: find a source page that states how deputy ministers are appointed
-  source: https://www.canada.ca/en/treasury-board-secretariat/services/reporting-government-spending/inventory-government-organizations/overview-institutional-forms-definitions.html
+  source: https://www.pm.gc.ca/en/news/backgrounders/2015/11/27/open-and-accountable-government
 
 - id: government-mint-role
   pages: [learn/government, learn/government/bank-of-canada-vs-mint]
@@ -256,7 +255,7 @@
   answer: 1
   explanation: >
     The Bank Rate peaked at about 21% in August 1981, as the Bank fought double-digit
-    inflation. In 2008 and 2020 it cut its rate close to zero, and after inflation
+    inflation. In 2009 and 2020 it cut its rate close to zero, and after inflation
     jumped in 2022 it raised it to 5% by 2023.
   source: https://www.bankofcanada.ca/rates/interest-rates/canadian-interest-rates/
 

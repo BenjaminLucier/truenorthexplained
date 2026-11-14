@@ -92,13 +92,13 @@ non-partisan public service**:
   look like it impairs, their ability to do their job in a politically neutral way.
   Running as a candidate requires the Public Service Commission's permission. Rules are
   stricter for deputy ministers, who aren't allowed to engage in political activity
-  except voting. <!-- check: PSEA Part 7 details for deputy heads -->
+  except voting.
 - **Continuity.** When the government changes after an election, deputy ministers and
   public servants stay. They give the new ministers the same loyal service they gave
   the old ones.
 - **Values and ethics.** A government-wide code sets out expected values: respect for
   democracy, respect for people, integrity, stewardship and excellence.
-  <!-- check: Values and Ethics Code wording -->
+  <!-- check: Values and Ethics Code wording; unresolved 2026-11-13: blocked to automated fetch (tbs-sct.canada.ca rejects the request; canada.ca values-and-ethics pages return no text) -->
 
 Ministers also employ **exempt staff** (political advisers, communications staff) who
 are hired outside the merit system and leave with their minister.
@@ -120,6 +120,7 @@ merit-based public service of their own.
 ## Sources
 
 - [Overview of federal organizations and interests](https://www.canada.ca/en/treasury-board-secretariat/services/reporting-government-spending/inventory-government-organizations/overview-institutional-forms-definitions.html) (Treasury Board Secretariat): definitions of departments, departmental corporations and other institutional forms
-- [Public Service Employment Act](https://laws-lois.justice.gc.ca/eng/acts/P-33.01/): s. 30 (basis of appointment), Part 7 (political activities)
+- [Public Service Employment Act](https://laws-lois.justice.gc.ca/eng/acts/P-33.01/): s. 30 (basis of appointment), Part 7 (political activities: ss. 113, 114 and 117)
+- [Open and Accountable Government](https://www.pm.gc.ca/en/news/backgrounders/2015/11/27/open-and-accountable-government) (Prime Minister of Canada, 2015): deputy ministers chosen by the Prime Minister on the Clerk's advice and appointed by the Governor in Council; accounting officers
 - [Financial Administration Act](https://laws-lois.justice.gc.ca/eng/acts/F-11/): Schedule I (departments)
 - [House of Commons: "Our Procedure"](https://www.ourcommons.ca/procedure/our-procedure/)
