@@ -1,9 +1,10 @@
 /**
  * `pnpm freshness`: what may be out of date, and what's coming up.
- * See src/lib/freshness.ts. Always exits 0 unless the watchlist is malformed;
+ * See src/lib/freshness.ts. `--all` includes watchlist items further out;
+ * `--summary` prints one line. Always exits 0 unless the watchlist is malformed;
  * staleness is a prompt to look, not an error.
  */
-import { DATASET_RULES, FACT_MAX_DAYS, TIMELINE_MAX_DAYS, freshnessReport, type FreshnessReport } from "../src/lib/freshness.ts";
+import { DATASET_RULES, FACT_MAX_DAYS, TIMELINE_MAX_DAYS, freshnessReport, freshnessSummary, type FreshnessReport } from "../src/lib/freshness.ts";
 
 const STATUS_LABEL = { overdue: "OVERDUE", due: "due today", upcoming: "coming up", later: "later" } as const;
 
@@ -58,6 +59,8 @@ export function printFreshness(r: FreshnessReport, { all = false } = {}): void {
 
 if (import.meta.url === `file://${process.argv[1]}`) {
   const report = freshnessReport();
-  printFreshness(report, { all: process.argv.includes("--all") });
+  // --summary: the one line `pnpm validate` prints (used by the Claude Code session hook).
+  if (process.argv.includes("--summary")) console.log(freshnessSummary(report));
+  else printFreshness(report, { all: process.argv.includes("--all") });
   if (report.errors.length) process.exit(1);
 }

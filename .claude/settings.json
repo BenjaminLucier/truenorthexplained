@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(pnpm validate)",
+      "Bash(pnpm review)",
+      "Bash(pnpm check)",
+      "Bash(pnpm test)",
+      "Bash(pnpm freshness:*)",
+      "Bash(pnpm sources:*)",
+      "WebFetch(domain:canada.ca)",
+      "WebFetch(domain:www.canada.ca)",
+      "WebFetch(domain:laws-lois.justice.gc.ca)",
+      "WebFetch(domain:www.parl.ca)",
+      "WebFetch(domain:www.ourcommons.ca)",
+      "WebFetch(domain:sencanada.ca)",
+      "WebFetch(domain:www.elections.ca)",
+      "WebFetch(domain:www.gg.ca)",
+      "WebFetch(domain:www.pm.gc.ca)",
+      "WebFetch(domain:www.statcan.gc.ca)",
+      "WebFetch(domain:gazette.gc.ca)",
+      "WebFetch(domain:en.wikipedia.org)"
+    ]
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup",
+        "hooks": [{ "type": "command", "command": "node \"$CLAUDE_PROJECT_DIR/.claude/hooks/session-start.mjs\"", "timeout": 60 }]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit",
+        "hooks": [{ "type": "command", "command": "node \"$CLAUDE_PROJECT_DIR/.claude/hooks/validate-content.mjs\"", "timeout": 60 }]
+      }
+    ]
+  }
+}
