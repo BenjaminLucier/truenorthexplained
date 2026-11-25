@@ -1,0 +1,2 @@
+# False positives: a token= query parameter in a citation URL inside a copied Wikipedia article (public text).
+fbbbc96758090ce92d77ed7cfcefc9eb4377a842:grounding/wikipedia/elections-in-canada.wiki:generic-api-key:535
