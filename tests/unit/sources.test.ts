@@ -10,6 +10,13 @@ describe("linksInText", () => {
     ]);
   });
 
+  it("keeps balanced parentheses in URLs", () => {
+    expect(linksInText("[LG](https://en.wikipedia.org/wiki/Lieutenant_governor_(Canada)).", "md")[0]?.url).toBe(
+      "https://en.wikipedia.org/wiki/Lieutenant_governor_(Canada)",
+    );
+    expect(linksInText("source: (see https://en.wikipedia.org/wiki/A_(b))", "yaml")[0]?.url).toBe("https://en.wikipedia.org/wiki/A_(b)");
+  });
+
   it("ignores bare URLs in markdown prose", () => {
     expect(linksInText("Go to https://example.ca today.", "md")).toEqual([]);
   });

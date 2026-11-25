@@ -29,9 +29,10 @@ export interface SourceLink {
   refs: SourceRef[];
 }
 
-/** URLs in free text end before whitespace, quotes, brackets and trailing punctuation. */
-const URL_IN_TEXT = /https?:\/\/[^\s"'<>()\]]+/g;
-const MD_LINK = /\]\((https?:\/\/[^\s)]+)(?:\s+"[^"]*")?\)/g;
+/** URLs in free text end before whitespace, quotes, brackets and trailing punctuation (balanced parentheses stay). */
+const URL_IN_TEXT = /https?:\/\/(?:[^\s"'<>()[\]]|\([^\s"'<>()]*\))+/g;
+/** Allows one level of balanced parentheses, as in Wikipedia's "Lieutenant_governor_(Canada)". */
+const MD_LINK = /\]\((https?:\/\/(?:[^\s()]|\([^\s()]*\))+)(?:\s+"[^"]*")?\)/g;
 
 /** Trims sentence punctuation that a bare URL in prose picks up. */
 export function cleanUrl(raw: string): string {

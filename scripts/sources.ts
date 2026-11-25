@@ -49,13 +49,14 @@ async function fetchOnce(url: string, method: "HEAD" | "GET"): Promise<{ code: n
 async function check(link: SourceLink): Promise<Result> {
   if (BLOCKING_HOSTS.includes(link.host)) return { ...link, status: "blocked", code: null, error: "host blocks automated checks; check in a browser" };
   try {
-    let r = await fetchOnce(link.url, "HEAD");
-    // Many servers answer HEAD wrongly (405, 403, 404 or 5xx); GET is the real answer.
-    if (r.code >= 400) r = await fetchOnce(link.url, "GET");
+    // Many servers answer HEAD wrongly (405, 403, 404, 5xx, even a redirect
+    // loop); GET is the real answer.
+    const head = await fetchOnce(link.url, "HEAD").catch(() => undefined);
+    const r = head && head.code < 400 ? head : await fetchOnce(link.url, "GET");
     return { ...link, status: classify(link.url, r.code, r.finalUrl), code: r.code, finalUrl: r.finalUrl !== link.url ? r.finalUrl : undefined };
   } catch (e) {
-    const err = e as Error & { cause?: { code?: string } };
-    return { ...link, status: "error", code: null, error: err.cause?.code ?? err.name ?? String(e) };
+    const err = e as Error & { cause?: { code?: string; message?: string } };
+    return { ...link, status: "error", code: null, error: err.cause?.code ?? err.cause?.message ?? err.message };
   }
 }
 
@@ -121,7 +122,7 @@ if (json) {
   const order: CheckStatus[] = ["broken", "error", "moved", "blocked"];
   const label: Record<CheckStatus, string> = {
     broken: "Broken (404 or 410): find the page's new address or another source",
-    error: "Errors (timeouts, server errors, DNS): retry later before changing anything",
+    error: "Errors (timeouts, server errors, DNS, TLS): retry later before changing anything. UNABLE_TO_VERIFY_LEAF_SIGNATURE means the server sends an incomplete certificate chain; browsers cope, so check it in one",
     moved: "Moved (redirected to another page): confirm the new page says the same, then cite it",
     blocked: "Blocked (the site refuses automated checks): check these in a browser",
     ok: "",
