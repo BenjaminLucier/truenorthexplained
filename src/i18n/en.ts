@@ -95,6 +95,8 @@ export const en = {
     copyright: (year: number) => `© ${year} Benjamin Lucier.`,
     license: "Text and code licensed under CC BY-SA 4.0",
     licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+    source: "Source and corrections on GitHub",
+    sourceUrl: "https://github.com/BenjaminLucier/truenorthexplained",
   },
   notFound: {
     title: "Page not found",

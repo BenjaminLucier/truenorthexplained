@@ -45,4 +45,8 @@ lawyer.
 
 ## Spotted a mistake?
 
-Corrections are very welcome. <!-- check: add contact / repository link once the site exists -->
+Corrections are very welcome. The site's text and code are public on
+[GitHub](https://github.com/BenjaminLucier/truenorthexplained): open a
+[correction](https://github.com/BenjaminLucier/truenorthexplained/issues/new?template=correction.yml)
+with the page, what's wrong and a source, or suggest the fix yourself in a pull request.
+Everything is licensed under CC BY-SA 4.0, so you're free to reuse it with credit.
