@@ -49,17 +49,8 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
-      - name: Type-check
-        run: pnpm check
-
-      - name: Validate content
-        run: pnpm validate
-
-      - name: Unit tests
-        run: pnpm test
-
-      # Chromium is needed before the build too: Mermaid diagrams are rendered
-      # with headless Chromium at build time (mermaid-isomorphic → playwright).
+      # Chromium is needed from the type-check on: `astro sync` renders Mermaid
+      # diagrams with headless Chromium (mermaid-isomorphic → playwright).
       - name: Read the Playwright version
         id: playwright
         run: echo "version=$(pnpm exec playwright --version | awk '{print $2}')" >> "$GITHUB_OUTPUT"
@@ -79,6 +70,15 @@ jobs:
       - name: Install Chromium's system dependencies
         if: steps.playwright-cache.outputs.cache-hit == 'true'
         run: pnpm exec playwright install-deps chromium
+
+      - name: Type-check
+        run: pnpm check
+
+      - name: Validate content
+        run: pnpm validate
+
+      - name: Unit tests
+        run: pnpm test
 
       # Also builds the Pagefind search index.
       - name: Build
