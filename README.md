@@ -108,6 +108,18 @@ The planning docs explain the content itself:
 - [STYLE.md](STYLE.md): how pages are written and sourced
 - [REVIEW.md](REVIEW.md): what still needs fact-checking
 
+## Contributing
+
+Corrections are the most useful contribution: if something is wrong or out of date,
+[open a correction](https://github.com/BenjaminLucier/truenorthexplained/issues/new?template=correction.yml)
+with a source, or send a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Deploying
+
+Every push to `main` that passes CI is deployed to GitHub Pages by
+`.github/workflows/ci.yml`, which also rebuilds the site every Monday. `public/CNAME`
+sets the custom domain.
+
 ## Licence
 
 © 2026 Benjamin Lucier. Text, code and data in this repository are licensed under

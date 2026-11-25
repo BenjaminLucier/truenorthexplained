@@ -1,0 +1,32 @@
+name: Correction
+description: Something on the site is wrong, out of date or misleading
+labels: [correction]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: The page's address, ideally with the section (copy the link from its heading).
+      placeholder: https://truenorthexplained.ca/...
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: What does the page say?
+      description: Quote the sentence, number or chart.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What should it say?
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: A link a reader can check, preferably a primary source (legislation, a court decision, a government page, Elections Canada, Statistics Canada).
+    validations:
+      required: true

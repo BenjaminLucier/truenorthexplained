@@ -1,0 +1,16 @@
+name: Suggestion
+description: A topic, explanation or feature the site is missing
+labels: [enhancement]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What's missing?
+      description: What were you trying to understand or do?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Idea
+      description: How you imagine it, with sources if it's a topic. Optional.
