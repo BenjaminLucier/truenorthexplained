@@ -30,14 +30,14 @@
     "sources": "tsx scripts/sources.ts"
   },
   "dependencies": {
-    "astro": "7.4.11"
+    "astro": "7.4.13"
   },
   "devDependencies": {
-    "@astrojs/markdown-satteri": "0.4.9",
+    "@astrojs/markdown-satteri": "0.4.10",
     "@astrojs/ts-content-mapper": "^0.2.0",
     "@axe-core/playwright": "^4.14.0",
     "@fontsource-variable/inter": "^5.3.0",
-    "@playwright/test": "^1.65.0",
+    "@playwright/test": "^1.65.1",
     "@tailwindcss/typography": "^0.5.20",
     "@tailwindcss/vite": "^4.3.5",
     "@types/d3-geo": "^3.1.1",
@@ -47,18 +47,18 @@
     "csv-parse": "^7.0.3",
     "d3-geo": "^3.1.2",
     "fflate": "^0.8.3",
-    "lucide-static": "^1.72.0",
-    "mapshaper": "^0.7.101",
+    "lucide-static": "^1.75.0",
+    "mapshaper": "^0.8.5",
     "mermaid-isomorphic": "^3.1.0",
     "pagefind": "^1.6.0",
-    "playwright": "^1.65.0",
+    "playwright": "^1.65.1",
     "satteri": "0.11.7",
     "sharp": "0.35.5",
     "tailwindcss": "^4.3.5",
     "topojson-client": "^3.1.0",
     "tsx": "^4.23.15",
     "typescript": "7.1.0-beta",
-    "vitest": "^5.1.0",
+    "vitest": "^5.1.1",
     "yaml": "^2.9.1"
   },
   "license": "CC-BY-SA-4.0",
